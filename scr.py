@@ -91,6 +91,16 @@ def get_expected_filename(ep_name, arc_name):
     else:
         ep_num = "1"
         
+    # Convert to integer to automatically drop leading zeros (e.g., "01" becomes 1)
+    ep_num_int = int(ep_num)
+    
+    # If the arc is Long Ring Long Land (LR), shift the number down by 1
+    if prefix == "LR":
+        ep_num_int -= 1
+        
+    # Convert back to a string for the filename
+    ep_num = str(ep_num_int)
+        
     return f"{prefix}_{ep_num}.json"
 
 def save_tracker(tracker_data):
