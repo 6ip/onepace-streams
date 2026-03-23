@@ -1,7 +1,12 @@
 {
   "streams": [
     {
-      "infoHash": "7a76ae41f0ec5f223d3b3851fb3a71814262d1c8"
+      "infoHash": "7a76ae41f0ec5f223d3b3851fb3a71814262d1c8",
+      "length": "29:06"
+    },
+    {
+      "infoHash": "7ffbac3cd827eed21309b4c451135564b82029eb",
+      "length": "32:01"
     }
   ]
 }
