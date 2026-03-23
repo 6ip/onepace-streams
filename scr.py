@@ -4,6 +4,7 @@ import json
 import time
 import requests
 import openpyxl
+import datetime
 from bs4 import BeautifulSoup
 
 SHEET_EXPORT_URL = "https://docs.google.com/spreadsheets/d/1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA/export?format=xlsx"
@@ -49,19 +50,31 @@ PREFIX_MAP = {
     "Egghead": "EH"
 }
 
-def download_excel_file(url, filename):
+def download_excel_file(url, filename, max_retries=3):
     print(f"Downloading latest spreadsheet to {filename}...")
-    try:
-        response = requests.get(url, stream=True)
-        response.raise_for_status()
-        with open(filename, 'wb') as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
-        print("Download complete!\n")
-        return True
-    except Exception as e:
-        print(f"Failed to download spreadsheet: {e}")
-        return False
+    
+    for attempt in range(1, max_retries + 1):
+        try:
+            # Added a timeout so it doesn't hang forever if the connection drops
+            response = requests.get(url, stream=True, timeout=20)
+            response.raise_for_status()
+            
+            with open(filename, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    if chunk: # This filters out empty keep-alive chunks that cause errors
+                        f.write(chunk)
+                        
+            print("Download complete!\n")
+            return True
+            
+        except Exception as e:
+            print(f"  [!] Attempt {attempt}/{max_retries} failed: {e}")
+            if attempt < max_retries:
+                print("  [*] Retrying in 3 seconds...")
+                time.sleep(3)
+            else:
+                print("  [-] All attempts to download the spreadsheet failed.")
+                return False
 
 def get_info_hash(nyaa_url):
     try:
@@ -93,10 +106,6 @@ def get_expected_filename(ep_name, arc_name):
         
     # Convert to integer to automatically drop leading zeros (e.g., "01" becomes 1)
     ep_num_int = int(ep_num)
-    
-    # If the arc is Long Ring Long Land (LR), shift the number down by 1
-    if prefix == "LR":
-        ep_num_int -= 1
         
     # Convert back to a string for the filename
     ep_num = str(ep_num_int)
@@ -108,7 +117,6 @@ def save_tracker(tracker_data):
         json.dump(tracker_data, f, indent=2)
 
 def main():
-    # Start the performance timer!
     start_time = time.time()
     new_files_count = 0 
     
@@ -119,6 +127,9 @@ def main():
     if os.path.exists(TRACKER_FILE):
         with open(TRACKER_FILE, 'r') as f:
             tracker_data = json.load(f)
+            for key, val in tracker_data.items():
+                if isinstance(val, str):
+                    tracker_data[key] = [val]
             
     success = download_excel_file(SHEET_EXPORT_URL, LOCAL_EXCEL_FILE)
     if not success:
@@ -127,14 +138,18 @@ def main():
     print("Loading local spreadsheet...")
     workbook = openpyxl.load_workbook(LOCAL_EXCEL_FILE)
     
+    files_to_process = {}
+    episode_lengths = {} # NEW: Changed to a nested dictionary to map filename -> { url: length }
+    
     for target_sheet in PREFIX_MAP.keys():
         if target_sheet not in workbook.sheetnames:
             continue
             
         sheet = workbook[target_sheet]
-        print(f"\n--- Checking Arc: {target_sheet} ---")
+        print(f"\n--- Scanning Arc: {target_sheet} ---")
         
         ep_col_idx, header_row = None, None
+        length_col_indices = [] 
         
         for row in range(1, 10):
             for col in range(1, sheet.max_column + 1):
@@ -142,74 +157,108 @@ def main():
                 if "One Pace Episode" in cell_val: 
                     ep_col_idx = col
                     header_row = row
-                    break
-            if ep_col_idx:
-                break
-                
+                elif "Length" in cell_val: 
+                    length_col_indices.append(col)
+                    
         if not ep_col_idx:
             print(f"  [!] Could not find the Episode Name column. Skipping.")
             continue
 
         for row in range(header_row + 1, sheet.max_row + 1):
             ep_name = sheet.cell(row=row, column=ep_col_idx).value
-            
             if not ep_name:
-                continue
-                
-            if "(G8)" in str(ep_name):
-                print(f"  [~] Ignored {ep_name} (Skipping G8 filler)")
                 continue
             
             filename = get_expected_filename(ep_name, target_sheet)
-            filepath = os.path.join(output_dir, filename)
             
-            nyaa_url = None
+            # 1. Collect ALL lengths for this row in order
+            row_lengths = []
+            for l_col in length_col_indices:
+                val = sheet.cell(row=row, column=l_col).value
+                if val:
+                    if isinstance(val, datetime.time) or isinstance(val, datetime.datetime):
+                        # Detects the timezone bug. If the hour is wildly high (4+), strip it.
+                        if val.hour >= 4:
+                            row_lengths.append(val.strftime("%M:%S"))
+                        elif val.hour > 0:
+                            row_lengths.append(val.strftime("%H:%M:%S"))
+                        else:
+                            row_lengths.append(val.strftime("%M:%S"))
+                    else:
+                        row_lengths.append(str(val).strip())
+
+            if filename not in files_to_process:
+                files_to_process[filename] = []
+                episode_lengths[filename] = {} # Initialize dict for this specific file
+            
+            # 2. Collect ALL target URLs for this row in order
+            row_urls = []
             for col in range(1, sheet.max_column + 1):
                 if col == ep_col_idx: 
                     continue 
-                    
                 cell = sheet.cell(row=row, column=col)
+                target = None
                 
                 if cell.hyperlink and cell.hyperlink.target:
                     target = cell.hyperlink.target
-                    if "nyaa.si" in target or "magnet:" in target:
-                        nyaa_url = target
-                        break
-                        
-                if cell.value and isinstance(cell.value, str) and 'HYPERLINK' in cell.value:
+                elif cell.value and isinstance(cell.value, str) and 'HYPERLINK' in cell.value:
                     match = re.search(r'HYPERLINK\("([^"]+)"', cell.value)
                     if match:
                         target = match.group(1)
-                        if "nyaa.si" in target or "magnet:" in target:
-                            nyaa_url = target
-                            break
+                        
+                if target and ("nyaa.si" in target or "magnet:" in target):
+                    if target not in row_urls:
+                        row_urls.append(target)
 
-            if not nyaa_url:
-                print(f"  [-] No Nyaa link found for {ep_name}")
-                continue
+            # 3. Pair the URLs to their respective lengths by matching their positions
+            for idx, url in enumerate(row_urls):
+                if url not in files_to_process[filename]:
+                    files_to_process[filename].append(url)
+                    
+                    # If there's a 2nd URL, give it the 2nd length. If missing, fallback to 1st length or empty string.
+                    assigned_length = row_lengths[idx] if idx < len(row_lengths) else (row_lengths[0] if len(row_lengths) > 0 else "")
+                    episode_lengths[filename][url] = assigned_length
 
-            if tracker_data.get(filename) == nyaa_url and os.path.exists(filepath):
-                print(f"  [~] Skipped {filename} (Already up-to-date)")
-                continue
-                
-            print(f"  [*] Processing {filename} (New or Updated!)")
+    print("\n--- Processing Streams & Saving JSONs ---")
+    
+    for filename, nyaa_urls in files_to_process.items():
+        if not nyaa_urls:
+            continue
             
-            info_hash = get_info_hash(nyaa_url)
+        filepath = os.path.join(output_dir, filename)
+        
+        if tracker_data.get(filename) == nyaa_urls and os.path.exists(filepath):
+            print(f"  [~] Skipped {filename} (Already up-to-date)")
+            continue
+            
+        print(f"  [*] Processing {filename} (Found {len(nyaa_urls)} stream(s)!)")
+        
+        streams = []
+        for url in nyaa_urls:
+            info_hash = get_info_hash(url)
             if info_hash:
-                data = {"streams": [{"infoHash": info_hash}]}
-                with open(filepath, 'w') as f:
-                    json.dump(data, f, indent=2)
+                # 4. Inject the SPECIFIC length tied to this exact URL
+                url_length = episode_lengths.get(filename, {}).get(url, "")
                 
-                tracker_data[filename] = nyaa_url
-                save_tracker(tracker_data)
-                
-                print(f"  [+] Saved {filename}")
-                new_files_count += 1
+                streams.append({
+                    "infoHash": info_hash, 
+                    "length": url_length
+                })
                 time.sleep(1) 
-            else:
-                print(f"  [-] Failed to get infoHash for {filename}")
+        
+        if streams:
+            data = {"streams": streams}
+            with open(filepath, 'w') as f:
+                json.dump(data, f, indent=2)
+            
+            tracker_data[filename] = nyaa_urls
+            save_tracker(tracker_data)
+            
+            print(f"  [+] Saved {filename}")
+            new_files_count += 1
+        else:
+            print(f"  [-] Failed to get any infoHashes for {filename}")
 
-    # Calculate final performance
     end_time = time.time()
     total_time = round(end_time - start_time, 2)
     
