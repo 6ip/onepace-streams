@@ -26,7 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Scraper Script
-        run: python scr.py
+        run: python -u scr.py
 
       - name: Commit and Push changes
         run: |
@@ -36,5 +36,5 @@ jobs:
           # Tell git to add the 'stream' folder and the tracker
           git add stream/ tracker.json
           
-          # This line checks if any files changed. If they did, it commits and pushes them.
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace streams" && git push)
+          # Commit, PULL the newest changes from your local force-push, and THEN push!
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace streams" && git pull --rebase origin main && git push)
