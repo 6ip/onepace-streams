@@ -177,13 +177,8 @@ def main():
                 val = sheet.cell(row=row, column=l_col).value
                 if val:
                     if isinstance(val, datetime.time) or isinstance(val, datetime.datetime):
-                        # Detects the timezone bug. If the hour is wildly high (4+), strip it.
-                        if val.hour >= 4:
-                            row_lengths.append(val.strftime("%M:%S"))
-                        elif val.hour > 0:
-                            row_lengths.append(val.strftime("%H:%M:%S"))
-                        else:
-                            row_lengths.append(val.strftime("%M:%S"))
+                        # Always format as MM:SS to completely bypass the fake hour/timezone bug
+                        row_lengths.append(val.strftime("%M:%S"))
                     else:
                         row_lengths.append(str(val).strip())
 
