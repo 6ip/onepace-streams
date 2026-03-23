@@ -2,8 +2,7 @@ name: Update One Pace Streams
 
 on:
   schedule:
-    # This runs automatically every Sunday at midnight (UTC)
-    - cron: '0 0 * * 0'
+    - cron: '0 */1 * * *'
   workflow_dispatch: # This adds a button so you can run it manually anytime!
 
 jobs:
@@ -27,7 +26,6 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Scraper Script
-        # NOTE: Change 'scr.py' to whatever your python file is actually named!
         run: python scr.py
 
       - name: Commit and Push changes
@@ -35,7 +33,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # CHANGED HERE: Tell git to add the 'stream' folder instead of 'meta'
+          # Tell git to add the 'stream' folder and the tracker
           git add stream/ tracker.json
           
           # This line checks if any files changed. If they did, it commits and pushes them.
