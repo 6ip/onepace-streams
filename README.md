@@ -26,4 +26,6 @@ Open Stremio, head to your **Board** (Homepage), scroll down to the **One Pace**
 ---
 
 ### 📊 Behind the Scenes: Always Up to Date
-To ensure you never miss a new release, the stream data powering this add-on is entirely automated. A bot checks the [Official One Pace Release Spreadsheet](https://docs.google.com/spreadsheets/d/1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA/edit) every single hour. If the One Pace team drops a new episode, it gets automatically synced and pushed directly to your Stremio catalog!
+[Official OnePaceStremio](https://github.com/fedew04/OnePaceStremio)
+[Official One Pace Release Spreadsheet](https://docs.google.com/spreadsheets/d/1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA/edit)
+[Episode Descriptions](https://docs.google.com/spreadsheets/d/1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM/edit?usp=sharing)
