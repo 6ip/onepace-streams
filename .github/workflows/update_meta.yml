@@ -1,0 +1,42 @@
+name: Update One Pace Meta
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs at minute 0 past every 6th hour
+  workflow_dispatch: # Adds the button to run it manually!
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the bot to push code back to your repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # epis.py uses built-in libraries, so it doesn't strictly need requirements,
+      # but we'll leave this here just in case you add dependencies later!
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run Metadata Script
+        run: python -u epis.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add the generated JSON (checking both root and meta folder just in case)
+          git add pp_onepace.json meta/pp_onepace.json || true
+          
+          # Commit, pull the newest changes, and push!
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace meta descriptions" && git pull --rebase origin main && git push)
