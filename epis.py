@@ -50,6 +50,7 @@ ARC_PREFIXES = {
     "reverie": "REV",
     "wano": "WA",
     "egghead": "EH"
+    #"elbaf": "EL" # <--- You would just add the new one here # For new seasons (3 changes)!
 }
 
 def clean_string(s):
@@ -129,6 +130,7 @@ def main():
     ]
 
     # Generate Seasons Array (1 to 33)
+    # For new seasons: # Change range(1, 34) to range(1, 35) to include season 34
     seasons_array = []
     for i in range(1, 34):
         s_padded = str(i).zfill(2)
@@ -145,6 +147,7 @@ def main():
         season_num = video.get("season")
 
         # Set Thumbnail
+        # For new seasons: # Change 33 to 34
         if season_num and 1 <= season_num <= 33:
             s_padded = str(season_num).zfill(2)
             video["thumbnail"] = f"https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s{s_padded}.jpg&w=1280&h=720&fit=cover&a=center"
