@@ -4,11 +4,23 @@
             "type": "series",
             "id": "pp_onepace",
             "name": "One Pace",
-            "poster": "https://i.pinimg.com/originals/eb/85/c4/eb85c4376b474030b80afa80ad1cd13a.jpg",
+            "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster.jpg",
+            "background": "https://image.tmdb.org/t/p/original/iN5LKyvyWUWwqbjaQfKFXoo8mch.jpg",
+            "logo": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/logo.png",
+            "description": "Experience One Piece without the filler. This manga-accurate cut removes padded scenes, saving you hundreds of hours while staying true to Oda's original vision.",
             "genres": [
-                "Adventure",
-                "Fantasy"
-            ]
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "cast": [
+                "Mayumi Tanaka",
+                "Akemi Okamura",
+                "Tony Beck"
+            ],
+            "releaseInfo": "1999-",
+            "year": "1999-",
+            "imdbRating": "9.0"
         }
     ]
 }
