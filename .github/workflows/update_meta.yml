@@ -35,8 +35,8 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Add the generated JSON (checking both root and meta folder just in case)
-          git add pp_onepace.json meta/pp_onepace.json || true
+          # Tell git to ONLY add the file in the meta folder
+          git add meta/pp_onepace.json
           
           # Commit, pull the newest changes, and push!
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace meta descriptions" && git pull --rebase origin main && git push)
