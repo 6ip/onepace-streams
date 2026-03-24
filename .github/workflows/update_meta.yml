@@ -2,7 +2,7 @@ name: Update One Pace Meta
 
 on:
   schedule:
-    - cron: '30 */6 * * *' 
+    - cron: '30 */6 * * *' # Runs at minute 30 past every 6th hour 
   workflow_dispatch: # Adds the button to run it manually!
 
 jobs:
