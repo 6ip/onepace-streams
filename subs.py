@@ -95,7 +95,7 @@ def main():
                 break 
                 
         # Generate a unique ID
-        safe_lang_suffix = raw_lang_str.strip().replace(' ', '_')
+        safe_lang_suffix = raw_lang_str.strip().replace(' ', '_').lower()
         if not safe_lang_suffix:
             safe_lang_suffix = "eng"
         unique_sub_id = f"{stremio_id}_{safe_lang_suffix}"
@@ -105,7 +105,16 @@ def main():
 
         if stremio_id not in subtitles_dict:
             subtitles_dict[stremio_id] = []
-
+            
+        # --- NEW: Prevent duplicate IDs if both "He" and "he" files exist ---
+        existing_ids = [sub["id"] for sub in subtitles_dict[stremio_id]]
+        original_unique_id = unique_sub_id
+        counter = 2
+        
+        while unique_sub_id in existing_ids:
+            unique_sub_id = f"{original_unique_id}_{counter}"
+            counter += 1
+        # --------------------------------------------------------------------
         subtitles_dict[stremio_id].append({
             "id": unique_sub_id,
             "url": raw_url,
