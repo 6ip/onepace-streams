@@ -25,9 +25,11 @@ ARC_MAP = {
 
 # Map file languages to Stremio's standard 3-letter ISO codes
 LANG_MAP = {
-    "ar": "ara", "cs": "cze", "cz": "cze", "de": "ger", "en": "eng", "en cc": "eng",
+    "ar": "ara", "cs": "cze", "cz": "cze", "de": "ger", "en": "eng", 
+    "en cc": "eng", "en-cc": "eng", "en_cc": "eng", # Added hyphen/underscore support
     "es": "spa", "fi": "fin", "fr": "fre", "he": "heb", "it": "ita", "pl": "pol",
-    "pt": "por", "ptbr": "por", "ru": "rus", "tr": "tur", "id": "ind", "nl": "dut", "vi": "vie",
+    "pt": "por", "ptbr": "por", "pt-br": "por", "pt_br": "por", # Added pt-br variations
+    "ru": "rus", "tr": "tur", "id": "ind", "nl": "dut", "vi": "vie",
     "ja": "jpn", "typesetting": "eng"
 }
 
