@@ -5000,6 +5000,11 @@
             "id": "EN_1_es",
             "url": "https://cdn.jsdelivr.net/gh/one-pace/one-pace-public-subtitles@main/main/17%20Enies%20Lobby/01/enieslobby%2001%20es.ass",
             "lang": "spa"
+        },
+        {
+            "id": "EN_1_tr",
+            "url": "https://cdn.jsdelivr.net/gh/one-pace/one-pace-public-subtitles@main/main/17%20Enies%20Lobby/01/enieslobby%2001%20tr.ass",
+            "lang": "tur"
         }
     ],
     "EN_2": [
