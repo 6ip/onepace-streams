@@ -114,7 +114,12 @@ def main():
 
     print(f"[+] Processed {len(subtitles_dict)} episodes with subtitles.")
     os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
-
+    
+    # --- NEW: Sort the subtitles alphabetically by their 3-letter lang code! ---
+    for ep_id in subtitles_dict:
+        subtitles_dict[ep_id].sort(key=lambda x: x["lang"])
+    # --------------------------------------------------------------------------
+    
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(subtitles_dict, f, indent=4, ensure_ascii=False)
     
