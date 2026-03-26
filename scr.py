@@ -2,6 +2,7 @@ import os
 import re
 import json
 import time
+import random
 import requests
 import openpyxl
 import datetime
@@ -41,55 +42,78 @@ def download_excel_file(url, filename, max_retries=3):
                 print("  [-] All attempts to download the spreadsheet failed.")
                 return False
 
-# --- NEW: Now safely searches the File List line-by-line! ---
-def get_torrent_data(nyaa_url, expected_ep_num):
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-        response = requests.get(nyaa_url, headers=headers, timeout=10)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        info_hash = None
-        torrent_filename = "Unknown Title"
-
-        # 1. Grab the Magnet Hash
-        magnet_tag = soup.find('a', href=re.compile(r'^magnet:\?xt=urn:btih:'))
-        if magnet_tag:
-            match = re.search(r'urn:btih:([a-zA-Z0-9]{40})', magnet_tag['href'])
-            if match:
-                info_hash = match.group(1).lower()
-
-        # 2. Grab the Default Filename from the page title (Used as a fallback)
-        title_tag = soup.find('title')
-        if title_tag:
-            raw_title = title_tag.text
-            torrent_filename = raw_title.replace(" :: Nyaa", "").strip()
-
-        # 3. MAGIC: Dig into the Nyaa File List for the exact .mkv file line-by-line!
-        file_list_div = soup.find('div', class_=re.compile('torrent-file-list'))
-        if file_list_div:
-            ep_padded = str(expected_ep_num).zfill(2) # "1" becomes "01"
+# --- NEW: Upgraded with Retry Logic to respect Nyaa's rate limits ---
+def get_torrent_data(nyaa_url, expected_ep_num, max_retries=3):
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    
+    for attempt in range(1, max_retries + 1):
+        try:
+            # Increased timeout slightly to 15 seconds to give Nyaa time to respond
+            response = requests.get(nyaa_url, headers=headers, timeout=15)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'html.parser')
             
-            # FIX: Split the HTML block into clean, individual lines so they don't clump together!
-            lines = file_list_div.get_text(separator='\n').split('\n')
-            
-            for line in lines:
-                text = line.strip()
-                # If this specific line is a video file...
-                if ".mkv" in text or ".mp4" in text:
-                    # Clean out the file size from the text (e.g., "(379.3 MiB)")
-                    clean_file = re.sub(r'\s*\([^)]*\)$', '', text).strip()
-                    
-                    # Look for either "01" or "1" as a standalone word
-                    if re.search(rf'\b{ep_padded}\b|\b{expected_ep_num}\b', clean_file):
-                        torrent_filename = clean_file
-                        break # Found it! Stop searching the list.
+            info_hash = None
+            torrent_filename = "Unknown Title"
 
-        if info_hash:
-            return info_hash, torrent_filename
+            # 1. Grab the Magnet Hash
+            magnet_tag = soup.find('a', href=re.compile(r'^magnet:\?xt=urn:btih:'))
+            if magnet_tag:
+                match = re.search(r'urn:btih:([a-zA-Z0-9]{40})', magnet_tag['href'])
+                if match:
+                    info_hash = match.group(1).lower()
 
-    except Exception as e:
-        print(f"  [!] Error connecting to Nyaa: {e}")
+            # 2. Grab the Default Filename
+            title_tag = soup.find('title')
+            if title_tag:
+                raw_title = title_tag.text
+                torrent_filename = raw_title.replace(" :: Nyaa", "").strip()
+
+            # 3. MAGIC: Dig into the Nyaa File List
+            file_list_div = soup.find('div', class_=re.compile('torrent-file-list'))
+            if file_list_div:
+                ep_padded = str(expected_ep_num).zfill(2)
+                lines = file_list_div.get_text(separator='\n').split('\n')
+                
+                video_files = []
+                for line in lines:
+                    text = line.strip()
+                    if ".mkv" in text or ".mp4" in text:
+                        clean_file = re.sub(r'\s*\([^)]*\)$', '', text).strip()
+                        video_files.append(clean_file)
+                
+                if video_files:
+                    if len(video_files) == 1:
+                        torrent_filename = video_files[0]
+                    else:
+                        matched = False
+                        for vf in video_files:
+                            if re.search(rf'\b{ep_padded}\b|\b{expected_ep_num}\b', vf):
+                                torrent_filename = vf
+                                matched = True
+                                break
+                        
+                        if not matched:
+                            ep_index = int(expected_ep_num) - 1
+                            if 0 <= ep_index < len(video_files):
+                                torrent_filename = video_files[ep_index]
+                            else:
+                                torrent_filename = video_files[0]
+
+            if info_hash:
+                return info_hash, torrent_filename
+
+        # If Nyaa drops the connection, catch the error here!
+        except requests.exceptions.RequestException as e:
+            print(f"  [!] Nyaa timeout on attempt {attempt}/{max_retries}. Error: {e}")
+            if attempt < max_retries:
+                # Sleep for 3 to 6 seconds before trying again to let Nyaa cool down
+                cooldown = random.uniform(3, 6)
+                print(f"  [*] Cooling down for {round(cooldown, 1)} seconds before retrying...")
+                time.sleep(cooldown)
+            else:
+                print(f"  [-] Completely failed to fetch {nyaa_url} after {max_retries} attempts.")
+                
     return None, None
 
 def get_expected_filename(ep_name, arc_name):
@@ -237,7 +261,7 @@ def main():
                     "filename": torrent_filename, 
                     "length": url_length
                 })
-                time.sleep(1) 
+                time.sleep(random.uniform(1, 3)) 
         
         if streams:
             data = {"streams": streams}
