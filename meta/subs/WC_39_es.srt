@@ -1,702 +1,706 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:38,510 --> 00:01:41,990
 ISLA ESPONJOSA
 
-2
+3
 00:02:26,230 --> 00:02:29,480
 ISLA CACAO
 
-3
+4
 00:03:24,840 --> 00:03:26,130
 ¿Estás seguro?
 
-4
+5
 00:03:26,130 --> 00:03:29,870
 ¡Es el barco legendario 
 que fabricó Fisher Tiger!
 
-5
+6
 00:03:29,870 --> 00:03:31,210
 ¡No importa!
 
-6
+7
 00:03:31,210 --> 00:03:32,750
 ¡Muy bien!
 
-7
+8
 00:03:32,750 --> 00:03:33,730
 ¡Deprisa!
 
-8
+9
 00:03:33,730 --> 00:03:34,700
 ¡No hay tiempo!
 
-9
+10
 00:03:42,720 --> 00:03:44,680
 ¡Ay, ay, ay!
 
-10
+11
 00:03:54,650 --> 00:03:55,950
 ¿Qué? ¿Qué?
 
-11
+12
 00:04:04,500 --> 00:04:05,920
 ¡Nos comerá!
 
-12
+13
 00:04:07,470 --> 00:04:09,380
 ¡Resistan un momento!
 
-13
+14
 00:04:09,380 --> 00:04:11,110
 ¿Qué?
 
-14
+15
 00:04:11,110 --> 00:04:13,470
 ¿Dónde estamos?
 
-15
+16
 00:04:13,470 --> 00:04:15,800
 ¡Estamos en la boca de Wadatsumi!
 
-16
+17
 00:04:18,710 --> 00:04:19,720
 ¡Huyamos!
 
-17
+18
 00:04:57,400 --> 00:05:02,110
 Mola
 
-18
+19
 00:04:57,400 --> 00:05:02,110
 Shi
 
-19
+20
 00:04:57,400 --> 00:05:02,110
 Chibukai
 
-20
+21
 00:04:57,400 --> 00:05:02,110
 Fansub!
 
-21
+22
 00:04:57,400 --> 00:05:02,110
 Torpedo de mar incandescente.
 
-22
+23
 00:06:32,680 --> 00:06:37,270
 ¡Mamá siempre mata 
 a quien quiera marcharse!
 
-23
+24
 00:06:41,300 --> 00:06:43,820
 Eso significa que hay
  algo que debemos hacer...
 
-24
+25
 00:06:43,820 --> 00:06:47,470
 ¡¿Ser el escudo del Capitán Jinbe y morir?!
 
-25
+26
 00:06:48,620 --> 00:06:50,180
 ¡Morir todos sería mala idea!
 
-26
+27
 00:06:50,180 --> 00:06:51,940
 ¡Alguien debe contar nuestras hazañas!
 
-27
+28
 00:06:51,940 --> 00:06:53,620
 ¡Ni cómo decirte que no!
 
-28
+29
 00:06:56,330 --> 00:06:58,650
 ¡No los culparé si quieren huir!
 
-29
+30
 00:06:58,650 --> 00:07:02,010
 ¡Quienes me sigan prepárense
  para las consecuencias!
 
-30
+31
 00:07:04,470 --> 00:07:09,620
 ¡No permitiremos que impidan 
 el inicio de la nueva travesía de Jinbe!
 
-31
+32
 00:14:50,210 --> 00:14:55,170
 ¡Cuando un gyojin lucha en serio,
  puede cambiar las corrientes marinas!
 
-32
+33
 00:16:58,000 --> 00:17:00,160
 ¡Soy Pedro!
 
-33
+34
 00:17:00,160 --> 00:17:01,420
 ¡Ayúdennos, por favor!
 
-34
+35
 00:17:02,250 --> 00:17:04,010
 ¡Trátenlos de inmediato!
 
-35
+36
 00:17:04,010 --> 00:17:06,350
 ¡Van a morir!
 
-36
+37
 00:17:07,490 --> 00:17:10,520
 ¡El mundo los está esperando!
 
-37
+38
 00:17:11,310 --> 00:17:13,310
 ¡Esos dos hombres...
 
-38
+39
 00:17:15,850 --> 00:17:19,150
 ...jamás, jamás...
 
-39
+40
 00:17:19,150 --> 00:17:22,410
 ...deben morir!
 
-40
+41
 00:17:27,860 --> 00:17:30,360
 Por haber venido a rescatarme...
 
-41
+42
 00:17:30,360 --> 00:17:32,540
 No era aquí donde se 
 suponía que ibas a morir.
 
-42
+43
 00:19:53,960 --> 00:19:57,780
 ¡Mamá ha vuelto!
 
-43
+44
 00:22:35,550 --> 00:22:38,230
 Oigan, ¿qué pasó con los Sombrero de Paja?
 
-44
+45
 00:22:38,230 --> 00:22:40,420
 ¡Nuestra unidad de persecución no responde!
 
-45
+46
 00:22:40,420 --> 00:22:42,880
 ¡Creo que los han perdido!
 
-46
+47
 00:22:42,880 --> 00:22:44,240
 ¡Idiota!
 
-47
+48
 00:22:44,240 --> 00:22:48,280
 ¡No podremos alcanzarlos 
 si dejan el territorio!
 
-48
+49
 00:22:52,770 --> 00:22:58,820
 Pudding, haz lo de siempre y usa tus habilidades actorales para hacer que se enamore de ti.
 
-49
+50
 00:22:58,820 --> 00:23:00,690
 ¡Eso es pan comido, mamá!
 
-50
+51
 00:23:01,380 --> 00:23:05,050
 Eres una muñeca, Pudding.
 
-51
+52
 00:23:05,050 --> 00:23:07,820
 Una muñeca que yo controlo.
 
-52
+53
 00:23:10,580 --> 00:23:12,030
 Mamá...
 
-53
+54
 00:23:12,030 --> 00:23:14,100
 No soy una muñeca.
 
-54
+55
 00:23:16,930 --> 00:23:19,650
 Casémonos mañana.
 
-55
+56
 00:23:19,650 --> 00:23:21,010
 No digas tonterías.
 
-56
+57
 00:23:21,010 --> 00:23:24,120
 ¡Seguro que al igual que los demás
  en cuanto sepas cómo soy...!
 
-57
+58
 00:23:24,810 --> 00:23:28,260
 Eres mi hija, pero qué repugnante.
 
-58
+59
 00:23:28,260 --> 00:23:29,260
 ¡Es un monstruo!
 
-59
+60
 00:23:30,060 --> 00:23:31,860
 "Casémonos".
 
-60
+61
 00:23:31,860 --> 00:23:33,180
 ¡Idéntica, idéntica!
 
-61
+62
 00:23:33,800 --> 00:23:34,820
 ¡Qué repugnante!
 
-62
+63
 00:23:34,820 --> 00:23:35,870
 ¡Miren!
 
-63
+64
 00:23:35,870 --> 00:23:36,870
 ¡Es un monstruo!
 
-64
+65
 00:23:36,870 --> 00:23:38,310
 ¡No lo hagas!
 
-65
+66
 00:23:40,920 --> 00:23:44,130
 Nadie me amará.
 
-66
+67
 00:23:44,130 --> 00:23:46,780
 Porque soy un monstruo repugnante.
 
-67
+68
 00:23:46,780 --> 00:23:50,860
 ¡Seguro que al igual que los demás
  en cuanto sepas cómo soy...!
 
-68
+69
 00:23:52,320 --> 00:23:54,760
 ¡Mira muy bien, Sanji...
 
-69
+70
 00:23:54,760 --> 00:23:56,370
 ...este repugnante...
 
-70
+71
 00:23:57,000 --> 00:23:59,040
 ...tercer ojo!
 
-71
+72
 00:24:04,650 --> 00:24:07,670
 ¡Qué ojo tan hermoso!
 
-72
+73
 00:24:10,210 --> 00:24:11,090
 ¿Eh?
 
-73
+74
 00:24:14,240 --> 00:24:15,060
 ¡Muy bien!
 
-74
+75
 00:24:15,510 --> 00:24:17,410
 ¡Empecemos a cocinar!
 
-75
+76
 00:24:20,410 --> 00:24:25,350
 ¡Pero me alegra que tú 
 hayas sido mi prometida!
 
-76
+77
 00:24:32,120 --> 00:24:34,100
 ¡Pudding-chan!
 
-77
+78
 00:24:34,100 --> 00:24:36,800
 ¡O-Oye, Sanji...
 
-78
+79
 00:24:36,800 --> 00:24:38,330
 ...-san!
 
-79
+80
 00:24:40,290 --> 00:24:42,250
 ¡¿Me haces un favor?!
 
-80
-00:24:47,000 --> 00:24:48,210
-¡¿ME HACES UN FAVOR?!
-
 81
 00:24:47,000 --> 00:24:48,210
-UN ÚLTIMO...
+¡¿ME HACES UN FAVOR?!
 
 82
-00:24:48,210 --> 00:24:48,250
-¡¿ME HACES UN FAVOR?!
+00:24:47,000 --> 00:24:48,210
+UN ÚLTIMO...
 
 83
 00:24:48,210 --> 00:24:48,250
-UN ÚLTIMO...
+¡¿ME HACES UN FAVOR?!
 
 84
-00:24:48,250 --> 00:24:50,960
-¡¿ME HACES UN FAVOR?!
+00:24:48,210 --> 00:24:48,250
+UN ÚLTIMO...
 
 85
 00:24:48,250 --> 00:24:50,960
-UN ÚLTIMO...
+¡¿ME HACES UN FAVOR?!
 
 86
+00:24:48,250 --> 00:24:50,960
+UN ÚLTIMO...
+
+87
 00:25:25,870 --> 00:25:25,920
 GRACIAS...
 
-87
+88
 00:25:25,920 --> 00:25:28,380
 GRACIAS...
 
-88
+89
 00:25:28,380 --> 00:25:28,420
 GRACIAS...
 
-89
+90
 00:25:28,420 --> 00:25:30,280
 GRACIAS...
 
-90
+91
 00:25:30,280 --> 00:25:32,010
 ADIÓS...
 
-91
+92
 00:24:45,420 --> 00:24:50,960
 m -21 -19 l 23 -14 l 26 12 l -17 17 l -21 -40
 
-92
+93
 00:25:25,870 --> 00:25:32,010
 m -21 -14 l 19 -14 l 19 16 l -21 16 l -21 -14
 
-93
+94
 00:25:40,530 --> 00:25:41,430
 ¡¿Pudding-chan?!
 
-94
+95
 00:25:42,670 --> 00:25:45,330
 Ese último favor que decías...
 
-95
+96
 00:25:45,330 --> 00:25:47,020
 ¿Cuál era?
 
-96
+97
 00:26:19,000 --> 00:26:22,040
 ¡Parece que había una babosa de mar
  territorial cerca de la frontera del territorio!
 
-97
+98
 00:26:23,490 --> 00:26:24,960
 Nos informa que ha pasado un barco.
 
-98
+99
 00:26:24,960 --> 00:26:27,610
 ¡El barco de los Sombrero de Paja
  ha dejado nuestro territorio!
 
-99
+100
 00:27:52,520 --> 00:27:56,830
 Katakuri, si escondes tu boca, 
 podrás hacer amigos.
 
-100
+101
 00:27:56,830 --> 00:27:57,950
 ¡No quiero ninguno!
 
-101
+102
 00:27:57,950 --> 00:27:59,080
 ¡Así soy yo!
 
-102
+103
 00:27:59,080 --> 00:28:00,770
 ¡Le patearé el trasero al que se ría!
 
-103
+104
 00:28:00,770 --> 00:28:02,440
 ¡Un pez pelícano!
 
-104
+105
 00:28:03,900 --> 00:28:05,440
 ¡Allí viene el pez pelícano!
 
-105
+106
 00:28:07,960 --> 00:28:09,700
 ¡Les patearé el trasero!
 
-106
+107
 00:28:20,270 --> 00:28:21,640
 ¡Oh, no!
 
-107
+108
 00:28:21,640 --> 00:28:22,190
 ¡Deprisa!
 
-108
+109
 00:28:22,190 --> 00:28:23,210
 ¿Por qué rayos pasó eso?
 
-109
+110
 00:28:23,210 --> 00:28:24,110
 ¿Qué sucedió?
 
-110
+111
 00:28:24,110 --> 00:28:24,920
 ¿Eh?
 
-111
+112
 00:28:25,940 --> 00:28:27,070
 ¿Qué ocurre?
 
-112
+113
 00:28:27,070 --> 00:28:28,070
 ¡Es terrible!
 
-113
+114
 00:28:28,070 --> 00:28:29,690
 ¡Brûlée está seriamente herida!
 
-114
+115
 00:28:29,690 --> 00:28:30,220
 ¿Qué?
 
-115
+116
 00:28:30,220 --> 00:28:31,510
 ¡Brûlée!
 
-116
+117
 00:28:33,900 --> 00:28:35,090
 ¿Qué...
 
-117
+118
 00:28:35,090 --> 00:28:36,240
 ...ha pasado?
 
-118
+119
 00:28:37,790 --> 00:28:39,480
 No es nada...
 
-119
+120
 00:28:39,480 --> 00:28:41,620
 ¡¿Cómo que no fue nada?!
 
-120
+121
 00:28:41,620 --> 00:28:42,370
 ¡Habla!
 
-121
+122
 00:28:42,370 --> 00:28:43,810
 ¿Qué ha pasado?
 
-122
+123
 00:28:43,810 --> 00:28:47,870
 ¡Los tipos a los que derrotaste
  se han vengado, Katakuri!
 
-123
+124
 00:28:47,870 --> 00:28:49,380
 ¡¿Se han vengado?!
 
-124
+125
 00:28:49,380 --> 00:28:50,580
 ¡¿Con mi hermana?!
 
-125
+126
 00:28:50,580 --> 00:28:51,880
 ¡¿Por qué?!
 
-126
+127
 00:28:51,880 --> 00:28:54,230
 ¡¿Por qué tenían que atacar a mi hermana?!
 
-127
+128
 00:29:00,080 --> 00:29:02,090
 Hermanito...
 
-128
+129
 00:29:02,090 --> 00:29:03,770
 No me...
 
-129
+130
 00:29:03,770 --> 00:29:05,900
 ...duele...
 
-130
+131
 00:29:05,900 --> 00:29:09,710
 Eres perfecto tal y como eres, hermanito.
 
-131
+132
 00:29:12,750 --> 00:29:13,990
 ¡Tonta!
 
-132
+133
 00:29:13,990 --> 00:29:15,250
 ¡Yo...!
 
-133
+134
 00:29:18,440 --> 00:29:20,700
 Por culpa mía, Brûlée...
 
-134
+135
 00:29:24,430 --> 00:29:26,460
 ¡Fui muy ingenuo!
 
-135
+136
 00:29:26,460 --> 00:29:28,570
 ¡Has venido, Katakuri!
 
-136
+137
 00:29:29,800 --> 00:29:30,900
 Te estábamos esperando.
 
-137
+138
 00:29:30,900 --> 00:29:31,900
 ¿Eh?
 
-138
+139
 00:29:31,900 --> 00:29:33,570
 ¿Qué tienes en el cuello?
 
-139
+140
 00:29:34,560 --> 00:29:37,740
 ¡¿Cómo se atreven a lastimar
  el rostro de mi hermana?!
 
-140
+141
 00:29:38,580 --> 00:29:41,200
 ¡No volveré a descuidarme!
 
-141
+142
 00:29:44,570 --> 00:29:48,650
 ¡Les mostraré lo que 
 es el verdadero miedo!
 
-142
+143
 00:32:53,530 --> 00:33:01,050
 Cargando con los deseos de los Piratas del Sol, 
 el Germa 66 y de aquellos que perdieron la vida,
 
-143
+144
 00:33:01,050 --> 00:33:07,930
 los Sombrero de Paja por fin consiguen dejar los dominios de Big Mom, la Yonkou.
 
-144
+145
 00:33:41,570 --> 00:33:45,630
 Al mismo tiempo, en el East Blue...
 
-145
+146
 00:33:48,180 --> 00:33:53,180
 BARATIE - RESTAURANTE MARINO
 
-146
+147
 00:34:01,980 --> 00:34:06,240
 ¡Comida, comida!
 
-147
+148
 00:00:05,600 --> 00:00:09,050
 ¡Sí, tenemos superpoderes!
 
-148
+149
 00:00:11,060 --> 00:00:14,510
 ¡Sí, tenemos superpoderes!
 
-149
+150
 00:00:16,440 --> 00:00:19,890
 ¡Sí, tenemos superpoderes!
 
-150
+151
 00:00:21,980 --> 00:00:25,320
 ¡Sí, tenemos superpoderes!
 
-151
+152
 00:00:25,320 --> 00:00:28,000
 Tu sueño es de un tamaño monstruoso.
 
-152
+153
 00:00:28,000 --> 00:00:30,710
 Cuando se rompa la prisión de tu pecho...
 
-153
+154
 00:00:30,710 --> 00:00:33,220
 ...adéntrate al paraíso...
 
-154
+155
 00:00:33,220 --> 00:00:35,040
 ...que lleva escrito "vete al infierno".
 
-155
+156
 00:00:35,040 --> 00:00:36,000
 En todo momento...
 
-156
+157
 00:00:36,000 --> 00:00:37,750
 ¡Peligroso, peligroso!
 
-157
+158
 00:00:37,750 --> 00:00:38,610
 ¡Nos gusta!
 
-158
+159
 00:00:38,610 --> 00:00:40,660
 ¡Grave, grave!
 
-159
+160
 00:00:40,660 --> 00:00:41,710
 ¡Oh!
 
-160
+161
 00:00:41,710 --> 00:00:45,900
 Este sueño malherido algún día...
 
-161
+162
 00:00:45,900 --> 00:00:51,310
 ...se convertirá en uno de mis valiosos tesoros.
 
-162
+163
 00:00:51,310 --> 00:00:55,070
 Un extraño entusiasmo une a los compañeros.
 
-163
+164
 00:00:55,070 --> 00:01:00,670
 ¿Vivir plenamente es una aventura?
 
-164
+165
 00:01:00,670 --> 00:01:03,100
 ¡Sí, tenemos superpoderes!
 
-165
+166
 00:01:03,100 --> 00:01:08,820
 Confiemos en el mayor de los sueños y en los lazos con los rivales.
 
-166
+167
 00:01:08,820 --> 00:01:11,630
 Fallar también tiene su encanto.
 
-167
+168
 00:01:11,630 --> 00:01:14,570
 ¡Sí, tenemos superpoderes!
 
-168
+169
 00:01:16,410 --> 00:01:19,740
 ¡Sí, somos superpoderosos!
 
-169
+170
 00:01:21,880 --> 00:01:25,160
 ¡Sí, somos superpoderosos!
 
-170
+171
 00:01:27,330 --> 00:01:30,660
 ¡Sí, somos superpoderosos!
 
-171
+172
 00:01:32,750 --> 00:01:36,160
 ¡Sí, somos superpoderosos!
-

@@ -1,1667 +1,1667 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:53,380 --> 00:01:57,290
 D'accord ! Vas-y,
 on veut tout savoir dans les détails !
 
-2
+3
 00:01:57,480 --> 00:01:59,040
 – Très peu pour moi.
 – Mais...
 
-3
+4
 00:01:59,390 --> 00:02:01,430
 Son passé m'intéresse pas.
 
-4
+5
 00:02:01,640 --> 00:02:03,850
 – Où vas-tu, Luffy ?
 – Faire un tour !
 
-5
+6
 00:02:04,020 --> 00:02:07,190
 Attends, tu ne veux pas
 écouter l'histoire de Nojiko ?
 
-6
+7
 00:02:07,440 --> 00:02:08,520
 Non, pas la peine.
 
-7
+8
 00:02:10,020 --> 00:02:10,980
 Qu'est-ce qu'il a ?
 
-8
+9
 00:02:11,980 --> 00:02:14,440
 T'en fais pas,
 il est toujours comme ça.
 
-9
+10
 00:02:14,690 --> 00:02:16,530
 Nous, on t'écoute.
 
-10
+11
 00:02:16,690 --> 00:02:19,940
 Même si je doute
 que ça change quoi que ce soit...
 
-11
+12
 00:02:20,200 --> 00:02:22,200
 Moi, ça m'intéresse !
 
-12
+13
 00:02:22,680 --> 00:02:25,910
 J'aimerais enfin comprendre
 ce qui se trame sur cette île.
 
-13
+14
 00:02:26,080 --> 00:02:28,870
 Moi aussi !
 Je veux tout connaître de Nami !
 
-14
+15
 00:02:30,970 --> 00:02:32,040
 Il dort.
 
-15
+16
 00:02:32,220 --> 00:02:34,000
 Tu roupilles ou tu l'écoutes ?
 
-16
+17
 00:02:37,730 --> 00:02:39,010
 Je comprends mieux.
 
-17
+18
 00:02:39,580 --> 00:02:42,050
 Avec eux, ça doit pas être facile 
 tous les jours !
 
-18
+19
 00:02:47,820 --> 00:02:49,390
 Je me suis endormie.
 
-19
+20
 00:02:49,700 --> 00:02:51,940
 Bah... Nojiko ?
 
-20
+21
 00:02:53,550 --> 00:02:55,690
 Où est-elle donc passée ?
 
-21
+22
 00:03:01,590 --> 00:03:04,440
 On y est presque, Belmer...
 
-22
+23
 00:03:06,170 --> 00:03:09,250
 On va bientôt reprendre
 ce qui nous appartient :
 
-23
+24
 00:03:09,620 --> 00:03:12,210
 le village de Cocoyashi,
 les mandariniers...
 
-24
+25
 00:03:12,350 --> 00:03:13,960
 Je vais réaliser mon rêve.
 
-25
+26
 00:03:20,980 --> 00:03:23,830
 Ça aura pris huit ans.
 
-26
+27
 00:03:34,370 --> 00:03:35,230
 J'ai fini !
 
-27
+28
 00:03:35,690 --> 00:03:37,280
 J'ai fini !
 
-28
+29
 00:03:45,700 --> 00:03:47,890
 Si je pouvais consulter ce livre...
 
-29
+30
 00:03:57,460 --> 00:03:59,440
 Tiens, c'est la petite Nami !
 
-30
+31
 00:04:00,000 --> 00:04:01,190
 Je peux t'aider ?
 
-31
+32
 00:04:02,590 --> 00:04:04,050
 Non, ça ira...
 
-32
+33
 00:04:04,240 --> 00:04:05,680
 Pas la peine.
 
-33
+34
 00:04:15,920 --> 00:04:17,220
 Eh bien, eh bien...
 
-34
+35
 00:04:17,580 --> 00:04:21,690
 Bon sang, Nami !
 Tu as recommencé ?
 
-35
+36
 00:04:22,090 --> 00:04:23,950
 – Elle a remis ça ?
 – Lâche-moi !
 
-36
+37
 00:04:24,110 --> 00:04:27,450
 – Elle est incorrigible.
 – Je suis pas un chat !
 
-37
+38
 00:04:27,620 --> 00:04:28,680
 Idiote !
 
-38
+39
 00:04:29,090 --> 00:04:31,930
 Combien de fois devrai-je
 te répéter de ne pas voler ?
 
-39
+40
 00:04:32,760 --> 00:04:35,960
 On est trop pauvres, chez nous !
 J'ai pas le choix !
 
-40
+41
 00:04:36,650 --> 00:04:38,200
 Vieux rabat-joie !
 
-41
+42
 00:04:39,350 --> 00:04:40,590
 Belmer !
 
-42
+43
 00:04:41,380 --> 00:04:45,510
 Belmer !
 Ta fripouille de gamine a remis ça !
 
-43
+44
 00:04:48,820 --> 00:04:51,170
 Quoi ?
 Tu en fais, un boucan !
 
-44
+45
 00:04:51,650 --> 00:04:53,730
 Tiens, Nami !
 Tu rentres déjà ?
 
-45
+46
 00:04:53,990 --> 00:04:55,020
 Coucou !
 
-46
+47
 00:04:55,370 --> 00:04:57,830
 Regarde !
 Ça fait combien, cette fois ?
 
-47
+48
 00:04:57,990 --> 00:04:59,690
 Tout le village en parle !
 
-48
+49
 00:05:00,830 --> 00:05:02,280
 Et alors ?
 
-49
+50
 00:05:02,690 --> 00:05:06,020
 Tu as bien dû faucher des trucs
 quand tu avais son âge, non ?
 
-50
+51
 00:05:06,200 --> 00:05:08,240
 Parle pour toi !
 
-51
+52
 00:05:08,400 --> 00:05:09,870
 Je plaisantais. Bon...
 
-52
+53
 00:05:09,870 --> 00:05:14,870
 Tu as payé pour ce livre, Genzo ?
 - Bel... Belmer...
 
-53
+54
 00:05:15,400 --> 00:05:18,130
 Merci bien.
 En ce moment, je suis fauchée...
 
-54
+55
 00:05:18,290 --> 00:05:20,040
 mais je te paierai plus tard.
 
-55
+56
 00:05:20,500 --> 00:05:22,800
 En NA-TU-RE...
 
-56
+57
 00:05:24,130 --> 00:05:27,970
 C'est pas des choses à dire, ça !
 
-57
+58
 00:05:28,890 --> 00:05:30,790
 Il est devenu tout rouge !
 
-58
+59
 00:05:35,990 --> 00:05:38,900
 Dis-moi, je peux savoir
 ce qui te fait rire ?
 
-59
+60
 00:05:41,330 --> 00:05:42,440
 Pardon.
 
-60
+61
 00:05:42,960 --> 00:05:46,200
 Mais il me fallait ce livre à tout prix.
 
-61
+62
 00:05:46,450 --> 00:05:49,590
 Si tu le voulais tant,
 pourquoi tu ne m'as rien dit ?
 
-62
+63
 00:05:50,880 --> 00:05:52,870
 Tu n'aurais pas pu me l'acheter.
 
-63
+64
 00:05:53,050 --> 00:05:54,470
 Bien sûr que si !
 
-64
+65
 00:05:54,660 --> 00:05:56,540
 J'ai quand même
  un peu d'argent de côté.
 
-65
+66
 00:05:56,760 --> 00:06:00,480
 Mais au village, on raconte
 qu'avec tout ce beau temps,
 
-66
+67
 00:06:00,640 --> 00:06:03,400
 tous les vergers
 donneront des tonnes de mandarines
 
-67
+68
 00:06:03,640 --> 00:06:06,650
 et qu'on aura du mal
 à vendre les nôtres, même pas cher.
 
-68
+69
 00:06:06,790 --> 00:06:08,510
 Ils disent n'importe quoi.
 
-69
+70
 00:06:08,980 --> 00:06:10,800
 T'es pas douée, Nami !
 
-70
+71
 00:06:11,260 --> 00:06:14,060
 Moi, personne m'aurait découverte !
 
-71
+72
 00:06:15,360 --> 00:06:17,520
 Je ne veux pas que vous voliez !
 
-72
+73
 00:06:17,950 --> 00:06:20,230
 Je disais ça pour rire, moi !
 
-73
+74
 00:06:20,450 --> 00:06:21,940
 Ça fait mal !
 
-74
+75
 00:06:26,550 --> 00:06:29,160
 En tout cas, une chose est sûre...
 
-75
+76
 00:06:29,380 --> 00:06:32,320
 Tes cartes
 sont vraiment formidables, Nami.
 
-76
+77
 00:06:33,430 --> 00:06:36,950
 Tu as aussi appris à dessiner
 les cartes terrestres ?
 
-77
+78
 00:06:38,090 --> 00:06:40,540
 C'est une carte de notre île !
 
-78
+79
 00:06:41,760 --> 00:06:45,760
 Qui pourrait croire
 qu'une si petite fille a dessiné ça ?
 
-79
+80
 00:06:47,330 --> 00:06:50,720
 Je me suis aussi mise à étudier
 les techniques de navigation.
 
-80
+81
 00:06:51,070 --> 00:06:52,720
 Les techniques de navigation ?
 
-81
+82
 00:06:52,980 --> 00:06:54,680
 C'est pour réaliser ton rêve ?
 
-82
+83
 00:06:55,050 --> 00:06:55,890
 Oui !
 
-83
+84
 00:06:56,250 --> 00:07:00,600
 Avec ce que je sais de la navigation,
 je parcourrai les mers du globe !
 
-84
+85
 00:07:00,900 --> 00:07:02,680
 Avec ce que j'aurai vu,
 
-85
+86
 00:07:02,860 --> 00:07:05,180
 je pourrai dessiner
 une carte du monde !
 
-86
+87
 00:07:05,820 --> 00:07:10,280
 Donc, cette carte que tu as dessinée
 est un premier pas vers ton rêve ?
 
-87
+88
 00:07:11,210 --> 00:07:12,200
 Oui !
 
-88
+89
 00:07:13,260 --> 00:07:15,220
 Une carte du monde...
 
-89
+90
 00:07:15,380 --> 00:07:19,500
 Nami, je suis sûre qu'un jour,
 tu réaliseras ton rêve !
 
-90
+91
 00:07:22,640 --> 00:07:24,380
 Sûre et certaine !
 
-91
+92
 00:07:29,350 --> 00:07:31,630
 – Dis-moi, Belmer...
 – Oui ?
 
-92
+93
 00:07:31,900 --> 00:07:33,930
 Tu manges peu, en ce moment...
 
-93
+94
 00:07:34,320 --> 00:07:38,220
 Mais si, je mange des mandarines.
 Je suis au régime.
 
-94
+95
 00:07:38,490 --> 00:07:40,180
 Moi aussi, je fais un régime.
 
-95
+96
 00:07:40,450 --> 00:07:42,270
 Arrête de faire ta coquette !
 
-96
+97
 00:07:42,450 --> 00:07:44,480
 Un enfant,
 ça doit manger pour grandir !
 
-97
+98
 00:07:44,650 --> 00:07:45,940
 Tu mens !
 
-98
+99
 00:07:46,170 --> 00:07:50,110
 La vérité, c'est qu'on n'a pas
 assez d'argent pour trois !
 
-99
+100
 00:07:50,320 --> 00:07:51,010
 C'est vrai ?
 
-100
+101
 00:07:51,240 --> 00:07:52,610
 Tu te prives,
 
-101
+102
 00:07:52,790 --> 00:07:54,010
 mais...
 
-102
+103
 00:07:52,790 --> 00:07:54,010
 Je suis au régime !
 
-103
+104
 00:07:54,300 --> 00:07:58,110
 Les filles, ne sous-estimez pas
 les vertus esthétiques de la mandarine.
 
-104
+105
 00:07:58,290 --> 00:08:03,960
 À trente ans, j'ai encore
 une peau de bébé grâce à elles.
 
-105
+106
 00:08:04,120 --> 00:08:05,700
 Mais tu as les doigts tout jaunes.
 
-106
+107
 00:08:05,880 --> 00:08:07,630
 Tais-toi et mange !
 
-107
+108
 00:08:09,150 --> 00:08:11,210
 Et voilà, Nami !
 J'ai terminé !
 
-108
+109
 00:08:11,390 --> 00:08:13,840
 C'est de la haute couture
 de chez Belmer !
 
-109
+110
 00:08:14,080 --> 00:08:15,820
 Encore une vieille robe de Nojiko !
 
-110
+111
 00:08:16,000 --> 00:08:19,430
 Oui, mais elle va t'aller
 comme un gant, Nami.
 
-111
+112
 00:08:19,640 --> 00:08:21,600
 Ce lion, c'était un tournesol !
 
-112
+113
 00:08:21,850 --> 00:08:23,550
 Mais c'est bien normal !
 
-113
+114
 00:08:23,730 --> 00:08:26,220
 Tu as deux ans de moins que moi !
 
-114
+115
 00:08:26,480 --> 00:08:30,610
 Moi aussi,
 je veux des vêtements neufs !
 
-115
+116
 00:08:30,780 --> 00:08:32,780
 Les miens aussi ont déjà été portés !
 
-116
+117
 00:08:32,900 --> 00:08:36,410
 C'est toi qui les récupères
 parce que tu es ma sœur, voilà tout.
 
-117
+118
 00:08:36,740 --> 00:08:39,120
 Tu n'es même pas ma vraie sœur !
 
-118
+119
 00:08:39,330 --> 00:08:41,820
 On ne partage pas le même sang !
 
-119
+120
 00:08:42,390 --> 00:08:43,360
 Nami !
 
-120
+121
 00:08:51,590 --> 00:08:52,840
 Belmer...
 
-121
+122
 00:08:58,970 --> 00:09:01,300
 Vous n'êtes pas du même sang...
 Et alors ?
 
-122
+123
 00:09:04,640 --> 00:09:08,220
 Je ne veux plus jamais entendre
 ce genre de bêtise !
 
-123
+124
 00:09:08,400 --> 00:09:10,430
 Qu... Quelle bêtise ?
 
-124
+125
 00:09:10,800 --> 00:09:14,720
 Toi non plus, d'abord,
 tu n'es pas notre vraie mère, Belmer !
 
-125
+126
 00:09:15,050 --> 00:09:18,720
 Nous deux,
 on est juste un fardeau pour toi !
 
-126
+127
 00:09:19,180 --> 00:09:23,140
 Sans nous, tu mangerais à ta faim
 et tu aurais de beaux habits.
 
-127
+128
 00:09:23,300 --> 00:09:25,120
 Tu serais libre !
 
-128
+129
 00:09:25,400 --> 00:09:26,680
 J'aurais...
 
-129
+130
 00:09:27,180 --> 00:09:31,080
 J'aurais préféré être adoptée
 par une famille riche !
 
-130
+131
 00:09:39,050 --> 00:09:40,920
 Ah... Ah oui ?
 
-131
+132
 00:09:42,100 --> 00:09:44,140
 Dans ce cas,
 je ne te retiens pas.
 
-132
+133
 00:09:44,310 --> 00:09:47,900
 Si tu détestes tant cette maison,
 tu peux partir et aller où tu veux !
 
-133
+134
 00:09:48,100 --> 00:09:50,300
 Arrêtez, toutes les deux !
 
-134
+135
 00:09:50,870 --> 00:09:52,440
 D'accord, je m'en vais !
 
-135
+136
 00:09:53,750 --> 00:09:54,530
 Nami !
 
-136
+137
 00:09:54,990 --> 00:09:56,610
 Nami !
 
-137
+138
 00:10:04,660 --> 00:10:05,980
 Belmer...
 
-138
+139
 00:10:06,540 --> 00:10:09,420
 Toutes les trois,
 on est une vraie famille !
 
-139
+140
 00:10:09,600 --> 00:10:11,590
 Nami le pense aussi, c'est sûr.
 
-140
+141
 00:10:11,940 --> 00:10:13,920
 Tout à l'heure, elle a juste...
 
-141
+142
 00:10:15,800 --> 00:10:17,970
 Tu as bien grandi, Nojiko.
 
-142
+143
 00:10:18,250 --> 00:10:20,510
 Et moi, j'ai agi comme une gamine.
 
-143
+144
 00:10:21,500 --> 00:10:23,350
 Tu veux bien aller chercher Nami ?
 
-144
+145
 00:10:23,530 --> 00:10:26,620
 Je vous attendrai
 en préparant un délicieux repas.
 
-145
+146
 00:10:27,580 --> 00:10:28,420
 Oui !
 
-146
+147
 00:10:42,300 --> 00:10:44,280
 Allez, madame,
 disons ce prix-là !
 
-147
+148
 00:10:44,460 --> 00:10:47,520
 Quoi ?
 C'est encore trop cher !
 
-148
+149
 00:10:47,970 --> 00:10:50,420
 Regardez par ici !
 C'est pas cher !
 
-149
+150
 00:10:50,680 --> 00:10:53,030
 Mes fruits
 sont de la première fraîcheur !
 
-150
+151
 00:10:53,210 --> 00:10:55,590
 Leur qualité ne vous décevra pas !
 
-151
+152
 00:11:03,900 --> 00:11:06,920
 Tu viens te cacher ici,
 et tu appelles ça une fugue ?
 
-152
+153
 00:11:07,090 --> 00:11:08,430
 Tu ne doutes de rien, toi !
 
-153
+154
 00:11:10,370 --> 00:11:12,430
 Tiens, bois tant que c'est chaud.
 
-154
+155
 00:11:15,170 --> 00:11:18,860
 Belmer serait bien plus heureuse
 si on n'était pas là.
 
-155
+156
 00:11:19,670 --> 00:11:20,930
 Pourquoi ça ?
 
-156
+157
 00:11:21,950 --> 00:11:24,820
 Ça coûte très cher
 de s'occuper de deux enfants.
 
-157
+158
 00:11:25,030 --> 00:11:28,830
 Et à cause de moi, les gens du village
 ne l'aiment pas beaucoup.
 
-158
+159
 00:11:29,190 --> 00:11:32,390
 Tu dois être à l'âge
 où on apprend l'humilité !
 
-159
+160
 00:11:33,690 --> 00:11:34,790
 Ne t'en fais pas.
 
-160
+161
 00:11:34,960 --> 00:11:39,090
 Quand elle avait ton âge,
 elle aussi était une petite peste.
 
-161
+162
 00:11:39,260 --> 00:11:40,590
 Belmer ? Vraiment ?
 
-162
+163
 00:11:40,980 --> 00:11:44,680
 Au village, on la considère
 toujours un peu comme une canaille.
 
-163
+164
 00:11:45,650 --> 00:11:48,850
 Et quand cette canaille
 a décidé de s'engager dans la Marine,
 
-164
+165
 00:11:49,020 --> 00:11:50,640
 tout le monde a été surpris.
 
-165
+166
 00:11:50,830 --> 00:11:51,760
 La Marine ?
 
-166
+167
 00:11:52,000 --> 00:11:54,060
 Belmer faisait partie de la Marine ?
 
-167
+168
 00:11:54,520 --> 00:11:55,650
 Oui.
 
-168
+169
 00:12:03,960 --> 00:12:08,240
 Elle disait qu'elle ne pouvait pas
 laisser les pirates tuer des innocents.
 
-169
+170
 00:12:08,450 --> 00:12:11,120
 Elle quitta donc le village
 pour s'engager.
 
-170
+171
 00:12:18,680 --> 00:12:22,480
 Un jour, elle a vraiment cru
 que son heure était venue.
 
-171
+172
 00:12:23,790 --> 00:12:26,620
 Cette fois, c'est la fin...
 
-172
+173
 00:12:45,600 --> 00:12:46,950
 C'est ta petite sœur ?
 
-173
+174
 00:12:53,010 --> 00:12:54,370
 Je la connais pas.
 
-174
+175
 00:13:04,230 --> 00:13:06,300
 Mon Dieu, tu es si innocente...
 
-175
+176
 00:13:21,320 --> 00:13:24,140
 Ce bébé, Nami, c'était toi.
 
-176
+177
 00:13:25,100 --> 00:13:29,830
 En te voyant, Belmer a eu envie
 de se battre pour survivre.
 
-177
+178
 00:13:40,470 --> 00:13:42,550
 Aucun doute !
 C'est bien un bateau !
 
-178
+179
 00:13:42,710 --> 00:13:45,760
 Qui peut être assez fou
 pour naviguer sous cette tempête ?
 
-179
+180
 00:13:54,780 --> 00:13:57,380
 Le docteur !
 Appelez le docteur !
 
-180
+181
 00:13:58,120 --> 00:14:00,560
 Belmer ? C'est bien toi ?
 
-181
+182
 00:14:00,890 --> 00:14:03,230
 – Belmer !
 – Que s'est-il passé ?
 
-182
+183
 00:14:06,880 --> 00:14:08,390
 – Ces enfants...
 – Docteur !
 
-183
+184
 00:14:08,570 --> 00:14:12,080
 Elles sont brûlantes de fièvre !
 La tempête les a épuisées !
 
-184
+185
 00:14:12,290 --> 00:14:13,230
 Que dis-tu ?
 
-185
+186
 00:14:15,160 --> 00:14:19,330
 Je vois. Mais il faut aussi
 que je m'occupe de tes blessures...
 
-186
+187
 00:14:19,580 --> 00:14:21,290
 Occupez-vous d'elles, c'est tout !
 
-187
+188
 00:14:21,440 --> 00:14:25,920
 Pitié, ne les laissez pas mourir !
 Sauvez ces petites !
 
-188
+189
 00:14:26,190 --> 00:14:29,590
 Je vous en supplie !
 
-189
+190
 00:14:32,730 --> 00:14:35,890
 J'ai dû mal comprendre.
 Tu veux bien répéter ?
 
-190
+191
 00:14:36,570 --> 00:14:40,150
 "J'ai décidé de devenir leur mère."
 Voilà ce que j'ai dit.
 
-191
+192
 00:14:40,310 --> 00:14:42,900
 – C'est impossible !
 – Oublie cette idée !
 
-192
+193
 00:14:43,100 --> 00:14:45,610
 Une fille comme toi
 ne peut pas élever d'enfants !
 
-193
+194
 00:14:45,820 --> 00:14:49,480
 Fais-moi confiance,
 tu devrais les confier à l'orphelinat...
 
-194
+195
 00:14:49,660 --> 00:14:51,280
 Ma décision est prise !
 
-195
+196
 00:14:52,380 --> 00:14:54,280
 Je suis une adulte à présent.
 
-196
+197
 00:14:54,460 --> 00:14:55,990
 Je me suis engagée dans la Marine
 
-197
+198
 00:14:56,170 --> 00:14:58,500
 et je pense être devenue
 quelqu'un de bien.
 
-198
+199
 00:14:58,680 --> 00:15:02,130
 Je veillerai sur ces petites
 et je les élèverai.
 
-199
+200
 00:15:02,600 --> 00:15:04,460
 Elles deviendront courageuses.
 
-200
+201
 00:15:04,630 --> 00:15:07,210
 Je leur donnerai
 une éducation exemplaire.
 
-201
+202
 00:15:07,920 --> 00:15:10,300
 Je vais vivre avec ces deux petites.
 
-202
+203
 00:15:10,480 --> 00:15:13,860
 Grâce à Nami et à Nojiko,
 j'ai enfin repris goût à la vie.
 
-203
+204
 00:15:18,900 --> 00:15:23,560
 Le lien qui vous unit toutes les trois
 est bien plus fort que celui du sang.
 
-204
+205
 00:15:27,700 --> 00:15:30,150
 Nami !
 Je me doutais que tu serais là.
 
-205
+206
 00:15:30,320 --> 00:15:31,480
 Nojiko ?
 
-206
+207
 00:15:32,210 --> 00:15:36,620
 Belmer t'attend.
 Elle prépare un bon repas.
 
-207
+208
 00:15:38,600 --> 00:15:39,400
 Ouais !
 
-208
+209
 00:15:40,300 --> 00:15:43,740
 Ce sera sûrement ton plat préféré :
 omelette sauce mandarine !
 
-209
+210
 00:15:43,920 --> 00:15:45,240
 Youpi !
 
-210
+211
 00:15:55,570 --> 00:15:57,970
 Des pirates !
 Hé, tout le monde !
 
-211
+212
 00:15:58,650 --> 00:16:01,090
 Des pirates arrivent !
 
-212
+213
 00:16:01,690 --> 00:16:05,560
 Des pirates !
 Tout le monde aux abris !
 
-213
+214
 00:16:15,090 --> 00:16:16,280
 C'est le clan Arlong !
 
-214
+215
 00:16:16,460 --> 00:16:18,230
 – Arlong ?
 – C'est pas vrai !
 
-215
+216
 00:16:18,640 --> 00:16:21,160
 Que font les Hommes-Poissons
 de Grand Line ici ?
 
-216
+217
 00:16:21,340 --> 00:16:24,920
 La rumeur disait vrai, alors ?
 Ils se sont séparés ?
 
-217
+218
 00:16:25,080 --> 00:16:26,420
 Nami ! Nojiko !
 
-218
+219
 00:16:26,650 --> 00:16:27,670
 Genzo !
 
-219
+220
 00:16:28,300 --> 00:16:31,470
 Ici, c'est trop dangereux.
 Allez vous cacher dans la forêt.
 
-220
+221
 00:16:31,800 --> 00:16:32,970
 Mais...
 
-221
+222
 00:16:33,120 --> 00:16:34,200
 Dépêchez-vous !
 
-222
+223
 00:16:45,750 --> 00:16:49,150
 Salutations,
 bande de misérables humains !
 
-223
+224
 00:16:49,350 --> 00:16:51,690
 À partir d'aujourd'hui, ce village...
 
-224
+225
 00:16:51,820 --> 00:16:54,560
 Que dis-je,
 cette île entière est à moi !
 
-225
+226
 00:16:56,590 --> 00:17:00,540
 Écoutez bien ! Si vous voulez
 que je vous laisse la vie sauve,
 
-226
+227
 00:17:00,750 --> 00:17:02,910
 vous allez devoir payer le prix fort !
 
-227
+228
 00:17:05,020 --> 00:17:09,420
 Ça fera 100 000 Berrys pour un adulte
 et 50 000 Berrys pour un môme.
 
-228
+229
 00:17:09,600 --> 00:17:11,710
 Celui qui ne paie pas sera tué !
 
-229
+230
 00:17:13,980 --> 00:17:16,010
 Qu'est-ce qu'on va faire, Nojiko ?
 
-230
+231
 00:17:17,000 --> 00:17:18,970
 On n'aura jamais autant d'argent !
 
-231
+232
 00:17:19,150 --> 00:17:21,310
 Ils ne trouveront
 peut-être pas notre maison.
 
-232
+233
 00:17:21,600 --> 00:17:23,300
 On ne la voit pas du village.
 
-233
+234
 00:17:28,540 --> 00:17:30,570
 Combien ça fait, les gars ?
 
-234
+235
 00:17:31,250 --> 00:17:33,350
 À peu près 25 millions.
 
-235
+236
 00:17:34,170 --> 00:17:35,240
 C'est excellent !
 
-236
+237
 00:17:39,840 --> 00:17:41,870
 On va devoir payer 100 000 Berrys
 
-237
+238
 00:17:42,040 --> 00:17:44,910
 tous les mois
 pour avoir la vie sauve ?
 
-238
+239
 00:17:45,150 --> 00:17:47,490
 100 000 ? On n'y survivra pas !
 
-239
+240
 00:17:47,670 --> 00:17:48,670
 Serrons les dents !
 
-240
+241
 00:17:48,850 --> 00:17:52,160
 Ils n'ont fait aucune victime,
 c'est déjà ça.
 
-241
+242
 00:17:52,710 --> 00:17:56,050
 Ils ne font que nous rançonner :
 on s'en sort à bon compte.
 
-242
+243
 00:17:56,720 --> 00:18:01,510
 Mais j'espère qu'ils partiront
 avant de trouver la maison de Belmer.
 
-243
+244
 00:18:02,950 --> 00:18:05,920
 Avec les petites,
 il lui faudra débourser 200 000 Berrys.
 
-244
+245
 00:18:06,270 --> 00:18:08,650
 Elle ne pourra jamais payer ça.
 
-245
+246
 00:18:09,480 --> 00:18:13,300
 Allez, on met les voiles !
 Venez, les gars !
 
-246
+247
 00:18:16,570 --> 00:18:19,570
 Arlong, il y a de la fumée
 à l'autre bout du village !
 
-247
+248
 00:18:25,990 --> 00:18:27,080
 Très bien.
 
-248
+249
 00:18:27,290 --> 00:18:28,710
 Voyons voir...
 
-249
+250
 00:18:29,150 --> 00:18:30,580
 Miam, c'est trop bon !
 
-250
+251
 00:18:30,760 --> 00:18:33,000
 Je suis la reine de la sauce mandarine !
 
-251
+252
 00:18:33,250 --> 00:18:35,670
 Nami et Nojiko vont se régaler !
 
-252
+253
 00:18:36,130 --> 00:18:38,880
 La fumée vient d'une maison !
 
-253
+254
 00:18:40,190 --> 00:18:42,800
 Eh ben, on a failli passer à côté.
 
-254
+255
 00:18:43,070 --> 00:18:44,260
 Merde !
 
-255
+256
 00:18:44,450 --> 00:18:45,770
 Belmer !
 
-256
+257
 00:18:46,950 --> 00:18:48,920
 Allons terminer la récolte !
 
-257
+258
 00:18:50,740 --> 00:18:53,190
 Catastrophe ! Les pirates...
 
-258
+259
 00:18:53,360 --> 00:18:55,150
 Ils vont chez Belmer !
 
-259
+260
 00:18:59,460 --> 00:19:01,520
 Hé !
 Nami et Nojiko ne sont plus là !
 
-260
+261
 00:19:02,000 --> 00:19:02,620
 Quoi ?
 
-261
+262
 00:19:03,250 --> 00:19:05,580
 Le rôti de canard
 sera prêt dans 10 minutes.
 
-262
+263
 00:19:05,740 --> 00:19:07,160
 Le ragoût mijote.
 
-263
+264
 00:19:07,330 --> 00:19:09,240
 Avec ce festin, le budget va morfler.
 
-264
+265
 00:19:09,420 --> 00:19:12,540
 Bah, il faut bien se faire plaisir
 de temps en temps !
 
-265
+266
 00:19:19,360 --> 00:19:21,960
 Belmer... Belmer !
 
-266
+267
 00:19:24,590 --> 00:19:26,920
 Belmer va se faire tuer !
 
-267
+268
 00:19:34,270 --> 00:19:37,070
 On ne peut pas laisser tomber Belmer !
 
-268
+269
 00:19:37,250 --> 00:19:41,090
 Putain, pourquoi c'est tombé sur nous ?
 Ne cède pas, Belmer !
 
-269
+270
 00:19:44,810 --> 00:19:46,320
 Tiens ? Déjà de retour ?
 
-270
+271
 00:19:53,800 --> 00:19:56,730
 C'est ouvert ! Entrez donc !
 
-271
+272
 00:19:57,590 --> 00:19:58,800
 Si tu le dis...
 
-272
+273
 00:20:23,000 --> 00:20:26,070
 Dommage pour toi !
 Je suis une ancienne de la Marine !
 
-273
+274
 00:20:26,990 --> 00:20:30,810
 On peut savoir ce que des fichus
 pirates de Grand Line
 
-274
+275
 00:20:30,940 --> 00:20:32,540
 viennent faire à Cocoyashi ?
 
-275
+276
 00:20:37,340 --> 00:20:38,590
 Qu'est-ce qui est drôle ?
 
-276
+277
 00:20:45,260 --> 00:20:49,380
 Pathétique ! Pathétique !
 Pathétique ! Pathétique ! Pathétique !
 
-277
+278
 00:20:49,760 --> 00:20:54,060
 Vous autres, les humains,
 vous n'êtes qu'un ramassis de larves !
 
-278
+279
 00:21:01,330 --> 00:21:03,780
 On prévient Belmer
 et on file par-derrière !
 
-279
+280
 00:21:04,050 --> 00:21:06,740
 – Et si les pirates sont déjà là ?
 – Ça va aller !
 
-280
+281
 00:21:06,920 --> 00:21:07,810
 Stop !
 
-281
+282
 00:21:11,910 --> 00:21:13,750
 – Docteur !
 – N'y allez pas !
 
-282
+283
 00:21:14,090 --> 00:21:14,460
 Hein ?
 
-283
+284
 00:21:14,640 --> 00:21:16,710
 Laissez-nous !
 On doit aller aider Belmer !
 
-284
+285
 00:21:16,830 --> 00:21:18,130
 Nojiko, Nami !
 
-285
+286
 00:21:18,590 --> 00:21:20,600
 Écoutez-moi bien, toutes les deux.
 
-286
+287
 00:21:20,800 --> 00:21:23,510
 Dans un moment comme celui-ci,
 ce que je vais vous dire
 
-287
+288
 00:21:23,700 --> 00:21:26,720
 risque de ne pas vous faire
 tellement plaisir...
 
-288
+289
 00:21:28,270 --> 00:21:29,100
 Docteur...
 
-289
+290
 00:21:31,500 --> 00:21:32,970
 Belmer !
 
-290
+291
 00:21:41,620 --> 00:21:45,610
 Je suis fichue...
 Ce sont de vrais monstres.
 
-291
+292
 00:21:45,840 --> 00:21:46,990
 Ils vont me tuer...
 
-292
+293
 00:21:47,160 --> 00:21:49,200
 Nojiko... Nami...
 
-293
+294
 00:21:49,500 --> 00:21:50,700
 Belmer !
 
-294
+295
 00:21:51,340 --> 00:21:53,620
 Ne risque pas ta peau inutilement !
 
-295
+296
 00:21:54,040 --> 00:21:55,500
 Ce combat ne rime à rien.
 
-296
+297
 00:21:55,660 --> 00:21:58,290
 Parfois, payer est la seule solution.
 
-297
+298
 00:21:58,810 --> 00:22:00,080
 Genzo...
 
-298
+299
 00:22:00,850 --> 00:22:03,260
 Il a raison, l'ancienne de la Marine.
 
-299
+300
 00:22:03,510 --> 00:22:06,470
 100 000 Berrys par adulte,
 50 000 par enfant.
 
-300
+301
 00:22:06,730 --> 00:22:10,550
 Tu payes, on te laisse la vie sauve.
 Te voilà prévenue.
 
-301
+302
 00:22:10,780 --> 00:22:12,010
 Payer ?
 
-302
+303
 00:22:14,610 --> 00:22:18,690
 Ça fait 200 000 Berrys.
 Combien d'argent as-tu ?
 
-303
+304
 00:22:19,830 --> 00:22:23,430
 En tout, je dois avoir
 dans les 100 000.
 
-304
+305
 00:22:25,170 --> 00:22:28,680
 Hé ! La table est mise pour trois !
 
-305
+306
 00:22:30,300 --> 00:22:32,270
 Une famille de trois personnes...
 
-306
+307
 00:22:34,220 --> 00:22:36,450
 J'avais complètement oublié !
 
-307
+308
 00:22:37,980 --> 00:22:42,170
 Aujourd'hui, j'étais invité
 à venir dîner avec un ami.
 
-308
+309
 00:22:42,450 --> 00:22:45,670
 Allez, Belmer.
 Dépêche-toi de payer ta part.
 
-309
+310
 00:22:45,900 --> 00:22:48,130
 Si ça continue, le repas va être froid.
 
-310
+311
 00:22:48,350 --> 00:22:49,300
 Genzo...
 
-311
+312
 00:22:49,510 --> 00:22:53,780
 Tu as tout juste 100 000 Berrys.
 Heureusement qu'on a pu payer !
 
-312
+313
 00:22:53,990 --> 00:22:56,310
 Comme ça,
  on est tous sains et saufs.
 
-313
+314
 00:22:56,700 --> 00:22:57,680
 Je confirme :
 
-314
+315
 00:22:57,950 --> 00:23:01,840
 Le registre municipal indique
 qu'elle n'a ni mari ni enfants.
 
-315
+316
 00:23:02,410 --> 00:23:04,060
 Elle vit seule.
 
-316
+317
 00:23:08,290 --> 00:23:09,490
 Vous comprenez ?
 
-317
+318
 00:23:09,880 --> 00:23:13,160
 Il n'existe aucune preuve
 indiquant que vous formez une famille.
 
-318
+319
 00:23:13,380 --> 00:23:16,120
 Quittez cette île
 tant qu'ils ne se doutent de rien !
 
-319
+320
 00:23:16,300 --> 00:23:17,700
 Fuyez par la mer !
 
-320
+321
 00:23:18,470 --> 00:23:21,040
 C'est le seul moyen
 de sauver vos trois vies.
 
-321
+322
 00:23:21,670 --> 00:23:25,040
 Je sais que pour deux gamines,
 c'est risqué de prendre la mer...
 
-322
+323
 00:23:25,220 --> 00:23:27,130
 Il peut se passer beaucoup de choses,
 
-323
+324
 00:23:27,300 --> 00:23:28,420
 mais c'est la seule...
 
-324
+325
 00:23:28,600 --> 00:23:29,340
 Non...
 
-325
+326
 00:23:30,800 --> 00:23:32,070
 Je ne veux pas partir !
 
-326
+327
 00:23:32,720 --> 00:23:36,140
 Moi, je veux vivre dans ce village...
 
-327
+328
 00:23:36,310 --> 00:23:37,850
 C'est parce qu'on est pauvres
 
-328
+329
 00:23:38,220 --> 00:23:41,520
 qu'on ne peut pas rester avec Belmer ?
 
-329
+330
 00:23:41,900 --> 00:23:44,980
 Pourquoi ?
 Pourquoi ça nous arrive ?
 
-330
+331
 00:23:47,900 --> 00:23:51,240
 Quel soulagement...
 Voilà une chose de réglée.
 
-331
+332
 00:23:51,800 --> 00:23:53,660
 – D'accord, on s'en va.
 – Nojiko !
 
-332
+333
 00:23:53,850 --> 00:23:57,290
 Allez, viens !
 Il le faut, si on veut sauver Belmer.
 
-333
+334
 00:24:12,880 --> 00:24:14,010
 Attendez !
 
-334
+335
 00:24:14,220 --> 00:24:16,380
 Qui a dit que j'avais payé ma part ?
 
-335
+336
 00:24:17,720 --> 00:24:20,520
 Ces 100 000 Berrys
 étaient pour mes deux filles.
 
-336
+337
 00:24:20,850 --> 00:24:22,060
 Pas pour moi.
 
-337
+338
 00:24:24,650 --> 00:24:25,550
 Belmer !
 
-338
+339
 00:24:25,730 --> 00:24:26,980
 Désolée, Genzo.
 
-339
+340
 00:24:27,360 --> 00:24:30,320
 Je ne peux pas faire semblant
 de ne pas avoir de famille.
 
-340
+341
 00:24:30,610 --> 00:24:33,110
 Et tant pis
 si ça doit me coûter la vie.
 
-341
+342
 00:24:35,200 --> 00:24:36,160
 L'idiote !
 
-342
+343
 00:24:36,500 --> 00:24:39,770
 C'est vrai,
 nous ne sommes pas du même sang...
 
-343
+344
 00:24:40,750 --> 00:24:42,540
 mais nous formons une famille.
 
-344
+345
 00:24:42,870 --> 00:24:45,120
 Malgré tout,
 je me sens comme une mère.
 
-345
+346
 00:24:46,770 --> 00:24:49,620
 Ces petites sont mes enfants chéries.
 
-346
+347
 00:24:50,770 --> 00:24:53,260
 Belmer !
 
-347
+348
 00:24:51,500 --> 00:24:53,260
 Hep, vous deux !
 
-348
+349
 00:24:53,690 --> 00:24:57,220
 J'aurais préféré être adoptée
 par une famille riche !
 
-349
+350
 00:24:57,640 --> 00:25:01,020
 Je ne voulais pas dire ça !
 Je ne le pensais pas !
 
-350
+351
 00:25:01,180 --> 00:25:03,600
 – Belmer !
 – Belmer !
 
-351
+352
 00:25:16,870 --> 00:25:18,350
 J'aurais tant voulu
 
-352
+353
 00:25:18,700 --> 00:25:21,910
 vous acheter
 plus de livres et d'habits !
 
-353
+354
 00:25:22,480 --> 00:25:26,150
 Pardonnez-moi.
 Je n'ai pas été une bonne mère...
 
-354
+355
 00:25:26,330 --> 00:25:27,380
 C'est pas vrai !
 
-355
+356
 00:25:27,560 --> 00:25:30,790
 – On n'a besoin de rien !
 – On veut rester avec toi !
 
-356
+357
 00:25:30,970 --> 00:25:34,260
 Je veux que tu sois la première
 à voir ma carte du monde !
 
-357
+358
 00:25:36,110 --> 00:25:37,750
 Ta carte... C'est vrai.
 
-358
+359
 00:25:38,500 --> 00:25:42,310
 Je veux que tu ailles
 au bout de tes rêves.
 
-359
+360
 00:25:44,100 --> 00:25:45,380
 Vis pleinement !
 
-360
+361
 00:25:45,770 --> 00:25:48,020
 Belmer !
 
-361
+362
 00:25:50,250 --> 00:25:52,480
 Voilà donc tes deux filles, hein ?
 
-362
+363
 00:25:54,740 --> 00:25:56,570
 Oui, comme tu peux le voir.
 
-363
+364
 00:25:57,000 --> 00:25:59,480
 Jure-moi de ne pas leur faire de mal !
 
-364
+365
 00:25:59,700 --> 00:26:02,900
 C'est juré. Sauf si tu fais
 des difficultés pour mourir...
 
-365
+366
 00:26:03,080 --> 00:26:04,120
 Au secours !
 
-366
+367
 00:26:16,720 --> 00:26:18,380
 Ils m'ont l'air bien excités.
 
-367
+368
 00:26:18,590 --> 00:26:21,000
 Occupez-vous d'eux,
 mais ne les tuez pas.
 
-368
+369
 00:26:21,400 --> 00:26:24,890
 Parfait, tu vas servir d'exemple.
 
-369
+370
 00:26:29,850 --> 00:26:31,730
 Ton amour t'aura perdue.
 
-370
+371
 00:26:41,620 --> 00:26:43,280
 Nojiko ! Nami !
 
-371
+372
 00:26:46,700 --> 00:26:47,730
 Je vous aime.
-
-372
-00:03:33,360 --> 00:03:37,320
-Nami (8 ans plus tôt)
 
 373
 00:03:33,360 --> 00:03:37,320
 Nami (8 ans plus tôt)
 
 374
-00:04:27,500 --> 00:04:32,460
-Genzô (8 ans plus tôt)
+00:03:33,360 --> 00:03:37,320
+Nami (8 ans plus tôt)
 
 375
 00:04:27,500 --> 00:04:32,460
 Genzô (8 ans plus tôt)
 
 376
-00:04:47,390 --> 00:04:50,900
-Belmer
-Belle-mère de Nami et Nojiko
+00:04:27,500 --> 00:04:32,460
+Genzô (8 ans plus tôt)
 
 377
 00:04:47,390 --> 00:04:50,900
@@ -1669,1603 +1669,1607 @@ Belmer
 Belle-mère de Nami et Nojiko
 
 378
-00:06:08,890 --> 00:06:11,270
-Nojiko (8 ans plus tôt)
+00:04:47,390 --> 00:04:50,900
+Belmer
+Belle-mère de Nami et Nojiko
 
 379
 00:06:08,890 --> 00:06:11,270
 Nojiko (8 ans plus tôt)
 
 380
-00:10:36,620 --> 00:10:41,540
-Village de Cocoyashi
+00:06:08,890 --> 00:06:11,270
+Nojiko (8 ans plus tôt)
 
 381
 00:10:36,620 --> 00:10:41,540
 Village de Cocoyashi
 
 382
+00:10:36,620 --> 00:10:41,540
+Village de Cocoyashi
+
+383
 00:00:01,560 --> 00:00:03,520
 Fortune, gloire et pouvoir...
 
-383
+384
 00:00:03,730 --> 00:00:07,650
 Le Roi des Pirates, Gold Roger,
 possédait tout ce qu'un homme désire.
 
-384
+385
 00:00:07,900 --> 00:00:11,570
 Ses dernières paroles précipitèrent les hommes sur les mers.
 
-385
+386
 00:00:11,740 --> 00:00:15,410
 Mon trésor ?
 Je vous le laisse si vous voulez...
 
-386
+387
 00:00:15,530 --> 00:00:16,570
 Trouvez-le !
 
-387
+388
 00:00:16,780 --> 00:00:19,240
 Je l'ai laissé quelque part
  dans ce monde.
 
-388
+389
 00:00:21,660 --> 00:00:26,080
 En direction de Grand Line,
 tous se mirent en quête de leur rêve !
 
-389
+390
 00:00:26,420 --> 00:00:29,750
 Le monde entier connu alors
  une grande vague de piraterie !
 
-390
+391
 00:00:30,380 --> 00:00:35,890
 Rassemblons tous nos rêves,
 
-391
+392
 00:00:35,890 --> 00:00:41,680
 Et partons en quête de nos désirs !
 
-392
+393
 00:00:47,960 --> 00:00:53,190
 Les boussoles ne causent que du retard.
 
-393
+394
 00:00:53,490 --> 00:00:58,830
 Rempli d'excitation, j'ai pris la barre.
 
-394
+395
 00:00:59,350 --> 00:01:04,500
 Même cette vieille carte couverte de poussière,
 
-395
+396
 00:01:04,690 --> 00:01:10,340
 Si je l’ai vérifiée, alors ce n’est plus une légende !
 
-396
+397
 00:01:11,250 --> 00:01:17,010
 Les tempêtes de la vie
 
-397
+398
 00:01:17,090 --> 00:01:22,180
 Ne sont que des vagues passagères,
 
-398
+399
 00:01:22,270 --> 00:01:24,560
 Ignore-les et avance !
 
-399
+400
 00:01:26,060 --> 00:01:31,360
 Rassemblons tous nos rêves,
 
-400
+401
 00:01:31,610 --> 00:01:37,110
 Et partons en quête de nos désirs !
 
-401
+402
 00:01:37,220 --> 00:01:40,070
 Les pièces dans ta poche,
 
-402
+403
 00:01:40,200 --> 00:01:43,330
 Et puis, veux-tu être mon ami ?
 
-403
+404
 00:01:43,470 --> 00:01:48,330
 Nous sommes, nous sommes du voyage !
 
-404
+405
 00:01:48,850 --> 00:01:50,020
 Nous en sommes !
 
-405
+406
 00:00:29,960 --> 00:00:30,380
 あ
 
-406
+407
 00:00:30,380 --> 00:00:30,710
 あ
 
-407
+408
 00:00:30,000 --> 00:00:30,460
 り
 
-408
+409
 00:00:30,460 --> 00:00:30,800
 り
 
-409
+410
 00:00:30,050 --> 00:00:30,550
 った
 
-410
+411
 00:00:30,550 --> 00:00:31,010
 った
 
-411
+412
 00:00:30,130 --> 00:00:30,800
 け
 
-412
+413
 00:00:30,800 --> 00:00:31,170
 け
 
-413
+414
 00:00:30,170 --> 00:00:30,960
 の
 
-414
+415
 00:00:30,960 --> 00:00:31,710
 の
 
-415
-00:00:30,170 --> 00:00:31,460
-夢
-
 416
-00:00:31,460 --> 00:00:32,300
+00:00:30,170 --> 00:00:31,460
 夢
 
 417
+00:00:31,460 --> 00:00:32,300
+夢
+
+418
 00:00:30,260 --> 00:00:32,010
 を
 
-418
+419
 00:00:32,010 --> 00:00:33,260
 を
 
-419
+420
 00:00:30,340 --> 00:00:33,300
 か
 
-420
+421
 00:00:33,300 --> 00:00:33,680
 か
 
-421
+422
 00:00:30,380 --> 00:00:33,470
 き
 
-422
+423
 00:00:33,470 --> 00:00:33,840
 き
 
-423
-00:00:30,460 --> 00:00:33,630
-集
-
 424
-00:00:33,630 --> 00:00:34,340
+00:00:30,460 --> 00:00:33,630
 集
 
 425
+00:00:33,630 --> 00:00:34,340
+集
+
+426
 00:00:30,510 --> 00:00:34,130
 め
 
-426
+427
 00:00:34,130 --> 00:00:35,800
 め
 
-427
+428
 00:00:30,170 --> 00:00:31,460
 ゆ
 
-428
+429
 00:00:31,460 --> 00:00:32,050
 ゆ
 
-429
+430
 00:00:30,170 --> 00:00:31,800
 め
 
-430
+431
 00:00:31,800 --> 00:00:32,300
 め
 
-431
+432
 00:00:30,460 --> 00:00:33,630
 あ
 
-432
+433
 00:00:33,630 --> 00:00:34,130
 あ
 
-433
+434
 00:00:30,460 --> 00:00:33,880
 つ
 
-434
+435
 00:00:33,880 --> 00:00:34,340
 つ
 
-435
-00:00:35,390 --> 00:00:35,930
-捜
-
 436
-00:00:35,930 --> 00:00:36,470
+00:00:35,390 --> 00:00:35,930
 捜
 
 437
+00:00:35,930 --> 00:00:36,470
+捜
+
+438
 00:00:35,470 --> 00:00:36,260
 し
 
-438
+439
 00:00:36,260 --> 00:00:36,760
 し
 
-439
-00:00:35,510 --> 00:00:36,470
-物
-
 440
-00:00:36,470 --> 00:00:37,100
+00:00:35,510 --> 00:00:36,470
 物
 
 441
+00:00:36,470 --> 00:00:37,100
+物
+
+442
 00:00:35,550 --> 00:00:36,840
 を
 
-442
+443
 00:00:36,840 --> 00:00:37,350
 を
 
-443
-00:00:35,590 --> 00:00:37,100
-捜
-
 444
-00:00:37,100 --> 00:00:37,930
+00:00:35,590 --> 00:00:37,100
 捜
 
 445
+00:00:37,100 --> 00:00:37,930
+捜
+
+446
 00:00:35,640 --> 00:00:37,640
 し
 
-446
+447
 00:00:37,640 --> 00:00:38,510
 し
 
-447
+448
 00:00:35,680 --> 00:00:38,260
 に
 
-448
+449
 00:00:38,260 --> 00:00:38,850
 に
 
-449
-00:00:35,800 --> 00:00:38,600
-行
-
 450
-00:00:38,600 --> 00:00:39,260
+00:00:35,800 --> 00:00:38,600
 行
 
 451
+00:00:38,600 --> 00:00:39,260
+行
+
+452
 00:00:35,800 --> 00:00:38,970
 く
 
-452
+453
 00:00:38,970 --> 00:00:39,600
 く
 
-453
+454
 00:00:35,840 --> 00:00:39,310
 の
 
-454
+455
 00:00:39,310 --> 00:00:39,810
 の
 
-455
+456
 00:00:35,930 --> 00:00:39,600
 さ
 
-456
+457
 00:00:39,600 --> 00:00:41,600
 さ
 
-457
+458
 00:00:35,390 --> 00:00:35,930
 さ
 
-458
+459
 00:00:35,930 --> 00:00:36,340
 さ
 
-459
+460
 00:00:35,390 --> 00:00:36,090
 が
 
-460
+461
 00:00:36,090 --> 00:00:36,470
 が
 
-461
+462
 00:00:35,510 --> 00:00:36,470
 も
 
-462
+463
 00:00:36,470 --> 00:00:36,970
 も
 
-463
+464
 00:00:35,510 --> 00:00:36,680
 の
 
-464
+465
 00:00:36,680 --> 00:00:37,100
 の
 
-465
+466
 00:00:35,590 --> 00:00:37,100
 さ
 
-466
+467
 00:00:37,100 --> 00:00:37,800
 さ
 
-467
+468
 00:00:35,590 --> 00:00:37,550
 が
 
-468
+469
 00:00:37,550 --> 00:00:37,930
 が
 
-469
+470
 00:00:35,800 --> 00:00:38,600
 ゆ
 
-470
+471
 00:00:38,600 --> 00:00:39,260
 ゆ
 
-471
-00:00:47,440 --> 00:00:47,900
-羅
-
 472
-00:00:47,900 --> 00:00:48,400
+00:00:47,440 --> 00:00:47,900
 羅
 
 473
-00:00:47,480 --> 00:00:48,110
-針
+00:00:47,900 --> 00:00:48,400
+羅
 
 474
-00:00:48,110 --> 00:00:48,730
+00:00:47,480 --> 00:00:48,110
 針
 
 475
-00:00:47,560 --> 00:00:48,440
-盤
+00:00:48,110 --> 00:00:48,730
+針
 
 476
-00:00:48,440 --> 00:00:49,230
+00:00:47,560 --> 00:00:48,440
 盤
 
 477
+00:00:48,440 --> 00:00:49,230
+盤
+
+478
 00:00:47,610 --> 00:00:48,940
 なん
 
-478
+479
 00:00:48,940 --> 00:00:49,570
 なん
 
-479
+480
 00:00:47,650 --> 00:00:49,360
 て
 
-480
+481
 00:00:49,360 --> 00:00:49,860
 て
 
-481
-00:00:47,770 --> 00:00:50,730
-渋
-
 482
-00:00:50,730 --> 00:00:51,400
+00:00:47,770 --> 00:00:50,730
 渋
 
 483
-00:00:47,810 --> 00:00:51,110
-滞
+00:00:50,730 --> 00:00:51,400
+渋
 
 484
-00:00:51,110 --> 00:00:51,690
+00:00:47,810 --> 00:00:51,110
 滞
 
 485
+00:00:51,110 --> 00:00:51,690
+滞
+
+486
 00:00:47,900 --> 00:00:51,440
 の
 
-486
+487
 00:00:51,440 --> 00:00:52,070
 の
 
-487
+488
 00:00:47,900 --> 00:00:51,860
 も
 
-488
+489
 00:00:51,860 --> 00:00:52,440
 も
 
-489
+490
 00:00:47,940 --> 00:00:52,190
 と
 
-490
+491
 00:00:52,190 --> 00:00:52,900
 と
 
-491
+492
 00:00:47,440 --> 00:00:47,900
 ら
 
-492
+493
 00:00:47,900 --> 00:00:48,400
 ら
 
-493
+494
 00:00:47,480 --> 00:00:48,110
 しん
 
-494
+495
 00:00:48,110 --> 00:00:48,730
 しん
 
-495
+496
 00:00:47,560 --> 00:00:48,440
 ば
 
-496
+497
 00:00:48,440 --> 00:00:48,900
 ば
 
-497
+498
 00:00:47,560 --> 00:00:48,650
 ん
 
-498
+499
 00:00:48,650 --> 00:00:49,230
 ん
 
-499
+500
 00:00:47,770 --> 00:00:50,730
 じゅう
 
-500
+501
 00:00:50,730 --> 00:00:51,400
 じゅう
 
-501
+502
 00:00:47,810 --> 00:00:51,110
 たい
 
-502
+503
 00:00:51,110 --> 00:00:51,690
 たい
 
-503
-00:00:53,150 --> 00:00:53,570
-熱
-
 504
-00:00:53,570 --> 00:00:54,200
+00:00:53,150 --> 00:00:53,570
 熱
 
 505
+00:00:53,570 --> 00:00:54,200
+熱
+
+506
 00:00:53,190 --> 00:00:53,950
 に
 
-506
+507
 00:00:53,950 --> 00:00:54,400
 に
 
-507
+508
 00:00:53,240 --> 00:00:54,110
 う
 
-508
+509
 00:00:54,110 --> 00:00:54,570
 う
 
-509
+510
 00:00:53,280 --> 00:00:54,360
 か
 
-510
+511
 00:00:54,360 --> 00:00:54,860
 か
 
-511
+512
 00:00:53,360 --> 00:00:54,610
 さ
 
-512
+513
 00:00:54,610 --> 00:00:55,280
 さ
 
-513
+514
 00:00:53,400 --> 00:00:55,070
 れ
 
-514
+515
 00:00:55,070 --> 00:00:55,570
 れ
 
-515
-00:00:53,530 --> 00:00:55,700
-舵
-
 516
-00:00:55,700 --> 00:00:56,360
+00:00:53,530 --> 00:00:55,700
 舵
 
 517
+00:00:55,700 --> 00:00:56,360
+舵
+
+518
 00:00:53,570 --> 00:00:56,450
 を
 
-518
+519
 00:00:56,450 --> 00:00:57,410
 を
 
-519
+520
 00:00:53,650 --> 00:00:57,200
 と
 
-520
+521
 00:00:57,200 --> 00:00:57,660
 と
 
-521
+522
 00:00:53,700 --> 00:00:57,370
 る
 
-522
+523
 00:00:57,370 --> 00:00:57,780
 る
 
-523
+524
 00:00:53,740 --> 00:00:57,570
 の
 
-524
+525
 00:00:57,570 --> 00:00:57,910
 の
 
-525
+526
 00:00:53,780 --> 00:00:57,700
 さ
 
-526
+527
 00:00:57,700 --> 00:00:58,700
 さ
 
-527
+528
 00:00:53,150 --> 00:00:53,570
 ね
 
-528
+529
 00:00:53,570 --> 00:00:54,070
 ね
 
-529
+530
 00:00:53,150 --> 00:00:53,860
 つ
 
-530
+531
 00:00:53,860 --> 00:00:54,200
 つ
 
-531
+532
 00:00:53,530 --> 00:00:55,700
 か
 
-532
+533
 00:00:55,700 --> 00:00:56,360
 か
 
-533
+534
 00:00:53,570 --> 00:00:56,110
 じ
 
-534
+535
 00:00:56,110 --> 00:00:56,700
 じ
 
-535
+536
 00:00:58,870 --> 00:00:59,370
 ホ
 
-536
+537
 00:00:59,370 --> 00:00:59,870
 ホ
 
-537
+538
 00:00:58,910 --> 00:00:59,580
 コ
 
-538
+539
 00:00:59,580 --> 00:00:59,910
 コ
 
-539
+540
 00:00:59,030 --> 00:00:59,700
 リ
 
-540
+541
 00:00:59,700 --> 00:01:00,160
 リ
 
-541
+542
 00:00:59,030 --> 00:00:59,870
 か
 
-542
+543
 00:00:59,870 --> 00:01:00,290
 か
 
-543
+544
 00:00:59,080 --> 00:01:00,030
 ぶ
 
-544
+545
 00:01:00,030 --> 00:01:00,700
 ぶ
 
-545
+546
 00:00:59,160 --> 00:01:00,410
 って
 
-546
+547
 00:01:00,410 --> 00:01:00,950
 って
 
-547
+548
 00:00:59,200 --> 00:01:00,700
 た
 
-548
+549
 00:01:00,700 --> 00:01:01,240
 た
 
-549
-00:00:59,280 --> 00:01:01,870
-宝
-
 550
-00:01:01,870 --> 00:01:02,750
+00:00:59,280 --> 00:01:01,870
 宝
 
 551
+00:01:01,870 --> 00:01:02,750
+宝
+
+552
 00:00:59,370 --> 00:01:02,500
 の
 
-552
+553
 00:01:02,500 --> 00:01:03,080
 の
 
-553
-00:00:59,370 --> 00:01:02,870
-地
-
 554
-00:01:02,870 --> 00:01:03,500
+00:00:59,370 --> 00:01:02,870
 地
 
 555
-00:00:59,410 --> 00:01:03,250
-図
+00:01:02,870 --> 00:01:03,500
+地
 
 556
-00:01:03,250 --> 00:01:03,710
+00:00:59,410 --> 00:01:03,250
 図
 
 557
+00:01:03,250 --> 00:01:03,710
+図
+
+558
 00:00:59,530 --> 00:01:03,450
 も
 
-558
+559
 00:01:03,450 --> 00:01:04,660
 も
 
-559
+560
 00:00:59,280 --> 00:01:01,870
 た
 
-560
+561
 00:01:01,870 --> 00:01:02,250
 た
 
-561
+562
 00:00:59,280 --> 00:01:02,000
 か
 
-562
+563
 00:01:02,000 --> 00:01:02,410
 か
 
-563
+564
 00:00:59,280 --> 00:01:02,200
 ら
 
-564
+565
 00:01:02,200 --> 00:01:02,750
 ら
 
-565
+566
 00:00:59,370 --> 00:01:02,870
 ち
 
-566
+567
 00:01:02,870 --> 00:01:03,500
 ち
 
-567
+568
 00:00:59,410 --> 00:01:03,250
 ず
 
-568
+569
 00:01:03,250 --> 00:01:03,710
 ず
 
-569
-00:01:04,080 --> 00:01:04,660
-確
-
 570
-00:01:04,660 --> 00:01:05,330
+00:01:04,080 --> 00:01:04,660
 確
 
 571
+00:01:04,660 --> 00:01:05,330
+確
+
+572
 00:01:04,160 --> 00:01:05,040
 か
 
-572
+573
 00:01:05,040 --> 00:01:05,670
 か
 
-573
+574
 00:01:04,160 --> 00:01:05,370
 め
 
-574
+575
 00:01:05,370 --> 00:01:06,000
 め
 
-575
+576
 00:01:04,210 --> 00:01:05,710
 た
 
-576
+577
 00:01:05,710 --> 00:01:06,370
 た
 
-577
+578
 00:01:04,330 --> 00:01:06,170
 の
 
-578
+579
 00:01:06,170 --> 00:01:06,710
 の
 
-579
+580
 00:01:04,370 --> 00:01:06,500
 な
 
-580
+581
 00:01:06,500 --> 00:01:07,250
 な
 
-581
+582
 00:01:04,370 --> 00:01:07,000
 ら
 
-582
+583
 00:01:07,000 --> 00:01:07,830
 ら
 
-583
-00:01:04,410 --> 00:01:07,540
-伝
-
 584
-00:01:07,540 --> 00:01:08,040
+00:01:04,410 --> 00:01:07,540
 伝
 
 585
-00:01:04,500 --> 00:01:07,830
-説
+00:01:07,540 --> 00:01:08,040
+伝
 
 586
-00:01:07,830 --> 00:01:08,840
+00:01:04,500 --> 00:01:07,830
 説
 
 587
+00:01:07,830 --> 00:01:08,840
+説
+
+588
 00:01:04,540 --> 00:01:08,590
 じゃ
 
-588
+589
 00:01:08,590 --> 00:01:09,210
 じゃ
 
-589
+590
 00:01:04,580 --> 00:01:09,000
 な
 
-590
+591
 00:01:09,000 --> 00:01:09,460
 な
 
-591
+592
 00:01:04,660 --> 00:01:09,170
 い!
 
-592
+593
 00:01:09,170 --> 00:01:09,960
 い!
 
-593
+594
 00:01:04,080 --> 00:01:04,660
 た
 
-594
+595
 00:01:04,660 --> 00:01:05,000
 た
 
-595
+596
 00:01:04,080 --> 00:01:04,750
 し
 
-596
+597
 00:01:04,750 --> 00:01:05,330
 し
 
-597
+598
 00:01:04,410 --> 00:01:07,540
 でん
 
-598
+599
 00:01:07,540 --> 00:01:08,040
 でん
 
-599
+600
 00:01:04,500 --> 00:01:07,830
 せ
 
-600
+601
 00:01:07,830 --> 00:01:08,460
 せ
 
-601
+602
 00:01:04,500 --> 00:01:08,170
 つ
 
-602
+603
 00:01:08,170 --> 00:01:08,840
 つ
 
-603
-00:01:11,000 --> 00:01:11,460
-個
-
 604
-00:01:11,460 --> 00:01:12,050
+00:01:11,000 --> 00:01:11,460
 個
 
 605
-00:01:11,000 --> 00:01:11,800
-人
+00:01:11,460 --> 00:01:12,050
+個
 
 606
-00:01:11,800 --> 00:01:13,130
+00:01:11,000 --> 00:01:11,800
 人
 
 607
-00:01:11,050 --> 00:01:12,840
-的
+00:01:11,800 --> 00:01:13,130
+人
 
 608
-00:01:12,840 --> 00:01:13,670
+00:01:11,050 --> 00:01:12,840
 的
 
 609
+00:01:12,840 --> 00:01:13,670
+的
+
+610
 00:01:11,130 --> 00:01:13,460
 な
 
-610
+611
 00:01:13,460 --> 00:01:14,380
 な
 
-611
-00:01:11,170 --> 00:01:14,170
-嵐
-
 612
-00:01:14,170 --> 00:01:15,010
+00:01:11,170 --> 00:01:14,170
 嵐
 
 613
+00:01:14,170 --> 00:01:15,010
+嵐
+
+614
 00:01:11,210 --> 00:01:14,800
 は
 
-614
+615
 00:01:14,800 --> 00:01:15,630
 は
 
-615
-00:01:11,250 --> 00:01:15,380
-誰
-
 616
-00:01:15,380 --> 00:01:16,340
+00:01:11,250 --> 00:01:15,380
 誰
 
 617
+00:01:15,380 --> 00:01:16,340
+誰
+
+618
 00:01:11,300 --> 00:01:16,130
 か
 
-618
+619
 00:01:16,130 --> 00:01:16,510
 か
 
-619
+620
 00:01:11,340 --> 00:01:16,300
 の
 
-620
+621
 00:01:16,300 --> 00:01:17,010
 の
 
-621
+622
 00:01:11,000 --> 00:01:11,460
 こ
 
-622
+623
 00:01:11,460 --> 00:01:12,050
 こ
 
-623
+624
 00:01:11,000 --> 00:01:11,800
 じ
 
-624
+625
 00:01:11,800 --> 00:01:12,460
 じ
 
-625
+626
 00:01:11,000 --> 00:01:12,170
 ん
 
-626
+627
 00:01:12,170 --> 00:01:13,130
 ん
 
-627
+628
 00:01:11,050 --> 00:01:12,840
 て
 
-628
+629
 00:01:12,840 --> 00:01:13,210
 て
 
-629
+630
 00:01:11,050 --> 00:01:12,960
 き
 
-630
+631
 00:01:12,960 --> 00:01:13,670
 き
 
-631
+632
 00:01:11,170 --> 00:01:14,170
 あ
 
-632
+633
 00:01:14,170 --> 00:01:14,760
 あ
 
-633
+634
 00:01:11,170 --> 00:01:14,470
 ら
 
-634
+635
 00:01:14,470 --> 00:01:14,880
 ら
 
-635
+636
 00:01:11,170 --> 00:01:14,670
 し
 
-636
+637
 00:01:14,670 --> 00:01:15,010
 し
 
-637
+638
 00:01:11,250 --> 00:01:15,380
 だ
 
-638
+639
 00:01:15,380 --> 00:01:16,130
 だ
 
-639
+640
 00:01:11,250 --> 00:01:15,880
 れ
 
-640
+641
 00:01:15,880 --> 00:01:16,340
 れ
 
-641
+642
 00:01:16,760 --> 00:01:17,180
 バ
 
-642
+643
 00:01:17,180 --> 00:01:17,800
 バ
 
-643
+644
 00:01:16,800 --> 00:01:17,550
 イ
 
-644
+645
 00:01:17,550 --> 00:01:18,090
 イ
 
-645
+646
 00:01:16,840 --> 00:01:17,840
 オ
 
-646
+647
 00:01:17,840 --> 00:01:18,850
 オ
 
-647
+648
 00:01:16,880 --> 00:01:18,600
 リ
 
-648
+649
 00:01:18,600 --> 00:01:19,140
 リ
 
-649
+650
 00:01:16,970 --> 00:01:18,930
 ズ
 
-650
+651
 00:01:18,930 --> 00:01:19,430
 ズ
 
-651
+652
 00:01:16,970 --> 00:01:19,140
 ム
 
-652
+653
 00:01:19,140 --> 00:01:19,970
 ム
 
-653
-00:01:17,050 --> 00:01:19,680
-乗
-
 654
-00:01:19,680 --> 00:01:20,180
+00:01:17,050 --> 00:01:19,680
 乗
 
 655
+00:01:19,680 --> 00:01:20,180
+乗
+
+656
 00:01:17,090 --> 00:01:19,970
 っか
 
-656
+657
 00:01:19,970 --> 00:01:20,470
 っか
 
-657
+658
 00:01:17,140 --> 00:01:20,260
 っ
 
-658
+659
 00:01:20,260 --> 00:01:20,810
 っ
 
-659
+660
 00:01:17,180 --> 00:01:20,600
 て
 
-660
+661
 00:01:20,600 --> 00:01:22,350
 て
 
-661
+662
 00:01:17,050 --> 00:01:19,680
 の
 
-662
+663
 00:01:19,680 --> 00:01:20,180
 の
 
-663
-00:01:21,970 --> 00:01:22,350
-思
-
 664
-00:01:22,350 --> 00:01:22,970
+00:01:21,970 --> 00:01:22,350
 思
 
 665
+00:01:22,350 --> 00:01:22,970
+思
+
+666
 00:01:21,970 --> 00:01:22,680
 い
 
-666
+667
 00:01:22,680 --> 00:01:23,060
 い
 
-667
+668
 00:01:22,020 --> 00:01:22,770
 す
 
-668
+669
 00:01:22,770 --> 00:01:23,310
 す
 
-669
+670
 00:01:22,100 --> 00:01:23,100
 ご
 
-670
+671
 00:01:23,100 --> 00:01:23,470
 ご
 
-671
+672
 00:01:22,140 --> 00:01:23,270
 せ
 
-672
+673
 00:01:23,270 --> 00:01:23,680
 せ
 
-673
+674
 00:01:22,180 --> 00:01:23,430
 ば
 
-674
+675
 00:01:23,430 --> 00:01:23,850
 ば
 
-675
+676
 00:01:22,270 --> 00:01:23,600
 いい!
 
-676
+677
 00:01:23,600 --> 00:01:24,350
 いい!
 
-677
+678
 00:01:21,970 --> 00:01:22,350
 お
 
-678
+679
 00:01:22,350 --> 00:01:22,770
 お
 
-679
+680
 00:01:21,970 --> 00:01:22,560
 も
 
-680
+681
 00:01:22,560 --> 00:01:22,970
 も
 
-681
+682
 00:01:25,640 --> 00:01:26,100
 あ
 
-682
+683
 00:01:26,100 --> 00:01:26,390
 あ
 
-683
+684
 00:01:25,730 --> 00:01:26,140
 り
 
-684
+685
 00:01:26,140 --> 00:01:26,480
 り
 
-685
+686
 00:01:25,770 --> 00:01:26,270
 った
 
-686
+687
 00:01:26,270 --> 00:01:26,730
 った
 
-687
+688
 00:01:25,810 --> 00:01:26,440
 け
 
-688
+689
 00:01:26,440 --> 00:01:26,890
 け
 
-689
+690
 00:01:25,850 --> 00:01:26,640
 の
 
-690
+691
 00:01:26,640 --> 00:01:27,400
 の
 
-691
-00:01:25,890 --> 00:01:27,150
-夢
-
 692
-00:01:27,150 --> 00:01:27,940
+00:01:25,890 --> 00:01:27,150
 夢
 
 693
+00:01:27,150 --> 00:01:27,940
+夢
+
+694
 00:01:25,940 --> 00:01:27,730
 を
 
-694
+695
 00:01:27,730 --> 00:01:28,900
 を
 
-695
+696
 00:01:26,100 --> 00:01:28,980
 か
 
-696
+697
 00:01:28,980 --> 00:01:29,400
 か
 
-697
+698
 00:01:26,100 --> 00:01:29,110
 き
 
-698
+699
 00:01:29,110 --> 00:01:29,560
 き
 
-699
-00:01:26,140 --> 00:01:29,310
-集
-
 700
-00:01:29,310 --> 00:01:30,060
+00:01:26,140 --> 00:01:29,310
 集
 
 701
+00:01:29,310 --> 00:01:30,060
+集
+
+702
 00:01:26,230 --> 00:01:29,810
 め
 
-702
+703
 00:01:29,810 --> 00:01:31,570
 め
 
-703
+704
 00:01:25,890 --> 00:01:27,150
 ゆ
 
-704
+705
 00:01:27,150 --> 00:01:27,770
 ゆ
 
-705
+706
 00:01:25,890 --> 00:01:27,480
 め
 
-706
+707
 00:01:27,480 --> 00:01:27,940
 め
 
-707
+708
 00:01:26,140 --> 00:01:29,310
 あ
 
-708
+709
 00:01:29,310 --> 00:01:29,810
 あ
 
-709
+710
 00:01:26,140 --> 00:01:29,560
 つ
 
-710
+711
 00:01:29,560 --> 00:01:30,060
 つ
 
-711
-00:01:31,150 --> 00:01:31,570
-捜
-
 712
-00:01:31,570 --> 00:01:32,230
+00:01:31,150 --> 00:01:31,570
 捜
 
 713
+00:01:31,570 --> 00:01:32,230
+捜
+
+714
 00:01:31,270 --> 00:01:31,940
 し
 
-714
+715
 00:01:31,940 --> 00:01:32,400
 し
 
-715
-00:01:31,270 --> 00:01:32,150
-物
-
 716
-00:01:32,150 --> 00:01:32,780
+00:01:31,270 --> 00:01:32,150
 物
 
 717
+00:01:32,150 --> 00:01:32,780
+物
+
+718
 00:01:31,360 --> 00:01:32,570
 を
 
-718
+719
 00:01:32,570 --> 00:01:33,070
 を
 
-719
-00:01:31,400 --> 00:01:32,860
-捜
-
 720
-00:01:32,860 --> 00:01:33,570
+00:01:31,400 --> 00:01:32,860
 捜
 
 721
+00:01:32,860 --> 00:01:33,570
+捜
+
+722
 00:01:31,400 --> 00:01:33,360
 し
 
-722
+723
 00:01:33,360 --> 00:01:34,190
 し
 
-723
+724
 00:01:31,480 --> 00:01:33,940
 に
 
-724
+725
 00:01:33,940 --> 00:01:34,570
 に
 
-725
-00:01:31,570 --> 00:01:34,360
-行
-
 726
-00:01:34,360 --> 00:01:34,940
+00:01:31,570 --> 00:01:34,360
 行
 
 727
+00:01:34,360 --> 00:01:34,940
+行
+
+728
 00:01:31,570 --> 00:01:34,690
 く
 
-728
+729
 00:01:34,690 --> 00:01:35,240
 く
 
-729
+730
 00:01:31,610 --> 00:01:35,030
 の
 
-730
+731
 00:01:35,030 --> 00:01:35,570
 の
 
-731
+732
 00:01:31,650 --> 00:01:35,280
 さ
 
-732
+733
 00:01:35,280 --> 00:01:37,110
 さ
 
-733
+734
 00:01:31,150 --> 00:01:31,570
 さ
 
-734
+735
 00:01:31,570 --> 00:01:32,070
 さ
 
-735
+736
 00:01:31,150 --> 00:01:31,860
 が
 
-736
+737
 00:01:31,860 --> 00:01:32,230
 が
 
-737
+738
 00:01:31,270 --> 00:01:32,150
 も
 
-738
+739
 00:01:32,150 --> 00:01:32,650
 も
 
-739
+740
 00:01:31,270 --> 00:01:32,400
 の
 
-740
+741
 00:01:32,400 --> 00:01:32,780
 の
 
-741
+742
 00:01:31,400 --> 00:01:32,860
 さ
 
-742
+743
 00:01:32,860 --> 00:01:33,480
 さ
 
-743
+744
 00:01:31,400 --> 00:01:33,230
 が
 
-744
+745
 00:01:33,230 --> 00:01:33,570
 が
 
-745
+746
 00:01:31,570 --> 00:01:34,360
 ゆ
 
-746
+747
 00:01:34,360 --> 00:01:34,940
 ゆ
 
-747
+748
 00:01:36,860 --> 00:01:37,360
 ポ
 
-748
+749
 00:01:37,360 --> 00:01:37,740
 ポ
 
-749
+750
 00:01:36,900 --> 00:01:37,530
 ケ
 
-750
+751
 00:01:37,530 --> 00:01:38,110
 ケ
 
-751
+752
 00:01:37,030 --> 00:01:37,860
 ット
 
-752
+753
 00:01:37,860 --> 00:01:38,700
 ット
 
-753
+754
 00:01:37,070 --> 00:01:38,450
 の
 
-754
+755
 00:01:38,450 --> 00:01:39,200
 の
 
-755
+756
 00:01:37,070 --> 00:01:38,950
 コ
 
-756
+757
 00:01:38,950 --> 00:01:39,530
 コ
 
-757
+758
 00:01:37,110 --> 00:01:39,240
 イン
 
-758
+759
 00:01:39,240 --> 00:01:40,200
 イン
 
-759
+760
 00:01:39,660 --> 00:01:40,200
 そ
 
-760
+761
 00:01:40,200 --> 00:01:40,660
 そ
 
-761
+762
 00:01:39,700 --> 00:01:40,370
 れ
 
-762
+763
 00:01:40,370 --> 00:01:40,870
 れ
 
-763
+764
 00:01:39,700 --> 00:01:40,580
 と
 
-764
+765
 00:01:40,580 --> 00:01:40,910
 と
 
-765
+766
 00:01:39,740 --> 00:01:40,700
 You
 
-766
+767
 00:01:40,700 --> 00:01:41,200
 You
 
-767
+768
 00:01:39,780 --> 00:01:40,950
 wan
 
-768
+769
 00:01:40,950 --> 00:01:41,370
 wan
 
-769
+770
 00:01:39,870 --> 00:01:41,080
 na
 
-770
+771
 00:01:41,080 --> 00:01:41,530
 na
 
-771
+772
 00:01:39,910 --> 00:01:41,280
 be
 
-772
+773
 00:01:41,280 --> 00:01:41,870
 be
 
-773
+774
 00:01:39,950 --> 00:01:41,660
 my
 
-774
+775
 00:01:41,660 --> 00:01:42,200
 my
 
-775
+776
 00:01:40,030 --> 00:01:41,910
 Friend?
 
-776
+777
 00:01:41,910 --> 00:01:43,370
 Friend?
-

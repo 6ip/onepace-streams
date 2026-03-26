@@ -1,636 +1,640 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:01,180 --> 00:00:03,920
 ¡Vamos! ¡Brillando y corriendo por siempre!
 
-2
+3
 00:00:03,920 --> 00:00:06,690
 Sigamos lanzándonos hacia adelante.
 
-3
+4
 00:00:06,690 --> 00:00:09,610
 Los lazos que nos unen nunca se romperán...
 
-4
+5
 00:00:09,610 --> 00:00:12,830
 ...y su luz brillará hasta el final de nuestros sueños.
 
-5
+6
 00:00:12,830 --> 00:00:15,320
 ¡Despierta! ¡Despierta! ¡Despierta! ¡Despierta, latido!
 
-6
+7
 00:00:15,320 --> 00:00:18,150
 ¡Somos los mejores! ¡Sigamos avanzando!
 
-7
+8
 00:00:23,670 --> 00:00:28,080
 La libertad es la única brújula que necesitamos. Somos los mejores amigos.
 
-8
+9
 00:00:28,080 --> 00:00:34,580
 Nosotros seremos los que marquemos nuestro propio camino de ahora en adelante.
 
-9
+10
 00:00:34,580 --> 00:00:39,020
 Siempre vamos hacia adelante a máxima velocidad. Al este, al oeste.
 
-10
+11
 00:00:39,020 --> 00:00:45,860
 Cada día trae algo nuevo y no dejamos nada a medias.
 
-11
+12
 00:00:45,860 --> 00:00:51,030
 Estoy tan entusiasmado que no puedo aguardar a que amanezca. (No puedo esperar)
 
-12
+13
 00:00:51,030 --> 00:00:56,070
 Ya que estamos, agarremos el sol...
 
-13
+14
 00:00:56,070 --> 00:00:59,920
 ...y llevémoslo a rastras al cielo. ¡Vamos!
 
-14
+15
 00:00:59,920 --> 00:01:02,250
 ¡Así es! ¡Vamos brillando y corriendo por siempre!
 
-15
+16
 00:01:02,250 --> 00:01:06,620
 Entrelacemos los fragmentos de nuestros sueños.
 
-16
+17
 00:01:06,620 --> 00:01:10,750
 Cuando se vuelvan uno solo, será nuestro tesoro.
 
-17
+18
 00:01:10,750 --> 00:01:13,480
 ¡Vamos! ¡Brillando y corriendo por siempre!
 
-18
+19
 00:01:13,480 --> 00:01:16,190
 Sigamos lanzándonos hacia adelante.
 
-19
+20
 00:01:16,190 --> 00:01:19,150
 Los lazos que nos unen nunca se romperán...
 
-20
+21
 00:01:19,150 --> 00:01:22,300
 ...y su luz brillará hasta el final de nuestros sueños.
 
-21
+22
 00:01:22,300 --> 00:01:24,950
 ¡Despierta! ¡Despierta! ¡Despierta! ¡Despierta, latido!
 
-22
+23
 00:01:24,950 --> 00:01:27,870
 ¡Somos los mejores! ¡Sigamos avanzando!
 
-23
+24
 00:01:34,540 --> 00:01:38,610
 BAJO TIERRA
 DENTRO DE LA
  TORRE DE LOS OFICIALES
 
-24
+25
 00:01:39,360 --> 00:01:45,650
 Con esta uva falsa hecha de tatababasco, la salsa más picante del mundo, dejaremos a Sugar inconsciente.
 
-25
+26
 00:02:17,080 --> 00:02:19,580
 Quizá puedas matar a 
 una mosca, pero a mí no.
 
-26
+27
 00:02:19,580 --> 00:02:21,130
 Soy demasiado rápido.
 
-27
+28
 00:02:23,760 --> 00:02:25,880
 ¡Es tan rápido que no puedo verlo!
 
-28
+29
 00:02:25,880 --> 00:02:27,390
 Puede que lo consiga.
 
-29
+30
 00:02:29,190 --> 00:02:32,630
 Rescataremos a nuestros compañeros cautivos.
 
-30
+31
 00:02:32,630 --> 00:02:34,520
 ¡Ánimo, Leo!
 
-31
+32
 00:02:34,520 --> 00:02:35,940
 ¡Sabemos que puedes lograrlo!
 
-32
+33
 00:02:35,940 --> 00:02:38,240
 Por favor, consíguelo.
 
-33
+34
 00:02:42,470 --> 00:02:43,410
 ¡Espera, Leo!
 
-34
+35
 00:02:45,890 --> 00:02:47,380
 ¿Robiland?
 
-35
+36
 00:02:47,380 --> 00:02:50,350
 PUERTO COMERCIAL SUBTERRÁNEO
 
-36
+37
 00:03:00,360 --> 00:03:05,430
 FLOR BRILLANTE
 
-37
+38
 00:03:00,360 --> 00:03:05,430
 "GIRASOL ELEGANTE"
 
-38
+39
 00:03:06,210 --> 00:03:11,640
 FRUTAS DEL DIABLO ARTIFICIALES
 
-39
+40
 00:03:06,210 --> 00:03:11,640
 "FÁBRICA DE SMILE"
 
-40
+41
 00:05:10,060 --> 00:05:11,360
 ¿Por qué?
 
-41
+42
 00:05:41,460 --> 00:05:44,590
 ¿Cómo pueden creerse una mentira tan obvia?
 
-42
+43
 00:08:00,600 --> 00:08:03,430
 Si no hago nada, no me pasará nada.
 
-43
+44
 00:08:43,540 --> 00:08:44,640
 ¡¿Qué?!
 
-44
+45
 00:08:45,440 --> 00:08:47,090
 ¡¿Qué?!
 
-45
+46
 00:09:15,470 --> 00:09:16,440
 ¡Silencio!
 
-46
-00:09:32,540 --> 00:09:35,790
-Mola
-
 47
 00:09:32,540 --> 00:09:35,790
-Shi
+Mola
 
 48
 00:09:32,540 --> 00:09:35,790
-Chibukai
+Shi
 
 49
 00:09:32,540 --> 00:09:35,790
-Fansub!
+Chibukai
 
 50
 00:09:32,540 --> 00:09:35,790
-Ositos negros.
+Fansub!
 
 51
+00:09:32,540 --> 00:09:35,790
+Ositos negros.
+
+52
 00:09:43,370 --> 00:09:45,300
 ¡Oh, no! ¡Nos convirtió en juguetes!
 
-52
+53
 00:09:51,200 --> 00:09:54,410
 ¡¿Nos han olvidado a todos?!
 
-53
+54
 00:10:04,650 --> 00:10:06,950
 ¡No puedo desobedecerla!
 
-54
+55
 00:10:06,950 --> 00:10:09,010
 ¡Aniquilarlos a todos...!
 
-55
+56
 00:10:09,010 --> 00:10:10,160
 ¡¿A mí también?!
 
-56
+57
 00:10:14,340 --> 00:10:17,030
 ¡No! ¡No quiero pelear!
 
-57
+58
 00:10:23,500 --> 00:10:26,610
 ¡Leo! ¡Soy yo, Flapper!
 
-58
+59
 00:10:32,040 --> 00:10:34,900
 ¡No! ¡No! ¡No!
 
-59
+60
 00:10:34,900 --> 00:10:37,650
 ¡No!
 
-60
+61
 00:10:38,920 --> 00:10:41,290
 ¡Trébol, vuelve ahora mismo!
 
-61
+62
 00:10:41,290 --> 00:10:42,230
 ¡Es una trampa!
 
-62
+63
 00:10:43,080 --> 00:10:45,000
 ¡Trébol!
 
-63
+64
 00:11:52,410 --> 00:11:54,690
 ¡Trébol!
 
-64
-00:12:07,600 --> 00:12:09,740
-Mola
-
 65
 00:12:07,600 --> 00:12:09,740
-Shi
+Mola
 
 66
 00:12:07,600 --> 00:12:09,740
-Chibukai
+Shi
 
 67
 00:12:07,600 --> 00:12:09,740
-Fansub!
+Chibukai
 
 68
 00:12:07,600 --> 00:12:09,740
-Cadena pegajosa.
+Fansub!
 
 69
-00:12:16,410 --> 00:12:19,640
-Mola
+00:12:07,600 --> 00:12:09,740
+Cadena pegajosa.
 
 70
 00:12:16,410 --> 00:12:19,640
-Shi
+Mola
 
 71
 00:12:16,410 --> 00:12:19,640
-Chibukai
+Shi
 
 72
 00:12:16,410 --> 00:12:19,640
-Fansub!
+Chibukai
 
 73
 00:12:16,410 --> 00:12:19,640
-...pegajoso.
+Fansub!
 
 74
-00:12:23,710 --> 00:12:26,560
-Mola
+00:12:16,410 --> 00:12:19,640
+...pegajoso.
 
 75
 00:12:23,710 --> 00:12:26,560
-Shi
+Mola
 
 76
 00:12:23,710 --> 00:12:26,560
-Chibukai
+Shi
 
 77
 00:12:23,710 --> 00:12:26,560
-Fansub!
+Chibukai
 
 78
 00:12:23,710 --> 00:12:26,560
-Meteoro...
+Fansub!
 
 79
+00:12:23,710 --> 00:12:26,560
+Meteoro...
+
+80
 00:16:10,520 --> 00:16:13,650
 PALACIO REAL
 PRIMER PISO
 EN EL ASCENSOR
 
-80
+81
 00:16:29,580 --> 00:16:32,600
 DRESSROSA 
 ESTA MAÑANA
 
-81
+82
 00:16:29,570 --> 00:16:32,600
 ¿Doflamingo-sama renunció 
 a su título de Shichibukai?
 
-82
+83
 00:16:32,600 --> 00:16:37,040
 ¿También va a renunciar 
 al trono de Dressrosa?
 
-83
+84
 00:16:42,350 --> 00:16:46,000
 ¡Es un simple pirata ahora!
 
-84
+85
 00:16:46,000 --> 00:16:48,960
 ¡Lo perseguirá la Marina!
 
-85
+86
 00:16:48,960 --> 00:16:50,920
 ¡Seremos libres!
 
-86
+87
 00:16:50,920 --> 00:16:53,530
 Capitán, ¿has visto los periódicos?
 
-87
+88
 00:16:53,530 --> 00:16:56,260
 Ahora nos devolverán
  a nuestros compañeros, ¿verdad?
 
-88
+89
 00:16:56,260 --> 00:16:58,930
 No tendremos que pelear contra Doflamingo.
 
-89
+90
 00:16:58,930 --> 00:16:59,410
 ¡Qué ali-!
 
-90
+91
 00:17:01,240 --> 00:17:04,800
 No, fue una noticia falsa.
 
-91
+92
 00:17:06,540 --> 00:17:08,640
 ¡Imposible!
 
-92
+93
 00:17:11,680 --> 00:17:13,380
 ¡Menos mal que fue un error!
 
-93
+94
 00:17:14,080 --> 00:17:18,570
 De ninguna manera alguien tan grandioso 
 como él dejaría así el trono.
 
-94
+95
 00:17:18,570 --> 00:17:20,190
 ¡Doflamingo-sama!
 
-95
+96
 00:17:20,190 --> 00:17:23,820
 Participaré en el torneo de hoy 
 y obtendré la fruta Mera Mera.
 
-96
+97
 00:17:23,820 --> 00:17:27,130
 ¡Y después mataré a Doflamingo!
 
-97
+98
 00:17:27,130 --> 00:17:29,890
 Rebecca, piénsalo bien.
 
-98
+99
 00:17:31,430 --> 00:17:33,130
 Comprendo tu ira.
 
-99
+100
 00:17:33,130 --> 00:17:35,050
 Yo también me siento así,
 
-100
+101
 00:17:35,050 --> 00:17:37,040
 pero no hagas algo imprudente.
 
-101
+102
 00:17:37,040 --> 00:17:38,970
 Nosotros seremos quienes peleemos.
 
-102
+103
 00:17:38,970 --> 00:17:40,810
 Todo está preparado.
 
-103
+104
 00:17:41,450 --> 00:17:43,680
 No, no esperaré.
 
-104
+105
 00:17:44,610 --> 00:17:47,510
 Fue como caer del cielo al infierno.
 
-105
+106
 00:17:47,510 --> 00:17:49,750
 Todos están hartos.
 
-106
+107
 00:17:49,750 --> 00:17:51,150
 ¡Su voluntad se ha derrumbado!
 
-107
+108
 00:17:54,990 --> 00:17:58,810
 ¿Sólo nos queda esperar a que
  llegue el día de nuestra ejecución?
 
-108
+109
 00:18:01,330 --> 00:18:05,170
 ¿Serás libre al ganar mil combates?
 
-109
+110
 00:18:05,170 --> 00:18:07,330
 ¡¿Cómo va a ser eso esperanza?!
 
-110
+111
 00:18:07,330 --> 00:18:08,770
 Es un muro de desesperación.
 
-111
+112
 00:18:08,770 --> 00:18:13,160
 ¿Kyros, el gladiador legendario
  que logró tres mil triunfos?
 
-112
+113
 00:18:13,160 --> 00:18:16,640
 Todos saben que esa estatua es una mentira.
 
-113
+114
 00:18:16,640 --> 00:18:20,980
 Kyros es un guerrero que inventaron
  los prisioneros que agonizaban.
 
-114
+115
 00:18:21,570 --> 00:18:25,680
 Seguro que la crearon para 
 desear ser libres como él.
 
-115
+116
 00:18:27,650 --> 00:18:31,590
 ¡Prefiero no anhelar un sueño
 que no se puede cumplir,
 
-116
+117
 00:18:31,590 --> 00:18:34,600
 así que aprovecharé la
  oportunidad del torneo de hoy!
 
-117
+118
 00:18:34,600 --> 00:18:35,290
 ¡Por eso...!
 
-118
+119
 00:18:35,290 --> 00:18:36,700
 ¡No es una oportunidad!
 
-119
+120
 00:18:36,700 --> 00:18:40,100
 Es imposible que ganes.
 
-120
+121
 00:18:40,100 --> 00:18:41,570
 ¡Desperdiciarías tu vida!
 
-121
+122
 00:18:41,570 --> 00:18:43,710
 ¡Me niego a dejarte participar!
 
-122
+123
 00:18:43,710 --> 00:18:45,370
 ¡Eres muy impulsiva!
 
-123
+124
 00:18:45,370 --> 00:18:47,440
 ¡Sólo tienes dieciséis años!
 
-124
+125
 00:18:47,440 --> 00:18:50,430
 ¡¿Acaso crees que ya eres mayor, Rebecca?!
 
-125
+126
 00:18:50,710 --> 00:18:52,800
 ¡Sigues siendo una niña!
 
-126
+127
 00:18:52,800 --> 00:18:54,380
 ¡Escucha lo que digo!
 
-127
+128
 00:18:57,150 --> 00:19:00,180
 ¡No me hables como si fueras mi padre!
 
-128
+129
 00:19:01,050 --> 00:19:04,070
 Tú eres el impulsivo.
 
-129
+130
 00:19:04,070 --> 00:19:05,620
 ¡¿Qué plan?!
 
-130
+131
 00:19:05,620 --> 00:19:08,580
 ¡No hay forma de que 
 puedas vencer a Doflamingo!
 
-131
+132
 00:19:08,580 --> 00:19:13,060
 ¡No eres más que un juguete
  con una sola pierna!
 
-132
+133
 00:19:17,240 --> 00:19:18,560
 Efectivamente...
 
-133
+134
 00:19:19,810 --> 00:19:21,530
 Tienes razón.
 
-134
+135
 00:19:23,410 --> 00:19:24,610
 ¡No...!
 
-135
+136
 00:19:25,790 --> 00:19:28,140
 Disculpa mi intromisión,
 
-136
+137
 00:19:28,140 --> 00:19:31,280
 pero, por favor, no participes en ese torneo.
 
-137
+138
 00:19:31,280 --> 00:19:32,800
 No quise decir eso.
 
-138
+139
 00:19:32,800 --> 00:19:35,480
 ¡Soldado-san, espera!
 
-139
+140
 00:19:35,480 --> 00:19:38,910
 ¡Espera! ¡Soldado-san!
 
-140
+141
 00:19:38,910 --> 00:19:43,920
 ¡Tenía miedo porque pensé que ibas a sacrificarte!
 
-141
+142
 00:19:44,170 --> 00:19:46,010
 ¡Lo siento!
 
-142
+143
 00:19:46,010 --> 00:19:48,380
 ¡Espera, Soldado-san!
 
-143
+144
 00:19:48,380 --> 00:19:50,550
 ¡Soldado-san!
 
-144
+145
 00:20:07,120 --> 00:20:08,450
 ¡Vaya!
 
-145
+146
 00:20:10,630 --> 00:20:16,100
 ¡Por primera vez Rebecca está atacando!
 
-146
+147
 00:20:45,130 --> 00:20:47,200
 Un golpe directo.
 
-147
+148
 00:20:47,200 --> 00:20:51,100
 ¡La mujer invicta no pudo hacer nada!
 
-148
+149
 00:21:11,520 --> 00:21:15,220
 Iré a buscar algo de comer.
 
-149
+150
 00:21:24,480 --> 00:21:26,350
 Lo siento,
 
-150
+151
 00:21:26,350 --> 00:21:30,440
 no pude proteger a tu madre.
 
-151
+152
 00:21:33,840 --> 00:21:36,640
 PALACIO REAL
 PRIMER PISO
 FRENTE AL ASCENSOR
 
-152
+153
 00:21:37,830 --> 00:21:44,470
 SOLDADO-SAN VS.
 LAO G
 
-153
+154
 00:22:28,500 --> 00:22:34,870
 PUERTO COMERCIAL
  SUBTERRÁNEO
 TORRE DE LOS OFICIALES
-

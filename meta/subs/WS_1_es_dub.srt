@@ -1,31 +1,31 @@
 1
-00:11:15,480 --> 00:11:17,280
-CHIMNEY
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
 00:11:15,480 --> 00:11:17,280
 CHIMNEY
 
 3
-00:11:17,400 --> 00:11:19,240
-GONBE
+00:11:15,480 --> 00:11:17,280
+CHIMNEY
 
 4
 00:11:17,400 --> 00:11:19,240
 GONBE
 
 5
-00:11:19,360 --> 00:11:23,530
-KOKORO, JEFA DE ESTACIÓN
+00:11:17,400 --> 00:11:19,240
+GONBE
 
 6
 00:11:19,360 --> 00:11:23,530
 KOKORO, JEFA DE ESTACIÓN
 
 7
-00:18:24,200 --> 00:18:29,080
-WATER SEVEN
-"LA CIUDAD DEL AGUA"
+00:11:19,360 --> 00:11:23,530
+KOKORO, JEFA DE ESTACIÓN
 
 8
 00:18:24,200 --> 00:18:29,080
@@ -33,9 +33,9 @@ WATER SEVEN
 "LA CIUDAD DEL AGUA"
 
 9
-00:21:55,620 --> 00:21:59,500
-UN ASTILLERO DE
+00:18:24,200 --> 00:18:29,080
 WATER SEVEN
+"LA CIUDAD DEL AGUA"
 
 10
 00:21:55,620 --> 00:21:59,500
@@ -43,17 +43,17 @@ UN ASTILLERO DE
 WATER SEVEN
 
 11
-00:21:59,580 --> 00:22:03,510
-DIQUE UNO
+00:21:55,620 --> 00:21:59,500
+UN ASTILLERO DE
+WATER SEVEN
 
 12
 00:21:59,580 --> 00:22:03,510
 DIQUE UNO
 
 13
-00:22:03,590 --> 00:22:09,090
-CAPITÁN MIKAZUKI
-PIRATAS DEL GRAN CASCO
+00:21:59,580 --> 00:22:03,510
+DIQUE UNO
 
 14
 00:22:03,590 --> 00:22:09,090
@@ -61,9 +61,9 @@ CAPITÁN MIKAZUKI
 PIRATAS DEL GRAN CASCO
 
 15
-00:24:23,350 --> 00:24:28,860
-COMPAÑÍA GALLEY-LA
-UNA EMPRESA DE CONSTRUCCIÓN NAVAL, WATER SEVEN
+00:22:03,590 --> 00:22:09,090
+CAPITÁN MIKAZUKI
+PIRATAS DEL GRAN CASCO
 
 16
 00:24:23,350 --> 00:24:28,860
@@ -71,86 +71,90 @@ COMPAÑÍA GALLEY-LA
 UNA EMPRESA DE CONSTRUCCIÓN NAVAL, WATER SEVEN
 
 17
+00:24:23,350 --> 00:24:28,860
+COMPAÑÍA GALLEY-LA
+UNA EMPRESA DE CONSTRUCCIÓN NAVAL, WATER SEVEN
+
+18
 00:00:03,990 --> 00:00:08,050
 ¡Está bien! ¡Vamos! Continuemos hacia adelante.
 
-18
+19
 00:00:08,310 --> 00:00:11,590
 ¡Siempre con el calor del sol en el pecho!
 
-19
+20
 00:00:11,730 --> 00:00:15,010
 ¡Nuestras manos unidas nos dan poder!
 
-20
+21
 00:00:15,100 --> 00:00:18,680
 ¡Y así atraparemos nuestros deseos!
 
-21
+22
 00:00:26,240 --> 00:00:32,490
 Montamos una gran ola, reuniendo nuestra fuerza.
 
-22
+23
 00:00:33,750 --> 00:00:40,290
 ¡Esa es la señal! Apresurémonos... ¡Hacia una nueva prosperidad!
 
-23
+24
 00:00:40,960 --> 00:00:47,130
 ¡Éste es nuestro momento de zarpar! Una vez que alcemos el ancla...
 
-24
+25
 00:00:47,930 --> 00:00:55,010
 Tomaremos el viento de siete colores... ¡Hacia una aventura en el mar!
 
-25
+26
 00:00:55,060 --> 00:00:58,550
 A veces será una travesía dura, pero...
 
-26
+27
 00:00:58,560 --> 00:01:02,270
 Allí hay algo muy importante.
 
-27
+28
 00:01:02,400 --> 00:01:06,350
 Cuando estés en problemas,
 
-28
+29
 00:01:06,450 --> 00:01:08,360
 ¡Yo te protegeré!
 
-29
+30
 00:01:09,450 --> 00:01:13,360
 ¡Está bien! ¡Vamos! Continuemos hacia adelante.
 
-30
+31
 00:01:13,660 --> 00:01:16,820
 ¡Siempre con el calor del sol en el pecho!
 
-31
+32
 00:01:17,170 --> 00:01:20,330
 Si viene una tormenta, apóyate en mi hombro.
 
-32
+33
 00:01:20,370 --> 00:01:24,200
 Y después de ello, ¡Veremos la luz!
 
-33
+34
 00:01:24,670 --> 00:01:27,920
 Reunamos los pedazos de nuestros sueños,
 
-34
+35
 00:01:28,390 --> 00:01:31,550
 para que sean el mapa de nuestro cálido futuro.
 
-35
+36
 00:01:31,680 --> 00:01:34,720
 ¡Por eso llevamos una misma bandera!
 
-36
+37
 00:01:35,100 --> 00:01:40,450
 ¡Así atraparemos nuestros deseos! ¡Somos uno solo!
 
-37
+38
 00:01:40,530 --> 00:01:42,490
 ¡Somos One Piece!
-

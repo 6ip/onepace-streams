@@ -1,277 +1,281 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:24,770 --> 00:00:30,370
 Cada vez que miro hacia el cielo tras la lluvia,
 
-2
+3
 00:00:30,370 --> 00:00:35,780
 me acuerdo de la época en la que no era más que un bebé llorón.
 
-3
+4
 00:00:35,780 --> 00:00:43,530
 Seguía desesperadamente los pasos de alguien,
 
-4
+5
 00:00:43,530 --> 00:00:46,460
 mientras pensaba "quiero ser más fuerte".
 
-5
+6
 00:00:46,460 --> 00:00:51,800
 Ahora que mis "gracias" se perdieron en el viento,
 
-6
+7
 00:00:51,800 --> 00:00:56,720
 ¿podré hacerme más fuerte?
 
-7
+8
 00:00:56,720 --> 00:01:02,440
 Parece que aún no podré encontrar la respuesta,
 
-8
+9
 00:01:02,440 --> 00:01:08,030
 así que seguiré andando hacia adelante.
 
-9
+10
 00:01:08,030 --> 00:01:10,430
 Vamos, en marcha.
 
-10
+11
 00:01:10,430 --> 00:01:13,690
 Nunca nos detendremos.
 
-11
+12
 00:01:13,690 --> 00:01:19,140
 No perderemos contra el paso del tiempo.
 
-12
+13
 00:01:19,140 --> 00:01:24,630
 Seguiremos levantándonos, una y otra vez;
 
-13
+14
 00:01:24,630 --> 00:01:30,490
 porque no queremos perder aquello que nos importa.
 
-14
+15
 00:01:30,490 --> 00:01:35,360
 Puedo oír una voz en mi cabeza,
 
-15
+16
 00:01:35,360 --> 00:01:40,730
 que siempre, siempre me anima a avanzar.
 
-16
+17
 00:01:40,730 --> 00:01:45,970
 Incluso si la inoportuna lluvia se pone en mi camino,
 
-17
+18
 00:01:45,970 --> 00:01:50,820
 no intentaré escapar.
 
-18
+19
 00:01:50,820 --> 00:01:53,820
 Oh.
 
-19
+20
 00:01:53,820 --> 00:01:56,180
 Vamos, en marcha.
 
-20
+21
 00:01:56,180 --> 00:01:59,510
 Nunca nos detendremos.
 
-21
+22
 00:01:59,510 --> 00:02:05,010
 No perderemos contra el paso del tiempo.
 
-22
+23
 00:02:05,010 --> 00:02:10,530
 Seguiremos levantándonos, una y otra vez;
 
-23
+24
 00:02:10,530 --> 00:02:16,110
 porque no queremos perder aquello que nos importa.
 
-24
+25
 00:02:16,110 --> 00:02:21,630
 Avancemos hacia ese futuro en el que creímos...
 
-25
+26
 00:10:36,350 --> 00:10:39,750
 ¿Eh? ¿Si Gold Roger hubiera tenido un hijo?
 
-26
+27
 00:10:39,750 --> 00:10:41,960
 ¿No es obvio?
 
-27
+28
 00:10:41,960 --> 00:10:45,860
 ¡Ya le hubiera cortado el pescuezo!
 
-28
+29
 00:10:47,190 --> 00:10:52,650
 ¡No, cortarle el pescuezo no sería suficiente!
 
-29
+30
 00:10:52,650 --> 00:10:58,340
 ¿Qué tal si le clavamos una aguja por cada persona del mundo que odie a Roger?
 
-30
+31
 00:10:59,500 --> 00:11:04,170
 No, yo lo quemaría vivo en una plaza pública.
 
-31
+32
 00:11:04,170 --> 00:11:10,710
 ¡Para que así todo el mundo lo viera morir como a su padre!
 
-32
+33
 00:11:10,710 --> 00:11:11,750
 ¡Buena idea!
 
-33
+34
 00:11:11,750 --> 00:11:16,030
 ¡Y toda la gente diría que se lo merecía!
 
-34
+35
 00:11:17,660 --> 00:11:21,480
 Espero que deje una nota antes de morir diciendo...
 
-35
+36
 00:11:21,480 --> 00:11:25,930
 "¡Perdón por haber nacido! ¡Sólo soy basura!".
 
-36
+37
 00:11:29,040 --> 00:11:32,440
 ¡Bueno, aunque es imposible que exista ese hijo!
 
-37
+38
 00:11:49,110 --> 00:11:52,820
 ¡Ace! ¡¿De nuevo causaste conflictos en la ciudad?!
 
-38
+39
 00:11:52,820 --> 00:11:56,590
 ¡Qué desastre! ¡Deja de crear problemas constantemente!
 
-39
+40
 00:11:56,590 --> 00:11:58,150
 ¡Cállate, Dadan!
 
-40
+41
 00:11:58,150 --> 00:11:59,570
 ¡¿Qué?!
 
-41
+42
 00:11:59,570 --> 00:12:01,600
 ¡Si fuera más fuerte,
 
-42
+43
 00:12:01,600 --> 00:12:04,660
 los habría matado a todos!
 
-43
+44
 00:13:36,400 --> 00:13:38,200
 ¡Conviértete en mi hijo!
 
-44
+45
 00:13:39,240 --> 00:13:41,690
 Espero que mi querido hijo...
 
-45
+46
 00:13:41,690 --> 00:13:44,360
 ...se encuentre a salvo.
 
-46
+47
 00:13:44,510 --> 00:13:45,390
 ¡Porque yo...
 
-47
+48
 00:13:45,390 --> 00:13:47,240
 ...soy tu hermano!
 
-48
+49
 00:13:47,240 --> 00:13:49,880
 ¡Di lo que quieras!
 
-49
+50
 00:13:49,880 --> 00:13:53,210
 ¡Te salvaré, aunque muera!
 
-50
+51
 00:13:53,210 --> 00:13:55,360
 ¡Muchachos!
 
-51
+52
 00:13:55,360 --> 00:14:02,850
 ¡Salven a Ace y acaben con los marinos!
 
-52
+53
 00:15:57,850 --> 00:15:59,710
 Abuelo.
 
-53
+54
 00:16:04,330 --> 00:16:06,130
 ¿He...
 
-54
+55
 00:16:07,660 --> 00:16:10,050
 ...hecho bien en nacer?
 
-55
+56
 00:16:14,590 --> 00:16:17,020
 Pues eso...
 
-56
+57
 00:16:18,750 --> 00:16:22,480
 Si sigues viviendo, con el tiempo lo sabrás.
 
-57
+58
 00:17:24,060 --> 00:17:27,920
 ¿Creías que estaba muerto?
 
-58
+59
 00:17:33,850 --> 00:17:35,470
 Es que...
 
-59
+60
 00:17:35,470 --> 00:17:36,840
 ¡¿Por qué lloras?!
 
-60
+61
 00:17:36,840 --> 00:17:39,450
 ¡No me des por muerto antes de tiempo, idiota!
 
-61
+62
 00:17:46,110 --> 00:17:50,710
 Te prometo que no moriré.
 
-62
+63
 00:17:50,710 --> 00:17:56,090
 ¿Cómo podría morirme y dejar atrás al debilucho de mi hermano pequeño?
 
-63
+64
 00:17:56,090 --> 00:17:57,450
 Garp.
 
-64
+65
 00:17:58,080 --> 00:17:59,990
 Cuida de mi hijo.
 
-65
+66
 00:18:01,890 --> 00:18:05,400
 Este niño se llama Gol D. Ace.
 
-66
+67
 00:18:16,970 --> 00:18:18,310
 ¿Lo sabías?
 
-67
+68
 00:18:18,310 --> 00:18:22,660
 Por lo visto, si bebemos juntos,
  nos convertimos en hermanos.
 
-68
+69
 00:18:25,050 --> 00:18:27,150
 ¡A partir de hoy,
 
-69
+70
 00:18:31,950 --> 00:18:34,910
 seremos hermanos!
-

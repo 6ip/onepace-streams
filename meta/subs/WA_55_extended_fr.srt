@@ -1,1293 +1,1293 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:55,010 --> 00:01:57,500
 Tu m’as fait peur !
 
-2
+3
 00:01:58,970 --> 00:02:01,550
 Les pirates ont
 de drôles de distractions.
 
-3
+4
 00:02:01,730 --> 00:02:04,020
 Montre-moi comment on fait.
 
-4
+5
 00:02:05,310 --> 00:02:06,060
 Bah alors ?
 
-5
+6
 00:02:06,810 --> 00:02:09,280
 Allô le monde ?
 
-6
+7
 00:02:13,320 --> 00:02:15,160
 Ace !
 
-7
+8
 00:02:15,340 --> 00:02:19,720
 Qu’est-ce qui se passe ?
 Tu pétais le feu y a deux minutes !
 
-8
+9
 00:02:21,050 --> 00:02:22,210
 Non, t’es mort ?
 
-9
+10
 00:02:22,980 --> 00:02:28,030
 Reprends tes esprits, Ace !
 
-10
+11
 00:02:31,630 --> 00:02:32,890
 Je me suis endormi.
 
-11
+12
 00:02:33,070 --> 00:02:35,830
 J’ai cru que t’étais mort,
 fais un peu gaffe !
 
-12
+13
 00:02:36,010 --> 00:02:38,390
 Désolé, c’était pas voulu.
 
-13
+14
 00:02:39,760 --> 00:02:41,890
 J’étais fou d’inquiétude !
 
-14
+15
 00:02:42,890 --> 00:02:45,980
 Pff… On arrête là 
 pour ce soir, je suppose ?
 
-15
+16
 00:02:46,150 --> 00:02:48,180
 T’as l’air plutôt fatigué.
 
-16
+17
 00:02:48,360 --> 00:02:52,560
 Qu'est-ce que tu racontes ?
 On a plein de trucs à se dire.
 
-17
+18
 00:02:53,450 --> 00:02:57,020
 Je dois retrouver mes camarades
 au petit matin.
 
-18
+19
 00:02:57,300 --> 00:02:59,860
 Alors, pas le temps de dormir
 cette nuit.
 
-19
+20
 00:03:03,000 --> 00:03:06,580
 – Tu vas plus t'endormir, hein ?
 – Désolé, je te dis…
 
-20
+21
 00:03:07,100 --> 00:03:09,160
 Où on en était, au fait ?
 
-21
+22
 00:03:09,400 --> 00:03:12,100
 Tu me parlais encore
 de ton petit frère.
 
-22
+23
 00:03:13,050 --> 00:03:17,430
 Et toi, tu me racontais
 à quel point tu veux devenir Oden.
 
-23
+24
 00:03:18,050 --> 00:03:19,350
 Pas du tout, Ace.
 
-24
+25
 00:03:19,530 --> 00:03:22,100
 Je ne veux pas le devenir,
 je le deviendrai.
 
-25
+26
 00:03:22,520 --> 00:03:24,450
 Nos rêves se réaliseront.
 
-26
+27
 00:03:24,990 --> 00:03:26,200
 Ils deviendront…
 
-27
+28
 00:03:26,800 --> 00:03:28,400
 notre avenir !
 
-28
+29
 00:03:30,690 --> 00:03:31,820
 Le « D. » ?
 
-29
+30
 00:03:35,320 --> 00:03:39,210
 Je ne pensais pas
 te rencontrer un jour.
 
-30
+31
 00:03:40,030 --> 00:03:42,110
 « Oden » ?
 
-31
+32
 00:03:42,870 --> 00:03:44,910
 C’est le journal de mon père ?
 
-32
+33
 00:03:45,460 --> 00:03:48,660
 Il y a tout consigné,
 de sa vie hors du commun
 
-33
+34
 00:03:48,840 --> 00:03:51,500
 à sa perception du monde.
 
-34
+35
 00:03:52,630 --> 00:03:56,300
 Je l’ai récupéré dans la rivière
 au pied du château.
 
-35
+36
 00:03:57,050 --> 00:04:00,460
 Quelqu’un l’a sauvé des flammes
 en ce funeste soir.
 
-36
+37
 00:04:00,640 --> 00:04:02,460
 Le journal du seigneur Oden…
 
-37
+38
 00:04:03,890 --> 00:04:04,940
 Momonosuke.
 
-38
+39
 00:04:06,350 --> 00:04:10,010
 Ton père te mentionne
 à de nombreuses reprises.
 
-39
+40
 00:04:12,450 --> 00:04:15,110
 Tu es né sur le navire
 de Barbe Blanche, pas vrai ?
 
-40
+41
 00:04:15,440 --> 00:04:17,240
 Tu as vu celui de Roger…
 
-41
+42
 00:04:18,550 --> 00:04:19,780
 Certes…
 
-42
+43
 00:04:20,540 --> 00:04:24,060
 Néanmoins, j’étais si jeune…
 
-43
+44
 00:04:24,240 --> 00:04:26,340
 Mes souvenirs sont flous.
 
-44
+45
 00:04:26,700 --> 00:04:29,720
 Barbe Blanche, Roger et Oden.
 
-45
+46
 00:04:29,960 --> 00:04:31,290
 Ils disaient tous
 
-46
+47
 00:04:31,940 --> 00:04:34,300
 que plus de vingt ans dans le futur,
 
-47
+48
 00:04:34,550 --> 00:04:38,800
 des jeunes prometteurs
 déferleraient sur le Nouveau Monde.
 
-48
+49
 00:04:39,480 --> 00:04:40,720
 L’heure est venue.
 
-49
+50
 00:04:45,470 --> 00:04:49,140
 J’étais convaincu
 qu’Ace serait leur porte-étendard.
 
-50
+51
 00:04:50,540 --> 00:04:54,270
 Mais à sa mort, je me suis rappelé
 
-51
+52
 00:04:55,050 --> 00:04:56,870
 ce qu’il m’avait dit cette nuit-là.
 
-52
+53
 00:05:02,780 --> 00:05:05,740
 Oups ! J’en ai trop dit…
 
-53
+54
 00:05:05,920 --> 00:05:07,910
 J’aurais dû me taire...
 
-54
+55
 00:05:08,630 --> 00:05:10,160
 Oublie ce que j’ai dit.
 
-55
+56
 00:05:10,710 --> 00:05:12,530
 Et surtout rigole pas, hein !
 
-56
+57
 00:05:12,750 --> 00:05:14,790
 Sabo et moi,
 on le tolérerait pas.
 
-57
+58
 00:05:16,000 --> 00:05:19,510
 Je n’ai jamais quitté ce pays,
 
-58
+59
 00:05:19,690 --> 00:05:23,800
 alors je n’ai jamais rien pu voir
 de mes propres yeux.
 
-59
+60
 00:05:24,570 --> 00:05:28,930
 Que ce soit le frère d’Ace
 ou le si vaste monde vu par Oden.
 
-60
+61
 00:05:30,560 --> 00:05:34,850
 Mais la scène qu’il me décrivait,
 je la voyais clairement.
 
-61
+62
 00:05:35,900 --> 00:05:39,820
 C’est l’aboutissement du rêve
 de mon petit frère.
 
-62
+63
 00:05:44,070 --> 00:05:46,580
 On doit absolument prendre la mer.
 
-63
+64
 00:05:47,020 --> 00:05:50,040
 Il faut partir d'ici, et devenir libres.
 
-64
+65
 00:05:50,620 --> 00:05:55,350
 Je veux voir le monde
 et tout raconter dans un livre.
 
-65
+66
 00:05:55,840 --> 00:05:58,670
 Étudier la navigation, ça me botte.
 
-66
+67
 00:05:58,880 --> 00:06:02,150
 Faut qu'on soit plus forts,
 pour devenir de vrais pirates !
 
-67
+68
 00:06:04,420 --> 00:06:07,510
 Je t'ai pas attendu
 pour décider que je voulais faire ça.
 
-68
+69
 00:06:07,930 --> 00:06:11,500
 Je serai pirate,
 et j'éclaterai tout le monde.
 
-69
+70
 00:06:11,680 --> 00:06:13,700
 Mon nom entrera dans la légende.
 
-70
+71
 00:06:14,160 --> 00:06:17,270
 Ce sera la meilleure preuve
 de mon existence.
 
-71
+72
 00:06:17,940 --> 00:06:21,220
 Tous ces sales types
 qui me haïssent pour ce que je suis,
 
-72
+73
 00:06:21,400 --> 00:06:23,150
 ils ont qu'à bien s'accrocher !
 
-73
+74
 00:06:23,450 --> 00:06:26,480
 Une fois célèbre,
 ils verront ce que je vaux.
 
-74
+75
 00:06:27,580 --> 00:06:31,500
 Le Gouvernement ne veut pas
 qu’on foule du pied la dernière île,
 
-75
+76
 00:06:31,700 --> 00:06:34,190
 réputée pour son trésor.
 
-76
+77
 00:06:35,330 --> 00:06:38,430
 Son existence ne m’en paraît
 que plus réelle.
 
-77
+78
 00:06:39,170 --> 00:06:42,700
 Une fois là-bas,
 on sera le plus grand équipage du monde.
 
-78
+79
 00:06:42,920 --> 00:06:45,260
 Dans tous les sens du terme !
 
-79
+80
 00:06:45,880 --> 00:06:47,510
 Le plus grand du monde ?
 
-80
+81
 00:06:49,550 --> 00:06:50,880
 Pas mal.
 
-81
+82
 00:06:51,180 --> 00:06:53,030
 Allez, à mon tour !
 
-82
+83
 00:06:53,490 --> 00:06:54,880
 Exactement !
 
-83
+84
 00:06:55,060 --> 00:06:56,550
 Et alors...
 
-84
+85
 00:06:58,780 --> 00:07:01,810
 – Je serais...
 – Je serais...
 
-85
+86
 00:07:06,780 --> 00:07:09,480
 Rien que ça, t'es sûr ?
 
-86
+87
 00:07:09,660 --> 00:07:11,480
 Tu n’es plus un enfant.
 
-87
+88
 00:07:13,380 --> 00:07:15,830
 T'es un sacré rigolo, Luffy.
 
-88
+89
 00:07:16,010 --> 00:07:19,040
 J'ai hâte de voir ce que tu deviendras.
 
-89
+90
 00:07:27,220 --> 00:07:31,920
 On s’est bien fendu la poire,
 Sabo et moi, quand il a sorti ça.
 
-90
+91
 00:07:32,150 --> 00:07:35,120
 Mais personne d’autre n’a le droit.
 
-91
+92
 00:07:35,480 --> 00:07:37,100
 Parce que nous, on y croit.
 
-92
+93
 00:07:37,280 --> 00:07:40,060
 S’il lâche ça,
 c’est qu’il pense y arriver.
 
-93
+94
 00:07:40,300 --> 00:07:41,860
 – Alors…
 – Ace !
 
-94
+95
 00:07:45,450 --> 00:07:46,400
 Quoi ?
 
-95
+96
 00:07:46,590 --> 00:07:47,990
 Qu’est-ce que t’as, Yamato ?
 
-96
+97
 00:07:51,150 --> 00:07:53,520
 Jamais je ne rigolerai de ça.
 
-97
+98
 00:07:54,580 --> 00:07:58,110
 C’est exactement
 ce qu’a dit le Roi des Pirates.
 
-98
+99
 00:07:58,470 --> 00:08:01,090
 Les mêmes mots qui ont figé Oden.
 
-99
+100
 00:08:02,090 --> 00:08:04,110
 D’après le journal de Kozuki Oden,
 
-100
+101
 00:08:04,290 --> 00:08:07,120
 un grand homme a dit la même chose.
 
-101
+102
 00:08:07,300 --> 00:08:10,930
 Je ne risque pas de me moquer.
 Il m’épate, ton frère !
 
-102
+103
 00:08:12,810 --> 00:08:15,750
 Un grand homme ?
 Pas mal.
 
-103
+104
 00:08:15,930 --> 00:08:19,400
 J’aimerais bien boire
 avec Luffy et lui, un jour.
 
-104
+105
 00:08:20,660 --> 00:08:22,610
 Vous vous seriez bien entendus !
 
-105
+106
 00:08:23,400 --> 00:08:24,570
 Mais il est mort.
 
-106
+107
 00:08:24,750 --> 00:08:25,650
 Sérieux ?
 
-107
+108
 00:08:27,120 --> 00:08:30,310
 Tant pis, on peut rien y faire.
 
-108
+109
 00:08:31,800 --> 00:08:34,490
 Qu’est-ce que t’as, encore ?
 
-109
+110
 00:08:35,170 --> 00:08:38,460
 Qu’est-ce que tu dirais de moi,
 à sa place ?
 
-110
+111
 00:08:39,220 --> 00:08:42,200
 Toi, moi, ton petit frère…
 Tous les trois.
 
-111
+112
 00:08:42,420 --> 00:08:45,050
 Si je prends le large un jour…
 
-112
+113
 00:08:45,230 --> 00:08:46,670
 Ça, c'est une bonne idée !
 
-113
+114
 00:08:46,850 --> 00:08:47,580
 Vraiment ?
 
-114
+115
 00:08:47,760 --> 00:08:50,500
 Mais tu feras gaffe,
 les océans sont vastes.
 
-115
+116
 00:08:50,680 --> 00:08:54,250
 Si tu pars pas vite,
 je sais pas si on se reverra.
 
-116
+117
 00:08:54,430 --> 00:08:57,240
 T’en fais pas, Ace !
 Rends-moi un service.
 
-117
+118
 00:08:57,680 --> 00:08:59,480
 Donne-moi un ongle ou un cheveu.
 
-118
+119
 00:09:00,700 --> 00:09:03,090
 Ce que tu veux,
 un seul me suffit.
 
-119
+120
 00:09:03,270 --> 00:09:04,270
 Si tu veux...
 
-120
+121
 00:09:05,400 --> 00:09:06,100
 Hein ?
 
-121
+122
 00:09:11,820 --> 00:09:12,770
 J’ai terminé.
 
-122
+123
 00:09:13,240 --> 00:09:15,120
 C’est ta Vivre Card.
 
-123
+124
 00:09:16,380 --> 00:09:17,770
 Et c’est quoi ?
 
-124
+125
 00:09:19,710 --> 00:09:21,290
 Un pauvre papier ?
 
-125
+126
 00:09:22,050 --> 00:09:26,910
 Exactement et grâce à lui,
 on se reverra.
 
-126
+127
 00:09:27,190 --> 00:09:28,420
 Comment ça ?
 
-127
+128
 00:09:29,020 --> 00:09:29,970
 Regarde.
 
-128
+129
 00:09:35,400 --> 00:09:40,060
 Déchire-la et donne un bout aux gens
 que tu ne veux pas perdre de vue.
 
-129
+130
 00:09:40,630 --> 00:09:41,420
 Merci.
 
-130
+131
 00:09:41,780 --> 00:09:43,480
 Je vais pas me gêner.
 
-131
+132
 00:09:59,250 --> 00:10:00,660
 Yamato !
 
-132
+133
 00:10:03,750 --> 00:10:05,600
 T’as pas intérêt à la perdre !
 
-133
+134
 00:10:22,450 --> 00:10:24,400
 Ace !
 
-134
+135
 00:10:32,770 --> 00:10:33,750
 Yamato ?
 
-135
+136
 00:10:38,490 --> 00:10:40,580
 On a intérêt à se revoir !
 
-136
+137
 00:10:41,030 --> 00:10:43,540
 Ace !
 
-137
+138
 00:10:51,170 --> 00:10:52,810
 Bien sûr !
 
-138
+139
 00:11:00,000 --> 00:11:01,060
 Malheureusement...
 
-139
+140
 00:11:01,970 --> 00:11:03,740
 ce fut notre dernier échange.
 
-140
+141
 00:11:13,250 --> 00:11:15,860
 Mon crétin de fils
 fait encore des siennes…
 
-141
+142
 00:11:16,100 --> 00:11:20,700
 Peu importe, je m’ennuyais ferme
 à cause de l'intervention du Roux.
 
-142
+143
 00:11:21,100 --> 00:11:24,350
 Je peux bien passer
 un accès de colère à un gamin.
 
-143
+144
 00:11:28,400 --> 00:11:31,640
 Tu m’as promis de revenir ici !
 
-144
+145
 00:11:37,130 --> 00:11:39,850
 Il peut s’accrocher tant qu’il veut.
 
-145
+146
 00:11:55,900 --> 00:11:58,670
 Ça changera rien à son sort.
 
-146
+147
 00:11:59,030 --> 00:12:00,740
 Il est coincé sur l’île.
 
-147
+148
 00:12:06,660 --> 00:12:09,030
 Je ne peux pas partir !
 
-148
+149
 00:12:09,310 --> 00:12:12,130
 Je suis incapable
 de battre mon père !
 
-149
+150
 00:12:14,840 --> 00:12:17,550
 Je ne peux même pas
 voler au secours
 
-150
+151
 00:12:18,340 --> 00:12:21,260
 de mon seul et unique ami…
 
-151
+152
 00:12:22,010 --> 00:12:23,430
 Je ne vaux rien.
 
-152
+153
 00:12:25,170 --> 00:12:27,350
 Je ne suis pas libre…
 
-153
+154
 00:12:28,950 --> 00:12:31,310
 Brise les chaînes affectives
 qui t’y enchaînent.
 
-154
+155
 00:12:32,580 --> 00:12:33,940
 Moi aussi,
 
-155
+156
 00:12:34,480 --> 00:12:37,780
 j’aimerais m’affranchir
 comme Oden avant moi,
 
-156
+157
 00:12:38,780 --> 00:12:39,890
 Ace…
 
-157
+158
 00:12:42,410 --> 00:12:45,430
 Quand au moins vingt ans
 auront passé,
 
-158
+159
 00:12:45,790 --> 00:12:49,480
 de redoutables pirates
 déferleront sur le Nouveau Monde.
 
-159
+160
 00:12:49,650 --> 00:12:52,000
 Ce sont eux qui changeront le monde.
 
-160
+161
 00:12:52,350 --> 00:12:56,510
 Mais le plus coriace ne partira
 que dans quelques années.
 
-161
+162
 00:12:57,050 --> 00:12:58,780
 Mon petit frère, bien sûr !
 
-162
+163
 00:13:03,800 --> 00:13:05,510
 Reviens tout de suite, Yamato.
 
-163
+164
 00:13:07,600 --> 00:13:09,050
 Je vais attendre…
 
-164
+165
 00:13:09,690 --> 00:13:12,560
 Ce que Kozuki Oden
 désirait plus que tout.
 
-165
+166
 00:13:13,370 --> 00:13:15,650
 Rentrez à la maison, seigneur Yamato !
 
-166
+167
 00:13:16,030 --> 00:13:18,220
 La venue de la nouvelle ère.
 
-167
+168
 00:13:18,780 --> 00:13:20,070
 Je resterai aux aguets.
 
-168
+169
 00:13:21,410 --> 00:13:24,560
 Luffy…
 Je t’attends avec impatience.
 
-169
+170
 00:13:24,840 --> 00:13:26,590
 Pendant ce temps-là…
 
-170
+171
 00:13:28,500 --> 00:13:31,170
 Si tu ne veux pas comprendre,
 
-171
+172
 00:13:31,670 --> 00:13:35,200
 j’emploierai la manière forte
 autant qu’il le faudra, Yamato.
 
-172
+173
 00:13:35,500 --> 00:13:38,760
 Fais donc,
 et laisse-moi me répéter !
 
-173
+174
 00:13:47,410 --> 00:13:48,970
 Comme ça, Yamato !
 
-174
+175
 00:13:49,150 --> 00:13:53,770
 Je m'appelle Oden à présent,
 fumier de paternel !
 
-175
+176
 00:13:56,900 --> 00:14:00,150
 Je n’avais aucune idée
 de la stupeur
 
-176
+177
 00:14:00,350 --> 00:14:02,380
 qui venait de frapper le monde,
 
-177
+178
 00:14:02,910 --> 00:14:05,740
 mais je l’ai lu dans le journal
 quelques jours après.
 
-178
+179
 00:14:06,200 --> 00:14:10,870
 J’ai appris qu’Ace était le fils
 du Roi des Pirates Gol D. Roger,
 
-179
+180
 00:14:11,620 --> 00:14:16,340
 et que son petit frère
 se faisait un nom parmi les pirates.
 
-180
+181
 00:14:16,670 --> 00:14:19,440
 Et toi, tu me l’as amené.
 Tu m’as amené Luffy !
 
-181
+182
 00:14:21,170 --> 00:14:22,270
 Momonosuke…
 
-182
+183
 00:14:24,500 --> 00:14:27,030
 Ce journal te revient,
 c’est une évidence.
 
-183
+184
 00:14:28,760 --> 00:14:32,310
 Je vais te dire
 comment Oden décrit l’avenir.
 
-184
+185
 00:14:32,310 --> 00:14:32,350
 Je vais te dire
 comment Oden décrit l’avenir.
 
-185
+186
 00:14:32,350 --> 00:14:32,430
 Je vais te dire
 comment Oden décrit l’avenir.
 
-186
+187
 00:14:32,430 --> 00:14:32,480
 Je vais te dire
 comment Oden décrit l’avenir.
 
-187
+188
 00:14:32,480 --> 00:14:32,520
 Je vais te dire
 comment Oden décrit l’avenir.
 
-188
+189
 00:14:36,050 --> 00:14:38,620
 « Quand au moins vingt ans
 auront passé,
 
-189
+190
 00:14:43,000 --> 00:14:46,320
 de redoutables pirates déferleront
 sur le Nouveau Monde.
 
-190
+191
 00:14:46,990 --> 00:14:49,200
 Ce sont eux
 qui changeront le monde.
 
-191
+192
 00:14:51,370 --> 00:14:53,290
 Si je venais à mourir,
 
-192
+193
 00:14:56,580 --> 00:14:59,920
 eux seront capables
 de renverser Kaido. »
 
-193
+194
 00:15:03,700 --> 00:15:05,650
 Le One Piece…
 
-194
+195
 00:15:08,300 --> 00:15:09,900
 Vous êtes de doux rêveurs
 
-195
+196
 00:15:10,080 --> 00:15:14,480
 si vous pensez mériter
 ne serait-ce que de l’approcher.
 
-196
+197
 00:15:18,500 --> 00:15:22,760
 Vous allez continuer longtemps
 à jouer aux pirates ?
 
-197
+198
 00:15:22,940 --> 00:15:26,470
 Tu es vraiment nul
 pour éduquer les mômes, Kaido.
 
-198
+199
 00:15:26,810 --> 00:15:28,320
 Laisse-moi les mater.
 
-199
+200
 00:15:34,260 --> 00:15:36,440
 Oui, je te comprends, Killer.
 
-200
+201
 00:15:36,720 --> 00:15:39,380
 Moi aussi,
 j’ai envie de les exploser.
 
-201
+202
 00:15:40,300 --> 00:15:42,880
 Je vous ai préparé
 un sacré assemblage…
 
-202
+203
 00:15:46,300 --> 00:15:49,580
 Vous m’en direz des nouvelles,
 chers Empereurs !
 
-203
+204
 00:16:03,950 --> 00:16:05,650
 Ils vont tous se pointer ?
 
-204
+205
 00:16:05,830 --> 00:16:09,660
 Ça se croit chez mémé,
 chez le Chapeau de paille ?
 
-205
+206
 00:16:09,840 --> 00:16:12,620
 Comme si c’était ma faute…
 
-206
+207
 00:16:12,830 --> 00:16:15,340
 Le plus détendu de tous
 manque à l’appel.
 
-207
+208
 00:16:15,750 --> 00:16:17,210
 Où est le Chapeau de paille ?
 
-208
+209
 00:16:22,460 --> 00:16:26,590
 En voilà d’autres…
 C’est eux, la pire génération ?
 
-209
+210
 00:16:26,770 --> 00:16:30,460
 Souffle un petit coup,
 et ils s’envolent avec le vent.
 
-210
+211
 00:16:33,850 --> 00:16:38,140
 C’est certainement pas vous
 qui allez réveiller ma blessure.
 
-211
+212
 00:16:41,230 --> 00:16:45,500
 Je vais vous dégager d’ici illico,
 les Nouveaux Venus.
 
-212
+213
 00:16:45,940 --> 00:16:48,770
 Exactement
 comme avec les Fourreaux rouges.
 
-213
+214
 00:16:58,970 --> 00:17:02,780
 Quand au moins vingt ans
 auront passé,
 
-214
+215
 00:17:07,220 --> 00:17:11,280
 de redoutables pirates déferleront
 sur le Nouveau Monde.
 
-215
+216
 00:17:11,460 --> 00:17:14,220
 Ce seront eux qui changeront le monde.
 
-216
+217
 00:17:15,880 --> 00:17:18,230
 Si je venais à mourir,
 
-217
+218
 00:17:18,230 --> 00:17:18,350
 Si je venais à mourir,
 
-218
+219
 00:17:18,350 --> 00:17:18,430
 Si je venais à mourir,
 
-219
+220
 00:17:22,350 --> 00:17:24,570
 eux seront capables
 
-220
+221
 00:17:26,820 --> 00:17:28,700
 de renverser Kaido.
 
-221
+222
 00:17:29,600 --> 00:17:33,480
 Je vois qu’un client de plus
 est venu admirer mon combat.
 
-222
+223
 00:17:33,660 --> 00:17:34,830
 – Ou pas.
 – Tu rêves.
 
-223
+224
 00:17:35,490 --> 00:17:37,790
 Que des têtes qui me font envie !
 
-224
+225
 00:17:40,470 --> 00:17:42,220
 Chapeau de paille…
 
-225
+226
 00:17:59,530 --> 00:18:00,500
 Linlin…
 
-226
+227
 00:18:00,680 --> 00:18:04,440
 Tu sais ce qu’il m’a dit
 qu’il allait devenir ?
 
-227
+228
 00:18:04,660 --> 00:18:06,940
 C’est un petit arrogant, l’avorton.
 
-228
+229
 00:18:07,360 --> 00:18:10,940
 Il avait aussi
 la langue bien pendue avec moi,
 
-229
+230
 00:18:11,160 --> 00:18:14,210
 juste avant de détruire mon fief.
 
-230
+231
 00:18:14,750 --> 00:18:18,080
 Tu vas me faire le plaisir
 de t’excuser, Chapeau de paille.
 
-231
+232
 00:18:23,140 --> 00:18:24,500
 On te parle, gamin.
 
-232
+233
 00:18:24,900 --> 00:18:28,260
 Dis-nous voir
 ce que tu vas devenir.
 
-233
+234
 00:18:28,800 --> 00:18:33,490
 Alors, tu vas avoir le cran
 de répéter ça sous notre nez ?
 
-234
+235
 00:18:38,910 --> 00:18:42,060
 Nous comptons sur votre aide à tous…
 
-235
+236
 00:18:44,660 --> 00:18:45,950
 messire Luffy.
 
-236
+237
 00:18:50,400 --> 00:18:51,960
 Merci pour tout !
 
-237
+238
 00:19:01,750 --> 00:19:04,150
 Tu tiens le coup, Kin'emon ?
 
-238
+239
 00:19:05,700 --> 00:19:07,390
 Je suis vraiment désolé.
 
-239
+240
 00:19:08,990 --> 00:19:10,340
 J’arrive trop tard.
 
-240
+241
 00:19:17,800 --> 00:19:19,860
 Quel déshonneur…
 
-241
+242
 00:19:24,060 --> 00:19:25,480
 Dans l’au-delà…
 
-242
+243
 00:19:26,020 --> 00:19:27,630
 Jamais je ne pourrai…
 
-243
+244
 00:19:28,400 --> 00:19:32,530
 soutenir le regard…
 de mon cher seigneur Oden !
 
-244
+245
 00:19:33,900 --> 00:19:34,740
 Kin'e…
 
-245
+246
 00:19:37,150 --> 00:19:39,950
 Pouvons-nous te confier
 
-246
+247
 00:19:41,330 --> 00:19:43,750
 l’avenir de notre pays ?
 
-247
+248
 00:19:46,280 --> 00:19:47,570
 – Je t’en prie…
 – Sois pas stupide !
 
-248
+249
 00:19:47,750 --> 00:19:49,290
 Bien sûr que tu peux !
 
-249
+250
 00:19:50,790 --> 00:19:52,590
 C’est le pays de mes amis !
 
-250
+251
 00:19:59,400 --> 00:20:01,250
 Hé oh, gamin.
 
-251
+252
 00:20:03,680 --> 00:20:04,770
 Messire…
 
-252
+253
 00:20:05,390 --> 00:20:06,690
 Luffy...
 
-253
+254
 00:20:08,030 --> 00:20:10,840
 Je suis… ton obligé…
 
-254
+255
 00:20:12,870 --> 00:20:15,630
 Traffy !
 Expédie-les tous en bas !
 
-255
+256
 00:20:21,500 --> 00:20:23,400
 Pourquoi ça tremble ?
 
-256
+257
 00:20:24,290 --> 00:20:25,480
 Luffy…
 
-257
+258
 00:20:29,270 --> 00:20:31,600
 Ce que tu nommes « Haki »
 
-258
+259
 00:20:31,800 --> 00:20:34,330
 porte le nom de « Ryuo » à Wano.
 
-259
+260
 00:20:34,630 --> 00:20:37,270
 C’est une force
 qui parcourt tout ton corps.
 
-260
+261
 00:20:37,510 --> 00:20:40,630
 Notre seigneur Oden
 a été exécuté !
 
-261
+262
 00:20:40,810 --> 00:20:45,150
 Sur les ordres du Shogun de Wano
 et de l’Empereur Kaido.
 
-262
+263
 00:20:45,400 --> 00:20:47,590
 Raizo est indemne.
 
-263
+264
 00:20:47,720 --> 00:20:50,060
 Jamais on ne livrerait nos camarades !
 
-264
+265
 00:20:50,200 --> 00:20:52,950
 Écoutez-moi.
 Vous devez continuer !
 
-265
+266
 00:20:53,110 --> 00:20:57,100
 Le saltimbanque d’Ebisu
 tire sa révérence !
 
-266
+267
 00:20:57,260 --> 00:21:00,720
 Le feu de la rébellion
 n’était pas éteint !
 
-267
+268
 00:21:00,880 --> 00:21:02,520
 Cap sur Onigashima !
 
-268
+269
 00:21:02,700 --> 00:21:04,030
 À l’assaut !
 
-269
+270
 00:21:06,750 --> 00:21:10,240
 Malheureusement, il y a 20 ans,
 le jour où Kaido l’a tué…
 
-270
+271
 00:21:10,420 --> 00:21:12,550
 C’est tout le pays qui a sombré.
 
-271
+272
 00:21:12,730 --> 00:21:15,960
 Personne ne mérite
 de mourir sous les rires.
 
-272
+273
 00:21:16,140 --> 00:21:19,080
 Pourquoi un étranger
 pourrait pas défendre votre pays ?
 
-273
+274
 00:21:19,260 --> 00:21:21,560
 C’est à toi de demander !
 T’es important, non ?
 
-274
+275
 00:21:21,720 --> 00:21:24,980
 Je croyais que t’étais le chef
 de tous ces grands guerriers !
 
-275
+276
 00:21:25,270 --> 00:21:29,130
 Je veux vaincre Kaido !
 
-276
+277
 00:21:34,950 --> 00:21:38,100
 Gum Gum…
 
-277
+278
 00:21:41,860 --> 00:21:42,880
 Red...
 
-278
+279
 00:21:44,530 --> 00:21:45,240
 Rokh !
 
-279
+280
 00:22:08,780 --> 00:22:11,270
 Kaido ! Tu te fous de moi ?
 
-280
+281
 00:22:11,480 --> 00:22:14,230
 Il t’a mis à genoux, le gamin !
 
-281
+282
 00:22:17,450 --> 00:22:19,860
 Encore une fois,
 je suis Monkey D. Luffy.
 
-282
+283
 00:22:20,930 --> 00:22:22,800
 L’homme qui va vous surpasser…
 
-283
+284
 00:22:26,240 --> 00:22:29,200
 et devenir le Roi des Pirates !
 
-284
+285
 00:00:01,660 --> 00:00:03,580
 Fortune, gloire et pouvoir...
 
-285
+286
 00:00:03,800 --> 00:00:07,750
 Le Roi des Pirates, Gold Roger,
 possédait tout ce qu'un homme désire.
 
-286
+287
 00:00:07,990 --> 00:00:11,620
 Ses dernières paroles précipitèrent les hommes sur les mers.
 
-287
+288
 00:00:11,820 --> 00:00:15,410
 Mon trésor ?
 Je vous le laisse si vous voulez...
 
-288
+289
 00:00:15,600 --> 00:00:16,570
 Trouvez-le !
 
-289
+290
 00:00:16,820 --> 00:00:19,240
 Je l'ai laissé quelque part
  dans ce monde.
 
-290
+291
 00:00:21,740 --> 00:00:26,080
 En direction de Grand Line,
 tous se mirent en quête de leur rêve !
 
-291
+292
 00:00:26,490 --> 00:00:29,750
 Le monde entier connu alors
 une grande vague de piraterie !
-
-292
-00:02:01,600 --> 00:02:01,640
-Quelques années
-plus tôt
 
 293
 00:02:01,600 --> 00:02:01,640
@@ -1295,7 +1295,7 @@ Quelques années
 plus tôt
 
 294
-00:02:01,640 --> 00:02:01,680
+00:02:01,600 --> 00:02:01,640
 Quelques années
 plus tôt
 
@@ -1305,7 +1305,7 @@ Quelques années
 plus tôt
 
 296
-00:02:01,680 --> 00:02:01,730
+00:02:01,640 --> 00:02:01,680
 Quelques années
 plus tôt
 
@@ -1315,7 +1315,7 @@ Quelques années
 plus tôt
 
 298
-00:02:01,730 --> 00:02:01,770
+00:02:01,680 --> 00:02:01,730
 Quelques années
 plus tôt
 
@@ -1325,7 +1325,7 @@ Quelques années
 plus tôt
 
 300
-00:02:01,770 --> 00:02:01,810
+00:02:01,730 --> 00:02:01,770
 Quelques années
 plus tôt
 
@@ -1335,7 +1335,7 @@ Quelques années
 plus tôt
 
 302
-00:02:01,810 --> 00:02:01,850
+00:02:01,770 --> 00:02:01,810
 Quelques années
 plus tôt
 
@@ -1345,7 +1345,7 @@ Quelques années
 plus tôt
 
 304
-00:02:01,850 --> 00:02:01,890
+00:02:01,810 --> 00:02:01,850
 Quelques années
 plus tôt
 
@@ -1355,7 +1355,7 @@ Quelques années
 plus tôt
 
 306
-00:02:01,890 --> 00:02:01,930
+00:02:01,850 --> 00:02:01,890
 Quelques années
 plus tôt
 
@@ -1365,7 +1365,7 @@ Quelques années
 plus tôt
 
 308
-00:02:01,930 --> 00:02:01,970
+00:02:01,890 --> 00:02:01,930
 Quelques années
 plus tôt
 
@@ -1375,7 +1375,7 @@ Quelques années
 plus tôt
 
 310
-00:02:01,970 --> 00:02:02,010
+00:02:01,930 --> 00:02:01,970
 Quelques années
 plus tôt
 
@@ -1385,7 +1385,7 @@ Quelques années
 plus tôt
 
 312
-00:02:02,010 --> 00:02:02,060
+00:02:01,970 --> 00:02:02,010
 Quelques années
 plus tôt
 
@@ -1395,7 +1395,7 @@ Quelques années
 plus tôt
 
 314
-00:02:02,060 --> 00:02:02,100
+00:02:02,010 --> 00:02:02,060
 Quelques années
 plus tôt
 
@@ -1405,7 +1405,7 @@ Quelques années
 plus tôt
 
 316
-00:02:02,100 --> 00:02:02,140
+00:02:02,060 --> 00:02:02,100
 Quelques années
 plus tôt
 
@@ -1415,7 +1415,7 @@ Quelques années
 plus tôt
 
 318
-00:02:02,140 --> 00:02:02,180
+00:02:02,100 --> 00:02:02,140
 Quelques années
 plus tôt
 
@@ -1425,7 +1425,7 @@ Quelques années
 plus tôt
 
 320
-00:02:02,180 --> 00:02:02,220
+00:02:02,140 --> 00:02:02,180
 Quelques années
 plus tôt
 
@@ -1435,7 +1435,7 @@ Quelques années
 plus tôt
 
 322
-00:02:02,220 --> 00:02:02,260
+00:02:02,180 --> 00:02:02,220
 Quelques années
 plus tôt
 
@@ -1445,7 +1445,7 @@ Quelques années
 plus tôt
 
 324
-00:02:02,260 --> 00:02:02,310
+00:02:02,220 --> 00:02:02,260
 Quelques années
 plus tôt
 
@@ -1455,7 +1455,7 @@ Quelques années
 plus tôt
 
 326
-00:02:02,310 --> 00:02:02,350
+00:02:02,260 --> 00:02:02,310
 Quelques années
 plus tôt
 
@@ -1465,7 +1465,7 @@ Quelques années
 plus tôt
 
 328
-00:02:02,350 --> 00:02:02,390
+00:02:02,310 --> 00:02:02,350
 Quelques années
 plus tôt
 
@@ -1475,7 +1475,7 @@ Quelques années
 plus tôt
 
 330
-00:02:02,390 --> 00:02:02,430
+00:02:02,350 --> 00:02:02,390
 Quelques années
 plus tôt
 
@@ -1485,7 +1485,7 @@ Quelques années
 plus tôt
 
 332
-00:02:02,430 --> 00:02:02,470
+00:02:02,390 --> 00:02:02,430
 Quelques années
 plus tôt
 
@@ -1495,7 +1495,7 @@ Quelques années
 plus tôt
 
 334
-00:02:02,470 --> 00:02:02,510
+00:02:02,430 --> 00:02:02,470
 Quelques années
 plus tôt
 
@@ -1505,7 +1505,7 @@ Quelques années
 plus tôt
 
 336
-00:02:02,510 --> 00:02:02,560
+00:02:02,470 --> 00:02:02,510
 Quelques années
 plus tôt
 
@@ -1515,7 +1515,7 @@ Quelques années
 plus tôt
 
 338
-00:02:02,560 --> 00:02:02,600
+00:02:02,510 --> 00:02:02,560
 Quelques années
 plus tôt
 
@@ -1525,7 +1525,7 @@ Quelques années
 plus tôt
 
 340
-00:02:02,600 --> 00:02:02,640
+00:02:02,560 --> 00:02:02,600
 Quelques années
 plus tôt
 
@@ -1535,7 +1535,7 @@ Quelques années
 plus tôt
 
 342
-00:02:02,640 --> 00:02:02,680
+00:02:02,600 --> 00:02:02,640
 Quelques années
 plus tôt
 
@@ -1545,7 +1545,7 @@ Quelques années
 plus tôt
 
 344
-00:02:02,680 --> 00:02:02,720
+00:02:02,640 --> 00:02:02,680
 Quelques années
 plus tôt
 
@@ -1555,7 +1555,7 @@ Quelques années
 plus tôt
 
 346
-00:02:02,720 --> 00:02:02,760
+00:02:02,680 --> 00:02:02,720
 Quelques années
 plus tôt
 
@@ -1565,7 +1565,7 @@ Quelques années
 plus tôt
 
 348
-00:02:02,760 --> 00:02:02,810
+00:02:02,720 --> 00:02:02,760
 Quelques années
 plus tôt
 
@@ -1575,7 +1575,7 @@ Quelques années
 plus tôt
 
 350
-00:02:02,810 --> 00:02:02,850
+00:02:02,760 --> 00:02:02,810
 Quelques années
 plus tôt
 
@@ -1585,7 +1585,7 @@ Quelques années
 plus tôt
 
 352
-00:02:02,850 --> 00:02:02,890
+00:02:02,810 --> 00:02:02,850
 Quelques années
 plus tôt
 
@@ -1595,7 +1595,7 @@ Quelques années
 plus tôt
 
 354
-00:02:02,890 --> 00:02:02,930
+00:02:02,850 --> 00:02:02,890
 Quelques années
 plus tôt
 
@@ -1605,7 +1605,7 @@ Quelques années
 plus tôt
 
 356
-00:02:02,930 --> 00:02:02,970
+00:02:02,890 --> 00:02:02,930
 Quelques années
 plus tôt
 
@@ -1615,7 +1615,7 @@ Quelques années
 plus tôt
 
 358
-00:02:02,970 --> 00:02:03,010
+00:02:02,930 --> 00:02:02,970
 Quelques années
 plus tôt
 
@@ -1625,7 +1625,7 @@ Quelques années
 plus tôt
 
 360
-00:02:03,010 --> 00:02:03,060
+00:02:02,970 --> 00:02:03,010
 Quelques années
 plus tôt
 
@@ -1635,7 +1635,7 @@ Quelques années
 plus tôt
 
 362
-00:02:03,060 --> 00:02:03,100
+00:02:03,010 --> 00:02:03,060
 Quelques années
 plus tôt
 
@@ -1645,7 +1645,7 @@ Quelques années
 plus tôt
 
 364
-00:02:03,100 --> 00:02:03,140
+00:02:03,060 --> 00:02:03,100
 Quelques années
 plus tôt
 
@@ -1655,7 +1655,7 @@ Quelques années
 plus tôt
 
 366
-00:02:03,140 --> 00:02:03,180
+00:02:03,100 --> 00:02:03,140
 Quelques années
 plus tôt
 
@@ -1665,7 +1665,7 @@ Quelques années
 plus tôt
 
 368
-00:02:03,180 --> 00:02:03,220
+00:02:03,140 --> 00:02:03,180
 Quelques années
 plus tôt
 
@@ -1675,7 +1675,7 @@ Quelques années
 plus tôt
 
 370
-00:02:03,220 --> 00:02:03,260
+00:02:03,180 --> 00:02:03,220
 Quelques années
 plus tôt
 
@@ -1685,7 +1685,7 @@ Quelques années
 plus tôt
 
 372
-00:02:03,260 --> 00:02:03,310
+00:02:03,220 --> 00:02:03,260
 Quelques années
 plus tôt
 
@@ -1695,7 +1695,7 @@ Quelques années
 plus tôt
 
 374
-00:02:03,310 --> 00:02:03,350
+00:02:03,260 --> 00:02:03,310
 Quelques années
 plus tôt
 
@@ -1705,7 +1705,7 @@ Quelques années
 plus tôt
 
 376
-00:02:03,350 --> 00:02:03,390
+00:02:03,310 --> 00:02:03,350
 Quelques années
 plus tôt
 
@@ -1715,7 +1715,7 @@ Quelques années
 plus tôt
 
 378
-00:02:03,390 --> 00:02:03,430
+00:02:03,350 --> 00:02:03,390
 Quelques années
 plus tôt
 
@@ -1725,7 +1725,7 @@ Quelques années
 plus tôt
 
 380
-00:02:03,430 --> 00:02:03,470
+00:02:03,390 --> 00:02:03,430
 Quelques années
 plus tôt
 
@@ -1735,7 +1735,7 @@ Quelques années
 plus tôt
 
 382
-00:02:03,470 --> 00:02:03,510
+00:02:03,430 --> 00:02:03,470
 Quelques années
 plus tôt
 
@@ -1745,7 +1745,7 @@ Quelques années
 plus tôt
 
 384
-00:02:03,510 --> 00:02:03,560
+00:02:03,470 --> 00:02:03,510
 Quelques années
 plus tôt
 
@@ -1755,7 +1755,7 @@ Quelques années
 plus tôt
 
 386
-00:02:03,560 --> 00:02:03,600
+00:02:03,510 --> 00:02:03,560
 Quelques années
 plus tôt
 
@@ -1765,7 +1765,7 @@ Quelques années
 plus tôt
 
 388
-00:02:03,600 --> 00:02:03,640
+00:02:03,560 --> 00:02:03,600
 Quelques années
 plus tôt
 
@@ -1775,7 +1775,7 @@ Quelques années
 plus tôt
 
 390
-00:02:03,640 --> 00:02:03,680
+00:02:03,600 --> 00:02:03,640
 Quelques années
 plus tôt
 
@@ -1785,7 +1785,7 @@ Quelques années
 plus tôt
 
 392
-00:02:03,680 --> 00:02:03,720
+00:02:03,640 --> 00:02:03,680
 Quelques années
 plus tôt
 
@@ -1795,7 +1795,7 @@ Quelques années
 plus tôt
 
 394
-00:02:03,720 --> 00:02:03,770
+00:02:03,680 --> 00:02:03,720
 Quelques années
 plus tôt
 
@@ -1805,7 +1805,7 @@ Quelques années
 plus tôt
 
 396
-00:02:03,770 --> 00:02:03,810
+00:02:03,720 --> 00:02:03,770
 Quelques années
 plus tôt
 
@@ -1815,7 +1815,7 @@ Quelques années
 plus tôt
 
 398
-00:02:03,810 --> 00:02:03,850
+00:02:03,770 --> 00:02:03,810
 Quelques années
 plus tôt
 
@@ -1825,7 +1825,7 @@ Quelques années
 plus tôt
 
 400
-00:02:03,850 --> 00:02:03,890
+00:02:03,810 --> 00:02:03,850
 Quelques années
 plus tôt
 
@@ -1835,7 +1835,7 @@ Quelques années
 plus tôt
 
 402
-00:02:03,890 --> 00:02:03,930
+00:02:03,850 --> 00:02:03,890
 Quelques années
 plus tôt
 
@@ -1845,7 +1845,7 @@ Quelques années
 plus tôt
 
 404
-00:02:03,930 --> 00:02:03,970
+00:02:03,890 --> 00:02:03,930
 Quelques années
 plus tôt
 
@@ -1855,7 +1855,7 @@ Quelques années
 plus tôt
 
 406
-00:02:03,970 --> 00:02:04,020
+00:02:03,930 --> 00:02:03,970
 Quelques années
 plus tôt
 
@@ -1865,7 +1865,7 @@ Quelques années
 plus tôt
 
 408
-00:02:04,020 --> 00:02:04,060
+00:02:03,970 --> 00:02:04,020
 Quelques années
 plus tôt
 
@@ -1875,7 +1875,7 @@ Quelques années
 plus tôt
 
 410
-00:02:04,060 --> 00:02:04,100
+00:02:04,020 --> 00:02:04,060
 Quelques années
 plus tôt
 
@@ -1885,7 +1885,7 @@ Quelques années
 plus tôt
 
 412
-00:02:04,100 --> 00:02:04,140
+00:02:04,060 --> 00:02:04,100
 Quelques années
 plus tôt
 
@@ -1895,7 +1895,7 @@ Quelques années
 plus tôt
 
 414
-00:02:04,140 --> 00:02:04,180
+00:02:04,100 --> 00:02:04,140
 Quelques années
 plus tôt
 
@@ -1905,7 +1905,7 @@ Quelques années
 plus tôt
 
 416
-00:02:04,180 --> 00:02:04,220
+00:02:04,140 --> 00:02:04,180
 Quelques années
 plus tôt
 
@@ -1915,7 +1915,7 @@ Quelques années
 plus tôt
 
 418
-00:02:04,220 --> 00:02:04,270
+00:02:04,180 --> 00:02:04,220
 Quelques années
 plus tôt
 
@@ -1925,7 +1925,7 @@ Quelques années
 plus tôt
 
 420
-00:02:04,270 --> 00:02:04,310
+00:02:04,220 --> 00:02:04,270
 Quelques années
 plus tôt
 
@@ -1935,7 +1935,7 @@ Quelques années
 plus tôt
 
 422
-00:02:04,310 --> 00:02:04,350
+00:02:04,270 --> 00:02:04,310
 Quelques années
 plus tôt
 
@@ -1945,7 +1945,7 @@ Quelques années
 plus tôt
 
 424
-00:02:04,350 --> 00:02:04,390
+00:02:04,310 --> 00:02:04,350
 Quelques années
 plus tôt
 
@@ -1955,7 +1955,7 @@ Quelques années
 plus tôt
 
 426
-00:02:04,390 --> 00:02:04,430
+00:02:04,350 --> 00:02:04,390
 Quelques années
 plus tôt
 
@@ -1965,7 +1965,7 @@ Quelques années
 plus tôt
 
 428
-00:02:04,430 --> 00:02:04,470
+00:02:04,390 --> 00:02:04,430
 Quelques années
 plus tôt
 
@@ -1975,7 +1975,7 @@ Quelques années
 plus tôt
 
 430
-00:02:04,470 --> 00:02:04,520
+00:02:04,430 --> 00:02:04,470
 Quelques années
 plus tôt
 
@@ -1985,7 +1985,7 @@ Quelques années
 plus tôt
 
 432
-00:02:04,520 --> 00:02:04,560
+00:02:04,470 --> 00:02:04,520
 Quelques années
 plus tôt
 
@@ -1995,7 +1995,7 @@ Quelques années
 plus tôt
 
 434
-00:02:04,560 --> 00:02:04,600
+00:02:04,520 --> 00:02:04,560
 Quelques années
 plus tôt
 
@@ -2005,7 +2005,7 @@ Quelques années
 plus tôt
 
 436
-00:02:04,600 --> 00:02:04,640
+00:02:04,560 --> 00:02:04,600
 Quelques années
 plus tôt
 
@@ -2015,7 +2015,7 @@ Quelques années
 plus tôt
 
 438
-00:02:04,640 --> 00:02:04,680
+00:02:04,600 --> 00:02:04,640
 Quelques années
 plus tôt
 
@@ -2025,7 +2025,7 @@ Quelques années
 plus tôt
 
 440
-00:02:04,680 --> 00:02:04,720
+00:02:04,640 --> 00:02:04,680
 Quelques années
 plus tôt
 
@@ -2035,7 +2035,7 @@ Quelques années
 plus tôt
 
 442
-00:02:04,720 --> 00:02:04,770
+00:02:04,680 --> 00:02:04,720
 Quelques années
 plus tôt
 
@@ -2045,7 +2045,7 @@ Quelques années
 plus tôt
 
 444
-00:02:04,770 --> 00:02:04,810
+00:02:04,720 --> 00:02:04,770
 Quelques années
 plus tôt
 
@@ -2055,7 +2055,7 @@ Quelques années
 plus tôt
 
 446
-00:02:04,810 --> 00:02:04,850
+00:02:04,770 --> 00:02:04,810
 Quelques années
 plus tôt
 
@@ -2065,7 +2065,7 @@ Quelques années
 plus tôt
 
 448
-00:02:04,850 --> 00:02:04,890
+00:02:04,810 --> 00:02:04,850
 Quelques années
 plus tôt
 
@@ -2075,7 +2075,7 @@ Quelques années
 plus tôt
 
 450
-00:02:04,890 --> 00:02:04,930
+00:02:04,850 --> 00:02:04,890
 Quelques années
 plus tôt
 
@@ -2085,7 +2085,7 @@ Quelques années
 plus tôt
 
 452
-00:02:04,930 --> 00:02:04,970
+00:02:04,890 --> 00:02:04,930
 Quelques années
 plus tôt
 
@@ -2095,7 +2095,7 @@ Quelques années
 plus tôt
 
 454
-00:02:04,970 --> 00:02:05,020
+00:02:04,930 --> 00:02:04,970
 Quelques années
 plus tôt
 
@@ -2105,7 +2105,7 @@ Quelques années
 plus tôt
 
 456
-00:02:05,020 --> 00:02:05,060
+00:02:04,970 --> 00:02:05,020
 Quelques années
 plus tôt
 
@@ -2115,7 +2115,7 @@ Quelques années
 plus tôt
 
 458
-00:02:05,060 --> 00:02:05,100
+00:02:05,020 --> 00:02:05,060
 Quelques années
 plus tôt
 
@@ -2125,7 +2125,7 @@ Quelques années
 plus tôt
 
 460
-00:02:05,100 --> 00:02:05,140
+00:02:05,060 --> 00:02:05,100
 Quelques années
 plus tôt
 
@@ -2135,7 +2135,7 @@ Quelques années
 plus tôt
 
 462
-00:02:05,140 --> 00:02:05,180
+00:02:05,100 --> 00:02:05,140
 Quelques années
 plus tôt
 
@@ -2145,7 +2145,7 @@ Quelques années
 plus tôt
 
 464
-00:02:05,180 --> 00:02:05,220
+00:02:05,140 --> 00:02:05,180
 Quelques années
 plus tôt
 
@@ -2155,7 +2155,7 @@ Quelques années
 plus tôt
 
 466
-00:02:05,220 --> 00:02:05,270
+00:02:05,180 --> 00:02:05,220
 Quelques années
 plus tôt
 
@@ -2165,7 +2165,7 @@ Quelques années
 plus tôt
 
 468
-00:02:05,270 --> 00:02:05,310
+00:02:05,220 --> 00:02:05,270
 Quelques années
 plus tôt
 
@@ -2175,7 +2175,7 @@ Quelques années
 plus tôt
 
 470
-00:02:05,310 --> 00:02:05,350
+00:02:05,270 --> 00:02:05,310
 Quelques années
 plus tôt
 
@@ -2185,7 +2185,7 @@ Quelques années
 plus tôt
 
 472
-00:02:05,350 --> 00:02:05,390
+00:02:05,310 --> 00:02:05,350
 Quelques années
 plus tôt
 
@@ -2195,7 +2195,7 @@ Quelques années
 plus tôt
 
 474
-00:02:05,390 --> 00:02:05,430
+00:02:05,350 --> 00:02:05,390
 Quelques années
 plus tôt
 
@@ -2205,7 +2205,7 @@ Quelques années
 plus tôt
 
 476
-00:02:05,430 --> 00:02:05,480
+00:02:05,390 --> 00:02:05,430
 Quelques années
 plus tôt
 
@@ -2215,7 +2215,7 @@ Quelques années
 plus tôt
 
 478
-00:02:05,480 --> 00:02:05,520
+00:02:05,430 --> 00:02:05,480
 Quelques années
 plus tôt
 
@@ -2225,7 +2225,7 @@ Quelques années
 plus tôt
 
 480
-00:02:05,520 --> 00:02:05,560
+00:02:05,480 --> 00:02:05,520
 Quelques années
 plus tôt
 
@@ -2235,7 +2235,7 @@ Quelques années
 plus tôt
 
 482
-00:02:05,560 --> 00:02:05,600
+00:02:05,520 --> 00:02:05,560
 Quelques années
 plus tôt
 
@@ -2245,7 +2245,7 @@ Quelques années
 plus tôt
 
 484
-00:02:05,600 --> 00:02:05,640
+00:02:05,560 --> 00:02:05,600
 Quelques années
 plus tôt
 
@@ -2255,7 +2255,7 @@ Quelques années
 plus tôt
 
 486
-00:02:05,640 --> 00:02:05,680
+00:02:05,600 --> 00:02:05,640
 Quelques années
 plus tôt
 
@@ -2265,7 +2265,7 @@ Quelques années
 plus tôt
 
 488
-00:02:05,680 --> 00:02:05,730
+00:02:05,640 --> 00:02:05,680
 Quelques années
 plus tôt
 
@@ -2275,7 +2275,7 @@ Quelques années
 plus tôt
 
 490
-00:02:05,730 --> 00:02:05,770
+00:02:05,680 --> 00:02:05,730
 Quelques années
 plus tôt
 
@@ -2285,7 +2285,7 @@ Quelques années
 plus tôt
 
 492
-00:02:05,770 --> 00:02:05,810
+00:02:05,730 --> 00:02:05,770
 Quelques années
 plus tôt
 
@@ -2295,7 +2295,7 @@ Quelques années
 plus tôt
 
 494
-00:02:05,810 --> 00:02:05,850
+00:02:05,770 --> 00:02:05,810
 Quelques années
 plus tôt
 
@@ -2305,7 +2305,7 @@ Quelques années
 plus tôt
 
 496
-00:02:05,850 --> 00:02:05,890
+00:02:05,810 --> 00:02:05,850
 Quelques années
 plus tôt
 
@@ -2315,7 +2315,7 @@ Quelques années
 plus tôt
 
 498
-00:02:05,890 --> 00:02:05,930
+00:02:05,850 --> 00:02:05,890
 Quelques années
 plus tôt
 
@@ -2325,7 +2325,7 @@ Quelques années
 plus tôt
 
 500
-00:02:05,930 --> 00:02:05,980
+00:02:05,890 --> 00:02:05,930
 Quelques années
 plus tôt
 
@@ -2335,7 +2335,7 @@ Quelques années
 plus tôt
 
 502
-00:02:05,980 --> 00:02:06,020
+00:02:05,930 --> 00:02:05,980
 Quelques années
 plus tôt
 
@@ -2345,7 +2345,7 @@ Quelques années
 plus tôt
 
 504
-00:02:06,020 --> 00:02:06,060
+00:02:05,980 --> 00:02:06,020
 Quelques années
 plus tôt
 
@@ -2355,7 +2355,7 @@ Quelques années
 plus tôt
 
 506
-00:02:06,060 --> 00:02:06,100
+00:02:06,020 --> 00:02:06,060
 Quelques années
 plus tôt
 
@@ -2365,7 +2365,7 @@ Quelques années
 plus tôt
 
 508
-00:02:06,100 --> 00:02:06,140
+00:02:06,060 --> 00:02:06,100
 Quelques années
 plus tôt
 
@@ -2375,7 +2375,7 @@ Quelques années
 plus tôt
 
 510
-00:02:06,140 --> 00:02:06,180
+00:02:06,100 --> 00:02:06,140
 Quelques années
 plus tôt
 
@@ -2385,7 +2385,7 @@ Quelques années
 plus tôt
 
 512
-00:02:06,180 --> 00:02:06,230
+00:02:06,140 --> 00:02:06,180
 Quelques années
 plus tôt
 
@@ -2395,7 +2395,7 @@ Quelques années
 plus tôt
 
 514
-00:02:06,230 --> 00:02:06,270
+00:02:06,180 --> 00:02:06,230
 Quelques années
 plus tôt
 
@@ -2405,7 +2405,7 @@ Quelques années
 plus tôt
 
 516
-00:02:06,270 --> 00:02:06,310
+00:02:06,230 --> 00:02:06,270
 Quelques années
 plus tôt
 
@@ -2415,7 +2415,7 @@ Quelques années
 plus tôt
 
 518
-00:02:06,310 --> 00:02:06,350
+00:02:06,270 --> 00:02:06,310
 Quelques années
 plus tôt
 
@@ -2425,7 +2425,7 @@ Quelques années
 plus tôt
 
 520
-00:02:06,350 --> 00:02:06,390
+00:02:06,310 --> 00:02:06,350
 Quelques années
 plus tôt
 
@@ -2435,7 +2435,7 @@ Quelques années
 plus tôt
 
 522
-00:02:06,390 --> 00:02:06,430
+00:02:06,350 --> 00:02:06,390
 Quelques années
 plus tôt
 
@@ -2445,7 +2445,7 @@ Quelques années
 plus tôt
 
 524
-00:02:06,430 --> 00:02:06,480
+00:02:06,390 --> 00:02:06,430
 Quelques années
 plus tôt
 
@@ -2455,7 +2455,7 @@ Quelques années
 plus tôt
 
 526
-00:02:06,480 --> 00:02:06,520
+00:02:06,430 --> 00:02:06,480
 Quelques années
 plus tôt
 
@@ -2465,7 +2465,7 @@ Quelques années
 plus tôt
 
 528
-00:02:06,520 --> 00:02:06,560
+00:02:06,480 --> 00:02:06,520
 Quelques années
 plus tôt
 
@@ -2475,7 +2475,7 @@ Quelques années
 plus tôt
 
 530
-00:02:06,560 --> 00:02:06,600
+00:02:06,520 --> 00:02:06,560
 Quelques années
 plus tôt
 
@@ -2485,7 +2485,7 @@ Quelques années
 plus tôt
 
 532
-00:02:06,600 --> 00:02:06,640
+00:02:06,560 --> 00:02:06,600
 Quelques années
 plus tôt
 
@@ -2495,7 +2495,7 @@ Quelques années
 plus tôt
 
 534
-00:02:06,640 --> 00:02:06,680
+00:02:06,600 --> 00:02:06,640
 Quelques années
 plus tôt
 
@@ -2505,7 +2505,7 @@ Quelques années
 plus tôt
 
 536
-00:02:06,680 --> 00:02:06,730
+00:02:06,640 --> 00:02:06,680
 Quelques années
 plus tôt
 
@@ -2515,7 +2515,7 @@ Quelques années
 plus tôt
 
 538
-00:02:06,730 --> 00:02:06,770
+00:02:06,680 --> 00:02:06,730
 Quelques années
 plus tôt
 
@@ -2525,7 +2525,7 @@ Quelques années
 plus tôt
 
 540
-00:02:06,770 --> 00:02:06,810
+00:02:06,730 --> 00:02:06,770
 Quelques années
 plus tôt
 
@@ -2535,7 +2535,7 @@ Quelques années
 plus tôt
 
 542
-00:02:06,810 --> 00:02:06,850
+00:02:06,770 --> 00:02:06,810
 Quelques années
 plus tôt
 
@@ -2545,7 +2545,7 @@ Quelques années
 plus tôt
 
 544
-00:02:06,850 --> 00:02:06,890
+00:02:06,810 --> 00:02:06,850
 Quelques années
 plus tôt
 
@@ -2555,7 +2555,7 @@ Quelques années
 plus tôt
 
 546
-00:02:06,890 --> 00:02:06,930
+00:02:06,850 --> 00:02:06,890
 Quelques années
 plus tôt
 
@@ -2565,7 +2565,7 @@ Quelques années
 plus tôt
 
 548
-00:02:06,930 --> 00:02:06,980
+00:02:06,890 --> 00:02:06,930
 Quelques années
 plus tôt
 
@@ -2575,7 +2575,7 @@ Quelques années
 plus tôt
 
 550
-00:02:06,980 --> 00:02:07,020
+00:02:06,930 --> 00:02:06,980
 Quelques années
 plus tôt
 
@@ -2585,7 +2585,7 @@ Quelques années
 plus tôt
 
 552
-00:02:07,020 --> 00:02:07,060
+00:02:06,980 --> 00:02:07,020
 Quelques années
 plus tôt
 
@@ -2595,7 +2595,7 @@ Quelques années
 plus tôt
 
 554
-00:02:07,060 --> 00:02:07,100
+00:02:07,020 --> 00:02:07,060
 Quelques années
 plus tôt
 
@@ -2605,7 +2605,7 @@ Quelques années
 plus tôt
 
 556
-00:02:07,100 --> 00:02:07,140
+00:02:07,060 --> 00:02:07,100
 Quelques années
 plus tôt
 
@@ -2615,7 +2615,7 @@ Quelques années
 plus tôt
 
 558
-00:02:07,140 --> 00:02:07,190
+00:02:07,100 --> 00:02:07,140
 Quelques années
 plus tôt
 
@@ -2625,7 +2625,7 @@ Quelques années
 plus tôt
 
 560
-00:02:07,190 --> 00:02:07,230
+00:02:07,140 --> 00:02:07,190
 Quelques années
 plus tôt
 
@@ -2635,7 +2635,7 @@ Quelques années
 plus tôt
 
 562
-00:02:07,230 --> 00:02:07,270
+00:02:07,190 --> 00:02:07,230
 Quelques années
 plus tôt
 
@@ -2645,7 +2645,7 @@ Quelques années
 plus tôt
 
 564
-00:02:07,270 --> 00:02:07,310
+00:02:07,230 --> 00:02:07,270
 Quelques années
 plus tôt
 
@@ -2655,7 +2655,7 @@ Quelques années
 plus tôt
 
 566
-00:02:07,310 --> 00:02:07,350
+00:02:07,270 --> 00:02:07,310
 Quelques années
 plus tôt
 
@@ -2665,7 +2665,7 @@ Quelques années
 plus tôt
 
 568
-00:02:07,350 --> 00:02:07,390
+00:02:07,310 --> 00:02:07,350
 Quelques années
 plus tôt
 
@@ -2675,7 +2675,7 @@ Quelques années
 plus tôt
 
 570
-00:02:07,390 --> 00:02:07,440
+00:02:07,350 --> 00:02:07,390
 Quelques années
 plus tôt
 
@@ -2685,7 +2685,7 @@ Quelques années
 plus tôt
 
 572
-00:02:07,440 --> 00:02:07,480
+00:02:07,390 --> 00:02:07,440
 Quelques années
 plus tôt
 
@@ -2695,7 +2695,7 @@ Quelques années
 plus tôt
 
 574
-00:02:07,480 --> 00:02:07,520
+00:02:07,440 --> 00:02:07,480
 Quelques années
 plus tôt
 
@@ -2705,7 +2705,7 @@ Quelques années
 plus tôt
 
 576
-00:02:07,520 --> 00:02:07,560
+00:02:07,480 --> 00:02:07,520
 Quelques années
 plus tôt
 
@@ -2715,7 +2715,7 @@ Quelques années
 plus tôt
 
 578
-00:02:07,560 --> 00:02:07,600
+00:02:07,520 --> 00:02:07,560
 Quelques années
 plus tôt
 
@@ -2725,7 +2725,7 @@ Quelques années
 plus tôt
 
 580
-00:02:07,600 --> 00:02:07,640
+00:02:07,560 --> 00:02:07,600
 Quelques années
 plus tôt
 
@@ -2735,7 +2735,7 @@ Quelques années
 plus tôt
 
 582
-00:02:07,640 --> 00:02:07,690
+00:02:07,600 --> 00:02:07,640
 Quelques années
 plus tôt
 
@@ -2745,7 +2745,7 @@ Quelques années
 plus tôt
 
 584
-00:02:07,690 --> 00:02:07,730
+00:02:07,640 --> 00:02:07,690
 Quelques années
 plus tôt
 
@@ -2755,7 +2755,7 @@ Quelques années
 plus tôt
 
 586
-00:02:07,730 --> 00:02:07,770
+00:02:07,690 --> 00:02:07,730
 Quelques années
 plus tôt
 
@@ -2765,7 +2765,7 @@ Quelques années
 plus tôt
 
 588
-00:02:07,770 --> 00:02:07,810
+00:02:07,730 --> 00:02:07,770
 Quelques années
 plus tôt
 
@@ -2775,7 +2775,7 @@ Quelques années
 plus tôt
 
 590
-00:02:07,810 --> 00:02:07,850
+00:02:07,770 --> 00:02:07,810
 Quelques années
 plus tôt
 
@@ -2785,7 +2785,7 @@ Quelques années
 plus tôt
 
 592
-00:02:07,850 --> 00:02:07,890
+00:02:07,810 --> 00:02:07,850
 Quelques années
 plus tôt
 
@@ -2795,7 +2795,7 @@ Quelques années
 plus tôt
 
 594
-00:02:07,890 --> 00:02:07,940
+00:02:07,850 --> 00:02:07,890
 Quelques années
 plus tôt
 
@@ -2805,7 +2805,7 @@ Quelques années
 plus tôt
 
 596
-00:02:07,940 --> 00:02:07,980
+00:02:07,890 --> 00:02:07,940
 Quelques années
 plus tôt
 
@@ -2815,7 +2815,7 @@ Quelques années
 plus tôt
 
 598
-00:02:07,980 --> 00:02:08,020
+00:02:07,940 --> 00:02:07,980
 Quelques années
 plus tôt
 
@@ -2825,7 +2825,7 @@ Quelques années
 plus tôt
 
 600
-00:02:08,020 --> 00:02:08,060
+00:02:07,980 --> 00:02:08,020
 Quelques années
 plus tôt
 
@@ -2835,7 +2835,7 @@ Quelques années
 plus tôt
 
 602
-00:02:08,060 --> 00:02:08,100
+00:02:08,020 --> 00:02:08,060
 Quelques années
 plus tôt
 
@@ -2845,7 +2845,7 @@ Quelques années
 plus tôt
 
 604
-00:02:08,100 --> 00:02:08,140
+00:02:08,060 --> 00:02:08,100
 Quelques années
 plus tôt
 
@@ -2855,7 +2855,7 @@ Quelques années
 plus tôt
 
 606
-00:02:08,140 --> 00:02:08,190
+00:02:08,100 --> 00:02:08,140
 Quelques années
 plus tôt
 
@@ -2865,7 +2865,7 @@ Quelques années
 plus tôt
 
 608
-00:02:08,190 --> 00:02:08,230
+00:02:08,140 --> 00:02:08,190
 Quelques années
 plus tôt
 
@@ -2875,7 +2875,7 @@ Quelques années
 plus tôt
 
 610
-00:02:08,230 --> 00:02:08,270
+00:02:08,190 --> 00:02:08,230
 Quelques années
 plus tôt
 
@@ -2885,7 +2885,7 @@ Quelques années
 plus tôt
 
 612
-00:02:08,270 --> 00:02:08,310
+00:02:08,230 --> 00:02:08,270
 Quelques années
 plus tôt
 
@@ -2895,7 +2895,7 @@ Quelques années
 plus tôt
 
 614
-00:02:08,310 --> 00:02:08,350
+00:02:08,270 --> 00:02:08,310
 Quelques années
 plus tôt
 
@@ -2905,7 +2905,7 @@ Quelques années
 plus tôt
 
 616
-00:02:08,350 --> 00:02:08,390
+00:02:08,310 --> 00:02:08,350
 Quelques années
 plus tôt
 
@@ -2915,7 +2915,7 @@ Quelques années
 plus tôt
 
 618
-00:02:08,390 --> 00:02:08,440
+00:02:08,350 --> 00:02:08,390
 Quelques années
 plus tôt
 
@@ -2925,7 +2925,7 @@ Quelques années
 plus tôt
 
 620
-00:02:08,440 --> 00:02:08,480
+00:02:08,390 --> 00:02:08,440
 Quelques années
 plus tôt
 
@@ -2935,7 +2935,7 @@ Quelques années
 plus tôt
 
 622
-00:02:08,480 --> 00:02:08,520
+00:02:08,440 --> 00:02:08,480
 Quelques années
 plus tôt
 
@@ -2945,7 +2945,7 @@ Quelques années
 plus tôt
 
 624
-00:02:08,520 --> 00:02:08,560
+00:02:08,480 --> 00:02:08,520
 Quelques années
 plus tôt
 
@@ -2955,7 +2955,7 @@ Quelques années
 plus tôt
 
 626
-00:02:08,560 --> 00:02:08,600
+00:02:08,520 --> 00:02:08,560
 Quelques années
 plus tôt
 
@@ -2965,7 +2965,7 @@ Quelques années
 plus tôt
 
 628
-00:02:08,600 --> 00:02:08,650
+00:02:08,560 --> 00:02:08,600
 Quelques années
 plus tôt
 
@@ -2975,7 +2975,7 @@ Quelques années
 plus tôt
 
 630
-00:02:08,650 --> 00:02:08,690
+00:02:08,600 --> 00:02:08,650
 Quelques années
 plus tôt
 
@@ -2985,7 +2985,7 @@ Quelques années
 plus tôt
 
 632
-00:02:08,690 --> 00:02:08,730
+00:02:08,650 --> 00:02:08,690
 Quelques années
 plus tôt
 
@@ -2995,7 +2995,7 @@ Quelques années
 plus tôt
 
 634
-00:02:08,730 --> 00:02:08,770
+00:02:08,690 --> 00:02:08,730
 Quelques années
 plus tôt
 
@@ -3005,7 +3005,7 @@ Quelques années
 plus tôt
 
 636
-00:02:08,770 --> 00:02:08,810
+00:02:08,730 --> 00:02:08,770
 Quelques années
 plus tôt
 
@@ -3015,7 +3015,7 @@ Quelques années
 plus tôt
 
 638
-00:02:08,810 --> 00:02:08,850
+00:02:08,770 --> 00:02:08,810
 Quelques années
 plus tôt
 
@@ -3025,7 +3025,7 @@ Quelques années
 plus tôt
 
 640
-00:02:08,850 --> 00:02:08,900
+00:02:08,810 --> 00:02:08,850
 Quelques années
 plus tôt
 
@@ -3035,7 +3035,7 @@ Quelques années
 plus tôt
 
 642
-00:02:08,900 --> 00:02:08,940
+00:02:08,850 --> 00:02:08,900
 Quelques années
 plus tôt
 
@@ -3045,7 +3045,7 @@ Quelques années
 plus tôt
 
 644
-00:02:08,940 --> 00:02:08,980
+00:02:08,900 --> 00:02:08,940
 Quelques années
 plus tôt
 
@@ -3055,7 +3055,7 @@ Quelques années
 plus tôt
 
 646
-00:02:08,980 --> 00:02:09,020
+00:02:08,940 --> 00:02:08,980
 Quelques années
 plus tôt
 
@@ -3065,7 +3065,7 @@ Quelques années
 plus tôt
 
 648
-00:02:09,020 --> 00:02:09,060
+00:02:08,980 --> 00:02:09,020
 Quelques années
 plus tôt
 
@@ -3075,7 +3075,7 @@ Quelques années
 plus tôt
 
 650
-00:02:09,060 --> 00:02:09,100
+00:02:09,020 --> 00:02:09,060
 Quelques années
 plus tôt
 
@@ -3085,7 +3085,7 @@ Quelques années
 plus tôt
 
 652
-00:02:09,100 --> 00:02:09,150
+00:02:09,060 --> 00:02:09,100
 Quelques années
 plus tôt
 
@@ -3095,7 +3095,7 @@ Quelques années
 plus tôt
 
 654
-00:02:09,150 --> 00:02:09,190
+00:02:09,100 --> 00:02:09,150
 Quelques années
 plus tôt
 
@@ -3105,7 +3105,7 @@ Quelques années
 plus tôt
 
 656
-00:02:09,190 --> 00:02:09,900
+00:02:09,150 --> 00:02:09,190
 Quelques années
 plus tôt
 
@@ -3115,9 +3115,9 @@ Quelques années
 plus tôt
 
 658
-00:02:01,760 --> 00:02:01,800
-Onigashima,
-en l'absence de Kaido
+00:02:09,190 --> 00:02:09,900
+Quelques années
+plus tôt
 
 659
 00:02:01,760 --> 00:02:01,800
@@ -3125,7 +3125,7 @@ Onigashima,
 en l'absence de Kaido
 
 660
-00:02:01,800 --> 00:02:01,850
+00:02:01,760 --> 00:02:01,800
 Onigashima,
 en l'absence de Kaido
 
@@ -3135,7 +3135,7 @@ Onigashima,
 en l'absence de Kaido
 
 662
-00:02:01,850 --> 00:02:01,890
+00:02:01,800 --> 00:02:01,850
 Onigashima,
 en l'absence de Kaido
 
@@ -3145,7 +3145,7 @@ Onigashima,
 en l'absence de Kaido
 
 664
-00:02:01,890 --> 00:02:01,930
+00:02:01,850 --> 00:02:01,890
 Onigashima,
 en l'absence de Kaido
 
@@ -3155,7 +3155,7 @@ Onigashima,
 en l'absence de Kaido
 
 666
-00:02:01,930 --> 00:02:01,970
+00:02:01,890 --> 00:02:01,930
 Onigashima,
 en l'absence de Kaido
 
@@ -3165,7 +3165,7 @@ Onigashima,
 en l'absence de Kaido
 
 668
-00:02:01,970 --> 00:02:02,010
+00:02:01,930 --> 00:02:01,970
 Onigashima,
 en l'absence de Kaido
 
@@ -3175,7 +3175,7 @@ Onigashima,
 en l'absence de Kaido
 
 670
-00:02:02,010 --> 00:02:02,060
+00:02:01,970 --> 00:02:02,010
 Onigashima,
 en l'absence de Kaido
 
@@ -3185,7 +3185,7 @@ Onigashima,
 en l'absence de Kaido
 
 672
-00:02:02,060 --> 00:02:02,100
+00:02:02,010 --> 00:02:02,060
 Onigashima,
 en l'absence de Kaido
 
@@ -3195,7 +3195,7 @@ Onigashima,
 en l'absence de Kaido
 
 674
-00:02:02,100 --> 00:02:02,140
+00:02:02,060 --> 00:02:02,100
 Onigashima,
 en l'absence de Kaido
 
@@ -3205,7 +3205,7 @@ Onigashima,
 en l'absence de Kaido
 
 676
-00:02:02,140 --> 00:02:02,180
+00:02:02,100 --> 00:02:02,140
 Onigashima,
 en l'absence de Kaido
 
@@ -3215,7 +3215,7 @@ Onigashima,
 en l'absence de Kaido
 
 678
-00:02:02,180 --> 00:02:02,220
+00:02:02,140 --> 00:02:02,180
 Onigashima,
 en l'absence de Kaido
 
@@ -3225,7 +3225,7 @@ Onigashima,
 en l'absence de Kaido
 
 680
-00:02:02,220 --> 00:02:02,260
+00:02:02,180 --> 00:02:02,220
 Onigashima,
 en l'absence de Kaido
 
@@ -3235,7 +3235,7 @@ Onigashima,
 en l'absence de Kaido
 
 682
-00:02:02,260 --> 00:02:02,310
+00:02:02,220 --> 00:02:02,260
 Onigashima,
 en l'absence de Kaido
 
@@ -3245,7 +3245,7 @@ Onigashima,
 en l'absence de Kaido
 
 684
-00:02:02,310 --> 00:02:02,350
+00:02:02,260 --> 00:02:02,310
 Onigashima,
 en l'absence de Kaido
 
@@ -3255,7 +3255,7 @@ Onigashima,
 en l'absence de Kaido
 
 686
-00:02:02,350 --> 00:02:02,390
+00:02:02,310 --> 00:02:02,350
 Onigashima,
 en l'absence de Kaido
 
@@ -3265,7 +3265,7 @@ Onigashima,
 en l'absence de Kaido
 
 688
-00:02:02,390 --> 00:02:02,430
+00:02:02,350 --> 00:02:02,390
 Onigashima,
 en l'absence de Kaido
 
@@ -3275,7 +3275,7 @@ Onigashima,
 en l'absence de Kaido
 
 690
-00:02:02,430 --> 00:02:02,470
+00:02:02,390 --> 00:02:02,430
 Onigashima,
 en l'absence de Kaido
 
@@ -3285,7 +3285,7 @@ Onigashima,
 en l'absence de Kaido
 
 692
-00:02:02,470 --> 00:02:02,510
+00:02:02,430 --> 00:02:02,470
 Onigashima,
 en l'absence de Kaido
 
@@ -3295,7 +3295,7 @@ Onigashima,
 en l'absence de Kaido
 
 694
-00:02:02,510 --> 00:02:02,560
+00:02:02,470 --> 00:02:02,510
 Onigashima,
 en l'absence de Kaido
 
@@ -3305,7 +3305,7 @@ Onigashima,
 en l'absence de Kaido
 
 696
-00:02:02,560 --> 00:02:02,600
+00:02:02,510 --> 00:02:02,560
 Onigashima,
 en l'absence de Kaido
 
@@ -3315,7 +3315,7 @@ Onigashima,
 en l'absence de Kaido
 
 698
-00:02:02,600 --> 00:02:02,640
+00:02:02,560 --> 00:02:02,600
 Onigashima,
 en l'absence de Kaido
 
@@ -3325,7 +3325,7 @@ Onigashima,
 en l'absence de Kaido
 
 700
-00:02:02,640 --> 00:02:02,680
+00:02:02,600 --> 00:02:02,640
 Onigashima,
 en l'absence de Kaido
 
@@ -3335,7 +3335,7 @@ Onigashima,
 en l'absence de Kaido
 
 702
-00:02:02,680 --> 00:02:02,720
+00:02:02,640 --> 00:02:02,680
 Onigashima,
 en l'absence de Kaido
 
@@ -3345,7 +3345,7 @@ Onigashima,
 en l'absence de Kaido
 
 704
-00:02:02,720 --> 00:02:02,760
+00:02:02,680 --> 00:02:02,720
 Onigashima,
 en l'absence de Kaido
 
@@ -3355,7 +3355,7 @@ Onigashima,
 en l'absence de Kaido
 
 706
-00:02:02,760 --> 00:02:02,810
+00:02:02,720 --> 00:02:02,760
 Onigashima,
 en l'absence de Kaido
 
@@ -3365,7 +3365,7 @@ Onigashima,
 en l'absence de Kaido
 
 708
-00:02:02,810 --> 00:02:02,850
+00:02:02,760 --> 00:02:02,810
 Onigashima,
 en l'absence de Kaido
 
@@ -3375,7 +3375,7 @@ Onigashima,
 en l'absence de Kaido
 
 710
-00:02:02,850 --> 00:02:02,890
+00:02:02,810 --> 00:02:02,850
 Onigashima,
 en l'absence de Kaido
 
@@ -3385,7 +3385,7 @@ Onigashima,
 en l'absence de Kaido
 
 712
-00:02:02,890 --> 00:02:02,930
+00:02:02,850 --> 00:02:02,890
 Onigashima,
 en l'absence de Kaido
 
@@ -3395,7 +3395,7 @@ Onigashima,
 en l'absence de Kaido
 
 714
-00:02:02,930 --> 00:02:02,970
+00:02:02,890 --> 00:02:02,930
 Onigashima,
 en l'absence de Kaido
 
@@ -3405,7 +3405,7 @@ Onigashima,
 en l'absence de Kaido
 
 716
-00:02:02,970 --> 00:02:03,010
+00:02:02,930 --> 00:02:02,970
 Onigashima,
 en l'absence de Kaido
 
@@ -3415,7 +3415,7 @@ Onigashima,
 en l'absence de Kaido
 
 718
-00:02:03,010 --> 00:02:03,060
+00:02:02,970 --> 00:02:03,010
 Onigashima,
 en l'absence de Kaido
 
@@ -3425,7 +3425,7 @@ Onigashima,
 en l'absence de Kaido
 
 720
-00:02:03,060 --> 00:02:03,100
+00:02:03,010 --> 00:02:03,060
 Onigashima,
 en l'absence de Kaido
 
@@ -3435,7 +3435,7 @@ Onigashima,
 en l'absence de Kaido
 
 722
-00:02:03,100 --> 00:02:03,140
+00:02:03,060 --> 00:02:03,100
 Onigashima,
 en l'absence de Kaido
 
@@ -3445,7 +3445,7 @@ Onigashima,
 en l'absence de Kaido
 
 724
-00:02:03,140 --> 00:02:03,180
+00:02:03,100 --> 00:02:03,140
 Onigashima,
 en l'absence de Kaido
 
@@ -3455,7 +3455,7 @@ Onigashima,
 en l'absence de Kaido
 
 726
-00:02:03,180 --> 00:02:03,220
+00:02:03,140 --> 00:02:03,180
 Onigashima,
 en l'absence de Kaido
 
@@ -3465,7 +3465,7 @@ Onigashima,
 en l'absence de Kaido
 
 728
-00:02:03,220 --> 00:02:03,260
+00:02:03,180 --> 00:02:03,220
 Onigashima,
 en l'absence de Kaido
 
@@ -3475,7 +3475,7 @@ Onigashima,
 en l'absence de Kaido
 
 730
-00:02:03,260 --> 00:02:03,310
+00:02:03,220 --> 00:02:03,260
 Onigashima,
 en l'absence de Kaido
 
@@ -3485,7 +3485,7 @@ Onigashima,
 en l'absence de Kaido
 
 732
-00:02:03,310 --> 00:02:03,350
+00:02:03,260 --> 00:02:03,310
 Onigashima,
 en l'absence de Kaido
 
@@ -3495,7 +3495,7 @@ Onigashima,
 en l'absence de Kaido
 
 734
-00:02:03,350 --> 00:02:03,390
+00:02:03,310 --> 00:02:03,350
 Onigashima,
 en l'absence de Kaido
 
@@ -3505,7 +3505,7 @@ Onigashima,
 en l'absence de Kaido
 
 736
-00:02:03,390 --> 00:02:03,430
+00:02:03,350 --> 00:02:03,390
 Onigashima,
 en l'absence de Kaido
 
@@ -3515,7 +3515,7 @@ Onigashima,
 en l'absence de Kaido
 
 738
-00:02:03,430 --> 00:02:03,470
+00:02:03,390 --> 00:02:03,430
 Onigashima,
 en l'absence de Kaido
 
@@ -3525,7 +3525,7 @@ Onigashima,
 en l'absence de Kaido
 
 740
-00:02:03,470 --> 00:02:03,510
+00:02:03,430 --> 00:02:03,470
 Onigashima,
 en l'absence de Kaido
 
@@ -3535,7 +3535,7 @@ Onigashima,
 en l'absence de Kaido
 
 742
-00:02:03,510 --> 00:02:03,560
+00:02:03,470 --> 00:02:03,510
 Onigashima,
 en l'absence de Kaido
 
@@ -3545,7 +3545,7 @@ Onigashima,
 en l'absence de Kaido
 
 744
-00:02:03,560 --> 00:02:03,600
+00:02:03,510 --> 00:02:03,560
 Onigashima,
 en l'absence de Kaido
 
@@ -3555,7 +3555,7 @@ Onigashima,
 en l'absence de Kaido
 
 746
-00:02:03,600 --> 00:02:03,640
+00:02:03,560 --> 00:02:03,600
 Onigashima,
 en l'absence de Kaido
 
@@ -3565,7 +3565,7 @@ Onigashima,
 en l'absence de Kaido
 
 748
-00:02:03,640 --> 00:02:03,680
+00:02:03,600 --> 00:02:03,640
 Onigashima,
 en l'absence de Kaido
 
@@ -3575,7 +3575,7 @@ Onigashima,
 en l'absence de Kaido
 
 750
-00:02:03,680 --> 00:02:03,720
+00:02:03,640 --> 00:02:03,680
 Onigashima,
 en l'absence de Kaido
 
@@ -3585,7 +3585,7 @@ Onigashima,
 en l'absence de Kaido
 
 752
-00:02:03,720 --> 00:02:03,770
+00:02:03,680 --> 00:02:03,720
 Onigashima,
 en l'absence de Kaido
 
@@ -3595,7 +3595,7 @@ Onigashima,
 en l'absence de Kaido
 
 754
-00:02:03,770 --> 00:02:03,810
+00:02:03,720 --> 00:02:03,770
 Onigashima,
 en l'absence de Kaido
 
@@ -3605,7 +3605,7 @@ Onigashima,
 en l'absence de Kaido
 
 756
-00:02:03,810 --> 00:02:03,850
+00:02:03,770 --> 00:02:03,810
 Onigashima,
 en l'absence de Kaido
 
@@ -3615,7 +3615,7 @@ Onigashima,
 en l'absence de Kaido
 
 758
-00:02:03,850 --> 00:02:03,890
+00:02:03,810 --> 00:02:03,850
 Onigashima,
 en l'absence de Kaido
 
@@ -3625,7 +3625,7 @@ Onigashima,
 en l'absence de Kaido
 
 760
-00:02:03,890 --> 00:02:03,930
+00:02:03,850 --> 00:02:03,890
 Onigashima,
 en l'absence de Kaido
 
@@ -3635,7 +3635,7 @@ Onigashima,
 en l'absence de Kaido
 
 762
-00:02:03,930 --> 00:02:03,970
+00:02:03,890 --> 00:02:03,930
 Onigashima,
 en l'absence de Kaido
 
@@ -3645,7 +3645,7 @@ Onigashima,
 en l'absence de Kaido
 
 764
-00:02:03,970 --> 00:02:04,020
+00:02:03,930 --> 00:02:03,970
 Onigashima,
 en l'absence de Kaido
 
@@ -3655,7 +3655,7 @@ Onigashima,
 en l'absence de Kaido
 
 766
-00:02:04,020 --> 00:02:04,060
+00:02:03,970 --> 00:02:04,020
 Onigashima,
 en l'absence de Kaido
 
@@ -3665,7 +3665,7 @@ Onigashima,
 en l'absence de Kaido
 
 768
-00:02:04,060 --> 00:02:04,100
+00:02:04,020 --> 00:02:04,060
 Onigashima,
 en l'absence de Kaido
 
@@ -3675,7 +3675,7 @@ Onigashima,
 en l'absence de Kaido
 
 770
-00:02:04,100 --> 00:02:04,140
+00:02:04,060 --> 00:02:04,100
 Onigashima,
 en l'absence de Kaido
 
@@ -3685,7 +3685,7 @@ Onigashima,
 en l'absence de Kaido
 
 772
-00:02:04,140 --> 00:02:04,180
+00:02:04,100 --> 00:02:04,140
 Onigashima,
 en l'absence de Kaido
 
@@ -3695,7 +3695,7 @@ Onigashima,
 en l'absence de Kaido
 
 774
-00:02:04,180 --> 00:02:04,220
+00:02:04,140 --> 00:02:04,180
 Onigashima,
 en l'absence de Kaido
 
@@ -3705,7 +3705,7 @@ Onigashima,
 en l'absence de Kaido
 
 776
-00:02:04,220 --> 00:02:04,270
+00:02:04,180 --> 00:02:04,220
 Onigashima,
 en l'absence de Kaido
 
@@ -3715,7 +3715,7 @@ Onigashima,
 en l'absence de Kaido
 
 778
-00:02:04,270 --> 00:02:04,310
+00:02:04,220 --> 00:02:04,270
 Onigashima,
 en l'absence de Kaido
 
@@ -3725,7 +3725,7 @@ Onigashima,
 en l'absence de Kaido
 
 780
-00:02:04,310 --> 00:02:04,350
+00:02:04,270 --> 00:02:04,310
 Onigashima,
 en l'absence de Kaido
 
@@ -3735,7 +3735,7 @@ Onigashima,
 en l'absence de Kaido
 
 782
-00:02:04,350 --> 00:02:04,390
+00:02:04,310 --> 00:02:04,350
 Onigashima,
 en l'absence de Kaido
 
@@ -3745,7 +3745,7 @@ Onigashima,
 en l'absence de Kaido
 
 784
-00:02:04,390 --> 00:02:04,430
+00:02:04,350 --> 00:02:04,390
 Onigashima,
 en l'absence de Kaido
 
@@ -3755,7 +3755,7 @@ Onigashima,
 en l'absence de Kaido
 
 786
-00:02:04,430 --> 00:02:04,470
+00:02:04,390 --> 00:02:04,430
 Onigashima,
 en l'absence de Kaido
 
@@ -3765,7 +3765,7 @@ Onigashima,
 en l'absence de Kaido
 
 788
-00:02:04,470 --> 00:02:04,520
+00:02:04,430 --> 00:02:04,470
 Onigashima,
 en l'absence de Kaido
 
@@ -3775,7 +3775,7 @@ Onigashima,
 en l'absence de Kaido
 
 790
-00:02:04,520 --> 00:02:04,560
+00:02:04,470 --> 00:02:04,520
 Onigashima,
 en l'absence de Kaido
 
@@ -3785,7 +3785,7 @@ Onigashima,
 en l'absence de Kaido
 
 792
-00:02:04,560 --> 00:02:04,600
+00:02:04,520 --> 00:02:04,560
 Onigashima,
 en l'absence de Kaido
 
@@ -3795,7 +3795,7 @@ Onigashima,
 en l'absence de Kaido
 
 794
-00:02:04,600 --> 00:02:04,640
+00:02:04,560 --> 00:02:04,600
 Onigashima,
 en l'absence de Kaido
 
@@ -3805,7 +3805,7 @@ Onigashima,
 en l'absence de Kaido
 
 796
-00:02:04,640 --> 00:02:04,680
+00:02:04,600 --> 00:02:04,640
 Onigashima,
 en l'absence de Kaido
 
@@ -3815,7 +3815,7 @@ Onigashima,
 en l'absence de Kaido
 
 798
-00:02:04,680 --> 00:02:04,720
+00:02:04,640 --> 00:02:04,680
 Onigashima,
 en l'absence de Kaido
 
@@ -3825,7 +3825,7 @@ Onigashima,
 en l'absence de Kaido
 
 800
-00:02:04,720 --> 00:02:04,770
+00:02:04,680 --> 00:02:04,720
 Onigashima,
 en l'absence de Kaido
 
@@ -3835,7 +3835,7 @@ Onigashima,
 en l'absence de Kaido
 
 802
-00:02:04,770 --> 00:02:04,810
+00:02:04,720 --> 00:02:04,770
 Onigashima,
 en l'absence de Kaido
 
@@ -3845,7 +3845,7 @@ Onigashima,
 en l'absence de Kaido
 
 804
-00:02:04,810 --> 00:02:04,850
+00:02:04,770 --> 00:02:04,810
 Onigashima,
 en l'absence de Kaido
 
@@ -3855,7 +3855,7 @@ Onigashima,
 en l'absence de Kaido
 
 806
-00:02:04,850 --> 00:02:04,890
+00:02:04,810 --> 00:02:04,850
 Onigashima,
 en l'absence de Kaido
 
@@ -3865,7 +3865,7 @@ Onigashima,
 en l'absence de Kaido
 
 808
-00:02:04,890 --> 00:02:04,930
+00:02:04,850 --> 00:02:04,890
 Onigashima,
 en l'absence de Kaido
 
@@ -3875,7 +3875,7 @@ Onigashima,
 en l'absence de Kaido
 
 810
-00:02:04,930 --> 00:02:04,970
+00:02:04,890 --> 00:02:04,930
 Onigashima,
 en l'absence de Kaido
 
@@ -3885,7 +3885,7 @@ Onigashima,
 en l'absence de Kaido
 
 812
-00:02:04,970 --> 00:02:05,020
+00:02:04,930 --> 00:02:04,970
 Onigashima,
 en l'absence de Kaido
 
@@ -3895,7 +3895,7 @@ Onigashima,
 en l'absence de Kaido
 
 814
-00:02:05,020 --> 00:02:05,060
+00:02:04,970 --> 00:02:05,020
 Onigashima,
 en l'absence de Kaido
 
@@ -3905,7 +3905,7 @@ Onigashima,
 en l'absence de Kaido
 
 816
-00:02:05,060 --> 00:02:05,100
+00:02:05,020 --> 00:02:05,060
 Onigashima,
 en l'absence de Kaido
 
@@ -3915,7 +3915,7 @@ Onigashima,
 en l'absence de Kaido
 
 818
-00:02:05,100 --> 00:02:05,140
+00:02:05,060 --> 00:02:05,100
 Onigashima,
 en l'absence de Kaido
 
@@ -3925,7 +3925,7 @@ Onigashima,
 en l'absence de Kaido
 
 820
-00:02:05,140 --> 00:02:05,180
+00:02:05,100 --> 00:02:05,140
 Onigashima,
 en l'absence de Kaido
 
@@ -3935,7 +3935,7 @@ Onigashima,
 en l'absence de Kaido
 
 822
-00:02:05,180 --> 00:02:05,220
+00:02:05,140 --> 00:02:05,180
 Onigashima,
 en l'absence de Kaido
 
@@ -3945,7 +3945,7 @@ Onigashima,
 en l'absence de Kaido
 
 824
-00:02:05,220 --> 00:02:05,270
+00:02:05,180 --> 00:02:05,220
 Onigashima,
 en l'absence de Kaido
 
@@ -3955,7 +3955,7 @@ Onigashima,
 en l'absence de Kaido
 
 826
-00:02:05,270 --> 00:02:05,310
+00:02:05,220 --> 00:02:05,270
 Onigashima,
 en l'absence de Kaido
 
@@ -3965,7 +3965,7 @@ Onigashima,
 en l'absence de Kaido
 
 828
-00:02:05,310 --> 00:02:05,350
+00:02:05,270 --> 00:02:05,310
 Onigashima,
 en l'absence de Kaido
 
@@ -3975,7 +3975,7 @@ Onigashima,
 en l'absence de Kaido
 
 830
-00:02:05,350 --> 00:02:05,390
+00:02:05,310 --> 00:02:05,350
 Onigashima,
 en l'absence de Kaido
 
@@ -3985,7 +3985,7 @@ Onigashima,
 en l'absence de Kaido
 
 832
-00:02:05,390 --> 00:02:05,430
+00:02:05,350 --> 00:02:05,390
 Onigashima,
 en l'absence de Kaido
 
@@ -3995,7 +3995,7 @@ Onigashima,
 en l'absence de Kaido
 
 834
-00:02:05,430 --> 00:02:05,480
+00:02:05,390 --> 00:02:05,430
 Onigashima,
 en l'absence de Kaido
 
@@ -4005,7 +4005,7 @@ Onigashima,
 en l'absence de Kaido
 
 836
-00:02:05,480 --> 00:02:05,520
+00:02:05,430 --> 00:02:05,480
 Onigashima,
 en l'absence de Kaido
 
@@ -4015,7 +4015,7 @@ Onigashima,
 en l'absence de Kaido
 
 838
-00:02:05,520 --> 00:02:05,560
+00:02:05,480 --> 00:02:05,520
 Onigashima,
 en l'absence de Kaido
 
@@ -4025,7 +4025,7 @@ Onigashima,
 en l'absence de Kaido
 
 840
-00:02:05,560 --> 00:02:05,600
+00:02:05,520 --> 00:02:05,560
 Onigashima,
 en l'absence de Kaido
 
@@ -4035,7 +4035,7 @@ Onigashima,
 en l'absence de Kaido
 
 842
-00:02:05,600 --> 00:02:05,640
+00:02:05,560 --> 00:02:05,600
 Onigashima,
 en l'absence de Kaido
 
@@ -4045,7 +4045,7 @@ Onigashima,
 en l'absence de Kaido
 
 844
-00:02:05,640 --> 00:02:05,680
+00:02:05,600 --> 00:02:05,640
 Onigashima,
 en l'absence de Kaido
 
@@ -4055,7 +4055,7 @@ Onigashima,
 en l'absence de Kaido
 
 846
-00:02:05,680 --> 00:02:05,730
+00:02:05,640 --> 00:02:05,680
 Onigashima,
 en l'absence de Kaido
 
@@ -4065,7 +4065,7 @@ Onigashima,
 en l'absence de Kaido
 
 848
-00:02:05,730 --> 00:02:05,770
+00:02:05,680 --> 00:02:05,730
 Onigashima,
 en l'absence de Kaido
 
@@ -4075,7 +4075,7 @@ Onigashima,
 en l'absence de Kaido
 
 850
-00:02:05,770 --> 00:02:05,810
+00:02:05,730 --> 00:02:05,770
 Onigashima,
 en l'absence de Kaido
 
@@ -4085,7 +4085,7 @@ Onigashima,
 en l'absence de Kaido
 
 852
-00:02:05,810 --> 00:02:05,850
+00:02:05,770 --> 00:02:05,810
 Onigashima,
 en l'absence de Kaido
 
@@ -4095,7 +4095,7 @@ Onigashima,
 en l'absence de Kaido
 
 854
-00:02:05,850 --> 00:02:05,890
+00:02:05,810 --> 00:02:05,850
 Onigashima,
 en l'absence de Kaido
 
@@ -4105,7 +4105,7 @@ Onigashima,
 en l'absence de Kaido
 
 856
-00:02:05,890 --> 00:02:05,930
+00:02:05,850 --> 00:02:05,890
 Onigashima,
 en l'absence de Kaido
 
@@ -4115,7 +4115,7 @@ Onigashima,
 en l'absence de Kaido
 
 858
-00:02:05,930 --> 00:02:05,980
+00:02:05,890 --> 00:02:05,930
 Onigashima,
 en l'absence de Kaido
 
@@ -4125,7 +4125,7 @@ Onigashima,
 en l'absence de Kaido
 
 860
-00:02:05,980 --> 00:02:06,020
+00:02:05,930 --> 00:02:05,980
 Onigashima,
 en l'absence de Kaido
 
@@ -4135,7 +4135,7 @@ Onigashima,
 en l'absence de Kaido
 
 862
-00:02:06,020 --> 00:02:06,060
+00:02:05,980 --> 00:02:06,020
 Onigashima,
 en l'absence de Kaido
 
@@ -4145,7 +4145,7 @@ Onigashima,
 en l'absence de Kaido
 
 864
-00:02:06,060 --> 00:02:06,100
+00:02:06,020 --> 00:02:06,060
 Onigashima,
 en l'absence de Kaido
 
@@ -4155,7 +4155,7 @@ Onigashima,
 en l'absence de Kaido
 
 866
-00:02:06,100 --> 00:02:06,140
+00:02:06,060 --> 00:02:06,100
 Onigashima,
 en l'absence de Kaido
 
@@ -4165,7 +4165,7 @@ Onigashima,
 en l'absence de Kaido
 
 868
-00:02:06,140 --> 00:02:06,180
+00:02:06,100 --> 00:02:06,140
 Onigashima,
 en l'absence de Kaido
 
@@ -4175,7 +4175,7 @@ Onigashima,
 en l'absence de Kaido
 
 870
-00:02:06,180 --> 00:02:06,230
+00:02:06,140 --> 00:02:06,180
 Onigashima,
 en l'absence de Kaido
 
@@ -4185,7 +4185,7 @@ Onigashima,
 en l'absence de Kaido
 
 872
-00:02:06,230 --> 00:02:06,270
+00:02:06,180 --> 00:02:06,230
 Onigashima,
 en l'absence de Kaido
 
@@ -4195,7 +4195,7 @@ Onigashima,
 en l'absence de Kaido
 
 874
-00:02:06,270 --> 00:02:06,310
+00:02:06,230 --> 00:02:06,270
 Onigashima,
 en l'absence de Kaido
 
@@ -4205,7 +4205,7 @@ Onigashima,
 en l'absence de Kaido
 
 876
-00:02:06,310 --> 00:02:06,350
+00:02:06,270 --> 00:02:06,310
 Onigashima,
 en l'absence de Kaido
 
@@ -4215,7 +4215,7 @@ Onigashima,
 en l'absence de Kaido
 
 878
-00:02:06,350 --> 00:02:06,390
+00:02:06,310 --> 00:02:06,350
 Onigashima,
 en l'absence de Kaido
 
@@ -4225,7 +4225,7 @@ Onigashima,
 en l'absence de Kaido
 
 880
-00:02:06,390 --> 00:02:06,430
+00:02:06,350 --> 00:02:06,390
 Onigashima,
 en l'absence de Kaido
 
@@ -4235,7 +4235,7 @@ Onigashima,
 en l'absence de Kaido
 
 882
-00:02:06,430 --> 00:02:06,480
+00:02:06,390 --> 00:02:06,430
 Onigashima,
 en l'absence de Kaido
 
@@ -4245,7 +4245,7 @@ Onigashima,
 en l'absence de Kaido
 
 884
-00:02:06,480 --> 00:02:06,520
+00:02:06,430 --> 00:02:06,480
 Onigashima,
 en l'absence de Kaido
 
@@ -4255,7 +4255,7 @@ Onigashima,
 en l'absence de Kaido
 
 886
-00:02:06,520 --> 00:02:06,560
+00:02:06,480 --> 00:02:06,520
 Onigashima,
 en l'absence de Kaido
 
@@ -4265,7 +4265,7 @@ Onigashima,
 en l'absence de Kaido
 
 888
-00:02:06,560 --> 00:02:06,600
+00:02:06,520 --> 00:02:06,560
 Onigashima,
 en l'absence de Kaido
 
@@ -4275,7 +4275,7 @@ Onigashima,
 en l'absence de Kaido
 
 890
-00:02:06,600 --> 00:02:06,640
+00:02:06,560 --> 00:02:06,600
 Onigashima,
 en l'absence de Kaido
 
@@ -4285,7 +4285,7 @@ Onigashima,
 en l'absence de Kaido
 
 892
-00:02:06,640 --> 00:02:06,680
+00:02:06,600 --> 00:02:06,640
 Onigashima,
 en l'absence de Kaido
 
@@ -4295,7 +4295,7 @@ Onigashima,
 en l'absence de Kaido
 
 894
-00:02:06,680 --> 00:02:06,730
+00:02:06,640 --> 00:02:06,680
 Onigashima,
 en l'absence de Kaido
 
@@ -4305,7 +4305,7 @@ Onigashima,
 en l'absence de Kaido
 
 896
-00:02:06,730 --> 00:02:06,770
+00:02:06,680 --> 00:02:06,730
 Onigashima,
 en l'absence de Kaido
 
@@ -4315,7 +4315,7 @@ Onigashima,
 en l'absence de Kaido
 
 898
-00:02:06,770 --> 00:02:06,810
+00:02:06,730 --> 00:02:06,770
 Onigashima,
 en l'absence de Kaido
 
@@ -4325,7 +4325,7 @@ Onigashima,
 en l'absence de Kaido
 
 900
-00:02:06,810 --> 00:02:06,850
+00:02:06,770 --> 00:02:06,810
 Onigashima,
 en l'absence de Kaido
 
@@ -4335,7 +4335,7 @@ Onigashima,
 en l'absence de Kaido
 
 902
-00:02:06,850 --> 00:02:06,890
+00:02:06,810 --> 00:02:06,850
 Onigashima,
 en l'absence de Kaido
 
@@ -4345,7 +4345,7 @@ Onigashima,
 en l'absence de Kaido
 
 904
-00:02:06,890 --> 00:02:06,930
+00:02:06,850 --> 00:02:06,890
 Onigashima,
 en l'absence de Kaido
 
@@ -4355,7 +4355,7 @@ Onigashima,
 en l'absence de Kaido
 
 906
-00:02:06,930 --> 00:02:06,980
+00:02:06,890 --> 00:02:06,930
 Onigashima,
 en l'absence de Kaido
 
@@ -4365,7 +4365,7 @@ Onigashima,
 en l'absence de Kaido
 
 908
-00:02:06,980 --> 00:02:07,020
+00:02:06,930 --> 00:02:06,980
 Onigashima,
 en l'absence de Kaido
 
@@ -4375,7 +4375,7 @@ Onigashima,
 en l'absence de Kaido
 
 910
-00:02:07,020 --> 00:02:07,060
+00:02:06,980 --> 00:02:07,020
 Onigashima,
 en l'absence de Kaido
 
@@ -4385,7 +4385,7 @@ Onigashima,
 en l'absence de Kaido
 
 912
-00:02:07,060 --> 00:02:07,100
+00:02:07,020 --> 00:02:07,060
 Onigashima,
 en l'absence de Kaido
 
@@ -4395,7 +4395,7 @@ Onigashima,
 en l'absence de Kaido
 
 914
-00:02:07,100 --> 00:02:07,140
+00:02:07,060 --> 00:02:07,100
 Onigashima,
 en l'absence de Kaido
 
@@ -4405,7 +4405,7 @@ Onigashima,
 en l'absence de Kaido
 
 916
-00:02:07,140 --> 00:02:07,190
+00:02:07,100 --> 00:02:07,140
 Onigashima,
 en l'absence de Kaido
 
@@ -4415,7 +4415,7 @@ Onigashima,
 en l'absence de Kaido
 
 918
-00:02:07,190 --> 00:02:07,230
+00:02:07,140 --> 00:02:07,190
 Onigashima,
 en l'absence de Kaido
 
@@ -4425,7 +4425,7 @@ Onigashima,
 en l'absence de Kaido
 
 920
-00:02:07,230 --> 00:02:07,270
+00:02:07,190 --> 00:02:07,230
 Onigashima,
 en l'absence de Kaido
 
@@ -4435,7 +4435,7 @@ Onigashima,
 en l'absence de Kaido
 
 922
-00:02:07,270 --> 00:02:07,310
+00:02:07,230 --> 00:02:07,270
 Onigashima,
 en l'absence de Kaido
 
@@ -4445,7 +4445,7 @@ Onigashima,
 en l'absence de Kaido
 
 924
-00:02:07,310 --> 00:02:07,350
+00:02:07,270 --> 00:02:07,310
 Onigashima,
 en l'absence de Kaido
 
@@ -4455,7 +4455,7 @@ Onigashima,
 en l'absence de Kaido
 
 926
-00:02:07,350 --> 00:02:07,390
+00:02:07,310 --> 00:02:07,350
 Onigashima,
 en l'absence de Kaido
 
@@ -4465,7 +4465,7 @@ Onigashima,
 en l'absence de Kaido
 
 928
-00:02:07,390 --> 00:02:07,440
+00:02:07,350 --> 00:02:07,390
 Onigashima,
 en l'absence de Kaido
 
@@ -4475,7 +4475,7 @@ Onigashima,
 en l'absence de Kaido
 
 930
-00:02:07,440 --> 00:02:07,480
+00:02:07,390 --> 00:02:07,440
 Onigashima,
 en l'absence de Kaido
 
@@ -4485,7 +4485,7 @@ Onigashima,
 en l'absence de Kaido
 
 932
-00:02:07,480 --> 00:02:07,520
+00:02:07,440 --> 00:02:07,480
 Onigashima,
 en l'absence de Kaido
 
@@ -4495,7 +4495,7 @@ Onigashima,
 en l'absence de Kaido
 
 934
-00:02:07,520 --> 00:02:07,560
+00:02:07,480 --> 00:02:07,520
 Onigashima,
 en l'absence de Kaido
 
@@ -4505,7 +4505,7 @@ Onigashima,
 en l'absence de Kaido
 
 936
-00:02:07,560 --> 00:02:07,600
+00:02:07,520 --> 00:02:07,560
 Onigashima,
 en l'absence de Kaido
 
@@ -4515,7 +4515,7 @@ Onigashima,
 en l'absence de Kaido
 
 938
-00:02:07,600 --> 00:02:07,640
+00:02:07,560 --> 00:02:07,600
 Onigashima,
 en l'absence de Kaido
 
@@ -4525,7 +4525,7 @@ Onigashima,
 en l'absence de Kaido
 
 940
-00:02:07,640 --> 00:02:07,690
+00:02:07,600 --> 00:02:07,640
 Onigashima,
 en l'absence de Kaido
 
@@ -4535,7 +4535,7 @@ Onigashima,
 en l'absence de Kaido
 
 942
-00:02:07,690 --> 00:02:07,730
+00:02:07,640 --> 00:02:07,690
 Onigashima,
 en l'absence de Kaido
 
@@ -4545,7 +4545,7 @@ Onigashima,
 en l'absence de Kaido
 
 944
-00:02:07,730 --> 00:02:07,770
+00:02:07,690 --> 00:02:07,730
 Onigashima,
 en l'absence de Kaido
 
@@ -4555,7 +4555,7 @@ Onigashima,
 en l'absence de Kaido
 
 946
-00:02:07,770 --> 00:02:07,810
+00:02:07,730 --> 00:02:07,770
 Onigashima,
 en l'absence de Kaido
 
@@ -4565,7 +4565,7 @@ Onigashima,
 en l'absence de Kaido
 
 948
-00:02:07,810 --> 00:02:07,850
+00:02:07,770 --> 00:02:07,810
 Onigashima,
 en l'absence de Kaido
 
@@ -4575,7 +4575,7 @@ Onigashima,
 en l'absence de Kaido
 
 950
-00:02:07,850 --> 00:02:07,890
+00:02:07,810 --> 00:02:07,850
 Onigashima,
 en l'absence de Kaido
 
@@ -4585,7 +4585,7 @@ Onigashima,
 en l'absence de Kaido
 
 952
-00:02:07,890 --> 00:02:07,940
+00:02:07,850 --> 00:02:07,890
 Onigashima,
 en l'absence de Kaido
 
@@ -4595,7 +4595,7 @@ Onigashima,
 en l'absence de Kaido
 
 954
-00:02:07,940 --> 00:02:07,980
+00:02:07,890 --> 00:02:07,940
 Onigashima,
 en l'absence de Kaido
 
@@ -4605,7 +4605,7 @@ Onigashima,
 en l'absence de Kaido
 
 956
-00:02:07,980 --> 00:02:08,020
+00:02:07,940 --> 00:02:07,980
 Onigashima,
 en l'absence de Kaido
 
@@ -4615,7 +4615,7 @@ Onigashima,
 en l'absence de Kaido
 
 958
-00:02:08,020 --> 00:02:08,060
+00:02:07,980 --> 00:02:08,020
 Onigashima,
 en l'absence de Kaido
 
@@ -4625,7 +4625,7 @@ Onigashima,
 en l'absence de Kaido
 
 960
-00:02:08,060 --> 00:02:08,100
+00:02:08,020 --> 00:02:08,060
 Onigashima,
 en l'absence de Kaido
 
@@ -4635,7 +4635,7 @@ Onigashima,
 en l'absence de Kaido
 
 962
-00:02:08,100 --> 00:02:08,140
+00:02:08,060 --> 00:02:08,100
 Onigashima,
 en l'absence de Kaido
 
@@ -4645,7 +4645,7 @@ Onigashima,
 en l'absence de Kaido
 
 964
-00:02:08,140 --> 00:02:08,190
+00:02:08,100 --> 00:02:08,140
 Onigashima,
 en l'absence de Kaido
 
@@ -4655,7 +4655,7 @@ Onigashima,
 en l'absence de Kaido
 
 966
-00:02:08,190 --> 00:02:08,230
+00:02:08,140 --> 00:02:08,190
 Onigashima,
 en l'absence de Kaido
 
@@ -4665,7 +4665,7 @@ Onigashima,
 en l'absence de Kaido
 
 968
-00:02:08,230 --> 00:02:08,270
+00:02:08,190 --> 00:02:08,230
 Onigashima,
 en l'absence de Kaido
 
@@ -4675,7 +4675,7 @@ Onigashima,
 en l'absence de Kaido
 
 970
-00:02:08,270 --> 00:02:08,310
+00:02:08,230 --> 00:02:08,270
 Onigashima,
 en l'absence de Kaido
 
@@ -4685,7 +4685,7 @@ Onigashima,
 en l'absence de Kaido
 
 972
-00:02:08,310 --> 00:02:08,350
+00:02:08,270 --> 00:02:08,310
 Onigashima,
 en l'absence de Kaido
 
@@ -4695,7 +4695,7 @@ Onigashima,
 en l'absence de Kaido
 
 974
-00:02:08,350 --> 00:02:08,390
+00:02:08,310 --> 00:02:08,350
 Onigashima,
 en l'absence de Kaido
 
@@ -4705,7 +4705,7 @@ Onigashima,
 en l'absence de Kaido
 
 976
-00:02:08,390 --> 00:02:08,440
+00:02:08,350 --> 00:02:08,390
 Onigashima,
 en l'absence de Kaido
 
@@ -4715,7 +4715,7 @@ Onigashima,
 en l'absence de Kaido
 
 978
-00:02:08,440 --> 00:02:08,480
+00:02:08,390 --> 00:02:08,440
 Onigashima,
 en l'absence de Kaido
 
@@ -4725,7 +4725,7 @@ Onigashima,
 en l'absence de Kaido
 
 980
-00:02:08,480 --> 00:02:08,520
+00:02:08,440 --> 00:02:08,480
 Onigashima,
 en l'absence de Kaido
 
@@ -4735,7 +4735,7 @@ Onigashima,
 en l'absence de Kaido
 
 982
-00:02:08,520 --> 00:02:08,560
+00:02:08,480 --> 00:02:08,520
 Onigashima,
 en l'absence de Kaido
 
@@ -4745,7 +4745,7 @@ Onigashima,
 en l'absence de Kaido
 
 984
-00:02:08,560 --> 00:02:08,600
+00:02:08,520 --> 00:02:08,560
 Onigashima,
 en l'absence de Kaido
 
@@ -4755,7 +4755,7 @@ Onigashima,
 en l'absence de Kaido
 
 986
-00:02:08,600 --> 00:02:08,650
+00:02:08,560 --> 00:02:08,600
 Onigashima,
 en l'absence de Kaido
 
@@ -4765,7 +4765,7 @@ Onigashima,
 en l'absence de Kaido
 
 988
-00:02:08,650 --> 00:02:08,690
+00:02:08,600 --> 00:02:08,650
 Onigashima,
 en l'absence de Kaido
 
@@ -4775,7 +4775,7 @@ Onigashima,
 en l'absence de Kaido
 
 990
-00:02:08,690 --> 00:02:08,730
+00:02:08,650 --> 00:02:08,690
 Onigashima,
 en l'absence de Kaido
 
@@ -4785,7 +4785,7 @@ Onigashima,
 en l'absence de Kaido
 
 992
-00:02:08,730 --> 00:02:08,770
+00:02:08,690 --> 00:02:08,730
 Onigashima,
 en l'absence de Kaido
 
@@ -4795,7 +4795,7 @@ Onigashima,
 en l'absence de Kaido
 
 994
-00:02:08,770 --> 00:02:08,810
+00:02:08,730 --> 00:02:08,770
 Onigashima,
 en l'absence de Kaido
 
@@ -4805,7 +4805,7 @@ Onigashima,
 en l'absence de Kaido
 
 996
-00:02:08,810 --> 00:02:08,850
+00:02:08,770 --> 00:02:08,810
 Onigashima,
 en l'absence de Kaido
 
@@ -4815,7 +4815,7 @@ Onigashima,
 en l'absence de Kaido
 
 998
-00:02:08,850 --> 00:02:08,900
+00:02:08,810 --> 00:02:08,850
 Onigashima,
 en l'absence de Kaido
 
@@ -4825,7 +4825,7 @@ Onigashima,
 en l'absence de Kaido
 
 1000
-00:02:08,900 --> 00:02:08,940
+00:02:08,850 --> 00:02:08,900
 Onigashima,
 en l'absence de Kaido
 
@@ -4835,7 +4835,7 @@ Onigashima,
 en l'absence de Kaido
 
 1002
-00:02:08,940 --> 00:02:08,980
+00:02:08,900 --> 00:02:08,940
 Onigashima,
 en l'absence de Kaido
 
@@ -4845,7 +4845,7 @@ Onigashima,
 en l'absence de Kaido
 
 1004
-00:02:08,980 --> 00:02:09,020
+00:02:08,940 --> 00:02:08,980
 Onigashima,
 en l'absence de Kaido
 
@@ -4855,7 +4855,7 @@ Onigashima,
 en l'absence de Kaido
 
 1006
-00:02:09,020 --> 00:02:09,060
+00:02:08,980 --> 00:02:09,020
 Onigashima,
 en l'absence de Kaido
 
@@ -4865,7 +4865,7 @@ Onigashima,
 en l'absence de Kaido
 
 1008
-00:02:09,060 --> 00:02:09,100
+00:02:09,020 --> 00:02:09,060
 Onigashima,
 en l'absence de Kaido
 
@@ -4875,7 +4875,7 @@ Onigashima,
 en l'absence de Kaido
 
 1010
-00:02:09,100 --> 00:02:09,150
+00:02:09,060 --> 00:02:09,100
 Onigashima,
 en l'absence de Kaido
 
@@ -4885,7 +4885,7 @@ Onigashima,
 en l'absence de Kaido
 
 1012
-00:02:09,150 --> 00:02:09,190
+00:02:09,100 --> 00:02:09,150
 Onigashima,
 en l'absence de Kaido
 
@@ -4895,7 +4895,7 @@ Onigashima,
 en l'absence de Kaido
 
 1014
-00:02:09,190 --> 00:02:09,900
+00:02:09,150 --> 00:02:09,190
 Onigashima,
 en l'absence de Kaido
 
@@ -4905,62 +4905,66 @@ Onigashima,
 en l'absence de Kaido
 
 1016
+00:02:09,190 --> 00:02:09,900
+Onigashima,
+en l'absence de Kaido
+
+1017
 00:00:30,510 --> 00:00:36,010
 Rassemblons tous nos rêves,
 
-1017
+1018
 00:00:36,010 --> 00:00:41,800
 Et partons en quête de nos désirs !
 
-1018
+1019
 00:00:48,020 --> 00:00:53,320
 Les boussoles ne causent que du retard.
 
-1019
+1020
 00:00:53,600 --> 00:00:58,950
 Rempli d'excitation, j'ai pris la barre.
 
-1020
+1021
 00:00:59,410 --> 00:01:04,640
 Même cette vieille carte couverte de poussière,
 
-1021
+1022
 00:01:04,810 --> 00:01:10,450
 Si je l’ai vérifiée, alors ce n’est plus une légende !
 
-1022
+1023
 00:01:11,400 --> 00:01:17,120
 Les tempêtes de la vie
 
-1023
+1024
 00:01:17,240 --> 00:01:22,320
 Ne sont que des vagues passagères,
 
-1024
+1025
 00:01:22,400 --> 00:01:24,710
 Ignore-les et avance !
 
-1025
+1026
 00:01:26,190 --> 00:01:31,500
 Rassemblons tous nos rêves,
 
-1026
+1027
 00:01:31,720 --> 00:01:37,240
 Et partons en quête de nos désirs !
 
-1027
+1028
 00:01:37,350 --> 00:01:40,200
 Les pièces dans ta poche,
 
-1028
+1029
 00:01:40,320 --> 00:01:43,440
 Et puis, veux-tu être mon ami ?
 
-1029
+1030
 00:01:43,640 --> 00:01:48,460
 Nous sommes, nous sommes du voyage !
 
-1030
+1031
 00:01:48,920 --> 00:01:50,490
 Nous en sommes !
-

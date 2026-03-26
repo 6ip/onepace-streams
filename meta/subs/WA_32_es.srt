@@ -1,20 +1,19 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:28,550 --> 00:00:31,180
 La justicia tiene precio.
 
-2
+3
 00:01:50,130 --> 00:01:52,090
 ¡Esto es una realidad...
 
-3
+4
 00:03:41,370 --> 00:03:43,240
 ¡¿Eh?!
-
-4
-00:00:00,020 --> 00:00:05,860
-CUARTEL GENERAL
-DE LA MARINA,
-NUEVO MUNDO
 
 5
 00:00:00,020 --> 00:00:05,860
@@ -23,12 +22,17 @@ DE LA MARINA,
 NUEVO MUNDO
 
 6
-00:04:53,520 --> 00:05:02,410
-HACE TREINTA 
-Y OCHO AÑOS
+00:00:00,020 --> 00:00:05,860
+CUARTEL GENERAL
+DE LA MARINA,
+NUEVO MUNDO
 
 7
 00:04:53,520 --> 00:05:02,410
 HACE TREINTA 
 Y OCHO AÑOS
 
+8
+00:04:53,520 --> 00:05:02,410
+HACE TREINTA 
+Y OCHO AÑOS

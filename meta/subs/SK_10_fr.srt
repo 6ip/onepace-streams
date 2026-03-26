@@ -1,866 +1,870 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:17,850 --> 00:00:21,000
 Tu sais qu'un fabuleux trésor
 se cache par-delà l'océan ?
 
-2
+3
 00:00:21,150 --> 00:00:23,800
 Celui qui s'en emparera
 deviendra le Roi des Pirates !
 
-3
+4
 00:00:23,900 --> 00:00:25,270
 C'est excitant, pas vrai ?
 
-4
+5
 00:00:25,500 --> 00:00:28,500
 D'incroyables aventures
 nous tendent les bras !
 
-5
+6
 00:01:52,500 --> 00:01:54,300
 Jeu de survie d'Upper Yard.
 
-6
+7
 00:01:54,420 --> 00:01:56,900
 Pertes actuelles : un participant.
 
-7
+8
 00:01:57,380 --> 00:01:59,320
 Nombre de survivants : 80.
 
-8
+9
 00:02:00,830 --> 00:02:03,890
 Il faut croire que Dieu
 n'était pas de leur côté.
 
-9
+10
 00:02:07,140 --> 00:02:10,990
 De son côté, l'équipe de Luffy
 est partie à la recherche de l'or.
 
-10
+11
 00:02:11,610 --> 00:02:14,780
 Leur objectif est d'atteindre
 les ruines d'une cité antique
 
-11
+12
 00:02:14,940 --> 00:02:16,680
 où reposerait une énorme quantité d'or.
 
-12
+13
 00:02:17,570 --> 00:02:21,170
 Partis de l'autel sacrificiel,
 ils avancent droit vers le sud.
 
-13
+14
 00:02:22,640 --> 00:02:24,660
 Oui, tout droit...
 
-14
+15
 00:02:25,650 --> 00:02:27,080
 vers le sud.
 
-15
+16
 00:02:35,130 --> 00:02:37,760
 Ç'a l'air de drôlement chauffer
 dans la forêt.
 
-16
+17
 00:02:38,340 --> 00:02:40,800
 Ces maisons étaient à l'écart
 de la cité.
 
-17
+18
 00:02:41,480 --> 00:02:43,450
 Elles ont été englouties par la forêt.
 
-18
+19
 00:02:43,970 --> 00:02:45,880
 J'espère que les vestiges de la cité
 
-19
+20
 00:02:46,180 --> 00:02:47,580
 ont été épargnées.
 
-20
+21
 00:02:54,610 --> 00:02:55,690
 Une femme ?
 
-21
+22
 00:02:56,730 --> 00:02:59,650
 Ce chemin mène au Sanctuaire divin.
 
-22
+23
 00:03:00,030 --> 00:03:02,270
 Tu n'as pas le droit d'aller plus loin.
 
-23
+24
 00:03:04,620 --> 00:03:05,950
 Descends de là, toi.
 
-24
+25
 00:03:06,450 --> 00:03:09,450
 Tu ne sembles pas réaliser
 la valeur historique
 
-25
+26
 00:03:10,120 --> 00:03:11,540
 de ces vestiges.
 
-26
+27
 00:03:12,420 --> 00:03:13,920
 Comment oses-tu, insolente ?
 
-27
+28
 00:03:14,290 --> 00:03:16,840
 Pourquoi es-tu là ?
 Qu'est-ce que tu me veux ?
 
-28
+29
 00:03:18,460 --> 00:03:21,050
 Sur ordre de notre Dieu tout-puissant,
 
-29
+30
 00:03:21,220 --> 00:03:23,720
 les Shandia
 et vous autres, les merbleusiens,
 
-30
+31
 00:03:23,890 --> 00:03:27,000
 devez périr par nos Axe Dials !
 
-31
+32
 00:03:30,100 --> 00:03:31,390
 Six fleurs !
 
-32
+33
 00:03:33,900 --> 00:03:34,910
 Twist !
 
-33
+34
 00:03:42,280 --> 00:03:43,820
 Quel horrible saccage.
 
-34
+35
 00:03:49,700 --> 00:03:52,020
 Non ! Non ! Lâchez-moi !
 
-35
+36
 00:03:52,180 --> 00:03:56,810
 Allez-vous-en ! Loin d'ici !
 
-36
+37
 00:04:15,920 --> 00:04:16,840
 Les Shandia !
 
-37
+38
 00:04:18,050 --> 00:04:19,500
 La Garde sacrée !
 
-38
+39
 00:04:40,750 --> 00:04:41,550
 Si...
 
-39
+40
 00:04:41,800 --> 00:04:46,100
 Si j'avais su, je serais pas venu !
 
-40
+41
 00:04:55,600 --> 00:04:57,190
 Fallait pas me chercher !
 
-41
+42
 00:05:00,400 --> 00:05:02,400
 Plusieurs des nôtres sont tombés.
 
-42
+43
 00:05:02,690 --> 00:05:06,510
 Bon sang...
 Ces maudits gardes sont coriaces.
 
-43
+44
 00:05:06,910 --> 00:05:09,450
 À droite, à droite, à droite.
 
-44
+45
 00:05:09,620 --> 00:05:12,320
 Un des merbleusiens
 dont Wiper nous a parlé !
 
-45
+46
 00:05:12,750 --> 00:05:14,120
 Je dois l'éliminer !
 
-46
+47
 00:05:18,170 --> 00:05:19,090
 La guérilla ?
 
-47
+48
 00:05:20,800 --> 00:05:22,190
 Il a l'air remonté, lui.
 
-48
+49
 00:05:23,130 --> 00:05:24,300
 Meurs !
 
-49
+50
 00:05:24,800 --> 00:05:27,190
 Je sais pas ce que je t'ai fait,
 mais bon...
 
-50
+51
 00:05:33,140 --> 00:05:35,280
 C'est quoi votre problème, à la fin ?
 
-51
+52
 00:05:39,060 --> 00:05:41,260
 Pitié ! J'abandonne...
 
-52
+53
 00:05:41,730 --> 00:05:44,570
 Oui, j'abandonne...
 Je reconnais ma défaite.
 
-53
+54
 00:05:44,810 --> 00:05:46,990
 Je t'en supplie... Bêêh...
 
-54
+55
 00:05:51,710 --> 00:05:52,590
 Ça continue ?
 
-55
+56
 00:05:53,310 --> 00:05:54,250
 Hé, toi !
 
-56
+57
 00:05:54,410 --> 00:05:57,260
 Si t'es pas un prélat,
 te mets pas sur mon chemin !
 
-57
+58
 00:05:57,670 --> 00:05:59,250
 J'ai pas de temps à perdre !
 
-58
+59
 00:06:23,730 --> 00:06:27,280
 Espèce d'enfoiré...
 C'est quoi, ces flingues aveuglants ?
 
-59
+60
 00:06:29,850 --> 00:06:30,870
 Où il est passé ?
 
-60
+61
 00:06:50,910 --> 00:06:52,680
 T'es plutôt costaud, j'avoue.
 
-61
+62
 00:06:52,810 --> 00:06:55,610
 Désolé de t'avoir sous-estimé,
 le merbleusien.
 
-62
+63
 00:07:01,550 --> 00:07:04,640
 Non, c'est moi qui m'excuse.
 
-63
+64
 00:07:05,510 --> 00:07:07,560
 Je t'avais pris
 pour un naze de plus.
 
-64
+65
 00:07:22,960 --> 00:07:24,320
 Il a même pas pris d'élan !
 
-65
+66
 00:07:30,320 --> 00:07:33,210
 C'est vrai qu'il y a
 toutes sortes de Wavers.
 
-66
+67
 00:07:34,260 --> 00:07:36,990
 Les patins qu'il a aux pieds
 doivent en être.
 
-67
+68
 00:07:39,230 --> 00:07:41,440
 Leur souffle le propulse dans les airs.
 
-68
+69
 00:07:42,230 --> 00:07:45,770
 Et puis,
 il y a ces fichus flingues aveuglants.
 
-69
+70
 00:07:46,270 --> 00:07:48,790
 Je le perds de vue
 à chaque fois qu'il tire.
 
-70
+71
 00:07:50,640 --> 00:07:51,860
 Où il est ?
 
-71
+72
 00:07:57,950 --> 00:07:58,580
 Tiger...
 
-72
+73
 00:07:58,950 --> 00:08:00,030
 Trois sabres ?
 
-73
+74
 00:08:00,320 --> 00:08:01,540
 Slash !
 
-74
+75
 00:08:06,290 --> 00:08:07,630
 L'enfoiré...
 
-75
+76
 00:08:20,270 --> 00:08:23,830
 Ce n'est qu'un sabreur de la Mer Bleue,
 sans Waver ni Dial.
 
-76
+77
 00:08:24,510 --> 00:08:26,560
 Quoi qu'il fasse,
 il n'a aucune chance.
 
-77
+78
 00:08:29,030 --> 00:08:31,030
 Tu connais ce petit truc-là ?
 
-78
+79
 00:08:32,070 --> 00:08:32,990
 C'est quoi, ça ?
 
-79
+80
 00:08:33,820 --> 00:08:35,100
 Milky Dial !
 
-80
+81
 00:08:40,420 --> 00:08:44,670
 Bondir dans tous les sens
 ne fait pas de toi un guerrier des airs.
 
-81
+82
 00:08:47,610 --> 00:08:48,590
 Une anguille ?
 
-82
+83
 00:08:59,810 --> 00:09:03,390
 Bien grillée,
 ça pourrait faire un bon gueuleton.
 
-83
+84
 00:09:25,060 --> 00:09:28,330
 Quel con !
 Je me suis laissé distraire...
 
-84
+85
 00:09:29,150 --> 00:09:33,340
 Face à un type aussi vif,
 c'est un coup à y laisser sa peau !
 
-85
+86
 00:09:34,570 --> 00:09:35,960
 Il m'a touché à la jambe.
 
-86
+87
 00:09:36,550 --> 00:09:40,860
 Bon allez, faut que je trouve
 un moyen de neutraliser ces flingues.
 
-87
+88
 00:09:41,580 --> 00:09:42,430
 Mais oui...
 
-88
+89
 00:09:43,310 --> 00:09:45,860
 T'es drôlement bien armé, dis donc.
 
-89
+90
 00:09:49,510 --> 00:09:51,190
 Hélas pour toi, ça suffira pas.
 
-90
+91
 00:09:51,480 --> 00:09:53,400
 Mate un peu les lunettes !
 
-91
+92
 00:09:53,910 --> 00:09:57,950
 Tes flingues aveuglants
 ne marcheront plus contre moi !
 
-92
+93
 00:09:59,020 --> 00:10:01,020
 Alors un conseil, abandonne.
 
-93
+94
 00:10:01,450 --> 00:10:03,660
 Ça ressemble pas
 à des lunettes de soleil.
 
-94
+95
 00:10:04,270 --> 00:10:05,660
 Grillé !
 
-95
+96
 00:10:06,270 --> 00:10:08,930
 Tu n'as pas l'air
 d'apprécier mes flashguns.
 
-96
+97
 00:10:09,610 --> 00:10:13,590
 Normal, ils te gardent à distance.
 Tu n'as aucune chance contre moi.
 
-97
+98
 00:10:14,820 --> 00:10:19,120
 Je ne sais pas ce qui vous a amenés ici,
 toi et tes amis.
 
-98
+99
 00:10:19,450 --> 00:10:22,600
 Mais tant que vous resterez
 sur ces terres,
 
-99
+100
 00:10:22,810 --> 00:10:25,520
 nous vous considérerons
 comme nos ennemis.
 
-100
+101
 00:10:26,100 --> 00:10:30,350
 Bon, je vais abréger tes souffrances.
 Ta jambe doit te faire un mal de chien.
 
-101
+102
 00:10:30,920 --> 00:10:34,190
 T'en fais pas pour moi.
 C'est juste une égratignure.
 
-102
+103
 00:10:35,710 --> 00:10:38,400
 J'ai pris une balle
 parce que j'admirais une anguille,
 
-103
+104
 00:10:38,560 --> 00:10:41,310
 ça prouve bien
 que je manque encore d'entraînement.
 
-104
+105
 00:10:42,410 --> 00:10:46,830
 Bon, je crois que c'est le moment
 de mettre ma technique à l'épreuve.
 
-105
+106
 00:10:47,810 --> 00:10:49,290
 On va voir ce que ça donne.
 
-106
+107
 00:11:11,460 --> 00:11:12,810
 Tu espères t'enfuir ?
 
-107
+108
 00:11:14,660 --> 00:11:19,450
 La vue, l'ouïe, l'odorat,
 le goût, le toucher et l'esprit...
 
-108
+109
 00:11:19,930 --> 00:11:24,070
 Nos sens sont associés à trois états :
 le bien, le mal et la neutralité.
 
-109
+110
 00:11:24,750 --> 00:11:26,110
 C'est quoi, ce baratin ?
 
-110
+111
 00:11:27,270 --> 00:11:30,320
 Chacun de ces états peut être soit pur,
 soit corrompu.
 
-111
+112
 00:11:30,820 --> 00:11:33,080
 Ce sont les Klesha,
 les 36 passions de l'existence.
 
-112
+113
 00:11:36,710 --> 00:11:40,270
 Je suis en train
 de pointer un canon sur toi.
 
-113
+114
 00:11:40,450 --> 00:11:43,180
 Tes pistolets contre mon canon.
 
-114
+115
 00:11:43,540 --> 00:11:46,560
 Portée et puissance
 sont donc de mon côté.
 
-115
+116
 00:11:47,080 --> 00:11:48,560
 Tu t'es bien battu, mais...
 
-116
+117
 00:11:49,550 --> 00:11:50,730
 Tu vas crever !
 
-117
+118
 00:11:56,920 --> 00:11:58,190
 Un canon ?
 
-118
+119
 00:11:58,760 --> 00:12:01,990
 As-tu perdu la tête ?
 Je ne vois rien de tel près de toi.
 
-119
+120
 00:12:03,410 --> 00:12:06,870
 As-tu déjà vu
 une attaque de lame aérienne ?
 
-120
+121
 00:12:07,710 --> 00:12:09,080
 Arrête ton délire !
 
-121
+122
 00:12:11,150 --> 00:12:12,710
 Technique à un sabre...
 
-122
+123
 00:12:19,700 --> 00:12:23,050
 36 Klesha Slash !
 
-123
+124
 00:12:40,730 --> 00:12:41,990
 Désolé, mon gars.
 
-124
+125
 00:12:43,280 --> 00:12:45,780
 J'avais rien contre toi, tu sais.
 
-125
+126
 00:12:46,410 --> 00:12:50,420
 Mais lorsqu'on cherche à m'éliminer,
 je suis pas du genre à me laisser faire.
 
-126
+127
 00:12:53,410 --> 00:12:56,130
 Le but, c'est de survivre...
 Et je survivrai.
 
-127
+128
 00:13:22,110 --> 00:13:24,400
 C'est pas vrai...
 
-128
+129
 00:13:26,950 --> 00:13:29,880
 Je sais même plus
 dans quelle direction je vais.
 
-129
+130
 00:13:30,370 --> 00:13:32,080
 Les amis !
 
-130
+131
 00:13:32,560 --> 00:13:35,620
 Luffy... Zoro... Robin !
 
-131
+132
 00:13:37,170 --> 00:13:40,250
 Vais-je mourir ici,
 seul au milieu de nulle part ?
 
-132
+133
 00:13:40,540 --> 00:13:43,130
 Je me demande si j'irai au Paradis ?
 
-133
+134
 00:13:43,420 --> 00:13:46,040
 Est-ce que le docteur Hiluluk
 m'attend là-haut ?
 
-134
+135
 00:13:47,220 --> 00:13:50,640
 Stop, il faut que j'arrête
 de penser à des choses pareilles.
 
-135
+136
 00:13:50,890 --> 00:13:55,770
 Je suis médecin, après tout.
 Je suis censé combattre la mort !
 
-136
+137
 00:13:58,230 --> 00:14:01,160
 N'empêche, je me demande
 à quoi ressemble le paradis.
 
-137
+138
 00:14:01,770 --> 00:14:04,070
 Minute...
 Je suis déjà au "ciel", en fait.
 
-138
+139
 00:14:04,230 --> 00:14:04,810
 Tiens ?
 
-139
+140
 00:14:06,990 --> 00:14:09,770
 J'ai atteint les ruines
 sans même m'en rendre compte.
 
-140
+141
 00:14:10,780 --> 00:14:12,240
 Les autres sont là ?
 
-141
+142
 00:14:12,410 --> 00:14:14,890
 Y a pas à dire,
 j'ai assuré comme un chef !
 
-142
+143
 00:14:15,050 --> 00:14:17,250
 Si ça se trouve,
 je suis le premier arrivé ?
 
-143
+144
 00:14:17,380 --> 00:14:20,000
 Je vois.
 Mon flair a fait merveille, on dirait.
 
-144
+145
 00:14:21,540 --> 00:14:23,840
 C'est moi, le premier arrivé !
 
-145
+146
 00:14:26,130 --> 00:14:27,420
 Un raton laveur ?
 
-146
+147
 00:14:40,430 --> 00:14:42,780
 Inutile d'insister !
 Tu m'auras pas comme ça !
 
-147
+148
 00:14:43,010 --> 00:14:46,530
 Pistolets ou canons,
 ça n'a aucun effet sur moi !
 
-148
+149
 00:14:46,860 --> 00:14:48,200
 On dirait bien, oui.
 
-149
+150
 00:14:49,370 --> 00:14:51,370
 Je vais donc m'y prendre autrement.
 
-150
+151
 00:15:02,880 --> 00:15:03,950
 C'est quoi, cette puanteur ?
 
-151
+152
 00:15:04,090 --> 00:15:06,550
 C'est un Breath Dial rempli de gaz.
 
-152
+153
 00:15:06,880 --> 00:15:10,030
 J'ai baptisé cette arme le Burn Bazooka.
 
-153
+154
 00:15:10,520 --> 00:15:13,300
 Des flammes bleuâtres
 parcourent l'émanation gazeuse
 
-154
+155
 00:15:13,470 --> 00:15:15,970
 jusqu'à la cible
 qu'elles réduisent en cendres.
 
-155
+156
 00:15:33,410 --> 00:15:36,160
 C'est quoi, ce truc ?
 Ça a transpercé l'arbre !
 
-156
+157
 00:15:37,580 --> 00:15:38,290
 Tiens ?
 
-157
+158
 00:15:39,040 --> 00:15:40,000
 Il a disparu.
 
-158
+159
 00:15:50,720 --> 00:15:52,380
 Gum Gum...
 
-159
+160
 00:15:53,210 --> 00:15:54,550
 Pistol !
 
-160
+161
 00:16:02,230 --> 00:16:03,550
 Gum Gum...
 
-161
+162
 00:16:03,660 --> 00:16:04,640
 Stamp !
 
-162
+163
 00:16:29,620 --> 00:16:31,380
 Gum Gum...
 
-163
+164
 00:16:32,630 --> 00:16:33,590
 Lance !
 
-164
+165
 00:16:51,820 --> 00:16:53,240
 Question bazooka,
 
-165
+166
 00:16:53,860 --> 00:16:55,280
 tu fais pas le poids !
 
-166
+167
 00:16:55,700 --> 00:16:57,160
 Chapeau de paille !
 
-167
+168
 00:16:57,800 --> 00:16:59,620
 Gum Gum...
 
-168
+169
 00:16:59,990 --> 00:17:01,200
 Burn...
 
-169
+170
 00:17:05,790 --> 00:17:07,750
 Bazooka !
 
-170
+171
 00:17:26,600 --> 00:17:28,370
 Chapeau de paille...
 
-171
+172
 00:17:33,990 --> 00:17:35,860
 Le salopard...
 
-172
+173
 00:17:40,320 --> 00:17:41,540
 Sanji !
 
-173
+174
 00:17:44,410 --> 00:17:46,250
 Sanji !
 
-174
+175
 00:17:48,880 --> 00:17:50,510
 Sanji !
 
-175
+176
 00:17:54,340 --> 00:17:55,500
 – Sanji !
 – Hé !
 
-176
+177
 00:17:56,380 --> 00:17:58,300
 Accroche-toi, Sanji !
 
-177
+178
 00:18:03,130 --> 00:18:05,930
 Ça va aller, Sanji ?
 
-178
+179
 00:18:12,610 --> 00:18:15,190
 Hé ! J'entends plus son cœur !
 
-179
+180
 00:18:15,360 --> 00:18:16,190
 C'est pas vrai...
 
-180
+181
 00:18:22,700 --> 00:18:24,660
 Quel pauvre imbécile...
 
-181
+182
 00:18:24,810 --> 00:18:30,170
 Surtout que je n'étais pas venu ici
 avec l'intention de m'en prendre à vous.
 
-182
+183
 00:18:31,310 --> 00:18:34,050
 Dans ce cas,
 qu'est-ce qui t'amène ?
 
-183
+184
 00:18:36,130 --> 00:18:38,650
 Quel accueil glacial, dis donc.
 
-184
+185
 00:18:42,410 --> 00:18:46,440
 Cela fait pourtant six années
 qu'on ne s'est vu, cher prédécesseur,
 
-185
+186
 00:18:46,590 --> 00:18:47,930
 Gan Forr.
 
-186
+187
 00:00:30,960 --> 00:00:32,820
 Bon voyage !
 
-187
+188
 00:00:32,960 --> 00:00:38,500
 Un simple fragment de courage s'agrandit.
 
-188
+189
 00:00:38,700 --> 00:00:46,000
 J'ai eu un aperçu de la fin du chemin.
 
-189
+190
 00:00:46,350 --> 00:00:54,050
 Au début, nous voyions tous des horizons différents,
 
-190
+191
 00:00:54,250 --> 00:01:01,140
 Mais maintenant, nous regardons tous à travers un même télescope.
 
-191
+192
 00:01:01,320 --> 00:01:06,400
 Ton esprit a remué la boussole salée du destin,
 
-192
+193
 00:01:06,650 --> 00:01:13,450
 C'est pour ça que je naviguerai avec le dos de ma main.
 
-193
+194
 00:01:13,600 --> 00:01:15,420
 Bon voyage !
 
-194
+195
 00:01:15,620 --> 00:01:20,800
 Laissons notre passé et nos anciens liens.
 
-195
+196
 00:01:20,950 --> 00:01:27,650
 Nous devrions encore pouvoir sourire, ensemble.
 
-196
+197
 00:01:27,850 --> 00:01:35,380
 Si ces larmes permettent à nos rêves de se réaliser,
 
-197
+198
 00:01:35,560 --> 00:01:42,000
 Nous ne les regretterons pas, 
 aussi précieuses qu'elles soient.
 
-198
+199
 00:01:42,620 --> 00:01:48,320
 J'ai eu un aperçu de la fin du chemin.
-

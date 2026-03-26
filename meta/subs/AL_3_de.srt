@@ -1,1677 +1,1678 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:59,180 --> 00:02:00,680
 Was für eine angenehme Brise!
 
-2
+3
 00:02:09,400 --> 00:02:14,280
 Nami, ich möchte hier kurz
 mit dem Schiff Halt machen...
 
-3
+4
 00:02:14,280 --> 00:02:15,780
 Wieso?
 
-4
+5
 00:02:15,780 --> 00:02:18,450
 Ich habe eine wichtige
 Aufgabe für Karoo.
 
-5
+6
 00:02:18,450 --> 00:02:19,450
 Karoo?
 
-6
+7
 00:02:26,040 --> 00:02:29,000
 Karoo, ich möchte, dass du
 alleine zum Alubarna-Palast gehst
 
-7
+8
 00:02:29,000 --> 00:02:31,630
 und diesen Brief bei
 meinem Vater ablieferst.
 
-8
+9
 00:02:31,630 --> 00:02:35,510
 Ich habe alles aufgeschrieben, was
 Igaram und ich über die Machenschaften
 
-9
+10
 00:02:35,510 --> 00:02:38,600
 von Crocodile und der Baroque-Firma
 in Erfahrung bringen konnten.
 
-10
+11
 00:02:39,060 --> 00:02:43,100
 Und dass ich durch die
 Hilfe meiner Freunde
 
-11
+12
 00:02:43,600 --> 00:02:46,310
 lebend nach Alabasta
 zurückkehren konnte.
 
-12
+13
 00:02:47,310 --> 00:02:49,980
 Schaffst du das? Du müsstest
 die Wüste alleine durchqueren.
 
-13
+14
 00:02:53,900 --> 00:02:57,200
 Hör mal. Du musst dir dein
 Wasser in der Wüste gut einteilen.
 
-14
+15
 00:02:58,530 --> 00:03:00,410
 Karoo! Viel Glück!
 
-15
+16
 00:03:00,410 --> 00:03:04,410
 Lass meinen Vater wissen,
 dass wir das Königreich retten können!
 
-16
+17
 00:03:11,340 --> 00:03:13,590
 Teil dir dein Wasser gut ein!
 
-17
+18
 00:03:16,550 --> 00:03:18,930
 Karoo, danke...
 
-18
+19
 00:03:19,930 --> 00:03:23,680
 Ich wusste ja, dass Crocodile, einer der
 Sieben Samurai, in diesem Land ist,...
 
-19
+20
 00:03:24,810 --> 00:03:27,150
 aber ein Pirat, der ein Land
 übernehmen möchte?
 
-20
+21
 00:03:27,150 --> 00:03:28,940
 Klingt wie ein schlechter Scherz.
 
-21
+22
 00:03:29,270 --> 00:03:32,900
 Ein Pirat soll den Anker werfen
 und dann sesshaft werden?
 
-22
+23
 00:03:32,900 --> 00:03:36,150
 Er hat es doch nicht etwa
 auf den Thron abgesehen?
 
-23
+24
 00:03:36,150 --> 00:03:37,950
 Gut! Setzen wir Segel!
 
-24
+25
 00:03:37,950 --> 00:03:40,160
 Moment! Ich bin noch
 nicht wieder an Bord!
 
-25
+26
 00:03:40,160 --> 00:03:43,410
 Da könnte noch mehr an
 diesem Staatsstreich dran sein.
 
-26
+27
 00:03:44,200 --> 00:03:44,910
 Noch mehr?
 
-27
+28
 00:03:45,290 --> 00:03:47,830
 Irgendein höheres Ziel...
 
-28
+29
 00:03:48,620 --> 00:03:50,540
 Wir sind endlich da!
 
-29
+30
 00:03:50,540 --> 00:03:52,800
 Endlich geht’s in die Wüste!
 
-30
+31
 00:03:52,800 --> 00:03:54,510
 Da wird’s bestimmt heiß...
 
-31
+32
 00:03:54,510 --> 00:03:57,090
 Am Tag sind dort über 50°C!
 
-32
+33
 00:03:56,420 --> 00:03:57,090
 Was?!
 
-33
+34
 00:03:57,090 --> 00:03:58,590
 Echt jetzt?
 
-34
+35
 00:03:58,590 --> 00:04:01,470
 Was ist los, Nami? Wo ist
 dein Tänzerinnenfummel hin?
 
-35
+36
 00:04:01,470 --> 00:04:04,930
 Du nicht auch noch, Vivilein!
 Was soll der Aufzug?
 
-36
+37
 00:04:04,930 --> 00:04:07,850
 In der Wüste würden wir uns
 nur einen Sonnenbrand holen,
 
-37
+38
 00:04:07,850 --> 00:04:09,850
 wenn wir so viel Haut zeigen.
 
-38
+39
 00:04:11,110 --> 00:04:13,570
 Das ist schrecklich!
 Meine Tänzerinnen...
 
-39
+40
 00:04:14,070 --> 00:04:15,190
 Zieh das an, Luffy.
 
-40
+41
 00:04:15,190 --> 00:04:16,690
 Ja! Danke!
 
-41
+42
 00:04:16,690 --> 00:04:19,160
 Machen wir uns bereit zum Landgang.
 
-42
+43
 00:04:18,070 --> 00:04:19,160
 Ist gut.
 
-43
+44
 00:04:27,830 --> 00:04:29,710
 Gut! An Land!
 
-44
+45
 00:04:33,710 --> 00:04:35,170
 Was ist das?
 
-45
+46
 00:04:41,590 --> 00:04:42,640
 Schildkröten?
 
-46
+47
 00:04:42,640 --> 00:04:44,010
 Sind das nicht Robben?
 
-47
+48
 00:04:44,010 --> 00:04:45,260
 Kung Fu Dugongs!
 
-48
+49
 00:04:46,470 --> 00:04:49,000
 „Wenn ihr hier an Land wollt,
 müsst ihr zuerst mich besiegen!“
 
-49
+50
 00:04:49,000 --> 00:04:51,480
 „Oder verpisst euch zurück an
 die andere Küste, ihr Feiglinge!“
 
-50
+51
 00:04:51,940 --> 00:04:53,060
 Das hat er gesagt.
 
-51
+52
 00:04:55,570 --> 00:04:58,190
 Ich kann nicht stillsitzen, wenn
 mich jemand einen Feigling nennt.
 
-52
+53
 00:04:58,190 --> 00:04:59,240
 Auf geht’s!
 
-53
+54
 00:04:59,240 --> 00:05:00,610
 Warte, Usopp!
 
-54
+55
 00:05:02,130 --> 00:05:04,700
 Kung Fu Dugongs sind stark!
 
-55
+56
 00:05:06,870 --> 00:05:08,540
 Der da drüben hat gewonnen!
 
-56
+57
 00:05:08,540 --> 00:05:09,580
 Das macht’s nicht besser!
 
-57
+58
 00:05:14,000 --> 00:05:14,790
 Was zum...?
 
-58
+59
 00:05:16,250 --> 00:05:18,420
 Bei den Kung Fu Dugongs ist es Gesetz,
 
-59
+60
 00:05:18,420 --> 00:05:21,010
 dass der Verlierer
 Schüler des Siegers wird.
 
-60
+61
 00:05:21,010 --> 00:05:22,090
 Echte Kampfsportler.
 
-61
+62
 00:05:24,970 --> 00:05:26,850
 Die Zahl deiner Schüler steigt rasant!
 
-62
+63
 00:05:26,850 --> 00:05:29,810
 Gut, Leute! Mir nach! In Position!
 
-63
+64
 00:05:30,690 --> 00:05:32,310
 Nein! So!
 
-64
+65
 00:05:33,400 --> 00:05:35,020
 Ja! Jetzt so!
 
-65
+66
 00:05:35,900 --> 00:05:37,320
 Genau! So!
 
-66
+67
 00:05:38,480 --> 00:05:40,400
 So! So!
 
-67
+68
 00:05:40,400 --> 00:05:42,150
 So!
 
-68
+69
 00:05:46,870 --> 00:05:50,870
 Bis dann!
 
-69
+70
 00:05:50,870 --> 00:05:53,880
 Hör mal, Luffy! Verstehst du,
 in welcher Lage wir uns befinden?
 
-70
+71
 00:05:53,880 --> 00:05:57,090
 Die wollten doch mitkommen,
 wieso geht das denn nicht?
 
-71
+72
 00:05:57,090 --> 00:06:00,970
 Mit so einer großen Gruppe können wir
 doch in keine Stadt! Du bist ja so dämlich!
 
-72
+73
 00:06:01,420 --> 00:06:02,170
 Also echt!
 
-73
+74
 00:06:02,170 --> 00:06:05,140
 Wir hätten jetzt echt Probleme,
 wenn Chopper sie nicht überzeugt hätte.
 
-74
+75
 00:06:05,140 --> 00:06:08,430
 Ja! Sie sagten die ganze Zeit:
 „Wir werden dich begleiten!“
 
-75
+76
 00:06:08,430 --> 00:06:11,480
 Das hätten sie auch, wenn wir ihnen
 nichts zu essen gegeben hätten.
 
-76
+77
 00:06:11,480 --> 00:06:15,440
 Mensch! Dank dir ist unser
 Proviant weiter geschrumpft.
 
-77
+78
 00:06:16,190 --> 00:06:18,400
 Er sorgt halt gerne für Ärger.
 
-78
+79
 00:06:17,440 --> 00:06:18,400
 Kannst du laut sagen.
 
-79
+80
 00:06:30,080 --> 00:06:30,910
 Was ist das?
 
-80
+81
 00:06:30,910 --> 00:06:33,040
 Ist das dieses Yuba?
 
-81
+82
 00:06:33,410 --> 00:06:34,790
 Nein...
 
-82
+83
 00:06:34,790 --> 00:06:38,960
 Das ist Erumalu. Es war mal
 als die grüne Stadt bekannt.
 
-83
+84
 00:06:39,460 --> 00:06:40,630
 Die grüne Stadt?
 
-84
+85
 00:06:41,670 --> 00:06:43,930
 Dieser Anblick dürfte alles erklären.
 
-85
+86
 00:06:43,930 --> 00:06:47,390
 Das hat die Baroque-Firma
 diesem Land angetan.
 
-86
+87
 00:06:47,890 --> 00:06:51,100
 Das muss das Volk
 von Alabasta erdulden.
 
-87
+88
 00:06:53,180 --> 00:06:54,560
 Hui!
 
-88
+89
 00:06:54,560 --> 00:06:57,480
 Hier ist ja gar nichts!
 
-89
+90
 00:06:57,480 --> 00:07:01,570
 Ja. Jetzt ist sie eine Geisterstadt,
 
-90
+91
 00:07:01,570 --> 00:07:06,110
 doch bis vor Kurzem war es noch
 eine blühende Stadt voller Grün!
 
-91
+92
 00:07:06,740 --> 00:07:08,240
 Ach ja?
 
-92
+93
 00:07:09,780 --> 00:07:14,660
 Regen fiel nie besonders viel,
 dennoch kam die Bewohner immer klar,
 
-93
+94
 00:07:14,660 --> 00:07:18,500
 indem sie jeden Regentropfen
 aufgefangen haben.
 
-94
+95
 00:07:18,500 --> 00:07:21,210
 Doch seit drei Jahren...
 
-95
+96
 00:07:21,210 --> 00:07:25,340
 ist nirgendwo in diesem Land
 ein Tropfen Regen gefallen.
 
-96
+97
 00:07:25,680 --> 00:07:27,550
 Seit drei Jahren?
 
-97
+98
 00:07:26,470 --> 00:07:27,550
 So lange?
 
-98
+99
 00:07:28,180 --> 00:07:32,310
 Mal abgesehen von dem Regen,
 was ist mit dem Fluss von vorhin?
 
-99
+100
 00:07:32,310 --> 00:07:35,520
 Ja! Könnte man nicht das Wasser
 von dem großen Fluss abpumpen?
 
-100
+101
 00:07:36,100 --> 00:07:38,440
 Die Antwort liegt direkt vor uns.
 
-101
+102
 00:07:43,110 --> 00:07:46,900
 Nicht einmal in der Jahrtausende
 alten Geschichte von Alabasta
 
-102
+103
 00:07:46,900 --> 00:07:49,410
 hat der Regen vollständig
 aufgehört zu fallen.
 
-103
+104
 00:07:49,410 --> 00:07:54,330
 Doch es gab einst einen Ort,
 an dem es häufiger regnete.
 
-104
+105
 00:07:54,830 --> 00:07:59,460
 Alubarna, die Hauptstadt. Die Stadt,
 in der der Palast des Königs steht...
 
-105
+106
 00:08:19,560 --> 00:08:23,020
 Das Volk nennt es des Königs Wunder.
 
-106
+107
 00:08:23,020 --> 00:08:25,530
 Zumindest bis zu jenem Tag...
 
-107
+108
 00:08:26,190 --> 00:08:29,700
 Lasst die Fracht runter!
 
-108
+109
 00:08:36,910 --> 00:08:38,250
 Sie stürzt ab!
 
-109
+110
 00:08:38,250 --> 00:08:39,290
 Vorsicht!
 
-110
+111
 00:08:41,330 --> 00:08:43,750
 Hey! Geht’s dir gut?
 
-111
+112
 00:08:44,340 --> 00:08:46,460
 Oh nein! Das ist übel!
 
-112
+113
 00:08:46,460 --> 00:08:50,050
 Wir sollten das doch zu König
 Cobra in Alubarna liefern!
 
-113
+114
 00:08:50,050 --> 00:08:53,010
 Was ist das für ein grünes Pulver?
 
-114
+115
 00:08:53,010 --> 00:08:54,100
 Was das ist?
 
-115
+116
 00:08:54,100 --> 00:08:58,350
 W-Woher sollen wir das wissen?
 Wir handeln nur auf Befehl des Königs!
 
-116
+117
 00:08:58,350 --> 00:08:58,980
 Oder?
 
-117
+118
 00:08:58,980 --> 00:09:00,350
 Wir sind nur Kuriere.
 
-118
+119
 00:09:00,350 --> 00:09:01,060
 – Lauf!
 – Lauf!
 
-119
+120
 00:09:04,860 --> 00:09:07,440
 Moment! Ist das etwa...?
 
-120
+121
 00:09:07,940 --> 00:09:10,030
 Dance Powder?
 
-121
+122
 00:09:10,530 --> 00:09:12,360
 Kennst du das?
 
-122
+123
 00:09:12,360 --> 00:09:16,200
 Ja. Es ist auch als
 Regenpulver bekannt.
 
-123
+124
 00:09:16,200 --> 00:09:17,750
 Regenpulver?
 
-124
+125
 00:09:17,750 --> 00:09:19,710
 Ich habe bislang nur
 Geschichten darüber gehört,
 
-125
+126
 00:09:19,710 --> 00:09:24,670
 aber ein Forscher in einem Land,
 in dem es nicht regnet, hat es entwickelt.
 
-126
+127
 00:09:24,670 --> 00:09:29,300
 Man kann damit einen nebligen Dampf
  erzeugen, der dann zum Himmel aufsteigt,
 
-127
+128
 00:09:29,300 --> 00:09:32,380
 wodurch es dann künstlich regnet.
 
-128
+129
 00:09:32,380 --> 00:09:34,350
 Das ist das Dance Powder.
 
-129
+130
 00:09:34,350 --> 00:09:38,100
 Wie der Name verrät, war das Land,
 das das Dance Powder entwickelt hat,
 
-130
+131
 00:09:38,100 --> 00:09:40,810
 darüber so glücklich, dass es ein
 Freudentänzchen hingelegt hat.
 
-131
+132
 00:09:41,310 --> 00:09:44,810
 Aber die Sache hat einen Haken:
 
-132
+133
 00:09:44,810 --> 00:09:48,280
 das Nachbarland erlitt
 dadurch eine Dürre.
 
-133
+134
 00:09:48,280 --> 00:09:49,530
 Versteht ihr das?
 
-134
+135
 00:09:49,530 --> 00:09:54,240
 Das Dance Powder lässt Wolken
 schnell und künstlich entstehen,
 
-135
+136
 00:09:54,240 --> 00:09:59,410
 die sich sonst eigentlich
 weiter weg erst bilden würden
 
-136
+137
 00:09:59,410 --> 00:10:02,080
 und lässt es dann regnen.
 
-137
+138
 00:10:02,080 --> 00:10:03,040
 Ach, ich verstehe!
 
-138
+139
 00:10:03,040 --> 00:10:07,840
 Es klaut den Regen, der sonst im
 Nachbarland runtergekommen wäre.
 
-139
+140
 00:10:08,210 --> 00:10:11,800
 Daraufhin kam es zum Krieg
 zwischen den beiden Ländern
 
-140
+141
 00:10:11,800 --> 00:10:13,800
 und viele mussten
 dafür ihr Leben lassen.
 
-141
+142
 00:10:13,800 --> 00:10:15,650
 Seitdem hat die Weltregierung
 
-142
+143
 00:10:15,650 --> 00:10:19,140
 die Produktion und den Besitz des
 Dance Powders weltweit verboten.
 
-143
+144
 00:10:19,140 --> 00:10:22,600
 Ein Pulver, das dem einen Glück
 und dem anderen Unglück bringt.
 
-144
+145
 00:10:22,600 --> 00:10:27,000
 Als all dieses Dance Powder
 in die Hafenstadt kam,
 
-145
+146
 00:10:27,000 --> 00:10:29,980
 kam es in Alabasta gerade zu
 ungewöhnlichen Wetterphänomenen,
 
-146
+147
 00:10:29,980 --> 00:10:33,070
 die den Regen nur in der
 Hauptstadt beim König fallen ließ.
 
-147
+148
 00:10:34,070 --> 00:10:39,330
 Hier hat es nicht einmal geregnet,
 weil der König dieses Dance Powder benutzt!
 
-148
+149
 00:10:39,330 --> 00:10:42,790
 Alubarnas Regen war
 also doch kein Wunder!
 
-149
+150
 00:10:42,790 --> 00:10:48,040
 Nur wegen unseres Königs müssen
 wir in dieser Dürre verhungern!
 
-150
+151
 00:10:48,040 --> 00:10:51,340
 Moment mal, Vivi! Dann ist
 ja dein Alter hier der Böse!
 
-151
+152
 00:10:51,340 --> 00:10:53,720
 Du Trottel! Er wurde betrogen!
 
-152
+153
 00:10:53,720 --> 00:10:56,260
 Vivileins Vater würde
 niemals so etwas tun!
 
-153
+154
 00:10:56,260 --> 00:11:00,140
 Niemals! Niemals! Niemals!
 Niemals! Niemals! Niemals!
 
-154
+155
 00:11:01,430 --> 00:11:04,480
 Natürlich hatte mein Vater
 nichts damit zu tun,...
 
-155
+156
 00:11:04,480 --> 00:11:07,480
 aber etwa zur selben Zeit...
 
-156
+157
 00:11:08,360 --> 00:11:12,280
 wurde eine große Menge des
 Dance Powders im Palast gefunden.
 
-157
+158
 00:11:12,690 --> 00:11:15,740
 Sie haben also sogar
 ihre Leute im Palast?
 
-158
+159
 00:11:17,740 --> 00:11:20,530
 Was ist das für eine Straße, Vivilein?
 
-159
+160
 00:11:20,530 --> 00:11:25,290
 Das war mal ein Kanal, der das Wasser
 vom Sandora-Fluss herbeförderte.
 
-160
+161
 00:11:26,370 --> 00:11:29,250
 Jemand hat diesen Kanal zerstört.
 
-161
+162
 00:11:29,960 --> 00:11:34,590
 Als der Kanal zerstört war, hatte
 die grüne Stadt kein Wasser mehr.
 
-162
+163
 00:11:35,380 --> 00:11:40,600
 Die Menschen beteten und warteten,
 doch es fiel kein Regentropfen.
 
-163
+164
 00:11:43,020 --> 00:11:48,060
 Seit der Sache mit dem Dance Powder
 steigt das Misstrauen in den König täglich.
 
-164
+165
 00:11:48,060 --> 00:11:50,900
 Crocodile hat das also
 alles so geplant, ja?
 
-165
+166
 00:11:51,360 --> 00:11:54,360
 Und schließlich kam es zum Krieg.
 
-166
+167
 00:11:55,440 --> 00:12:01,330
 Um den Kämpfen zu entgehen, verließen 
 die erschöpften Menschen diese Stadt
 
-167
+168
 00:12:01,330 --> 00:12:04,290
 und zogen auf der Suche nach
 Wasser in die anderen Oasen.
 
-168
+169
 00:12:06,370 --> 00:12:07,210
 Und so...
 
-169
+170
 00:12:09,750 --> 00:12:11,880
 trocknete die grüne Stadt aus.
 
-170
+171
 00:12:15,250 --> 00:12:16,630
 Da ist jemand zusammengebrochen!
 
-171
+172
 00:12:16,630 --> 00:12:19,590
 In dieser Stadt leben noch Menschen?
 
-172
+173
 00:12:29,810 --> 00:12:31,110
 Was hat mein Vater...
 
-173
+174
 00:12:32,480 --> 00:12:35,480
 Was hat das Volk dieses
 Landes nur verbrochen?
 
-174
+175
 00:12:36,190 --> 00:12:38,720
 Diese Menschen haben so
 hart für ihr Leben geschuftet,
 
-175
+176
 00:12:38,720 --> 00:12:40,610
 ein Wüstenvolk,
 das stets der Natur trotzt.
 
-176
+177
 00:12:40,610 --> 00:12:44,160
 Und trotzdem hat er
 ihre Leben zerstört!
 
-177
+178
 00:12:44,830 --> 00:12:48,660
 Was gibt ihm das Recht dazu?
 
-178
+179
 00:12:48,660 --> 00:12:49,670
 Was?!
 
-179
+180
 00:12:51,250 --> 00:12:54,670
 Und zugleich spielt er sich
 als einer der Sieben Samurai
 
-180
+181
 00:12:54,670 --> 00:12:56,590
 als Held des Volkes auf!
 
-181
+182
 00:12:57,260 --> 00:13:02,430
 Niemand merkt, wie er das
 gesamte Land hinters Licht führt!
 
-182
+183
 00:13:02,430 --> 00:13:10,100
 Crocodile! Crocodile! Crocodile!
 Crocodile! Crocodile! Crocodile!
 
-183
+184
 00:13:10,100 --> 00:13:11,310
 Ich...
 
-184
+185
 00:13:12,020 --> 00:13:14,020
 kann ihn nicht damit
 davonkommen lassen!
 
-185
+186
 00:13:22,990 --> 00:13:25,910
 Mensch! Ihr seid echt Kleinkinder.
 
-186
+187
 00:13:37,960 --> 00:13:38,760
 Vivi!
 
-187
+188
 00:13:39,130 --> 00:13:40,880
 Gehen wir weiter.
 
-188
+189
 00:13:41,510 --> 00:13:43,050
 Mir juckt’s in den Fäusten.
 
-189
+190
 00:13:45,300 --> 00:13:47,430
 Gehen wir nach Yuba.
 
-190
+191
 00:13:48,350 --> 00:13:50,520
 Dort ist die Rebellenarmee, oder?
 
-191
+192
 00:13:52,020 --> 00:13:55,810
 Ja. Ich werde ihren Anführer
 überzeugen, die Rebellion abzublasen.
 
-192
+193
 00:13:55,810 --> 00:13:56,650
 Ihn überzeugen?
 
-193
+194
 00:13:57,020 --> 00:14:00,570
 All die Unruhen in Alabasta
 sind Crocodiles Werk!
 
-194
+195
 00:14:00,570 --> 00:14:01,900
 Ich erzähle ihm die Wahrheit
 
-195
+196
 00:14:01,900 --> 00:14:04,320
 und bereite so dem sinnlosen
 Blutvergießen ein Ende!
 
-196
+197
 00:14:04,320 --> 00:14:05,570
 Alles klar.
 
-197
+198
 00:14:29,010 --> 00:14:32,480
 Ich verbrenne. Schwitzen
 kann ich auch nicht mehr...
 
-198
+199
 00:14:32,850 --> 00:14:36,860
 Hör mal auf zu jammern, Luffy.
 Davon wirst du nur noch müder.
 
-199
+200
 00:14:37,980 --> 00:14:39,820
 Der hört doch eh nicht.
 
-200
+201
 00:14:42,650 --> 00:14:46,410
 Ich kann nicht mehr. 
 Mit Hitze komm ich nicht klar...
 
-201
+202
 00:14:46,410 --> 00:14:49,410
 Mit Kälte hab ich dafür
 gar kein Problem...
 
-202
+203
 00:14:49,410 --> 00:14:53,790
 Das liegt an dem ganzen Fell. Du hättest
 mal dein Tierkostüm ausziehen sollen.
 
-203
+204
 00:14:54,620 --> 00:14:56,920
 Wie bitte, du Sack?!
 
-204
+205
 00:14:56,920 --> 00:14:59,550
 Mach dich nicht über Rentiere lustig!
 
-205
+206
 00:14:59,550 --> 00:15:01,510
 Du Monster!
 
-206
+207
 00:15:01,920 --> 00:15:05,130
 Chopper! Werd nicht groß!
 Sonst zieh ich dich nicht weiter.
 
-207
+208
 00:15:05,130 --> 00:15:07,890
 Wen nennst du hier ein Monster,
 du Riesenzinken?!
 
-208
+209
 00:15:07,890 --> 00:15:10,390
 M-Mach dich nicht lächerlich!
 D-Diese Nase ist...
 
-209
+210
 00:15:10,390 --> 00:15:12,350
 Verwandle dich schon zurück!
 
-210
+211
 00:15:17,150 --> 00:15:20,520
 Dir scheint das nichts
 auszumachen, Vivilein.
 
-211
+212
 00:15:20,520 --> 00:15:24,240
 Ich bin hier geboren und aufgewachsen,
 daher kann ich das gut vertragen.
 
-212
+213
 00:15:24,240 --> 00:15:27,610
 Was sollen diese ganzen Dünen?
 
-213
+214
 00:15:27,610 --> 00:15:31,200
 Ich dachte immer,
 die Wüste wäre flach.
 
-214
+215
 00:15:32,450 --> 00:15:35,250
 Das ist eine sehr alte Wüste,
 
-215
+216
 00:15:35,250 --> 00:15:38,500
 daher gibt es hier Sanddünen,
 die über 300 Meter hoch sind.
 
-216
+217
 00:15:38,500 --> 00:15:40,630
 3-300 Meter?
 
-217
+218
 00:15:40,630 --> 00:15:42,920
 Kein Wunder, dass sich das
 wie Bergsteigen anfühlt...
 
-218
+219
 00:15:43,920 --> 00:15:46,930
 Das ist zu viel. Viel zu heiß...
 
-219
+220
 00:15:47,300 --> 00:15:50,640
 Nur einen Schluck, Luffy.
 Nur einmal den Mund voll.
 
-220
+221
 00:15:52,740 --> 00:15:53,640
 Trink nicht zu viel!
 
-221
+222
 00:15:53,640 --> 00:15:56,520
 Gib mir auch was ab! Das war
 eher 13-mal den Mund voll!
 
-222
+223
 00:15:56,520 --> 00:15:59,610
 Halt! Du hattest schon!
 Ich bin als Nächstes dran!
 
-223
+224
 00:15:59,610 --> 00:16:03,190
 Streitet euch nicht!
 Ihr verschwendet nur eure Kraft.
 
-224
+225
 00:16:03,650 --> 00:16:05,110
 Sie hat doch angefangen!
 
-225
+226
 00:16:05,110 --> 00:16:06,450
 Selbst schuld!
 
-226
+227
 00:16:06,450 --> 00:16:08,200
 Ja! Das ist alles deinetwegen!
 
-227
+228
 00:16:10,780 --> 00:16:13,740
 Hey, Sanji! Lass uns futtern!
 Dein Piraten-Pausenbrot!
 
-228
+229
 00:16:13,740 --> 00:16:17,160
 Noch nicht. Nicht,
 bis Vivilein ihr Okay gibt.
 
-229
+230
 00:16:17,160 --> 00:16:21,040
 Komm schon, Vivi! Lass uns
 essen! Ich bin voll schlapp!
 
-230
+231
 00:16:21,040 --> 00:16:25,960
 Aber wir haben erst ein Zehntel des
 Weges bis nach Yuba geschafft, Luffy.
 
-231
+232
 00:16:25,960 --> 00:16:29,130
 Du bist echt dämlich. Hast du noch
 nie von dem Sprichwort gehört?
 
-232
+233
 00:16:29,130 --> 00:16:31,220
 „Wer hungrig ist, soll essen!“
 
-233
+234
 00:16:31,220 --> 00:16:33,680
 Du Lügner! Denk dir
 keinen Scheiß aus!
 
-234
+235
 00:16:34,180 --> 00:16:35,310
 Schon gut.
 
-235
+236
 00:16:35,310 --> 00:16:38,560
 Sollen wir dann ein Päuschen beim nächsten
 Felsen machen, an dem wir vorbeikommen?
 
-236
+237
 00:16:38,560 --> 00:16:40,020
 Gut! Felsen!
 
-237
+238
 00:16:40,020 --> 00:16:42,810
 Leute! Schnell zum nächsten Felsen!
 
-238
+239
 00:16:42,810 --> 00:16:46,030
 Wer bei Schnick-Schnack-Schnuck gewinnt,
 muss das gesamte Gepäck schleppen!
 
-239
+240
 00:16:46,030 --> 00:16:47,360
 Bestimm hier nicht einfach!
 
-240
+241
 00:16:47,360 --> 00:16:49,030
 Gut! Auf geht’s!
 
-241
+242
 00:16:49,030 --> 00:16:50,070
 Schnick, Schnack, Schnuck!
 
-242
+243
 00:16:50,070 --> 00:16:51,070
 Schnick, Schnack, Schnuck!
 
-243
+244
 00:16:51,070 --> 00:16:51,780
 Schnick, Schnack, Schnuck!
 
-244
+245
 00:16:51,780 --> 00:16:52,700
 Moment mal!
 
-245
+246
 00:16:52,700 --> 00:16:53,950
 Hey! Du warst zu spät dran!
 
-246
+247
 00:16:53,950 --> 00:16:56,750
 Juhu! Gewonnen!
 
-247
+248
 00:16:55,990 --> 00:16:56,750
 Depp.
 
-248
+249
 00:17:00,080 --> 00:17:03,000
 S-Schwer! So schwer! Und heiß...
 
-249
+250
 00:17:03,000 --> 00:17:05,300
 Ich hab doch bei Schnick-
 Schnack-Schnuck gewonnen.
 
-250
+251
 00:17:05,300 --> 00:17:06,300
 Wieso nur?
 
-251
+252
 00:17:06,300 --> 00:17:10,050
 Na, weil du gewonnen hast.
 Also halt’s Maul und zieh.
 
-252
+253
 00:17:10,050 --> 00:17:11,800
 Verlier nichts.
 
-253
+254
 00:17:18,730 --> 00:17:21,190
 Felsen auf dem Weg vor uns entdeckt!
 
-254
+255
 00:17:21,560 --> 00:17:22,560
 Echt jetzt?
 
-255
+256
 00:17:22,940 --> 00:17:26,070
 Futterzeit! Futter!
 
-256
+257
 00:17:26,070 --> 00:17:28,030
 Boah! Der hat ja ’nen Zahn drauf!
 
-257
+258
 00:17:31,950 --> 00:17:35,950
 Schatten! Ein tolles Gefühl!
 
-258
+259
 00:17:54,720 --> 00:17:57,260
 Ein Notfall!
 
-259
+260
 00:17:57,260 --> 00:17:59,350
 Hä? Er kommt zurück!
 
-260
+261
 00:17:59,350 --> 00:18:03,190
 Da sind jede Menge verletzte Vögel,
 die sich nicht rühren können! Chopper!
 
-261
+262
 00:18:03,940 --> 00:18:05,190
 Komme!
 
-262
+263
 00:18:06,000 --> 00:18:09,110
 Gut! Hin da, Chopper!
 
-263
+264
 00:18:08,320 --> 00:18:09,110
 Ja!
 
-264
+265
 00:18:09,650 --> 00:18:11,490
 Wir werden den Vögeln helfen!
 
-265
+266
 00:18:11,490 --> 00:18:12,360
 Vögel?
 
-266
+267
 00:18:12,360 --> 00:18:15,070
 Warte, Luffy! Sag bloß,
 diese Vögel sind...
 
-267
+268
 00:18:20,290 --> 00:18:21,960
 Unser ganzes Zeug ist weg!
 
-268
+269
 00:18:21,960 --> 00:18:23,790
 Wir wurden ausgeraubt...
 
-269
+270
 00:18:24,580 --> 00:18:28,880
 Ich sag die Wahrheit!
 Diese Vögel lagen hier im Sterben!
 
-270
+271
 00:18:29,450 --> 00:18:30,740
 Tut mir leid.
 
-271
+272
 00:18:30,740 --> 00:18:32,800
 Das hätte ich erwähnen sollen.
 
-272
+273
 00:18:33,800 --> 00:18:37,000
 Schwindel-Reiher sind als Wüstendiebe
 bekannt, die Reisende hereinlegen
 
-273
+274
 00:18:37,000 --> 00:18:38,260
 und dann ihr Gepäck stehlen.
 
-274
+275
 00:18:38,260 --> 00:18:40,720
 Was?!
 
-275
+276
 00:18:41,730 --> 00:18:45,520
 Vögel, die sich tot stellen?
 Das ist doch Schwindel!
 
-276
+277
 00:18:45,520 --> 00:18:47,520
 Ja, so sind sie eben.
 
-277
+278
 00:18:47,520 --> 00:18:49,190
 Die haben mich reingelegt?
 
-278
+279
 00:18:49,190 --> 00:18:51,990
 Luffy! Mehr hast du nicht zu sagen?
 
-279
+280
 00:18:51,990 --> 00:18:54,490
 Da war Proviant für drei Tage dabei!
 
-280
+281
 00:18:54,490 --> 00:18:58,660
 Und du hast unseren ganzen
 Kram von diesen Drecksvögeln
 
-281
+282
 00:18:58,660 --> 00:19:01,790
 mitten in der Wüste klauen lassen?
 
-282
+283
 00:19:01,790 --> 00:19:04,920
 Wie sollen wir jetzt ohne Proviant
 oder Wasser die Wüste durchqueren?
 
-283
+284
 00:19:04,920 --> 00:19:08,170
 Das ist nicht meine Schuld.
 Ich wurde hereingelegt.
 
-284
+285
 00:19:08,170 --> 00:19:10,590
 Bist du dümmer als ein Vogel?
 
-285
+286
 00:19:10,590 --> 00:19:11,550
 Wie bitte?
 
-286
+287
 00:19:12,050 --> 00:19:13,590
 Hört auf, ihr beiden!
 
-287
+288
 00:19:15,180 --> 00:19:16,470
 Bringt nichts.
 
-288
+289
 00:19:16,970 --> 00:19:20,850
 In so einem Moment
 sollten sie es ausfechten.
 
-289
+290
 00:19:22,100 --> 00:19:23,230
 Wohl wahr.
 
-290
+291
 00:19:24,390 --> 00:19:27,850
 Legen wir eine kurze Pause ein.
 Diese Hitze macht sie irre.
 
-291
+292
 00:19:29,110 --> 00:19:31,020
 Das mit dem Proviant
 lösen wir schon irgendwie.
 
-292
+293
 00:19:31,530 --> 00:19:35,320
 Das bringt uns schon nicht um.
 Vergessen wir es einfach.
 
-293
+294
 00:19:35,320 --> 00:19:38,780
 Ja. Vom Nachdenken werd
 ich nur noch durstiger.
 
-294
+295
 00:19:52,170 --> 00:19:56,300
 Gebt uns unser Zeug zurück!
 
-295
+296
 00:19:56,300 --> 00:19:58,680
 Luffy! Verfolg sie nicht!
 
-296
+297
 00:19:58,680 --> 00:20:00,010
 Dieser Trottel!
 
-297
+298
 00:20:00,010 --> 00:20:02,890
 Hey! Wirst du noch zurückfinden?
 
-298
+299
 00:20:02,890 --> 00:20:05,600
 Komm zurück, Luffy!
 
-299
+300
 00:20:08,190 --> 00:20:11,570
 Halt! Ihr entkommt mir nicht!
 
-300
+301
 00:20:17,150 --> 00:20:18,860
 Bleibt stehen!
 
-301
+302
 00:20:23,200 --> 00:20:25,450
 Was braucht Luffy so lange?
 
-302
+303
 00:20:26,080 --> 00:20:29,170
 Ja. Meint ihr, er hat sich verlaufen?
 
-303
+304
 00:20:29,170 --> 00:20:32,960
 Und hier lauern noch so viele
 unbekannte Gefahren in der Wüste...
 
-304
+305
 00:20:35,760 --> 00:20:36,510
 Was ist das?
 
-305
+306
 00:20:42,970 --> 00:20:44,850
 Was ist das für ein Beben?
 
-306
+307
 00:20:52,150 --> 00:20:54,520
 Noch ein Sandsturm?
 
-307
+308
 00:20:55,230 --> 00:20:57,360
 Nein, Moment! Das ist...
 
-308
+309
 00:21:00,610 --> 00:21:01,450
 Luffy!
 
-309
+310
 00:21:01,820 --> 00:21:03,950
 Nein, unmöglich!
 
-310
+311
 00:21:06,790 --> 00:21:09,330
 Wieso reitet er auf einem Kamel?
 
-311
+312
 00:21:11,580 --> 00:21:14,460
 Und? Was verfolgt ihn da?
 
-312
+313
 00:21:14,460 --> 00:21:15,590
 Ich kann’s nicht erkennen.
 
-313
+314
 00:21:15,590 --> 00:21:18,800
 Aber offenbar ist da was im Sand!
 
-314
+315
 00:21:20,510 --> 00:21:25,390
 Die ist ja gigantisch!
 
-315
+316
 00:21:23,220 --> 00:21:24,510
 Was?!
 
-316
+317
 00:21:24,510 --> 00:21:25,390
 Was ist das?
 
-317
+318
 00:21:25,720 --> 00:21:27,100
 Eine Sandora-Echse!
 
-318
+319
 00:21:27,100 --> 00:21:28,600
 Was für’n Vieh?
 
-319
+320
 00:21:28,600 --> 00:21:31,700
 Sie sind die größten Reptilien,
 die in der Wüste leben
 
-320
+321
 00:21:31,700 --> 00:21:34,110
 und sie lauern ihrer Beute
 unter dem Sand auf!
 
-321
+322
 00:21:34,110 --> 00:21:38,650
 Sie haben scharfe Klauen und Zähne,
 aber sie setzen sie nur selten ein!
 
-322
+323
 00:21:38,650 --> 00:21:41,900
 Sie verschlucken ihre Beute
 nämlich lieber in einem Stück,
 
-323
+324
 00:21:41,900 --> 00:21:43,530
 weil sie so groß sind!
 
-324
+325
 00:21:44,030 --> 00:21:47,490
 Er hat echt ein Talent dafür,
 den Ärger magisch anzuziehen.
 
-325
+326
 00:21:47,490 --> 00:21:50,120
 Vergessen wir mal kurz das Kamel...
 
-326
+327
 00:21:50,120 --> 00:21:54,040
 Unter welchem Stern muss man geboren sein,
 um die Scheiße so am Schuh zu haben?
 
-327
+328
 00:21:54,040 --> 00:21:56,290
 Hey! Kamel! Halt!
 
-328
+329
 00:21:58,050 --> 00:21:59,800
 Luffy! Packst du das nicht?
 
-329
+330
 00:21:59,800 --> 00:22:01,170
 Wir helfen dir!
 
-330
+331
 00:22:01,170 --> 00:22:02,930
 Ja! Hab Fleisch mitgebracht!
 
-331
+332
 00:22:02,930 --> 00:22:04,300
 Los, Echse!
 
-332
+333
 00:22:04,300 --> 00:22:05,180
 Gum-Gum...
 
-333
+334
 00:22:05,180 --> 00:22:05,850
 Drachen…
 
-334
+335
 00:22:05,850 --> 00:22:06,760
 Épaule...
 
-335
+336
 00:22:06,760 --> 00:22:07,260
 … Peitsche!
 
-336
+337
 00:22:07,260 --> 00:22:07,810
 …tornado!
 
-337
+338
 00:22:07,810 --> 00:22:08,390
 ...Shoot!
 
-338
+339
 00:22:17,110 --> 00:22:18,860
 I-Ihr hättet nicht so
 weit gehen müssen...
 
-339
+340
 00:22:18,860 --> 00:22:22,320
 Wenn die kämpfen,
 tun einem die Monster leid.
 
-340
+341
 00:22:30,160 --> 00:22:33,620
 Seht nur! Diese Felsen sind
 natürliche Bratpfannen!
 
-341
+342
 00:22:34,670 --> 00:22:37,840
 Und? Was ist mit dem Kamel?
 
-342
+343
 00:22:39,630 --> 00:22:40,380
 Keine Ahnung.
 
-343
+344
 00:22:40,380 --> 00:22:43,970
 Es wurde von einer seltsamen Pflanze
 gefressen, als ich die Vögel verfolgt habe.
 
-344
+345
 00:22:43,970 --> 00:22:46,140
 Scheint kein wildes Kamel zu sein.
 
-345
+346
 00:22:46,140 --> 00:22:49,060
 Nein. Es trägt immerhin einen Sattel...
 
-346
+347
 00:22:50,180 --> 00:22:54,140
 Ist ja toll! Wir können darauf reiten?
 Das macht alles einfacher.
 
-347
+348
 00:22:54,140 --> 00:22:57,610
 Ja, das wäre echt hilfreich.
 Platz für zwei Leute.
 
-348
+349
 00:22:57,980 --> 00:23:00,480
 Kamele und Wüsten
 passen gut zusammen.
 
-349
+350
 00:23:00,480 --> 00:23:02,780
 Dann reite ich dich als Erstes.
 
-350
+351
 00:23:03,990 --> 00:23:04,990
 Was sollte das?
 
-351
+352
 00:23:05,490 --> 00:23:09,240
 „Ich bin ein freiheitsliebendes,
 hartgesottenes, barmherziges Kamel.“
 
-352
+353
 00:23:09,240 --> 00:23:12,250
 „Danke, dass ihr mir aus
 der Klemme geholfen habt.“
 
-353
+354
 00:23:12,250 --> 00:23:15,830
 „Ich kann gerne wen von euch
 mitnehmen, aber keine Männer.“
 
-354
+355
 00:23:19,420 --> 00:23:20,960
 „Ich bin halt ein ganzer Mann!“
 
-355
+356
 00:23:21,760 --> 00:23:24,300
 – Sei nicht albern!
 – Was soll das?
 
-356
+357
 00:23:25,630 --> 00:23:29,640
 Tut mir so leid. Meine
 Kameraden sind so verzogen.
 
-357
+358
 00:23:29,640 --> 00:23:32,220
 Du bist ein braver Junge!
 Wie sollen wir dich nennen?
 
-358
+359
 00:23:32,220 --> 00:23:33,220
 Vollhorst!
 
-359
+360
 00:23:33,220 --> 00:23:33,890
 Blödian!
 
-360
+361
 00:23:33,890 --> 00:23:34,680
 Depp!
 
-361
+362
 00:23:34,680 --> 00:23:36,350
 „Wimper“ wäre doch passend!
 
-362
+363
 00:23:36,350 --> 00:23:38,730
 Ähm, das ist der schrägste Vorschlag.
 
-363
+364
 00:23:39,310 --> 00:23:41,150
 Gut! Steig auf, Vivi!
 
-364
+365
 00:23:41,150 --> 00:23:44,110
 Ach, ich kann noch laufen.
 
-365
+366
 00:23:44,110 --> 00:23:45,030
 Nun komm schon rauf.
 
-366
+367
 00:23:45,030 --> 00:23:46,780
 Perverses Kamel!
 
-367
+368
 00:23:45,990 --> 00:23:46,780
 Perverses Kamel!
 
-368
+369
 00:23:46,780 --> 00:23:50,490
 – Perverses Kamel! Perverses Kamel! – Perverses Kamel! Perverses Kamel!
 
-369
+370
 00:23:51,080 --> 00:23:53,750
 Jetzt sollte es besser laufen.
 
-370
+371
 00:23:53,750 --> 00:23:57,790
 Wir müssen schnellstmöglich nach Yuba,
 um mit den Rebellen zu reden.
 
-371
+372
 00:23:58,330 --> 00:23:59,540
 Hepp, Wimper!
 
-372
+373
 00:24:00,880 --> 00:24:02,210
 Wartet mal!
 
-373
+374
 00:24:02,670 --> 00:24:06,800
 Schnell, Jungs! Wenn wir getrennt werden,
 kommt ihr hier nicht lebend raus!
 
-374
+375
 00:24:06,800 --> 00:24:07,800
 Am Arsch!
 
-375
+376
 00:24:07,800 --> 00:24:09,800
 Diese Seite von dir
 mag ich auch, Nami!
 
-376
+377
 00:24:09,800 --> 00:24:11,050
 Ihnen nach! Schnell!
 
-377
+378
 00:24:11,050 --> 00:24:12,010
 Steig auf, Chopper!
 
-378
+379
 00:24:12,010 --> 00:24:12,810
 Ja!
 
-379
+380
 00:24:12,810 --> 00:24:14,850
 Wartet auf uns!
-
-380
-00:08:02,380 --> 00:08:07,130
-Vor 2 Jahren
 
 381
 00:08:02,380 --> 00:08:07,130
@@ -1682,10 +1683,13 @@ Vor 2 Jahren
 Vor 2 Jahren
 
 383
-00:08:25,570 --> 00:08:31,160
-Hafenstadt (Nanohana)
+00:08:02,380 --> 00:08:07,130
+Vor 2 Jahren
 
 384
 00:08:25,570 --> 00:08:31,160
 Hafenstadt (Nanohana)
 
+385
+00:08:25,570 --> 00:08:31,160
+Hafenstadt (Nanohana)

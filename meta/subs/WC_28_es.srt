@@ -1,538 +1,542 @@
 1
-00:06:48,460 --> 00:06:51,740
-Mola
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
 00:06:48,460 --> 00:06:51,740
-Shi
+Mola
 
 3
 00:06:48,460 --> 00:06:51,740
-Chibukai
+Shi
 
 4
 00:06:48,460 --> 00:06:51,740
-Fansub!
+Chibukai
 
 5
 00:06:48,460 --> 00:06:51,740
-Doncella de dulce.
+Fansub!
 
 6
-00:07:32,550 --> 00:07:35,190
-Mola
+00:06:48,460 --> 00:06:51,740
+Doncella de dulce.
 
 7
 00:07:32,550 --> 00:07:35,190
-Shi
+Mola
 
 8
 00:07:32,550 --> 00:07:35,190
-Chibukai
+Shi
 
 9
 00:07:32,550 --> 00:07:35,190
-Fansub!
+Chibukai
 
 10
 00:07:32,550 --> 00:07:35,190
-Adorno.
+Fansub!
 
 11
+00:07:32,550 --> 00:07:35,190
+Adorno.
+
+12
 00:11:49,870 --> 00:11:55,400
 Rodea la costa suroeste de Whole 
 Cake Island con buques de guerra.
 
-12
+13
 00:13:07,590 --> 00:13:11,100
 Habla la Ministra Amande, 
 de la tarta de la Isla Nueces.
 
-13
-00:14:07,900 --> 00:14:10,950
-Mola
-
 14
 00:14:07,900 --> 00:14:10,950
-Shi
+Mola
 
 15
 00:14:07,900 --> 00:14:10,950
-Chibukai
+Shi
 
 16
 00:14:07,900 --> 00:14:10,950
-Fansub!
+Chibukai
 
 17
 00:14:07,900 --> 00:14:10,950
-Ola de dulces.
+Fansub!
 
 18
-00:16:10,850 --> 00:16:13,850
-Mola
+00:14:07,900 --> 00:14:10,950
+Ola de dulces.
 
 19
 00:16:10,850 --> 00:16:13,850
-Shi
+Mola
 
 20
 00:16:10,850 --> 00:16:13,850
-Chibukai
+Shi
 
 21
 00:16:10,850 --> 00:16:13,850
-Fansub!
+Chibukai
 
 22
 00:16:10,850 --> 00:16:13,850
-Espada de bestias: Karajishi (un león mitológico).
+Fansub!
 
 23
+00:16:10,850 --> 00:16:13,850
+Espada de bestias: Karajishi (un león mitológico).
+
+24
 00:16:45,430 --> 00:16:49,970
 Lo conseguiste-lamida.
 
-24
+25
 00:16:50,690 --> 00:16:52,930
 ¡No tiene sentido morir aquí!
 
-25
+26
 00:16:52,930 --> 00:16:55,580
 ¡El amanecer del mundo está cerca!
 
-26
+27
 00:16:55,580 --> 00:16:57,790
 ¡Debo volver!
 
-27
+28
 00:17:00,170 --> 00:17:02,630
 Qué buen hombre.
 
-28
+29
 00:17:02,630 --> 00:17:05,670
 Te lo reduciré a cincuenta años.
 
-29
+30
 00:17:05,670 --> 00:17:08,100
 Vive.
 
-30
+31
 00:17:09,290 --> 00:17:10,800
 En ese momento,
 
-31
+32
 00:17:10,800 --> 00:17:16,350
 si no hubieses dado tu ojo izquierdo, no cabe duda de que habrías muerto.
 
-32
+33
 00:17:17,880 --> 00:17:20,720
 ¿Tanto querías sobrevivir?
 
-33
+34
 00:17:22,370 --> 00:17:23,980
 Da igual.
 
-34
+35
 00:17:23,980 --> 00:17:26,930
 ¿Cuántos años tienes?
 
-35
+36
 00:17:26,930 --> 00:17:28,480
 Veintisiete.
 
-36
+37
 00:17:28,480 --> 00:17:35,120
 Te han quitado cincuenta años de vida,
  así que ya has vivido setenta y siete años.
 
-37
+38
 00:17:36,870 --> 00:17:40,580
 ¿Cuántos años más podrás vivir?
 
-38
+39
 00:17:42,110 --> 00:17:45,460
 Lo suficiente para 
 escoger dónde moriré.
 
-39
+40
 00:17:47,200 --> 00:17:48,470
 Por cierto,
 
-40
+41
 00:17:48,470 --> 00:17:52,850
 eras el capitán de los Piratas Nox...
 
-41
+42
 00:17:52,850 --> 00:17:56,810
 Nox significa noche, ¿verdad?
 
-42
+43
 00:17:56,810 --> 00:17:59,140
 Es un nombre muy negativo.
 
-43
+44
 00:17:59,650 --> 00:18:01,980
 Se dice que "no hay noche
  que dure mil años".
 
-44
+45
 00:18:03,110 --> 00:18:04,990
 Es decir,
 
-45
+46
 00:18:05,430 --> 00:18:08,910
 nox significa lo mismo que esto:
 
-46
+47
 00:18:09,760 --> 00:18:11,600
 "Antes del amanecer".
 
-47
+48
 00:18:12,830 --> 00:18:14,800
 Si puedo ser de ayuda...
 
-48
+49
 00:18:14,800 --> 00:18:17,790
 ...para el nuevo amanecer del mundo 
 que el señor y los demás esperan,
 
-49
+50
 00:18:17,790 --> 00:18:19,210
 estaré satisfecho.
 
-50
+51
 00:18:20,610 --> 00:18:24,690
 Tengo suficiente tiempo para ello.
 
-51
+52
 00:18:50,290 --> 00:18:51,690
 ¡Roger!
 
-52
+53
 00:18:51,690 --> 00:18:53,020
 ¡Oden-sama!
 
-53
+54
 00:18:53,020 --> 00:18:54,370
 ¡Llévenme con ustedes!
 
-54
+55
 00:18:56,420 --> 00:18:57,970
 ¡Haré lo que sea!
 
-55
+56
 00:18:57,970 --> 00:19:00,590
 ¡Llévenme con ustedes, por favor!
 
-56
+57
 00:19:02,120 --> 00:19:05,760
 Mocoso, tienes que esperar.
 
-57
+58
 00:19:05,760 --> 00:19:07,860
 ¡No soy un mocoso, soy Pedro!
 
-58
+59
 00:19:14,170 --> 00:19:17,190
 Mi tiempo tiene un límite.
 
-59
+60
 00:19:17,190 --> 00:19:18,520
 ¡Escucha!
 
-60
+61
 00:19:18,520 --> 00:19:22,690
 A cada persona siempre le llega su turno.
 
-61
+62
 00:19:24,230 --> 00:19:26,320
 ¡Espera pacientemente!
 
-62
+63
 00:19:26,320 --> 00:19:28,890
 A ti también te llegará...
 
-63
+64
 00:19:28,890 --> 00:19:31,940
 ...tu turno.
 
-64
+65
 00:19:33,060 --> 00:19:36,200
 Adiós, Pedro.
 
-65
+66
 00:19:37,530 --> 00:19:40,200
 ¡Entendido, Roger!
 
-66
+67
 00:19:50,300 --> 00:19:52,750
 ¡Pedro!
 
-67
+68
 00:19:52,750 --> 00:19:54,010
 Roger...
 
-68
+69
 00:19:54,020 --> 00:19:55,930
 ¿Qué pasa con él?
 
-69
+70
 00:19:59,980 --> 00:20:01,220
 ¡Dicen que murió!
 
-70
+71
 00:20:31,760 --> 00:20:33,050
 Yo...
 
-71
+72
 00:20:34,220 --> 00:20:37,240
 ...presentía que este 
 sería mi último viaje.
 
-72
+73
 00:20:37,240 --> 00:20:40,120
 ¡¿Qué dices, Pedro?!
 
-73
+74
 00:21:18,220 --> 00:21:20,280
 ¿Qué dices, Pedro?
 
-74
+75
 00:21:20,280 --> 00:21:24,200
 ¡Algún día comprenderás lo importante...
 
-75
+76
 00:21:24,200 --> 00:21:29,950
 ...que habrá sido dejar que Luffy 
 y los demás zarpen de aquí!
 
-76
+77
 00:21:37,370 --> 00:21:38,920
 ¡Escuchen!
 
-77
+78
 00:21:38,920 --> 00:21:42,000
 ¡Ustedes sigan avanzando!
 
-78
+79
 00:24:23,530 --> 00:24:26,040
 Cielos...
 
-79
+80
 00:24:26,040 --> 00:24:26,920
 ¡De pie!
 
-80
+81
 00:24:26,920 --> 00:24:28,530
 ¡Ponte de pie, Carrot!
 
-81
+82
 00:24:28,530 --> 00:24:30,260
 ¡Y toma la espada!
 
-82
+83
 00:24:30,260 --> 00:24:33,140
 Las espadas no van con ella.
 
-83
+84
 00:24:33,140 --> 00:24:33,900
 ¡Pedro!
 
-84
+85
 00:24:33,900 --> 00:24:35,650
 No te metas.
 
-85
+86
 00:24:35,650 --> 00:24:39,560
 Instruiré a Carrot para que 
 sea una gran espadachina.
 
-86
+87
 00:24:39,560 --> 00:24:42,160
 No hay una única 
 manera de fortalecerse.
 
-87
+88
 00:24:42,160 --> 00:24:45,040
 Tal vez haya un camino
  más apto para ella.
 
-88
+89
 00:24:47,110 --> 00:24:48,520
 ¿Qué es esto?
 
-89
+90
 00:24:50,740 --> 00:24:52,850
 Ponte en posición.
 
-90
+91
 00:24:54,770 --> 00:24:57,610
 Eso es más apropiado para ti.
 
-91
+92
 00:25:03,030 --> 00:25:06,310
 Puedes flotar en el aire.
 
-92
+93
 00:25:06,310 --> 00:25:08,750
 ¡Si aprovechas eso y tu electro,
 
-93
+94
 00:25:08,750 --> 00:25:12,890
 te volverás fuerte y adquirirás 
 un estilo de pelea propio!
 
-94
+95
 00:25:12,890 --> 00:25:13,920
 ¿De verdad?
 
-95
+96
 00:25:13,920 --> 00:25:15,500
 Sí.
 
-96
+97
 00:25:15,500 --> 00:25:17,220
 Atácame.
 
-97
+98
 00:25:17,220 --> 00:25:18,770
 Entrenaré contigo.
 
-98
+99
 00:25:18,770 --> 00:25:20,420
 ¡Muy bien!
 
-99
+100
 00:25:33,900 --> 00:25:37,080
 Pensé que no podría hacerme fuerte.
 
-100
+101
 00:25:37,080 --> 00:25:40,840
 No puedo creer que haya 
 un camino ideal para mí.
 
-101
+102
 00:25:40,840 --> 00:25:43,720
 Es todo gracias a ti, Pedro.
 
-102
+103
 00:25:43,720 --> 00:25:46,050
 Los métodos no importan.
 
-103
+104
 00:25:46,050 --> 00:25:49,880
 A partir de ahora, estarás preparada
  y serás una fuerte guerrera.
 
-104
+105
 00:25:52,250 --> 00:25:55,840
 A cada persona siempre le llega su turno.
 
-105
+106
 00:25:58,120 --> 00:26:00,210
 No te preocupes.
 
-106
+107
 00:30:17,900 --> 00:30:20,400
 ¡Coup de...
 
-107
+108
 00:30:23,400 --> 00:30:26,450
 ...Burst!
 
-108
+109
 00:30:51,170 --> 00:30:52,460
 ¡¿Volando?!
 
-109
+110
 00:31:12,010 --> 00:31:16,400
 MIRRO WORLD
 
-110
+111
 00:00:01,980 --> 00:00:05,650
 Mis sentimientos por ti palpitan intensamente.
 
-111
+112
 00:00:05,650 --> 00:00:09,280
 Si lo que buscas...
 
-112
+113
 00:00:09,280 --> 00:00:12,490
 ...es tener un poder sin límites,
 
-113
+114
 00:00:12,490 --> 00:00:14,860
 entonces muestra nuestros vínculos inalterables.
 
-114
+115
 00:00:14,860 --> 00:00:16,070
 Somos la esperanza.
 
-115
+116
 00:00:22,580 --> 00:00:28,800
 La alegría de nuestros corazones colisionando...
 
-116
+117
 00:00:29,460 --> 00:00:35,760
 ...y la tristeza al secarse las lágrimas de alegría...
 
-117
+118
 00:00:36,840 --> 00:00:43,350
 ...conéctalas y ondéalas...
 
-118
+119
 00:00:43,730 --> 00:00:50,230
 ...en lo más alto de este viento.
 
-119
+120
 00:00:50,230 --> 00:00:53,190
 ¿Por qué dejaste de buscar?
 
-120
+121
 00:00:53,610 --> 00:00:56,570
 ¿Por qué sigues luchando solo?
 
-121
+122
 00:00:56,990 --> 00:00:59,870
 Oye, ¿para qué futuro te has preparado?
 
-122
+123
 00:00:59,870 --> 00:01:03,370
 Ya has cumplido tu sueño.
 
-123
+124
 00:01:03,710 --> 00:01:07,380
 Mis sentimientos por ti palpitan intensamente.
 
-124
+125
 00:01:07,380 --> 00:01:11,000
 Si lo que buscas...
 
-125
+126
 00:01:11,000 --> 00:01:14,220
 ...es tener un poder sin límites,
 
-126
+127
 00:01:14,220 --> 00:01:16,550
 entonces muestra nuestros vínculos inmutables.
 
-127
+128
 00:01:16,550 --> 00:01:17,800
 Somos la esperanza.
 
-128
+129
 00:01:18,050 --> 00:01:20,850
 En los confines de este enorme mundo azul,
 
-129
+130
 00:01:21,470 --> 00:01:23,890
 hay un lugar al que quiero ir contigo.
 
-130
+131
 00:01:23,890 --> 00:01:26,640
 Si hay una ruta para llegar allí,
 
-131
+132
 00:01:26,640 --> 00:01:33,280
 ya lo decidimos hace mucho tiempo.
-

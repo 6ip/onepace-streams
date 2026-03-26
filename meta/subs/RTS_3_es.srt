@@ -1,537 +1,541 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:03:29,490 --> 00:03:33,630
 Esa es la situación, la Marina está en 
 movimiento y Luffy ya llegó al archipiélago.
 
-2
+3
 00:03:33,630 --> 00:03:38,100
 ¡Nos dirigimos al Grove 42, así que dense prisa!
 
-3
+4
 00:04:56,780 --> 00:04:58,220
 ¡Sí!
 
-4
+5
 00:06:46,890 --> 00:06:48,760
 ¡Sí!
 
-5
+6
 00:07:52,420 --> 00:07:53,420
 ¡Sí!
 
-6
+7
 00:09:16,210 --> 00:09:18,080
 ¡Capitán Doughty!
 
-7
+8
 00:09:24,280 --> 00:09:25,020
 ¡Sí!
 
-8
+9
 00:11:00,880 --> 00:11:02,850
 ¡¿Qué?!
 
-9
+10
 00:11:30,570 --> 00:11:32,580
 ...un impostor?!
 
-10
+11
 00:12:55,060 --> 00:12:58,130
 ¡Es la misma cara del cartel de recompensa!
 
-11
+12
 00:13:08,270 --> 00:13:09,010
 ¡Sí!
 
-12
+13
 00:14:24,950 --> 00:14:28,420
 ¡¿Destruyó al Pacifista de un solo golpe?!
 
-13
+14
 00:14:44,300 --> 00:14:45,540
 ¡Sí!
 
-14
+15
 00:15:16,930 --> 00:15:18,900
 ¡Apártate!
 
-15
+16
 00:15:54,440 --> 00:15:55,240
 ¡Sí, señor!
 
-16
+17
 00:20:04,520 --> 00:20:06,920
 ¡Eres la chica de Thriller Bark!
 
-17
+18
 00:21:56,870 --> 00:21:58,630
 ¡Oigan!
 
-18
+19
 00:23:18,910 --> 00:23:20,520
 Dos mujeres hermosas...
 
-19
+20
 00:25:11,830 --> 00:25:13,600
 Preciosidad... preciosidad...
 
-20
+21
 00:25:14,160 --> 00:25:15,990
 Preciosidad... preciosidad...
 
-21
+22
 00:25:40,890 --> 00:25:42,450
 Ahora, Luffy...
 
-22
+23
 00:25:42,450 --> 00:25:44,060
 ¡Aprovecha esta oportunidad!
 
-23
+24
 00:26:24,500 --> 00:26:26,470
 Parecen divertidos.
 
-24
+25
 00:26:30,140 --> 00:26:31,910
 ¡Sí, Nami-swan!
 
-25
+26
 00:26:30,140 --> 00:26:31,300
 ¡Sí!
 
-26
+27
 00:27:00,000 --> 00:27:01,970
 ¡¿Qué pasa?! ¡¿Qué sucede?!
 
-27
+28
 00:27:04,610 --> 00:27:05,710
 ¡¿Por qué?!
 
-28
+29
 00:27:10,550 --> 00:27:12,010
 ¡¿Qué?! ¡¿Bichos?!
 
-29
+30
 00:28:07,100 --> 00:28:10,140
 ¡¿Lluvia?! ¡¿En dónde?!
 
-30
+31
 00:28:10,140 --> 00:28:14,210
 ¡Si en todo Sabaody luce un sol de justicia!
 
-31
+32
 00:29:32,620 --> 00:29:34,220
 Ya veo...
 
-32
+33
 00:29:59,650 --> 00:30:01,780
 ¡¿Cómo que deprimida?!
 
-33
+34
 00:30:10,630 --> 00:30:13,200
 ¡¿Ave?! ¡¿Y qué hacen ustedes?!
 
-34
+35
 00:30:49,770 --> 00:30:51,100
 ¿Qué tal, Nami-san?
 
-35
+36
 00:30:51,100 --> 00:30:53,300
 ¿Puedes ver...
 
-36
+37
 00:30:53,300 --> 00:30:55,800
 ...lo mucho que he madurado?
 
-37
+38
 00:31:03,550 --> 00:31:05,610
 P-Pues...
 
-38
+39
 00:31:42,250 --> 00:31:44,920
 ¡¿Qué sucede?! ¡Responda, tropa número cinco!
 
-39
+40
 00:31:46,760 --> 00:31:49,020
 ¡Sanji-kyun, ahora es tu oportunidad!
 
-40
+41
 00:32:57,560 --> 00:32:58,990
 ¡Contraalmirante!
 
-41
+42
 00:32:59,960 --> 00:33:02,530
 Cuídate, Luffy.
 
-42
+43
 00:33:07,570 --> 00:33:08,700
 ¡Sí!
 
-43
+44
 00:33:19,410 --> 00:33:21,780
 ¡Sí!
 
-44
+45
 00:03:27,320 --> 00:03:33,760
 GROVE 41
 
-45
+46
 00:20:37,690 --> 00:20:42,460
 LITORAL DEL GROVE 42
 
-46
+47
 00:20:37,690 --> 00:20:42,460
 LUGAR DE REUNIÓN DE LOS SOMBRERO DE PAJA
 
-47
+48
 00:00:15,020 --> 00:00:17,750
 aru eiyuu no hanashi
 
-48
+49
 00:00:18,370 --> 00:00:21,560
 ou ni naru otoko no hanashi
 
-49
+50
 00:00:22,580 --> 00:00:25,550
 itsumo senkyou wa mattanashi
 
-50
+51
 00:00:25,880 --> 00:00:29,590
 funbatte biisan ni hadashi
 
-51
+52
 00:00:32,480 --> 00:00:32,950
 OH YEAH
 
-52
+53
 00:00:36,000 --> 00:00:37,540
 COME ON BABY
 
-53
+54
 00:00:41,000 --> 00:00:43,130
 OH YEAH
 
-54
+55
 00:00:44,910 --> 00:00:47,580
 yume oibito wa nayami
 
-55
+56
 00:00:48,310 --> 00:00:51,720
 tokidoki wa tarinai REACH
 
-56
+57
 00:00:52,700 --> 00:01:00,990
 jibun to mukiau tsukihi sono saki ni susumu tame ni
 
-57
+58
 00:01:01,250 --> 00:01:08,500
 sono te ni amarisou na ookisugiru yume
 
-58
+59
 00:01:09,410 --> 00:01:16,270
 aitsu ga ireba kanau ki ga shita
 
-59
+60
 00:01:16,760 --> 00:01:18,510
 TODAY IS THE DAY
 
-60
+61
 00:01:18,650 --> 00:01:20,800
 machikutabireta ze
 
-61
+62
 00:01:20,800 --> 00:01:24,840
 kimijika na oretachi ni mou yoru wa iranai
 
-62
+63
 00:01:24,840 --> 00:01:26,540
 TODAY IS THE DAY
 
-63
+64
 00:01:26,530 --> 00:01:28,700
 saikou no hi da ze
 
-64
+65
 00:01:28,830 --> 00:01:35,790
 tomatteta tokei ni keri irete yare
 
-65
+66
 00:01:35,920 --> 00:01:39,710
 FOR THE NEW WORLD
 
-66
+67
 00:01:40,030 --> 00:01:43,690
 FOR THE NEW WORLD
 
-67
+68
 00:01:43,950 --> 00:01:46,440
 FOR THE NEW WORLD
 
-68
+69
 00:01:46,440 --> 00:01:51,830
 sekai wa kawaru
 
-69
+70
 00:13:47,040 --> 00:13:51,560
 No puedo estar quieto, no puedo detenerme.
 
-70
+71
 00:13:51,390 --> 00:13:55,910
 Todavía no ha amanecido y no puedo esperar más.
 
-71
+72
 00:13:55,680 --> 00:13:57,640
 Uno, dos, rayo de sol, cuatro...
 
-72
+73
 00:13:57,690 --> 00:13:59,750
 ¡Vamos!
 
-73
+74
 00:14:00,950 --> 00:14:05,660
 Icen la bandera, comienza el amanecer de la aventura.
 
-74
+75
 00:14:06,330 --> 00:14:11,730
 Empecemos a hacer olas saltando desde nuestros sueños.
 
-75
+76
 00:14:11,670 --> 00:14:16,450
 Si quieren ir a un mundo increíble,
 
-76
+77
 00:14:16,250 --> 00:14:20,740
 su tenacidad será un requisito indispensable.
 
-77
+78
 00:14:20,910 --> 00:14:23,990
 ¿Acaso es un crimen ser descarado?
 
-78
+79
 00:14:23,690 --> 00:14:26,960
 Ser buscado significa ser un ganador.
 
-79
+80
 00:14:27,020 --> 00:14:31,760
 Nuestra única regla es la libertad.
 
-80
+81
 00:14:32,380 --> 00:14:37,310
 No nos dejamos llevar por las preocupaciones.
 
-81
+82
 00:14:37,710 --> 00:14:40,680
 Seré el primero en llegar al One Piece.
 
-82
+83
 00:14:40,480 --> 00:14:44,110
 Mi corazón lleno de sueños es enorme.
 
-83
+84
 00:14:44,450 --> 00:14:48,800
 Es importante que no nos despertemos.
 
-84
+85
 00:14:48,660 --> 00:14:51,650
 No puedo estar quieto, no puedo detenerme.
 
-85
+86
 00:14:51,430 --> 00:14:55,840
 Todavía no ha amanecido y no puedo esperar más.
 
-86
+87
 00:14:55,750 --> 00:14:57,870
 Uno, dos, rayo de sol, cuatro...
 
-87
+88
 00:14:57,740 --> 00:14:59,400
 ¡Vamos!
 
-88
+89
 00:15:39,270 --> 00:15:42,830
 Alcemos la voz a las puertas del Nuevo Mundo.
 
-89
+90
 00:15:44,420 --> 00:15:49,540
 Mostrémosles que pasamos de novatos a grandes estrellas.
 
-90
+91
 00:15:49,590 --> 00:15:54,200
 Si odian que todo sea predecible,
 
-91
+92
 00:15:54,410 --> 00:15:59,160
 es importante que sigan imaginando.
 
-92
+93
 00:15:59,180 --> 00:16:01,960
 El martillo da un golpe poderoso.
 
-93
+94
 00:16:01,860 --> 00:16:05,070
 Salta alto, según la ley de la elasticidad.
 
-94
+95
 00:16:05,060 --> 00:16:10,040
 Las heridas de nuestras rodillas acabarán sanando.
 
-95
+96
 00:16:10,650 --> 00:16:15,970
 Esperemos ansiosos la llegada de un tifón desconocido.
 
-96
+97
 00:16:15,970 --> 00:16:18,820
 Juré que seguiría sin detenerme.
 
-97
+98
 00:16:18,750 --> 00:16:22,600
 Y desde aquel día en que comenzó mi sueño...
 
-98
+99
 00:16:22,670 --> 00:16:26,720
 ...mi destino sigue siendo el mismo.
 
-99
+100
 00:16:26,730 --> 00:16:29,780
 No puedo estar quieto, no puedo detenerme.
 
-100
+101
 00:16:29,650 --> 00:16:33,700
 El sol de mi corazón jamás se pondrá.
 
-101
+102
 00:16:33,910 --> 00:16:36,020
 Uno, dos, rayo de sol, cuatro...
 
-102
+103
 00:16:36,030 --> 00:16:37,690
 ¡Vamos!
 
-103
+104
 00:16:41,590 --> 00:16:47,530
 Nosotros... llegamos hasta aquí,
 
-104
+105
 00:16:47,580 --> 00:16:50,470
 e iremos hasta donde nos lleven nuestros sueños.
 
-105
+106
 00:16:50,440 --> 00:16:55,390
 No dejaremos a nadie atrás.
 
-106
+107
 00:16:55,380 --> 00:16:58,430
 Seré el primero en llegar al One Piece.
 
-107
+108
 00:16:58,370 --> 00:17:02,140
 Mi corazón lleno de sueños es enorme.
 
-108
+109
 00:17:02,110 --> 00:17:06,350
 Es importante que no nos despertemos.
 
-109
+110
 00:17:06,370 --> 00:17:09,390
 No puedo estar quieto, no puedo detenerme.
 
-110
+111
 00:17:09,210 --> 00:17:13,470
 Todavía no ha amanecido y no puedo esperar más.
 
-111
+112
 00:17:13,340 --> 00:17:16,430
 Uno, dos, rayo de sol...
 
-112
+113
 00:17:17,420 --> 00:17:19,520
 Uno, dos, rayo de sol, cuatro...
 
-113
+114
 00:17:20,150 --> 00:17:23,720
 ¡Vamos!
 
-114
+115
 00:17:25,850 --> 00:17:27,790
 ¡Vamos!
 
-115
+116
 00:32:20,450 --> 00:32:24,850
 No puedo estar quieto, no puedo detenerme.
 
-116
+117
 00:32:24,680 --> 00:32:29,200
 Todavía no ha amanecido y no puedo esperar más.
 
-117
+118
 00:32:28,970 --> 00:32:30,930
 Uno, dos, rayo de sol, cuatro...
 
-118
+119
 00:32:30,980 --> 00:32:33,060
 ¡Vamos!
 
-119
+120
 00:32:34,240 --> 00:32:38,950
 Icen la bandera, comienza el amanecer de la aventura.
 
-120
+121
 00:32:39,620 --> 00:32:44,850
 Empecemos a hacer olas saltando desde nuestros sueños.
 
-121
+122
 00:32:44,960 --> 00:32:49,470
 Si quieren ir a un mundo increíble,
 
-122
+123
 00:32:49,540 --> 00:32:54,030
 su tenacidad será un requisito indispensable.
 
-123
+124
 00:32:54,200 --> 00:32:57,140
 ¿Acaso es un crimen ser descarado?
 
-124
+125
 00:32:56,980 --> 00:33:00,250
 Ser buscado significa ser un ganador.
 
-125
+126
 00:33:00,310 --> 00:33:05,050
 Nuestra única regla es la libertad.
 
-126
+127
 00:33:05,670 --> 00:33:11,000
 No nos dejamos llevar por las preocupaciones.
 
-127
+128
 00:33:11,000 --> 00:33:13,930
 Seré el primero en llegar al One Piece.
 
-128
+129
 00:33:13,770 --> 00:33:17,400
 Mi corazón lleno de sueños es enorme.
 
-129
+130
 00:33:17,740 --> 00:33:22,160
 Es importante que no nos despertemos.
 
-130
+131
 00:33:22,160 --> 00:33:24,940
 No puedo estar quieto, no puedo detenerme.
 
-131
+132
 00:33:24,720 --> 00:33:28,940
 Todavía no ha amanecido y no puedo esperar más.
 
-132
+133
 00:33:28,940 --> 00:33:31,160
 Uno, dos, rayo de sol, cuatro...
 
-133
+134
 00:33:31,660 --> 00:33:35,080
 ¡Vamos!
 
-134
+135
 00:33:35,040 --> 00:33:37,130
 ¡Vamos!
-

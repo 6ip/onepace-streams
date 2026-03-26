@@ -1,488 +1,492 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:02:13,170 --> 00:02:14,630
 ¡Ni en la tierra!
 
-2
+3
 00:04:12,400 --> 00:04:13,470
 ¡Chiffon!
 
-3
+4
 00:04:13,470 --> 00:04:15,410
 ¡Entréganos el pastel!
 
-4
+5
 00:04:15,410 --> 00:04:16,540
 ¡¿Eh?!
 
-5
+6
 00:05:01,640 --> 00:05:03,670
 ¡Sanji-san!
 
-6
+7
 00:05:08,310 --> 00:05:10,430
 ¡Pudding-sama!
 
-7
+8
 00:05:24,510 --> 00:05:28,130
 ¡S-Sí, padre!
 
-8
+9
 00:06:10,800 --> 00:06:15,820
 ¡El pastel está arriba del barco!
 
-9
+10
 00:06:47,260 --> 00:06:48,920
 ¡Pudding-sama!
 
-10
+11
 00:06:48,920 --> 00:06:50,330
 ¡Resista!
 
-11
+12
 00:07:13,740 --> 00:07:16,160
 ¡Lo atropellaron!
 
-12
+13
 00:07:54,160 --> 00:07:57,110
 Se ve feliz...
 
-13
+14
 00:09:02,000 --> 00:09:04,670
 ¡Señora!
 
-14
+15
 00:10:39,500 --> 00:10:42,260
 Mola
 
-15
+16
 00:10:39,500 --> 00:10:42,260
 Shi
 
-16
+17
 00:10:39,500 --> 00:10:42,260
 Chibukai
 
-17
+18
 00:10:39,500 --> 00:10:42,260
 Fansub!
 
-18
+19
 00:10:39,500 --> 00:10:42,260
 Mar infernal ardiente.
 
-19
+20
 00:12:38,540 --> 00:12:42,200
 ¡Oven-sama!
 
-20
+21
 00:13:30,990 --> 00:13:32,320
 ¡Sí!
 
-21
+22
 00:13:34,290 --> 00:13:36,580
 ¡Sí, señora!
 
-22
+23
 00:13:42,250 --> 00:13:44,950
 Nieto, cuyo nombre desconozco...
 
-23
+24
 00:13:44,950 --> 00:13:47,560
 ¿Eres feliz?
 
-24
+25
 00:13:48,230 --> 00:13:53,370
 Parece que tus padres
  te quieren muchísimo.
 
-25
+26
 00:13:53,370 --> 00:13:59,360
 Yo no pude hacer eso por mis hijos.
 
-26
+27
 00:13:59,360 --> 00:14:02,780
 ¿Aún no? ¿Aún no?
 
-27
+28
 00:14:11,080 --> 00:14:13,880
 ¡Linlin, ya nacieron!
 
-28
+29
 00:14:13,880 --> 00:14:15,560
 ¡Sí!
 
-29
+30
 00:14:15,560 --> 00:14:18,160
 Lola y Chiffon...
 
-30
+31
 00:14:18,160 --> 00:14:19,720
 Son gemelas.
 
-31
+32
 00:14:19,720 --> 00:14:21,480
 ¡¿Gemelas?!
 
-32
+33
 00:14:21,480 --> 00:14:23,500
 Quiero abrazarlas.
 
-33
+34
 00:14:23,500 --> 00:14:24,480
 ¡¿Eh?!
 
-34
+35
 00:14:25,300 --> 00:14:29,360
 Ya no te necesito.
 
-35
+36
 00:14:33,070 --> 00:14:34,770
 Vete de aquí.
 
-36
+37
 00:14:34,770 --> 00:14:36,320
 ¿Eh?
 
-37
+38
 00:14:36,320 --> 00:14:37,780
 ¿Linlin?
 
-38
+39
 00:14:37,780 --> 00:14:39,960
 ¿De qué estás hablando?
 
-39
+40
 00:14:39,960 --> 00:14:42,380
 ¡Soy su padre!
 
-40
+41
 00:14:42,380 --> 00:14:43,370
 ¡Somos...!
 
-41
+42
 00:14:43,370 --> 00:14:45,930
 ¿Ibas a decir "familia"?
 
-42
+43
 00:14:45,930 --> 00:14:47,750
 ¡Que no se te suban los humos!
 
-43
+44
 00:14:57,030 --> 00:14:59,050
 ¡Linlin!
 
-44
+45
 00:14:59,050 --> 00:15:01,680
 ¡Son mis hijas!
 
-45
+46
 00:15:01,680 --> 00:15:03,820
 ¡Por favor!
 
-46
+47
 00:15:03,820 --> 00:15:08,730
 ¡Déjame abrazarlas
  aunque sea una sola vez!
 
-47
+48
 00:15:09,450 --> 00:15:12,980
 ¡Linlin!
 
-48
+49
 00:15:12,980 --> 00:15:18,160
 Son mis hijas...
 
-49
+50
 00:15:19,440 --> 00:15:22,580
 Eso fue hace veintiséis años...
 
-50
+51
 00:15:23,500 --> 00:15:25,250
 Chiffon...
 
-51
+52
 00:15:25,250 --> 00:15:27,780
 Me alegra haberte
  visto al menos una vez.
 
-52
+53
 00:15:27,790 --> 00:15:32,170
 Aunque parece que
  te están persiguiendo,
 
-53
+54
 00:15:32,910 --> 00:15:36,630
 me alegra verte feliz.
 
-54
+55
 00:15:46,520 --> 00:15:50,060
 (Pronto dejaremos el mar ardiente).
 
-55
+56
 00:15:59,350 --> 00:16:01,950
 ¡Basta, mamá!
 
-56
+57
 00:16:01,950 --> 00:16:03,490
 ¡Cállate!
 
-57
+58
 00:16:04,610 --> 00:16:08,500
 ¡¿Por qué habré tenido gemelas?!
 
-58
+59
 00:16:08,510 --> 00:16:13,710
 ¡Seguro que eres
  un fracaso como Lola!
 
-59
+60
 00:16:13,710 --> 00:16:16,090
 ¡Ya no sigas!
 
-60
+61
 00:16:16,890 --> 00:16:21,590
 ¡Los hijos que no me sirven 
 para nada no son mi familia!
 
-61
+62
 00:16:25,690 --> 00:16:29,430
 ¡No me muestres tu cara!
 
-62
+63
 00:16:38,900 --> 00:16:42,240
 Siempre he estado preocupado...
 
-63
+64
 00:16:42,930 --> 00:16:45,740
 ¿Has pasado días difíciles?
 
-64
+65
 00:16:46,380 --> 00:16:49,450
 ¿Habrás tenido días
  llenos de soledad?
 
-65
+66
 00:16:49,450 --> 00:16:55,060
 Disculpa por no estar contigo 
 durante esos días.
 
-66
+67
 00:16:56,950 --> 00:16:58,680
 Sé que ya es tarde,
 
-67
+68
 00:16:59,280 --> 00:17:02,050
 pero déjame decirte lo siguiente.
 
-68
+69
 00:17:36,460 --> 00:17:38,420
 ¡Sí!
 
-69
+70
 00:17:38,420 --> 00:17:41,420
 EN EL MAR - SUNNY
 
-70
+71
 00:19:06,210 --> 00:19:10,800
 CHARLOTTE BAVAROIS
 
-71
+72
 00:19:06,210 --> 00:19:10,800
 HIJO VIGÉSIMO SEXTO DE LA FAMILIA CHARLOTTE
 
-72
+73
 00:21:52,040 --> 00:21:55,110
 DAIFUKU - HIJO TERCERO
  DE LA FAMILIA CHARLOTTE
 
-73
+74
 00:22:03,800 --> 00:22:07,580
 SMOOTHIE, GENERAL DULCE
 
-74
+75
 00:22:03,800 --> 00:22:07,580
 HIJA DÉCIMO CUARTA DE LA FAMILIA CHARLOTTE
 
-75
+76
 00:22:11,010 --> 00:22:16,430
 CINNAMON - HIJA DÉCIMO SEXTA
 
-76
-00:22:11,010 --> 00:22:16,430
-DE LA FAMILIA CHARLOTTE
-
 77
 00:22:11,010 --> 00:22:16,430
-CITRON - HIJA DÉCIMO QUINTA
+DE LA FAMILIA CHARLOTTE
 
 78
 00:22:11,010 --> 00:22:16,430
-DE LA FAMILIA CHARLOTTE
+CITRON - HIJA DÉCIMO QUINTA
 
 79
+00:22:11,010 --> 00:22:16,430
+DE LA FAMILIA CHARLOTTE
+
+80
 00:22:25,640 --> 00:22:27,370
 ¡Sí!
 
-80
+81
 00:22:35,450 --> 00:22:38,070
 ¿Y si los hundo?
 
-81
+82
 00:24:10,800 --> 00:24:12,190
 ¡Sí!
 
-82
+83
 00:25:20,640 --> 00:25:22,900
 ¿Qué dices, Pedro?
 
-83
+84
 00:25:23,730 --> 00:25:27,030
 ¡Algún día comprenderás lo importante...
 
-84
+85
 00:25:27,030 --> 00:25:32,250
 ...que habrá sido dejar que Luffy 
 y los demás zarpen de aquí!
 
-85
+86
 00:25:35,330 --> 00:25:36,670
 Pelearé...
 
-86
+87
 00:25:36,670 --> 00:25:38,720
 ...en tu lugar.
 
-87
+88
 00:25:40,540 --> 00:25:42,150
 ¡Pedro!
 
-88
+89
 00:27:26,490 --> 00:27:28,880
 ¡Pero cuando de verdad peleamos,
 
-89
+90
 00:27:28,880 --> 00:27:35,540
 terminamos así contra una 
 sola unidad de Kaidou, la de Jack!
 
-90
+91
 00:27:35,540 --> 00:27:38,850
 ¡Pero no permitiremos que vuelva a suceder!
 
-91
+92
 00:27:38,850 --> 00:27:41,420
 ¡No caeremos de nuevo!
 
-92
+93
 00:27:41,420 --> 00:27:43,470
 También tenemos un as bajo la manga.
 
-93
+94
 00:27:43,470 --> 00:27:49,510
 ¡La próxima vez que peleemos les
  mostraremos el verdadero poder de los mink!
 
-94
+95
 00:29:08,510 --> 00:29:09,290
 ¡Sí!
 
-95
+96
 00:00:05,600 --> 00:00:09,050
 ¡Sí, tenemos superpoderes!
 
-96
+97
 00:00:11,060 --> 00:00:14,510
 ¡Sí, tenemos superpoderes!
 
-97
+98
 00:00:16,440 --> 00:00:19,890
 ¡Sí, tenemos superpoderes!
 
-98
+99
 00:00:21,980 --> 00:00:25,320
 ¡Sí, tenemos superpoderes!
 
-99
+100
 00:00:25,320 --> 00:00:28,000
 Tu sueño es de un tamaño monstruoso.
 
-100
+101
 00:00:28,000 --> 00:00:30,710
 Cuando se rompa la prisión de tu pecho...
 
-101
+102
 00:00:30,710 --> 00:00:33,220
 ...adéntrate al paraíso...
 
-102
+103
 00:00:33,220 --> 00:00:35,040
 ...que lleva escrito "vete al infierno".
 
-103
+104
 00:00:35,040 --> 00:00:36,000
 En todo momento...
 
-104
+105
 00:00:36,000 --> 00:00:37,750
 ¡Peligroso, peligroso!
 
-105
+106
 00:00:37,750 --> 00:00:38,610
 ¡Nos gusta!
 
-106
+107
 00:00:38,610 --> 00:00:40,660
 ¡Grave, grave!
 
-107
+108
 00:00:40,660 --> 00:00:41,710
 ¡Oh!
 
-108
+109
 00:00:41,710 --> 00:00:45,900
 Este sueño malherido algún día...
 
-109
+110
 00:00:45,900 --> 00:00:51,310
 ...se convertirá en uno de mis valiosos tesoros.
 
-110
+111
 00:00:51,310 --> 00:00:55,070
 Un extraño entusiasmo une a los compañeros.
 
-111
+112
 00:00:55,070 --> 00:01:00,670
 ¿Vivir plenamente es una aventura?
 
-112
+113
 00:01:00,670 --> 00:01:03,100
 ¡Sí, tenemos superpoderes!
 
-113
+114
 00:01:03,100 --> 00:01:08,820
 Confiemos en el mayor de los sueños y en los lazos con los rivales.
 
-114
+115
 00:01:08,820 --> 00:01:11,630
 Fallar también tiene su encanto.
 
-115
+116
 00:01:11,630 --> 00:01:14,570
 ¡Sí, tenemos superpoderes!
 
-116
+117
 00:01:16,410 --> 00:01:19,740
 ¡Sí, somos superpoderosos!
 
-117
+118
 00:01:21,880 --> 00:01:25,160
 ¡Sí, somos superpoderosos!
 
-118
+119
 00:01:27,330 --> 00:01:30,660
 ¡Sí, somos superpoderosos!
 
-119
+120
 00:01:32,750 --> 00:01:36,160
 ¡Sí, somos superpoderosos!
-

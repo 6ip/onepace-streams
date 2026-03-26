@@ -1,1815 +1,1816 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:57,010 --> 00:01:59,140
 Etkö sinä pikkurosvo koskaan opi?!
 
-2
+3
 00:01:59,140 --> 00:02:01,810
 Päästä! Maksan sitten isona!
 
-3
+4
 00:02:02,190 --> 00:02:02,940
 Luonnossa!
 
-4
+5
 00:02:02,940 --> 00:02:03,650
 Typerys!
 
-5
+6
 00:02:04,020 --> 00:02:05,610
 Taasko itketätte poikia?
 
-6
+7
 00:02:05,610 --> 00:02:07,570
 Ne käy hermoille!
 
-7
+8
 00:02:07,570 --> 00:02:09,650
 Noh, lapset ovat lapsia.
 
-8
+9
 00:02:09,650 --> 00:02:11,740
 Sanoivat mandariinejasi yököttäviksi!
 
-9
+10
 00:02:11,740 --> 00:02:12,570
 Senkin nilkit!
 
-10
+11
 00:02:12,570 --> 00:02:13,530
 Bell-mère!
 
-11
+12
 00:02:14,740 --> 00:02:16,450
 Älkää antako päihittää itseänne...
 
-12
+13
 00:02:17,700 --> 00:02:21,410
 Tyttöjenkin täytyy olla vahvoja...
 
-13
+14
 00:02:21,410 --> 00:02:23,290
 Älkää hakeko ihmisiltä kiitosta!
 
-14
+15
 00:02:24,370 --> 00:02:26,710
 Älkää katkeroituko maailmalle
 johon synnyitte...!
 
-15
+16
 00:02:30,380 --> 00:02:34,470
 Säilyttäkää vain nauru sydämessänne...
 
-16
+17
 00:02:37,640 --> 00:02:43,640
 – Bell-mère!
 – Bell-mère!
 
-17
+18
 00:02:46,560 --> 00:02:49,570
 Mun valtani tietää
 rahattomille kuolemaa!
 
-18
+19
 00:02:49,570 --> 00:02:52,280
 Tajusitteko homman nimen, otukset?!
 
-19
+20
 00:02:55,450 --> 00:02:56,280
 Mikäs tää on?
 
-20
+21
 00:02:57,410 --> 00:02:58,410
 Merikartta!
 
-21
+22
 00:02:58,410 --> 00:02:59,370
 Eikä!
 
-22
+23
 00:02:59,780 --> 00:03:01,870
 Olen itse tehnyt sen!
 Se on tärkeä!
 
-23
+24
 00:03:01,870 --> 00:03:03,370
 Anna se!
 
-24
+25
 00:03:03,370 --> 00:03:04,830
 Säkö tämän piirsit?
 
-25
+26
 00:03:04,830 --> 00:03:06,970
 Anna se!
 
-26
+27
 00:03:05,460 --> 00:03:06,970
 Nami! Älä!
 
-27
+28
 00:03:07,540 --> 00:03:08,670
 Kappas!
 
-28
+29
 00:03:09,170 --> 00:03:11,000
 Tämäpä on kelpo kartta.
 
-29
+30
 00:03:11,960 --> 00:03:14,590
 Kakarasta voi olla hyötyä!
 Ottakaa mukaan!
 
-30
+31
 00:03:14,590 --> 00:03:15,720
 Jepsis!
 
-31
+32
 00:03:15,720 --> 00:03:17,260
 Ei!
 
-32
+33
 00:03:17,260 --> 00:03:19,760
 Päästä! Päästä! Ei!
 
-33
+34
 00:03:20,140 --> 00:03:22,220
 Irti Namista! Ketku!
 
-34
+35
 00:03:21,010 --> 00:03:22,220
 Odottakaas!
 
-35
+36
 00:03:22,640 --> 00:03:24,480
 Saittehan jo tytöstä rahat?
 
-36
+37
 00:03:24,480 --> 00:03:26,480
 Oli puhe, että jätätte rauhaan!
 
-37
+38
 00:03:26,480 --> 00:03:29,690
 Totta. Emme satuta,
 lainaamme vaan.
 
-38
+39
 00:03:29,690 --> 00:03:31,440
 Gen, auta!
 
-39
+40
 00:03:31,440 --> 00:03:33,110
 Käpälät irti lapsista!
 
-40
+41
 00:03:33,480 --> 00:03:34,110
 Kuroobi.
 
-41
+42
 00:03:39,070 --> 00:03:39,910
 Gen...!
 
-42
+43
 00:03:40,700 --> 00:03:42,290
 Gen! Gen!
 
-43
+44
 00:03:42,830 --> 00:03:44,250
 Gen!
 
-44
+45
 00:03:50,130 --> 00:03:52,840
 Pääset... pian vapaaksi, Nami...!
 
-45
+46
 00:03:53,380 --> 00:03:55,300
 Ette mene...!
 
-46
+47
 00:03:55,300 --> 00:03:58,800
 Ei enää! Antakaa olla!
 Ei tarvi pelastaa!
 
-47
+48
 00:03:59,430 --> 00:04:00,090
 Pyydän!
 
-48
+49
 00:04:00,090 --> 00:04:00,890
 Riitti jo.
 
-49
+50
 00:04:00,890 --> 00:04:02,350
 Minä... pelastan–
 
-50
+51
 00:04:05,640 --> 00:04:09,400
 Älkää vain kukaan enää kuolko!
 
-51
+52
 00:04:17,950 --> 00:04:22,070
 Joka ikinen veneemme
 oli upotettu...
 
-52
+53
 00:04:22,070 --> 00:04:26,540
 Yrityksemme lähettää
 Nojiko ja Nami pakoon merelle...
 
-53
+54
 00:04:26,540 --> 00:04:28,000
 Se oli turha.
 
-54
+55
 00:04:28,750 --> 00:04:31,500
 Kuten pelkäsin,
 merivoimatkin vitkastelevat.
 
-55
+56
 00:04:31,500 --> 00:04:33,380
 Saari on heidän.
 
-56
+57
 00:04:33,380 --> 00:04:35,880
 Bell-mère...
 Hän tiesi...
 
-57
+58
 00:04:36,380 --> 00:04:40,720
 Hän tiesi miten merirosvot toimivat,
 olihan hän merivoimissa.
 
-58
+59
 00:04:41,260 --> 00:04:44,350
 Hän arvasi, että pakotietä ei ollut...
 
-59
+60
 00:04:48,940 --> 00:04:51,150
 Namikin vietiin...
 
-60
+61
 00:04:51,600 --> 00:04:53,060
 Mitä ihmettä...
 
-61
+62
 00:04:53,060 --> 00:04:55,070
 minä nyt teen...
 
-62
+63
 00:04:55,690 --> 00:04:57,320
 Bell-mère?
 
-63
+64
 00:04:59,860 --> 00:05:02,530
 Selvitimme Arlongin
 joukon olinpaikan!
 
-64
+65
 00:05:02,530 --> 00:05:05,620
 Ne näyttävät jäävän saarelle!
 
-65
+66
 00:05:06,080 --> 00:05:07,410
 Nyt on päätöksen aika!
 
-66
+67
 00:05:07,790 --> 00:05:09,660
 Taistelemme ja kuolemme!
 
-67
+68
 00:05:09,660 --> 00:05:12,920
 Tai elämme peläten
 kuolemaa joka päivä,
 
-68
+69
 00:05:12,920 --> 00:05:15,550
 pannen toivomme
 hallituksen apuun!
 
-69
+70
 00:05:15,550 --> 00:05:16,750
 Jompikumpi on valittava!
 
-70
+71
 00:05:17,420 --> 00:05:20,470
 Luultavasti noille pärjäisi
 vain merivoimien päämaja!
 
-71
+72
 00:05:20,840 --> 00:05:23,970
 Mutta sillä lienee kädet täynnä
 Grand Linella.
 
-72
+73
 00:05:23,970 --> 00:05:28,100
 Avun saaminen sieltä
 on epätodennäköistä!
 
-73
+74
 00:05:28,100 --> 00:05:31,480
 Enkä minä voi hylätä Namia!
 
-74
+75
 00:05:31,980 --> 00:05:32,810
 Aion taistella!
 
-75
+76
 00:05:35,570 --> 00:05:36,940
 Sama täällä!
 
-76
+77
 00:05:36,940 --> 00:05:40,030
 En aio pelastaa henkeäni
 lapsen kustannuksella!
 
-77
+78
 00:05:40,360 --> 00:05:42,530
 Me ollaan kaikki perhettä!
 
-78
+79
 00:05:42,530 --> 00:05:45,620
 Taistelen vaikka henki menisi,
 kunhan Nami pelastuu!
 
-79
+80
 00:05:45,620 --> 00:05:47,990
 Bell-mère uhrasi itsensä
 lasten puolesta!
 
-80
+81
 00:05:48,410 --> 00:05:49,870
 Tällä kertaa näytämme niille!
 
-81
+82
 00:05:49,870 --> 00:05:52,580
 Jos yksi lähtee,
 vastuu lankeaa kuitenkin kaikille!
 
-82
+83
 00:06:00,380 --> 00:06:01,340
 Nami!
 
-83
+84
 00:06:02,800 --> 00:06:03,550
 Nami!
 
-84
+85
 00:06:03,550 --> 00:06:04,430
 Sehän on Nami!
 
-85
+86
 00:06:04,430 --> 00:06:05,340
 Oletko kunnossa?!
 
-86
+87
 00:06:05,930 --> 00:06:07,510
 Nami! Nami!
 
-87
+88
 00:06:08,390 --> 00:06:11,730
 Oletko kunnossa? Sattuuko?
 Tekikö ne mitään pahaa?
 
-88
+89
 00:06:14,520 --> 00:06:15,270
 Nami?
 
-89
+90
 00:06:15,270 --> 00:06:18,320
 Minä... liityn...
 
-90
+91
 00:06:18,320 --> 00:06:19,150
 Häh?
 
-91
+92
 00:06:19,940 --> 00:06:21,530
 Minä liityn...
 
-92
+93
 00:06:21,530 --> 00:06:23,740
 Arlongin joukkoon...
 
-93
+94
 00:06:24,610 --> 00:06:26,950
 Laadin heille merikarttoja!
 
-94
+95
 00:06:31,950 --> 00:06:34,040
 Mitä sinä puhut, Nami...?!
 
-95
+96
 00:06:34,790 --> 00:06:36,540
 Oletko järjiltäsi?!
 
-96
+97
 00:06:36,540 --> 00:06:39,250
 Tekivätkö ne jotain...?!
 
-97
+98
 00:06:39,250 --> 00:06:40,840
 Ne tekivät, eikö?
 
-98
+99
 00:06:40,840 --> 00:06:41,510
 Eivät.
 
-99
+100
 00:06:41,510 --> 00:06:42,880
 Uhkailivatko ne?!
 
-100
+101
 00:06:42,880 --> 00:06:44,300
 Niin sen täytyy olla!
 
-101
+102
 00:06:42,880 --> 00:06:43,840
 Eivät!
 
-102
+103
 00:06:44,300 --> 00:06:46,340
 Päästä irti!
 
-103
+104
 00:06:46,340 --> 00:06:47,390
 Nami...!
 
-104
+105
 00:06:47,890 --> 00:06:48,800
 Nami!
 
-105
+106
 00:06:52,640 --> 00:06:55,310
 Tuohan on... Arlongin tatuointi!
 
-106
+107
 00:06:56,440 --> 00:06:57,190
 Sinä...
 
-107
+108
 00:06:57,860 --> 00:06:58,980
 Nami...
 
-108
+109
 00:07:00,230 --> 00:07:01,860
 Katsokaa...
 
-109
+110
 00:07:01,860 --> 00:07:04,360
 Sain näin paljon rahaa.
 
-110
+111
 00:07:07,370 --> 00:07:10,450
 He sanoivat, että ostavat
 mitä vain tahdon...!
 
-111
+112
 00:07:10,450 --> 00:07:11,740
 Nami!
 
-112
+113
 00:07:13,290 --> 00:07:14,870
 Tätä et saa anteeksi!
 
-113
+114
 00:07:14,870 --> 00:07:17,580
 Miten saatoit liittyä
 merirosvoihin?!
 
-114
+115
 00:07:17,580 --> 00:07:19,460
 Ei heihin! Ei voi olla!
 
-115
+116
 00:07:19,460 --> 00:07:21,800
 Tajutako millaisia he ovat?!
 
-116
+117
 00:07:22,210 --> 00:07:23,340
 Mitä siitä!
 
-117
+118
 00:07:23,340 --> 00:07:26,430
 Jos oikein elämisestä palkitaan
 kuolemalla kuin Bell-mère,
 
-118
+119
 00:07:26,430 --> 00:07:29,430
 en enää tahdo elää oikein!
 
-119
+120
 00:07:31,560 --> 00:07:32,970
 Mitä höpiset...?!
 
-120
+121
 00:07:33,430 --> 00:07:35,100
 Bell-mère...
 
-121
+122
 00:07:36,190 --> 00:07:39,270
 Bell-mère kuoli meidän vuoksemme!
 
-122
+123
 00:07:39,270 --> 00:07:40,110
 Ja sinä–
 
-123
+124
 00:07:40,110 --> 00:07:41,900
 Anna olla, Nojiko.
 
-124
+125
 00:07:42,570 --> 00:07:43,860
 Poistu täältä, Nami!
 
-125
+126
 00:07:43,860 --> 00:07:46,700
 Älä enää astu jalallasi kylään!
 
-126
+127
 00:07:54,160 --> 00:07:55,330
 Nami!
 
-127
+128
 00:07:59,920 --> 00:08:01,840
 Järjetöntä...
 
-128
+129
 00:08:02,670 --> 00:08:08,090
 Eikö hän alun alkaenkaan
 pitänyt Bell-mèreä äitinään?!
 
-129
+130
 00:08:18,390 --> 00:08:19,730
 Ei pidä paikkaansa...
 
-130
+131
 00:08:20,860 --> 00:08:23,570
 Nami piti Bell-mèrestä hurjasti...
 
-131
+132
 00:08:30,820 --> 00:08:31,870
 Hei...
 
-132
+133
 00:08:32,490 --> 00:08:34,870
 Bell-mèrehän sanoi...
 
-133
+134
 00:08:36,000 --> 00:08:37,370
 että jos vain pysytään elossa,
 
-134
+135
 00:08:37,910 --> 00:08:40,750
 elämä tuo eteen iloisiakin asioita!
 
-135
+136
 00:08:41,330 --> 00:08:43,090
 Oltaisiin niin iloisia!
 
-136
+137
 00:08:45,250 --> 00:08:46,010
 Joo.
 
-137
+138
 00:08:46,550 --> 00:08:48,970
 Arlongin vietyä minut pois,
 
-138
+139
 00:08:48,970 --> 00:08:51,890
 kohdattiin viisi merivoimien alusta.
 
-139
+140
 00:08:51,890 --> 00:08:54,390
 Upottivat ne helposti.
 
-140
+141
 00:08:54,930 --> 00:08:57,930
 Enää tuskin tulee apuvoimia tälle saarelle.
 
-141
+142
 00:08:57,930 --> 00:09:01,270
 Meidän täytyy siis
 auttaa itseämme!
 
-142
+143
 00:09:02,350 --> 00:09:04,020
 Tein sopimuksen Arlongin kanssa...
 
-143
+144
 00:09:04,480 --> 00:09:06,650
 ostaakseni Cocoyashi-kylän.
 
-144
+145
 00:09:06,650 --> 00:09:08,400
 Ostat kylän?
 
-145
+146
 00:09:08,400 --> 00:09:10,150
 100 miljoonalla.
 
-146
+147
 00:09:12,280 --> 00:09:15,370
 Sen tehtyäni
 olemme kaikki vapaita.
 
-147
+148
 00:09:15,370 --> 00:09:17,910
 Kenenkään ei tarvitse enää kuolla!
 
-148
+149
 00:09:17,910 --> 00:09:21,120
 Siitä hyvästä liityin hänen
 joukkoon kartturiksi.
 
-149
+150
 00:09:21,120 --> 00:09:23,630
 Mutta 100 miljoonaa berryä?!
 
-150
+151
 00:09:23,630 --> 00:09:25,420
 Eihän sellaista summaa–
 
-151
+152
 00:09:25,420 --> 00:09:27,170
 Kerään kyllä koko summan!
 
-152
+153
 00:09:27,170 --> 00:09:28,510
 Mitä ikinä käykään!
 
-153
+154
 00:09:28,960 --> 00:09:33,220
 Kylä selviää vaivoin lunnaista,
 joten teen tämän yksin.
 
-154
+155
 00:09:33,970 --> 00:09:37,770
 Jos yritän hakea apua,
 jotakuta sattuu taas...
 
-155
+156
 00:09:44,110 --> 00:09:45,610
 Helppoa se ei ole.
 
-156
+157
 00:09:45,610 --> 00:09:46,400
 Niin.
 
-157
+158
 00:09:47,270 --> 00:09:51,530
 Bell-mèren murhaajien kanssa
 oleminen tulee olemaan rankkaa.
 
-158
+159
 00:09:52,110 --> 00:09:53,530
 Kyllä minä pärjään.
 
-159
+160
 00:09:53,530 --> 00:09:56,660
 Pidän vain iloisen ilmeen,
 vaikka olisin häntä kasvotusten!
 
-160
+161
 00:09:56,660 --> 00:09:58,580
 Päätin jo, etten itke enää!
 
-161
+162
 00:10:01,160 --> 00:10:03,620
 Päätin, että taistelen ihan yksin!
 
-162
+163
 00:10:21,350 --> 00:10:23,600
 Nami oli vasta kymmenen.
 
-163
+164
 00:10:23,600 --> 00:10:26,690
 Kuinka rankkaa luulette
 olleen hänelle
 
-164
+165
 00:10:26,690 --> 00:10:28,820
 ryhtyä taistelemaan ypöyksin?
 
-165
+166
 00:10:29,650 --> 00:10:33,360
 Pelastaakseen kylän hän siis
 teki tuollaisen sopimuksen...
 
-166
+167
 00:10:33,360 --> 00:10:34,110
 Hän...
 
-167
+168
 00:10:34,990 --> 00:10:38,080
 Mä listin ne saastat,
 jotka kiduttaa ihanaista Nami–
 
-168
+169
 00:10:39,030 --> 00:10:41,000
 M-mitä nyt, neiti...?!
 
-169
+170
 00:10:41,620 --> 00:10:42,790
 Sanoinhan jo!
 
-170
+171
 00:10:42,790 --> 00:10:45,370
 Tuon tulin juuri kieltämään!
 
-171
+172
 00:10:45,370 --> 00:10:47,750
 Jos melskaatte Namin "toverina",
 
-172
+173
 00:10:47,750 --> 00:10:49,500
 merirosvot alkavat epäilemään.
 
-173
+174
 00:10:49,920 --> 00:10:52,670
 Hänen kahdeksan vuoden
 työnsä valuu hukkaan!
 
-174
+175
 00:10:53,380 --> 00:10:55,550
 Älkää enää vaikeuttako
 hänen oloaan.
 
-175
+176
 00:10:56,340 --> 00:10:59,310
 Sitä paitsi yksin
 taistelemaan joutuvalle...
 
-176
+177
 00:10:59,310 --> 00:11:02,810
 on rankinta se, että joku
 kutsuu häntä toverikseen!
 
-177
+178
 00:11:16,950 --> 00:11:19,620
 Takaisin, senkin kakara!
 
-178
+179
 00:11:19,620 --> 00:11:22,120
 Julkeatkin varastaa aarteemme!
 
-179
+180
 00:11:22,540 --> 00:11:24,330
 Varastat piraateilta?!
 
-180
+181
 00:11:24,750 --> 00:11:26,120
 Niin!
 
-181
+182
 00:11:26,120 --> 00:11:29,590
 Käytän hyväksi vallitsevaa
 merirosvojen aikaa!
 
-182
+183
 00:11:29,920 --> 00:11:31,880
 Maistakoot omaa lääkettään!
 
-183
+184
 00:11:31,880 --> 00:11:34,220
 Sinähän olet loukkaantunut!
 
-184
+185
 00:11:34,220 --> 00:11:38,180
 Mokasin hiukan...
 Mutta katso, jo miljoona!
 
-185
+186
 00:11:38,180 --> 00:11:40,850
 Ei sillä ole nyt väliä!
 Haavasi täytyy sitoa!
 
-186
+187
 00:11:40,850 --> 00:11:42,770
 Olen kunnossa! Ei tämä mitään!
 
-187
+188
 00:11:43,640 --> 00:11:46,100
 Täältä sitä ei löydetä!
 
-188
+189
 00:11:46,100 --> 00:11:48,810
 Kerään rahaa vähitellen.
 
-189
+190
 00:11:48,810 --> 00:11:51,320
 Kun arkku on täysi,
 summa on koossa!
 
-190
+191
 00:11:55,240 --> 00:11:56,820
 Pitkä tie edessä...
 
-191
+192
 00:11:58,320 --> 00:12:00,030
 100 miljoonaa berryä...
 
-192
+193
 00:12:02,660 --> 00:12:06,620
 Kyllä se kesti... Mutta enää
 seitsemän miljoonaa...
 
-193
+194
 00:12:06,620 --> 00:12:09,830
 Pystyn hankkimaan summan
 yhdellä retkellä!
 
-194
+195
 00:12:10,540 --> 00:12:11,750
 Enää...
 
-195
+196
 00:12:11,750 --> 00:12:14,800
 yksi purjehdus ja
 kaikki palaa ennalleen!
 
-196
+197
 00:12:15,670 --> 00:12:20,890
 Kaikki Cocoyashissa—minä mukaan
 lukien—vapaudumme Arlongin vallasta!
 
-197
+198
 00:12:20,890 --> 00:12:22,510
 Silloin...
 
-198
+199
 00:12:22,930 --> 00:12:25,020
 Ja silloin, varmasti...
 
-199
+200
 00:12:25,560 --> 00:12:28,730
 voin taas nauraa
 sydämeni pohjasta...
 
-200
+201
 00:12:31,650 --> 00:12:33,270
 Bell-mère.
 
-201
+202
 00:12:49,920 --> 00:12:52,920
 Mitä merivoimat Namista...?
 
-202
+203
 00:12:53,290 --> 00:12:56,630
 Ei tarvitse kysellä.
 Opasta sinä vain.
 
-203
+204
 00:12:59,300 --> 00:13:03,180
 Miksi tuolla ukkelilla
 on päässään tuulihyrrä?
 
-204
+205
 00:13:03,850 --> 00:13:05,260
 Päheetä!
 
-205
+206
 00:13:12,600 --> 00:13:15,320
 Kas niin! Yksi ryöväys vielä!
 
-206
+207
 00:13:20,570 --> 00:13:21,700
 Gen?
 
-207
+208
 00:13:21,700 --> 00:13:23,200
 Ja sotilaita?
 
-208
+209
 00:13:27,910 --> 00:13:30,410
 Sinäkö olet Namina
 tunnettu rikollinen?
 
-209
+210
 00:13:32,370 --> 00:13:37,340
 Kuulemamme mukaan
 ryöväät piraattien aarteita.
 
-210
+211
 00:13:38,340 --> 00:13:43,720
 Valtion edustajina takavarikoimme
 rikollisilta ryöstetyn tavaran.
 
-211
+212
 00:13:45,760 --> 00:13:47,810
 Annan teille varoituksen.
 
-212
+213
 00:13:47,810 --> 00:13:50,060
 Olen Arlongin alipäällikkö.
 
-213
+214
 00:13:50,060 --> 00:13:53,150
 Jos puutut asioihini,
 Arlong ei katso sitä hyvällä!
 
-214
+215
 00:13:54,400 --> 00:13:55,900
 Hölmö tyttö.
 
-215
+216
 00:13:55,900 --> 00:13:59,650
 Luuletko meidän olevan
 tasavertaisia tässä asiassa?
 
-216
+217
 00:13:59,650 --> 00:14:01,200
 Etsikää ryöstösaalis!
 
-217
+218
 00:14:03,200 --> 00:14:04,110
 Odottakaa!
 
-218
+219
 00:14:09,620 --> 00:14:12,120
 Lopettakaa!
 
-219
+220
 00:14:16,960 --> 00:14:19,960
 Eikö merivoimilla olisi
 tärkeämpääkin tehtävää?!
 
-220
+221
 00:14:19,960 --> 00:14:23,840
 Arlongin sakki on murhannut ihmisiä ja tuhonnut kyliä!
 
-221
+222
 00:14:23,840 --> 00:14:25,050
 Tiedättehän!
 
-222
+223
 00:14:25,550 --> 00:14:29,260
 He ovat orjuuttaneet
 kaikki saarelaiset!
 
-223
+224
 00:14:29,260 --> 00:14:31,060
 Kuinka voitte sulkea silmänne...
 
-224
+225
 00:14:31,060 --> 00:14:34,600
 ja olla kiinnostuneempia yhdestä varkaasta?! Näinkö valtio toimii?!
 
-225
+226
 00:14:36,190 --> 00:14:38,360
 Sinäkö meitä määräät?
 
-226
+227
 00:14:38,360 --> 00:14:39,530
 Jatkakaa vain, miehet!
 
-227
+228
 00:14:39,940 --> 00:14:44,530
 Saaren väki on vuosien ajan
 odottanut teiltä apua!
 
-228
+229
 00:14:44,910 --> 00:14:48,030
 Kehtaattekin ohittaa
 heidät noin vain!
 
-229
+230
 00:14:48,410 --> 00:14:51,200
 Eversti! Mandariinipelto
 on epäilyttävä.
 
-230
+231
 00:14:51,200 --> 00:14:52,000
 Kaivakaa sieltä!
 
-231
+232
 00:14:55,870 --> 00:14:59,500
 Likaiset näpit irti
 Bell-mèren viljelyksistä!
 
-232
+233
 00:15:02,460 --> 00:15:04,220
 En luovuta teille rahojani!
 
-233
+234
 00:15:04,220 --> 00:15:06,470
 Ne ovat... Ne ovat...
 
-234
+235
 00:15:08,720 --> 00:15:12,720
 Rahat ovat Cocoyashi-kylän
 pelastamista varten!
 
-235
+236
 00:15:12,720 --> 00:15:16,940
 Onko merivoimilla muka
 oikeutta viedä sellaisia rahoja?!
 
-236
+237
 00:15:18,940 --> 00:15:20,320
 No no!
 
-237
+238
 00:15:20,320 --> 00:15:23,900
 Noinko puhuu takapajulan
 kyläseriffi everstille?
 
-238
+239
 00:15:24,900 --> 00:15:26,280
 Gen...?
 
-239
+240
 00:15:26,280 --> 00:15:28,240
 Miten sinä...?
 
-240
+241
 00:15:32,120 --> 00:15:34,080
 Tiesin kyllä, Nami...!
 
-241
+242
 00:15:36,460 --> 00:15:39,960
 En voinut uskoa
 miten toimit silloin.
 
-242
+243
 00:15:39,960 --> 00:15:41,840
 Siksi vaadin Nojikolta selitystä.
 
-243
+244
 00:15:41,840 --> 00:15:44,260
 Siitä asti kaikki
 kyläläiset ovat tietäneet,
 
-244
+245
 00:15:44,260 --> 00:15:48,800
 että liityit Arlongin sakkiin
 pelastaaksesi kylän.
 
-245
+246
 00:15:49,180 --> 00:15:52,180
 Me teeskentelimme.
 
-246
+247
 00:15:52,180 --> 00:15:55,060
 Jos olisimme kertoneet, et olisi
 
-247
+248
 00:15:55,060 --> 00:15:58,270
 halutessasikaan kyennyt
 pakenemaan Arlongia.
 
-248
+249
 00:15:58,810 --> 00:16:00,520
 Eihän...!
 
-249
+250
 00:16:02,980 --> 00:16:05,900
 Mihin pyrit tarinoillasi?
 
-250
+251
 00:16:05,900 --> 00:16:10,320
 Olette kaikki varkaita, ja tahdotte pidätetyiksi,
 
-251
+252
 00:16:10,320 --> 00:16:11,700
 niinkö?
 
-252
+253
 00:16:11,700 --> 00:16:16,290
 Hän tahtoo sanoa, että
 kukin meistä taistelee selvitäkseen!
 
-253
+254
 00:16:16,710 --> 00:16:20,670
 Mutta pelkästään sen vuoksi,
 ettei teistä ole apua!
 
-254
+255
 00:16:21,000 --> 00:16:24,710
 Ellette aio auttaa meitä,
 painukaa hiiteen täältä!
 
-255
+256
 00:16:25,260 --> 00:16:28,590
 Jos vitkastelette,
 Arlong käy laivanne kimppuun!
 
-256
+257
 00:16:28,590 --> 00:16:30,470
 Vai että herra Arlong?
 
-257
+258
 00:16:30,470 --> 00:16:32,300
 Miten lie...
 
-258
+259
 00:16:34,600 --> 00:16:36,180
 Eikö löydy vieläkään?!
 
-259
+260
 00:16:36,180 --> 00:16:39,480
 Ette etsi riisinjyvästä
 vaan 100 miljoonaa!
 
-260
+261
 00:16:40,850 --> 00:16:42,310
 Hei, sinä!
 
-261
+262
 00:16:42,310 --> 00:16:43,940
 Miten sinä tiedät summan?!
 
-262
+263
 00:16:45,780 --> 00:16:47,950
 Ai... 100 miljoonaako?
 
-263
+264
 00:16:47,950 --> 00:16:51,320
 Kunhan arvelin, että niillä main.
 
-264
+265
 00:17:02,210 --> 00:17:03,420
 Ei kai vain...!
 
-265
+266
 00:17:09,010 --> 00:17:12,010
 Ei kai vain Arlong
 lähettänyt teitä?!
 
-266
+267
 00:17:13,510 --> 00:17:15,390
 Jaa-a...
 
-267
+268
 00:17:15,390 --> 00:17:21,560
 Teemme vain sitä mitä
 viranomaisten kuuluukin.
 
-268
+269
 00:17:21,560 --> 00:17:23,980
 Läpimätää sakkia!
 
-269
+270
 00:17:23,980 --> 00:17:26,940
 Miten merisotilaat alentuvat
 piraattien juoksupojiksi?!
 
-270
+271
 00:17:29,240 --> 00:17:30,740
 Arlong!
 
-271
+272
 00:17:31,110 --> 00:17:32,490
 Se löytyi!
 
-272
+273
 00:17:40,790 --> 00:17:42,750
 Ihastuttavaa!
 
-273
+274
 00:17:42,750 --> 00:17:45,960
 Että sellainen reppana
 tytöntyllerö onkin jaksanut!
 
-274
+275
 00:17:45,960 --> 00:17:48,260
 Rahat ovat kuivuneessa
 veressä ja kurassa...
 
-275
+276
 00:17:48,260 --> 00:17:50,420
 Ei sillä väliä! Rahaa se silti on.
 
-276
+277
 00:17:53,550 --> 00:17:56,350
 Ja tästä 30 prosenttia kuuluu meille.
 
-277
+278
 00:17:56,350 --> 00:17:58,270
 Kädet irti...
 
-278
+279
 00:17:58,770 --> 00:18:02,020
 Kädet irti... Kädet irti...
 
-279
+280
 00:18:02,600 --> 00:18:04,350
 Nami...!
 
-280
+281
 00:18:04,350 --> 00:18:06,940
 Kädet irti...!
 Kädet irti...!
 
-281
+282
 00:18:06,940 --> 00:18:08,570
 Kädet irti!
 
-282
+283
 00:18:24,290 --> 00:18:25,630
 Nami...!
 
-283
+284
 00:18:31,130 --> 00:18:31,760
 Nojiko?!
 
-284
+285
 00:18:32,670 --> 00:18:33,970
 Nojiko!
 
-285
+286
 00:18:39,350 --> 00:18:41,810
 Tohtori! Tohtori!
 
-286
+287
 00:18:42,810 --> 00:18:44,690
 Mitä on tapahtunut, Gen?!
 
-287
+288
 00:18:44,690 --> 00:18:46,100
 Nojikoa ammuttiin!
 
-288
+289
 00:18:46,100 --> 00:18:47,310
 Kuka niin teki?!
 
-289
+290
 00:18:47,310 --> 00:18:48,440
 Sotilaat!
 
-290
+291
 00:18:48,440 --> 00:18:49,270
 Sotilaat?
 
-291
+292
 00:18:54,610 --> 00:18:55,570
 Nami...
 
-292
+293
 00:18:56,160 --> 00:18:57,910
 Moikka, Nami!
 
-293
+294
 00:18:57,910 --> 00:19:00,240
 Mitäs nyt? Voinko auttaa?
 
-294
+295
 00:19:02,580 --> 00:19:04,000
 Yhäkö olet täällä?!
 
-295
+296
 00:19:05,000 --> 00:19:08,750
 Tämä ei kuulu sinulle!
 Häivy saarelta ja sassiin!
 
-296
+297
 00:19:15,680 --> 00:19:17,220
 Arlong!
 
-297
+298
 00:19:17,220 --> 00:19:20,140
 Kovastipa tahdot kylää vapaaksi!
 
-298
+299
 00:19:20,510 --> 00:19:22,180
 Arlong!
 
-299
+300
 00:19:22,180 --> 00:19:25,190
 Tuo mulle 100 miljoonaa berryä.
 
-300
+301
 00:19:25,190 --> 00:19:28,980
 Sitten vapautan sut ja kyläsi!
 
-301
+302
 00:19:29,400 --> 00:19:30,730
 Arlong!
 
-302
+303
 00:19:30,730 --> 00:19:34,990
 Mieluummin kuolen kuin petän
 raha-asioissa, sellainen merenmies olen.
 
-303
+304
 00:19:34,990 --> 00:19:37,110
 Menköön vaikka vuosia.
 
-304
+305
 00:19:37,110 --> 00:19:38,780
 Lupaukseni pitää!
 
-305
+306
 00:19:39,620 --> 00:19:41,120
 Arlong!
 
-306
+307
 00:19:45,750 --> 00:19:47,710
 Mitä ihmettä se taas?
 
-307
+308
 00:19:49,840 --> 00:19:51,380
 Arlong!
 
-308
+309
 00:19:53,420 --> 00:19:54,420
 Kas!
 
-309
+310
 00:19:54,420 --> 00:19:58,010
 Mitäs meidän kyvykäs kartturi?
 
-310
+311
 00:19:58,010 --> 00:20:00,260
 Näytät äkäiseltä.
 
-311
+312
 00:20:00,850 --> 00:20:04,770
 Lähettämäsi sotilaat
 tulivat viemään rahani!
 
-312
+313
 00:20:05,520 --> 00:20:09,770
 Etkö ennemmin viillä mahaasi auki
 kuin petät raha-asioissa?!
 
-313
+314
 00:20:09,770 --> 00:20:11,270
 Miksi?!
 
-314
+315
 00:20:11,270 --> 00:20:13,480
 Petinkö muka lupakseni?
 
-315
+316
 00:20:13,900 --> 00:20:16,320
 Älä yritä! Kerroit
 merivoimille rahoi–
 
-316
+317
 00:20:18,530 --> 00:20:21,160
 Milloin mä muka petin lupaukseni?
 
-317
+318
 00:20:21,160 --> 00:20:22,200
 Kerro pois!
 
-318
+319
 00:20:30,290 --> 00:20:32,170
 Hemmetti...
 
-319
+320
 00:20:32,170 --> 00:20:34,250
 Hemmetin hemmetti!
 
-320
+321
 00:20:36,210 --> 00:20:37,340
 Ai jaa!
 
-321
+322
 00:20:37,340 --> 00:20:39,180
 Vai että rahasi on viety?
 
-322
+323
 00:20:39,180 --> 00:20:41,720
 Melkoinen epäonni.
 
-323
+324
 00:20:41,720 --> 00:20:44,060
 Mutta sopimus on selvä.
 
-324
+325
 00:20:44,060 --> 00:20:47,060
 Ellet tuo eteeni 100
 miljoonaa berryä,
 
-325
+326
 00:20:47,060 --> 00:20:51,230
 enpä taida voida luovuttaa kylää.
 
-326
+327
 00:20:52,650 --> 00:20:53,690
 Alhainen!
 
-327
+328
 00:20:56,780 --> 00:20:58,950
 Mitäs tuosta!
 Vaivaiset 100 milliä.
 
-328
+329
 00:20:58,950 --> 00:21:01,660
 Sen kuin kokoat uudelleen!
 
-329
+330
 00:21:04,700 --> 00:21:07,500
 Vai aiotko kenties livistää?
 
-330
+331
 00:21:08,960 --> 00:21:13,920
 Silloin tosin tapan joka ikisen
 Cocoyashin asukkaan.
 
-331
+332
 00:21:17,670 --> 00:21:18,920
 Nami...
 
-332
+333
 00:21:18,920 --> 00:21:21,680
 Me teeskentelimme.
 
-333
+334
 00:21:21,680 --> 00:21:24,930
 Jos olisimme kertoneet, et olisi
 
-334
+335
 00:21:24,930 --> 00:21:28,730
 halutessasikaan kyennyt
 pakenemaan Arlongia.
 
-335
+336
 00:21:33,650 --> 00:21:34,650
 Hm?
 
-336
+337
 00:21:34,650 --> 00:21:36,780
 Nytkö siis otat jalat allesi?
 
-337
+338
 00:21:39,860 --> 00:21:41,700
 Eikö pitäis mennä perään?
 
-338
+339
 00:21:41,700 --> 00:21:43,820
 Miksi muka?
 
-339
+340
 00:21:44,320 --> 00:21:46,830
 Ei hän livistä.
 
-340
+341
 00:21:46,830 --> 00:21:51,330
 Hän ei kehtaisi jättää
 kyläläisten henkiä vaaraan.
 
-341
+342
 00:21:52,330 --> 00:21:55,210
 Olet säkin ilkeä mies...
 
-342
+343
 00:21:55,210 --> 00:21:59,420
 En päästäisi Namin kaltaista
 lahjakasta kartturia.
 
-343
+344
 00:21:59,420 --> 00:22:02,680
 Mutta en ole mikään
 sydämetön hirviö.
 
-344
+345
 00:22:04,180 --> 00:22:09,270
 Lähteköön vapaasti, kun
 kaikki meret on kartoitettu!
 
-345
+346
 00:22:11,770 --> 00:22:15,400
 Siis vuosikymmenien päästä!
 
-346
+347
 00:22:15,400 --> 00:22:18,190
 Eihän tuohon pysty
 vuosisadassakaan!
 
-347
+348
 00:22:26,910 --> 00:22:28,740
 Tämä päättyy tähän!
 Aseet esiin!
 
-348
+349
 00:22:28,740 --> 00:22:29,830
 Me taistelemme!
 
-349
+350
 00:22:34,250 --> 00:22:38,750
 Gen! Ystävät!
 Älkää tehkö tyhmyyksiä!
 
-350
+351
 00:22:38,750 --> 00:22:41,420
 Ette saa kuolla!
 Se olisi kaiken loppu!
 
-351
+352
 00:22:42,010 --> 00:22:45,140
 Pysykää elossa!
 Muutoin kaikki päättyy!
 
-352
+353
 00:22:45,140 --> 00:22:47,180
 Kahdeksan vuotta sitten...
 
-353
+354
 00:22:47,510 --> 00:22:50,680
 vannoimme, ettemme heittäisi
 henkiämme turhaan!
 
-354
+355
 00:22:50,680 --> 00:22:53,180
 Vaikka miten paljon he
 meitä sortaisivatkaan,
 
-355
+356
 00:22:53,850 --> 00:22:58,650
 kunhan Nami pysyisi onnellisena,
 vannoimme sietävämme kaiken!
 
-356
+357
 00:22:58,650 --> 00:23:01,360
 Tässä on heidän vastauksena!
 
-357
+358
 00:23:01,740 --> 00:23:06,320
 Mahdollisuus vapauden
 ostamiseen on poissa!
 
-358
+359
 00:23:06,320 --> 00:23:07,240
 Mikä tärkeintä,
 
-359
+360
 00:23:07,780 --> 00:23:12,200
 emme voi antaa anteeksi sitä, että he
 pilkkasivat Namin hyvää sydäntä!
 
-360
+361
 00:23:12,200 --> 00:23:13,000
 Onko vastalauseita?!
 
-361
+362
 00:23:13,660 --> 00:23:15,250
 Taatusti ei! Mennään!
 
-362
+363
 00:23:15,250 --> 00:23:19,040
 Ollaan oltu valmiit jo aikaa sitten!
 
-363
+364
 00:23:19,460 --> 00:23:22,170
 Emme enää alistu hetkeksikään!
 
-364
+365
 00:23:24,130 --> 00:23:26,220
 Odottakaa, te kaikki!
 
-365
+366
 00:23:27,760 --> 00:23:29,050
 Nami!
 
-366
+367
 00:23:32,350 --> 00:23:33,850
 Vielä vähän!
 
-367
+368
 00:23:33,850 --> 00:23:35,480
 Odottakaa vielä vähän!
 
-368
+369
 00:23:35,480 --> 00:23:37,730
 Yritän taas!
 
-369
+370
 00:23:37,730 --> 00:23:39,770
 Kerään rahat uudelleen!
 
-370
+371
 00:23:40,270 --> 00:23:41,900
 Se käy helposti!
 
-371
+372
 00:23:41,900 --> 00:23:46,150
 Olen tottunut siihen, kyllä se
 onnistuu! Ei syytä huoleen!
 
-372
+373
 00:23:47,070 --> 00:23:49,570
 Eihän tämä ole menneeseen
 verrattuna mitään!
 
-373
+374
 00:23:51,830 --> 00:23:53,790
 Älkää vain kukaan enää kuolko!
 
-374
+375
 00:23:54,200 --> 00:23:55,410
 Te kaikki!
 
-375
+376
 00:23:55,410 --> 00:23:58,040
 Olen kunnossa!
 Kyllä minä pärjään!
 
-376
+377
 00:24:03,960 --> 00:24:05,590
 Riittää jo.
 
-377
+378
 00:24:05,590 --> 00:24:07,680
 Tiedät sen turhaksi.
 
-378
+379
 00:24:08,550 --> 00:24:13,010
 Olet taistellut hyvin... Kantanut
 taakkaasi yksin kaikki nämä vuodet...
 
-379
+380
 00:24:13,010 --> 00:24:16,390
 Liittyminen siihen joukkoon...
 
-380
+381
 00:24:16,390 --> 00:24:18,980
 oli takuulla tuskallista...!
 
-381
+382
 00:24:19,980 --> 00:24:22,360
 Olet taistellut hyvin.
 
-382
+383
 00:24:23,860 --> 00:24:25,150
 Gen...
 
-383
+384
 00:24:31,280 --> 00:24:33,410
 Sinun on aika jättää kylä.
 
-384
+385
 00:24:35,080 --> 00:24:35,830
 Gen?!
 
-385
+386
 00:24:36,870 --> 00:24:38,330
 Tee se vaan, Nami.
 
-386
+387
 00:24:38,330 --> 00:24:39,710
 M-Mutta...!
 
-387
+388
 00:24:40,460 --> 00:24:41,460
 Nami kulta...
 
-388
+389
 00:24:41,460 --> 00:24:42,540
 Nami...
 
-389
+390
 00:24:43,670 --> 00:24:46,920
 Sinulla on oveluutta!
 Ja myös unelma!
 
-390
+391
 00:24:46,920 --> 00:24:48,680
 Nojiko! Kaverit!
 
-391
+392
 00:24:50,180 --> 00:24:51,510
 En päästä teitä läpi!
 
-392
+393
 00:24:52,680 --> 00:24:54,180
 Lopettakaa tuo!
 
-393
+394
 00:24:54,180 --> 00:24:57,060
 En tahdo nähdä
 kenenkään kärsivän!
 
-394
+395
 00:24:59,690 --> 00:25:00,810
 Te kuolette...!
 
-395
+396
 00:25:01,810 --> 00:25:03,150
 Tiedämme sen.
 
-396
+397
 00:25:08,990 --> 00:25:12,320
 Turha estellä.
 Olemme valintamme tehneet!
 
-397
+398
 00:25:16,040 --> 00:25:17,620
 Väisty syrjään, Nami!
 
-398
+399
 00:25:19,620 --> 00:25:21,170
 Mennään, ystävät!
 
-399
+400
 00:25:21,170 --> 00:25:24,460
 Vaikka emme voittaisi,
 näytämme sisumme!
 
-400
+401
 00:26:00,580 --> 00:26:03,000
 Arlong...!
 
-401
+402
 00:26:04,710 --> 00:26:07,340
 Arlong! Arlong!
 
-402
+403
 00:26:09,590 --> 00:26:10,340
 Arlong!
 
-403
+404
 00:26:10,340 --> 00:26:14,890
 Arlong! Arlong! Arlong! Arlong!
 
-404
+405
 00:26:14,890 --> 00:26:15,470
 Ar–
 
-405
+406
 00:26:21,100 --> 00:26:22,440
 Luffy...
 
-406
+407
 00:26:26,190 --> 00:26:27,650
 No mitä?
 
-407
+408
 00:26:27,650 --> 00:26:29,780
 Et sinä mitään tiedä.
 
-408
+409
 00:26:29,780 --> 00:26:33,570
 Sinulla ei ole hajuakaan, mitä täällä
 on tapahtunut kahdeksan vuotta!
 
-409
+410
 00:26:33,570 --> 00:26:35,320
 Joo. En tiedäkään.
 
-410
+411
 00:26:36,120 --> 00:26:37,700
 Ei tämä kuulu sinulle!
 
-411
+412
 00:26:38,540 --> 00:26:41,160
 Käskinhän jo häipyä saarelta!
 
-412
+413
 00:26:41,160 --> 00:26:43,160
 Joo, käskit.
 
-413
+414
 00:26:43,160 --> 00:26:44,420
 Lähde sitten!
 
-414
+415
 00:26:44,420 --> 00:26:45,790
 En tarvitse sinua!
 
-415
+416
 00:26:45,790 --> 00:26:48,130
 Häivy! Lähde! Mene jo!
 
-416
+417
 00:26:48,130 --> 00:26:49,380
 Pois täältä!
 
-417
+418
 00:26:49,380 --> 00:26:52,880
 Mene pois! Häivy! Lähde!
 
-418
+419
 00:26:52,880 --> 00:26:54,430
 Lähde...!
 
-419
+420
 00:27:07,810 --> 00:27:08,980
 Luffy...
 
-420
+421
 00:27:10,480 --> 00:27:11,860
 Auta...
 
-421
+422
 00:27:24,120 --> 00:27:26,670
 Totta hemmetissä!
 
-422
+423
 00:27:29,540 --> 00:27:31,710
 Älkää koskeko mun aarteeseen!
 
-423
+424
 00:27:33,880 --> 00:27:35,220
 Luffy...
 
-424
+425
 00:27:41,680 --> 00:27:42,390
 Mentiin.
-
-425
-00:27:44,180 --> 00:27:45,140
-Jep!
 
 426
 00:27:44,180 --> 00:27:45,140
@@ -1820,127 +1821,130 @@ Jep!
 Jep!
 
 428
+00:27:44,180 --> 00:27:45,140
+Jep!
+
+429
 00:27:49,520 --> 00:27:50,570
 Hei!
 
-429
+430
 00:27:50,570 --> 00:27:52,360
 Oletteko kunnossa?!
 
-430
+431
 00:27:52,360 --> 00:27:54,320
 Arlongko tuon teki?!
 
-431
+432
 00:27:55,860 --> 00:27:57,070
 Väistyisittekö!
 
-432
+433
 00:27:57,950 --> 00:28:00,580
 Meillä on asiaa merenmiehille.
 
-433
+434
 00:28:01,330 --> 00:28:03,830
 Kun kuultiin totuus
 Isosisko Namista,
 
-434
+435
 00:28:03,830 --> 00:28:07,830
 nähtiin meidän velvollisuutena
 päihittää Arlong.
 
-435
+436
 00:28:07,830 --> 00:28:10,340
 Haastettiin se sitten taistoon...
 
-436
+437
 00:28:10,340 --> 00:28:12,960
 mutta hilkun verran tuli turpiin...!
 
-437
+438
 00:28:14,800 --> 00:28:19,050
 Sori. Ette pääse
 ohitsemme kuolemaan!
 
-438
+439
 00:28:19,050 --> 00:28:20,010
 Mitä?!
 
-439
+440
 00:28:20,350 --> 00:28:24,430
 Me odotellaan tässä
 saapuviksi eräitä miehiä.
 
-440
+441
 00:28:25,060 --> 00:28:26,520
 Miehiä?!
 
-441
+442
 00:28:26,980 --> 00:28:28,600
 Löisin vetoa siitä.
 
-442
+443
 00:28:29,100 --> 00:28:31,610
 He varmasti tulevat!
 
-443
+444
 00:28:46,700 --> 00:28:47,460
 – Siellähän he!
 – Siellähän he!
 
-444
+445
 00:29:03,470 --> 00:29:04,560
 Nuoko...?
 
-445
+446
 00:29:04,560 --> 00:29:07,600
 Keitä ihmeessä he oikein ovat?
 
-446
+447
 00:29:08,060 --> 00:29:10,690
 Tämän saaren ainut toivo.
 
-447
+448
 00:29:10,690 --> 00:29:15,530
 Jos he eivät kykene siihen, tämä saari—
 ei, koko East Blue—on mennyttä!
 
-448
+449
 00:29:16,230 --> 00:29:19,610
 Nuo neljä miestä tulivat
 muuttaakseen asioiden kulun.
 
-449
+450
 00:29:19,610 --> 00:29:23,120
 Painakaa heidän kasvonsa
 visusti mieleen!
 
-450
+451
 00:29:32,040 --> 00:29:33,170
 Väistykää!
 
-451
+452
 00:29:40,220 --> 00:29:45,050
 Hei... Luuletteko niiden haastajien
 olleen kenties Zoron sakkia?
 
-452
+453
 00:29:45,430 --> 00:29:48,180
 Zoron? Liian heikkoja siihen.
 
-453
+454
 00:29:48,180 --> 00:29:49,850
 Ei edes viitsitty tappaa.
 
-454
+455
 00:29:49,850 --> 00:29:51,640
 Naulan kantaan!
 
-455
+456
 00:30:05,200 --> 00:30:06,530
 Mitä hittoa?!
 
-456
+457
 00:30:09,250 --> 00:30:11,370
 Kukas teistä on Arlong?
-

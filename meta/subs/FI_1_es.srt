@@ -1,328 +1,332 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:02,990 --> 00:00:08,380
 El hombre que lo consiguió todo en este mundo,
  el legendario Rey de los Piratas, Gold Roger.
 
-2
+3
 00:00:08,380 --> 00:00:13,000
 Antes de morir, sus últimas palabras 
 inspiraron a muchos a aventurarse al mar.
 
-3
+4
 00:00:13,000 --> 00:00:14,680
 ¿Mis tesoros?
 
-4
+5
 00:00:14,680 --> 00:00:16,220
 Si los desean, se los daré.
 
-5
+6
 00:00:16,220 --> 00:00:19,870
 ¡Búsquenlos! ¡Los escondí todos en ese lugar!
 
-6
+7
 00:00:19,870 --> 00:00:22,690
 Muchos hombres zarpan en pos de sus sueños.
 
-7
+8
 00:00:22,690 --> 00:00:25,350
 El mundo se encuentra en la Gran Era de la Piratería.
 
-8
+9
 00:00:25,350 --> 00:00:29,310
 No puedo estar quieto, no puedo detenerme.
 
-9
+10
 00:00:29,310 --> 00:00:33,810
 Todavía no ha amanecido y no puedo esperar más.
 
-10
+11
 00:00:33,810 --> 00:00:37,480
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-11
+12
 00:00:38,970 --> 00:00:43,050
 Icen la bandera, comienza el amanecer de la aventura.
 
-12
+13
 00:00:44,410 --> 00:00:49,740
 Empecemos a hacer olas saltando desde nuestros sueños.
 
-13
+14
 00:00:49,740 --> 00:00:54,280
 Si quieren ir a un mundo increíble,
 
-14
+15
 00:00:54,280 --> 00:00:58,790
 su tenacidad será un requisito indispensable.
 
-15
+16
 00:00:59,110 --> 00:01:01,730
 ¿Acaso es un crimen ser descarado?
 
-16
+17
 00:01:01,730 --> 00:01:04,620
 Ser buscado significa ser un ganador.
 
-17
+18
 00:01:04,620 --> 00:01:10,500
 Nuestra única regla es la libertad.
 
-18
+19
 00:01:10,500 --> 00:01:15,990
 No nos dejamos llevar por las preocupaciones.
 
-19
+20
 00:01:15,990 --> 00:01:18,530
 Seré el primero en llegar al One Piece.
 
-20
+21
 00:01:18,530 --> 00:01:22,660
 Mi corazón lleno de sueños es enorme.
 
-21
+22
 00:01:22,660 --> 00:01:26,930
 Es importante que no nos despertemos.
 
-22
+23
 00:01:26,930 --> 00:01:29,570
 No puedo estar quieto, no puedo detenerme.
 
-23
+24
 00:01:29,570 --> 00:01:33,540
 Todavía no ha amanecido y no puedo esperar más.
 
-24
+25
 00:01:33,540 --> 00:01:37,330
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-25
+26
 00:01:38,760 --> 00:01:44,720
 Nosotros... llegamos hasta aquí,
 
-26
+27
 00:01:44,720 --> 00:01:47,620
 e iremos hasta donde nos lleven nuestros sueños.
 
-27
+28
 00:01:47,620 --> 00:01:52,700
 No dejaremos a nadie atrás.
 
-28
+29
 00:01:52,700 --> 00:01:55,300
 Juré que seguiría sin detenerme.
 
-29
+30
 00:01:55,300 --> 00:01:59,470
 Y desde aquel día en que comenzó mi sueño...
 
-30
+31
 00:01:59,470 --> 00:02:03,720
 ...mi destino sigue siendo el mismo.
 
-31
+32
 00:02:03,720 --> 00:02:06,240
 No puedo estar quieto, no puedo detenerme.
 
-32
+33
 00:02:06,240 --> 00:02:10,610
 El sol de mi corazón jamás se pondrá.
 
-33
+34
 00:02:10,610 --> 00:02:17,570
 Uno, dos, rayo de sol. Uno, dos, rayo de sol.
 
-34
+35
 00:02:18,750 --> 00:02:24,820
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-35
+36
 00:02:27,270 --> 00:02:30,040
 ¡Vamos!
 
-36
+37
 00:02:39,720 --> 00:02:43,650
 ARCHIPIÉLAGO SABAODY
 
-37
+38
 00:04:09,570 --> 00:04:13,930
 LUGAR DE REUNIÓN DE LOS FALSOS SOMBRERO DE PAJA
 
-38
+39
 00:05:25,270 --> 00:05:27,650
 ¡Oye! ¡Qué buen barco tienes!
 
-39
+40
 00:05:27,650 --> 00:05:31,730
 Pues es robado, mi casa se quemó y ahora vivo aquí.
 
-40
+41
 00:05:31,730 --> 00:05:33,960
 Ya veo, ¿cómo te llamas?
 
-41
+42
 00:05:33,960 --> 00:05:35,350
 Rayleigh.
 
-42
+43
 00:05:36,220 --> 00:05:41,320
 ¡Yo soy Roger! ¡Este encuentro 
 es obra del destino, Rayleigh!
 
-43
+44
 00:05:41,320 --> 00:05:44,760
 ¿Por qué no ponemos el mundo patas arriba?
 
-44
+45
 00:05:46,260 --> 00:05:47,870
 ¿El mundo?
 
-45
+46
 00:05:48,580 --> 00:05:51,110
 ¿Quién te has creído que eres?
 
-46
+47
 00:05:51,110 --> 00:05:52,130
 Vete.
 
-47
+48
 00:06:17,250 --> 00:06:20,600
 EN EL FONDO MARINO CERCA DEL ARCHIPIÉLAGO SABAODY
 
-48
+49
 00:07:57,890 --> 00:08:00,840
 ¡Se mueve! ¡Una preciosidad de carne y hueso!
 
-49
+50
 00:08:00,840 --> 00:08:02,390
 ¡Sanji!
 
-50
+51
 00:08:06,870 --> 00:08:08,610
 ¡¿Qué?!
 
-51
+52
 00:08:08,610 --> 00:08:10,770
 ¡Sanji ha salido al agua!
 
-52
+53
 00:08:17,390 --> 00:08:20,210
 ¡Ánimo!
 
-53
+54
 00:09:33,610 --> 00:09:36,220
 ¡Miren detrás!
 
-54
+55
 00:10:09,450 --> 00:10:11,600
 ¡¿Qué va a ser de nosotros?!
 
-55
+56
 00:11:03,680 --> 00:11:05,810
 ¿Tus secretos robóticos?
 
-56
+57
 00:11:10,150 --> 00:11:12,680
 ¡Oh, impresionante! ¡Habla como un robot!
 
-57
+58
 00:12:07,510 --> 00:12:09,110
 Te estaba esperando.
 
-58
+59
 00:12:10,580 --> 00:12:12,810
 ¡Maldito! ¡¿Qué haces tú aquí?!
 
-59
+60
 00:12:13,860 --> 00:12:17,250
 Misión cumplida.
 
-60
+61
 00:12:27,790 --> 00:12:30,800
 Soy un dirigente del Ejército Revolucionario.
 
-61
+62
 00:12:30,800 --> 00:12:34,340
 Tengo razones por las que deseo
  que esta tripulación escape.
 
-62
+63
 00:12:48,110 --> 00:12:50,580
 Ya no...
 
-63
+64
 00:12:50,580 --> 00:12:52,590
 ...me queda tiempo.
 
-64
+65
 00:14:02,590 --> 00:14:04,130
 Kuma...
 
-65
+66
 00:15:54,050 --> 00:15:55,370
 ¡Sí! ¡Sí!
 
-66
+67
 00:16:17,400 --> 00:16:18,460
 ¡Sí!
 
-67
+68
 00:16:25,820 --> 00:16:27,230
 ¡Sí!
 
-68
+69
 00:16:33,370 --> 00:16:34,250
 ¡¿Qué?!
 
-69
+70
 00:16:57,830 --> 00:16:58,930
 ¡Sí!
 
-70
+71
 00:17:00,170 --> 00:17:01,570
 ¿Vaca marina?
 
-71
+72
 00:17:11,860 --> 00:17:13,080
 ¡Sí!
 
-72
+73
 00:17:27,170 --> 00:17:29,680
 ¡Muere, maldito!
 
-73
+74
 00:17:29,680 --> 00:17:32,220
 ¡Gomu Gomu no Pistol!
 
-74
+75
 00:17:37,570 --> 00:17:38,280
 ¡Sí!
 
-75
+76
 00:17:45,660 --> 00:17:46,920
 ¡Sí!
 
-76
+77
 00:18:01,240 --> 00:18:02,310
 ¡Sí!
 
-77
+78
 00:18:08,280 --> 00:18:11,340
 ¡¿Qué?!
 
-78
+79
 00:19:09,770 --> 00:19:11,970
 ¡¿Eh?! ¡Roronoa Zoro!
 
-79
+80
 00:22:41,970 --> 00:22:43,580
 ¡¿Dos mil años?!
 
-80
+81
 00:23:18,180 --> 00:23:21,570
 Así que es una corriente marina misteriosa.
 
-81
+82
 00:25:35,690 --> 00:25:37,160
 ¿Eh?
-

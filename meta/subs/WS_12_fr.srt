@@ -1,1942 +1,1946 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:02:07,900 --> 00:02:09,720
 Je vais m'faire bouffer !
 
-2
+3
 00:02:09,870 --> 00:02:10,840
 Prends ça !
 
-3
+4
 00:02:26,680 --> 00:02:29,580
 Dégage de là, Icebarg !
 
-4
+5
 00:02:34,250 --> 00:02:37,140
 Tu fous quoi, Franky ?
 
-5
+6
 00:02:44,400 --> 00:02:47,840
 C'est à ça que tu passes ton temps,
 au lieu de bosser ?
 
-6
+7
 00:02:47,980 --> 00:02:50,140
 Tu construis
 que des trucs dangereux !
 
-7
+8
 00:02:50,340 --> 00:02:53,840
 Boucle-la !
 Occupe-toi de tes fesses, Ice-bruti !
 
-8
+9
 00:02:54,040 --> 00:02:57,500
 C'est mon précieux cuirassé,
 le Battle Franky !
 
-9
+10
 00:02:57,650 --> 00:03:00,770
 Je m'en fiche !
 Jette ça avant qu'un accident arrive.
 
-10
+11
 00:03:00,970 --> 00:03:04,280
 Je peux faire ce que je veux !
 C'est l'île de la décharge, ici.
 
-11
+12
 00:03:04,420 --> 00:03:08,330
 Tu vas voir, mon prochain cuirassé
 étalera les monstres marins !
 
-12
+13
 00:03:08,330 --> 00:03:09,600
 Dans tes rêves !
 
-13
+14
 00:03:09,600 --> 00:03:10,830
 Ils vont te bouffer, oui.
 
-14
+15
 00:03:10,830 --> 00:03:12,710
 – Sûrement pas !
 – Sûrement que si !
 
-15
+16
 00:03:12,710 --> 00:03:14,820
 – Sûrement pas !
 – Sûrement que si !
 
-16
+17
 00:03:17,900 --> 00:03:21,100
 Si t'es un homme...
 
-17
+18
 00:03:21,350 --> 00:03:23,730
 Vas-y franco !
 
-18
+19
 00:03:40,840 --> 00:03:43,100
 C'est bon, il est baptisé.
 
-19
+20
 00:03:43,270 --> 00:03:46,540
 C'est un bon navire, bien robuste.
 
-20
+21
 00:03:46,740 --> 00:03:48,410
 Pas vrai, Yokozuna ?
 
-21
+22
 00:03:49,550 --> 00:03:51,900
 On s'occupera des finitions demain.
 
-22
+23
 00:03:52,050 --> 00:03:53,810
 Allez, on se rentre.
 
-23
+24
 00:03:55,000 --> 00:03:57,130
 J'ai les crocs, moi.
 
-24
+25
 00:03:57,430 --> 00:03:59,290
 Je me demande ce qu'on mange.
 
-25
+26
 00:04:00,480 --> 00:04:01,290
 Hé !
 
-26
+27
 00:04:01,290 --> 00:04:03,800
 Attends-nous, m'sieur Tom !
 
-27
+28
 00:04:11,380 --> 00:04:14,850
 Ça fait combien de Battle Franky
 que tu construis, Franky ?
 
-28
+29
 00:04:15,060 --> 00:04:16,350
 J'en suis au huitième.
 
-29
+30
 00:04:16,500 --> 00:04:17,690
 J'y étais presque.
 
-30
+31
 00:04:17,690 --> 00:04:18,750
 Menteur !
 
-31
+32
 00:04:18,750 --> 00:04:21,630
 M'sieur Tom te laisse tout faire,
 alors tu t'y crois.
 
-32
+33
 00:04:21,630 --> 00:04:23,580
 Tu construis que des armes.
 
-33
+34
 00:04:23,580 --> 00:04:25,320
 Tais-toi, Ice-bruti !
 
-34
+35
 00:04:25,650 --> 00:04:29,110
 Qu'est-ce que tu dis, Franky-diot ?
 
-35
+36
 00:04:31,900 --> 00:04:35,830
 – "Franky-diot", excellent !
 – Ça suffit, vous deux.
 
-36
+37
 00:04:35,830 --> 00:04:38,200
 C'est lui qu'a commencé,
 m'dame Kokoro !
 
-37
+38
 00:04:39,040 --> 00:04:40,600
 Vraiment...
 
-38
+39
 00:04:41,120 --> 00:04:43,070
 Et monsieur Tom, vous rigolez trop.
 
-39
+40
 00:04:43,070 --> 00:04:45,400
 Qu'est-ce qu'il y a de drôle ?
 
-40
+41
 00:04:45,800 --> 00:04:47,850
 Tiens, au fait,
 
-41
+42
 00:04:48,000 --> 00:04:51,730
 un navire transportant du bois
 s'est encore fait attaquer par des pirates.
 
-42
+43
 00:04:51,880 --> 00:04:55,560
 Depuis la mort
 du Roi des Pirates, ça grouille.
 
-43
+44
 00:04:55,760 --> 00:04:59,800
 L'âge d'or de la piraterie
 aura raison de l'île si ça continue.
 
-44
+45
 00:05:00,000 --> 00:05:02,270
 On ne peut pas lutter.
 
-45
+46
 00:05:03,020 --> 00:05:04,800
 Avec les dégâts de l'Aqua Laguna,
 
-46
+47
 00:05:04,940 --> 00:05:08,950
 on doit s'approvisionner en bois
 et en acier auprès d'autres îles,
 
-47
+48
 00:05:09,120 --> 00:05:12,800
 mais la mer cruelle et les pirates
 sont des entraves au commerce.
 
-48
+49
 00:05:12,950 --> 00:05:16,310
 Les artisans sont au chômage
 et se disputent les rares clients.
 
-49
+50
 00:05:16,450 --> 00:05:19,380
 Tout le monde se bat,
 il n'y a plus de travail...
 
-50
+51
 00:05:20,070 --> 00:05:21,050
 Si rien ne change,
 
-51
+52
 00:05:21,350 --> 00:05:25,690
 Water Seven va devenir une île fantôme
 qui attend juste de sombrer.
 
-52
+53
 00:05:26,460 --> 00:05:32,230
 Dire qu'autrefois, Water Seven
 excellait dans la construction navale.
 
-53
+54
 00:05:32,420 --> 00:05:33,490
 Ouais !
 
-54
+55
 00:05:33,490 --> 00:05:36,560
 Même que m'sieur Tom
 a construit de super bateaux pirates.
 
-55
+56
 00:05:36,700 --> 00:05:39,290
 Apprends-moi à construire
 un bateau pirate !
 
-56
+57
 00:05:42,020 --> 00:05:44,010
 Pourquoi tu te marres ?
 
-57
+58
 00:05:44,490 --> 00:05:45,420
 Franky,
 
-58
+59
 00:05:45,420 --> 00:05:48,870
 les plans de bateaux pirates,
 ça n'existe pas.
 
-59
+60
 00:05:49,400 --> 00:05:53,320
 Si un navire arbore le pavillon noir,
 c'est un bateau pirate.
 
-60
+61
 00:05:53,470 --> 00:05:56,260
 Si c'est une mouette,
 il est de la Marine.
 
-61
+62
 00:05:56,460 --> 00:05:59,200
 Peu importe le type de navire
 qu'il construit,
 
-62
+63
 00:05:59,650 --> 00:06:04,090
 un homme doit toujours être fier
 des bateaux qu'il a créés !
 
-63
+64
 00:06:08,750 --> 00:06:10,850
 M'sieur Tom, tu dors pas ?
 
-64
+65
 00:06:11,490 --> 00:06:12,880
 Tu dessines quoi ?
 
-65
+66
 00:06:13,800 --> 00:06:16,270
 Un espoir, pour cette île.
 
-66
+67
 00:06:17,140 --> 00:06:18,220
 "Un espoir" ?
 
-67
+68
 00:06:18,420 --> 00:06:19,430
 Avec ça,
 
-68
+69
 00:06:19,730 --> 00:06:23,200
 on arrivera peut-être
 à remettre Water Seven sur pied.
 
-69
+70
 00:06:23,200 --> 00:06:24,940
 Allez, va dormir.
 
-70
+71
 00:06:25,410 --> 00:06:26,350
 D'accord.
 
-71
+72
 00:06:46,850 --> 00:06:49,000
 C'est la Cour d'assises navale !
 
-72
+73
 00:06:49,200 --> 00:06:51,000
 C'est quoi, cette Cour d'assises ?
 
-73
+74
 00:06:51,180 --> 00:06:52,890
 C'est un tribunal ambulant.
 
-74
+75
 00:06:52,890 --> 00:06:54,750
 Je me demande qui ils viennent juger.
 
-75
+76
 00:06:59,560 --> 00:07:01,850
 Attendez,
 m'sieur Tom a rien fait !
 
-76
+77
 00:07:02,000 --> 00:07:04,820
 Laissez-moi passer !
 Rendez-nous m'sieur Tom !
 
-77
+78
 00:07:05,100 --> 00:07:08,160
 Ça va bien, t'inquiète pas pour moi.
 
-78
+79
 00:07:11,450 --> 00:07:12,510
 M'sieur Tom ?
 
-79
+80
 00:07:12,670 --> 00:07:15,120
 M'sieur Tom !
 
-80
+81
 00:07:21,970 --> 00:07:24,350
 Pour avoir conçu l'Oro Jackson,
 
-81
+82
 00:07:24,550 --> 00:07:28,670
 le navire de Gold Roger,
 le Roi des Pirates récemment exécuté,
 
-82
+83
 00:07:29,400 --> 00:07:32,330
 et avoir ainsi aidé
 le plus grand criminel du monde,
 
-83
+84
 00:07:32,480 --> 00:07:35,390
 l'ingénieur Tom
 doit être déporté à Enies Lobby,
 
-84
+85
 00:07:35,650 --> 00:07:36,560
 où il sera
 
-85
+86
 00:07:36,830 --> 00:07:38,400
 exécuté !
 
-86
+87
 00:07:40,300 --> 00:07:41,500
 C'est terrible !
 
-87
+88
 00:07:41,650 --> 00:07:44,980
 Tom... Tom a été condamné à mort !
 
-88
+89
 00:07:45,640 --> 00:07:48,530
 Pour avoir construit
 le navire du Roi des Pirates.
 
-89
+90
 00:07:48,530 --> 00:07:49,650
 C'était couru.
 
-90
+91
 00:07:49,900 --> 00:07:52,800
 C'est comme ça,
 ce navire a fait des ravages partout.
 
-91
+92
 00:07:54,410 --> 00:07:59,090
 Un charpentier est libre de vendre
 ses navires à qui il le souhaite,
 
-92
+93
 00:07:59,090 --> 00:08:01,370
 mais le Roi des pirates
 est une exception.
 
-93
+94
 00:08:01,780 --> 00:08:05,900
 Ceux qui l'ont aidé dans ses crimes,
 d'une manière ou d'une autre,
 
-94
+95
 00:08:06,000 --> 00:08:09,420
 sont des individus dangereux
 qui méritent la mort.
 
-95
+96
 00:08:09,580 --> 00:08:11,840
 Emmenez le criminel.
 
-96
+97
 00:08:11,320 --> 00:08:11,840
 Bien.
 
-97
+98
 00:08:12,500 --> 00:08:13,220
 Allons-y.
 
-98
+99
 00:08:13,480 --> 00:08:14,550
 Secoue-toi un peu !
 
-99
+100
 00:08:15,120 --> 00:08:17,610
 Eh bien alors ?
 Pourquoi tu ne bouges pas ?
 
-100
+101
 00:08:17,610 --> 00:08:18,900
 Hé ! T'attends quoi ?
 
-101
+102
 00:08:19,050 --> 00:08:20,770
 En ce moment...
 
-102
+103
 00:08:21,280 --> 00:08:24,450
 Je travaille sur une machine à vapeur
 munie d'aubes
 
-103
+104
 00:08:24,600 --> 00:08:26,690
 qui suivrait des rails sur la mer.
 
-104
+105
 00:08:27,900 --> 00:08:29,750
 Dis donc ! Qui t'a dit de parler ?
 
-105
+106
 00:08:29,900 --> 00:08:30,570
 Sale...
 
-106
+107
 00:08:30,770 --> 00:08:33,260
 Le marasme
 qui paralyse cette île
 
-107
+108
 00:08:33,400 --> 00:08:36,620
 est causé par l'absence
 d'échanges commerciaux stables.
 
-108
+109
 00:08:36,770 --> 00:08:37,800
 De plus,
 
-109
+110
 00:08:38,250 --> 00:08:40,900
 le désespoir qui étouffe les habitants
 
-110
+111
 00:08:41,090 --> 00:08:44,460
 vient des incertitudes
 concernant l'avenir de l'île.
 
-111
+112
 00:08:44,860 --> 00:08:46,540
 Construire un Train des Mers
 
-112
+113
 00:08:47,000 --> 00:08:51,010
 permettrait de sauver Water Seven,
 sans le moindre doute.
 
-113
+114
 00:08:53,380 --> 00:08:55,820
 Désolé !
 On l'emmène tout de suite.
 
-114
+115
 00:08:55,820 --> 00:08:57,930
 Non, attendez un instant.
 
-115
+116
 00:08:57,320 --> 00:08:57,930
 Hein ?
 
-116
+117
 00:08:58,330 --> 00:09:00,970
 Un Train des Mers, vous dites ?
 
-117
+118
 00:09:01,350 --> 00:09:06,500
 Oui, un navire monté sur rails qui irait
 d'île en île dans un nuage de vapeur.
 
-118
+119
 00:09:06,770 --> 00:09:11,530
 Il transporterait des marchandises
 et des voyageurs quel que soit le temps.
 
-119
+120
 00:09:11,700 --> 00:09:15,000
 Tout le monde
 pourrait traverser l'océan.
 
-120
+121
 00:09:15,170 --> 00:09:16,700
 Il débloque, ou quoi ?
 
-121
+122
 00:09:16,880 --> 00:09:20,820
 Ses rails, à la première Aqua Laguna,
 ils finiront en allumettes.
 
-122
+123
 00:09:20,990 --> 00:09:22,020
 Ouais !
 
-123
+124
 00:09:22,020 --> 00:09:24,480
 Et t'oublies les monstres marins,
 aussi !
 
-124
+125
 00:09:24,480 --> 00:09:27,800
 Pas besoin de fixer les rails.
 
-125
+126
 00:09:28,230 --> 00:09:31,000
 Les vagues ne les affecteront pas
 
-126
+127
 00:09:31,000 --> 00:09:33,090
 s'ils flottent librement
 sous la surface.
 
-127
+128
 00:09:33,090 --> 00:09:38,060
 Le Train des Mers avancera sur ces rails
 comme s'il était tiré par une corde.
 
-128
+129
 00:09:38,260 --> 00:09:39,050
 En plus de ça,
 
-129
+130
 00:09:39,050 --> 00:09:42,480
 il y aura entre les rails et les aubes
 un système produisant
 
-130
+131
 00:09:42,620 --> 00:09:45,580
 un accord dissonant
 qui éloignera les poissons.
 
-131
+132
 00:09:45,980 --> 00:09:50,030
 Comme ça, les monstres marins
 ne pourront pas approcher des rails.
 
-132
+133
 00:09:50,230 --> 00:09:52,140
 C'est possible, ça ?
 
-133
+134
 00:09:52,540 --> 00:09:55,250
 Saint Poplar, Petit, San Faldo...
 
-134
+135
 00:09:55,250 --> 00:09:56,860
 Si on relie ces îles,
 
-135
+136
 00:09:57,130 --> 00:10:00,650
 les échanges commerciaux assureront
 la croissance industrielle.
 
-136
+137
 00:10:00,800 --> 00:10:01,740
 Formidable !
 
-137
+138
 00:10:02,020 --> 00:10:03,930
 J'aurai bientôt fini les plans
 
-138
+139
 00:10:03,930 --> 00:10:07,250
 mais il faudra un charpentier hors pair
 pour les réaliser.
 
-139
+140
 00:10:07,600 --> 00:10:10,330
 Et ce train
 pourrait desservir Enies Lobby ?
 
-140
+141
 00:10:10,500 --> 00:10:12,090
 Bien sûr que oui.
 
-141
+142
 00:10:14,110 --> 00:10:16,150
 Quand cette technologie sera en place,
 
-142
+143
 00:10:16,280 --> 00:10:18,280
 on pourra enfin franchir les océans,
 
-143
+144
 00:10:18,280 --> 00:10:21,680
 ça révolutionnera
 les échanges interinsulaires.
 
-144
+145
 00:10:22,020 --> 00:10:25,850
 Le Train des Mers,
 c'est l'espoir de Water Seven.
 
-145
+146
 00:10:26,250 --> 00:10:27,810
 Il vous faut combien d'années ?
 
-146
+147
 00:10:28,040 --> 00:10:29,270
 Dix ans.
 
-147
+148
 00:10:29,270 --> 00:10:30,980
 Alors, au travail !
 
-148
+149
 00:10:31,220 --> 00:10:35,350
 L'entrepreneur Tom
 bénéficie d'un sursis de dix ans
 
-149
+150
 00:10:35,500 --> 00:10:38,500
 pour mener à bien la construction
 du Train des Mers.
 
-150
+151
 00:10:40,140 --> 00:10:41,560
 Super !
 
-151
+152
 00:10:41,560 --> 00:10:43,400
 Accroche-toi, Tom !
 
-152
+153
 00:10:43,550 --> 00:10:46,300
 Sauve Water Seven !
 
-153
+154
 00:10:49,370 --> 00:10:51,300
 Eh ben, je suis pas mort !
 
-154
+155
 00:10:51,640 --> 00:10:53,900
 Ça n'a rien de drôle, monsieur Tom.
 
-155
+156
 00:10:54,050 --> 00:10:57,600
 J'ai cru que c'était la fin,
 ça m'a glacé l'échine.
 
-156
+157
 00:10:57,780 --> 00:11:02,000
 Mais si ça ne se complique pas,
 ils vont passer l'éponge, pour Roger.
 
-157
+158
 00:11:02,180 --> 00:11:05,560
 Ouais ! Y a pas à dire,
 t'es super, m'sieur Tom !
 
-158
+159
 00:11:05,560 --> 00:11:09,060
 Quelle idée de génie !
 Ils en étaient tous baba.
 
-159
+160
 00:11:09,270 --> 00:11:10,900
 Ce train, c'est vraiment...
 
-160
+161
 00:11:11,350 --> 00:11:12,390
 J'ai fini.
 
-161
+162
 00:11:12,390 --> 00:11:14,270
 Viens, Yokozuna,
 je vais t'apprendre le crawl.
 
-162
+163
 00:11:15,600 --> 00:11:17,400
 Hé, Franky !
 Qu'est-ce que t'as ?
 
-163
+164
 00:11:17,550 --> 00:11:19,250
 Tu boudes, depuis tout à l'heure.
 
-164
+165
 00:11:19,400 --> 00:11:20,400
 Lâche-moi !
 
-165
+166
 00:11:20,400 --> 00:11:22,240
 Je suis juste en pétard !
 
-166
+167
 00:11:22,440 --> 00:11:26,420
 Le navire de Gold Roger a fait le tour
 de Grand Line, c'est le meilleur !
 
-167
+168
 00:11:26,580 --> 00:11:30,300
 Pourquoi m'sieur Tom
 devrait mourir pour l'avoir construit ?
 
-168
+169
 00:11:30,450 --> 00:11:34,920
 Et tous ces cons, même pas fichus
 de construire un radeau, qui opinaient !
 
-169
+170
 00:11:35,150 --> 00:11:38,250
 C'est à cause de ça
 qu'on est coincés sous ce pont,
 
-170
+171
 00:11:38,250 --> 00:11:41,630
 parce que les gens
 veulent pas de nous en ville !
 
-171
+172
 00:11:41,790 --> 00:11:45,220
 Le meilleur charpentier du monde
 ne mérite pas ça !
 
-172
+173
 00:11:47,300 --> 00:11:49,540
 Rigole pas, grosse marmotte cornue !
 
-173
+174
 00:11:49,540 --> 00:11:52,020
 T'en prends pas à lui, Franky-diot !
 
-174
+175
 00:11:52,320 --> 00:11:54,570
 Et il s'en fiche, en plus !
 
-175
+176
 00:11:58,610 --> 00:12:00,820
 Non, non !
 Pas comme ça !
 
-176
+177
 00:12:01,100 --> 00:12:04,250
 Frappe l'eau et pousse-la derrière toi !
 
-177
+178
 00:12:06,810 --> 00:12:09,700
 Non,
 mets plus de force dans tes mouvements !
 
-178
+179
 00:12:10,300 --> 00:12:11,800
 Qu'est-ce qu'il a, encore ?
 
-179
+180
 00:12:11,800 --> 00:12:13,790
 Tu devrais le virer, cet idiot.
 
-180
+181
 00:12:14,220 --> 00:12:17,920
 Ne dis pas ça,
 on construit des navires tous ensemble.
 
-181
+182
 00:12:17,920 --> 00:12:22,200
 Et puis il est doué,
 il vaut n'importe quel artisan en ville.
 
-182
+183
 00:12:22,350 --> 00:12:24,550
 Il construit des trucs dangereux,
 certes...
 
-183
+184
 00:12:25,150 --> 00:12:28,200
 Mais c'est quelqu'un de très droit,
 au final.
 
-184
+185
 00:12:33,890 --> 00:12:37,520
 Il est apparu un jour il y a deux ans,
 au milieu de l'île de la décharge.
 
-185
+186
 00:12:37,520 --> 00:12:40,900
 Il avait réussi à construire un canon
 de bric et de broc.
 
-186
+187
 00:12:41,240 --> 00:12:43,400
 M'sieur ! Tu veux pas m'adopter ?
 
-187
+188
 00:12:43,550 --> 00:12:45,360
 Mes parents m'ont abandonné.
 
-188
+189
 00:12:45,750 --> 00:12:48,150
 Apparemment,
 il était tellement turbulent
 
-189
+190
 00:12:48,300 --> 00:12:50,920
 que ses parents
 l'avaient jeté par-dessus bord.
 
-190
+191
 00:12:51,070 --> 00:12:54,080
 À le voir, on le prendrait
 pour un pirate de bas étage...
 
-191
+192
 00:12:55,200 --> 00:12:57,080
 Mais ce petit est super.
 
-192
+193
 00:12:56,190 --> 00:12:57,080
 Monsieur Tom...
 
-193
+194
 00:12:57,300 --> 00:12:59,450
 Il a du cran !
 
-194
+195
 00:12:59,650 --> 00:13:02,550
 Et il n'a pas un mauvais fond.
 
-195
+196
 00:13:02,550 --> 00:13:07,220
 Un jour, vous serez tous les deux
 des charpentiers mondialement reconnus.
 
-196
+197
 00:13:07,360 --> 00:13:09,000
 Alors serrez-vous les coudes.
 
-197
+198
 00:13:09,140 --> 00:13:12,770
 Franky, reconnu ? Aucune chance.
 Il est taré jusqu'au trognon.
 
-198
+199
 00:13:13,940 --> 00:13:18,040
 Bon, dès que les plans seront terminés,
 on commencera à construire le train.
 
-199
+200
 00:13:18,040 --> 00:13:18,950
 D'accord.
 
-200
+201
 00:13:18,950 --> 00:13:21,700
 Mais tu verras, il ne nous aidera pas.
 
-201
+202
 00:13:23,070 --> 00:13:25,450
 Il fera bien ce qui lui chante.
 
-202
+203
 00:15:01,790 --> 00:15:02,840
 Un suicide ?
 
-203
+204
 00:15:03,180 --> 00:15:06,300
 Oui,
 le directeur du chantier naval numéro 4.
 
-204
+205
 00:15:06,460 --> 00:15:08,400
 À cause de l'accident.
 
-205
+206
 00:15:08,540 --> 00:15:12,420
 Il n'avait plus de matériaux, il a pris
 son navire pour aller acheter du bois.
 
-206
+207
 00:15:12,420 --> 00:15:14,900
 Le naufrage a fait 50 morts.
 
-207
+208
 00:15:15,190 --> 00:15:17,610
 Il a dû mettre la clé sous la porte.
 
-208
+209
 00:15:18,430 --> 00:15:21,300
 L'être humain est faible.
 
-209
+210
 00:15:21,500 --> 00:15:24,310
 Cette île est condamnée, non ?
 
-210
+211
 00:15:24,450 --> 00:15:25,700
 Hé, les gars !
 
-211
+212
 00:15:25,860 --> 00:15:29,150
 Vous avez entendu ?
  Sur l'île de la décharge !
 
-212
+213
 00:15:30,550 --> 00:15:32,990
 Quoi ? C'est vrai ?
 
-213
+214
 00:15:33,120 --> 00:15:36,370
 Les Tom's Workers
 ont terminé leur Train des Mers ?
 
-214
+215
 00:15:37,550 --> 00:15:39,910
 Il arrive vraiment à rouler sur l'eau ?
 
-215
+216
 00:15:40,110 --> 00:15:42,850
 J'ai pas confiance,
 c'est un criminel qui l'a construit.
 
-216
+217
 00:15:42,850 --> 00:15:44,150
 Je monte à bord.
 
-217
+218
 00:15:44,150 --> 00:15:45,290
 Alors... Moi aussi !
 
-218
+219
 00:15:45,290 --> 00:15:46,960
 Tom, tu nous expliques ?
 
-219
+220
 00:15:47,440 --> 00:15:49,800
 On va partir, montez vite.
 
-220
+221
 00:15:56,460 --> 00:16:00,030
 – Il a démarré !
 – Les roues sont arrimées aux rails.
 
-221
+222
 00:16:01,060 --> 00:16:04,440
 – Il démarre !
 – Super, il roule !
 
-222
+223
 00:16:15,210 --> 00:16:18,100
 Cette histoire
 se déroulait il y a 12 ans.
 
-223
+224
 00:16:18,590 --> 00:16:20,170
 Pour la première fois,
 
-224
+225
 00:16:20,320 --> 00:16:23,200
 cette île coupée du monde,
 en pleine décrépitude,
 
-225
+226
 00:16:23,360 --> 00:16:26,110
 voyait un train emporter
 des gens soucieux à son bord.
 
-226
+227
 00:16:30,150 --> 00:16:32,420
 Ce jour-là,
 le Puffing Tom, le Train des Mers,
 
-227
+228
 00:16:32,570 --> 00:16:34,240
 se mit à fendre les flots.
 
-228
+229
 00:16:42,620 --> 00:16:44,130
 Je vois.
 
-229
+230
 00:16:45,200 --> 00:16:47,660
 Cet entrepôt pouilleux devait être,
 autrefois,
 
-230
+231
 00:16:47,800 --> 00:16:52,390
 le siège de Tom's Workers,
 la société de construction navale.
 
-231
+232
 00:16:53,840 --> 00:16:54,990
 Construction navale ?
 
-232
+233
 00:16:56,040 --> 00:16:59,340
 Tom, Icebarg et Cutty Flam.
 
-233
+234
 00:17:00,100 --> 00:17:04,460
 C'est donc ici que vous travailliez
 dans la joie et la bonne humeur ?
 
-234
+235
 00:17:05,160 --> 00:17:07,700
 Et t'appelles ça ta base secrète ?
 
-235
+236
 00:17:07,850 --> 00:17:10,670
 Comme c'est mignon.
 
-236
+237
 00:17:11,100 --> 00:17:12,500
 Ta gueule !
 
-237
+238
 00:17:12,680 --> 00:17:14,630
 Débarrassez le plancher, fissa !
 
-238
+239
 00:17:14,950 --> 00:17:17,650
 On partira
 quand on aura ce qu'on cherche,
 
-239
+240
 00:17:17,980 --> 00:17:19,800
 Cutty Flam, le charpentier.
 
-240
+241
 00:17:19,800 --> 00:17:22,370
 Les plans sont pas ici !
 
-241
+242
 00:17:22,770 --> 00:17:26,260
 Je vois.
 Question idiote, réponse idiote.
 
-242
+243
 00:17:27,520 --> 00:17:29,230
 Hé !
 
-243
+244
 00:17:28,190 --> 00:17:29,230
 Kalifa.
 
-244
+245
 00:17:33,300 --> 00:17:34,910
 Ça fait mal, ton truc !
 
-245
+246
 00:17:37,650 --> 00:17:40,540
 Que...
 Qu'est-ce que je dois faire ?
 
-246
+247
 00:17:43,930 --> 00:17:46,120
 Enculé...
 
-247
+248
 00:17:46,320 --> 00:17:49,700
 Tu n'es pas obligé
 de répondre tout de suite.
 
-248
+249
 00:17:49,840 --> 00:17:52,350
 On a un atout dans notre manche.
 
-249
+250
 00:17:52,590 --> 00:17:55,200
 Ça remonte à huit ans, certes...
 
-250
+251
 00:17:55,420 --> 00:17:58,560
 Mais il me semble bien
 que tu as commis un crime.
 
-251
+252
 00:17:58,760 --> 00:18:00,430
 Tout comme Tom.
 
-252
+253
 00:18:00,580 --> 00:18:01,770
 Je te permets pas !
 
-253
+254
 00:18:01,770 --> 00:18:03,600
 Tom n'est pas un criminel !
 
-254
+255
 00:18:03,750 --> 00:18:05,890
 Tu ne le connais même pas !
 
-255
+256
 00:18:06,100 --> 00:18:07,060
 Blanc-bec !
 
-256
+257
 00:18:16,060 --> 00:18:17,600
 M'sieur Tom...
 
-257
+258
 00:18:20,690 --> 00:18:21,700
 N'approchez pas !
 
-258
+259
 00:18:22,650 --> 00:18:23,990
 Ne te démène donc pas tant.
 
-259
+260
 00:18:24,150 --> 00:18:27,830
 Tu es un criminel, tu as choisi cette voie.
 
-260
+261
 00:18:28,130 --> 00:18:29,870
 Tu dois savoir où elle mène.
 
-261
+262
 00:18:30,660 --> 00:18:31,540
 Franky.
 
-262
+263
 00:18:32,000 --> 00:18:34,760
 Je vais vous demander
 de ne pas intervenir.
 
-263
+264
 00:18:34,900 --> 00:18:36,400
 Quoi qu'il arrive.
 
-264
+265
 00:18:36,740 --> 00:18:39,200
 Vous croyez tout savoir...
 
-265
+266
 00:18:40,270 --> 00:18:41,510
 sur m'sieur Tom...
 
-266
+267
 00:18:43,050 --> 00:18:47,400
 et sur Water Seven.
 Mais en fait, vous ne savez rien de rien !
 
-267
+268
 00:18:57,650 --> 00:19:00,370
 La Cour d'assises navale
 arrive dans 3 jours.
 
-268
+269
 00:19:00,620 --> 00:19:02,880
 Tom va enfin être jugé.
 
-269
+270
 00:19:03,150 --> 00:19:04,800
 Quel sera le verdict ?
 
-270
+271
 00:19:04,950 --> 00:19:06,580
 Il sera sûrement acquitté.
 
-271
+272
 00:19:06,580 --> 00:19:07,830
 C'est vrai.
 
-272
+273
 00:19:08,250 --> 00:19:10,600
 Après tout, il a tenu sa promesse.
 
-273
+274
 00:19:10,600 --> 00:19:11,680
 Oui.
 
-274
+275
 00:19:15,170 --> 00:19:17,650
 Emportez le bois aux quais.
 
-275
+276
 00:19:17,930 --> 00:19:20,550
 Comment vont les négociations,
 à Saint Poplar ?
 
-276
+277
 00:19:20,550 --> 00:19:25,240
 Ils nous arnaquent tant qu'ils peuvent,
 ils savent qu'on manque de matériaux.
 
-277
+278
 00:19:25,490 --> 00:19:27,310
 Idem pour l'acier à San Faldo.
 
-278
+279
 00:19:27,450 --> 00:19:30,500
 Vu les prix, normal que nos chantiers
 soient dans le rouge.
 
-279
+280
 00:19:30,650 --> 00:19:33,500
 On doit absolument faire quelque chose.
 
-280
+281
 00:19:33,660 --> 00:19:35,770
 Ouais ! T'as raison.
 
-281
+282
 00:19:41,080 --> 00:19:44,250
 Ils sont tout contents
 de traverser la mer,
 
-282
+283
 00:19:44,410 --> 00:19:47,150
 mais pour le commerce, c'est pas gagné.
 
-283
+284
 00:19:48,180 --> 00:19:50,210
 En fait, rien n'a changé ici.
 
-284
+285
 00:19:53,100 --> 00:19:55,370
 Oui, mais les gens
 ont retrouvé leur énergie.
 
-285
+286
 00:19:55,370 --> 00:19:58,400
 Laisse un peu le temps au temps,
 Icebarg.
 
-286
+287
 00:19:58,550 --> 00:20:03,750
 On a fait tout ce qu'on pouvait faire,
 on a de quoi être fiers !
 
-287
+288
 00:20:03,910 --> 00:20:04,690
 Ouais.
 
-288
+289
 00:20:14,490 --> 00:20:17,250
 Bien le bonjour.
 Si je ne m'abuse,
 
-289
+290
 00:20:17,400 --> 00:20:19,810
 vous devez être mister Tom,
 le charpentier.
 
-290
+291
 00:20:19,810 --> 00:20:21,910
 Je vous cherchais.
 
-291
+292
 00:20:23,320 --> 00:20:25,550
 Désolé de vous déranger,
 mais j'aurais...
 
-292
+293
 00:20:25,550 --> 00:20:28,140
 Chef...
 
-293
+294
 00:20:26,000 --> 00:20:28,100
 M'interrompez pas, dégagez !
 
-294
+295
 00:20:28,240 --> 00:20:28,750
 Bien !
 
-295
+296
 00:20:28,900 --> 00:20:31,900
 Je disais donc, j'ai à vous parler et...
 
-296
+297
 00:20:35,750 --> 00:20:38,230
 Je suis...
 
-297
+298
 00:20:38,500 --> 00:20:41,560
 du Cipher Pol 5...
 
-298
+299
 00:20:41,700 --> 00:20:44,700
 – Je m'appelle Spandam...
 – Monsieur Spandam !
 
-299
+300
 00:20:47,700 --> 00:20:49,520
 Youh, désolé !
 
-300
+301
 00:20:49,920 --> 00:20:53,050
 Manque de pot, l'inconnu.
 Mon tir de salut t'a touché.
 
-301
+302
 00:20:53,190 --> 00:20:54,340
 Bref.
 
-302
+303
 00:20:55,100 --> 00:20:58,700
 Voici le super Battle Franky 35 !
 
-303
+304
 00:20:58,850 --> 00:21:01,720
 Retour triomphal !
 J'ai eu un monstre marin !
 
-304
+305
 00:21:01,870 --> 00:21:05,870
 Regardez la taille de la bête !
 Il doit bien faire 100 mètres de long !
 
-305
+306
 00:21:07,910 --> 00:21:10,700
 Quel idiot...
 Il ose remettre ça...
 
-306
+307
 00:21:12,570 --> 00:21:16,780
 Non mais !
 Arrête ça tout de suite, Ice-bruti !
 
-307
+308
 00:21:17,420 --> 00:21:22,400
 Faut que je me répète combien de fois ?
 Tu t'obstines à bâtir des cuirassés...
 
-308
+309
 00:21:22,630 --> 00:21:24,090
 Maintenant, ça suffit !
 
-309
+310
 00:21:24,350 --> 00:21:28,340
 Si tu peux pas t'y résoudre,
 c'est moi qui vais tous les détruire !
 
-310
+311
 00:21:28,500 --> 00:21:29,250
 Essaie même pas !
 
-311
+312
 00:21:29,400 --> 00:21:33,250
 Ce sont mes précieux cuirassés !
 T'avise pas d'y toucher !
 
-312
+313
 00:21:33,550 --> 00:21:35,680
 Allons,
 écoute-moi un peu, Franky.
 
-313
+314
 00:21:35,930 --> 00:21:40,110
 Tu as tué un monstre marin.
 Tes navires sont aussi puissants que ça.
 
-314
+315
 00:21:40,300 --> 00:21:44,190
 Et toi, tu les abandonnes n'importe où,
 je te comprends pas !
 
-315
+316
 00:21:44,350 --> 00:21:47,500
 Je les construis pas
 pour attaquer les gens !
 
-316
+317
 00:21:47,660 --> 00:21:49,430
 Ça, c'est pas le problème.
 
-317
+318
 00:21:49,730 --> 00:21:52,990
 Tu as créé ces armes,
 tu en es responsable, Franky-diot !
 
-318
+319
 00:21:53,900 --> 00:21:55,540
 Excusez-moi, mais...
 
-319
+320
 00:21:57,900 --> 00:22:00,460
 M'sieur Tom, dis quelque chose !
 
-320
+321
 00:22:00,700 --> 00:22:03,050
 Ce Franky-diot déshonore la compagnie !
 
-321
+322
 00:22:03,200 --> 00:22:04,920
 T'as encore dit "Franky-diot" !
 
-322
+323
 00:22:07,300 --> 00:22:09,250
 Attendez un peu !
 
-323
+324
 00:22:09,430 --> 00:22:11,450
 J'exige des excuses.
 
-324
+325
 00:22:11,450 --> 00:22:13,970
 Et vous, je veux que vous m'écoutiez.
 
-325
+326
 00:22:14,170 --> 00:22:16,300
 Tu travailles pour le Gouvernement ?
 
-326
+327
 00:22:16,490 --> 00:22:18,060
 C'est au sujet du procès ?
 
-327
+328
 00:22:18,200 --> 00:22:20,800
 Quoi ?
 Un procès ?
 
-328
+329
 00:22:20,950 --> 00:22:24,030
 Non, je ne suis pas au courant
 de cette histoire.
 
-329
+330
 00:22:28,460 --> 00:22:29,870
 Où est M. Tom ?
 
-330
+331
 00:22:30,320 --> 00:22:32,550
 Il est avec l'agent du Gouvernement.
 
-331
+332
 00:22:32,730 --> 00:22:35,700
 Ils discutent tous les deux
 dans le hangar en briques.
 
-332
+333
 00:22:35,850 --> 00:22:38,100
 Le type s'appelle "Span..."
 je sais plus quoi.
 
-333
+334
 00:22:38,250 --> 00:22:40,200
 Spanda...
 Quelque chose comme ça.
 
-334
+335
 00:22:40,430 --> 00:22:43,480
 Ils n'ont rien à voir
 avec la Cour d'assises, c'est ça ?
 
-335
+336
 00:22:43,480 --> 00:22:45,850
 Quelle organisation, ce Gouvernement...
 
-336
+337
 00:22:49,070 --> 00:22:52,120
 J'en sais rien.
 J'ai pas de plans comme ça, moi.
 
-337
+338
 00:22:53,560 --> 00:22:54,900
 Tu mens !
 
-338
+339
 00:22:54,900 --> 00:22:57,710
 Tu penses pouvoir me berner
 parce que je demande gentiment ?
 
-339
+340
 00:22:57,850 --> 00:23:00,900
 J'ai remonté la piste
 jusqu'à Water Seven !
 
-340
+341
 00:23:01,050 --> 00:23:04,770
 Si on mène notre petite enquête ici,
 on trouvera ce qu'on cherche aussi sec !
 
-341
+342
 00:23:06,880 --> 00:23:10,000
 Toi et ton équipe
 avez le droit d'enquêter sur moi ?
 
-342
+343
 00:23:10,550 --> 00:23:12,400
 Qu'est-ce que tu crois, Tom ?
 
-343
+344
 00:23:12,690 --> 00:23:18,250
 En fait, le navire de Gold Roger,
 c'est toi qui l'as construit !
 
-344
+345
 00:23:18,550 --> 00:23:20,000
 Avec un tel crime, tu es cuit.
 
-345
+346
 00:23:20,000 --> 00:23:22,560
 Et comme tu es un criminel,
 je peux faire ce qui me chante.
 
-346
+347
 00:23:22,560 --> 00:23:25,600
 Le Gouvernement
 est déjà au courant de cette histoire.
 
-347
+348
 00:23:25,600 --> 00:23:26,460
 Quoi ?
 
-348
+349
 00:23:26,750 --> 00:23:28,420
 C'est impossible !
 
-349
+350
 00:23:28,590 --> 00:23:30,630
 Et ils ne t'ont pas arrêté ?
 
-350
+351
 00:23:30,630 --> 00:23:32,930
 Pourquoi ils te laissent travailler ?
 
-351
+352
 00:23:33,200 --> 00:23:36,950
 T'es des renseignements,
 alors renseigne-toi. Allez, à la revoyure.
 
-352
+353
 00:23:38,740 --> 00:23:42,940
 Attends un peu, j'ai pas fini !
 Tu te moques de moi ?
 
-353
+354
 00:23:45,910 --> 00:23:47,860
 Ah, cette histoire ?
 
-354
+355
 00:23:48,240 --> 00:23:52,000
 Eh bien, comme Tom
 a tenu la promesse faite au juge,
 
-355
+356
 00:23:52,400 --> 00:23:55,910
 dans trois jours,
 il sera sûrement acquitté.
 
-356
+357
 00:23:56,050 --> 00:23:58,410
 C'est un grand homme, ce Tom.
 
-357
+358
 00:23:58,700 --> 00:24:00,720
 La bonne blague...
 
-358
+359
 00:24:00,920 --> 00:24:04,070
 Acquitté pour un crime
 en rapport avec Gold Roger ?
 
-359
+360
 00:24:04,690 --> 00:24:08,760
 Je vois.
 Donc ces plans existent vraiment.
 
-360
+361
 00:24:08,900 --> 00:24:09,700
 Oui.
 
-361
+362
 00:24:09,860 --> 00:24:12,910
 Et des pirates
 sont sûrement aussi à leur recherche.
 
-362
+363
 00:24:12,910 --> 00:24:16,630
 Si jamais quelqu'un les trouve
 avant le Gouvernement,
 
-363
+364
 00:24:16,780 --> 00:24:20,060
 nous ne serons pas de taille à lutter.
 
-364
+365
 00:24:20,480 --> 00:24:24,120
 "L'âge d'or de la piraterie"
 a commencé il y a 10 ans.
 
-365
+366
 00:24:24,280 --> 00:24:28,020
 Les pirates sont chaque jour plus forts
 et plus nombreux.
 
-366
+367
 00:24:28,250 --> 00:24:30,160
 On ne peut plus se contenter
 
-367
+368
 00:24:30,160 --> 00:24:32,890
 d'empêcher la résurrection
 des armes antiques !
 
-368
+369
 00:24:32,890 --> 00:24:36,370
 Nous défendons la Justice,
 armons-nous en conséquence !
 
-369
+370
 00:24:36,700 --> 00:24:38,810
 Avec ces armes antiques,
 
-370
+371
 00:24:38,810 --> 00:24:41,540
 on pourrait briser
 cet âge d'or de la piraterie !
 
-371
+372
 00:24:43,470 --> 00:24:47,540
 Les temps changent, c'est indéniable.
 
-372
+373
 00:24:47,700 --> 00:24:51,460
 Il faudrait commencer
 par mettre la main sur ces fameux plans.
 
-373
+374
 00:24:51,460 --> 00:24:52,920
 Ensuite, on verra.
 
-374
+375
 00:24:53,300 --> 00:24:56,510
 On te donne carte blanche
 sur cette affaire, Spandam.
 
-375
+376
 00:24:56,850 --> 00:24:59,150
 Bien !
 Faites-moi confiance.
 
-376
+377
 00:25:00,000 --> 00:25:02,010
 Je n'ai pas fait tous ces efforts
 
-377
+378
 00:25:02,010 --> 00:25:06,440
 pour laisser cette chance
 me passer sous le nez sans rien faire !
 
-378
+379
 00:25:10,740 --> 00:25:11,670
 On y va !
 
-379
+380
 00:25:15,330 --> 00:25:16,400
 Bon sang !
 
-380
+381
 00:25:16,600 --> 00:25:20,500
 S'il n'est pas un criminel,
 mon plan ne marche plus !
 
-381
+382
 00:25:20,990 --> 00:25:22,040
 Monsieur Spandam !
 
-382
+383
 00:25:28,330 --> 00:25:32,600
 Acquittement, mon œil.
 Il s'en tirera pas comme ça.
 
-383
+384
 00:25:32,880 --> 00:25:36,080
 Vous, là !
 Ramenez-moi cinq autres agents secrets.
 
-384
+385
 00:25:36,080 --> 00:25:36,680
 Bien !
 
-385
+386
 00:25:42,250 --> 00:25:44,180
 Monsieur Spandam !
 
-386
+387
 00:25:47,070 --> 00:25:48,780
 Icebarg, Franky.
 
-387
+388
 00:25:49,450 --> 00:25:51,350
 Venez un peu par là, tous les deux.
 
-388
+389
 00:25:51,650 --> 00:25:54,610
 J'ai un truc très important
 à vous confier.
 
-389
+390
 00:25:58,170 --> 00:26:01,590
 Ce...
 Ce sont des plans de quoi, exactement ?
 
-390
+391
 00:26:02,200 --> 00:26:05,330
 Un tel truc...
 Ça peut vraiment être construit ?
 
-391
+392
 00:26:05,500 --> 00:26:09,090
 C'est le pire monstre de l'histoire
 de la construction navale.
 
-392
+393
 00:26:09,290 --> 00:26:13,350
 Le Gouvernement a appris l'existence
 de ces plans, il les veut.
 
-393
+394
 00:26:13,530 --> 00:26:15,800
 Ils ne sont plus en sécurité chez moi.
 
-394
+395
 00:26:16,050 --> 00:26:18,780
 Ça me fait froid dans le dos,
 mais c'est d'accord.
 
-395
+396
 00:26:19,000 --> 00:26:20,100
 Je les prends.
 
-396
+397
 00:26:20,220 --> 00:26:24,900
 Génial ! Dis, Icebarg,
 on le construit pour voir ?
 
-397
+398
 00:26:25,100 --> 00:26:26,180
 Sombre idiot.
 
-398
+399
 00:26:26,350 --> 00:26:28,230
 Aïeuh...
 
-399
+400
 00:26:28,390 --> 00:26:30,200
 Réfléchis avant de parler.
 
-400
+401
 00:26:30,340 --> 00:26:31,900
 Je m'occupe de ces plans.
 
-401
+402
 00:26:32,060 --> 00:26:34,480
 Si une telle arme voyait le jour...
 
-402
+403
 00:26:39,160 --> 00:26:42,130
 Oui.
 Ce serait la fin du monde.
 
-403
+404
 00:26:46,600 --> 00:26:50,100
 Enfin bon,
 faites-en ce que vous voulez.
 
-404
+405
 00:26:50,260 --> 00:26:52,100
 Si ça chauffe trop, jetez-les.
 
-405
+406
 00:26:52,280 --> 00:26:53,460
 M'sieur Tom...
 
-406
+407
 00:26:53,700 --> 00:26:55,260
 Ce n'est pas tout...
 
-407
+408
 00:26:56,060 --> 00:26:58,750
 Il y a aussi autre chose qui m'inquiète.
 
-408
+409
 00:01:51,800 --> 00:01:54,300
 Water Seven, 22 ans plus tôt
 
-409
+410
 00:02:44,240 --> 00:02:47,810
 Icebarg, 16 ans
 
-410
+411
 00:02:50,210 --> 00:02:53,440
 Cutty Flam (Franky), 12 ans
 
-411
+412
 00:03:38,380 --> 00:03:46,750
 Patron de la société de construction navale
 "Tom's Workers" - Tom (Homme-Poisson Vache)
 
-412
+413
 00:03:46,810 --> 00:03:48,960
 Animal de compagnie de Tom
 Yokozuna (Crapaud Sumo)
 
-413
+414
 00:03:54,560 --> 00:03:59,650
 En face de "l'entrepôt sous le pont"
 Water Seven
 
-414
+415
 00:03:59,740 --> 00:04:03,810
 La décharge (Atelier de construction navale de "Tom's Workers")
 
-415
+416
 00:04:38,400 --> 00:04:44,490
 Kokoro, secrétaire de charme
 "Tom's Workers"
 
-416
+417
 00:18:48,000 --> 00:18:51,460
 Water Seven, 8 plus tôt
 
-417
+418
 00:20:34,350 --> 00:20:40,680
 Commandant Spandam
 Cipher Pol n°5
 
-418
+419
 00:24:20,160 --> 00:24:24,120
 Gorosei
 Conseil des cinq doyens
 
-419
+420
 00:00:04,040 --> 00:00:08,050
 Tout va bien ! Allez, continuons d'avancer
 
-420
+421
 00:00:08,310 --> 00:00:11,590
 un rayon d'espoir brille toujours dans nos cœurs.
 
-421
+422
 00:00:11,730 --> 00:00:15,010
 Main dans la main, la force se transmettra !
 
-422
+423
 00:00:15,100 --> 00:00:18,680
 Partons nous emparer de notre souhait !
 
-423
+424
 00:00:26,240 --> 00:00:32,490
 Voguons sur les grandes vagues en joignant nos forces.
 
-424
+425
 00:00:33,750 --> 00:00:40,290
 Allons vite dans la direction excitante, c'est le signal du départ.
 
-425
+426
 00:00:40,960 --> 00:00:47,130
 C'est maintenant que nous partons, et après avoir levé l'ancre,
 
-426
+427
 00:00:47,930 --> 00:00:55,010
 tranchons le vent arc-en-ciel, vers la mer de l'aventure !
 
-427
+428
 00:00:55,060 --> 00:00:58,550
 C'est un voyage rempli de blessures,
 
-428
+429
 00:00:58,560 --> 00:01:02,270
 mais l'important est là.
 
-429
+430
 00:01:02,400 --> 00:01:06,350
 En cas de problème,
 
-430
+431
 00:01:06,450 --> 00:01:08,360
 je serais toujours là pour te protéger.
 
-431
+432
 00:01:09,450 --> 00:01:13,360
 Tout va bien ! Allez, continuons d'avancer
 
-432
+433
 00:01:13,660 --> 00:01:16,820
 un rayon d'espoir brille toujours dans nos cœurs.
 
-433
+434
 00:01:17,170 --> 00:01:20,330
 Si une tempête arrive,
 
-434
+435
 00:01:20,370 --> 00:01:24,200
 nous attendrons le retour de la lumière en se serrant les coudes !
 
-435
+436
 00:01:24,670 --> 00:01:27,920
 Si nous regroupons les bribes de rêves de chacun,
 
-436
+437
 00:01:28,390 --> 00:01:31,550
 nous obtiendrons une carte menant vers le futur !
 
-437
+438
 00:01:31,680 --> 00:01:34,720
 Alors réunissons-nous sous le même drapeau
 
-438
+439
 00:01:35,130 --> 00:01:38,700
 et saisissons notre souhait !
 
-439
+440
 00:01:38,700 --> 00:01:40,450
 À nous tous, nous ne formons qu'une...
-

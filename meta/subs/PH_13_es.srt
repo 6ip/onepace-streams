@@ -1,400 +1,404 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:00,260 --> 00:00:05,150
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-2
+3
 00:00:05,230 --> 00:00:08,790
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-3
+4
 00:00:08,860 --> 00:00:12,310
 ¡Ya hemos superado muchos obstáculos!
 
-4
+5
 00:00:12,430 --> 00:00:17,730
 ¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
 
-5
+6
 00:00:23,380 --> 00:00:30,710
 "Ya casi lo logro, un poco más y consigo la respuesta".
 
-6
+7
 00:00:30,810 --> 00:00:38,450
 Eso es lo que creemos al adentrarnos en este nuevo mundo.
 
-7
+8
 00:00:38,500 --> 00:00:45,950
 Resulta que los fragmentos de nuestros sueños se han fundido en uno.
 
-8
+9
 00:00:46,000 --> 00:00:54,000
 ¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
 
-9
+10
 00:00:54,110 --> 00:00:58,620
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-10
+11
 00:00:58,700 --> 00:01:02,450
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-11
+12
 00:01:02,490 --> 00:01:05,860
 ¡Ya hemos superado muchos obstáculos!
 
-12
+13
 00:01:05,940 --> 00:01:09,820
 ¡No nos detengamos, sigamos adelante!
 
-13
+14
 00:01:09,920 --> 00:01:11,400
 ¡Miren más arriba!
 
-14
+15
 00:01:11,430 --> 00:01:13,590
 ¡Con la cabeza bien en alto!
 
-15
+16
 00:01:13,630 --> 00:01:15,030
 ¡Siempre avanzando!
 
-16
+17
 00:01:15,070 --> 00:01:16,890
 ¡Volemos por encima de las olas!
 
-17
+18
 00:01:16,930 --> 00:01:20,480
 Unamos todos nuestros deseos en uno solo.
 
-18
+19
 00:01:20,530 --> 00:01:24,720
 ¡Dirijámonos al futuro!
 
-19
+20
 00:01:25,000 --> 00:01:31,100
 Avanzamos sin rumbo, surcando las olas.
 
-20
+21
 00:01:31,120 --> 00:01:35,350
 Encuentros, despedidas, una y otra vez.
 
-21
+22
 00:01:35,390 --> 00:01:39,590
 Siempre ante esta bandera...
 
-22
+23
 00:01:41,340 --> 00:01:44,710
 El dolor que no quiero olvidar lo guardo en mi corazón...
 
-23
+24
 00:01:44,780 --> 00:01:48,240
 ...desde aquel día en que lo grabé en mi interior.
 
-24
+25
 00:01:48,350 --> 00:01:51,910
 ¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
 
-25
+26
 00:01:51,950 --> 00:01:54,790
 ...y jamás se me escapará!
 
-26
+27
 00:01:54,830 --> 00:01:59,740
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-27
+28
 00:01:59,790 --> 00:02:03,410
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-28
+29
 00:02:03,510 --> 00:02:06,730
 ¡Ya hemos superado muchos obstáculos!
 
-29
+30
 00:02:06,770 --> 00:02:10,890
 ¡No nos detengamos, sigamos adelante!
 
-30
+31
 00:02:10,930 --> 00:02:12,250
 ¡Miren más arriba!
 
-31
+32
 00:02:12,300 --> 00:02:14,560
 ¡Con la cabeza bien en alto!
 
-32
+33
 00:02:14,590 --> 00:02:15,950
 ¡Siempre avanzando!
 
-33
+34
 00:02:15,950 --> 00:02:17,760
 ¡Volemos por encima de las olas!
 
-34
+35
 00:02:17,810 --> 00:02:21,470
 Unamos todos nuestros deseos en uno solo.
 
-35
+36
 00:02:21,580 --> 00:02:25,050
 ¡Dirijámonos al futuro!
 
-36
+37
 00:02:25,100 --> 00:02:29,900
 ¡Levanten las manos!
 
-37
+38
 00:04:18,560 --> 00:04:20,190
 Pero parece que todos están a salvo.
 
-38
+39
 00:04:20,190 --> 00:04:21,400
 Qué alivio.
 
-39
+40
 00:04:23,180 --> 00:04:25,080
 No sé quién me lo habrá dado,
 
-40
+41
 00:04:25,080 --> 00:04:26,900
 pero este papel...
 
-41
+42
 00:04:26,900 --> 00:04:30,310
 ¿Quiere decir que pudieron escapar ellos solos?
 
-42
+43
 00:04:30,310 --> 00:04:33,070
 De alguna manera, me las arreglé para descubrir la estructura de la droga.
 
-43
+44
 00:04:33,070 --> 00:04:34,460
 ¡Y también tengo algunos sedantes!
 
-44
+45
 00:04:35,440 --> 00:04:38,340
 ¡Pero ¿hacia dónde tengo que ir?!
 
-45
+46
 00:06:14,490 --> 00:06:18,000
 DENTRO DEL LABORATORIO - TORRE A
 
-46
+47
 00:06:50,090 --> 00:06:52,650
 PASILLO QUE CONECTA LAS TORRES A Y B
 
-47
+48
 00:09:21,460 --> 00:09:22,850
 ¡Robin-chwan!
 
-48
+49
 00:10:10,110 --> 00:10:11,620
 BARBAMARRÓN Y LOS
 SOMBRERO DE PAJA
 
-49
+50
 00:10:10,110 --> 00:10:11,620
 TASHIGI Y EL G-5
 
-50
+51
 00:10:12,490 --> 00:10:15,050
 FUERA DEL LABORATORIO
 
-51
+52
 00:11:37,270 --> 00:11:38,520
 ¡Si no me doy prisa, la puerta se cerrará!
 
-52
+53
 00:11:41,710 --> 00:11:45,720
 ¡Afuera...!
 
-53
+54
 00:11:52,840 --> 00:11:56,870
 ¡Si no me apresuro...!
 
-54
+55
 00:12:38,180 --> 00:12:42,290
 PASILLO QUE CONECTA LAS TORRES A Y B
 
-55
+56
 00:12:37,990 --> 00:12:42,290
 BARBAMARRÓN Y LOS
 SOMBRERO DE PAJA
 
-56
+57
 00:12:37,990 --> 00:12:42,290
 TASHIGI Y EL G-5
 
-57
+58
 00:14:00,480 --> 00:14:02,350
 PASILLO QUE CONECTA LAS TORRES A Y B
 
-58
+59
 00:14:00,080 --> 00:14:02,350
 BARBAMARRÓN Y LOS
 SOMBRERO DE PAJA
 
-59
+60
 00:14:00,080 --> 00:14:02,350
 TASHIGI Y EL G-5
 
-60
+61
 00:15:50,480 --> 00:15:51,080
 ¡Vergo!
 
-61
+62
 00:16:31,990 --> 00:16:32,900
 Bienvenidos.
 
-62
+63
 00:16:35,770 --> 00:16:39,140
 He oído muchos rumores 
 acerca de ti, Comodoro Smoker.
 
-63
+64
 00:16:39,140 --> 00:16:40,270
 Será un placer trabajar contigo.
 
-64
+65
 00:16:40,270 --> 00:16:45,110
 En la división del G-5 no abundan
  los soldados inteligentes,
 
-65
+66
 00:16:45,110 --> 00:16:48,740
 pero cuando los conozcan, verán 
 que no son tan malos como los pintan.
 
-66
+67
 00:16:51,760 --> 00:16:55,450
 Y enseguida se darán cuenta de que son
  unos subordinados muy agradables.
 
-67
+68
 00:16:59,410 --> 00:17:00,970
 ¿Dónde está el Vicealmirante Vergo?
 
-68
+69
 00:17:00,970 --> 00:17:05,040
 El Vicealmirante Vergo a veces
  se marcha a su pueblo natal.
 
-69
+70
 00:17:05,040 --> 00:17:06,990
 Tiene a una hermana enferma y se preocupa por ella.
 
-70
+71
 00:17:06,990 --> 00:17:10,400
 ¡¿Y se hacen llamar marinos?!
 
-71
+72
 00:17:11,370 --> 00:17:12,980
 Mis disculpas.
 
-72
+73
 00:17:12,980 --> 00:17:16,050
 Me responsabilizo por los actos de mis hombres.
 
-73
+74
 00:17:16,050 --> 00:17:17,640
 Ya veo.
 
-74
+75
 00:17:17,640 --> 00:17:20,600
 ¡Pues asume la responsabilidad como es debido!
 
-75
+76
 00:17:20,600 --> 00:17:21,570
 ¡Maldita!
 
-76
+77
 00:17:21,570 --> 00:17:23,360
 ¡No te pases de lista!
 
-77
+78
 00:17:24,290 --> 00:17:25,680
 Entiendo.
 
-78
+79
 00:17:25,680 --> 00:17:29,240
 Haré todo lo que pueda para arreglarlo.
 
-79
+80
 00:17:29,240 --> 00:17:30,640
 Vicealmirante Vergo,
 
-80
+81
 00:17:30,640 --> 00:17:35,450
 sobre el informe de los secuestros
  de niños del otro día...
 
-81
+82
 00:17:35,450 --> 00:17:40,490
 Sí, mandé a investigar a fondo, pero parece que sólo ha sido un accidente en el mar.
 
-82
+83
 00:17:40,490 --> 00:17:42,430
 En otras palabras, un informe falso.
 
-83
+84
 00:17:42,430 --> 00:17:44,440
 ¿Un informe falso?
 
-84
+85
 00:17:44,440 --> 00:17:49,100
 A todos los padres les cuesta 
 aceptar la muerte de un hijo.
 
-85
+86
 00:17:49,100 --> 00:17:53,610
 Prefieren mantener la esperanza 
 pensando que ha sido un secuestro.
 
-86
+87
 00:17:55,390 --> 00:17:59,590
 Lo entenderás cuando seas madre.
 
-87
+88
 00:18:00,640 --> 00:18:02,130
 Así que eso fue lo que pasó...
 
-88
+89
 00:18:03,330 --> 00:18:05,070
 Sí, así es.
 
-89
+90
 00:18:58,700 --> 00:19:01,310
 No me sale... la voz...
 
-90
+91
 00:19:01,310 --> 00:19:03,280
 ¡Basta, por favor!
 
-91
+92
 00:19:03,280 --> 00:19:06,600
 ¡Sálvanos, Smoker-san!
 
-92
+93
 00:19:31,540 --> 00:19:32,980
 DENTRO DE LA TORRE B
 
-93
+94
 00:19:31,540 --> 00:19:32,980
 BARBAMARRÓN Y LOS
 SOMBRERO DE PAJA
 
-94
+95
 00:20:05,080 --> 00:20:07,710
 ESCALERA AL CENTRO DE LA TORRE B
 
-95
+96
 00:20:21,480 --> 00:20:25,540
 LABORATORIO DE CAESAR
 
-96
+97
 00:20:53,960 --> 00:20:57,420
 TERCER PISO DE LA TORRE B
 
-97
+98
 00:20:53,960 --> 00:20:57,420
 CERCA DE BISCUITS ROOM
-

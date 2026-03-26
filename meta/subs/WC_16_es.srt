@@ -1,439 +1,443 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:41,600 --> 00:01:45,060
 SALA DE
  TESOROS
 
-2
+3
 00:02:10,730 --> 00:02:12,730
 NAPOLEÓN, EL BICORNIO
 
-3
+4
 00:02:12,820 --> 00:02:14,820
 ZEUS, LA NUBE DE TORMENTA
 
-4
+5
 00:02:14,900 --> 00:02:16,690
 PROMETHEUS, EL SOL
 
-5
+6
 00:03:04,040 --> 00:03:05,560
 Qué frustrante...
 
-6
+7
 00:03:05,560 --> 00:03:08,120
 ¡Pero qué humillación!
 
-7
+8
 00:04:42,670 --> 00:04:45,330
 ¿P-Pudding-san?
 
-8
+9
 00:04:45,330 --> 00:04:46,970
 ¿Tres ojos?
 
-9
+10
 00:04:48,930 --> 00:04:50,810
 ¡No!
 
-10
+11
 00:04:50,810 --> 00:04:53,230
 ¡No deben saber...
 
-11
+12
 00:04:53,230 --> 00:04:55,690
 ...que nos conocemos!
 
-12
+13
 00:04:55,690 --> 00:04:58,230
 Ese esqueleto...
 
-13
+14
 00:04:58,230 --> 00:05:00,750
 ¿Estaba aquí?
 
-14
+15
 00:05:00,750 --> 00:05:03,570
 Bueno, me alegra que lo hayan capturado.
 
-15
+16
 00:05:55,910 --> 00:05:58,290
 ¡¿Conde Niwatori?!
 
-16
+17
 00:06:04,380 --> 00:06:06,920
 ¡Alto!
 
-17
+18
 00:06:13,630 --> 00:06:16,800
 Mola
 
-18
+19
 00:06:13,630 --> 00:06:16,800
 Shi
 
-19
+20
 00:06:13,630 --> 00:06:16,800
 Chibukai
 
-20
+21
 00:06:13,630 --> 00:06:16,800
 Fansub!
 
-21
+22
 00:06:13,630 --> 00:06:16,800
 Tama viene de "tamago" (huevo).
 
-22
+23
 00:06:28,650 --> 00:06:31,950
 ¡Detente!
 
-23
+24
 00:07:56,200 --> 00:08:00,080
 MIRRO WORLD
-
-24
-00:08:19,340 --> 00:08:22,810
-¡Oye, Pedro!
 
 25
 00:08:19,340 --> 00:08:22,810
 ¡Oye, Pedro!
 
 26
+00:08:19,340 --> 00:08:22,810
+¡Oye, Pedro!
+
+27
 00:09:49,810 --> 00:09:51,650
 WHOLE CAKE
  CHÂTEAU
 TERCER PISO
 
-27
+28
 00:10:34,840 --> 00:10:35,980
 ¡Sí!
 
-28
+29
 00:11:58,020 --> 00:12:00,940
 ¡Te esperaré aquí!
 
-29
+30
 00:12:00,940 --> 00:12:06,240
 ¡Si no vuelves, yo...
 
-30
+31
 00:12:06,240 --> 00:12:08,410
 ...me moriré de hambre!
 
-31
+32
 00:12:08,410 --> 00:12:12,460
 ¡Porque eres el cocinero de mi barco!
 
-32
+33
 00:12:13,670 --> 00:12:19,370
 ¡Sólo comeré tu comida!
 
-33
+34
 00:13:13,480 --> 00:13:17,150
 ¿Te importa si lo matamos?
 
-34
+35
 00:13:19,730 --> 00:13:23,440
 Eres un sacrificio, Sanji.
 
-35
+36
 00:13:26,240 --> 00:13:32,740
 ¡Si no huyes, todo se
  resolverá pacíficamente, Sanji!
 
-36
+37
 00:13:35,370 --> 00:13:37,830
 ¡En la boda de mañana,
 
-37
+38
 00:13:37,830 --> 00:13:40,290
 todos los Vinsmoke...
 
-38
+39
 00:13:42,050 --> 00:13:43,970
 ...serán aniquilados!
 
-39
+40
 00:13:49,850 --> 00:13:53,100
 ¡Lárguense, piratas de poca monta!
 
-40
+41
 00:14:00,810 --> 00:14:05,860
 Ya no hay vuelta atrás, Luffy.
 
-41
+42
 00:15:04,660 --> 00:15:08,130
 ¡Te esperaré aquí!
 
-42
+43
 00:16:06,520 --> 00:16:08,860
 Mola
 
-43
+44
 00:16:06,520 --> 00:16:08,860
 Shi
 
-44
+45
 00:16:06,520 --> 00:16:08,860
 Chibukai
 
-45
+46
 00:16:06,520 --> 00:16:08,860
 Fansub!
 
-46
+47
 00:16:06,520 --> 00:16:08,860
 Barra de nubes de lluvia.
 
-47
+48
 00:16:56,950 --> 00:17:01,950
 APOSENTOS DE LA REINA
 WHOLE CAKE CHÂTEAU
 
-48
+49
 00:17:22,380 --> 00:17:23,440
 ¿Eh?
 
-49
+50
 00:17:23,440 --> 00:17:24,500
 ¿"Ese esqueleto"?
 
-50
+51
 00:17:24,500 --> 00:17:27,680
 Pudding-san, pero qué manera 
 más cruel de llamarme...
 
-51
+52
 00:17:29,730 --> 00:17:30,540
 ¡Está demasiado cerca!
 
-52
+53
 00:17:39,920 --> 00:17:40,870
 No puede ser...
 
-53
+54
 00:18:00,220 --> 00:18:01,730
 ¿"Se lo merecen"?
 
-54
+55
 00:18:01,730 --> 00:18:02,220
 ¿Eh?
 
-55
+56
 00:18:35,550 --> 00:18:39,090
 ¿Qué significa esta conversación?
 
-56
+57
 00:18:42,550 --> 00:18:44,120
 ¿Pudding-san?
 
-57
+58
 00:18:44,120 --> 00:18:47,340
 Pensé que eras una chica muy buena.
 
-58
+59
 00:20:16,430 --> 00:20:20,410
 ¡¿Pudding-san matará a Sanji-san?!
 
-59
+60
 00:21:24,340 --> 00:21:26,800
 MIRRO WORLD
 
-60
+61
 00:23:07,940 --> 00:23:13,200
 HABITACIÓN DE SANJI
 
-61
+62
 00:23:55,660 --> 00:24:01,830
 SALA DE REUNIONES
 
-62
+63
 00:25:52,400 --> 00:25:56,560
 ¡No puedo decir que fallé...!
 
-63
+64
 00:25:56,560 --> 00:25:59,870
 ¡Mamá me quitará años de vida-fa!
 
-64
+65
 00:26:24,570 --> 00:26:28,390
 ¡Sí!
 
-65
+66
 00:26:41,310 --> 00:26:42,200
 ¡Sí!
 
-66
+67
 00:26:43,410 --> 00:26:45,830
 No confío en Opera.
 
-67
+68
 00:26:46,750 --> 00:26:49,920
 TERCER PISO
 ENFERMERÍA
 
-68
+69
 00:26:52,960 --> 00:26:57,340
 SWEET CITY
 
-69
+70
 00:26:57,380 --> 00:26:59,630
 DENTRO
 DEL CASTILLO
 
-70
+71
 00:27:01,050 --> 00:27:02,900
 Cielos...
 
-71
+72
 00:27:02,900 --> 00:27:04,720
 ¿Hice esto para Pudding-chan?
 
-72
+73
 00:27:05,580 --> 00:27:08,100
 ¿Qué estoy haciendo?
 
-73
+74
 00:27:20,430 --> 00:27:23,910
 Son sus comidas favoritas.
 
-74
+75
 00:27:26,890 --> 00:27:30,180
 ¡Olvídalos, olvídalos!
 
-75
+76
 00:27:39,900 --> 00:27:42,800
 No hace falta que me preocupe 
 por Luffy y los demás.
 
-76
+77
 00:27:42,800 --> 00:27:45,720
 Escaparán por su cuenta.
 
-77
+78
 00:27:45,720 --> 00:27:48,970
 Todos los Vinsmoke, los del
  malvado ejército, morirán.
 
-78
+79
 00:27:48,970 --> 00:27:50,340
 Yo también moriré.
 
-79
+80
 00:27:50,340 --> 00:27:52,310
 Tal y como Big Mom planeó.
 
-80
+81
 00:27:52,310 --> 00:27:54,750
 Eso es lo mejor.
 
-81
+82
 00:27:54,750 --> 00:27:56,970
 Terminará todo sin que 
 desafiemos a nuestros enemigos.
 
-82
+83
 00:27:56,970 --> 00:28:01,400
 Fue una vida corta, pero satisfactoria.
 
-83
+84
 00:28:14,580 --> 00:28:19,600
 ¡Si no vuelves, yo...
 
-84
+85
 00:28:19,600 --> 00:28:21,800
 ...me moriré de hambre!
 
-85
+86
 00:29:05,470 --> 00:29:08,600
 ¡¿Qué estoy haciendo?!
 
-86
+87
 00:00:01,980 --> 00:00:05,650
 Mis sentimientos por ti palpitan intensamente.
 
-87
+88
 00:00:05,650 --> 00:00:09,280
 Si lo que buscas...
 
-88
+89
 00:00:09,280 --> 00:00:12,490
 ...es tener un poder sin límites,
 
-89
+90
 00:00:12,490 --> 00:00:14,860
 entonces muestra nuestros vínculos inalterables.
 
-90
+91
 00:00:14,860 --> 00:00:16,070
 Somos la esperanza.
 
-91
+92
 00:00:22,580 --> 00:00:28,800
 La alegría de nuestros corazones colisionando...
 
-92
+93
 00:00:29,460 --> 00:00:35,760
 ...y la tristeza al secarse las lágrimas de alegría...
 
-93
+94
 00:00:36,840 --> 00:00:43,350
 ...conéctalas y ondéalas...
 
-94
+95
 00:00:43,730 --> 00:00:50,230
 ...en lo más alto de este viento.
 
-95
+96
 00:00:50,230 --> 00:00:53,190
 ¿Por qué dejaste de buscar?
 
-96
+97
 00:00:53,610 --> 00:00:56,570
 ¿Por qué sigues luchando solo?
 
-97
+98
 00:00:56,990 --> 00:00:59,870
 Oye, ¿para qué futuro te has preparado?
 
-98
+99
 00:00:59,870 --> 00:01:03,370
 Ya has cumplido tu sueño.
 
-99
+100
 00:01:03,710 --> 00:01:07,380
 Mis sentimientos por ti palpitan intensamente.
 
-100
+101
 00:01:07,380 --> 00:01:11,000
 Si lo que buscas...
 
-101
+102
 00:01:11,000 --> 00:01:14,220
 ...es tener un poder sin límites,
 
-102
+103
 00:01:14,220 --> 00:01:16,550
 entonces muestra nuestros vínculos inmutables.
 
-103
+104
 00:01:16,550 --> 00:01:17,800
 Somos la esperanza.
 
-104
+105
 00:01:18,050 --> 00:01:20,850
 En los confines de este enorme mundo azul,
 
-105
+106
 00:01:21,470 --> 00:01:23,890
 hay un lugar al que quiero ir contigo.
 
-106
+107
 00:01:23,890 --> 00:01:26,640
 Si hay una ruta para llegar allí,
 
-107
+108
 00:01:26,640 --> 00:01:33,280
 ya lo decidimos hace mucho tiempo.
-

@@ -1,1621 +1,1621 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:51,630 --> 00:01:54,970
 No!
 
-2
+3
 00:01:54,970 --> 00:01:57,930
 Cadiamo! Cadiamo!
 
-3
+4
 00:01:57,930 --> 00:02:00,730
 Cadiamo!
 
-4
+5
 00:02:13,110 --> 00:02:14,910
 Bene! Siamo arrivati!
 
-5
+6
 00:02:14,910 --> 00:02:17,490
 Ah, che stanco, che stanco...
 
-6
+7
 00:02:18,870 --> 00:02:21,750
 Ma quale "siamo arrivati"?! Pensavo sarei morta!
 
-7
+8
 00:02:21,750 --> 00:02:23,620
 Non c'era altra scelta!
 
-8
+9
 00:02:23,620 --> 00:02:27,920
 Sei stata tu a dire di non usare l'ascensore 
 perché se ci avessero scoperti sarebbero stati guai!
 
-9
+10
 00:02:27,920 --> 00:02:30,210
 Ma la soluzione non è certo saltare giù!
 
-10
+11
 00:02:30,210 --> 00:02:32,670
 Non sei quel carpentiere dal naso quadrato!
 
-11
+12
 00:02:32,670 --> 00:02:35,300
 S-Scusa...
 
-12
+13
 00:02:35,300 --> 00:02:38,100
 Ma ok, almeno siamo scesi.
 
-13
+14
 00:02:38,100 --> 00:02:39,510
 Se è ok, non colpirmi!
 
-14
+15
 00:02:43,100 --> 00:02:46,150
 Però... Questo potrebbe essere un problema.
 
-15
+16
 00:02:46,690 --> 00:02:49,230
 "Un problema"? Quale problema?
 
-16
+17
 00:02:49,900 --> 00:02:52,570
 La topografia e il clima di quest'isola.
 
-17
+18
 00:02:52,570 --> 00:02:55,910
 Con un vento così forte e 
 la pressione che continua a scendere
 
-18
+19
 00:02:55,910 --> 00:02:58,030
 stasera potrebbe esserci un tifone.
 
-19
+20
 00:02:58,700 --> 00:03:01,160
 Questa città è detta la "capitale dell'acqua",
 
-20
+21
 00:03:01,160 --> 00:03:04,580
 ma il rovescio della medaglia è 
 la sua vulnerabilità per le inondazioni.
 
-21
+22
 00:03:04,580 --> 00:03:06,670
 E quindi?
 
-22
+23
 00:03:06,670 --> 00:03:10,750
 Beh... Mi incuriosisce, quindi indagherò dopo.
 
-23
+24
 00:03:10,750 --> 00:03:13,590
 In ogni caso, torniamo all'ostello per ora.
 
-24
+25
 00:03:16,300 --> 00:03:21,970
 A seguito dell'allerta per 
 l'Aqua Laguna emesso in tutta l'isola
 
-25
+26
 00:03:21,970 --> 00:03:27,150
 tutti i cantieri navali nei dock dell'isola 
 apriranno degli spazi per l'evacuazione.
 
-26
+27
 00:03:27,940 --> 00:03:32,400
 Si prevede un traffico intenso, perciò si pregano i 
 cittadini di evacuare il prima possibile.
 
-27
+28
 00:03:33,320 --> 00:03:38,070
 Al momento, il Dock 1 è in una 
 situazione pericolosa perciò...
 
-28
+29
 00:03:38,070 --> 00:03:40,490
 Bene! Monto la porta di ferro!
 
-29
+30
 00:03:42,410 --> 00:03:44,040
 Non avete scordato niente, vero?
 
-30
+31
 00:03:44,040 --> 00:03:47,420
 No, tutto ok. 
 Evacuiamo verso i cantieri navali.
 
-31
+32
 00:03:47,420 --> 00:03:50,750
 Dai, aspetta! Devo stipare bene la canapa!
 
-32
+33
 00:03:51,670 --> 00:03:54,960
 Se l'acqua si infiltrasse in casa, tutto verrà rovinato.
 
-33
+34
 00:03:54,960 --> 00:04:00,510
 Ehi! Il vento sta diventando più forte! 
 State in guardia, le onde stanno per arrivare!
 
-34
+35
 00:04:00,510 --> 00:04:04,720
 Gente, se ve la prendete troppo con calma, 
 questa volta arriveranno anche i pirati assassini!
 
-35
+36
 00:04:04,720 --> 00:04:05,770
 Che paura!
 
-36
+37
 00:04:05,770 --> 00:04:07,270
 Dov'è sparito?!
 
-37
+38
 00:04:07,270 --> 00:04:09,060
 Se non erro, è passato per di qua...
 
-38
+39
 00:04:09,060 --> 00:04:10,940
 Sicuramente è ancora nei paraggi!
 
-39
+40
 00:04:10,940 --> 00:04:12,770
 Bene! Voi cercate da quella parte.
 
-40
+41
 00:04:12,770 --> 00:04:14,230
 Ok!
 
-41
+42
 00:04:20,620 --> 00:04:22,780
 Ma che cavolo succede?
 
-42
+43
 00:04:22,780 --> 00:04:25,950
 Perché mi stanno inseguendo?! Non capisco!
 
-43
+44
 00:04:35,250 --> 00:04:36,960
 È per questo che mi inseguono?!
 
-44
+45
 00:04:37,630 --> 00:04:40,050
 "La ciurma di assassini"? Accidenti...
 
-45
+46
 00:04:40,050 --> 00:04:43,220
 Di questo passo, non potremo 
 nemmeno tornare all'ostello.
 
-46
+47
 00:04:43,220 --> 00:04:45,260
 Ah! Chi c'è laggiù?!
 
-47
+48
 00:04:45,770 --> 00:04:47,770
 È qui! Il tizio sospetto è qui!
 
-48
+49
 00:04:49,730 --> 00:04:51,020
 Proprietario, ne è sicuro?
 
-49
+50
 00:04:51,020 --> 00:04:55,650
 Sì... Quella ciurma si è fermata qui questa notte.
 
-50
+51
 00:04:55,650 --> 00:04:57,400
 E fino a poco fa erano là...
 
-51
+52
 00:04:57,400 --> 00:04:58,950
 Erano qui?
 
-52
+53
 00:04:58,950 --> 00:04:59,860
 Sì!
 
-53
+54
 00:04:59,860 --> 00:05:05,240
 Ci sono ancora grossi bagagli nella loro stanza, 
 perciò probabilmente torneranno...
 
-54
+55
 00:05:06,080 --> 00:05:08,120
 Bene! Voi rimanete qui!
 
-55
+56
 00:05:08,910 --> 00:05:11,370
 Il resto venga con me e cercheremo nei dintorni!
 
-56
+57
 00:05:11,370 --> 00:05:14,420
 Sentite bene! Setacciate ogni 
 centimetro finché non li troveremo!
 
-57
+58
 00:05:14,420 --> 00:05:15,800
 – Sì!
 – Sì!
 
-58
+59
 00:05:26,560 --> 00:05:28,430
 Ehi! Non c'è nessuno qui.
 
-59
+60
 00:05:30,230 --> 00:05:32,560
 Sicuro che sia questa la nave?
 
-60
+61
 00:05:32,560 --> 00:05:35,150
 Sono sicuro! Guarda quella!
 
-61
+62
 00:05:35,150 --> 00:05:37,280
 È la bandiera pirata dei Cappello di Paglia!
 
-62
+63
 00:05:37,280 --> 00:05:40,860
 Devono averla già abbandonata.
 
-63
+64
 00:05:40,860 --> 00:05:42,150
 È in pessime condizioni.
 
-64
+65
 00:05:46,830 --> 00:05:48,490
 Allora? Sono qui?
 
-65
+66
 00:05:48,490 --> 00:05:49,700
 No! Non ci sono!
 
-66
+67
 00:05:49,700 --> 00:05:53,960
 Ridotta in questo stato, 
 sicuramente sarà da rottamare.
 
-67
+68
 00:05:53,960 --> 00:05:55,540
 Cerchiamo altrove!
 
-68
+69
 00:06:07,600 --> 00:06:10,310
 Ma chi erano quelli?
 
-69
+70
 00:06:13,390 --> 00:06:17,150
 Che stia succedendo qualcosa in città?
 
-70
+71
 00:06:17,150 --> 00:06:18,080
 Erano là?
 
-71
+72
 00:06:18,080 --> 00:06:19,610
 No, non c'erano.
 
-72
+73
 00:06:19,610 --> 00:06:21,900
 Maledizione! Dove sono andati?
 
-73
+74
 00:06:26,990 --> 00:06:29,200
 Ehi, Luffy!
 
-74
+75
 00:06:29,200 --> 00:06:30,830
 Eh? Che c'è, Nami?
 
-75
+76
 00:06:30,830 --> 00:06:32,710
 Gli altri saranno al sicuro?
 
-76
+77
 00:06:32,710 --> 00:06:35,040
 La città è piena di carpentieri...
 
-77
+78
 00:06:35,040 --> 00:06:40,090
 Chopper e Sanji non sono ancora stati scoperti, 
 perciò penso stiano bene, ma...
 
-78
+79
 00:06:40,090 --> 00:06:41,170
 Comunque sbrighiamoci!
 
-79
+80
 00:06:41,170 --> 00:06:42,510
 Sì!
 
-80
+81
 00:06:46,390 --> 00:06:49,350
 Il treno marino è in funzione?
 
-81
+82
 00:06:49,350 --> 00:06:55,650
 Il viaggio diurno è già partito, ma intendono 
 farne un altro stanotte con questo tempaccio?
 
-82
+83
 00:06:55,650 --> 00:07:01,070
 Partenza per Enies Lobby alle 11 di notte. 
 Questo treno marino è proprio incredibile.
 
-83
+84
 00:07:01,070 --> 00:07:03,070
 Ehi! Hai informazioni sui pirati?!
 
-84
+85
 00:07:03,070 --> 00:07:05,030
 No! Non ne ho nessuna!
 
-85
+86
 00:07:05,030 --> 00:07:09,660
 Una volta catturato uno dei tre di cui conosciamo il viso, 
 lo costringeremo a dirci l'identità degli altri membri!
 
-86
+87
 00:07:09,660 --> 00:07:12,240
 Muoviamoci! Prima che le onde diventino alte!
 
-87
+88
 00:07:13,160 --> 00:07:16,580
 Possibile che... Robin sia salita sul treno marino?
 
-88
+89
 00:07:16,580 --> 00:07:20,170
 Se fosse così, sarebbe una rottura 
 di scatole a livelli estremi.
 
-89
+90
 00:07:20,880 --> 00:07:24,550
 Anche solo Water Seven è 
 estremamente vasta per cercarla...
 
-90
+91
 00:07:24,550 --> 00:07:28,090
 Forse... l'ho fatta arrabbiare per qualcosa in libreria?
 
-91
+92
 00:07:28,090 --> 00:07:30,600
 Idiota. Non esiste proprio.
 
-92
+93
 00:07:30,600 --> 00:07:31,390
 Ehi, tu!
 
-93
+94
 00:07:31,970 --> 00:07:33,930
 Non è che per caso hai visto questa bellezza?
 
-94
+95
 00:07:33,930 --> 00:07:37,310
 Ah? Ah, quella? 
 Sarà una bellezza tra vent'anni, no?
 
-95
+96
 00:07:37,310 --> 00:07:41,360
 Se la vedessi, lo direi subito ai giornali o alla Galley-La.
 
-96
+97
 00:07:41,360 --> 00:07:43,230
 Però non avrei mai pensato fosse un'assassina...
 
-97
+98
 00:07:43,230 --> 00:07:45,780
 Che roba...
 
-98
+99
 00:07:45,780 --> 00:07:50,160
 Beh, cercare i colpevoli non è una brutta idea, 
 ma dovreste evacuare anche voi al più presto.
 
-99
+100
 00:07:50,160 --> 00:07:52,450
 Verrete travolti dall'Aqua Laguna.
 
-100
+101
 00:07:53,490 --> 00:07:55,000
 Ci si vede!
 
-101
+102
 00:08:00,750 --> 00:08:02,840
 Le cose si stanno mettendo male...
 
-102
+103
 00:08:02,840 --> 00:08:05,420
 Luffy e gli altri... saranno in salvo?
 
-103
+104
 00:08:05,420 --> 00:08:09,890
 Luffy sta bene. Ciò che mi preoccupa è Nami.
 
-104
+105
 00:08:11,430 --> 00:08:14,890
 Comunque... 
 le persone sono diminuite parecchio.
 
-105
+106
 00:08:15,520 --> 00:08:20,560
 Il vento sta diventando sempre più forte, 
 hanno tutti iniziato ad evacuare.
 
-106
+107
 00:08:21,520 --> 00:08:23,400
 Merda!
 
-107
+108
 00:08:23,400 --> 00:08:25,150
 Ehi! Robin!
 
-108
+109
 00:08:25,780 --> 00:08:27,650
 Dove sei finita?!
 
-109
+110
 00:08:29,450 --> 00:08:32,450
 Quest'odore... che sia...?
 
-110
+111
 00:08:34,870 --> 00:08:36,000
 Chopper, che succede?
 
-111
+112
 00:08:37,040 --> 00:08:38,040
 Chopper?!
 
-112
+113
 00:08:40,000 --> 00:08:42,080
 Ehi! A-Aspetta!
 
-113
+114
 00:08:44,210 --> 00:08:45,130
 C'è!
 
-114
+115
 00:08:47,050 --> 00:08:48,010
 Ehi, Chopper!
 
-115
+116
 00:08:48,010 --> 00:08:49,680
 Chopper!
 
-116
+117
 00:08:50,510 --> 00:08:53,930
 Oh– Oh, oh! Aaah!
 
-117
+118
 00:08:56,310 --> 00:08:57,680
 Ehi, va tutto bene?!
 
-118
+119
 00:08:59,140 --> 00:09:00,560
 Chopper, stai bene?
 
-119
+120
 00:09:01,440 --> 00:09:02,560
 Ti sei fatto male?
 
-120
+121
 00:09:02,560 --> 00:09:06,480
 Che cavolo... Non fare l'incosciente! 
 Che ti succede?!
 
-121
+122
 00:09:06,480 --> 00:09:10,320
 Hai iniziato a correre così all'imp... rovviso...
 
-122
+123
 00:09:13,030 --> 00:09:14,370
 – Robin!
 – Robin!
 
-123
+124
 00:09:16,370 --> 00:09:19,330
 Dove sei stata?! Ti stavamo cercando!
 
-124
+125
 00:09:19,330 --> 00:09:20,410
 Siamo tutti preoccupati!
 
-125
+126
 00:09:20,410 --> 00:09:23,080
 Dai! Torna con noi all'ostello.
 
-126
+127
 00:09:23,080 --> 00:09:26,710
 Ah beh, sono successe un po' di cose anche 
 tra noi, ma ti spiegheremo con calma.
 
-127
+128
 00:09:26,710 --> 00:09:29,340
 Essere divisi così è frustante!
 
-128
+129
 00:09:29,340 --> 00:09:32,380
 Aspettami! Faccio il giro per venire di là!
 
-129
+130
 00:09:33,550 --> 00:09:36,310
 No. Va bene così. Rimani dove sei.
 
-130
+131
 00:09:37,010 --> 00:09:38,020
 Eh?
 
-131
+132
 00:09:38,600 --> 00:09:40,020
 Io non...
 
-132
+133
 00:09:40,020 --> 00:09:43,020
 tornerò mai più da voi.
 
-133
+134
 00:09:43,940 --> 00:09:47,400
 Ci separeremo qui, in questa città.
 
-134
+135
 00:09:47,980 --> 00:09:51,650
 C-Che stai dicendo, Robin?
 
-135
+136
 00:09:51,650 --> 00:09:53,780
 Ah, giusto, è per ciò che ha detto il giornale, vero?
 
-136
+137
 00:09:53,780 --> 00:09:55,530
 Non devi preoccuparti di quelle cose!
 
-137
+138
 00:09:56,410 --> 00:09:58,790
 Nessuno di noi ci crede
 
-138
+139
 00:09:58,790 --> 00:10:02,410
 ed essere accusati di crimini è comune per dei pirati!
 
-139
+140
 00:10:02,410 --> 00:10:03,420
 Hai ragione.
 
-140
+141
 00:10:03,420 --> 00:10:07,960
 Mi spiace di avervi addossato 
 dei crimini che non avete commesso.
 
-141
+142
 00:10:07,960 --> 00:10:12,010
 Però... per quanto mi riguarda, 
 è un articolo che non mente.
 
-142
+143
 00:10:12,010 --> 00:10:16,550
 Ieri notte, ad entrare nella villa del sindaco... 
 sono stata effettivamente io.
 
-143
+144
 00:10:16,550 --> 00:10:17,470
 Eh?
 
-144
+145
 00:10:18,140 --> 00:10:19,470
 Non è possibile...
 
-145
+146
 00:10:19,470 --> 00:10:23,440
 Io ho un'oscurità che non conoscete.
 
-146
+147
 00:10:24,100 --> 00:10:27,270
 Un giorno, quell'oscurità vi distruggerà.
 
-147
+148
 00:10:29,280 --> 00:10:34,700
 Fino ad oggi, tutte le organizzazioni di cui Nico 
 Robin ha fatto parte sono state tutte distrutte.
 
-148
+149
 00:10:34,700 --> 00:10:37,620
 Tutto è stato distrutto tranne quella donna.
 
-149
+150
 00:10:38,620 --> 00:10:44,330
 In effetti intendo far ricadere su di voi 
 le colpe di questo crimine e fuggire.
 
-150
+151
 00:10:44,330 --> 00:10:46,580
 Il peggio deve ancora arrivare.
 
-151
+152
 00:10:46,580 --> 00:10:49,000
 Che intendi?! Perché lo faresti?!
 
-152
+153
 00:10:49,000 --> 00:10:53,130
 Anche il motivo per cui lo faccio 
 è qualcosa che non serve sappiate.
 
-153
+154
 00:10:55,220 --> 00:10:59,560
 Robin! Non capisco cosa stai dicendo! 
 Cosa ti è successo?!
 
-154
+155
 00:10:59,560 --> 00:11:02,270
 Robin! Torniamo indietro insieme!
 
-155
+156
 00:11:04,350 --> 00:11:08,230
 Siamo stati insieme poco, ma oggi sarà l'ultimo giorno.
 
-156
+157
 00:11:08,900 --> 00:11:11,940
 Non ci vedremo mai più.
 
-157
+158
 00:11:12,610 --> 00:11:16,910
 Grazie per avermi trattata bene fino ad oggi.
 
-158
+159
 00:11:18,320 --> 00:11:19,450
 Addio.
 
-159
+160
 00:11:33,880 --> 00:11:35,510
 Aspetta...
 
-160
+161
 00:11:36,050 --> 00:11:38,550
 Ehi... Aspetta...
 
-161
+162
 00:11:39,640 --> 00:11:41,510
 Questo...
 
-162
+163
 00:11:41,510 --> 00:11:43,930
 non posso proprio accettarlo!
 
-163
+164
 00:11:44,770 --> 00:11:45,850
 Ehi!
 
-164
+165
 00:11:47,560 --> 00:11:49,310
 Aspetta!
 
-165
+166
 00:11:51,940 --> 00:11:54,110
 Smettila di scherzare!
 
-166
+167
 00:11:54,110 --> 00:11:55,950
 Aspetta, Robin!
 
-167
+168
 00:11:55,950 --> 00:11:56,990
 Robin!
 
-168
+169
 00:11:57,700 --> 00:12:00,410
 Aspetta, Robin! Robin!
 
-169
+170
 00:12:08,370 --> 00:12:11,130
 Robin!
 
-170
+171
 00:12:18,050 --> 00:12:19,550
 L'abbiamo persa di vista...
 
-171
+172
 00:12:19,550 --> 00:12:20,590
 Già...
 
-172
+173
 00:12:23,890 --> 00:12:26,060
 Chopper...
 
-173
+174
 00:12:24,350 --> 00:12:26,060
 Eh?
 
-174
+175
 00:12:26,060 --> 00:12:31,060
 Tu... raggiungi Luffy e gli altri e 
 spiegagli tutto ciò che è appena successo.
 
-175
+176
 00:12:31,060 --> 00:12:34,280
 Senza dimenticare nemmeno una parola.
 
-176
+177
 00:12:34,280 --> 00:12:35,310
 E tu, Sanji?
 
-177
+178
 00:12:35,310 --> 00:12:38,030
 Io per un po'... agirò separatamente.
 
-178
+179
 00:12:39,110 --> 00:12:42,660
 Ma non preoccuparti... Non farò idiozie.
 
-179
+180
 00:12:43,950 --> 00:12:44,950
 Dove sono andati?
 
-180
+181
 00:12:44,950 --> 00:12:46,500
 Cercate bene!
 
-181
+182
 00:12:47,040 --> 00:12:48,500
 Sono nel vicolo?
 
-182
+183
 00:12:48,500 --> 00:12:50,500
 Non è che sono saliti su qualche tetto?!
 
-183
+184
 00:12:51,250 --> 00:12:52,790
 Maledizione! Ci hanno seminati?
 
-184
+185
 00:12:53,340 --> 00:12:55,550
 No, ma mi pareva fossero fuggiti da questa parte...
 
-185
+186
 00:12:55,550 --> 00:12:57,420
 Andiamo a vedere da quella parte?
 
-186
+187
 00:12:57,420 --> 00:12:59,630
 Allora noi cercheremo dentro gli edifici!
 
-187
+188
 00:12:59,630 --> 00:13:02,180
 Bene! Ci divideremo in due per 
 continuare a cercare!
 
-188
+189
 00:13:02,180 --> 00:13:03,600
 – Ok!
 – Ok!
 
-189
+190
 00:13:05,720 --> 00:13:06,520
 Può bastare?
 
-190
+191
 00:13:07,020 --> 00:13:08,230
 Non ancora.
 
-191
+192
 00:13:10,060 --> 00:13:11,770
 Sono spariti intorno a qui!
 
-192
+193
 00:13:14,360 --> 00:13:16,400
 Ancora un po'...
 
-193
+194
 00:13:33,330 --> 00:13:34,420
 Ah...
 
-194
+195
 00:13:39,470 --> 00:13:40,800
 La prego...
 
-195
+196
 00:13:41,550 --> 00:13:45,850
 Passa un'altra volta! Sto per evacuare! 
 Sei così insistente!
 
-196
+197
 00:13:46,310 --> 00:13:49,100
 La prego... Se è per soldi, ne ho.
 
-197
+198
 00:13:50,020 --> 00:13:54,810
 Tutto il legname che posso comprare con questi... 
 E anche del catrame e delle corde.
 
-198
+199
 00:13:54,810 --> 00:13:58,320
 Ah, e dei chiodi, dei ganci e un po' di latta!
 
-199
+200
 00:13:58,320 --> 00:14:00,530
 Sto chiudendo il negozio.
 
-200
+201
 00:14:00,530 --> 00:14:02,950
 Ah, m-mi dispiace, ma...
 
-201
+202
 00:14:08,670 --> 00:14:10,290
 Ho capito.
 
-202
+203
 00:14:10,290 --> 00:14:12,120
 Ma con così poco, non potrai comprare molto.
 
-203
+204
 00:14:12,750 --> 00:14:17,460
 A-Allora... per ciò che non basta 
 potremmo scambiare delle merci...
 
-204
+205
 00:14:17,460 --> 00:14:19,710
 Ehi, ehi, non dire sciocchezze! Smettila.
 
-205
+206
 00:14:19,710 --> 00:14:24,470
 Qui si vende e basta. Barattare? 
 Ma da che razza di villaggio vieni?!
 
-206
+207
 00:14:28,350 --> 00:14:30,430
 Accidenti, non ho altra scelta...
 
-207
+208
 00:14:38,440 --> 00:14:42,190
 E-Ehi! Ce la fai con delle ferite così gravi?!
 
-208
+209
 00:14:42,860 --> 00:14:45,910
 Avrai altri compagni, no? Ehi!
 
-209
+210
 00:14:47,530 --> 00:14:49,030
 Dai, guardati!
 
-210
+211
 00:15:06,640 --> 00:15:08,640
 Ehi! Aspetta un secondo, ragazzo!
 
-211
+212
 00:15:10,600 --> 00:15:12,980
 Va tutto bene, non è niente...
 
-212
+213
 00:15:12,350 --> 00:15:12,980
 Ehi!
 
-213
+214
 00:15:12,980 --> 00:15:15,600
 Che vuole? Non mi serve aiuto...
 
-214
+215
 00:15:15,600 --> 00:15:16,350
 No.
 
-215
+216
 00:15:16,850 --> 00:15:18,310
 Questi, prendili.
 
-216
+217
 00:15:18,310 --> 00:15:20,270
 Hai fame, no?
 
-217
+218
 00:15:25,450 --> 00:15:26,450
 Grazie!
 
-218
+219
 00:15:26,450 --> 00:15:29,030
 Sì. Fa' attenzione.
 
-219
+220
 00:15:36,120 --> 00:15:37,880
 Fa' attenzione!
 
-220
+221
 00:15:48,680 --> 00:15:50,220
 Che buono!
 
-221
+222
 00:15:50,220 --> 00:15:53,180
 Davvero buono!
 
-222
+223
 00:15:53,180 --> 00:15:56,140
 Era un signore piuttosto premuroso...
 
-223
+224
 00:16:08,910 --> 00:16:11,910
 Le onde stanno diventando più alte...
 
-224
+225
 00:16:17,830 --> 00:16:20,500
 Non preoccuparti! Va tutto bene.
 
-225
+226
 00:16:28,930 --> 00:16:33,100
 Tu... sei una nave... che ha volato nel cielo!
 
-226
+227
 00:16:34,680 --> 00:16:36,140
 Non preoccuparti!
 
-227
+228
 00:16:47,690 --> 00:16:49,740
 Che ti succede così all'improvviso?
 
-228
+229
 00:16:58,080 --> 00:17:00,330
 Che ti succede, Franky?
 
-229
+230
 00:17:07,710 --> 00:17:08,840
 Fratello?
 
-230
+231
 00:17:10,430 --> 00:17:12,050
 Mi sta salendo il nervoso!
 
-231
+232
 00:17:12,050 --> 00:17:14,560
 È ora di ricominciare a scatenarsi!
 
-232
+233
 00:17:15,600 --> 00:17:18,060
 Ah, fratello, aspettaci!
 
-233
+234
 00:17:19,390 --> 00:17:22,020
 Grazie dell'ospitalità, Blueno!
 
-234
+235
 00:17:26,320 --> 00:17:29,740
 Che è successo a Franky così 
 all'improvviso, signora Kokoro?
 
-235
+236
 00:17:33,320 --> 00:17:40,160
 Chissà. Non posso capire cosa 
 passa per la testa degli idioti.
 
-236
+237
 00:17:52,760 --> 00:17:54,090
 Finalmente le cose si sono calmate.
 
-237
+238
 00:17:54,600 --> 00:17:56,350
 "Si sono calmate" dici?!
 
-238
+239
 00:17:56,350 --> 00:17:59,520
 È perché ti sei fatto inseguire 
 da così tanti carpentieri
 
-239
+240
 00:17:59,520 --> 00:18:02,230
 che hai finito per coinvolgere anche noi, no?!
 
-240
+241
 00:18:02,230 --> 00:18:05,770
 Come stavo dicendo, è stato un'incidente inevitabile.
 
-241
+242
 00:18:05,770 --> 00:18:09,690
 Comunque, Chopper, sei stato bravo 
 a capire dove fossimo!
 
-242
+243
 00:18:09,690 --> 00:18:10,560
 È per l'odore.
 
-243
+244
 00:18:10,560 --> 00:18:12,490
 Ah– Capisco!
 
-244
+245
 00:18:12,490 --> 00:18:15,200
 Eh? Ma dov'è Sanji?
 
-245
+246
 00:18:15,200 --> 00:18:16,070
 Ecco...
 
-246
+247
 00:18:30,830 --> 00:18:33,970
 Robin ha detto davvero così?!
 
-247
+248
 00:18:34,840 --> 00:18:35,930
 Sì...
 
-248
+249
 00:18:42,640 --> 00:18:45,310
 Avremmo dovuto essere tutti preparati.
 
-249
+250
 00:18:47,860 --> 00:18:52,400
 Anche se Robin era apparsa come nostra nemica, 
 l'abbiamo lasciata salire sulla nostra nave.
 
-250
+251
 00:18:53,070 --> 00:18:57,320
 Se ha preso improvvisamente paura ed 
 è fuggita, la cosa non mi sta bene.
 
-251
+252
 00:18:59,240 --> 00:19:02,830
 Che sia arrivato il momento di chiudere i conti?
 
-252
+253
 00:19:03,660 --> 00:19:07,960
 Quella donna... è nostra nemica? 
 O una nostra compagna?
 
-253
+254
 00:19:10,420 --> 00:19:17,180
 Il peggio deve ancora arrivare. Siamo stati insieme poco, 
 ma oggi sarà l'ultimo giorno. Non ci vedremo mai più.
 
-254
+255
 00:19:20,890 --> 00:19:24,940
 Robin ha detto proprio così, giusto, Chopper?
 
-255
+256
 00:19:26,190 --> 00:19:26,940
 Sì.
 
-256
+257
 00:19:28,360 --> 00:19:31,820
 Ha detto che oggi sarà l'ultimo giorno, quindi
 
-257
+258
 00:19:31,820 --> 00:19:37,200
 sembra che abbia voluto dichiarare che entro 
 oggi succederà qualcosa che peggiorerà la situazione.
 
-258
+259
 00:19:41,950 --> 00:19:45,710
 Se il tentato omicidio del sindaco 
 ha fatto tanto scalpore in città,
 
-259
+260
 00:19:46,870 --> 00:19:49,920
 se dovesse succedere qualcosa che peggiorerà le cose
 
-260
+261
 00:19:49,920 --> 00:19:52,170
 c'è solo una possibilità.
 
-261
+262
 00:19:52,710 --> 00:19:55,630
 Questa volta... il sindaco verrà ucciso.
 
-262
+263
 00:19:58,470 --> 00:20:00,850
 È naturale pensarlo.
 
-263
+264
 00:20:02,760 --> 00:20:06,980
 Ma, ora che sappiamo che vuole addossarci il crimine,
 
-264
+265
 00:20:06,980 --> 00:20:11,360
 potrebbe anche essere una trappola 
 per attirarci sulla scena del crimine.
 
-265
+266
 00:20:11,360 --> 00:20:12,860
 Una trappola?
 
-266
+267
 00:20:12,860 --> 00:20:16,490
 Se ci trovassimo sulla scena del delitto questa notte
 
-267
+268
 00:20:16,490 --> 00:20:18,360
 sarà facile dare la colpa a noi.
 
-268
+269
 00:20:18,990 --> 00:20:23,490
 Ehi! Parlando così, sembra che tu abbia 
 già deciso che Robin è nostra nemica!
 
-269
+270
 00:20:24,240 --> 00:20:26,660
 Sto solo parlando di ipotesi.
 
-270
+271
 00:20:26,660 --> 00:20:28,830
 Non ho ancora deciso da che parte stare.
 
-271
+272
 00:20:29,790 --> 00:20:33,590
 Se ti fai condizionare verso la fiducia o il sospetto,
 
-272
+273
 00:20:33,590 --> 00:20:35,800
 quando la verità si rivelasse essere l'opposto
 
-273
+274
 00:20:37,260 --> 00:20:40,760
 finirà per rallentare i tuoi tempi di reazione.
 
-274
+275
 00:20:45,140 --> 00:20:48,890
 Questa sera qualcosa succederà. 
 Andremo sulla scena?
 
-275
+276
 00:20:48,890 --> 00:20:50,100
 Ci andremo.
 
-276
+277
 00:20:51,190 --> 00:20:56,230
 Non mi importa se andiamo, ma c'è un problema.
 
-277
+278
 00:20:56,230 --> 00:21:00,240
 Sanji ha visto Robin camminare con qualcuno, no?
 
-278
+279
 00:21:00,780 --> 00:21:03,490
 Anche il signor Iceburg ha detto lo stesso.
 
-279
+280
 00:21:03,490 --> 00:21:06,500
 Ha detto che era con qualcuno 
 che indossava una maschera.
 
-280
+281
 00:21:06,500 --> 00:21:09,330
 Quella persona non è nessuno di noi.
 
-281
+282
 00:21:10,210 --> 00:21:13,000
 Il motivo del repentino cambiamento 
 di Robin è sicuramente lui!
 
-282
+283
 00:21:13,630 --> 00:21:17,590
 Non è che sta obbligando Robin ha fare cose cattive?!
 
-283
+284
 00:21:17,590 --> 00:21:19,930
 Pensare in quel modo porterà fortuna.
 
-284
+285
 00:21:19,930 --> 00:21:23,180
 Ma se Robin e quel tizio fossero
  veri compagni, sarà una sfortuna.
 
-285
+286
 00:21:24,100 --> 00:21:29,520
 Ma non abbiamo alcun indizio su chi sia 
 quel tizio mascherato, quello è il problema!
 
-286
+287
 00:21:29,520 --> 00:21:31,350
 Qual è il nostro obiettivo?
 
-287
+288
 00:21:31,350 --> 00:21:33,730
 Catturare Robin!
 
-288
+289
 00:21:34,820 --> 00:21:37,610
 Altrimenti non potremo capirne niente!
 
-289
+290
 00:21:38,900 --> 00:21:42,160
 In effetti, continuare a pensarci e basta 
 è una perdita di tempo.
 
-290
+291
 00:21:42,160 --> 00:21:43,160
 Però se non erro
 
-291
+292
 00:21:43,160 --> 00:21:48,040
 il Governo Mondiale ha cercato 
 di catturarla per vent'anni
 
-292
+293
 00:21:48,040 --> 00:21:50,830
 e non ci è ancora riuscita.
 
-293
+294
 00:21:51,250 --> 00:21:53,830
 Però per sapere la verità è l'unico modo, no?
 
-294
+295
 00:21:56,130 --> 00:21:58,380
 Bene! Darò anch'io del mio meglio!
 
-295
+296
 00:21:58,380 --> 00:21:59,880
 Allora, andiamo!
 
-296
+297
 00:21:59,880 --> 00:22:02,380
 Alla Galley-La Company!
 
-297
+298
 00:22:07,930 --> 00:22:11,940
 Maledizione... Ha iniziato a farsi buio.
 
-298
+299
 00:22:11,940 --> 00:22:16,570
 Signor Paulie, ormai è impossibile! 
 Rimanere nei sobborghi è pericoloso!
 
-299
+300
 00:22:17,270 --> 00:22:19,690
 Già. Ritiriamoci.
 
-300
+301
 00:22:19,690 --> 00:22:20,820
 Io andrò nel quartier generale.
 
-301
+302
 00:22:20,820 --> 00:22:22,530
 D'accordo!
 
-302
+303
 00:22:22,530 --> 00:22:25,910
 Ehi, ragazzi! Ci ritiriamo!
 
-303
+304
 00:22:25,910 --> 00:22:30,580
 Cappello di Paglia! Fatti vedere!
 
-304
+305
 00:22:30,580 --> 00:22:33,080
 Dove sei?!
 
-305
+306
 00:22:33,670 --> 00:22:37,460
 Cappello di Paglia! Quel bastardo!
 
-306
+307
 00:22:37,460 --> 00:22:40,960
 Eppure mi sembrava un tipo con un po' di fegato...
 
-307
+308
 00:22:41,720 --> 00:22:44,130
 Ma non si fa vedere.
 
-308
+309
 00:22:44,130 --> 00:22:47,890
 Ma è perché al momento sono l'oggetto 
 d'odio di tutti gli abitanti dell'isola.
 
-309
+310
 00:22:48,470 --> 00:22:51,310
 Esatto, esatto! 
 Sicuramente stanno fuggendo qua e là.
 
-310
+311
 00:22:52,890 --> 00:22:56,060
 Comunque, voi due, che avete? 
 Che state facendo?
 
-311
+312
 00:22:56,060 --> 00:23:00,610
 Se il vento ci colpisce direttamente 
 da davanti... non possiamo reggerlo!
 
-312
+313
 00:23:01,480 --> 00:23:05,570
 In ogni caso, fratello, il tuo modo di 
 scatenarti oggi è stato strano.
 
-313
+314
 00:23:05,570 --> 00:23:09,160
 Non è da te tenerti tutto dentro.
 
-314
+315
 00:23:09,160 --> 00:23:13,200
 Sta' zitta! Questa settimana sono così!
 
-315
+316
 00:23:13,200 --> 00:23:14,750
 Fratello!
 
-316
+317
 00:23:13,500 --> 00:23:14,750
 Eh?
 
-317
+318
 00:23:14,750 --> 00:23:17,710
 – Fratello!
 – Fratello!
 
-318
+319
 00:23:16,210 --> 00:23:17,710
 Sono Zambai e gli altri.
 
-319
+320
 00:23:19,210 --> 00:23:22,760
 Fratello! L'hai gonfiato di botte?
 
-320
+321
 00:23:22,760 --> 00:23:24,130
 No, non ancora.
 
-321
+322
 00:23:24,130 --> 00:23:26,930
 È saltato fuori un ostacolo assurdo ed è fuggito.
 
-322
+323
 00:23:26,930 --> 00:23:27,970
 – Eh?!
 – Eh?!
 
-323
+324
 00:23:27,970 --> 00:23:30,680
 È fuggito dall'ira del fratello?!
 
-324
+325
 00:23:30,680 --> 00:23:33,220
 Ma che tizi fortunati!
 
-325
+326
 00:23:33,220 --> 00:23:37,400
 Capisco... Eppure quel debolissimo 
 bastardo dal naso lungo
 
-326
+327
 00:23:37,400 --> 00:23:42,940
 stava sistemando la nave da solo, 
 perciò pensavamo avessi fatto fuori tutti gli altri.
 
-327
+328
 00:23:42,940 --> 00:23:45,490
 Ah?! Ma quindi uno c'è?!
 
-328
+329
 00:23:45,490 --> 00:23:47,450
 Eh? Sì, sulla nave...
 
-329
+330
 00:23:51,830 --> 00:23:54,910
 Se uno c'è, le cose si semplificano.
 
-330
+331
 00:23:54,910 --> 00:23:59,380
 Usandolo, potremmo far uscire allo scoperto gli altri.
 
-331
+332
 00:23:59,790 --> 00:24:02,670
 I-Il fratello sta facendo un'espressione perfida!
 
-332
+333
 00:24:04,460 --> 00:24:08,470
 Allora, ragazzi! Voi andrete per la città a urlare
 
-333
+334
 00:24:09,470 --> 00:24:11,510
 "abbiamo il naso lungo"!
 
-334
+335
 00:24:11,510 --> 00:24:15,890
 "Se non volete che finisca in fondo al mare, 
 venite sul magazzino sotto il ponte!
 
-335
+336
 00:24:15,890 --> 00:24:19,310
 "Da Franky".
 
-336
+337
 00:24:21,730 --> 00:24:26,650
 Io andrò ad afferrare quel naso lungo 
 come ho appena detto.
 
-337
+338
 00:24:26,650 --> 00:24:30,620
 Abbiamo capito, fratello! Lascia fare a noi!
 
-338
+339
 00:24:48,510 --> 00:24:52,600
 L'Aqua Laguna sta arrivando~!
 
-339
+340
 00:24:52,600 --> 00:24:56,220
 – Sono l'Aqua Laguna!
 – Ah, scappiamo!
 
-340
+341
 00:24:56,680 --> 00:24:59,520
 Quindi, che ne è stato dei colpevoli?
 
-341
+342
 00:24:59,520 --> 00:25:02,110
 Alla fine sembra non siano riusciti a prenderli.
 
-342
+343
 00:25:02,110 --> 00:25:06,150
 Che cosa inquietante... 
 Ah, che brutto, che brutto...
 
-343
+344
 00:25:06,150 --> 00:25:10,530
 Si dice che potrebbero nascondersi nella 
 tempesta di stanotte per riprovarci.
 
-344
+345
 00:25:10,530 --> 00:25:13,200
 È arrivata l'Aqua Laguna!
 
-345
+346
 00:25:13,700 --> 00:25:15,830
 Ma questa notte sarà straordinaria!
 
-346
+347
 00:25:15,830 --> 00:25:20,040
 I membri della Galley-La andranno 
 tutti a sorvegliare il quartier generale!
 
-347
+348
 00:25:20,040 --> 00:25:22,500
 Eh! La cosa è grave allora!
 
-348
+349
 00:25:22,500 --> 00:25:26,050
 Ma alla fine, in quanti sono 
 nella ciurma di Cappello di Paglia?
 
-349
+350
 00:25:26,500 --> 00:25:31,090
 Secondo alcuni sono cinquanta! 
 Per altri sono cento!
 
-350
+351
 00:25:31,090 --> 00:25:33,800
 In ogni caso, il capitano ha 
 una taglia da cento milioni!
 
-351
+352
 00:25:33,800 --> 00:25:38,140
 Forse questa sera i suoi tremila 
 sottoposti emergeranno dal mare!
 
-352
+353
 00:25:38,140 --> 00:25:40,100
 Oddio, ma allora si mette malissimo!
 
-353
+354
 00:25:46,570 --> 00:25:50,610
 Serrate le file! Galley-La Company!
 
-354
+355
 00:25:50,610 --> 00:25:52,110
 – Sì!
 – Sì!
 
-355
+356
 00:25:52,610 --> 00:25:55,240
 Non fate entrare nemmeno un topo!
 
-356
+357
 00:25:55,240 --> 00:25:57,370
 – Sì!
 – Sì!
 
-357
+358
 00:26:13,430 --> 00:26:15,140
 Se volete venire, fatelo! Oh!
 
-358
+359
 00:26:16,970 --> 00:26:20,480
 Che casino, po po! Sta' zitto, Tilestone!
 
-359
+360
 00:26:22,060 --> 00:26:24,900
 Pare non siano saliti sul treno marino.
 
-360
+361
 00:26:25,400 --> 00:26:28,980
 Dunque sono ancora da qualche parte sull'isola.
 
-361
+362
 00:26:28,980 --> 00:26:32,820
 Comunque... se apparissero con così tante 
 guardie, sarebbero dei veri idioti.
 
-362
+363
 00:26:33,360 --> 00:26:37,780
 Ho sentito dire che un idiota è 
 entrato qui in pieno giorno oggi!
 
-363
+364
 00:26:38,540 --> 00:26:40,580
 Non usare il buon senso.
 
-364
+365
 00:26:41,450 --> 00:26:43,040
 Beh...
 
-365
+366
 00:26:43,830 --> 00:26:46,580
 Non dovevate disturbarvi fino a questo punto.
 
-366
+367
 00:26:46,580 --> 00:26:48,670
 Lo fanno tutti volontariamente.
 
-367
+368
 00:26:49,550 --> 00:26:50,670
 Mi sembra di essere un Re.
 
-368
+369
 00:26:51,380 --> 00:26:55,890
 Comunque... Signor Iceburg, perché ha 
 la taglia di Nico Robin nella sua stanza?
 
-369
+370
 00:26:56,800 --> 00:26:57,970
 Ti incuriosisce?
 
-370
+371
 00:27:00,390 --> 00:27:00,890
 Un po'.
 
-371
+372
 00:27:05,440 --> 00:27:07,190
 È meglio che tu non lo sappia.
 
-372
+373
 00:27:10,940 --> 00:27:13,400
 Lei è... il diavolo!
 
-373
+374
 00:27:40,930 --> 00:27:43,180
 Ci sono un sacco di guardie...
 
-374
+375
 00:27:43,470 --> 00:27:45,350
 Siamo un po' distanti.
 
-375
+376
 00:27:45,350 --> 00:27:49,360
 Ti basta allungare le braccia per volarci, no? 
 Una volta che iniziato il trambusto.
 
-376
+377
 00:27:49,360 --> 00:27:55,070
 Esatto. Se iniziassimo noi, 
 finiranno solo per approfittarne.
 
-377
+378
 00:27:55,070 --> 00:27:56,950
 Ascoltatemi bene!
 
-378
+379
 00:27:56,950 --> 00:27:59,030
 Non fatevi sfuggire nemmeno 
 il più piccolo dettaglio!
 
-379
+380
 00:27:59,660 --> 00:28:04,000
 – Sì!
 – Sì!
-
-380
-00:04:48,730 --> 00:04:55,320
-Locanda
 
 381
 00:04:48,730 --> 00:04:55,320
 Locanda
 
 382
-00:24:44,590 --> 00:24:48,510
-Deposito Sotterraneo della Fabbrica
-(Centro di Evacuazione)
+00:04:48,730 --> 00:04:55,320
+Locanda
 
 383
 00:24:44,590 --> 00:24:48,510
@@ -1628,8 +1628,9 @@ Deposito Sotterraneo della Fabbrica
 (Centro di Evacuazione)
 
 385
-00:26:06,710 --> 00:26:12,590
-Di fronte alla Stanza di Iceburg
+00:24:44,590 --> 00:24:48,510
+Deposito Sotterraneo della Fabbrica
+(Centro di Evacuazione)
 
 386
 00:26:06,710 --> 00:26:12,590
@@ -1640,8 +1641,8 @@ Di fronte alla Stanza di Iceburg
 Di fronte alla Stanza di Iceburg
 
 388
-00:26:43,080 --> 00:26:48,920
-Camera da Letto
+00:26:06,710 --> 00:26:12,590
+Di fronte alla Stanza di Iceburg
 
 389
 00:26:43,080 --> 00:26:48,920
@@ -1651,3 +1652,6 @@ Camera da Letto
 00:26:43,080 --> 00:26:48,920
 Camera da Letto
 
+391
+00:26:43,080 --> 00:26:48,920
+Camera da Letto

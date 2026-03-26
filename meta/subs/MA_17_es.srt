@@ -1,259 +1,263 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:24,770 --> 00:00:30,370
 Cada vez que miro hacia el cielo tras la lluvia,
 
-2
+3
 00:00:30,370 --> 00:00:35,780
 me acuerdo de la época en la que no era más que un bebé llorón.
 
-3
+4
 00:00:35,780 --> 00:00:43,530
 Seguía desesperadamente los pasos de alguien,
 
-4
+5
 00:00:43,530 --> 00:00:46,460
 mientras pensaba "quiero ser más fuerte".
 
-5
+6
 00:00:46,460 --> 00:00:51,800
 Ahora que mis "gracias" se perdieron en el viento,
 
-6
+7
 00:00:51,800 --> 00:00:56,720
 ¿podré hacerme más fuerte?
 
-7
+8
 00:00:56,720 --> 00:01:02,440
 Parece que aún no podré encontrar la respuesta,
 
-8
+9
 00:01:02,440 --> 00:01:08,030
 así que seguiré andando hacia adelante.
 
-9
+10
 00:01:08,030 --> 00:01:10,430
 Vamos, en marcha.
 
-10
+11
 00:01:10,430 --> 00:01:13,690
 Nunca nos detendremos.
 
-11
+12
 00:01:13,690 --> 00:01:19,140
 No perderemos contra el paso del tiempo.
 
-12
+13
 00:01:19,140 --> 00:01:24,630
 Seguiremos levantándonos, una y otra vez;
 
-13
+14
 00:01:24,630 --> 00:01:30,490
 porque no queremos perder aquello que nos importa.
 
-14
+15
 00:01:30,490 --> 00:01:35,360
 Puedo oír una voz en mi cabeza,
 
-15
+16
 00:01:35,360 --> 00:01:40,730
 que siempre, siempre me anima a avanzar.
 
-16
+17
 00:01:40,730 --> 00:01:45,970
 Incluso si la inoportuna lluvia se pone en mi camino,
 
-17
+18
 00:01:45,970 --> 00:01:50,820
 no intentaré escapar.
 
-18
+19
 00:01:50,820 --> 00:01:53,820
 Oh.
 
-19
+20
 00:01:53,820 --> 00:01:56,180
 Vamos, en marcha.
 
-20
+21
 00:01:56,180 --> 00:01:59,510
 Nunca nos detendremos.
 
-21
+22
 00:01:59,510 --> 00:02:05,010
 No perderemos contra el paso del tiempo.
 
-22
+23
 00:02:05,010 --> 00:02:10,530
 Seguiremos levantándonos, una y otra vez;
 
-23
+24
 00:02:10,530 --> 00:02:16,110
 porque no queremos perder aquello que nos importa.
 
-24
+25
 00:02:16,110 --> 00:02:21,630
 Avancemos hacia ese futuro en el que creímos...
 
-25
+26
 00:03:31,810 --> 00:03:34,020
 ¡A todos los marinos!
 
-26
+27
 00:03:34,020 --> 00:03:40,080
 ¡Divídanse para hacer retroceder a los Piratas de Barbablanca
  y para contener a los Piratas de Barbanegra!
 
-27
+28
 00:05:35,950 --> 00:05:37,020
 Aviso urgente:
 
-28
+29
 00:05:37,020 --> 00:05:39,520
 hay una alerta de tsunami en la costa sur...
 
-29
+30
 00:05:39,520 --> 00:05:44,400
 ...del Archipiélago Sabaody, con epicentro en Marineford.
 
-30
+31
 00:05:45,070 --> 00:05:49,140
 No queremos que cunda el pánico, así que, por favor, mantengan la calma.
 
-31
+32
 00:05:51,890 --> 00:05:58,000
 Tienen que dirigirse a la zona norte del archipiélago, refúgiense entre los Mangrove 40 y 50.
 
-32
+33
 00:06:04,850 --> 00:06:07,850
 Por favor, mantengan la calma.
 
-33
+34
 00:07:08,990 --> 00:07:11,350
 ¡Les mostraremos la justicia de la Marina!
 
-34
+35
 00:07:11,350 --> 00:07:13,920
 ¡¿A esto llaman justicia?!
 
-35
+36
 00:07:19,240 --> 00:07:22,520
 ¡Esto es por mi amigo que murió en la batalla!
 
-36
+37
 00:07:22,520 --> 00:07:26,440
 ¡Maldito pirata! ¡Vete al infierno!
 
-37
+38
 00:07:29,610 --> 00:07:35,450
 ¡Es momento de hacerles entender a los piratas que ellos no son los gobernantes de los mares! ¡Somos nosotros!
 
-38
+39
 00:07:35,450 --> 00:07:36,280
 ¡Lo logré!
 
-39
+40
 00:07:43,990 --> 00:07:45,200
 ¡Huyan!
 
-40
+41
 00:08:18,220 --> 00:08:19,390
 ¡S-Sí!
 
-41
+42
 00:08:35,370 --> 00:08:36,940
 ¡Siguen con intención de luchar!
 
-42
+43
 00:08:36,940 --> 00:08:40,630
 ¡La Marina, que supuestamente ha logrado su 
 objetivo, no parece querer detener esta masacre!
 
-43
+44
 00:08:52,630 --> 00:08:56,640
 No noto la diferencia... tanto el bien como el mal...
 
-44
+45
 00:08:56,640 --> 00:08:59,030
 Cuanto más consiguen, más ansían todavía.
 
-45
+46
 00:11:35,250 --> 00:11:36,820
 ¡Me va a matar!
 
-46
+47
 00:11:36,820 --> 00:11:40,430
 ¡Pero al menos he dicho lo que quería decir!
 
-47
+48
 00:11:42,000 --> 00:11:43,230
 ¡No me arrepiento!
 
-48
+49
 00:12:39,420 --> 00:12:41,990
 ¡Es Shanks, el Pelirrojo!
 
-49
+50
 00:15:42,180 --> 00:15:44,210
 Dejaré a tu cargo este sombrero.
 
-50
+51
 00:15:45,170 --> 00:15:47,410
 Asegúrate de devolvérmelo algún día...
 
-51
+52
 00:15:48,370 --> 00:15:51,470
 ...cuando seas un gran pirata.
 
-52
+53
 00:15:51,470 --> 00:15:54,150
 Es una promesa, Luffy.
 
-53
+54
 00:19:18,830 --> 00:19:20,190
 ¡S-Sí!
 
-54
+55
 00:19:26,160 --> 00:19:29,130
 ¡Es de locos, pero es tan bella...!
 
-55
+56
 00:20:51,770 --> 00:20:53,950
 ¡Capitán Buggy!
 
-56
+57
 00:20:53,950 --> 00:20:56,550
 ¡Prometemos seguirlo...
 
-57
+58
 00:20:56,550 --> 00:20:58,200
 ...hasta donde usted quiera!
 
-58
+59
 00:21:06,710 --> 00:21:08,690
 Espera un momento...
 
-59
+60
 00:21:08,690 --> 00:21:14,070
 ¡Si me quedo con estos tipos, 
 podré salir de la isla sin problemas!
 
-60
+61
 00:25:08,950 --> 00:25:10,600
 ¡Almirante de flota!
 
-61
+62
 00:25:59,950 --> 00:26:01,190
 Y así,
 
-62
+63
 00:26:01,720 --> 00:26:06,430
 una batalla de proporciones épicas como nunca se había visto en la Gran Era de la Piratería,
 
-63
+64
 00:26:06,670 --> 00:26:11,400
 la Gran Guerra de Marineford, finalizaba...
 
-64
+65
 00:26:11,400 --> 00:26:14,620
 ...dejando una huella imborrable en la historia.
-

@@ -1,372 +1,373 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:00,900 --> 00:00:02,190
 Lesson 1.
 
-2
+3
 00:00:02,690 --> 00:00:07,280
 Ein Greis und ein Baby stranden
 auf einer Insel voller Raubtiere.
 
-3
+4
 00:00:07,280 --> 00:00:10,410
 Du eilst herbei, um sie allein zu retten,
 
-4
+5
 00:00:10,410 --> 00:00:13,240
 aber nur eine weitere
 Person passt auf das Boot.
 
-5
+6
 00:00:13,580 --> 00:00:15,160
 Was würdest du tun?
 
-6
+7
 00:00:15,540 --> 00:00:16,790
 Ähm...
 
-7
+8
 00:00:17,410 --> 00:00:18,920
 Das ist es!
 
-8
+9
 00:00:18,920 --> 00:00:23,250
 Okay! Ich steige vom Boot und
 lasse den Greis und das Baby an Bord!
 
-9
+10
 00:00:23,250 --> 00:00:24,750
 Dann würden sie beide...
 
-10
+11
 00:00:24,750 --> 00:00:26,090
 Du Trottel!
 
-11
+12
 00:00:26,880 --> 00:00:28,550
 Aua!
 
-12
+13
 00:00:28,550 --> 00:00:29,970
 Falsche Antwort!
 
-13
+14
 00:00:30,590 --> 00:00:33,640
 Der Greis hat nur noch eine
 kurze Lebenszeit, deshalb...
 
-14
+15
 00:00:34,350 --> 00:00:35,520
 kann er dortbleiben!
 
-15
+16
 00:00:37,480 --> 00:00:39,440
 Einen Moment! Vizeadmiral Garp!
 
-16
+17
 00:00:39,440 --> 00:00:44,730
 Was wollt ihr retten, jetzt wo
 ihr Marine-Soldaten seid?
 
-17
+18
 00:00:45,440 --> 00:00:47,030
 Was...
 
-18
+19
 00:00:48,530 --> 00:00:51,030
 wollt ihr retten,
 
-19
+20
 00:00:51,780 --> 00:00:53,910
 jetzt wo ihr Marine-Soldaten seid?
 
-20
+21
 00:02:34,930 --> 00:02:37,180
 Wie können Kriegsschiffe
 so zugerichtet werden?
 
-21
+22
 00:02:37,550 --> 00:02:40,220
 Vielleicht hat sie ein starker Angriff getroffen.
 
-22
+23
 00:02:40,220 --> 00:02:41,310
 Nein.
 
-23
+24
 00:02:41,890 --> 00:02:44,350
 Das sind Kriegsschiff-Säcke.
 
-24
+25
 00:02:44,350 --> 00:02:46,100
 Flottillenadmiral Brannew!
 
-25
+26
 00:02:46,480 --> 00:02:48,060
 Kriegsschiff-Säcke?!
 
-26
+27
 00:02:48,060 --> 00:02:51,450
 So sieht die Panzerung von Kriegsschiffen aus,
 
-27
+28
 00:02:51,450 --> 00:02:54,530
 nachdem sie jemand als
 Sandsäcke benutzt hat.
 
-28
+29
 00:02:56,030 --> 00:02:57,620
 Wer hat das getan?!
 
-29
+30
 00:02:58,030 --> 00:03:01,240
 Vizeadmiral Garp in seinen jungen Tagen.
 
-30
+31
 00:03:01,240 --> 00:03:04,710
 Das ist seine jahrzehntelange Routine,
 die er bis heute fortsetzt.
 
-31
+32
 00:03:04,710 --> 00:03:05,750
 Selbst jetzt noch?!
 
-32
+33
 00:03:05,750 --> 00:03:07,210
 Warum gibt es zwei?!
 
-33
+34
 00:03:07,210 --> 00:03:09,440
 Das andere gehört dem
 Schüler des Vizeadmirals.
 
-34
+35
 00:03:09,440 --> 00:03:11,460
 Dem ehemaligen Admiral
 
-35
+36
 00:03:11,460 --> 00:03:12,880
 Aokiji.
 
-36
+37
 00:03:13,970 --> 00:03:16,430
 Die Regel beim Kriegsschiff-Boxen
 lautet weder Haki
 
-37
+38
 00:03:16,430 --> 00:03:18,300
 noch Teufelskräfte einzusetzen.
 
-38
+39
 00:03:18,300 --> 00:03:20,810
 Die Stärke, die diese Helden besitzen,
 
-39
+40
 00:03:22,010 --> 00:03:24,390
 wurde ihnen nicht in die Wiege gelegt.
 
-40
+41
 00:03:48,290 --> 00:03:51,290
 Sanjuan Wolf wurde durch
 die Luft geschleudert!
 
-41
+42
 00:03:51,290 --> 00:03:53,250
 Bei Garp scheiß ich mir ein!
 
-42
+43
 00:03:59,050 --> 00:04:02,100
 Holt ihn aus dem Wasser, sonst ertrinkt er!
 
-43
+44
 00:04:02,100 --> 00:04:04,680
 Hä?! Wie sollen wir den
 Giganten da rausholen?!
 
-44
+45
 00:04:06,810 --> 00:04:08,690
 Und das mit nur einem Schlag!
 
-45
+46
 00:04:08,690 --> 00:04:10,520
 So ein Teufelskerl.
 
-46
+47
 00:04:11,020 --> 00:04:12,770
 So kennen wir Sie, Vizeadmiral Garp!
 
-47
+48
 00:04:12,770 --> 00:04:15,150
 Das ist der Lehm, woraus der
 legendäre Held geformt ist!
 
-48
+49
 00:04:15,150 --> 00:04:17,900
 Noch hab ich’s nicht richtig krachen lassen!
 
-49
+50
 00:04:21,620 --> 00:04:25,290
 Ich geb ’nen Scheiß auf
 diesen legendären Helden.
 
-50
+51
 00:04:25,660 --> 00:04:29,290
 Ihr habt unser Versteck
 ins totale Chaos gestürzt.
 
-51
+52
 00:04:29,290 --> 00:04:33,000
 Wie wollt ihr das wiedergutmachen?
 
-52
+53
 00:04:39,760 --> 00:04:42,220
 Säufer-Herdfeuer!
 
-53
+54
 00:04:50,560 --> 00:04:53,560
 Piraten-Feuerbälle!
 
-54
+55
 00:05:05,330 --> 00:05:07,330
 Aua! Das ist total heiß!
 
-55
+56
 00:05:07,330 --> 00:05:09,160
 Aufhören!
 
-56
+57
 00:05:17,460 --> 00:05:22,180
 Willst du die Pirateninsel etwa zerstören?!
 
-57
+58
 00:05:22,550 --> 00:05:28,310
 Kommodore Teach bringt uns um,
 wenn er die Stadt so zugerichtet sieht!
 
-58
+59
 00:05:32,810 --> 00:05:35,020
 Warum schreckt er nicht
 vor unserer Anzahl zurück?!
 
-59
+60
 00:05:35,020 --> 00:05:37,320
 Der alte Sack macht mir Angst!
 
-60
+61
 00:05:40,950 --> 00:05:43,450
 Erstatte Bericht, Vizeadmiral Garp!
 
-61
+62
 00:05:43,450 --> 00:05:47,160
 Die Gefangenen einschließlich
 unserer Soldaten und den Verletzten
 
-62
+63
 00:05:47,160 --> 00:05:48,830
 sind allesamt von der Insel runter.
 
-63
+64
 00:05:48,830 --> 00:05:50,620
 Roger. Saubere Arbeit.
 
-64
+65
 00:05:50,620 --> 00:05:52,500
 Halte durch, Hibari!
 
-65
+66
 00:05:53,830 --> 00:05:56,790
 Lasst die Gefrorenen langsam auftauen!
 
-66
+67
 00:05:57,170 --> 00:05:59,340
 Hoffentlich geht es Kapitän Koby gut.
 
-67
+68
 00:05:59,710 --> 00:06:01,670
 Wir können jederzeit in See stechen!
 
-68
+69
 00:06:02,130 --> 00:06:04,430
 Na schön! Wir sind hier fertig!
 
-69
+70
 00:06:04,430 --> 00:06:05,470
 Ziehen wir uns zurück!
 
-70
+71
 00:06:05,470 --> 00:06:07,890
 Koby! Grus! Helmeppo!
 
-71
+72
 00:06:09,520 --> 00:06:10,100
 Jawohl!
 
-72
+73
 00:06:10,100 --> 00:06:12,060
 Roger!
 
-73
+74
 00:06:15,150 --> 00:06:17,520
 Lasst uns endlich von hier verschwinden!
 
-74
+75
 00:06:19,650 --> 00:06:21,240
 Wir sind wirklich in ’nem Bienenstock!
 
-75
+76
 00:06:21,610 --> 00:06:24,950
 Immer mehr Piraten
 kriechen aus ihren Löchern.
 
-76
+77
 00:06:24,950 --> 00:06:26,450
 Das nimmt kein Ende.
 
-77
+78
 00:06:35,170 --> 00:06:39,130
 Ich sagte doch, dass ich euch
 nicht entkommen lassen kann.
 
-78
+79
 00:06:39,130 --> 00:06:40,960
 Garp.
 
-79
+80
 00:06:41,760 --> 00:06:44,050
 Ich hätte auch früher abhauen sollen!
 
-80
+81
 00:06:44,050 --> 00:06:46,010
 Ich geh drauf! Das will ich nicht!
 
-81
+82
 00:06:46,430 --> 00:06:49,310
 Garp, gehöre ich auch
 zur Zukunft der Marine?!
 
-82
+83
 00:06:49,310 --> 00:06:52,100
 Willst du weiterkämpfen, Kuzan?
 
-83
+84
 00:06:52,600 --> 00:06:56,310
 Nehmt euch vor den Offizieren
 der Blackbeard-Piraten in Acht.
 
-84
+85
 00:06:58,060 --> 00:06:59,570
 Hört mal gut her, Leute!
 
-85
+86
 00:06:59,570 --> 00:07:02,530
 Wir müssen es nur bis zur Küste schaffen!
 
-86
+87
 00:07:03,490 --> 00:07:05,240
 Sterbt mir bloß nicht.
-
-87
-00:07:05,780 --> 00:07:06,740
-Jawohl!
 
 88
 00:07:05,780 --> 00:07:06,740
@@ -377,1370 +378,1369 @@ Jawohl!
 Jawohl!
 
 90
+00:07:05,780 --> 00:07:06,740
+Jawohl!
+
+91
 00:07:12,540 --> 00:07:14,500
 Hilfe! Jemand muss mir helfen!
 
-91
+92
 00:07:14,500 --> 00:07:15,620
 Verdammt!
 
-92
+93
 00:07:15,620 --> 00:07:18,000
 Da ist noch eine entführte Person!
 
-93
+94
 00:07:18,000 --> 00:07:19,460
 Ich eile dir zu Hilfe!
 
-94
+95
 00:07:19,460 --> 00:07:22,050
 Ein Glück, dass wir noch hier sind.
 
-95
+96
 00:07:22,050 --> 00:07:24,090
 Halt, du Trottel! Geh da nicht hin, Koby!
 
-96
+97
 00:07:24,090 --> 00:07:25,420
 Das ist eine Falle!
 
-97
+98
 00:07:43,030 --> 00:07:45,360
 Vizeadmiral Garp...
 
-98
+99
 00:07:57,210 --> 00:07:59,580
 Du miese Ratte!
 
-99
+100
 00:08:03,340 --> 00:08:05,670
 E-Ein Unsichtbarer?!
 
-100
+101
 00:08:06,050 --> 00:08:07,630
 Shiryu...
 
-101
+102
 00:08:07,630 --> 00:08:10,800
 Du kleiner Schuft aus Impel Down!
 
-102
+103
 00:08:18,560 --> 00:08:21,190
 Wow! Shiryu hat es geschafft!
 
-103
+104
 00:08:21,190 --> 00:08:24,400
 Er hat den eisernen Garp
 durchbohrt und geschwächt!
 
-104
+105
 00:08:27,490 --> 00:08:28,820
 Garp!
 
-105
+106
 00:08:28,820 --> 00:08:29,990
 Das ist nur ein Kratzer!
 
-106
+107
 00:08:29,990 --> 00:08:31,910
 Lauft weiter bis zum Schiff!
 
-107
+108
 00:08:35,370 --> 00:08:36,870
 Das ist meine Schuld!
 
-108
+109
 00:08:36,870 --> 00:08:38,910
 Sie haben mich beschützt und...
 
-109
+110
 00:08:38,910 --> 00:08:41,170
 Bilde dir da mal nichts ein, Koby!
 
-110
+111
 00:08:41,170 --> 00:08:44,000
 Er hatte es nur auf mich abgesehen!
 
-111
+112
 00:08:53,050 --> 00:08:55,510
 Du dreckiger Greis bist ein zäher Knochen.
 
-112
+113
 00:08:55,510 --> 00:08:57,480
 Garp ist geschwächt!
 
-113
+114
 00:08:57,480 --> 00:09:00,940
 So kennen wir Shiryu! Das war fantastisch!
 
-114
+115
 00:09:00,940 --> 00:09:03,900
 Jetzt könnten sogar wir ihn erledigen.
 
-115
+116
 00:09:04,860 --> 00:09:05,860
 Zum Angriff!
 
-116
+117
 00:09:06,860 --> 00:09:07,990
 Macht ihn fertig!
 
-117
+118
 00:09:07,990 --> 00:09:11,360
 Los, los! Unser Reichtum liegt
 direkt vor unseren Augen!
 
-118
+119
 00:09:11,360 --> 00:09:12,820
 Macht ihn kalt!
 
-119
+120
 00:09:13,320 --> 00:09:16,830
 Garp hat ein Drei-Kronen-Kopfgeld,
 genau wie die Admiräle!
 
-120
+121
 00:09:16,830 --> 00:09:19,330
 Das sind etwa drei Milliarden Berry!
 
-121
+122
 00:09:37,390 --> 00:09:38,310
 Kuzan!
 
-122
+123
 00:09:38,310 --> 00:09:40,060
 Aus dem Weg, Schmeißfliegen!
 
-123
+124
 00:09:46,320 --> 00:09:50,820
 Selbst wenn seine Hände und Füße
 gefesselt wären, würdet ihr Garp niemals...
 
-124
+125
 00:09:52,450 --> 00:09:53,950
 das Licht auspusten!
 
-125
+126
 00:09:58,200 --> 00:09:59,950
 Ice Glove!
 
-126
+127
 00:10:09,000 --> 00:10:10,130
 Garp.
 
-127
+128
 00:10:14,300 --> 00:10:15,970
 Nimm mich als dein Schüler auf.
 
-128
+129
 00:10:17,810 --> 00:10:19,640
 Als mein Schüler?
 
-129
+130
 00:10:20,640 --> 00:10:22,600
 Du würdest mir nur Zeit stehlen.
 
-130
+131
 00:10:22,600 --> 00:10:24,560
 Lerne einfach von den Marine-Ausbildern.
 
-131
+132
 00:10:24,560 --> 00:10:26,440
 Meine Ausbildung dort ist abgeschlossen.
 
-132
+133
 00:10:26,440 --> 00:10:27,940
 Ich will die nächste Stufe erklimmen.
 
-133
+134
 00:10:27,940 --> 00:10:29,650
 Nimm mich als dein Schüler auf.
 
-134
+135
 00:10:29,650 --> 00:10:31,530
 Schnauze! Mach dich vom Acker!
 
-135
+136
 00:10:46,380 --> 00:10:47,380
 Aua!
 
-136
+137
 00:10:47,380 --> 00:10:49,380
 Das tut weh...
 
-137
+138
 00:10:51,670 --> 00:10:53,590
 Benutze kein Haki!
 
-138
+139
 00:10:54,470 --> 00:10:56,340
 Sonst bringt das Training nichts.
 
-139
+140
 00:10:56,340 --> 00:10:58,550
 Das hab ich noch nicht auf dem Kasten.
 
-140
+141
 00:11:02,470 --> 00:11:04,390
 Ich pack das!
 
-141
+142
 00:11:41,760 --> 00:11:45,680
 Was genau versteht die Marine unter Gerechtigkeit?
 
-142
+143
 00:11:45,680 --> 00:11:49,230
 Seit Ohara bin ich mir da nicht mehr sicher.
 
-143
+144
 00:11:54,360 --> 00:11:56,950
 Mein Sohn ist ein Revolutionär geworden!
 
-144
+145
 00:12:01,950 --> 00:12:03,910
 So eine Scheiße!
 
-145
+146
 00:12:12,130 --> 00:12:13,550
 Kuzan!
 
-146
+147
 00:12:13,880 --> 00:12:15,210
 Was ist los?
 
-147
+148
 00:12:15,210 --> 00:12:17,930
 Mein Enkel sagt, dass er Pirat werden will!
 
-148
+149
 00:12:17,930 --> 00:12:18,550
 Halt...
 
-149
+150
 00:12:18,550 --> 00:12:20,390
 Das werde ich nicht zulassen!
 
-150
+151
 00:12:20,390 --> 00:12:22,640
 Das geht mich doch nichts an!
 
-151
+152
 00:12:22,640 --> 00:12:25,470
 Lass uns einen Snack futtern, Kuzan.
 
-152
+153
 00:12:25,470 --> 00:12:27,390
 Ich bin beschäftigt.
 
-153
+154
 00:12:27,390 --> 00:12:28,730
 Ich bin Admiral, schon vergessen?
 
-154
+155
 00:12:28,730 --> 00:12:29,900
 Tee hab ich auch.
 
-155
+156
 00:12:29,900 --> 00:12:31,310
 Herrje...
 
-156
+157
 00:12:37,570 --> 00:12:40,570
 Du hast einen gefährlichen Feind ausgebildet.
 
-157
+158
 00:12:41,030 --> 00:12:44,030
 Ich verstoße dich, mein dummer Schüler.
 
-158
+159
 00:13:17,280 --> 00:13:19,030
 Vizeadmiral Garp!
 
-159
+160
 00:13:22,070 --> 00:13:23,700
 Garp!
 
-160
+161
 00:13:24,450 --> 00:13:26,370
 Der hat ziemlich gesessen.
 
-161
+162
 00:13:29,080 --> 00:13:30,410
 Lasst uns Garp beschützen!
 
-162
+163
 00:13:32,370 --> 00:13:36,340
 Eure Chancen auf eine
 Flucht sind äußerst gering!
 
-163
+164
 00:13:37,000 --> 00:13:39,380
 Ihr seid hier im Bienenstock von Hachinosu!
 
-164
+165
 00:13:39,380 --> 00:13:42,840
 Je mehr ihr herumstochert,
 desto mehr Piraten kommen heraus!
 
-165
+166
 00:13:42,840 --> 00:13:47,430
 Glaubt ihr, dass das Schiff
 an der Küste auslaufen wird?
 
-166
+167
 00:13:51,520 --> 00:13:55,310
 Unterschätze nicht die Kraft der Insel-Frucht!
 
-167
+168
 00:13:58,030 --> 00:13:59,280
 Hibari!
 
-168
+169
 00:13:59,280 --> 00:14:01,200
 Ein Glück. Du bist wieder bei Bewusstsein.
 
-169
+170
 00:14:01,950 --> 00:14:04,700
 Wo ist Koby?!
 
-170
+171
 00:14:04,700 --> 00:14:07,830
 Verzeiht, dass ich euch ein Klotz am Bein war.
 
-171
+172
 00:14:08,660 --> 00:14:10,700
 Er wird bald zurückkommen.
 
-172
+173
 00:14:10,700 --> 00:14:12,620
 Ich bin froh, dass es dir gut geht.
 
-173
+174
 00:14:24,970 --> 00:14:26,760
 Was mag das sein?
 
-174
+175
 00:14:29,680 --> 00:14:33,690
 In den Zeitungen steht immer nur
 „Blackbeard dies“ und „Blackbeard jenes“.
 
-175
+176
 00:14:33,690 --> 00:14:36,900
 Wir wollen uns auch einen Namen machen!
 
-176
+177
 00:14:37,150 --> 00:14:41,190
 Die Schlagzeile morgen früh wird lauten:
 
-177
+178
 00:14:41,190 --> 00:14:47,030
 „Eine junge Eliteeinheit unter der Führung
 des berühmten Vizeadmirals Garp...
 
-178
+179
 00:14:47,830 --> 00:14:52,200
 versuchte, Kapitän Koby,
 den Helden der Marine, zu retten!
 
-179
+180
 00:15:20,320 --> 00:15:26,820
 Doch der Kapitän des 4. Schiffes der
 Blackbeard-Piraten, Avalo Pizarro,
 
-180
+181
 00:15:28,820 --> 00:15:32,740
 nutzte seine schreckliche Teufelskraft...
 
-181
+182
 00:15:33,500 --> 00:15:36,710
 und löschte sie auf der Pirateninsel...
 
-182
+183
 00:15:37,420 --> 00:15:40,420
 in einer Tragödie vollkommen aus!“
 
-183
+184
 00:15:45,920 --> 00:15:47,930
 Nicht! Lass das!
 
-184
+185
 00:15:47,930 --> 00:15:49,760
 Unsere Kameraden sind dort alle an Bord!
 
-185
+186
 00:15:49,760 --> 00:15:51,890
 Und auch Zivilisten!
 
-186
+187
 00:15:51,890 --> 00:15:53,430
 Koby...
 
-187
+188
 00:15:56,890 --> 00:15:58,810
 Verlier nicht den Kopf...
 
-188
+189
 00:16:02,480 --> 00:16:05,360
 Die Gerechtigkeit wird obsiegen!
 
-189
+190
 00:16:11,830 --> 00:16:13,330
 Aufhören!
 
-190
+191
 00:16:15,580 --> 00:16:16,580
 Wir werden uns
 
-191
+192
 00:16:17,660 --> 00:16:20,460
 vortrefflich um euch kümmern!
 
-192
+193
 00:16:20,460 --> 00:16:22,090
 Schwingt die Hufen!
 
-193
+194
 00:16:22,090 --> 00:16:23,170
 Bitte nicht!
 
-194
+195
 00:16:23,170 --> 00:16:24,300
 Lasst uns gehen!
 
-195
+196
 00:16:24,300 --> 00:16:28,470
 Auf der Pirateninsel werden
 uns schlimme Dinge angetan!
 
-196
+197
 00:16:32,050 --> 00:16:35,600
 Rayleighs Einmischen hatte
 ich nicht einkalkuliert,
 
-197
+198
 00:16:36,270 --> 00:16:39,230
 aber letztlich konnten wir ein
 paar gute Mitbringsel ergattern!
 
-198
+199
 00:16:42,150 --> 00:16:45,780
 Vizeadmiral, lassen wir einfach zu,
 dass unsere Kameraden verschleppt werden?
 
-199
+200
 00:16:46,400 --> 00:16:48,070
 Lassen wir sie im Stich?
 
-200
+201
 00:16:48,070 --> 00:16:50,280
 Die Chefetage hat uns keine Erlaubnis erteilt.
 
-201
+202
 00:16:51,070 --> 00:16:52,450
 Der Feind ist ein Kaiser der Meere.
 
-202
+203
 00:16:52,450 --> 00:16:53,410
 Aber...
 
-203
+204
 00:17:07,130 --> 00:17:08,590
 Kapitän Koby!
 
-204
+205
 00:17:08,970 --> 00:17:11,840
 Vizeadmiral! Er ist ein Mitglied von SWORD!
 
-205
+206
 00:17:11,840 --> 00:17:12,930
 SWORD...
 
-206
+207
 00:17:13,430 --> 00:17:16,310
 Wenn das nicht der Held Koby ist!
 
-207
+208
 00:17:16,310 --> 00:17:17,680
 Was willst du?
 
-208
+209
 00:17:17,680 --> 00:17:19,890
 Willst du deine Kameraden zurückholen?
 
-209
+210
 00:17:20,390 --> 00:17:24,310
 Würde mich nicht stören,
 einen großen Krieg zu führen!
 
-210
+211
 00:17:24,310 --> 00:17:29,280
 Du versuchst gerade, 800 Marine-Soldaten
 und ein Kriegsschiff zu entführen.
 
-211
+212
 00:17:30,070 --> 00:17:34,200
 Würdest du stattdessen mich
 gegen ihre Freilassung nehmen?
 
-212
+213
 00:17:44,380 --> 00:17:47,340
 Du schätzt wohl einen
 hohen Preis für deinen Kopf.
 
-213
+214
 00:17:47,840 --> 00:17:49,340
 Allerdings ist dein Leben...
 
-214
+215
 00:17:49,880 --> 00:17:51,550
 recht viel wert.
 
-215
+216
 00:17:56,510 --> 00:17:58,100
 Was ist hier los?!
 
-216
+217
 00:17:59,060 --> 00:18:04,060
 Was zum Henker ist das?!
 
-217
+218
 00:18:16,490 --> 00:18:17,910
 Feuer! Feuer!
 
-218
+219
 00:18:27,460 --> 00:18:30,170
 Das Kanonenfeuer zeigt keine Wirkung?!
 
-219
+220
 00:18:30,670 --> 00:18:32,170
 Wir müssen schnell weg hier!
 
-220
+221
 00:18:32,170 --> 00:18:33,630
 Volle Kraft voraus!
 
-221
+222
 00:18:34,930 --> 00:18:37,550
 Ihr entkommt mir nicht!
 
-222
+223
 00:18:41,520 --> 00:18:43,480
 Was für eine fürchterliche Fähigkeit.
 
-223
+224
 00:18:49,190 --> 00:18:52,320
 Wenn diese riesige Hand auf sie niedergeht,
 
-224
+225
 00:18:52,320 --> 00:18:55,610
 werden Hunderte von Soldaten
 und Zivilisten sterben!
 
-225
+226
 00:18:55,950 --> 00:18:57,120
 Unmöglich!
 
-226
+227
 00:18:57,120 --> 00:18:58,620
 Wir können sie nicht aufhalten!
 
-227
+228
 00:18:59,370 --> 00:19:01,120
 Seid bereit, ins Meer zu springen!
 
-228
+229
 00:19:01,120 --> 00:19:02,910
 Alle Soldaten an Deck!
 
-229
+230
 00:19:02,910 --> 00:19:04,330
 Beschützt die Zivilisten!
 
-230
+231
 00:19:04,830 --> 00:19:06,540
 Das ist meine Schuld!
 
-231
+232
 00:19:06,540 --> 00:19:09,500
 Meinetwegen enden sie alle als Opferlämmer!
 
-232
+233
 00:19:13,420 --> 00:19:16,340
 Habe ich etwa die falsche
 Entscheidung getroffen?!
 
-233
+234
 00:19:17,300 --> 00:19:19,510
 Ich kann niemanden retten!
 
-234
+235
 00:19:20,180 --> 00:19:22,430
 Nicht ein einziges Leben!
 
-235
+236
 00:19:35,450 --> 00:19:38,870
 Was soll ich tun?!
 
-236
+237
 00:19:38,870 --> 00:19:40,080
 Ihr könnt...
 
-237
+238
 00:19:45,370 --> 00:19:46,500
 sie retten!
 
-238
+239
 00:19:49,420 --> 00:19:51,380
 Vizeadmiral Garp!
 
-239
+240
 00:19:55,010 --> 00:19:56,510
 Leute...
 
-240
+241
 00:19:57,340 --> 00:19:59,050
 Hört mir gut zu.
 
-241
+242
 00:20:00,510 --> 00:20:03,220
 Ich werde euch etwas Zeit verschaffen.
 
-242
+243
 00:20:04,220 --> 00:20:06,810
 Zuerst, Kapitän Koby...
 
-243
+244
 00:20:06,810 --> 00:20:10,690
 Du wirst die Hand dieses
 Inselmonsters zerstören!
 
-244
+245
 00:20:11,400 --> 00:20:12,400
 Hä?!
 
-245
+246
 00:20:12,400 --> 00:20:14,110
 Wie könnte ich dieses Ding jemals...
 
-246
+247
 00:20:14,110 --> 00:20:15,940
 Konteradmiral Grus,
 
-247
+248
 00:20:15,940 --> 00:20:19,200
 du wirst das Kriegsschiff vor den
 Trümmern der Hand beschützen!
 
-248
+249
 00:20:19,200 --> 00:20:20,030
 Hä?!
 
-249
+250
 00:20:20,030 --> 00:20:21,700
 Korvettenkapitän Helmeppo,
 
-250
+251
 00:20:21,700 --> 00:20:23,990
 sorge dafür, dass ihnen
 niemand dazwischenfunkt!
 
-251
+252
 00:20:23,990 --> 00:20:25,580
 Niemand?!
 
-252
+253
 00:20:25,580 --> 00:20:27,460
 Vizeadmiral Garp!
 
-253
+254
 00:20:27,460 --> 00:20:29,000
 Aber das ist...
 
-254
+255
 00:20:29,500 --> 00:20:31,290
 Entscheidungen sind von spontaner Natur!
 
-255
+256
 00:20:32,210 --> 00:20:35,170
 Springt!
 
-256
+257
 00:20:44,310 --> 00:20:45,060
 – Jawohl!
 – Jawohl!
 
-257
+258
 00:20:52,400 --> 00:20:54,360
 Koby und seine Leute sind auf dem Sprung!
 
-258
+259
 00:20:56,320 --> 00:20:57,490
 Das bringt nichts!
 
-259
+260
 00:20:57,490 --> 00:20:59,650
 Was könnt ihr schon ohne Garp ausrichten?!
 
-260
+261
 00:20:59,650 --> 00:21:01,740
 Ihr werdet alle im Meer versenkt!
 
-261
+262
 00:21:03,700 --> 00:21:04,870
 Sie kommen!
 
-262
+263
 00:21:04,870 --> 00:21:06,700
 Helmeppo! Kümmere dich um sie!
 
-263
+264
 00:21:06,700 --> 00:21:08,790
 Hä?! Wieso ich?!
 
-264
+265
 00:21:08,790 --> 00:21:10,710
 Du hast Vizeadmiral Garp gehört!
 
-265
+266
 00:21:10,710 --> 00:21:12,710
 Scheiße! Warum immer ich?!
 
-266
+267
 00:21:13,880 --> 00:21:16,170
 Kommt nur her!
 
-267
+268
 00:21:17,420 --> 00:21:18,670
 Das sind zu viele!
 
-268
+269
 00:21:18,670 --> 00:21:20,800
 Viel zu viele! Ich krieg die Krise!
 
-269
+270
 00:21:20,800 --> 00:21:21,890
 Hey, Koby!
 
-270
+271
 00:21:21,890 --> 00:21:23,300
 Wie willst du sie zerstören?
 
-271
+272
 00:21:23,300 --> 00:21:24,890
 Hast du ’ne Bombe dabei?!
 
-272
+273
 00:21:24,890 --> 00:21:26,470
 Nein, hab ich nicht!
 
-273
+274
 00:21:26,470 --> 00:21:28,640
 Aber ich muss was unternehmen!
 
-274
+275
 00:21:28,640 --> 00:21:29,850
 Und was?!
 
-275
+276
 00:21:30,190 --> 00:21:33,060
 Sie ist groß genug, um ein
 Kriegsschiff zu zerquetschen!
 
-276
+277
 00:21:33,980 --> 00:21:35,320
 Ist mir klar!
 
-277
+278
 00:21:35,320 --> 00:21:38,190
 Du entkommst mir nicht, Koby!
 
-278
+279
 00:21:39,240 --> 00:21:40,450
 Vorsicht!
 
-279
+280
 00:21:43,660 --> 00:21:44,780
 Koby!
 
-280
+281
 00:21:45,660 --> 00:21:48,910
 sorge dafür, dass ihnen
 niemand dazwischenfunkt!
 
-281
+282
 00:21:49,290 --> 00:21:51,330
 Verdammte Scheiße!
 
-282
+283
 00:21:53,380 --> 00:21:54,630
 Um alles Weitere...
 
-283
+284
 00:21:55,920 --> 00:21:57,000
 musst du dich kümmern!
 
-284
+285
 00:21:57,750 --> 00:21:59,260
 Ich muss treffen!
 
-285
+286
 00:22:01,170 --> 00:22:02,880
 Helmeppo!
 
-286
+287
 00:22:02,880 --> 00:22:05,140
 Schau nicht zurück, Koby!
 
-287
+288
 00:22:05,140 --> 00:22:06,050
 Aber...
 
-288
+289
 00:22:06,050 --> 00:22:06,850
 Wir müssen weiter!
 
-289
+290
 00:22:13,730 --> 00:22:16,820
 Wo willst du hin, Garp?
 
-290
+291
 00:22:19,650 --> 00:22:21,610
 Du bist schwer verletzt.
 
-291
+292
 00:22:22,860 --> 00:22:24,870
 Ist doch nur ein Kratzer.
 
-292
+293
 00:22:29,540 --> 00:22:32,080
 So trittst du meine Sorge um dich mit Füßen...
 
-293
+294
 00:22:32,580 --> 00:22:34,420
 Du Weichei!
 
-294
+295
 00:23:06,780 --> 00:23:08,030
 Garp!
 
-295
+296
 00:23:08,030 --> 00:23:09,530
 Warum kommst du zu mir?!
 
-296
+297
 00:23:09,950 --> 00:23:12,950
 Warte! Ist dir egal, was aus
 dem Kriegsschiff wird?!
 
-297
+298
 00:23:13,580 --> 00:23:16,040
 Galaxy...
 
-298
+299
 00:23:16,040 --> 00:23:19,000
 Divide!
 
-299
+300
 00:23:43,780 --> 00:23:45,780
 Der Arm steigt nach oben!
 
-300
+301
 00:23:48,740 --> 00:23:50,620
 Das muss unsere Chance sein!
 
-301
+302
 00:23:50,620 --> 00:23:52,240
 Der Arm ist nach oben gestiegen!
 
-302
+303
 00:23:52,240 --> 00:23:53,750
 Was willst du tun, Koby?!
 
-303
+304
 00:23:58,420 --> 00:23:59,880
 Ich werde Sie nicht enttäuschen!
 
-304
+305
 00:24:02,300 --> 00:24:03,250
 Koby!
 
-305
+306
 00:24:07,590 --> 00:24:11,050
 Du elender Hund!
 
-306
+307
 00:24:14,060 --> 00:24:17,640
 Das reicht noch lange nicht,
 um mich aufzuhalten, Garp!
 
-307
+308
 00:24:17,640 --> 00:24:20,520
 Jetzt bin ich stinksauer!
 
-308
+309
 00:24:20,520 --> 00:24:24,900
 Schau gut zu, was ich gleich tue!
 
-309
+310
 00:24:24,900 --> 00:24:28,070
 Das ist das Ende für deine Soldaten!
 
-310
+311
 00:24:28,070 --> 00:24:31,070
 Ich werde sie alle töten!
 
-311
+312
 00:24:31,070 --> 00:24:33,030
 Sie kommt wieder auf uns zu!
 
-312
+313
 00:24:33,030 --> 00:24:38,000
 Du kannst sie nicht rechtzeitig retten!
 
-313
+314
 00:24:39,170 --> 00:24:40,960
 Hör mal, Helmeppo.
 
-314
+315
 00:24:40,960 --> 00:24:45,510
 Koby macht schnelle Fortschritte,
 zieht sich aber oft Verletzungen zu.
 
-315
+316
 00:24:45,510 --> 00:24:47,380
 Kobys Verletzungen...?
 
-316
+317
 00:24:47,380 --> 00:24:48,680
 Ach ja...
 
-317
+318
 00:24:48,680 --> 00:24:51,300
 Koby sagte mir, dass ich Ihnen
 nichts davon sagen soll...
 
-318
+319
 00:25:00,230 --> 00:25:05,360
 Da ich kein Talent für den Kampf habe,
 
-319
+320
 00:25:05,360 --> 00:25:10,110
 Ich muss 100- oder 200-mal
 härter trainieren als die anderen,
 
-320
+321
 00:25:10,110 --> 00:25:12,820
 sonst werde ich kein guter Marine-Soldat,
 
-321
+322
 00:25:12,820 --> 00:25:14,280
 der jemanden beschützen kann!
 
-322
+323
 00:25:22,130 --> 00:25:23,750
 Du Dummkopf!
 
-323
+324
 00:25:23,750 --> 00:25:25,250
 Das reicht jetzt!
 
-324
+325
 00:25:25,250 --> 00:25:27,340
 Hör schon auf!
 
-325
+326
 00:25:27,800 --> 00:25:29,720
 Erstaunlich.
 
-326
+327
 00:25:29,720 --> 00:25:32,390
 Er hat zusätzlich zu meinem
 Sondertraining noch allein trainiert?
 
-327
+328
 00:25:32,390 --> 00:25:35,720
 Ja, er hat immer Nacht für Nacht...
 
-328
+329
 00:25:35,970 --> 00:25:37,430
 Kriegsschiffe geboxt.
 
-329
+330
 00:25:44,480 --> 00:25:46,360
 Während seine Fäuste...
 
-330
+331
 00:25:46,860 --> 00:25:48,690
 blutüberströmt waren.
 
-331
+332
 00:25:57,910 --> 00:25:59,250
 Ich werde es schaffen!
 
-332
+333
 00:25:59,660 --> 00:26:01,160
 Ich werde es schaffen!
 
-333
+334
 00:26:01,790 --> 00:26:05,290
 Ich muss es rechtzeitig schaffen!
 
-334
+335
 00:26:09,960 --> 00:26:11,300
 Ist das...
 
-335
+336
 00:26:14,550 --> 00:26:16,050
 Koby!
 
-336
+337
 00:26:16,600 --> 00:26:20,480
 Kapitän Koby!
 
-337
+338
 00:26:20,480 --> 00:26:22,730
 Schaut! Da ist Koby!
 
-338
+339
 00:26:22,730 --> 00:26:24,730
 Versucht er echt, die Hand aufzuhalten?!
 
-339
+340
 00:26:24,730 --> 00:26:26,190
 Das ist unmöglich!
 
-340
+341
 00:26:26,190 --> 00:26:28,610
 Er ist eine Ameise im Vergleich zu dieser Hand!
 
-341
+342
 00:26:28,610 --> 00:26:32,150
 Der Hosenscheißer fordert sein
 Glück heraus, nur weil er „Held“ genannt wird!
 
-342
+343
 00:26:32,150 --> 00:26:36,530
 Koby! Dort oben ist es zu gefährlich!
 
-343
+344
 00:26:36,530 --> 00:26:38,120
 Verschwinde, Koby!
 
-344
+345
 00:26:40,120 --> 00:26:43,000
 Werdet Zeuge, wie das
 Schiff zerschmettert wird
 
-345
+346
 00:26:43,000 --> 00:26:46,460
 und die Soldaten Todesschreie ausstoßen!
 
-346
+347
 00:26:46,460 --> 00:26:50,800
 Selbst wenn sie ins Meer springen,
 wird Aokiji sie einfrieren!
 
-347
+348
 00:26:52,760 --> 00:26:55,720
 Das geschieht euch recht!
 
-348
+349
 00:27:00,270 --> 00:27:02,770
 Meinetwegen werden Menschen sterben!
 
-349
+350
 00:27:08,060 --> 00:27:09,440
 Ich muss sie zerstören!
 
-350
+351
 00:27:10,190 --> 00:27:12,400
 Wenn ich das nicht tue,
 werden sie alle sterben!
 
-351
+352
 00:27:13,740 --> 00:27:16,490
 Da ich kein Talent für den Kampf habe,
 
-352
+353
 00:27:17,370 --> 00:27:19,080
 reicht zehnmal nicht aus.
 
-353
+354
 00:27:24,580 --> 00:27:26,370
 Ich muss 100-...
 
-354
+355
 00:27:27,330 --> 00:27:28,880
 oder 200-mal härter...
 
-355
+356
 00:27:31,750 --> 00:27:35,010
 Was wollt ihr retten, jetzt wo
 ihr Marine-Soldaten seid?
 
-356
+357
 00:27:36,970 --> 00:27:38,390
 Koby!
 
-357
+358
 00:27:38,390 --> 00:27:40,760
 Es bringt nichts! Springt ins Meer!
 
-358
+359
 00:27:44,140 --> 00:27:46,690
 Ihr könnt sie retten!
 
-359
+360
 00:27:55,150 --> 00:27:58,410
 Honesty...
 
-360
+361
 00:27:58,410 --> 00:28:01,910
 Impact!
 
-361
+362
 00:28:38,910 --> 00:28:41,030
 Seit wann hat er solche Kräfte?!
 
-362
+363
 00:28:41,030 --> 00:28:42,530
 Unglaublich!
 
-363
+364
 00:28:42,530 --> 00:28:45,040
 Aber was unternehmen
 wir gegen diese Trümmer?
 
-364
+365
 00:28:49,210 --> 00:28:52,670
 Ich beschütze das Kriegsschiff
 vor den Trümmern!
 
-365
+366
 00:29:01,340 --> 00:29:02,890
 Lehmnetz!
 
-366
+367
 00:29:05,390 --> 00:29:07,930
 Koby!
 
-367
+368
 00:29:10,850 --> 00:29:12,520
 Koby!
 
-368
+369
 00:29:12,520 --> 00:29:14,940
 Du bist echt so ein Teufelskerl!
 
-369
+370
 00:29:16,900 --> 00:29:18,360
 Helmeppo...
 
-370
+371
 00:29:18,820 --> 00:29:20,740
 Ich hab’s geschafft.
 
-371
+372
 00:29:23,450 --> 00:29:26,120
 Du bist beeindruckend!
 
-372
+373
 00:29:26,120 --> 00:29:27,620
 Das war unglaublich!
 
-373
+374
 00:29:28,710 --> 00:29:32,960
 Du hast diesen riesigen Berg
 von einem Arm zerstört!
 
-374
+375
 00:29:37,760 --> 00:29:40,550
 Lass uns abhauen, du Trottel!
 
-375
+376
 00:29:47,430 --> 00:29:48,890
 Kapitän Koby!
 
-376
+377
 00:29:48,890 --> 00:29:50,390
 Helmeppo!
 
-377
+378
 00:29:50,390 --> 00:29:52,480
 Ein Glück, dass ihr noch am Leben seid!
 
-378
+379
 00:29:52,850 --> 00:29:54,730
 Koby!
 
-379
+380
 00:29:57,110 --> 00:29:58,610
 Hibari...
 
-380
+381
 00:29:59,190 --> 00:30:00,860
 Ich bin froh.
 
-381
+382
 00:30:00,860 --> 00:30:03,610
 Ich bin so froh, dass es dir gut geht.
 
-382
+383
 00:30:05,580 --> 00:30:08,830
 Nun fehlt nur noch Vizeadmiral Garp
 und wir können in See stechen.
 
-383
+384
 00:30:14,880 --> 00:30:16,710
 Hier spricht Garp.
 
-384
+385
 00:30:16,710 --> 00:30:19,760
 Die Mission zur Rettung von
 Kapitän Koby ist abgeschlossen.
 
-385
+386
 00:30:20,130 --> 00:30:21,760
 Vizeadmiral Garp!
 
-386
+387
 00:30:21,760 --> 00:30:23,010
 Gott sei Dank!
 
-387
+388
 00:30:23,010 --> 00:30:24,970
 Kommen Sie auch schnell zum Schiff zurück!
 
-388
+389
 00:30:25,470 --> 00:30:26,970
 Ihr könnt alle ohne mich...
 
-389
+390
 00:30:27,930 --> 00:30:31,390
 vor Hachinosu in See stechen.
 
-390
+391
 00:30:33,810 --> 00:30:36,020
 Was reden Sie da, Garp?!
 
-391
+392
 00:30:36,020 --> 00:30:38,730
 Ich komme schon irgendwie klar.
 
-392
+393
 00:30:39,070 --> 00:30:43,530
 Die oberste Priorität ist das
 Wohlergehen von euch allen.
 
-393
+394
 00:30:44,160 --> 00:30:45,490
 Hab ich nicht recht?
 
-394
+395
 00:30:50,160 --> 00:30:51,500
 Nein, aber...
 
-395
+396
 00:30:51,500 --> 00:30:53,250
 Lass das Schiff umkehren, Prince!
 
-396
+397
 00:30:54,960 --> 00:30:56,920
 Unser Erfolg hier...
 
-397
+398
 00:30:58,500 --> 00:31:01,380
 wird eine Bedrohung für alle Piraten darstellen.
 
-398
+399
 00:31:04,470 --> 00:31:07,100
 Bitte nehmt mich in der Marine auf!
 
-399
+400
 00:31:07,100 --> 00:31:10,140
 Ich mach auch die Drecksarbeit, alles!
 
-400
+401
 00:31:10,140 --> 00:31:12,100
 Hauptsache, ich kann bei der Marine sein!
 
-401
+402
 00:31:13,730 --> 00:31:17,480
 Was wollt ihr retten, jetzt wo
 ihr Marine-Soldaten seid?
 
-402
+403
 00:31:18,940 --> 00:31:21,280
 Die Zukunft der Menschen, oder nicht?!
 
-403
+404
 00:31:21,820 --> 00:31:26,490
 In dem Fall habt ihr mehr von
 der Zukunft als ein Greis!
 
-404
+405
 00:31:28,030 --> 00:31:29,990
 Nehmt das Baby...
 
-405
+406
 00:31:31,290 --> 00:31:33,040
 und lebt weiter!
 
-406
+407
 00:31:51,180 --> 00:31:52,930
 In vollen Zügen!
 
-407
+408
 00:31:54,310 --> 00:31:56,190
 Ihr seid schließlich...
 
-408
+409
 00:31:56,810 --> 00:31:58,480
 die Zukunft der Marine!
 
-409
+410
 00:32:09,240 --> 00:32:11,030
 Vizeadmiral Garp!
 
-410
+411
 00:32:11,030 --> 00:32:13,910
 Halten Sie nie wieder so eine Ansprache!
 
-411
+412
 00:32:13,910 --> 00:32:15,330
 Alle Leben sind gleich!
 
-412
+413
 00:32:16,410 --> 00:32:19,000
 Die Zukunft der Jugend kennt keine Grenzen!
 
-413
+414
 00:32:32,390 --> 00:32:34,390
 Am nächsten Tag erfuhr die Welt
 
-414
+415
 00:32:34,390 --> 00:32:38,350
 durch die Zeitung vom Überleben des
 jungen Marine-Helden Kapitän Koby,
 
-415
+416
 00:32:39,020 --> 00:32:45,320
 vom Verschwinden von Vizeadmiral Garp,
 dem legendären Helden, auf der Pirateninsel,
 
-416
+417
 00:32:45,780 --> 00:32:51,030
 und dem Kaiser der Meere, Strohhut Luffy,
 
-417
+418
 00:32:51,030 --> 00:32:54,700
 der sich auf der Zukunftsinsel
 Egghead verschanzt hatte.
-
-418
-00:00:15,160 --> 00:00:18,920
-Das ehemalige
-Marine-Hauptquartier
 
 419
 00:00:15,160 --> 00:00:18,920
@@ -1748,10 +1748,9 @@ Das ehemalige
 Marine-Hauptquartier
 
 420
-00:02:37,220 --> 00:02:41,890
-Schiffsschrottplatz
-In der Nähe der
-Marinebasis G-1
+00:00:15,160 --> 00:00:18,920
+Das ehemalige
+Marine-Hauptquartier
 
 421
 00:02:37,220 --> 00:02:41,890
@@ -1760,9 +1759,10 @@ In der Nähe der
 Marinebasis G-1
 
 422
-00:03:58,720 --> 00:04:02,560
-Hachinosu, die Pirateninsel
-Neue Welt
+00:02:37,220 --> 00:02:41,890
+Schiffsschrottplatz
+In der Nähe der
+Marinebasis G-1
 
 423
 00:03:58,720 --> 00:04:02,560
@@ -1770,31 +1770,32 @@ Hachinosu, die Pirateninsel
 Neue Welt
 
 424
-00:16:05,360 --> 00:16:05,400
-m 514 157 l 1381 157 1381 843 514 843
+00:03:58,720 --> 00:04:02,560
+Hachinosu, die Pirateninsel
+Neue Welt
 
 425
-00:16:05,400 --> 00:16:09,200
+00:16:05,360 --> 00:16:05,400
 m 514 157 l 1381 157 1381 843 514 843
 
 426
 00:16:05,400 --> 00:16:09,200
-Einige Wochen zuvor
+m 514 157 l 1381 157 1381 843 514 843
 
 427
 00:16:05,400 --> 00:16:09,200
 Einige Wochen zuvor
 
 428
-00:18:00,180 --> 00:18:02,190
-Am heutigen Tage
+00:16:05,400 --> 00:16:09,200
+Einige Wochen zuvor
 
 429
 00:18:00,180 --> 00:18:02,190
 Am heutigen Tage
 
 430
-00:18:02,190 --> 00:18:02,230
+00:18:00,180 --> 00:18:02,190
 Am heutigen Tage
 
 431
@@ -1802,7 +1803,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 432
-00:18:02,230 --> 00:18:02,270
+00:18:02,190 --> 00:18:02,230
 Am heutigen Tage
 
 433
@@ -1810,7 +1811,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 434
-00:18:02,270 --> 00:18:02,310
+00:18:02,230 --> 00:18:02,270
 Am heutigen Tage
 
 435
@@ -1818,7 +1819,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 436
-00:18:02,310 --> 00:18:02,350
+00:18:02,270 --> 00:18:02,310
 Am heutigen Tage
 
 437
@@ -1826,7 +1827,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 438
-00:18:02,350 --> 00:18:02,390
+00:18:02,310 --> 00:18:02,350
 Am heutigen Tage
 
 439
@@ -1834,7 +1835,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 440
-00:18:02,390 --> 00:18:02,440
+00:18:02,350 --> 00:18:02,390
 Am heutigen Tage
 
 441
@@ -1842,7 +1843,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 442
-00:18:02,440 --> 00:18:02,480
+00:18:02,390 --> 00:18:02,440
 Am heutigen Tage
 
 443
@@ -1850,7 +1851,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 444
-00:18:02,480 --> 00:18:02,520
+00:18:02,440 --> 00:18:02,480
 Am heutigen Tage
 
 445
@@ -1858,7 +1859,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 446
-00:18:02,520 --> 00:18:02,560
+00:18:02,480 --> 00:18:02,520
 Am heutigen Tage
 
 447
@@ -1866,7 +1867,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 448
-00:18:02,560 --> 00:18:02,600
+00:18:02,520 --> 00:18:02,560
 Am heutigen Tage
 
 449
@@ -1874,7 +1875,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 450
-00:18:02,600 --> 00:18:02,640
+00:18:02,560 --> 00:18:02,600
 Am heutigen Tage
 
 451
@@ -1882,7 +1883,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 452
-00:18:02,640 --> 00:18:02,690
+00:18:02,600 --> 00:18:02,640
 Am heutigen Tage
 
 453
@@ -1890,7 +1891,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 454
-00:18:02,690 --> 00:18:02,730
+00:18:02,640 --> 00:18:02,690
 Am heutigen Tage
 
 455
@@ -1898,7 +1899,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 456
-00:18:02,730 --> 00:18:02,770
+00:18:02,690 --> 00:18:02,730
 Am heutigen Tage
 
 457
@@ -1906,7 +1907,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 458
-00:18:02,770 --> 00:18:02,810
+00:18:02,730 --> 00:18:02,770
 Am heutigen Tage
 
 459
@@ -1914,7 +1915,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 460
-00:18:02,810 --> 00:18:02,850
+00:18:02,770 --> 00:18:02,810
 Am heutigen Tage
 
 461
@@ -1922,7 +1923,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 462
-00:18:02,850 --> 00:18:02,890
+00:18:02,810 --> 00:18:02,850
 Am heutigen Tage
 
 463
@@ -1930,7 +1931,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 464
-00:18:02,890 --> 00:18:02,940
+00:18:02,850 --> 00:18:02,890
 Am heutigen Tage
 
 465
@@ -1938,7 +1939,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 466
-00:18:02,940 --> 00:18:02,980
+00:18:02,890 --> 00:18:02,940
 Am heutigen Tage
 
 467
@@ -1946,7 +1947,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 468
-00:18:02,980 --> 00:18:03,020
+00:18:02,940 --> 00:18:02,980
 Am heutigen Tage
 
 469
@@ -1954,7 +1955,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 470
-00:18:03,020 --> 00:18:03,060
+00:18:02,980 --> 00:18:03,020
 Am heutigen Tage
 
 471
@@ -1962,7 +1963,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 472
-00:18:03,060 --> 00:18:03,100
+00:18:03,020 --> 00:18:03,060
 Am heutigen Tage
 
 473
@@ -1970,7 +1971,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 474
-00:18:03,100 --> 00:18:03,150
+00:18:03,060 --> 00:18:03,100
 Am heutigen Tage
 
 475
@@ -1978,7 +1979,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 476
-00:18:03,150 --> 00:18:03,190
+00:18:03,100 --> 00:18:03,150
 Am heutigen Tage
 
 477
@@ -1986,7 +1987,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 478
-00:18:03,190 --> 00:18:03,230
+00:18:03,150 --> 00:18:03,190
 Am heutigen Tage
 
 479
@@ -1994,7 +1995,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 480
-00:18:03,230 --> 00:18:03,270
+00:18:03,190 --> 00:18:03,230
 Am heutigen Tage
 
 481
@@ -2002,7 +2003,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 482
-00:18:03,270 --> 00:18:03,310
+00:18:03,230 --> 00:18:03,270
 Am heutigen Tage
 
 483
@@ -2010,7 +2011,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 484
-00:18:03,310 --> 00:18:03,350
+00:18:03,270 --> 00:18:03,310
 Am heutigen Tage
 
 485
@@ -2018,7 +2019,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 486
-00:18:03,350 --> 00:18:03,400
+00:18:03,310 --> 00:18:03,350
 Am heutigen Tage
 
 487
@@ -2026,7 +2027,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 488
-00:18:03,400 --> 00:18:03,440
+00:18:03,350 --> 00:18:03,400
 Am heutigen Tage
 
 489
@@ -2034,7 +2035,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 490
-00:18:03,440 --> 00:18:03,480
+00:18:03,400 --> 00:18:03,440
 Am heutigen Tage
 
 491
@@ -2042,7 +2043,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 492
-00:18:03,480 --> 00:18:03,520
+00:18:03,440 --> 00:18:03,480
 Am heutigen Tage
 
 493
@@ -2050,7 +2051,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 494
-00:18:03,520 --> 00:18:03,560
+00:18:03,480 --> 00:18:03,520
 Am heutigen Tage
 
 495
@@ -2058,7 +2059,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 496
-00:18:03,560 --> 00:18:03,600
+00:18:03,520 --> 00:18:03,560
 Am heutigen Tage
 
 497
@@ -2066,7 +2067,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 498
-00:18:03,600 --> 00:18:03,650
+00:18:03,560 --> 00:18:03,600
 Am heutigen Tage
 
 499
@@ -2074,7 +2075,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 500
-00:18:03,650 --> 00:18:03,690
+00:18:03,600 --> 00:18:03,650
 Am heutigen Tage
 
 501
@@ -2082,7 +2083,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 502
-00:18:03,690 --> 00:18:03,730
+00:18:03,650 --> 00:18:03,690
 Am heutigen Tage
 
 503
@@ -2090,7 +2091,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 504
-00:18:03,730 --> 00:18:03,770
+00:18:03,690 --> 00:18:03,730
 Am heutigen Tage
 
 505
@@ -2098,7 +2099,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 506
-00:18:03,770 --> 00:18:03,810
+00:18:03,730 --> 00:18:03,770
 Am heutigen Tage
 
 507
@@ -2106,7 +2107,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 508
-00:18:03,810 --> 00:18:03,850
+00:18:03,770 --> 00:18:03,810
 Am heutigen Tage
 
 509
@@ -2114,7 +2115,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 510
-00:18:03,850 --> 00:18:03,900
+00:18:03,810 --> 00:18:03,850
 Am heutigen Tage
 
 511
@@ -2122,7 +2123,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 512
-00:18:03,900 --> 00:18:03,940
+00:18:03,850 --> 00:18:03,900
 Am heutigen Tage
 
 513
@@ -2130,7 +2131,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 514
-00:18:03,940 --> 00:18:03,980
+00:18:03,900 --> 00:18:03,940
 Am heutigen Tage
 
 515
@@ -2138,7 +2139,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 516
-00:18:03,980 --> 00:18:04,020
+00:18:03,940 --> 00:18:03,980
 Am heutigen Tage
 
 517
@@ -2146,7 +2147,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 518
-00:18:04,020 --> 00:18:04,060
+00:18:03,980 --> 00:18:04,020
 Am heutigen Tage
 
 519
@@ -2154,7 +2155,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 520
-00:18:04,060 --> 00:18:04,100
+00:18:04,020 --> 00:18:04,060
 Am heutigen Tage
 
 521
@@ -2162,7 +2163,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 522
-00:18:04,100 --> 00:18:04,150
+00:18:04,060 --> 00:18:04,100
 Am heutigen Tage
 
 523
@@ -2170,7 +2171,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 524
-00:18:04,150 --> 00:18:04,190
+00:18:04,100 --> 00:18:04,150
 Am heutigen Tage
 
 525
@@ -2178,7 +2179,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 526
-00:18:04,190 --> 00:18:04,230
+00:18:04,150 --> 00:18:04,190
 Am heutigen Tage
 
 527
@@ -2186,7 +2187,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 528
-00:18:04,230 --> 00:18:04,270
+00:18:04,190 --> 00:18:04,230
 Am heutigen Tage
 
 529
@@ -2194,7 +2195,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 530
-00:18:04,270 --> 00:18:04,310
+00:18:04,230 --> 00:18:04,270
 Am heutigen Tage
 
 531
@@ -2202,7 +2203,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 532
-00:18:04,310 --> 00:18:04,350
+00:18:04,270 --> 00:18:04,310
 Am heutigen Tage
 
 533
@@ -2210,7 +2211,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 534
-00:18:04,350 --> 00:18:04,400
+00:18:04,310 --> 00:18:04,350
 Am heutigen Tage
 
 535
@@ -2218,7 +2219,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 536
-00:18:04,400 --> 00:18:04,440
+00:18:04,350 --> 00:18:04,400
 Am heutigen Tage
 
 537
@@ -2226,7 +2227,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 538
-00:18:04,440 --> 00:18:04,480
+00:18:04,400 --> 00:18:04,440
 Am heutigen Tage
 
 539
@@ -2234,7 +2235,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 540
-00:18:04,480 --> 00:18:04,520
+00:18:04,440 --> 00:18:04,480
 Am heutigen Tage
 
 541
@@ -2242,7 +2243,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 542
-00:18:04,520 --> 00:18:04,560
+00:18:04,480 --> 00:18:04,520
 Am heutigen Tage
 
 543
@@ -2250,7 +2251,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 544
-00:18:04,560 --> 00:18:04,610
+00:18:04,520 --> 00:18:04,560
 Am heutigen Tage
 
 545
@@ -2258,7 +2259,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 546
-00:18:04,610 --> 00:18:04,650
+00:18:04,560 --> 00:18:04,610
 Am heutigen Tage
 
 547
@@ -2266,7 +2267,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 548
-00:18:04,650 --> 00:18:04,690
+00:18:04,610 --> 00:18:04,650
 Am heutigen Tage
 
 549
@@ -2274,7 +2275,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 550
-00:18:04,690 --> 00:18:04,730
+00:18:04,650 --> 00:18:04,690
 Am heutigen Tage
 
 551
@@ -2282,7 +2283,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 552
-00:18:04,730 --> 00:18:04,770
+00:18:04,690 --> 00:18:04,730
 Am heutigen Tage
 
 553
@@ -2290,7 +2291,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 554
-00:18:04,770 --> 00:18:04,810
+00:18:04,730 --> 00:18:04,770
 Am heutigen Tage
 
 555
@@ -2298,7 +2299,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 556
-00:18:04,810 --> 00:18:04,860
+00:18:04,770 --> 00:18:04,810
 Am heutigen Tage
 
 557
@@ -2306,7 +2307,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 558
-00:18:04,860 --> 00:18:04,900
+00:18:04,810 --> 00:18:04,860
 Am heutigen Tage
 
 559
@@ -2314,7 +2315,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 560
-00:18:04,900 --> 00:18:04,940
+00:18:04,860 --> 00:18:04,900
 Am heutigen Tage
 
 561
@@ -2322,7 +2323,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 562
-00:18:04,940 --> 00:18:04,980
+00:18:04,900 --> 00:18:04,940
 Am heutigen Tage
 
 563
@@ -2330,7 +2331,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 564
-00:18:04,980 --> 00:18:05,020
+00:18:04,940 --> 00:18:04,980
 Am heutigen Tage
 
 565
@@ -2338,7 +2339,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 566
-00:18:05,020 --> 00:18:05,060
+00:18:04,980 --> 00:18:05,020
 Am heutigen Tage
 
 567
@@ -2346,7 +2347,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 568
-00:18:05,060 --> 00:18:05,110
+00:18:05,020 --> 00:18:05,060
 Am heutigen Tage
 
 569
@@ -2354,7 +2355,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 570
-00:18:05,110 --> 00:18:05,150
+00:18:05,060 --> 00:18:05,110
 Am heutigen Tage
 
 571
@@ -2362,7 +2363,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 572
-00:18:05,150 --> 00:18:05,190
+00:18:05,110 --> 00:18:05,150
 Am heutigen Tage
 
 573
@@ -2370,7 +2371,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 574
-00:18:05,190 --> 00:18:05,230
+00:18:05,150 --> 00:18:05,190
 Am heutigen Tage
 
 575
@@ -2378,7 +2379,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 576
-00:18:05,230 --> 00:18:05,270
+00:18:05,190 --> 00:18:05,230
 Am heutigen Tage
 
 577
@@ -2386,7 +2387,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 578
-00:18:05,270 --> 00:18:05,310
+00:18:05,230 --> 00:18:05,270
 Am heutigen Tage
 
 579
@@ -2394,7 +2395,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 580
-00:18:05,310 --> 00:18:05,360
+00:18:05,270 --> 00:18:05,310
 Am heutigen Tage
 
 581
@@ -2402,7 +2403,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 582
-00:18:05,360 --> 00:18:05,400
+00:18:05,310 --> 00:18:05,360
 Am heutigen Tage
 
 583
@@ -2410,7 +2411,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 584
-00:18:05,400 --> 00:18:05,440
+00:18:05,360 --> 00:18:05,400
 Am heutigen Tage
 
 585
@@ -2418,7 +2419,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 586
-00:18:05,440 --> 00:18:05,480
+00:18:05,400 --> 00:18:05,440
 Am heutigen Tage
 
 587
@@ -2426,7 +2427,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 588
-00:18:05,480 --> 00:18:05,520
+00:18:05,440 --> 00:18:05,480
 Am heutigen Tage
 
 589
@@ -2434,7 +2435,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 590
-00:18:05,520 --> 00:18:05,560
+00:18:05,480 --> 00:18:05,520
 Am heutigen Tage
 
 591
@@ -2442,7 +2443,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 592
-00:18:05,560 --> 00:18:05,610
+00:18:05,520 --> 00:18:05,560
 Am heutigen Tage
 
 593
@@ -2450,7 +2451,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 594
-00:18:05,610 --> 00:18:05,650
+00:18:05,560 --> 00:18:05,610
 Am heutigen Tage
 
 595
@@ -2458,7 +2459,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 596
-00:18:05,650 --> 00:18:05,690
+00:18:05,610 --> 00:18:05,650
 Am heutigen Tage
 
 597
@@ -2466,7 +2467,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 598
-00:18:05,690 --> 00:18:05,730
+00:18:05,650 --> 00:18:05,690
 Am heutigen Tage
 
 599
@@ -2474,7 +2475,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 600
-00:18:05,730 --> 00:18:05,770
+00:18:05,690 --> 00:18:05,730
 Am heutigen Tage
 
 601
@@ -2482,7 +2483,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 602
-00:18:05,770 --> 00:18:05,810
+00:18:05,730 --> 00:18:05,770
 Am heutigen Tage
 
 603
@@ -2490,7 +2491,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 604
-00:18:05,810 --> 00:18:05,860
+00:18:05,770 --> 00:18:05,810
 Am heutigen Tage
 
 605
@@ -2498,7 +2499,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 606
-00:18:05,860 --> 00:18:05,900
+00:18:05,810 --> 00:18:05,860
 Am heutigen Tage
 
 607
@@ -2506,7 +2507,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 608
-00:18:05,900 --> 00:18:05,940
+00:18:05,860 --> 00:18:05,900
 Am heutigen Tage
 
 609
@@ -2514,7 +2515,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 610
-00:18:05,940 --> 00:18:05,980
+00:18:05,900 --> 00:18:05,940
 Am heutigen Tage
 
 611
@@ -2522,7 +2523,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 612
-00:18:05,980 --> 00:18:06,020
+00:18:05,940 --> 00:18:05,980
 Am heutigen Tage
 
 613
@@ -2530,7 +2531,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 614
-00:18:06,020 --> 00:18:06,060
+00:18:05,980 --> 00:18:06,020
 Am heutigen Tage
 
 615
@@ -2538,7 +2539,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 616
-00:18:06,060 --> 00:18:06,110
+00:18:06,020 --> 00:18:06,060
 Am heutigen Tage
 
 617
@@ -2546,7 +2547,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 618
-00:18:06,110 --> 00:18:06,150
+00:18:06,060 --> 00:18:06,110
 Am heutigen Tage
 
 619
@@ -2554,7 +2555,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 620
-00:18:06,150 --> 00:18:06,190
+00:18:06,110 --> 00:18:06,150
 Am heutigen Tage
 
 621
@@ -2562,7 +2563,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 622
-00:18:06,190 --> 00:18:06,230
+00:18:06,150 --> 00:18:06,190
 Am heutigen Tage
 
 623
@@ -2570,7 +2571,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 624
-00:18:06,230 --> 00:18:06,270
+00:18:06,190 --> 00:18:06,230
 Am heutigen Tage
 
 625
@@ -2578,7 +2579,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 626
-00:18:06,270 --> 00:18:06,320
+00:18:06,230 --> 00:18:06,270
 Am heutigen Tage
 
 627
@@ -2586,7 +2587,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 628
-00:18:06,320 --> 00:18:06,360
+00:18:06,270 --> 00:18:06,320
 Am heutigen Tage
 
 629
@@ -2594,7 +2595,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 630
-00:18:06,360 --> 00:18:06,400
+00:18:06,320 --> 00:18:06,360
 Am heutigen Tage
 
 631
@@ -2602,7 +2603,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 632
-00:18:06,400 --> 00:18:06,440
+00:18:06,360 --> 00:18:06,400
 Am heutigen Tage
 
 633
@@ -2610,7 +2611,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 634
-00:18:06,440 --> 00:18:06,480
+00:18:06,400 --> 00:18:06,440
 Am heutigen Tage
 
 635
@@ -2618,7 +2619,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 636
-00:18:06,480 --> 00:18:06,520
+00:18:06,440 --> 00:18:06,480
 Am heutigen Tage
 
 637
@@ -2626,7 +2627,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 638
-00:18:06,520 --> 00:18:06,570
+00:18:06,480 --> 00:18:06,520
 Am heutigen Tage
 
 639
@@ -2634,7 +2635,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 640
-00:18:06,570 --> 00:18:06,610
+00:18:06,520 --> 00:18:06,570
 Am heutigen Tage
 
 641
@@ -2642,7 +2643,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 642
-00:18:06,610 --> 00:18:06,650
+00:18:06,570 --> 00:18:06,610
 Am heutigen Tage
 
 643
@@ -2650,7 +2651,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 644
-00:18:06,650 --> 00:18:06,690
+00:18:06,610 --> 00:18:06,650
 Am heutigen Tage
 
 645
@@ -2658,7 +2659,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 646
-00:18:06,690 --> 00:18:06,730
+00:18:06,650 --> 00:18:06,690
 Am heutigen Tage
 
 647
@@ -2666,7 +2667,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 648
-00:18:06,730 --> 00:18:06,770
+00:18:06,690 --> 00:18:06,730
 Am heutigen Tage
 
 649
@@ -2674,7 +2675,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 650
-00:18:06,770 --> 00:18:06,820
+00:18:06,730 --> 00:18:06,770
 Am heutigen Tage
 
 651
@@ -2682,7 +2683,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 652
-00:18:06,820 --> 00:18:06,860
+00:18:06,770 --> 00:18:06,820
 Am heutigen Tage
 
 653
@@ -2690,7 +2691,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 654
-00:18:06,860 --> 00:18:06,900
+00:18:06,820 --> 00:18:06,860
 Am heutigen Tage
 
 655
@@ -2698,7 +2699,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 656
-00:18:06,900 --> 00:18:06,940
+00:18:06,860 --> 00:18:06,900
 Am heutigen Tage
 
 657
@@ -2706,7 +2707,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 658
-00:18:06,940 --> 00:18:06,980
+00:18:06,900 --> 00:18:06,940
 Am heutigen Tage
 
 659
@@ -2714,7 +2715,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 660
-00:18:06,980 --> 00:18:07,020
+00:18:06,940 --> 00:18:06,980
 Am heutigen Tage
 
 661
@@ -2722,7 +2723,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 662
-00:18:07,020 --> 00:18:07,070
+00:18:06,980 --> 00:18:07,020
 Am heutigen Tage
 
 663
@@ -2730,7 +2731,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 664
-00:18:07,070 --> 00:18:07,110
+00:18:07,020 --> 00:18:07,070
 Am heutigen Tage
 
 665
@@ -2738,7 +2739,7 @@ Am heutigen Tage
 Am heutigen Tage
 
 666
-00:18:07,110 --> 00:18:07,150
+00:18:07,070 --> 00:18:07,110
 Am heutigen Tage
 
 667
@@ -2746,10 +2747,13 @@ Am heutigen Tage
 Am heutigen Tage
 
 668
-00:18:43,480 --> 00:18:47,440
-Auf der Pirateninsel
+00:18:07,110 --> 00:18:07,150
+Am heutigen Tage
 
 669
 00:18:43,480 --> 00:18:47,440
 Auf der Pirateninsel
 
+670
+00:18:43,480 --> 00:18:47,440
+Auf der Pirateninsel

@@ -1,432 +1,436 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:00,280 --> 00:00:05,130
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-2
+3
 00:00:05,240 --> 00:00:08,840
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-3
+4
 00:00:08,900 --> 00:00:12,370
 ¡Ya hemos superado muchos obstáculos!
 
-4
+5
 00:00:12,440 --> 00:00:17,780
 ¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
 
-5
+6
 00:00:23,420 --> 00:00:30,740
 "Ya casi lo logro, un poco más y consigo la respuesta".
 
-6
+7
 00:00:30,790 --> 00:00:38,460
 Eso es lo que creemos al adentrarnos en este nuevo mundo.
 
-7
+8
 00:00:38,500 --> 00:00:45,960
 Resulta que los fragmentos de nuestros sueños se han fundido en uno.
 
-8
+9
 00:00:46,010 --> 00:00:54,020
 ¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
 
-9
+10
 00:00:54,100 --> 00:00:58,690
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-10
+11
 00:00:58,720 --> 00:01:02,470
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-11
+12
 00:01:02,520 --> 00:01:05,860
 ¡Ya hemos superado muchos obstáculos!
 
-12
+13
 00:01:05,930 --> 00:01:09,880
 ¡No nos detengamos, sigamos adelante!
 
-13
+14
 00:01:09,960 --> 00:01:11,400
 ¡Miren más arriba!
 
-14
+15
 00:01:11,430 --> 00:01:13,600
 ¡Con la cabeza bien en alto!
 
-15
+16
 00:01:13,640 --> 00:01:15,040
 ¡Siempre avanzando!
 
-16
+17
 00:01:15,070 --> 00:01:16,940
 ¡Volemos por encima de las olas!
 
-17
+18
 00:01:16,970 --> 00:01:20,510
 Unamos todos nuestros deseos en uno solo.
 
-18
+19
 00:01:20,540 --> 00:01:24,750
 ¡Dirijámonos al futuro!
 
-19
+20
 00:01:25,010 --> 00:01:31,150
 Avanzamos sin rumbo, surcando las olas.
 
-20
+21
 00:01:31,190 --> 00:01:35,390
 Encuentros, despedidas, una y otra vez.
 
-21
+22
 00:01:35,420 --> 00:01:39,630
 Siempre ante esta bandera...
 
-22
+23
 00:01:41,360 --> 00:01:44,770
 El dolor que no quiero olvidar lo guardo en mi corazón...
 
-23
+24
 00:01:44,830 --> 00:01:48,300
 ...desde aquel día en que lo grabé en mi interior.
 
-24
+25
 00:01:48,370 --> 00:01:51,940
 ¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
 
-25
+26
 00:01:51,970 --> 00:01:54,840
 ...y jamás se me escapará!
 
-26
+27
 00:01:54,880 --> 00:01:59,780
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-27
+28
 00:01:59,810 --> 00:02:03,470
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-28
+29
 00:02:03,520 --> 00:02:06,750
 ¡Ya hemos superado muchos obstáculos!
 
-29
+30
 00:02:06,790 --> 00:02:10,910
 ¡No nos detengamos, sigamos adelante!
 
-30
+31
 00:02:10,960 --> 00:02:12,280
 ¡Miren más arriba!
 
-31
+32
 00:02:12,330 --> 00:02:14,600
 ¡Con la cabeza bien en alto!
 
-32
+33
 00:02:14,630 --> 00:02:15,980
 ¡Siempre avanzando!
 
-33
+34
 00:02:16,030 --> 00:02:17,830
 ¡Volemos por encima de las olas!
 
-34
+35
 00:02:17,870 --> 00:02:21,540
 Unamos todos nuestros deseos en uno solo.
 
-35
+36
 00:02:21,640 --> 00:02:25,020
 ¡Dirijámonos al futuro!
 
-36
+37
 00:02:25,090 --> 00:02:29,760
 ¡Levanten las manos!
 
-37
+38
 00:02:48,650 --> 00:02:52,650
 ¡Así es!
 
-38
+39
 00:03:11,800 --> 00:03:13,070
 ¡Sí, señor!
 
-39
+40
 00:06:04,790 --> 00:06:08,780
 NIÑO DEL PAÍS DE WA
 
-40
+41
 00:06:04,790 --> 00:06:08,780
 HIJO DE KIN'EMON - MOMONOSUKE
 
-41
+42
 00:08:03,210 --> 00:08:05,030
 ¡No queremos!
 
-42
+43
 00:11:35,960 --> 00:11:37,820
 Es una tregua, hermano.
 
-43
+44
 00:12:05,100 --> 00:12:06,670
 ¡Salud!
 
-44
+45
 00:13:40,950 --> 00:13:44,780
 ¿De qué Yonkou estás hablando?
 
-45
+46
 00:13:44,780 --> 00:13:46,850
 Su nombre es...
 
-46
+47
 00:13:46,850 --> 00:13:49,910
 ...Kaidou, el Rey de las Bestias.
 
-47
+48
 00:13:51,530 --> 00:13:54,910
 No hay problema mientras
  Shanks no sea el primero.
 
-48
+49
 00:13:55,830 --> 00:13:56,710
 ¡Porque...
 
-49
+50
 00:13:56,710 --> 00:14:00,850
 ...pienso derrotar a todos los Yonkou!
 
-50
+51
 00:14:00,850 --> 00:14:03,500
 ¡¿Derrotarlos a todos?!
 
-51
+52
 00:14:03,500 --> 00:14:06,390
 Veo que tenemos intereses comunes, 
 pero aun así me impresiona tu ímpetu.
 
-52
+53
 00:14:06,390 --> 00:14:13,120
 Hablas de los emperadores del mar que incluso se disputaban las aguas con Barbablanca.
 
-53
+54
 00:14:13,120 --> 00:14:15,770
 Entre ellos, está Kaidou,
  el Rey de las Bestias,
 
-54
+55
 00:14:15,770 --> 00:14:19,370
 del cual se afirma que es 
 el ser más fuerte del mundo.
 
-55
+56
 00:14:19,370 --> 00:14:20,910
 ¡¿Qué?!
 
-56
+57
 00:14:20,910 --> 00:14:21,910
 ¿No es humano?
 
-57
+58
 00:14:23,710 --> 00:14:27,860
 Nuestra alianza durará hasta que
  consigamos derrotar a Kaidou.
 
-58
+59
 00:14:27,860 --> 00:14:30,310
 Las probabilidades de éxito son...
 
-59
+60
 00:14:30,310 --> 00:14:33,600
 Bueno, sólo diré que son muy bajas.
 
-60
+61
 00:14:33,600 --> 00:14:34,800
 ¡¿Qué ha sido eso?!
 
-61
+62
 00:14:34,800 --> 00:14:37,120
 No aceptes la oferta, Luffy.
 
-62
+63
 00:14:37,120 --> 00:14:38,620
 Ya veo.
 
-63
+64
 00:14:39,990 --> 00:14:41,980
 Muy bien, hagámoslo.
 
-64
+65
 00:14:44,140 --> 00:14:48,550
 ¡Espera un momento!
 
-65
+66
 00:15:09,350 --> 00:15:11,920
 Mola
 
-66
+67
 00:15:09,350 --> 00:15:11,920
 Shi
 
-67
+68
 00:15:09,350 --> 00:15:11,920
 Chibukai
 
-68
+69
 00:15:09,350 --> 00:15:11,920
 Fansub!
 
-69
+70
 00:15:09,350 --> 00:15:11,920
 Glotonería.
 
-70
+71
 00:16:18,690 --> 00:16:20,640
 ...mucho la comida.
 
-71
+72
 00:16:24,500 --> 00:16:26,010
 Un, dos...
 
-72
+73
 00:17:12,990 --> 00:17:14,330
 ¡Corran!
 
-73
+74
 00:17:14,330 --> 00:17:16,610
 ¡Si no quieren morir, dense prisa!
 
-74
+75
 00:17:44,480 --> 00:17:46,070
 ¡Los piratas no merecen perdón!
 
-75
+76
 00:17:46,070 --> 00:17:47,750
 ¡No queremos piratas!
 
-76
+77
 00:18:05,260 --> 00:18:07,620
 ¡Quiero volver a casa!
 
-77
+78
 00:18:07,620 --> 00:18:09,160
 Regresaremos pronto.
 
-78
+79
 00:18:09,160 --> 00:18:10,270
 Ánimo.
 
-79
+80
 00:18:18,580 --> 00:18:19,880
 ¡Lo siento!
 
-80
+81
 00:18:21,460 --> 00:18:25,950
 ¡Perdón por no haberlos encontrado antes!
 
-81
+82
 00:18:40,300 --> 00:18:42,110
 ¡Digan no a los piratas!
 
-82
+83
 00:18:42,110 --> 00:18:43,500
 ¡Digan sí a la Marina!
 
-83
+84
 00:19:49,570 --> 00:19:51,490
 nos convertiremos en piratas!
 
-84
+85
 00:19:51,490 --> 00:19:53,740
 ¡De ninguna manera!
 
-85
+86
 00:21:20,640 --> 00:21:22,090
 Pero qué sorpresa.
 
-86
+87
 00:21:22,810 --> 00:21:26,200
 El jefe en persona.
 
-87
+88
 00:21:31,470 --> 00:21:35,790
 Si buscas a Caesar, te informo que está conmigo.
 
-88
+89
 00:21:35,790 --> 00:21:40,080
 ¡J-Joker, sálvame!
 
-89
+90
 00:21:44,480 --> 00:21:45,720
 Quién sabe.
 
-90
+91
 00:21:45,720 --> 00:21:48,190
 Eso no es primordial.
 
-91
+92
 00:21:48,190 --> 00:21:49,920
 Hagamos un trato.
 
-92
+93
 00:22:08,540 --> 00:22:10,160
 ¿Enojar?
 
-93
+94
 00:22:10,160 --> 00:22:13,650
 Al que ahora es tu cliente más importante,
 
-94
+95
 00:22:13,650 --> 00:22:19,320
 uno de los Yonkou, el gran
  pirata Kaidou, el Rey de las Bestias.
 
-95
+96
 00:22:19,320 --> 00:22:24,590
 Es a él a quien no debes hacer enfadar.
 
-96
+97
 00:22:26,690 --> 00:22:32,500
 ¿Cómo reaccionaría si se enterara de 
 que ya no puedes hacer más Smile?
 
-97
+98
 00:22:32,500 --> 00:22:35,390
 No es un tipo que atienda a razones.
 
-98
+99
 00:22:35,390 --> 00:22:37,550
 Tendrían que batirse en duelo.
 
-99
+100
 00:22:40,670 --> 00:22:43,270
 Y te eliminaría.
 
-100
+101
 00:22:51,540 --> 00:22:54,790
 Renuncia a tu título de Shichibukai.
 
-101
+102
 00:23:01,570 --> 00:23:08,730
 Tendrás que renunciar a la posición que has ostentado durante estos diez años y volver a ser un pirata común y corriente.
 
-102
+103
 00:23:08,730 --> 00:23:15,110
 Pero claro, si haces eso, los almirantes del 
 Cuartel General de la Marina irán tras de ti.
 
-103
+104
 00:23:16,900 --> 00:23:19,780
 Tienes como tiempo límite hasta el diario matutino.
 
-104
+105
 00:23:19,780 --> 00:23:27,720
 Si mañana encuentro la noticia de tu renuncia a los Shichibukai en la portada del periódico, volveré a contactarte.
 
-105
+106
 00:23:28,850 --> 00:23:32,620
 Si no, las negociaciones se darán por terminadas.
 
-106
+107
 00:23:33,890 --> 00:23:35,130
 Nos vemos.
-

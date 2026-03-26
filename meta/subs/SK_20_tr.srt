@@ -1,1193 +1,1193 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:52,380 --> 00:01:54,340
 Y-Yılan!
 
-2
+3
 00:01:54,720 --> 00:01:55,800
 Bu...?
 
-3
+4
 00:01:56,180 --> 00:01:58,430
 Hey, Kalgara! Bak şuna!
 
-4
+5
 00:02:00,060 --> 00:02:04,020
 Ne sürpriz ama.
 O yılanın torunu da varmış.
 
-5
+6
 00:02:04,650 --> 00:02:06,440
 "O yılan" mı?
 
-6
+7
 00:02:08,520 --> 00:02:09,610
 Yılan, demek?
 
-7
+8
 00:02:13,860 --> 00:02:16,950
 O ikisini anlamıyorum...
 
-8
+9
 00:02:16,950 --> 00:02:20,040
 Birkaç gün önce neredeyse
 birbirlerini öldürecekken...
 
-9
+10
 00:02:20,040 --> 00:02:22,540
 şimdi çok iyi arkadaşmış
 gibi anlaşıyorlar.
 
-10
+11
 00:02:22,540 --> 00:02:26,250
 Kalgara bu köyde asla arkadaş edinmedi.
 
-11
+12
 00:02:27,250 --> 00:02:29,750
 Onu hiç böyle gülerken görmemiştim.
 
-12
+13
 00:02:31,960 --> 00:02:33,970
 Sadece beni izleyin.
 
-13
+14
 00:02:35,130 --> 00:02:36,970
 Buradan aşağı iniyoruz.
 
-14
+15
 00:02:36,970 --> 00:02:38,470
 Aşağı mı?
 
-15
+16
 00:02:49,690 --> 00:02:51,530
 Bu ses...
 
-16
+17
 00:02:52,530 --> 00:02:55,780
 Hey, Kalgara!
 Bu güzel ses nereden geliyor?!
 
-17
+18
 00:02:55,780 --> 00:02:58,740
 Beni izlersen göreceksin.
 
-18
+19
 00:03:36,450 --> 00:03:38,030
 Geldiler!
 
-19
+20
 00:03:38,030 --> 00:03:40,030
 Nefesiniz mi kesildi?
 
-20
+21
 00:03:40,030 --> 00:03:41,870
 Burası Altın Şehir, Shandora.
 
-21
+22
 00:03:41,870 --> 00:03:44,910
 Biz bu şehrin hayatta kalanlarıyız.
 
-22
+23
 00:03:45,370 --> 00:03:47,370
 Altın şehir...
 
-23
+24
 00:03:47,920 --> 00:03:50,880
 Hayal görüyor gibiyim.
 
-24
+25
 00:03:51,290 --> 00:03:54,510
 O-Oha, her yerde altın var!
 
-25
+26
 00:03:54,510 --> 00:03:58,180
 Burası hazine şehri!
 
-26
+27
 00:03:58,180 --> 00:04:01,220
 H-Hey, millet! Hadi ama!
 
-27
+28
 00:04:01,890 --> 00:04:03,220
 Sorun değil.
 
-28
+29
 00:04:03,220 --> 00:04:08,100
 O çan kulesi haricinde, geminizin
 taşıyabileceği kadar altın alabilirsiniz.
 
-29
+30
 00:04:10,020 --> 00:04:12,650
 Köylülerin hepsi fikir birliğine vardı.
 
-30
+31
 00:04:12,650 --> 00:04:16,860
 Bizi salgından kurtardığınız için
 size çok büyük borçlandık.
 
-31
+32
 00:04:17,320 --> 00:04:18,610
 Başka söze gerek yok.
 
-32
+33
 00:04:19,360 --> 00:04:21,240
 Çok cömertsiniz, Şanlı Savaşçı!
 
-33
+34
 00:04:21,240 --> 00:04:26,200
 Ama bu şehri asırlardır korumuyor muydunuz?
 
-34
+35
 00:04:26,200 --> 00:04:27,580
 Doğru.
 
-35
+36
 00:04:27,580 --> 00:04:31,380
 Bu şehri koruyoruz, ama...
 
-36
+37
 00:04:31,380 --> 00:04:35,210
 hazineyi korumuyoruz!
 
-37
+38
 00:04:35,670 --> 00:04:38,090
 Aslında koruduğumuz şey...
 
-38
+39
 00:04:45,520 --> 00:04:47,520
 ...bu taş.
 
-39
+40
 00:04:49,230 --> 00:04:51,900
 Bu da ne?
 
-40
+41
 00:04:51,900 --> 00:04:53,310
 Yazı mı?
 
-41
+42
 00:04:53,310 --> 00:04:54,940
 Tarihi bir metin.
 
-42
+43
 00:04:54,940 --> 00:04:57,690
 Poneglif olarak bilinir.
 
-43
+44
 00:04:57,690 --> 00:05:00,070
 Biz de okuyamıyoruz.
 
-44
+45
 00:05:00,070 --> 00:05:04,240
 Yani bunu atalarınız yazmadı mı?
 
-45
+46
 00:05:04,740 --> 00:05:06,870
 Bir şeyi kesin olarak biliyoruz:
 
-46
+47
 00:05:06,870 --> 00:05:12,830
 Shandora, bu taşı korumak için verilen umutsuz bir savaş sırasında yok edildi.
 
-47
+48
 00:05:13,170 --> 00:05:17,420
 Atalarımızın ona karşı olan sevgisini
 onurlandırmaya devam etmeliyiz.
 
-48
+49
 00:05:17,420 --> 00:05:19,010
 Onların torunları olarak,
 
-49
+50
 00:05:19,010 --> 00:05:23,340
 atalarımızın uğruna hayatlarını riske attığı mirası korumalıyız.
 
-50
+51
 00:05:23,800 --> 00:05:27,810
 Atalarımıza tanrılarımız kadar saygı duyuyoruz.
 
-51
+52
 00:05:27,810 --> 00:05:33,860
 Duyduğum sesin, bu devasa altın çana ait olduğu kimin aklına gelirdi...
 
-52
+53
 00:05:35,770 --> 00:05:38,690
 Çanın sesi aslında bir mesaj.
 
-53
+54
 00:05:38,690 --> 00:05:40,110
 Mesaj mı?
 
-54
+55
 00:05:40,110 --> 00:05:44,030
 Cennet'teki atalarımızın ruhlarının
 ne zaman isterlerse...
 
-55
+56
 00:05:44,030 --> 00:05:49,120
 güvenle buraya dönmelerine izin veriyor.
 
-56
+57
 00:05:49,120 --> 00:05:52,670
 Şu sözleri onlara iletmesi için çanı çalıyoruz:
 
-57
+58
 00:05:52,670 --> 00:05:56,090
 "Biz buradayız."
 
-58
+59
 00:05:57,210 --> 00:06:02,510
 Çanın çalışı Shandora'nın eski ihtişamını gösteriyor.
 
-59
+60
 00:06:02,510 --> 00:06:06,100
 Bu ihtişamı denizin bitimine doğru haykırıyor.
 
-60
+61
 00:06:06,100 --> 00:06:09,220
 Asla kaçıp saklanmayacağız.
 
-61
+62
 00:06:10,100 --> 00:06:14,940
 Bu yüzden, şehrin gurur kaynağı olan
 bu çana "Shandora'nın Işığı" denir.
 
-62
+63
 00:06:15,480 --> 00:06:18,980
 Görkemli sesine yakışan bir isim.
 
-63
+64
 00:06:18,980 --> 00:06:20,360
 Öyle mi düşünüyorsun?!
 
-64
+65
 00:06:20,360 --> 00:06:21,440
 Tabii!
 
-65
+66
 00:06:22,030 --> 00:06:26,660
 O gün, ışık bizi kucakladı ve buraya yönlendirdi.
 
-66
+67
 00:06:28,490 --> 00:06:35,120
 Sağır edici bir fırtınanın içindeyken, bu çanın yankısı geldi kulağıma.
 
-67
+68
 00:06:39,710 --> 00:06:43,340
 Bu çanın sesini
 sen de seviyorsun, ha?
 
-68
+69
 00:06:43,340 --> 00:06:47,890
 Acaba sen de bir gün
 dev bir yılana dönüşecek misin?
 
-69
+70
 00:06:52,810 --> 00:06:55,730
 Belki 100 yıl falan sonra!
 
-70
+71
 00:06:58,270 --> 00:07:01,480
 Hey! İstediğin kadar kalabilirsin, Noland!
 
-71
+72
 00:07:01,980 --> 00:07:07,620
 Shandora, 400 yıl önceki düşüşünden bu yana hiç misafir ağırlamadı!
 
-72
+73
 00:07:07,620 --> 00:07:09,700
 Misafirperverliğimizi göstermek istiyoruz!
 
-73
+74
 00:07:11,330 --> 00:07:13,080
 Çok memnun olurum.
 
-74
+75
 00:07:13,080 --> 00:07:15,830
 Ormandan bitkiler toplamak istiyorum.
 
-75
+76
 00:07:15,830 --> 00:07:18,920
 Ağaç ateşi bitene kadar tedavisiyle ilgileneceğim.
 
-76
+77
 00:07:18,920 --> 00:07:22,050
 Komodor! Komodor!
 
-77
+78
 00:07:22,050 --> 00:07:24,050
 Hey, hey, bu kıyafetler de ne böyle?
 
-78
+79
 00:07:24,050 --> 00:07:26,090
 Daimi pusulaya bakın!
 
-79
+80
 00:07:26,090 --> 00:07:27,840
 Ve bir harita, Komodor! Bir harita!
 
-80
+81
 00:07:28,890 --> 00:07:32,060
 Onları son gelen davetsiz misafirler bıraktı.
 
-81
+82
 00:07:32,600 --> 00:07:33,850
 Evet.
 
-82
+83
 00:07:33,850 --> 00:07:36,810
 Kuru kafa şekli kesinlikle bu adaya ait.
 
-83
+84
 00:07:36,810 --> 00:07:41,570
 "Shandora" adı, bu şehrin konumunu işaret eden...
 
-84
+85
 00:07:41,570 --> 00:07:45,490
 "kuru kafanın sağ gözü" anlamına gelir.
 
-85
+86
 00:07:47,200 --> 00:07:48,910
 Pekâlâ, kendinize iyi bakın.
 
-86
+87
 00:07:48,910 --> 00:07:51,580
 Bol bol dinlendiğinize emin olun.
 
-87
+88
 00:07:51,580 --> 00:07:53,910
 Doktor-san, teşekkür ederim!
 
-88
+89
 00:07:56,460 --> 00:07:58,290
 Hey, herkes buraya gelsin!
 
-89
+90
 00:07:58,290 --> 00:08:01,540
 Noland, bize bazı garip mahsuller vereceğini söyledi!
 
-90
+91
 00:08:01,540 --> 00:08:06,590
 Gemide her türlü bitki örneğinin bulunduğu bir sera var.
 
-91
+92
 00:08:06,590 --> 00:08:09,840
 Toprağınıza uygun bazı tohumlar ve filizler bırakacağım.
 
-92
+93
 00:08:09,840 --> 00:08:11,850
 Tadı güzel mi?
 
-93
+94
 00:08:11,850 --> 00:08:14,810
 Evet, güzel! Üstelik de besleyici.
 
-94
+95
 00:09:15,450 --> 00:09:16,990
 Pekâlâ!
 
-95
+96
 00:09:16,990 --> 00:09:18,910
 Bugün yine sıkı çalışalım!
 
-96
+97
 00:09:19,290 --> 00:09:21,330
 Ne için çok çalışacaksın?
 
-97
+98
 00:09:21,330 --> 00:09:22,960
 Kamp ateşi partisi için mi?!
 
-98
+99
 00:09:31,300 --> 00:09:32,640
 Niye?!
 
-99
+100
 00:09:32,640 --> 00:09:35,350
 Niye Doktor-san'ın tayfası bunu yaptı?
 
-100
+101
 00:09:40,060 --> 00:09:43,020
 Şef! Noland ve tayfası geldi!
 
-101
+102
 00:09:43,900 --> 00:09:47,650
 Dinleyin.
 Dün gece olanlardan bahsetmeyin!
 
-102
+103
 00:09:47,650 --> 00:09:50,740
 Birkaç gün içinde denize
 açılacaklarını söylediler.
 
-103
+104
 00:09:51,110 --> 00:09:55,030
 Düşüncesizce bir şey yapmadığınızdan kesinlikle emin olun!
 
-104
+105
 00:09:55,410 --> 00:09:59,290
 Asla aynı fikirde olamayacağımızı biliyordum.
 
-105
+106
 00:09:59,700 --> 00:10:04,380
 İlaçları ne kadar iyi olursa olsun,
 o hâlâ bir tanrı katili!
 
-106
+107
 00:10:04,380 --> 00:10:08,800
 Kendilerini tarihimizi ayaklar altına alacak kadar büyük mü sanıyorlar?
 
-107
+108
 00:10:09,590 --> 00:10:14,180
 Hislerinizi saklayın,
 sabırla gitmelerini bekleyin.
 
-108
+109
 00:10:14,180 --> 00:10:15,510
 Geldiler!
 
-109
+110
 00:10:18,470 --> 00:10:19,970
 Hepinize merhaba.
 
-110
+111
 00:10:19,970 --> 00:10:21,430
 Kalgara burada mı?
 
-111
+112
 00:10:30,320 --> 00:10:34,490
 Ne oldu da birden soğuk davranmaya başladınız? Kalgara nerede?
 
-112
+113
 00:10:34,490 --> 00:10:37,870
 Sizler hâlâ yabancısınız!
 
-113
+114
 00:10:37,870 --> 00:10:41,370
 Kalgara, seni görmek istemediğini söylüyor.
 
-114
+115
 00:10:41,370 --> 00:10:42,290
 Seto!
 
-115
+116
 00:10:45,120 --> 00:10:48,420
 Ne zaman gideceksiniz acaba?
 
-116
+117
 00:10:48,790 --> 00:10:49,630
 Ha?!
 
-117
+118
 00:10:50,710 --> 00:10:55,220
 Aniden bizden nefret
 etmeye başlamış gibiler.
 
-118
+119
 00:10:55,220 --> 00:10:59,470
 Hey, bekleyin?!
 Davranışlarınız hiç mantıklı değil!
 
-119
+120
 00:10:59,470 --> 00:11:00,470
 Bu kadarı yeter.
 
-120
+121
 00:11:02,680 --> 00:11:05,640
 İşimize bakalım.
 
-121
+122
 00:11:06,350 --> 00:11:09,060
 Henüz ormanın
 araştırmadığımız bölümleri var.
 
-122
+123
 00:11:12,110 --> 00:11:14,150
 İşte buradasın, Kalgara!
 
-123
+124
 00:11:14,150 --> 00:11:15,860
 Noland seni arıyordu!
 
-124
+125
 00:11:15,860 --> 00:11:19,410
 Evet, onun yüzünü görmek istemiyorum.
 
-125
+126
 00:11:19,990 --> 00:11:24,500
 Yüzünü görürsem onu öldürebilirim!
 
-126
+127
 00:11:30,880 --> 00:11:33,380
 Bugün çan çalmadı.
 
-127
+128
 00:11:33,380 --> 00:11:34,260
 Evet.
 
-128
+129
 00:11:34,260 --> 00:11:38,220
 Burada olduğumuz bir ay boyunca böyle bir şey hiç olmamıştı, değil mi?
 
-129
+130
 00:11:38,890 --> 00:11:40,300
 Komodor...
 
-130
+131
 00:11:40,300 --> 00:11:43,470
 İki gün içinde,
 tüm ormanı araştırmış olacağız.
 
-131
+132
 00:11:43,470 --> 00:11:44,930
 E-Evet...
 
-132
+133
 00:11:45,560 --> 00:11:50,440
 Tayfaya üç gün içinde tekrar yelken açacağımızı söyle,
 
-133
+134
 00:11:50,440 --> 00:11:54,150
 o zamana kadar sağlam zeminin tadını çıkarsınlar.
 
-134
+135
 00:11:54,740 --> 00:11:59,110
 Komodor, açıkçası burada daha fazla durmak hiç içime sinmiyor...
 
-135
+136
 00:11:59,110 --> 00:12:01,530
 Başladığımız işi bitirmeliyiz!
 
-136
+137
 00:12:01,530 --> 00:12:02,530
 Gidip uyu.
 
-137
+138
 00:12:04,910 --> 00:12:07,040
 Burada yaşamalısın, Noland!
 
-138
+139
 00:12:07,040 --> 00:12:11,040
 Sahi! Neden Mousse'u karın olarak almıyorsun?
 
-139
+140
 00:12:11,040 --> 00:12:12,210
 Saçmalama!
 
-140
+141
 00:12:12,210 --> 00:12:15,420
 Memlekette bir ailem, bir de onun yaşında bir çocuğum var.
 
-141
+142
 00:12:15,420 --> 00:12:16,550
 Geri dönmem gerek.
 
-142
+143
 00:12:16,920 --> 00:12:20,390
 Kalgara, seni görmek istemediğini söylüyor.
 
-143
+144
 00:12:21,550 --> 00:12:25,140
 Ne zaman gideceksiniz acaba?
 
-144
+145
 00:12:30,810 --> 00:12:33,070
 Burada olduğunu biliyorum, Kalgara!
 
-145
+146
 00:12:33,070 --> 00:12:34,570
 Çık ortaya!
 
-146
+147
 00:12:35,190 --> 00:12:38,200
 Bana bir açıklama borçlu değil misin sence?!
 
-147
+148
 00:12:38,200 --> 00:12:39,820
 Göster kendini!
 
-148
+149
 00:12:39,820 --> 00:12:41,780
 Sen anlatmazsan anlayamam!
 
-149
+150
 00:12:42,410 --> 00:12:45,040
 Yakında yelken açacağız!
 
-150
+151
 00:12:45,040 --> 00:12:47,620
 Bu şekilde ayrılmak istemiyorum!
 
-151
+152
 00:13:00,760 --> 00:13:04,180
 Yüzünü bana gösterme!
 
-152
+153
 00:13:04,180 --> 00:13:07,470
 Yoksa ölümün mü bizi ayırmasını tercih edersin?!
 
-153
+154
 00:13:11,190 --> 00:13:12,650
 Kalgara!
 
-154
+155
 00:13:16,730 --> 00:13:19,610
 Komodor yalnız görünüyor...
 
-155
+156
 00:13:19,610 --> 00:13:20,900
 Evet.
 
-156
+157
 00:13:20,900 --> 00:13:26,120
 Onca yoldan bu ücra adaya geldi ve harika bir arkadaş buldu.
 
-157
+158
 00:13:27,790 --> 00:13:30,160
 Bunların hiçbiri mantıklı değil!
 
-158
+159
 00:13:30,160 --> 00:13:34,170
 Yarın sabah ilk iş, yelken açacağız.
 
-159
+160
 00:13:34,170 --> 00:13:37,050
 Köylüler o kadar aksi ki
 yanlarına yaklaşamıyoruz.
 
-160
+161
 00:13:37,050 --> 00:13:41,130
 Ve çan, bugün de çalmadı.
 
-161
+162
 00:13:43,890 --> 00:13:46,930
 Yüzünü bana gösterme!
 
-162
+163
 00:13:46,930 --> 00:13:49,890
 Yoksa ölümün mü bizi ayırmasını tercih edersin?!
 
-163
+164
 00:14:06,160 --> 00:14:11,000
 Ayrılmak için ne kadar üzücü bir yol.
 
-164
+165
 00:14:11,000 --> 00:14:11,960
 Şey...
 
-165
+166
 00:14:16,540 --> 00:14:17,630
 Doktor-san...
 
-166
+167
 00:14:18,170 --> 00:14:19,670
 Mousse-chan?!
 
-167
+168
 00:14:19,670 --> 00:14:22,260
 Bir dakikanız var mı?
 
-168
+169
 00:14:26,930 --> 00:14:30,220
 Ne tür bir bitki bilimci bunu yapar?!
 
-169
+170
 00:14:36,150 --> 00:14:37,770
 Noland!
 
-170
+171
 00:14:38,190 --> 00:14:42,150
 Eğer bunlar sözde "gelişimin" kurbanlarıysa...
 
-171
+172
 00:14:42,150 --> 00:14:46,570
 o zaman sizi asla kabul etmemeliydik!
 
-172
+173
 00:14:49,910 --> 00:14:51,290
 Ataların ağaçları mı?
 
-173
+174
 00:14:52,120 --> 00:14:53,160
 Evet.
 
-174
+175
 00:14:54,330 --> 00:14:58,630
 Geçtiğimiz bir kaç asırda, bu adada ölen atalarımızın ruhlarının...
 
-175
+176
 00:14:58,630 --> 00:15:02,340
 çanın sesiyle yönlendirilerek
 ağaçların içinde yaşadığı söylenir.
 
-176
+177
 00:15:02,340 --> 00:15:06,720
 Shandora döneminden beri
 atalarımızın hepsi...
 
-177
+178
 00:15:06,720 --> 00:15:13,680
 o kutsal beyaz ağaçlardan bizi gözetler.
 
-178
+179
 00:15:20,150 --> 00:15:24,030
 Biz Shandialılar için atalarımızın ağaçları...
 
-179
+180
 00:15:24,360 --> 00:15:31,870
 o kadar değerlidir ki
 onları kendi hayatlarımız gibi koruduk!
 
-180
+181
 00:15:31,870 --> 00:15:34,870
 Biz de gidip onları kestik.
 
-181
+182
 00:15:36,250 --> 00:15:40,960
 Savaşçılar o kadar öfkeliydi ki
 hemen silahlandılar...
 
-182
+183
 00:15:40,960 --> 00:15:43,090
 Onları bu adadan süreceğiz!
 
-183
+184
 00:15:43,090 --> 00:15:44,420
 – Evet!
 – Evet!
 
-184
+185
 00:15:46,760 --> 00:15:53,140
 ...ama hayatlarımızı kurtardığınız için size borçluyuz.
 
-185
+186
 00:15:53,140 --> 00:15:55,020
 Anlıyorum.
 
-186
+187
 00:15:56,100 --> 00:15:59,100
 Yani sadece öfkelerini bastırıyorlardı...
 
-187
+188
 00:15:59,980 --> 00:16:02,570
 Ormandaki araştırmanızın
 bir parçası olsa bile,
 
-188
+189
 00:16:03,320 --> 00:16:04,780
 bilmiyor olsanız bile...
 
-189
+190
 00:16:05,490 --> 00:16:09,110
 köylülerin öfkesi dinmeyecek.
 
-190
+191
 00:16:09,110 --> 00:16:12,280
 Bu yüzden bunu niye yaptığınızı...
 
-191
+192
 00:16:14,500 --> 00:16:16,710
 bilmek istedim.
 
-192
+193
 00:16:18,830 --> 00:16:20,580
 Hey! Biri yardım etsin!
 
-193
+194
 00:16:20,580 --> 00:16:21,960
 Hepsini gemiye alın!
 
-194
+195
 00:16:21,960 --> 00:16:24,550
 Düzgün bağladığınızdan emin olun!
 
-195
+196
 00:16:19,960 --> 00:16:23,170
 Atalarının ruhlarının olduğu ağaçlar...
 
-196
+197
 00:16:23,170 --> 00:16:25,340
 Hiç bilmiyordum.
 
-197
+198
 00:16:25,340 --> 00:16:28,180
 Asla yapılmaması gereken bir şey yaptık.
 
-198
+199
 00:16:28,550 --> 00:16:31,010
 Köylülerin kızmaya hakkı var.
 
-199
+200
 00:16:31,010 --> 00:16:32,140
 Ama Komodor!
 
-200
+201
 00:16:32,140 --> 00:16:33,220
 Başka seçeneğimiz yok–
 
-201
+202
 00:16:33,220 --> 00:16:35,140
 Mazeret üretemeyiz!
 
-202
+203
 00:16:35,890 --> 00:16:38,980
 Doğru olduğunu düşündüğüm şeyi yaptım...
 
-203
+204
 00:16:39,560 --> 00:16:41,690
 Şehrin varlığıyla...
 
-204
+205
 00:16:41,690 --> 00:16:44,940
 övünmelerinin yanı sıra...
 
-205
+206
 00:16:44,940 --> 00:16:49,200
 çanın sesi, atalarının ruhlarını bu adaya yönlendiriyormuş.
 
-206
+207
 00:16:49,820 --> 00:16:54,620
 O ruhları barındıran ağaçları kestik!
 
-207
+208
 00:16:55,120 --> 00:16:57,040
 Bu affedilemez bir davranış!
 
-208
+209
 00:16:57,620 --> 00:17:00,080
 Komodor...
 
-209
+210
 00:17:02,460 --> 00:17:04,420
 Herkes dinlesin!
 
-210
+211
 00:17:04,420 --> 00:17:06,260
 – Ha?!
 – Ha?!
 
-211
+212
 00:17:06,260 --> 00:17:09,220
 – Altını bırakıyor muyuz?!
 – Altını bırakıyor muyuz?!
 
-212
+213
 00:17:10,720 --> 00:17:14,140
 Noland ve tayfası
 yola çıkmaya hazırlanıyor.
 
-213
+214
 00:17:24,610 --> 00:17:27,230
 Mousse! Neredeydin?!
 
-214
+215
 00:17:29,780 --> 00:17:30,740
 Ya...
 
-215
+216
 00:17:31,610 --> 00:17:35,200
 Ya tek bir değerli ağacın...
 
-216
+217
 00:17:35,700 --> 00:17:38,160
 ölümcül bir zehirle mahvolduğunu...
 
-217
+218
 00:17:38,910 --> 00:17:42,830
 ve bu zehrin eninde sonunda tüm ormana...
 
-218
+219
 00:17:43,330 --> 00:17:46,300
 oradan da insanlara yayılarak tüm adayı...
 
-219
+220
 00:17:46,300 --> 00:17:49,050
 öldüreceğini önceden bilseydik?
 
-220
+221
 00:17:49,340 --> 00:17:50,920
 Ne demek istiyor?
 
-221
+222
 00:17:50,920 --> 00:17:52,380
 Neden bahsediyorsun?!
 
-222
+223
 00:17:52,380 --> 00:17:54,050
 Önceden bilseydik...
 
-223
+224
 00:17:55,430 --> 00:17:57,760
 o kıymetli ağaca...
 
-224
+225
 00:17:59,560 --> 00:18:01,440
 ne yapardık?!
 
-225
+226
 00:18:03,560 --> 00:18:06,820
 Baba, lütfen git!
 Onları durdurmalısın!
 
-226
+227
 00:18:06,820 --> 00:18:09,690
 Aptal olma!
 Ne yaptıklarını biliyorsun!
 
-227
+228
 00:18:09,690 --> 00:18:13,030
 Böyle gimelerine izin verirsen
 ölene kadar pişman olacaksın.
 
-228
+229
 00:18:13,030 --> 00:18:15,990
 Sonunda böyle değerli bir arkadaş edindin...
 
-229
+230
 00:18:15,990 --> 00:18:18,450
 ve biz Shandialılar onlara çok şey borçluyuz!
 
-230
+231
 00:18:18,450 --> 00:18:20,910
 Onları hayatları boyunca incitmiş olacağız!
 
-231
+232
 00:18:21,410 --> 00:18:23,120
 Ne demek istiyorsun?!
 
-232
+233
 00:18:23,750 --> 00:18:25,790
 Mazeret üretiyormuşuz gibi olacak...
 
-233
+234
 00:18:26,380 --> 00:18:30,210
 ama Komodor'un onuru için anlatacağım.
 
-234
+235
 00:18:30,210 --> 00:18:33,470
 Sözünü ettiğin orman çoktan ölmüştü.
 
-235
+236
 00:18:33,470 --> 00:18:34,470
 Ha?!
 
-236
+237
 00:18:35,090 --> 00:18:37,930
 Ağaç ateşi hastalığının korkunç tarafı...
 
-237
+238
 00:18:38,560 --> 00:18:42,390
 bitkilere de bulaşmasıdır.
 
-238
+239
 00:18:43,020 --> 00:18:45,230
 Komodor sizi ikna etmek için...
 
-239
+240
 00:18:45,230 --> 00:18:48,980
 hayatını riske attı,
 çünkü korkunç gerçeği biliyordu.
 
-240
+241
 00:18:50,360 --> 00:18:53,150
 İnsanlardan ormana, ormandan insanlara taşınır.
 
-241
+242
 00:18:53,150 --> 00:18:58,410
 Küçük adaları tamamen yok etmiş olan birçok örneği var.
 
-242
+243
 00:19:00,410 --> 00:19:02,790
 Ama artık endişelenmenize gerek yok.
 
-243
+244
 00:19:02,790 --> 00:19:06,710
 Tüm ormanı kontrol etme işini bitirdik.
 
-244
+245
 00:19:06,710 --> 00:19:09,880
 O ağaçların değerli olduklarını bilmiyorduk,
 
-245
+246
 00:19:09,880 --> 00:19:11,960
 açıklamadık bile, üzgünüm.
 
-246
+247
 00:19:12,460 --> 00:19:16,090
 Açıklama yapsak bile affedilmeyebiliriz.
 
-247
+248
 00:19:16,090 --> 00:19:20,470
 Bir bitki bilimci sebebsiz yere
 ormana asla zarar vermez.
 
-248
+249
 00:19:20,930 --> 00:19:24,690
 Komodor tanrılardan veya
 ruhlardan nefret etmiyor.
 
-249
+250
 00:19:28,900 --> 00:19:31,860
 Sadece her zaman en önemli şeyin...
 
-250
+251
 00:19:31,860 --> 00:19:33,610
 ne olduğunu biliyor.
 
-251
+252
 00:19:34,820 --> 00:19:38,870
 Yani bunu...
 bizi korumak için mi yaptılar?
 
-252
+253
 00:19:43,950 --> 00:19:44,960
 Baba!
 
-253
+254
 00:19:47,620 --> 00:19:49,420
 Üzgünüm, Noland!
 
-254
+255
 00:19:50,040 --> 00:19:52,170
 Gitmemiş ol!
 
-255
+256
 00:19:53,050 --> 00:19:54,880
 Her şey tamam mı?
 
-256
+257
 00:19:55,760 --> 00:19:57,340
 Bir şey hariç...
 
-257
+258
 00:19:57,340 --> 00:19:59,340
 Sızlanmayı kes! Unut gitsin!
 
-258
+259
 00:19:59,850 --> 00:20:01,430
 Tamam, yola çıkalım!
 
-259
+260
 00:20:01,430 --> 00:20:02,890
 Herkes işinin başına!
 
-260
+261
 00:20:02,890 --> 00:20:05,810
 Lvneel Krallığı'na doğru yelken açıyoruz!
 
-261
+262
 00:20:05,810 --> 00:20:08,150
 – Başüstüne!
 – Başüstüne!
 
-262
+263
 00:20:08,150 --> 00:20:10,610
 Noland!
 
-263
+264
 00:20:11,310 --> 00:20:13,980
 Büyük bir günah işledim!
 
-264
+265
 00:20:13,980 --> 00:20:17,570
 Bekle! Noland!
 
-265
+266
 00:20:19,530 --> 00:20:22,240
 Yelkenler fora!
 
-266
+267
 00:20:30,210 --> 00:20:31,500
 Çan...
 
-267
+268
 00:20:32,340 --> 00:20:33,920
 neden çalıyor?
 
-268
+269
 00:20:34,840 --> 00:20:36,800
 Çalın!
 
-269
+270
 00:20:37,130 --> 00:20:39,590
 Üzgünüz, Noland-san!
 
-270
+271
 00:20:39,590 --> 00:20:41,140
 Daha güçlü çalın!
 
-271
+272
 00:20:41,140 --> 00:20:43,140
 Noland ve tayfası bunu duymalı!
 
-272
+273
 00:20:46,220 --> 00:20:47,560
 Komodor! Bakın!
 
-273
+274
 00:20:57,360 --> 00:21:01,030
 Noland!
 
-274
+275
 00:21:01,450 --> 00:21:03,240
 Kalgara...
 
-275
+276
 00:21:17,840 --> 00:21:22,930
 Tekrar gel!
 
-276
+277
 00:21:24,050 --> 00:21:25,890
 Noland...
 
-277
+278
 00:21:25,890 --> 00:21:29,350
 Seni burada bekliyor olacağım!
 
-278
+279
 00:21:30,520 --> 00:21:33,560
 Senin için çanı çalmaya devam edeceğiz!
 
-279
+280
 00:21:33,980 --> 00:21:38,990
 Böylece geri döndüğünüzde
 denizde kaybolmayacaksınız.
 
-280
+281
 00:21:38,990 --> 00:21:42,990
 Fırtınada bile yolunuzu bulacaksınız.
 
-281
+282
 00:21:42,990 --> 00:21:47,330
 Sizi beklerken çanı çalacağız!
 
-282
+283
 00:21:56,630 --> 00:22:02,760
 Bir gün mutlaka tekrar buluşalım... değerli dostum!
 
-283
+284
 00:22:05,220 --> 00:22:06,510
 Öyleyse...
 
-284
+285
 00:22:07,220 --> 00:22:09,720
 tekrar gelebilir miyim?
 
-285
+286
 00:22:12,940 --> 00:22:15,520
 Geleceğim! Kesinlikle...
 
-286
+287
 00:22:15,520 --> 00:22:17,070
 geleceğim!
 
-287
+288
 00:22:20,860 --> 00:22:25,660
 Bir gün mutlaka tekrar buluşalım!
-
-288
-00:09:25,960 --> 00:09:30,420
-Karaya Ayak Bastıktan
-1 Ay Sonra
 
 289
 00:09:25,960 --> 00:09:30,420
@@ -1199,3 +1199,7 @@ Karaya Ayak Bastıktan
 Karaya Ayak Bastıktan
 1 Ay Sonra
 
+291
+00:09:25,960 --> 00:09:30,420
+Karaya Ayak Bastıktan
+1 Ay Sonra

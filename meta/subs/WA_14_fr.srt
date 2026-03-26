@@ -1,3355 +1,3359 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:05,120 --> 00:00:06,810
 Cinq et un. C'est pair !
 
-2
+3
 00:00:13,530 --> 00:00:14,780
 Wow !
 
-3
+4
 00:00:15,430 --> 00:00:19,270
 Les gens disent souvent
 que tout ne dépend que du lancer de dés.
 
-4
+5
 00:00:20,660 --> 00:00:22,200
 Mais tu es spécial, mon ami !
 
-5
+6
 00:00:22,200 --> 00:00:24,870
 Tu es chanceux
 et sur une série de victoires !
 
-6
+7
 00:00:25,120 --> 00:00:25,960
 Tiens.
 
-7
+8
 00:00:29,550 --> 00:00:32,470
 C'est pour les sushis
 que tu m'as payés sur le bateau.
 
-8
+9
 00:00:32,650 --> 00:00:35,840
 Oh, mais c'est bien plus
 que nécessaire, mon ami !
 
-9
+10
 00:00:36,450 --> 00:00:38,760
 T'inquiète,
 je vais gagner encore plus.
 
-10
+11
 00:00:42,410 --> 00:00:44,980
 On s'était juste arrêtés
 pour s'abriter de la pluie.
 
-11
+12
 00:00:46,050 --> 00:00:49,400
 Si je reste avec toi,
 je n'aurai plus jamais faim !
 
-12
+13
 00:00:50,050 --> 00:00:53,030
 Eh ouais !
 T'es le mec le plus cool de Wano !
 
-13
+14
 00:00:56,990 --> 00:00:59,660
 Je sens que le saké
 aura bon goût ce soir.
 
-14
+15
 00:01:01,090 --> 00:01:03,200
 Bien, faites vos jeux !
 
-15
+16
 00:01:06,150 --> 00:01:07,040
 Impair.
 
-16
+17
 00:01:07,040 --> 00:01:10,920
 Oh, t'es vraiment sans réserve
 
-17
+18
 00:01:11,110 --> 00:01:11,960
 mon ami !
 
-18
+19
 00:01:13,340 --> 00:01:15,600
 On a un pari sur un nombre impair !
 
-19
+20
 00:01:26,100 --> 00:01:27,440
 Prêt ?
 
-20
+21
 00:01:33,280 --> 00:01:34,780
 C'est parti !
 
-21
+22
 00:01:40,630 --> 00:01:41,640
 Oh !
 
-22
+23
 00:01:47,590 --> 00:01:49,000
 Technique sans sabre...
 
-23
+24
 00:01:49,870 --> 00:01:51,770
 Tatsumaki !
 
-24
+25
 00:02:08,210 --> 00:02:11,060
 Oh, mais c'est de la triche !
 
-25
+26
 00:02:11,920 --> 00:02:13,930
 C'est vraiment minable.
 
-26
+27
 00:02:18,100 --> 00:02:19,910
 Les gars, venez !
 
-27
+28
 00:02:24,230 --> 00:02:27,610
 Oh, tu nous réserves aussi
 un beau divertissement.
 
-28
+29
 00:02:30,050 --> 00:02:31,630
 Capturez-le, les gars !
 
-29
+30
 00:02:42,880 --> 00:02:44,260
 Technique à un sabre...
 
-30
+31
 00:02:48,800 --> 00:02:50,510
 Daishinkan !
 
-31
+32
 00:03:14,880 --> 00:03:17,090
 Attends un peu, mon ami !
 
-32
+33
 00:03:17,310 --> 00:03:19,800
 Tout comme les nombres pairs
 et impairs,
 
-33
+34
 00:03:19,950 --> 00:03:22,940
 le mal et le bien
 se succèdent en ce monde.
 
-34
+35
 00:03:23,210 --> 00:03:25,680
 Mettons-y un terme.
 
-35
+36
 00:03:26,310 --> 00:03:26,970
 D'accord ?
 
-36
+37
 00:03:29,200 --> 00:03:31,550
 Du coup, monsieur le tenancier,
 
-37
+38
 00:03:31,900 --> 00:03:34,650
 nous contestons
 le résultat de la dernière partie.
 
-38
+39
 00:03:36,990 --> 00:03:40,700
 Fait chier !
 Prends-les et ne reviens jamais !
 
-39
+40
 00:05:27,000 --> 00:05:31,310
 Oh, j'avais trop peur !
 Pas toi, mon ami ?
 
-40
+41
 00:05:31,450 --> 00:05:33,270
 Tu pourrais pas un peu te taire ?
 
-41
+42
 00:05:33,510 --> 00:05:36,480
 Oh, la fermer ?
 Comme c'est gentil !
 
-42
+43
 00:05:36,680 --> 00:05:40,570
 T'inquièter ainsi pour ma voix.
 Merci !
 
-43
+44
 00:05:40,950 --> 00:05:43,120
 Je ne me suis pas encore présenté.
 
-44
+45
 00:05:43,300 --> 00:05:44,690
 Mon nom est Tonoyasu.
 
-45
+46
 00:05:44,850 --> 00:05:47,700
 Tout le monde m'appelle
 "Yasu le porteur de Tambour".
 
-46
+47
 00:05:47,880 --> 00:05:49,450
 Ravis de faire ta connaissance !
 
-47
+48
 00:05:50,730 --> 00:05:54,370
 Oh, tu es captivant
 même quand tu ne dis rien !
 
-48
+49
 00:05:54,370 --> 00:05:55,850
 Quel tombeur !
 
-49
+50
 00:05:56,000 --> 00:05:58,250
 Les femmes doivent
 te tourner autour, mon ami !
 
-50
+51
 00:05:59,550 --> 00:06:01,430
 Pourquoi tu me suis ?
 
-51
+52
 00:06:01,630 --> 00:06:05,170
 À la maison de jeux tout à l'heure,
 
-52
+53
 00:06:05,370 --> 00:06:08,890
 j'ai réalisé que rien
 ne pouvait m'arriver si je te suivais !
 
-53
+54
 00:06:09,090 --> 00:06:12,790
 Les gens ordinaires ne cherchent pas
 d'ennui à ces types-là d'habitude.
 
-54
+55
 00:06:13,000 --> 00:06:14,950
 Ce sont des Yakuzas de la capitale.
 
-55
+56
 00:06:15,110 --> 00:06:18,440
 Mais aussi les sous-fifres
 de la famille Kyoshiro.
 
-56
+57
 00:06:18,800 --> 00:06:21,440
 C'était hallucinant !
 
-57
+58
 00:06:21,440 --> 00:06:24,780
 Si j'étais une femme,
 je me serai évanouie !
 
-58
+59
 00:06:26,850 --> 00:06:28,450
 Qu'y a-t-il, mon ami ?
 
-59
+60
 00:06:29,000 --> 00:06:31,180
 Cet endroit me dit quelque chose.
 
-60
+61
 00:06:31,350 --> 00:06:33,750
 Oh oh, tu as une belle vue !
 
-61
+62
 00:06:33,950 --> 00:06:36,050
 C'est la Capitale des Fleurs !
 
-62
+63
 00:06:36,200 --> 00:06:39,290
 Et juste avant,
 tu as le pouilleux village d'Ebisu !
 
-63
+64
 00:06:39,690 --> 00:06:41,290
 C'est mon chez moi !
 
-64
+65
 00:06:41,490 --> 00:06:44,500
 Ebisu...
 Ça sonne comme un lieu chic.
 
-65
+66
 00:06:44,980 --> 00:06:47,300
 Tu te demandes
 pourquoi ça s'appelle Ebisu ?
 
-66
+67
 00:06:47,500 --> 00:06:49,430
 Tu sauras quand on y sera !
 
-67
+68
 00:06:55,710 --> 00:06:57,290
 J'en prends un aussi !
 
-68
+69
 00:06:57,290 --> 00:06:58,230
 Ça marche !
 
-69
+70
 00:06:59,350 --> 00:07:01,290
 Il n'est pas d'ici...
 
-70
+71
 00:07:01,880 --> 00:07:04,110
 Mais il est très populaire.
 
-71
+72
 00:07:04,600 --> 00:07:06,780
 Un petit insolent.
 
-72
+73
 00:07:07,560 --> 00:07:10,650
 Il ne doit pas être au courant qu'ici,
 c'est notre territoire !
 
-73
+74
 00:07:11,990 --> 00:07:14,810
 On va lui montrer.
 
-74
+75
 00:07:21,750 --> 00:07:23,920
 Battez le fer !
 
-75
+76
 00:07:30,050 --> 00:07:32,630
 Acheminez les pierres !
 
-76
+77
 00:07:42,580 --> 00:07:44,770
 Si vous ne pouvez plus travailler,
 
-77
+78
 00:07:45,150 --> 00:07:47,520
 contentez-vous de mourir
 
-78
+79
 00:07:47,680 --> 00:07:50,030
 et dégagez de mon chemin !
 
-79
+80
 00:08:11,610 --> 00:08:13,800
 C... C'est tout ?
 
-80
+81
 00:08:14,000 --> 00:08:18,140
 Tous les cinq blocs de pierre,
 tu recevras une boulette de millet !
 
-81
+82
 00:08:18,700 --> 00:08:23,900
 Le vieux Hyo serait-il devenu trop vieux
 pour mériter sa propre nourriture ?
 
-82
+83
 00:08:24,330 --> 00:08:27,750
 La fin doit être proche !
 
-83
+84
 00:08:30,490 --> 00:08:33,530
 J'ai travaillé toute la journée...
 
-84
+85
 00:08:33,750 --> 00:08:36,700
 Hein ?
 Qu'est-ce que t'as dit ?
 
-85
+86
 00:08:40,650 --> 00:08:42,700
 Répondre à un gardien
 
-86
+87
 00:08:43,100 --> 00:08:45,170
 est puni par amputation !
 
-87
+88
 00:08:45,830 --> 00:08:47,120
 Au suivant !
 
-88
+89
 00:08:48,190 --> 00:08:52,340
 Le vieux Hyo !
 Ne vous battez pas, gardez votre énergie !
 
-89
+90
 00:08:52,480 --> 00:08:53,900
 Ou vous allez y rester !
 
-90
+91
 00:08:55,470 --> 00:08:58,140
 Oh, quatre tickets !
 
-91
+92
 00:08:58,140 --> 00:09:00,200
 Bien joué !
 
-92
+93
 00:09:08,800 --> 00:09:10,910
 Dégagez ! Dégagez ! Dégagez !
 
-93
+94
 00:09:11,170 --> 00:09:13,000
 Dégagez !
 
-94
+95
 00:09:18,100 --> 00:09:21,240
 Vous êtes sur mon chemin !
 Dégagez ou je vous bute !
 
-95
+96
 00:09:21,370 --> 00:09:23,870
 Bouge de là, l'ébouriffé !
 
-96
+97
 00:09:24,620 --> 00:09:26,620
 Je vais te buter toi aussi !
 
-97
+98
 00:09:52,800 --> 00:09:56,610
 Attendez ! C'est déjà plein !
 On arrête pour aujourd'hui !
 
-98
+99
 00:09:59,230 --> 00:10:01,410
 Alors, ramenez d'autres navires !
 
-99
+100
 00:10:01,410 --> 00:10:02,700
 Fainéants !
 
-100
+101
 00:10:03,800 --> 00:10:05,250
 D... Désolé !
 
-101
+102
 00:10:10,540 --> 00:10:12,950
 Combien de pierres ont-ils amenées ?
 
-102
+103
 00:10:13,200 --> 00:10:15,320
 J'ai arrêté de compter vers 500...
 
-103
+104
 00:10:15,320 --> 00:10:16,000
 Hein ?
 
-104
+105
 00:10:16,000 --> 00:10:18,260
 – Et leurs menottes en Granit Marin ?
 – Ils les portent.
 
-105
+106
 00:10:20,690 --> 00:10:23,600
 Même affaiblis, ils sont encore capables d'en soulever ?
 
-106
+107
 00:10:24,700 --> 00:10:29,020
 Quels genre de monstres
 seraient-ils sans les menottes ?
 
-107
+108
 00:10:29,220 --> 00:10:32,190
 J'ai fini de travailler !
 Donne-moi à bouffer !
 
-108
+109
 00:10:34,430 --> 00:10:35,150
 Quoi ?
 
-109
+110
 00:10:35,950 --> 00:10:37,760
 Hein ?
 
-110
+111
 00:10:54,590 --> 00:10:57,800
 Combien de pierres ont-ils portées
 pour avoir autant de nourriture ?
 
-111
+112
 00:11:03,000 --> 00:11:05,430
 – C'est quoi ton problème ?
 – Tu regardes quoi là ?
 
-112
+113
 00:11:06,290 --> 00:11:08,400
 J'ai fait un aller-retour
 en plus que toi !
 
-113
+114
 00:11:08,550 --> 00:11:10,590
 Abruti !
 Je t'ai dépassé !
 
-114
+115
 00:11:10,800 --> 00:11:13,650
 La ferme ! Tu mens
 comme tu respires, l'ébouriffé !
 
-115
+116
 00:11:14,000 --> 00:11:16,850
 Tu sais compter au moins,
 stupide singe ?
 
-116
+117
 00:11:17,100 --> 00:11:18,450
 Enfoiré !
 
-117
+118
 00:11:18,600 --> 00:11:20,150
 Va te faire voir !
 
-118
+119
 00:11:22,900 --> 00:11:26,200
 Je pensais qu'ils étaient tous les deux gravement blessés...
 
-119
+120
 00:11:28,990 --> 00:11:31,650
 Ils travaillent, mangent, et dorment...
 
-120
+121
 00:11:31,890 --> 00:11:34,510
 Après quelques jours,
 ils étaient déjà rétablis.
 
-121
+122
 00:11:34,660 --> 00:11:36,370
 C'est pas humain ça !
 
-122
+123
 00:11:37,610 --> 00:11:40,670
 Comment est-on censé faire
 pour briser leur esprit ?
 
-123
+124
 00:11:41,840 --> 00:11:43,180
 Va leur dire quelque chose !
 
-124
+125
 00:11:43,180 --> 00:11:44,260
 Quoi ?
 
-125
+126
 00:11:49,530 --> 00:11:51,620
 M... Mâchez bien !
 
-126
+127
 00:11:51,800 --> 00:11:53,310
 T'es leur mère ou quoi ?
 
-127
+128
 00:12:07,470 --> 00:12:10,160
 Mes boulettes...
 
-128
+129
 00:12:19,650 --> 00:12:21,410
 Merde !
 
-129
+130
 00:12:25,400 --> 00:12:31,890
 Qui a mangé
 tout le stock de nourriture ?
 
-130
+131
 00:12:33,300 --> 00:12:34,390
 C'est m'sieur Dobon !
 
-131
+132
 00:12:36,850 --> 00:12:38,350
 Hippo !
 
-132
+133
 00:12:39,490 --> 00:12:42,820
 Je veux savoir qui est responsable !
 
-133
+134
 00:12:46,000 --> 00:12:47,740
 À l'aide !
 
-134
+135
 00:12:48,040 --> 00:12:50,200
 Oh !
 Le vieux Hyo est pris au piège !
 
-135
+136
 00:12:50,400 --> 00:12:51,950
 Dégage de là, papy !
 
-136
+137
 00:12:52,690 --> 00:12:55,920
 – M'sieur Dobon !
 – Les coupables sont derrière les barreaux !
 
-137
+138
 00:12:56,220 --> 00:12:58,710
 Hein ?
 Et les boulettes, elles sont où ?
 
-138
+139
 00:12:58,850 --> 00:13:01,090
 Ils ont tous mangé...
 
-139
+140
 00:13:01,310 --> 00:13:04,190
 Vous êtes restés là à les regarder
 sans rien faire ?
 
-140
+141
 00:13:04,350 --> 00:13:06,470
 Ils ont travaillé dur et gagné
 
-141
+142
 00:13:06,470 --> 00:13:10,480
 assez de tickets,
 on ne pouvait rien dire !
 
-142
+143
 00:13:11,550 --> 00:13:15,490
 Comment avez-vous pu ignorer...
 
-143
+144
 00:13:20,770 --> 00:13:24,030
 J'entends pas bien ce qu'il dit
 à cause de l'hippopotame...
 
-144
+145
 00:13:24,370 --> 00:13:25,200
 Hippo ?
 
-145
+146
 00:13:25,780 --> 00:13:27,200
 M'sieur Dobon...
 
-146
+147
 00:13:29,480 --> 00:13:32,410
 Ramenez les coupables sur-le-champ !
 
-147
+148
 00:13:41,000 --> 00:13:43,300
 M'sieur Dobon !
 On vous les apporte tout de suite !
 
-148
+149
 00:13:45,650 --> 00:13:47,300
 Voici les coupables !
 
-149
+150
 00:13:56,800 --> 00:13:58,770
 Ils sont énormes !
 
-150
+151
 00:13:58,930 --> 00:14:02,320
 C'est la première fois que je vois quelqu'un
 avec le ventre aussi plein ici !
 
-151
+152
 00:14:02,490 --> 00:14:04,190
 Quelle chance !
 
-152
+153
 00:14:04,420 --> 00:14:05,990
 Enfoirés !
 
-153
+154
 00:14:06,120 --> 00:14:09,570
 Je suis un gros mangeur
 et il me reste que trois boulettes...
 
-154
+155
 00:14:09,570 --> 00:14:11,250
 Tout ça à cause de vous !
 
-155
+156
 00:14:11,660 --> 00:14:14,410
 Regardez cette bouche !
 Vous pensez qu'elles suffiront ?
 
-156
+157
 00:14:14,730 --> 00:14:16,750
 Bah non !
 
-157
+158
 00:14:17,880 --> 00:14:19,520
 Attends une minute...
 
-158
+159
 00:14:19,820 --> 00:14:22,090
 Laisse-moi digérer...
 
-159
+160
 00:14:35,600 --> 00:14:37,060
 Quoi ?
 
-160
+161
 00:14:44,210 --> 00:14:47,360
 Je ne supporte pas la vue
 d'un prisonnier satisfait !
 
-161
+162
 00:14:47,860 --> 00:14:51,440
 C'était ma nourriture !
 
-162
+163
 00:14:56,650 --> 00:15:00,250
 Hé !
 Ne soyez pas insolents !
 
-163
+164
 00:15:00,410 --> 00:15:06,000
 Écoutez attentivement !
 Si vous désobéissez aux gardes,
 
-164
+165
 00:15:06,240 --> 00:15:08,550
 la première fois,
 on vous coupe les bras !
 
-165
+166
 00:15:10,300 --> 00:15:12,260
 La seconde, les jambes !
 
-166
+167
 00:15:14,410 --> 00:15:15,890
 Et la troisième fois,
 
-167
+168
 00:15:16,090 --> 00:15:18,100
 vous êtes condamnés à mort !
 
-168
+169
 00:15:18,400 --> 00:15:19,930
 Alors faites attention !
 
-169
+170
 00:15:21,230 --> 00:15:26,550
 Exactement ! Vous n'avez pas le droit
 de vous rebeller !
 
-170
+171
 00:15:27,230 --> 00:15:28,000
 Hé...
 
-171
+172
 00:15:28,150 --> 00:15:32,700
 De toute façon, on est affaiblis
 par ces menottes en Granit Marin.
 
-172
+173
 00:15:33,300 --> 00:15:35,900
 Tout ce qu'on a fait, c'est travailler dur.
 
-173
+174
 00:15:37,300 --> 00:15:40,160
 De toute façon,
 vous allez être punis, car...
 
-174
+175
 00:15:45,610 --> 00:15:49,590
 Vous avez mangé toute ma nourriture !
 
-175
+176
 00:15:53,050 --> 00:15:54,260
 Enfoiré !
 
-176
+177
 00:15:54,710 --> 00:15:55,350
 L'ébouriffé.
 
-177
+178
 00:16:02,000 --> 00:16:03,510
 Hippo !
 
-178
+179
 00:16:04,640 --> 00:16:09,150
 Je vais vous infliger ce que
 vous méritez !
 
-179
+180
 00:16:10,900 --> 00:16:12,400
 Ils se sont fait bouffer !
 
-180
+181
 00:16:12,720 --> 00:16:14,510
 Les pauvres !
 
-181
+182
 00:16:14,750 --> 00:16:18,910
 C'est à l'intérieur de sa bouche
 que m'sieur Dobon massacre ses adversaires !
 
-182
+183
 00:16:40,840 --> 00:16:42,440
 Que s'est-il passé ?
 
-183
+184
 00:16:42,780 --> 00:16:46,140
 Je n'ai jamais vu l'hippopotame se faire
 mettre au tapis de la sorte !
 
-184
+185
 00:16:54,320 --> 00:16:56,840
 Directeur adjoint Dobon !
 
-185
+186
 00:17:11,400 --> 00:17:13,450
 Regardez ce que vous avez fait !
 
-186
+187
 00:17:13,600 --> 00:17:15,930
 Vous n'échapperez pas
 à la peine de mort !
 
-187
+188
 00:17:19,400 --> 00:17:20,760
 T'as des preuves ?
 
-188
+189
 00:17:20,990 --> 00:17:21,640
 Hein ?
 
-189
+190
 00:17:23,290 --> 00:17:26,210
 Je te demande si t'as des preuves ?
 
-190
+191
 00:17:33,030 --> 00:17:35,700
 Bien joué, les gars !
 
-191
+192
 00:17:36,000 --> 00:17:38,570
 Vous êtes les héros des prisonniers !
 
-192
+193
 00:17:57,410 --> 00:18:02,600
 Voici les Soba spéciales !
 Les Soba spéciales de Sangoro !
 
-193
+194
 00:18:12,780 --> 00:18:16,350
 Les Soba spéciales de Sangoro !
 
-194
+195
 00:18:19,120 --> 00:18:21,120
 J'en veux absolument !
 
-195
+196
 00:18:25,410 --> 00:18:28,450
 Voici !
 Désolé pour l'attente !
 
-196
+197
 00:18:28,830 --> 00:18:31,250
 Oh, ça a l'air si bon !
 
-197
+198
 00:18:46,050 --> 00:18:49,050
 Trop bon !
 C'est vraiment trop bon !
 
-198
+199
 00:18:50,240 --> 00:18:52,110
 Des nouvelles de Luffy ?
 
-199
+200
 00:18:52,410 --> 00:18:55,640
 Il est à la Mine des Prisonniers
 d'Udon, non ?
 
-200
+201
 00:18:56,180 --> 00:18:58,230
 C'est loin d'ici.
 
-201
+202
 00:18:58,380 --> 00:19:01,890
 Mais je suis certain qu'il arrivera
 à s'évader avant le jour J.
 
-202
+203
 00:19:03,000 --> 00:19:05,700
 Enfin je peux remanger
 la cuisine de Sanji !
 
-203
+204
 00:19:05,900 --> 00:19:08,620
 Je suis heureux
 que tu sois revenu sain et sauf !
 
-204
+205
 00:19:11,880 --> 00:19:14,710
 Je m'en fous que tu aimes ou non...
 
-205
+206
 00:19:15,320 --> 00:19:18,970
 Orobi d'amour !
 Qu'en penses-tu ?
 
-206
+207
 00:19:19,500 --> 00:19:21,800
 Eh bien, c'est parfait !
 
-207
+208
 00:19:21,800 --> 00:19:25,350
 Orobi en geisha
 est encore plus parfaite !
 
-208
+209
 00:19:27,110 --> 00:19:28,140
 Par contre,
 
-209
+210
 00:19:28,510 --> 00:19:31,980
 les Soba sont bonnes
 mais elles n'attirent que les femmes.
 
-210
+211
 00:19:31,980 --> 00:19:36,110
 Et si t'essayais un truc plus corsé,
 qui se marie avec le saké ?
 
-211
+212
 00:19:41,040 --> 00:19:42,850
 C'est quoi cette tête ?
 
-212
+213
 00:19:43,000 --> 00:19:45,570
 On est ici pour recruter des alliés !
 
-213
+214
 00:19:49,450 --> 00:19:52,730
 Attends, Franky !
 Voilà des clients masculins.
 
-214
+215
 00:19:53,670 --> 00:19:55,330
 Bonjour.
 
-215
+216
 00:19:55,470 --> 00:19:57,710
 Mes excuses, mesdames !
 
-216
+217
 00:19:57,710 --> 00:20:00,800
 Dites donc !
 Faites la queue comme tout le monde !
 
-217
+218
 00:20:02,070 --> 00:20:06,010
 Hein ? T'as dit quoi ?
 Ferme-la !
 
-218
+219
 00:20:08,180 --> 00:20:09,850
 C'est la famille Kyoshiro...
 
-219
+220
 00:20:10,000 --> 00:20:10,930
 Quoi ?
 
-220
+221
 00:20:13,260 --> 00:20:14,770
 Hé, dégage de là !
 
-221
+222
 00:20:18,150 --> 00:20:21,680
 Ton commerce fonctionne plutôt bien,
 jeune homme !
 
-222
+223
 00:20:21,950 --> 00:20:24,110
 Oui, ça me fait plaisir !
 
-223
+224
 00:20:24,560 --> 00:20:26,840
 Vous êtes des clients ?
 
-224
+225
 00:20:27,080 --> 00:20:29,080
 Je vous prie de faire la queue.
 
-225
+226
 00:20:29,360 --> 00:20:31,900
 Non, on n'est pas là pour manger.
 
-226
+227
 00:20:32,300 --> 00:20:36,460
 Qui t'a donné la permission
 de tenir boutique ici ?
 
-227
+228
 00:20:39,670 --> 00:20:43,190
 Ce coin de rue
 appartient à la famille Kyoshiro.
 
-228
+229
 00:20:43,550 --> 00:20:47,800
 Si tu ne paies pas,
 tu ne peux pas gérer un magasin ici.
 
-229
+230
 00:20:47,920 --> 00:20:50,680
 Oh, c'est donc ça ?
 
-230
+231
 00:20:52,230 --> 00:20:55,350
 C'est gens, peut être qu'ils sont...
 
-231
+232
 00:20:56,770 --> 00:20:58,480
 Tu les connais ?
 
-232
+233
 00:20:58,710 --> 00:20:59,620
 Oui.
 
-233
+234
 00:20:59,820 --> 00:21:03,820
 Je suis allée à un banquet organisé
 par un homme nommé Kyoshiro.
 
-234
+235
 00:21:04,620 --> 00:21:08,280
 Maître Orochi est un lâche !
 
-235
+236
 00:21:12,910 --> 00:21:16,120
 À boire !
 Amenez-moi du saké !
 
-236
+237
 00:21:19,410 --> 00:21:24,610
 Ce samouraï était très arrogant.
 Peut-être le chef d'un clan Yakuza.
 
-237
+238
 00:21:25,210 --> 00:21:28,510
 Et ces gens sont sûrement
 ses subordonnés.
 
-238
+239
 00:21:29,470 --> 00:21:31,370
 Hé, tu m'entends ?
 
-239
+240
 00:21:31,550 --> 00:21:33,800
 Tu dois payer une cotisation !
 
-240
+241
 00:21:33,800 --> 00:21:34,680
 Pourquoi ?
 
-241
+242
 00:21:35,800 --> 00:21:37,200
 "Pourquoi" ?
 
-242
+243
 00:21:37,200 --> 00:21:40,440
 Comme ça, on vient t'aider
 si quelqu'un attaque ton échoppe !
 
-243
+244
 00:21:41,290 --> 00:21:45,280
 Je n'ai pas besoin de votre aide.
 Je suis assez fort tout seul.
 
-244
+245
 00:21:47,400 --> 00:21:49,300
 Voilà, désolé pour l'attente !
 
-245
+246
 00:21:49,300 --> 00:21:50,740
 Merci !
 
-246
+247
 00:22:03,790 --> 00:22:05,880
 T'as dit que t'étais fort ?
 
-247
+248
 00:22:06,110 --> 00:22:09,340
 Alors, essaye de protéger
 ton restaurant !
 
-248
+249
 00:22:10,910 --> 00:22:12,240
 Des Soba !
 
-249
+250
 00:22:12,240 --> 00:22:13,280
 Hé !
 
-250
+251
 00:22:13,680 --> 00:22:16,100
 Ne mange pas les Soba d'ici !
 
-251
+252
 00:22:27,840 --> 00:22:31,410
 Elle pleure ou elle rit ?
 
-252
+253
 00:22:31,660 --> 00:22:33,910
 Mes Soba !
 
-253
+254
 00:22:38,520 --> 00:22:41,920
 Oh, non !
 C'est ce qui énerve le plus Sanji !
 
-254
+255
 00:22:42,310 --> 00:22:43,850
 Rentrez chez vous, idiotes !
 
-255
+256
 00:22:44,000 --> 00:22:45,510
 Le restaurant est fermé !
 
-256
+257
 00:22:47,820 --> 00:22:50,640
 Allez, allez !
 Il est à court de Soba !
 
-257
+258
 00:22:52,880 --> 00:22:55,810
 Allez, allez !
 Cassez-vous maintenant !
 
-258
+259
 00:23:01,320 --> 00:23:03,060
 Oh non !
 On ferait mieux de bouger !
 
-259
+260
 00:23:04,600 --> 00:23:05,570
 Hé !
 
-260
+261
 00:23:07,970 --> 00:23:09,450
 Tu veux quoi abruti ?
 
-261
+262
 00:23:10,760 --> 00:23:13,450
 Tu dois finir la nourriture.
 
-262
+263
 00:23:14,330 --> 00:23:15,580
 Monsieur le client...
 
-263
+264
 00:23:15,750 --> 00:23:18,750
 Hein ?
 Tu veux te battre, imbécile ?
 
-264
+265
 00:23:18,750 --> 00:23:21,040
 Hé ! Suke ! Kaku !
 
-265
+266
 00:23:21,040 --> 00:23:22,200
 Ouais !
 
-266
+267
 00:23:22,650 --> 00:23:24,330
 On va lui apprendre !
 
-267
+268
 00:23:25,540 --> 00:23:28,720
 Hein ? Une bagarre ?
 
-268
+269
 00:23:28,920 --> 00:23:30,800
 Crève !
 
-269
+270
 00:23:36,850 --> 00:23:37,850
 Enfoiré !
 
-270
+271
 00:23:59,050 --> 00:24:00,120
 Merde !
 
-271
+272
 00:24:03,210 --> 00:24:04,880
 Meurs !
 
-272
+273
 00:24:27,950 --> 00:24:29,820
 Frérot !
 
-273
+274
 00:24:31,900 --> 00:24:34,660
 Quoi ?
 Le mec au Soba est super fort !
 
-274
+275
 00:24:34,660 --> 00:24:37,160
 Trop cool, l'homme au Soba !
 
-275
+276
 00:24:37,300 --> 00:24:40,870
 Sanji !
 Laisse-le-moi !
 
-276
+277
 00:24:45,170 --> 00:24:47,080
 C'est parti !
 
-277
+278
 00:24:47,220 --> 00:24:50,800
 Arrête ! Fait chier !
 Qu'est-ce que tu vas me faire ?
 
-278
+279
 00:24:51,200 --> 00:24:54,200
 Franosuke Iron...
 
-279
+280
 00:24:59,680 --> 00:25:02,830
 Suplex !
 
-280
+281
 00:25:11,310 --> 00:25:14,820
 – Le charpentier aussi...
 – Mais ils ne devraient pas faire ça !
 
-281
+282
 00:25:26,400 --> 00:25:29,710
 Maintenant, mange !
 Tout !
 
-282
+283
 00:25:30,150 --> 00:25:33,460
 Les Soba que tu as gâchées !
 Mange-les toutes !
 
-283
+284
 00:25:34,410 --> 00:25:37,080
 – Avale ! Tu vas tout manger !
 – Frérot ! Frérot !
 
-284
+285
 00:25:37,290 --> 00:25:39,690
 Quoi ?
 T'en veux aussi ?
 
-285
+286
 00:25:40,700 --> 00:25:43,120
 Tu le regretteras !
 
-286
+287
 00:25:45,600 --> 00:25:47,850
 Allez, lève-toi, lève-toi !
 
-287
+288
 00:25:50,520 --> 00:25:52,750
 Merci bien !
 
-288
+289
 00:25:53,310 --> 00:25:55,800
 Je savais que ça allait finir
 comme ça.
 
-289
+290
 00:25:56,000 --> 00:25:58,110
 On va avoir des problèmes, non ?
 
-290
+291
 00:26:00,100 --> 00:26:03,250
 Oui, nous n'aurions
 peut-être pas dû nous battre.
 
-291
+292
 00:26:03,650 --> 00:26:07,650
 Il y avait une longue file d'attente,
 mais la rue est déserte maintenant.
 
-292
+293
 00:26:07,900 --> 00:26:11,170
 C'est ce qu'il se passe quand
 des racailles descendent dans la rue.
 
-293
+294
 00:26:16,420 --> 00:26:18,970
 C'est la fille qui n'a pas pu
 manger ses Soba.
 
-294
+295
 00:26:19,130 --> 00:26:22,220
 Elle pleurait et riait en même temps,
 très étrange.
 
-295
+296
 00:26:22,370 --> 00:26:23,660
 Hein ?
 Attends une seconde.
 
-296
+297
 00:26:23,790 --> 00:26:25,020
 Que se passe-t-il ?
 
-297
+298
 00:26:25,270 --> 00:26:28,480
 Je l'ai déjà vue quelque part...
 
-298
+299
 00:26:34,900 --> 00:26:36,570
 Parfait !
 
-299
+300
 00:26:37,210 --> 00:26:39,240
 Je me suis fait pas mal d'argent !
 
-300
+301
 00:26:39,510 --> 00:26:41,820
 Je ne pensais pas vendre autant !
 
-301
+302
 00:26:46,720 --> 00:26:47,950
 Tu veux quelque chose ?
 
-302
+303
 00:26:48,500 --> 00:26:52,290
 Dites, ce remède miracle soigne bien
 tous les types de blessures ?
 
-303
+304
 00:26:52,450 --> 00:26:54,210
 Quoi ? Ah oui !
 
-304
+305
 00:26:54,410 --> 00:26:57,010
 Il arrête les saignements
 et soulage la douleur !
 
-305
+306
 00:26:57,140 --> 00:27:00,880
 Tout peut être résolu
 grâce à cette huile de crapaud !
 
-306
+307
 00:27:01,840 --> 00:27:04,450
 Incroyable !
 
-307
+308
 00:27:05,440 --> 00:27:07,470
 Je l'ai rencontrée au temple !
 
-308
+309
 00:27:15,570 --> 00:27:20,030
 Désolé des problèmes
 de tout à l'heure...
 
-309
+310
 00:27:20,230 --> 00:27:24,030
 Il reste encore des Soba !
 Prends-les !
 
-310
+311
 00:27:24,270 --> 00:27:27,410
 Ouah ! Merci !
 
-311
+312
 00:27:41,750 --> 00:27:42,730
 C'est...
 
-312
+313
 00:27:43,050 --> 00:27:46,980
 C... C'est délicieux !
 
-313
+314
 00:27:53,470 --> 00:27:56,440
 Te voir ainsi m'emplit de joie !
 
-314
+315
 00:27:56,620 --> 00:27:58,010
 Vraiment ?
 
-315
+316
 00:28:00,160 --> 00:28:03,000
 J'ai entendu parler
 des Soba spéciales plusieurs fois
 
-316
+317
 00:28:03,170 --> 00:28:05,320
 donc je voulais absolument 
 en manger.
 
-317
+318
 00:28:05,320 --> 00:28:09,320
 Mais j'ai été un peu découragée
 lorsque j'ai vu la queue !
 
-318
+319
 00:28:09,720 --> 00:28:11,580
 J'ai attendu longtemps dans la file
 
-319
+320
 00:28:11,770 --> 00:28:14,720
 alors je suis déjà en retard
 pour mon travail !
 
-320
+321
 00:28:16,880 --> 00:28:18,000
 Ton travail ?
 
-321
+322
 00:28:18,250 --> 00:28:20,380
 Tu travailles ?
 
-322
+323
 00:28:20,560 --> 00:28:21,200
 Oui !
 
-323
+324
 00:28:21,340 --> 00:28:25,760
 J'ai travaillé dur et j'ai réussi à économiser pour acheter les Soba.
 
-324
+325
 00:28:25,930 --> 00:28:28,220
 Mais j'ai été bousculée
 et ça m'a rendu triste !
 
-325
+326
 00:28:28,380 --> 00:28:29,700
 Maintenant je suis heureuse !
 
-326
+327
 00:28:33,000 --> 00:28:35,480
 Ce sont les meilleures Soba
 que j'ai jamais mangées !
 
-327
+328
 00:28:37,190 --> 00:28:41,630
 Vraiment ? Tu les aimes à ce point ?
 Merci !
 
-328
+329
 00:28:41,920 --> 00:28:43,950
 À part ça,
 comment tu t'appelles ?
 
-329
+330
 00:28:44,110 --> 00:28:47,200
 Je m'appelle Toko.
 Mais dites-le avec un "O" avant !
 
-330
+331
 00:28:47,340 --> 00:28:48,440
 Un "O" ?
 
-331
+332
 00:28:49,020 --> 00:28:50,590
 Otoko comme un homme ?
 
-332
+333
 00:28:48,870 --> 00:28:55,490
 Otoko = Homme
 
-333
+334
 00:28:50,720 --> 00:28:52,490
 Ah !
 C'est un homme !
 
-334
+335
 00:28:52,700 --> 00:28:55,490
 Je ne suis pas un homme.
 Je m'appelle Otoko !
 
-335
+336
 00:28:58,380 --> 00:29:01,300
 Je suis une fille,
 mais mon nom est Otoko !
 
-336
+337
 00:29:03,240 --> 00:29:06,470
 C'est drôle, non ?
 C'est bizarre, non ?
 
-337
+338
 00:29:15,100 --> 00:29:17,810
 Les gens disent toujours
 que c'est facile à retenir !
 
-338
+339
 00:29:20,850 --> 00:29:23,690
 Ouais ! C'est certain
 qu'on ne risque pas d'oublier !
 
-339
+340
 00:29:24,000 --> 00:29:25,280
 C'est un joli nom !
 
-340
+341
 00:29:26,240 --> 00:29:28,030
 Ouais !
 
-341
+342
 00:29:30,510 --> 00:29:32,830
 Ah, c'était délicieux.
 
-342
+343
 00:29:33,070 --> 00:29:34,390
 Merci !
 
-343
+344
 00:29:34,550 --> 00:29:37,200
 Oui !
 Reviens quand tu veux.
 
-344
+345
 00:29:37,370 --> 00:29:38,250
 D'accord !
 
-345
+346
 00:29:38,650 --> 00:29:42,670
 Oh, non ! Je suis en retard !
 Très très en retard !
 
-346
+347
 00:29:44,360 --> 00:29:47,550
 Ah oui ! Je repasserai
 par cette rue plus tard !
 
-347
+348
 00:29:47,690 --> 00:29:49,760
 Aujoud'hui
 nous avons la procession de l'Oiran !
 
-348
+349
 00:29:50,160 --> 00:29:51,150
 L'Oiran ?
 
-349
+350
 00:29:51,400 --> 00:29:54,290
 Toko, tu es son apprentie ?
 
-350
+351
 00:29:54,510 --> 00:29:56,990
 Tout à fait !
 Je suis son apprentie !
 
-351
+352
 00:29:57,150 --> 00:29:58,600
 Ça a déjà commencé !
 
-352
+353
 00:29:58,600 --> 00:30:01,110
 Je dois y aller !
 Bye bye ! À la prochaine !
 
-353
+354
 00:30:01,700 --> 00:30:04,820
 L'Oiran est magnifique,
 donc profitez-en !
 
-354
+355
 00:30:08,610 --> 00:30:10,590
 À la prochaine !
 
-355
+356
 00:30:10,590 --> 00:30:13,910
 Elle est trop marrante cette petite !
 
-356
+357
 00:30:15,320 --> 00:30:18,250
 Toko et sa bonne humeur,
 super mignonne !
 
-357
+358
 00:30:18,750 --> 00:30:22,500
 La procession de l'Oiran
 dont tout le monde parle, passera par ici !
 
-358
+359
 00:30:22,670 --> 00:30:24,300
 Oiran ?
 
-359
+360
 00:30:24,450 --> 00:30:26,170
 Son apprentie ?
 
-360
+361
 00:30:29,130 --> 00:30:31,850
 Une Oiran est...
 
-361
+362
 00:30:33,010 --> 00:30:36,430
 Tu sors d'où comme ça,
 la vieille lanterne fripée en papier ?
 
-362
+363
 00:30:36,590 --> 00:30:37,480
 Madame !
 
-363
+364
 00:30:38,180 --> 00:30:41,230
 Qui traites-tu
 de vieille lanterne fripée en papier ?
 
-364
+365
 00:30:41,430 --> 00:30:44,570
 Je dévoilerai tes secrets
 les plus sombres, morveux !
 
-365
+366
 00:30:46,970 --> 00:30:51,780
 Une Oiran est l'idole numéro un de Wano !
 La vedette du pays !
 
-366
+367
 00:30:54,780 --> 00:30:57,100
 Il n'y a qu'une seule Oiran
 pour l'instant !
 
-367
+368
 00:30:57,100 --> 00:31:00,000
 L'heureuse élue s'appelle Komurasaki !
 
-368
+369
 00:31:00,160 --> 00:31:02,490
 Un rêve pour les hommes !
 Un modèle pour les femmes !
 
-369
+370
 00:31:02,490 --> 00:31:06,050
 Sa beauté possède un pouvoir
 très destructeur !
 
-370
+371
 00:31:11,140 --> 00:31:13,550
 Les dieux eux-mêmes
 sont jaloux de sa noblesse !
 
-371
+372
 00:31:13,700 --> 00:31:17,050
 Voilà qui est l'Oiran Komurasaki !
 
-372
+373
 00:31:17,780 --> 00:31:19,000
 Impossible !
 
-373
+374
 00:31:19,150 --> 00:31:21,060
 Une telle femme n'existe pas !
 
-374
+375
 00:31:21,060 --> 00:31:23,440
 Si tu ne me crois pas,
 va voir par toi-même !
 
-375
+376
 00:31:26,860 --> 00:31:29,530
 Là-bas ! Tu entends ?
 
-376
+377
 00:31:29,730 --> 00:31:34,140
 Les applaudissements
 et le son de la musique envoûtante !
 
-377
+378
 00:31:35,720 --> 00:31:38,590
 L'Oiran se dirige vers le château d'Orochi !
 
-378
+379
 00:31:38,800 --> 00:31:42,060
 Aujourd'hui, au château,
 se déroulera le banquet du Shogun !
 
-379
+380
 00:31:42,490 --> 00:31:47,070
 L'apprentie de tout à l'heure
 est une enfant au service de l'Oiran.
 
-380
+381
 00:31:47,270 --> 00:31:49,920
 Hmm, je comprends mieux.
 
-381
+382
 00:31:49,920 --> 00:31:52,450
 Orobi, j'ai une bonne nouvelle
 pour toi
 
-382
+383
 00:31:52,450 --> 00:31:54,810
 donc je suis venue
 à la Capitale des Fleurs.
 
-383
+384
 00:31:54,990 --> 00:31:55,720
 Pour moi ?
 
-384
+385
 00:31:57,270 --> 00:31:59,710
 Félicitations !
 
-385
+386
 00:32:00,770 --> 00:32:03,730
 Tu as aussi été demandée au château !
 
-386
+387
 00:32:03,880 --> 00:32:07,590
 C'était ton désir de rencontrer
 le Shogun Orochi, n'est-ce pas ?
 
-387
+388
 00:32:07,790 --> 00:32:08,440
 En effet !
 
-388
+389
 00:32:09,550 --> 00:32:12,570
 C'est bien notre Robin !
 
-389
+390
 00:32:12,970 --> 00:32:15,460
 Bon, retournons à la maison
 pour nous préparer !
 
-390
+391
 00:32:15,680 --> 00:32:18,380
 D'accord ! J'ai hâte !
 
-391
+392
 00:32:30,680 --> 00:32:32,220
 Hé ! Chapeau de paille !
 
-392
+393
 00:32:32,370 --> 00:32:35,200
 T'es impressionnant !
 Tu viens de quelle famille ?
 
-393
+394
 00:32:35,370 --> 00:32:40,190
 On a pu un peu souffler hier !
 Dans les cellules, on ne parle que de toi !
 
-394
+395
 00:32:40,500 --> 00:32:41,560
 Laissez-moi tranquille.
 
-395
+396
 00:32:41,860 --> 00:32:46,580
 Dis pas ça !
 Tout le monde t'apprécie, tu sais !
 
-396
+397
 00:32:47,000 --> 00:32:48,610
 Il est pas très amical.
 
-397
+398
 00:32:49,800 --> 00:32:51,610
 Homme au chapeau de paille !
 
-398
+399
 00:32:54,160 --> 00:33:00,790
 Merci infiniment
 pour avoir sauvé mon insignifiante vie hier !
 
-399
+400
 00:33:00,990 --> 00:33:03,410
 Je devais lui régler son compte
 de toute façon.
 
-400
+401
 00:33:04,590 --> 00:33:06,960
 Ah, c'est vrai.
 Tu peux les avoir !
 
-401
+402
 00:33:07,320 --> 00:33:09,670
 Mange,
 sinon tu n'auras pas de force !
 
-402
+403
 00:33:09,670 --> 00:33:12,250
 Oh, non ! Arrêtez !
 
-403
+404
 00:33:12,400 --> 00:33:15,580
 Un bon à rien comme moi
 ne peut accepter !
 
-404
+405
 00:33:16,000 --> 00:33:18,260
 Allez, c'est bon, garde-les.
 
-405
+406
 00:33:19,610 --> 00:33:20,540
 À plus !
 
-406
+407
 00:33:21,140 --> 00:33:24,030
 J... Je les utiliserai avec parcimonie !
 
-407
+408
 00:33:24,480 --> 00:33:30,910
 Merci beaucoup !
 Merci beaucoup !
 
-408
+409
 00:33:31,210 --> 00:33:32,810
 Il est marrant lui !
 
-409
+410
 00:33:37,310 --> 00:33:38,630
 Messire Luffy.
 
-410
+411
 00:33:39,550 --> 00:33:42,080
 Raizo !
 Comment ça s'est passé ?
 
-411
+412
 00:33:42,080 --> 00:33:43,200
 Désolé pour l'attente.
 
-412
+413
 00:33:43,450 --> 00:33:48,420
 J'ai trouvé les clés
 pour vos menottes en Granit Marin,
 
-413
+414
 00:33:48,670 --> 00:33:50,360
 mais elles sont bien gardées.
 
-414
+415
 00:33:50,560 --> 00:33:54,300
 En plus des gardes, elles sont enfermées
 dans un coffre en Granit Marin !
 
-415
+416
 00:33:55,450 --> 00:33:56,430
 Cependant...
 
-416
+417
 00:33:57,330 --> 00:34:01,220
 Je les déroberai à tout prix.
 Donnez-moi encore un peu de temps.
 
-417
+418
 00:34:01,720 --> 00:34:03,890
 Compris. Ça marche.
 
-418
+419
 00:34:08,100 --> 00:34:09,610
 Allez !
 
-419
+420
 00:34:28,700 --> 00:34:29,920
 Encore toi !
 
-420
+421
 00:34:31,650 --> 00:34:35,670
 C'est du beau boulot, Boss.
 
-421
+422
 00:34:36,110 --> 00:34:39,540
 Combien de boulettes cherches-tu
 à obtenir, au juste, Boss ?
 
-422
+423
 00:34:39,740 --> 00:34:41,220
 Je ne t'en filerai pas !
 
-423
+424
 00:34:41,550 --> 00:34:43,270
 T'es lourd, Caribou !
 
-424
+425
 00:34:43,510 --> 00:34:49,010
 Ne sois pas si rustre,
 nous sommes amis après tout.
 
-425
+426
 00:34:50,650 --> 00:34:53,930
 Caribou à la tignasse humide
 de l'équipage de Caribou.
 
-426
+427
 00:34:54,180 --> 00:35:00,200
 Luffy a rencontré ce vil et sournois pirate
 sur l'Archipel des Sabaody.
 
-427
+428
 00:35:01,250 --> 00:35:04,200
 Il n'a pas réussi à faire tomber
 les chapeaux de paille
 
-428
+429
 00:35:04,350 --> 00:35:08,410
 durant l'excursion
 vers l'île des Hommes-Poissons.
 
-429
+430
 00:35:08,870 --> 00:35:14,110
 Après avoir débarqué sur l'île,
 il continua ses méfaits,
 
-430
+431
 00:35:14,410 --> 00:35:17,800
 mais fut finalement vaincu
  par Luffy et Pekoms.
 
-431
+432
 00:35:18,880 --> 00:35:24,140
 Plus tard, dans le Nouveau Monde
 il tenta de se frayer un chemin par la ruse.
 
-432
+433
 00:35:27,550 --> 00:35:30,560
 Il découvrit alors
 une nouvelle façon de vivre.
 
-433
+434
 00:35:31,710 --> 00:35:34,470
 Il sera finalement stoppé par Drake,
 qui apparu soudainement.
 
-434
+435
 00:35:34,900 --> 00:35:36,730
 Il fut ensuite envoyé sur Wano
 
-435
+436
 00:35:36,880 --> 00:35:42,500
 et forcé au travail dans
 la Mine des Prisonniers d'Udon.
 
-436
+437
 00:35:47,870 --> 00:35:49,370
 Allez, Boss !
 
-437
+438
 00:35:49,930 --> 00:35:52,920
 Donne-m'en aussi !
 
-438
+439
 00:35:53,050 --> 00:35:56,800
 Je vous supplie pour des boulettes !
 
-439
+440
 00:35:57,200 --> 00:35:59,610
 Pas question !
 Bosse !
 
-440
+441
 00:35:59,610 --> 00:36:01,760
 C'est pas gentil...
 
-441
+442
 00:36:02,000 --> 00:36:04,660
 Ces menottes en Granit Marin,
 
-442
+443
 00:36:04,860 --> 00:36:09,740
 sont faiblement concentrées pour
 qu'on puisse travailler.
 
-443
+444
 00:36:09,940 --> 00:36:12,850
 Mais moi, je peux à peine bouger.
 
-444
+445
 00:36:13,000 --> 00:36:15,200
 Fais plus d'efforts !
 
-445
+446
 00:36:15,350 --> 00:36:19,060
 Tu es rude, Boss...
 
-446
+447
 00:36:19,620 --> 00:36:22,570
 Si tu me donnes des boulettes,
 je deviendrai ton serviteur.
 
-447
+448
 00:36:22,900 --> 00:36:25,990
 Je suis ici depuis bien longtemps,
 
-448
+449
 00:36:26,410 --> 00:36:29,690
 donc je sais des choses
 que tu ignores.
 
-449
+450
 00:36:30,500 --> 00:36:34,320
 Boss, tu vas accepter,
 pas vrai ?
 
-450
+451
 00:36:37,110 --> 00:36:38,510
 La ferme !
 
-451
+452
 00:36:40,510 --> 00:36:44,590
 Tu vas chercher à t'évader,
 j'ai pas raison ?
 
-452
+453
 00:36:44,890 --> 00:36:48,140
 – Allez, dis-moi !
 – Bouge !
 
-453
+454
 00:36:50,100 --> 00:36:51,890
 Ne relâchez pas !
 
-454
+455
 00:36:55,900 --> 00:36:58,650
 Un vendeur de Soba vous a vaincus ?
 
-455
+456
 00:36:58,650 --> 00:37:01,750
 Oui...
 Il était vraiment fort.
 
-456
+457
 00:37:02,150 --> 00:37:05,110
 Il nous a eus tous les trois.
 
-457
+458
 00:37:05,890 --> 00:37:08,280
 Je suis plutôt occupé aujourd'hui.
 
-458
+459
 00:37:08,620 --> 00:37:12,660
 Je suis invité au banquet
 du Shogun Orochi.
 
-459
+460
 00:37:13,230 --> 00:37:15,080
 Contacte Queen.
 
-460
+461
 00:37:16,010 --> 00:37:19,840
 Laisse-le envoyer ses assassins.
 
-461
+462
 00:37:20,250 --> 00:37:22,390
 Mais ça va créer un tumulte...
 
-462
+463
 00:37:22,550 --> 00:37:24,340
 – Peu m'importe !
 – Bien !
 
-463
+464
 00:37:29,500 --> 00:37:30,640
 Maître Orochi,
 
-464
+465
 00:37:31,110 --> 00:37:34,390
 l'Oiran est sur le point d'arriver.
 
-465
+466
 00:37:35,200 --> 00:37:36,780
 Je vois.
 
-466
+467
 00:37:37,720 --> 00:37:39,480
 Komurasaki...
 
-467
+468
 00:37:42,690 --> 00:37:48,520
 Ce soir, je vais te faire mienne !
 
-468
+469
 00:03:49,830 --> 00:03:54,650
 Si tu veux le réaliser, va vers le sommet
 
-469
+470
 00:04:10,540 --> 00:04:14,170
 Partons à la découverte d'un monde inconnu
 
-470
+471
 00:04:15,100 --> 00:04:18,470
 Surmontons le vent et les vagues qui se déchaînent
 
-471
+472
 00:04:19,220 --> 00:04:21,400
 Je dois continuer à avancer
 
-472
+473
 00:04:21,450 --> 00:04:24,050
 car je veux y arriver en premier
 
-473
+474
 00:04:24,080 --> 00:04:26,470
 Ce n'est pas le moment de s'inquiéter,
 
-474
+475
 00:04:26,470 --> 00:04:30,940
 ça passe ou ça casse
 
-475
+476
 00:04:32,430 --> 00:04:36,890
 Quand ton adversaire a l'air intimidant
 
-476
+477
 00:04:36,890 --> 00:04:41,640
 C'est un signe que ton cœur s'atrophie
 
-477
+478
 00:04:42,200 --> 00:04:44,520
 Fuir n'est pas une option
 
-478
+479
 00:04:44,520 --> 00:04:46,810
 Fais un pas de plus
 
-479
+480
 00:04:46,790 --> 00:04:49,110
 C'est un compliment de se faire
 traiter d'insolent, n'est-ce pas ?
 
-480
+481
 00:04:49,110 --> 00:04:50,600
 Quand les choses se compliquent,
 
-481
+482
 00:04:50,600 --> 00:04:53,660
 c'est là où tu dois sourire
 
-482
+483
 00:04:54,870 --> 00:04:57,360
 Un nouvel horizon
 
-483
+484
 00:04:57,360 --> 00:04:59,470
 est témoin de ton long parcours
 
-484
+485
 00:04:59,490 --> 00:05:04,610
 Il est plus brillant, et ça devient de plus en plus difficile
 
-485
+486
 00:05:04,610 --> 00:05:09,240
 Vis dans tes rêves et crée un ouragan
 
-486
+487
 00:05:09,240 --> 00:05:13,610
 Vas-y ! Surpasse toutes les attentes
 
-487
+488
 00:05:13,850 --> 00:05:17,850
 Un rêve, un souhait
 
-488
+489
 00:05:18,140 --> 00:05:23,010
 Les rêves ne fuient pas, fracasse tout
 
-489
+490
 00:05:23,010 --> 00:05:25,350
 Vers le sommet !
 
-490
+491
 00:05:26,590 --> 00:05:33,270
 Ruines de Kibi - Wano
 
-491
+492
 00:07:54,200 --> 00:07:56,990
 Mine des Prisonniers
 & Usine d'armes
 Udon - Wano
 
-492
+493
 00:12:23,800 --> 00:12:31,890
 Dobon
 Directeur-adjoint
 SMILE de l'Hippopotame
 
-493
+494
 00:20:44,550 --> 00:20:47,800
 Kaku, Kuni, Suke
 Famille Kyoshiro
 
-494
-00:27:48,890 --> 00:27:48,930
-TOKO
-UNE ENFANT DE LA CAPITALE
-
 495
-00:27:48,930 --> 00:27:48,980
+00:27:48,890 --> 00:27:48,930
 TOKO
 UNE ENFANT DE LA CAPITALE
 
 496
-00:27:48,980 --> 00:27:49,020
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-497
-00:27:49,020 --> 00:27:49,060
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-498
-00:27:49,060 --> 00:27:49,100
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-499
-00:27:49,100 --> 00:27:49,140
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-500
-00:27:49,140 --> 00:27:49,180
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-501
-00:27:49,180 --> 00:27:49,230
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-502
-00:27:49,230 --> 00:27:49,270
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-503
-00:27:49,270 --> 00:27:49,310
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-504
-00:27:49,310 --> 00:27:49,350
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-505
-00:27:49,350 --> 00:27:49,390
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-506
-00:27:49,390 --> 00:27:49,430
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-507
-00:27:49,430 --> 00:27:49,480
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-508
-00:27:49,480 --> 00:27:49,520
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-509
-00:27:49,520 --> 00:27:49,560
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-510
-00:27:49,560 --> 00:27:49,600
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-511
-00:27:49,600 --> 00:27:49,640
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-512
-00:27:49,640 --> 00:27:49,680
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-513
-00:27:49,680 --> 00:27:49,730
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-514
-00:27:49,730 --> 00:27:49,770
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-515
-00:27:49,770 --> 00:27:49,810
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-516
-00:27:49,810 --> 00:27:49,850
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-517
-00:27:49,850 --> 00:27:53,230
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-518
-00:27:48,890 --> 00:27:48,930
-TOKO
-UNE ENFANT DE LA CAPITALE
-
-519
 00:27:48,930 --> 00:27:48,980
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-520
+497
 00:27:48,980 --> 00:27:49,020
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-521
+498
 00:27:49,020 --> 00:27:49,060
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-522
+499
 00:27:49,060 --> 00:27:49,100
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-523
+500
 00:27:49,100 --> 00:27:49,140
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-524
+501
 00:27:49,140 --> 00:27:49,180
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-525
+502
 00:27:49,180 --> 00:27:49,230
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-526
+503
 00:27:49,230 --> 00:27:49,270
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-527
+504
 00:27:49,270 --> 00:27:49,310
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-528
+505
 00:27:49,310 --> 00:27:49,350
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-529
+506
 00:27:49,350 --> 00:27:49,390
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-530
+507
 00:27:49,390 --> 00:27:49,430
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-531
+508
 00:27:49,430 --> 00:27:49,480
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-532
+509
 00:27:49,480 --> 00:27:49,520
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-533
+510
 00:27:49,520 --> 00:27:49,560
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-534
+511
 00:27:49,560 --> 00:27:49,600
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-535
+512
 00:27:49,600 --> 00:27:49,640
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-536
+513
 00:27:49,640 --> 00:27:49,680
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-537
+514
 00:27:49,680 --> 00:27:49,730
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-538
+515
 00:27:49,730 --> 00:27:49,770
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-539
+516
 00:27:49,770 --> 00:27:49,810
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-540
+517
 00:27:49,810 --> 00:27:49,850
 TOKO
 UNE ENFANT DE LA CAPITALE
 
-541
+518
 00:27:49,850 --> 00:27:53,230
 TOKO
 UNE ENFANT DE LA CAPITALE
 
+519
+00:27:48,890 --> 00:27:48,930
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+520
+00:27:48,930 --> 00:27:48,980
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+521
+00:27:48,980 --> 00:27:49,020
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+522
+00:27:49,020 --> 00:27:49,060
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+523
+00:27:49,060 --> 00:27:49,100
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+524
+00:27:49,100 --> 00:27:49,140
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+525
+00:27:49,140 --> 00:27:49,180
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+526
+00:27:49,180 --> 00:27:49,230
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+527
+00:27:49,230 --> 00:27:49,270
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+528
+00:27:49,270 --> 00:27:49,310
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+529
+00:27:49,310 --> 00:27:49,350
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+530
+00:27:49,350 --> 00:27:49,390
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+531
+00:27:49,390 --> 00:27:49,430
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+532
+00:27:49,430 --> 00:27:49,480
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+533
+00:27:49,480 --> 00:27:49,520
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+534
+00:27:49,520 --> 00:27:49,560
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+535
+00:27:49,560 --> 00:27:49,600
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+536
+00:27:49,600 --> 00:27:49,640
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+537
+00:27:49,640 --> 00:27:49,680
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+538
+00:27:49,680 --> 00:27:49,730
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+539
+00:27:49,730 --> 00:27:49,770
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+540
+00:27:49,770 --> 00:27:49,810
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+541
+00:27:49,810 --> 00:27:49,850
+TOKO
+UNE ENFANT DE LA CAPITALE
+
 542
+00:27:49,850 --> 00:27:53,230
+TOKO
+UNE ENFANT DE LA CAPITALE
+
+543
 00:32:55,450 --> 00:33:00,790
 Grand-Père Hyo
 Un des plus anciens prisonniers
 
-543
+544
 00:34:49,520 --> 00:34:57,320
 Caribou la tignasse humide
 Prime : 210 Millions de Berrys
 Capitaine des pirates de Caribou
 
-544
+545
 00:36:54,980 --> 00:36:58,650
 Sakyo
 Capitale
 des Fleurs
 
-545
+546
 00:03:58,930 --> 00:03:58,970
 One Piece
 
-546
+547
 00:03:58,970 --> 00:03:59,010
 One Piece
 
-547
+548
 00:03:59,010 --> 00:03:59,050
 One Piece
 
-548
+549
 00:03:59,050 --> 00:03:59,090
 One Piece
 
-549
+550
 00:03:59,090 --> 00:03:59,130
 One Piece
 
-550
+551
 00:03:59,130 --> 00:03:59,180
 One Piece
 
-551
+552
 00:03:59,180 --> 00:03:59,220
 One Piece
 
-552
+553
 00:03:59,220 --> 00:03:59,260
 One Piece
 
-553
+554
 00:03:59,260 --> 00:03:59,300
 One Piece
 
-554
+555
 00:03:59,300 --> 00:03:59,340
 One Piece
 
-555
+556
 00:03:59,340 --> 00:03:59,380
 One Piece
 
-556
+557
 00:03:59,380 --> 00:03:59,430
 One Piece
 
-557
+558
 00:03:59,430 --> 00:03:59,470
 One Piece
 
-558
+559
 00:03:59,470 --> 00:03:59,510
 One Piece
 
-559
+560
 00:03:59,510 --> 00:03:59,550
 One Piece
 
-560
+561
 00:03:59,550 --> 00:03:59,590
 One Piece
 
-561
+562
 00:03:59,590 --> 00:03:59,630
 One Piece
 
-562
+563
 00:03:59,630 --> 00:03:59,680
 One Piece
 
-563
+564
 00:03:59,680 --> 00:03:59,720
 One Piece
 
-564
+565
 00:03:59,720 --> 00:03:59,760
 One Piece
 
-565
-00:03:59,760 --> 00:03:59,800
-One Piece
-
 566
-00:03:59,800 --> 00:03:59,840
+00:03:59,760 --> 00:03:59,800
 One Piece
 
 567
-00:03:59,840 --> 00:03:59,880
+00:03:59,800 --> 00:03:59,840
 One Piece
 
 568
-00:03:59,880 --> 00:03:59,930
+00:03:59,840 --> 00:03:59,880
 One Piece
 
 569
-00:03:59,930 --> 00:03:59,970
+00:03:59,880 --> 00:03:59,930
 One Piece
 
 570
-00:03:59,970 --> 00:04:00,010
+00:03:59,930 --> 00:03:59,970
 One Piece
 
 571
-00:04:00,010 --> 00:04:00,050
+00:03:59,970 --> 00:04:00,010
 One Piece
 
 572
-00:04:00,050 --> 00:04:00,090
+00:04:00,010 --> 00:04:00,050
 One Piece
 
 573
-00:04:00,090 --> 00:04:00,140
+00:04:00,050 --> 00:04:00,090
 One Piece
 
 574
-00:04:00,140 --> 00:04:00,180
+00:04:00,090 --> 00:04:00,140
 One Piece
 
 575
-00:04:00,180 --> 00:04:00,220
+00:04:00,140 --> 00:04:00,180
 One Piece
 
 576
-00:04:00,220 --> 00:04:00,260
+00:04:00,180 --> 00:04:00,220
 One Piece
 
 577
-00:04:00,260 --> 00:04:00,300
+00:04:00,220 --> 00:04:00,260
 One Piece
 
 578
-00:04:00,300 --> 00:04:00,340
+00:04:00,260 --> 00:04:00,300
 One Piece
 
 579
-00:04:00,340 --> 00:04:00,390
+00:04:00,300 --> 00:04:00,340
 One Piece
 
 580
-00:04:00,390 --> 00:04:00,430
+00:04:00,340 --> 00:04:00,390
 One Piece
 
 581
-00:04:00,430 --> 00:04:00,470
+00:04:00,390 --> 00:04:00,430
 One Piece
 
 582
-00:04:00,470 --> 00:04:00,510
+00:04:00,430 --> 00:04:00,470
 One Piece
 
 583
-00:04:00,510 --> 00:04:00,550
+00:04:00,470 --> 00:04:00,510
 One Piece
 
 584
-00:04:00,550 --> 00:04:00,590
+00:04:00,510 --> 00:04:00,550
 One Piece
 
 585
-00:04:00,590 --> 00:04:00,640
+00:04:00,550 --> 00:04:00,590
 One Piece
 
 586
-00:04:00,640 --> 00:04:00,680
+00:04:00,590 --> 00:04:00,640
 One Piece
 
 587
-00:04:00,680 --> 00:04:00,720
+00:04:00,640 --> 00:04:00,680
 One Piece
 
 588
-00:04:00,720 --> 00:04:00,760
+00:04:00,680 --> 00:04:00,720
 One Piece
 
 589
-00:04:00,760 --> 00:04:00,800
+00:04:00,720 --> 00:04:00,760
 One Piece
 
 590
-00:04:00,800 --> 00:04:00,840
+00:04:00,760 --> 00:04:00,800
 One Piece
 
 591
-00:04:00,840 --> 00:04:00,890
+00:04:00,800 --> 00:04:00,840
 One Piece
 
 592
-00:04:00,890 --> 00:04:00,930
+00:04:00,840 --> 00:04:00,890
 One Piece
 
 593
-00:04:00,930 --> 00:04:00,970
+00:04:00,890 --> 00:04:00,930
 One Piece
 
 594
-00:04:00,970 --> 00:04:01,010
+00:04:00,930 --> 00:04:00,970
 One Piece
 
 595
-00:04:01,010 --> 00:04:01,050
+00:04:00,970 --> 00:04:01,010
 One Piece
 
 596
-00:04:01,050 --> 00:04:01,090
+00:04:01,010 --> 00:04:01,050
 One Piece
 
 597
-00:04:01,090 --> 00:04:01,140
+00:04:01,050 --> 00:04:01,090
 One Piece
 
 598
-00:04:01,140 --> 00:04:01,180
+00:04:01,090 --> 00:04:01,140
 One Piece
 
 599
-00:04:01,180 --> 00:04:01,220
+00:04:01,140 --> 00:04:01,180
 One Piece
 
 600
-00:04:01,220 --> 00:04:01,260
+00:04:01,180 --> 00:04:01,220
 One Piece
 
 601
-00:04:01,260 --> 00:04:01,300
+00:04:01,220 --> 00:04:01,260
 One Piece
 
 602
-00:04:01,300 --> 00:04:01,340
+00:04:01,260 --> 00:04:01,300
 One Piece
 
 603
-00:04:01,340 --> 00:04:01,390
+00:04:01,300 --> 00:04:01,340
 One Piece
 
 604
-00:04:01,390 --> 00:04:01,430
+00:04:01,340 --> 00:04:01,390
 One Piece
 
 605
-00:04:01,430 --> 00:04:01,470
+00:04:01,390 --> 00:04:01,430
 One Piece
 
 606
-00:04:01,470 --> 00:04:01,510
+00:04:01,430 --> 00:04:01,470
 One Piece
 
 607
-00:04:01,510 --> 00:04:01,550
+00:04:01,470 --> 00:04:01,510
 One Piece
 
 608
-00:04:01,550 --> 00:04:01,590
+00:04:01,510 --> 00:04:01,550
 One Piece
 
 609
-00:04:01,590 --> 00:04:01,640
+00:04:01,550 --> 00:04:01,590
 One Piece
 
 610
-00:04:01,640 --> 00:04:01,680
+00:04:01,590 --> 00:04:01,640
 One Piece
 
 611
-00:04:01,680 --> 00:04:01,720
+00:04:01,640 --> 00:04:01,680
 One Piece
 
 612
-00:04:01,720 --> 00:04:01,760
+00:04:01,680 --> 00:04:01,720
 One Piece
 
 613
-00:04:01,760 --> 00:04:01,800
+00:04:01,720 --> 00:04:01,760
 One Piece
 
 614
-00:04:01,800 --> 00:04:01,850
+00:04:01,760 --> 00:04:01,800
 One Piece
 
 615
-00:04:01,850 --> 00:04:01,890
+00:04:01,800 --> 00:04:01,850
 One Piece
 
 616
-00:04:01,890 --> 00:04:01,930
+00:04:01,850 --> 00:04:01,890
 One Piece
 
 617
-00:04:01,930 --> 00:04:01,970
+00:04:01,890 --> 00:04:01,930
 One Piece
 
 618
-00:04:01,970 --> 00:04:02,010
+00:04:01,930 --> 00:04:01,970
 One Piece
 
 619
-00:04:02,010 --> 00:04:02,050
+00:04:01,970 --> 00:04:02,010
 One Piece
 
 620
-00:04:02,050 --> 00:04:02,100
+00:04:02,010 --> 00:04:02,050
 One Piece
 
 621
-00:04:02,100 --> 00:04:02,140
+00:04:02,050 --> 00:04:02,100
 One Piece
 
 622
-00:04:02,140 --> 00:04:02,180
+00:04:02,100 --> 00:04:02,140
 One Piece
 
 623
-00:04:02,180 --> 00:04:02,220
+00:04:02,140 --> 00:04:02,180
 One Piece
 
 624
-00:04:02,220 --> 00:04:02,260
+00:04:02,180 --> 00:04:02,220
 One Piece
 
 625
-00:04:02,260 --> 00:04:02,300
+00:04:02,220 --> 00:04:02,260
 One Piece
 
 626
-00:04:02,300 --> 00:04:02,350
+00:04:02,260 --> 00:04:02,300
 One Piece
 
 627
-00:04:02,350 --> 00:04:02,390
+00:04:02,300 --> 00:04:02,350
 One Piece
 
 628
-00:04:02,390 --> 00:04:02,430
+00:04:02,350 --> 00:04:02,390
 One Piece
 
 629
-00:04:02,430 --> 00:04:02,470
+00:04:02,390 --> 00:04:02,430
 One Piece
 
 630
-00:04:02,470 --> 00:04:02,510
+00:04:02,430 --> 00:04:02,470
 One Piece
 
 631
-00:04:02,510 --> 00:04:02,550
+00:04:02,470 --> 00:04:02,510
 One Piece
 
 632
-00:04:02,550 --> 00:04:02,600
+00:04:02,510 --> 00:04:02,550
 One Piece
 
 633
-00:04:02,600 --> 00:04:02,640
+00:04:02,550 --> 00:04:02,600
 One Piece
 
 634
-00:04:02,640 --> 00:04:02,680
+00:04:02,600 --> 00:04:02,640
 One Piece
 
 635
-00:04:02,680 --> 00:04:02,720
+00:04:02,640 --> 00:04:02,680
 One Piece
 
 636
-00:04:02,720 --> 00:04:02,760
+00:04:02,680 --> 00:04:02,720
 One Piece
 
 637
-00:04:02,760 --> 00:04:02,800
+00:04:02,720 --> 00:04:02,760
 One Piece
 
 638
-00:04:02,800 --> 00:04:02,850
+00:04:02,760 --> 00:04:02,800
 One Piece
 
 639
-00:04:02,850 --> 00:04:02,890
+00:04:02,800 --> 00:04:02,850
 One Piece
 
 640
-00:04:02,890 --> 00:04:02,930
+00:04:02,850 --> 00:04:02,890
 One Piece
 
 641
-00:04:02,930 --> 00:04:02,970
+00:04:02,890 --> 00:04:02,930
 One Piece
 
 642
-00:04:02,970 --> 00:04:03,010
+00:04:02,930 --> 00:04:02,970
 One Piece
 
 643
-00:04:03,010 --> 00:04:03,050
+00:04:02,970 --> 00:04:03,010
 One Piece
 
 644
-00:04:03,050 --> 00:04:03,100
+00:04:03,010 --> 00:04:03,050
 One Piece
 
 645
-00:04:03,100 --> 00:04:03,140
+00:04:03,050 --> 00:04:03,100
 One Piece
 
 646
-00:04:03,140 --> 00:04:03,180
+00:04:03,100 --> 00:04:03,140
 One Piece
 
 647
-00:04:03,180 --> 00:04:03,220
+00:04:03,140 --> 00:04:03,180
 One Piece
 
 648
-00:04:03,220 --> 00:04:03,260
+00:04:03,180 --> 00:04:03,220
 One Piece
 
 649
-00:04:03,260 --> 00:04:03,310
+00:04:03,220 --> 00:04:03,260
 One Piece
 
 650
-00:04:03,310 --> 00:04:03,350
+00:04:03,260 --> 00:04:03,310
 One Piece
 
 651
-00:04:03,350 --> 00:04:03,390
+00:04:03,310 --> 00:04:03,350
 One Piece
 
 652
-00:04:03,390 --> 00:04:03,430
+00:04:03,350 --> 00:04:03,390
 One Piece
 
 653
-00:04:03,430 --> 00:04:03,470
+00:04:03,390 --> 00:04:03,430
 One Piece
 
 654
-00:04:03,470 --> 00:04:03,510
+00:04:03,430 --> 00:04:03,470
 One Piece
 
 655
-00:04:03,510 --> 00:04:03,560
+00:04:03,470 --> 00:04:03,510
 One Piece
 
 656
-00:04:03,560 --> 00:04:03,600
+00:04:03,510 --> 00:04:03,560
 One Piece
 
 657
-00:04:03,600 --> 00:04:03,640
+00:04:03,560 --> 00:04:03,600
 One Piece
 
 658
-00:04:03,640 --> 00:04:03,680
+00:04:03,600 --> 00:04:03,640
 One Piece
 
 659
-00:04:03,680 --> 00:04:03,720
+00:04:03,640 --> 00:04:03,680
 One Piece
 
 660
-00:04:03,720 --> 00:04:03,760
+00:04:03,680 --> 00:04:03,720
 One Piece
 
 661
-00:04:03,760 --> 00:04:03,810
+00:04:03,720 --> 00:04:03,760
 One Piece
 
 662
-00:04:03,810 --> 00:04:03,850
+00:04:03,760 --> 00:04:03,810
 One Piece
 
 663
-00:04:03,850 --> 00:04:03,890
+00:04:03,810 --> 00:04:03,850
 One Piece
 
 664
-00:04:03,890 --> 00:04:03,930
+00:04:03,850 --> 00:04:03,890
 One Piece
 
 665
-00:04:03,930 --> 00:04:03,970
+00:04:03,890 --> 00:04:03,930
 One Piece
 
 666
-00:04:03,970 --> 00:04:04,010
+00:04:03,930 --> 00:04:03,970
 One Piece
 
 667
-00:04:04,010 --> 00:04:04,060
+00:04:03,970 --> 00:04:04,010
 One Piece
 
 668
-00:04:04,060 --> 00:04:04,100
+00:04:04,010 --> 00:04:04,060
 One Piece
 
 669
-00:04:04,100 --> 00:04:04,140
+00:04:04,060 --> 00:04:04,100
 One Piece
 
 670
-00:04:04,140 --> 00:04:04,180
+00:04:04,100 --> 00:04:04,140
 One Piece
 
 671
+00:04:04,140 --> 00:04:04,180
+One Piece
+
+672
 00:03:59,760 --> 00:03:59,800
 Arc de Wano
 
-672
+673
 00:03:59,800 --> 00:03:59,840
 Arc de Wano
 
-673
+674
 00:03:59,840 --> 00:03:59,880
 Arc de Wano
 
-674
+675
 00:03:59,880 --> 00:03:59,930
 Arc de Wano
 
-675
+676
 00:03:59,930 --> 00:03:59,970
 Arc de Wano
 
-676
+677
 00:03:59,970 --> 00:04:00,010
 Arc de Wano
 
-677
+678
 00:04:00,010 --> 00:04:00,050
 Arc de Wano
 
-678
+679
 00:04:00,050 --> 00:04:00,090
 Arc de Wano
 
-679
+680
 00:04:00,090 --> 00:04:00,140
 Arc de Wano
 
-680
+681
 00:04:00,140 --> 00:04:00,180
 Arc de Wano
 
-681
+682
 00:04:00,180 --> 00:04:00,220
 Arc de Wano
 
-682
+683
 00:04:00,220 --> 00:04:00,260
 Arc de Wano
 
-683
+684
 00:04:00,260 --> 00:04:00,300
 Arc de Wano
 
-684
+685
 00:04:00,300 --> 00:04:00,340
 Arc de Wano
 
-685
+686
 00:04:00,340 --> 00:04:00,390
 Arc de Wano
 
-686
+687
 00:04:00,390 --> 00:04:00,430
 Arc de Wano
 
-687
+688
 00:04:00,430 --> 00:04:00,470
 Arc de Wano
 
-688
+689
 00:04:00,470 --> 00:04:00,510
 Arc de Wano
 
-689
+690
 00:04:00,510 --> 00:04:00,550
 Arc de Wano
 
-690
+691
 00:04:00,550 --> 00:04:00,590
 Arc de Wano
 
-691
+692
 00:04:00,590 --> 00:04:00,640
 Arc de Wano
 
-692
+693
 00:04:00,640 --> 00:04:00,680
 Arc de Wano
 
-693
+694
 00:04:00,680 --> 00:04:00,720
 Arc de Wano
 
-694
+695
 00:04:00,720 --> 00:04:00,760
 Arc de Wano
 
-695
+696
 00:04:00,760 --> 00:04:00,800
 Arc de Wano
 
-696
+697
 00:04:00,800 --> 00:04:00,840
 Arc de Wano
 
-697
+698
 00:04:00,840 --> 00:04:00,890
 Arc de Wano
 
-698
+699
 00:04:00,890 --> 00:04:00,930
 Arc de Wano
 
-699
+700
 00:04:00,930 --> 00:04:00,970
 Arc de Wano
 
-700
+701
 00:04:00,970 --> 00:04:01,010
 Arc de Wano
 
-701
+702
 00:04:01,010 --> 00:04:01,050
 Arc de Wano
 
-702
+703
 00:04:01,050 --> 00:04:01,090
 Arc de Wano
 
-703
+704
 00:04:01,090 --> 00:04:01,140
 Arc de Wano
 
-704
+705
 00:04:01,140 --> 00:04:01,180
 Arc de Wano
 
-705
+706
 00:04:01,180 --> 00:04:01,220
 Arc de Wano
 
-706
+707
 00:04:01,220 --> 00:04:01,260
 Arc de Wano
 
-707
+708
 00:04:01,260 --> 00:04:01,300
 Arc de Wano
 
-708
+709
 00:04:01,300 --> 00:04:01,340
 Arc de Wano
 
-709
+710
 00:04:01,340 --> 00:04:01,390
 Arc de Wano
 
-710
+711
 00:04:01,390 --> 00:04:01,430
 Arc de Wano
 
-711
+712
 00:04:01,430 --> 00:04:01,470
 Arc de Wano
 
-712
+713
 00:04:01,470 --> 00:04:01,510
 Arc de Wano
 
-713
+714
 00:04:01,510 --> 00:04:01,550
 Arc de Wano
 
-714
+715
 00:04:01,550 --> 00:04:01,590
 Arc de Wano
 
-715
+716
 00:04:01,590 --> 00:04:01,640
 Arc de Wano
 
-716
+717
 00:04:01,640 --> 00:04:01,680
 Arc de Wano
 
-717
+718
 00:04:01,680 --> 00:04:01,720
 Arc de Wano
 
-718
+719
 00:04:01,720 --> 00:04:01,760
 Arc de Wano
 
-719
+720
 00:04:01,760 --> 00:04:01,800
 Arc de Wano
 
-720
+721
 00:04:01,800 --> 00:04:01,850
 Arc de Wano
 
-721
+722
 00:04:01,850 --> 00:04:01,890
 Arc de Wano
 
-722
+723
 00:04:01,890 --> 00:04:01,930
 Arc de Wano
 
-723
+724
 00:04:01,930 --> 00:04:01,970
 Arc de Wano
 
-724
+725
 00:04:01,970 --> 00:04:02,010
 Arc de Wano
 
-725
+726
 00:04:02,010 --> 00:04:02,050
 Arc de Wano
 
-726
+727
 00:04:02,050 --> 00:04:02,100
 Arc de Wano
 
-727
+728
 00:04:02,100 --> 00:04:02,140
 Arc de Wano
 
-728
+729
 00:04:02,140 --> 00:04:02,180
 Arc de Wano
 
-729
+730
 00:04:02,180 --> 00:04:02,220
 Arc de Wano
 
-730
+731
 00:04:02,220 --> 00:04:02,260
 Arc de Wano
 
-731
+732
 00:04:02,260 --> 00:04:02,300
 Arc de Wano
 
-732
+733
 00:04:02,300 --> 00:04:02,350
 Arc de Wano
 
-733
+734
 00:04:02,350 --> 00:04:02,390
 Arc de Wano
 
-734
+735
 00:04:02,390 --> 00:04:02,430
 Arc de Wano
 
-735
+736
 00:04:02,430 --> 00:04:02,470
 Arc de Wano
 
-736
+737
 00:04:02,470 --> 00:04:02,510
 Arc de Wano
 
-737
+738
 00:04:02,510 --> 00:04:02,550
 Arc de Wano
 
-738
+739
 00:04:02,550 --> 00:04:02,600
 Arc de Wano
 
-739
+740
 00:04:02,600 --> 00:04:02,640
 Arc de Wano
 
-740
+741
 00:04:02,640 --> 00:04:02,680
 Arc de Wano
 
-741
+742
 00:04:02,680 --> 00:04:02,720
 Arc de Wano
 
-742
+743
 00:04:02,720 --> 00:04:02,760
 Arc de Wano
 
-743
+744
 00:04:02,760 --> 00:04:02,800
 Arc de Wano
 
-744
+745
 00:04:02,800 --> 00:04:02,850
 Arc de Wano
 
-745
+746
 00:04:02,850 --> 00:04:02,890
 Arc de Wano
 
-746
+747
 00:04:02,890 --> 00:04:02,930
 Arc de Wano
 
-747
+748
 00:04:02,930 --> 00:04:02,970
 Arc de Wano
 
-748
+749
 00:04:02,970 --> 00:04:03,010
 Arc de Wano
 
-749
+750
 00:04:03,010 --> 00:04:03,050
 Arc de Wano
 
-750
+751
 00:04:03,050 --> 00:04:03,100
 Arc de Wano
 
-751
+752
 00:04:03,100 --> 00:04:03,140
 Arc de Wano
 
-752
+753
 00:04:03,140 --> 00:04:03,180
 Arc de Wano
 
-753
+754
 00:04:03,180 --> 00:04:03,220
 Arc de Wano
 
-754
+755
 00:04:03,220 --> 00:04:03,260
 Arc de Wano
 
-755
+756
 00:04:03,260 --> 00:04:03,310
 Arc de Wano
 
-756
+757
 00:04:03,310 --> 00:04:03,350
 Arc de Wano
 
-757
+758
 00:04:03,350 --> 00:04:03,390
 Arc de Wano
 
-758
+759
 00:04:03,390 --> 00:04:03,430
 Arc de Wano
 
-759
+760
 00:04:03,430 --> 00:04:03,470
 Arc de Wano
 
-760
+761
 00:04:03,470 --> 00:04:03,510
 Arc de Wano
 
-761
+762
 00:04:03,510 --> 00:04:03,560
 Arc de Wano
 
-762
+763
 00:04:03,560 --> 00:04:03,600
 Arc de Wano
 
-763
+764
 00:04:03,600 --> 00:04:03,640
 Arc de Wano
 
-764
+765
 00:04:03,640 --> 00:04:03,680
 Arc de Wano
 
-765
+766
 00:04:03,680 --> 00:04:03,720
 Arc de Wano
 
-766
+767
 00:04:03,720 --> 00:04:03,760
 Arc de Wano
 
-767
+768
 00:04:03,760 --> 00:04:03,810
 Arc de Wano
 
-768
+769
 00:04:03,810 --> 00:04:03,850
 Arc de Wano
 
-769
+770
 00:04:03,850 --> 00:04:03,890
 Arc de Wano
 
-770
+771
 00:04:03,890 --> 00:04:03,930
 Arc de Wano
 
-771
+772
 00:04:03,930 --> 00:04:03,970
 Arc de Wano
 
-772
+773
 00:04:03,970 --> 00:04:04,010
 Arc de Wano
 
-773
+774
 00:04:04,010 --> 00:04:04,060
 Arc de Wano
 
-774
+775
 00:04:04,060 --> 00:04:04,100
 Arc de Wano
 
-775
+776
 00:04:04,100 --> 00:04:04,140
 Arc de Wano
 
-776
+777
 00:04:04,140 --> 00:04:04,180
 Arc de Wano
-

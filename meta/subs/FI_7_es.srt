@@ -1,851 +1,855 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:02,990 --> 00:00:08,380
 El hombre que lo consiguió todo en este mundo,
  el legendario Rey de los Piratas, Gold Roger.
 
-2
+3
 00:00:08,380 --> 00:00:13,000
 Antes de morir, sus últimas palabras 
 inspiraron a muchos a aventurarse al mar.
 
-3
+4
 00:00:13,000 --> 00:00:14,680
 ¿Mis tesoros?
 
-4
+5
 00:00:14,680 --> 00:00:16,220
 Si los desean, se los daré.
 
-5
+6
 00:00:16,220 --> 00:00:19,870
 ¡Búsquenlos! ¡Los escondí todos en ese lugar!
 
-6
+7
 00:00:19,870 --> 00:00:22,690
 Muchos hombres zarpan en pos de sus sueños.
 
-7
+8
 00:00:22,690 --> 00:00:25,350
 El mundo se encuentra en la Gran Era de la Piratería.
 
-8
+9
 00:00:25,500 --> 00:00:29,340
 No puedo estar quieto, no puedo detenerme.
 
-9
+10
 00:00:29,460 --> 00:00:33,860
 Todavía no ha amanecido y no puedo esperar más.
 
-10
+11
 00:00:33,900 --> 00:00:37,580
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-11
+12
 00:00:39,060 --> 00:00:43,050
 Icen la bandera, comienza el amanecer de la aventura.
 
-12
+13
 00:00:44,500 --> 00:00:49,780
 Empecemos a hacer olas saltando desde nuestros sueños.
 
-13
+14
 00:00:49,820 --> 00:00:54,300
 Si quieren ir a un mundo increíble,
 
-14
+15
 00:00:54,380 --> 00:00:58,740
 su tenacidad será un requisito indispensable.
 
-15
+16
 00:00:59,140 --> 00:01:01,700
 ¿Acaso es un crimen ser descarado?
 
-16
+17
 00:01:01,820 --> 00:01:04,740
 Ser buscado significa ser un ganador.
 
-17
+18
 00:01:04,900 --> 00:01:10,500
 Nuestra única regla es la libertad.
 
-18
+19
 00:01:10,620 --> 00:01:16,020
 No nos dejamos llevar por las preocupaciones.
 
-19
+20
 00:01:16,060 --> 00:01:18,540
 Seré el primero en llegar al One Piece.
 
-20
+21
 00:01:18,620 --> 00:01:22,340
 Mi corazón lleno de sueños es enorme.
 
-21
+22
 00:01:22,580 --> 00:01:26,900
 Es importante que no nos despertemos.
 
-22
+23
 00:01:27,020 --> 00:01:29,420
 No puedo estar quieto, no puedo detenerme.
 
-23
+24
 00:01:29,540 --> 00:01:33,620
 Todavía no ha amanecido y no puedo esperar más.
 
-24
+25
 00:01:33,700 --> 00:01:37,140
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-25
+26
 00:01:38,820 --> 00:01:44,580
 Nosotros... llegamos hasta aquí,
 
-26
+27
 00:01:44,740 --> 00:01:47,540
 e iremos hasta donde nos lleven nuestros sueños.
 
-27
+28
 00:01:47,700 --> 00:01:52,620
 No dejaremos a nadie atrás.
 
-28
+29
 00:01:52,740 --> 00:01:55,340
 Juré que seguiría sin detenerme.
 
-29
+30
 00:01:55,460 --> 00:01:59,180
 Y desde aquel día en que comenzó mi sueño...
 
-30
+31
 00:01:59,420 --> 00:02:03,660
 ...mi destino sigue siendo el mismo.
 
-31
+32
 00:02:03,780 --> 00:02:06,180
 No puedo estar quieto, no puedo detenerme.
 
-32
+33
 00:02:06,340 --> 00:02:10,620
 El sol de mi corazón jamás se pondrá.
 
-33
+34
 00:02:10,700 --> 00:02:17,540
 Uno, dos, rayo de sol. Uno, dos, rayo de sol.
 
-34
+35
 00:02:18,820 --> 00:02:24,820
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-35
+36
 00:02:27,300 --> 00:02:29,900
 ¡Vamos!
 
-36
+37
 00:06:21,740 --> 00:06:26,900
 ¡Akkamanbo! ¡Sí! ¡Sí!
 
-37
+38
 00:06:27,990 --> 00:06:30,060
 Hola, ¿quién es?
 
-38
+39
 00:06:31,160 --> 00:06:32,500
 ¡Oye! ¡No contestes!
 
-39
+40
 00:06:32,500 --> 00:06:34,530
 ¡Príncipe Fukaboshi!
 
-40
+41
 00:06:34,530 --> 00:06:35,830
 ¡Ayúdenos!
 
-41
+42
 00:06:35,830 --> 00:06:37,410
 ¡Cállense!
 
-42
+43
 00:06:37,410 --> 00:06:39,000
 ¡Príncipe Ryuboshi!
 
-43
+44
 00:06:39,000 --> 00:06:40,980
 ¡Príncipe Manboshi!
 
-44
+45
 00:06:54,620 --> 00:06:59,600
 Solicitamos el descenso del pasadizo 
 y la apertura de las puertas del palacio.
 
-45
+46
 00:07:01,940 --> 00:07:03,440
 ¡No lo haremos!
 
-46
+47
 00:07:03,440 --> 00:07:06,130
 ¡O-Oye! ¡¿Qué estás diciendo?!
 
-47
+48
 00:07:06,130 --> 00:07:08,600
 ¡Explícales el malentendido!
 
-48
+49
 00:07:29,710 --> 00:07:33,940
 ¡Fukaboshi, es el espadachín de los Piratas del Sombrero de Paja que usa el Santoryuu!
 
-49
+50
 00:07:33,940 --> 00:07:35,550
 ¡El Cazador de Piratas, Zori!
 
-50
+51
 00:07:35,550 --> 00:07:36,510
 ¡Es Zoro!
 
-51
+52
 00:07:37,860 --> 00:07:39,220
 ¡¿También tienen a mi padre?!
 
-52
+53
 00:07:45,370 --> 00:07:50,540
 ¡Si quieres que sigan con vida, 
 prepárenlo todo para que podamos zarpar!
 
-53
+54
 00:08:16,820 --> 00:08:18,030
 ¡Pervertido!
 
-54
+55
 00:08:18,030 --> 00:08:20,320
 ¡Al menos también ríete
  del de "mujer escalofriante"!
 
-55
+56
 00:08:29,700 --> 00:08:34,000
 devolverán a los rehenes sanos y salvos!
 
-56
+57
 00:08:35,380 --> 00:08:36,460
 ¡Hermano!
 
-57
+58
 00:08:51,480 --> 00:08:53,360
 Debo decirte algo más, Zoro-kun.
 
-58
+59
 00:09:04,030 --> 00:09:09,580
 Es un mensaje del ex-Shichibukai, el Caballero de los Mares, Jinbe, para Sombrero de Paja Luffy.
 
-59
+60
 00:09:09,580 --> 00:09:16,060
 Me pidió que le dijera dos cosas
  en cuanto ingresara a la isla.
 
-60
+61
 00:17:59,540 --> 00:18:02,940
 Padre, hermanos y todos en el castillo...
 
-61
+62
 00:18:02,940 --> 00:18:04,460
 ¡Espero que me perdonen!
 
-62
+63
 00:18:04,460 --> 00:18:07,100
 ¡Voy a salir sin permiso,
 
-63
+64
 00:18:11,270 --> 00:18:13,620
 pero prometo regresar a tiempo para la cena!
 
-64
+65
 00:19:50,620 --> 00:19:54,060
 HACE UNAS HORAS - DISTRITO GYOJIN [NOAH]
 
-65
+66
 00:19:59,530 --> 00:20:02,900
 ¡Escúchenme, piratas que trabajan para Hody Jones!
 
-66
+67
 00:20:03,710 --> 00:20:10,260
 ¡Son afortunados por poder colaborar
  en un plan que hará historia!
 
-67
+68
 00:20:10,260 --> 00:20:11,900
 ¿Vander Decken?
 
-68
+69
 00:20:11,900 --> 00:20:14,710
 ¿El capitán del Holandés Errante?
 
-69
+70
 00:20:14,710 --> 00:20:17,770
 ¿Del barco fantasma que está maldito?
 
-70
+71
 00:20:19,060 --> 00:20:21,430
 No se preocupen, no soy ningún fantasma,
 
-71
+72
 00:20:21,430 --> 00:20:23,260
 sino un descendiente.
 
-72
+73
 00:20:23,260 --> 00:20:26,150
 Aunque sí que estoy maldito.
 
-73
+74
 00:20:26,150 --> 00:20:28,180
 No puedo nadar a pesar de ser un gyojin.
 
-74
+75
 00:20:28,180 --> 00:20:34,790
 ¡Les mostraré el poder demoníaco que obtuve con la maldición Mato Mato!
 
-75
+76
 00:20:37,020 --> 00:20:41,150
 Tú mismo, humano, da un paso adelante.
 
-76
+77
 00:20:43,260 --> 00:20:45,780
 ¡Hody!
 
-77
+78
 00:20:52,370 --> 00:20:54,300
 ¡¿En serio vas a hacer esto?!
 
-78
+79
 00:20:54,300 --> 00:20:56,860
 ¡Ya basta de tonterías!
 
-79
+80
 00:20:56,860 --> 00:20:59,020
 ¡Es él! ¡Hachi-san!
 
-80
+81
 00:20:59,020 --> 00:20:59,940
 ¡Es Hachi-san!
 
-81
+82
 00:20:59,940 --> 00:21:01,070
 ¡Es Hatchan-san!
 
-82
+83
 00:21:02,490 --> 00:21:03,460
 Hachi-san.
 
-83
+84
 00:21:03,460 --> 00:21:08,030
 ¡Los Energy Steroids destruirán
  sus cuerpos tarde o temprano!
 
-84
+85
 00:21:08,030 --> 00:21:10,990
 ¡¿De qué sirve que los gyojin
  destruyan la Isla Gyojin?!
 
-85
+86
 00:21:10,990 --> 00:21:13,790
 ¡No subestimen al Guerrero de los Mares, Neptune!
 
-86
+87
 00:21:13,790 --> 00:21:17,860
 Hachi-san, ya déjalo.
 
-87
+88
 00:21:17,860 --> 00:21:20,830
 No nos interesa tu opinión.
 
-88
+89
 00:21:20,830 --> 00:21:24,820
 Ya no eres parte de la banda
  que tanto admirábamos.
 
-89
+90
 00:21:24,820 --> 00:21:27,410
 Te has ablandado.
 
-90
+91
 00:21:27,410 --> 00:21:30,100
 Esta era necesita sangre nueva.
 
-91
+92
 00:21:31,980 --> 00:21:39,300
 ¡Para ello, necesitamos la 
 Isla Gyojin y Neptune nos estorba!
 
-92
+93
 00:21:39,300 --> 00:21:43,650
 Fueron ustedes los que nos enseñaron
  que somos la especie suprema.
 
-93
+94
 00:21:44,080 --> 00:21:46,520
 ¡Pero Arlong-san perdió!
 
-94
+95
 00:21:47,300 --> 00:21:50,820
 ¡Decken, Hyouzou! ¡¿Por qué no dicen nada?!
 
-95
+96
 00:21:50,820 --> 00:21:55,140
 ¡Ni siquiera aceptaron la invitación
  de Arlong en su momento!
 
-96
+97
 00:21:55,140 --> 00:21:58,180
 ¡¿Por qué se prestan a estar bajo su mando?!
 
-97
+98
 00:21:59,570 --> 00:22:04,120
 ¿Que por qué? A mí sólo me ha contratado.
 
-98
+99
 00:22:05,390 --> 00:22:10,690
 El dinero manda en estas cosas, Arlong sólo era un pobretón, no podía costear mi sueldo.
 
-99
+100
 00:22:10,690 --> 00:22:16,190
 Qué pena por Arlong, que sólo pudo llevarse a espadachines de segunda como tú.
 
-100
+101
 00:22:17,020 --> 00:22:19,260
 Hachi de la tripulación de Arlong, ¿eh?
 
-101
+102
 00:22:19,260 --> 00:22:21,050
 ¡Eso me trae recuerdos!
 
-102
+103
 00:22:21,050 --> 00:22:26,610
 Ese capitán tuyo quería
  que yo fuera su subordinado.
 
-103
+104
 00:22:26,610 --> 00:22:28,730
 Pero no podía aceptar eso.
 
-104
+105
 00:22:28,730 --> 00:22:32,680
 Yo no sirvo a nadie.
 
-105
+106
 00:22:32,680 --> 00:22:34,820
 Hody lo sabe muy bien.
 
-106
+107
 00:22:36,100 --> 00:22:40,620
 Arlong-san tenía una ambición y 
 una iniciativa digna de admiración.
 
-107
+108
 00:22:46,540 --> 00:22:51,130
 Sin embargo, era demasiado torpe y 
 carecía de la habilidad necesaria.
 
-108
+109
 00:22:51,130 --> 00:22:53,860
 Mientras se dedicaban a sembrar
  el terror por los mares,
 
-109
+110
 00:22:53,860 --> 00:22:58,380
 nosotros sólo éramos niños 
 que soñábamos con ser piratas.
 
-110
+111
 00:22:58,380 --> 00:23:01,640
 Y ahora, ya adultos, lo somos y nos hemos aliado.
 
-111
+112
 00:23:01,640 --> 00:23:05,820
 Contamos con un plan bien diseñado para no cometer los mismos errores.
 
-112
+113
 00:23:07,020 --> 00:23:11,100
 Soy el hombre que porta la 
 voluntad de la tripulación de Arlong.
 
-113
+114
 00:23:11,100 --> 00:23:16,660
 ¿Y ahora tú, un exmiembro de la tripulación que tanto admiraba, me dices que me eche para atrás?
 
-114
+115
 00:23:16,660 --> 00:23:20,250
 ¡Me dejas estupefacto, Hachi-san!
 
-115
+116
 00:23:20,250 --> 00:23:21,940
 Aunque lo más paradójico de todo...
 
-116
+117
 00:23:21,940 --> 00:23:26,690
 ...es que ahora mismo se encuentra por aquí Sombrero de Paja Luffy, quien destrozó todos sus deseos.
 
-117
+118
 00:23:26,690 --> 00:23:29,510
 ¡¿No piensas vengarte?!
 
-118
+119
 00:23:30,040 --> 00:23:34,670
 ¡Me considera su amigo a pesar de haber pertenecido a la tripulación de Arlong!
 
-119
+120
 00:23:34,970 --> 00:23:38,340
 ¡Ustedes tres son mis amigos!
 
-120
+121
 00:23:39,080 --> 00:23:42,570
 ¡Sombrero de Paja Luffy me salvó la vida!
 
-121
+122
 00:23:42,570 --> 00:23:44,220
 ¡Querría ir enseguida a verlo,
 
-122
+123
 00:23:47,140 --> 00:23:52,620
 pero mientras la voluntad de Arlong siga viva, me da hasta vergüenza mirarlos a la cara!
 
-123
+124
 00:23:53,350 --> 00:23:55,980
 ¡¿Consideras a un humano tu amigo?!
 
-124
+125
 00:23:55,980 --> 00:23:57,560
 ¡Qué estupidez!
 
-125
+126
 00:23:57,560 --> 00:24:00,120
 ¡Me has decepcionado por completo!
 
-126
+127
 00:24:01,610 --> 00:24:03,830
 Ya está fijado, Hachi.
 
-127
+128
 00:24:06,840 --> 00:24:09,660
 ¿Acaso has olvidado cómo 
 resolvemos las disputas los piratas?
 
-128
+129
 00:24:09,660 --> 00:24:15,200
 ¡Si tienes algo que decir y quieres tener la razón, debes imponerte por la fuerza!
 
-129
+130
 00:24:15,200 --> 00:24:16,390
 ¡Supongo!
 
-130
+131
 00:24:18,650 --> 00:24:20,460
 ¿Adónde lo lanzó?
 
-131
+132
 00:24:20,460 --> 00:24:25,930
 Desde el momento en que te toqué, 
 te has convertido en mi blanco.
 
-132
+133
 00:24:25,930 --> 00:24:29,190
 Da igual qué objeto lance y adónde lo lance,
 
-133
+134
 00:24:29,190 --> 00:24:32,350
 se portará como si de un ave rapaz se tratara,
 
-134
+135
 00:24:32,350 --> 00:24:37,190
 e irá directamente hacia ti, que eres el objetivo.
 
-135
+136
 00:24:38,260 --> 00:24:41,590
 ¡Ha lanzado el cuchillo al aire...!
 
-136
+137
 00:24:41,590 --> 00:24:42,660
 ¡Pero le ha dado al pulpo!
 
-137
+138
 00:24:44,230 --> 00:24:46,170
 Así funciona la maldición Mato Mato...
 
-138
+139
 00:24:46,720 --> 00:24:50,780
 Desde luego, hay varias formas de evitarlo.
 
-139
+140
 00:24:51,760 --> 00:24:53,050
 ¿Podrás descubrir una?
 
-140
+141
 00:24:54,450 --> 00:24:56,180
 ¡Detente! ¿Qué harás con tantas flechas?
 
-141
+142
 00:24:56,180 --> 00:24:59,550
 Ya sé lo efectiva que es tu habilidad.
 
-142
+143
 00:24:59,550 --> 00:25:02,350
 ¡Oye, Hody, ¿no ves que me va a matar?!
 
-143
+144
 00:25:02,350 --> 00:25:04,950
 ¡No permitas que Decken lo haga!
 
-144
+145
 00:25:04,950 --> 00:25:07,370
 Ya te lo he dicho, Hachi-san.
 
-145
+146
 00:25:07,370 --> 00:25:10,840
 Vander Decken no es mi subordinado.
 
-146
+147
 00:25:10,840 --> 00:25:13,140
 Es un pirata aliado, estamos al mismo nivel.
 
-147
+148
 00:25:13,850 --> 00:25:18,760
 Y, además, sólo eres una maldita molestia.
 
-148
+149
 00:25:18,760 --> 00:25:20,220
 ¡Cobarde asqueroso!
 
-149
+150
 00:25:20,810 --> 00:25:21,580
 ¡Mierda!
 
-150
+151
 00:25:22,660 --> 00:25:26,380
 ¡Adelante! ¡Tras él!
 
-151
+152
 00:25:30,830 --> 00:25:33,900
 ¡Sigue así, corriendo!
 
-152
+153
 00:25:33,900 --> 00:25:35,350
 Vayas adonde vayas...
 
-153
+154
 00:25:35,990 --> 00:25:39,260
 Vayas adonde vayas...
 
-154
+155
 00:25:39,260 --> 00:25:42,060
 ¡Vayas adonde vayas, te perseguirán sin descanso!
 
-155
+156
 00:25:44,030 --> 00:25:45,900
 Si tan sólo pudiera salir de aquí.
 
-156
+157
 00:25:51,090 --> 00:25:53,190
 ¡Bien, ahora podré escapar!
 
-157
+158
 00:25:53,190 --> 00:25:54,870
 Esas flechas no podrán seguirme en el agua.
 
-158
+159
 00:25:57,790 --> 00:26:00,580
 ¡Rayos! ¡¿El agua no las detiene?!
 
-159
+160
 00:26:00,580 --> 00:26:02,140
 ¡Aléjense!
 
-160
+161
 00:26:20,380 --> 00:26:24,510
 Puedo mantener tantos blancos 
 como palmas tengo.
 
-161
+162
 00:26:24,510 --> 00:26:25,540
 Dos.
 
-162
+163
 00:26:26,270 --> 00:26:29,990
 ¡No me he lavado esta
  mano derecha en diez años,
 
-163
+164
 00:26:29,990 --> 00:26:36,310
 mantengo el recuerdo del tacto de cuando toqué a la Princesa del Palacio Ryugu, Shirahoshi!
 
-164
+165
 00:26:36,310 --> 00:26:40,500
 ¡¿Entienden?! ¡Tanto mi sentimiento
  de amor como las armas...
 
-165
+166
 00:26:40,500 --> 00:26:44,110
 ...perseguirán a su objetivo hasta el mismísimo Infierno!
 
-166
+167
 00:26:44,110 --> 00:26:46,260
 ¡Ese es mi temible poder!
 
-167
+168
 00:26:46,460 --> 00:26:47,220
 ¡Increíble!
 
-168
+169
 00:26:47,220 --> 00:26:51,910
 ¡De esa manera has estado acosando 
 a la princesa todos estos años...
 
-169
+170
 00:26:51,910 --> 00:26:55,420
 ...sin que el ejército de Neptune te apresara jamás!
 
-170
+171
 00:26:55,420 --> 00:26:56,870
 ¡Así es!
 
-171
+172
 00:26:56,870 --> 00:26:58,720
 ¡Qué hombre más astuto!
 
-172
+173
 00:26:58,720 --> 00:27:03,900
 ¡Astuto! ¡Astuto!
 
-173
+174
 00:27:01,020 --> 00:27:03,900
 Bueno, piratas humanos.
 
-174
+175
 00:27:03,900 --> 00:27:07,540
 Ya han visto de lo que es capaz Decken, ¿no?
 
-175
+176
 00:27:07,540 --> 00:27:10,900
 Así que ahora pasamos a la primera fase del plan.
 
-176
+177
 00:27:14,850 --> 00:27:18,370
 Dicen que el Palacio Ryugu es impenetrable,
 
-177
+178
 00:27:20,820 --> 00:27:26,180
 pero, durante diez años, él ha 
 conseguido lanzar cosas en su interior.
 
-178
+179
 00:27:26,180 --> 00:27:28,500
 Así de temible es Vander Decken.
 
-179
+180
 00:27:32,180 --> 00:27:38,460
 Esta vez, ustedes serán los objetos que Decken lance...
 
-180
+181
 00:27:40,270 --> 00:27:43,260
 ...y saldrán volando directamente hacia la Princesa Sirena, en el Palacio Ryugu.
 
-181
+182
 00:27:44,180 --> 00:27:49,170
 Bueno, en realidad chocarán 
 contra el muro de la torre.
 
-182
+183
 00:27:51,880 --> 00:27:55,980
 Una vez que estén en el Palacio Ryugu, nos abrirán la puerta desde adentro...
 
-183
+184
 00:27:55,980 --> 00:27:59,890
 ...y nos dejarán entrar, esa es su misión.
 
-184
+185
 00:28:00,580 --> 00:28:03,120
 ¿Cómo? Pero entonces...
 
-185
+186
 00:28:03,120 --> 00:28:06,020
 ¡Moriremos tras impactar contra el muro!
 
-186
+187
 00:28:06,610 --> 00:28:07,660
 Mala suerte.
 
-187
+188
 00:28:07,660 --> 00:28:12,260
 ¡Están aquí para que los usemos, humanos, 
 sus vidas son las que valen menos!
 
-188
+189
 00:28:12,260 --> 00:28:17,140
 ¡No olviden que son inferiores a los esclavos!
 
-189
+190
 00:28:17,140 --> 00:28:20,740
 ¡Quien sobreviva y cumpla la misión,
 
-190
+191
 00:28:20,740 --> 00:28:24,060
 será un hombre libre!
 
-191
+192
 00:28:24,060 --> 00:28:25,940
 ¡Si no quieren someterse,
 
-192
+193
 00:28:25,940 --> 00:28:30,980
 los lanzaremos ahora mismo 
 fuera de la burbuja, malditas sabandijas!
 
-193
+194
 00:28:30,980 --> 00:28:35,780
 ¡N-No puede ser! ¡Si lo haces, nos ahogaremos!
 
-194
+195
 00:28:35,780 --> 00:28:41,740
 ¡En ese caso, deberán elegir la opción en la que al menos tengan una mínima probabilidad de sobrevivir!
 
-195
+196
 00:28:42,300 --> 00:28:43,560
 ¡Adelante!
 
-196
+197
 00:28:50,330 --> 00:28:51,860
 ¡Hoy...
 
-197
+198
 00:28:51,860 --> 00:28:55,820
 ...comienza un nuevo capítulo 
 en la historia de los gyojin!
 
-198
+199
 00:28:57,650 --> 00:29:01,140
 ¡Y empezará en cuanto nos 
 apoderemos del Reino Ryugu!
-
-199
-00:29:01,140 --> 00:29:02,920
-¡Sí!
 
 200
 00:29:01,140 --> 00:29:02,920
 ¡Sí!
 
 201
+00:29:01,140 --> 00:29:02,920
+¡Sí!
+
+202
 00:29:04,940 --> 00:29:07,780
 ¡Allá voy, Shirahoshi!
 
-202
+203
 00:29:13,020 --> 00:29:17,580
 NOROESTE DEL PALACIO RYUGU
 
-203
+204
 00:29:13,020 --> 00:29:17,580
 CORREDOR HACIA LA TORRE KOUKAKU
 
-204
+205
 00:29:13,790 --> 00:29:16,430
 Y ahora regresamos al presente.
 
-205
+206
 00:33:09,980 --> 00:33:14,900
 PROFUNDIDADES DEL MAR - BOSQUE MARINO
-

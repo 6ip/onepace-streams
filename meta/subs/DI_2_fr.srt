@@ -1,173 +1,173 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:54,220 --> 00:01:55,370
 Vivi !
 
-2
+3
 00:01:57,800 --> 00:01:59,640
 Bande d'ordures !
 
-3
+4
 00:02:00,430 --> 00:02:02,560
 En joue !
 
-4
+5
 00:02:09,350 --> 00:02:10,650
 Non, arrête !
 
-5
+6
 00:02:10,850 --> 00:02:12,720
 Se battre n'arrangera rien !
 
-6
+7
 00:02:12,970 --> 00:02:15,840
 Je vais bien...
 La balle a juste éraflé mon bras !
 
-7
+8
 00:02:18,650 --> 00:02:23,140
 Entendu ! Nous ne débarquerons pas.
 Mais faites venir un médecin !
 
-8
+9
 00:02:23,560 --> 00:02:27,710
 Notre amie est gravement malade.
 Aidez-nous, s'il vous plaît.
 
-9
+10
 00:02:29,200 --> 00:02:30,170
 Vivi...
 
-10
+11
 00:02:30,560 --> 00:02:33,630
 Ta conduite est indigne
 d'un capitaine, Luffy.
 
-11
+12
 00:02:33,880 --> 00:02:37,210
 Foncer tête baissée
 n'est pas toujours la solution.
 
-12
+13
 00:02:40,350 --> 00:02:44,450
 Si nous nous battons contre eux,
 qu'adviendra-t-il de Nami ?
 
-13
+14
 00:02:53,200 --> 00:02:56,130
 Oui, pardon.
 J'ai eu tort de réagir ainsi.
 
-14
+15
 00:02:56,550 --> 00:02:58,240
 S'il vous plaît, appelez un médecin.
 
-15
+16
 00:02:58,770 --> 00:03:01,530
 Aidez-nous à sauver notre amie.
 
-16
+17
 00:03:12,220 --> 00:03:14,160
 Nous allons vous conduire au village.
 
-17
+18
 00:03:15,250 --> 00:03:16,500
 Suivez-nous !
 
-18
+19
 00:03:24,240 --> 00:03:26,110
 Tu vois, ils nous ont écoutés.
 
-19
+20
 00:03:26,110 --> 00:03:28,350
 Ouais.
 T'es drôlement fortiche !
 
-20
+21
 00:03:40,720 --> 00:03:42,460
 Je dois vous prévenir,
 
-21
+22
 00:03:42,620 --> 00:03:45,200
 le seul médecin que nous ayons,
 c'est la sorcière.
 
-22
+23
 00:03:46,460 --> 00:03:47,330
 Une sorcière ?
 
-23
+24
 00:03:47,330 --> 00:03:50,600
 C'est quoi, cette histoire ?
 Encore un pays de dingues !
 
-24
+25
 00:03:50,780 --> 00:03:53,210
 À propos,
  comment s'appelle votre pays ?
 
-25
+26
 00:03:55,300 --> 00:03:57,550
 Ce pays n'a pas encore de nom.
 
-26
+27
 00:03:58,310 --> 00:03:59,590
 Un pays sans nom ?
 
-27
+28
 00:04:00,000 --> 00:04:01,970
 C'est possible, une chose pareille ?
 
-28
+29
 00:04:05,450 --> 00:04:07,050
 Un ours !
 
-29
+30
 00:04:07,300 --> 00:04:09,890
 Vite, couchez-vous !
 Il faut faire les morts.
 
-30
+31
 00:04:11,720 --> 00:04:14,150
 C'est un ours randonneur.
 Il est inoffensif.
 
-31
+32
 00:04:14,510 --> 00:04:17,230
 N'oubliez pas de le saluer.
 C'est la coutume, en montagne !
 
-32
+33
 00:04:22,730 --> 00:04:24,320
 Super, c'est cicatrisé !
 
-33
+34
 00:04:25,410 --> 00:04:26,450
 T'as vu ça ?
 
-34
+35
 00:04:28,650 --> 00:04:31,680
 Je vais enfin pouvoir reprendre
 un entraînement normal !
 
-35
+36
 00:04:31,950 --> 00:04:35,350
 Je commençais à en avoir marre,
 de soulever des haltères ridicules.
 
-36
+37
 00:04:35,530 --> 00:04:38,000
 Surtout que c'est barbant,
 de garder un bateau.
 
-37
+38
 00:04:39,870 --> 00:04:43,570
 Pour se vider l'esprit,
 rien de tel qu'un bon bain glacé.
-
-38
-00:04:46,870 --> 00:04:52,760
-Bighorn
-Ville de neige
 
 39
 00:04:46,870 --> 00:04:52,760
@@ -175,136 +175,136 @@ Bighorn
 Ville de neige
 
 40
+00:04:46,870 --> 00:04:52,760
+Bighorn
+Ville de neige
+
+41
 00:04:48,710 --> 00:04:52,000
 Nous y sommes.
 Voici notre village : Bighorn.
 
-41
+42
 00:04:53,210 --> 00:04:55,480
 Y a de drôles de bêtes qui se promènent.
 
-42
+43
 00:04:55,660 --> 00:04:57,550
 C'est pas un pays des neiges pour rien.
 
-43
+44
 00:04:57,770 --> 00:05:01,480
 Nami, on y est.
 On a rejoint un village habité.
 
-44
+45
 00:05:02,620 --> 00:05:04,440
 Bon, merci à tous.
 
-45
+46
 00:05:05,260 --> 00:05:07,740
 Si vous n'êtes pas de garde,
 retournez travailler !
 
-46
+47
 00:05:08,160 --> 00:05:12,000
 Ça ira, tout seul, Dolton ?
 Ce sont des pirates, tout de même.
 
-47
+48
 00:05:12,330 --> 00:05:14,620
 Je ne les crois pas dangereux.
 
-48
+49
 00:05:14,920 --> 00:05:17,300
 Faites confiance
 à ma longue expérience !
 
-49
+50
 00:05:17,450 --> 00:05:18,460
 Dolton...
 
-50
+51
 00:05:19,000 --> 00:05:21,210
 Si c'est Dolton qui le dit...
 
-51
+52
 00:05:21,370 --> 00:05:24,170
 Ils n'ont pas l'air méchants.
 
-52
+53
 00:05:22,820 --> 00:05:24,170
 Ça devrait aller.
 
-53
+54
 00:05:24,830 --> 00:05:27,220
 Très bien, Dolton.
 On te laisse t'occuper de ça.
 
-54
+55
 00:05:27,370 --> 00:05:29,210
 Sois prudent, quand même !
 
-55
+56
 00:05:29,510 --> 00:05:31,640
 En cas de pépin, appelle-nous !
 
-56
+57
 00:05:34,420 --> 00:05:37,850
 – Ce ne sont pas des militaires ?
 – Non, ce sont des civils.
 
-57
+58
 00:05:38,000 --> 00:05:39,860
 Venez ! 
 Je vous conduis chez moi.
 
-58
+59
 00:05:41,560 --> 00:05:44,210
 Regarde, Luffy !
 Un ours randonneur !
 
-59
+60
 00:05:44,210 --> 00:05:45,030
 Encore ?
 
-60
+61
 00:05:45,170 --> 00:05:46,720
 – Dolton !
 – Salutations.
 
-61
+62
 00:05:46,860 --> 00:05:49,940
 Il paraît que des pirates ont accosté.
 Tout va bien ?
 
-62
+63
 00:05:50,000 --> 00:05:53,170
 Oui, tout est sous contrôle.
 Ne vous inquiétez surtout pas !
 
-63
+64
 00:05:54,950 --> 00:05:58,670
 Bonjour, mon petit Dolton.
 Vivement les élections d'après-demain !
 
-64
+65
 00:05:59,110 --> 00:06:01,630
 On va tous voter pour toi,
 tu sais ?
 
-65
+66
 00:06:01,870 --> 00:06:06,300
 Je n'en suis pas digne. Vraiment !
 
-66
+67
 00:06:12,860 --> 00:06:16,060
 Vous pouvez l'allonger sur ce lit.
 Je vais faire un feu.
 
-67
+68
 00:06:19,910 --> 00:06:21,310
 Je ne me suis pas encore présenté.
-
-68
-00:06:20,000 --> 00:06:24,600
-Capitaine Dolton
-Garnison civile - Île de Drum
 
 69
 00:06:20,000 --> 00:06:24,600
@@ -312,1310 +312,1310 @@ Capitaine Dolton
 Garnison civile - Île de Drum
 
 70
+00:06:20,000 --> 00:06:24,600
+Capitaine Dolton
+Garnison civile - Île de Drum
+
+71
 00:06:21,460 --> 00:06:24,610
 Je me nomme Dolton, capitaine de la garde.
 
-71
+72
 00:06:25,730 --> 00:06:28,070
 Pardonnez-nous
 notre accueil un peu brutal !
 
-72
+73
 00:06:28,910 --> 00:06:30,870
 Puis-je te poser une question ?
 
-73
+74
 00:06:32,760 --> 00:06:36,160
 J'ai l'impression
 de t'avoir déjà vue quelque part.
 
-74
+75
 00:06:36,990 --> 00:06:39,120
 Vous... Vous devez faire erreur.
 
-75
+76
 00:06:39,560 --> 00:06:42,050
 Parlez-nous plutôt
 de cette fameuse sorcière !
 
-76
+77
 00:06:42,200 --> 00:06:46,000
 Tout à l'heure,
 Nami avait 42° C de fièvre.
 
-77
+78
 00:06:46,760 --> 00:06:48,770
 42° C ?
 
-78
+79
 00:06:48,910 --> 00:06:51,640
 Voilà trois jours
 que la fièvre ne cesse de grimper.
 
-79
+80
 00:06:51,840 --> 00:06:54,460
 Si ça empire encore,
 elle n'en réchappera pas.
 
-80
+81
 00:06:54,610 --> 00:06:55,430
 Oui.
 
-81
+82
 00:06:55,800 --> 00:06:56,610
 Malheureusement,
 
-82
+83
 00:06:56,760 --> 00:07:00,230
 nous ignorons de quoi elle souffre,
 et donc comment la soigner.
 
-83
+84
 00:07:00,480 --> 00:07:02,660
 Il nous faut un médecin,
 point barre.
 
-84
+85
 00:07:02,860 --> 00:07:05,190
 Où est-ce qu'on la trouve,
 cette sorcière ?
 
-85
+86
 00:07:05,350 --> 00:07:08,940
 La sorcière...
 Vous voyez ces montagnes, dehors ?
 
-86
+87
 00:07:09,120 --> 00:07:11,320
 Oui, cette rangée d'énormes...
 
-87
+88
 00:07:12,410 --> 00:07:14,120
 Le Bibendum de neige !
 
-88
+89
 00:07:14,910 --> 00:07:17,080
 Godzineige, le monstre des glaces !
 
-89
+90
 00:07:17,220 --> 00:07:18,320
 Yeah !
 
-90
+91
 00:07:18,440 --> 00:07:20,460
 Je vais vous étriper, tous les deux.
 
-91
+92
 00:07:22,320 --> 00:07:25,130
 Cette chaîne montagneuse a pour nom :
 Drum Rockies.
 
-92
+93
 00:07:25,550 --> 00:07:29,050
 Vous apercevez le château
 au sommet de la plus haute montagne ?
 
-93
+94
 00:07:30,300 --> 00:07:31,220
 Un château ?
 
-94
+95
 00:07:31,420 --> 00:07:34,000
 Un château qui n'a plus de roi.
 
-95
+96
 00:07:32,680 --> 00:07:34,000
 Ça réchauffe !
 
-96
+97
 00:07:34,150 --> 00:07:35,890
 Exact, je le vois...
 
-97
+98
 00:07:36,390 --> 00:07:38,170
 Et qu'a-t-il de spécial ?
 
-98
+99
 00:07:38,280 --> 00:07:41,730
 C'est là qu'habite "la sorcière",
 le seul médecin de l'île.
 
-99
+100
 00:07:42,080 --> 00:07:44,930
 De son vrai nom, le Dr Kureha.
 
-100
+101
 00:07:45,050 --> 00:07:45,820
 Comment ?
 
-101
+102
 00:07:46,440 --> 00:07:49,140
 Quelle idée d'habiter
 dans un endroit aussi reculé !
 
-102
+103
 00:07:49,350 --> 00:07:51,960
 Appelez-la vite !
 C'est une urgence.
 
-103
+104
 00:07:52,100 --> 00:07:54,480
 Désolé,
 il n'y a aucun moyen de la contacter.
 
-104
+105
 00:07:54,580 --> 00:07:55,120
 Hein ?
 
-105
+106
 00:07:55,480 --> 00:07:58,730
 Pratique, pour un médecin !
 C'est quoi, cette bonne femme ?
 
-106
+107
 00:07:58,950 --> 00:08:01,410
 C'est un médecin vraiment hors pair,
 
-107
+108
 00:08:01,720 --> 00:08:03,930
 mais aussi une vieille excentrique.
 
-108
+109
 00:08:04,080 --> 00:08:06,430
 Elle fêtera bientôt ses 140 ans.
 
-109
+110
 00:08:07,200 --> 00:08:09,970
 140 ans ?
 Elle n'est pas encore sénile ?
 
-110
+111
 00:08:10,100 --> 00:08:13,030
 Que dire d'autre...
 Elle raffole des prunes confites.
 
-111
+112
 00:08:13,310 --> 00:08:16,510
 Comment font les gens d'ici,
 quand ils sont blessés ou malades ?
 
-112
+113
 00:08:17,460 --> 00:08:19,890
 Elle descend au village
 lorsque l'envie lui prend.
 
-113
+114
 00:08:20,050 --> 00:08:23,120
 Elle rend alors visite aux malades
 et les soigne.
 
-114
+115
 00:08:23,300 --> 00:08:26,730
 En guise d'honoraires,
 elle dérobe ce qu'elle veut au patient.
 
-115
+116
 00:08:27,050 --> 00:08:29,270
 Sacrée fripouille, cette vieille !
 
-116
+117
 00:08:29,430 --> 00:08:31,490
 Tu m'étonnes !
 On dirait une pirate !
 
-117
+118
 00:08:31,850 --> 00:08:35,110
 Comment fait-elle pour descendre,
 à son âge ?
 
-118
+119
 00:08:35,770 --> 00:08:37,580
 Une étrange rumeur circule...
 
-119
+120
 00:08:38,060 --> 00:08:40,900
 Certains l'auraient vue,
 par une nuit de pleine lune,
 
-120
+121
 00:08:41,100 --> 00:08:45,370
 descendre du ciel à bord d'un traîneau.
 
-121
+122
 00:08:47,870 --> 00:08:50,840
 C'est de là que lui vient
 son surnom de sorcière.
 
-122
+123
 00:08:51,310 --> 00:08:54,240
 Par ailleurs,
 d'autres disent l'avoir aperçue
 
-123
+124
 00:08:54,410 --> 00:08:56,540
 en compagnie d'une mystérieuse créature.
 
-124
+125
 00:08:56,840 --> 00:09:01,560
 Raah ! Je le savais.
 Je vous avais prévenus. C'est le yéti !
 
-125
+126
 00:09:01,710 --> 00:09:03,430
 J'étais sûr qu'il existait.
 
-126
+127
 00:09:03,630 --> 00:09:08,110
 Et en plus, y a une sorcière avec !
 Pourvu que je ne croise pas leur route.
 
-127
+128
 00:09:08,410 --> 00:09:10,860
 Elle a beau être
 l'unique médecin de l'île,
 
-128
+129
 00:09:11,160 --> 00:09:13,830
 personne ici
 ne tient à avoir affaire à elle.
 
-129
+130
 00:09:14,410 --> 00:09:17,670
 Tout ce qu'il vous reste à faire,
 c'est attendre sa prochaine venue.
 
-130
+131
 00:09:17,830 --> 00:09:18,740
 Vous plaisantez...
 
-131
+132
 00:09:19,070 --> 00:09:22,180
 Maudite toubib,
 on peut pas attendre si longtemps.
 
-132
+133
 00:09:22,410 --> 00:09:24,240
 Les heures de Nami sont comptées !
 
-133
+134
 00:09:24,470 --> 00:09:27,080
 Hé, Nami !
 Nami, tu m'entends ?
 
-134
+135
 00:09:27,680 --> 00:09:29,750
 Ça va pas ?
 Qu'est-ce que tu fais à Nami ?
 
-135
+136
 00:09:32,370 --> 00:09:34,340
 Oh, elle s'est réveillée !
 
-136
+137
 00:09:34,930 --> 00:09:37,880
 Écoute ! Le seul médecin
 vit au sommet d'une montagne.
 
-137
+138
 00:09:38,050 --> 00:09:39,450
 Va falloir grimper !
 
-138
+139
 00:09:39,990 --> 00:09:43,330
 T'as perdu la tête ?
 Tu vas pas l'obliger à grimper ?
 
-139
+140
 00:09:43,470 --> 00:09:44,930
 Ça ira, je la porterai.
 
-140
+141
 00:09:45,150 --> 00:09:47,440
 Ça ne fera qu'aggraver son état.
 
-141
+142
 00:09:47,610 --> 00:09:50,210
 Faudrait savoir...
 Je croyais que le temps pressait.
 
-142
+143
 00:09:50,450 --> 00:09:52,410
 Oui. Mais là,
 tu veux tenter l'impossible.
 
-143
+144
 00:09:52,410 --> 00:09:54,440
 Regarde comme c'est raide !
 
-144
+145
 00:09:54,640 --> 00:09:56,520
 – C'est jouable.
 – Pour toi, peut-être,
 
-145
+146
 00:09:56,680 --> 00:09:58,630
 mais Nami, elle, est bien trop faible.
 
-146
+147
 00:09:58,770 --> 00:10:01,990
 Mais tu sais ? Si on tombe,
 la neige amortira notre chute.
 
-147
+148
 00:10:02,110 --> 00:10:05,330
 En bonne santé ou pas,
 la moindre chute sera fatale.
 
-148
+149
 00:10:05,450 --> 00:10:10,110
 Écoute, Nami est six degrés
 au-dessus de la normale.
 
-149
+150
 00:10:10,270 --> 00:10:11,990
 Tu comprends ce que ça signifie ?
 
-150
+151
 00:10:18,030 --> 00:10:20,550
 Je dois vite... guérir.
 
-151
+152
 00:10:23,250 --> 00:10:25,720
 Il le faut...  pour Vivi...
 
-152
+153
 00:10:30,290 --> 00:10:32,190
 Je m'en remets à toi, capitaine.
 
-153
+154
 00:10:37,150 --> 00:10:39,950
 J'en attendais pas moins de toi !
 Compte sur moi !
 
-154
+155
 00:10:42,020 --> 00:10:43,770
 Pincez-moi ! Je rêve.
 
-155
+156
 00:10:43,770 --> 00:10:46,460
 À capitaine cinglé,
 navigatrice tout aussi cinglée.
 
-156
+157
 00:10:46,460 --> 00:10:48,650
 Es-tu consciente de ton état, Nami ?
 
-157
+158
 00:10:48,780 --> 00:10:51,610
 Tu es sûre que ça ira ?
 La marche va prendre des heures.
 
-158
+159
 00:10:51,610 --> 00:10:53,510
 M'sieur !
 Je peux avoir de la viande ?
 
-159
+160
 00:10:53,650 --> 00:10:54,500
 De la viande ?
 
-160
+161
 00:10:56,000 --> 00:10:57,300
 OK, je viens aussi !
 
-161
+162
 00:10:57,600 --> 00:10:58,760
 Écoute bien, Luffy !
 
-162
+163
 00:10:59,000 --> 00:11:02,360
 Une seule chute
 et Nami est morte. Tu piges ?
 
-163
+164
 00:11:02,470 --> 00:11:04,250
 Hein ? Rien qu'une seule ?
 
-164
+165
 00:11:04,250 --> 00:11:07,600
 Ne bouge pas !
 Je vais vous attacher l'un à l'autre.
 
-165
+166
 00:11:09,000 --> 00:11:10,210
 Voilà. Ça ira comme ça.
 
-166
+167
 00:11:10,360 --> 00:11:14,410
 Si vous permettez, j'attendrai ici.
 Je ne veux pas vous ralentir.
 
-167
+168
 00:11:14,540 --> 00:11:15,270
 Pareil pour moi !
 
-168
+169
 00:11:15,450 --> 00:11:16,360
 OK !
 
-169
+170
 00:11:17,180 --> 00:11:19,820
 On y va, Nami.
 Surtout, accroche-toi bien !
 
-170
+171
 00:11:19,990 --> 00:11:21,280
 Oui...
 
-171
+172
 00:11:22,150 --> 00:11:23,820
 Puisque vous semblez décidés,
 
-172
+173
 00:11:24,110 --> 00:11:25,530
 je ne vous retiendrai pas.
 
-173
+174
 00:11:25,770 --> 00:11:28,250
 Mais au moins,
 passez par l'autre versant !
 
-174
+175
 00:11:28,440 --> 00:11:30,790
 Sinon, vous tomberez
 sur les lapins des neiges.
 
-175
+176
 00:11:31,340 --> 00:11:33,510
 Ce sont des lapins carnivores
 très féroces.
 
-176
+177
 00:11:33,750 --> 00:11:36,500
 Tomber sur une meute
 vous coûterait la vie.
 
-177
+178
 00:11:36,950 --> 00:11:39,340
 Des lapins ?
 Mais on est pressés, nous.
 
-178
+179
 00:11:39,520 --> 00:11:41,130
 Ça devrait aller. Pas vrai ?
 
-179
+180
 00:11:41,280 --> 00:11:42,770
 Ouais ! Je les dégommerai.
 
-180
+181
 00:11:42,940 --> 00:11:46,160
 Les dégommer ? Vous êtes fous !
 C'est signer votre arrêt de mort.
 
-181
+182
 00:11:46,310 --> 00:11:47,370
 Ça ira.
 
-182
+183
 00:11:47,510 --> 00:11:50,330
 Allez, en route, Sanji !
 Avant que Nami n'y reste.
 
-183
+184
 00:11:51,190 --> 00:11:54,400
 Dis pas des trucs pareils !
 Ça porte malheur, abruti.
 
-184
+185
 00:11:57,770 --> 00:11:59,390
 Vous croyez qu'ils y arriveront ?
 
-185
+186
 00:11:59,590 --> 00:12:02,410
 Pour ces deux-là,
 y a vraiment pas à s'en faire.
 
-186
+187
 00:12:02,810 --> 00:12:06,450
 Le souci, c'est de savoir si Nami
 est assez robuste pour ce voyage.
 
-187
+188
 00:12:06,610 --> 00:12:08,370
 Pourvu qu'elle tienne le coup !
 
-188
+189
 00:12:20,310 --> 00:12:21,840
 Qu'attendez-vous ?
 
-189
+190
 00:12:22,080 --> 00:12:24,390
 Entrez vite !
 Vous allez prendre froid.
 
-190
+191
 00:12:24,720 --> 00:12:27,810
 Merci, ça ira.
 Je préfère rester dehors.
 
-191
+192
 00:12:27,970 --> 00:12:28,850
 M... Moi aussi...
 
-192
+193
 00:12:34,880 --> 00:12:36,310
 Je vois...
 
-193
+194
 00:12:41,900 --> 00:12:43,820
 Alors, je vous tiendrai compagnie.
 
-194
+195
 00:12:55,200 --> 00:12:58,120
 Vous savez... Autrefois,
 nous en avions beaucoup.
 
-195
+196
 00:12:59,000 --> 00:13:00,300
 Des médecins.
 
-196
+197
 00:13:00,600 --> 00:13:03,590
 Hélas, ils ont quitté l'île.
 
-197
+198
 00:13:05,310 --> 00:13:10,070
 Il y a quelques mois,
 notre île a été mise à feu et à sang.
 
-198
+199
 00:13:10,220 --> 00:13:11,730
 Par des pirates...
 
-199
+200
 00:13:11,970 --> 00:13:13,890
 – Hein ?
 – Cette île ?
 
-200
+201
 00:13:15,830 --> 00:13:18,650
 Cela explique votre méfiance
 à notre égard.
 
-201
+202
 00:13:18,810 --> 00:13:19,820
 Oui.
 
-202
+203
 00:13:20,000 --> 00:13:24,040
 La simple évocation du mot "pirate"
 réveille une terrible douleur en nous.
 
-203
+204
 00:13:24,190 --> 00:13:26,200
 Je suis désolé pour cet accueil.
 
-204
+205
 00:13:27,320 --> 00:13:29,830
 Mais, eux aussi n'étaient que cinq.
 
-205
+206
 00:13:30,130 --> 00:13:32,250
 Leur capitaine s'appelait Barbe Noire.
 
-206
+207
 00:13:32,450 --> 00:13:34,220
 Totalement impuissants,
 
-207
+208
 00:13:34,380 --> 00:13:36,960
 nous avons vu notre île
 être dévastée en un clin d'œil.
 
-208
+209
 00:13:38,810 --> 00:13:41,900
 Seulement cinq ?
 Vous plaisantez, c'est ça ?
 
-209
+210
 00:13:42,050 --> 00:13:43,210
 Barbe Noire...
 
-210
+211
 00:13:43,650 --> 00:13:47,330
 Certains pensent, néanmoins,
 que cette attaque a été une chance.
 
-211
+212
 00:13:47,470 --> 00:13:49,890
 Quelle chance ?
 Ces pirates ont tout détruit !
 
-212
+213
 00:13:49,890 --> 00:13:52,600
 C'est vrai, ça !
 C'est totalement absurde.
 
-213
+214
 00:13:54,190 --> 00:13:55,220
 Merci.
 
-214
+215
 00:13:56,310 --> 00:13:58,140
 Mais il faut savoir une chose.
 
-215
+216
 00:13:58,440 --> 00:14:02,860
 Avant cette attaque,
 le peuple vivait sous la tyrannie.
 
-216
+217
 00:14:03,650 --> 00:14:06,630
 L'île s'appelait alors :
 le royaume de Drum.
 
-217
+218
 00:14:06,960 --> 00:14:09,330
 Il avait à sa tête le roi Wapol,
 
-218
+219
 00:14:09,900 --> 00:14:11,990
 le plus abject des souverains.
 
-219
+220
 00:14:16,610 --> 00:14:19,330
 Mais bien sûr !
 Cet homme, je m'en souviens.
 
-220
+221
 00:14:19,610 --> 00:14:21,170
 Wapol !
 
-221
+222
 00:14:28,930 --> 00:14:32,050
 Ça s'est drôlement rafraîchi
 avec ce vent glacial.
 
-222
+223
 00:14:32,310 --> 00:14:34,990
 Quelle idée,
 de marcher en sandales aussi !
 
-223
+224
 00:14:35,130 --> 00:14:36,520
 J'ai mal pour toi !
 
-224
+225
 00:14:36,710 --> 00:14:38,350
 C'est une question de "prinsèpe".
 
-225
+226
 00:14:38,510 --> 00:14:40,900
 "Prinsèpe" ?
 Tu veux dire "principe", c'est ça ?
 
-226
+227
 00:14:41,040 --> 00:14:42,650
 C'est pareil, voyons !
 
-227
+228
 00:14:44,210 --> 00:14:45,840
 Dis, tu savais ça ?
 
-228
+229
 00:14:45,950 --> 00:14:48,200
 Les habitants des pays enneigés
 dorment jamais.
 
-229
+230
 00:14:48,350 --> 00:14:49,660
 Ah bon ? Pourquoi ça ?
 
-230
+231
 00:14:49,810 --> 00:14:51,570
 Bah, pour pas finir congelés !
 
-231
+232
 00:14:52,000 --> 00:14:54,440
 N'importe quoi !
 On peut pas vivre sans dormir.
 
-232
+233
 00:14:54,610 --> 00:14:57,380
 Mais si, je te jure !
 C'est quelqu'un qui me l'a dit.
 
-233
+234
 00:14:59,670 --> 00:15:00,650
 Qui ça ? Usopp ?
 
-234
+235
 00:15:00,790 --> 00:15:03,000
 Non, quelqu'un à la taverne
 de mon village !
 
-235
+236
 00:15:04,740 --> 00:15:08,550
 Tu m'expliques alors,
 pourquoi il y avait un lit chez Dolton ?
 
-236
+237
 00:15:09,720 --> 00:15:11,210
 C'est vrai, ça...
 
-237
+238
 00:15:11,410 --> 00:15:13,880
 Bah, ça doit être
 pour le jour où il mourra.
 
-238
+239
 00:15:16,270 --> 00:15:18,270
 C'est carrément grotesque !
 
-239
+240
 00:15:19,790 --> 00:15:22,240
 Et toi, tu savais ça ?
 
-240
+241
 00:15:22,440 --> 00:15:25,610
 Les femmes des pays enneigés
 ont toutes la peau douce.
 
-241
+242
 00:15:25,610 --> 00:15:26,610
 Comment ça se fait ?
 
-242
+243
 00:15:26,770 --> 00:15:28,220
 C'est évident, voyons !
 
-243
+244
 00:15:28,360 --> 00:15:31,610
 Quand on a froid,
 on se frotte la peau pour se réchauffer.
 
-244
+245
 00:15:31,740 --> 00:15:34,160
 C'est grâce à ça
 qu'elles ont la peau si douce.
 
-245
+246
 00:15:34,380 --> 00:15:36,930
 Une peau soyeuse
 et d'une blancheur étincelante,
 
-246
+247
 00:15:37,070 --> 00:15:39,570
 c'est ce qui fait
 la beauté de ces femmes !
 
-247
+248
 00:15:39,770 --> 00:15:41,870
 Et comment elles font
 pour avoir le teint si blanc ?
 
-248
+249
 00:15:41,990 --> 00:15:45,630
 Eh bien, c'est très simple.
 C'est grâce à toute la neige qui tombe
 
-249
+250
 00:15:45,630 --> 00:15:47,430
 et qui pénètre leur épiderme.
 
-250
+251
 00:15:47,430 --> 00:15:49,770
 Eh bah...
 Tu gobes n'importe quoi, toi.
 
-251
+252
 00:15:49,920 --> 00:15:51,970
 T'es bien placé pour parler, abruti !
 
-252
+253
 00:15:51,970 --> 00:15:52,720
 Et l'autre, là...
 
-253
+254
 00:15:53,870 --> 00:15:56,000
 Il commence à me gonfler grave !
 
-254
+255
 00:15:56,140 --> 00:15:57,930
 C'est quoi, cette bestiole ?
 
-255
+256
 00:16:01,260 --> 00:16:06,510
 Tiens bon, Nami.
 Nous serons bientôt chez le médecin.
 
-256
+257
 00:16:07,170 --> 00:16:09,540
 La neige est plus épaisse, par ici.
 
-257
+258
 00:16:09,540 --> 00:16:10,690
 Hé, Luffy !
 
-258
+259
 00:16:10,850 --> 00:16:12,450
 Avance un peu plus en douceur !
 
-259
+260
 00:16:12,600 --> 00:16:14,590
 Chaque secousse se répercute sur Nami.
 
-260
+261
 00:16:20,540 --> 00:16:22,100
 C'est quoi, ces machins ?
 
-261
+262
 00:16:22,250 --> 00:16:25,430
 Blancs et énormes.
 Des ours polaires, c'est sûr !
 
-262
+263
 00:16:26,120 --> 00:16:27,550
 Vous deux.
 
-263
+264
 00:16:28,310 --> 00:16:29,730
 Vous connaissez Wapol ?
 
-264
+265
 00:16:29,990 --> 00:16:31,650
 Un peu, qu'on le connaît !
 
-265
+266
 00:16:31,790 --> 00:16:35,230
 Ce pirate et sa bande
 ont essayé d'attaquer notre bateau.
 
-266
+267
 00:16:35,430 --> 00:16:37,330
 Hélas pour eux, j'étais là...
 
-267
+268
 00:16:37,650 --> 00:16:41,180
 Maintenant que j'y repense,
 ils ont bien parlé du royaume de Drum.
 
-268
+269
 00:16:41,180 --> 00:16:42,080
 Oui.
 
-269
+270
 00:16:42,480 --> 00:16:45,160
 C'était bien lui.
 Ça me revient, maintenant !
 
-270
+271
 00:16:45,410 --> 00:16:50,100
 Lorsque j'étais petite, mon père
 m'avait emmenée au conseil des rois.
 
-271
+272
 00:16:50,250 --> 00:16:52,030
 C'est là-bas que je l'avais vu.
 
-272
+273
 00:16:53,240 --> 00:16:54,820
 Le conseil des rois ?
 
-273
+274
 00:16:55,310 --> 00:16:56,810
 Qui diable êtes-vous ?
 
-274
+275
 00:16:57,020 --> 00:16:59,280
 Euh... Personne...
 
-275
+276
 00:17:00,100 --> 00:17:02,530
 En tout cas,
 nous avons bien croisé Wapol.
 
-276
+277
 00:17:02,900 --> 00:17:05,770
 C'était hier,
 lorsque nous faisions route par ici.
 
-277
+278
 00:17:05,930 --> 00:17:08,290
 Hier ? Vous êtes certains ?
 
-278
+279
 00:17:08,910 --> 00:17:11,540
 Mais dites-moi,
 quelque chose m'échappe.
 
-279
+280
 00:17:11,660 --> 00:17:14,510
 Pourquoi se prétendre pirate
 et non roi ?
 
-280
+281
 00:17:15,050 --> 00:17:17,910
 Cette histoire de pirates
 est un camouflage temporaire.
 
-281
+282
 00:17:18,100 --> 00:17:22,180
 Wapol erre dans les mers alentour
 dans l'espoir de regagner notre île.
 
-282
+283
 00:17:22,380 --> 00:17:26,110
 Alors les hommes à bord de ce navire
 ont dû abandonner l'île
 
-283
+284
 00:17:26,260 --> 00:17:29,480
 après avoir été mis en déroute
 par la bande de Barbe Noire ?
 
-284
+285
 00:17:30,240 --> 00:17:32,900
 "En déroute" ?
 Vous n'y êtes pas du tout.
 
-285
+286
 00:17:33,770 --> 00:17:37,820
 Lors de l'attaque, Wapol
 et ses hommes n'ont pas combattu !
 
-286
+287
 00:17:39,310 --> 00:17:42,620
 Lorsqu'ils ont vu
 à quel point les pirates étaient forts,
 
-287
+288
 00:17:42,770 --> 00:17:44,300
 ils ont abandonné l'île.
 
-288
+289
 00:17:44,500 --> 00:17:48,110
 Wapol fut le premier
 à prendre ses jambes à son cou.
 
-289
+290
 00:17:48,490 --> 00:17:51,550
 La population a alors sombré
 dans un profond désarroi.
 
-290
+291
 00:17:52,000 --> 00:17:53,770
 En voilà, un bon roi...
 
-291
+292
 00:17:53,920 --> 00:17:56,430
 Comment un roi
 peut-il se comporter ainsi ?
 
-292
+293
 00:17:57,130 --> 00:18:01,650
 Quelle conduite abjecte !
 Un roi qui ose abandonner ses sujets...
 
-293
+294
 00:18:03,000 --> 00:18:04,110
 Vivi...
 
-294
+295
 00:18:04,310 --> 00:18:06,000
 Vous avez raison, certes.
 
-295
+296
 00:18:06,340 --> 00:18:09,910
 Mais au moins, à présent,
 la tyrannie de Wapol est terminée.
 
-296
+297
 00:18:10,240 --> 00:18:15,150
 Désormais, le peuple de cette île
 essaie de bâtir une nouvelle nation.
 
-297
+298
 00:18:16,300 --> 00:18:19,700
 Voilà pourquoi
 nous craignons par-dessus tout
 
-298
+299
 00:18:19,840 --> 00:18:23,000
 un retour de Wapol
 et le rétablissement de la monarchie.
 
-299
+300
 00:18:23,230 --> 00:18:26,960
 La situation est encore instable.
 Ce retour serait une catastrophe !
 
-300
+301
 00:18:27,140 --> 00:18:31,110
 Et cela, afin de faire de cette île
 une nation où régnera enfin la paix.
 
-301
+302
 00:18:36,810 --> 00:18:37,760
 Il a bondi !
 
-302
+303
 00:18:43,710 --> 00:18:45,970
 J'hallucine.
 Tu as vu cette agilité ?
 
-303
+304
 00:18:45,970 --> 00:18:48,740
 Un vrai gorille !
 
-304
+305
 00:18:47,100 --> 00:18:48,740
 Non, c'est un ours polaire !
 
-305
+306
 00:18:48,940 --> 00:18:49,980
 C'est un lapin !
 
-306
+307
 00:18:50,100 --> 00:18:52,150
 Tu viens de dire que c'était un gorille.
 
-307
+308
 00:18:52,300 --> 00:18:55,400
 Aucun doute,
 ce sont les lapins dont a parlé Dolton.
 
-308
+309
 00:18:56,790 --> 00:18:59,330
 Hein ?
  Ils sont tant que ça ?
 
-309
+310
 00:19:01,270 --> 00:19:03,000
 Oh !
 
-310
+311
 00:19:04,710 --> 00:19:06,450
 Altesse Wapol !
 
-311
+312
 00:19:06,610 --> 00:19:10,300
 Qu'y a-t-il, Chess ?
 Tu vois le bateau du Chapeau de paille ?
 
-312
+313
 00:19:10,700 --> 00:19:14,290
 Non, Votre Altesse.
 Nous sommes enfin de retour au pays.
 
-313
+314
 00:19:14,550 --> 00:19:15,340
 Comment ?
 
-314
+315
 00:19:15,540 --> 00:19:19,010
 Après ces longs mois
 passés à errer en pleine mer,
 
-315
+316
 00:19:19,280 --> 00:19:22,390
 nous voilà de retour
 sur notre chère île de Drum !
 
-316
+317
 00:19:22,530 --> 00:19:24,430
 Tu en es sûr ?
 
-317
+318
 00:19:29,550 --> 00:19:30,770
 Écoute, Luffy !
 
-318
+319
 00:19:32,070 --> 00:19:36,020
 On doit aller voir ce médecin
 en haut de cette montagne.
 
-319
+320
 00:19:38,940 --> 00:19:40,900
 Tu ne dois
 surtout pas les affronter.
 
-320
+321
 00:19:41,220 --> 00:19:42,210
 Pourquoi ?
 
-321
+322
 00:19:42,320 --> 00:19:45,820
 Crétin ! Si tu te bats
 ou si tu te fais toucher,
 
-322
+323
 00:19:46,000 --> 00:19:49,400
 Nami ressentira tous les chocs
 et s'affaiblira encore plus.
 
-323
+324
 00:19:51,510 --> 00:19:53,070
 Ça la tuera.
 
-324
+325
 00:19:53,230 --> 00:19:54,080
 Hein ?
 
-325
+326
 00:19:55,420 --> 00:19:57,550
 Compris !
 Je me battrai pas.
 
-326
+327
 00:19:57,960 --> 00:20:00,630
 Mais alors,
 je suis censé faire quoi ?
 
-327
+328
 00:20:03,250 --> 00:20:07,020
 Contente-toi d'esquiver !
 Esquive, esquive, esquive et fuis !
 
-328
+329
 00:20:07,220 --> 00:20:08,390
 Mais ne recule pas !
 
-329
+330
 00:20:08,550 --> 00:20:10,100
 Pas facile, ça !
 
-330
+331
 00:20:11,810 --> 00:20:13,980
 Flanchet Shoot !
 
-331
+332
 00:20:18,610 --> 00:20:19,480
 Bon sang !
 
-332
+333
 00:20:19,660 --> 00:20:22,360
 Avec toute cette neige,
 mes mouvements sont ralentis.
 
-333
+334
 00:20:27,210 --> 00:20:29,160
 Ils arrivent tous en même temps !
 
-334
+335
 00:20:30,480 --> 00:20:32,000
 À la forêt ! Je te couvre !
 
-335
+336
 00:20:32,340 --> 00:20:33,400
 OK !
 
-336
+337
 00:20:36,450 --> 00:20:38,460
 – À gauche, vers la montagne !
 – Ça marche !
 
-337
+338
 00:20:38,610 --> 00:20:39,880
 Il faut les semer !
 
-338
+339
 00:20:40,310 --> 00:20:43,340
 Ça me prendrait la journée,
 pour tous les étaler.
 
-339
+340
 00:20:43,710 --> 00:20:47,320
 Face à ces bestioles,
 la neige est un handicap pour nous.
 
-340
+341
 00:20:49,210 --> 00:20:50,270
 Non !
 
-341
+342
 00:20:53,220 --> 00:20:56,000
 Imbécile !
 Attaque pas, j'ai dit !
 
-342
+343
 00:20:56,210 --> 00:20:57,910
 Laisse-moi faire, c'est tout !
 
-343
+344
 00:20:58,040 --> 00:20:58,990
 Pardon...
 
-344
+345
 00:20:59,160 --> 00:21:00,570
 Soit sérieux.
 
-345
+346
 00:21:01,450 --> 00:21:03,240
 Sanji, on va pouvoir grimper.
 
-346
+347
 00:21:03,410 --> 00:21:05,100
 Super ! Passe devant !
 
-347
+348
 00:21:05,900 --> 00:21:07,070
 Désolés !
 
-348
+349
 00:21:15,310 --> 00:21:17,750
 Je peux savoir
 pourquoi t'as fait ça ?
 
-349
+350
 00:21:18,040 --> 00:21:21,210
 Cours jusqu'au sommet !
 
-350
+351
 00:21:21,580 --> 00:21:24,050
 Il neige de plus en plus fort...
 
-351
+352
 00:21:25,470 --> 00:21:28,120
 J'espère que Nami va bien...
 
-352
+353
 00:21:28,360 --> 00:21:29,950
 Dolton.
 
-353
+354
 00:21:30,370 --> 00:21:31,410
 Dolton !
 
-354
+355
 00:21:31,710 --> 00:21:34,110
 – Salutations.
 – Oh, bonjour.
 
-355
+356
 00:21:34,330 --> 00:21:36,810
 Vous cherchiez le Dr Kureha,
 n'est-ce pas ?
 
-356
+357
 00:21:36,960 --> 00:21:39,930
 C'est exact,
 mais la patiente a déjà...
 
-357
+358
 00:21:40,020 --> 00:21:44,070
 Elle serait à Cocoa Weed,
 la ville voisine !
 
-358
+359
 00:21:46,020 --> 00:21:47,340
 Que dites-vous ?
-
-359
-00:21:49,050 --> 00:21:52,780
-Cocoa Weed
-La Ville Voisine
 
 360
 00:21:49,050 --> 00:21:52,780
@@ -1623,90 +1623,90 @@ Cocoa Weed
 La Ville Voisine
 
 361
+00:21:49,050 --> 00:21:52,780
+Cocoa Weed
+La Ville Voisine
+
+362
 00:21:47,610 --> 00:21:50,950
 Ils viennent juste de se croiser !
 
-362
+363
 00:21:57,770 --> 00:22:00,800
 Hé, patron !
 Vous pourriez le faire taire ?
 
-363
+364
 00:22:01,020 --> 00:22:03,510
 Je supporte pas
 les gosses qui hurlent !
 
-364
+365
 00:22:03,910 --> 00:22:05,220
 Désolé.
 
-365
+366
 00:22:06,120 --> 00:22:09,340
 Qu'y a-t-il, Tamachibi ?
 Tu as mal quelque part ?
 
-366
+367
 00:22:10,660 --> 00:22:12,810
 Arrête de pleurer
 et dis-moi ce qu'il y a.
 
-367
+368
 00:22:12,930 --> 00:22:14,890
 Tu importunes les clients.
 
-368
+369
 00:22:16,050 --> 00:22:18,190
 Tamachibi ! Réponds-moi !
 
-369
+370
 00:22:18,390 --> 00:22:20,450
 Si tu continues à pleurer,
 je te fiche dehors !
 
-370
+371
 00:22:23,440 --> 00:22:25,530
 – C'est la sorcière...
 – Elle me fait peur...
 
-371
+372
 00:22:25,670 --> 00:22:28,240
 Elle est encore avec ce monstre...
 
-372
+373
 00:22:32,660 --> 00:22:34,500
 Bon...
 Ça suffit, maintenant !
 
-373
+374
 00:22:35,240 --> 00:22:38,330
 Eh bien, voilà un père
 qui n'a vraiment pas de cœur...
 
-374
+375
 00:22:39,170 --> 00:22:43,800
 Quand un enfant pleure ainsi,
 c'est que la maladie le ronge.
 
-375
+376
 00:22:46,680 --> 00:22:48,680
 Recule, Chopper !
 
-376
+377
 00:22:53,920 --> 00:22:55,180
 Vous permettez ?
 
-377
+378
 00:22:55,880 --> 00:22:56,640
 Doc...
 
-378
+379
 00:22:57,540 --> 00:22:59,210
 Ça boume, les mômes ?
-
-379
-00:22:59,160 --> 00:23:02,680
-Doctoresse - Dr. Kureha 
-(139 ans)
 
 380
 00:22:59,160 --> 00:23:02,680
@@ -1715,8 +1715,8 @@ Doctoresse - Dr. Kureha
 
 381
 00:22:59,160 --> 00:23:02,680
-Renne bien-aimé du Dr. Kureha
-Tony Tony Chopper
+Doctoresse - Dr. Kureha 
+(139 ans)
 
 382
 00:22:59,160 --> 00:23:02,680
@@ -1724,456 +1724,456 @@ Renne bien-aimé du Dr. Kureha
 Tony Tony Chopper
 
 383
+00:22:59,160 --> 00:23:02,680
+Renne bien-aimé du Dr. Kureha
+Tony Tony Chopper
+
+384
 00:23:03,850 --> 00:23:05,190
 Dr. Kureha !
 
-384
+385
 00:23:05,320 --> 00:23:07,110
 Le secret de ma jeunesse, vous dites ?
 
-385
+386
 00:23:07,290 --> 00:23:08,700
 On n'a rien demandé !
 
-386
+387
 00:23:09,100 --> 00:23:11,700
 Dire que cette vieille peau
 a 140 ans...
 
-387
+388
 00:23:12,280 --> 00:23:14,780
 La vieille peau
 n'a encore que 139 ans.
 
-388
+389
 00:23:17,360 --> 00:23:18,700
 Je m'en occupe ?
 
-389
+390
 00:23:19,550 --> 00:23:22,750
 Vous occuper de quoi ?
 Mon fils n'est pas malade !
 
-390
+391
 00:23:23,570 --> 00:23:26,000
 Dis-moi, tu es médecin ?
 
-391
+392
 00:23:27,860 --> 00:23:29,550
 Allons-nous-en, Chopper.
 
-392
+393
 00:23:31,270 --> 00:23:32,430
 Attendez !
 
-393
+394
 00:23:35,860 --> 00:23:38,140
 Désolé, je me suis trompé.
 
-394
+395
 00:23:39,550 --> 00:23:43,250
 Comme on m'avait dit que le docteur
 était descendu en ville hier,
 
-395
+396
 00:23:43,550 --> 00:23:46,360
 j'ai pensé qu'elle ne redescendrait pas
 avant plusieurs jours.
 
-396
+397
 00:23:46,510 --> 00:23:49,190
 Ne t'en fais pas.
 Ce n'est pas ta faute.
 
-397
+398
 00:23:49,470 --> 00:23:52,360
 Le problème, c'est la force surhumaine
 de Luffy et Sanji.
 
-398
+399
 00:23:52,540 --> 00:23:57,180
 On n'arrivera jamais à les rattraper
 sur une montagne aussi enneigée.
 
-399
+400
 00:23:57,480 --> 00:24:00,680
 Le mieux, c'est d'aller à Cocoa Weed
 et de demander à la sorcière
 
-400
+401
 00:24:00,810 --> 00:24:03,250
 de remonter immédiatement
 au château.
 
-401
+402
 00:24:04,450 --> 00:24:08,110
 Oui, c'est vrai.
 Il n'y a pas d'autre solution.
 
-402
+403
 00:24:08,520 --> 00:24:09,590
 Pardonnez-moi !
 
-403
+404
 00:24:10,570 --> 00:24:13,030
 Il y a si peu de médecins
 dans ce pays...
 
-404
+405
 00:24:13,190 --> 00:24:17,180
 Allons, vous n'avez pas
 à vous excuser pour ça, Dolton.
 
-405
+406
 00:24:17,330 --> 00:24:18,680
 Elle a raison.
 
-406
+407
 00:24:21,580 --> 00:24:22,850
 Dépêchons-nous !
 
-407
+408
 00:24:32,680 --> 00:24:35,110
 J'ai mal aux mains...
 
-408
+409
 00:24:35,390 --> 00:24:38,050
 Mal aux mains ? D'accord...
 
-409
+410
 00:24:38,270 --> 00:24:39,650
 Et si je fais ça ?
 
-410
+411
 00:24:39,810 --> 00:24:41,120
 Aïe ! Ma jambe !
 
-411
+412
 00:24:41,320 --> 00:24:44,580
 J'ai déjà réussi à te faire oublier
 tes douleurs aux mains.
 
-412
+413
 00:24:44,780 --> 00:24:46,650
 À quoi vous jouez ?
 
-413
+414
 00:24:46,810 --> 00:24:49,550
 Ça boume ?
 Évidemment que ça boume, hein ?
 
-414
+415
 00:24:49,700 --> 00:24:51,860
 – Ne bouge pas.
 – Dites donc !
 
-415
+416
 00:24:52,140 --> 00:24:53,630
 Ne crie pas comme ça.
 
-416
+417
 00:24:53,630 --> 00:24:55,960
 J'ai juste appuyé légèrement
 sur sa jambe.
 
-417
+418
 00:24:55,960 --> 00:24:57,380
 Mais, ce gros bruit...
 
-418
+419
 00:24:58,110 --> 00:25:01,110
 Ses mains et ses pieds
 le font beaucoup souffrir.
 
-419
+420
 00:25:01,260 --> 00:25:02,840
 Il n'a pas de fièvre,
 
-420
+421
 00:25:03,320 --> 00:25:06,060
 mais sa jambe présente
 une inflammation purulente.
 
-421
+422
 00:25:06,430 --> 00:25:08,150
 Les symptômes concordent.
 
-422
+423
 00:25:08,380 --> 00:25:13,280
 Un microbe a attaqué les os.
 Chopper, va chercher les antibiotiques.
 
-423
+424
 00:25:14,960 --> 00:25:17,030
 Docteur, ça va aller ?
 
-424
+425
 00:25:17,230 --> 00:25:20,450
 C'est un mal
 qui doit être rapidement traité.
 
-425
+426
 00:25:20,610 --> 00:25:22,180
 Rassure-toi ! Il guérira.
 
-426
+427
 00:25:22,320 --> 00:25:24,460
 Mais on peut dire
 qu'il a frôlé la mort.
 
-427
+428
 00:25:24,650 --> 00:25:25,600
 La mort ?
 
-428
+429
 00:25:26,350 --> 00:25:28,560
 Je dois inciser. Courage...
 
-429
+430
 00:25:28,610 --> 00:25:30,790
 Vous pourriez au moins l'anesthésier.
 
-430
+431
 00:25:32,000 --> 00:25:33,550
 Voilà ta piqûre !
 
-431
+432
 00:25:33,710 --> 00:25:35,180
 Arrêtez vos idioties !
 
-432
+433
 00:25:37,010 --> 00:25:41,310
 Et voilà.
 Mes médicaments sont très efficaces.
 
-433
+434
 00:25:41,540 --> 00:25:43,180
 Ce traitement lui suffira.
 
-434
+435
 00:25:43,380 --> 00:25:46,770
 À présent, il lui faut du repos
 et des bandages bien serrés.
 
-435
+436
 00:25:47,500 --> 00:25:48,270
 D'accord.
 
-436
+437
 00:25:48,270 --> 00:25:51,650
 Il faudra mettre de la glace dessus.
 C'est compris ?
 
-437
+438
 00:25:52,720 --> 00:25:54,000
 Pour mes honoraires,
 
-438
+439
 00:25:54,160 --> 00:25:57,560
 je vais être à court de sacs poubelle
 et de papier toilette.
 
-439
+440
 00:25:57,710 --> 00:26:00,610
 J'embarque aussi
 ta liqueur de prune et tes vivres.
 
-440
+441
 00:26:00,770 --> 00:26:02,120
 Et enfin...
 
-441
+442
 00:26:02,330 --> 00:26:05,500
 je veux 50 % des fonds de ta taverne.
 
-442
+443
 00:26:05,500 --> 00:26:06,080
 Hein ?
 
-443
+444
 00:26:06,580 --> 00:26:09,180
 Chopper,
 charge tout ça dans le traîneau.
 
-444
+445
 00:26:09,350 --> 00:26:12,450
 Vous plaisantez ?
 La moitié de mes fonds ?
 
-445
+446
 00:26:12,640 --> 00:26:14,880
 Refuse ! C'est de l'arnaque.
 
-446
+447
 00:26:14,880 --> 00:26:15,880
 C'est clair !
 
-447
+448
 00:26:16,270 --> 00:26:20,130
 Mourir, ton fils ? Il est tombé
 et s'est mis à pleurer, voilà tout !
 
-448
+449
 00:26:20,300 --> 00:26:22,060
 Elle abuse de son statut de médecin.
 
-449
+450
 00:26:22,060 --> 00:26:24,270
 – Ouais !
 – C'est incroyable, ça !
 
-450
+451
 00:26:25,020 --> 00:26:28,350
 C'est pas bien de profiter
 de la faiblesse des gens, sorcière !
 
-451
+452
 00:26:30,560 --> 00:26:31,770
 Du calme, Chopper !
 
-452
+453
 00:26:32,000 --> 00:26:34,280
 Ces gosses ne savent pas
 ce qu'ils disent.
 
-453
+454
 00:26:34,580 --> 00:26:36,280
 Madame...
 
-454
+455
 00:26:37,510 --> 00:26:39,410
 Je me sens beaucoup mieux.
 
-455
+456
 00:26:41,110 --> 00:26:41,910
 Merci.
 
-456
+457
 00:26:44,850 --> 00:26:48,010
 C'est un joli pourboire
 que tu m'offres là, petit.
 
-457
+458
 00:26:49,340 --> 00:26:52,210
 D'accord,
 je veux bien descendre jusqu'à 49 %.
 
-458
+459
 00:26:54,690 --> 00:26:56,920
 Je paierai.
 Merci mille fois.
 
-459
+460
 00:26:58,580 --> 00:27:00,800
 J'oubliais... Petit !
 
-460
+461
 00:27:01,740 --> 00:27:05,820
 Ça boume maintenant, hein ?
 N'oublie jamais cette sensation !
 
-461
+462
 00:27:07,780 --> 00:27:09,140
 D'accord !
 
-462
+463
 00:27:17,520 --> 00:27:19,210
 Bon sang, ça caille !
 
-463
+464
 00:27:19,410 --> 00:27:22,700
 Mon corps s'engourdit
 comme s'il était pris dans la glace.
 
-464
+465
 00:27:23,620 --> 00:27:24,990
 Allons, courage...
 
-465
+466
 00:27:25,150 --> 00:27:27,700
 Si je fais le vide absolu en moi,
 
-466
+467
 00:27:27,850 --> 00:27:30,590
 le feu me paraîtra frais
 et la glace deviendra tiède.
 
-467
+468
 00:27:32,550 --> 00:27:34,610
 Hé, Kaloo ! Viens te baigner !
 
-468
+469
 00:27:34,750 --> 00:27:37,410
 Ça te fera le plus grand bien,
 toi qui es tout frêle !
 
-469
+470
 00:27:53,030 --> 00:27:55,060
 C'est drôlement poissonneux,
 là-dessous.
 
-470
+471
 00:27:55,360 --> 00:27:57,070
 Je vais nager encore un peu.
 
-471
+472
 00:28:00,170 --> 00:28:01,150
 Ils nous suivent ?
 
-472
+473
 00:28:01,410 --> 00:28:03,330
 Non, ça va.
 
-473
+474
 00:28:03,660 --> 00:28:06,330
 Super ! On a dû les semer.
 
-474
+475
 00:28:06,470 --> 00:28:08,760
 – Non, pas encore.
 – Hein ?
 
-475
+476
 00:28:08,910 --> 00:28:10,830
 C'est pas vrai !
 
-476
+477
 00:28:18,270 --> 00:28:20,010
 Qu'est-ce qu'ils fabriquent ?
 
-477
+478
 00:28:28,700 --> 00:28:30,600
 Ils s'énervent parce qu'ils ont faim ?
 
-478
+479
 00:28:30,770 --> 00:28:31,850
 Non...
 
-479
+480
 00:28:32,000 --> 00:28:33,590
 Une petite minute...
 
-480
+481
 00:28:35,100 --> 00:28:38,150
 C'est pas vrai ! Ils...
 
-481
+482
 00:28:46,450 --> 00:28:50,140
 Ça y est ! Me voici enfin revenu
 sur mon île natale !
 
-482
+483
 00:28:50,280 --> 00:28:52,410
 Mon beau royaume de Drum !
 
-483
+484
 00:28:57,530 --> 00:29:00,050
 Ils avaient posté des sentinelles.
-
-484
-00:30:31,240 --> 00:30:34,700
-Kuromarimo - Ex-administrateur
- véreux du Royaume de Drum
 
 485
 00:30:31,240 --> 00:30:34,700
@@ -2181,10 +2181,9 @@ Kuromarimo - Ex-administrateur
  véreux du Royaume de Drum
 
 486
-00:30:26,570 --> 00:30:31,200
-Chess
-Ex-chef d'état-major crapuleux
-du Royaume de Drum
+00:30:31,240 --> 00:30:34,700
+Kuromarimo - Ex-administrateur
+ véreux du Royaume de Drum
 
 487
 00:30:26,570 --> 00:30:31,200
@@ -2193,45 +2192,46 @@ Ex-chef d'état-major crapuleux
 du Royaume de Drum
 
 488
+00:30:26,570 --> 00:30:31,200
+Chess
+Ex-chef d'état-major crapuleux
+du Royaume de Drum
+
+489
 00:29:00,210 --> 00:29:04,010
 La prochaine fois, ils réfléchiront
 avant de nous tirer dessus.
 
-489
+490
 00:29:05,340 --> 00:29:08,380
 Quel bonheur, de revoir mon île !
 
-490
+491
 00:29:08,550 --> 00:29:11,890
 Ô Mère Nature, immuable et majestueuse !
 
-491
+492
 00:29:12,190 --> 00:29:14,220
 Chess, mon château n'a rien ?
 
-492
+493
 00:29:14,370 --> 00:29:18,820
 Non, Votre Altesse. Il est dans l'état
 dans lequel vous l'aviez laissé.
 
-493
+494
 00:29:20,440 --> 00:29:23,400
 Dans ce cas,
 nous retournons tous au château.
 
-494
+495
 00:29:23,670 --> 00:29:27,530
 La piraterie, c'est terminé !
 Je vais redevenir roi !
 
-495
+496
 00:29:27,930 --> 00:29:30,200
 Allez ! En avant, Robson !
-
-496
-00:29:27,550 --> 00:29:33,060
-Robson - Marcheur blanc
-(Hippo Poilu)
 
 497
 00:29:27,550 --> 00:29:33,060
@@ -2239,328 +2239,329 @@ Robson - Marcheur blanc
 (Hippo Poilu)
 
 498
+00:29:27,550 --> 00:29:33,060
+Robson - Marcheur blanc
+(Hippo Poilu)
+
+499
 00:29:34,850 --> 00:29:38,640
 Allez, Robson !
 Ne reste pas là sans rien faire !
 
-499
+500
 00:29:39,140 --> 00:29:41,130
 En avant, et plus vite que ça !
 
-500
+501
 00:29:41,290 --> 00:29:43,790
 Altesse Wapol !
 Terrible nouvelle !
 
-501
+502
 00:29:44,290 --> 00:29:46,050
 – Qu'y a-t-il ?
 – Là-bas !
 
-502
+503
 00:29:47,490 --> 00:29:49,890
 C'est le bateau de ces pirates !
 
-503
+504
 00:29:50,050 --> 00:29:50,850
 Quoi ?
 
-504
+505
 00:29:51,150 --> 00:29:52,430
 Le Chapeau de paille...
 
-505
+506
 00:29:52,670 --> 00:29:55,960
 Que font cette vermine et sa bande
 sur mon île ?
 
-506
+507
 00:29:56,220 --> 00:29:59,650
 Ils m'avaient pourtant dit
 ne pas connaître ce royaume !
 
-507
+508
 00:30:02,690 --> 00:30:04,610
 Dégage !
 
-508
+509
 00:30:04,850 --> 00:30:08,780
 Savent-ils seulement
 de quoi j'ai eu l'air, après ça ?
 
-509
+510
 00:30:08,950 --> 00:30:11,700
 Toi ! Monte à bord
 et zigouille toute cette racaille !
 
-510
+511
 00:30:11,850 --> 00:30:14,410
 Je suis désolé,
 mais le bateau est vide.
 
-511
+512
 00:30:14,410 --> 00:30:15,040
 Quoi ?
 
-512
+513
 00:30:15,040 --> 00:30:18,330
 – On ignore où ils sont !
 – Tu veux que je te fasse exécuter ?
 
-513
+514
 00:30:18,530 --> 00:30:20,920
 Nos plus plates excuses,
 Votre Altesse.
 
-514
+515
 00:30:21,070 --> 00:30:23,050
 Veuillez pardonner cet incapable !
 
-515
+516
 00:30:23,940 --> 00:30:26,260
 Chess, Kuromarimo.
 
-516
+517
 00:30:26,710 --> 00:30:31,010
 Nous avons examiné les empreintes
 laissées près du bateau.
 
-517
+518
 00:30:31,170 --> 00:30:34,680
 Nous pensons qu'ils sont partis
 en direction de Bighorn.
 
-518
+519
 00:30:34,840 --> 00:30:38,100
 Bien sûr...
 Heureusement que vous êtes là.
 
-519
+520
 00:30:39,450 --> 00:30:42,560
 S'il en est ainsi,
 nous commencerons par aller à Big Horn
 
-520
+521
 00:30:42,730 --> 00:30:46,650
 et nous y tirerons une salve d'honneur
 pour saluer le retour du roi !
 
-521
+522
 00:30:52,110 --> 00:30:54,910
 Hein ?
 Qu'est-ce que vous dites ?
 
-522
+523
 00:30:55,080 --> 00:30:59,520
 Elle est déjà repartie ?
 Et y a pas longtemps, en plus ?
 
-523
+524
 00:30:59,720 --> 00:31:01,330
 C'est pas de bol !
 
-524
+525
 00:31:01,330 --> 00:31:04,000
 J'étais malade et elle m'a guéri.
 
-525
+526
 00:31:06,260 --> 00:31:08,880
 Tu cherches le docteur, Dolton ?
 
-526
+527
 00:31:09,710 --> 00:31:11,090
 C'est très urgent.
 
-527
+528
 00:31:11,310 --> 00:31:13,100
 Sais-tu où elle est allée ?
 
-528
+529
 00:31:13,250 --> 00:31:14,680
 Le docteur Kureha ?
 
-529
+530
 00:31:15,000 --> 00:31:17,980
 J'ai entendu dire
 qu'elle se dirigeait vers Gyasta.
 
-530
+531
 00:31:18,100 --> 00:31:20,190
 – Vers Gyasta ?
 – Où est-ce ?
 
-531
+532
 00:31:20,490 --> 00:31:24,150
 À l'opposé de ce village.
 Bighorn est à mi-chemin.
 
-532
+533
 00:31:24,310 --> 00:31:26,400
 On s'est encore croisés, alors !
 
-533
+534
 00:31:26,550 --> 00:31:29,690
 - Gyasta est la ville du patin à glace.
 - C'est quoi, cette précision à la noix ?
 
-534
+535
 00:31:29,880 --> 00:31:32,200
 On s'en tape !
 
-535
+536
 00:31:30,450 --> 00:31:32,200
 Du calme, Usopp !
 
-536
+537
 00:31:32,770 --> 00:31:34,180
 Il faut reprendre la route.
 
-537
+538
 00:31:34,320 --> 00:31:36,680
 On ne peut pas abandonner maintenant.
 
-538
+539
 00:31:36,680 --> 00:31:38,190
 Oui, tu as raison.
 
-539
+540
 00:31:38,490 --> 00:31:39,800
 Dolton !
 
-540
+541
 00:31:41,770 --> 00:31:43,000
 Je te cherchais...
 
-541
+542
 00:31:43,400 --> 00:31:46,090
 Tu étais de garde avec les autres,
 aujourd'hui.
 
-542
+543
 00:31:47,810 --> 00:31:49,730
 Que s'est-il passé ?
 
-543
+544
 00:31:49,870 --> 00:31:51,970
 Qui t'a infligé ces vilaines blessures ?
 
-544
+545
 00:31:52,320 --> 00:31:54,400
 À part moi,
 tous les autres gardes
 
-545
+546
 00:31:54,620 --> 00:31:56,310
 ont été tués.
 
-546
+547
 00:31:56,310 --> 00:31:56,760
 Quoi ?
 
-547
+548
 00:31:56,960 --> 00:32:01,980
 Un navire sous-marin a brusquement
 fait son apparition près du rivage...
 
-548
+549
 00:32:02,850 --> 00:32:05,620
 Tous les gardes ont été tués
 par son équipage...
 
-549
+550
 00:32:05,810 --> 00:32:08,730
 De quel équipage parles-tu ?
 Réponds calmement !
 
-550
+551
 00:32:09,450 --> 00:32:11,830
 Aide-nous, Dolton !
 
-551
+552
 00:32:12,030 --> 00:32:13,910
 Nous ne sommes pas de taille,
 
-552
+553
 00:32:14,070 --> 00:32:15,580
 mais si nous ne faisons rien...
 
-553
+554
 00:32:16,120 --> 00:32:16,910
 Hein ?
 
-554
+555
 00:32:18,850 --> 00:32:19,950
 C'est lui ?
 
-555
+556
 00:32:20,090 --> 00:32:24,040
 C'est Wapol ! Wapol est revenu !
 
-556
+557
 00:32:24,710 --> 00:32:26,540
 – Quoi ?
 – Wapol est de retour ?
 
-557
+558
 00:32:26,710 --> 00:32:27,960
 C'est vrai ?
 
-558
+559
 00:32:30,650 --> 00:32:31,820
 Hé !
 
-559
+560
 00:32:32,120 --> 00:32:34,140
 Dolton !
 
-560
+561
 00:32:39,660 --> 00:32:41,430
 Je vais en finir avec toi.
 
-561
+562
 00:32:41,950 --> 00:32:45,630
 Je n'ai pas l'intention
 d'incarner le bras de la justice.
 
-562
+563
 00:32:46,210 --> 00:32:50,460
 Toi et moi, nous sommes
 aussi coupables, l'un que l'autre !
 
-563
+564
 00:32:54,770 --> 00:32:58,460
 Prépare-toi, Wapol !
 
-564
+565
 00:00:12,900 --> 00:00:14,510
 Une forte volonté...
 
-565
+566
 00:00:14,670 --> 00:00:17,240
 Les remous des époques
 et les rêves des hommes...
 
-566
+567
 00:00:17,510 --> 00:00:20,110
 Voilà des choses
 que rien ne peut arrêter.
 
-567
+568
 00:00:20,310 --> 00:00:23,430
 Tant que l'humanité aspirera
 à connaître le sens du mot liberté,
 
-568
+569
 00:00:23,580 --> 00:00:26,310
 rien ni personne
 n'arrivera à y mettre un terme !
 
-569
-00:00:34,580 --> 00:00:35,060
-未
-
 570
-00:00:35,060 --> 00:00:35,250
+00:00:34,580 --> 00:00:35,060
 未
 
 571
@@ -2592,15 +2593,15 @@ n'arrivera à y mettre un terme !
 未
 
 578
-00:00:35,250 --> 00:00:41,200
+00:00:35,060 --> 00:00:35,250
 未
 
 579
-00:00:34,610 --> 00:00:35,250
-来
+00:00:35,250 --> 00:00:41,200
+未
 
 580
-00:00:35,250 --> 00:00:35,640
+00:00:34,610 --> 00:00:35,250
 来
 
 581
@@ -2632,15 +2633,15 @@ n'arrivera à y mettre un terme !
 来
 
 588
-00:00:35,640 --> 00:00:41,230
+00:00:35,250 --> 00:00:35,640
 来
 
 589
-00:00:34,640 --> 00:00:35,640
-だ
+00:00:35,640 --> 00:00:41,230
+来
 
 590
-00:00:35,640 --> 00:00:35,850
+00:00:34,640 --> 00:00:35,640
 だ
 
 591
@@ -2672,15 +2673,15 @@ n'arrivera à y mettre un terme !
 だ
 
 598
-00:00:35,850 --> 00:00:41,260
+00:00:35,640 --> 00:00:35,850
 だ
 
 599
-00:00:34,670 --> 00:00:35,850
-け
+00:00:35,850 --> 00:00:41,260
+だ
 
 600
-00:00:35,850 --> 00:00:36,000
+00:00:34,670 --> 00:00:35,850
 け
 
 601
@@ -2712,15 +2713,15 @@ n'arrivera à y mettre un terme !
 け
 
 608
-00:00:36,000 --> 00:00:41,290
+00:00:35,850 --> 00:00:36,000
 け
 
 609
-00:00:34,700 --> 00:00:36,000
-信
+00:00:36,000 --> 00:00:41,290
+け
 
 610
-00:00:36,000 --> 00:00:36,440
+00:00:34,700 --> 00:00:36,000
 信
 
 611
@@ -2752,15 +2753,15 @@ n'arrivera à y mettre un terme !
 信
 
 618
-00:00:36,440 --> 00:00:41,320
+00:00:36,000 --> 00:00:36,440
 信
 
 619
-00:00:34,730 --> 00:00:36,440
-じ
+00:00:36,440 --> 00:00:41,320
+信
 
 620
-00:00:36,440 --> 00:00:36,640
+00:00:34,730 --> 00:00:36,440
 じ
 
 621
@@ -2792,15 +2793,15 @@ n'arrivera à y mettre un terme !
 じ
 
 628
-00:00:36,640 --> 00:00:41,350
+00:00:36,440 --> 00:00:36,640
 じ
 
 629
-00:00:34,760 --> 00:00:36,640
-て
+00:00:36,640 --> 00:00:41,350
+じ
 
 630
-00:00:36,640 --> 00:00:36,820
+00:00:34,760 --> 00:00:36,640
 て
 
 631
@@ -2832,15 +2833,15 @@ n'arrivera à y mettre un terme !
 て
 
 638
-00:00:36,820 --> 00:00:41,380
+00:00:36,640 --> 00:00:36,820
 て
 
 639
-00:00:34,790 --> 00:00:36,820
-る
+00:00:36,820 --> 00:00:41,380
+て
 
 640
-00:00:36,820 --> 00:00:37,270
+00:00:34,790 --> 00:00:36,820
 る
 
 641
@@ -2872,15 +2873,15 @@ n'arrivera à y mettre un terme !
 る
 
 648
-00:00:37,270 --> 00:00:41,410
+00:00:36,820 --> 00:00:37,270
 る
 
 649
-00:00:34,850 --> 00:00:38,130
-誰
+00:00:37,270 --> 00:00:41,410
+る
 
 650
-00:00:38,130 --> 00:00:38,510
+00:00:34,850 --> 00:00:38,130
 誰
 
 651
@@ -2912,15 +2913,15 @@ n'arrivera à y mettre un terme !
 誰
 
 658
-00:00:38,510 --> 00:00:41,470
+00:00:38,130 --> 00:00:38,510
 誰
 
 659
-00:00:34,880 --> 00:00:38,510
-か
+00:00:38,510 --> 00:00:41,470
+誰
 
 660
-00:00:38,510 --> 00:00:38,740
+00:00:34,880 --> 00:00:38,510
 か
 
 661
@@ -2952,15 +2953,15 @@ n'arrivera à y mettre un terme !
 か
 
 668
-00:00:38,740 --> 00:00:41,500
+00:00:38,510 --> 00:00:38,740
 か
 
 669
-00:00:34,910 --> 00:00:38,740
-が
+00:00:38,740 --> 00:00:41,500
+か
 
 670
-00:00:38,740 --> 00:00:38,930
+00:00:34,910 --> 00:00:38,740
 が
 
 671
@@ -2992,15 +2993,15 @@ n'arrivera à y mettre un terme !
 が
 
 678
-00:00:38,930 --> 00:00:41,530
+00:00:38,740 --> 00:00:38,930
 が
 
 679
-00:00:34,940 --> 00:00:38,930
-嘲
+00:00:38,930 --> 00:00:41,530
+が
 
 680
-00:00:38,930 --> 00:00:39,510
+00:00:34,940 --> 00:00:38,930
 嘲
 
 681
@@ -3032,15 +3033,15 @@ n'arrivera à y mettre un terme !
 嘲
 
 688
-00:00:39,510 --> 00:00:41,560
+00:00:38,930 --> 00:00:39,510
 嘲
 
 689
-00:00:34,970 --> 00:00:39,510
-って
+00:00:39,510 --> 00:00:41,560
+嘲
 
 690
-00:00:39,510 --> 00:00:39,710
+00:00:34,970 --> 00:00:39,510
 って
 
 691
@@ -3072,15 +3073,15 @@ n'arrivera à y mettre un terme !
 って
 
 698
-00:00:39,710 --> 00:00:41,590
+00:00:39,510 --> 00:00:39,710
 って
 
 699
-00:00:35,000 --> 00:00:39,710
-も
+00:00:39,710 --> 00:00:41,590
+って
 
 700
-00:00:39,710 --> 00:00:39,910
+00:00:35,000 --> 00:00:39,710
 も
 
 701
@@ -3112,15 +3113,15 @@ n'arrivera à y mettre un terme !
 も
 
 708
-00:00:39,910 --> 00:00:41,620
+00:00:39,710 --> 00:00:39,910
 も
 
 709
-00:00:35,030 --> 00:00:39,910
-か
+00:00:39,910 --> 00:00:41,620
+も
 
 710
-00:00:39,910 --> 00:00:40,120
+00:00:35,030 --> 00:00:39,910
 か
 
 711
@@ -3152,15 +3153,15 @@ n'arrivera à y mettre un terme !
 か
 
 718
-00:00:40,120 --> 00:00:41,650
+00:00:39,910 --> 00:00:40,120
 か
 
 719
-00:00:35,060 --> 00:00:40,120
-ま
+00:00:40,120 --> 00:00:41,650
+か
 
 720
-00:00:40,120 --> 00:00:40,300
+00:00:35,060 --> 00:00:40,120
 ま
 
 721
@@ -3192,15 +3193,15 @@ n'arrivera à y mettre un terme !
 ま
 
 728
-00:00:40,300 --> 00:00:41,680
+00:00:40,120 --> 00:00:40,300
 ま
 
 729
-00:00:35,090 --> 00:00:40,300
-わ
+00:00:40,300 --> 00:00:41,680
+ま
 
 730
-00:00:40,300 --> 00:00:40,510
+00:00:35,090 --> 00:00:40,300
 わ
 
 731
@@ -3232,15 +3233,15 @@ n'arrivera à y mettre un terme !
 わ
 
 738
-00:00:40,510 --> 00:00:41,710
+00:00:40,300 --> 00:00:40,510
 わ
 
 739
-00:00:35,120 --> 00:00:40,510
-な
+00:00:40,510 --> 00:00:41,710
+わ
 
 740
-00:00:40,510 --> 00:00:40,690
+00:00:35,120 --> 00:00:40,510
 な
 
 741
@@ -3272,15 +3273,15 @@ n'arrivera à y mettre un terme !
 な
 
 748
-00:00:40,690 --> 00:00:41,740
+00:00:40,510 --> 00:00:40,690
 な
 
 749
-00:00:35,150 --> 00:00:40,690
-い
+00:00:40,690 --> 00:00:41,740
+な
 
 750
-00:00:40,690 --> 00:00:41,040
+00:00:35,150 --> 00:00:40,690
 い
 
 751
@@ -3312,15 +3313,15 @@ n'arrivera à y mettre un terme !
 い
 
 758
-00:00:41,040 --> 00:00:41,770
+00:00:40,690 --> 00:00:41,040
 い
 
 759
-00:00:34,580 --> 00:00:35,060
-み
+00:00:41,040 --> 00:00:41,770
+い
 
 760
-00:00:35,060 --> 00:00:35,250
+00:00:34,580 --> 00:00:35,060
 み
 
 761
@@ -3352,15 +3353,15 @@ n'arrivera à y mettre un terme !
 み
 
 768
-00:00:35,250 --> 00:00:41,200
+00:00:35,060 --> 00:00:35,250
 み
 
 769
-00:00:34,610 --> 00:00:35,250
-ら
+00:00:35,250 --> 00:00:41,200
+み
 
 770
-00:00:35,250 --> 00:00:35,470
+00:00:34,610 --> 00:00:35,250
 ら
 
 771
@@ -3392,15 +3393,15 @@ n'arrivera à y mettre un terme !
 ら
 
 778
-00:00:35,470 --> 00:00:41,230
+00:00:35,250 --> 00:00:35,470
 ら
 
 779
-00:00:34,610 --> 00:00:35,470
-い
+00:00:35,470 --> 00:00:41,230
+ら
 
 780
-00:00:35,470 --> 00:00:35,640
+00:00:34,610 --> 00:00:35,470
 い
 
 781
@@ -3432,15 +3433,15 @@ n'arrivera à y mettre un terme !
 い
 
 788
-00:00:35,640 --> 00:00:41,230
+00:00:35,470 --> 00:00:35,640
 い
 
 789
-00:00:34,700 --> 00:00:36,000
-しん
+00:00:35,640 --> 00:00:41,230
+い
 
 790
-00:00:36,000 --> 00:00:36,440
+00:00:34,700 --> 00:00:36,000
 しん
 
 791
@@ -3472,15 +3473,15 @@ n'arrivera à y mettre un terme !
 しん
 
 798
-00:00:36,440 --> 00:00:41,320
+00:00:36,000 --> 00:00:36,440
 しん
 
 799
-00:00:34,850 --> 00:00:38,130
-だ
+00:00:36,440 --> 00:00:41,320
+しん
 
 800
-00:00:38,130 --> 00:00:38,360
+00:00:34,850 --> 00:00:38,130
 だ
 
 801
@@ -3512,15 +3513,15 @@ n'arrivera à y mettre un terme !
 だ
 
 808
-00:00:38,360 --> 00:00:41,470
+00:00:38,130 --> 00:00:38,360
 だ
 
 809
-00:00:34,850 --> 00:00:38,360
-れ
+00:00:38,360 --> 00:00:41,470
+だ
 
 810
-00:00:38,360 --> 00:00:38,510
+00:00:34,850 --> 00:00:38,360
 れ
 
 811
@@ -3552,15 +3553,15 @@ n'arrivera à y mettre un terme !
 れ
 
 818
-00:00:38,510 --> 00:00:41,470
+00:00:38,360 --> 00:00:38,510
 れ
 
 819
-00:00:34,940 --> 00:00:38,930
-わ
+00:00:38,510 --> 00:00:41,470
+れ
 
 820
-00:00:38,930 --> 00:00:39,130
+00:00:34,940 --> 00:00:38,930
 わ
 
 821
@@ -3592,15 +3593,15 @@ n'arrivera à y mettre un terme !
 わ
 
 828
-00:00:39,130 --> 00:00:41,560
+00:00:38,930 --> 00:00:39,130
 わ
 
 829
-00:00:34,940 --> 00:00:39,130
-ら
+00:00:39,130 --> 00:00:41,560
+わ
 
 830
-00:00:39,130 --> 00:00:39,510
+00:00:34,940 --> 00:00:39,130
 ら
 
 831
@@ -3632,15 +3633,15 @@ n'arrivera à y mettre un terme !
 ら
 
 838
-00:00:39,510 --> 00:00:41,560
+00:00:39,130 --> 00:00:39,510
 ら
 
 839
-00:00:40,840 --> 00:00:41,250
-走
+00:00:39,510 --> 00:00:41,560
+ら
 
 840
-00:00:41,250 --> 00:00:41,840
+00:00:40,840 --> 00:00:41,250
 走
 
 841
@@ -3672,15 +3673,15 @@ n'arrivera à y mettre un terme !
 走
 
 848
-00:00:41,840 --> 00:00:46,720
+00:00:41,250 --> 00:00:41,840
 走
 
 849
-00:00:40,870 --> 00:00:41,840
-って
+00:00:41,840 --> 00:00:46,720
+走
 
 850
-00:00:41,840 --> 00:00:42,030
+00:00:40,870 --> 00:00:41,840
 って
 
 851
@@ -3712,15 +3713,15 @@ n'arrivera à y mettre un terme !
 って
 
 858
-00:00:42,030 --> 00:00:46,750
+00:00:41,840 --> 00:00:42,030
 って
 
 859
-00:00:40,900 --> 00:00:42,030
-る
+00:00:42,030 --> 00:00:46,750
+って
 
 860
-00:00:42,030 --> 00:00:42,230
+00:00:40,900 --> 00:00:42,030
 る
 
 861
@@ -3752,15 +3753,15 @@ n'arrivera à y mettre un terme !
 る
 
 868
-00:00:42,230 --> 00:00:46,780
+00:00:42,030 --> 00:00:42,230
 る
 
 869
-00:00:40,930 --> 00:00:42,230
-情
+00:00:42,230 --> 00:00:46,780
+る
 
 870
-00:00:42,230 --> 00:00:42,610
+00:00:40,930 --> 00:00:42,230
 情
 
 871
@@ -3792,15 +3793,15 @@ n'arrivera à y mettre un terme !
 情
 
 878
-00:00:42,610 --> 00:00:46,810
+00:00:42,230 --> 00:00:42,610
 情
 
 879
-00:00:40,960 --> 00:00:42,610
-熱
+00:00:42,610 --> 00:00:46,810
+情
 
 880
-00:00:42,610 --> 00:00:43,000
+00:00:40,960 --> 00:00:42,610
 熱
 
 881
@@ -3832,15 +3833,15 @@ n'arrivera à y mettre un terme !
 熱
 
 888
-00:00:43,000 --> 00:00:46,840
+00:00:42,610 --> 00:00:43,000
 熱
 
 889
-00:00:40,990 --> 00:00:43,000
-が
+00:00:43,000 --> 00:00:46,840
+熱
 
 890
-00:00:43,000 --> 00:00:43,680
+00:00:40,990 --> 00:00:43,000
 が
 
 891
@@ -3872,15 +3873,15 @@ n'arrivera à y mettre un terme !
 が
 
 898
-00:00:43,680 --> 00:00:46,870
+00:00:43,000 --> 00:00:43,680
 が
 
 899
-00:00:41,050 --> 00:00:44,320
-あ
+00:00:43,680 --> 00:00:46,870
+が
 
 900
-00:00:44,320 --> 00:00:44,520
+00:00:41,050 --> 00:00:44,320
 あ
 
 901
@@ -3912,15 +3913,15 @@ n'arrivera à y mettre un terme !
 あ
 
 908
-00:00:44,520 --> 00:00:46,930
+00:00:44,320 --> 00:00:44,520
 あ
 
 909
-00:00:41,080 --> 00:00:44,520
-な
+00:00:44,520 --> 00:00:46,930
+あ
 
 910
-00:00:44,520 --> 00:00:44,740
+00:00:41,080 --> 00:00:44,520
 な
 
 911
@@ -3952,15 +3953,15 @@ n'arrivera à y mettre un terme !
 な
 
 918
-00:00:44,740 --> 00:00:46,960
+00:00:44,520 --> 00:00:44,740
 な
 
 919
-00:00:41,110 --> 00:00:44,740
-た
+00:00:44,740 --> 00:00:46,960
+な
 
 920
-00:00:44,740 --> 00:00:44,930
+00:00:41,110 --> 00:00:44,740
 た
 
 921
@@ -3992,15 +3993,15 @@ n'arrivera à y mettre un terme !
 た
 
 928
-00:00:44,930 --> 00:00:46,990
+00:00:44,740 --> 00:00:44,930
 た
 
 929
-00:00:41,140 --> 00:00:44,930
-を
+00:00:44,930 --> 00:00:46,990
+た
 
 930
-00:00:44,930 --> 00:00:45,140
+00:00:41,140 --> 00:00:44,930
 を
 
 931
@@ -4032,15 +4033,15 @@ n'arrivera à y mettre un terme !
 を
 
 938
-00:00:45,140 --> 00:00:47,020
+00:00:44,930 --> 00:00:45,140
 を
 
 939
-00:00:41,170 --> 00:00:45,140
-キ
+00:00:45,140 --> 00:00:47,020
+を
 
 940
-00:00:45,140 --> 00:00:45,340
+00:00:41,170 --> 00:00:45,140
 キ
 
 941
@@ -4072,15 +4073,15 @@ n'arrivera à y mettre un terme !
 キ
 
 948
-00:00:45,340 --> 00:00:47,050
+00:00:45,140 --> 00:00:45,340
 キ
 
 949
-00:00:41,200 --> 00:00:45,340
-ラ
+00:00:45,340 --> 00:00:47,050
+キ
 
 950
-00:00:45,340 --> 00:00:45,690
+00:00:41,200 --> 00:00:45,340
 ラ
 
 951
@@ -4112,15 +4113,15 @@ n'arrivera à y mettre un terme !
 ラ
 
 958
-00:00:45,690 --> 00:00:47,080
+00:00:45,340 --> 00:00:45,690
 ラ
 
 959
-00:00:41,230 --> 00:00:45,690
-め
+00:00:45,690 --> 00:00:47,080
+ラ
 
 960
-00:00:45,690 --> 00:00:45,810
+00:00:41,230 --> 00:00:45,690
 め
 
 961
@@ -4152,15 +4153,15 @@ n'arrivera à y mettre un terme !
 め
 
 968
-00:00:45,810 --> 00:00:47,110
+00:00:45,690 --> 00:00:45,810
 め
 
 969
-00:00:41,260 --> 00:00:45,810
-か
+00:00:45,810 --> 00:00:47,110
+め
 
 970
-00:00:45,810 --> 00:00:46,010
+00:00:41,260 --> 00:00:45,810
 か
 
 971
@@ -4192,15 +4193,15 @@ n'arrivera à y mettre un terme !
 か
 
 978
-00:00:46,010 --> 00:00:47,140
+00:00:45,810 --> 00:00:46,010
 か
 
 979
-00:00:41,290 --> 00:00:46,010
-せ
+00:00:46,010 --> 00:00:47,140
+か
 
 980
-00:00:46,010 --> 00:00:46,310
+00:00:41,290 --> 00:00:46,010
 せ
 
 981
@@ -4232,15 +4233,15 @@ n'arrivera à y mettre un terme !
 せ
 
 988
-00:00:46,310 --> 00:00:47,170
+00:00:46,010 --> 00:00:46,310
 せ
 
 989
-00:00:41,320 --> 00:00:46,310
-る
+00:00:46,310 --> 00:00:47,170
+せ
 
 990
-00:00:46,310 --> 00:00:46,560
+00:00:41,320 --> 00:00:46,310
 る
 
 991
@@ -4272,15 +4273,15 @@ n'arrivera à y mettre un terme !
 る
 
 998
-00:00:46,560 --> 00:00:47,200
+00:00:46,310 --> 00:00:46,560
 る
 
 999
-00:00:40,840 --> 00:00:41,250
-は
+00:00:46,560 --> 00:00:47,200
+る
 
 1000
-00:00:41,250 --> 00:00:41,400
+00:00:40,840 --> 00:00:41,250
 は
 
 1001
@@ -4312,15 +4313,15 @@ n'arrivera à y mettre un terme !
 は
 
 1008
-00:00:41,400 --> 00:00:46,720
+00:00:41,250 --> 00:00:41,400
 は
 
 1009
-00:00:40,840 --> 00:00:41,400
-し
+00:00:41,400 --> 00:00:46,720
+は
 
 1010
-00:00:41,400 --> 00:00:41,840
+00:00:40,840 --> 00:00:41,400
 し
 
 1011
@@ -4352,15 +4353,15 @@ n'arrivera à y mettre un terme !
 し
 
 1018
-00:00:41,840 --> 00:00:46,720
+00:00:41,400 --> 00:00:41,840
 し
 
 1019
-00:00:40,930 --> 00:00:42,230
-じょう
+00:00:41,840 --> 00:00:46,720
+し
 
 1020
-00:00:42,230 --> 00:00:42,610
+00:00:40,930 --> 00:00:42,230
 じょう
 
 1021
@@ -4392,15 +4393,15 @@ n'arrivera à y mettre un terme !
 じょう
 
 1028
-00:00:42,610 --> 00:00:46,810
+00:00:42,230 --> 00:00:42,610
 じょう
 
 1029
-00:00:40,960 --> 00:00:42,610
-ね
+00:00:42,610 --> 00:00:46,810
+じょう
 
 1030
-00:00:42,610 --> 00:00:42,820
+00:00:40,960 --> 00:00:42,610
 ね
 
 1031
@@ -4432,15 +4433,15 @@ n'arrivera à y mettre un terme !
 ね
 
 1038
-00:00:42,820 --> 00:00:46,840
+00:00:42,610 --> 00:00:42,820
 ね
 
 1039
-00:00:40,960 --> 00:00:42,820
-つ
+00:00:42,820 --> 00:00:46,840
+ね
 
 1040
-00:00:42,820 --> 00:00:43,000
+00:00:40,960 --> 00:00:42,820
 つ
 
 1041
@@ -4472,15 +4473,15 @@ n'arrivera à y mettre un terme !
 つ
 
 1048
-00:00:43,000 --> 00:00:46,840
+00:00:42,820 --> 00:00:43,000
 つ
 
 1049
-00:00:46,340 --> 00:00:46,680
-眩
+00:00:43,000 --> 00:00:46,840
+つ
 
 1050
-00:00:46,680 --> 00:00:47,030
+00:00:46,340 --> 00:00:46,680
 眩
 
 1051
@@ -4512,15 +4513,15 @@ n'arrivera à y mettre un terme !
 眩
 
 1058
-00:00:47,030 --> 00:00:52,260
+00:00:46,680 --> 00:00:47,030
 眩
 
 1059
-00:00:46,370 --> 00:00:47,030
-し
+00:00:47,030 --> 00:00:52,260
+眩
 
 1060
-00:00:47,030 --> 00:00:47,440
+00:00:46,370 --> 00:00:47,030
 し
 
 1061
@@ -4552,15 +4553,15 @@ n'arrivera à y mettre un terme !
 し
 
 1068
-00:00:47,440 --> 00:00:52,290
+00:00:47,030 --> 00:00:47,440
 し
 
 1069
-00:00:46,400 --> 00:00:47,440
-過
+00:00:47,440 --> 00:00:52,290
+し
 
 1070
-00:00:47,440 --> 00:00:47,660
+00:00:46,400 --> 00:00:47,440
 過
 
 1071
@@ -4592,15 +4593,15 @@ n'arrivera à y mettre un terme !
 過
 
 1078
-00:00:47,660 --> 00:00:52,320
+00:00:47,440 --> 00:00:47,660
 過
 
 1079
-00:00:46,430 --> 00:00:47,660
-ぎ、
+00:00:47,660 --> 00:00:52,320
+過
 
 1080
-00:00:47,660 --> 00:00:48,050
+00:00:46,430 --> 00:00:47,660
 ぎ、
 
 1081
@@ -4632,15 +4633,15 @@ n'arrivera à y mettre un terme !
 ぎ、
 
 1088
-00:00:48,050 --> 00:00:52,350
+00:00:47,660 --> 00:00:48,050
 ぎ、
 
 1089
-00:00:46,460 --> 00:00:48,050
-で
+00:00:48,050 --> 00:00:52,350
+ぎ、
 
 1090
-00:00:48,050 --> 00:00:48,430
+00:00:46,460 --> 00:00:48,050
 で
 
 1091
@@ -4672,15 +4673,15 @@ n'arrivera à y mettre un terme !
 で
 
 1098
-00:00:48,430 --> 00:00:52,380
+00:00:48,050 --> 00:00:48,430
 で
 
 1099
-00:00:46,490 --> 00:00:48,430
-も
+00:00:48,430 --> 00:00:52,380
+で
 
 1100
-00:00:48,430 --> 00:00:49,000
+00:00:46,490 --> 00:00:48,430
 も
 
 1101
@@ -4712,15 +4713,15 @@ n'arrivera à y mettre un terme !
 も
 
 1108
-00:00:49,000 --> 00:00:52,410
+00:00:48,430 --> 00:00:49,000
 も
 
 1109
-00:00:46,550 --> 00:00:49,560
-見
+00:00:49,000 --> 00:00:52,410
+も
 
 1110
-00:00:49,560 --> 00:00:49,790
+00:00:46,550 --> 00:00:49,560
 見
 
 1111
@@ -4752,15 +4753,15 @@ n'arrivera à y mettre un terme !
 見
 
 1118
-00:00:49,790 --> 00:00:52,470
+00:00:49,560 --> 00:00:49,790
 見
 
 1119
-00:00:46,580 --> 00:00:49,790
-つ
+00:00:49,790 --> 00:00:52,470
+見
 
 1120
-00:00:49,790 --> 00:00:49,990
+00:00:46,580 --> 00:00:49,790
 つ
 
 1121
@@ -4792,15 +4793,15 @@ n'arrivera à y mettre un terme !
 つ
 
 1128
-00:00:49,990 --> 00:00:52,500
+00:00:49,790 --> 00:00:49,990
 つ
 
 1129
-00:00:46,610 --> 00:00:49,990
-め
+00:00:49,990 --> 00:00:52,500
+つ
 
 1130
-00:00:49,990 --> 00:00:50,350
+00:00:46,610 --> 00:00:49,990
 め
 
 1131
@@ -4832,15 +4833,15 @@ n'arrivera à y mettre un terme !
 め
 
 1138
-00:00:50,350 --> 00:00:52,530
+00:00:49,990 --> 00:00:50,350
 め
 
 1139
-00:00:46,640 --> 00:00:50,350
-て
+00:00:50,350 --> 00:00:52,530
+め
 
 1140
-00:00:50,350 --> 00:00:50,740
+00:00:46,640 --> 00:00:50,350
 て
 
 1141
@@ -4872,15 +4873,15 @@ n'arrivera à y mettre un terme !
 て
 
 1148
-00:00:50,740 --> 00:00:52,560
+00:00:50,350 --> 00:00:50,740
 て
 
 1149
-00:00:46,670 --> 00:00:50,740
-い
+00:00:50,740 --> 00:00:52,560
+て
 
 1150
-00:00:50,740 --> 00:00:51,110
+00:00:46,670 --> 00:00:50,740
 い
 
 1151
@@ -4912,15 +4913,15 @@ n'arrivera à y mettre un terme !
 い
 
 1158
-00:00:51,110 --> 00:00:52,590
+00:00:50,740 --> 00:00:51,110
 い
 
 1159
-00:00:46,700 --> 00:00:51,110
-た
+00:00:51,110 --> 00:00:52,590
+い
 
 1160
-00:00:51,110 --> 00:00:51,510
+00:00:46,700 --> 00:00:51,110
 た
 
 1161
@@ -4952,15 +4953,15 @@ n'arrivera à y mettre un terme !
 た
 
 1168
-00:00:51,510 --> 00:00:52,620
+00:00:51,110 --> 00:00:51,510
 た
 
 1169
-00:00:46,730 --> 00:00:51,510
-い
+00:00:51,510 --> 00:00:52,620
+た
 
 1170
-00:00:51,510 --> 00:00:52,100
+00:00:46,730 --> 00:00:51,510
 い
 
 1171
@@ -4992,15 +4993,15 @@ n'arrivera à y mettre un terme !
 い
 
 1178
-00:00:52,100 --> 00:00:52,650
+00:00:51,510 --> 00:00:52,100
 い
 
 1179
-00:00:46,340 --> 00:00:46,680
-ま
+00:00:52,100 --> 00:00:52,650
+い
 
 1180
-00:00:46,680 --> 00:00:46,880
+00:00:46,340 --> 00:00:46,680
 ま
 
 1181
@@ -5032,15 +5033,15 @@ n'arrivera à y mettre un terme !
 ま
 
 1188
-00:00:46,880 --> 00:00:52,260
+00:00:46,680 --> 00:00:46,880
 ま
 
 1189
-00:00:46,340 --> 00:00:46,880
-ぶ
+00:00:46,880 --> 00:00:52,260
+ま
 
 1190
-00:00:46,880 --> 00:00:47,030
+00:00:46,340 --> 00:00:46,880
 ぶ
 
 1191
@@ -5072,15 +5073,15 @@ n'arrivera à y mettre un terme !
 ぶ
 
 1198
-00:00:47,030 --> 00:00:52,260
+00:00:46,880 --> 00:00:47,030
 ぶ
 
 1199
-00:00:46,400 --> 00:00:47,440
-す
+00:00:47,030 --> 00:00:52,260
+ぶ
 
 1200
-00:00:47,440 --> 00:00:47,660
+00:00:46,400 --> 00:00:47,440
 す
 
 1201
@@ -5112,15 +5113,15 @@ n'arrivera à y mettre un terme !
 す
 
 1208
-00:00:47,660 --> 00:00:52,320
+00:00:47,440 --> 00:00:47,660
 す
 
 1209
-00:00:46,550 --> 00:00:49,560
-み
+00:00:47,660 --> 00:00:52,320
+す
 
 1210
-00:00:49,560 --> 00:00:49,790
+00:00:46,550 --> 00:00:49,560
 み
 
 1211
@@ -5152,15 +5153,15 @@ n'arrivera à y mettre un terme !
 み
 
 1218
-00:00:49,790 --> 00:00:52,470
+00:00:49,560 --> 00:00:49,790
 み
 
 1219
-00:00:52,200 --> 00:00:52,620
-ど
+00:00:49,790 --> 00:00:52,470
+み
 
 1220
-00:00:52,620 --> 00:00:52,980
+00:00:52,200 --> 00:00:52,620
 ど
 
 1221
@@ -5192,15 +5193,15 @@ n'arrivera à y mettre un terme !
 ど
 
 1228
-00:00:52,980 --> 00:00:56,240
+00:00:52,620 --> 00:00:52,980
 ど
 
 1229
-00:00:52,230 --> 00:00:52,980
-っか
+00:00:52,980 --> 00:00:56,240
+ど
 
 1230
-00:00:52,980 --> 00:00:53,280
+00:00:52,230 --> 00:00:52,980
 っか
 
 1231
@@ -5232,15 +5233,15 @@ n'arrivera à y mettre un terme !
 っか
 
 1238
-00:00:53,280 --> 00:00:56,270
+00:00:52,980 --> 00:00:53,280
 っか
 
 1239
-00:00:52,260 --> 00:00:53,280
-「美
+00:00:53,280 --> 00:00:56,270
+っか
 
 1240
-00:00:53,280 --> 00:00:53,450
+00:00:52,260 --> 00:00:53,280
 「美
 
 1241
@@ -5272,15 +5273,15 @@ n'arrivera à y mettre un terme !
 「美
 
 1248
-00:00:53,450 --> 00:00:56,300
+00:00:53,280 --> 00:00:53,450
 「美
 
 1249
-00:00:52,290 --> 00:00:53,450
-学」
+00:00:53,450 --> 00:00:56,300
+「美
 
 1250
-00:00:53,450 --> 00:00:53,840
+00:00:52,290 --> 00:00:53,450
 学」
 
 1251
@@ -5312,15 +5313,15 @@ n'arrivera à y mettre un terme !
 学」
 
 1258
-00:00:53,840 --> 00:00:56,330
+00:00:53,450 --> 00:00:53,840
 学」
 
 1259
-00:00:52,320 --> 00:00:53,840
-感
+00:00:53,840 --> 00:00:56,330
+学」
 
 1260
-00:00:53,840 --> 00:00:54,630
+00:00:52,320 --> 00:00:53,840
 感
 
 1261
@@ -5352,15 +5353,15 @@ n'arrivera à y mettre un terme !
 感
 
 1268
-00:00:54,630 --> 00:00:56,360
+00:00:53,840 --> 00:00:54,630
 感
 
 1269
-00:00:52,350 --> 00:00:54,630
-じ
+00:00:54,630 --> 00:00:56,360
+感
 
 1270
-00:00:54,630 --> 00:00:55,020
+00:00:52,350 --> 00:00:54,630
 じ
 
 1271
@@ -5392,15 +5393,15 @@ n'arrivera à y mettre un terme !
 じ
 
 1278
-00:00:55,020 --> 00:00:56,390
+00:00:54,630 --> 00:00:55,020
 じ
 
 1279
-00:00:52,380 --> 00:00:55,020
-て
+00:00:55,020 --> 00:00:56,390
+じ
 
 1280
-00:00:55,020 --> 00:00:55,410
+00:00:52,380 --> 00:00:55,020
 て
 
 1281
@@ -5432,15 +5433,15 @@ n'arrivera à y mettre un terme !
 て
 
 1288
-00:00:55,410 --> 00:00:56,420
+00:00:55,020 --> 00:00:55,410
 て
 
 1289
-00:00:52,410 --> 00:00:55,410
-る
+00:00:55,410 --> 00:00:56,420
+て
 
 1290
-00:00:55,410 --> 00:00:56,080
+00:00:52,410 --> 00:00:55,410
 る
 
 1291
@@ -5472,15 +5473,15 @@ n'arrivera à y mettre un terme !
 る
 
 1298
-00:00:56,080 --> 00:00:56,450
+00:00:55,410 --> 00:00:56,080
 る
 
 1299
-00:00:52,260 --> 00:00:53,280
-び
+00:00:56,080 --> 00:00:56,450
+る
 
 1300
-00:00:53,280 --> 00:00:53,450
+00:00:52,260 --> 00:00:53,280
 び
 
 1301
@@ -5512,15 +5513,15 @@ n'arrivera à y mettre un terme !
 び
 
 1308
-00:00:53,450 --> 00:00:56,300
+00:00:53,280 --> 00:00:53,450
 び
 
 1309
-00:00:52,290 --> 00:00:53,450
-が
+00:00:53,450 --> 00:00:56,300
+び
 
 1310
-00:00:53,450 --> 00:00:53,660
+00:00:52,290 --> 00:00:53,450
 が
 
 1311
@@ -5552,15 +5553,15 @@ n'arrivera à y mettre un terme !
 が
 
 1318
-00:00:53,660 --> 00:00:56,330
+00:00:53,450 --> 00:00:53,660
 が
 
 1319
-00:00:52,290 --> 00:00:53,660
-く
+00:00:53,660 --> 00:00:56,330
+が
 
 1320
-00:00:53,660 --> 00:00:53,840
+00:00:52,290 --> 00:00:53,660
 く
 
 1321
@@ -5592,15 +5593,15 @@ n'arrivera à y mettre un terme !
 く
 
 1328
-00:00:53,840 --> 00:00:56,330
+00:00:53,660 --> 00:00:53,840
 く
 
 1329
-00:00:52,320 --> 00:00:53,840
-か
+00:00:53,840 --> 00:00:56,330
+く
 
 1330
-00:00:53,840 --> 00:00:54,350
+00:00:52,320 --> 00:00:53,840
 か
 
 1331
@@ -5632,15 +5633,15 @@ n'arrivera à y mettre un terme !
 か
 
 1338
-00:00:54,350 --> 00:00:56,360
+00:00:53,840 --> 00:00:54,350
 か
 
 1339
-00:00:52,320 --> 00:00:54,350
-ん
+00:00:54,350 --> 00:00:56,360
+か
 
 1340
-00:00:54,350 --> 00:00:54,630
+00:00:52,320 --> 00:00:54,350
 ん
 
 1341
@@ -5672,15 +5673,15 @@ n'arrivera à y mettre un terme !
 ん
 
 1348
-00:00:54,630 --> 00:00:56,360
+00:00:54,350 --> 00:00:54,630
 ん
 
 1349
-00:00:59,200 --> 00:00:59,630
-誰
+00:00:54,630 --> 00:00:56,360
+ん
 
 1350
-00:00:59,630 --> 00:01:00,050
+00:00:59,200 --> 00:00:59,630
 誰
 
 1351
@@ -5712,15 +5713,15 @@ n'arrivera à y mettre un terme !
 誰
 
 1358
-00:01:00,050 --> 00:01:02,860
+00:00:59,630 --> 00:01:00,050
 誰
 
 1359
-00:00:59,230 --> 00:01:00,050
-に
+00:01:00,050 --> 00:01:02,860
+誰
 
 1360
-00:01:00,050 --> 00:01:00,220
+00:00:59,230 --> 00:01:00,050
 に
 
 1361
@@ -5752,15 +5753,15 @@ n'arrivera à y mettre un terme !
 に
 
 1368
-00:01:00,220 --> 00:01:02,890
+00:01:00,050 --> 00:01:00,220
 に
 
 1369
-00:00:59,260 --> 00:01:00,220
-も
+00:01:00,220 --> 00:01:02,890
+に
 
 1370
-00:01:00,220 --> 00:01:00,430
+00:00:59,260 --> 00:01:00,220
 も
 
 1371
@@ -5792,15 +5793,15 @@ n'arrivera à y mettre un terme !
 も
 
 1378
-00:01:00,430 --> 00:01:02,920
+00:01:00,220 --> 00:01:00,430
 も
 
 1379
-00:00:59,290 --> 00:01:00,430
-似
+00:01:00,430 --> 00:01:02,920
+も
 
 1380
-00:01:00,430 --> 00:01:00,610
+00:00:59,290 --> 00:01:00,430
 似
 
 1381
@@ -5832,15 +5833,15 @@ n'arrivera à y mettre un terme !
 似
 
 1388
-00:01:00,610 --> 00:01:02,950
+00:01:00,430 --> 00:01:00,610
 似
 
 1389
-00:00:59,320 --> 00:01:00,610
-て
+00:01:00,610 --> 00:01:02,950
+似
 
 1390
-00:01:00,610 --> 00:01:00,820
+00:00:59,320 --> 00:01:00,610
 て
 
 1391
@@ -5872,15 +5873,15 @@ n'arrivera à y mettre un terme !
 て
 
 1398
-00:01:00,820 --> 00:01:02,980
+00:01:00,610 --> 00:01:00,820
 て
 
 1399
-00:00:59,350 --> 00:01:00,820
-ない
+00:01:00,820 --> 00:01:02,980
+て
 
 1400
-00:01:00,820 --> 00:01:01,160
+00:00:59,350 --> 00:01:00,820
 ない
 
 1401
@@ -5912,15 +5913,15 @@ n'arrivera à y mettre un terme !
 ない
 
 1408
-00:01:01,160 --> 00:01:03,010
+00:01:00,820 --> 00:01:01,160
 ない
 
 1409
-00:00:59,380 --> 00:01:01,160
-夢
+00:01:01,160 --> 00:01:03,010
+ない
 
 1410
-00:01:01,160 --> 00:01:01,580
+00:00:59,380 --> 00:01:01,160
 夢
 
 1411
@@ -5952,15 +5953,15 @@ n'arrivera à y mettre un terme !
 夢
 
 1418
-00:01:01,580 --> 00:01:03,040
+00:01:01,160 --> 00:01:01,580
 夢
 
 1419
-00:00:59,410 --> 00:01:01,580
-の
+00:01:01,580 --> 00:01:03,040
+夢
 
 1420
-00:01:01,580 --> 00:01:01,790
+00:00:59,410 --> 00:01:01,580
 の
 
 1421
@@ -5992,15 +5993,15 @@ n'arrivera à y mettre un terme !
 の
 
 1428
-00:01:01,790 --> 00:01:03,070
+00:01:01,580 --> 00:01:01,790
 の
 
 1429
-00:00:59,440 --> 00:01:01,790
-背
+00:01:01,790 --> 00:01:03,070
+の
 
 1430
-00:01:01,790 --> 00:01:01,990
+00:00:59,440 --> 00:01:01,790
 背
 
 1431
@@ -6032,15 +6033,15 @@ n'arrivera à y mettre un terme !
 背
 
 1438
-00:01:01,990 --> 00:01:03,100
+00:01:01,790 --> 00:01:01,990
 背
 
 1439
-00:00:59,470 --> 00:01:01,990
-中
+00:01:01,990 --> 00:01:03,100
+背
 
 1440
-00:01:01,990 --> 00:01:02,370
+00:00:59,470 --> 00:01:01,990
 中
 
 1441
@@ -6072,15 +6073,15 @@ n'arrivera à y mettre un terme !
 中
 
 1448
-00:01:02,370 --> 00:01:03,130
+00:01:01,990 --> 00:01:02,370
 中
 
 1449
-00:00:59,500 --> 00:01:02,370
-を
+00:01:02,370 --> 00:01:03,130
+中
 
 1450
-00:01:02,370 --> 00:01:02,700
+00:00:59,500 --> 00:01:02,370
 を
 
 1451
@@ -6112,15 +6113,15 @@ n'arrivera à y mettre un terme !
 を
 
 1458
-00:01:02,700 --> 00:01:03,160
+00:01:02,370 --> 00:01:02,700
 を
 
 1459
-00:00:59,200 --> 00:00:59,630
-だ
+00:01:02,700 --> 00:01:03,160
+を
 
 1460
-00:00:59,630 --> 00:00:59,840
+00:00:59,200 --> 00:00:59,630
 だ
 
 1461
@@ -6152,15 +6153,15 @@ n'arrivera à y mettre un terme !
 だ
 
 1468
-00:00:59,840 --> 00:01:02,860
+00:00:59,630 --> 00:00:59,840
 だ
 
 1469
-00:00:59,200 --> 00:00:59,840
-れ
+00:00:59,840 --> 00:01:02,860
+だ
 
 1470
-00:00:59,840 --> 00:01:00,050
+00:00:59,200 --> 00:00:59,840
 れ
 
 1471
@@ -6192,15 +6193,15 @@ n'arrivera à y mettre un terme !
 れ
 
 1478
-00:01:00,050 --> 00:01:02,860
+00:00:59,840 --> 00:01:00,050
 れ
 
 1479
-00:00:59,290 --> 00:01:00,430
-に
+00:01:00,050 --> 00:01:02,860
+れ
 
 1480
-00:01:00,430 --> 00:01:00,610
+00:00:59,290 --> 00:01:00,430
 に
 
 1481
@@ -6232,15 +6233,15 @@ n'arrivera à y mettre un terme !
 に
 
 1488
-00:01:00,610 --> 00:01:02,950
+00:01:00,430 --> 00:01:00,610
 に
 
 1489
-00:00:59,380 --> 00:01:01,160
-ゆ
+00:01:00,610 --> 00:01:02,950
+に
 
 1490
-00:01:01,160 --> 00:01:01,390
+00:00:59,380 --> 00:01:01,160
 ゆ
 
 1491
@@ -6272,15 +6273,15 @@ n'arrivera à y mettre un terme !
 ゆ
 
 1498
-00:01:01,390 --> 00:01:03,040
+00:01:01,160 --> 00:01:01,390
 ゆ
 
 1499
-00:00:59,380 --> 00:01:01,390
-め
+00:01:01,390 --> 00:01:03,040
+ゆ
 
 1500
-00:01:01,390 --> 00:01:01,580
+00:00:59,380 --> 00:01:01,390
 め
 
 1501
@@ -6312,15 +6313,15 @@ n'arrivera à y mettre un terme !
 め
 
 1508
-00:01:01,580 --> 00:01:03,040
+00:01:01,390 --> 00:01:01,580
 め
 
 1509
-00:00:59,440 --> 00:01:01,790
-せ
+00:01:01,580 --> 00:01:03,040
+め
 
 1510
-00:01:01,790 --> 00:01:01,990
+00:00:59,440 --> 00:01:01,790
 せ
 
 1511
@@ -6352,15 +6353,15 @@ n'arrivera à y mettre un terme !
 せ
 
 1518
-00:01:01,990 --> 00:01:03,100
+00:01:01,790 --> 00:01:01,990
 せ
 
 1519
-00:00:59,470 --> 00:01:01,990
-な
+00:01:01,990 --> 00:01:03,100
+せ
 
 1520
-00:01:01,990 --> 00:01:02,170
+00:00:59,470 --> 00:01:01,990
 な
 
 1521
@@ -6392,15 +6393,15 @@ n'arrivera à y mettre un terme !
 な
 
 1528
-00:01:02,170 --> 00:01:03,130
+00:01:01,990 --> 00:01:02,170
 な
 
 1529
-00:00:59,470 --> 00:01:02,170
-か
+00:01:02,170 --> 00:01:03,130
+な
 
 1530
-00:01:02,170 --> 00:01:02,370
+00:00:59,470 --> 00:01:02,170
 か
 
 1531
@@ -6432,15 +6433,15 @@ n'arrivera à y mettre un terme !
 か
 
 1538
-00:01:02,370 --> 00:01:03,130
+00:01:02,170 --> 00:01:02,370
 か
 
 1539
-00:01:02,460 --> 00:01:02,760
-追
+00:01:02,370 --> 00:01:03,130
+か
 
 1540
-00:01:02,760 --> 00:01:02,970
+00:01:02,460 --> 00:01:02,760
 追
 
 1541
@@ -6472,15 +6473,15 @@ n'arrivera à y mettre un terme !
 追
 
 1548
-00:01:02,970 --> 00:01:06,150
+00:01:02,760 --> 00:01:02,970
 追
 
 1549
-00:01:02,490 --> 00:01:02,970
-い
+00:01:02,970 --> 00:01:06,150
+追
 
 1550
-00:01:02,970 --> 00:01:03,120
+00:01:02,490 --> 00:01:02,970
 い
 
 1551
@@ -6512,15 +6513,15 @@ n'arrivera à y mettre un terme !
 い
 
 1558
-00:01:03,120 --> 00:01:06,180
+00:01:02,970 --> 00:01:03,120
 い
 
 1559
-00:01:02,520 --> 00:01:03,120
-か
+00:01:03,120 --> 00:01:06,180
+い
 
 1560
-00:01:03,120 --> 00:01:03,300
+00:01:02,520 --> 00:01:03,120
 か
 
 1561
@@ -6552,15 +6553,15 @@ n'arrivera à y mettre un terme !
 か
 
 1568
-00:01:03,300 --> 00:01:06,210
+00:01:03,120 --> 00:01:03,300
 か
 
 1569
-00:01:02,550 --> 00:01:03,300
-け
+00:01:03,300 --> 00:01:06,210
+か
 
 1570
-00:01:03,300 --> 00:01:03,500
+00:01:02,550 --> 00:01:03,300
 け
 
 1571
@@ -6592,15 +6593,15 @@ n'arrivera à y mettre un terme !
 け
 
 1578
-00:01:03,500 --> 00:01:06,240
+00:01:03,300 --> 00:01:03,500
 け
 
 1579
-00:01:02,580 --> 00:01:03,500
-て
+00:01:03,500 --> 00:01:06,240
+け
 
 1580
-00:01:03,500 --> 00:01:03,680
+00:01:02,580 --> 00:01:03,500
 て
 
 1581
@@ -6632,15 +6633,15 @@ n'arrivera à y mettre un terme !
 て
 
 1588
-00:01:03,680 --> 00:01:06,270
+00:01:03,500 --> 00:01:03,680
 て
 
 1589
-00:01:02,640 --> 00:01:03,680
-追
+00:01:03,680 --> 00:01:06,270
+て
 
 1590
-00:01:03,680 --> 00:01:03,850
+00:01:02,640 --> 00:01:03,680
 追
 
 1591
@@ -6672,15 +6673,15 @@ n'arrivera à y mettre un terme !
 追
 
 1598
-00:01:03,850 --> 00:01:06,330
+00:01:03,680 --> 00:01:03,850
 追
 
 1599
-00:01:02,670 --> 00:01:03,850
-い
+00:01:03,850 --> 00:01:06,330
+追
 
 1600
-00:01:03,850 --> 00:01:04,270
+00:01:02,670 --> 00:01:03,850
 い
 
 1601
@@ -6712,15 +6713,15 @@ n'arrivera à y mettre un terme !
 い
 
 1608
-00:01:04,270 --> 00:01:06,360
+00:01:03,850 --> 00:01:04,270
 い
 
 1609
-00:01:02,700 --> 00:01:04,270
-か
+00:01:04,270 --> 00:01:06,360
+い
 
 1610
-00:01:04,270 --> 00:01:04,680
+00:01:02,700 --> 00:01:04,270
 か
 
 1611
@@ -6752,15 +6753,15 @@ n'arrivera à y mettre un terme !
 か
 
 1618
-00:01:04,680 --> 00:01:06,390
+00:01:04,270 --> 00:01:04,680
 か
 
 1619
-00:01:02,730 --> 00:01:04,680
-け
+00:01:04,680 --> 00:01:06,390
+か
 
 1620
-00:01:04,680 --> 00:01:05,060
+00:01:02,730 --> 00:01:04,680
 け
 
 1621
@@ -6792,15 +6793,15 @@ n'arrivera à y mettre un terme !
 け
 
 1628
-00:01:05,060 --> 00:01:06,420
+00:01:04,680 --> 00:01:05,060
 け
 
 1629
-00:01:02,760 --> 00:01:05,060
-て
+00:01:05,060 --> 00:01:06,420
+け
 
 1630
-00:01:05,060 --> 00:01:05,450
+00:01:02,760 --> 00:01:05,060
 て
 
 1631
@@ -6832,15 +6833,15 @@ n'arrivera à y mettre un terme !
 て
 
 1638
-00:01:05,450 --> 00:01:06,450
+00:01:05,060 --> 00:01:05,450
 て
 
 1639
-00:01:02,790 --> 00:01:05,450
-く
+00:01:05,450 --> 00:01:06,450
+て
 
 1640
-00:01:05,450 --> 00:01:05,990
+00:01:02,790 --> 00:01:05,450
 く
 
 1641
@@ -6872,15 +6873,15 @@ n'arrivera à y mettre un terme !
 く
 
 1648
-00:01:05,990 --> 00:01:06,480
+00:01:05,450 --> 00:01:05,990
 く
 
 1649
-00:01:02,460 --> 00:01:02,760
-お
+00:01:05,990 --> 00:01:06,480
+く
 
 1650
-00:01:02,760 --> 00:01:02,970
+00:01:02,460 --> 00:01:02,760
 お
 
 1651
@@ -6912,15 +6913,15 @@ n'arrivera à y mettre un terme !
 お
 
 1658
-00:01:02,970 --> 00:01:06,150
+00:01:02,760 --> 00:01:02,970
 お
 
 1659
-00:01:02,640 --> 00:01:03,680
+00:01:02,970 --> 00:01:06,150
 お
 
 1660
-00:01:03,680 --> 00:01:03,850
+00:01:02,640 --> 00:01:03,680
 お
 
 1661
@@ -6952,15 +6953,15 @@ n'arrivera à y mettre un terme !
 お
 
 1668
-00:01:03,850 --> 00:01:06,330
+00:01:03,680 --> 00:01:03,850
 お
 
 1669
-00:01:05,750 --> 00:01:06,050
-ド
+00:01:03,850 --> 00:01:06,330
+お
 
 1670
-00:01:06,050 --> 00:01:06,420
+00:01:05,750 --> 00:01:06,050
 ド
 
 1671
@@ -6992,15 +6993,15 @@ n'arrivera à y mettre un terme !
 ド
 
 1678
-00:01:06,420 --> 00:01:09,380
+00:01:06,050 --> 00:01:06,420
 ド
 
 1679
-00:01:05,780 --> 00:01:06,420
-ラ
+00:01:06,420 --> 00:01:09,380
+ド
 
 1680
-00:01:06,420 --> 00:01:06,800
+00:01:05,780 --> 00:01:06,420
 ラ
 
 1681
@@ -7032,15 +7033,15 @@ n'arrivera à y mettre un terme !
 ラ
 
 1688
-00:01:06,800 --> 00:01:09,410
+00:01:06,420 --> 00:01:06,800
 ラ
 
 1689
-00:01:05,810 --> 00:01:06,800
-マ
+00:01:06,800 --> 00:01:09,410
+ラ
 
 1690
-00:01:06,800 --> 00:01:07,020
+00:01:05,810 --> 00:01:06,800
 マ
 
 1691
@@ -7072,15 +7073,15 @@ n'arrivera à y mettre un terme !
 マ
 
 1698
-00:01:07,020 --> 00:01:09,440
+00:01:06,800 --> 00:01:07,020
 マ
 
 1699
-00:01:05,840 --> 00:01:07,020
-ティック
+00:01:07,020 --> 00:01:09,440
+マ
 
 1700
-00:01:07,020 --> 00:01:07,370
+00:01:05,840 --> 00:01:07,020
 ティック
 
 1701
@@ -7112,15 +7113,15 @@ n'arrivera à y mettre un terme !
 ティック
 
 1708
-00:01:07,370 --> 00:01:09,470
+00:01:07,020 --> 00:01:07,370
 ティック
 
 1709
-00:01:05,900 --> 00:01:07,370
-手
+00:01:07,370 --> 00:01:09,470
+ティック
 
 1710
-00:01:07,370 --> 00:01:07,560
+00:01:05,900 --> 00:01:07,370
 手
 
 1711
@@ -7152,15 +7153,15 @@ n'arrivera à y mettre un terme !
 手
 
 1718
-00:01:07,560 --> 00:01:09,530
+00:01:07,370 --> 00:01:07,560
 手
 
 1719
-00:01:05,930 --> 00:01:07,560
-に
+00:01:07,560 --> 00:01:09,530
+手
 
 1720
-00:01:07,560 --> 00:01:07,780
+00:01:05,930 --> 00:01:07,560
 に
 
 1721
@@ -7192,15 +7193,15 @@ n'arrivera à y mettre un terme !
 に
 
 1728
-00:01:07,780 --> 00:01:09,560
+00:01:07,560 --> 00:01:07,780
 に
 
 1729
-00:01:05,960 --> 00:01:07,780
-入
+00:01:07,780 --> 00:01:09,560
+に
 
 1730
-00:01:07,780 --> 00:01:07,970
+00:01:05,960 --> 00:01:07,780
 入
 
 1731
@@ -7232,15 +7233,15 @@ n'arrivera à y mettre un terme !
 入
 
 1738
-00:01:07,970 --> 00:01:09,590
+00:01:07,780 --> 00:01:07,970
 入
 
 1739
-00:01:05,990 --> 00:01:07,970
-れ
+00:01:07,970 --> 00:01:09,590
+入
 
 1740
-00:01:07,970 --> 00:01:08,190
+00:01:05,990 --> 00:01:07,970
 れ
 
 1741
@@ -7272,15 +7273,15 @@ n'arrivera à y mettre un terme !
 れ
 
 1748
-00:01:08,190 --> 00:01:09,620
+00:01:07,970 --> 00:01:08,190
 れ
 
 1749
-00:01:06,020 --> 00:01:08,190
-る
+00:01:08,190 --> 00:01:09,620
+れ
 
 1750
-00:01:08,190 --> 00:01:08,350
+00:01:06,020 --> 00:01:08,190
 る
 
 1751
@@ -7312,15 +7313,15 @@ n'arrivera à y mettre un terme !
 る
 
 1758
-00:01:08,350 --> 00:01:09,650
+00:01:08,190 --> 00:01:08,350
 る
 
 1759
-00:01:06,050 --> 00:01:08,350
-ま
+00:01:08,350 --> 00:01:09,650
+る
 
 1760
-00:01:08,350 --> 00:01:08,560
+00:01:06,050 --> 00:01:08,350
 ま
 
 1761
@@ -7352,15 +7353,15 @@ n'arrivera à y mettre un terme !
 ま
 
 1768
-00:01:08,560 --> 00:01:09,680
+00:01:08,350 --> 00:01:08,560
 ま
 
 1769
-00:01:06,080 --> 00:01:08,560
-で
+00:01:08,560 --> 00:01:09,680
+ま
 
 1770
-00:01:08,560 --> 00:01:09,220
+00:01:06,080 --> 00:01:08,560
 で
 
 1771
@@ -7392,15 +7393,15 @@ n'arrivera à y mettre un terme !
 で
 
 1778
-00:01:09,220 --> 00:01:09,710
+00:01:08,560 --> 00:01:09,220
 で
 
 1779
-00:01:05,900 --> 00:01:07,370
-て
+00:01:09,220 --> 00:01:09,710
+で
 
 1780
-00:01:07,370 --> 00:01:07,560
+00:01:05,900 --> 00:01:07,370
 て
 
 1781
@@ -7432,15 +7433,15 @@ n'arrivera à y mettre un terme !
 て
 
 1788
-00:01:07,560 --> 00:01:09,530
+00:01:07,370 --> 00:01:07,560
 て
 
 1789
-00:01:05,960 --> 00:01:07,780
-い
+00:01:07,560 --> 00:01:09,530
+て
 
 1790
-00:01:07,780 --> 00:01:07,970
+00:01:05,960 --> 00:01:07,780
 い
 
 1791
@@ -7472,15 +7473,15 @@ n'arrivera à y mettre un terme !
 い
 
 1798
-00:01:07,970 --> 00:01:09,590
+00:01:07,780 --> 00:01:07,970
 い
 
 1799
-00:01:17,840 --> 00:01:18,220
-誰
+00:01:07,970 --> 00:01:09,590
+い
 
 1800
-00:01:18,220 --> 00:01:18,610
+00:01:17,840 --> 00:01:18,220
 誰
 
 1801
@@ -7512,15 +7513,15 @@ n'arrivera à y mettre un terme !
 誰
 
 1808
-00:01:18,610 --> 00:01:21,280
+00:01:18,220 --> 00:01:18,610
 誰
 
 1809
-00:01:17,870 --> 00:01:18,610
-に
+00:01:18,610 --> 00:01:21,280
+誰
 
 1810
-00:01:18,610 --> 00:01:18,790
+00:01:17,870 --> 00:01:18,610
 に
 
 1811
@@ -7552,15 +7553,15 @@ n'arrivera à y mettre un terme !
 に
 
 1818
-00:01:18,790 --> 00:01:21,310
+00:01:18,610 --> 00:01:18,790
 に
 
 1819
-00:01:17,900 --> 00:01:18,790
-も
+00:01:18,790 --> 00:01:21,310
+に
 
 1820
-00:01:18,790 --> 00:01:19,000
+00:01:17,900 --> 00:01:18,790
 も
 
 1821
@@ -7592,15 +7593,15 @@ n'arrivera à y mettre un terme !
 も
 
 1828
-00:01:19,000 --> 00:01:21,340
+00:01:18,790 --> 00:01:19,000
 も
 
 1829
-00:01:17,930 --> 00:01:19,000
-見
+00:01:19,000 --> 00:01:21,340
+も
 
 1830
-00:01:19,000 --> 00:01:19,210
+00:01:17,930 --> 00:01:19,000
 見
 
 1831
@@ -7632,15 +7633,15 @@ n'arrivera à y mettre un terme !
 見
 
 1838
-00:01:19,210 --> 00:01:21,370
+00:01:19,000 --> 00:01:19,210
 見
 
 1839
-00:01:17,960 --> 00:01:19,210
-え
+00:01:19,210 --> 00:01:21,370
+見
 
 1840
-00:01:19,210 --> 00:01:19,390
+00:01:17,960 --> 00:01:19,210
 え
 
 1841
@@ -7672,15 +7673,15 @@ n'arrivera à y mettre un terme !
 え
 
 1848
-00:01:19,390 --> 00:01:21,400
+00:01:19,210 --> 00:01:19,390
 え
 
 1849
-00:01:17,990 --> 00:01:19,390
-ない
+00:01:19,390 --> 00:01:21,400
+え
 
 1850
-00:01:19,390 --> 00:01:19,780
+00:01:17,990 --> 00:01:19,390
 ない
 
 1851
@@ -7712,15 +7713,15 @@ n'arrivera à y mettre un terme !
 ない
 
 1858
-00:01:19,780 --> 00:01:21,430
+00:01:19,390 --> 00:01:19,780
 ない
 
 1859
-00:01:18,020 --> 00:01:19,780
-夢
+00:01:19,780 --> 00:01:21,430
+ない
 
 1860
-00:01:19,780 --> 00:01:20,150
+00:01:18,020 --> 00:01:19,780
 夢
 
 1861
@@ -7752,15 +7753,15 @@ n'arrivera à y mettre un terme !
 夢
 
 1868
-00:01:20,150 --> 00:01:21,460
+00:01:19,780 --> 00:01:20,150
 夢
 
 1869
-00:01:18,050 --> 00:01:20,150
-の
+00:01:20,150 --> 00:01:21,460
+夢
 
 1870
-00:01:20,150 --> 00:01:20,360
+00:01:18,050 --> 00:01:20,150
 の
 
 1871
@@ -7792,15 +7793,15 @@ n'arrivera à y mettre un terme !
 の
 
 1878
-00:01:20,360 --> 00:01:21,490
+00:01:20,150 --> 00:01:20,360
 の
 
 1879
-00:01:18,080 --> 00:01:20,360
-カ
+00:01:20,360 --> 00:01:21,490
+の
 
 1880
-00:01:20,360 --> 00:01:20,560
+00:01:18,080 --> 00:01:20,360
 カ
 
 1881
@@ -7832,15 +7833,15 @@ n'arrivera à y mettre un terme !
 カ
 
 1888
-00:01:20,560 --> 00:01:21,520
+00:01:20,360 --> 00:01:20,560
 カ
 
 1889
-00:01:18,110 --> 00:01:20,560
-タ
+00:01:20,560 --> 00:01:21,520
+カ
 
 1890
-00:01:20,560 --> 00:01:20,750
+00:01:18,110 --> 00:01:20,560
 タ
 
 1891
@@ -7872,15 +7873,15 @@ n'arrivera à y mettre un terme !
 タ
 
 1898
-00:01:20,750 --> 00:01:21,550
+00:01:20,560 --> 00:01:20,750
 タ
 
 1899
-00:01:18,140 --> 00:01:20,750
-チ
+00:01:20,750 --> 00:01:21,550
+タ
 
 1900
-00:01:20,750 --> 00:01:20,950
+00:01:18,140 --> 00:01:20,750
 チ
 
 1901
@@ -7912,15 +7913,15 @@ n'arrivera à y mettre un terme !
 チ
 
 1908
-00:01:20,950 --> 00:01:21,580
+00:01:20,750 --> 00:01:20,950
 チ
 
 1909
-00:01:18,170 --> 00:01:20,950
-を
+00:01:20,950 --> 00:01:21,580
+チ
 
 1910
-00:01:20,950 --> 00:01:21,120
+00:01:18,170 --> 00:01:20,950
 を
 
 1911
@@ -7952,15 +7953,15 @@ n'arrivera à y mettre un terme !
 を
 
 1918
-00:01:21,120 --> 00:01:21,610
+00:01:20,950 --> 00:01:21,120
 を
 
 1919
-00:01:17,840 --> 00:01:18,220
-だ
+00:01:21,120 --> 00:01:21,610
+を
 
 1920
-00:01:18,220 --> 00:01:18,420
+00:01:17,840 --> 00:01:18,220
 だ
 
 1921
@@ -7992,15 +7993,15 @@ n'arrivera à y mettre un terme !
 だ
 
 1928
-00:01:18,420 --> 00:01:21,280
+00:01:18,220 --> 00:01:18,420
 だ
 
 1929
-00:01:17,840 --> 00:01:18,420
-れ
+00:01:18,420 --> 00:01:21,280
+だ
 
 1930
-00:01:18,420 --> 00:01:18,610
+00:01:17,840 --> 00:01:18,420
 れ
 
 1931
@@ -8032,15 +8033,15 @@ n'arrivera à y mettre un terme !
 れ
 
 1938
-00:01:18,610 --> 00:01:21,280
+00:01:18,420 --> 00:01:18,610
 れ
 
 1939
-00:01:17,930 --> 00:01:19,000
-み
+00:01:18,610 --> 00:01:21,280
+れ
 
 1940
-00:01:19,000 --> 00:01:19,210
+00:01:17,930 --> 00:01:19,000
 み
 
 1941
@@ -8072,15 +8073,15 @@ n'arrivera à y mettre un terme !
 み
 
 1948
-00:01:19,210 --> 00:01:21,370
+00:01:19,000 --> 00:01:19,210
 み
 
 1949
-00:01:18,020 --> 00:01:19,780
-ゆ
+00:01:19,210 --> 00:01:21,370
+み
 
 1950
-00:01:19,780 --> 00:01:19,970
+00:01:18,020 --> 00:01:19,780
 ゆ
 
 1951
@@ -8112,15 +8113,15 @@ n'arrivera à y mettre un terme !
 ゆ
 
 1958
-00:01:19,970 --> 00:01:21,460
+00:01:19,780 --> 00:01:19,970
 ゆ
 
 1959
-00:01:18,020 --> 00:01:19,970
-め
+00:01:19,970 --> 00:01:21,460
+ゆ
 
 1960
-00:01:19,970 --> 00:01:20,150
+00:01:18,020 --> 00:01:19,970
 め
 
 1961
@@ -8152,15 +8153,15 @@ n'arrivera à y mettre un terme !
 め
 
 1968
-00:01:20,150 --> 00:01:21,460
+00:01:19,970 --> 00:01:20,150
 め
 
 1969
-00:01:20,980 --> 00:01:21,340
-つ
+00:01:20,150 --> 00:01:21,460
+め
 
 1970
-00:01:21,340 --> 00:01:21,520
+00:01:20,980 --> 00:01:21,340
 つ
 
 1971
@@ -8192,15 +8193,15 @@ n'arrivera à y mettre un terme !
 つ
 
 1978
-00:01:21,520 --> 00:01:24,360
+00:01:21,340 --> 00:01:21,520
 つ
 
 1979
-00:01:21,010 --> 00:01:21,520
-か
+00:01:21,520 --> 00:01:24,360
+つ
 
 1980
-00:01:21,520 --> 00:01:21,710
+00:01:21,010 --> 00:01:21,520
 か
 
 1981
@@ -8232,15 +8233,15 @@ n'arrivera à y mettre un terme !
 か
 
 1988
-00:01:21,710 --> 00:01:24,390
+00:01:21,520 --> 00:01:21,710
 か
 
 1989
-00:01:21,040 --> 00:01:21,710
-ま
+00:01:21,710 --> 00:01:24,390
+か
 
 1990
-00:01:21,710 --> 00:01:21,890
+00:01:21,040 --> 00:01:21,710
 ま
 
 1991
@@ -8272,15 +8273,15 @@ n'arrivera à y mettre un terme !
 ま
 
 1998
-00:01:21,890 --> 00:01:24,420
+00:01:21,710 --> 00:01:21,890
 ま
 
 1999
-00:01:21,070 --> 00:01:21,890
-え
+00:01:21,890 --> 00:01:24,420
+ま
 
 2000
-00:01:21,890 --> 00:01:22,080
+00:01:21,070 --> 00:01:21,890
 え
 
 2001
@@ -8312,15 +8313,15 @@ n'arrivera à y mettre un terme !
 え
 
 2008
-00:01:22,080 --> 00:01:24,450
+00:01:21,890 --> 00:01:22,080
 え
 
 2009
-00:01:21,100 --> 00:01:22,080
-て
+00:01:22,080 --> 00:01:24,450
+え
 
 2010
-00:01:22,080 --> 00:01:22,300
+00:01:21,100 --> 00:01:22,080
 て
 
 2011
@@ -8352,15 +8353,15 @@ n'arrivera à y mettre un terme !
 て
 
 2018
-00:01:22,300 --> 00:01:24,480
+00:01:22,080 --> 00:01:22,300
 て
 
 2019
-00:01:21,160 --> 00:01:22,300
-つ
+00:01:22,300 --> 00:01:24,480
+て
 
 2020
-00:01:22,300 --> 00:01:22,470
+00:01:21,160 --> 00:01:22,300
 つ
 
 2021
@@ -8392,15 +8393,15 @@ n'arrivera à y mettre un terme !
 つ
 
 2028
-00:01:22,470 --> 00:01:24,540
+00:01:22,300 --> 00:01:22,470
 つ
 
 2029
-00:01:21,190 --> 00:01:22,470
-か
+00:01:22,470 --> 00:01:24,540
+つ
 
 2030
-00:01:22,470 --> 00:01:22,880
+00:01:21,190 --> 00:01:22,470
 か
 
 2031
@@ -8432,15 +8433,15 @@ n'arrivera à y mettre un terme !
 か
 
 2038
-00:01:22,880 --> 00:01:24,570
+00:01:22,470 --> 00:01:22,880
 か
 
 2039
-00:01:21,220 --> 00:01:22,880
-ま
+00:01:22,880 --> 00:01:24,570
+か
 
 2040
-00:01:22,880 --> 00:01:23,260
+00:01:21,220 --> 00:01:22,880
 ま
 
 2041
@@ -8472,15 +8473,15 @@ n'arrivera à y mettre un terme !
 ま
 
 2048
-00:01:23,260 --> 00:01:24,600
+00:01:22,880 --> 00:01:23,260
 ま
 
 2049
-00:01:21,250 --> 00:01:23,260
-え
+00:01:23,260 --> 00:01:24,600
+ま
 
 2050
-00:01:23,260 --> 00:01:23,580
+00:01:21,250 --> 00:01:23,260
 え
 
 2051
@@ -8512,15 +8513,15 @@ n'arrivera à y mettre un terme !
 え
 
 2058
-00:01:23,580 --> 00:01:24,630
+00:01:23,260 --> 00:01:23,580
 え
 
 2059
-00:01:21,280 --> 00:01:23,580
-て
+00:01:23,580 --> 00:01:24,630
+え
 
 2060
-00:01:23,580 --> 00:01:23,980
+00:01:21,280 --> 00:01:23,580
 て
 
 2061
@@ -8552,15 +8553,15 @@ n'arrivera à y mettre un terme !
 て
 
 2068
-00:01:23,980 --> 00:01:24,660
+00:01:23,580 --> 00:01:23,980
 て
 
 2069
-00:01:21,310 --> 00:01:23,980
-く
+00:01:23,980 --> 00:01:24,660
+て
 
 2070
-00:01:23,980 --> 00:01:24,200
+00:01:21,310 --> 00:01:23,980
 く
 
 2071
@@ -8592,15 +8593,15 @@ n'arrivera à y mettre un terme !
 く
 
 2078
-00:01:24,200 --> 00:01:24,690
+00:01:23,980 --> 00:01:24,200
 く
 
 2079
-00:01:24,240 --> 00:01:24,610
-わ
+00:01:24,200 --> 00:01:24,690
+く
 
 2080
-00:01:24,610 --> 00:01:25,000
+00:01:24,240 --> 00:01:24,610
 わ
 
 2081
@@ -8632,15 +8633,15 @@ n'arrivera à y mettre un terme !
 わ
 
 2088
-00:01:25,000 --> 00:01:30,380
+00:01:24,610 --> 00:01:25,000
 わ
 
 2089
-00:01:24,270 --> 00:01:25,000
-た
+00:01:25,000 --> 00:01:30,380
+わ
 
 2090
-00:01:25,000 --> 00:01:25,360
+00:01:24,270 --> 00:01:25,000
 た
 
 2091
@@ -8672,15 +8673,15 @@ n'arrivera à y mettre un terme !
 た
 
 2098
-00:01:25,360 --> 00:01:30,410
+00:01:25,000 --> 00:01:25,360
 た
 
 2099
-00:01:24,300 --> 00:01:25,360
-し
+00:01:25,360 --> 00:01:30,410
+た
 
 2100
-00:01:25,360 --> 00:01:25,600
+00:01:24,300 --> 00:01:25,360
 し
 
 2101
@@ -8712,15 +8713,15 @@ n'arrivera à y mettre un terme !
 し
 
 2108
-00:01:25,600 --> 00:01:30,440
+00:01:25,360 --> 00:01:25,600
 し
 
 2109
-00:01:24,330 --> 00:01:25,600
-は
+00:01:25,600 --> 00:01:30,440
+し
 
 2110
-00:01:25,600 --> 00:01:25,980
+00:01:24,330 --> 00:01:25,600
 は
 
 2111
@@ -8752,15 +8753,15 @@ n'arrivera à y mettre un terme !
 は
 
 2118
-00:01:25,980 --> 00:01:30,470
+00:01:25,600 --> 00:01:25,980
 は
 
 2119
-00:01:24,360 --> 00:01:25,980
-つ
+00:01:25,980 --> 00:01:30,470
+は
 
 2120
-00:01:25,980 --> 00:01:26,160
+00:01:24,360 --> 00:01:25,980
 つ
 
 2121
@@ -8792,15 +8793,15 @@ n'arrivera à y mettre un terme !
 つ
 
 2128
-00:01:26,160 --> 00:01:30,500
+00:01:25,980 --> 00:01:26,160
 つ
 
 2129
-00:01:24,390 --> 00:01:26,160
-い
+00:01:26,160 --> 00:01:30,500
+つ
 
 2130
-00:01:26,160 --> 00:01:26,350
+00:01:24,390 --> 00:01:26,160
 い
 
 2131
@@ -8832,15 +8833,15 @@ n'arrivera à y mettre un terme !
 い
 
 2138
-00:01:26,350 --> 00:01:30,530
+00:01:26,160 --> 00:01:26,350
 い
 
 2139
-00:01:24,420 --> 00:01:26,350
-て
+00:01:26,350 --> 00:01:30,530
+い
 
 2140
-00:01:26,350 --> 00:01:26,560
+00:01:24,420 --> 00:01:26,350
 て
 
 2141
@@ -8872,15 +8873,15 @@ n'arrivera à y mettre un terme !
 て
 
 2148
-00:01:26,560 --> 00:01:30,560
+00:01:26,350 --> 00:01:26,560
 て
 
 2149
-00:01:24,450 --> 00:01:26,560
-行
+00:01:26,560 --> 00:01:30,560
+て
 
 2150
-00:01:26,560 --> 00:01:26,740
+00:01:24,450 --> 00:01:26,560
 行
 
 2151
@@ -8912,15 +8913,15 @@ n'arrivera à y mettre un terme !
 行
 
 2158
-00:01:26,740 --> 00:01:30,590
+00:01:26,560 --> 00:01:26,740
 行
 
 2159
-00:01:24,480 --> 00:01:26,740
-く
+00:01:26,740 --> 00:01:30,590
+行
 
 2160
-00:01:26,740 --> 00:01:26,930
+00:01:24,480 --> 00:01:26,740
 く
 
 2161
@@ -8952,15 +8953,15 @@ n'arrivera à y mettre un terme !
 く
 
 2168
-00:01:26,930 --> 00:01:30,620
+00:01:26,740 --> 00:01:26,930
 く
 
 2169
-00:01:24,510 --> 00:01:26,930
-か
+00:01:26,930 --> 00:01:30,620
+く
 
 2170
-00:01:26,930 --> 00:01:27,150
+00:01:24,510 --> 00:01:26,930
 か
 
 2171
@@ -8992,15 +8993,15 @@ n'arrivera à y mettre un terme !
 か
 
 2178
-00:01:27,150 --> 00:01:30,650
+00:01:26,930 --> 00:01:27,150
 か
 
 2179
-00:01:24,540 --> 00:01:27,150
-ら
+00:01:27,150 --> 00:01:30,650
+か
 
 2180
-00:01:27,150 --> 00:01:27,680
+00:01:24,540 --> 00:01:27,150
 ら
 
 2181
@@ -9032,15 +9033,15 @@ n'arrivera à y mettre un terme !
 ら
 
 2188
-00:01:27,680 --> 00:01:30,680
+00:01:27,150 --> 00:01:27,680
 ら
 
 2189
-00:01:24,600 --> 00:01:28,060
-熱
+00:01:27,680 --> 00:01:30,680
+ら
 
 2190
-00:01:28,060 --> 00:01:28,470
+00:01:24,600 --> 00:01:28,060
 熱
 
 2191
@@ -9072,15 +9073,15 @@ n'arrivera à y mettre un terme !
 熱
 
 2198
-00:01:28,470 --> 00:01:30,740
+00:01:28,060 --> 00:01:28,470
 熱
 
 2199
-00:01:24,630 --> 00:01:28,470
-い
+00:01:28,470 --> 00:01:30,740
+熱
 
 2200
-00:01:28,470 --> 00:01:28,670
+00:01:24,630 --> 00:01:28,470
 い
 
 2201
@@ -9112,15 +9113,15 @@ n'arrivera à y mettre un terme !
 い
 
 2208
-00:01:28,670 --> 00:01:30,770
+00:01:28,470 --> 00:01:28,670
 い
 
 2209
-00:01:24,660 --> 00:01:28,670
-キ
+00:01:28,670 --> 00:01:30,770
+い
 
 2210
-00:01:28,670 --> 00:01:28,860
+00:01:24,660 --> 00:01:28,670
 キ
 
 2211
@@ -9152,15 +9153,15 @@ n'arrivera à y mettre un terme !
 キ
 
 2218
-00:01:28,860 --> 00:01:30,800
+00:01:28,670 --> 00:01:28,860
 キ
 
 2219
-00:01:24,690 --> 00:01:28,860
-モ
+00:01:28,860 --> 00:01:30,800
+キ
 
 2220
-00:01:28,860 --> 00:01:29,470
+00:01:24,690 --> 00:01:28,860
 モ
 
 2221
@@ -9192,15 +9193,15 @@ n'arrivera à y mettre un terme !
 モ
 
 2228
-00:01:29,470 --> 00:01:30,830
+00:01:28,860 --> 00:01:29,470
 モ
 
 2229
-00:01:24,720 --> 00:01:29,470
-チ
+00:01:29,470 --> 00:01:30,830
+モ
 
 2230
-00:01:29,470 --> 00:01:30,220
+00:01:24,720 --> 00:01:29,470
 チ
 
 2231
@@ -9232,15 +9233,15 @@ n'arrivera à y mettre un terme !
 チ
 
 2238
-00:01:30,220 --> 00:01:30,860
+00:01:29,470 --> 00:01:30,220
 チ
 
 2239
-00:01:24,450 --> 00:01:26,560
-ゆ
+00:01:30,220 --> 00:01:30,860
+チ
 
 2240
-00:01:26,560 --> 00:01:26,740
+00:01:24,450 --> 00:01:26,560
 ゆ
 
 2241
@@ -9272,15 +9273,15 @@ n'arrivera à y mettre un terme !
 ゆ
 
 2248
-00:01:26,740 --> 00:01:30,590
+00:01:26,560 --> 00:01:26,740
 ゆ
 
 2249
-00:01:24,600 --> 00:01:28,060
-あ
+00:01:26,740 --> 00:01:30,590
+ゆ
 
 2250
-00:01:28,060 --> 00:01:28,300
+00:01:24,600 --> 00:01:28,060
 あ
 
 2251
@@ -9312,15 +9313,15 @@ n'arrivera à y mettre un terme !
 あ
 
 2258
-00:01:28,300 --> 00:01:30,740
+00:01:28,060 --> 00:01:28,300
 あ
 
 2259
-00:01:24,600 --> 00:01:28,300
-つ
+00:01:28,300 --> 00:01:30,740
+あ
 
 2260
-00:01:28,300 --> 00:01:28,470
+00:01:24,600 --> 00:01:28,300
 つ
 
 2261
@@ -9352,15 +9353,15 @@ n'arrivera à y mettre un terme !
 つ
 
 2268
-00:01:28,470 --> 00:01:30,740
+00:01:28,300 --> 00:01:28,470
 つ
 
 2269
-00:01:30,220 --> 00:01:30,590
-ツ
+00:01:28,470 --> 00:01:30,740
+つ
 
 2270
-00:01:30,590 --> 00:01:30,800
+00:01:30,220 --> 00:01:30,590
 ツ
 
 2271
@@ -9392,15 +9393,15 @@ n'arrivera à y mettre un terme !
 ツ
 
 2278
-00:01:30,800 --> 00:01:33,740
+00:01:30,590 --> 00:01:30,800
 ツ
 
 2279
-00:01:30,250 --> 00:01:30,800
-ジ
+00:01:30,800 --> 00:01:33,740
+ツ
 
 2280
-00:01:30,800 --> 00:01:31,000
+00:01:30,250 --> 00:01:30,800
 ジ
 
 2281
@@ -9432,15 +9433,15 @@ n'arrivera à y mettre un terme !
 ジ
 
 2288
-00:01:31,000 --> 00:01:33,770
+00:01:30,800 --> 00:01:31,000
 ジ
 
 2289
-00:01:30,280 --> 00:01:31,000
-ツ
+00:01:31,000 --> 00:01:33,770
+ジ
 
 2290
-00:01:31,000 --> 00:01:31,180
+00:01:30,280 --> 00:01:31,000
 ツ
 
 2291
@@ -9472,15 +9473,15 @@ n'arrivera à y mettre un terme !
 ツ
 
 2298
-00:01:31,180 --> 00:01:33,800
+00:01:31,000 --> 00:01:31,180
 ツ
 
 2299
-00:01:30,310 --> 00:01:31,180
-マ
+00:01:31,180 --> 00:01:33,800
+ツ
 
 2300
-00:01:31,180 --> 00:01:31,370
+00:01:30,310 --> 00:01:31,180
 マ
 
 2301
@@ -9512,15 +9513,15 @@ n'arrivera à y mettre un terme !
 マ
 
 2308
-00:01:31,370 --> 00:01:33,830
+00:01:31,180 --> 00:01:31,370
 マ
 
 2309
-00:01:30,340 --> 00:01:31,370
-合
+00:01:31,370 --> 00:01:33,830
+マ
 
 2310
-00:01:31,370 --> 00:01:31,570
+00:01:30,340 --> 00:01:31,370
 合
 
 2311
@@ -9552,15 +9553,15 @@ n'arrivera à y mettre un terme !
 合
 
 2318
-00:01:31,570 --> 00:01:33,860
+00:01:31,370 --> 00:01:31,570
 合
 
 2319
-00:01:30,370 --> 00:01:31,570
-わ
+00:01:31,570 --> 00:01:33,860
+合
 
 2320
-00:01:31,570 --> 00:01:31,760
+00:01:30,370 --> 00:01:31,570
 わ
 
 2321
@@ -9592,15 +9593,15 @@ n'arrivera à y mettre un terme !
 わ
 
 2328
-00:01:31,760 --> 00:01:33,890
+00:01:31,570 --> 00:01:31,760
 わ
 
 2329
-00:01:30,400 --> 00:01:31,760
-せ
+00:01:31,760 --> 00:01:33,890
+わ
 
 2330
-00:01:31,760 --> 00:01:32,120
+00:01:30,400 --> 00:01:31,760
 せ
 
 2331
@@ -9632,15 +9633,15 @@ n'arrivera à y mettre un terme !
 せ
 
 2338
-00:01:32,120 --> 00:01:33,920
+00:01:31,760 --> 00:01:32,120
 せ
 
 2339
-00:01:30,460 --> 00:01:32,120
-別
+00:01:32,120 --> 00:01:33,920
+せ
 
 2340
-00:01:32,120 --> 00:01:32,550
+00:01:30,460 --> 00:01:32,120
 別
 
 2341
@@ -9672,15 +9673,15 @@ n'arrivera à y mettre un terme !
 別
 
 2348
-00:01:32,550 --> 00:01:33,980
+00:01:32,120 --> 00:01:32,550
 別
 
 2349
-00:01:30,490 --> 00:01:32,550
-に
+00:01:32,550 --> 00:01:33,980
+別
 
 2350
-00:01:32,550 --> 00:01:32,700
+00:01:30,490 --> 00:01:32,550
 に
 
 2351
@@ -9712,15 +9713,15 @@ n'arrivera à y mettre un terme !
 に
 
 2358
-00:01:32,700 --> 00:01:34,010
+00:01:32,550 --> 00:01:32,700
 に
 
 2359
-00:01:30,520 --> 00:01:32,700
-い
+00:01:32,700 --> 00:01:34,010
+に
 
 2360
-00:01:32,700 --> 00:01:32,930
+00:01:30,520 --> 00:01:32,700
 い
 
 2361
@@ -9752,15 +9753,15 @@ n'arrivera à y mettre un terme !
 い
 
 2368
-00:01:32,930 --> 00:01:34,040
+00:01:32,700 --> 00:01:32,930
 い
 
 2369
-00:01:30,550 --> 00:01:32,930
-ら
+00:01:32,930 --> 00:01:34,040
+い
 
 2370
-00:01:32,930 --> 00:01:33,110
+00:01:30,550 --> 00:01:32,930
 ら
 
 2371
@@ -9792,15 +9793,15 @@ n'arrivera à y mettre un terme !
 ら
 
 2378
-00:01:33,110 --> 00:01:34,070
+00:01:32,930 --> 00:01:33,110
 ら
 
 2379
-00:01:30,580 --> 00:01:33,110
-な
+00:01:33,110 --> 00:01:34,070
+ら
 
 2380
-00:01:33,110 --> 00:01:33,320
+00:01:30,580 --> 00:01:33,110
 な
 
 2381
@@ -9832,15 +9833,15 @@ n'arrivera à y mettre un terme !
 な
 
 2388
-00:01:33,320 --> 00:01:34,100
+00:01:33,110 --> 00:01:33,320
 な
 
 2389
-00:01:30,610 --> 00:01:33,320
-い
+00:01:33,320 --> 00:01:34,100
+な
 
 2390
-00:01:33,320 --> 00:01:33,580
+00:01:30,610 --> 00:01:33,320
 い
 
 2391
@@ -9872,15 +9873,15 @@ n'arrivera à y mettre un terme !
 い
 
 2398
-00:01:33,580 --> 00:01:34,130
+00:01:33,320 --> 00:01:33,580
 い
 
 2399
-00:01:30,340 --> 00:01:31,370
-あ
+00:01:33,580 --> 00:01:34,130
+い
 
 2400
-00:01:31,370 --> 00:01:31,570
+00:01:30,340 --> 00:01:31,370
 あ
 
 2401
@@ -9912,15 +9913,15 @@ n'arrivera à y mettre un terme !
 あ
 
 2408
-00:01:31,570 --> 00:01:33,860
+00:01:31,370 --> 00:01:31,570
 あ
 
 2409
-00:01:30,460 --> 00:01:32,120
-べ
+00:01:31,570 --> 00:01:33,860
+あ
 
 2410
-00:01:32,120 --> 00:01:32,310
+00:01:30,460 --> 00:01:32,120
 べ
 
 2411
@@ -9952,15 +9953,15 @@ n'arrivera à y mettre un terme !
 べ
 
 2418
-00:01:32,310 --> 00:01:33,980
+00:01:32,120 --> 00:01:32,310
 べ
 
 2419
-00:01:30,460 --> 00:01:32,310
-つ
+00:01:32,310 --> 00:01:33,980
+べ
 
 2420
-00:01:32,310 --> 00:01:32,550
+00:01:30,460 --> 00:01:32,310
 つ
 
 2421
@@ -9992,15 +9993,15 @@ n'arrivera à y mettre un terme !
 つ
 
 2428
-00:01:32,550 --> 00:01:33,980
+00:01:32,310 --> 00:01:32,550
 つ
 
 2429
-00:01:33,320 --> 00:01:33,690
-あ
+00:01:32,550 --> 00:01:33,980
+つ
 
 2430
-00:01:33,690 --> 00:01:33,900
+00:01:33,320 --> 00:01:33,690
 あ
 
 2431
@@ -10032,15 +10033,15 @@ n'arrivera à y mettre un terme !
 あ
 
 2438
-00:01:33,900 --> 00:01:36,910
+00:01:33,690 --> 00:01:33,900
 あ
 
 2439
-00:01:33,350 --> 00:01:33,900
-り
+00:01:33,900 --> 00:01:36,910
+あ
 
 2440
-00:01:33,900 --> 00:01:34,080
+00:01:33,350 --> 00:01:33,900
 り
 
 2441
@@ -10072,15 +10073,15 @@ n'arrivera à y mettre un terme !
 り
 
 2448
-00:01:34,080 --> 00:01:36,940
+00:01:33,900 --> 00:01:34,080
 り
 
 2449
-00:01:33,380 --> 00:01:34,080
-ふ
+00:01:34,080 --> 00:01:36,940
+り
 
 2450
-00:01:34,080 --> 00:01:34,270
+00:01:33,380 --> 00:01:34,080
 ふ
 
 2451
@@ -10112,15 +10113,15 @@ n'arrivera à y mettre un terme !
 ふ
 
 2458
-00:01:34,270 --> 00:01:36,970
+00:01:34,080 --> 00:01:34,270
 ふ
 
 2459
-00:01:33,410 --> 00:01:34,270
-れ
+00:01:34,270 --> 00:01:36,970
+ふ
 
 2460
-00:01:34,270 --> 00:01:34,460
+00:01:33,410 --> 00:01:34,270
 れ
 
 2461
@@ -10152,15 +10153,15 @@ n'arrivera à y mettre un terme !
 れ
 
 2468
-00:01:34,460 --> 00:01:37,000
+00:01:34,270 --> 00:01:34,460
 れ
 
 2469
-00:01:33,440 --> 00:01:34,460
-た
+00:01:34,460 --> 00:01:37,000
+れ
 
 2470
-00:01:34,460 --> 00:01:34,680
+00:01:33,440 --> 00:01:34,460
 た
 
 2471
@@ -10192,15 +10193,15 @@ n'arrivera à y mettre un terme !
 た
 
 2478
-00:01:34,680 --> 00:01:37,030
+00:01:34,460 --> 00:01:34,680
 た
 
 2479
-00:01:33,470 --> 00:01:34,680
-日
+00:01:34,680 --> 00:01:37,030
+た
 
 2480
-00:01:34,680 --> 00:01:35,260
+00:01:33,470 --> 00:01:34,680
 日
 
 2481
@@ -10232,15 +10233,15 @@ n'arrivera à y mettre un terme !
 日
 
 2488
-00:01:35,260 --> 00:01:37,060
+00:01:34,680 --> 00:01:35,260
 日
 
 2489
-00:01:33,500 --> 00:01:35,260
-常
+00:01:35,260 --> 00:01:37,060
+日
 
 2490
-00:01:35,260 --> 00:01:35,640
+00:01:33,500 --> 00:01:35,260
 常
 
 2491
@@ -10272,15 +10273,15 @@ n'arrivera à y mettre un terme !
 常
 
 2498
-00:01:35,640 --> 00:01:37,090
+00:01:35,260 --> 00:01:35,640
 常
 
 2499
-00:01:33,530 --> 00:01:35,640
-よ
+00:01:35,640 --> 00:01:37,090
+常
 
 2500
-00:01:35,640 --> 00:01:36,000
+00:01:33,530 --> 00:01:35,640
 よ
 
 2501
@@ -10312,15 +10313,15 @@ n'arrivera à y mettre un terme !
 よ
 
 2508
-00:01:36,000 --> 00:01:37,120
+00:01:35,640 --> 00:01:36,000
 よ
 
 2509
-00:01:33,560 --> 00:01:36,000
-り
+00:01:36,000 --> 00:01:37,120
+よ
 
 2510
-00:01:36,000 --> 00:01:36,400
+00:01:33,560 --> 00:01:36,000
 り
 
 2511
@@ -10352,15 +10353,15 @@ n'arrivera à y mettre un terme !
 り
 
 2518
-00:01:36,400 --> 00:01:37,150
+00:01:36,000 --> 00:01:36,400
 り
 
 2519
-00:01:33,590 --> 00:01:36,400
-も
+00:01:36,400 --> 00:01:37,150
+り
 
 2520
-00:01:36,400 --> 00:01:36,750
+00:01:33,590 --> 00:01:36,400
 も
 
 2521
@@ -10392,15 +10393,15 @@ n'arrivera à y mettre un terme !
 も
 
 2528
-00:01:36,750 --> 00:01:37,180
+00:01:36,400 --> 00:01:36,750
 も
 
 2529
-00:01:33,470 --> 00:01:34,680
-に
+00:01:36,750 --> 00:01:37,180
+も
 
 2530
-00:01:34,680 --> 00:01:34,860
+00:01:33,470 --> 00:01:34,680
 に
 
 2531
@@ -10432,15 +10433,15 @@ n'arrivera à y mettre un terme !
 に
 
 2538
-00:01:34,860 --> 00:01:37,060
+00:01:34,680 --> 00:01:34,860
 に
 
 2539
-00:01:33,470 --> 00:01:34,860
-ち
+00:01:34,860 --> 00:01:37,060
+に
 
 2540
-00:01:34,860 --> 00:01:35,260
+00:01:33,470 --> 00:01:34,860
 ち
 
 2541
@@ -10472,15 +10473,15 @@ n'arrivera à y mettre un terme !
 ち
 
 2548
-00:01:35,260 --> 00:01:37,060
+00:01:34,860 --> 00:01:35,260
 ち
 
 2549
-00:01:33,500 --> 00:01:35,260
-よ
+00:01:35,260 --> 00:01:37,060
+ち
 
 2550
-00:01:35,260 --> 00:01:35,640
+00:01:33,500 --> 00:01:35,260
 よ
 
 2551
@@ -10512,15 +10513,15 @@ n'arrivera à y mettre un terme !
 よ
 
 2558
-00:01:35,640 --> 00:01:37,090
+00:01:35,260 --> 00:01:35,640
 よ
 
 2559
-00:01:36,520 --> 00:01:36,980
-パ
+00:01:35,640 --> 00:01:37,090
+よ
 
 2560
-00:01:36,980 --> 00:01:37,380
+00:01:36,520 --> 00:01:36,980
 パ
 
 2561
@@ -10552,15 +10553,15 @@ n'arrivera à y mettre un terme !
 パ
 
 2568
-00:01:37,380 --> 00:01:40,510
+00:01:36,980 --> 00:01:37,380
 パ
 
 2569
-00:01:36,550 --> 00:01:37,380
-ラ
+00:01:37,380 --> 00:01:40,510
+パ
 
 2570
-00:01:37,380 --> 00:01:37,770
+00:01:36,550 --> 00:01:37,380
 ラ
 
 2571
@@ -10592,15 +10593,15 @@ n'arrivera à y mettre un terme !
 ラ
 
 2578
-00:01:37,770 --> 00:01:40,540
+00:01:37,380 --> 00:01:37,770
 ラ
 
 2579
-00:01:36,580 --> 00:01:37,770
-ダ
+00:01:37,770 --> 00:01:40,540
+ラ
 
 2580
-00:01:37,770 --> 00:01:38,000
+00:01:36,580 --> 00:01:37,770
 ダ
 
 2581
@@ -10632,15 +10633,15 @@ n'arrivera à y mettre un terme !
 ダ
 
 2588
-00:01:38,000 --> 00:01:40,570
+00:01:37,770 --> 00:01:38,000
 ダ
 
 2589
-00:01:36,610 --> 00:01:38,000
-イス
+00:01:38,000 --> 00:01:40,570
+ダ
 
 2590
-00:01:38,000 --> 00:01:38,350
+00:01:36,610 --> 00:01:38,000
 イス
 
 2591
@@ -10672,15 +10673,15 @@ n'arrivera à y mettre un terme !
 イス
 
 2598
-00:01:38,350 --> 00:01:40,600
+00:01:38,000 --> 00:01:38,350
 イス
 
 2599
-00:01:36,670 --> 00:01:38,350
-目
+00:01:38,350 --> 00:01:40,600
+イス
 
 2600
-00:01:38,350 --> 00:01:38,540
+00:01:36,670 --> 00:01:38,350
 目
 
 2601
@@ -10712,15 +10713,15 @@ n'arrivera à y mettre un terme !
 目
 
 2608
-00:01:38,540 --> 00:01:40,660
+00:01:38,350 --> 00:01:38,540
 目
 
 2609
-00:01:36,700 --> 00:01:38,540
-指
+00:01:38,540 --> 00:01:40,660
+目
 
 2610
-00:01:38,540 --> 00:01:38,710
+00:01:36,700 --> 00:01:38,540
 指
 
 2611
@@ -10752,15 +10753,15 @@ n'arrivera à y mettre un terme !
 指
 
 2618
-00:01:38,710 --> 00:01:40,690
+00:01:38,540 --> 00:01:38,710
 指
 
 2619
-00:01:36,730 --> 00:01:38,710
-し
+00:01:38,710 --> 00:01:40,690
+指
 
 2620
-00:01:38,710 --> 00:01:38,910
+00:01:36,730 --> 00:01:38,710
 し
 
 2621
@@ -10792,15 +10793,15 @@ n'arrivera à y mettre un terme !
 し
 
 2628
-00:01:38,910 --> 00:01:40,720
+00:01:38,710 --> 00:01:38,910
 し
 
 2629
-00:01:36,760 --> 00:01:38,910
-て
+00:01:38,910 --> 00:01:40,720
+し
 
 2630
-00:01:38,910 --> 00:01:39,120
+00:01:36,760 --> 00:01:38,910
 て
 
 2631
@@ -10832,15 +10833,15 @@ n'arrivera à y mettre un terme !
 て
 
 2638
-00:01:39,120 --> 00:01:40,750
+00:01:38,910 --> 00:01:39,120
 て
 
 2639
-00:01:36,790 --> 00:01:39,120
-走
+00:01:39,120 --> 00:01:40,750
+て
 
 2640
-00:01:39,120 --> 00:01:39,520
+00:01:36,790 --> 00:01:39,120
 走
 
 2641
@@ -10872,15 +10873,15 @@ n'arrivera à y mettre un terme !
 走
 
 2648
-00:01:39,520 --> 00:01:40,780
+00:01:39,120 --> 00:01:39,520
 走
 
 2649
-00:01:36,820 --> 00:01:39,520
-れ
+00:01:39,520 --> 00:01:40,780
+走
 
 2650
-00:01:39,520 --> 00:01:40,350
+00:01:36,820 --> 00:01:39,520
 れ
 
 2651
@@ -10912,15 +10913,15 @@ n'arrivera à y mettre un terme !
 れ
 
 2658
-00:01:40,350 --> 00:01:40,810
+00:01:39,520 --> 00:01:40,350
 れ
 
 2659
-00:01:36,670 --> 00:01:38,350
-め
+00:01:40,350 --> 00:01:40,810
+れ
 
 2660
-00:01:38,350 --> 00:01:38,540
+00:01:36,670 --> 00:01:38,350
 め
 
 2661
@@ -10952,15 +10953,15 @@ n'arrivera à y mettre un terme !
 め
 
 2668
-00:01:38,540 --> 00:01:40,660
+00:01:38,350 --> 00:01:38,540
 め
 
 2669
-00:01:36,700 --> 00:01:38,540
-ざ
+00:01:38,540 --> 00:01:40,660
+め
 
 2670
-00:01:38,540 --> 00:01:38,710
+00:01:36,700 --> 00:01:38,540
 ざ
 
 2671
@@ -10992,15 +10993,15 @@ n'arrivera à y mettre un terme !
 ざ
 
 2678
-00:01:38,710 --> 00:01:40,690
+00:01:38,540 --> 00:01:38,710
 ざ
 
 2679
-00:01:36,790 --> 00:01:39,120
-は
+00:01:38,710 --> 00:01:40,690
+ざ
 
 2680
-00:01:39,120 --> 00:01:39,320
+00:01:36,790 --> 00:01:39,120
 は
 
 2681
@@ -11032,15 +11033,15 @@ n'arrivera à y mettre un terme !
 は
 
 2688
-00:01:39,320 --> 00:01:40,780
+00:01:39,120 --> 00:01:39,320
 は
 
 2689
-00:01:36,790 --> 00:01:39,320
-し
+00:01:39,320 --> 00:01:40,780
+は
 
 2690
-00:01:39,320 --> 00:01:39,520
+00:01:36,790 --> 00:01:39,320
 し
 
 2691
@@ -11072,72 +11073,75 @@ n'arrivera à y mettre un terme !
 し
 
 2698
-00:01:39,520 --> 00:01:40,780
+00:01:39,320 --> 00:01:39,520
 し
 
 2699
+00:01:39,520 --> 00:01:40,780
+し
+
+2700
 00:00:34,930 --> 00:00:41,060
 Je crois seulement en l'avenir,
 et peu importe si des gens se moquent de moi.
 
-2700
+2701
 00:00:41,060 --> 00:00:46,650
 C'est la passion qui est en toi qui te fait briller.
 
-2701
+2702
 00:00:46,650 --> 00:00:52,240
 C'est trop éblouissant,
 mais je veux continuer à te regarder,
 
-2702
+2703
 00:00:52,490 --> 00:00:55,950
 Et quand à chaque fois je vois ta beauté,
 
-2703
+2704
 00:00:55,950 --> 00:00:58,470
 Ça me rappelle que je suis complètement folle de toi.
 
-2704
+2705
 00:00:59,490 --> 00:01:02,660
 Nous poursuivons encore et encore
 
-2705
+2706
 00:01:02,660 --> 00:01:05,960
 Un rêve qui ne ressemble à aucun autre
 
-2706
+2707
 00:01:05,960 --> 00:01:09,210
 Jusqu'à ce que quelque chose de dramatique se produise...
 
-2707
+2708
 00:01:09,340 --> 00:01:14,840
 Crois au monde des merveilles !
 
-2708
+2709
 00:01:18,050 --> 00:01:21,260
 Nous attrapons et allons attraper encore et encore
 
-2709
+2710
 00:01:21,260 --> 00:01:24,350
 Une forme de rêves que personne ne peut imaginer.
 
-2710
+2711
 00:01:24,430 --> 00:01:30,230
 Et moi, je vous suivrais et vous encouragerais avec mes sentiments si forts.
 
-2711
+2712
 00:01:30,230 --> 00:01:33,610
 En fait, nous n'avons pas besoin d'être cohérents.
 
-2712
+2713
 00:01:33,610 --> 00:01:36,780
 Laisse tomber ta routine quotidienne,
 
-2713
+2714
 00:01:36,780 --> 00:01:40,240
 Cours vers le paradis et
 
-2714
+2715
 00:01:40,240 --> 00:01:45,910
 Crois au monde des merveilles !
-

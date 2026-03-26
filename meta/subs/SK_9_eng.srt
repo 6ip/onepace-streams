@@ -1,231 +1,235 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:30,630 --> 00:00:30,800
 BON VOYAGE! Cesaretin ateşini körükle ve bırak ateş büyüsün
 
-2
+3
 00:00:30,800 --> 00:00:30,800
 BON VOYAGE! Cesaretin ateşini körükle ve bırak ateş büyüsün
 
-3
+4
 00:00:30,800 --> 00:00:38,690
 BON VOYAGE! Cesaretin ateşini körükle ve bırak ateş büyüsün
 
-4
+5
 00:00:38,290 --> 00:00:38,460
 Ufuğun ötesinde ne olduğunu bir anlığına gördüm
 
-5
+6
 00:00:38,460 --> 00:00:38,460
 Ufuğun ötesinde ne olduğunu bir anlığına gördüm
 
-6
+7
 00:00:38,460 --> 00:00:46,290
 Ufuğun ötesinde ne olduğunu bir anlığına gördüm
 
-7
+8
 00:00:46,010 --> 00:00:46,180
 İlk başladığımız zaman
 
-8
+9
 00:00:46,180 --> 00:00:46,180
 İlk başladığımız zaman
 
-9
+10
 00:00:46,180 --> 00:00:48,840
 İlk başladığımız zaman
 
-10
+11
 00:00:48,440 --> 00:00:48,610
 nereye gideceğimiz konusunda farklı fikirlerimiz vardı
 
-11
+12
 00:00:48,610 --> 00:00:48,610
 nereye gideceğimiz konusunda farklı fikirlerimiz vardı
 
-12
+13
 00:00:48,610 --> 00:00:54,060
 nereye gideceğimiz konusunda farklı fikirlerimiz vardı
 
-13
+14
 00:00:53,970 --> 00:00:54,140
 Artık her şey değişti
 
-14
+15
 00:00:54,140 --> 00:00:54,140
 Artık her şey değişti
 
-15
+16
 00:00:54,140 --> 00:00:56,010
 Artık her şey değişti
 
-16
+17
 00:00:55,610 --> 00:00:55,780
 Hayallerimize doğru baktığımızda aynı yeri görüyoruz
 
-17
+18
 00:00:55,780 --> 00:00:55,780
 Hayallerimize doğru baktığımızda aynı yeri görüyoruz
 
-18
+19
 00:00:55,780 --> 00:01:01,070
 Hayallerimize doğru baktığımızda aynı yeri görüyoruz
 
-19
+20
 00:01:00,960 --> 00:01:01,130
 Eğer kalbin yanlış yola sürüklenmişse
 
-20
+21
 00:01:01,130 --> 00:01:01,130
 Eğer kalbin yanlış yola sürüklenmişse
 
-21
+22
 00:01:01,130 --> 00:01:06,310
 Eğer kalbin yanlış yola sürüklenmişse
 
-22
+23
 00:01:05,910 --> 00:01:06,080
 pusulanı tekrar ayarlaman gerek
 
-23
+24
 00:01:06,080 --> 00:01:06,080
 pusulanı tekrar ayarlaman gerek
 
-24
+25
 00:01:06,080 --> 00:01:10,610
 pusulanı tekrar ayarlaman gerek
 
-25
+26
 00:01:10,210 --> 00:01:10,380
 Yeni bir rota belirle, akıntıyı terse çevir
 
-26
+27
 00:01:10,380 --> 00:01:10,380
 Yeni bir rota belirle, akıntıyı terse çevir
 
-27
+28
 00:01:10,380 --> 00:01:13,640
 Yeni bir rota belirle, akıntıyı terse çevir
 
-28
+29
 00:01:13,240 --> 00:01:13,410
 BON VOYAGE! Geçmişi unut, sana yük olan bavulları bırak
 
-29
+30
 00:01:13,410 --> 00:01:13,410
 BON VOYAGE! Geçmişi unut, sana yük olan bavulları bırak
 
-30
+31
 00:01:13,410 --> 00:01:20,930
 BON VOYAGE! Geçmişi unut, sana yük olan bavulları bırak
 
-31
+32
 00:01:20,530 --> 00:01:20,700
 Gülümsemeler fırtınayı dindirebilir, bunu herkesten iyi biliyoruz
 
-32
+33
 00:01:20,700 --> 00:01:20,700
 Gülümsemeler fırtınayı dindirebilir, bunu herkesten iyi biliyoruz
 
-33
+34
 00:01:20,700 --> 00:01:27,770
 Gülümsemeler fırtınayı dindirebilir, bunu herkesten iyi biliyoruz
 
-34
+35
 00:01:27,370 --> 00:01:27,540
 Sakın üzülme,
 
-35
+36
 00:01:27,540 --> 00:01:27,540
 Sakın üzülme,
 
-36
+37
 00:01:27,540 --> 00:01:29,710
 Sakın üzülme,
 
-37
+38
 00:01:29,310 --> 00:01:29,480
 yolda dökülen gözyaşları beyhude değildir.
 
-38
+39
 00:01:29,480 --> 00:01:29,480
 yolda dökülen gözyaşları beyhude değildir.
 
-39
+40
 00:01:29,480 --> 00:01:35,530
 yolda dökülen gözyaşları beyhude değildir.
 
-40
+41
 00:01:35,130 --> 00:01:35,300
 Biliyorsunuz hepiniz benim için çok ama ÇOK ÖNEMLİSİNİZ
 
-41
+42
 00:01:35,300 --> 00:01:35,300
 Biliyorsunuz hepiniz benim için çok ama ÇOK ÖNEMLİSİNİZ
 
-42
+43
 00:01:35,300 --> 00:01:41,730
 Biliyorsunuz hepiniz benim için çok ama ÇOK ÖNEMLİSİNİZ
 
-43
+44
 00:01:42,290 --> 00:01:42,460
 Ufuğun ötesinde ne olduğunu bir anlığına gördüm
 
-44
+45
 00:01:42,460 --> 00:01:42,460
 Ufuğun ötesinde ne olduğunu bir anlığına gördüm
 
-45
+46
 00:01:42,460 --> 00:01:49,840
 Ufuğun ötesinde ne olduğunu bir anlığına gördüm
 
-46
+47
 00:00:17,560 --> 00:00:17,730
 Bu denizin sonunda muhteşem
 bir hazine olduğunu biliyor muydun?!
 
-47
+48
 00:00:17,730 --> 00:00:17,730
 Bu denizin sonunda muhteşem
 bir hazine olduğunu biliyor muydun?!
 
-48
+49
 00:00:17,730 --> 00:00:21,170
 Bu denizin sonunda muhteşem
 bir hazine olduğunu biliyor muydun?!
 
-49
+50
 00:00:20,770 --> 00:00:20,940
 Ve onu bulan Korsanlar Kralı olacak.
 
-50
+51
 00:00:20,940 --> 00:00:20,940
 Ve onu bulan Korsanlar Kralı olacak.
 
-51
+52
 00:00:20,940 --> 00:00:23,970
 Ve onu bulan Korsanlar Kralı olacak.
 
-52
+53
 00:00:23,570 --> 00:00:23,740
 Çok heyecanlı, değil mi?!
 
-53
+54
 00:00:23,740 --> 00:00:23,740
 Çok heyecanlı, değil mi?!
 
-54
+55
 00:00:23,740 --> 00:00:25,590
 Çok heyecanlı, değil mi?!
 
-55
+56
 00:00:25,190 --> 00:00:25,360
 Heyecan dolu binbir yeni macera bizi bekliyor!
 
-56
+57
 00:00:25,360 --> 00:00:25,360
 Heyecan dolu binbir yeni macera bizi bekliyor!
 
-57
+58
 00:00:25,360 --> 00:00:28,640
 Heyecan dolu binbir yeni macera bizi bekliyor!
-

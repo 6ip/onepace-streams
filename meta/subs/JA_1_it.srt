@@ -1,1371 +1,1370 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:14,740 --> 00:00:15,830
 Eh? Piove?
 
-2
+3
 00:00:15,830 --> 00:00:17,680
 No, non è pioggia...
 
-3
+4
 00:00:17,680 --> 00:00:19,290
 Grandine?
 
-4
+5
 00:00:19,900 --> 00:00:22,250
 No... sta cadendo qualcosa...
 
-5
+6
 00:00:23,880 --> 00:00:25,800
 – Eh?!
 – Eh?!
 
-6
+7
 00:02:39,850 --> 00:02:40,810
 Reggetevi!
 
-7
+8
 00:02:41,310 --> 00:02:42,690
 Aggrappatevi alla nave!
 
-8
+9
 00:02:45,060 --> 00:02:47,820
 Cosa? Ma che cos'è? Che sta succedendo?
 
-9
+10
 00:02:52,400 --> 00:02:54,450
 È un sogno! 
 Sì, sto sicuramente sognando!
 
-10
+11
 00:02:54,450 --> 00:02:55,660
 Un sogno? Che sollie–
 
-11
+12
 00:02:59,870 --> 00:03:02,040
 Ehi, continua a cadere qualcosa!
 
-12
+13
 00:03:02,500 --> 00:03:03,790
 Attenti!
 
-13
+14
 00:03:05,040 --> 00:03:06,880
 Il timone! Qualcuno viri la nave!
 
-14
+15
 00:03:06,880 --> 00:03:08,500
 È inutile con queste onde!
 
-15
+16
 00:03:08,500 --> 00:03:10,670
 Luffy, proteggi la nave! Non resisterà a lungo!
 
-16
+17
 00:03:10,670 --> 00:03:11,420
 Ok!
 
-17
+18
 00:03:11,420 --> 00:03:12,840
 Eh? Usopp?
 
-18
+19
 00:03:13,170 --> 00:03:14,550
 Non c'è nulla da temere.
 
-19
+20
 00:03:14,550 --> 00:03:17,550
 Basta darsi una calmata, chiudere gli occhi...
 
-20
+21
 00:03:17,550 --> 00:03:20,060
 riaprire lentamente le palpebre,
 
-21
+22
 00:03:20,060 --> 00:03:22,520
 e ci sarà una grande calma–
 
-22
+23
 00:03:25,400 --> 00:03:26,600
 Uno scheletro!
 
-23
+24
 00:03:26,600 --> 00:03:28,650
 Idiota! Non buttarlo di qua!
 
-24
+25
 00:03:28,650 --> 00:03:30,360
 Non smettono di cadere!
 
-25
+26
 00:03:30,360 --> 00:03:31,320
 Uno scheletro!
 
-26
+27
 00:03:31,320 --> 00:03:32,820
 Idiota! Non buttarlo di qua!
 
-27
+28
 00:03:37,820 --> 00:03:41,160
 Perché una nave è caduta dal cielo?
 
-28
+29
 00:03:41,160 --> 00:03:42,750
 È assurdo.
 
-29
+30
 00:03:42,750 --> 00:03:44,080
 Nel cielo non c'è niente.
 
-30
+31
 00:03:44,330 --> 00:03:48,000
 Ma si può sapere che razza di posto è la Grand Line?!
 
-31
+32
 00:03:48,460 --> 00:03:50,000
 Che succede, Nami?
 
-32
+33
 00:03:50,000 --> 00:03:51,250
 Abbiamo un problema.
 
-33
+34
 00:03:51,880 --> 00:03:53,550
 Il Log Pose si è rotto!
 
-34
+35
 00:03:53,550 --> 00:03:54,970
 Punta in su e non si muove.
 
-35
+36
 00:03:55,340 --> 00:03:56,300
 Ti sbagli.
 
-36
+37
 00:03:56,300 --> 00:04:00,390
 Un'isola con un campo magnetico più forte 
 ha sovrascritto quello registrato nel Log.
 
-37
+38
 00:04:00,390 --> 00:04:01,060
 Eh?
 
-38
+39
 00:04:01,060 --> 00:04:02,430
 Se l'ago punta in su,
 
-39
+40
 00:04:03,520 --> 00:04:06,390
 significa che ha registrato un'isola nel cielo.
 
-40
+41
 00:04:07,060 --> 00:04:09,060
 – "Un'isola nel cielo"?!
 – "Un'isola nel cielo"?!
 
-41
+42
 00:04:09,060 --> 00:04:10,400
 E cosa sarebbe?
 
-42
+43
 00:04:10,400 --> 00:04:12,360
 Le isole possono volare?!
 
-43
+44
 00:04:12,360 --> 00:04:15,950
 Q-Q-Quella nave e lo 
 scheletro sono caduti da là?
 
-44
+45
 00:04:15,950 --> 00:04:19,240
 Però... in cielo non vedo niente che somigli a un'isola...
 
-45
+46
 00:04:19,620 --> 00:04:20,870
 Non è proprio così.
 
-46
+47
 00:04:22,030 --> 00:04:24,950
 Per la precisione, 
 a fluttuare in aria è un mare.
 
-47
+48
 00:04:24,950 --> 00:04:25,660
 "Un mare"?
 
-48
+49
 00:04:28,370 --> 00:04:30,130
 Ci sto capendo sempre di meno.
 
-49
+50
 00:04:30,130 --> 00:04:34,050
 Figata! Quindi c'è un mare che vola nel cielo e che ha delle isole!
 
-50
+51
 00:04:34,050 --> 00:04:35,260
 Bene, andiamoci subito!
 
-51
+52
 00:04:35,260 --> 00:04:38,590
 Alright! Ciurma, rotta verso il cielo!
 
-52
+53
 00:04:39,300 --> 00:04:41,550
 Tutta ad altobordo!
 
-53
+54
 00:04:43,560 --> 00:04:46,520
 A prescindere, è impossibile puntare il timone in alto, "capitano".
 
-54
+55
 00:04:47,230 --> 00:04:51,440
 A dir il vero... per quanto riguarda le isole 
 nel cielo non ne so molto neanche io,
 
-55
+56
 00:04:51,440 --> 00:04:52,940
 tantomeno ne ho mai vista una.
 
-56
+57
 00:04:52,940 --> 00:04:57,200
 Ma è ovvio! Non può esistere un mare o un'isola capaci di volare.
 
-57
+58
 00:04:57,200 --> 00:04:59,200
 Sarà solo il Log Pose che si è rotto.
 
-58
+59
 00:04:59,200 --> 00:05:00,780
 No, signorina navigatrice.
 
-59
+60
 00:05:01,070 --> 00:05:06,120
 Per il momento, la cosa più importante, non è 
 considerare se il Log Pose sia rotto o meno...
 
-60
+61
 00:05:06,700 --> 00:05:08,370
 ma capire come arrivare in cielo.
 
-61
+62
 00:05:09,790 --> 00:05:17,010
 A priori dalle situazioni che coinvolgeranno
  questa nave... strane o inquietanti che siano,
 
-62
+63
 00:05:17,010 --> 00:05:19,550
 il Log Pose è la nostra unica certezza.
 
-63
+64
 00:05:19,550 --> 00:05:20,890
 È una regola inviolabile.
 
-64
+65
 00:05:21,430 --> 00:05:25,850
 In queste acque, per mettere in discussione 
 qualcosa, dovrete ricorrere al vostro buonsenso.
 
-65
+66
 00:05:27,310 --> 00:05:30,650
 Là dove punta quell'ago...
  c'è indubbiamente un'isola.
 
-66
+67
 00:05:39,900 --> 00:05:43,120
 Ma doveva proprio guardare
  dentro la bara, quella lì?
 
-67
+68
 00:05:47,080 --> 00:05:48,500
 Ci hai capito qualcosa?
 
-68
+69
 00:05:48,500 --> 00:05:49,370
 Non ancora.
 
-69
+70
 00:05:49,370 --> 00:05:52,170
 Sei proprio di cattivo gusto, lo sai?
 
-70
+71
 00:05:52,170 --> 00:05:55,500
 I cadaveri e le belle donne si 
 abbinano stranamente bene~
 
-71
+72
 00:05:56,590 --> 00:05:58,460
 Mhm? Luffy dov'è?
 
-72
+73
 00:05:58,460 --> 00:05:59,970
 Luffy, salta!
 
-73
+74
 00:06:00,510 --> 00:06:03,220
 Che stanno facendo quelli stavolta?
 
-74
+75
 00:06:03,220 --> 00:06:04,390
 Esplorano, hanno detto.
 
-75
+76
 00:06:05,680 --> 00:06:07,810
 Ah, ricostruzione completata.
 
-76
+77
 00:06:08,520 --> 00:06:11,310
 Questi fori sono di causa umana.
 
-77
+78
 00:06:11,310 --> 00:06:14,810
 Oh... quindi questo tipo è morto dopo essere stato trafitto lì?
 
-78
+79
 00:06:15,360 --> 00:06:18,320
 No, sono stati inflitti nel corso di un trattamento medico.
 
-79
+80
 00:06:18,320 --> 00:06:20,530
 Trapanazione cranica,
 giusto? Signor medico?
 
-80
+81
 00:06:20,860 --> 00:06:25,870
 Sì. Un tempo per trattare i tumori 
 cerebrali si usava fare dei buchi nel cranio.
 
-81
+82
 00:06:25,870 --> 00:06:28,490
 Però, è una pratica medica
 di tantissimo tempo fa!
 
-82
+83
 00:06:29,040 --> 00:06:33,500
 Esatto. Dovrebbe essere trascorsi
  200 anni dalla sua morte.
 
-83
+84
 00:06:36,000 --> 00:06:38,710
 Era circa sulla trentina.
 
-84
+85
 00:06:41,050 --> 00:06:44,550
 Si è ammalato durante il viaggio ed è morto.
 
-85
+86
 00:06:48,760 --> 00:06:53,140
 I suoi denti si sono conservati meglio del resto delle ossa...
 
-86
+87
 00:06:55,150 --> 00:06:57,190
 perché li aveva coperti di catrame.
 
-87
+88
 00:06:57,190 --> 00:07:01,070
 È un'usanza tipica di una specifica 
  regione del South Blue, di conseguenza,
 
-88
+89
 00:07:01,070 --> 00:07:06,030
 considerando i precedenti storici, quella nave
  doveva appartenere ad una squadra di esploratori.
 
-89
+90
 00:07:08,280 --> 00:07:13,750
 Trovata. È la Saint Briss del
 Regno di Briss, nel South Blue.
 
-90
+91
 00:07:13,750 --> 00:07:15,500
 È salpata duecentootto anni fa.
 
-91
+92
 00:07:16,040 --> 00:07:17,880
 È identica alla nave che ci è caduta addosso.
 
-92
+93
 00:07:17,880 --> 00:07:20,420
 Ora che mi ci fai pensare,
  aveva un marchio simile.
 
-93
+94
 00:07:20,420 --> 00:07:24,470
 Questa nave ha girovagato nel cielo... per almeno duecento anni.
 
-94
+95
 00:07:24,720 --> 00:07:27,890
 Riesci davvero a capire tutto 
 questo solo da un mucchio di ossa?
 
-95
+96
 00:07:28,640 --> 00:07:32,220
 Le spoglie non parlano,
 ma contengono informazioni.
 
-96
+97
 00:07:32,220 --> 00:07:37,060
 Essendo la nave di una squadra di esploratori,
 dovrebbe avere registri e documenti vari.
 
-97
+98
 00:07:37,060 --> 00:07:39,690
 Certo, ma la nave è affon–
 
-98
+99
 00:07:40,020 --> 00:07:43,240
 Ma che diavolo state facendo voi!
 
-99
+100
 00:07:40,520 --> 00:07:42,690
 Luffy! Risali!
 
-100
+101
 00:07:42,690 --> 00:07:44,400
 Aiuto!
 
-101
+102
 00:07:46,160 --> 00:07:47,990
 Ehi, ragazzi!
 
-102
+103
 00:07:48,450 --> 00:07:50,330
 Ce l'abbiamo fatta!
 
-103
+104
 00:07:51,120 --> 00:07:53,000
 Abbiamo trovato qualcosa di assurdo!
 
-104
+105
 00:07:53,000 --> 00:07:53,750
 Guardate!
 
-105
+106
 00:07:56,460 --> 00:07:58,960
 – La mappa di un'isola nel cielo?!
 – La mappa di un'isola nel cielo?!
 
-106
+107
 00:07:59,420 --> 00:08:00,670
 "Skypiea".
 
-107
+108
 00:08:00,670 --> 00:08:01,710
 Visto?! Visto?!
 
-108
+109
 00:08:01,710 --> 00:08:03,920
 Quindi nel cielo c'è davvero un'isola?
 
-109
+110
 00:08:04,380 --> 00:08:07,930
 – Yahoo!
 – Yahoo!
 
-110
+111
 00:08:07,930 --> 00:08:10,550
 Evviva! L'isola nel cielo esiste!
 
-111
+112
 00:08:10,550 --> 00:08:13,520
 È un'isola dei sogni! 
 Possiamo andare su un'isola dei sogni!
 
-112
+113
 00:08:13,520 --> 00:08:15,390
 – Isola dei sogni~!
 – Isola dei sogni~!
 
-113
+114
 00:08:16,230 --> 00:08:20,150
 Fate troppo casino! Non abbiamo ancora nessuna certezza.
 
-114
+115
 00:08:20,150 --> 00:08:22,610
 Dopotutto di mappe finte 
 ce ne sono tante in giro.
 
-115
+116
 00:08:24,940 --> 00:08:28,610
 Aah, scusate. Esiste, esiste. Esiste sicuramente, però...
 
-116
+117
 00:08:29,450 --> 00:08:30,530
 Ascolta Luffy!
 
-117
+118
 00:08:30,990 --> 00:08:32,490
 Ehi, Nami...
 
-118
+119
 00:08:32,490 --> 00:08:34,330
 la nave trattamela con cura.
 
-119
+120
 00:08:34,870 --> 00:08:35,790
 Ok?
 
-120
+121
 00:08:30,530 --> 00:08:33,450
 Ti sto dicendo che non abbiamo ancora idea di come arrivarci!
 
-121
+122
 00:08:33,450 --> 00:08:35,540
 Sei tu la navigatrice, no? Inventati qualcosa!
 
-122
+123
 00:08:36,080 --> 00:08:40,500
 Nami è proprio un amore quando è arrabbiata~
 
-123
+124
 00:08:35,540 --> 00:08:38,460
 Certe volte è impossibile "inventarsi qualcosa"!
 
-124
+125
 00:08:38,460 --> 00:08:40,500
 Chissene! Noi andremo in cielo!
 
-125
+126
 00:08:42,000 --> 00:08:43,630
 Discutere ora non serve a nulla.
 
-126
+127
 00:08:43,630 --> 00:08:46,220
 Più che altro, ora come ora non c'è modo di continuare.
 
-127
+128
 00:08:46,220 --> 00:08:49,180
 Do ragione a Robin, quello che ci serve ora sono informazioni.
 
-128
+129
 00:08:49,930 --> 00:08:52,680
 Se quella nave enorme è davvero andata in cielo,
 
-129
+130
 00:08:52,680 --> 00:08:55,430
 c'è sicuramente un modo per 
 andarci anche con questa nave.
 
-130
+131
 00:08:56,140 --> 00:09:00,400
 Dobbiamo controllare in qualche modo 
 i documenti rimasti sulla nave di prima.
 
-131
+132
 00:09:00,980 --> 00:09:03,730
 La nave però è completamente affondata, no?
 
-132
+133
 00:09:04,400 --> 00:09:06,610
 Se è affondata, effettueremo un salvage!
 
-133
+134
 00:09:06,610 --> 00:09:08,400
 – Andiamo!
 – Andiamo!
 
-134
+135
 00:09:08,400 --> 00:09:09,700
 Come pensate di farcela?!
 
-135
+136
 00:09:10,490 --> 00:09:12,030
 Che cos'è un "salvage"?
 
-136
+137
 00:09:12,030 --> 00:09:14,660
 È un'operazione per far 
 riemergere una nave affondata.
 
-137
+138
 00:09:14,660 --> 00:09:17,580
 Però è impossibile farlo con quella nave, 
 è troppo grande.
 
-138
+139
 00:09:24,800 --> 00:09:26,090
 Bene, bene, bene, bene...
 
-139
+140
 00:09:26,420 --> 00:09:28,970
 Certo che ci fai proprio fare una cosa assurda.
 
-140
+141
 00:09:28,970 --> 00:09:29,590
 Già.
 
-141
+142
 00:09:29,590 --> 00:09:31,140
 Nami, tesoro~!
 
-142
+143
 00:09:31,140 --> 00:09:34,060
 Ti prometto che troverò indizi su come arrivare in cielo per te!
 
-143
+144
 00:09:34,390 --> 00:09:35,770
 Conto su di te!
 
-144
+145
 00:09:35,770 --> 00:09:39,560
 State tranquilli~!
 Il design delle mie tute non ha difetti!
 
-145
+146
 00:09:44,400 --> 00:09:46,030
 Allora, vi auguro...
 
-146
+147
 00:09:46,570 --> 00:09:47,820
 buona fortuna!
 
-147
+148
 00:09:53,820 --> 00:09:55,160
 Ehi, ehi, ehi...
 
-148
+149
 00:09:55,410 --> 00:09:58,120
 Qui Chopper.
  Ragazzi, rispondete.
 
-149
+150
 00:09:58,660 --> 00:10:01,580
 Qui Luffy! 
 Ci sono un sacco di mostri, passo!
 
-150
+151
 00:10:01,580 --> 00:10:03,830
 Che sia un nido di 
 serpenti marini giganti?
 
-151
+152
 00:10:03,830 --> 00:10:06,000
 Qui Sanji. 
 Ah! Si è girato verso di me!
 
-152
+153
 00:10:06,500 --> 00:10:07,380
 Okay.
 
-153
+154
 00:10:07,380 --> 00:10:08,090
 Non è okay!
 
-154
+155
 00:10:08,760 --> 00:10:11,090
 In qualche modo se la caveranno, va tutto bene.
 
-155
+156
 00:10:11,510 --> 00:10:14,010
 Chopper, non perdere di vista il freno!
 
-156
+157
 00:10:14,010 --> 00:10:14,760
 Sì.
 
-157
+158
 00:10:14,760 --> 00:10:16,970
 Per fortuna che non sono andato io...
 
-158
+159
 00:10:22,650 --> 00:10:30,610
 ♪ Salvage! Salvage! Salvage! ♪
 
-159
+160
 00:10:31,030 --> 00:10:32,530
 Ma che roba è quella?
 
-160
+161
 00:10:33,280 --> 00:10:36,160
 ♪ Salvage~! ♪
 
-161
+162
 00:10:36,160 --> 00:10:40,370
 ♪ Salvage! Salvage! ♪
 
-162
+163
 00:10:41,710 --> 00:10:44,250
 ♪ Salvage! ♪
 
-163
+164
 00:10:44,710 --> 00:10:49,960
 ♪ Salvage! Salvage! ♪
 
-164
+165
 00:10:44,710 --> 00:10:48,210
 Arresto completo!
 
-165
+166
 00:10:50,630 --> 00:10:52,720
 – Sissignore!
 – Sissignore!
 
-166
+167
 00:10:52,720 --> 00:10:55,550
 È qui che è affondata la nave?
 
-167
+168
 00:10:55,550 --> 00:10:57,970
 – Sissignore! Boss!
 – Sissignore! Boss!
 
-168
+169
 00:10:58,970 --> 00:11:02,940
 Boss... quindi stanno parlando di me!
 
-169
+170
 00:11:03,520 --> 00:11:05,310
 Preparatevi a tirarla su!
 
-170
+171
 00:11:05,310 --> 00:11:08,360
 La nave affondata appartiene 
 al Boss dei Pirati Masira,
 
-171
+172
 00:11:08,360 --> 00:11:11,280
 ovvero me, Masira il Re del Salvage!
 
-172
+173
 00:11:15,570 --> 00:11:18,870
 Doveva apparire proprio adesso, questo stramboide?
 
-173
+174
 00:11:19,120 --> 00:11:21,700
 Ehi, voi! Che state facendo là?
 
-174
+175
 00:11:21,700 --> 00:11:23,580
 Questo è il mio territorio!
 
-175
+176
 00:11:23,960 --> 00:11:25,040
 Territorio?
 
-176
+177
 00:11:25,290 --> 00:11:26,540
 Esattamente.
 
-177
+178
 00:11:26,540 --> 00:11:30,340
 Qualsiasi nave affondata in questo territorio appartiene a me!
 
-178
+179
 00:11:30,340 --> 00:11:33,010
 Voialtri non l'avrete mica già toccata, vero?
 
-179
+180
 00:11:33,510 --> 00:11:36,930
 Sembra che quella persona abbia intenzione di fare un salvage.
 
-180
+181
 00:11:36,930 --> 00:11:39,050
 Già, ha detto qualcosa del genere.
 
-181
+182
 00:11:39,050 --> 00:11:41,600
 Che facciamo? 
 Forse dovremmo cogliere l'opportunità?
 
-182
+183
 00:11:41,600 --> 00:11:43,520
 Smettetela di borbottare!
 
-183
+184
 00:11:43,520 --> 00:11:46,900
 Rispondete immediatamente alla mia domanda!
 
-184
+185
 00:11:47,520 --> 00:11:50,150
 Scusi! Posso chiederle una cosa?
 
-185
+186
 00:11:50,150 --> 00:11:51,360
 Tu fai le domande ora?
 
-186
+187
 00:11:51,860 --> 00:11:54,400
 Va bene! Chiedimi pure quello che vuoi.
 
-187
+188
 00:11:54,400 --> 00:11:57,160
 Vuole fare un salvage per caso, signor scimmia?
 
-188
+189
 00:11:57,160 --> 00:11:58,070
 "Signor scimmia"?!
 
-189
+190
 00:12:00,990 --> 00:12:04,660
 Ehi, sono così tanto scimmialto?
 
-190
+191
 00:12:04,660 --> 00:12:05,500
 "Scimmialto"?
 
-191
+192
 00:12:05,500 --> 00:12:08,000
 Significa "uomo affascinante". Lo pensi davvero?
 
-192
+193
 00:12:08,750 --> 00:12:09,790
 Certo...
 
-193
+194
 00:12:09,790 --> 00:12:12,670
 Ah, mi fai arrossire così~
 
-194
+195
 00:12:12,670 --> 00:12:14,300
 Ma quella parola neanche esiste...
 
-195
+196
 00:12:15,220 --> 00:12:17,970
 Quindi? Fai il salvage o no?
 
-196
+197
 00:12:17,970 --> 00:12:23,970
 Ehi ragazzino, io sono il tipo di uomo che
  se vede una nave affondata la riporta su!
 
-197
+198
 00:12:23,970 --> 00:12:27,190
 Se galleggia ancora, te la
  affondo e poi te la riporto su!
 
-198
+199
 00:12:27,190 --> 00:12:30,400
 Non c'è nave che sfugge al nostro trattamento!
 
-199
+200
 00:12:31,270 --> 00:12:34,400
 Ci permetterebbe di osservarla per imparare come si fa?
 
-200
+201
 00:12:34,400 --> 00:12:39,070
 Aah, capisco. Quindi il salvage vi è nuovo, eh?
 
-201
+202
 00:12:39,910 --> 00:12:41,870
 Va bene allora! Guardate bene!
 
-202
+203
 00:12:42,580 --> 00:12:45,870
 Bene. Per ora, vediamo come si sviluppa la situazione, gente.
 
-203
+204
 00:12:46,540 --> 00:12:49,830
 F-Fate attenzione...
 
-204
+205
 00:12:50,290 --> 00:12:51,630
 Boss! C'è un problema!
 
-205
+206
 00:12:51,630 --> 00:12:52,630
 Che succede?
 
-206
+207
 00:12:52,630 --> 00:12:55,550
 L'equipaggio che si è sommerso per posizionare la culla...!
 
-207
+208
 00:12:55,880 --> 00:12:57,760
 È stato attaccato da un Re del Mare?
 
-208
+209
 00:12:57,760 --> 00:13:00,890
 No... sembra più che siano stati picchiati da una persona...
 
-209
+210
 00:13:00,890 --> 00:13:04,270
 Cosa?! Mi stai dicendo che c'è qualcuno sul fondo del mare?
 
-210
+211
 00:13:04,270 --> 00:13:05,430
 Quei tre...
 
-211
+212
 00:13:05,430 --> 00:13:06,980
 Qui si mette male...
 
-212
+213
 00:13:06,980 --> 00:13:08,390
 Allora...
 
-213
+214
 00:13:08,390 --> 00:13:10,230
 Ehi, voialtri!
 
-214
+215
 00:13:10,230 --> 00:13:11,360
 Ah, ecco...
 
-215
+216
 00:13:11,360 --> 00:13:14,530
 C'è qualcuno sul fondo del mare! 
 Fate attenzione!
 
-216
+217
 00:13:14,530 --> 00:13:15,730
 O-Ok...!
 
-217
+218
 00:13:15,730 --> 00:13:17,320
 – Per fortuna è uno scemo.
 – Per fortuna è uno scemo.
 
-218
+219
 00:13:17,610 --> 00:13:18,780
 Uomini!
 
-219
+220
 00:13:18,780 --> 00:13:20,860
 Sbrigatevi a disporre la culla!
 
-220
+221
 00:13:21,370 --> 00:13:23,700
 Diamo inizio al salvage!
 
-221
+222
 00:13:23,700 --> 00:13:25,330
 – Sissignore!
 – Sissignore!
 
-222
+223
 00:13:41,640 --> 00:13:43,100
 Ci sta salutando con la mano.
 
-223
+224
 00:13:43,100 --> 00:13:45,260
 Non deve accorgersi del tubo per l'aria, Usopp.
 
-224
+225
 00:13:45,260 --> 00:13:46,770
 Lo-so-bene.
 
-225
+226
 00:13:46,770 --> 00:13:48,310
 Ehi, uomini.
 
-226
+227
 00:13:48,310 --> 00:13:50,440
 Fate finta che siano delle zucche!
 
-227
+228
 00:13:50,440 --> 00:13:52,400
 Solo perché abbiamo degli spettatori...
 
-228
+229
 00:13:53,400 --> 00:13:56,530
 non è mica il caso di essere nervosi!
 
-229
+230
 00:13:56,530 --> 00:13:58,240
 – Sissignore!
 – Sissignore!
 
-230
+231
 00:13:58,240 --> 00:14:00,400
 Immergete la culla!
 
-231
+232
 00:14:00,400 --> 00:14:01,700
 – Sissignore!
 – Sissignore!
 
-232
+233
 00:14:04,700 --> 00:14:06,410
 State attenti ai nemici misteriosi!
 
-233
+234
 00:14:06,410 --> 00:14:07,580
 – Sissignore!
 – Sissignore!
 
-234
+235
 00:14:09,540 --> 00:14:12,750
 Sembra proprio che abbia una sorta di orgoglio.
 
-235
+236
 00:14:12,750 --> 00:14:15,500
 Stanno solo cercando di
  fare buona impressione...
 
-236
+237
 00:14:16,050 --> 00:14:17,960
 Non distraetevi neanche un secondo!
 
-237
+238
 00:14:17,960 --> 00:14:19,470
 – Sissignore!
 – Sissignore!
 
-238
+239
 00:15:31,410 --> 00:15:32,080
 Ehi!
 
-239
+240
 00:15:33,210 --> 00:15:33,960
 Quello.
 
-240
+241
 00:15:59,610 --> 00:16:01,940
 Culla in posizione, confermata!
 
-241
+242
 00:16:03,490 --> 00:16:04,740
 Che cavolo–?
 
-242
+243
 00:16:07,320 --> 00:16:08,700
 C-Cos...
 
-243
+244
 00:16:08,700 --> 00:16:10,280
 Cos'è esattamente quella scimmia?
 
-244
+245
 00:16:10,620 --> 00:16:12,620
 Cos'é quella scimmia ?
 
-245
+246
 00:16:12,620 --> 00:16:13,750
 Ah, questa?
 
-246
+247
 00:16:15,290 --> 00:16:17,370
 Hai proprio un buon occhio tu.
 
-247
+248
 00:16:17,370 --> 00:16:19,710
 Già, questa non è una polena qualsiasi.
 
-248
+249
 00:16:21,550 --> 00:16:23,590
 Lancio...!
 
-249
+250
 00:16:23,590 --> 00:16:25,170
 del Barco-Hunter!
 
-250
+251
 00:16:25,550 --> 00:16:27,800
 – Sissignore!
 – Sissignore!
 
-251
+252
 00:16:30,350 --> 00:16:30,850
 Monkey, monkey, monkey!
 
-252
+253
 00:16:30,850 --> 00:16:31,350
 Monkey, monkey, monkey!
 
-253
+254
 00:16:31,350 --> 00:16:33,640
 Monkey, monkey, monkey!
 
-254
+255
 00:16:32,100 --> 00:16:32,640
 Monkey, monkey, monkey!
 
-255
+256
 00:16:32,640 --> 00:16:33,100
 Monkey, monkey, monkey!
 
-256
+257
 00:16:33,100 --> 00:16:35,310
 Monkey, monkey, monkey!
 
-257
+258
 00:16:34,140 --> 00:16:34,430
 Monkey, monkey, monkey!
 
-258
+259
 00:16:34,430 --> 00:16:34,810
 Monkey, monkey, monkey!
 
-259
+260
 00:16:34,810 --> 00:16:37,100
 Monkey, monkey, monkey!
 
-260
+261
 00:16:35,770 --> 00:16:36,270
 Monkey, monkey, monkey!
 
-261
+262
 00:16:36,270 --> 00:16:36,690
 Monkey, monkey, monkey!
 
-262
+263
 00:16:36,690 --> 00:16:37,100
 Monkey, monkey, monkey!
 
-263
+264
 00:16:37,100 --> 00:16:40,900
 Monkey, monkey, monkey!
 
-264
+265
 00:16:37,100 --> 00:16:38,100
 Wow!
 
-265
+266
 00:16:42,650 --> 00:16:44,190
 Wow! Che figata!
 
-266
+267
 00:16:44,190 --> 00:16:46,150
 È proprio fighissimo!
 
-267
+268
 00:16:45,440 --> 00:16:46,150
 Ma come?
 
-268
+269
 00:16:48,660 --> 00:16:50,120
 Quaranta metri all'obiettivo.
 
-269
+270
 00:16:51,410 --> 00:16:52,620
 Trenta metri.
 
-270
+271
 00:16:53,490 --> 00:16:54,450
 Venti.
 
-271
+272
 00:16:55,500 --> 00:16:56,080
 Dieci!
 
-272
+273
 00:16:59,170 --> 00:17:00,830
 Barco-Hunter Joint:
 
-273
+274
 00:17:01,920 --> 00:17:02,880
 Completato!
 
-274
+275
 00:17:02,880 --> 00:17:04,050
 Bene!
 
-275
+276
 00:17:04,340 --> 00:17:06,130
 Si comincia a soffiare!
 
-276
+277
 00:17:06,130 --> 00:17:08,430
 – Sissignore!
 – Sissignore!
 
-277
+278
 00:17:09,050 --> 00:17:11,010
 Non dirmi che...
 
-278
+279
 00:17:15,890 --> 00:17:18,810
 Ha intenzione di portare su la nave riempiendola d'aria da solo?
 
-279
+280
 00:17:20,400 --> 00:17:22,110
 Ma è un metodo assurdo...
 
-280
+281
 00:17:35,330 --> 00:17:36,700
 Aria?
 
-281
+282
 00:17:44,040 --> 00:17:46,130
 Lo scafo si sta alzando!
 
-282
+283
 00:17:49,380 --> 00:17:51,510
 Ora! Tiratela su!
 
-283
+284
 00:17:51,510 --> 00:17:54,010
 – Sissignore!
 – Sissignore!
 
-284
+285
 00:17:54,760 --> 00:17:57,430
 Non sbagliate il tempismo con la fornitura d'aria!
 
-285
+286
 00:17:57,430 --> 00:17:59,940
 – Sissignore!
 – Sissignore!
 
-286
+287
 00:18:08,650 --> 00:18:09,780
 Boss!
 
-287
+288
 00:18:09,780 --> 00:18:11,660
 L'equipaggio che si è immerso...!
 
-288
+289
 00:18:11,660 --> 00:18:12,610
 Che è successo?
 
-289
+290
 00:18:13,410 --> 00:18:16,330
 Che vi è successo,
  miei piccoli scagnozzi?
 
-290
+291
 00:18:16,330 --> 00:18:18,250
 C'è qualcuno dentro alla nave!
 
-291
+292
 00:18:25,790 --> 00:18:29,090
 Dannato, come osi attaccare i miei cari seguaci!?
 
-292
+293
 00:18:29,090 --> 00:18:30,800
 Chi diamine ti credi di essere?!
 
-293
+294
 00:18:37,060 --> 00:18:40,060
 Guarda che non ti stiamo mica fotografando o cose del genere...
 
-294
+295
 00:18:40,060 --> 00:18:41,310
 Cosa?
 
-295
+296
 00:18:41,310 --> 00:18:43,020
 Si era messo in posa per una foto?
 
-296
+297
 00:18:43,020 --> 00:18:45,020
 Boss! Salvaci!
 
-297
+298
 00:18:47,270 --> 00:18:48,440
 Arrivo subito!
 
-298
+299
 00:18:48,440 --> 00:18:51,030
 Continuate a tirare su la nave!
 
-299
+300
 00:18:51,030 --> 00:18:52,650
 – Sissignore!
 – Sissignore!
 
-300
+301
 00:19:12,260 --> 00:19:14,300
 Pugno Scimmia!
 
-301
+302
 00:19:17,220 --> 00:19:19,100
 Ah, sta salendo, eh?
 
-302
+303
 00:19:23,270 --> 00:19:25,850
 Visto? Stiamo bene anche se togliamo i barili.
 
-303
+304
 00:19:26,270 --> 00:19:29,780
 Non pensavo potessero 
 mandarci così tanta aria.
 
-304
+305
 00:19:29,780 --> 00:19:33,650
 Però, chi diavolo sta
  tirando su questa nave?
 
-305
+306
 00:19:33,650 --> 00:19:37,120
 Potrebbe essere successo 
 qualcosa a Nami e Robin...
 
-306
+307
 00:19:37,120 --> 00:19:39,370
 Non rispondono da un pezzo anche se le chiamo!
 
-307
+308
 00:19:40,740 --> 00:19:42,750
 Chi diavolo è quello...
 
-308
+309
 00:19:42,750 --> 00:19:45,250
 che si sta scatenando nel mio territorio?!
 
-309
+310
 00:19:45,250 --> 00:19:45,960
 Eh?
 
-310
+311
 00:19:48,290 --> 00:19:50,050
 Ah... è una scimmia.
 
-311
+312
 00:19:51,050 --> 00:19:53,510
 Sono davvero così scimmialto?
 
-312
+313
 00:19:53,510 --> 00:19:55,760
 Sì, assomiglia un bel po' a una scimmia.
 
-313
+314
 00:19:55,760 --> 00:19:57,720
 Ma che razza di conversazione è?
 
-314
+315
 00:19:57,720 --> 00:19:58,470
 Quale?
 
-315
+316
 00:19:59,390 --> 00:20:00,810
 Comunque, tu chi saresti?
 
-316
+317
 00:20:00,810 --> 00:20:03,430
 Ah, mi fai arrossire così~
 
-317
+318
 00:20:03,430 --> 00:20:06,900
 Lo pensi davvero? 
 Certo che hai buon gusto.
 
-318
+319
 00:20:06,900 --> 00:20:08,940
 Ci vuoi dire chi sei o no?!
 
-319
+320
 00:20:13,240 --> 00:20:15,320
 Ehi, sotto la nave...
 
-320
+321
 00:20:16,910 --> 00:20:20,490
 S-Sì, c'è qualcosa...
 
-321
+322
 00:20:23,870 --> 00:20:27,830
 Capisco! Quindi siete dell'East Blue!
 
-322
+323
 00:20:28,250 --> 00:20:32,300
 Esatto! Però, tu somigli proprio un sacco a una scimmia!
 
-323
+324
 00:20:32,840 --> 00:20:35,050
 Così mi lusinghi troppo~!
 
-324
+325
 00:20:52,980 --> 00:20:53,860
 Ma che–
 
-325
+326
 00:20:55,990 --> 00:20:59,870
 E questo che cos'è?! Cos'è questo!?
-
-326
-00:11:02,980 --> 00:11:08,230
-Masira "Re del Salvage"
-Boss dei Pirati di Masira
-Taglia: 23 millioni berry
 
 327
 00:11:02,980 --> 00:11:08,230
@@ -1373,3 +1372,8 @@ Masira "Re del Salvage"
 Boss dei Pirati di Masira
 Taglia: 23 millioni berry
 
+328
+00:11:02,980 --> 00:11:08,230
+Masira "Re del Salvage"
+Boss dei Pirati di Masira
+Taglia: 23 millioni berry

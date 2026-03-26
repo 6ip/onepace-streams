@@ -1,1509 +1,1513 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:56,720 --> 00:01:58,470
 Chi di voi è Arlong?!
 
-2
+3
 00:01:59,100 --> 00:02:01,480
 Sono io Arlong.
 
-3
+4
 00:02:01,480 --> 00:02:02,940
 Io sono Luffy.
 
-4
+5
 00:02:03,310 --> 00:02:04,900
 Luffy?
 
-5
+6
 00:02:04,900 --> 00:02:06,560
 E chi diavolo saresti?
 
-6
+7
 00:02:06,900 --> 00:02:08,440
 Un pirata!
 
-7
+8
 00:02:08,780 --> 00:02:10,490
 Ehi, tu, aspetta!
 
-8
+9
 00:02:11,570 --> 00:02:13,320
 Dove credi di andare?
 
-9
+10
 00:02:14,030 --> 00:02:18,700
 Prima di tutto devi parlarne con noi, 
 altrimenti saranno guai, fratello.
 
-10
+11
 00:02:19,240 --> 00:02:20,200
 Ehi, capito?
 
-11
+12
 00:02:20,200 --> 00:02:21,790
 Se non ti fermi...
 
-12
+13
 00:02:23,000 --> 00:02:24,290
 Levatevi!
 
-13
+14
 00:02:27,290 --> 00:02:29,340
 Cosa vuole un pirata da me?
 
-14
+15
 00:02:51,320 --> 00:02:53,570
 Tu cosa...
 
-15
+16
 00:02:58,620 --> 00:02:59,490
 Luffy...
 
-16
+17
 00:03:01,120 --> 00:03:02,120
 aiutami...
 
-17
+18
 00:03:02,120 --> 00:03:04,960
 Non devi far piangere la nostra navigatrice!
 
-18
+19
 00:03:04,960 --> 00:03:05,750
 Bastardo!
 
-19
+20
 00:03:05,750 --> 00:03:08,380
 Come osi rivolgerti così ad Arlong?!
 
-20
+21
 00:03:10,460 --> 00:03:13,340
 Voi nullità fatevi da parte!
 
-21
+22
 00:03:16,340 --> 00:03:17,390
 Che cavolo...
 
-22
+23
 00:03:17,930 --> 00:03:20,260
 Avvicinarti così per conto tuo...
 
-23
+24
 00:03:20,260 --> 00:03:22,470
 Anche da solo, non perderei.
 
-24
+25
 00:03:22,470 --> 00:03:26,600
 Idiota! 
 Pensavi che fossi preoccupato per te?
 
-25
+26
 00:03:27,310 --> 00:03:29,860
 Sto solo dicendo di 
 non tenere per te tutte le prede!
 
-26
+27
 00:03:29,860 --> 00:03:31,150
 Ah, ok!
 
-27
+28
 00:03:31,150 --> 00:03:36,320
 A-A-A me va bene lo stesso!
 S-Se vuoi tenerle tutte per te!
 
-28
+29
 00:03:36,320 --> 00:03:39,030
 Che coraggio che hai, eh?
 
-29
+30
 00:03:40,370 --> 00:03:44,330
 È lui! È lo spadaccino sconosciuto!
 
-30
+31
 00:03:44,330 --> 00:03:45,830
 È Roronoa Zoro!
 
-31
+32
 00:03:45,830 --> 00:03:51,250
 Come... Come pensavo, mi ha fregato!
 
-32
+33
 00:03:51,250 --> 00:03:52,840
 Si è fatto dare un passaggio e...
 
-33
+34
 00:03:52,840 --> 00:03:55,800
 No, forse gliel'ho voluto dare io?
 
-34
+35
 00:03:55,800 --> 00:03:57,380
 Guardate! Quel naso lungo!
 
-35
+36
 00:03:58,550 --> 00:04:02,220
 Q-Quell'uomo! Nami dovrebbe averlo ucciso!
 
-36
+37
 00:04:02,220 --> 00:04:04,520
 È proprio come pensavo!
 
-37
+38
 00:04:05,390 --> 00:04:08,190
 Quella donna... è una traditrice!
 
-38
+39
 00:04:16,240 --> 00:04:18,150
 Ehi, chi sono loro?!
 
-39
+40
 00:04:18,950 --> 00:04:19,990
 Ops.
 
-40
+41
 00:04:21,910 --> 00:04:24,160
 Hanno spazzato via quell'Arlong...
 
-41
+42
 00:04:24,160 --> 00:04:25,870
 Non riesco a crederci!
 
-42
+43
 00:04:27,370 --> 00:04:29,710
 Una persona normale non ci riuscirebbe mai!
 
-43
+44
 00:04:29,710 --> 00:04:31,670
 Loro...
 
-44
+45
 00:04:32,170 --> 00:04:35,380
 Avete ancora... intenzione di entrare?
 
-45
+46
 00:04:35,380 --> 00:04:38,760
 Se andaste lì, non fareste
  altro che rovinare la battaglia.
 
-46
+47
 00:04:38,760 --> 00:04:40,640
 Sareste solo d'intralcio per i fratelli!
 
-47
+48
 00:04:40,640 --> 00:04:44,390
 Però... perché combattono?
 
-48
+49
 00:04:44,390 --> 00:04:47,020
 Che motivo hanno di combattere?
 
-49
+50
 00:04:47,020 --> 00:04:48,560
 Il motivo per combattere?
 
-50
+51
 00:04:51,150 --> 00:04:52,860
 La sorella Nami stava piangendo!
 
-51
+52
 00:04:55,980 --> 00:04:59,610
 Servono altri motivi per mettere 
 a rischio la propria vita?
 
-52
+53
 00:05:03,830 --> 00:05:06,540
 Un pirata, eh? Capisco.
 
-53
+54
 00:05:06,540 --> 00:05:09,410
 Quindi era questo il rapporto che vi legava!
 
-54
+55
 00:05:10,330 --> 00:05:13,000
 Sin dall'inizio, Nami era il vostro obiettivo.
 
-55
+56
 00:05:13,000 --> 00:05:14,170
 Ma...!
 
-56
+57
 00:05:15,920 --> 00:05:18,510
 Quattro esseri inferiori 
 come voi cosa possono fare?!
 
-57
+58
 00:05:20,760 --> 00:05:24,300
 Brutti scemi! Volete davvero 
 scontrarvi con il capitano Arlong?
 
-58
+59
 00:05:24,680 --> 00:05:26,430
 Basterà lui.
 
-59
+60
 00:05:34,860 --> 00:05:36,070
 Che sia...!
 
-60
+61
 00:05:36,070 --> 00:05:37,730
 Lo sta... chiamando?!
 
-61
+62
 00:05:41,320 --> 00:05:43,820
 Cosa c'è? Cosa c'è?! Che succede?!
 
-62
+63
 00:05:43,820 --> 00:05:46,660
 Vieni fuori, Momu!
 
-63
+64
 00:05:53,120 --> 00:05:55,250
 U-Un mostro!
 
-64
+65
 00:05:55,250 --> 00:05:58,750
 Il mostro della Grand Line che
  ha distrutto la città di Gosa!
 
-65
+66
 00:06:10,270 --> 00:06:12,060
 È enorme!
 
-66
+67
 00:06:13,730 --> 00:06:15,230
 È...
 
-67
+68
 00:06:15,230 --> 00:06:16,520
 la mucca marina, Momu!
 
-68
+69
 00:06:22,650 --> 00:06:23,910
 Ah, quella?
 
-69
+70
 00:06:23,910 --> 00:06:25,620
 È un compagno degli uomini-pesce?
 
-70
+71
 00:06:29,410 --> 00:06:32,370
 Fermo, Momu! Dove vai?!
 
-71
+72
 00:06:32,790 --> 00:06:36,000
 Ehi! Fermo! Fermo, Momu!
 
-72
+73
 00:06:37,750 --> 00:06:40,960
 Momu... cosa stai facendo?
 
-73
+74
 00:06:45,300 --> 00:06:50,470
 Beh... se vuoi scappare, non ti fermerò, ma...
 
-74
+75
 00:06:52,480 --> 00:06:54,520
 Hai capito, Momu?
 
-75
+76
 00:07:01,730 --> 00:07:03,690
 A-A-Arriva!
 
-76
+77
 00:07:03,690 --> 00:07:04,700
 Bene!
 
-77
+78
 00:07:04,700 --> 00:07:06,530
 Momu, continua!
 
-78
+79
 00:07:10,910 --> 00:07:13,330
 Scusa! Scusa! Scusa! Scusa!
 
-79
+80
 00:07:16,960 --> 00:07:19,670
 Faccio io! È una perdita di tempo!
 
-80
+81
 00:07:28,760 --> 00:07:31,220
 Che intenzioni ha, quello lì?
 
-81
+82
 00:07:31,220 --> 00:07:34,100
 Ho un brutto presentimento...
 
-82
+83
 00:07:51,870 --> 00:07:53,740
 Le sue braccia si sono allungate!
 
-83
+84
 00:07:55,960 --> 00:07:58,250
 Ha i poteri di un Frutto del Diavolo?!
 
-84
+85
 00:07:58,250 --> 00:07:59,290
 Cosa?!
 
-85
+86
 00:07:59,290 --> 00:08:00,130
 Non importa!
 
-86
+87
 00:08:00,130 --> 00:08:00,710
 Andiamo!
 
-87
+88
 00:08:03,340 --> 00:08:04,170
 Ehi, scappate!
 
-88
+89
 00:08:04,170 --> 00:08:06,220
 Che c'è? Cosa vuole fare?!
 
-89
+90
 00:08:06,220 --> 00:08:08,720
 Non lo so, ma sicuramente niente di buono!
 
-90
+91
 00:08:08,720 --> 00:08:15,060
 Gum Gum...
 
-91
+92
 00:08:16,060 --> 00:08:21,150
 Girandola!
 
-92
+93
 00:08:30,990 --> 00:08:34,830
 Io... non sono venuto qui per 
 battermi con dei cosi come quello!
 
-93
+94
 00:08:35,370 --> 00:08:37,750
 Quello che voglio prendere a calci...
 
-94
+95
 00:08:38,960 --> 00:08:40,080
 sei tu!
 
-95
+96
 00:08:40,790 --> 00:08:42,960
 Proprio come volevo.
 
-96
+97
 00:08:44,590 --> 00:08:48,720
 Stavo proprio pensando di ucciderti anch'io.
 
-97
+98
 00:08:48,720 --> 00:08:51,140
 È pericoloso, sai, idiota?!
 
-98
+99
 00:08:51,140 --> 00:08:53,760
 Volevi uccidere anche noi?!
 
-99
+100
 00:08:58,890 --> 00:09:01,270
 Che potenza distruttiva...
 
-100
+101
 00:09:01,650 --> 00:09:05,650
 Un essere umano in grado di scagliare 
 via quell'enorme mostro... è assurdo!
 
-101
+102
 00:09:05,980 --> 00:09:08,820
 È... reale una battaglia del genere?
 
-102
+103
 00:09:11,700 --> 00:09:14,370
 I nostri fratelli di sangue... come hai osato?!
 
-103
+104
 00:09:15,330 --> 00:09:19,620
 A quanto pare... 
 dovremo partecipare anche noi.
 
-104
+105
 00:09:19,620 --> 00:09:23,290
 Dobbiamo insegnargli la 
 differenza tra le nostre razze.
 
-105
+106
 00:09:23,290 --> 00:09:26,250
 Finalmente... arrivano i pezzi forti, eh?
 
-106
+107
 00:09:30,050 --> 00:09:32,760
 Arlong, tu rimani da parte.
 
-107
+108
 00:09:32,760 --> 00:09:39,480
 Se ti scatenassi in preda alla rabbia,
 Arlong Park verrebbe ridotto in polvere.
 
-108
+109
 00:09:42,480 --> 00:09:45,150
 Questi tizi li sistemeremo noi!
 
-109
+110
 00:09:45,150 --> 00:09:48,110
 Certo, fate come volete!
 
-110
+111
 00:09:49,030 --> 00:09:51,280
 Che paura...
 
-111
+112
 00:09:51,900 --> 00:09:54,820
 Ehi, sentite, una cosa...
 
-112
+113
 00:09:54,820 --> 00:09:57,280
 Quel polpo ha in mente qualcosa...
 
-113
+114
 00:09:57,280 --> 00:10:00,500
 Il polpo va, prima di tutto, 
 bollito in acqua salata e affettato.
 
-114
+115
 00:10:00,500 --> 00:10:04,710
 Condito con olio d'oliva e paprika, 
 è lo snack perfetto con degli alcolici.
 
-115
+116
 00:10:04,710 --> 00:10:07,130
 Ehm, sono un po' nei guai...
  Ascoltate un attimo.
 
-116
+117
 00:10:07,130 --> 00:10:09,340
 Prendete questo! Visibilità Zero!
 
-117
+118
 00:10:09,340 --> 00:10:12,130
 Nota: Tako significa polpo, Hachi è il suo soprannome.
 
-118
+119
 00:10:09,340 --> 00:10:12,130
 Takohachi Black!
 
-119
+120
 00:10:16,550 --> 00:10:18,810
 Idiota! Ehi, perché non l'hai schivato?!
 
-120
+121
 00:10:20,520 --> 00:10:22,770
 Non vedo niente!
 
-121
+122
 00:10:23,850 --> 00:10:25,560
 Il prossimo è il colpo di grazia!
 
-122
+123
 00:10:28,570 --> 00:10:30,530
 Ehi, Luffy, scappa!
 
-123
+124
 00:10:31,360 --> 00:10:33,490
 S-Sì! È proprio quello il problema!
 
-124
+125
 00:10:34,660 --> 00:10:37,410
 N-Non riesco a muovermi!
 
-125
+126
 00:10:38,410 --> 00:10:39,700
 Ah?!
 
-126
+127
 00:10:40,080 --> 00:10:42,710
 N-Non riesco a tirare fuori le gambe!
 
-127
+128
 00:10:42,710 --> 00:10:45,670
 Ma sei stato tu a infilare le gambe lì, no?!
 
-128
+129
 00:10:45,670 --> 00:10:47,920
 Ma perché...
 
-129
+130
 00:10:49,380 --> 00:10:52,760
 Takohachi Black on the Rocks!
 
-130
+131
 00:11:09,860 --> 00:11:12,530
 Sono davvero senza parole.
 
-131
+132
 00:11:12,530 --> 00:11:15,280
 Sanji! Bravo! Bravo!
 
-132
+133
 00:11:15,280 --> 00:11:19,450
 Sembra che abbia finito per seguire 
 un capitano incredibilmente stupido.
 
-133
+134
 00:11:19,780 --> 00:11:20,950
 Concordo.
 
-134
+135
 00:11:20,950 --> 00:11:23,500
 Ma lui è... incredibile!
 
-135
+136
 00:11:23,830 --> 00:11:29,920
 Beh, però... cento volte meglio di 
 una ciurma di merda che ferisce una lady.
 
-136
+137
 00:11:29,920 --> 00:11:31,670
 Lady, dici?
 
-137
+138
 00:11:33,010 --> 00:11:36,220
 Pensare che siete venuti qui 
 solo per una donna così...
 
-138
+139
 00:11:36,720 --> 00:11:38,180
 "Donna così"?
 
-139
+140
 00:11:38,800 --> 00:11:41,350
 Prova di nuovo ad insultare la mia dolce Nami.
 
-140
+141
 00:11:41,350 --> 00:11:45,230
 Nota: Meuniére significa "mugnaia", 
 una salsa con burro, prezzemolo e limone.
 
-141
+142
 00:11:41,350 --> 00:11:45,230
 Ti farò alla meunière su una 
 padella imburrata, pesceman!
 
-142
+143
 00:11:45,230 --> 00:11:48,850
 Sembra che tu un po' ci sappia fare, 
 per un essere umano.
 
-143
+144
 00:11:48,850 --> 00:11:52,980
 Ma un pirata che decanta 
 di cavalleria è solo ridicolo.
 
-144
+145
 00:11:54,900 --> 00:11:58,240
 Prova a testare se la mia 
 cavalleria è ridicola o meno.
 
-145
+146
 00:11:58,240 --> 00:12:01,990
 Dopotutto, per metà della mia vita 
 mi ha cresciuto un pirata invincibile.
 
-146
+147
 00:12:04,660 --> 00:12:09,630
 Sembra che tu... non conosca il vero 
 livello della razza degli uomini-pesce.
 
-147
+148
 00:12:13,000 --> 00:12:14,840
 Non riesco ancora a toglierli!
 
-148
+149
 00:12:15,510 --> 00:12:17,800
 Ancora?! Non ci riesci ancora?!
 
-149
+150
 00:12:19,090 --> 00:12:21,050
 Non ci riesco ancora~!
 
-150
+151
 00:12:21,050 --> 00:12:23,810
 Mi sa che non riuscirò a 
 toglierli allungandomi e basta.
 
-151
+152
 00:12:23,810 --> 00:12:27,270
 Ehi, tu! Hai almeno voglia di farlo?! 
 Vuoi liberarti i piedi o no?!
 
-152
+153
 00:12:27,270 --> 00:12:32,230
 A che gioco stanno giocando quei tizi, 
 qui ad Arlong Park?!
 
-153
+154
 00:12:32,730 --> 00:12:34,320
 Vi ucciderò!
 
-154
+155
 00:12:35,570 --> 00:12:38,200
 Ehi, dai! Non va bene, tirali fuori!
 
-155
+156
 00:12:40,160 --> 00:12:41,620
 Fermi!
 
-156
+157
 00:12:41,620 --> 00:12:42,990
 Ehi, polpo!
 
-157
+158
 00:12:43,490 --> 00:12:45,450
 Loro sono occupati al momento.
 
-158
+159
 00:12:46,580 --> 00:12:48,410
 Ti farò io da avversario.
 
-159
+160
 00:12:49,790 --> 00:12:53,040
 Roronoa Zoro!
 Giusto, me n'ero dimenticato!
 
-160
+161
 00:12:53,040 --> 00:12:55,300
 Come hai osato imbrogliarmi?!
 
-161
+162
 00:12:58,760 --> 00:13:03,760
 Giusto! Hai anche affettato un
 sacco di miei fratelli di sangue!
 
-162
+163
 00:13:03,760 --> 00:13:06,180
 Queste vecchie storie non mi interessano.
 
-163
+164
 00:13:06,770 --> 00:13:10,940
 Non ha importanza con che 
 pretesto hai intenzione di uccidermi.
 
-164
+165
 00:13:11,650 --> 00:13:13,900
 La situazione ormai è cambiata.
 
-165
+166
 00:13:14,440 --> 00:13:17,110
 Non sarete voi a distruggerci.
 
-166
+167
 00:13:17,110 --> 00:13:19,860
 Saremo noi a distruggere voi!
 
-167
+168
 00:13:19,860 --> 00:13:24,030
 Bene, Zoro! 
 Lascio a te questo polpo! Nice!
 
-168
+169
 00:13:24,700 --> 00:13:26,330
 Luffy!
 
-169
+170
 00:13:32,500 --> 00:13:33,790
 Sono tornato~!
 
-170
+171
 00:13:36,800 --> 00:13:38,460
 Bastardo!
 
-171
+172
 00:13:38,460 --> 00:13:40,420
 Mi dispiace...
 
-172
+173
 00:13:40,420 --> 00:13:44,430
 Vuoi proprio... farti uccidere da me, eh?
 
-173
+174
 00:13:49,270 --> 00:13:53,230
 Lui... è quello che ha 
 salvato il signor Gen, vero?
 
-174
+175
 00:13:56,020 --> 00:13:58,190
 Siete i tizi del villaggio Cocoyashi.
 
-175
+176
 00:13:58,190 --> 00:13:59,320
 Oh?
 
-176
+177
 00:13:59,320 --> 00:14:04,200
 Siccome avete delle armi, 
 posso considerare questa una ribellione, vero?
 
-177
+178
 00:14:04,660 --> 00:14:05,490
 Verrete tutt–
 
-178
+179
 00:14:05,490 --> 00:14:07,160
 Stella Polvere da Sparo!
 
-179
+180
 00:14:07,740 --> 00:14:09,200
 Fratello Usopp!
 
-180
+181
 00:14:12,000 --> 00:14:15,580
 Il tuo avversario... sono io, no?!
 
-181
+182
 00:14:17,670 --> 00:14:20,550
 Se vuoi morire così tanto, ti elimino subito!
 
-182
+183
 00:14:23,510 --> 00:14:25,930
 Ma cos'ha quel giovane...
 
-183
+184
 00:14:25,930 --> 00:14:29,680
 Fa il coraggioso, scappa... 
 Si comporta proprio in modo strano.
 
-184
+185
 00:14:32,980 --> 00:14:34,560
 Fermo, ehi, naso!
 
-185
+186
 00:14:34,560 --> 00:14:36,610
 Parli tu con quella tua bocca!
 
-186
+187
 00:14:37,820 --> 00:14:40,190
 Perché... sono dei pirati?
 
-187
+188
 00:14:44,990 --> 00:14:49,830
 Siete tutti inutili. Spostatevi! Non posso 
 più stare a guardare, è troppo frustrante.
 
-188
+189
 00:14:50,120 --> 00:14:54,330
 Arlong! Ti ho detto di 
 non scatenarti qui, no?
 
-189
+190
 00:14:54,330 --> 00:14:58,790
 Non mi scatenerò. 
 Mi è venuto in mente un gioco divertente.
 
-190
+191
 00:15:00,270 --> 00:15:02,170
 A te ti...
 
-191
+192
 00:15:02,670 --> 00:15:05,010
 prenderò a calci io!
 
-192
+193
 00:15:06,430 --> 00:15:10,140
 Voi bastardi... pensate davvero 
 di poter vincere contro di noi?
 
-193
+194
 00:15:10,140 --> 00:15:12,100
 E con ciò cosa vorresti dire?
 
-194
+195
 00:15:12,100 --> 00:15:15,560
 Lo pensiamo davvero, scemo~! 
 Mollami il braccio!
 
-195
+196
 00:15:15,560 --> 00:15:17,520
 Sembra voglia dire qualcosa.
 
-196
+197
 00:15:25,450 --> 00:15:27,110
 Cosa?! Cosa?! Cosa?!
 
-197
+198
 00:15:29,120 --> 00:15:31,950
 Chi possiede i poteri dei Frutti 
 del Diavolo è come un masso!
 
-198
+199
 00:15:32,490 --> 00:15:36,710
 Anche se, in questa situazione, 
 finiresti per affondare anche senza poteri!
 
-199
+200
 00:15:38,210 --> 00:15:40,130
 Non può essere...! Nel mare?!
 
-200
+201
 00:15:41,000 --> 00:15:43,880
 Gum Gum Pistol!
 
-201
+202
 00:15:46,300 --> 00:15:49,260
 Che male!
 
-202
+203
 00:15:49,260 --> 00:15:50,350
 Idiota!
 
-203
+204
 00:15:51,260 --> 00:15:53,720
 Brutto bastardo!
 
-204
+205
 00:15:53,720 --> 00:15:55,680
 Che cosa inutile...
 
-205
+206
 00:16:00,730 --> 00:16:01,360
 Luffy!
 
-206
+207
 00:16:01,650 --> 00:16:02,860
 Bastardo...!
 
-207
+208
 00:16:13,080 --> 00:16:13,910
 Vengo a salvar–!
 
-208
+209
 00:16:13,910 --> 00:16:15,790
 Stupido! Non agitarti!
 
-209
+210
 00:16:16,410 --> 00:16:19,370
 Se entri in acqua, farai il loro gioco.
 
-210
+211
 00:16:19,370 --> 00:16:23,000
 In una battaglia sottomarina, 
 gli uomini-pesce sono ovviamente in vantaggio!
 
-211
+212
 00:16:23,750 --> 00:16:26,170
 C'è solo un modo per salvare Luffy!
 
-212
+213
 00:16:27,340 --> 00:16:30,680
 Sconfiggere subito 
 questi tizi qui e poi entrare in acqua?
 
-213
+214
 00:16:32,050 --> 00:16:34,140
 Facciamolo! Non c'è tempo!
 
-214
+215
 00:16:34,140 --> 00:16:34,680
 Sì!
 
-215
+216
 00:16:34,680 --> 00:16:38,640
 Dunque, quanti secondi 
 durerà quell'uomo di gomma?
 
-216
+217
 00:16:38,640 --> 00:16:40,690
 Ah, è quel tipo di gioco, eh?
 
-217
+218
 00:16:40,690 --> 00:16:41,940
 Capisco.
 
-218
+219
 00:16:45,230 --> 00:16:46,820
 Lascio a te il pesce.
 
-219
+220
 00:16:47,530 --> 00:16:49,660
 Tu affetta il polpo invece.
 
-220
+221
 00:17:02,540 --> 00:17:06,260
 Ah... Oh no, non riesco a farmi forza.
 
-221
+222
 00:17:07,380 --> 00:17:10,090
 Che facciamo?!
 Non se la caverà da solo!
 
-222
+223
 00:17:10,090 --> 00:17:11,840
 Il fratello Luffy morirà!
 
-223
+224
 00:17:20,390 --> 00:17:22,770
 Non possono nemmeno respirare in acqua.
 
-224
+225
 00:17:23,060 --> 00:17:26,070
 Gli esseri umani sono 
 proprio creature patetiche.
 
-225
+226
 00:17:28,110 --> 00:17:31,070
 Fatti sotto! Sarò io il tuo avversario, polpoide!
 
-226
+227
 00:17:35,450 --> 00:17:36,660
 Gioco, gioco!
 
-227
+228
 00:17:36,990 --> 00:17:39,160
 Ti sistemerò in cinque secondi!
 
-228
+229
 00:17:40,000 --> 00:17:41,080
 No, in tre secondi!
 
-229
+230
 00:17:41,670 --> 00:17:43,380
 Non agitatevi!
 
-230
+231
 00:17:44,000 --> 00:17:48,130
 Qualsiasi cosa accadrà, 
 non avete alcuna speranza di sopravvivere!
 
-231
+232
 00:18:01,560 --> 00:18:06,480
 S-Sarò ucciso!
 
-232
+233
 00:18:06,820 --> 00:18:09,690
 Lo sistemo in cinque secondi 
 e ti salvo subito, Luffy!
 
-233
+234
 00:18:10,070 --> 00:18:11,570
 Takohachi Black!
 
-234
+235
 00:18:19,790 --> 00:18:22,040
 I miei capelli–! Bastardo!
 
-235
+236
 00:18:22,040 --> 00:18:24,830
 Ti...
 
-236
+237
 00:18:25,210 --> 00:18:26,130
 perdono!
 
-237
+238
 00:18:26,130 --> 00:18:28,420
 Sono solo capelli dopotutto, ricresceranno.
 
-238
+239
 00:18:28,420 --> 00:18:28,840
 Eh?
 
-239
+240
 00:18:29,210 --> 00:18:30,460
 Roronoa Zoro!
 
-240
+241
 00:18:30,460 --> 00:18:34,470
 Non riuscirai a farmi a fette
 perché io ho sei braccia!
 
-241
+242
 00:18:34,470 --> 00:18:36,550
 Prova ad affettarmi se ci riesci~!
 
-242
+243
 00:18:36,550 --> 00:18:37,140
 Polpoide!
 
-243
+244
 00:18:37,510 --> 00:18:38,100
 Polpo Presa Tripla Spada a Mani Nude!
 
-244
+245
 00:18:38,100 --> 00:18:39,010
 Polpo Presa Tripla Spada a Mani Nude!
 
-245
+246
 00:18:39,010 --> 00:18:39,850
 Polpo Presa Tripla Spada a Mani Nude!
 
-246
+247
 00:18:39,850 --> 00:18:40,600
 Polpo Presa Tripla Spada a Mani Nude!
 
-247
+248
 00:18:40,600 --> 00:18:41,430
 Polpo Presa Tripla Spada a Mani Nude!
 
-248
+249
 00:18:41,430 --> 00:18:42,270
 Polpo Presa Tripla Spada a Mani Nude!
 
-249
+250
 00:18:42,270 --> 00:18:43,100
 Polpo Presa Tripla Spada a Mani Nude!
 
-250
+251
 00:18:43,100 --> 00:18:44,060
 Polpo Presa Tripla Spada a Mani Nude!
 
-251
+252
 00:18:46,400 --> 00:18:48,150
 Ah, ahia!
 
-252
+253
 00:18:48,150 --> 00:18:49,900
 Non ho tempo di giocare con te!
 
-253
+254
 00:18:51,530 --> 00:18:53,360
 Mi sta facendo impazzire!
 
-254
+255
 00:18:54,030 --> 00:18:55,740
 Lui... possibile che...
 
-255
+256
 00:18:55,740 --> 00:18:57,740
 Se distogli lo sguardo, la tua vita sarà breve!
 
-256
+257
 00:18:57,740 --> 00:19:00,740
 Un pesce non dovrebbe ribellarsi ad un cuoco!
 
-257
+258
 00:19:01,240 --> 00:19:04,040
 Non c'è tempo! Non c'è t–
 
-258
+259
 00:19:05,460 --> 00:19:07,040
 Falla finita e sparisci!
 
-259
+260
 00:19:10,550 --> 00:19:14,550
 Nota: Gioco di parole basato sull'omofonia 
 di ventosa e numero nove in giapponese.
 
-260
+261
 00:19:10,550 --> 00:19:14,550
 Takohachi Number Nine!
 
-261
+262
 00:19:16,050 --> 00:19:18,720
 Ma che roba è?! Sbrigati a scendere!
 
-262
+263
 00:19:20,220 --> 00:19:21,970
 'Sto polpo...
 
-263
+264
 00:19:23,140 --> 00:19:26,230
 Quel maledetto polpo!
 Sta semplicemente temporeggiando!
 
-264
+265
 00:19:26,230 --> 00:19:30,770
 D'altro canto, se entrassero ora in mare,
 verrebbero trascinati subito sul fondale!
 
-265
+266
 00:19:30,770 --> 00:19:33,900
 Però...! Di questo passo, 
 il fratello Luffy morirà!
 
-266
+267
 00:19:33,900 --> 00:19:35,860
 Dobbiamo fare qualcosa!
 
-267
+268
 00:19:35,860 --> 00:19:36,410
 Già!
 
-268
+269
 00:19:36,410 --> 00:19:36,860
 Fermi!
 
-269
+270
 00:19:36,860 --> 00:19:38,530
 – Ahia!
 – Ahia!
 
-270
+271
 00:19:38,530 --> 00:19:42,080
 Voi due... con tutte queste ferite, 
 volete andare in mare?!
 
-271
+272
 00:19:43,200 --> 00:19:45,910
 Messi così, non riuscireste 
 a portare a termine nulla.
 
-272
+273
 00:19:46,460 --> 00:19:49,580
 Quel giovane di gomma andrò a salvarlo io.
 
-273
+274
 00:19:49,580 --> 00:19:51,040
 T-Tu...?
 
-274
+275
 00:19:51,040 --> 00:19:52,300
 Signor Gen!
 
-275
+276
 00:19:52,300 --> 00:19:53,210
 Vengo anch'io!
 
-276
+277
 00:19:53,210 --> 00:19:54,380
 Vengo anch'io!
 
-277
+278
 00:19:54,380 --> 00:19:55,720
 Anch'io!
 
-278
+279
 00:19:55,720 --> 00:20:01,010
 No! Se andassimo in troppi e gli uomini-pesce
  ci scoprissero mentre li aiutiamo,
 
-279
+280
 00:20:01,010 --> 00:20:03,560
 finiremo solo per causare loro problemi!
 
-280
+281
 00:20:03,560 --> 00:20:04,270
 Signor Gen!
 
-281
+282
 00:20:04,270 --> 00:20:08,900
 Se finissimo per ostacolare la loro battaglia, 
 non avrebbe alcun senso.
 
-282
+283
 00:20:08,900 --> 00:20:10,230
 Posso farcela da solo.
 
-283
+284
 00:20:11,230 --> 00:20:13,360
 Ci dispiace! Grazie!
 
-284
+285
 00:20:13,360 --> 00:20:16,820
 Non avremmo voluto doverlo
 chiederlo a te, ma sbrigati!
 
-285
+286
 00:20:17,320 --> 00:20:18,030
 Aspetta!
 
-286
+287
 00:20:19,110 --> 00:20:20,950
 Signor Gen, vengo anch'io!
 
-287
+288
 00:20:20,950 --> 00:20:23,080
 Nojiko! Ma tu sei ferita!
 
-288
+289
 00:20:23,080 --> 00:20:26,830
 Loro stanno combattendo per la mia sorellina!
 
-289
+290
 00:20:27,120 --> 00:20:28,120
 Signor Gen!
 
-290
+291
 00:20:29,330 --> 00:20:31,290
 Ok... Vieni!
 
-291
+292
 00:20:31,290 --> 00:20:32,130
 Sbrighiamoci!
 
-292
+293
 00:20:32,130 --> 00:20:32,790
 Sì!
 
-293
+294
 00:20:34,500 --> 00:20:35,920
 Ci dispiace...
 
-294
+295
 00:20:35,920 --> 00:20:38,720
 Se solo avessimo più forza...
 
-295
+296
 00:20:39,180 --> 00:20:42,140
 Contiamo su di voi per il nostro fratello!
 
-296
+297
 00:20:46,220 --> 00:20:50,100
 Roronoa Zoro, ti chiedo una cosa, 
 ti va bene, vero?
 
-297
+298
 00:20:50,100 --> 00:20:52,230
 Avevo sentito che usassi lo Stile a Tre Spade,
 
-298
+299
 00:20:52,230 --> 00:20:53,980
 perché ne hai una sola?
 
-299
+300
 00:20:53,980 --> 00:20:56,610
 Anche con una sola, 
 stai già perdendo abbastanza, no?!
 
-300
+301
 00:20:56,610 --> 00:20:59,200
 'S-Sta zitto! Non mi sto impegnando!
 
-301
+302
 00:20:59,200 --> 00:21:03,830
 In realtà, c'è un motivo per cui uno spadaccino
  umano non può assolutamente battermi.
 
-302
+303
 00:21:03,830 --> 00:21:05,910
 Vuoi saperlo? Vuoi saperlo, vero?
 
-303
+304
 00:21:05,910 --> 00:21:09,160
 Una volta che lo saprai, 
 sarai sorpreso, spaventato, sbalordito!
 
-304
+305
 00:21:09,920 --> 00:21:13,290
 Maledizione... 
 In un momento come questo, il dolore...
 
-305
+306
 00:21:21,340 --> 00:21:22,800
 Bastardo! Allora, la ferita che ti...
 
-306
+307
 00:21:24,930 --> 00:21:26,770
 ha inflitto Occhi di Falco in quel momento...!
 
-307
+308
 00:21:27,350 --> 00:21:28,480
 – Fratello!
 – Fratello!
 
-308
+309
 00:21:31,690 --> 00:21:34,310
 Guarda! Questa è la mia vera forma!
 
-309
+310
 00:21:34,310 --> 00:21:37,150
 Hachi dello Stile a Sei Spade entra in scena!
 
-310
+311
 00:21:37,150 --> 00:21:41,030
 Ehi! Non è il momento di crollare
  a terra, non prendermi in giro!
 
-311
+312
 00:21:43,820 --> 00:21:44,990
 Ah! Fratello!
 
-312
+313
 00:21:44,990 --> 00:21:47,240
 Quindi stava veramente resistendo!
 
-313
+314
 00:21:47,240 --> 00:21:48,410
 È ovvio!
 
-314
+315
 00:21:48,410 --> 00:21:52,920
 La ferita che ha subito avrebbe potuto ucciderlo
  o impedirgli di camminare per mezzo anno
 
-315
+316
 00:21:52,920 --> 00:21:53,710
 Cosa?!
 
-316
+317
 00:21:56,630 --> 00:21:58,590
 Mi sembrava strano!
 
-317
+318
 00:21:58,590 --> 00:22:02,260
 Dopo un combattimento come quello, 
 avere una faccia così tranquilla...
 
-318
+319
 00:22:02,260 --> 00:22:03,640
 Ma è scemo, quel bastardo?!
 
-319
+320
 00:22:11,270 --> 00:22:14,520
 Mi sembrava di averti avvertito 
 sul distogliere lo sguardo.
 
-320
+321
 00:22:14,520 --> 00:22:16,730
 Sono al quarantesimo grado 
 di Karate degli Uomini-Pesce.
 
-321
+322
 00:22:16,730 --> 00:22:19,230
 Co-Cosa...?!
 
-322
+323
 00:22:19,230 --> 00:22:20,690
 Una persona è volata via?!
 
-323
+324
 00:22:20,690 --> 00:22:22,400
 F-Fratello?!
 
-324
+325
 00:22:22,400 --> 00:22:23,820
 Fratello cuoco!
 
-325
+326
 00:22:26,490 --> 00:22:29,490
 Fratello cuoco!
 
-326
+327
 00:22:30,290 --> 00:22:32,750
 L'ho sistemato, capitano Arlong.
 
-327
+328
 00:22:32,750 --> 00:22:34,710
 Che ne facciamo di Roronoa Zoro?
 
-328
+329
 00:22:34,710 --> 00:22:39,750
 Gettateli pure in mare! 
 Erano proprio delle nullità, che noia.
 
-329
+330
 00:22:42,880 --> 00:22:43,720
 È finita?
 
-330
+331
 00:22:44,050 --> 00:22:47,550
 Però, beh... hanno distrutto molte cose.
 
-331
+332
 00:22:47,550 --> 00:22:49,260
 Non è niente di che.
 
-332
+333
 00:22:49,260 --> 00:22:52,480
 Per così poco, Arlong Park non ne risentirà.
 
-333
+334
 00:22:52,480 --> 00:22:53,690
 In effetti...
 
-334
+335
 00:22:55,310 --> 00:22:57,400
 Bastardo, Roronoa Zoro!
 
-335
+336
 00:22:57,400 --> 00:23:01,030
 Ancora prima di essere colpito da me, 
 il maestro spadaccino, sei morto dallo shock?!
 
-336
+337
 00:23:01,030 --> 00:23:04,610
 Se solo fossi morto per via dello Stile a
 Sei Spade, il tuo nome sarebbe stato ricordato!
 
-337
+338
 00:23:04,610 --> 00:23:08,240
 Beh, anche se il cielo e 
 la terra si capovolgessero,
 
-338
+339
 00:23:08,240 --> 00:23:14,290
 voi umani non riuscireste a farmi nemmeno
 un graffio quando ho le mie sei spade!
 
-339
+340
 00:23:22,710 --> 00:23:24,220
 Smettila, Hachi!
 
-340
+341
 00:23:24,220 --> 00:23:28,720
 Capisco come ti senti, 
 se vuoi scatenarti fai pure,
 
-341
+342
 00:23:28,720 --> 00:23:30,390
 ma vuoi distruggere Arlong Park?
 
-342
+343
 00:23:32,140 --> 00:23:34,140
 N-No, scusami.
 
-343
+344
 00:23:34,810 --> 00:23:37,730
 Mi sono fatto prendere la mano.
 
-344
+345
 00:23:37,730 --> 00:23:38,900
 Fai più attenzione.
 
-345
+346
 00:23:38,900 --> 00:23:40,900
 Hai ragione. Scusa, scusa.
 
-346
+347
 00:23:41,780 --> 00:23:44,610
 Stile a Sei Spade, eh? Che sciocchezza.
 
-347
+348
 00:23:50,830 --> 00:23:52,290
 Fratello?!
 
-348
+349
 00:23:54,540 --> 00:23:56,750
 Roronoa Zoro!
 
-349
+350
 00:23:56,750 --> 00:23:59,080
 Lascia che ti dica una cosa, polpo!
 
-350
+351
 00:23:59,670 --> 00:24:02,590
 C'è un uomo che devo incontrare.
 
-351
+352
 00:24:03,170 --> 00:24:05,670
 Finché non lo rivedrò...
 
-352
+353
 00:24:07,930 --> 00:24:11,720
 non lascerò la mia vita
 nemmeno al dio della morte!
 
-353
+354
 00:24:28,450 --> 00:24:30,240
 Quell'uomo... è vivo!
 
-354
+355
 00:24:30,240 --> 00:24:32,410
 Fratello! Fratello cuoco!
 
-355
+356
 00:24:33,490 --> 00:24:37,620
 Il pugno del pesce era di grado quaranta? Eeh...
 
-356
+357
 00:24:38,250 --> 00:24:43,340
 Allora, i calci che il vecchio di merda 
 mi dava sempre erano di grado cento.
 
-357
+358
 00:24:44,050 --> 00:24:46,510
 Che insistente!
-

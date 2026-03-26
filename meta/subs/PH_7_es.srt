@@ -1,249 +1,253 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:03:10,980 --> 00:03:15,130
 ¡El Maestro es un dios salvador con mucha compasión!
 
-2
+3
 00:05:01,600 --> 00:05:03,890
 LABORATORIO DE CAESAR
 
-3
+4
 00:06:25,370 --> 00:06:29,390
 MONTE DETRÁS DEL LABORATORIO
 
-4
+5
 00:07:14,090 --> 00:07:16,580
 ¡Sí que será extremadamente genial!
 
-5
+6
 00:07:21,520 --> 00:07:25,250
 ROCK
 
-6
+7
 00:07:26,170 --> 00:07:29,520
 SCOTCH
 
-7
+8
 00:07:29,900 --> 00:07:33,400
 LOS ASESINOS DE LOS MONTES NEVADOS
 
-8
+9
 00:07:29,900 --> 00:07:33,400
 LOS YETI COOL BROTHERS
 
-9
-00:09:45,820 --> 00:09:48,650
-Mola
-
 10
 00:09:45,820 --> 00:09:48,650
-Shi
+Mola
 
 11
 00:09:45,820 --> 00:09:48,650
-Chibukai
+Shi
 
 12
 00:09:45,820 --> 00:09:48,650
-Fansub!
+Chibukai
 
 13
 00:09:45,820 --> 00:09:48,650
-Fuego de agradecimiento.
+Fansub!
 
 14
-00:13:14,530 --> 00:13:18,340
-Mola
+00:09:45,820 --> 00:09:48,650
+Fuego de agradecimiento.
 
 15
 00:13:14,530 --> 00:13:18,340
-Shi
+Mola
 
 16
 00:13:14,530 --> 00:13:18,340
-Chibukai
+Shi
 
 17
 00:13:14,530 --> 00:13:18,340
-Fansub!
+Chibukai
 
 18
 00:13:14,530 --> 00:13:18,340
-Contrachoque eléctrico.
+Fansub!
 
 19
+00:13:14,530 --> 00:13:18,340
+Contrachoque eléctrico.
+
+20
 00:16:24,890 --> 00:16:29,430
 REFUGIO TEMPORAL DE LOS
  PIRATAS DEL SOMBRERO DE PAJA
 
-20
+21
 00:16:27,770 --> 00:16:29,430
 ¡¿Qué?!
 
-21
+22
 00:16:29,430 --> 00:16:34,290
 ¡¿Que vamos a aliarnos con los Piratas Heart?!
 
-22
+23
 00:17:57,900 --> 00:17:59,660
 ¡¿Qué?!
 
-23
+24
 00:19:06,480 --> 00:19:08,830
 Ah, disculpa.
 
-24
+25
 00:19:08,830 --> 00:19:10,760
 Fue su culpa.
 
-25
+26
 00:19:22,230 --> 00:19:24,330
 Ah, disculpa.
 
-26
+27
 00:25:58,080 --> 00:26:02,110
 ENTRADA PRINCIPAL DEL LABORATORIO DE CAESAR CLOWN
 
-27
+28
 00:00:00,280 --> 00:00:05,070
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-28
+29
 00:00:05,190 --> 00:00:08,750
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-29
+30
 00:00:08,890 --> 00:00:12,350
 ¡Ya hemos superado muchos obstáculos!
 
-30
+31
 00:00:12,400 --> 00:00:17,760
 ¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
 
-31
+32
 00:00:23,390 --> 00:00:30,710
 "Ya casi lo logro, un poco más y consigo la respuesta".
 
-32
+33
 00:00:30,760 --> 00:00:38,410
 Eso es lo que creemos al adentrarnos en este nuevo mundo.
 
-33
+34
 00:00:38,450 --> 00:00:45,920
 Resulta que los fragmentos de nuestros sueños se han fundido en uno.
 
-34
+35
 00:00:45,950 --> 00:00:53,980
 ¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
 
-35
+36
 00:00:54,080 --> 00:00:58,620
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-36
+37
 00:00:58,650 --> 00:01:02,470
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-37
+38
 00:01:02,500 --> 00:01:05,820
 ¡Ya hemos superado muchos obstáculos!
 
-38
+39
 00:01:05,910 --> 00:01:09,810
 ¡No nos detengamos, sigamos adelante!
 
-39
+40
 00:01:09,900 --> 00:01:11,370
 ¡Miren más arriba!
 
-40
+41
 00:01:11,370 --> 00:01:13,560
 ¡Con la cabeza bien en alto!
 
-41
+42
 00:01:13,610 --> 00:01:15,000
 ¡Siempre avanzando!
 
-42
+43
 00:01:15,000 --> 00:01:16,880
 ¡Volemos por encima de las olas!
 
-43
+44
 00:01:16,910 --> 00:01:20,480
 Unamos todos nuestros deseos en uno solo.
 
-44
+45
 00:01:20,480 --> 00:01:24,680
 ¡Dirijámonos al futuro!
 
-45
+46
 00:01:25,000 --> 00:01:31,120
 Avanzamos sin rumbo, surcando las olas.
 
-46
+47
 00:01:31,160 --> 00:01:35,300
 Encuentros, despedidas, una y otra vez.
 
-47
+48
 00:01:35,360 --> 00:01:39,560
 Siempre ante esta bandera...
 
-48
+49
 00:01:41,360 --> 00:01:44,710
 El dolor que no quiero olvidar lo guardo en mi corazón...
 
-49
+50
 00:01:44,790 --> 00:01:48,260
 ...desde aquel día en que lo grabé en mi interior.
 
-50
+51
 00:01:48,330 --> 00:01:51,880
 ¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
 
-51
+52
 00:01:51,900 --> 00:01:54,790
 ...y jamás se me escapará!
 
-52
+53
 00:01:54,830 --> 00:01:59,730
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-53
+54
 00:01:59,760 --> 00:02:03,410
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-54
+55
 00:02:03,460 --> 00:02:06,720
 ¡Ya hemos superado muchos obstáculos!
 
-55
+56
 00:02:06,730 --> 00:02:10,870
 ¡No nos detengamos, sigamos adelante!
 
-56
+57
 00:02:10,920 --> 00:02:12,260
 ¡Miren más arriba!
 
-57
+58
 00:02:12,320 --> 00:02:14,540
 ¡Con la cabeza bien en alto!
 
-58
+59
 00:02:14,560 --> 00:02:15,960
 ¡Siempre avanzando!
 
-59
+60
 00:02:15,990 --> 00:02:17,780
 ¡Volemos por encima de las olas!
 
-60
+61
 00:02:17,830 --> 00:02:21,480
 Unamos todos nuestros deseos en uno solo.
 
-61
+62
 00:02:21,560 --> 00:02:24,980
 ¡Dirijámonos al futuro!
 
-62
+63
 00:02:25,070 --> 00:02:29,940
 ¡Levanten las manos!
-

@@ -1,3541 +1,3545 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:52,990 --> 00:01:54,750
 Tu es un pirate ?
 
-2
+3
 00:01:54,980 --> 00:01:55,720
 Ouais.
 
-3
+4
 00:01:55,900 --> 00:01:59,880
 C'est pour ça que tu as tiré un boulet de canon sur le restaurant ?
 
-4
+5
 00:02:00,060 --> 00:02:03,600
 C'était un accident !
 On ne faisait que se défendre !
 
-5
+6
 00:02:03,770 --> 00:02:04,880
 Un accident ?
 
-6
+7
 00:02:05,980 --> 00:02:09,480
 En tout cas, évite de recommencer
 ce genre de gaffe.
 
-7
+8
 00:02:09,760 --> 00:02:13,780
 Autrefois, le patron était cuistot
 à bord d'un célèbre navire pirate.
 
-8
+9
 00:02:14,700 --> 00:02:16,780
 Ce papy était un pirate, alors ?
 
-9
+10
 00:02:17,400 --> 00:02:22,400
 Et ce vieux débris tient à ce restaurant
 comme à la prunelle de ses yeux.
 
-10
+11
 00:02:22,870 --> 00:02:26,570
 En plus, les cuistots qui bossent à bord
 le respectent beaucoup
 
-11
+12
 00:02:26,750 --> 00:02:29,960
 et ils ont tous le sang chaud.
 
-12
+13
 00:02:30,580 --> 00:02:35,450
 Tu me diras, avec tous les pirates
 qu'il y a dans le coin, ça vaut mieux.
 
-13
+14
 00:02:35,610 --> 00:02:39,010
 Décidément,
 il est pas banal, ce resto !
 
-14
+15
 00:02:39,260 --> 00:02:41,970
 Bah, c'est notre quotidien.
 
-15
+16
 00:02:42,260 --> 00:02:43,100
 Ces derniers temps,
 
-16
+17
 00:02:43,280 --> 00:02:46,810
 des clients viennent exprès pour voir
 cuistots et pirates se bagarrer.
 
-17
+18
 00:02:47,330 --> 00:02:49,760
 Résultat,
 les serveurs ont tous foutu le camp
 
-18
+19
 00:02:49,940 --> 00:02:52,430
 tellement ils avaient les chocottes.
 
-19
+20
 00:02:52,610 --> 00:02:54,570
 Ah, d'accord...
 
-20
+21
 00:02:54,750 --> 00:02:57,240
 Je vois pourquoi
 il voulait me faire bosser un an.
 
-21
+22
 00:02:57,990 --> 00:03:00,030
 Alors, tu rejoins mon équipage ?
 
-22
+23
 00:03:00,460 --> 00:03:01,860
 Je refuse.
 
-23
+24
 00:03:02,300 --> 00:03:05,950
 J'ai de bonnes raisons
 de rester dans ce restaurant.
 
-24
+25
 00:03:06,300 --> 00:03:07,830
 Pas question ! Je refuse !
 
-25
+26
 00:03:08,320 --> 00:03:09,410
 Tu refuses quoi ?
 
-26
+27
 00:03:09,800 --> 00:03:12,430
 Je refuse que tu refuses mon offre.
 
-27
+28
 00:03:12,820 --> 00:03:16,290
 Tu es un excellent cuistot !
 Tu vas rejoindre notre équipage !
 
-28
+29
 00:03:17,130 --> 00:03:19,370
 Dis donc,
 tu permets que je décide ?
 
-29
+30
 00:03:19,550 --> 00:03:20,800
 Pourquoi tu dois rester ?
 
-30
+31
 00:03:21,470 --> 00:03:22,720
 C'est pas tes oignons !
 
-31
+32
 00:03:22,990 --> 00:03:25,750
 Hein ? Mais tu voulais
 que j'écoute tes arguments !
 
-32
+33
 00:03:25,930 --> 00:03:29,930
 Non, je voulais que tu respectes
 ma décision de rester !
 
-33
+34
 00:03:30,100 --> 00:03:32,800
 Je vais t'étouffer
 avec ton chapeau à la noix !
 
-34
+35
 00:03:32,950 --> 00:03:37,360
 Quoi ? Ne dis plus jamais de mal
 de mon chapeau ou je t'éclate, enfoiré !
 
-35
+36
 00:03:38,110 --> 00:03:40,190
 Désolé de vous interrompre, mais...
 
-36
+37
 00:03:40,360 --> 00:03:41,070
 – Quoi ?
 – Quoi ?
 
-37
+38
 00:03:41,320 --> 00:03:44,980
 Je m'appelle Gin et je fais partie
 de l'équipage de Don Krieg.
 
-38
+39
 00:03:45,200 --> 00:03:49,030
 Tu es un pirate, toi aussi ?
 Quel est ton objectif ?
 
-39
+40
 00:03:49,250 --> 00:03:51,410
 Je suis à la recherche du One Piece.
 
-40
+41
 00:03:51,580 --> 00:03:53,500
 Je vais entrer sur Grand Line !
 
-41
+42
 00:03:57,350 --> 00:03:59,670
 Si tu cherches un cuistot,
 
-42
+43
 00:03:59,940 --> 00:04:02,840
 c'est que ton équipage
 n'est pas au complet.
 
-43
+44
 00:04:03,010 --> 00:04:04,800
 Ouais ! Avec lui, on est cinq !
 
-44
+45
 00:04:04,980 --> 00:04:06,850
 Pourquoi tu me comptes ?
 
-45
+46
 00:04:07,010 --> 00:04:10,810
 Tu m'as l'air d'un bon gars,
 alors laisse-moi te donner un conseil :
 
-46
+47
 00:04:11,020 --> 00:04:13,390
 Ne cherche plus à t'aventurer sur Grand Line.
 
-47
+48
 00:04:13,560 --> 00:04:16,900
 Tu es encore jeune.
 Ce serait dommage de mourir si tôt.
 
-48
+49
 00:04:17,120 --> 00:04:20,570
 Grand Line n'est qu'une infime partie
 des océans du monde.
 
-49
+50
 00:04:20,780 --> 00:04:24,660
 Tu peux naviguer toute une vie
 sans jamais mettre les pieds là-bas.
 
-50
+51
 00:04:25,160 --> 00:04:26,950
 Ah bon ?
 
-51
+52
 00:04:27,330 --> 00:04:29,950
 T'as l'air d'en connaître un rayon
 sur Grand Line.
 
-52
+53
 00:04:30,240 --> 00:04:32,660
 Au contraire, je ne sais rien du tout.
 
-53
+54
 00:04:32,890 --> 00:04:34,500
 C'est l'inconnu total.
 
-54
+55
 00:04:34,870 --> 00:04:36,960
 C'est pour ça que j'en ai si peur.
 
-55
+56
 00:04:38,000 --> 00:04:41,870
 Les hommes de Don Krieg
 sont de sacrés trouillards, on dirait.
 
-56
+57
 00:04:42,050 --> 00:04:43,930
 Hein ? Mais qui c'est, ce Krieg ?
 
-57
+58
 00:04:52,620 --> 00:04:54,170
 Les hors-d'œuvre pour la trois !
 
-58
+59
 00:04:54,350 --> 00:04:57,270
 Apporte-les toi-même !
 On n'a plus de serveurs !
 
-59
+60
 00:04:59,620 --> 00:05:01,220
 Je suis un peu inquiet, Patty.
 
-60
+61
 00:05:01,400 --> 00:05:02,320
 De quoi tu parles ?
 
-61
+62
 00:05:03,690 --> 00:05:06,700
 Le type que tu as tabassé
 tout à l'heure,
 
-62
+63
 00:05:06,900 --> 00:05:09,800
 il faisait partie
 de l'équipage de Krieg, non ?
 
-63
+64
 00:05:09,990 --> 00:05:12,290
 Ouais, un truc dans le genre.
 
-64
+65
 00:05:12,580 --> 00:05:15,420
 Ce Don Krieg
 est le pirate le plus puissant
 
-65
+66
 00:05:15,610 --> 00:05:18,210
 et le plus redouté de ces mers.
 
-66
+67
 00:05:18,420 --> 00:05:19,540
 Oui, c'est vrai.
 
-67
+68
 00:05:23,150 --> 00:05:28,180
 Il est à la tête d'une armada
 de plus de cinquante vaisseaux
 
-68
+69
 00:05:28,390 --> 00:05:31,430
 qui sillonnent toutes les mers.
 
-69
+70
 00:05:34,310 --> 00:05:36,940
 C'est un véritable monstre.
 
-70
+71
 00:05:37,100 --> 00:05:38,970
 Et alors, où est le problème ?
 
-71
+72
 00:05:40,120 --> 00:05:44,650
 On raconte que ses troupes
 comptent plus de 5 000 hommes.
 
-72
+73
 00:05:46,450 --> 00:05:48,600
 Si le type à qui tu as mis une raclée
 
-73
+74
 00:05:48,780 --> 00:05:53,700
 allait raconter à Don Krieg
 ce qui est arrivé dans notre restaurant,
 
-74
+75
 00:05:54,250 --> 00:05:57,370
 ce sera pire qu'une horde d'éléphants.
 
-75
+76
 00:05:57,600 --> 00:06:00,740
 Ils réduiront ce restaurant
 en allumettes !
 
-76
+77
 00:06:00,920 --> 00:06:02,500
 Ah oui ?
 
-77
+78
 00:06:03,130 --> 00:06:08,380
 Tu aurais peut-être préféré que je serve
 bien gentiment à manger à ce brigand ?
 
-78
+79
 00:06:08,560 --> 00:06:12,140
 Ça aurait été un manque de respect
 pour nos autres clients !
 
-79
+80
 00:06:14,750 --> 00:06:17,850
 La vedette du navire-restaurant Baratie,
 c'est moi !
 
-80
+81
 00:06:18,020 --> 00:06:20,940
 Ce serait indigne de ma réputation
 de cuistot bagarreur !
 
-81
+82
 00:06:21,520 --> 00:06:26,850
 Et puis, on a déjà flanqué leur raclée
 à des tas d'équipages pirates, non ?
 
-82
+83
 00:06:27,030 --> 00:06:29,440
 Si t'as les chocottes,
 rends donc ton tablier !
 
-83
+84
 00:06:29,620 --> 00:06:30,520
 De quoi ?
 
-84
+85
 00:06:30,680 --> 00:06:34,830
 C'est à cause de ce genre d'attitude
 qu'on a perdu tous nos serveurs !
 
-85
+86
 00:06:35,050 --> 00:06:38,370
 Patty, c'est ta faute
 si on manque de personnel !
 
-86
+87
 00:06:38,820 --> 00:06:43,710
 Tant mieux s'ils ont foutu le camp !
 
-87
+88
 00:06:44,170 --> 00:06:45,280
 Vas-y !
 
-88
+89
 00:06:45,400 --> 00:06:46,520
 Te laisse pas faire !
 
-89
+90
 00:06:46,700 --> 00:06:48,510
 Tords-lui le cou, Patty !
 
-90
+91
 00:06:49,470 --> 00:06:52,930
 Bande de crétins !
 Remettez-vous au travail !
 
-91
+92
 00:06:53,140 --> 00:06:54,760
 Oui, patron !
 
-92
+93
 00:06:56,600 --> 00:06:57,850
 Allez, ciao !
 
-93
+94
 00:06:58,160 --> 00:07:00,590
 J'irai quand même sur Grand Line.
 
-94
+95
 00:07:00,770 --> 00:07:03,520
 Très bien.
 Fais comme tu veux.
 
-95
+96
 00:07:03,900 --> 00:07:07,110
 On se connaît pas,
 alors c'est pas moi qui t'en empêcherai.
 
-96
+97
 00:07:07,400 --> 00:07:10,320
 Je voulais seulement
  te mettre en garde.
 
-97
+98
 00:07:10,660 --> 00:07:14,200
 Quant à toi, Sanji,
 je tiens vraiment à te remercier.
 
-98
+99
 00:07:14,700 --> 00:07:19,290
 Tu m'as sauvé la vie
 et je n'ai jamais aussi bien mangé.
 
-99
+100
 00:07:19,500 --> 00:07:21,500
 Je peux revenir déjeuner ici ?
 
-100
+101
 00:07:21,900 --> 00:07:23,420
 Quand tu veux !
 
-101
+102
 00:07:23,600 --> 00:07:25,750
 Te voilà, marmiton !
 
-102
+103
 00:07:26,590 --> 00:07:27,420
 Le papy !
 
-103
+104
 00:07:27,600 --> 00:07:29,520
 C'est donc là que tu te cachais !
 
-104
+105
 00:07:33,430 --> 00:07:35,010
 Va-t'en, Gin.
 
-105
+106
 00:07:36,140 --> 00:07:37,520
 Désolé.
 
-106
+107
 00:07:37,720 --> 00:07:41,390
 Tu vas te faire passer un savon
 pour m'avoir fait à manger gratis.
 
-107
+108
 00:07:41,940 --> 00:07:43,350
 Mais non...
 
-108
+109
 00:07:53,530 --> 00:07:56,200
 Pas de preuves, pas de blâme !
 
-109
+110
 00:08:02,500 --> 00:08:04,630
 Tâche de ne plus te faire attraper,
 Gin !
 
-110
+111
 00:08:04,810 --> 00:08:06,450
 Merci, Sanji !
 
-111
+112
 00:08:06,630 --> 00:08:09,150
 Jamais je n'oublierai
 ce que tu as fait pour moi !
 
-112
+113
 00:08:09,380 --> 00:08:13,380
 Sanji ! Marmiton !
 Remettez-vous au travail illico !
 
-113
+114
 00:08:14,220 --> 00:08:16,640
 La commande de la trois est prête !
 
-114
+115
 00:08:20,220 --> 00:08:21,340
 Moi, c'est Luffy !
 
-115
+116
 00:08:21,520 --> 00:08:24,940
 Je suis là pour faire les corvées !
 Enchanté !
 
-116
+117
 00:08:39,490 --> 00:08:41,650
 Le dessert pour la six, ça vient ?
 
-117
+118
 00:08:43,080 --> 00:08:45,240
 Qui a pris cette commande ?
 
-118
+119
 00:08:45,420 --> 00:08:46,740
 C'est toi, non ?
 
-119
+120
 00:08:46,920 --> 00:08:49,070
 J'ai pas trois bras, moi !
 
-120
+121
 00:08:49,250 --> 00:08:50,670
 Tu traînes, c'est tout !
 
-121
+122
 00:08:50,850 --> 00:08:52,970
 Quoi ? Tu me cherches ?
 
-122
+123
 00:08:55,220 --> 00:08:59,640
 Si t'as rien de mieux à faire,
 va donc laver la vaisselle, marmiton !
 
-123
+124
 00:09:00,030 --> 00:09:01,680
 Où est passé Sanji ?
 
-124
+125
 00:09:01,990 --> 00:09:03,890
 En salle. Il drague une cliente.
 
-125
+126
 00:09:04,040 --> 00:09:05,140
 Encore ?
 
-126
+127
 00:09:05,310 --> 00:09:10,360
 Franchement, ça me dépasse que
  ce bon à rien ait été nommé sous-chef !
 
-127
+128
 00:09:10,700 --> 00:09:14,820
 Qu'est-ce qu'on peut y faire ?
 C'est le plus ancien employé du resto.
 
-128
+129
 00:09:15,530 --> 00:09:17,350
 Comment ça se fait qu'il reste ici
 
-129
+130
 00:09:17,530 --> 00:09:20,660
 alors qu'il peut pas
 encadrer le patron ?
 
-130
+131
 00:09:20,950 --> 00:09:23,270
 C'est parce qu'il convoite sa place !
 
-131
+132
 00:09:23,450 --> 00:09:25,410
 Oui, ça crève les yeux !
 
-132
+133
 00:09:30,460 --> 00:09:31,950
 Hé, marmiton !
 
-133
+134
 00:09:32,130 --> 00:09:35,370
 T'as cassé combien d'assiettes
 depuis tout à l'heure ?
 
-134
+135
 00:09:35,550 --> 00:09:38,140
 Désolé, j'ai pas pensé à compter.
 
-135
+136
 00:09:38,420 --> 00:09:41,970
 Mais c'est à croire
 que tu le fais exprès !
 
-136
+137
 00:09:42,390 --> 00:09:44,960
 Laisse tomber la vaisselle,
 va faire le ménage !
 
-137
+138
 00:09:45,140 --> 00:09:46,300
 Comptez sur moi !
 
-138
+139
 00:09:48,480 --> 00:09:50,440
 Pas touche à la bouffe !
 
-139
+140
 00:09:50,770 --> 00:09:53,070
 C'est notre spécialité, en plus !
 
-140
+141
 00:09:54,070 --> 00:09:55,490
 D'accord, j'ai compris.
 
-141
+142
 00:10:00,530 --> 00:10:02,990
 Sors de cette cuisine !
 
-142
+143
 00:10:03,550 --> 00:10:06,460
 Bon, tu vas aller prendre
  les commandes.
 
-143
+144
 00:10:06,620 --> 00:10:09,110
 Tu demandes aux clients
 ce qu'ils veulent manger !
 
-144
+145
 00:10:09,290 --> 00:10:10,290
 Tu peux faire ça ?
 
-145
+146
 00:10:10,470 --> 00:10:11,170
 Oui...
 
-146
+147
 00:10:11,590 --> 00:10:15,450
 C'est crevant, les corvées !
 Le pauvre Kobby a dû en baver...
 
-147
+148
 00:10:15,620 --> 00:10:17,090
 Salut, l'homme à tout faire !
 
-148
+149
 00:10:17,650 --> 00:10:19,220
 Quoi ? C'est vous ?
 
-149
+150
 00:10:19,390 --> 00:10:21,720
 Il paraît que tu vas bosser ici
 pendant un an !
 
-150
+151
 00:10:21,890 --> 00:10:23,880
 On peut changer notre drapeau ?
 
-151
+152
 00:10:24,040 --> 00:10:25,930
 Mais... mais je rêve ?
 
-152
+153
 00:10:26,140 --> 00:10:28,640
 Vous allez déguster
 ces bons plats sans moi ?
 
-153
+154
 00:10:28,830 --> 00:10:30,120
 Vous devriez avoir honte !
 
-154
+155
 00:10:30,270 --> 00:10:32,820
 Et alors ?
  On fait ce qu'on veut !
 
-155
+156
 00:10:34,190 --> 00:10:34,780
 Bouffe ça !
 
-156
+157
 00:10:36,300 --> 00:10:37,240
 Ouais, t'as raison !
 
-157
+158
 00:10:38,610 --> 00:10:41,780
 En tout cas,
 je dois dire que c'est délicieux.
 
-158
+159
 00:10:43,830 --> 00:10:47,660
 Dommage
  que tu ne puisses pas y goûter.
 
-159
+160
 00:10:48,370 --> 00:10:50,830
 Avale toujours ça !
 
-160
+161
 00:10:52,790 --> 00:10:57,630
 – Pourquoi t'as fait ça ?
 – Et toi, pourquoi t'as fait ça ?
 
-161
+162
 00:10:58,650 --> 00:11:00,010
 J'ai mal au ventre !
 
-162
+163
 00:11:07,270 --> 00:11:12,400
 Quel boucan ! Une minute...
 Est-ce que c'est son équipage ?
 
-163
+164
 00:11:16,940 --> 00:11:18,400
 Servez-vous tout seul.
 
-164
+165
 00:11:19,200 --> 00:11:20,700
 Ô océan !
 
-165
+166
 00:11:20,900 --> 00:11:23,240
 Sois béni pour cette rencontre !
 
-166
+167
 00:11:24,070 --> 00:11:29,960
 Ô Cupidon ! C'est par ta faute
 que mon cœur souffre aujourd'hui !
 
-167
+168
 00:11:30,460 --> 00:11:36,710
 Pour toi, je suis résolu
 à me faire pirate ou même démon !
 
-168
+169
 00:11:38,740 --> 00:11:44,260
 Hélas, ô tristesse !
 Un boulet me retient prisonnier ici !
 
-169
+170
 00:11:44,700 --> 00:11:48,920
 Dis donc, c'est moi
 que tu traites de boulet, Sanji ?
 
-170
+171
 00:11:49,140 --> 00:11:50,390
 Le vieux croûton !
 
-171
+172
 00:11:50,600 --> 00:11:55,440
 Voilà une occasion inespérée.
 Va donc jouer aux pirates avec eux.
 
-172
+173
 00:11:55,650 --> 00:11:58,730
 On n'a plus besoin de tes services ici !
 
-173
+174
 00:12:14,250 --> 00:12:15,670
 Je vois...
 
-174
+175
 00:12:16,170 --> 00:12:19,420
 Ce cuistot t'a sauvé la vie, 
 et c'est grâce à lui
 
-175
+176
 00:12:19,590 --> 00:12:21,550
 que tu as pu revenir jusqu'ici...
 
-176
+177
 00:12:22,290 --> 00:12:25,220
 C'est bien ce qui s'est passé, Gin ?
 
-177
+178
 00:12:25,510 --> 00:12:28,970
 Oui... Seulement...
 
-178
+179
 00:12:29,310 --> 00:12:33,060
 j'étais loin de me douter
 que notre navire était dans un tel état.
 
-179
+180
 00:12:33,270 --> 00:12:34,650
 Don Krieg !
 
-180
+181
 00:12:34,850 --> 00:12:36,020
 Qu'y a-t-il ?
 
-181
+182
 00:12:38,670 --> 00:12:42,540
 Je vais vous conduire
 au navire-restaurant Baratie...
 
-182
+183
 00:12:47,240 --> 00:12:51,100
 Dis donc, le vieux !
 Je suis quand même le sous-chef, ici !
 
-183
+184
 00:12:51,370 --> 00:12:53,580
 Pourquoi tu veux me virer ?
 
-184
+185
 00:12:53,750 --> 00:12:55,900
 Tu as le don d'agacer les clients
 
-185
+186
 00:12:56,080 --> 00:12:59,120
 et dès que tu vois une femme,
 tu fais le joli cœur.
 
-186
+187
 00:12:59,300 --> 00:13:01,220
 Ta cuisine n'a rien d'extraordinaire.
 
-187
+188
 00:13:01,410 --> 00:13:04,150
 Tu es une charge inutile
 pour ce restaurant.
 
-188
+189
 00:13:04,320 --> 00:13:05,560
 Voilà pourquoi.
 
-189
+190
 00:13:05,740 --> 00:13:07,490
 Pa... Pardon ?
 
-190
+191
 00:13:10,560 --> 00:13:13,800
 Tu n'es même pas fichu
 de t'entendre avec les autres cuistots.
 
-191
+192
 00:13:13,990 --> 00:13:16,270
 Fais-toi pirate, ou autre chose !
 
-192
+193
 00:13:16,480 --> 00:13:19,690
 Mais débarrasse-moi le plancher !
 
-193
+194
 00:13:20,970 --> 00:13:22,530
 Répète ça...
 
-194
+195
 00:13:23,750 --> 00:13:27,870
 Ça y est, t'as déballé
 ce que t'avais sur le cœur, le vioc ?
 
-195
+196
 00:13:28,820 --> 00:13:30,770
 Je veux bien passer sur le reste,
 
-196
+197
 00:13:30,950 --> 00:13:33,660
 mais je ne te permets pas
 d'insulter ma cuisine !
 
-197
+198
 00:13:34,000 --> 00:13:37,830
 Tu peux dire ce que tu veux,
 je continuerai à travailler ici.
 
-198
+199
 00:13:38,070 --> 00:13:39,630
 Un point c'est tout !
 
-199
+200
 00:13:39,790 --> 00:13:43,260
 Comment oses-tu lever la main
 sur ton patron,
 
-200
+201
 00:13:43,480 --> 00:13:45,510
 misérable courge !
 
-201
+202
 00:13:47,550 --> 00:13:50,050
 Bon sang...
 
-202
+203
 00:13:52,350 --> 00:13:54,680
 Tu peux toujours essayer 
 de me virer...
 
-203
+204
 00:13:54,920 --> 00:13:58,050
 Je compte bien
 continuer à travailler ici
 
-204
+205
 00:13:58,650 --> 00:14:00,360
 jusqu'à ce que tu casses ta pipe !
 
-205
+206
 00:14:00,520 --> 00:14:04,100
 J'ai aucune intention de mourir !
 Pas avant 100 ans, au moins !
 
-206
+207
 00:14:04,280 --> 00:14:06,400
 Faut toujours qu'il ait le dernier mot.
 
-207
+208
 00:14:06,600 --> 00:14:09,310
 Super, il t'a donné sa bénédiction !
 Tu peux venir avec nous...
 
-208
+209
 00:14:09,450 --> 00:14:10,410
 C'est mort !
 
-209
+210
 00:14:11,120 --> 00:14:14,190
 Bon...
 Désolé pour le dérangement.
 
-210
+211
 00:14:14,370 --> 00:14:17,350
 Pour me faire pardonner,
 je vous offre cette salade de fruits.
 
-211
+212
 00:14:17,500 --> 00:14:20,800
 Super ! Merci beaucoup !
 C'est trop gentil !
 
-212
+213
 00:14:21,000 --> 00:14:23,590
 – Mais non...
 – Et nous, on n'a pas droit aux excuses ?
 
-213
+214
 00:14:23,800 --> 00:14:26,200
 Je me plaindrai, joli cœur à la noix !
 
-214
+215
 00:14:26,380 --> 00:14:29,010
 Je vous ai servi du thé gratos, non ?
 
-215
+216
 00:14:29,180 --> 00:14:30,660
 Tu pourrais me remercier, gros pif !
 
-216
+217
 00:14:30,840 --> 00:14:34,060
 Quoi ? Tu veux te battre ?
 On te fera pas de cadeau !
 
-217
+218
 00:14:34,260 --> 00:14:35,500
 Fais-lui sa fête, Zoro !
 
-218
+219
 00:14:35,680 --> 00:14:37,090
 Débrouille-toi tout seul.
 
-219
+220
 00:14:37,270 --> 00:14:39,600
 Arrêtez !
 Ne vous battez pas pour moi !
 
-220
+221
 00:14:39,750 --> 00:14:42,770
 – Comme vous voudrez !
 – C'est pas pour toi qu'on se bat !
 
-221
+222
 00:14:42,950 --> 00:14:44,810
 – Au fait...
 – Oui ?
 
-222
+223
 00:14:44,990 --> 00:14:47,030
 Le repas était délicieux,
 
-223
+224
 00:14:47,220 --> 00:14:49,500
 mais la note est un peu salée...
 
-224
+225
 00:14:49,640 --> 00:14:51,000
 Pour vous, c'est cadeau !
 
-225
+226
 00:14:51,180 --> 00:14:52,490
 Merci !
 
-226
+227
 00:14:53,600 --> 00:14:55,150
 Pour les autres, c'est payant.
 
-227
+228
 00:14:55,620 --> 00:14:57,830
 Ça, je l'avais vu venir.
 
-228
+229
 00:14:59,870 --> 00:15:02,290
 C'est pas le moment de glandouiller !
 
-229
+230
 00:15:02,600 --> 00:15:04,450
 Va t'occuper des serviettes !
 
-230
+231
 00:15:04,630 --> 00:15:05,710
 Bien...
 
-231
+232
 00:15:37,760 --> 00:15:42,170
 Une tête de mort encadrée de deux sabliers pour intimider l'ennemi !
 
-232
+233
 00:15:42,520 --> 00:15:45,960
 Ce pavillon... Ce pavillon...
 
-233
+234
 00:15:46,170 --> 00:15:49,670
 Aucun doute...
 C'est le seigneur d'East Blue...
 
-234
+235
 00:15:50,220 --> 00:15:52,630
 Don Krieg !
 
-235
+236
 00:16:06,870 --> 00:16:10,360
 Bon sang, qu'est-ce que Don Krieg
  vient faire ici ?
 
-236
+237
 00:16:10,650 --> 00:16:13,140
 Regarde, Patty !
 Ils sont là pour de vrai !
 
-237
+238
 00:16:13,320 --> 00:16:15,270
 Tu vas le faire déguerpir, hein ?
 
-238
+239
 00:16:15,450 --> 00:16:17,230
 Vous êtes sûrs que c'est lui ?
 
-239
+240
 00:16:17,410 --> 00:16:19,990
 Il commande une flotte de 5 000 hommes !
 
-240
+241
 00:16:20,170 --> 00:16:23,240
 Il s'est quand même pas déplacé
 pour venger un seul de ses hommes !
 
-241
+242
 00:16:23,420 --> 00:16:26,670
 Oui, c'est bien lui !
 Il est vraiment là !
 
-242
+243
 00:16:26,810 --> 00:16:30,120
 Hé, ça sent le roussi !
 On ferait mieux de déguerpir !
 
-243
+244
 00:16:30,300 --> 00:16:32,630
 Quel navire gigantesque !
 
-244
+245
 00:16:39,970 --> 00:16:41,760
 Balèze, ce bateau !
 
-245
+246
 00:16:41,940 --> 00:16:44,630
 Tu crois que Gin est venu te remercier
 pour l'autre jour ?
 
-246
+247
 00:16:44,810 --> 00:16:46,840
 Non, je ne crois pas.
 
-247
+248
 00:16:47,330 --> 00:16:49,110
 Mais il y a un truc bizarre...
 
-248
+249
 00:16:58,550 --> 00:17:00,950
 – Regardez !
 – Ça alors !
 
-249
+250
 00:17:08,480 --> 00:17:11,300
 Ce bateau est dans un piteux état !
 
-250
+251
 00:17:11,460 --> 00:17:14,340
 Je doute que des boulets
 aient pu faire ça.
 
-251
+252
 00:17:15,110 --> 00:17:17,920
 Ni même d'ailleurs
 une quelconque attaque humaine.
 
-252
+253
 00:17:18,100 --> 00:17:20,010
 Un ouragan, peut-être ?
 
-253
+254
 00:17:22,350 --> 00:17:24,000
 Le voilà qui se montre...
 
-254
+255
 00:17:46,500 --> 00:17:48,420
 S'il... S'il vous plaît...
 
-255
+256
 00:17:49,190 --> 00:17:52,650
 Je suis venu vous demander
 à manger et à boire.
 
-256
+257
 00:17:53,550 --> 00:17:57,540
 J'ai de l'argent,
 je vous donnerai ce que vous voudrez...
 
-257
+258
 00:17:59,530 --> 00:18:01,170
 Qu'est-ce que ça veut dire ?
 
-258
+259
 00:18:01,350 --> 00:18:03,350
 Il n'a pas l'air si terrible.
 
-259
+260
 00:18:03,520 --> 00:18:08,080
 Cette lavette,
 c'est le grand capitaine Don Krieg ?
 
-260
+261
 00:18:08,560 --> 00:18:10,440
 On dirait qu'il a les crocs.
 
-261
+262
 00:18:15,740 --> 00:18:17,200
 Ca... Capitaine !
 
-262
+263
 00:18:18,910 --> 00:18:20,440
 Don Krieg !
 
-263
+264
 00:18:22,160 --> 00:18:25,200
 Je vous en prie !
 Aidez mon capitaine !
 
-264
+265
 00:18:25,800 --> 00:18:27,900
 Il est en train de mourir de faim !
 
-265
+266
 00:18:28,250 --> 00:18:32,170
 Il n'a rien avalé depuis des jours.
 Il va finir par rendre l'âme !
 
-266
+267
 00:18:40,390 --> 00:18:42,420
 Alors ça, c'est la meilleure !
 
-267
+268
 00:18:42,600 --> 00:18:46,600
 C'est lui, le grand Don Krieg
 que tout le monde craint ?
 
-268
+269
 00:18:46,890 --> 00:18:49,850
 On a de quoi payer !
 On est des clients comme les autres !
 
-269
+270
 00:18:49,980 --> 00:18:51,930
 Ça suffit, vos niaiseries !
 
-270
+271
 00:18:52,110 --> 00:18:54,270
 Alertez immédiatement la Marine !
 
-271
+272
 00:18:54,450 --> 00:18:55,110
 Quoi ?
 
-272
+273
 00:18:55,280 --> 00:18:58,780
 Vu dans l'état où il est,
 c'est une occasion à ne pas rater.
 
-273
+274
 00:18:58,950 --> 00:19:02,320
 Pas question de lui donner à manger !
 Ficelons-le !
 
-274
+275
 00:19:02,670 --> 00:19:05,950
 Oui ! S'il retrouve ses forces,
 Dieu sait ce qu'il fera !
 
-275
+276
 00:19:06,130 --> 00:19:07,520
 Il doit payer pour ses crimes !
 
-276
+277
 00:19:07,700 --> 00:19:12,330
 Vu son triste palmarès, il ne l'aura pas
  volé ! Qu'il crève de faim !
 
-277
+278
 00:19:12,630 --> 00:19:16,300
 S'il retrouve ses forces,
 il mettra à sac notre restaurant !
 
-278
+279
 00:19:16,550 --> 00:19:18,970
 Lui donner un verre d'eau,
 ce serait déjà trop !
 
-279
+280
 00:19:20,720 --> 00:19:23,140
 Je ne ferai rien contre vous...
 
-280
+281
 00:19:25,310 --> 00:19:26,930
 Je ne ferai rien...
 
-281
+282
 00:19:27,100 --> 00:19:29,020
 Quand j'aurai fini mon repas,
 
-282
+283
 00:19:29,270 --> 00:19:31,520
 je partirai bien gentiment,
 c'est promis.
 
-283
+284
 00:19:31,700 --> 00:19:35,110
 Alors, je vous en prie... aidez-moi !
 
-284
+285
 00:19:35,900 --> 00:19:38,150
 Arrêtez, Don Krieg !
 
-285
+286
 00:19:38,330 --> 00:19:40,450
 Ne vous abaissez pas
 à supplier ces gens !
 
-286
+287
 00:19:40,610 --> 00:19:42,200
 Vous valez mieux que ça !
 
-287
+288
 00:19:42,410 --> 00:19:44,940
 C'est indigne de vous !
 
-288
+289
 00:19:45,120 --> 00:19:46,950
 Je jure de tenir ma promesse.
 
-289
+290
 00:19:47,400 --> 00:19:52,080
 Donnez-moi des vieux restes
 ou n'importe quoi...
 
-290
+291
 00:19:53,080 --> 00:19:55,090
 N'importe quoi...
 
-291
+292
 00:19:57,850 --> 00:19:58,670
 Don...
 
-292
+293
 00:20:02,650 --> 00:20:05,040
 Peuh ! Si tu crois
 qu'on va se laisser attendrir...
 
-293
+294
 00:20:05,220 --> 00:20:07,260
 Dégage du chemin, Patty.
 
-294
+295
 00:20:13,150 --> 00:20:14,440
 Ah, là là !
 
-295
+296
 00:20:15,400 --> 00:20:18,110
 S... Sanji !
 
-296
+297
 00:20:21,150 --> 00:20:24,660
 Tiens, Gin.
 Donne-lui ça à manger.
 
-297
+298
 00:20:27,150 --> 00:20:28,370
 Sanji...
 
-298
+299
 00:20:34,460 --> 00:20:35,750
 Merci !
 
-299
+300
 00:20:46,600 --> 00:20:49,350
 Sanji, reprends-lui
 immédiatement ce plat !
 
-300
+301
 00:20:49,680 --> 00:20:52,310
 Tu ne sais donc pas
 quel genre de type c'est ?
 
-301
+302
 00:20:52,770 --> 00:20:57,400
 Il règne sur tout East Blue !
 On l'appelle "Krieg le Perfide" !
 
-302
+303
 00:20:59,200 --> 00:21:03,270
 Autrefois, il s'est évadé de prison
 en se faisant passer pour un marin.
 
-303
+304
 00:21:03,450 --> 00:21:07,480
 Il a ensuite détourné un navire
 après avoir assassiné son commandant,
 
-304
+305
 00:21:07,660 --> 00:21:10,160
 débutant sa carrière de pirate !
 
-305
+306
 00:21:11,580 --> 00:21:14,480
 Il entre dans les ports
 en hissant le pavillon de la Marine.
 
-306
+307
 00:21:14,660 --> 00:21:16,670
 Il attaque les villes et les bateaux.
 
-307
+308
 00:21:16,820 --> 00:21:19,670
 Il hisse le drapeau blanc
 pour mieux tromper ses proies !
 
-308
+309
 00:21:19,880 --> 00:21:21,990
 Il ne recule devant rien
 pour arriver à ses fins !
 
-309
+310
 00:21:22,170 --> 00:21:24,470
 Voilà comment il a gagné sa réputation !
 
-310
+311
 00:21:25,880 --> 00:21:27,970
 Alors, ce serait un lâche ?
 
-311
+312
 00:21:28,180 --> 00:21:30,920
 En temps normal,
 ce type est une force de la nature !
 
-312
+313
 00:21:31,100 --> 00:21:35,390
 Il a dit partir aussitôt rassasié,
 mais c'est du flan !
 
-313
+314
 00:21:35,600 --> 00:21:40,230
 Fallait le laisser crever, ce salopard !
 C'aurait mieux valu pour tout le monde !
 
-314
+315
 00:21:57,750 --> 00:21:59,530
 Sanji !
 
-315
+316
 00:22:08,350 --> 00:22:10,430
 Don Krieg, vous m'aviez promis !
 
-316
+317
 00:22:10,760 --> 00:22:14,520
 Je vous ai conduit ici à condition
 que vous ne fassiez pas de grabuge !
 
-317
+318
 00:22:14,720 --> 00:22:18,270
 Sans compter que cet homme
 nous a sauvé la vie !
 
-318
+319
 00:22:22,780 --> 00:22:25,030
 Eh ben, c'était drôlement bon.
 
-319
+320
 00:22:26,780 --> 00:22:28,930
 Je me sens revivre.
 
-320
+321
 00:22:43,800 --> 00:22:49,290
 Bah... Qu'est-ce qui peut bien se passer
 dans ce restaurant ?
 
-321
+322
 00:22:49,470 --> 00:22:50,580
 Va donc voir.
 
-322
+323
 00:22:50,760 --> 00:22:52,760
 Quoi ? T'es malade !
 
-323
+324
 00:22:54,650 --> 00:22:59,690
 Il me plaît bien, ce restaurant.
 Maintenant, il est à moi !
 
-324
+325
 00:23:03,000 --> 00:23:05,570
 Nous y voilà...
 
-325
+326
 00:23:14,670 --> 00:23:20,370
 Mon navire est dans un sale état.
 Il m'en fallait justement un nouveau.
 
-326
+327
 00:23:20,850 --> 00:23:24,790
 Pour l'instant, j'ai besoin de vous,
 mais après, vous devrez débarquer.
 
-327
+328
 00:23:24,960 --> 00:23:26,210
 Quoi ?
 
-328
+329
 00:23:26,380 --> 00:23:30,090
 Don Krieg... Vous m'aviez promis...
 
-329
+330
 00:23:32,800 --> 00:23:36,960
 Il y a, à bord de mon navire,
 une centaine d'hommes en piteux état.
 
-330
+331
 00:23:37,140 --> 00:23:39,810
 Ils sont blessés
 et à moitié morts de faim.
 
-331
+332
 00:23:40,820 --> 00:23:43,860
 Commencez par préparer de l'eau
 et une centaine de rations.
 
-332
+333
 00:23:44,020 --> 00:23:46,020
 Ensuite, allez leur porter.
 
-333
+334
 00:23:46,620 --> 00:23:48,990
 Certains ont déjà rendu l'âme...
 
-334
+335
 00:23:51,070 --> 00:23:52,450
 De l'eau...
 
-335
+336
 00:23:56,240 --> 00:23:58,120
 Alors au travail, et vite !
 
-336
+337
 00:23:58,800 --> 00:24:01,460
 Leur faire à manger
 pour qu'une fois sur pied,
 
-337
+338
 00:24:01,750 --> 00:24:04,000
 ils prennent d'assaut notre restaurant ?
 
-338
+339
 00:24:04,170 --> 00:24:05,210
 Je refuse !
 
-339
+340
 00:24:06,040 --> 00:24:09,460
 Tu refuses ?
 T'as pas bien compris.
 
-340
+341
 00:24:09,750 --> 00:24:13,970
 Je suis pas en train de passer commande.
 C'est un ordre !
 
-341
+342
 00:24:14,420 --> 00:24:21,190
 Ce qui veut dire que je ne laisserai
  personne me désobéir !
 
-342
+343
 00:24:26,970 --> 00:24:29,480
 – Sanji...
 – Hm ?
 
-343
+344
 00:24:29,650 --> 00:24:34,320
 Pardonne-moi, Sanji...
 Je ne voulais pas ça...
 
-344
+345
 00:24:34,570 --> 00:24:38,330
 Abruti ! Regarde un peu
 ce qui arrive à cause de toi !
 
-345
+346
 00:24:56,570 --> 00:24:58,970
 Dis donc, Sanji !
 Où est-ce que tu vas ?
 
-346
+347
 00:25:01,140 --> 00:25:06,150
 En cuisine.
 Nous avons cent rations à préparer !
 
-347
+348
 00:25:06,900 --> 00:25:08,650
 – Sanji !
 – Sanji ?
 
-348
+349
 00:25:08,780 --> 00:25:10,780
 – Quoi ?
 – Quoi ?
 
-349
+350
 00:25:11,920 --> 00:25:14,560
 Voilà, je préfère ça.
 
-350
+351
 00:25:19,870 --> 00:25:22,610
 Tu es au service
 de cette vermine de Krieg, Sanji ?
 
-351
+352
 00:25:22,790 --> 00:25:24,580
 Tu n'iras pas en cuisine !
 
-352
+353
 00:25:24,900 --> 00:25:27,880
 On en a marre
 de ton attitude irresponsable !
 
-353
+354
 00:25:29,600 --> 00:25:30,760
 Allez-y...
 
-354
+355
 00:25:32,410 --> 00:25:34,470
 Essayez donc de m'arrêter !
 
-355
+356
 00:25:37,450 --> 00:25:39,390
 Je ne suis pas aussi naïf...
 
-356
+357
 00:25:39,880 --> 00:25:43,630
 Je sais que Don Krieg n'a pas volé
 sa réputation de cruel pirate.
 
-357
+358
 00:25:46,100 --> 00:25:51,690
 Mais je m'en fiche pas mal.
 C'est le cadet de mes soucis !
 
-358
+359
 00:25:52,280 --> 00:25:56,450
 Je me fous de ce qui se peut se passer
 après avoir fait à manger aux gens.
 
-359
+360
 00:25:56,700 --> 00:25:59,910
 Moi, je suis cuistot.
 Rien de plus, rien de moins.
 
-360
+361
 00:26:00,080 --> 00:26:02,860
 Si quelqu'un a faim,
 je lui prépare à manger.
 
-361
+362
 00:26:03,040 --> 00:26:04,500
 Un point c'est tout.
 
-362
+363
 00:26:05,930 --> 00:26:09,560
 N'est-ce pas 
 ce que doit faire un cuistot ?
 
-363
+364
 00:26:17,400 --> 00:26:18,260
 Patty !
 
-364
+365
 00:26:18,480 --> 00:26:20,340
 Allez ! Saisissez-vous de lui !
 
-365
+366
 00:26:21,610 --> 00:26:24,500
 Sanji, il t'arrive
 de donner à manger aux clients
 
-366
+367
 00:26:24,680 --> 00:26:27,340
 que je chasse du restaurant.
 
-367
+368
 00:26:27,860 --> 00:26:30,810
 Je ne sais pas lequel
 de nous deux a raison,
 
-368
+369
 00:26:30,990 --> 00:26:33,320
 mais cette fois, tout est ta faute.
 
-369
+370
 00:26:33,730 --> 00:26:36,260
 Je ne peux plus
 te laisser faire n'importe quoi.
 
-370
+371
 00:26:36,630 --> 00:26:38,360
 Je dois défendre ce restaurant.
 
-371
+372
 00:26:38,800 --> 00:26:40,530
 Heureusement,
 l'ennemi est tout seul.
 
-372
+373
 00:26:40,700 --> 00:26:44,200
 Même s'il est redoutable,
 il ne pourra rien contre nous.
 
-373
+374
 00:26:46,450 --> 00:26:49,920
 Ce restaurant
 reçoit chaque jour des pirates.
 
-374
+375
 00:26:50,400 --> 00:26:53,630
 Et je leur réserve toujours
 l'accueil qu'ils méritent !
 
-375
+376
 00:26:53,800 --> 00:26:54,840
 Que...
 
-376
+377
 00:26:55,020 --> 00:26:58,170
 Alors, tu as la panse bien remplie,
 Krieg ?
 
-377
+378
 00:26:58,380 --> 00:27:00,760
 Que dirais-tu d'un petit dessert ?
 
-378
+379
 00:27:01,570 --> 00:27:05,710
 Goûte donc à ça ! C'est plein de fer !
 
-379
+380
 00:27:06,640 --> 00:27:10,520
 Meatball indigestion !
 
-380
+381
 00:27:26,540 --> 00:27:27,450
 Don !
 
-381
+382
 00:27:32,830 --> 00:27:36,910
 Merde, j'ai défoncé la porte.
 Le patron va encore être furax !
 
-382
+383
 00:27:37,090 --> 00:27:39,160
 Tu n'as fait
 que protéger le restaurant.
 
-383
+384
 00:27:39,340 --> 00:27:40,760
 Il ne t'en voudra pas.
 
-384
+385
 00:27:41,680 --> 00:27:44,960
 Que comptes-tu faire
 des hommes à bord de son navire ?
 
-385
+386
 00:27:45,140 --> 00:27:49,310
 Ben, on pourrait mettre un peu de beurre
 et les faire revenir à la poêle !
 
-386
+387
 00:27:49,700 --> 00:27:55,820
 Je parie que ce serait succulent,
 cuistot à la manque !
 
-387
+388
 00:27:57,780 --> 00:28:00,280
 J'ai pas du tout aimé
 ton dessert infect !
 
-388
+389
 00:28:00,450 --> 00:28:02,600
 Pas terrible ce restaurant !
 
-389
+390
 00:28:07,580 --> 00:28:09,660
 Vous commencez à me gonfler !
 
-390
+391
 00:28:16,180 --> 00:28:17,420
 Son corps cachait...
 
-391
+392
 00:28:17,670 --> 00:28:18,550
 Des armes !
 
-392
+393
 00:28:32,820 --> 00:28:35,650
 Je vous conseille
 de ne pas vous rebeller !
 
-393
+394
 00:28:36,150 --> 00:28:38,860
 Vous n'avez aucune chance
  contre moi !
 
-394
+395
 00:28:40,150 --> 00:28:42,360
 Mes bras sont en titane !
 
-395
+396
 00:28:42,780 --> 00:28:45,440
 Mon torse a été forgé
 dans de l'acier trempé !
 
-396
+397
 00:28:45,620 --> 00:28:49,330
 Quant à mes poings en diamant,
 ils pulvérisent n'importe quoi !
 
-397
+398
 00:28:50,470 --> 00:28:52,820
 Mon corps entier
 renferme des armes secrètes.
 
-398
+399
 00:28:53,000 --> 00:28:57,030
 J'ai une armada de 50 navires
 et 5 000 hommes sous mes ordres.
 
-399
+400
 00:28:57,250 --> 00:29:00,670
 Je n'ai jamais perdu une bataille
 jusqu'à aujourd'hui.
 
-400
+401
 00:29:01,020 --> 00:29:05,390
 Il n'y a pas d'homme plus digne
 de porter le titre de "Don" !
 
-401
+402
 00:29:06,140 --> 00:29:07,960
 Pousse-toi de là, marmiton.
 
-402
+403
 00:29:10,500 --> 00:29:13,000
 Alors, quand je vous dis
 de faire à manger à mes hommes,
 
-403
+404
 00:29:13,150 --> 00:29:15,760
 vous la fermez et vous vous exécutez !
 
-404
+405
 00:29:16,000 --> 00:29:18,300
 Vous allez m'obéir au doigt et à l'œil !
 
-405
+406
 00:29:21,830 --> 00:29:23,910
 Voici une centaine de rations.
 
-406
+407
 00:29:24,080 --> 00:29:26,020
 Dépêche-toi d'aller leur apporter.
 
-407
+408
 00:29:26,210 --> 00:29:27,520
 – Patron Zeff !
 – Patron Zeff !
 
-408
+409
 00:29:29,740 --> 00:29:32,700
 "Ze... Zeff" ?
 
-409
+410
 00:29:37,230 --> 00:29:39,920
 Mais enfin, pourquoi vous faites ça ?
 
-410
+411
 00:29:40,550 --> 00:29:42,670
 Si ses hommes reprennent des forces,
 
-411
+412
 00:29:42,840 --> 00:29:45,540
 ils s'empareront de notre navire !
 
-412
+413
 00:29:45,720 --> 00:29:49,470
 Seulement s'il leur reste
 assez de hargne pour nous attaquer...
 
-413
+414
 00:29:51,220 --> 00:29:54,930
 Pas vrai ? On ne sort pas indemne
 de la route de Grand Line.
 
-414
+415
 00:29:57,900 --> 00:29:59,730
 Pas... Pas possible...
 
-415
+416
 00:29:59,900 --> 00:30:02,220
 Don Krieg aurait été mis en déroute ?
 
-416
+417
 00:30:02,610 --> 00:30:05,450
 Lui, le conquérant d'East Blue,
 
-417
+418
 00:30:05,640 --> 00:30:09,700
 à la tête de 50 vaisseaux,
 n'a pas réussi à traverser...
 
-418
+419
 00:30:10,280 --> 00:30:11,700
 Grand Line ?
 
-419
+420
 00:30:13,720 --> 00:30:15,290
 C'est toi...
 
-420
+421
 00:30:15,710 --> 00:30:17,580
 le fameux Zeff aux Pieds Rouges ?
 
-421
+422
 00:03:41,110 --> 00:03:47,080
 Membre de l'équipage
 de Don Krieg - Gin
 
-422
+423
 00:04:51,930 --> 00:04:56,920
 Baratie - Les Cuisines
 
-423
+424
 00:08:18,260 --> 00:08:23,230
 Pirate en congé - Homme à tout faire
 Monkey D. Luffy
 
-424
+425
 00:08:26,360 --> 00:08:29,230
 Homme à tout faire
 
-425
+426
 00:08:30,820 --> 00:08:32,700
 Homme à tout faire
 
-426
+427
 00:08:33,820 --> 00:08:35,910
 Homme à tout faire
 
-427
+428
 00:08:37,530 --> 00:08:38,870
 Homme à tout faire
 
-428
+429
 00:08:40,950 --> 00:08:42,910
 Homme à tout faire
 
-429
+430
 00:08:52,970 --> 00:08:54,680
 Homme à tout faire
 
-430
+431
 00:15:08,260 --> 00:15:12,470
 2 jours plus tard
 
-431
+432
 00:17:39,850 --> 00:17:44,820
 Amiral de l'Armada
  de Pirates - Don Krieg
 
-432
+433
 00:00:01,600 --> 00:00:03,560
 Fortune, gloire et pouvoir...
 
-433
+434
 00:00:03,770 --> 00:00:07,690
 Le Roi des Pirates, Gold Roger,
 possédait tout ce qu'un homme désire.
 
-434
+435
 00:00:07,940 --> 00:00:11,610
 Ses dernières paroles précipitèrent les hommes sur les mers.
 
-435
+436
 00:00:11,780 --> 00:00:15,450
 Mon trésor ?
 Je vous le laisse si vous voulez...
 
-436
+437
 00:00:15,570 --> 00:00:16,620
 Trouvez-le !
 
-437
+438
 00:00:16,820 --> 00:00:19,260
 Je l'ai laissé quelque part
  dans ce monde.
 
-438
+439
 00:00:21,700 --> 00:00:26,130
 En direction de Grand Line,
 tous se mirent en quête de leur rêve !
 
-439
+440
 00:00:26,460 --> 00:00:29,800
 Le monde entier connu alors
  une grande vague de piraterie !
 
-440
+441
 00:00:30,170 --> 00:00:35,670
 Rassemblons tous nos rêves,
 
-441
+442
 00:00:35,670 --> 00:00:41,750
 Et allons chercher nos désirs !
 
-442
+443
 00:00:47,690 --> 00:00:53,000
 Les boussoles ne causent que du retard.
 
-443
+444
 00:00:53,360 --> 00:00:58,620
 Rempli d'excitation, j'ai pris la barre.
 
-444
+445
 00:00:59,070 --> 00:01:04,680
 Si nous pouvons vérifier cette vieille carte au trésor,
 
-445
+446
 00:01:04,410 --> 00:01:10,280
 Alors ce n'est plus une légende !
 
-446
+447
 00:01:11,170 --> 00:01:17,010
 C'est pas grave si nos problèmes personnels
 
-447
+448
 00:01:17,010 --> 00:01:22,260
 Tapent sur les nerfs des autres,
 
-448
+449
 00:01:22,260 --> 00:01:24,550
 Parce qu'on pense trop à eux.
 
-449
+450
 00:01:25,850 --> 00:01:31,400
 Rassemblons tous nos rêves,
 
-450
+451
 00:01:31,400 --> 00:01:37,110
 Et allons chercher nos désirs !
 
-451
+452
 00:01:37,110 --> 00:01:40,120
 Une pièce dans la poche,
 
-452
+453
 00:01:40,120 --> 00:01:43,410
 Et veux-tu être mon ami ?
 
-453
+454
 00:01:43,410 --> 00:01:48,660
 Nous sommes, nous sommes du voyage !
 
-454
+455
 00:01:48,660 --> 00:01:49,980
 Nous en sommes !
 
-455
+456
 00:30:20,670 --> 00:30:27,380
 Quand j’étais enfant, une carte au trésor
 
-456
+457
 00:30:27,680 --> 00:30:34,560
 Flottait dans mon esprit, claire comme le jour.
 
-457
+458
 00:30:34,770 --> 00:30:41,480
 Je cherchais toujours cet endroit légendaire,
 
-458
+459
 00:30:41,730 --> 00:30:48,740
 Pour ne jamais laisser un inconnu me dépasser.
 
-459
+460
 00:30:51,570 --> 00:30:54,410
 Mais même maintenant,
 
-460
+461
 00:30:56,410 --> 00:31:02,540
 Je n'arrive pas à attraper mes véritables rêves.
 
-461
+462
 00:31:03,000 --> 00:31:09,800
 Si jamais le monde venait à changer,
 
-462
+463
 00:31:10,050 --> 00:31:16,890
 Ramène-moi à l’époque où je ne savais rien,
 
-463
+464
 00:31:17,140 --> 00:31:29,900
 Pour que mes souvenirs conservent leurs couleurs éclatantes.
 
-464
+465
 00:00:29,770 --> 00:00:30,230
 あ
 
-465
+466
 00:00:30,230 --> 00:00:30,560
 あ
 
-466
+467
 00:00:29,850 --> 00:00:30,310
 り
 
-467
+468
 00:00:30,310 --> 00:00:30,650
 り
 
-468
+469
 00:00:29,900 --> 00:00:30,400
 った
 
-469
+470
 00:00:30,400 --> 00:00:30,860
 った
 
-470
+471
 00:00:29,940 --> 00:00:30,610
 け
 
-471
+472
 00:00:30,610 --> 00:00:31,020
 け
 
-472
+473
 00:00:29,980 --> 00:00:30,770
 の
 
-473
+474
 00:00:30,770 --> 00:00:31,560
 の
 
-474
-00:00:30,020 --> 00:00:31,310
-夢
-
 475
-00:00:31,310 --> 00:00:32,110
+00:00:30,020 --> 00:00:31,310
 夢
 
 476
+00:00:31,310 --> 00:00:32,110
+夢
+
+477
 00:00:30,100 --> 00:00:31,860
 を
 
-477
+478
 00:00:31,860 --> 00:00:33,070
 を
 
-478
+479
 00:00:30,190 --> 00:00:33,110
 か
 
-479
+480
 00:00:33,110 --> 00:00:33,520
 か
 
-480
+481
 00:00:30,230 --> 00:00:33,270
 き
 
-481
+482
 00:00:33,270 --> 00:00:33,690
 き
 
-482
-00:00:30,270 --> 00:00:33,440
-集
-
 483
-00:00:33,440 --> 00:00:34,190
+00:00:30,270 --> 00:00:33,440
 集
 
 484
+00:00:33,440 --> 00:00:34,190
+集
+
+485
 00:00:30,360 --> 00:00:33,940
 め
 
-485
+486
 00:00:33,940 --> 00:00:35,610
 め
 
-486
+487
 00:00:30,020 --> 00:00:31,310
 ゆ
 
-487
+488
 00:00:31,310 --> 00:00:31,900
 ゆ
 
-488
+489
 00:00:30,020 --> 00:00:31,650
 め
 
-489
+490
 00:00:31,650 --> 00:00:32,110
 め
 
-490
+491
 00:00:30,270 --> 00:00:33,440
 あ
 
-491
+492
 00:00:33,440 --> 00:00:33,980
 あ
 
-492
+493
 00:00:30,270 --> 00:00:33,730
 つ
 
-493
+494
 00:00:33,730 --> 00:00:34,190
 つ
 
-494
-00:00:35,230 --> 00:00:35,740
-捜
-
 495
-00:00:35,740 --> 00:00:36,320
+00:00:35,230 --> 00:00:35,740
 捜
 
 496
+00:00:35,740 --> 00:00:36,320
+捜
+
+497
 00:00:35,280 --> 00:00:36,070
 し
 
-497
+498
 00:00:36,070 --> 00:00:36,570
 し
 
-498
-00:00:35,360 --> 00:00:36,320
-物
-
 499
-00:00:36,320 --> 00:00:36,940
+00:00:35,360 --> 00:00:36,320
 物
 
 500
+00:00:36,320 --> 00:00:36,940
+物
+
+501
 00:00:35,400 --> 00:00:36,690
 を
 
-501
+502
 00:00:36,690 --> 00:00:37,200
 を
 
-502
-00:00:35,440 --> 00:00:36,940
-捜
-
 503
-00:00:36,940 --> 00:00:37,740
+00:00:35,440 --> 00:00:36,940
 捜
 
 504
+00:00:36,940 --> 00:00:37,740
+捜
+
+505
 00:00:35,490 --> 00:00:37,490
 し
 
-505
+506
 00:00:37,490 --> 00:00:38,360
 し
 
-506
+507
 00:00:35,530 --> 00:00:38,110
 に
 
-507
+508
 00:00:38,110 --> 00:00:38,700
 に
 
-508
-00:00:35,610 --> 00:00:38,450
-行
-
 509
-00:00:38,450 --> 00:00:39,070
+00:00:35,610 --> 00:00:38,450
 行
 
 510
+00:00:38,450 --> 00:00:39,070
+行
+
+511
 00:00:35,650 --> 00:00:38,820
 く
 
-511
+512
 00:00:38,820 --> 00:00:39,410
 く
 
-512
+513
 00:00:35,690 --> 00:00:39,160
 の
 
-513
+514
 00:00:39,160 --> 00:00:39,660
 の
 
-514
+515
 00:00:35,740 --> 00:00:39,410
 さ
 
-515
+516
 00:00:39,410 --> 00:00:41,450
 さ
 
-516
+517
 00:00:35,230 --> 00:00:35,740
 さ
 
-517
+518
 00:00:35,740 --> 00:00:36,190
 さ
 
-518
+519
 00:00:35,230 --> 00:00:35,940
 が
 
-519
+520
 00:00:35,940 --> 00:00:36,320
 が
 
-520
+521
 00:00:35,360 --> 00:00:36,320
 も
 
-521
+522
 00:00:36,320 --> 00:00:36,780
 も
 
-522
+523
 00:00:35,360 --> 00:00:36,530
 の
 
-523
+524
 00:00:36,530 --> 00:00:36,940
 の
 
-524
+525
 00:00:35,440 --> 00:00:36,940
 さ
 
-525
+526
 00:00:36,940 --> 00:00:37,650
 さ
 
-526
+527
 00:00:35,440 --> 00:00:37,400
 が
 
-527
+528
 00:00:37,400 --> 00:00:37,740
 が
 
-528
+529
 00:00:35,610 --> 00:00:38,450
 ゆ
 
-529
+530
 00:00:38,450 --> 00:00:39,070
 ゆ
 
-530
-00:00:47,290 --> 00:00:47,750
-羅
-
 531
-00:00:47,750 --> 00:00:48,210
+00:00:47,290 --> 00:00:47,750
 羅
 
 532
-00:00:47,330 --> 00:00:47,960
-針
+00:00:47,750 --> 00:00:48,210
+羅
 
 533
-00:00:47,960 --> 00:00:48,540
+00:00:47,330 --> 00:00:47,960
 針
 
 534
-00:00:47,410 --> 00:00:48,290
-盤
+00:00:47,960 --> 00:00:48,540
+針
 
 535
-00:00:48,290 --> 00:00:49,040
+00:00:47,410 --> 00:00:48,290
 盤
 
 536
+00:00:48,290 --> 00:00:49,040
+盤
+
+537
 00:00:47,460 --> 00:00:48,790
 なん
 
-537
+538
 00:00:48,790 --> 00:00:49,420
 なん
 
-538
+539
 00:00:47,500 --> 00:00:49,170
 て
 
-539
+540
 00:00:49,170 --> 00:00:49,670
 て
 
-540
-00:00:47,580 --> 00:00:50,580
-渋
-
 541
-00:00:50,580 --> 00:00:51,210
+00:00:47,580 --> 00:00:50,580
 渋
 
 542
-00:00:47,660 --> 00:00:50,960
-滞
+00:00:50,580 --> 00:00:51,210
+渋
 
 543
-00:00:50,960 --> 00:00:51,540
+00:00:47,660 --> 00:00:50,960
 滞
 
 544
+00:00:50,960 --> 00:00:51,540
+滞
+
+545
 00:00:47,710 --> 00:00:51,290
 の
 
-545
+546
 00:00:51,290 --> 00:00:51,920
 の
 
-546
+547
 00:00:47,750 --> 00:00:51,670
 も
 
-547
+548
 00:00:51,670 --> 00:00:52,290
 も
 
-548
+549
 00:00:47,790 --> 00:00:52,040
 と
 
-549
+550
 00:00:52,040 --> 00:00:52,710
 と
 
-550
+551
 00:00:47,290 --> 00:00:47,750
 ら
 
-551
+552
 00:00:47,750 --> 00:00:48,210
 ら
 
-552
+553
 00:00:47,330 --> 00:00:47,960
 しん
 
-553
+554
 00:00:47,960 --> 00:00:48,540
 しん
 
-554
+555
 00:00:47,410 --> 00:00:48,290
 ば
 
-555
+556
 00:00:48,290 --> 00:00:48,750
 ば
 
-556
+557
 00:00:47,410 --> 00:00:48,500
 ん
 
-557
+558
 00:00:48,500 --> 00:00:49,040
 ん
 
-558
+559
 00:00:47,580 --> 00:00:50,580
 じゅう
 
-559
+560
 00:00:50,580 --> 00:00:51,210
 じゅう
 
-560
+561
 00:00:47,660 --> 00:00:50,960
 たい
 
-561
+562
 00:00:50,960 --> 00:00:51,540
 たい
 
-562
-00:00:53,000 --> 00:00:53,420
-熱
-
 563
-00:00:53,420 --> 00:00:54,050
+00:00:53,000 --> 00:00:53,420
 熱
 
 564
+00:00:53,420 --> 00:00:54,050
+熱
+
+565
 00:00:53,040 --> 00:00:53,800
 に
 
-565
+566
 00:00:53,800 --> 00:00:54,210
 に
 
-566
+567
 00:00:53,090 --> 00:00:53,960
 う
 
-567
+568
 00:00:53,960 --> 00:00:54,420
 う
 
-568
+569
 00:00:53,130 --> 00:00:54,170
 か
 
-569
+570
 00:00:54,170 --> 00:00:54,710
 か
 
-570
+571
 00:00:53,170 --> 00:00:54,460
 さ
 
-571
+572
 00:00:54,460 --> 00:00:55,130
 さ
 
-572
+573
 00:00:53,250 --> 00:00:54,880
 れ
 
-573
+574
 00:00:54,880 --> 00:00:55,380
 れ
 
-574
-00:00:53,340 --> 00:00:55,550
-舵
-
 575
-00:00:55,550 --> 00:00:56,210
+00:00:53,340 --> 00:00:55,550
 舵
 
 576
+00:00:55,550 --> 00:00:56,210
+舵
+
+577
 00:00:53,420 --> 00:00:56,300
 を
 
-577
+578
 00:00:56,300 --> 00:00:57,260
 を
 
-578
+579
 00:00:53,500 --> 00:00:57,010
 と
 
-579
+580
 00:00:57,010 --> 00:00:57,470
 と
 
-580
+581
 00:00:53,540 --> 00:00:57,220
 る
 
-581
+582
 00:00:57,220 --> 00:00:57,630
 る
 
-582
+583
 00:00:53,590 --> 00:00:57,380
 の
 
-583
+584
 00:00:57,380 --> 00:00:57,760
 の
 
-584
+585
 00:00:53,630 --> 00:00:57,510
 さ
 
-585
+586
 00:00:57,510 --> 00:00:58,510
 さ
 
-586
+587
 00:00:53,000 --> 00:00:53,420
 ね
 
-587
+588
 00:00:53,420 --> 00:00:53,920
 ね
 
-588
+589
 00:00:53,000 --> 00:00:53,670
 つ
 
-589
+590
 00:00:53,670 --> 00:00:54,050
 つ
 
-590
+591
 00:00:53,340 --> 00:00:55,550
 か
 
-591
+592
 00:00:55,550 --> 00:00:56,210
 か
 
-592
+593
 00:00:53,380 --> 00:00:55,960
 じ
 
-593
+594
 00:00:55,960 --> 00:00:56,550
 じ
 
-594
+595
 00:00:58,720 --> 00:00:59,180
 ホ
 
-595
+596
 00:00:59,180 --> 00:00:59,680
 ホ
 
-596
+597
 00:00:58,760 --> 00:00:59,430
 コ
 
-597
+598
 00:00:59,430 --> 00:00:59,760
 コ
 
-598
+599
 00:00:58,840 --> 00:00:59,510
 リ
 
-599
+600
 00:00:59,510 --> 00:00:59,970
 リ
 
-600
+601
 00:00:58,880 --> 00:00:59,720
 か
 
-601
+602
 00:00:59,720 --> 00:01:00,130
 か
 
-602
+603
 00:00:58,930 --> 00:00:59,880
 ぶ
 
-603
+604
 00:00:59,880 --> 00:01:00,510
 ぶ
 
-604
+605
 00:00:58,970 --> 00:01:00,260
 って
 
-605
+606
 00:01:00,260 --> 00:01:00,800
 って
 
-606
+607
 00:00:59,010 --> 00:01:00,550
 た
 
-607
+608
 00:01:00,550 --> 00:01:01,090
 た
 
-608
-00:00:59,130 --> 00:01:01,680
-宝
-
 609
-00:01:01,680 --> 00:01:02,600
+00:00:59,130 --> 00:01:01,680
 宝
 
 610
+00:01:01,680 --> 00:01:02,600
+宝
+
+611
 00:00:59,180 --> 00:01:02,350
 の
 
-611
+612
 00:01:02,350 --> 00:01:02,930
 の
 
-612
-00:00:59,220 --> 00:01:02,680
-地
-
 613
-00:01:02,680 --> 00:01:03,350
+00:00:59,220 --> 00:01:02,680
 地
 
 614
-00:00:59,260 --> 00:01:03,100
-図
+00:01:02,680 --> 00:01:03,350
+地
 
 615
-00:01:03,100 --> 00:01:03,550
+00:00:59,260 --> 00:01:03,100
 図
 
 616
+00:01:03,100 --> 00:01:03,550
+図
+
+617
 00:00:59,340 --> 00:01:03,300
 も
 
-617
+618
 00:01:03,300 --> 00:01:04,510
 も
 
-618
+619
 00:00:59,130 --> 00:01:01,680
 た
 
-619
+620
 00:01:01,680 --> 00:01:02,100
 た
 
-620
+621
 00:00:59,130 --> 00:01:01,840
 か
 
-621
+622
 00:01:01,840 --> 00:01:02,260
 か
 
-622
+623
 00:00:59,130 --> 00:01:02,010
 ら
 
-623
+624
 00:01:02,010 --> 00:01:02,600
 ら
 
-624
+625
 00:00:59,220 --> 00:01:02,680
 ち
 
-625
+626
 00:01:02,680 --> 00:01:03,350
 ち
 
-626
+627
 00:00:59,260 --> 00:01:03,100
 ず
 
-627
+628
 00:01:03,100 --> 00:01:03,550
 ず
 
-628
-00:01:03,930 --> 00:01:04,510
-確
-
 629
-00:01:04,510 --> 00:01:05,140
+00:01:03,930 --> 00:01:04,510
 確
 
 630
+00:01:04,510 --> 00:01:05,140
+確
+
+631
 00:01:03,970 --> 00:01:04,890
 か
 
-631
+632
 00:01:04,890 --> 00:01:05,470
 か
 
-632
+633
 00:01:04,010 --> 00:01:05,220
 め
 
-633
+634
 00:01:05,220 --> 00:01:05,810
 め
 
-634
+635
 00:01:04,060 --> 00:01:05,560
 た
 
-635
+636
 00:01:05,560 --> 00:01:06,220
 た
 
-636
+637
 00:01:04,140 --> 00:01:05,970
 の
 
-637
+638
 00:01:05,970 --> 00:01:06,560
 の
 
-638
+639
 00:01:04,180 --> 00:01:06,310
 な
 
-639
+640
 00:01:06,310 --> 00:01:07,100
 な
 
-640
+641
 00:01:04,220 --> 00:01:06,850
 ら
 
-641
+642
 00:01:06,850 --> 00:01:07,640
 ら
 
-642
-00:01:04,260 --> 00:01:07,390
-伝
-
 643
-00:01:07,390 --> 00:01:07,890
+00:01:04,260 --> 00:01:07,390
 伝
 
 644
-00:01:04,310 --> 00:01:07,640
-説
+00:01:07,390 --> 00:01:07,890
+伝
 
 645
-00:01:07,640 --> 00:01:08,690
+00:01:04,310 --> 00:01:07,640
 説
 
 646
+00:01:07,640 --> 00:01:08,690
+説
+
+647
 00:01:04,390 --> 00:01:08,430
 じゃ
 
-647
+648
 00:01:08,430 --> 00:01:09,060
 じゃ
 
-648
+649
 00:01:04,430 --> 00:01:08,810
 な
 
-649
+650
 00:01:08,810 --> 00:01:09,270
 な
 
-650
+651
 00:01:04,470 --> 00:01:09,020
 い!
 
-651
+652
 00:01:09,020 --> 00:01:09,770
 い!
 
-652
+653
 00:01:03,930 --> 00:01:04,510
 た
 
-653
+654
 00:01:04,510 --> 00:01:04,850
 た
 
-654
+655
 00:01:03,930 --> 00:01:04,600
 し
 
-655
+656
 00:01:04,600 --> 00:01:05,140
 し
 
-656
+657
 00:01:04,260 --> 00:01:07,390
 でん
 
-657
+658
 00:01:07,390 --> 00:01:07,890
 でん
 
-658
+659
 00:01:04,310 --> 00:01:07,640
 せ
 
-659
+660
 00:01:07,640 --> 00:01:08,270
 せ
 
-660
+661
 00:01:04,310 --> 00:01:08,020
 つ
 
-661
+662
 00:01:08,020 --> 00:01:08,690
 つ
 
-662
-00:01:10,810 --> 00:01:11,270
-個
-
 663
-00:01:11,270 --> 00:01:11,900
+00:01:10,810 --> 00:01:11,270
 個
 
 664
-00:01:10,850 --> 00:01:11,650
-人
+00:01:11,270 --> 00:01:11,900
+個
 
 665
-00:01:11,650 --> 00:01:12,940
+00:01:10,850 --> 00:01:11,650
 人
 
 666
-00:01:10,900 --> 00:01:12,690
-的
+00:01:11,650 --> 00:01:12,940
+人
 
 667
-00:01:12,690 --> 00:01:13,520
+00:01:10,900 --> 00:01:12,690
 的
 
 668
+00:01:12,690 --> 00:01:13,520
+的
+
+669
 00:01:10,940 --> 00:01:13,270
 な
 
-669
+670
 00:01:13,270 --> 00:01:14,230
 な
 
-670
-00:01:10,980 --> 00:01:13,980
-嵐
-
 671
-00:01:13,980 --> 00:01:14,860
+00:01:10,980 --> 00:01:13,980
 嵐
 
 672
+00:01:13,980 --> 00:01:14,860
+嵐
+
+673
 00:01:11,060 --> 00:01:14,610
 は
 
-673
+674
 00:01:14,610 --> 00:01:15,480
 は
 
-674
-00:01:11,100 --> 00:01:15,230
-誰
-
 675
-00:01:15,230 --> 00:01:16,190
+00:01:11,100 --> 00:01:15,230
 誰
 
 676
+00:01:15,230 --> 00:01:16,190
+誰
+
+677
 00:01:11,150 --> 00:01:15,940
 か
 
-677
+678
 00:01:15,940 --> 00:01:16,360
 か
 
-678
+679
 00:01:11,190 --> 00:01:16,110
 の
 
-679
+680
 00:01:16,110 --> 00:01:16,860
 の
 
-680
+681
 00:01:10,810 --> 00:01:11,270
 こ
 
-681
+682
 00:01:11,270 --> 00:01:11,900
 こ
 
-682
+683
 00:01:10,850 --> 00:01:11,650
 じ
 
-683
+684
 00:01:11,650 --> 00:01:12,270
 じ
 
-684
+685
 00:01:10,850 --> 00:01:12,020
 ん
 
-685
+686
 00:01:12,020 --> 00:01:12,940
 ん
 
-686
+687
 00:01:10,900 --> 00:01:12,690
 て
 
-687
+688
 00:01:12,690 --> 00:01:13,060
 て
 
-688
+689
 00:01:10,900 --> 00:01:12,810
 き
 
-689
+690
 00:01:12,810 --> 00:01:13,520
 き
 
-690
+691
 00:01:10,980 --> 00:01:13,980
 あ
 
-691
+692
 00:01:13,980 --> 00:01:14,570
 あ
 
-692
+693
 00:01:10,980 --> 00:01:14,320
 ら
 
-693
+694
 00:01:14,320 --> 00:01:14,730
 ら
 
-694
+695
 00:01:10,980 --> 00:01:14,480
 し
 
-695
+696
 00:01:14,480 --> 00:01:14,860
 し
 
-696
+697
 00:01:11,100 --> 00:01:15,230
 だ
 
-697
+698
 00:01:15,230 --> 00:01:15,980
 だ
 
-698
+699
 00:01:11,100 --> 00:01:15,730
 れ
 
-699
+700
 00:01:15,730 --> 00:01:16,190
 れ
 
-700
+701
 00:01:16,570 --> 00:01:17,030
 バ
 
-701
+702
 00:01:17,030 --> 00:01:17,650
 バ
 
-702
+703
 00:01:16,650 --> 00:01:17,400
 イ
 
-703
+704
 00:01:17,400 --> 00:01:17,940
 イ
 
-704
+705
 00:01:16,690 --> 00:01:17,690
 オ
 
-705
+706
 00:01:17,690 --> 00:01:18,700
 オ
 
-706
+707
 00:01:16,730 --> 00:01:18,440
 リ
 
-707
+708
 00:01:18,440 --> 00:01:18,990
 リ
 
-708
+709
 00:01:16,780 --> 00:01:18,740
 ズ
 
-709
+710
 00:01:18,740 --> 00:01:19,240
 ズ
 
-710
+711
 00:01:16,820 --> 00:01:18,990
 ム
 
-711
+712
 00:01:18,990 --> 00:01:19,780
 ム
 
-712
-00:01:16,900 --> 00:01:19,530
-乗
-
 713
-00:01:19,530 --> 00:01:20,030
+00:01:16,900 --> 00:01:19,530
 乗
 
 714
+00:01:19,530 --> 00:01:20,030
+乗
+
+715
 00:01:16,940 --> 00:01:19,780
 っか
 
-715
+716
 00:01:19,780 --> 00:01:20,320
 っか
 
-716
+717
 00:01:16,980 --> 00:01:20,070
 っ
 
-717
+718
 00:01:20,070 --> 00:01:20,660
 っ
 
-718
+719
 00:01:17,030 --> 00:01:20,410
 て
 
-719
+720
 00:01:20,410 --> 00:01:22,200
 て
 
-720
+721
 00:01:16,900 --> 00:01:19,530
 の
 
-721
+722
 00:01:19,530 --> 00:01:20,030
 の
 
-722
-00:01:21,780 --> 00:01:22,200
-思
-
 723
-00:01:22,200 --> 00:01:22,780
+00:01:21,780 --> 00:01:22,200
 思
 
 724
+00:01:22,200 --> 00:01:22,780
+思
+
+725
 00:01:21,820 --> 00:01:22,530
 い
 
-725
+726
 00:01:22,530 --> 00:01:22,870
 い
 
-726
+727
 00:01:21,860 --> 00:01:22,620
 す
 
-727
+728
 00:01:22,620 --> 00:01:23,160
 す
 
-728
+729
 00:01:21,910 --> 00:01:22,910
 ご
 
-729
+730
 00:01:22,910 --> 00:01:23,320
 ご
 
-730
+731
 00:01:21,990 --> 00:01:23,070
 せ
 
-731
+732
 00:01:23,070 --> 00:01:23,530
 せ
 
-732
+733
 00:01:22,030 --> 00:01:23,280
 ば
 
-733
+734
 00:01:23,280 --> 00:01:23,700
 ば
 
-734
+735
 00:01:22,070 --> 00:01:23,450
 いい!
 
-735
+736
 00:01:23,450 --> 00:01:24,200
 いい!
 
-736
+737
 00:01:21,780 --> 00:01:22,200
 お
 
-737
+738
 00:01:22,200 --> 00:01:22,620
 お
 
-738
+739
 00:01:21,780 --> 00:01:22,370
 も
 
-739
+740
 00:01:22,370 --> 00:01:22,780
 も
 
-740
+741
 00:01:25,490 --> 00:01:25,910
 あ
 
-741
+742
 00:01:25,910 --> 00:01:26,240
 あ
 
-742
+743
 00:01:25,540 --> 00:01:25,990
 り
 
-743
+744
 00:01:25,990 --> 00:01:26,330
 り
 
-744
+745
 00:01:25,580 --> 00:01:26,080
 った
 
-745
+746
 00:01:26,080 --> 00:01:26,540
 った
 
-746
+747
 00:01:25,660 --> 00:01:26,290
 け
 
-747
+748
 00:01:26,290 --> 00:01:26,740
 け
 
-748
+749
 00:01:25,700 --> 00:01:26,490
 の
 
-749
+750
 00:01:26,490 --> 00:01:27,250
 の
 
-750
-00:01:25,740 --> 00:01:26,990
-夢
-
 751
-00:01:26,990 --> 00:01:27,790
+00:01:25,740 --> 00:01:26,990
 夢
 
 752
+00:01:26,990 --> 00:01:27,790
+夢
+
+753
 00:01:25,790 --> 00:01:27,540
 を
 
-753
+754
 00:01:27,540 --> 00:01:28,750
 を
 
-754
+755
 00:01:25,910 --> 00:01:28,830
 か
 
-755
+756
 00:01:28,830 --> 00:01:29,210
 か
 
-756
+757
 00:01:25,950 --> 00:01:28,960
 き
 
-757
+758
 00:01:28,960 --> 00:01:29,410
 き
 
-758
-00:01:25,990 --> 00:01:29,160
-集
-
 759
-00:01:29,160 --> 00:01:29,910
+00:01:25,990 --> 00:01:29,160
 集
 
 760
+00:01:29,160 --> 00:01:29,910
+集
+
+761
 00:01:26,040 --> 00:01:29,660
 め
 
-761
+762
 00:01:29,660 --> 00:01:31,420
 め
 
-762
+763
 00:01:25,740 --> 00:01:26,990
 ゆ
 
-763
+764
 00:01:26,990 --> 00:01:27,580
 ゆ
 
-764
+765
 00:01:25,740 --> 00:01:27,330
 め
 
-765
+766
 00:01:27,330 --> 00:01:27,790
 め
 
-766
+767
 00:01:25,990 --> 00:01:29,160
 あ
 
-767
+768
 00:01:29,160 --> 00:01:29,660
 あ
 
-768
+769
 00:01:25,990 --> 00:01:29,410
 つ
 
-769
+770
 00:01:29,410 --> 00:01:29,910
 つ
 
-770
-00:01:31,000 --> 00:01:31,420
-捜
-
 771
-00:01:31,420 --> 00:01:32,040
+00:01:31,000 --> 00:01:31,420
 捜
 
 772
+00:01:31,420 --> 00:01:32,040
+捜
+
+773
 00:01:31,080 --> 00:01:31,790
 し
 
-773
+774
 00:01:31,790 --> 00:01:32,250
 し
 
-774
-00:01:31,120 --> 00:01:32,000
-物
-
 775
-00:01:32,000 --> 00:01:32,630
+00:01:31,120 --> 00:01:32,000
 物
 
 776
+00:01:32,000 --> 00:01:32,630
+物
+
+777
 00:01:31,170 --> 00:01:32,380
 を
 
-777
+778
 00:01:32,380 --> 00:01:32,920
 を
 
-778
-00:01:31,210 --> 00:01:32,670
-捜
-
 779
-00:01:32,670 --> 00:01:33,420
+00:01:31,210 --> 00:01:32,670
 捜
 
 780
+00:01:32,670 --> 00:01:33,420
+捜
+
+781
 00:01:31,250 --> 00:01:33,170
 し
 
-781
+782
 00:01:33,170 --> 00:01:34,040
 し
 
-782
+783
 00:01:31,330 --> 00:01:33,790
 に
 
-783
+784
 00:01:33,790 --> 00:01:34,420
 に
 
-784
-00:01:31,370 --> 00:01:34,170
-行
-
 785
-00:01:34,170 --> 00:01:34,790
+00:01:31,370 --> 00:01:34,170
 行
 
 786
+00:01:34,170 --> 00:01:34,790
+行
+
+787
 00:01:31,420 --> 00:01:34,540
 く
 
-787
+788
 00:01:34,540 --> 00:01:35,090
 く
 
-788
+789
 00:01:31,460 --> 00:01:34,840
 の
 
-789
+790
 00:01:34,840 --> 00:01:35,380
 の
 
-790
+791
 00:01:31,500 --> 00:01:35,130
 さ
 
-791
+792
 00:01:35,130 --> 00:01:36,960
 さ
 
-792
+793
 00:01:31,000 --> 00:01:31,420
 さ
 
-793
+794
 00:01:31,420 --> 00:01:31,920
 さ
 
-794
+795
 00:01:31,000 --> 00:01:31,670
 が
 
-795
+796
 00:01:31,670 --> 00:01:32,040
 が
 
-796
+797
 00:01:31,120 --> 00:01:32,000
 も
 
-797
+798
 00:01:32,000 --> 00:01:32,500
 も
 
-798
+799
 00:01:31,120 --> 00:01:32,250
 の
 
-799
+800
 00:01:32,250 --> 00:01:32,630
 の
 
-800
+801
 00:01:31,210 --> 00:01:32,670
 さ
 
-801
+802
 00:01:32,670 --> 00:01:33,330
 さ
 
-802
+803
 00:01:31,210 --> 00:01:33,080
 が
 
-803
+804
 00:01:33,080 --> 00:01:33,420
 が
 
-804
+805
 00:01:31,370 --> 00:01:34,170
 ゆ
 
-805
+806
 00:01:34,170 --> 00:01:34,790
 ゆ
 
-806
+807
 00:01:36,710 --> 00:01:37,170
 ポ
 
-807
+808
 00:01:37,170 --> 00:01:37,590
 ポ
 
-808
+809
 00:01:36,750 --> 00:01:37,340
 ケ
 
-809
+810
 00:01:37,340 --> 00:01:37,960
 ケ
 
-810
+811
 00:01:36,840 --> 00:01:37,710
 ット
 
-811
+812
 00:01:37,710 --> 00:01:38,550
 ット
 
-812
+813
 00:01:36,880 --> 00:01:38,300
 の
 
-813
+814
 00:01:38,300 --> 00:01:39,050
 の
 
-814
+815
 00:01:36,920 --> 00:01:38,800
 コ
 
-815
+816
 00:01:38,800 --> 00:01:39,340
 コ
 
-816
+817
 00:01:36,960 --> 00:01:39,090
 イン
 
-817
+818
 00:01:39,090 --> 00:01:40,050
 イン
 
-818
+819
 00:01:39,470 --> 00:01:40,010
 そ
 
-819
+820
 00:01:40,010 --> 00:01:40,470
 そ
 
-820
+821
 00:01:39,510 --> 00:01:40,220
 れ
 
-821
+822
 00:01:40,220 --> 00:01:40,680
 れ
 
-822
+823
 00:01:39,550 --> 00:01:40,430
 と
 
-823
+824
 00:01:40,430 --> 00:01:40,760
 と
 
-824
+825
 00:01:39,590 --> 00:01:40,510
 You
 
-825
+826
 00:01:40,510 --> 00:01:41,050
 You
 
-826
+827
 00:01:39,630 --> 00:01:40,800
 wan
 
-827
+828
 00:01:40,800 --> 00:01:41,180
 wan
 
-828
+829
 00:01:39,670 --> 00:01:40,930
 na
 
-829
+830
 00:01:40,930 --> 00:01:41,380
 na
 
-830
+831
 00:01:39,760 --> 00:01:41,130
 be
 
-831
+832
 00:01:41,130 --> 00:01:41,720
 be
 
-832
+833
 00:01:39,800 --> 00:01:41,470
 my
 
-833
+834
 00:01:41,470 --> 00:01:42,010
 my
 
-834
+835
 00:01:39,840 --> 00:01:41,760
 Friend?
 
-835
+836
 00:01:41,760 --> 00:01:43,220
 Friend?
-

@@ -1,153 +1,154 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:02,960 --> 00:00:08,350
 El hombre que lo consiguió todo en este mundo,
  el legendario Rey de los Piratas, Gold Roger.
 
-2
+3
 00:00:08,350 --> 00:00:12,970
 Antes de morir, sus últimas palabras 
 inspiraron a muchos a aventurarse al mar.
 
-3
+4
 00:00:12,970 --> 00:00:14,650
 ¿Mis tesoros?
 
-4
+5
 00:00:14,650 --> 00:00:16,190
 Si los desean, se los daré.
 
-5
+6
 00:00:16,190 --> 00:00:19,840
 ¡Búsquenlos! ¡Los escondí todos en ese lugar!
 
-6
+7
 00:00:19,840 --> 00:00:22,660
 Muchos hombres zarpan en pos de sus sueños.
 
-7
+8
 00:00:22,660 --> 00:00:25,320
 El mundo se encuentra en la Gran Era de la Piratería.
 
-8
+9
 00:00:25,500 --> 00:00:29,340
 No puedo estar quieto, no puedo detenerme.
 
-9
+10
 00:00:29,460 --> 00:00:33,820
 Todavía no ha amanecido y no puedo esperar más.
 
-10
+11
 00:00:33,900 --> 00:00:37,580
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-11
+12
 00:00:39,060 --> 00:00:43,100
 Icen la bandera, comienza el amanecer de la aventura.
 
-12
+13
 00:00:44,500 --> 00:00:49,740
 Empecemos a hacer olas saltando desde nuestros sueños.
 
-13
+14
 00:00:49,860 --> 00:00:54,260
 Si quieren ir a un mundo increíble,
 
-14
+15
 00:00:54,380 --> 00:00:58,740
 su tenacidad será un requisito indispensable.
 
-15
+16
 00:00:59,140 --> 00:01:01,700
 ¿Acaso es un crimen ser descarado?
 
-16
+17
 00:01:01,820 --> 00:01:04,740
 Ser buscado significa ser un ganador.
 
-17
+18
 00:01:04,900 --> 00:01:10,500
 Nuestra única regla es la libertad.
 
-18
+19
 00:01:10,580 --> 00:01:16,020
 No nos dejamos llevar por las preocupaciones.
 
-19
+20
 00:01:16,060 --> 00:01:18,580
 Seré el primero en llegar al One Piece.
 
-20
+21
 00:01:18,620 --> 00:01:22,340
 Mi corazón lleno de sueños es enorme.
 
-21
+22
 00:01:22,540 --> 00:01:26,900
 Es importante que no nos despertemos.
 
-22
+23
 00:01:27,020 --> 00:01:29,420
 No puedo estar quieto, no puedo detenerme.
 
-23
+24
 00:01:29,540 --> 00:01:33,580
 Todavía no ha amanecido y no puedo esperar más.
 
-24
+25
 00:01:33,700 --> 00:01:37,140
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-25
+26
 00:01:38,820 --> 00:01:44,580
 Nosotros... llegamos hasta aquí,
 
-26
+27
 00:01:44,740 --> 00:01:47,540
 e iremos hasta donde nos lleven nuestros sueños.
 
-27
+28
 00:01:47,700 --> 00:01:52,660
 No dejaremos a nadie atrás.
 
-28
+29
 00:01:52,780 --> 00:01:55,340
 Juré que seguiría sin detenerme.
 
-29
+30
 00:01:55,460 --> 00:01:59,180
 Y desde aquel día en que comenzó mi sueño...
 
-30
+31
 00:01:59,420 --> 00:02:03,660
 ...mi destino sigue siendo el mismo.
 
-31
+32
 00:02:03,780 --> 00:02:06,180
 No puedo estar quieto, no puedo detenerme.
 
-32
+33
 00:02:06,340 --> 00:02:10,620
 El sol de mi corazón jamás se pondrá.
 
-33
+34
 00:02:10,700 --> 00:02:17,580
 Uno, dos, rayo de sol. Uno, dos, rayo de sol.
 
-34
+35
 00:02:18,820 --> 00:02:24,900
 Uno, dos, rayo de sol, cuatro... ¡Vamos!
 
-35
+36
 00:02:27,300 --> 00:02:29,860
 ¡Vamos!
 
-36
+37
 00:02:31,580 --> 00:02:34,940
 En el centro de la Isla Gyojin,
  en la Ciudad de la Fábrica de Dulces.
-
-37
-00:02:31,580 --> 00:02:34,940
-m -211 -115 l 212 -115 212 1 -211 1
 
 38
 00:02:31,580 --> 00:02:34,940
@@ -163,40 +164,40 @@ m -211 -115 l 212 -115 212 1 -211 1
 
 41
 00:02:31,580 --> 00:02:34,940
+m -211 -115 l 212 -115 212 1 -211 1
+
+42
+00:02:31,580 --> 00:02:34,940
 PLAZA
 GYONCORDE
 
-42
+43
 00:02:31,580 --> 00:02:34,940
 ISLA 
 GYOJIN
 
-43
+44
 00:02:31,580 --> 00:02:34,940
 ENTRADA 
 DE LA ISLA
 
-44
+45
 00:02:31,580 --> 00:02:34,940
 FÁBRICA 
 DE DULCES
 
-45
+46
 00:04:35,140 --> 00:04:38,580
 Al Norte de la Isla Gyojin,
  en el Distrito Molino de Agua.
 
-46
+47
 00:04:35,140 --> 00:04:38,700
 m -231 -245 l 1612 -445 312 2 -411 1
 
-47
-00:04:35,140 --> 00:04:38,700
-m -211 -265 l 612 -115 212 1 -211 1
-
 48
 00:04:35,140 --> 00:04:38,700
-m -211 -115 l 212 -115 212 1 -211 1
+m -211 -265 l 612 -115 212 1 -211 1
 
 49
 00:04:35,140 --> 00:04:38,700
@@ -204,64 +205,64 @@ m -211 -115 l 212 -115 212 1 -211 1
 
 50
 00:04:35,140 --> 00:04:38,700
+m -211 -115 l 212 -115 212 1 -211 1
+
+51
+00:04:35,140 --> 00:04:38,700
 PLAZA
 GYONCORDE
 
-51
+52
 00:04:35,140 --> 00:04:38,700
 ISLA 
 GYOJIN
 
-52
+53
 00:04:35,140 --> 00:04:38,700
 ENTRADA 
 DE LA ISLA
 
-53
+54
 00:04:35,140 --> 00:04:38,700
 DISTRITO MOLINO
 DE AGUA
 
-54
+55
 00:05:21,580 --> 00:05:23,380
 ¡Muy bien!
 
-55
+56
 00:05:32,340 --> 00:05:33,580
 ¿Potsun?
 
-56
+57
 00:05:39,340 --> 00:05:41,010
 ¿Bosun?
 
-57
+58
 00:05:48,900 --> 00:05:50,380
 ¿Tosun?
 
-58
+59
 00:06:18,660 --> 00:06:20,340
 ¡Ha ido más allá del dosun!
 
-59
+60
 00:06:58,290 --> 00:07:00,740
 ¡Sí!
 
-60
+61
 00:07:02,460 --> 00:07:07,140
 Al sur de la Isla Gyojin, 
 frente a la Asamblea Cultural Gyojin.
 
-61
+62
 00:07:02,460 --> 00:07:07,180
 m -231 -245 l 1612 -445 312 2 -411 1
 
-62
-00:07:02,460 --> 00:07:07,180
-m -211 -265 l 612 -115 212 1 -211 1
-
 63
 00:07:02,460 --> 00:07:07,180
-m -211 -115 l 212 -115 212 1 -211 1
+m -211 -265 l 612 -115 212 1 -211 1
 
 64
 00:07:02,460 --> 00:07:07,180
@@ -269,44 +270,44 @@ m -211 -115 l 212 -115 212 1 -211 1
 
 65
 00:07:02,460 --> 00:07:07,180
+m -211 -115 l 212 -115 212 1 -211 1
+
+66
+00:07:02,460 --> 00:07:07,180
 PLAZA
 GYONCORDE
 
-66
+67
 00:07:02,460 --> 00:07:07,180
 ISLA 
 GYOJIN
 
-67
+68
 00:07:02,460 --> 00:07:07,180
 ENTRADA 
 DE LA ISLA
 
-68
+69
 00:07:02,460 --> 00:07:07,180
 ASAMBLEA
 CULTURAL GYOJIN
 
-69
+70
 00:09:01,070 --> 00:09:03,340
 ¡No se te entiende nada!
 
-70
+71
 00:09:03,460 --> 00:09:07,260
 Al este de la Isla Gyojin,
  en el Centro Comercial Marino.
 
-71
+72
 00:09:03,460 --> 00:09:07,260
 m -231 -245 l 1612 -445 312 2 -411 1
 
-72
-00:09:03,460 --> 00:09:07,260
-m -211 -265 l 612 -115 212 1 -211 1
-
 73
 00:09:03,460 --> 00:09:07,260
-m -211 -115 l 212 -115 212 1 -211 1
+m -211 -265 l 612 -115 212 1 -211 1
 
 74
 00:09:03,460 --> 00:09:07,260
@@ -314,258 +315,261 @@ m -211 -115 l 212 -115 212 1 -211 1
 
 75
 00:09:03,460 --> 00:09:07,260
+m -211 -115 l 212 -115 212 1 -211 1
+
+76
+00:09:03,460 --> 00:09:07,260
 PLAZA
 GYONCORDE
 
-76
+77
 00:09:03,460 --> 00:09:07,260
 ISLA 
 GYOJIN
 
-77
+78
 00:09:03,460 --> 00:09:07,260
 ENTRADA 
 DE LA ISLA
 
-78
+79
 00:09:03,460 --> 00:09:07,260
 CENTRO COMERCIAL
 MARINO
 
-79
+80
 00:10:15,640 --> 00:10:19,860
 ¡Vaya orgullo! ¡Con razón se hace
  llamar el noble del Distrito Gyojin!
 
-80
+81
 00:10:19,860 --> 00:10:22,860
 ¿Hace como que nada ha pasado?
 
-81
+82
 00:10:40,700 --> 00:10:45,860
 m -231 -245 l 1612 -445 312 2 -411 1
 
-82
+83
 00:10:40,700 --> 00:10:45,860
 m -211 -265 l 612 -115 212 1 -211 1
 
-83
+84
 00:10:40,700 --> 00:10:45,860
 m -211 -115 l 212 -115 212 1 -211 1
 
-84
+85
 00:10:40,700 --> 00:10:45,860
 m -211 -415 l 412 -115 212 1 -211 1
 
-85
+86
 00:10:40,700 --> 00:10:45,860
 PLAZA
 GYONCORDE
 
-86
+87
 00:10:40,700 --> 00:10:45,860
 ISLA 
 GYOJIN
 
-87
+88
 00:10:40,700 --> 00:10:45,860
 ENTRADA 
 DE LA ISLA
 
-88
+89
 00:10:40,700 --> 00:10:45,860
 DEL DISTRITO 
 MOLINO DE AGUA
 A LA PLAZA
 GYONCORDE
 
-89
+90
 00:12:00,980 --> 00:12:01,910
 ¡Sí!
 
-90
+91
 00:12:03,060 --> 00:12:05,960
 Al noreste de la Isla Gyojin, en Gyoverly Hills.
 
-91
+92
 00:12:03,060 --> 00:12:05,960
 m -231 -245 l 1612 -445 312 2 -411 1
 
-92
+93
 00:12:03,060 --> 00:12:05,960
 m -211 -265 l 612 -115 212 1 -211 1
 
-93
+94
 00:12:03,060 --> 00:12:05,960
 m -211 -115 l 212 -115 212 1 -211 1
 
-94
+95
 00:12:03,060 --> 00:12:05,960
 m -211 -415 l 412 -115 212 1 -211 1
 
-95
+96
 00:12:03,060 --> 00:12:05,960
 PLAZA
 GYONCORDE
 
-96
+97
 00:12:03,060 --> 00:12:05,960
 ISLA 
 GYOJIN
 
-97
+98
 00:12:03,060 --> 00:12:05,960
 ENTRADA 
 DE LA ISLA
 
-98
+99
 00:12:03,060 --> 00:12:05,960
 GYOVERLY
 HILLS
 
-99
+100
 00:14:51,860 --> 00:14:54,430
 No me llamen Gran Caballero.
 
-100
+101
 00:14:54,430 --> 00:14:57,490
 Ni siquiera soy capaz de
  proteger a mi pueblo.
 
-101
+102
 00:14:57,490 --> 00:14:59,580
 ¡Vaya crueldad!
 
-102
+103
 00:15:02,180 --> 00:15:06,740
 Nos hacemos llamar el ejército real, 
 pero ni siquiera podemos proteger al rey.
 
-103
+104
 00:15:06,740 --> 00:15:08,820
 ¡¿Qué sentido tiene este ejército?!
 
-104
+105
 00:15:43,540 --> 00:15:45,940
 ¿Herido? ¡¿Nuestro capitán?!
 
-105
+106
 00:17:41,420 --> 00:17:43,100
 No eres mi tipo.
 
-106
+107
 00:18:09,500 --> 00:18:10,780
 ¡¿Sólo la parte de arriba?!
 
-107
+108
 00:21:35,980 --> 00:21:37,420
 Guardias míos...
 
-108
-00:22:21,060 --> 00:22:23,300
-Mola
-
 109
 00:22:21,060 --> 00:22:23,300
-Shi
+Mola
 
 110
 00:22:21,060 --> 00:22:23,300
-Chibukai
+Shi
 
 111
 00:22:21,060 --> 00:22:23,300
-Fansub!
+Chibukai
 
 112
 00:22:21,060 --> 00:22:23,300
-Disparo de agua.
+Fansub!
 
 113
+00:22:21,060 --> 00:22:23,300
+Disparo de agua.
+
+114
 00:22:58,820 --> 00:23:02,300
 BAHÍA DE LAS SIRENAS
 
-114
-00:25:55,500 --> 00:25:57,140
-Mola
-
 115
 00:25:55,500 --> 00:25:57,140
-Shi
+Mola
 
 116
 00:25:55,500 --> 00:25:57,140
-Chibukai
+Shi
 
 117
 00:25:55,500 --> 00:25:57,140
-Fansub!
+Chibukai
 
 118
 00:25:55,500 --> 00:25:57,140
-Combate sirena.
+Fansub!
 
 119
-00:25:57,580 --> 00:25:59,780
-Mola
+00:25:55,500 --> 00:25:57,140
+Combate sirena.
 
 120
 00:25:57,580 --> 00:25:59,780
-Shi
+Mola
 
 121
 00:25:57,580 --> 00:25:59,780
-Chibukai
+Shi
 
 122
 00:25:57,580 --> 00:25:59,780
-Fansub!
+Chibukai
 
 123
 00:25:57,580 --> 00:25:59,780
-Lanza de agua del tiempo.
+Fansub!
 
 124
-00:26:00,100 --> 00:26:02,420
-Mola
+00:25:57,580 --> 00:25:59,780
+Lanza de agua del tiempo.
 
 125
 00:26:00,100 --> 00:26:02,420
-Shi
+Mola
 
 126
 00:26:00,100 --> 00:26:02,420
-Chibukai
+Shi
 
 127
 00:26:00,100 --> 00:26:02,420
-Fansub!
+Chibukai
 
 128
 00:26:00,100 --> 00:26:02,420
-Todos los tesoros del mundo.
+Fansub!
 
 129
-00:26:02,820 --> 00:26:04,820
-Mola
+00:26:00,100 --> 00:26:02,420
+Todos los tesoros del mundo.
 
 130
 00:26:02,820 --> 00:26:04,820
-Shi
+Mola
 
 131
 00:26:02,820 --> 00:26:04,820
-Chibukai
+Shi
 
 132
 00:26:02,820 --> 00:26:04,820
-Fansub!
+Chibukai
 
 133
 00:26:02,820 --> 00:26:04,820
-Puerta del Palacio Ryugu.
+Fansub!
 
 134
+00:26:02,820 --> 00:26:04,820
+Puerta del Palacio Ryugu.
+
+135
 00:26:09,610 --> 00:26:15,620
 ¡V-Vencieron a las bestias marinas!
-

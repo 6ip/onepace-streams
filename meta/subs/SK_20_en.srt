@@ -1,1269 +1,1270 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:01:52,380 --> 00:01:54,340
 I-It's a snake!
 
-2
+3
 00:01:54,720 --> 00:01:55,800
 Could this be...?
 
-3
+4
 00:01:56,180 --> 00:01:58,430
 Hey, Kalgara! Look at this!
 
-4
+5
 00:02:00,060 --> 00:02:04,020
 What a surprise! That snake
 must have had a grandchild.
 
-5
+6
 00:02:04,650 --> 00:02:06,440
 "That snake"?
 
-6
+7
 00:02:08,520 --> 00:02:09,610
 Snake, huh?
 
-7
+8
 00:02:13,860 --> 00:02:16,950
 I don't get those two...
 
-8
+9
 00:02:16,950 --> 00:02:20,040
 They were trying to kill each other
 until just recently...
 
-9
+10
 00:02:20,040 --> 00:02:22,540
 but now, they're
 practically inseparable!
 
-10
+11
 00:02:22,540 --> 00:02:26,250
 Kalgara's not even that friendly
 with his fellow villagers.
 
-11
+12
 00:02:27,250 --> 00:02:29,750
 I've never seen him smile
 like this before...
 
-12
+13
 00:02:31,960 --> 00:02:33,970
 Just follow me.
 
-13
+14
 00:02:35,130 --> 00:02:36,970
 We'll climb down through here.
 
-14
+15
 00:02:36,970 --> 00:02:38,470
 Climb down?
 
-15
+16
 00:02:49,690 --> 00:02:51,530
 This ringing...
 
-16
+17
 00:02:52,530 --> 00:02:55,780
 Hey, Kalgara! Where is this
 beautiful ringing coming from?!
 
-17
+18
 00:02:55,780 --> 00:02:58,740
 Follow me and you'll see.
 
-18
+19
 00:03:36,450 --> 00:03:38,030
 They're here!
 
-19
+20
 00:03:38,030 --> 00:03:40,030
 Lost for words?
 
-20
+21
 00:03:40,030 --> 00:03:41,870
 This is Shandora, the City of Gold.
 
-21
+22
 00:03:41,870 --> 00:03:44,910
 We are what remains of its people.
 
-22
+23
 00:03:45,370 --> 00:03:47,370
 A city of gold...
 
-23
+24
 00:03:47,920 --> 00:03:50,880
 It's like I'm dreaming!
 
-24
+25
 00:03:51,290 --> 00:03:54,510
 Wh-Whoa! It's all gold!
 
-25
+26
 00:03:54,510 --> 00:03:58,180
 It's a city of treasure!
 
-26
+27
 00:03:58,180 --> 00:04:01,220
 H-Hey, guys! Come on!
 
-27
+28
 00:04:01,890 --> 00:04:03,220
 It's fine.
 
-28
+29
 00:04:03,220 --> 00:04:08,100
 Load your ship with all the treasure
 you want, aside from the golden bell!
 
-29
+30
 00:04:10,020 --> 00:04:12,650
 We villagers won't
 take no for an answer.
 
-30
+31
 00:04:12,650 --> 00:04:16,860
 We owe you for saving our tribe
 from that terrible disease.
 
-31
+32
 00:04:17,320 --> 00:04:18,610
 It's the least we can do.
 
-32
+33
 00:04:19,360 --> 00:04:21,240
 You're so generous, Great Warrior!
 
-33
+34
 00:04:21,240 --> 00:04:26,200
 But haven't your people been
 protecting the city all this time?
 
-34
+35
 00:04:26,200 --> 00:04:27,580
 Indeed.
 
-35
+36
 00:04:27,580 --> 00:04:31,380
 We've been protecting the city, but...
 
-36
+37
 00:04:31,380 --> 00:04:35,210
 to us, the gold holds little value!
 
-37
+38
 00:04:35,670 --> 00:04:38,090
 To be more specific...
 
-38
+39
 00:04:45,520 --> 00:04:47,520
 we were protecting this stone.
 
-39
+40
 00:04:49,230 --> 00:04:51,900
 What is this?
 
-40
+41
 00:04:51,900 --> 00:04:53,310
 Writing?
 
-41
+42
 00:04:53,310 --> 00:04:54,940
 A historical record.
 
-42
+43
 00:04:54,940 --> 00:04:57,690
 It's known as a poneglyph.
 
-43
+44
 00:04:57,690 --> 00:05:00,070
 Even we are unable to read it.
 
-44
+45
 00:05:00,070 --> 00:05:04,240
 You mean this wasn't written
 by your ancestors?
 
-45
+46
 00:05:04,740 --> 00:05:06,870
 We know one thing for certain:
 
-46
+47
 00:05:06,870 --> 00:05:12,830
 Shandora fell during a desperate
 battle to protect this stone.
 
-47
+48
 00:05:13,170 --> 00:05:17,420
 We must continue to protect it
 with the same resolve.
 
-48
+49
 00:05:17,420 --> 00:05:19,010
 As their descendants,
 
-49
+50
 00:05:19,010 --> 00:05:23,340
 we must protect the legacy for which
 our ancestors risked their lives.
 
-50
+51
 00:05:23,800 --> 00:05:27,810
 We revere our forefathers
 as we would gods.
 
-51
+52
 00:05:27,810 --> 00:05:33,860
 Who would've thought it was the ringing
 of such a massive golden bell...
 
-52
+53
 00:05:35,770 --> 00:05:38,690
 That ringing carries a message.
 
-53
+54
 00:05:38,690 --> 00:05:40,110
 A message?
 
-54
+55
 00:05:40,110 --> 00:05:44,030
 It's for our ancestors who
 were greeted by the heavens.
 
-55
+56
 00:05:44,030 --> 00:05:49,120
 So that they may always be guided
 back home to this land,
 
-56
+57
 00:05:49,120 --> 00:05:52,670
 we continue to ring this bell,
 as a way to say:
 
-57
+58
 00:05:52,670 --> 00:05:56,090
 "We are here."
 
-58
+59
 00:05:57,210 --> 00:06:02,510
 Its sound proclaims the undeniable
 glory of Shandora's past,
 
-59
+60
 00:06:02,510 --> 00:06:06,100
 and makes its existence known
 to the ends of the sea!
 
-60
+61
 00:06:06,100 --> 00:06:09,220
 We will never run or hide!
 
-61
+62
 00:06:10,100 --> 00:06:14,940
 That is why we call this city's
 grand bell the "Light of Shandora."
 
-62
+63
 00:06:15,480 --> 00:06:18,980
 A fitting name to match
 its majestic sound.
 
-63
+64
 00:06:18,980 --> 00:06:20,360
 Do you think so?!
 
-64
+65
 00:06:20,360 --> 00:06:21,440
 Yes!
 
-65
+66
 00:06:22,030 --> 00:06:26,660
 That day, the light embraced us
 and guided us here.
 
-66
+67
 00:06:28,490 --> 00:06:35,120
 In the middle of a deafening storm,
 I heard the ringing of this very bell.
 
-67
+68
 00:06:39,710 --> 00:06:43,340
 You like the sound
 of this bell too, huh?
 
-68
+69
 00:06:43,340 --> 00:06:47,890
 I wonder if you'll become
 a giant serpent too someday.
 
-69
+70
 00:06:52,810 --> 00:06:55,730
 Let's check back
 in a hundred years or so!
 
-70
+71
 00:06:58,270 --> 00:07:01,480
 Hey! Stay here as long
 as you like, Noland!
 
-71
+72
 00:07:01,980 --> 00:07:07,620
 Shandora has had no guests
 since its fall 400 years ago!
 
-72
+73
 00:07:07,620 --> 00:07:09,700
 Let me show you
 our finest hospitality!
 
-73
+74
 00:07:11,330 --> 00:07:13,080
 I appreciate it.
 
-74
+75
 00:07:13,080 --> 00:07:15,830
 I do want to collect plants
 from the forest,
 
-75
+76
 00:07:15,830 --> 00:07:18,920
 and I'd like to see this plague
 through to its end.
 
-76
+77
 00:07:18,920 --> 00:07:22,050
 Commodore! Commodore!
 
-77
+78
 00:07:22,050 --> 00:07:24,050
 Whoa now, what's with those outfits?
 
-78
+79
 00:07:24,050 --> 00:07:26,090
 Look, look! An eternal pose!
 
-79
+80
 00:07:26,090 --> 00:07:27,840
 And a map, Commodore! A map!
 
-80
+81
 00:07:28,890 --> 00:07:32,060
 We took these from intruders.
 
-81
+82
 00:07:32,600 --> 00:07:33,850
 Yeah.
 
-82
+83
 00:07:33,850 --> 00:07:36,810
 The skull shape is
 definitely this island.
 
-83
+84
 00:07:36,810 --> 00:07:41,570
 The name "Shandora" means
 "the skull's right eye,"
 
-84
+85
 00:07:41,570 --> 00:07:45,490
 which points to this city's location.
 
-85
+86
 00:07:47,200 --> 00:07:48,910
 Well, take care!
 
-86
+87
 00:07:48,910 --> 00:07:51,580
 Be sure she gets lots of rest!
 
-87
+88
 00:07:51,580 --> 00:07:53,910
 Thank you, Doctor!
 
-88
+89
 00:07:56,460 --> 00:07:58,290
 Hey! Come look, everyone!
 
-89
+90
 00:07:58,290 --> 00:08:01,540
 Noland said he'll give us
 some weird crops!
 
-90
+91
 00:08:01,540 --> 00:08:06,590
 There's a greenhouse on the ship
 with all sorts of plant specimens.
 
-91
+92
 00:08:06,590 --> 00:08:09,840
 I'll leave some seeds and sprouts
 that are suited for your soil.
 
-92
+93
 00:08:09,840 --> 00:08:11,850
 Does it taste good?
 
-93
+94
 00:08:11,850 --> 00:08:14,810
 Sure does! And it's rich in nutrients!
 
-94
+95
 00:09:15,450 --> 00:09:16,990
 All right!
 
-95
+96
 00:09:16,990 --> 00:09:18,910
 Let's work hard again today!
 
-96
+97
 00:09:19,290 --> 00:09:21,330
 Work hard doing what?
 
-97
+98
 00:09:21,330 --> 00:09:22,960
 Having a campfire party?!
 
-98
+99
 00:09:31,300 --> 00:09:32,640
 Why?!
 
-99
+100
 00:09:32,640 --> 00:09:35,350
 Why would the doctor
 and his friends do this?!
 
-100
+101
 00:09:40,060 --> 00:09:43,020
 Chief! Noland's crew is coming!
 
-101
+102
 00:09:43,900 --> 00:09:47,650
 Listen! Do not speak of last night!
 
-102
+103
 00:09:47,650 --> 00:09:50,740
 They said they're planning
 to set sail in a few days.
 
-103
+104
 00:09:51,110 --> 00:09:55,030
 Make absolutely sure
 not to do anything rash!
 
-104
+105
 00:09:55,410 --> 00:09:59,290
 I knew it... Our peoples can
 never see eye to eye!
 
-105
+106
 00:09:59,700 --> 00:10:04,380
 No matter how good his
 medicine is, he's still a godkiller!
 
-106
+107
 00:10:04,380 --> 00:10:08,800
 Do they think themselves so great
 that they can trample all over our history?!
 
-107
+108
 00:10:09,590 --> 00:10:14,180
 Suppress your feelings
 and quietly wait for them to leave!
 
-108
+109
 00:10:14,180 --> 00:10:15,510
 They're here!
 
-109
+110
 00:10:18,470 --> 00:10:19,970
 Hey, guys!
 
-110
+111
 00:10:19,970 --> 00:10:21,430
 Is Kalgara around?
 
-111
+112
 00:10:30,320 --> 00:10:34,490
 What's with the cold shoulder
 all of a sudden? Where's Kalgara?
 
-112
+113
 00:10:34,490 --> 00:10:37,870
 You guys are still outsiders!
 
-113
+114
 00:10:37,870 --> 00:10:41,370
 Kalgara said he doesn't want
 to see you anymore!
 
-114
+115
 00:10:41,370 --> 00:10:42,290
 Seto!
 
-115
+116
 00:10:45,120 --> 00:10:48,420
 Just when are you all
 going to leave, anyway?
 
-116
+117
 00:10:48,790 --> 00:10:49,630
 Huh?!
 
-117
+118
 00:10:50,710 --> 00:10:55,220
 They seem to hate us
 all of a sudden...
 
-118
+119
 00:10:55,220 --> 00:10:59,470
 Hey, what gives?! The way you're
 acting doesn't make sense!
 
-119
+120
 00:10:59,470 --> 00:11:00,470
 Stop.
 
-120
+121
 00:11:02,680 --> 00:11:05,640
 Let's just keep working.
 
-121
+122
 00:11:06,350 --> 00:11:09,060
 We're not done inspecting the forest.
 
-122
+123
 00:11:12,110 --> 00:11:14,150
 There you are, Kalgara!
 
-123
+124
 00:11:14,150 --> 00:11:15,860
 Noland was looking for you!
 
-124
+125
 00:11:15,860 --> 00:11:19,410
 Yeah. I don't want
 to see his face again.
 
-125
+126
 00:11:19,990 --> 00:11:24,500
 If I do, I might just kill him!
 
-126
+127
 00:11:30,880 --> 00:11:33,380
 The bell didn't ring today...
 
-127
+128
 00:11:33,380 --> 00:11:34,260
 Yeah.
 
-128
+129
 00:11:34,260 --> 00:11:38,220
 That hasn't happened in the month
 we've been here, has it?
 
-129
+130
 00:11:38,890 --> 00:11:40,300
 Commodore...
 
-130
+131
 00:11:40,300 --> 00:11:43,470
 We'll be finished inspecting
 the forest in two days.
 
-131
+132
 00:11:43,470 --> 00:11:44,930
 Y-Yes, sir...
 
-132
+133
 00:11:45,560 --> 00:11:50,440
 Tell the crew we set sail
 again in three days,
 
-133
+134
 00:11:50,440 --> 00:11:54,150
 so make sure to enjoy
 the solid ground while we can.
 
-134
+135
 00:11:54,740 --> 00:11:59,110
 Commodore, to be honest, it doesn't
 feel right to stay here any longer...
 
-135
+136
 00:11:59,110 --> 00:12:01,530
 We have to finish what we started!
 
-136
+137
 00:12:01,530 --> 00:12:02,530
 Rest up.
 
-137
+138
 00:12:04,910 --> 00:12:07,040
 Stay here, Noland!
 
-138
+139
 00:12:07,040 --> 00:12:11,040
 Oh! Why not take
 Mousse as your wife?
 
-139
+140
 00:12:11,040 --> 00:12:12,210
 Don't be silly!
 
-140
+141
 00:12:12,210 --> 00:12:15,420
 I have a family back home,
 including a child about her age.
 
-141
+142
 00:12:15,420 --> 00:12:16,550
 I have to go back.
 
-142
+143
 00:12:16,920 --> 00:12:20,390
 Kalgara said he doesn't want
 to see you anymore!
 
-143
+144
 00:12:21,550 --> 00:12:25,140
 Just when are you all
 going to leave, anyway?
 
-144
+145
 00:12:30,810 --> 00:12:33,070
 I know you're here, Kalgara!
 
-145
+146
 00:12:33,070 --> 00:12:34,570
 Show yourself!
 
-146
+147
 00:12:35,190 --> 00:12:38,200
 Don't you think I'm owed
 an explanation?!
 
-147
+148
 00:12:38,200 --> 00:12:39,820
 Out with it!
 
-148
+149
 00:12:39,820 --> 00:12:41,780
 I'm not a mind reader!
 
-149
+150
 00:12:42,410 --> 00:12:45,040
 We're setting sail soon!
 
-150
+151
 00:12:45,040 --> 00:12:47,620
 I don't want to part ways like this!
 
-151
+152
 00:13:00,760 --> 00:13:04,180
 Don't show your face
 around me again!
 
-152
+153
 00:13:04,180 --> 00:13:07,470
 Or must we part ways
 through death?!
 
-153
+154
 00:13:11,190 --> 00:13:12,650
 Kalgara!
 
-154
+155
 00:13:16,730 --> 00:13:19,610
 The commodore seems lonely...
 
-155
+156
 00:13:19,610 --> 00:13:20,900
 Yeah.
 
-156
+157
 00:13:20,900 --> 00:13:26,120
 And after making such a great friend
 so very far from home...
 
-157
+158
 00:13:27,790 --> 00:13:30,160
 None of this makes any sense!
 
-158
+159
 00:13:30,160 --> 00:13:34,170
 We set sail first thing
 tomorrow morning...
 
-159
+160
 00:13:34,170 --> 00:13:37,050
 The villagers are so bloodthirsty
 we can't go near 'em.
 
-160
+161
 00:13:37,050 --> 00:13:41,130
 Not to mention, the bell
 didn't ring today, either...
 
-161
+162
 00:13:43,890 --> 00:13:46,930
 Don't show your face
 around me again!
 
-162
+163
 00:13:46,930 --> 00:13:49,890
 Or must we part ways
 through death?!
 
-163
+164
 00:14:06,160 --> 00:14:11,000
 What a heartrending way to leave...
 
-164
+165
 00:14:11,000 --> 00:14:11,960
 Um...
 
-165
+166
 00:14:16,540 --> 00:14:17,630
 Doctor...
 
-166
+167
 00:14:18,170 --> 00:14:19,670
 Mousse?!
 
-167
+168
 00:14:19,670 --> 00:14:22,260
 Do you have a minute?
 
-168
+169
 00:14:26,930 --> 00:14:30,220
 What kind of botanist would do this?!
 
-169
+170
 00:14:36,150 --> 00:14:37,770
 Noland!
 
-170
+171
 00:14:38,190 --> 00:14:42,150
 If these are the victims
 of your so-called "progress,"
 
-171
+172
 00:14:42,150 --> 00:14:46,570
 then we should never
 have accepted you!
 
-172
+173
 00:14:49,910 --> 00:14:51,290
 Ancestral trees?
 
-173
+174
 00:14:52,120 --> 00:14:53,160
 Yes.
 
-174
+175
 00:14:54,330 --> 00:14:58,630
 It's said that the spirits of our
 ancestors who died on this island
 
-175
+176
 00:14:58,630 --> 00:15:02,340
 dwell within them, guided there
 by the sound of the bell.
 
-176
+177
 00:15:02,340 --> 00:15:06,720
 Our ancestors have lived here
 since the age of Shandora long ago.
 
-177
+178
 00:15:06,720 --> 00:15:13,680
 Each one of them watches over us
 from those sacred white trees.
 
-178
+179
 00:15:20,150 --> 00:15:24,030
 To us Shandians,
 the ancestral trees are so precious
 
-179
+180
 00:15:24,360 --> 00:15:31,870
 that we've protected them
 as we would our own lives!
 
-180
+181
 00:15:31,870 --> 00:15:34,870
 And we went and
 chopped them all down...
 
-181
+182
 00:15:36,250 --> 00:15:40,960
 The warriors were so angry
 they were immediately up in arms...
 
-182
+183
 00:15:40,960 --> 00:15:43,090
 Drive them from the island!
 
-183
+184
 00:15:43,090 --> 00:15:44,420
 – Yeah!
 – Yeah!
 
-184
+185
 00:15:46,760 --> 00:15:53,140
 ...but we owed you for saving
 so many villagers' lives...
 
-185
+186
 00:15:53,140 --> 00:15:55,020
 I see.
 
-186
+187
 00:15:56,100 --> 00:15:59,100
 So they were just
 holding back their anger...
 
-187
+188
 00:15:59,980 --> 00:16:02,570
 Even if it was for your research...
 
-188
+189
 00:16:03,320 --> 00:16:04,780
 even if you didn't know...
 
-189
+190
 00:16:05,490 --> 00:16:09,110
 the village's anger will never subside.
 
-190
+191
 00:16:09,110 --> 00:16:12,280
 So, I thought I would at least
 ask before you left...
 
-191
+192
 00:16:14,500 --> 00:16:16,710
 Why did you do it?
 
-192
+193
 00:16:18,830 --> 00:16:20,580
 Hey! Someone help with this!
 
-193
+194
 00:16:20,580 --> 00:16:21,960
 Get it all on board now!
 
-194
+195
 00:16:21,960 --> 00:16:24,550
 Make sure to tie them up properly!
 
-195
+196
 00:16:19,960 --> 00:16:23,170
 Trees where the spirits
 of their ancestors dwell...
 
-196
+197
 00:16:23,170 --> 00:16:25,340
 I had no idea.
 
-197
+198
 00:16:25,340 --> 00:16:28,180
 We can never take back
 what we've done here.
 
-198
+199
 00:16:28,550 --> 00:16:31,010
 The villagers are right to be angry.
 
-199
+200
 00:16:31,010 --> 00:16:32,140
 But, Commodore!
 
-200
+201
 00:16:32,140 --> 00:16:33,220
 We had no choice, given–
 
-201
+202
 00:16:33,220 --> 00:16:35,140
 There's no excusing it!
 
-202
+203
 00:16:35,890 --> 00:16:38,980
 I only cared to satisfy
 my own conscience...
 
-203
+204
 00:16:39,560 --> 00:16:41,690
 I was told...
 
-204
+205
 00:16:41,690 --> 00:16:44,940
 that aside from proclaiming
 the city's existence,
 
-205
+206
 00:16:44,940 --> 00:16:49,200
 that bell also served to guide the
 spirits of their ancestors back to the island.
 
-206
+207
 00:16:49,820 --> 00:16:54,620
 And we cut down the very
 trees that housed them!
 
-207
+208
 00:16:55,120 --> 00:16:57,040
 They have no reason to forgive us!
 
-208
+209
 00:16:57,620 --> 00:17:00,080
 Commodore...
 
-209
+210
 00:17:02,460 --> 00:17:04,420
 Listen up, everyone!
 
-210
+211
 00:17:04,420 --> 00:17:06,260
 – Huh?!
 – Huh?!
 
-211
+212
 00:17:06,260 --> 00:17:09,220
 – You want us to leave all the gold?!
 – You want us to leave all the gold?!
 
-212
+213
 00:17:10,720 --> 00:17:14,140
 Noland and his men
 are preparing to set sail.
 
-213
+214
 00:17:24,610 --> 00:17:27,230
 Mousse! Where were you?!
 
-214
+215
 00:17:29,780 --> 00:17:30,740
 What if...
 
-215
+216
 00:17:31,610 --> 00:17:35,200
 What if you knew that
 a single, precious tree...
 
-216
+217
 00:17:35,700 --> 00:17:38,160
 was tainted with a deadly poison...
 
-217
+218
 00:17:38,910 --> 00:17:42,830
 and that this poison would eventually
 spread throughout the forest,
 
-218
+219
 00:17:43,330 --> 00:17:46,300
 then to its people,
 killing the entire island?
 
-219
+220
 00:17:46,300 --> 00:17:49,050
 What if you knew beforehand?!
 
-220
+221
 00:17:49,340 --> 00:17:50,920
 What are you saying?
 
-221
+222
 00:17:50,920 --> 00:17:52,380
 What are you talking about?!
 
-222
+223
 00:17:52,380 --> 00:17:54,050
 If it was us...
 
-223
+224
 00:17:55,430 --> 00:17:57,760
 what would we do...
 
-224
+225
 00:17:59,560 --> 00:18:01,440
 with that single, precious tree?!
 
-225
+226
 00:18:03,560 --> 00:18:06,820
 Papa, hurry and stop them!
 
-226
+227
 00:18:06,820 --> 00:18:09,690
 Don't be a fool!
 You know what they've done!
 
-227
+228
 00:18:09,690 --> 00:18:13,030
 If we leave things like this,
 we'll regret it for the rest of our lives!
 
-228
+229
 00:18:13,030 --> 00:18:15,990
 You finally made such a dear friend,
 
-229
+230
 00:18:15,990 --> 00:18:18,450
 and we Shandians owe them so much!
 
-230
+231
 00:18:18,450 --> 00:18:20,910
 Let them go, and their pain
 will never heal!
 
-231
+232
 00:18:21,410 --> 00:18:23,120
 What are you talking about?!
 
-232
+233
 00:18:23,750 --> 00:18:25,790
 It'll probably sound like an excuse...
 
-233
+234
 00:18:26,380 --> 00:18:30,210
 but for the commodore's honor,
 I'll tell you anyway.
 
-234
+235
 00:18:30,210 --> 00:18:33,470
 Those woods of yours
 were already dead.
 
-235
+236
 00:18:33,470 --> 00:18:34,470
 Huh?!
 
-236
+237
 00:18:35,090 --> 00:18:37,930
 The true horror of a
 tree fever outbreak...
 
-237
+238
 00:18:38,560 --> 00:18:42,390
 is that it also infects plant life.
 
-238
+239
 00:18:43,020 --> 00:18:45,230
 It was because he knew this
 
-239
+240
 00:18:45,230 --> 00:18:48,980
 that the commodore risked
 his own life to plead with you.
 
-240
+241
 00:18:50,360 --> 00:18:53,150
 From people to forest,
 from forest to people...
 
-241
+242
 00:18:53,150 --> 00:18:58,410
 That is precisely how it
 devastates small islands.
 
-242
+243
 00:19:00,410 --> 00:19:02,790
 But there's nothing
 to worry about now.
 
-243
+244
 00:19:02,790 --> 00:19:06,710
 We finished checking
 the entire forest yesterday.
 
-244
+245
 00:19:06,710 --> 00:19:09,880
 I'm sorry, we had no idea
 the trees we cut down were precious,
 
-245
+246
 00:19:09,880 --> 00:19:11,960
 but we still should have explained.
 
-246
+247
 00:19:12,460 --> 00:19:16,090
 Well, I don't expect you to forgive us,
 even with an explanation...
 
-247
+248
 00:19:16,090 --> 00:19:20,470
 but a botanist would never harm
 a forest without good reason.
 
-248
+249
 00:19:20,930 --> 00:19:24,690
 It's not that the commodore
 hates gods or spirits...
 
-249
+250
 00:19:28,900 --> 00:19:31,860
 it's just that he always knows...
 
-250
+251
 00:19:31,860 --> 00:19:33,610
 what's most important.
 
-251
+252
 00:19:34,820 --> 00:19:38,870
 That means... they did it for us?
 
-252
+253
 00:19:43,950 --> 00:19:44,960
 Papa!
 
-253
+254
 00:19:47,620 --> 00:19:49,420
 I'm sorry, Noland!
 
-254
+255
 00:19:50,040 --> 00:19:52,170
 Don't go yet!
 
-255
+256
 00:19:53,050 --> 00:19:54,880
 Everyone have everything?
 
-256
+257
 00:19:55,760 --> 00:19:57,340
 Not everything...
 
-257
+258
 00:19:57,340 --> 00:19:59,340
 Quit mopin'! Forget about it!
 
-258
+259
 00:19:59,850 --> 00:20:01,430
 Alright! It's time to go!
 
-259
+260
 00:20:01,430 --> 00:20:02,890
 Positions, everyone!
 
-260
+261
 00:20:02,890 --> 00:20:05,810
 We're heading home to
 the Kingdom of Lvneel!
 
-261
+262
 00:20:05,810 --> 00:20:08,150
 – Aye, aye!
 – Aye, aye!
 
-262
+263
 00:20:08,150 --> 00:20:10,610
 Noland!
 
-263
+264
 00:20:11,310 --> 00:20:13,980
 I've committed a grave sin!
 
-264
+265
 00:20:13,980 --> 00:20:17,570
 Wait! Noland!
 
-265
+266
 00:20:19,530 --> 00:20:22,240
 Set sail!
 
-266
+267
 00:20:30,210 --> 00:20:31,500
 Why...
 
-267
+268
 00:20:32,340 --> 00:20:33,920
 is the bell ringing?
 
-268
+269
 00:20:34,840 --> 00:20:36,800
 Ring it!
 
-269
+270
 00:20:37,130 --> 00:20:39,590
 We're sorry, Noland!
 
-270
+271
 00:20:39,590 --> 00:20:41,140
 Louder!
 
-271
+272
 00:20:41,140 --> 00:20:43,140
 Make sure Noland's crew can hear it!
 
-272
+273
 00:20:46,220 --> 00:20:47,560
 Commodore! Look!
 
-273
+274
 00:20:57,360 --> 00:21:01,030
 Noland!
 
-274
+275
 00:21:01,450 --> 00:21:03,240
 Kalgara...
 
-275
+276
 00:21:17,840 --> 00:21:22,930
 Come back again!
 
-276
+277
 00:21:24,050 --> 00:21:25,890
 Noland...
 
-277
+278
 00:21:25,890 --> 00:21:29,350
 I'll be waiting right here for you!
 
-278
+279
 00:21:30,520 --> 00:21:33,560
 I'll keep ringing the bell for you!
 
-279
+280
 00:21:33,980 --> 00:21:38,990
 So that your ship won't get
 lost at sea when you return...
 
-280
+281
 00:21:38,990 --> 00:21:42,990
 So that you won't lose sight
 of this island during a storm...
 
-281
+282
 00:21:42,990 --> 00:21:47,330
 I'll ring the bell and wait for you!
 
-282
+283
 00:21:56,630 --> 00:22:02,760
 Let's make sure to meet again
 someday... my precious friend!
 
-283
+284
 00:22:05,220 --> 00:22:06,510
 I can...
 
-284
+285
 00:22:07,220 --> 00:22:09,720
 come back again?
 
-285
+286
 00:22:12,940 --> 00:22:15,520
 Of course I'll come back!
 
-286
+287
 00:22:15,520 --> 00:22:17,070
 I will!
 
-287
+288
 00:22:20,860 --> 00:22:25,660
 Let's meet again someday for sure!
-
-288
-00:09:25,960 --> 00:09:30,420
-One Month After Landfall
 
 289
 00:09:25,960 --> 00:09:30,420
@@ -1273,3 +1274,6 @@ One Month After Landfall
 00:09:25,960 --> 00:09:30,420
 One Month After Landfall
 
+291
+00:09:25,960 --> 00:09:30,420
+One Month After Landfall

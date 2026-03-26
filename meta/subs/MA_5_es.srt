@@ -1,420 +1,424 @@
 1
+00:00:00,000 --> 00:00:03,000
+{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
+Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
+
+2
 00:00:24,770 --> 00:00:30,370
 Cada vez que miro hacia el cielo tras la lluvia,
 
-2
+3
 00:00:30,370 --> 00:00:35,780
 me acuerdo de la época en la que no era más que un bebé llorón.
 
-3
+4
 00:00:35,780 --> 00:00:43,530
 Seguía desesperadamente los pasos de alguien,
 
-4
+5
 00:00:43,530 --> 00:00:46,460
 mientras pensaba "quiero ser más fuerte".
 
-5
+6
 00:00:46,460 --> 00:00:51,800
 Ahora que mis "gracias" se perdieron en el viento,
 
-6
+7
 00:00:51,800 --> 00:00:56,720
 ¿podré hacerme más fuerte?
 
-7
+8
 00:00:56,720 --> 00:01:02,440
 Parece que aún no podré encontrar la respuesta,
 
-8
+9
 00:01:02,440 --> 00:01:08,030
 así que seguiré andando hacia adelante.
 
-9
+10
 00:01:08,030 --> 00:01:10,430
 Vamos, en marcha.
 
-10
+11
 00:01:10,430 --> 00:01:13,690
 Nunca nos detendremos.
 
-11
+12
 00:01:13,690 --> 00:01:19,140
 No perderemos contra el paso del tiempo.
 
-12
+13
 00:01:19,140 --> 00:01:24,630
 Seguiremos levantándonos, una y otra vez;
 
-13
+14
 00:01:24,630 --> 00:01:30,490
 porque no queremos perder aquello que nos importa.
 
-14
+15
 00:01:30,490 --> 00:01:35,360
 Puedo oír una voz en mi cabeza,
 
-15
+16
 00:01:35,360 --> 00:01:40,730
 que siempre, siempre me anima a avanzar.
 
-16
+17
 00:01:40,730 --> 00:01:45,970
 Incluso si la inoportuna lluvia se pone en mi camino,
 
-17
+18
 00:01:45,970 --> 00:01:50,820
 no intentaré escapar.
 
-18
+19
 00:01:50,820 --> 00:01:53,820
 Oh.
 
-19
+20
 00:01:53,820 --> 00:01:56,180
 Vamos, en marcha.
 
-20
+21
 00:01:56,180 --> 00:01:59,510
 Nunca nos detendremos.
 
-21
+22
 00:01:59,510 --> 00:02:05,010
 No perderemos contra el paso del tiempo.
 
-22
+23
 00:02:05,010 --> 00:02:10,530
 Seguiremos levantándonos, una y otra vez;
 
-23
+24
 00:02:10,530 --> 00:02:16,110
 porque no queremos perder aquello que nos importa.
 
-24
+25
 00:02:16,110 --> 00:02:21,630
 Avancemos hacia ese futuro en el que creímos...
 
-25
+26
 00:02:41,460 --> 00:02:44,540
 ¿Por qué Luffy y los demás caen del cielo?
 
-26
+27
 00:02:44,540 --> 00:02:50,020
 Para responder a eso, debemos retroceder un poco en el tiempo.
 
-27
+28
 00:03:05,400 --> 00:03:06,160
 ¿Qué fue eso?
 
-28
+29
 00:03:06,520 --> 00:03:08,300
 ¡La ola se detuvo!
 
-29
+30
 00:03:08,300 --> 00:03:10,540
 ¡¿Qué sucedió?!
 
-30
+31
 00:03:11,310 --> 00:03:12,570
 ¡¿Qué demonios es esto?!
 
-31
+32
 00:03:12,570 --> 00:03:15,770
 ¡Estamos atrapados en el hielo!
 
-32
+33
 00:03:15,770 --> 00:03:18,030
 ¡Ahora no podemos movernos!
 
-33
+34
 00:03:19,080 --> 00:03:21,480
 El único capaz de hacer esto es...
 
-34
+35
 00:03:23,910 --> 00:03:26,300
 Miren abajo.
 
-35
+36
 00:03:26,300 --> 00:03:28,100
 Ahí está la respuesta.
 
-36
+37
 00:03:29,920 --> 00:03:30,950
 Viejo...
 
-37
+38
 00:03:30,950 --> 00:03:33,020
 ¡Ya comenzó la batalla!
 
-38
+39
 00:03:33,600 --> 00:03:35,260
 ¡Escuchen!
 
-39
+40
 00:03:35,260 --> 00:03:38,140
 ¡Tengo una idea para salir de esto!
 
-40
+41
 00:03:38,140 --> 00:03:40,340
 ¡Ya estamos cerca, pero debemos apresurarnos!
 
-41
+42
 00:03:40,340 --> 00:03:43,770
 ¡Apenas quedan tres horas para la ejecución de Ace!
 
-42
+43
 00:03:43,770 --> 00:03:45,220
 Sí, ¿y?
 
-43
+44
 00:03:45,420 --> 00:03:46,840
 ¡¿Qué?!
 
-44
+45
 00:03:47,300 --> 00:03:50,780
 ¿Quieres que nos deslicemos hacia abajo?
 
-45
+46
 00:03:51,120 --> 00:03:52,560
 ¡Es la única opción!
 
-46
+47
 00:03:52,560 --> 00:03:55,610
 ¡Primero tenemos que liberar el barco del hielo!
 
-47
+48
 00:03:55,610 --> 00:03:56,770
 ¡¿Acaso eres idiota?!
 
-48
+49
 00:03:56,770 --> 00:03:59,560
 ¡Es un barco de guerra! ¡No se moverá tan fácilmente!
 
-49
+50
 00:03:59,560 --> 00:04:01,020
 ¡Es cierto, idiota!
 
-50
+51
 00:04:01,640 --> 00:04:05,290
 ¡Si trabajamos juntos, podremos hacerlo!
 
-51
+52
 00:04:05,880 --> 00:04:08,360
 Empiezo a sentir que podemos hacerlo...
 
-52
+53
 00:04:08,360 --> 00:04:09,520
 ¡Es cierto!
 
-53
+54
 00:04:09,520 --> 00:04:13,520
 ¡Tenemos de nuestro lado al Capitán Buggy, el hombre que conquistará el mundo entero!
 
-54
+55
 00:04:13,560 --> 00:04:17,350
 ¡Si el capitán dice que podemos, entonces, lo lograremos!
 
-55
+56
 00:04:21,350 --> 00:04:23,220
 Llamando a todos los barcos y tropas.
 
-56
+57
 00:04:23,220 --> 00:04:25,740
 Nuestro objetivo es el sitio T-O-T-T-Z.
 
-57
+58
 00:04:25,740 --> 00:04:28,850
 Cambiamos de formación y comenzamos la Operación Tres.
 
-58
+59
 00:04:28,850 --> 00:04:31,360
 Es una transmisión con los planes de la Marina...
 
-59
+60
 00:04:31,360 --> 00:04:32,880
 Apresúrense con los preparativos.
 
-60
+61
 00:04:32,880 --> 00:04:35,690
 T-O-T... ¿Qué fue eso?
 
-61
+62
 00:04:35,690 --> 00:04:38,160
 No lo sé... quizás sea un código.
 
-62
+63
 00:04:38,540 --> 00:04:43,370
 ¡Según lo acordado, adelantaremos la ejecución de Ace!
 
-63
+64
 00:04:43,370 --> 00:04:44,660
 ¡Es todo!
 
-64
+65
 00:04:48,120 --> 00:04:49,280
 Luffy-kun...
 
-65
+66
 00:04:49,280 --> 00:04:50,500
 ¡Deprisa!
 
-66
+67
 00:04:50,500 --> 00:04:52,350
 ¡Ya no podemos esperar más!
 
-67
+68
 00:04:52,350 --> 00:04:54,180
 ¡No hay tiempo para discusiones!
 
-68
+69
 00:04:54,180 --> 00:04:57,180
 ¡Chicos! ¡Sigan la idea del Sombrero de Paja!
-
-69
-00:05:00,580 --> 00:05:02,450
-¡Vamos!
 
 70
 00:05:00,580 --> 00:05:02,450
 ¡Vamos!
 
 71
-00:05:08,480 --> 00:05:09,520
-¡O-Oigan!
+00:05:00,580 --> 00:05:02,450
+¡Vamos!
 
 72
-00:05:10,710 --> 00:05:13,620
-¡Era al otro lado!
+00:05:08,480 --> 00:05:09,520
+¡O-Oigan!
 
 73
 00:05:10,710 --> 00:05:13,620
 ¡Era al otro lado!
 
 74
+00:05:10,710 --> 00:05:13,620
+¡Era al otro lado!
+
+75
 00:05:16,790 --> 00:05:20,980
 Eso nos lleva de vuelta al presente, 
 donde Luffy y los demás están cayendo.
 
-75
+76
 00:06:23,620 --> 00:06:26,770
 Estos usuarios de las habilidades no tienen remedio...
 
-76
+77
 00:10:50,660 --> 00:10:55,630
 Así que tomaste precauciones para enfrentarme, ¿eh?
 
-77
+78
 00:10:55,630 --> 00:11:00,250
 ¡Cuando estás mojado, 
 no puedes convertirte en arena!
 
-78
+79
 00:11:43,400 --> 00:11:50,950
 Cuando un hombre como tú vuelve del East Blue sin un brazo, cualquiera se sorprende.
 
-79
+80
 00:11:51,670 --> 00:11:54,680
 ¿Contra qué clase de enemigo perdiste...
 
-80
+81
 00:11:54,680 --> 00:11:56,430
 ...tu brazo izquierdo?
 
-81
+82
 00:12:00,110 --> 00:12:02,890
 Lo aposté...
 
-82
+83
 00:12:02,890 --> 00:12:03,870
 ...a la nueva era.
 
-83
+84
 00:12:18,750 --> 00:12:23,120
 ¡Mira esto, viejo! ¡Este es mi hermano menor!
 
-84
+85
 00:17:29,360 --> 00:17:31,360
 Mola
 
-85
+86
 00:17:29,360 --> 00:17:31,360
 Shi
 
-86
+87
 00:17:29,360 --> 00:17:31,360
 Chibukai
 
-87
+88
 00:17:29,360 --> 00:17:31,360
 Fansub!
 
-88
+89
 00:17:29,360 --> 00:17:31,360
 Estética rotatoria.
 
-89
+90
 00:17:39,200 --> 00:17:40,820
 ¡Es terrible!
 
-90
+91
 00:17:40,820 --> 00:17:43,470
 No me importa que seas un Shichibukai,
 
-91
+92
 00:17:43,470 --> 00:17:48,480
 pero ¿cómo me atacas con un láser 
 después de todo por lo que hemos pasado?
 
-92
+93
 00:19:08,800 --> 00:19:10,200
 Mola
 
-93
+94
 00:19:08,800 --> 00:19:10,200
 Shi
 
-94
+95
 00:19:08,800 --> 00:19:10,200
 Chibukai
 
-95
+96
 00:19:08,800 --> 00:19:10,200
 Fansub!
 
-96
+97
 00:19:08,800 --> 00:19:10,200
 Jaula envolvente.
 
-97
+98
 00:22:51,670 --> 00:22:53,980
 Por favor, Luffy...
 
-98
+99
 00:22:53,980 --> 00:22:57,550
 ¡No quiero llevarte conmigo!
 
-99
+100
 00:22:58,280 --> 00:23:01,620
 Esta situación es culpa mía.
 
-100
+101
 00:23:14,640 --> 00:23:16,040
 ¿Lo sabías?
 
-101
+102
 00:23:16,570 --> 00:23:20,160
 Por lo visto, si bebemos juntos,
  nos convertimos en hermanos.
 
-102
+103
 00:23:21,950 --> 00:23:25,400
 ¡A partir de hoy, seremos hermanos!
 
-103
+104
 00:25:07,610 --> 00:25:10,750
 Saber que eres hijo de un demonio me hace...
 
-104
+105
 00:25:18,080 --> 00:25:19,200
 ¡Maldito!
-
