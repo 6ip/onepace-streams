@@ -1,0 +1,803 @@
+1
+00:00:00,000 --> 00:00:09,990
+Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
+Los subtítulos podrían no funcionar apropiadamente por lo mismo.
+Por favor, use uno de los reproductores recomendados, idealmente mpv:
+https://mpv.io
+
+2
+00:02:25,660 --> 00:02:35,710
+Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
+Los subtítulos podrían no funcionar apropiadamente por lo mismo.
+Por favor, use uno de los reproductores recomendados, idealmente mpv:
+https://mpv.io
+
+3
+00:00:00,260 --> 00:00:05,110
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+4
+00:00:05,180 --> 00:00:08,750
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+5
+00:00:08,860 --> 00:00:12,320
+¡Ya hemos superado muchos obstáculos!
+
+6
+00:00:12,400 --> 00:00:17,730
+¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
+
+7
+00:00:23,370 --> 00:00:30,690
+"Ya casi lo logro, un poco más y consigo la respuesta".
+
+8
+00:00:30,780 --> 00:00:38,390
+Eso es lo que creemos al adentrarnos en este nuevo mundo.
+
+9
+00:00:38,450 --> 00:00:45,910
+Resulta que los fragmentos de nuestros sueños se han fundido en uno.
+
+10
+00:00:45,960 --> 00:00:53,950
+¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
+
+11
+00:00:54,080 --> 00:00:58,590
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+12
+00:00:58,670 --> 00:01:02,460
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+13
+00:01:02,460 --> 00:01:05,810
+¡Ya hemos superado muchos obstáculos!
+
+14
+00:01:05,880 --> 00:01:09,850
+¡No nos detengamos, sigamos adelante!
+
+15
+00:01:09,900 --> 00:01:11,350
+¡Miren más arriba!
+
+16
+00:01:11,350 --> 00:01:13,530
+¡Con la cabeza bien en alto!
+
+17
+00:01:13,590 --> 00:01:15,000
+¡Siempre avanzando!
+
+18
+00:01:15,050 --> 00:01:16,880
+¡Volemos por encima de las olas!
+
+19
+00:01:16,930 --> 00:01:20,470
+Unamos todos nuestros deseos en uno solo.
+
+20
+00:01:20,500 --> 00:01:24,700
+¡Dirijámonos al futuro!
+
+21
+00:01:24,980 --> 00:01:31,090
+Avanzamos sin rumbo, surcando las olas.
+
+22
+00:01:31,140 --> 00:01:35,330
+Encuentros, despedidas, una y otra vez.
+
+23
+00:01:35,390 --> 00:01:39,600
+Siempre ante esta bandera...
+
+24
+00:01:41,330 --> 00:01:44,710
+El dolor que no quiero olvidar lo guardo en mi corazón...
+
+25
+00:01:44,780 --> 00:01:48,240
+...desde aquel día en que lo grabé en mi interior.
+
+26
+00:01:48,320 --> 00:01:51,890
+¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
+
+27
+00:01:51,930 --> 00:01:54,780
+...y jamás se me escapará!
+
+28
+00:01:54,820 --> 00:01:59,730
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+29
+00:01:59,780 --> 00:02:03,410
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+30
+00:02:03,460 --> 00:02:06,700
+¡Ya hemos superado muchos obstáculos!
+
+31
+00:02:06,730 --> 00:02:10,850
+¡No nos detengamos, sigamos adelante!
+
+32
+00:02:10,910 --> 00:02:12,240
+¡Miren más arriba!
+
+33
+00:02:12,300 --> 00:02:14,550
+¡Con la cabeza bien en alto!
+
+34
+00:02:14,590 --> 00:02:15,930
+¡Siempre avanzando!
+
+35
+00:02:15,980 --> 00:02:17,770
+¡Volemos por encima de las olas!
+
+36
+00:02:17,820 --> 00:02:21,470
+Unamos todos nuestros deseos en uno solo.
+
+37
+00:02:21,580 --> 00:02:25,020
+¡Dirijámonos al futuro!
+
+38
+00:02:25,060 --> 00:02:29,870
+¡Levanten las manos!
+
+39
+00:03:28,770 --> 00:03:32,890
+...debemos centrarnos en que Nami-san, Robin-chan y Tashigi-chan nos alaben...
+
+40
+00:03:34,820 --> 00:03:36,450
+¡Sí!
+
+41
+00:03:38,120 --> 00:03:42,470
+BISCUITS ROOM
+
+42
+00:03:38,120 --> 00:03:42,470
+FRENTE A LA SALIDA
+
+43
+00:04:08,660 --> 00:04:09,740
+¡¿Por qué no me mataste?!
+
+44
+00:04:10,830 --> 00:04:14,280
+¡¿Es porque soy mujer?!
+
+45
+00:04:14,280 --> 00:04:17,140
+¡No soporto que existas!
+
+46
+00:04:18,380 --> 00:04:21,060
+¡Escucha! ¡Tu cara...
+
+47
+00:04:21,060 --> 00:04:24,250
+...es idéntica a la de mi amiga 
+que murió hace mucho tiempo!
+
+48
+00:04:24,250 --> 00:04:28,690
+¡Hasta dices las mismas cosas que ella decía!
+
+49
+00:04:28,690 --> 00:04:31,990
+¡Deja de imitarla, farsante!
+
+50
+00:04:32,790 --> 00:04:34,930
+¡Pero qué infantil eres!
+
+51
+00:06:05,530 --> 00:06:07,600
+Mola
+
+52
+00:06:05,530 --> 00:06:07,600
+Shi
+
+53
+00:06:05,530 --> 00:06:07,600
+Chibukai
+
+54
+00:06:05,530 --> 00:06:07,600
+Fansub!
+
+55
+00:06:05,530 --> 00:06:07,600
+Conejos de nieve.
+
+56
+00:06:16,430 --> 00:06:19,480
+Mola
+
+57
+00:06:16,430 --> 00:06:19,480
+Shi
+
+58
+00:06:16,430 --> 00:06:19,480
+Chibukai
+
+59
+00:06:16,430 --> 00:06:19,480
+Fansub!
+
+60
+00:06:16,430 --> 00:06:19,480
+Ventisca.
+
+61
+00:06:41,690 --> 00:06:44,330
+¡¿Qué le ha pasado a mi hombro?!
+
+62
+00:06:52,670 --> 00:06:55,230
+Si la suelto, me arrancará el hombro.
+
+63
+00:07:18,570 --> 00:07:22,170
+¿No se supone que no
+ atacabas a las mujeres?
+
+64
+00:07:22,170 --> 00:07:26,650
+¡Ese corte tenía la intención de matarme!
+
+65
+00:08:01,860 --> 00:08:04,460
+¡Mi cuerpo no responde!
+
+66
+00:08:06,520 --> 00:08:07,770
+¡Me va a matar!
+
+67
+00:08:13,290 --> 00:08:17,310
+Mola
+
+68
+00:08:13,290 --> 00:08:17,310
+Shi
+
+69
+00:08:13,290 --> 00:08:17,310
+Chibukai
+
+70
+00:08:13,290 --> 00:08:17,310
+Fansub!
+
+71
+00:08:13,290 --> 00:08:17,310
+Gran sacudida del dragón.
+
+72
+00:08:26,600 --> 00:08:28,400
+¡La ha matado!
+
+73
+00:09:04,180 --> 00:09:07,430
+No le responde el cuerpo.
+
+74
+00:09:07,430 --> 00:09:13,520
+Le invade el miedo porque sabe que
+ habría muerto de haber usado Haki.
+
+75
+00:09:14,090 --> 00:09:16,470
+Nunca había visto que alguien
+ ganara de esta manera.
+
+76
+00:09:16,540 --> 00:09:23,200
+¿Qué han estado haciendo los Sombrero de Paja
+ durante los dos años que estuvieron desaparecidos?
+
+77
+00:09:23,200 --> 00:09:27,180
+¿Qué tan fuertes se habrán vuelto?
+
+78
+00:09:30,530 --> 00:09:33,190
+Mola
+
+79
+00:09:30,530 --> 00:09:33,190
+Shi
+
+80
+00:09:30,530 --> 00:09:33,190
+Chibukai
+
+81
+00:09:30,530 --> 00:09:33,190
+Fansub!
+
+82
+00:09:30,530 --> 00:09:33,190
+Lluvia de cortes de otoño.
+
+83
+00:10:37,060 --> 00:10:40,740
+¡Mocha! ¡Danos los caramelos!
+
+84
+00:11:04,420 --> 00:11:06,220
+¡Danos los caramelos!
+
+85
+00:11:09,150 --> 00:11:12,010
+Mola
+
+86
+00:11:09,150 --> 00:11:12,010
+Shi
+
+87
+00:11:09,150 --> 00:11:12,010
+Chibukai
+
+88
+00:11:09,150 --> 00:11:12,010
+Fansub!
+
+89
+00:11:09,150 --> 00:11:12,010
+Bola láctea.
+
+90
+00:11:30,350 --> 00:11:33,070
+BISCUITS ROOM
+
+91
+00:11:30,350 --> 00:11:33,070
+GANADOR: ZORO
+10 MINUTOS HASTA QUE SHINOKUNI LLENE LA TORRE B
+
+92
+00:13:00,690 --> 00:13:01,870
+Chopper-chan...
+
+93
+00:13:03,450 --> 00:13:06,030
+¡Todos ellos...
+
+94
+00:13:07,440 --> 00:13:09,350
+...son mis amigos!
+
+95
+00:13:15,010 --> 00:13:16,940
+¡Lo prometo!
+
+96
+00:13:23,120 --> 00:13:26,050
+Cuando seamos mayores...
+
+97
+00:13:27,670 --> 00:13:30,550
+Cuando todos seamos adultos, 
+nos haremos a la mar.
+
+98
+00:13:30,550 --> 00:13:32,690
+¿A la mar?
+
+99
+00:13:30,550 --> 00:13:32,690
+¿A la mar?
+
+100
+00:13:32,690 --> 00:13:34,030
+¿Quieres ser pescador?
+
+101
+00:13:34,030 --> 00:13:37,400
+No digas tonterías, me 
+refiero a tener aventuras.
+
+102
+00:13:37,400 --> 00:13:40,180
+¡Buscaremos islas donde 
+todo sea de oro y cosas así!
+
+103
+00:13:40,180 --> 00:13:42,050
+¡Suena divertido!
+
+104
+00:13:42,050 --> 00:13:45,280
+Porque cuando nos curemos 
+y volvamos a nuestras casas,
+
+105
+00:13:45,280 --> 00:13:47,540
+todos viviremos separados.
+
+106
+00:13:47,540 --> 00:13:51,030
+Así, cuando seamos adultos, 
+podríamos reencontrarnos en el mar.
+
+107
+00:13:51,030 --> 00:13:53,550
+¡Ya veo! ¡Genial!
+
+108
+00:13:53,550 --> 00:13:56,070
+No quiero estar sin mis amigos.
+
+109
+00:13:58,930 --> 00:14:01,370
+Entonces, ¿cuándo nos haremos a la mar?
+
+110
+00:14:03,340 --> 00:14:07,080
+Esto... veamos...
+
+111
+00:14:07,700 --> 00:14:09,630
+¡Cuando tengamos veinte años!
+
+112
+00:14:09,630 --> 00:14:11,590
+Es mucho tiempo.
+
+113
+00:14:11,590 --> 00:14:15,550
+Eso lo hace más emocionante, ¿no?
+
+114
+00:14:15,550 --> 00:14:16,480
+¡Es verdad!
+
+115
+00:14:16,480 --> 00:14:19,710
+¡Sí, hay que prometerlo!
+
+116
+00:14:23,520 --> 00:14:26,310
+Entonces, ¿el Maestro es malo?
+
+117
+00:14:26,310 --> 00:14:28,880
+Sí, es un tipo muy malo.
+
+118
+00:14:28,880 --> 00:14:31,140
+Pero siempre ha sido bueno con nosotros.
+
+119
+00:14:31,140 --> 00:14:35,010
+¡Los caramelos que nos da todos
+ los días son muy sabrosos!
+
+120
+00:14:35,920 --> 00:14:37,150
+Es parte de su trampa.
+
+121
+00:14:37,150 --> 00:14:39,830
+No puede ser, pero...
+
+122
+00:14:41,260 --> 00:14:44,520
+Son sus conejillos de indias.
+
+123
+00:14:44,520 --> 00:14:46,570
+¿C-Conejillos de indias?
+
+124
+00:14:46,570 --> 00:14:48,590
+¡Mocha, abre la puerta!
+
+125
+00:14:48,590 --> 00:14:51,510
+¡Tenemos que ir al Biscuits Room!
+
+126
+00:14:54,530 --> 00:14:58,050
+¡Nunca estuvieron enfermos!
+
+127
+00:14:58,050 --> 00:14:59,360
+N-No puede ser...
+
+128
+00:14:59,360 --> 00:15:01,690
+La prueba está en lo grandes que se han hecho.
+
+129
+00:15:02,430 --> 00:15:05,510
+Por lo que sé, en todos los rincones del mundo,
+
+130
+00:15:05,510 --> 00:15:09,430
+se ha estado experimentando durante siglos con el fin de convertir a la gente en gigantes para la guerra.
+
+131
+00:15:09,430 --> 00:15:15,410
+Es decir, que llevan siglos fracasando en un experimento que nadie ha conseguido llevar a cabo con éxito.
+
+132
+00:15:15,410 --> 00:15:18,640
+Esto que voy a decir es duro, pero...
+
+133
+00:15:21,820 --> 00:15:23,510
+Este experimento...
+
+134
+00:15:25,020 --> 00:15:26,580
+...también fracasará.
+
+135
+00:15:28,180 --> 00:15:30,330
+Y Caesar lo sabe muy bien.
+
+136
+00:15:30,330 --> 00:15:34,360
+Lo único que quiere es usarlos para reunir información para su próximo experimento.
+
+137
+00:15:36,110 --> 00:15:39,430
+Entonces, ¿qué nos va a pasar?
+
+138
+00:15:39,430 --> 00:15:41,050
+Morirán.
+
+139
+00:15:41,050 --> 00:15:43,600
+Ninguno de ustedes volverá a casa.
+
+140
+00:15:44,450 --> 00:15:47,120
+Esos deliciosos caramelos son un veneno mortal.
+
+141
+00:15:47,120 --> 00:15:50,710
+¡Ustedes no lo saben, pero van envenenando su organismo con cada uno de ellos!
+
+142
+00:15:50,710 --> 00:15:54,040
+Además, el comer uno hace que quieras otro.
+
+143
+00:15:54,040 --> 00:15:57,730
+¡Cuanto más caramelos coman, 
+más difícil será huir de Caesar!
+
+144
+00:15:58,370 --> 00:16:00,740
+Ya has visto a esos niños 
+del otro lado de la puerta.
+
+145
+00:16:00,740 --> 00:16:02,540
+¿Verdad que dan mucho miedo?
+
+146
+00:16:10,100 --> 00:16:13,370
+A ti ya te he inyectado un tranquilizante,
+
+147
+00:16:13,370 --> 00:16:16,400
+pero está claro que si siguen aquí, entre los caramelos y los efectos secundarios,
+
+148
+00:16:16,400 --> 00:16:17,240
+es muy probable...
+
+149
+00:16:18,280 --> 00:16:23,570
+...que mueran antes de llegar a ser adultos.
+
+150
+00:16:30,970 --> 00:16:33,390
+¿No podremos ser mayores?
+
+151
+00:16:33,390 --> 00:16:35,510
+¿No...
+
+152
+00:16:35,510 --> 00:16:39,750
+...volveremos a ver a nuestros padres?
+
+153
+00:16:40,900 --> 00:16:43,060
+Eso es lo que va a pasar
+ si no los sacamos de aquí.
+
+154
+00:16:43,870 --> 00:16:48,060
+Nunca pensamos que podría suceder algo así.
+
+155
+00:16:48,060 --> 00:16:52,180
+¡Pedí ayuda porque quería
+ volver a casa cuanto antes!
+
+156
+00:16:52,180 --> 00:16:57,230
+¡Porque tenía miedo de que no nos dijeran la verdad y tuviera que quedarme un año más aquí!
+
+157
+00:17:00,410 --> 00:17:01,330
+Pero...
+
+158
+00:17:04,580 --> 00:17:08,120
+...nunca pensé que podría morirme!
+
+159
+00:17:09,470 --> 00:17:12,080
+¡Creía que me haría mayor!
+
+160
+00:17:12,080 --> 00:17:14,200
+¡Eso no es lo que nos habían prometido!
+
+161
+00:17:14,900 --> 00:17:17,490
+¡Los caramelos nos los comimos
+ porque nos los daban!
+
+162
+00:17:17,490 --> 00:17:19,760
+¡¿Quién iba a pensar que nos matarían?!
+
+163
+00:17:19,760 --> 00:17:21,170
+¡Lo sé!
+
+164
+00:17:21,170 --> 00:17:23,520
+¡Ustedes no tienen culpa de nada!
+
+165
+00:17:23,520 --> 00:17:27,190
+¡Es por eso que lo de 
+Caesar no tiene perdón!
+
+166
+00:17:27,920 --> 00:17:29,030
+¡No lo perdonaré!
+
+167
+00:17:32,530 --> 00:17:33,640
+¡Lo siento!
+
+168
+00:17:36,110 --> 00:17:40,460
+¡Perdón por no haberlos encontrado antes!
+
+169
+00:17:40,460 --> 00:17:44,260
+¡Chopper-chan, nosotros...
+
+170
+00:17:44,260 --> 00:17:46,680
+...no queremos morir!
+
+171
+00:17:46,680 --> 00:17:48,250
+¡No dejaré que mueran!
+
+172
+00:17:48,250 --> 00:17:49,740
+¡Juro que los salvaré!
+
+173
+00:17:52,070 --> 00:17:58,070
+Caesar es fuerte, horrible y malvado...
+
+174
+00:17:58,070 --> 00:17:59,810
+Pero ¿sabes?
+
+175
+00:18:00,580 --> 00:18:04,450
+¡Nuestro capitán es mucho más fuerte!
+
+176
+00:18:04,450 --> 00:18:07,780
+¡Porque algún día será el rey de estos mares!
+
+177
+00:18:07,780 --> 00:18:12,910
+¡Luffy vencerá a Caesar!
+
+178
+00:18:14,310 --> 00:18:16,120
+Por eso quiero que me escuches.
+
+179
+00:18:16,120 --> 00:18:19,160
+Te llamas Mocha, ¿no?
+
+180
+00:18:19,160 --> 00:18:23,390
+No podemos permitir que los demás
+ niños vuelvan a comer los caramelos.
+
+181
+00:18:25,560 --> 00:18:29,870
+Yo voy a quedarme aquí para intentar
+ administrarles el tranquilizante a todos.
+
+182
+00:18:31,270 --> 00:18:35,970
+Mocha, ¿podrías ir al Biscuits
+ Room a proteger los caramelos?
+
+183
+00:18:37,000 --> 00:18:37,770
+¡Sí!
+
+184
+00:18:38,280 --> 00:18:39,500
+¡Entendido!
+
+185
+00:18:39,500 --> 00:18:42,260
+¡No dejaré que vuelvan a
+ comer esos caramelos!
+
+186
+00:18:42,260 --> 00:18:44,590
+¡Regresaremos a nuestras casas!
+
+187
+00:18:44,590 --> 00:18:45,330
+¡Así es!
+
+188
+00:19:40,590 --> 00:19:42,560
+¡Sí!
+
+189
+00:19:50,220 --> 00:19:52,230
+¡Eso es!
+
+190
+00:20:02,850 --> 00:20:04,500
+¡Sí, señor!
+
+191
+00:20:12,150 --> 00:20:13,690
+¡Avancen!
+
+192
+00:20:24,260 --> 00:20:25,340
+Mocha...
+
+193
+00:20:25,340 --> 00:20:29,100
+¡Maldición, es todo culpa mía!
+
+194
+00:21:10,310 --> 00:21:13,080
+TORRE C - VERTEDERO

@@ -1,0 +1,563 @@
+1
+00:00:00,000 --> 00:00:09,990
+Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
+Los subtítulos podrían no funcionar apropiadamente por lo mismo.
+Por favor, use uno de los reproductores recomendados, idealmente mpv:
+https://mpv.io
+
+2
+00:02:25,660 --> 00:02:35,710
+Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
+Los subtítulos podrían no funcionar apropiadamente por lo mismo.
+Por favor, use uno de los reproductores recomendados, idealmente mpv:
+https://mpv.io
+
+3
+00:00:00,130 --> 00:00:05,000
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+4
+00:00:05,070 --> 00:00:08,670
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+5
+00:00:08,740 --> 00:00:12,210
+¡Ya hemos superado muchos obstáculos!
+
+6
+00:00:12,270 --> 00:00:17,610
+¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
+
+7
+00:00:23,250 --> 00:00:30,580
+"Ya casi lo logro, un poco más y consigo la respuesta".
+
+8
+00:00:30,660 --> 00:00:38,280
+Eso es lo que creemos al adentrarnos en este nuevo mundo.
+
+9
+00:00:38,330 --> 00:00:45,790
+Resulta que los fragmentos de nuestros sueños se han fundido en uno.
+
+10
+00:00:45,840 --> 00:00:53,880
+¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
+
+11
+00:00:53,950 --> 00:00:58,490
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+12
+00:00:58,550 --> 00:01:02,300
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+13
+00:01:02,360 --> 00:01:05,690
+¡Ya hemos superado muchos obstáculos!
+
+14
+00:01:05,760 --> 00:01:09,710
+¡No nos detengamos, sigamos adelante!
+
+15
+00:01:09,790 --> 00:01:11,230
+¡Miren más arriba!
+
+16
+00:01:11,270 --> 00:01:13,430
+¡Con la cabeza bien en alto!
+
+17
+00:01:13,470 --> 00:01:14,870
+¡Siempre avanzando!
+
+18
+00:01:14,900 --> 00:01:16,770
+¡Volemos por encima de las olas!
+
+19
+00:01:16,800 --> 00:01:20,340
+Unamos todos nuestros deseos en uno solo.
+
+20
+00:01:20,380 --> 00:01:24,560
+¡Dirijámonos al futuro!
+
+21
+00:01:24,850 --> 00:01:30,990
+Avanzamos sin rumbo, surcando las olas.
+
+22
+00:01:31,000 --> 00:01:35,220
+Encuentros, despedidas, una y otra vez.
+
+23
+00:01:35,250 --> 00:01:39,460
+Siempre ante esta bandera...
+
+24
+00:01:41,200 --> 00:01:44,600
+El dolor que no quiero olvidar lo guardo en mi corazón...
+
+25
+00:01:44,660 --> 00:01:48,110
+...desde aquel día en que lo grabé en mi interior.
+
+26
+00:01:48,200 --> 00:01:51,750
+¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
+
+27
+00:01:51,800 --> 00:01:54,680
+...y jamás se me escapará!
+
+28
+00:01:54,710 --> 00:01:59,610
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+29
+00:01:59,640 --> 00:02:03,300
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+30
+00:02:03,350 --> 00:02:06,590
+¡Ya hemos superado muchos obstáculos!
+
+31
+00:02:06,620 --> 00:02:10,740
+¡No nos detengamos, sigamos adelante!
+
+32
+00:02:10,790 --> 00:02:12,110
+¡Miren más arriba!
+
+33
+00:02:12,160 --> 00:02:14,430
+¡Con la cabeza bien en alto!
+
+34
+00:02:14,450 --> 00:02:15,810
+¡Siempre avanzando!
+
+35
+00:02:15,860 --> 00:02:17,650
+¡Volemos por encima de las olas!
+
+36
+00:02:17,700 --> 00:02:21,370
+Unamos todos nuestros deseos en uno solo.
+
+37
+00:02:21,430 --> 00:02:24,890
+¡Dirijámonos al futuro!
+
+38
+00:02:24,960 --> 00:02:29,760
+¡Levanten las manos!
+
+39
+00:02:43,340 --> 00:02:45,740
+Mola
+
+40
+00:02:43,340 --> 00:02:45,740
+Shi
+
+41
+00:02:43,340 --> 00:02:45,740
+Chibukai
+
+42
+00:02:43,340 --> 00:02:45,740
+Fansub!
+
+43
+00:02:43,340 --> 00:02:45,740
+Zurda del general.
+
+44
+00:03:38,600 --> 00:03:41,600
+Mola
+
+45
+00:03:38,600 --> 00:03:41,600
+Shi
+
+46
+00:03:38,600 --> 00:03:41,600
+Chibukai
+
+47
+00:03:38,600 --> 00:03:41,600
+Fansub!
+
+48
+00:03:38,600 --> 00:03:41,600
+Escudo del general.
+
+49
+00:03:42,370 --> 00:03:45,140
+Mola
+
+50
+00:03:42,370 --> 00:03:45,140
+Shi
+
+51
+00:03:42,370 --> 00:03:45,140
+Chibukai
+
+52
+00:03:42,370 --> 00:03:45,140
+Fansub!
+
+53
+00:03:42,370 --> 00:03:45,140
+Escudo búmeran del general.
+
+54
+00:03:59,650 --> 00:04:02,620
+Mola
+
+55
+00:03:59,650 --> 00:04:02,620
+Shi
+
+56
+00:03:59,650 --> 00:04:02,620
+Chibukai
+
+57
+00:03:59,650 --> 00:04:02,620
+Fansub!
+
+58
+00:03:59,650 --> 00:04:02,620
+Armamorfosis.
+
+59
+00:04:09,890 --> 00:04:11,930
+Mola
+
+60
+00:04:09,890 --> 00:04:11,930
+Shi
+
+61
+00:04:09,890 --> 00:04:11,930
+Chibukai
+
+62
+00:04:09,890 --> 00:04:11,930
+Fansub!
+
+63
+00:04:09,890 --> 00:04:11,930
+Chica espada.
+
+64
+00:04:33,150 --> 00:04:35,490
+Mola
+
+65
+00:04:33,150 --> 00:04:35,490
+Shi
+
+66
+00:04:33,150 --> 00:04:35,490
+Chibukai
+
+67
+00:04:33,150 --> 00:04:35,490
+Fansub!
+
+68
+00:04:33,150 --> 00:04:35,490
+Chica misil.
+
+69
+00:04:39,760 --> 00:04:42,530
+Mola
+
+70
+00:04:39,760 --> 00:04:42,530
+Shi
+
+71
+00:04:39,760 --> 00:04:42,530
+Chibukai
+
+72
+00:04:39,760 --> 00:04:42,530
+Fansub!
+
+73
+00:04:39,760 --> 00:04:42,530
+Cañón de proyectiles giratorio.
+
+74
+00:05:05,630 --> 00:05:08,620
+¿Dónde estoy?
+
+75
+00:05:08,620 --> 00:05:10,560
+Mi cuerpo no responde...
+
+76
+00:05:10,560 --> 00:05:13,120
+Maldición, ¿hasta aquí he llegado?
+
+77
+00:05:17,330 --> 00:05:23,500
+El corazón de Smoker, 
+vicealmirante del G-5 de la Marina.
+
+78
+00:05:23,500 --> 00:05:26,970
+Es un buen regalo, Law.
+
+79
+00:05:39,270 --> 00:05:42,550
+DENTRO DEL LABORATORIO 3 - TORRE R
+
+80
+00:05:59,700 --> 00:06:03,760
+PASILLO ENTRE LAS TORRES B Y R
+
+81
+00:06:02,140 --> 00:06:03,760
+¡Deprisa, Chopper, Brook!
+
+82
+00:06:05,570 --> 00:06:07,710
+¡Pero si somos nosotros los que estamos corriendo!
+
+83
+00:06:10,070 --> 00:06:15,100
+PISO 2 DE LA TORRE R - SALA SECRETA
+
+84
+00:06:36,310 --> 00:06:39,150
+¡Pero si éramos nosotros los que estábamos corriendo!
+
+85
+00:07:08,360 --> 00:07:09,840
+Joker...
+
+86
+00:07:09,840 --> 00:07:11,180
+¿Me escuchas?
+
+87
+00:07:33,330 --> 00:07:37,700
+Pero quiero acabar con todos 
+esos mocosos ahora mismo.
+
+88
+00:07:37,700 --> 00:07:39,740
+En el Laboratorio 3,
+
+89
+00:07:39,740 --> 00:07:48,350
+hay un arma idéntica a la que 
+destruyó la isla hace cuatro años.
+
+90
+00:07:48,350 --> 00:07:51,300
+Si presionas el botón de autodestrucción,
+
+91
+00:07:51,300 --> 00:07:54,990
+sólo una persona sobrevivirá.
+
+92
+00:07:54,990 --> 00:07:57,940
+La única persona que puede sobrevivir al gas asesino...
+
+93
+00:07:59,070 --> 00:08:01,160
+...es Caesar.
+
+94
+00:08:42,230 --> 00:08:45,000
+¡Muere Smoker!
+
+95
+00:08:47,080 --> 00:08:49,560
+Lo siento, compañero.
+
+96
+00:08:49,560 --> 00:08:52,140
+Sé muy bien...
+
+97
+00:08:53,650 --> 00:08:57,020
+...que hasta el día de hoy 
+has hecho un gran trabajo.
+
+98
+00:10:21,600 --> 00:10:24,100
+Mola
+
+99
+00:10:21,600 --> 00:10:24,100
+Shi
+
+100
+00:10:21,600 --> 00:10:24,100
+Chibukai
+
+101
+00:10:21,600 --> 00:10:24,100
+Fansub!
+
+102
+00:10:21,600 --> 00:10:24,100
+Chica revólver.
+
+103
+00:11:08,450 --> 00:11:10,720
+Hasta nunca, joven amo.
+
+104
+00:11:13,410 --> 00:11:16,090
+Tú eres el hombre...
+
+105
+00:11:17,480 --> 00:11:19,260
+...que se convertirá...
+
+106
+00:11:19,260 --> 00:11:22,060
+...en el Rey de los Piratas.
+
+107
+00:11:58,730 --> 00:12:00,650
+¿Monet?
+
+108
+00:12:00,650 --> 00:12:03,870
+¿Qué sucede, Monet?
+
+109
+00:12:19,400 --> 00:12:22,390
+¡Quiero tu corazón!
+
+110
+00:12:24,130 --> 00:12:26,870
+Con esto, queda cerrado el trato.
+
+111
+00:12:39,570 --> 00:12:45,140
+El corazón de Smoker, 
+vicealmirante del G-5 de la Marina.
+
+112
+00:12:45,140 --> 00:12:49,280
+Es un buen regalo, Law.
+
+113
+00:12:59,970 --> 00:13:01,630
+Responde.
+
+114
+00:14:15,550 --> 00:14:16,980
+¡¿En serio?!
+
+115
+00:15:03,610 --> 00:15:08,990
+¡U-Una especie de guardia 
+de hierro está interfiriendo!
+
+116
+00:15:05,350 --> 00:15:10,320
+EL MAR
+
+117
+00:15:27,850 --> 00:15:31,340
+COSTA DE PUNK HAZARD
+
+118
+00:16:13,050 --> 00:16:15,350
+Mola
+
+119
+00:16:13,050 --> 00:16:15,350
+Shi
+
+120
+00:16:13,050 --> 00:16:15,350
+Chibukai
+
+121
+00:16:13,050 --> 00:16:15,350
+Fansub!
+
+122
+00:16:13,050 --> 00:16:15,350
+Chica hoz.
+
+123
+00:17:08,670 --> 00:17:11,710
+Mola
+
+124
+00:17:08,670 --> 00:17:11,710
+Shi
+
+125
+00:17:08,670 --> 00:17:11,710
+Chibukai
+
+126
+00:17:08,670 --> 00:17:11,710
+Fansub!
+
+127
+00:17:08,670 --> 00:17:11,710
+Cañón del general.
+
+128
+00:21:29,430 --> 00:21:32,900
+Mola
+
+129
+00:21:29,430 --> 00:21:32,900
+Shi
+
+130
+00:21:29,430 --> 00:21:32,900
+Chibukai
+
+131
+00:21:29,430 --> 00:21:32,900
+Fansub!
+
+132
+00:21:29,430 --> 00:21:32,900
+Cría de rayos.
+
+133
+00:21:54,490 --> 00:21:58,370
+Mola
+
+134
+00:21:54,490 --> 00:21:58,370
+Shi
+
+135
+00:21:54,490 --> 00:21:58,370
+Chibukai
+
+136
+00:21:54,490 --> 00:21:58,370
+Fansub!
+
+137
+00:21:54,490 --> 00:21:58,370
+Técnica letal: Lluvia de meteoros.
+
+138
+00:22:49,050 --> 00:22:51,050
+¡Te lo mereces, Caesar!

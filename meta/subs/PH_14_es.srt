@@ -1,0 +1,534 @@
+1
+00:00:00,000 --> 00:00:09,990
+Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
+Los subtítulos podrían no funcionar apropiadamente por lo mismo.
+Por favor, use uno de los reproductores recomendados, idealmente mpv:
+https://mpv.io
+
+2
+00:02:25,660 --> 00:02:35,710
+Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
+Los subtítulos podrían no funcionar apropiadamente por lo mismo.
+Por favor, use uno de los reproductores recomendados, idealmente mpv:
+https://mpv.io
+
+3
+00:00:00,290 --> 00:00:05,130
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+4
+00:00:05,230 --> 00:00:08,790
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+5
+00:00:08,910 --> 00:00:12,350
+¡Ya hemos superado muchos obstáculos!
+
+6
+00:00:12,430 --> 00:00:17,780
+¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
+
+7
+00:00:23,380 --> 00:00:30,710
+"Ya casi lo logro, un poco más y consigo la respuesta".
+
+8
+00:00:30,810 --> 00:00:38,450
+Eso es lo que creemos al adentrarnos en este nuevo mundo.
+
+9
+00:00:38,490 --> 00:00:45,960
+Resulta que los fragmentos de nuestros sueños se han fundido en uno.
+
+10
+00:00:45,960 --> 00:00:54,000
+¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
+
+11
+00:00:54,110 --> 00:00:58,620
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+12
+00:00:58,700 --> 00:01:02,490
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+13
+00:01:02,490 --> 00:01:05,860
+¡Ya hemos superado muchos obstáculos!
+
+14
+00:01:05,900 --> 00:01:09,850
+¡No nos detengamos, sigamos adelante!
+
+15
+00:01:09,920 --> 00:01:11,370
+¡Miren más arriba!
+
+16
+00:01:11,410 --> 00:01:13,580
+¡Con la cabeza bien en alto!
+
+17
+00:01:13,620 --> 00:01:15,040
+¡Siempre avanzando!
+
+18
+00:01:15,040 --> 00:01:16,890
+¡Volemos por encima de las olas!
+
+19
+00:01:16,930 --> 00:01:20,480
+Unamos todos nuestros deseos en uno solo.
+
+20
+00:01:20,530 --> 00:01:24,720
+¡Dirijámonos al futuro!
+
+21
+00:01:25,000 --> 00:01:31,140
+Avanzamos sin rumbo, surcando las olas.
+
+22
+00:01:31,180 --> 00:01:35,350
+Encuentros, despedidas, una y otra vez.
+
+23
+00:01:35,390 --> 00:01:39,590
+Siempre ante esta bandera...
+
+24
+00:01:41,340 --> 00:01:44,730
+El dolor que no quiero olvidar lo guardo en mi corazón...
+
+25
+00:01:44,810 --> 00:01:48,290
+...desde aquel día en que lo grabé en mi interior.
+
+26
+00:01:48,350 --> 00:01:51,910
+¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
+
+27
+00:01:51,950 --> 00:01:54,850
+...y jamás se me escapará!
+
+28
+00:01:54,850 --> 00:01:59,740
+¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
+
+29
+00:01:59,790 --> 00:02:03,440
+¡Siempre en pie! Con nuestra bandera irrompible.
+
+30
+00:02:03,500 --> 00:02:06,730
+¡Ya hemos superado muchos obstáculos!
+
+31
+00:02:06,770 --> 00:02:10,890
+¡No nos detengamos, sigamos adelante!
+
+32
+00:02:10,930 --> 00:02:12,280
+¡Miren más arriba!
+
+33
+00:02:12,330 --> 00:02:14,560
+¡Con la cabeza bien en alto!
+
+34
+00:02:14,620 --> 00:02:15,980
+¡Siempre avanzando!
+
+35
+00:02:15,980 --> 00:02:17,780
+¡Volemos por encima de las olas!
+
+36
+00:02:17,840 --> 00:02:21,510
+Unamos todos nuestros deseos en uno solo.
+
+37
+00:02:21,620 --> 00:02:25,010
+¡Dirijámonos al futuro!
+
+38
+00:02:25,100 --> 00:02:29,950
+¡Levanten las manos!
+
+39
+00:02:47,880 --> 00:02:49,690
+Cazador Blanco-ya.
+
+40
+00:02:49,690 --> 00:02:53,630
+No te enfrentes a Caesar.
+
+41
+00:02:53,630 --> 00:02:57,630
+Si empiezan a aplastar corazones,
+ nosotros saldremos perdiendo.
+
+42
+00:02:57,630 --> 00:03:03,930
+Hasta que recupere mi corazón, que Vergo tiene en su poder, no dejaré que nada escape de mi control.
+
+43
+00:03:03,930 --> 00:03:08,300
+Mientras estés en esta isla, 
+harás lo que yo diga.
+
+44
+00:03:08,300 --> 00:03:10,430
+¿Entendido?
+
+45
+00:03:12,640 --> 00:03:14,890
+Hemos venido lo más rápido posible...
+
+46
+00:03:15,940 --> 00:03:18,330
+...por el camino más corto.
+
+47
+00:03:19,640 --> 00:03:20,730
+¡¿Dónde estás,
+
+48
+00:03:20,730 --> 00:03:22,320
+Vergo?!
+
+49
+00:03:32,640 --> 00:03:35,260
+Mola
+
+50
+00:03:32,640 --> 00:03:35,260
+Shi
+
+51
+00:03:32,640 --> 00:03:35,260
+Chibukai
+
+52
+00:03:32,640 --> 00:03:35,260
+Fansub!
+
+53
+00:03:32,640 --> 00:03:35,260
+Combustión.
+
+54
+00:03:40,200 --> 00:03:42,340
+Mola
+
+55
+00:03:40,200 --> 00:03:42,340
+Shi
+
+56
+00:03:40,200 --> 00:03:42,340
+Chibukai
+
+57
+00:03:40,200 --> 00:03:42,340
+Fansub!
+
+58
+00:03:40,200 --> 00:03:42,340
+Gas Miok.
+
+59
+00:04:14,650 --> 00:04:17,050
+Mola
+
+60
+00:04:14,650 --> 00:04:17,050
+Shi
+
+61
+00:04:14,650 --> 00:04:17,050
+Chibukai
+
+62
+00:04:14,650 --> 00:04:17,050
+Fansub!
+
+63
+00:04:14,650 --> 00:04:17,050
+Mundo al vacío.
+
+64
+00:05:10,410 --> 00:05:12,810
+Mola
+
+65
+00:05:10,410 --> 00:05:12,810
+Shi
+
+66
+00:05:10,410 --> 00:05:12,810
+Chibukai
+
+67
+00:05:10,410 --> 00:05:12,810
+Fansub!
+
+68
+00:05:10,410 --> 00:05:12,810
+Espada azul.
+
+69
+00:06:05,120 --> 00:06:07,820
+Mola
+
+70
+00:06:05,120 --> 00:06:07,820
+Shi
+
+71
+00:06:05,120 --> 00:06:07,820
+Chibukai
+
+72
+00:06:05,120 --> 00:06:07,820
+Fansub!
+
+73
+00:06:05,120 --> 00:06:07,820
+Iglú.
+
+74
+00:06:54,120 --> 00:06:58,620
+PASILLO QUE CONECTA LAS TORRES A Y B
+
+75
+00:07:04,180 --> 00:07:08,410
+Mola
+
+76
+00:07:04,180 --> 00:07:08,410
+Shi
+
+77
+00:07:04,180 --> 00:07:08,410
+Chibukai
+
+78
+00:07:04,180 --> 00:07:08,410
+Fansub!
+
+79
+00:07:04,180 --> 00:07:08,410
+Golpe al estómago.
+
+80
+00:08:06,970 --> 00:08:08,080
+Este tipo...
+
+81
+00:08:29,490 --> 00:08:31,840
+¡Aquí la Torre D! ¡Aquí la Torre D!
+
+82
+00:08:31,840 --> 00:08:34,690
+¡Mensaje de emergencia a todas
+ las torres del Laboratorio 3!
+
+83
+00:08:36,240 --> 00:08:37,870
+¡Aquí desde la Torre D!
+
+84
+00:08:37,870 --> 00:08:40,980
+¡Mensaje de emergencia a todas
+ las torres del Laboratorio 3!
+
+85
+00:08:40,980 --> 00:08:44,760
+¡En este mismo instante, Trafalgar 
+Law, del Ouka Shichibukai...
+
+86
+00:08:44,760 --> 00:08:50,060
+...ha irrumpido en las instalaciones del SAD!
+
+87
+00:09:35,650 --> 00:09:39,020
+SALA DE PRODUCCIÓN DEL SAD
+
+88
+00:09:57,780 --> 00:10:00,810
+PASILLO QUE CONECTA LAS TORRES A Y B
+
+89
+00:09:57,780 --> 00:09:58,640
+¡Repito!
+
+90
+00:09:58,640 --> 00:10:00,810
+¡El traidor, Trafalgar Law...!
+
+91
+00:10:24,990 --> 00:10:27,200
+...de la Marina-swan?!
+
+92
+00:10:49,500 --> 00:10:50,730
+¡Estuvo cerca!
+
+93
+00:10:50,730 --> 00:10:52,490
+Si la pelea hubiera durado un poco más...
+
+94
+00:11:25,630 --> 00:11:27,170
+AL INTERIOR DE LA TORRE B
+
+95
+00:11:28,480 --> 00:11:30,780
+¿Law va tras el SAD?
+
+96
+00:11:40,900 --> 00:11:45,090
+NUEVO MUNDO - DRESSROSA
+
+97
+00:11:46,600 --> 00:11:52,290
+MIEMBRO DEL OUKA SHICHIBUKAI
+
+98
+00:11:46,600 --> 00:11:52,290
+DONQUIXOTE DOFLAMINGO (AGENTE DEL BAJO MUNDO: JOKER)
+
+99
+00:13:38,380 --> 00:13:40,080
+Entendido.
+
+100
+00:13:40,080 --> 00:13:44,170
+Le tomaré una foto a su cadáver para que lo veas, Doffy.
+
+101
+00:13:49,520 --> 00:13:53,360
+Pero si no has comprado ninguna cámara...
+
+102
+00:13:57,330 --> 00:13:59,600
+Entonces le cortaré una oreja o algo.
+
+103
+00:14:40,240 --> 00:14:42,660
+DENTRO DE LA TORRE B
+
+104
+00:14:40,240 --> 00:14:42,660
+GRUPO DEL BARBAMARRONBÚS Y EL DRAGÓN
+
+105
+00:16:13,340 --> 00:16:15,320
+Mola
+
+106
+00:16:13,340 --> 00:16:15,320
+Shi
+
+107
+00:16:13,340 --> 00:16:15,320
+Chibukai
+
+108
+00:16:13,340 --> 00:16:15,320
+Fansub!
+
+109
+00:16:13,340 --> 00:16:15,320
+Trampa de rayos.
+
+110
+00:16:48,990 --> 00:16:50,600
+Mola
+
+111
+00:16:48,990 --> 00:16:50,600
+Shi
+
+112
+00:16:48,990 --> 00:16:50,600
+Chibukai
+
+113
+00:16:48,990 --> 00:16:50,600
+Fansub!
+
+114
+00:16:48,990 --> 00:16:50,600
+Agarrar.
+
+115
+00:17:10,410 --> 00:17:13,400
+Mola
+
+116
+00:17:10,410 --> 00:17:13,400
+Shi
+
+117
+00:17:10,410 --> 00:17:13,400
+Chibukai
+
+118
+00:17:10,410 --> 00:17:13,400
+Fansub!
+
+119
+00:17:10,410 --> 00:17:13,400
+Estilo del zorro de fuego.
+
+120
+00:17:13,400 --> 00:17:15,910
+Mola
+
+121
+00:17:13,400 --> 00:17:15,910
+Shi
+
+122
+00:17:13,400 --> 00:17:15,910
+Chibukai
+
+123
+00:17:13,400 --> 00:17:15,910
+Fansub!
+
+124
+00:17:13,400 --> 00:17:15,910
+Corta llamas.
+
+125
+00:17:24,490 --> 00:17:27,520
+Mola
+
+126
+00:17:24,490 --> 00:17:27,520
+Shi
+
+127
+00:17:24,490 --> 00:17:27,520
+Chibukai
+
+128
+00:17:24,490 --> 00:17:27,520
+Fansub!
+
+129
+00:17:24,490 --> 00:17:27,520
+Corte del sauce de fuego.
+
+130
+00:18:36,200 --> 00:18:38,330
+PISO 2 DE LA TORRE B
+
+131
+00:18:36,200 --> 00:18:38,330
+SALA DE ANÁLISIS

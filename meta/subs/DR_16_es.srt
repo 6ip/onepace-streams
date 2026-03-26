@@ -1,0 +1,400 @@
+1
+00:00:01,180 --> 00:00:03,920
+¡Vamos! ¡Brillando y corriendo por siempre!
+
+2
+00:00:03,920 --> 00:00:06,690
+Sigamos lanzándonos hacia adelante.
+
+3
+00:00:06,690 --> 00:00:09,610
+Los lazos que nos unen nunca se romperán...
+
+4
+00:00:09,610 --> 00:00:12,830
+...y su luz brillará hasta el final de nuestros sueños.
+
+5
+00:00:12,830 --> 00:00:15,320
+¡Despierta! ¡Despierta! ¡Despierta! ¡Despierta, latido!
+
+6
+00:00:15,320 --> 00:00:18,150
+¡Somos los mejores! ¡Sigamos avanzando!
+
+7
+00:00:23,670 --> 00:00:28,080
+La libertad es la única brújula que necesitamos. Somos los mejores amigos.
+
+8
+00:00:28,080 --> 00:00:34,580
+Nosotros seremos los que marquemos nuestro propio camino de ahora en adelante.
+
+9
+00:00:34,580 --> 00:00:39,020
+Siempre vamos hacia adelante a máxima velocidad. Al este, al oeste.
+
+10
+00:00:39,020 --> 00:00:45,860
+Cada día trae algo nuevo y no dejamos nada a medias.
+
+11
+00:00:45,860 --> 00:00:51,030
+Estoy tan entusiasmado que no puedo aguardar a que amanezca. (No puedo esperar)
+
+12
+00:00:51,030 --> 00:00:56,070
+Ya que estamos, agarremos el sol...
+
+13
+00:00:56,070 --> 00:00:59,920
+...y llevémoslo a rastras al cielo. ¡Vamos!
+
+14
+00:00:59,920 --> 00:01:02,250
+¡Así es! ¡Vamos brillando y corriendo por siempre!
+
+15
+00:01:02,250 --> 00:01:06,620
+Entrelacemos los fragmentos de nuestros sueños.
+
+16
+00:01:06,620 --> 00:01:10,750
+Cuando se vuelvan uno solo, será nuestro tesoro.
+
+17
+00:01:10,750 --> 00:01:13,480
+¡Vamos! ¡Brillando y corriendo por siempre!
+
+18
+00:01:13,480 --> 00:01:16,190
+Sigamos lanzándonos hacia adelante.
+
+19
+00:01:16,190 --> 00:01:19,150
+Los lazos que nos unen nunca se romperán...
+
+20
+00:01:19,150 --> 00:01:22,300
+...y su luz brillará hasta el final de nuestros sueños.
+
+21
+00:01:22,300 --> 00:01:24,950
+¡Despierta! ¡Despierta! ¡Despierta! ¡Despierta, latido!
+
+22
+00:01:24,950 --> 00:01:27,870
+¡Somos los mejores! ¡Sigamos avanzando!
+
+23
+00:01:31,420 --> 00:01:40,300
+ESTRATEGIA SOP
+
+24
+00:03:10,400 --> 00:03:12,660
+¡Oigan, explíquennos qué ocurre!
+
+25
+00:03:12,660 --> 00:03:13,970
+¡¿Qué está pasando?!
+
+26
+00:03:47,410 --> 00:03:49,340
+Él es...
+
+27
+00:03:51,680 --> 00:03:59,220
+Por el bien de ambos,
+ es mejor que no te lo diga.
+
+28
+00:04:11,530 --> 00:04:14,710
+¡¿Qué le pasó a Zoro, Kin'emon?!
+
+29
+00:04:32,920 --> 00:04:35,020
+Kin'emon-san, ¿estás bien?
+
+30
+00:04:35,020 --> 00:04:39,090
+No te habrán matado, ¿verdad?
+
+31
+00:05:25,880 --> 00:05:28,000
+...un almirante de la Marina!
+
+32
+00:07:02,790 --> 00:07:04,440
+E-Es...
+
+33
+00:07:43,680 --> 00:07:45,040
+¡Vamos a morir!
+
+34
+00:08:14,150 --> 00:08:15,870
+Parece que van tras Caesar.
+
+35
+00:09:33,520 --> 00:09:37,830
+Law nos dijo que lleváramos a Caesar 
+a la siguiente isla, por eso está aquí.
+
+36
+00:10:10,290 --> 00:10:17,470
+Torao actuó como señuelo y peleó contra
+ Doflamingo para alejarlo de estas cartas.
+
+37
+00:10:17,470 --> 00:10:22,350
+Tal vez intentaba también ganar
+ tiempo para destruir la fábrica.
+
+38
+00:10:32,010 --> 00:10:35,230
+todos sus esfuerzos habrán sido en vano.
+
+39
+00:10:57,990 --> 00:10:59,170
+Sanji,
+
+40
+00:11:00,020 --> 00:11:01,100
+Nami,
+
+41
+00:11:01,730 --> 00:11:03,040
+Chopper,
+
+42
+00:11:03,560 --> 00:11:04,960
+Brook,
+
+43
+00:11:05,600 --> 00:11:06,880
+Momo,
+
+44
+00:11:06,880 --> 00:11:09,810
+vayan directo a Zou.
+
+45
+00:11:33,260 --> 00:11:34,980
+¡Han venido buscando pelea!
+
+46
+00:12:53,110 --> 00:12:55,300
+Soy yo, Dellinger.
+
+47
+00:13:05,140 --> 00:13:08,070
+Olvídate de él, después nos
+ encargaremos de ese tipo.
+
+48
+00:13:08,650 --> 00:13:10,950
+Doffy tiene una nueva orden para ti.
+
+49
+00:13:20,610 --> 00:13:21,800
+¡Cállate!
+
+50
+00:13:21,800 --> 00:13:23,930
+¡¿Piensas desobedecer a Doffy?!
+
+51
+00:13:30,730 --> 00:13:33,330
+¿Una nueva orden?
+
+52
+00:13:33,330 --> 00:13:34,930
+Entonces yo...
+
+53
+00:13:34,930 --> 00:13:37,330
+...de verdad...
+
+54
+00:14:21,940 --> 00:14:26,590
+No cabe duda, esa era la voz de Diamante.
+
+55
+00:14:26,590 --> 00:14:29,510
+Entonces, ¿la orden era real?
+
+56
+00:14:29,510 --> 00:14:31,950
+¿De verdad Doflamingo...
+
+57
+00:14:31,950 --> 00:14:35,490
+...ordenó matarme?
+
+58
+00:14:35,490 --> 00:14:40,190
+Si gano este torneo, 
+¿seré un oficial de la familia?
+
+59
+00:14:41,940 --> 00:14:42,960
+Claro...
+
+60
+00:14:46,230 --> 00:14:47,600
+Esfuérzate.
+
+61
+00:14:48,190 --> 00:14:49,970
+Confío en ti.
+
+62
+00:15:33,060 --> 00:15:37,430
+DRESSROSA - CAMPO DE FLORES
+
+63
+00:15:38,860 --> 00:15:43,660
+CUARTEL DEL EJÉRCITO REVOLUCIONARIO DE RIKU
+
+64
+00:16:09,040 --> 00:16:16,540
+FÁBRICA Y PUERTO COMERCIAL
+
+65
+00:16:19,990 --> 00:16:24,200
+INFILTRARSE SECRETAMENTE
+ A TRAVÉS DEL TÚNEL
+
+66
+00:16:59,000 --> 00:17:02,230
+Mola
+
+67
+00:16:59,000 --> 00:17:02,230
+Shi
+
+68
+00:16:59,000 --> 00:17:02,230
+Chibukai
+
+69
+00:16:59,000 --> 00:17:02,230
+Fansub!
+
+70
+00:16:59,000 --> 00:17:02,230
+Hobi: Pasatiempo.
+
+71
+00:19:01,400 --> 00:19:05,200
+Mola
+
+72
+00:19:01,400 --> 00:19:05,200
+Shi
+
+73
+00:19:01,400 --> 00:19:05,200
+Chibukai
+
+74
+00:19:01,400 --> 00:19:05,200
+Fansub!
+
+75
+00:19:01,400 --> 00:19:05,200
+Salón de belleza de Franky.
+
+76
+00:19:11,960 --> 00:19:13,350
+Qué confiables.
+
+77
+00:19:24,070 --> 00:19:28,080
+¡Usolanders!
+
+78
+00:19:32,380 --> 00:19:38,060
+Mientras tanto, Luffy busca 
+la salida del Coliseo Corrida.
+
+79
+00:20:00,350 --> 00:20:01,380
+¿Hay baños aquí?
+
+80
+00:20:16,580 --> 00:20:18,900
+¡No!
+
+81
+00:20:19,800 --> 00:20:21,970
+¡Contrólate, Bartolomeo!
+
+82
+00:20:21,970 --> 00:20:26,270
+¿De verdad quieres perder la oportunidad de hablar con el Rey de los Piratas?
+
+83
+00:20:44,500 --> 00:20:46,430
+¡No fue nada!
+
+84
+00:21:19,090 --> 00:21:21,280
+¿Subordinado?
+
+85
+00:21:21,280 --> 00:21:24,280
+¡Ni siquiera logré convertirme 
+en un subordinado!
+
+86
+00:22:27,770 --> 00:22:29,410
+(Por supuesto).
+
+87
+00:22:29,410 --> 00:22:31,610
+(Debe ser tuya).
+
+88
+00:24:11,050 --> 00:24:17,080
+PLAZA FUERA DEL COLISEO CORRIDA
+
+89
+00:25:04,840 --> 00:25:13,760
+EJÉRCITO REVOLUCIONARIO - ASISTENTE DEL INSTRUCTOR DE KARATE GYOJIN
+
+90
+00:25:04,840 --> 00:25:13,760
+KOALA
+
+91
+00:25:08,540 --> 00:25:12,080
+Sí, creí que me golpearía.
+
+92
+00:25:17,260 --> 00:25:18,960
+¡¿Cómo iba yo a llorar?!
+
+93
+00:25:33,780 --> 00:25:34,380
+Claro.
+
+94
+00:26:02,170 --> 00:26:06,300
+Mola
+
+95
+00:26:02,170 --> 00:26:06,300
+Shi
+
+96
+00:26:02,170 --> 00:26:06,300
+Chibukai
+
+97
+00:26:02,170 --> 00:26:06,300
+Fansub!
+
+98
+00:26:02,170 --> 00:26:06,300
+Los Sombreros de Paja están de vuelta

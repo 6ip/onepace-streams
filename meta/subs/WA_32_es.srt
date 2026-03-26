@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:09,990
+Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
+Los subtítulos podrían no funcionar apropiadamente por lo mismo.
+Por favor, use uno de los reproductores recomendados, idealmente mpv:
+https://mpv.io
+
+2
+00:00:28,550 --> 00:00:31,180
+La justicia tiene precio.
+
+3
+00:01:50,130 --> 00:01:52,090
+¡Esto es una realidad...
+
+4
+00:03:41,370 --> 00:03:43,240
+¡¿Eh?!
+
+5
+00:00:00,020 --> 00:00:05,860
+CUARTEL GENERAL
+DE LA MARINA,
+NUEVO MUNDO
+
+6
+00:00:00,020 --> 00:00:05,860
+CUARTEL GENERAL
+DE LA MARINA,
+NUEVO MUNDO
+
+7
+00:04:53,520 --> 00:05:02,410
+HACE TREINTA 
+Y OCHO AÑOS
+
+8
+00:04:53,520 --> 00:05:02,410
+HACE TREINTA 
+Y OCHO AÑOS
