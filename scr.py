@@ -21,13 +21,12 @@ def download_excel_file(url, filename, max_retries=3):
     
     for attempt in range(1, max_retries + 1):
         try:
-            # Added a timeout so it doesn't hang forever if the connection drops
             response = requests.get(url, stream=True, timeout=20)
             response.raise_for_status()
             
             with open(filename, 'wb') as f:
                 for chunk in response.iter_content(chunk_size=8192):
-                    if chunk: # This filters out empty keep-alive chunks that cause errors
+                    if chunk: 
                         f.write(chunk)
                         
             print("Download complete!\n")
@@ -42,20 +41,36 @@ def download_excel_file(url, filename, max_retries=3):
                 print("  [-] All attempts to download the spreadsheet failed.")
                 return False
 
-def get_info_hash(nyaa_url):
+# --- NEW: Now returns both Hash AND Filename ---
+def get_torrent_data(nyaa_url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         response = requests.get(nyaa_url, headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
+        
+        info_hash = None
+        torrent_filename = "Unknown Title"
+
+        # 1. Grab the Magnet Hash
         magnet_tag = soup.find('a', href=re.compile(r'^magnet:\?xt=urn:btih:'))
         if magnet_tag:
             match = re.search(r'urn:btih:([a-zA-Z0-9]{40})', magnet_tag['href'])
             if match:
-                return match.group(1).lower()
+                info_hash = match.group(1).lower()
+
+        # 2. Grab the Filename from the page title (Nyaa titles format: "Filename :: Nyaa")
+        title_tag = soup.find('title')
+        if title_tag:
+            raw_title = title_tag.text
+            torrent_filename = raw_title.replace(" :: Nyaa", "").strip()
+
+        if info_hash:
+            return info_hash, torrent_filename
+
     except Exception as e:
         print(f"  [!] Error connecting to Nyaa: {e}")
-    return None
+    return None, None
 
 def get_expected_filename(ep_name, arc_name):
     prefix = PREFIX_MAP.get(arc_name, arc_name[:2].upper())
@@ -70,10 +85,7 @@ def get_expected_filename(ep_name, arc_name):
     else:
         ep_num = "1"
         
-    # Convert to integer to automatically drop leading zeros (e.g., "01" becomes 1)
     ep_num_int = int(ep_num)
-        
-    # Convert back to a string for the filename
     ep_num = str(ep_num_int)
         
     return f"{prefix}_{ep_num}.json"
@@ -105,7 +117,7 @@ def main():
     workbook = openpyxl.load_workbook(LOCAL_EXCEL_FILE)
     
     files_to_process = {}
-    episode_lengths = {} # NEW: Changed to a nested dictionary to map filename -> { url: length }
+    episode_lengths = {} 
     
     for target_sheet in workbook.sheetnames:
         if target_sheet not in PREFIX_MAP:
@@ -137,22 +149,19 @@ def main():
             
             filename = get_expected_filename(ep_name, target_sheet)
             
-            # 1. Collect ALL lengths for this row in order
             row_lengths = []
             for l_col in length_col_indices:
                 val = sheet.cell(row=row, column=l_col).value
                 if val:
                     if isinstance(val, datetime.time) or isinstance(val, datetime.datetime):
-                        # Always format as MM:SS to completely bypass the fake hour/timezone bug
                         row_lengths.append(val.strftime("%M:%S"))
                     else:
                         row_lengths.append(str(val).strip())
 
             if filename not in files_to_process:
                 files_to_process[filename] = []
-                episode_lengths[filename] = {} # Initialize dict for this specific file
+                episode_lengths[filename] = {} 
             
-            # 2. Collect ALL target URLs for this row in order
             row_urls = []
             for col in range(1, sheet.max_column + 1):
                 if col == ep_col_idx: 
@@ -171,12 +180,9 @@ def main():
                     if target not in row_urls:
                         row_urls.append(target)
 
-            # 3. Pair the URLs to their respective lengths by matching their positions
             for idx, url in enumerate(row_urls):
                 if url not in files_to_process[filename]:
                     files_to_process[filename].append(url)
-                    
-                    # If there's a 2nd URL, give it the 2nd length. If missing, fallback to 1st length or empty string.
                     assigned_length = row_lengths[idx] if idx < len(row_lengths) else (row_lengths[0] if len(row_lengths) > 0 else "")
                     episode_lengths[filename][url] = assigned_length
 
@@ -196,13 +202,15 @@ def main():
         
         streams = []
         for url in nyaa_urls:
-            info_hash = get_info_hash(url)
+            # --- NEW: Grab both hash and filename from Nyaa ---
+            info_hash, torrent_filename = get_torrent_data(url)
+            
             if info_hash:
-                # 4. Inject the SPECIFIC length tied to this exact URL
                 url_length = episode_lengths.get(filename, {}).get(url, "")
                 
                 streams.append({
                     "infoHash": info_hash, 
+                    "filename": torrent_filename, # Injecting the actual file name!
                     "length": url_length
                 })
                 time.sleep(1) 
