@@ -1,0 +1,40 @@
+name: Update One Pace Streams
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_dispatch: # This adds a button so you can run it manually anytime!
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the bot to push code back to your repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Scraper Script
+        run: python -u scr.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Tell git to add the 'stream' folder and the tracker
+          git add stream/ tracker.json
+          
+          # Commit, PULL the newest changes from your local force-push, and THEN push!
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace streams" && git pull --rebase origin main && git push)

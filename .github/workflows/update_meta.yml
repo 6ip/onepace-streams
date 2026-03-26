@@ -1,0 +1,42 @@
+name: Update One Pace Meta & Subtitles
+
+on:
+  schedule:
+    - cron: '30 */6 * * *' # Runs at minute 30 past every 6th hour 
+  workflow_dispatch: # Adds the button to run it manually!
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the bot to push code back to your repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run Metadata and Subtitle Scripts
+        run: |
+          python -u epis.py
+          python -u subs.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Tell git to ONLY add the files in the meta folder
+          git add meta/pp_onepace.json meta/subtitles.json
+          
+          # Commit, pull the newest changes, and push!
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace meta and subtitles" && git pull --rebase origin main && git push)
