@@ -82,6 +82,11 @@ def ass_to_srt(ass_content: str) -> str:
 
         if not text:
             continue
+            
+        # --- NEW: Filter out the MPV player warnings ---
+        # We check for "mpv.io" in case they didn't include the https:// part
+        if "mpv.io" in text.lower():
+            continue
 
         srt_lines.append(str(counter))
         srt_lines.append(f"{convert_time(start)} --> {convert_time(end)}")
