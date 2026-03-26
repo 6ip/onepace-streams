@@ -17,18 +17,10 @@ OUTPUT_JSON = "meta/subtitles.json"
 OUTPUT_SUBS_DIR = "meta/subs"
 HASHES_FILE = "hashes.json"
 
-# --- Mappings ---
-ARC_MAP = {
-    "romancedawn": "RO", "orangetown": "OR", "syrupvillage": "SY", "gaimon": "GA",
-    "baratie": "BA", "arlongpark": "AR", "buggyscrewadventure": "BUGGYS_CREW",
-    "loguetown": "LO", "reversemountain": "RM", "whiskypeak": "WH", "littlegarden": "LI",
-    "drumisland": "DI", "arabasta": "AL", "alabasta": "AL", "jaya": "JA", "skypiea": "SK",
-    "longringlongland": "LR", "waterseven": "WS", "enieslobby": "EN", "postenieslobby": "PEN",
-    "thrillerbark": "TB", "sabaodyarchipelago": "SAB", "amazonlily": "AM", "impeldown": "IM",
-    "marineford": "MA", "postwar": "PW", "returntosabaody": "RTS", "fishmanisland": "FI",
-    "punkhazard": "PH", "dressrosa": "DR", "zou": "ZO", "wholecakeisland": "WC",
-    "reverie": "REV", "wano": "WA", "egghead": "EH"
-}
+# --- Load Central Config ---
+with open('config.json', 'r', encoding='utf-8') as f:
+    CONFIG = json.load(f)
+ARC_MAP = CONFIG["ARC_MAP"]
 
 LANG_MAP = {
     "ar": "ara", "cs": "cze", "cz": "cze", "de": "ger", "en": "eng", 
