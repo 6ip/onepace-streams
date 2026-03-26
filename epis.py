@@ -10,48 +10,11 @@ BASE_META_URL = "https://fedew04.github.io/OnePaceStremio/meta/series/pp_onepace
 SHEET_ID = "1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM"
 CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid=0"
 
-# Exact matching dictionary based on your raw CSV data
-ARC_PREFIXES = {
-    "romancedawn": "RO",
-    "orangetown": "OR",
-    "syrupvillage": "SY",
-    "gaimon": "GA",
-    "baratie": "BA",
-    "arlongpark": "AR",
-    "theadventuresofbuggyscrew": "BUGGYS_CREW",
-    "loguetown": "LO",
-    "reversemountain": "RM",
-    "whiskypeak": "WH", # Fixed spelling!
-    "whiskeypeak": "WH", # Fallback just in case
-    "thetrialsofkobymeppo": "COVER_KOBYMEPPO",
-    "littlegarden": "LI",
-    "drumisland": "DI",
-    "arabasta": "AL",
-    "alabasta": "AL", # Fallback
-    "jaya": "JA",
-    "skypiea": "SK",
-    "longringlongland": "LR",
-    "waterseven": "WS",
-    "enieslobby": "EN",
-    "postenieslobby": "PEN",
-    "thrillerbark": "TB",
-    "sabaodyarchipelago": "SAB",
-    "amazonlily": "AM",
-    "impeldown": "IM",
-    "ifyoucouldgoanywheretheadventuresofthestrawhats": "COVER_SHSS",
-    "marineford": "MA",
-    "postwar": "PW",
-    "returntosabaody": "RTS",
-    "fishmanisland": "FI",
-    "punkhazard": "PH",
-    "dressrosa": "DR",
-    "zou": "ZO",
-    "wholecakeisland": "WC",
-    "reverie": "REV",
-    "wano": "WA",
-    "egghead": "EH"
-    #"elbaf": "EL" # <--- You would just add the new one here # For new seasons (3 changes)!
-}
+# --- Load Central Config ---
+with open('config.json', 'r', encoding='utf-8') as f:
+    CONFIG = json.load(f)
+ARC_PREFIXES = CONFIG["ARC_MAP"]
+TOTAL_SEASONS = CONFIG["TOTAL_SEASONS"]
 
 def clean_string(s):
     """Removes spaces, dashes, apostrophes, and periods for exact matching."""
@@ -129,10 +92,9 @@ def main():
         {"name": "Tony Beck", "category": "Cast", "url": "stremio:///search?search=Tony%20Beck"}
     ]
 
-    # Generate Seasons Array (1 to 33)
-    # For new seasons: # Change range(1, 34) to range(1, 35) to include season 34
+    # Generate Seasons Array dynamically from config
     seasons_array = []
-    for i in range(1, 34):
+    for i in range(1, TOTAL_SEASONS + 1):
         s_padded = str(i).zfill(2)
         seasons_array.append({
             "season": i,
@@ -147,8 +109,7 @@ def main():
         season_num = video.get("season")
 
         # Set Thumbnail
-        # For new seasons: # Change 33 to 34
-        if season_num and 1 <= season_num <= 33:
+        if season_num and 1 <= season_num <= TOTAL_SEASONS:
             s_padded = str(season_num).zfill(2)
             video["thumbnail"] = f"https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s{s_padded}.jpg&w=1280&h=720&fit=cover&a=center"
         else:
