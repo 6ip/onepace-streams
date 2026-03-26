@@ -7879,6 +7879,11 @@
             "lang": "fre"
         },
         {
+            "id": "REV_1_de",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/REV_1_de.srt",
+            "lang": "ger"
+        },
+        {
             "id": "REV_1_es",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/REV_1_es.srt",
             "lang": "spa"
@@ -7901,6 +7906,11 @@
             "lang": "fre"
         },
         {
+            "id": "REV_2_de",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/REV_2_de.srt",
+            "lang": "ger"
+        },
+        {
             "id": "REV_2_es",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/REV_2_es.srt",
             "lang": "spa"
@@ -7921,6 +7931,11 @@
             "id": "REV_3_fr",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/REV_3_fr.srt",
             "lang": "fre"
+        },
+        {
+            "id": "REV_3_de",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/REV_3_de.srt",
+            "lang": "ger"
         },
         {
             "id": "REV_3_es",
