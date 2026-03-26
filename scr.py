@@ -41,8 +41,8 @@ def download_excel_file(url, filename, max_retries=3):
                 print("  [-] All attempts to download the spreadsheet failed.")
                 return False
 
-# --- NEW: Now returns both Hash AND Filename ---
-def get_torrent_data(nyaa_url):
+# --- NEW: Now safely searches the File List line-by-line! ---
+def get_torrent_data(nyaa_url, expected_ep_num):
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         response = requests.get(nyaa_url, headers=headers, timeout=10)
@@ -59,11 +59,31 @@ def get_torrent_data(nyaa_url):
             if match:
                 info_hash = match.group(1).lower()
 
-        # 2. Grab the Filename from the page title (Nyaa titles format: "Filename :: Nyaa")
+        # 2. Grab the Default Filename from the page title (Used as a fallback)
         title_tag = soup.find('title')
         if title_tag:
             raw_title = title_tag.text
             torrent_filename = raw_title.replace(" :: Nyaa", "").strip()
+
+        # 3. MAGIC: Dig into the Nyaa File List for the exact .mkv file line-by-line!
+        file_list_div = soup.find('div', class_=re.compile('torrent-file-list'))
+        if file_list_div:
+            ep_padded = str(expected_ep_num).zfill(2) # "1" becomes "01"
+            
+            # FIX: Split the HTML block into clean, individual lines so they don't clump together!
+            lines = file_list_div.get_text(separator='\n').split('\n')
+            
+            for line in lines:
+                text = line.strip()
+                # If this specific line is a video file...
+                if ".mkv" in text or ".mp4" in text:
+                    # Clean out the file size from the text (e.g., "(379.3 MiB)")
+                    clean_file = re.sub(r'\s*\([^)]*\)$', '', text).strip()
+                    
+                    # Look for either "01" or "1" as a standalone word
+                    if re.search(rf'\b{ep_padded}\b|\b{expected_ep_num}\b', clean_file):
+                        torrent_filename = clean_file
+                        break # Found it! Stop searching the list.
 
         if info_hash:
             return info_hash, torrent_filename
@@ -200,17 +220,21 @@ def main():
             
         print(f"  [*] Processing {filename} (Found {len(nyaa_urls)} stream(s)!)")
         
+        # --- Extact the raw number from the JSON filename to pass to the scraper! ---
+        # e.g., "RO_1.json" -> "1"
+        ep_num_raw = filename.split('_')[-1].replace('.json', '')
+        
         streams = []
         for url in nyaa_urls:
-            # --- NEW: Grab both hash and filename from Nyaa ---
-            info_hash, torrent_filename = get_torrent_data(url)
+            # Pass the episode number so it knows exactly which file to grab!
+            info_hash, torrent_filename = get_torrent_data(url, ep_num_raw)
             
             if info_hash:
                 url_length = episode_lengths.get(filename, {}).get(url, "")
                 
                 streams.append({
                     "infoHash": info_hash, 
-                    "filename": torrent_filename, # Injecting the actual file name!
+                    "filename": torrent_filename, 
                     "length": url_length
                 })
                 time.sleep(1) 
