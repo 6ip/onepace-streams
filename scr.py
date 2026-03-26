@@ -11,44 +11,10 @@ SHEET_EXPORT_URL = "https://docs.google.com/spreadsheets/d/1HQRMJgu_zArp-sLnvFMD
 LOCAL_EXCEL_FILE = "one_pace.xlsx"
 TRACKER_FILE = "tracker.json"
 
-PREFIX_MAP = {
-    "Romance Dawn": "RO",
-    "Orange Town": "OR",
-    "Syrup Village": "SY",
-    "Gaimon": "GA",
-    "Baratie": "BA",
-    "Arlong Park": "AR",
-    "The Adventures of Buggys Crew": "BUGGYS_CREW",
-    "Loguetown": "LO",
-    "Reverse Mountain": "RM",
-    "Whisky Peak": "WH",
-    "The Trials of Koby-Meppo": "COVER_KOBYMEPPO",
-    "Little Garden": "LI",
-    "Drum Island": "DI",
-    "Alabasta": "AL",
-    "Jaya": "JA",
-    "Skypiea": "SK",
-    "Long Ring Long Land": "LR",
-    "Water Seven": "WS",
-    "Enies Lobby": "EN",
-    "Post-Enies Lobby": "PEN",
-    "Thriller Bark": "TB",
-    "Sabaody Archipelago": "SAB",
-    "Amazon Lily": "AM",
-    "Impel Down": "IM",
-    "The Adventures of the Straw Hat": "COVER_SHSS",
-    "Marineford": "MA",
-    "Post-War": "PW",
-    "Return to Sabaody": "RTS",
-    "Fishman Island": "FI",
-    "Punk Hazard": "PH",
-    "Dressrosa": "DR",
-    "Zou": "ZO",
-    "Whole Cake Island": "WC",
-    "Reverie": "REV",
-    "Wano": "WA",
-    "Egghead": "EH"
-}
+# --- Load Central Config ---
+with open('config.json', 'r', encoding='utf-8') as f:
+    CONFIG = json.load(f)
+PREFIX_MAP = CONFIG["ARC_MAP"]
 
 def download_excel_file(url, filename, max_retries=3):
     print(f"Downloading latest spreadsheet to {filename}...")
@@ -141,8 +107,8 @@ def main():
     files_to_process = {}
     episode_lengths = {} # NEW: Changed to a nested dictionary to map filename -> { url: length }
     
-    for target_sheet in PREFIX_MAP.keys():
-        if target_sheet not in workbook.sheetnames:
+    for target_sheet in workbook.sheetnames:
+        if target_sheet not in PREFIX_MAP:
             continue
             
         sheet = workbook[target_sheet]
