@@ -29,4 +29,4 @@ Open Stremio, head to your **Board** (Homepage), scroll down to the **One Pace**
 * [Official OnePaceStremio](https://github.com/fedew04/OnePaceStremio)
 * [Official One Pace Release Spreadsheet](https://docs.google.com/spreadsheets/d/1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA/edit)
 * [Episode Descriptions](https://docs.google.com/spreadsheets/d/1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM/edit?usp=sharing)
-* [one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles/tree/main)
+* [one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles)
