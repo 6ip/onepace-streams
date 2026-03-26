@@ -70,8 +70,14 @@ def ass_to_srt(ass_content: str) -> str:
                         continue
                     dialogues.append(entry)
 
-    srt_lines = []
-    counter = 1
+    srt_lines = [
+        "1",
+        "00:00:00,000 --> 00:00:03,000",
+        r'{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>',
+        r'Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>',
+        ""
+    ]
+    counter = 2  # Start the normal subtitles at 2
     for d in dialogues:
         start = d.get("Start", "0:00:00.00")
         end = d.get("End", "0:00:00.00")
