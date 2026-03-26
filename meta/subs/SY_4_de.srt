@@ -1,1698 +1,1696 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:02:03,650 --> 00:02:05,020
 Du...!
 
-4
+2
 00:02:05,020 --> 00:02:08,400
 Was erlaubst du dir, mich so vorzuführen?!
 
-5
+3
 00:02:08,980 --> 00:02:13,070
 Mir vorzuhalten,
 dass ich Piratenblut habe?!
 
-6
+4
 00:02:13,070 --> 00:02:15,450
 Hör auf, Usopp!
 
-7
+5
 00:02:36,180 --> 00:02:37,720
 Klahadore...
 
-8
+6
 00:02:38,600 --> 00:02:40,100
 Bist du hier, Klahadore?
 
-9
+7
 00:02:41,600 --> 00:02:43,230
 Klahadore...
 
-10
+8
 00:02:46,230 --> 00:02:48,190
 M-Merry!
 
-11
+9
 00:02:48,820 --> 00:02:49,900
 Merry!
 
-12
+10
 00:02:50,690 --> 00:02:53,030
 Was ist los?! Was ist passiert?!
 
-13
+11
 00:02:53,030 --> 00:02:54,400
 Mach die Augen auf, Merry!
 
-14
+12
 00:02:55,910 --> 00:02:57,660
 Du darfst nicht sterben!
 
-15
+13
 00:02:57,660 --> 00:02:59,410
 G-Gnädiges Fräulein...
 
-16
+14
 00:02:59,410 --> 00:03:01,870
 Gott sei Dank... Ihr seid wohlauf...
 
-17
+15
 00:03:02,330 --> 00:03:03,250
 Merry!
 
-18
+16
 00:03:07,290 --> 00:03:10,500
 Merry? W-Wer hat das getan?!
 
-19
+17
 00:03:10,500 --> 00:03:11,880
 Klahadore!
 
-20
+18
 00:03:11,880 --> 00:03:14,800
 Er hat mich angegriffen!
 
-21
+19
 00:03:16,720 --> 00:03:21,220
 Er... Er ist in Wahrheit ein Pirat!
 
-22
+20
 00:03:21,970 --> 00:03:24,810
 W-Was redest du da?
 
-23
+21
 00:03:24,810 --> 00:03:28,440
 Er hat sich Euch angenähert
 
-24
+22
 00:03:28,440 --> 00:03:30,570
 um an das Vermögen des Hauses zu gelangen...
 
-25
+23
 00:03:44,830 --> 00:03:49,330
 Dann war alles,
 was Usopp gestern sagte...
 
-26
+24
 00:03:50,880 --> 00:03:53,840
 Ja, im Nachhinein betrachtet,
 
-27
+25
 00:03:54,340 --> 00:03:56,050
 versuchte einzig er sein Äußerstes,
 
-28
+26
 00:03:56,050 --> 00:03:59,390
 um uns vor ihm zu
 schützen, als er es erfuhr!
 
-29
+27
 00:03:59,390 --> 00:04:05,310
 Doch keiner von uns war gewillt, ihm Glauben zu schenken...
 
-30
+28
 00:04:06,640 --> 00:04:08,440
 Du musst von hier weg, Kaya!
 
-31
+29
 00:04:08,440 --> 00:04:09,730
 Die wollen dich umbringen!
 
-32
+30
 00:04:11,730 --> 00:04:13,610
 Aber jetzt musst du erst mal von hier weg!
 
-33
+31
 00:04:16,030 --> 00:04:19,280
 Wir schützten den wahren Schurken
 
-34
+32
 00:04:19,280 --> 00:04:21,660
 und vertrieben diesen tapferen Burschen,
 
-35
+33
 00:04:21,660 --> 00:04:29,710
 dieser Jungspund, der für die Dörfler zu allem bereit war!
 
-36
+34
 00:04:32,210 --> 00:04:35,510
 Zu Hilfe! Irgendjemand! Merry!
 
-37
+35
 00:04:34,130 --> 00:04:35,510
 Das wird nicht helfen,
 
-38
+36
 00:04:35,510 --> 00:04:36,710
 gnädiges Fräulein!
 
-39
+37
 00:04:38,630 --> 00:04:43,180
 Sämtliche Angestellten sind seit gestern im Urlaub.
 
-40
+38
 00:04:43,760 --> 00:04:45,430
 Das kann doch nicht...
 
-41
+39
 00:04:45,430 --> 00:04:46,680
 Dann werde ich...!
 
-42
+40
 00:04:46,680 --> 00:04:48,770
 Ihr dürft den Kopf nicht verlieren!
 
-43
+41
 00:04:49,520 --> 00:04:52,150
 Der Vorfall hat sich noch nicht ereignet.
 
-44
+42
 00:04:52,150 --> 00:04:56,480
 Ihr müsst rational überlegen,
 was Euer nächster Schritt sein sollte.
 
-45
+43
 00:04:58,780 --> 00:05:00,990
 Wenn Klahadore es auf dieses Anwesen
 
-46
+44
 00:05:00,990 --> 00:05:03,120
 und das Vermögen abgesehen hat,
 
-47
+45
 00:05:03,120 --> 00:05:05,990
 dann gebt ihm doch, was er will!
 
-48
+46
 00:05:05,990 --> 00:05:09,370
 Euer Leben ist mehr wert!
 
-49
+47
 00:05:11,960 --> 00:05:12,960
 Stimmt.
 
-50
+48
 00:05:13,330 --> 00:05:14,750
 So grausam es auch sein mag,
 
-51
+49
 00:05:14,750 --> 00:05:18,710
 Ihr seid die Einzige, die nun Klahadore noch aufhalten kann.
 
-52
+50
 00:05:20,220 --> 00:05:21,800
 Werdet Ihr das schaffen?
 
-53
+51
 00:05:21,800 --> 00:05:25,350
 Mir ist bewusst, dass Ihr nicht verantwortlich dafür seid, doch...
 
-54
+52
 00:05:26,180 --> 00:05:29,230
 Selbst mir ist klar,
 dass das eine Situation ist,
 
-55
+53
 00:05:29,230 --> 00:05:31,140
 vor der ich nicht flüchten kann...
 
-56
+54
 00:05:32,020 --> 00:05:33,770
 Das ist mir vollends bewusst.
 
-57
+55
 00:05:35,110 --> 00:05:38,530
 Ich werde Klahadore zur Rede stellen!
 
-58
+56
 00:05:41,780 --> 00:05:45,200
 Was?! Dieser Butler Klahadore ist runter zur Küste?!
 
-59
+57
 00:05:45,200 --> 00:05:48,290
 Ja! Und hatte einen echt
 unheimlichen Ausdruck im Gesicht!
 
-60
+58
 00:05:50,080 --> 00:05:51,620
 Ey! Wach auf!
 
-61
+59
 00:05:53,000 --> 00:05:55,710
 Aber es ist doch noch Schlafenszeit...
 
-62
+60
 00:05:55,710 --> 00:05:58,090
 Schlafen kannst du ein anderes Mal!
 
-63
+61
 00:05:58,090 --> 00:06:00,050
 Gut möglich, dass wir echt in der Patsche sitzen!
 
-64
+62
 00:06:00,050 --> 00:06:01,420
 Hm?
 
-65
+63
 00:06:03,050 --> 00:06:05,680
 Ich glaube, wir werden echt von Piraten überfallen.
 
-66
+64
 00:06:06,430 --> 00:06:08,640
 Der Kapitän meinte zwar,
 es sei ’ne Lüge,
 
-67
+65
 00:06:08,640 --> 00:06:10,140
 aber ich glaube, das war ’ne Lüge.
 
-68
+66
 00:06:10,640 --> 00:06:11,770
 Glaub ich auch!
 
-69
+67
 00:06:12,770 --> 00:06:13,770
 Ich ebenso!
 
-70
+68
 00:06:13,770 --> 00:06:16,730
 Irgendwas stimmte gestern mit dem Kapitän definitiv nicht!
 
-71
+69
 00:06:16,730 --> 00:06:18,440
 Es ist Fräulein Kaya!
 
-72
+70
 00:06:18,440 --> 00:06:19,940
 Ihr geht’s gut!
 
-73
+71
 00:06:30,410 --> 00:06:33,330
 Sie wirkt irgendwie bedrückt!
 
-74
+72
 00:06:33,330 --> 00:06:36,330
 Seit wann geht Fräulein Kaya allein vor die Tür?
 
-75
+73
 00:06:36,330 --> 00:06:37,880
 Da ist was im Busch!
 
-76
+74
 00:06:37,880 --> 00:06:40,460
 Da muss irgendwas im Busch sein!
 
-77
+75
 00:06:44,010 --> 00:06:46,470
 Zeigt euch, Gebrüder Maunz!
 
-78
+76
 00:06:50,680 --> 00:06:53,140
 Du hast gerufen, Kapitän Jango?
 
-79
+77
 00:06:55,020 --> 00:06:56,440
 Du hast gerufen?
 
-80
+78
 00:06:56,440 --> 00:06:57,940
 Sham...
 
-81
+79
 00:06:57,940 --> 00:06:58,860
 ...und Buchi!
 
-82
+80
 00:06:58,860 --> 00:07:02,820
 – Gemeinsam sind wir die Gebrüder Maunz!
 – Gemeinsam sind wir die Gebrüder Maunz!
 
-83
+81
 00:07:06,160 --> 00:07:07,660
 Buchi! Sham!
 
-84
+82
 00:07:07,660 --> 00:07:12,160
 Wir müssen um jeden Preis diesen Hang hoch,
 
-85
+83
 00:07:12,160 --> 00:07:14,040
 aber wie ihr seht,
 versperrt uns da was den Weg.
 
-86
+84
 00:07:14,500 --> 00:07:15,670
 Beseitigt es.
 
-87
+85
 00:07:16,460 --> 00:07:19,590
 D-Das packen wir niemals!
 
-88
+86
 00:07:19,590 --> 00:07:21,210
 Oder, Buchi?
 
-89
+87
 00:07:21,210 --> 00:07:23,920
 Jo, der sieht stark aus!
 
-90
+88
 00:07:24,260 --> 00:07:25,340
 Hm?
 
-91
+89
 00:07:25,800 --> 00:07:29,100
 Außerdem sollten wir nur das Schiff bewachen!
 
-92
+90
 00:07:29,100 --> 00:07:32,930
 Ja, das ist nicht unser Kampf...
 
-93
+91
 00:07:32,930 --> 00:07:35,480
 W-Wie jetzt?
 
-94
+92
 00:07:35,480 --> 00:07:37,350
 Dachte, die sind seine Trumpfkarte.
 
-95
+93
 00:07:37,350 --> 00:07:39,810
 Sham! Wird’s bald?!
 
-96
+94
 00:07:39,810 --> 00:07:41,690
 Hä?! I-Ich?!
 
-97
+95
 00:07:41,690 --> 00:07:42,690
 Beeilung!
 
-98
+96
 00:07:42,690 --> 00:07:45,150
 I-Ist ja gut! Ich geh ja schon!
 
-99
+97
 00:07:45,530 --> 00:07:47,410
 Der heult ja!
 
-100
+98
 00:07:47,410 --> 00:07:49,160
 Was wird das?
 
-101
+99
 00:07:50,410 --> 00:07:52,410
 Wieso zwingt er den zum Kämpfen?
 
-102
+100
 00:07:52,410 --> 00:07:53,740
 Ey, du da!
 
-103
+101
 00:07:53,740 --> 00:07:54,910
 Sprich dein letztes Gebet!
 
-104
+102
 00:07:54,910 --> 00:07:57,920
 Ich werd dich mit diesen Krallen von oben bis unten zerkratzen!
 
-105
+103
 00:08:00,210 --> 00:08:02,210
 Und was soll ich jetzt machen?!
 
-106
+104
 00:08:02,670 --> 00:08:05,010
 Ey, du! Bleib stehen oder ich hack dich klein!
 
-107
+105
 00:08:07,090 --> 00:08:08,220
 Falls du’s hinkriegst!
 
-108
+106
 00:08:08,220 --> 00:08:09,220
 Was?!
 
-109
+107
 00:08:13,350 --> 00:08:14,180
 Dieser Drecksack!
 
-110
+108
 00:08:14,180 --> 00:08:15,220
 Freundchen...
 
-111
+109
 00:08:16,020 --> 00:08:18,270
 Hast mich unterschätzt, hm?
 
-112
+110
 00:08:18,270 --> 00:08:23,020
 Ich staune, dass du den abwehren
 konntest nach meiner Unschuldsnummer...
 
-113
+111
 00:08:23,860 --> 00:08:25,530
 Scheinst minimal was draufzuhaben,
 
-114
+112
 00:08:25,530 --> 00:08:29,570
 aber ich rate dir, Sham von den
 Gebrüdern Maunz nicht zu unterschätzen.
 
-115
+113
 00:08:33,740 --> 00:08:36,200
 Hast was verloren?
 
-116
+114
 00:08:36,200 --> 00:08:37,960
 Schau nicht mich an...
 
-117
+115
 00:08:38,660 --> 00:08:39,670
 Nun geht das wieder los...
 
-118
+116
 00:08:39,670 --> 00:08:41,130
 Die diebische Katze...
 
-119
+117
 00:08:41,540 --> 00:08:43,630
 Gib mir meine Schwerter zurück!
 
-120
+118
 00:08:43,630 --> 00:08:44,880
 Zurückgeben?
 
-121
+119
 00:08:44,880 --> 00:08:48,050
 Aber hast doch schon ’n Schwert.
 
-122
+120
 00:08:51,090 --> 00:08:53,220
 Die Dinger stören nur.
 
-123
+121
 00:09:00,020 --> 00:09:01,310
 Sodele!
 
-124
+122
 00:09:01,310 --> 00:09:03,400
 Fühl mich gleich wieder federleicht!
 
-125
+123
 00:09:03,400 --> 00:09:07,070
 Mit Eigentum anderer geht man sorgfältig um!
 
-126
+124
 00:09:11,160 --> 00:09:12,910
 Drecksack!
 
-127
+125
 00:09:15,030 --> 00:09:15,700
 Was?!
 
-128
+126
 00:09:16,910 --> 00:09:18,700
 Hast du mich erwischt?
 
-129
+127
 00:09:18,700 --> 00:09:20,710
 Ich hab ’nen Katzenbuckel!
 
-130
+128
 00:09:23,460 --> 00:09:25,170
 Du bist dran, Buchi!
 
-131
+129
 00:09:25,170 --> 00:09:26,090
 Hau rein!
 
-132
+130
 00:09:26,090 --> 00:09:27,960
 Alles klar, Sham!
 
-133
+131
 00:09:28,670 --> 00:09:30,970
 Katzen...
 
-134
+132
 00:09:33,640 --> 00:09:35,470
 ...sprung!
 
-135
+133
 00:09:37,640 --> 00:09:39,270
 Dreck!
 
-136
+134
 00:09:39,270 --> 00:09:40,600
 Er ist ausgewichen!
 
-137
+135
 00:09:40,600 --> 00:09:43,350
 Ey! Halt den Kerl richtig fest, Sham!
 
-138
+136
 00:09:43,350 --> 00:09:44,730
 Sorry, sorry.
 
-139
+137
 00:09:44,730 --> 00:09:47,780
 Der Kerl ist kräftiger, als ich erwartet hatte!
 
-140
+138
 00:09:48,530 --> 00:09:50,280
 Ohne Scheiß jetzt?!
 
-141
+139
 00:09:50,280 --> 00:09:55,200
 er würde jeden Knochen in meinem
 Körper zu Staub zerbröseln, wenn er mich trifft!
 
-142
+140
 00:09:55,200 --> 00:09:57,080
 Diesmal entwischt er mir nicht!
 
-143
+141
 00:09:57,080 --> 00:09:58,370
 Aye!
 
-144
+142
 00:09:58,870 --> 00:10:02,000
 Ein-Schwert-Stil ist zwar nicht meine Stärke, aber...
 
-145
+143
 00:10:03,040 --> 00:10:05,000
 Auf ihn, Buchi!
 
-146
+144
 00:10:05,420 --> 00:10:07,210
 Ziehen wir’s durch, Sham!
 
-147
+145
 00:10:07,210 --> 00:10:10,920
 – Katzenkrallen!
 – Katzenkrallen!
 
-148
+146
 00:10:18,350 --> 00:10:20,810
 Oh nein, sie haben Zoro in die Defensive gedrängt!
 
-149
+147
 00:10:24,060 --> 00:10:25,560
 Was hast du vor?!
 
-150
+148
 00:10:25,560 --> 00:10:29,320
 Der wird nie Land sehen,
 solange er nur ihre Angriffe blocken kann!
 
-151
+149
 00:10:29,320 --> 00:10:30,900
 Ich helf ihm aus!
 
-152
+150
 00:10:30,900 --> 00:10:32,530
 Nehmt das!
 
-153
+151
 00:10:32,530 --> 00:10:33,740
 Bleikugel!
 
-154
+152
 00:10:39,950 --> 00:10:41,120
 Unsere Chance!
 
-155
+153
 00:10:47,130 --> 00:10:50,130
 Was schießt du auf einen von uns?!
 
-156
+154
 00:10:50,880 --> 00:10:52,340
 Ne, das war nicht ich...!
 
-157
+155
 00:10:52,340 --> 00:10:55,890
 Mir kam’s vor, als hat er sich absichtlich dazwischengeworfen...
 
-158
+156
 00:10:55,890 --> 00:10:57,760
 Was? Absichtlich?!
 
-159
+157
 00:10:59,810 --> 00:11:01,810
 Usopp, du Armleuchter!
 
-160
+158
 00:11:01,810 --> 00:11:03,020
 Willst du draufgehen?!
 
-161
+159
 00:11:07,520 --> 00:11:09,230
 Kann’s sein,
 
-162
+160
 00:11:09,730 --> 00:11:12,230
 dass er uns gerade gerettet hat?
 
-163
+161
 00:11:12,230 --> 00:11:16,240
 Wenn du sie mit der Steinschleuder getroffen hättest,
 
-164
+162
 00:11:16,240 --> 00:11:19,370
 hätten die beiden sich wohl daraufhin uns vorgenommen.
 
-165
+163
 00:11:20,030 --> 00:11:21,240
 Er...
 
-166
+164
 00:11:21,790 --> 00:11:24,000
 Aber der hat doch grad ganz andere Sorgen!
 
-167
+165
 00:11:27,250 --> 00:11:28,540
 Verdammt!
 
-168
+166
 00:11:28,540 --> 00:11:31,880
 Wenn ich wenigstens ein weiteres Schwert hätte...
 
-169
+167
 00:11:34,130 --> 00:11:35,930
 Ich hol seine Schwerter!
 
-170
+168
 00:11:35,930 --> 00:11:38,010
 Wenn ich sie ihm zurückgebe,
 gewinnt er sicher!
 
-171
+169
 00:11:38,010 --> 00:11:39,470
 Wenn das so ist, werd ich...!
 
-172
+170
 00:11:40,350 --> 00:11:41,850
 Lass nur,
 
-173
+171
 00:11:41,850 --> 00:11:43,680
 du kannst ja kaum stehen.
 
-174
+172
 00:11:45,430 --> 00:11:46,390
 Hey! Nami!
 
-175
+173
 00:12:06,580 --> 00:12:07,620
 Nami!
 
-176
+174
 00:12:07,960 --> 00:12:10,250
 Was willst du mit den Schwertern?
 
-177
+175
 00:12:25,220 --> 00:12:29,480
 Äh, ich kann das erklären...
 
-178
+176
 00:12:33,400 --> 00:12:37,490
 Die Nacht liegt längst hinter uns,
 
-179
+177
 00:12:37,490 --> 00:12:41,870
 daher fragte ich mich, warum der Plan nicht voranzuschreiten schien...
 
-180
+178
 00:12:42,410 --> 00:12:44,740
 K-Käpt’n Kuro!
 
-181
+179
 00:12:44,740 --> 00:12:46,370
 W-Wir sind tot!
 
-182
+180
 00:12:52,840 --> 00:12:54,300
 Schlimmer kann’s nicht mehr kommen...
 
-183
+181
 00:13:08,140 --> 00:13:11,770
 Was zum Teufel geht hier vor?!
 
-184
+182
 00:13:16,480 --> 00:13:20,320
 Dass ihr euch von diesen Rotzlöffeln aufhalten lasst...
 
-185
+183
 00:13:20,950 --> 00:13:23,910
 Die Black-Cat-Piratenbande ist nicht mehr das, was sie einmal war...
 
-186
+184
 00:13:24,740 --> 00:13:25,990
 Nicht wahr,
 
-187
+185
 00:13:26,870 --> 00:13:28,450
 Jango?!
 
-188
+186
 00:13:32,750 --> 00:13:35,880
 A-A-Aber...
 
-189
+187
 00:13:36,960 --> 00:13:41,470
 D-du hast doch gesagt,
 wir können diesen Jungen ignorieren!
 
-190
+188
 00:13:44,550 --> 00:13:46,390
 Das habe ich wohl gesagt.
 
-191
+189
 00:13:47,850 --> 00:13:50,060
 Und weiter?
 
-192
+190
 00:13:50,060 --> 00:13:54,980
 Wir wussten, dass er sich uns entgegenstellen würde.
 
-193
+191
 00:13:54,980 --> 00:13:57,730
 Meine einzige Fehleinschätzung war,
 
-194
+192
 00:13:57,730 --> 00:14:00,860
 wie verweichlicht ihr geworden seid!
 
-195
+193
 00:14:00,860 --> 00:14:03,740
 W-Wir, verweichlicht?!
 
-196
+194
 00:14:03,740 --> 00:14:05,820
 W-Wen nennst du hier verweichlicht?!
 
-197
+195
 00:14:05,820 --> 00:14:07,660
 Das lass ich nicht auf mir sitzen, Käpt’n Kuro!
 
-198
+196
 00:14:10,450 --> 00:14:12,710
 Klar, du warst mal stark!
 
-199
+197
 00:14:13,210 --> 00:14:15,460
 Aber das war vor drei Jahren!
 
-200
+198
 00:14:15,460 --> 00:14:18,170
 Während du in diesem Dorf die Seele hast baumeln lassen
 
-201
+199
 00:14:18,170 --> 00:14:20,380
 haben wir nicht geschlafen!
 
-202
+200
 00:14:20,380 --> 00:14:21,840
 Ganz genau!
 
-203
+201
 00:14:21,840 --> 00:14:26,300
 Wir haben tonnenweise Dörfer überfallen und Piraten versenkt!
 
-204
+202
 00:14:28,260 --> 00:14:30,060
 Damit wollt ihr was bitte sagen?
 
-205
+203
 00:14:30,970 --> 00:14:33,980
 Du hast die letzten drei Jahre nichts gemacht!
 
-206
+204
 00:14:33,980 --> 00:14:37,360
 Du hast nie im Leben ’ne Chance gegen
 die Gebrüder Maunz, die heute vor dir stehen!
 
-207
+205
 00:14:41,440 --> 00:14:44,410
 H-Halt! Buchi! Sham!
 
-208
+206
 00:14:50,240 --> 00:14:52,750
 Du bist nicht mehr unser Käpt’n!
 
-209
+207
 00:14:52,750 --> 00:14:55,670
 Sorry, aber wir werden dich erledigen!
 
-210
+208
 00:15:08,180 --> 00:15:10,600
 W-Wie ist er hinter sie gekommen?
 
-211
+209
 00:15:11,180 --> 00:15:12,810
 Und diese Waffen...
 
-212
+210
 00:15:14,730 --> 00:15:16,980
 Wen wollt ihr erledigen?!
 
-213
+211
 00:15:18,230 --> 00:15:20,190
 – Er hat sich...
 – in unseren Rücken geschlichen?!
 
-214
+212
 00:15:24,280 --> 00:15:26,320
 Hä?! Er ist verschwunden!
 
-215
+213
 00:15:31,030 --> 00:15:33,370
 Da ist es... Der Schleichgang!
 
-216
+214
 00:15:38,210 --> 00:15:40,290
 Ihr habt recht.
 
-217
+215
 00:15:45,010 --> 00:15:48,470
 Ich fühle mich ein ganz klein wenig träge.
 
-218
+216
 00:15:49,340 --> 00:15:50,850
 Er behandelt diese Typen,
 
-219
+217
 00:15:50,850 --> 00:15:54,480
 die Zoro mit einem Schwert in die Ecke gedrängt haben, wie Kinder?!
 
-220
+218
 00:15:55,730 --> 00:16:00,060
 Sein „Schleichgang“ ist eine lautlose Bewegungstechnik.
 
-221
+219
 00:16:00,810 --> 00:16:03,230
 Selbst eine Gruppe von 50 Meuchelmördern wären tot,
 
-222
+220
 00:16:03,230 --> 00:16:05,690
 bevor sie ihn orten können!
 
-223
+221
 00:16:06,900 --> 00:16:10,910
 Von seinem Plan gibt es für uns kein Entrinnen.
 
-224
+222
 00:16:11,780 --> 00:16:14,580
 Außerdem lief es mir kalt den Rücken runter
 
-225
+223
 00:16:14,580 --> 00:16:17,620
 beim Anblick dieser Angewohnheit nach drei Jahren.
 
-226
+224
 00:16:18,250 --> 00:16:21,790
 Seine sonderbare Art, seine Brille zu heben, damit er mit diesen
 
-227
+225
 00:16:21,790 --> 00:16:24,210
 riesigen Krallen sein Gesicht nicht verletzt...
 
-228
+226
 00:16:24,210 --> 00:16:27,010
 Das zeigt, dass er nicht vergessen hat, wie man kämpft!
 
-229
+227
 00:16:35,310 --> 00:16:38,480
 Anscheinend bin ich etwas gutmütiger geworden,
 
-230
+228
 00:16:38,980 --> 00:16:42,560
 während diesen drei Jahren auf trockenem Land.
 
-231
+229
 00:16:44,480 --> 00:16:46,570
 Ich gebe euch fünf Minuten.
 
-232
+230
 00:16:48,700 --> 00:16:52,490
 Wenn ihr das hier nicht in fünf Minuten zu Ende bringt,
 
-233
+231
 00:16:54,490 --> 00:16:57,250
 werde ich jeden Einzelnen von euch...
 
-234
+232
 00:16:58,000 --> 00:17:00,670
 eigenhändig töten!
 
-235
+233
 00:17:09,840 --> 00:17:10,720
 Fünf Minuten...
 
-236
+234
 00:17:11,470 --> 00:17:13,050
 Fünf Minuten werden reichen!
 
-237
+235
 00:17:14,010 --> 00:17:15,720
 D-Der da!
 
-238
+236
 00:17:15,720 --> 00:17:20,810
 Wenn wir den umhauen, können wir den Hang hoch!
 
-239
+237
 00:17:28,900 --> 00:17:31,320
 Wir hatten ihn eben schon in die Ecke gedrängt!
 
-240
+238
 00:17:31,320 --> 00:17:33,450
 Den zerlegen wir in fünf Minuten!
 
-241
+239
 00:17:33,950 --> 00:17:37,660
 Wir zählen auf euch, Gebrüder Maunz!
 
-242
+240
 00:17:40,580 --> 00:17:41,460
 Zoro!
 
-243
+241
 00:17:45,920 --> 00:17:46,880
 Was?!
 
-244
+242
 00:17:46,880 --> 00:17:48,340
 S-Spinnst du?!
 
-245
+243
 00:17:48,340 --> 00:17:50,880
 Jetzt tritt meine Schwerter nicht auch noch!
 
-246
+244
 00:17:51,840 --> 00:17:53,300
 Wie wär’s mit „danke“?
 
-247
+245
 00:17:54,550 --> 00:17:55,390
 Jop...
 
-248
+246
 00:17:56,890 --> 00:17:58,520
 Danke!
 
-249
+247
 00:18:01,020 --> 00:18:02,270
 Gib’s auf!
 
-250
+248
 00:18:02,270 --> 00:18:03,770
 Drei Schwerter helfen dir auch nicht!
 
-251
+249
 00:18:03,770 --> 00:18:05,560
 Ändert nichts an deinem Können!
 
-252
+250
 00:18:07,610 --> 00:18:08,360
 Tiger...
 
-253
+251
 00:18:11,860 --> 00:18:13,780
 Ihr peilt es nicht, hm?
 
-254
+252
 00:18:14,530 --> 00:18:16,070
 ...jagd!
 
-255
+253
 00:18:20,830 --> 00:18:23,420
 Vier Minuten.
 
-256
+254
 00:18:26,420 --> 00:18:30,340
 Bloß drei Schwerter verwenden und
 den Drei-Schwerter-Stil zu beherrschen,
 
-257
+255
 00:18:30,340 --> 00:18:32,220
 sind zwei Paar Schuhe!
 
-258
+256
 00:18:42,060 --> 00:18:43,520
 Der ist stark...
 
-259
+257
 00:18:47,810 --> 00:18:49,400
 Ein Hieb...
 
-260
+258
 00:18:58,160 --> 00:19:01,540
 E-Er hat die Gebrüder Maunz mit nur einem Hieb bezwungen?!
 
-261
+259
 00:19:12,710 --> 00:19:14,260
 Keine Bange!
 
-262
+260
 00:19:15,180 --> 00:19:18,970
 Ich werd jeden Einzelnen von euch zerlegen,
 
-263
+261
 00:19:19,720 --> 00:19:21,770
 bevor die fünf Minuten um sind!
 
-264
+262
 00:19:36,070 --> 00:19:38,820
 Drei Minuten.
 
-265
+263
 00:19:42,620 --> 00:19:44,750
 D-Den...
 
-266
+264
 00:19:44,750 --> 00:19:46,500
 mach ich kalt...!
 
-267
+265
 00:19:49,790 --> 00:19:51,920
 K-Kapitän...
 
-268
+266
 00:19:51,920 --> 00:19:55,090
 H-Hypnotisiere m-mich...
 
-269
+267
 00:19:57,090 --> 00:19:59,550
 B-Bitte, Kapitän!
 
-270
+268
 00:20:00,100 --> 00:20:01,680
 Er ist am Leben.
 
-271
+269
 00:20:01,680 --> 00:20:03,270
 Du bist nachlässig.
 
-272
+270
 00:20:05,600 --> 00:20:08,560
 Schätze, seine dicke Fettschicht hat ihn gerettet...
 
-273
+271
 00:20:30,080 --> 00:20:32,290
 Knöpf ihn dir vor, Buchi!
 
-274
+272
 00:20:36,760 --> 00:20:39,970
 Schon wieder Hypnose?
 
-275
+273
 00:20:43,720 --> 00:20:44,970
 Der wird ’n Problem!
 
-276
+274
 00:20:45,470 --> 00:20:48,440
 Er konnte vorher schon den Boden spalten...
 
-277
+275
 00:20:51,060 --> 00:20:53,570
 Was passiert, wenn der noch mal aufgepumpt wird?!
 
-278
+276
 00:21:02,700 --> 00:21:04,160
 Meine Chance!
 
-279
+277
 00:21:04,160 --> 00:21:07,620
 Ich muss die Gelegenheit nutzen und ihn wecken!
 
-280
+278
 00:21:07,620 --> 00:21:10,250
 Was hat dieses gewiefte Weib
 
-281
+279
 00:21:11,290 --> 00:21:13,000
 jetzt schon wieder vor?
 
-282
+280
 00:21:13,420 --> 00:21:16,630
 Wir sind alle schon von Wunden übersät und er pennt nur!
 
-283
+281
 00:21:18,010 --> 00:21:19,340
 Stirb!
 
-284
+282
 00:21:23,390 --> 00:21:24,930
 Wach auf!
 
-285
+283
 00:21:24,930 --> 00:21:26,810
 Nami! Pass auf!
 
-286
+284
 00:21:31,270 --> 00:21:32,770
 Zerteil sie in zwei Stücke!
 
-287
+285
 00:21:34,150 --> 00:21:35,400
 Weich aus!
 
-288
+286
 00:21:37,070 --> 00:21:39,360
 W-Was zum...?!
 
-289
+287
 00:21:40,360 --> 00:21:41,780
 Ein Chakram!
 
-290
+288
 00:21:41,780 --> 00:21:44,240
 Es war nicht nur ein Hypnoseutensil?!
 
-291
+289
 00:21:45,450 --> 00:21:50,290
 Nami! Was trampelst du mir auf dem Gesicht rum?!
 
-292
+290
 00:21:52,080 --> 00:21:53,630
 D-Der lebt noch?!
 
-293
+291
 00:21:54,790 --> 00:21:58,630
 Ob das jetzt besonders gutes oder besonders mieses Timing war...
 
-294
+292
 00:22:02,930 --> 00:22:04,090
 L-Luffy...
 
-295
+293
 00:22:09,520 --> 00:22:11,060
 Luffy!
 
-296
+294
 00:22:11,060 --> 00:22:13,980
 Autsch!
 
-297
+295
 00:22:14,350 --> 00:22:16,730
 Autsch!
 
-298
+296
 00:22:17,150 --> 00:22:19,610
 D-Der Kerl ist wieder unter den Lebenden?!
 
-299
+297
 00:22:19,610 --> 00:22:21,440
 Ach du Kacke...
 
-300
+298
 00:22:21,440 --> 00:22:24,110
 In fünf Minuten schaffen wir das niemals mehr!
 
-301
+299
 00:22:25,030 --> 00:22:28,200
 Nami! Das hat wehgetan, du dumme Kuh!
 
-302
+300
 00:22:28,200 --> 00:22:30,160
 D-Das war ich nicht!
 
-303
+301
 00:22:30,160 --> 00:22:31,710
 Das war ich... nicht...
 
-304
+302
 00:22:35,170 --> 00:22:36,500
 N-Nami!
 
-305
+303
 00:22:36,500 --> 00:22:38,920
 Hast du dich an der Schulter verletzt?
 
-306
+304
 00:22:39,960 --> 00:22:42,380
 N-Nicht weiter schlimm. Mir geht’s gut...
 
-307
+305
 00:22:42,380 --> 00:22:45,840
 Ich hab getan, was ich konnte.
 
-308
+306
 00:22:45,840 --> 00:22:48,140
 Der Rest liegt an dir.
 
-309
+307
 00:22:49,180 --> 00:22:53,270
 Wir dürfen diesen Kampf nicht verlieren...
 
-310
+308
 00:22:53,270 --> 00:22:54,060
 Ja.
 
-311
+309
 00:22:55,350 --> 00:22:58,730
 Gib alles! Für meinen Schatz!
 
-312
+310
 00:22:58,730 --> 00:23:01,940
 Joa, so kenn ich dich!
 
-313
+311
 00:23:03,150 --> 00:23:05,490
 Eine Minute.
 
-314
+312
 00:23:07,820 --> 00:23:09,620
 Das ist doch Irrsinn!
 
-315
+313
 00:23:09,620 --> 00:23:12,040
 Nicht mal Kapitän Jango und Buchi...
 
-316
+314
 00:23:12,370 --> 00:23:15,870
 ...könnten die in ’ner Minute erledigen!
 
-317
+315
 00:23:26,220 --> 00:23:29,050
 Buchi! Keine Zeit zum Nachdenken!
 
-318
+316
 00:23:29,800 --> 00:23:32,020
 Kümmer du dich um den Kerl mit dem Bauchwickel!
 
-319
+317
 00:23:32,020 --> 00:23:36,230
 Ich nehme mir dieses schräge Bürschchen vor...
 
-320
+318
 00:23:42,780 --> 00:23:44,570
 Diesen Strohhut!
 
-321
+319
 00:23:47,160 --> 00:23:50,080
 Hö? Der fiese Butler ist ja auch hier.
 
-322
+320
 00:23:51,030 --> 00:23:52,740
 Ich dachte,
 
-323
+321
 00:23:52,740 --> 00:23:55,460
 der war die Klippe runter zu Tode gestürzt.
 
-324
+322
 00:23:57,210 --> 00:23:58,500
 Spielt auch keine Rolle.
 
-325
+323
 00:24:10,970 --> 00:24:12,560
 Schleich dich nicht...
 
-326
+324
 00:24:16,020 --> 00:24:18,140
 von hinten an mich ran!
 
-327
+325
 00:24:18,980 --> 00:24:20,940
 Kaya!
 
-328
+326
 00:24:36,750 --> 00:24:38,670
 Usopp! Ist alles in Ordnung?!
 
-329
+327
 00:24:38,670 --> 00:24:40,000
 K-Kaya...
 
-330
+328
 00:24:40,000 --> 00:24:41,670
 Was hast du hier verloren?!
 
-331
+329
 00:24:42,380 --> 00:24:44,630
 Es tut mir so leid, Usopp...
 
-332
+330
 00:24:44,630 --> 00:24:47,470
 Ich weiß, dass du mir wohl nicht verzeihen kannst,
 
-333
+331
 00:24:47,470 --> 00:24:49,840
 aber ich konnte es einfach nicht glauben...
 
-334
+332
 00:24:49,840 --> 00:24:52,760
 K-Klahadore... Ein Pirat...
 
-335
+333
 00:24:52,760 --> 00:24:54,720
 Ist doch jetzt völlig egal!
 
-336
+334
 00:24:54,720 --> 00:24:56,180
 Was hast du hier zu suchen?!
 
-337
+335
 00:24:56,180 --> 00:24:58,230
 Ich sagte dir doch,
 du sollst verschwinden!
 
-338
+336
 00:24:58,230 --> 00:25:00,440
 Dein Leben ist in Gefahr!
 
-339
+337
 00:25:00,440 --> 00:25:04,270
 Aber du kämpfst doch!
 
-340
+338
 00:25:05,780 --> 00:25:09,570
 Selbst nachdem ich dich so grässlich behandelt habe,
 
-341
+339
 00:25:09,570 --> 00:25:12,780
 kämpfst du von Wunden übersät weiter für mich!
 
-342
+340
 00:25:12,780 --> 00:25:13,580
 Darum...
 
-343
+341
 00:25:13,580 --> 00:25:15,160
 Fräulein Kaya...
 
-344
+342
 00:25:16,240 --> 00:25:18,710
 Was tut Ihr hier?
 
-345
+343
 00:25:21,370 --> 00:25:24,130
 E-Es reicht...
 
-346
+344
 00:25:27,300 --> 00:25:30,800
 Hör schon auf damit, Klahadore!
 
-347
+345
 00:25:37,220 --> 00:25:40,190
 Merry hat mir alles erzählt.
 
-348
+346
 00:25:43,020 --> 00:25:45,360
 Ist das nicht das Mädchen vom Anwesen?
 
-349
+347
 00:25:45,820 --> 00:25:48,690
 Das Ziel des Plans war also sie?
 
-350
+348
 00:25:48,690 --> 00:25:51,450
 Dann müssen wir gar nicht mehr ins Dorf, oder?
 
-351
+349
 00:25:51,450 --> 00:25:53,660
 Wir brauchen nur sie um die Ecke bringen.
 
-352
+350
 00:25:56,790 --> 00:25:58,540
 Klahadore, ich bitte dich!
 
-353
+351
 00:25:58,540 --> 00:26:02,000
 Wenn du mein Vermögen
 haben willst, kannst du es haben!
 
-354
+352
 00:26:02,000 --> 00:26:03,790
 Verlass dafür dieses Dorf!
 
-355
+353
 00:26:03,790 --> 00:26:05,420
 Auf der Stelle!
 
-356
+354
 00:26:05,420 --> 00:26:08,130
 Darauf gehe ich mit Vergnügen ein...
 
-357
+355
 00:26:08,130 --> 00:26:09,630
 Doch...
 
-358
+356
 00:26:10,130 --> 00:26:14,760
 es gibt da noch eine Sache,
 die ich begehre...
 
-359
+357
 00:26:16,720 --> 00:26:19,310
 Was ich begehre,
 
-360
+358
 00:26:20,850 --> 00:26:23,190
 ist Seelenfrieden.
 
-361
+359
 00:26:23,690 --> 00:26:25,400
 Frieden?
 
-362
+360
 00:26:26,150 --> 00:26:29,860
 Ja, ich sehne mich schlicht nach Frieden.
 
-363
+361
 00:26:31,070 --> 00:26:35,070
 Ich empfinde das Vertrauen der Dörfler,
 das ich mir über die drei Jahre erarbeitete,
 
-364
+362
 00:26:35,070 --> 00:26:40,330
 unterdessen als höchst angenehm und behaglich.
 
-365
+363
 00:26:40,330 --> 00:26:44,040
 Daher möchte ich mir diesen Seelenfrieden
 
-366
+364
 00:26:44,040 --> 00:26:46,880
 bis in alle Ewigkeit sichern.
 
-367
+365
 00:26:53,880 --> 00:26:55,590
 Deswegen...
 
-368
+366
 00:26:56,340 --> 00:26:59,720
 Deswegen werde ich mir alles nehmen!
 
-369
+367
 00:26:59,720 --> 00:27:02,180
 Diesen Seelenfrieden und Euer Vermögen!
 
-370
+368
 00:27:02,810 --> 00:27:05,150
 Kurz gesagt, die Piraten werden das Dorf überfallen!
 
-371
+369
 00:27:08,270 --> 00:27:09,190
 Und...
 
-372
+370
 00:27:09,770 --> 00:27:12,900
 Ihr werdet Euer Testament hinterlassen und sterben!
 
-373
+371
 00:27:13,280 --> 00:27:16,700
 Diese zwei Dinge sind unvermeidbar.
 
-374
+372
 00:27:17,280 --> 00:27:19,200
 N-Nein...
 
-375
+373
 00:27:20,200 --> 00:27:22,410
 D-Du bist nicht...
 
-376
+374
 00:27:23,080 --> 00:27:26,920
 Renn! Lauf weg, Kaya!
 Der lässt nicht mit sich reden!
 
-377
+375
 00:27:26,920 --> 00:27:28,290
 Renn!
 
-378
+376
 00:27:28,290 --> 00:27:31,250
 D-Du bist nicht Klahadore...
 
-379
+377
 00:27:31,250 --> 00:27:33,510
 Du bist nicht Klahadore...!
 
-380
+378
 00:27:34,720 --> 00:27:36,220
 Kaya...
 
-381
+379
 00:27:36,630 --> 00:27:38,050
 Verschwinde aus diesem Dorf!
 
-382
+380
 00:27:38,050 --> 00:27:39,470
 Verschwinde auf der Stelle!
 
-383
+381
 00:27:39,800 --> 00:27:41,430
 Ich sehe schon...
 
-384
+382
 00:27:41,430 --> 00:27:45,390
 Ihr seid in diesen letzten drei Jahren in der Tat gewachsen,
 
-385
+383
 00:27:46,270 --> 00:27:48,230
 Fräulein Kaya.
 
-386
+384
 00:27:49,400 --> 00:27:51,730
 Erinnert Ihr Euch daran?
 
-387
+385
 00:27:51,730 --> 00:27:54,820
 An all die Dinge, die in diesen drei Jahren geschahen...
 
-388
+386
 00:27:55,860 --> 00:28:00,070
 Wir verbrachten so viel Zeit miteinander,
 
-389
+387
 00:28:00,070 --> 00:28:03,950
 selbst bevor Eure Eltern verstarben und Ihr bettlägerig wurdet.
 
-390
+388
 00:28:05,040 --> 00:28:06,540
 So viel Zeit...
 
-391
+389
 00:28:10,250 --> 00:28:11,670
 Ich erinnere mich daran,
 
-392
+390
 00:28:11,670 --> 00:28:14,760
 wie wir gemeinsam litten, uns gemeinsam erfreuten...
 
-393
+391
 00:28:14,760 --> 00:28:16,300
 An diese Zeiten...
 
-394
+392
 00:28:16,800 --> 00:28:19,300
 K-Klahadore...
 
-395
+393
 00:28:20,300 --> 00:28:22,310
 Wie wir gemeinsam in die Stadt fuhren
 
-396
+394
 00:28:23,060 --> 00:28:25,810
 und ich Euch ununterbrochen pflegte, als Ihr krank wart.
 
-397
+395
 00:28:26,810 --> 00:28:30,810
 Wie glücklich Ihr meinen Geschichten lauschtet...
 
-398
+396
 00:28:32,900 --> 00:28:35,990
 Ich verschrieb mich Euch...
 
-399
+397
 00:28:37,200 --> 00:28:38,990
 So lange...
 
-400
+398
 00:28:38,990 --> 00:28:41,200
 Ja, so lange
 
-401
+399
 00:28:41,620 --> 00:28:43,870
 ertrug ich es...
 
-402
+400
 00:28:45,540 --> 00:28:52,380
 Ganz recht und alles,
 um dich heute umzubringen!
 
-403
+401
 00:28:59,380 --> 00:29:03,180
 Ich, der einst als Käpt’n Kuro berüchtigt war,
 
-404
+402
 00:29:03,510 --> 00:29:07,480
 musste bescheiden lächeln für ein rotznäsiges Balg!
 
-405
+403
 00:29:08,390 --> 00:29:12,610
 Ich musste mich verstellen und mich bei dir einschleimen...
 
-406
+404
 00:29:17,440 --> 00:29:19,030
 Dreckskerl...
 
-407
+405
 00:29:19,610 --> 00:29:22,990
 Verstehst du, wie sehr ich
 tagtäglich erniedrigt wurde?
 
-408
+406
 00:29:23,910 --> 00:29:25,580
 Verstehst du mich, den Mann,
 
-409
+407
 00:29:25,580 --> 00:29:28,710
 der einst als Käpt’n Kuro bekannt war?!
 
-410
+408
 00:29:36,090 --> 00:29:39,130
 Kuro!
 
-411
+409
 00:29:44,800 --> 00:29:47,180
 Da fällt mir ein, dass ich mit dir...
 
-412
+410
 00:29:49,520 --> 00:29:52,850
 noch ein Hühnchen zu rupfen habe, du hast mich immerhin geschlagen!
 
-413
+411
 00:29:53,400 --> 00:29:55,060
 Usopp!
 
-414
+412
 00:29:55,400 --> 00:29:59,860
 Wenn ich mich recht erinnere, mit aller Kraft...
 
-415
+413
 00:30:23,090 --> 00:30:25,220
 Wenn du so heftig was gegen Schläge hast,
 
-416
+414
 00:30:25,220 --> 00:30:27,930
 hab ich hier noch hundert für dich!
+
+415
+00:06:50,140 --> 00:06:53,140
+Sham
+Schiffswächter
+Black-Cat-Piratenbande
+
+416
+00:06:50,140 --> 00:06:53,140
+Sham
+Schiffswächter
+Black-Cat-Piratenbande
 
 417
 00:06:50,140 --> 00:06:53,140
@@ -1701,14 +1699,14 @@ Schiffswächter
 Black-Cat-Piratenbande
 
 418
-00:06:50,140 --> 00:06:53,140
-Sham
+00:06:53,310 --> 00:06:56,440
+Buchi
 Schiffswächter
 Black-Cat-Piratenbande
 
 419
-00:06:50,140 --> 00:06:53,140
-Sham
+00:06:53,310 --> 00:06:56,440
+Buchi
 Schiffswächter
 Black-Cat-Piratenbande
 
@@ -1718,14 +1716,3 @@ Buchi
 Schiffswächter
 Black-Cat-Piratenbande
 
-421
-00:06:53,310 --> 00:06:56,440
-Buchi
-Schiffswächter
-Black-Cat-Piratenbande
-
-422
-00:06:53,310 --> 00:06:56,440
-Buchi
-Schiffswächter
-Black-Cat-Piratenbande

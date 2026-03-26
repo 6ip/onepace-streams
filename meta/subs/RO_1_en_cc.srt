@@ -1,1937 +1,1924 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:00:36,470 --> 00:00:46,470
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:00:00,980 --> 00:00:05,150
 [dramatic orchestral music]
 
-4
+2
 00:00:01,610 --> 00:00:02,610
 [NARRATOR]
 Wealth... Fame... Power...
 
-5
+3
 00:00:02,610 --> 00:00:03,820
 [NARRATOR]
 Wealth... Fame... Power...
 
-6
+4
 00:00:03,820 --> 00:00:05,150
 [NARRATOR]
 Wealth... Fame... Power...
 
-7
+5
 00:00:05,150 --> 00:00:07,860
 Gold Roger, the King of the Pirates,
 
-8
+6
 00:00:07,860 --> 00:00:12,240
 attained this and everything else
 the world had to offer.
 
-9
+7
 00:00:12,240 --> 00:00:17,370
 And his dying words drove
 countless souls to the seas.
 
-10
+8
 00:00:17,910 --> 00:00:19,500
 [GOLD ROGER]
 You want my treasure?
 
-11
+9
 00:00:19,500 --> 00:00:20,670
 You can have it!
 
-12
+10
 00:00:20,670 --> 00:00:24,170
 I left everything I gathered
 together in one place.
 
-13
+11
 00:00:24,170 --> 00:00:26,340
 Now you just have to find it!
 
-14
+12
 00:00:26,340 --> 00:00:29,380
 [NARRATOR]
 These words lured men to the Grand Line
 
-15
+13
 00:00:29,380 --> 00:00:33,010
 in pursuit of dreams greater than
 they'd ever dared to imagine!
 
-16
+14
 00:00:33,010 --> 00:00:36,640
 This is the time known as the Great Pirate Era!
 
-17
+15
 00:00:36,640 --> 00:00:39,310
 [whimsical orchestral music]
 
-18
+16
 00:00:39,310 --> 00:00:42,190
 [NARRATOR]
 This is a small seaport village.
 
-19
+17
 00:00:42,190 --> 00:00:46,190
 For the past year or so, a pirate ship
 has been anchored at the port.
 
-20
+18
 00:00:46,190 --> 00:00:51,660
 A soft wind from the east blows gently
 over this peaceful, sleepy place.
 
-21
+19
 00:00:51,660 --> 00:00:54,740
 [SHANKS]
 Luffy! Come on!
 What are you doing up there?
 
-22
+20
 00:00:54,200 --> 00:00:54,740
 [LUFFY]
 Hmph!
 
-23
+21
 00:00:55,370 --> 00:00:56,790
 [growls]
 
-24
+22
 00:00:56,790 --> 00:00:58,910
 I'm not kiddin' around, do you hear me?!
 
-25
+23
 00:00:58,910 --> 00:01:00,290
 I'm really mad!
 
-26
+24
 00:01:00,290 --> 00:01:02,040
 Watch, I'll prove it to ya!
 
-27
+25
 00:01:02,420 --> 00:01:05,340
 [SHANKS laughs]
 Yeah, go ahead, kid!
 
-28
+26
 00:01:05,340 --> 00:01:07,880
 Not sure what you're planning to do, though.
 
-29
+27
 00:01:09,590 --> 00:01:10,800
 [RED HAIR PIRATES scream]
 
-30
+28
 00:01:10,800 --> 00:01:11,930
 [LUFFY]
 Ow!
 
-31
+29
 00:01:11,930 --> 00:01:14,390
 [SHANKS]
 You idiot, what'd you do that for?!
 
-32
+30
 00:01:14,890 --> 00:01:15,930
 All right, drink up!
 
-33
+31
 00:01:15,930 --> 00:01:17,390
 [RED HAIR PIRATES cheering]
 
-34
+32
 00:01:16,970 --> 00:01:22,560
 [ragtime piano music]
 
-35
+33
 00:01:17,390 --> 00:01:20,810
 [RED HAIR PIRATE]
 Let's drink to Luffy's courage
 and our great journey on the sea!
 
-36
+34
 00:01:20,810 --> 00:01:22,560
 Cheers!
 
-37
+35
 00:01:23,400 --> 00:01:25,440
 Ha. Didn't hurt at all!
 
-38
+36
 00:01:25,440 --> 00:01:27,730
 [SHANKS]
 That's a lie if I've ever heard one.
 
-39
+37
 00:01:27,730 --> 00:01:28,940
 I'm not lying!
 
-40
+38
 00:01:28,940 --> 00:01:31,780
 And I'm not scared of gettin' hurt again, either!
 
-41
+39
 00:01:31,780 --> 00:01:34,160
 You gotta take me with you
 on your next voyage!
 
-42
+40
 00:01:34,160 --> 00:01:35,950
 I wanna be a pirate like you!
 
-43
+41
 00:01:35,950 --> 00:01:39,950
 [laughs] Yeah, right, as if
 you could ever be a pirate!
 
-44
+42
 00:01:40,330 --> 00:01:43,580
 I don't think you're gonna fare
 too well at sea if you sink like an anchor!
 
-45
+43
 00:01:43,580 --> 00:01:46,380
 I'll be okay as long as I don't fall overboard!
 
-46
+44
 00:01:46,380 --> 00:01:48,710
 And besides, I'm a really good fighter, too!
 
-47
+45
 00:01:49,090 --> 00:01:50,510
 I've got lots of training!
 
-48
+46
 00:01:50,510 --> 00:01:53,470
 I mean, when I punch people,
 it's like firin' a pistol!
 
-49
+47
 00:01:53,470 --> 00:01:56,180
 A pistol? If you say so.
 
-50
+48
 00:01:56,180 --> 00:01:57,810
 Are you makin' fun of me?!
 
-51
+49
 00:01:57,810 --> 00:01:59,180
 [RED HAIR PIRATE]
 Luffy!
 
-52
+50
 00:01:59,560 --> 00:02:01,640
 Don't be in such a sour mood, kiddo!
 
-53
+51
 00:02:01,640 --> 00:02:04,150
 You're still young, you should be having fun!
 
-54
+52
 00:02:04,150 --> 00:02:07,020
 And being a pirate's more fun than anything!
 
-55
+53
 00:02:07,020 --> 00:02:09,280
 We get to travel across the endless sea.
 
-56
+54
 00:02:09,280 --> 00:02:11,690
 Discoverin' new places all the time!
 
-57
+55
 00:02:11,690 --> 00:02:13,200
 We're as free as can be!
 
-58
+56
 00:02:14,660 --> 00:02:17,990
 I'd appreciate it if you clowns
 didn't teach him that kind of thing.
 
-59
+57
 00:02:17,990 --> 00:02:20,040
 But you know it's true, right?
 
-60
+58
 00:02:20,040 --> 00:02:23,670
 Come on, Boss, we can take him on
 one little voyage. What's the harm?
 
-61
+59
 00:02:23,670 --> 00:02:25,500
 [RED HAIR PIRATE]
 Yeah, he'll be okay!
 
-62
+60
 00:02:25,500 --> 00:02:28,250
 [SHANKS]
 Fine, but one of you gets left behind.
 
-63
+61
 00:02:28,250 --> 00:02:31,380
 [ROUX]
 Yeah, forget that! Let's get back to drinkin'!
 
-64
+62
 00:02:31,380 --> 00:02:32,970
 [LUFFY]
 Weren't you guys on my side?!
 
-65
+63
 00:02:32,970 --> 00:02:36,050
 I'm just sayin', you're much too young
 to try and strike out to sea.
 
-66
+64
 00:02:36,050 --> 00:02:38,930
 You can ask me about it in ten years,
  and maybe I'll reconsider.
 
-67
+65
 00:02:38,930 --> 00:02:41,680
 Stupid Shanks! I'm not that little!
 
-68
+66
 00:02:41,680 --> 00:02:44,440
 Geez. Calm down. Drink some juice, kid.
 
-69
+67
 00:02:44,440 --> 00:02:47,560
 Ha! Yay, thank you! Ha!
 
-70
+68
 00:02:47,560 --> 00:02:49,730
 Real pirates don't drink juice, big guy!
 
-71
+69
 00:02:49,730 --> 00:02:51,480
 [LUFFY]
 No, that's not fair, you tricked me!
 
-72
+70
 00:02:51,480 --> 00:02:54,650
 [LUFFY groans]
 Whatever, I'm tired now!
 
-73
+71
 00:02:54,650 --> 00:02:55,530
 [BECKMAN]
 Luffy.
 
-74
+72
 00:02:55,530 --> 00:02:57,910
 You have to try to understand
 how the boss feels.
 
-75
+73
 00:02:57,910 --> 00:02:58,870
 Mr. First Mate!
 
-76
+74
 00:02:59,830 --> 00:03:03,330
 Think about it. This guy is the captain
 of a tough-as-nails pirate crew.
 
-77
+75
 00:03:03,330 --> 00:03:07,250
 So he knows more than anybody how
 dangerous this kind of life can be.
 
-78
+76
 00:03:07,250 --> 00:03:10,130
 My point is, he told you
 not to come along with us
 
-79
+77
 00:03:10,130 --> 00:03:11,800
 because he didn't want to break your spirit.
 
-80
+78
 00:03:12,050 --> 00:03:13,210
 You don't get it!
 
-81
+79
 00:03:13,210 --> 00:03:16,590
 He's just makin' fun of me
 'cause he thinks I'm a kid!
 
-82
+80
 00:03:16,590 --> 00:03:17,720
 Hey, Anchor!
 
-83
+81
 00:03:17,720 --> 00:03:18,510
 [LUFFY]
 You see?!
 
-84
+82
 00:03:18,930 --> 00:03:20,930
 You're having fun as always.
 
-85
+83
 00:03:20,930 --> 00:03:23,680
 Yeah. I get such a kick out of
 giving this kid a hard time.
 
-86
+84
 00:03:24,640 --> 00:03:27,270
 Luffy, would you like to order
 some food, too?
 
-87
+85
 00:03:27,270 --> 00:03:28,100
 Mm-hmm!
 
-88
+86
 00:03:28,100 --> 00:03:29,860
 Put it on my treasure tab, 'kay?
 
-89
+87
 00:03:29,860 --> 00:03:31,650
 The treasure tab again?
 
-90
+88
 00:03:31,650 --> 00:03:33,900
 You know that does qualify as stealing.
 
-91
+89
 00:03:33,900 --> 00:03:34,780
 Nuh-uh!
 
-92
+90
 00:03:34,780 --> 00:03:37,030
 Once I become a pirate
 and find a bunch of treasure,
 
-93
+91
 00:03:37,030 --> 00:03:38,530
 I'm gonna pay back every last bit!
 
-94
+92
 00:03:38,530 --> 00:03:39,370
 [MAKINO giggles]
 
-95
+93
 00:03:39,370 --> 00:03:40,990
 I know you will.
 
-96
+94
 00:03:40,990 --> 00:03:42,290
 [LUFFY giggles]
 
-97
+95
 00:03:42,910 --> 00:03:43,830
 [LUFFY]
 Shanks!
 
-98
+96
 00:03:43,830 --> 00:03:45,000
 [SHANKS]
 Yeah. What?
 
-99
+97
 00:03:45,000 --> 00:03:47,250
 [LUFFY]
 How much longer are you gonna be here for?
 
-100
+98
 00:03:47,250 --> 00:03:50,130
 I'm not too sure. I believe
 the plan we decided on
 
-101
+99
 00:03:50,130 --> 00:03:51,750
 was to go on a couple more voyages
 
-102
+100
 00:03:51,750 --> 00:03:54,590
 then head out towards the north
 after we're done with that.
 
-103
+101
 00:03:54,590 --> 00:03:55,420
 [LUFFY]
 Hmm...
 
-104
+102
 00:03:56,260 --> 00:03:58,220
 Only a couple more trips, huh?
 
-105
+103
 00:03:58,970 --> 00:03:59,510
 [MAKINO]
 Huh?
 
-106
+104
 00:04:01,050 --> 00:04:04,060
 Okay, then I can practice
 my swimming while you're here!
 
-107
+105
 00:04:04,060 --> 00:04:06,850
 [SHANKS]
 That's a good idea. Knock yourself out.
 
-108
+106
 00:04:09,400 --> 00:04:11,730
 [tense orchestral music]
 
-109
+107
 00:04:11,730 --> 00:04:13,400
 [HIGUMA]
 Excuse us.
 
-110
+108
 00:04:13,400 --> 00:04:15,990
 So these are what pass for pirates here?
 
-111
+109
 00:04:21,030 --> 00:04:25,200
 [footsteps continue]
 
-112
+110
 00:04:15,990 --> 00:04:17,950
 Looks awfully sad to me.
 
-113
+111
 00:04:27,160 --> 00:04:29,330
 You see, we're mountain bandits.
 
-114
+112
 00:04:29,330 --> 00:04:32,340
 But... we didn't come here
 to tear your place apart.
 
-115
+113
 00:04:32,340 --> 00:04:33,840
 We'll just take some booze.
 
-116
+114
 00:04:33,840 --> 00:04:35,760
 [nervously] I'm so sorry, sir, but we're actually
 
-117
+115
 00:04:35,760 --> 00:04:37,470
 fresh out of alcohol for the moment.
 
-118
+116
 00:04:37,470 --> 00:04:40,970
 [HIGUMA]
 Huh? Those pirates seem
 to be drinking, though.
 
-119
+117
 00:04:41,390 --> 00:04:42,720
 Is that water?
 
-120
+118
 00:04:42,720 --> 00:04:46,180
 [MAKINO]
 No, that was the last bit
 of what I had stocked up.
 
-121
+119
 00:04:46,180 --> 00:04:48,350
 Well, this is a problem, isn't it?
 
-122
+120
 00:04:48,350 --> 00:04:53,150
 It looks like my friends and I drank the place
 dry before you gentlemen came in. Sorry.
 
-123
+121
 00:04:53,150 --> 00:04:53,820
 [HIGUMA]
 Huh?
 
-124
+122
 00:04:53,820 --> 00:04:55,570
 You can have this one if you like.
 
-125
+123
 00:04:55,570 --> 00:04:57,400
 It hasn't even been opened yet.
 
-126
+124
 00:04:57,400 --> 00:04:58,570
 Hm...
 
-127
+125
 00:05:00,660 --> 00:05:01,450
 [MAKINO gasps]
 
-128
+126
 00:05:03,990 --> 00:05:05,790
 [menacing music]
 
-129
+127
 00:05:03,990 --> 00:05:05,790
 [dripping]
 
-130
+128
 00:05:05,790 --> 00:05:07,370
 [HIGUMA]
 How dare you.
 
-131
+129
 00:05:07,370 --> 00:05:09,910
 Can you not see who you're talking to?
 
-132
+130
 00:05:09,910 --> 00:05:13,250
 You know damn well that won't
 even be enough for a nightcap.
 
-133
+131
 00:05:13,250 --> 00:05:14,920
 Aww...
 
-134
+132
 00:05:14,920 --> 00:05:16,800
 Now the floor's all wet and sticky.
 
-135
+133
 00:05:16,800 --> 00:05:18,090
 Look at this, pal.
 
-136
+134
 00:05:18,090 --> 00:05:20,930
 I've got a bounty of
 eight million berries on my head.
 
-137
+135
 00:05:21,630 --> 00:05:26,260
 I've killed fifty-six people, and all of 'em
 were mouthy fools like you.
 
-138
+136
 00:05:26,260 --> 00:05:28,560
 If I were you, I'd watch my back.
 
-139
+137
 00:05:28,560 --> 00:05:32,810
 But since we're in the mountains and you're
 on the sea, maybe we won't meet again.
 
-140
+138
 00:05:33,440 --> 00:05:33,770
 Huh?
 
-141
+139
 00:05:34,810 --> 00:05:36,980
 Sorry about the mess, Makino.
 
-142
+140
 00:05:36,980 --> 00:05:38,480
 Have you got a rag?
 
-143
+141
 00:05:38,480 --> 00:05:41,150
 [MAKINO]
 Oh, no, don't worry, I can take care of it.
 
-144
+142
 00:05:48,660 --> 00:05:50,660
 Since you like to clean so much,
 
-145
+143
 00:05:50,660 --> 00:05:53,500
 I think you might find
 this mess more fulfilling.
 
-146
+144
 00:05:53,500 --> 00:05:54,670
 [BANDITS chuckle]
 
-147
+145
 00:05:56,170 --> 00:05:57,130
 [HIGUMA chuckles]
 
-148
+146
 00:05:59,550 --> 00:06:02,340
 [BANDITS chuckling]
 
-149
+147
 00:06:04,180 --> 00:06:06,600
 Guess I'll see you weaklings another day.
 
-150
+148
 00:06:06,600 --> 00:06:08,930
 [HIGUMA laughs]
 
-151
+149
 00:06:12,140 --> 00:06:13,520
 [MAKINO footsteps]
 
-152
+150
 00:06:13,520 --> 00:06:15,480
 Are you all right, Captain Shanks?
 
-153
+151
 00:06:15,480 --> 00:06:17,270
 [SHANKS]
 Never been better, Makino.
 
-154
+152
 00:06:18,360 --> 00:06:19,280
 [chuckles]
 
-155
+153
 00:06:19,860 --> 00:06:21,070
 [PIRATES laughing]
 
-156
+154
 00:06:21,070 --> 00:06:23,070
 [ROUX]
 That fella really got you good!
 
-157
+155
 00:06:23,070 --> 00:06:24,990
 [YASOPP]
 Talk about a loser!
 
-158
+156
 00:06:24,990 --> 00:06:26,950
 [laughing]
 
-159
+157
 00:06:26,950 --> 00:06:28,740
 [LUFFY]
 Why are you laughing?!
 
-160
+158
 00:06:28,740 --> 00:06:29,490
 [MAKINO, SHANKS]
 Huh?
 
-161
+159
 00:06:29,490 --> 00:06:31,540
 You should've stood up to him, Shanks!
 
-162
+160
 00:06:31,540 --> 00:06:33,540
 That wasn't cool at all!
 
-163
+161
 00:06:33,540 --> 00:06:38,540
 If you can laugh over something like that,
 then you're not a man, or a real pirate!
 
-164
+162
 00:06:39,500 --> 00:06:42,050
 Look, Luffy, I know how you feel, kid.
 
-165
+163
 00:06:42,050 --> 00:06:44,680
 But all the guy did was
 spill a little booze on me.
 
-166
+164
 00:06:44,680 --> 00:06:46,930
 It's not worth getting so upset about.
 
-167
+165
 00:06:46,930 --> 00:06:49,180
 [LUFFY growls]
 
-168
+166
 00:06:49,180 --> 00:06:51,020
 [SHANKS]
 Hey, wait a second.
 
-169
+167
 00:06:51,020 --> 00:06:53,480
 Leave me alone. You're just a coward!
 
-170
+168
 00:06:54,270 --> 00:06:54,980
 [SHANKS]
 Hm?
 
-171
+169
 00:06:55,650 --> 00:06:56,190
 [LUFFY]
 Hm?
 
-172
+170
 00:06:59,820 --> 00:07:00,360
 [RED HAIR PIRATES scream]
 
-173
+171
 00:07:00,360 --> 00:07:01,860
 [rousing music]
 
-174
+172
 00:07:00,360 --> 00:07:01,860
 Why's he stretchy?
 
-175
+173
 00:07:01,860 --> 00:07:03,530
 Oh no, don't tell me...!
 
-176
+174
 00:07:03,530 --> 00:07:05,110
 What the heck?!
 
-177
+175
 00:07:05,110 --> 00:07:05,910
 [shocked] It's gone!
 
-178
+176
 00:07:05,910 --> 00:07:07,030
 [RED HAIR PIRATES]
 No way!
 
-179
+177
 00:07:07,030 --> 00:07:09,620
 Yeah, the Gum-Gum Fruit we looted!
 It was right in here!
 
-180
+178
 00:07:10,240 --> 00:07:11,450
 Luffy, tell the truth.
 
-181
+179
 00:07:11,450 --> 00:07:13,500
 Did you just eat something like this?!
 
-182
+180
 00:07:13,500 --> 00:07:16,370
 [LUFFY]
 Uh, yeah. It tasted gross though.
 
-183
+181
 00:07:16,370 --> 00:07:17,790
 [SHANKS]
 What have you done?!
 
-184
+182
 00:07:17,790 --> 00:07:20,800
 The Gum-Gum Fruit is one of
 the legendary devil fruits!
 
-185
+183
 00:07:20,800 --> 00:07:22,670
 It makes your body turn into rubber.
 
-186
+184
 00:07:22,670 --> 00:07:25,760
 This means that you've lost the ability
 to swim for the rest of your life!
 
-187
+185
 00:07:25,760 --> 00:07:28,260
 Huh?! That can't be!
 
-188
+186
 00:07:28,260 --> 00:07:31,430
 You idiot!
 
-189
+187
 00:07:34,390 --> 00:07:36,730
 Hey, fish guy! Can I have a fishy?
 
-190
+188
 00:07:36,730 --> 00:07:38,060
 Luffy, it's you!
 
-191
+189
 00:07:38,060 --> 00:07:41,400
 I heard you missed out on another
 big adventure with the pirates.
 
-192
+190
 00:07:41,400 --> 00:07:42,360
 That's okay!
 
-193
+191
 00:07:42,360 --> 00:07:44,360
 My body's made outta rubber now.
 
-194
+192
 00:07:44,360 --> 00:07:48,700
 This is more fun than goin'
 on a voyage anyway! See?
 
-195
+193
 00:07:48,700 --> 00:07:49,700
 [LUFFY chuckles]
 
-196
+194
 00:07:50,870 --> 00:07:53,080
 The crew's been out at sea for a long time,
 
-197
+195
 00:07:53,080 --> 00:07:54,250
 isn't that right, Luffy?
 
-198
+196
 00:07:54,790 --> 00:07:56,290
 I bet you miss them.
 
-199
+197
 00:07:56,290 --> 00:07:59,130
 No way! I'm still upset with those guys.
 
-200
+198
 00:07:59,130 --> 00:08:01,460
 I thought Shanks and his crew
 were cool pirates,
 
-201
+199
 00:08:01,460 --> 00:08:03,170
 but it turns out they're all totally wimpy!
 
-202
+200
 00:08:03,170 --> 00:08:04,460
 I don't know.
 
-203
+201
 00:08:04,460 --> 00:08:06,970
 I think being able to laugh
 after somebody humiliates you
 
-204
+202
 00:08:06,970 --> 00:08:08,970
 like those bandits did is cool, too.
 
-205
+203
 00:08:08,970 --> 00:08:11,010
 You don't understand, Makino.
 
-206
+204
 00:08:11,010 --> 00:08:13,760
 Sometimes a man's gotta stand up and fight!
 
-207
+205
 00:08:13,760 --> 00:08:15,730
 You're right, maybe I don't get it, huh?
 
-208
+206
 00:08:15,730 --> 00:08:17,890
 [HIGUMA]
 We're back for more.
 
-209
+207
 00:08:17,890 --> 00:08:18,770
 [BOTH]
 Huh?
 
-210
+208
 00:08:18,770 --> 00:08:21,560
 [forboding orchestral music]
 
-211
+209
 00:08:18,770 --> 00:08:21,560
 Looks like those damn pirates
 aren't here today.
 
-212
+210
 00:08:21,560 --> 00:08:24,690
 We were in the neighborhood,
 so we thought we'd stop in for a drink.
 
-213
+211
 00:08:24,690 --> 00:08:27,860
 [BANDITS chuckling]
 
-214
+212
 00:08:28,240 --> 00:08:29,070
 [gasps]
 
-215
+213
 00:08:30,410 --> 00:08:32,030
 What's the holdup, honey?
 
-216
+214
 00:08:32,030 --> 00:08:33,740
 Bring the booze!
 
-217
+215
 00:08:35,620 --> 00:08:37,290
 [worried gasps]
 
-218
+216
 00:08:37,290 --> 00:08:38,620
 [MAKINO]
 Mayor, please help!
 
-219
+217
 00:08:38,620 --> 00:08:40,420
 What's the matter, Makino?
 
-220
+218
 00:08:40,420 --> 00:08:43,250
 It's Luffy! He's in big trouble!
 
-221
+219
 00:08:43,250 --> 00:08:44,300
 [BANDITS chuckling]
 
-222
+220
 00:08:44,300 --> 00:08:46,710
 [LUFFY]
 Let go of me or else, you sick monster!
 
-223
+221
 00:08:45,100 --> 00:08:46,710
 [HIGUMA]
 Well, this is interesting!
 
-224
+222
 00:08:46,710 --> 00:08:48,840
 [grunting]
 
-225
+223
 00:08:48,840 --> 00:08:50,010
 You're gonna pay for that!
 
-226
+224
 00:08:50,010 --> 00:08:52,300
 This kid is a freak of nature.
 
-227
+225
 00:08:52,890 --> 00:08:54,060
 [HIGUMA laughs]
 
-228
+226
 00:08:54,060 --> 00:08:56,520
 [BANDITS laughing]
 
-229
+227
 00:08:56,520 --> 00:08:58,600
 Say you're sorry for last time, right now!
 
-230
+228
 00:08:58,600 --> 00:09:01,650
 Wonder how much money we could
 get if we sold him off?
 
-231
+229
 00:09:02,270 --> 00:09:03,900
 [yelling]
 
-232
+230
 00:09:03,900 --> 00:09:05,360
 [HIGUMA]
 Again, huh?
 
-233
+231
 00:09:05,690 --> 00:09:06,360
 Fine!
 
-234
+232
 00:09:06,360 --> 00:09:06,900
 Hm?!
 
-235
+233
 00:09:06,900 --> 00:09:08,110
 [LUFFY]
 Ahh!
 
-236
+234
 00:09:08,110 --> 00:09:11,280
 I don't think I said anything
 to offend you personally.
 
-237
+235
 00:09:11,280 --> 00:09:13,660
 You think wrong! Now apologize!
 
-238
+236
 00:09:14,030 --> 00:09:15,200
 Get your foot off me!
 
-239
+237
 00:09:15,200 --> 00:09:17,370
 Let the boy go, I beg you!
 
-240
+238
 00:09:17,660 --> 00:09:18,450
 [HIGUMA]
 Huh?
 
-241
+239
 00:09:18,450 --> 00:09:21,960
 [MAYOR WOOP SLAP]
 He's a child! I don't intend to fight you,
 
-242
+240
 00:09:21,960 --> 00:09:24,090
 and I'll even pay you to stop this.
 
-243
+241
 00:09:24,090 --> 00:09:27,300
 Just let him live! That's all I ask!
 
-244
+242
 00:09:27,300 --> 00:09:29,260
 Ah, a senior citizen.
 
-245
+243
 00:09:29,260 --> 00:09:31,470
 Leave it to you to be reasonable.
 
-246
+244
 00:09:31,470 --> 00:09:32,890
 [gasps]
 
-247
+245
 00:09:32,890 --> 00:09:33,930
 [HIGUMA]
 But you're outta luck.
 
-248
+246
 00:09:33,930 --> 00:09:34,720
 [gasps]
 
-249
+247
 00:09:34,720 --> 00:09:36,810
 The brat's already made me angry,
 
-250
+248
 00:09:36,810 --> 00:09:39,520
 so not even your pitiful prayers
 can save him now.
 
-251
+249
 00:09:39,520 --> 00:09:40,640
 [MAYOR WOOP SLAP]
 Please, no!
 
-252
+250
 00:09:40,640 --> 00:09:43,270
 That rubber face of yours was
 real entertaining for a sec,
 
-253
+251
 00:09:43,270 --> 00:09:45,560
 but now all I want to do is bash it in.
 
-254
+252
 00:09:45,560 --> 00:09:49,320
 You guys don't fight fair!
 You're scum! Lemme go!
 
-255
+253
 00:09:51,110 --> 00:09:54,200
 [HIGUMA]
 Forget selling him. Let's just kill him!
 
-256
+254
 00:09:55,160 --> 00:09:55,910
 [MAKINO]
 Luffy!
 
-257
+255
 00:09:55,910 --> 00:09:57,700
 Have mercy on him, sir!
 
-258
+256
 00:09:57,700 --> 00:09:59,200
 [BANDITS chuckling]
 
-259
+257
 00:10:01,080 --> 00:10:03,540
 [SHANKS]
 Nobody was at the port to greet us.
 
-260
+258
 00:10:03,540 --> 00:10:05,670
 [MAKINO, MAYOR WOOP SLAP gasp]
 
-261
+259
 00:10:05,670 --> 00:10:07,500
 I figured something must be wrong.
 
-262
+260
 00:10:07,500 --> 00:10:08,710
 [MAKINO, MAYOR WOOP SLAP gasp]
 
-263
+261
 00:10:08,710 --> 00:10:10,710
 The mountain bandits again?
 
-264
+262
 00:10:10,710 --> 00:10:11,920
 Captain, you're here!
 
-265
+263
 00:10:11,920 --> 00:10:13,010
 Hey, Luffy.
 
-266
+264
 00:10:13,010 --> 00:10:14,760
 Didn't you say before that your punches
 
-267
+265
 00:10:14,760 --> 00:10:16,800
 were as deadly as getting shot with a pistol?
 
-268
+266
 00:10:17,300 --> 00:10:18,760
 [grunts] Shut up, okay?
 
-269
+267
 00:10:18,760 --> 00:10:21,390
 You're still in town? Shove off, already.
 
-270
+268
 00:10:22,890 --> 00:10:23,480
 [MAKINO gasps]
 
-271
+269
 00:10:24,190 --> 00:10:26,400
 [HIGUMA]
 You'd best leave before you get hurt.
 
-272
+270
 00:10:26,400 --> 00:10:30,110
 Take one step closer and my friend
 here's gonna blow your head clean off.
 
-273
+271
 00:10:30,110 --> 00:10:31,530
 [LUFFY grunts]
 
-274
+272
 00:10:31,940 --> 00:10:34,070
 Didn't you hear what the man said?
 
-275
+273
 00:10:34,070 --> 00:10:35,950
 Do you feel like dying today, buddy?
 
-276
+274
 00:10:35,950 --> 00:10:37,910
 [BANDITS laughing]
 
-277
+275
 00:10:37,910 --> 00:10:40,290
 Well, now that you've drawn your pistol,
 
-278
+276
 00:10:40,290 --> 00:10:41,910
 do you plan to actually use it?
 
-279
+277
 00:10:41,910 --> 00:10:43,620
 What? I'm holdin' it, ain't I?
 
-280
+278
 00:10:43,620 --> 00:10:46,290
 What I'm trying to tell you is that
 guns aren't for making threats.
 
-281
+279
 00:10:46,290 --> 00:10:47,840
 They're made for actions.
 
-282
+280
 00:10:55,680 --> 00:10:57,010
 [BANDITS gasp]
 
-283
+281
 00:10:58,760 --> 00:11:00,260
 No way, I don't believe it!
 
-284
+282
 00:11:00,260 --> 00:11:02,140
 Yeah, these bastards fight dirty!
 
-285
+283
 00:11:02,140 --> 00:11:03,430
 A little.
 
-286
+284
 00:11:03,430 --> 00:11:05,310
 Oh, were you expecting saints?
 
-287
+285
 00:11:05,310 --> 00:11:08,310
 Who the hell do you think
 you're dealing with here?
 
-288
+286
 00:11:08,310 --> 00:11:09,820
 In case it wasn't obvious,
 
-289
+287
 00:11:09,820 --> 00:11:12,070
 you fellas have picked a fight
 with a crew of pirates.
 
-290
+288
 00:11:12,070 --> 00:11:13,190
 Shut your trap!
 
-291
+289
 00:11:13,190 --> 00:11:15,530
 This ain't about you,
 so take your crew and go!
 
-292
+290
 00:11:15,910 --> 00:11:17,280
 [SHANKS]
 Listen up, bandits.
 
-293
+291
 00:11:17,280 --> 00:11:21,490
 If I'm sprayed with alcohol or doused
 with food, hell, even if I'm spit on,
 
-294
+292
 00:11:21,490 --> 00:11:24,250
 most of the time I'll laugh it off and forget it.
 
-295
+293
 00:11:24,250 --> 00:11:25,870
 But...
 
-296
+294
 00:11:26,330 --> 00:11:29,080
 Regardless of what
 your reasoning may be,
 
-297
+295
 00:11:29,080 --> 00:11:33,380
 if you hurt a friend of mine,
 you can believe you're gonna pay for it.
 
-298
+296
 00:11:33,380 --> 00:11:35,930
 [gasps] Is he for real?
 
-299
+297
 00:11:35,930 --> 00:11:38,760
 [laughs] Oh, we are, are we?
 
-300
+298
 00:11:38,340 --> 00:11:41,890
 [exciting music]
 
-301
+299
 00:11:38,760 --> 00:11:41,890
 Go on, fellas! Show these
 wimps a thing or two!
 
-302
+300
 00:11:41,890 --> 00:11:46,640
 [BANDITS yelling]
 
-303
+301
 00:11:46,640 --> 00:11:48,940
 [BECKMAN]
 I'll handle this. Should be easy.
 
-304
+302
 00:11:50,270 --> 00:11:52,980
 [yelling]
 
-305
+303
 00:11:52,980 --> 00:11:54,150
 [yelps]
 
-306
+304
 00:11:54,150 --> 00:11:56,110
 [BANDITS yelling]
 
-307
+305
 00:11:56,110 --> 00:11:56,650
 [BECKMAN grunts]
 
-308
+306
 00:11:56,650 --> 00:11:57,530
 [sounds of clashing]
 
-309
+307
 00:11:57,530 --> 00:11:59,240
 [BANDITS scream]
 
-310
+308
 00:12:01,410 --> 00:12:04,330
 Don't get too cocky. Stay focused.
 
-311
+309
 00:12:05,370 --> 00:12:09,210
 If you wanted to fight us, you should've
 brought a warship or something bigger.
 
-312
+310
 00:12:10,130 --> 00:12:11,540
 This is so cool.
 
-313
+311
 00:12:12,420 --> 00:12:13,460
 Amazing.
 
-314
+312
 00:12:13,460 --> 00:12:14,880
 [gasps] No, hold on!
 
-315
+313
 00:12:14,880 --> 00:12:17,170
 The kid was the one who
 attacked us first, all right?
 
-316
+314
 00:12:17,170 --> 00:12:19,550
 Either way, you're still
 a wanted man, aren't ya?
 
-317
+315
 00:12:19,550 --> 00:12:20,680
 [gasps]
 
-318
+316
 00:12:22,260 --> 00:12:23,220
 [ROUX]
 A smokescreen!
 
-319
+317
 00:12:23,220 --> 00:12:26,020
 [LUFFY] Stop it! Let me go already!
 
-320
+318
 00:12:23,810 --> 00:12:25,100
 [HIGUMA] Come with me!
 
-321
+319
 00:12:28,310 --> 00:12:29,020
 [SHANKS]
 Luffy!
 
-322
+320
 00:12:29,020 --> 00:12:31,020
 Oh, crap, I let the bandit take him!
 
-323
+321
 00:12:31,020 --> 00:12:32,690
 What are we gonna do?!
 
-324
+322
 00:12:31,690 --> 00:12:34,020
 Calm down, Boss! There's
 no use freakin' out over it!
 
-325
+323
 00:12:34,530 --> 00:12:36,570
 We'll find him in no time, I swear!
 
-326
+324
 00:12:36,570 --> 00:12:39,360
 Oh boy. Can't believe this guy.
 
-327
+325
 00:12:39,910 --> 00:12:43,200
 [HIGUMA laughs]
 Guess I made a clean getaway!
 
-328
+326
 00:12:43,700 --> 00:12:46,160
 Sorry, got no need for you anymore.
 
-329
+327
 00:12:46,160 --> 00:12:47,660
 [LUFFY grunting]
 
-330
+328
 00:12:48,540 --> 00:12:50,040
 Ha! See ya, runt!
 
-331
+329
 00:12:50,040 --> 00:12:52,670
 [LUFFY yelps]
 Dammit! I suck!
 
-332
+330
 00:12:52,670 --> 00:12:56,710
 These guys are worthless bandits,
 but I still couldn't get one hit in!
 
-333
+331
 00:12:56,710 --> 00:12:59,800
 I hate this! It's not fair!
 
-334
+332
 00:12:59,800 --> 00:13:03,760
 [HIGUMA laughing]
 Guys, did you see the looks on their faces?
 
-335
+333
 00:13:03,760 --> 00:13:07,060
 All pirates are nothing but
 cowards and weaklings.
 
-336
+334
 00:13:07,060 --> 00:13:08,390
 [LUFFY]
 Shut up!
 
-337
+335
 00:13:08,390 --> 00:13:09,940
 Don't make fun of
 them like that!
 
-338
+336
 00:13:09,940 --> 00:13:10,940
 [MAKINO]
 Luffy, no!
 
-339
+337
 00:13:11,810 --> 00:13:12,400
 [HIGUMA]
 Huh?
 
-340
+338
 00:13:12,400 --> 00:13:15,820
 [LUFFY]
 Take back what you said
 about Shanks and his crew!
 
-341
+339
 00:13:18,990 --> 00:13:20,280
 [HIGUMA laughing]
 
-342
+340
 00:13:20,280 --> 00:13:22,450
 [gurgling]
 
-343
+341
 00:13:22,450 --> 00:13:24,700
 Ha. Stupid brat.
 
-344
+342
 00:13:27,580 --> 00:13:29,870
 [menacing orchestral music]
 
-345
+343
 00:13:29,870 --> 00:13:31,580
 [gasps] What the hell?!
 
-346
+344
 00:13:31,920 --> 00:13:32,620
 [screams]
 
-347
+345
 00:13:34,170 --> 00:13:35,840
 [gurgling] Help me!
 
-348
+346
 00:13:35,840 --> 00:13:37,800
 [LORD OF THE COAST growls]
 
-349
+347
 00:13:39,510 --> 00:13:40,760
 [LUFFY]
 Here it comes!
 
-350
+348
 00:13:42,180 --> 00:13:43,180
 Oh no!
 
-351
+349
 00:13:43,180 --> 00:13:46,100
 [LUFFY's gurgling continues]
 
-352
+350
 00:13:46,100 --> 00:13:47,510
 [LORD OF THE COAST yowls]
 
-353
+351
 00:13:47,510 --> 00:13:50,140
 [LUFFY screaming]
 
-354
+352
 00:13:57,440 --> 00:13:59,150
 Shanks, you found me!
 
-355
+353
 00:14:06,450 --> 00:14:07,990
 [SHANKS]
 Get lost.
 
-356
+354
 00:14:08,660 --> 00:14:13,290
 [LORD OF THE COAST whimpering]
 
-357
+355
 00:14:28,220 --> 00:14:30,770
 [LUFFY sobbing quietly]
 
-358
+356
 00:14:30,060 --> 00:14:32,680
 [contemplative music]
 
-359
+357
 00:14:30,770 --> 00:14:32,680
 [SHANKS]
 I'm in your debt, Luffy.
 
-360
+358
 00:14:32,680 --> 00:14:35,230
 Makino told me about
 how you stood up for us,
 
-361
+359
 00:14:35,230 --> 00:14:37,560
 how you were willing to fight
 and put yourself on the line.
 
-362
+360
 00:14:39,980 --> 00:14:41,900
 Hold on, you can't cry.
 
-363
+361
 00:14:41,900 --> 00:14:43,110
 You're a man now.
 
-364
+362
 00:14:44,530 --> 00:14:47,120
 I know, but this is bad!
 
-365
+363
 00:14:48,330 --> 00:14:50,490
 You lost your arm!
 
-366
+364
 00:14:53,160 --> 00:14:56,080
 Oh, no need to worry about that.
 I've got another one.
 
-367
+365
 00:14:57,210 --> 00:14:59,000
 I'm just glad you're safe.
 
-368
+366
 00:15:01,800 --> 00:15:08,720
 [LUFFY wailing]
 
-369
+367
 00:15:08,720 --> 00:15:11,680
 [NARRATOR]
 Luffy learned many important things that day:
 
-370
+368
 00:15:11,680 --> 00:15:15,270
 the harshness of the sea,
 his own powerlessness,
 
-371
+369
 00:15:15,270 --> 00:15:16,940
 and most importantly,
 
-372
+370
 00:15:16,940 --> 00:15:20,230
 the greatness of the man called Shanks.
 
-373
+371
 00:15:20,230 --> 00:15:23,440
 That's when young Luffy
 resolved with all his heart
 
-374
+372
 00:15:23,440 --> 00:15:25,610
 he would become like him.
 
-375
+373
 00:15:27,360 --> 00:15:28,530
 [LUFFY]
 Shanks.
 
-376
+374
 00:15:28,530 --> 00:15:30,620
 Are you really about to leave
 the village for good?
 
-377
+375
 00:15:30,620 --> 00:15:33,540
 [SHANKS]
 Uh-huh. Yep, it's time for us to part ways.
 
-378
+376
 00:15:33,540 --> 00:15:34,960
 I bet you'll miss me, wontcha?
 
-379
+377
 00:15:35,710 --> 00:15:36,620
 Yeah.
 
-380
+378
 00:15:36,620 --> 00:15:38,920
 But I'm not gonna beg to come with you,
 
-381
+379
 00:15:38,920 --> 00:15:42,130
 'cause I'm gonna become
 a pirate all on my own!
 
-382
+380
 00:15:42,130 --> 00:15:44,470
 That's good, because I wouldn't
 bring you with me anyways.
 
-383
+381
 00:15:45,130 --> 00:15:47,720
 I mean you'll never make it as a pirate, kiddo!
 
-384
+382
 00:15:47,720 --> 00:15:49,850
 Will, too! Just wait and see!
 
-385
+383
 00:15:49,850 --> 00:15:52,890
 I'll round up a crew that's
 every bit as good as yours,
 
-386
+384
 00:15:52,890 --> 00:15:55,060
 and we'll find the world's greatest treasure.
 
-387
+385
 00:15:55,770 --> 00:15:58,400
 And I'm gonna be King of the Pirates!
 
-388
+386
 00:15:59,310 --> 00:16:00,230
 Oh?
 
-389
+387
 00:16:00,810 --> 00:16:03,070
 Planning to outdo me, are ya?
 
-390
+388
 00:16:04,860 --> 00:16:05,990
 Okay.
 
-391
+389
 00:16:07,630 --> 00:16:08,450
 Uh...
 
-392
+390
 00:16:09,490 --> 00:16:12,330
 If that's the case, I'll leave this here.
 
-393
+391
 00:16:18,500 --> 00:16:23,800
 [sobbing]
 
-394
+392
 00:16:18,920 --> 00:16:21,170
 [SHANKS]
 It means more to me than anything.
 
-395
+393
 00:16:24,380 --> 00:16:26,050
 Give it back someday.
 
-396
+394
 00:16:26,590 --> 00:16:28,760
 After you become a great pirate.
 
-397
+395
 00:16:29,130 --> 00:16:30,590
 Okay...
 
-398
+396
 00:16:31,470 --> 00:16:33,640
 He really does have potential.
 
-399
+397
 00:16:33,640 --> 00:16:34,640
 I know.
 
-400
+398
 00:16:34,640 --> 00:16:37,560
 He reminds me of myself
 back when I was a kid.
 
-401
+399
 00:16:38,690 --> 00:16:40,060
 [SHANKS]
 Set sail!
 
-402
+400
 00:16:42,110 --> 00:16:43,860
 [NARRATOR]
 One decade later,
 
-403
+401
 00:16:43,860 --> 00:16:48,150
 Luffy's own pirate adventure
 began at the very same port.
 
-404
+402
 00:16:52,700 --> 00:16:55,370
 I can't believe Luffy's finally leaving.
 
-405
+403
 00:16:55,370 --> 00:16:58,910
 Becoming a pirate is a great
 dishonor to our village.
 
-406
+404
 00:16:59,670 --> 00:17:02,500
 [LUFFY sighs]
 Couldn't ask for a better day for this!
 
-407
+405
 00:17:02,960 --> 00:17:04,340
 [LUFFY laughs]
 
-408
+406
 00:17:08,470 --> 00:17:10,050
 [LUFFY gasps]
 
-409
+407
 00:17:11,340 --> 00:17:13,390
 Hey, it's this big guy again.
 
-410
+408
 00:17:13,390 --> 00:17:15,100
 You shouldn't've done that.
 
-411
+409
 00:17:15,100 --> 00:17:17,980
 'Cause I've been training a lot
 over the past ten years.
 
-412
+410
 00:17:20,190 --> 00:17:21,230
 [roaring]
 
-413
+411
 00:17:21,650 --> 00:17:23,270
 Gum-Gum...
 
-414
+412
 00:17:25,230 --> 00:17:27,190
 [LUFFY]
 Pistol!
 
-415
+413
 00:17:34,700 --> 00:17:35,580
 [chuckles]
 
-416
+414
 00:17:36,870 --> 00:17:39,620
 That oughta teach ya, ya stupid fish!
 
-417
+415
 00:17:46,170 --> 00:17:48,420
 It's time to get goin'!
 
-418
+416
 00:17:48,420 --> 00:17:51,220
 I'm setting out to become
 
-419
+417
 00:17:51,220 --> 00:17:53,800
 King of the Pirates!
 
-420
+418
 00:00:56,570 --> 00:01:02,040
 Monkey D. Luffy
 Village Boy
+
+419
+00:00:56,570 --> 00:01:02,040
+Monkey D. Luffy
+Village Boy
+
+420
+00:01:40,200 --> 00:01:43,580
+"Red-Haired" Shanks
+Pirate Captain
 
 421
-00:00:56,570 --> 00:01:02,040
-Monkey D. Luffy
-Village Boy
+00:01:40,200 --> 00:01:43,580
+"Red-Haired" Shanks
+Pirate Captain
 
 422
-00:01:40,200 --> 00:01:43,580
-"Red-Haired" Shanks
-Pirate Captain
+00:16:49,610 --> 00:16:52,700
+Ten Years Later
 
 423
-00:01:40,200 --> 00:01:43,580
-"Red-Haired" Shanks
-Pirate Captain
+00:16:49,610 --> 00:16:52,700
+Ten Years Later
 
 424
-00:16:49,610 --> 00:16:52,700
-Ten Years Later
-
-425
-00:16:49,610 --> 00:16:52,700
-Ten Years Later
-
-426
 00:17:26,530 --> 00:17:29,160
 [Vi
 
-427
+425
 00:17:29,160 --> 00:17:29,460
 [Vi
 
-428
+426
 00:17:26,580 --> 00:17:29,210
 c Mi
 
-429
+427
 00:17:29,210 --> 00:17:29,510
 c Mi
 
-430
+428
 00:17:26,630 --> 00:17:29,260
 gnog
 
-431
+429
 00:17:29,260 --> 00:17:29,560
 gnog
 
-432
+430
 00:17:26,680 --> 00:17:29,310
 na s
 
-433
+431
 00:17:29,310 --> 00:17:29,610
 na s
 
-434
+432
 00:17:26,730 --> 00:17:29,360
 ingi
 
-435
+433
 00:17:29,360 --> 00:17:29,660
 ingi
 
-436
+434
 00:17:26,780 --> 00:17:29,410
 ng "
 
-437
+435
 00:17:29,410 --> 00:17:29,710
 ng "
 
-438
+436
 00:17:26,830 --> 00:17:29,460
 We A
 
-439
+437
 00:17:29,460 --> 00:17:29,760
 We A
 
-440
+438
 00:17:26,880 --> 00:17:29,510
 re!]
 
-441
+439
 00:17:29,510 --> 00:17:29,810
 re!]
+

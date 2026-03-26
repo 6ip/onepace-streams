@@ -1,1459 +1,1446 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:41,870 --> 00:01:51,860
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:51,750 --> 00:01:54,260
 Oh, du bist wieder wach!
 
-4
+2
 00:01:56,970 --> 00:01:59,710
 Bruder! Teehausdame!
 
-5
+3
 00:01:59,710 --> 00:02:01,340
 Wo bin ich?
 
-6
+4
 00:02:02,260 --> 00:02:03,890
 Du bist in meinem Teehaus.
 
-7
+5
 00:02:05,600 --> 00:02:07,070
 Otama!
 
-8
+6
 00:02:09,360 --> 00:02:10,910
 Wie geht es deinem Bauch?
 
-9
+7
 00:02:13,060 --> 00:02:14,940
 Tut dir dein Bauch noch weh, Otama?
 
-10
+8
 00:02:22,390 --> 00:02:25,700
 Ich bin wieder topfit!
 
-11
+9
 00:02:27,500 --> 00:02:29,330
 Das ging mir ein wenig zu schnell!
 
-12
+10
 00:02:30,480 --> 00:02:33,670
 Die Heilkräuter sind eine wahre Wundermedizin.
 
-13
+11
 00:02:33,670 --> 00:02:36,580
 Das hab ich bloß euch zu verdanken!
 
-14
+12
 00:02:37,470 --> 00:02:40,320
 Nin, nin! Nin, nin!
 
-15
+13
 00:02:40,320 --> 00:02:41,010
 Trotzdem...
 
-16
+14
 00:02:43,240 --> 00:02:46,470
 ist das Gift noch nicht aus deinem Körper raus.
 
-17
+15
 00:02:46,470 --> 00:02:51,730
 Du darfst nicht mehr von dem Flusswasser trinken, Otama.
 
-18
+16
 00:02:51,730 --> 00:02:53,980
 Okay, geht klar!
 
-19
+17
 00:02:58,150 --> 00:02:59,850
 Hör auf zu knurren, Magen!
 
-20
+18
 00:02:59,850 --> 00:03:01,570
 Das beschämt eine Kriegerin!
 
-21
+19
 00:03:01,570 --> 00:03:03,450
 Wasser!
 
-22
+20
 00:03:03,450 --> 00:03:05,950
 Auf zum Fluss!
 
-23
+21
 00:03:05,950 --> 00:03:09,290
 Otama! Bleib sofort stehen!
 
-24
+22
 00:03:15,710 --> 00:03:17,550
 Das Flusswasser...
 
-25
+23
 00:03:17,550 --> 00:03:18,500
 Hä?
 
-26
+24
 00:03:18,920 --> 00:03:20,050
 Hä?
 
-27
+25
 00:03:20,050 --> 00:03:22,090
 Das Flusswasser
 
-28
+26
 00:03:22,090 --> 00:03:24,970
 darfst du nicht trinken!
 
-29
+27
 00:03:27,140 --> 00:03:29,220
 Ihr seid versorgt.
 
-30
+28
 00:03:29,630 --> 00:03:31,690
 Jedoch ist das bloß ein Notverband.
 
-31
+29
 00:03:31,690 --> 00:03:33,980
 Alles klar. Danke dir.
 
-32
+30
 00:03:36,460 --> 00:03:38,780
 Du bist echt ein riesiges Mädchen.
 
-33
+31
 00:03:40,700 --> 00:03:44,200
 Gegen Big Mom zieht sie jedoch den Kürzeren.
 
-34
+32
 00:03:45,520 --> 00:03:51,080
 Vielen Dank für die Rettung, als mich der Sumoringer vorhin bedrängte.
 
-35
+33
 00:03:53,590 --> 00:03:55,670
 Ich hab doch überhaupt nichts getan.
 
-36
+34
 00:03:57,630 --> 00:04:00,400
 Verzeiht, mich nicht vorgestellt zu haben.
 
-37
+35
 00:04:00,400 --> 00:04:04,680
 Meine Wenigkeit trägt den Namen Okiku.
 
-38
+36
 00:04:05,230 --> 00:04:06,260
 Meine Wenigkeit?
 
-39
+37
 00:04:09,500 --> 00:04:10,640
 Hä?
 
-40
+38
 00:04:12,560 --> 00:04:14,980
 Nein! Das geht nicht! Das geht doch nicht!
 
-41
+39
 00:04:21,530 --> 00:04:24,950
 Das kann ich nicht annehmen!
 
-42
+40
 00:04:28,790 --> 00:04:32,250
 Ich kann nicht einmal für die Kosten der Heilkräuter aufkommen!
 
-43
+41
 00:04:32,250 --> 00:04:35,370
 Deshalb kann ich diese Süßbohnensuppe nicht annehmen!
 
-44
+42
 00:04:41,710 --> 00:04:44,010
 Ist schon gut. Ich will kein Geld dafür.
 
-45
+43
 00:04:45,100 --> 00:04:45,760
 Nein!
 
-46
+44
 00:04:46,490 --> 00:04:47,680
 Ich kann sie nicht essen!
 
-47
+45
 00:04:50,810 --> 00:04:55,520
 Sowohl Ihr als auch Okiku habt sicher auch kaum was gegessen!
 
-48
+46
 00:04:55,520 --> 00:04:57,900
 Schon in Ordnung. Iss sie ruhig.
 
-49
+47
 00:04:58,640 --> 00:05:02,940
 Nachdem Ihr mein Leben gerettet habt, kann ich nicht noch Euer Essen annehmen!
 
-50
+48
 00:05:02,940 --> 00:05:05,740
 Das geht einfach nicht!
 
-51
+49
 00:05:05,740 --> 00:05:06,990
 Jetzt stell dich nicht so an!
 
-52
+50
 00:05:06,990 --> 00:05:08,160
 Nein!
 
-53
+51
 00:05:08,160 --> 00:05:09,330
 Ist schon in Ordnung!
 
-54
+52
 00:05:09,330 --> 00:05:12,620
 Ich werde ganz bestimmt für die Heilkräuter aufkommen!
 
-55
+53
 00:05:19,570 --> 00:05:22,550
 Halt endlich die Klappe!
 
-56
+54
 00:05:22,550 --> 00:05:23,510
 Hä?
 
-57
+55
 00:05:23,510 --> 00:05:26,220
 Eine Frau hat dir ihr Essen serviert...
 
-58
+56
 00:05:26,760 --> 00:05:27,840
 „Ich will es nicht.“
 
-59
+57
 00:05:27,840 --> 00:05:28,970
 „Na schön.“
 
-60
+58
 00:05:29,430 --> 00:05:33,140
 Glaubst du ernsthaft, ich lasse mich so leicht abspeisen?
 
-61
+59
 00:05:35,250 --> 00:05:37,350
 Wenn du sie nicht isst,
 
-62
+60
 00:05:38,600 --> 00:05:41,570
 werde ich sie auf die Straße kippen!
 
-63
+61
 00:05:43,070 --> 00:05:45,100
 Bitte nicht!
 
-64
+62
 00:05:45,590 --> 00:05:47,240
 Otama! Iss sie einfach!
 
-65
+63
 00:05:47,240 --> 00:05:50,700
 Otsuru akzeptiert kein Nein als Antwort.
 
-66
+64
 00:06:01,800 --> 00:06:03,800
 Wie lange willst du sie noch anstarren?
 
-67
+65
 00:06:04,190 --> 00:06:05,850
 Ist doch ’ne nette Geste!
 
-68
+66
 00:06:06,310 --> 00:06:08,890
 Du hast doch heute auch Geburtstag!
 
-69
+67
 00:06:08,890 --> 00:06:10,680
 Ach, wirklich?
 
-70
+68
 00:06:11,230 --> 00:06:12,640
 Das hab ich gehört.
 
-71
+69
 00:06:12,640 --> 00:06:16,570
 Gut, dann nimm sie als mein Geburtstagsgeschenk an
 
-72
+70
 00:06:17,030 --> 00:06:18,350
 und iss fein auf.
 
-73
+71
 00:07:08,820 --> 00:07:12,070
 Das ist so lecker!
 
-74
+72
 00:07:13,820 --> 00:07:17,540
 So eine köstliche Mahlzeit!
 
-75
+73
 00:07:18,830 --> 00:07:19,690
 Hä?
 
-76
+74
 00:07:20,450 --> 00:07:23,540
 Isst du das etwa zum ersten Mal?
 
-77
+75
 00:07:23,540 --> 00:07:24,590
 Ja!
 
-78
+76
 00:07:27,340 --> 00:07:32,090
 Was glaubst du, wie viele Tage sie nichts mehr gegessen hat?
 
-79
+77
 00:07:32,090 --> 00:07:37,380
 Obwohl sie jeden Tag fleißig Bambushüte flechtet und verkauft,
 
-80
+78
 00:07:37,380 --> 00:07:41,480
 verdienen wir gerade mal genug für eine Person!
 
-81
+79
 00:07:50,950 --> 00:07:53,670
 Es sind sogar Reiskuchen drin!
 
-82
+80
 00:07:54,380 --> 00:07:56,950
 Ich speise wie eine Fürstin!
 
-83
+81
 00:07:59,840 --> 00:08:02,210
 Du kannst die Dinger doch aus deiner Backe drücken.
 
-84
+82
 00:08:04,510 --> 00:08:07,290
 Aber das macht mich leider nicht satt.
 
-85
+83
 00:08:07,290 --> 00:08:10,260
 Köstlich!
 
-86
+84
 00:08:13,000 --> 00:08:16,430
 Teehausdame! Habt vielen Dank!
 
-87
+85
 00:08:18,850 --> 00:08:23,310
 So einen traumhaften Geburtstag könnte kaum etwas übertreffen!
 
-88
+86
 00:08:24,180 --> 00:08:26,870
 Schade, dass der Meister gerade nicht hier ist.
 
-89
+87
 00:08:33,800 --> 00:08:34,990
 Otsuru?
 
-90
+88
 00:08:43,580 --> 00:08:47,700
 Heute ist der weltbeste Tag!
 
-91
+89
 00:09:06,810 --> 00:09:09,610
 Vielen Kindern ergeht es heutzutage so.
 
-92
+90
 00:09:10,670 --> 00:09:12,880
 Zumindest denen in Wano Kuni.
 
-93
+91
 00:09:12,880 --> 00:09:17,450
 Einfach nicht zu glauben, dass sich so ein Winzling nicht satt essen kann.
 
-94
+92
 00:09:17,450 --> 00:09:21,600
 Nun gut, wenn sie größer ist, kriegt sie das Gift schon runter.
 
-95
+93
 00:09:21,600 --> 00:09:22,580
 Sicher nicht.
 
-96
+94
 00:09:23,160 --> 00:09:26,290
 Solange es das Meer,
 die Berge und Wälder gibt,
 
-97
+95
 00:09:26,290 --> 00:09:28,960
 sollte es Futter in Hülle und Fülle geben.
 
-98
+96
 00:09:29,930 --> 00:09:31,090
 Ja, schon.
 
-99
+97
 00:09:31,710 --> 00:09:34,880
 Die Menschen haben sich die Landschaft selbst verschandelt.
 
-100
+98
 00:09:38,970 --> 00:09:40,640
 Kaido kann was erleben!
 
-101
+99
 00:09:41,680 --> 00:09:42,970
 Ja.
 
-102
+100
 00:09:46,190 --> 00:09:48,480
 Ihr seid wirklich ein paar nette Männer.
 
-103
+101
 00:09:49,350 --> 00:09:52,070
 Ach genau! Wie heißt ihr überhaupt?
 
-104
+102
 00:09:53,560 --> 00:09:56,170
 Mein Name ist Zorojuro.
 
-105
+103
 00:09:56,170 --> 00:09:57,490
 Ich bin ein Ronin.
 
-106
+104
 00:09:58,400 --> 00:09:59,870
 Ich bin Monkey D...
 
-107
+105
 00:10:12,780 --> 00:10:14,430
 Sein Name lautet...
 
-108
+106
 00:10:17,330 --> 00:10:18,430
 Luffytaro!
 
-109
+107
 00:10:18,430 --> 00:10:19,610
 Hä?
 
-110
+108
 00:10:20,300 --> 00:10:22,430
 Genau...
 
-111
+109
 00:10:24,550 --> 00:10:25,980
 Ich bin Luffytaro!
 
-112
+110
 00:10:27,900 --> 00:10:29,100
 Angenehm.
 
-113
+111
 00:10:33,610 --> 00:10:35,110
 Ihr kommt von Übersee, oder?
 
-114
+112
 00:10:36,190 --> 00:10:38,490
 Unglaublich, dass ihr es an Land geschafft habt.
 
-115
+113
 00:10:38,490 --> 00:10:40,200
 Was hat uns verraten?
 
-116
+114
 00:10:40,200 --> 00:10:42,020
 Ihr redet etwas merkwürdig.
 
-117
+115
 00:10:42,020 --> 00:10:43,070
 – Hä?!
 – Hä?!
 
-118
+116
 00:10:43,070 --> 00:10:44,470
 Keine Sorge.
 
-119
+117
 00:10:44,990 --> 00:10:46,880
 Ich verrate euch nicht.
 
-120
+118
 00:10:48,790 --> 00:10:51,810
 Ich bin auch erst in diese Stadt gezogen.
 
-121
+119
 00:10:51,810 --> 00:10:56,340
 Und Okiku arbeitet gerade mal einen Monat für mich.
 
-122
+120
 00:10:57,340 --> 00:11:00,050
 Diese Stadt heißt doch „Okobore, die Restestadt“.
 
-123
+121
 00:11:00,050 --> 00:11:02,440
 Wieso wurde sie so benannt?
 
-124
+122
 00:11:02,440 --> 00:11:03,970
 Wie es der Name schon sagt,
 
-125
+123
 00:11:05,010 --> 00:11:10,700
 lebt jeder Bewohner dieser Stadt von den „Resten“ der Beamten.
 
-126
+124
 00:11:11,250 --> 00:11:14,900
 Tama sagte auch, dass es hier sonst bloß vergiftetes Essen gäbe.
 
-127
+125
 00:11:14,900 --> 00:11:17,030
 Schaut mal dort nach oben.
 
-128
+126
 00:11:19,020 --> 00:11:21,600
 Seht ihr den Berg dort,
 wo kein Schornstein hochragt?
 
-129
+127
 00:11:22,180 --> 00:11:26,700
 Früher stand auf der Spitze die Burg Oden.
 
-130
+128
 00:11:27,800 --> 00:11:30,920
 20 Jahre ist das nun schon her.
 
-131
+129
 00:11:30,920 --> 00:11:32,660
 Oden...
 
-132
+130
 00:11:33,350 --> 00:11:36,130
 Das habe ich schon mal gehört.
 Wo war das noch gleich?
 
-133
+131
 00:11:37,130 --> 00:11:39,450
 Bis vor 20 Jahren
 
-134
+132
 00:11:40,120 --> 00:11:45,060
 herrschte für lange Zeit der Kozuki-Klan über Wano Kuni.
 
-135
+133
 00:11:48,110 --> 00:11:52,930
 Die riesige Plantage, die sich bis zum Fuße des Berges erstreckt,
 
-136
+134
 00:11:52,930 --> 00:11:56,210
 wurde vom verstorbenen Lord Oden errichtet,
 
-137
+135
 00:11:56,210 --> 00:12:00,460
 damit das Volk von Kuri köstliches Essen verzehren kann.
 
-138
+136
 00:12:19,460 --> 00:12:26,390
 Und nicht damit Orochi und seine Schergen die Nahrungsmittel an sich reißen.
 
-139
+137
 00:12:29,490 --> 00:12:31,600
 Diese herrliche Plantage...
 
-140
+138
 00:12:34,090 --> 00:12:35,520
 Das habe ich gehört!
 
-141
+139
 00:12:35,520 --> 00:12:39,570
 Gibt es auf dieser Plantage Futter,
 das nicht vergiftet ist?
 
-142
+140
 00:12:40,680 --> 00:12:41,820
 Ja, gibt es.
 
-143
+141
 00:12:42,620 --> 00:12:47,030
 Gesunde und leckere Lebensmittel, sauberes Wasser und Kleidung...
 
-144
+142
 00:12:47,030 --> 00:12:49,370
 Dies alles ist im Besitz
 
-145
+143
 00:12:49,370 --> 00:12:53,280
 von Shogun Orochi.
 
-146
+144
 00:12:57,070 --> 00:13:01,050
 Auf der anderen Seite des Torbogens befindet sich die Stadt der Beamten.
 
-147
+145
 00:13:01,690 --> 00:13:06,500
 Wir bitten sie um ihre Gebrauchtgegenstände und ihre fast verfallenen Lebensmittel,
 
-148
+146
 00:13:06,500 --> 00:13:08,140
 damit wir überleben.
 
-149
+147
 00:13:10,290 --> 00:13:12,270
 Deswegen heißt diese Stadt also Okobore.
 
-150
+148
 00:13:12,900 --> 00:13:14,490
 Macht euch keine Gedanken.
 
-151
+149
 00:13:14,490 --> 00:13:16,770
 Wir überleben auch mit dem Wenigsten.
 
-152
+150
 00:14:04,310 --> 00:14:06,260
 Was fällt dir ein?
 
-153
+151
 00:14:06,260 --> 00:14:08,360
 Misch dich gefälligst nicht ein!
 
-154
+152
 00:14:09,660 --> 00:14:12,770
 Ich habe dich genau gehört, Weibsbild!
 
-155
+153
 00:14:12,770 --> 00:14:15,620
 Du hast schlecht über den Shogun gesprochen!
 
-156
+154
 00:14:17,750 --> 00:14:21,500
 Ich besitze den sechsfachen Gehörsinn eines Menschen!
 
-157
+155
 00:14:21,500 --> 00:14:24,590
 Wenn jemand schlecht über den Shogun redet, höre ich das!
 
-158
+156
 00:14:28,270 --> 00:14:30,430
 Freut mich, dass du so gut hören kannst,
 
-159
+157
 00:14:30,430 --> 00:14:33,260
 aber das ist kein Grund, jemandem das Leben zu nehmen!
 
-160
+158
 00:14:34,040 --> 00:14:36,060
 Hättest du sie getroffen, wäre sie tot!
 
-161
+159
 00:14:38,280 --> 00:14:42,190
 Ich krümme niemandem ein Haar, der in Frieden sein Leben verbringt.
 
-162
+160
 00:14:43,220 --> 00:14:44,860
 Aber Shogun Orochi
 
-163
+161
 00:14:44,860 --> 00:14:50,320
 vergibt niemandem,
 der abtrünnige Absichten hegt!
 
-164
+162
 00:15:24,980 --> 00:15:26,320
 Meine Pfeile!
 
-165
+163
 00:15:27,230 --> 00:15:29,740
 Ihr habt sie alle abgewehrt!
 
-166
+164
 00:15:29,740 --> 00:15:32,010
 Wer seid ihr?
 
-167
+165
 00:15:32,010 --> 00:15:36,030
 Seit einigen Wochen geschehen Diebstähle auf der Plantage.
 
-168
+166
 00:15:36,030 --> 00:15:40,250
 Wir suchen noch nach dem Diebespack!
 
-169
+167
 00:15:40,250 --> 00:15:43,420
 Kann es sein, dass ihr das wart?
 
-170
+168
 00:15:49,590 --> 00:15:51,840
 Ein einäugiger Ronin?
 
-171
+169
 00:15:55,230 --> 00:15:58,020
 Ich habe ihn auf einem Steckbrief gesehen!
 
-172
+170
 00:16:14,160 --> 00:16:16,700
 Lass mich los!
 
-173
+171
 00:16:17,580 --> 00:16:19,450
 Wer zum Teufel bist du?
 
-174
+172
 00:16:20,220 --> 00:16:21,370
 Otama!
 
-175
+173
 00:16:22,960 --> 00:16:25,460
 Hilfe!
 
-176
+174
 00:16:25,460 --> 00:16:28,420
 Bruder!
 
-177
+175
 00:16:29,700 --> 00:16:30,590
 Tama...
 
-178
+176
 00:16:32,090 --> 00:16:34,470
 Tama!
 
-179
+177
 00:16:36,860 --> 00:16:39,060
 Der Plan war ein voller Erfolg!
 
-180
+178
 00:16:42,350 --> 00:16:45,020
 Gebt uns Tama zurück!
 
-181
+179
 00:16:58,740 --> 00:17:00,290
 Okiku!
 
-182
+180
 00:17:08,380 --> 00:17:09,880
 Ein Schwert?
 
-183
+181
 00:17:11,970 --> 00:17:13,380
 Er ist verdammt schnell!
 
-184
+182
 00:17:13,800 --> 00:17:15,880
 Lass mich los!
 
-185
+183
 00:17:16,260 --> 00:17:18,640
 Halt die Klappe, du Drecksgöre!
 
-186
+184
 00:17:18,970 --> 00:17:21,350
 Spendier mir einen Ritt, Löwenhund!
 
-187
+185
 00:17:26,950 --> 00:17:27,840
 Fiffi!
 
-188
+186
 00:17:35,150 --> 00:17:37,950
 Dieses Weib hat ein Schwert dabei!
 
-189
+187
 00:17:37,950 --> 00:17:39,910
 Sie soll im Schwertkampf versiert sein!
 
-190
+188
 00:17:41,560 --> 00:17:43,750
 Gezeigt hat sie mir das jedoch nie.
 
-191
+189
 00:17:46,710 --> 00:17:48,580
 Fiffi!
 
-192
+190
 00:17:48,580 --> 00:17:50,840
 Nimm mich auch mit!
 
-193
+191
 00:17:54,500 --> 00:17:55,420
 Sein Arm!
 
-194
+192
 00:17:57,630 --> 00:17:59,470
 Warte!
 
-195
+193
 00:17:59,470 --> 00:18:01,520
 Ich komm auch mit!
 
-196
+194
 00:18:01,520 --> 00:18:02,310
 Klar!
 
-197
+195
 00:18:05,730 --> 00:18:07,930
 Diese Mistkerle!
 
-198
+196
 00:18:11,490 --> 00:18:14,110
 Luffytaro! Zorojuro!
 
-199
+197
 00:18:17,040 --> 00:18:19,490
 Wieso haben sie es auf die Göre abgesehen?
 
-200
+198
 00:18:19,490 --> 00:18:23,120
 Keine Ahnung, aber wir müssen sie zurückholen!
 
-201
+199
 00:18:25,370 --> 00:18:27,780
 Tama!
 
-202
+200
 00:18:27,780 --> 00:18:30,830
 Wir kommen dir sofort zu Hilfe!
 
-203
+201
 00:18:31,390 --> 00:18:33,750
 Bruder!
 
-204
+202
 00:18:38,180 --> 00:18:41,010
 Gazelleman! Beeile dich!
 
-205
+203
 00:18:41,010 --> 00:18:43,310
 Verstanden!
 
-206
+204
 00:18:47,930 --> 00:18:50,400
 Ihr werdet ihn niemals einholen!
 
-207
+205
 00:18:53,520 --> 00:18:55,130
 Scheiße!
 
-208
+206
 00:18:55,130 --> 00:18:58,040
 Das müssen sie alles geplant haben!
 
-209
+207
 00:18:58,040 --> 00:19:02,230
 Sie haben sicher den Befehl eines Headliners ausgeführt.
 
-210
+208
 00:19:02,230 --> 00:19:05,660
 Außerdem führt uns dieser Weg nur an einen Ort.
 
-211
+209
 00:19:07,670 --> 00:19:09,500
 Und zwar zur Beamtenstadt.
 
-212
+210
 00:19:11,790 --> 00:19:12,750
 Ein Notizbuch?
 
-213
+211
 00:19:13,470 --> 00:19:16,260
 In dieser Stadt gibt es drei Headliner.
 
-214
+212
 00:19:17,150 --> 00:19:18,360
 Hawkins.
 
-215
+213
 00:19:19,340 --> 00:19:20,390
 Holdem.
 
-216
+214
 00:19:21,570 --> 00:19:23,300
 Speed.
 
-217
+215
 00:19:23,300 --> 00:19:24,790
 Außerdem...
 
-218
+216
 00:19:25,140 --> 00:19:27,750
 befinden sich dort ungefähr 30 Krieger,
 
-219
+217
 00:19:27,750 --> 00:19:30,510
 die ihre Fähigkeiten durch künstliche Früchte erhielten.
 
-220
+218
 00:19:32,730 --> 00:19:36,580
 Du bist kein gewöhnliches Mädchen.
 
-221
+219
 00:19:38,770 --> 00:19:40,210
 Wer bist du?
 
-222
+220
 00:19:47,200 --> 00:19:48,660
 Meine Wenigkeit
 
-223
+221
 00:19:50,250 --> 00:19:51,530
 ist ein Samurai.
 
-224
+222
 00:19:58,820 --> 00:20:02,090
 Headliner Holdem! Hier spricht Gazelleman!
 
-225
+223
 00:20:02,660 --> 00:20:08,440
 Ich habe die besagte Göre geschnappt,
 die laut Bericht den Pavian bändigen konnte!
 
-226
+224
 00:20:09,560 --> 00:20:12,850
 Lass mich endlich los!
 
-227
+225
 00:20:13,870 --> 00:20:16,280
 Ausgezeichnete Arbeit!
 
-228
+226
 00:20:16,280 --> 00:20:18,820
 Sie kann uns von Nutzen sein.
 
-229
+227
 00:20:19,380 --> 00:20:20,770
 Bring sie zu mir.
 
-230
+228
 00:20:20,770 --> 00:20:21,600
 Jawohl!
 
-231
+229
 00:20:36,890 --> 00:20:40,670
 Bruder Luffy!
 
-232
+230
 00:20:44,030 --> 00:20:49,120
 Dies ist Bakura, die erblühende Stadt in der Region Kuri von Wano Kuni.
 
-233
+231
 00:20:59,360 --> 00:21:00,480
 Verdammt nochmal!
 
-234
+232
 00:21:02,940 --> 00:21:05,320
 Dieser Ronin hatte vielleicht Nerven!
 
-235
+233
 00:21:05,320 --> 00:21:08,860
 Ich hab mich von seiner merkwürdigen Aura einschüchtern lassen!
 
-236
+234
 00:21:08,860 --> 00:21:13,810
 Ich werde Okiku trotzdem um jeden Preis zu meiner Gemahlin machen!
 
-237
+235
 00:21:15,080 --> 00:21:20,060
 Ich genieße einen guten Stand und Ruf. Außerdem habe ich gesunde Nahrungsmittel.
 
-238
+236
 00:21:21,700 --> 00:21:24,630
 Sie würde mich nie im Leben zurückweisen.
 
-239
+237
 00:21:29,430 --> 00:21:33,310
 Mach dir doch wegen so einer Lappalie keine Sorgen, du Schwachkopf!
 
-240
+238
 00:21:34,830 --> 00:21:37,320
 Sie ist doch ein Weib aus Okobore.
 
-241
+239
 00:21:37,320 --> 00:21:42,430
 Das heißt, sie zählt zum Herrschaftsbereich von
 Shogun Orochi und ist ein Mensch niederen Standes.
 
-242
+240
 00:21:45,740 --> 00:21:49,120
 Spielt doch keine Rolle, ob sie dich liebt oder verabscheut.
 
-243
+241
 00:21:49,120 --> 00:21:52,610
 Nimm sie dir einfach mit Gewalt.
 
-244
+242
 00:21:52,610 --> 00:21:55,080
 Du könntest auch ihr Haus abfackeln
 
-245
+243
 00:21:55,900 --> 00:22:00,600
 oder ihre Blutsverwandten abmurksen, damit sie nirgendwo mehr hin kann.
 
-246
+244
 00:22:01,150 --> 00:22:06,170
 Nimm ihr einfach alles,
 damit sie auf dich angewiesen ist!
 
-247
+245
 00:22:09,300 --> 00:22:12,060
 Du gehörst dem Kriegerstand an!
 
-248
+246
 00:22:12,060 --> 00:22:16,770
 In Wano Kuni herrscht schließlich ein Ständesystem.
 
-249
+247
 00:22:21,770 --> 00:22:26,900
 Wenn ein Sumo-Star wie du sich wegen so einer niederen Person Gedanken macht,
 
-250
+248
 00:22:27,610 --> 00:22:30,760
 gibst du kein gutes Vorbild für die anderen ab!
 
-251
+249
 00:22:33,740 --> 00:22:35,450
 Da hast du recht!
 
-252
+250
 00:22:36,910 --> 00:22:41,250
 Genau! Okiku gehört ganz und gar mir!
 
-253
+251
 00:22:45,030 --> 00:22:48,630
 Herr Yokozuna, hat es Euch denn nicht gemundet?
 
-254
+252
 00:22:52,970 --> 00:22:55,430
 Das dort ist doch ein Marderhund, oder?
 
-255
+253
 00:22:55,430 --> 00:22:59,640
 Ja. Ich halte ihn schon seit vielen Jahren als Haustier.
 
-256
+254
 00:22:59,940 --> 00:23:02,050
 Bereite ihn mir zu!
 
-257
+255
 00:23:02,050 --> 00:23:02,980
 Was?
 
-258
+256
 00:23:04,770 --> 00:23:07,440
 Marderhunde sind meine Leibspeise!
 
-259
+257
 00:23:34,450 --> 00:23:36,280
 Endlich bist du da.
 
-260
+258
 00:23:51,240 --> 00:23:53,040
 Ich kann es sehen!
 
-261
+259
 00:23:57,540 --> 00:23:58,790
 Wir dringen direkt ein!
 
-262
+260
 00:23:58,790 --> 00:24:00,960
 Luffytaro, Zorojuro!
 
-263
+261
 00:24:01,830 --> 00:24:05,920
 Vor uns liegt Bakura, die Stadt der Beamten und Piraten!
 
-264
+262
 00:24:06,540 --> 00:24:08,630
 Ich kann nicht für euer Leben garantieren!
 
-265
+263
 00:24:13,670 --> 00:24:15,890
 Seid ihr bereit?
 
-266
+264
 00:24:17,230 --> 00:24:18,220
 – Ja!
 – Ja!
 
-267
+265
 00:24:23,700 --> 00:24:25,290
 Ist sie das?
 
-268
+266
 00:24:28,040 --> 00:24:29,940
 Du tust mir fast schon leid.
 
-269
+267
 00:24:30,690 --> 00:24:33,410
 Sie scheint gleich in Tränen auszubrechen.
 
-270
+268
 00:24:37,080 --> 00:24:39,510
 Ich werde nicht weinen!
 
-271
+269
 00:24:44,330 --> 00:24:46,490
 Brauchst nicht die Starke spielen!
 
-272
+270
 00:24:59,100 --> 00:24:59,600
 Aua!
 
-273
+271
 00:25:09,790 --> 00:25:12,030
 Mann, hab ich Seitenstechen!
 
-274
+272
 00:25:15,290 --> 00:25:18,070
 Halt die Klappe, Gazelleman!
 
-275
+273
 00:25:26,880 --> 00:25:29,060
 Du kannst verschwinden!
 
-276
+274
 00:25:29,060 --> 00:25:31,520
 Dein Gekeuche geht mir auf den Senkel!
 
-277
+275
 00:25:38,680 --> 00:25:42,320
 Geh und ruh dich aus! Verdammter Hornochse!
 
-278
+276
 00:25:50,100 --> 00:25:52,730
 Mit dir habe ich nicht gesprochen!
 
-279
+277
 00:25:53,560 --> 00:25:58,240
 Hör auf, mir so penetrant ins Gesicht zu starren!
 
-280
+278
 00:26:16,130 --> 00:26:19,030
 Ich hab solche Angst!
 
-281
+279
 00:26:19,540 --> 00:26:22,560
 Sein Bauch ist ein Löwe!
 
-282
+280
 00:26:28,390 --> 00:26:32,110
 Was soll dieser rebellische Blick?
 
-283
+281
 00:26:47,110 --> 00:26:48,580
 Was ist passiert?
 
-284
+282
 00:26:48,580 --> 00:26:49,860
 Er hat es wieder getan!
 
-285
+283
 00:26:49,860 --> 00:26:52,170
 Das war der Sackklatscher des Löwen!
 
-286
+284
 00:26:57,160 --> 00:27:00,990
 Aber da sie sich ein und denselben Körper teilen,
 
-287
+285
 00:27:00,990 --> 00:27:05,560
 verspürt der Löwe ebenfalls die Schmerzen.
 
-288
+286
 00:27:10,400 --> 00:27:12,270
 Wieso lernt er nie dazu?
 
-289
+287
 00:27:12,270 --> 00:27:14,110
 Headliner Holdem.
 
-290
+288
 00:27:14,110 --> 00:27:16,650
 Was sollen wir mit der Göre machen?
 
-291
+289
 00:27:17,660 --> 00:27:18,950
 Headliner Holdem!
 
-292
+290
 00:27:19,580 --> 00:27:21,450
 Dein Name war Otama, richtig?
 
-293
+291
 00:27:26,770 --> 00:27:32,330
 Wie konnte eine schwächliche kleine Göre
 
-294
+292
 00:27:34,120 --> 00:27:38,380
 den wilden Pavian so handzahm machen?
 
-295
+293
 00:27:38,380 --> 00:27:41,500
 Meine Untergebenen haben es mit eigenen Augen gesehen!
 
-296
+294
 00:28:00,320 --> 00:28:03,240
 Spiel jetzt bloß nicht die Unwissende!
 
-297
+295
 00:28:03,240 --> 00:28:07,840
 Das muss doch die Kraft einer echten Teufelsfrucht gewesen sein!
 
-298
+296
 00:28:11,190 --> 00:28:12,430
 Los!
 
-299
+297
 00:28:13,170 --> 00:28:15,040
 Rede!
 
-300
+298
 00:28:18,100 --> 00:28:19,340
 Otama!
 
-301
+299
 00:28:19,340 --> 00:28:23,860
 Deine Fähigkeit ist für Feinde eine anziehende Kraft.
 
-302
+300
 00:28:23,860 --> 00:28:27,540
 Du darfst sie niemals vor den Augen anderer einsetzen!
 
-303
+301
 00:28:39,440 --> 00:28:41,650
 Die Tiere...
 
-304
+302
 00:28:43,450 --> 00:28:45,450
 schließen mich...
 
-305
+303
 00:28:47,180 --> 00:28:50,540
 eben einfach schnell in ihr Herz.
 
-306
+304
 00:28:52,300 --> 00:28:54,450
 Ach so!
 
-307
+305
 00:28:54,450 --> 00:28:56,080
 Verstehe!
 
-308
+306
 00:28:56,080 --> 00:28:59,070
 So war das also!
 
-309
+307
 00:29:01,520 --> 00:29:03,550
 Genau so ist es.
 
-310
+308
 00:29:05,470 --> 00:29:07,100
 Hältst du mich für bescheuert?
 
-311
+309
 00:29:09,680 --> 00:29:12,610
 Du verdammte Drecksgöre!
 
-312
+310
 00:29:16,500 --> 00:29:19,430
 Ich glaube, sie sagten,
 
-313
+311
 00:29:19,430 --> 00:29:22,050
 dass du ein Stück von deiner Wange abgerissen hättest.
 
-314
+312
 00:29:35,910 --> 00:29:38,530
 Wenn du nicht auspacken willst,
 
-315
+313
 00:29:41,360 --> 00:29:43,720
 dann ziehe ich andere Saiten auf.
 
-316
+314
 00:29:43,720 --> 00:29:45,970
 Hey, bringt mir eine Zange!
 
-317
+315
 00:29:45,970 --> 00:29:47,220
 Jawohl!
 
-318
+316
 00:29:51,430 --> 00:29:54,650
 Doch nicht die! Ich brauch eine viel größere!
 
-319
+317
 00:29:59,320 --> 00:30:02,570
 Bruder Luffy...
 
-320
+318
 00:30:15,040 --> 00:30:20,630
 Hilf mir! Bruder Luffy!
 
-321
+319
 00:30:22,750 --> 00:30:25,300
 Tama!
 
-322
+320
 00:30:30,450 --> 00:30:32,270
 Haltet ein! Haltet ein!
 
-323
+321
 00:30:32,270 --> 00:30:34,060
 Sofern euch euer Leben lieb ist!
 
-324
+322
 00:30:34,060 --> 00:30:35,850
 Eindringlinge!
 
-325
+323
 00:30:36,470 --> 00:30:38,690
 Nur noch hier durch und wir sind in Bakura!
 
-326
+324
 00:30:38,690 --> 00:30:42,440
 Luffy! Wir haben keine Zeit für diese Schmeißfliegen!
 
-327
+325
 00:30:43,810 --> 00:30:45,110
 Schon verstanden!
 
-328
+326
 00:30:45,110 --> 00:30:47,570
 Brettere einfach durch, Fiffi!
 
-329
+327
 00:30:52,700 --> 00:30:54,830
 Hä?
 
-330
+328
 00:30:55,430 --> 00:30:57,250
 Kapitän!
 
-331
+329
 00:30:58,440 --> 00:31:00,150
 Wir haben ein Problem!
 
-332
+330
 00:31:04,270 --> 00:31:06,010
 Kapitän!
 
-333
+331
 00:31:06,010 --> 00:31:08,670
 Was ist los? Wieso bist du so aus der Puste?
 
-334
+332
 00:31:10,070 --> 00:31:12,430
 Der Strohhut und Roronoa...
 
-335
+333
 00:31:13,860 --> 00:31:15,630
 Der Strohhut ist in Wano Kuni?
 
-336
+334
 00:31:16,250 --> 00:31:18,710
 Verstehe. Wurde auch Zeit.
 
-337
+335
 00:31:18,710 --> 00:31:23,110
 Der Strohhut und Roronoa sind in Bakura reingestürmt!
 
-338
+336
 00:31:24,360 --> 00:31:26,300
 Jetzt warte mal!
 
-339
+337
 00:31:26,300 --> 00:31:28,600
 Die werden todsicher Ärger verzapfen!
 
-340
+338
 00:31:28,600 --> 00:31:30,490
 Genau das ist das Problem.
 
-341
+339
 00:31:32,200 --> 00:31:33,280
 Kapitän!
 
-342
+340
 00:31:35,970 --> 00:31:37,580
 Kapitän!
 
-343
+341
 00:31:39,780 --> 00:31:42,130
 Wir müssen diese Schwachköpfe aufhalten!
 
-344
+342
 00:31:42,870 --> 00:31:44,710
 Aye-aye, Kapitän!
 
-345
+343
 00:31:53,260 --> 00:31:55,890
 Aufhören!
 
-346
+344
 00:31:57,910 --> 00:32:01,970
 Zeig mir deine Fähigkeit,
 wenn du willst, dass ich aufhören soll.
 
-347
+345
 00:32:22,030 --> 00:32:25,290
 Tama!
 
-348
+346
 00:32:41,330 --> 00:32:42,140
 Hä?
 
-349
+347
 00:32:42,140 --> 00:32:43,980
 Was habt Ihr getan?
 
-350
+348
 00:32:46,370 --> 00:32:47,520
 Das war mein Haki.
 
-351
+349
 00:32:47,520 --> 00:32:48,590
 Haki?
 
-352
+350
 00:32:49,480 --> 00:32:51,240
 Genau gesagt das Königshaki.
 
-353
+351
 00:14:17,750 --> 00:14:23,250
 Batman
 Fledermaus-SMILE Gifter
 
-354
+352
 00:15:54,220 --> 00:15:58,020
 Zorojuro der Schlitzer
 
-355
+353
 00:16:34,840 --> 00:16:38,760
 Gazelleman
 Gazellen-SMILE Gifter
 
-356
+354
 00:22:09,850 --> 00:22:16,770
 Mouseman
 Maus-SMILE Gifter
 
-357
+355
 00:24:44,870 --> 00:24:50,300
 Anwesen in 
 Bakura
 
-358
+356
 00:26:16,260 --> 00:26:21,050
 Holdem
 Headliner der 100-Bestien-Piraten
 Löwen-SMILE
 
-359
+357
 00:26:22,850 --> 00:26:27,020
 Kamijiro
 Holdems Bauch
+

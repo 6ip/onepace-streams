@@ -2,19 +2,6 @@
 00:04:46,840 --> 00:04:52,790
 PUEBLO NEVADO
 
-
-
-
-
-
-
-
-
-
-
-
-BIGHORN
-
 2
 00:05:46,170 --> 00:05:46,610
 Saluda.
@@ -23,19 +10,6 @@ Saluda.
 00:06:19,910 --> 00:06:24,630
 ISLA DE DRUM
 CAPITÁN DE LA FUERZA DE DEFENSA CIVIL
-
-
-
-
-
-
-
-
-
-
-
-
-DALTON
 
 4
 00:08:09,950 --> 00:08:13,140
@@ -101,19 +75,6 @@ Nami-san, espero que estés bien.
 00:21:49,030 --> 00:21:52,790
 PUEBLO VECINO
 
-
-
-
-
-
-
-
-
-
-
-
-COCOAWEED
-
 20
 00:21:49,700 --> 00:21:52,790
 ¡¿Por el camino?!
@@ -122,32 +83,10 @@ COCOAWEED
 00:22:59,190 --> 00:23:02,680
 ERUDITA EN MEDICINA 
 
-
-
-
-
-
-
-
-
-
-DR. KUREHA (139 AÑOS)
-
 22
 00:22:59,190 --> 00:23:02,680
 RENO ADORADO
   DE LA DR. KUREHA 
-
-
-
-
-
-
-
-
-
-
-TONY TONY CHOPPER
 
 23
 00:23:03,640 --> 00:23:05,180
@@ -166,17 +105,6 @@ TONY TONY CHOPPER
 00:29:27,530 --> 00:29:33,040
 WALKY BLANCO (HIPOPÓTAMO LANUDO) 
 
-
-
-
-
-
-
-
-
-
-ROBSON
-
 27
 00:30:02,190 --> 00:30:04,610
 ¡Desaparece!
@@ -186,33 +114,9 @@ ROBSON
 EX MINISTRO DE DEFENSA
  DEL REINO DE DRUM
 
-
-
-
-
-
-
-
-
-
-
-CHESS
-
 29
 00:30:31,220 --> 00:30:34,680
 EX GENERAL DEL REINO DE DRUM
-
-
-
-
-
-
-
-
-
-
-
-KUROMARIMO
 
 30
 00:30:51,370 --> 00:30:55,080
@@ -4475,3 +4379,4 @@ C
 1093
 00:01:42,630 --> 00:01:46,160
 F
+

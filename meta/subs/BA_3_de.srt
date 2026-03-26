@@ -1,2430 +1,2417 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:02:32,510 --> 00:02:42,500
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:50,340 --> 00:01:52,010
 Du musst Rotfuß Zeff sein!
 
-4
+2
 00:01:52,630 --> 00:01:55,140
 Also lebst du noch...
 
-5
+3
 00:01:55,140 --> 00:01:59,600
 Ein Pirat, wie es keinen zweiten gab, sowohl Koch als auch Kapitän...
 
-6
+4
 00:02:00,100 --> 00:02:02,810
 Ich lebe noch, und weiter?
 
-7
+5
 00:02:02,810 --> 00:02:05,480
 Das hat mit dir nichts zu tun.
 
-8
+6
 00:02:05,480 --> 00:02:10,070
 Wie du sehen kannst, bestreite ich mein Leben nun als Koch.
 
-9
+7
 00:02:12,900 --> 00:02:15,700
 Klingt ja schön und gut, wie du es formulierst.
 
-10
+8
 00:02:15,700 --> 00:02:19,540
 Doch es scheint eher,
 als hättest du keine andere Wahl,
 
-11
+9
 00:02:19,540 --> 00:02:22,710
 als dein Leben als Koch zu bestreiten.
 
-12
+10
 00:02:23,120 --> 00:02:25,260
 Rotfuß Zeffs Tritte waren unvergleichlich,
 
-13
+11
 00:02:25,260 --> 00:02:30,210
 nie hat er seine Hände im Kampf benutzt.
 
-14
+12
 00:02:30,630 --> 00:02:33,010
 Seine starken Beine sollen Felsen zerstört
 
-15
+13
 00:02:33,010 --> 00:02:37,970
 und selbst auf Eisen Abdrücke hinterlassen haben.
 
-16
+14
 00:02:38,760 --> 00:02:40,680
 Der Name „Rotfuß“ bezog sich auf seine Schuhe,
 
-17
+15
 00:02:40,680 --> 00:02:46,690
 die im roten Blut seiner Feinde gebadet waren.
 
-18
+16
 00:02:47,440 --> 00:02:52,440
 Doch du hast eines deiner wertvollen Beine verloren.
 
-19
+17
 00:02:53,490 --> 00:02:56,200
 Das sagten auch die Gerüchte.
 
-20
+18
 00:02:56,200 --> 00:02:59,530
 Wirkliches Pech, dieser Unfall auf dem Meer.
 
-21
+19
 00:03:00,080 --> 00:03:06,250
 Ein Bein zu verlieren hinterlässt jemanden wie dich kampfunfähig.
 
-22
+20
 00:03:06,580 --> 00:03:08,920
 Warum sollte ich kämpfen?
 
-23
+21
 00:03:08,920 --> 00:03:13,670
 Solange ich meine Hände habe, kann ich immer noch kochen.
 
-24
+22
 00:03:13,670 --> 00:03:17,470
 Was willst du mir damit sagen?
 Red nicht um den heißen Brei herum!
 
-25
+23
 00:03:19,140 --> 00:03:21,180
 Rotfuß Zeff.
 
-26
+24
 00:03:21,180 --> 00:03:24,360
 Du bist der Mann, der einst die Grand Line betreten hat
 
-27
+25
 00:03:24,360 --> 00:03:26,480
 und unbeschadet zurückgekehrt ist.
 
-28
+26
 00:03:26,480 --> 00:03:29,860
 Es sollte ein Logbuch existieren,
 
-29
+27
 00:03:29,860 --> 00:03:32,570
 das ein ganzes Jahr deiner Reise festhält...
 
-30
+28
 00:03:32,980 --> 00:03:34,360
 Gib es mir!
 
-31
+29
 00:03:35,950 --> 00:03:40,160
 Krass! Du hast es auch zur Grand Line geschafft, Alterchen?!
 
-32
+30
 00:03:40,160 --> 00:03:41,160
 Korrekt...
 
-33
+31
 00:03:41,990 --> 00:03:43,660
 Ein Logbuch also?
 
-34
+32
 00:03:43,660 --> 00:03:47,210
 So etwas besitze ich in der Tat.
 
-35
+33
 00:03:47,620 --> 00:03:50,290
 Aber geben kann ich es dir nicht.
 
-36
+34
 00:03:51,500 --> 00:03:56,720
 Dieses Buch trägt den Stolz von
 jedem Einzelnen, der mit mir gereist ist.
 
-37
+35
 00:03:56,720 --> 00:04:01,260
 Es ist viel zu wichtig, als dass
 ich es dir geben könnte.
 
-38
+36
 00:04:01,720 --> 00:04:04,310
 Dann muss ich es mir wohl mit Gewalt holen.
 
-39
+37
 00:04:05,060 --> 00:04:08,560
 Es ist wahr, dass mich die Grand Line in die Knie gezwungen hat.
 
-40
+38
 00:04:08,560 --> 00:04:12,320
 Doch das ändert nichts daran,
 dass ich Don Krieg, der stärkste Pirat bin.
 
-41
+39
 00:04:12,980 --> 00:04:16,990
 Die Ressourcen, um eine so übermäßig
 gefürchtete Meeresroute zu besegeln, hatte ich.
 
-42
+40
 00:04:16,990 --> 00:04:18,200
 Und die Männer!
 
-43
+41
 00:04:18,200 --> 00:04:19,660
 Und die Ambition!
 
-44
+42
 00:04:21,490 --> 00:04:25,410
 Das Einzige, was ich bereue,
 ist mein Mangel an Informationen.
 
-45
+43
 00:04:25,870 --> 00:04:28,120
 Ich wusste einfach nicht genug über sie.
 
-46
+44
 00:04:29,210 --> 00:04:31,630
 Ich nehme mir dein Logbuch.
 
-47
+45
 00:04:31,630 --> 00:04:35,420
 Ich werde erneut eine gigantische Piratenflotte aufstellen
 
-48
+46
 00:04:35,420 --> 00:04:37,340
 und mir das One Piece schnappen.
 
-49
+47
 00:04:37,760 --> 00:04:41,140
 Und dann werde ich an der Spitze dieser großen Piratenära stehen!
 
-50
+48
 00:04:46,770 --> 00:04:47,850
 Einen Moment mal!
 
-51
+49
 00:04:48,230 --> 00:04:50,600
 Ich werde der König der Piraten werden!
 
-52
+50
 00:04:51,600 --> 00:04:52,270
 Küchenjunge!
 
-53
+51
 00:04:53,520 --> 00:04:56,030
 Hey, halt dich da raus, Küchenjunge!
 
-54
+52
 00:04:56,030 --> 00:04:57,900
 Dem bist du nicht gewachsen!
 
-55
+53
 00:04:57,900 --> 00:05:00,610
 Ich kann nicht zurücktreten.
 
-56
+54
 00:05:02,530 --> 00:05:05,160
 Was sagst du da, Dreikäsehoch?
 
-57
+55
 00:05:05,660 --> 00:05:08,000
 Ich könnte so tun, als hätte
 ich das nicht gehört.
 
-58
+56
 00:05:08,000 --> 00:05:10,080
 Musst du gar nicht.
 
-59
+57
 00:05:10,080 --> 00:05:12,000
 Hab nur ’ne Tatsache benannt.
 
-60
+58
 00:05:12,790 --> 00:05:15,000
 Das hier ist kein Spiel.
 
-61
+59
 00:05:15,500 --> 00:05:16,630
 Natürlich nicht.
 
-62
+60
 00:05:16,630 --> 00:05:18,970
 Ich werde die Grand Line erobern!
 
-63
+61
 00:05:19,760 --> 00:05:21,760
 Das ist kein Spaß, du Bengel!
 
-64
+62
 00:05:21,760 --> 00:05:23,890
 Ja, uns fehlten Informationen.
 
-65
+63
 00:05:23,890 --> 00:05:27,850
 Aber diese Teufelssee hat meine 5.000 Mann
 starke Flotte in nur sieben Tagen ausgelöscht!
 
-66
+64
 00:05:27,850 --> 00:05:30,060
 Jemand wie du wird sie niemals durchsegeln können!
 
-67
+65
 00:05:30,060 --> 00:05:32,060
 S-Sieben Tage?!
 
-68
+66
 00:05:32,060 --> 00:05:34,940
 Kriegs Piratenschiffe wurden in nur sieben Tagen vernichtet?!
 
-69
+67
 00:05:35,610 --> 00:05:37,280
 Was um alles in der Welt ist passiert?!
 
-70
+68
 00:05:37,860 --> 00:05:42,030
 Leider finde ich diese Art von Scherzen nicht lustig.
 
-71
+69
 00:05:42,530 --> 00:05:47,490
 Wenn du das nicht sein lässt, zerquetsche ich dich hier und jetzt.
 
-72
+70
 00:05:47,910 --> 00:05:49,870
 Versuch’s doch, wenn du dich traust.
 
-73
+71
 00:05:52,500 --> 00:05:54,330
 Meinetwegen.
 
-74
+72
 00:05:54,330 --> 00:05:58,380
 Wenn du es so wünschst, schicke ich dich ins Jenseits.
 
-75
+73
 00:06:04,220 --> 00:06:05,820
 Willst du kämpfen, Luffy?
 
-76
+74
 00:06:05,820 --> 00:06:06,930
 Brauchste Hilfe?
 
-77
+75
 00:06:06,930 --> 00:06:09,470
 W-Wenn du keine Hilfe brauchst, i-ist das natürlich auch okay.
 
-78
+76
 00:06:10,140 --> 00:06:13,140
 Zoro! Usopp! Ihr seid auch hier?
 
-79
+77
 00:06:13,140 --> 00:06:15,230
 Schon gut. Schaut einfach zu.
 
-80
+78
 00:06:15,230 --> 00:06:16,520
 A-Ach ja?
 
-81
+79
 00:06:18,610 --> 00:06:21,110
 Sind das deine Crewmitglieder?
 
-82
+80
 00:06:21,690 --> 00:06:24,160
 ’ne ziemlich mickrige Gruppe hast du da!
 
-83
+81
 00:06:24,160 --> 00:06:27,070
 Was soll das heißen?! Ich hab noch zwei weitere Mitglieder!
 
-84
+82
 00:06:27,070 --> 00:06:29,040
 Hey! Zählst du mich schon wieder dazu?!
 
-85
+83
 00:06:30,450 --> 00:06:32,790
 Um dich kümmere ich mich später.
 
-86
+84
 00:06:33,330 --> 00:06:36,290
 Erst mal füttere ich meine Untergebenen.
 
-87
+85
 00:06:38,960 --> 00:06:44,010
 Wer an seinem Leben hängt,
 sollte das Schiff verlassen und fliehen.
 
-88
+86
 00:06:44,760 --> 00:06:49,180
 Mich interessieren lediglich das Schiff und sein Logbuch.
 
-89
+87
 00:06:50,930 --> 00:06:54,690
 Wenn ihr aber dennoch sinnlos sterben werden wollt,
 
-90
+88
 00:06:54,690 --> 00:06:57,860
 mache ich mir die Mühe und begrabe euch im Meer.
 
-91
+89
 00:06:58,360 --> 00:06:59,980
 Damit ihr’s wisst.
 
-92
+90
 00:07:04,740 --> 00:07:06,740
 Entschuldige, Sanji.
 
-93
+91
 00:07:06,740 --> 00:07:09,580
 Ich hätte nie gedacht,
 dass es so weit kommen könnte.
 
-94
+92
 00:07:09,580 --> 00:07:13,410
 Dafür brauchst dich nicht entschuldigen, Handlanger.
 
-95
+93
 00:07:14,580 --> 00:07:18,920
 Jeder Koch in diesem Restaurant
 hat nur gehandelt, wie er es für richtig hielt.
 
-96
+94
 00:07:18,920 --> 00:07:21,000
 Das war alles.
 
-97
+95
 00:07:21,000 --> 00:07:22,380
 Chef!
 
-98
+96
 00:07:22,380 --> 00:07:27,010
 Wieso stellen Sie sich auf Sanjis Seite?!
 
-99
+97
 00:07:27,010 --> 00:07:28,340
 Genau!
 
-100
+98
 00:07:28,340 --> 00:07:31,220
 Er ist schuld an dem Schlamassel!
 
-101
+99
 00:07:31,720 --> 00:07:34,770
 Seinetwegen wird Ihr wertvolles Restaurant pleite gehen!
 
-102
+100
 00:07:34,770 --> 00:07:36,560
 Schweigt, ihr Idioten!
 
-103
+101
 00:07:37,770 --> 00:07:41,000
 Habt ihr mal am eigenen Leib erfahren,
 
-104
+102
 00:07:41,000 --> 00:07:43,780
 wie es sich anfühlt, fast zu verhungern?
 
-105
+103
 00:07:44,240 --> 00:07:49,360
 Auf diesem weiten Ozean sämtliche Nahrung und Wasser zu verlieren...
 
-106
+104
 00:07:49,360 --> 00:07:51,280
 Wisst ihr, wie grausam das ist?
 
-107
+105
 00:07:51,280 --> 00:07:54,540
 Wie hart das ist?!
 
-108
+106
 00:07:54,540 --> 00:07:55,410
 Was?!
 
-109
+107
 00:07:55,410 --> 00:07:58,040
 Was meinen Sie, Chef?!
 
-110
+108
 00:07:58,040 --> 00:08:03,550
 Der Unterschied zwischen Sanji und euch allen ist, dass er das genau weiß.
 
-111
+109
 00:08:05,670 --> 00:08:08,300
 Ich werde bleiben und kämpfen.
 
-112
+110
 00:08:08,300 --> 00:08:11,470
 Ich würde es nicht aushalten,
 mich kampflos geschlagen zu geben.
 
-113
+111
 00:08:11,470 --> 00:08:12,720
 Ich bleibe auch!
 
-114
+112
 00:08:12,720 --> 00:08:15,430
 In diesem Restaurant arbeite ich!
 
-115
+113
 00:08:15,430 --> 00:08:17,810
 Wir wissen sowieso nicht, wo wir sonst hin sollen!
 
-116
+114
 00:08:19,650 --> 00:08:21,690
 Wisst ihr, was ihr da sagt?
 
-117
+115
 00:08:21,690 --> 00:08:24,650
 Ihr habt selbst gesehen,
 wie mächtig der Don ist, oder?!
 
-118
+116
 00:08:24,650 --> 00:08:26,150
 Hey, Gin!
 
-119
+117
 00:08:26,570 --> 00:08:28,110
 Damit du Bescheid weißt:
 
-120
+118
 00:08:28,110 --> 00:08:33,080
 Die Hungrigen zu füttern, ist meine Aufgabe als Koch.
 
-121
+119
 00:08:33,080 --> 00:08:33,870
 Aber...
 
-122
+120
 00:08:38,660 --> 00:08:42,040
 wir werden es mit gesättigten Plünderern zu tun bekommen.
 
-123
+121
 00:08:42,790 --> 00:08:47,630
 Beschwere dich jetzt also nicht,
 wenn ich deine Piratenkumpels vermöble.
 
-124
+122
 00:08:47,630 --> 00:08:49,550
 Wer immer dieses Restaurant übenehmen will,
 
-125
+123
 00:08:49,880 --> 00:08:53,260
 selbst wenn du das sein solltest, töte ich, ohne zu zögern.
 
-126
+124
 00:08:53,890 --> 00:08:55,010
 Kapiert?
 
-127
+125
 00:08:57,220 --> 00:08:59,600
 Ihn zuerst am Leben lassen und jetzt töten?
 
-128
+126
 00:08:59,600 --> 00:09:01,650
 Du bist unverbesserlich, Sanji.
 
-129
+127
 00:09:01,650 --> 00:09:03,060
 Halt den Rand, verdammter Koch.
 
-130
+128
 00:09:03,440 --> 00:09:05,690
 Seht ihr? Coole Socke, oder?
 
-131
+129
 00:09:05,690 --> 00:09:08,110
 Wen juckt das jetzt?!
 
-132
+130
 00:09:08,110 --> 00:09:10,240
 Wir sollten lieber schleunigst von hier abhauen!
 
-133
+131
 00:09:10,240 --> 00:09:11,160
 Komm mal runter!
 
-134
+132
 00:09:11,700 --> 00:09:14,660
 Es ist zwar Krieg, aber sieh nur,
 in welchem Zustand er sich befindet.
 
-135
+133
 00:09:15,660 --> 00:09:20,330
 Gin! Du meintest doch, du wüsstest nichts über die Grand Line.
 
-136
+134
 00:09:20,330 --> 00:09:22,210
 Aber du warst doch dort?
 
-137
+135
 00:09:23,330 --> 00:09:25,670
 Ich weiß dennoch nichts darüber.
 
-138
+136
 00:09:26,130 --> 00:09:30,340
 Was am siebten Tag geschehen ist, als wir die Grand Line besegelten...
 
-139
+137
 00:09:30,340 --> 00:09:32,010
 Ich weiß nicht ob es ein Traum...
 
-140
+138
 00:09:33,090 --> 00:09:34,050
 oder Realität war...
 
-141
+139
 00:09:35,050 --> 00:09:38,890
 Ich kann es nicht sicher sagen...
 
-142
+140
 00:09:39,850 --> 00:09:41,640
 Ich kann nur noch immer nicht glauben,
 
-143
+141
 00:09:44,060 --> 00:09:45,770
 dass diese Crew aus 50 Schiffen...
 
-144
+142
 00:09:48,280 --> 00:09:51,990
 von nur einem Mann ausgelöscht wurde.
 
-145
+143
 00:09:56,870 --> 00:09:59,620
 – Was?!
 – Was?!
 
-146
+144
 00:10:01,410 --> 00:10:04,250
 Es geschah ganz plötzlich...
 
-147
+145
 00:10:04,250 --> 00:10:07,630
 Dieser Mann tauchte auf und
 
-148
+146
 00:10:07,630 --> 00:10:10,670
 versenkte ein Schiff nach dem anderen.
 
-149
+147
 00:10:15,010 --> 00:10:18,510
 Wäre an diesem Tag nicht dieser Sturm aufgekommen,
 
-150
+148
 00:10:18,510 --> 00:10:21,810
 wäre nun auch von unserem Flaggschiff nichts mehr übrig.
 
-151
+149
 00:10:29,480 --> 00:10:33,570
 Ich weiß nicht, über wie viele Schiffe wir noch verfügen...
 
-152
+150
 00:10:33,570 --> 00:10:38,200
 Es war einfach so entsetzlich, dass ich
 diese Realität nicht akzeptieren möchte.
 
-153
+151
 00:10:38,200 --> 00:10:40,160
 Ich will mich nicht erinnern...
 
-154
+152
 00:10:41,160 --> 00:10:42,910
 An diese...
 
-155
+153
 00:10:42,910 --> 00:10:46,830
 die scharfen, falkenähnlichen Augen,
 
-156
+154
 00:10:46,830 --> 00:10:49,170
 deren purer Anblick einen in Todesangst versetzt!
 
-157
+155
 00:10:49,800 --> 00:10:50,800
 Wa...
 
-158
+156
 00:10:52,670 --> 00:10:54,470
 Was hat er gerade gesagt?!
 
-159
+157
 00:10:58,180 --> 00:11:00,260
 Das...
 
-160
+158
 00:11:00,680 --> 00:11:04,020
 muss „Falkenauge“ gewesen sein.
 
-161
+159
 00:11:04,020 --> 00:11:04,890
 Was?
 
-162
+160
 00:11:05,440 --> 00:11:11,360
 Dass die Augen denen eines Falken gleichen,
 ist zwar nicht Beweis genug,
 
-163
+161
 00:11:11,360 --> 00:11:17,490
 aber seine Taten sprechen mehr als tausend Worte...
 
-164
+162
 00:11:17,950 --> 00:11:19,830
 Falkenauge!
 
-165
+163
 00:11:19,830 --> 00:11:22,160
 Nanu? Du kennst ihn, Zoro?
 
-166
+164
 00:11:23,410 --> 00:11:25,040
 Ja...
 
-167
+165
 00:11:25,040 --> 00:11:27,330
 Das ist der Mann, nach dem ich suche.
 
-168
+166
 00:11:29,420 --> 00:11:33,340
 Kann es sein, dass dieser Mann einen
 irgendeinen Groll gegen euch gehegt hat?
 
-169
+167
 00:11:33,340 --> 00:11:35,220
 Wir haben ihm nie was getan!
 
-170
+168
 00:11:35,220 --> 00:11:38,010
 Habt ihr ihn vielleicht bei seinem Nickerchen gestört, oder so?
 
-171
+169
 00:11:38,010 --> 00:11:39,640
 Red keinen Unsinn!
 
-172
+170
 00:11:39,640 --> 00:11:42,890
 Das wäre ja die Höhe, wenn er unsere Crew deswegen zerstört hätte!
 
-173
+171
 00:11:44,230 --> 00:11:46,140
 Reg dich nicht so auf.
 
-174
+172
 00:11:46,140 --> 00:11:47,850
 War doch nur ein Beispiel.
 
-175
+173
 00:11:48,650 --> 00:11:53,820
 Ich wollte lediglich illustrieren, was für ein Ort die Grand Line ist.
 
-176
+174
 00:11:53,820 --> 00:11:56,450
 Was für ein Ort ist das bitte?!
 
-177
+175
 00:11:56,450 --> 00:11:59,200
 Wohl einer, an dem man auf wirklich alles vorbereitet sein muss.
 
-178
+176
 00:12:00,370 --> 00:12:03,620
 Du, Luffy! Lass uns einen solchen Ort besser meiden!
 
-179
+177
 00:12:03,620 --> 00:12:05,250
 Luffy!
 
-180
+178
 00:12:08,250 --> 00:12:10,170
 Hey, Luffy...?
 
-181
+179
 00:12:10,540 --> 00:12:13,920
 Ah! Das hört sich so aufregend an!
 
-182
+180
 00:12:13,920 --> 00:12:15,970
 Genau so sollte es sein!
 
-183
+181
 00:12:15,970 --> 00:12:18,510
 Du solltest das Wort „Gefahr“ mal in dein Vokabular aufnehmen!
 
-184
+182
 00:12:18,510 --> 00:12:23,260
 Aber mein Ziel beschränkt sich nun auf die Grand Line.
 
-185
+183
 00:12:23,260 --> 00:12:24,720
 Was?!
 
-186
+184
 00:12:25,140 --> 00:12:26,770
 Dieser Mann...
 
-187
+185
 00:12:26,770 --> 00:12:29,600
 Dort kann ich ihn treffen!
 
-188
+186
 00:12:31,230 --> 00:12:33,440
 Seid ihr völlig bescheuert?
 
-189
+187
 00:12:34,150 --> 00:12:36,610
 Leute wie ihr kratzen zuerst ab.
 
-190
+188
 00:12:36,990 --> 00:12:38,820
 Stimmt schon,
 
-191
+189
 00:12:38,820 --> 00:12:40,450
 aber „bescheuert“ geht zu weit.
 
-192
+190
 00:12:41,570 --> 00:12:44,220
 So was wie mein Leben ist schon seit dem Moment, in dem ich entschied
 
-193
+191
 00:12:44,220 --> 00:12:46,410
 der stärkste Schwertkämpfer zu werden, irrelevant.
 
-194
+192
 00:12:46,910 --> 00:12:51,130
 Der Einzige, der mich bescheuert nennen darf,
 ist wer das beschlossen hat: ich selbst.
 
-195
+193
 00:12:53,290 --> 00:12:55,630
 Geht mir genauso!
 
-196
+194
 00:12:55,630 --> 00:12:58,380
 Als Mann der Meere ist das das Mindeste!
 
-197
+195
 00:12:58,380 --> 00:13:00,090
 Bei dir ist das nichts weiter als ’ne Lüge.
 
-198
+196
 00:13:02,550 --> 00:13:04,310
 Wie schwachsinnig...
 
-199
+197
 00:13:07,730 --> 00:13:09,730
 Hey!
 
-200
+198
 00:13:09,730 --> 00:13:13,730
 Ist euch eigentlich klar,
 in welcher Lage ihr euch befindet?
 
-201
+199
 00:13:13,730 --> 00:13:17,900
 Das Schiff, das vor dem Restaurant ankert,
 
-202
+200
 00:13:17,900 --> 00:13:20,950
 ist die riesige Galeone des
 Piratenflottenkommandanten Don Krieg!
 
-203
+201
 00:13:20,950 --> 00:13:25,030
 Träumen könnt ihr, wenn ihr
 das hier überlebt habt!
 
-204
+202
 00:13:34,170 --> 00:13:36,550
 – Wir sind gerettet!
 – Wir sind gerettet!
 
-205
+203
 00:13:36,550 --> 00:13:38,300
 Wie toll! Wir leben noch!
 
-206
+204
 00:13:38,300 --> 00:13:39,840
 Als würde ich träumen!
 
-207
+205
 00:13:39,840 --> 00:13:42,510
 Wir sind diesem Albtraum entkommen!
 
-208
+206
 00:13:42,510 --> 00:13:46,970
 Wir haben es lebendig von dem Piratenfriedhof zurückgeschafft!
 
-209
+207
 00:13:49,060 --> 00:13:50,140
 Ganz recht.
 
-210
+208
 00:13:50,890 --> 00:13:55,230
 Was bedeutet, dass wir uns nun
 erneut zur Grand Line begeben können.
 
-211
+209
 00:13:57,900 --> 00:13:59,360
 Hm?
 
-212
+210
 00:13:59,360 --> 00:14:00,990
 Was sollen diese Gesichter?
 
-213
+211
 00:14:01,570 --> 00:14:03,910
 W-Wir wollen dorthin zurück?
 
-214
+212
 00:14:09,830 --> 00:14:13,580
 Ich höre keine sonstigen Einwände, oder?
 
-215
+213
 00:14:25,550 --> 00:14:26,800
 Lasst uns zuerst...
 
-216
+214
 00:14:27,350 --> 00:14:32,520
 dieses Wrack verlassen, und dann das Restaurant übernehmen.
 
-217
+215
 00:14:32,520 --> 00:14:35,690
 Wir haben es nur mit ein paar lächerlichen Köchen zu tun.
 
-218
+216
 00:14:35,690 --> 00:14:38,270
 Dafür müsst ihr euch nicht mal anstrengen.
 
-219
+217
 00:14:44,490 --> 00:14:45,780
 Angriff!
 
-220
+218
 00:14:51,250 --> 00:14:53,710
 Sie kommen! Man hört schon ihr Kampfgeschrei!
 
-221
+219
 00:14:53,710 --> 00:14:55,410
 Das ist unser Restaurant!
 
-222
+220
 00:14:55,410 --> 00:14:57,750
 Wir beschützen es bis zum bitteren Ende!
 
-223
+221
 00:15:01,380 --> 00:15:03,130
 Aus dem Weg, ihr Köche!
 
-224
+222
 00:15:19,650 --> 00:15:20,520
 Was zum...?!
 
-225
+223
 00:15:21,860 --> 00:15:23,360
 Was ist passiert?!
 
-226
+224
 00:15:23,360 --> 00:15:25,320
 Don Krieg!
 
-227
+225
 00:15:25,320 --> 00:15:27,280
 Das Flaggschiff wurde...
 
-228
+226
 00:15:27,280 --> 00:15:29,280
 zerteilt!
 
-229
+227
 00:15:29,280 --> 00:15:32,040
 Zerteilt?! Zerteilt, sagst du?!
 
-230
+228
 00:15:32,040 --> 00:15:34,790
 Diese riesige Galeone?!
 
-231
+229
 00:15:34,790 --> 00:15:35,910
 Das kann ich...
 
-232
+230
 00:15:36,500 --> 00:15:40,750
 nicht glauben!
 
-233
+231
 00:15:43,960 --> 00:15:45,720
 Lichtet den Anker!
 
-234
+232
 00:15:45,720 --> 00:15:47,970
 Sonst wird das Restaurant mit eingesogen!
 
-235
+233
 00:15:47,970 --> 00:15:48,930
 Jawohl!
 
-236
+234
 00:15:51,430 --> 00:15:52,430
 Das ist übel!
 
-237
+235
 00:15:52,430 --> 00:15:55,390
 Nami, Yosaku und Johnny sind noch auf unserem Schiff!
 
-238
+236
 00:15:56,480 --> 00:15:59,060
 Verdammt! Es ist vielleicht schon zu spät!
 
-239
+237
 00:16:07,860 --> 00:16:09,950
 Bruder!
 
-240
+238
 00:16:09,950 --> 00:16:11,410
 Bruder!
 
-241
+239
 00:16:11,410 --> 00:16:14,410
 Yosaku! Johnny!
 
-242
+240
 00:16:14,410 --> 00:16:15,410
 Alles in Ordnung?
 
-243
+241
 00:16:15,790 --> 00:16:18,540
 Wo ist das Schiff?! Ich kann’s nicht mehr sehen! Und wo ist Nami?!
 
-244
+242
 00:16:18,540 --> 00:16:19,790
 Das...
 
-245
+243
 00:16:19,790 --> 00:16:23,050
 Es tut uns leid, Bruder. Sie ist weg.
 
-246
+244
 00:16:23,050 --> 00:16:26,050
 Bis dann! Sagt ihnen:
 
-247
+245
 00:16:26,050 --> 00:16:28,190
 Schwester Nami!
 
-248
+246
 00:16:28,190 --> 00:16:30,140
 „Vielleicht treffen wir uns ja mal wieder!“
 
-249
+247
 00:16:30,930 --> 00:16:34,890
 Sie hat sich alle Schätze gekrallt und hat sich davongemacht!
 
-250
+248
 00:16:36,100 --> 00:16:38,230
 – Bitte was?!
 – Bitte was?!
 
-251
+249
 00:16:50,490 --> 00:16:52,160
 Dieser Mann ist...
 
-252
+250
 00:17:09,840 --> 00:17:10,890
 Was hast du gerade gesagt?!
 
-253
+251
 00:17:10,890 --> 00:17:14,100
 Nami hat sich mit der Going Merry aus dem Staub gemacht?!
 
-254
+252
 00:17:14,100 --> 00:17:16,390
 Was soll das heißen?!
 
-255
+253
 00:17:22,060 --> 00:17:25,110
 Es ist eben erst passiert!
 
-256
+254
 00:17:29,240 --> 00:17:31,490
 Was ist denn, Schwester Nami?
 
-257
+255
 00:17:31,490 --> 00:17:32,070
 Hm?
 
-258
+256
 00:17:32,660 --> 00:17:35,200
 Du siehst dir diese Plakate an.
 
-259
+257
 00:17:35,200 --> 00:17:37,200
 Ah... Nichts.
 
-260
+258
 00:17:37,200 --> 00:17:39,450
 Beeindruckend wie eh und je.
 
-261
+259
 00:17:39,870 --> 00:17:42,580
 Da hast du dir ein riesiges
 Kopfgeld angelacht!
 
-262
+260
 00:17:42,580 --> 00:17:46,460
 Aber von Arlong hältst du dich lieber fern.
 
-263
+261
 00:17:46,460 --> 00:17:48,550
 Er soll übermenschlich stark sein.
 
-264
+262
 00:17:48,550 --> 00:17:52,720
 Eine Weile hat man keinen Mucks von ihm gehört.
 
-265
+263
 00:17:52,720 --> 00:17:55,600
 Doch neuerdings soll er wieder Chaos verbreiten.
 
-266
+264
 00:17:55,970 --> 00:17:59,520
 Wobei diese 20 Millionen Berry schon verlockend sind...
 
-267
+265
 00:17:59,520 --> 00:18:01,090
 Der Kerl ist derart stark,
 
-268
+266
 00:18:01,090 --> 00:18:05,730
 dass die Möglichkeit besteht, dass er sogar uns ein Haar krümmen könnte.
 
-269
+267
 00:18:06,320 --> 00:18:07,020
 – Nanu?
 – Nanu?
 
-270
+268
 00:18:07,400 --> 00:18:08,440
 Schwester Nami?
 
-271
+269
 00:18:10,070 --> 00:18:11,740
 Ähm, entschuldigt bitte.
 
-272
+270
 00:18:11,740 --> 00:18:14,280
 Könntet ihr euch kurz umdrehen? Ich will mich umziehen.
 
-273
+271
 00:18:14,280 --> 00:18:15,280
 – Was?!
 – Was?!
 
-274
+272
 00:18:15,280 --> 00:18:16,910
 N-Na ja...
 
-275
+273
 00:18:16,910 --> 00:18:18,240
 Umziehen? Hier? Jetzt?!
 
-276
+274
 00:18:18,790 --> 00:18:20,450
 Geht das nicht?
 
-277
+275
 00:18:21,080 --> 00:18:22,790
 – Bitte, nur zu!
 – Bitte, nur zu!
 
-278
+276
 00:18:27,750 --> 00:18:30,760
 Sie sieht nicht nur mutig aus!
 
-279
+277
 00:18:30,760 --> 00:18:33,680
 Einen kurzen Blick können wir doch riskieren, oder?
 
-280
+278
 00:18:33,680 --> 00:18:34,470
 Bin dabei!
 
-281
+279
 00:18:41,810 --> 00:18:43,600
 W-Was sollte das?!
 
-282
+280
 00:18:44,730 --> 00:18:46,940
 Was das sollte?
 Ich erledige meinen Job!
 
-283
+281
 00:18:46,940 --> 00:18:49,200
 Ich bin eine Diebin, die Piraten bestiehlt!
 
-284
+282
 00:18:49,200 --> 00:18:50,730
 Das Schiff gehört mir.
 
-285
+283
 00:18:51,690 --> 00:18:54,720
 Ich habe nie gesagt, dass ich Mitglied werde.
 
-286
+284
 00:18:54,720 --> 00:18:56,280
 Ich habe mich nur verbündet, mehr nicht.
 
-287
+285
 00:18:56,280 --> 00:18:59,220
 Meine Zeit mit Luffy und den anderen war zwar kurz,
 
-288
+286
 00:18:59,220 --> 00:19:01,040
 aber es hat Spaß gemacht.
 
-289
+287
 00:19:01,910 --> 00:19:03,540
 Sagt ihnen...
 
-290
+288
 00:19:04,410 --> 00:19:07,560
 dass wir uns wiedersehen werden,
 wenn wir durchs Schicksal verbunden sind.
 
-291
+289
 00:19:08,540 --> 00:19:10,460
 Schwester Nami!
 
-292
+290
 00:19:17,840 --> 00:19:20,180
 H-Hey! Wir stecken in Schwierigkeiten!
 
-293
+291
 00:19:20,180 --> 00:19:25,060
 Wir sollten doch sozusagen das Schiff hüten!
 
-294
+292
 00:19:30,400 --> 00:19:33,740
 Und so ist sie mit dem Schiff davongesegelt...
 
-295
+293
 00:19:33,740 --> 00:19:34,570
 Es tut uns leid!
 
-296
+294
 00:19:34,570 --> 00:19:35,400
 Verdammt!
 
-297
+295
 00:19:35,400 --> 00:19:38,780
 Als hätten wir gerade nicht schon genug Probleme!
 
-298
+296
 00:19:38,780 --> 00:19:41,120
 Kaya hat uns dieses Schiff überlassen!
 
-299
+297
 00:19:41,120 --> 00:19:43,080
 Wartet! Ich kann es noch sehen!
 
-300
+298
 00:19:43,080 --> 00:19:45,040
 Das ist die Going Merry!
 
-301
+299
 00:19:45,410 --> 00:19:46,790
 Wo ist euer Schiff?
 
-302
+300
 00:19:46,790 --> 00:19:48,380
 Das ist hier noch...
 
-303
+301
 00:19:49,000 --> 00:19:50,630
 Zoro! Usopp! Geht sofort!
 
-304
+302
 00:19:50,630 --> 00:19:52,590
 Nehmt das Schiff und folgt Nami!
 
-305
+303
 00:19:52,590 --> 00:19:53,960
 Vergiss es.
 
-306
+304
 00:19:53,960 --> 00:19:55,420
 Überlass ihr das Schiff einfach.
 
-307
+305
 00:19:55,420 --> 00:19:58,140
 Warum soll ich diesem Weib hinterhersegeln?
 
-308
+306
 00:19:58,140 --> 00:20:01,010
 Ich akzeptiere keinen anderen als sie als Navigator!
 
-309
+307
 00:20:03,430 --> 00:20:05,000
 Ist ja gut, hab kapiert...
 
-310
+308
 00:20:05,000 --> 00:20:06,940
 Was für ein mühsamer Kapitän.
 
-311
+309
 00:20:07,520 --> 00:20:08,690
 Hey, Usopp, auf geht’s!
 
-312
+310
 00:20:08,690 --> 00:20:10,230
 Äh? Okay...
 
-313
+311
 00:20:12,270 --> 00:20:14,820
 – Bruder Zoro, das Schiff ist bereit!
 – Bruder Zoro, das Schiff ist bereit!
 
-314
+312
 00:20:15,190 --> 00:20:16,570
 Luffy, was ist mit dir?
 
-315
+313
 00:20:16,570 --> 00:20:20,820
 Ich muss hier noch ein paar Dinge im Restaurant regeln.
 
-316
+314
 00:20:20,820 --> 00:20:22,280
 Sei vorsichtig.
 
-317
+315
 00:20:22,280 --> 00:20:24,620
 Die Lage ist sehr heikel.
 
-318
+316
 00:20:24,620 --> 00:20:26,580
 Ja, weiß ich.
 
-319
+317
 00:20:26,580 --> 00:20:29,500
 Das Schiff wurde in zwei Hälften geteilt!
 
-320
+318
 00:20:30,380 --> 00:20:31,710
 Schau, da!
 
-321
+319
 00:20:32,380 --> 00:20:33,800
 E-Er ist es!
 
-322
+320
 00:20:38,930 --> 00:20:42,100
 Don Krieg! Er ist es!
 
-323
+321
 00:20:42,100 --> 00:20:45,470
 Der Mann, der unsere Flotte ausgelöscht hat!
 
-324
+322
 00:20:48,520 --> 00:20:51,060
 D-Dieser Mann!
 
-325
+323
 00:20:59,820 --> 00:21:01,360
 Dieser Mann ist...
 
-326
+324
 00:21:03,070 --> 00:21:05,660
 Dieser Hundesohn!
 
-327
+325
 00:21:06,330 --> 00:21:10,460
 Er ist uns gefolgt, um uns zu töten!
 
-328
+326
 00:21:10,920 --> 00:21:12,630
 Wir sind erledigt!
 
-329
+327
 00:21:13,380 --> 00:21:14,250
 Zoro?
 
-330
+328
 00:21:14,840 --> 00:21:16,210
 Wer ist das?
 
-331
+329
 00:21:16,920 --> 00:21:19,420
 Der Mann, nach dem ich gesucht habe.
 
-332
+330
 00:21:19,930 --> 00:21:21,840
 Falkenauge Mihawk!
 
-333
+331
 00:21:22,760 --> 00:21:25,010
 Falkenauge Mihawk...
 
-334
+332
 00:21:31,350 --> 00:21:33,360
 Der stärkste Mann der Welt...
 
-335
+333
 00:21:35,320 --> 00:21:41,910
 Das ist der Mann, der Kriegs 50 Schiffe
 ganz allein auf der Grand Line versenkt hat?
 
-336
+334
 00:21:41,910 --> 00:21:45,620
 Dann ist derjenige, der soeben Kriegs Schiff versenkt hat, ebenfalls...
 
-337
+335
 00:21:45,620 --> 00:21:49,410
 Aber er sieht wie ein ganz normaler Mensch aus.
 
-338
+336
 00:21:49,410 --> 00:21:52,420
 Er scheint auch keine besonderen Waffen zu besitzen.
 
-339
+337
 00:21:53,040 --> 00:21:55,380
 Seine Waffe befindet sich auf seinem Rücken.
 
-340
+338
 00:21:55,380 --> 00:21:57,340
 Das kann nicht sein!
 
-341
+339
 00:21:57,340 --> 00:22:01,220
 Hat er dieses riesengroße Schiff
 wirklich nur mit seinem Schwert zerteilt?
 
-342
+340
 00:22:01,720 --> 00:22:04,850
 Er ist der Meister
 der Schwertkunst, Falkenauge,
 
-343
+341
 00:22:04,850 --> 00:22:08,680
 der Mann, der an der Spitze aller Schwertkämpfer steht.
 
-344
+342
 00:22:13,270 --> 00:22:15,270
 D-Du elender Drecksack...
 
-345
+343
 00:22:15,770 --> 00:22:18,780
 Warum hegst du einen solchen Groll gegen uns?!
 
-346
+344
 00:22:20,110 --> 00:22:21,440
 Ich vertreib mir nur die Zeit.
 
-347
+345
 00:22:21,440 --> 00:22:25,370
 Was?! Verarsch uns nicht!
 
-348
+346
 00:22:34,960 --> 00:22:36,210
 W-Was?!
 
-349
+347
 00:22:36,590 --> 00:22:38,380
 Ich hab doch direkt auf ihn gezielt...
 
-350
+348
 00:22:38,380 --> 00:22:39,710
 Er hat sie abgewendet.
 
-351
+349
 00:22:40,460 --> 00:22:43,720
 Er hat den die Flugbahn der Kugeln
 mit seiner Schwertspitze unbemerkt geändert.
 
-352
+350
 00:22:44,180 --> 00:22:45,550
 Das ist nicht möglich...
 
-353
+351
 00:22:46,720 --> 00:22:49,100
 Hey! Wer bist du?!
 
-354
+352
 00:22:49,430 --> 00:22:53,140
 Ich habe noch nie gesehen,
 dass ein Schwert so zart geführt wurde.
 
-355
+353
 00:22:53,810 --> 00:22:56,690
 In roher Gewalt wohnt im Schwertkampf keine Stärke.
 
-356
+354
 00:22:57,230 --> 00:23:00,190
 Hast du dieses Schiff ebenfalls mit deinem Schwert zerteilt?
 
-357
+355
 00:23:00,190 --> 00:23:01,650
 Ganz recht.
 
-358
+356
 00:23:01,650 --> 00:23:03,070
 Ich verstehe.
 
-359
+357
 00:23:03,530 --> 00:23:04,820
 Du bist also der Stärkste...
 
-360
+358
 00:23:04,820 --> 00:23:06,420
 Drei Schwerter...
 
-361
+359
 00:23:06,420 --> 00:23:07,700
 Kann es denn sein...?
 
-362
+360
 00:23:07,700 --> 00:23:11,160
 Ich habe das Meer bereist, um dich zu treffen.
 
-363
+361
 00:23:11,160 --> 00:23:12,830
 Was ist dein Ziel?
 
-364
+362
 00:23:12,830 --> 00:23:14,290
 Ich will der Stärkste werden.
 
-365
+363
 00:23:15,580 --> 00:23:17,080
 Hmpf, wie töricht.
 
-366
+364
 00:23:34,350 --> 00:23:36,310
 Sie waren wirklich nett...
 
-367
+365
 00:23:36,310 --> 00:23:40,730
 Ob sie wieder meine Freunde
 sein werden, wenn ich sie wiedersehe?
 
-368
+366
 00:23:42,440 --> 00:23:44,650
 Ob ich sie überhaupt wiedersehen werde?
 
-369
+367
 00:23:46,280 --> 00:23:48,820
 Ich möchte endlich frei sein...
 
-370
+368
 00:23:51,120 --> 00:23:52,990
 Bell-mère...
 
-371
+369
 00:23:57,420 --> 00:24:00,290
 Du hast doch Zeit, oder? Lass uns kämpfen!
 
-372
+370
 00:24:00,290 --> 00:24:03,460
 D-Dieser Kerl ist Zoro!
 
-373
+371
 00:24:03,460 --> 00:24:05,670
 Roronoa Zoro, Meister des Dreischwertstils!
 
-374
+372
 00:24:05,670 --> 00:24:06,630
 Was?!
 
-375
+373
 00:24:07,880 --> 00:24:09,260
 Oh, ein Piratenjäger?
 
-376
+374
 00:24:10,140 --> 00:24:11,680
 Er?!
 
-377
+375
 00:24:14,890 --> 00:24:16,890
 Hey, das sieht übel aus, Luffy!
 
-378
+376
 00:24:16,890 --> 00:24:19,440
 Die Going Merry ist gleich nicht mehr zu sehen!
 
-379
+377
 00:24:19,440 --> 00:24:20,900
 Hey, Luffy!
 
-380
+378
 00:24:21,270 --> 00:24:22,570
 Kämpfen?
 
-381
+379
 00:24:23,690 --> 00:24:26,070
 Hmpf, wie lächerlich, du Schwächling...
 
-382
+380
 00:24:30,530 --> 00:24:32,370
 Wärst du ein guter Schwertkämpfer,
 
-383
+381
 00:24:32,370 --> 00:24:35,320
 würdest du den Unterschied unserer Fähigkeiten erkennen,
 
-384
+382
 00:24:35,320 --> 00:24:37,410
 selbst bevor wir unsere Schwerter kreuzen.
 
-385
+383
 00:24:37,790 --> 00:24:40,670
 Ist es Mut oder schiere Arroganz,
 
-386
+384
 00:24:40,670 --> 00:24:44,500
 die dich mit deinem Schwert auf mich zeigen lässt?
 
-387
+385
 00:24:44,500 --> 00:24:46,760
 Es ist mein Ziel!
 
-388
+386
 00:24:49,380 --> 00:24:52,390
 Und ebenso ein Versprechen, das ich
 einem wertvollen Freund gegeben habe!
 
-389
+387
 00:24:52,390 --> 00:24:56,020
 Falkenauge Mihawk, der stärkste Schwertkämpfer der Welt,
 
-390
+388
 00:24:56,020 --> 00:24:58,060
 und der Piratenjäger Zoro...
 
-391
+389
 00:24:58,060 --> 00:25:00,650
 Was das wohl für einen Kampf geben wird?
 
-392
+390
 00:25:01,060 --> 00:25:03,650
 Es gibt niemanden, der ihm das Wasser reichen kann!
 
-393
+391
 00:25:03,650 --> 00:25:04,400
 Genau!
 
-394
+392
 00:25:04,730 --> 00:25:06,860
 Er ist bereits der Stärkste!
 
-395
+393
 00:25:11,110 --> 00:25:13,990
 Hey! Was hat das zu bedeuten?
 
-396
+394
 00:25:14,490 --> 00:25:18,960
 Ich bin keine Bestie, die alles gibt,
 um einen Hasen zu jagen.
 
-397
+395
 00:25:18,960 --> 00:25:22,170
 Selbst wenn du ein Schwertkämpfer bist,
 der sich einen Namen gemacht hat,
 
-398
+396
 00:25:22,170 --> 00:25:27,920
 ist dieser Teil des Meeres, der East Blue,
 der Schwächste der vier Meere.
 
-399
+397
 00:25:28,380 --> 00:25:32,260
 Leider trage ich kein kleineres scharfes Werkzeug bei mir.
 
-400
+398
 00:25:32,260 --> 00:25:35,810
 Du hast dich nun genug über mich lustig gemacht!
 
-401
+399
 00:25:35,810 --> 00:25:38,100
 Bereue es lieber nicht, wenn ich dich kaltmache!
 
-402
+400
 00:25:38,100 --> 00:25:39,480
 Frosch im Brunnen,
 
-403
+401
 00:25:39,480 --> 00:25:41,440
 erkenne, wie groß die Welt ist.
 
-404
+402
 00:25:41,440 --> 00:25:43,350
 Oni Giri!
 
-405
+403
 00:25:46,570 --> 00:25:48,610
 W-Was?!
 
-406
+404
 00:25:53,910 --> 00:25:55,080
 Zoro?!
 
-407
+405
 00:25:55,450 --> 00:25:58,580
 Sein Oni Giri wurde abgewandt!
 
-408
+406
 00:25:58,580 --> 00:26:02,040
 Diese mächtige Technik, die bisher jeden Gegner weggefegt hat...
 
-409
+407
 00:26:02,040 --> 00:26:03,790
 Was hat das zu bedeuten?!
 
-410
+408
 00:26:04,330 --> 00:26:06,580
 Ich... Ich kann sie nicht bewegen...
 
-411
+409
 00:26:06,580 --> 00:26:08,250
 Was hat er getan?!
 
-412
+410
 00:26:08,250 --> 00:26:10,600
 Niemand hat diese Technik je durchschaut,
 
-413
+411
 00:26:10,600 --> 00:26:12,510
 und er stoppt sie mit so einem Spielzeug?!
 
-414
+412
 00:26:13,010 --> 00:26:15,470
 Das kann einfach nicht sein!
 
-415
+413
 00:26:16,640 --> 00:26:19,060
 Unser Kräfteunterschied ist dermaßen groß?!
 
-416
+414
 00:26:19,060 --> 00:26:22,060
 Das kann nicht sein!
 Das ist einfach nicht möglich!
 
-417
+415
 00:26:24,560 --> 00:26:27,190
 Der Weltbeste kann mir nicht so weit voraus sein!
 
-418
+416
 00:26:35,120 --> 00:26:37,990
 Das kann nicht sein,
 richtig, Bruder? Mach ernst!
 
-419
+417
 00:26:37,990 --> 00:26:39,700
 Bruder!
 
-420
+418
 00:26:39,700 --> 00:26:42,080
 Wir können nicht so weit auseinander liegen.
 
-421
+419
 00:26:56,050 --> 00:26:58,140
 Wie ungestüm dein Schwertstil doch ist...
 
-422
+420
 00:27:05,310 --> 00:27:09,480
 Er wehrt Zoros Dreischwertstil-Angriffe mit einem solch kleinen Messer ab.
 
-423
+421
 00:27:09,480 --> 00:27:12,360
 Der ist ein Monster unter allen Monstern!
 
-424
+422
 00:27:12,360 --> 00:27:16,370
 Ich habe die Schwertkampfkunst nicht erlernt,
 
-425
+423
 00:27:16,370 --> 00:27:18,700
 um von so einem Spielzeug erledigt zu werden!
 
-426
+424
 00:27:24,160 --> 00:27:27,380
 Du kannst dich wirklich glücklich schätzen, Zoro. Du bist ein Junge.
 
-427
+425
 00:27:27,880 --> 00:27:31,670
 Ich wäre auch gerne der weltbeste Schwertkämpfer!
 
-428
+426
 00:27:32,170 --> 00:27:33,880
 Versprich’s mir!
 
-429
+427
 00:27:33,880 --> 00:27:38,550
 Eines Tages wird einer von uns beiden der beste Schwertkämpfer der Welt!
 
-430
+428
 00:27:38,550 --> 00:27:39,680
 Versprich’s mir!
 
-431
+429
 00:27:40,930 --> 00:27:41,930
 – Versprochen!
 – Versprochen!
 
-432
+430
 00:27:47,480 --> 00:27:49,940
 Um der Stärkste der Welt zu werden...
 
-433
+431
 00:27:59,660 --> 00:28:04,160
 Ich werde auch für sie stärker werden!
 
-434
+432
 00:28:04,160 --> 00:28:06,830
 Ich werde so stark, dass mein Name bis in den Himmel vordringt!
 
-435
+433
 00:28:06,830 --> 00:28:10,290
 Ich werde der stärkste Schwertkämpfer der Welt!
 
-436
+434
 00:28:10,880 --> 00:28:12,670
 Ich habe es ihr versprochen.
 
-437
+435
 00:28:12,670 --> 00:28:14,090
 Ich...
 
-438
+436
 00:28:23,350 --> 00:28:26,100
 Nur um diesen Mann zu besiegen...
 
-439
+437
 00:28:31,650 --> 00:28:34,350
 Welche Last trägst du auf deinen Schultern?
 
-440
+438
 00:28:34,350 --> 00:28:37,280
 Was begehrst du, nachdem du Kraft erlangt hast, Schwächling?
 
-441
+439
 00:28:37,360 --> 00:28:41,410
 Ich bin beeindruckt von deinen Fähigkeiten.
 Dürfen wir uns dir anschließen
 
-442
+440
 00:28:41,410 --> 00:28:45,450
 Wir sind das Kopfgeldjägerduo, dessen Ruf
 weinende Kinder gerade so zum Schweigen bringt!
 
-443
+441
 00:28:45,450 --> 00:28:47,160
 Yosaku und Johnny.
 
-444
+442
 00:28:47,540 --> 00:28:50,420
 Hast du Bruder gerade Schwächling genannt?! Du ekelhafter Bastard!
 
-445
+443
 00:28:50,420 --> 00:28:52,960
 Dem werd ich ’ne Lektion erteilen! Er ist...
 
-446
+444
 00:28:52,960 --> 00:28:55,840
 Nicht, Yosaku! Johnny! Mischt euch nicht ein!
 
-447
+445
 00:28:56,300 --> 00:28:58,930
 Geduldet euch!
 
-448
+446
 00:29:00,800 --> 00:29:02,550
 Luffy...
 
-449
+447
 00:29:03,850 --> 00:29:07,020
 Ich darf nicht verlieren...
 
-450
+448
 00:29:18,820 --> 00:29:19,950
 Tiger...
 
-451
+449
 00:29:19,950 --> 00:29:20,910
 Das klingt doch spitze!
 
-452
+450
 00:29:20,910 --> 00:29:22,780
 Der weltbeste Schwertkämpfer!
 
-453
+451
 00:29:22,780 --> 00:29:26,410
 In der Manschafft des Piratenkönigs ist so etwas das Mindeste.
 
-454
+452
 00:29:26,410 --> 00:29:27,500
 Jagd!
 
-455
+453
 00:29:48,600 --> 00:29:51,520
 Willst du dir ohne Widerstand dein Herz durchbohren lassen?
 
-456
+454
 00:29:51,520 --> 00:29:53,270
 Warum gibst du nicht auf?
 
-457
+455
 00:29:53,860 --> 00:29:56,110
 Ich weiß nicht warum.
 
-458
+456
 00:29:56,650 --> 00:29:58,740
 Doch würde ich jetzt aufgeben,
 
-459
+457
 00:29:58,740 --> 00:30:03,280
 wären all die wichtigen Dinge, wie Schwüre
 und Versprechen der Vergangenheit,
 
-460
+458
 00:30:03,280 --> 00:30:05,240
 nichts weiter als Schall und Rauch.
 
-461
+459
 00:30:05,240 --> 00:30:08,700
 Ich würde nicht dorthin zurückkehren können, wo ich mich jetzt befinde.
 
-462
+460
 00:30:10,000 --> 00:30:12,120
 Ja, so ist das, wenn man besiegt wird.
 
-463
+461
 00:30:13,250 --> 00:30:15,540
 Was mir umso mehr
 Grund gibt, nicht aufzugeben.
 
-464
+462
 00:30:16,340 --> 00:30:17,880
 Selbst, wenn du dein Leben verlierst?
 
-465
+463
 00:30:18,670 --> 00:30:20,920
 Lieber sterbe ich.
 
-466
+464
 00:30:21,470 --> 00:30:24,010
 Welch starkes Herz!
 
-467
+465
 00:30:24,010 --> 00:30:26,720
 Lieber stirbt er, als aufzugeben.
 
-468
+466
 00:30:29,770 --> 00:30:31,770
 Kind, nenn mir deinen Namen.
 
-469
+467
 00:30:36,230 --> 00:30:38,230
 Roronoa Zoro.
 
-470
+468
 00:30:39,070 --> 00:30:40,490
 Ich werde ihn mir merken.
 
-471
+469
 00:30:40,490 --> 00:30:43,450
 Jemand Starkes wie du ist mir lange nicht begegnet.
 
-472
+470
 00:30:45,410 --> 00:30:47,820
 Und somit, ganz nach dem Ehrenkodex eines Schwertkämpfers,
 
-473
+471
 00:30:47,820 --> 00:30:50,580
 versenke ich dich mit dem stärksten schwarzen Schwert der Welt.
 
-474
+472
 00:30:50,580 --> 00:30:53,330
 Das weiß ich zu schätzen.
 
-475
+473
 00:30:54,920 --> 00:30:55,920
 E-Er hat’s gezückt!
 
-476
+474
 00:30:55,920 --> 00:30:57,960
 Mit diesem Schwert hat er das Schiff zerteilt!
 
-477
+475
 00:30:58,670 --> 00:31:01,170
 Das wird also der letzte Hieb...
 
-478
+476
 00:31:01,170 --> 00:31:03,130
 Wird es der Stärkste der Welt sein?
 
-479
+477
 00:31:03,130 --> 00:31:04,130
 Oder der Tod?
 
-480
+478
 00:31:08,550 --> 00:31:10,560
 Bruder, das reicht! Bitte hör auf!
 
-481
+479
 00:31:10,560 --> 00:31:12,770
 Geheimtechnik des Dreischwertstils!
 
-482
+480
 00:31:15,650 --> 00:31:16,560
 Falle!
 
-483
+481
 00:31:16,560 --> 00:31:18,940
 3.000 Welten!
 
-484
+482
 00:31:26,280 --> 00:31:27,620
 Ich hab verloren...
 
-485
+483
 00:31:29,120 --> 00:31:32,290
 Dass ich jemals verlieren würde...
 
-486
+484
 00:31:34,080 --> 00:31:36,750
 Das ist also die Kraft des weltbesten Schwertkämpfers...
 
-487
+485
 00:31:40,750 --> 00:31:41,670
 Was soll das?
 
-488
+486
 00:31:43,050 --> 00:31:45,550
 Narben auf dem Rücken sind eines Schwertkämpfers Schande.
 
-489
+487
 00:31:46,010 --> 00:31:46,970
 Bewundernswert!
 
-490
+488
 00:31:50,850 --> 00:31:56,810
 Zoro!
 
-491
+489
 00:31:58,730 --> 00:32:01,610
 Überstürze dein Leben nicht, Jüngling.
 
-492
+490
 00:32:02,860 --> 00:32:04,240
 Zoro!
 
-493
+491
 00:32:05,360 --> 00:32:06,740
 – Bruder!
 – Bruder!
 
-494
+492
 00:32:09,570 --> 00:32:11,080
 Warum?
 
-495
+493
 00:32:13,370 --> 00:32:16,750
 Als ich mich entschied, der stärkste Schwertkämpfer der Welt zu werden,
 
-496
+494
 00:32:16,750 --> 00:32:20,210
 habe ich beschlossen,
 mein Leben aufs Spiel zu setzen.
 
-497
+495
 00:32:22,000 --> 00:32:24,000
 Er ist wahnsinnig!
 
-498
+496
 00:32:24,000 --> 00:32:25,990
 Sein Gegner ist der wahre Weltbeste!
 
-499
+497
 00:32:26,510 --> 00:32:30,180
 Der Ausgang war von Anfang an klar.
 Er sollte besser sein Ziel über Bord werfen!
 
-500
+498
 00:32:30,180 --> 00:32:33,470
 Es sollte doch ein Leichtes sein, dein Ziel über Bord zu werfen!
 
-501
+499
 00:32:37,060 --> 00:32:38,840
 Das ist also die Macht der Grand Line...
 
-502
+500
 00:32:38,840 --> 00:32:40,520
 Die Macht der Welt!
 
-503
+501
 00:32:41,110 --> 00:32:44,820
 Dass der Piratenjäger Zoro hilflos wie ein neugeborenes Baby sein würde...
 
-504
+502
 00:32:44,820 --> 00:32:47,180
 Verflucht, verflucht...
 
-505
+503
 00:32:47,180 --> 00:32:49,160
 Sei verflucht!
 
-506
+504
 00:32:49,160 --> 00:32:51,120
 – Bruder!
 – Bruder!
 
-507
+505
 00:32:55,700 --> 00:32:57,830
 W-Was ist das?
 
-508
+506
 00:32:59,370 --> 00:33:03,340
 Dieser Bengel besitzt also die Kraft einer Teufelsfrucht.
 
-509
+507
 00:33:04,000 --> 00:33:04,880
 Du Dreckskerl...
 
-510
+508
 00:33:07,090 --> 00:33:09,630
 Bist du ein Kamerad dieses jungen Schwertkämpfers?
 
-511
+509
 00:33:09,630 --> 00:33:12,470
 Es beeindruckt mich, dass du bis zum Ende zugesehen hast.
 
-512
+510
 00:33:16,850 --> 00:33:20,480
 Keine Sorge, ich habe ihn nicht getötet.
 
-513
+511
 00:33:20,480 --> 00:33:21,230
 Was?
 
-514
+512
 00:33:21,230 --> 00:33:23,980
 Bruder! Bruder! Sag doch was!
 
-515
+513
 00:33:23,980 --> 00:33:24,900
 Zoro?!
 
-516
+514
 00:33:26,860 --> 00:33:27,860
 Zoro!
 
-517
+515
 00:33:27,860 --> 00:33:29,780
 Schnell aufs Schiff mit ihm!
 
-518
+516
 00:33:31,660 --> 00:33:33,410
 Hier ist Medizin! Verabreicht sie ihm!
 
-519
+517
 00:33:33,820 --> 00:33:36,240
 Es ist noch zu früh für dich, von dieser Welt zu scheiden.
 
-520
+518
 00:33:36,740 --> 00:33:39,370
 Ich bin Dracule Mihawk!
 
-521
+519
 00:33:39,370 --> 00:33:40,750
 Lern dich kennen.
 
-522
+520
 00:33:40,750 --> 00:33:42,040
 Lerne die Welt kennen.
 
-523
+521
 00:33:42,040 --> 00:33:43,330
 Und werde stark!
 
-524
+522
 00:33:43,330 --> 00:33:45,880
 Wie viele Jahre es auch dauern mag,
 
-525
+523
 00:33:45,880 --> 00:33:48,300
 ich werde als Stärkster
 auf dich warten.
 
-526
+524
 00:33:48,880 --> 00:33:51,050
 Übertrumpfe dieses Schwert!
 
-527
+525
 00:33:51,050 --> 00:33:55,430
 Versuche, mich zu übertreffen, Roronoa Zoro!
 
-528
+526
 00:33:56,890 --> 00:33:59,640
 Bruder, Bruder, nun sag doch was!
 
-529
+527
 00:33:58,140 --> 00:33:59,640
 Bruder!
 
-530
+528
 00:34:00,430 --> 00:34:04,150
 Dass er Falkenauge Mihawk so viele Worte entlocken konnte...
 
-531
+529
 00:34:05,400 --> 00:34:07,900
 Junge, was ist dein Ziel?
 
-532
+530
 00:34:08,440 --> 00:34:09,530
 König der Piraten!
 
-533
+531
 00:34:10,280 --> 00:34:14,280
 Das wird noch härter, als mich zu übertreffen.
 
-534
+532
 00:34:14,280 --> 00:34:17,030
 Woher soll ich das wissen, wenn ich’s
 noch nicht geschafft habe?!
 
-535
+533
 00:34:18,120 --> 00:34:19,750
 Er lebt!
 
-536
+534
 00:34:20,120 --> 00:34:21,500
 Er ist nur ohnmächtig.
 
-537
+535
 00:34:22,540 --> 00:34:24,670
 Bruder! Sag doch was!
 
-538
+536
 00:34:21,500 --> 00:34:22,540
 Bruder!
 
-539
+537
 00:34:25,330 --> 00:34:26,420
 Zoro?
 
-540
+538
 00:34:27,090 --> 00:34:28,250
 Bruder!
 
-541
+539
 00:34:29,760 --> 00:34:31,380
 L-Luffy...
 
-542
+540
 00:34:31,880 --> 00:34:33,130
 Kannst du mich hören?
 
-543
+541
 00:34:33,130 --> 00:34:34,590
 Ja!
 
-544
+542
 00:34:35,600 --> 00:34:37,760
 Habe ich dir Sorgen bereitet?
 
-545
+543
 00:34:38,760 --> 00:34:40,180
 Du benötigst...
 
-546
+544
 00:34:40,850 --> 00:34:46,690
 niemand Geringeren als den weltbesten Schwertkämpfer, richtig?
 
-547
+545
 00:34:47,690 --> 00:34:50,650
 Bruder! Bitte spar dir deine Kraft!
 
-548
+546
 00:34:49,570 --> 00:34:50,650
 Bruder!
 
-549
+547
 00:34:51,110 --> 00:34:52,610
 Ich...
 
-550
+548
 00:34:52,990 --> 00:34:55,070
 Ich werde mich nie wieder
 
-551
+549
 00:34:55,070 --> 00:34:57,530
 besiegen lassen!
 
-552
+550
 00:35:00,240 --> 00:35:04,040
 Bis zu dem Tag, an dem ich ihn besiege
 und ein Schwertkampfmeister werde,
 
-553
+551
 00:35:04,540 --> 00:35:06,000
 werde ich...
 
-554
+552
 00:35:06,000 --> 00:35:07,380
 nie wieder verlieren!
 
-555
+553
 00:35:08,040 --> 00:35:09,960
 Hast du ein Problem damit,
 
-556
+554
 00:35:11,380 --> 00:35:13,550
 König der Piraten?!
 
-557
+555
 00:35:17,140 --> 00:35:18,140
 Nö!
 
-558
+556
 00:35:18,140 --> 00:35:19,930
 Ihr seid ein gutes Team.
 
-559
+557
 00:35:19,930 --> 00:35:22,850
 Ich möchte euch wiedersehen.
 
-560
+558
 00:35:23,850 --> 00:35:25,980
 Hey, Falkenauge!
 
-561
+559
 00:35:26,400 --> 00:35:29,900
 Bist du nicht hier, um mir nach dem Leben zu trachten,
 
-562
+560
 00:35:29,900 --> 00:35:33,400
 dem Herrscher des East Blue, Don Krieg?
 
-563
+561
 00:35:33,860 --> 00:35:37,710
 Das hatte ich vor,
 aber ich hatte genug Spaß.
 
-564
+562
 00:35:37,710 --> 00:35:39,780
 Darum werde ich nach Hause gehen und mich ausruhen.
 
-565
+563
 00:35:39,780 --> 00:35:43,500
 Du hattest vielleicht deinen Spaß, aber ich
 habe genug davon, geschlagen zu werden.
 
-566
+564
 00:35:43,500 --> 00:35:45,000
 D-Don?
 
-567
+565
 00:35:45,000 --> 00:35:47,380
 Warum ermutigen Sie ihn dazu, hierzubleiben?
 
-568
+566
 00:35:47,750 --> 00:35:49,500
 Bevor du gehst, verreckst du!
 
-569
+567
 00:35:50,880 --> 00:35:53,130
 Wie erwartet lernresistent...
 
-570
+568
 00:36:01,140 --> 00:36:03,100
 Verdammt! Er ist entwischt!
 
-571
+569
 00:36:12,020 --> 00:36:13,690
 Usopp!
 
-572
+570
 00:36:13,690 --> 00:36:14,690
 Luffy!
 
-573
+571
 00:36:15,070 --> 00:36:17,410
 Geh! Ich überlass Nami dir!
 
-574
+572
 00:36:17,910 --> 00:36:18,910
 Verstanden!
 
-575
+573
 00:36:18,910 --> 00:36:21,830
 Zoro und ich werden Nami auf jeden Fall zurückholen!
 
-576
+574
 00:36:21,830 --> 00:36:24,370
 Und du stellst sicher, dass der
 Koch sich uns anschließt!
 
-577
+575
 00:36:24,750 --> 00:36:27,500
 Und wenn wir fünf wiedervereint sind, lass uns
 
-578
+576
 00:36:27,920 --> 00:36:29,920
 zur Grand Line segeln!
 
-579
+577
 00:36:29,920 --> 00:36:30,920
 Ja!
 
-580
+578
 00:36:30,920 --> 00:36:32,170
 Machen wir das!
 
-581
+579
 00:36:32,170 --> 00:36:35,270
 Männer! Es gab zwar ein paar Störungen,
 
-582
+580
 00:36:35,270 --> 00:36:37,340
 aber der richtige Kampf beginnt jetzt!
 
-583
+581
 00:36:37,340 --> 00:36:39,010
 Wir übernehmen das Schiff!
 
-584
+582
 00:36:39,010 --> 00:36:40,140
 – Ja!
 – Ja!
 
-585
+583
 00:36:40,140 --> 00:36:42,730
 Alterchen, wenn ich die verjage,
 
-586
+584
 00:36:42,730 --> 00:36:44,850
 kann ich die Hausarbeit dann hinschmeißen?
 
-587
+585
 00:36:44,850 --> 00:36:46,730
 Mach, was du willst.
+
+586
+00:21:25,060 --> 00:21:29,980
+„Falkenauge‟ Mihawk
+Der beste Schwertkämpfer der Welt
+
+587
+00:21:25,060 --> 00:21:29,980
+„Falkenauge‟ Mihawk
+Der beste Schwertkämpfer der Welt
 
 588
 00:21:25,060 --> 00:21:29,980
 „Falkenauge‟ Mihawk
 Der beste Schwertkämpfer der Welt
 
-589
-00:21:25,060 --> 00:21:29,980
-„Falkenauge‟ Mihawk
-Der beste Schwertkämpfer der Welt
-
-590
-00:21:25,060 --> 00:21:29,980
-„Falkenauge‟ Mihawk
-Der beste Schwertkämpfer der Welt

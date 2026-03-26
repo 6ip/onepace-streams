@@ -1,1576 +1,1563 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:54,680 --> 00:02:04,670
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:53,220 --> 00:01:54,550
 Da stimmt was nicht.
 
-4
+2
 00:01:54,550 --> 00:01:57,680
 Der Bürgermeister war noch nie so lange fort.
 
-5
+3
 00:01:57,680 --> 00:02:00,390
 Es muss etwas in der Stadt vorgefallen sein!
 
-6
+4
 00:02:00,390 --> 00:02:03,900
 Immerhin gab es auch mehr Kanonenschüsse als sonst!
 
-7
+5
 00:02:03,900 --> 00:02:07,320
 Also gut. Ich werde in die Stadt gehen und nachsehen. Ihr wartet hier.
 
-8
+6
 00:02:07,320 --> 00:02:08,520
 Ich komme mit!
 
-9
+7
 00:02:08,780 --> 00:02:13,530
 Narr! In der Stadt sind Piraten. Die abscheulichen Buggy-Piraten!
 
-10
+8
 00:02:13,530 --> 00:02:15,920
 Gerade deswegen komme ich auch mit!
 
-11
+9
 00:02:15,920 --> 00:02:18,110
 Was für Bewohner wären wir denn,
 
-12
+10
 00:02:18,110 --> 00:02:20,750
 wenn wir nicht mal unseren Bürgermeister beschützen können?
 
-13
+11
 00:02:20,750 --> 00:02:22,470
 Versuch nicht, uns aufzuhalten.
 
-14
+12
 00:02:22,470 --> 00:02:24,790
 Wir machen das aus freien Stücken!
 
-15
+13
 00:02:26,330 --> 00:02:27,590
 Na gut, was auch immer.
 
-16
+14
 00:02:27,590 --> 00:02:28,920
 Auf geht’s, Leute!
 
-17
+15
 00:02:28,920 --> 00:02:32,130
 – Jawohl!
 – Jawohl!
 
-18
+16
 00:02:35,970 --> 00:02:40,680
 In meinem ganzen Leben war ich auf niemanden so wütend wie auf ihn!
 
-19
+17
 00:02:40,680 --> 00:02:44,660
 Shanks, dieser Bastard, hat mir gewaltige Reichtümer gestohlen!
 
-20
+18
 00:02:44,660 --> 00:02:47,260
 Ich weiß nicht, was du mit ihm zu tun hast,
 
-21
+19
 00:02:47,260 --> 00:02:50,190
 aber ich kann über ihn sagen,
 was immer ich will!
 
-22
+20
 00:02:54,360 --> 00:02:56,640
 – Hol ihn dir! Schlagt euch!
 – Wir wollen hier keine halben Sachen sehen!
 
-23
+21
 00:02:56,640 --> 00:02:57,530
 Der Nordpol!
 
-24
+22
 00:02:57,530 --> 00:02:58,410
 Nein, der Südpol!
 
-25
+23
 00:02:58,410 --> 00:02:59,760
 Du bestehst immer noch darauf?!
 
-26
+24
 00:02:59,760 --> 00:03:02,370
 Richtig erkannt! Und dabei bleib ich auch, weil ich recht habe!
 
-27
+25
 00:03:02,830 --> 00:03:05,860
 Oh, du hast echt Mumm! Ich werd’ das jetzt ein für alle Mal klären!
 
-28
+26
 00:03:05,860 --> 00:03:07,200
 Na gut, versuch’s doch!
 
-29
+27
 00:03:07,200 --> 00:03:08,870
 Alles klar, du Kanalratte!
 
-30
+28
 00:03:08,870 --> 00:03:10,350
 Ich werd dich windelweich schlagen!
 
-31
+29
 00:03:10,350 --> 00:03:11,150
 Gegenangriff!
 
-32
+30
 00:03:11,150 --> 00:03:12,320
 Lasst den Scheiß!
 
-33
+31
 00:03:12,630 --> 00:03:16,050
 Wen juckt’s, ob’s am Nord- oder am Südpol kälter ist?!
 
-34
+32
 00:03:16,590 --> 00:03:19,880
 Wenn’s euch so sehr interessiert, dann
 geht doch selber hin und findet’s raus!
 
-35
+33
 00:03:19,880 --> 00:03:21,140
 Jetzt regt euch ab!
 
-36
+34
 00:03:21,140 --> 00:03:22,970
 Ein Schiff!
 
-37
+35
 00:03:23,270 --> 00:03:25,770
 Feindliches Schiff auf Nordost!
 
-38
+36
 00:03:25,780 --> 00:03:28,520
 Ihr habt’s gehört! Macht euch bereit, Zeit zu kämpfen!
 
-39
+37
 00:03:28,520 --> 00:03:30,020
 – Jawohl!
 – Jawohl!
 
-40
+38
 00:03:30,020 --> 00:03:32,150
 Sehr gut! Ich werde plündern wie verrückt!
 
-41
+39
 00:03:32,150 --> 00:03:33,820
 Wirkst echt glücklich, Buggy!
 
-42
+40
 00:03:33,820 --> 00:03:34,610
 Klaro!
 
-43
+41
 00:03:35,030 --> 00:03:37,780
 Feindliche Schiffe sind wie Schatztruhen.
 
-44
+42
 00:03:37,780 --> 00:03:39,390
 Piraten stehlen nun mal.
 
-45
+43
 00:03:39,390 --> 00:03:40,510
 Oder nicht?!
 
-46
+44
 00:03:41,160 --> 00:03:42,910
 Nun, was Wahres ist schon dran.
 
-47
+45
 00:03:42,910 --> 00:03:44,160
 Du bist zu schwach!
 
-48
+46
 00:03:44,160 --> 00:03:48,740
 Du und die anderen hier redet nie ernsthaft über Schätze.
 
-49
+47
 00:03:49,170 --> 00:03:51,290
 Ihr wisst nicht, was es bedeutet, ein Pirat zu sein.
 
-50
+48
 00:03:59,340 --> 00:04:01,010
 D-Das ist...!
 
-51
+49
 00:04:01,010 --> 00:04:03,680
 E-E-Eine Schatzkarte!
 
-52
+50
 00:04:04,290 --> 00:04:07,640
 Ich hab noch nie eine zu Gesicht bekommen... Krass!
 
-53
+51
 00:04:08,640 --> 00:04:11,540
 Befindet der sich etwa auf dem Meeresgrund?
 
-54
+52
 00:04:13,980 --> 00:04:20,820
 Jackpot! Mein Schicksal hat sich gerade entschieden.
 
-55
+53
 00:04:28,080 --> 00:04:30,710
 Wieder ein kinderleichter Sieg heute!
 
-56
+54
 00:04:30,710 --> 00:04:32,170
 Trink aus!
 
-57
+55
 00:04:32,170 --> 00:04:33,240
 Yo, Buggy!
 
-58
+56
 00:04:33,250 --> 00:04:37,090
 Willste gar nicht mit uns feiern? Haben fette Beute gemacht.
 
-59
+57
 00:04:37,090 --> 00:04:40,360
 I-Ich hab hier nichts Besonderes! Ich weiß von rein gar nichts!
 
-60
+58
 00:04:40,360 --> 00:04:42,800
 Was redest du denn schon wieder?
 
-61
+59
 00:04:42,800 --> 00:04:44,260
 Öh, na ja, also...
 
-62
+60
 00:04:48,060 --> 00:04:51,940
 Du meintest, dass du dieses Schiff irgendwann verlassen würdest.
 
-63
+61
 00:04:51,940 --> 00:04:54,020
 Was hast du denn vor?
 
-64
+62
 00:04:54,020 --> 00:04:55,780
 Ich werd’ mein eigenes Schiff haben.
 
-65
+63
 00:04:55,780 --> 00:04:59,240
 Ich stelle mir eine zuverlässige Crew zusammen und besegle die Welt.
 
-66
+64
 00:04:59,240 --> 00:05:03,200
 Dabei werd’ ich mir Zeit nehmen. Alles als Pirat versteht sich.
 
-67
+65
 00:05:03,200 --> 00:05:06,120
 Du schwafelst immer wie ein Schwächling.
 
-68
+66
 00:05:06,120 --> 00:05:07,200
 Wie war das?
 
-69
+67
 00:05:07,200 --> 00:05:10,060
 Ich bewundere nur deine Kampffähigkeiten.
 
-70
+68
 00:05:10,060 --> 00:05:12,300
 Wenn dein weiches Herz nicht wäre,
 
-71
+69
 00:05:12,300 --> 00:05:14,380
 hättest du mein Handlanger werden können.
 
-72
+70
 00:05:14,380 --> 00:05:16,620
 Dein Handlanger?
 Bleib mal auf dem Teppich.
 
-73
+71
 00:05:16,620 --> 00:05:17,200
 Hä?
 
-74
+72
 00:05:18,510 --> 00:05:20,220
 Wir haben unterschiedliche Ansichten,
 
-75
+73
 00:05:20,220 --> 00:05:23,090
 also sollten wir auch unsere eigenen Wege gehen.
 
-76
+74
 00:05:23,090 --> 00:05:24,300
 Das tun Piraten eben.
 
-77
+75
 00:05:24,300 --> 00:05:27,430
 Du redest, als wärst du ein Experte.
 
-78
+76
 00:05:27,430 --> 00:05:30,910
 Aber falls wir uns auf dem Meer begegnen,
 wird es ein Kampf auf Leben und Tod sein.
 
-79
+77
 00:05:31,520 --> 00:05:33,980
 Ja. Das ist noch
 so etwas, das Piraten tun.
 
-80
+78
 00:05:34,520 --> 00:05:36,330
 Ich blick bei dir echt nicht durch.
 
-81
+79
 00:05:37,280 --> 00:05:40,740
 Übrigens, hattest du nicht was von ’ner Beute erwähnt?
 
-82
+80
 00:05:40,740 --> 00:05:43,030
 Ah, wir haben eine Teufelsfrucht gefunden.
 
-83
+81
 00:05:43,030 --> 00:05:43,990
 ’ne Teufelsfrucht?
 
-84
+82
 00:05:44,240 --> 00:05:47,740
 Hab gehört, dabei soll’s sich um Inkarnationen des Seeteufels handeln.
 
-85
+83
 00:05:47,740 --> 00:05:50,120
 Es heißt, dass ihr Verzehr Teufelskräfte verleiht,
 
-86
+84
 00:05:50,120 --> 00:05:53,790
 allerdings wird einem das Meer aus Hass
 die Fähigkeit zu schwimmen nehmen.
 
-87
+85
 00:05:53,790 --> 00:05:56,540
 Da muss man schon besonders dämlich sein, um so eine zu essen.
 
-88
+86
 00:05:57,040 --> 00:06:02,090
 In dem Fall würde ich diesen Schatz am Meeresgrund niemals bekommen.
 
-89
+87
 00:06:02,090 --> 00:06:06,640
 Trotzdem könnte man sie wohl locker für 100 Millionen Berry verkaufen.
 
-90
+88
 00:06:08,930 --> 00:06:09,710
 Wie viel?!
 
-91
+89
 00:06:10,980 --> 00:06:12,910
 Ich, Piratenlehrling Buggy,
 
-92
+90
 00:06:12,910 --> 00:06:15,060
 werde jetzt diese Teufelsfrucht verspeisen!
 
-93
+91
 00:06:16,440 --> 00:06:19,480
 Kinder sind schon liebreizend. Denken nie an die Konsequenzen.
 
-94
+92
 00:06:21,110 --> 00:06:23,800
 – Oha!
 – Er hat sie wirklich gegessen!
 
-95
+93
 00:06:24,910 --> 00:06:27,910
 Und, Buggy? Fühlt sich dein Körper in irgendeiner Weise anders an?
 
-96
+94
 00:06:27,910 --> 00:06:29,740
 Nein, nicht wirklich...
 
-97
+95
 00:06:29,740 --> 00:06:31,200
 Was? Etwa eine Fälschung?
 
-98
+96
 00:06:31,950 --> 00:06:36,060
 Über Teufelsfrüchte hab ich bisher nur
 Gerüchte gehört, also überrascht’s mich nicht.
 
-99
+97
 00:06:38,250 --> 00:06:41,260
 Großartig! Mein Plan ist spielerisch aufgegangen!
 
-100
+98
 00:06:41,260 --> 00:06:44,000
 Die Frucht, die ich zu Mittag gegessen habe, war meine Fälschung!
 
-101
+99
 00:06:44,000 --> 00:06:46,730
 Kann gar nicht glauben, dass das so reibungslos über die Bühne ging.
 
-102
+100
 00:06:46,730 --> 00:06:49,640
 Jetzt schnell von Bord machen, bevor sie’s rausfinden!
 
-103
+101
 00:06:49,890 --> 00:06:52,770
 Mit dem Geld für die Teufelsfrucht und dem Schatz auf der Karte
 
-104
+102
 00:06:52,770 --> 00:06:56,400
 kann ich auf der Stelle meine eigene Piratenbande gründen!
 
-105
+103
 00:06:56,400 --> 00:06:57,650
 Hey, Buggy!
 
-106
+104
 00:06:57,650 --> 00:06:59,320
 Was grinst du so in dich rein?
 
-107
+105
 00:06:59,320 --> 00:07:00,730
 Ach, du bist’s nur.
 
-108
+106
 00:07:00,730 --> 00:07:01,900
 Erschreck mich doch nicht so.
 
-109
+107
 00:07:01,900 --> 00:07:03,690
 Was machst du denn für ein Gesicht?
 
-110
+108
 00:07:04,400 --> 00:07:06,320
 Klau nicht zu viel Essen aus der Küche.
 
-111
+109
 00:07:06,320 --> 00:07:07,660
 Sonst wird der Koch sauer.
 
-112
+110
 00:07:08,530 --> 00:07:10,240
 Das war echt knapp...
 
-113
+111
 00:07:10,240 --> 00:07:12,750
 Oh, jetzt fällt’s mir wieder ein!
 Der Kapitän hat gerade...
 
-114
+112
 00:07:19,170 --> 00:07:21,300
 – Was ist denn jetzt?!
 – Shanks! Du hinterlistiger...
 
-115
+113
 00:07:21,300 --> 00:07:23,670
 Meine... Meine... Ich hab...
 
-116
+114
 00:07:24,670 --> 00:07:26,220
 Was ist das für ’n Fetzen?
 
-117
+115
 00:07:26,220 --> 00:07:28,640
 Ah! Meine Karte!
 
-118
+116
 00:07:29,050 --> 00:07:30,890
 Hey, Buggy!
 
-119
+117
 00:07:32,850 --> 00:07:35,690
 W-Was zum Henker...?
 Ich kann mich nicht bewegen.
 
-120
+118
 00:07:36,140 --> 00:07:38,960
 Verliert man etwa tatsächlich seine Fähigkeit zu schwimmen?
 
-121
+119
 00:07:38,960 --> 00:07:40,650
 Ach du Scheiße!
 
-122
+120
 00:07:41,190 --> 00:07:43,150
 Hey, Buggy! Was treibst du denn?
 
-123
+121
 00:07:43,150 --> 00:07:44,670
 Du bist doch ein guter Schwimmer.
 
-124
+122
 00:07:48,070 --> 00:07:48,780
 Buggy!
 
-125
+123
 00:07:49,740 --> 00:07:52,740
 H-Hilf mir...
 
-126
+124
 00:07:52,740 --> 00:07:57,750
 Ich rette dich, Buggy!
 
-127
+125
 00:08:05,090 --> 00:08:07,800
 Shanks hat dich also gerettet?
 
-128
+126
 00:08:07,800 --> 00:08:10,010
 Darauf wollte ich nicht hinaus!
 
-129
+127
 00:08:10,300 --> 00:08:15,180
 Wegen ihm hat sich mein Lebensplan
 um zehn Jahre nach hinten verschoben!
 
-130
+128
 00:08:15,730 --> 00:08:17,310
 Dann hatte ich eine Erkenntnis!
 
-131
+129
 00:08:17,310 --> 00:08:21,150
 Wenn ich nicht an die Unterwasser-Schätze
 komme, hole ich mir eben alle an Land!
 
-132
+130
 00:08:21,650 --> 00:08:24,900
 Mit dieser Trenn-Trenn-Kraft!
 
-133
+131
 00:08:24,900 --> 00:08:28,030
 Aus diesem Grund werde ich niemanden am Leben lassen,
 
-134
+132
 00:08:28,030 --> 00:08:32,530
 der meine Schätze anrührt!
 
-135
+133
 00:08:34,450 --> 00:08:36,620
 Lass sofort...
 
-136
+134
 00:08:36,620 --> 00:08:39,120
 meine Schätze los!
 
-137
+135
 00:08:39,120 --> 00:08:40,750
 Verflucht! Er hat mich entdeckt!
 
-138
+136
 00:08:42,670 --> 00:08:46,170
 Denk ja nicht, du könntest mir entkommen, Nami!
 
-139
+137
 00:08:46,170 --> 00:08:48,630
 Ich werde dich zu Hackfleisch verarbeiten!
 
-140
+138
 00:09:02,020 --> 00:09:06,480
 Meine... K-K-Kronjuwelen...
 
-141
+139
 00:09:07,110 --> 00:09:09,450
 Du hast es hier immer noch mit mir zu tun!
 
-142
+140
 00:09:10,400 --> 00:09:11,360
 Hey!
 
-143
+141
 00:09:11,610 --> 00:09:14,330
 Vergiss die Schätze und verschwinde von hier!
 
-144
+142
 00:09:14,330 --> 00:09:15,580
 Er wird dich wieder jagen.
 
-145
+143
 00:09:15,580 --> 00:09:16,330
 Nein!
 
-146
+144
 00:09:16,790 --> 00:09:20,000
 Ich soll die Schätze vergessen und abhauen? Niemals!
 
-147
+145
 00:09:20,000 --> 00:09:22,680
 Warum sollte ich meine Schätze zurücklassen müssen?!
 
-148
+146
 00:09:23,380 --> 00:09:25,460
 Deine Schätze, sagst du?!
 
-149
+147
 00:09:25,460 --> 00:09:27,210
 Richtig gehört!
 
-150
+148
 00:09:27,210 --> 00:09:29,220
 Ich bin eine Diebin,
 die nur Piraten bestiehlt,
 
-151
+149
 00:09:29,220 --> 00:09:31,430
 und ich habe gerade einen bestohlen!
 
-152
+150
 00:09:32,430 --> 00:09:35,860
 Was bedeutet, dass diese Schätze nun mir gehören!
 
-153
+151
 00:09:36,350 --> 00:09:38,430
 Ah, jetzt macht’s Klick!
 
-154
+152
 00:09:38,430 --> 00:09:41,560
 Dummes Gelaber!
 Das sind meine Schätze!
 
-155
+153
 00:09:41,560 --> 00:09:44,310
 Denkst du etwa, durchs Stehlen würden sie dir gehören?!
 
-156
+154
 00:09:45,650 --> 00:09:48,730
 Also mal ehrlich. Was für eine Erziehung hast du genossen?
 
-157
+155
 00:09:48,730 --> 00:09:51,610
 Ein Verbrecher will einen anderen Verbrecher belehren?
 
-158
+156
 00:09:51,610 --> 00:09:52,660
 Ist ja lachhaft.
 
-159
+157
 00:09:52,660 --> 00:09:53,610
 Was?!
 
-160
+158
 00:09:53,950 --> 00:09:59,040
 Ich bin nicht so tief gesunken, dass ich
 von Piraten belehrt werden müsste.
 
-161
+159
 00:10:01,710 --> 00:10:04,420
 Hoffentlich bist bereit,
 die Konsequenzen zu spüren, Nami.
 
-162
+160
 00:10:05,080 --> 00:10:08,300
 Trenn-Trenn...
 
-163
+161
 00:10:09,760 --> 00:10:12,760
 Festival!
 
-164
+162
 00:10:15,470 --> 00:10:19,220
 Versuch doch, deiner kleinen Freundin zu helfen, Gum-Gum!
 
-165
+163
 00:10:19,220 --> 00:10:22,770
 So ’n Dreck. Er hat sich in noch mehr Einzelteile aufgetrennt!
 
-166
+164
 00:10:24,400 --> 00:10:25,520
 Hm?
 
-167
+165
 00:10:25,900 --> 00:10:27,440
 Nami!
 
-168
+166
 00:10:27,730 --> 00:10:30,230
 Gib mir meine Schätze zurück!
 
-169
+167
 00:10:29,190 --> 00:10:30,230
 Träum weiter!
 
-170
+168
 00:10:32,950 --> 00:10:34,950
 Killekille!
 
-171
+169
 00:10:40,660 --> 00:10:42,330
 Meine Güte, bist du stur.
 
-172
+170
 00:10:44,620 --> 00:10:46,290
 Lass den Mist!
 
-173
+171
 00:10:46,290 --> 00:10:49,590
 Nein, lass du den Mist sein!
 
-174
+172
 00:10:55,720 --> 00:10:57,930
 Wie lieb von dir,
 die Schätze zurückzugeben!
 
-175
+173
 00:10:59,640 --> 00:11:03,320
 Lass los! Lass los!
 
-176
+174
 00:11:03,320 --> 00:11:04,440
 Das sind meine!
 
-177
+175
 00:11:00,310 --> 00:11:01,840
 Loslassen?
 
-178
+176
 00:11:01,840 --> 00:11:04,440
 Das sind meine Schätze!
 
-179
+177
 00:11:04,440 --> 00:11:06,020
 Lass du los!
 
-180
+178
 00:11:09,520 --> 00:11:11,820
 Stirb!
 
-181
+179
 00:11:12,900 --> 00:11:14,150
 Ich sagte doch bereits,
 
-182
+180
 00:11:14,150 --> 00:11:16,370
 dass du es hier mit mir zu tun hast!
 
-183
+181
 00:11:42,220 --> 00:11:45,430
 Betrachte das als einen Tritt vom alten Bürgermeister persönlich!
 
-184
+182
 00:11:47,850 --> 00:11:49,810
 D-Danke, ich bin dir echt was schuldig...
 
-185
+183
 00:11:49,810 --> 00:11:51,570
 Ah, gar kein Problem!
 
-186
+184
 00:11:52,020 --> 00:11:53,980
 Ah, richtig! Die Karte!
 
-187
+185
 00:11:52,610 --> 00:11:53,980
 Meine Schätze...!
 
-188
+186
 00:11:54,440 --> 00:11:57,950
 Es ist noch nicht vorbei, Gum-Gum!
 
-189
+187
 00:11:57,950 --> 00:11:59,160
 Der lebt ja immer noch!
 
-190
+188
 00:11:59,160 --> 00:12:00,530
 Schnauze halten!
 
-191
+189
 00:12:00,530 --> 00:12:03,910
 Wie kannst du es wagen,
 so was mit mir anzustellen?!
 
-192
+190
 00:12:03,910 --> 00:12:06,210
 Das wirst du bitterlich bereuen!
 
-193
+191
 00:12:07,250 --> 00:12:09,710
 Zusammensetzen! Trenn-Trenn-Einzelteile!
 
-194
+192
 00:12:17,380 --> 00:12:18,190
 Nanu?
 
-195
+193
 00:12:21,470 --> 00:12:22,680
 Suchst du vielleicht die?
 
-196
+194
 00:12:23,760 --> 00:12:24,640
 Meine Einzelteile!
 
-197
+195
 00:12:26,640 --> 00:12:28,640
 Ausgezeichnete Arbeit, Diebin!
 
-198
+196
 00:12:28,640 --> 00:12:30,310
 H-Halt!
 
-199
+197
 00:12:30,310 --> 00:12:32,190
 Genieß den Flug, Buggy!
 
-200
+198
 00:12:32,190 --> 00:12:34,280
 Gum-Gum...
 
-201
+199
 00:12:35,400 --> 00:12:37,280
 Bazooka!
 
-202
+200
 00:12:49,080 --> 00:12:50,640
 Gewonnen!
 
-203
+201
 00:12:52,880 --> 00:12:56,010
 Ey! Kapitän Buggy ist davongeflogen.
 
-204
+202
 00:12:56,010 --> 00:12:59,170
 W-Was sollen wir denn jetzt tun?
 
-205
+203
 00:12:59,170 --> 00:13:00,930
 Erst mal weiter bewusstlos stellen.
 
-206
+204
 00:13:00,930 --> 00:13:01,640
 Gute Idee.
 
-207
+205
 00:13:07,100 --> 00:13:09,140
 Nun ist er total zerfetzt...
 
-208
+206
 00:13:09,140 --> 00:13:10,640
 Ach, ist schon okay.
 
-209
+207
 00:13:10,640 --> 00:13:11,900
 Ich kann ihn noch tragen,
 
-210
+208
 00:13:11,900 --> 00:13:14,370
 und Buggy hab ich in den
 Himmel befördert. Das reicht mir.
 
-211
+209
 00:13:19,570 --> 00:13:22,780
 Keine Sorge.
 Ich reparier ihn dir später.
 
-212
+210
 00:13:22,780 --> 00:13:24,120
 Hm? Was sagtest du?
 
-213
+211
 00:13:24,120 --> 00:13:25,370
 Gar nichts!
 
-214
+212
 00:13:25,370 --> 00:13:29,120
 Ich hab’s jedenfalls auf zwei Säcke aufgeteilt, trag also bitte einen.
 
-215
+213
 00:13:29,120 --> 00:13:31,370
 Für mich ist das zu schwer.
 
-216
+214
 00:13:31,370 --> 00:13:32,540
 Ist echt ’ne Menge.
 
-217
+215
 00:13:32,540 --> 00:13:37,380
 Wenn Buggy eines hat, dann ist es ein Auge für hochwertige Schätze.
 
-218
+216
 00:13:37,380 --> 00:13:40,900
 Das ganze Zeug dürfte mindestens zehn Millionen Berry wert sein!
 
-219
+217
 00:13:45,510 --> 00:13:46,720
 Hier, bitte sehr.
 
-220
+218
 00:13:46,720 --> 00:13:47,220
 Hä?
 
-221
+219
 00:13:47,220 --> 00:13:50,480
 Die Karte der Grand Line. Wolltest du die nicht haben?
 
-222
+220
 00:13:50,480 --> 00:13:51,480
 Die würdest du mir geben?
 
-223
+221
 00:13:51,480 --> 00:13:53,270
 Du hast mich immerhin gerettet.
 
-224
+222
 00:13:54,100 --> 00:13:55,440
 Oh! Tausend Dank, Nami!
 
-225
+223
 00:13:55,440 --> 00:13:58,690
 Endlich hab ich die Karte der Grand Line!
 
-226
+224
 00:13:58,690 --> 00:14:00,190
 Hurra!
 
-227
+225
 00:14:00,570 --> 00:14:03,570
 Oh! Bedeutet das etwa, dass du dich unserer Bande anschließt?
 
-228
+226
 00:14:03,570 --> 00:14:07,010
 Ich hab doch gesagt, dass ich niemals einer Piratenbande beitreten werde!
 
-229
+227
 00:14:08,200 --> 00:14:09,490
 Aber das passt schon.
 
-230
+228
 00:14:09,490 --> 00:14:12,040
 Es erscheint mir lohnenswert, bei euch zu bleiben.
 
-231
+229
 00:14:12,290 --> 00:14:14,920
 Aber ich arbeite nur mit euch zusammen, vergiss das nicht!
 
-232
+230
 00:14:14,920 --> 00:14:16,340
 Behalt das im Hinterkopf.
 
-233
+231
 00:14:16,630 --> 00:14:17,480
 Klar!
 
-234
+232
 00:14:20,380 --> 00:14:22,760
 Hey, Zoro! Zeit, aufzustehen.
 
-235
+233
 00:14:22,760 --> 00:14:24,940
 Zoro! Wir gehen!
 
-236
+234
 00:14:26,600 --> 00:14:28,350
 Ist alles geregelt?
 
-237
+235
 00:14:27,600 --> 00:14:28,350
 Ja!
 
-238
+236
 00:14:28,350 --> 00:14:31,490
 Wir haben sogar die Karte und eine Navigatorin bekommen.
 
-239
+237
 00:14:36,440 --> 00:14:39,530
 Ah, das wird nichts.
 Hab nicht genug Blut zum Laufen.
 
-240
+238
 00:14:39,530 --> 00:14:40,780
 Natürlich wird daraus nichts!
 
-241
+239
 00:14:40,780 --> 00:14:43,820
 Ihr zwei wärt keine Menschen, wenn ihr jetzt noch laufen könntet.
 
-242
+240
 00:14:43,820 --> 00:14:45,450
 Wieso schließt du mich mit ein?
 
-243
+241
 00:14:45,450 --> 00:14:47,780
 Du bist sowieso der Sonderbarste hier!
 
-244
+242
 00:14:47,780 --> 00:14:50,290
 Zuerst sollten wir dem Bürgermeister helfen.
 
-245
+243
 00:14:50,290 --> 00:14:51,410
 Oh, richtig.
 
-246
+244
 00:14:52,160 --> 00:14:54,420
 Wir sollten mal den Alten aufwecken.
 
-247
+245
 00:14:54,420 --> 00:14:55,370
 Hey, ihr da!
 
-248
+246
 00:14:55,620 --> 00:14:57,630
 Seid ihr von außerhalb?
 
-249
+247
 00:14:57,630 --> 00:14:59,500
 Jo. Und wer seid ihr?
 
-250
+248
 00:15:00,050 --> 00:15:02,010
 Wir sind die Bewohner dieser Stadt.
 
-251
+249
 00:15:02,010 --> 00:15:04,380
 Haben sich die Piraten etwa zerstritten?
 
-252
+250
 00:15:05,880 --> 00:15:07,930
 Sagt uns bitte, was ihr wisst.
 
-253
+251
 00:15:07,930 --> 00:15:10,370
 Ach so, das sind nur die Bewohner!
 
-254
+252
 00:15:10,370 --> 00:15:12,140
 Hab sie schon für weitere Piraten gehalten.
 
-255
+253
 00:15:12,140 --> 00:15:13,270
 Oh, Herr Bürgermeister!
 
-256
+254
 00:15:13,270 --> 00:15:14,980
 Sagen Sie doch etwas!
 
-257
+255
 00:15:14,980 --> 00:15:16,190
 Hey! Herr Bürgermeister!
 
-258
+256
 00:15:16,190 --> 00:15:18,400
 – Er ist bewusstlos!
 – Das ist sicher das Werk dieser Piraten!
 
-259
+257
 00:15:18,400 --> 00:15:20,270
 Wie kann man so etwas Schreckliches tun?
 
-260
+258
 00:15:20,270 --> 00:15:23,190
 Tut mir leid. Ich hab den alten Mann bewusstlos geschlagen.
 
-261
+259
 00:15:23,530 --> 00:15:24,610
 – Was?!
 – Was?!
 
-262
+260
 00:15:24,990 --> 00:15:27,240
 Ernsthaft? Das musst du ihnen doch nicht gestehen!
 
-263
+261
 00:15:27,240 --> 00:15:30,700
 – Du hast’s doch gesehen.
 – Hab ich, aber du hattest einen guten Grund...
 
-264
+262
 00:15:32,330 --> 00:15:36,830
 Warum habt ihr unserem Bürgermeister das angetan?!
 
-265
+263
 00:15:36,830 --> 00:15:38,210
 Kommt uns nicht mit Ausreden!
 
-266
+264
 00:15:38,500 --> 00:15:41,040
 Wer seid ihr? Steckt ihr mit diesen Piraten unter einer Decke?
 
-267
+265
 00:15:42,090 --> 00:15:43,840
 Die sind richtig sauer...
 
-268
+266
 00:15:43,840 --> 00:15:46,510
 Wenn uns jetzt rausrutscht,
 dass wir Diebe oder Piraten sind...
 
-269
+267
 00:15:46,760 --> 00:15:47,840
 Wir sind Piraten!
 
-270
+268
 00:15:51,260 --> 00:15:52,510
 – Haben wir’s uns doch gedacht!
 – Haben wir’s uns doch gedacht!
 
-271
+269
 00:15:54,180 --> 00:15:54,930
 Idiot!
 
-272
+270
 00:15:54,930 --> 00:15:55,850
 Es ist die Wahrheit!
 
-273
+271
 00:15:55,850 --> 00:15:59,400
 Piraten! Wie könnt ihr unsere Stadt verwüsten?!
 
-274
+272
 00:15:59,400 --> 00:16:01,330
 Nur weil ihr jung seid,
 werden wir euch nicht schonen!
 
-275
+273
 00:16:02,610 --> 00:16:03,820
 Und was jetzt?
 
-276
+274
 00:16:03,820 --> 00:16:05,960
 Sieht nicht so aus,
 als würden sie uns zuhören.
 
-277
+275
 00:16:07,490 --> 00:16:10,220
 Wir laufen!
 
-278
+276
 00:16:11,280 --> 00:16:12,700
 Es gibt kein Entkommen!
 
-279
+277
 00:16:12,700 --> 00:16:16,120
 Wir könnt ihr unserem geliebten Bürgermeister Schaden zufügen?!
 
-280
+278
 00:16:21,250 --> 00:16:23,920
 Mann! Wieso musstest du die Situation noch verschlimmern?!
 
-281
+279
 00:16:23,920 --> 00:16:25,260
 Das ist eine gute Stadt!
 
-282
+280
 00:16:24,760 --> 00:16:25,260
 Hä?
 
-283
+281
 00:16:25,800 --> 00:16:29,720
 Allein wegen dem alten Bürgermeister sind sie alle so wütend!
 
-284
+282
 00:16:33,930 --> 00:16:38,100
 Die würden sich eh über jeden Erklärungsversuch aufregen.
 
-285
+283
 00:16:38,100 --> 00:16:39,390
 Wir biegen hier ab!
 
-286
+284
 00:16:39,390 --> 00:16:42,110
 W-Warte! Sag das doch nicht so urplötzlich!
 
-287
+285
 00:16:42,110 --> 00:16:43,570
 Sie sind in diese Gasse gerannt!
 
-288
+286
 00:16:49,220 --> 00:16:49,860
 Chouchou?
 
-289
+287
 00:16:50,280 --> 00:16:51,660
 Hündchen!
 
-290
+288
 00:16:56,080 --> 00:16:57,910
 Hey! Geh zur Seite, Chouchou!
 
-291
+289
 00:16:57,910 --> 00:16:58,580
 Hey!
 
-292
+290
 00:16:58,580 --> 00:17:00,670
 Diese Typen sind böse Piraten!
 
-293
+291
 00:17:00,670 --> 00:17:02,000
 Du kläffst die Falschen an!
 
-294
+292
 00:17:04,040 --> 00:17:05,590
 Wieso stehst du uns im Weg?!
 
-295
+293
 00:17:05,590 --> 00:17:07,480
 Chouchou! Jetzt lass uns durch!
 
-296
+294
 00:17:08,420 --> 00:17:11,940
 Bis dann, Hündchen!
 
-297
+295
 00:17:20,560 --> 00:17:22,150
 Hatte ich eine Angst!
 
-298
+296
 00:17:22,150 --> 00:17:24,440
 Dank Chouchous Hilfe konnten wir entkommen.
 
-299
+297
 00:17:24,440 --> 00:17:26,900
 Wieso müssen wir uns das gefallen lassen?!
 
-300
+298
 00:17:26,900 --> 00:17:28,430
 Ist das jetzt nicht egal?
 
-301
+299
 00:17:28,430 --> 00:17:30,230
 Hier sind wir sowieso fertig.
 
-302
+300
 00:17:30,230 --> 00:17:31,530
 Mag ja stimmen, aber trotzdem...
 
-303
+301
 00:17:31,530 --> 00:17:33,160
 Hey, ist das etwa dein Schiff?
 
-304
+302
 00:17:33,160 --> 00:17:34,780
 Echt toll!
 
-305
+303
 00:17:34,780 --> 00:17:37,410
 Ach, so toll find ich’s gar nicht.
 
-306
+304
 00:17:37,410 --> 00:17:39,830
 Hab’s ein paar idiotischen Piraten abgeluchst.
 
-307
+305
 00:17:39,830 --> 00:17:41,540
 Da bist du ja wieder!
 
-308
+306
 00:17:43,130 --> 00:17:45,280
 Wir haben auf dich gewartet,
 diebisches Mädel.
 
-309
+307
 00:17:45,280 --> 00:17:47,750
 Hast nicht damit gerechnet,
 uns hier am Hafen zu treffen, was?
 
-310
+308
 00:17:50,010 --> 00:17:51,430
 Kennst du die?
 
-311
+309
 00:17:51,430 --> 00:17:52,630
 Ja, kann man wohl so sagen.
 
-312
+310
 00:17:52,630 --> 00:17:56,100
 Das kann man nicht nur so sagen. Uns verbindet das Schicksal.
 
-313
+311
 00:17:56,100 --> 00:17:57,620
 Du hast also Freunde?
 
-314
+312
 00:17:57,620 --> 00:18:00,480
 Dann werden wir euch auch bestrafen müssen.
 
-315
+313
 00:18:00,480 --> 00:18:04,520
 Damit ihr versteht, dass es sich
 nicht gehört, von anderen zu stehlen!
 
-316
+314
 00:18:04,520 --> 00:18:06,700
 Oh ja! Hey, du.
 
-317
+315
 00:18:06,700 --> 00:18:09,740
 Hör auf, mich zu ignorieren!
 
-318
+316
 00:18:10,240 --> 00:18:11,110
 Hä?!
 
-319
+317
 00:18:19,540 --> 00:18:22,500
 Bürgermeister!
 Sind Sie bei Bewusstsein?
 
-320
+318
 00:18:24,320 --> 00:18:26,170
 Gott sei Dank! Es geht Ihnen gut.
 
-321
+319
 00:18:26,170 --> 00:18:28,060
 Was um alles in der Welt ist geschehen?
 
-322
+320
 00:18:30,380 --> 00:18:31,510
 Was ist das?
 
-323
+321
 00:18:31,510 --> 00:18:34,050
 So sah es schon aus, als wir hier ankamen.
 
-324
+322
 00:18:34,050 --> 00:18:37,930
 Ein paar Piraten waren noch übrig,
 aber sie sind alle geflohen.
 
-325
+323
 00:18:38,930 --> 00:18:41,270
 Haben Sie denn nichts von dem gesehen, was passiert ist?
 
-326
+324
 00:18:41,270 --> 00:18:42,930
 Wo sind diese Kinder?
 
-327
+325
 00:18:42,430 --> 00:18:42,930
 Hä?
 
-328
+326
 00:18:42,930 --> 00:18:44,140
 „Diese Kinder“?
 
-329
+327
 00:18:44,140 --> 00:18:46,270
 Meinen Sie diese drei von eben?
 
-330
+328
 00:18:46,860 --> 00:18:49,370
 Sie sind also wohlauf?!
 
-331
+329
 00:18:50,730 --> 00:18:54,740
 Diese Narren! Wie können Sie einem alten Bürger wie mir so etwas antun?
 
-332
+330
 00:18:56,700 --> 00:19:00,700
 Wir haben diese Unmenschen gerade fortgejagt!
 
-333
+331
 00:19:00,700 --> 00:19:01,790
 Aber das reicht noch nicht!
 
-334
+332
 00:19:02,160 --> 00:19:04,790
 Es hatte sogar fast den Anschein, als würden sie uns verspotten!
 
-335
+333
 00:19:04,790 --> 00:19:06,250
 Sie würden niemals verstehen,
 
-336
+334
 00:19:06,250 --> 00:19:10,010
 wie sich der Angriff auf unsere Stadt angefühlt hat!
 
-337
+335
 00:19:10,010 --> 00:19:11,300
 Ganz genau!
 
-338
+336
 00:19:11,300 --> 00:19:13,170
 Noch können wir ihnen folgen und sie einfangen...
 
-339
+337
 00:19:13,170 --> 00:19:14,760
 Ruhe!
 
-340
+338
 00:19:14,760 --> 00:19:17,680
 Ich bin der Einzige, dem es zusteht, sich über sie zu beschweren!
 
-341
+339
 00:19:18,100 --> 00:19:21,350
 Niemandem sonst werde ich es
 erlauben, schlecht über sie zu sprechen!
 
-342
+340
 00:19:21,350 --> 00:19:24,180
 Was? Warum nehmen Sie Piraten in Schutz?
 
-343
+341
 00:19:24,180 --> 00:19:27,520
 Verdammt noch mal...
 Sie wollen also einfach verschwinden?!
 
-344
+342
 00:19:27,520 --> 00:19:29,170
 Wohin sind sie gegangen?!
 
-345
+343
 00:19:29,660 --> 00:19:31,650
 Ähm... Sie sind zum Hafen gerannt.
 
-346
+344
 00:19:33,110 --> 00:19:35,110
 Verdammt!
 
-347
+345
 00:19:33,110 --> 00:19:35,110
 – Herr Bürgermeister!
 – Herr Bürgermeister!
 
-348
+346
 00:19:35,110 --> 00:19:38,410
 Bilden sich ein, sie könnten in meiner Stadt machen, was sie wollen!
 
-349
+347
 00:19:38,410 --> 00:19:42,370
 Ich hab euch noch so einiges zu sagen!
 
-350
+348
 00:19:46,120 --> 00:19:47,680
 So! Brechen wir auf!
 
-351
+349
 00:19:48,580 --> 00:19:52,340
 Ist das nicht Buggys Symbol auf deinem Segel?
 
-352
+350
 00:19:52,340 --> 00:19:55,340
 Ist ja auch sein Schiff.
 Ich tausch es irgendwann aus.
 
-353
+351
 00:19:57,220 --> 00:20:01,180
 Hey, wartet, Kinder!
 
-354
+352
 00:20:01,180 --> 00:20:02,640
 Der alte Bürgermeister!
 
-355
+353
 00:20:10,860 --> 00:20:13,570
 Ich war bereit, zu sterben.
 
-356
+354
 00:20:13,570 --> 00:20:17,300
 Ich war bereit, voller Verzweiflung zu sterben.
 
-357
+355
 00:20:18,950 --> 00:20:20,780
 Danke! Wir stehen in eurer Schuld!
 
-358
+356
 00:20:24,200 --> 00:20:27,250
 Mach dir keinen Kopf! Immer locker bleiben!
 
-359
+357
 00:20:27,710 --> 00:20:31,710
 Diese verdammten Kinder... Diese verdammten Kinder...
 
-360
+358
 00:20:31,710 --> 00:20:34,440
 Verdammte Kinder...
 
-361
+359
 00:20:36,260 --> 00:20:38,020
 Mir fehlen die Worte.
 
-362
+360
 00:20:44,180 --> 00:20:46,020
 Wie bitte?!
 
-363
+361
 00:20:46,270 --> 00:20:48,440
 Du hast einen der Schatzsäcke zurückgelassen?!
 
-364
+362
 00:20:48,440 --> 00:20:48,890
 Ja.
 
-365
+363
 00:20:48,890 --> 00:20:52,020
 Einer allein ist schon
 fünf Millionen Berry wert!
 
-366
+364
 00:20:52,020 --> 00:20:55,530
 Aber sie brauchen doch Geld, um ihre Stadt wiederaufzubauen, nicht?
 
-367
+365
 00:20:55,530 --> 00:20:57,440
 Das waren meine Schätze!
 
-368
+366
 00:20:57,990 --> 00:21:00,410
 Hast du eine Ahnung,
 wie sehr ich dafür leiden musste?!
 
-369
+367
 00:21:01,160 --> 00:21:03,120
 Warum hast du das getan?!
 
-370
+368
 00:21:03,120 --> 00:21:05,120
 Aufhören! Ich kann nicht schwimmen!
 
-371
+369
 00:21:05,120 --> 00:21:06,660
 Das ist genau der Gedanke!
 
-372
+370
 00:21:06,660 --> 00:21:08,870
 Hol sie dir doch selbst zurück!
 
-373
+371
 00:21:08,870 --> 00:21:11,370
 Das kann ich nicht! Geh du sie holen!
 
-374
+372
 00:21:11,370 --> 00:21:13,880
 Nö, das ist gefährlich!
 Dabei könnte ich draufgehen!
 
-375
+373
 00:21:13,880 --> 00:21:15,440
 Dann stirbst du halt!
 
-376
+374
 00:21:16,090 --> 00:21:18,650
 Wenn du so was noch mal abziehst, werf ich dich wirklich ins Meer!
 
-377
+375
 00:21:20,510 --> 00:21:22,940
 Nun ja, zu unserem Glück oder auch Unglück
 
-378
+376
 00:21:23,470 --> 00:21:27,930
 scheint sich unserer Reise eine Navigatorin angeschlossen zu haben.
+
+377
+00:01:50,010 --> 00:01:53,220
+Zufluchtsort
+der Stadtbewohner
+
+378
+00:01:50,010 --> 00:01:53,220
+Zufluchtsort
+der Stadtbewohner
 
 379
 00:01:50,010 --> 00:01:53,220
 Zufluchtsort
 der Stadtbewohner
 
-380
-00:01:50,010 --> 00:01:53,220
-Zufluchtsort
-der Stadtbewohner
-
-381
-00:01:50,010 --> 00:01:53,220
-Zufluchtsort
-der Stadtbewohner

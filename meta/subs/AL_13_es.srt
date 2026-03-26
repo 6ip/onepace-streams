@@ -208,9 +208,6 @@ Entonces...
 00:10:06,090 --> 00:10:14,510
 Taller de
 
-
- Usopp
-
 50
 00:10:10,830 --> 00:10:12,760
 Ahora, respecto del costo de los materiales...
@@ -4966,3 +4963,4 @@ C
 1233
 00:03:09,840 --> 00:03:13,370
 F
+

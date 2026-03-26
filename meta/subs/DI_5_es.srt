@@ -1320,30 +1320,10 @@ Sí.
 CONSEJERO REAL 
 DEL REINO DE DRUM 
 
-
-
-
-
-
-
-
-
-CHESS
-
 318
 00:25:37,550 --> 00:25:42,240
 MAGISTRADO 
 DEL REINO DE DRUM 
-
-
-
-
-
-
-
-
-
-KUROMARIMO
 
 319
 00:25:38,680 --> 00:25:41,180
@@ -6577,16 +6557,3 @@ C
 00:01:42,630 --> 00:01:46,160
 F
 
-1614
-00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-1615
-00:01:46,250 --> 00:01:56,250
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io

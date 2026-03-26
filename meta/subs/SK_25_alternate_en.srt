@@ -1,1456 +1,1443 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:50,050 --> 00:02:00,040
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:53,340 --> 00:01:56,350
 What? They rushed off the island?
 
-4
+2
 00:01:56,350 --> 00:01:59,470
 Yes. We couldn't even
 give them our gift.
 
-5
+3
 00:01:59,470 --> 00:02:01,810
 What a pity...
 
-6
+4
 00:02:02,980 --> 00:02:07,650
 I wonder if they even realize
 how grateful we are for what they did.
 
-7
+5
 00:02:09,320 --> 00:02:13,110
 Indeed. They still don't
 grasp our feelings.
 
-8
+6
 00:02:16,530 --> 00:02:18,410
 It's not fair, Aisa...
 
-9
+7
 00:02:18,410 --> 00:02:20,830
 You're the only one who got
 to say goodbye to them.
 
-10
+8
 00:02:21,160 --> 00:02:24,670
 They can't stop talking about
 how we let our saviors run away.
 
-11
+9
 00:02:25,880 --> 00:02:29,670
 But Luffy and the others
 told me not to tell anyone.
 
-12
+10
 00:02:30,340 --> 00:02:34,630
 Hey Raki, did you know that
 Luffy's body stretches?!
 
-13
+11
 00:02:34,930 --> 00:02:37,800
 He'd be like, "Gum-Gum Pistol!"
 
-14
+12
 00:02:37,800 --> 00:02:40,430
 Hey, Aisa, hold still!
 
-15
+13
 00:02:40,430 --> 00:02:43,390
 Who knew there was a strong
 warrior in the Blue Sea, too?!
 
-16
+14
 00:02:44,020 --> 00:02:48,060
 I wanna be like him,
 like "Gum-Gum...!"
 
-17
+15
 00:02:49,610 --> 00:02:51,070
 Aisa...
 
-18
+16
 00:02:52,570 --> 00:02:56,030
 Let's just give it a trim for today.
 You should let your hair grow out.
 
-19
+17
 00:02:56,030 --> 00:02:56,860
 What?
 
-20
+18
 00:02:56,860 --> 00:03:01,540
 I'm sure it'll look good on you.
 You're a girl, so you should look cute.
 
-21
+19
 00:03:01,830 --> 00:03:06,170
 Cute?! Me?!
 
-22
+20
 00:03:07,670 --> 00:03:08,420
 That's right!
 
-23
+21
 00:03:09,040 --> 00:03:12,670
 Now that there's no need
 for you kids to carry weapons...
 
-24
+22
 00:03:14,630 --> 00:03:19,100
 you can live freely,
 like people in the sky should.
 
-25
+23
 00:03:21,140 --> 00:03:23,350
 You sure are ladylike today!
 
-26
+24
 00:03:24,520 --> 00:03:27,270
 Now, hold still, Aisa!
 
-27
+25
 00:03:27,270 --> 00:03:28,650
 Ladylike Raki!
 
-28
+26
 00:03:28,650 --> 00:03:29,900
 Aisa!
 
-29
+27
 00:03:37,200 --> 00:03:38,990
 Great Warrior Kalgara...
 
-30
+28
 00:03:39,870 --> 00:03:43,490
 We were told that the sacred duty
 of the Shandians had been fulfilled.
 
-31
+29
 00:03:44,120 --> 00:03:47,710
 And I'm sure your best friend
 heard your wish as well.
 
-32
+30
 00:03:48,500 --> 00:03:53,340
 Future generations will no longer
 need to shed their blood.
 
-33
+31
 00:03:54,010 --> 00:03:59,010
 Our fight may be over...
 but we will never lose our pride!
 
-34
+32
 00:03:59,590 --> 00:04:03,100
 So please continue to watch over us.
 
-35
+33
 00:04:05,310 --> 00:04:09,310
 We swear to always keep
 the Light of Shandora shining!
 
-36
+34
 00:04:19,240 --> 00:04:23,030
 I am merely the Sky Knight,
 a freelance mercenary.
 
-37
+35
 00:04:24,040 --> 00:04:26,370
 You are far better suited for it.
 
-38
+36
 00:04:26,370 --> 00:04:29,670
 This city belonged to your
 people from the start.
 
-39
+37
 00:04:29,670 --> 00:04:31,210
 What's this now?
 
-40
+38
 00:04:31,750 --> 00:04:34,130
 That's not a good reason.
 
-41
+39
 00:04:34,130 --> 00:04:36,960
 I think this battle
 taught us all the hard truth...
 
-42
+40
 00:04:37,590 --> 00:04:40,640
 that no one can claim
 ownership of vearth.
 
-43
+41
 00:04:40,970 --> 00:04:43,390
 The title of "god" provides strength.
 
-44
+42
 00:04:43,390 --> 00:04:47,100
 The name of the land is Skypiea.
 The name of the city is Shandora.
 
-45
+43
 00:04:47,930 --> 00:04:50,020
 The only person who
 can unify them is you,
 
-46
+44
 00:04:50,020 --> 00:04:55,610
 the one who's always anguished over
 this land's never-ending war.
 
-47
+45
 00:04:57,070 --> 00:04:59,490
 Sky Knight Gan Fall...
 
-48
+46
 00:04:59,490 --> 00:05:01,570
 I ask you to take the seat of god once more
 
-49
+47
 00:05:01,570 --> 00:05:05,490
 and give this ailing nation
 the strength to heal.
 
-50
+48
 00:05:07,500 --> 00:05:09,410
 We'd like you to, as well!
 
-51
+49
 00:05:09,410 --> 00:05:10,500
 Lord Gan Fall!
 
-52
+50
 00:05:10,830 --> 00:05:12,630
 As long as it's you,
 we're on board too!
 
-53
+51
 00:05:12,630 --> 00:05:13,710
 Yeah!
 
-54
+52
 00:05:13,710 --> 00:05:15,040
 Gan Fall!
 
-55
+53
 00:05:15,040 --> 00:05:16,210
 God!
 
-56
+54
 00:05:16,210 --> 00:05:16,920
 We need you!
 
-57
+55
 00:05:20,680 --> 00:05:22,430
 Alas...
 
-58
+56
 00:05:23,550 --> 00:05:28,890
 Just when I thought I could finally
 grow pumpkins in peace...
 
-59
+57
 00:05:55,630 --> 00:05:57,210
 Everyone! We can see it now!
 
-60
+58
 00:05:58,380 --> 00:06:01,420
 Take a look ahead! It's Cloud End!
 
-61
+59
 00:06:01,420 --> 00:06:02,630
 Ah! Lemme see!
 
-62
+60
 00:06:03,800 --> 00:06:06,930
 Wow... So we can go
 back down over there?
 
-63
+61
 00:06:06,930 --> 00:06:09,100
 We got here sooner than I thought.
 
-64
+62
 00:06:11,270 --> 00:06:13,980
 Do we have to leave already?
 
-65
+63
 00:06:13,980 --> 00:06:17,690
 Yeah, now that we're heading back,
 I don't want to say goodbye.
 
-66
+64
 00:06:17,690 --> 00:06:20,570
 It's time to say farewell
 to this pure white sea.
 
-67
+65
 00:06:20,570 --> 00:06:23,740
 The sky island was fun...
 but it was scary, too.
 
-68
+66
 00:06:24,200 --> 00:06:28,700
 So there's a milky road through there that
 heads straight down to the Blue Sea, huh?
 
-69
+67
 00:06:29,490 --> 00:06:32,120
 I wonder if we'll ever visit
 the sky island again...
 
-70
+68
 00:06:32,120 --> 00:06:33,960
 Maybe, maybe not.
 
-71
+69
 00:06:42,920 --> 00:06:47,260
 Well then, everyone! I'm sorry,
 but we'll say goodbye here!
 
-72
+70
 00:06:47,260 --> 00:06:49,060
 Please take care, everyone!
 
-73
+71
 00:06:49,890 --> 00:06:51,720
 Thanks for seeing us off!
 
-74
+72
 00:06:51,720 --> 00:06:54,390
 Conis! Take care of yourself!
 
-75
+73
 00:06:54,390 --> 00:06:56,350
 Send our regards to the others, too!
 
-76
+74
 00:06:56,900 --> 00:06:58,900
 See you!
 
-77
+75
 00:06:59,650 --> 00:07:01,690
 Thanks for everything!
 
-78
+76
 00:07:02,690 --> 00:07:07,160
 No! We should be thanking you!
 
-79
+77
 00:07:07,870 --> 00:07:10,990
 I'll never forget you all!
 
-80
+78
 00:07:11,490 --> 00:07:14,330
 Conis, old guy, and fluff ball!
 You all take care!
 
-81
+79
 00:07:14,330 --> 00:07:15,500
 – Yeah!
 – Yeah!
 
-82
+80
 00:07:15,500 --> 00:07:19,540
 Now, furl the sails immediately
 and hold on tight to the ship!
 
-83
+81
 00:07:19,540 --> 00:07:21,670
 Alright! Let's do as he says!
 
-84
+82
 00:07:22,090 --> 00:07:23,970
 Sounds like it's gonna go pretty fast!
 
-85
+83
 00:07:23,970 --> 00:07:27,760
 Yeah, we're sliding 7,000
 meters down! Hurry!
 
-86
+84
 00:07:27,760 --> 00:07:28,760
 – Okay!
 – Okay!
 
-87
+85
 00:07:33,930 --> 00:07:35,020
 Wh-What?! Huh?!
 
-88
+86
 00:07:37,900 --> 00:07:40,060
 He says, "Don't forget about me."
 
-89
+87
 00:07:40,060 --> 00:07:43,860
 Oh... It's that south bird we
 brought to the sky with us.
 
-90
+88
 00:07:47,240 --> 00:07:48,530
 Okay, Captain!
 
-91
+89
 00:07:48,950 --> 00:07:51,160
 We got the log for the next island!
 
-92
+90
 00:07:53,620 --> 00:07:59,880
 Alright! Once we get back down,
 we'll start a brand new adventure!
 
-93
+91
 00:08:00,250 --> 00:08:03,090
 You ready, guys?!
 
-94
+92
 00:08:04,670 --> 00:08:07,340
 We're going back to the Blue Sea!
 
-95
+93
 00:08:07,340 --> 00:08:08,760
 – Yeah!
 – Yeah!
 
-96
+94
 00:08:21,900 --> 00:08:25,400
 Everyone! Be careful while dropping!
 
-97
+95
 00:08:29,360 --> 00:08:30,610
 – Dropping?
 – Dropping?
 
-98
+96
 00:08:39,580 --> 00:08:41,000
 Heso!
 
-99
+97
 00:08:45,420 --> 00:08:50,050
 Here we go! The sky island's
 famous octoballoon!
 
-100
+98
 00:09:02,440 --> 00:09:04,400
 An octopus!
 
-101
+99
 00:09:04,400 --> 00:09:06,280
 You son of a...!
 
-102
+100
 00:09:10,650 --> 00:09:11,450
 O-Ouch...
 
-103
+101
 00:09:11,820 --> 00:09:14,410
 Wh-Wh-What the...?!
 
-104
+102
 00:09:16,370 --> 00:09:18,910
 Hey, look! This is so cool!
 
-105
+103
 00:09:21,250 --> 00:09:22,750
 What the hell is this?!
 
-106
+104
 00:09:22,750 --> 00:09:24,090
 It's a balloon!
 
-107
+105
 00:09:25,040 --> 00:09:26,630
 This is fun!
 
-108
+106
 00:09:26,630 --> 00:09:27,710
 We've slowed down!
 
-109
+107
 00:09:27,710 --> 00:09:32,970
 I... I thought that I was finally
 gonna go to the netherworld.
 
-110
+108
 00:10:00,250 --> 00:10:06,170
 Ring it! Let the ringing of the bell bid
 farewell to the saviors of this land!
 
-111
+109
 00:10:06,170 --> 00:10:07,090
 Heso!
 
-112
+110
 00:10:09,590 --> 00:10:13,090
 Luffy! Let's meet again!
 
-113
+111
 00:10:13,090 --> 00:10:14,800
 Don't be a stranger!
 
-114
+112
 00:10:14,800 --> 00:10:16,600
 Thank you!
 
-115
+113
 00:10:16,600 --> 00:10:20,430
 Safe travels back to the Blue Sea!
 
-116
+114
 00:10:27,110 --> 00:10:29,610
 When you cast your gaze
 toward the sky...
 
-117
+115
 00:10:30,860 --> 00:10:34,660
 Is it real, or is it but a dream,
 this God Land above the clouds?
 
-118
+116
 00:10:35,450 --> 00:10:37,450
 Ten thousand meters high in the sky...
 
-119
+117
 00:10:38,120 --> 00:10:41,040
 If you listen closely, you can
 hear the sound of a bell.
 
-120
+118
 00:10:41,040 --> 00:10:43,960
 It rings today. And it will
 ring again tomorrow.
 
-121
+119
 00:10:44,920 --> 00:10:47,290
 The echoing sound
 of the bell in the sky
 
-122
+120
 00:10:47,290 --> 00:10:51,760
 sings of the triumph of this
 wandering land...
 
-123
+121
 00:11:00,600 --> 00:11:02,430
 This is cool!
 
-124
+122
 00:11:02,430 --> 00:11:06,940
 Yeah! This is great!
 
-125
+123
 00:11:09,150 --> 00:11:10,980
 You're calling off the search?!
 
-126
+124
 00:11:10,980 --> 00:11:14,990
 It's only natural, right?!
 The City of Gold was in the sky.
 
-127
+125
 00:11:14,990 --> 00:11:18,160
 We won't find anything
 at the bottom of the sea.
 
-128
+126
 00:11:18,160 --> 00:11:20,160
 This is the end.
 
-129
+127
 00:11:20,160 --> 00:11:22,490
 There's no point in staying here.
 
-130
+128
 00:11:23,200 --> 00:11:24,080
 Boss...
 
-131
+129
 00:11:24,750 --> 00:11:26,170
 Boss...
 
-132
+130
 00:11:26,170 --> 00:11:33,840
 I sincerely thank you all... for joining me
 in pursuit of my dream all these years.
 
-133
+131
 00:11:33,840 --> 00:11:35,300
 What are you saying...?
 
-134
+132
 00:11:35,300 --> 00:11:37,640
 Don't treat us like strangers...
 
-135
+133
 00:11:37,640 --> 00:11:38,970
 Well then, gentlemen!
 
-136
+134
 00:11:41,890 --> 00:11:44,850
 What sort of romantic adventure
 shall we go after next?!
 
-137
+135
 00:11:50,900 --> 00:11:54,360
 We'll follow you to the ends
 of the world, boss!
 
-138
+136
 00:11:58,280 --> 00:12:03,290
 Gold! Gold! Gold! Gold! Gold!
 
-139
+137
 00:12:03,790 --> 00:12:07,920
 We're finally super rich!
 What're we gonna buy?!
 
-140
+138
 00:12:07,920 --> 00:12:11,250
 What about a huge bronze statue?!
 
-141
+139
 00:12:11,250 --> 00:12:14,590
 You moron! Why would you
 trade gold for bronze?!
 
-142
+140
 00:12:14,590 --> 00:12:16,840
 We should stock up on cannons!
 
-143
+141
 00:12:16,840 --> 00:12:18,180
 Let's buy ten of them! Ten!
 
-144
+142
 00:12:18,180 --> 00:12:21,550
 Nami! I want
 a refrigerator with a lock!
 
-145
+143
 00:12:21,550 --> 00:12:25,890
 Don't be stupid! What're we gonna
 do when we get hungry?! I object!
 
-146
+144
 00:12:22,600 --> 00:12:25,470
 I... I... I want you to
 buy me some books!
 
-147
+145
 00:12:25,890 --> 00:12:27,980
 That's why we should
 buy it, dumbass!
 
-148
+146
 00:12:25,470 --> 00:12:27,980
 I wanna read medical
 books from other countries!
 
-149
+147
 00:12:27,980 --> 00:12:30,060
 Now hold on just a second, you guys!
 
-150
+148
 00:12:30,730 --> 00:12:34,230
 We'll split the treasure once
 we get back down, okay?
 
-151
+149
 00:12:34,230 --> 00:12:35,900
 Please buy books for me!
 
-152
+150
 00:12:36,570 --> 00:12:40,410
 If we spend our money willy-nilly,
 we'll end up wasting it all.
 
-153
+151
 00:12:40,410 --> 00:12:41,740
 Miss Navigator...
 
-154
+152
 00:12:43,080 --> 00:12:45,580
 Where exactly is this ship headed?
 
-155
+153
 00:12:45,580 --> 00:12:47,040
 Where?
 
-156
+154
 00:12:47,040 --> 00:12:48,410
 The next island...
 
-157
+155
 00:12:52,250 --> 00:12:53,250
 What?! What?!
 
-158
+156
 00:12:53,250 --> 00:12:54,300
 What's wrong?
 
-159
+157
 00:12:54,300 --> 00:12:57,010
 What's wrong, Nami?
 
-160
+158
 00:12:58,720 --> 00:13:00,630
 Crap!
 
-161
+159
 00:13:00,630 --> 00:13:03,760
 We must've hit an air current,
 and now we're drifting!
 
-162
+160
 00:13:04,890 --> 00:13:05,930
 An air current?!
 
-163
+161
 00:13:05,930 --> 00:13:08,180
 Come to think of it,
 there is a breeze...
 
-164
+162
 00:13:08,180 --> 00:13:09,560
 Is that bad?
 
-165
+163
 00:13:09,560 --> 00:13:10,940
 Of course it is!
 
-166
+164
 00:13:10,940 --> 00:13:13,520
 We can't predict where we'll land now!
 
-167
+165
 00:13:14,020 --> 00:13:15,360
 What are we gonna do?
 
-168
+166
 00:13:15,360 --> 00:13:19,360
 We can't set the sails
 and control the ship like this.
 
-169
+167
 00:13:19,360 --> 00:13:21,360
 Hey, don't worry.
 
-170
+168
 00:13:21,360 --> 00:13:24,030
 We'll get to the next island eventually.
 
-171
+169
 00:13:25,160 --> 00:13:27,700
 You say it like it's
 no big deal, as usual...
 
-172
+170
 00:13:27,700 --> 00:13:28,660
 Hold on...
 
-173
+171
 00:13:29,660 --> 00:13:31,710
 What is it, Sanji?
 
-174
+172
 00:13:31,710 --> 00:13:34,170
 Well... maybe it's my imagination...
 
-175
+173
 00:13:34,170 --> 00:13:35,170
 Huh?
 
-176
+174
 00:13:35,170 --> 00:13:36,300
 What is?
 
-177
+175
 00:13:36,800 --> 00:13:38,670
 No. Never mind...
 
-178
+176
 00:13:38,670 --> 00:13:40,340
 There's a problem! Hey!
 
-179
+177
 00:13:45,350 --> 00:13:46,890
 Oh, it was just a dream.
 
-180
+178
 00:13:46,890 --> 00:13:48,220
 Do you want me to freak out?!
 
-181
+179
 00:13:48,220 --> 00:13:51,140
 Dammit, Moss Head!
 I'm gonna fillet your ass!
 
-182
+180
 00:13:49,220 --> 00:13:51,140
 You scared me!
 
-183
+181
 00:13:51,140 --> 00:13:54,810
 Now, now, Zoro's just tired
 after our battle in the clouds...
 
-184
+182
 00:14:03,240 --> 00:14:05,620
 The sun's completely set now.
 
-185
+183
 00:14:05,620 --> 00:14:07,200
 It's a nice view, though.
 
-186
+184
 00:14:07,200 --> 00:14:09,910
 Yeah, you're right.
 
-187
+185
 00:14:13,750 --> 00:14:16,040
 What's all the ruckus?!
 
-188
+186
 00:14:16,040 --> 00:14:17,420
 Run!
 
-189
+187
 00:14:18,050 --> 00:14:20,760
 Quit pushing! W-We gotta
 stay away from 'em!
 
-190
+188
 00:14:20,760 --> 00:14:21,720
 A falling out?!
 
-191
+189
 00:14:34,900 --> 00:14:36,020
 Bellamy!
 
-192
+190
 00:14:36,020 --> 00:14:37,400
 Sarquiss!
 
-193
+191
 00:14:37,400 --> 00:14:39,150
 Please! Make him stop!
 
-194
+192
 00:14:39,860 --> 00:14:44,950
 Please! Just stop it!
 Why are you doing this...?!
 
-195
+193
 00:14:45,240 --> 00:14:46,870
 What's happening?!
 
-196
+194
 00:14:46,870 --> 00:14:49,030
 Sarquiss is the one begging to stop?
 
-197
+195
 00:14:49,030 --> 00:14:52,750
 Why? Why, you ask?
 
-198
+196
 00:14:52,750 --> 00:14:55,830
 Sarquiss... Bellamy...
 
-199
+197
 00:14:57,500 --> 00:15:01,460
 It's because you disrespected
 my flag, of course.
 
-200
+198
 00:15:04,550 --> 00:15:07,430
 "Does the sky island exist or not?"
 
-201
+199
 00:15:07,800 --> 00:15:11,270
 "Is the City of Gold real or not?"
 
-202
+200
 00:15:13,390 --> 00:15:16,150
 I couldn't care less about any of that.
 
-203
+201
 00:15:16,810 --> 00:15:20,110
 "Pit belief against belief
 to gain control over others."
 
-204
+202
 00:15:20,900 --> 00:15:22,530
 That's what I told you...
 
-205
+203
 00:15:22,530 --> 00:15:24,570
 wasn't it, Bellamy?
 
-206
+204
 00:15:25,860 --> 00:15:29,120
 That's... Donquixote Doflamingo!
 
-207
+205
 00:15:29,120 --> 00:15:31,790
 He's one of the Seven
 Warlords of the Sea!
 
-208
+206
 00:15:31,790 --> 00:15:34,410
 His bounty used to be
 over 300 million!
 
-209
+207
 00:15:34,410 --> 00:15:36,460
 What's a guy like him doing here?!
 
-210
+208
 00:15:36,460 --> 00:15:41,590
 I don't need useless punks
 like you serving under me...
 
-211
+209
 00:15:42,340 --> 00:15:44,760
 Crap! My body's moving on its own!
 
-212
+210
 00:15:44,760 --> 00:15:47,800
 Stop! Please, don't...!
 
-213
+211
 00:15:48,220 --> 00:15:50,640
 No!
 
-214
+212
 00:15:54,310 --> 00:15:55,310
 Bellamy!
 
-215
+213
 00:15:58,980 --> 00:16:01,820
 G-Give me...
 
-216
+214
 00:16:02,570 --> 00:16:05,690
 Give me one more chance...!
 
-217
+215
 00:16:06,360 --> 00:16:10,320
 I'll... We'll be your loyal followers!
 
-218
+216
 00:16:10,320 --> 00:16:11,530
 Bellamy!
 
-219
+217
 00:16:11,530 --> 00:16:13,160
 No more, Bellamy!
 
-220
+218
 00:16:15,330 --> 00:16:19,290
 Yes, I lost, but I never went
 against your principles!
 
-221
+219
 00:16:19,290 --> 00:16:20,920
 I swear on your flag!
 
-222
+220
 00:16:20,920 --> 00:16:23,590
 This is just my way of doing things!
 
-223
+221
 00:16:23,590 --> 00:16:26,130
 We couldn't just run him off!
 
-224
+222
 00:16:26,130 --> 00:16:29,300
 He would've reached you someday!
 
-225
+223
 00:16:30,510 --> 00:16:33,850
 How very touching,
 O faithful subordinate of mine.
 
-226
+224
 00:16:34,180 --> 00:16:38,730
 That's what I like about you, Bellamy.
 
-227
+225
 00:16:41,230 --> 00:16:45,650
 A new era is just around
 the corner. Do as you wish.
 
-228
+226
 00:16:46,940 --> 00:16:50,240
 However... I don't need you anymore.
 
-229
+227
 00:16:53,120 --> 00:16:56,040
 Doflamingo!
 
-230
+228
 00:17:01,830 --> 00:17:05,250
 He just took out a notorious rookie
 worth 55 million!
 
-231
+229
 00:17:05,250 --> 00:17:07,010
 It was child's play to him!
 
-232
+230
 00:17:08,720 --> 00:17:10,590
 It's finally beginning!
 
-233
+231
 00:17:10,590 --> 00:17:13,010
 You'd better be prepared!
 
-234
+232
 00:17:13,010 --> 00:17:16,890
 A world where only true pirates
 can survive is drawing near!
 
-235
+233
 00:17:16,890 --> 00:17:19,270
 The powerless among you—
 run while you can!
 
-236
+234
 00:17:19,270 --> 00:17:21,270
 With the inevitable tides of time,
 
-237
+235
 00:17:21,270 --> 00:17:24,770
 a new era of champions
 will soon be upon us!
 
-238
+236
 00:17:28,990 --> 00:17:31,570
 It's taking quite a long time
 to reach the Blue Sea.
 
-239
+237
 00:17:31,570 --> 00:17:36,200
 I'm worried how far
 the ship will drift off course.
 
-240
+238
 00:17:36,200 --> 00:17:39,710
 Oh?! Then shall I sing a love song
 to take your mind off it?
 
-241
+239
 00:17:39,710 --> 00:17:40,870
 Shut up!
 
-242
+240
 00:17:43,170 --> 00:17:46,550
 It'd be pretty convenient
 if we drifted to Laugh Tale, huh?
 
-243
+241
 00:17:46,550 --> 00:17:48,380
 Usopp! That'd be so cool!
 
-244
+242
 00:17:48,380 --> 00:17:50,010
 That's not possible.
 
-245
+243
 00:17:50,010 --> 00:17:51,840
 To get to Laugh Tale,
 
-246
+244
 00:17:51,840 --> 00:17:55,140
 we still have to traverse
 over half the Grand Line.
 
-247
+245
 00:17:55,140 --> 00:17:58,350
 Uh, well, yeah... I knew that.
 
-248
+246
 00:17:59,180 --> 00:18:01,770
 Alright, I'm officially bored.
 
-249
+247
 00:18:02,440 --> 00:18:04,480
 When are we gonna reach the sea?
 
-250
+248
 00:18:04,480 --> 00:18:05,810
 Oh, just go back to sleep.
 
-251
+249
 00:18:06,190 --> 00:18:09,070
 If you're bored, come here, Zoro!
 
-252
+250
 00:18:09,070 --> 00:18:11,280
 This is fun!
 
-253
+251
 00:18:11,280 --> 00:18:13,200
 Oh? Luffy?
 
-254
+252
 00:18:13,200 --> 00:18:14,740
 Where's his voice coming from?
 
-255
+253
 00:18:14,740 --> 00:18:17,740
 It sounded pretty far away.
 
-256
+254
 00:18:17,740 --> 00:18:19,870
 Luffy! Where are you?!
 
-257
+255
 00:18:19,870 --> 00:18:21,750
 I'm up here!
 
-258
+256
 00:18:21,750 --> 00:18:23,920
 Everyone, come check this out!
 
-259
+257
 00:18:24,460 --> 00:18:25,790
 This is so much fun!
 
-260
+258
 00:18:26,340 --> 00:18:28,000
 Ugh! So he is up there!
 
-261
+259
 00:18:31,340 --> 00:18:33,720
 Awesome! This is the best!
 
-262
+260
 00:18:36,140 --> 00:18:38,640
 Hey! Be careful, Luffy!
 
-263
+261
 00:18:38,640 --> 00:18:41,640
 Our lives depend on that balloon!
 
-264
+262
 00:18:41,640 --> 00:18:43,600
 It's fine! It's fine!
 
-265
+263
 00:18:50,030 --> 00:18:51,900
 Knock it off, Luffy!
 Get down here now!
 
-266
+264
 00:18:52,530 --> 00:18:53,950
 Hey, Luffy, stop it!
 
-267
+265
 00:18:53,950 --> 00:18:56,070
 What's the matter now, Sanji?
 
-268
+266
 00:18:56,070 --> 00:18:57,870
 The octopus is shrinking!
 
-269
+267
 00:18:57,870 --> 00:19:00,040
 If he keeps doing that, we'll fall!
 
-270
+268
 00:19:00,040 --> 00:19:00,580
 What?!
 
-271
+269
 00:19:00,580 --> 00:19:02,790
 Hey, Luffy!
 
-272
+270
 00:19:02,790 --> 00:19:04,290
 What's going on?
 
-273
+271
 00:19:04,290 --> 00:19:06,170
 He said the octopus is shrinking!
 
-274
+272
 00:19:06,170 --> 00:19:06,880
 What?!
 
-275
+273
 00:19:06,880 --> 00:19:10,340
 Now that you mention it,
 it does look smaller than before.
 
-276
+274
 00:19:10,340 --> 00:19:13,340
 What are we gonna do?!
 We're still pretty high up!
 
-277
+275
 00:19:13,340 --> 00:19:15,550
 I wonder if it'll last
 until we reach the sea...
 
-278
+276
 00:19:17,510 --> 00:19:20,470
 Hey, Luffy! Come back down!
 Something's wrong!
 
-279
+277
 00:19:34,990 --> 00:19:38,570
 That was scary! It stopped
 bouncing out of nowhere!
 
-280
+278
 00:19:38,570 --> 00:19:41,280
 I was trying to tell you
 the octopus is shrinking!
 
-281
+279
 00:19:47,620 --> 00:19:50,880
 H-Huh? I didn't move,
 but we're back to the ship!
 
-282
+280
 00:19:51,550 --> 00:19:53,760
 We're falling! We're falling!
 
-283
+281
 00:19:55,720 --> 00:19:56,590
 This is bad!
 
-284
+282
 00:19:56,590 --> 00:19:58,430
 At this speed, we'll sink instantly!
 
-285
+283
 00:19:58,430 --> 00:20:00,300
 We might not even hit water!
 
-286
+284
 00:20:00,300 --> 00:20:02,140
 Ugh! That's right! Dammit!
 
-287
+285
 00:20:02,140 --> 00:20:04,350
 What are you doing, Usopp?!
 
-288
+286
 00:20:04,350 --> 00:20:05,520
 What else?!
 
-289
+287
 00:20:05,930 --> 00:20:07,520
 Protecting the ship!
 
-290
+288
 00:20:11,480 --> 00:20:12,860
 What're you gonna do?!
 
-291
+289
 00:20:12,860 --> 00:20:14,530
 Be careful, Usopp!
 
-292
+290
 00:20:16,150 --> 00:20:19,570
 Usopp Aah-eeh-aaaaaah!
 
-293
+291
 00:20:25,910 --> 00:20:29,040
 Phew, success! Alright...
 
-294
+292
 00:20:31,040 --> 00:20:33,550
 I'm gonna use all
 the breath dials I have...
 
-295
+293
 00:20:35,760 --> 00:20:36,800
 There!
 
-296
+294
 00:20:36,800 --> 00:20:38,760
 Float!
 
-297
+295
 00:20:46,350 --> 00:20:47,350
 We slowed down.
 
-298
+296
 00:20:47,350 --> 00:20:48,440
 Nice!
 
-299
+297
 00:20:48,810 --> 00:20:50,190
 So we're safe?
 
-300
+298
 00:20:50,190 --> 00:20:51,860
 Looks like it.
 
-301
+299
 00:20:52,980 --> 00:20:55,480
 Did you see the amazing job I did?!
 
-302
+300
 00:20:55,480 --> 00:20:57,240
 Usopp, you're so cool!
 
-303
+301
 00:20:59,240 --> 00:21:01,240
 For a moment, I wasn't
 sure if we'd make it!
 
-304
+302
 00:21:01,240 --> 00:21:02,490
 Yeah, seriously...
 
-305
+303
 00:21:02,490 --> 00:21:04,330
 I thought that was it.
 
-306
+304
 00:21:07,040 --> 00:21:08,040
 Why?!
 
-307
+305
 00:21:10,790 --> 00:21:12,250
 Usopp!
 
-308
+306
 00:21:16,880 --> 00:21:19,550
 Everyone! Grab something
 and hold on tight!
 
-309
+307
 00:21:31,480 --> 00:21:33,360
 It's freezing...!
 
-310
+308
 00:21:33,940 --> 00:21:36,190
 Nami! Robin! Are you okay?
 
-311
+309
 00:21:38,070 --> 00:21:41,700
 That startled me! The octopus
 suddenly shrank all the way!
 
-312
+310
 00:21:41,700 --> 00:21:43,370
 Maybe it was an air leak.
 
-313
+311
 00:21:43,370 --> 00:21:45,030
 What the heck happened?!
 
-314
+312
 00:21:47,790 --> 00:21:50,870
 Well, we somehow made
 it down... without dying.
 
-315
+313
 00:21:50,870 --> 00:21:52,580
 Thanks a bunch!
 
-316
+314
 00:21:53,000 --> 00:21:54,380
 Still...
 
-317
+315
 00:21:59,420 --> 00:22:01,930
 we really went to an
 incredible place, didn't we?
 
-318
+316
 00:22:01,930 --> 00:22:04,970
 Now that we're down here,
 it seems so far away.
 
-319
+317
 00:22:04,970 --> 00:22:07,010
 It's like we were dreaming.
 
-320
+318
 00:22:07,390 --> 00:22:10,520
 It's a dream land. I wonder
 if we can go visit again some day.
 
-321
+319
 00:22:10,850 --> 00:22:13,230
 You might be able to
 get closer if you die.
 
-322
+320
 00:22:13,560 --> 00:22:16,400
 Zoro, do you really think
 you'll be allowed into heaven?
 
-323
+321
 00:22:16,400 --> 00:22:18,150
 Shut it!
 
-324
+322
 00:22:18,150 --> 00:22:20,820
 At any rate, things have calmed down.
 
-325
+323
 00:22:20,820 --> 00:22:22,400
 I'll make coffee or something.
 
-326
+324
 00:22:22,400 --> 00:22:24,530
 Better yet, make us
 some dinner, Sanji!
 
-327
+325
 00:22:24,530 --> 00:22:28,030
 Yeah, yeah, I'll get right on it.
 Just sit tight and have some coffee.
 
-328
+326
 00:22:28,030 --> 00:22:29,740
 Okay...
 
-329
+327
 00:22:30,700 --> 00:22:32,080
 By the way...
 
-330
+328
 00:22:49,260 --> 00:22:51,220
 Where the heck...
 
-331
+329
 00:22:51,730 --> 00:22:54,100
 are we?!
+
+330
+00:05:44,120 --> 00:05:50,910
+Lower Skypiea,
+the White Sea
+
+331
+00:05:44,120 --> 00:05:50,910
+Lower Skypiea,
+the White Sea
 
 332
 00:05:44,120 --> 00:05:50,910
 Lower Skypiea,
 the White Sea
 
-333
-00:05:44,120 --> 00:05:50,910
-Lower Skypiea,
-the White Sea
-
-334
-00:05:44,120 --> 00:05:50,910
-Lower Skypiea,
-the White Sea

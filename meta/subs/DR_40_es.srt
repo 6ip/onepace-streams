@@ -4363,8 +4363,6 @@ Has cambiado, Bellamy.
 00:14:57,960 --> 00:15:04,360
 HACE UNOS MINUTOS 
 
-EN EL PALACIO REAL
-
 1090
 00:15:03,720 --> 00:15:05,550
 ¡Beto Launcher!
@@ -4647,8 +4645,6 @@ obsesión ha dejado de existir.
 00:19:59,420 --> 00:20:01,570
 PRESENTE
 
-EN EL PALACIO REAL
-
 1158
 00:21:46,780 --> 00:21:47,740
 ¡Sí!
@@ -4801,3 +4797,4 @@ Ciudades, casas, gente...
 1195
 00:37:38,400 --> 00:37:40,180
 ¡Quiero destruirlo todo!
+

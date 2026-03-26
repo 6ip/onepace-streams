@@ -1,991 +1,993 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode. Subtitles will likely not function properly. Please use one of the recommended video players, preferably mpv: https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,010
-Your media player does not support the subtitle format used in this episode. Subtitles will likely not function properly. Please use one of the recommended video players, preferably mpv: https://mpv.io
-
-3
 00:02:04,560 --> 00:02:07,110
 Mein Hut! Mein Strohhut!
 
-4
+2
 00:02:07,110 --> 00:02:08,730
 Der liegt dort drüben.
 
-5
+3
 00:02:08,730 --> 00:02:10,400
 Nanu? Oh, ja. Tatsächlich.
 
-6
+4
 00:02:10,400 --> 00:02:11,940
 Also bist du wach?
 
-7
+5
 00:02:12,570 --> 00:02:14,320
 Nanu? Wo sind diese Typen?
 
-8
+6
 00:02:14,700 --> 00:02:17,200
 Haben sich dank dir davongemacht.
 
-9
+7
 00:02:17,200 --> 00:02:18,330
 Dank mir?
 
-10
+8
 00:02:18,330 --> 00:02:22,000
 Gin sagte: „Wir sehen uns auf der Grand Line wieder.“
 
-11
+9
 00:02:23,750 --> 00:02:24,830
 Das hat er gesagt?
 
-12
+10
 00:02:25,330 --> 00:02:26,330
 Zu dir?
 
-13
+11
 00:02:26,330 --> 00:02:27,840
 Nein, zu dir!
 
-14
+12
 00:02:30,670 --> 00:02:33,590
 Apropos, da ich sie davongejagt habe,
 
-15
+13
 00:02:33,590 --> 00:02:35,680
 muss ich heute zum letzten Mal hier schuften, oder?
 
-16
+14
 00:02:35,680 --> 00:02:36,800
 Gratuliere.
 
-17
+15
 00:02:37,140 --> 00:02:38,510
 Übrigens, wirst du...
 
-18
+16
 00:02:38,510 --> 00:02:40,260
 Vergiss es!
 
-19
+17
 00:02:40,260 --> 00:02:41,930
 Ich werd kein Pirat.
 
-20
+18
 00:02:42,430 --> 00:02:44,440
 Ich werde hier als Koch arbeiten,
 
-21
+19
 00:02:44,440 --> 00:02:47,610
 bis der alte Sack endlich meine Fähigkeiten anerkennt.
 
-22
+20
 00:02:48,110 --> 00:02:50,070
 Gut, dann geb ich auf.
 
-23
+21
 00:02:50,480 --> 00:02:52,570
 Verklicker das mal deiner Hand!
 
-24
+22
 00:02:56,490 --> 00:02:58,380
 Ich kann hier nicht weg...
 
-25
+23
 00:02:58,380 --> 00:03:01,450
 Alle hier sind so unzuverlässig.
 
-26
+24
 00:03:01,450 --> 00:03:04,540
 Aber eines Tages möchte ich
 
-27
+25
 00:03:05,210 --> 00:03:06,830
 die Grand Line bereisen...
 
-28
+26
 00:03:09,540 --> 00:03:11,300
 Dann nichts wie los.
 
-29
+27
 00:03:11,300 --> 00:03:13,260
 Das ist noch nicht der richtige Zeitpunkt.
 
-30
+28
 00:03:15,880 --> 00:03:17,220
 Sag...
 
-31
+29
 00:03:17,970 --> 00:03:19,970
 Hast du schon mal vom All Blue gehört?
 
-32
+30
 00:03:19,970 --> 00:03:21,100
 Nö...
 
-33
+31
 00:03:21,100 --> 00:03:23,350
 Oh, echt nicht?
 
-34
+32
 00:03:23,350 --> 00:03:24,850
 Das ist ein wundersames Meer!
 
-35
+33
 00:03:26,940 --> 00:03:31,360
 Der East Blue, West Blue,
 North Blue und der South Blue...
 
-36
+34
 00:03:31,360 --> 00:03:34,400
 In diesem Meer leben Fische aus all diesen Meeren!
 
-37
+35
 00:03:36,860 --> 00:03:39,620
 Für uns Köche ist das das Paradies auf Erden!
 
-38
+36
 00:03:39,990 --> 00:03:43,200
 Er befindet sich auf der
 Grand Line. Also, hast du gehört...
 
-39
+37
 00:03:47,790 --> 00:03:50,670
 Grinst wie ein Honigkuchenpferd...
 
-40
+38
 00:03:52,040 --> 00:03:53,670
 Dieser Idiot.
 
-41
+39
 00:03:59,300 --> 00:04:01,890
 Männer! Essen fassen!
 
-42
+40
 00:04:02,310 --> 00:04:03,850
 Herrje, herrje...
 
-43
+41
 00:04:03,850 --> 00:04:05,350
 Endlich was zwischen die Kiemen!
 
-44
+42
 00:04:05,350 --> 00:04:07,100
 Essen! Essen! Essen!
 
-45
+43
 00:04:13,020 --> 00:04:15,570
 Hey! Wo sitzen wir?
 
-46
+44
 00:04:15,570 --> 00:04:16,490
 Und wo ist das Essen?
 
-47
+45
 00:04:16,490 --> 00:04:18,910
 Für euch gibt’s keine Stühle.
 
-48
+46
 00:04:19,570 --> 00:04:21,120
 Esst auf dem Boden.
 
-49
+47
 00:04:21,120 --> 00:04:22,620
 Keine Stühle?
 
-50
+48
 00:04:22,620 --> 00:04:24,120
 Das kann doch nicht sein!
 
-51
+49
 00:04:24,120 --> 00:04:26,410
 Das hier ist ein Restaurant!
 
-52
+50
 00:04:28,000 --> 00:04:29,250
 Da kann man wohl nichts machen...
 
-53
+51
 00:04:29,250 --> 00:04:31,580
 Sie verhalten sich irgendwie seltsam...
 
-54
+52
 00:04:33,590 --> 00:04:34,750
 Erzähl mir was Neues.
 
-55
+53
 00:04:36,590 --> 00:04:39,720
 Hey! Wer hat heute Morgen diese Suppe zubereitet?!
 
-56
+54
 00:04:40,300 --> 00:04:42,470
 Hey, das war ich!
 Ich war das! Lecker, oder?
 
-57
+55
 00:04:42,470 --> 00:04:44,720
 Ich hab mir heute besonders viel Mühe gegeben.
 
-58
+56
 00:04:45,220 --> 00:04:47,310
 So ’ne eklige Suppe krieg ich nicht runter!
 
-59
+57
 00:04:47,310 --> 00:04:48,940
 Was ist das, Schweinefraß?
 
-60
+58
 00:04:56,190 --> 00:05:01,570
 Hey, magst du etwa keine Menschennahrung, du elender Tanuki?
 
-61
+59
 00:05:02,450 --> 00:05:04,780
 Die ist so schlecht,
 das zählt schon als Kunst.
 
-62
+60
 00:05:04,780 --> 00:05:06,490
 Da dreht sich mir der Magen um!
 
-63
+61
 00:05:08,290 --> 00:05:10,960
 Tut mir leid, aber mit der Suppe habe ich echt gute Arbeit geleistet.
 
-64
+62
 00:05:10,960 --> 00:05:13,750
 Da stimmt was mit deinen Geschmacksnerven nicht!
 
-65
+63
 00:05:18,550 --> 00:05:20,510
 Wäh, echt widerlich!
 
-66
+64
 00:05:22,180 --> 00:05:24,100
 Das krieg ich nicht runter!
 
-67
+65
 00:05:25,720 --> 00:05:26,560
 Nicht wahr, Jungs?
 
-68
+66
 00:05:27,770 --> 00:05:29,180
 Das kann ich nicht essen!
 
-69
+67
 00:05:30,560 --> 00:05:32,520
 Echt widerwärtige Suppe!
 
-70
+68
 00:05:32,520 --> 00:05:34,060
 Die kann ich nicht essen!
 
-71
+69
 00:05:34,060 --> 00:05:36,520
 Ist ja furchtbar!
 Bitte bringt mir Wasser!
 
-72
+70
 00:05:36,520 --> 00:05:38,900
 Was soll das hier werden, ihr Arschlöcher?!
 
-73
+71
 00:05:38,900 --> 00:05:42,150
 Bist also doch nur ein zweitklassiger stellvertretender Küchenchef.
 
-74
+72
 00:05:42,150 --> 00:05:43,780
 Einfach nur ein alter Hase, mehr nicht.
 
-75
+73
 00:05:43,780 --> 00:05:47,160
 Wir haben genug davon, Probleme mit Gewalt zu lösen!
 
-76
+74
 00:05:47,160 --> 00:05:49,870
 Wenn das Essen nicht schmeckt, sagen wir das!
 
-77
+75
 00:05:51,000 --> 00:05:51,750
 Wie war das?!
 
-78
+76
 00:05:56,540 --> 00:05:57,630
 – Chef!
 – Chef!
 
-79
+77
 00:05:57,630 --> 00:05:59,050
 Du alter Sack!
 
-80
+78
 00:06:01,010 --> 00:06:04,760
 Was ist das für eine widerliche Suppe?
 Schmeckt ja wie Matsch!
 
-81
+79
 00:06:04,760 --> 00:06:06,510
 Würden wir so was unseren Gästen servieren,
 
-82
+80
 00:06:06,510 --> 00:06:08,680
 könnten wir dicht machen!
 
-83
+81
 00:06:08,680 --> 00:06:10,980
 Mach dich nicht lächerlich, alter Sack!
 
-84
+82
 00:06:10,980 --> 00:06:14,690
 Wo bitte liegt der Unterschied zu deiner Suppe?! Sag’s mir!
 
-85
+83
 00:06:14,690 --> 00:06:16,770
 Zu meiner Suppe?
 
-86
+84
 00:06:19,650 --> 00:06:21,440
 Sei nicht so überheblich!
 
-87
+85
 00:06:23,860 --> 00:06:25,360
 Er hat ihm eine reingehauen...
 
-88
+86
 00:06:25,360 --> 00:06:26,990
 Das war ja gar kein Tritt.
 
-89
+87
 00:06:26,990 --> 00:06:31,620
 Du Rotzlöffel wirst mir selbst in 'ner Milliarde
 Jahren nichts übers Kochen erzählen können!
 
-90
+88
 00:06:31,620 --> 00:06:35,710
 Ich bin ein Mann, der auf den Meeren dieser Welt gekocht hat, Rotzbengel!
 
-91
+89
 00:06:40,050 --> 00:06:41,130
 Verdammt!
 
-92
+90
 00:06:51,640 --> 00:06:55,020
 Diese Suppe ist doch echt lecker.
 
-93
+91
 00:06:55,020 --> 00:06:56,650
 Ja, das wissen wir.
 
-94
+92
 00:06:56,650 --> 00:06:57,270
 Hä?
 
-95
+93
 00:06:57,270 --> 00:07:01,530
 Sanjis Fähigkeiten werden von allen hier sehr geschätzt.
 
-96
+94
 00:07:02,360 --> 00:07:03,570
 Sie ist gar nicht übel.
 
-97
+95
 00:07:03,570 --> 00:07:06,240
 Ja, diese Suppe ist überaus köstlich.
 
-98
+96
 00:07:06,240 --> 00:07:07,990
 Mir haben kurz die Knie geschlottert...
 
-99
+97
 00:07:07,990 --> 00:07:09,740
 Er war ernsthaft eingeschnappt.
 
-100
+98
 00:07:09,740 --> 00:07:10,990
 Ja.
 
-101
+99
 00:07:16,920 --> 00:07:22,000
 Aber anders hört er nicht auf uns.
 
-102
+100
 00:07:24,220 --> 00:07:25,680
 Sag, Junge...
 
-103
+101
 00:07:26,050 --> 00:07:29,680
 Du wolltest doch einen Koch für dein Schiff, oder?
 
-104
+102
 00:07:29,680 --> 00:07:33,350
 Ich bitte dich nur ungern darum,
 
-105
+103
 00:07:33,350 --> 00:07:36,310
 aber würdest du den Rotzbengel
 
-106
+104
 00:07:36,850 --> 00:07:38,730
 mit auf die Grand Line nehmen?
 
-107
+105
 00:07:40,190 --> 00:07:42,230
 Dorthin zu gehen,
 
-108
+106
 00:07:42,230 --> 00:07:44,240
 ist sein Traum, musst du wissen.
 
-109
+107
 00:07:46,200 --> 00:07:49,780
 Mann, Chef. Da haben Sie uns ja ’ne ganz schöne Show abziehen lassen.
 
-110
+108
 00:07:49,780 --> 00:07:54,040
 Ich hatte schon Angst, er kommt bei
 deinen schlechten Schauspielkünsten dahinter.
 
-111
+109
 00:07:55,160 --> 00:07:57,250
 Du warst doch auch furchtbar.
 
-112
+110
 00:07:57,250 --> 00:07:58,750
 Ich nehm noch ’nen Teller Suppe!
 
-113
+111
 00:07:58,750 --> 00:08:00,920
 – Ich auch!
 – Ich auch!
 
-114
+112
 00:08:15,930 --> 00:08:19,650
 Ich kann alles mithören, ihr verdammten Idioten...
 
-115
+113
 00:08:21,440 --> 00:08:23,190
 Und? Was sagst du, Junge?
 
-116
+114
 00:08:23,650 --> 00:08:24,610
 Nein.
 
-117
+115
 00:08:24,610 --> 00:08:25,480
 – Was?!
 – Was?!
 
-118
+116
 00:08:26,690 --> 00:08:30,200
 Ich dachte, du suchst einen Koch für dein Schiff.
 
-119
+117
 00:08:31,280 --> 00:08:34,870
 Oder ist dir sein Essen etwa nicht gut genug?
 
-120
+118
 00:08:35,620 --> 00:08:39,870
 Er ist auf jeden Fall gut genug. Ich will auch, dass er mitkommt.
 
-121
+119
 00:08:40,500 --> 00:08:44,000
 Aber er sagt, dass er hier weiterhin als Koch arbeiten möchte.
 
-122
+120
 00:08:44,000 --> 00:08:47,510
 Es geht also nicht, selbst wenn
 ihr mich darum bittet.
 
-123
+121
 00:08:48,130 --> 00:08:52,890
 Du kannst also nicht einwilligen, bis er selbst einwilligt, richtig?
 
-124
+122
 00:08:53,220 --> 00:08:54,680
 Goldrichtig. Nachschlag!
 
-125
+123
 00:08:54,680 --> 00:08:57,310
 Nun... Hast ja recht.
 
-126
+124
 00:08:57,850 --> 00:08:59,690
 Aber ob so ein verdrehter Rotzbengel einfach einwilligen würde?
 
-127
+125
 00:08:59,690 --> 00:09:02,980
 Aber ob so ein verdrehter Rotzbengel einfach einwilligen würde?
 
-128
+126
 00:09:02,980 --> 00:09:06,940
 Ach, niemals, er ist ein Idiot durch und durch.
 
-129
+127
 00:09:06,940 --> 00:09:08,150
 Nachschlag!
 
-130
+128
 00:09:36,810 --> 00:09:37,600
 Verdammt!
 
-131
+129
 00:09:37,600 --> 00:09:38,430
 Sanji!
 
-132
+130
 00:09:38,430 --> 00:09:40,430
 Was ist der bitte? ’n Fischmensch?
 
-133
+131
 00:09:40,430 --> 00:09:43,190
 Er kam extra von der Fischmenscheninsel,
 um unsere Speisen zu essen?
 
-134
+132
 00:09:43,190 --> 00:09:45,400
 Depp! Das ist ein Mensch in ’nem Panda-Hai!
 
-135
+133
 00:09:46,070 --> 00:09:46,940
 Was ist hier los?
 
-136
+134
 00:09:46,940 --> 00:09:48,900
 Oh? Hey, du bist’s, Yosaku!
 
-137
+135
 00:09:49,320 --> 00:09:51,820
 Oh, Bruder Luffy!
 
-138
+136
 00:09:51,820 --> 00:09:54,200
 Wieso bist du allein? Wo sind die anderen?
 
-139
+137
 00:09:54,200 --> 00:09:55,280
 Was ist mit Nami?
 
-140
+138
 00:10:02,580 --> 00:10:06,730
 Wir konnten sie zwar nicht einholen, aber
 angesichts der Richtung, in die Schwester Nami
 
-141
+139
 00:10:06,730 --> 00:10:09,460
 unterwegs war, haben wir so eine Ahnung, wo sie hin will.
 
-142
+140
 00:10:10,420 --> 00:10:12,510
 Verstehe, dann können wir sie zurückholen.
 
-143
+141
 00:10:13,090 --> 00:10:14,640
 Nun...
 
-144
+142
 00:10:15,260 --> 00:10:21,180
 Wenn wir richtig liegen,
 ist ihr Ziel ein gefährlicher Ort...
 
-145
+143
 00:10:22,890 --> 00:10:26,980
 Jedenfalls brauchen wir deine Hilfe, Bruder Luffy.
 
-146
+144
 00:10:27,360 --> 00:10:31,070
 Okay! Ich kapier’s zwar nicht,
 aber hab verstanden.
 
-147
+145
 00:10:39,620 --> 00:10:40,740
 Warte!
 
-148
+146
 00:10:41,750 --> 00:10:45,250
 Wir beide haben närrische Träume.
 
-149
+147
 00:10:48,670 --> 00:10:53,170
 Um mein Ziel, den All Blue, zu erreichen...
 
-150
+148
 00:10:54,130 --> 00:10:55,090
 Sanji?
 
-151
+149
 00:10:56,260 --> 00:10:57,140
 Ja.
 
-152
+150
 00:10:57,140 --> 00:11:00,600
 Ich komme mit auf deine Reise, der „König der Piraten“ zu werden.
 
-153
+151
 00:11:00,600 --> 00:11:01,430
 Was?
 
-154
+152
 00:11:02,890 --> 00:11:06,020
 Ich werde dein Schiffskoch.
 
-155
+153
 00:11:06,020 --> 00:11:07,980
 Geht das klar oder nicht?
 
-156
+154
 00:11:08,650 --> 00:11:09,940
 Das geht so was von klar!
 
-157
+155
 00:11:09,940 --> 00:11:11,320
 Jawoll!
 
-158
+156
 00:11:11,320 --> 00:11:13,150
 Ich freu mich für dich, Bruder Luffy!
 
-159
+157
 00:11:13,150 --> 00:11:13,990
 Ja!
 
-160
+158
 00:11:13,990 --> 00:11:15,400
 – Juhu, juhu!
 – Juhu, juhu!
 
-161
+159
 00:11:15,400 --> 00:11:17,450
 – Ein Koch! Gutes Essen!
 – Ein Koch! Gutes Essen!
 
-162
+160
 00:11:18,070 --> 00:11:19,950
 So sieht’s also aus, Leute.
 
-163
+161
 00:11:18,070 --> 00:11:19,950
 Gutes Essen! Gutes Essen!
 
-164
+162
 00:11:21,240 --> 00:11:23,870
 Entschuldigt, dass ich euch allerlei Ärger verursacht habe.
 
-165
+163
 00:11:24,750 --> 00:11:25,870
 Das gefällt mir gar nicht.
 
-166
+164
 00:11:25,870 --> 00:11:29,880
 Ich wollte dich persönlich hier rauswerfen.
 
-167
+165
 00:11:29,880 --> 00:11:33,090
 Und du gehst einfach freiwillig?
 
-168
+166
 00:11:34,130 --> 00:11:38,090
 Entschuldigt, dass ihr so ein jämmerliches
 Schauspiel an den Tag legen musstet.
 
-169
+167
 00:11:38,090 --> 00:11:39,850
 Du hast es gemerkt?!
 
-170
+168
 00:11:39,850 --> 00:11:41,310
 Ich konnte alles hören.
 
-171
+169
 00:11:41,310 --> 00:11:42,560
 Ihr seid echt dämlich.
 
-172
+170
 00:11:42,560 --> 00:11:43,770
 Was?!
 
-173
+171
 00:11:44,140 --> 00:11:47,730
 Und noch was, du willst mich also sogar rauswerfen,
 
-174
+172
 00:11:47,730 --> 00:11:49,100
 wie, alter Sack?!
 
-175
+173
 00:11:49,690 --> 00:11:54,940
 Warum musst du immer so reden?! Du Bastard!
 
-176
+174
 00:11:56,450 --> 00:11:58,780
 Ganz recht, Rotzbengel!
 
-177
+175
 00:11:59,450 --> 00:12:01,950
 Ich mochte Kinder eh nie.
 
-178
+176
 00:12:01,950 --> 00:12:05,910
 Nicht ein einziger Tag verging ohne Reue,
 einen nutzlosen Rotzbengel wie dich
 
-179
+177
 00:12:05,910 --> 00:12:07,210
 am Leben gelassen zu haben.
 
-180
+178
 00:12:07,960 --> 00:12:10,330
 Von mir aus, alter Sack!
 
-181
+179
 00:12:10,330 --> 00:12:13,170
 Genieß dein restliches Leben in vollen Zügen!
 
-182
+180
 00:12:14,420 --> 00:12:16,800
 Was für ein krasses Schiff! Dürfen wir das echt benutzen?
 
-183
+181
 00:12:16,800 --> 00:12:19,010
 Na klar! Das ist Sanjis Boot.
 
-184
+182
 00:12:19,510 --> 00:12:21,850
 Du brauchst noch mehr?!
 
-185
+183
 00:12:21,850 --> 00:12:23,510
 Ja. Gib mir mehr Fleisch.
 
-186
+184
 00:12:23,510 --> 00:12:26,390
 Wie viele Tage willst du bitte auf dem Meer bleiben?!
 
-187
+185
 00:12:26,390 --> 00:12:27,480
 Keine Ahnung...
 
-188
+186
 00:12:31,440 --> 00:12:33,570
 Wie cool!
 
-189
+187
 00:12:33,570 --> 00:12:37,150
 Alter Sack, ist das das schwimmende Restaurant?
 
-190
+188
 00:12:57,880 --> 00:13:00,430
 Weißt du, Sanji...
 
-191
+189
 00:13:01,180 --> 00:13:02,430
 Was ist denn?
 
-192
+190
 00:13:02,930 --> 00:13:07,390
 Seien es Verbrecher oder Gefängnisausbrecher,
 
-193
+191
 00:13:07,390 --> 00:13:10,030
 wenn diese Drecksäcke unbedingt etwas essen wollen
 
-194
+192
 00:13:10,030 --> 00:13:13,860
 und ihren Weg in dieses Restaurant finden
 
-195
+193
 00:13:14,900 --> 00:13:20,610
 müssen wir in diesem Restaurant womöglich wieder kämpfen.
 
-196
+194
 00:13:21,240 --> 00:13:22,320
 Ja!
 
-197
+195
 00:13:23,370 --> 00:13:25,740
 Wir werden alle Hände voll zu tun haben!
 
-198
+196
 00:13:25,740 --> 00:13:28,620
 Das packen wir schon, immerhin bin ich hier!
 
-199
+197
 00:13:38,420 --> 00:13:40,260
 Au...
 
-200
+198
 00:13:41,550 --> 00:13:42,680
 Menschenskind...
 
-201
+199
 00:13:44,970 --> 00:13:47,560
 Du hast die Haut zu dick abgeschnitten, Rotzbengel!
 
-202
+200
 00:13:47,560 --> 00:13:49,680
 Das tat weh!
 
-203
+201
 00:13:49,680 --> 00:13:54,100
 Wenn jemand ernsthaft kocht, solltest du ihm still zusehen!
 
-204
+202
 00:13:54,100 --> 00:13:57,070
 Was?! Jetzt spiel nicht den Klugscheißer, Rotzbengel!
 
-205
+203
 00:13:57,070 --> 00:13:59,230
 Ich bin kein Rotzbengel!
 
-206
+204
 00:13:59,230 --> 00:14:02,570
 Blöder, alter Sack!
 
-207
+205
 00:14:04,030 --> 00:14:05,660
 Probier mal.
 
-208
+206
 00:14:05,660 --> 00:14:07,660
 Hast du die selbst gekocht?
 
-209
+207
 00:14:08,240 --> 00:14:09,160
 Ja.
 
-210
+208
 00:14:11,210 --> 00:14:12,040
 Wie ist sie?
 
-211
+209
 00:14:12,410 --> 00:14:13,580
 Um Himmels willen,
 
-212
+210
 00:14:13,580 --> 00:14:15,540
 die ist furchtbar, Rotzbengel!
 
-213
+211
 00:14:16,250 --> 00:14:18,750
 Du doofer, alter Sack!
 
-214
+212
 00:14:28,430 --> 00:14:30,850
 Bruder Koch braucht echt lange.
 
-215
+213
 00:14:30,850 --> 00:14:31,680
 Stimmt.
 
-216
+214
 00:14:41,860 --> 00:14:43,360
 Spüre meinen lang angestauten Frust!
 
-217
+215
 00:14:43,360 --> 00:14:44,820
 Pass bloß auf, Sanji!
 
-218
+216
 00:14:51,790 --> 00:14:54,160
 Ihr könnt ihn unmöglich besiegen.
 
-219
+217
 00:15:07,930 --> 00:15:09,260
 Gehen wir.
 
-220
+218
 00:15:09,260 --> 00:15:11,140
 Willst du dich nicht verabschieden?
 
-221
+219
 00:15:11,520 --> 00:15:12,770
 Das passt schon.
 
-222
+220
 00:15:12,770 --> 00:15:14,100
 Sanji!
 
-223
+221
 00:15:14,690 --> 00:15:17,350
 Erkälte dich nicht.
 
-224
+222
 00:15:32,490 --> 00:15:34,750
 Chef Zeff!
 
-225
+223
 00:15:36,250 --> 00:15:37,790
 Danke für all die verdammten Dinge,
 
-226
+224
 00:15:37,790 --> 00:15:40,210
 die du über all die Jahre für mich getan hast!
 
-227
+225
 00:15:40,750 --> 00:15:43,260
 Ich werde deine Freundlichkeit nie vergessen...
 
-228
+226
 00:15:43,260 --> 00:15:44,760
 Nie im Leben!
 
-229
+227
 00:16:04,190 --> 00:16:07,150
 Du Arschloch!
 
-230
+228
 00:16:09,160 --> 00:16:12,160
 Ich werde dich vermissen, verdammt!
 
-231
+229
 00:16:12,160 --> 00:16:14,120
 Ich werde dich vermissen!
 
-232
+230
 00:16:28,010 --> 00:16:29,890
 Ich werde dich vermissen!
 
-233
+231
 00:16:29,890 --> 00:16:32,140
 Ich bin traurig, verdammter Mist!
 
-234
+232
 00:16:39,310 --> 00:16:40,690
 Ihr Idioten!
 
-235
+233
 00:16:42,060 --> 00:16:45,530
 Männer sollten sich mit nur einem Wort verabschieden.
 
-236
+234
 00:16:48,610 --> 00:16:51,700
 Los geht’s! Setzt die Segel!
 
-237
+235
 00:16:51,700 --> 00:16:55,450
 Man sieht sich,
 ihr verdammten Bastarde!
 
-238
+236
 00:17:07,380 --> 00:17:13,050
 Solange du den Tod nicht fürchtest, weil du Vertrauen in dich hast,
 
-239
+237
 00:17:13,510 --> 00:17:16,270
 findest du den All Blue...
 
-240
+238
 00:17:17,140 --> 00:17:19,060
 Da bin ich mir sicher.
 
-241
+239
 00:17:21,770 --> 00:17:25,110
 Leute! Bald kommen die ersten Gäste!
 
-242
+240
 00:17:25,110 --> 00:17:27,780
 Macht euch an die Arbeit!
+
+241
+00:04:02,350 --> 00:04:07,100
+In der Kantine
+Zweites Stockwerk, Baratie
+
+242
+00:04:02,350 --> 00:04:07,100
+In der Kantine
+Zweites Stockwerk, Baratie
 
 243
 00:04:02,350 --> 00:04:07,100
@@ -993,14 +995,12 @@ In der Kantine
 Zweites Stockwerk, Baratie
 
 244
-00:04:02,350 --> 00:04:07,100
-In der Kantine
-Zweites Stockwerk, Baratie
+00:12:40,110 --> 00:12:42,070
+m 271 292 l 273 287 276 283 287 278 1145 23 1157 20 1164 19 1162 756 1159 759 267 943
 
 245
-00:04:02,350 --> 00:04:07,100
-In der Kantine
-Zweites Stockwerk, Baratie
+00:12:40,110 --> 00:12:42,070
+m 271 292 l 273 287 276 283 287 278 1145 23 1157 20 1164 19 1162 756 1159 759 267 943
 
 246
 00:12:40,110 --> 00:12:42,070
@@ -1324,14 +1324,6 @@ m 271 292 l 273 287 276 283 287 278 1145 23 1157 20 1164 19 1162 756 1159 759 26
 
 326
 00:12:40,110 --> 00:12:42,070
-m 271 292 l 273 287 276 283 287 278 1145 23 1157 20 1164 19 1162 756 1159 759 267 943
-
-327
-00:12:40,110 --> 00:12:42,070
-m 271 292 l 273 287 276 283 287 278 1145 23 1157 20 1164 19 1162 756 1159 759 267 943
-
-328
-00:12:40,110 --> 00:12:42,070
 fillerfilBaratie Mitarbeiter-Leitfaden
 fillerf1. Gäste bedienen ist Liebe,
 fillerfillllund Liebe bedeutet Restaurant!
@@ -1340,6 +1332,7 @@ llll3. Das A und O des Service
 filllllsind freundliche Begrüßungen!
 4. Der Kunde ist König!
 
-329
+327
 00:12:40,110 --> 00:12:42,070
 m 271 292 l 273 287 276 283 287 278 1145 23 1157 20 1164 19 1162 756 1159 759 267 943
+

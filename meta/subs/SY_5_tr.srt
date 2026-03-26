@@ -1,1366 +1,1353 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:57,260 --> 00:01:58,350
 O da neydi?!
 
-4
+2
 00:01:58,350 --> 00:01:59,640
 Bunu nasıl yaptı?!
 
-5
+3
 00:01:59,640 --> 00:02:02,100
 Kolu uzamış görünüyordu!
 
-6
+4
 00:02:00,730 --> 00:02:02,100
 Gerçekçi ol!
 
-7
+5
 00:02:02,100 --> 00:02:05,650
 Kaptan Kuro'yu kıç üstü yere serdi!
 
-8
+6
 00:02:23,040 --> 00:02:24,620
 Gerisi sende.
 
-9
+7
 00:02:26,540 --> 00:02:28,460
 Ben hazinelerimi alacağım!
 
-10
+8
 00:02:29,710 --> 00:02:34,930
 – Usopp Korsanları vardı!
 – Usopp Korsanları vardı!
 
-11
+9
 00:02:35,590 --> 00:02:36,340
 Siz!
 
-12
+10
 00:02:36,340 --> 00:02:37,350
 Uzak durun!
 
-13
+11
 00:02:37,890 --> 00:02:39,510
 Hazır ol, aptal uşak!
 
-14
+12
 00:02:40,520 --> 00:02:41,770
 Bunu hak ettin!
 
-15
+13
 00:02:42,180 --> 00:02:45,060
 Senin gibi bir aptal korsan,
 huzuru bozuyor...!
 
-16
+14
 00:02:43,890 --> 00:02:45,810
 D-Durun!
 
-17
+15
 00:02:47,060 --> 00:02:50,110
 O veletler ne yapıyor?!
 
-18
+16
 00:02:51,280 --> 00:02:53,110
 Şu çocuklar ne yapmaya çalışıyor?!
 
-19
+17
 00:02:53,110 --> 00:02:56,780
 Kesin şunu, çocuklar... Durun!
 
-20
+18
 00:03:00,200 --> 00:03:03,330
 Tamam! Dersini almış olmalı!
 
-21
+19
 00:03:05,960 --> 00:03:10,420
 K-Kaptan Kuro öfkeden kudurmuş olmalı!
 
-22
+20
 00:03:12,050 --> 00:03:13,970
 Kaptan, düşündüğümüz gibi!
 
-23
+21
 00:03:13,970 --> 00:03:15,720
 Onlarla savaşıyorsun!
 
-24
+22
 00:03:15,720 --> 00:03:17,840
 Niye bize gerçeği söylemedin?!
 
-25
+23
 00:03:17,840 --> 00:03:19,220
 Biz yerli miyiz?!
 
-26
+24
 00:03:19,220 --> 00:03:21,430
 Hayır, "yabancı mıyız"?
 
-27
+25
 00:03:21,430 --> 00:03:22,770
 Kimin umurunda?!
 
-28
+26
 00:03:23,430 --> 00:03:25,890
 Hemen buradan gitmelisiniz!
 
-29
+27
 00:03:25,890 --> 00:03:27,230
 Kaçın!
 
-30
+28
 00:03:27,980 --> 00:03:28,980
 Olmaz!
 
-31
+29
 00:03:28,980 --> 00:03:30,980
 Seninle birlikte savaşacağız!
 
-32
+30
 00:03:30,980 --> 00:03:34,150
 Kaçarsak, Usopp Korsanları olarak–
 
-33
+31
 00:03:44,660 --> 00:03:48,000
 Sizi aptallar, hemen kaçın!
 
-34
+32
 00:04:00,390 --> 00:04:01,890
 – Kaptan!
 – Kaptan!
 
-35
+33
 00:04:06,520 --> 00:04:08,900
 Fena değil...
 
-36
+34
 00:04:08,900 --> 00:04:12,860
 Ne tuhaf bir dövüş tekniği...
 
-37
+35
 00:04:12,860 --> 00:04:16,940
 Şeytan meyvesi yediğini varsayabilir miyim?!
 
-38
+36
 00:04:17,320 --> 00:04:19,950
 Evet, lastik meyvesi yedim.
 
-39
+37
 00:04:21,570 --> 00:04:22,910
 Lastik adamım!
 
-40
+38
 00:04:22,910 --> 00:04:24,580
 Ne?! Şeytan meyvesi mi?!
 
-41
+39
 00:04:24,580 --> 00:04:25,870
 Bu çok kötü!
 
-42
+40
 00:04:25,870 --> 00:04:27,330
 O şeyler var mı?!
 
-43
+41
 00:04:27,330 --> 00:04:28,750
 Tuhaf olmasına şaşmamalı!
 
-44
+42
 00:04:28,750 --> 00:04:31,130
 Demek lastik adam.
 
-45
+43
 00:04:31,130 --> 00:04:34,380
 Yani kolunun uzaması halüsinasyon değildi.
 
-46
+44
 00:04:35,800 --> 00:04:36,590
 Jango!
 
-47
+45
 00:04:36,590 --> 00:04:37,420
 E-Evet?
 
-48
+46
 00:04:37,420 --> 00:04:40,260
 O çocukla ben ilgileneceğim.
 
-49
+47
 00:04:40,260 --> 00:04:43,050
 Sen Kaya hanımefendinin icabına bak.
 
-50
+48
 00:04:43,890 --> 00:04:46,890
 Planlandığı gibi vasiyetini yazacak,
 
-51
+49
 00:04:47,230 --> 00:04:48,850
 sonra da öldür onu!
 
-52
+50
 00:04:49,690 --> 00:04:52,100
 Ve oradaki üç karınca,
 
-53
+51
 00:04:52,610 --> 00:04:53,610
 gözüme batıyorlar!
 
-54
+52
 00:04:56,530 --> 00:04:58,190
 Anlaşıldı.
 
-55
+53
 00:05:02,490 --> 00:05:03,660
 Dur.
 
-56
+54
 00:05:04,330 --> 00:05:07,500
 Beni geçmene izin vermeyeceğim.
 
-57
+55
 00:05:07,500 --> 00:05:09,830
 Buchi!
 
-58
+56
 00:05:12,460 --> 00:05:15,960
 Kedi Ezişi!
 
-59
+57
 00:05:16,340 --> 00:05:17,760
 Yine mi?!
 
-60
+58
 00:05:51,000 --> 00:05:53,960
 Gücü öncekine göre çok farklı.
 
-61
+59
 00:05:55,460 --> 00:05:56,420
 Hay aksi!
 
-62
+60
 00:05:57,040 --> 00:05:58,710
 Kahretsin...
 
-63
+61
 00:06:00,210 --> 00:06:02,380
 Hiç gücüm kalmadı...
 
-64
+62
 00:06:02,380 --> 00:06:05,050
 Kahretsin... Kahretsin...
 
-65
+63
 00:06:05,050 --> 00:06:06,930
 Lanet...
 
-66
+64
 00:06:06,930 --> 00:06:11,520
 Usopp Korsanları!
 
-67
+65
 00:06:12,390 --> 00:06:14,850
 – E-Evet, efendim?!
 – E-Evet, efendim?!
 
-68
+66
 00:06:14,850 --> 00:06:16,400
 Kaptanınızı dinleyin!
 
-69
+67
 00:06:17,110 --> 00:06:18,520
 Kaçmayacağız!
 
-70
+68
 00:06:18,520 --> 00:06:20,320
 Sana yaptıklarından dolayı...
 
-71
+69
 00:06:20,320 --> 00:06:22,320
 intikamını alacağız!
 
-72
+70
 00:06:22,700 --> 00:06:24,570
 Kaya'yı koruyun!
 
-73
+71
 00:06:27,200 --> 00:06:29,830
 İyi dinleyin!
 
-74
+72
 00:06:29,830 --> 00:06:31,450
 Şimdi...
 
-75
+73
 00:06:31,450 --> 00:06:37,080
 size en önemli görevinizi veriyorum!
 
-76
+74
 00:06:37,080 --> 00:06:40,090
 Kaya'yı buradan uzaklaştırın!
 
-77
+75
 00:06:40,090 --> 00:06:42,010
 Sakın yapamayız demeyin!
 
-78
+76
 00:06:42,010 --> 00:06:46,090
 Korsan tayfamızı kurma sebebimizi hatırlayın:
 
-79
+77
 00:06:46,090 --> 00:06:50,100
 Üzerine en çok titrediğimiz değerleri
 koruyabilen adamlar olmak!
 
-80
+78
 00:06:52,430 --> 00:06:53,850
 Usopp-san...
 
-81
+79
 00:06:58,940 --> 00:07:02,320
 Bu... kaptanınızın kesin emridir.
 
-82
+80
 00:07:02,320 --> 00:07:05,280
 – Başüstüne, Kaptan!
 – Başüstüne, Kaptan!
 
-83
+81
 00:07:05,280 --> 00:07:06,610
 Kaya-san, acele edin!
 
-84
+82
 00:07:06,610 --> 00:07:07,740
 Bu taraftan! Bu taraftan!
 
-85
+83
 00:07:07,070 --> 00:07:07,740
 Bu taraftan!
 
-86
+84
 00:07:08,370 --> 00:07:10,700
 Ne zarif bir konuşma...
 
-87
+85
 00:07:10,700 --> 00:07:12,750
 Onlara kaçmalarını söylemekle aynı...
 
-88
+86
 00:07:12,750 --> 00:07:15,290
 Bu orman, bizim arka bahçemiz gibi!
 
-89
+87
 00:07:15,290 --> 00:07:16,170
 Evet...
 
-90
+88
 00:07:19,340 --> 00:07:20,290
 Jango!
 
-91
+89
 00:07:20,290 --> 00:07:22,340
 Ah, dalmışım!
 
-92
+90
 00:07:22,760 --> 00:07:25,930
 Aptal mısınız?
 Benden asla kaçamayacaksınız!
 
-93
+91
 00:07:31,140 --> 00:07:32,100
 Nasıldı?
 
-94
+92
 00:07:32,520 --> 00:07:34,230
 Seni pislik!
 
-95
+93
 00:07:34,230 --> 00:07:36,640
 Hemen onları yakala, seni aptal!
 
-96
+94
 00:07:39,230 --> 00:07:40,310
 Tamam be!
 
-97
+95
 00:07:42,780 --> 00:07:44,690
 İşe yaramaz...
 
-98
+96
 00:07:45,240 --> 00:07:49,120
 Bildiğim bir şey varsa, o da
 Kaya'nın ne kadar güçsüz olduğudur.
 
-99
+97
 00:07:49,120 --> 00:07:52,120
 Jango'dan kaçamayacak.
 
-100
+98
 00:07:52,990 --> 00:07:55,250
 Onların arkasından gitmek isteyebilirsin.
 
-101
+99
 00:07:56,710 --> 00:08:00,920
 Tabii bu yokuşu canlı çıkabilirsen...
 
-102
+100
 00:08:06,300 --> 00:08:07,760
 Buchi!
 
-103
+101
 00:08:09,300 --> 00:08:13,140
 Bana karşı zaten bir kez kaybettin.
 
-104
+102
 00:08:13,140 --> 00:08:16,980
 Vaktimi boşa harcama!
 
-105
+103
 00:08:17,390 --> 00:08:19,230
 Kaybol!
 
-106
+104
 00:09:02,690 --> 00:09:05,480
 O hipnozcu hâlâ arkamızda mı?
 
-107
+105
 00:09:05,480 --> 00:09:07,150
 Hayır, onu göremiyorum!
 
-108
+106
 00:09:07,150 --> 00:09:08,940
 Onu tamamen kaybedelim!
 
-109
+107
 00:09:08,940 --> 00:09:12,450
 Bizi bu ormanda yakalaması mümkün değil.
 
-110
+108
 00:09:12,990 --> 00:09:14,490
 Endişelenmeyin, Kaya-san.
 
-111
+109
 00:09:14,490 --> 00:09:16,660
 Sizi koruyacağız!
 
-112
+110
 00:09:16,990 --> 00:09:20,000
 Aynen öyle! Usopp Korsanları olarak
 söz veriyoruz!
 
-113
+111
 00:09:22,000 --> 00:09:23,330
 Teşekkür ederim.
 
-114
+112
 00:09:46,570 --> 00:09:48,070
 Burada yoklar.
 
-115
+113
 00:09:49,280 --> 00:09:51,570
 Neredesiniz, bücürler?!
 
-116
+114
 00:09:52,320 --> 00:09:54,700
 Sonsuza dek kaçamazsınız!
 
-117
+115
 00:09:58,040 --> 00:10:03,040
 Gerekirse tüm ormanı dümdüz ederim!
 
-118
+116
 00:10:03,040 --> 00:10:04,250
 Vay...
 
-119
+117
 00:10:04,250 --> 00:10:06,500
 Çok kızmış gibi görünüyor.
 
-120
+118
 00:10:06,500 --> 00:10:09,760
 O sadece bir hipnozcu değil, ha?
 
-121
+119
 00:10:14,220 --> 00:10:16,430
 Nereye kaçtılar?
 
-122
+120
 00:10:17,510 --> 00:10:18,510
 Bu taraftan!
 
-123
+121
 00:10:26,230 --> 00:10:28,480
 O-O da neydi?
 
-124
+122
 00:10:28,480 --> 00:10:29,860
 Kim bilir?
 
-125
+123
 00:10:29,860 --> 00:10:32,110
 Jango muhtemelen ortalığı dağıtıyordur.
 
-126
+124
 00:10:32,110 --> 00:10:34,570
 Neden gidip kendin öğrenmiyorsun?
 
-127
+125
 00:10:34,950 --> 00:10:39,540
 Ancak çok geç kalmış olabilirsin.
 
-128
+126
 00:10:41,540 --> 00:10:43,000
 Canın cehenneme...!
 
-129
+127
 00:10:43,330 --> 00:10:46,460
 Üç yıl boyunca onunla yaşadın!
 
-130
+128
 00:10:46,460 --> 00:10:48,590
 Hiç mi merhametin yok?!
 
-131
+129
 00:10:48,590 --> 00:10:49,750
 Yok!
 
-132
+130
 00:10:49,750 --> 00:10:53,970
 Dediğim gibi,
 Kaya sadece planımın bir parçası.
 
-133
+131
 00:10:53,970 --> 00:10:58,430
 Öldüğünde ona teşekkür ederim.
 
-134
+132
 00:10:59,050 --> 00:11:01,350
 Seni...!
 
-135
+133
 00:11:01,350 --> 00:11:03,600
 Bu kötü ruhun kurtuluşu yok...
 
-136
+134
 00:11:03,600 --> 00:11:05,900
 Zaten onu kurtarmayı planlamıyordum.
 
-137
+135
 00:11:07,150 --> 00:11:08,860
 Usopp!
 
-138
+136
 00:11:10,270 --> 00:11:12,780
 Gidip onlara yardım et!
 
-139
+137
 00:11:13,780 --> 00:11:16,280
 Burayı biz devralacağız!
 
-140
+138
 00:11:17,160 --> 00:11:18,570
 Bize bırak!
 
-141
+139
 00:11:28,580 --> 00:11:32,920
 Oh? Hâlâ hareket edebiliyor musun?
 Ne kadar etkileyici.
 
-142
+140
 00:11:32,920 --> 00:11:34,420
 Kapa' çeneni...!
 
-143
+141
 00:11:34,420 --> 00:11:36,180
 Bunu...
 
-144
+142
 00:11:36,180 --> 00:11:38,970
 yanına bırakmayacağım!
 
-145
+143
 00:11:39,850 --> 00:11:44,930
 Köylülere ve Kaya'nın hislerine
 ihanet ettin!
 
-146
+144
 00:11:46,100 --> 00:11:50,860
 Daha fazla plan yapmana
 izin vermeyeceğim!
 
-147
+145
 00:11:52,230 --> 00:11:53,320
 Usopp!
 
-148
+146
 00:11:56,820 --> 00:11:59,030
 K-Kahretsin...
 
-149
+147
 00:11:59,030 --> 00:12:03,040
 Hareket... edemiyorum...
 
-150
+148
 00:12:09,000 --> 00:12:12,590
 Beni gerçekten eğlendiriyorsun!
 
-151
+149
 00:12:12,920 --> 00:12:16,010
 Olduğun yerde kal.
 
-152
+150
 00:12:16,590 --> 00:12:19,840
 Zaten Jango'yu yakalasan bile,
 
-153
+151
 00:12:19,840 --> 00:12:22,640
 ona denk biri değilsin.
 
-154
+152
 00:12:22,640 --> 00:12:25,140
 Burada daha güvende olursun.
 
-155
+153
 00:12:26,310 --> 00:12:27,980
 Denk olmasam bile...
 
-156
+154
 00:12:29,440 --> 00:12:32,690
 Ona denk değilsem bile,
 
-157
+155
 00:12:32,690 --> 00:12:35,860
 onları korumak istiyorum!
 
-158
+156
 00:12:36,030 --> 00:12:39,320
 Ben, Usopp Korsanları'nın kaptanıyım,
 
-159
+157
 00:12:39,320 --> 00:12:42,410
 ve denizin cesur savaşçısı olacağım!
 
-160
+158
 00:12:43,030 --> 00:12:50,830
 Bu köye el süremeyeceksin!
 
-161
+159
 00:12:53,960 --> 00:12:56,170
 Neyin peşinde?
 
-162
+160
 00:12:54,710 --> 00:12:56,170
 Bir şeyler bağırıyor!
 
-163
+161
 00:12:56,170 --> 00:12:58,630
 Baksana, ağlıyor!
 
-164
+162
 00:13:11,520 --> 00:13:13,230
 Komik olan ne?!
 
-165
+163
 00:13:16,030 --> 00:13:16,980
 Luffy!
 
-166
+164
 00:13:17,570 --> 00:13:20,950
 Usopp'la o hipnozcu ucubeyi
 yakalayacağız! Sorun olur mu?!
 
-167
+165
 00:13:20,950 --> 00:13:22,910
 Olmaz! Acele edin!
 
-168
+166
 00:13:22,910 --> 00:13:25,160
 B-Bunun için üzgünüm.
 
-169
+167
 00:13:25,160 --> 00:13:29,410
 Aslında tek başıma çok daha hızlı
 olurum ama ormanın içindeler.
 
-170
+168
 00:13:29,410 --> 00:13:32,620
 Onlara ulaşmak için
 bana yol tarifi lazım.
 
-171
+169
 00:13:32,620 --> 00:13:34,630
 Siz ikiniz, durun.
 
-172
+170
 00:13:34,630 --> 00:13:37,880
 Bu yokuşu geçme iznini
 size kim verdi?
 
-173
+171
 00:13:38,210 --> 00:13:39,510
 Ben verdim!
 
-174
+172
 00:13:40,840 --> 00:13:42,470
 Gidin! Zoro! Usopp!
 
-175
+173
 00:13:44,550 --> 00:13:45,470
 Bir yumruk daha!
 
-176
+174
 00:13:51,940 --> 00:13:56,520
 Lastik-Lastik Mızrak!
 
-177
+175
 00:13:56,520 --> 00:13:58,230
 Kahretsin! Yine kayboldu!
 
-178
+176
 00:14:00,650 --> 00:14:03,860
 Ah, neyse! Sonuçta geçtiler!
 
-179
+177
 00:14:03,860 --> 00:14:07,490
 Dövüşmeden önce
 bir şey sormak istiyorum.
 
-180
+178
 00:14:07,490 --> 00:14:11,960
 Senin gibi bir yabancı
 köyün işine ne karışıyor?!
 
-181
+179
 00:14:13,170 --> 00:14:16,420
 Çünkü bu köyde
 ölmesini istemediğim biri var.
 
-182
+180
 00:14:17,250 --> 00:14:18,880
 Çok basit.
 
-183
+181
 00:14:18,880 --> 00:14:22,260
 Ölümünün bu yüzden olmasını
 istediğinden emin misin?
 
-184
+182
 00:14:22,260 --> 00:14:23,970
 Eminim!
 
-185
+183
 00:14:23,970 --> 00:14:25,340
 Ama ölmeyeceğim!
 
-186
+184
 00:14:25,840 --> 00:14:27,810
 Sana ölümü tattıracağım!
 
-187
+185
 00:14:34,770 --> 00:14:37,560
 Lastik-Lastik Kırbaç!
 
-188
+186
 00:14:38,520 --> 00:14:40,280
 Ve Tabanca!
 
-189
+187
 00:14:46,240 --> 00:14:47,740
 Ne kadar sıkıcı!
 
-190
+188
 00:14:47,740 --> 00:14:50,040
 Seni pislik...!
 
-191
+189
 00:14:55,870 --> 00:14:59,670
 Hey! Doğuya! Doğuya! Doğu dedim!
 
-192
+190
 00:14:59,670 --> 00:15:01,920
 Nasıl bilebilirim?!
 Sağa veya sola söylesene!
 
-193
+191
 00:15:01,920 --> 00:15:03,420
 O zaman geriye dön!
 
-194
+192
 00:15:03,420 --> 00:15:04,630
 Bu tam tersi!
 
-195
+193
 00:15:07,970 --> 00:15:09,560
 Kaya-san!
 
-196
+194
 00:15:11,560 --> 00:15:13,310
 Üzgünüm...
 
-197
+195
 00:15:13,310 --> 00:15:15,140
 Siz devam edin...
 
-198
+196
 00:15:15,140 --> 00:15:16,270
 Ne diyorsunuz?!
 
-199
+197
 00:15:16,270 --> 00:15:19,400
 Görevimiz sizi korumak!
 
-200
+198
 00:15:20,730 --> 00:15:22,570
 Ah, hayır! Çok ateşi var!
 
-201
+199
 00:15:22,570 --> 00:15:24,650
 Ne?! Dayanın, Kaya-san!
 
-202
+200
 00:15:24,650 --> 00:15:25,780
 Doktor...! Doktor çağırın!
 
-203
+201
 00:15:25,780 --> 00:15:28,160
 Seni aptal!
 Bunun için zamanımız yok!
 
-204
+202
 00:15:28,160 --> 00:15:29,950
 Öldürülmek üzereyiz!
 
-205
+203
 00:15:30,450 --> 00:15:32,790
 Ama daha fazla kaçamayız.
 
-206
+204
 00:15:32,790 --> 00:15:34,080
 Yine de...
 
-207
+205
 00:15:34,080 --> 00:15:36,460
 Neredesiniz, bücürler?!
 
-208
+206
 00:15:44,300 --> 00:15:45,760
 Teşekkür ederim...
 
-209
+207
 00:15:45,760 --> 00:15:47,430
 Yardımınıza çok sevindim...
 
-210
+208
 00:15:48,140 --> 00:15:50,760
 Düşünmeniz bile bana yeter...
 
-211
+209
 00:15:50,760 --> 00:15:52,510
 Üçünüz de kaçın.
 
-212
+210
 00:15:54,140 --> 00:15:56,060
 Nereye kaçtınız?
 
-213
+211
 00:15:58,190 --> 00:16:02,860
 Kaya-san'ı geride bırakıp kaçarsak
 muhtemelen sağ kalırız, değil mi?
 
-214
+212
 00:16:02,860 --> 00:16:05,190
 Evet, muhtemelen.
 
-215
+213
 00:16:05,190 --> 00:16:10,530
 Kaptanımız, kaybedeceksen
 kaçmamız gerektiğini hep der.
 
-216
+214
 00:16:10,530 --> 00:16:13,200
 Ne de olsa o bir yalancı!
 
-217
+215
 00:16:15,370 --> 00:16:17,960
 O bile mücadele ediyor!
 
-218
+216
 00:16:17,960 --> 00:16:21,040
 Bizi korumak için çok çabaladı!
 
-219
+217
 00:16:23,550 --> 00:16:25,840
 Kaya-san'ın ölmesine izin veremeyiz!
 
-220
+218
 00:16:26,220 --> 00:16:29,260
 Tamam o zaman!
 Kendinizi hazırlayın, Usopp Korsanları!
 
-221
+219
 00:16:29,260 --> 00:16:30,090
 Evet!
 
-222
+220
 00:16:30,090 --> 00:16:31,550
 Hadi savaşalım!
 
-223
+221
 00:16:31,550 --> 00:16:32,680
 Yapmayın!
 
-224
+222
 00:16:32,680 --> 00:16:34,930
 Siz daha çocuksunuz.
 
-225
+223
 00:16:34,930 --> 00:16:37,520
 Benim yüzümden ölemezsiniz!
 
-226
+224
 00:16:37,520 --> 00:16:39,140
 Ölmek için değil.
 
-227
+225
 00:16:39,140 --> 00:16:40,520
 Yaşamak için!
 
-228
+226
 00:16:41,730 --> 00:16:43,400
 Kahretsin...
 
-229
+227
 00:16:43,940 --> 00:16:45,150
 Ağzımı kesti.
 
-230
+228
 00:16:45,610 --> 00:16:49,490
 Hasır şapkalı adam
 kesinlikle güçlü, ama...
 
-231
+229
 00:16:49,490 --> 00:16:52,410
 İ-İşte bizim Kaptan Kuro!
 
-232
+230
 00:16:53,160 --> 00:16:54,950
 Haklayın onu!
 
-233
+231
 00:16:54,950 --> 00:16:56,580
 Yaşasın Kaptan Kuro!
 
-234
+232
 00:16:55,660 --> 00:16:56,580
 Kaptan Kuro!
 
-235
+233
 00:16:56,580 --> 00:16:59,120
 Harikasınız, Kaptan Kuro!
 
-236
+234
 00:16:59,120 --> 00:17:02,080
 Beni o isimle çağırmayın!
 
-237
+235
 00:17:04,040 --> 00:17:07,050
 Hâlâ anlamıyorsunuz, değil mi?!
 
-238
+236
 00:17:07,050 --> 00:17:13,550
 Bu planın sonucu, "Kaptan Kuro"
 ismini tamamen ortadan kaldıracak!
 
-239
+237
 00:17:14,760 --> 00:17:16,850
 Katlanamıyordum artık...
 
-240
+238
 00:17:17,430 --> 00:17:23,440
 Her günüm, sadece kaos isteyen adamlara planlar yaparak ve...
 
-241
+239
 00:17:23,440 --> 00:17:27,940
 hükûmet köpekleriyle ödül avcılarının
 peşimden koşmasıyla geçiyordu...
 
-242
+240
 00:17:27,940 --> 00:17:32,450
 Her şeyden bıkmıştım!
 
-243
+241
 00:17:36,200 --> 00:17:38,290
 Donanma, ha...?
 
-244
+242
 00:17:39,040 --> 00:17:42,670
 Bu hafta üçüncü oluyor.
 
-245
+243
 00:17:43,380 --> 00:17:45,420
 Elden bir şey gelmez.
 
-246
+244
 00:17:45,420 --> 00:17:49,010
 Bizi kovalamalarına neden olan
 işler yapıyoruz.
 
-247
+245
 00:17:49,010 --> 00:17:51,680
 Ayrıca, epey ün kazandın...
 
-248
+246
 00:17:51,680 --> 00:17:53,090
 Doğru...
 
-249
+247
 00:17:53,090 --> 00:17:56,600
 Onları bize çeken benim adım.
 
-250
+248
 00:17:56,600 --> 00:18:01,140
 Bu yüzden, Kaptan Kuro olmayı
 bırakıyorum.
 
-251
+249
 00:18:02,850 --> 00:18:05,610
 Tuhaf bir şey söylediniz.
 
-252
+250
 00:18:05,610 --> 00:18:06,980
 Ama işe yaramaz.
 
-253
+251
 00:18:06,980 --> 00:18:10,360
 Donanma sizi ölene dek kovalayacak.
 
-254
+252
 00:18:14,570 --> 00:18:17,030
 Öyleyse öleceğim!
 
-255
+253
 00:18:18,410 --> 00:18:22,710
 Görünüşe göre ben,
 korsan olmaya uygun değilim.
 
-256
+254
 00:18:22,710 --> 00:18:25,830
 Ama... sen kaptansın!
 
-257
+255
 00:18:25,830 --> 00:18:28,590
 Al senin olsun!
 
-258
+256
 00:18:28,590 --> 00:18:32,720
 Bu gürültülü yaşam tarzına
 yeterince katlandım.
 
-259
+257
 00:18:35,300 --> 00:18:39,310
 Ben... bu dünyadaki beni öldüreceğim!
 
-260
+258
 00:18:40,060 --> 00:18:41,140
 Kaptan Kuro!
 
-261
+259
 00:18:41,140 --> 00:18:42,060
 Kaptan...
 
-262
+260
 00:18:42,060 --> 00:18:43,020
 Kaptan!
 
-263
+261
 00:18:43,020 --> 00:18:44,770
 Kaç gemileri var?
 
-264
+262
 00:18:44,770 --> 00:18:46,400
 S-Sadece bir!
 
-265
+263
 00:18:46,400 --> 00:18:47,900
 Ne yapalım, Kaptan?
 
-266
+264
 00:18:47,900 --> 00:18:50,150
 Karşılık verelim mi?
 
-267
+265
 00:18:50,150 --> 00:18:52,490
 Küçük bir sandal indirin.
 
-268
+266
 00:18:52,490 --> 00:18:53,610
 Ha?!
 
-269
+267
 00:18:53,610 --> 00:18:54,610
 İndirin dedim!
 
-270
+268
 00:18:58,410 --> 00:19:00,330
 İkinci Kaptan Jango! Kaptan Kuro...!
 
-271
+269
 00:19:00,330 --> 00:19:01,660
 Evet, biliyorum.
 
-272
+270
 00:19:01,660 --> 00:19:02,580
 Biliyor musun?!
 
-273
+271
 00:19:02,580 --> 00:19:05,120
 Oraya yalnız gitmek çok riskli!
 
-274
+272
 00:19:05,120 --> 00:19:07,880
 Sakın bana teslim olacağını söylemeyin!
 
-275
+273
 00:19:22,680 --> 00:19:25,060
 Ha?! Top ateşi kesildi...
 
-276
+274
 00:19:25,600 --> 00:19:27,230
 Gemilerine yanaşın.
 
-277
+275
 00:19:27,230 --> 00:19:28,560
 A-Ama...
 
-278
+276
 00:19:28,560 --> 00:19:30,980
 Söylediğimi yapın, lanet olasıcalar!
 
-279
+277
 00:19:30,980 --> 00:19:32,150
 Emredersiniz!
 
-280
+278
 00:19:32,150 --> 00:19:34,240
 Hey, savaşa hazırlanın!
 
-281
+279
 00:19:32,900 --> 00:19:34,240
 Anlıyorum...
 
-282
+280
 00:19:34,240 --> 00:19:36,410
 Gemiye yaklaşın!
 
-283
+281
 00:19:34,240 --> 00:19:36,410
 Demek böyle olacak...
 
-284
+282
 00:19:48,080 --> 00:19:50,420
 D-Denizcilerin...
 
-285
+283
 00:19:50,420 --> 00:19:52,670
 hepsini yok etmiş!
 
-286
+284
 00:19:56,380 --> 00:19:58,300
 Şimdi...
 
-287
+285
 00:19:58,970 --> 00:20:01,810
 Planımıza başlayalım...
 
-288
+286
 00:20:05,980 --> 00:20:09,060
 Hey, hey. Kendini topla.
 
-289
+287
 00:20:09,060 --> 00:20:12,230
 Senin hayatını özellikle bağışladım.
 
-290
+288
 00:20:12,230 --> 00:20:15,240
 K-Kapa' çeneni...
 
-291
+289
 00:20:15,240 --> 00:20:18,200
 A-Asla yalvarmayacağım!
 
-292
+290
 00:20:18,990 --> 00:20:22,030
 B-Bitir işimi, lanet olası.
 
-293
+291
 00:20:24,790 --> 00:20:26,750
 Cesaretin var.
 
-294
+292
 00:20:26,750 --> 00:20:30,380
 Kırık bir çeneyle bu kadarını
 söyleyebilmen hiç de fena değil.
 
-295
+293
 00:20:33,340 --> 00:20:39,430
 Adı bile olmayan, sıradan bir askere
 bir ikramda bulunuyorum.
 
-296
+294
 00:20:39,430 --> 00:20:42,100
 Minnettar olup kabul et...
 
-297
+295
 00:20:42,850 --> 00:20:46,560
 Bin Planlı Kuro'nun kellesini!
 
-298
+296
 00:20:46,980 --> 00:20:49,270
 Senin adın Kaptan Kuro.
 
-299
+297
 00:20:49,270 --> 00:20:52,190
 Senin adın Kaptan Kuro.
 
-300
+298
 00:20:52,190 --> 00:20:55,070
 Bu vahşet senin eserindi.
 
-301
+299
 00:20:55,070 --> 00:20:56,190
 Bir,
 
-302
+300
 00:20:56,190 --> 00:20:57,440
 iki,
 
-303
+301
 00:20:57,440 --> 00:20:58,530
 Jango!
 
-304
+302
 00:20:58,950 --> 00:21:01,530
 Benim adım Kaptan Kuro.
 
-305
+303
 00:21:01,530 --> 00:21:04,370
 Bu vahşet benim eserimdi.
 
-306
+304
 00:21:04,370 --> 00:21:08,790
 Ve sen de Kaptan Kuro'yu
 yakalayan adamsın.
 
-307
+305
 00:21:08,790 --> 00:21:11,830
 Üsse dönün ve bu adamı infaz edin.
 
-308
+306
 00:21:11,830 --> 00:21:12,750
 Bir,
 
-309
+307
 00:21:12,750 --> 00:21:13,840
 iki,
 
-310
+308
 00:21:13,840 --> 00:21:14,800
 Jango!
 
-311
+309
 00:21:15,880 --> 00:21:19,630
 Ben Kaptan Kuro'yu yakalayan adamım!
 
-312
+310
 00:21:19,630 --> 00:21:21,760
 Yine aynı şey, İkinci Kaptan!
 
-313
+311
 00:21:22,220 --> 00:21:23,890
 Kusursuz...
 
-314
+312
 00:21:23,890 --> 00:21:32,690
 Yerime geçen kişi de ölünce,
 Kaptan Kuro dünyadan silinecek.
 
-315
+313
 00:21:32,940 --> 00:21:40,400
 Bugün planım başarılı olursa,
 hedefim tamamen gerçekleşecek...!
 
-316
+314
 00:21:40,990 --> 00:21:43,740
 Hem para hem de
 huzur içinde olacağım.
 
-317
+315
 00:21:44,120 --> 00:21:46,200
 Şimdi anlıyor musun, çocuk?
 
-318
+316
 00:21:46,200 --> 00:21:51,120
 Üç yıldır süren bu plan,
 başarısız olmayacak!
 
-319
+317
 00:21:51,460 --> 00:21:55,380
 Benim planım asla başarısız olmaz!
 
-320
+318
 00:22:01,550 --> 00:22:04,510
 Görünüşe göre esnemekten
 fazlasını yapabiliyorsun!
 
-321
+319
 00:22:04,510 --> 00:22:05,600
 Elbette!
 
-322
+320
 00:22:05,600 --> 00:22:09,390
 Korsan olmak için çok çalıştım!
 
-323
+321
 00:22:11,810 --> 00:22:13,560
 Demek bıktın, ha?!
 
-324
+322
 00:22:13,560 --> 00:22:18,110
 Denizlerdeki şöhreti kaldıramıyorsan,
 korsan olmamalısın!
 
-325
+323
 00:22:24,780 --> 00:22:27,030
 Hedefin,
 
-326
+324
 00:22:27,030 --> 00:22:29,910
 benimkinin yanına bile yaklaşamaz!
+
+325
+00:17:38,500 --> 00:17:43,380
+Bin Planlı Kuro
+(3 Yıl Önce)
+
+326
+00:17:38,500 --> 00:17:43,380
+Bin Planlı Kuro
+(3 Yıl Önce)
 
 327
 00:17:38,500 --> 00:17:43,380
 Bin Planlı Kuro
 (3 Yıl Önce)
 
-328
-00:17:38,500 --> 00:17:43,380
-Bin Planlı Kuro
-(3 Yıl Önce)
-
-329
-00:17:38,500 --> 00:17:43,380
-Bin Planlı Kuro
-(3 Yıl Önce)

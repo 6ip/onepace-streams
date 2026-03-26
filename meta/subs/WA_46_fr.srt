@@ -2089,13 +2089,9 @@ Subordonnés de Nekomamushi
 00:11:54,280 --> 00:11:59,410
 Bataillon du Sud
 
-Groupe de Denjiro
-
 469
 00:11:54,280 --> 00:11:59,410
 Bataillon du Sud
-
-Groupe de Denjiro
 
 470
 00:12:26,890 --> 00:12:30,690
@@ -3034,9 +3030,6 @@ m 1532.8 448.3 l 1532.8 448.3 m 1510.8 447.3 l 1510.8 447.3 m 1697.8 446.3 l 169
 Bataillon
  de l'Est
 
-Groupe
- de Kin'emon
-
 702
 00:15:58,940 --> 00:16:01,940
 Ulti et Page One
@@ -3452,8 +3445,6 @@ m 1578.7 441.4 l 1581.38 438.21 1583.79 437.6 m 1593.7 408.82 l 1597.06 407.32 1
 Quartier
 des
 Plaisirs
-
-Intérieur
 
 804
 00:20:57,030 --> 00:20:59,700
@@ -6343,8 +6334,6 @@ m 1532.8 448.3 l 1532.8 448.3 m 1510.8 447.3 l 1510.8 447.3 m 1697.8 446.3 l 169
 00:25:25,170 --> 00:25:31,090
 Scène
 
-Dome du crâne
-
 1327
 00:00:00,000 --> 00:00:02,890
 Déploie ta carte sans limite
@@ -6432,3 +6421,4 @@ Reste fidèle à toi-même jusqu'au bout !
 1348
 00:01:17,930 --> 00:01:22,810
 Rêve et atteins ton objectif !
+

@@ -93,19 +93,6 @@ la maldición de este dios!
 00:09:33,390 --> 00:09:36,990
 GAIMON
 
-
-
-
-
-
-
-
-
-
-
-
-GUARDIÁN DE LA ISLA
-
 23
 00:13:35,660 --> 00:13:39,680
 Doscientos piratas buscamos 
@@ -2293,16 +2280,3 @@ are
 00:01:49,610 --> 00:01:49,810
 !
 
-568
-00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-569
-00:01:48,810 --> 00:01:58,810
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io

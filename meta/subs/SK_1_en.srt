@@ -1,1351 +1,1338 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:53,930 --> 00:02:03,920
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:51,250 --> 00:01:53,130
 Can't breathe...!
 
-4
+2
 00:02:14,690 --> 00:02:16,570
 Damn! They got away!
 
-5
+3
 00:02:18,030 --> 00:02:19,870
 They're lucky.
 
-6
+4
 00:02:19,870 --> 00:02:23,990
 You're pretty carefree considering
 you let our prey get away from us!
 
-7
+5
 00:02:23,990 --> 00:02:28,340
 Do something, Captain!
 Let's go after 'em and take 'em down!
 
-8
+6
 00:02:29,080 --> 00:02:33,290
 Don't fret, Burgess.
 They'll be back eventually.
 
-9
+7
 00:02:33,290 --> 00:02:37,340
 We'll run into 'em soon enough
 as long as we're on the Grand Line.
 
-10
+8
 00:02:37,340 --> 00:02:39,110
 Precisely.
 
-11
+9
 00:02:39,110 --> 00:02:45,350
 Intense desires drive the cogs 
 that make the world turn.
 
-12
+10
 00:02:47,110 --> 00:02:48,850
 See?!
 
-13
+11
 00:02:48,850 --> 00:02:50,550
 Give me a break!
 
-14
+12
 00:03:10,620 --> 00:03:15,130
 Damn... What happened?!
 Is everyone here?!
 
-15
+13
 00:03:17,880 --> 00:03:20,670
 Hey, guys! Look outside the ship!
 
-16
+14
 00:03:21,490 --> 00:03:22,980
 What is this place?!
 
-17
+15
 00:03:22,980 --> 00:03:24,850
 It's pure white!
 
-18
+16
 00:03:24,850 --> 00:03:25,740
 Clouds?!
 
-19
+17
 00:03:25,740 --> 00:03:28,560
 We're on the clouds?!
 How are we floating on them?!
 
-20
+18
 00:03:28,560 --> 00:03:30,730
 Of course we can float!
 They're clouds!
 
-21
+19
 00:03:30,730 --> 00:03:32,020
 – That's not how it works!
 – That's not how it works!
 
-22
+20
 00:03:33,730 --> 00:03:35,960
 Oh, no! Usopp isn't breathing!
 
-23
+21
 00:03:35,960 --> 00:03:38,830
 What?! Do something!
 Give mouth-to-mouth!
 
-24
+22
 00:03:38,830 --> 00:03:41,530
 Okay! I'll give Nami mouth-to-mouth!
 
-25
+23
 00:03:41,130 --> 00:03:42,750
 Moron...
 
-26
+24
 00:03:41,530 --> 00:03:44,410
 Usopp! Stay with me!
 
-27
+25
 00:03:45,870 --> 00:03:47,160
 – Usopp!
 – Usopp!
 
-28
+26
 00:03:47,530 --> 00:03:50,330
 Clouds... What?!
 
-29
+27
 00:03:50,330 --> 00:03:51,790
 These are clouds, aren't they?!
 
-30
+28
 00:03:51,790 --> 00:03:54,290
 But there are so many!
 What is all this?!
 
-31
+29
 00:03:54,290 --> 00:03:58,100
 Basically, this is
 an ocean... in the sky?
 
-32
+30
 00:03:58,100 --> 00:04:00,090
 An ocean in the sky?!
 
-33
+31
 00:04:01,550 --> 00:04:04,650
 But look! The log pose
 is still pointing upward!
 
-34
+32
 00:04:04,650 --> 00:04:07,650
 We must be midway through
 the cumuloimperator clouds.
 
-35
+33
 00:04:07,650 --> 00:04:10,070
 We need to go even higher? How?
 
-36
+34
 00:04:10,070 --> 00:04:11,930
 That, I don't know...
 
-37
+35
 00:04:11,930 --> 00:04:13,660
 Did you call me a moron?!
 
-38
+36
 00:04:13,660 --> 00:04:15,000
 I forget.
 
-39
+37
 00:04:15,000 --> 00:04:16,770
 An ocean...!
 
-40
+38
 00:04:18,410 --> 00:04:22,240
 In swimming lane number one,
 Captain Usopp!
 
-41
+39
 00:04:22,240 --> 00:04:23,160
 Yay!
 
-42
+40
 00:04:23,160 --> 00:04:24,550
 You can do it! Good luck!
 
-43
+41
 00:04:24,550 --> 00:04:28,490
 Hey, now! Don't be reckless!
 This ocean's still a mystery!
 
-44
+42
 00:04:28,490 --> 00:04:31,250
 An ocean's an ocean!
 
-45
+43
 00:04:39,030 --> 00:04:44,550
 There's so little resistance,
 but I can barely see a thing...
 
-46
+44
 00:04:44,550 --> 00:04:50,560
 Oh! I'm going deeper
 and deeper! So easily...!
 
-47
+45
 00:04:56,150 --> 00:04:57,320
 Hey.
 
-48
+46
 00:04:57,860 --> 00:05:00,650
 He's... not coming back up.
 
-49
+47
 00:05:01,480 --> 00:05:06,210
 I was just wondering...
 whether this ocean has a bottom.
 
-50
+48
 00:05:06,210 --> 00:05:06,910
 – You don't mean...!
 – You don't mean...!
 
-51
+49
 00:05:06,910 --> 00:05:09,240
 Did that bastard fall from the clouds?!
 
-52
+50
 00:05:09,370 --> 00:05:11,700
 Usopp!
 
-53
+51
 00:05:11,700 --> 00:05:13,620
 I tried warning that moron!
 
-54
+52
 00:05:14,010 --> 00:05:15,720
 Stretch your arm as far as you can!
 
-55
+53
 00:05:15,720 --> 00:05:17,550
 But I can't see down there, so-
 
-56
+54
 00:05:17,550 --> 00:05:18,790
 You can leave it to me!
 
-57
+55
 00:05:19,270 --> 00:05:21,800
 Ojos Fleurs!
 
-58
+56
 00:05:38,540 --> 00:05:39,140
 There he is!
 
-59
+57
 00:05:39,140 --> 00:05:41,070
 Huh?! Where?!
 
-60
+58
 00:05:43,530 --> 00:05:45,490
 Veinte Fleurs!
 
-61
+59
 00:05:50,850 --> 00:05:52,530
 Okay! Pull him up!
 
-62
+60
 00:05:52,530 --> 00:05:55,540
 You got him?! Okay!
 
-63
+61
 00:05:56,910 --> 00:05:58,810
 Is he heavy?!
 
-64
+62
 00:06:00,010 --> 00:06:01,210
 Luffy! You can do it!
 
-65
+63
 00:06:01,210 --> 00:06:02,040
 You can do it!
 
-66
+64
 00:06:04,880 --> 00:06:07,090
 Yes! He's back up!
 
-67
+65
 00:06:08,090 --> 00:06:10,580
 But he's not alone!
 
-68
+66
 00:06:10,580 --> 00:06:12,470
 They wanna eat Usopp!
 
-69
+67
 00:06:15,390 --> 00:06:17,600
 It's nothing to be that afraid of!
 
-70
+68
 00:06:21,650 --> 00:06:22,650
 Huh?!
 
-71
+69
 00:06:43,880 --> 00:06:47,900
 Y'know... it sure is hard...
 to breathe up here...
 
-72
+70
 00:06:47,900 --> 00:06:53,390
 This is one strange creature...
 I'm not even sure if it's a fish.
 
-73
+71
 00:06:53,390 --> 00:06:55,960
 That octopus was like a balloon!
 
-74
+72
 00:06:55,960 --> 00:06:58,270
 It's definitely an animal.
 It was moving.
 
-75
+73
 00:06:58,270 --> 00:07:00,320
 Clouds supporting life...?
 
-76
+74
 00:07:00,320 --> 00:07:03,860
 Perhaps we should think of
 these clouds as an ocean.
 
-77
+75
 00:07:03,860 --> 00:07:06,440
 What's this flat snake?
 
-78
+76
 00:07:06,440 --> 00:07:08,260
 A flounder! Because it's flat!
 
-79
+77
 00:07:08,260 --> 00:07:10,070
 So this is a flounder?!
 
-80
+78
 00:07:15,650 --> 00:07:18,230
 Dammit! What is it this time, Usopp?!
 
-81
+79
 00:07:18,230 --> 00:07:20,650
 My pants! There was
 something in them!
 
-82
+80
 00:07:20,650 --> 00:07:22,460
 Usopp!
 
-83
+81
 00:07:22,460 --> 00:07:25,650
 Sky island scary, sky island scary...
 
-84
+82
 00:07:25,650 --> 00:07:27,240
 It's really not your day.
 
-85
+83
 00:07:29,970 --> 00:07:32,720
 Isn't this... a sky fish?
 
-86
+84
 00:07:32,720 --> 00:07:35,600
 These odd fish were
 described in Noland's logbook.
 
-87
+85
 00:07:35,610 --> 00:07:42,560
 They must have evolved to survive
 in this bottomless sky ocean.
 
-88
+86
 00:07:42,870 --> 00:07:45,960
 So they turned all balloon-like
 and flat and stuff?
 
-89
+87
 00:07:45,960 --> 00:07:48,370
 They needed to become lighter...
 
-90
+88
 00:07:48,370 --> 00:07:51,590
 because the buoyancy here is
 weaker than in the oceans below.
 
-91
+89
 00:07:51,590 --> 00:07:55,280
 They have scales like feathers
 and weird, carnivorous mouths!
 
-92
+90
 00:07:56,620 --> 00:07:58,260
 I tried sautéing it.
 
-93
+91
 00:07:58,260 --> 00:07:59,420
 This is good!
 
-94
+92
 00:07:59,420 --> 00:08:01,290
 We were still inspecting it!
 
-95
+93
 00:08:01,290 --> 00:08:03,110
 What were you guys thinking?!
 
-96
+94
 00:08:03,110 --> 00:08:04,720
 Oh! It really is good!
 
-97
+95
 00:08:04,720 --> 00:08:07,090
 What is this?! I've never
 had anything like it!
 
-98
+96
 00:08:07,090 --> 00:08:09,060
 Is it to your liking, Nami?
 
-99
+97
 00:08:09,060 --> 00:08:10,800
 Let's eat the big one next!
 
-100
+98
 00:08:11,110 --> 00:08:13,110
 Where is the sky island?
 
-101
+99
 00:08:13,110 --> 00:08:14,380
 Oh! A ship...
 
-102
+100
 00:08:14,860 --> 00:08:18,850
 A ship! Hey, guys!
 A ship... and a person?
 
-103
+101
 00:08:18,850 --> 00:08:20,040
 Huh?
 
-104
+102
 00:08:20,720 --> 00:08:22,520
 What?!
 
-105
+103
 00:08:22,520 --> 00:08:25,030
 Hey. What's wrong, Chopper?
 
-106
+104
 00:08:26,900 --> 00:08:29,090
 Is there a ship out there, Chopper?
 
-107
+105
 00:08:29,090 --> 00:08:32,030
 No, uh, there was,
 but not anymore...!
 
-108
+106
 00:08:32,030 --> 00:08:33,430
 Huh?
 
-109
+107
 00:08:33,430 --> 00:08:35,280
 A bull—with a square head?—
 
-110
+108
 00:08:35,280 --> 00:08:37,740
 is running on the clouds!
 
-111
+109
 00:08:35,970 --> 00:08:37,740
 You're not making sense! Calm down!
 
-112
+110
 00:08:37,740 --> 00:08:40,200
 What's wrong with you...? Huh?!
 
-113
+111
 00:08:41,790 --> 00:08:43,960
 It's a person! Someone's coming!
 
-114
+112
 00:08:43,960 --> 00:08:45,790
 He's running on the clouds!
 
-115
+113
 00:08:47,330 --> 00:08:49,090
 Hey, stop! What do you want?!
 
-116
+114
 00:08:49,090 --> 00:08:50,170
 Your deaths!
 
-117
+115
 00:08:50,170 --> 00:08:51,810
 Looks like he wants to fight!
 
-118
+116
 00:08:51,810 --> 00:08:52,670
 Fine by me!
 
-119
+117
 00:08:52,670 --> 00:08:53,720
 What's going on?!
 
-120
+118
 00:09:01,520 --> 00:09:04,100
 H-Hey! What's with you three?!
 
-121
+119
 00:09:10,900 --> 00:09:12,070
 He's gonna shoot us!
 
-122
+120
 00:09:12,070 --> 00:09:14,320
 Sky island scary, sky island scary...
 
-123
+121
 00:09:15,300 --> 00:09:16,780
 Stop right there!
 
-124
+122
 00:09:30,200 --> 00:09:32,170
 What?! Another weirdo?!
 
-125
+123
 00:09:39,380 --> 00:09:42,780
 I am the Sky Knight.
 
-126
+124
 00:09:49,380 --> 00:09:51,220
 He's gone...
 
-127
+125
 00:09:51,780 --> 00:09:55,540
 What the heck's going on?!
 Who was that?!
 
-128
+126
 00:09:55,540 --> 00:10:00,990
 And what's with you guys?!
 You're pathetic, losing three against one!
 
-129
+127
 00:10:00,990 --> 00:10:03,090
 Thank you for saving us!
 
-130
+128
 00:10:03,090 --> 00:10:06,160
 It was unavoidable.
 This one is on the house.
 
-131
+129
 00:10:06,710 --> 00:10:10,040
 Man... Talk about being worthless...
 
-132
+130
 00:10:10,040 --> 00:10:14,300
 It's hard to move... for some reason...
 
-133
+131
 00:10:14,300 --> 00:10:17,110
 It must be because of the thin air.
 
-134
+132
 00:10:17,110 --> 00:10:19,970
 Yeah, now that you mention it...
 
-135
+133
 00:10:19,970 --> 00:10:21,670
 Are you Blue Sea people?
 
-136
+134
 00:10:21,670 --> 00:10:25,180
 What do you mean by
 "Blue Sea people"? Also, who are you?
 
-137
+135
 00:10:25,180 --> 00:10:27,220
 I am the Sky Knight.
 
-138
+136
 00:10:27,220 --> 00:10:30,610
 "Blue Sea people" are those
 who live beneath the clouds.
 
-139
+137
 00:10:30,610 --> 00:10:33,610
 I take it you come up here
 from the blue sea?
 
-140
+138
 00:10:33,610 --> 00:10:34,870
 Yeah! That's right!
 
-141
+139
 00:10:34,870 --> 00:10:36,240
 Then that explains it.
 
-142
+140
 00:10:36,240 --> 00:10:39,990
 This is the White Sea,
 7,000 meters up.
 
-143
+141
 00:10:39,990 --> 00:10:44,530
 Higher still is the White-White Sea
 at an elevation of 10,000 meters.
 
-144
+142
 00:10:44,530 --> 00:10:47,410
 Ordinary Blue Sea people
 can't possibly endure it here.
 
-145
+143
 00:10:47,410 --> 00:10:49,550
 Alright! I've gotten used to it!
 
-146
+144
 00:10:49,550 --> 00:10:52,040
 Yeah. I feel much better now.
 
-147
+145
 00:10:52,040 --> 00:10:54,520
 No, no, no! That is not possible!
 
-148
+146
 00:10:54,520 --> 00:10:58,170
 Anyway, how was that guy
 running on top of the clouds?!
 
-149
+147
 00:10:58,500 --> 00:11:00,020
 Now, now. Hold on.
 
-150
+148
 00:11:00,020 --> 00:11:04,410
 I'm sure you have many questions,
 but let's talk business first.
 
-151
+149
 00:11:04,410 --> 00:11:05,830
 Business?
 
-152
+150
 00:11:05,830 --> 00:11:09,990
 I am a freelance soldier-for-hire.
 These seas are fraught with danger.
 
-153
+151
 00:11:09,990 --> 00:11:11,980
 If you don't know how
 to fight in the sky,
 
-154
+152
 00:11:11,980 --> 00:11:16,320
 guerrillas like that one will come after you
 and turn you into sky fish food.
 
-155
+153
 00:11:17,000 --> 00:11:20,490
 For five million extol per whistle,
 I will come to your aid.
 
-156
+154
 00:11:22,840 --> 00:11:24,620
 What nonsense is that, old guy?
 
-157
+155
 00:11:24,620 --> 00:11:29,450
 What?! That is quite cheap!
 I won't lower it a single extol more!
 
-158
+156
 00:11:29,450 --> 00:11:31,520
 I need to earn a living too, you know!
 
-159
+157
 00:11:31,520 --> 00:11:36,090
 What in the world is "extol"?
 And what's this "whistle" or whatever?
 
-160
+158
 00:11:36,090 --> 00:11:40,760
 You came here via the summit
 of High West, did you not?
 
-161
+159
 00:11:40,760 --> 00:11:43,180
 Then you must have
 passed an island or two.
 
-162
+160
 00:11:43,180 --> 00:11:45,530
 Again, what kinda
 nonsense is that, old guy?
 
-163
+161
 00:11:45,530 --> 00:11:49,510
 Wait! You mean there are other ways
 of coming to this sky ocean?!
 
-164
+162
 00:11:49,510 --> 00:11:53,230
 And "an island or two"? Does that
 mean there are lots of sky islands?!
 
-165
+163
 00:11:53,650 --> 00:11:55,770
 Don't tell me you came here via the...
 
-166
+164
 00:11:55,770 --> 00:11:58,070
 We rode the Knock-Up Stream.
 
-167
+165
 00:11:58,070 --> 00:12:01,030
 My word! That monstrous current?!
 
-168
+166
 00:12:01,030 --> 00:12:04,320
 So there are still people
 gutsy enough for that...
 
-169
+167
 00:12:04,320 --> 00:12:08,240
 It wasn't the normal route, after all...!
 
-170
+168
 00:12:08,240 --> 00:12:10,020
 We could've died, you know!
 
-171
+169
 00:12:10,020 --> 00:12:13,000
 We could've done it safely
 if we'd gathered more intel!
 
-172
+170
 00:12:13,000 --> 00:12:15,030
 What's it matter now?
 We're already here.
 
-173
+171
 00:12:15,030 --> 00:12:17,710
 Sky island scary, sky island scary...
 
-174
+172
 00:12:18,200 --> 00:12:19,710
 Did you lose any of your crew?
 
-175
+173
 00:12:20,180 --> 00:12:21,550
 No, we're all here.
 
-176
+174
 00:12:21,550 --> 00:12:24,170
 That would not have been so
 with any other route.
 
-177
+175
 00:12:24,170 --> 00:12:25,800
 When you head into the sky,
 
-178
+176
 00:12:25,800 --> 00:12:30,580
 there's no telling how many of your
 comrades will survive the journey.
 
-179
+177
 00:12:30,580 --> 00:12:34,920
 But with the Knock-Up Stream,
 everyone dies or everyone arrives.
 
-180
+178
 00:12:34,920 --> 00:12:36,020
 That's it.
 
-181
+179
 00:12:36,020 --> 00:12:39,580
 Not many can make
 that all-or-nothing bet,
 
-182
+180
 00:12:39,580 --> 00:12:41,130
 especially these days.
 
-183
+181
 00:12:41,130 --> 00:12:45,990
 Now I see that you are capable
 navigators with courage and skill.
 
-184
+182
 00:12:47,030 --> 00:12:50,170
 Yes, I must admit,
 it was only because I was here!
 
-185
+183
 00:12:50,170 --> 00:12:53,430
 These guys were on their knees
 crying and giving up on life,
 
-186
+184
 00:12:53,430 --> 00:12:57,210
 and I told them, "I will navigate us–"
 
-187
+185
 00:12:56,720 --> 00:12:57,210
 Hold on!
 
-188
+186
 00:12:57,210 --> 00:13:01,420
 With one whistle—
 I mean one blow of this whistle—
 
-189
+187
 00:13:03,010 --> 00:13:07,340
 I shall descend from the heavens
 and come to your aid!
 
-190
+188
 00:13:07,340 --> 00:13:10,550
 Normally, I would charge
 five million extol,
 
-191
+189
 00:13:10,550 --> 00:13:13,350
 but I will give you
 one whistle as a present!
 
-192
+190
 00:13:13,350 --> 00:13:15,230
 Wait! We still don't know your name!
 
-193
+191
 00:13:16,580 --> 00:13:21,880
 I am Gan Fall, the Sky Knight!
 And this is my partner, Pierre!
 
-194
+192
 00:13:23,150 --> 00:13:26,280
 I forgot to mention it,
 but my partner, Pierre...
 
-195
+193
 00:13:29,830 --> 00:13:33,330
 is a bird that ate the Horse-Horse Fruit
 and gained its powers.
 
-196
+194
 00:13:36,040 --> 00:13:36,710
 The bird's...?!
 
-197
+195
 00:13:36,710 --> 00:13:39,670
 In short, he becomes
 a horse with wings!
 
-198
+196
 00:13:39,670 --> 00:13:41,380
 Namely...
 
-199
+197
 00:13:41,380 --> 00:13:43,880
 No way! Wow! A Pegasus?!
 
-200
+198
 00:13:43,880 --> 00:13:45,940
 Yes! A Pegasus!
 
-201
+199
 00:13:49,140 --> 00:13:51,810
 – How... disappointing.
 – How... disappointing.
 
-202
+200
 00:13:51,810 --> 00:13:55,140
 May luck be with you, heroes!
 
-203
+201
 00:13:56,980 --> 00:13:59,520
 That was a weird thing it turned into...
 
-204
+202
 00:13:59,520 --> 00:14:02,460
 In the end, he didn't tell us anything.
 
-205
+203
 00:14:02,460 --> 00:14:05,010
 You're right! Nothing at all!
 
-206
+204
 00:14:05,010 --> 00:14:07,070
 Now we're back to square one.
 
-207
+205
 00:14:07,570 --> 00:14:09,540
 How do we get up there?!
 
-208
+206
 00:14:09,540 --> 00:14:13,100
 I know! Let's call
 that old guy and ask!
 
-209
+207
 00:14:13,100 --> 00:14:15,340
 H-H-Hold on, Luffy!
 
-210
+208
 00:14:15,340 --> 00:14:18,450
 This is only supposed to be
 used in emergencies!
 
-211
+209
 00:14:18,450 --> 00:14:22,980
 What if that weird masked
 guy shows up again?!
 
-212
+210
 00:14:23,690 --> 00:14:26,310
 Let's just start sailing somewhere.
 
-213
+211
 00:14:26,310 --> 00:14:28,380
 Hey, look over there!
 
-214
+212
 00:14:28,920 --> 00:14:29,990
 What could that be?
 
-215
+213
 00:14:29,990 --> 00:14:31,460
 What a weird cloud.
 
-216
+214
 00:14:31,460 --> 00:14:33,560
 It resembles a waterfall...
 
-217
+215
 00:14:34,120 --> 00:14:37,320
 Alright! It's decided! Let's check it out!
 
-218
+216
 00:14:52,840 --> 00:14:54,950
 Wait! Stop! Stop!
 
-219
+217
 00:14:54,950 --> 00:14:56,920
 There are huge clouds in the way...
 
-220
+218
 00:14:56,920 --> 00:14:58,710
 What do we do?
 
-221
+219
 00:14:58,710 --> 00:15:02,690
 They're floating on the sky ocean,
 so they can't be part of it.
 
-222
+220
 00:15:02,690 --> 00:15:04,090
 Then what are they?
 
-223
+221
 00:15:04,090 --> 00:15:06,420
 Ordinary clouds don't stay still.
 
-224
+222
 00:15:06,420 --> 00:15:08,050
 Let's touch one and find out!
 
-225
+223
 00:15:08,490 --> 00:15:12,390
 Gum-Gum Pistol!
 
-226
+224
 00:15:13,070 --> 00:15:14,010
 It bounced off!
 
-227
+225
 00:15:19,230 --> 00:15:24,230
 Look! I'm on it! I'm not sinking!
 It's all fluffy, like cotton!
 
-228
+226
 00:15:24,230 --> 00:15:28,150
 What is this?!
 What is this?! It's too fun!
 
-229
+227
 00:15:28,740 --> 00:15:29,830
 Wow!
 
-230
+228
 00:15:29,830 --> 00:15:31,180
 Now how does that work?!
 
-231
+229
 00:15:31,180 --> 00:15:32,210
 How mysterious...
 
-232
+230
 00:15:32,210 --> 00:15:34,410
 Me too! I'm coming too!
 
-233
+231
 00:15:34,410 --> 00:15:35,740
 Me too!
 
-234
+232
 00:15:38,200 --> 00:15:39,660
 This feels great!
 
-235
+233
 00:15:39,660 --> 00:15:42,080
 It's warm and makes me
 wanna sleep right here!
 
-236
+234
 00:15:42,080 --> 00:15:44,710
 It's even better than
 a freshly-aired futon!
 
-237
+235
 00:15:51,170 --> 00:15:57,010
 But this means the ship can't go
 through places filled with these...
 
-238
+236
 00:15:57,010 --> 00:16:00,180
 Hey! Find a route the ship can take
 while you're up there!
 
-239
+237
 00:16:01,180 --> 00:16:02,380
 Right! Okay!
 
-240
+238
 00:16:02,380 --> 00:16:05,230
 Hey, Luffy! There's
 something over here!
 
-241
+239
 00:16:05,230 --> 00:16:05,830
 What is it?!
 
-242
+240
 00:16:05,830 --> 00:16:08,320
 Hey! Where are you going?!
 Quit playing around!
 
-243
+241
 00:16:12,280 --> 00:16:13,250
 What is that?
 
-244
+242
 00:16:13,250 --> 00:16:14,360
 A gate?
 
-245
+243
 00:16:14,360 --> 00:16:18,410
 Yeah! There's a big gate
 under that waterfall thingy!
 
-246
+244
 00:16:20,120 --> 00:16:23,030
 There are man-made objects
 in a place like this?
 
-247
+245
 00:16:23,030 --> 00:16:27,000
 At this point, nothing in this
 ocean would surprise me.
 
-248
+246
 00:16:27,000 --> 00:16:28,930
 We'll know once we get through here!
 
-249
+247
 00:16:28,930 --> 00:16:30,110
 Left next!
 
-250
+248
 00:16:30,110 --> 00:16:31,180
 No, right!
 
-251
+249
 00:16:31,180 --> 00:16:32,650
 It's to our left!
 
-252
+250
 00:16:32,650 --> 00:16:34,080
 No, our right!
 
-253
+251
 00:16:34,080 --> 00:16:35,720
 Let's call the old armor guy!
 
-254
+252
 00:16:35,720 --> 00:16:36,980
 Stop that!
 
-255
+253
 00:16:38,520 --> 00:16:40,180
 Alright! Looks like we made it!
 
-256
+254
 00:16:47,450 --> 00:16:49,060
 It's a gate, all right...
 
-257
+255
 00:16:49,060 --> 00:16:52,820
 And look, that waterfall-like cloud
 really was a waterfall!
 
-258
+256
 00:16:52,820 --> 00:16:55,910
 It's flowing over those same
 weird clouds from earlier!
 
-259
+257
 00:16:55,910 --> 00:17:00,040
 Let's see. It says, "Heaven's Gate"...
 That's kind of ominous!
 
-260
+258
 00:17:00,040 --> 00:17:02,870
 It sounds like we're on our way to die!
 
-261
+259
 00:17:02,870 --> 00:17:06,850
 Y'know, maybe we're already dead.
 
-262
+260
 00:17:06,850 --> 00:17:10,640
 Ah! That would explain
 this weird world...
 
-263
+261
 00:17:10,640 --> 00:17:13,310
 Ack! We're dead?!
 
-264
+262
 00:17:13,310 --> 00:17:15,590
 Heaven, huh? This is gonna be great!
 
-265
+263
 00:17:15,590 --> 00:17:17,590
 I finally get to go there!
 
-266
+264
 00:17:17,590 --> 00:17:19,160
 Get real!
 
-267
+265
 00:17:19,160 --> 00:17:20,260
 What was that for?!
 
-268
+266
 00:17:20,260 --> 00:17:22,230
 Your jokes aren't funny!
 
-269
+267
 00:17:22,230 --> 00:17:24,550
 Why did I get hit, too...?
 
-270
+268
 00:17:25,230 --> 00:17:28,570
 Look! Over there!
 Someone's coming out!
 
-271
+269
 00:17:36,150 --> 00:17:37,160
 It's an angel!
 
-272
+270
 00:17:37,160 --> 00:17:40,200
 Is that what angels are like?!
 She looks like a raisin!
 
-273
+271
 00:17:41,160 --> 00:17:44,580
 Sightseeing? Or perhaps... war?
 
-274
+272
 00:17:46,040 --> 00:17:48,040
 It doesn't matter either way.
 
-275
+273
 00:17:48,040 --> 00:17:49,830
 If you're going to the upper area,
 
-276
+274
 00:17:49,830 --> 00:17:53,420
 pay the entrance fee
 of one billion extol per person.
 
-277
+275
 00:17:53,420 --> 00:17:54,790
 That is the law.
 
-278
+276
 00:17:54,790 --> 00:17:56,670
 O-One billion?!
 
-279
+277
 00:17:56,670 --> 00:17:59,000
 There's that "extol" stuff again...
 
-280
+278
 00:17:59,000 --> 00:18:02,510
 How much is a billion extol in belly?
 
-281
+279
 00:18:02,510 --> 00:18:07,450
 Whatever it is, one billion
 sounds really expensive!
 
-282
+280
 00:18:07,450 --> 00:18:11,190
 One billion per person...
 Seven billion for seven people...
 
-283
+281
 00:18:11,190 --> 00:18:12,970
 It's just to enter the country!
 
-284
+282
 00:18:12,970 --> 00:18:16,150
 Do countries usually charge
 that much just to enter?!
 
-285
+283
 00:18:16,150 --> 00:18:17,740
 This old lady's trying to scam–
 
-286
+284
 00:18:17,740 --> 00:18:23,160
 Um, about the money...
 What if... What if we can't pay?
 
-287
+285
 00:18:23,160 --> 00:18:24,620
 You may pass.
 
-288
+286
 00:18:24,620 --> 00:18:25,870
 Are you serious?!
 
-289
+287
 00:18:25,870 --> 00:18:29,660
 Or you may not pass.
 
-290
+288
 00:18:30,960 --> 00:18:36,800
 I am neither a gatekeeper nor a guard.
 I simply ask your intentions.
 
-291
+289
 00:18:36,800 --> 00:18:39,330
 Then let's go! To the sky island!
 
-292
+290
 00:18:39,330 --> 00:18:41,560
 We can't pay, but we're
 going through anyway!
 
-293
+291
 00:18:41,560 --> 00:18:44,560
 I see. The seven of you, then?
 
-294
+292
 00:18:45,560 --> 00:18:49,020
 Yeah. But how do we
 get to the sky island–
 
-295
+293
 00:18:54,170 --> 00:18:56,480
 What the...?! Something's here!
 
-296
+294
 00:18:56,930 --> 00:19:00,570
 The White Sea's
 famous express lobster...
 
-297
+295
 00:19:02,950 --> 00:19:04,830
 It's moving!
 
-298
+296
 00:19:04,830 --> 00:19:06,440
 It's a huge lobster!
 
-299
+297
 00:19:06,440 --> 00:19:08,120
 Is it going up the waterfall?!
 
-300
+298
 00:19:08,550 --> 00:19:09,680
 Hold on tight!
 
-301
+299
 00:19:09,680 --> 00:19:11,720
 What speed!
 
-302
+300
 00:19:16,130 --> 00:19:18,700
 It's still a ways to the top!
 
-303
+301
 00:19:23,720 --> 00:19:28,310
 This is Inspector Amazon
 of Heaven's Gate!
 
-304
+302
 00:19:28,310 --> 00:19:32,500
 Attention, almighty God
 and his priests...
 
-305
+303
 00:19:32,500 --> 00:19:36,710
 Seven illegal entrants are heading
 into God Land Skypiea...
 
-306
+304
 00:19:36,710 --> 00:19:39,650
 May they receive Divine Reckoning!
 
-307
+305
 00:19:47,080 --> 00:19:51,320
 May they receive Divine Reckoning!
 
-308
+306
 00:17:32,030 --> 00:17:36,150
 Inspector Amazon
 Heaven's Gate
 
-309
+307
 00:17:32,030 --> 00:17:36,150
 Inspector Amazon
 Heaven's Gate
+

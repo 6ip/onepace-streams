@@ -1,1622 +1,1609 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:41,870 --> 00:01:51,860
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:47,980 --> 00:01:49,750
 Gizli görev!
 
-4
+2
 00:01:49,750 --> 00:01:51,060
 Tamamdır!
 
-5
+3
 00:01:52,270 --> 00:01:54,050
 Bu büyük bir savaş olacak!
 
-6
+4
 00:01:54,050 --> 00:01:56,170
 Savaş...
 
-7
+5
 00:01:58,020 --> 00:02:00,030
 Onigashima adındaki...
 
-8
+6
 00:02:01,150 --> 00:02:04,850
 Kaido ve Canavar Korsanlarının adasında gerçekleşecek!
 
-9
+7
 00:02:04,850 --> 00:02:06,100
 Ada mı?
 
-10
+8
 00:02:06,100 --> 00:02:10,770
 Wano'da bile denizi geçmek zorunda mıyız?
 
-11
+9
 00:02:10,770 --> 00:02:12,690
 Doğru!
 
-12
+10
 00:02:12,690 --> 00:02:18,740
 Ada kıyıdan gözüküyor zaten, oraya gitmek için koca gemilere ihtiyacımız yok.
 
-13
+11
 00:02:18,740 --> 00:02:21,200
 Onigashima'ya baskın yapmak için...
 
-14
+12
 00:02:21,200 --> 00:02:24,060
 yine de bir gemiye ihtiyacımız olacak.
 
-15
+13
 00:02:24,060 --> 00:02:27,550
 Gemiyi sonra düşünürüz.
 
-16
+14
 00:02:28,000 --> 00:02:30,330
 Savaşı ne zaman yapacağız?
 
-17
+15
 00:02:30,330 --> 00:02:33,000
 Ateş Festivali gününde yapmalıyız.
 
-18
+16
 00:02:33,000 --> 00:02:38,720
 Ateş Festivali başkent halkı için
 büyük bir festivaldir.
 
-19
+17
 00:02:38,720 --> 00:02:43,680
 Kaido'nun ülkeyi koruyan
 bir tanrı olduğuna inanılıyor.
 
-20
+18
 00:02:43,680 --> 00:02:49,780
 Ve o gün Orochi, tanrının huzuruna çıkmak için şogun alayı'nın başında Onigashima'ya gidecek.
 
-21
+19
 00:02:49,780 --> 00:02:52,880
 Ama bu sadece bir bahane!
 
-22
+20
 00:02:52,880 --> 00:02:59,070
 Asıl olacak olan şey, yetkililerin ve Canavar Korsanları'nın ziyafet vermesi!
 
-23
+21
 00:02:59,820 --> 00:03:01,280
 Anlıyorum.
 
-24
+22
 00:03:01,280 --> 00:03:06,160
 Yani parti yaparlarken
 sarhoş olmuş o aptalları dövüp...
 
-25
+23
 00:03:06,160 --> 00:03:08,840
 liderlerinin kafasını keseceğiz!
 
-26
+24
 00:03:08,840 --> 00:03:09,500
 Ama...
 
-27
+25
 00:03:09,500 --> 00:03:17,730
 kahramanlıklarımı görünce o sapık samurayı boşverip bana gönlünü kaptırabilirsin!
 
-28
+26
 00:03:17,730 --> 00:03:20,630
 Hayır, hayır, Sanji-dono,
 yanlış anlamışsın.
 
-29
+27
 00:03:20,630 --> 00:03:27,150
 Benim karım var ve Okiku sadece
 yoldaşım, yani öyle bir ilişkimiz yok.
 
-30
+28
 00:03:27,150 --> 00:03:30,020
 Otsuru-san iyiydi.
 
-31
+29
 00:03:30,020 --> 00:03:31,390
 Onu gördün mü?
 
-32
+30
 00:03:31,390 --> 00:03:34,100
 Evet, fark edilmeden.
 
-33
+31
 00:03:34,100 --> 00:03:35,810
 Anlıyorum.
 
-34
+32
 00:03:35,810 --> 00:03:37,940
 Durumu iyiyse, güzel o zaman.
 
-35
+33
 00:03:37,940 --> 00:03:42,990
 Büyük hedefimizi gerçekleştirene
 kadar onu göremem.
 
-36
+34
 00:03:42,990 --> 00:03:44,560
 Kin-sama...
 
-37
+35
 00:03:44,560 --> 00:03:48,410
 Hey, sen evli bir adamsın.
 Onun kalbini kazanma! Adil değil!
 
-38
+36
 00:03:48,410 --> 00:03:51,850
 Okiku-chan! Lütfen bana karşı nazik ol.
 
-39
+37
 00:03:51,850 --> 00:03:53,300
 Kapat çeneni.
 
-40
+38
 00:03:53,300 --> 00:03:57,340
 Sanji, Kiku inanılmaz derecede güçlü!
 
-41
+39
 00:03:59,630 --> 00:04:02,370
 Güzel olduğu kadar güçlü demek ha?
 
-42
+40
 00:04:03,220 --> 00:04:05,010
 Kusursuz.
 
-43
+41
 00:04:06,890 --> 00:04:11,480
 Evet, savaşın tarihini ve buluşma
 yerini belirten bir sembol çizdim.
 
-44
+42
 00:04:11,480 --> 00:04:13,640
 Engereğin üzerinde...
 
-45
+43
 00:04:11,480 --> 00:04:13,640
 Habu: Engerek
 
-46
+44
 00:04:14,270 --> 00:04:15,980
 yanan iki kuş...
 
-47
+45
 00:04:15,980 --> 00:04:19,610
 ve isyan anlamına gelen ters hilal!
 
-48
+46
 00:04:20,110 --> 00:04:23,820
 "Ateş Festivali günü. Akşam alacasında.
 Kuşun ikinci saati.
 
-49
+47
 00:04:23,820 --> 00:04:26,240
 Habu Limanında."
 
-50
+48
 00:04:26,240 --> 00:04:31,950
 "Kuşun ikinci saati" Wano'da 
 17:30 - 18:00 saatleri demektir.
 
-51
+49
 00:04:33,040 --> 00:04:37,080
 Endişelenmeyin.
 Wano halkı mesajı anlayacaktır.
 
-52
+50
 00:04:40,220 --> 00:04:47,340
 Hemen etrafta dolaşıp sol ayak bileklerinde ay işareti olanlara bu kâğıtları vermeliyiz!
 
-53
+51
 00:04:47,340 --> 00:04:50,190
 Ay işareti, isyanın sembolüdür.
 
-54
+52
 00:04:50,190 --> 00:04:52,310
 Onlar müttefiklerimizdir!
 
-55
+53
 00:04:52,310 --> 00:04:56,420
 Wano'da nerede olduklarını bilmiyoruz.
 
-56
+54
 00:04:56,420 --> 00:04:59,150
 Ancak mümkün olduğu kadar
 çok kişiye dağıtmak için...
 
-57
+55
 00:04:59,150 --> 00:05:02,400
 arkadaşlarımız tüm ülkeye yayıldı.
 
-58
+56
 00:05:03,570 --> 00:05:09,330
 Zorojuro-dono ve Usohachi-dono da
 bu görevi başkentte yürütüyorlar.
 
-59
+57
 00:05:09,330 --> 00:05:13,120
 Zoro'nun hiç yardımcı olmadığına eminim.
 
-60
+58
 00:05:15,660 --> 00:05:20,990
 Dahası, Onigashima'ya vardıktan 
 sonra kaybolmamak için...
 
-61
+59
 00:05:20,990 --> 00:05:26,760
 Kaido'nun konağının tasarımını yapan
 marangozdan planları almaya çalışıyoruz.
 
-62
+60
 00:05:26,760 --> 00:05:30,490
 Bu yüzden Franosuke-dono'yu bu işe atadık.
 
-63
+61
 00:05:30,490 --> 00:05:35,320
 Orobi-dono'ya gelince, Orochi'nin ordusunun tüm hamlelerini öğrenmemiz şart.
 
-64
+62
 00:05:35,320 --> 00:05:41,570
 Bu yüzden Orochi'nin yanına sızabilmek için geyşa kılığına girmesini istedim!
 
-65
+63
 00:05:41,570 --> 00:05:43,930
 Şu anda çok ünlü olduğunu duydum.
 
-66
+64
 00:05:43,930 --> 00:05:47,200
 Robin-chan'ı geyşa
 kıyafetiyle görmek istiyorum!
 
-67
+65
 00:05:47,200 --> 00:05:51,800
 Şimdi size de görevler vermek istiyorum.
 
-68
+66
 00:05:51,800 --> 00:05:56,760
 Brook-dono'nun yeteneği,
 başkentte yiyecek almayı sağlayacaktır.
 
-69
+67
 00:05:56,760 --> 00:05:59,130
 He? Emin misin?
 
-70
+68
 00:05:59,130 --> 00:06:03,840
 Nami-dono'nun hava yetenekleri ninjutsudan farksız, bu sebeple kunoichi rolü yapacak!
 
-71
+69
 00:06:03,840 --> 00:06:05,710
 Kadın ninja he?
 
-72
+70
 00:06:07,220 --> 00:06:09,280
 Kunoichi Onami!
 
-73
+71
 00:06:09,680 --> 00:06:12,510
 Nami-san, kunoichi mi?
 
-74
+72
 00:06:12,510 --> 00:06:17,990
 Sanji-dono'nun aşçılığı kalabalığı çekecek, biz de aralarından gönüllüler bulacağız.
 
-75
+73
 00:06:18,890 --> 00:06:20,570
 Sanji-dono?
 
-76
+74
 00:06:20,570 --> 00:06:21,810
 Bana bırak!
 
-77
+75
 00:06:21,810 --> 00:06:23,360
 Peki ya ben?
 
-78
+76
 00:06:23,360 --> 00:06:29,710
 Carrot-dono'nun ve Chopper-dono'nun, Kiku'yla birlikte Inuarashi'yle görüşmesini istiyorum.
 
-79
+77
 00:06:29,710 --> 00:06:32,320
 Kin'emon! Ben de ninja olmak istiyorum!
 
-80
+78
 00:06:32,320 --> 00:06:33,850
 Tamamdır!
 
-81
+79
 00:06:33,850 --> 00:06:38,250
 Her birinize uygun kıyafetler vereceğim!
 
-82
+80
 00:06:38,250 --> 00:06:42,770
 Bu yüzden kafanıza
 bir yaprak koyun ve hazır olun!
 
-83
+81
 00:06:43,380 --> 00:06:45,520
 Hazır mısınız?
 
-84
+82
 00:06:46,110 --> 00:06:47,420
 Başlıyorum!
 
-85
+83
 00:06:47,450 --> 00:06:49,050
 İşte büyülü gücüm!
 
-86
+84
 00:06:49,970 --> 00:06:52,470
 Kıyafet Tekniği!
 
-87
+85
 00:06:52,470 --> 00:06:53,470
 Puf!
 
-88
+86
 00:07:03,940 --> 00:07:06,320
 Nami-swaan!
 
-89
+87
 00:07:06,320 --> 00:07:08,360
 Ninja!
 
-90
+88
 00:07:08,360 --> 00:07:12,620
 Wano tarzı kıyafetler giydiğinize göre görevlerinizi yapmanızı istiyorum.
 
-91
+89
 00:07:12,620 --> 00:07:14,030
 Bekle, Kin'emon!
 
-92
+90
 00:07:14,030 --> 00:07:16,490
 Bu gerçekten kunoichi kıyafeti mi?
 
-93
+91
 00:07:16,490 --> 00:07:19,120
 Kunoichi dediğin...
 
-94
+92
 00:07:19,120 --> 00:07:20,660
 böyle görünmelidir!
 
-95
+93
 00:07:20,660 --> 00:07:22,750
 Yalan söylüyorsun değil mi?
 
-96
+94
 00:07:25,080 --> 00:07:27,490
 Şimdi, bir rehber çağıracağım.
 
-97
+95
 00:07:27,490 --> 00:07:30,170
 O gerçek bir kunoichi'dir.
 
-98
+96
 00:07:30,170 --> 00:07:32,630
 Gerçek kunoichi!
 
-99
+97
 00:07:32,760 --> 00:07:34,930
 İşte büyük zevk!
 
-100
+98
 00:07:34,930 --> 00:07:36,850
 Shinobu!
 
-101
+99
 00:07:43,060 --> 00:07:44,260
 Ne?
 
-102
+100
 00:07:46,490 --> 00:07:47,360
 Beni mi çağırdın?
 
-103
+101
 00:07:47,360 --> 00:07:49,990
 Bu tamamen yanlış!
 
-104
+102
 00:07:51,450 --> 00:07:53,410
 – Ne?!
 – Ne?!
 
-105
+103
 00:07:55,550 --> 00:07:56,660
 Umudumu...
 
-106
+104
 00:07:57,420 --> 00:07:58,580
 kaybetmeyeceğim.
 
-107
+105
 00:07:58,580 --> 00:08:02,790
 Olamaz! Şokun etkisiyle titriyor!
 
-108
+106
 00:08:02,790 --> 00:08:06,170
 Kin'emon! Ağzının tadı bu he?
 
-109
+107
 00:08:06,170 --> 00:08:11,420
 Kunoichi'ler seksi veya
 demode olmalıdır. İki türleri vardır.
 
-110
+108
 00:08:16,760 --> 00:08:18,680
 Sıkıştırırsam iş görür aslında.
 
-111
+109
 00:08:18,680 --> 00:08:21,670
 Brook, sen ne kılığına girdin?
 
-112
+110
 00:08:21,670 --> 00:08:25,360
 Kafasına külot giyen birine.
 
-113
+111
 00:08:25,360 --> 00:08:28,010
 Öyle sanıyordum ama yanılmışım!
 
-114
+112
 00:08:31,860 --> 00:08:34,460
 Genç olmak...
 
-115
+113
 00:08:34,460 --> 00:08:35,950
 hiç kötü değil.
 
-116
+114
 00:08:35,950 --> 00:08:38,500
 Adım Shinobu!
 
-117
+115
 00:08:38,500 --> 00:08:41,910
 Eskiden Kin-sama'yla kardeş gibiydik.
 
-118
+116
 00:08:41,910 --> 00:08:43,570
 Ama şu anda...
 
-119
+117
 00:08:44,890 --> 00:08:47,580
 imza hareketim,
 Baştan Çıkarma Tekniği'dir.
 
-120
+118
 00:08:47,580 --> 00:08:49,150
 Memnun oldum.
 
-121
+119
 00:08:49,890 --> 00:08:53,090
 Nami-san olmasaydı ruhum yok olurdu.
 
-122
+120
 00:08:53,090 --> 00:08:55,550
 Hayır, Sanji!
 
-123
+121
 00:08:56,090 --> 00:08:58,100
 Anlıyorum, genç adam.
 
-124
+122
 00:08:58,100 --> 00:09:00,470
 Olgun kadınlar...
 
-125
+123
 00:09:01,770 --> 00:09:04,690
 ölümcül silah gibidirler.
 
-126
+124
 00:09:04,690 --> 00:09:05,560
 Tamamdır!
 
-127
+125
 00:09:05,560 --> 00:09:08,280
 Buluşma süresine kadar ayrı kalacağız ama...
 
-128
+126
 00:09:08,780 --> 00:09:12,230
 aramanızı istediğim üç özel samuray var!
 
-129
+127
 00:09:13,360 --> 00:09:16,450
 Onları bulabilirsek
 büyük yardımları dokunacaktır!
 
-130
+128
 00:09:16,450 --> 00:09:18,190
 Kawamatsu.
 
-131
+129
 00:09:18,190 --> 00:09:19,470
 Ashura Doji.
 
-132
+130
 00:09:19,470 --> 00:09:20,910
 Denjiro.
 
-133
+131
 00:09:20,910 --> 00:09:25,160
 Onlar da bizim gibi Oden-sama'ya
 hizmet eden samuraylardı!
 
-134
+132
 00:09:26,670 --> 00:09:29,920
 Gidelim! Buradaki müttefiklerimiz!
 
-135
+133
 00:09:31,630 --> 00:09:37,590
 Hedeflerimiz, Yonko Kaido ve 
 iğrenç şogun Kurozumi Orochi!
 
-136
+134
 00:09:37,590 --> 00:09:42,060
 Hareket tarihi iki hafta sonra!
 Ateş Festivali gecesinde!
 
-137
+135
 00:09:42,850 --> 00:09:45,730
 Kaido'nun yaşadığı Onigashima'ya...
 
-138
+136
 00:09:45,730 --> 00:09:49,520
 baskın yapacağız!
 
-139
+137
 00:10:04,950 --> 00:10:06,750
 – Ne?!
 – Ne?!
 
-140
+138
 00:10:40,580 --> 00:10:42,550
 Selamlar!
 
-141
+139
 00:10:44,750 --> 00:10:45,790
 İşe koyulun!
 
-142
+140
 00:10:49,410 --> 00:10:52,580
 Dangalakların elinde iyi mallar var!
 
-143
+141
 00:10:52,580 --> 00:10:55,380
 Geri verin! Onları Luffytaro-san...
 
-144
+142
 00:10:55,380 --> 00:10:58,030
 Luffytaro-san bize verdi!
 
-145
+143
 00:10:58,030 --> 00:10:59,700
 Kes be!
 
-146
+144
 00:10:59,700 --> 00:11:00,760
 Anneciğim!
 
-147
+145
 00:11:00,760 --> 00:11:05,730
 Ha? Meyveden tut, sake'yle pirince
 kadar var! Utanmazlara bak hele!
 
-148
+146
 00:11:05,730 --> 00:11:08,860
 Geri verin lütfen! Torunuma yedireceğim!
 
-149
+147
 00:11:09,640 --> 00:11:13,360
 Kafa sikme dayı! Geber git artık!
 
-150
+148
 00:11:23,790 --> 00:11:25,950
 Böyle bir şeyi...
 
-151
+149
 00:11:25,950 --> 00:11:28,910
 hangi sıçtığım yaptı?
 
-152
+150
 00:11:28,910 --> 00:11:33,120
 İnsanlara yemek verip
 kahramanlığa soyunmak mı?
 
-153
+151
 00:11:33,120 --> 00:11:35,710
 Hayaliniz kısa sürdü ama...
 
-154
+152
 00:11:35,710 --> 00:11:39,090
 tam yemek bulmuşken...
 
-155
+153
 00:11:39,090 --> 00:11:42,800
 bize kaptırıp yine aç kalacaksınız.
 
-156
+154
 00:11:42,800 --> 00:11:48,220
 Sizin gibi acizleri koruyacak
 bir samuray kalmadı!
 
-157
+155
 00:11:49,220 --> 00:11:55,960
 Bu ülkede çetin samuraylara
 önderlik edebilecek...
 
-158
+156
 00:11:55,960 --> 00:11:59,190
 adam gibi bir adam da yok artık!
 
-159
+157
 00:12:00,550 --> 00:12:05,410
 Wano'nun sonu geldi!
 
-160
+158
 00:12:09,410 --> 00:12:11,630
 Bak hele kocakarı...
 
-161
+159
 00:12:11,630 --> 00:12:18,170
 Daha yıllarca yaşasan da
 acı gerçekten başka bir bok görmeyeceksin.
 
-162
+160
 00:12:25,590 --> 00:12:28,460
 Gel de sefaletine son vereyim!
 
-163
+161
 00:12:31,270 --> 00:12:32,960
 Lütfen kaç!
 
-164
+162
 00:12:32,960 --> 00:12:34,500
 Nine!
 
-165
+163
 00:12:40,220 --> 00:12:44,610
 Otoki-sama'nın sözüne inanıyorum.
 
-166
+164
 00:12:47,170 --> 00:12:49,160
 Geberdi gitti.
 
-167
+165
 00:12:49,710 --> 00:12:52,480
 Dokuz samurayın...
 
-168
+166
 00:12:52,480 --> 00:12:55,580
 Oden-sama'nın arzusunu
 yerine getireceğinden şüphem yok!
 
-169
+167
 00:12:55,580 --> 00:12:57,390
 Beyinsiz!
 
-170
+168
 00:12:57,390 --> 00:13:01,090
 Başlarında bir önder
 olmadan savaşa giremezler!
 
-171
+169
 00:13:12,470 --> 00:13:14,680
 Shutenmaru-sama! O...
 
-172
+170
 00:13:34,820 --> 00:13:37,540
 Nihayet karşılaşabildik...
 
-173
+171
 00:13:42,650 --> 00:13:44,880
 hırsızların lideri.
 
-174
+172
 00:13:45,730 --> 00:13:48,710
 C-C-C-Canavar!
 
-175
+173
 00:13:48,710 --> 00:13:53,770
 Buralara Hasır Şapka Luffy isminde
 bir korsanın gelmiş olması lazım.
 
-176
+174
 00:13:55,000 --> 00:14:00,560
 "Haberim yok." desem
 davranışına çekidüzen verir misin?
 
-177
+175
 00:14:01,120 --> 00:14:03,650
 Kaşınma derim.
 
-178
+176
 00:14:04,290 --> 00:14:05,690
 Ha?!
 
-179
+177
 00:14:05,690 --> 00:14:09,580
 Seni sağ bırakmamızın tek sebebi...
 
-180
+178
 00:14:09,580 --> 00:14:13,770
 Kaido-san'ın seni mürettebata
 katmak istemesidir.
 
-181
+179
 00:14:14,470 --> 00:14:18,540
 Sana saygı göstermeme lüzum yok!
 
-182
+180
 00:14:21,650 --> 00:14:24,300
 Öyleyse hemen söyleyeyim.
 
-183
+181
 00:14:26,800 --> 00:14:29,380
 İsteğinize yanıtım budur!
 
-184
+182
 00:14:37,470 --> 00:14:41,080
 Baksana Kin'emon, planını anladım da...
 
-185
+183
 00:14:41,080 --> 00:14:44,080
 idrak edemediğim bir husus var.
 
-186
+184
 00:14:44,770 --> 00:14:49,570
 20 yıl evvel, Oden'in Ashura Doji'yi
 yendiğini söylemiştin.
 
-187
+185
 00:14:49,570 --> 00:14:55,740
 Öyleyse bulmamızı istediğin
 müttefikler arasında ne arıyor?
 
-188
+186
 00:14:57,270 --> 00:14:59,580
 Yerinde bir soru.
 
-189
+187
 00:15:00,270 --> 00:15:05,770
 Ashura Doji, Oden-sama'ya yenilince
 kendini düzelterek...
 
-190
+188
 00:15:05,770 --> 00:15:09,170
 efendimize bağlılık yemini etti.
 
-191
+189
 00:15:10,530 --> 00:15:11,470
 Fakat...
 
-192
+190
 00:15:11,470 --> 00:15:16,950
 Şimdilerde Atama Dağı Hırsızları lideri olarak Shutenmaru ismiyle...
 
-193
+191
 00:15:16,950 --> 00:15:19,680
 yine eski günlere döndüğünü işittik.
 
-194
+192
 00:15:21,310 --> 00:15:24,270
 Hadi ya, hırsızlar demek?
 
-195
+193
 00:15:25,620 --> 00:15:26,690
 Bu arada,
 
-196
+194
 00:15:27,490 --> 00:15:29,900
 güçlü biri midir?
 
-197
+195
 00:15:30,660 --> 00:15:36,450
 Evet, muhtemelen en güçlü samuray
 olduğunu söylemek yanlış olmaz.
 
-198
+196
 00:15:42,250 --> 00:15:43,430
 Bak sen!
 
-199
+197
 00:16:06,220 --> 00:16:09,070
 Bir samurayı küçümsemeyeceksin!
 
-200
+198
 00:16:17,370 --> 00:16:19,080
 Jack-sama!
 
-201
+199
 00:16:19,080 --> 00:16:21,290
 Ağzına sıçtığımın...
 
-202
+200
 00:17:02,540 --> 00:17:05,770
 Geri çekilin! Shutenmaru ile Jack-sama...
 
-203
+201
 00:17:05,770 --> 00:17:07,330
 Birbirine girdiler!
 
-204
+202
 00:17:08,560 --> 00:17:10,750
 Sonumuz geldi!
 
-205
+203
 00:17:54,510 --> 00:17:58,340
 O adam, aramızdan ayrıldığından beri...
 
-206
+204
 00:18:00,220 --> 00:18:03,140
 ölmek için bahane arıyordum.
 
-207
+205
 00:18:09,480 --> 00:18:10,690
 Fakat...
 
-208
+206
 00:18:12,270 --> 00:18:16,820
 senin gibi bir ayakçının elinden olmaz!
 
-209
+207
 00:18:16,820 --> 00:18:18,610
 Zevzeklik etme!
 
-210
+208
 00:18:32,090 --> 00:18:33,710
 Ben...
 
-211
+209
 00:18:36,050 --> 00:18:39,080
 o gün ölmeliydim!
 
-212
+210
 00:18:41,930 --> 00:18:45,770
 Yaşamak tam bir işkence.
 
-213
+211
 00:19:27,600 --> 00:19:30,190
 J-Jack-sama!
 
-214
+212
 00:19:30,800 --> 00:19:32,520
 B-Bakın... Gökyüzü!
 
-215
+213
 00:19:35,550 --> 00:19:37,610
 Olamaz! Neden ama?
 
-216
+214
 00:19:39,900 --> 00:19:44,030
 Hangi amaçla teşrif ediyor ki?
 
-217
+215
 00:19:44,030 --> 00:19:46,750
 B-Benim yüzümden mi? Ondan mı?
 
-218
+216
 00:19:46,750 --> 00:19:49,120
 İnfazım için mi geliyor?
 
-219
+217
 00:19:50,710 --> 00:19:52,260
 Birden ne oldu böyle?
 
-220
+218
 00:19:52,270 --> 00:19:53,710
 Yağmur mu geliyor?
 
-221
+219
 00:19:54,600 --> 00:19:55,710
 Hayır!
 
-222
+220
 00:19:55,710 --> 00:19:58,670
 Hey, Hasır Şapka-ya! Çabuk gel!
 
-223
+221
 00:19:59,290 --> 00:20:00,760
 Ne oldu, Trao?
 
-224
+222
 00:20:03,180 --> 00:20:04,680
 N'oluyor?
 
-225
+223
 00:20:19,150 --> 00:20:20,380
 Momonosuke-sama!
 
-226
+224
 00:20:20,380 --> 00:20:22,800
 Ne? Momonosuke-sama...
 
-227
+225
 00:20:22,800 --> 00:20:24,490
 E-Ejderha mı oldu?
 
-228
+226
 00:20:25,360 --> 00:20:31,060
 Sonra izah edeceğim,
 vücudu böyle dönüşebiliyor artık!
 
-229
+227
 00:20:31,060 --> 00:20:33,160
 Hem de gide gide...
 
-230
+228
 00:20:33,160 --> 00:20:36,460
 iğrenç bir ejderha şekline giriyor!
 
-231
+229
 00:20:38,920 --> 00:20:41,550
 Başımız belada, Hasır Şapka-ya.
 
-232
+230
 00:20:52,070 --> 00:20:54,440
 Çekil! Önümden çekil!
 
-233
+231
 00:20:57,050 --> 00:20:59,210
 Yok daha neler!
 
-234
+232
 00:20:59,210 --> 00:21:00,370
 Ama neden?
 
-235
+233
 00:21:09,910 --> 00:21:12,250
 Bak hele Jack.
 
-236
+234
 00:21:12,720 --> 00:21:14,010
 Emredin.
 
-237
+235
 00:21:16,580 --> 00:21:19,920
 Derhâl o veletleri...
 
-238
+236
 00:21:19,920 --> 00:21:23,060
 huzuruma getir.
 
-239
+237
 00:21:26,840 --> 00:21:29,100
 Ejderha mı? O da ne öyle?
 
-240
+238
 00:21:29,850 --> 00:21:32,140
 Daha beteri olamazdı.
 
-241
+239
 00:21:32,880 --> 00:21:33,850
 O şey...
 
-242
+240
 00:21:36,780 --> 00:21:38,190
 Kaido!
 
-243
+241
 00:21:38,850 --> 00:21:40,020
 Demek o...
 
-244
+242
 00:21:41,670 --> 00:21:43,320
 Kaido!
 
-245
+243
 00:22:19,810 --> 00:22:21,940
 Kaido bir ejderha mıymış?
 
-246
+244
 00:22:24,050 --> 00:22:25,070
 Evet.
 
-247
+245
 00:22:31,730 --> 00:22:34,620
 Gördüğünüz şey, Kaido'dur!
 
-248
+246
 00:22:42,090 --> 00:22:43,630
 Kaido...
 
-249
+247
 00:22:46,260 --> 00:22:49,170
 ejderhaya dönüşebiliyor!
 
-250
+248
 00:22:58,000 --> 00:23:00,190
 Okobore Kasabası orada!
 
-251
+249
 00:23:00,190 --> 00:23:05,370
 Evet. İyi de Kaido durduk yere
 niye Kuri'ye geldi ki?
 
-252
+250
 00:23:05,370 --> 00:23:07,810
 Affet, Kin'emon.
 
-253
+251
 00:23:07,810 --> 00:23:11,950
 Doğrusu Hasır Şapka-ya, Zoro-ya ile
 ben, kendimizi ele verdik.
 
-254
+252
 00:23:11,950 --> 00:23:12,950
 Ne?!
 
-255
+253
 00:23:14,000 --> 00:23:18,380
 Ama hepsi bundan ibaret,
 planımız açığa çıkmadı.
 
-256
+254
 00:23:18,380 --> 00:23:20,080
 Bundan ibaretmiş!
 
-257
+255
 00:23:20,080 --> 00:23:23,710
 Ne halt yiyorsun lan Law?
 
-258
+256
 00:23:23,710 --> 00:23:27,990
 Hasır Şapkalar ağzını hiç açmasın!
 
-259
+257
 00:23:28,800 --> 00:23:31,220
 Ha, kesin Luffy'nin halt yemesidir.
 
-260
+258
 00:23:31,220 --> 00:23:33,140
 Üzgün olduğumuzu bil yeter!
 
-261
+259
 00:23:33,140 --> 00:23:35,560
 Büyük ihtimalle...
 
-262
+260
 00:23:35,560 --> 00:23:38,350
 benimle Hasır Şapka-ya'yı arıyor.
 
-263
+261
 00:23:41,000 --> 00:23:44,100
 Kaido'nun emri altındaki
 Canavar Korsanları'nın...
 
-264
+262
 00:23:44,100 --> 00:23:48,320
 sahip olduğu emsalsiz kuvvetin
 iki temel dayanağı var.
 
-265
+263
 00:23:49,500 --> 00:23:54,280
 İlki, Kaido'nun bu ülke halkına
 imal ettirdiği silahlar!
 
-266
+264
 00:23:55,180 --> 00:24:03,000
 Diğeri ise, Doflamingo ve Caesar'ın ürettiği GÜLÜCÜK şeytan meyvelerinin yeraltı ticareti.
 
-267
+265
 00:24:04,850 --> 00:24:09,760
 Onun da yuvası olan Punk Hazard'daki
 fabrikayı yok edip...
 
-268
+266
 00:24:10,340 --> 00:24:14,100
 GÜLÜCÜK tedariki için elzem olan Caesar'ı esir aldık.
 
-269
+267
 00:24:18,850 --> 00:24:20,710
 Ayrıca,
 
-270
+268
 00:24:20,710 --> 00:24:23,480
 Kaido'nun önemli bir ticaret ortağı...
 
-271
+269
 00:24:24,100 --> 00:24:29,030
 Doflamingo'nun işlettiği Dressrosa'daki fabrikayı da yok ettik.
 
-272
+270
 00:24:29,360 --> 00:24:34,190
 Gedikli müşterisi Doflamingo'ya
 hapsi boylatarak fişini çektik.
 
-273
+271
 00:24:36,030 --> 00:24:37,390
 Özetle,
 
-274
+272
 00:24:39,020 --> 00:24:42,010
 savaşın kıvılcımını biz çaktık.
 
-275
+273
 00:24:42,010 --> 00:24:44,120
 Peşinde olduğu, başından beri...
 
-276
+274
 00:24:45,200 --> 00:24:47,410
 benimle Hasır Şapka-ya'nın kellesidir!
 
-277
+275
 00:24:51,420 --> 00:24:52,670
 Hey, Luffy!
 
-278
+276
 00:24:52,670 --> 00:24:54,650
 Luffy, bekle!
 
-279
+277
 00:24:54,650 --> 00:24:55,620
 Luffy-dono!
 
-280
+278
 00:24:55,620 --> 00:24:58,010
 Kıpırdamayın! Ben giderim!
 
-281
+279
 00:24:59,330 --> 00:25:02,560
 Birkaçımız daha açığa çıkarsa...
 
-282
+280
 00:25:02,560 --> 00:25:07,310
 Hasır Şapkalar'la Kalp Korsanları
 mürettebatının tümünün geldiğini anlarlar!
 
-283
+281
 00:25:09,420 --> 00:25:11,610
 Topyekûn peşimize düşerler!
 
-284
+282
 00:25:16,570 --> 00:25:18,930
 O yüzden kafayı kullanalım.
 
-285
+283
 00:25:18,930 --> 00:25:22,500
 Bizden başkasını görmediler.
 
-286
+284
 00:25:30,160 --> 00:25:31,960
 Planınız hâlâ güvende.
 
-287
+285
 00:25:32,890 --> 00:25:33,840
 Anlaştık mı?
 
-288
+286
 00:25:33,840 --> 00:25:36,510
 Peki siz ne yapacaksınız?
 
-289
+287
 00:25:38,840 --> 00:25:41,010
 Hiç karışmamayı yeğlerdim ama...
 
-290
+288
 00:25:42,310 --> 00:25:46,440
 Hasır Şapka-ya halkla içli dışlı oldu bile.
 
-291
+289
 00:25:55,580 --> 00:25:59,320
 Duygularına yenik düşerse
 bir çuval incir berbat olur.
 
-292
+290
 00:26:02,580 --> 00:26:07,330
 Büyük günde hep birlikte olmayacaksak
 ittifakın da bir anlamı kalmaz.
 
-293
+291
 00:26:09,530 --> 00:26:11,190
 Çaresine bakacağım.
 
-294
+292
 00:26:12,000 --> 00:26:13,100
 Oda!
 
-295
+293
 00:26:16,470 --> 00:26:19,050
 Ne pahasına olursa olsun
 kendinizi ele vermeyin!
 
-296
+294
 00:26:21,140 --> 00:26:22,640
 Değişim!
 
-297
+295
 00:26:24,100 --> 00:26:25,930
 Kaptan!
 
-298
+296
 00:26:33,620 --> 00:26:38,320
 Ulan Luffy...
 Biz yokken ne haltlar yedi ki?
 
-299
+297
 00:26:53,400 --> 00:26:56,170
 Ormana çekilin, Atama Dağı Hırsızları!
 
-300
+298
 00:26:56,170 --> 00:26:58,840
 Ona bulaşmak istemiyoruz!
 
-301
+299
 00:27:16,710 --> 00:27:19,380
 Kuri'nin dağlarında...
 
-302
+300
 00:27:19,380 --> 00:27:23,990
 kudretli bir hırsız olduğunu
 işitip duruyorum.
 
-303
+301
 00:27:23,990 --> 00:27:26,000
 Shutenmaru.
 
-304
+302
 00:27:31,250 --> 00:27:33,290
 Seni...
 
-305
+303
 00:27:33,290 --> 00:27:35,630
 hatırlıyorum.
 
-306
+304
 00:27:58,630 --> 00:28:01,480
 Ama geçmişe mazi derler!
 
-307
+305
 00:28:03,700 --> 00:28:06,870
 Emrim altına girersen...
 
-308
+306
 00:28:17,450 --> 00:28:20,970
 geçmişe sünger çekeriz!
 
-309
+307
 00:28:46,290 --> 00:28:48,280
 Öh! Leş gibi alkol kokuyor!
 
-310
+308
 00:28:48,280 --> 00:28:51,700
 Yoksa sarhoş musun, Kaido-san?!
 
-311
+309
 00:28:53,800 --> 00:28:57,280
 Dangalak! Ben sarhoş olmam!
 
-312
+310
 00:28:57,880 --> 00:28:59,630
 – Körkütük sarhoş!
 – Körkütük sarhoş!
 
-313
+311
 00:29:09,700 --> 00:29:12,730
 N'apacaksın, Shutenmaru?
 
-314
+312
 00:29:13,460 --> 00:29:17,260
 Araya mesafe koyamıyoruz!
 Kapışsak mı acaba?
 
-315
+313
 00:29:23,110 --> 00:29:26,420
 Jack-sama! Kanamayı
 durdurmaya çalışırken kımıldamayın!
 
-316
+314
 00:29:26,420 --> 00:29:30,990
 Bu kadar sarhoşken
 her an gözü dönebilir.
 
-317
+315
 00:29:30,990 --> 00:29:33,580
 Biz de uzaklaşsak iyi olur.
 
-318
+316
 00:29:33,580 --> 00:29:36,770
 Orası öyle de...
 
-319
+317
 00:29:36,770 --> 00:29:41,250
 Okobore Kasabası halkı, fabrikalardaki
 iş gücünün önemli bir kısmını oluşturuyor!
 
-320
+318
 00:29:42,350 --> 00:29:45,010
 İbretlik oluşturmak tamam da...
 
-321
+319
 00:29:45,010 --> 00:29:48,220
 bilinçsizce yakıp yıkarsa geriye ne onlardan...
 
-322
+320
 00:29:48,220 --> 00:29:50,240
 ne de Kuri'den eser kalır.
 
-323
+321
 00:29:52,440 --> 00:29:55,260
 Neden daha önce söylemedin, Kiku?
 
-324
+322
 00:29:55,260 --> 00:29:56,730
 Af buyur, Kin-sama!
 
-325
+323
 00:29:56,730 --> 00:30:00,650
 Geri dönsene, Tsuru'yu ben kurtarırım!
 
-326
+324
 00:30:00,650 --> 00:30:03,030
 Olmaz, benim de bir sorumluluğum var!
 
-327
+325
 00:30:04,710 --> 00:30:08,910
 Kendisine kol kanat gerecek biriyle
 evlenmediğine inanamıyorum!
 
-328
+326
 00:30:08,910 --> 00:30:13,740
 Ondan ayrıldığımdan bu yana
 20 yıl geçti!
 
-329
+327
 00:30:14,270 --> 00:30:16,500
 Hemen geliyorum, Tsuru!
 
-330
+328
 00:30:20,670 --> 00:30:22,960
 Sıçayım! Hâlâ çok mesafe var!
 
-331
+329
 00:30:24,780 --> 00:30:25,760
 Hasır Şapka-ya!
 
-332
+330
 00:30:25,760 --> 00:30:29,470
 Trao! Okobore Kasabası sakinleri
 zarar görmüş müdür sence?
 
-333
+331
 00:30:29,470 --> 00:30:33,390
 Beyinsiz! Görüyor musun işte?
 Korsanlar iyilik yaparsa...
 
-334
+332
 00:30:33,390 --> 00:30:35,270
 olacağı bu!
 
-335
+333
 00:30:35,270 --> 00:30:37,770
 Kaido bizi istiyor, değil mi?
 
-336
+334
 00:30:37,770 --> 00:30:38,600
 Evet!
 
-337
+335
 00:31:01,460 --> 00:31:03,170
 Başkomutan Kaido!
 
-338
+336
 00:31:04,820 --> 00:31:05,800
 O adam...
 
-339
+337
 00:31:05,800 --> 00:31:08,010
 bir öncü değil mi?
 
-340
+338
 00:31:08,010 --> 00:31:13,720
 Başkomutan'ım! Hasır Şapka Luffy'yle
 Trafalgar Law'u arıyorsanız...
 
-341
+339
 00:31:15,670 --> 00:31:19,730
 Oden Kalesi'nin kalıntılarında saklanıyorlar.
 
-342
+340
 00:31:21,620 --> 00:31:23,690
 Oden Kalesi mi?
 
-343
+341
 00:31:31,000 --> 00:31:32,820
 Hawkins!
 
-344
+342
 00:31:32,820 --> 00:31:37,700
 Hasır Şapka'yla Law'un
 Oden Kalesi'nde saklandığı doğru mu?
 
-345
+343
 00:31:38,460 --> 00:31:43,500
 Hayır, Başkomutan Kaido'nun sinirini
 yatıştırmak için yalan söyledim.
 
-346
+344
 00:31:44,880 --> 00:31:47,750
 Dahası da var ama.
 
-347
+345
 00:31:48,530 --> 00:31:51,930
 Belki de malum efsaneden dolayı
 şu günlerde...
 
-348
+346
 00:31:51,930 --> 00:31:56,510
 dağın zirvesinde şüpheli ışıklar
 gördüğünü söyleyenler var.
 
-349
+347
 00:31:56,510 --> 00:31:58,420
 Efsane mi?
 
-350
+348
 00:31:58,420 --> 00:32:00,940
 20 yıl evvel katledilen...
 
-351
+349
 00:32:00,940 --> 00:32:05,980
 Kozuki samuraylarının intikam için döneceğini anlatan efsane mi?
 
-352
+350
 00:32:05,980 --> 00:32:07,280
 Evet.
 
-353
+351
 00:32:07,280 --> 00:32:10,400
 Şogun Orochi'nin korkmasına göz yummaktansa...
 
-354
+352
 00:32:10,400 --> 00:32:15,160
 terk edilmiş kaleyi yok ederek
 bir taşla iki kuş vurabiliriz.
 
-355
+353
 00:32:22,020 --> 00:32:24,990
 Oden Kalesi mi dedin?
 
-356
+354
 00:32:34,860 --> 00:32:39,960
 Anılarım depreşti bak! Cidden iyi bir in.
 
-357
+355
 00:32:39,960 --> 00:32:42,940
 Demek oradaydılar.
 
-358
+356
 00:32:47,310 --> 00:32:50,730
 GÜLÜCÜK'ü elimden aldılar!
 
-359
+357
 00:32:50,730 --> 00:32:54,720
 Ağzına sıçtığımın yeni yetmeleri!
 
-360
+358
 00:32:56,980 --> 00:32:58,740
 Elimden kaçırmayacağım!
 
-361
+359
 00:33:03,690 --> 00:33:07,290
 Oden Kalesi'nin kalıntılarına gidiyor!
 
-362
+360
 00:33:22,990 --> 00:33:24,060
 Ha?
 
-363
+361
 00:33:27,350 --> 00:33:30,840
 Lan! Üzerimize doğru gelmiyor mu?
 
-364
+362
 00:33:30,840 --> 00:33:32,230
 – Mümkün değil!
 – Mümkün değil!
 
-365
+363
 00:33:33,820 --> 00:33:36,530
 Yoksa bizi mi fark etti?
 
-366
+364
 00:33:36,530 --> 00:33:38,200
 – Ne?
 – Ne?
 
-367
+365
 00:33:38,200 --> 00:33:39,620
 Olamaz!
 
-368
+366
 00:33:39,620 --> 00:33:42,040
 O mesafeden fark etmesi imkânsız.
 
-369
+367
 00:33:45,580 --> 00:33:46,620
 Hayır.
 
-370
+368
 00:33:48,540 --> 00:33:49,590
 Üzerimize geliyor.
 
-371
+369
 00:33:56,200 --> 00:33:57,720
 Kaçın millet!
 
-372
+370
 00:34:05,870 --> 00:34:07,940
 Kaido neden oraya gidiyor ki?
 
-373
+371
 00:34:39,720 --> 00:34:41,140
 Yoksa...
 
-374
+372
 00:34:55,690 --> 00:34:57,400
 Olamaz! Bu...
 
-375
+373
 00:35:11,870 --> 00:35:13,830
 Herkes kaçsın!
 
-376
+374
 00:35:16,820 --> 00:35:18,880
 Sıcak Nefes!
 
-377
+375
 00:35:44,490 --> 00:35:47,120
 – Kaptan!
 – Kaptan!
 
-378
+376
 00:36:51,350 --> 00:36:55,060
 Kaido!
 
-379
+377
 00:08:37,490 --> 00:08:41,910
 Shinobu
 Kıdemli Kunoichi
 
-380
+378
 00:09:57,950 --> 00:10:00,280
 Okobore
 Kasabası
 
-381
+379
 00:10:18,300 --> 00:10:19,680
 "Cennet"
 
-382
+380
 00:10:24,640 --> 00:10:30,600
 Shutenmaru
 Atama Dağı Hırsızları Lideri
 
-383
+381
 00:10:49,500 --> 00:10:52,580
 "Sake"
 
-384
+382
 00:13:44,130 --> 00:13:48,050
 Jack
 Önder, Canavar Korsanları
 
-385
+383
 00:32:50,860 --> 00:32:55,160
 "Law ile Hasır Şapka Korsan İttifakı"
+

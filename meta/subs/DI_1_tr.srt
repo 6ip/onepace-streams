@@ -1,1714 +1,1710 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,920
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:54,940 --> 00:02:00,430
 Millet! Bir gün Elbaf'a gideceğim!
 Savaşçıların köyüne!
 
-4
+2
 00:02:00,430 --> 00:02:01,890
 İşte bu! Tamamdır!
 
-5
+3
 00:02:02,330 --> 00:02:06,260
 ♪ De-De-Devler! De-Devler! ♪
 
-6
+4
 00:02:06,260 --> 00:02:10,100
 ♪ Elbaf-baf! Elbaf-baf! ♪
 
-7
+5
 00:02:10,100 --> 00:02:13,950
 ♪ Hepsi kocamanlar, çünkü onlar devler! ♪
 
-8
+6
 00:02:13,950 --> 00:02:17,500
 ♪ Kocamanlar! Kocamanlar! Kocamanlar!  ♪
 
-9
+7
 00:02:17,500 --> 00:02:19,720
 Bugün bayağı bir keyifleri yerinde...
 
-10
+8
 00:02:26,400 --> 00:02:29,650
 Bu kadar olayın üstüne,
 birden bire çok yorgun hissediyorum...
 
-11
+9
 00:02:29,650 --> 00:02:33,670
 Vivi. Benim için pusulaya
 göz kulak olabilir misin?
 
-12
+10
 00:02:33,670 --> 00:02:34,420
 Elbette.
 
-13
+11
 00:02:40,040 --> 00:02:43,260
 Hele şükür artık...
 Alabasta'ya dönebileceksin.
 
-14
+12
 00:02:43,260 --> 00:02:48,310
 Tabii, yol boyunca
 beladan uzak kalabilirsek.
 
-15
+13
 00:02:48,940 --> 00:02:52,010
 Evet. Artık dönme vakti.
 
-16
+14
 00:02:52,010 --> 00:02:54,860
 Ne de olsa, ben...
 
-17
+15
 00:02:54,860 --> 00:02:58,320
 Krallığı kurtaracabilecek
 tek kişi sizsiniz, prenses.
 
-18
+16
 00:02:58,320 --> 00:03:03,570
 Kral babanızın artık
 halkı üzerinde hükmü kalmadı.
 
-19
+17
 00:03:03,570 --> 00:03:07,740
 İsyanı bastırmanın tek yolu,
 
-20
+18
 00:03:07,740 --> 00:03:10,290
 halkın gerçeği bizzat
 sizden duymasıdır.
 
-21
+19
 00:03:11,050 --> 00:03:14,330
 Bu yüzden ne olursa olsun,
 asla ölmemelisiniz!
 
-22
+20
 00:03:14,330 --> 00:03:17,590
 Hayatta kalmanız uğruna
 en sevdiklerinizi bile feda edin,
 
-23
+21
 00:03:17,590 --> 00:03:19,700
 ya da düşmana satın!
 
-24
+22
 00:03:19,700 --> 00:03:21,130
 Dayanılmaz olacak!
 
-25
+23
 00:03:21,900 --> 00:03:25,600
 Prenses Vivi!
 Hayatta kalmaya kararlı mısınız?
 
-26
+24
 00:03:28,630 --> 00:03:31,480
 Hayatta kalacağım ve
 Alabasta'ya döneceğim.
 
-27
+25
 00:03:39,460 --> 00:03:42,490
 Kendini bu kadar zorlamana
 gerek yok, Vivi-chan.
 
-28
+26
 00:03:44,100 --> 00:03:44,990
 Ben yanındayım!
 
-29
+27
 00:03:46,360 --> 00:03:49,860
 Bugünkü tatlılar seni rahatlatacaktır.
 Biraz pötifur?
 
-30
+28
 00:03:49,860 --> 00:03:52,210
 Yanında kahve mi yoksa çay mı istersin?
 
-31
+29
 00:03:53,580 --> 00:03:54,670
 Sanji-san!
 
-32
+30
 00:03:59,510 --> 00:04:00,920
 Sizinkiler mutfakta!
 
-33
+31
 00:04:00,920 --> 00:04:03,090
 – Tamam!
 – Tamam!
 
-34
+32
 00:04:03,990 --> 00:04:05,760
 İlk ben geldim!
 
-35
+33
 00:04:06,300 --> 00:04:07,510
 2,603...
 
-36
+34
 00:04:08,600 --> 00:04:09,890
 2,604...
 
-37
+35
 00:04:10,830 --> 00:04:11,730
 2,605...
 
-38
+36
 00:04:13,330 --> 00:04:14,860
 2,606...!
 
-39
+37
 00:04:18,040 --> 00:04:21,000
 O şamdanı kesebilseydim...
 
-40
+38
 00:04:22,730 --> 00:04:25,090
 bu kadar zaman kaybetmeyecektik.
 
-41
+39
 00:04:28,130 --> 00:04:29,290
 Güçsüzüm...
 
-42
+40
 00:04:30,910 --> 00:04:33,250
 Daha da güçlenip...
 
-43
+41
 00:04:34,420 --> 00:04:38,310
 o tür şeyleri, kolaylıkla
 kesebilecek seviyeye gelmeliyim!
 
-44
+42
 00:04:46,220 --> 00:04:51,180
 Bay 2 Bon Clay-sama!
 Swanda yelken açmaya hazır!
 
-45
+43
 00:04:52,210 --> 00:04:56,270
 Anladık be! Bağırmadan konuş.
 
-46
+44
 00:04:56,270 --> 00:05:00,210
 Gerçekten, bu olan bitenin
 benimle ne ilgisi var?
 
-47
+45
 00:05:00,210 --> 00:05:03,110
 Bay 3'ten bir halt olmaz!
 Siz gidip onun işini bitirin.
 
-48
+46
 00:05:03,460 --> 00:05:04,820
 B-Bitiremeyiz!
 
-49
+47
 00:05:04,820 --> 00:05:07,530
 Hepimiz bir araya gelsek de
 hiçbir şansımız yok!
 
-50
+48
 00:05:07,530 --> 00:05:09,950
 L-Lütfen! Bu patronun emri!
 
-51
+49
 00:05:10,240 --> 00:05:12,160
 Un, deux, trois...
 
-52
+50
 00:05:13,350 --> 00:05:15,490
 Dört nasıl söyleniyordu?
 
-53
+51
 00:05:13,330 --> 00:05:17,960
 "Bon Clay"
 
-54
+52
 00:05:19,280 --> 00:05:21,880
 Sıfır-chan fazla ilgi isteyen biri.
 
-55
+53
 00:05:27,420 --> 00:05:30,330
 Vivi... Özür dilerim.
 Sanırım ben biraz...
 
-56
+54
 00:05:38,740 --> 00:05:39,740
 uzanacağım.
 
-57
+55
 00:05:41,300 --> 00:05:42,790
 Sorun değil, Nami-san!
 
-58
+56
 00:05:42,790 --> 00:05:44,620
 Rota işi bende.
 
-59
+57
 00:05:44,620 --> 00:05:46,490
 Sen biraz dinlen.
 
-60
+58
 00:05:52,310 --> 00:05:53,200
 İyi misin?!
 
-61
+59
 00:05:53,940 --> 00:05:55,580
 Millet, bir sorun var!
 
-62
+60
 00:05:57,570 --> 00:05:59,470
 Ha? Ne oldu, Vivi?
 
-63
+61
 00:05:59,470 --> 00:06:01,130
 Nami-san'ın feci ateşi var!
 
-64
+62
 00:06:01,130 --> 00:06:03,340
 Ne dedin? Nami-san'ın nesi var?
 
-65
+63
 00:06:19,810 --> 00:06:24,360
 Nami-san ölecek mi?
 Söylesene, Vivi-chan?
 
-66
+64
 00:06:33,380 --> 00:06:35,240
 Muhtemelen iklimden dolayı.
 
-67
+65
 00:06:35,240 --> 00:06:39,210
 Grand Line'a yeni girenlerin çoğu,
 bu anormal hava koşulları nedeniyle...
 
-68
+66
 00:06:39,210 --> 00:06:40,880
 rahatsızlanıyorlarmış.
 
-69
+67
 00:06:41,630 --> 00:06:48,100
 En korkulan korsanların bile bundan
 ötürü bir anda öldüğüne dair...
 
-70
+68
 00:06:48,100 --> 00:06:49,550
 pek çok hikâye anlatılır.
 
-71
+69
 00:06:50,350 --> 00:06:53,430
 Tedavi edilmezse, en hafif
 üşütme bile ölümcül olabilir.
 
-72
+70
 00:06:54,810 --> 00:06:57,060
 Nami-san!
 
-73
+71
 00:06:57,690 --> 00:07:01,480
 Herhangi birinizin tıbbi
 eğitim almışlığı var mı?
 
-74
+72
 00:07:07,200 --> 00:07:11,500
 Biraz et yerse kendini
 daha iyi hisseder, değil mi Sanji?
 
-75
+73
 00:07:12,230 --> 00:07:16,110
 Bilirsin, hastalar için birkaç
 iyi yemek düşünebilirim.
 
-76
+74
 00:07:16,110 --> 00:07:20,040
 Uzmanlığım hemşirelik değil,
 o yüzden bu çözüm olmayabilir.
 
-77
+75
 00:07:21,030 --> 00:07:23,210
 Bir de sizinkine kıyasla...
 
-78
+76
 00:07:23,980 --> 00:07:28,330
 Nami-san ve Vivi-chan'ın yemeklerine 100 kat daha çok önem veririm.
 
-79
+77
 00:07:29,390 --> 00:07:33,230
 Diyetlerine uygun olsun diye
 sadece taze et ve sebze veriyorum.
 
-80
+78
 00:07:33,230 --> 00:07:36,260
 Ve tüm çürümüş olanları
 size veriyorum.
 
-81
+79
 00:07:36,260 --> 00:07:37,210
 Lan!
 
-82
+80
 00:07:37,210 --> 00:07:39,060
 Yine de çok lezzetliler!
 
-83
+81
 00:07:40,850 --> 00:07:44,490
 Demek istediğim, bu geminin
 aşçısı ben olduğum sürece...
 
-84
+82
 00:07:44,490 --> 00:07:48,530
 dengeli besleneceğinizi garanti ederim.
 
-85
+83
 00:07:49,190 --> 00:07:53,200
 Lakin, hastalar spesifik
 yemeklere ihtiyaç duyar.
 
-86
+84
 00:07:53,760 --> 00:07:56,270
 Neye ihtiyacı var,
 ve hangi semptomlar için?
 
-87
+85
 00:07:56,270 --> 00:07:58,370
 Bu kararı ben veremem.
 
-88
+86
 00:07:58,620 --> 00:08:01,000
 O zaman ona her şeyi yedir!
 
-89
+87
 00:08:01,290 --> 00:08:05,460
 Aşırıya kaçmak onu daha da hasta eder.
 
-90
+88
 00:08:07,280 --> 00:08:10,050
 40° mi? Ateşi giderek artıyor!
 
-91
+89
 00:08:10,770 --> 00:08:13,660
 Alabasta'da doktorlar var, değil mi?
 
-92
+90
 00:08:13,660 --> 00:08:15,260
 Ne kadar kaldı, Vivi?
 
-93
+91
 00:08:16,530 --> 00:08:20,020
 Yaklaşık bir hafta var ama
 o zamana kadar çok geç olur.
 
-94
+92
 00:08:20,650 --> 00:08:22,690
 Hasta olmak bu kadar kötü bir şey mi?
 
-95
+93
 00:08:22,690 --> 00:08:25,400
 Bilmem. Hiç hasta olmadım.
 
-96
+94
 00:08:25,400 --> 00:08:28,020
 Siz nesiniz lan böyle?!
 
-97
+95
 00:08:28,770 --> 00:08:30,250
 Elbette kötü!
 
-98
+96
 00:08:30,250 --> 00:08:33,490
 40° ateş normal bir şey değil!
 
-99
+97
 00:08:33,740 --> 00:08:37,200
 Hayatı tehlikede olabilir.
 
-100
+98
 00:08:38,410 --> 00:08:44,100
 – Nami ölecek mi?!
 – Sakın ölme, Nami-san!
 
-101
+99
 00:08:44,100 --> 00:08:45,880
 Sakinleşin! Sessiz olun!
 
-102
+100
 00:08:45,880 --> 00:08:49,460
 Nami için hemen
 bir doktor bulalım!
 
-103
+101
 00:08:50,180 --> 00:08:52,060
 Tamam da önce bi' sakinleşin!
 
-104
+102
 00:08:52,060 --> 00:08:53,600
 Gürültü ona iyi gelmez!
 
-105
+103
 00:08:53,600 --> 00:08:54,550
 Boş verin...
 
-106
+104
 00:08:57,600 --> 00:08:58,510
 Durun...
 
-107
+105
 00:09:00,010 --> 00:09:01,110
 Nami-san?
 
-108
+106
 00:09:01,110 --> 00:09:02,770
 Oh! İyileşti!
 
-109
+107
 00:09:02,770 --> 00:09:03,520
 Saçmalama!
 
-110
+108
 00:09:05,570 --> 00:09:09,860
 Çalışma masamın çekmecesinde...
 gazete vardı...
 
-111
+109
 00:09:14,640 --> 00:09:17,410
 Rotamızda sapma yok.
 
-112
+110
 00:09:18,190 --> 00:09:20,120
 H-Hayır!
 
-113
+111
 00:09:20,120 --> 00:09:21,990
 Olamaz!
 
-114
+112
 00:09:21,990 --> 00:09:24,000
 Hey. Ne oluyor?
 
-115
+113
 00:09:24,000 --> 00:09:26,210
 Alabasta hakkında mı, Vivi-chan?
 
-116
+114
 00:09:26,960 --> 00:09:31,550
 300 bin asker, kraliyet ordusundan
 ayrılıp isyancılara katılmış.
 
-117
+115
 00:09:34,130 --> 00:09:37,580
 Olay, 600 bin Kraliyet Ordusu askeri ile...
 
-118
+116
 00:09:37,580 --> 00:09:41,340
 400 bin isyancı arasında geçen
 bir soğuk savaş olarak başladı.
 
-119
+117
 00:09:41,340 --> 00:09:43,220
 Şimdi her şey değişti!
 
-120
+118
 00:09:45,020 --> 00:09:49,160
 Alabasta'daki şiddet daha da artacak.
 
-121
+119
 00:09:49,530 --> 00:09:51,570
 Bu gazete 3 gün öncesinin.
 
-122
+120
 00:09:52,500 --> 00:09:56,890
 Üzgünüm. En fazla
 bu kadar hızla gidebiliyoruz.
 
-123
+121
 00:09:56,890 --> 00:09:59,030
 Endişelenme diye sana göstermedim.
 
-124
+122
 00:09:59,830 --> 00:10:01,530
 Durumu kavradın mı, Luffy?
 
-125
+123
 00:10:02,920 --> 00:10:05,180
 Olaylar bayağı kötü gibi.
 
-126
+124
 00:10:05,180 --> 00:10:07,140
 Vay, hemen kavramışsın.
 
-127
+125
 00:10:07,140 --> 00:10:09,500
 Yine de bir doktora görünmen gerek!
 
-128
+126
 00:10:09,920 --> 00:10:12,840
 Ben iyiyim...
 Ateş ölçer bozulmuş olmalı...
 
-129
+127
 00:10:12,840 --> 00:10:15,390
 Kimsenin ateşi 40°'yi görmez.
 
-130
+128
 00:10:16,090 --> 00:10:18,010
 Muhtemelen güneş çarpması.
 
-131
+129
 00:10:18,530 --> 00:10:21,190
 Doktora gerek yok, kendim toparlarım.
 
-132
+130
 00:10:22,110 --> 00:10:25,350
 Şimdilik, planladığımız gibi
 Alabasta'ya yol alalım!
 
-133
+131
 00:10:27,490 --> 00:10:29,690
 İlginize minnettarım.
 
-134
+132
 00:10:35,850 --> 00:10:37,750
 Oh! Şimdi iyileşti mi?
 
-135
+133
 00:10:38,450 --> 00:10:39,990
 Sersem. Numara yapıyor.
 
-136
+134
 00:10:50,940 --> 00:10:55,960
 Bir şey yapmazsam, krallık
 kanlı bir savaşın içine çekilecek.
 
-137
+135
 00:10:56,440 --> 00:11:00,570
 Engel olamazsam,
 Alabasta Krallığı tamamen yok olacak.
 
-138
+136
 00:11:01,570 --> 00:11:03,930
 Crocodile kontrolü ele geçirecek!
 
-139
+137
 00:11:04,480 --> 00:11:07,770
 Sağ salim eve dönmek yetmez!
 
-140
+138
 00:11:07,770 --> 00:11:09,390
 Zamanında yetişmeliyim!
 
-141
+139
 00:11:10,270 --> 00:11:14,920
 Bir anlık gecikme, bir milyon insanın
 akılsızca birbirini öldürmesiyle sonuçlanır!
 
-142
+140
 00:11:14,920 --> 00:11:17,530
 Bir milyon insan mı?!
 
-143
+141
 00:11:17,530 --> 00:11:20,990
 Omuzlarında taşıdığın yük
 çok büyük, Vivi-chan.
 
-144
+142
 00:11:34,880 --> 00:11:37,840
 Hadi ama! Şu işi becer bari!
 
-145
+143
 00:11:37,840 --> 00:11:40,830
 Ne diyorsun?
 Gemi dümdüz gidiyor işte.
 
-146
+144
 00:11:40,830 --> 00:11:42,770
 Evet, belli bir açıyla dümdüz!
 
-147
+145
 00:11:43,420 --> 00:11:45,240
 Gözün ibrede olmalı!
 
-148
+146
 00:11:45,240 --> 00:11:48,930
 Neden uğraşayım ki?
 Şuradaki koca bulutu izliyorum ya işte.
 
-149
+147
 00:11:48,930 --> 00:11:51,390
 Bulutlar yön ve şekil değiştirir!
 
-150
+148
 00:11:52,120 --> 00:11:54,450
 Ooof, başım beni öldürüyor...
 
-151
+149
 00:11:54,450 --> 00:11:57,070
 O halde bunu bana bırak
 ve yatağa git!
 
-152
+150
 00:11:57,070 --> 00:12:00,010
 Buradayım çünkü,
 bu konuda sana güvenemiyorum.
 
-153
+151
 00:12:02,070 --> 00:12:03,820
 Hava biraz değişik.
 
-154
+152
 00:12:03,820 --> 00:12:07,090
 Hava mı? Hep böyle güzeldi.
 
-155
+153
 00:12:07,090 --> 00:12:09,290
 Neyse, boş ver! Diğerlerini çağır!
 
-156
+154
 00:12:09,290 --> 00:12:12,000
 Hey millet, toplanın!
 Yapacak işlerimiz var!
 
-157
+155
 00:12:12,690 --> 00:12:14,080
 N'oldu?
 
-158
+156
 00:12:15,280 --> 00:12:19,170
 Ha? Emirleri sen verince
 motive olmak epey güç.
 
-159
+157
 00:12:19,680 --> 00:12:21,320
 Kapa çeneni ve devam et!
 
-160
+158
 00:12:21,320 --> 00:12:23,630
 Yelkenleri açıp
 rüzgârı iskeleden yakalayın!
 
-161
+159
 00:12:24,010 --> 00:12:25,760
 Her şey yolunda mı, Nami-san?
 
-162
+160
 00:12:25,760 --> 00:12:27,850
 Dalgalar sessiz ve hava güzel.
 
-163
+161
 00:12:29,480 --> 00:12:30,640
 Rüzgâr...
 
-164
+162
 00:12:31,660 --> 00:12:32,690
 Rüzgâr mı?
 
-165
+163
 00:12:32,690 --> 00:12:36,450
 Rüzgâr az ileride iyice hızlanıyor
 ve doğrudan üzerimize geliyor.
 
-166
+164
 00:12:36,450 --> 00:12:37,900
 Sanıyorum–
 
-167
+165
 00:12:37,900 --> 00:12:38,870
 Ne?
 
-168
+166
 00:12:39,790 --> 00:12:40,690
 Sıcak!!
 
-169
+167
 00:12:40,690 --> 00:12:43,820
 Resmen yanıyorsun! Sana bir doktor
 bulana kadar içeride kal!
 
-170
+168
 00:12:43,820 --> 00:12:45,520
 Kendi işine bak!
 
-171
+169
 00:12:45,520 --> 00:12:47,340
 Bu benim normal hâlim!
 
-172
+170
 00:12:47,340 --> 00:12:49,080
 Aptallığı bırakıp halat çek!
 
-173
+171
 00:12:49,080 --> 00:12:55,420
 Nami-san, Vivi-chan için iyi niyetini
 anlıyorum ama kendi çok zorlarsan...
 
-174
+172
 00:12:55,840 --> 00:12:57,630
 Size söyledim ya, iyiyim!
 
-175
+173
 00:13:02,920 --> 00:13:05,300
 Hadi, Nami! Gerçekten de biraz–
 
-176
+174
 00:13:05,510 --> 00:13:07,800
 Acele edin ve gemiyi döndürün!
 
-177
+175
 00:13:15,590 --> 00:13:16,400
 Ama...
 
-178
+176
 00:13:17,670 --> 00:13:19,100
 O da ne ki?
 
-179
+177
 00:13:19,910 --> 00:13:22,900
 Fırtınadan biraz farklı gibi duruyor.
 
-180
+178
 00:13:49,770 --> 00:13:52,450
 Acele edip, Alabasta'ya dönmeliyim.
 
-181
+179
 00:13:56,780 --> 00:13:58,150
 Bir ricam olacak!
 
-182
+180
 00:14:00,070 --> 00:14:04,010
 Geminizde bir misafir olarak,
 bunu istemeye hakkım yok biliyorum...
 
-183
+181
 00:14:04,010 --> 00:14:07,400
 lakin ülkem felaketin eşiğinde.
 
-184
+182
 00:14:07,400 --> 00:14:09,160
 Bu yüzden hızlanmalıyız!
 
-185
+183
 00:14:09,490 --> 00:14:11,610
 Tek bir dakika bile harcayamayız!
 
-186
+184
 00:14:11,610 --> 00:14:15,960
 En yüksek hızda doğruca
 Alabasta'ya gitmenizi istiyorum.
 
-187
+185
 00:14:17,560 --> 00:14:20,000
 Elbette!
 Söz verdiğimiz gibi!
 
-188
+186
 00:14:23,880 --> 00:14:27,590
 Öyleyse hemen doktor
 bulabileceğimiz bir ada bulalım!
 
-189
+187
 00:14:27,590 --> 00:14:32,730
 Nami-san'ı ne kadar hızlı iyileştirirsek,
 Alabasta'ya o kadar çabuk varırız!
 
-190
+188
 00:14:32,730 --> 00:14:35,140
 Bu, aldığımız en yüksek hız, değil mi?!
 
-191
+189
 00:14:35,950 --> 00:14:38,640
 Evet! Bundan daha hızlı gidemeyiz!
 
-192
+190
 00:14:39,310 --> 00:14:40,570
 Emin misin?
 
-193
+191
 00:14:40,570 --> 00:14:44,530
 Bir prenses olarak, halkını
 daha çok düşünmen gerekmez mi?
 
-194
+192
 00:14:45,310 --> 00:14:48,950
 Kesinlikle! Bu yüzden Nami-san'ı
 çabucak iyileştirmeliyiz!
 
-195
+193
 00:14:49,630 --> 00:14:51,410
 İyi dedin, Vivi-chan!
 
-196
+194
 00:14:51,410 --> 00:14:52,910
 Sana yeniden tutuldum!
 
-197
+195
 00:14:53,660 --> 00:14:54,950
 Çok cesursun.
 
-198
+196
 00:14:55,740 --> 00:14:57,260
 Teşekkürler...
 
-199
+197
 00:14:57,260 --> 00:14:59,720
 Kendini fazla yorma, Nami-san!
 
-200
+198
 00:15:02,830 --> 00:15:06,060
 Üzgünüm, Vivi. Bilirsin işte...
 
-201
+199
 00:15:06,060 --> 00:15:07,410
 Biraz... sıkıntıdayım.
 
-202
+200
 00:15:07,410 --> 00:15:08,670
 Nami-san! Dayan!
 
-203
+201
 00:15:09,100 --> 00:15:10,930
 Bu lanet şey neee?!
 
-204
+202
 00:15:12,690 --> 00:15:14,300
 Bu bir kasırga!
 
-205
+203
 00:15:14,300 --> 00:15:15,220
 Kocaman!
 
-206
+204
 00:15:15,220 --> 00:15:18,380
 B-Bekle! Bize doğru–
 
-207
+205
 00:15:18,380 --> 00:15:21,360
 Gemimiz tam da o istikametteydi!
 
-208
+206
 00:15:21,360 --> 00:15:24,690
 O yönde devam etseydik,
 doğrudan içine dalacaktık!
 
-209
+207
 00:15:33,780 --> 00:15:37,330
 Oha! Son anda yırttık!
 
-210
+208
 00:15:38,060 --> 00:15:39,220
 İnanılmaz!
 
-211
+209
 00:15:39,220 --> 00:15:43,080
 Grand Line'daki kasırgaların
 ansızın olduğu söylenir.
 
-212
+210
 00:15:43,080 --> 00:15:44,040
 Ama, o...
 
-213
+211
 00:15:45,120 --> 00:15:48,470
 havayı mevcut teorilere
 dayanarak tahmin etmedi.
 
-214
+212
 00:15:48,470 --> 00:15:51,510
 Adeta bedeniyle
 hava durumunu algıladı.
 
-215
+213
 00:15:51,510 --> 00:15:54,470
 İnanılmaz bir rotacı!
 
-216
+214
 00:15:55,320 --> 00:15:57,430
 Tamam! O zaman acele edelim!
 
-217
+215
 00:15:58,500 --> 00:16:00,570
 Gidip bir doktor bulalım!
 
-218
+216
 00:16:00,570 --> 00:16:01,640
 Evet!
 
-219
+217
 00:16:20,500 --> 00:16:24,520
 Ne yapalım, Vivi-chan?!
 Nami-san'ın ateşi düşmüyor!
 
-220
+218
 00:16:24,520 --> 00:16:27,130
 Sanji-san! Karoo!
 Size sakin olun dedim!
 
-221
+219
 00:16:34,420 --> 00:16:36,030
 Doktor görüyor musun?!
 
-222
+220
 00:16:36,030 --> 00:16:37,640
 Nasıl görsün, seni aptal?
 
-223
+221
 00:16:42,110 --> 00:16:45,270
 Hey millet, denizin
 üstünde insan durabilir mi?
 
-224
+222
 00:16:45,270 --> 00:16:47,870
 Denizin üstünde derken?
 
-225
+223
 00:16:47,870 --> 00:16:50,230
 Hadi ama, Zoro.
 Bilmece falan mı soruyorsun?
 
-226
+224
 00:16:50,950 --> 00:16:53,570
 Öyleyse... o ne?
 
-227
+225
 00:16:53,570 --> 00:16:55,270
 Neden bahsediyorsun?
 
-228
+226
 00:16:55,270 --> 00:16:56,410
 Ha?
 
-229
+227
 00:17:17,550 --> 00:17:20,390
 Selam. Bugün harbiden serin.
 
-230
+228
 00:17:22,020 --> 00:17:23,310
 Evet! Cidden serin.
 
-231
+229
 00:17:23,310 --> 00:17:26,600
 E-Evet! Serin, serin!
 Bugün gerçekten serin.
 
-232
+230
 00:17:27,470 --> 00:17:28,150
 Öyle mi?
 
-233
+231
 00:17:33,030 --> 00:17:34,280
 Yüzeye çıkın!
 
-234
+232
 00:17:34,280 --> 00:17:35,280
 Başüstüne!
 
-235
+233
 00:17:41,940 --> 00:17:43,620
 Bu da ne? Karpuz mu?
 
-236
+234
 00:17:43,620 --> 00:17:45,160
 Neden sallanıyoruz?!
 
-237
+235
 00:17:45,160 --> 00:17:49,880
 Dümeni sabitleyin! Nami-san'a bir şey
 olursa sizi paramparça ederim!
 
-238
+236
 00:17:53,670 --> 00:17:57,180
 Yoksa bu... gemi mi?!
 
-239
+237
 00:18:19,280 --> 00:18:22,410
 Hassiktir! K-Korsan gemisi!
 
-240
+238
 00:18:23,340 --> 00:18:24,290
 S-Süper!
 
-241
+239
 00:18:25,170 --> 00:18:27,000
 Tam da acelemiz varken...
 
-242
+240
 00:18:30,270 --> 00:18:36,250
 Şaşırdınız mı?! Bu bizim dev
 denizaltı baskın gemimiz, Bliking!
 
-243
+241
 00:18:40,890 --> 00:18:42,760
 Vivi-chan! Burası sende!
 
-244
+242
 00:18:42,760 --> 00:18:43,510
 Tamam!
 
-245
+243
 00:18:44,770 --> 00:18:46,560
 Hey! Neler oluyor?!
 
-246
+244
 00:19:00,250 --> 00:19:02,870
 Ee? Söyleyin bakalım?
 
-247
+245
 00:19:03,250 --> 00:19:05,580
 Gemi saldırı altında.
 
-248
+246
 00:19:10,390 --> 00:19:15,670
 Evet, duruma bakarak
 bunu anlamıştım zaten.
 
-249
+247
 00:19:17,300 --> 00:19:21,930
 Sizler cidden korsan mısınız?
 Çok garip.
 
-250
+248
 00:19:21,930 --> 00:19:24,180
 Sadece dört kişi misiniz?
 
-251
+249
 00:19:26,550 --> 00:19:28,460
 Bir korsan tayfasının sadece...
 
-252
+250
 00:19:28,460 --> 00:19:31,310
 dört kişiden oluştuğuna inanamıyorum.
 
-253
+251
 00:19:35,600 --> 00:19:38,990
 Bu eleman da ne böyle?! Bıçağı yedi!
 
-254
+252
 00:19:40,620 --> 00:19:42,360
 İzlemek bile canımı yakıyor!
 
-255
+253
 00:19:43,940 --> 00:19:46,390
 Boş verin. Bir sorum var.
 
-256
+254
 00:19:47,480 --> 00:19:50,670
 Drum Krallığı'na gitmek istiyoruz.
 
-257
+255
 00:19:50,670 --> 00:19:53,230
 Daimi ya da
 seyir pusulanız var mı?
 
-258
+256
 00:19:54,650 --> 00:19:59,170
 Yok. Orayı hiç duymadık.
 
-259
+257
 00:19:59,170 --> 00:20:02,230
 Hey, hepsi bu kadarsa çek git artık!
 
-260
+258
 00:20:02,230 --> 00:20:03,860
 Acelemiz var!
 
-261
+259
 00:20:03,860 --> 00:20:06,440
 Sizinle uğraşacak vaktimiz yok!
 
-262
+260
 00:20:08,490 --> 00:20:10,450
 Bu kadar aceleci olma.
 
-263
+261
 00:20:10,450 --> 00:20:12,380
 Demek sizde yok, pekâlâ.
 
-264
+262
 00:20:12,380 --> 00:20:15,150
 Bu durumda, hazinenize
 ve geminize el koyuyorum.
 
-265
+263
 00:20:15,150 --> 00:20:16,020
 Ne?!
 
-266
+264
 00:20:16,020 --> 00:20:19,690
 Ama ondan önce, hâlâ biraz açım!
 
-267
+265
 00:20:24,780 --> 00:20:26,700
 Bu herif de ne lan?!
 
-268
+266
 00:20:26,700 --> 00:20:28,500
 Gemimizi yemeyi bırak!
 
-269
+267
 00:20:28,500 --> 00:20:29,580
 Kıpırdama!
 
-270
+268
 00:20:29,580 --> 00:20:31,600
 Yüce Wapol-sama
 şu anda yemek yiyor!
 
-271
+269
 00:20:31,600 --> 00:20:32,410
 Kapa' çeneni!
 
-272
+270
 00:20:32,410 --> 00:20:35,130
 Seni şerefsiz! Ateş açın!
 
-273
+271
 00:20:36,660 --> 00:20:39,340
 En başından beri bunu yapmalıydık.
 
-274
+272
 00:20:39,590 --> 00:20:41,800
 Oh? Sonunda başlayabilir miyiz?
 
-275
+273
 00:20:41,800 --> 00:20:43,760
 Bekleyin, bunu konuşabiliriz!
 
-276
+274
 00:20:49,680 --> 00:20:52,390
 Ne yaptıklarına bak.
 
-277
+275
 00:20:52,390 --> 00:20:54,690
 Ölümlerine koşan aptallar!
 
-278
+276
 00:20:54,690 --> 00:20:55,730
 Silah sesi mi?!
 
-279
+277
 00:20:56,420 --> 00:20:59,730
 Karoo! Nami-san'a göz kulak ol!
 Hemen dönerim!
 
-280
+278
 00:21:02,340 --> 00:21:04,650
 Büyük lokma yemeyi bırakmalısınız!
 
-281
+279
 00:21:04,820 --> 00:21:05,910
 Resepsiyon!
 
-282
+280
 00:21:30,150 --> 00:21:31,220
 Sadece havlıyorlar.
 
-283
+281
 00:21:32,320 --> 00:21:33,930
 Y-Yüce Wapol-sama! Bunlar...!
 
-284
+282
 00:21:36,440 --> 00:21:37,670
 Hâlâ yiyiyor mu?!
 
-285
+283
 00:21:37,670 --> 00:21:39,590
 Geminin tadı o kadar da fena değil.
 
-286
+284
 00:21:39,590 --> 00:21:40,570
 Hey, sen!
 
-287
+285
 00:21:40,570 --> 00:21:42,800
 Ahmak! 
 Yüce Wapol-sama'ya denk olamazsın!
 
-288
+286
 00:21:42,800 --> 00:21:45,450
 Onun Yeme-Yeme Meyvesi'nin gücü
 seni tek hamlede yutar!
 
-289
+287
 00:21:45,450 --> 00:21:46,320
 Luffy!
 
-290
+288
 00:21:48,710 --> 00:21:49,490
 B-Bu ne?!
 
-291
+289
 00:21:50,260 --> 00:21:52,960
 Hey, Vivi-chan. 
 Nami-san iyi mi?
 
-292
+290
 00:21:52,960 --> 00:21:53,500
 Ha?
 
-293
+291
 00:21:57,240 --> 00:21:59,460
 Bu herifi çiğnemesi epey zor!
 
-294
+292
 00:22:00,630 --> 00:22:02,670
 Ulan!
 
-295
+293
 00:22:03,710 --> 00:22:05,020
 Uç bakalım!
 
-296
+294
 00:22:09,640 --> 00:22:11,520
 Wapol-sama?
 
-297
+295
 00:22:13,980 --> 00:22:17,310
 Hey, bu çok kötü oldu!
 Yüce Wapol-sama'yı uçurdu!
 
-298
+296
 00:22:17,310 --> 00:22:21,570
 Bu felaket!
 Yüce Wapol-sama yüzemez!
 
-299
+297
 00:22:21,570 --> 00:22:28,780
 Eğer onu batmadan kurtaramazsak,
 boğulup öleceği kesin!
 
-300
+298
 00:22:29,030 --> 00:22:30,640
 Bu burada kalmaz!
 
-301
+299
 00:22:30,640 --> 00:22:32,450
 Bunu size ödeteceğiz!
 
-302
+300
 00:22:32,450 --> 00:22:34,540
 Bizi unutmayın!
 
-303
+301
 00:22:34,540 --> 00:22:36,560
 Bunu ödeyeceksiniz!
 
-304
+302
 00:22:36,560 --> 00:22:41,030
 Lütfen, bizi unutmayın! Lütfen!
 
-305
+303
 00:22:45,600 --> 00:22:49,350
 A-Az önce biz ne yaşadık?
 
-306
+304
 00:22:49,350 --> 00:22:51,660
 Sanırım ona Wapol diyorlardı?
 
-307
+305
 00:22:51,660 --> 00:22:54,370
 Mühim değil. Sallayın gitsin.
 
-308
+306
 00:22:54,370 --> 00:22:56,020
 Sadece bir aptal.
 
-309
+307
 00:22:56,020 --> 00:22:57,810
 Tüm olanları unutalım.
 
-310
+308
 00:23:05,250 --> 00:23:08,080
 Onu daha önce nerede görmüştüm?
 
-311
+309
 00:23:17,790 --> 00:23:22,450
 Üzerine su döksek, ateşi düşmez mi?
 
-312
+310
 00:23:22,450 --> 00:23:23,700
 Seni salak!
 
-313
+311
 00:23:24,460 --> 00:23:27,460
 Bu hiç iyi değil.
 Güneş batmak üzere, Vivi-chan.
 
-314
+312
 00:23:27,460 --> 00:23:29,280
 Evet... Haklısın.
 
-315
+313
 00:23:29,280 --> 00:23:31,670
 Bir yerlere demir atalım.
 
-316
+314
 00:23:31,670 --> 00:23:35,010
 Nami-san'ın seyir bilgisi olmadan
 gece denizde ilerleyemeyiz.
 
-317
+315
 00:23:35,010 --> 00:23:36,560
 Doğru.
 
-318
+316
 00:24:05,900 --> 00:24:07,960
 Çok soğuk.
 
-319
+317
 00:24:11,950 --> 00:24:14,400
 Birazdan dolunay olacak.
 
-320
+318
 00:24:27,780 --> 00:24:30,120
 Tüh, uyuyakalmışım!
 
-321
+319
 00:24:31,270 --> 00:24:32,990
 Erkencisin, Usopp!
 
-322
+320
 00:24:32,990 --> 00:24:35,200
 Hiçbir şey yapmadan öylece yatamam!
 
-323
+321
 00:24:35,200 --> 00:24:38,620
 Buradan olabildiğince çabuk çıkmalıyız.
 
-324
+322
 00:24:38,930 --> 00:24:41,500
 Evet. İyi dedin.
 
-325
+323
 00:24:48,130 --> 00:24:52,970
 Sence, bu bölge tuhaf bir şekilde
 soğuk ve durgun değil mi?
 
-326
+324
 00:24:53,330 --> 00:24:56,570
 Evet, aniden gelen
 tuhaf bir durgunluk...
 
-327
+325
 00:24:56,570 --> 00:25:00,970
 Sanırım bu da Grand Line'nın
 dengesizliklerden biri.
 
-328
+326
 00:25:00,970 --> 00:25:03,390
 Aslında tam olarak öyle değil.
 
-329
+327
 00:25:03,690 --> 00:25:06,150
 Bu, yakında ada olduğuna dair bir işaret.
 
-330
+328
 00:25:06,150 --> 00:25:08,860
 Sanji-san, dikkatlice
 ufuğu gözlemleyebilir misin?
 
-331
+329
 00:25:09,360 --> 00:25:10,360
 Vivi-chan?
 
-332
+330
 00:25:11,630 --> 00:25:14,270
 Yakınlarda bir kış adası var.
 Bundan eminim.
 
-333
+331
 00:25:14,270 --> 00:25:15,450
 – Kış adası mı?
 – Ah!
 
-334
+332
 00:25:16,120 --> 00:25:20,950
 İklimsel açıdan Grand Line'daki
 adalar dörde ayrılır.
 
-335
+333
 00:25:21,760 --> 00:25:26,150
 Yaz adaları, ilkbahar adaları,
 sonbahar adaları ve kış adaları.
 
-336
+334
 00:25:26,150 --> 00:25:29,600
 Adaların her biri
 genellikle dört mevsime sahiptir.
 
-337
+335
 00:25:30,300 --> 00:25:35,060
 Grand Line'da tamı tamına
 on altı farklı mevsimle uğraşırsın.
 
-338
+336
 00:25:35,060 --> 00:25:40,680
 Yaz adalarının yazları,
 kış adalarının da kışları vardır.
 
-339
+337
 00:25:41,910 --> 00:25:47,060
 Elbette bilinmeyen iklimler
 gibi istisnalar da var.
 
-340
+338
 00:25:47,060 --> 00:25:48,520
 Anlıyorum.
 
-341
+339
 00:25:48,520 --> 00:25:52,170
 Grand Line, çeşitli adaların zincir
 gibi sıralandığı bir bölge,
 
-342
+340
 00:25:52,170 --> 00:25:56,480
 ve aralarındaki denizlerde
 hava koşulları olumsuz etkilenir.
 
-343
+341
 00:25:56,480 --> 00:25:57,660
 Kesinlikle.
 
-344
+342
 00:25:57,660 --> 00:26:03,330
 Yani hava düzeldiğinde bilin ki
 bir adanın civarındasınız.
 
-345
+343
 00:26:03,830 --> 00:26:06,410
 Haklısın! İşte orada!
 
-346
+344
 00:26:09,990 --> 00:26:12,220
 Bir ada göründü!
 
-347
+345
 00:26:14,350 --> 00:26:15,550
 Ada mı?!
 
-348
+346
 00:26:15,930 --> 00:26:18,380
 Oh! Bir ada! Bir ada bulduk!
 
-349
+347
 00:26:18,380 --> 00:26:22,640
 Hey Nami! Haberler iyi!
 Bir ada bulduk! İyi olacaksın!
 
-350
+348
 00:26:22,640 --> 00:26:25,130
 Ada göründü! Ada! Ada!
 
-351
+349
 00:26:25,130 --> 00:26:31,080
 Ada! Ada! Ada! Ada!
 
-352
+350
 00:26:31,080 --> 00:26:33,160
 Git bi' bak hadi. Ben burdayım.
 
-353
+351
 00:26:31,080 --> 00:26:33,160
 Ada! Ada!
 
-354
+352
 00:26:38,280 --> 00:26:40,820
 Ada!
 
-355
+353
 00:26:41,120 --> 00:26:45,120
 Beyaz! Bembeyaz! 
 Kar olmalı! Bir kar adası, ha?!
 
-356
+354
 00:26:45,120 --> 00:26:49,440
 Hey, Luffy! Küçük bir hatırlatma,
 macera aramanın sırası değil.
 
-357
+355
 00:26:49,440 --> 00:26:51,290
 Doktor bulmak önceliğimiz.
 
-358
+356
 00:26:51,290 --> 00:26:53,810
 Nami-san muayene edilir
 edilmez yola çıkıyoruz!
 
-359
+357
 00:26:53,810 --> 00:26:55,410
 Hey! Hey, Luffy!
 
-360
+358
 00:26:56,160 --> 00:26:59,510
 Kar müthiş ve beyaz!
 
-361
+359
 00:26:59,850 --> 00:27:01,440
 Boşuna, dinlemiyor bile.
 
-362
+360
 00:27:01,440 --> 00:27:04,060
 D-D-Durun! Bu iyi bir fikir mi?!
 
-363
+361
 00:27:04,060 --> 00:27:07,150
 Kar olan yerde
 kar canavarı da olur, değil mi?!
 
-364
+362
 00:27:07,150 --> 00:27:10,060
 Hem orada insan var mı
 onu da bilmiyoruz! Hay aksi!
 
-365
+363
 00:27:10,060 --> 00:27:12,440
 Kronik adaya-çıkamama hastalığım nüksetti!
 
-366
+364
 00:27:12,440 --> 00:27:16,240
 Kar! Karı çok severim! Bembeyaz!
 
-367
+365
 00:27:16,240 --> 00:27:18,440
 İniş hazırlığına girişeyim en iyisi.
 
-368
+366
 00:27:46,480 --> 00:27:49,840
 Bütün o kar! Saf mutluluk!
 
-369
+367
 00:27:50,510 --> 00:27:53,440
 Bu yer çok acayip...
 Şu dağlara da bakın hele!
 
-370
+368
 00:27:54,410 --> 00:27:57,830
 Luffy söylesene,
 o kıyafetle üşümüyor musun?
 
-371
+369
 00:27:57,830 --> 00:28:00,210
 Hava şu an -10°!
 
-372
+370
 00:28:00,210 --> 00:28:02,450
 Bu havada ayılar kış uykusuna yatıyor!
 
-373
+371
 00:28:02,870 --> 00:28:04,220
 Ha? Oh.
 
-374
+372
 00:28:05,730 --> 00:28:06,580
 Çok soğuk!
 
-375
+373
 00:28:06,580 --> 00:28:08,660
 Yeni mi fark ettin?
 
-376
+374
 00:28:13,210 --> 00:28:15,800
 Eriyen kardan oluşan bir şelale.
 
-377
+375
 00:28:15,800 --> 00:28:17,810
 Burada demir atabiliriz.
 
-378
+376
 00:28:18,340 --> 00:28:22,970
 Ee, kim doktor avına çıkıyor?
 Tabii önce insan bulalım.
 
-379
+377
 00:28:23,540 --> 00:28:24,300
 Ben!
 
-380
+378
 00:28:24,300 --> 00:28:25,220
 Ben de!
 
-381
+379
 00:28:25,220 --> 00:28:26,600
 Peki! İyi eğlenceler!
 
-382
+380
 00:28:26,600 --> 00:28:28,810
 Daha fazla yaklaşmayın, korsanlar!
 
-383
+381
 00:28:43,780 --> 00:28:46,290
 Hey, insanlar var.
 
-384
+382
 00:28:46,290 --> 00:28:49,700
 Ama... pek dost canlısı görünmüyorlar.
 
-385
+383
 00:28:51,180 --> 00:28:53,160
 Korsanların dikkatine!
 
-386
+384
 00:28:53,160 --> 00:28:56,500
 Geri dönün ve hemen buradan defolun!
 
-387
+385
 00:28:56,500 --> 00:28:58,980
 Doktor bulmaya geldik.
 
-388
+386
 00:28:58,980 --> 00:29:00,470
 Gemide hasta biri var!
 
-389
+387
 00:29:00,470 --> 00:29:03,680
 Pis numaralarınıza kanmayız,
 sizi şerefsiz korsanlar!
 
-390
+388
 00:29:04,070 --> 00:29:08,420
 Burası bizim adamız,
 her türlü korsanın girişi yasaktır!
 
-391
+389
 00:29:08,420 --> 00:29:12,890
 Demir alıp defolun,
 yoksa geminizi paramparça ederiz!
 
-392
+390
 00:29:14,320 --> 00:29:17,810
 Daha yeni tanışmamıza rağmen
 bize fena kıl oldular.
 
-393
+391
 00:29:17,810 --> 00:29:19,020
 Konuşmayın!
 
-394
+392
 00:29:19,440 --> 00:29:20,410
 Ateş açtılar!
 
-395
+393
 00:29:20,410 --> 00:29:21,900
 Ne cüretle...
 
-396
+394
 00:29:21,900 --> 00:29:23,190
 – Dur, Sanji-san!
 – Şerefsiz!
 
-397
+395
 00:29:34,450 --> 00:29:35,900
 Vivi!
+
+396
+00:04:42,550 --> 00:04:46,220
+Kum Adası
+Alabasta Krallığı
+
+397
+00:04:42,550 --> 00:04:46,220
+Kum Adası
+Alabasta Krallığı
 
 398
 00:04:42,550 --> 00:04:46,220
@@ -1716,40 +1712,31 @@ Kum Adası
 Alabasta Krallığı
 
 399
-00:04:42,550 --> 00:04:46,220
-Kum Adası
-Alabasta Krallığı
+00:16:12,870 --> 00:16:16,160
+Ertesi Gün
 
 400
-00:04:42,550 --> 00:04:46,220
-Kum Adası
-Alabasta Krallığı
+00:16:12,870 --> 00:16:16,160
+Ertesi Gün
 
 401
-00:16:12,870 --> 00:16:16,160
-Ertesi Gün
-
-402
-00:16:12,870 --> 00:16:16,160
-Ertesi Gün
-
-403
 00:19:25,390 --> 00:19:31,320
 "Teneke" Wapol
 Bliking Korsanları Kaptanı
 
-404
+402
 00:25:28,760 --> 00:25:40,690
 Yaz       İlkbahar      Sonbahar       Kış
+
+403
+00:25:28,760 --> 00:25:40,690
+Yaz       İlkbahar      Sonbahar       Kış
+
+404
+00:25:28,760 --> 00:25:40,690
+Yaz Adası  İlkbahar Adası  Sonbahar Adası  Kış Adası
 
 405
 00:25:28,760 --> 00:25:40,690
-Yaz       İlkbahar      Sonbahar       Kış
-
-406
-00:25:28,760 --> 00:25:40,690
 Yaz Adası  İlkbahar Adası  Sonbahar Adası  Kış Adası
 
-407
-00:25:28,760 --> 00:25:40,690
-Yaz Adası  İlkbahar Adası  Sonbahar Adası  Kış Adası

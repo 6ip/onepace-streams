@@ -1,842 +1,840 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
 00:00:12,200 --> 00:00:15,750
 You must be happy, Issho...
 
-3
+2
 00:00:15,750 --> 00:00:19,620
 Abolishing the Seven Warlords
 was what you all wanted.
 
-4
+3
 00:00:20,000 --> 00:00:24,840
 I was against it, but we must abide
 by the sovereigns' decision.
 
-5
+4
 00:00:24,840 --> 00:00:28,550
 Dammit! How can they all be so naive?!
 
-6
+5
 00:00:28,550 --> 00:00:31,180
 Justice comes with a price–
 
-7
+6
 00:00:31,180 --> 00:00:34,350
 And there's no other way?
 
-8
+7
 00:00:36,560 --> 00:00:42,020
 You can't understand because
 you've never been one of them...
 
-9
+8
 00:00:42,020 --> 00:00:47,530
 A world where the weak and innocent
 are disregarded is worthless!
 
-10
+9
 00:00:49,700 --> 00:00:52,160
 Hurry up! Keep moving!
 
-11
+10
 00:00:52,160 --> 00:00:53,070
 Hurry!
 
-12
+11
 00:01:06,550 --> 00:01:09,590
 The Seven Warlords of the Sea are no more.
 
-13
+12
 00:01:09,590 --> 00:01:15,010
 Let's have faith in the SSG,
 the Marines' Special Science Group.
 
-14
+13
 00:01:17,390 --> 00:01:21,440
 The world's balance of power
 is about to shift drastically!
 
-15
+14
 00:01:23,270 --> 00:01:26,020
 But we don't know how it'll change!
 
-16
+15
 00:01:27,530 --> 00:01:31,780
 Word is that Kaido and Big Mom
 are forming an alliance in Wano!
 
-17
+16
 00:01:32,660 --> 00:01:33,990
 What?!
 
-18
+17
 00:01:36,740 --> 00:01:39,160
 Could it mean the return of the Rocks?!
 
-19
+18
 00:01:46,250 --> 00:01:50,130
 Don't speak of it like it's just some legend!
 
-20
+19
 00:01:50,130 --> 00:01:52,090
 It's all true...
 
-21
+20
 00:01:53,970 --> 00:01:59,560
 and it's a disaster that menaces us
 despite how preoccupied we are!
 
-22
+21
 00:02:01,560 --> 00:02:04,560
 What?! Two Emperors joined forces?!
 
-23
+22
 00:02:05,770 --> 00:02:06,610
 No way!
 
-24
+23
 00:02:06,610 --> 00:02:08,360
 Now of all times?!
 
-25
+24
 00:02:08,690 --> 00:02:12,860
 More accurately, intelligence indicates
 they'll team up in the coming days.
 
-26
+25
 00:02:13,320 --> 00:02:19,080
 They haven't done any harm so far, and we don't know
 their objective or how to deal with it yet.
 
-27
+26
 00:02:19,700 --> 00:02:23,210
 The only thing that connects those two is...
 
-28
+27
 00:02:23,210 --> 00:02:25,830
 the legendary Rocks Pirates.
 
-29
+28
 00:02:27,290 --> 00:02:30,800
 But there isn't much information
 about them, either...
 
-30
+29
 00:02:31,880 --> 00:02:36,010
 Big Mom and Kaido have hated
 each other for a long time...
 
-31
+30
 00:02:36,010 --> 00:02:40,350
 I never expected such a thing
 would ever happen.
 
-32
+31
 00:02:40,350 --> 00:02:43,430
 Sengoku, who are the Rocks Pirates?
 
-33
+32
 00:02:43,430 --> 00:02:45,100
 Oh, yeah.
 
-34
+33
 00:02:45,100 --> 00:02:49,270
 You're too young to have heard about them...
 
-35
+34
 00:02:49,940 --> 00:02:55,820
 The Rocks Pirates was a crew
 of personalities who gathered together...
 
-36
+35
 00:02:55,820 --> 00:03:02,160
 for a money-making scheme
 on Pirate Island, Beehive, ages ago.
 
-37
+36
 00:03:06,710 --> 00:03:11,630
 They were all so violent, they would
 even battle to the death on board their own ship.
 
-38
+37
 00:03:14,380 --> 00:03:17,890
 Its members were, first, Captain Rocks...
 
-39
+38
 00:03:20,140 --> 00:03:22,180
 A young Whitebeard!
 
-40
+39
 00:03:25,140 --> 00:03:26,480
 Big Mom!
 
-41
+40
 00:03:29,230 --> 00:03:30,400
 And Kaido!
 
-42
+41
 00:03:32,000 --> 00:03:33,000
 Really?
 
-43
+42
 00:03:33,820 --> 00:03:39,280
 Those three used to serve
 aboard the same pirate ship.
 
-44
+43
 00:03:41,370 --> 00:03:43,240
 – What?!
 – What?!
 
-45
+44
 00:03:43,240 --> 00:03:44,500
 N-No way!
 
-46
+45
 00:03:44,500 --> 00:03:46,370
 I-I can't believe it!
 
-47
+46
 00:03:46,790 --> 00:03:51,840
 Others from the Rocks Pirates
 became infamous as well.
 
-48
+47
 00:03:52,460 --> 00:03:57,970
 Shiki the Golden Lion, a big name
 who vied for dominance in the New World.
 
-49
+48
 00:03:57,970 --> 00:04:01,640
 There were also others like Silver Axe,
 Captain John, and Ochoku...
 
-50
+49
 00:04:01,640 --> 00:04:03,010
 You've got to be kidding!
 
-51
+50
 00:04:03,010 --> 00:04:06,520
 They're all big-name pirates!
 
-52
+51
 00:04:06,520 --> 00:04:08,940
 How was such a pirate group lost to history?
 
-53
+52
 00:04:09,560 --> 00:04:14,650
 Firstly, they hated each other so much that they
 took no pride in publicizing their exploits.
 
-54
+53
 00:04:14,980 --> 00:04:16,150
 Secondly...
 
-55
+54
 00:04:16,740 --> 00:04:20,450
 Captain Rocks wanted to become
 the king of the world.
 
-56
+55
 00:04:30,170 --> 00:04:35,090
 They began a campaign of savage
 provocation against the World Government.
 
-57
+56
 00:04:35,960 --> 00:04:40,130
 Their terrorist acts too violent to suppress...
 
-58
+57
 00:04:41,050 --> 00:04:47,270
 the world came to fear their very name.
 
-59
+58
 00:04:47,680 --> 00:04:53,230
 A particularly fateful incident took place
 at God Valley thirty-eight years ago.
 
-60
+59
 00:04:54,110 --> 00:04:59,360
 The news reported that the Rocks Pirates,
 known as the world's strongest pirate crew...
 
-61
+60
 00:04:59,360 --> 00:05:01,360
 were annihilated on that island.
 
-62
+61
 00:05:36,520 --> 00:05:40,400
 That unstoppable force of evil was defeated...
 
-63
+62
 00:05:40,400 --> 00:05:43,910
 by Marine Headquarters' Vice Admiral Garp!
 
-64
+63
 00:05:47,030 --> 00:05:49,790
 His name became known
 throughout the world,
 
-65
+64
 00:05:49,790 --> 00:05:53,210
 and people began calling him
 the Hero of the Marines.
 
-66
+65
 00:05:55,750 --> 00:06:00,760
 So that's the start to Vice Admiral
 Garp's many tales of heroism!
 
-67
+66
 00:06:04,260 --> 00:06:08,430
 There are countless tales of valor
 involving Vice Admiral Garp,
 
-68
+67
 00:06:08,430 --> 00:06:14,270
 but I didn't know there was
 yet another great episode like that!
 
-69
+68
 00:06:14,270 --> 00:06:16,400
 He's really something!
 
-70
+69
 00:06:19,980 --> 00:06:22,490
 Big Mom and Kaido?!
 
-71
+70
 00:06:22,490 --> 00:06:24,410
 Enough already...
 
-72
+71
 00:06:27,490 --> 00:06:31,250
 But he generally refuses to discuss it.
 
-73
+72
 00:06:31,250 --> 00:06:32,960
 What? Why?
 
-74
+73
 00:06:33,330 --> 00:06:37,080
 I'll fill you in so you can learn some history...
 
-75
+74
 00:06:38,130 --> 00:06:43,010
 The first reason he doesn't share
 was never reported in the papers.
 
-76
+75
 00:06:43,010 --> 00:06:46,970
 Garp had no choice but to join forces
 with a pirate to win that battle.
 
-77
+76
 00:06:47,680 --> 00:06:48,760
 A pirate?!
 
-78
+77
 00:06:49,510 --> 00:06:53,770
 The other reason is he happened
 to save the Celestial Dragons.
 
-79
+78
 00:06:55,020 --> 00:06:58,150
 The Celestial Dragons were part of that story?!
 
-80
+79
 00:07:01,940 --> 00:07:06,240
 Well, it is a Marine's duty
 to protect Celestial Dragons.
 
-81
+80
 00:07:06,240 --> 00:07:07,530
 What's the issue here?
 
-82
+81
 00:07:08,490 --> 00:07:12,080
 Garp is morally opposed to fulfilling that duty.
 
-83
+82
 00:07:12,500 --> 00:07:16,750
 One of the reasons Garp refuses
 to become an admiral...
 
-84
+83
 00:07:16,750 --> 00:07:20,460
 is that they are the direct
 subordinates of the Celestial Dragons.
 
-85
+84
 00:07:21,050 --> 00:07:23,970
 Despite openly showing contempt for them,
 
-86
+85
 00:07:23,970 --> 00:07:26,260
 he is saved by his feats and popularity.
 
-87
+86
 00:07:26,840 --> 00:07:28,840
 Now, the truth of the matter is...
 
-88
+87
 00:07:28,840 --> 00:07:33,850
 to protect the Celestial Dragons
 and their slaves at God Valley,
 
-89
+88
 00:07:33,850 --> 00:07:40,480
 Garp worked together with Roger, who also
 happened to be there, to defeat the Rocks Pirates!
 
-90
+89
 00:07:41,230 --> 00:07:44,490
 It's known as the God Valley Incident!
 
-91
+90
 00:07:47,360 --> 00:07:48,660
 He worked together...
 
-92
+91
 00:07:48,660 --> 00:07:49,700
 and fought with...
 
-93
+92
 00:07:49,700 --> 00:07:51,030
 ...the Pirate King?!
 
-94
+93
 00:07:51,030 --> 00:07:54,450
 The Celestial Dragons, Roger, and Rocks?!
 
-95
+94
 00:07:54,450 --> 00:07:56,710
 They were all there at the same time?!
 
-96
+95
 00:07:56,710 --> 00:07:59,830
 What was on that island?!
 
-97
+96
 00:07:59,830 --> 00:08:02,710
 I've never even heard of God Valley!
 
-98
+97
 00:08:03,630 --> 00:08:05,210
 It's no wonder.
 
-99
+98
 00:08:07,010 --> 00:08:09,430
 The place called God Valley...
 
-100
+99
 00:08:10,510 --> 00:08:13,810
 is nowhere to be found on any map now.
 
-101
+100
 00:08:16,060 --> 00:08:20,560
 In fact, it disappeared without a trace.
 
-102
+101
 00:08:25,190 --> 00:08:29,990
 The island that the World Government
 wanted to hide disappeared...
 
-103
+102
 00:08:29,990 --> 00:08:33,660
 Do you still want to hear about it?
 
-104
+103
 00:08:34,540 --> 00:08:39,290
 Rocks was so zealous in his goal
 to become the king of the world
 
-105
+104
 00:08:39,290 --> 00:08:42,040
 that he broke one too many taboos,
 
-106
+105
 00:08:42,040 --> 00:08:45,760
 so information regarding him
 no longer remains.
 
-107
+106
 00:08:46,630 --> 00:08:52,140
 He is remembered only by a handful
 of Marines from my generation.
 
-108
+107
 00:08:52,550 --> 00:08:59,100
 Even if it was a long time ago, I can't imagine
 one man leading three future Emperors!
 
-109
+108
 00:08:59,480 --> 00:09:05,110
 Rocks might have been
 Roger's first, and strongest, foe.
 
-110
+109
 00:09:05,110 --> 00:09:08,820
 Strangely enough, Roger and Rocks
 had something in common.
 
-111
+110
 00:09:10,320 --> 00:09:14,620
 Rocks' full name was Rocks D. Xebec.
 
-112
+111
 00:09:15,280 --> 00:09:17,500
 He's already passed on,
 
-113
+112
 00:09:17,500 --> 00:09:22,830
 but he was among those pirates
 who bear the initial D. in their name!
 
-114
+113
 00:09:38,390 --> 00:09:43,900
 It's true that Kaido and Big Mom
 were on board the same ship...
 
-115
+114
 00:09:43,900 --> 00:09:49,360
 but their capabilities are totally different
 from thirty-eight years ago.
 
-116
+115
 00:09:49,360 --> 00:09:55,620
 If this alliance is true, we're about to see
 the world's most dangerous group of pirates.
 
-117
+116
 00:09:55,620 --> 00:09:59,500
 Brannew! How much are their bounties now?
 
-118
+117
 00:09:59,500 --> 00:10:01,000
 Ah, yes.
 
-119
+118
 00:10:01,000 --> 00:10:06,920
 We also have to determine new bounties for those
 who were stripped of their Warlord status.
 
-120
+119
 00:10:06,920 --> 00:10:11,130
 Let's review all of their numbers.
 
-121
+120
 00:10:21,100 --> 00:10:22,980
 Starting with Blackbeard,
 
-122
+121
 00:10:22,980 --> 00:10:26,900
 who started to be called
 an Emperor about a year ago...
 
-123
+122
 00:10:27,730 --> 00:10:32,820
 He recruited powerful subordinates
 during the raid on Impel Down two years ago,
 
-124
+123
 00:10:32,820 --> 00:10:36,490
 and now has gained control
 over Pirate Island, Beehive.
 
-125
+124
 00:10:36,490 --> 00:10:41,540
 He's still extending his influence,
 filling Whitebeard's void!
 
-126
+125
 00:10:43,080 --> 00:10:46,000
 The commodore of the Blackbeard Pirates,
 
-127
+126
 00:10:46,000 --> 00:10:48,380
 Marshall D. Teach!
 
-128
+127
 00:10:48,380 --> 00:10:52,130
 2,247,600,000 berries!
 
-129
+128
 00:10:56,590 --> 00:10:57,970
 Next up,
 
-130
+129
 00:10:58,510 --> 00:11:01,390
 he has only been called
 an Emperor for six years...
 
-131
+130
 00:11:02,470 --> 00:11:08,230
 He's the youngest of the four
 and deeply trusted by his subordinates...
 
-132
+131
 00:11:08,810 --> 00:11:10,110
 Beckman.
 
-133
+132
 00:11:10,110 --> 00:11:11,280
 Roux.
 
-134
+133
 00:11:11,280 --> 00:11:12,480
 Yasopp.
 
-135
+134
 00:11:12,480 --> 00:11:15,240
 His top officers gained notoriety individually,
 
-136
+135
 00:11:15,780 --> 00:11:22,290
 and with a high average bounty, his undefeated crew
 is the most well-rounded of them all.
 
-137
+136
 00:11:23,450 --> 00:11:26,620
 The chief of the Red Hair Pirates,
 
-138
+137
 00:11:26,620 --> 00:11:29,040
 Red-Haired Shanks!
 
-139
+138
 00:11:29,040 --> 00:11:32,380
 4,048,900,000 berries!
 
-140
+139
 00:11:36,260 --> 00:11:37,300
 Next...
 
-141
+140
 00:11:38,300 --> 00:11:43,140
 As a child, this natural-born
 monster laid waste...
 
-142
+141
 00:11:43,140 --> 00:11:46,020
 to a village of giants in Elbaph!
 
-143
+142
 00:11:46,020 --> 00:11:48,560
 She only trusts her blood relatives
 
-144
+143
 00:11:48,560 --> 00:11:55,320
 and along with her eighty-five children,
 this autocratic queen built Totto Land,
 
-145
+144
 00:11:55,320 --> 00:11:58,410
 the queendom made of candy!
 
-146
+145
 00:11:59,530 --> 00:12:02,790
 The captain of the Big Mom Pirates,
 
-147
+146
 00:12:02,790 --> 00:12:05,250
 Charlotte Linlin!
 
-148
+147
 00:12:05,250 --> 00:12:08,460
 4,388,000,000 berries!
 
-149
+148
 00:12:12,710 --> 00:12:16,970
 Lastly, during his time
 with the old Rocks Pirates,
 
-150
+149
 00:12:17,970 --> 00:12:21,140
 he was just an apprentice pirate...
 
-151
+150
 00:12:22,760 --> 00:12:29,270
 But thereafter, he earned the respect of
 vicious pirates through strength alone,
 
-152
+151
 00:12:29,270 --> 00:12:33,020
 and attained the title of Emperor!
 
-153
+152
 00:12:34,150 --> 00:12:36,990
 The viceroy of the Beast Pirates,
 
-154
+153
 00:12:36,990 --> 00:12:39,110
 Kaido, King of the Beasts!
 
-155
+154
 00:12:39,700 --> 00:12:43,120
 4,611,100,000 berries!
 
-156
+155
 00:12:47,620 --> 00:12:49,040
 I feel depressed...
 
-157
+156
 00:12:49,370 --> 00:12:57,170
 Due to the decision at the Reverie, we can't deploy
 the Seven Warlords to fight the Four Emperors anymore!
 
-158
+157
 00:13:01,760 --> 00:13:05,760
 Whether removing that poison
 was correct or not...
 
-159
+158
 00:13:06,180 --> 00:13:11,230
 is up to how well the SSG,
 the Navy's Special Science Group, performs.
 
-160
+159
 00:13:11,650 --> 00:13:14,610
 For your reference,
 
-161
+160
 00:13:14,610 --> 00:13:17,650
 here are the bounties
 of other legendary figures!
 
-162
+161
 00:13:19,610 --> 00:13:22,280
 The captain of the Whitebeard Pirates,
 
-163
+162
 00:13:22,280 --> 00:13:24,200
 Edward Newgate!
 
-164
+163
 00:13:24,870 --> 00:13:27,910
 5,046,000,000 berries!
 
-165
+164
 00:13:32,670 --> 00:13:35,290
 The captain of the Roger Pirates,
 
-166
+165
 00:13:35,290 --> 00:13:38,510
 the King of the Pirates, Gold Roger!
 
-167
+166
 00:13:38,510 --> 00:13:41,840
 5,564,800,000 berries!
 
-168
+167
 00:13:45,720 --> 00:13:51,640
 No pirates have ever surpassed these two...
 
-169
+168
 00:13:54,190 --> 00:13:57,650
 but once Kaido and Big Mom's
 alliance is formed,
 
-170
+169
 00:13:57,980 --> 00:14:02,280
 the sum of their bounties
 will easily top those numbers!
 
-171
+170
 00:14:05,660 --> 00:14:08,910
 Right now, in the unaffiliated Wano Country–
 
-172
+171
 00:14:11,040 --> 00:14:13,290
 Fleet Admiral Sakazuki!
 
-173
+172
 00:14:13,290 --> 00:14:15,250
 Forget about Wano!
 
-174
+173
 00:14:17,880 --> 00:14:23,180
 We don't have any resources
 available to send on its behalf,
 
-175
+174
 00:14:23,180 --> 00:14:25,010
 Sengoku!
 
-176
+175
 00:14:32,020 --> 00:14:35,560
 Of course, I wasn't
 intending on getting involved...
 
-177
+176
 00:14:36,020 --> 00:14:40,730
 I was just providing these young Marines
 with the knowledge of a veteran.
 
-178
+177
 00:14:45,700 --> 00:14:48,990
 Pirates share histories as well.
 
-179
+178
 00:14:48,990 --> 00:14:52,000
 Those relationships influence their actions.
 
-180
+179
 00:14:52,000 --> 00:14:55,120
 We can't predict their movements
 if we ignore their pasts.
 
-181
+180
 00:14:55,830 --> 00:14:57,210
 Oh, yeah...
 
-182
+181
 00:14:57,210 --> 00:15:03,010
 There was a pirate from Wano who was favored
 by Whitebeard, Roger, and Red Hair.
 
-183
+182
 00:15:07,300 --> 00:15:09,640
 You mean Kozuki Oden?
 
-184
+183
 00:15:09,640 --> 00:15:13,890
 The man who once served as
 a commander on Whitebeard's ship...
 
-185
+184
 00:15:14,350 --> 00:15:21,190
 Oden was later recruited by Roger
 and accompanied him on his final voyage.
 
-186
+185
 00:15:21,690 --> 00:15:25,200
 I can't imagine Oden has anything
 to do with this mess...
 
-187
+186
 00:15:31,200 --> 00:15:36,670
 but why do all these big-time pirates
 who disrupt the world...
 
-188
+187
 00:15:36,670 --> 00:15:41,880
 always get involved with Wano?
 
-189
+188
 00:15:42,590 --> 00:15:47,130
 I think it's too much to be a coincidence...
 
-190
+189
 00:15:47,970 --> 00:15:48,970
 Sakazuki!
+
+190
+00:00:00,020 --> 00:00:05,860
+Marine HQ
+New World
 
 191
 00:00:00,020 --> 00:00:05,860
@@ -844,998 +842,994 @@ Marine HQ
 New World
 
 192
-00:00:00,020 --> 00:00:05,860
-Marine HQ
-New World
-
-193
 00:01:35,990 --> 00:01:36,030
 Issho
 
-194
+193
 00:01:36,030 --> 00:01:36,070
 Issho
 
-195
+194
 00:01:36,070 --> 00:01:36,110
 Issho
 
-196
+195
 00:01:36,110 --> 00:01:36,150
 Issho
 
-197
+196
 00:01:36,150 --> 00:01:36,200
 Issho
 
-198
+197
 00:01:36,200 --> 00:01:36,240
 Issho
 
-199
+198
 00:01:36,240 --> 00:01:36,280
 Issho
 
-200
+199
 00:01:36,280 --> 00:01:36,320
 Issho
 
-201
+200
 00:01:36,320 --> 00:01:36,360
 Issho
 
-202
+201
 00:01:36,360 --> 00:01:36,400
 Issho
 
-203
+202
 00:01:36,400 --> 00:01:36,450
 Issho
 
-204
+203
 00:01:36,450 --> 00:01:36,490
 Issho
 
-205
+204
 00:01:36,490 --> 00:01:36,530
 Issho
 
-206
+205
 00:01:36,530 --> 00:01:36,570
 Issho
 
-207
+206
 00:01:36,570 --> 00:01:36,610
 Issho
 
-208
+207
 00:01:36,610 --> 00:01:36,650
 Issho
 
-209
+208
 00:01:36,650 --> 00:01:36,700
 Issho
 
-210
+209
 00:01:36,700 --> 00:01:36,740
 Issho
 
-211
+210
 00:01:36,740 --> 00:01:36,780
 Issho
 
-212
+211
 00:01:36,780 --> 00:01:36,820
 Issho
 
-213
+212
 00:01:36,820 --> 00:01:36,860
 Issho
 
-214
+213
 00:01:36,860 --> 00:01:36,900
 Issho
 
-215
+214
 00:01:36,900 --> 00:01:36,950
 Issho
 
-216
+215
 00:01:36,950 --> 00:01:36,990
 Issho
 
-217
+216
 00:01:36,990 --> 00:01:37,030
 Issho
 
-218
+217
 00:01:37,030 --> 00:01:37,070
 Issho
 
-219
+218
 00:01:37,070 --> 00:01:37,110
 Issho
 
-220
+219
 00:01:37,110 --> 00:01:37,160
 Issho
 
-221
+220
 00:01:37,160 --> 00:01:37,200
 Issho
 
-222
+221
 00:01:37,200 --> 00:01:37,240
 Issho
 
-223
+222
 00:01:37,240 --> 00:01:37,280
 Issho
 
-224
+223
 00:01:37,280 --> 00:01:37,320
 Issho
 
-225
+224
 00:01:37,320 --> 00:01:37,360
 Issho
 
-226
+225
 00:01:37,360 --> 00:01:37,410
 Issho
 
-227
+226
 00:01:37,410 --> 00:01:37,450
 Issho
 
-228
+227
 00:01:37,450 --> 00:01:39,160
 Issho
+
+228
+00:04:53,520 --> 00:05:02,410
+38 Years Ago
 
 229
 00:04:53,520 --> 00:05:02,410
 38 Years Ago
 
 230
-00:04:53,520 --> 00:05:02,410
-38 Years Ago
+00:07:44,480 --> 00:07:44,520
+Retired
 
 231
-00:07:44,480 --> 00:07:44,520
+00:07:44,520 --> 00:07:44,560
 Retired
 
 232
-00:07:44,520 --> 00:07:44,560
+00:07:44,560 --> 00:07:44,610
 Retired
 
 233
-00:07:44,560 --> 00:07:44,610
+00:07:44,610 --> 00:07:44,650
 Retired
 
 234
-00:07:44,610 --> 00:07:44,650
+00:07:44,650 --> 00:07:44,690
 Retired
 
 235
-00:07:44,650 --> 00:07:44,690
+00:07:44,690 --> 00:07:44,730
 Retired
 
 236
-00:07:44,690 --> 00:07:44,730
+00:07:44,730 --> 00:07:44,770
 Retired
 
 237
-00:07:44,730 --> 00:07:44,770
+00:07:44,770 --> 00:07:44,810
 Retired
 
 238
-00:07:44,770 --> 00:07:44,810
+00:07:44,810 --> 00:07:44,860
 Retired
 
 239
-00:07:44,810 --> 00:07:44,860
+00:07:44,860 --> 00:07:44,900
 Retired
 
 240
-00:07:44,860 --> 00:07:44,900
+00:07:44,900 --> 00:07:44,940
 Retired
 
 241
-00:07:44,900 --> 00:07:44,940
+00:07:44,940 --> 00:07:44,980
 Retired
 
 242
-00:07:44,940 --> 00:07:44,980
+00:07:44,980 --> 00:07:45,020
 Retired
 
 243
-00:07:44,980 --> 00:07:45,020
+00:07:45,020 --> 00:07:45,060
 Retired
 
 244
-00:07:45,020 --> 00:07:45,060
+00:07:45,060 --> 00:07:45,110
 Retired
 
 245
-00:07:45,060 --> 00:07:45,110
+00:07:45,110 --> 00:07:45,150
 Retired
 
 246
-00:07:45,110 --> 00:07:45,150
+00:07:45,150 --> 00:07:45,190
 Retired
 
 247
-00:07:45,150 --> 00:07:45,190
+00:07:45,190 --> 00:07:45,230
 Retired
 
 248
-00:07:45,190 --> 00:07:45,230
+00:07:45,230 --> 00:07:45,270
 Retired
 
 249
-00:07:45,230 --> 00:07:45,270
+00:07:45,270 --> 00:07:45,310
 Retired
 
 250
-00:07:45,270 --> 00:07:45,310
+00:07:45,310 --> 00:07:45,360
 Retired
 
 251
-00:07:45,310 --> 00:07:45,360
+00:07:45,360 --> 00:07:45,400
 Retired
 
 252
-00:07:45,360 --> 00:07:45,400
+00:07:45,400 --> 00:07:45,440
 Retired
 
 253
-00:07:45,400 --> 00:07:45,440
+00:07:45,440 --> 00:07:45,480
 Retired
 
 254
-00:07:45,440 --> 00:07:45,480
+00:07:45,480 --> 00:07:45,520
 Retired
 
 255
-00:07:45,480 --> 00:07:45,520
+00:07:45,520 --> 00:07:45,560
 Retired
 
 256
-00:07:45,520 --> 00:07:45,560
+00:07:45,560 --> 00:07:45,610
 Retired
 
 257
-00:07:45,560 --> 00:07:45,610
+00:07:45,610 --> 00:07:45,650
 Retired
 
 258
-00:07:45,610 --> 00:07:45,650
+00:07:45,650 --> 00:07:45,690
 Retired
 
 259
-00:07:45,650 --> 00:07:45,690
+00:07:45,690 --> 00:07:45,730
 Retired
 
 260
-00:07:45,690 --> 00:07:45,730
+00:07:45,730 --> 00:07:45,770
 Retired
 
 261
-00:07:45,730 --> 00:07:45,770
+00:07:45,770 --> 00:07:45,820
 Retired
 
 262
-00:07:45,770 --> 00:07:45,820
+00:07:45,820 --> 00:07:45,860
 Retired
 
 263
-00:07:45,820 --> 00:07:45,860
+00:07:45,860 --> 00:07:45,900
 Retired
 
 264
-00:07:45,860 --> 00:07:45,900
-Retired
-
-265
 00:07:45,900 --> 00:07:45,940
 Retired
 
-266
+265
 00:07:44,480 --> 00:07:44,520
 Retired
 
-267
+266
 00:07:44,520 --> 00:07:44,560
 Retired
 
-268
+267
 00:07:44,560 --> 00:07:44,610
 Retired
 
-269
+268
 00:07:44,610 --> 00:07:44,650
 Retired
 
-270
+269
 00:07:44,650 --> 00:07:44,690
 Retired
 
-271
+270
 00:07:44,690 --> 00:07:44,730
 Retired
 
-272
+271
 00:07:44,730 --> 00:07:44,770
 Retired
 
-273
+272
 00:07:44,770 --> 00:07:44,810
 Retired
 
-274
+273
 00:07:44,810 --> 00:07:44,860
 Retired
 
-275
+274
 00:07:44,860 --> 00:07:44,900
 Retired
 
-276
+275
 00:07:44,900 --> 00:07:44,940
 Retired
 
-277
+276
 00:07:44,940 --> 00:07:44,980
 Retired
 
-278
+277
 00:07:44,980 --> 00:07:45,020
 Retired
 
-279
+278
 00:07:45,020 --> 00:07:45,060
 Retired
 
-280
+279
 00:07:45,060 --> 00:07:45,110
 Retired
 
-281
+280
 00:07:45,110 --> 00:07:45,150
 Retired
 
-282
+281
 00:07:45,150 --> 00:07:45,190
 Retired
 
-283
+282
 00:07:45,190 --> 00:07:45,230
 Retired
 
-284
+283
 00:07:45,230 --> 00:07:45,270
 Retired
 
-285
+284
 00:07:45,270 --> 00:07:45,310
 Retired
 
-286
+285
 00:07:45,310 --> 00:07:45,360
 Retired
 
-287
+286
 00:07:45,360 --> 00:07:45,400
 Retired
 
-288
+287
 00:07:45,400 --> 00:07:45,440
 Retired
 
-289
+288
 00:07:45,440 --> 00:07:45,480
 Retired
 
-290
+289
 00:07:45,480 --> 00:07:45,520
 Retired
 
-291
+290
 00:07:45,520 --> 00:07:45,560
 Retired
 
-292
+291
 00:07:45,560 --> 00:07:45,610
 Retired
 
-293
+292
 00:07:45,610 --> 00:07:45,650
 Retired
 
-294
+293
 00:07:45,650 --> 00:07:45,690
 Retired
 
-295
+294
 00:07:45,690 --> 00:07:45,730
 Retired
 
-296
+295
 00:07:45,730 --> 00:07:45,770
 Retired
 
-297
+296
 00:07:45,770 --> 00:07:45,820
 Retired
 
-298
+297
 00:07:45,820 --> 00:07:45,860
 Retired
 
-299
+298
 00:07:45,860 --> 00:07:45,900
 Retired
 
-300
+299
 00:09:38,010 --> 00:09:38,050
 Retired
 
-301
+300
 00:09:38,050 --> 00:09:38,090
 Retired
 
-302
+301
 00:09:38,090 --> 00:09:38,140
 Retired
 
-303
+302
 00:09:38,140 --> 00:09:38,180
 Retired
 
-304
+303
 00:09:38,180 --> 00:09:38,220
 Retired
 
-305
+304
 00:09:38,220 --> 00:09:38,260
 Retired
 
-306
+305
 00:09:38,260 --> 00:09:38,300
 Retired
 
-307
+306
 00:09:38,300 --> 00:09:38,340
 Retired
 
-308
+307
 00:09:38,340 --> 00:09:38,390
 Retired
 
-309
+308
 00:09:38,390 --> 00:09:38,430
 Retired
 
-310
+309
 00:09:38,430 --> 00:09:38,470
 Retired
 
-311
+310
 00:09:38,470 --> 00:09:38,510
 Retired
 
-312
+311
 00:09:38,510 --> 00:09:38,550
 Retired
 
-313
+312
 00:09:38,550 --> 00:09:38,590
 Retired
 
-314
+313
 00:09:38,590 --> 00:09:38,640
 Retired
 
-315
+314
 00:09:38,640 --> 00:09:38,680
 Retired
 
-316
+315
 00:09:38,680 --> 00:09:38,720
 Retired
 
-317
+316
 00:09:38,720 --> 00:09:38,760
 Retired
 
-318
+317
 00:09:38,760 --> 00:09:38,800
 Retired
 
-319
+318
 00:09:38,800 --> 00:09:38,840
 Retired
 
-320
+319
 00:09:38,840 --> 00:09:38,890
 Retired
 
-321
+320
 00:09:38,890 --> 00:09:38,930
 Retired
 
-322
+321
 00:09:38,930 --> 00:09:38,970
 Retired
 
-323
+322
 00:09:38,970 --> 00:09:39,010
 Retired
 
-324
+323
 00:09:39,010 --> 00:09:39,050
 Retired
 
-325
+324
 00:09:39,050 --> 00:09:39,100
 Retired
 
-326
+325
 00:09:39,100 --> 00:09:39,140
 Retired
 
-327
+326
 00:09:39,140 --> 00:09:39,180
 Retired
 
-328
+327
 00:09:39,180 --> 00:09:39,220
 Retired
 
-329
+328
 00:09:39,220 --> 00:09:39,260
 Retired
 
-330
+329
 00:09:39,260 --> 00:09:39,300
 Retired
 
-331
+330
 00:09:39,300 --> 00:09:39,350
 Retired
 
-332
+331
 00:09:39,350 --> 00:09:39,390
 Retired
 
-333
+332
 00:09:39,390 --> 00:09:39,430
 Retired
 
-334
+333
 00:09:39,430 --> 00:09:39,470
 Retired
 
-335
+334
 00:09:39,470 --> 00:09:39,510
 Retired
 
-336
+335
 00:09:39,510 --> 00:09:39,550
 Retired
 
-337
+336
 00:09:39,550 --> 00:09:39,600
 Retired
 
-338
+337
 00:09:39,600 --> 00:09:39,640
 Retired
 
-339
+338
 00:09:39,640 --> 00:09:39,680
 Retired
 
-340
+339
 00:09:39,680 --> 00:09:39,720
 Retired
 
-341
+340
 00:09:39,720 --> 00:09:39,760
 Retired
 
-342
+341
 00:09:39,760 --> 00:09:39,800
 Retired
 
-343
+342
 00:09:39,800 --> 00:09:39,850
 Retired
 
-344
+343
 00:09:39,850 --> 00:09:39,890
 Retired
 
-345
+344
 00:09:39,890 --> 00:09:39,930
 Retired
 
-346
+345
 00:09:39,930 --> 00:09:39,970
 Retired
 
-347
+346
 00:09:39,970 --> 00:09:40,010
 Retired
 
-348
+347
 00:09:40,010 --> 00:09:40,050
 Retired
 
-349
+348
 00:09:40,050 --> 00:09:40,100
 Retired
 
-350
+349
 00:09:40,100 --> 00:09:40,140
 Retired
 
-351
+350
 00:09:40,140 --> 00:09:40,180
 Retired
 
-352
+351
 00:09:40,180 --> 00:09:40,220
 Retired
 
-353
+352
 00:09:40,220 --> 00:09:40,260
 Retired
 
-354
+353
 00:09:40,260 --> 00:09:40,300
 Retired
 
-355
+354
 00:09:40,300 --> 00:09:40,350
 Retired
 
-356
+355
 00:09:40,350 --> 00:09:40,390
 Retired
 
-357
+356
 00:09:40,390 --> 00:09:40,430
 Retired
 
-358
+357
 00:09:40,430 --> 00:09:40,470
 Retired
 
-359
+358
 00:09:40,470 --> 00:09:40,510
 Retired
 
-360
+359
 00:09:40,510 --> 00:09:40,550
 Retired
 
-361
+360
 00:09:40,550 --> 00:09:40,600
 Retired
 
-362
+361
 00:09:40,600 --> 00:09:40,640
 Retired
 
-363
+362
 00:09:40,640 --> 00:09:40,680
 Retired
 
-364
+363
 00:09:40,680 --> 00:09:40,720
 Retired
 
-365
+364
 00:09:40,720 --> 00:09:40,760
 Retired
 
-366
+365
 00:09:40,760 --> 00:09:40,810
 Retired
 
-367
+366
 00:09:40,810 --> 00:09:40,850
 Retired
 
-368
+367
 00:09:40,850 --> 00:09:40,890
 Retired
 
-369
+368
 00:09:40,890 --> 00:09:40,930
 Retired
 
-370
+369
 00:09:40,930 --> 00:09:40,970
 Retired
 
-371
+370
 00:09:40,970 --> 00:09:41,010
 Retired
 
-372
+371
 00:09:41,010 --> 00:09:41,060
 Retired
 
-373
+372
 00:09:41,060 --> 00:09:41,100
 Retired
 
-374
+373
 00:09:41,100 --> 00:09:41,140
 Retired
 
-375
+374
 00:09:41,140 --> 00:09:41,180
 Retired
 
-376
+375
 00:09:41,180 --> 00:09:41,220
 Retired
 
-377
+376
 00:09:41,220 --> 00:09:41,260
 Retired
 
-378
+377
 00:09:41,260 --> 00:09:41,310
 Retired
 
-379
+378
 00:09:41,310 --> 00:09:41,350
 Retired
 
-380
+379
 00:09:41,350 --> 00:09:41,390
 Retired
 
-381
+380
 00:09:41,390 --> 00:09:41,430
 Retired
 
-382
+381
 00:09:41,430 --> 00:09:41,470
 Retired
 
-383
+382
 00:09:41,470 --> 00:09:41,510
 Retired
 
-384
+383
 00:09:41,510 --> 00:09:41,560
 Retired
 
-385
+384
 00:09:41,560 --> 00:09:41,600
 Retired
 
-386
+385
 00:09:41,600 --> 00:09:41,640
 Retired
 
-387
+386
 00:09:41,640 --> 00:09:41,680
 Retired
 
-388
+387
 00:09:41,680 --> 00:09:41,720
 Retired
 
-389
+388
 00:09:41,720 --> 00:09:41,760
 Retired
 
-390
+389
 00:09:41,760 --> 00:09:41,810
 Retired
 
-391
+390
 00:09:41,810 --> 00:09:41,850
 Retired
 
-392
+391
 00:09:41,850 --> 00:09:41,890
 Retired
 
-393
+392
 00:09:41,890 --> 00:09:41,930
 Retired
 
-394
+393
 00:09:41,930 --> 00:09:41,970
 Retired
 
-395
+394
 00:09:41,970 --> 00:09:42,010
 Retired
 
-396
+395
 00:09:42,010 --> 00:09:42,060
 Retired
 
-397
+396
 00:09:42,060 --> 00:09:42,100
 Retired
 
-398
+397
 00:09:42,100 --> 00:09:42,140
 Retired
 
-399
+398
 00:09:42,140 --> 00:09:42,180
 Retired
 
-400
+399
 00:09:42,180 --> 00:09:42,220
 Retired
 
-401
+400
 00:09:42,220 --> 00:09:42,260
 Retired
 
-402
+401
 00:09:42,260 --> 00:09:42,310
 Retired
 
-403
+402
 00:09:42,310 --> 00:09:42,350
 Retired
 
-404
+403
 00:09:42,350 --> 00:09:42,390
 Retired
 
-405
+404
 00:09:42,390 --> 00:09:42,430
 Retired
 
-406
+405
 00:09:42,430 --> 00:09:42,470
 Retired
 
-407
+406
 00:09:42,470 --> 00:09:42,520
 Retired
 
-408
+407
 00:09:42,520 --> 00:09:42,560
 Retired
 
-409
+408
 00:09:42,560 --> 00:09:42,600
 Retired
 
-410
+409
 00:09:42,600 --> 00:09:42,640
 Retired
 
-411
+410
 00:09:42,640 --> 00:09:42,680
 Retired
 
-412
+411
 00:09:42,680 --> 00:09:42,720
 Retired
 
-413
+412
 00:09:42,720 --> 00:09:42,770
 Retired
 
-414
+413
 00:09:42,770 --> 00:09:42,810
 Retired
 
-415
+414
 00:09:42,810 --> 00:09:42,850
 Retired
 
-416
+415
 00:09:42,850 --> 00:09:42,890
 Retired
 
-417
+416
 00:09:42,890 --> 00:09:42,930
 Retired
 
-418
+417
 00:09:42,930 --> 00:09:42,970
 Retired
 
-419
+418
 00:09:42,970 --> 00:09:43,020
 Retired
 
-420
+419
 00:09:43,020 --> 00:09:43,060
 Retired
 
-421
+420
 00:09:43,060 --> 00:09:43,100
 Retired
 
-422
+421
 00:09:43,100 --> 00:09:43,140
 Retired
 
-423
+422
 00:09:43,140 --> 00:09:43,180
 Retired
 
-424
+423
 00:09:43,180 --> 00:09:43,220
 Retired
 
-425
+424
 00:09:43,220 --> 00:09:43,270
 Retired
 
-426
+425
 00:09:43,270 --> 00:09:43,310
 Retired
 
-427
+426
 00:09:43,310 --> 00:09:43,350
 Retired
 
-428
+427
 00:09:43,350 --> 00:09:43,390
 Retired
 
-429
+428
 00:09:43,390 --> 00:09:43,430
 Retired
 
-430
+429
 00:09:43,430 --> 00:09:43,470
 Retired
 
-431
+430
 00:09:43,470 --> 00:09:43,520
 Retired
 
-432
+431
 00:09:43,520 --> 00:09:43,560
 Retired
 
-433
+432
 00:09:43,560 --> 00:09:43,600
 Retired
 
-434
+433
 00:09:43,600 --> 00:09:43,640
 Retired
 
-435
+434
 00:09:43,640 --> 00:09:43,680
 Retired
 
-436
+435
 00:09:43,680 --> 00:09:43,720
 Retired
 
-437
+436
 00:09:43,720 --> 00:09:43,770
 Retired
 
-438
+437
 00:09:43,770 --> 00:09:43,810
 Retired
 
-439
+438
 00:09:43,810 --> 00:09:43,850
 Retired
 
-440
+439
 00:09:43,850 --> 00:09:43,890
 Retired
+

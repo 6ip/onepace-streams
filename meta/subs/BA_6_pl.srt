@@ -1,1694 +1,1681 @@
 1
-00:00:00,000 --> 00:00:09,990
-Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
-Napisy prawdopodobnie nie będą działać prawidłowo.
-Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
-Napisy prawdopodobnie nie będą działać prawidłowo.
-Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
-https://mpv.io
-
-3
 00:01:52,930 --> 00:01:55,720
 Płetwę szlag trafił!
 
-4
+2
 00:02:00,770 --> 00:02:04,020
 Cholerny gówniarz... Ma tupet!
 
-5
+3
 00:02:04,520 --> 00:02:06,650
 Próbuje zniszczyć statek?!
 
-6
+4
 00:02:06,650 --> 00:02:07,860
 Gin!
 
-7
+5
 00:02:07,860 --> 00:02:10,150
 Odstrzel Zeffowi łeb!
 
-8
+6
 00:02:11,820 --> 00:02:13,280
 Natychmiast!
 
-9
+7
 00:02:13,280 --> 00:02:19,040
 A-Ale przecież ocalił nasze życia,
 wręczając nam te sto posiłków!
 
-10
+8
 00:02:21,120 --> 00:02:22,830
 Gin, niech cię!
 
-11
+9
 00:02:22,830 --> 00:02:23,620
 Hej!
 
-12
+10
 00:02:24,040 --> 00:02:27,250
 Tak w zasadzie to wcale
 was nie zaatakowałem...
 
-13
+11
 00:02:28,420 --> 00:02:30,090
 Ja tylko rozwaliłem płetwę.
 
-14
+12
 00:02:31,550 --> 00:02:33,220
 Słuchaj no, majtek!
 
-15
+13
 00:02:33,220 --> 00:02:34,550
 Co ty właściwie kombinujesz?!
 
-16
+14
 00:02:34,550 --> 00:02:35,550
 Zatapiam.
 
-17
+15
 00:02:35,550 --> 00:02:36,510
 Co?!
 
-18
+16
 00:02:37,970 --> 00:02:39,470
 Chcę zatopić ten statek.
 
-19
+17
 00:02:42,350 --> 00:02:45,270
 – Nie rób sobie jaj!
 – Nie rób sobie jaj!
 
-20
+18
 00:02:45,270 --> 00:02:47,900
 Co to ma niby być za wymówka?!
 
-21
+19
 00:02:47,900 --> 00:02:49,400
 Oszalałeś, durniu?!
 
-22
+20
 00:02:49,400 --> 00:02:52,780
 Jeśli zniszczę statek, nie będą
 mieli powodu, aby atakować.
 
-23
+21
 00:02:52,780 --> 00:02:54,200
 Co?!
 
-24
+22
 00:02:55,700 --> 00:02:57,990
 Co ty możesz wiedzieć?
 
-25
+23
 00:02:57,990 --> 00:02:59,910
 Co niby wiesz o moim długu...
 
-26
+24
 00:02:59,910 --> 00:03:01,700
 Co niby wiesz o tej restauracji?!
 
-27
+25
 00:03:02,450 --> 00:03:04,660
 I przez ten dług chcesz za nią umrzeć?
 
-28
+26
 00:03:04,660 --> 00:03:06,500
 Głupi jesteś?
 
-29
+27
 00:03:06,500 --> 00:03:07,630
 Co, żeś powiedział?!
 
-30
+28
 00:03:08,000 --> 00:03:09,130
 Śmierć...
 
-31
+29
 00:03:10,040 --> 00:03:12,510
 Śmierć nie spłaci długu wdzięczności!
 
-32
+30
 00:03:13,210 --> 00:03:15,800
 To nie po to cię ocalił!
 
-33
+31
 00:03:16,470 --> 00:03:19,470
 Dostać szansę na życie,
 a mimo to wybrać śmierć...
 
-34
+32
 00:03:19,470 --> 00:03:21,430
 Tylko słabeusz by tak zrobił!
 
-35
+33
 00:03:21,430 --> 00:03:24,430
 W takim razie jak inaczej
 mam to załatwić?!
 
-36
+34
 00:03:27,270 --> 00:03:29,060
 No już, panowie...
 
-37
+35
 00:03:29,060 --> 00:03:30,980
 Kłótnią nic tu nie wskóracie.
 
-38
+36
 00:03:30,980 --> 00:03:33,860
 Sprzeczka między kompanami
 jest co najmniej haniebna.
 
-39
+37
 00:03:34,280 --> 00:03:38,410
 Radzę więcej nie kombinować,
 dopóki mamy go jako zakładnika.
 
-40
+38
 00:03:38,780 --> 00:03:42,740
 Szczęście was opuściło, skoro musicie
 stawiać się nam, Piratom Kriega.
 
-41
+39
 00:03:43,490 --> 00:03:48,000
 A teraz moje Fire Pearl
 spopielą was na śmierć!
 
-42
+40
 00:04:01,050 --> 00:04:02,050
 Gin!
 
-43
+41
 00:04:02,050 --> 00:04:03,470
 Dlaczego...
 
-44
+42
 00:04:03,470 --> 00:04:06,060
 Gin?
 
-45
+43
 00:04:06,060 --> 00:04:07,810
 Wybacz, Pearl.
 
-46
+44
 00:04:07,810 --> 00:04:09,020
 Odsuń się na chwilę...
 
-47
+45
 00:04:13,320 --> 00:04:14,440
 Gin!
 
-48
+46
 00:04:14,440 --> 00:04:16,490
 Próbujesz nas zdradzić?!
 
-49
+47
 00:04:16,490 --> 00:04:18,950
 Wybacz, Don Krieg.
 
-50
+48
 00:04:18,950 --> 00:04:22,620
 Zawdzięczamy życie temu człowiekowi.
 
-51
+49
 00:04:23,120 --> 00:04:25,790
 Nie chcę, aby zginął w taki sposób.
 
-52
+50
 00:04:25,790 --> 00:04:27,410
 Przynajmniej...
 
-53
+51
 00:04:29,080 --> 00:04:31,790
 pozwól mi go własnoręcznie pochować.
 
-54
+52
 00:04:36,210 --> 00:04:38,590
 Postradałeś zmysły,
 
-55
+53
 00:04:38,590 --> 00:04:42,390
 Generale Pirackiej Floty?
 
-56
+54
 00:04:43,010 --> 00:04:44,850
 Generał Pirackiej Floty?
 
-57
+55
 00:04:45,350 --> 00:04:48,480
 To on nie był zwykłym przydupasem?
 
-58
+56
 00:04:48,480 --> 00:04:53,110
 Rozwalił tamtemu tarczę...
 Musi mieć niezłą krzepę...!
 
-59
+57
 00:04:55,440 --> 00:04:59,240
 Widzisz? Zwabiłem go, zgodnie
 z moim świetnym planem!
 
-60
+58
 00:04:59,240 --> 00:05:00,360
 Nie chrzań!
 
-61
+59
 00:05:00,360 --> 00:05:03,120
 Ty naprawdę chciałeś
 zniszczyć statek!
 
-62
+60
 00:05:03,530 --> 00:05:04,620
 Sanji!
 
-63
+61
 00:05:04,620 --> 00:05:05,580
 Czego?!
 
-64
+62
 00:05:05,580 --> 00:05:11,500
 Chciałem, abyś opuścił ten statek bez szwanku,
 ale wygląda na to, że nie będzie po mojemu.
 
-65
+63
 00:05:11,500 --> 00:05:13,250
 Zgadza się, nie będzie.
 
-66
+64
 00:05:13,250 --> 00:05:18,010
 W takim razie jedyne co mogę
 zrobić po mojemu, to załatwić cię...
 
-67
+65
 00:05:18,010 --> 00:05:19,220
 własnymi rękami.
 
-68
+66
 00:05:20,720 --> 00:05:22,340
 Ta, dziękuję.
 
-69
+67
 00:05:22,340 --> 00:05:23,680
 Gnoju.
 
-70
+68
 00:05:23,680 --> 00:05:26,010
 Ciebie też się to tyczy,
 słomkowy koleżko.
 
-71
+69
 00:05:26,010 --> 00:05:27,010
 Nie za bardzo...
 
-72
+70
 00:05:27,010 --> 00:05:30,600
 Ja nie przegram
 z takim cieniasem jak ty.
 
-73
+71
 00:05:33,270 --> 00:05:34,690
 Ty gnido!
 
-74
+72
 00:05:34,690 --> 00:05:37,280
 Coś ty właśnie powiedział
 do naszego generała?!
 
-75
+73
 00:05:37,280 --> 00:05:40,700
 "Gnój"?! "Cienias"?!
 Na za dużo sobie pozwalacie!
 
-76
+74
 00:05:40,700 --> 00:05:44,450
 Jesteśmy najsilniejszą załogą
 na East Blue, Piratami Kriega!
 
-77
+75
 00:05:46,450 --> 00:05:49,450
 A nie przypadkiem po prostu
 najliczniejszą załogą?
 
-78
+76
 00:05:55,880 --> 00:05:57,340
 Oho...
 
-79
+77
 00:05:57,340 --> 00:05:58,880
 Chyba trafiłeś w sedno...
 
-80
+78
 00:05:58,880 --> 00:05:59,840
 Czyli jednak.
 
-81
+79
 00:05:59,840 --> 00:06:01,170
 Ty draniu!
 
-82
+80
 00:06:01,170 --> 00:06:03,840
 Zabiję cię!
 
-83
+81
 00:06:01,920 --> 00:06:03,840
 Nie kpij z nas!
 
-84
+82
 00:06:03,840 --> 00:06:05,300
 Wycofać się!
 
-85
+83
 00:06:05,640 --> 00:06:06,930
 Don Krieg!
 
-86
+84
 00:06:06,930 --> 00:06:08,350
 Ale...
 
-87
+85
 00:06:08,850 --> 00:06:14,350
 Skoro przezwiska o byciu słabym was irytują,
 to tylko i wyłącznie dowodzi waszej słabości.
 
-88
+86
 00:06:15,520 --> 00:06:18,480
 Tylko rezultat działań
 decyduje o sile.
 
-89
+87
 00:06:18,480 --> 00:06:19,820
 Ja tu jestem.
 
-90
+88
 00:06:20,400 --> 00:06:22,780
 Więc przestańcie tak jęczeć!
 
-91
+89
 00:06:22,780 --> 00:06:24,990
 – T-Tak jest!
 – T-Tak jest!
 
-92
+90
 00:06:24,990 --> 00:06:26,120
 Gin!
 
-93
+91
 00:06:27,030 --> 00:06:29,950
 Wykończenie tego
 kuchcika to twoja brocha.
 
-94
+92
 00:06:30,790 --> 00:06:34,920
 Za to tamten naiwny głupiec
 będzie miał do czynienia ze mną...
 
-95
+93
 00:06:36,130 --> 00:06:38,920
 Zrozumiano, Don Krieg.
 
-96
+94
 00:06:41,840 --> 00:06:43,130
 Hej, gówniarzu!
 
-97
+95
 00:06:43,840 --> 00:06:51,720
 Dopilnuję, abyś w pełni doświadczył mocy,
 która była w stanie podbić całe East Blue.
 
-98
+96
 00:06:51,720 --> 00:06:58,230
 Przekonasz się, że ten twój diabelski
 owoc jest tak naprawdę niczego wart.
 
-99
+97
 00:06:59,480 --> 00:07:01,530
 Pitu, pitu...
 Za dużo gadasz.
 
-100
+98
 00:07:01,530 --> 00:07:03,610
 Mam zamiar skopać ci tyłek.
 
-101
+99
 00:07:03,610 --> 00:07:05,150
 Żadnej w tym filozofii.
 
-102
+100
 00:07:05,150 --> 00:07:07,410
 Szykuj się, bo nadchodzę!
 
-103
+101
 00:07:07,950 --> 00:07:10,030
 Przygotuj się na lanie!
 
-104
+102
 00:07:11,040 --> 00:07:12,370
 Bezczelny smarkacz.
 
-105
+103
 00:07:14,370 --> 00:07:16,370
 Kuchcik to ma teraz przerypane.
 
-106
+104
 00:07:16,370 --> 00:07:17,750
 Racja.
 
-107
+105
 00:07:17,750 --> 00:07:21,840
 Skoro Gin użył swojej
 broni, to nie ma zmiłuj.
 
-108
+106
 00:07:29,350 --> 00:07:31,260
 W końcu mówią na niego...
 
-109
+107
 00:07:31,260 --> 00:07:32,350
 Czart.
 
-110
+108
 00:07:33,350 --> 00:07:35,690
 Nieważne czy jego
 wróg wije się z bólu.
 
-111
+109
 00:07:35,690 --> 00:07:37,940
 Bezlitośnie torturuje
 go aż do śmierci.
 
-112
+110
 00:07:38,560 --> 00:07:41,400
 Nie ma w sobie ani krzty
 współczucia niczym czart...
 
-113
+111
 00:07:45,490 --> 00:07:49,950
 Wybacz mi, Sanji,
 ale nie pokonasz mnie.
 
-114
+112
 00:07:49,950 --> 00:07:52,910
 Mów sobie co chcesz, płotko.
 
-115
+113
 00:07:58,500 --> 00:07:59,460
 Nadchodzę!
 
-116
+114
 00:08:14,310 --> 00:08:15,430
 Aż ty...!
 
-117
+115
 00:08:23,020 --> 00:08:23,980
 Sanji!
 
-118
+116
 00:08:32,070 --> 00:08:33,240
 Żegnaj...
 
-119
+117
 00:08:34,240 --> 00:08:37,040
 Wbij sobie to w końcu do głowy!
 
-120
+118
 00:08:42,250 --> 00:08:44,130
 Tak! Generał jest niesamowity!
 
-121
+119
 00:08:44,130 --> 00:08:46,210
 Zmiażdź go, Gin!
 
-122
+120
 00:08:46,210 --> 00:08:47,510
 – Sanji!
 – Sanji!
 
-123
+121
 00:08:47,510 --> 00:08:49,180
 Weź się w garść!
 
-124
+122
 00:08:54,180 --> 00:08:55,510
 Zdychaj!
 
-125
+123
 00:09:20,290 --> 00:09:23,580
 Ten kucharz dał radę trafić Gina...
 
-126
+124
 00:09:23,580 --> 00:09:27,250
 Czy to oznacza,
 że Gin również przegra...?
 
-127
+125
 00:09:27,630 --> 00:09:28,840
 Głupcy...
 
-128
+126
 00:09:29,880 --> 00:09:34,220
 Na własne oczy widzieliście,
 do czego jest zdolny, prawda?
 
-129
+127
 00:09:34,220 --> 00:09:38,310
 Gin może i jest czartem, ale na tyle
 opanowanym, że mogę mu zaufać.
 
-130
+128
 00:09:38,310 --> 00:09:42,190
 Właśnie dlatego mianowałem
 go waszym generałem.
 
-131
+129
 00:09:42,690 --> 00:09:45,310
 Wkrótce pokaże swoje
 prawdziwe oblicze.
 
-132
+130
 00:09:50,110 --> 00:09:52,490
 Wszystko w porządku z Sanjim?
 
-133
+131
 00:09:52,490 --> 00:09:54,240
 No przecież, że nie!
 
-134
+132
 00:09:54,240 --> 00:09:56,910
 Najpierw ten facet
 z tarczą, teraz jeszcze to...
 
-135
+133
 00:09:56,910 --> 00:09:59,540
 Pewnie ma jakieś pięć,
 może sześć złamanych żeber.
 
-136
+134
 00:09:59,870 --> 00:10:01,870
 Nie takie smaczne...
 
-137
+135
 00:10:01,870 --> 00:10:04,540
 jak myślałem...
 
-138
+136
 00:10:04,540 --> 00:10:06,040
 te twoje dango na patykach.
 
-139
+137
 00:10:07,040 --> 00:10:10,880
 To wszystko, na co
  stać pana generała?
 
-140
+138
 00:10:17,930 --> 00:10:20,100
 Co on wyprawia w takiej chwili?
 
-141
+139
 00:10:21,980 --> 00:10:24,560
 No dobra! To moja szansa,
 aby skopać mu tyłek!
 
-142
+140
 00:10:30,030 --> 00:10:31,530
 Weź, bo ci żyłka pęknie.
 
-143
+141
 00:10:46,830 --> 00:10:50,630
 Niech cię szlag! To chcesz
 się ze mną bić czy nie?!
 
-144
+142
 00:10:50,630 --> 00:10:52,050
 Bić się z tobą?
 
-145
+143
 00:10:52,050 --> 00:10:54,430
 Nie czuję takiej potrzeby.
 
-146
+144
 00:10:54,430 --> 00:10:56,220
 Ale czuję potrzebę, by cię zabić.
 
-147
+145
 00:10:56,220 --> 00:10:57,800
 To wszystko.
 
-148
+146
 00:10:58,220 --> 00:11:01,470
 W taki sposób ludzie ukazują
 swoją przewagę, chłopcze.
 
-149
+147
 00:11:02,060 --> 00:11:03,890
 Zapamiętaj to sobie, małpeczko!
 
-150
+148
 00:11:03,890 --> 00:11:05,640
 Że co?!
 
-151
+149
 00:11:05,640 --> 00:11:07,940
 Może i małpeczka,
 ale sieknąć potrafi!
 
-152
+150
 00:11:13,780 --> 00:11:14,950
 Sanji!
 
-153
+151
 00:11:24,210 --> 00:11:27,370
 Tak jest! To musiało porachować
 mu wszystkie kości!
 
-154
+152
 00:11:27,370 --> 00:11:29,170
 Pokaż mu!
 
-155
+153
 00:11:29,170 --> 00:11:32,170
 Cholera! Ten facet z tarczą
 za bardzo go osłabił!
 
-156
+154
 00:11:32,170 --> 00:11:36,010
 Przyjął już z dziesięć ciosów
 od tych żelaznych kul...
 
-157
+155
 00:11:40,010 --> 00:11:42,930
 Nie ściemniałeś. Robisz
 rzeczy po swojemu...
 
-158
+156
 00:11:43,470 --> 00:11:45,100
 ty nędzna płotko!
 
-159
+157
 00:11:52,480 --> 00:11:53,980
 No to klops...
 
-160
+158
 00:11:53,980 --> 00:11:56,570
 On jest okropnie silny...
 
-161
+159
 00:12:00,030 --> 00:12:01,080
 To twój koniec!
 
-162
+160
 00:12:02,160 --> 00:12:03,540
 Daj już sobie spokój.
 
-163
+161
 00:12:07,290 --> 00:12:09,250
 Co to miało być?! Litość?
 
-164
+162
 00:12:11,420 --> 00:12:13,210
 Nie żartuj sobie!
 
-165
+163
 00:12:14,800 --> 00:12:15,840
 Gin!
 
-166
+164
 00:12:19,760 --> 00:12:20,640
 Sanji!
 
-167
+165
 00:12:24,770 --> 00:12:25,640
 Sanji!
 
-168
+166
 00:12:25,640 --> 00:12:30,940
 Tylko nie to! Przecież on nie może już
 nawet znieść impetu własnych ataków!
 
-169
+167
 00:12:45,950 --> 00:12:47,540
 – Tak jest!
 – Tak jest!
 
-170
+168
 00:12:47,540 --> 00:12:50,170
 To właśnie nasz Gin!
 
-171
+169
 00:12:53,880 --> 00:12:55,090
 Cholerny...
 
-172
+170
 00:12:55,670 --> 00:12:57,670
 draniu...
 
-173
+171
 00:13:22,200 --> 00:13:26,540
 Nie jestem w stanie, Don Krieg!
 
-174
+172
 00:13:28,620 --> 00:13:29,540
 Gin...
 
-175
+173
 00:13:30,710 --> 00:13:32,330
 Nie jestem w stanie...
 
-176
+174
 00:13:33,540 --> 00:13:35,750
 zabić tego człowieka...
 
-177
+175
 00:13:36,250 --> 00:13:38,630
 Co, żeś powiedział gnido?!
 
-178
+176
 00:13:38,630 --> 00:13:40,380
 To...
 
-179
+177
 00:13:41,720 --> 00:13:44,090
 To... To był...
 
-180
+178
 00:13:44,720 --> 00:13:46,350
 To był pierwszy raz...
 
-181
+179
 00:13:51,520 --> 00:13:52,730
 To takie upokarzające.
 
-182
+180
 00:13:53,980 --> 00:13:55,060
 Wybacz...
 
-183
+181
 00:13:55,060 --> 00:13:56,570
 Dziękuję...
 
-184
+182
 00:13:56,570 --> 00:13:58,110
 Myślałem, że zginę.
 
-185
+183
 00:13:58,110 --> 00:14:00,320
 Myślałem, że już po mnie.
 
-186
+184
 00:14:02,320 --> 00:14:03,450
 Pyszne...
 
-187
+185
 00:14:03,450 --> 00:14:04,740
 Jest przepyszne.
 
-188
+186
 00:14:04,740 --> 00:14:09,160
 Nigdy nie jadłem czegoś
 równie smacznego.
 
-189
+187
 00:14:10,290 --> 00:14:12,120
 Cholernie smaczne, co?
 
-190
+188
 00:14:18,800 --> 00:14:20,300
 Wybacz.
 
-191
+189
 00:14:20,300 --> 00:14:24,050
 Będziesz miał kłopoty, bo nakarmiłeś
 mnie za darmo, prawda?
 
-192
+190
 00:14:24,050 --> 00:14:27,100
 Nie ma dowodów, to i nie ma kłopotów.
 
-193
+191
 00:14:31,730 --> 00:14:34,600
 ...gdy ktokolwiek, kiedykolwiek...
 
-194
+192
 00:14:34,600 --> 00:14:36,940
 był dla mnie taki miły...
 
-195
+193
 00:14:38,860 --> 00:14:40,690
 Ja po prostu...
 
-196
+194
 00:14:40,690 --> 00:14:43,820
 nie mogę zabić tego człowieka!
 
-197
+195
 00:14:44,200 --> 00:14:46,740
 Kiedy tylko chcesz!
 
-198
+196
 00:14:48,200 --> 00:14:49,410
 Zdaję sobię sprawę...
 
-199
+197
 00:14:50,120 --> 00:14:53,210
 Nie mam zamiaru cię zdradzać.
 
-200
+198
 00:14:53,870 --> 00:14:57,750
 Nie mam żadnych wątpliwości
 co do słuszności naszych czynów...
 
-201
+199
 00:14:58,250 --> 00:15:01,920
 Nadal darzę szacunkiem twoją
 potęgę, jak również ciebie samego.
 
-202
+200
 00:15:03,130 --> 00:15:06,510
 Rozpierała mnie radość, gdy
 obdarzyłeś zaufaniem moją siłę,
 
-203
+201
 00:15:06,510 --> 00:15:09,010
 mianując mnie generałem.
 
-204
+202
 00:15:09,010 --> 00:15:14,060
 Dlatego właśnie,zawsze podążałem
 i będę podążał za twoim rozkazem...
 
-205
+203
 00:15:15,140 --> 00:15:15,940
 Jednak...
 
-206
+204
 00:15:16,400 --> 00:15:17,310
 Mimo tego...
 
-207
+205
 00:15:18,270 --> 00:15:21,020
 To jedyny człowiek, którego
 po prostu nie mogę zabić!
 
-208
+206
 00:15:24,900 --> 00:15:26,320
 Don Krieg...
 
-209
+207
 00:15:26,780 --> 00:15:28,700
 Jeśli to możliwe...
 
-210
+208
 00:15:30,450 --> 00:15:33,660
 Chcę, abyśmy zostawili
 tę restaurację w spokoju.
 
-211
+209
 00:15:34,620 --> 00:15:36,750
 Ty kanalio!
 
-212
+210
 00:15:36,750 --> 00:15:40,500
 Sprzeciwiasz się moim rozkazom,
 a teraz masz czelność mnie pouczać?!
 
-213
+211
 00:15:40,500 --> 00:15:42,250
 Co to ma znaczyć?!
 
-214
+212
 00:15:44,260 --> 00:15:46,970
 Cóż za rozczarowanie...
 
-215
+213
 00:15:46,970 --> 00:15:52,310
 Na samą myśl o współczuciu
 czy moralności robi mi się niedobrze.
 
-216
+214
 00:15:53,100 --> 00:15:54,980
 Czyż nie powtarzałem tego w kółko?
 
-217
+215
 00:15:57,520 --> 00:16:00,110
 Z drogi, psubraty.
 
-218
+216
 00:16:02,020 --> 00:16:03,480
 Don! Przecież to...
 
-219
+217
 00:16:06,280 --> 00:16:08,950
 N-No nie! To MH5!
 
-220
+218
 00:16:08,950 --> 00:16:11,410
 To najgroźniejszy gaz paraliżujący!
 
-221
+219
 00:16:11,410 --> 00:16:12,200
 Co?!
 
-222
+220
 00:16:12,200 --> 00:16:13,160
 Gaz paraliżujący?!
 
-223
+221
 00:16:14,330 --> 00:16:15,660
 Szybko, maski!
 
-224
+222
 00:16:14,790 --> 00:16:16,370
 Zakładajcie maski!
 
-225
+223
 00:16:15,660 --> 00:16:17,750
 Prędko!
 
-226
+224
 00:16:16,370 --> 00:16:17,750
 Inaczej też umrzemy!
 
-227
+225
 00:16:17,750 --> 00:16:20,380
 Używać takiej broni...
 
-228
+226
 00:16:18,670 --> 00:16:20,380
 To szczyt podłości, ty draniu!
 
-229
+227
 00:16:20,380 --> 00:16:22,630
 Wiesz, z czym wiąże
 się jej użycie?!
 
-230
+228
 00:16:23,050 --> 00:16:24,710
 Przestańcie biadolić.
 
-231
+229
 00:16:24,710 --> 00:16:27,380
 To nie ma żadnego znaczenia.
 
-232
+230
 00:16:27,380 --> 00:16:29,640
 Taka jest właśnie bitwa!
 
-233
+231
 00:16:30,050 --> 00:16:32,640
 Liczy się tylko zwycięstwo.
 
-234
+232
 00:16:33,560 --> 00:16:35,600
 Nieczyste zagrania? Tanie sztuczki?
 
-235
+233
 00:16:35,600 --> 00:16:37,600
 Co w tym niby złego?!
 
-236
+234
 00:16:38,270 --> 00:16:39,980
 Potęga ustala zasady.
 
-237
+235
 00:16:39,980 --> 00:16:42,980
 Liczy się tylko rezultat,
 niezaleznie od środków!
 
-238
+236
 00:16:43,520 --> 00:16:46,150
 I co z tego, że użyję
 gazu paraliżującego?
 
-239
+237
 00:16:46,150 --> 00:16:47,690
 Liczy się zwycięstwo!
 
-240
+238
 00:16:49,240 --> 00:16:51,490
 To właśnie jest siła.
 
-241
+239
 00:16:54,370 --> 00:16:55,910
 Co za przegniły drań...!
 
-242
+240
 00:17:01,880 --> 00:17:05,170
 Natychmiast pozbądź się tej maski!
 
-243
+241
 00:17:06,550 --> 00:17:09,590
 Nie należysz już do mojej załogi.
 
-244
+242
 00:17:11,300 --> 00:17:12,300
 Zdychaj!
 
-245
+243
 00:17:19,390 --> 00:17:22,730
 Nie pozwolę ci użyć tego gazu!
 
-246
+244
 00:17:22,730 --> 00:17:25,690
 Nie wierć mi się tu, topielcu!
 
-247
+245
 00:17:38,750 --> 00:17:39,960
 N-Niech to!
 
-248
+246
 00:17:41,290 --> 00:17:42,500
 Gin!
 
-249
+247
 00:17:42,500 --> 00:17:45,880
 Nie bierz słów tego słabeusza do siebie!
 
-250
+248
 00:17:46,800 --> 00:17:48,960
 Skopię mu tyłek tu i teraz!
 
-251
+249
 00:17:50,300 --> 00:17:52,880
 Nie waż się obrażać Don Kriega!
 
-252
+250
 00:17:53,760 --> 00:17:56,390
 On jest najsilniejszy.
 
-253
+251
 00:17:56,390 --> 00:17:58,060
 Nie zdołasz go pokonać.
 
-254
+252
 00:17:58,600 --> 00:18:00,180
 Przejrzyj na oczy, durniu!
 
-255
+253
 00:18:00,810 --> 00:18:03,560
 Właśnie on chce cię teraz zabić!
 
-256
+254
 00:18:03,560 --> 00:18:05,360
 Nie ma co się dziwić...
 
-257
+255
 00:18:05,360 --> 00:18:08,480
 Dałem się ponieść własnym emocjom,
 
-258
+256
 00:18:08,480 --> 00:18:11,860
 przez co nie byłem w stanie
 spełnić swoich obowiązków...
 
-259
+257
 00:18:12,360 --> 00:18:13,360
 To...
 
-260
+258
 00:18:13,360 --> 00:18:15,200
 To zasłużona kara!
 
-261
+259
 00:18:17,660 --> 00:18:18,410
 Gin!
 
-262
+260
 00:18:18,790 --> 00:18:20,910
 Dlaczego... Dlaczego?
 
-263
+261
 00:18:21,870 --> 00:18:24,750
 Próbujesz odejść z dumą, co?
 
-264
+262
 00:18:24,750 --> 00:18:26,880
 Jednak trochę na to za późno.
 
-265
+263
 00:18:26,880 --> 00:18:29,340
 Zdychaj razem z tym
 swoim kucharzyną!
 
-266
+264
 00:18:30,300 --> 00:18:31,760
 Gaz paraliżujący...
 
-267
+265
 00:18:31,760 --> 00:18:32,550
 M...
 
-268
+266
 00:18:32,550 --> 00:18:33,510
 H...
 
-269
+267
 00:18:33,510 --> 00:18:34,430
 5!
 
-270
+268
 00:18:39,970 --> 00:18:41,430
 Leci!
 
-271
+269
 00:18:41,430 --> 00:18:42,890
 Wszyscy nurkować!
 
-272
+270
 00:18:42,890 --> 00:18:44,350
 Szefie! Do restauracji!
 
-273
+271
 00:18:48,230 --> 00:18:49,570
 Pożyczam na chwilę.
 
-274
+272
 00:18:49,980 --> 00:18:51,070
 Sanji! Gin!
 
-275
+273
 00:18:51,070 --> 00:18:51,990
 Łapcie!
 
-276
+274
 00:18:51,990 --> 00:18:53,030
 Majtek!
 
-277
+275
 00:18:53,860 --> 00:18:54,990
 Moja kolej!
 
-278
+276
 00:18:54,990 --> 00:18:56,410
 C-Co?!
 
-279
+277
 00:18:56,410 --> 00:18:58,450
 Wszyscy dali nura!
 
-280
+278
 00:19:07,330 --> 00:19:09,130
 Co robić?! Co robić?!
 Co robić?! Co robić?!
 
-281
+279
 00:19:16,090 --> 00:19:16,800
 Oto właśnie...
 
-282
+280
 00:19:17,430 --> 00:19:18,970
 potęga.
 
-283
+281
 00:19:33,860 --> 00:19:36,150
 U-Uratowany...
 
-284
+282
 00:19:36,150 --> 00:19:38,490
 Dobrze, że znalazłem
 tę maskę na czas...
 
-285
+283
 00:19:44,250 --> 00:19:47,000
 C-Co za porypany wariat...
 
-286
+284
 00:19:47,000 --> 00:19:49,500
 Używać gazu paraliżującego w trakcie walki...
 
-287
+285
 00:19:49,500 --> 00:19:51,880
 T-To jakiś diabeł...
 
-288
+286
 00:19:51,880 --> 00:19:55,130
 Właśnie. Żaden człowiek
 by czegoś takiego nie zrobił!
 
-289
+287
 00:20:08,350 --> 00:20:10,860
 Myślisz, że Majtek i Sanji są cali?
 
-290
+288
 00:20:10,860 --> 00:20:12,190
 Ciężko powiedzieć...
 
-291
+289
 00:20:12,190 --> 00:20:14,860
 Spójrz! Mgła trucizny się rozwiewa!
 
-292
+290
 00:20:24,830 --> 00:20:25,790
 Gin!
 
-293
+291
 00:20:29,790 --> 00:20:31,250
 Zabieraj...
 
-294
+292
 00:20:31,670 --> 00:20:33,130
 Zabieraj łapska!
 
-295
+293
 00:20:34,630 --> 00:20:35,590
 Gin!
 
-296
+294
 00:20:35,590 --> 00:20:36,920
 Gdzie twoja maska?!
 
-297
+295
 00:20:41,300 --> 00:20:42,640
 Ta maska...
 
-298
+296
 00:20:42,640 --> 00:20:44,100
 Oddałeś mi swoją?
 
-299
+297
 00:20:45,220 --> 00:20:46,060
 Gin!
 
-300
+298
 00:20:48,390 --> 00:20:49,900
 Co za debil.
 
-301
+299
 00:20:49,900 --> 00:20:54,110
 Będziesz wił się z bólu, bo zebrało ci się
 na wdzięczność za jakieś durne żarcie.
 
-302
+300
 00:20:54,650 --> 00:20:58,820
 No, ale wychodzi na to, że dureń
 pozostaje głupi aż do śmierci, co?
 
-303
+301
 00:21:03,240 --> 00:21:04,330
 Don...
 
-304
+302
 00:21:04,330 --> 00:21:06,330
 Don Krieg...
 
-305
+303
 00:21:08,750 --> 00:21:09,750
 Gin...
 
-306
+304
 00:21:14,630 --> 00:21:17,050
 Gin, ty...
 
-307
+305
 00:21:19,880 --> 00:21:24,300
 Postanowiłeś podążać
 za niewłaściwym człowiekowiem...
 
-308
+306
 00:21:28,310 --> 00:21:30,810
 Tobie na serio szkoda takiego ścierwa?
 
-309
+307
 00:21:30,810 --> 00:21:31,770
 Ścierwa?!
 
-310
+308
 00:21:31,770 --> 00:21:33,360
 Zgadza się.
 
-311
+309
 00:21:33,360 --> 00:21:37,570
 Idiota, który ignoruje moje rozkazy,
 bo zapomniał o przyświecającym nam celu...
 
-312
+310
 00:21:37,570 --> 00:21:40,030
 jest dla mnie bezwartościowy.
 
-313
+311
 00:21:40,030 --> 00:21:43,280
 Nie ma gwarancji, że nie
 zdradzi mnie ponownie.
 
-314
+312
 00:21:43,280 --> 00:21:46,240
 Chęć ukrócenia mu męki to
  wyraz mojej miłości, czyż nie?
 
-315
+313
 00:21:46,240 --> 00:21:51,120
 N-Nigdy bym nie przypuszczał,
 że Don będzie chciał zabić generała...
 
-316
+314
 00:21:51,120 --> 00:21:52,370
 T-To niedorzeczne...
 
-317
+315
 00:21:52,370 --> 00:21:54,000
 On by tego nie zrobił!
 
-318
+316
 00:21:54,000 --> 00:21:56,000
 Gin jest jego prawą ręką!
 
-319
+317
 00:21:56,000 --> 00:21:57,340
 Właśnie.
 
-320
+318
 00:21:57,340 --> 00:22:01,720
 Nikt nie był mu jeszcze
 tak lojalny jak Gin!
 
-321
+319
 00:22:02,380 --> 00:22:04,220
 Nawet wtedy...
 
-322
+320
 00:22:04,220 --> 00:22:09,980
 Fullbody wraz z Marynarką ścigali
 nas, gdy opuściliśmy Grand Line...
 
-323
+321
 00:22:09,980 --> 00:22:11,180
 Tak...
 
-324
+322
 00:22:11,180 --> 00:22:15,900
 Generał zgodził się odegrać
 rolę przynęty, udając Dona...
 
-325
+323
 00:22:15,900 --> 00:22:19,900
 Zawsze ryzykował życiem,
 gdy walczył o imię Don Kriega...
 
-326
+324
 00:22:19,900 --> 00:22:22,900
 To absurd! Jak on
  może chcieć go zabić?
 
-327
+325
 00:22:26,660 --> 00:22:28,410
 To podłe...
 
-328
+326
 00:22:28,410 --> 00:22:30,410
 Patty! Mamy może antidotum?!
 
-329
+327
 00:22:30,410 --> 00:22:34,830
 No... tak jakby, mamy leki,
 ale na zatrucia pokarmowe.
 
-330
+328
 00:22:34,830 --> 00:22:36,840
 To bez znaczenia! Przynieś je tutaj!
 
-331
+329
 00:22:36,840 --> 00:22:38,420
 Głupcze!
 
-332
+330
 00:22:38,420 --> 00:22:41,050
 Skoro chcesz go ocalić,
 to załóż mu maskę!
 
-333
+331
 00:22:41,050 --> 00:22:43,760
 Powinna mieć jakiś filtr detoksykujący!
 
-334
+332
 00:22:43,760 --> 00:22:46,970
 Przenieśmy go na drugie piętro
 i niech sobie tam pooddycha.
 
-335
+333
 00:22:46,970 --> 00:22:50,560
 Nie ma innego wyjścia,
 jeśli chcemy go uratować!
 
-336
+334
 00:22:50,560 --> 00:22:52,810
 Ruszcie się, Patty, Carne!
 
-337
+335
 00:22:52,810 --> 00:22:54,810
 No już, nie drzyj się tak!
 
-338
+336
 00:22:54,810 --> 00:22:56,400
 Że ja też?!
 
-339
+337
 00:22:58,270 --> 00:22:59,770
 Daremny wasz trud.
 
-340
+338
 00:22:59,770 --> 00:23:02,610
 Została mu co najwyżej godzina.
 
-341
+339
 00:23:04,780 --> 00:23:06,530
 Nie waż mi się umierać, Gin.
 
-342
+340
 00:23:08,990 --> 00:23:10,830
 Ktoś taki jak on
 nie może cię zabić!
 
-343
+341
 00:23:12,120 --> 00:23:14,460
 Trzymaj się! Zrozumiano?!
 
-344
+342
 00:23:14,460 --> 00:23:17,080
 Spuszczę mu lanie w twoim imieniu!
 
-345
+343
 00:23:17,080 --> 00:23:18,790
 N-Nie rób tego...
 
-346
+344
 00:23:18,790 --> 00:23:20,380
 Nie jesteś w stanie...
 
-347
+345
 00:23:20,380 --> 00:23:22,710
 go pokonać...!
 
-348
+346
 00:23:22,710 --> 00:23:23,720
 Opanuj się!
 
-349
+347
 00:23:23,720 --> 00:23:27,300
 Bezmyślny atak to szarża
 prosto w jego szpony. Zginiesz!
 
-350
+348
 00:23:30,180 --> 00:23:31,260
 Ja nie zginę.
 
-351
+349
 00:23:32,680 --> 00:23:34,560
 A strzelaj sobie, ile wlezie!
 
-352
+350
 00:23:34,560 --> 00:23:35,390
 Ej!
 
-353
+351
 00:23:35,390 --> 00:23:36,520
 Co za idiota...
 
-354
+352
 00:23:36,520 --> 00:23:40,110
 Przeciwnik, który stracił
 opanowanie to prosty cel.
 
-355
+353
 00:23:40,900 --> 00:23:44,900
 Na drodze topielca morze jest tożsame
 z piekłem. A tam, gdzie zmierzasz...
 
-356
+354
 00:23:45,860 --> 00:23:47,320
 No i są!
 
-357
+355
 00:23:46,490 --> 00:23:47,320
 Bomby!
 
-358
+356
 00:23:47,320 --> 00:23:49,030
 ...czeka twój grób!
 
-359
+357
 00:23:49,030 --> 00:23:50,830
 Mój grób?!
 
-360
+358
 00:23:55,750 --> 00:23:57,750
 No nie! Zwiewaj stamtąd, Majtku!
 
-361
+359
 00:24:00,380 --> 00:24:01,340
 Dostał!
 
-362
+360
 00:24:06,630 --> 00:24:08,430
 Już po nim.
 
-363
+361
 00:24:09,050 --> 00:24:10,390
 Majtek...
 
-364
+362
 00:24:14,680 --> 00:24:15,430
 A niech cię...
 
-365
+363
 00:24:15,430 --> 00:24:17,890
 Gum-Gumowy...
 
-366
+364
 00:24:17,890 --> 00:24:19,100
 No dalej, uderzaj...
 
-367
+365
 00:24:19,770 --> 00:24:20,480
 No i jest!
 
-368
+366
 00:24:20,860 --> 00:24:22,440
 ...jeśli chcesz!
 
-369
+367
 00:24:22,440 --> 00:24:23,570
 Co za tania sztuczka!
 
-370
+368
 00:24:27,030 --> 00:24:28,320
 Pistolet!
 
-371
+369
 00:24:29,410 --> 00:24:31,070
 Że co?!
 
-372
+370
 00:24:47,260 --> 00:24:49,970
 Don Krieg dostał łomot!
 
-373
+371
 00:24:49,970 --> 00:24:52,050
 Co jest nie tak z tym gościem?!
 
-374
+372
 00:24:52,050 --> 00:24:54,310
 Zdzielił go przez
 ten kolczasty płaszcz!
 
-375
+373
 00:24:54,310 --> 00:24:56,270
 Aua...
 
-376
+374
 00:24:59,100 --> 00:25:00,980
 Niesłychane...
 
-377
+375
 00:25:00,980 --> 00:25:05,360
 Nigdy wcześniej nie widziałem,
 żeby Don wylądował na deskach...
 
-378
+376
 00:25:05,360 --> 00:25:07,280
 Przyfasolił mu prosto w twarz!
 
-379
+377
 00:25:07,280 --> 00:25:09,740
 No i na dodatek przez
 jego kolczasty płaszcz!
 
-380
+378
 00:25:09,740 --> 00:25:12,700
 D-Dajesz wiarę?!
 
-381
+379
 00:25:20,120 --> 00:25:21,710
 To ma być...
 
-382
+380
 00:25:22,210 --> 00:25:24,130
 ten mój grób?
 
-383
+381
 00:25:24,840 --> 00:25:26,050
 Czy może jednak...
 
-384
+382
 00:25:27,670 --> 00:25:28,970
 twój?
 
-385
+383
 00:25:32,180 --> 00:25:33,510
 Mój...
 
-386
+384
 00:25:35,470 --> 00:25:36,720
 grób?!
 
-387
+385
 00:25:39,520 --> 00:25:41,020
 Coś takiego...
 
-388
+386
 00:25:43,440 --> 00:25:45,820
 nie da rady wysłać mnie do grobu.
 
-389
+387
 00:25:48,570 --> 00:25:51,610
 Nie umrę w takim miejscu.
 
-390
+388
 00:26:09,260 --> 00:26:11,630
 Ten gość to jakaś przesada...
 
-391
+389
 00:26:15,680 --> 00:26:19,220
 Czasami jeszcze zdarzają
 się tacy narwańcy...
 
-392
+390
 00:26:19,220 --> 00:26:24,270
 co to jak znajdą sobie jakiś cel,
 to będą walczyć aż do śmierci.
 
-393
+391
 00:26:25,270 --> 00:26:26,610
 Walczyć...
 
-394
+392
 00:26:27,230 --> 00:26:28,650
 aż do śmierci...
 
-395
+393
 00:26:29,480 --> 00:26:32,860
 Jeśli ktoś taki jest twoim wrogiem,
 to szczerze ci współczuję.
 
-396
+394
 00:26:35,820 --> 00:26:37,830
 Co do wyniku walki...
 
-397
+395
 00:26:37,830 --> 00:26:40,950
 Nieważne czy wygra, czy przegra...
 
-398
+396
 00:26:40,950 --> 00:26:44,790
 Lubię takich narwańców jak on!
+

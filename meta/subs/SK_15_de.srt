@@ -1,708 +1,702 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:02:32,510 --> 00:02:42,500
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:00:03,220 --> 00:00:05,860
 Waren nicht wir die Teufel?
 
-4
+2
 00:00:06,670 --> 00:00:11,870
 Die Shandia-Krieger haben Gottes Land,
 Upper Yard, nur angegriffen,
 
-5
+3
 00:00:11,870 --> 00:00:16,160
 weil sie die Heimat ihrer Vorfahren zurückhaben wollten.
 
-6
+4
 00:00:17,860 --> 00:00:20,360
 Schon wieder diese Sache, Gott?
 
-7
+5
 00:00:20,360 --> 00:00:23,750
 Seht doch nur, was für gesegnete Leben die Leute in Skypiea führen.
 
-8
+6
 00:00:24,620 --> 00:00:25,910
 Das alles begann,
 
-9
+7
 00:00:25,910 --> 00:00:30,550
 als unsere Vorfahren sich vor 400 Jahren Upper Yard aneigneten.
 
-10
+8
 00:00:31,060 --> 00:00:34,600
 Ist es nicht unsere Pflicht, diesen Kampf fortzuführen
 
-11
+9
 00:00:34,600 --> 00:00:37,350
 und den Segen dieses Landes zu beschützen?
 
-12
+10
 00:00:37,880 --> 00:00:40,450
 Wir haben doch so viel verhandelt wie möglich.
 
-13
+11
 00:00:40,450 --> 00:00:44,820
 Wer das nicht begreift, verdient kein Mitgefühl.
 
-14
+12
 00:00:49,690 --> 00:00:52,240
 400 Jahre...
 
-15
+13
 00:00:53,310 --> 00:00:59,460
 Vielleicht ist es längst zu spät für uns oder sie,
 
-16
+14
 00:00:59,460 --> 00:01:03,170
 um eine Niederlage zu akzeptieren.
 
-17
+15
 00:01:09,170 --> 00:01:11,130
 Ein feindlicher Angriff! Ein feindlicher Angriff!
 
-18
+16
 00:01:13,010 --> 00:01:14,680
 Ein Angriff der Shandia?
 
-19
+17
 00:01:14,680 --> 00:01:17,100
 N-Nein, das sind keine Shandia.
 
-20
+18
 00:01:17,100 --> 00:01:17,930
 Wie bitte?
 
-21
+19
 00:01:18,570 --> 00:01:20,390
 Einer, der sich Gott Enel nennt...
 
-22
+20
 00:01:21,040 --> 00:01:22,630
 Gott Enel?
 
-23
+21
 00:03:19,700 --> 00:03:21,640
 Pass auf die beiden auf, Su!
 
-24
+22
 00:03:22,020 --> 00:03:24,980
 Denn ich muss was Dringendes erledigen.
 
-25
+23
 00:03:27,890 --> 00:03:29,680
 Ich werde ihnen die Nachricht überbringen
 
-26
+24
 00:03:29,680 --> 00:03:34,280
 für die du dein Leben
 riskiert hast, das schwöre ich!
 
-27
+25
 00:03:34,280 --> 00:03:35,330
 Zum Heulen...
 
-28
+26
 00:03:36,530 --> 00:03:38,030
 ist keine Zeit.
 
-29
+27
 00:03:41,310 --> 00:03:42,330
 Ha!
 
-30
+28
 00:03:44,660 --> 00:03:46,740
 Hey, dieses Haus...
 
-31
+29
 00:03:46,740 --> 00:03:50,630
 Erinnerst du dich noch an die hübsche Frau,
 die am Strand oft Harfe gespielt hat?
 
-32
+30
 00:03:51,010 --> 00:03:53,460
 Ja, die kenne ich gut!
 
-33
+31
 00:03:53,460 --> 00:03:57,970
 Hier leben Pagaya und seine Tochter Conis.
 
-34
+32
 00:03:57,970 --> 00:04:00,760
 Das sind beides wirklich liebe Leute.
 
-35
+33
 00:04:01,200 --> 00:04:03,600
 Einmal haben sie mich zum Mittag eingeladen.
 
-36
+34
 00:04:03,600 --> 00:04:07,040
 In echt ist diese Frau eine ganz böse Person.
 
-37
+35
 00:04:07,040 --> 00:04:08,730
 Und ihr Vater auch!
 
-38
+36
 00:04:07,880 --> 00:04:08,730
 Was?!
 
-39
+37
 00:04:10,080 --> 00:04:11,600
 Das habe ich auch gehört.
 
-40
+38
 00:04:11,600 --> 00:04:14,360
 Sie sollen den bösen Blaumeerern geholfen haben.
 
-41
+39
 00:04:16,760 --> 00:04:18,030
 Nicht wahr!
 
-42
+40
 00:04:18,030 --> 00:04:21,810
 Doch! Das sind echt
 böse Leute, die gegen Gott sind!
 
-43
+41
 00:04:21,810 --> 00:04:23,030
 Das hat mein Vater auch gesagt.
 
-44
+42
 00:04:23,360 --> 00:04:26,000
 D-Dein Vater? Verstehe...
 
-45
+43
 00:04:26,400 --> 00:04:29,620
 Ach, stimmt ja, dein Vater ist ja...
 
-46
+44
 00:04:29,620 --> 00:04:32,920
 Ja, er gehört zu den Gotteskriegern,
 
-47
+45
 00:04:32,920 --> 00:04:34,900
 also dient er Gott.
 
-48
+46
 00:04:34,900 --> 00:04:38,180
 Meine Mutter sagt immer, dass er bald heimkommt.
 
-49
+47
 00:04:38,180 --> 00:04:40,770
 Aber ich habe ihn noch nie gesehen.
 
-50
+48
 00:04:40,770 --> 00:04:45,600
 Aber wenn er Gott dient, muss dein
 Vater ein toller Mensch sein!
 
-51
+49
 00:04:45,600 --> 00:04:48,790
 Ich hoffe, du kannst ihn bald treffen.
 
-52
+50
 00:04:48,790 --> 00:04:49,850
 Ja!
 
-53
+51
 00:04:57,490 --> 00:04:59,860
 Er wird Skypiea ins Blaumeer stürzen!
 
-54
+52
 00:05:00,260 --> 00:05:01,990
 Dieses Land wird verschwinden!
 
-55
+53
 00:05:04,740 --> 00:05:07,740
 Ich darf seine Gefühle nicht umsonst gewesen sein lassen!
 
-56
+54
 00:05:07,740 --> 00:05:10,410
 Ich... Ich muss ihnen Bescheid geben!
 
-57
+55
 00:05:15,290 --> 00:05:16,630
 Ruinen?
 
-58
+56
 00:05:17,200 --> 00:05:21,090
 Wieso fallen so viele Trümmer vom Himmel?
 
-59
+57
 00:05:24,380 --> 00:05:25,750
 Schwertkämpfer!
 
-60
+58
 00:05:25,750 --> 00:05:27,280
 Echt nicht mein Tag.
 
-61
+59
 00:05:27,280 --> 00:05:29,850
 Sag bloß, du bist den ganzen Weg runtergefallen.
 
-62
+60
 00:05:30,920 --> 00:05:34,400
 Scheiße, um ein Haar wär ich draufgegangen!
 
-63
+61
 00:05:34,400 --> 00:05:37,530
 Ja, normale Leute würden da sterben.
 
-64
+62
 00:05:37,980 --> 00:05:39,890
 Ach, du bist’s.
 
-65
+63
 00:05:39,890 --> 00:05:41,490
 Wo sind wir hier?
 
-66
+64
 00:05:41,970 --> 00:05:44,660
 In der Goldenen Stadt, die du gesucht hast.
 
-67
+65
 00:05:44,660 --> 00:05:46,870
 Und? Hast du den Schatz gefunden?
 
-68
+66
 00:05:46,870 --> 00:05:50,160
 Nein, hier gab es kein Gold.
 
-69
+67
 00:06:16,210 --> 00:06:20,210
 Puh, die Riesenschlange ist echt ausgerastet, was?
 
-70
+68
 00:06:20,210 --> 00:06:21,820
 Wir sind wieder am Anfang!
 
-71
+69
 00:06:22,130 --> 00:06:23,460
 Bist du bescheuert?!
 
-72
+70
 00:06:23,460 --> 00:06:26,610
 Wer hält sich an der Düse von ’nem Waver fest?!
 
-73
+71
 00:06:27,490 --> 00:06:28,470
 Sorry, sorry.
 
-74
+72
 00:06:28,470 --> 00:06:30,300
 Die anderen sind draußen!
 
-75
+73
 00:06:30,300 --> 00:06:33,930
 Nur wir sind noch hier! Das ist deine Schuld!
 
-76
+74
 00:06:33,930 --> 00:06:35,110
 Keine Sorge!
 
-77
+75
 00:06:35,110 --> 00:06:35,920
 Was nun?
 
-78
+76
 00:06:36,220 --> 00:06:41,120
 Hauen wir einfach schnell durchs Poloch ab.
 
-79
+77
 00:06:41,120 --> 00:06:43,050
 Nie im Leben, wie oft denn noch?!
 
-80
+78
 00:06:47,790 --> 00:06:48,810
 Oh, das Pferd!
 
-81
+79
 00:06:48,810 --> 00:06:50,200
 Das ist ein Vogel!
 
-82
+80
 00:06:53,110 --> 00:06:54,980
 Autsch...
 
-83
+81
 00:06:55,300 --> 00:06:57,440
 Danke, komischer Ritter.
 
-84
+82
 00:06:59,420 --> 00:07:02,690
 Wir hatten Glück,
 auf den Wolken zu landen.
 
-85
+83
 00:07:03,160 --> 00:07:05,380
 Wir haben Luffy und Aisa zurückgelassen.
 
-86
+84
 00:07:05,380 --> 00:07:06,740
 Ich hoffe, sie sind wohlauf.
 
-87
+85
 00:07:06,990 --> 00:07:08,880
 Vertraue Pierre.
 
-88
+86
 00:07:08,880 --> 00:07:13,460
 Im Notfall ist auf ihn Verlass, ob als Vogel oder als Pferd.
 
-89
+87
 00:07:13,460 --> 00:07:16,400
 Sag mal, wo sind wir hier nur?
 
-90
+88
 00:07:16,400 --> 00:07:19,280
 Sieht aus, als wären wir im Untergrund.
 
-91
+89
 00:07:19,280 --> 00:07:21,480
 Aber ich war noch nie hier.
 
-92
+90
 00:07:21,480 --> 00:07:23,380
 Was ist das für ein Ort?
 
-93
+91
 00:07:24,710 --> 00:07:25,510
 Danke.
 
-94
+92
 00:07:28,360 --> 00:07:33,490
 Aber wer hätte gedacht, dass solch ein Ort im Upper Yard existiert.
 
-95
+93
 00:07:39,150 --> 00:07:41,860
 Ist dieser Ort etwa...
 
-96
+94
 00:07:46,710 --> 00:07:51,240
 die Heimat von uns Shandia?!
 
-97
+95
 00:08:06,650 --> 00:08:09,110
 – Entfacht die Feuer Shandoras!
 – Entfacht die Feuer Shandoras!
 
-98
+96
 00:08:10,360 --> 00:08:13,100
 – Im Namen des großen Kriegers, Kalgara!
 – Im Namen des großen Kriegers, Kalgara!
 
-99
+97
 00:08:13,870 --> 00:08:15,930
 – Entfacht die Feuer Shandoras!
 – Entfacht die Feuer Shandoras!
 
-100
+98
 00:08:19,690 --> 00:08:21,380
 – Wir kehren zurück!
 – Wir kehren zurück!
 
-101
+99
 00:08:21,380 --> 00:08:23,150
 – In unsere Heimat!
 – In unsere Heimat!
 
-102
+100
 00:08:23,950 --> 00:08:25,700
 – In unsere Heimat!
 – In unsere Heimat!
 
-103
+101
 00:08:28,240 --> 00:08:32,080
 Das ist der Ort,
 nach dem wir gesucht haben.
 
-104
+102
 00:08:32,080 --> 00:08:35,330
 Die stolze Stadt, die unsere Ahnen verteidigt haben,
 
-105
+103
 00:08:36,350 --> 00:08:37,680
 Shandora!
 
-106
+104
 00:08:49,770 --> 00:08:52,880
 Sie sieht aus,
 als würde sie was suchen.
 
-107
+105
 00:08:52,880 --> 00:08:55,560
 Oder stellt Luffy drinnen wieder was an?
 
-108
+106
 00:09:02,380 --> 00:09:04,190
 Die Riesenschlange benimmt sich komisch.
 
-109
+107
 00:09:10,260 --> 00:09:11,320
 Sie weint!
 
-110
+108
 00:09:14,330 --> 00:09:17,740
 Was bedeutet das, Herr des Himmels?
 
-111
+109
 00:09:17,740 --> 00:09:19,650
 Wieso bist du so unruhig?
 
-112
+110
 00:09:21,480 --> 00:09:23,630
 Was für eine lästige Schlange!
 
-113
+111
 00:09:25,960 --> 00:09:27,390
 Törichtes Biest!
 
-114
+112
 00:09:28,590 --> 00:09:29,920
 El Thor!
 
-115
+113
 00:09:33,390 --> 00:09:34,800
 Aisa!
 
-116
+114
 00:09:34,800 --> 00:09:36,800
 Verdammt, Nami!
 
-117
+115
 00:09:36,800 --> 00:09:39,230
 Das überlebt sie nicht!
 
-118
+116
 00:09:40,530 --> 00:09:44,130
 Nanu? Zoro! Und Robin auch!
 
-119
+117
 00:09:44,130 --> 00:09:45,460
 Da steckst du?!
 
-120
+118
 00:09:45,460 --> 00:09:47,720
 Wann bist du aus der Schlange rausgekommen?
 
-121
+119
 00:09:47,720 --> 00:09:50,150
 Was treibst du hier, Navigatorin?
 
-122
+120
 00:09:50,640 --> 00:09:53,280
 Mir mag’s gut gehen,
 
-123
+121
 00:09:53,280 --> 00:09:55,870
 aber im Inneren...
 
-124
+122
 00:09:56,960 --> 00:09:58,490
 ist Luffy noch.
 
-125
+123
 00:09:58,490 --> 00:10:01,390
 Hä? Was macht der da?!
 
-126
+124
 00:10:01,390 --> 00:10:03,830
 Da kann ich doch nichts für,
 er war schon da!
 
-127
+125
 00:10:04,300 --> 00:10:08,450
 Mann, wieso macht der Kerl immer nur Ärger?!
 
-128
+126
 00:10:08,450 --> 00:10:09,300
 Frag mich nicht!
 
-129
+127
 00:10:13,490 --> 00:10:14,800
 Mit nur einem Treffer,
 
-130
+128
 00:10:15,180 --> 00:10:17,410
 obwohl all die Bazooka-Schüsse
 
-131
+129
 00:10:17,410 --> 00:10:20,140
 dem Herrn des Himmels keinen Kratzer zugefügt haben!
 
-132
+130
 00:10:20,480 --> 00:10:23,350
 Mist! Das könnte auch Aisa im Inneren erwischt haben!
 
-133
+131
 00:10:32,260 --> 00:10:33,540
 Kugelwolken!
 
-134
+132
 00:10:34,910 --> 00:10:36,450
 Enel!
 
-135
+133
 00:10:39,270 --> 00:10:40,700
 Was soll das?
 
-136
+134
 00:10:40,700 --> 00:10:44,920
 Du bist nicht gerade ein Gentleman, Wyper.
 
-137
+135
 00:10:45,770 --> 00:10:50,030
 Da lädt man dich extra in deine Heimat ein.
 
-138
+136
 00:10:50,700 --> 00:10:54,180
 Immer mit der Ruhe. Gedulde dich doch etwas.
 
-139
+137
 00:10:54,750 --> 00:10:58,550
 Das Spiel ist noch nicht aus.
 
-140
+138
 00:10:58,940 --> 00:11:00,260
 Das Spiel?!
 
-141
+139
 00:11:00,650 --> 00:11:03,980
 Genau. Das ist nur ein albernes Spiel,
 
-142
+140
 00:11:03,980 --> 00:11:08,610
 an dem du und die hinter dir teilnehmen.
 
-143
+141
 00:11:20,960 --> 00:11:24,730
 Willkommen, oh glorreiche Überlebende.
 
-144
+142
 00:11:24,730 --> 00:11:27,270
 Ich spreche euch mein höchstes Lob dafür aus,
 
-145
+143
 00:11:27,270 --> 00:11:29,060
 dass ihr es hergeschafft habt.
 
-146
+144
 00:11:35,550 --> 00:11:38,700
 Ach, ich amüsiere mich bloß.
 
-147
+145
 00:11:38,700 --> 00:11:43,120
 In diesem Survival Game soll ermittelt werden,
 
-148
+146
 00:11:43,120 --> 00:11:45,760
 wie viele von den 81 Leuten,
 
-149
+147
 00:11:45,760 --> 00:11:49,420
 die diese Insel betreten haben, drei Stunden überstehen.
 
-150
+148
 00:11:50,160 --> 00:11:52,680
 Mich eingeschlossen.
 
-151
+149
 00:11:53,350 --> 00:11:55,810
 Einige sind zwar zwischendurch eingestiegen,
 
-152
+150
 00:11:55,810 --> 00:11:57,950
 aber da bin ich ganz offen.
 
-153
+151
 00:11:59,350 --> 00:12:02,530
 Ich habe auf fünf Überlebende getippt.
 
-154
+152
 00:12:04,730 --> 00:12:06,280
 Fünf?
 
-155
+153
 00:12:06,280 --> 00:12:11,030
 Zoro, Robin, der komische Ritter, der Bazooka-Kerl und Enel.
 
-156
+154
 00:12:11,030 --> 00:12:13,300
 Das sind ja genau fünf.
 
-157
+155
 00:12:14,650 --> 00:12:16,930
 Puh, ein Glück, dass er mich nicht bemerkt hat.
 
-158
+156
 00:12:16,930 --> 00:12:20,260
 In drei Minuten sind die drei Stunden abgelaufen.
 
-159
+157
 00:12:21,220 --> 00:12:26,230
 Wir hätten also ein Problem,
 wenn es dann immer noch sechs wären.
 
-160
+158
 00:12:26,530 --> 00:12:28,640
 Mist! Er hat’s bemerkt!
 
-161
+159
 00:12:28,980 --> 00:12:32,740
 Die Prophezeiungen Gottes sind unfehlbar.
 
-162
+160
 00:12:32,740 --> 00:12:34,610
 Sie sind absolut.
 
-163
+161
 00:12:35,310 --> 00:12:38,760
 Nun denn, wer wird sterben?
 
-164
+162
 00:12:38,760 --> 00:12:40,920
 Wollt ihr es entscheiden?
 
-165
+163
 00:12:42,910 --> 00:12:47,080
 Oder soll ich mich der Sache direkt annehmen?
 
-166
+164
 00:12:51,670 --> 00:12:53,200
 Was meinst du?
 
-167
+165
 00:12:53,200 --> 00:12:54,870
 Ich sicher nicht.
 
-168
+166
 00:12:54,870 --> 00:12:55,880
 Sehe ich auch so.
 
-169
+167
 00:12:56,320 --> 00:12:57,970
 Ich lehne ebenfalls ab.
 
-170
+168
 00:12:58,820 --> 00:13:01,090
 Auch ich sage nein.
 
-171
+169
 00:13:04,430 --> 00:13:06,850
 Jetzt wartet doch mal, ich...
+
+170
+00:13:12,350 --> 00:13:14,400
+Wir wählen dich.
+
+171
+00:13:12,350 --> 00:13:14,400
+Wir wählen dich.
 
 172
 00:13:12,350 --> 00:13:14,400
@@ -713,1149 +707,1142 @@ Wir wählen dich.
 Wir wählen dich.
 
 174
-00:13:12,350 --> 00:13:14,400
-Wir wählen dich.
-
-175
-00:13:12,350 --> 00:13:14,400
-Wir wählen dich.
-
-176
 00:13:22,280 --> 00:13:23,920
 Welch Unverfrorenheit!
 
-177
+175
 00:13:24,910 --> 00:13:27,340
 Ihr sagt, ich soll sterben?
 
-178
+176
 00:13:32,290 --> 00:13:35,040
 Verdammt! Der Kerl ist saugefährlich!
 
-179
+177
 00:13:37,790 --> 00:13:40,260
 Wie von den Überlebenden des Spiels zu erwarten.
 
-180
+178
 00:13:40,570 --> 00:13:47,090
 Aber ihr begreift wohl nicht, mit wem ihr da redet.
 
-181
+179
 00:13:51,110 --> 00:13:57,150
 Es scheint, euch ist noch immer nicht klar, was ein Gott ist.
 
-182
+180
 00:14:01,380 --> 00:14:04,530
 Ein alter Tattergreis, der sich ein glückliches Skypiea wünscht.
 
-183
+181
 00:14:04,980 --> 00:14:07,910
 Ein Krieger, der einzig und allein seine „Heimat“ zurückhaben will.
 
-184
+182
 00:14:08,320 --> 00:14:12,290
 Diebe vom Blaumeer,
 die hinter dem Gold her sind.
 
-185
+183
 00:14:12,800 --> 00:14:14,930
 Die Welt ist voller Probleme,
 
-186
+184
 00:14:14,930 --> 00:14:18,250
 also schert es mich nicht, was sich
 meine Lämmchen wünschen.
 
-187
+185
 00:14:18,610 --> 00:14:21,880
 Aber dieses Land hat ein viel fundamentaleres Problem.
 
-188
+186
 00:14:23,610 --> 00:14:26,240
 Wenn du Zeit für solches Gewäsch hast,
 
-189
+187
 00:14:26,240 --> 00:14:28,390
 verrate mir, wo die Gotteskrieger sind!
 
-190
+188
 00:14:30,910 --> 00:14:33,140
 Was zur Hölle hast du vor?!
 
-191
+189
 00:14:33,710 --> 00:14:36,810
 Die Rückkehr Seiner Majestät, Gan Fall.
 
-192
+190
 00:14:37,090 --> 00:14:38,440
 Die Rückkehr Seiner Majestät?
 
-193
+191
 00:14:38,680 --> 00:14:41,790
 Exakt. Nach seinem Besuch wird Gott
 
-194
+192
 00:14:41,790 --> 00:14:44,000
 an seinen rechtmäßigen Platz zurückkehren.
 
-195
+193
 00:14:45,160 --> 00:14:46,370
 Zurückkehren?
 
-196
+194
 00:14:46,370 --> 00:14:48,620
 Du willst Skypiea also verlassen?
 
-197
+195
 00:14:49,460 --> 00:14:50,780
 Ganz genau.
 
-198
+196
 00:14:50,780 --> 00:14:53,380
 Denn es gibt einen anderen Ort für mich.
 
-199
+197
 00:14:53,380 --> 00:14:55,350
 Der Ort meiner Geburt,
 
-200
+198
 00:14:55,350 --> 00:14:58,590
 den die Himmelsleute als Heim Gottes ansehen.
 
-201
+199
 00:14:58,880 --> 00:15:00,130
 Was soll das sein?
 
-202
+200
 00:15:00,650 --> 00:15:03,940
 Die Leute nennen es „Fairy Vearth“.
 
-203
+201
 00:15:03,940 --> 00:15:09,640
 Dort erstreckt sich der Boden endlos in alle Richtungen!
 
-204
+202
 00:15:09,640 --> 00:15:13,100
 Das ist die Traumwelt, nach der ich suche!
 
-205
+203
 00:15:15,560 --> 00:15:19,400
 Fairy Vearth ist ein Land, das meiner würdig ist!
 
-206
+204
 00:15:20,480 --> 00:15:25,610
 All die Kämpfe um Upper Yard, so ein winziges Fleckchen Vearth,
 
-207
+205
 00:15:25,610 --> 00:15:27,720
 sind doch lächerlich.
 
-208
+206
 00:15:31,210 --> 00:15:32,520
 Hört zu.
 
-209
+207
 00:15:32,520 --> 00:15:36,570
 Die Wurzel eures Konflikts dringt noch viel tiefer.
 
-210
+208
 00:15:37,640 --> 00:15:39,480
 Denkt mal gut nach.
 
-211
+209
 00:15:41,460 --> 00:15:43,840
 Im Himmel geboren, aber keine Wolke.
 
-212
+210
 00:15:43,840 --> 00:15:46,760
 Im Himmel lebend, aber kein Vogel.
 
-213
+211
 00:15:48,620 --> 00:15:51,440
 Die Existenz dieses Landes im Himmel selbst
 
-214
+212
 00:15:51,440 --> 00:15:54,320
 ist hochgradig unnatürlich.
 
-215
+213
 00:15:54,320 --> 00:15:57,320
 Erde, Menschen und Gott haben alle Orte,
 
-216
+214
 00:15:57,320 --> 00:16:00,310
 an die sie zurückkehren müssen.
 
-217
+215
 00:16:01,280 --> 00:16:03,320
 Willst du etwa...?
 
-218
+216
 00:16:06,300 --> 00:16:09,280
 Du brauchst nicht überrascht zu sein.
 
-219
+217
 00:16:09,560 --> 00:16:12,740
 Als Gott sorge ich nur für eine Einhaltung dessen,
 
-220
+218
 00:16:13,160 --> 00:16:16,080
 was durch die Natur vorbestimmt ist.
 
-221
+219
 00:16:17,560 --> 00:16:22,920
 Richtig, ich werde alle Menschen vom Himmel stürzen lassen.
 
-222
+220
 00:16:28,770 --> 00:16:31,430
 Du willst das ganze Land auslöschen?
 
-223
+221
 00:16:32,400 --> 00:16:34,220
 Ganz naturgemäß.
 
-224
+222
 00:16:37,560 --> 00:16:39,150
 Sei nicht eingebildet, Enel!
 
-225
+223
 00:16:39,150 --> 00:16:42,610
 „Gott“ ist nur ein Titel für den Anführer dieses Landes.
 
-226
+224
 00:16:43,110 --> 00:16:45,570
 Das war bisher der Fall.
 
-227
+225
 00:16:48,070 --> 00:16:51,910
 Der echte Gott lebt nicht in der Welt der Menschen!
 
-228
+226
 00:16:54,330 --> 00:16:57,350
 Ex-Gott, Gan Fall...
 
-229
+227
 00:16:59,580 --> 00:17:03,120
 Du hast dir doch Sorgen um die Gotteskrieger gemacht, oder?
 
-230
+228
 00:17:07,040 --> 00:17:09,640
 Vor sechs Jahren hast du gegen meine Leute verloren
 
-231
+229
 00:17:09,640 --> 00:17:13,810
 und ich habe 650 deiner Untergebenen erhalten.
 
-232
+230
 00:17:16,420 --> 00:17:20,770
 Heute Morgen haben sie die Arbeit an dieser Insel abgeschlossen,
 
-233
+231
 00:17:20,770 --> 00:17:22,230
 die ich ihnen aufgetragen habe.
 
-234
+232
 00:17:23,570 --> 00:17:25,080
 Habe ich’s nicht gesagt?
 
-235
+233
 00:17:25,080 --> 00:17:28,940
 Wir sind die einzigen,
 die derzeit auf dieser Insel sind.
 
-236
+234
 00:17:29,330 --> 00:17:30,870
 So schade es auch ist.
 
-237
+235
 00:17:30,870 --> 00:17:32,910
 D-Du...
 
-238
+236
 00:17:34,070 --> 00:17:37,120
 Es war nicht meine Intention, sie zu verletzen.
 
-239
+237
 00:17:37,120 --> 00:17:40,540
 Aber als ich ihnen von meinem Plan erzählte,
 
-240
+238
 00:17:42,590 --> 00:17:45,630
 haben sie mich mit hassverzerrten Gesichtern angegriffen.
 
-241
+239
 00:17:48,990 --> 00:17:52,210
 Sie alle haben Familien auf Angel Island!
 
-242
+240
 00:17:52,210 --> 00:17:56,430
 Allerdings. Deshalb muss ich die auch bald begraben.
 
-243
+241
 00:17:59,650 --> 00:18:01,440
 Bist du...
 
-244
+242
 00:18:06,970 --> 00:18:12,050
 ein Teufel?!
 
-245
+243
 00:18:24,260 --> 00:18:25,600
 Fünf Millionen...
 
-246
+244
 00:18:25,600 --> 00:18:27,130
 Zehn Millionen...
 
-247
+245
 00:18:27,130 --> 00:18:28,630
 20 Millionen.
 
-248
+246
 00:18:34,940 --> 00:18:39,890
 Gott Enel, was sollen wir mit diesem Ex-Gott tun?
 
-249
+247
 00:18:39,890 --> 00:18:42,790
 Werft ihn doch einfach ins Meer.
 
-250
+248
 00:18:42,790 --> 00:18:44,850
 Zur Arbeit taugt er nicht mehr.
 
-251
+249
 00:18:46,500 --> 00:18:49,610
 Aber ich muss sagen,
 das ist ein hübscher Schrein.
 
-252
+250
 00:18:49,610 --> 00:18:52,530
 Wir brauchen jedoch die Gotteskrieger.
 
-253
+251
 00:18:53,070 --> 00:18:58,370
 Ich werde sie als meine Untergebenen hart arbeiten lassen.
 
-254
+252
 00:18:58,370 --> 00:19:00,950
 Das sind meine Untergebenen.
 
-255
+253
 00:19:01,710 --> 00:19:05,460
 Schweig! Du bist nicht mehr Gott!
 
-256
+254
 00:19:13,620 --> 00:19:15,630
 20 Millionen Volt...
 
-257
+255
 00:19:17,090 --> 00:19:18,470
 Entladung!
 
-258
+256
 00:19:20,960 --> 00:19:22,020
 Komischer Ritter!
 
-259
+257
 00:19:22,020 --> 00:19:23,140
 Alter Knacker!
 
-260
+258
 00:19:26,660 --> 00:19:28,480
 Gott existiert in dieser Welt.
 
-261
+259
 00:19:28,730 --> 00:19:30,620
 Verdammt!
 
-262
+260
 00:19:31,140 --> 00:19:33,610
 Dieser Gott bin ich.
 
-263
+261
 00:19:40,410 --> 00:19:41,370
 Eine Teufelskraft?!
 
-264
+262
 00:19:41,890 --> 00:19:43,450
 Vermutlich die Donner-Frucht!
 
-265
+263
 00:19:43,900 --> 00:19:46,700
 Wenn ich mich nicht irre, gehört sie
 
-266
+264
 00:19:46,700 --> 00:19:48,990
 unter allen Teufelskräften zu den „unverwundbaren“.
 
-267
+265
 00:19:50,820 --> 00:19:52,320
 Die Kraft des Donners!
 
-268
+266
 00:19:55,760 --> 00:20:00,760
 Donner? Dann können ihn Menschen niemals besiegen!
 
-269
+267
 00:20:04,150 --> 00:20:07,750
 Der Zeitpunkt, den ich prophezeit habe, ist gekommen.
 
-270
+268
 00:20:07,750 --> 00:20:08,520
 Nun...
 
-271
+269
 00:20:11,250 --> 00:20:12,460
 stehen fünf.
 
-272
+270
 00:20:13,010 --> 00:20:15,190
 Gut gemacht, Überlebende.
 
-273
+271
 00:20:17,680 --> 00:20:20,620
 Dann folgt mir!
 
-274
+272
 00:20:20,620 --> 00:20:23,490
 In die Welt der Träume, in die ich nun aufbreche!
 
-275
+273
 00:20:24,520 --> 00:20:26,620
 Nach Fairy Vearth!
 
-276
+274
 00:20:27,140 --> 00:20:29,670
 Ich werde euch mit mir nehmen!
 
-277
+275
 00:20:30,750 --> 00:20:31,750
 Wie bitte?
 
-278
+276
 00:20:31,750 --> 00:20:37,140
 Dort werde ich eine unantastbare „Nation Gottes“ gründen.
 
-279
+277
 00:20:37,140 --> 00:20:40,600
 Dort werden nur auserwählte Menschen leben.
 
-280
+278
 00:20:42,190 --> 00:20:44,100
 Was faselt der Kerl?
 
-281
+279
 00:20:44,530 --> 00:20:49,100
 Meine Untergebenen, die nicht mal ein paar Stunden überleben konnten,
 
-282
+280
 00:20:49,810 --> 00:20:54,070
 werden nur den Wert meines Landes senken.
 
-283
+281
 00:20:55,930 --> 00:20:57,070
 Und...
 
-284
+282
 00:20:57,070 --> 00:20:59,950
 Und wenn ich ablehne?
 
-285
+283
 00:21:00,830 --> 00:21:01,670
 Robin!
 
-286
+284
 00:21:01,670 --> 00:21:02,820
 Ablehnen?
 
-287
+285
 00:21:03,240 --> 00:21:05,790
 Wieso denn? Ich habe entschieden.
 
-288
+286
 00:21:06,130 --> 00:21:10,420
 Wenn du hier bleibst,
 stürzt du mit dem Land ins Nichts.
 
-289
+287
 00:21:10,760 --> 00:21:15,280
 Ja, du magst die Kraft dafür besitzen.
 
-290
+288
 00:21:15,280 --> 00:21:17,800
 Aber wenn du dieses Land voreilig zerstörst,
 
-291
+289
 00:21:17,800 --> 00:21:22,050
 stürzt dann nicht auch das ab,
 was du so begehrst?
 
-292
+290
 00:21:22,770 --> 00:21:24,390
 Die goldene Glocke?
 
-293
+291
 00:21:24,710 --> 00:21:25,810
 Genau.
 
-294
+292
 00:21:26,080 --> 00:21:27,520
 Die goldene Glocke?
 
-295
+293
 00:21:28,680 --> 00:21:30,330
 Die goldene Glocke...
 
-296
+294
 00:21:32,310 --> 00:21:34,620
 Nur keine Sorge.
 
-297
+295
 00:21:34,620 --> 00:21:36,780
 Ich habe bereits eine Idee.
 
-298
+296
 00:21:37,280 --> 00:21:42,610
 Deinen Handlungen nach zu urteilen,
 kommt nur ein Ort infrage.
 
-299
+297
 00:21:44,280 --> 00:21:48,950
 Gewiss denken wir an den gleichen Ort.
 
-300
+298
 00:21:49,420 --> 00:21:51,290
 Du wirkst überrascht.
 
-301
+299
 00:21:52,200 --> 00:21:57,250
 Dachtest du, du könntest mich mit
 deiner Aussage an der Nase herumführen?
 
-302
+300
 00:21:58,080 --> 00:22:00,020
 Wie töricht.
 
-303
+301
 00:22:01,220 --> 00:22:02,340
 Robin!
 
-304
+302
 00:22:02,840 --> 00:22:05,930
 Ich hasse berechnende Frauen.
 
-305
+303
 00:22:14,070 --> 00:22:15,270
 Nein...
 
-306
+304
 00:22:32,730 --> 00:22:33,920
 Das ist eine Frau!
 
-307
+305
 00:22:35,790 --> 00:22:37,130
 Das sehe ich.
 
-308
+306
 00:22:52,980 --> 00:22:54,230
 Du hast ganz schön was drauf.
 
-309
+307
 00:22:54,760 --> 00:22:56,980
 Bist du von allen guten Geistern verlassen?!
 
-310
+308
 00:23:06,990 --> 00:23:08,990
 Burn Bazooka!
 
-311
+309
 00:23:13,160 --> 00:23:14,280
 Blitzschlag!
 
-312
+310
 00:23:24,670 --> 00:23:28,300
 U-Unmöglich! Er hat den mächtigen Bazookaschuss aufgelöst!
 
-313
+311
 00:23:29,910 --> 00:23:32,560
 Du verstehst es immer noch nicht.
 
-314
+312
 00:23:32,560 --> 00:23:37,770
 Die Energie eurer Angriffe ist für mich nichts.
 
-315
+313
 00:23:38,310 --> 00:23:40,690
 Der Widerhall des Donners...
 
-316
+314
 00:23:40,690 --> 00:23:43,610
 Das heißt, er übertrifft Schallgeschwindigkeit!
 
-317
+315
 00:23:43,610 --> 00:23:44,900
 So stark ist er?!
 
-318
+316
 00:23:45,270 --> 00:23:48,270
 Das ist ein völlig anderes Maß an Energie!
 
-319
+317
 00:23:48,720 --> 00:23:52,370
 Er ist wirklich der Donner selbst!
 
-320
+318
 00:23:52,800 --> 00:23:59,640
 Meine Güte, wir wollten doch gerade zusammen nach Fairy Vearth.
 
-321
+319
 00:24:00,350 --> 00:24:02,500
 Ihr braucht nicht so aufbegehren.
 
-322
+320
 00:24:03,810 --> 00:24:06,300
 Wer soll bitte mit dir kommen?
 
-323
+321
 00:24:11,060 --> 00:24:15,180
 Deine „Welt der Träume“ geht mir am Arsch vorbei!
 
-324
+322
 00:24:16,280 --> 00:24:19,350
 Zoro! Nicht, Zoro! Er ist zu stark!
 
-325
+323
 00:24:19,930 --> 00:24:22,610
 Ich muss es wohl deinem
 Körper beibringen, damit du begreifst,
 
-326
+324
 00:24:23,420 --> 00:24:24,990
 was „Gott“ bedeutet.
 
-327
+325
 00:24:39,710 --> 00:24:42,000
 Wie sehr ihr euch
 auch abmüht, ihr könnt es
 
-328
+326
 00:24:42,000 --> 00:24:45,170
 niemals mit der überwältigenden Macht Gottes aufnehmen.
 
-329
+327
 00:24:45,520 --> 00:24:47,760
 Und dann spürt ihr sie,
 
-330
+328
 00:24:48,520 --> 00:24:50,090
 die Verzweiflung.
 
-331
+329
 00:24:55,750 --> 00:25:00,440
 Wenn all eure Hoffnungen zerstört sind,
 gleicht euer Zustand dem Tod.
 
-332
+330
 00:25:05,790 --> 00:25:06,610
 Zoro!
 
-333
+331
 00:25:07,280 --> 00:25:10,700
 Menschen fürchten den Tod über alles.
 
-334
+332
 00:25:13,880 --> 00:25:18,650
 Deshalb unterwerfen sie sich Gott und betteln um Gnade.
 
-335
+333
 00:25:18,650 --> 00:25:20,560
 Das ist unabdingbar.
 
-336
+334
 00:25:20,560 --> 00:25:24,130
 Lebewesen beugen sich dem, vor dem sie Angst haben.
 
-337
+335
 00:25:24,130 --> 00:25:27,590
 Das ist ihr bemitleidenswerter Instinkt.
 
-338
+336
 00:25:27,590 --> 00:25:31,090
 Wie kann der Kerl so stark sein?!
 
-339
+337
 00:25:38,440 --> 00:25:39,680
 Was hast du vor?
 
-340
+338
 00:25:42,460 --> 00:25:44,860
 Du willst also sterben?
 
-341
+339
 00:25:45,300 --> 00:25:45,690
 Was?
 
-342
+340
 00:25:46,030 --> 00:25:49,190
 Sagt dir „Seestein“ was, Enel?
 
-343
+341
 00:25:50,820 --> 00:25:52,720
 Seestein?
 
-344
+342
 00:25:52,720 --> 00:25:55,450
 Das ist doch der Stein,
 der Teufelskräfte unterdrückt.
 
-345
+343
 00:26:01,750 --> 00:26:04,550
 Verstehe... Ich bin geschwächt.
 
-346
+344
 00:26:06,040 --> 00:26:07,920
 Seestein...
 
-347
+345
 00:26:07,920 --> 00:26:11,670
 Der Stein, der die gleiche Energie wie das Meer abgibt.
 
-348
+346
 00:26:11,670 --> 00:26:14,650
 Sozusagen das Meer in fester Form.
 
-349
+347
 00:26:14,650 --> 00:26:18,010
 Deshalb kann es die Teufelskräfte abschwächen.
 
-350
+348
 00:26:18,320 --> 00:26:20,420
 Fahr zur Hölle!
 
-351
+349
 00:26:20,420 --> 00:26:24,350
 L-Lass das lieber bleiben. Das ist doch ein Reject?
 
-352
+350
 00:26:24,710 --> 00:26:27,790
 Dein Körper wird das nicht einfach mitmachen.
 
-353
+351
 00:26:27,790 --> 00:26:30,860
 Wieso bist du unzufrieden? Du willst doch Vearth haben!
 
-354
+352
 00:26:31,100 --> 00:26:34,700
 Schnauze! Ich sterbe mit Vergnügen,
 
-355
+353
 00:26:35,150 --> 00:26:38,360
 wenn ich dich mit mir nehmen kann!
 
-356
+354
 00:26:38,360 --> 00:26:40,400
 L-Lass das!
 
-357
+355
 00:26:43,790 --> 00:26:45,040
 Reject!
 
-358
+356
 00:26:50,200 --> 00:26:53,340
 Haltet an eurem Glauben fest und sprecht nicht drüber.
 
-359
+357
 00:26:53,340 --> 00:26:56,340
 Wir sind die, die Geschichte schreiben.
 
-360
+358
 00:26:56,340 --> 00:27:01,420
 Diese Worte wurden vor 800 Jahren auf das Poneglyph geschrieben.
 
-361
+359
 00:27:03,160 --> 00:27:04,630
 Poneglyph?
 
-362
+360
 00:27:08,160 --> 00:27:11,280
 Als diejenigen auftauchten, die den Stein wollten,
 
-363
+361
 00:27:11,280 --> 00:27:15,450
 haben die Krieger Shandoras,
 der Goldenen Stadt, tapfer gekämpft.
 
-364
+362
 00:27:16,350 --> 00:27:17,440
 Haben sie gewonnen?
 
-365
+363
 00:27:17,940 --> 00:27:20,000
 Ja, das haben sie.
 
-366
+364
 00:27:20,730 --> 00:27:26,370
 Doch der Kampf war so unerbittlich, dass er unzählige Opfer forderte.
 
-367
+365
 00:27:26,900 --> 00:27:30,460
 Die wenigen Überlebenden
 
-368
+366
 00:27:30,460 --> 00:27:36,000
 wurden im Anschluss Wächter zum Schutze
 der verwüsteten Stadt und des Poneglyphs.
 
-369
+367
 00:27:37,320 --> 00:27:41,060
 Und wir sind ihre direkten Nachfahren?
 
-370
+368
 00:27:41,570 --> 00:27:46,570
 Aber die Insel ist vor 400 Jahren nach Skypiea geschossen worden.
 
-371
+369
 00:27:46,570 --> 00:27:49,040
 Und das Land von diesen Leuten geraubt.
 
-372
+370
 00:27:49,840 --> 00:27:52,800
 Das Land, das unsere Vorfahren so sehr beschützt haben,
 
-373
+371
 00:27:52,800 --> 00:27:53,740
 ...wurde uns geraubt!
 
-374
+372
 00:27:56,620 --> 00:28:01,510
 Upper Yard ist unsere Heimat und erzählt zugleich
 
-375
+373
 00:28:01,510 --> 00:28:05,790
 ein wichtiges Stück Geschichte, das in Vergessenheit geraten ist.
 
-376
+374
 00:28:05,790 --> 00:28:08,990
 Selbst wenn sie jetzt im Himmel ist,
 
-377
+375
 00:28:08,990 --> 00:28:13,760
 dürfen wir nicht zulassen, dass das stolze Feuer Shandoras erlischt.
 
-378
+376
 00:28:20,560 --> 00:28:21,690
 Unmöglich...
 
-379
+377
 00:28:23,190 --> 00:28:24,600
 Hat er ihn besiegt?
 
-380
+378
 00:28:36,210 --> 00:28:37,820
 Robin!
 
-381
+379
 00:28:38,290 --> 00:28:39,530
 Komischer Ritter!
 
-382
+380
 00:28:50,810 --> 00:28:51,830
 Komm schon...
 
-383
+381
 00:28:51,830 --> 00:28:53,680
 Reanimiert er etwa...
 
-384
+382
 00:28:53,680 --> 00:28:55,260
 sein eigenes Herz?
 
-385
+383
 00:29:10,900 --> 00:29:14,350
 Die Leute fürchten nicht Gott.
 
-386
+384
 00:29:19,240 --> 00:29:21,780
 Gott ist die Furcht in Person.
 
-387
+385
 00:29:26,280 --> 00:29:29,050
 Was zum Teufel ist das für ein Kerl?
 
-388
+386
 00:29:31,310 --> 00:29:35,030
 Krieger Wyper,
 ich habe dir doch gesagt,
 
-389
+387
 00:29:35,980 --> 00:29:38,260
 dass du es lieber lassen sollst.
 
-390
+388
 00:29:42,310 --> 00:29:44,410
 Siehst du?
 
-391
+389
 00:29:46,370 --> 00:29:48,580
 Wie erbärmlich,
 
-392
+390
 00:29:49,640 --> 00:29:51,820
 Krieger Wyper.
 
-393
+391
 00:29:54,290 --> 00:29:55,880
 Nenn mich nicht...
 
-394
+392
 00:29:57,660 --> 00:29:59,360
 einfach beim Namen!
 
-395
+393
 00:30:01,220 --> 00:30:03,200
 Vor 800 Jahren
 
-396
+394
 00:30:03,900 --> 00:30:10,910
 haben stolze Shandia-Krieger für diese Stadt gekämpft!
 
-397
+395
 00:30:11,480 --> 00:30:14,080
 Und wir sind ihre Nachfahren!
 
-398
+396
 00:30:15,470 --> 00:30:18,890
 Eines Tages nahm man uns unsere Heimat.
 
-399
+397
 00:30:18,890 --> 00:30:23,220
 400 Jahre lang tragen wir den Groll des großen Kriegers, Kalgara, mit uns
 
-400
+398
 00:30:23,220 --> 00:30:27,840
 und haben Generationen lang nur nach diesem Ort gesucht!
 
-401
+399
 00:30:27,840 --> 00:30:31,560
 Endlich bin ich hier!
 
-402
+400
 00:30:36,790 --> 00:30:38,870
 Du...
 
-403
+401
 00:30:40,080 --> 00:30:41,990
 bist mir im Weg.
 
-404
+402
 00:30:48,050 --> 00:30:51,010
 Eben hast du mich kalt erwischt, Wyper.
 
-405
+403
 00:30:52,420 --> 00:30:56,510
 Mit deinem billigen Seestein-Trick.
 
-406
+404
 00:30:56,510 --> 00:30:58,600
 Der Rückschlag eines Reject
 
-407
+405
 00:30:58,600 --> 00:31:02,400
 sollte einen normalen Menschen beim ersten Mal töten.
 
-408
+406
 00:31:02,400 --> 00:31:05,300
 Doch du kannst selbst nach zwei Schüssen noch stehen.
 
-409
+407
 00:31:05,840 --> 00:31:07,820
 Ich bin beeindruckt.
 
-410
+408
 00:31:12,840 --> 00:31:15,650
 Doch du hast dir den falschen Gegner ausgesucht.
 
-411
+409
 00:31:22,600 --> 00:31:24,900
 Die Trommel hat sich in einen Vogel verwandelt!
 
-412
+410
 00:31:28,870 --> 00:31:31,830
 30 Millionen Volt...
 
-413
+411
 00:31:31,830 --> 00:31:33,130
 Blitzhuhn!
 
-414
+412
 00:31:48,580 --> 00:31:50,890
 Das Ding hat einen Seestein verbaut!
 
-415
+413
 00:31:52,870 --> 00:31:56,200
 Du auch, Blaumeerer-Schwertkämpfer?
 
-416
+414
 00:31:57,060 --> 00:31:59,110
 Töten oder getötet werden!
 
-417
+415
 00:32:01,800 --> 00:32:03,400
 Blitzwolf!
 
-418
+416
 00:32:11,820 --> 00:32:12,790
 Zoro!
 
-419
+417
 00:32:27,060 --> 00:32:29,050
 Das darf nicht sein...
 
-420
+418
 00:32:29,890 --> 00:32:31,260
 Selbst Zoro...
 
-421
+419
 00:32:32,350 --> 00:32:34,470
 Er hat sie alle erwischt.
 
-422
+420
 00:32:45,090 --> 00:32:46,440
 Warum?
 
-423
+421
 00:32:56,000 --> 00:32:57,080
 Obwohl...
 
-424
+422
 00:32:58,770 --> 00:33:00,610
 er so übel zugerichtet ist, will er noch...
 
-425
+423
 00:33:02,840 --> 00:33:04,810
 ...will er noch kämpfen?
 
-426
+424
 00:33:07,560 --> 00:33:09,520
 Wieso stehst du auf?
 
-427
+425
 00:33:09,520 --> 00:33:13,390
 Du wirst doch eh sterben. Lass es einfach geschehen.
 
-428
+426
 00:33:15,880 --> 00:33:18,060
 400 Jahre, ja?
 
-429
+427
 00:33:18,480 --> 00:33:23,270
 So lange kämpft ihr Shandia schon, um eure Heimat zurückzuholen?
 
-430
+428
 00:33:23,270 --> 00:33:27,710
 Dennoch bist du der einzige Krieger, der es hierher geschafft hat.
 
-431
+429
 00:33:27,710 --> 00:33:31,490
 Schon bald wird dieses Land ins Blaumeer stürzen.
 
-432
+430
 00:33:31,810 --> 00:33:32,950
 Gott kann...
 
-433
+431
 00:33:35,290 --> 00:33:38,410
 Es tut weh, deinen verzweifelten Kampf anzusehen.
 
-434
+432
 00:33:38,700 --> 00:33:41,370
 Der Kerl kann von niemandem besiegt werden!
 
-435
+433
 00:33:41,950 --> 00:33:43,930
 Wieso stehst du auf?
 
-436
+434
 00:33:47,880 --> 00:33:49,880
 Für unsere Vorfahren!
 
-437
+435
 00:33:56,510 --> 00:34:00,300
 Ich hatte mir eine bessere Antwort erhofft.
 
-438
+436
 00:34:00,300 --> 00:34:03,400
 Vermutlich bist du nicht einmal mehr bei vollem Bewusstsein.
 
-439
+437
 00:34:08,590 --> 00:34:09,630
 Wyper...
 
-440
+438
 00:34:12,620 --> 00:34:15,290
 Wyper, komm her.
 
-441
+439
 00:34:17,380 --> 00:34:18,080
 Was denn?
 
-442
+440
 00:34:23,050 --> 00:34:26,310
 Da du vom großen Krieger Kalgara abstammst,
 
-443
+441
 00:34:26,310 --> 00:34:27,920
 will ich dir was erzählen.
 
-444
+442
 00:34:28,650 --> 00:34:35,000
 Und zwar von einem weiteren Grund,
 weshalb er seine Heimat unbedingt zurückwollte.
 
-445
+443
 00:34:35,000 --> 00:34:37,760
 Von einem weiteren Grund?
 
-446
+444
 00:34:38,550 --> 00:34:39,780
 Genau.
 
-447
+445
 00:34:40,350 --> 00:34:44,740
 Die größte Reue Kalgaras.
 
-448
+446
 00:34:45,580 --> 00:34:46,490
 Hör gut zu.
 
-449
+447
 00:34:47,220 --> 00:34:49,280
 Der große Krieger Kalgara...
 
-450
+448
 00:34:49,860 --> 00:34:51,320
 El Thor!
 
-451
+449
 00:35:16,690 --> 00:35:20,100
 Nur du bist noch übrig.
 
-452
+450
 00:35:43,870 --> 00:35:45,190
 Ich...
 
-453
+451
 00:35:51,910 --> 00:35:55,090
 Ich... Bitte nimm mich mit!
 
-454
+452
 00:35:59,740 --> 00:36:02,180
 Ich komme mit dir!
 
-455
+453
 00:36:02,680 --> 00:36:04,310
 In deine Welt der Träume!
 
-456
+454
 00:36:08,830 --> 00:36:10,500
 Geht das nicht...?
+

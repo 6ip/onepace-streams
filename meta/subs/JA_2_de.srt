@@ -1,2409 +1,2396 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:53,930 --> 00:02:03,920
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:56,970 --> 00:01:58,560
 Boss! Boss!
 
-4
+2
 00:02:01,940 --> 00:02:04,520
 Was ist das?!
 
-5
+3
 00:02:04,520 --> 00:02:06,770
 Was ist das?! Was?! Ein Kontinent?!
 
-6
+4
 00:02:06,770 --> 00:02:11,150
 Keine Ahnung! Keine Ahnung! Ich sehe nichts!
 Ich kann gar nichts sehen! Das ist ein Traum!
 
-7
+5
 00:02:11,150 --> 00:02:12,360
 Ein Traum? Wirklich?!
 
-8
+6
 00:02:12,850 --> 00:02:15,550
 – Puh, zum Glück ist es bloß ein Traum.
 – Puh, zum Glück ist es bloß ein Traum.
 
-9
+7
 00:02:16,100 --> 00:02:17,030
 Nanu?
 
-10
+8
 00:02:18,620 --> 00:02:19,830
 Wurden sie etwa alle...
 
-11
+9
 00:02:24,830 --> 00:02:26,540
 mitsamt dem Schiff verspeist?
 
-12
+10
 00:02:26,540 --> 00:02:28,290
 Du brauchst es nicht auszusprechen!
 
-13
+11
 00:02:32,510 --> 00:02:35,310
 Es besteht kein Zweifel.
 
-14
+12
 00:02:35,310 --> 00:02:37,470
 Die Luftschläuche führen in das Maul.
 
-15
+13
 00:02:32,510 --> 00:02:37,470
 Sag... es... nicht...
 
-16
+14
 00:02:46,520 --> 00:02:51,150
 Luffy und die anderen
 wurden wirklich gefressen!
 
-17
+15
 00:02:51,150 --> 00:02:55,910
 Du hast sie dazu überredet, auf den
 Meeresgrund der Grand Line zu gehen!
 
-18
+16
 00:02:55,910 --> 00:02:58,030
 Du hast behauptet,
 es würde alles gutgehen,
 
-19
+17
 00:02:58,030 --> 00:03:00,450
 obwohl du keine Ahnung hattest!
 Und jetzt wurden sie...
 
-20
+18
 00:03:01,610 --> 00:03:02,660
 Du hast recht.
 
-21
+19
 00:03:04,890 --> 00:03:05,710
 Sorry!
 
-22
+20
 00:03:07,250 --> 00:03:09,710
 Der Grundgedanke
 stimmt zwar, aber...
 
-23
+21
 00:03:20,850 --> 00:03:22,770
 Wenn wir die Schläuche
 nicht abtrennen,
 
-24
+22
 00:03:23,390 --> 00:03:25,730
 reißt uns das Schiff mit in die Tiefen.
 
-25
+23
 00:03:25,730 --> 00:03:27,230
 – Nein!
 – Nein!
 
-26
+24
 00:03:27,230 --> 00:03:30,690
 Robin! Du bist doch stark, oder?
 Unternimm irgendwas!
 
-27
+25
 00:03:30,690 --> 00:03:32,650
 Das kann ich nicht.
 Dieses Ding ist zu mächtig.
 
-28
+26
 00:03:35,820 --> 00:03:37,280
 Okay, Männer!
 
-29
+27
 00:03:37,280 --> 00:03:40,150
 Zieht an diesen Seilen
 und rettet unseren Boss!
 
-30
+28
 00:03:40,150 --> 00:03:43,830
 Zeigt euren Stolz und eure
 Ehre als Masira-Piraten!
 
-31
+29
 00:03:44,860 --> 00:03:47,790
 Unser Boss ist noch am Leben!
 
-32
+30
 00:03:48,880 --> 00:03:52,750
 Richtig! In solchen Momenten wird unser
 Zusammenhalt auf die Probe gestellt!
 
-33
+31
 00:03:55,210 --> 00:03:55,800
 Usopp!
 
-34
+32
 00:03:55,800 --> 00:03:56,920
 Jo!
 
-35
+33
 00:03:57,860 --> 00:04:00,150
 Trenn die Schläuche zu unserer Sicherheit ab!
 
-36
+34
 00:04:00,150 --> 00:04:01,260
 Bist du ein Teufel?
 
-37
+35
 00:04:01,260 --> 00:04:02,680
 Sie ist ein Teufel!
 
-38
+36
 00:04:06,310 --> 00:04:08,770
 Was? Was passiert denn jetzt?!
 
-39
+37
 00:04:10,310 --> 00:04:12,230
 Es ist Nacht geworden?
 
-40
+38
 00:04:14,020 --> 00:04:15,390
 Ausgeschlossen.
 
-41
+39
 00:04:15,390 --> 00:04:17,490
 So spät ist es noch nicht.
 
-42
+40
 00:04:18,450 --> 00:04:23,200
 Wie geht es nun weiter?!
 Luffy! Zoro! Sanji!
 
-43
+41
 00:04:25,120 --> 00:04:26,830
 Ein Unheil droht...
 
-44
+42
 00:04:26,830 --> 00:04:29,580
 Der plötzliche Einbruch der
 Nacht kündigt Monster an!
 
-45
+43
 00:04:29,580 --> 00:04:33,630
 Sie werden unser Schiff versenken!
 Rettet schnell unseren Boss!
 
-46
+44
 00:04:37,840 --> 00:04:39,760
 – Luffy!
 – Luffy!
 
-47
+45
 00:04:41,600 --> 00:04:43,810
 Luffy! Was ist passiert?! Bist du tot?!
 
-48
+46
 00:04:47,200 --> 00:04:47,980
 Zoro! Sanji!
 
-49
+47
 00:04:48,510 --> 00:04:51,240
 Setzt die Segel! Bringt uns
 schleunigst hier weg!
 
-50
+48
 00:04:51,240 --> 00:04:52,480
 Der Typ ist verrückt...
 
-51
+49
 00:04:52,480 --> 00:04:56,610
 Ich bin so froh,
 dass ihr noch ganz seid!
 
-52
+50
 00:04:56,610 --> 00:04:58,820
 Schildkröte? Ne, da war ein Affe im Wasser!
 
-53
+51
 00:04:58,820 --> 00:04:58,860
 Schildkröte? Ne, da war ein Affe im Wasser!
 
-54
+52
 00:04:59,450 --> 00:05:00,950
 Das muss eine dieser
 Seekreaturen sein.
 
-55
+53
 00:05:00,950 --> 00:05:00,990
 Das muss eine
 dieser Seekreaturen sein.
 
-56
+54
 00:05:00,990 --> 00:05:01,030
 Eine Weile hat er sich ganz
 gut mit Luffy verstanden.
 
-57
+55
 00:05:01,030 --> 00:05:01,070
 Eine Weile hat er sich ganz
 gut mit Luffy verstanden.
 
-58
+56
 00:05:01,070 --> 00:05:01,110
 Eine Weile hat er sich ganz
 gut mit Luffy verstanden.
 
-59
+57
 00:05:01,110 --> 00:05:01,200
 Eine Weile hat er sich ganz
 gut mit Luffy verstanden.
 
-60
+58
 00:05:01,200 --> 00:05:01,240
 Eine Weile hat er sich ganz
 gut mit Luffy verstanden.
 
-61
+59
 00:05:01,240 --> 00:05:04,830
 Eine Weile hat er sich ganz
 gut mit Luffy verstanden.
 
-62
+60
 00:05:04,830 --> 00:05:04,870
 Eine Weile hat er sich ganz
 gut mit Luffy verstanden.
 
-63
+61
 00:05:05,690 --> 00:05:06,580
 Sind ja auch beide Affen.
 
-64
+62
 00:05:06,580 --> 00:05:06,620
 Sind ja auch beide Affen.
 
-65
+63
 00:05:07,430 --> 00:05:10,090
 Aber als er spitzgekriegt hat, dass wir
 was haben mitgehen lassen,
 
-66
+64
 00:05:10,090 --> 00:05:11,710
 ist er plötzlich ausgerastet.
 
-67
+65
 00:05:11,750 --> 00:05:11,790
 Der hat gewütet wie ein Gorilla!
 
-68
+66
 00:05:11,790 --> 00:05:11,830
 Der hat gewütet wie ein Gorilla!
 
-69
+67
 00:05:11,830 --> 00:05:11,870
 Der hat gewütet wie ein Gorilla!
 
-70
+68
 00:05:11,870 --> 00:05:11,920
 Der hat gewütet wie ein Gorilla!
 
-71
+69
 00:05:11,920 --> 00:05:11,960
 Der hat gewütet wie ein Gorilla!
 
-72
+70
 00:05:11,960 --> 00:05:14,590
 Der hat gewütet wie ein Gorilla!
 
-73
+71
 00:05:14,590 --> 00:05:17,510
 Er heißt Masira und birgt Schiffe.
 
-74
+72
 00:05:17,510 --> 00:05:20,630
 Unglaublich, dass ihr aus dem Maul
 dieser Schildkröte entkommen konntet!
 
-75
+73
 00:05:20,630 --> 00:05:22,800
 Schildkröte? Welche Schildkröte?
 
-76
+74
 00:05:24,430 --> 00:05:27,380
 Oh? Irgendwas stimmt
 mit der Schildkröte nicht.
 
-77
+75
 00:05:27,380 --> 00:05:29,410
 Ihr Maul steht offen...
 
-78
+76
 00:05:29,410 --> 00:05:32,350
 Deshalb konntet ihr also entkommen!
 
-79
+77
 00:05:32,350 --> 00:05:35,220
 – Was in aller Welt ist das denn?!
 – Was in aller Welt ist das denn?!
 
-80
+78
 00:05:35,220 --> 00:05:36,750
 Hey, ihr Blitzmerker!
 
-81
+79
 00:05:36,750 --> 00:05:39,320
 Das Ding hat euch samt
 Schiff verschlungen!
 
-82
+80
 00:05:44,830 --> 00:05:46,690
 Hä? Wieso ist es Nacht?
 
-83
+81
 00:05:46,690 --> 00:05:49,580
 Luffy, pack mit an!
 Wir setzen die Segel!
 
-84
+82
 00:05:49,580 --> 00:05:51,500
 Stehengeblieben!
 
-85
+83
 00:05:52,960 --> 00:05:54,290
 Ihr Verbrecher!
 
-86
+84
 00:05:55,710 --> 00:05:59,670
 Bildet euch ja nicht ein,
 ihr könntet euch davonmachen,
 
-87
+85
 00:05:59,670 --> 00:06:02,680
 nachdem ihr euch Schätze aus
 meinem Revier eingesteckt habt!
 
-88
+86
 00:06:02,680 --> 00:06:05,510
 Schätze? Es gab dort Schätze?!
 
-89
+87
 00:06:05,510 --> 00:06:07,640
 Oh ja, ’ne ganze Menge.
 
-90
+88
 00:06:07,990 --> 00:06:11,810
 Mist! Wenn der Typ auf dem Schiff
 ’nen Tobsuchtsanfall bekommt...
 
-91
+89
 00:06:14,190 --> 00:06:18,070
 B-Boss...! Hinter Ihnen!
 
-92
+90
 00:06:19,010 --> 00:06:20,280
 Hm? Was denn?
 
-93
+91
 00:07:17,000 --> 00:07:20,420
 – Monster!
 – Monster!
 
-94
+92
 00:07:47,860 --> 00:07:49,780
 Unglaublich...
 
-95
+93
 00:07:50,870 --> 00:07:53,700
 Unglaublich, dass irgendwas
 so dermaßen riesig ist...
 
-96
+94
 00:07:57,710 --> 00:08:02,540
 Mensch, auf der Grand Line jagt
 ein Mysterium das nächste!
 
-97
+95
 00:08:02,540 --> 00:08:03,500
 Auch heute wieder.
 
-98
+96
 00:08:04,050 --> 00:08:07,130
 Wir haben gesehen, wie eine gewaltige
 Galeone vom Himmel gefallen ist.
 
-99
+97
 00:08:07,480 --> 00:08:10,590
 Die Nadel des Log-Port
 zeigt jetzt in den Himmel.
 
-100
+98
 00:08:10,590 --> 00:08:14,100
 Ein durchgeknallter Affe ist aufgetaucht
 und hat das Schiff geborgen.
 
-101
+99
 00:08:14,680 --> 00:08:18,520
 Dann die riesige Schildkröte,
 die das ganze Schiff verschlungen hat.
 
-102
+100
 00:08:18,520 --> 00:08:20,190
 Dann ist es Nacht geworden.
 
-103
+101
 00:08:20,810 --> 00:08:24,820
 Zum Schluss kamen noch heftige Monster,
 tausendmal größer als die Riesen!
 
-104
+102
 00:08:25,570 --> 00:08:28,740
 Ja, die haben selbst
 mich eingeschüchtert.
 
-105
+103
 00:08:31,890 --> 00:08:34,040
 – Mach ’nen Abflug!
 – Mach ’nen Abflug!
 
-106
+104
 00:08:36,860 --> 00:08:40,640
 Diese Monster waren schon riesig.
 
-107
+105
 00:08:40,640 --> 00:08:44,300
 Ja. Denen will ich nie
 wieder begegnen.
 
-108
+106
 00:08:45,450 --> 00:08:47,260
 Weißt du, Chopper...
 
-109
+107
 00:08:47,550 --> 00:08:48,550
 Hm?
 
-110
+108
 00:08:48,860 --> 00:08:52,390
 Wenn ich alles gegeben hätte,
 hätte ich die fertigmachen können.
 
-111
+109
 00:08:52,390 --> 00:08:53,470
 Im Ernst?!
 
-112
+110
 00:08:54,190 --> 00:08:56,850
 Hab mal zehn von denen plattgemacht.
 
-113
+111
 00:08:56,850 --> 00:08:59,100
 Zehn von denen?!
 
-114
+112
 00:09:00,810 --> 00:09:06,400
 Und was hat es jetzt gebracht, dass ihr
 Hornochsen ins Wasser gesprungen seid?
 
-115
+113
 00:09:07,940 --> 00:09:13,240
 Ich seh hier nur Schrott und keinen Hinweis,
 wie wir in den Himmel kommen!
 
-116
+114
 00:09:13,240 --> 00:09:15,990
 Ich sagte doch bereits,
 dass da nichts war!
 
-117
+115
 00:09:15,990 --> 00:09:19,540
 Nun ja... Er sagt die Wahrheit, Nami.
 
-118
+116
 00:09:20,290 --> 00:09:24,710
 Es war schnell klar, dass jemand
 das Schiff bereits geplündert hatte.
 
-119
+117
 00:09:27,340 --> 00:09:32,050
 Vielleicht ist es zu einer Meuterei gekommen,
 bei der sie sich gegenseitig umgebracht haben.
 
-120
+118
 00:09:44,900 --> 00:09:48,360
 Dann brauchen wir doch
 erst recht Informationen!
 
-121
+119
 00:09:48,900 --> 00:09:52,990
 Hört mal. Wenn wir uns wirklich
 in den Himmel aufmachen,
 
-122
+120
 00:09:52,990 --> 00:09:58,170
 bedeutet das, dass uns dasselbe
 zustoßen könnte wie diesem Schiff!
 
-123
+121
 00:09:58,170 --> 00:10:00,010
 Da sind Informationen lebenswichtig,
 
-124
+122
 00:10:00,010 --> 00:10:03,270
 und was schleppt ihr an? Rostige Schwerter,
 Geschirr und 'nen lebendigen Oktopus?!
 
-125
+123
 00:10:03,270 --> 00:10:06,880
 Wir brauchen Tagebücher,
 Seekarten und so was!
 
-126
+124
 00:10:09,340 --> 00:10:11,770
 Was hast du da, Luffy?
 
-127
+125
 00:10:11,770 --> 00:10:12,760
 ’ne Rüstung.
 
-128
+126
 00:10:15,680 --> 00:10:17,850
 Sie hat die Rüstung zertrümmert!
 
-129
+127
 00:10:17,850 --> 00:10:20,890
 Ich hab hier wunderschöne
 Muscheln für dich, Nami!
 
-130
+128
 00:10:20,890 --> 00:10:22,980
 Kein Bedarf, du Riesendepp!
 
-131
+129
 00:10:22,980 --> 00:10:26,100
 Die verärgerte Nami ist auch niedlich!
 
-132
+130
 00:10:26,100 --> 00:10:27,820
 Halt dich vorerst lieber von ihr fern.
 
-133
+131
 00:10:30,260 --> 00:10:31,610
 Klingt anstrengend.
 
-134
+132
 00:10:31,610 --> 00:10:35,820
 Es wird nur noch schlimmer.
 Wir sind echt von Idioten umgeben!
 
-135
+133
 00:10:35,820 --> 00:10:38,780
 So schaffen wir es nie ans Ziel.
 
-136
+134
 00:10:39,660 --> 00:10:40,490
 Hier.
 
-137
+135
 00:10:40,490 --> 00:10:44,290
 Was? Ein Eternal-Port? Den...
 
-138
+136
 00:10:44,850 --> 00:10:48,380
 Hab ich aus dem Schiff dieser
 Affenleute geholt. Nur für den Fall.
 
-139
+137
 00:10:53,130 --> 00:10:55,720
 Du bist die Einzige, die hier
 auf meiner Seite ist!
 
-140
+138
 00:10:55,720 --> 00:10:59,720
 Hey, wir haben ’nen Oktopus.
 Das schreit nach Takoyaki!
 
-141
+139
 00:11:01,540 --> 00:11:03,730
 Du musst es wirklich schwer haben.
 
-142
+140
 00:11:08,220 --> 00:11:09,730
 Jaya?
 
-143
+141
 00:11:09,730 --> 00:11:11,780
 Das muss deren Hauptsitz sein.
 
-144
+142
 00:11:11,780 --> 00:11:14,530
 Jaya? Fahren wir da hin?
 
-145
+143
 00:11:14,530 --> 00:11:16,660
 Du triffst hier die
 Entscheidungen, du Knallfrosch!
 
-146
+144
 00:11:18,820 --> 00:11:22,040
 Jawoll! Jaya-Ruder, volle Kraft!
 
-147
+145
 00:11:22,470 --> 00:11:25,890
 Jaya-Ruder, volle Kraft!
 
-148
+146
 00:11:29,830 --> 00:11:31,170
 Nami, in welche Richtung?
 
-149
+147
 00:11:31,170 --> 00:11:32,460
 Steuerbord!
 
-150
+148
 00:11:32,460 --> 00:11:34,920
 Chopper, anpacken!
 
-151
+149
 00:11:33,840 --> 00:11:34,920
 Okay!
 
-152
+150
 00:11:34,920 --> 00:11:37,890
 Jaya-Kraft voraus!
 
-153
+151
 00:11:39,050 --> 00:11:41,320
 Hey, Moment mal...
 
-154
+152
 00:11:41,320 --> 00:11:44,810
 Wenn wir jetzt zu diesem Jaya-Ort fahren,
 
-155
+153
 00:11:44,810 --> 00:11:47,600
 wird der Log doch wieder überschrieben, oder?
 
-156
+154
 00:11:48,350 --> 00:11:50,390
 Mit anderen Worten...
 
-157
+155
 00:11:50,390 --> 00:11:52,610
 Wir können dann nicht
 mehr auf die Himmelsinsel.
 
-158
+156
 00:11:52,610 --> 00:11:53,480
 Was?!
 
-159
+157
 00:11:53,480 --> 00:11:55,190
 Jaya-Ruder, Stopp!
 
-160
+158
 00:11:55,190 --> 00:11:57,670
 Hey, Nami! Was soll das?!
 
-161
+159
 00:11:57,670 --> 00:12:00,660
 Was willst du? Du bist
 derjenige, der nach Jaya wollte.
 
-162
+160
 00:12:00,950 --> 00:12:02,120
 Ah, richtig...
 
-163
+161
 00:12:02,410 --> 00:12:05,540
 Aber ich wusste nicht,
 dass das passieren würde!
 
-164
+162
 00:12:05,540 --> 00:12:07,700
 Dein Problem, wenn du
 das nicht bedenkst.
 
-165
+163
 00:12:07,700 --> 00:12:10,420
 Der Log-Port funktioniert
 schon immer so, richtig?
 
-166
+164
 00:12:10,420 --> 00:12:11,840
 Ah, richtig...
 
-167
+165
 00:12:11,840 --> 00:12:13,960
 Na gut, hergehört!
 
-168
+166
 00:12:13,960 --> 00:12:17,040
 Da ich der Käpt’n bin,
 beschließe ich, wohin es geht!
 
-169
+167
 00:12:17,040 --> 00:12:18,880
 Ich will auf die Himmelsinsel!
 
-170
+168
 00:12:19,220 --> 00:12:20,680
 Gut, aber wie?
 
-171
+169
 00:12:20,680 --> 00:12:22,800
 Da fragen wir wohl besser wen.
 
-172
+170
 00:12:22,800 --> 00:12:25,020
 Dann fragen wir eben in Jaya nach.
 
-173
+171
 00:12:25,020 --> 00:12:26,390
 Dann fahren wir nach Jaya.
 
-174
+172
 00:12:26,390 --> 00:12:29,700
 Na gut! Jaya-Ruder, volle Kraft!
 
-175
+173
 00:12:29,700 --> 00:12:31,270
 Du wiederholst dich!
 
-176
+174
 00:12:32,520 --> 00:12:35,470
 Der Log wird nicht direkt
 bei der Ankunft gespeichert.
 
-177
+175
 00:12:35,470 --> 00:12:39,200
 Wir müssen Jaya also nur verlassen,
 bevor der nächste gespeichert wird.
 
-178
+176
 00:12:39,700 --> 00:12:41,620
 Dazu müsste das Glück
 auf unserer Seite sein.
 
-179
+177
 00:12:41,620 --> 00:12:44,160
 Gut, dann machen wir’s so,
 wie du gerade gesagt hast.
 
-180
+178
 00:12:44,570 --> 00:12:48,410
 Alles klar, Leute! Brechen wir auf
 nach Jaya, das Land des Fleisches!
 
-181
+179
 00:12:48,410 --> 00:12:49,160
 – Jo!
 – Jo!
 
-182
+180
 00:12:49,550 --> 00:12:51,810
 Träum dir keinen
 Schwachsinn zusammen!
 
-183
+181
 00:12:51,810 --> 00:12:54,290
 Was dieses Jaya wohl für ein Ort ist?
 
-184
+182
 00:12:54,290 --> 00:12:56,670
 Liebste Nami, liebste Robin!
 
-185
+183
 00:12:56,670 --> 00:13:02,090
 Eure „einmaligen Takoyaki
 exklusiv für Ladys“ sind fertig!
 
-186
+184
 00:13:08,160 --> 00:13:11,050
 Dir ist die Kohle ausgegangen.
 
-187
+185
 00:13:11,050 --> 00:13:12,640
 Und jetzt?
 
-188
+186
 00:13:12,640 --> 00:13:15,480
 Willst du vielleicht deine Hose
 verwetten oder so, Bruder?
 
-189
+187
 00:13:15,480 --> 00:13:17,480
 In gewisser Hinsicht hattest du Glück.
 
-190
+188
 00:13:17,480 --> 00:13:21,950
 Hättest du gegen Roshio gewonnen,
 wärst du nicht ungeschoren davongekommen.
 
-191
+189
 00:13:23,390 --> 00:13:26,370
 Sorry, aber dein Geld gehört nun mir.
 
-192
+190
 00:13:28,740 --> 00:13:32,210
 Du hast doch gerade beschissen.
 
-193
+191
 00:13:32,210 --> 00:13:33,290
 Oder etwa nicht?
 
-194
+192
 00:13:33,920 --> 00:13:36,300
 Was? Und wann bitte?
 
-195
+193
 00:13:36,300 --> 00:13:39,470
 Das hast du! Du hast beschissen!
 
-196
+194
 00:13:40,550 --> 00:13:42,890
 Spar dir die haltlosen
 Anschuldigungen, du Niete!
 
-197
+195
 00:13:43,410 --> 00:13:47,160
 Sarquiss! Sarquiss!
 
-198
+196
 00:13:47,160 --> 00:13:48,890
 Hm? Was ist denn?
 
-199
+197
 00:13:49,170 --> 00:13:52,900
 Du hast es doch auch gesehen, oder?
 Der Versager hat gerade beschissen.
 
-200
+198
 00:13:52,900 --> 00:13:55,150
 Beschissen?
 
-201
+199
 00:13:55,150 --> 00:13:59,230
 Ja, richtig! Er hat geschummelt.
 
-202
+200
 00:13:59,230 --> 00:14:02,250
 Hab’s auch gesehen.
 Was für’n dreckiger Schummler.
 
-203
+201
 00:14:02,250 --> 00:14:05,490
 Verarscht mich nicht! Euch ist wohl
 nicht bewusst, mit wem ihr es zu tun habt!
 
-204
+202
 00:14:33,720 --> 00:14:35,100
 Immer noch nichts in Sicht, Usopp?
 
-205
+203
 00:14:35,100 --> 00:14:37,230
 Nope, nichts zu sehen.
 
-206
+204
 00:14:37,730 --> 00:14:40,560
 Diese Jaya-Insel ist
 nicht mehr weit, oder?
 
-207
+205
 00:14:40,560 --> 00:14:43,490
 Ja. Das Wetter ist jetzt
 schon eine Weile beständig,
 
-208
+206
 00:14:43,490 --> 00:14:45,860
 also müssten wir uns in
 ihrer Klimazone befinden.
 
-209
+207
 00:14:46,380 --> 00:14:48,950
 Jaya ist also eine Frühlingsinsel.
 
-210
+208
 00:14:48,950 --> 00:14:51,660
 Es ist so angenehm warm.
 
-211
+209
 00:14:53,170 --> 00:14:54,870
 Frühlingswetter ist toll.
 
-212
+210
 00:14:55,850 --> 00:14:58,840
 Die Möwen scheinen
 es auch zu genießen.
 
-213
+211
 00:15:07,840 --> 00:15:10,510
 Sie wurden abgeschossen!
 
-214
+212
 00:15:10,510 --> 00:15:12,600
 Oh, jetzt können wir Yakitori machen!
 
-215
+213
 00:15:12,600 --> 00:15:16,020
 Abgeschossen? Ich hab
 keine Schüsse gehört.
 
-216
+214
 00:15:16,020 --> 00:15:17,520
 Sieh doch, eine Kugel!
 
-217
+215
 00:15:17,520 --> 00:15:20,390
 Dem Fall nach müssen die
 Kugeln von dort gekommen sein!
 
-218
+216
 00:15:20,390 --> 00:15:23,320
 Von einer Insel, die wir
 noch nicht einmal sehen?
 
-219
+217
 00:15:23,320 --> 00:15:25,320
 Das ist unmöglich, Chopper.
 
-220
+218
 00:15:25,320 --> 00:15:27,280
 Aber ich hab sie doch
 durchgehend beobachtet!
 
-221
+219
 00:15:28,600 --> 00:15:33,160
 Was für ’ne Sehkraft, wie viel Geschick
 und welches Gewehr soll dieser Schütze haben?
 
-222
+220
 00:15:33,160 --> 00:15:35,860
 Sie wurden woanders
 abgeschossen und jetzt hergeweht.
 
-223
+221
 00:15:35,860 --> 00:15:38,210
 Sanji, wir haben Möwen!
 
-224
+222
 00:15:45,860 --> 00:15:48,640
 Armes Ding. Es musste so arg leiden.
 
-225
+223
 00:15:49,250 --> 00:15:51,720
 Einen der Vögel konnte
 ich nicht direkt töten.
 
-226
+224
 00:15:52,270 --> 00:15:54,920
 Aber auch das ist Schicksal.
 
-227
+225
 00:15:54,920 --> 00:15:58,730
 Das alles resultiert aus der Art,
 wie man sein Leben führt.
 
-228
+226
 00:16:05,270 --> 00:16:08,400
 Hey, du! Hast du eine
 Ahnung, wer ich bin?!
 
-229
+227
 00:16:08,400 --> 00:16:10,200
 Hä? Nicht die geringste, du Trottel.
 
-230
+228
 00:16:10,870 --> 00:16:15,200
 Dann verrat ich’s dir.
 Ich bin der Kampf-Champion.
 
-231
+229
 00:16:17,860 --> 00:16:20,250
 Wow! Herrlich!
 
-232
+230
 00:16:20,250 --> 00:16:22,130
 Das ist doch mal ’ne hübsche Stadt!
 
-233
+231
 00:16:22,130 --> 00:16:25,090
 Hey, hat die nicht irgendwie
 was von ’nem Ferienort?
 
-234
+232
 00:16:25,090 --> 00:16:26,090
 Ein Ferienort?!
 
-235
+233
 00:16:26,090 --> 00:16:27,590
 Schneller, Merry!
 
-236
+234
 00:16:27,590 --> 00:16:31,470
 Tatsächlich! Ich bekomm das Verlangen,
 etwas länger dort zu bleiben.
 
-237
+235
 00:16:36,770 --> 00:16:41,660
 Bild ich mir das nur ein, oder sehen
 die Schiffe im Hafen aus wie Piratenschiffe?
 
-238
+236
 00:16:41,660 --> 00:16:43,450
 Mensch, Usopp, du Dummerchen.
 
-239
+237
 00:16:43,450 --> 00:16:46,590
 Als ob Piratenschiffe so unbekümmert
 im Hafen anlegen würden.
 
-240
+238
 00:16:46,590 --> 00:16:48,150
 A-Auch wieder wahr.
 
-241
+239
 00:16:50,070 --> 00:16:52,200
 Helft mir! Er wird mich umbringen!
 
-242
+240
 00:16:52,200 --> 00:16:54,490
 – Was ist mit dieser Stadt?
 – Was ist mit dieser Stadt?
 
-243
+241
 00:16:56,830 --> 00:16:59,920
 Was für ’n Schwächling.
 
-244
+242
 00:16:59,920 --> 00:17:03,500
 Hey, du hast dir den falschen
 Typen zum Verprügeln rausgepickt.
 
-245
+243
 00:17:03,500 --> 00:17:07,050
 Sieh dir mal das Symbol an.
 Er gehört zu Roshios Bande.
 
-246
+244
 00:17:07,050 --> 00:17:08,300
 Von dem hast du doch gehört!
 
-247
+245
 00:17:08,300 --> 00:17:12,050
 Roshio, der Hinrichter, dessen
 Kopfgeld 42 Millionen Berry beträgt.
 
-248
+246
 00:17:12,050 --> 00:17:16,270
 Der ist wahnsinnig. Du solltest
 also lieber aufpassen.
 
-249
+247
 00:17:17,640 --> 00:17:22,290
 Was für ’n übermütiger Kerl!
 Da war kein Betrug im Spiel.
 
-250
+248
 00:17:22,290 --> 00:17:25,690
 Trotzdem hart, Roshio, den Hinrichter,
 so mühelos fertigzumachen.
 
-251
+249
 00:17:25,690 --> 00:17:27,940
 Kennst du ihn etwa nicht?
 Das ist Bellamy.
 
-252
+250
 00:17:28,320 --> 00:17:31,450
 Der Typ?! Das ist der, auf den 55 Millionen
 Berry Kopfgeld ausgesetzt sind?
 
-253
+251
 00:17:31,450 --> 00:17:32,910
 Bellamy, die Hyäne?!
 
-254
+252
 00:17:33,710 --> 00:17:34,910
 Käpt’n!
 
-255
+253
 00:17:34,910 --> 00:17:36,410
 Wer hat das getan?!
 
-256
+254
 00:17:36,410 --> 00:17:38,670
 Im Moment braucht er erst
 mal einen Arzt! Macht schnell!
 
-257
+255
 00:17:38,670 --> 00:17:40,830
 Käpt’n, bitte halten Sie durch.
 
-258
+256
 00:17:58,060 --> 00:18:00,550
 Hier gibt’s echt die
 verschiedensten Leute.
 
-259
+257
 00:18:00,550 --> 00:18:02,690
 Die Stadt sieht spaßig aus.
 
-260
+258
 00:18:03,190 --> 00:18:04,610
 Unvorstellbar...
 
-261
+259
 00:18:04,610 --> 00:18:07,650
 Schaffen’s die beiden wohl zurück,
 ohne sich Ärger einzubrocken?
 
-262
+260
 00:18:08,030 --> 00:18:10,400
 Na ja, die Stadt wirkt so
 schon gefährlich auf mich.
 
-263
+261
 00:18:10,400 --> 00:18:12,430
 Halte ich also für nahezu unmöglich.
 
-264
+262
 00:18:12,430 --> 00:18:15,120
 Stimmt. Das darf ich nicht zulassen!
 
-265
+263
 00:18:14,360 --> 00:18:15,120
 Hey, Nami!
 
-266
+264
 00:18:15,540 --> 00:18:19,120
 Wartet auf mich, Luffy, Zoro!
 
-267
+265
 00:18:20,000 --> 00:18:21,620
 Weg ist sie.
 
-268
+266
 00:18:21,620 --> 00:18:24,000
 Wird schon glattgehen,
 die beiden sind ja bei ihr.
 
-269
+267
 00:18:24,000 --> 00:18:26,080
 Was soll das denn?
 Wenn Nami geht, dann geh ich...
 
-270
+268
 00:18:26,550 --> 00:18:28,210
 Du bleibst schön hier!
 
-271
+269
 00:18:28,210 --> 00:18:32,720
 Wenn du gehst, w-was passiert dann,
 f-falls das Schiff überfallen wird?!
 
-272
+270
 00:18:32,720 --> 00:18:34,590
 Bitte verlass uns nicht!
 
-273
+271
 00:18:34,590 --> 00:18:36,720
 Ist ja gut. Jetzt lass mich los!
 
-274
+272
 00:18:37,890 --> 00:18:40,180
 Ich setz dann mal Tee auf
 und halte die Stellung.
 
-275
+273
 00:18:40,770 --> 00:18:42,490
 Hm? Wo ist Robin?
 
-276
+274
 00:18:42,490 --> 00:18:44,480
 Nanu? Sie ist weg.
 
-277
+275
 00:18:46,430 --> 00:18:48,150
 Sanji, was den Tee angeht...
 
-278
+276
 00:18:47,110 --> 00:18:48,150
 Mach ihn dir selbst.
 
-279
+277
 00:18:49,980 --> 00:18:52,610
 Ich werde in dieser Stadt...
 
-280
+278
 00:18:52,610 --> 00:18:54,990
 ...nicht kämpfen!
 Ich gebe dir mein Ehrenwort!
 
-281
+279
 00:18:54,990 --> 00:18:57,200
 Ich werde nicht kämpfen.
 Ich geb dir mein Ehrenwort.
 
-282
+280
 00:18:57,200 --> 00:18:59,590
 Gut. Nehmt das auch
 wirklich ernst, ihr zwei.
 
-283
+281
 00:18:59,590 --> 00:19:00,540
 – Jau.
 – Jo.
 
-284
+282
 00:19:00,540 --> 00:19:03,040
 Was sollen die
 halbherzigen Antworten?!
 
-285
+283
 00:19:03,740 --> 00:19:07,710
 Wenn ihr hier für Stress sorgt,
 müssen wir aus der Stadt verschwinden.
 
-286
+284
 00:19:07,710 --> 00:19:10,590
 Und dann könnten wir nicht auf
 die Himmelsinsel, versteht ihr?!
 
-287
+285
 00:19:10,590 --> 00:19:11,000
 Jau.
 
-288
+286
 00:19:13,420 --> 00:19:14,050
 Wer ist das?
 
-289
+287
 00:19:14,530 --> 00:19:15,860
 Guckt mal. Ist vom Pferd gefallen.
 
-290
+288
 00:19:15,860 --> 00:19:17,720
 Jo, das ist er.
 
-291
+289
 00:19:20,710 --> 00:19:21,580
 Hat wohl Schmerzen.
 
-292
+290
 00:19:21,580 --> 00:19:22,720
 Jo, die hat er.
 
-293
+291
 00:19:22,720 --> 00:19:27,270
 Entschuldigt die Umstände,
 aber bitte helft mir doch hoch.
 
-294
+292
 00:19:27,270 --> 00:19:29,060
 Wirkst nicht, als würdest
 du dich bemühen.
 
-295
+293
 00:19:30,590 --> 00:19:31,820
 Luffy, du nimmst diese Seite.
 
-296
+294
 00:19:31,820 --> 00:19:32,780
 Jau.
 
-297
+295
 00:19:34,740 --> 00:19:38,450
 Ach, ich danke euch. Wieder oben...
 
-298
+296
 00:19:39,170 --> 00:19:42,510
 Ich wurde so schwach geboren.
 
-299
+297
 00:19:42,510 --> 00:19:45,340
 Na gut, gehen wir, Stronger.
 
-300
+298
 00:19:45,340 --> 00:19:46,750
 – Sogar das Pferd?!
 – Sogar das Pferd?!
 
-301
+299
 00:19:47,090 --> 00:19:50,030
 Alter, du bist vielleicht anstrengend.
 
-302
+300
 00:19:50,030 --> 00:19:52,590
 Ich danke euch vielmals.
 
-303
+301
 00:19:52,590 --> 00:19:56,050
 Ist zwar keine angemessene
 Belohnung, aber möchtet ihr welche?
 
-304
+302
 00:19:56,050 --> 00:19:59,710
 Du bist mir zu suspekt. Wir wollen keine,
 also mach dich endlich vom Acker.
 
-305
+303
 00:19:59,710 --> 00:20:01,560
 Ui, Äpfelchen! Wie lieb von dir!
 
-306
+304
 00:20:00,510 --> 00:20:01,560
 Hey, hey!
 
-307
+305
 00:20:04,870 --> 00:20:06,310
 Was? Was ist passiert?
 
-308
+306
 00:20:06,980 --> 00:20:09,870
 So ’n paar Typen haben Äpfel von
 ’nem merkwürdigen Kauz gegessen
 
-309
+307
 00:20:09,870 --> 00:20:12,770
 und dann sind sie explodiert.
 Gleich fünf davon!
 
-310
+308
 00:20:13,900 --> 00:20:15,610
 Oh nein...
 
-311
+309
 00:20:15,610 --> 00:20:19,040
 Luffy! Sofort ausspucken!
 Spuck den Apfel aus! Wird’s bald?!
 
-312
+310
 00:20:19,040 --> 00:20:20,830
 Hab ich schon runtergeschluckt.
 
-313
+311
 00:20:20,830 --> 00:20:22,660
 Du Ratte! Was hat das zu bedeuten?!
 
-314
+312
 00:20:25,550 --> 00:20:27,250
 Ach, ihm geht’s doch gut.
 
-315
+313
 00:20:29,110 --> 00:20:32,340
 Das geht zu weit! Da drin
 ist die Hölle ausgebrochen.
 
-316
+314
 00:20:32,700 --> 00:20:36,830
 Wenn er ’nen falschen erwischt hätte,
 wäre er beim ersten Bissen gestorben.
 
-317
+315
 00:20:36,830 --> 00:20:38,380
 Da hattet ihr...
 
-318
+316
 00:20:39,900 --> 00:20:42,350
 noch mal Schwein.
 
-319
+317
 00:20:43,010 --> 00:20:45,350
 Hey, was ist das hier?
 
-320
+318
 00:20:45,350 --> 00:20:48,100
 Das Grab von Roshio, dem Hinrichter.
 
-321
+319
 00:20:48,100 --> 00:20:50,450
 Hier sieht’s aus wie auf
 ’nem Kriegsschauplatz.
 
-322
+320
 00:20:50,450 --> 00:20:52,660
 Haben die mitten in der Stadt
 ’ne Kanone abgefeuert?
 
-323
+321
 00:20:52,660 --> 00:20:53,890
 Wer weiß?
 
-324
+322
 00:20:53,890 --> 00:20:57,100
 Sogar die Leute, die’s gesehen haben,
 meinten, sie hätten keine Ahnung,
 
-325
+323
 00:20:57,100 --> 00:20:59,210
 was sich hier zugetragen hat.
 
-326
+324
 00:20:59,210 --> 00:21:03,820
 Wir wissen lediglich,
 dass Roshios Gegner Bellamy war.
 
-327
+325
 00:21:03,820 --> 00:21:05,330
 Oh, Bellamy, die Hyäne?
 
-328
+326
 00:21:05,910 --> 00:21:09,080
 Der hat ohne jeden Zweifel
 die Kräfte einer Teufelsfrucht.
 
-329
+327
 00:21:12,920 --> 00:21:15,050
 Was stimmt bloß nicht
 mit dieser Stadt?!
 
-330
+328
 00:21:15,050 --> 00:21:17,170
 Jetzt sei doch nicht
 so empfindlich, Nami.
 
-331
+329
 00:21:17,660 --> 00:21:21,430
 Dir ist schon bewusst, dass man dich
 fast grundlos abgemurkst hätte?
 
-332
+330
 00:21:21,430 --> 00:21:23,300
 Kommt halt vor.
 
-333
+331
 00:21:23,300 --> 00:21:25,810
 So was darf eben nicht vorkommen!
 
-334
+332
 00:21:30,600 --> 00:21:32,250
 Der schon wieder...
 
-335
+333
 00:21:32,250 --> 00:21:34,150
 Wie viele Opfer gab es jetzt schon?
 
-336
+334
 00:21:34,150 --> 00:21:37,190
 Er ist kein berühmter
 Verbrecher oder so...
 
-337
+335
 00:21:37,190 --> 00:21:38,360
 Wer ist der Schreihals?
 
-338
+336
 00:21:38,750 --> 00:21:40,460
 Will’s eigentlich gar nicht wissen.
 
-339
+337
 00:21:40,460 --> 00:21:44,910
 Nichtsdestotrotz sollten wir uns von
 diesem Kampf-Champion fernhalten.
 
-340
+338
 00:21:46,330 --> 00:21:47,640
 – Champion?
 – Champion?
 
-341
+339
 00:21:47,640 --> 00:21:50,000
 Wieso seid ihr so scharf
 darauf, euch zu messen?!
 
-342
+340
 00:21:51,040 --> 00:21:55,790
 Mann... Können wir in so ’ner Stadt
 wirklich an Informationen kommen?
 
-343
+341
 00:21:59,150 --> 00:22:00,220
 Was ist mit dem Ort hier?
 
-344
+342
 00:22:00,220 --> 00:22:03,090
 Hm... Hier scheint tote Hose zu sein.
 
-345
+343
 00:22:03,390 --> 00:22:06,640
 Also ich find’s hier herrlich!
 
-346
+344
 00:22:07,160 --> 00:22:09,830
 Selbst in so ’ner runtergekommenen
 Stadt gibt’s also solche Orte.
 
-347
+345
 00:22:09,830 --> 00:22:12,000
 Die haben ein Ferienhaus
 auf dem Meer?
 
-348
+346
 00:22:12,000 --> 00:22:14,350
 Aber hier ist ja gar keiner...
 
-349
+347
 00:22:14,350 --> 00:22:16,980
 Obwohl ich leckeres Essen riechen kann.
 
-350
+348
 00:22:16,980 --> 00:22:20,320
 W-Werte Gäste! Werte Gäste,
 bitte entschuldigen Sie!
 
-351
+349
 00:22:20,700 --> 00:22:23,030
 Bitte betreten Sie die
 Anlage nicht ohne Erlaubnis!
 
-352
+350
 00:22:23,030 --> 00:22:28,870
 D-Das Tropical Hotel ist an Meister
 Bellamy und seine Gesellschaft vermietet.
 
-353
+351
 00:22:28,870 --> 00:22:31,070
 Deshalb möchten wir andere Gäste...
 
-354
+352
 00:22:31,070 --> 00:22:32,760
 ähm... darum bitten, zu gehen.
 
-355
+353
 00:22:32,760 --> 00:22:34,960
 Oh, das hier ist also ein Hotel?
 
-356
+354
 00:22:34,960 --> 00:22:36,970
 W-Wenn Meister Bellamy Sie sieht,
 
-357
+355
 00:22:36,970 --> 00:22:40,130
 geraten wir in Schwierigkeiten, also bitte
 verlassen Sie umgehend die Anlage.
 
-358
+356
 00:22:40,130 --> 00:22:42,390
 Wieso können wir denn
 nicht einfach reinkommen?
 
-359
+357
 00:22:42,390 --> 00:22:44,010
 Wer ist dieser Bellamy überhaupt?
 
-360
+358
 00:22:44,010 --> 00:22:45,180
 Hey, gibt’s Probleme?
 
-361
+359
 00:22:46,140 --> 00:22:49,100
 Aus welchem Loch kommen
 die Ratten denn gekrochen?
 
-362
+360
 00:22:49,100 --> 00:22:52,870
 Meister Sarquiss! Willkommen zurück!
 Nun, die Situation ist...
 
-363
+361
 00:22:52,870 --> 00:22:54,730
 Red nicht und wirf sie endlich aus!
 
-364
+362
 00:22:54,730 --> 00:22:56,810
 Hast du vergessen, wie viel wir hierfür bezahlen?
 
-365
+363
 00:22:57,280 --> 00:23:00,780
 Ihr habt sie gehört.
 Zisch ab, Rotzbengel.
 
-366
+364
 00:23:00,780 --> 00:23:02,740
 Hey, darf ich den zusammenschlagen?
 
-367
+365
 00:23:02,740 --> 00:23:03,610
 – Darfst du nicht!
 – Darfst du nicht!
 
-368
+366
 00:23:03,610 --> 00:23:06,830
 Du willst mich zusammenschlagen?
 
-369
+367
 00:23:07,780 --> 00:23:08,930
 Lustiger Haufen.
 
-370
+368
 00:23:10,190 --> 00:23:13,600
 Hier, nehmt das Geld und kauft
 euch damit was Schickes.
 
-371
+369
 00:23:13,600 --> 00:23:17,420
 Sarquiss, denen Geld zu geben,
 ist wie Perlen vor die Säue zu werfen.
 
-372
+370
 00:23:17,790 --> 00:23:20,630
 In der Kanalisation wär’s
 wohl besser aufgehoben.
 
-373
+371
 00:23:20,630 --> 00:23:22,340
 Was? Das können wir echt haben?
 
-374
+372
 00:23:22,880 --> 00:23:24,590
 Wir gehen. Das ist ja widerlich!
 
-375
+373
 00:23:24,590 --> 00:23:26,710
 Hey, ich kann auch selber laufen.
 
-376
+374
 00:23:26,710 --> 00:23:29,010
 Was seh ich da? Ihr wollt es nicht?
 
-377
+375
 00:23:29,320 --> 00:23:32,850
 Sarquiss, Lily. Hackt nicht
 so auf ihnen rum.
 
-378
+376
 00:23:33,540 --> 00:23:35,560
 Ach, da steckst du also.
 
-379
+377
 00:23:36,600 --> 00:23:42,250
 Sie haben auf dem Weg hierher einiges
 mitgemacht, wie es scheint. Seht nur.
 
-380
+378
 00:23:42,250 --> 00:23:45,250
 Verglichen mit dir und Bellamy sind
 sie natürlich Abschaum, aber...
 
-381
+379
 00:23:45,250 --> 00:23:47,570
 Für den Durchschnitt machen
 sie sich schon ganz gut.
 
-382
+380
 00:23:47,570 --> 00:23:51,530
 Ja. Trotzdem unwahrscheinlich, dass sie
 im kommenden Zeitalter überleben werden.
 
-383
+381
 00:23:51,870 --> 00:23:52,970
 Dennoch...
 
-384
+382
 00:23:52,970 --> 00:23:57,170
 Was, ganze 30 Millionen
 für den Grünschnabel hier?
 
-385
+383
 00:23:57,170 --> 00:23:59,830
 Das muss ich Bellamy zeigen.
 
-386
+384
 00:24:00,540 --> 00:24:03,340
 Verflucht! Ich bin stocksauer!
 
-387
+385
 00:24:03,340 --> 00:24:04,940
 Wirklich schade.
 
-388
+386
 00:24:04,940 --> 00:24:10,010
 Mock Town ist immerhin auf Piraten
 angewiesen, die viel Geld ausgeben.
 
-389
+387
 00:24:10,010 --> 00:24:13,490
 Dann sind arme Piraten
 nicht gern gesehen, was?
 
-390
+388
 00:24:13,490 --> 00:24:15,480
 So leicht kann man dich
 wohl nicht besänftigen.
 
-391
+389
 00:24:16,550 --> 00:24:18,650
 Hier, der geht aufs Haus.
 
-392
+390
 00:24:19,390 --> 00:24:22,460
 Bei den ganzen Raufbolden, die sich
 hier versammeln, gibt es oft Ärger.
 
-393
+391
 00:24:22,460 --> 00:24:25,240
 Aber wenn man sich jedes Mal aufregt,
 kommt man nicht weit.
 
-394
+392
 00:24:25,240 --> 00:24:28,470
 Man kann nur besonders vorsichtig
 im Umgang mit ihnen sein.
 
-395
+393
 00:24:28,470 --> 00:24:29,110
 Bitte sehr.
 
-396
+394
 00:24:29,600 --> 00:24:32,580
 Aber mal ehrlich, das ist echt
 ’ne schreckliche Stadt.
 
-397
+395
 00:24:33,190 --> 00:24:35,290
 So würde ein vernünftiger
 Mensch wohl denken.
 
-398
+396
 00:24:35,290 --> 00:24:39,080
 Aber leider findet man in dieser
 Stadt nur selten vernünftige Leute.
 
-399
+397
 00:24:39,080 --> 00:24:41,420
 Nun, der Log wird in etwa
 vier Tagen gespeichert.
 
-400
+398
 00:24:41,420 --> 00:24:43,920
 Ihr solltet also gehen, bevor ihr
 in Schwierigkeiten geratet.
 
-401
+399
 00:24:44,920 --> 00:24:47,840
 Vier Tage... Dann können wir nicht
 einmal zwei Tage lang bleiben.
 
-402
+400
 00:24:47,840 --> 00:24:48,880
 Also, Herr Barkeeper...
 
-403
+401
 00:24:48,880 --> 00:24:50,090
 – Hey, alter Mann!
 – Hey, Kumpel!
 
-404
+402
 00:24:50,090 --> 00:24:51,850
 Hm? Was gibt’s?
 
-405
+403
 00:24:51,850 --> 00:24:54,850
 – Die Kirschtorte schmeckt ja echt grässlich!
 – Die Kirschtorte schmeckt ja echt klasse!
 
-406
+404
 00:25:05,610 --> 00:25:08,950
 – Der Drink schmeckt ja echt klasse!
 – Der Drink schmeckt ja echt grässlich!
 
-407
+405
 00:25:09,950 --> 00:25:12,620
 Hast du etwa verirrte
 Geschmacksnerven?
 
-408
+406
 00:25:13,240 --> 00:25:15,450
 Sitzt bei dir die Zunge falsch?
 
-409
+407
 00:25:15,950 --> 00:25:20,330
 Nun, ich bin hier nicht der Koch,
 also kann’s mir ja egal sein...
 
-410
+408
 00:25:21,120 --> 00:25:23,750
 Hey, alter Mann! Gib mir
 50 Steaks zum Mitnehmen!
 
-411
+409
 00:25:24,290 --> 00:25:27,790
 Kumpel, gib mir 51
 Kirschtorten zum Mitnehmen!
 
-412
+410
 00:25:27,790 --> 00:25:29,620
 Ich will doch 52 Steaks!
 
-413
+411
 00:25:29,620 --> 00:25:31,550
 ’tschuldige, ich hätt gern 53 Torten.
 
-414
+412
 00:25:31,550 --> 00:25:33,050
 Nein, 54 Steaks!
 
-415
+413
 00:25:33,050 --> 00:25:34,350
 55 Torten!
 
-416
+414
 00:25:34,350 --> 00:25:35,260
 60 Steaks!
 
-417
+415
 00:25:35,260 --> 00:25:36,350
 70 Torten!
 
-418
+416
 00:25:36,350 --> 00:25:37,180
 80!
 
-419
+417
 00:25:37,180 --> 00:25:37,850
 100!
 
-420
+418
 00:25:38,960 --> 00:25:40,940
 – Suchst du Stress, Alter?!
 – Suchst du Stress, Alter?!
 
-421
+419
 00:25:40,940 --> 00:25:42,810
 Über was für ’nen Scheiß
 streitet ihr euch da?!
 
-422
+420
 00:25:42,810 --> 00:25:45,030
 Luffy, du hast es doch versprochen!
 
-423
+421
 00:25:45,030 --> 00:25:47,650
 Und überhaupt, wir haben
 kein Geld für so viele Steaks!
 
-424
+422
 00:25:47,650 --> 00:25:49,780
 Wir sind nicht zum Einkaufen hier!
 
-425
+423
 00:25:49,780 --> 00:25:51,530
 Bist du Pirat?
 
-426
+424
 00:25:51,880 --> 00:25:53,410
 Ja, in der Tat.
 
-427
+425
 00:25:54,060 --> 00:25:55,750
 Wie hoch ist dein Kopfgeld?
 
-428
+426
 00:25:55,750 --> 00:25:56,860
 30 Millionen!
 
-429
+427
 00:25:57,460 --> 00:26:00,210
 30 Millionen? Für dich?
 
-430
+428
 00:26:00,580 --> 00:26:02,540
 Nie im Leben! Du flunkerst doch!
 
-431
+429
 00:26:02,540 --> 00:26:04,750
 Ich lüge nicht! Das ist die Wahrheit!
 
-432
+430
 00:26:04,750 --> 00:26:05,960
 Lass den Scheiß!
 
-433
+431
 00:26:05,960 --> 00:26:08,920
 Hey, in der Bar wird nicht gekämpft.
 
-434
+432
 00:26:09,390 --> 00:26:12,590
 Nimm die 50 Kirschtorten und geh.
 
-435
+433
 00:26:31,950 --> 00:26:35,280
 Ist hier ein Pirat mit einem Strohhut?
 
-436
+434
 00:26:35,940 --> 00:26:37,620
 B-Bellamy!
 
-437
+435
 00:26:42,840 --> 00:26:46,630
 Du bist also der mit den
 30 Millionen Kopfgeld, Strohhut Luffy!
 
-438
+436
 00:26:47,290 --> 00:26:48,420
 Was will der denn?
 
-439
+437
 00:26:48,420 --> 00:26:50,630
 Der hat wohl was mit
 dir zu klären, Luffy.
 
-440
+438
 00:26:50,630 --> 00:26:53,630
 Ist Bellamy nicht der Typ,
 der dieses Hotel gemietet hat?
 
-441
+439
 00:26:54,260 --> 00:26:56,720
 Hast du das gehört?
 Der Kurze da ist 30 Millionen wert.
 
-442
+440
 00:26:56,720 --> 00:26:57,700
 Der da?
 
-443
+441
 00:26:57,700 --> 00:26:59,180
 Ist das wahr?
 
-444
+442
 00:26:59,810 --> 00:27:02,060
 Mann, heute begegne ich
 ständig riesigen Kerlen.
 
-445
+443
 00:27:02,660 --> 00:27:04,830
 Schenk mir euren
 teuersten Schnaps aus.
 
-446
+444
 00:27:04,830 --> 00:27:07,700
 Und der Zwerg hier soll auch
 bekommen, was er möchte.
 
-447
+445
 00:27:07,700 --> 00:27:08,650
 Geht klar.
 
-448
+446
 00:27:09,920 --> 00:27:13,110
 Hm? Der Laden ist ja voll.
 
-449
+447
 00:27:13,110 --> 00:27:16,070
 Was ist das für ’ne Absteige?
 Es müffelt und alles ist verdreckt!
 
-450
+448
 00:27:16,070 --> 00:27:17,950
 Mehr als billigen Rum
 haben sie auch nicht.
 
-451
+449
 00:27:17,950 --> 00:27:20,830
 Siehst du die?
 Das sind die von vorhin.
 
-452
+450
 00:27:23,440 --> 00:27:26,040
 Ihr solltet uns schon eure
 Plätze anbieten, herrje...
 
-453
+451
 00:27:26,500 --> 00:27:28,380
 Hoffnungslose Schwachköpfe.
 
-454
+452
 00:27:32,400 --> 00:27:35,320
 Ist das nicht Big Knife Sarquiss?
 
-455
+453
 00:27:35,320 --> 00:27:37,260
 Will der hier ’nen Streit anfangen?
 
-456
+454
 00:27:37,590 --> 00:27:38,850
 Unmöglich...
 
-457
+455
 00:27:40,500 --> 00:27:42,110
 Die haben die ganze Truppe dabei.
 
-458
+456
 00:27:42,110 --> 00:27:44,550
 Ich glaub kaum, dass sie nur
 zum Trinken hergekommen sind.
 
-459
+457
 00:27:44,550 --> 00:27:46,600
 Ignoriert sie. Das geht uns nichts an!
 
-460
+458
 00:27:47,020 --> 00:27:48,870
 Bellamy ist schon ’ne Marke.
 
-461
+459
 00:27:48,870 --> 00:27:50,190
 Kannst du laut sagen.
 
-462
+460
 00:27:52,560 --> 00:27:53,650
 Und runter damit.
 
-463
+461
 00:27:53,650 --> 00:27:57,280
 Oh, danke dir! Bist ja
 eigentlich ein nettes Kerlchen!
 
-464
+462
 00:28:01,370 --> 00:28:01,990
 Luffy!
 
-465
+463
 00:28:06,890 --> 00:28:08,500
 Verdammt! Er hat’s getan!
 
-466
+464
 00:28:10,420 --> 00:28:13,050
 Bellamy ist einfach der Krasseste!
 
-467
+465
 00:28:16,910 --> 00:28:18,930
 Was hat das zu bedeuten,
 du kleines Würstchen?
 
-468
+466
 00:28:20,940 --> 00:28:24,560
 Das würde ich gern von dir wissen.
 
-469
+467
 00:28:26,610 --> 00:28:28,560
 Zoro! Jetzt warte doch mal!
 
-470
+468
 00:28:28,560 --> 00:28:31,190
 Noch haben wir keine Informationen!
 
-471
+469
 00:28:30,110 --> 00:28:31,190
 Halt die Schnauze!
 
-472
+470
 00:28:31,190 --> 00:28:33,270
 Ich nehme bloß sein Angebot an.
 
-473
+471
 00:28:36,030 --> 00:28:38,490
 Hm? Du stehst ja schon wieder.
 
-474
+472
 00:28:42,250 --> 00:28:45,250
 So, so... Ich sehe,
 du willst es echt wissen.
 
-475
+473
 00:28:46,620 --> 00:28:50,230
 Boah! Die legen sich mit Bellamy an!
 
-476
+474
 00:28:50,230 --> 00:28:51,710
 Versuch’s doch!
 
-477
+475
 00:28:52,060 --> 00:28:53,210
 Lass dich nicht verkloppen!
 
-478
+476
 00:28:55,000 --> 00:28:57,460
 Das ist kein Kampf,
 sondern eine Prüfung!
 
-479
+477
 00:28:57,460 --> 00:29:00,180
 Okay! Schauen wir mal,
 wie stark du bist!
 
-480
+478
 00:29:00,810 --> 00:29:01,720
 Luffy, halt!
 
-481
+479
 00:29:02,100 --> 00:29:04,830
 Herr Barkeeper,
 wir möchten zur Himmelsinsel!
 
-482
+480
 00:29:04,830 --> 00:29:06,470
 Wissen Sie vielleicht etwas darüber?
 
-483
+481
 00:29:11,390 --> 00:29:14,520
 Was hat das Mädchen gerade gesagt?
 
-484
+482
 00:29:14,520 --> 00:29:15,940
 Die ist doch nicht bei Trost.
 
-485
+483
 00:29:24,470 --> 00:29:27,250
 Falls Sie also wissen, wie man
 auf die Himmelsinsel kommt...
 
-486
+484
 00:29:34,040 --> 00:29:36,420
 Sie hat „Himmelsinsel“ gesagt!
 
-487
+485
 00:29:36,420 --> 00:29:39,260
 Ich kann nicht mehr!
 
-488
+486
 00:29:39,750 --> 00:29:41,230
 Was denn?
 
-489
+487
 00:29:41,230 --> 00:29:44,640
 Aber die Nadel des Log-Port
 zeigt doch eindeutig in den Himmel!
 
-490
+488
 00:29:49,470 --> 00:29:52,900
 „Aber die Nadel des Log-Port zeigt
 doch eindeutig in den Himmel“!
 
-491
+489
 00:29:52,900 --> 00:29:55,690
 Log-Ports geben schnell
 mal den Geist auf!
 
-492
+490
 00:29:58,570 --> 00:30:00,600
 Mensch, ihr seid ja zum Schießen.
 
-493
+491
 00:30:00,600 --> 00:30:05,460
 Ihr glaubt echt an so eine uralte
 Legende von einer Insel im Himmel?
 
-494
+492
 00:30:06,830 --> 00:30:08,370
 Welcher Ära seid ihr
 denn entsprungen?
 
-495
+493
 00:30:08,830 --> 00:30:12,750
 Die Wahrheit über die Strömungen der
 Grand Line kommt nach und nach ans Licht.
 
-496
+494
 00:30:12,750 --> 00:30:14,880
 Der Knock-Up-Stream ist eine davon.
 
-497
+495
 00:30:16,130 --> 00:30:19,340
 Vermutlich habt ihr keinen Plan,
 dass so was überhaupt existiert.
 
-498
+496
 00:30:20,000 --> 00:30:22,530
 Alle Schiffe, die in diese
 Strömung geraten,
 
-499
+497
 00:30:22,530 --> 00:30:26,300
 werden von ihr in den Himmel gerissen
 und zerschellen dann auf dem Meer!
 
-500
+498
 00:30:26,790 --> 00:30:28,970
 Die unwissenden Seeleute
 damals malten sich
 
-501
+499
 00:30:28,970 --> 00:30:33,150
 die Himmelsinseln aus, um die
 fallenden Schiffe zu erklären.
 
-502
+500
 00:30:33,150 --> 00:30:37,510
 Sie waren überzeugt, dass es im
 Himmel eine andere Welt geben musste.
 
-503
+501
 00:30:37,510 --> 00:30:41,280
 Diese Volltrottel! Jedes Phänomen hat seine Gründe.
 
-504
+502
 00:30:42,050 --> 00:30:45,990
 Die ganzen Träumereien der Leute
 werden sich schon bald erklären lassen!
 
-505
+503
 00:30:47,720 --> 00:30:54,100
 Ich hatte vor, dich zu prüfen und in meine
 Crew für das neue Zeitalter aufzunehmen,
 
-506
+504
 00:30:54,100 --> 00:30:55,830
 aber du bist ja genauso dämlich!
 
-507
+505
 00:30:57,090 --> 00:30:57,790
 Hör gut zu.
 
-508
+506
 00:30:58,550 --> 00:31:01,790
 Das Zeitalter, in dem die Piraten
 vor sich hinträumten, ist vorüber!
 
-509
+507
 00:31:01,790 --> 00:31:06,140
 Die goldene Stadt, die Smaragd-Metropole,
 der große Schatz, das One Piece...
 
-510
+508
 00:31:06,140 --> 00:31:10,480
 Geblendet von den Schätzen ihrer Träume
 übersehen diese Idioten die vor ihrer Nase.
 
-511
+509
 00:31:10,480 --> 00:31:14,630
 Jene, die in dieser Ära die besten
 Chancen hätten, den Ozean zu überqueren,
 
-512
+510
 00:31:14,630 --> 00:31:17,690
 lassen sich von solchen Illusionen
 fehlleiten und verrecken.
 
-513
+511
 00:31:18,680 --> 00:31:21,490
 Und was erzählen sich die Leute
 dann über diese toten Armleuchter?
 
-514
+512
 00:31:21,490 --> 00:31:25,640
 „Er war glücklich, weil er
 seinen Traum gelebt hat!“
 
-515
+513
 00:31:25,640 --> 00:31:27,660
 So was schwafeln nur Versager.
 
-516
+514
 00:31:28,130 --> 00:31:32,410
 Wenn ich Lappen wie euch sehe, die ihren
 Träumen nachrennen, könnte ich kotzen!
 
-517
+515
 00:31:33,910 --> 00:31:34,830
 Luffy!
 
-518
+516
 00:31:36,400 --> 00:31:40,300
 Ihr jämmerlichen Piraten
 zieht mit eurer Existenz
 
-519
+517
 00:31:40,300 --> 00:31:44,510
 selbst uns starke
 Piraten mit in den Dreck.
 
-520
+518
 00:31:48,070 --> 00:31:51,080
 Verpisst euch, elender Abschaum!
 So macht das Saufen keinen Spaß.
 
-521
+519
 00:31:51,080 --> 00:31:52,930
 Bellamy hat recht!
 
-522
+520
 00:31:52,930 --> 00:31:54,640
 Verzieht euch!
 
-523
+521
 00:31:54,640 --> 00:31:56,600
 Verschwindet aus dieser Stadt!
 
-524
+522
 00:31:56,600 --> 00:32:01,070
 Hey, Bellamy! Die scheinen alle
 richtig heiß auf deine Show zu sein!
 
-525
+523
 00:32:02,320 --> 00:32:04,740
 Die sollen sie auch bekommen.
 
-526
+524
 00:32:06,380 --> 00:32:10,820
 Luffy, Zoro! Zur Hölle mit dem
 Versprechen, knüppelt sie endlich um!
 
-527
+525
 00:32:11,770 --> 00:32:12,900
 Zoro...
 
-528
+526
 00:32:15,620 --> 00:32:18,460
 Greif sie nicht an,
 egal was auch passiert.
 
-529
+527
 00:13:08,310 --> 00:13:15,480
 Roshio „der Hinrichter‟
 Kapitän der Roshio-Piratenbande
 Kopfgeld: 42 Millionen Berry
+
+528
+00:13:08,310 --> 00:13:15,480
+Roshio „der Hinrichter‟
+Kapitän der Roshio-Piratenbande
+Kopfgeld: 42 Millionen Berry
+
+529
+00:14:24,970 --> 00:14:32,770
+Bellamy „die Hyäne‟
+Kapitän der Bellamy-Piratenbande
+Kopfgeld: 55 Millionen Berry
 
 530
-00:13:08,310 --> 00:13:15,480
-Roshio „der Hinrichter‟
-Kapitän der Roshio-Piratenbande
-Kopfgeld: 42 Millionen Berry
+00:14:24,970 --> 00:14:32,770
+Bellamy „die Hyäne‟
+Kapitän der Bellamy-Piratenbande
+Kopfgeld: 55 Millionen Berry
 
 531
-00:14:24,970 --> 00:14:32,770
-Bellamy „die Hyäne‟
-Kapitän der Bellamy-Piratenbande
-Kopfgeld: 55 Millionen Berry
+00:15:48,640 --> 00:15:51,720
+Westküste, Jaya
 
 532
-00:14:24,970 --> 00:14:32,770
-Bellamy „die Hyäne‟
-Kapitän der Bellamy-Piratenbande
-Kopfgeld: 55 Millionen Berry
+00:15:48,640 --> 00:15:51,720
+Westküste, Jaya
 
 533
-00:15:48,640 --> 00:15:51,720
-Westküste, Jaya
+00:22:52,560 --> 00:22:56,810
+„Big Knife‟ Sarquiss
+Vizekapitän, Bellamy-Piratenbande
+Kopfgeld: 38 Millionen Berry
 
 534
-00:15:48,640 --> 00:15:51,720
-Westküste, Jaya
+00:22:52,560 --> 00:22:56,810
+„Big Knife‟ Sarquiss
+Vizekapitän, Bellamy-Piratenbande
+Kopfgeld: 38 Millionen Berry
 
 535
-00:22:52,560 --> 00:22:56,810
-„Big Knife‟ Sarquiss
-Vizekapitän, Bellamy-Piratenbande
-Kopfgeld: 38 Millionen Berry
+00:23:44,990 --> 00:23:51,530
+Bellamy-Piratenbande
 
 536
-00:22:52,560 --> 00:22:56,810
-„Big Knife‟ Sarquiss
-Vizekapitän, Bellamy-Piratenbande
-Kopfgeld: 38 Millionen Berry
-
-537
 00:23:44,990 --> 00:23:51,530
 Bellamy-Piratenbande
 
-538
-00:23:44,990 --> 00:23:51,530
-Bellamy-Piratenbande

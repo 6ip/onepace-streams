@@ -231,26 +231,10 @@ pero su barco salió volando y
 HIJO 34° DE LA
  FAMILIA CHARLOTTE
 
-
-
-
-
-
-
-MASCARPONE
-
 57
 00:24:56,260 --> 00:25:01,500
 HIJA 29ª DE LA
  FAMILIA CHARLOTTE
-
-
-
-
-
-
-
-JOSCARPONE
 
 58
 00:25:30,090 --> 00:25:31,410
@@ -367,3 +351,4 @@ Fallar también tiene su encanto.
 86
 00:01:32,750 --> 00:01:36,160
 ¡Sí, somos superpoderosos!
+

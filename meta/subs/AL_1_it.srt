@@ -1,1310 +1,1306 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,920
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:02:14,660 --> 00:02:16,320
 Signor Crocodile!
 
-4
+2
 00:02:16,740 --> 00:02:18,160
 Crocodile!
 
-5
+3
 00:02:18,490 --> 00:02:19,290
 Ah?
 
-6
+4
 00:02:20,660 --> 00:02:22,660
 Ah! Signor Crocodile!
 
-7
+5
 00:02:22,660 --> 00:02:24,000
 È davvero qui!
 
-8
+6
 00:02:24,000 --> 00:02:25,830
 Crocodile?
 
-9
+7
 00:02:25,830 --> 00:02:27,500
 Quello dei Sette Corsari...?
 
-10
+8
 00:02:28,920 --> 00:02:31,210
 State zitti, branco di plebei.
 
-11
+9
 00:02:31,210 --> 00:02:35,470
 Sono qui solo per prendermi la testa di quel pirata!
 
-12
+10
 00:02:35,470 --> 00:02:37,300
 Meraviglioso...
 
-13
+11
 00:02:37,300 --> 00:02:40,430
 Dici sempre così ma poi ci salvi comunque!
 
-14
+12
 00:02:40,430 --> 00:02:42,350
 Urrà per Crocodile!
 
-15
+13
 00:02:46,440 --> 00:02:48,230
 È la divinità protettrice di Alabasta!
 
-16
+14
 00:02:48,230 --> 00:02:50,190
 Crocodile!
 
-17
+15
 00:02:49,230 --> 00:02:50,190
 Crocodile!
 
-18
+16
 00:02:50,190 --> 00:02:52,070
 È il re del deserto, Crocodile!
 
-19
+17
 00:02:56,280 --> 00:02:58,830
 Beh, chiamatemi pure come volete.
 
-20
+18
 00:02:58,830 --> 00:03:03,500
 Ad ogni modo, consiglio di non scatenarvi in questo Paese... pirati.
 
-21
+19
 00:03:03,960 --> 00:03:07,460
 Oh, oh, oh, oh! 
 Non ci starai sottovalutando troppo?!
 
-22
+20
 00:03:07,460 --> 00:03:10,460
 Pensi davvero di poterci 
 affrontare tutti da solo?!
 
-23
+21
 00:03:10,880 --> 00:03:14,130
 Sei solo un cane del Governo che ha venduto l'anima alle autorità,
 
-24
+22
 00:03:14,130 --> 00:03:16,340
 cosa pensi di fare fingendoti un eroe?!
 
-25
+23
 00:03:17,140 --> 00:03:19,300
 Chi non desidera morire, rimanga a terra!
 
-26
+24
 00:03:19,300 --> 00:03:22,270
 Che idiota! 
 Sarà una preda facile così!
 
-27
+25
 00:03:22,770 --> 00:03:26,730
 Fatelo fuori! I tesori e le ricchezze di questa città sono tutti nostri!
 
-28
+26
 00:03:26,730 --> 00:03:28,480
 Sì!
 
-29
+27
 00:03:35,610 --> 00:03:37,240
 E questi sarebbero i famosi Sette Corsari?!
 
-30
+28
 00:04:14,030 --> 00:04:17,900
 Noi due non siamo pirati allo stesso livello, lurido maiale.
 
-31
+29
 00:04:27,120 --> 00:04:28,290
 Crocodile!
 
-32
+30
 00:04:32,840 --> 00:04:59,450
 Crocodile, Crocodile, Crocodile, Crocodile!
 
-33
+31
 00:04:59,450 --> 00:05:02,910
 Ancora... Crocodile?
 
-34
+32
 00:05:03,740 --> 00:05:05,910
 Ci ha preceduti di nuovo?
 
-35
+33
 00:05:06,450 --> 00:05:09,750
 Quando siamo giunti a Nanohana, lui era già...
 
-36
+34
 00:05:10,120 --> 00:05:11,290
 Capisco.
 
-37
+35
 00:05:11,920 --> 00:05:14,630
 Comunque sia, l'importante è 
 che il popolo sia sano e salvo.
 
-38
+36
 00:05:15,090 --> 00:05:18,630
 Gli sono grato.
 
-39
+37
 00:05:20,970 --> 00:05:22,300
 Non ci sono dubbi.
 
-40
+38
 00:05:22,300 --> 00:05:25,640
 Questa nave... è in rotta verso Alabasta.
 
-41
+39
 00:05:29,140 --> 00:05:30,810
 Luffy! Non mentire!
 
-42
+40
 00:05:31,810 --> 00:05:33,770
 Dì tutto quello che sai!
 
-43
+41
 00:05:34,770 --> 00:05:38,230
 Ehi! Perché distogli lo sguardo? Guardami negli occhi!
 
-44
+42
 00:05:39,690 --> 00:05:43,200
 No, no! Io non ne so niente, giuro!
 
-45
+43
 00:05:43,570 --> 00:05:44,870
 Allora, dimmi...
 
-46
+44
 00:05:44,870 --> 00:05:50,200
 com'è possibile che il cibo che avevo preparato 
 per otto persone per arrivare ad Alabasta
 
-47
+45
 00:05:50,200 --> 00:05:52,960
 è sparito completamente durante la notte?
 
-48
+46
 00:05:52,960 --> 00:05:57,710
 Smettila di insistere inutilmente!
 Non sai proprio fare la faccia da poker!
 
-49
+47
 00:06:02,050 --> 00:06:04,840
 Ehi! Hai qualcosa vicino alla bocca.
 
-50
+48
 00:06:04,840 --> 00:06:07,310
 Ah! Cavolo! I rimasugli del cibo...!
 
-51
+49
 00:06:08,890 --> 00:06:11,600
 Quindi sei stato tu!
 
-52
+50
 00:06:16,190 --> 00:06:17,440
 Che cavolo...
 
-53
+51
 00:06:18,070 --> 00:06:20,570
 Ah, mia cara Nami... hai visto, vero?
 
-54
+52
 00:06:21,030 --> 00:06:23,530
 Quell'enorme trappola per topi non funziona più.
 
-55
+53
 00:06:23,950 --> 00:06:26,240
 Comprami un frigo con il lucchetto, dai~!
 
-56
+54
 00:06:26,700 --> 00:06:28,450
 Hai ragione...
 
-57
+55
 00:06:29,620 --> 00:06:31,200
 Ci penserò.
 
-58
+56
 00:06:31,580 --> 00:06:33,660
 Visto che ne va della nostra sopravvivenza.
 
-59
+57
 00:06:35,500 --> 00:06:36,500
 Mmh?
 
-60
+58
 00:06:37,460 --> 00:06:40,210
 Allora, dobbiamo pescare qualcosa, 
 per il bene di Sanji!
 
-61
+59
 00:06:41,380 --> 00:06:43,220
 Yo. Avete preso qualcosa?
 
-62
+60
 00:06:44,550 --> 00:06:46,470
 B-Beh...
 
-63
+61
 00:06:51,810 --> 00:06:53,980
 Ma che bello...
 
-64
+62
 00:06:53,980 --> 00:06:56,650
 Non posso lasciarvi soli un attimo.
 
-65
+63
 00:07:04,990 --> 00:07:07,370
 Aah... che fame...
 
-66
+64
 00:07:07,370 --> 00:07:09,240
 Non si riesce a prendere neanche un pesce, eh?
 
-67
+65
 00:07:09,240 --> 00:07:12,620
 Luffy! È perché hai mangiato anche le esche per pesci che non funzionano!
 
-68
+66
 00:07:12,620 --> 00:07:14,960
 Senza esche, non si può pescare!
 
-69
+67
 00:07:14,960 --> 00:07:16,670
 Ma le hai mangiate anche tu!
 
-70
+68
 00:07:16,670 --> 00:07:20,000
 I-Io ho mangiato solo quelle che erano attaccate al coperchio.
 
-71
+69
 00:07:20,380 --> 00:07:23,510
 Luffy! Usopp!
  Avete pescato qualcosa?
 
-72
+70
 00:07:26,840 --> 00:07:29,600
 Karoo! No!
 
-73
+71
 00:07:30,100 --> 00:07:32,010
 Dici che prenderemo uno squalo così?
 
-74
+72
 00:07:32,010 --> 00:07:34,810
 Io vorrei pescare un Re del Mare~!
 
-75
+73
 00:07:34,810 --> 00:07:38,480
 Voi... cosa state facendo... a Karoo?!
 
-76
+74
 00:07:45,530 --> 00:07:46,780
 E quello cos'è?
 
-77
+75
 00:07:54,700 --> 00:07:56,370
 Ma che roba è?
 
-78
+76
 00:07:56,370 --> 00:07:57,670
 Che sia zucchero filato?
 
-79
+77
 00:07:58,040 --> 00:07:59,880
 Vado a chiamare Nami!
 
-80
+78
 00:08:04,920 --> 00:08:05,880
 Mmh?
 
-81
+79
 00:08:05,880 --> 00:08:07,720
 Nami! Guai in vista! Vieni subito!
 
-82
+80
 00:08:12,180 --> 00:08:15,810
 Ah, va tutto bene, non è niente. È solo vapore.
 
-83
+81
 00:08:16,310 --> 00:08:18,310
 "Solo vapore" dici? Dal mare?
 
-84
+82
 00:08:18,310 --> 00:08:19,770
 Sì! È un punto caldo.
 
-85
+83
 00:08:19,770 --> 00:08:21,310
 Che sarebbe?
 
-86
+84
 00:08:21,310 --> 00:08:23,730
 Un posto dove si forma il magma!
 
-87
+85
 00:08:23,730 --> 00:08:26,440
 Là sotto c'è sicuramente 
 un vulcano sottomarino.
 
-88
+86
 00:08:26,440 --> 00:08:27,240
 Oh.
 
-89
+87
 00:08:27,610 --> 00:08:29,740
 Un vulcano... sottomarino?
 
-90
+88
 00:08:30,240 --> 00:08:35,660
 Esatto! I vulcani sono più numerosi nel fondale marino che in superficie!
 
-91
+89
 00:08:35,660 --> 00:08:39,170
 Eeeh!
 
-92
+90
 00:08:37,290 --> 00:08:39,170
 Chi se ne importa, non si può mangiare...
 
-93
+91
 00:08:39,170 --> 00:08:42,840
 E grazie a quello,
  tra migliaia o decine di migliaia di anni,
 
-94
+92
 00:08:42,840 --> 00:08:45,130
 qui si formerà una nuova isola.
 
-95
+93
 00:08:45,760 --> 00:08:47,590
 Sei fantastica, mia cara Nami!
 
-96
+94
 00:08:47,970 --> 00:08:51,140
 Tra migliaia di anni... sarò ancora vivo?
 
-97
+95
 00:08:51,140 --> 00:08:53,600
 Ma no, sarai già morto 
 dato che sei solo una persona.
 
-98
+96
 00:08:55,470 --> 00:08:56,600
 Ha abboccato qualcosa?
 
-99
+97
 00:08:56,600 --> 00:09:00,480
 Oh, Sanji! Ho fame! Prepara qualcosa, dai!
 
-100
+98
 00:09:00,480 --> 00:09:02,610
 Sei proprio senza speranze...
 
-101
+99
 00:09:02,610 --> 00:09:06,530
 Vado a cercare più a fondo se è rimasto qualcosa nel magazzino.
 
-102
+100
 00:09:17,790 --> 00:09:19,500
 Bleah! Che puzza di zolfo!
 
-103
+101
 00:09:19,500 --> 00:09:21,790
 Non si vede niente! C'è solo vapore!
 
-104
+102
 00:09:21,790 --> 00:09:24,460
 Resistete! Lo supereremo subito.
 
-105
+103
 00:09:26,130 --> 00:09:27,960
 Signor Mr. 2 Bon Kurei!
 
-106
+104
 00:09:27,960 --> 00:09:29,130
 Cosa c'è?!
 
-107
+105
 00:09:29,630 --> 00:09:32,260
 A ore dodici, c'è del fumo!
 
-108
+106
 00:09:32,260 --> 00:09:35,100
 Non importa! Passiamoci attraverso!
 
-109
+107
 00:09:35,430 --> 00:09:40,060
 Comunque vada, dobbiamo 
 far fuori Mr. 3 o sarò in pericolo!
 
-110
+108
 00:09:41,060 --> 00:09:43,020
 Sissignore! Ora ci passiamo dentro!
 
-111
+109
 00:09:44,560 --> 00:09:46,190
 Ma che cos'è questa nebbia?
 
-112
+110
 00:09:46,190 --> 00:09:47,480
 Non si vede niente!
 
-113
+111
 00:09:55,490 --> 00:09:56,490
 L'abbiamo superata!
 
-114
+112
 00:09:56,990 --> 00:09:59,950
 Oh! Il Signor Mr. 2 Bon Kurei è scomparso!
 
-115
+113
 00:09:59,950 --> 00:10:01,410
 Cerchiamo nella cabina!
 
-116
+114
 00:10:01,830 --> 00:10:03,040
 Non c'è!
 
-117
+115
 00:10:03,040 --> 00:10:03,920
 È impossibile!
 
-118
+116
 00:10:03,920 --> 00:10:06,420
 Signor Mr. 2 Bon Kurei!
 
-119
+117
 00:10:07,250 --> 00:10:09,260
 Oh! Ah!
 
-120
+118
 00:10:15,590 --> 00:10:17,510
 Oh cavolo!
 
-121
+119
 00:10:17,510 --> 00:10:21,270
 Perché sono saltato addosso 
 ad un'anatra che non conosco?!
 
-122
+120
 00:10:22,560 --> 00:10:23,730
 – È una persona?
 – Non saprei...
 
-123
+121
 00:10:24,440 --> 00:10:26,980
 Oh? Wah!
 
-124
+122
 00:10:29,360 --> 00:10:32,240
 Aiutatemi, vi prego!
 
-125
+123
 00:10:32,240 --> 00:10:34,910
 Non so nuotare per niente...
 
-126
+124
 00:10:44,920 --> 00:10:46,920
 Pensavo... che sarei morto per davvero!
 
-127
+125
 00:10:47,540 --> 00:10:49,840
 No, davvero, swan-swan!
 
-128
+126
 00:10:50,500 --> 00:10:54,340
 Venir salvato da dei pirati
  che non ho mai visto finora...
 
-129
+127
 00:10:54,340 --> 00:10:57,220
 Non dimenticherò mai questo favore!
 
-130
+128
 00:10:57,220 --> 00:11:00,720
 E... potrei avere anche un piatto di zuppa calda?
 
-131
+129
 00:11:00,720 --> 00:11:01,720
 – Non ce l'abbiamo!
 – Non ce l'abbiamo!
 
-132
+130
 00:11:01,720 --> 00:11:03,390
 Anche noi abbiamo fame!
 
-133
+131
 00:11:05,270 --> 00:11:06,270
 Oh?
 
-134
+132
 00:11:06,270 --> 00:11:08,860
 Ma tu sei... davvero caruccia!
 
-135
+133
 00:11:08,860 --> 00:11:11,110
 Sei proprio il mio tipo! 
 Vorrei mangiarti tutta~
 
-136
+134
 00:11:12,780 --> 00:11:13,570
 Che tipo strano...
 
-137
+135
 00:11:13,940 --> 00:11:15,820
 Tu... non sai nuotare, eh?
 
-138
+136
 00:11:16,320 --> 00:11:19,780
 Esatto! Ho mangiato un Frutto del Diavolo!
 
-139
+137
 00:11:19,780 --> 00:11:21,740
 Eeh? Che tipo di frutto?
 
-140
+138
 00:11:22,490 --> 00:11:27,630
 Vediamo un po'... Finché la mia nave
 non viene a prendermi, non c'è fretta~!
 
-141
+139
 00:11:28,000 --> 00:11:30,090
 Ve lo mostrerò esibendomi~!
 
-142
+140
 00:11:30,840 --> 00:11:33,550
 Questo è il mio potere!
 
-143
+141
 00:11:38,180 --> 00:11:39,300
 Cosa?!
 
-144
+142
 00:11:39,300 --> 00:11:42,560
 Aspetta, aspetta, aspetta~!
 
-145
+143
 00:11:42,560 --> 00:11:44,890
 Ho detto che è solo un'esibizione, no~?
 
-146
+144
 00:11:44,890 --> 00:11:45,850
 Eh?!
 
-147
+145
 00:11:45,850 --> 00:11:48,690
 Non scherziamo~!
 
-148
+146
 00:11:50,610 --> 00:11:51,520
 Ma sono io!
 
-149
+147
 00:11:51,860 --> 00:11:53,610
 Siete sorpresi? Sorpresi? Sorpresi?
 
-150
+148
 00:11:55,780 --> 00:11:58,200
 Toccandomi la faccia con la mano sinistra...
 
-151
+149
 00:11:58,200 --> 00:11:59,740
 Ecco, visto? Sono come prima!
 
-152
+150
 00:11:59,740 --> 00:12:02,580
 Questo è il potere del
 Frutto Mimo Mimo che ho mangiato!
 
-153
+151
 00:12:03,080 --> 00:12:04,540
 Anche la voce...!
 
-154
+152
 00:12:04,540 --> 00:12:06,540
 Pure la corporatura era uguale!
 
-155
+153
 00:12:06,910 --> 00:12:08,620
 C-Che figata!
 
-156
+154
 00:12:08,620 --> 00:12:10,210
 Ecco fatto!
 
-157
+155
 00:12:10,210 --> 00:12:14,050
 Beh, non che ci fosse bisogno di colpirvi!
 
-158
+156
 00:12:14,050 --> 00:12:16,420
 Bene~! Guardate!
 
-159
+157
 00:12:16,420 --> 00:12:18,800
 Se metto la mano destra
 
-160
+158
 00:12:18,800 --> 00:12:21,300
 sul viso,
 
-161
+159
 00:12:21,300 --> 00:12:24,060
 posso imitare esattamente
 
-162
+160
 00:12:24,060 --> 00:12:25,600
 chiunque!
 
-163
+161
 00:12:26,100 --> 00:12:27,350
 Anche il corpo!
 
-164
+162
 00:12:28,980 --> 00:12:30,520
 Ouch!
 
-165
+163
 00:12:30,520 --> 00:12:31,440
 Smettila!
 
-166
+164
 00:12:31,810 --> 00:12:33,520
 Ehi! Tutto apposto?
 
-167
+165
 00:12:33,520 --> 00:12:35,530
 Che male...
 
-168
+166
 00:12:35,530 --> 00:12:40,280
 Eh, allora, purtroppo non posso mostrarvi il mio potere più di così.
 
-169
+167
 00:12:40,280 --> 00:12:43,240
 Sei fantastico! Fallo ancora!
 
-170
+168
 00:12:43,740 --> 00:12:47,370
 Ah! Allora non ho altra scelta! 
 Magari vi faccio vedere qualcos'altro...!
 
-171
+169
 00:12:47,370 --> 00:12:50,080
 Fa' vedere! Fa' vedere!
 
-172
+170
 00:12:48,120 --> 00:12:50,080
 È totalmente preso..
 
-173
+171
 00:12:50,080 --> 00:12:52,580
 Voglio vedere! Voglio vedere! Voglio vedere!
 
-174
+172
 00:12:50,080 --> 00:12:52,580
 Allora, vi farò vedere questa cosa!
 
-175
+173
 00:12:52,580 --> 00:12:55,590
 Ha anche una funzione di memoria~!
 
-176
+174
 00:12:58,510 --> 00:13:00,050
 Ecco!
 
-177
+175
 00:13:00,050 --> 00:13:01,550
 Wow!
 
-178
+176
 00:13:09,390 --> 00:13:11,850
 Gira, gira! Gira, gira!
 
-179
+177
 00:13:12,310 --> 00:13:13,730
 Che cavolata...
 
-180
+178
 00:13:13,730 --> 00:13:16,150
 Gira, gira, gira! Gira, gira!
 
-181
+179
 00:13:17,570 --> 00:13:20,990
 Com'è stato? Avete visto la mia sorpresina?
 
-182
+180
 00:13:20,990 --> 00:13:23,700
 Di solito, non lo mostro
  assolutamente a nessuno!
 
-183
+181
 00:13:25,160 --> 00:13:27,330
 Che figata!
 
-184
+182
 00:13:27,330 --> 00:13:31,120
 Non scherziamo~! Non scherziamo~!
 
-185
+183
 00:13:31,120 --> 00:13:32,580
 Continuate pure...
 
-186
+184
 00:13:32,580 --> 00:13:34,790
 Quella è la mia nave!
 
-187
+185
 00:13:34,790 --> 00:13:36,130
 Fantastico! È fantastico!
 
-188
+186
 00:13:36,630 --> 00:13:37,630
 Ciao!
 
-189
+187
 00:13:40,380 --> 00:13:43,890
 Infine... è arrivato il momento di separarsi.
  È proprio un peccato.
 
-190
+188
 00:13:43,890 --> 00:13:44,850
 – Eh?!
 – Eh?!
 
-191
+189
 00:13:45,600 --> 00:13:47,310
 Non andare via!
 
-192
+190
 00:13:47,810 --> 00:13:49,930
 Non rattristarti!
 
-193
+191
 00:13:49,930 --> 00:13:52,310
 Ogni viaggio porta con sé degli addii.
 
-194
+192
 00:13:52,310 --> 00:13:54,650
 Ma... non dimenticatelo mai!
 
-195
+193
 00:13:55,060 --> 00:13:56,610
 Per stringere una grande amicizia...
 
-196
+194
 00:13:57,980 --> 00:14:01,450
 la mole di tempo non conta nothing!
 
-197
+195
 00:14:01,450 --> 00:14:03,410
 Non piangete!
 
-198
+196
 00:14:03,410 --> 00:14:06,370
 Ci ricontreremo!
 
-199
+197
 00:14:06,370 --> 00:14:08,990
 Bene! Andiamo!
 
-200
+198
 00:14:08,990 --> 00:14:11,330
 Sì! Signor Mr. 2 Bon Kurei!
 
-201
+199
 00:14:16,790 --> 00:14:18,710
 Mr. ... 2?!
 
-202
+200
 00:14:18,710 --> 00:14:21,550
 Lui è... Mr. 2 Bon Kurei?!
 
-203
+201
 00:14:21,920 --> 00:14:24,220
 Vivi! Ma non sapevi com'era in faccia?!
 
-204
+202
 00:14:24,680 --> 00:14:29,180
 No... Non ho mai incontrato 
 né Mr. 2 né la coppia di Mr. 1.
 
-205
+203
 00:14:29,180 --> 00:14:31,390
 E non conosco nemmeno i loro poteri!
 
-206
+204
 00:14:33,190 --> 00:14:35,150
 Ne avevo solo sentito parlare...
 
-207
+205
 00:14:36,110 --> 00:14:37,610
 Mr. 2 è...
 
-208
+206
 00:14:40,530 --> 00:14:44,110
 un ballerino di grande stazza, dal tono effeminato,
 
-209
+207
 00:14:44,110 --> 00:14:49,700
 che indossa un cappotto con dei cigni...
  con "Bon Kure" sulla schiena.
 
-210
+208
 00:14:51,540 --> 00:14:52,620
 – Ma accorgitene!
 – Ma accorgitene!
 
-211
+209
 00:14:53,370 --> 00:14:55,210
 Che ti succede, Vivi?
 
-212
+210
 00:14:55,210 --> 00:14:59,420
 Prima... tra i volti che ci ha 
 mostrato nella sua memoria,
 
-213
+211
 00:15:00,170 --> 00:15:01,760
 Nella sua memoria...
 
-214
+212
 00:15:02,340 --> 00:15:03,880
 c'era il viso di mio padre!
 
-215
+213
 00:15:05,010 --> 00:15:08,890
 Il viso del re di Alabasta... Nefertari Cobra.
 
-216
+214
 00:15:09,640 --> 00:15:13,140
 Se una persona avesse il
  potere d'impersonare un re,
 
-217
+215
 00:15:13,140 --> 00:15:16,150
 potrebbe fare delle cose veramente terribili.
 
-218
+216
 00:15:16,150 --> 00:15:18,860
 Ci siamo fatti sfuggire un 
 tipo davvero pericoloso...
 
-219
+217
 00:15:19,480 --> 00:15:21,190
 Era uno dei nemici?!
 
-220
+218
 00:15:21,730 --> 00:15:25,150
 In effetti, se diventasse nostro nemico, 
 sarebbe un avversario difficile.
 
-221
+219
 00:15:26,160 --> 00:15:29,870
 Se ora si accorgesse che siamo suoi nemici
 
-222
+220
 00:15:29,870 --> 00:15:33,620
 e si trasformasse in uno di noi con quella specie di memoria di prima,
 
-223
+221
 00:15:33,620 --> 00:15:36,620
 non potremmo più fidarci 
 neanche dei nostri compagni.
 
-224
+222
 00:15:37,880 --> 00:15:39,330
 Tu dici? Ah?
 
-225
+223
 00:15:39,330 --> 00:15:41,090
 Senti, Luffy!
 
-226
+224
 00:15:41,090 --> 00:15:42,710
 Aspetta un secondo.
 
-227
+225
 00:15:42,710 --> 00:15:45,800
 Effettivamente,
 anche se la sua opinione è priva di basi,
 
-228
+226
 00:15:45,800 --> 00:15:49,140
 ha ragione sul fatto che non dovremmo temerlo.
 
-229
+227
 00:15:49,680 --> 00:15:53,810
 Piuttosto... dovremmo considerarci
 fortunati di averlo incontrato ora.
 
-230
+228
 00:15:53,810 --> 00:15:56,100
 Possiamo prendere delle contromisure ora, no?
 
-231
+229
 00:15:56,730 --> 00:15:58,940
 Signor Mr. 2 Bon Kurei...
 
-232
+230
 00:15:56,730 --> 00:15:58,350
 Un, deux, trois!
 
-233
+231
 00:15:58,940 --> 00:16:00,900
 Sembra proprio di buon umore.
 
-234
+232
 00:15:58,350 --> 00:16:00,900
 Come si dice quattro?
 
-235
+233
 00:16:03,280 --> 00:16:05,570
 Ho stretto una piccola amicizia!
 
-236
+234
 00:16:15,450 --> 00:16:17,580
 È uscito qualcosa!
 
-237
+235
 00:16:17,580 --> 00:16:18,750
 Un gatto marino!
 
-238
+236
 00:16:18,750 --> 00:16:21,750
 Un mostro!
 
-239
+237
 00:16:22,500 --> 00:16:24,960
 Finalmente un pasto dopo quattro giorni!
 
-240
+238
 00:16:24,960 --> 00:16:26,260
 Cibo!
 
-241
+239
 00:16:26,260 --> 00:16:28,340
 La rotta è corretta...
 
-242
+240
 00:16:28,970 --> 00:16:31,800
 Spero arriveremo presto...
 
-243
+241
 00:16:31,800 --> 00:16:33,640
 Cibo!
 
-244
+242
 00:16:35,520 --> 00:16:36,980
 Oh! Si è allontanato!
 
-245
+243
 00:16:36,980 --> 00:16:38,810
 Nave! Indietro! Indietro!
 
-246
+244
 00:16:38,810 --> 00:16:40,730
 N-N-N-Non si può fare!
 
-247
+245
 00:16:41,980 --> 00:16:42,690
 Oh!
 
-248
+246
 00:16:43,070 --> 00:16:46,030
 Non fatelo scappare!
 Dovete farlo fuori subito!
 
-249
+247
 00:16:48,240 --> 00:16:51,370
 Chissà come ti cucinerò, gatto mostruoso!
 
-250
+248
 00:16:52,320 --> 00:16:54,330
 No!
 
-251
+249
 00:16:57,290 --> 00:17:00,290
 Vivi! Cretina! Ma che fai?!
 
-252
+250
 00:17:00,290 --> 00:17:02,630
 P-Perché, mia dolce Vivi?
 
-253
+251
 00:17:03,000 --> 00:17:04,380
 Non possiamo mangiarlo!
 
-254
+252
 00:17:04,800 --> 00:17:08,340
 Ad Alabasta, i gatti marini sono creature sacre!
 
-255
+253
 00:17:08,340 --> 00:17:09,340
 Dillo prima!
 
-256
+254
 00:17:09,340 --> 00:17:12,050
 Il mare è pieno di cose, eh?
 
-257
+255
 00:17:13,350 --> 00:17:16,060
 Se hai paura di una cosa del genere, ne hai di strada da fare!
 
-258
+256
 00:17:16,060 --> 00:17:17,640
 Bene!
 
-259
+257
 00:17:17,640 --> 00:17:22,480
 Ti racconterò di quando ho combattuto 
 contro un Re del Mare nella Calm Belt.
 
-260
+258
 00:17:22,480 --> 00:17:24,110
 Contro un Re del Mare?!
 
-261
+259
 00:17:24,110 --> 00:17:26,820
 Era uno di grandi dimensioni ed era grosso così!
 
-262
+260
 00:17:27,280 --> 00:17:30,280
 I-Il cibo è scappato...
 
-263
+261
 00:17:30,280 --> 00:17:33,820
 Stai tranquillo! 
 Presto potrai mangiare fino a sazietà.
 
-264
+262
 00:17:34,240 --> 00:17:37,290
 Davvero?! Questa volta, che tipo di gatto sarà?!
 
-265
+263
 00:17:38,120 --> 00:17:41,250
 Vivi! Il vento e il clima 
 sembra si siano stabilizzati!
 
-266
+264
 00:17:41,250 --> 00:17:42,620
 Sì!
 
-267
+265
 00:17:42,620 --> 00:17:45,130
 Siamo entrati nelle acque con il clima di Alabasta.
 
-268
+266
 00:17:45,130 --> 00:17:47,710
 Anche la comparsa del 
 gatto marino ne è una prova.
 
-269
+267
 00:17:48,130 --> 00:17:50,340
 Anche il fatto che si vedano quelli là dietro...
 
-270
+268
 00:17:50,800 --> 00:17:52,680
 è una prova che Alabasta è vicina, giusto?
 
-271
+269
 00:18:04,270 --> 00:18:06,440
 Così tante navi! Ma quando...?!
 
-272
+270
 00:18:06,820 --> 00:18:11,400
 Ehi! Hanno tutte il marchio della Baroque Works!
 
-273
+271
 00:18:11,990 --> 00:18:14,870
 Pare che tutti i membri... 
 abbiano iniziato a radunarsi.
 
-274
+272
 00:18:14,870 --> 00:18:19,750
 Quelli probabilmente sono i Billions, i sottoposti degli Officer Agent.
 
-275
+273
 00:18:19,750 --> 00:18:23,000
 Quindi i nemici sono almeno duecento.
 
-276
+274
 00:18:23,000 --> 00:18:26,710
 E si tratta dei duecento membri d'élite della Baroque Works.
 
-277
+275
 00:18:27,250 --> 00:18:30,170
 Sono ben diversi dai 
 cacciatori di taglie di Whisky Peak.
 
-278
+276
 00:18:31,170 --> 00:18:33,430
 Li attacchiamo finché 
 ne abbiamo l'occasione?
 
-279
+277
 00:18:34,590 --> 00:18:36,850
 Facciamoli fuori al più presto!
 
-280
+278
 00:18:36,850 --> 00:18:39,390
 Sarà più veloce andare là e prenderli a calci!
 
-281
+279
 00:18:40,640 --> 00:18:42,850
 No, aspetta! Prima devo mangiare!
 
-282
+280
 00:18:43,230 --> 00:18:45,810
 Idioti, lasciateli perdere. Sono delle nullità.
 
-283
+281
 00:18:46,520 --> 00:18:47,940
 Infatti.
 
-284
+282
 00:18:47,940 --> 00:18:50,780
 Se perdiamo di vista il 
 nostro vero obiettivo, è finita.
 
-285
+283
 00:18:50,780 --> 00:18:53,240
 Siamo solo in otto.
 
-286
+284
 00:18:55,240 --> 00:18:58,030
 Per ora, stringetelo bene.
 
-287
+285
 00:18:58,030 --> 00:19:00,200
 Il nemico ha fin troppi segreti dalla sua.
 
-288
+286
 00:19:00,200 --> 00:19:01,500
 Capisco!
 
-289
+287
 00:19:01,500 --> 00:19:05,170
 Controllando questo, 
 non servirà dubitare dei nostri compagni, eh?
 
-290
+288
 00:19:05,750 --> 00:19:08,170
 Assomiglia così tanto a noi? Quando...
 
-291
+289
 00:19:08,630 --> 00:19:11,590
 si trasforma usando il Frutto Mimo Mimo?
 
-292
+290
 00:19:11,590 --> 00:19:14,090
 Non è solo una questione di somiglianza!
 
-293
+291
 00:19:14,550 --> 00:19:15,630
 È proprio identico!
 
-294
+292
 00:19:15,630 --> 00:19:20,760
 Hai avuto proprio sfortuna! Avresti 
 dovuto vederlo! Abbiamo pure ballato con lui!
 
-295
+293
 00:19:20,760 --> 00:19:24,180
 Sapendo che uno così è dalla parte dei nemici,
 
-296
+294
 00:19:24,180 --> 00:19:26,730
 dobbiamo necessariamente agire insieme.
 
-297
+295
 00:19:28,860 --> 00:19:31,690
 Ehi! Io cosa dovrei fare?
 
-298
+296
 00:19:31,690 --> 00:19:35,780
 Giusto! Basta che fai quello che puoi! 
 Niente di più!
 
-299
+297
 00:19:35,780 --> 00:19:38,320
 Puoi scappare dai nemici che non riesci a sconfiggere!
 
-300
+298
 00:19:38,740 --> 00:19:41,120
 Tu... non è che lo stai dicendo a te stesso?
 
-301
+299
 00:19:42,660 --> 00:19:44,750
 Quello che posso, eh?
 
-302
+300
 00:19:45,250 --> 00:19:46,460
 Ho capito!
 
-303
+301
 00:19:46,460 --> 00:19:49,000
 Si vede un'isola!
 
-304
+302
 00:19:49,000 --> 00:19:52,420
 Fermiamoci alla città di Nanohana! Dobbiamo nascondere la nave!
 
-305
+303
 00:19:52,420 --> 00:19:56,300
 Bene! In ogni caso, 
 qualunque cosa succederà d'ora in poi
 
-306
+304
 00:19:56,300 --> 00:19:59,930
 questo segno sul braccio sinistro è la prova che siamo compagni!
 
-307
+305
 00:20:02,720 --> 00:20:05,140
 Allora, approdiamo!
 
-308
+306
 00:20:05,140 --> 00:20:07,810
 Cibo! Poi Alabasta.
 
-309
+307
 00:20:08,560 --> 00:20:10,150
 – Quello viene dopo per te?
 – Quello viene dopo per te?
 
-310
+308
 00:20:12,110 --> 00:20:15,860
 Questa volta i nemici sono 
 un gruppo di assassini, Luffy.
 
-311
+309
 00:20:15,860 --> 00:20:17,200
 Sì, hai ragione!
 
-312
+310
 00:20:17,200 --> 00:20:20,070
 Sii attento a non agire 
 impulsivamente. È chiaro?
 
-313
+311
 00:20:20,070 --> 00:20:25,080
 Hai ragione! È tutto chiaro!
 Sì, giusto! Giusto, giusto!
+
+312
+00:01:49,960 --> 00:01:53,800
+Sandy Island
+(Regno di Alabasta)
+
+313
+00:01:49,960 --> 00:01:53,800
+Sandy Island
+(Regno di Alabasta)
 
 314
 00:01:49,960 --> 00:01:53,800
@@ -1312,26 +1308,28 @@ Sandy Island
 (Regno di Alabasta)
 
 315
-00:01:49,960 --> 00:01:53,800
-Sandy Island
-(Regno di Alabasta)
+00:02:02,100 --> 00:02:06,730
+Città portuale di Nanohana
 
 316
-00:01:49,960 --> 00:01:53,800
-Sandy Island
-(Regno di Alabasta)
+00:02:02,100 --> 00:02:06,730
+Città portuale di Nanohana
 
 317
 00:02:02,100 --> 00:02:06,730
 Città portuale di Nanohana
 
 318
-00:02:02,100 --> 00:02:06,730
-Città portuale di Nanohana
+00:02:52,110 --> 00:02:58,280
+Sir Crocodile
+Pirata dei Sette Corsari
+Ultima taglia: 81 milioni di berry
 
 319
-00:02:02,100 --> 00:02:06,730
-Città portuale di Nanohana
+00:02:52,110 --> 00:02:58,280
+Sir Crocodile
+Pirata dei Sette Corsari
+Ultima taglia: 81 milioni di berry
 
 320
 00:02:52,110 --> 00:02:58,280
@@ -1340,16 +1338,14 @@ Pirata dei Sette Corsari
 Ultima taglia: 81 milioni di berry
 
 321
-00:02:52,110 --> 00:02:58,280
-Sir Crocodile
-Pirata dei Sette Corsari
-Ultima taglia: 81 milioni di berry
+00:05:01,490 --> 00:05:05,910
+Palazzo di Alubarna
+Regno di Alabasta
 
 322
-00:02:52,110 --> 00:02:58,280
-Sir Crocodile
-Pirata dei Sette Corsari
-Ultima taglia: 81 milioni di berry
+00:05:01,490 --> 00:05:05,910
+Palazzo di Alubarna
+Regno di Alabasta
 
 323
 00:05:01,490 --> 00:05:05,910
@@ -1357,14 +1353,14 @@ Palazzo di Alubarna
 Regno di Alabasta
 
 324
-00:05:01,490 --> 00:05:05,910
-Palazzo di Alubarna
-Regno di Alabasta
+00:05:14,630 --> 00:05:18,630
+Nefertari Cobra
+Re di Alabasta
 
 325
-00:05:01,490 --> 00:05:05,910
-Palazzo di Alubarna
-Regno di Alabasta
+00:05:14,630 --> 00:05:18,630
+Nefertari Cobra
+Re di Alabasta
 
 326
 00:05:14,630 --> 00:05:18,630
@@ -1372,34 +1368,25 @@ Nefertari Cobra
 Re di Alabasta
 
 327
-00:05:14,630 --> 00:05:18,630
-Nefertari Cobra
-Re di Alabasta
-
-328
-00:05:14,630 --> 00:05:18,630
-Nefertari Cobra
-Re di Alabasta
-
-329
 00:10:49,840 --> 00:10:54,340
 "Bon Kure"
 
-330
+328
 00:13:39,880 --> 00:13:44,850
 "Bon Kure"
+
+329
+00:16:12,870 --> 00:16:15,450
+Gatto marino (mostro marino)
+Dintorni della costa di Sandy Island
+
+330
+00:16:12,870 --> 00:16:15,450
+Gatto marino (mostro marino)
+Dintorni della costa di Sandy Island
 
 331
 00:16:12,870 --> 00:16:15,450
 Gatto marino (mostro marino)
 Dintorni della costa di Sandy Island
 
-332
-00:16:12,870 --> 00:16:15,450
-Gatto marino (mostro marino)
-Dintorni della costa di Sandy Island
-
-333
-00:16:12,870 --> 00:16:15,450
-Gatto marino (mostro marino)
-Dintorni della costa di Sandy Island

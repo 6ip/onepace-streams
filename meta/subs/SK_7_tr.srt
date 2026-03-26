@@ -1,1291 +1,1278 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:49,670 --> 00:01:59,670
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:53,800 --> 00:01:55,720
 Onu kurtarmalıyım.
 Onu kurtarmalıyım.
 
-4
+2
 00:01:55,720 --> 00:01:56,970
 Burada gökyüzü köpek balıkları var!
 
-5
+3
 00:01:58,850 --> 00:02:00,930
 Bunu Enel-sama'nın gazabı olarak gör!
 
-6
+4
 00:02:01,350 --> 00:02:03,980
 Gördük ki sen,
 biz rahiplerin dengi değilsin.
 
-7
+5
 00:02:03,980 --> 00:02:08,860
 Gökyüzü Şövalyesi!
 
-8
+6
 00:02:09,610 --> 00:02:12,700
 Sen zoan değil misin?! Çıldırdın mı?
 
-9
+7
 00:02:17,620 --> 00:02:21,120
 Evet, sen de zoansın.
 
-10
+8
 00:02:22,000 --> 00:02:23,750
 Zaman kaybı...
 
-11
+9
 00:02:27,460 --> 00:02:30,170
 Efendine katıl!
 
-12
+10
 00:02:37,970 --> 00:02:39,430
 Ne kadar gülünç!
 
-13
+11
 00:02:39,430 --> 00:02:41,890
 Zayıflıklarına tahammül edemiyorum.
 
-14
+12
 00:02:42,640 --> 00:02:46,020
 Nehrin dibi olmasaydı
 hayatta kalma şansları olurdu ama...
 
-15
+13
 00:02:46,020 --> 00:02:49,480
 ne yazık ki var.
 
-16
+14
 00:02:50,980 --> 00:02:52,490
 Şimdi...
 
-17
+15
 00:02:53,110 --> 00:02:56,700
 3 kaçak yakalandı mı
 merak ediyorum.
 
-18
+16
 00:02:59,740 --> 00:03:01,790
 O kuyunun nesi o kadar ilginç?
 
-19
+17
 00:03:01,790 --> 00:03:02,500
 Öyle deme.
 
-20
+18
 00:03:03,120 --> 00:03:05,710
 Kuyunun ağacın altına sıkışmış olması çok ilginç.
 
-21
+19
 00:03:06,670 --> 00:03:09,670
 Sanki orman, eski bir uygarlığın üzerine yayılmış gibi.
 
-22
+20
 00:03:10,170 --> 00:03:13,630
 Neyse, nehri geçmenin bir yolunu bulamazsak...
 
-23
+21
 00:03:14,170 --> 00:03:17,050
 ormandan çıkamayacağız.
 
-24
+22
 00:03:18,970 --> 00:03:21,600
 O tanrıyı bulma işi yattı galiba.
 
-25
+23
 00:03:21,600 --> 00:03:24,770
 Burada yaşayanlar ağacın büyüme
 hızını hesap edememişler.
 
-26
+24
 00:03:25,440 --> 00:03:27,520
 Böylesini ilk defa görüyorum.
 
-27
+25
 00:03:28,060 --> 00:03:29,520
 Hey, Nami!
 
-28
+26
 00:03:29,520 --> 00:03:31,770
 Bir şey görebiliyor musun?!
 
-29
+27
 00:03:36,820 --> 00:03:40,240
 Tanrının yaşadığı ada, Yukarı Bahçe...
 
-30
+28
 00:03:44,620 --> 00:03:46,910
 Hey! Ne mırıldanıyorsun?!
 
-31
+29
 00:03:46,910 --> 00:03:48,830
 Buldun mu tanrıyı?!
 
-32
+30
 00:03:50,330 --> 00:03:52,170
 Acaba bir şey mi gördü.
 
-33
+31
 00:03:55,840 --> 00:03:57,220
 Bu ada...
 
-34
+32
 00:03:57,220 --> 00:03:58,430
 Mümkün değil!
 
-35
+33
 00:04:02,640 --> 00:04:04,430
 İşiniz bitti.
 
-36
+34
 00:04:04,430 --> 00:04:06,770
 Acele edin de selanızı okuyalım.
 
-37
+35
 00:04:06,770 --> 00:04:09,730
 Bir rahibe karşı kazanma şansınız yok.
 
-38
+36
 00:04:11,730 --> 00:04:13,360
 B-Bittim, tükendim!
 
-39
+37
 00:04:13,360 --> 00:04:16,400
 Daha fazla sürprizi kalbim kaldırmayacak.
 
-40
+38
 00:04:16,940 --> 00:04:19,450
 Yapacak bir şeyiniz kalmadı.
 
-41
+39
 00:04:20,950 --> 00:04:25,660
 Botunuz, Kayıp Orman'ın çıkışına vardı sayılır.
 
-42
+40
 00:04:25,660 --> 00:04:28,040
 O zaman her şey bitecek!
 
-43
+41
 00:04:31,250 --> 00:04:34,340
 Kanatlanıp uçmaya başlamadığınız sürece,
 
-44
+42
 00:04:34,840 --> 00:04:36,840
 kaçma şansınız yok.
 
-45
+43
 00:04:39,840 --> 00:04:44,680
 Bu ormanda çaresizce dolanıp
 yorgunluktan öleceksiniz!
 
-46
+44
 00:04:47,770 --> 00:04:49,020
 Bu dediklerin...
 
-47
+45
 00:04:50,440 --> 00:04:52,190
 olmayacak!
 
-48
+46
 00:04:52,190 --> 00:04:53,690
 Ah, hayır, olacak!
 
-49
+47
 00:04:53,690 --> 00:04:55,570
 Sürpriz Toplar:
 
-50
+48
 00:04:57,030 --> 00:04:58,900
 Ejder Topu!
 
-51
+49
 00:04:58,900 --> 00:05:01,240
 Asıl şimdi gösteri başlıyor!
 
-52
+50
 00:05:02,370 --> 00:05:05,200
 Acaba hangisi ateş bombası?
 
-53
+51
 00:05:05,200 --> 00:05:08,330
 Dokunursan, devasa bir patlama olacak!
 
-54
+52
 00:05:13,420 --> 00:05:15,960
 Pekâlâ! Şimdi tam zamanı.
 Hâlâ şansımız var!
 
-55
+53
 00:05:16,500 --> 00:05:18,630
 Sen halledersin, Luffy!
 
-56
+54
 00:05:24,550 --> 00:05:26,430
 Ağaca tırmanıp kaçacaksın, ha?
 
-57
+55
 00:05:26,430 --> 00:05:29,230
 Nasıl oluyor da aklımı okuyor?!
 
-58
+56
 00:05:29,230 --> 00:05:30,890
 Bırak peşimi!
 
-59
+57
 00:05:33,060 --> 00:05:34,270
 N-Ne?!
 
-60
+58
 00:05:36,570 --> 00:05:37,730
 Ah, anladım!
 
-61
+59
 00:05:38,480 --> 00:05:41,400
 Demek bu ip ile kontrol ediyor.
 
-62
+60
 00:05:41,400 --> 00:05:42,450
 Şu ipin...
 
-63
+61
 00:05:43,870 --> 00:05:45,740
 icabına bakayım!
 
-64
+62
 00:05:47,740 --> 00:05:50,450
 Ejder Topu'nu artık kontrol edemem!
 
-65
+63
 00:05:51,000 --> 00:05:52,580
 Bu ne cüret!
 
-66
+64
 00:05:52,580 --> 00:05:54,500
 Gel bakayım bana!
 
-67
+65
 00:06:00,340 --> 00:06:02,970
 Hey, diğer elini bıraksana!
 
-68
+66
 00:06:23,530 --> 00:06:25,410
 İşte orada!
 
-69
+67
 00:06:25,410 --> 00:06:29,200
 Haklıymışım! Şüphesiz, işte çıkış!
 
-70
+68
 00:06:29,700 --> 00:06:30,950
 Tabii!
 
-71
+69
 00:06:30,950 --> 00:06:33,580
 Neden daha önce aklıma gelmedi ki?!
 
-72
+70
 00:06:33,580 --> 00:06:36,670
 Yüksek bir yerden düştük,
 
-73
+71
 00:06:37,130 --> 00:06:40,090
 çıkış da yukarı doğru olmalı!
 
-74
+72
 00:06:41,130 --> 00:06:44,380
 Artık çıkışı bildiğime göre bot yolu önemli değil!
 
-75
+73
 00:06:44,760 --> 00:06:45,890
 Acele etmeliyim.
 
-76
+74
 00:06:45,890 --> 00:06:48,010
 O dev patlama hayra alamet değildi.
 
-77
+75
 00:06:48,010 --> 00:06:49,970
 Umarım iyilerdir!
 
-78
+76
 00:06:49,970 --> 00:06:50,930
 Ay, ay, ay, ay...
 
-79
+77
 00:06:57,400 --> 00:06:58,900
 Ucuz kurtuldum!
 
-80
+78
 00:06:58,900 --> 00:07:01,030
 Şu salağın yaptığına inanamıyorum!
 
-81
+79
 00:07:01,030 --> 00:07:05,240
 Sanırım beni de kendiyle birlikte öldürmek istedi.
 
-82
+80
 00:07:05,240 --> 00:07:08,410
 Bu hiç iyi değil.
 Antremanlarım yeterli değilmiş.
 
-83
+81
 00:07:08,410 --> 00:07:10,790
 Bir anlığına tüm kontrolü eline aldı!
 
-84
+82
 00:07:10,790 --> 00:07:13,830
 Böyle eften püften bir şeyin
 konsantrasyonumu bozması...
 
-85
+83
 00:07:14,330 --> 00:07:16,370
 mantrama köstek olur!
 
-86
+84
 00:07:16,370 --> 00:07:17,790
 Haklısın!
 
-87
+85
 00:07:18,380 --> 00:07:19,590
 Çok yakındı!
 
-88
+86
 00:07:21,050 --> 00:07:23,210
 Sen hâlâ hayatta mısın?!
 
-89
+87
 00:07:24,340 --> 00:07:25,930
 İn üzerimden!
 
-90
+88
 00:07:25,930 --> 00:07:26,800
 Aptal!
 
-91
+89
 00:07:26,800 --> 00:07:28,640
 Bırakma onu, Luffy!
 
-92
+90
 00:07:26,800 --> 00:07:28,640
 Bırak beni!
 
-93
+91
 00:07:28,640 --> 00:07:30,810
 O tombalağı sakın bırakma!
 
-94
+92
 00:07:30,810 --> 00:07:31,640
 Sen–
 
-95
+93
 00:07:31,640 --> 00:07:33,720
 Oh, Sanji! Hayatta mısın?!
 
-96
+94
 00:07:33,720 --> 00:07:36,480
 Neredeyse o patlamayla
 ölümüme neden olacaktın!
 
-97
+95
 00:07:36,480 --> 00:07:38,270
 Bir şey yapmadan önce düşün!
 
-98
+96
 00:07:38,940 --> 00:07:41,570
 Her neyse, tombalak çocuk;
 
-99
+97
 00:07:45,650 --> 00:07:48,410
 Test mest bir şeyler zırvalayıp duruyorsun,
 
-100
+98
 00:07:48,410 --> 00:07:51,740
 ama açıkçası biz bu cezayı hak etmedik.
 
-101
+99
 00:07:51,740 --> 00:07:55,370
 Ama yine de bu aptal teste katlanıyoruz...
 
-102
+100
 00:07:55,370 --> 00:07:58,080
 çünkü iki yardıma muhtaç hanımefendi...
 
-103
+101
 00:07:58,080 --> 00:08:00,210
 benim onları kurtarmamı bekliyor.
 
-104
+102
 00:08:01,210 --> 00:08:02,800
 Bir başka deyişle...
 
-105
+103
 00:08:04,800 --> 00:08:07,260
 bu "Aşk Testi"!
 
-106
+104
 00:08:07,260 --> 00:08:09,260
 Bu da mı zeka özürlü be?!
 
-107
+105
 00:08:10,010 --> 00:08:11,800
 İn üstümden dedim!
 
-108
+106
 00:08:11,800 --> 00:08:15,890
 L-Lan! Lan!
 Lanet olsun! Bırak beni!
 
-109
+107
 00:08:15,890 --> 00:08:18,730
 İkiye karşı bir, hiç adil değil!
 
-110
+108
 00:08:22,110 --> 00:08:24,690
 Siz şerefsizler arkadaşlarımızı kaçırdınız!
 
-111
+109
 00:08:25,230 --> 00:08:29,200
 Tatlılar tatlısı bir meleği ağlattınız
 ve öldürmeye çalıştınız.
 
-112
+110
 00:08:29,200 --> 00:08:31,820
 Adil oynamaktan bahsetme bana.
 
-113
+111
 00:08:31,820 --> 00:08:33,450
 Haklı, sen de biliyorsun.
 
-114
+112
 00:08:33,450 --> 00:08:37,200
 Hamlelerimizi önceden görebiliyor olman şaşırtıcı,
 
-115
+113
 00:08:37,200 --> 00:08:39,330
 ama yine de...
 
-116
+114
 00:08:39,330 --> 00:08:42,710
 saldırılarımızdan kaçamıyorsan
 bir anlamı yok, değil mi?
 
-117
+115
 00:08:44,250 --> 00:08:45,880
 A-Aptallar! Durun!
 
-118
+116
 00:08:45,880 --> 00:08:48,130
 Ben Tanrı'nın rahiplerinden biriyim!
 
-119
+117
 00:08:48,130 --> 00:08:48,970
 Bırakın beni!
 
-120
+118
 00:08:48,970 --> 00:08:50,220
 Hey, dinlemiyor musunuz?!
 
-121
+119
 00:08:50,220 --> 00:08:55,430
 Bir rahibin hükmüne karşı gelmek
 Skypiea'da 1. derece bir suçtur!
 
-122
+120
 00:08:55,430 --> 00:08:58,180
 Dinleyin beni!
 
-123
+121
 00:08:58,180 --> 00:09:02,150
 Bana saldırmak, yüce Tanrı Enel'e
 savaş açtığınız anlamına gelir!
 
-124
+122
 00:09:02,150 --> 00:09:04,820
 Ağzını kapalı tut,
 yoksa aroman kaçacak!
 
-125
+123
 00:09:06,150 --> 00:09:10,150
 Yemeğin sosunu hazırlarken...
 
-126
+124
 00:09:13,410 --> 00:09:16,700
 en önemli şey, taze baharatları...
 
-127
+125
 00:09:17,370 --> 00:09:20,120
 güzelce ezmektir.
 
-128
+126
 00:09:25,040 --> 00:09:28,460
 Böylece içlerindeki aroma...
 
-129
+127
 00:09:29,220 --> 00:09:31,470
 Dur!
 
-130
+128
 00:09:32,640 --> 00:09:34,220
 Yapma!
 
-131
+129
 00:09:34,220 --> 00:09:36,810
 Dursana! Çok acıyacak! Yapma, dur!
 
-132
+130
 00:09:39,390 --> 00:09:41,770
 Eziş!
 
-133
+131
 00:09:49,990 --> 00:09:54,200
 Eski tanrı Gan Fall,
 Yukarı Bahçe'ye gitti.
 
-134
+132
 00:10:07,090 --> 00:10:08,880
 Sorun nedir, Aisa?
 
-135
+133
 00:10:09,460 --> 00:10:11,220
 İki kişinin sesi yok oldu.
 
-136
+134
 00:10:11,220 --> 00:10:12,380
 Ne dedin?!
 
-137
+135
 00:10:13,550 --> 00:10:14,840
 Mantranla mı hissettin?
 
-138
+136
 00:10:14,840 --> 00:10:15,800
 Evet...
 
-139
+137
 00:10:15,800 --> 00:10:18,350
 Az önce...
 
-140
+138
 00:10:20,930 --> 00:10:24,770
 Mantran öyle mi diyor, Aisa?
 
-141
+139
 00:10:24,770 --> 00:10:27,020
 "İki kişinin sesi yok oldu..."
 
-142
+140
 00:10:27,020 --> 00:10:28,230
 Öyle mi?!
 
-143
+141
 00:10:31,070 --> 00:10:32,570
 Şüphe yok.
 
-144
+142
 00:10:32,570 --> 00:10:36,530
 Hepiniz biliyorsunuz ki
 doğuştan mantra kullanabiliyor.
 
-145
+143
 00:10:36,530 --> 00:10:40,160
 O gizemli güç ile insanların varlığını...
 
-146
+144
 00:10:40,160 --> 00:10:41,950
 uzakta olsalar bile sezebiliyor.
 
-147
+145
 00:10:43,080 --> 00:10:45,330
 Yani iki ses yok oldu mu?
 
-148
+146
 00:10:45,330 --> 00:10:47,670
 Evet... Aynı anda yok oldular...
 
-149
+147
 00:10:48,420 --> 00:10:51,960
 Sanırım... Gan Fall
 ve rahiplerden biri...
 
-150
+148
 00:10:51,960 --> 00:10:52,760
 Birbirlerini mi...?
 
-151
+149
 00:10:52,760 --> 00:10:54,840
 Moruğa helal olsun!
 
-152
+150
 00:10:54,840 --> 00:10:56,510
 Geriye üç rahip kaldı.
 
-153
+151
 00:10:56,510 --> 00:10:58,220
 Bu işimize gelir.
 
-154
+152
 00:10:59,100 --> 00:11:03,100
 Görünüşe göre dualarımız kabul oldu.
 
-155
+153
 00:11:04,230 --> 00:11:07,900
 Rahipleri ezip geçmemiz için güzel bir fırsat bu.
 
-156
+154
 00:11:07,900 --> 00:11:09,480
 Evet!
 
-157
+155
 00:11:09,480 --> 00:11:13,400
 Hemen Yukarı Bahçe'ye
 tüm gücümüzle saldırmalıyız!
 
-158
+156
 00:11:13,400 --> 00:11:15,030
 – Evet!
 – Evet!
 
-159
+157
 00:11:18,570 --> 00:11:23,000
 Wyper'ın yanında hep gergin oluyorsun, değil mi?
 
-160
+158
 00:11:23,000 --> 00:11:24,960
 Şimdi, çekil yolumdan.
 
-161
+159
 00:11:24,120 --> 00:11:24,960
 Ah!
 
-162
+160
 00:11:26,790 --> 00:11:28,540
 Hey, Raki! Bekle!
 
-163
+161
 00:11:29,170 --> 00:11:30,130
 Ne oldu?
 
-164
+162
 00:11:30,130 --> 00:11:32,590
 Rahibi yenen Gan Fall değildi.
 
-165
+163
 00:11:32,960 --> 00:11:36,300
 Başka insanlar var. Onlar yendi.
 
-166
+164
 00:11:36,300 --> 00:11:37,890
 Başka insanlar mı?
 
-167
+165
 00:11:37,890 --> 00:11:40,640
 Skypiea'ya giren Mavi Deniz
 insanları mıydı yoksa?
 
-168
+166
 00:11:40,640 --> 00:11:43,640
 Kimler bilmiyorum ama çok korkunçlar!
 
-169
+167
 00:11:44,140 --> 00:11:44,980
 O yüzden...
 
-170
+168
 00:11:45,430 --> 00:11:46,390
 dikkatli ol.
 
-171
+169
 00:11:48,520 --> 00:11:50,060
 Anladım.
 
-172
+170
 00:11:50,060 --> 00:11:52,730
 Aisa, çantanı ver.
 
-173
+171
 00:11:52,730 --> 00:11:53,440
 Ne?!
 
-174
+172
 00:11:53,440 --> 00:11:57,910
 Hayır! Bu benim hazinemi sakladığım gizli çantam!
 
-175
+173
 00:11:57,910 --> 00:11:59,160
 Biliyorum.
 
-176
+174
 00:12:02,080 --> 00:12:04,910
 Daha fazlasını toplayıp getireceğim.
 
-177
+175
 00:12:04,910 --> 00:12:06,370
 Gerçekten mi?!
 
-178
+176
 00:12:05,660 --> 00:12:06,370
 Evet.
 
-179
+177
 00:12:18,510 --> 00:12:19,510
 Ha?
 
-180
+178
 00:12:20,340 --> 00:12:23,430
 Hayatta mıyım?
 
-181
+179
 00:12:25,890 --> 00:12:27,730
 Gökyüzü Şövalyesi!
 
-182
+180
 00:12:27,730 --> 00:12:30,020
 Doktor lazım! Dur, doktor benim!
 
-183
+181
 00:12:33,150 --> 00:12:35,400
 Şükürler olsun... Hâlâ hayatta.
 
-184
+182
 00:12:37,860 --> 00:12:40,070
 Ama çok garip.
 
-185
+183
 00:12:40,070 --> 00:12:43,240
 Nehre düşmüştük.
 
-186
+184
 00:12:43,240 --> 00:12:45,450
 Bizim kim çıkardı acaba...
 
-187
+185
 00:12:48,330 --> 00:12:49,960
 Kim var orada? "Tanrı" mı?
 
-188
+186
 00:12:50,460 --> 00:12:52,380
 Kim konuştu?!
 
-189
+187
 00:13:03,220 --> 00:13:04,850
 Ha? Ne?!
 
-190
+188
 00:13:14,230 --> 00:13:18,190
 Söylesene! Yukarıda ne gördün?!
 
-191
+189
 00:13:18,190 --> 00:13:20,240
 Soru sorma. Beni takip et!
 
-192
+190
 00:13:20,240 --> 00:13:22,200
 Bir şekilde kıyıya ulaşmalıyız.
 
-193
+191
 00:13:23,410 --> 00:13:25,410
 Hey! Bir yardım etsenize!
 
-194
+192
 00:13:25,410 --> 00:13:28,830
 Seni takip edeceksek
 önden gitmen gerekmiyor mu?!
 
-195
+193
 00:13:28,830 --> 00:13:29,750
 Kıyıya mı?
 
-196
+194
 00:13:29,750 --> 00:13:30,910
 Evet.
 
-197
+195
 00:13:30,910 --> 00:13:33,670
 Yakınına gidip teyit etmeliyiz,
 
-198
+196
 00:13:36,670 --> 00:13:40,670
 çünkü gördüklerime inanamıyorum...
 
-199
+197
 00:13:41,220 --> 00:13:43,470
 Hiç susmayacak sanmıştım.
 
-200
+198
 00:13:43,470 --> 00:13:45,140
 Hey!
 
-201
+199
 00:13:45,140 --> 00:13:48,180
 Luffy! Sanji! Botu buldum!
 
-202
+200
 00:13:48,180 --> 00:13:51,440
 Acele edin! Yoksa ormandan çıkacak!
 
-203
+201
 00:13:51,940 --> 00:13:54,310
 Ah, Usopp hayattaymış.
 
-204
+202
 00:13:54,310 --> 00:13:56,940
 Dur, bot gidiyor dedi!
 
-205
+203
 00:13:57,360 --> 00:13:58,400
 Ah, lanet olsun!
 
-206
+204
 00:13:58,860 --> 00:14:02,150
 Ormandan çıkmasına az kaldı!
 
-207
+205
 00:14:03,450 --> 00:14:05,660
 Buraya gelin ve bana tutunun.
 
-208
+206
 00:14:05,660 --> 00:14:06,620
 Sana mı tutunalım?
 
-209
+207
 00:14:06,620 --> 00:14:07,620
 Hadi bakalım!
 
-210
+208
 00:14:08,120 --> 00:14:08,830
 Usopp...
 
-211
+209
 00:14:08,830 --> 00:14:14,210
 Aah-eeh-aaaaaaaaaaaaaaa-ah!
 
-212
+210
 00:14:19,170 --> 00:14:20,840
 Pekâlâ! Yakaladım!
 
-213
+211
 00:14:20,840 --> 00:14:23,590
 Yaşasın be! Usopp harikasın!
 
-214
+212
 00:14:23,590 --> 00:14:26,640
 Acıdı lan!
 Beni öldürmeye mi çalışıyorsun?!
 
-215
+213
 00:14:26,640 --> 00:14:27,600
 Heyecan yaptım!
 
-216
+214
 00:14:27,600 --> 00:14:29,220
 Bazen acayip havalı oluyorsun!
 
-217
+215
 00:14:29,220 --> 00:14:31,770
 Evet! Beni hafife aldınız, değil mi?!
 
-218
+216
 00:14:31,770 --> 00:14:32,480
 Ha?
 
-219
+217
 00:14:32,980 --> 00:14:34,060
 Ha? Ha?
 
-220
+218
 00:14:32,980 --> 00:14:34,060
 Hey! Hey, hey!
 
-221
+219
 00:14:34,060 --> 00:14:36,610
 Hey! D-D-Dur bir saniye!
 
-222
+220
 00:14:47,320 --> 00:14:49,200
 S-S-Sorun yok...
 
-223
+221
 00:14:49,200 --> 00:14:51,450
 Sana bunu ödeteceğim...
 
-224
+222
 00:14:51,450 --> 00:14:56,170
 Kendim uzansam daha kolaydı...
 
-225
+223
 00:14:57,580 --> 00:15:01,800
 Neyse, Kayıp Orman'dan çıkmak üzereyiz.
 
-226
+224
 00:15:06,260 --> 00:15:08,680
 Demek Satori yenildi...
 
-227
+225
 00:15:09,430 --> 00:15:12,640
 Ne büyük acemilik,
 mantrasının kontrolünü kaybetmiş!
 
-228
+226
 00:15:13,230 --> 00:15:16,560
 Sanırım bu kez kaçak girenler Mavi Deniz'den.
 
-229
+227
 00:15:16,560 --> 00:15:18,980
 Sıradan insanlar değiller gibi.
 
-230
+228
 00:15:18,980 --> 00:15:21,530
 Sunakta da işler kızışıyor.
 
-231
+229
 00:15:21,530 --> 00:15:23,690
 Ancak onları boş versek bile,
 
-232
+230
 00:15:23,690 --> 00:15:26,450
 bu adadan kaçacak bir yol bulamazlar.
 
-233
+231
 00:15:28,070 --> 00:15:29,870
 Daha da önemlisi, şimdi...
 
-234
+232
 00:15:40,500 --> 00:15:43,710
 Hüzünlü bir savaşçının feryadını
 duyuyor musun, Holy?
 
-235
+233
 00:15:44,720 --> 00:15:47,260
 Ne kadar savaşırsak savaşalım, sonuç aynı.
 
-236
+234
 00:15:48,010 --> 00:15:52,060
 Shura, Gan Fall'ı yendi
 ama Top Testi başarıyla geçildi.
 
-237
+235
 00:15:52,640 --> 00:15:55,390
 Bayağı olaylı bir gün oluyor!
 
-238
+236
 00:15:56,310 --> 00:15:58,020
 Asla buradan geçemeyecekler!
 
-239
+237
 00:15:58,020 --> 00:16:00,480
 Tanrı'yı görmeye çalışmak bile
 büyük hadsizlik.
 
-240
+238
 00:16:01,480 --> 00:16:05,320
 Güneş batmak üzere,
 Yukarı Bahçe yakında...
 
-241
+239
 00:16:07,610 --> 00:16:09,820
 sallanacak.
 
-242
+240
 00:16:12,030 --> 00:16:14,830
 Kaçaklar bekleyebilir.
 
-243
+241
 00:16:14,830 --> 00:16:19,290
 Görünüşe göre gazabımı hak eden
 yeni rakipler geldi.
 
-244
+242
 00:16:43,270 --> 00:16:45,650
 Herkes dinlesin!
 
-245
+243
 00:16:45,650 --> 00:16:48,780
 Yukarı Bahçe'ye şu an kaos hakim!
 
-246
+244
 00:16:48,780 --> 00:16:51,490
 Böyle bir fırsatı bir daha yakalayamayız!
 
-247
+245
 00:16:51,820 --> 00:16:54,790
 Hedefimiz Tanrı'nın Tapınağı!
 
-248
+246
 00:16:55,370 --> 00:16:57,700
 Enel'den korkmayın!
 
-249
+247
 00:16:58,410 --> 00:17:03,420
 Şanlı Savaşçı Kalgara'nın ruhu
 bizi koruyacak!
 
-250
+248
 00:17:03,920 --> 00:17:06,050
 – Evet!
 – Evet!
 
-251
+249
 00:17:06,050 --> 00:17:07,130
 Braham!
 
-252
+250
 00:17:07,130 --> 00:17:07,920
 Evet!
 
-253
+251
 00:17:07,920 --> 00:17:08,920
 Kamakiri!
 
-254
+252
 00:17:09,880 --> 00:17:10,630
 Genbo!
 
-255
+253
 00:17:10,630 --> 00:17:11,760
 Evet!
 
-256
+254
 00:17:11,760 --> 00:17:12,640
 Raki!
 
-257
+255
 00:17:12,640 --> 00:17:13,760
 Evet!
 
-258
+256
 00:17:13,760 --> 00:17:15,310
 Herkes sağ salim dönsün!
 
-259
+257
 00:17:15,310 --> 00:17:16,640
 Şimdi dağılın!
 
-260
+258
 00:17:21,350 --> 00:17:25,820
 Şanlı Savaşçı Kalgara'ya yemin olsun,
 Shandora'nın ışığını yakacağız!
 
-261
+259
 00:17:25,820 --> 00:17:28,030
 – Evet!
 – Evet!
 
-262
+260
 00:17:31,700 --> 00:17:34,740
 – Demek geldiniz, Shandialılar!
 – Demek geldiniz, Shandialılar!
 
-263
+261
 00:17:41,290 --> 00:17:43,960
 Açıklamaya gerek yok, değil mi?
 
-264
+262
 00:17:44,460 --> 00:17:45,920
 Baksanıza.
 
-265
+263
 00:17:47,000 --> 00:17:48,550
 Tanıdık gelmiyor mu?
 
-266
+264
 00:17:49,510 --> 00:17:51,220
 Neler oluyor?!
 
-267
+265
 00:17:51,220 --> 00:17:53,390
 Yeryüzünden buraya nasıl gelmiş?
 
-268
+266
 00:17:53,890 --> 00:17:55,220
 Aynısı, değil mi?
 
-269
+267
 00:17:55,220 --> 00:17:56,350
 Hayır, değil.
 
-270
+268
 00:17:56,350 --> 00:17:57,310
 Ne?!
 
-271
+269
 00:17:57,310 --> 00:18:00,100
 Bu yeryüzünde gördüğümüzün diğer yarısı.
 
-272
+270
 00:18:00,100 --> 00:18:01,310
 Diğer yarısı mı?!
 
-273
+271
 00:18:01,310 --> 00:18:03,690
 Bir türlü aklıma yatmıyordu.
 
-274
+272
 00:18:03,690 --> 00:18:07,110
 Bu tip toprağın Beyaz-Beyaz Deniz'de
 olmaması gerekiyor.
 
-275
+273
 00:18:07,690 --> 00:18:12,860
 Başından beri bu adanın bulutlardan
 yapılmamış olması şüpheliydi.
 
-276
+274
 00:18:12,860 --> 00:18:16,490
 Bir başka deyişle, bu Yukarı Bahçe denen ada...
 
-277
+275
 00:18:17,780 --> 00:18:20,160
 yeryüzünden buraya gelmiş.
 
-278
+276
 00:18:21,120 --> 00:18:23,670
 O ev garipti.
 
-279
+277
 00:18:23,670 --> 00:18:30,420
 İkinci bir katı vardı ama
 üst kata çıkacak merdivenler yoktu.
 
-280
+278
 00:18:30,420 --> 00:18:33,470
 Ayrıca uçurumun kenarında olması da saçmaydı.
 
-281
+279
 00:18:34,300 --> 00:18:37,550
 O kıyı, adanın bir bölümüydü!
 
-282
+280
 00:18:38,930 --> 00:18:41,140
 İ-İnanılmaz!
 
-283
+281
 00:18:41,140 --> 00:18:43,060
 Aptallar! Dikkatli bakın.
 
-284
+282
 00:18:43,060 --> 00:18:45,060
 Hayalperest, ha?
 
-285
+283
 00:18:45,060 --> 00:18:48,020
 En azından gösteriş konusunda
 hayal gücü genişmiş.
 
-286
+284
 00:18:48,020 --> 00:18:48,690
 Ne diyorsun?
 
-287
+285
 00:18:48,690 --> 00:18:51,990
 Ne...?! Kartondan mıymış?
 
-288
+286
 00:18:57,160 --> 00:19:01,370
 Bu parçalanmış adanın diğer yarısı.
 
-289
+287
 00:19:03,460 --> 00:19:06,290
 Bu ada, Jaya'nın bir parçasıydı!
 
-290
+288
 00:19:08,540 --> 00:19:12,630
 O hâlde ada uzun bir süre önce ikiye ayrıldı,
 
-291
+289
 00:19:12,630 --> 00:19:15,090
 ve bir parçası
 gökyüzüne doğru yükseldi.
 
-292
+290
 00:19:17,890 --> 00:19:21,010
 Ama böyle bir şey nasıl olabilir?!
 
-293
+291
 00:19:22,390 --> 00:19:25,640
 Ne kadar çok güney kuşu var...
 
-294
+292
 00:19:25,640 --> 00:19:27,440
 Ama neden...
 
-295
+293
 00:19:27,940 --> 00:19:30,480
 Neden bu kadar büyükler?!
 
-296
+294
 00:19:49,960 --> 00:19:51,920
 Hey! Sonunda uyanabildin!
 
-297
+295
 00:19:53,050 --> 00:19:54,630
 Sabah mı oldu?
 
-298
+296
 00:19:56,840 --> 00:19:58,220
 Aynı Zoro bu!
 
-299
+297
 00:19:59,050 --> 00:20:00,930
 Biraz tetikte olun, salaklar!
 
-300
+298
 00:20:06,850 --> 00:20:08,810
 Bir zamanlar yeryüzünde var olan...
 
-301
+299
 00:20:09,440 --> 00:20:12,150
 Noland'ın gördüğü "Altın Şehir"...
 
-302
+300
 00:20:12,150 --> 00:20:14,400
 denizin dibini boylamamış!
 
-303
+301
 00:20:16,450 --> 00:20:17,820
 Jaya'nın kayıp kısmı...
 
-304
+302
 00:20:19,070 --> 00:20:20,950
 bunca zamandır gökyüzündeymiş!
 
-305
+303
 00:15:32,040 --> 00:15:36,540
 "Gökyüzü Patronu" Gedatsu
+Skypiea Rahibi
+
+304
+00:15:32,040 --> 00:15:36,540
+"Gökyüzü Patronu" Gedatsu
+Skypiea Rahibi
+
+305
+00:16:05,320 --> 00:16:09,820
+"Gökyüzü Hayvan Terbiyecisi" Ohm
 Skypiea Rahibi
 
 306
-00:15:32,040 --> 00:15:36,540
-"Gökyüzü Patronu" Gedatsu
+00:16:05,320 --> 00:16:09,820
+"Gökyüzü Hayvan Terbiyecisi" Ohm
 Skypiea Rahibi
 
 307
-00:16:05,320 --> 00:16:09,820
-"Gökyüzü Hayvan Terbiyecisi" Ohm
+00:16:09,820 --> 00:16:19,290
+"Gökyüzü Binicisi" Shura
 Skypiea Rahibi
 
 308
-00:16:05,320 --> 00:16:09,820
-"Gökyüzü Hayvan Terbiyecisi" Ohm
-Skypiea Rahibi
-
-309
 00:16:09,820 --> 00:16:19,290
 "Gökyüzü Binicisi" Shura
 Skypiea Rahibi
 
-310
-00:16:09,820 --> 00:16:19,290
-"Gökyüzü Binicisi" Shura
-Skypiea Rahibi

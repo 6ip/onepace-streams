@@ -1,2169 +1,2165 @@
 1
-00:00:00,000 --> 00:00:09,990
-Mediasoittimesi ei tue jaksossa käytettyä tekstitysformaattia.
-Ne tuskin tulevat toimimaan oikein.
-Valitse jokin suositelluista mediasoittimista, mieluusti mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Mediasoittimesi ei tue jaksossa käytettyä tekstitysformaattia.
-Ne tuskin tulevat toimimaan oikein.
-Valitse jokin suositelluista mediasoittimista, mieluusti mpv:
-https://mpv.io
-
-3
 00:01:50,300 --> 00:01:54,140
 Se kolmikko piti mua
 pilkkanaan! Tämä ei vetele!
 
-4
+2
 00:01:54,140 --> 00:01:57,970
 Tämä täytynee ottaa sodanjulistuksena.
 
-5
+3
 00:01:58,720 --> 00:02:01,180
 Siinähän sinä olet, Mohji!
 
-6
+4
 00:02:02,810 --> 00:02:06,270
 Saanko siis Roronoa Zoron pään?
 
-7
+5
 00:02:06,810 --> 00:02:07,820
 Pidä hyvänäsi.
 
-8
+6
 00:02:26,000 --> 00:02:27,880
 Mikä kumman piski?
 
-9
+7
 00:02:28,800 --> 00:02:30,300
 Piski!
 
-10
+8
 00:02:36,300 --> 00:02:39,260
 Se ei liiku yhtään, Zoro.
 
-11
+9
 00:02:39,260 --> 00:02:42,180
 Ei kiinnosta!
 Se on piskin oma asia.
 
-12
+10
 00:02:42,890 --> 00:02:44,390
 Ehkä se on kuollut.
 
-13
+11
 00:02:50,320 --> 00:02:53,740
 Auts, auts, auts, auts,
 auts! Autsista!
 
-14
+12
 00:02:53,740 --> 00:02:58,070
 Au, au, au! Mitä teet, koira!
 
-15
+13
 00:02:58,070 --> 00:03:01,330
 Tajuutko yhtään tilannettas?!
 
-16
+14
 00:03:04,160 --> 00:03:05,580
 Ihme rakki...
 
-17
+15
 00:03:05,580 --> 00:03:07,290
 Heikottaa...
 
-18
+16
 00:03:11,250 --> 00:03:12,960
 Jou, navigaattori.
 
-19
+17
 00:03:13,720 --> 00:03:17,390
 Kaippa voitte ottaa tän
 kun kerran pelastitte mut.
 
-20
+18
 00:03:18,890 --> 00:03:20,970
 Aah! Avain häkkiin!
 
-21
+19
 00:03:20,970 --> 00:03:23,850
 Minuako varten pöllit sen?!
 
-22
+20
 00:03:23,850 --> 00:03:25,850
 Nyt olemme tasoissa.
 
-23
+21
 00:03:27,350 --> 00:03:28,400
 Mikä pelastus!
 
-24
+22
 00:03:39,870 --> 00:03:42,450
 Koira perhana!
 Tyhmä koira!
 
-25
+23
 00:03:42,450 --> 00:03:45,710
 Sylje pois!
 Se ei ollut ruokaa!
 
-26
+24
 00:03:45,710 --> 00:03:49,130
 Tyhmä, tyhmä, tyhmä koira!
 
-27
+25
 00:03:49,130 --> 00:03:51,210
 Anna se takaisin!
 
-28
+26
 00:03:51,210 --> 00:03:52,670
 Seis!
 
-29
+27
 00:03:53,670 --> 00:03:56,630
 Älkääpäs kiusatko Shushua, nulikat!
 
-30
+28
 00:03:57,760 --> 00:03:58,380
 Shushu?
 
-31
+29
 00:03:58,760 --> 00:04:00,470
 Kuka olet, äijä?
 
-32
+30
 00:04:00,470 --> 00:04:03,220
 Olen tämän kaupungin pormestari!
 
-33
+31
 00:04:03,220 --> 00:04:05,930
 Entä itse?!
 
-34
+32
 00:04:05,930 --> 00:04:06,390
 Mitä?
 
-35
+33
 00:04:13,730 --> 00:04:14,980
 Miten Zoro voi?
 
-36
+34
 00:04:14,980 --> 00:04:17,450
 Tarvitsisi lääkärin,
 
-37
+35
 00:04:17,450 --> 00:04:20,780
 mutta poika vain sanoo
 että uni parantaa.
 
-38
+36
 00:04:23,830 --> 00:04:26,330
 Shushuko on koiran nimi?
 
-39
+37
 00:04:26,950 --> 00:04:29,960
 Mitä se tässä tekee?
 
-40
+38
 00:04:30,290 --> 00:04:31,830
 Vahtii kauppaa.
 
-41
+39
 00:04:32,340 --> 00:04:36,630
 Aa! Tämä on eläinten
 ruokaa myyvä kauppa.
 
-42
+40
 00:04:36,630 --> 00:04:42,260
 Kyllä. Tämä on
 erään ystäväni liike.
 
-43
+41
 00:04:46,680 --> 00:04:47,560
 Ole hyvä.
 
-44
+42
 00:04:50,440 --> 00:04:55,020
 Minä tulin vain tuomaan
 ruokaa hänen sijaan.
 
-45
+43
 00:04:55,940 --> 00:04:56,820
 "Hänen sijaan"?
 
-46
+44
 00:04:56,820 --> 00:04:57,900
 Niin.
 
-47
+45
 00:04:57,900 --> 00:05:03,370
 Hän kuoli. Lähti kome
 kuukautta sitten sairauteen.
 
-48
+46
 00:05:03,370 --> 00:05:07,750
 Onko se tosiaan odotellut
 häntä kaiken tämän ajan?
 
-49
+47
 00:05:10,500 --> 00:05:12,170
 Niin ne sanovat...
 
-50
+48
 00:05:17,960 --> 00:05:20,590
 Mutta itse en usko.
 
-51
+49
 00:05:21,550 --> 00:05:23,930
 Shushu on älykäs koira.
 
-52
+50
 00:05:23,930 --> 00:05:27,720
 Luulen sen tietävän,
 että isäntä on kuollut.
 
-53
+51
 00:05:32,310 --> 00:05:34,810
 Miksi sitten olla vahdissa?
 
-54
+52
 00:05:34,810 --> 00:05:38,820
 Uskoisin, että liike on
 Shushun oma aarre.
 
-55
+53
 00:05:39,150 --> 00:05:45,120
 Se on muisto rakkaasta isännästä,
 vartioinnin arvoinen asia.
 
-56
+54
 00:05:45,490 --> 00:05:49,660
 Olen yrittänyt viedä sen turvaan,
 
-57
+55
 00:05:49,660 --> 00:05:52,080
 mutta se ei suostu lähtemään.
 
-58
+56
 00:06:07,720 --> 00:06:09,220
 Mitä? Jokin karjui!
 
-59
+57
 00:06:09,220 --> 00:06:12,230
 Se on hän! Pedonkesyttäjä Mohji!
 
-60
+58
 00:06:13,440 --> 00:06:15,400
 Miten niin "Pedonkesyttäjä"?!
 
-61
+59
 00:06:15,400 --> 00:06:17,270
 O-Odotas nyt hetki!
 
-62
+60
 00:06:18,020 --> 00:06:20,030
 Aijai, sieltä tullaan.
 
-63
+61
 00:06:20,030 --> 00:06:21,860
 Anna jo se avain.
 
-64
+62
 00:06:26,660 --> 00:06:29,290
 Jättivätkö toverisi sinut?
 
-65
+63
 00:06:29,290 --> 00:06:31,080
 Sääli, vaikka pääsit livistämään...
 
-66
+64
 00:06:31,750 --> 00:06:32,870
 Mikäs sä olet?
 
-67
+65
 00:06:33,710 --> 00:06:37,290
 Olen Pedonkesyttäjä Mohji,
 osa Buggyn joukkiota.
 
-68
+66
 00:06:37,840 --> 00:06:40,840
 Kumma huppu sulla kyllä on!
 
-69
+67
 00:06:41,210 --> 00:06:43,930
 Tuo oli loukkaavaa!
 Nämä ovat hiukseni!
 
-70
+68
 00:06:44,180 --> 00:06:45,760
 Yhä vain kummempaa.
 
-71
+69
 00:06:45,760 --> 00:06:50,060
 Luuletko kenties olevasi
 turvassa häkissä?
 
-72
+70
 00:06:50,060 --> 00:06:51,850
 Et tunne minun hirmuisuuttani!
 
-73
+71
 00:06:51,850 --> 00:06:57,270
 Ei ole olemassa eläintä,
 jota en voisi hallita!
 
-74
+72
 00:06:58,190 --> 00:06:58,900
 Tassu!
 
-75
+73
 00:07:00,190 --> 00:07:02,490
 Auts! Auts! Auts!
 
-76
+74
 00:07:02,490 --> 00:07:02,530
 Auts! Auts! Auts!
 
-77
+75
 00:07:02,530 --> 00:07:02,570
 Auts! Auts! Auts!
 
-78
+76
 00:07:02,570 --> 00:07:02,610
 Auts! Auts! Auts!
 
-79
+77
 00:07:02,610 --> 00:07:02,650
 Auts! Auts! Auts!
 
-80
+78
 00:07:02,650 --> 00:07:02,690
 Auts! Auts! Auts!
 
-81
+79
 00:07:02,690 --> 00:07:02,740
 Auts! Auts! Auts!
 
-82
+80
 00:07:02,740 --> 00:07:02,780
 Auts! Auts! Auts!
 
-83
+81
 00:07:02,780 --> 00:07:02,820
 Auts! Auts! Auts!
 
-84
+82
 00:07:02,820 --> 00:07:02,860
 Auts! Auts! Auts!
 
-85
+83
 00:07:04,070 --> 00:07:06,240
 Sinä olet pelkkä pikkunilkki.
 
-86
+84
 00:07:06,240 --> 00:07:09,950
 En piittaa hengestäsi.
 Kerro missä on Roronoa Zoro!
 
-87
+85
 00:07:10,370 --> 00:07:11,450
 Enkä kerro!
 
-88
+86
 00:07:11,990 --> 00:07:13,410
 Kimppuun, Richie!
 
-89
+87
 00:07:16,170 --> 00:07:19,000
 Hienoa, häkki avautui!
 
-90
+88
 00:07:24,880 --> 00:07:26,300
 Nirri pois.
 
-91
+89
 00:07:26,840 --> 00:07:28,300
 Ok, Richie.
 
-92
+90
 00:07:28,300 --> 00:07:32,930
 Lähdetään etsimään Zoroa.
 Hänen tappamisensa tuo mainetta.
 
-93
+91
 00:07:32,930 --> 00:07:34,810
 Mitä nyt?
 
-94
+92
 00:07:34,810 --> 00:07:36,520
 Aivan... Eläintenruokaa.
 
-95
+93
 00:07:36,520 --> 00:07:38,440
 No, olkoon.
 Popsi sitten vauhdilla!
 
-96
+94
 00:07:40,980 --> 00:07:42,270
 Mitäs?
 
-97
+95
 00:07:42,270 --> 00:07:47,150
 Ei kai tuo kuvittele olevansa
 tuon säälittävän liikkeen vahtikoira?
 
-98
+96
 00:07:51,530 --> 00:07:53,950
 Säikähdin!
 
-99
+97
 00:07:53,950 --> 00:07:55,960
 Pääsin sentään tukalasta häkistä.
 
-100
+98
 00:07:58,250 --> 00:07:59,250
 Kas niin!
 
-101
+99
 00:07:59,250 --> 00:08:03,710
 Nyt rökitän ne kaikki ja teen
 Nami-rosvosta navigaattorini!
 
-102
+100
 00:08:04,920 --> 00:08:06,470
 Miksi olet elossa?!
 
-103
+101
 00:08:06,470 --> 00:08:06,510
 Miksi olet elossa?!
 
-104
+102
 00:08:06,510 --> 00:08:06,550
 Miksi olet elossa?!
 
-105
+103
 00:08:06,550 --> 00:08:06,590
 Miksi olet elossa?!
 
-106
+104
 00:08:06,670 --> 00:08:06,720
 Elätte!
 
-107
+105
 00:08:06,590 --> 00:08:06,630
 Elätte!
 
-108
+106
 00:08:06,630 --> 00:08:06,670
 Elätte!
 
-109
+107
 00:08:06,720 --> 00:08:06,760
 Elätte!
 
-110
+108
 00:08:06,760 --> 00:08:06,800
 Elätte!
 
-111
+109
 00:08:06,800 --> 00:08:06,840
 Elätte!
 
-112
+110
 00:08:06,840 --> 00:08:06,880
 Elätte!
 
-113
+111
 00:08:06,880 --> 00:08:06,920
 Elätte!
 
-114
+112
 00:08:06,920 --> 00:08:07,630
 Elätte!
 
-115
+113
 00:08:07,630 --> 00:08:09,430
 Enkö saisi elää?
 
-116
+114
 00:08:09,430 --> 00:08:13,970
 Lensit talon läpi ja olet kunnossa!
 Se ei ole normaalia.
 
-117
+115
 00:08:13,970 --> 00:08:15,470
 Eikö?
 
-118
+116
 00:08:15,470 --> 00:08:18,890
 Miksi yleensä tulitte tähän kaupunkiin?
 
-119
+117
 00:08:18,890 --> 00:08:20,810
 Mitä tahdotte piraateista?
 
-120
+118
 00:08:20,810 --> 00:08:22,940
 Päätin sen juuri äsken.
 
-121
+119
 00:08:22,940 --> 00:08:25,780
 Hommaan Grand Linen
 kartan ja navigaattorin!
 
-122
+120
 00:08:28,860 --> 00:08:32,580
 Se tyyppi sillä karvahupulla
 etsi Zoroa! Menen katsomaan!
 
-123
+121
 00:08:44,250 --> 00:08:49,720
 Shushu, tämä puoti
 on meidän yhteinen!
 
-124
+122
 00:08:53,890 --> 00:08:56,770
 Shushu, se pussi
 on sinulle liian iso!
 
-125
+123
 00:09:12,620 --> 00:09:15,030
 Emme halua,
 että loukkaantuisit, Shushu!
 
-126
+124
 00:09:15,030 --> 00:09:16,540
 Minä hoidan!
 
-127
+125
 00:09:19,750 --> 00:09:22,750
 Ilkeä Shushu! Tassut
 irti kauppatavarasta!
 
-128
+126
 00:09:23,380 --> 00:09:24,790
 Eiköhän syödä!
 
-129
+127
 00:09:34,970 --> 00:09:38,140
 Kas kas... Vielä se jaksaa...
 
-130
+128
 00:09:40,310 --> 00:09:43,350
 Shushu, ikä alkaa tulla vastaan.
 
-131
+129
 00:09:43,350 --> 00:09:45,690
 Pitää käydä sairaalassa.
 
-132
+130
 00:09:45,690 --> 00:09:48,900
 Mutta paranen kyllä!
 
-133
+131
 00:09:48,900 --> 00:09:51,820
 Vartioi puotia hyvin kunnes palaan!
 
-134
+132
 00:09:52,200 --> 00:09:54,780
 Suojele kotiamme!
 
-135
+133
 00:10:23,060 --> 00:10:25,440
 Kutittaa, Shushu!
 
-136
+134
 00:10:31,360 --> 00:10:34,910
 Uskoisin, että liike on
 Shushun oma aarre.
 
-137
+135
 00:10:35,490 --> 00:10:41,080
 Se on muisto rakkaasta isännästä,
 vartioinnin arvoinen asia.
 
-138
+136
 00:11:04,940 --> 00:11:08,020
 Pahuksen rakki puri minuakin!
 
-139
+137
 00:11:15,820 --> 00:11:18,780
 Sinähän... Juuri äskenhän
 aivan varmasti tapoin sinut!
 
-140
+138
 00:11:21,080 --> 00:11:23,410
 En mä niin helpolla kuole!
 
-141
+139
 00:11:24,160 --> 00:11:27,420
 Halkaise sen pää varmasti tällä kertaa!
 
-142
+140
 00:11:30,670 --> 00:11:32,840
 Mikään jellona ei mua pysty tappamaan!
 
-143
+141
 00:11:33,760 --> 00:11:35,340
 Gumigumi...
 
-144
+142
 00:11:39,090 --> 00:11:41,100
 Moukari!
 
-145
+143
 00:11:45,230 --> 00:11:47,230
 Richie!
 
-146
+144
 00:11:49,900 --> 00:11:52,440
 Mikä sinä olet?!
 
-147
+145
 00:11:53,610 --> 00:11:57,150
 Söin aikoinani gumigumimarjan!
 
-148
+146
 00:11:57,740 --> 00:12:03,120
 Sinullako on kapteenin
 lailla pirunmarjan voimat?!
 
-149
+147
 00:12:07,160 --> 00:12:10,960
 Hy-Hyvä on! Pahoittelen
 tätä tapausta! Anteeksi!
 
-150
+148
 00:12:12,290 --> 00:12:14,590
 Ei tarvi enää pyytää...
 
-151
+149
 00:12:14,590 --> 00:12:16,970
 Sen koiran aarretta ei saa takaisin.
 
-152
+150
 00:12:20,010 --> 00:12:21,350
 Siksi...
 
-153
+151
 00:12:21,350 --> 00:12:23,720
 rökitän sut!
 
-154
+152
 00:12:44,790 --> 00:12:49,160
 Merirosvot, joka iikka samanlaisia!
 
-155
+153
 00:12:50,080 --> 00:12:53,130
 Riistävät toisilta
 rakkaita asioita epäröimättä!
 
-156
+154
 00:12:53,790 --> 00:12:55,840
 Ai, sinä piraatti elät vielä!
 
-157
+155
 00:12:56,210 --> 00:13:00,840
 Luulin jo, että päädyit leijonanruuaksi!
 
-158
+156
 00:13:00,840 --> 00:13:03,680
 Merirosvona tulet tekemään
 täysin samaa!
 
-159
+157
 00:13:04,510 --> 00:13:07,310
 Keräät kamuja ja ryhdyt
 tihutöihin kylä toisensa jälkeen!
 
-160
+158
 00:13:07,310 --> 00:13:09,640
 Pitäisi listiä sinut
 ennen kuin kerkiät!
 
-161
+159
 00:13:09,640 --> 00:13:12,060
 Lopeta jo, tyttö hyvä!
 
-162
+160
 00:13:12,060 --> 00:13:13,730
 Et pystyisi siihen.
 
-163
+161
 00:13:13,730 --> 00:13:15,190
 Otetaan siitä selvää!
 
-164
+162
 00:13:15,190 --> 00:13:17,650
 Lopeta nyt! Mikä teitä vaivaa?!
 
-165
+163
 00:13:31,620 --> 00:13:33,630
 Enempää en saanut takaisin.
 
-166
+164
 00:13:33,630 --> 00:13:36,090
 Loput se ehti syödä!
 
-167
+165
 00:13:36,920 --> 00:13:41,260
 Hän kävi tappelemassa
 leijonan kanssa...
 
-168
+166
 00:13:41,260 --> 00:13:42,720
 Tuon koiran vuoksi.
 
-169
+167
 00:13:46,470 --> 00:13:48,470
 Taistelit urheasti!
 
-170
+168
 00:13:48,470 --> 00:13:50,980
 No, en kyllä nähnyt mitään,
 mutta sen huomaa!
 
-171
+169
 00:14:10,660 --> 00:14:11,660
 Hienoa!
 
-172
+170
 00:14:12,250 --> 00:14:13,580
 Tsemppiä sullekin!
 
-173
+171
 00:14:28,470 --> 00:14:30,810
 Kärsit tappion?!
 
-174
+172
 00:14:31,350 --> 00:14:34,600
 Suuret pahoittelut, kapteeni Buggy!
 
-175
+173
 00:14:35,270 --> 00:14:38,610
 Mohji! Uskomatonta,
 että hävisit Zorolle!
 
-176
+174
 00:14:39,020 --> 00:14:41,400
 En Zorolle! Vaan sille Olkihatulle!
 
-177
+175
 00:14:41,860 --> 00:14:45,530
 Häh? Sekö olkihattuveikko voitti sinut?!
 
-178
+176
 00:14:45,530 --> 00:14:47,370
 Hän söi... gumi...
 
-179
+177
 00:14:47,370 --> 00:14:49,990
 Nyt raivostuttaa!
 
-180
+178
 00:14:49,990 --> 00:14:52,250
 Kootkaa kaikki Buggyspecialkuulat!
 
-181
+179
 00:14:52,250 --> 00:14:55,370
 Räjäytän koko kaupungin taivaan tuuliin!
 
-182
+180
 00:14:57,170 --> 00:14:58,170
 Anteeksi äskeisestä!
 
-183
+181
 00:14:58,840 --> 00:14:59,920
 Häh?
 
-184
+182
 00:14:59,920 --> 00:15:01,630
 Siitä että huusin...
 
-185
+183
 00:15:02,300 --> 00:15:05,380
 Ei tee mitään! Sulla lienee syysi?
 
-186
+184
 00:15:06,930 --> 00:15:09,180
 Ei niin että tahtoisin kuulla.
 
-187
+185
 00:15:09,560 --> 00:15:11,350
 Olen säälittävä!
 
-188
+186
 00:15:11,350 --> 00:15:14,520
 Shushu ja nulikat taistelevat,
 
-189
+187
 00:15:14,520 --> 00:15:19,610
 miksi minun, pormestarin, pitäisi sormi
 suussa katsoa kun kaupunki tuhotaan!
 
-190
+188
 00:15:19,980 --> 00:15:21,610
 Rauhoittukaa, pormestari!
 
-191
+189
 00:15:21,610 --> 00:15:25,740
 Siitä on 40 vuotta,
 kun seutu oli vielä autiota.
 
-192
+190
 00:15:25,740 --> 00:15:29,620
 Työskentelimme paljon raivataksemme
 maan ja tehdäksemme peltoja,
 
-193
+191
 00:15:29,620 --> 00:15:32,950
 sekä avata liikkeitä
 ja rakentaa kaupunkiamme.
 
-194
+192
 00:15:32,950 --> 00:15:37,250
 Kaupunki asukkaineen on minun aarteeni!
 
-195
+193
 00:15:37,250 --> 00:15:41,000
 Enää en voi sietää tätä!
 
-196
+194
 00:15:41,000 --> 00:15:45,010
 Tulittakaa Buggyspecialkuula!
 Hävittäkää kaupunki!
 
-197
+195
 00:15:56,310 --> 00:15:58,650
 Minun talonikin...
 
-198
+196
 00:16:00,150 --> 00:16:01,610
 Zoro nukkuu siellä!
 
-199
+197
 00:16:01,610 --> 00:16:04,940
 Nulikka varmasti kuoli...
 
-200
+198
 00:16:05,860 --> 00:16:07,950
 Zoro hoi! Oletko hengissä?!
 
-201
+199
 00:16:08,410 --> 00:16:10,990
 Melkosen karsee herätys...
 
-202
+200
 00:16:14,410 --> 00:16:17,790
 Nyt meni unirytmi sekaisin...
 
-203
+201
 00:16:18,580 --> 00:16:20,580
 Miten tuollaisesta muka voi selvitä?!
 
-204
+202
 00:16:20,580 --> 00:16:22,420
 Hienoa! Olet elossa!
 
-205
+203
 00:16:22,840 --> 00:16:26,260
 En voi sallia tällaista...
 
-206
+204
 00:16:26,720 --> 00:16:28,130
 Olen saanut tarpeekseni!
 
-207
+205
 00:16:28,130 --> 00:16:33,640
 Mistä lie ilmestyneellä roskaväellä
 ei ole oikeutta tuhota 40 vuoden työtämme!
 
-208
+206
 00:16:35,600 --> 00:16:39,020
 Pormestari olen minä!
 
-209
+207
 00:16:40,270 --> 00:16:43,940
 Kaupunki on minun suojeluksessani!
 
-210
+208
 00:16:44,940 --> 00:16:46,900
 O-Odottakaa, pormestari!
 
-211
+209
 00:16:46,900 --> 00:16:50,280
 Ei! Miehen pitää tehdä
 mitä miehen pitää tehdä!
 
-212
+210
 00:16:50,280 --> 00:16:51,950
 Eikö ole näin, nulikka?!
 
-213
+211
 00:16:51,950 --> 00:16:53,200
 Näin on, ukkeli!
 
-214
+212
 00:16:53,990 --> 00:16:55,330
 Älä yllytä!
 
-215
+213
 00:16:55,330 --> 00:16:58,080
 Mitä hän muka voisi tehdä heille?!
 Se ei ole järkevää!
 
-216
+214
 00:16:58,620 --> 00:17:00,040
 Tiedän ettei se ole!
 
-217
+215
 00:17:03,170 --> 00:17:07,460
 Odotahan vain, Buggy-klovni!
 
-218
+216
 00:17:08,260 --> 00:17:10,180
 Pormestari itki...
 
-219
+217
 00:17:10,180 --> 00:17:12,640
 Jaa? En mä nähnyt.
 
-220
+218
 00:17:12,640 --> 00:17:15,010
 Kemujen tunnelma senkun tiivistyy!
 
-221
+219
 00:17:16,010 --> 00:17:17,270
 Näin on!
 
-222
+220
 00:17:18,140 --> 00:17:19,940
 Ei ole mitään nauramista!
 
-223
+221
 00:17:20,980 --> 00:17:21,980
 Ei hätää!
 
-224
+222
 00:17:21,980 --> 00:17:23,940
 Mä pidän tuosta ukkelista!
 
-225
+223
 00:17:23,940 --> 00:17:25,400
 En takuulla anna sen kuolla!
 
-226
+224
 00:17:25,820 --> 00:17:27,570
 Sit se on just niin...
 
-227
+225
 00:17:28,320 --> 00:17:30,240
 Menetkö tosiaan?!
 Tuollaisella haavalla!
 
-228
+226
 00:17:30,820 --> 00:17:36,030
 Kylkeä pahemmin
 loukkaantuisi mun maineeni!
 
-229
+227
 00:17:36,410 --> 00:17:38,950
 Meidän päämäärä on Grand Line.
 
-230
+228
 00:17:39,450 --> 00:17:42,370
 Nyt mennään uudestaan
 hakemaan sen kartta!
 
-231
+229
 00:17:44,130 --> 00:17:46,460
 Tule meidän messiin, Nami!
 
-232
+230
 00:17:47,500 --> 00:17:50,170
 En ryhdy merirosvoksi!
 
-233
+231
 00:17:53,010 --> 00:17:56,560
 Sovitaanko että "tehdään yhteistyötä"?
 Yhteisten tavoitteiden hyväksi!
 
-234
+232
 00:17:57,100 --> 00:17:59,560
 Toinen laukaus, valmista on, kapteeni!
 
-235
+233
 00:17:59,560 --> 00:18:01,020
 Hyvä! Tulta!
 
-236
+234
 00:18:01,020 --> 00:18:04,520
 Buggy-klovni, astu esiin!
 
-237
+235
 00:18:07,480 --> 00:18:10,030
 Olen kaupungin pormestari Boodle!
 
-238
+236
 00:18:10,030 --> 00:18:13,990
 Kaupunki on aarteeni, joten suojaan
 sitä haastamalla sinut taisteluun!
 
-239
+237
 00:18:14,320 --> 00:18:16,240
 Typeräkö olet?!
 
-240
+238
 00:18:16,240 --> 00:18:18,990
 "Aarteeksi" sanotaan kultaa,
 hopeaa ja jalokiviä!
 
-241
+239
 00:18:18,990 --> 00:18:20,410
 Kaupunkiko muka aarre?!
 
-242
+240
 00:18:20,410 --> 00:18:21,960
 Älähän ukko horise!
 
-243
+241
 00:18:21,960 --> 00:18:24,750
 Sinunlaiseltasi en ole
 mitään ymmärrystä odottanutkaa–
 
-244
+242
 00:18:26,210 --> 00:18:32,630
 Mä olen Grand Linen valloittaja!
 Mies ken käsiin pyytyvät maailman kalleudet!
 
-245
+243
 00:18:32,630 --> 00:18:34,760
 Mulle kuuluvat kaikki aarteet!
 
-246
+244
 00:18:34,760 --> 00:18:37,640
 Olen niiden ainoa oikea omistaja!
 
-247
+245
 00:18:37,640 --> 00:18:42,100
 Jos kaupunki on niin tärkeä,
 lennät kai iloilla ilmaan sen mukana.
 
-248
+246
 00:18:42,850 --> 00:18:45,770
 Riittää puheet, taistele kanssani!
 
-249
+247
 00:18:46,230 --> 00:18:47,690
 Älä luule liikoja itsestäsi!
 
-250
+248
 00:18:48,110 --> 00:18:53,650
 Kaupunkia et hävitä,
 vaikka se riistäisi minulta henkeni!
 
-251
+249
 00:18:53,650 --> 00:18:54,990
 Antakaa paukkua!
 
-252
+250
 00:18:57,370 --> 00:18:59,030
 Olkihattumies!
 
-253
+251
 00:19:03,870 --> 00:19:07,540
 Kuten lupasin
 tulin rökittämään sut!
 
-254
+252
 00:19:16,430 --> 00:19:20,810
 Uskallattekin töpötellä...
 
-255
+253
 00:19:20,810 --> 00:19:23,810
 mun eteeni!
 
-256
+254
 00:19:23,810 --> 00:19:28,400
 Kuules! Tahdon
 vain kartan ja aarteen!
 
-257
+255
 00:19:28,400 --> 00:19:29,820
 Selväks tuli.
 
-258
+256
 00:19:31,020 --> 00:19:33,900
 Nulikat... Miksi puututte?!
 
-259
+257
 00:19:33,900 --> 00:19:37,280
 Ulkopuoliset pysykööt syrjässä!
 
-260
+258
 00:19:38,070 --> 00:19:39,780
 Tämä on minun taistoni!
 
-261
+259
 00:19:39,780 --> 00:19:43,500
 Puolustan itse kaupunkiani!
 
-262
+260
 00:19:46,000 --> 00:19:47,330
 En tarvitse sekaantumistanne!
 
-263
+261
 00:19:55,800 --> 00:19:57,550
 Mitä sinä teet?!
 
-264
+262
 00:19:58,090 --> 00:20:00,510
 Miksi tyrkit pormestaria?!
 
-265
+263
 00:20:01,510 --> 00:20:02,430
 Oli tiellä!
 
-266
+264
 00:20:03,520 --> 00:20:05,180
 Hyvä idis.
 
-267
+265
 00:20:05,180 --> 00:20:07,640
 Ukko olis rynniny kuolemaan.
 
-268
+266
 00:20:08,600 --> 00:20:09,940
 Näin on parasta.
 
-269
+267
 00:20:09,940 --> 00:20:11,650
 Älä selitä hulluja!
 
-270
+268
 00:20:11,650 --> 00:20:14,650
 Se ei oikeuta hänen hakkaamista!
 
-271
+269
 00:20:20,950 --> 00:20:24,830
 Hei isonenä!
 
-272
+270
 00:20:25,790 --> 00:20:28,120
 Kaikista sanoista valitsit tuon!
 
-273
+271
 00:20:28,120 --> 00:20:31,790
 Olet mennyttää,
 räväkkä tiisti!
 
-274
+272
 00:20:31,790 --> 00:20:34,460
 Kuinka saatoitte?
 
-275
+273
 00:20:34,460 --> 00:20:36,670
 Ampukaa räväkästi! Buggykuulalla!
 
-276
+274
 00:20:37,760 --> 00:20:40,300
 Pitikö mennä ärsyttämään?!
 
-277
+275
 00:20:40,300 --> 00:20:41,930
 Suojaan, Luffy!
 
-278
+276
 00:20:41,930 --> 00:20:42,970
 Tuollainen pallukka...
 
-279
+277
 00:20:42,970 --> 00:20:44,350
 Kadotkaa iäksi!
 
-280
+278
 00:20:44,850 --> 00:20:46,850
 ...ei muhun tehoa!
 
-281
+279
 00:20:48,190 --> 00:20:49,730
 Gumigumi...
 
-282
+280
 00:20:51,100 --> 00:20:52,770
 Ilmapallo!
 
-283
+281
 00:20:55,190 --> 00:20:56,570
 Mitä hemmettiä?
 
-284
+282
 00:20:56,570 --> 00:20:58,030
 Ei kai kuula...
 
-285
+283
 00:21:00,990 --> 00:21:02,570
 Se kimpoaa takaisin!
 
-286
+284
 00:21:02,870 --> 00:21:04,530
 Olisit voinut varoittaa!
 
-287
+285
 00:21:12,920 --> 00:21:14,420
 Nonnih! Viholliset vähenee!
 
-288
+286
 00:21:14,420 --> 00:21:16,630
 Mikä hemmetti sinä olet?
 
-289
+287
 00:21:16,630 --> 00:21:18,380
 Säikytit, mokoma.
 
-290
+288
 00:21:26,720 --> 00:21:30,190
 Ihmettelinkin jo sitä leijonataistelua!
 
-291
+289
 00:21:30,480 --> 00:21:33,860
 Ei tuo ole inhimillistä! Selitähän!
 
-292
+290
 00:21:33,860 --> 00:21:36,940
 Mikä tuo pullistumisjuttu oli?!
 
-293
+291
 00:21:37,320 --> 00:21:39,110
 Gumigumi-ilmapallo!
 
-294
+292
 00:21:39,110 --> 00:21:41,150
 Siitä minä juuri kysyn!
 
-295
+293
 00:21:41,700 --> 00:21:43,320
 Hirviökö olet?!
 
-296
+294
 00:21:45,240 --> 00:21:48,830
 Kovasti räväkästi tehty...
 
-297
+295
 00:21:54,210 --> 00:21:56,630
 Käyttivät muita kilpinä!
 
-298
+296
 00:22:00,420 --> 00:22:04,140
 En saanut toista maistiaista... Mi-Mitä?
 
-299
+297
 00:22:05,300 --> 00:22:07,350
 Mitä on tapahtunut?!
 
-300
+298
 00:22:09,310 --> 00:22:11,020
 Sinähän...!
 
-301
+299
 00:22:11,600 --> 00:22:12,140
 Moi!
 
-302
+300
 00:22:12,810 --> 00:22:14,810
 Olkihattumies!
 
-303
+301
 00:22:14,810 --> 00:22:17,190
 Ka-Ka-Kapteeni Buggy!
 Varokaa tuota!
 
-304
+302
 00:22:17,190 --> 00:22:19,280
 Hänelläkin on pirunmarjavoimia!
 
-305
+303
 00:22:19,280 --> 00:22:21,150
 Hän on kumimies!
 
-306
+304
 00:22:21,150 --> 00:22:22,150
 Mitä?!
 
-307
+305
 00:22:22,490 --> 00:22:23,610
 Kumimies?!
 
-308
+306
 00:22:23,610 --> 00:22:25,950
 Jep, katsos!
 
-309
+307
 00:22:26,410 --> 00:22:28,160
 Pirunmarjako?
 
-310
+308
 00:22:28,160 --> 00:22:31,660
 Siksi siis kuula kimposi takaisin.
 
-311
+309
 00:22:35,330 --> 00:22:38,340
 Pahin nöyryytys tähän mennessä,
 
-312
+310
 00:22:39,590 --> 00:22:40,550
 kapteeni.
 
-313
+311
 00:22:40,550 --> 00:22:45,510
 Katsos, Cabaji! Kiukuttaa niin
 etten sanotuksi saa.
 
-314
+312
 00:22:45,510 --> 00:22:48,970
 Cabaji! Mitä teet Richielle?!
 
-315
+313
 00:22:48,970 --> 00:22:50,560
 Tälle kisulle?
 
-316
+314
 00:22:50,560 --> 00:22:53,690
 Pidin kilpenä,
 etteivät vaatteet likaantuisi.
 
-317
+315
 00:22:55,520 --> 00:22:56,480
 Richie!
 
-318
+316
 00:22:58,650 --> 00:23:01,940
 Richie! Sano jotain!
 Oletko kunnossa?!
 
-319
+317
 00:23:05,860 --> 00:23:07,370
 Richie!
 
-320
+318
 00:23:07,370 --> 00:23:09,330
 Mokoma temppuilija!
 
-321
+319
 00:23:12,370 --> 00:23:13,500
 Väistykää!
 
-322
+320
 00:23:13,870 --> 00:23:16,210
 Väisty itse.
 
-323
+321
 00:23:27,430 --> 00:23:34,890
 Olen Buggyn adjutantti Jonglööri Cabaji!
 Saatte kauttani tuta miehistön vihan!
 
-324
+322
 00:23:36,690 --> 00:23:39,270
 Miekkahommat hoidan mä.
 
-325
+323
 00:23:39,860 --> 00:23:42,570
 Mikä kunnia, Roronoa Zoro.
 
-326
+324
 00:23:43,440 --> 00:23:46,740
 Siis se, että saan
 miekkamiehenä surmata sinut.
 
-327
+325
 00:23:49,490 --> 00:23:51,700
 Kuule, lepäisit kuiteskin.
 
-328
+326
 00:23:51,700 --> 00:23:52,740
 Mä hoidan tämän!
 
-329
+327
 00:23:52,740 --> 00:23:54,960
 Älä puutu!
 
-330
+328
 00:23:54,960 --> 00:23:58,500
 Kapteenin tekemä haava.
 Mikä hölmö.
 
-331
+329
 00:23:59,080 --> 00:24:00,960
 Jonglöörin "Palomuuri"!
 
-332
+330
 00:24:10,850 --> 00:24:12,100
 Mitä nytten?
 
-333
+331
 00:24:12,100 --> 00:24:14,600
 Mielestäni en potkaissut niin lujaa.
 
-334
+332
 00:24:15,020 --> 00:24:17,730
 Kiero tyyppi! Tähtäsi haavaan!
 
-335
+333
 00:24:19,810 --> 00:24:22,940
 Jonglöörin "Kuolema vaanii sumussa"!
 
-336
+334
 00:24:26,320 --> 00:24:27,900
 Jaa että sumussa.
 
-337
+335
 00:24:27,900 --> 00:24:29,860
 Toihan on hiekkapölyä!
 
-338
+336
 00:24:35,870 --> 00:24:36,960
 Ja taas!
 
-339
+337
 00:24:38,580 --> 00:24:42,920
 Mitäs nyt?
 Iso mies kiljuu, säälittävää!
 
-340
+338
 00:24:43,500 --> 00:24:46,510
 Näetkö nyt kuinka uhkarohkeaa se oli...
 
-341
+339
 00:24:46,510 --> 00:24:50,890
 tehdä Buggyn joukkiosta vihollisia?
 
-342
+340
 00:24:51,390 --> 00:24:54,890
 Ihme että hän on
 yhä hengissä noilla haavoilla!
 
-343
+341
 00:24:55,520 --> 00:24:58,890
 Mitä siinä toljotat?!
 Hänet tapetaan!
 
-344
+342
 00:25:06,480 --> 00:25:07,940
 Roronoa Zoro...
 
-345
+343
 00:25:08,740 --> 00:25:09,570
 Pääsi on minun!
 
-346
+344
 00:25:10,780 --> 00:25:12,740
 Ärsyttävä jätkä!
 
-347
+345
 00:25:14,740 --> 00:25:17,040
 Onko noin lystiä...
 
-348
+346
 00:25:17,040 --> 00:25:19,330
 tökkiä mun haavaani?!
 
-349
+347
 00:25:22,250 --> 00:25:23,130
 Aits!
 
-350
+348
 00:25:28,130 --> 00:25:30,340
 Mi-Mikset väistänyt?!
 
-351
+349
 00:25:31,220 --> 00:25:34,720
 Onko tasotus jo riittävä?
 
-352
+350
 00:25:35,850 --> 00:25:40,640
 Pian näet, mikä on
 meidän kahden tasoero!
 
-353
+351
 00:25:41,640 --> 00:25:42,730
 Vautsi!
 
-354
+352
 00:25:42,730 --> 00:25:43,770
 Onpa viileetä!
 
-355
+353
 00:25:45,020 --> 00:25:47,780
 Tämä siis on Roronoa Zoron tyyli...
 
-356
+354
 00:25:47,780 --> 00:25:49,070
 Aliarvioit minua...
 
-357
+355
 00:25:49,490 --> 00:25:52,360
 Mä tähtään maailman huipulle.
 
-358
+356
 00:25:52,910 --> 00:25:58,080
 Mun ei näet sovi kertaakaan hävitä
 yhdellekään miekkamiehelle!
 
-359
+357
 00:25:58,080 --> 00:25:59,040
 Vai niin...
 
-360
+358
 00:26:00,120 --> 00:26:02,750
 Tinkimätön asenne selittää touhusi.
 
-361
+359
 00:26:03,580 --> 00:26:05,500
 Mutta ota huomioon,
 
-362
+360
 00:26:06,040 --> 00:26:09,550
 että tuollainen
 haava käy jo tekosyystä...
 
-363
+361
 00:26:10,010 --> 00:26:12,510
 hävitä minulle!
 
-364
+362
 00:26:12,510 --> 00:26:14,510
 Päinvastoin...
 
-365
+363
 00:26:15,140 --> 00:26:19,810
 Jos näinkin hyvässä
 kunnossa häviän sinulle...
 
-366
+364
 00:26:19,810 --> 00:26:22,770
 pitänee laittaa pillit pussiin!
 
-367
+365
 00:26:24,310 --> 00:26:26,190
 Mokoma...!
 
-368
+366
 00:26:26,190 --> 00:26:28,230
 Tee se, Zoro!
 
-369
+367
 00:26:29,780 --> 00:26:31,530
 Tämä on liian raskasta seurattavaa.
 
-370
+368
 00:26:31,530 --> 00:26:36,030
 Tappakaa te piraatit
 vaan toisenne jos huvittaa.
 
-371
+369
 00:26:36,030 --> 00:26:40,870
 Eihän tämä taistelu
 kuulu hitustakaan minulle.
 
-372
+370
 00:26:40,870 --> 00:26:44,670
 Käytän tilaisuuden siepatakseni
 aarteen ja häipymään!
 
-373
+371
 00:26:44,670 --> 00:26:45,670
 Häh?
 
-374
+372
 00:26:46,420 --> 00:26:48,920
 Liittoudutaan taas joskus
 jos se käy järkeen!
 
-375
+373
 00:26:49,340 --> 00:26:51,630
 Heippa! Pidän peukkuja!
 
-376
+374
 00:26:51,630 --> 00:26:53,380
 Ai, kiitti!
 
-377
+375
 00:26:53,840 --> 00:26:56,640
 Saat maistaa parasta temppuani!
 
-378
+376
 00:27:00,430 --> 00:27:03,690
 Jonglöörin "Hyrriä, komisario Palmu"!
 
-379
+377
 00:27:08,860 --> 00:27:09,820
 Jonglöörin
 
-380
+378
 00:27:10,360 --> 00:27:12,240
 "Enkelten portaat!"
 
-381
+379
 00:27:13,240 --> 00:27:16,360
 Jonglöörin "Uhrilento"!
 
-382
+380
 00:27:16,360 --> 00:27:18,370
 Hirmu korkealla!
 
-383
+381
 00:27:18,370 --> 00:27:20,700
 "Surmanisku"!
 
-384
+382
 00:27:21,660 --> 00:27:24,830
 Palapalakanuuna Maata viistäen!
 
-385
+383
 00:27:27,250 --> 00:27:29,670
 Cabaji! Mä pidän Zoroa kiinni!
 
-386
+384
 00:27:29,670 --> 00:27:30,960
 Varrasta se!
 
-387
+385
 00:27:30,960 --> 00:27:32,420
 Käskystä!
 
-388
+386
 00:27:33,630 --> 00:27:36,260
 Saastat!
 
-389
+387
 00:27:42,020 --> 00:27:42,850
 Luffy!
 
-390
+388
 00:27:43,850 --> 00:27:45,520
 Se-Senkin!
 
-391
+389
 00:27:46,310 --> 00:27:48,150
 Tassu irti...
 
-392
+390
 00:27:48,810 --> 00:27:50,150
 Zoron matsista!
 
-393
+391
 00:27:54,150 --> 00:27:58,660
 Selviän sinusta mainiosti
 ilman apuakin!
 
-394
+392
 00:27:58,660 --> 00:28:00,160
 Riittää jo...
 
-395
+393
 00:28:00,160 --> 00:28:01,410
 Väsyttää...
 
-396
+394
 00:28:04,120 --> 00:28:06,250
 Vihdoin siis luovutat!
 
-397
+395
 00:28:07,420 --> 00:28:11,500
 Ihme että edes pysyt pystyssä.
 
-398
+396
 00:28:12,380 --> 00:28:18,550
 Mä olen väsynyt sun
 surkeisiin temppuihisi!
 
-399
+397
 00:28:20,140 --> 00:28:23,890
 Siinä tapauksessa lopetetaan tähän!
 
-400
+398
 00:28:25,020 --> 00:28:27,310
 Rehdillä miekaniskulla!
 
-401
+399
 00:28:29,100 --> 00:28:30,310
 Kuole!
 
-402
+400
 00:28:32,440 --> 00:28:33,230
 Ohitus...
 
-403
+401
 00:28:34,030 --> 00:28:34,780
 leikkaus!
 
-404
+402
 00:28:39,280 --> 00:28:40,320
 Cabaji!
 
-405
+403
 00:28:42,620 --> 00:28:45,290
 Pahaiset varkaat...
 
-406
+404
 00:28:45,290 --> 00:28:47,710
 nöyryyttävät Buggyn joukkoa!
 
-407
+405
 00:28:51,500 --> 00:28:53,340
 Ei "Pahaiset varkaat".
 
-408
+406
 00:28:56,840 --> 00:28:58,880
 Merirosvot!
 
-409
+407
 00:29:00,390 --> 00:29:02,970
 Luffy! Mä otan tirsat!
 
-410
+408
 00:29:02,970 --> 00:29:04,140
 Siitä vaan!
 
-411
+409
 00:29:04,140 --> 00:29:05,850
 Mä hoidan loput!
 
-412
+410
 00:29:10,730 --> 00:29:13,650
 Tekö muka merirosvoja?!
 
-413
+411
 00:29:13,650 --> 00:29:16,690
 Näin on! Suuntaamme
 kohti Grand Linea!
 
-414
+412
 00:29:17,570 --> 00:29:23,030
 Grand Line ei ole oikea
 paikka piraattileikeille!
 
-415
+413
 00:29:23,030 --> 00:29:27,160
 Mitä luulette siellä tekevänne?!
 
-416
+414
 00:29:27,160 --> 00:29:29,410
 Huviristeilyllekö tahdot?
 
-417
+415
 00:29:33,790 --> 00:29:35,130
 En, vaan merirosvokuninkaaksi.
 
-418
+416
 00:29:36,710 --> 00:29:38,840
 Mitä pelleilyä!
 Räväkkä typeryskö olet!
 
-419
+417
 00:29:38,840 --> 00:29:42,800
 Sustako merirosvokuningas?!
 Sitten mä olen jumala!
 
-420
+418
 00:29:42,800 --> 00:29:46,810
 Minustapas sellainen tulee.
 Maailman aarteet kuuluu mulle!
 
-421
+419
 00:29:46,810 --> 00:29:48,930
 Älä unta näe!
 
-422
+420
 00:29:48,930 --> 00:29:50,480
 Sä melskaat liikaa.
 
-423
+421
 00:29:51,100 --> 00:29:53,230
 Käy nyt päälle jo!
 
-424
+422
 00:29:55,770 --> 00:29:59,780
 Tuota olkilätsää katsoessa
 tulee yksi jätkä mieleen,
 
-425
+423
 00:29:59,780 --> 00:30:02,820
 ja se raisvostuttaa!
 
-426
+424
 00:30:02,820 --> 00:30:04,200
 Puhun siis siitä...
 
-427
+425
 00:30:04,910 --> 00:30:07,660
 pirun Punapää-paskiaisesta!
 
-428
+426
 00:30:08,290 --> 00:30:09,120
 Punapää?!
 
-429
+427
 00:30:09,620 --> 00:30:11,120
 Jaa Punapää!
 
-430
+428
 00:30:11,120 --> 00:30:13,670
 Tarkoitatko Shanksia?!
 Tunnetko sen?!
 
-431
+429
 00:30:13,670 --> 00:30:16,880
 Häh? Tunnen, mitäs siitä?
 
-432
+430
 00:30:16,880 --> 00:30:18,210
 Missä se on?
 
-433
+431
 00:30:18,210 --> 00:30:21,090
 Missäkö? Saattaapa olla että tiedän,
 
-434
+432
 00:30:21,090 --> 00:30:23,470
 mutta saattaa olla että en!
 
-435
+433
 00:30:24,640 --> 00:30:25,970
 Mitä sä horiset?
 
-436
+434
 00:30:25,970 --> 00:30:27,100
 Pöljäkö olet?
 
-437
+435
 00:30:27,100 --> 00:30:28,770
 Hävytön turjake!
 
-438
+436
 00:30:29,520 --> 00:30:34,980
 En ole niin kiva jätkä
 että jakaisin tietoni!
 
-439
+437
 00:30:35,310 --> 00:30:37,610
 Sitten nuijin tiedon susta!
 
-440
+438
 00:30:39,360 --> 00:30:42,320
 Sitä ennen olet vainaa!
 
-441
+439
 00:30:42,950 --> 00:30:45,660
 Veitsi tuskin kimpoaa susta...
 
-442
+440
 00:30:46,030 --> 00:30:47,120
 Juu, ei.
 
-443
+441
 00:30:50,790 --> 00:30:53,210
 Palapalalettu!
 
-444
+442
 00:30:55,880 --> 00:31:00,630
 Ilmassa et pysty väistämään!
 
-445
+443
 00:31:01,460 --> 00:31:02,800
 Pystynpäs!
 
-446
+444
 00:31:07,180 --> 00:31:10,310
 Että silleen! Hupaisaa!
 
-447
+445
 00:31:10,970 --> 00:31:12,480
 Niin säkin!
 
-448
+446
 00:31:12,480 --> 00:31:14,690
 Gumigumipyssy!
 
-449
+447
 00:31:16,020 --> 00:31:17,900
 Kiva kyky,
 
-450
+448
 00:31:17,900 --> 00:31:20,230
 mutta se ihan kutsuu iskemään!
 
-451
+449
 00:31:20,940 --> 00:31:23,070
 Leikkelen sinut siivuiksi!
 
-452
+450
 00:31:22,570 --> 00:31:23,780
 Gumigumi...
 
-453
+451
 00:31:23,780 --> 00:31:25,660
 Palapalaevakuointi!
 
-454
+452
 00:31:25,660 --> 00:31:27,490
 Sirppi!
 
-455
+453
 00:31:33,750 --> 00:31:35,290
 Turha yrittää, kumipoika!
 
-456
+454
 00:31:40,630 --> 00:31:43,670
 Aina vaan palapaloiksi!
 
-457
+455
 00:31:44,010 --> 00:31:47,050
 M-Mikä taistelu...
 
-458
+456
 00:31:47,050 --> 00:31:48,800
 Ihan kuin unta.
 
-459
+457
 00:31:49,220 --> 00:31:51,810
 Hei... Näitsä ton?
 
-460
+458
 00:31:51,810 --> 00:31:53,100
 Tollo!
 
-461
+459
 00:31:53,100 --> 00:31:54,930
 Leiki tajutonta!
 
-462
+460
 00:31:54,930 --> 00:31:59,770
 Jos joudutaan mukaan se on menoa!
 
-463
+461
 00:31:59,770 --> 00:32:01,730
 Palapalakanuuna!
 
-464
+462
 00:32:04,150 --> 00:32:05,740
 Irrotus!
 
-465
+463
 00:32:10,200 --> 00:32:13,040
 Miten on?
 Ymmärrätkö jo, rääpäle?
 
-466
+464
 00:32:21,670 --> 00:32:22,630
 Mokomakin!
 
-467
+465
 00:32:22,630 --> 00:32:27,090
 Ai, suutuitko pärstäsi takia?
 
-468
+466
 00:32:27,550 --> 00:32:29,260
 Uskalsitkin...
 
-469
+467
 00:32:29,260 --> 00:32:33,060
 Uskalsitkin vahingoittaa tätä hattua!
 
-470
+468
 00:32:33,060 --> 00:32:34,310
 Hä?
 
-471
+469
 00:32:34,720 --> 00:32:36,520
 Tämä on mun aarteeni!
 
-472
+470
 00:32:36,520 --> 00:32:39,730
 On anteeksiantamatonta
 vahingoittaa sitä!
 
-473
+471
 00:32:41,480 --> 00:32:45,820
 Juu, vannoin tän
 olkihatun antaneelle
 
-474
+472
 00:32:45,820 --> 00:32:48,150
 kokoavani miehistön ja
 ryhtyväni piraatiksi!
 
-475
+473
 00:32:48,910 --> 00:32:52,030
 Luulin, ettei tuota hetkauta mikään...
 
-476
+474
 00:32:53,490 --> 00:32:57,250
 Hän on aivan raivona!
 
-477
+475
 00:33:00,250 --> 00:33:04,000
 Ai? Lätsällä lienee tarinansa.
 
-478
+476
 00:33:04,000 --> 00:33:04,960
 Näin on!
 
-479
+477
 00:33:04,960 --> 00:33:07,840
 Niinkö tärkeä se lätsä on?
 
-480
+478
 00:33:13,890 --> 00:33:15,640
 Pidähän siitä...
 
-481
+479
 00:33:15,640 --> 00:33:16,890
 ...sitten huolta!
 
-482
+480
 00:33:33,410 --> 00:33:35,330
 Jätän huostaasi tämän hatun.
 
-483
+481
 00:33:35,990 --> 00:33:38,330
 Se on minulle tärkeä.
 
-484
+482
 00:33:38,330 --> 00:33:39,660
 Pidä siitä hyvää huolta!
 
-485
+483
 00:33:46,750 --> 00:33:50,010
 Tule joskus palauttamaan se...
 
-486
+484
 00:33:52,090 --> 00:33:54,100
 Kun olet kunnon merirosvo.
 
-487
+485
 00:33:55,510 --> 00:33:58,020
 Se on lupauksemme... Luffy!
 
-488
+486
 00:34:07,940 --> 00:34:11,490
 Tällainen kulahtanut hattuko aarre?
 
-489
+487
 00:34:11,490 --> 00:34:13,070
 Älä ole naurettava!
 
-490
+488
 00:34:15,320 --> 00:34:18,790
 Se hattu on yhtä kuin
 mun ja Shanksin vala!
 
-491
+489
 00:34:18,790 --> 00:34:19,660
 Mitääh?
 
-492
+490
 00:34:20,250 --> 00:34:23,000
 Tämäkö on Shanksin hattu?
 
-493
+491
 00:34:23,750 --> 00:34:25,670
 Ilmankos se vaikutti jotenkin tutulta!
 
-494
+492
 00:34:26,170 --> 00:34:29,130
 Hän aina piti tätä seurassani!
 
-495
+493
 00:34:29,130 --> 00:34:30,210
 Häh?
 
-496
+494
 00:34:30,210 --> 00:34:32,720
 Sinä ja Shanksko samalla laivalla?!
 
-497
+495
 00:34:32,720 --> 00:34:36,470
 Niin, oltiin
 keltanokkapiraatteina toverit.
 
-498
+496
 00:34:36,470 --> 00:34:38,220
 Oltiin samalla laivalla...
 
-499
+497
 00:34:38,720 --> 00:34:42,140
 minä ja se raivostuttava
 Punapää-paskiainen!
 
-500
+498
 00:34:43,850 --> 00:34:46,690
 Shanks on suuri mies!
 
-501
+499
 00:34:46,690 --> 00:34:48,360
 Sunko toverisi muka?!
 
-502
+500
 00:34:48,360 --> 00:34:51,570
 Teitä ei saa verrata!
 
-503
+501
 00:34:51,570 --> 00:34:54,530
 Palapalaevakuointi!
 
-504
+502
 00:34:55,990 --> 00:34:57,530
 Buggy tässä!
 
-505
+503
 00:34:59,540 --> 00:35:03,160
 Älä enää ikinä sano,
 että olette muka tovereita!
 
-506
+504
 00:35:06,500 --> 00:35:09,130
 Mä sanon mitä huvittaa Shanksista!
 
-507
+505
 00:35:13,010 --> 00:35:14,090
 Kerro!
 
-508
+506
 00:35:14,090 --> 00:35:16,760
 Mitä teidän välillänne tapahtui?!
 
-509
+507
 00:35:17,850 --> 00:35:19,310
 Hitsi!
 
-510
+508
 00:35:19,310 --> 00:35:21,680
 Oikeasti silppusit aarrettani!
 
-511
+509
 00:35:24,560 --> 00:35:26,560
 Niinkö paljon haluat tietää?
 
-512
+510
 00:35:27,310 --> 00:35:30,020
 Tähän päivään saakka...
 
-513
+511
 00:35:30,020 --> 00:35:33,070
 en ole vihannut ketään
 niin kuin sitä jätkää!
 
-514
+512
 00:35:33,690 --> 00:35:37,450
 Kiroan häntä koko loppuikäni!
 
-515
+513
 00:35:37,450 --> 00:35:41,700
 En koskaan anna anteeksi!
+
+514
+00:02:01,560 --> 00:02:06,270
+Buggyn joukkion perämies
+Pedonkesyttäjä Mohji
+
+515
+00:02:01,560 --> 00:02:06,270
+Buggyn joukkion perämies
+Pedonkesyttäjä Mohji
 
 516
 00:02:01,560 --> 00:02:06,270
@@ -2171,14 +2167,14 @@ Buggyn joukkion perämies
 Pedonkesyttäjä Mohji
 
 517
-00:02:01,560 --> 00:02:06,270
-Buggyn joukkion perämies
-Pedonkesyttäjä Mohji
+00:04:00,510 --> 00:04:06,390
+Pormestari
+Boodle
 
 518
-00:02:01,560 --> 00:02:06,270
-Buggyn joukkion perämies
-Pedonkesyttäjä Mohji
+00:04:00,510 --> 00:04:06,390
+Pormestari
+Boodle
 
 519
 00:04:00,510 --> 00:04:06,390
@@ -2186,26 +2182,17 @@ Pormestari
 Boodle
 
 520
-00:04:00,510 --> 00:04:06,390
-Pormestari
-Boodle
+00:22:34,830 --> 00:22:40,550
+Buggyn adjutantti
+Jonglööri Cabaji
 
 521
-00:04:00,510 --> 00:04:06,390
-Pormestari
-Boodle
+00:22:34,830 --> 00:22:40,550
+Buggyn adjutantti
+Jonglööri Cabaji
 
 522
 00:22:34,830 --> 00:22:40,550
 Buggyn adjutantti
 Jonglööri Cabaji
 
-523
-00:22:34,830 --> 00:22:40,550
-Buggyn adjutantti
-Jonglööri Cabaji
-
-524
-00:22:34,830 --> 00:22:40,550
-Buggyn adjutantti
-Jonglööri Cabaji

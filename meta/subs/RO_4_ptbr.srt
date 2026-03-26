@@ -1,1152 +1,1139 @@
 1
-00:00:00,000 --> 00:00:09,990
-O seu player de mídia não suporta o formato de legendas utilizado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos players de mídia recomendados, preferencialmente mpv:
-https://mpv.io
-
-2
-00:01:49,960 --> 00:01:59,950
-O seu player de mídia não suporta o formato de legendas utilizado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos players de mídia recomendados, preferencialmente mpv:
-https://mpv.io
-
-3
 00:01:52,300 --> 00:01:54,090
 O q-quê?!
 
-4
+2
 00:01:54,090 --> 00:01:56,350
 Rei dos Piratas?!
 
-5
+3
 00:01:56,350 --> 00:01:59,020
 Tem alguma noção
  do que isso significa?!
 
-6
+4
 00:01:59,390 --> 00:02:01,060
 Eu também fiquei chocado!
 
-7
+5
 00:02:01,060 --> 00:02:02,770
 Mas o Sr. Luffy está falando sério!
 
-8
+6
 00:02:02,770 --> 00:02:04,310
 É assim que ele é!
 
-9
+7
 00:02:08,110 --> 00:02:09,690
 Toma aí! O teu tesouro!
 
-10
+8
 00:02:09,690 --> 00:02:13,280
 Qual dessas é a sua?
  Eu não sabia qual era, então trouxe as três.
 
-11
+9
 00:02:13,280 --> 00:02:15,240
 Todas as três são minhas.
 
-12
+10
 00:02:15,240 --> 00:02:18,120
 Eu uso o Estilo Três Espadas.
 
-13
+11
 00:02:18,120 --> 00:02:22,620
 Se a gente lutar junto agora,
 o governo vai te ver como um criminoso.
 
-14
+12
 00:02:22,620 --> 00:02:26,000
 É isso, ou ficar aqui
  e deixar a Marinha te matar.
 
-15
+13
 00:02:26,630 --> 00:02:28,630
 Você só pode ser
  filho do demônio mesmo.
 
-16
+14
 00:02:28,630 --> 00:02:31,510
 Mas tudo bem.
  Se for pra morrer aqui,
 
-17
+15
 00:02:31,510 --> 00:02:34,800
 então eu prefiro me tornar um pirata!
 
-18
+16
 00:02:34,800 --> 00:02:38,180
 É isso aí!
  Então vai mesmo entrar pro meu bando?!
 
-19
+17
 00:02:38,430 --> 00:02:40,930
 Beleza! Que demais! Maravilha!
 
-20
+18
 00:02:40,930 --> 00:02:44,020
 Tá bom, já deu!
  Agora desamarra a porcaria dessas cordas!
 
-21
+19
 00:02:41,810 --> 00:02:44,020
 Beleza!
 
-22
+20
 00:02:44,020 --> 00:02:45,770
 Do que é feito esse cara?
 
-23
+21
 00:02:45,770 --> 00:02:47,810
 Ele ricocheteou as balas!
 
-24
+22
 00:02:48,190 --> 00:02:50,940
 Esse cara do chapéu de palha 
 não é um humano normal.
 
-25
+23
 00:02:50,940 --> 00:02:54,570
 Ele deve ter comido
  uma daquelas Frutas do Diabo das histórias!
 
-26
+24
 00:02:54,570 --> 00:02:55,570
 Uma Fruta do Diabo?!
 
-27
+25
 00:02:55,570 --> 00:02:57,280
 Um dos tesouros secretos do mar?
 
-28
+26
 00:02:57,280 --> 00:02:58,950
 Rápido! Vai, anda logo!
 
-29
+27
 00:02:58,950 --> 00:03:02,750
 Droga!
  Esses nós tão muito apertados!
 
-30
+28
 00:03:01,290 --> 00:03:02,750
 Ei! Para de enrolar!
 
-31
+29
 00:03:03,000 --> 00:03:07,250
 Não importa quem seja,
 todos que se oponham a mim devem morrer!
 
-32
+30
 00:03:07,250 --> 00:03:09,710
 Se armas não funcionam,
  então cortem eles em pedaços!
 
-33
+31
 00:03:14,090 --> 00:03:16,590
 Ué, que estranho!
  Tá é ficando mais apertado...
 
-34
+32
 00:03:16,590 --> 00:03:18,300
 Rápido!
  Me passa as espadas! Anda!
 
-35
+33
 00:03:21,470 --> 00:03:22,600
 Sr. Luffy!
 
-36
+34
 00:03:31,770 --> 00:03:33,860
 Roronoa Zoro!
 
-37
+35
 00:03:35,150 --> 00:03:36,490
 Que daora!
 
-38
+36
 00:03:38,200 --> 00:03:39,870
 Um movimento e vocês morrem.
 
-39
+37
 00:03:40,780 --> 00:03:42,660
 Ele é assustador demais!
 
-40
+38
 00:03:46,660 --> 00:03:49,080
 Eu te prometo me tornar um pirata.
 
-41
+39
 00:03:49,790 --> 00:03:53,590
 Agora que já enfrentei mesmo a Marinha,
 já sou um fora-da-lei.
 
-42
+40
 00:03:53,590 --> 00:03:56,220
 Mas que fique bem claro.
 
-43
+41
 00:03:56,220 --> 00:03:58,800
 Eu só tô fazendo isso
  em prol da minha própria ambição.
 
-44
+42
 00:03:58,800 --> 00:03:59,590
 Ambição?
 
-45
+43
 00:03:59,840 --> 00:04:02,560
 Ser o melhor espadachim do mundo!
 
-46
+44
 00:04:03,350 --> 00:04:06,480
 Então, se em qualquer ocasião,
  você me fizer abandonar o meu sonho,
 
-47
+45
 00:04:06,480 --> 00:04:10,610
 vai ter de tirar a própria vida
  para ganhar o meu perdão!
 
-48
+46
 00:04:10,610 --> 00:04:12,860
 O melhor espadachim do mundo, é?
 
-49
+47
 00:04:12,860 --> 00:04:14,360
 Curti!
 
-50
+48
 00:04:14,360 --> 00:04:18,070
 É o mínimo que alguém tem que ser
  pra tá no bando do Rei dos Piratas!
 
-51
+49
 00:04:18,820 --> 00:04:20,200
 Você se acha demais.
 
-52
+50
 00:04:20,200 --> 00:04:23,080
 A essa altura,
  mesmo que seja como um criminoso,
 
-53
+51
 00:04:23,080 --> 00:04:25,700
 eu vou fazer
  meu nome ecoar pelo mundo todo!
 
-54
+52
 00:04:25,950 --> 00:04:28,210
 O que estão esperando?!
 
-55
+53
 00:04:28,210 --> 00:04:30,250
 Matem eles agora mesmo!
 
-56
+54
 00:04:31,670 --> 00:04:33,250
 Abaixa aí, Zoro!
 
-57
+55
 00:04:34,000 --> 00:04:38,010
 Gomu Gomu no Chicote!
 
-58
+56
 00:04:40,640 --> 00:04:43,260
 É i-isso aí! 
 Incrível demais!
 
-59
+57
 00:04:43,260 --> 00:04:45,010
 Mas o que diabos é você?
 
-60
+58
 00:04:45,520 --> 00:04:47,980
 Eu comi a Fruta Gomu-Gomu.
 
-61
+59
 00:04:48,230 --> 00:04:49,690
 Fruta Gomu-Gomu?
 
-62
+60
 00:04:49,690 --> 00:04:51,400
 Ele é feito de borracha!
 
-63
+61
 00:04:51,400 --> 00:04:53,900
 Então ele é mesmo
  um usuário de Fruta do Diabo!
 
-64
+62
 00:04:53,900 --> 00:04:56,400
 Capitão! 
 Não somos páreo para eles!
 
-65
+63
 00:04:56,400 --> 00:04:58,030
 Eles são demais pra gente!
 
-66
+64
 00:04:58,030 --> 00:05:00,110
 Não damos conta
  nem do Zoro sozinho!
 
-67
+65
 00:05:02,820 --> 00:05:04,580
 Estas são ordens diretas!
 
-68
+66
 00:05:04,580 --> 00:05:08,330
 Todo covarde reclamão
 deve atirar na própria cabeça!
 
-69
+67
 00:05:08,330 --> 00:05:11,620
 Não tolerarei covardia em minhas tropas!
 
-70
+68
 00:05:14,040 --> 00:05:16,880
 Tem algo de muito errado com essas tropas!
 
-71
+69
 00:05:17,460 --> 00:05:18,760
 Sr. Luffy!
 
-72
+70
 00:05:20,630 --> 00:05:23,340
 Arrebenta esses marinheiros!
 
-73
+71
 00:05:32,270 --> 00:05:36,900
 A ralé sem títulos ou patentes
  não tem o direito de me contrariar!
 
-74
+72
 00:05:36,900 --> 00:05:40,780
 Eu sou Morgan Mão-de-Machado,
  Capitão da Marinha!
 
-75
+73
 00:05:40,780 --> 00:05:42,530
 Eu sou Luffy!
 
-76
+74
 00:05:42,530 --> 00:05:43,410
 Muito prazer!
 
-77
+75
 00:05:43,780 --> 00:05:45,910
 Morra!
 
-78
+76
 00:05:55,130 --> 00:05:56,670
 O c-capitão!
 
-79
+77
 00:05:56,670 --> 00:05:59,340
 O-Ora, seu moleque...
 
-80
+78
 00:06:01,170 --> 00:06:03,180
 Morra!
 
-81
+79
 00:06:03,180 --> 00:06:04,470
 Tô afim não!
 
-82
+80
 00:06:07,180 --> 00:06:09,180
 O C-Capitão Morgan...
 
-83
+81
 00:06:11,560 --> 00:06:12,890
 Ele está levando uma surra!
 
-84
+82
 00:06:14,730 --> 00:06:18,940
 Que porcaria de Marinha é essa?!
 Vocês tão acabando com o sonho do Koby!
 
-85
+83
 00:06:20,030 --> 00:06:22,190
 Parado, Chapéu de Palha!
 
-86
+84
 00:06:22,190 --> 00:06:23,360
 Olha pra cá!
 
-87
+85
 00:06:25,280 --> 00:06:27,620
 Eu já mandei parar!
 Você por acaso é idiota, é?!
 
-88
+86
 00:06:27,620 --> 00:06:30,750
 Não está vendo
  que estou com um refém aqui?!
 
-89
+87
 00:06:30,750 --> 00:06:32,580
 Sr. Helmeppo!
 
-90
+88
 00:06:32,580 --> 00:06:33,750
 Ei.
 
-91
+89
 00:06:35,710 --> 00:06:38,710
 Se quer ele vivo, 
 é melhor não se mexer!
 
-92
+90
 00:06:38,710 --> 00:06:41,920
 Um passo em falso
  e eu atiro!
 
-93
+91
 00:06:45,760 --> 00:06:47,140
 Sr. Luffy!
 
-94
+92
 00:06:47,140 --> 00:06:50,850
 Não se segure por minha causa!
 Mesmo que eu morra!
 
-95
+93
 00:06:51,270 --> 00:06:53,270
 É, tô sabendo!
 
-96
+94
 00:06:53,270 --> 00:06:55,140
 Desiste aí, 
 filhinho de papai otário!
 
-97
+95
 00:06:55,140 --> 00:06:57,770
 O Koby tá pronto
  pra morrer se precisar!
 
-98
+96
 00:06:58,900 --> 00:07:00,020
 Não se mexa!
 
-99
+97
 00:07:00,020 --> 00:07:02,610
 Mandei ficar parado!
 E-Eu vou atirar!
 
-100
+98
 00:07:03,490 --> 00:07:05,200
 A-Atrás de você!
 
-101
+99
 00:07:05,200 --> 00:07:06,530
 Gomu Gomu no...
 
-102
+100
 00:07:06,530 --> 00:07:11,040
 Eu sou Morgan Mão-de-Machado,
  Capitão da Marinha!
 
-103
+101
 00:07:12,330 --> 00:07:14,290
 Paizinho! Mata logo ele!
 
-104
+102
 00:07:13,580 --> 00:07:15,410
 Pistol!
 
-105
+103
 00:07:19,960 --> 00:07:21,380
 Mandou bem!
 
-106
+104
 00:07:30,510 --> 00:07:31,350
 Zoro.
 
-107
+105
 00:07:31,850 --> 00:07:35,020
 O prazer foi meu, capitão.
 
-108
+106
 00:07:42,190 --> 00:07:43,610
 O Capitão Morgan foi derrotado!
 
-109
+107
 00:07:43,610 --> 00:07:44,740
 Não acredito!
 
-110
+108
 00:07:44,740 --> 00:07:45,860
 Eles são incríveis!
 
-111
+109
 00:07:47,610 --> 00:07:51,580
 Se ainda quiserem tentar nos prender,
  podem vir tentar a sorte.
 
-112
+110
 00:07:55,660 --> 00:07:57,710
 Viva! Viva!
 
-113
+111
 00:07:56,660 --> 00:07:57,710
 Liberdade!
 
-114
+112
 00:07:57,710 --> 00:07:58,830
 Até que enfim!
 
-115
+113
 00:07:58,830 --> 00:08:00,500
 O reinado do Morgan acabou!
 
-116
+114
 00:08:00,500 --> 00:08:02,670
 Viva a Marinha!
 
-117
+115
 00:08:02,920 --> 00:08:03,670
 Que deu neles?
 
-118
+116
 00:08:03,670 --> 00:08:06,920
 Por que ficaram tão felizes pela derrota do próprio capitão?
 
-119
+117
 00:08:06,920 --> 00:08:10,140
 Todo mundo
  só morria de medo do Morgan!
 
-120
+118
 00:08:14,430 --> 00:08:16,060
 O que houve, Sr. Zoro?!
 
-121
+119
 00:08:16,060 --> 00:08:17,180
 Está machucado?!
 
-122
+120
 00:08:17,940 --> 00:08:18,890
 Tô morrendo...
 
-123
+121
 00:08:18,890 --> 00:08:20,400
 de fome...
 
-124
+122
 00:08:25,820 --> 00:08:27,360
 Tô cheio!
 
-125
+123
 00:08:27,700 --> 00:08:32,320
 Três semanas sem comer nada 
 e eu já tava chegando no meu limite!
 
-126
+124
 00:08:36,080 --> 00:08:38,540
 Qual foi? 
 Não consegue comer mais não?
 
-127
+125
 00:08:39,040 --> 00:08:42,250
 Como é que você consegue comer mais do que eu?!
 
-128
+126
 00:08:42,250 --> 00:08:44,800
 É que tá uma delícia!
  Né não, Koby?
 
-129
+127
 00:08:44,800 --> 00:08:47,760
 Ah, eu sinto muito!
 Acho que também exagerei!
 
-130
+128
 00:08:48,010 --> 00:08:51,220
 Tudo bem! Vocês salvaram a cidade,
  afinal de contas.
 
-131
+129
 00:08:51,470 --> 00:08:53,850
 Você é bem incrível, moço!
 
-132
+130
 00:08:53,850 --> 00:08:57,220
 Opa, eu sou mesmo! 
 E ainda vou ser mais incrível ainda!
 
-133
+131
 00:08:57,220 --> 00:09:00,020
 Porque eu vou ser o Rei dos Piratas!
 
-134
+132
 00:09:00,310 --> 00:09:02,100
 Já até consegui
  um membro pro meu bando!
 
-135
+133
 00:09:02,480 --> 00:09:06,690
 Ei, escuta! 
 Pra onde vocês vão agora?
 
-136
+134
 00:09:06,690 --> 00:09:09,950
 Não é óbvio?! 
 Vamos pra Grand Line!
 
-137
+135
 00:09:11,530 --> 00:09:13,660
 Mas são só vocês dois!
 
-138
+136
 00:09:13,660 --> 00:09:16,580
 É impossível ir para lá!
 Não dá! Não dá! Não dá!
 
-139
+137
 00:09:16,830 --> 00:09:20,290
 A Grand Line é realmente
  assim tão terrível?
 
-140
+138
 00:09:20,290 --> 00:09:22,290
 Mas é claro que sim!
 
-141
+139
 00:09:22,290 --> 00:09:26,630
 Vocês sabem que há
  dois grandes oceanos neste mundo, certo?
 
-142
+140
 00:09:26,630 --> 00:09:31,300
 O continente que divide esses mares
  é a Red Line.
 
-143
+141
 00:09:31,300 --> 00:09:34,470
 Supostamente, há uma cidade
  que fica bem no meio da Red Line,
 
-144
+142
 00:09:34,470 --> 00:09:39,060
 e a Grande Line
  atravessa essa cidade na perpendicular,
 
-145
+143
 00:09:39,060 --> 00:09:42,020
 dando a volta no mundo todo.
 
-146
+144
 00:09:42,560 --> 00:09:48,570
 Conta-se que Gold Roger, o Rei dos Piratas,
 conquistou tudo o que o mundo tinha a oferecer.
 
-147
+145
 00:09:48,570 --> 00:09:55,450
 E que ele deixou
  o grande tesouro One Piece lá, na Grand Line.
 
-148
+146
 00:09:55,450 --> 00:09:59,290
 Por isso, piratas de todo o mundo 
 partiram rumo à Grand Line!
 
-149
+147
 00:09:59,290 --> 00:10:04,960
 Ela se tornou um campo de batalha terrível,
 sendo até chamada de Cemitério de Piratas!
 
-150
+148
 00:10:09,300 --> 00:10:15,890
 Já ouvi clientes falarem
  que ninguém sai da Grand Line com vida.
 
-151
+149
 00:10:16,140 --> 00:10:21,100
 Mas o One Piece tá lá em algum lugar,
  então é pra lá que a gente vai!
 
-152
+150
 00:10:21,600 --> 00:10:23,060
 Então não tem outro jeito!
 
-153
+151
 00:10:23,060 --> 00:10:25,100
 Até você, Sr. Zoro?!
 
-154
+152
 00:10:25,100 --> 00:10:26,940
 O que que tem? 
 Você não vem mesmo, né?
 
-155
+153
 00:10:26,940 --> 00:10:30,070
 N-Não mesmo,
  mas eu me preocupo com vocês!
 
-156
+154
 00:10:30,070 --> 00:10:31,740
 Não posso?!
 
-157
+155
 00:10:31,740 --> 00:10:36,490
 O Sr. Luffy e eu não nos conhecemos
  há muito tempo, mas já somos amigos!
 
-158
+156
 00:10:36,490 --> 00:10:37,450
 Não somos?
 
-159
+157
 00:10:37,830 --> 00:10:41,410
 Claro! Vamos seguir caminhos diferentes,
  mas sempre vamos ser amigos!
 
-160
+158
 00:10:45,330 --> 00:10:49,210
 Desde pequeno, 
 nunca consegui fazer amigos...
 
-161
+159
 00:10:49,210 --> 00:10:52,840
 Muito menos alguém
  que lutasse por mim...
 
-162
+160
 00:10:52,840 --> 00:10:56,930
 Digo, eu mesmo nunca lutei por nada.
 
-163
+161
 00:10:58,800 --> 00:11:04,060
 Mas vocês dois me ensinaram
  a lutar pelo que eu acredito.
 
-164
+162
 00:11:04,060 --> 00:11:07,520
 Finalmente tenho coragem
  de realizar meu sonho de infância!
 
-165
+163
 00:11:07,520 --> 00:11:09,400
 Eu vou me alistar na Marinha!
 
-166
+164
 00:11:09,400 --> 00:11:12,610
 Se é assim,
  devia se preocupar com você primeiro.
 
-167
+165
 00:11:13,240 --> 00:11:13,820
 Quê...?
 
-168
+166
 00:11:14,490 --> 00:11:15,740
 Mesmo que só
 como criado de bordo,
 
-169
+167
 00:11:15,740 --> 00:11:19,530
 você ainda passou dois anos no navio pirata da Alvida.
 
-170
+168
 00:11:21,830 --> 00:11:24,500
 Melhor não subestimar
  a inteligência da Marinha.
 
-171
+169
 00:11:24,500 --> 00:11:27,290
 Se souberem do seu passado,
  não vão te aceitar.
 
-172
+170
 00:11:27,960 --> 00:11:29,840
 B-Bom, agora que você mencionou isso...
 
-173
+171
 00:11:30,880 --> 00:11:32,000
 Com licença!
 
-174
+172
 00:11:36,340 --> 00:11:39,300
 É verdade que vocês são piratas?!
 
-175
+173
 00:11:39,550 --> 00:11:44,560
 Isso aí! Já tenho o primeiro membro,
 então já dá pra chamar de bando pirata!
 
-176
+174
 00:11:44,810 --> 00:11:50,440
 Somos muito gratos por terem salvado a base
  e a cidade da tirania de Morgan.
 
-177
+175
 00:11:50,440 --> 00:11:53,280
 No entanto, após confirmamos que de fato são piratas,
 
-178
+176
 00:11:53,280 --> 00:11:56,070
 pela reputação da Marinha,
  não podemos permitir que fiquem!
 
-179
+177
 00:11:56,950 --> 00:11:59,820
 Devem partir imediatamente!
 
-180
+178
 00:11:59,820 --> 00:12:03,580
 Como gesto de gratidão,
  não informaremos isto ao Quartel-General.
 
-181
+179
 00:12:03,580 --> 00:12:04,540
 Ei, marinheiro!
 
-182
+180
 00:12:05,040 --> 00:12:06,580
 Que falta de consideração é essa?
 
-183
+181
 00:12:06,580 --> 00:12:10,290
 Até vocês viviam com medo 
 por causa da tirania do Morgan!
 
-184
+182
 00:12:10,290 --> 00:12:13,500
 Devemos nossas vidas a eles!
 
-185
+183
 00:12:13,500 --> 00:12:15,090
 – Isso aí! Isso!
 – Arrã! Isso mesmo!
 
-186
+184
 00:12:18,590 --> 00:12:20,010
 Tá bom então, a gente já vai!
 
-187
+185
 00:12:20,590 --> 00:12:22,100
 Valeu pela comida, dona!
 
-188
+186
 00:12:22,390 --> 00:12:25,020
 Moço, vocês já vão embora?
 
-189
+187
 00:12:25,310 --> 00:12:26,390
 Sim.
 
-190
+188
 00:12:33,820 --> 00:12:35,690
 E você?
  Não faz parte do bando deles?
 
-191
+189
 00:12:35,690 --> 00:12:37,650
 Quê? Eu...
 
-192
+190
 00:12:37,650 --> 00:12:38,950
 Eu...
 
-193
+191
 00:12:43,330 --> 00:12:44,160
 Espere!
 
-194
+192
 00:12:44,410 --> 00:12:46,160
 E então? Ele é um de vocês?
 
-195
+193
 00:12:46,950 --> 00:12:50,170
 Pior que eu sei bastante
  sobre o que esse cara já aprontou por aí.
 
-196
+194
 00:12:51,170 --> 00:12:52,920
 Sr. Luffy! Não faça isso!
 
-197
+195
 00:12:53,250 --> 00:12:56,380
 Tinha uma pirata
 bem gordona assim,
 
-198
+196
 00:12:56,380 --> 00:12:58,130
 chamada Alvira, ou algo assim.
 
-199
+197
 00:12:58,130 --> 00:13:00,130
 Sr. Luffy!
 
-200
+198
 00:13:00,680 --> 00:13:02,800
 Se descobrirem que já estive em um navio pirata,
 
-201
+199
 00:13:02,800 --> 00:13:05,390
 nunca vão me aceitar na Marinha!
 
-202
+200
 00:13:05,390 --> 00:13:07,390
 Ela sempre andava
  com uma clava de ferro.
 
-203
+201
 00:13:07,390 --> 00:13:10,020
 Como era feia aquela velha!
 
-204
+202
 00:13:10,940 --> 00:13:14,440
 E por dois anos inteirinhos, esse cara aqui era...
 
-205
+203
 00:13:15,070 --> 00:13:19,650
 Por favor, pare!
  Por favor, pare, Sr. Luffy!
 
-206
+204
 00:13:19,650 --> 00:13:20,860
 Toma essa!
 
-207
+205
 00:13:28,160 --> 00:13:29,790
 Então é assim, né, seu desgraçado?!
 
-208
+206
 00:13:30,370 --> 00:13:35,250
 Seu maldito! Engole essa!
 Desgraçado! Segura essa aqui!
 
-209
+207
 00:13:35,500 --> 00:13:36,880
 Pare com isso!
 
-210
+208
 00:13:36,880 --> 00:13:40,470
 Não permitirei que causem mais tumulto nesta cidade!
 
-211
+209
 00:13:40,880 --> 00:13:41,430
 Ei!
 
-212
+210
 00:13:41,800 --> 00:13:43,340
 Já tá exagerando.
 
-213
+211
 00:13:43,340 --> 00:13:44,850
 Já chega.
 
-214
+212
 00:13:49,770 --> 00:13:52,520
 Já está bastante óbvio
  que não são companheiros!
 
-215
+213
 00:13:52,520 --> 00:13:55,020
 Agora, saiam desta cidade imediatamente!
 
-216
+214
 00:14:00,940 --> 00:14:02,240
 Ele...
 
-217
+215
 00:14:04,200 --> 00:14:06,280
 Ele fez de propósito...
 
-218
+216
 00:14:10,160 --> 00:14:12,210
 Por mim...
 
-219
+217
 00:14:12,710 --> 00:14:15,960
 Ele me provocou de propósito,
  só pra me fazer bater nele.
 
-220
+218
 00:14:17,670 --> 00:14:22,630
 Até o último momento,
  sou eu que preciso dele!
 
-221
+219
 00:14:25,890 --> 00:14:28,850
 Nada mudou!
 
-222
+220
 00:14:31,270 --> 00:14:33,560
 Por acaso, eu sou idiota?!
 
-223
+221
 00:14:34,060 --> 00:14:35,270
 Por favor!
 
-224
+222
 00:14:36,110 --> 00:14:38,940
 Por favor... permitam
  que eu me aliste na Marinha!
 
-225
+223
 00:14:38,940 --> 00:14:42,070
 Fico grato com qualquer posto,
 mesmo que seja apenas de grumete!
 
-226
+224
 00:14:42,070 --> 00:14:44,490
 Desde que eu possa
  ser um marinheiro!
 
-227
+225
 00:14:47,740 --> 00:14:48,740
 Tenente!
 
-228
+226
 00:14:48,740 --> 00:14:50,450
 Eu me oponho a esta ideia, senhor!
 
-229
+227
 00:14:51,370 --> 00:14:54,000
 Ainda não confio completamente neste menino!
 
-230
+228
 00:14:54,000 --> 00:14:57,080
 Já tivemos relatos de espiões piratas
  infiltrados na Marinha.
 
-231
+229
 00:14:57,580 --> 00:15:00,090
 Precisaremos investigá-lo antes de qualquer coisa...
 
-232
+230
 00:15:00,550 --> 00:15:04,090
 O homem diante de vocês
  está determinado a servir a Marinha!
 
-233
+231
 00:15:11,140 --> 00:15:14,270
 Já perdemos muitos
  de nossos irmãos de armas para piratas.
 
-234
+232
 00:15:14,270 --> 00:15:15,940
 Leve a sério
  sua missão na Marinha.
 
-235
+233
 00:15:17,190 --> 00:15:17,900
 Então...
 
-236
+234
 00:15:18,270 --> 00:15:20,150
 Permissão para alistar-se concedida!
 
-237
+235
 00:15:22,320 --> 00:15:23,150
 Sim, senhor!
 
-238
+236
 00:15:24,780 --> 00:15:27,110
 Sua atuação lá atrás foi péssima.
 
-239
+237
 00:15:27,110 --> 00:15:28,870
 Não duvido 
 eles terem percebido.
 
-240
+238
 00:15:29,450 --> 00:15:32,910
 Tenho certeza
  que o Koby vai saber se virar.
 
-241
+239
 00:15:32,910 --> 00:15:34,660
 Até que é uma boa maneira de partir.
 
-242
+240
 00:15:34,660 --> 00:15:36,870
 Todos nos odeiam, 
 então não dá pra dar pra atrás.
 
-243
+241
 00:15:37,120 --> 00:15:38,630
 Bem coisa de pirata!
 
-244
+242
 00:15:40,090 --> 00:15:41,130
 Falou e disse!
 
-245
+243
 00:15:41,130 --> 00:15:42,550
 Sr. Luffy!
 
-246
+244
 00:15:41,880 --> 00:15:42,550
 Hã?
 
-247
+245
 00:15:44,550 --> 00:15:48,890
 Muito obrigado! Jamais esquecerei o que fez por mim!
 
-248
+246
 00:15:49,680 --> 00:15:53,270
 É a primeira vez que vejo 
 um marinheiro agradecendo um pirata.
 
-249
+247
 00:15:56,390 --> 00:15:58,850
 A gente se vê por aí, Koby!
 
-250
+248
 00:15:59,350 --> 00:16:00,110
 Sr. Luffy...
 
-251
+249
 00:16:00,110 --> 00:16:02,320
 Tchau, moço!
 
-252
+250
 00:16:02,570 --> 00:16:05,030
 Sentido!
 
-253
+251
 00:16:07,990 --> 00:16:10,950
 Falou!
 
-254
+252
 00:16:11,740 --> 00:16:13,910
 Você fez um grande amigo.
 
-255
+253
 00:16:18,830 --> 00:16:19,960
 Sim, senhor!
 
-256
+254
 00:16:21,170 --> 00:16:25,800
 O código de conduta da Marinha
  proíbe a continência a piratas!
 
-257
+255
 00:16:25,800 --> 00:16:28,680
 Como punição, ficaremos sem refeição
  por três dias!
 
-258
+256
 00:16:28,680 --> 00:16:29,680
 Entendido?!
 
-259
+257
 00:16:29,680 --> 00:16:30,720
 – Sim, senhor!
 – Sim, senhor!
 
-260
+258
 00:16:33,810 --> 00:16:36,350
 É isso aí! Vamo lá!
 
-261
+259
 00:16:36,350 --> 00:16:40,770
 Rumo à Grand Line!
+

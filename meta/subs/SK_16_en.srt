@@ -1,1627 +1,1614 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:49,630 --> 00:01:59,620
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:52,970 --> 00:01:55,890
 Oh? Are you bringing that with you?
 
-4
+2
 00:01:57,180 --> 00:01:58,390
 Well...
 
-5
+3
 00:01:59,180 --> 00:02:01,980
 If I can't, then...
 
-6
+4
 00:02:02,980 --> 00:02:07,730
 I don't think you'll be needing it
 where we're going, but all right.
 
-7
+5
 00:02:07,730 --> 00:02:09,110
 Do as you wish.
 
-8
+6
 00:02:10,280 --> 00:02:12,650
 Th-Thank you!
 
-9
+7
 00:02:12,650 --> 00:02:15,280
 I-I really like this thing, so...
 
-10
+8
 00:02:30,510 --> 00:02:32,550
 Are you concerned about them?
 
-11
+9
 00:02:32,550 --> 00:02:33,840
 Oh, no...!
 
-12
+10
 00:02:34,840 --> 00:02:37,600
 There's no need to hold back.
 
-13
+11
 00:02:37,600 --> 00:02:44,190
 They were but cretins who couldn't
 understand the power of a god,
 
-14
+12
 00:02:44,190 --> 00:02:45,770
 unlike you.
 
-15
+13
 00:02:46,600 --> 00:02:51,280
 Frankly, a mind that can't be
 controlled by fear...
 
-16
+14
 00:02:51,280 --> 00:02:53,280
 can be so troublesome at times.
 
-17
+15
 00:02:53,280 --> 00:02:54,780
 Wouldn't you agree?
 
-18
+16
 00:02:54,780 --> 00:02:56,280
 Y-Yeah...
 
-19
+17
 00:02:56,280 --> 00:02:58,120
 You're right.
 
-20
+18
 00:03:04,580 --> 00:03:07,250
 I can't let him notice.
 
-21
+19
 00:03:07,250 --> 00:03:09,630
 I have no choice but to obey him.
 
-22
+20
 00:03:09,630 --> 00:03:12,710
 I need to be ready
 to escape at any moment!
 
-23
+21
 00:03:12,710 --> 00:03:13,970
 Until then...
 
-24
+22
 00:03:38,360 --> 00:03:39,240
 Whoa...
 
-25
+23
 00:03:39,870 --> 00:03:41,580
 What is this...?
 
-26
+24
 00:03:44,370 --> 00:03:46,790
 It's natural to be awestruck.
 
-27
+25
 00:03:46,790 --> 00:03:48,540
 There is only one in the world.
 
-28
+26
 00:03:48,540 --> 00:03:51,880
 A ship that I alone can control.
 
-29
+27
 00:03:53,670 --> 00:03:56,630
 After all, it's powered by lightning.
 
-30
+28
 00:03:57,510 --> 00:03:59,340
 Is that possible?
 
-31
+29
 00:03:59,340 --> 00:04:01,680
 It only requires my abundant energy
 
-32
+30
 00:04:01,680 --> 00:04:07,810
 and a conduit material
 to transmit the necessary charge.
 
-33
+31
 00:04:08,140 --> 00:04:11,520
 A material that can transmit energy?
 
-34
+32
 00:04:16,320 --> 00:04:18,070
 Precisely.
 
-35
+33
 00:04:18,070 --> 00:04:21,570
 The gold that laid
 waiting on this island.
 
-36
+34
 00:04:21,570 --> 00:04:24,950
 The people down below
 should feel blessed.
 
-37
+35
 00:04:24,950 --> 00:04:31,290
 They get to witness
 a rare spectacle before they die.
 
-38
+36
 00:04:34,170 --> 00:04:35,800
 A flying ship?!
 
-39
+37
 00:04:35,800 --> 00:04:37,420
 I can't believe it!
 
-40
+38
 00:04:37,420 --> 00:04:42,890
 If it really can fly, I won't have
 an opportunity to escape!
 
-41
+39
 00:04:46,770 --> 00:04:48,890
 This is the Ark Maxim.
 
-42
+40
 00:04:48,890 --> 00:04:52,610
 With this ark, we shall
 reach that boundless land...
 
-43
+41
 00:04:52,610 --> 00:04:55,270
 the Endless Vearth!
 
-44
+42
 00:05:43,660 --> 00:05:45,410
 We're out...
 
-45
+43
 00:05:45,410 --> 00:05:47,290
 We finally made it out...
 
-46
+44
 00:05:49,120 --> 00:05:51,250
 The ground is stone...
 
-47
+45
 00:05:51,250 --> 00:05:53,460
 What is this place?
 
-48
+46
 00:05:58,170 --> 00:06:00,130
 Did you see something?!
 
-49
+47
 00:06:02,630 --> 00:06:04,840
 Hey! Answer me!
 
-50
+48
 00:06:06,470 --> 00:06:08,680
 Luffy!
 
-51
+49
 00:06:13,350 --> 00:06:14,770
 We're out!
 
-52
+50
 00:06:15,810 --> 00:06:18,110
 We made it out!
 
-53
+51
 00:06:19,610 --> 00:06:21,490
 Check it out! Where are we?
 
-54
+52
 00:06:21,490 --> 00:06:22,610
 It looks like ruins.
 
-55
+53
 00:06:23,110 --> 00:06:26,620
 So it's here? The huge golden bell?
 
-56
+54
 00:06:28,120 --> 00:06:32,750
 Could this place be... our homeland?
 
-57
+55
 00:06:32,750 --> 00:06:34,750
 Oh? What's that?
 There's a huge hole...
 
-58
+56
 00:06:38,130 --> 00:06:39,170
 Luffy!
 
-59
+57
 00:06:39,170 --> 00:06:41,960
 Wait! What is it this time?!
 
-60
+58
 00:06:42,760 --> 00:06:45,930
 Where are you going?!
 
-61
+59
 00:06:48,760 --> 00:06:50,430
 Zoro!
 
-62
+60
 00:06:50,430 --> 00:06:52,890
 Hey! Snap out of it!
 
-63
+61
 00:06:54,270 --> 00:06:55,850
 How could this happen...
 
-64
+62
 00:06:56,650 --> 00:06:58,560
 with you here?!
 
-65
+63
 00:07:05,360 --> 00:07:06,660
 Nami...!
 
-66
+64
 00:07:06,660 --> 00:07:08,820
 Where's Nami?! She's not here!
 
-67
+65
 00:07:08,820 --> 00:07:10,790
 Wyper!
 
-68
+66
 00:07:11,990 --> 00:07:13,290
 Even Wyper...!
 
-69
+67
 00:07:15,290 --> 00:07:17,920
 It's that bazooka guy...
 
-70
+68
 00:07:17,920 --> 00:07:19,540
 He's really strong, but even so...
 
-71
+69
 00:07:19,540 --> 00:07:21,250
 Who did this to everyone?!
 
-72
+70
 00:07:22,420 --> 00:07:24,220
 Enel did!
 
-73
+71
 00:07:25,220 --> 00:07:27,430
 He's the only one...
 
-74
+72
 00:07:29,890 --> 00:07:32,010
 who's capable of doing this.
 
-75
+73
 00:07:37,440 --> 00:07:39,860
 Enel... Is he that god guy?
 
-76
+74
 00:07:39,860 --> 00:07:40,940
 Yes...
 
-77
+75
 00:07:40,940 --> 00:07:45,150
 My mantra didn't work
 while we were inside the snake,
 
-78
+76
 00:07:45,150 --> 00:07:48,450
 so I don't know
 what happened here, but...
 
-79
+77
 00:07:51,280 --> 00:07:52,030
 Robin!
 
-80
+78
 00:07:54,540 --> 00:07:56,160
 Miss Navigator...
 
-81
+79
 00:07:57,040 --> 00:07:59,000
 was taken away.
 
-82
+80
 00:07:59,790 --> 00:08:00,750
 H-Hey, wait!
 
-83
+81
 00:08:01,250 --> 00:08:02,500
 Take it easy!
 
-84
+82
 00:08:02,880 --> 00:08:06,340
 Was Nami taken by that god guy?
 
-85
+83
 00:08:06,340 --> 00:08:07,680
 Where?!
 
-86
+84
 00:08:07,680 --> 00:08:08,970
 I don't know.
 
-87
+85
 00:08:09,550 --> 00:08:11,220
 Listen carefully...
 
-88
+86
 00:08:12,050 --> 00:08:14,220
 The way things stand...
 
-89
+87
 00:08:14,770 --> 00:08:17,060
 this nation, Skypiea, will disappear.
 
-90
+88
 00:08:17,060 --> 00:08:19,270
 Huh?! The sky island...?!
 
-91
+89
 00:08:20,650 --> 00:08:22,650
 Our village, too?!
 
-92
+90
 00:08:24,280 --> 00:08:26,110
 Everything...
 
-93
+91
 00:08:26,780 --> 00:08:30,070
 He said that he'd return
 everyone in the sky...
 
-94
+92
 00:08:30,450 --> 00:08:32,320
 to the ground.
 
-95
+93
 00:08:43,420 --> 00:08:49,380
 So Enel is gonna head for
 the golden bell, right?
 
-96
+94
 00:08:49,970 --> 00:08:52,720
 Yes. I'm sure he's going there.
 
-97
+95
 00:08:52,720 --> 00:08:55,470
 But if you take too long
 and fail to find them in time,
 
-98
+96
 00:08:55,470 --> 00:08:57,810
 you won't get a second chance...
 
-99
+97
 00:08:57,810 --> 00:08:59,440
 Don't worry!
 
-100
+98
 00:09:00,230 --> 00:09:01,810
 I know where they are.
 
-101
+99
 00:09:01,810 --> 00:09:04,150
 There are two voices
 moving on this island.
 
-102
+100
 00:09:05,230 --> 00:09:07,690
 It must be Nami and Enel!
 
-103
+101
 00:09:12,570 --> 00:09:13,660
 Aisa.
 
-104
+102
 00:09:18,950 --> 00:09:21,370
 Take me to them!
 
-105
+103
 00:09:23,630 --> 00:09:26,090
 I can see Angel Island...!
 
-106
+104
 00:09:28,210 --> 00:09:30,340
 Attention everyone, heso!
 
-107
+105
 00:09:31,180 --> 00:09:34,720
 The wickedly profane
 Pagaya and his daughter,
 
-108
+106
 00:09:34,720 --> 00:09:39,100
 along with their accomplice, Gan Fall,
 the former god, are on the run!
 
-109
+107
 00:09:39,100 --> 00:09:41,600
 Please be careful!
 
-110
+108
 00:09:42,350 --> 00:09:47,590
 If you see the criminals,
 please alert me, McKinley, immediately!
 
-111
+109
 00:09:47,620 --> 00:09:50,860
 I repeat, alert me,
 McKinley, immediately!
 
-112
+110
 00:09:50,860 --> 00:09:52,820
 In the name of God Enel,
 
-113
+111
 00:09:52,820 --> 00:09:58,240
 we, the White Berets,
 will protect Skypiea's peace!
 
-114
+112
 00:09:58,240 --> 00:09:59,330
 – Heso!
 – Heso!
 
-115
+113
 00:09:59,660 --> 00:10:02,120
 Report! I have a report!
 
-116
+114
 00:10:03,500 --> 00:10:04,750
 What's the matter?
 
-117
+115
 00:10:04,750 --> 00:10:06,590
 Yes, sir! You see...
 
-118
+116
 00:10:06,590 --> 00:10:07,840
 What?!
 
-119
+117
 00:10:07,840 --> 00:10:10,550
 Pagaya's daughter
 has appeared at the harbor?!
 
-120
+118
 00:10:25,940 --> 00:10:29,070
 The blasphemer has entered Gate 1!
 
-121
+119
 00:10:29,070 --> 00:10:30,440
 Why?
 
-122
+120
 00:10:30,440 --> 00:10:33,700
 Does she want to be captured?!
 
-123
+121
 00:10:33,700 --> 00:10:36,070
 Don't let her get away!
 Capture her at any cost!
 
-124
+122
 00:10:38,950 --> 00:10:40,540
 Bring it on, criminal!
 
-125
+123
 00:10:44,290 --> 00:10:47,170
 Please get out of my way!
 
-126
+124
 00:10:52,460 --> 00:10:54,590
 What're you doing?! Out of my way!
 
-127
+125
 00:10:57,680 --> 00:11:00,640
 Why me...?
 
-128
+126
 00:11:01,020 --> 00:11:03,850
 – Captain!
 – Captain!
 
-129
+127
 00:11:11,280 --> 00:11:13,030
 – Captain!
 – Captain!
 
-130
+128
 00:11:21,910 --> 00:11:23,040
 N-No...
 
-131
+129
 00:11:23,370 --> 00:11:25,080
 Captain McKinley!
 
-132
+130
 00:11:25,080 --> 00:11:26,040
 It's the criminal!
 
-133
+131
 00:11:26,040 --> 00:11:27,670
 It's the woman who defied God!
 
-134
+132
 00:11:27,670 --> 00:11:28,420
 Stay away!
 
-135
+133
 00:11:28,420 --> 00:11:30,000
 God's reckoning is coming!
 
-136
+134
 00:11:38,390 --> 00:11:40,510
 What an enormous amount of gold...
 
-137
+135
 00:11:40,510 --> 00:11:42,640
 Remember that girl
 from Angel Beach?
 
-138
+136
 00:11:42,640 --> 00:11:48,060
 It sounds like she's causing
 quite a scene on Angel Island.
 
-139
+137
 00:11:48,060 --> 00:11:49,940
 Conis?! It can't be...
 
-140
+138
 00:11:49,940 --> 00:11:52,230
 She should be on our ship!
 
-141
+139
 00:11:52,570 --> 00:11:56,320
 There's a lot of commotion
 going on outside, too.
 
-142
+140
 00:11:56,320 --> 00:12:00,070
 However, there are
 more pressing matters...
 
-143
+141
 00:12:03,410 --> 00:12:08,120
 Th-That mantra ability you all have...
 
-144
+142
 00:12:08,920 --> 00:12:11,630
 It can even identify individuals?
 
-145
+143
 00:12:11,630 --> 00:12:15,590
 I wouldn't say it's perfect.
 
-146
+144
 00:12:15,590 --> 00:12:18,340
 But it's special in my case.
 
-147
+145
 00:12:19,680 --> 00:12:21,640
 In addition to my unique mantra,
 
-148
+146
 00:12:21,640 --> 00:12:27,020
 I can also hear conversations by using
 my lightning power to detect sound waves.
 
-149
+147
 00:12:27,020 --> 00:12:31,980
 If I hear even one word
 of blasphemy, I bestow my reckoning.
 
-150
+148
 00:12:31,980 --> 00:12:36,190
 As long as it's happening within
 this nation, it's a simple matter.
 
-151
+149
 00:12:36,190 --> 00:12:37,820
 So that's why...
 
-152
+150
 00:12:37,820 --> 00:12:41,490
 It certainly is an ability
 fit only for a god.
 
-153
+151
 00:12:43,580 --> 00:12:46,750
 Try as hard as you like to run
 and escape, people of the sky.
 
-154
+152
 00:12:46,750 --> 00:12:49,040
 This is the end of Skypiea!
 
-155
+153
 00:12:49,040 --> 00:12:52,330
 A party with angels
 dancing in the sky!
 
-156
+154
 00:12:53,460 --> 00:12:55,090
 Say, girl.
 
-157
+155
 00:12:55,090 --> 00:13:00,590
 Have you ever seen the faces of those
 who suddenly lose their footing?
 
-158
+156
 00:13:02,690 --> 00:13:04,180
 What am I gonna do?!
 
-159
+157
 00:13:04,180 --> 00:13:06,560
 If I don't escape now...
 
-160
+158
 00:13:06,560 --> 00:13:11,560
 No... Even if I manage to escape,
 the sky island will be gone...
 
-161
+159
 00:13:11,560 --> 00:13:13,150
 What can I do?!
 
-162
+160
 00:13:14,480 --> 00:13:15,320
 U-Um...
 
-163
+161
 00:13:16,900 --> 00:13:18,490
 Is something wrong, sir?!
 
-164
+162
 00:13:21,570 --> 00:13:22,990
 Who is that?
 
-165
+163
 00:13:23,820 --> 00:13:26,540
 No... it's nothing.
 
-166
+164
 00:13:30,370 --> 00:13:33,170
 Please... Please listen
 to what I have to say!
 
-167
+165
 00:13:34,290 --> 00:13:35,920
 Stay back! Don't come near us!
 
-168
+166
 00:13:35,920 --> 00:13:38,550
 Everyone, please listen!
 
-169
+167
 00:13:38,550 --> 00:13:40,220
 There's no time to lose!
 
-170
+168
 00:13:40,220 --> 00:13:43,140
 Please! Calm down and hear me out!
 
-171
+169
 00:13:43,140 --> 00:13:44,930
 Shut up! Stay back!
 
-172
+170
 00:13:44,930 --> 00:13:47,560
 Leave the island, you plague!
 
-173
+171
 00:13:47,560 --> 00:13:51,310
 Yeah! With you around, we'll also
 be struck by God's reckoning!
 
-174
+172
 00:13:51,310 --> 00:13:52,140
 You heretic!
 
-175
+173
 00:14:00,360 --> 00:14:01,780
 Don't come near me!
 
-176
+174
 00:14:03,530 --> 00:14:05,280
 This is a flame bazooka.
 
-177
+175
 00:14:06,580 --> 00:14:07,830
 I'll shoot!
 
-178
+176
 00:14:12,120 --> 00:14:15,830
 Everyone, please! Get to the edge
 of the clouds right away! To Cloud End!
 
-179
+177
 00:14:15,830 --> 00:14:17,420
 Escape to the Blue Sea!
 
-180
+178
 00:14:18,170 --> 00:14:21,300
 This nation is about to disappear!
 
-181
+179
 00:14:21,300 --> 00:14:23,550
 There is no time to waste!
 
-182
+180
 00:14:23,550 --> 00:14:27,930
 Use every boat there is
 and escape Angel Island!
 
-183
+181
 00:14:28,470 --> 00:14:30,720
 What is she babbling about...?
 
-184
+182
 00:14:32,600 --> 00:14:36,110
 God Enel intends
 to erase this nation!
 
-185
+183
 00:14:36,110 --> 00:14:38,820
 If you stay here, you'll all die!
 
-186
+184
 00:14:40,480 --> 00:14:41,690
 Don't be ridiculous!
 
-187
+185
 00:14:41,690 --> 00:14:43,110
 What're you trying to pull?!
 
-188
+186
 00:14:43,110 --> 00:14:44,240
 Is this revenge?!
 
-189
+187
 00:14:44,240 --> 00:14:46,120
 You're taking this nonsense too far!
 
-190
+188
 00:14:46,120 --> 00:14:48,370
 Do you want us to be punished, too?!
 
-191
+189
 00:14:49,410 --> 00:14:51,370
 Don't insult God Enel!
 
-192
+190
 00:14:54,120 --> 00:14:55,210
 I'm sorry...
 
-193
+191
 00:15:09,890 --> 00:15:11,140
 What?
 
-194
+192
 00:15:11,140 --> 00:15:12,350
 She dropped her weapon?!
 
-195
+193
 00:15:15,190 --> 00:15:16,520
 Hey! Capture her!
 
-196
+194
 00:15:15,810 --> 00:15:16,520
 Yes, sir!
 
-197
+195
 00:15:16,520 --> 00:15:17,690
 I...
 
-198
+196
 00:15:17,690 --> 00:15:18,310
 I...
 
-199
+197
 00:15:18,310 --> 00:15:22,320
 I renounce Enel as god!
 
-200
+198
 00:15:22,320 --> 00:15:23,240
 I renounce Enel as god!
 
-201
+199
 00:15:23,240 --> 00:15:27,660
 I renounce Enel as god!
 
-202
+200
 00:15:30,410 --> 00:15:31,580
 Father...
 
-203
+201
 00:15:37,080 --> 00:15:38,130
 This is bad!
 
-204
+202
 00:15:38,130 --> 00:15:38,920
 Hurry, run!
 
-205
+203
 00:15:38,920 --> 00:15:40,920
 Evacuate! Evacuate!
 
-206
+204
 00:15:40,920 --> 00:15:43,010
 God's reckoning is coming!
 
-207
+205
 00:15:58,850 --> 00:16:00,310
 Huh?
 
-208
+206
 00:16:00,310 --> 00:16:01,060
 Strange...
 
-209
+207
 00:16:01,440 --> 00:16:03,150
 Her reckoning wasn't delivered.
 
-210
+208
 00:16:03,150 --> 00:16:04,150
 Why...?
 
-211
+209
 00:16:04,150 --> 00:16:08,280
 But… she openly
 insulted God himself…
 
-212
+210
 00:16:09,870 --> 00:16:11,700
 What's going on...?
 
-213
+211
 00:16:11,700 --> 00:16:15,160
 As you can see, it no longer matters
 whether I am eliminated.
 
-214
+212
 00:16:15,160 --> 00:16:17,710
 "Skypiea will be eradicated."
 
-215
+213
 00:16:17,710 --> 00:16:20,460
 A member of the Holy Host
 escaped Upper Yard,
 
-216
+214
 00:16:20,460 --> 00:16:23,840
 risking his life to deliver
 that message to all of you.
 
-217
+215
 00:16:23,840 --> 00:16:24,550
 He...
 
-218
+216
 00:16:25,760 --> 00:16:28,970
 He received God's reckoning,
 along with my father.
 
-219
+217
 00:16:32,430 --> 00:16:34,180
 What did she say about God?
 
-220
+218
 00:16:34,180 --> 00:16:35,270
 What?!
 
-221
+219
 00:16:35,890 --> 00:16:38,310
 Doesn't God help us?
 
-222
+220
 00:16:38,770 --> 00:16:40,770
 What's she saying?
 
-223
+221
 00:16:41,900 --> 00:16:43,570
 There's no time to lose.
 
-224
+222
 00:16:43,570 --> 00:16:46,900
 Everyone, evacuate
 to Cloud End immediately!
 
-225
+223
 00:16:46,900 --> 00:16:47,740
 It can't be...
 
-226
+224
 00:16:48,570 --> 00:16:50,110
 H-Hold on a second!
 
-227
+225
 00:16:50,110 --> 00:16:50,740
 Huh?
 
-228
+226
 00:16:50,740 --> 00:16:53,490
 Don't be ridiculous!
 We can't leave just like that!
 
-229
+227
 00:16:53,490 --> 00:16:56,620
 We were born and raised
 in this sky! After all these years...
 
-230
+228
 00:16:56,620 --> 00:16:58,160
 That's right!
 
-231
+229
 00:16:58,160 --> 00:17:01,080
 We've never even been
 to the Blue Sea!
 
-232
+230
 00:17:01,080 --> 00:17:03,340
 How could we live there? Besides...
 
-233
+231
 00:17:03,340 --> 00:17:05,880
 So you're just going to
 wait here to die?!
 
-234
+232
 00:17:06,460 --> 00:17:10,970
 For the past six years, you've gotten
 to know the kind of man Enel is.
 
-235
+233
 00:17:10,970 --> 00:17:15,470
 Once he commits to something,
 he always follows through!
 
-236
+234
 00:17:15,470 --> 00:17:16,310
 If you still–
 
-237
+235
 00:17:16,310 --> 00:17:18,230
 But it may not happen!
 
-238
+236
 00:17:18,230 --> 00:17:19,940
 Perhaps there could be a miracle...
 
-239
+237
 00:17:20,480 --> 00:17:22,650
 and this sky island could still survive.
 
-240
+238
 00:17:22,650 --> 00:17:24,520
 Y-Yeah.
 
-241
+239
 00:17:24,520 --> 00:17:26,150
 God could change his mind.
 
-242
+240
 00:17:26,150 --> 00:17:27,360
 Yeah...
 
-243
+241
 00:17:27,360 --> 00:17:28,320
 If that happens...
 
-244
+242
 00:17:47,840 --> 00:17:50,590
 What we know better than anything...
 
-245
+243
 00:17:51,010 --> 00:17:54,970
 is that he has the power to cast us
 into despair at any moment!
 
-246
+244
 00:17:54,970 --> 00:17:58,810
 Well, that moment draws near!
 
-247
+245
 00:17:58,810 --> 00:18:02,560
 We can't keep waiting
 for a miracle to happen!
 
-248
+246
 00:18:02,940 --> 00:18:06,520
 Right now, there is no
 divine power in this country!
 
-249
+247
 00:18:07,230 --> 00:18:08,530
 Before you pray...
 
-250
+248
 00:18:08,900 --> 00:18:13,110
 Before you turn a blind eye to reality,
 you have to do what you can!
 
-251
+249
 00:18:13,700 --> 00:18:17,240
 The days when you could
 lay low and survive are over!
 
-252
+250
 00:18:17,240 --> 00:18:18,540
 You have to take action!
 
-253
+251
 00:18:18,990 --> 00:18:22,870
 Blaming someone later
 won't save your lives now!
 
-254
+252
 00:18:25,790 --> 00:18:26,630
 So...
 
-255
+253
 00:18:27,460 --> 00:18:29,210
 make the decision to leave!
 
-256
+254
 00:18:32,380 --> 00:18:33,550
 Escape to the Blue Sea!
 
-257
+255
 00:18:33,550 --> 00:18:34,510
 Grab your things!
 
-258
+256
 00:18:34,510 --> 00:18:35,470
 To Cloud End!
 
-259
+257
 00:18:35,470 --> 00:18:36,350
 Do as she says!
 
-260
+258
 00:18:36,350 --> 00:18:37,550
 Get to Cloud End!
 
-261
+259
 00:18:37,550 --> 00:18:38,180
 Hurry up!
 
-262
+260
 00:18:38,180 --> 00:18:40,520
 There's no time to waste!
 
-263
+261
 00:18:42,640 --> 00:18:43,730
 Excuse me!
 
-264
+262
 00:18:44,100 --> 00:18:46,480
 Do you know what happened
 to the Holy Host?!
 
-265
+263
 00:18:46,480 --> 00:18:49,020
 My husband is in the Host.
 I want to escape with him!
 
-266
+264
 00:18:49,020 --> 00:18:50,860
 My son is in it, too!
 
-267
+265
 00:18:50,860 --> 00:18:52,490
 Are the Holy Host members okay?!
 
-268
+266
 00:18:52,490 --> 00:18:55,660
 My son, too! My only son left
 for duty and hasn't come back yet!
 
-269
+267
 00:18:54,360 --> 00:18:55,660
 Um... well...
 
-270
+268
 00:18:57,570 --> 00:18:59,330
 The Holy Host is probably...
 
-271
+269
 00:18:59,910 --> 00:19:02,120
 I don't know...
 
-272
+270
 00:19:02,120 --> 00:19:05,000
 What has the Holy Host been
 forced to do for all this time?
 
-273
+271
 00:19:05,000 --> 00:19:06,080
 Where are they?!
 
-274
+272
 00:19:06,080 --> 00:19:08,210
 Isn't there anything you can tell us?
 
-275
+273
 00:19:11,170 --> 00:19:15,510
 We, the White Berets, will look into
 the matter of the Holy Host!
 
-276
+274
 00:19:15,510 --> 00:19:19,180
 We'll have them catch up
 with all of you later!
 
-277
+275
 00:19:19,180 --> 00:19:21,140
 Please go. There's no time!
 
-278
+276
 00:19:21,140 --> 00:19:22,600
 Captain McKinley...
 
-279
+277
 00:19:22,600 --> 00:19:24,270
 Hurry and leave!
 
-280
+278
 00:19:24,270 --> 00:19:25,100
 Captain!
 
-281
+279
 00:19:26,100 --> 00:19:29,060
 I can guess what fate
 awaits the Holy Host.
 
-282
+280
 00:19:30,020 --> 00:19:32,530
 I know the kind of man Enel is.
 
-283
+281
 00:19:32,530 --> 00:19:34,570
 I'm certain of it.
 
-284
+282
 00:19:34,570 --> 00:19:39,570
 However, the evacuation of this island
 and its people is our top priority.
 
-285
+283
 00:19:39,570 --> 00:19:41,790
 I won't let this become another Birka.
 
-286
+284
 00:19:41,790 --> 00:19:42,830
 Birka...?
 
-287
+285
 00:19:42,830 --> 00:19:47,540
 A sky island in the far southeast
 where Enel was born and raised.
 
-288
+286
 00:19:47,540 --> 00:19:51,590
 I heard that it disappeared
 without a trace six years ago.
 
-289
+287
 00:19:51,590 --> 00:19:53,550
 Six...? Don't tell me...
 
-290
+288
 00:19:53,550 --> 00:19:54,550
 That's right.
 
-291
+289
 00:19:54,550 --> 00:19:58,510
 Enel destroyed his homeland
 and came to this nation.
 
-292
+290
 00:19:59,470 --> 00:20:02,060
 I heard Birka had
 strong warriors as well,
 
-293
+291
 00:20:02,060 --> 00:20:04,640
 but they were nothing against Enel.
 
-294
+292
 00:20:05,350 --> 00:20:06,940
 He's invincible. He's a "god."
 
-295
+293
 00:20:08,810 --> 00:20:11,310
 It may be true.
 
-296
+294
 00:20:11,770 --> 00:20:13,650
 You might already know,
 
-297
+295
 00:20:13,650 --> 00:20:18,450
 but we were also members
 of Gan Fall's Holy Host.
 
-298
+296
 00:20:18,450 --> 00:20:22,080
 We believed that by appearing
 to betray the Holy Host
 
-299
+297
 00:20:22,080 --> 00:20:26,540
 and obeying Enel, we could stay on
 the island and protect these people.
 
-300
+298
 00:20:27,080 --> 00:20:31,250
 What a pathetic plan
 that turned out to be!
 
-301
+299
 00:20:31,710 --> 00:20:34,710
 We tried to make sure
 no one would rebel against God,
 
-302
+300
 00:20:34,710 --> 00:20:38,090
 or at least that no one
 would anger him.
 
-303
+301
 00:20:38,090 --> 00:20:39,550
 That was all we could do!
 
-304
+302
 00:20:40,180 --> 00:20:45,470
 Shameful! Shameful!
 How utterly shameful!
 
-305
+303
 00:20:47,890 --> 00:20:49,390
 I don't think so.
 
-306
+304
 00:20:51,060 --> 00:20:53,860
 Thank you for telling me the truth.
 
-307
+305
 00:20:55,030 --> 00:20:56,070
 Captain...
 
-308
+306
 00:20:56,650 --> 00:20:59,700
 Um... can I ask you
 to take care of the people here?
 
-309
+307
 00:20:59,700 --> 00:21:02,030
 Of course, but where are you going?
 
-310
+308
 00:21:02,030 --> 00:21:05,660
 Well, there are a few people who
 don't know the escape route.
 
-311
+309
 00:21:05,660 --> 00:21:06,750
 They're my friends...
 
-312
+310
 00:21:07,370 --> 00:21:08,710
 I have to go back.
 
-313
+311
 00:21:09,250 --> 00:21:10,580
 Thank you!
 
-314
+312
 00:21:12,670 --> 00:21:14,420
 Oh, the Blue Sea people...
 
-315
+313
 00:21:16,050 --> 00:21:16,710
 – Heso!
 – Heso!
 
-316
+314
 00:21:19,420 --> 00:21:20,380
 Heso!
 
-317
+315
 00:21:41,200 --> 00:21:43,700
 I'm not sure I can carry everyone...
 
-318
+316
 00:21:45,410 --> 00:21:47,330
 Regardless, we need to...
 
-319
+317
 00:21:48,410 --> 00:21:50,710
 escape to the upper area somehow.
 
-320
+318
 00:22:00,220 --> 00:22:01,720
 Aisa!
 
-321
+319
 00:22:01,720 --> 00:22:04,050
 You're sure it's this way, right?!
 
-322
+320
 00:22:04,050 --> 00:22:06,300
 Yeah! We're very close!
 
-323
+321
 00:22:06,300 --> 00:22:07,890
 I'm sure of it!
 
-324
+322
 00:22:07,890 --> 00:22:08,720
 Okay!
 
-325
+323
 00:22:12,850 --> 00:22:16,820
 That's it! Luffy! The hole
 on the left! That's the place!
 
-326
+324
 00:22:16,820 --> 00:22:18,190
 That's the place?!
 
-327
+325
 00:22:18,190 --> 00:22:19,780
 Alright!
 
-328
+326
 00:22:28,790 --> 00:22:33,330
 As I thought, it seems there were
 more than five survivors on this island...
 
-329
+327
 00:22:33,330 --> 00:22:37,460
 Honestly... where could
 they possibly have been hiding?
 
-330
+328
 00:22:37,460 --> 00:22:38,300
 Could it be...?
 
-331
+329
 00:22:44,510 --> 00:22:46,390
 How aggravating...
 
-332
+330
 00:22:47,260 --> 00:22:50,470
 So my prophecy did not come true.
 
-333
+331
 00:22:52,730 --> 00:22:57,190
 Are you that Enel guy?!
 
-334
+332
 00:23:08,910 --> 00:23:11,330
 Luffy!
 
-335
+333
 00:23:12,540 --> 00:23:15,210
 What have you been doing...
 
-336
+334
 00:23:15,210 --> 00:23:16,580
 to my friends?!
 
-337
+335
 00:23:18,630 --> 00:23:20,460
 Which pieces of filth, exactly?
 
-338
+336
 00:23:20,800 --> 00:23:22,460
 Stay right there!
 
-339
+337
 00:23:22,460 --> 00:23:23,970
 I'm gonna come kick your ass!
 
-340
+338
 00:23:23,970 --> 00:23:25,840
 Mind your tongue!
 
-341
+339
 00:23:25,840 --> 00:23:27,720
 I am God!
 
-342
+340
 00:23:27,720 --> 00:23:30,140
 What makes you a god?!
 
-343
+341
 00:23:30,140 --> 00:23:33,600
 He's picking a fight with Enel big time.
 
-344
+342
 00:23:33,600 --> 00:23:35,890
 Are you gonna be okay, Luffy?
 
-345
+343
 00:23:36,600 --> 00:23:38,770
 H-Hey, Luffy! Be caref–
 
-346
+344
 00:23:43,610 --> 00:23:47,160
 I can hear it now,
 the party of angels...
 
-347
+345
 00:23:47,160 --> 00:23:50,580
 It seems that the flock
 has learned of Skypiea's fate.
 
-348
+346
 00:23:52,120 --> 00:23:55,960
 I wonder how far they'll get before
 the ground falls beneath their feet.
 
-349
+347
 00:23:55,960 --> 00:23:57,120
 Like I said...
 
-350
+348
 00:23:57,120 --> 00:23:59,880
 what makes you a god?!
 
-351
+349
 00:24:00,920 --> 00:24:02,000
 You shall see...
 
-352
+350
 00:24:08,510 --> 00:24:09,930
 I get it now...
 
-353
+351
 00:24:09,930 --> 00:24:13,060
 You're no ordinary human, either.
 
-354
+352
 00:24:13,060 --> 00:24:15,890
 But as a lowly paramecia…
 
-355
+353
 00:24:15,890 --> 00:24:17,390
 you haven't got a chance!
 
-356
+354
 00:24:18,560 --> 00:24:22,230
 Before me, all is futile!
 
-357
+355
 00:24:22,980 --> 00:24:25,490
 Hence, I am God.
 
-358
+356
 00:24:27,490 --> 00:24:28,200
 El...
 
-359
+357
 00:24:29,660 --> 00:24:31,070
 Thor!
 
-360
+358
 00:24:33,030 --> 00:24:34,450
 Luffy!
 
-361
+359
 00:24:39,120 --> 00:24:40,540
 Luffy...
 
-362
+360
 00:24:41,380 --> 00:24:42,880
 Oh, no...
 
-363
+361
 00:25:02,810 --> 00:25:05,570
 Well done, dodging that attack...
 
-364
+362
 00:25:05,570 --> 00:25:07,280
 60 Million Volts...
 
-365
+363
 00:25:07,280 --> 00:25:08,740
 What?! Dodged it?!
 
-366
+364
 00:25:09,110 --> 00:25:11,110
 Thunder Serpent!
 
-367
+365
 00:25:25,380 --> 00:25:26,840
 100 Million Volts...
 
-368
+366
 00:25:27,710 --> 00:25:28,840
 Vari!
 
-369
+367
 00:25:32,260 --> 00:25:33,390
 Of course...
 
-370
+368
 00:25:33,390 --> 00:25:36,100
 It makes sense
 when you think about it!
 
-371
+369
 00:25:36,100 --> 00:25:38,310
 Luffy is immune to lightning...
 
-372
+370
 00:25:38,770 --> 00:25:40,270
 because he's rubber!
 
-373
+371
 00:25:40,270 --> 00:25:41,980
 That's...
 
-374
+372
 00:25:41,980 --> 00:25:44,770
 enough!
 
-375
+373
 00:26:01,040 --> 00:26:02,420
 Calm down!
 
-376
+374
 00:26:02,420 --> 00:26:05,790
 Physical attacks can't affect me!
 
-377
+375
 00:26:05,790 --> 00:26:07,670
 Come on, this Blue Sea monkey i–
 
-378
+376
 00:26:11,840 --> 00:26:15,720
 His lightning power
 is completely ineffective!
 
-379
+377
 00:26:15,720 --> 00:26:19,560
 Just the idea of a human who's
 unaffected by lightning...
 
-380
+378
 00:26:19,560 --> 00:26:23,310
 is something even Enel
 himself could never imagine.
 
-381
+379
 00:26:30,530 --> 00:26:34,410
 Could it be that Luffy is Enel's...
 
-382
+380
 00:26:34,410 --> 00:26:36,620
 one and only natural enemy?!
+

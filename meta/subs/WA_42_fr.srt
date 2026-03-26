@@ -2705,10 +2705,6 @@ m 1268 779 b 1268.3 780.3 1268.7 781.7 1269 783 1268.7 781.7 1268.3 780.3 1268 7
 00:32:43,980 --> 00:32:54,160
 Jinbe, "Le Paladin des Mers"
 
-Timonier de l'équipage au chapeau de paille
-
-Prime : 438 Millions de Berrys
-
 632
 00:00:00,000 --> 00:00:02,890
 Déploie ta carte sans limite
@@ -2796,3 +2792,4 @@ Reste fidèle à toi-même jusqu'au bout !
 653
 00:01:17,930 --> 00:01:22,810
 Rêve et atteins ton objectif !
+

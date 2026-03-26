@@ -1801,15 +1801,9 @@ Ouest du Palais
 00:32:18,080 --> 00:32:24,260
 Mr 7
 
-Agent Frontière
-Baroque Works
-
 403
 00:32:18,080 --> 00:32:24,260
 Miss Fathers Day
-
-Agente Frontière
-Baroque Works
 
 404
 00:00:12,900 --> 00:00:14,510
@@ -10420,3 +10414,4 @@ Cours vers le paradis et
 2554
 00:01:40,240 --> 00:01:45,910
 Crois au monde des merveilles !
+

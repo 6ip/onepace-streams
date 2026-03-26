@@ -3893,3 +3893,4 @@ Même si vous quittez ce navire et finissez dans un autre monde,
 957
 00:20:16,350 --> 00:20:24,600
 Je suis sûr que nous pourrons tous sourire à la fin.
+

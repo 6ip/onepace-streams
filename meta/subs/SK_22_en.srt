@@ -1,1537 +1,1524 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:50,050 --> 00:02:00,040
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:51,800 --> 00:01:53,180
 Luffy...
 
-4
+2
 00:01:53,180 --> 00:01:57,350
 Enel most likely has
 that golden bell by now.
 
-5
+3
 00:02:00,730 --> 00:02:03,770
 Then I'll just have to take it back!
 
-6
+4
 00:02:03,770 --> 00:02:05,060
 I'm borrowing this!
 
-7
+5
 00:02:19,830 --> 00:02:24,500
 Even Heaven's Gate... was blown
 away in the blink of an eye.
 
-8
+6
 00:02:24,920 --> 00:02:27,420
 I can't believe Angel Island is gone...
 
-9
+7
 00:02:27,420 --> 00:02:30,050
 What're we supposed to do now?
 
-10
+8
 00:02:30,050 --> 00:02:33,800
 For now, let's head to Cloud End
 and escape to the Blue Sea.
 
-11
+9
 00:02:33,800 --> 00:02:35,050
 We have no other choice!
 
-12
+10
 00:02:35,050 --> 00:02:39,220
 But there are still so many people
 in the White-White Sea!
 
-13
+11
 00:02:39,760 --> 00:02:41,560
 What are we supposed to do?!
 
-14
+12
 00:02:41,560 --> 00:02:45,770
 The milky roads are gone, so how do we
 get those ships down to the White Sea?!
 
-15
+13
 00:02:45,770 --> 00:02:48,190
 So we're just giving up on them?!
 
-16
+14
 00:03:03,160 --> 00:03:06,330
 It won't be long before
 this place is blown up too!
 
-17
+15
 00:03:09,630 --> 00:03:12,130
 The White-White Sea is...
 
-18
+16
 00:03:15,050 --> 00:03:18,720
 Skypiea is fading away...
 
-19
+17
 00:03:34,900 --> 00:03:36,900
 So this is it...
 
-20
+18
 00:03:38,780 --> 00:03:40,160
 Magnificent!
 
-21
+19
 00:03:41,870 --> 00:03:47,370
 The glorious bell, pride of
 the legendary city of Shandora!
 
-22
+20
 00:03:47,370 --> 00:03:49,880
 Amazing!
 
-23
+21
 00:03:49,880 --> 00:03:53,340
 How fitting that I, God,
 should possess such a wonder!
 
-24
+22
 00:03:53,340 --> 00:03:58,550
 The bell that proclaimed the start of
 this land's 400-year-old conflict...
 
-25
+23
 00:03:59,090 --> 00:04:02,430
 Heads up! Something else is falling!
 
-26
+24
 00:04:02,430 --> 00:04:03,010
 What now...?
 
-27
+25
 00:04:03,350 --> 00:04:04,930
 Hit the deck!
 
-28
+26
 00:04:09,020 --> 00:04:09,940
 A leaf...
 
-29
+27
 00:04:15,690 --> 00:04:16,690
 Oh?
 
-30
+28
 00:04:17,200 --> 00:04:19,030
 There's something written on it...
 
-31
+29
 00:04:19,950 --> 00:04:20,910
 A message!
 
-32
+30
 00:04:21,320 --> 00:04:23,030
 It's from Luffy and Nami!
 
-33
+31
 00:04:24,450 --> 00:04:25,870
 What does it say?!
 
-34
+32
 00:04:26,790 --> 00:04:30,830
 "Chop down this huge vine
 so it falls toward the west."
 
-35
+33
 00:04:30,830 --> 00:04:33,800
 What?!
 
-36
+34
 00:04:33,800 --> 00:04:37,510
 And... what would be
 the point of doing that?
 
-37
+35
 00:04:51,770 --> 00:04:55,570
 I've accomplished all
 that I set out to do.
 
-38
+36
 00:04:55,570 --> 00:04:57,190
 All that remains...
 
-39
+37
 00:05:00,450 --> 00:05:04,330
 is to destroy this land and the
 cumuloimperator clouds with my Raigo
 
-40
+38
 00:05:04,330 --> 00:05:07,200
 and set off for the Endless Vearth.
 
-41
+39
 00:05:10,580 --> 00:05:14,340
 Now that the time has come,
 I almost hate to go.
 
-42
+40
 00:05:18,630 --> 00:05:19,550
 Enel!
 
-43
+41
 00:05:20,550 --> 00:05:22,220
 That fiend!
 
-44
+42
 00:05:23,220 --> 00:05:26,930
 Is it just me, or is this one
 bigger than before...?
 
-45
+43
 00:05:27,890 --> 00:05:30,810
 We... can kiss our escape goodbye...
 
-46
+44
 00:05:32,060 --> 00:05:34,520
 We're stuck here!
 
-47
+45
 00:05:41,150 --> 00:05:43,320
 Farewell, Skypiea.
 
-48
+46
 00:05:46,280 --> 00:05:49,700
 It's even bigger than
 last time! That bastard!
 
-49
+47
 00:05:49,700 --> 00:05:51,120
 True.
 
-50
+48
 00:05:51,120 --> 00:05:53,120
 Now that he's got the golden bell,
 
-51
+49
 00:05:53,120 --> 00:05:55,540
 he no longer has any
 business with this land.
 
-52
+50
 00:05:56,880 --> 00:05:58,840
 Nami, weren't you going to escape?
 
-53
+51
 00:06:01,840 --> 00:06:03,840
 You expect me to leave now?
 
-54
+52
 00:06:03,840 --> 00:06:06,050
 You want to ring that
 golden bell, right?
 
-55
+53
 00:06:06,550 --> 00:06:08,970
 Yeah! I'm gonna ring it!
 
-56
+54
 00:06:09,970 --> 00:06:13,600
 Oh, please, you can't
 even control the waver.
 
-57
+55
 00:06:13,600 --> 00:06:18,570
 You'll just keep jumping anyway if I leave,
 so let me shoot you up there instead.
 
-58
+56
 00:06:21,150 --> 00:06:21,990
 In return...
 
-59
+57
 00:06:24,280 --> 00:06:27,490
 promise me I'll survive!
 
-60
+58
 00:06:28,370 --> 00:06:30,410
 Yeah, alright! Thanks!
 
-61
+59
 00:06:31,370 --> 00:06:33,920
 Everyone's still down there!
 
-62
+60
 00:06:33,920 --> 00:06:37,130
 We've only got one shot at this!
 
-63
+61
 00:06:38,500 --> 00:06:42,630
 Please tell me you all received
 my message down there...
 
-64
+62
 00:06:44,340 --> 00:06:48,390
 They're gonna jump to the ship by
 ramping off the vine as it falls?!
 
-65
+63
 00:06:48,890 --> 00:06:50,600
 What else could it mean?
 
-66
+64
 00:06:51,220 --> 00:06:53,390
 That's crazy...
 
-67
+65
 00:06:53,390 --> 00:06:55,850
 Feel free to go up and stop him.
 
-68
+66
 00:06:55,850 --> 00:06:57,230
 He won't stop and you know it!
 
-69
+67
 00:06:59,270 --> 00:07:03,240
 Regardless of how reckless it is,
 we have to let him try!
 
-70
+68
 00:07:05,530 --> 00:07:07,280
 Wh-What the...?!
 
-71
+69
 00:07:07,280 --> 00:07:08,490
 Long Nose!
 
-72
+70
 00:07:08,490 --> 00:07:09,830
 Yeah, I got him!
 
-73
+71
 00:07:11,410 --> 00:07:13,660
 We'll fall to the ruins at this rate!
 
-74
+72
 00:07:13,660 --> 00:07:15,370
 Keep away from the vine for now!
 
-75
+73
 00:07:15,370 --> 00:07:16,580
 Escape to solid ground!
 
-76
+74
 00:07:19,500 --> 00:07:20,750
 This one's up to me!
 
-77
+75
 00:07:20,750 --> 00:07:22,630
 Cut it toward the ship, right?!
 
-78
+76
 00:07:22,630 --> 00:07:23,710
 What?! But...!
 
-79
+77
 00:07:24,220 --> 00:07:29,800
 The only ones on this sky island who can
 reach Enel before that thing is dropped...
 
-80
+78
 00:07:29,800 --> 00:07:30,470
 Hey, Zoro!
 
-81
+79
 00:07:30,850 --> 00:07:32,970
 ...are those two!
 
-82
+80
 00:07:38,350 --> 00:07:40,940
 Neither fight nor flight
 will serve you now.
 
-83
+81
 00:07:41,860 --> 00:07:43,990
 Is it still that difficult to grasp?
 
-84
+82
 00:07:43,990 --> 00:07:49,910
 Your fate was sealed the moment you
 became part of the survival game.
 
-85
+83
 00:07:52,660 --> 00:07:55,120
 I-I-Is he okay?!
 
-86
+84
 00:07:55,120 --> 00:07:56,410
 We're counting on you!
 
-87
+85
 00:07:56,410 --> 00:08:01,040
 You're the only one who
 can cut that thing down!
 
-88
+86
 00:08:03,960 --> 00:08:07,050
 Quit making all these holes, dammit!
 
-89
+87
 00:08:18,890 --> 00:08:20,690
 Alright! He cut it!
 
-90
+88
 00:08:24,480 --> 00:08:25,650
 Zoro!
 
-91
+89
 00:08:34,240 --> 00:08:36,250
 Trifling insects!
 
-92
+90
 00:08:41,210 --> 00:08:43,090
 You bastard!
 
-93
+91
 00:08:43,090 --> 00:08:46,420
 B-B-But he did it! He cut it!
 
-94
+92
 00:08:46,920 --> 00:08:48,590
 Oh no...
 
-95
+93
 00:08:48,590 --> 00:08:49,260
 Look!
 
-96
+94
 00:08:52,180 --> 00:08:53,800
 It's not coming down...
 
-97
+95
 00:08:54,560 --> 00:08:55,810
 He cut it, though!
 
-98
+96
 00:08:56,430 --> 00:08:59,140
 What a tough vine!
 
-99
+97
 00:08:59,140 --> 00:09:01,600
 Can we even be sure it's a real plant?!
 
-100
+98
 00:09:01,600 --> 00:09:04,110
 How pathetic...
 
-101
+99
 00:09:04,110 --> 00:09:06,570
 As if meddling outsiders
 have what it takes...
 
-102
+100
 00:09:06,940 --> 00:09:08,860
 Wyper, don't do it!
 
-103
+101
 00:09:08,860 --> 00:09:10,150
 Quiet!
 
-104
+102
 00:09:10,650 --> 00:09:15,280
 We inherited Kalgara's wishes, so it's vital
 that we be the ones to ring that bell!
 
-105
+103
 00:09:15,280 --> 00:09:18,660
 Straw Hat never had
 anything to do with this!
 
-106
+104
 00:09:18,660 --> 00:09:20,160
 Leave him be, Robin!
 
-107
+105
 00:09:20,160 --> 00:09:25,210
 He's too injured to get in our way!
 We have to focus on knocking over that vine!
 
-108
+106
 00:09:25,210 --> 00:09:26,550
 Luffy and Nami depend on it!
 
-109
+107
 00:09:27,550 --> 00:09:31,340
 So far, Zoro's cut half of the stem...
 
-110
+108
 00:09:31,340 --> 00:09:34,140
 The whole thing should be
 tilting by now.
 
-111
+109
 00:09:34,140 --> 00:09:37,470
 When I attack it with my
 Dance of Exploding Stars...
 
-112
+110
 00:09:38,970 --> 00:09:42,940
 it'll collapse with a chilling scream!
 
-113
+111
 00:09:43,940 --> 00:09:48,440
 As usual, it has fallen to me to push
 our pirate crew across the finish line!
 
-114
+112
 00:09:48,440 --> 00:09:53,410
 Robin, see to our fallen allies!
 
-115
+113
 00:09:54,280 --> 00:09:56,240
 They look like a kashiwa-mochi cake.
 
-116
+114
 00:09:56,240 --> 00:09:57,660
 Full speed ahead!
 
-117
+115
 00:10:05,040 --> 00:10:10,970
 Four hundred years ago, an explorer
 told a lie that he saw a city of gold.
 
-118
+116
 00:10:12,590 --> 00:10:16,800
 Although he became the object of ridicule,
 his descendants believed his words...
 
-119
+117
 00:10:17,390 --> 00:10:21,310
 and continue to search for
 the City of Gold in the Blue Sea.
 
-120
+118
 00:10:31,820 --> 00:10:33,820
 If we ring the golden bell,
 
-121
+119
 00:10:33,820 --> 00:10:37,030
 we can let them know
 the City of Gold is in the sky.
 
-122
+120
 00:10:38,080 --> 00:10:41,250
 That's what that
 straw hat boy is thinking.
 
-123
+121
 00:10:41,250 --> 00:10:42,910
 Exploding Star!
 
-124
+122
 00:10:43,620 --> 00:10:45,420
 What better reason could there be?
 
-125
+123
 00:10:46,380 --> 00:10:48,090
 That's romance.
 
-126
+124
 00:10:49,040 --> 00:10:50,880
 Even in a situation like this...
 
-127
+125
 00:10:51,920 --> 00:10:54,550
 going so far as to lose
 his chance to escape...
 
-128
+126
 00:10:56,050 --> 00:10:57,470
 It borders on absurd!
 
-129
+127
 00:10:57,470 --> 00:10:58,470
 Lethal Exploding Star!
 
-130
+128
 00:10:58,470 --> 00:10:59,470
 Exploding Star Star!
 
-131
+129
 00:10:59,470 --> 00:11:00,890
 Usopp's Rubber Band of Doom!
 
-132
+130
 00:11:00,890 --> 00:11:02,270
 Rolling Exploding Star!
 
-133
+131
 00:11:02,270 --> 00:11:03,390
 Exploding Star!
 
-134
+132
 00:11:11,480 --> 00:11:12,940
 Tell me...
 
-135
+133
 00:11:13,610 --> 00:11:16,200
 the name of this
 explorer's descendant...
 
-136
+134
 00:11:16,780 --> 00:11:19,280
 Mont Blanc Cricket...
 
-137
+135
 00:11:21,120 --> 00:11:24,000
 Then his ancestor from
 400 years ago...
 
-138
+136
 00:11:26,620 --> 00:11:28,630
 Would his name be...
 
-139
+137
 00:11:28,630 --> 00:11:30,590
 Noland?
 
-140
+138
 00:11:31,130 --> 00:11:32,130
 What?
 
-141
+139
 00:11:33,590 --> 00:11:34,470
 Wyper?
 
-142
+140
 00:11:35,720 --> 00:11:38,220
 What's going on, Wyper?!
 
-143
+141
 00:11:40,720 --> 00:11:43,720
 Is this a miracle...
 
-144
+142
 00:11:45,020 --> 00:11:47,940
 Great Warrior Kalgara?!
 
-145
+143
 00:11:51,980 --> 00:11:53,030
 Come on, Nola!
 
-146
+144
 00:11:53,030 --> 00:11:56,900
 We'll ring the bell again today so that
 the sound reaches to the end of the sky!
 
-147
+145
 00:11:56,900 --> 00:12:01,620
 This sound you love so much...
 Let's send it to Noland!
 
-148
+146
 00:12:28,350 --> 00:12:29,020
 What the...?!
 
-149
+147
 00:12:37,030 --> 00:12:38,900
 What was that?
 
-150
+148
 00:12:39,780 --> 00:12:43,330
 But it's crazy that shock didn't
 move the vine at all...
 
-151
+149
 00:12:43,330 --> 00:12:45,410
 Well, this time it'll be Triple Explo–
 
-152
+150
 00:12:45,410 --> 00:12:46,080
 Stand back.
 
-153
+151
 00:13:01,300 --> 00:13:03,050
 Reject!
 
-154
+152
 00:13:11,690 --> 00:13:12,810
 Are you kidding me?!
 
-155
+153
 00:13:12,810 --> 00:13:13,770
 Wyper!
 
-156
+154
 00:13:16,030 --> 00:13:16,900
 How foolish...!
 
-157
+155
 00:13:16,900 --> 00:13:19,320
 He used a reject dial...
 
-158
+156
 00:13:20,240 --> 00:13:24,200
 Snap in two, Giant Jack!
 
-159
+157
 00:13:32,960 --> 00:13:37,590
 It's coming down!
 
-160
+158
 00:13:40,220 --> 00:13:42,220
 Here goes! Get on, Luffy!
 
-161
+159
 00:13:43,220 --> 00:13:44,550
 Give it all you can!
 
-162
+160
 00:13:46,890 --> 00:13:47,890
 To be honest...
 
-163
+161
 00:13:48,680 --> 00:13:54,690
 this will be the first time I've run
 this jet dial at max power...
 
-164
+162
 00:13:55,060 --> 00:13:59,190
 I won't be able to control
 something this powerful!
 
-165
+163
 00:13:59,190 --> 00:14:00,280
 That's fine by me!
 
-166
+164
 00:14:00,650 --> 00:14:01,450
 Okay!
 
-167
+165
 00:14:05,320 --> 00:14:06,620
 Here we go, Luffy!
 
-168
+166
 00:14:06,620 --> 00:14:07,370
 Yeah!
 
-169
+167
 00:14:14,920 --> 00:14:16,340
 It's coming down!
 
-170
+168
 00:14:17,000 --> 00:14:18,130
 Look!
 
-171
+169
 00:14:18,130 --> 00:14:20,710
 What in the world is going on?!
 
-172
+170
 00:14:21,170 --> 00:14:24,430
 Luffy! Nami! We're all
 counting on you!
 
-173
+171
 00:14:24,430 --> 00:14:29,350
 If the sky island disappears now,
 we won't be able to ring the golden bell!
 
-174
+172
 00:14:29,720 --> 00:14:31,230
 You'll ring it, right?!
 
-175
+173
 00:14:31,230 --> 00:14:34,310
 You'll let Mr. Cricket hear it, right?!
 
-176
+174
 00:14:36,020 --> 00:14:38,730
 You better make that
 jump to Enel's ship!
 
-177
+175
 00:14:39,610 --> 00:14:41,110
 Go!
 
-178
+176
 00:14:41,110 --> 00:14:43,990
 Everything depends on you two!
 
-179
+177
 00:14:43,990 --> 00:14:45,070
 Go!
 
-180
+178
 00:14:54,370 --> 00:14:56,170
 My, my...
 
-181
+179
 00:14:56,170 --> 00:15:00,300
 Why can't you sit still
 and wait for my Raigo to finish?
 
-182
+180
 00:15:00,880 --> 00:15:03,670
 How impudently impatient...
 
-183
+181
 00:15:05,630 --> 00:15:07,220
 I have no choice, then.
 
-184
+182
 00:15:15,890 --> 00:15:19,400
 It's sheer insolence to
 try and reach me!
 
-185
+183
 00:15:19,400 --> 00:15:22,480
 You need to be taught a lesson!
 
-186
+184
 00:15:22,940 --> 00:15:24,740
 Mamaragan!
 
-187
+185
 00:15:34,540 --> 00:15:36,170
 That bastard...!
 
-188
+186
 00:15:36,170 --> 00:15:38,750
 He's trying to sink the vine
 by taking out its base!
 
-189
+187
 00:15:41,210 --> 00:15:42,550
 Do something, Nami!
 
-190
+188
 00:15:42,550 --> 00:15:44,050
 What am I supposed to do?!
 
-191
+189
 00:15:44,050 --> 00:15:45,840
 We're already climbing up!
 
-192
+190
 00:15:46,220 --> 00:15:49,850
 We won't get high enough if he
 removes the vine's foundation!
 
-193
+191
 00:15:50,260 --> 00:15:52,260
 We'll fall just short of Enel!
 
-194
+192
 00:15:55,100 --> 00:15:57,140
 Upper Yard is getting bombarded!
 
-195
+193
 00:16:08,070 --> 00:16:10,490
 I don't care if you're
 immune to lightning!
 
-196
+194
 00:16:10,490 --> 00:16:13,160
 It won't matter one iota
 if you can't make it here!
 
-197
+195
 00:16:13,910 --> 00:16:19,040
 Plummet far below and await
 Raigo's completion, rubber man!
 
-198
+196
 00:16:29,010 --> 00:16:31,890
 Upper Yard is... being pulverized.
 
-199
+197
 00:16:35,100 --> 00:16:37,020
 Luffy!
 
-200
+198
 00:16:37,020 --> 00:16:38,140
 Nami!
 
-201
+199
 00:16:41,770 --> 00:16:46,690
 He's really intent on keeping
 his distance from you, huh?
 
-202
+200
 00:16:46,690 --> 00:16:49,320
 Let him try!
 
-203
+201
 00:16:51,700 --> 00:16:54,240
 It's exposing the ruins!
 
-204
+202
 00:16:58,160 --> 00:17:01,540
 These attacks will
 tear up the foundation.
 
-205
+203
 00:17:01,880 --> 00:17:04,710
 Wyper ended up on
 the ground down there!
 
-206
+204
 00:17:04,710 --> 00:17:06,000
 Zoro, too!
 
-207
+205
 00:17:06,880 --> 00:17:09,510
 That son of a bitch!
 
-208
+206
 00:17:13,550 --> 00:17:15,310
 The ruins...
 
-209
+207
 00:17:19,600 --> 00:17:21,810
 It's useless, Enel.
 
-210
+208
 00:17:24,570 --> 00:17:27,780
 You can't erase...
 
-211
+209
 00:17:27,780 --> 00:17:29,240
 W-Wyper!
 
-212
+210
 00:17:29,990 --> 00:17:35,450
 ...the history of the proud warriors
 who lived in Shandora!
 
-213
+211
 00:17:40,460 --> 00:17:47,250
 Be it here or anywhere else, its grand
 power can create and nurture...
 
-214
+212
 00:17:47,250 --> 00:17:49,920
 Bringing it down isn't so easy a task!
 
-215
+213
 00:17:50,550 --> 00:17:54,930
 No matter how many forests
 you burn to ash...
 
-216
+214
 00:17:55,470 --> 00:17:59,640
 No matter how many ruins
 you lay to waste...
 
-217
+215
 00:18:03,650 --> 00:18:05,400
 This land will persevere!
 
-218
+216
 00:18:16,910 --> 00:18:18,450
 Get out of there, Wyper!
 
-219
+217
 00:18:17,580 --> 00:18:18,450
 It's dangerous!
 
-220
+218
 00:18:18,450 --> 00:18:20,330
 Wyper's gonna die!
 
-221
+219
 00:18:20,330 --> 00:18:22,040
 Let me go, stupid!
 
-222
+220
 00:18:22,410 --> 00:18:23,170
 Huh?
 
-223
+221
 00:18:23,170 --> 00:18:26,500
 The drivel from below won't let up.
 
-224
+222
 00:19:04,580 --> 00:19:07,210
 Wouldn't the vearth...? That's right!
 
-225
+223
 00:19:17,010 --> 00:19:18,510
 It's not sinking!
 
-226
+224
 00:19:19,390 --> 00:19:22,720
 Upper Yard held together!
 
-227
+225
 00:19:26,060 --> 00:19:28,150
 What great power!
 
-228
+226
 00:19:32,570 --> 00:19:34,280
 That's right...!
 
-229
+227
 00:19:34,280 --> 00:19:37,280
 Vearth is utterly magnificent!
 
-230
+228
 00:19:40,780 --> 00:19:45,040
 Vearth was never something
 to have fought over,
 
-231
+229
 00:19:45,040 --> 00:19:50,420
 and yet so much blood has been
 spilled and so many lives lost...
 
-232
+230
 00:19:51,040 --> 00:19:55,300
 How could we be so blind
 for these past 400 years?!
 
-233
+231
 00:19:58,340 --> 00:19:59,890
 Wyper!
 
-234
+232
 00:20:04,430 --> 00:20:06,940
 Wyper!
 
-235
+233
 00:20:08,770 --> 00:20:10,900
 Move it! The vine is falling!
 
-236
+234
 00:20:10,900 --> 00:20:12,360
 Get over here, now!
 
-237
+235
 00:20:13,110 --> 00:20:14,820
 Go...
 
-238
+236
 00:20:20,490 --> 00:20:25,200
 Go, Straw Hat!
 
-239
+237
 00:20:28,040 --> 00:20:31,630
 Here I come, Enel!
 
-240
+238
 00:20:32,380 --> 00:20:34,630
 The impudence of
 every last one of them...
 
-241
+239
 00:20:34,630 --> 00:20:39,340
 Give back that golden bell!
 
-242
+240
 00:20:39,340 --> 00:20:41,600
 Enough already!
 
-243
+241
 00:20:41,600 --> 00:20:42,890
 I'm sick of you!
 
-244
+242
 00:20:42,890 --> 00:20:45,350
 It's grown large enough...
 
-245
+243
 00:20:47,640 --> 00:20:49,480
 Disappear with the land!
 
-246
+244
 00:20:53,860 --> 00:20:55,610
 Raigo!
 
-247
+245
 00:21:14,250 --> 00:21:15,960
 Thanks, Nami!
 
-248
+246
 00:21:15,960 --> 00:21:16,880
 What?!
 
-249
+247
 00:21:17,380 --> 00:21:19,260
 I won't let your help go to waste!
 
-250
+248
 00:21:21,220 --> 00:21:23,090
 Wait, Luffy!
 
-251
+249
 00:21:24,850 --> 00:21:26,560
 The ship is the other way!
 
-252
+250
 00:21:32,480 --> 00:21:36,530
 Luffy! That thing is a vortex
 of air and lightning!
 
-253
+251
 00:21:36,530 --> 00:21:38,610
 Who knows what'll happen to you?!
 
-254
+252
 00:21:39,240 --> 00:21:45,580
 What can you do before this
 tremendous power, rubber man?!
 
-255
+253
 00:22:12,690 --> 00:22:17,940
 Gum-Gum...
 
-256
+254
 00:22:17,940 --> 00:22:25,320
 Fireworks!
 
-257
+255
 00:22:19,650 --> 00:22:25,320
 Fireworks!
 
-258
+256
 00:22:21,950 --> 00:22:25,320
 Fireworks!
 
-259
+257
 00:22:25,320 --> 00:22:27,450
 Golden Peony!
 
-260
+258
 00:22:39,880 --> 00:22:47,140
 The sky island weather was so nice before you
 messed it up with your stupid thunder!
 
-261
+259
 00:22:47,140 --> 00:22:49,060
 You lightning freak!
 
-262
+260
 00:22:52,270 --> 00:22:55,150
 Wh-What's happening to
 the electric discharge?!
 
-263
+261
 00:22:56,810 --> 00:22:58,610
 That's right...!
 
-264
+262
 00:22:59,110 --> 00:23:03,570
 That gold on his hand is
 the perfect conductor for electricity!
 
-265
+263
 00:23:05,160 --> 00:23:09,620
 Very well! I'll drop it before
 all the electricity discharges!
 
-266
+264
 00:23:11,410 --> 00:23:13,580
 Begone!
 
-267
+265
 00:23:17,460 --> 00:23:18,790
 Captain McKinley!
 
-268
+266
 00:23:19,130 --> 00:23:20,420
 Please stop.
 
-269
+267
 00:23:20,420 --> 00:23:21,500
 This is God Land.
 
-270
+268
 00:23:22,260 --> 00:23:23,380
 There's no point!
 
-271
+269
 00:23:23,380 --> 00:23:25,260
 I don't care if there's no point!
 
-272
+270
 00:23:25,260 --> 00:23:30,510
 What else are people to do when
 faced with a life or death situation?
 
-273
+271
 00:23:31,180 --> 00:23:34,810
 In order to survive,
 we chose to abandon our land.
 
-274
+272
 00:23:34,810 --> 00:23:39,310
 We can't go back and we
 can't move forward...
 
-275
+273
 00:23:40,070 --> 00:23:44,110
 All that we can do is pray.
 
-276
+274
 00:23:44,900 --> 00:23:54,330
 When we hear the "song of
 the island," this battle will end.
 
-277
+275
 00:23:57,080 --> 00:24:01,460
 Will there even be any
 survivors at this point...?
 
-278
+276
 00:24:02,210 --> 00:24:06,260
 Had I the courage to stand up
 to Enel, I wonder...
 
-279
+277
 00:24:07,090 --> 00:24:10,140
 would I have had
 to involve them...?
 
-280
+278
 00:24:11,260 --> 00:24:13,060
 Say, Suu...
 
-281
+279
 00:24:15,430 --> 00:24:18,060
 I wonder if there really is a god...
 
-282
+280
 00:24:18,560 --> 00:24:22,020
 If he does, I wonder if he'd save us...
 
-283
+281
 00:24:25,240 --> 00:24:28,320
 Please... if you really exist...
 
-284
+282
 00:24:29,570 --> 00:24:32,700
 please protect them, God!
 
-285
+283
 00:24:33,410 --> 00:24:35,700
 Please... make a miracle happen!
 
-286
+284
 00:24:36,620 --> 00:24:39,830
 Please, God, protect this land!
 
-287
+285
 00:24:51,760 --> 00:24:54,970
 Clear up!
 
-288
+286
 00:25:12,490 --> 00:25:14,990
 The mass of thunderclouds is gone!
 
-289
+287
 00:25:16,410 --> 00:25:18,580
 What happened?
 
-290
+288
 00:25:21,420 --> 00:25:22,290
 What?!
 
-291
+289
 00:25:37,520 --> 00:25:39,310
 Right on, Luffy!
 
-292
+290
 00:25:49,940 --> 00:25:52,320
 Ring it, Straw Hat!
 
-293
+291
 00:25:52,320 --> 00:25:55,370
 Shine the Light of Shandora!
 
-294
+292
 00:25:55,370 --> 00:25:57,490
 Go, Luffy!
 
-295
+293
 00:25:57,490 --> 00:26:01,750
 Let us hear the song of the island!
 
-296
+294
 00:26:03,120 --> 00:26:08,170
 How dare you destroy my Raigo,
 you damn Blue Sea monkey?!
 
-297
+295
 00:26:08,170 --> 00:26:11,510
 How about I ring you too?!
 
-298
+296
 00:26:11,510 --> 00:26:14,090
 You insolent wretch!
 
-299
+297
 00:26:17,060 --> 00:26:19,270
 200 Million...
 
-300
+298
 00:26:19,930 --> 00:26:21,940
 Volts:
 
-301
+299
 00:26:22,390 --> 00:26:24,940
 Amaru!
 
-302
+300
 00:26:27,400 --> 00:26:28,730
 What the hell is that?!
 
-303
+301
 00:26:28,730 --> 00:26:30,650
 "Ring," you say?!
 
-304
+302
 00:26:30,650 --> 00:26:32,950
 Ring the golden bell?!
 
-305
+303
 00:26:32,950 --> 00:26:37,530
 Its next ringing will signal
 the end of this battle!
 
-306
+304
 00:26:37,530 --> 00:26:41,750
 What good will it do to cling
 to obsolete legends?!
 
-307
+305
 00:26:41,750 --> 00:26:43,790
 I am God!
 
-308
+306
 00:26:49,550 --> 00:26:54,470
 You are but a lone paramecia type!
 
-309
+307
 00:26:54,470 --> 00:27:01,980
 My logia powers guarantee
 my ability to utterly crush you!
 
-310
+308
 00:27:04,100 --> 00:27:06,810
 I already told you
 that won't work on me!
 
-311
+309
 00:27:08,020 --> 00:27:10,320
 "God" this! "God" that! Shut up!
 
-312
+310
 00:27:10,730 --> 00:27:14,780
 What kind of god
 refuses to save anything?!
 
-313
+311
 00:27:25,580 --> 00:27:26,710
 Oh?
 
-314
+312
 00:27:26,710 --> 00:27:29,840
 You grabbed hold of it
 to avoid being skewered, huh?
 
-315
+313
 00:27:29,840 --> 00:27:31,170
 Luffy!
 
-316
+314
 00:27:33,880 --> 00:27:37,260
 What's your next move, rubber man?!
 There's nowhere to escape to!
 
-317
+315
 00:27:38,180 --> 00:27:43,220
 As your arm pulls more taut,
 the spear will pierce you even deeper!
 
-318
+316
 00:27:43,220 --> 00:27:46,390
 And squirming out of this
 will cause you to fall!
 
-319
+317
 00:27:48,610 --> 00:27:52,030
 I must commend you
 for climbing this high!
 
-320
+318
 00:27:52,030 --> 00:27:56,450
 However, this is as far as you go,
 and this land is finished too!
 
-321
+319
 00:27:56,910 --> 00:27:58,870
 I'll create as many Raigos as it takes!
 
-322
+320
 00:28:02,950 --> 00:28:05,710
 This is our duty as citizens.
 
-323
+321
 00:28:06,920 --> 00:28:08,330
 I'm sorry!
 
-324
+322
 00:28:12,420 --> 00:28:13,500
 Luffy...
 
-325
+323
 00:28:14,420 --> 00:28:17,300
 Is the sky island...
 going to disappear?!
 
-326
+324
 00:28:24,470 --> 00:28:26,770
 So you chose to fall!
 
-327
+325
 00:28:33,440 --> 00:28:34,230
 Luffy!
 
-328
+326
 00:28:36,190 --> 00:28:38,070
 Nami! Out of the way!
 
-329
+327
 00:28:43,490 --> 00:28:44,790
 Wh-What're you...?!
 
-330
+328
 00:28:45,250 --> 00:28:48,080
 Don't mess with me, earlobes!
 
-331
+329
 00:28:48,080 --> 00:28:52,540
 Gum-Gum Rocket!
 
-332
+330
 00:28:55,000 --> 00:28:57,920
 Gum-Gum...
 
-333
+331
 00:28:58,880 --> 00:29:01,300
 Another attempt?!
 
-334
+332
 00:29:01,800 --> 00:29:04,010
 Until the bell rings!
 
-335
+333
 00:29:04,470 --> 00:29:06,640
 You'll be skewered
 for certain this time!
 
-336
+334
 00:29:06,640 --> 00:29:09,730
 ...Golden Rifle!
 
-337
+335
 00:29:13,730 --> 00:29:14,480
 Too fast!
 
-338
+336
 00:29:32,080 --> 00:29:35,420
 When you return to Jaya...
 
-339
+337
 00:29:36,300 --> 00:29:39,130
 what will you think
 when you see we've gone?
 
-340
+338
 00:29:40,760 --> 00:29:44,140
 Hold on a little longer!
 I'll send a message that...
 
-341
+339
 00:29:45,760 --> 00:29:48,220
 we are here!
 
-342
+340
 00:29:53,860 --> 00:29:57,190
 Shine the Light of Shandora!
 
-343
+341
 00:30:00,490 --> 00:30:04,910
 It's been 400 years since
 the battle in the sky started.
 
-344
+342
 00:30:05,240 --> 00:30:09,370
 Just once, we wanted to...
 
-345
+343
 00:30:10,620 --> 00:30:13,370
 That's right. The sacred ground will...
 
-346
+344
 00:30:16,790 --> 00:30:19,840
 sing again...
 
-347
+345
 00:30:25,260 --> 00:30:27,930
 someday, for sure.
 
-348
+346
 00:30:39,940 --> 00:30:45,990
 Six years ago, I saw a giant city of gold
 on the Grand Line island of Jaya!
 
-349
+347
 00:30:50,370 --> 00:30:53,540
 The City of Gold exists! I swear it!
 
-350
+348
 00:31:00,590 --> 00:31:08,850
 No one has ever disproved the existence
 of the City of Gold or the sky island.
 
-351
+349
 00:31:09,260 --> 00:31:12,020
 That's what romance is!
 
-352
+350
 00:31:12,020 --> 00:31:16,650
 Now reach!
 
-353
+351
 00:31:16,650 --> 00:31:17,480
 Chestnut head!
 
-354
+352
 00:31:18,150 --> 00:31:19,400
 Can you hear it?
 
-355
+353
 00:31:20,650 --> 00:31:22,740
 The City of Gold is here!
 
-356
+354
 00:31:23,780 --> 00:31:26,110
 For 400 years...
 
-357
+355
 00:31:26,910 --> 00:31:28,620
 the City of Gold has been here...
 
-358
+356
 00:31:32,200 --> 00:31:37,880
 in the sky!
+

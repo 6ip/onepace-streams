@@ -368,15 +368,6 @@ El mundo se conmocionó cuando con un solo puñetazo le hizo un agujero a una fo
 00:10:13,980 --> 00:10:21,070
 EL REY LUCHADOR DEL REINO PRODENCE
 
-
-
-
-
-
-
-
- ELIZABELLO II
-
 88
 00:10:21,820 --> 00:10:25,770
 Pero esa técnica destructiva
@@ -504,44 +495,14 @@ Golpe de cuatro mil tejas.
 MAESTRO DEL GYOJIN KARATE
 ARTISTA MARCIAL DEL GYOJIN JUUJUTSU
 
-
-
-
-
-
-
-
-
-
-
-HACK
-
 118
 00:14:23,120 --> 00:14:26,850
 ARTISTA MARCIAL
 DE LA TRIBU PIERNASLARGAS
 
-
-
-
-
-
-
-
-
-
-BLUE GILLY
-
 119
 00:15:43,260 --> 00:15:44,590
 EXGLADIADOR
-
-
-
-
-
-
-RICKY
 
 120
 00:16:23,220 --> 00:16:25,630
@@ -550,3 +511,4 @@ ASIENTOS DE ESPECTADOR
 121
 00:16:23,220 --> 00:16:25,630
 DE LOS PARTICIPANTES
+

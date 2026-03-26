@@ -1,885 +1,872 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:01:54,890 --> 00:01:56,850
 Q-Quel bastardo...!
 
-4
+2
 00:01:56,850 --> 00:01:59,270
 Gli artigli da gatto di Captain Kuro...
 
-5
+3
 00:02:02,350 --> 00:02:05,150
 Ne rimangono solo cinque di queste spade strane, eh?!
 
-6
+4
 00:02:08,860 --> 00:02:11,070
 Va tutto bene! Ce la può ancora fare!
 
-7
+5
 00:02:11,070 --> 00:02:13,070
 Esatto! Ha ancora l'altro guanto!
 
-8
+6
 00:02:13,570 --> 00:02:16,700
 Faccia a fette quel tizio, Captain Kuro!
 
-9
+7
 00:02:16,700 --> 00:02:19,830
 Ehi! Quel nome non era tabù?
 
-10
+8
 00:02:19,830 --> 00:02:23,540
 Se non sbaglio, il suo nome in 
 questo villaggio era Klaha-qualcosa...
 
-11
+9
 00:02:23,540 --> 00:02:25,670
 Allora, chiamiamolo signor Kla!
 
-12
+10
 00:02:25,670 --> 00:02:28,040
 – Signor Kla! Lo faccia fuori!
 – Signor Kla! Lo faccia fuori!
 
-13
+11
 00:02:30,130 --> 00:02:31,960
 Maledetti idioti...
 
-14
+12
 00:02:32,380 --> 00:02:33,380
 state zitti!
 
-15
+13
 00:02:39,350 --> 00:02:41,720
 Venite fuori, mocciosi!
 
-16
+14
 00:02:41,720 --> 00:02:44,350
 So che siete nascosti lì!
 
-17
+15
 00:02:44,350 --> 00:02:45,940
 Arrendetevi!
 
-18
+16
 00:02:48,690 --> 00:02:50,150
 Vieni qui!
 
-19
+17
 00:02:50,150 --> 00:02:52,820
 Ti porteremo dalla signora Kaya.
 
-20
+18
 00:02:55,110 --> 00:03:00,240
 Come se potessi cadere in una trappola del 
 genere, non mi fido di ciò che dice un moccioso.
 
-21
+19
 00:03:01,540 --> 00:03:02,950
 Eh?!
 
-22
+20
 00:03:05,580 --> 00:03:07,040
 Ci è cascato!
 
-23
+21
 00:03:07,040 --> 00:03:08,040
 Ora!
 
-24
+22
 00:03:10,550 --> 00:03:11,550
 Prendi questo!
 
-25
+23
 00:03:11,550 --> 00:03:13,720
 Attacco Pepato!
 
-26
+24
 00:03:29,980 --> 00:03:32,780
 – Prendi!
 – Prendi!
 
-27
+25
 00:03:39,530 --> 00:03:41,280
 Ah, ahia!
 
-28
+26
 00:03:41,280 --> 00:03:42,910
 Ah, ahia, ahia!
 
-29
+27
 00:03:45,370 --> 00:03:48,420
 – Questo è il colpo di grazia, ipnotizzatore!
 – Questo è il colpo di grazia, ipnotizzatore!
 
-30
+28
 00:03:53,710 --> 00:03:56,010
 Non montatevi la testa.
 
-31
+29
 00:03:57,340 --> 00:03:59,390
 Maledizione... abbiamo fallito?
 
-32
+30
 00:03:59,930 --> 00:04:02,220
 Mi avete proprio sottovalutato, eh?
 
-33
+31
 00:04:02,220 --> 00:04:04,970
 Nonostante l'apparenza, sono un pirata.
 
-34
+32
 00:04:07,140 --> 00:04:08,270
 – Cipolla!
 – Cipolla!
 
-35
+33
 00:04:08,270 --> 00:04:13,110
 Siete andati troppo oltre nel vostro giocare a fare i pirati.
 
-36
+34
 00:04:16,900 --> 00:04:19,280
 Dove sei nascosta, ragazzina?!
 
-37
+35
 00:04:19,280 --> 00:04:22,780
 Per prima cosa, giustizierò questi tre.
 
-38
+36
 00:04:22,780 --> 00:04:26,870
 Per esservi intromessi così 
 stupidamente in una vera lotta tra pirati...
 
-39
+37
 00:04:26,870 --> 00:04:30,370
 dovrete pentirvi quando sarete nell'aldilà.
 
-40
+38
 00:04:37,470 --> 00:04:39,340
 Quindi eri lì?
 
-41
+39
 00:04:40,590 --> 00:04:41,890
 No!
 
-42
+40
 00:04:41,890 --> 00:04:43,300
 Deve scappare, signora Kaya!
 
-43
+41
 00:04:43,300 --> 00:04:44,180
 Ehi!
 
-44
+42
 00:04:44,180 --> 00:04:46,350
 Sì! Sono le loro voci!
 
-45
+43
 00:04:46,350 --> 00:04:47,770
 Da quella parte?!
 
-46
+44
 00:04:49,060 --> 00:04:54,190
 Più tardi, vi eliminerò tutti come si deve.
 
-47
+45
 00:04:54,860 --> 00:04:57,780
 Ovviamente, Jango incluso!
 
-48
+46
 00:04:57,780 --> 00:05:00,610
 Eh?! Perché anche noi?!
 
-49
+47
 00:05:00,610 --> 00:05:03,740
 La smetta di scherzare, Captain Kuro!
 
-50
+48
 00:05:04,120 --> 00:05:07,500
 Non è ancora troppo tardi 
 per attaccare il villaggio, no?!
 
-51
+49
 00:05:07,500 --> 00:05:12,710
 In più, se il capitano Jango farà scrivere a quella
 donna il testamento, il piano avrà successo!
 
-52
+50
 00:05:13,840 --> 00:05:17,000
 Non serve che vi preoccupiate per questo piano.
 
-53
+51
 00:05:17,000 --> 00:05:22,130
 Saranno sufficienti i vostri cadaveri per accusarvi di qualunque cosa.
 
-54
+52
 00:05:23,340 --> 00:05:27,770
 Non avevo alcuna intenzione di farvi lasciare il villaggio sin dal principio.
 
-55
+53
 00:05:28,390 --> 00:05:34,230
 Sarebbe un problema... se lasciassi in 
 vita qualcuno che sa della mia esistenza.
 
-56
+54
 00:05:34,610 --> 00:05:35,570
 Ma come...?!
 
-57
+55
 00:05:35,570 --> 00:05:39,690
 Allora... fin dall'inizio,
  il piano era quello di ucciderci?!
 
-58
+56
 00:05:41,400 --> 00:05:43,660
 Esattamente.
 
-59
+57
 00:05:44,030 --> 00:05:49,450
 Sin da quando mi facevo ancora chiamare Captain Kuro, tre anni fa.
 
-60
+58
 00:05:49,450 --> 00:05:51,580
 Tutto...
 
-61
+59
 00:05:52,080 --> 00:05:54,580
 Tutto faceva parte del piano!
 
-62
+60
 00:05:56,590 --> 00:05:58,800
 Ma siete scemi?
 
-63
+61
 00:05:58,800 --> 00:06:01,050
 Che ciurma di pirati sfigati.
 
-64
+62
 00:06:02,130 --> 00:06:03,890
 "Sfigati"?
 
-65
+63
 00:06:03,890 --> 00:06:09,100
 Una ciurma di pirati non è altro che un
  branco di cani randagi abbandonati dalla società.
 
-66
+64
 00:06:09,430 --> 00:06:12,520
 Senza pianificazione, 
 cosa mai potrebbero fare?!
 
-67
+65
 00:06:12,520 --> 00:06:16,770
 Dovrebbero tutti semplicemente tacere e obbedire ai miei piani.
 
-68
+66
 00:06:17,570 --> 00:06:21,110
 I sottoposti non sono altro che pedine del capitano.
 
-69
+67
 00:06:21,110 --> 00:06:25,030
 Lasciarli vivi o ucciderli è una mia prerogativa.
 
-70
+68
 00:06:25,030 --> 00:06:29,830
 Seguendo i miei piani, affronterò 
 qualsiasi potente ostacolo dinanzi a me
 
-71
+69
 00:06:29,830 --> 00:06:33,290
 e, seguendo i miei piani, morirete.
 
-72
+70
 00:06:34,870 --> 00:06:37,710
 I pirati dovrebbero essere in questo modo!
 
-73
+71
 00:06:37,710 --> 00:06:40,800
 Quindi, moccioso viaggiatore, 
 non usare quel tono impertinente!
 
-74
+72
 00:06:45,930 --> 00:06:47,890
 Con te come capitano,
 
-75
+73
 00:06:48,260 --> 00:06:51,430
 anche con cento o mille sottoposti al tuo servizio,
 
-76
+74
 00:06:52,520 --> 00:06:55,230
 non riuscirete mai a sconfiggere Usopp!
 
-77
+75
 00:06:57,230 --> 00:06:59,110
 Cosa?!
 
-78
+76
 00:06:59,730 --> 00:07:03,860
 Intendi dire che sono inferiore a uno
  che fa il capitano solo per gioco?
 
-79
+77
 00:07:03,860 --> 00:07:04,700
 Esatto.
 
-80
+78
 00:07:07,240 --> 00:07:09,120
 Dici proprio cose esilaranti!
 
-81
+79
 00:07:09,120 --> 00:07:13,200
 Non montarti la testa solo perché sei riuscito rompere metà dei miei artigli!
 
-82
+80
 00:07:13,540 --> 00:07:15,670
 In cosa non potrei sconfiggerlo?!
 
-83
+81
 00:07:16,170 --> 00:07:17,630
 Prova a dirlo!
 
-84
+82
 00:07:22,130 --> 00:07:23,590
 Nello spirito.
 
-85
+83
 00:07:24,470 --> 00:07:25,840
 Cosa?!
 
-86
+84
 00:07:25,840 --> 00:07:31,720
 Tu... non sai proprio...
 cosa sia un vero pirata!
 
-87
+85
 00:07:42,270 --> 00:07:43,990
 Q-Quel tizio...!
 
-88
+86
 00:07:43,990 --> 00:07:47,450
 È riuscito a stare dietro alla
 velocità del Passo Furtivo!
 
-89
+87
 00:07:49,910 --> 00:07:52,790
 Che insulto!
 
-90
+88
 00:07:54,830 --> 00:08:00,790
 Se vuoi davvero sapere come sono 
 i veri pirati, ti mostrerò personalmente...
 
-91
+89
 00:08:00,790 --> 00:08:03,380
 la paura che incutono!
 
-92
+90
 00:08:03,750 --> 00:08:09,550
 Il terrore dei pirati che hanno 
 affrontato la morte... innumerevoli volte!
 
-93
+91
 00:08:14,520 --> 00:08:17,230
 Ehi! Quella posa! Che sia...?!
 
-94
+92
 00:08:17,230 --> 00:08:19,230
 Userà quella tecnica?!
 
-95
+93
 00:08:19,230 --> 00:08:21,650
 Contro un solo avversario?!
 
-96
+94
 00:08:21,650 --> 00:08:23,440
 But that's definitely it!
 
-97
+95
 00:08:23,440 --> 00:08:26,900
 Nota: "Shakushi" deriva da un detto che indica
 "tutti indistintamente". Ricorda "sakushi", cioè stratega.
 
-98
+96
 00:08:23,440 --> 00:08:26,900
 Lo Shakushi! Vuole usare lo Shakushi!
 
-99
+97
 00:08:28,280 --> 00:08:29,910
 Non siamo in una posizione rischiosa?
 
-100
+98
 00:08:29,910 --> 00:08:31,280
 Colpirà anche noi!
 
-101
+99
 00:08:31,280 --> 00:08:33,030
 Vuole uccidere anche noi!
 
-102
+100
 00:08:33,030 --> 00:08:34,870
 L'ha detto prima, no?!
 
-103
+101
 00:08:35,450 --> 00:08:36,950
 Si fermi, Captain Kuro!
 
-104
+102
 00:08:36,950 --> 00:08:38,500
 Non quella tecnica!
 
-105
+103
 00:08:38,500 --> 00:08:40,250
 Faremo qualunque cosa!
 
-106
+104
 00:08:40,250 --> 00:08:43,000
 La prego, Captain Kuro!
 
-107
+105
 00:08:43,000 --> 00:08:44,340
 Cos'hanno?
 
-108
+106
 00:08:45,090 --> 00:08:47,800
 Sta solamente dondolando.
 
-109
+107
 00:08:47,800 --> 00:08:50,470
 – La prego, si fermi, Captain Kuro!
 – La prego, si fermi, Captain Kuro!
 
-110
+108
 00:08:50,970 --> 00:08:52,300
 Shakushi!
 
-111
+109
 00:09:02,440 --> 00:09:04,020
 Che bottino scarso!
 
-112
+110
 00:09:04,650 --> 00:09:07,990
 Pensavo avrebbero avuto più tesori!
 
-113
+111
 00:09:08,440 --> 00:09:11,530
 Allora, il combattimento sarà finito ormai?
 
-114
+112
 00:09:13,160 --> 00:09:14,490
 Cosa?
 
-115
+113
 00:09:14,490 --> 00:09:16,240
 Sono tutti immobili.
 
-116
+114
 00:09:16,240 --> 00:09:17,700
 Che sia finita?
 
-117
+115
 00:09:25,750 --> 00:09:26,590
 Eccolo!
 
-118
+116
 00:09:28,210 --> 00:09:30,760
 P-Perché è là?!
 
-119
+117
 00:09:33,140 --> 00:09:34,470
 Di nuovo...!
 
-120
+118
 00:09:36,220 --> 00:09:37,600
 Questa volta il muro?!
 
-121
+119
 00:09:43,600 --> 00:09:46,070
 Ora si fermi per favore, Captain Kuro!
 
-122
+120
 00:09:46,070 --> 00:09:49,030
 È inutile!
 Sta attaccando alla cieca con il Passo Furtivo!
 
-123
+121
 00:09:49,030 --> 00:09:52,860
 Per via della velocità,
  nemmeno lui sa cosa sta tagliando!
 
-124
+122
 00:09:53,530 --> 00:09:56,080
 Quanti compagni sono stati sconfitti con questa tecni–
 
-125
+123
 00:09:57,160 --> 00:09:58,080
 Ehi!
 
-126
+124
 00:10:03,540 --> 00:10:06,040
 C-Cosa sta succedendo?!
 
-127
+125
 00:10:06,040 --> 00:10:08,550
 Le persone... vengono 
 tagliate a pezzi all'improvviso!
 
-128
+126
 00:10:23,060 --> 00:10:24,440
 Fatti vedere!
 
-129
+127
 00:10:25,020 --> 00:10:25,900
 Maggiordomo!
 
-130
+128
 00:10:39,030 --> 00:10:43,790
 Cosa pensi che siano i tuoi compagni?!
 
-131
+129
 00:10:46,250 --> 00:10:47,540
 Luffy...
 
-132
+130
 00:11:13,320 --> 00:11:14,780
 Ti ho trovato!
 
-133
+131
 00:11:15,400 --> 00:11:16,910
 Piccolo bastardo...
 
-134
+132
 00:11:16,910 --> 00:11:19,740
 Avresti dovuto farti affettare e basta.
 
-135
+133
 00:11:19,740 --> 00:11:20,870
 Guarda!
 
-136
+134
 00:11:20,870 --> 00:11:26,420
 Per via del tuo intervento, i miei cari sottoposti 
 non sono riusciti a morire e stanno soffrendo.
 
-137
+135
 00:11:26,420 --> 00:11:30,040
 Sarebbe stato più facile se
  fossero semplicemente morti.
 
-138
+136
 00:11:33,050 --> 00:11:35,130
 Che vuoi questa volta?
 
-139
+137
 00:11:35,130 --> 00:11:37,220
 Sembra tu voglia dire qualcosa.
 
-140
+138
 00:11:37,220 --> 00:11:38,010
 Già.
 
-141
+139
 00:11:38,430 --> 00:11:40,180
 Non diventerò mai...
 
-142
+140
 00:11:42,100 --> 00:11:44,140
 un uomo come te.
 
-143
+141
 00:11:44,140 --> 00:11:46,350
 Non è che non lo diventerai.
 
-144
+142
 00:11:48,100 --> 00:11:51,980
 Uno come te... non lo potrebbe mai diventare.
 
-145
+143
 00:11:54,400 --> 00:11:55,820
 In ogni caso...
 
-146
+144
 00:11:56,530 --> 00:11:58,820
 morirai qui.
 
-147
+145
 00:12:00,070 --> 00:12:02,330
 Ora basta, fermati.
 
-148
+146
 00:12:02,330 --> 00:12:04,160
 Non fargli del male.
 
-149
+147
 00:12:04,950 --> 00:12:06,790
 Scriverò il testamento.
 
-150
+148
 00:12:06,790 --> 00:12:08,170
 N-Non lo faccia!
 
-151
+149
 00:12:08,580 --> 00:12:12,000
 Se scriverà il testamento, 
 verrà uccisa, signora Kaya!
 
-152
+150
 00:12:12,000 --> 00:12:15,840
 Idioti. 
 Non aggiungete condizioni per conto vostro.
 
-153
+151
 00:12:15,840 --> 00:12:19,550
 Captain Kuro mi ha detto di eliminarvi tutti.
 
-154
+152
 00:12:19,550 --> 00:12:20,800
 Non...!
 
-155
+153
 00:12:28,640 --> 00:12:32,650
 Se non farai come ti dico,
 non sarete voi a uccidermi!
 
-156
+154
 00:12:32,650 --> 00:12:33,980
 E non scriverò il testamento!
 
-157
+155
 00:12:33,980 --> 00:12:35,940
 C-C-Co– F-F-Ferma!
 
-158
+156
 00:12:35,940 --> 00:12:36,990
 Non essere impulsiva!
 
-159
+157
 00:12:37,320 --> 00:12:40,860
 Se non scriverai il testamento, sarò nei guai!
 
-160
+158
 00:12:41,620 --> 00:12:43,240
 S-Signora Kaya!
 
-161
+159
 00:12:45,870 --> 00:12:48,040
 Ok, lascerò andare i mocciosi!
 
-162
+160
 00:12:48,540 --> 00:12:52,170
 Anche se non sono nelle condizioni di scappare.
 
-163
+161
 00:12:55,920 --> 00:12:57,460
 Non dimenticare la firma.
 
-164
+162
 00:12:57,460 --> 00:12:58,800
 Lo so.
 
-165
+163
 00:13:02,090 --> 00:13:05,890
 "Lascio tutto il mio patrimonio a Klahadore il maggiordomo".
 
-166
+164
 00:13:05,890 --> 00:13:06,970
 Bene.
 
-167
+165
 00:13:06,970 --> 00:13:08,850
 Senza dubbio, è il tuo testamento.
 
-168
+166
 00:13:08,850 --> 00:13:11,730
 Non ho nemmeno dovuto usare la mia tecnica.
 
-169
+167
 00:13:12,860 --> 00:13:16,690
 Mi prometti che... non li ucciderai, vero?
 
-170
+168
 00:13:18,320 --> 00:13:19,820
 Non preoccuparti!
 
-171
+169
 00:13:19,820 --> 00:13:23,280
 Nonostante l'apparenza,
 sono una persona sincera.
 
-172
+170
 00:13:23,280 --> 00:13:25,330
 – Signora Kaya!
  – Signora Kaya!
 
-173
+171
 00:13:26,540 --> 00:13:27,830
 Eccoli!
 
-174
+172
 00:13:27,830 --> 00:13:31,790
 Eccoli! Eccoli! Eccoli! Eccoli! Eccoli!
 
-175
+173
 00:13:27,830 --> 00:13:29,910
 A-A-Ahia, ahia!
 
-176
+174
 00:13:29,910 --> 00:13:31,790
 Sono ferito lì!
 
-177
+175
 00:13:31,790 --> 00:13:33,080
 Laggiù!
 
-178
+176
 00:13:35,340 --> 00:13:36,420
 Bene, vado!
 
-179
+177
 00:13:38,010 --> 00:13:40,510
 È finita, tizio delle ipnosi!
 
-180
+178
 00:13:41,590 --> 00:13:43,590
 Quel tipo ci ha seguiti?!
 
-181
+179
 00:13:49,560 --> 00:13:54,060
 A quanto pare è meglio 
 farla finita in fretta, eh?!
 
-182
+180
 00:13:58,690 --> 00:14:01,070
 Finora ho solo scherzato.
 
-183
+181
 00:14:02,820 --> 00:14:04,570
 Ma tu sei diverso.
 
-184
+182
 00:14:06,120 --> 00:14:11,750
 Ti farò assaporare per bene il 
 terrore e poi ti eliminerò lentamente.
 
-185
+183
 00:14:14,330 --> 00:14:15,580
 Shakushi!
 
-186
+184
 00:14:37,230 --> 00:14:39,020
 Dai provaci, fai quella tecnica con i piedi!
 
-187
+185
 00:14:39,020 --> 00:14:41,280
 Maledizione! Lasciami andare, bastardo!
 
-188
+186
 00:14:41,650 --> 00:14:45,950
 Con questo, il tuo piano durato
  tre anni è completamente fallito!
 
-189
+187
 00:14:45,950 --> 00:14:47,450
 Cos'hai detto?!
 
-190
+188
 00:14:47,450 --> 00:14:50,370
 Quel tizio... ha preso Captain Kuro!
 
-191
+189
 00:14:50,910 --> 00:14:55,920
 È possibile che... se vince lui, riusciremo a sopravvivere?
 
-192
+190
 00:14:57,880 --> 00:15:00,210
 Ora morirai!
 
-193
+191
 00:15:00,210 --> 00:15:02,590
 Non te lo lasceremo fare!
 
-194
+192
 00:15:07,970 --> 00:15:11,140
 'Sti mocciosi!
 
-195
+193
 00:15:13,810 --> 00:15:15,890
 Troppo lento, haramaki!
 
-196
+194
 00:15:15,890 --> 00:15:17,440
 Non direi!
 
-197
+195
 00:15:21,150 --> 00:15:24,240
 Proprio così! Quel ramo era d'intralcio!
 
-198
+196
 00:15:25,240 --> 00:15:26,320
 Cosa?!
 
-199
+197
 00:15:26,320 --> 00:15:27,490
 Usopp!
 
-200
+198
 00:15:28,240 --> 00:15:29,370
 – Ah, Captain!
 – Ah! Captain!
 
-201
+199
 00:15:30,370 --> 00:15:32,620
 Prendi questo, ipnotizzatore!
 
-202
+200
 00:15:32,620 --> 00:15:34,910
 Forza, uomo di gomma!
 
-203
+201
 00:15:34,910 --> 00:15:36,870
 Fai fuori Captain Kuro!
 
-204
+202
 00:15:37,420 --> 00:15:38,630
 Mollami!
 
-205
+203
 00:15:39,790 --> 00:15:44,380
 Non mi serve il vostro tifo!
 
-206
+204
 00:15:45,010 --> 00:15:46,800
 Mollami!
 
-207
+205
 00:15:46,800 --> 00:15:49,510
 Gum Gum...
 
-208
+206
 00:15:50,180 --> 00:15:52,350
 Colpo Morale: Stella Polvere da Sparo!
 
-209
+207
 00:15:56,390 --> 00:16:03,360
 ...Campana!
 
-210
+208
 00:15:55,560 --> 00:15:57,440
 Il mio...
 
-211
+209
 00:15:57,440 --> 00:16:03,360
 Il mio piano non fallirà mai!
+

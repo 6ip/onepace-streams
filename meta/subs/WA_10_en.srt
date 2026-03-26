@@ -1,1639 +1,1626 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:41,870 --> 00:01:51,860
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:47,980 --> 00:01:49,750
 It's a secret mission!
 
-4
+2
 00:01:49,750 --> 00:01:51,060
 Alright!
 
-5
+3
 00:01:52,270 --> 00:01:54,050
 That'll be our decisive battle!
 
-6
+4
 00:01:54,050 --> 00:01:56,170
 The battle will take place...
 
-7
+5
 00:01:58,020 --> 00:02:00,030
 on an island called Onigashima...
 
-8
+6
 00:02:01,150 --> 00:02:04,850
 where Kaido and his Beast Pirates
 have made their base!
 
-9
+7
 00:02:04,850 --> 00:02:06,100
 An island?!
 
-10
+8
 00:02:06,100 --> 00:02:10,770
 You mean we have to cross
 the sea within Wano?
 
-11
+9
 00:02:10,770 --> 00:02:12,690
 That's right!
 
-12
+10
 00:02:12,690 --> 00:02:18,740
 With the island practically visible from the coast,
 larger sailing vessels aren't required for the journey.
 
-13
+11
 00:02:18,740 --> 00:02:21,200
 However, we'll still need a boat...
 
-14
+12
 00:02:21,200 --> 00:02:24,060
 if we are to raid Onigashima.
 
-15
+13
 00:02:24,060 --> 00:02:27,550
 Well, we can worry about boats later.
 
-16
+14
 00:02:28,000 --> 00:02:30,330
 When are we doing this?
 
-17
+15
 00:02:30,330 --> 00:02:33,000
 The battle will be on
 the day of the Fire Festival.
 
-18
+16
 00:02:33,000 --> 00:02:38,720
 The Fire Festival is a grand festival
 for the people of the capital.
 
-19
+17
 00:02:38,720 --> 00:02:43,680
 Kaido is considered
 a guardian deity of this country,
 
-20
+18
 00:02:43,680 --> 00:02:49,780
 and on that day, Orochi will lead the Shogun's
 procession to Onigashima to pay tribute to him.
 
-21
+19
 00:02:49,780 --> 00:02:52,880
 But all that is merely pretense!
 
-22
+20
 00:02:52,880 --> 00:02:59,070
 In reality, they'll be holding a banquet for
 the officials and the Beast Pirates.
 
-23
+21
 00:02:59,820 --> 00:03:01,280
 I see...
 
-24
+22
 00:03:01,280 --> 00:03:06,160
 So we'll beat the hell out of
 those partying, drunken fools
 
-25
+23
 00:03:06,160 --> 00:03:08,840
 and take out their leaders!
 
-26
+24
 00:03:08,840 --> 00:03:09,500
 But...!
 
-27
+25
 00:03:09,500 --> 00:03:17,730
 Okiku, once you see my heroics, you might
 fall for me over that perverted samurai!
 
-28
+26
 00:03:17,730 --> 00:03:20,630
 Oh, no, Sir Sanji! I believe
 you've got the wrong idea!
 
-29
+27
 00:03:20,630 --> 00:03:27,150
 I have a wife and Okiku is my comrade,
 so that is the extent of our relationship...
 
-30
+28
 00:03:27,150 --> 00:03:30,020
 Otsuru is doing well, by the way.
 
-31
+29
 00:03:30,020 --> 00:03:31,390
 You saw her?!
 
-32
+30
 00:03:31,390 --> 00:03:34,100
 I did, and she didn't recognize me.
 
-33
+31
 00:03:34,100 --> 00:03:35,810
 Is that so...?
 
-34
+32
 00:03:35,810 --> 00:03:37,940
 I'm glad she's okay...
 
-35
+33
 00:03:37,940 --> 00:03:42,990
 but I must refrain from seeing her
 until we accomplish our great task.
 
-36
+34
 00:03:42,990 --> 00:03:44,560
 Sir Kin...
 
-37
+35
 00:03:44,560 --> 00:03:48,410
 Married men shouldn't be popular
 with the ladies! It's not fair!
 
-38
+36
 00:03:48,410 --> 00:03:51,850
 Okiku, please dote on me, too!
 
-39
+37
 00:03:51,850 --> 00:03:53,300
 Just shut up...
 
-40
+38
 00:03:53,300 --> 00:03:57,340
 Sanji, Kiku is unbelievably strong!
 
-41
+39
 00:03:59,630 --> 00:04:02,370
 She's not just lovely but also strong?
 
-42
+40
 00:04:03,220 --> 00:04:05,010
 How perfect.
 
-43
+41
 00:04:06,890 --> 00:04:11,480
 Now, I drew a symbol that implies the date
 and rendezvous point for our battle.
 
-44
+42
 00:04:11,480 --> 00:04:13,640
 Two birds ablaze...
 
-45
+43
 00:04:14,270 --> 00:04:15,980
 over a pit viper or a habu...
 
-46
+44
 00:04:15,980 --> 00:04:19,610
 and a reversed crescent moon
 to signify rebellion!
 
-47
+45
 00:04:20,110 --> 00:04:23,820
 The day of the Fire Festival. At twilight. The second hour of the bird.
 
-48
+46
 00:04:23,820 --> 00:04:26,240
 At Habu Port."
 
-49
+47
 00:04:26,240 --> 00:04:31,950
 Overseas, "The second hour of the bird"
 means 5:30 or 6:00 in the evening.
 
-50
+48
 00:04:33,040 --> 00:04:37,080
 Do not worry. The people
 of Wano will understand.
 
-51
+49
 00:04:40,220 --> 00:04:47,340
 We must distribute these flyers to those who
 bear the mark of the moon on their left ankles!
 
-52
+50
 00:04:47,340 --> 00:04:50,190
 The symbol indicates their desire to rebel.
 
-53
+51
 00:04:50,190 --> 00:04:52,310
 They are our allies!
 
-54
+52
 00:04:52,310 --> 00:04:56,420
 They could be anywhere in Wano...
 
-55
+53
 00:04:56,420 --> 00:04:59,150
 so in order to reach
 as many people as possible,
 
-56
+54
 00:04:59,150 --> 00:05:02,400
 we have positioned our friends
 throughout the country.
 
-57
+55
 00:05:03,570 --> 00:05:09,330
 Sir Zorojuro and Sir Usohachi are already
 carrying out this task in the capital.
 
-58
+56
 00:05:09,330 --> 00:05:13,120
 Ah, I don't think Zoro is helping...
 
-59
+57
 00:05:15,660 --> 00:05:20,990
 Furthermore, so that we don't lose
 our way after arriving at Onigashima,
 
-60
+58
 00:05:20,990 --> 00:05:26,760
 we are trying to obtain the blueprints of
 Kaido's mansion from the carpenter who designed it.
 
-61
+59
 00:05:26,760 --> 00:05:30,490
 So we procured employment
 for Sir Franosuke under him.
 
-62
+60
 00:05:30,490 --> 00:05:35,320
 As for Madam Orobi, since we need to know
 every move Orochi's forces make,
 
-63
+61
 00:05:35,320 --> 00:05:41,570
 I asked her to pose as a geisha
 in order to secure an audience with Orochi!
 
-64
+62
 00:05:41,570 --> 00:05:43,930
 I heard she has become very popular.
 
-65
+63
 00:05:43,930 --> 00:05:47,200
 I wanna see Robin in her geisha outfit!
 
-66
+64
 00:05:47,200 --> 00:05:51,800
 And now, I would like to delegate
 tasks to the rest of you.
 
-67
+65
 00:05:51,800 --> 00:05:56,760
 Sir Brook's ability can help us procure
 food supplies in the capital.
 
-68
+66
 00:05:56,760 --> 00:05:59,130
 What...? It can?
 
-69
+67
 00:05:59,130 --> 00:06:03,840
 Madam Nami's manipulation of the weather is
 like ninjutsu, so she'll pose as a kunoichi!
 
-70
+68
 00:06:03,840 --> 00:06:05,710
 That's a female ninja, right?!
 
-71
+69
 00:06:07,220 --> 00:06:09,280
 The kunoichi Onami!
 
-72
+70
 00:06:09,680 --> 00:06:12,510
 Nami... A kunoichi?!
 
-73
+71
 00:06:12,510 --> 00:06:17,990
 Sir Sanji's cooking will be able to gather
 people together, helping us find recruits.
 
-74
+72
 00:06:18,890 --> 00:06:20,570
 Sir Sanji?
 
-75
+73
 00:06:20,570 --> 00:06:21,810
 Yeah, leave it to me!
 
-76
+74
 00:06:21,810 --> 00:06:23,360
 What about me?
 
-77
+75
 00:06:23,360 --> 00:06:29,710
 Madam Carrot and Sir Chopper, I want you
 to go with Kiku and assist Inuarashi.
 
-78
+76
 00:06:29,710 --> 00:06:32,320
 Kin'emon! I wanna be a ninja, too!
 
-79
+77
 00:06:32,320 --> 00:06:33,850
 So shall it be!
 
-80
+78
 00:06:33,850 --> 00:06:38,250
 I will provide clothes
 that are suited to your roles!
 
-81
+79
 00:06:38,250 --> 00:06:42,770
 Now, put a leaf on your head
 and brace yourselves!
 
-82
+80
 00:06:43,380 --> 00:06:45,520
 Are you ready?!
 
-83
+81
 00:06:46,110 --> 00:06:47,420
 Here it goes!
 
-84
+82
 00:06:47,450 --> 00:06:49,050
 My special magical ability!
 
-85
+83
 00:06:49,970 --> 00:06:52,470
 Garb-Garb Technique!
 
-86
+84
 00:06:52,470 --> 00:06:53,470
 Poof!
 
-87
+85
 00:07:03,940 --> 00:07:06,320
 Nami my sweet!
 
-88
+86
 00:07:06,320 --> 00:07:08,360
 Ninja!
 
-89
+87
 00:07:08,360 --> 00:07:12,620
 Since you're wearing appropriate Wanese
 clothing, it's time to set about your tasks.
 
-90
+88
 00:07:12,620 --> 00:07:14,030
 Wait, Kin'emon!
 
-91
+89
 00:07:14,030 --> 00:07:16,490
 Is this really how a kunoichi dresses?!
 
-92
+90
 00:07:16,490 --> 00:07:19,120
 That's how a kunoichi...
 
-93
+91
 00:07:19,120 --> 00:07:20,660
 should dress!
 
-94
+92
 00:07:20,660 --> 00:07:22,750
 Are you kidding me?!
 
-95
+93
 00:07:25,080 --> 00:07:27,490
 Now then, allow me to summon your guide.
 
-96
+94
 00:07:27,490 --> 00:07:30,170
 She is a real kunoichi.
 
-97
+95
 00:07:30,170 --> 00:07:32,630
 A real kunoichi!
 
-98
+96
 00:07:32,760 --> 00:07:34,930
 Now this is a treat!
 
-99
+97
 00:07:34,930 --> 00:07:36,850
 Shinobu!
 
-100
+98
 00:07:43,060 --> 00:07:44,260
 What?!
 
-101
+99
 00:07:46,490 --> 00:07:47,360
 Did you call?!
 
-102
+100
 00:07:47,360 --> 00:07:49,990
 How they should dress?!
 
-103
+101
 00:07:51,450 --> 00:07:53,410
 – What?!
 – What?!
 
-104
+102
 00:07:55,550 --> 00:07:56,660
 I won't...
 
-105
+103
 00:07:57,420 --> 00:07:58,580
 lose hope...
 
-106
+104
 00:07:58,580 --> 00:08:02,790
 Oh no! He's going into shock!
 
-107
+105
 00:08:02,790 --> 00:08:06,170
 Kin'emon! Is this just your taste?
 
-108
+106
 00:08:06,170 --> 00:08:11,420
 Kunoichi are either sexy or frumpy.
 Indeed, there are only two types...
 
-109
+107
 00:08:16,760 --> 00:08:18,680
 Maybe if I tighten it up...
 
-110
+108
 00:08:18,680 --> 00:08:21,670
 Brook, what are you disguised as?
 
-111
+109
 00:08:21,670 --> 00:08:25,360
 A person who wears panties on his head.
 
-112
+110
 00:08:25,360 --> 00:08:28,010
 Or so I thought!
 
-113
+111
 00:08:31,860 --> 00:08:34,460
 Isn't it nice...
 
-114
+112
 00:08:34,460 --> 00:08:35,950
 to be young?
 
-115
+113
 00:08:35,950 --> 00:08:38,500
 My name is Shinobu!
 
-116
+114
 00:08:38,500 --> 00:08:41,910
 I used to be like a younger
 sister to Master Kin.
 
-117
+115
 00:08:41,910 --> 00:08:43,570
 But now...
 
-118
+116
 00:08:44,890 --> 00:08:47,580
 I'm known for my Seduction Technique.
 
-119
+117
 00:08:47,580 --> 00:08:49,150
 Nice to meet you.
 
-120
+118
 00:08:49,890 --> 00:08:53,090
 If it weren't for Nami,
 my spirit would've been broken...
 
-121
+119
 00:08:53,090 --> 00:08:55,550
 No, Sanji!
 
-122
+120
 00:08:56,090 --> 00:08:58,100
 I understand, young man...
 
-123
+121
 00:08:58,100 --> 00:09:00,470
 Mature women...
 
-124
+122
 00:09:01,770 --> 00:09:04,690
 are like deadly weapons...
 
-125
+123
 00:09:04,690 --> 00:09:05,560
 All right!
 
-126
+124
 00:09:05,560 --> 00:09:08,280
 Until the rendezvous, we will split up...
 
-127
+125
 00:09:08,780 --> 00:09:12,230
 but there are three samurai
 in particular we need to find!
 
-128
+126
 00:09:13,360 --> 00:09:16,450
 If we can recruit them,
 they will be an added boon!
 
-129
+127
 00:09:16,450 --> 00:09:18,190
 Kawamatsu.
 
-130
+128
 00:09:18,190 --> 00:09:19,470
 Ashura Doji.
 
-131
+129
 00:09:19,470 --> 00:09:20,910
 Denjiro.
 
-132
+130
 00:09:20,910 --> 00:09:25,160
 Like us, those three served
 as retainers to Lord Oden!
 
-133
+131
 00:09:26,670 --> 00:09:29,920
 Let's do this! All of our allies are in place!
 
-134
+132
 00:09:31,630 --> 00:09:37,590
 Our targets are Emperor Kaido
 and the hateful Shogun Kurozumi Orochi!
 
-135
+133
 00:09:37,590 --> 00:09:42,060
 We act two weeks from now,
 on the night of the Fire Festival!
 
-136
+134
 00:09:42,850 --> 00:09:45,730
 We will raid...
 
-137
+135
 00:09:45,730 --> 00:09:49,520
 Kaido's home, Onigashima!
 
-138
+136
 00:10:04,950 --> 00:10:06,750
 – What?!
 – What?!
 
-139
+137
 00:10:40,580 --> 00:10:42,550
 Hello there!
 
-140
+138
 00:10:44,750 --> 00:10:45,790
 Do it!
 
-141
+139
 00:10:49,410 --> 00:10:52,580
 These fools have the good stuff!
 
-142
+140
 00:10:52,580 --> 00:10:55,380
 Give that back! Luffytaro gave...!
 
-143
+141
 00:10:55,380 --> 00:10:58,030
 Luffytaro gave it to us!
 
-144
+142
 00:10:58,030 --> 00:10:59,700
 Shut up!
 
-145
+143
 00:10:59,700 --> 00:11:00,760
 Mother!
 
-146
+144
 00:11:00,760 --> 00:11:05,730
 Oh? There's even fruit,
 sake, and rice! The nerve...
 
-147
+145
 00:11:05,730 --> 00:11:08,860
 Give that back! It's for my grandson!
 
-148
+146
 00:11:09,640 --> 00:11:13,360
 Shut up, old man! Hurry up
 and kick the bucket already–
 
-149
+147
 00:11:23,790 --> 00:11:25,950
 Who the hell...
 
-150
+148
 00:11:25,950 --> 00:11:28,910
 pulled a stunt like this?!
 
-151
+149
 00:11:28,910 --> 00:11:33,120
 Giving people food and acting like a hero?!
 
-152
+150
 00:11:33,120 --> 00:11:35,710
 It's nothing but a pipe dream for you people.
 
-153
+151
 00:11:35,710 --> 00:11:39,090
 You may have finally gotten some food...
 
-154
+152
 00:11:39,090 --> 00:11:42,800
 but we're taking it; that's how it's gonna be!
 
-155
+153
 00:11:42,800 --> 00:11:48,220
 There are no samurai left to the poor folk!
 
-156
+154
 00:11:49,220 --> 00:11:55,960
 No one left in this country is man enough...
 
-157
+155
 00:11:55,960 --> 00:11:59,190
 to lead our powerful samurai.
 
-158
+156
 00:12:00,550 --> 00:12:05,410
 Wano is finished!
 
-159
+157
 00:12:09,410 --> 00:12:11,630
 Got that, you old hag?
 
-160
+158
 00:12:11,630 --> 00:12:18,170
 Even if you somehow cling to life,
 nothing will change this cruel reality.
 
-161
+159
 00:12:25,590 --> 00:12:28,460
 Let me put you out of your misery!
 
-162
+160
 00:12:31,270 --> 00:12:32,960
 Please run!
 
-163
+161
 00:12:32,960 --> 00:12:34,500
 Grandma!
 
-164
+162
 00:12:40,220 --> 00:12:44,610
 I believe in Lady Otoki's words...
 
-165
+163
 00:12:47,170 --> 00:12:49,160
 She's dead!
 
-166
+164
 00:12:49,710 --> 00:12:52,480
 I know that the nine samurai...
 
-167
+165
 00:12:52,480 --> 00:12:55,580
 will fulfill Lord Oden's wish!
 
-168
+166
 00:12:55,580 --> 00:12:57,390
 Ridiculous!
 
-169
+167
 00:12:57,390 --> 00:13:01,090
 A war cannot be fought without a leader!
 
-170
+168
 00:13:12,470 --> 00:13:14,680
 Boss Shutenmaru! That's...!
 
-171
+169
 00:13:34,820 --> 00:13:37,540
 I finally get to meet...
 
-172
+170
 00:13:42,650 --> 00:13:44,880
 the head of the thieves brigade.
 
-173
+171
 00:13:45,730 --> 00:13:48,710
 A-A-A-A monster!
 
-174
+172
 00:13:48,710 --> 00:13:53,770
 A pirate named Straw Hat Luffy
 should have come through here...
 
-175
+173
 00:13:55,000 --> 00:14:00,560
 I don't suppose your demeanor will change
 if I tell you I don't know the guy?
 
-176
+174
 00:14:01,120 --> 00:14:03,650
 Don't push your luck.
 
-177
+175
 00:14:04,290 --> 00:14:05,690
 Huh?!
 
-178
+176
 00:14:05,690 --> 00:14:09,580
 The only reason we let you live...
 
-179
+177
 00:14:09,580 --> 00:14:13,770
 is because Kaido wants you as a subordinate.
 
-180
+178
 00:14:14,470 --> 00:14:18,540
 It doesn't mean I have to show you respect!
 
-181
+179
 00:14:21,650 --> 00:14:24,300
 Then, I'll give you my answer...
 
-182
+180
 00:14:26,800 --> 00:14:29,380
 to that invitation!
 
-183
+181
 00:14:37,470 --> 00:14:41,080
 Hey, Kin'emon, I understand your plan.
 
-184
+182
 00:14:41,080 --> 00:14:44,080
 But there's still one thing
 that doesn't make sense.
 
-185
+183
 00:14:44,770 --> 00:14:49,570
 You said that Oden defeated
 Ashura Doji over twenty years ago...
 
-186
+184
 00:14:49,570 --> 00:14:55,740
 So why is he among the allies
 you want us to find?
 
-187
+185
 00:14:57,270 --> 00:14:59,580
 That's a fair question.
 
-188
+186
 00:15:00,270 --> 00:15:05,770
 Ashura Doji mended his ways
 after Lord Oden defeated him.
 
-189
+187
 00:15:05,770 --> 00:15:09,170
 Indeed, he pledged his loyalty to him.
 
-190
+188
 00:15:10,530 --> 00:15:11,470
 However...
 
-191
+189
 00:15:11,470 --> 00:15:16,950
 We heard he became the head of the Mount
 Atama Thieves under the name Shutenmaru...
 
-192
+190
 00:15:16,950 --> 00:15:19,680
 and has returned to a life of crime.
 
-193
+191
 00:15:21,310 --> 00:15:24,270
 Hmm, thieves, huh?
 
-194
+192
 00:15:25,620 --> 00:15:26,690
 So then...
 
-195
+193
 00:15:27,490 --> 00:15:29,900
 is he strong?
 
-196
+194
 00:15:30,660 --> 00:15:36,450
 Yes, and it wouldn't be too much of a stretch
 to say he might be the strongest samurai.
 
-197
+195
 00:15:42,250 --> 00:15:43,430
 I see!
 
-198
+196
 00:16:06,220 --> 00:16:09,070
 Don't mess with a samurai!
 
-199
+197
 00:16:17,370 --> 00:16:19,080
 Master Jack!
 
-200
+198
 00:16:19,080 --> 00:16:21,290
 Damn you...
 
-201
+199
 00:17:02,540 --> 00:17:05,770
 Get back! Shutenmaru and Master Jack...
 
-202
+200
 00:17:05,770 --> 00:17:07,330
 ...are starting to fight!
 
-203
+201
 00:17:08,560 --> 00:17:10,750
 We're doomed!
 
-204
+202
 00:17:54,510 --> 00:17:58,340
 Ever since he died...
 
-205
+203
 00:18:00,220 --> 00:18:03,140
 I've been looking for a way
 to join him in death.
 
-206
+204
 00:18:09,480 --> 00:18:10,690
 However...
 
-207
+205
 00:18:12,270 --> 00:18:16,820
 My death won't come by a flunky like you!
 
-208
+206
 00:18:16,820 --> 00:18:18,610
 Cut the crap!
 
-209
+207
 00:18:32,090 --> 00:18:33,710
 I...
 
-210
+208
 00:18:36,050 --> 00:18:39,080
 should have died back then!
 
-211
+209
 00:18:41,930 --> 00:18:45,770
 Living is such a pain.
 
-212
+210
 00:19:27,600 --> 00:19:30,190
 Master Jack!
 
-213
+211
 00:19:30,800 --> 00:19:32,520
 L-Look... The sky!
 
-214
+212
 00:19:35,550 --> 00:19:37,610
 No way... Why?
 
-215
+213
 00:19:39,900 --> 00:19:44,030
 Why did he come in person?
 
-216
+214
 00:19:44,030 --> 00:19:46,750
 I-Is it because of me? Is it?
 
-217
+215
 00:19:46,750 --> 00:19:49,120
 Did he come to execute me?!
 
-218
+216
 00:19:50,710 --> 00:19:52,260
 Why, all of a sudden...?
 
-219
+217
 00:19:52,270 --> 00:19:53,710
 Is it gonna rain?
 
-220
+218
 00:19:54,600 --> 00:19:55,710
 No!
 
-221
+219
 00:19:55,710 --> 00:19:58,670
 Hey, Straw Hat! Get over here now!
 
-222
+220
 00:19:59,290 --> 00:20:00,760
 What's wrong, Traffy?
 
-223
+221
 00:20:03,180 --> 00:20:04,680
 What the...?
 
-224
+222
 00:20:19,150 --> 00:20:20,380
 Lord Momonosuke!
 
-225
+223
 00:20:20,380 --> 00:20:22,800
 What?! Lord Momonosuke can turn into a...
 
-226
+224
 00:20:22,800 --> 00:20:24,490
 ...d-dragon?!
 
-227
+225
 00:20:25,360 --> 00:20:31,060
 I will explain later, but yes,
 he is able to morph into this!
 
-228
+226
 00:20:31,060 --> 00:20:33,160
 Of all things...
 
-229
+227
 00:20:33,160 --> 00:20:36,460
 it had to be the form of a damn dragon!
 
-230
+228
 00:20:38,920 --> 00:20:41,550
 We're in trouble, Straw Hat.
 
-231
+229
 00:20:52,070 --> 00:20:54,440
 Move! Outta the way!
 
-232
+230
 00:20:57,050 --> 00:20:59,210
 I don't believe it...
 
-233
+231
 00:20:59,210 --> 00:21:00,370
 Why...?
 
-234
+232
 00:21:09,910 --> 00:21:12,250
 Hey, Jack.
 
-235
+233
 00:21:12,720 --> 00:21:14,010
 Yes, sir...
 
-236
+234
 00:21:16,580 --> 00:21:19,920
 Bring those brats...
 
-237
+235
 00:21:19,920 --> 00:21:23,060
 to me at once.
 
-238
+236
 00:21:26,840 --> 00:21:29,100
 Is that... a dragon?!
 
-239
+237
 00:21:29,850 --> 00:21:32,140
 Things can't get any worse...
 
-240
+238
 00:21:32,880 --> 00:21:33,850
 That's...
 
-241
+239
 00:21:36,780 --> 00:21:38,190
 Kaido!
 
-242
+240
 00:21:38,850 --> 00:21:40,020
 So that's...
 
-243
+241
 00:21:41,670 --> 00:21:43,320
 Kaido!
 
-244
+242
 00:22:19,810 --> 00:22:21,940
 So Kaido is a dragon?!
 
-245
+243
 00:22:24,050 --> 00:22:25,070
 Yes...
 
-246
+244
 00:22:31,730 --> 00:22:34,620
 What you see before you is Kaido!
 
-247
+245
 00:22:42,090 --> 00:22:43,630
 He is able...
 
-248
+246
 00:22:46,260 --> 00:22:49,170
 to transform into a dragon!
 
-249
+247
 00:22:58,000 --> 00:23:00,190
 Okobore Town is over there!
 
-250
+248
 00:23:00,190 --> 00:23:05,370
 But why would Kaido
 come to Kuri all of a sudden?
 
-251
+249
 00:23:05,370 --> 00:23:07,810
 I'm sorry, Kin'emon.
 
-252
+250
 00:23:07,810 --> 00:23:11,950
 The truth is they identified me,
 Straw Hat, and Zoro.
 
-253
+251
 00:23:11,950 --> 00:23:12,950
 What?!
 
-254
+252
 00:23:14,000 --> 00:23:18,380
 But that's all they know!
 Our plan is still under wraps!
 
-255
+253
 00:23:18,380 --> 00:23:20,080
 "That's all they know"?!
 
-256
+254
 00:23:20,080 --> 00:23:23,710
 How the hell could you be so sloppy, Law?!
 
-257
+255
 00:23:23,710 --> 00:23:27,990
 You Straw Hat Pirates
 don't have any right to blame me!
 
-258
+256
 00:23:28,800 --> 00:23:31,220
 Oh, I'm sure it was Luffy's fault.
 
-259
+257
 00:23:31,220 --> 00:23:33,140
 Well, we're sorry.
 
-260
+258
 00:23:33,140 --> 00:23:35,560
 He's probably looking for...
 
-261
+259
 00:23:35,560 --> 00:23:38,350
 me and Straw Hat.
 
-262
+260
 00:23:41,000 --> 00:23:44,100
 Kaido's Beast Pirates maintain...
 
-263
+261
 00:23:44,100 --> 00:23:48,320
 their overwhelming power
 thanks to two key factors.
 
-264
+262
 00:23:49,500 --> 00:23:54,280
 First, the weapons that Kaido is
 manufacturing in this country!
 
-265
+263
 00:23:55,180 --> 00:24:03,000
 Second, the underground trade of Caesar
 and Doflamingo's manufactured SMILE devil fruits.
 
-266
+264
 00:24:04,850 --> 00:24:09,760
 We destroyed the source of that trade
 with the factory on Punk Hazard...
 
-267
+265
 00:24:10,340 --> 00:24:14,100
 and captured Caesar who was
 necessary for SMILE development.
 
-268
+266
 00:24:18,850 --> 00:24:20,710
 On top of that...
 
-269
+267
 00:24:20,710 --> 00:24:23,480
 we destroyed another factory in Dressrosa...
 
-270
+268
 00:24:24,100 --> 00:24:29,030
 where Doflamingo, Kaido's critical
 trading partner, ruled.
 
-271
+269
 00:24:29,360 --> 00:24:34,190
 We also were key to the buyer
 Doflamingo's arrest, bringing him to ruin...
 
-272
+270
 00:24:36,030 --> 00:24:37,390
 In short...
 
-273
+271
 00:24:39,020 --> 00:24:42,010
 we picked a fight with Kaido.
 
-274
+272
 00:24:42,010 --> 00:24:44,120
 So the only ones he's coming after are...
 
-275
+273
 00:24:45,200 --> 00:24:47,410
 me and Straw Hat!
 
-276
+274
 00:24:51,420 --> 00:24:52,670
 Hey, Luffy!
 
-277
+275
 00:24:52,670 --> 00:24:54,650
 Luffy, wait!
 
-278
+276
 00:24:54,650 --> 00:24:55,620
 Sir Luffy!
 
-279
+277
 00:24:55,620 --> 00:24:58,010
 Don't follow him! I'll go!
 
-280
+278
 00:24:59,330 --> 00:25:02,560
 If more of us get exposed,
 
-281
+279
 00:25:02,560 --> 00:25:07,310
 they'll find out that all of
 the Straw Hat and Heart Pirates are here!
 
-282
+280
 00:25:09,420 --> 00:25:11,610
 It would kick off a giant manhunt!
 
-283
+281
 00:25:16,570 --> 00:25:18,930
 We need to think rationally.
 
-284
+282
 00:25:18,930 --> 00:25:22,500
 We're the only ones they've seen.
 
-285
+283
 00:25:30,160 --> 00:25:31,960
 Your plan is still safe!
 
-286
+284
 00:25:32,890 --> 00:25:33,840
 All right?
 
-287
+285
 00:25:33,840 --> 00:25:36,510
 Then, what are you two going to do?!
 
-288
+286
 00:25:38,840 --> 00:25:41,010
 I wish I could let things be...
 
-289
+287
 00:25:42,310 --> 00:25:46,440
 but Straw Hat has already gotten involved
 with the people of this country.
 
-290
+288
 00:25:55,580 --> 00:25:59,320
 If his emotions take charge,
 then our plan is doomed.
 
-291
+289
 00:26:02,580 --> 00:26:07,330
 This alliance will have been pointless if we
 aren't all there on the day of execution.
 
-292
+290
 00:26:09,530 --> 00:26:11,190
 I'll take care of it.
 
-293
+291
 00:26:12,000 --> 00:26:13,100
 Room!
 
-294
+292
 00:26:16,470 --> 00:26:19,050
 No matter what, do not reveal yourselves!
 
-295
+293
 00:26:21,140 --> 00:26:22,640
 Shambles!
 
-296
+294
 00:26:24,100 --> 00:26:25,930
 Captain!
 
-297
+295
 00:26:33,620 --> 00:26:38,320
 Damn it, Luffy! What did you do
 while we were separated?
 
-298
+296
 00:26:53,400 --> 00:26:56,170
 Retreat to the forest, Mount Atama Thieves!
 
-299
+297
 00:26:56,170 --> 00:26:58,840
 We do not want to get involved with him!
 
-300
+298
 00:27:16,710 --> 00:27:19,380
 I heard rumors...
 
-301
+299
 00:27:19,380 --> 00:27:23,990
 about the mighty brigand living
 deep in the mountains of Kuri.
 
-302
+300
 00:27:23,990 --> 00:27:26,000
 Shutenmaru.
 
-303
+301
 00:27:31,250 --> 00:27:33,290
 I...
 
-304
+302
 00:27:33,290 --> 00:27:35,630
 remember you...
 
-305
+303
 00:27:58,630 --> 00:28:01,480
 But let's not dwell on the past!
 
-306
+304
 00:28:03,700 --> 00:28:06,870
 If you bend the knee to me...
 
-307
+305
 00:28:17,450 --> 00:28:20,970
 it'll all be water under the bridge.
 
-308
+306
 00:28:46,290 --> 00:28:48,280
 Whoa! Smells like alcohol!
 
-309
+307
 00:28:48,280 --> 00:28:51,700
 Kaido, don't tell me you're drunk!
 
-310
+308
 00:28:53,800 --> 00:28:57,280
 You idiot! I'm not drunk!
 
-311
+309
 00:28:57,880 --> 00:28:59,630
 – He's drunk!
 – He's drunk!
 
-312
+310
 00:29:09,700 --> 00:29:12,730
 What'll it be, Shutenmaru?
 
-313
+311
 00:29:13,460 --> 00:29:17,260
 We can't get away! We'll have to fight him!
 
-314
+312
 00:29:23,110 --> 00:29:26,420
 Master Jack, I'm trying to stop
 the bleeding, so don't move!
 
-315
+313
 00:29:26,420 --> 00:29:30,990
 He's so wasted... He could
 lose his temper at any moment.
 
-316
+314
 00:29:30,990 --> 00:29:33,580
 We'd better get out of here.
 
-317
+315
 00:29:33,580 --> 00:29:36,770
 Right. But...
 
-318
+316
 00:29:36,770 --> 00:29:41,250
 the residents of Okobore Town
 are valuable laborers for our factories!
 
-319
+317
 00:29:42,350 --> 00:29:45,010
 I'm all for setting an example...
 
-320
+318
 00:29:45,010 --> 00:29:48,220
 but if he wreaks havoc senselessly...
 
-321
+319
 00:29:48,220 --> 00:29:50,240
 he'll wipe out all of Kuri.
 
-322
+320
 00:29:52,440 --> 00:29:55,260
 Why didn't you tell me sooner, Kiku?!
 
-323
+321
 00:29:55,260 --> 00:29:56,730
 Apologies, Sir Kin!
 
-324
+322
 00:29:56,730 --> 00:30:00,650
 Why don't you go back?! I will save Tsuru!
 
-325
+323
 00:30:00,650 --> 00:30:03,030
 No, I share in the responsibility!
 
-326
+324
 00:30:04,710 --> 00:30:08,910
 I cannot believe she did not get remarried
 to someone who would protect her!
 
-327
+325
 00:30:08,910 --> 00:30:13,740
 It has already been
 twenty years since I left her!
 
-328
+326
 00:30:14,270 --> 00:30:16,500
 I am on my way, Tsuru!
 
-329
+327
 00:30:20,670 --> 00:30:22,960
 Damn! It's still so far away!
 
-330
+328
 00:30:24,780 --> 00:30:25,760
 Straw Hat!
 
-331
+329
 00:30:25,760 --> 00:30:29,470
 Traffy! You think the people
 of Okobore Town are okay?!
 
-332
+330
 00:30:29,470 --> 00:30:33,390
 Moron! Now do you see?
 This is what happens...
 
-333
+331
 00:30:33,390 --> 00:30:35,270
 when pirates do good deeds!
 
-334
+332
 00:30:35,270 --> 00:30:37,770
 Kaido is just after us, right?!
 
-335
+333
 00:30:37,770 --> 00:30:38,600
 Yeah!
 
-336
+334
 00:31:01,460 --> 00:31:03,170
 Viceroy Kaido!
 
-337
+335
 00:31:04,820 --> 00:31:05,800
 Isn't he...
 
-338
+336
 00:31:05,800 --> 00:31:08,010
 a headliner?
 
-339
+337
 00:31:08,010 --> 00:31:13,720
 Viceroy! If you're looking for
 Straw Hat Luffy and Trafalgar Law...
 
-340
+338
 00:31:15,670 --> 00:31:19,730
 they're hiding in the ruins of Oden Castle!
 
-341
+339
 00:31:21,620 --> 00:31:23,690
 Oden Castle?
 
-342
+340
 00:31:31,000 --> 00:31:32,820
 Hawkins!
 
-343
+341
 00:31:32,820 --> 00:31:37,700
 That's where Straw Hat and Law
 are hiding?! Is this the truth?!
 
-344
+342
 00:31:38,460 --> 00:31:43,500
 No... I lied to him to contain his rampage.
 
-345
+343
 00:31:44,880 --> 00:31:47,750
 But that's not all.
 
-346
+344
 00:31:48,530 --> 00:31:51,930
 Maybe it's because of that
 particular legend, but lately...
 
-347
+345
 00:31:51,930 --> 00:31:56,510
 people are saying that they've seen
 suspicious lights on the mountain top.
 
-348
+346
 00:31:56,510 --> 00:31:58,420
 Legend?
 
-349
+347
 00:31:58,420 --> 00:32:00,940
 Do you mean the one from twenty years ago,
 
-350
+348
 00:32:00,940 --> 00:32:05,980
 where the Kozuki samurai return to enact
 their revenge, even though we killed them?
 
-351
+349
 00:32:05,980 --> 00:32:07,280
 Yes.
 
-352
+350
 00:32:07,280 --> 00:32:10,400
 Instead of letting it incite
 Shogun Orochi's terror,
 
-353
+351
 00:32:10,400 --> 00:32:15,160
 We can kill two birds with one stone by
 letting him wipe out that abandoned castle.
 
-354
+352
 00:32:22,020 --> 00:32:24,990
 Oden Castle, you say?!
 
-355
+353
 00:32:34,860 --> 00:32:39,960
 That brings back memories...
 It is indeed a good place to hide.
 
-356
+354
 00:32:39,960 --> 00:32:42,940
 So that's where they are...!
 
-357
+355
 00:32:47,310 --> 00:32:50,730
 They robbed me of my SMILE production.
 
-358
+356
 00:32:50,730 --> 00:32:54,720
 Those damn punks!
 
-359
+357
 00:32:56,980 --> 00:32:58,740
 I won't let them get away!
 
-360
+358
 00:33:03,690 --> 00:33:07,290
 He's heading toward the ruins of Oden Castle!
 
-361
+359
 00:33:22,990 --> 00:33:24,060
 Oh?
 
-362
+360
 00:33:27,350 --> 00:33:30,840
 Hey! Isn't he coming toward us?!
 
-363
+361
 00:33:30,840 --> 00:33:32,230
 – No way!
 – No way!
 
-364
+362
 00:33:33,820 --> 00:33:36,530
 Don't tell me he's noticed us!
 
-365
+363
 00:33:36,530 --> 00:33:38,200
 – What?!
 – What?!
 
-366
+364
 00:33:38,200 --> 00:33:39,620
 It can't be!
 
-367
+365
 00:33:39,620 --> 00:33:42,040
 It's impossible to see us from there!
 
-368
+366
 00:33:45,580 --> 00:33:46,620
 No...
 
-369
+367
 00:33:48,540 --> 00:33:49,590
 He's coming!
 
-370
+368
 00:33:56,200 --> 00:33:57,720
 Run for it, guys!
 
-371
+369
 00:34:05,870 --> 00:34:07,940
 Why is he going over there?!
 
-372
+370
 00:34:39,720 --> 00:34:41,140
 Impossible...!
 
-373
+371
 00:34:55,690 --> 00:34:57,400
 Oh no! That's...!
 
-374
+372
 00:35:11,870 --> 00:35:13,830
 Everyone, run!
 
-375
+373
 00:35:16,820 --> 00:35:18,880
 Blast Breath!
 
-376
+374
 00:35:44,490 --> 00:35:47,120
 – Captain!
 – Captain!
 
-377
+375
 00:36:51,350 --> 00:36:55,060
 Kaido!
 
-378
+376
 00:08:37,490 --> 00:08:41,910
 Shinobu
 A Veteran Kunoichi
 
-379
+377
 00:09:57,950 --> 00:10:00,280
 Okobore 
 Town
 
-380
+378
 00:10:18,300 --> 00:10:19,680
 "Heaven"
 
-381
+379
 00:10:24,640 --> 00:10:30,600
 Boss Shutenmaru
 Mount Atama Thieves
 
-382
+380
 00:10:49,500 --> 00:10:52,580
 "Sake"
 
-383
+381
 00:13:44,130 --> 00:13:48,050
 Jack
 Superstar, Beast Pirates
 
-384
+382
 00:32:50,860 --> 00:32:55,160
 "Law & Straw Hat Form Pirate Alliance"
+

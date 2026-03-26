@@ -1,1867 +1,1869 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:30,070 --> 00:01:40,060
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:35,070 --> 00:01:36,280
 Es gibt krasse Neuigkeiten!
 
-4
+2
 00:01:36,620 --> 00:01:38,950
 Kapitän Koby ist geflohen!
 
-5
+3
 00:01:38,950 --> 00:01:40,160
 Echt jetzt?!
 
-6
+4
 00:01:40,160 --> 00:01:42,370
 Juhu!
 
-7
+5
 00:01:42,870 --> 00:01:46,000
 Jetzt, wo er geflohen ist, ist er nicht länger die Beute des Kommodores, oder?!
 
-8
+6
 00:01:46,000 --> 00:01:48,590
 Wie viel kriegen wir, wenn wir ihn schnappen?
 
-9
+7
 00:01:48,590 --> 00:01:50,340
 Yippie!
 
-10
+8
 00:01:50,340 --> 00:01:54,050
 Sieh an, unsere Bande muss kein Kopfgeld auf ihn aussetzen.
 
-11
+9
 00:01:54,050 --> 00:01:56,550
 Cross Guild gibt uns Kohle für ihn!
 
-12
+10
 00:01:56,550 --> 00:01:59,430
 Ich hab sogar ’ne Wette am Laufen!
 
-13
+11
 00:01:59,430 --> 00:02:01,390
 Da kriege ich jede Menge Asche!
 
-14
+12
 00:02:01,390 --> 00:02:03,390
 Wie viel bekommen wir, wenn wir ihn töten?!
 
-15
+13
 00:02:04,020 --> 00:02:05,690
 Da fallen euch die Augen aus den Köpfen!
 
-16
+14
 00:02:07,650 --> 00:02:09,820
 Er hat ein Fünf-Sterne-Kopfgeld!
 
-17
+15
 00:02:09,820 --> 00:02:13,490
 Das bedeutet fünf Schatztruhen!
 Das sind ungefähr 500 Millionen Berry!
 
-18
+16
 00:02:13,490 --> 00:02:16,120
 Ein Fünf-Sterne-Kopfgeld?!
 
-19
+17
 00:02:16,120 --> 00:02:18,330
 Normalerweise haben Kapitäne nur einen Stern!
 
-20
+18
 00:02:21,160 --> 00:02:24,170
 Jawoll! Dann lasst uns den Jackpot mal knacken.
 
-21
+19
 00:02:24,170 --> 00:02:27,040
 Lasst die Jagd beginnen!
 
-22
+20
 00:02:29,340 --> 00:02:32,380
 Ich spüre einen höllischen Juckreiz auf meiner linken Brust.
 
-23
+21
 00:02:32,720 --> 00:02:36,010
 Dort werden die Sklaven vor dem Verkauf festgehalten.
 
-24
+22
 00:02:41,720 --> 00:02:44,310
 Das ist eindeutig ein Gefängnisausbruch!
 
-25
+23
 00:02:44,640 --> 00:02:46,440
 Die Sklaven sind geflohen?!
 
-26
+24
 00:02:47,650 --> 00:02:50,020
 Dürfen wir sie auch alle jagen, Pizarro?
 
-27
+25
 00:02:50,020 --> 00:02:51,650
 Stell nicht so ’ne dumme Frage!
 
-28
+26
 00:02:51,650 --> 00:02:53,490
 Ihr seid alle zu brutal!
 
-29
+27
 00:02:54,030 --> 00:02:55,740
 Bringt sie alle zurück in ihre Zellen!
 
-30
+28
 00:02:55,740 --> 00:02:57,200
 Und Koby wird nicht getötet!
 
-31
+29
 00:02:57,660 --> 00:02:59,280
 Sonst sage ich es Teach.
 
-32
+30
 00:03:01,620 --> 00:03:04,080
 Warum kann dieser Felsen reden?
 
-33
+31
 00:03:04,460 --> 00:03:06,580
 Er weiß, dass wir hier sind!
 
-34
+32
 00:03:06,580 --> 00:03:07,790
 Wir müssen uns beeilen!
 
-35
+33
 00:03:10,800 --> 00:03:11,750
 Was?
 
-36
+34
 00:03:12,880 --> 00:03:14,720
 Hier ist Endstation für uns.
 
-37
+35
 00:03:15,170 --> 00:03:19,720
 Lauf einfach weg, bevor wir dir ein Klotz am Bein werden.
 
-38
+36
 00:03:19,720 --> 00:03:21,930
 Lasst euch nicht entmutigen, Leute!
 
-39
+37
 00:03:21,930 --> 00:03:24,310
 Ich werde den Lockvogel spielen.
 
-40
+38
 00:03:24,810 --> 00:03:28,940
 Ihr müsst auf jeden Fall von hier wegkommen!
 
-41
+39
 00:03:28,940 --> 00:03:29,690
 Macht’s gut!
 
-42
+40
 00:03:30,690 --> 00:03:32,280
 Bis irgendwann mal wieder!
 
-43
+41
 00:03:34,190 --> 00:03:35,820
 Danke!
 
-44
+42
 00:03:38,070 --> 00:03:40,280
 Danke, Kapitän Koby.
 
-45
+43
 00:03:43,330 --> 00:03:45,660
 Du bist ein wahrer Heiliger.
 
-46
+44
 00:03:53,550 --> 00:03:58,130
 Du kannst sie doch selbst schnappen, Pizarro.
 
-47
+45
 00:04:02,260 --> 00:04:05,480
 Dann wird mir Teach später die Leviten lesen.
 
-48
+46
 00:04:08,480 --> 00:04:12,110
 Wenn ich mich in Bewegung setze,
 geht ’ne Menge kaputt.
 
-49
+47
 00:04:16,320 --> 00:04:18,860
 Darf ich gehen?
 
-50
+48
 00:04:18,860 --> 00:04:22,070
 Was führst du im Schilde, Vasco Shot?
 
-51
+49
 00:04:28,290 --> 00:04:32,040
 Wenn ich die Stadt in Brand stecke, gibt es kein Entkommen mehr für sie.
 
-52
+50
 00:04:42,720 --> 00:04:44,350
 Hey, schlag dir das aus dem Kopf!
 
-53
+51
 00:04:44,350 --> 00:04:46,060
 Du würdest einen Flächenbrand auslösen!
 
-54
+52
 00:04:46,390 --> 00:04:48,520
 Teach wäre stinksauer!
 
-55
+53
 00:04:48,520 --> 00:04:51,270
 Ist doch kein Problem. Überlasst die mir.
 
-56
+54
 00:04:51,770 --> 00:04:56,360
 Vergiss es! Die Reparatur von Rocky Port wurde gerade erst abgeschlossen!
 
-57
+55
 00:04:56,860 --> 00:05:00,240
 Immer noch besser als es Wolf zu überlassen, oder?
 
-58
+56
 00:05:04,490 --> 00:05:05,830
 Wolf?
 
-59
+57
 00:05:07,700 --> 00:05:10,040
 Der kommt nicht infrage!
 
-60
+58
 00:05:10,040 --> 00:05:13,040
 Die ganze Stadt würde dem Erdboden gleichgemacht werden.
 
-61
+59
 00:05:17,670 --> 00:05:18,760
 Ich habe ihn gefunden!
 
-62
+60
 00:05:24,550 --> 00:05:26,760
 Scheiße! Ich werde wohl nicht fliehen können!
 
-63
+61
 00:05:29,270 --> 00:05:30,230
 Ich muss...
 
-64
+62
 00:05:31,270 --> 00:05:36,570
 Ich muss sie irgendwie auf Trab halten, bis die anderen auf dem Meer sind.
 
-65
+63
 00:05:38,940 --> 00:05:40,950
 Wenn das nicht Held Koby ist!
 
-66
+64
 00:05:44,870 --> 00:05:49,700
 Hör mal, Held Koby, mein Wunsch ist es, diese Insel,
 
-67
+65
 00:05:51,160 --> 00:05:54,000
 diese Pirateninsel
 
-68
+66
 00:05:54,380 --> 00:05:58,210
 zu einem vollwertigen Staat zu machen!
 
-69
+67
 00:05:58,210 --> 00:06:02,430
 Ein Land, das der Weltregierung angehört!
 
-70
+68
 00:06:03,680 --> 00:06:05,390
 Und ich werde der König sein!
 
-71
+69
 00:06:05,720 --> 00:06:07,760
 Königreich Blackbeard!
 
-72
+70
 00:06:11,230 --> 00:06:13,190
 Was sagst du dazu?
 
-73
+71
 00:06:13,190 --> 00:06:15,270
 Spar dir deine absurden Geschichten.
 
-74
+72
 00:06:15,650 --> 00:06:17,770
 Niemals würde man das akzeptieren!
 
-75
+73
 00:06:18,190 --> 00:06:20,230
 Das wäre ein Land der Verbrecher!
 
-76
+74
 00:06:20,610 --> 00:06:24,610
 Hey, jetzt ruiniere doch nicht den Traum eines alten Mannes!
 
-77
+75
 00:06:24,610 --> 00:06:28,620
 Ich werde mit ihnen verhandeln und dein Leben als Druckmittel benutzen.
 
-78
+76
 00:06:29,910 --> 00:06:33,660
 Wenn die Regierung und Marine mit Terroristen verhandelt, ist alles verloren!
 
-79
+77
 00:06:34,500 --> 00:06:37,000
 Außerdem verschwendest du deine Zeit.
 
-80
+78
 00:06:37,880 --> 00:06:38,920
 Ich...
 
-81
+79
 00:06:39,630 --> 00:06:41,590
 gehöre nämlich zu SWORD.
 
-82
+80
 00:06:42,840 --> 00:06:44,680
 SWORD?
 
-83
+81
 00:06:44,680 --> 00:06:46,390
 Was soll das denn sein?
 
-84
+82
 00:06:46,390 --> 00:06:47,930
 Verstehe.
 
-85
+83
 00:06:48,640 --> 00:06:50,640
 Dein Plan wird nicht aufgehen.
 
-86
+84
 00:06:50,640 --> 00:06:52,980
 Gib den Handel lieber auf, Teach.
 
-87
+85
 00:07:00,650 --> 00:07:02,190
 Der Bengel hier
 
-88
+86
 00:07:02,190 --> 00:07:05,240
 ist zwar ein Marine-Soldat, aber zugleich auch nicht.
 
-89
+87
 00:07:06,530 --> 00:07:08,990
 Er hat den Marine-Kodex aufgegeben.
 
-90
+88
 00:07:11,200 --> 00:07:15,750
 SWORD ist eine Gruppe von Marine-Soldaten, die den Dienst quittiert haben.
 
-91
+89
 00:07:16,170 --> 00:07:20,340
 Sie können sich also ohne Erlaubnis der Chefetage mit den Vier Kaisern anlegen.
 
-92
+90
 00:07:20,340 --> 00:07:24,670
 Sie setzen sich über Befehle hinweg und haben überall freie Hand.
 
-93
+91
 00:07:24,670 --> 00:07:27,890
 Sie sind eine Kommandoeinheit. Im Gegenzug...
 
-94
+92
 00:07:29,100 --> 00:07:32,930
 übernimmt die Marine in keiner Weise Verantwortung für ihr Handeln
 
-95
+93
 00:07:33,560 --> 00:07:35,690
 und kann ihnen jederzeit den Garaus machen.
 
-96
+94
 00:07:38,270 --> 00:07:39,650
 Alles klar!
 
-97
+95
 00:07:40,150 --> 00:07:43,900
 Das unterscheidet also die Schwachköpfe,
 die auf Erlaubnis warten, um gegen uns zu kämpfen,
 
-98
+96
 00:07:44,320 --> 00:07:47,740
 und die, die einfach losstürmen,
 ohne sich um irgendwas Sorgen zu machen.
 
-99
+97
 00:07:50,200 --> 00:07:52,870
 Das gefällt mir. Nun bin ich im Bilde.
 
-100
+98
 00:07:54,160 --> 00:07:55,200
 Allerdings
 
-101
+99
 00:07:55,200 --> 00:07:57,830
 ändert sich dadurch mein Plan nicht.
 
-102
+100
 00:07:58,420 --> 00:08:00,210
 Ich versuche mein Glück!
 
-103
+101
 00:08:01,420 --> 00:08:03,630
 Auch wenn du zu SWORD gehörst,
 
-104
+102
 00:08:04,340 --> 00:08:07,880
 wirst du als „Held“ bezeichnet.
 
-105
+103
 00:08:07,880 --> 00:08:11,300
 Mal sehen, ob die Marine wirklich bereit ist, dich im Stich zu lassen.
 
-106
+104
 00:08:12,100 --> 00:08:14,560
 Ich werde es der ganzen Welt verkünden!
 
-107
+105
 00:08:15,680 --> 00:08:18,730
 Dann wird die Regierung nicht ohne einen Kratzer davonkommen!
 
-108
+106
 00:08:22,110 --> 00:08:24,820
 Sperrt ihn weg, bis die Zeit reif ist!
 
-109
+107
 00:08:26,240 --> 00:08:28,070
 Ich kann’s kaum erwarten.
 
-110
+108
 00:08:28,070 --> 00:08:30,780
 Er muss brav bei uns bleiben!
 
-111
+109
 00:08:32,530 --> 00:08:35,370
 Hiergeblieben, Koby!
 
-112
+110
 00:08:41,540 --> 00:08:42,420
 Hör mal.
 
-113
+111
 00:08:42,420 --> 00:08:44,500
 Ich werde dich da rausholen
 
-114
+112
 00:08:44,500 --> 00:08:48,800
 und du wirst Meister Moria befreien,
 der sich in einer Zelle weiter drinnen aufhält.
 
-115
+113
 00:08:49,300 --> 00:08:51,510
 Ich habe mit einer Piratin kooperiert,
 
-116
+114
 00:08:52,260 --> 00:08:54,390
 aber in der Not frisst der Teufel Fliegen.
 
-117
+115
 00:09:01,940 --> 00:09:02,860
 Was ist das?
 
-118
+116
 00:09:12,530 --> 00:09:15,240
 Drei Marine-Soldaten sind am Hafen aufgetaucht!
 
-119
+117
 00:09:15,740 --> 00:09:18,290
 Hä? Marine-Soldaten? Das glaub ich nicht!
 
-120
+118
 00:09:18,910 --> 00:09:20,250
 Schnell!
 
-121
+119
 00:09:21,290 --> 00:09:23,880
 Die Typen sind stark! Seid vorsichtig!
 
-122
+120
 00:09:25,670 --> 00:09:27,800
 Ist jemand gekommen, um mich zu retten?
 
-123
+121
 00:09:27,800 --> 00:09:29,130
 Halt, halt!
 
-124
+122
 00:09:29,130 --> 00:09:30,800
 Das wäre ein anmaßender Gedanke!
 
-125
+123
 00:09:30,800 --> 00:09:32,010
 Wie ich mich schäme!
 
-126
+124
 00:09:51,700 --> 00:09:52,820
 Wer sind die?!
 
-127
+125
 00:09:52,820 --> 00:09:54,320
 Wieso sind die so stark?!
 
-128
+126
 00:09:54,320 --> 00:09:56,830
 Sie bewegen sich auf das Stadtzentrum zu!
 
-129
+127
 00:09:56,830 --> 00:09:57,790
 Was wollen die?!
 
-130
+128
 00:09:57,790 --> 00:10:00,200
 Keine Ahnung! Haltet sie auf!
 
-131
+129
 00:10:07,800 --> 00:10:10,260
 Hä? Feuerwaffen wirken bei ihnen nicht!
 
-132
+130
 00:10:11,720 --> 00:10:14,050
 Legt euch lieber nicht mit uns an!
 
-133
+131
 00:10:17,470 --> 00:10:19,060
 Da fliegt schon mal ein Kopf!
 
-134
+132
 00:10:23,560 --> 00:10:25,270
 Einer wäre damit erledigt!
 
-135
+133
 00:10:25,600 --> 00:10:26,980
 Geschieht dir recht!
 
-136
+134
 00:10:33,570 --> 00:10:34,860
 Das tat weh.
 
-137
+135
 00:10:34,860 --> 00:10:36,990
 Hä?! Ist das ein Logia-Nutzer?!
 
-138
+136
 00:10:37,320 --> 00:10:38,990
 Was ist das für ein Kerl?!
 
-139
+137
 00:10:38,990 --> 00:10:41,160
 Sein Körper besteht aus Lehm!
 
-140
+138
 00:10:42,710 --> 00:10:45,080
 Wo steckst du, Koby?!
 
-141
+139
 00:10:47,290 --> 00:10:49,040
 S-Schau mal...
 
-142
+140
 00:10:49,420 --> 00:10:51,800
 Hast du auch gesehen,
 wie sich die Gebäude bewegen?
 
-143
+141
 00:10:51,800 --> 00:10:53,550
 Dummkopf! Die können sich nicht bewegen!
 
-144
+142
 00:10:53,550 --> 00:10:55,510
 Du hast zu tief ins Glas geguckt!
 
-145
+143
 00:11:02,850 --> 00:11:05,310
 Komm schon! Sei ein braves Kerlchen!
 
-146
+144
 00:11:08,440 --> 00:11:10,190
 Vorwärts! Marsch!
 
-147
+145
 00:11:10,190 --> 00:11:13,150
 Wer ist dieses komische Weib dort?
 
-148
+146
 00:11:13,150 --> 00:11:15,950
 Reiß dich zusammen und schieb weiter!
 
-149
+147
 00:11:18,240 --> 00:11:20,580
 Was für ein jämmerlicher Anblick.
 
-150
+148
 00:11:20,580 --> 00:11:22,700
 Los! Los! Los!
 
-151
+149
 00:11:22,700 --> 00:11:25,210
 Sie peitscht das Gebäude.
 
-152
+150
 00:11:26,420 --> 00:11:28,630
 Was gibt’s denn da zu glotzen?
 
-153
+151
 00:11:28,630 --> 00:11:30,340
 Ähm! Nein, wir haben nicht...
 
-154
+152
 00:11:30,880 --> 00:11:33,050
 S-Sie ist eine Marine-Soldatin?!
 
-155
+153
 00:11:39,800 --> 00:11:43,470
 Kriegen Piraten so selten eine Marine-Soldatin zu Gesicht?
 
-156
+154
 00:11:46,480 --> 00:11:48,730
 Kommt mal her.
 
-157
+155
 00:11:48,730 --> 00:11:50,230
 Ihr seid ein paar süße Kerle.
 
-158
+156
 00:11:57,820 --> 00:11:59,700
 Ich werde euch dressieren.
 
-159
+157
 00:12:07,080 --> 00:12:09,170
 Du stehst mit dem Rücken zur Wand, Koby!
 
-160
+158
 00:12:09,540 --> 00:12:11,670
 Mist! Ich bin umzingelt!
 
-161
+159
 00:12:16,880 --> 00:12:18,340
 Zielen!
 
-162
+160
 00:12:20,590 --> 00:12:21,550
 Wird das mein Ende sein?
 
-163
+161
 00:12:22,050 --> 00:12:23,760
 Schießt auf mein Zeichen!
 
-164
+162
 00:12:23,760 --> 00:12:26,350
 Feuer!
 
-165
+163
 00:12:54,460 --> 00:12:56,050
 Wie wunderschön!
 
-166
+164
 00:12:56,050 --> 00:12:58,510
 Blödsinn! Was zur Hölle ist das?!
 
-167
+165
 00:12:58,920 --> 00:13:01,260
 Warum kommen Blumen aus den Mündungen?!
 
-168
+166
 00:13:02,510 --> 00:13:04,760
 Halt, wartet mal.
 
-169
+167
 00:13:04,760 --> 00:13:05,930
 Das ist doch...
 
-170
+168
 00:13:09,350 --> 00:13:11,230
 eine Erfindung von Dr. Vegapunk!
 
-171
+169
 00:13:15,650 --> 00:13:18,780
 Damit hat er den Ibel-Friedenspreis gewonnen!
 
-172
+170
 00:13:19,820 --> 00:13:21,910
 Das geht mir gerade am Arsch vorbei!
 
-173
+171
 00:13:22,530 --> 00:13:24,870
 Wessen Werk war das?!
 
-174
+172
 00:13:24,870 --> 00:13:26,080
 Koby!
 
-175
+173
 00:13:29,500 --> 00:13:31,500
 Komm schnell zu mir!
 
-176
+174
 00:13:31,500 --> 00:13:32,210
 Nein.
 
-177
+175
 00:13:32,830 --> 00:13:34,420
 Krieg das nicht in den falschen Hals!
 
-178
+176
 00:13:38,380 --> 00:13:41,180
 Hibari! Was machst du denn hier?!
 
-179
+177
 00:13:41,720 --> 00:13:42,800
 Sag bloß...
 
-180
+178
 00:13:42,800 --> 00:13:47,510
 Ja! Das Schießpulver dieser Blumenkugeln,
 die ich verschossen habe, lässt Blumen erblühen!
 
-181
+179
 00:13:47,850 --> 00:13:50,020
 Die Waffen der Feinde sind nun unbrauchbar!
 
-182
+180
 00:13:50,020 --> 00:13:51,980
 Ergreif schnell die Flucht!
 
-183
+181
 00:13:52,440 --> 00:13:56,690
 U-Und wenn du Hunger hast, dann hab ich...
 
-184
+182
 00:13:57,070 --> 00:13:58,320
 ein Lunchpaket...
 
-185
+183
 00:13:59,690 --> 00:14:01,070
 für dich zubereitet!
 
-186
+184
 00:14:02,860 --> 00:14:04,660
 Nein, also ich...
 
-187
+185
 00:14:12,250 --> 00:14:13,620
 Prince! Gibt es Fortschritte?
 
-188
+186
 00:14:14,880 --> 00:14:17,840
 Ja, unsere Aufgabe wurde soeben abgeschlossen.
 
-189
+187
 00:14:25,260 --> 00:14:27,140
 Koby ist wohlauf!
 
-190
+188
 00:14:30,560 --> 00:14:34,020
 S-Sagt mal, sah der Platz schon immer so aus?
 
-191
+189
 00:14:37,360 --> 00:14:40,360
 Kann es sein, dass sich dieses Gebäude bewegt?
 
-192
+190
 00:14:40,360 --> 00:14:41,820
 Hey, halt!
 
-193
+191
 00:14:45,160 --> 00:14:48,950
 W-Wir kommen hier nicht mehr weg!
 
-194
+192
 00:14:48,950 --> 00:14:50,950
 Probieren geht über Studieren, was?
 
-195
+193
 00:14:51,330 --> 00:14:52,910
 Gut, ihr könnt jederzeit einfliegen!
 
-196
+194
 00:14:53,290 --> 00:14:55,250
 Der Prinz hat sich gemeldet!
 
-197
+195
 00:14:55,580 --> 00:14:57,000
 Alles ist bereit!
 
-198
+196
 00:14:57,000 --> 00:14:58,430
 Vizeadmiral Garp!
 
-199
+197
 00:14:59,960 --> 00:15:02,510
 Haltet euch alle gut fest, Soldaten!
 
-200
+198
 00:15:05,090 --> 00:15:07,390
 Setzt die Segel!
 
-201
+199
 00:15:15,690 --> 00:15:17,020
 Komm hoch! Schnell!
 
-202
+200
 00:15:17,440 --> 00:15:19,270
 Gut, lass uns schnell von hier verschwinden!
 
-203
+201
 00:15:24,860 --> 00:15:26,530
 Schaut nach oben!
 
-204
+202
 00:15:40,500 --> 00:15:44,380
 Ein Kriegsschiff der Marine fliegt durch den Himmel!
 
-205
+203
 00:15:44,380 --> 00:15:47,050
 Was?! Wie kann das möglich sein?!
 
-206
+204
 00:15:47,050 --> 00:15:48,390
 Wer ist dort an Bord?!
 
-207
+205
 00:15:49,850 --> 00:15:52,760
 Fällt uns das Ding nicht gleich auf die Rübe?
 
-208
+206
 00:15:52,760 --> 00:15:55,310
 R-Rennt schnell weg!
 
-209
+207
 00:15:59,020 --> 00:16:01,650
 Seht mal, wer da oben auf dem Schiff ist!
 
-210
+208
 00:16:04,440 --> 00:16:07,910
 Unmöglich! Ich dachte,
 er hätte sich zur Ruhe gesetzt!
 
-211
+209
 00:16:08,410 --> 00:16:11,450
 Das ist der legendäre Held!
 
-212
+210
 00:16:16,580 --> 00:16:19,540
 Vizeadmiral Garp!
 
-213
+211
 00:16:20,040 --> 00:16:21,540
 Koby!
 
-214
+212
 00:16:21,540 --> 00:16:23,550
 Ich bin gekommen, um dich zu retten!
 
-215
+213
 00:16:25,300 --> 00:16:28,050
 Flieht! Wir müssen erst mal hier weg!
 
-216
+214
 00:16:28,050 --> 00:16:30,970
 Keine Chance. Der Platz wurde vollkommen dichtgemacht!
 
-217
+215
 00:16:34,560 --> 00:16:38,100
 Hey, Piratenpack!
 
-218
+216
 00:16:38,940 --> 00:16:41,060
 Wir sind am Arsch! Lauft weg!
 
-219
+217
 00:17:00,080 --> 00:17:01,830
 Vizeadmiral Garp...
 
-220
+218
 00:17:03,000 --> 00:17:05,960
 Warum ist er hergekommen,
 um jemanden wie mich zu retten?
 
-221
+219
 00:17:06,380 --> 00:17:07,970
 Ihr Halunken!
 
-222
+220
 00:17:08,670 --> 00:17:13,930
 Wisst ihr überhaupt, wen ihr da entführt habt?!
 
-223
+221
 00:17:22,020 --> 00:17:25,230
 Koby ist die Zukunft der Marine!
 
-224
+222
 00:17:26,400 --> 00:17:29,030
 Und außerdem
 
-225
+223
 00:17:29,490 --> 00:17:33,620
 ist er mein lieber Schüler!
 
-226
+224
 00:17:34,990 --> 00:17:38,290
 Galaxy...
 
-227
+225
 00:17:49,460 --> 00:17:53,340
 Impact!
 
-228
+226
 00:18:52,150 --> 00:18:54,700
 Kumulus-Lehmwolke!
 
-229
+227
 00:19:07,670 --> 00:19:11,250
 Scheiße! Dieser Garp hat sie doch nicht alle!
 
-230
+228
 00:19:11,250 --> 00:19:13,510
 Das wird der alte Knacker büßen!
 
-231
+229
 00:19:13,510 --> 00:19:15,220
 Keine Bewegung, Piratenpack!
 
-232
+230
 00:19:16,180 --> 00:19:19,930
 Widerstand wird zu weiteren Opfern führen!
 
-233
+231
 00:19:26,940 --> 00:19:29,440
 Das stellt mich nicht zufrieden.
 
-234
+232
 00:19:30,230 --> 00:19:32,230
 Ich bin etwas eingerostet.
 
-235
+233
 00:19:32,860 --> 00:19:34,240
 Laber keinen Scheiß!
 
-236
+234
 00:19:34,240 --> 00:19:36,860
 Du hast so viel Verwüstung verursacht und bist noch enttäuscht darüber!
 
-237
+235
 00:19:37,240 --> 00:19:39,200
 Vizeadmiral Garp!
 
-238
+236
 00:19:40,990 --> 00:19:42,540
 Oh, Koby!
 
-239
+237
 00:19:43,200 --> 00:19:44,960
 Dir geht’s also gut!
 
-240
+238
 00:19:47,210 --> 00:19:49,040
 Mir fällt ein Stein vom Herzen!
 
-241
+239
 00:19:49,040 --> 00:19:51,460
 Sie haben ihn nicht getötet!
 
-242
+240
 00:19:51,460 --> 00:19:54,590
 Oje, er hat es wirklich übertrieben.
 
-243
+241
 00:19:54,590 --> 00:19:57,470
 Dieser Garp ist ein böser Junge.
 
-244
+242
 00:19:57,470 --> 00:20:00,260
 Garp sagte, Koby sei die Zukunft der Marine.
 
-245
+243
 00:20:00,260 --> 00:20:01,430
 Das ist unverzeihlich!
 
-246
+244
 00:20:01,430 --> 00:20:03,640
 Ich werde ihm Steine in den Weg legen.
 
-247
+245
 00:20:03,640 --> 00:20:08,150
 So etwas muss man heimlich machen,
 du verzogener Bengel!
 
-248
+246
 00:20:08,150 --> 00:20:09,770
 Sonst verliert es den Liebreiz.
 
-249
+247
 00:20:09,770 --> 00:20:11,860
 Koby!
 
-250
+248
 00:20:11,860 --> 00:20:14,150
 Kapitän Koby!
 
-251
+249
 00:20:14,480 --> 00:20:16,610
 Koby!
 
-252
+250
 00:20:16,610 --> 00:20:18,320
 Tashigi!
 
-253
+251
 00:20:18,700 --> 00:20:21,070
 Sogar meine Kameraden außerhalb von SWORD sind hier.
 
-254
+252
 00:20:22,200 --> 00:20:25,160
 Warum trägst du denn das Ding mit dir herum, Koby?!
 
-255
+253
 00:20:25,160 --> 00:20:26,500
 Vizeadmiral Garp!
 
-256
+254
 00:20:26,910 --> 00:20:28,870
 Diese Fußfessel ist nicht abzukriegen!
 
-257
+255
 00:20:28,870 --> 00:20:30,580
 Wir wussten nicht, was wir tun sollten!
 
-258
+256
 00:20:30,580 --> 00:20:31,540
 Unternehmen...
 
-259
+257
 00:20:33,920 --> 00:20:35,260
 Sie...
 
-260
+258
 00:20:35,840 --> 00:20:37,090
 bitte...
 
-261
+259
 00:20:38,220 --> 00:20:39,840
 etwas...
 
-262
+260
 00:20:44,140 --> 00:20:45,140
 Hibari!
 
-263
+261
 00:20:45,140 --> 00:20:46,350
 Hibari!
 
-264
+262
 00:20:49,730 --> 00:20:51,020
 Hibari!
 
-265
+263
 00:21:03,070 --> 00:21:04,330
 Kuzan.
 
-266
+264
 00:21:04,830 --> 00:21:06,290
 Kuzan!
 
-267
+265
 00:21:06,620 --> 00:21:08,160
 Wieso hast du das getan?!
 
-268
+266
 00:21:08,160 --> 00:21:10,540
 Taue Hibari sofort auf!
 
-269
+267
 00:21:12,130 --> 00:21:14,130
 Da ist Aokiji!
 
-270
+268
 00:21:14,750 --> 00:21:17,260
 Kapitän Kuzan!
 
-271
+269
 00:21:17,260 --> 00:21:19,090
 Kuzan!
 
-272
+270
 00:21:20,470 --> 00:21:22,340
 Du bringst mich in die Bredouille, Koby.
 
-273
+271
 00:21:22,340 --> 00:21:24,260
 Während Teach fort ist,
 
-274
+272
 00:21:24,680 --> 00:21:27,390
 darf ich dich nicht entkommen lassen.
 
-275
+273
 00:21:28,100 --> 00:21:29,270
 Vor zwei Jahren
 
-276
+274
 00:21:29,940 --> 00:21:33,770
 kam es zu einem großen Streit um den Posten des nächsten Flottenadmirals
 
-277
+275
 00:21:34,480 --> 00:21:37,440
 vom Marine-Hauptquartier zwischen Admiral Akainu
 
-278
+276
 00:21:38,150 --> 00:21:40,450
 und Admiral Aokiji.
 
-279
+277
 00:21:44,700 --> 00:21:49,080
 Nach zehn Tagen eines tödlichen Kampfes ging der Sieg an...
 
-280
+278
 00:21:49,750 --> 00:21:50,790
 Akainu.
 
-281
+279
 00:21:52,500 --> 00:21:57,090
 Aokiji weigerte sich jedoch, unter Akainu zu dienen.
 
-282
+280
 00:21:57,460 --> 00:21:59,460
 Daraufhin kehrte er der Marine den Rücken.
 
-283
+281
 00:22:19,360 --> 00:22:21,440
 Ich fass es nicht...
 
-284
+282
 00:22:21,780 --> 00:22:23,570
 Blackbeard ist hier!
 
-285
+283
 00:22:23,570 --> 00:22:26,370
 Flieht! Verschwindet aus der Stadt!
 
-286
+284
 00:22:26,370 --> 00:22:27,280
 Hey!
 
-287
+285
 00:22:27,280 --> 00:22:29,490
 Was zum Henker ist hier passiert?!
 
-288
+286
 00:22:29,490 --> 00:22:32,460
 Halt! Wer war das?!
 
-289
+287
 00:22:36,590 --> 00:22:39,050
 Nein, die Frage kann ich mir sparen.
 
-290
+288
 00:22:40,380 --> 00:22:42,840
 Es gibt nur eine Person auf der Welt,
 
-291
+289
 00:22:42,840 --> 00:22:45,840
 die zu so etwas imstande ist.
 
-292
+290
 00:22:47,760 --> 00:22:49,220
 Du warst das!
 
-293
+291
 00:22:49,220 --> 00:22:51,270
 Aokiji!
 
-294
+292
 00:23:03,860 --> 00:23:06,490
 Meine Kameraden sind da draußen festgefroren!
 
-295
+293
 00:23:06,490 --> 00:23:08,910
 Tau sie wieder auf!
 
-296
+294
 00:23:09,780 --> 00:23:12,370
 Geh mir nicht auf den Sack!
 
-297
+295
 00:23:13,370 --> 00:23:16,000
 Wende lieber nicht die Kraft der Erdbeben-Frucht an.
 
-298
+296
 00:23:17,500 --> 00:23:19,790
 Deine Kameraden würden zerbrechen und sterben.
 
-299
+297
 00:23:21,300 --> 00:23:24,550
 Als ihr Kapitän solltest du deine Mannschaft kennen.
 
-300
+298
 00:23:25,800 --> 00:23:28,260
 Glaubst du, dass ich den Streit vom Zaun gebrochen habe?
 
-301
+299
 00:23:29,010 --> 00:23:29,970
 Außerdem...
 
-302
+300
 00:23:30,560 --> 00:23:32,720
 solltest du Bescheid wissen.
 
-303
+301
 00:23:32,720 --> 00:23:36,900
 Mein Herz ist gebrochen und ich platze vor Wut.
 
-304
+302
 00:23:38,940 --> 00:23:41,860
 Kannst dir also vorstellen, wer hier die Schuld trägt.
 
-305
+303
 00:24:05,670 --> 00:24:08,130
 Wir brauchen mehr Schnaps!
 
-306
+304
 00:24:09,840 --> 00:24:12,930
 Du bist ja echt trinkfest, du Eislutscher.
 
-307
+305
 00:24:12,930 --> 00:24:15,680
 Das Kompliment geb ich zurück,
 du Abschaumarsch!
 
-308
+306
 00:24:18,140 --> 00:24:21,270
 Und was hat Akainu dann gesagt?
 
-309
+307
 00:24:24,900 --> 00:24:28,030
 „Ein Todeskampf zwischen zwei Männern im gleichen Dienstalter.
 
-310
+308
 00:24:28,030 --> 00:24:31,240
 Das treibt mir die Tränen in die Augen.“
 
-311
+309
 00:24:31,950 --> 00:24:34,950
 Ja, ist auch kein Wunder, wenn man...
 
-312
+310
 00:24:35,290 --> 00:24:38,000
 so heiß wie Magma ist!
 
-313
+311
 00:24:40,170 --> 00:24:41,670
 Hier seht ihr das Resultat.
 
-314
+312
 00:24:45,590 --> 00:24:47,550
 Ich hab nur noch ein Bein.
 
-315
+313
 00:24:48,470 --> 00:24:51,430
 Das passiert also, wenn zwei Admirale gegeneinander kämpfen!
 
-316
+314
 00:24:51,430 --> 00:24:52,970
 Was ist mit Akainu?
 
-317
+315
 00:24:53,510 --> 00:24:55,890
 Hast du ihm wenigstens einen Arm ausgerissen?!
 
-318
+316
 00:24:56,270 --> 00:24:57,270
 Nein.
 
-319
+317
 00:24:59,980 --> 00:25:02,610
 Allerdings sollte sein Körper mit Narben übersät sein.
 
-320
+318
 00:25:05,190 --> 00:25:09,530
 Apropos Narben, vielleicht kennt er den Mann mit der Brandnarbe, Kommodore.
 
-321
+319
 00:25:09,900 --> 00:25:12,030
 Hä? Der Mann mit der Brandnarbe?
 
-322
+320
 00:25:12,030 --> 00:25:17,830
 Es gibt vier wichtige rote Road-Poneglyphs auf der Welt.
 
-323
+321
 00:25:19,960 --> 00:25:24,630
 Kaido und Big Mom sollen jeweils eines davon besitzen.
 
-324
+322
 00:25:26,250 --> 00:25:30,590
 Die übrigen zwei sind allerdings nicht zu finden.
 
-325
+323
 00:25:30,590 --> 00:25:33,340
 Dies könnte wieder eine Wendung des Schicksals sein.
 
-326
+324
 00:25:33,340 --> 00:25:34,300
 Ja.
 
-327
+325
 00:25:34,300 --> 00:25:40,310
 Und es heißt, dass der Mann mit der Brandnarbe eines von ihnen hat.
 
-328
+326
 00:25:42,020 --> 00:25:43,190
 Ist da von mir die Rede?
 
-329
+327
 00:25:43,190 --> 00:25:46,020
 Diese Narbe hast du doch erst kürzlich bekommen!
 
-330
+328
 00:25:50,240 --> 00:25:52,240
 Gerüchten zufolge,
 
-331
+329
 00:25:58,540 --> 00:26:03,370
 soll dieser Mann auf einem pechschwarzen Schiff segeln.
 
-332
+330
 00:26:10,340 --> 00:26:11,970
 Und wenn man sich ihm nähert,
 
-333
+331
 00:26:11,970 --> 00:26:16,930
 wird er einen Riesenstrudel erzeugen, der das feindliche Schiff verschlingt.
 
-334
+332
 00:26:20,850 --> 00:26:23,560
 Er könnte ein Teufelsfruchtnutzer sein.
 
-335
+333
 00:26:24,190 --> 00:26:27,770
 Ich glaube, dass er der Regierung dient.
 
-336
+334
 00:26:28,270 --> 00:26:31,820
 Die Weltregierung hat in Wahrheit auch eine finstere Seite.
 
-337
+335
 00:26:31,820 --> 00:26:34,410
 Wenn sie auch nur einen Stein davon besitzen,
 
-338
+336
 00:26:34,820 --> 00:26:37,620
 würde es die Piraten daran hindern,
 
-339
+337
 00:26:38,120 --> 00:26:43,250
 den großen Schatz,
 das One Piece, zu erreichen.
 
-340
+338
 00:26:44,750 --> 00:26:46,420
 Die Poneglyphs?
 
-341
+339
 00:26:46,420 --> 00:26:48,630
 Damit verbinde ich nur üble Erinnerungen.
 
-342
+340
 00:26:48,630 --> 00:26:54,300
 Hätte ich so einen auffälligen roten Stein in Ohara gesehen, würde ich mich erinnern.
 
-343
+341
 00:26:55,930 --> 00:26:58,050
 Alles, woran ich mich erinnere,
 
-344
+342
 00:26:58,050 --> 00:27:01,310
 ist mein bester Freund, der sich gegen die Regierung auflehnte,
 
-345
+343
 00:27:01,310 --> 00:27:04,140
 und der traurige Blick eines Mädchens,
 
-346
+344
 00:27:04,640 --> 00:27:08,400
 dessen Schicksal in meinen Händen lag.
 
-347
+345
 00:27:10,730 --> 00:27:13,610
 Was für eine öde Geschichte ist das denn?!
 
-348
+346
 00:27:16,450 --> 00:27:18,660
 Was sollen wir tun, Kommodore?
 
-349
+347
 00:27:19,660 --> 00:27:24,000
 Wenn wir seine Macht rauben, würde es unsere Streitmacht enorm verstärken.
 
-350
+348
 00:27:29,460 --> 00:27:32,420
 Ich hab euch gehört, ihr elenden Penner!
 
-351
+349
 00:27:34,630 --> 00:27:38,600
 Sehnt ihr euch danach, in eine Welt des Eises einzutauchen?
 
-352
+350
 00:27:42,140 --> 00:27:43,520
 Stopp, stopp, stopp!
 
-353
+351
 00:27:45,060 --> 00:27:46,940
 Mir ist übrigens zu Ohren gekommen,
 
-354
+352
 00:27:46,940 --> 00:27:50,610
 dass ihr auf der Jagd nach Teufelsfruchtnutzern seid.
 
-355
+353
 00:27:52,280 --> 00:27:54,030
 Soll mir recht sein!
 
-356
+354
 00:27:59,660 --> 00:28:00,870
 Halt!
 
-357
+355
 00:28:01,740 --> 00:28:02,990
 Entschuldige.
 
-358
+356
 00:28:02,990 --> 00:28:05,750
 Was mein Kamerad da gesagt hat, war dumm.
 
-359
+357
 00:28:06,370 --> 00:28:08,920
 Ich habe nichts dergleichen vor.
 
-360
+358
 00:28:08,920 --> 00:28:11,040
 Ich möchte dich lieber fragen,
 
-361
+359
 00:28:11,040 --> 00:28:13,500
 ob du an Bord meines Schiffes kommst.
 
-362
+360
 00:28:14,460 --> 00:28:17,720
 Ist das dein Ernst, Kapitän?
 
-363
+361
 00:28:17,720 --> 00:28:20,680
 Du hast doch sowieso gerade keinen Job, oder?
 
-364
+362
 00:28:20,680 --> 00:28:22,680
 Kannst du irgendwohin?
 
-365
+363
 00:28:22,680 --> 00:28:24,680
 Was willst du jetzt tun,
 
-366
+364
 00:28:24,680 --> 00:28:27,100
 nachdem dich die Gerechtigkeit fallengelassen hat?
 
-367
+365
 00:28:28,140 --> 00:28:34,150
 Bin echt tief gesunken, wenn sich ein Pirat Sorgen um meine berufliche Laufbahn macht.
 
-368
+366
 00:28:34,150 --> 00:28:37,360
 Wo auch immer du hingehst und was auch immer du tust,
 
-369
+367
 00:28:37,990 --> 00:28:41,120
 du wirst auf jeden Fall in irgendwelche Konflikte hineingezogen.
 
-370
+368
 00:28:41,120 --> 00:28:46,290
 Unter welche Flagge willst du kämpfen,
 wenn das der Fall ist?
 
-371
+369
 00:28:46,290 --> 00:28:47,710
 Na?!
 
-372
+370
 00:28:49,080 --> 00:28:52,090
 Ich bin nicht so wie die Typen von der Marine!
 
-373
+371
 00:28:52,090 --> 00:28:54,920
 Meine Art von Gerechtigkeit auf der Welt ist anders!
 
-374
+372
 00:28:54,920 --> 00:28:56,260
 Mach dich nicht lächerlich!
 
-375
+373
 00:28:56,260 --> 00:29:01,260
 Nur weil wir Spaß bei einem Trinkgelage hatten, schenke ich euch nicht gleich mein Vertrauen!
 
-376
+374
 00:29:01,260 --> 00:29:02,640
 Mach mal halblang.
 
-377
+375
 00:29:02,640 --> 00:29:05,520
 Du hast ’ne falsche Vorstellung von Piraten.
 
-378
+376
 00:29:05,520 --> 00:29:09,520
 Wir sind keine Friede-Freude-Eierkuchen-Truppe.
 
-379
+377
 00:29:14,690 --> 00:29:16,900
 Bei einer Piratenbande...
 
-380
+378
 00:29:19,570 --> 00:29:23,740
 reicht es aus, wenn sich die Interessen überschneiden!
 
-381
+379
 00:29:26,620 --> 00:29:29,750
 Du bist doch jetzt ein freier Mann, oder?
 
-382
+380
 00:29:31,250 --> 00:29:33,170
 Was willst du tun?
 
-383
+381
 00:29:47,720 --> 00:29:49,350
 Hey, Kuzan!
 
-384
+382
 00:29:49,810 --> 00:29:51,640
 Taue Hibari sofort auf!
 
-385
+383
 00:29:52,190 --> 00:29:53,980
 Und lass Koby entkommen!
 
-386
+384
 00:29:53,980 --> 00:29:56,690
 Komm zurück zur Marine!
 
-387
+385
 00:29:59,440 --> 00:30:04,570
 Wie immer redest du frei von der Leber weg.
 
-388
+386
 00:30:08,290 --> 00:30:12,370
 Ich kann dir leider keinen dieser Wünsche erfüllen, Garp!
 
-389
+387
 00:30:13,290 --> 00:30:15,080
 Genau diese Art...
 
-390
+388
 00:30:15,960 --> 00:30:17,800
 mag ich so sehr an dir.
 
-391
+389
 00:30:18,420 --> 00:30:22,720
 Auch ich führe mein Leben jetzt nach meinen eigenen Wünschen!
 
-392
+390
 00:30:27,930 --> 00:30:29,310
 Du Dummkopf.
 
-393
+391
 00:30:46,030 --> 00:30:46,870
 Ice...
 
-394
+392
 00:30:47,370 --> 00:30:48,580
 Ball!
 
-395
+393
 00:30:54,830 --> 00:30:56,790
 Vizeadmiral Garp!
 
-396
+394
 00:30:58,960 --> 00:31:00,800
 Vizeadmiral Garp!
 
-397
+395
 00:31:04,260 --> 00:31:06,890
 Um deinen lieben Schüler zu retten,
 
-398
+396
 00:31:07,470 --> 00:31:11,970
 würdest du also deinen ehemals besten Schüler umbringen?!
 
-399
+397
 00:31:13,680 --> 00:31:15,900
 Lass dich nicht in Ketten legen, du Idiot!
 
-400
+398
 00:31:17,520 --> 00:31:20,780
 Ich hab dir doch beigebracht, im Hier und Jetzt zu leben!
 
-401
+399
 00:31:26,160 --> 00:31:27,240
 Das hat nicht geklappt!
 
-402
+400
 00:31:47,470 --> 00:31:49,220
 Hör mir zu, Kuzan!
 
-403
+401
 00:32:12,410 --> 00:32:14,620
 Diejenigen, die zögern,
 
-404
+402
 00:32:16,370 --> 00:32:17,330
 sind Schwächlinge!
 
-405
+403
 00:32:19,540 --> 00:32:22,960
 Blue Hole!
 
-406
+404
 00:32:51,950 --> 00:32:55,660
 Zur gleichen Zeit hier auf Winner Island...
 
-407
+405
 00:33:32,450 --> 00:33:37,330
 Da ihr euer Schiff verloren habt, könnt ihr euch nicht mehr Piratenbande nennen!
 
-408
+406
 00:33:37,830 --> 00:33:40,540
 Du wirst mir nicht mehr entkommen!
 
-409
+407
 00:33:41,170 --> 00:33:47,420
 Die 100 Piraten, denen du in Rocky Port die Herzen gestohlen hast,
 
-410
+408
 00:33:47,420 --> 00:33:52,010
 leben immer noch in Angst vor dir auf der Pirateninsel!
 
-411
+409
 00:33:52,390 --> 00:33:55,350
 Wenn ich dein Herz auf die Insel bringe,
 
-412
+410
 00:33:55,350 --> 00:33:58,600
 werden sie einen Freudentrunk zu sich nehmen!
 
-413
+411
 00:34:05,480 --> 00:34:07,730
 Die hast du wirklich für mich gemacht?!
 
-414
+412
 00:34:07,730 --> 00:34:11,700
 Allerdings garantiere ich nicht,
 ob sie funktionieren.
 
-415
+413
 00:34:17,450 --> 00:34:19,080
 Na schön.
 
-416
+414
 00:34:19,080 --> 00:34:23,460
 Die Qual der Wahl. Soll ich die Operations-Frucht verkaufen oder benutzen?
 
-417
+415
 00:34:23,460 --> 00:34:26,670
 Könnte sie mir die ewige Jugend schenken?
 
-418
+416
 00:34:34,430 --> 00:34:37,180
 Ihr werdet meinem Käpt’n...
 
-419
+417
 00:34:39,310 --> 00:34:41,060
 kein Haar krümmen!
 
-420
+418
 00:34:50,780 --> 00:34:51,940
 Bepo...
 
-421
+419
 00:34:57,780 --> 00:34:59,910
 Hä?! Su Long?!
 
-422
+420
 00:34:59,910 --> 00:35:02,370
 Unmöglich! Es ist kein Mond am Himmel!
 
-423
+421
 00:35:11,920 --> 00:35:13,920
 Halt, halt, halt, halt, halt!
 
-424
+422
 00:35:30,230 --> 00:35:31,280
 Käpt’n!
 
-425
+423
 00:35:53,090 --> 00:35:55,380
 Scheiße! Er ist ins Meer geflohen!
 
-426
+424
 00:35:55,380 --> 00:35:57,590
 Lasst ihn nicht entkommen!
 
-427
+425
 00:36:04,560 --> 00:36:07,140
 Schwimm zurück, Bepo.
 
-428
+426
 00:36:11,610 --> 00:36:15,900
 Ich kann meine Kameraden nicht zurücklassen.
 
-429
+427
 00:36:15,900 --> 00:36:17,660
 Den Teufel werd ich tun!
 
-430
+428
 00:36:18,410 --> 00:36:20,780
 Glaub an sie, Käpt’n.
 
-431
+429
 00:36:20,780 --> 00:36:23,580
 Seit dem extrem kalten Hafen im Norden...
 
-432
+430
 00:36:25,580 --> 00:36:28,960
 bis zum heutigen Tage haben wir immer überlebt.
 
-433
+431
 00:36:28,960 --> 00:36:30,250
 Darum...
 
-434
+432
 00:36:31,540 --> 00:36:34,050
 wird keiner von uns hier sterben!
 
-435
+433
 00:36:39,800 --> 00:36:42,560
 Wir haben gemeinsam schon so viel durchgestanden!
 
-436
+434
 00:36:44,640 --> 00:36:46,520
 Also, Käpt’n...
 
-437
+435
 00:36:47,600 --> 00:36:50,190
 Stirb nicht!
 
-438
+436
 00:36:58,950 --> 00:37:00,530
 Ich flehe dich an.
 
-439
+437
 00:37:01,910 --> 00:37:03,910
 Du darfst nicht sterben.
 
-440
+438
 00:37:09,120 --> 00:37:12,840
 Dies ist Winner Island in der Neuen Welt.
 
-441
+439
 00:37:21,390 --> 00:37:23,850
 Das U-Boot der Heart-Piratenbande,
 
-442
+440
 00:37:24,350 --> 00:37:26,100
 die Polar Tang,
 
-443
+441
 00:37:26,470 --> 00:37:27,980
 ist gesunken.
 
-444
+442
 00:37:31,440 --> 00:37:33,400
 Die Heart-Piratenbande,
 
-445
+443
 00:37:33,400 --> 00:37:35,520
 angeführt von Trafalgar Law,
 
-446
+444
 00:37:36,820 --> 00:37:38,320
 hat eine Niederlage erlitten.
 
-447
+445
 00:01:36,280 --> 00:01:40,160
 "Pirateninsel" Hachinosu
 Neue Welt
+
+446
+00:01:36,280 --> 00:01:40,160
+"Pirateninsel" Hachinosu
+Neue Welt
+
+447
+00:03:50,630 --> 00:03:53,550
+Shiryu "des Regens"
+Unsichtbarkeits-Frucht
+Unsichtbarskeits-Mensch
 
 448
-00:01:36,280 --> 00:01:40,160
-"Pirateninsel" Hachinosu
-Neue Welt
+00:03:50,630 --> 00:03:53,550
+Shiryu "des Regens"
+Unsichtbarkeits-Frucht
+Unsichtbarskeits-Mensch
 
 449
-00:03:50,630 --> 00:03:53,550
-Shiryu "des Regens"
-Unsichtbarkeits-Frucht
-Unsichtbarskeits-Mensch
+00:04:04,930 --> 00:04:08,480
+"Schlechter König" Avalo Pizarro
+Insel-Frucht
+Insel-Mensch
 
 450
-00:03:50,630 --> 00:03:53,550
-Shiryu "des Regens"
-Unsichtbarkeits-Frucht
-Unsichtbarskeits-Mensch
+00:04:04,930 --> 00:04:08,480
+"Schlechter König" Avalo Pizarro
+Insel-Frucht
+Insel-Mensch
 
 451
-00:04:04,930 --> 00:04:08,480
-"Schlechter König" Avalo Pizarro
-Insel-Frucht
-Insel-Mensch
+00:04:31,580 --> 00:04:35,130
+"Saufbold" Vasco Shot
+Gluck-Gluck-Frucht
+Alkohol-Mensch
 
 452
-00:04:04,930 --> 00:04:08,480
-"Schlechter König" Avalo Pizarro
-Insel-Frucht
-Insel-Mensch
+00:04:31,580 --> 00:04:35,130
+"Saufbold" Vasco Shot
+Gluck-Gluck-Frucht
+Alkohol-Mensch
 
 453
-00:04:31,580 --> 00:04:35,130
-"Saufbold" Vasco Shot
-Gluck-Gluck-Frucht
-Alkohol-Mensch
+00:05:05,830 --> 00:05:10,040
+"Riesenschlachtschiff" San-Juan Wolf
+Riesen-Frucht
+Gigantifikations-Mensch
 
 454
-00:04:31,580 --> 00:04:35,130
-"Saufbold" Vasco Shot
-Gluck-Gluck-Frucht
-Alkohol-Mensch
+00:05:05,830 --> 00:05:10,040
+"Riesenschlachtschiff" San-Juan Wolf
+Riesen-Frucht
+Gigantifikations-Mensch
 
 455
-00:05:05,830 --> 00:05:10,040
-"Riesenschlachtschiff" San-Juan Wolf
-Riesen-Frucht
-Gigantifikations-Mensch
+00:11:43,020 --> 00:11:43,060
+Konteradmiralin Kujaku
+Marine-Hauptquartier (SWORD)
+Enkelin der "großen Taktikerin" Tsuru
+Peitschen-Frucht
+Dressur-Mensch
 
 456
-00:05:05,830 --> 00:05:10,040
-"Riesenschlachtschiff" San-Juan Wolf
-Riesen-Frucht
-Gigantifikations-Mensch
+00:11:43,060 --> 00:11:43,100
+Konteradmiralin Kujaku
+Marine-Hauptquartier (SWORD)
+Enkelin der "großen Taktikerin" Tsuru
+Peitschen-Frucht
+Dressur-Mensch
 
 457
-00:11:43,020 --> 00:11:43,060
+00:11:43,100 --> 00:11:43,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1869,7 +1871,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 458
-00:11:43,060 --> 00:11:43,100
+00:11:43,140 --> 00:11:43,180
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1877,7 +1879,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 459
-00:11:43,100 --> 00:11:43,140
+00:11:43,180 --> 00:11:43,220
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1885,7 +1887,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 460
-00:11:43,140 --> 00:11:43,180
+00:11:43,220 --> 00:11:43,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1893,7 +1895,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 461
-00:11:43,180 --> 00:11:43,220
+00:11:43,270 --> 00:11:43,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1901,7 +1903,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 462
-00:11:43,220 --> 00:11:43,270
+00:11:43,310 --> 00:11:43,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1909,7 +1911,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 463
-00:11:43,270 --> 00:11:43,310
+00:11:43,350 --> 00:11:43,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1917,7 +1919,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 464
-00:11:43,310 --> 00:11:43,350
+00:11:43,390 --> 00:11:43,430
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1925,7 +1927,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 465
-00:11:43,350 --> 00:11:43,390
+00:11:43,430 --> 00:11:43,470
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1933,7 +1935,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 466
-00:11:43,390 --> 00:11:43,430
+00:11:43,470 --> 00:11:43,520
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1941,7 +1943,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 467
-00:11:43,430 --> 00:11:43,470
+00:11:43,520 --> 00:11:43,560
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1949,7 +1951,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 468
-00:11:43,470 --> 00:11:43,520
+00:11:43,560 --> 00:11:43,600
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1957,7 +1959,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 469
-00:11:43,520 --> 00:11:43,560
+00:11:43,600 --> 00:11:43,640
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1965,7 +1967,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 470
-00:11:43,560 --> 00:11:43,600
+00:11:43,640 --> 00:11:43,680
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1973,7 +1975,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 471
-00:11:43,600 --> 00:11:43,640
+00:11:43,680 --> 00:11:43,720
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1981,7 +1983,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 472
-00:11:43,640 --> 00:11:43,680
+00:11:43,720 --> 00:11:43,770
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1989,7 +1991,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 473
-00:11:43,680 --> 00:11:43,720
+00:11:43,770 --> 00:11:43,810
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -1997,7 +1999,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 474
-00:11:43,720 --> 00:11:43,770
+00:11:43,810 --> 00:11:43,850
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2005,7 +2007,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 475
-00:11:43,770 --> 00:11:43,810
+00:11:43,850 --> 00:11:43,890
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2013,7 +2015,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 476
-00:11:43,810 --> 00:11:43,850
+00:11:43,890 --> 00:11:43,930
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2021,7 +2023,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 477
-00:11:43,850 --> 00:11:43,890
+00:11:43,930 --> 00:11:43,970
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2029,7 +2031,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 478
-00:11:43,890 --> 00:11:43,930
+00:11:43,970 --> 00:11:44,020
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2037,7 +2039,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 479
-00:11:43,930 --> 00:11:43,970
+00:11:44,020 --> 00:11:44,060
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2045,7 +2047,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 480
-00:11:43,970 --> 00:11:44,020
+00:11:44,060 --> 00:11:44,100
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2053,7 +2055,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 481
-00:11:44,020 --> 00:11:44,060
+00:11:44,100 --> 00:11:44,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2061,7 +2063,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 482
-00:11:44,060 --> 00:11:44,100
+00:11:44,140 --> 00:11:44,180
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2069,7 +2071,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 483
-00:11:44,100 --> 00:11:44,140
+00:11:44,180 --> 00:11:44,230
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2077,7 +2079,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 484
-00:11:44,140 --> 00:11:44,180
+00:11:44,230 --> 00:11:44,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2085,7 +2087,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 485
-00:11:44,180 --> 00:11:44,230
+00:11:44,270 --> 00:11:44,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2093,7 +2095,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 486
-00:11:44,230 --> 00:11:44,270
+00:11:44,310 --> 00:11:44,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2101,7 +2103,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 487
-00:11:44,270 --> 00:11:44,310
+00:11:44,350 --> 00:11:44,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2109,7 +2111,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 488
-00:11:44,310 --> 00:11:44,350
+00:11:44,390 --> 00:11:44,430
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2117,7 +2119,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 489
-00:11:44,350 --> 00:11:44,390
+00:11:44,430 --> 00:11:44,480
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2125,7 +2127,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 490
-00:11:44,390 --> 00:11:44,430
+00:11:44,480 --> 00:11:44,520
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2133,7 +2135,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 491
-00:11:44,430 --> 00:11:44,480
+00:11:44,520 --> 00:11:44,560
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2141,7 +2143,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 492
-00:11:44,480 --> 00:11:44,520
+00:11:44,560 --> 00:11:44,600
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2149,7 +2151,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 493
-00:11:44,520 --> 00:11:44,560
+00:11:44,600 --> 00:11:44,640
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2157,7 +2159,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 494
-00:11:44,560 --> 00:11:44,600
+00:11:44,640 --> 00:11:44,680
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2165,7 +2167,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 495
-00:11:44,600 --> 00:11:44,640
+00:11:44,680 --> 00:11:44,730
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2173,7 +2175,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 496
-00:11:44,640 --> 00:11:44,680
+00:11:44,730 --> 00:11:44,770
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2181,7 +2183,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 497
-00:11:44,680 --> 00:11:44,730
+00:11:44,770 --> 00:11:44,810
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2189,7 +2191,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 498
-00:11:44,730 --> 00:11:44,770
+00:11:44,810 --> 00:11:44,850
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2197,7 +2199,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 499
-00:11:44,770 --> 00:11:44,810
+00:11:44,850 --> 00:11:44,890
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2205,7 +2207,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 500
-00:11:44,810 --> 00:11:44,850
+00:11:44,890 --> 00:11:44,930
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2213,7 +2215,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 501
-00:11:44,850 --> 00:11:44,890
+00:11:44,930 --> 00:11:44,980
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2221,7 +2223,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 502
-00:11:44,890 --> 00:11:44,930
+00:11:44,980 --> 00:11:45,020
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2229,7 +2231,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 503
-00:11:44,930 --> 00:11:44,980
+00:11:45,020 --> 00:11:45,060
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2237,7 +2239,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 504
-00:11:44,980 --> 00:11:45,020
+00:11:45,060 --> 00:11:45,100
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2245,7 +2247,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 505
-00:11:45,020 --> 00:11:45,060
+00:11:45,100 --> 00:11:45,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2253,7 +2255,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 506
-00:11:45,060 --> 00:11:45,100
+00:11:45,140 --> 00:11:45,180
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2261,7 +2263,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 507
-00:11:45,100 --> 00:11:45,140
+00:11:45,180 --> 00:11:45,230
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2269,7 +2271,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 508
-00:11:45,140 --> 00:11:45,180
+00:11:45,230 --> 00:11:45,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2277,7 +2279,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 509
-00:11:45,180 --> 00:11:45,230
+00:11:45,270 --> 00:11:45,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2285,7 +2287,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 510
-00:11:45,230 --> 00:11:45,270
+00:11:45,310 --> 00:11:45,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2293,7 +2295,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 511
-00:11:45,270 --> 00:11:45,310
+00:11:45,350 --> 00:11:45,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2301,7 +2303,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 512
-00:11:45,310 --> 00:11:45,350
+00:11:45,390 --> 00:11:45,430
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2309,7 +2311,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 513
-00:11:45,350 --> 00:11:45,390
+00:11:45,430 --> 00:11:45,480
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2317,7 +2319,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 514
-00:11:45,390 --> 00:11:45,430
+00:11:45,480 --> 00:11:45,520
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2325,7 +2327,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 515
-00:11:45,430 --> 00:11:45,480
+00:11:45,520 --> 00:11:45,560
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2333,7 +2335,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 516
-00:11:45,480 --> 00:11:45,520
+00:11:45,560 --> 00:11:45,600
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2341,7 +2343,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 517
-00:11:45,520 --> 00:11:45,560
+00:11:45,600 --> 00:11:45,640
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2349,7 +2351,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 518
-00:11:45,560 --> 00:11:45,600
+00:11:45,640 --> 00:11:45,680
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2357,7 +2359,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 519
-00:11:45,600 --> 00:11:45,640
+00:11:45,680 --> 00:11:45,730
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2365,7 +2367,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 520
-00:11:45,640 --> 00:11:45,680
+00:11:45,730 --> 00:11:45,770
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2373,7 +2375,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 521
-00:11:45,680 --> 00:11:45,730
+00:11:45,770 --> 00:11:45,810
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2381,7 +2383,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 522
-00:11:45,730 --> 00:11:45,770
+00:11:45,810 --> 00:11:45,850
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2389,7 +2391,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 523
-00:11:45,770 --> 00:11:45,810
+00:11:45,850 --> 00:11:45,890
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2397,7 +2399,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 524
-00:11:45,810 --> 00:11:45,850
+00:11:45,890 --> 00:11:45,940
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2405,7 +2407,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 525
-00:11:45,850 --> 00:11:45,890
+00:11:45,940 --> 00:11:45,980
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2413,7 +2415,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 526
-00:11:45,890 --> 00:11:45,940
+00:11:45,980 --> 00:11:46,020
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2421,7 +2423,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 527
-00:11:45,940 --> 00:11:45,980
+00:11:46,020 --> 00:11:46,060
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2429,7 +2431,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 528
-00:11:45,980 --> 00:11:46,020
+00:11:46,060 --> 00:11:46,100
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2437,7 +2439,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 529
-00:11:46,020 --> 00:11:46,060
+00:11:46,100 --> 00:11:46,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2445,7 +2447,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 530
-00:11:46,060 --> 00:11:46,100
+00:11:46,140 --> 00:11:46,190
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2453,7 +2455,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 531
-00:11:46,100 --> 00:11:46,140
+00:11:46,190 --> 00:11:46,230
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2461,7 +2463,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 532
-00:11:46,140 --> 00:11:46,190
+00:11:46,230 --> 00:11:46,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2469,7 +2471,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 533
-00:11:46,190 --> 00:11:46,230
+00:11:46,270 --> 00:11:46,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2477,7 +2479,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 534
-00:11:46,230 --> 00:11:46,270
+00:11:46,310 --> 00:11:46,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2485,7 +2487,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 535
-00:11:46,270 --> 00:11:46,310
+00:11:46,350 --> 00:11:46,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2493,7 +2495,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 536
-00:11:46,310 --> 00:11:46,350
+00:11:46,390 --> 00:11:46,440
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2501,7 +2503,7 @@ Peitschen-Frucht
 Dressur-Mensch
 
 537
-00:11:46,350 --> 00:11:46,390
+00:11:46,440 --> 00:11:46,480
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
 Enkelin der "großen Taktikerin" Tsuru
@@ -2509,22 +2511,6 @@ Peitschen-Frucht
 Dressur-Mensch
 
 538
-00:11:46,390 --> 00:11:46,440
-Konteradmiralin Kujaku
-Marine-Hauptquartier (SWORD)
-Enkelin der "großen Taktikerin" Tsuru
-Peitschen-Frucht
-Dressur-Mensch
-
-539
-00:11:46,440 --> 00:11:46,480
-Konteradmiralin Kujaku
-Marine-Hauptquartier (SWORD)
-Enkelin der "großen Taktikerin" Tsuru
-Peitschen-Frucht
-Dressur-Mensch
-
-540
 00:11:43,020 --> 00:11:43,060
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2532,7 +2518,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-541
+539
 00:11:43,060 --> 00:11:43,100
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2540,7 +2526,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-542
+540
 00:11:43,100 --> 00:11:43,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2548,7 +2534,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-543
+541
 00:11:43,140 --> 00:11:43,180
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2556,7 +2542,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-544
+542
 00:11:43,180 --> 00:11:43,220
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2564,7 +2550,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-545
+543
 00:11:43,220 --> 00:11:43,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2572,7 +2558,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-546
+544
 00:11:43,270 --> 00:11:43,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2580,7 +2566,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-547
+545
 00:11:43,310 --> 00:11:43,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2588,7 +2574,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-548
+546
 00:11:43,350 --> 00:11:43,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2596,7 +2582,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-549
+547
 00:11:43,390 --> 00:11:43,430
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2604,7 +2590,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-550
+548
 00:11:43,430 --> 00:11:43,470
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2612,7 +2598,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-551
+549
 00:11:43,470 --> 00:11:43,520
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2620,7 +2606,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-552
+550
 00:11:43,520 --> 00:11:43,560
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2628,7 +2614,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-553
+551
 00:11:43,560 --> 00:11:43,600
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2636,7 +2622,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-554
+552
 00:11:43,600 --> 00:11:43,640
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2644,7 +2630,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-555
+553
 00:11:43,640 --> 00:11:43,680
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2652,7 +2638,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-556
+554
 00:11:43,680 --> 00:11:43,720
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2660,7 +2646,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-557
+555
 00:11:43,720 --> 00:11:43,770
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2668,7 +2654,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-558
+556
 00:11:43,770 --> 00:11:43,810
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2676,7 +2662,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-559
+557
 00:11:43,810 --> 00:11:43,850
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2684,7 +2670,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-560
+558
 00:11:43,850 --> 00:11:43,890
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2692,7 +2678,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-561
+559
 00:11:43,890 --> 00:11:43,930
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2700,7 +2686,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-562
+560
 00:11:43,930 --> 00:11:43,970
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2708,7 +2694,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-563
+561
 00:11:43,970 --> 00:11:44,020
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2716,7 +2702,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-564
+562
 00:11:44,020 --> 00:11:44,060
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2724,7 +2710,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-565
+563
 00:11:44,060 --> 00:11:44,100
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2732,7 +2718,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-566
+564
 00:11:44,100 --> 00:11:44,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2740,7 +2726,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-567
+565
 00:11:44,140 --> 00:11:44,180
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2748,7 +2734,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-568
+566
 00:11:44,180 --> 00:11:44,230
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2756,7 +2742,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-569
+567
 00:11:44,230 --> 00:11:44,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2764,7 +2750,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-570
+568
 00:11:44,270 --> 00:11:44,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2772,7 +2758,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-571
+569
 00:11:44,310 --> 00:11:44,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2780,7 +2766,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-572
+570
 00:11:44,350 --> 00:11:44,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2788,7 +2774,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-573
+571
 00:11:44,390 --> 00:11:44,430
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2796,7 +2782,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-574
+572
 00:11:44,430 --> 00:11:44,480
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2804,7 +2790,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-575
+573
 00:11:44,480 --> 00:11:44,520
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2812,7 +2798,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-576
+574
 00:11:44,520 --> 00:11:44,560
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2820,7 +2806,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-577
+575
 00:11:44,560 --> 00:11:44,600
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2828,7 +2814,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-578
+576
 00:11:44,600 --> 00:11:44,640
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2836,7 +2822,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-579
+577
 00:11:44,640 --> 00:11:44,680
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2844,7 +2830,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-580
+578
 00:11:44,680 --> 00:11:44,730
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2852,7 +2838,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-581
+579
 00:11:44,730 --> 00:11:44,770
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2860,7 +2846,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-582
+580
 00:11:44,770 --> 00:11:44,810
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2868,7 +2854,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-583
+581
 00:11:44,810 --> 00:11:44,850
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2876,7 +2862,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-584
+582
 00:11:44,850 --> 00:11:44,890
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2884,7 +2870,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-585
+583
 00:11:44,890 --> 00:11:44,930
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2892,7 +2878,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-586
+584
 00:11:44,930 --> 00:11:44,980
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2900,7 +2886,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-587
+585
 00:11:44,980 --> 00:11:45,020
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2908,7 +2894,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-588
+586
 00:11:45,020 --> 00:11:45,060
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2916,7 +2902,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-589
+587
 00:11:45,060 --> 00:11:45,100
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2924,7 +2910,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-590
+588
 00:11:45,100 --> 00:11:45,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2932,7 +2918,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-591
+589
 00:11:45,140 --> 00:11:45,180
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2940,7 +2926,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-592
+590
 00:11:45,180 --> 00:11:45,230
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2948,7 +2934,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-593
+591
 00:11:45,230 --> 00:11:45,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2956,7 +2942,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-594
+592
 00:11:45,270 --> 00:11:45,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2964,7 +2950,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-595
+593
 00:11:45,310 --> 00:11:45,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2972,7 +2958,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-596
+594
 00:11:45,350 --> 00:11:45,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2980,7 +2966,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-597
+595
 00:11:45,390 --> 00:11:45,430
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2988,7 +2974,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-598
+596
 00:11:45,430 --> 00:11:45,480
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -2996,7 +2982,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-599
+597
 00:11:45,480 --> 00:11:45,520
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3004,7 +2990,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-600
+598
 00:11:45,520 --> 00:11:45,560
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3012,7 +2998,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-601
+599
 00:11:45,560 --> 00:11:45,600
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3020,7 +3006,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-602
+600
 00:11:45,600 --> 00:11:45,640
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3028,7 +3014,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-603
+601
 00:11:45,640 --> 00:11:45,680
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3036,7 +3022,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-604
+602
 00:11:45,680 --> 00:11:45,730
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3044,7 +3030,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-605
+603
 00:11:45,730 --> 00:11:45,770
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3052,7 +3038,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-606
+604
 00:11:45,770 --> 00:11:45,810
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3060,7 +3046,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-607
+605
 00:11:45,810 --> 00:11:45,850
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3068,7 +3054,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-608
+606
 00:11:45,850 --> 00:11:45,890
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3076,7 +3062,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-609
+607
 00:11:45,890 --> 00:11:45,940
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3084,7 +3070,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-610
+608
 00:11:45,940 --> 00:11:45,980
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3092,7 +3078,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-611
+609
 00:11:45,980 --> 00:11:46,020
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3100,7 +3086,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-612
+610
 00:11:46,020 --> 00:11:46,060
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3108,7 +3094,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-613
+611
 00:11:46,060 --> 00:11:46,100
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3116,7 +3102,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-614
+612
 00:11:46,100 --> 00:11:46,140
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3124,7 +3110,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-615
+613
 00:11:46,140 --> 00:11:46,190
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3132,7 +3118,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-616
+614
 00:11:46,190 --> 00:11:46,230
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3140,7 +3126,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-617
+615
 00:11:46,230 --> 00:11:46,270
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3148,7 +3134,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-618
+616
 00:11:46,270 --> 00:11:46,310
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3156,7 +3142,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-619
+617
 00:11:46,310 --> 00:11:46,350
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3164,7 +3150,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-620
+618
 00:11:46,350 --> 00:11:46,390
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3172,7 +3158,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-621
+619
 00:11:46,390 --> 00:11:46,440
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3180,7 +3166,7 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-622
+620
 00:11:46,440 --> 00:11:46,480
 Konteradmiralin Kujaku
 Marine-Hauptquartier (SWORD)
@@ -3188,3803 +3174,3811 @@ Enkelin der "großen Taktikerin" Tsuru
 Peitschen-Frucht
 Dressur-Mensch
 
-623
+621
 00:13:34,590 --> 00:13:34,630
+Fregattenkapitänin Hibari
+Marine-Hauptquartier
+(SWORD)
+
+622
+00:13:34,630 --> 00:13:34,670
+Fregattenkapitänin Hibari
+Marine-Hauptquartier
+(SWORD)
+
+623
+00:13:34,670 --> 00:13:34,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 624
-00:13:34,630 --> 00:13:34,670
+00:13:34,710 --> 00:13:34,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 625
-00:13:34,670 --> 00:13:34,710
+00:13:34,750 --> 00:13:34,790
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 626
-00:13:34,710 --> 00:13:34,750
+00:13:34,790 --> 00:13:34,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 627
-00:13:34,750 --> 00:13:34,790
+00:13:34,840 --> 00:13:34,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 628
-00:13:34,790 --> 00:13:34,840
+00:13:34,880 --> 00:13:34,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 629
-00:13:34,840 --> 00:13:34,880
+00:13:34,920 --> 00:13:34,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 630
-00:13:34,880 --> 00:13:34,920
+00:13:34,960 --> 00:13:35,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 631
-00:13:34,920 --> 00:13:34,960
+00:13:35,000 --> 00:13:35,040
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 632
-00:13:34,960 --> 00:13:35,000
+00:13:35,040 --> 00:13:35,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 633
-00:13:35,000 --> 00:13:35,040
+00:13:35,090 --> 00:13:35,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 634
-00:13:35,040 --> 00:13:35,090
+00:13:35,130 --> 00:13:35,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 635
-00:13:35,090 --> 00:13:35,130
+00:13:35,170 --> 00:13:35,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 636
-00:13:35,130 --> 00:13:35,170
+00:13:35,210 --> 00:13:35,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 637
-00:13:35,170 --> 00:13:35,210
+00:13:35,250 --> 00:13:35,290
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 638
-00:13:35,210 --> 00:13:35,250
+00:13:35,290 --> 00:13:35,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 639
-00:13:35,250 --> 00:13:35,290
+00:13:35,340 --> 00:13:35,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 640
-00:13:35,290 --> 00:13:35,340
+00:13:35,380 --> 00:13:35,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 641
-00:13:35,340 --> 00:13:35,380
+00:13:35,420 --> 00:13:35,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 642
-00:13:35,380 --> 00:13:35,420
+00:13:35,460 --> 00:13:35,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 643
-00:13:35,420 --> 00:13:35,460
+00:13:35,500 --> 00:13:35,540
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 644
-00:13:35,460 --> 00:13:35,500
+00:13:35,540 --> 00:13:35,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 645
-00:13:35,500 --> 00:13:35,540
+00:13:35,590 --> 00:13:35,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 646
-00:13:35,540 --> 00:13:35,590
+00:13:35,630 --> 00:13:35,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 647
-00:13:35,590 --> 00:13:35,630
+00:13:35,670 --> 00:13:35,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 648
-00:13:35,630 --> 00:13:35,670
+00:13:35,710 --> 00:13:35,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 649
-00:13:35,670 --> 00:13:35,710
+00:13:35,750 --> 00:13:35,790
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 650
-00:13:35,710 --> 00:13:35,750
+00:13:35,790 --> 00:13:35,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 651
-00:13:35,750 --> 00:13:35,790
+00:13:35,840 --> 00:13:35,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 652
-00:13:35,790 --> 00:13:35,840
+00:13:35,880 --> 00:13:35,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 653
-00:13:35,840 --> 00:13:35,880
+00:13:35,920 --> 00:13:35,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 654
-00:13:35,880 --> 00:13:35,920
+00:13:35,960 --> 00:13:36,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 655
-00:13:35,920 --> 00:13:35,960
+00:13:36,000 --> 00:13:36,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 656
-00:13:35,960 --> 00:13:36,000
+00:13:36,050 --> 00:13:36,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 657
-00:13:36,000 --> 00:13:36,050
+00:13:36,090 --> 00:13:36,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 658
-00:13:36,050 --> 00:13:36,090
+00:13:36,130 --> 00:13:36,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 659
-00:13:36,090 --> 00:13:36,130
+00:13:36,170 --> 00:13:36,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 660
-00:13:36,130 --> 00:13:36,170
+00:13:36,210 --> 00:13:36,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 661
-00:13:36,170 --> 00:13:36,210
+00:13:36,250 --> 00:13:36,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 662
-00:13:36,210 --> 00:13:36,250
+00:13:36,300 --> 00:13:36,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 663
-00:13:36,250 --> 00:13:36,300
+00:13:36,340 --> 00:13:36,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 664
-00:13:36,300 --> 00:13:36,340
+00:13:36,380 --> 00:13:36,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 665
-00:13:36,340 --> 00:13:36,380
+00:13:36,420 --> 00:13:36,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 666
-00:13:36,380 --> 00:13:36,420
+00:13:36,460 --> 00:13:36,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 667
-00:13:36,420 --> 00:13:36,460
+00:13:36,500 --> 00:13:36,550
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 668
-00:13:36,460 --> 00:13:36,500
+00:13:36,550 --> 00:13:36,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 669
-00:13:36,500 --> 00:13:36,550
+00:13:36,590 --> 00:13:36,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 670
-00:13:36,550 --> 00:13:36,590
+00:13:36,630 --> 00:13:36,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 671
-00:13:36,590 --> 00:13:36,630
+00:13:36,670 --> 00:13:36,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 672
-00:13:36,630 --> 00:13:36,670
+00:13:36,710 --> 00:13:36,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 673
-00:13:36,670 --> 00:13:36,710
+00:13:36,750 --> 00:13:36,800
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 674
-00:13:36,710 --> 00:13:36,750
+00:13:36,800 --> 00:13:36,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 675
-00:13:36,750 --> 00:13:36,800
+00:13:36,840 --> 00:13:36,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 676
-00:13:36,800 --> 00:13:36,840
+00:13:36,880 --> 00:13:36,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 677
-00:13:36,840 --> 00:13:36,880
+00:13:36,920 --> 00:13:36,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 678
-00:13:36,880 --> 00:13:36,920
+00:13:36,960 --> 00:13:37,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 679
-00:13:36,920 --> 00:13:36,960
+00:13:37,000 --> 00:13:37,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 680
-00:13:36,960 --> 00:13:37,000
+00:13:37,050 --> 00:13:37,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 681
-00:13:37,000 --> 00:13:37,050
+00:13:37,090 --> 00:13:37,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 682
-00:13:37,050 --> 00:13:37,090
+00:13:37,130 --> 00:13:37,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 683
-00:13:37,090 --> 00:13:37,130
+00:13:37,170 --> 00:13:37,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 684
-00:13:37,130 --> 00:13:37,170
+00:13:37,210 --> 00:13:37,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 685
-00:13:37,170 --> 00:13:37,210
+00:13:37,250 --> 00:13:37,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 686
-00:13:37,210 --> 00:13:37,250
+00:13:37,300 --> 00:13:37,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 687
-00:13:37,250 --> 00:13:37,300
+00:13:37,340 --> 00:13:37,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 688
-00:13:37,300 --> 00:13:37,340
+00:13:37,380 --> 00:13:37,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 689
-00:13:37,340 --> 00:13:37,380
+00:13:37,420 --> 00:13:37,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 690
-00:13:37,380 --> 00:13:37,420
+00:13:37,460 --> 00:13:37,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 691
-00:13:37,420 --> 00:13:37,460
+00:13:37,500 --> 00:13:37,550
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 692
-00:13:37,460 --> 00:13:37,500
+00:13:37,550 --> 00:13:37,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 693
-00:13:37,500 --> 00:13:37,550
+00:13:37,590 --> 00:13:37,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 694
-00:13:37,550 --> 00:13:37,590
+00:13:37,630 --> 00:13:37,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 695
-00:13:37,590 --> 00:13:37,630
+00:13:37,670 --> 00:13:37,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 696
-00:13:37,630 --> 00:13:37,670
+00:13:37,710 --> 00:13:37,760
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 697
-00:13:37,670 --> 00:13:37,710
+00:13:37,760 --> 00:13:37,800
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 698
-00:13:37,710 --> 00:13:37,760
+00:13:37,800 --> 00:13:37,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 699
-00:13:37,760 --> 00:13:37,800
+00:13:37,840 --> 00:13:37,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 700
-00:13:37,800 --> 00:13:37,840
+00:13:37,880 --> 00:13:37,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 701
-00:13:37,840 --> 00:13:37,880
+00:13:37,920 --> 00:13:37,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 702
-00:13:37,880 --> 00:13:37,920
+00:13:37,960 --> 00:13:38,010
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 703
-00:13:37,920 --> 00:13:37,960
+00:13:38,010 --> 00:13:38,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 704
-00:13:37,960 --> 00:13:38,010
+00:13:38,050 --> 00:13:38,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 705
-00:13:38,010 --> 00:13:38,050
+00:13:38,090 --> 00:13:38,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 706
-00:13:38,050 --> 00:13:38,090
+00:13:38,130 --> 00:13:38,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 707
-00:13:38,090 --> 00:13:38,130
+00:13:38,170 --> 00:13:38,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 708
-00:13:38,130 --> 00:13:38,170
+00:13:38,210 --> 00:13:38,260
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 709
-00:13:38,170 --> 00:13:38,210
+00:13:38,260 --> 00:13:38,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 710
-00:13:38,210 --> 00:13:38,260
+00:13:38,300 --> 00:13:38,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 711
-00:13:38,260 --> 00:13:38,300
+00:13:38,340 --> 00:13:38,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 712
-00:13:38,300 --> 00:13:38,340
+00:13:34,590 --> 00:13:34,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 713
-00:13:38,340 --> 00:13:38,380
+00:13:34,630 --> 00:13:34,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 714
-00:13:34,590 --> 00:13:34,630
+00:13:34,670 --> 00:13:34,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 715
-00:13:34,630 --> 00:13:34,670
+00:13:34,710 --> 00:13:34,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 716
-00:13:34,670 --> 00:13:34,710
+00:13:34,750 --> 00:13:34,790
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 717
-00:13:34,710 --> 00:13:34,750
+00:13:34,790 --> 00:13:34,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 718
-00:13:34,750 --> 00:13:34,790
+00:13:34,840 --> 00:13:34,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 719
-00:13:34,790 --> 00:13:34,840
+00:13:34,880 --> 00:13:34,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 720
-00:13:34,840 --> 00:13:34,880
+00:13:34,920 --> 00:13:34,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 721
-00:13:34,880 --> 00:13:34,920
+00:13:34,960 --> 00:13:35,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 722
-00:13:34,920 --> 00:13:34,960
+00:13:35,000 --> 00:13:35,040
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 723
-00:13:34,960 --> 00:13:35,000
+00:13:35,040 --> 00:13:35,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 724
-00:13:35,000 --> 00:13:35,040
+00:13:35,090 --> 00:13:35,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 725
-00:13:35,040 --> 00:13:35,090
+00:13:35,130 --> 00:13:35,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 726
-00:13:35,090 --> 00:13:35,130
+00:13:35,170 --> 00:13:35,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 727
-00:13:35,130 --> 00:13:35,170
+00:13:35,210 --> 00:13:35,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 728
-00:13:35,170 --> 00:13:35,210
+00:13:35,250 --> 00:13:35,290
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 729
-00:13:35,210 --> 00:13:35,250
+00:13:35,290 --> 00:13:35,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 730
-00:13:35,250 --> 00:13:35,290
+00:13:35,340 --> 00:13:35,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 731
-00:13:35,290 --> 00:13:35,340
+00:13:35,380 --> 00:13:35,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 732
-00:13:35,340 --> 00:13:35,380
+00:13:35,420 --> 00:13:35,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 733
-00:13:35,380 --> 00:13:35,420
+00:13:35,460 --> 00:13:35,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 734
-00:13:35,420 --> 00:13:35,460
+00:13:35,500 --> 00:13:35,540
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 735
-00:13:35,460 --> 00:13:35,500
+00:13:35,540 --> 00:13:35,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 736
-00:13:35,500 --> 00:13:35,540
+00:13:35,590 --> 00:13:35,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 737
-00:13:35,540 --> 00:13:35,590
+00:13:35,630 --> 00:13:35,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 738
-00:13:35,590 --> 00:13:35,630
+00:13:35,670 --> 00:13:35,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 739
-00:13:35,630 --> 00:13:35,670
+00:13:35,710 --> 00:13:35,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 740
-00:13:35,670 --> 00:13:35,710
+00:13:35,750 --> 00:13:35,790
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 741
-00:13:35,710 --> 00:13:35,750
+00:13:35,790 --> 00:13:35,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 742
-00:13:35,750 --> 00:13:35,790
+00:13:35,840 --> 00:13:35,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 743
-00:13:35,790 --> 00:13:35,840
+00:13:35,880 --> 00:13:35,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 744
-00:13:35,840 --> 00:13:35,880
+00:13:35,920 --> 00:13:35,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 745
-00:13:35,880 --> 00:13:35,920
+00:13:35,960 --> 00:13:36,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 746
-00:13:35,920 --> 00:13:35,960
+00:13:36,000 --> 00:13:36,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 747
-00:13:35,960 --> 00:13:36,000
+00:13:36,050 --> 00:13:36,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 748
-00:13:36,000 --> 00:13:36,050
+00:13:36,090 --> 00:13:36,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 749
-00:13:36,050 --> 00:13:36,090
+00:13:36,130 --> 00:13:36,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 750
-00:13:36,090 --> 00:13:36,130
+00:13:36,170 --> 00:13:36,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 751
-00:13:36,130 --> 00:13:36,170
+00:13:36,210 --> 00:13:36,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 752
-00:13:36,170 --> 00:13:36,210
+00:13:36,250 --> 00:13:36,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 753
-00:13:36,210 --> 00:13:36,250
+00:13:36,300 --> 00:13:36,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 754
-00:13:36,250 --> 00:13:36,300
+00:13:36,340 --> 00:13:36,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 755
-00:13:36,300 --> 00:13:36,340
+00:13:36,380 --> 00:13:36,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 756
-00:13:36,340 --> 00:13:36,380
+00:13:36,420 --> 00:13:36,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 757
-00:13:36,380 --> 00:13:36,420
+00:13:36,460 --> 00:13:36,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 758
-00:13:36,420 --> 00:13:36,460
+00:13:36,500 --> 00:13:36,550
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 759
-00:13:36,460 --> 00:13:36,500
+00:13:36,550 --> 00:13:36,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 760
-00:13:36,500 --> 00:13:36,550
+00:13:36,590 --> 00:13:36,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 761
-00:13:36,550 --> 00:13:36,590
+00:13:36,630 --> 00:13:36,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 762
-00:13:36,590 --> 00:13:36,630
+00:13:36,670 --> 00:13:36,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 763
-00:13:36,630 --> 00:13:36,670
+00:13:36,710 --> 00:13:36,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 764
-00:13:36,670 --> 00:13:36,710
+00:13:36,750 --> 00:13:36,800
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 765
-00:13:36,710 --> 00:13:36,750
+00:13:36,800 --> 00:13:36,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 766
-00:13:36,750 --> 00:13:36,800
+00:13:36,840 --> 00:13:36,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 767
-00:13:36,800 --> 00:13:36,840
+00:13:36,880 --> 00:13:36,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 768
-00:13:36,840 --> 00:13:36,880
+00:13:36,920 --> 00:13:36,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 769
-00:13:36,880 --> 00:13:36,920
+00:13:36,960 --> 00:13:37,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 770
-00:13:36,920 --> 00:13:36,960
+00:13:37,000 --> 00:13:37,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 771
-00:13:36,960 --> 00:13:37,000
+00:13:37,050 --> 00:13:37,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 772
-00:13:37,000 --> 00:13:37,050
+00:13:37,090 --> 00:13:37,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 773
-00:13:37,050 --> 00:13:37,090
+00:13:37,130 --> 00:13:37,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 774
-00:13:37,090 --> 00:13:37,130
+00:13:37,170 --> 00:13:37,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 775
-00:13:37,130 --> 00:13:37,170
+00:13:37,210 --> 00:13:37,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 776
-00:13:37,170 --> 00:13:37,210
+00:13:37,250 --> 00:13:37,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 777
-00:13:37,210 --> 00:13:37,250
+00:13:37,300 --> 00:13:37,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 778
-00:13:37,250 --> 00:13:37,300
+00:13:37,340 --> 00:13:37,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 779
-00:13:37,300 --> 00:13:37,340
+00:13:37,380 --> 00:13:37,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 780
-00:13:37,340 --> 00:13:37,380
+00:13:37,420 --> 00:13:37,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 781
-00:13:37,380 --> 00:13:37,420
+00:13:37,460 --> 00:13:37,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 782
-00:13:37,420 --> 00:13:37,460
+00:13:37,500 --> 00:13:37,550
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 783
-00:13:37,460 --> 00:13:37,500
+00:13:37,550 --> 00:13:37,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 784
-00:13:37,500 --> 00:13:37,550
+00:13:37,590 --> 00:13:37,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 785
-00:13:37,550 --> 00:13:37,590
+00:13:37,630 --> 00:13:37,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 786
-00:13:37,590 --> 00:13:37,630
+00:13:37,670 --> 00:13:37,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 787
-00:13:37,630 --> 00:13:37,670
+00:13:37,710 --> 00:13:37,760
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 788
-00:13:37,670 --> 00:13:37,710
+00:13:37,760 --> 00:13:37,800
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 789
-00:13:37,710 --> 00:13:37,760
+00:13:37,800 --> 00:13:37,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 790
-00:13:37,760 --> 00:13:37,800
+00:13:37,840 --> 00:13:37,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 791
-00:13:37,800 --> 00:13:37,840
+00:13:37,880 --> 00:13:37,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 792
-00:13:37,840 --> 00:13:37,880
+00:13:37,920 --> 00:13:37,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 793
-00:13:37,880 --> 00:13:37,920
+00:13:37,960 --> 00:13:38,010
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 794
-00:13:37,920 --> 00:13:37,960
+00:13:38,010 --> 00:13:38,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 795
-00:13:37,960 --> 00:13:38,010
+00:13:38,050 --> 00:13:38,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 796
-00:13:38,010 --> 00:13:38,050
+00:13:38,090 --> 00:13:38,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 797
-00:13:38,050 --> 00:13:38,090
+00:13:38,130 --> 00:13:38,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 798
-00:13:38,090 --> 00:13:38,130
+00:13:38,170 --> 00:13:38,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 799
-00:13:38,130 --> 00:13:38,170
+00:13:38,210 --> 00:13:38,260
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 800
-00:13:38,170 --> 00:13:38,210
+00:13:38,260 --> 00:13:38,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 801
-00:13:38,210 --> 00:13:38,260
+00:13:38,300 --> 00:13:38,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 802
-00:13:38,260 --> 00:13:38,300
+00:13:38,340 --> 00:13:38,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
 803
-00:13:38,300 --> 00:13:38,340
-Fregattenkapitänin Hibari
-Marine-Hauptquartier
-(SWORD)
-
-804
-00:13:38,340 --> 00:13:38,380
-Fregattenkapitänin Hibari
-Marine-Hauptquartier
-(SWORD)
-
-805
 00:13:34,590 --> 00:13:34,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-806
+804
 00:13:34,630 --> 00:13:34,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-807
+805
 00:13:34,670 --> 00:13:34,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-808
+806
 00:13:34,710 --> 00:13:34,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-809
+807
 00:13:34,750 --> 00:13:34,790
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-810
+808
 00:13:34,790 --> 00:13:34,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-811
+809
 00:13:34,840 --> 00:13:34,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-812
+810
 00:13:34,880 --> 00:13:34,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-813
+811
 00:13:34,920 --> 00:13:34,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-814
+812
 00:13:34,960 --> 00:13:35,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-815
+813
 00:13:35,000 --> 00:13:35,040
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-816
+814
 00:13:35,040 --> 00:13:35,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-817
+815
 00:13:35,090 --> 00:13:35,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-818
+816
 00:13:35,130 --> 00:13:35,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-819
+817
 00:13:35,170 --> 00:13:35,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-820
+818
 00:13:35,210 --> 00:13:35,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-821
+819
 00:13:35,250 --> 00:13:35,290
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-822
+820
 00:13:35,290 --> 00:13:35,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-823
+821
 00:13:35,340 --> 00:13:35,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-824
+822
 00:13:35,380 --> 00:13:35,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-825
+823
 00:13:35,420 --> 00:13:35,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-826
+824
 00:13:35,460 --> 00:13:35,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-827
+825
 00:13:35,500 --> 00:13:35,540
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-828
+826
 00:13:35,540 --> 00:13:35,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-829
+827
 00:13:35,590 --> 00:13:35,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-830
+828
 00:13:35,630 --> 00:13:35,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-831
+829
 00:13:35,670 --> 00:13:35,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-832
+830
 00:13:35,710 --> 00:13:35,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-833
+831
 00:13:35,750 --> 00:13:35,790
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-834
+832
 00:13:35,790 --> 00:13:35,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-835
+833
 00:13:35,840 --> 00:13:35,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-836
+834
 00:13:35,880 --> 00:13:35,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-837
+835
 00:13:35,920 --> 00:13:35,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-838
+836
 00:13:35,960 --> 00:13:36,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-839
+837
 00:13:36,000 --> 00:13:36,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-840
+838
 00:13:36,050 --> 00:13:36,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-841
+839
 00:13:36,090 --> 00:13:36,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-842
+840
 00:13:36,130 --> 00:13:36,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-843
+841
 00:13:36,170 --> 00:13:36,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-844
+842
 00:13:36,210 --> 00:13:36,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-845
+843
 00:13:36,250 --> 00:13:36,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-846
+844
 00:13:36,300 --> 00:13:36,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-847
+845
 00:13:36,340 --> 00:13:36,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-848
+846
 00:13:36,380 --> 00:13:36,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-849
+847
 00:13:36,420 --> 00:13:36,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-850
+848
 00:13:36,460 --> 00:13:36,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-851
+849
 00:13:36,500 --> 00:13:36,550
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-852
+850
 00:13:36,550 --> 00:13:36,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-853
+851
 00:13:36,590 --> 00:13:36,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-854
+852
 00:13:36,630 --> 00:13:36,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-855
+853
 00:13:36,670 --> 00:13:36,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-856
+854
 00:13:36,710 --> 00:13:36,750
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-857
+855
 00:13:36,750 --> 00:13:36,800
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-858
+856
 00:13:36,800 --> 00:13:36,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-859
+857
 00:13:36,840 --> 00:13:36,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-860
+858
 00:13:36,880 --> 00:13:36,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-861
+859
 00:13:36,920 --> 00:13:36,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-862
+860
 00:13:36,960 --> 00:13:37,000
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-863
+861
 00:13:37,000 --> 00:13:37,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-864
+862
 00:13:37,050 --> 00:13:37,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-865
+863
 00:13:37,090 --> 00:13:37,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-866
+864
 00:13:37,130 --> 00:13:37,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-867
+865
 00:13:37,170 --> 00:13:37,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-868
+866
 00:13:37,210 --> 00:13:37,250
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-869
+867
 00:13:37,250 --> 00:13:37,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-870
+868
 00:13:37,300 --> 00:13:37,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-871
+869
 00:13:37,340 --> 00:13:37,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-872
+870
 00:13:37,380 --> 00:13:37,420
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-873
+871
 00:13:37,420 --> 00:13:37,460
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-874
+872
 00:13:37,460 --> 00:13:37,500
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-875
+873
 00:13:37,500 --> 00:13:37,550
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-876
+874
 00:13:37,550 --> 00:13:37,590
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-877
+875
 00:13:37,590 --> 00:13:37,630
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-878
+876
 00:13:37,630 --> 00:13:37,670
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-879
+877
 00:13:37,670 --> 00:13:37,710
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-880
+878
 00:13:37,710 --> 00:13:37,760
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-881
+879
 00:13:37,760 --> 00:13:37,800
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-882
+880
 00:13:37,800 --> 00:13:37,840
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-883
+881
 00:13:37,840 --> 00:13:37,880
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-884
+882
 00:13:37,880 --> 00:13:37,920
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-885
+883
 00:13:37,920 --> 00:13:37,960
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-886
+884
 00:13:37,960 --> 00:13:38,010
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-887
+885
 00:13:38,010 --> 00:13:38,050
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-888
+886
 00:13:38,050 --> 00:13:38,090
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-889
+887
 00:13:38,090 --> 00:13:38,130
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-890
+888
 00:13:38,130 --> 00:13:38,170
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-891
+889
 00:13:38,170 --> 00:13:38,210
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-892
+890
 00:13:38,210 --> 00:13:38,260
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-893
+891
 00:13:38,260 --> 00:13:38,300
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-894
+892
 00:13:38,300 --> 00:13:38,340
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-895
+893
 00:13:38,340 --> 00:13:38,380
 Fregattenkapitänin Hibari
 Marine-Hauptquartier
 (SWORD)
 
-896
+894
 00:14:21,510 --> 00:14:21,550
+Konteradmiral Prince Grus
+
+895
+00:14:21,550 --> 00:14:21,590
+Konteradmiral Prince Grus
+
+896
+00:14:21,590 --> 00:14:21,630
 Konteradmiral Prince Grus
 
 897
-00:14:21,550 --> 00:14:21,590
+00:14:21,630 --> 00:14:21,670
 Konteradmiral Prince Grus
 
 898
-00:14:21,590 --> 00:14:21,630
+00:14:21,670 --> 00:14:21,720
 Konteradmiral Prince Grus
 
 899
-00:14:21,630 --> 00:14:21,670
+00:14:21,720 --> 00:14:21,760
 Konteradmiral Prince Grus
 
 900
-00:14:21,670 --> 00:14:21,720
+00:14:21,760 --> 00:14:21,800
 Konteradmiral Prince Grus
 
 901
-00:14:21,720 --> 00:14:21,760
+00:14:21,800 --> 00:14:21,840
 Konteradmiral Prince Grus
 
 902
-00:14:21,760 --> 00:14:21,800
+00:14:21,840 --> 00:14:21,880
 Konteradmiral Prince Grus
 
 903
-00:14:21,800 --> 00:14:21,840
+00:14:21,880 --> 00:14:21,920
 Konteradmiral Prince Grus
 
 904
-00:14:21,840 --> 00:14:21,880
+00:14:21,920 --> 00:14:21,970
 Konteradmiral Prince Grus
 
 905
-00:14:21,880 --> 00:14:21,920
+00:14:21,970 --> 00:14:22,010
 Konteradmiral Prince Grus
 
 906
-00:14:21,920 --> 00:14:21,970
+00:14:22,010 --> 00:14:22,050
 Konteradmiral Prince Grus
 
 907
-00:14:21,970 --> 00:14:22,010
+00:14:22,050 --> 00:14:22,090
 Konteradmiral Prince Grus
 
 908
-00:14:22,010 --> 00:14:22,050
+00:14:22,090 --> 00:14:22,130
 Konteradmiral Prince Grus
 
 909
-00:14:22,050 --> 00:14:22,090
+00:14:22,130 --> 00:14:22,170
 Konteradmiral Prince Grus
 
 910
-00:14:22,090 --> 00:14:22,130
+00:14:22,170 --> 00:14:22,220
 Konteradmiral Prince Grus
 
 911
-00:14:22,130 --> 00:14:22,170
+00:14:22,220 --> 00:14:22,260
 Konteradmiral Prince Grus
 
 912
-00:14:22,170 --> 00:14:22,220
+00:14:22,260 --> 00:14:22,300
 Konteradmiral Prince Grus
 
 913
-00:14:22,220 --> 00:14:22,260
+00:14:22,300 --> 00:14:22,340
 Konteradmiral Prince Grus
 
 914
-00:14:22,260 --> 00:14:22,300
+00:14:22,340 --> 00:14:22,380
 Konteradmiral Prince Grus
 
 915
-00:14:22,300 --> 00:14:22,340
+00:14:22,380 --> 00:14:22,420
 Konteradmiral Prince Grus
 
 916
-00:14:22,340 --> 00:14:22,380
+00:14:22,420 --> 00:14:22,470
 Konteradmiral Prince Grus
 
 917
-00:14:22,380 --> 00:14:22,420
+00:14:22,470 --> 00:14:22,510
 Konteradmiral Prince Grus
 
 918
-00:14:22,420 --> 00:14:22,470
+00:14:22,510 --> 00:14:22,550
 Konteradmiral Prince Grus
 
 919
-00:14:22,470 --> 00:14:22,510
+00:14:22,550 --> 00:14:22,590
 Konteradmiral Prince Grus
 
 920
-00:14:22,510 --> 00:14:22,550
+00:14:22,590 --> 00:14:22,630
 Konteradmiral Prince Grus
 
 921
-00:14:22,550 --> 00:14:22,590
+00:14:22,630 --> 00:14:22,670
 Konteradmiral Prince Grus
 
 922
-00:14:22,590 --> 00:14:22,630
+00:14:22,670 --> 00:14:22,720
 Konteradmiral Prince Grus
 
 923
-00:14:22,630 --> 00:14:22,670
+00:14:22,720 --> 00:14:22,760
 Konteradmiral Prince Grus
 
 924
-00:14:22,670 --> 00:14:22,720
+00:14:22,760 --> 00:14:22,800
 Konteradmiral Prince Grus
 
 925
-00:14:22,720 --> 00:14:22,760
+00:14:22,800 --> 00:14:22,840
 Konteradmiral Prince Grus
 
 926
-00:14:22,760 --> 00:14:22,800
+00:14:22,840 --> 00:14:22,880
 Konteradmiral Prince Grus
 
 927
-00:14:22,800 --> 00:14:22,840
+00:14:22,880 --> 00:14:22,930
 Konteradmiral Prince Grus
 
 928
-00:14:22,840 --> 00:14:22,880
+00:14:22,930 --> 00:14:22,970
 Konteradmiral Prince Grus
 
 929
-00:14:22,880 --> 00:14:22,930
+00:14:22,970 --> 00:14:23,010
 Konteradmiral Prince Grus
 
 930
-00:14:22,930 --> 00:14:22,970
+00:14:23,010 --> 00:14:23,050
 Konteradmiral Prince Grus
 
 931
-00:14:22,970 --> 00:14:23,010
+00:14:23,050 --> 00:14:23,090
 Konteradmiral Prince Grus
 
 932
-00:14:23,010 --> 00:14:23,050
+00:14:23,090 --> 00:14:23,130
 Konteradmiral Prince Grus
 
 933
-00:14:23,050 --> 00:14:23,090
+00:14:23,130 --> 00:14:23,180
 Konteradmiral Prince Grus
 
 934
-00:14:23,090 --> 00:14:23,130
+00:14:23,180 --> 00:14:23,220
 Konteradmiral Prince Grus
 
 935
-00:14:23,130 --> 00:14:23,180
+00:14:23,220 --> 00:14:23,260
 Konteradmiral Prince Grus
 
 936
-00:14:23,180 --> 00:14:23,220
+00:14:23,260 --> 00:14:23,300
 Konteradmiral Prince Grus
 
 937
-00:14:23,220 --> 00:14:23,260
+00:14:23,300 --> 00:14:23,340
 Konteradmiral Prince Grus
 
 938
-00:14:23,260 --> 00:14:23,300
+00:14:23,340 --> 00:14:23,380
 Konteradmiral Prince Grus
 
 939
-00:14:23,300 --> 00:14:23,340
+00:14:23,380 --> 00:14:23,430
 Konteradmiral Prince Grus
 
 940
-00:14:23,340 --> 00:14:23,380
+00:14:23,430 --> 00:14:23,470
 Konteradmiral Prince Grus
 
 941
-00:14:23,380 --> 00:14:23,430
+00:14:23,470 --> 00:14:23,510
 Konteradmiral Prince Grus
 
 942
-00:14:23,430 --> 00:14:23,470
+00:14:23,510 --> 00:14:23,550
 Konteradmiral Prince Grus
 
 943
-00:14:23,470 --> 00:14:23,510
+00:14:23,550 --> 00:14:23,590
 Konteradmiral Prince Grus
 
 944
-00:14:23,510 --> 00:14:23,550
+00:14:23,590 --> 00:14:23,630
 Konteradmiral Prince Grus
 
 945
-00:14:23,550 --> 00:14:23,590
+00:14:23,630 --> 00:14:23,680
 Konteradmiral Prince Grus
 
 946
-00:14:23,590 --> 00:14:23,630
+00:14:23,680 --> 00:14:23,720
 Konteradmiral Prince Grus
 
 947
-00:14:23,630 --> 00:14:23,680
+00:14:23,720 --> 00:14:23,760
 Konteradmiral Prince Grus
 
 948
-00:14:23,680 --> 00:14:23,720
+00:14:23,760 --> 00:14:23,800
 Konteradmiral Prince Grus
 
 949
-00:14:23,720 --> 00:14:23,760
+00:14:23,800 --> 00:14:23,840
 Konteradmiral Prince Grus
 
 950
-00:14:23,760 --> 00:14:23,800
+00:14:23,840 --> 00:14:23,880
 Konteradmiral Prince Grus
 
 951
-00:14:23,800 --> 00:14:23,840
+00:14:23,880 --> 00:14:23,930
 Konteradmiral Prince Grus
 
 952
-00:14:23,840 --> 00:14:23,880
+00:14:23,930 --> 00:14:23,970
 Konteradmiral Prince Grus
 
 953
-00:14:23,880 --> 00:14:23,930
+00:14:23,970 --> 00:14:24,010
 Konteradmiral Prince Grus
 
 954
-00:14:23,930 --> 00:14:23,970
+00:14:24,010 --> 00:14:24,050
 Konteradmiral Prince Grus
 
 955
-00:14:23,970 --> 00:14:24,010
+00:14:24,050 --> 00:14:24,090
 Konteradmiral Prince Grus
 
 956
-00:14:24,010 --> 00:14:24,050
+00:14:24,090 --> 00:14:24,130
 Konteradmiral Prince Grus
 
 957
-00:14:24,050 --> 00:14:24,090
+00:14:24,130 --> 00:14:24,180
 Konteradmiral Prince Grus
 
 958
-00:14:24,090 --> 00:14:24,130
+00:14:24,180 --> 00:14:24,220
 Konteradmiral Prince Grus
 
 959
-00:14:24,130 --> 00:14:24,180
+00:14:24,220 --> 00:14:24,260
 Konteradmiral Prince Grus
 
 960
-00:14:24,180 --> 00:14:24,220
+00:14:24,260 --> 00:14:24,300
 Konteradmiral Prince Grus
 
 961
-00:14:24,220 --> 00:14:24,260
+00:14:24,300 --> 00:14:24,340
 Konteradmiral Prince Grus
 
 962
-00:14:24,260 --> 00:14:24,300
+00:14:24,340 --> 00:14:24,390
 Konteradmiral Prince Grus
 
 963
-00:14:24,300 --> 00:14:24,340
+00:14:24,390 --> 00:14:24,430
 Konteradmiral Prince Grus
 
 964
-00:14:24,340 --> 00:14:24,390
+00:14:24,430 --> 00:14:24,470
 Konteradmiral Prince Grus
 
 965
-00:14:24,390 --> 00:14:24,430
+00:14:24,470 --> 00:14:24,510
 Konteradmiral Prince Grus
 
 966
-00:14:24,430 --> 00:14:24,470
+00:14:24,510 --> 00:14:24,550
 Konteradmiral Prince Grus
 
 967
-00:14:24,470 --> 00:14:24,510
+00:14:24,550 --> 00:14:24,590
 Konteradmiral Prince Grus
 
 968
-00:14:24,510 --> 00:14:24,550
+00:14:24,590 --> 00:14:24,640
 Konteradmiral Prince Grus
 
 969
-00:14:24,550 --> 00:14:24,590
+00:14:24,640 --> 00:14:24,680
 Konteradmiral Prince Grus
 
 970
-00:14:24,590 --> 00:14:24,640
+00:14:24,680 --> 00:14:24,720
 Konteradmiral Prince Grus
 
 971
-00:14:24,640 --> 00:14:24,680
+00:14:24,720 --> 00:14:24,760
 Konteradmiral Prince Grus
 
 972
-00:14:24,680 --> 00:14:24,720
+00:14:24,760 --> 00:14:24,800
 Konteradmiral Prince Grus
 
 973
-00:14:24,720 --> 00:14:24,760
+00:14:24,800 --> 00:14:24,840
 Konteradmiral Prince Grus
 
 974
-00:14:24,760 --> 00:14:24,800
+00:14:24,840 --> 00:14:24,890
 Konteradmiral Prince Grus
 
 975
-00:14:24,800 --> 00:14:24,840
+00:14:24,890 --> 00:14:24,930
 Konteradmiral Prince Grus
 
 976
-00:14:24,840 --> 00:14:24,890
+00:14:24,930 --> 00:14:24,970
 Konteradmiral Prince Grus
 
 977
-00:14:24,890 --> 00:14:24,930
+00:14:24,970 --> 00:14:25,010
 Konteradmiral Prince Grus
 
 978
-00:14:24,930 --> 00:14:24,970
+00:14:25,010 --> 00:14:25,050
 Konteradmiral Prince Grus
 
 979
-00:14:24,970 --> 00:14:25,010
+00:14:25,050 --> 00:14:25,090
 Konteradmiral Prince Grus
 
 980
-00:14:25,010 --> 00:14:25,050
+00:14:25,090 --> 00:14:25,140
 Konteradmiral Prince Grus
 
 981
-00:14:25,050 --> 00:14:25,090
+00:14:25,140 --> 00:14:25,180
 Konteradmiral Prince Grus
 
 982
-00:14:25,090 --> 00:14:25,140
+00:14:25,180 --> 00:14:25,220
 Konteradmiral Prince Grus
 
 983
-00:14:25,140 --> 00:14:25,180
+00:14:25,220 --> 00:14:25,260
 Konteradmiral Prince Grus
 
 984
-00:14:25,180 --> 00:14:25,220
+00:14:21,510 --> 00:14:21,550
 Konteradmiral Prince Grus
 
 985
-00:14:25,220 --> 00:14:25,260
+00:14:21,550 --> 00:14:21,590
 Konteradmiral Prince Grus
 
 986
-00:14:21,510 --> 00:14:21,550
+00:14:21,590 --> 00:14:21,630
 Konteradmiral Prince Grus
 
 987
-00:14:21,550 --> 00:14:21,590
+00:14:21,630 --> 00:14:21,670
 Konteradmiral Prince Grus
 
 988
-00:14:21,590 --> 00:14:21,630
+00:14:21,670 --> 00:14:21,720
 Konteradmiral Prince Grus
 
 989
-00:14:21,630 --> 00:14:21,670
+00:14:21,720 --> 00:14:21,760
 Konteradmiral Prince Grus
 
 990
-00:14:21,670 --> 00:14:21,720
+00:14:21,760 --> 00:14:21,800
 Konteradmiral Prince Grus
 
 991
-00:14:21,720 --> 00:14:21,760
+00:14:21,800 --> 00:14:21,840
 Konteradmiral Prince Grus
 
 992
-00:14:21,760 --> 00:14:21,800
+00:14:21,840 --> 00:14:21,880
 Konteradmiral Prince Grus
 
 993
-00:14:21,800 --> 00:14:21,840
+00:14:21,880 --> 00:14:21,920
 Konteradmiral Prince Grus
 
 994
-00:14:21,840 --> 00:14:21,880
+00:14:21,920 --> 00:14:21,970
 Konteradmiral Prince Grus
 
 995
-00:14:21,880 --> 00:14:21,920
+00:14:21,970 --> 00:14:22,010
 Konteradmiral Prince Grus
 
 996
-00:14:21,920 --> 00:14:21,970
+00:14:22,010 --> 00:14:22,050
 Konteradmiral Prince Grus
 
 997
-00:14:21,970 --> 00:14:22,010
+00:14:22,050 --> 00:14:22,090
 Konteradmiral Prince Grus
 
 998
-00:14:22,010 --> 00:14:22,050
+00:14:22,090 --> 00:14:22,130
 Konteradmiral Prince Grus
 
 999
-00:14:22,050 --> 00:14:22,090
+00:14:22,130 --> 00:14:22,170
 Konteradmiral Prince Grus
 
 1000
-00:14:22,090 --> 00:14:22,130
+00:14:22,170 --> 00:14:22,220
 Konteradmiral Prince Grus
 
 1001
-00:14:22,130 --> 00:14:22,170
+00:14:22,220 --> 00:14:22,260
 Konteradmiral Prince Grus
 
 1002
-00:14:22,170 --> 00:14:22,220
+00:14:22,260 --> 00:14:22,300
 Konteradmiral Prince Grus
 
 1003
-00:14:22,220 --> 00:14:22,260
+00:14:22,300 --> 00:14:22,340
 Konteradmiral Prince Grus
 
 1004
-00:14:22,260 --> 00:14:22,300
+00:14:22,340 --> 00:14:22,380
 Konteradmiral Prince Grus
 
 1005
-00:14:22,300 --> 00:14:22,340
+00:14:22,380 --> 00:14:22,420
 Konteradmiral Prince Grus
 
 1006
-00:14:22,340 --> 00:14:22,380
+00:14:22,420 --> 00:14:22,470
 Konteradmiral Prince Grus
 
 1007
-00:14:22,380 --> 00:14:22,420
+00:14:22,470 --> 00:14:22,510
 Konteradmiral Prince Grus
 
 1008
-00:14:22,420 --> 00:14:22,470
+00:14:22,510 --> 00:14:22,550
 Konteradmiral Prince Grus
 
 1009
-00:14:22,470 --> 00:14:22,510
+00:14:22,550 --> 00:14:22,590
 Konteradmiral Prince Grus
 
 1010
-00:14:22,510 --> 00:14:22,550
+00:14:22,590 --> 00:14:22,630
 Konteradmiral Prince Grus
 
 1011
-00:14:22,550 --> 00:14:22,590
+00:14:22,630 --> 00:14:22,670
 Konteradmiral Prince Grus
 
 1012
-00:14:22,590 --> 00:14:22,630
+00:14:22,670 --> 00:14:22,720
 Konteradmiral Prince Grus
 
 1013
-00:14:22,630 --> 00:14:22,670
+00:14:22,720 --> 00:14:22,760
 Konteradmiral Prince Grus
 
 1014
-00:14:22,670 --> 00:14:22,720
+00:14:22,760 --> 00:14:22,800
 Konteradmiral Prince Grus
 
 1015
-00:14:22,720 --> 00:14:22,760
+00:14:22,800 --> 00:14:22,840
 Konteradmiral Prince Grus
 
 1016
-00:14:22,760 --> 00:14:22,800
+00:14:22,840 --> 00:14:22,880
 Konteradmiral Prince Grus
 
 1017
-00:14:22,800 --> 00:14:22,840
+00:14:22,880 --> 00:14:22,930
 Konteradmiral Prince Grus
 
 1018
-00:14:22,840 --> 00:14:22,880
+00:14:22,930 --> 00:14:22,970
 Konteradmiral Prince Grus
 
 1019
-00:14:22,880 --> 00:14:22,930
+00:14:22,970 --> 00:14:23,010
 Konteradmiral Prince Grus
 
 1020
-00:14:22,930 --> 00:14:22,970
+00:14:23,010 --> 00:14:23,050
 Konteradmiral Prince Grus
 
 1021
-00:14:22,970 --> 00:14:23,010
+00:14:23,050 --> 00:14:23,090
 Konteradmiral Prince Grus
 
 1022
-00:14:23,010 --> 00:14:23,050
+00:14:23,090 --> 00:14:23,130
 Konteradmiral Prince Grus
 
 1023
-00:14:23,050 --> 00:14:23,090
+00:14:23,130 --> 00:14:23,180
 Konteradmiral Prince Grus
 
 1024
-00:14:23,090 --> 00:14:23,130
+00:14:23,180 --> 00:14:23,220
 Konteradmiral Prince Grus
 
 1025
-00:14:23,130 --> 00:14:23,180
+00:14:23,220 --> 00:14:23,260
 Konteradmiral Prince Grus
 
 1026
-00:14:23,180 --> 00:14:23,220
+00:14:23,260 --> 00:14:23,300
 Konteradmiral Prince Grus
 
 1027
-00:14:23,220 --> 00:14:23,260
+00:14:23,300 --> 00:14:23,340
 Konteradmiral Prince Grus
 
 1028
-00:14:23,260 --> 00:14:23,300
+00:14:23,340 --> 00:14:23,380
 Konteradmiral Prince Grus
 
 1029
-00:14:23,300 --> 00:14:23,340
+00:14:23,380 --> 00:14:23,430
 Konteradmiral Prince Grus
 
 1030
-00:14:23,340 --> 00:14:23,380
+00:14:23,430 --> 00:14:23,470
 Konteradmiral Prince Grus
 
 1031
-00:14:23,380 --> 00:14:23,430
+00:14:23,470 --> 00:14:23,510
 Konteradmiral Prince Grus
 
 1032
-00:14:23,430 --> 00:14:23,470
+00:14:23,510 --> 00:14:23,550
 Konteradmiral Prince Grus
 
 1033
-00:14:23,470 --> 00:14:23,510
+00:14:23,550 --> 00:14:23,590
 Konteradmiral Prince Grus
 
 1034
-00:14:23,510 --> 00:14:23,550
+00:14:23,590 --> 00:14:23,630
 Konteradmiral Prince Grus
 
 1035
-00:14:23,550 --> 00:14:23,590
+00:14:23,630 --> 00:14:23,680
 Konteradmiral Prince Grus
 
 1036
-00:14:23,590 --> 00:14:23,630
+00:14:23,680 --> 00:14:23,720
 Konteradmiral Prince Grus
 
 1037
-00:14:23,630 --> 00:14:23,680
+00:14:23,720 --> 00:14:23,760
 Konteradmiral Prince Grus
 
 1038
-00:14:23,680 --> 00:14:23,720
+00:14:23,760 --> 00:14:23,800
 Konteradmiral Prince Grus
 
 1039
-00:14:23,720 --> 00:14:23,760
+00:14:23,800 --> 00:14:23,840
 Konteradmiral Prince Grus
 
 1040
-00:14:23,760 --> 00:14:23,800
+00:14:23,840 --> 00:14:23,880
 Konteradmiral Prince Grus
 
 1041
-00:14:23,800 --> 00:14:23,840
+00:14:23,880 --> 00:14:23,930
 Konteradmiral Prince Grus
 
 1042
-00:14:23,840 --> 00:14:23,880
+00:14:23,930 --> 00:14:23,970
 Konteradmiral Prince Grus
 
 1043
-00:14:23,880 --> 00:14:23,930
+00:14:23,970 --> 00:14:24,010
 Konteradmiral Prince Grus
 
 1044
-00:14:23,930 --> 00:14:23,970
+00:14:24,010 --> 00:14:24,050
 Konteradmiral Prince Grus
 
 1045
-00:14:23,970 --> 00:14:24,010
+00:14:24,050 --> 00:14:24,090
 Konteradmiral Prince Grus
 
 1046
-00:14:24,010 --> 00:14:24,050
+00:14:24,090 --> 00:14:24,130
 Konteradmiral Prince Grus
 
 1047
-00:14:24,050 --> 00:14:24,090
+00:14:24,130 --> 00:14:24,180
 Konteradmiral Prince Grus
 
 1048
-00:14:24,090 --> 00:14:24,130
+00:14:24,180 --> 00:14:24,220
 Konteradmiral Prince Grus
 
 1049
-00:14:24,130 --> 00:14:24,180
+00:14:24,220 --> 00:14:24,260
 Konteradmiral Prince Grus
 
 1050
-00:14:24,180 --> 00:14:24,220
+00:14:24,260 --> 00:14:24,300
 Konteradmiral Prince Grus
 
 1051
-00:14:24,220 --> 00:14:24,260
+00:14:24,300 --> 00:14:24,340
 Konteradmiral Prince Grus
 
 1052
-00:14:24,260 --> 00:14:24,300
+00:14:24,340 --> 00:14:24,390
 Konteradmiral Prince Grus
 
 1053
-00:14:24,300 --> 00:14:24,340
+00:14:24,390 --> 00:14:24,430
 Konteradmiral Prince Grus
 
 1054
-00:14:24,340 --> 00:14:24,390
+00:14:24,430 --> 00:14:24,470
 Konteradmiral Prince Grus
 
 1055
-00:14:24,390 --> 00:14:24,430
+00:14:24,470 --> 00:14:24,510
 Konteradmiral Prince Grus
 
 1056
-00:14:24,430 --> 00:14:24,470
+00:14:24,510 --> 00:14:24,550
 Konteradmiral Prince Grus
 
 1057
-00:14:24,470 --> 00:14:24,510
+00:14:24,550 --> 00:14:24,590
 Konteradmiral Prince Grus
 
 1058
-00:14:24,510 --> 00:14:24,550
+00:14:24,590 --> 00:14:24,640
 Konteradmiral Prince Grus
 
 1059
-00:14:24,550 --> 00:14:24,590
+00:14:24,640 --> 00:14:24,680
 Konteradmiral Prince Grus
 
 1060
-00:14:24,590 --> 00:14:24,640
+00:14:24,680 --> 00:14:24,720
 Konteradmiral Prince Grus
 
 1061
-00:14:24,640 --> 00:14:24,680
+00:14:24,720 --> 00:14:24,760
 Konteradmiral Prince Grus
 
 1062
-00:14:24,680 --> 00:14:24,720
+00:14:24,760 --> 00:14:24,800
 Konteradmiral Prince Grus
 
 1063
-00:14:24,720 --> 00:14:24,760
+00:14:24,800 --> 00:14:24,840
 Konteradmiral Prince Grus
 
 1064
-00:14:24,760 --> 00:14:24,800
+00:14:24,840 --> 00:14:24,890
 Konteradmiral Prince Grus
 
 1065
-00:14:24,800 --> 00:14:24,840
+00:14:24,890 --> 00:14:24,930
 Konteradmiral Prince Grus
 
 1066
-00:14:24,840 --> 00:14:24,890
+00:14:24,930 --> 00:14:24,970
 Konteradmiral Prince Grus
 
 1067
-00:14:24,890 --> 00:14:24,930
+00:14:24,970 --> 00:14:25,010
 Konteradmiral Prince Grus
 
 1068
-00:14:24,930 --> 00:14:24,970
+00:14:25,010 --> 00:14:25,050
 Konteradmiral Prince Grus
 
 1069
-00:14:24,970 --> 00:14:25,010
+00:14:25,050 --> 00:14:25,090
 Konteradmiral Prince Grus
 
 1070
-00:14:25,010 --> 00:14:25,050
+00:14:25,090 --> 00:14:25,140
 Konteradmiral Prince Grus
 
 1071
-00:14:25,050 --> 00:14:25,090
+00:14:25,140 --> 00:14:25,180
 Konteradmiral Prince Grus
 
 1072
-00:14:25,090 --> 00:14:25,140
+00:14:25,180 --> 00:14:25,220
 Konteradmiral Prince Grus
 
 1073
-00:14:25,140 --> 00:14:25,180
+00:14:25,220 --> 00:14:25,260
 Konteradmiral Prince Grus
 
 1074
-00:14:25,180 --> 00:14:25,220
+00:14:21,510 --> 00:14:21,550
 Konteradmiral Prince Grus
 
 1075
-00:14:25,220 --> 00:14:25,260
+00:14:21,550 --> 00:14:21,590
 Konteradmiral Prince Grus
 
 1076
-00:14:21,510 --> 00:14:21,550
+00:14:21,590 --> 00:14:21,630
 Konteradmiral Prince Grus
 
 1077
-00:14:21,550 --> 00:14:21,590
+00:14:21,630 --> 00:14:21,670
 Konteradmiral Prince Grus
 
 1078
-00:14:21,590 --> 00:14:21,630
+00:14:21,670 --> 00:14:21,720
 Konteradmiral Prince Grus
 
 1079
-00:14:21,630 --> 00:14:21,670
+00:14:21,720 --> 00:14:21,760
 Konteradmiral Prince Grus
 
 1080
-00:14:21,670 --> 00:14:21,720
+00:14:21,760 --> 00:14:21,800
 Konteradmiral Prince Grus
 
 1081
-00:14:21,720 --> 00:14:21,760
+00:14:21,800 --> 00:14:21,840
 Konteradmiral Prince Grus
 
 1082
-00:14:21,760 --> 00:14:21,800
+00:14:21,840 --> 00:14:21,880
 Konteradmiral Prince Grus
 
 1083
-00:14:21,800 --> 00:14:21,840
+00:14:21,880 --> 00:14:21,920
 Konteradmiral Prince Grus
 
 1084
-00:14:21,840 --> 00:14:21,880
+00:14:21,920 --> 00:14:21,970
 Konteradmiral Prince Grus
 
 1085
-00:14:21,880 --> 00:14:21,920
+00:14:21,970 --> 00:14:22,010
 Konteradmiral Prince Grus
 
 1086
-00:14:21,920 --> 00:14:21,970
+00:14:22,010 --> 00:14:22,050
 Konteradmiral Prince Grus
 
 1087
-00:14:21,970 --> 00:14:22,010
+00:14:22,050 --> 00:14:22,090
 Konteradmiral Prince Grus
 
 1088
-00:14:22,010 --> 00:14:22,050
+00:14:22,090 --> 00:14:22,130
 Konteradmiral Prince Grus
 
 1089
-00:14:22,050 --> 00:14:22,090
+00:14:22,130 --> 00:14:22,170
 Konteradmiral Prince Grus
 
 1090
-00:14:22,090 --> 00:14:22,130
+00:14:22,170 --> 00:14:22,220
 Konteradmiral Prince Grus
 
 1091
-00:14:22,130 --> 00:14:22,170
+00:14:22,220 --> 00:14:22,260
 Konteradmiral Prince Grus
 
 1092
-00:14:22,170 --> 00:14:22,220
+00:14:22,260 --> 00:14:22,300
 Konteradmiral Prince Grus
 
 1093
-00:14:22,220 --> 00:14:22,260
+00:14:22,300 --> 00:14:22,340
 Konteradmiral Prince Grus
 
 1094
-00:14:22,260 --> 00:14:22,300
+00:14:22,340 --> 00:14:22,380
 Konteradmiral Prince Grus
 
 1095
-00:14:22,300 --> 00:14:22,340
+00:14:22,380 --> 00:14:22,420
 Konteradmiral Prince Grus
 
 1096
-00:14:22,340 --> 00:14:22,380
+00:14:22,420 --> 00:14:22,470
 Konteradmiral Prince Grus
 
 1097
-00:14:22,380 --> 00:14:22,420
+00:14:22,470 --> 00:14:22,510
 Konteradmiral Prince Grus
 
 1098
-00:14:22,420 --> 00:14:22,470
+00:14:22,510 --> 00:14:22,550
 Konteradmiral Prince Grus
 
 1099
-00:14:22,470 --> 00:14:22,510
+00:14:22,550 --> 00:14:22,590
 Konteradmiral Prince Grus
 
 1100
-00:14:22,510 --> 00:14:22,550
+00:14:22,590 --> 00:14:22,630
 Konteradmiral Prince Grus
 
 1101
-00:14:22,550 --> 00:14:22,590
+00:14:22,630 --> 00:14:22,670
 Konteradmiral Prince Grus
 
 1102
-00:14:22,590 --> 00:14:22,630
+00:14:22,670 --> 00:14:22,720
 Konteradmiral Prince Grus
 
 1103
-00:14:22,630 --> 00:14:22,670
+00:14:22,720 --> 00:14:22,760
 Konteradmiral Prince Grus
 
 1104
-00:14:22,670 --> 00:14:22,720
+00:14:22,760 --> 00:14:22,800
 Konteradmiral Prince Grus
 
 1105
-00:14:22,720 --> 00:14:22,760
+00:14:22,800 --> 00:14:22,840
 Konteradmiral Prince Grus
 
 1106
-00:14:22,760 --> 00:14:22,800
+00:14:22,840 --> 00:14:22,880
 Konteradmiral Prince Grus
 
 1107
-00:14:22,800 --> 00:14:22,840
+00:14:22,880 --> 00:14:22,930
 Konteradmiral Prince Grus
 
 1108
-00:14:22,840 --> 00:14:22,880
+00:14:22,930 --> 00:14:22,970
 Konteradmiral Prince Grus
 
 1109
-00:14:22,880 --> 00:14:22,930
+00:14:22,970 --> 00:14:23,010
 Konteradmiral Prince Grus
 
 1110
-00:14:22,930 --> 00:14:22,970
+00:14:23,010 --> 00:14:23,050
 Konteradmiral Prince Grus
 
 1111
-00:14:22,970 --> 00:14:23,010
+00:14:23,050 --> 00:14:23,090
 Konteradmiral Prince Grus
 
 1112
-00:14:23,010 --> 00:14:23,050
+00:14:23,090 --> 00:14:23,130
 Konteradmiral Prince Grus
 
 1113
-00:14:23,050 --> 00:14:23,090
+00:14:23,130 --> 00:14:23,180
 Konteradmiral Prince Grus
 
 1114
-00:14:23,090 --> 00:14:23,130
+00:14:23,180 --> 00:14:23,220
 Konteradmiral Prince Grus
 
 1115
-00:14:23,130 --> 00:14:23,180
+00:14:23,220 --> 00:14:23,260
 Konteradmiral Prince Grus
 
 1116
-00:14:23,180 --> 00:14:23,220
+00:14:23,260 --> 00:14:23,300
 Konteradmiral Prince Grus
 
 1117
-00:14:23,220 --> 00:14:23,260
+00:14:23,300 --> 00:14:23,340
 Konteradmiral Prince Grus
 
 1118
-00:14:23,260 --> 00:14:23,300
+00:14:23,340 --> 00:14:23,380
 Konteradmiral Prince Grus
 
 1119
-00:14:23,300 --> 00:14:23,340
+00:14:23,380 --> 00:14:23,430
 Konteradmiral Prince Grus
 
 1120
-00:14:23,340 --> 00:14:23,380
+00:14:23,430 --> 00:14:23,470
 Konteradmiral Prince Grus
 
 1121
-00:14:23,380 --> 00:14:23,430
+00:14:23,470 --> 00:14:23,510
 Konteradmiral Prince Grus
 
 1122
-00:14:23,430 --> 00:14:23,470
+00:14:23,510 --> 00:14:23,550
 Konteradmiral Prince Grus
 
 1123
-00:14:23,470 --> 00:14:23,510
+00:14:23,550 --> 00:14:23,590
 Konteradmiral Prince Grus
 
 1124
-00:14:23,510 --> 00:14:23,550
+00:14:23,590 --> 00:14:23,630
 Konteradmiral Prince Grus
 
 1125
-00:14:23,550 --> 00:14:23,590
+00:14:23,630 --> 00:14:23,680
 Konteradmiral Prince Grus
 
 1126
-00:14:23,590 --> 00:14:23,630
+00:14:23,680 --> 00:14:23,720
 Konteradmiral Prince Grus
 
 1127
-00:14:23,630 --> 00:14:23,680
+00:14:23,720 --> 00:14:23,760
 Konteradmiral Prince Grus
 
 1128
-00:14:23,680 --> 00:14:23,720
+00:14:23,760 --> 00:14:23,800
 Konteradmiral Prince Grus
 
 1129
-00:14:23,720 --> 00:14:23,760
+00:14:23,800 --> 00:14:23,840
 Konteradmiral Prince Grus
 
 1130
-00:14:23,760 --> 00:14:23,800
+00:14:23,840 --> 00:14:23,880
 Konteradmiral Prince Grus
 
 1131
-00:14:23,800 --> 00:14:23,840
+00:14:23,880 --> 00:14:23,930
 Konteradmiral Prince Grus
 
 1132
-00:14:23,840 --> 00:14:23,880
+00:14:23,930 --> 00:14:23,970
 Konteradmiral Prince Grus
 
 1133
-00:14:23,880 --> 00:14:23,930
+00:14:23,970 --> 00:14:24,010
 Konteradmiral Prince Grus
 
 1134
-00:14:23,930 --> 00:14:23,970
+00:14:24,010 --> 00:14:24,050
 Konteradmiral Prince Grus
 
 1135
-00:14:23,970 --> 00:14:24,010
+00:14:24,050 --> 00:14:24,090
 Konteradmiral Prince Grus
 
 1136
-00:14:24,010 --> 00:14:24,050
+00:14:24,090 --> 00:14:24,130
 Konteradmiral Prince Grus
 
 1137
-00:14:24,050 --> 00:14:24,090
+00:14:24,130 --> 00:14:24,180
 Konteradmiral Prince Grus
 
 1138
-00:14:24,090 --> 00:14:24,130
+00:14:24,180 --> 00:14:24,220
 Konteradmiral Prince Grus
 
 1139
-00:14:24,130 --> 00:14:24,180
+00:14:24,220 --> 00:14:24,260
 Konteradmiral Prince Grus
 
 1140
-00:14:24,180 --> 00:14:24,220
+00:14:24,260 --> 00:14:24,300
 Konteradmiral Prince Grus
 
 1141
-00:14:24,220 --> 00:14:24,260
+00:14:24,300 --> 00:14:24,340
 Konteradmiral Prince Grus
 
 1142
-00:14:24,260 --> 00:14:24,300
+00:14:24,340 --> 00:14:24,390
 Konteradmiral Prince Grus
 
 1143
-00:14:24,300 --> 00:14:24,340
+00:14:24,390 --> 00:14:24,430
 Konteradmiral Prince Grus
 
 1144
-00:14:24,340 --> 00:14:24,390
+00:14:24,430 --> 00:14:24,470
 Konteradmiral Prince Grus
 
 1145
-00:14:24,390 --> 00:14:24,430
+00:14:24,470 --> 00:14:24,510
 Konteradmiral Prince Grus
 
 1146
-00:14:24,430 --> 00:14:24,470
+00:14:24,510 --> 00:14:24,550
 Konteradmiral Prince Grus
 
 1147
-00:14:24,470 --> 00:14:24,510
+00:14:24,550 --> 00:14:24,590
 Konteradmiral Prince Grus
 
 1148
-00:14:24,510 --> 00:14:24,550
+00:14:24,590 --> 00:14:24,640
 Konteradmiral Prince Grus
 
 1149
-00:14:24,550 --> 00:14:24,590
+00:14:24,640 --> 00:14:24,680
 Konteradmiral Prince Grus
 
 1150
-00:14:24,590 --> 00:14:24,640
+00:14:24,680 --> 00:14:24,720
 Konteradmiral Prince Grus
 
 1151
-00:14:24,640 --> 00:14:24,680
+00:14:24,720 --> 00:14:24,760
 Konteradmiral Prince Grus
 
 1152
-00:14:24,680 --> 00:14:24,720
+00:14:24,760 --> 00:14:24,800
 Konteradmiral Prince Grus
 
 1153
-00:14:24,720 --> 00:14:24,760
+00:14:24,800 --> 00:14:24,840
 Konteradmiral Prince Grus
 
 1154
-00:14:24,760 --> 00:14:24,800
+00:14:24,840 --> 00:14:24,890
 Konteradmiral Prince Grus
 
 1155
-00:14:24,800 --> 00:14:24,840
+00:14:24,890 --> 00:14:24,930
 Konteradmiral Prince Grus
 
 1156
-00:14:24,840 --> 00:14:24,890
+00:14:24,930 --> 00:14:24,970
 Konteradmiral Prince Grus
 
 1157
-00:14:24,890 --> 00:14:24,930
+00:14:24,970 --> 00:14:25,010
 Konteradmiral Prince Grus
 
 1158
-00:14:24,930 --> 00:14:24,970
+00:14:25,010 --> 00:14:25,050
 Konteradmiral Prince Grus
 
 1159
-00:14:24,970 --> 00:14:25,010
+00:14:25,050 --> 00:14:25,090
 Konteradmiral Prince Grus
 
 1160
-00:14:25,010 --> 00:14:25,050
+00:14:25,090 --> 00:14:25,140
 Konteradmiral Prince Grus
 
 1161
-00:14:25,050 --> 00:14:25,090
+00:14:25,140 --> 00:14:25,180
 Konteradmiral Prince Grus
 
 1162
-00:14:25,090 --> 00:14:25,140
+00:14:25,180 --> 00:14:25,220
 Konteradmiral Prince Grus
 
 1163
-00:14:25,140 --> 00:14:25,180
+00:14:25,220 --> 00:14:25,260
 Konteradmiral Prince Grus
 
 1164
-00:14:25,180 --> 00:14:25,220
-Konteradmiral Prince Grus
+00:14:21,510 --> 00:14:21,550
+Marine-Hauptquartier
 
 1165
-00:14:25,220 --> 00:14:25,260
-Konteradmiral Prince Grus
+00:14:21,550 --> 00:14:21,590
+Marine-Hauptquartier
 
 1166
-00:14:21,510 --> 00:14:21,550
+00:14:21,590 --> 00:14:21,630
 Marine-Hauptquartier
 
 1167
-00:14:21,550 --> 00:14:21,590
+00:14:21,630 --> 00:14:21,670
 Marine-Hauptquartier
 
 1168
-00:14:21,590 --> 00:14:21,630
+00:14:21,670 --> 00:14:21,720
 Marine-Hauptquartier
 
 1169
-00:14:21,630 --> 00:14:21,670
+00:14:21,720 --> 00:14:21,760
 Marine-Hauptquartier
 
 1170
-00:14:21,670 --> 00:14:21,720
+00:14:21,760 --> 00:14:21,800
 Marine-Hauptquartier
 
 1171
-00:14:21,720 --> 00:14:21,760
+00:14:21,800 --> 00:14:21,840
 Marine-Hauptquartier
 
 1172
-00:14:21,760 --> 00:14:21,800
+00:14:21,840 --> 00:14:21,880
 Marine-Hauptquartier
 
 1173
-00:14:21,800 --> 00:14:21,840
+00:14:21,880 --> 00:14:21,920
 Marine-Hauptquartier
 
 1174
-00:14:21,840 --> 00:14:21,880
+00:14:21,920 --> 00:14:21,970
 Marine-Hauptquartier
 
 1175
-00:14:21,880 --> 00:14:21,920
+00:14:21,970 --> 00:14:22,010
 Marine-Hauptquartier
 
 1176
-00:14:21,920 --> 00:14:21,970
+00:14:22,010 --> 00:14:22,050
 Marine-Hauptquartier
 
 1177
-00:14:21,970 --> 00:14:22,010
+00:14:22,050 --> 00:14:22,090
 Marine-Hauptquartier
 
 1178
-00:14:22,010 --> 00:14:22,050
+00:14:22,090 --> 00:14:22,130
 Marine-Hauptquartier
 
 1179
-00:14:22,050 --> 00:14:22,090
+00:14:22,130 --> 00:14:22,170
 Marine-Hauptquartier
 
 1180
-00:14:22,090 --> 00:14:22,130
+00:14:22,170 --> 00:14:22,220
 Marine-Hauptquartier
 
 1181
-00:14:22,130 --> 00:14:22,170
+00:14:22,220 --> 00:14:22,260
 Marine-Hauptquartier
 
 1182
-00:14:22,170 --> 00:14:22,220
+00:14:22,260 --> 00:14:22,300
 Marine-Hauptquartier
 
 1183
-00:14:22,220 --> 00:14:22,260
+00:14:22,300 --> 00:14:22,340
 Marine-Hauptquartier
 
 1184
-00:14:22,260 --> 00:14:22,300
+00:14:22,340 --> 00:14:22,380
 Marine-Hauptquartier
 
 1185
-00:14:22,300 --> 00:14:22,340
+00:14:22,380 --> 00:14:22,420
 Marine-Hauptquartier
 
 1186
-00:14:22,340 --> 00:14:22,380
+00:14:22,420 --> 00:14:22,470
 Marine-Hauptquartier
 
 1187
-00:14:22,380 --> 00:14:22,420
+00:14:22,470 --> 00:14:22,510
 Marine-Hauptquartier
 
 1188
-00:14:22,420 --> 00:14:22,470
+00:14:22,510 --> 00:14:22,550
 Marine-Hauptquartier
 
 1189
-00:14:22,470 --> 00:14:22,510
+00:14:22,550 --> 00:14:22,590
 Marine-Hauptquartier
 
 1190
-00:14:22,510 --> 00:14:22,550
+00:14:22,590 --> 00:14:22,630
 Marine-Hauptquartier
 
 1191
-00:14:22,550 --> 00:14:22,590
+00:14:22,630 --> 00:14:22,670
 Marine-Hauptquartier
 
 1192
-00:14:22,590 --> 00:14:22,630
+00:14:22,670 --> 00:14:22,720
 Marine-Hauptquartier
 
 1193
-00:14:22,630 --> 00:14:22,670
+00:14:22,720 --> 00:14:22,760
 Marine-Hauptquartier
 
 1194
-00:14:22,670 --> 00:14:22,720
+00:14:22,760 --> 00:14:22,800
 Marine-Hauptquartier
 
 1195
-00:14:22,720 --> 00:14:22,760
+00:14:22,800 --> 00:14:22,840
 Marine-Hauptquartier
 
 1196
-00:14:22,760 --> 00:14:22,800
+00:14:22,840 --> 00:14:22,880
 Marine-Hauptquartier
 
 1197
-00:14:22,800 --> 00:14:22,840
+00:14:22,880 --> 00:14:22,930
 Marine-Hauptquartier
 
 1198
-00:14:22,840 --> 00:14:22,880
+00:14:22,930 --> 00:14:22,970
 Marine-Hauptquartier
 
 1199
-00:14:22,880 --> 00:14:22,930
+00:14:22,970 --> 00:14:23,010
 Marine-Hauptquartier
 
 1200
-00:14:22,930 --> 00:14:22,970
+00:14:23,010 --> 00:14:23,050
 Marine-Hauptquartier
 
 1201
-00:14:22,970 --> 00:14:23,010
+00:14:23,050 --> 00:14:23,090
 Marine-Hauptquartier
 
 1202
-00:14:23,010 --> 00:14:23,050
+00:14:23,090 --> 00:14:23,130
 Marine-Hauptquartier
 
 1203
-00:14:23,050 --> 00:14:23,090
+00:14:23,130 --> 00:14:23,180
 Marine-Hauptquartier
 
 1204
-00:14:23,090 --> 00:14:23,130
+00:14:23,180 --> 00:14:23,220
 Marine-Hauptquartier
 
 1205
-00:14:23,130 --> 00:14:23,180
+00:14:23,220 --> 00:14:23,260
 Marine-Hauptquartier
 
 1206
-00:14:23,180 --> 00:14:23,220
+00:14:23,260 --> 00:14:23,300
 Marine-Hauptquartier
 
 1207
-00:14:23,220 --> 00:14:23,260
+00:14:23,300 --> 00:14:23,340
 Marine-Hauptquartier
 
 1208
-00:14:23,260 --> 00:14:23,300
+00:14:23,340 --> 00:14:23,380
 Marine-Hauptquartier
 
 1209
-00:14:23,300 --> 00:14:23,340
+00:14:23,380 --> 00:14:23,430
 Marine-Hauptquartier
 
 1210
-00:14:23,340 --> 00:14:23,380
+00:14:23,430 --> 00:14:23,470
 Marine-Hauptquartier
 
 1211
-00:14:23,380 --> 00:14:23,430
+00:14:23,470 --> 00:14:23,510
 Marine-Hauptquartier
 
 1212
-00:14:23,430 --> 00:14:23,470
+00:14:23,510 --> 00:14:23,550
 Marine-Hauptquartier
 
 1213
-00:14:23,470 --> 00:14:23,510
+00:14:23,550 --> 00:14:23,590
 Marine-Hauptquartier
 
 1214
-00:14:23,510 --> 00:14:23,550
+00:14:23,590 --> 00:14:23,630
 Marine-Hauptquartier
 
 1215
-00:14:23,550 --> 00:14:23,590
+00:14:23,630 --> 00:14:23,680
 Marine-Hauptquartier
 
 1216
-00:14:23,590 --> 00:14:23,630
+00:14:23,680 --> 00:14:23,720
 Marine-Hauptquartier
 
 1217
-00:14:23,630 --> 00:14:23,680
+00:14:23,720 --> 00:14:23,760
 Marine-Hauptquartier
 
 1218
-00:14:23,680 --> 00:14:23,720
+00:14:23,760 --> 00:14:23,800
 Marine-Hauptquartier
 
 1219
-00:14:23,720 --> 00:14:23,760
+00:14:23,800 --> 00:14:23,840
 Marine-Hauptquartier
 
 1220
-00:14:23,760 --> 00:14:23,800
+00:14:23,840 --> 00:14:23,880
 Marine-Hauptquartier
 
 1221
-00:14:23,800 --> 00:14:23,840
+00:14:23,880 --> 00:14:23,930
 Marine-Hauptquartier
 
 1222
-00:14:23,840 --> 00:14:23,880
+00:14:23,930 --> 00:14:23,970
 Marine-Hauptquartier
 
 1223
-00:14:23,880 --> 00:14:23,930
+00:14:23,970 --> 00:14:24,010
 Marine-Hauptquartier
 
 1224
-00:14:23,930 --> 00:14:23,970
+00:14:24,010 --> 00:14:24,050
 Marine-Hauptquartier
 
 1225
-00:14:23,970 --> 00:14:24,010
+00:14:24,050 --> 00:14:24,090
 Marine-Hauptquartier
 
 1226
-00:14:24,010 --> 00:14:24,050
+00:14:24,090 --> 00:14:24,130
 Marine-Hauptquartier
 
 1227
-00:14:24,050 --> 00:14:24,090
+00:14:24,130 --> 00:14:24,180
 Marine-Hauptquartier
 
 1228
-00:14:24,090 --> 00:14:24,130
+00:14:24,180 --> 00:14:24,220
 Marine-Hauptquartier
 
 1229
-00:14:24,130 --> 00:14:24,180
+00:14:24,220 --> 00:14:24,260
 Marine-Hauptquartier
 
 1230
-00:14:24,180 --> 00:14:24,220
+00:14:24,260 --> 00:14:24,300
 Marine-Hauptquartier
 
 1231
-00:14:24,220 --> 00:14:24,260
+00:14:24,300 --> 00:14:24,340
 Marine-Hauptquartier
 
 1232
-00:14:24,260 --> 00:14:24,300
+00:14:24,340 --> 00:14:24,390
 Marine-Hauptquartier
 
 1233
-00:14:24,300 --> 00:14:24,340
+00:14:24,390 --> 00:14:24,430
 Marine-Hauptquartier
 
 1234
-00:14:24,340 --> 00:14:24,390
+00:14:24,430 --> 00:14:24,470
 Marine-Hauptquartier
 
 1235
-00:14:24,390 --> 00:14:24,430
+00:14:24,470 --> 00:14:24,510
 Marine-Hauptquartier
 
 1236
-00:14:24,430 --> 00:14:24,470
+00:14:24,510 --> 00:14:24,550
 Marine-Hauptquartier
 
 1237
-00:14:24,470 --> 00:14:24,510
+00:14:24,550 --> 00:14:24,590
 Marine-Hauptquartier
 
 1238
-00:14:24,510 --> 00:14:24,550
+00:14:24,590 --> 00:14:24,640
 Marine-Hauptquartier
 
 1239
-00:14:24,550 --> 00:14:24,590
+00:14:24,640 --> 00:14:24,680
 Marine-Hauptquartier
 
 1240
-00:14:24,590 --> 00:14:24,640
+00:14:24,680 --> 00:14:24,720
 Marine-Hauptquartier
 
 1241
-00:14:24,640 --> 00:14:24,680
+00:14:24,720 --> 00:14:24,760
 Marine-Hauptquartier
 
 1242
-00:14:24,680 --> 00:14:24,720
+00:14:24,760 --> 00:14:24,800
 Marine-Hauptquartier
 
 1243
-00:14:24,720 --> 00:14:24,760
+00:14:24,800 --> 00:14:24,840
 Marine-Hauptquartier
 
 1244
-00:14:24,760 --> 00:14:24,800
+00:14:24,840 --> 00:14:24,890
 Marine-Hauptquartier
 
 1245
-00:14:24,800 --> 00:14:24,840
+00:14:24,890 --> 00:14:24,930
 Marine-Hauptquartier
 
 1246
-00:14:24,840 --> 00:14:24,890
+00:14:24,930 --> 00:14:24,970
 Marine-Hauptquartier
 
 1247
-00:14:24,890 --> 00:14:24,930
+00:14:24,970 --> 00:14:25,010
 Marine-Hauptquartier
 
 1248
-00:14:24,930 --> 00:14:24,970
+00:14:25,010 --> 00:14:25,050
 Marine-Hauptquartier
 
 1249
-00:14:24,970 --> 00:14:25,010
+00:14:25,050 --> 00:14:25,090
 Marine-Hauptquartier
 
 1250
-00:14:25,010 --> 00:14:25,050
+00:14:25,090 --> 00:14:25,140
 Marine-Hauptquartier
 
 1251
-00:14:25,050 --> 00:14:25,090
+00:14:25,140 --> 00:14:25,180
 Marine-Hauptquartier
 
 1252
-00:14:25,090 --> 00:14:25,140
+00:14:25,180 --> 00:14:25,220
 Marine-Hauptquartier
 
 1253
-00:14:25,140 --> 00:14:25,180
+00:14:25,220 --> 00:14:25,260
 Marine-Hauptquartier
 
 1254
-00:14:25,180 --> 00:14:25,220
+00:14:21,510 --> 00:14:21,550
 Marine-Hauptquartier
 
 1255
-00:14:25,220 --> 00:14:25,260
+00:14:21,550 --> 00:14:21,590
 Marine-Hauptquartier
 
 1256
-00:14:21,510 --> 00:14:21,550
+00:14:21,590 --> 00:14:21,630
 Marine-Hauptquartier
 
 1257
-00:14:21,550 --> 00:14:21,590
+00:14:21,630 --> 00:14:21,670
 Marine-Hauptquartier
 
 1258
-00:14:21,590 --> 00:14:21,630
+00:14:21,670 --> 00:14:21,720
 Marine-Hauptquartier
 
 1259
-00:14:21,630 --> 00:14:21,670
+00:14:21,720 --> 00:14:21,760
 Marine-Hauptquartier
 
 1260
-00:14:21,670 --> 00:14:21,720
+00:14:21,760 --> 00:14:21,800
 Marine-Hauptquartier
 
 1261
-00:14:21,720 --> 00:14:21,760
+00:14:21,800 --> 00:14:21,840
 Marine-Hauptquartier
 
 1262
-00:14:21,760 --> 00:14:21,800
+00:14:21,840 --> 00:14:21,880
 Marine-Hauptquartier
 
 1263
-00:14:21,800 --> 00:14:21,840
+00:14:21,880 --> 00:14:21,920
 Marine-Hauptquartier
 
 1264
-00:14:21,840 --> 00:14:21,880
+00:14:21,920 --> 00:14:21,970
 Marine-Hauptquartier
 
 1265
-00:14:21,880 --> 00:14:21,920
+00:14:21,970 --> 00:14:22,010
 Marine-Hauptquartier
 
 1266
-00:14:21,920 --> 00:14:21,970
+00:14:22,010 --> 00:14:22,050
 Marine-Hauptquartier
 
 1267
-00:14:21,970 --> 00:14:22,010
+00:14:22,050 --> 00:14:22,090
 Marine-Hauptquartier
 
 1268
-00:14:22,010 --> 00:14:22,050
+00:14:22,090 --> 00:14:22,130
 Marine-Hauptquartier
 
 1269
-00:14:22,050 --> 00:14:22,090
+00:14:22,130 --> 00:14:22,170
 Marine-Hauptquartier
 
 1270
-00:14:22,090 --> 00:14:22,130
+00:14:22,170 --> 00:14:22,220
 Marine-Hauptquartier
 
 1271
-00:14:22,130 --> 00:14:22,170
+00:14:22,220 --> 00:14:22,260
 Marine-Hauptquartier
 
 1272
-00:14:22,170 --> 00:14:22,220
+00:14:22,260 --> 00:14:22,300
 Marine-Hauptquartier
 
 1273
-00:14:22,220 --> 00:14:22,260
+00:14:22,300 --> 00:14:22,340
 Marine-Hauptquartier
 
 1274
-00:14:22,260 --> 00:14:22,300
+00:14:22,340 --> 00:14:22,380
 Marine-Hauptquartier
 
 1275
-00:14:22,300 --> 00:14:22,340
+00:14:22,380 --> 00:14:22,420
 Marine-Hauptquartier
 
 1276
-00:14:22,340 --> 00:14:22,380
+00:14:22,420 --> 00:14:22,470
 Marine-Hauptquartier
 
 1277
-00:14:22,380 --> 00:14:22,420
+00:14:22,470 --> 00:14:22,510
 Marine-Hauptquartier
 
 1278
-00:14:22,420 --> 00:14:22,470
+00:14:22,510 --> 00:14:22,550
 Marine-Hauptquartier
 
 1279
-00:14:22,470 --> 00:14:22,510
+00:14:22,550 --> 00:14:22,590
 Marine-Hauptquartier
 
 1280
-00:14:22,510 --> 00:14:22,550
+00:14:22,590 --> 00:14:22,630
 Marine-Hauptquartier
 
 1281
-00:14:22,550 --> 00:14:22,590
+00:14:22,630 --> 00:14:22,670
 Marine-Hauptquartier
 
 1282
-00:14:22,590 --> 00:14:22,630
+00:14:22,670 --> 00:14:22,720
 Marine-Hauptquartier
 
 1283
-00:14:22,630 --> 00:14:22,670
+00:14:22,720 --> 00:14:22,760
 Marine-Hauptquartier
 
 1284
-00:14:22,670 --> 00:14:22,720
+00:14:22,760 --> 00:14:22,800
 Marine-Hauptquartier
 
 1285
-00:14:22,720 --> 00:14:22,760
+00:14:22,800 --> 00:14:22,840
 Marine-Hauptquartier
 
 1286
-00:14:22,760 --> 00:14:22,800
+00:14:22,840 --> 00:14:22,880
 Marine-Hauptquartier
 
 1287
-00:14:22,800 --> 00:14:22,840
+00:14:22,880 --> 00:14:22,930
 Marine-Hauptquartier
 
 1288
-00:14:22,840 --> 00:14:22,880
+00:14:22,930 --> 00:14:22,970
 Marine-Hauptquartier
 
 1289
-00:14:22,880 --> 00:14:22,930
+00:14:22,970 --> 00:14:23,010
 Marine-Hauptquartier
 
 1290
-00:14:22,930 --> 00:14:22,970
+00:14:23,010 --> 00:14:23,050
 Marine-Hauptquartier
 
 1291
-00:14:22,970 --> 00:14:23,010
+00:14:23,050 --> 00:14:23,090
 Marine-Hauptquartier
 
 1292
-00:14:23,010 --> 00:14:23,050
+00:14:23,090 --> 00:14:23,130
 Marine-Hauptquartier
 
 1293
-00:14:23,050 --> 00:14:23,090
+00:14:23,130 --> 00:14:23,180
 Marine-Hauptquartier
 
 1294
-00:14:23,090 --> 00:14:23,130
+00:14:23,180 --> 00:14:23,220
 Marine-Hauptquartier
 
 1295
-00:14:23,130 --> 00:14:23,180
+00:14:23,220 --> 00:14:23,260
 Marine-Hauptquartier
 
 1296
-00:14:23,180 --> 00:14:23,220
+00:14:23,260 --> 00:14:23,300
 Marine-Hauptquartier
 
 1297
-00:14:23,220 --> 00:14:23,260
+00:14:23,300 --> 00:14:23,340
 Marine-Hauptquartier
 
 1298
-00:14:23,260 --> 00:14:23,300
+00:14:23,340 --> 00:14:23,380
 Marine-Hauptquartier
 
 1299
-00:14:23,300 --> 00:14:23,340
+00:14:23,380 --> 00:14:23,430
 Marine-Hauptquartier
 
 1300
-00:14:23,340 --> 00:14:23,380
+00:14:23,430 --> 00:14:23,470
 Marine-Hauptquartier
 
 1301
-00:14:23,380 --> 00:14:23,430
+00:14:23,470 --> 00:14:23,510
 Marine-Hauptquartier
 
 1302
-00:14:23,430 --> 00:14:23,470
+00:14:23,510 --> 00:14:23,550
 Marine-Hauptquartier
 
 1303
-00:14:23,470 --> 00:14:23,510
+00:14:23,550 --> 00:14:23,590
 Marine-Hauptquartier
 
 1304
-00:14:23,510 --> 00:14:23,550
+00:14:23,590 --> 00:14:23,630
 Marine-Hauptquartier
 
 1305
-00:14:23,550 --> 00:14:23,590
+00:14:23,630 --> 00:14:23,680
 Marine-Hauptquartier
 
 1306
-00:14:23,590 --> 00:14:23,630
+00:14:23,680 --> 00:14:23,720
 Marine-Hauptquartier
 
 1307
-00:14:23,630 --> 00:14:23,680
+00:14:23,720 --> 00:14:23,760
 Marine-Hauptquartier
 
 1308
-00:14:23,680 --> 00:14:23,720
+00:14:23,760 --> 00:14:23,800
 Marine-Hauptquartier
 
 1309
-00:14:23,720 --> 00:14:23,760
+00:14:23,800 --> 00:14:23,840
 Marine-Hauptquartier
 
 1310
-00:14:23,760 --> 00:14:23,800
+00:14:23,840 --> 00:14:23,880
 Marine-Hauptquartier
 
 1311
-00:14:23,800 --> 00:14:23,840
+00:14:23,880 --> 00:14:23,930
 Marine-Hauptquartier
 
 1312
-00:14:23,840 --> 00:14:23,880
+00:14:23,930 --> 00:14:23,970
 Marine-Hauptquartier
 
 1313
-00:14:23,880 --> 00:14:23,930
+00:14:23,970 --> 00:14:24,010
 Marine-Hauptquartier
 
 1314
-00:14:23,930 --> 00:14:23,970
+00:14:24,010 --> 00:14:24,050
 Marine-Hauptquartier
 
 1315
-00:14:23,970 --> 00:14:24,010
+00:14:24,050 --> 00:14:24,090
 Marine-Hauptquartier
 
 1316
-00:14:24,010 --> 00:14:24,050
+00:14:24,090 --> 00:14:24,130
 Marine-Hauptquartier
 
 1317
-00:14:24,050 --> 00:14:24,090
+00:14:24,130 --> 00:14:24,180
 Marine-Hauptquartier
 
 1318
-00:14:24,090 --> 00:14:24,130
+00:14:24,180 --> 00:14:24,220
 Marine-Hauptquartier
 
 1319
-00:14:24,130 --> 00:14:24,180
+00:14:24,220 --> 00:14:24,260
 Marine-Hauptquartier
 
 1320
-00:14:24,180 --> 00:14:24,220
+00:14:24,260 --> 00:14:24,300
 Marine-Hauptquartier
 
 1321
-00:14:24,220 --> 00:14:24,260
+00:14:24,300 --> 00:14:24,340
 Marine-Hauptquartier
 
 1322
-00:14:24,260 --> 00:14:24,300
+00:14:24,340 --> 00:14:24,390
 Marine-Hauptquartier
 
 1323
-00:14:24,300 --> 00:14:24,340
+00:14:24,390 --> 00:14:24,430
 Marine-Hauptquartier
 
 1324
-00:14:24,340 --> 00:14:24,390
+00:14:24,430 --> 00:14:24,470
 Marine-Hauptquartier
 
 1325
-00:14:24,390 --> 00:14:24,430
+00:14:24,470 --> 00:14:24,510
 Marine-Hauptquartier
 
 1326
-00:14:24,430 --> 00:14:24,470
+00:14:24,510 --> 00:14:24,550
 Marine-Hauptquartier
 
 1327
-00:14:24,470 --> 00:14:24,510
+00:14:24,550 --> 00:14:24,590
 Marine-Hauptquartier
 
 1328
-00:14:24,510 --> 00:14:24,550
+00:14:24,590 --> 00:14:24,640
 Marine-Hauptquartier
 
 1329
-00:14:24,550 --> 00:14:24,590
+00:14:24,640 --> 00:14:24,680
 Marine-Hauptquartier
 
 1330
-00:14:24,590 --> 00:14:24,640
+00:14:24,680 --> 00:14:24,720
 Marine-Hauptquartier
 
 1331
-00:14:24,640 --> 00:14:24,680
+00:14:24,720 --> 00:14:24,760
 Marine-Hauptquartier
 
 1332
-00:14:24,680 --> 00:14:24,720
+00:14:24,760 --> 00:14:24,800
 Marine-Hauptquartier
 
 1333
-00:14:24,720 --> 00:14:24,760
+00:14:24,800 --> 00:14:24,840
 Marine-Hauptquartier
 
 1334
-00:14:24,760 --> 00:14:24,800
+00:14:24,840 --> 00:14:24,890
 Marine-Hauptquartier
 
 1335
-00:14:24,800 --> 00:14:24,840
+00:14:24,890 --> 00:14:24,930
 Marine-Hauptquartier
 
 1336
-00:14:24,840 --> 00:14:24,890
+00:14:24,930 --> 00:14:24,970
 Marine-Hauptquartier
 
 1337
-00:14:24,890 --> 00:14:24,930
+00:14:24,970 --> 00:14:25,010
 Marine-Hauptquartier
 
 1338
-00:14:24,930 --> 00:14:24,970
+00:14:25,010 --> 00:14:25,050
 Marine-Hauptquartier
 
 1339
-00:14:24,970 --> 00:14:25,010
+00:14:25,050 --> 00:14:25,090
 Marine-Hauptquartier
 
 1340
-00:14:25,010 --> 00:14:25,050
+00:14:25,090 --> 00:14:25,140
 Marine-Hauptquartier
 
 1341
-00:14:25,050 --> 00:14:25,090
+00:14:25,140 --> 00:14:25,180
 Marine-Hauptquartier
 
 1342
-00:14:25,090 --> 00:14:25,140
+00:14:25,180 --> 00:14:25,220
 Marine-Hauptquartier
 
 1343
-00:14:25,140 --> 00:14:25,180
+00:14:25,220 --> 00:14:25,260
 Marine-Hauptquartier
 
 1344
-00:14:25,180 --> 00:14:25,220
-Marine-Hauptquartier
-
-1345
-00:14:25,220 --> 00:14:25,260
-Marine-Hauptquartier
-
-1346
 00:14:21,510 --> 00:14:21,550
 Marine-Hauptquartier
 
-1347
+1345
 00:14:21,550 --> 00:14:21,590
 Marine-Hauptquartier
 
-1348
+1346
 00:14:21,590 --> 00:14:21,630
 Marine-Hauptquartier
 
-1349
+1347
 00:14:21,630 --> 00:14:21,670
 Marine-Hauptquartier
 
-1350
+1348
 00:14:21,670 --> 00:14:21,720
 Marine-Hauptquartier
 
-1351
+1349
 00:14:21,720 --> 00:14:21,760
 Marine-Hauptquartier
 
-1352
+1350
 00:14:21,760 --> 00:14:21,800
 Marine-Hauptquartier
 
-1353
+1351
 00:14:21,800 --> 00:14:21,840
 Marine-Hauptquartier
 
-1354
+1352
 00:14:21,840 --> 00:14:21,880
 Marine-Hauptquartier
 
-1355
+1353
 00:14:21,880 --> 00:14:21,920
 Marine-Hauptquartier
 
-1356
+1354
 00:14:21,920 --> 00:14:21,970
 Marine-Hauptquartier
 
-1357
+1355
 00:14:21,970 --> 00:14:22,010
 Marine-Hauptquartier
 
-1358
+1356
 00:14:22,010 --> 00:14:22,050
 Marine-Hauptquartier
 
-1359
+1357
 00:14:22,050 --> 00:14:22,090
 Marine-Hauptquartier
 
-1360
+1358
 00:14:22,090 --> 00:14:22,130
 Marine-Hauptquartier
 
-1361
+1359
 00:14:22,130 --> 00:14:22,170
 Marine-Hauptquartier
 
-1362
+1360
 00:14:22,170 --> 00:14:22,220
 Marine-Hauptquartier
 
-1363
+1361
 00:14:22,220 --> 00:14:22,260
 Marine-Hauptquartier
 
-1364
+1362
 00:14:22,260 --> 00:14:22,300
 Marine-Hauptquartier
 
-1365
+1363
 00:14:22,300 --> 00:14:22,340
 Marine-Hauptquartier
 
-1366
+1364
 00:14:22,340 --> 00:14:22,380
 Marine-Hauptquartier
 
-1367
+1365
 00:14:22,380 --> 00:14:22,420
 Marine-Hauptquartier
 
-1368
+1366
 00:14:22,420 --> 00:14:22,470
 Marine-Hauptquartier
 
-1369
+1367
 00:14:22,470 --> 00:14:22,510
 Marine-Hauptquartier
 
-1370
+1368
 00:14:22,510 --> 00:14:22,550
 Marine-Hauptquartier
 
-1371
+1369
 00:14:22,550 --> 00:14:22,590
 Marine-Hauptquartier
 
-1372
+1370
 00:14:22,590 --> 00:14:22,630
 Marine-Hauptquartier
 
-1373
+1371
 00:14:22,630 --> 00:14:22,670
 Marine-Hauptquartier
 
-1374
+1372
 00:14:22,670 --> 00:14:22,720
 Marine-Hauptquartier
 
-1375
+1373
 00:14:22,720 --> 00:14:22,760
 Marine-Hauptquartier
 
-1376
+1374
 00:14:22,760 --> 00:14:22,800
 Marine-Hauptquartier
 
-1377
+1375
 00:14:22,800 --> 00:14:22,840
 Marine-Hauptquartier
 
-1378
+1376
 00:14:22,840 --> 00:14:22,880
 Marine-Hauptquartier
 
-1379
+1377
 00:14:22,880 --> 00:14:22,930
 Marine-Hauptquartier
 
-1380
+1378
 00:14:22,930 --> 00:14:22,970
 Marine-Hauptquartier
 
-1381
+1379
 00:14:22,970 --> 00:14:23,010
 Marine-Hauptquartier
 
-1382
+1380
 00:14:23,010 --> 00:14:23,050
 Marine-Hauptquartier
 
-1383
+1381
 00:14:23,050 --> 00:14:23,090
 Marine-Hauptquartier
 
-1384
+1382
 00:14:23,090 --> 00:14:23,130
 Marine-Hauptquartier
 
-1385
+1383
 00:14:23,130 --> 00:14:23,180
 Marine-Hauptquartier
 
-1386
+1384
 00:14:23,180 --> 00:14:23,220
 Marine-Hauptquartier
 
-1387
+1385
 00:14:23,220 --> 00:14:23,260
 Marine-Hauptquartier
 
-1388
+1386
 00:14:23,260 --> 00:14:23,300
 Marine-Hauptquartier
 
-1389
+1387
 00:14:23,300 --> 00:14:23,340
 Marine-Hauptquartier
 
-1390
+1388
 00:14:23,340 --> 00:14:23,380
 Marine-Hauptquartier
 
-1391
+1389
 00:14:23,380 --> 00:14:23,430
 Marine-Hauptquartier
 
-1392
+1390
 00:14:23,430 --> 00:14:23,470
 Marine-Hauptquartier
 
-1393
+1391
 00:14:23,470 --> 00:14:23,510
 Marine-Hauptquartier
 
-1394
+1392
 00:14:23,510 --> 00:14:23,550
 Marine-Hauptquartier
 
-1395
+1393
 00:14:23,550 --> 00:14:23,590
 Marine-Hauptquartier
 
-1396
+1394
 00:14:23,590 --> 00:14:23,630
 Marine-Hauptquartier
 
-1397
+1395
 00:14:23,630 --> 00:14:23,680
 Marine-Hauptquartier
 
-1398
+1396
 00:14:23,680 --> 00:14:23,720
 Marine-Hauptquartier
 
-1399
+1397
 00:14:23,720 --> 00:14:23,760
 Marine-Hauptquartier
 
-1400
+1398
 00:14:23,760 --> 00:14:23,800
 Marine-Hauptquartier
 
-1401
+1399
 00:14:23,800 --> 00:14:23,840
 Marine-Hauptquartier
 
-1402
+1400
 00:14:23,840 --> 00:14:23,880
 Marine-Hauptquartier
 
-1403
+1401
 00:14:23,880 --> 00:14:23,930
 Marine-Hauptquartier
 
-1404
+1402
 00:14:23,930 --> 00:14:23,970
 Marine-Hauptquartier
 
-1405
+1403
 00:14:23,970 --> 00:14:24,010
 Marine-Hauptquartier
 
-1406
+1404
 00:14:24,010 --> 00:14:24,050
 Marine-Hauptquartier
 
-1407
+1405
 00:14:24,050 --> 00:14:24,090
 Marine-Hauptquartier
 
-1408
+1406
 00:14:24,090 --> 00:14:24,130
 Marine-Hauptquartier
 
-1409
+1407
 00:14:24,130 --> 00:14:24,180
 Marine-Hauptquartier
 
-1410
+1408
 00:14:24,180 --> 00:14:24,220
 Marine-Hauptquartier
 
-1411
+1409
 00:14:24,220 --> 00:14:24,260
 Marine-Hauptquartier
 
-1412
+1410
 00:14:24,260 --> 00:14:24,300
 Marine-Hauptquartier
 
-1413
+1411
 00:14:24,300 --> 00:14:24,340
 Marine-Hauptquartier
 
-1414
+1412
 00:14:24,340 --> 00:14:24,390
 Marine-Hauptquartier
 
-1415
+1413
 00:14:24,390 --> 00:14:24,430
 Marine-Hauptquartier
 
-1416
+1414
 00:14:24,430 --> 00:14:24,470
 Marine-Hauptquartier
 
-1417
+1415
 00:14:24,470 --> 00:14:24,510
 Marine-Hauptquartier
 
-1418
+1416
 00:14:24,510 --> 00:14:24,550
 Marine-Hauptquartier
 
-1419
+1417
 00:14:24,550 --> 00:14:24,590
 Marine-Hauptquartier
 
-1420
+1418
 00:14:24,590 --> 00:14:24,640
 Marine-Hauptquartier
 
-1421
+1419
 00:14:24,640 --> 00:14:24,680
 Marine-Hauptquartier
 
-1422
+1420
 00:14:24,680 --> 00:14:24,720
 Marine-Hauptquartier
 
-1423
+1421
 00:14:24,720 --> 00:14:24,760
 Marine-Hauptquartier
 
-1424
+1422
 00:14:24,760 --> 00:14:24,800
 Marine-Hauptquartier
 
-1425
+1423
 00:14:24,800 --> 00:14:24,840
 Marine-Hauptquartier
 
-1426
+1424
 00:14:24,840 --> 00:14:24,890
 Marine-Hauptquartier
 
-1427
+1425
 00:14:24,890 --> 00:14:24,930
 Marine-Hauptquartier
 
-1428
+1426
 00:14:24,930 --> 00:14:24,970
 Marine-Hauptquartier
 
-1429
+1427
 00:14:24,970 --> 00:14:25,010
 Marine-Hauptquartier
 
-1430
+1428
 00:14:25,010 --> 00:14:25,050
 Marine-Hauptquartier
 
-1431
+1429
 00:14:25,050 --> 00:14:25,090
 Marine-Hauptquartier
 
-1432
+1430
 00:14:25,090 --> 00:14:25,140
 Marine-Hauptquartier
 
-1433
+1431
 00:14:25,140 --> 00:14:25,180
 Marine-Hauptquartier
 
-1434
+1432
 00:14:25,180 --> 00:14:25,220
 Marine-Hauptquartier
 
-1435
+1433
 00:14:25,220 --> 00:14:25,260
 Marine-Hauptquartier
+
+1434
+00:14:25,260 --> 00:14:27,720
+Lehm-Frucht
+
+1435
+00:14:25,260 --> 00:14:27,720
+Lehm-Frucht
 
 1436
 00:14:25,260 --> 00:14:27,720
@@ -6992,66 +6986,59 @@ Lehm-Frucht
 
 1437
 00:14:25,260 --> 00:14:27,720
-Lehm-Frucht
+Lehm-Mensch
 
 1438
 00:14:25,260 --> 00:14:27,720
-Lehm-Frucht
+Lehm-Mensch
 
 1439
 00:14:25,260 --> 00:14:27,720
 Lehm-Mensch
 
 1440
-00:14:25,260 --> 00:14:27,720
-Lehm-Mensch
+00:14:27,720 --> 00:14:30,180
+Schlammpuppe (Golem)
 
 1441
-00:14:25,260 --> 00:14:27,720
-Lehm-Mensch
+00:14:27,720 --> 00:14:30,180
+Schlammpuppe (Golem)
 
 1442
 00:14:27,720 --> 00:14:30,180
 Schlammpuppe (Golem)
 
 1443
-00:14:27,720 --> 00:14:30,180
-Schlammpuppe (Golem)
+00:22:05,600 --> 00:22:10,560
+Auf einer gewissen Insel, Neue Welt
 
 1444
-00:14:27,720 --> 00:14:30,180
-Schlammpuppe (Golem)
+00:22:05,600 --> 00:22:10,560
+Auf einer gewissen Insel, Neue Welt
 
 1445
 00:22:05,600 --> 00:22:10,560
 Auf einer gewissen Insel, Neue Welt
 
 1446
-00:22:05,600 --> 00:22:10,560
-Auf einer gewissen Insel, Neue Welt
+00:30:19,710 --> 00:30:22,720
+Kuzan
+Kapitän des 10. Schiffs
+Blackbeard-Piraten
 
 1447
-00:22:05,600 --> 00:22:10,560
-Auf einer gewissen Insel, Neue Welt
+00:30:19,710 --> 00:30:22,720
+Kuzan
+Kapitän des 10. Schiffs
+Blackbeard-Piraten
 
 1448
-00:30:19,710 --> 00:30:22,720
-Kuzan
-Kapitän des 10. Schiffs
-Blackbeard-Piraten
+00:32:51,950 --> 00:32:57,120
+Winner Island
+Neue Welt
 
 1449
-00:30:19,710 --> 00:30:22,720
-Kuzan
-Kapitän des 10. Schiffs
-Blackbeard-Piraten
-
-1450
 00:32:51,950 --> 00:32:57,120
 Winner Island
 Neue Welt
 
-1451
-00:32:51,950 --> 00:32:57,120
-Winner Island
-Neue Welt

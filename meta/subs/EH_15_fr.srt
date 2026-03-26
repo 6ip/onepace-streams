@@ -1951,15 +1951,9 @@ Salle de réunion
 00:06:52,090 --> 00:06:53,800
 24 plus tôt
 
-Jour de l'exécution
- de Gold Roger
-
 440
 00:06:52,090 --> 00:06:53,800
 24 plus tôt
-
-Jour de l'exécution
- de Gold Roger
 
 441
 00:10:21,930 --> 00:10:24,770
@@ -26499,3 +26493,4 @@ us)
 6484
 00:01:22,010 --> 00:01:23,710
 us)
+

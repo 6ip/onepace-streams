@@ -1045,3 +1045,4 @@ Ah, même si le retour est impossible...
 239
 00:20:04,550 --> 00:20:10,980
 Tu continueras sûrement à avancer.
+

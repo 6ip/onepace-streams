@@ -1,2132 +1,2119 @@
 1
-00:00:00,000 --> 00:00:09,990
-Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
-Napisy prawdopodobnie nie będą działać prawidłowo.
-Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
-https://mpv.io
-
-2
-00:01:54,680 --> 00:02:04,670
-Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
-Napisy prawdopodobnie nie będą działać prawidłowo.
-Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
-https://mpv.io
-
-3
 00:01:52,880 --> 00:01:54,760
 Jesteś piratem?
 
-4
+2
 00:01:54,760 --> 00:01:55,800
 Tak!
 
-5
+3
 00:01:55,800 --> 00:01:59,890
 Dlaczego wystrzeliłeś tę kulę armatnią
 prosto w naszą restaurację?
 
-6
+4
 00:01:59,890 --> 00:02:01,600
 To był wypadek!
 
-7
+5
 00:02:01,600 --> 00:02:03,600
 Rykoszet samoobronny!
 
-8
+6
 00:02:03,600 --> 00:02:04,940
 Co takiego...?
 
-9
+7
 00:02:05,940 --> 00:02:09,480
 Mniejsza z tym, po prostu nie
 kombinujcie tutaj za bardzo.
 
-10
+8
 00:02:09,820 --> 00:02:13,570
 Szef tego miejsca należał kiedyś
 do niesławnej pirackiej załogi.
 
-11
+9
 00:02:14,660 --> 00:02:16,780
 Czyli staruszek był kiedyś piratem!
 
-12
+10
 00:02:17,450 --> 00:02:22,330
 Dla tego gównianego dziadygi
 ta restauracja jest niczym skarb.
 
-13
+11
 00:02:22,830 --> 00:02:29,960
 Tutejszych kucharzy przyciągnęła jego sława.
 Każdy z nich ma zaiste piracki temperament.
 
-14
+12
 00:02:30,590 --> 00:02:35,550
 Piraci bynajmniej nie stronią od tego
 miejsca, więc nadają się tu idealnie.
 
-15
+13
 00:02:35,550 --> 00:02:39,010
 Zdrowo pokręcona ta wasza restauracja.
 
-16
+14
 00:02:39,010 --> 00:02:42,020
 Co racja to racja.
 U nas to chleb powszedni.
 
-17
+15
 00:02:42,020 --> 00:02:46,810
 Od jakiegoś czasu główną atrakcją wydają
 się być walki piratów z kucharzami.
 
-18
+16
 00:02:47,230 --> 00:02:52,610
 Tak się składa, że kelnerom się to
 nie podobało, więc stchórzyli i uciekli.
 
-19
+17
 00:02:53,240 --> 00:02:57,240
 Wszystko jasne... Czyli to dlatego szef
 chce, żebym pracował tu przez cały rok.
 
-20
+18
 00:02:57,990 --> 00:03:00,030
 Słuchaj, dołącz do naszej załogi.
 
-21
+19
 00:03:00,030 --> 00:03:01,790
 Nie ma mowy.
 
-22
+20
 00:03:02,290 --> 00:03:05,960
 Mam ważny powód,
 żeby tu dalej pracować.
 
-23
+21
 00:03:06,290 --> 00:03:06,960
 Nie!
 
-24
+22
 00:03:06,960 --> 00:03:07,830
 Nie ma mowy!
 
-25
+23
 00:03:08,420 --> 00:03:09,170
 Co proszę?!
 
-26
+24
 00:03:09,710 --> 00:03:12,840
 Nie ma mowy, żeby nie było mowy!
 
-27
+25
 00:03:12,840 --> 00:03:16,340
 Jesteś dobrym kucharzem,
 więc zostań piratem razem ze mną.
 
-28
+26
 00:03:16,970 --> 00:03:19,550
 Hej, słuchaj, co do ciebie mówię!
 
-29
+27
 00:03:19,550 --> 00:03:20,810
 No, to jaki masz powód?
 
-30
+28
 00:03:21,430 --> 00:03:22,720
 Nie twój interes!
 
-31
+29
 00:03:24,020 --> 00:03:25,600
 Powiedziałeś, że mam słuchać!
 
-32
+30
 00:03:25,600 --> 00:03:29,940
 W takim sensie, że powinieneś
 słuchać zdania innych!
 
-33
+31
 00:03:29,940 --> 00:03:32,940
 Pokroję cię na kawałeczki,
 ty cholerny słomkowy durniu!
 
-34
+32
 00:03:32,940 --> 00:03:33,860
 Coś powiedział?!
 
-35
+33
 00:03:33,860 --> 00:03:37,360
 Spróbuj wyśmiewać ten kapelusz,
 to skopię ci zadek, ty draniu!
 
-36
+34
 00:03:38,110 --> 00:03:40,200
 Przepraszam, że przeszkadzam...
 
-37
+35
 00:03:40,200 --> 00:03:41,080
 – Czego?!
 – Czego?!
 
-38
+36
 00:03:41,080 --> 00:03:45,120
 Jestem Gin z pirackiej załogi Kriega.
 
-39
+37
 00:03:45,120 --> 00:03:47,080
 Ty też jesteś piratem, prawda?
 
-40
+38
 00:03:47,620 --> 00:03:49,210
 Jaki jest twój cel?
 
-41
+39
 00:03:49,210 --> 00:03:51,590
 Chcę odnaleźć One Piece.
 
-42
+40
 00:03:51,590 --> 00:03:53,500
 Zamierzam popłynąć na Grand Line.
 
-43
+41
 00:03:57,340 --> 00:04:02,850
 Skoro szukasz kucharza,
 to twoja załoga jest raczej skromna.
 
-44
+42
 00:04:02,850 --> 00:04:04,720
 Racja, razem z nim jest nas piątka.
 
-45
+43
 00:04:04,720 --> 00:04:06,850
 Dlaczego mnie wliczasz?!
 
-46
+44
 00:04:06,850 --> 00:04:10,980
 Wyglądasz na dobrego faceta,
 więc pozwól, że dam ci radę.
 
-47
+45
 00:04:10,980 --> 00:04:13,480
 Odpuść sobie Grand Line.
 
-48
+46
 00:04:13,480 --> 00:04:17,110
 Jesteś jeszcze młody.
 Nie musisz się spieszyć.
 
-49
+47
 00:04:17,110 --> 00:04:20,620
 Grand Line to i tak tylko skrawek
 oceanów całego świata.
 
-50
+48
 00:04:20,620 --> 00:04:24,410
 Jeśli chcesz się bawić w pirata,
 to wybierz sobie bezpieczniejsze wody.
 
-51
+49
 00:04:25,120 --> 00:04:26,950
 Mówisz?
 
-52
+50
 00:04:27,330 --> 00:04:29,960
 Wiesz może coś na temat Grand Line?
 
-53
+51
 00:04:29,960 --> 00:04:31,330
 Nie...
 
-54
+52
 00:04:31,330 --> 00:04:34,500
 Nic nie wiem...
 Nic z tego nie rozumiem...
 
-55
+53
 00:04:34,880 --> 00:04:36,760
 Właśnie dlatego mnie to przeraża...
 
-56
+54
 00:04:38,010 --> 00:04:42,010
 Jak na człowieka Kriega
 brzmisz jak zwykły mięczak.
 
-57
+55
 00:04:42,640 --> 00:04:43,890
 Kim jest Krieg?
 
-58
+56
 00:04:52,520 --> 00:04:54,270
 Przystawki na stół numer trzy!
 
-59
+57
 00:04:54,270 --> 00:04:55,440
 Sam z tym dygaj.
 
-60
+58
 00:04:55,440 --> 00:04:57,110
 Przecież nie mamy kelnerów.
 
-61
+59
 00:04:59,450 --> 00:05:01,360
 Czy to na pewno w porządku, Patty?
 
-62
+60
 00:05:01,360 --> 00:05:02,110
 Że niby co?
 
-63
+61
 00:05:03,700 --> 00:05:06,740
 Słyszałem, że ten facet, który dostał od ciebie bęcki
 
-64
+62
 00:05:06,740 --> 00:05:09,870
 należy do załogi Piratów Kriega.
 
-65
+63
 00:05:09,870 --> 00:05:12,580
 No, to dobrze słyszałeś.
 
-66
+64
 00:05:12,580 --> 00:05:18,210
 Don Krieg to najsilniejszy, a zarazem
 najpodlejszy pirat na tych wodach.
 
-67
+65
 00:05:18,210 --> 00:05:19,340
 Zgadza się.
 
-68
+66
 00:05:23,090 --> 00:05:28,390
 Było nie było, nie bez powodu nazywają
 go admirałem pirackiej floty,
 
-69
+67
 00:05:28,390 --> 00:05:33,400
 liczącej sobie pięćdziesiąt
 pirackich okrętów.
 
-70
+68
 00:05:34,310 --> 00:05:36,940
 To prawdziwy potwór...
 
-71
+69
 00:05:36,940 --> 00:05:38,860
 O co tyle hałasu?
 
-72
+70
 00:05:39,940 --> 00:05:44,660
 Słyszałem, że jego flota składa się
 z ponad pięciu tysięcy piratów.
 
-73
+71
 00:05:46,450 --> 00:05:53,710
 Jeśli ten gość powie Don Kriegowi,
 jak go tutaj potraktowaliśmy,
 
-74
+72
 00:05:54,080 --> 00:06:00,840
 wszyscy zostaniemy zmiażdżeni jak mrówki
 pod naporem tratujących słoni.
 
-75
+73
 00:06:00,840 --> 00:06:02,720
 Ach tak...?
 
-76
+74
 00:06:03,050 --> 00:06:08,430
 Czyli sugerujesz, że powinienem
 był go po prostu obsłużyć?
 
-77
+75
 00:06:08,430 --> 00:06:12,140
 To byłoby nieuprzejme
 względem prawdziwych klientów!
 
-78
+76
 00:06:14,600 --> 00:06:20,940
 Splamiłoby to honor Morskiej Restauracji Baratie.
 Przecież słyniemy właśnie z walczących kucharzy!
 
-79
+77
 00:06:21,320 --> 00:06:26,990
 Jak myślisz, ilu piratów odesłaliśmy
 już z kwitkiem w podobny sposób?
 
-80
+78
 00:06:26,990 --> 00:06:29,450
 Skoro wymiękasz, to odpuść sobie tę robotę!
 
-81
+79
 00:06:29,450 --> 00:06:30,620
 Coś powiedział?!
 
-82
+80
 00:06:30,620 --> 00:06:34,830
 Przypominam, że kelnerzy pouciekali
 przez twoją niewyparzoną gębę!
 
-83
+81
 00:06:34,830 --> 00:06:38,380
 Patty, to twoja zasługa,
 że brakuje nam rąk do pracy!
 
-84
+82
 00:06:38,840 --> 00:06:43,720
 Te mięczaki, tak czy
 siak, były bezużyteczne!
 
-85
+83
 00:06:44,130 --> 00:06:45,380
 Dajesz!
 
-86
+84
 00:06:45,380 --> 00:06:46,590
 Carne, pokaż mu!
 
-87
+85
 00:06:46,590 --> 00:06:48,140
 Spuść mu manto, Patty!
 
-88
+86
 00:06:49,220 --> 00:06:50,970
 Ej, wy tępe ćwoki!
 
-89
+87
 00:06:50,970 --> 00:06:52,980
 Wracać mi do roboty!
 
-90
+88
 00:06:52,980 --> 00:06:54,940
 – Robi się, szefie!
 – Robi się, szefie!
 
-91
+89
 00:06:56,520 --> 00:06:57,860
 Do zobaczenia...
 
-92
+90
 00:06:57,860 --> 00:07:00,730
 Ale i tak popłynę na Grand Line.
 
-93
+91
 00:07:00,730 --> 00:07:01,650
 Jasne...
 
-94
+92
 00:07:01,650 --> 00:07:03,400
 Rób, co chcesz.
 
-95
+93
 00:07:03,900 --> 00:07:07,110
 Obcy człowiek jak ja i tak nie ma
 prawa cię powstrzymywać.
 
-96
+94
 00:07:07,110 --> 00:07:10,330
 Po prostu chciałem cię ostrzec.
 
-97
+95
 00:07:10,330 --> 00:07:12,370
 A co do ciebie, Sanji...
 
-98
+96
 00:07:12,370 --> 00:07:14,210
 Masz moje dozgonne dzięki!
 
-99
+97
 00:07:14,710 --> 00:07:16,710
 Zawdzięczam ci życie.
 
-100
+98
 00:07:16,710 --> 00:07:19,540
 Ten posiłek był naprawdę pyszny.
 
-101
+99
 00:07:19,540 --> 00:07:21,500
 Mógłbym kiedyś wrócić po dokładkę?
 
-102
+100
 00:07:21,880 --> 00:07:23,420
 Kiedy tylko chcesz!
 
-103
+101
 00:07:23,420 --> 00:07:26,260
 Hej, Majtku!
 
-104
+102
 00:07:26,630 --> 00:07:27,470
 Staruszek!
 
-105
+103
 00:07:27,470 --> 00:07:29,140
 Tu się chowałeś!
 
-106
+104
 00:07:33,390 --> 00:07:35,020
 Płyń, Gin.
 
-107
+105
 00:07:36,230 --> 00:07:37,650
 Wybacz.
 
-108
+106
 00:07:37,650 --> 00:07:41,400
 Będziesz miał kłopoty, bo nakarmiłeś
 mnie za darmo, prawda?
 
-109
+107
 00:07:41,860 --> 00:07:43,480
 A tam...
 
-110
+108
 00:07:53,540 --> 00:07:56,210
 Nie ma dowodów, to i nie ma kłopotów.
 
-111
+109
 00:08:02,630 --> 00:08:04,840
 Ty też postaraj się
 w żadne nie wpadać!
 
-112
+110
 00:08:04,840 --> 00:08:06,670
 Dziękuję, Sanji!
 
-113
+111
 00:08:06,670 --> 00:08:09,300
 Nigdy nie zapomnę twojej dobroci!
 
-114
+112
 00:08:09,300 --> 00:08:11,390
 Sanji! Majtku!
 
-115
+113
 00:08:11,390 --> 00:08:13,390
 Wracajcie do pracy!
 
-116
+114
 00:08:14,180 --> 00:08:16,810
 Zamówienie do trzeciego stolika gotowe!
 
-117
+115
 00:08:20,270 --> 00:08:21,400
 Jestem Luffy!
 
-118
+116
 00:08:21,400 --> 00:08:23,230
 Od dziś jestem tutaj majtkiem.
 
-119
+117
 00:08:23,230 --> 00:08:24,940
 Do usług!
 
-120
+118
 00:08:39,420 --> 00:08:41,710
 Gdzie jest deser dla stolika szóstego?
 
-121
+119
 00:08:42,920 --> 00:08:45,300
 Który przyjmował to zamówienie?!
 
-122
+120
 00:08:45,300 --> 00:08:46,800
 Czy aby nie ty?!
 
-123
+121
 00:08:46,800 --> 00:08:49,180
 Jestem teraz zbyt zajęty!
 
-124
+122
 00:08:49,180 --> 00:08:50,760
 Ogarnij się!
 
-125
+123
 00:08:50,760 --> 00:08:52,970
 Chcesz to powtórzyć moim pięściom?!
 
-126
+124
 00:08:55,220 --> 00:08:59,640
 – Przydaj się do czegoś i pozmywaj, Majtek!
 – Przydaj się do czegoś i pozmywaj, Majtek!
 
-127
+125
 00:08:59,640 --> 00:09:01,190
 Gdzie wcięło Sanji'ego?
 
-128
+126
 00:09:01,940 --> 00:09:03,900
 Podrywa klientkę w jadalni.
 
-129
+127
 00:09:03,900 --> 00:09:05,150
 Znowu?!
 
-130
+128
 00:09:05,150 --> 00:09:10,360
 Samo to, że jest zastępcą szefa kuchni
 przysparza wystarczająco problemów.
 
-131
+129
 00:09:10,740 --> 00:09:12,030
 Pogódź się z tym.
 
-132
+130
 00:09:12,030 --> 00:09:14,830
 Jest tu najdłużej z nasz wszystkich.
 
-133
+131
 00:09:15,330 --> 00:09:20,920
 Tylko dlaczego dalej tu pracuje,
 skoro nie dogaduje się z szefem?
 
-134
+132
 00:09:20,920 --> 00:09:23,460
 Bo sam chce nim kiedyś zostać.
 
-135
+133
 00:09:23,460 --> 00:09:25,420
 Tylko ślepy by tego nie zauważył.
 
-136
+134
 00:09:30,300 --> 00:09:32,090
 Hej ty, Majtek!
 
-137
+135
 00:09:32,090 --> 00:09:35,470
 Ile ty już stłukłeś tych talerzy, co?!
 
-138
+136
 00:09:35,470 --> 00:09:38,140
 Och, wybacz. Zapomniałem liczyć.
 
-139
+137
 00:09:38,140 --> 00:09:41,980
 Nie o to mi chodziło!
 Przepraszaj za wszystko, co żeś potłukł!
 
-140
+138
 00:09:41,980 --> 00:09:45,110
 Zapomnij o zmywaniu.
 Bierz i zasuwaj sprzątać!
 
-141
+139
 00:09:45,110 --> 00:09:46,480
 Dobra, zostaw to mnie!
 
-142
+140
 00:09:48,480 --> 00:09:50,440
 Nie podjadaj zamówień!
 
-143
+141
 00:09:50,440 --> 00:09:53,070
 To było danie główne!
 
-144
+142
 00:09:53,740 --> 00:09:55,490
 A tam, nie ma co się przejmować!
 
-145
+143
 00:09:55,490 --> 00:09:57,410
 Aua!
 
-146
+144
 00:09:59,500 --> 00:10:03,000
 Au, au, au, au, au, au, au!
 
-147
+145
 00:10:00,500 --> 00:10:03,000
 – Won z kuchni, ale już!
 – Won z kuchni, ale już!
 
-148
+146
 00:10:03,460 --> 00:10:05,960
 Będziesz przyjmował
 zamówienia, zrozumiano?
 
-149
+147
 00:10:06,460 --> 00:10:10,090
 Spytaj klientów, co chcą jeść.
 Chyba tyle potrafisz zrobić, co?!
 
-150
+148
 00:10:10,090 --> 00:10:10,300
 Spytaj klientów, co chcą jeść.
 Chyba tyle potrafisz zrobić, co?!
 
-151
+149
 00:10:10,300 --> 00:10:11,590
 Tak.
 
-152
+150
 00:10:11,590 --> 00:10:13,880
 Męczące są te całe obowiązki.
 
-153
+151
 00:10:13,880 --> 00:10:15,430
 Koby to dopiero miał ciężko.
 
-154
+152
 00:10:15,430 --> 00:10:17,470
 Hej, Majtku!
 
-155
+153
 00:10:18,390 --> 00:10:19,390
 Wy...
 
-156
+154
 00:10:19,390 --> 00:10:21,810
 Podobno masz tu harować przez rok.
 
-157
+155
 00:10:21,810 --> 00:10:23,890
 Możemy już zmieniać banderę?
 
-158
+156
 00:10:23,890 --> 00:10:28,650
 Cz-Cz-Czemu wy zajadacie się
  takimi pysznościami beze mnie?!
 
-159
+157
 00:10:28,650 --> 00:10:30,070
 Jesteście podli!
 
-160
+158
 00:10:30,070 --> 00:10:32,820
 My akurat możemy sobie
 na to pozwolić, prawda?
 
-161
+159
 00:10:34,160 --> 00:10:34,780
 A masz!
 
-162
+160
 00:10:35,990 --> 00:10:37,240
 T-Tak, możemy...
 
-163
+161
 00:10:38,620 --> 00:10:41,910
 Bądź co bądź jedzenie
 mają tu wyśmienite.
 
-164
+162
 00:10:43,750 --> 00:10:44,830
 No cóż...
 
-165
+163
 00:10:45,540 --> 00:10:47,670
 Współczuję ci, ale..
 
-166
+164
 00:10:48,380 --> 00:10:50,710
 sam sobie to wypij!
 
-167
+165
 00:10:52,720 --> 00:10:55,050
 Nie wierzę, że mi to zrobiłeś!
 
-168
+166
 00:10:55,550 --> 00:10:57,890
 To ja nie wierzę, że to zrobiłeś!
 
-169
+167
 00:10:57,890 --> 00:11:00,010
 Ohyda! Ohyda!
 
-170
+168
 00:10:57,510 --> 00:11:00,010
 Aż mnie brzuch boli ze śmiechu!
 
-171
+169
 00:11:07,230 --> 00:11:09,190
 Hałaśliwa zgraja...
 
-172
+170
 00:11:09,190 --> 00:11:09,980
 Czy to...
 
-173
+171
 00:11:10,400 --> 00:11:12,650
 jego załoga?
 
-174
+172
 00:11:16,910 --> 00:11:18,410
 Sam sobie nalej.
 
-175
+173
 00:11:19,120 --> 00:11:20,950
 Och, drogi oceanie,
 
-176
+174
 00:11:20,950 --> 00:11:23,250
 dziękuję ci za dzisiejsze spotkanie!
 
-177
+175
 00:11:23,250 --> 00:11:24,040
 – Co?!
 – Co?!
 
-178
+176
 00:11:24,040 --> 00:11:26,120
 Ach, miłości...
 
-179
+177
 00:11:26,120 --> 00:11:28,500
 Nie mogę znieść tej trwogi.
 
-180
+178
 00:11:28,500 --> 00:11:29,960
 Śmiej się ze mnie, ile chcesz.
 
-181
+179
 00:11:30,460 --> 00:11:35,590
 Zostałbym nawet podrzędnym piratem
 —a może i wstąpił w zastępy demonów—
 
-182
+180
 00:11:35,590 --> 00:11:36,720
 aby być u twojego boku!
 
-183
+181
 00:11:38,720 --> 00:11:41,060
 Jakże to jednak tragiczne!
 
-184
+182
 00:11:41,060 --> 00:11:44,270
 Zły los stawia nam na drodzę
 niepokonaną przeszkodę!
 
-185
+183
 00:11:44,270 --> 00:11:47,690
 Z tą przeszkodą, to chyba o mnie, prawda?
 
-186
+184
 00:11:47,690 --> 00:11:48,980
 Sanji?
 
-187
+185
 00:11:48,980 --> 00:11:50,560
 Gówniany dziadyga...!
 
-188
+186
 00:11:50,560 --> 00:11:55,440
 To dobra okazja. Może do nich 
 dołączysz i zostaniesz piratem?
 
-189
+187
 00:11:55,440 --> 00:11:58,740
 Ta restauracja cię już nie potrzebuje!
 
-190
+188
 00:12:14,210 --> 00:12:15,670
 Rozumiem...
 
-191
+189
 00:12:16,170 --> 00:12:21,550
 Ten kucharz uratował ci życie,
 dzięki czemu wróciłeś tutaj.
 
-192
+190
 00:12:21,550 --> 00:12:25,020
 Dobrze zrozumiałem, Gin?
 
-193
+191
 00:12:25,520 --> 00:12:26,980
 T-Tak...
 
-194
+192
 00:12:26,980 --> 00:12:28,980
 A-Ale...
 
-195
+193
 00:12:29,350 --> 00:12:33,230
 Nie spodziewałem się, że nasz okręt
 flagowy jest w aż tak złym stanie...
 
-196
+194
 00:12:33,230 --> 00:12:34,650
 Don Krieg!
 
-197
+195
 00:12:34,650 --> 00:12:36,070
 Co?
 
-198
+196
 00:12:38,610 --> 00:12:39,910
 Zabiorę cię tam.
 
-199
+197
 00:12:39,910 --> 00:12:42,660
 Do Morskiej Restauracji Baratie.
 
-200
+198
 00:12:47,160 --> 00:12:48,830
 Ty gówniany dziadygo.
 
-201
+199
 00:12:48,830 --> 00:12:51,130
 Jestem tu zastępcą szefa kuchni.
 
-202
+200
 00:12:51,130 --> 00:12:53,630
 Co ma znaczyć, że nie jestem
 już tutaj potrzebny?!
 
-203
+201
 00:12:53,630 --> 00:12:56,010
 Ciągle wszczynasz bójki z klientami.
 
-204
+202
 00:12:56,010 --> 00:12:59,260
 Rozdymają ci się nozdrza,
 gdy tylko zobaczysz jakąś kobietę.
 
-205
+203
 00:12:59,260 --> 00:13:01,340
 Porządnego posiłku też nie ugotujesz.
 
-206
+204
 00:13:01,340 --> 00:13:04,140
 Jesteś niczym więcej jak
 udręką dla tej restauracji.
 
-207
+205
 00:13:04,140 --> 00:13:05,640
 Właśnie dlatego.
 
-208
+206
 00:13:05,640 --> 00:13:07,470
 Co proszę?
 
-209
+207
 00:13:10,560 --> 00:13:14,110
 Poza tym reszta kucharzy
 raczej za tobą nie przepada.
 
-210
+208
 00:13:14,110 --> 00:13:20,030
 Zostań piratem czy kimkolwiek chcesz, ważne, że z dala od tej restauracji!
 
-211
+209
 00:13:21,030 --> 00:13:22,660
 Co żeś powiedział...?
 
-212
+210
 00:13:23,530 --> 00:13:27,870
 Myślisz, że wolno ci chrzanić. co ci się
 żywnie podoba, gówniany dziadygo?
 
-213
+211
 00:13:28,830 --> 00:13:33,420
 Całą resztę pal diabli, ale obrażanie
 moich potraw to już przesada!
 
-214
+212
 00:13:33,960 --> 00:13:37,840
 Gadaj sobie co chcesz! Ja tu
 zostaję i dalej będę gotował!
 
-215
+213
 00:13:37,840 --> 00:13:39,630
 Koniec i kropka!
 
-216
+214
 00:13:39,630 --> 00:13:43,510
 Ja ci dam łapać właściciela za szmaty!
 
-217
+215
 00:13:43,510 --> 00:13:45,800
 Ty cholerny bakłażanie!
 
-218
+216
 00:13:47,560 --> 00:13:50,100
 Niech to szlag...
 
-219
+217
 00:13:51,980 --> 00:13:54,860
 Wyrzucaj mnie ile chcesz.
 
-220
+218
 00:13:54,860 --> 00:13:58,440
 Ja tu zostaję i dalej będę twoim kucharzem...
 
-221
+219
 00:13:58,440 --> 00:14:00,440
 aż do twojej zasranej śmierci!
 
-222
+220
 00:14:00,440 --> 00:14:02,320
 Nie zamierzam umierać!
 
-223
+221
 00:14:02,320 --> 00:14:04,200
 Pożyję jeszcze ze sto lat!
 
-224
+222
 00:14:04,200 --> 00:14:06,410
 Musiał dziad wtrącić swoje trzy grosze...
 
-225
+223
 00:14:06,410 --> 00:14:09,290
 No i klasa! Jest zgoda, więc
 możesz zostać piratem!
 
-226
+224
 00:14:09,290 --> 00:14:10,410
 Ani mi się śni!
 
-227
+225
 00:14:10,950 --> 00:14:12,500
 Wracając...
 
-228
+226
 00:14:12,870 --> 00:14:14,290
 Wybacz to zamieszanie.
 
-229
+227
 00:14:14,290 --> 00:14:17,460
 W rekompensacie owocowa
 macédoine dla mojej księżniczki.
 
-230
+228
 00:14:17,460 --> 00:14:19,670
 Ach, dziękuję!
 
-231
+229
 00:14:19,670 --> 00:14:20,670
 Jesteś taki miły.
 
-232
+230
 00:14:20,670 --> 00:14:21,420
 Ależ skąd...
 
-233
+231
 00:14:21,420 --> 00:14:23,590
 A rekompensata dla nas?!
 
-234
+232
 00:14:23,590 --> 00:14:26,220
 Pozwę cię za dyskryminację,
 ty kucharzu-babiarzu!
 
-235
+233
 00:14:26,220 --> 00:14:28,930
 Przecież dostałeś herbatę, nie?
 
-236
+234
 00:14:28,930 --> 00:14:30,720
 Teraz dziękuj, długi nochalu.
 
-237
+235
 00:14:30,720 --> 00:14:32,230
 Co? Chcesz się bić?
 
-238
+236
 00:14:32,230 --> 00:14:34,060
 Nie będę się z tobą cackał.
 
-239
+237
 00:14:34,060 --> 00:14:35,650
 Bierz go, Zoro!
 
-240
+238
 00:14:35,650 --> 00:14:37,190
 Sam go sobie bierz.
 
-241
+239
 00:14:37,190 --> 00:14:39,690
 Przestańcie! Nie kłóćcie się o mnie.
 
-242
+240
 00:14:39,690 --> 00:14:40,690
 Tak, już przestaję.
 
-243
+241
 00:14:40,690 --> 00:14:42,820
 A kto powiedział, że to o ciebie?!
 
-244
+242
 00:14:42,820 --> 00:14:44,110
 A tak poza tym, to wiesz...
 
-245
+243
 00:14:44,110 --> 00:14:44,910
 Tak?
 
-246
+244
 00:14:44,910 --> 00:14:47,030
 To wasze jedzenie jest wyborne...
 
-247
+245
 00:14:47,030 --> 00:14:49,410
 ale moim zdaniem troszkę tutaj za drogo...
 
-248
+246
 00:14:49,410 --> 00:14:51,040
 Ach, dla ciebie na koszt firmy.
 
-249
+247
 00:14:51,040 --> 00:14:52,540
 Dziękuję!
 
-250
+248
 00:14:53,580 --> 00:14:55,620
 Ale wy płacicie.
 
-251
+249
 00:14:54,540 --> 00:14:55,620
 Co...?!
 
-252
+250
 00:14:55,620 --> 00:14:57,840
 Jesteś zbyt przewidywalny.
 
-253
+251
 00:14:59,960 --> 00:15:02,300
 Na co ty jeszcze czekasz?!
 
-254
+252
 00:15:02,300 --> 00:15:04,550
 Marsz po gorące ręczniki dla klientów!
 
-255
+253
 00:15:04,550 --> 00:15:05,550
 Tak jest...
 
-256
+254
 00:15:37,670 --> 00:15:42,170
 Klepsydry otaczające czaszkę mają
 za zadanie zastraszyć wrógów!
 
-257
+255
 00:15:42,500 --> 00:15:44,300
 Ta flaga!
 
-258
+256
 00:15:44,300 --> 00:15:46,050
 Ta flaga należy...!
 
-259
+257
 00:15:46,050 --> 00:15:49,680
 Nie ma mowy o pomyłce.
 To postrach całego East Blue...
 
-260
+258
 00:15:50,220 --> 00:15:52,640
 Don Krieg!
 
-261
+259
 00:16:06,700 --> 00:16:07,570
 Dlaczego...?!
 
-262
+260
 00:16:07,570 --> 00:16:10,370
 Czego tu szukają piraci Kriega?!
 
-263
+261
 00:16:10,370 --> 00:16:13,330
 A nie mówiłem, Patty?! Przypłynęli!
 
-264
+262
 00:16:13,330 --> 00:16:15,330
 Masz się ich teraz pozbyć, zrozumiano?!
 
-265
+263
 00:16:15,330 --> 00:16:17,080
 N-Nie może być!
 
-266
+264
 00:16:17,080 --> 00:16:20,080
 Ten kolo przewodzi pięcio
 tysięcznej pirackiej flocie!
 
-267
+265
 00:16:20,080 --> 00:16:23,340
 Miałby tu przypłynąć z zemsty
 za zaledwie jednego z nich?!
 
-268
+266
 00:16:23,340 --> 00:16:24,840
 Nie miałby, tylko już tu jest!
 
-269
+267
 00:16:24,840 --> 00:16:26,670
 Naprawdę tu przypłynął!
 
-270
+268
 00:16:26,670 --> 00:16:27,930
 Hej, to oznacza kłopoty!
 
-271
+269
 00:16:27,930 --> 00:16:30,180
 Nie powinniśmy czym
 prędzej stąd zwiewać?!
 
-272
+270
 00:16:30,180 --> 00:16:32,640
 Co za ogromny galeon!
 
-273
+271
 00:16:39,980 --> 00:16:41,860
 Ten statek jest przeogromny!
 
-274
+272
 00:16:41,860 --> 00:16:44,780
 To chyba Gin wrócił podziękować.
 
-275
+273
 00:16:44,780 --> 00:16:47,280
 Szczerze wątpię...
 
-276
+274
 00:16:47,280 --> 00:16:49,110
 Coś tu jest nie tak...
 
-277
+275
 00:16:48,200 --> 00:16:49,110
 Co?
 
-278
+276
 00:16:58,040 --> 00:16:59,290
 H-Hej...
 
-279
+277
 00:16:59,290 --> 00:17:00,960
 C-Co to...?
 
-280
+278
 00:17:08,420 --> 00:17:11,390
 Nieźle poturbowany ten ich statek...
 
-281
+279
 00:17:11,390 --> 00:17:14,350
 Armaty raczej ich tak nie urządziły.
 
-282
+280
 00:17:15,100 --> 00:17:18,060
 Jedno jest pewne, to nie
 było dzieło człowieka...
 
-283
+281
 00:17:18,060 --> 00:17:20,270
 Może wpadli na trąbę wodną?
 
-284
+282
 00:17:22,350 --> 00:17:24,190
 Nadchodzi...
 
-285
+283
 00:17:46,460 --> 00:17:47,960
 P-Przepraszam...
 
-286
+284
 00:17:49,170 --> 00:17:52,930
 Czy mogę prosić o coś do
 jedzenia i trochę wody?
 
-287
+285
 00:17:53,470 --> 00:17:55,430
 Pieniędzy mamy...
 
-288
+286
 00:17:55,430 --> 00:17:57,850
 pod dostatkiem...
 
-289
+287
 00:17:59,520 --> 00:18:01,270
 C-Co to ma być?!
 
-290
+288
 00:18:01,270 --> 00:18:03,400
 Ani cienia dumy i siły.
 
-291
+289
 00:18:03,400 --> 00:18:08,280
 Czy to na pewno ten Don Krieg,
 słynny admirał pirackiej floty?
 
-292
+290
 00:18:08,280 --> 00:18:10,610
 Czyli jest głodny...
 
-293
+291
 00:18:15,740 --> 00:18:17,410
 K-Kapitanie!
 
-294
+292
 00:18:18,950 --> 00:18:20,450
 Don Krieg!
 
-295
+293
 00:18:22,080 --> 00:18:23,500
 P-Proszę!
 
-296
+294
 00:18:23,500 --> 00:18:25,210
 Pomóżcie naszemu kapitanowi!
 
-297
+295
 00:18:25,790 --> 00:18:27,590
 On umiera z głodu!
 
-298
+296
 00:18:28,130 --> 00:18:32,170
 Od kilku dobrych dni nic nie jadł!
 Jak tak dalej pójdzie, to umrze!
 
-299
+297
 00:18:40,430 --> 00:18:42,270
 To dopiero dobre!
 
-300
+298
 00:18:42,270 --> 00:18:46,610
 Tak właśnie wygląda arcygroźny
 postrach mórz, Don Krieg!
 
-301
+299
 00:18:46,610 --> 00:18:48,440
 Tym razem mam pieniądze.
 
-302
+300
 00:18:48,440 --> 00:18:49,860
 Jesteśmy klientami!
 
-303
+301
 00:18:49,860 --> 00:18:51,990
 Nie żartuj sobie!
 
-304
+302
 00:18:51,990 --> 00:18:54,360
 Hej, natychmiast zawiadomcie Marynarkę.
 
-305
+303
 00:18:54,360 --> 00:18:55,160
 Co?
 
-306
+304
 00:18:55,160 --> 00:18:58,870
 On jest na skraju śmierci!
 Taka okazja się nie powtórzy!
 
-307
+305
 00:18:58,870 --> 00:19:00,490
 Nic mu nie dawać!
 
-308
+306
 00:19:00,490 --> 00:19:01,910
 Przytrzymajcie go!
 
-309
+307
 00:19:02,620 --> 00:19:05,960
 Racja! Kto wie, co mu strzeli do
 głowy, gdy tylko stanie na nogi!
 
-310
+308
 00:19:05,960 --> 00:19:07,630
 To zwykły łotr.
 
-311
+309
 00:19:07,630 --> 00:19:12,340
 Głodowanie to dobra kara za
 wszystko, czego się dopuśćił!
 
-312
+310
 00:19:12,340 --> 00:19:16,470
 Gdyby odzyskał siły,
 rozniósłby tę restaurację w pył.
 
-313
+311
 00:19:16,470 --> 00:19:19,100
 Nie dawać mu ani szklanki wody.
 
-314
+312
 00:19:20,680 --> 00:19:23,140
 Nic wam nie zrobię...
 
-315
+313
 00:19:25,310 --> 00:19:27,060
 Nic wam nie zrobię.
 
-316
+314
 00:19:27,060 --> 00:19:29,270
 Gdy tylko zjem,
 
-317
+315
 00:19:29,270 --> 00:19:31,610
 obiecuję, że po cichu odejdę.
 
-318
+316
 00:19:31,610 --> 00:19:35,280
 Więc... błagam... pomóżcie...
 
-319
+317
 00:19:35,900 --> 00:19:38,160
 Don Krieg, wystarczy już!
 
-320
+318
 00:19:38,160 --> 00:19:40,530
 Proszę się tak nie płaszczyć!
 
-321
+319
 00:19:40,530 --> 00:19:42,290
 To poniżej twojej godności!
 
-322
+320
 00:19:42,290 --> 00:19:45,040
 Proszę, nie rób czegoś tak haniebnego!
 
-323
+321
 00:19:45,040 --> 00:19:46,620
 Obiecuję...
 
-324
+322
 00:19:47,370 --> 00:19:48,790
 Proszę...
 
-325
+323
 00:19:48,790 --> 00:19:52,090
 Mogą być resztki, cokolwiek...
 
-326
+324
 00:19:53,090 --> 00:19:55,130
 Cokolwiek...
 
-327
+325
 00:19:57,800 --> 00:19:58,970
 Don...
 
-328
+326
 00:20:03,180 --> 00:20:05,180
 Gra na litość, co?
 
-329
+327
 00:20:05,180 --> 00:20:07,270
 Ej, zjeżdżaj mi stąd, Patty.
 
-330
+328
 00:20:13,150 --> 00:20:14,440
 Aj!
 
-331
+329
 00:20:15,400 --> 00:20:16,110
 Sa...
 
-332
+330
 00:20:16,860 --> 00:20:18,410
 Sanji!
 
-333
+331
 00:20:20,990 --> 00:20:22,990
 Proszę, Gin.
 
-334
+332
 00:20:22,990 --> 00:20:24,580
 Może to zjeść.
 
-335
+333
 00:20:27,120 --> 00:20:28,580
 Sanji...
 
-336
+334
 00:20:34,460 --> 00:20:35,510
 Dziękuję ci!
 
-337
+335
 00:20:46,520 --> 00:20:49,350
 Hej, Sanji! Natychmiast
 zabierz mu to jedzenie!
 
-338
+336
 00:20:49,810 --> 00:20:52,310
 Zdajesz ty sobie sprawę, co to za typ?!
 
-339
+337
 00:20:52,730 --> 00:20:55,820
 To człowiek, którego nazywają
 władcą całego East Blue,
 
-340
+338
 00:20:55,820 --> 00:20:57,570
 Król Brudnych Trików Krieg!
 
-341
+339
 00:20:59,150 --> 00:21:03,410
 Ksywkę nadali mu, gdy był skazańcem.
 Podszywajac się za żołnierza Marynarki,
 
-342
+340
 00:21:03,410 --> 00:21:07,500
 zamordował kapitana statku, na którym przebywał, po czym przejął dowodzenie.
 
-343
+341
 00:21:07,500 --> 00:21:10,170
 W taki sposób zaczął
 swoją piracką karierę.
 
-344
+342
 00:21:11,460 --> 00:21:14,590
 Bywa, że pod banderą Marynarki
 wpływa do portów, co pozwala mu
 
-345
+343
 00:21:14,590 --> 00:21:16,760
 atakować miasta i statki pasażerskie.
 
-346
+344
 00:21:16,760 --> 00:21:19,930
 Atakował też wrogie okręty
 po wywieszeniu białej flagi.
 
-347
+345
 00:21:19,930 --> 00:21:22,140
 Zrobi wszystko, żeby wygrać.
 
-348
+346
 00:21:22,140 --> 00:21:24,510
 Dzięki temu zaszedł tak daleko!
 
-349
+347
 00:21:25,680 --> 00:21:27,970
 Co? To nieuczciwe.
 
-350
+348
 00:21:27,970 --> 00:21:31,060
 Na dodatek siła tego
 faceta to nie przelewki.
 
-351
+349
 00:21:31,060 --> 00:21:32,940
 Odejdzie jak zje?
 
-352
+350
 00:21:32,940 --> 00:21:35,400
 Nie ma mowy, żeby dotrzymał słowa!
 
-353
+351
 00:21:35,400 --> 00:21:40,240
 Wyświadczylibyśmy światu przysługę,
 gdybyśmy pozwolili temu demonowi umrzeć!
 
-354
+352
 00:21:56,500 --> 00:21:57,750
 Sa...
 
-355
+353
 00:21:57,750 --> 00:21:59,630
 Sanji!
 
-356
+354
 00:22:07,350 --> 00:22:08,100
 Nie...
 
-357
+355
 00:22:08,100 --> 00:22:10,430
 Nie tak się umawialiśmy, Don Krieg!
 
-358
+356
 00:22:10,770 --> 00:22:14,690
 Obiecałeś, że nie tkniesz
 nikogo z restauracji!
 
-359
+357
 00:22:14,690 --> 00:22:16,440
 A poza tym ten mężczyzna...
 
-360
+358
 00:22:16,440 --> 00:22:18,280
 Zawdzięczamy życie temu–
 
-361
+359
 00:22:22,820 --> 00:22:25,120
 Tak, było wyborne.
 
-362
+360
 00:22:26,740 --> 00:22:28,370
 Znowu czuję, że żyję.
 
-363
+361
 00:22:43,800 --> 00:22:45,840
 C-Co...? C-Co jest...?
 
-364
+362
 00:22:45,840 --> 00:22:49,350
 C-Co się wyprawia w tej restauracji?
 
-365
+363
 00:22:49,350 --> 00:22:50,720
 Chodźmy to sprawdzić.
 
-366
+364
 00:22:50,720 --> 00:22:52,560
 Co?! Żartujesz sobie?!
 
-367
+365
 00:22:54,560 --> 00:22:57,560
 To dobra restauracja.
 
-368
+366
 00:22:57,560 --> 00:22:59,690
 Przywłaszczam sobie ten statek.
 
-369
+367
 00:23:02,650 --> 00:23:04,400
 Czyli...
 
-370
+368
 00:23:04,400 --> 00:23:05,700
 tego chcesz...
 
-371
+369
 00:23:06,160 --> 00:23:07,870
 Au, au, au...
 
-372
+370
 00:23:14,460 --> 00:23:17,830
 Mój statek to poturbowany wrak...
 
-373
+371
 00:23:17,830 --> 00:23:20,380
 więc potrzebuję nowego.
 
-374
+372
 00:23:20,750 --> 00:23:24,800
 Puszczę was wolno, jeśli tylko
 pomożecie mi w kilku kwestiach.
 
-375
+373
 00:23:24,800 --> 00:23:26,220
 C-Co?!
 
-376
+374
 00:23:26,220 --> 00:23:30,100
 Don Krieg, nie to obiecałeś.
 
-377
+375
 00:23:32,770 --> 00:23:36,730
 Na moim statku dycha może
 jeszcze ze stu podwładnych.
 
-378
+376
 00:23:37,190 --> 00:23:39,940
 Wszyscy ranni i wygłodzeni.
 
-379
+377
 00:23:40,820 --> 00:23:46,240
 Po pierwsze macie ich wszystkich
 co do jednego nakarmić i napoić.
 
-380
+378
 00:23:46,570 --> 00:23:48,910
 Niektórzy z nich padli już z głodu.
 
-381
+379
 00:23:50,200 --> 00:23:52,830
 W-Wody...
 
-382
+380
 00:23:56,250 --> 00:23:58,040
 Nie ma czasu do stracenia!
 
-383
+381
 00:23:58,830 --> 00:24:01,460
 Chesz, żebyśmy pomagali piratom,
 
-384
+382
 00:24:01,800 --> 00:24:03,880
 którzy zaraz zaatakują nasz statek?!
 
-385
+383
 00:24:03,880 --> 00:24:05,220
 Odmawiamy!
 
-386
+384
 00:24:06,050 --> 00:24:07,720
 Odmawiacie?
 
-387
+385
 00:24:07,720 --> 00:24:09,640
 Chyba się nie zrozumieliśmy.
 
-388
+386
 00:24:09,640 --> 00:24:12,310
 Ja nie składam zamówień.
 
-389
+387
 00:24:12,310 --> 00:24:14,350
 Ja wydaję rozkazy.
 
-390
+388
 00:24:14,350 --> 00:24:15,850
 Kimkolwiek byście nie byli...
 
-391
+389
 00:24:15,850 --> 00:24:21,980
 nie ważcie się mi sprzeciwiać!
 
-392
+390
 00:24:26,950 --> 00:24:28,610
 Sanji...
 
-393
+391
 00:24:29,490 --> 00:24:31,740
 Sanji, wybacz mi...
 
-394
+392
 00:24:31,740 --> 00:24:34,330
 To nie tak miało wyglądać...
 
-395
+393
 00:24:34,330 --> 00:24:38,330
 Skurczybyku! To przez ciebie
 wpadliśmy w to bagno!
 
-396
+394
 00:24:56,560 --> 00:24:59,190
 Hej, Sanji! Dokąd to?!
 
-397
+395
 00:25:01,150 --> 00:25:02,520
 Do kuchni.
 
-398
+396
 00:25:03,020 --> 00:25:06,150
 Muszę przygotować kolejne sto porcji.
 
-399
+397
 00:25:06,900 --> 00:25:07,650
 Sanji!
 
-400
+398
 00:25:07,650 --> 00:25:08,650
 Sanji?!
 
-401
+399
 00:25:08,650 --> 00:25:11,110
 – Że jak?!
 – Że jak?!
 
-402
+400
 00:25:11,910 --> 00:25:13,200
 Dokładnie tak.
 
-403
+401
 00:25:13,200 --> 00:25:14,830
 Właśnie o to chodzi.
 
-404
+402
 00:25:19,620 --> 00:25:22,500
 Stoisz po stronie Kriega, Sanji?!
 
-405
+403
 00:25:22,500 --> 00:25:24,590
 Nie wpuścimy cię do kuchni!
 
-406
+404
 00:25:24,590 --> 00:25:28,090
 Mamy już po dziurki w nosie
 twojego zachowania!
 
-407
+405
 00:25:29,590 --> 00:25:31,050
 Śmiało.
 
-408
+406
 00:25:32,390 --> 00:25:34,470
 Chcecie mnie powstrzymać, więc śmiało!
 
-409
+407
 00:25:37,470 --> 00:25:39,390
 Rozumiem...
 
-410
+408
 00:25:39,770 --> 00:25:43,860
 Doskonale rozumiem, że to
 okrutny i bezlitosny zbir.
 
-411
+409
 00:25:46,110 --> 00:25:48,740
 Ale to mnie nie obchodzi.
 
-412
+410
 00:25:49,740 --> 00:25:51,820
 Ani trochę!
 
-413
+411
 00:25:52,280 --> 00:25:54,530
 Co stanie się po tym, gdy ich nakarmimy
 
-414
+412
 00:25:54,530 --> 00:25:56,530
 nie ma najmniejszego znaczenia.
 
-415
+413
 00:25:56,530 --> 00:25:57,700
 Jestem kucharzem.
 
-416
+414
 00:25:57,700 --> 00:26:00,040
 Reszta jest nieistotna.
 
-417
+415
 00:26:00,040 --> 00:26:03,040
 Jeśli ktoś jest głodny,
  to trzeba go nakarmić.
 
-418
+416
 00:26:03,040 --> 00:26:04,540
 Tylko to się liczy.
 
-419
+417
 00:26:05,920 --> 00:26:07,210
 Czego więcej...
 
-420
+418
 00:26:07,210 --> 00:26:09,420
 wymagać od kucharza?
 
-421
+419
 00:26:17,560 --> 00:26:18,520
 Patty!
 
-422
+420
 00:26:18,520 --> 00:26:20,350
 Hej, niech go ktoś przytrzyma!
 
-423
+421
 00:26:21,520 --> 00:26:27,360
 Sanji, czasami dokarmiasz klientów,
 których wyrzucam tylnymi drzwiami, prawda?
 
-424
+422
 00:26:27,860 --> 00:26:33,320
 Nie wiem, który z nas ma rację w tej sprawie,
 ale wiem, że tym razem się mylisz.
 
-425
+423
 00:26:33,780 --> 00:26:36,620
 Nie pozwolę, abyś dalej robił,
 co ci się żywnie podoba.
 
-426
+424
 00:26:36,620 --> 00:26:38,740
 Mam zamiar bronić tę restaurację.
 
-427
+425
 00:26:38,740 --> 00:26:40,620
 Dobrze, że przeciwnik nadal jest sam.
 
-428
+426
 00:26:40,620 --> 00:26:44,210
 Nawet jeśli to Don Krieg, to co może
 zrobić przeciwko nam wszystkim?
 
-429
+427
 00:26:46,460 --> 00:26:49,920
 Codziennie borykamy się tu z piratami.
 
-430
+428
 00:26:50,380 --> 00:26:53,680
 Jesteśmy gotowi obsłużyć
 klientów każdego rodzaju!
 
-431
+429
 00:26:53,680 --> 00:26:54,840
 To...
 
-432
+430
 00:26:54,840 --> 00:26:58,470
 Brzusio już pełny, Krieg?
 
-433
+431
 00:26:58,470 --> 00:27:00,770
 Po daniu głównym co powiesz na...
 
-434
+432
 00:27:01,470 --> 00:27:05,900
 deser z gorącego ołowiu?!
 
-435
+433
 00:27:06,650 --> 00:27:10,530
 Niestrawna Pulpetarda!
 
-436
+434
 00:27:26,500 --> 00:27:27,540
 Don!
 
-437
+435
 00:27:32,760 --> 00:27:35,010
 Drzwi chyba szlag trafił.
 
-438
+436
 00:27:35,010 --> 00:27:37,010
 Znowu zgarnę ochrzan od szefa.
 
-439
+437
 00:27:37,010 --> 00:27:39,260
 A tam, to przecież w obronie restauracji.
 
-440
+438
 00:27:39,260 --> 00:27:40,890
 To niewielka cena.
 
-441
+439
 00:27:41,470 --> 00:27:44,980
 Co masz zamiar zrobić z całą resztą,
 która czeka na statku Kriega?
 
-442
+440
 00:27:44,980 --> 00:27:46,230
 Pomyślmy...
 
-443
+441
 00:27:46,230 --> 00:27:49,310
 Może posmarujemy statek masłem
 i go trochę podsmażymy.
 
-444
+442
 00:27:49,650 --> 00:27:53,610
 Brzmi smakowicie...
 
-445
+443
 00:27:54,360 --> 00:27:55,820
 ty beznadziejny kucharzu!
 
-446
+444
 00:27:57,910 --> 00:28:00,330
 Jak śmiesz serwować mi
 taki obrzydliwy deser?!
 
-447
+445
 00:28:00,330 --> 00:28:02,790
 Ta restauracja to ściek!
 
-448
+446
 00:28:07,370 --> 00:28:09,670
 Działacie mi na nerwy!
 
-449
+447
 00:28:16,010 --> 00:28:17,430
 Z całego ciała strzelają...
 
-450
+448
 00:28:17,430 --> 00:28:18,550
 Kule...
 
-451
+449
 00:28:32,770 --> 00:28:35,650
 Nie ważcie mi się sprzeciwiać!
 
-452
+450
 00:28:36,150 --> 00:28:38,860
 Jestem najpotężniejszy ze wszystkich!
 
-453
+451
 00:28:40,160 --> 00:28:42,370
 Silniejsze od wszystkich stalowe ręce!
 
-454
+452
 00:28:42,740 --> 00:28:45,500
 Wytrwalszy od wszystkiego
 pancerz ze stali damasceńskiej...
 
-455
+453
 00:28:45,500 --> 00:28:49,330
 Oraz niszczące wszystko
 diamentowe pięści!
 
-456
+454
 00:28:50,420 --> 00:28:52,960
 Moje ciało skrywa pełen
 arsenał różnych broni!
 
-457
+455
 00:28:52,960 --> 00:28:55,090
 Dowodzę pięćdziesięciu statkom...
 
-458
+456
 00:28:55,090 --> 00:28:57,090
 oraz pięciu tysiącom piratów!
 
-459
+457
 00:28:57,090 --> 00:29:00,840
 Nie przegrałem ani jednej
 bitwy w całym moim życiu!
 
-460
+458
 00:29:00,840 --> 00:29:05,390
 Jestem człowiekiem, który jak nikt
 inny zasługuje na tytuł "Dona"!!
 
-461
+459
 00:29:06,140 --> 00:29:08,140
 Rusz się, smarkaczu!
 
-462
+460
 00:29:10,310 --> 00:29:15,530
 Kiedy mówię, że macie
 zrobić jedzenie, to je robicie!
 
-463
+461
 00:29:15,980 --> 00:29:18,320
 Nikt mi się nie sprzeciwia!
 
-464
+462
 00:29:21,570 --> 00:29:23,950
 To powinno wystarczyć dla stu osób.
 
-465
+463
 00:29:23,950 --> 00:29:26,080
 Zabierz to na swój statek.
 
-466
+464
 00:29:26,080 --> 00:29:27,540
 – Szefie Zeffie!
 – Szefie Zeffie!
 
-467
+465
 00:29:29,710 --> 00:29:33,080
 Z... Zeffie?
 
-468
+466
 00:29:37,300 --> 00:29:39,920
 Ale jak to...? Co to ma znaczyć?!
 
-469
+467
 00:29:40,510 --> 00:29:45,600
 Jeśli jego ludzie odzyskają siły,
 to zaatakują naszą restaurację!
 
-470
+468
 00:29:45,600 --> 00:29:49,480
 Tak, ale nikt nie powiedział,
 że będą mieli na to ochotę.
 
-471
+469
 00:29:51,190 --> 00:29:54,940
 Mam rację, uciekinierze z Grand Line?
 
-472
+470
 00:29:57,900 --> 00:29:59,650
 N-Niemożliwe...
 
-473
+471
 00:29:59,650 --> 00:30:02,240
 Don Krieg uciekł z Grand Line?
 
-474
+472
 00:30:02,610 --> 00:30:05,620
 To znaczy, że postrach całego East Blue...
 
-475
+473
 00:30:05,620 --> 00:30:09,910
 nie dał tam rady nawet ze swoją
 flotą pięćdziesięciu statków?!
 
-476
+474
 00:30:10,250 --> 00:30:11,870
 Grand Line?
 
-477
+475
 00:30:11,870 --> 00:30:15,670
 Ty... Ty jesteś...
 
-478
+476
 00:30:15,670 --> 00:30:17,590
 Czerwononogi Zeff.
 
+477
+00:03:41,120 --> 00:03:47,080
+Gin
+Pirat z Załogi Kriega
+
+478
+00:03:41,120 --> 00:03:47,080
+Gin
+Pirat z Załogi Kriega
+
 479
-00:03:41,120 --> 00:03:47,080
-Gin
-Pirat z Załogi Kriega
-
-480
-00:03:41,120 --> 00:03:47,080
-Gin
-Pirat z Załogi Kriega
-
-481
 00:04:51,940 --> 00:04:56,900
 Kuchnia
+Morska Restauracja
+
+480
+00:04:51,940 --> 00:04:56,900
+Kuchnia
+Morska Restauracja
+
+481
+00:08:18,270 --> 00:08:23,190
+Monkey D. Luffy
+Majtek-Wolontariusz
 Morska Restauracja
 
 482
-00:04:51,940 --> 00:04:56,900
-Kuchnia
+00:08:18,270 --> 00:08:23,190
+Monkey D. Luffy
+Majtek-Wolontariusz
 Morska Restauracja
 
 483
-00:08:18,270 --> 00:08:23,190
-Monkey D. Luffy
-Majtek-Wolontariusz
-Morska Restauracja
+00:08:26,360 --> 00:08:29,240
+Pirat na Przymusowym Urlopie
 
 484
-00:08:18,270 --> 00:08:23,190
-Monkey D. Luffy
-Majtek-Wolontariusz
-Morska Restauracja
+00:08:26,360 --> 00:08:29,240
+Pirat na Przymusowym Urlopie
 
 485
-00:08:26,360 --> 00:08:29,240
+00:08:30,820 --> 00:08:32,700
 Pirat na Przymusowym Urlopie
 
 486
-00:08:26,360 --> 00:08:29,240
+00:08:30,820 --> 00:08:32,700
 Pirat na Przymusowym Urlopie
 
 487
-00:08:30,820 --> 00:08:32,700
+00:08:33,830 --> 00:08:35,910
 Pirat na Przymusowym Urlopie
 
 488
-00:08:30,820 --> 00:08:32,700
+00:08:33,830 --> 00:08:35,910
 Pirat na Przymusowym Urlopie
 
 489
-00:08:33,830 --> 00:08:35,910
+00:08:37,540 --> 00:08:38,870
 Pirat na Przymusowym Urlopie
 
 490
-00:08:33,830 --> 00:08:35,910
+00:08:37,540 --> 00:08:38,870
 Pirat na Przymusowym Urlopie
 
 491
-00:08:37,540 --> 00:08:38,870
+00:08:40,960 --> 00:08:42,920
 Pirat na Przymusowym Urlopie
 
 492
-00:08:37,540 --> 00:08:38,870
+00:08:40,960 --> 00:08:42,920
 Pirat na Przymusowym Urlopie
 
 493
-00:08:40,960 --> 00:08:42,920
+00:08:52,970 --> 00:08:54,680
 Pirat na Przymusowym Urlopie
 
 494
-00:08:40,960 --> 00:08:42,920
+00:08:52,970 --> 00:08:54,680
 Pirat na Przymusowym Urlopie
 
 495
-00:08:52,970 --> 00:08:54,680
-Pirat na Przymusowym Urlopie
+00:15:08,300 --> 00:15:12,470
+Dwa Dni Później
 
 496
-00:08:52,970 --> 00:08:54,680
-Pirat na Przymusowym Urlopie
+00:15:08,300 --> 00:15:12,470
+Dwa Dni Później
 
 497
-00:15:08,300 --> 00:15:12,470
-Dwa Dni Później
+00:17:39,870 --> 00:17:44,840
+Don Krieg
+Admirał Pirackiej Floty
 
 498
-00:15:08,300 --> 00:15:12,470
-Dwa Dni Później
-
-499
 00:17:39,870 --> 00:17:44,840
 Don Krieg
 Admirał Pirackiej Floty
 
-500
-00:17:39,870 --> 00:17:44,840
-Don Krieg
-Admirał Pirackiej Floty

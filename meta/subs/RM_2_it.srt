@@ -1,2231 +1,2227 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,920
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:02:06,860 --> 00:02:08,320
 È un fiore!
 
-4
+2
 00:02:07,570 --> 00:02:08,320
 Un fiore?
 
-5
+3
 00:02:13,280 --> 00:02:15,280
 Ah no, è una persona.
 
-6
+4
 00:02:15,280 --> 00:02:16,570
 Ma che cos'è?
 
-7
+5
 00:02:16,570 --> 00:02:20,120
 Quel vecchietto ha fatto fuori il grande re calamaro in un solo colpo...
 
-8
+6
 00:02:20,120 --> 00:02:21,870
 Stava solo pescando...
 
-9
+7
 00:02:21,870 --> 00:02:24,960
 oppure ci voleva salvare?
 
-10
+8
 00:02:52,240 --> 00:02:54,700
 Dì qualcosa, bastardo!
 
-11
+9
 00:02:57,660 --> 00:03:00,200
 S-Se vuoi combattere, fatti sotto, stronzo!
 
-12
+10
 00:03:00,200 --> 00:03:01,910
 Noi abbiamo dei cannoni!
 
-13
+11
 00:03:09,000 --> 00:03:11,880
 Vi conviene fermarvi, 
 o qualcuno morirà.
 
-14
+12
 00:03:15,220 --> 00:03:16,510
 Eh?
 
-15
+13
 00:03:16,510 --> 00:03:17,760
 E chi dovrebbe morire?
 
-16
+14
 00:03:17,760 --> 00:03:18,970
 Io.
 
-17
+15
 00:03:18,970 --> 00:03:20,220
 Tu?!
 
-18
+16
 00:03:20,220 --> 00:03:21,010
 Brutto...!
 
-19
+17
 00:03:21,010 --> 00:03:22,060
 Dai, non scaldarti.
 
-20
+18
 00:03:22,060 --> 00:03:24,480
 Ci sta prendendo in giro...!
 
-21
+19
 00:03:25,770 --> 00:03:27,770
 Ehi vecchio, ci devi delle spiegazioni!
 
-22
+20
 00:03:27,770 --> 00:03:30,650
 Dove siamo e chi saresti tu?
 
-23
+21
 00:03:35,950 --> 00:03:38,280
 Quando si pongono domande alle persone,
 
-24
+22
 00:03:38,280 --> 00:03:42,450
 prima di tutto, 
 non sarebbe più educato presentarsi?
 
-25
+23
 00:03:42,450 --> 00:03:45,750
 Eh? Ah, sì, hai ragione.
 
-26
+24
 00:03:45,750 --> 00:03:46,910
 Scusa.
 
-27
+25
 00:03:46,910 --> 00:03:49,630
 – Sono Roron-
  – Il mio nome è Crocus.
 
-28
+26
 00:03:49,630 --> 00:03:52,840
 Sono il guardiano del faro dei Promontori Gemelli.
 
-29
+27
 00:03:52,840 --> 00:03:54,670
 Ho settantun anni.
 
-30
+28
 00:03:54,670 --> 00:03:57,340
 Sono dei gemelli e il mio gruppo sanguigno è AB.
 
-31
+29
 00:03:55,050 --> 00:03:57,340
 Posso farlo a fette?
 
-32
+30
 00:03:55,880 --> 00:03:57,340
 Dai, calmati!
 
-33
+31
 00:03:57,340 --> 00:03:59,510
 Volete sapere dove siete?
 
-34
+32
 00:04:00,050 --> 00:04:07,600
 Avete fegato a parlarmi in questo modo... 
 dopo esservi infiltrati nel mio resort privato.
 
-35
+33
 00:04:08,390 --> 00:04:11,940
 Vi sembra forse lo stomaco di un topo?
 
-36
+34
 00:04:11,940 --> 00:04:14,780
 Q-Quindi siamo davvero stati inghiottiti dalla balena...
 
-37
+35
 00:04:15,490 --> 00:04:18,150
 Però... siamo sul serio 
 dentro al suo stomaco?!
 
-38
+36
 00:04:18,150 --> 00:04:21,070
 Aspetta un attimo! 
 Cosa ci succederà?!
 
-39
+37
 00:04:21,070 --> 00:04:23,120
 Non voglio essere digerita!
 
-40
+38
 00:04:28,460 --> 00:04:30,290
 – Smettila di fare così!
 – Smettila di fare così!
 
-41
+39
 00:04:30,290 --> 00:04:33,040
 Non conoscete le gag ricorrenti?
 
-42
+40
 00:04:33,040 --> 00:04:33,920
 – Era una gag?!
 – Era una gag?!
 
-43
+41
 00:04:33,920 --> 00:04:35,920
 Se volete, l'uscita è laggiù.
 
-44
+42
 00:04:35,920 --> 00:04:37,420
 – Si può uscire?!
 – Si può uscire?!
 
-45
+43
 00:04:38,300 --> 00:04:41,840
 Fermi un attimo! 
 Perché c'è un'uscita nella pancia di una balena?!
 
-46
+44
 00:04:41,840 --> 00:04:44,140
 E perché la porta è nel cielo?!
 
-47
+45
 00:04:44,140 --> 00:04:46,850
 No, aspetta... 
 guarda bene...
 
-48
+46
 00:04:46,850 --> 00:04:51,100
 Questo cielo... le nuvole... e anche i gabbiani...
 
-49
+47
 00:04:51,770 --> 00:04:53,020
 Sono tutti disegni!
 
-50
+48
 00:04:53,020 --> 00:04:55,400
 Ci sono dei disegni nella pancia di una balena!
 
-51
+49
 00:04:55,400 --> 00:04:56,610
 Ah?!
 
-52
+50
 00:04:56,610 --> 00:04:58,240
 È solo un passatempo da dottore.
 
-53
+51
 00:04:58,240 --> 00:05:00,610
 Bastardo! 
 Che diamine stai facendo qui dentro?!
 
-54
+52
 00:05:00,610 --> 00:05:02,320
 Ora basta, non dargli retta.
 
-55
+53
 00:05:02,320 --> 00:05:03,410
 Sono d'accordo.
 
-56
+54
 00:05:03,410 --> 00:05:05,950
 Nami!
 Abbiamo l'uscita, andiamocene subito.
 
-57
+55
 00:05:05,950 --> 00:05:07,370
 Concordo.
 
-58
+56
 00:05:12,000 --> 00:05:13,000
 Che succede?!
 
-59
+57
 00:05:14,840 --> 00:05:16,170
 Ha iniziato, eh?
 
-60
+58
 00:05:17,300 --> 00:05:18,170
 Guardate!
 
-61
+59
 00:05:18,970 --> 00:05:20,300
 Quella non è un'isola!
 
-62
+60
 00:05:20,300 --> 00:05:22,590
 È una nave! 
 Ed è fatta di ferro!
 
-63
+61
 00:05:22,590 --> 00:05:26,100
 Beh, certo! 
 Alla fine questo mare è succo gastrico!
 
-64
+62
 00:05:26,100 --> 00:05:29,770
 Dunque, se stiamo qui a lungo,
  la nostra nave di legno si scioglierà.
 
-65
+63
 00:05:29,770 --> 00:05:31,980
 Ehi! 
 Cosa "ha iniziato"?!
 
-66
+64
 00:05:31,980 --> 00:05:33,980
 Spiegaci!
 
-67
+65
 00:05:34,650 --> 00:05:36,150
 Questa balena...
 
-68
+66
 00:05:37,650 --> 00:05:42,110
 Laboon ha iniziato a sbattere la testa contro la Red Line.
 
-69
+67
 00:05:51,540 --> 00:05:52,460
 – Cosa?!
 – Eh?
 
-70
+68
 00:05:52,460 --> 00:05:56,460
 Ora che ci penso, 
 la balena aveva un'enorme ferita sulla fronte.
 
-71
+69
 00:05:56,460 --> 00:05:58,590
 E stava ululando verso il cielo...
 
-72
+70
 00:05:58,590 --> 00:06:00,170
 Cosa vuoi dire?
 
-73
+71
 00:06:01,050 --> 00:06:02,630
 Sta soffrendo!
 
-74
+72
 00:06:09,680 --> 00:06:13,060
 Capisco! 
 Allora l'obiettivo del vecchio è quello!
 
-75
+73
 00:06:13,060 --> 00:06:13,980
 Probabilmente...
 
-76
+74
 00:06:13,980 --> 00:06:17,020
 potrebbe star cercando di uccidere questa balena dall'interno!
 
-77
+75
 00:06:17,020 --> 00:06:17,860
 Allora...
 
-78
+76
 00:06:17,860 --> 00:06:20,110
 Che modo subdolo!
 
-79
+77
 00:06:20,110 --> 00:06:22,490
 Ora che il mistero è risolto, andiamocene.
 
-80
+78
 00:06:22,490 --> 00:06:24,320
 Se continuiamo a perdere tempo, finiremo sciolti!
 
-81
+79
 00:06:25,490 --> 00:06:28,330
 Beh, la caccia alla balena non è affar nostro
 
-82
+80
 00:06:28,330 --> 00:06:30,540
 e non abbiamo neanche motivo di salvarla.
 
-83
+81
 00:06:30,540 --> 00:06:31,830
 Usciamo da qui.
 
-84
+82
 00:06:46,010 --> 00:06:49,470
 Ah, maledizione!
  Non so se con delle onde così agitate,
 
-85
+83
 00:06:49,470 --> 00:06:51,600
 riusciremo a raggiungere la porta!
 
-86
+84
 00:06:51,600 --> 00:06:53,890
 Non possiamo far altro che remare! 
 Prendete i remi!
 
-87
+85
 00:06:53,890 --> 00:06:56,850
 Usciamo in fretta!
 Sono anche preoccupata per Luffy!
 
-88
+86
 00:06:56,850 --> 00:06:58,230
 Lui è fuori!
 
-89
+87
 00:06:58,230 --> 00:07:00,190
 Ho visto che è stato
  sbalzato fuori dalla bocca!
 
-90
+88
 00:07:02,940 --> 00:07:04,950
 Il vecchio si è tuffato!
 
-91
+89
 00:07:04,950 --> 00:07:05,740
 Eh?
 
-92
+90
 00:07:06,240 --> 00:07:08,740
 Che intenzioni ha? 
 Si scioglierà.
 
-93
+91
 00:07:19,130 --> 00:07:21,500
 Wah! Ah, wah! Perché?!
 
-94
+92
 00:07:21,500 --> 00:07:22,760
 Gira! Gira!
 
-95
+93
 00:07:22,760 --> 00:07:25,130
 Mi gira la testa!
 
-96
+94
 00:07:33,140 --> 00:07:34,390
 E adesso cosa?
 
-97
+95
 00:07:34,390 --> 00:07:37,190
 Il mare? Un fiume? Un canale?
 
-98
+96
 00:07:47,240 --> 00:07:51,120
 Bene. 
 Siamo riusciti ad infiltrarci fino a qui.
 
-99
+97
 00:07:51,830 --> 00:07:53,580
 Ascolta, Miss Wednesday.
 
-100
+98
 00:07:53,580 --> 00:07:55,830
 Dall'altra parte di questa porta c'è lo stomaco
 
-101
+99
 00:07:55,830 --> 00:07:58,460
 e probabilmente anche quel vecchio.
 
-102
+100
 00:07:58,460 --> 00:08:01,090
 Dobbiamo assolutamente eliminarlo.
 
-103
+101
 00:08:01,710 --> 00:08:03,960
 Tutto per questa balena.
 
-104
+102
 00:08:04,340 --> 00:08:05,970
 Giusto, Mr. 9.
 
-105
+103
 00:08:05,970 --> 00:08:10,430
 Per la nostra città,
 questa balena sarà come un dolce miele.
 
-106
+104
 00:08:13,180 --> 00:08:15,270
 Ehi! Il vecchio è riemerso!
 
-107
+105
 00:08:15,270 --> 00:08:16,270
 Lascialo perdere!
 
-108
+106
 00:08:16,270 --> 00:08:19,770
 Piuttosto, 
 come apriamo questa porta?
 
-109
+107
 00:08:20,230 --> 00:08:22,770
 Okay, Miss Wednesday,
 
-110
+108
 00:08:22,770 --> 00:08:25,280
 dopo il "Three, two, one, baby", 
 apriamo la porta.
 
-111
+109
 00:08:25,280 --> 00:08:26,400
 Non abbassare la guardia.
 
-112
+110
 00:08:26,400 --> 00:08:29,360
 Ricevuto, Mr. 9. 
 Quando vuoi, sono pronta.
 
-113
+111
 00:08:31,870 --> 00:08:37,040
 Non riesco a fermarmi!
 
-114
+112
 00:08:32,990 --> 00:08:34,660
 Cos'è questa voce, Mr. 9?
 
-115
+113
 00:08:34,660 --> 00:08:37,040
 Non lo so, Miss Wednesday.
 
-116
+114
 00:08:47,260 --> 00:08:48,380
 Loro sono...
 
-117
+115
 00:08:50,930 --> 00:08:52,720
 Non si mette bene, Miss Wednesday!
 
-118
+116
 00:08:52,720 --> 00:08:55,260
 Sotto di noi c'è un mare di succo gastrico!
 
-119
+117
 00:08:56,850 --> 00:08:57,680
 Luffy?
 
-120
+118
 00:08:57,680 --> 00:09:00,270
 Yo! Quindi state tutti bene!
 
-121
+119
 00:09:01,310 --> 00:09:03,690
 Comunque... aiutatemi!
 
-122
+120
 00:09:08,240 --> 00:09:11,950
 Oltre a Luffy... 
 ci sono altri due tipi strani...
 
-123
+121
 00:09:11,950 --> 00:09:14,120
 Ehi! Quel vecchio è sparito!
 
-124
+122
 00:09:14,120 --> 00:09:17,160
 Lascialo perdere! 
 Per ora, aiutiamo Luffy!
 
-125
+123
 00:09:31,840 --> 00:09:33,890
 Fermati, Laboon.
 
-126
+124
 00:09:34,470 --> 00:09:37,470
 Smettila di farti del 
 male in continuazione.
 
-127
+125
 00:09:37,470 --> 00:09:39,930
 Il sedativo è quasi finito, eh?
 
-128
+126
 00:09:39,930 --> 00:09:42,390
 Devo farne di nuovo.
 
-129
+127
 00:09:44,900 --> 00:09:48,480
 Quel muro divide i mari del mondo.
 
-130
+128
 00:09:48,480 --> 00:09:53,490
 Anche se lo colpisci fino a morire, non si romperà mai, Laboon.
 
-131
+129
 00:09:58,410 --> 00:09:59,790
 Si è calmata!
 
-132
+130
 00:09:59,790 --> 00:10:01,540
 La balena si è tranquillizzata.
 
-133
+131
 00:10:01,540 --> 00:10:03,420
 Sembra di sì.
 
-134
+132
 00:10:03,920 --> 00:10:05,040
 Allora...
 
-135
+133
 00:10:05,960 --> 00:10:09,510
 Per il momento, vi abbiamo salvati...
  ma chi siete?
 
-136
+134
 00:10:10,340 --> 00:10:13,300
 Mr. 9, questi sono pirati!
 
-137
+135
 00:10:13,300 --> 00:10:15,470
 L-Lo so, Miss Wednesday!
 
-138
+136
 00:10:16,180 --> 00:10:20,980
 M-Ma se gli parliamo, capiranno... forse...
 
-139
+137
 00:10:20,980 --> 00:10:23,440
 Siete ancora qui, farabutti?!
 
-140
+138
 00:10:24,150 --> 00:10:26,360
 Non fatemelo ripetere di nuovo!
 
-141
+139
 00:10:26,940 --> 00:10:31,530
 Finché ho vita, non vi lascerò
  sfiorare Laboon nemmeno con un dito.
 
-142
+140
 00:10:34,110 --> 00:10:35,320
 È tornato.
 
-143
+141
 00:10:35,320 --> 00:10:36,990
 Chi è quel vecchio?
 
-144
+142
 00:10:38,950 --> 00:10:41,870
 Anche se dici così, non possiamo semplicemente tornare a casa.
 
-145
+143
 00:10:41,870 --> 00:10:44,580
 Eliminare questa balena è la nostra missione.
 
-146
+144
 00:10:44,580 --> 00:10:47,460
 Quest'oggi non interferirai con la nostra caccia alla balena!
 
-147
+145
 00:10:47,460 --> 00:10:50,500
 Apriremo un buco in questo stomaco!
 
-148
+146
 00:10:50,500 --> 00:10:52,260
 Andiamo, baby!
 
-149
+147
 00:10:51,300 --> 00:10:52,260
 Ricevuto!
 
-150
+148
 00:10:57,970 --> 00:11:00,100
 Maledetti bastardi!
 
-151
+149
 00:11:04,440 --> 00:11:06,600
 Quel vecchio si è gettato davanti alle bombe!
 
-152
+150
 00:11:06,600 --> 00:11:09,110
 Non ditemi che... 
 sta proteggendo la balena?!
 
-153
+151
 00:11:12,530 --> 00:11:14,070
 È inutile fare resistenza, smettila!
 
-154
+152
 00:11:14,070 --> 00:11:16,240
 Se la vuoi proteggere così tanto, fai pure!
 
-155
+153
 00:11:16,780 --> 00:11:19,990
 Questa balena diventerà cibo per la nostra città!
 
-156
+154
 00:11:26,120 --> 00:11:27,370
 Cosa sta succedendo?
 
-157
+155
 00:11:35,420 --> 00:11:36,510
 Luffy...?
 
-158
+156
 00:11:37,220 --> 00:11:38,720
 Li ho colpiti...
 
-159
+157
 00:11:38,720 --> 00:11:39,970
 perché mi andava.
 
-160
+158
 00:11:44,890 --> 00:11:48,650
 Vi ringrazio per avermi salvato... 
 ma perché lo avete fatto?
 
-161
+159
 00:11:48,650 --> 00:11:50,230
 Non volevo salvarti.
 
-162
+160
 00:11:50,230 --> 00:11:52,520
 Semplicemente... mi andava.
 
-163
+161
 00:11:53,570 --> 00:11:56,490
 Ehi, Luffy, che stai facendo?
 
-164
+162
 00:11:57,780 --> 00:11:59,410
 Smettila!
 
-165
+163
 00:11:59,410 --> 00:12:02,830
 Ehi! Ehi, Luffy! Smettila!
 
-166
+164
 00:12:02,830 --> 00:12:05,080
 Cosa stai facendo?
 
-167
+165
 00:12:05,080 --> 00:12:06,830
 Non sei mica a casa tua!
 
-168
+166
 00:11:53,570 --> 00:11:56,490
 Quindi... chi sono questi tizi?
 
-169
+167
 00:11:56,490 --> 00:11:59,410
 Cosa state facendo dentro questa balena?
 
-170
+168
 00:11:59,410 --> 00:12:02,830
 Sono farabutti di una città qui vicino.
 
-171
+169
 00:12:02,830 --> 00:12:05,620
 Vogliono la carne di questa balena.
 
-172
+170
 00:12:05,620 --> 00:12:07,960
 Se catturassero Laboon,
 
-173
+171
 00:12:07,960 --> 00:12:11,590
 avrebbero abbastanza cibo per due o tre anni.
 
-174
+172
 00:12:11,960 --> 00:12:12,880
 Laboon?
 
-175
+173
 00:12:12,880 --> 00:12:14,980
 È il nome di questa balena.
 
-176
+174
 00:12:14,980 --> 00:12:20,300
 È una Balena Isola, 
 una specie che vive nel West Blue.
 
-177
+175
 00:12:20,300 --> 00:12:23,060
 È la specie di balena più grande al mondo.
 
-178
+176
 00:12:23,060 --> 00:12:26,180
 Come se potessi permettergli di farne cibo...
 
-179
+177
 00:12:26,600 --> 00:12:29,940
 C'è un motivo per cui continua a sbattere contro la Red Line
 
-180
+178
 00:12:29,940 --> 00:12:35,150
 e ad ululare in direzione della 
 Reverse Mountain dalla quale siete scesi.
 
-181
+179
 00:12:35,150 --> 00:12:35,900
 Un motivo?
 
-182
+180
 00:12:35,900 --> 00:12:37,110
 Sì.
 
-183
+181
 00:12:37,490 --> 00:12:43,030
 Questa qui... è una balena dal cuore umano.
 
-184
+182
 00:12:43,450 --> 00:12:48,460
 E sta continuando ad attendere una certa ciurma di pirati...
 
-185
+183
 00:12:52,130 --> 00:12:54,340
 da ormai cinquant'anni...
 
-186
+184
 00:12:54,800 --> 00:12:59,300
 Ora ascoltate... la storia di Laboon.
 
-187
+185
 00:13:12,810 --> 00:13:17,480
 Un giorno, mentre facevo il mio lavoro come guardiano del faro,
 
-188
+186
 00:13:17,480 --> 00:13:21,860
 dei pirati dal buon cuore 
 scesero dalla Reverse Mountain,
 
-189
+187
 00:13:21,860 --> 00:13:24,530
 giungendo nella Grand Line.
 
-190
+188
 00:13:24,530 --> 00:13:29,160
 E, al seguito di quella nave, 
 c'era una piccola balena.
 
-191
+189
 00:13:29,160 --> 00:13:31,750
 Quella era Laboon.
 
-192
+190
 00:13:32,580 --> 00:13:36,800
 Le Balene Isola vivono solo nel West Blue
 
-193
+191
 00:13:36,800 --> 00:13:38,460
 e sono le balene più grandi al mondo.
 
-194
+192
 00:13:39,470 --> 00:13:43,470
 I pirati avevano viaggiato con Laboon fino a quel momento,
 
-195
+193
 00:13:43,470 --> 00:13:50,180
 ma, sapendo della pericolosità di viaggiare nella 
 Grand Line, decisero di lasciarla nel West Blue.
 
-196
+194
 00:13:50,180 --> 00:13:52,600
 Ma Laboon li seguì comunque.
 
-197
+195
 00:13:53,600 --> 00:13:58,650
 Le Balene Isola sono animali che solitamente nuotano in branchi,
 
-198
+196
 00:13:59,190 --> 00:14:04,110
 ma, penso che per Laboon,
 quei pirati erano come se fossero il suo.
 
-199
+197
 00:14:04,110 --> 00:14:09,450
 Siccome la loro nave si era danneggiata,
  vissero alcuni mesi sul promontorio.
 
-200
+198
 00:14:09,450 --> 00:14:13,210
 Per questo, 
 divenni anch'io un loro buon amico.
 
-201
+199
 00:14:14,830 --> 00:14:17,800
 Di conseguenza,
  il giorno della loro partenza...
 
-202
+200
 00:14:18,420 --> 00:14:20,420
 Dato che mi fido di te, 
 ho un favore da chiederti.
 
-203
+201
 00:14:20,420 --> 00:14:23,050
 Potresti occuparti di lei qui per due o tre anni?
 
-204
+202
 00:14:23,590 --> 00:14:27,140
 Porteremo sicuramente a termine il 
 nostro giro del mondo e poi torneremo qui.
 
-205
+203
 00:14:28,260 --> 00:14:30,930
 Laboon, ascoltami bene.
 
-206
+204
 00:14:30,930 --> 00:14:34,520
 Noi ora entreremo nella Grand Line e faremo il giro del mondo.
 
-207
+205
 00:14:34,520 --> 00:14:36,940
 Ma tu aspettaci qui.
 
-208
+206
 00:14:37,270 --> 00:14:39,190
 È un posto pericoloso.
 
-209
+207
 00:14:39,190 --> 00:14:41,530
 Non possiamo portarti con noi.
 
-210
+208
 00:14:42,150 --> 00:14:44,990
 Cosa vuoi che sia? Tre anni passano subito!
 
-211
+209
 00:14:44,990 --> 00:14:46,240
 Non dimenticarlo mai...
 
-212
+210
 00:14:46,740 --> 00:14:49,490
 anche se saremo lontani, siamo compagni!
 
-213
+211
 00:14:53,960 --> 00:14:55,460
 Allora, andiamo!
 
-214
+212
 00:14:59,210 --> 00:15:01,300
 Uomini! 
 Si parte!
 
-215
+213
 00:15:01,300 --> 00:15:02,840
 Issate l'ancora!
 
-216
+214
 00:15:02,840 --> 00:15:04,300
 – Sì!
 – Sì!
 
-217
+215
 00:15:08,510 --> 00:15:09,760
 Laboon!
 
-218
+216
 00:15:10,970 --> 00:15:13,060
 Laboon!
  Aspettaci!
 
-219
+217
 00:15:13,060 --> 00:15:15,520
 Torneremo di sicuro!
 
-220
+218
 00:15:15,520 --> 00:15:17,150
 Di sicuro!
 
-221
+219
 00:15:29,700 --> 00:15:32,620
 Ma ormai sono passati cinquant'anni...
 
-222
+220
 00:15:32,620 --> 00:15:33,870
 Cinquant'anni?!
 
-223
+221
 00:15:33,870 --> 00:15:37,250
 Laboon li sta aspettando da cinquant'anni?
 
-224
+222
 00:15:37,250 --> 00:15:41,300
 Per questo continua ad ululare verso l'altro lato,
  scontrandosi con la roccia?
 
-225
+223
 00:15:41,300 --> 00:15:42,090
 Sì.
 
-226
+224
 00:15:51,510 --> 00:15:53,270
 Che canale incredibile!
 
-227
+225
 00:15:53,270 --> 00:15:56,310
 È assurdo che sia ancora viva con un buco del genere in pancia.
 
-228
+226
 00:15:56,310 --> 00:15:57,940
 Anche questo è un "passatempo"?
 
-229
+227
 00:15:57,940 --> 00:15:59,770
 È un passatempo da dottore.
 
-230
+228
 00:15:59,770 --> 00:16:00,650
 Dottore?
 
-231
+229
 00:16:00,650 --> 00:16:02,900
 Potrei non sembrarlo, ma sono un dottore.
 
-232
+230
 00:16:02,900 --> 00:16:06,150
 Tempo fa, avevo una clinica sul promontorio.
 
-233
+231
 00:16:06,150 --> 00:16:08,780
 Sono stato anche un medico di bordo per qualche anno.
 
-234
+232
 00:16:08,780 --> 00:16:09,990
 Sei serio?
 
-235
+233
 00:16:10,490 --> 00:16:12,580
 Allora diventa il nostro medico di bordo!
 
-236
+234
 00:16:12,580 --> 00:16:14,370
 Non dire stupidaggini.
 
-237
+235
 00:16:14,370 --> 00:16:18,540
 Alla mia età purtroppo...
 non ho più la vostra stessa energia.
 
-238
+236
 00:16:18,540 --> 00:16:21,840
 Un dottore, eh?
 Per questo l'interno della balena è così...
 
-239
+237
 00:16:21,840 --> 00:16:23,550
 Quindi sono segni del trattamento, giusto?
 
-240
+238
 00:16:24,000 --> 00:16:25,550
 Esattamente!
 
-241
+239
 00:16:25,550 --> 00:16:31,220
 Quando hai un corpo così grande...
 le cure dall'esterno sono impossibili.
 
-242
+240
 00:16:31,970 --> 00:16:33,350
 Apro!
 
-243
+241
 00:16:44,270 --> 00:16:46,030
 Eccolo!
 
-244
+242
 00:16:46,030 --> 00:16:48,450
 Il vero cielo!
 
-245
+243
 00:16:57,250 --> 00:16:59,120
 Miss Wednesday, cosa...?
 
-246
+244
 00:17:01,380 --> 00:17:03,540
 Comunque, cinquant'anni, eh?
 
-247
+245
 00:17:03,540 --> 00:17:06,000
 La vogliono proprio far aspettare, quei pirati...
 
-248
+246
 00:17:06,000 --> 00:17:07,260
 Scemo.
 
-249
+247
 00:17:07,260 --> 00:17:09,340
 Questa è la Grand Line.
 
-250
+248
 00:17:09,680 --> 00:17:11,260
 Sono morti.
 
-251
+249
 00:17:13,260 --> 00:17:15,890
 Non importa quanto aspetterà, non torneranno più.
 
-252
+250
 00:17:15,890 --> 00:17:20,270
 In effetti, cinquant'anni fa, 
 la Grand Line era un luogo ancora inesplorato
 
-253
+251
 00:17:20,270 --> 00:17:23,480
 persino più caotico e spaventoso di ora.
 
-254
+252
 00:17:24,150 --> 00:17:26,730
 Dai, non dite queste cose!
 
-255
+253
 00:17:27,110 --> 00:17:29,030
 Non è ancora detto che sia così!
 
-256
+254
 00:17:29,030 --> 00:17:30,860
 Potrebbero tornare!
 
-257
+255
 00:17:30,860 --> 00:17:32,780
 È una storia così bella!
 
-258
+256
 00:17:32,780 --> 00:17:35,990
 Una balena che continua a essere 
 fedele alla promessa dei suoi compagni...!
 
-259
+257
 00:17:35,990 --> 00:17:37,740
 Vero, vecchio?!
 
-260
+258
 00:17:38,120 --> 00:17:39,450
 Già...
 
-261
+259
 00:17:39,450 --> 00:17:42,710
 Ma la realtà è... spesso crudele.
 
-262
+260
 00:17:42,710 --> 00:17:47,340
 Me ne sono assicurato 
 da una fonte certa...
 
-263
+261
 00:17:47,340 --> 00:17:50,420
 Loro sono scappati dalla Grand Line.
 
-264
+262
 00:17:50,420 --> 00:17:51,970
 Non può essere...
 
-265
+263
 00:17:51,970 --> 00:17:54,890
 Hanno davvero abbandonato questa balena?
 
-266
+264
 00:17:56,140 --> 00:17:58,220
 "Scappati dalla Grand Line"?
 
-267
+265
 00:17:58,220 --> 00:18:00,600
 Cioè sono riusciti ad attraversare la Calm Belt?
 
-268
+266
 00:18:00,600 --> 00:18:03,060
 Anche se fossero ancora vivi,
 
-269
+267
 00:18:03,060 --> 00:18:05,520
 non torneranno mai più qui.
 
-270
+268
 00:18:05,520 --> 00:18:08,730
 Stagioni. Meteo. Correnti.
  Direzione dei venti.
 
-271
+269
 00:18:08,730 --> 00:18:10,990
 Non hanno alcun senso qui.
 
-272
+270
 00:18:10,990 --> 00:18:14,360
 In questo mare, il buonsenso è inutile.
 
-273
+271
 00:18:14,360 --> 00:18:19,200
 La paura che suscita la Grand Line... 
 domina subito coloro che sono deboli di cuore.
 
-274
+272
 00:18:19,200 --> 00:18:22,830
 Quindi quei "deboli di cuore"...
  si sono preoccupati per le loro vite
 
-275
+273
 00:18:22,830 --> 00:18:26,710
 e sono fuggiti da questo mare
 senza mantenere la promessa?
 
-276
+274
 00:18:28,500 --> 00:18:31,260
 Hanno abbandonato questa balena?!
 
-277
+275
 00:18:31,260 --> 00:18:33,880
 Anche se li sta ancora 
 aspettando da cinquant'anni?!
 
-278
+276
 00:18:33,880 --> 00:18:35,090
 Che crudeltà!
 
-279
+277
 00:18:35,640 --> 00:18:38,890
 Se lo sai, perché non glielo dici?
 
-280
+278
 00:18:39,220 --> 00:18:42,020
 Quella balena capisce 
 il linguaggio umano, no?!
 
-281
+279
 00:18:42,350 --> 00:18:43,690
 Gliel'ho detto.
 
-282
+280
 00:18:43,690 --> 00:18:46,150
 Tutto quanto, senza nasconderle niente.
 
-283
+281
 00:18:46,730 --> 00:18:48,940
 Laboon! Ascolta bene!
 
-284
+282
 00:18:48,940 --> 00:18:51,990
 A quanto pare hanno lasciato la Grand Line!
 
-285
+283
 00:18:52,530 --> 00:18:54,860
 Eravate certamente dei compagni
 
-286
+284
 00:18:55,200 --> 00:18:58,870
 e la promessa che vi siete fatti era sincera.
 
-287
+285
 00:19:04,960 --> 00:19:06,750
 Però... loro...
 
-288
+286
 00:19:07,330 --> 00:19:09,250
 non torneranno mai più qui!
 
-289
+287
 00:19:29,520 --> 00:19:32,190
 Laboon! Ascolta quello che ti dico!
 
-290
+288
 00:19:32,190 --> 00:19:33,900
 Loro non–
 
-291
+289
 00:19:42,990 --> 00:19:45,660
 Capisco che tu non voglia sentirlo,
 
-292
+290
 00:19:46,420 --> 00:19:49,790
 ma... devi cercare di accettarlo!
 
-293
+291
 00:19:50,460 --> 00:19:51,170
 Laboon!
 
-294
+292
 00:19:55,720 --> 00:19:57,260
 Laboon!
 
-295
+293
 00:20:07,520 --> 00:20:13,360
 È da quel giorno che Laboon iniziò a ululare verso la Reverse Mountain
 
-296
+294
 00:20:13,360 --> 00:20:16,990
 e a scontrarsi con tutto il 
 corpo contro la Red Line...
 
-297
+295
 00:20:16,990 --> 00:20:18,910
 È come se insistesse sul fatto che
 
-298
+296
 00:20:18,910 --> 00:20:23,660
 da un momento all'altro,
 loro torneranno dall'altro lato del muro.
 
-299
+297
 00:20:24,240 --> 00:20:25,540
 Che razza di balena...
 
-300
+298
 00:20:25,540 --> 00:20:27,710
 Anche se non ha più senso aspettare...
 
-301
+299
 00:20:27,710 --> 00:20:31,670
 Si rifiuta di credermi perché tutta quell'attesa perderebbe di significato.
 
-302
+300
 00:20:32,340 --> 00:20:36,340
 Più di ogni altra cosa, ha paura che
  tutto quel tempo non abbia più un senso.
 
-303
+301
 00:20:36,340 --> 00:20:38,630
 La sua terra natia è il West Blue,
 
-304
+302
 00:20:39,050 --> 00:20:41,010
 ma non ha modo di tornarci.
 
-305
+303
 00:20:41,010 --> 00:20:47,140
 Per questo, coloro con cui è giunta qui sono 
 i suoi unici compagni e la sua unica speranza.
 
-306
+304
 00:20:47,140 --> 00:20:51,150
 Beh... sicuramente fa pena,
 
-307
+305
 00:20:51,150 --> 00:20:53,940
 ma alla fine hanno tradito anche te, no?
 
-308
+306
 00:20:56,280 --> 00:20:58,860
 Non potresti semplicemente lasciarla perdere?
 
-309
+307
 00:20:58,860 --> 00:21:01,530
 Guarda le cicatrici sulla sua fronte!
 
-310
+308
 00:21:01,530 --> 00:21:06,950
 Se continuerà a colpire il muro, morirà sicuramente.
 
-311
+309
 00:21:06,950 --> 00:21:10,290
 È uno strano rapporto il nostro,
 ma siamo insieme da ormai cinquant'anni.
 
-312
+310
 00:21:10,290 --> 00:21:12,330
 Come potrei mai lasciarla morire così?!
 
-313
+311
 00:21:15,170 --> 00:21:16,800
 Che sta facendo quello scemo?
 
-314
+312
 00:21:16,800 --> 00:21:18,550
 L'abbiamo perso di vista solo un attimo...
 
-315
+313
 00:21:18,550 --> 00:21:20,510
 Si sta divertendo ad arrampicarsi?
 
-316
+314
 00:21:22,300 --> 00:21:24,930
 Gum Gum...
 
-317
+315
 00:21:24,930 --> 00:21:27,020
 Nota: Ikebana = tipica composizione floreale giapponese.
 
-318
+316
 00:21:24,930 --> 00:21:27,020
 Ikebana
 
-319
+317
 00:21:27,350 --> 00:21:29,140
 Non è l'albero di una nave quello?
 
-320
+318
 00:21:29,140 --> 00:21:31,140
 Sì, quello della nostra.
 
-321
+319
 00:21:31,140 --> 00:21:32,440
 È l'albero maestro.
 
-322
+320
 00:21:32,770 --> 00:21:35,070
 Ma- stai distruggendo la nave!
 
-323
+321
 00:21:41,860 --> 00:21:44,320
 – Ma che diavolo stai facendo?!
 – Ma che diavolo stai facendo?!
 
-324
+322
 00:21:55,130 --> 00:21:56,210
 Cos...?! Ehi, moccioso!
 
-325
+323
 00:21:56,590 --> 00:21:59,630
 Va tutto bene! 
 Anche se viene schiacciato, non morirà!
 
-326
+324
 00:22:04,430 --> 00:22:05,260
 Scema!
 
-327
+325
 00:22:12,020 --> 00:22:13,440
 Che intenzioni ha?!
 
-328
+326
 00:22:17,480 --> 00:22:20,650
 Luffy! Cosa cavolo vuoi fare?!
 
-329
+327
 00:22:25,490 --> 00:22:26,620
 È un pareggio!
 
-330
+328
 00:22:31,410 --> 00:22:32,710
 Sono forte, no?
 
-331
+329
 00:22:34,790 --> 00:22:37,210
 Il nostro combattimento non è finito!
 
-332
+330
 00:22:37,210 --> 00:22:39,210
 Quindi, dovremo combattere ancora!
 
-333
+331
 00:22:39,210 --> 00:22:42,800
 I tuoi compagni sono morti, 
 ma io sarò per sempre il tuo rivale!
 
-334
+332
 00:22:42,800 --> 00:22:47,010
 Combatteremo un'altra volta e decideremo chi è il più forte!
 
-335
+333
 00:22:47,010 --> 00:22:50,810
 Dopo aver fatto il giro della Grand Line, 
 torneremo a trovarti!
 
-336
+334
 00:22:52,140 --> 00:22:54,100
 E poi combatteremo di nuovo!
 
-337
+335
 00:23:09,700 --> 00:23:10,870
 Bene, bene!
 
-338
+336
 00:23:10,870 --> 00:23:14,750
 Questa è la promessa della battaglia tra me e te!
 
-339
+337
 00:23:14,750 --> 00:23:20,750
 Finché non torneremo qui, 
 non cancellare quel marchio sbattendo la testa!
 
-340
+338
 00:23:24,170 --> 00:23:25,930
 Bene!
 
-341
+339
 00:23:27,800 --> 00:23:28,930
 E loro?
 
-342
+340
 00:23:28,930 --> 00:23:30,390
 "Loro"?
 
-343
+341
 00:23:30,390 --> 00:23:32,270
 Ah, quei due tipi strani?
 
-344
+342
 00:23:32,270 --> 00:23:33,770
 Saranno scappati.
 
-345
+343
 00:23:33,770 --> 00:23:37,060
 Chissà chi erano alla fine...
 
-346
+344
 00:23:39,980 --> 00:23:43,280
 Miss Wednesday, e ora che si fa?
 
-347
+345
 00:23:45,570 --> 00:23:49,320
 Per prima cosa, dobbiamo tornare e fare rapporto al boss.
 
-348
+346
 00:23:49,320 --> 00:23:52,080
 Il tempo stimato per completare la missione è già passato da tempo.
 
-349
+347
 00:23:52,080 --> 00:23:56,040
 Hai ragione. Non va bene.
  Finiranno per vederci come traditori.
 
-350
+348
 00:23:56,410 --> 00:23:57,170
 Già.
 
-351
+349
 00:23:57,170 --> 00:24:00,500
 Abbiamo anche perso le nostre armi.
 Torniamo all'organizzazione e riproviamo.
 
-352
+350
 00:24:00,500 --> 00:24:04,630
 Non abbiamo altra scelta. Quindi, noi...?
 
-353
+351
 00:24:04,630 --> 00:24:06,970
 Eh? 
 Ecco... Ma cosa?!
 
-354
+352
 00:24:07,300 --> 00:24:08,300
 Che succede?
 
-355
+353
 00:24:09,840 --> 00:24:10,550
 Non c'è.
 
-356
+354
 00:24:10,550 --> 00:24:11,180
 Eh?
 
-357
+355
 00:24:13,930 --> 00:24:14,850
 Cos'è questo?
 
-358
+356
 00:24:15,600 --> 00:24:17,640
 Hai perso il Log Pose?!
 
-359
+357
 00:24:17,640 --> 00:24:19,350
 Mi dispiace molto, Miss Wednesday!
 
-360
+358
 00:24:19,350 --> 00:24:21,650
 Senza quello, non possiamo tornare...
 
-361
+359
 00:24:23,650 --> 00:24:24,780
 Di questo passo–
 
-362
+360
 00:24:26,280 --> 00:24:28,660
 N-Non può essere, quelli sono...?!
 
-363
+361
 00:24:28,660 --> 00:24:29,360
 Eh?
 
-364
+362
 00:24:30,950 --> 00:24:32,200
 Quelli sono...
 
-365
+363
 00:24:33,160 --> 00:24:35,120
 O-Oh no...
 
-366
+364
 00:24:36,040 --> 00:24:37,330
 gli Unluckies!
 
-367
+365
 00:24:37,330 --> 00:24:38,620
 Maledizione! È troppo tardi?!
 
-368
+366
 00:24:38,620 --> 00:24:39,710
 Mr. 13!
 
-369
+367
 00:24:39,710 --> 00:24:41,540
 Miss Friday!
 
-370
+368
 00:24:41,880 --> 00:24:44,210
 Aspettate! Possiamo spiegare!
 
-371
+369
 00:24:44,210 --> 00:24:46,920
 Faremo subito rapporto al boss!
 
-372
+370
 00:25:01,060 --> 00:25:05,400
 Allora, è finalmente giunto il momento di
  pianificare il viaggio lungo la Grand Line!
 
-373
+371
 00:25:10,200 --> 00:25:14,080
 Bene, è arrivato il momento di cucinarti, 
 tonno elefante pinna blu!
 
-374
+372
 00:25:14,080 --> 00:25:15,580
 Dannazione!
 
-375
+373
 00:25:16,540 --> 00:25:20,540
 Quell'idiota di Luffy, 
 come si permette di distruggere la nave...!
 
-376
+374
 00:25:20,540 --> 00:25:21,830
 Ehi, Zoro!
 
-377
+375
 00:25:21,830 --> 00:25:24,630
 Aiutami, bastardo! 
 Non sono mica un carpentiere!
 
-378
+376
 00:25:30,550 --> 00:25:32,140
 Che hai? Cos'è 'sto casino!
 
-379
+377
 00:25:32,140 --> 00:25:34,010
 Cos'è successo, mia cara Nami?!
 
-380
+378
 00:25:34,010 --> 00:25:36,180
 Se è per il cibo, è tutto pronto!
 
-381
+379
 00:25:36,180 --> 00:25:36,970
 Cibo, eh?
 
-382
+380
 00:25:37,310 --> 00:25:39,430
 L-La bussola si è rotta!
 
-383
+381
 00:25:40,060 --> 00:25:41,640
 Non indica da nessuna parte!
 
-384
+382
 00:25:41,640 --> 00:25:43,310
 Oh, è vero.
 
-385
+383
 00:25:43,310 --> 00:25:45,440
 Continua a girare!
 
-386
+384
 00:25:45,440 --> 00:25:47,110
 Eh! Interessante!
 
-387
+385
 00:25:47,980 --> 00:25:51,910
 A quanto pare siete venuti
  qui senza sapere niente.
 
-388
+386
 00:25:51,910 --> 00:25:54,990
 Che vergogna! 
 Siete venuti a buttare via la vostra vita?
 
-389
+387
 00:25:55,450 --> 00:25:56,080
 Eh?
 
-390
+388
 00:25:56,080 --> 00:25:56,790
 Cibo?
 
-391
+389
 00:25:56,790 --> 00:25:58,620
 Nel tuo caso, è "mangime".
 
-392
+390
 00:25:58,620 --> 00:26:00,080
 Mi sembrava di avervelo detto.
 
-393
+391
 00:26:00,080 --> 00:26:03,500
 In questo mare, il buonsenso è inutile.
 
-394
+392
 00:26:03,500 --> 00:26:06,800
 Quella bussola non è affatto rotta.
 
-395
+393
 00:26:07,590 --> 00:26:09,800
 Allora... i campi magnetici sono...?
 
-396
+394
 00:26:09,800 --> 00:26:10,880
 Già.
 
-397
+395
 00:26:10,880 --> 00:26:16,260
 Le isole della Grand Line contengono...
 innumerevoli minerali magnetici.
 
-398
+396
 00:26:16,260 --> 00:26:19,020
 Questi minerali causano anomalie
  nel corso di tutta la rotta.
 
-399
+397
 00:26:19,020 --> 00:26:22,440
 Inoltre, le correnti e i venti non hanno costanza.
 
-400
+398
 00:26:22,440 --> 00:26:26,270
 Se sei una navigatrice,
 avrai già capito quanto è spaventoso.
 
-401
+399
 00:26:26,270 --> 00:26:30,490
 In effetti... è da disperarsi se non si ha modo di capire la direzione.
 
-402
+400
 00:26:30,490 --> 00:26:31,440
 Che buono!
 
-403
+401
 00:26:31,440 --> 00:26:33,570
 N-Non lo sapevo! Poco importa!
 
-404
+402
 00:26:33,570 --> 00:26:36,200
 Ehi! Questo è un male!
 Andrà tutto liscio?!
 
-405
+403
 00:26:36,200 --> 00:26:38,660
 Non è male! Anzi, è proprio buono!
 
-406
+404
 00:26:38,660 --> 00:26:41,620
 Ehi, voialtri! 
 Potete stare zitti un po'?!
 
-407
+405
 00:26:41,620 --> 00:26:44,790
 Il naso del tonno elefante pinna blu è buono!
 
-408
+406
 00:26:45,250 --> 00:26:50,260
 Per navigare lungo la Grand Line, 
 vi serve un Log Pose.
 
-409
+407
 00:26:50,260 --> 00:26:52,510
 Un Log Pose? Mai sentito.
 
-410
+408
 00:26:52,510 --> 00:26:56,510
 È una bussola speciale capace di registrare il magnetismo.
 
-411
+409
 00:26:56,510 --> 00:26:58,050
 È una bussola strana?
 
-412
+410
 00:26:58,050 --> 00:27:00,640
 Sì, ha una forma un po' eccentrica.
 
-413
+411
 00:27:00,640 --> 00:27:02,060
 Tipo così?
 
-414
+412
 00:27:02,060 --> 00:27:03,180
 Sì, è fatto così.
 
-415
+413
 00:27:03,640 --> 00:27:08,570
 Senza il Log Pose, 
 navigare lungo la Grand Line è impossibile.
 
-416
+414
 00:27:09,320 --> 00:27:10,820
 Capisco.
 
-417
+415
 00:27:10,820 --> 00:27:12,570
 Però, aspetta un attimo...
 
-418
+416
 00:27:13,070 --> 00:27:14,490
 Luffy?
 
-419
+417
 00:27:14,860 --> 00:27:17,490
 Perché tu ce ne hai uno?!
 
-420
+418
 00:27:19,200 --> 00:27:23,290
 È una cosa che è caduta a quei due tipi strani sulla nave!
 
-421
+419
 00:27:23,290 --> 00:27:24,460
 Quelli di prima?
 
-422
+420
 00:27:24,460 --> 00:27:25,830
 Perché mi hai colpito?
 
-423
+421
 00:27:25,830 --> 00:27:26,790
 Perché sì.
 
-424
+422
 00:27:26,790 --> 00:27:27,750
 Ah, davvero?
 
-425
+423
 00:27:29,000 --> 00:27:30,340
 Questo quindi è un Log Pose.
 
-426
+424
 00:27:30,340 --> 00:27:31,880
 Non ha nessun quadrante.
 
-427
+425
 00:27:31,880 --> 00:27:39,470
 È cosa risaputa che il magnetismo delle isole
  lungo la Grand Line... segua una certa regola.
 
-428
+426
 00:27:39,470 --> 00:27:44,640
 In pratica, il Log Pose memorizza il
  magnetismo che collega due isole tra loro
 
-429
+427
 00:27:44,640 --> 00:27:47,150
 in modo da creare l'itinerario verso la prossima isola.
 
-430
+428
 00:27:47,650 --> 00:27:50,820
 In questo mare dove non c'è 
 modo di capire dove ci si trova,
 
-431
+429
 00:27:50,820 --> 00:27:54,650
 il magnetismo registrato dal Log Pose è l'unica cosa a cui ci si può affidare.
 
-432
+430
 00:27:55,110 --> 00:28:01,780
 Partendo da questa montagna, la Reverse
  Mountain, ci sono sette rotte tra cui scegliere,
 
-433
+431
 00:28:01,780 --> 00:28:04,700
 ma, indipendentemente
  da quale delle sette si inizia,
 
-434
+432
 00:28:04,700 --> 00:28:08,580
 i percorsi si attraggono tutti l'un l'altro per giungere tutti su un'unica rotta.
 
-435
+433
 00:28:08,580 --> 00:28:12,130
 Infine, il nome dell'ultima isola raggiungibile è...
 
-436
+434
 00:28:12,630 --> 00:28:13,960
 Laugh Tale.
 
-437
+435
 00:28:13,960 --> 00:28:16,760
 È la meta finale della Grand Line.
 
-438
+436
 00:28:16,760 --> 00:28:20,970
 Nel corso della storia, 
 l'unico a confermarne l'esistenza fu il Re dei Pirati.
 
-439
+437
 00:28:20,970 --> 00:28:23,100
 È un'isola leggendaria.
 
-440
+438
 00:28:23,100 --> 00:28:24,470
 Laugh Tale...
 
-441
+439
 00:28:24,470 --> 00:28:27,310
 Allora, è là che si trova il One Piece?!
 
-442
+440
 00:28:27,310 --> 00:28:30,360
 Chissà, è la teoria più accreditata,
 
-443
+441
 00:28:30,360 --> 00:28:33,070
 ma nessuno è mai riuscito ad arrivarci.
 
-444
+442
 00:28:33,070 --> 00:28:34,690
 Allora...
 
-445
+443
 00:28:34,690 --> 00:28:36,240
 lo sapremo quando ci andremo!
 
-446
+444
 00:28:39,110 --> 00:28:41,820
 Bene, ora che ho mangiato, ci prepariamo a partire?
 
-447
+445
 00:28:41,820 --> 00:28:43,660
 Hai mangiato tutto tu da solo?!
 
-448
+446
 00:28:43,660 --> 00:28:45,330
 Wow! 
 Non ci sono nemmeno le ossa!
 
-449
+447
 00:28:45,330 --> 00:28:48,620
 Il "Log Pose", eh? 
 Dobbiamo prendercene cura.
 
-450
+448
 00:28:48,620 --> 00:28:50,830
 È la chiave di volta del nostro viaggio.
 
-451
+449
 00:28:50,830 --> 00:28:52,590
 Maledetto gommoso di merda!
 
-452
+450
 00:28:52,590 --> 00:28:55,210
 Volevo che la cara Nami... che la cara Nami ne...
 
-453
+451
 00:28:56,010 --> 00:28:59,130
 mangiasse almeno un po'!
 
-454
+452
 00:29:14,020 --> 00:29:14,980
 Che fai?!
 
-455
+453
 00:29:14,980 --> 00:29:17,400
 Così impari, gommoso di merda.
 
-456
+454
 00:29:16,320 --> 00:29:17,400
 Sanji...
 
-457
+455
 00:29:17,400 --> 00:29:18,860
 Sì, mia cara Nami?
 
-458
+456
 00:29:19,700 --> 00:29:22,820
 Entrambi, andate a calmarvi subito!
 
-459
+457
 00:29:27,200 --> 00:29:29,210
 Ehi, aspetta un attimo!
 
-460
+458
 00:29:29,660 --> 00:29:32,960
 Non era una bussola 
 super importante quella?!
 
-461
+459
 00:29:32,960 --> 00:29:35,460
 Il nostro prezioso Log Pose...
 
-462
+460
 00:29:35,460 --> 00:29:37,800
 Non agitatevi, vi darò il mio.
 
-463
+461
 00:29:38,210 --> 00:29:40,720
 Vi devo ancora ringraziare
  per la questione di Laboon.
 
-464
+462
 00:29:48,220 --> 00:29:50,230
 Eeh, pensavo che sarei morto! Eh?
 
-465
+463
 00:29:52,850 --> 00:29:55,980
 Ecco, prendi la mia mano, honey.
 
-466
+464
 00:29:55,980 --> 00:29:57,030
 Ah, grazie.
 
-467
+465
 00:29:57,030 --> 00:29:58,230
 Bel tempo oggi, non trovi?
 
-468
+466
 00:29:58,230 --> 00:29:59,030
 Ehi!
 
-469
+467
 00:29:59,650 --> 00:30:00,950
 Abbiamo bisogno di un favore.
 
-470
+468
 00:30:04,570 --> 00:30:05,870
 Whisky Peak?
 
-471
+469
 00:30:06,200 --> 00:30:07,410
 Che nome strano!
 
-472
+470
 00:30:07,410 --> 00:30:08,490
 Che sarebbe?
 
-473
+471
 00:30:08,490 --> 00:30:11,250
 È la città in cui viviamo, ehm, signore...
 
-474
+472
 00:30:11,250 --> 00:30:13,370
 E la vostra nave?
 
-475
+473
 00:30:13,370 --> 00:30:15,840
 Ehm, purtroppo è affondata.
 
-476
+474
 00:30:16,460 --> 00:30:20,550
 Non ti sembra di chiedere troppo, Mr. 9?
  Dato che stavate cercando di uccidere la balena.
 
-477
+475
 00:30:20,970 --> 00:30:22,880
 Chi diavolo siete?
 
-478
+476
 00:30:22,880 --> 00:30:24,590
 Sono un re.
 
-479
+477
 00:30:25,680 --> 00:30:26,640
 Bugiardo.
 
-480
+478
 00:30:27,890 --> 00:30:29,640
 Non possiamo dirvelo!
 
-481
+479
 00:30:29,640 --> 00:30:31,890
 Ma... vogliamo tornare nella nostra città!
 
-482
+480
 00:30:31,890 --> 00:30:35,230
 Anche noi vorremmo potervi dire di più,
 
-483
+481
 00:30:35,230 --> 00:30:37,650
 ma il motto della nostra organizzazione è "mistero".
 
-484
+482
 00:30:37,650 --> 00:30:40,070
 Non ci è permesso dire nulla di più.
 
-485
+483
 00:30:40,400 --> 00:30:43,780
 Ve lo chiediamo sperando nella vostra buonafede!
 
-486
+484
 00:30:43,780 --> 00:30:46,160
 Ricambieremo certamente il favore!
 
-487
+485
 00:30:46,160 --> 00:30:47,990
 Non fatelo.
 
-488
+486
 00:30:47,990 --> 00:30:51,080
 Non importa cosa dicano, non sono affidabili.
 
-489
+487
 00:30:51,500 --> 00:30:56,580
 In ogni caso, il nostro Log Pose è rotto e 
 non funziona più. Volete ancora salire a bordo?
 
-490
+488
 00:30:56,920 --> 00:31:00,130
 Cosa?! 
 L'avete rotto?! Era il mio!
 
-491
+489
 00:31:00,130 --> 00:31:04,180
 Ci guardi così dall'alto in basso, ma anche voi 
 non potete andare da nessuna parte, vero?!
 
-492
+490
 00:31:04,550 --> 00:31:05,970
 Ah, giusto...
 
-493
+491
 00:31:05,970 --> 00:31:09,140
 abbiamo quello che ci 
 ha dato il signor Crocus.
 
-494
+492
 00:31:09,970 --> 00:31:12,140
 Per la vostra buonafede, per favore...
 
-495
+493
 00:31:12,520 --> 00:31:15,100
 Maledizione! 
 'Sta stronza ci ha imbrogliati!
 
-496
+494
 00:31:15,440 --> 00:31:16,940
 Ok, potete salire a bordo.
 
-497
+495
 00:31:18,360 --> 00:31:19,820
 Avete detto Whisky Peak, giusto?
 
-498
+496
 00:31:19,820 --> 00:31:20,980
 Andiamo là.
 
-499
+497
 00:31:20,980 --> 00:31:21,730
 – Eh?
 – Eh?
 
-500
+498
 00:31:21,730 --> 00:31:25,950
 Ehi, sei serio?!
 Ci dobbiamo portare dietro questi sconosciuti?!
 
-501
+499
 00:31:26,320 --> 00:31:27,370
 E quindi?
 
-502
+500
 00:31:27,370 --> 00:31:29,410
 Non preoccuparti dei dettagli.
 
-503
+501
 00:31:29,410 --> 00:31:34,370
 Ricorda che la scelta della rotta è possibile solo da questo posto iniziale.
 
-504
+502
 00:31:34,370 --> 00:31:37,210
 Se non ci piace, basterà fare un altro giro!
 
-505
+503
 00:31:37,750 --> 00:31:39,130
 Capisco.
 
-506
+504
 00:31:39,670 --> 00:31:41,500
 Bene, andiamo?
 
-507
+505
 00:31:42,880 --> 00:31:45,970
 Ho fatto una promessa alla balena, ormai è il momento di andare.
 
-508
+506
 00:31:46,340 --> 00:31:48,720
 Chi... saresti tu?
 
-509
+507
 00:31:48,720 --> 00:31:49,680
 Io?
 
-510
+508
 00:31:49,680 --> 00:31:50,560
 Io...
 
-511
+509
 00:31:50,970 --> 00:31:53,140
 sono colui che diventerà il Re dei Pirati!
 
-512
+510
 00:31:57,600 --> 00:31:59,190
 Che pirata stupido...
 
-513
+511
 00:32:02,070 --> 00:32:03,610
 Ormai dovrebbe andare.
 
-514
+512
 00:32:03,610 --> 00:32:05,650
 Il Log dovrebbe aver finito di registrare.
 
-515
+513
 00:32:06,280 --> 00:32:08,740
 Sta puntando dove dice la mappa?
 
-516
+514
 00:32:08,740 --> 00:32:09,490
 Sì.
 
-517
+515
 00:32:10,200 --> 00:32:12,160
 Sta puntando verso Whisky Peak.
 
-518
+516
 00:32:12,660 --> 00:32:14,500
 Alla prossima, vecchio uomo-fiore!
 
-519
+517
 00:32:14,500 --> 00:32:16,080
 Grazie per il Log Pose!
 
-520
+518
 00:32:16,080 --> 00:32:18,000
 Sì. Va' pure!
 
-521
+519
 00:32:18,000 --> 00:32:20,630
 Ci si vede!
  Io vado, balena!
 
-522
+520
 00:32:25,590 --> 00:32:27,550
 Verso Whisky Peak...
 
-523
+521
 00:32:27,550 --> 00:32:29,930
 a tutta velocità!
 
-524
+522
 00:32:29,930 --> 00:32:31,930
 – Sì!
 – Sì!
 
-525
+523
 00:32:49,570 --> 00:32:54,450
 Mi chiedo se siano i pirati 
 che stavamo attendendo...
 
-526
+524
 00:32:54,450 --> 00:32:58,410
 Quel ragazzo ha un'aria misteriosa...
 
-527
+525
 00:33:01,460 --> 00:33:02,670
 Non credi,
 
-528
+526
 00:33:02,670 --> 00:33:04,380
 Roger?
+
+527
+00:07:51,160 --> 00:07:53,580
+Miss Wednesday
+Donna misteriosa
+
+528
+00:07:51,160 --> 00:07:53,580
+Miss Wednesday
+Donna misteriosa
 
 529
 00:07:51,160 --> 00:07:53,580
@@ -2233,14 +2229,14 @@ Miss Wednesday
 Donna misteriosa
 
 530
-00:07:51,160 --> 00:07:53,580
-Miss Wednesday
-Donna misteriosa
+00:08:01,130 --> 00:08:03,960
+Mr. 9
+Uomo misterioso
 
 531
-00:07:51,160 --> 00:07:53,580
-Miss Wednesday
-Donna misteriosa
+00:08:01,130 --> 00:08:03,960
+Mr. 9
+Uomo misterioso
 
 532
 00:08:01,130 --> 00:08:03,960
@@ -2248,53 +2244,26 @@ Mr. 9
 Uomo misterioso
 
 533
-00:08:01,130 --> 00:08:03,960
-Mr. 9
-Uomo misterioso
+00:24:37,750 --> 00:24:41,540
+Mr. 13
 
 534
-00:08:01,130 --> 00:08:03,960
-Mr. 9
-Uomo misterioso
+00:24:37,750 --> 00:24:41,540
+Mr. 13
 
 535
 00:24:37,750 --> 00:24:41,540
 Mr. 13
 
-Lontra marina
-misteriosa
-
 536
 00:24:37,750 --> 00:24:41,540
-Mr. 13
-
-Lontra marina
-misteriosa
+Miss Friday
 
 537
 00:24:37,750 --> 00:24:41,540
-Mr. 13
-
-Lontra marina
-misteriosa
+Miss Friday
 
 538
 00:24:37,750 --> 00:24:41,540
 Miss Friday
 
-Avvoltoio
-misterioso
-
-539
-00:24:37,750 --> 00:24:41,540
-Miss Friday
-
-Avvoltoio
-misterioso
-
-540
-00:24:37,750 --> 00:24:41,540
-Miss Friday
-
-Avvoltoio
-misterioso

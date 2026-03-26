@@ -1,1315 +1,1302 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:02:32,510 --> 00:02:42,500
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:02:04,100 --> 00:02:09,440
 Ehi, ehi! Dicono stia per arrivare
  l'Aqua Laguna, cioè l'alta marea!
 
-4
+2
 00:02:09,440 --> 00:02:13,490
 Già, già! Stanotte questa città 
 verrà sommersa dall'acqua!
 
-5
+3
 00:02:13,490 --> 00:02:15,490
 Anche questa costa sarà inghiottita!
 
-6
+4
 00:02:15,490 --> 00:02:18,240
 Che guaio! 
 Non possiamo certo rimanere fermi qui!
 
-7
+5
 00:02:18,240 --> 00:02:20,790
 Infatti, infatti! Non si può rimanere fermi qui!
 
-8
+6
 00:02:20,790 --> 00:02:22,870
 Dobbiamo evacuare verso posti in alto!
 
-9
+7
 00:02:22,870 --> 00:02:24,620
 Già, già! Evacuiamo velocemente!
 
-10
+8
 00:02:24,620 --> 00:02:27,500
 Evacuare! Evacuare!
 
-11
+9
 00:02:30,130 --> 00:02:31,840
 Evacuare! Evacuare!
 
-12
+10
 00:02:42,730 --> 00:02:44,560
 Scappa!
 
-13
+11
 00:02:48,520 --> 00:02:51,820
 Cos'erano quelle voci?
 
-14
+12
 00:02:53,360 --> 00:02:54,990
 Evacua come si deve!
 
-15
+13
 00:02:54,990 --> 00:02:57,820
 Evacua, Usopp!
 
-16
+14
 00:02:57,820 --> 00:03:00,850
 Dicevano qualcosa sull'alta marea...
 
-17
+15
 00:03:00,850 --> 00:03:02,290
 Effettivamente...
 
-18
+16
 00:03:02,290 --> 00:03:05,540
 il vento è decisamente più forte...
 
-19
+17
 00:03:07,290 --> 00:03:12,000
 Lasciatemi! Ho detto lasciatemi! 
 Cos'avremo fatto?!
 
-20
+18
 00:03:12,000 --> 00:03:14,510
 Non fare la finta tonta! 
 Banda di assassini bastardi!
 
-21
+19
 00:03:14,510 --> 00:03:17,890
 Come avete osato sparare al signor Iceburg?! 
 Non vi lasceremo fuggire!
 
-22
+20
 00:03:18,390 --> 00:03:22,140
 Ehi, smettetela! Vi stiamo dicendo 
 che non abbiamo fatto niente!
 
-23
+21
 00:03:22,140 --> 00:03:23,770
 Infatti!
 
-24
+22
 00:03:23,770 --> 00:03:27,690
 E poi, Robin non aveva motivo 
 di puntare al signor Iceburg!
 
-25
+23
 00:03:28,690 --> 00:03:31,770
 Potete continuare a insistere all'infinito.
 
-26
+24
 00:03:31,770 --> 00:03:35,740
 In ogni caso, per voi due finisce qui.
 
-27
+25
 00:03:35,740 --> 00:03:42,740
 Ferire quell'uomo significa farsi noi 
 della Galley-La Comapny nemici.
 
-28
+26
 00:03:43,290 --> 00:03:49,380
 E sappiate che anche l'intera città 
 di Water Seven sarà vostra nemica!
 
-29
+27
 00:03:49,380 --> 00:03:52,210
 Ma perché vi inventate cose così?!
 
-30
+28
 00:03:52,210 --> 00:03:54,130
 Fatemi parlare con il vecchio Ice!
 
-31
+29
 00:03:54,130 --> 00:03:56,550
 Rassegnati, pirata!
 
-32
+30
 00:03:57,550 --> 00:04:00,010
 Fatelo fuori, Galley-La Company!
 
-33
+31
 00:04:21,820 --> 00:04:23,660
 Che c'è, Cappello di Paglia?
 
-34
+32
 00:04:23,660 --> 00:04:26,250
 Sicuro di voler solo incassare? Eh?!
 
-35
+33
 00:04:26,830 --> 00:04:30,120
 Come dicevo, non ho motivo 
 di combattere con voi!
 
-36
+34
 00:04:33,590 --> 00:04:37,090
 Ho capito... che le pistole non funzionano con te.
 
-37
+35
 00:04:40,090 --> 00:04:42,970
 Maledizione... Fanno sul serio...
 
-38
+36
 00:04:49,310 --> 00:04:50,980
 È un colpo diretto!
 
-39
+37
 00:04:52,310 --> 00:04:54,360
 No! È scappato!
 
-40
+38
 00:04:57,740 --> 00:04:59,070
 Che rischio, che rischio!
 
-41
+39
 00:05:27,060 --> 00:05:29,060
 Cavolo! Non posso muovermi!
 
-42
+40
 00:05:35,310 --> 00:05:36,420
 Luffy!
 
-43
+41
 00:05:36,420 --> 00:05:37,860
 Evviva! Finitelo!
 
-44
+42
 00:05:49,290 --> 00:05:55,080
 Yay! Proprio come ci si aspetta dal nostro 
 orgoglio, la Galley-La Company! Yay!
 
-45
+43
 00:05:55,080 --> 00:05:57,130
 Proprio una goduria!
 
-46
+44
 00:05:57,130 --> 00:06:00,800
 Esatto, esatto! Dovrebbero proprio farlo a pezzi!
 
-47
+45
 00:06:05,600 --> 00:06:07,930
 No, no, no...
 
-48
+46
 00:06:07,930 --> 00:06:13,770
 Però, senti... Quel microbo di Cappello di 
 Paglia è il nemico giurato della Famiglia Franky.
 
-49
+47
 00:06:14,650 --> 00:06:19,280
 Il primo cliente di questo combattimento ero io, sai?
 
-50
+48
 00:06:19,730 --> 00:06:26,240
 E poi siete arrivati voi e vi avevo 
 detto di non rubarmi la preda...
 
-51
+49
 00:06:27,070 --> 00:06:30,540
 Non fatemelo ripetere mille volte!
 
-52
+50
 00:06:30,540 --> 00:06:33,660
 Galley-La!
 
-53
+51
 00:06:33,660 --> 00:06:39,000
 Pazienta un po'! Ti faremo da avversari 
 quando lo avremo completamente catturato!
 
-54
+52
 00:06:39,000 --> 00:06:44,880
 Ma... perché dovreste essere voi 
 a catturare la mia preda?!
 
-55
+53
 00:06:44,880 --> 00:06:49,100
 No! Non ne posso più! 
 Pare che non mi capiscano a parole!
 
-56
+54
 00:06:49,600 --> 00:06:50,720
 Paulie, attento!
 
-57
+55
 00:06:50,720 --> 00:06:52,350
 Galley-La, scappate!
 
-58
+56
 00:06:52,350 --> 00:06:56,400
 Franky sta per lanciare un attacco pericolosissimo!
 
-59
+57
 00:06:56,400 --> 00:06:57,560
 Eh?
 
-60
+58
 00:07:02,780 --> 00:07:04,530
 Connector Set.
 
-61
+59
 00:07:07,370 --> 00:07:10,950
 Con quello prima ha fatto cadere la gru gigante!
 
-62
+60
 00:07:10,950 --> 00:07:12,500
 La gru?
 
-63
+61
 00:07:13,160 --> 00:07:14,160
 Un cannone?!
 
-64
+62
 00:07:14,160 --> 00:07:16,460
 Scappate, Galley-La!
 
-65
+63
 00:07:16,920 --> 00:07:19,420
 – Falli secchi, fratello!
 – Falli secchi, fratello!
 
-66
+64
 00:07:20,420 --> 00:07:23,970
 Ma va, non sparerò una palla di cannone!
 
-67
+65
 00:07:23,970 --> 00:07:26,680
 A volare sarà solo una palla d'aria.
 
-68
+66
 00:07:26,680 --> 00:07:30,010
 Ma la sua velocità supererà quella del suono.
 
-69
+67
 00:07:30,810 --> 00:07:32,180
 Aria?
 
-70
+68
 00:07:33,980 --> 00:07:36,310
 Ragazzi, scappate!
 
-71
+69
 00:07:43,320 --> 00:07:44,610
 Ma cos'è?
 
-72
+70
 00:07:52,030 --> 00:07:54,000
 Coup de Vent!
 
-73
+71
 00:08:36,750 --> 00:08:39,460
 Maledizione! Ma cos'era?!
 
-74
+72
 00:08:39,460 --> 00:08:42,710
 È stato come essere spazzati 
 via dalla pressione del vento!
 
-75
+73
 00:08:42,710 --> 00:08:45,130
 La gru sta per cadere di nuovo!
 
-76
+74
 00:08:45,130 --> 00:08:48,590
 Scappate! Arriverà fino a qui!
 
-77
+75
 00:08:51,390 --> 00:08:53,010
 Veloci!
 
-78
+76
 00:08:53,010 --> 00:08:55,890
 Eccola!
 
-79
+77
 00:08:57,810 --> 00:08:59,600
 Bene, schiacciali tutti!
 
-80
+78
 00:09:00,770 --> 00:09:06,110
 Distruggi questo cantiere navale!
 
-81
+79
 00:09:21,540 --> 00:09:26,710
 Ma che cos'è?! Anche se è un cyborg,
  dove ha preso quel tipo di tecnologia?!
 
-82
+80
 00:09:26,710 --> 00:09:29,340
 E cos'era quello strano cannone?!
 
-83
+81
 00:09:29,340 --> 00:09:31,180
 Ah... Però...
 
-84
+82
 00:09:32,090 --> 00:09:34,350
 Grazie a lui, sono riuscita a scappare!
 
-85
+83
 00:09:34,350 --> 00:09:35,850
 Nami! Corri!
 
-86
+84
 00:09:35,850 --> 00:09:36,640
 Luffy!
 
-87
+85
 00:09:36,640 --> 00:09:38,680
 Stai bene?!
 
-88
+86
 00:09:40,600 --> 00:09:43,100
 Come se una cosa così potesse farmi fuori!
 
-89
+87
 00:09:44,610 --> 00:09:47,780
 In ogni caso, non so cosa intendano!
 
-90
+88
 00:09:47,780 --> 00:09:49,740
 Andiamo dal vecchio Ice in qualche modo!
 
-91
+89
 00:09:49,740 --> 00:09:54,160
 Eh?! Vuoi andarci?! 
 Ma è impossibile in mezzo a tutto questo caos!
 
-92
+90
 00:09:54,820 --> 00:09:57,870
 Ehi, guardate! 
 Cappello di Paglia sta per scappare!
 
-93
+91
 00:09:57,870 --> 00:09:59,160
 Oh no!
 
-94
+92
 00:09:59,160 --> 00:10:00,560
 Ci circonderanno!
 
-95
+93
 00:10:01,710 --> 00:10:02,900
 Nami!
 
-96
+94
 00:10:02,120 --> 00:10:02,900
 Eh?
 
-97
+95
 00:10:06,500 --> 00:10:07,920
 Tieniti forte!
 
-98
+96
 00:10:07,920 --> 00:10:08,710
 Ah, aspetta!
 
-99
+97
 00:10:09,670 --> 00:10:10,880
 Non lasciateli scappare!
 
-100
+98
 00:10:17,390 --> 00:10:18,480
 Sono scappati!
 
-101
+99
 00:10:18,480 --> 00:10:19,600
 Inseguiteli!
 
-102
+100
 00:10:24,000 --> 00:10:25,600
 Fratello?
 
-103
+101
 00:10:25,600 --> 00:10:27,100
 Eh?
 
-104
+102
 00:10:27,100 --> 00:10:30,110
 Sono scapati. Vuoi inseguirli?
 
-105
+103
 00:10:30,730 --> 00:10:35,320
 No... 
 Con quel Coup de Vent ho finito il carburante.
 
-106
+104
 00:10:35,320 --> 00:10:37,920
 Guardate 'sto ciuffo.
 
-107
+105
 00:10:37,920 --> 00:10:41,370
 Sembra... proprio come un salice 
 che ondeggia al vento.
 
-108
+106
 00:10:43,050 --> 00:10:45,760
 Dopotutto è spuntata una bella seccatura.
 
-109
+107
 00:10:45,760 --> 00:10:49,360
 Una volta fatto rifornimento, 
 lo eliminerò di sicuro.
 
-110
+108
 00:10:51,710 --> 00:10:56,880
 Come ci si aspetta da uno con una taglia 
 da cento milioni, ne ha di coraggio.
 
-111
+109
 00:11:02,060 --> 00:11:03,310
 Che diamine...
 
-112
+110
 00:11:04,270 --> 00:11:06,810
 Ci sa proprio fare quel Franky...
 
-113
+111
 00:11:06,810 --> 00:11:09,270
 Che razza di giornata che è oggi.
 
-114
+112
 00:11:09,270 --> 00:11:12,740
 Comunque... non possiamo permettergli di fuggire.
 
-115
+113
 00:11:13,530 --> 00:11:15,820
 Stanotte c'è l'Aqua Laguna.
 
-116
+114
 00:11:15,820 --> 00:11:18,990
 Ad eccezione che con uno dei due viaggi 
 del treno marino rimanenti oggi
 
-117
+115
 00:11:18,990 --> 00:11:21,580
 non hanno modo di andarsene dall'isola,
 
-118
+116
 00:11:21,580 --> 00:11:24,580
 dato che non possono più usare la nave su cui erano.
 
-119
+117
 00:11:25,190 --> 00:11:27,680
 Dobbiamo raccogliere informazioni!
 
-120
+118
 00:11:27,680 --> 00:11:31,700
 Sguinzaglieremo tutti i membri 
 della Galley-La per l'isola
 
-121
+119
 00:11:31,700 --> 00:11:34,110
 e chiuderemo la storia prima del tramonto!
 
-122
+120
 00:11:46,520 --> 00:11:49,440
 Nonna! Nonna! Water Seven!
 
-123
+121
 00:11:51,700 --> 00:11:55,480
 Non agitarti troppo o cadrai in mare!
 
-124
+122
 00:12:07,520 --> 00:12:10,710
 Quello è il quartier generale della Galley-La, eh?
 
-125
+123
 00:12:10,710 --> 00:12:13,280
 È connessa con il Dock 1...
 
-126
+124
 00:12:13,280 --> 00:12:14,450
 Guarda!
 
-127
+125
 00:12:15,170 --> 00:12:18,130
 Ci sono un sacco di persone che sembrano giornalisti!
 
-128
+126
 00:12:18,130 --> 00:12:22,100
 E anche un sacco di carpentieri sono riuniti lì.
 
-129
+127
 00:12:22,610 --> 00:12:25,720
 Il signor Iceburg è sicuramente in quella villa.
 
-130
+128
 00:12:28,380 --> 00:12:29,440
 Vuoi andarci davvero?
 
-131
+129
 00:12:30,270 --> 00:12:31,730
 Mi sembra ovvio.
 
-132
+130
 00:12:31,730 --> 00:12:36,940
 Chiederò direttamente al vecchio Ice 
 perché ha detto che Robin è la colpevole!
 
-133
+131
 00:12:36,940 --> 00:12:42,570
 Te lo dico chiaramente: non dimenticarti 
 che ci stanno inseguendo per tutta l'isola!
 
-134
+132
 00:12:42,570 --> 00:12:46,460
 Dobbiamo prima capire bene
  qual è la stanza del signor Iceburg
 
-135
+133
 00:12:46,460 --> 00:12:48,790
 e poi cogliere l'occasione con attenzione...
 
-136
+134
 00:12:49,790 --> 00:12:51,130
 Allora, io vado!
 
-137
+135
 00:12:52,760 --> 00:12:53,650
 Ah?!
 
-138
+136
 00:12:56,640 --> 00:12:57,380
 Ehi!
 
-139
+137
 00:12:57,380 --> 00:12:58,590
 Pare che non si riesca a trovarlo!
 
-140
+138
 00:12:58,590 --> 00:12:59,590
 Eh?
 
-141
+139
 00:13:05,580 --> 00:13:06,890
 Chi è?!
 
-142
+140
 00:13:06,890 --> 00:13:08,640
 Ah– È lui!
 
-143
+141
 00:13:14,690 --> 00:13:16,440
 Si è rotta una finestra!
 
-144
+142
 00:13:16,440 --> 00:13:17,740
 Cos'è successo?!
 
-145
+143
 00:13:18,740 --> 00:13:20,320
 Un attacco!
 
-146
+144
 00:13:20,320 --> 00:13:25,490
 Luffy Cappello di Paglia si è 
 infiltrato nel quartier generale!
 
-147
+145
 00:13:25,490 --> 00:13:27,700
 Cosa?! Così in pieno giorno?!
 
-148
+146
 00:13:27,700 --> 00:13:29,960
 Non ci credo, 
 è tornato ancora al quartier generale?!
 
-149
+147
 00:13:30,620 --> 00:13:31,670
 Dov'è?!
 
-150
+148
 00:13:32,170 --> 00:13:34,130
 Salite le scale del mezzanino fino al terzo piano!
 
-151
+149
 00:13:34,130 --> 00:13:35,420
 E i capi squadra?!
 
-152
+150
 00:13:35,420 --> 00:13:39,090
 Stanno dando disposizioni a tutti i carpentieri dell'isola, 
 non c'è neanche uno di loro!
 
-153
+151
 00:13:40,020 --> 00:13:43,210
 Ha un cappello di paglia e un gilet rosso!
 
-154
+152
 00:13:43,210 --> 00:13:46,600
 Proteggete il signor Iceburg!
 
-155
+153
 00:13:47,210 --> 00:13:49,640
 – È Cappello di Paglia!
 – Cappello di Paglia!
 
-156
+154
 00:13:51,890 --> 00:13:53,020
 Da che parte è andato?!
 
-157
+155
 00:13:54,730 --> 00:13:56,360
 Dov'è?! Dov'è?!
 
-158
+156
 00:14:05,410 --> 00:14:08,140
 Idiota, non usare la pistola! Siamo all'interno!
 
-159
+157
 00:14:08,140 --> 00:14:10,660
 Il corpo del signor Iceburg ne risentirà!
 
-160
+158
 00:14:13,100 --> 00:14:16,710
 Sono spiacente, 
 all'esterno c'è molta confusione.
 
-161
+159
 00:14:16,710 --> 00:14:19,130
 Beh, che succede?
 
-162
+160
 00:14:19,810 --> 00:14:23,470
 Pare che Luffy Cappello di Paglia 
 si sia infiltrato in questa villa.
 
-163
+161
 00:14:25,930 --> 00:14:29,430
 Kalifa, ho un favore da chiederti...
 
-164
+162
 00:14:32,240 --> 00:14:33,150
 Eccolo!
 
-165
+163
 00:14:33,150 --> 00:14:34,560
 Maledizione!
 
-166
+164
 00:14:36,230 --> 00:14:38,440
 Woah! Quanta gente!
 
-167
+165
 00:14:38,440 --> 00:14:41,400
 È passato al secondo edificio! 
 Facciamo il giro dall'alto!
 
-168
+166
 00:14:47,950 --> 00:14:49,790
 Cappello di Paglia!
 
-169
+167
 00:14:53,580 --> 00:14:54,750
 Quella è...
 
-170
+168
 00:14:56,030 --> 00:14:59,210
 Signora Kalifa, il pirata è passato di qua?
 
-171
+169
 00:14:59,210 --> 00:15:03,820
 No, non è venuto. Piuttosto, 
 inseguitelo in modo più silenzioso!
 
-172
+170
 00:15:03,820 --> 00:15:06,370
 Il signor Iceburg sta ancora riposando.
 
-173
+171
 00:15:06,370 --> 00:15:07,590
 Sono terribilmente spiacente.
 
-174
+172
 00:15:07,590 --> 00:15:10,570
 Sembra che Cappello di Paglia 
 non sia ancora arrivato qui.
 
-175
+173
 00:15:10,570 --> 00:15:11,720
 Teniamo d'occhio la zona!
 
-176
+174
 00:15:11,720 --> 00:15:14,540
 Sicuramente punterà a questa stanza!
 
-177
+175
 00:15:25,300 --> 00:15:29,910
 Beh... Immagino tu voglia 
 qualcosa da me, moccioso pirata.
 
-178
+176
 00:15:29,910 --> 00:15:33,690
 Esatto! Grazie per avermi fatto chiamare.
 
-179
+177
 00:15:33,690 --> 00:15:38,190
 In mezzo a tutta questa confusione, 
 dubito tu sia venuto per uccidermi.
 
-180
+178
 00:15:38,190 --> 00:15:40,590
 Sono venuto per chiederti la verità!
 
-181
+179
 00:15:42,040 --> 00:15:45,380
 Ieri notte ho visto Nico Robin con i miei occhi.
 
-182
+180
 00:15:47,550 --> 00:15:51,150
 E, inoltre, lei è una tua compagna.
 
-183
+181
 00:15:51,150 --> 00:15:52,850
 Questa è la verità.
 
-184
+182
 00:15:52,850 --> 00:15:55,800
 Era... davvero Robin?!
 
-185
+183
 00:15:55,800 --> 00:15:57,550
 Non aprire la bocca!
 
-186
+184
 00:15:58,610 --> 00:16:01,980
 Le tue parole non hanno più potere.
 
-187
+185
 00:16:02,660 --> 00:16:05,320
 Il motivo per cui ti ho invitato qui è...
 
-188
+186
 00:16:05,320 --> 00:16:07,340
 perché ho un favore da chiederti.
 
-189
+187
 00:16:08,490 --> 00:16:12,330
 Fammi incontrare Nico Robin di nuovo qui e ora!
 
-190
+188
 00:16:14,540 --> 00:16:18,580
 Siamo arrivati! Siamo arrivati! 
 Nonna Kokoro, veloce, veloce!
 
-191
+189
 00:16:18,580 --> 00:16:20,750
 Non agitarti.
 
-192
+190
 00:16:24,170 --> 00:16:27,720
 Water Seven... Quanto tempo.
 
-193
+191
 00:16:27,720 --> 00:16:30,090
 Nonna! Veloce, veloce!
 
-194
+192
 00:16:30,090 --> 00:16:31,090
 Sì, sì...
 
-195
+193
 00:16:32,140 --> 00:16:36,270
 Per chi intende salire sul treno marino, 
 oggi le maschere solo vietate!
 
-196
+194
 00:16:36,980 --> 00:16:39,140
 Mi mostri il biglietto e il suo viso.
 
-197
+195
 00:16:39,140 --> 00:16:41,190
 Questo è il mio vero viso, il mio vero viso!
 
-198
+196
 00:16:42,400 --> 00:16:43,320
 Eh?
 
-199
+197
 00:16:43,900 --> 00:16:45,190
 Ehi, tu...
 
-200
+198
 00:16:45,190 --> 00:16:48,200
 Ah! Signora Kokoro, salve.
 
-201
+199
 00:16:48,200 --> 00:16:50,740
 Cos'è tutta quella confusione?
 
-202
+200
 00:16:50,740 --> 00:16:54,160
 Sì! Stiamo inseguendo gli autori 
 dell'attentato al sindaco Iceburg,
 
-203
+201
 00:16:54,160 --> 00:16:56,160
 la ciurma di Cappello di Paglia.
 
-204
+202
 00:16:56,160 --> 00:16:59,960
 L'assassinio di Iceburg? Ah!
 
-205
+203
 00:16:59,960 --> 00:17:02,130
 Che succede? Ah!
 
-206
+204
 00:17:02,790 --> 00:17:04,170
 Queste persone...
 
-207
+205
 00:17:07,670 --> 00:17:12,640
 Lo dirò un'altra volta! 
 Fammi incontrare Nico Robin!
 
-208
+206
 00:17:13,890 --> 00:17:16,220
 Quello... è impossibile.
 
-209
+207
 00:17:16,770 --> 00:17:18,680
 Non so dove sia Robin.
 
-210
+208
 00:17:26,360 --> 00:17:27,150
 Uno sparo!
 
-211
+209
 00:17:27,940 --> 00:17:29,440
 Viene dalla camera da letto!
 
-212
+210
 00:17:34,070 --> 00:17:36,330
 Signor Iceburg!
 
-213
+211
 00:17:42,580 --> 00:17:45,040
 S-Sta bene?
 
-214
+212
 00:17:45,630 --> 00:17:47,130
 Sì...
 
-215
+213
 00:17:47,800 --> 00:17:51,630
 Ho riposto una stupida speranza 
 nel potermi avvicinare alla verità.
 
-216
+214
 00:17:52,420 --> 00:17:55,410
 Catturate quell'intera ciurma!
 
-217
+215
 00:17:56,100 --> 00:17:57,640
 Ovviamente!
 
-218
+216
 00:18:01,520 --> 00:18:02,890
 Ehi, Luffy.
 
-219
+217
 00:18:02,890 --> 00:18:06,480
 Sei riuscito a parlare con il signor Iceburg?
 
-220
+218
 00:18:06,480 --> 00:18:09,650
 Sì. Dice di aver visto davvero Robin.
 
-221
+219
 00:18:09,650 --> 00:18:13,240
 Non può essere... Perché mai avrebbe 
 dovuto fare una cosa simile Robin...
 
-222
+220
 00:18:13,240 --> 00:18:14,950
 Io non ci credo!
 
-223
+221
 00:18:36,220 --> 00:18:37,800
 Ah, benvenuti.
 
-224
+222
 00:18:37,800 --> 00:18:40,890
 Au! Come vanno le cose, Blueno?
 
-225
+223
 00:18:40,890 --> 00:18:44,600
 Sono super?!
 
-226
+224
 00:18:46,860 --> 00:18:48,610
 Penso vadano bene.
 
-227
+225
 00:18:48,610 --> 00:18:52,030
 Che intendi con "penso"?! Che tipo vago che sei!
 
-228
+226
 00:18:52,690 --> 00:18:55,530
 Dammi il solito! Fai il pieno.
 
-229
+227
 00:18:56,160 --> 00:18:58,120
 Hai i soldi?
 
-230
+228
 00:18:58,120 --> 00:19:00,790
 Dai, rifornisci e basta! La cola!
 
-231
+229
 00:19:00,790 --> 00:19:06,290
 Ne hai di coraggio di gestire un locale in 
 modo così tirchio, spillando i soldi alla gente!
 
-232
+230
 00:19:06,290 --> 00:19:07,920
 I soldi li abbiamo.
 
-233
+231
 00:19:07,920 --> 00:19:10,340
 Ci rimane un milione dalle compere fatte!
 
-234
+232
 00:19:10,340 --> 00:19:11,550
 Cosa?!
 
-235
+233
 00:19:11,550 --> 00:19:14,010
 Ci sono rimasti così tanti dei soldi di ieri?!
 
-236
+234
 00:19:14,010 --> 00:19:16,470
 Che vergogna! Che figuraccia!
 
-237
+235
 00:19:16,470 --> 00:19:19,390
 Proprio io che rimango con dei soldi...!
 
-238
+236
 00:19:19,390 --> 00:19:20,930
 Ehi, dammeli!
 
-239
+237
 00:19:21,350 --> 00:19:24,640
 Au! Clienti! Che fortuna che avete!
 
-240
+238
 00:19:24,640 --> 00:19:28,310
 Tutto ciò che volete bere ve lo offro io!
 
-241
+239
 00:19:28,310 --> 00:19:31,150
 Bevete quanto volete!
 
-242
+240
 00:19:31,150 --> 00:19:35,200
 Oh! Grande Franky! Che animo generoso!
 
-243
+241
 00:19:35,200 --> 00:19:39,370
 Ottimo! Grazie, volto nascosto di Water Seven!
 
-244
+242
 00:19:39,370 --> 00:19:41,580
 Wow! Fantastico!
 
-245
+243
 00:19:41,580 --> 00:19:43,290
 Ehi, ce ne sono anche là!
 
-246
+244
 00:19:43,290 --> 00:19:45,540
 Ehi, Blueno! Non hai ancora fatto con la cola?!
 
-247
+245
 00:19:45,540 --> 00:19:47,830
 Che cavolo, datti una mossa!
 
-248
+246
 00:19:47,830 --> 00:19:50,790
 Sembra che ti vada tutto bene, eh, Franky?
 
-249
+247
 00:19:50,790 --> 00:19:51,710
 Ah?
 
-250
+248
 00:19:51,710 --> 00:19:52,590
 Ah!
 
-251
+249
 00:19:53,590 --> 00:19:56,470
 Sei la vecchia Kokoro! Che ci fai qui?!
 
-252
+250
 00:19:57,050 --> 00:20:00,010
 Pensavo fossi la statua di un mostro.
 
-253
+251
 00:20:02,760 --> 00:20:06,520
 Ehi, posso prendermi un altro succo, Franky?!
 
-254
+252
 00:20:06,520 --> 00:20:10,400
 Questo è un pub! Non è un posto per bambini!
 
-255
+253
 00:20:10,400 --> 00:20:12,070
 L'economia sembra andarti bene, no?
 
-256
+254
 00:20:12,070 --> 00:20:15,320
 Eh? Ho capito! Fa' come vuoi!
 
-257
+255
 00:20:15,320 --> 00:20:17,820
 Evviva! Succo!
 
-258
+256
 00:20:17,820 --> 00:20:21,950
 Che cavolo... L'economia mi andrà pure bene, 
 ma mi sento male. Malissimo.
 
-259
+257
 00:20:21,950 --> 00:20:26,500
 Questa settimana sono proprio di cattivo
  umore per colpa di quei pirati!
 
-260
+258
 00:20:26,500 --> 00:20:28,330
 Pieno di cola pronto!
 
-261
+259
 00:20:28,330 --> 00:20:29,920
 Oh! Proprio ciò che aspettavo!
 
-262
+260
 00:20:29,920 --> 00:20:33,630
 Carburante, carburante...
 
-263
+261
 00:20:36,340 --> 00:20:40,260
 Eccoci, eccoci, eccoci, eccoci!
 
-264
+262
 00:20:46,520 --> 00:20:49,270
 Super!
 
-265
+263
 00:20:50,600 --> 00:20:55,570
 Mi sento rinato! Gliela farò vedere io 
 quando rivedrò quel bastardo!
 
-266
+264
 00:20:55,570 --> 00:20:57,780
 Comunque, vecchia, che ci fai qui?!
 
-267
+265
 00:20:57,780 --> 00:21:00,410
 Sta per arrivare l'Aqua Laguna.
 
-268
+266
 00:21:00,410 --> 00:21:05,040
 Ah? Davvero? 
 Quindi per questo c'è un forte vento.
 
-269
+267
 00:21:05,040 --> 00:21:07,910
 Hai finito i preparativi a casa tua?
 
-270
+268
 00:21:07,910 --> 00:21:10,500
 No! Non ho più una casa!
 
-271
+269
 00:21:10,500 --> 00:21:13,920
 Sono senza pensieri dato che non può affondare!
 
-272
+270
 00:21:19,130 --> 00:21:23,550
 Pensavo di venire a bere con Iceburg oggi, 
 ma pare gli abbiano sparato.
 
-273
+271
 00:21:23,550 --> 00:21:25,470
 Sì, pare di sì.
 
-274
+272
 00:21:25,470 --> 00:21:29,890
 Dicono siano stati dei pirati e 
 quelli della Galley-La sono furiosi.
 
-275
+273
 00:21:29,890 --> 00:21:33,480
 "Siano stati dei pirati"?
 
-276
+274
 00:21:33,480 --> 00:21:36,320
 Lo pensi davvero?
 
-277
+275
 00:21:36,320 --> 00:21:38,240
 Sembra che tu ne sappia qualcosa.
 
-278
+276
 00:21:38,240 --> 00:21:40,570
 Non dire idiozie, vecchia.
 
-279
+277
 00:21:40,570 --> 00:21:45,280
 Iceburg è sempre stato perseguitato, no? 
 Dal Governo Mondiale.
 
-280
+278
 00:21:45,280 --> 00:21:50,620
 Eh?! Allora cosa?! Stai dicendo che è 
 stato quel funzionario del governo, Corgi?!
 
-281
+279
 00:21:50,620 --> 00:21:53,630
 Non è adatto a fare l'assassino quel panzone!
 
-282
+280
 00:21:53,630 --> 00:21:58,710
 No. Gli affari loschi sono eseguiti dal CP9.
 
-283
+281
 00:21:58,710 --> 00:22:00,590
 Lo conosci, Blueno?
 
-284
+282
 00:22:01,170 --> 00:22:02,630
 Ho sentito delle voci di corridoio.
 
-285
+283
 00:22:02,630 --> 00:22:08,970
 Che cavoli... La gente crede a queste voci assurde su 
 organizzazioni che non esistono e ne sono felici.
 
-286
+284
 00:22:08,970 --> 00:22:11,270
 Che sciocco. Esistono invece.
 
-287
+285
 00:22:11,270 --> 00:22:17,570
 Ma non si mostrano mai. Dopotutto sono 
 agenti segreti che si muovono nell'ombra.
 
-288
+286
 00:22:23,200 --> 00:22:26,660
 Perché ne sei così sicura? Sai qualcosa?
 
-289
+287
 00:22:28,030 --> 00:22:31,080
 È ciò che ho sentito dire!
 
-290
+288
 00:22:31,080 --> 00:22:33,000
 Ma quindi sono solo voci?!
 
-291
+289
 00:22:33,000 --> 00:22:34,920
 Ehi, non prendermi in–
 
-292
+290
 00:22:34,920 --> 00:22:38,550
 Ciò che fa paura è che si tratta di voci ricorrenti.
 
-293
+291
 00:22:39,130 --> 00:22:42,510
 A far sparire le persone senza 
 lasciare traccia sono loro.
 
-294
+292
 00:22:42,510 --> 00:22:45,680
 Se ti fai coinvolgere, sarà la fine.
 
-295
+293
 00:22:52,480 --> 00:22:57,110
 Ottimo lavoro. Per quanto riguarda 
 il compito di ieri, ben fatto.
 
-296
+294
 00:22:57,110 --> 00:22:59,650
 Ottimo lavoro, Nico Robin.
 
-297
+295
 00:23:03,820 --> 00:23:05,530
 Non è così.
 
-298
+296
 00:23:05,530 --> 00:23:10,490
 Ovviamente sei diventata ricercata in tutta la città.
 
-299
+297
 00:23:10,490 --> 00:23:12,250
 Già.
 
-300
+298
 00:23:12,250 --> 00:23:15,000
 Ma è solo una cosa temporanea.
 
-301
+299
 00:23:15,000 --> 00:23:18,670
 Ciò che conta sarà stanotte.
 
-302
+300
 00:23:19,540 --> 00:23:22,260
 Entrerai nuovamente nella villa di Iceburg.
 
-303
+301
 00:23:22,260 --> 00:23:27,550
 Nel peggiore dei casi, 
 non importa se cancellerai tutte le prove.
 
-304
+302
 00:23:28,050 --> 00:23:35,440
 Dopotutto l'unico discepolo attualmente in vita 
 dell'uomo detto Tom che lo possedeva in origine è Iceburg.
 
-305
+303
 00:23:35,440 --> 00:23:38,270
 Non importa quanto finga di non sapere,
 
-306
+304
 00:23:38,270 --> 00:23:42,190
 in nome del CP9, lo otterremo stanotte ad ogni costo.
 
-307
+305
 00:23:43,030 --> 00:23:47,530
 Tieni a mente che questa missione è
  per il bene della giustizia.
 
-308
+306
 00:16:12,410 --> 00:16:18,250
 Blue Station
+
+307
+00:16:12,410 --> 00:16:18,250
+Blue Station
+
+308
+00:18:16,370 --> 00:18:18,700
+Centro Città
+Water Seven
 
 309
-00:16:12,410 --> 00:16:18,250
-Blue Station
-
-310
 00:18:16,370 --> 00:18:18,700
 Centro Città
 Water Seven
 
-311
-00:18:16,370 --> 00:18:18,700
-Centro Città
-Water Seven

@@ -274,14 +274,6 @@ Jesus Burgess!
 00:14:59,190 --> 00:15:03,780
 ESCENA 1
 
-
-
-
-
-
-
-"COLISEO CORRIDA"
-
 69
 00:15:28,040 --> 00:15:30,580
 ¡E-Espera un momento, cálmate!
@@ -744,3 +736,4 @@ SUJETO: ONAMI
 183
 00:26:25,320 --> 00:26:28,430
 COLISEO CORRIDA
+

@@ -1936,73 +1936,37 @@ m 962 982 l 867.32 981.4 848.56 980.37 856.08 980.63 865.11 979.73 866.95 978.92
 00:14:06,950 --> 00:14:06,990
 Tenguyama Hitetsu
 
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
-
 451
 00:14:06,990 --> 00:14:07,030
 Tenguyama Hitetsu
-
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
 
 452
 00:14:07,030 --> 00:14:07,080
 Tenguyama Hitetsu
 
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
-
 453
 00:14:07,080 --> 00:14:07,120
 Tenguyama Hitetsu
-
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
 
 454
 00:14:07,120 --> 00:14:07,160
 Tenguyama Hitetsu
 
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
-
 455
 00:14:07,160 --> 00:14:09,660
 Tenguyama Hitetsu
-
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
 
 456
 00:14:09,660 --> 00:14:12,870
 Tenguyama Hitetsu
 
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
-
 457
 00:14:09,660 --> 00:14:12,870
 Tenguyama Hitetsu
 
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
-
 458
 00:14:09,660 --> 00:14:12,870
 Tenguyama Hitetsu
-
-Forgeron
-
-(Et Collectionneur de Poupées Kokeshi)
 
 459
 00:33:05,050 --> 00:33:05,090
@@ -2127,3 +2091,4 @@ Les rêves ne fuient pas, renverse-les tous !
 487
 00:01:38,200 --> 00:01:40,530
 Vers le sommet !
+

@@ -2002,8 +2002,6 @@ Manoir du village
 00:14:03,490 --> 00:14:06,490
 Kaya
 
-Propriétaire des lieux
-
 463
 00:14:06,530 --> 00:14:11,790
 Klahadoll
@@ -3598,3 +3596,4 @@ Friend?
 860
 00:01:41,940 --> 00:01:43,400
 Friend?
+

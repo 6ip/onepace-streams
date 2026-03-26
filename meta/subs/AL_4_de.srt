@@ -1,1556 +1,1554 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,930
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:53,180 --> 00:01:55,600
 Ein Tsunami!
 
-4
+2
 00:01:55,600 --> 00:01:56,800
 Was geht jetzt?
 
-5
+3
 00:01:56,800 --> 00:01:58,470
 Ein Tsunami kommt auf uns zu!
 
-6
+4
 00:01:58,470 --> 00:02:00,100
 Was ist los, Luffy?
 
-7
+5
 00:02:00,100 --> 00:02:02,650
 Vielleicht war das doch
 keine so gute Idee?
 
-8
+6
 00:02:02,650 --> 00:02:04,190
 Was soll keine gute
 Idee gewesen sein?
 
-9
+7
 00:02:04,190 --> 00:02:08,980
 Ich hab ihm gesagt, er soll’s lassen,
 aber er war einfach so durstig,
 
-10
+8
 00:02:08,980 --> 00:02:12,570
 dass er vorhin an irgendeinem
 Kaktus genuckelt hat.
 
-11
+9
 00:02:12,570 --> 00:02:13,860
 Ein Kaktus?
 
-12
+10
 00:02:13,860 --> 00:02:15,820
 Ja. Da drüben.
 
-13
+11
 00:02:16,200 --> 00:02:17,780
 Diese runden Dinger.
 
-14
+12
 00:02:18,530 --> 00:02:20,910
 Hä? Die sind übel!
 
-15
+13
 00:02:20,910 --> 00:02:24,830
 Das sind Mescal-Kakteen!
 Aus ihnen stellt man Halluzinogene her!
 
-16
+14
 00:02:24,830 --> 00:02:26,000
 Was?!
 
-17
+15
 00:02:26,920 --> 00:02:28,670
 Oh nein!
 
-18
+16
 00:02:28,670 --> 00:02:30,420
 Wir werden ertrinken!
 
-19
+17
 00:02:30,420 --> 00:02:33,550
 Na schön! Komm doch,
 wenn du dich traust!
 
-20
+18
 00:02:34,050 --> 00:02:36,510
 Ich mach euch alle platt!
 
-21
+19
 00:02:38,810 --> 00:02:40,470
 Das ist übel!
 
-22
+20
 00:02:40,470 --> 00:02:42,770
 Gum-Gum...
 
-23
+21
 00:02:45,230 --> 00:02:46,440
 Beruhigungsmittel!
 
-24
+22
 00:02:46,440 --> 00:02:47,940
 Gut gemacht, Chopper!
 
-25
+23
 00:02:49,440 --> 00:02:53,070
 Die Operation wird in zwei Tagen
 zur Mittagsstunde beginnen.
 
-26
+24
 00:02:53,070 --> 00:02:55,280
 Sind alle Vorbereitungen
 abgeschlossen?
 
-27
+25
 00:02:55,280 --> 00:02:57,530
 Ja. Alles verlief nach Plan.
 
-28
+26
 00:02:58,200 --> 00:03:02,370
 150 Billions halten sich
 in Nanohana bereit.
 
-29
+27
 00:03:02,870 --> 00:03:09,340
 Ich habe außerdem Mr. 2 zurückbeordert.
 Er konnte Mr. 3 offenbar nicht schnappen.
 
-30
+28
 00:03:10,340 --> 00:03:14,170
 Die Versammlung der Officer Agents...
 
-31
+29
 00:03:15,170 --> 00:03:17,590
 beginnt heute um acht
 Uhr im Spiders Café.
 
-32
+30
 00:03:20,010 --> 00:03:22,720
 Ja. Sehr gut.
 
-33
+31
 00:03:23,180 --> 00:03:25,730
 Es ist schon fünf Uhr durch.
 
-34
+32
 00:03:25,730 --> 00:03:29,690
 Sie sollten sich so
 langsam dort versammeln.
 
-35
+33
 00:03:47,960 --> 00:03:50,460
 Ja! Ja! Ja! Ja! Merry Christmas! Merry Christmas!
 
-36
+34
 00:03:50,460 --> 00:03:53,880
 Was für eine lange, anstrengende Reise!
 Mein Rücken bringt mich um!
 
-37
+35
 00:03:53,880 --> 00:03:55,900
 Also echt! Das ist allein
 deine Schuld, Mr. 4!
 
-38
+36
 00:03:55,900 --> 00:03:58,380
 Deine Lahmarschigkeit verstärkt
 meine Rückenschmerzen!
 
-39
+37
 00:03:58,840 --> 00:04:03,850
 Tut... mir...
 
-40
+38
 00:04:03,850 --> 00:04:05,180
 leid...
 
-41
+39
 00:04:03,850 --> 00:04:05,180
 Ja! Ja! Ja! Ja!
 
-42
+40
 00:04:05,180 --> 00:04:07,600
 Wie läuft das Geschäft,
 Paula? Heute ist ja nix los!
 
-43
+41
 00:04:07,600 --> 00:04:10,860
 Leerer Platz! Leer! Leer! Alles leer!
 
-44
+42
 00:04:11,360 --> 00:04:15,110
 Schön, euch wiederzusehen.
 Willkommen, Miss Merry Christmas,
 
-45
+43
 00:04:15,110 --> 00:04:16,320
 Mr. 4.
 
-46
+44
 00:04:16,940 --> 00:04:19,570
 Heute habt ihr den Laden ganz für euch.
 
-47
+45
 00:04:19,570 --> 00:04:22,450
 Ich könnte dir einen Orange Pekoe kochen.
 
-48
+46
 00:04:22,450 --> 00:04:26,080
 Für dich war das Apfeltee, oder, Mr. 4?
 
-49
+47
 00:04:26,080 --> 00:04:29,330
 Vergiss die Heißgetränke!
 Ich will sofort was trinken!
 
-50
+48
 00:04:29,330 --> 00:04:33,040
 Mach irgendwas Schnelles!
 Schnell! Fix! Dalli!
 
-51
+49
 00:04:33,040 --> 00:04:35,800
 Du bist ja quicklebendig.
 Wie läuft die Arbeit?
 
-52
+50
 00:04:35,800 --> 00:04:39,050
 Wer bei mir verkackt, stirbt!
 Es läuft also alles bestens!
 
-53
+51
 00:04:39,050 --> 00:04:42,050
 Du Abschaum! Abschaum! Ab! Ab! Ab!
 
-54
+52
 00:04:42,800 --> 00:04:45,640
 Du hast recht. Tut mir leid.
 
-55
+53
 00:04:46,020 --> 00:04:47,930
 ♪ Un, deux! ♪
 
-56
+54
 00:04:46,930 --> 00:04:47,930
 ♪ Ora! ♪
 
-57
+55
 00:04:47,930 --> 00:04:49,480
 ♪ Un, deux! ♪
 
-58
+56
 00:04:48,810 --> 00:04:49,480
 ♪ Krah! ♪
 
-59
+57
 00:04:49,850 --> 00:04:55,150
 Was zum Geier? Was für bekloppte
 Texte hat die Musik in deinem Laden?
 
-60
+58
 00:04:55,150 --> 00:04:59,990
 Texte? Nein, gerade
 spielt eine Sonate.
 
-61
+59
 00:04:59,990 --> 00:05:01,780
 Da wird nicht gesungen...
 
-62
+60
 00:05:02,240 --> 00:05:04,740
 ♪ Un, deux! ♪
 
-63
+61
 00:05:03,410 --> 00:05:04,740
 ♪ Ora! ♪
 
-64
+62
 00:05:05,830 --> 00:05:06,700
 ♪ Un, deux! ♪
 
-65
+63
 00:05:06,700 --> 00:05:07,870
 ♪ Krah! ♪
 
-66
+64
 00:05:07,870 --> 00:05:09,660
 ♪ Zeigt mit eurer Fingerspitze
 auf die Nase... ♪
 
-67
+65
 00:05:09,660 --> 00:05:11,710
 ♪ Un, deux! ♪
 
-68
+66
 00:05:10,790 --> 00:05:11,710
 ♪ Krah! ♪
 
-69
+67
 00:05:11,710 --> 00:05:13,540
 ♪ Schön auf die Zehenspitzen! ♪
 
-70
+68
 00:05:13,540 --> 00:05:15,340
 ♪ Un, deux! ♪
 
-71
+69
 00:05:14,290 --> 00:05:15,340
 ♪ Ora! ♪
 
-72
+70
 00:05:15,340 --> 00:05:18,630
 ♪ Bevor man geboren wird... ♪
 
-73
+71
 00:05:19,420 --> 00:05:22,470
 ♪ Lesson! Lesson! ♪
 
-74
+72
 00:05:23,850 --> 00:05:26,390
 ♪ Liebe... ♪
 
-75
+73
 00:05:26,930 --> 00:05:28,850
 ♪ und Mascara! ♪
 
-76
+74
 00:05:28,850 --> 00:05:33,350
 ♪ Mascara mit Nasenbluten! ♪
 
-77
+75
 00:05:33,350 --> 00:05:38,320
 – ♪ Ich bin selbstgemacht! ♪
  – ♪ Ich bin selbstgemacht! ♪
 
-78
+76
 00:05:38,320 --> 00:05:41,200
 ♪ Deshalb... ♪
 
-79
+77
 00:05:41,700 --> 00:05:43,870
 ♪ Lesson! ♪
 
-80
+78
 00:05:42,700 --> 00:05:43,870
 ♪ Lesson! ♪
 
-81
+79
 00:05:43,870 --> 00:05:46,200
 ♪ Lesson! ♪
 
-82
+80
 00:05:44,870 --> 00:05:46,200
 ♪ Lesson! ♪
 
-83
+81
 00:05:46,200 --> 00:05:49,040
 ♪ Okama way! ♪
 
-84
+82
 00:05:49,540 --> 00:05:51,160
 ♪ Und lächelt! ♪
 
-85
+83
 00:05:51,160 --> 00:05:52,620
 ♪ Oh, der Größte! ♪
 
-86
+84
 00:05:52,620 --> 00:05:54,040
 ♪ Der Größte! ♪
 
-87
+85
 00:05:53,460 --> 00:05:55,460
 ♪ Der Größte! ♪
 
-88
+86
 00:05:54,040 --> 00:05:55,460
 ♪ Der Größte! ♪
 
-89
+87
 00:05:56,040 --> 00:05:59,760
 – ♪ Okama way! ♪ 
 – ♪ Okama way! ♪
 
-90
+88
 00:06:05,300 --> 00:06:07,470
 Seid gegrüßt!
 
-91
+89
 00:06:07,470 --> 00:06:10,520
 Wie geht’s euch deux?
 
-92
+90
 00:06:10,520 --> 00:06:11,770
 Du bist ja mal blöde.
 
-93
+91
 00:06:11,770 --> 00:06:14,020
 Ich bin nicht blöde, Paula!
 
-94
+92
 00:06:14,020 --> 00:06:17,520
 Ich bin eben ein Tänzer!
 
-95
+93
 00:06:17,520 --> 00:06:19,190
 Ein Oktopar bitte!
 
-96
+94
 00:06:19,190 --> 00:06:20,110
 Oktopar?
 
-97
+95
 00:06:20,110 --> 00:06:22,070
 Komm mir nicht so!
 
-98
+96
 00:06:22,070 --> 00:06:24,700
 Ein Oktopus-Parfait! Das weiß doch jeder!
 
-99
+97
 00:06:26,410 --> 00:06:28,870
 Oh, ihr könnt jetzt gehen.
 
-100
+98
 00:06:28,870 --> 00:06:29,580
 – Jawohl!
 – Jawohl!
 
-101
+99
 00:06:29,910 --> 00:06:33,210
 Lasst eure Tanzübungen
 nicht schleifen!
 
-102
+100
 00:06:33,210 --> 00:06:34,290
 – Jawohl!
 – Jawohl!
 
-103
+101
 00:06:34,290 --> 00:06:36,250
 ♪ Un, deux! Un, deux... ♪
 
-104
+102
 00:06:36,250 --> 00:06:39,750
 Fettklops! Alte Schrulle!
 Ihr seid auch hier?
 
-105
+103
 00:06:39,750 --> 00:06:41,050
 Halt’s Maul!
 
-106
+104
 00:06:41,050 --> 00:06:44,010
 Sei leiser, mein armer Rücken!
 
-107
+105
 00:06:44,010 --> 00:06:45,930
 Ach ja, ach ja, ach ja.
 
-108
+106
 00:06:45,930 --> 00:06:51,220
 Da fällt mir ein, dass ja sogar Mr. 1
 und seine Partnerin mobilisiert wurden.
 
-109
+107
 00:06:51,220 --> 00:06:54,770
 Ich hab die noch nie getroffen,
 
-110
+108
 00:06:54,770 --> 00:06:56,810
 daher freu ich mich wie irre!
 
-111
+109
 00:07:08,450 --> 00:07:11,290
 Halte das stets in Ehren.
 
-112
+110
 00:07:11,830 --> 00:07:13,870
 Hä? Ist doch nur ein Stück Papier.
 
-113
+111
 00:07:13,870 --> 00:07:19,340
 Dieser Papierfetzen wird uns eines
 Tages wieder zusammenbringen.
 
-114
+112
 00:07:20,460 --> 00:07:21,840
 Willst du’s nicht?
 
-115
+113
 00:07:22,380 --> 00:07:23,800
 Doch.
 
-116
+114
 00:07:23,800 --> 00:07:26,430
 Ist doch normal,
 dass sich ein großer Bruder...
 
-117
+115
 00:07:27,930 --> 00:07:30,140
 um seinen schusseligen
 kleinen Bruder sorgt.
 
-118
+116
 00:07:30,600 --> 00:07:34,180
 Er macht euch sicher viel Arbeit,
 
-119
+117
 00:07:34,180 --> 00:07:35,940
 aber passt bitte gut auf ihn auf.
 
-120
+118
 00:07:43,030 --> 00:07:47,700
 Luffy, bei unserem nächsten Treffen
 sind wir beide erstklassige Piraten.
 
-121
+119
 00:08:09,680 --> 00:08:12,430
 Hey, Luffy...
 
-122
+120
 00:08:11,680 --> 00:08:12,430
 Was?
 
-123
+121
 00:08:12,430 --> 00:08:14,310
 Was hat dir dein Bruder mitgegeben?
 
-124
+122
 00:08:14,310 --> 00:08:15,890
 Keine Ahnung.
 
-125
+123
 00:08:16,640 --> 00:08:18,310
 Das ist bloß ein Papierfetzen.
 
-126
+124
 00:08:18,310 --> 00:08:19,690
 Nur ein Papierfetzen?
 
-127
+125
 00:08:19,690 --> 00:08:20,900
 Zeig mal her.
 
-128
+126
 00:08:22,400 --> 00:08:26,860
 Das ist echt nur ein Papierfetzen.
 Darauf steht nicht einmal was geschrieben.
 
-129
+127
 00:08:29,070 --> 00:08:30,490
 E-Ernsthaft?
 
-130
+128
 00:08:32,120 --> 00:08:34,410
 Ich weiß ja nicht so recht...
 
-131
+129
 00:08:38,410 --> 00:08:39,370
 Hey! Friss das nicht!
 
-132
+130
 00:08:40,750 --> 00:08:41,750
 Mensch!
 
-133
+131
 00:08:41,750 --> 00:08:43,380
 Gib mir deinen Hut, Luffy.
 
-134
+132
 00:08:43,380 --> 00:08:44,340
 Hä? Den hier?
 
-135
+133
 00:08:44,340 --> 00:08:48,260
 Wenn es so wichtig ist, werde ich
 es unter deine Hutschnur nähen.
 
-136
+134
 00:08:48,260 --> 00:08:50,340
 Oh! Toll! Näh es gut fest!
 
-137
+135
 00:08:50,340 --> 00:08:51,720
 Ja, ja!
 
-138
+136
 00:08:53,970 --> 00:08:55,310
 So, fertig!
 
-139
+137
 00:08:56,270 --> 00:08:57,270
 Bitte schön!
 
-140
+138
 00:08:57,270 --> 00:09:00,230
 Danke! Jetzt muss ich mir
 keine Sorgen mehr machen!
 
-141
+139
 00:09:00,230 --> 00:09:03,940
 Da steht doch nicht drauf.
 Wieso hebst du das überhaupt auf?
 
-142
+140
 00:09:04,570 --> 00:09:08,360
 Ace meinte, ich soll es aufheben,
 also mach ich das auch!
 
-143
+141
 00:09:08,820 --> 00:09:11,360
 Wo nimmst du nur
 dieses Vertrauen her?
 
-144
+142
 00:09:11,360 --> 00:09:13,240
 Na und? Passt doch!
 
-145
+143
 00:09:13,240 --> 00:09:18,080
 Ich weiß ja nicht...
 
-146
+144
 00:09:14,830 --> 00:09:18,080
 Jemand soll mich tragen...
 
-147
+145
 00:09:18,450 --> 00:09:23,290
 Oh! Die Nacht schreitet
 immer weiter voran!
 
-148
+146
 00:09:24,210 --> 00:09:26,710
 Gleich ist es wie vereinbart acht Uhr.
 
-149
+147
 00:09:36,390 --> 00:09:38,430
 Oh, mir ist langweilig!
 
-150
+148
 00:09:40,890 --> 00:09:43,400
 Vor lauter Langeweile
 dreh ich mich im Kreis.
 
-151
+149
 00:09:44,060 --> 00:09:46,650
 Ich dreh mich mal weiter!
 
-152
+150
 00:09:46,650 --> 00:09:48,360
 Aufhören! Da kriegt
 man ja Augenkrebs!
 
-153
+151
 00:09:48,360 --> 00:09:52,150
 Was ist dein Problem, alte Schrulle?
 Willst du dich prügeln?
 
-154
+152
 00:09:52,150 --> 00:09:53,740
 Wenn du willst, gerne!
 
-155
+153
 00:09:54,200 --> 00:09:57,700
 Kommt schon. Hört auf, ihr beiden.
 
-156
+154
 00:10:09,260 --> 00:10:11,920
 A-Aber! Was ist denn mit euch los?
 
-157
+155
 00:10:11,920 --> 00:10:13,970
 Wieso kommt ihr hier
 wieder angestürmt?
 
-158
+156
 00:10:13,970 --> 00:10:15,720
 N-Nein. Er war das...
 
-159
+157
 00:10:17,180 --> 00:10:20,560
 Oh. Die gehören zu dir?
 
-160
+158
 00:10:23,060 --> 00:10:26,610
 Sie haben sich in der
 Wüste verdächtig verhalten.
 
-161
+159
 00:10:26,610 --> 00:10:29,570
 Keine Sorge. Sie sind wohl kaum tot.
 
-162
+160
 00:10:29,570 --> 00:10:32,000
 Ihr scheint euch nahe zu stehen,
 
-163
+161
 00:10:32,000 --> 00:10:35,490
 aber lächerliche Freundschaften
 werden dein Verderben sein.
 
-164
+162
 00:10:35,490 --> 00:10:37,990
 Diese Männer sind
 meine Untergebenen!
 
-165
+163
 00:10:37,990 --> 00:10:39,870
 Hör auf, Mr. 2!
 
-166
+164
 00:10:42,410 --> 00:10:45,210
 Un, deux, Krah!
 
-167
+165
 00:10:46,470 --> 00:10:49,800
 Un, deux, Ora!
 
-168
+166
 00:10:53,260 --> 00:10:54,880
 Bold Change!
 
-169
+167
 00:10:54,880 --> 00:10:56,220
 Un! Deux!
 
-170
+168
 00:11:04,020 --> 00:11:06,020
 Was?
 
-171
+169
 00:11:06,020 --> 00:11:07,560
 Er ist durch die Wand durch?
 
-172
+170
 00:11:07,560 --> 00:11:09,730
 Nein! Er hat die Wand zerstört?
 
-173
+171
 00:11:12,480 --> 00:11:14,320
 Du möchtest offenbar sterben.
 
-174
+172
 00:11:15,650 --> 00:11:18,780
 Moment! Das reicht, Mr. 1!
 
-175
+173
 00:11:18,780 --> 00:11:23,620
 Halt mich nicht auf, Miss Doublefinger.
 Ich werde ihn töten.
 
-176
+174
 00:11:24,250 --> 00:11:27,290
 Halt! Lass mich los, Fettklops!
 
-177
+175
 00:11:27,290 --> 00:11:30,210
 Mr. 2! Komm mal wieder runter.
 
-178
+176
 00:11:30,210 --> 00:11:35,340
 Es ist jetzt acht Uhr.
 Alle Agents sollten hier sein.
 
-179
+177
 00:11:36,090 --> 00:11:40,600
 Ein Brief mit Befehlen ist im
 Spiders Café eingetroffen.
 
-180
+178
 00:11:43,220 --> 00:11:47,520
 Wir gehen nach Rainbase,
 der Stadt der Träume.
 
-181
+179
 00:11:47,520 --> 00:11:50,010
 Der Mann, den wir
 unseren Boss nennen
 
-182
+180
 00:11:50,010 --> 00:11:52,610
 und dessen Gesicht wir
 noch nie gesehen haben,...
 
-183
+181
 00:11:57,700 --> 00:11:59,410
 wartet dort auf uns.
 
-184
+182
 00:12:07,160 --> 00:12:11,420
 Sie sollten jetzt auf dem Weg
 hierher nach Rainbase sein.
 
-185
+183
 00:12:14,210 --> 00:12:16,420
 Ich habe ihnen Bunchi geschickt.
 
-186
+184
 00:12:16,420 --> 00:12:18,880
 Sie sollten irgendwann
 diese Nacht eintreffen.
 
-187
+185
 00:12:23,850 --> 00:12:28,350
 Wer hätte gedacht, dass du
 in echt Miss Doublefinger bist.
 
-188
+186
 00:12:30,350 --> 00:12:34,230
 Ich kann mich nicht erinnern,
 jemals das Gegenteil behauptet zu haben.
 
-189
+187
 00:12:34,900 --> 00:12:39,200
 Hast du einen Ersatz für die Billions,
 die in Nanohana besiegt wurden?
 
-190
+188
 00:12:40,030 --> 00:12:42,450
 Ich bin mit der Zuteilung
 des Ersatzes fertig.
 
-191
+189
 00:12:43,080 --> 00:12:48,910
 Ich habe die Kragenechsen geschickt,
 um die neuen Billions zu informieren.
 
-192
+190
 00:12:55,460 --> 00:12:59,010
 Verstehe. Alles läuft genau nach Plan.
 
-193
+191
 00:13:03,640 --> 00:13:06,390
 Da vorne! Ich sehe ein Licht!
 
-194
+192
 00:13:06,390 --> 00:13:08,520
 Haben wir es nach Yuba geschafft?
 
-195
+193
 00:13:08,520 --> 00:13:11,190
 Bei dem ganzen Sand seh ich nichts.
 
-196
+194
 00:13:12,020 --> 00:13:14,150
 Was ist das für ein Geräusch?
 
-197
+195
 00:13:16,280 --> 00:13:17,900
 Mit der Stadt stimmt irgendwas nicht!
 
-198
+196
 00:13:25,370 --> 00:13:26,740
 Ein Sandsturm!
 
-199
+197
 00:13:30,040 --> 00:13:33,080
 Die Stadt Yuba wird von einem
 Sandsturm heimgesucht!
 
-200
+198
 00:13:46,220 --> 00:13:47,680
 Das kann nicht sein...
 
-201
+199
 00:13:50,810 --> 00:13:52,980
 Sieht ja übel hier aus.
 
-202
+200
 00:13:52,980 --> 00:13:55,900
 Fast so wie in Elumalu.
 
-203
+201
 00:13:57,900 --> 00:13:59,150
 Wo ist das Wasser?
 
-204
+202
 00:13:59,780 --> 00:14:02,610
 Sollte das nicht eine
 Oasenstadt sein, Vivilein?
 
-205
+203
 00:14:03,110 --> 00:14:05,370
 Der Sand hat sich angehäuft.
 
-206
+204
 00:14:06,120 --> 00:14:08,580
 Die Oase wurde verschüttet.
 
-207
+205
 00:14:13,920 --> 00:14:16,040
 Seid ihr Reisende?
 
-208
+206
 00:14:16,960 --> 00:14:21,090
 Ihr müsst von der Reise durch
 die Wüste erschöpft sein.
 
-209
+207
 00:14:22,590 --> 00:14:27,050
 Tut mir leid. Diese Stadt ist
 ein wenig ausgetrocknet.
 
-210
+208
 00:14:28,310 --> 00:14:31,430
 Aber ihr dürft gerne hier übernachten.
 
-211
+209
 00:14:34,310 --> 00:14:37,020
 Hier gibt es viele Gasthäuser.
 
-212
+210
 00:14:37,020 --> 00:14:40,820
 Sie sind der ganze Stolz dieser Stadt.
 
-213
+211
 00:14:42,190 --> 00:14:43,990
 Ähm, wir sind hier, weil wir hörten,
 
-214
+212
 00:14:43,990 --> 00:14:46,490
 die Rebellenarmee würde
 in dieser Stadt sein.
 
-215
+213
 00:14:47,070 --> 00:14:49,410
 Was habt ihr mit der
 Rebellenarmee zu schaffen?
 
-216
+214
 00:14:49,410 --> 00:14:55,080
 Fahrt zur Hölle! Sagt bloß, ihr wollt
 euch dieser Rebellion anschließen?
 
-217
+215
 00:14:59,090 --> 00:15:03,720
 Diese Narren, die ihr sucht,
 haben längst das Weite gesucht.
 
-218
+216
 00:15:03,720 --> 00:15:06,760
 Bitte was?
 
-219
+217
 00:15:06,760 --> 00:15:08,220
 Nein!
 
-220
+218
 00:15:09,100 --> 00:15:15,980
 Ein Sandsturm hat gerade die Stadt erwischt,
 aber das gewiss nicht der erste.
 
-221
+219
 00:15:15,980 --> 00:15:20,650
 Der Sand ist nach drei Jahren
 der Dürre ausgetrocknet
 
-222
+220
 00:15:20,650 --> 00:15:25,320
 und die Sandstürme fegen seitdem
 regelmäßig über die Stadt her.
 
-223
+221
 00:15:25,320 --> 00:15:32,580
 Nach und nach wurde die Oase
 verschlungen und nun sieht’s hier so aus.
 
-224
+222
 00:15:32,580 --> 00:15:36,420
 Als die Stadt keine
 Vorräte mehr bekam,
 
-225
+223
 00:15:36,420 --> 00:15:40,000
 waren selbst Bemühungen
 der Rebellen fruchtlos.
 
-226
+224
 00:15:40,000 --> 00:15:45,050
 Daher ist die Rebellenarmee
 nach Katorea gezogen.
 
-227
+225
 00:15:45,800 --> 00:15:47,260
 Katorea?!
 
-228
+226
 00:15:47,260 --> 00:15:50,930
 Wo ist das, Vivi?
 Ist Katorea in der Nähe?
 
-229
+227
 00:15:50,930 --> 00:15:53,470
 Das ist die Oase neben Nanohana.
 
-230
+228
 00:15:54,100 --> 00:15:57,520
 Wieso sind wir dann den
 weiten Weg hergekommen?
 
-231
+229
 00:15:58,150 --> 00:15:59,400
 Vivi?
 
-232
+230
 00:15:59,400 --> 00:16:00,730
 Habt ihr gerade „Vivi“ gesagt?
 
-233
+231
 00:16:01,190 --> 00:16:05,400
 Moment, Alter! Vivi ist nicht die Prinzessin!
 
-234
+232
 00:16:03,730 --> 00:16:05,400
 Verrat ihm das doch nicht, du Depp!
 
-235
+233
 00:16:07,150 --> 00:16:09,990
 Vivilein? Bist du das?
 
-236
+234
 00:16:11,120 --> 00:16:15,160
 Du lebst! So ein Glück!
 
-237
+235
 00:16:15,550 --> 00:16:18,670
 Ich bin es. Erkennst
 du mich nicht wieder?
 
-238
+236
 00:16:19,420 --> 00:16:23,420
 Ich kann’s dir nicht verübeln. Ich habe
 ganz schön an Gewicht verloren...
 
-239
+237
 00:16:24,000 --> 00:16:25,760
 Onkel Toto?
 
-240
+238
 00:16:28,630 --> 00:16:30,090
 Genau!
 
-241
+239
 00:16:34,470 --> 00:16:35,890
 Unmöglich...
 
-242
+240
 00:16:41,770 --> 00:16:45,280
 Nun, Vivilein. Somit
 verabschieden wir uns erst mal.
 
-243
+241
 00:16:45,780 --> 00:16:48,860
 Besuch uns doch mal, sobald die
 Stadt Form angenommen hat.
 
-244
+242
 00:16:48,860 --> 00:16:51,200
 Ist gut, Onkel Toto!
 
-245
+243
 00:16:53,370 --> 00:16:57,410
 Yuba wird dieses Land
 noch reicher machen.
 
-246
+244
 00:17:00,580 --> 00:17:01,670
 Ganz sicher.
 
-247
+245
 00:17:11,390 --> 00:17:13,600
 Onkel Toto?
 
-248
+246
 00:17:13,600 --> 00:17:19,430
 Vivilein, ich glaube an Seine Majestät.
 
-249
+247
 00:17:22,310 --> 00:17:26,610
 Er ist niemand, der das
 Königreich verraten würde.
 
-250
+248
 00:17:26,610 --> 00:17:28,320
 Meinst du nicht auch?
 
-251
+249
 00:17:58,140 --> 00:18:00,850
 Diese Rebellion ist doch albern!
 
-252
+250
 00:18:02,390 --> 00:18:04,900
 Diese Narren...
 
-253
+251
 00:18:05,480 --> 00:18:09,570
 Tschüss, Vivi! Wachse zu
 einer tollen Prinzessin heran!
 
-254
+252
 00:18:45,060 --> 00:18:46,360
 Unser Dorf...
 
-255
+253
 00:18:46,360 --> 00:18:48,110
 Unser Dorf ist ausgetrocknet!
 
-256
+254
 00:18:48,110 --> 00:18:50,440
 Wieso helft Ihr uns nicht?
 
-257
+255
 00:18:51,110 --> 00:18:54,320
 Das Wetter ist das Werk der Götter.
 
-258
+256
 00:18:54,320 --> 00:18:59,740
 Ich mag der König sein, aber über die
 Naturgewalten habe ich keine Macht.
 
-259
+257
 00:19:00,410 --> 00:19:04,080
 Mein Vater meinte,
 der König könne einfach alles!
 
-260
+258
 00:19:04,460 --> 00:19:08,460
 Ich kann nur tun, was ein
 Mensch bewerkstelligen ka…
 
-261
+259
 00:19:08,460 --> 00:19:11,550
 Eure Majestät! Der Vater dieses
 Jungen ist in den Palast gekommen!
 
-262
+260
 00:19:11,550 --> 00:19:14,340
 Ich bin untröstlich, Eure Majestät!
 
-263
+261
 00:19:14,340 --> 00:19:16,340
 Verzeiht meinem verzogenen Bengel!
 
-264
+262
 00:19:16,340 --> 00:19:18,350
 Ich übernehme die
 volle Verantwortung!
 
-265
+263
 00:19:18,970 --> 00:19:23,310
 Ich akzeptiere jede Strafe!
 Bitte! Ich flehe Euch an!
 
-266
+264
 00:19:23,310 --> 00:19:26,770
 Unfassbar, was du doch
 für ein Trottel bist!
 
-267
+265
 00:19:26,770 --> 00:19:31,230
 Du Trottel! Du Trottel!
 Du Trottel! Du Trottel!
 
-268
+266
 00:19:31,230 --> 00:19:34,440
 Toto, nicht wahr
 
-269
+267
 00:19:34,440 --> 00:19:35,490
 Jawohl!
 
-270
+268
 00:19:35,950 --> 00:19:39,450
 Das Königreich wird vorübergehend
 das Auskommen der Bürger garantieren,
 
-271
+269
 00:19:39,450 --> 00:19:41,450
 die von der Dürre betroffen sind.
 
-272
+270
 00:19:41,450 --> 00:19:46,920
 Ihr könnt hier in Alubarna leben
 und Pläne für die Zukunft schmieden.
 
-273
+271
 00:19:46,920 --> 00:19:52,590
 Oh! Welch Güte! Danke! Danke!
 
-274
+272
 00:19:53,630 --> 00:19:57,300
 Pah! Als ob Ihr die Gefühle
 Eurer Bürger verstehen würdet!
 
-275
+273
 00:19:57,970 --> 00:20:00,300
 Warte, Koza! Komm zurück!
 
-276
+274
 00:20:02,560 --> 00:20:03,560
 Toto.
 
-277
+275
 00:20:03,560 --> 00:20:04,680
 Jawohl!
 
-278
+276
 00:20:05,930 --> 00:20:10,650
 Er ist ein guter Junge. Er hat die
 Gefühle der Dorfbewohner ausgesprochen.
 
-279
+277
 00:20:10,650 --> 00:20:16,610
 Er ist zum Wohle der
 Dorfbewohner hier hereingestürmt.
 
-280
+278
 00:20:20,620 --> 00:20:22,030
 Hmpf! Heulsuse!
 
-281
+279
 00:20:25,540 --> 00:20:27,250
 Wie bitte, du Zwerg?
 
-282
+280
 00:20:28,460 --> 00:20:29,580
 König Cobra.
 
-283
+281
 00:20:30,080 --> 00:20:31,380
 Was denn, Igaram?
 
-284
+282
 00:20:31,380 --> 00:20:32,540
 Bei allem Respekt...
 
-285
+283
 00:20:33,040 --> 00:20:37,470
 Das Königreich besitzt nicht genügend
 Geld, um alle zu unterstützen.
 
-286
+284
 00:20:37,470 --> 00:20:38,880
 Du Trottel!
 
-287
+285
 00:20:38,880 --> 00:20:43,100
 Dann kürzen wir halt unseren
 eigenen Lebensunterhalt!
 
-288
+286
 00:20:43,100 --> 00:20:45,850
 Verstanden. Wie Ihr wünscht.
 
-289
+287
 00:20:46,640 --> 00:20:49,770
 Es ist schrecklich, Eure Majestät!
 Es geht um Prinzessin Vivi!
 
-290
+288
 00:20:52,980 --> 00:20:55,280
 Hab mich geprügelt. Hab verloren.
 
-291
+289
 00:20:55,280 --> 00:20:57,610
 Vivi!
 
-292
+290
 00:20:56,280 --> 00:20:57,610
 Prinzessin Vivi!
 
-293
+291
 00:20:57,610 --> 00:21:00,950
 Dieser kleine Wicht! Der wagt es,
 eine Prinzessin zu verletzen?!
 
-294
+292
 00:21:00,950 --> 00:21:04,580
 Den mach ich platt!
 
-295
+293
 00:21:02,700 --> 00:21:04,580
 Warte! Warte, Igaram!
 
-296
+294
 00:21:04,580 --> 00:21:07,540
 Es tut mir schrecklich leid!
 
-297
+295
 00:21:07,540 --> 00:21:10,250
 Zur Wiedergutmachung
 bringe ich mich um!
 
-298
+296
 00:21:10,250 --> 00:21:13,880
 Es reicht, ihr beiden!
 
-299
+297
 00:21:16,670 --> 00:21:20,630
 Trottel! Das war ein
 Streit unter Kindern!
 
-300
+298
 00:21:28,770 --> 00:21:29,980
 Willkommen!
 
-301
+299
 00:21:29,980 --> 00:21:32,850
 Treten Sie näher!
 
-302
+300
 00:21:29,980 --> 00:21:32,850
 Kämpft! Kämpft!
 
-303
+301
 00:21:33,980 --> 00:21:35,980
 Schon sie nicht, nur weil
 sie eine Prinzessin ist!
 
-304
+302
 00:21:35,980 --> 00:21:38,740
 Erteil dieser frechen
 Prinzessin eine Lektion!
 
-305
+303
 00:21:38,740 --> 00:21:41,110
 Du packst das, Vivilein!
 
-306
+304
 00:21:41,110 --> 00:21:44,620
 Hey! Koza ist doch unser Anführer!
 
-307
+305
 00:21:48,330 --> 00:21:52,250
 Wenn ich gewinne,
 werde ich euer Anführer!
 
-308
+306
 00:21:53,000 --> 00:21:55,340
 Als ob ich gegen dich
 verlieren würde, du Zwerg!
 
-309
+307
 00:21:55,790 --> 00:21:58,550
 Ich war schon immer der
 Anführer in unserem Dorf!
 
-310
+308
 00:22:00,380 --> 00:22:01,880
 Auf geht’s!
 
-311
+309
 00:22:17,860 --> 00:22:19,320
 Hergehört, Leute!
 
-312
+310
 00:22:19,730 --> 00:22:23,610
 Ab heute ist Vivi die
 Vize-Anführerin der Wüstenkids!
 
-313
+311
 00:22:23,610 --> 00:22:25,320
 Hat damit jemand ein Problem?
 
-314
+312
 00:22:25,320 --> 00:22:27,830
 – Nein!
 – Nein!
 
-315
+313
 00:22:29,040 --> 00:22:30,660
 Sieh nur, Igaram.
 
-316
+314
 00:22:31,290 --> 00:22:33,670
 Vivi hat Freunde gefunden.
 
-317
+315
 00:22:34,290 --> 00:22:35,250
 Ja.
 
-318
+316
 00:22:35,250 --> 00:22:37,880
 Das ist sehr wichtig,
 
-319
+317
 00:22:37,880 --> 00:22:42,130
 wenn sie eines Tages das Schicksal
 Alabastas auf ihren Schultern tragen soll.
 
-320
+318
 00:22:50,810 --> 00:22:53,560
 Onkel Toto! Tantchen! Guten Morgen!
 
-321
+319
 00:22:53,560 --> 00:22:54,640
 Wo ist der Anführer?
 
-322
+320
 00:22:54,640 --> 00:22:58,650
 Oh, guten Morgen. Wenn du nach
 Koza suchst, der ist schon weg.
 
-323
+321
 00:22:59,110 --> 00:23:00,980
 Der ist bestimmt am
 üblichen Treffpunkt.
 
-324
+322
 00:23:00,980 --> 00:23:02,440
 Bis dann!
 
-325
+323
 00:23:02,820 --> 00:23:05,910
 Oh, Vivilein! Was ist
 mit dem Abendessen?
 
-326
+324
 00:23:05,910 --> 00:23:08,120
 Ich esse mit euch! Danke!
 
-327
+325
 00:23:09,240 --> 00:23:11,750
 Was für ein seltsames
 Land das doch ist.
 
-328
+326
 00:23:11,750 --> 00:23:16,080
 Die Prinzessin eines Königreichs
 gibt sich mit Bürgern wie uns ab.
 
-329
+327
 00:23:16,080 --> 00:23:18,080
 Das ist ein Zeichen des Friedens.
 
-330
+328
 00:23:19,250 --> 00:23:21,550
 Herr Igaram. Möchten
 Sie mit uns essen?
 
-331
+329
 00:23:21,550 --> 00:23:24,220
 Nein, nein, alles gut. Ich habe
 ein paar Reisbällchen dabei.
 
-332
+330
 00:23:24,220 --> 00:23:25,430
 Nun, ich empfehle mich!
 
-333
+331
 00:23:34,310 --> 00:23:36,980
 Eure Majestät! Was treibt Ihr hier?
 
-334
+332
 00:23:38,440 --> 00:23:39,690
 Majestät!
 
-335
+333
 00:23:41,150 --> 00:23:43,490
 Ihr verfolgt mich schon wieder?
 
-336
+334
 00:23:43,490 --> 00:23:48,450
 A-Aber ich bin so
 um Vivilein besorgt...
 
-337
+335
 00:23:49,990 --> 00:23:53,330
 Geht heim! Ihr macht mir
 nur noch mehr Arbeit!
 
-338
+336
 00:23:53,330 --> 00:23:54,960
 Was?!
 
-339
+337
 00:23:54,960 --> 00:23:57,790
 Nun kommt mir nicht so!
 
-340
+338
 00:24:11,260 --> 00:24:13,430
 Hey, Mädel!
 
-341
+339
 00:24:13,430 --> 00:24:16,560
 Alleine unterwegs?
 Möchtest du uns begleiten?
 
-342
+340
 00:24:19,350 --> 00:24:21,610
 Angriff, Wüstenkids!
 
-343
+341
 00:24:23,940 --> 00:24:27,110
 Was wollen die ganzen Blagen?
 Sind die immer noch nicht tot?
 
-344
+342
 00:24:27,820 --> 00:24:28,990
 Anführer! Leute!
 
-345
+343
 00:24:28,990 --> 00:24:32,660
 Lauf, Vivi! Diese Kerle haben
 es auf dich abgesehen!
 
-346
+344
 00:24:32,660 --> 00:24:34,740
 Hau schnell ab, Vivi!
 
-347
+345
 00:24:34,740 --> 00:24:36,040
 Sie werden dich noch töten!
 
-348
+346
 00:24:36,040 --> 00:24:37,910
 Aber Anführer!
 
-349
+347
 00:24:40,500 --> 00:24:42,210
 Dich töten wir nicht.
 
-350
+348
 00:24:42,210 --> 00:24:46,170
 Wir wollen für dich Lösegeld kassieren,
 also entführen wir dich nur!
 
-351
+349
 00:24:47,880 --> 00:24:48,840
 Scheiße!
 
-352
+350
 00:24:49,840 --> 00:24:52,680
 Komm brav her, Prinzessin Vivi!
 
-353
+351
 00:24:57,860 --> 00:24:59,390
 Ich werde sie euch nicht überlassen!
 
-354
+352
 00:24:59,390 --> 00:25:01,940
 Beschützt sie mit eurem
 Leben, Wüstenkids!
 
-355
+353
 00:25:01,940 --> 00:25:03,110
 – Jawohl!
 – Jawohl!
+
+354
+00:03:18,680 --> 00:03:22,720
+Spiders Cafe,
+Baroque-Firma Hauptquartier
+Königreich Alabasta
+
+355
+00:03:18,680 --> 00:03:22,720
+Spiders Cafe,
+Baroque-Firma Hauptquartier
+Königreich Alabasta
 
 356
 00:03:18,680 --> 00:03:22,720
@@ -1559,16 +1557,14 @@ Baroque-Firma Hauptquartier
 Königreich Alabasta
 
 357
-00:03:18,680 --> 00:03:22,720
-Spiders Cafe,
-Baroque-Firma Hauptquartier
-Königreich Alabasta
+00:03:53,880 --> 00:03:58,380
+Miss Merry Christmas
+Officer Agent, Baroque-Firma
 
 358
-00:03:18,680 --> 00:03:22,720
-Spiders Cafe,
-Baroque-Firma Hauptquartier
-Königreich Alabasta
+00:03:53,880 --> 00:03:58,380
+Miss Merry Christmas
+Officer Agent, Baroque-Firma
 
 359
 00:03:53,880 --> 00:03:58,380
@@ -1576,13 +1572,13 @@ Miss Merry Christmas
 Officer Agent, Baroque-Firma
 
 360
-00:03:53,880 --> 00:03:58,380
-Miss Merry Christmas
+00:03:58,380 --> 00:04:03,350
+Mr. 4
 Officer Agent, Baroque-Firma
 
 361
-00:03:53,880 --> 00:03:58,380
-Miss Merry Christmas
+00:03:58,380 --> 00:04:03,350
+Mr. 4
 Officer Agent, Baroque-Firma
 
 362
@@ -1591,14 +1587,14 @@ Mr. 4
 Officer Agent, Baroque-Firma
 
 363
-00:03:58,380 --> 00:04:03,350
-Mr. 4
-Officer Agent, Baroque-Firma
+00:04:16,320 --> 00:04:26,080
+Paula, Eigentümerin,
+Spiders Cafe
 
 364
-00:03:58,380 --> 00:04:03,350
-Mr. 4
-Officer Agent, Baroque-Firma
+00:04:16,320 --> 00:04:26,080
+Paula, Eigentümerin,
+Spiders Cafe
 
 365
 00:04:16,320 --> 00:04:26,080
@@ -1606,14 +1602,14 @@ Paula, Eigentümerin,
 Spiders Cafe
 
 366
-00:04:16,320 --> 00:04:26,080
-Paula, Eigentümerin,
-Spiders Cafe
+00:10:22,520 --> 00:10:35,490
+Mr. 1
+Officer Agent, Baroque-Firma
 
 367
-00:04:16,320 --> 00:04:26,080
-Paula, Eigentümerin,
-Spiders Cafe
+00:10:22,520 --> 00:10:35,490
+Mr. 1
+Officer Agent, Baroque-Firma
 
 368
 00:10:22,520 --> 00:10:35,490
@@ -1621,14 +1617,16 @@ Mr. 1
 Officer Agent, Baroque-Firma
 
 369
-00:10:22,520 --> 00:10:35,490
-Mr. 1
-Officer Agent, Baroque-Firma
+00:12:11,460 --> 00:12:16,550
+Bunchi
+Geländegängige Transportschildkröte
+Baroque-Firma
 
 370
-00:10:22,520 --> 00:10:35,490
-Mr. 1
-Officer Agent, Baroque-Firma
+00:12:11,460 --> 00:12:16,550
+Bunchi
+Geländegängige Transportschildkröte
+Baroque-Firma
 
 371
 00:12:11,460 --> 00:12:16,550
@@ -1637,16 +1635,14 @@ Geländegängige Transportschildkröte
 Baroque-Firma
 
 372
-00:12:11,460 --> 00:12:16,550
-Bunchi
-Geländegängige Transportschildkröte
-Baroque-Firma
+00:12:28,350 --> 00:12:34,230
+Miss Doublefinger
+Officer Agent, Baroque-Firma
 
 373
-00:12:11,460 --> 00:12:16,550
-Bunchi
-Geländegängige Transportschildkröte
-Baroque-Firma
+00:12:28,350 --> 00:12:34,230
+Miss Doublefinger
+Officer Agent, Baroque-Firma
 
 374
 00:12:28,350 --> 00:12:34,230
@@ -1654,14 +1650,16 @@ Miss Doublefinger
 Officer Agent, Baroque-Firma
 
 375
-00:12:28,350 --> 00:12:34,230
-Miss Doublefinger
-Officer Agent, Baroque-Firma
+00:12:48,960 --> 00:12:51,250
+Kragenechsen
+Urgent Delivery Force
+Baroque-Firma
 
 376
-00:12:28,350 --> 00:12:34,230
-Miss Doublefinger
-Officer Agent, Baroque-Firma
+00:12:48,960 --> 00:12:51,250
+Kragenechsen
+Urgent Delivery Force
+Baroque-Firma
 
 377
 00:12:48,960 --> 00:12:51,250
@@ -1670,16 +1668,14 @@ Urgent Delivery Force
 Baroque-Firma
 
 378
-00:12:48,960 --> 00:12:51,250
-Kragenechsen
-Urgent Delivery Force
-Baroque-Firma
+00:13:47,970 --> 00:13:56,650
+Yuba Oase
+Königreich Alabasta
 
 379
-00:12:48,960 --> 00:12:51,250
-Kragenechsen
-Urgent Delivery Force
-Baroque-Firma
+00:13:47,970 --> 00:13:56,650
+Yuba Oase
+Königreich Alabasta
 
 380
 00:13:47,970 --> 00:13:56,650
@@ -1687,14 +1683,14 @@ Yuba Oase
 Königreich Alabasta
 
 381
-00:13:47,970 --> 00:13:56,650
-Yuba Oase
-Königreich Alabasta
+00:14:33,560 --> 00:14:41,530
+Toto
+Ein Mann von Yuba
 
 382
-00:13:47,970 --> 00:13:56,650
-Yuba Oase
-Königreich Alabasta
+00:14:33,560 --> 00:14:41,530
+Toto
+Ein Mann von Yuba
 
 383
 00:14:33,560 --> 00:14:41,530
@@ -1702,14 +1698,14 @@ Toto
 Ein Mann von Yuba
 
 384
-00:14:33,560 --> 00:14:41,530
-Toto
-Ein Mann von Yuba
+00:18:21,580 --> 00:18:26,250
+Königreich Alabasta
+Vor 11 Jahren
 
 385
-00:14:33,560 --> 00:14:41,530
-Toto
-Ein Mann von Yuba
+00:18:21,580 --> 00:18:26,250
+Königreich Alabasta
+Vor 11 Jahren
 
 386
 00:18:21,580 --> 00:18:26,250
@@ -1717,14 +1713,14 @@ Königreich Alabasta
 Vor 11 Jahren
 
 387
-00:18:21,580 --> 00:18:26,250
-Königreich Alabasta
-Vor 11 Jahren
+00:18:47,150 --> 00:18:50,440
+Koza
+Ein Stadtjunge
 
 388
-00:18:21,580 --> 00:18:26,250
-Königreich Alabasta
-Vor 11 Jahren
+00:18:47,150 --> 00:18:50,440
+Koza
+Ein Stadtjunge
 
 389
 00:18:47,150 --> 00:18:50,440
@@ -1732,14 +1728,14 @@ Koza
 Ein Stadtjunge
 
 390
-00:18:47,150 --> 00:18:50,440
-Koza
-Ein Stadtjunge
+00:19:14,380 --> 00:19:18,350
+Toto, der Vater des Jungen
+(Der Mann von Yuba)
 
 391
-00:18:47,150 --> 00:18:50,440
-Koza
-Ein Stadtjunge
+00:19:14,380 --> 00:19:18,350
+Toto, der Vater des Jungen
+(Der Mann von Yuba)
 
 392
 00:19:14,380 --> 00:19:18,350
@@ -1747,35 +1743,26 @@ Toto, der Vater des Jungen
 (Der Mann von Yuba)
 
 393
-00:19:14,380 --> 00:19:18,350
-Toto, der Vater des Jungen
-(Der Mann von Yuba)
+00:21:20,680 --> 00:21:27,810
+Hauptstadt, Alubarna
 
 394
-00:19:14,380 --> 00:19:18,350
-Toto, der Vater des Jungen
-(Der Mann von Yuba)
+00:21:20,680 --> 00:21:27,810
+Hauptstadt, Alubarna
 
 395
 00:21:20,680 --> 00:21:27,810
 Hauptstadt, Alubarna
 
 396
-00:21:20,680 --> 00:21:27,810
-Hauptstadt, Alubarna
+00:21:27,850 --> 00:21:29,980
+Stadtrand
 
 397
-00:21:20,680 --> 00:21:27,810
-Hauptstadt, Alubarna
+00:21:27,850 --> 00:21:29,980
+Stadtrand
 
 398
 00:21:27,850 --> 00:21:29,980
 Stadtrand
 
-399
-00:21:27,850 --> 00:21:29,980
-Stadtrand
-
-400
-00:21:27,850 --> 00:21:29,980
-Stadtrand

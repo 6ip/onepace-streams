@@ -372,16 +372,3 @@ Unamos todos nuestros deseos en uno solo.
 00:02:25,090 --> 00:02:29,870
 ¡Levanten las manos!
 
-93
-00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-94
-00:02:25,660 --> 00:02:35,710
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io

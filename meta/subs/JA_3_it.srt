@@ -1,1217 +1,1204 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:01:55,300 --> 00:02:05,290
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:02:00,020 --> 00:02:01,770
 Ehi, guarda! Si rialzano ancora.
 
-4
+2
 00:02:03,270 --> 00:02:07,020
 Falli a pezzi! 
 Sistema 'sti pivelli senza palle!
 
-5
+3
 00:02:07,020 --> 00:02:10,400
 Questa città non è un posto per sfigati che inseguono i sogni!
 
-6
+4
 00:02:13,900 --> 00:02:14,950
 Cos'è questo casino?
 
-7
+5
 00:02:14,950 --> 00:02:17,120
 La ciurma di Bellamy sta
  facendo a botte, dicono.
 
-8
+6
 00:02:17,120 --> 00:02:20,790
 Luffy! Zoro! Che state facendo? Contro avversari come questi
 
-9
+7
 00:02:21,330 --> 00:02:24,750
 dovreste combattere!
  Che problema c'è a pestarli?
 
-10
+8
 00:02:26,000 --> 00:02:28,840
 È inutile, ragazzina. Loro sono svegli.
 
-11
+9
 00:02:28,840 --> 00:02:32,340
 Hanno capito che contro di noi non possono vincere.
 
-12
+10
 00:02:32,720 --> 00:02:35,590
 Non affrontare un avversario più forte di te...
 
-13
+11
 00:02:35,590 --> 00:02:37,600
 che risoluzione imbarazzante.
 
-14
+12
 00:02:38,970 --> 00:02:41,720
 Alla fine è anche colpa del portamento del capitano.
 
-15
+13
 00:02:41,720 --> 00:02:44,060
 La Marina ultimamente dev'essere generosa...
 
-16
+14
 00:02:44,060 --> 00:02:48,650
 assegnare una taglia di trenta millioni ad una mezza calzetta come questa...
 
-17
+15
 00:02:49,780 --> 00:02:53,900
 Zoro. Non unirti alla rissa, qualsiasi cosa accada.
 
-18
+16
 00:02:55,150 --> 00:02:57,870
 Ma perché... entrambi...?
 
-19
+17
 00:02:58,240 --> 00:03:03,020
 "Principio di nonviolenza"...  è bello detto a parole, vero?
 
-20
+18
 00:03:08,500 --> 00:03:11,130
 Non solo siete dei deboli, 
 ma vi manca anche l'orgoglio
 
-21
+19
 00:03:11,130 --> 00:03:13,510
 e vi rifiutate di fare una semplice rissa.
 
-22
+20
 00:03:13,510 --> 00:03:16,050
 Nonostante tutto avete la testa piena di sogni.
 
-23
+21
 00:03:17,590 --> 00:03:18,930
 Non siete altro che vermi!
 
-24
+22
 00:03:19,250 --> 00:03:20,930
 Ben detto!
 
-25
+23
 00:03:27,050 --> 00:03:28,810
 Bah, lasciate stare.
 
-26
+24
 00:03:29,900 --> 00:03:33,190
 Un ragazzino tutto pelle e ossa 
 con una taglia di trenta millioni...
 
-27
+25
 00:03:33,190 --> 00:03:35,610
 ero curioso di vedere che tipo di uomo era,
 
-28
+26
 00:03:36,250 --> 00:03:39,370
 ma non solo mi hai deluso, sei pure una noia mortale.
 
-29
+27
 00:03:39,370 --> 00:03:41,810
 Mai vista gente così codarda.
 
-30
+28
 00:03:54,230 --> 00:03:56,840
 Ehi, toglietemeli di torno.
 
-31
+29
 00:03:57,880 --> 00:03:58,840
 Vedereli mi da fastidio.
 
-32
+30
 00:04:04,600 --> 00:04:06,390
 Ma guardateli!
 
-33
+31
 00:04:14,980 --> 00:04:17,490
 Luffy! Zoro!
 
-34
+32
 00:04:17,900 --> 00:04:19,350
 Ehi, ragazzina.
 
-35
+33
 00:04:21,160 --> 00:04:25,290
 Se continui a stare dietro a uno come lui 
 non terrai mai il passo con la nuova era.
 
-36
+34
 00:04:25,290 --> 00:04:27,660
 Se vuoi ti compro, che ne dici?
 
-37
+35
 00:04:27,660 --> 00:04:28,800
 Quanto vuoi?
 
-38
+36
 00:04:34,480 --> 00:04:37,840
 Te lo dico chiaro e tondo: hai detto che vuoi "comprarmi"?
 
-39
+37
 00:04:37,840 --> 00:04:42,010
 Esatto, unisciti a noi. Sarà divertente!
 
-40
+38
 00:04:46,180 --> 00:04:50,690
 Vi chiedo scusa... ma unirmi a una 
 ciurma di gente insignificante come voi...
 
-41
+39
 00:04:50,690 --> 00:04:52,150
 sarebbe uno spreco per me!
 
-42
+40
 00:04:56,610 --> 00:04:57,900
 Che arroganza!
 
-43
+41
 00:05:01,530 --> 00:05:04,870
 Allora tutta la loro ciurma
  è composta da idioti!
 
-44
+42
 00:05:04,870 --> 00:05:07,330
 Sono proprio senza speranza!
 
-45
+43
 00:05:14,750 --> 00:05:21,050
 Vedi di sparire subito finché te lo concedo,
 cogliona di merda. E non dimenticarti quei due!
 
-46
+44
 00:05:24,390 --> 00:05:27,470
 Giusto! Non ritornate mai più!
 
-47
+45
 00:05:33,180 --> 00:05:35,350
 L'isola nel cielo esiste.
 
-48
+46
 00:05:46,900 --> 00:05:50,450
 La torta alle ciliegie che
  fanno qui è proprio fantastica.
 
-49
+47
 00:05:50,450 --> 00:05:51,870
 Tu. Sei quello di prima...
 
-50
+48
 00:05:52,620 --> 00:05:54,710
 Cos'è che ti frustra tanto, signorina?
 
-51
+49
 00:05:54,710 --> 00:05:57,920
 Questa battaglia l'hanno vinta loro.
 
-52
+50
 00:05:58,710 --> 00:05:59,260
 Cosa?
 
-53
+51
 00:06:03,350 --> 00:06:06,050
 Oh? Allora ci supererai?
 
-54
+52
 00:06:07,880 --> 00:06:10,730
 Luffy! La prossima volta che ci vedremo,
 saremo sulla vetta della pirateria!
 
-55
+53
 00:06:14,190 --> 00:06:17,230
 Anche la tua confutazione non è stata niente male.
 
-56
+54
 00:06:17,230 --> 00:06:19,400
 Hai proprio il sangue freddo per essere una donna.
 
-57
+55
 00:06:21,400 --> 00:06:22,300
 Zoro!
 
-58
+56
 00:06:23,400 --> 00:06:24,410
 Luffy!
 
-59
+57
 00:06:29,910 --> 00:06:34,050
 La "Nuova Era" di cui
  parlano quelli è una merda.
 
-60
+58
 00:06:35,500 --> 00:06:40,460
 Dicono che l'era dei pirati sognatori sia finita!
  Ma stiamo scherzando?!
 
-61
+59
 00:06:40,460 --> 00:06:41,550
 Ma che vuole?
 
-62
+60
 00:06:47,600 --> 00:06:52,680
 I sogni delle persone... non finiranno mai!
 
-63
+61
 00:06:57,150 --> 00:06:58,690
 Non è vero?!
 
-64
+62
 00:07:01,980 --> 00:07:03,350
 Ehi, ehi...
 
-65
+63
 00:07:04,350 --> 00:07:07,280
 Che cavolo urli così a caso?
 
-66
+64
 00:07:07,300 --> 00:07:09,160
 "I sogni delle persone"... cos'è che era?
 
-67
+65
 00:07:09,160 --> 00:07:12,150
 Sopportare le altre persone non è una passeggiata!
 
-68
+66
 00:07:15,160 --> 00:07:16,670
 Ma ti si è sciolto il cervello?
 
-69
+67
 00:07:19,250 --> 00:07:21,880
 Che succede? 
 Fuori c'è un gran casino.
 
-70
+68
 00:07:22,650 --> 00:07:26,510
 Lascia stare. Saranno quelli di prima
  che si scatenano per dispetto.
 
-71
+69
 00:07:26,510 --> 00:07:28,300
 Che sfigati!
 
-72
+70
 00:07:30,680 --> 00:07:32,930
 Che importa se ci deridono?
 
-73
+71
 00:07:32,930 --> 00:07:37,440
 Chi punta in alto troverà lotte che non potrà vincere a suon di pugni!
 
-74
+72
 00:07:37,440 --> 00:07:38,950
 Tu lo sai bene, no?
 
-75
+73
 00:07:43,030 --> 00:07:44,250
 Andiamo.
 
-76
+74
 00:07:45,320 --> 00:07:46,400
 S-Sì...
 
-77
+75
 00:07:47,280 --> 00:07:47,780
 Luffy?
 
-78
+76
 00:07:55,910 --> 00:07:56,790
 Luffy!
 
-79
+77
 00:07:57,960 --> 00:08:01,150
 Oh, a quanto pare vi sono d'intralcio.
 
-80
+78
 00:08:01,150 --> 00:08:02,750
 Avete fretta di proseguire?
 
-81
+79
 00:08:04,300 --> 00:08:07,930
 Vi auguro che ci arriviate, all'isola nel cielo.
 
-82
+80
 00:08:16,680 --> 00:08:17,620
 Ah...
 
-83
+81
 00:08:26,200 --> 00:08:30,490
 Ehi, non è che quello dell'isola nel cielo ne sa qualcosa?
 
-84
+82
 00:08:30,490 --> 00:08:31,660
 Chi sarà quello?
 
-85
+83
 00:08:31,660 --> 00:08:34,990
 Chissà... però,
 sbagli a dire "quello".
 
-86
+84
 00:08:34,990 --> 00:08:38,830
 Cosa? In che senso, sbaglio? Cosa dovevo dire?
 
-87
+85
 00:08:38,830 --> 00:08:41,490
 Dovevi dire "quelli"... forse.
 
-88
+86
 00:08:42,750 --> 00:08:44,340
 Ma che vuol dire?
 
-89
+87
 00:08:44,340 --> 00:08:49,800
 Quel tipo aveva dei compagni? E dove? Ehi!
 
-90
+88
 00:08:55,000 --> 00:08:58,640
 Oggi l'acol è proprio buono!
 
-91
+89
 00:09:02,690 --> 00:09:04,190
 Asse!
 
-92
+90
 00:09:03,350 --> 00:09:04,190
 Ecco!
 
-93
+91
 00:09:07,400 --> 00:09:09,030
 Chiodo!
 
-94
+92
 00:09:08,030 --> 00:09:09,030
 Ecco!
 
-95
+93
 00:09:12,100 --> 00:09:13,410
 Asse!
 
-96
+94
 00:09:12,630 --> 00:09:13,410
 Ecco!
 
-97
+95
 00:09:14,030 --> 00:09:14,740
 Acc...!
 
-98
+96
 00:09:15,240 --> 00:09:16,460
 Ecco!
 
-99
+97
 00:09:18,790 --> 00:09:19,750
 Ecco...
 
-100
+98
 00:09:19,750 --> 00:09:25,210
 Accidenti... non so quante volte vi devo dire
  ancora che non sono un carpentiere navale.
 
-101
+99
 00:09:25,650 --> 00:09:27,460
 È vero, ma sei un tipo ingegnoso, Usopp!
 
-102
+100
 00:09:27,460 --> 00:09:30,840
 Vero?! È quello in cui eccello!
 
-103
+101
 00:09:30,840 --> 00:09:33,470
 A 'sto punto non sarebbe meglio comprarne una nuova?
 
-104
+102
 00:09:33,470 --> 00:09:37,640
 Ma sei fuori?! Hai la più pallida idea
 di quanto abbiamo sofferto per averla?!
 
-105
+103
 00:09:37,640 --> 00:09:40,100
 Sì sì, non so quante volte mi sono sorbito questo storia.
 
-106
+104
 00:09:40,100 --> 00:09:42,940
 L'avete ricevuta da quella bellissima ragazza del tuo villaggio, no?
 
-107
+105
 00:09:44,080 --> 00:09:47,360
 Anche così fosse, continuare su una nave così malridotta è pericoloso.
 
-108
+106
 00:09:47,360 --> 00:09:51,450
 A cosa pensi che la stiamo riparando a fare?!
 Ehi, da una mano anche tu!
 
-109
+107
 00:09:51,450 --> 00:09:53,510
 E definisci 'sta roba "riparare"?
 
-110
+108
 00:09:54,450 --> 00:09:55,240
 La stai rattoppando.
 
-111
+109
 00:09:55,910 --> 00:09:56,910
 Taci!
 
-112
+110
 00:09:56,910 --> 00:09:59,410
 Wow! Che espressione divertente!
 
-113
+111
 00:09:59,410 --> 00:10:00,330
 Questa, dici?
 
-114
+112
 00:10:00,910 --> 00:10:04,080
 Taci!
 
-115
+113
 00:10:04,080 --> 00:10:06,920
 A proposito, la cena di oggi...
 
-116
+114
 00:10:06,920 --> 00:10:09,590
 – Taci!
 – Taci!
 
-117
+115
 00:10:09,590 --> 00:10:10,460
 Non la volete, okay.
 
-118
+116
 00:10:10,460 --> 00:10:10,960
 Ahhh!
 
-119
+117
 00:10:10,460 --> 00:10:33,610
 ♪ Salvage! Salvage! ♪
 
-120
+118
 00:10:10,960 --> 00:10:14,920
 Aaaah no, la va vogliamo! Sanji!
 
-121
+119
 00:10:11,580 --> 00:10:14,930
 Vediamo come è messo lo stufato di gabbiano...
 
-122
+120
 00:10:14,920 --> 00:10:15,810
 Ti prego, abbiamo fame!
 
-123
+121
 00:10:14,930 --> 00:10:15,800
 Vediamo come è messo lo stufato di gabbiano...
 
-124
+122
 00:10:15,810 --> 00:10:18,970
 Sanji!
 
-125
+123
 00:10:15,800 --> 00:10:16,760
 Vediamo come è messo lo stufato di gabbiano...
 
-126
+124
 00:10:18,310 --> 00:10:18,970
 Mhm?
 
-127
+125
 00:10:27,150 --> 00:10:29,360
 Eh? Che diavolo ha quella nave?
 
-128
+126
 00:10:32,190 --> 00:10:33,610
 – Questa canzone...!
 – Questa canzone...!
 
-129
+127
 00:10:48,940 --> 00:10:51,460
 L-L-L-L-Luffy! Zoro!
 
-130
+128
 00:10:51,460 --> 00:10:54,300
 Perché siete feriti?!
 È successo qualcosa?!
 
-131
+129
 00:10:54,300 --> 00:10:56,680
 Nami cara! La mia cara Nami è sana e salva?!
 
-132
+130
 00:10:56,680 --> 00:11:00,100
 D-D-D-Dottore!
 
-133
+131
 00:11:00,100 --> 00:11:02,220
 E perché non li visiti tu?!
 
-134
+132
 00:11:01,560 --> 00:11:02,230
 Ahia...
 
-135
+133
 00:11:05,100 --> 00:11:09,560
 Quindi? Contro che razza di Mogera 
 mostruosa avete combattuto stavolta?
 
-136
+134
 00:11:10,860 --> 00:11:14,450
 Pirati! Ma non importa, 
 ormai la faccenda è chiusa.
 
-137
+135
 00:11:14,450 --> 00:11:14,950
 Già.
 
-138
+136
 00:11:15,450 --> 00:11:18,690
 Anche se per voi la faccenda è chiusa, io sono ancora arrabbiata.
 
-139
+137
 00:11:19,030 --> 00:11:20,740
 Che diavolo vi è preso?!
 
-140
+138
 00:11:20,740 --> 00:11:24,250
 Se vi ritenete dei veri uomini dovreste
 prendere a calci chiunque attacchi briga!
 
-141
+139
 00:11:24,250 --> 00:11:29,460
 No, meglio: avreste dovuto radere
  al suolo tutta questa città irritante!
 
-142
+140
 00:11:29,460 --> 00:11:32,000
 Tu cos'è che avevi detto 
 quando siamo arrivati?!
 
-143
+141
 00:11:32,000 --> 00:11:35,340
 Il passato è passato! 
 Non tirare fuori storie vecchie!
 
-144
+142
 00:11:35,340 --> 00:11:36,680
 Adesso ti picchio io!
 
-145
+143
 00:11:36,970 --> 00:11:40,680
 Ehi, com'è che Nami è così di mal'umore anche se non è ferita?
 
-146
+144
 00:11:40,680 --> 00:11:42,560
 Boh, non ne ho idea.
 
-147
+145
 00:11:42,930 --> 00:11:45,810
 Giusto! Siete riusciti a 
 chiedere dell'isola nel cielo?
 
-148
+146
 00:11:46,190 --> 00:11:48,200
 L'isola... nel... Cielo...?
 
-149
+147
 00:11:49,810 --> 00:11:51,690
 Non ne voglio più sapere niente!
 
-150
+148
 00:11:51,690 --> 00:11:55,780
 Appena hanno sentito "isola nel cielo" l'intero locale è scoppiato a ridere.
 
-151
+149
 00:11:55,780 --> 00:11:58,410
 Cosa ho mai detto di tanto divertente?!
 
-152
+150
 00:11:59,050 --> 00:12:00,370
 Ma che diavolo gli è preso?!
 
-153
+151
 00:12:00,370 --> 00:12:01,990
 Colpo Mortale: Stella Ketchup
 
-154
+152
 00:12:01,990 --> 00:12:03,830
 Guard Point!
 
-155
+153
 00:12:03,830 --> 00:12:07,240
 Siete piuttosto vivaci. 
 Cos'è successo che vi agita tanto?
 
-156
+154
 00:12:07,240 --> 00:12:10,280
 Ah! Bentornata, mia adorata Robin!
 
-157
+155
 00:12:10,280 --> 00:12:13,130
 Cosa posso fare per te? 
 Ti preparo un pasto, o forse un bagno caldo?
 
-158
+156
 00:12:13,130 --> 00:12:15,460
 Ah, Robin. Sei andata da qualche parte?
 
-159
+157
 00:12:15,950 --> 00:12:20,470
 Sì, ho preso dei vestiti e mi sono informata 
 sull'isola nel cielo. È quel che ci serviva, no?
 
-160
+158
 00:12:20,470 --> 00:12:22,640
 Giusto, sei stata tu, Robin!
 
-161
+159
 00:12:22,640 --> 00:12:24,090
 Jumping Point!
 
-162
+160
 00:12:22,640 --> 00:12:25,980
 Tutta 'sta storia è iniziata perché ti 
 sei messa a parlare dell'isola nel cielo!
 
-163
+161
 00:12:25,980 --> 00:12:29,380
 Se non esiste ti mando a dormire coi pesci!
 
-164
+162
 00:12:27,180 --> 00:12:28,510
 Ehi, Chopper!
 
-165
+163
 00:12:29,940 --> 00:12:32,400
 Per favore, bisogna trattarla con cautela al momento.
 
-166
+164
 00:12:32,400 --> 00:12:36,440
 O meglio, tienila a distanza, 
 così non porti ad altri litigi.
 
-167
+165
 00:12:38,150 --> 00:12:39,470
 Tieni, signor capitano.
 
-168
+166
 00:12:39,470 --> 00:12:41,620
 Oh! È una mappa del tesoro!
 
-169
+167
 00:12:41,620 --> 00:12:44,790
 Mhm? A me sembra una 
 normalissima cartina. Che posto è?
 
-170
+168
 00:12:44,790 --> 00:12:45,830
 È questa insola.
 
-171
+169
 00:12:46,530 --> 00:12:50,180
 La città indicata sulla sinistra è
  Mock Town, dove ci troviamo ora.
 
-172
+170
 00:12:50,180 --> 00:12:53,750
 E sulla riva opposta...
 c'è una X ad est, no?
 
-173
+171
 00:12:53,750 --> 00:12:57,090
 Pare che ci vivano gli emarginati di Jaya.
 
-174
+172
 00:12:57,090 --> 00:12:58,510
 – "Gli emarginati"?
 – "Gli emarginati"?
 
-175
+173
 00:12:58,510 --> 00:13:01,350
 Un uomo di nome Mont Blanc Cricket.
 
-176
+174
 00:13:02,760 --> 00:13:05,760
 Un giorno parlò dei suoi sogni e venne cacciato da questa città.
 
-177
+175
 00:13:05,760 --> 00:13:07,520
 Potreste andare d'accordo, no?
 
-178
+176
 00:13:10,430 --> 00:13:11,650
 Grande Boss!
 
-179
+177
 00:13:11,650 --> 00:13:14,820
 Le preparazioni sottomarine sono state completate!
 
-180
+178
 00:13:14,820 --> 00:13:16,110
 È pronto anche il microfono!
 
-181
+179
 00:13:16,110 --> 00:13:19,490
 Okay! Attivazione
 "Onda Sonora: Search Sonar"
 
-182
+180
 00:13:53,850 --> 00:13:56,940
 Parla l'Utan Divers numero 27! Riflessione sonora confermata!
 
-183
+181
 00:13:56,940 --> 00:13:58,980
 Rilevato banco di pesci a ore nove!
 
-184
+182
 00:13:58,980 --> 00:14:02,110
 Dalla loro velocità confermiamo
  che si tratta di costardelle!
 
-185
+183
 00:14:02,110 --> 00:14:04,370
 Perfetto, stasera si 
 mangia pesce arrosto!
 
-186
+184
 00:14:05,740 --> 00:14:08,200
 Parla l'Utan Divers numero 4! Riflessione sonora confermata!
 
-187
+185
 00:14:08,200 --> 00:14:11,370
 Rilevata imbarcazione a vela di piccola taglia in movimento in superfice!
 
-188
+186
 00:14:12,380 --> 00:14:16,340
 Cosa?! Un'imbarcazione a vela?! Determina la direzione precisa!
 
-189
+187
 00:14:16,780 --> 00:14:20,260
 Direi... ore 12, circa.
 
-190
+188
 00:14:20,260 --> 00:14:23,840
 Ma è già in vista!
 
-191
+189
 00:14:23,840 --> 00:14:26,800
 Fermate le ricerche!
  Ritornate alle nave, Utan Divers!
 
-192
+190
 00:14:36,110 --> 00:14:38,980
 Ci abbiamo messo poco ad 
 incontrare un'altro stramboide.
 
-193
+191
 00:14:38,980 --> 00:14:42,990
 Ma non sembrano gli
  stessi di prima, Usopp.
 
-194
+192
 00:14:42,990 --> 00:14:46,570
 Però è ancora presto per dire se è una buona o una cattiva notizia...
 
-195
+193
 00:14:46,570 --> 00:14:49,830
 Comunque sia,
  noi l'abbiamo visto, no?!
 
-196
+194
 00:14:49,830 --> 00:14:54,160
 Giusto. Sembra che quel tipo del salvage venga proprio da quest'isola.
 
-197
+195
 00:14:54,160 --> 00:14:56,540
 L'abbiamo visto rientrare!
 
-198
+196
 00:14:56,530 --> 00:14:57,380
 Dite?
 
-199
+197
 00:14:57,380 --> 00:15:00,130
 A me non dispiacerebbe incontrarlo di nuovo.
 
-200
+198
 00:15:00,500 --> 00:15:05,900
 Ehi ehi amico!
  Che borbotti a fare là?
 
-201
+199
 00:15:08,800 --> 00:15:13,100
 Santo cielo, ero tutto in ansia
 pensando a chi potevate essere!
 
-202
+200
 00:15:15,100 --> 00:15:18,480
 Hai proprio una faccia assurda!
 Che specie sei?
 
-203
+201
 00:15:18,480 --> 00:15:19,940
 Sono un'umano, idiota!
 
-204
+202
 00:15:19,940 --> 00:15:23,690
 Come osate?! Come avete fatto a non aver mai 
 sentito del Grande Boss dei Pirati di Shoujou,
 
-205
+203
 00:15:23,690 --> 00:15:26,570
 il venerabile "Re del Sonar", Shoujou!?
 
-206
+204
 00:15:26,570 --> 00:15:29,030
 Non fate arrabbiare il Grande Boss!
 
-207
+205
 00:15:29,660 --> 00:15:31,950
 Calmi, calmi...
 
-208
+206
 00:15:32,800 --> 00:15:35,500
 Voi... siete dei pirati, non è vero?
 
-209
+207
 00:15:36,000 --> 00:15:37,040
 Avete sentito?
 
-210
+208
 00:15:37,040 --> 00:15:41,000
 Quel Crocodile dei Sette Corsari è stato sconfitto.
 
-211
+209
 00:15:41,000 --> 00:15:47,760
 Conoscendo le mie abilità, non potrebbe 
 forse passare a me quella carica?
 
-212
+210
 00:15:47,760 --> 00:15:50,830
 Sono giorni che sono tutto in ansia a forza di pensarci.
 
-213
+211
 00:15:51,510 --> 00:15:54,560
 Davvero? Quindi vuoi diventare uno dei Sette Corsari?
 
-214
+212
 00:15:54,560 --> 00:15:59,150
 Cosa? Comunque, parlando 
 delle mie qualità impressionanti,
 
-215
+213
 00:15:59,150 --> 00:16:03,900
 il qui presente, nei suoi venticinque 
 anni di vita, non si è mai tagliato i capelli.
 
-216
+214
 00:16:03,900 --> 00:16:07,350
 Allora? Sei sorpreso?
 
-217
+215
 00:16:08,570 --> 00:16:09,320
 Sembri stupido.
 
-218
+216
 00:16:09,740 --> 00:16:11,330
 Acc-! Son sorpreso io!
 
-219
+217
 00:16:11,330 --> 00:16:13,040
 Come hai osato insul-
 
-220
+218
 00:16:13,040 --> 00:16:18,790
 Calmi, calmi... santo cielo, la tua risposta mi mette proprio in ansia.
 
-221
+219
 00:16:19,380 --> 00:16:26,630
 Presta bene attenzione. Oltre il tunnel dal nome 
 "la mia ira" trovi niente che un mare di sangue.
 
-222
+220
 00:16:27,300 --> 00:16:30,260
 Certo, fa quel che vuoi, ma noi 
 dobbiamo andare in un posto.
 
-223
+221
 00:16:30,260 --> 00:16:31,600
 Ti sposteresti?
 
-224
+222
 00:16:31,600 --> 00:16:35,310
 Idiota! Questo tratto di mare è il mio territorio!
 
-225
+223
 00:16:35,310 --> 00:16:38,350
 Se vuoi passare di qui, 
 devi pagare il pedaggio!
 
-226
+224
 00:16:38,730 --> 00:16:42,860
 In che senso, "territorio"?
 Ha detto la stessa cosa di Masira.
 
-227
+225
 00:16:42,860 --> 00:16:45,570
 Che? Masira ha detto una roba del genere?
 
-228
+226
 00:16:44,940 --> 00:16:45,570
 Cosa?!
 
-229
+227
 00:16:45,570 --> 00:16:48,700
 Masira?! Masira cosa?!
 
-230
+228
 00:16:48,700 --> 00:16:52,400
 Che? Ah, l'abbiamo preso a calci, ma-
 
-231
+229
 00:16:52,410 --> 00:16:55,170
 P-Preso... Preso a...?!
 
-232
+230
 00:16:53,600 --> 00:16:55,170
 Che? Co...?
 
-233
+231
 00:16:55,170 --> 00:16:55,860
 Grande Boss!
 
-234
+232
 00:16:55,860 --> 00:16:57,040
 A calci in...?!
 
-235
+233
 00:16:57,040 --> 00:16:58,880
 Come hai osato ferire mio fratello!
 
-236
+234
 00:16:58,870 --> 00:17:01,040
 Questa è la mia vendetta per Masira!
 
-237
+235
 00:16:58,860 --> 00:17:01,040
 Ehi, aspetta un momento!
 
-238
+236
 00:17:01,040 --> 00:17:03,290
 L'abbiamo preso a calci, sì, ma sta benone!
 
-239
+237
 00:17:06,080 --> 00:17:08,380
 Onda Sonora:
 
-240
+238
 00:17:08,420 --> 00:17:10,500
 Havoc Sonar!
 
-241
+239
 00:17:26,440 --> 00:17:27,880
 La nave...!
 
-242
+240
 00:17:32,910 --> 00:17:35,870
 Quindi... che diamine 
 starebbero faccendo, quelli?
 
-243
+241
 00:17:34,370 --> 00:17:35,580
 Grande Boss!
 
-244
+242
 00:17:35,580 --> 00:17:37,790
 Usare quella tecnica sulla nave è...!
 
-245
+243
 00:17:37,790 --> 00:17:41,000
 Oh, no! È così arrabbiato che si è dimenticato di noi!
 
-246
+244
 00:17:35,880 --> 00:17:38,250
 Boh. Però è molto figo!
 
-247
+245
 00:17:38,230 --> 00:17:41,000
 Sta distruggendo la sua nave con la voce!
 
-248
+246
 00:17:41,000 --> 00:17:45,840
 Ehi, ragazzi! Non state lì impalati a guardare,
  sfruttiamo il momento per proseguire!
 
-249
+247
 00:17:45,840 --> 00:17:47,340
 Agli ordini!
 
-250
+248
 00:17:47,340 --> 00:17:49,340
 Ah, Nami ha smesso di essere indemoniata.
 
-251
+249
 00:17:49,340 --> 00:17:50,760
 Davvero?!
 
-252
+250
 00:17:50,760 --> 00:17:53,470
 Sì, si è scatenata abbastanza.
 
-253
+251
 00:17:56,700 --> 00:17:58,350
 A-Aspetta... aspetta un attimo!
 
-254
+252
 00:17:59,520 --> 00:18:02,770
 D-Dannazione! Ha anche effetto su questa nave!
 
-255
+253
 00:18:02,770 --> 00:18:05,940
 Si sta disintegrando pezzo per pezzo partendo dai punti rattoppati!
 
-256
+254
 00:18:05,940 --> 00:18:08,900
 E lo scafo era già in pessime condizioni!
 
-257
+255
 00:18:09,400 --> 00:18:12,820
 Se restiamo qui la nave verrà smantellata!
 
-258
+256
 00:18:13,200 --> 00:18:16,450
 Avanti tutta! Andiamo dove 
 questa voce non ci raggiunge!
 
-259
+257
 00:18:49,080 --> 00:18:51,190
 Sì ma sai che sorpresa.
 
-260
+258
 00:18:51,190 --> 00:18:53,110
 A quel punto questa 
 donna stupenda dice
 
-261
+259
 00:18:53,110 --> 00:18:58,150
 "Quest'uomo di nome Cricket, dimmi dov'è!"
 
-262
+260
 00:18:59,050 --> 00:19:00,740
 Che donna sicura di sè!
 
-263
+261
 00:19:00,740 --> 00:19:03,120
 Sicura di sè un cavolo, era un vero osso duro!
 
-264
+262
 00:19:03,120 --> 00:19:06,750
 Sono sbocciate ovunque queste strane "mani",
 
-265
+263
 00:19:06,750 --> 00:19:10,250
 che hanno immobilizzato tutti nel bar!
  Non è roba da ridere!
 
-266
+264
 00:19:14,030 --> 00:19:17,780
 Okay, ma quella donna... 
 che vuole dal vecchio Cricket?
 
-267
+265
 00:19:18,300 --> 00:19:21,900
 I mari di questa zona sono 
 il territorio dei "fratelli scimmia".
 
-268
+266
 00:19:22,640 --> 00:19:28,270
 E poi... se fai amicizia con quel vecchio... 
 ti contagierà con la sua idiozia!
 
-269
+267
 00:19:29,300 --> 00:19:30,320
 Sarebbe dura.
 
-270
+268
 00:19:31,180 --> 00:19:34,530
 L'obiettivo di quella donna è, 
 senza dubbio, la "pepita d'oro".
 
-271
+269
 00:19:34,530 --> 00:19:35,490
 "Pepita d'oro"?
 
-272
+270
 00:19:35,490 --> 00:19:37,660
 Sì, pare ne abbia
  trovata una di recente.
 
-273
+271
 00:19:37,660 --> 00:19:39,120
 Davvero? E dove?
 
-274
+272
 00:19:39,120 --> 00:19:40,960
 Ehi, voi...
 
-275
+273
 00:19:40,960 --> 00:19:41,580
 – Che?
 – Che?
 
-276
+274
 00:19:42,330 --> 00:19:43,650
 Bellamy!
 
-277
+275
 00:19:44,400 --> 00:19:46,830
 Cos'è sta storia della "pepita d'oro"?
 
-278
+276
 00:19:47,080 --> 00:19:52,920
 Questo tipo, Cricket... 
 vorrei incontrarlo anch'io.
 
-279
+277
 00:19:58,050 --> 00:20:00,050
 Voglio sapere tutto!
 
-280
+278
 00:13:08,890 --> 00:13:14,820
 Mouth Bay, Jaya
+
+279
+00:13:08,890 --> 00:13:14,820
+Mouth Bay, Jaya
+
+280
+00:15:07,590 --> 00:15:13,100
+"Re del Sonar" Shoujou
+Boss dei Pirati di Shoujou
+Taglia: 36 Millioni Berry
 
 281
-00:13:08,890 --> 00:13:14,820
-Mouth Bay, Jaya
+00:15:07,590 --> 00:15:13,100
+"Re del Sonar" Shoujou
+Boss dei Pirati di Shoujou
+Taglia: 36 Millioni Berry
 
 282
-00:15:07,590 --> 00:15:13,100
-"Re del Sonar" Shoujou
-Boss dei Pirati di Shoujou
-Taglia: 36 Millioni Berry
+00:18:38,060 --> 00:18:46,650
+Mock Town, Jaya occidentale
 
 283
-00:15:07,590 --> 00:15:13,100
-"Re del Sonar" Shoujou
-Boss dei Pirati di Shoujou
-Taglia: 36 Millioni Berry
-
-284
 00:18:38,060 --> 00:18:46,650
 Mock Town, Jaya occidentale
 
-285
-00:18:38,060 --> 00:18:46,650
-Mock Town, Jaya occidentale

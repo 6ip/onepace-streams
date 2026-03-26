@@ -677,3 +677,4 @@ El ataque al Bloque D ocurrió en un instante.
 167
 00:21:29,200 --> 00:21:32,800
 ¡Alguien se está levantando!
+

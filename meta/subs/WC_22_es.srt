@@ -1439,3 +1439,4 @@ Si hay una ruta para llegar allí,
 345
 00:01:26,640 --> 00:01:33,280
 ya lo decidimos hace mucho tiempo.
+

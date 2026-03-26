@@ -1,2135 +1,2122 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:41,870 --> 00:01:51,860
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:59,680 --> 00:02:01,570
 Ağabey!
 
-4
+2
 00:02:03,260 --> 00:02:05,680
 Holdem-sama!
 
-5
+3
 00:02:05,680 --> 00:02:09,100
 – Holdem-sama!
 – Holdem-sama!
 
-6
+4
 00:02:30,370 --> 00:02:31,720
 Tama!
 
-7
+5
 00:02:35,340 --> 00:02:37,720
 Ağabey!
 
-8
+6
 00:02:38,260 --> 00:02:40,730
 Sıkı tutun bakayım!
 
-9
+7
 00:02:40,730 --> 00:02:41,890
 Tamam!
 
-10
+8
 00:02:46,930 --> 00:02:49,350
 Pekâlâ! Tüyelim!
 
-11
+9
 00:02:58,730 --> 00:03:00,530
 Holdem-sama!
 
-12
+10
 00:03:00,530 --> 00:03:02,150
 Holdem-sama!
 
-13
+11
 00:03:05,330 --> 00:03:09,610
 Öncü biri olarak tek yumrukta mı bayıltıldın?
 
-14
+12
 00:03:10,290 --> 00:03:11,960
 Kim yaptı bunu?
 
-15
+13
 00:03:17,930 --> 00:03:20,800
 Ulan Luffy!
 Yine yaptın yapacağını.
 
-16
+14
 00:03:20,800 --> 00:03:22,590
 Luffytaro-san!
 
-17
+15
 00:03:22,590 --> 00:03:24,250
 Otama-chan!
 
-18
+16
 00:03:24,250 --> 00:03:28,270
 Telaşlanma!
 Veledi Luffytaro'ya bırak!
 
-19
+17
 00:03:28,270 --> 00:03:31,560
 Durayım deme!
 Kasabanın girişine tam gaz devam!
 
-20
+18
 00:03:37,110 --> 00:03:42,480
 Hazine gemisini geri alın!
 Yoksa erzağımızdan olacağız!
 
-21
+19
 00:03:48,990 --> 00:03:51,160
 Sıkı tutun ha!
 
-22
+20
 00:03:51,160 --> 00:03:54,170
 Tutunuyorum ağabey!
 Asla bırakmam!
 
-23
+21
 00:03:59,600 --> 00:04:01,760
 A-Ağabey...
 
-24
+22
 00:04:01,760 --> 00:04:03,680
 Kılıçtan geçirin!
 
-25
+23
 00:04:33,460 --> 00:04:36,130
 Uza!
 
-26
+24
 00:04:45,890 --> 00:04:50,460
 Zorolar'a bir an önce yetişmezsem
 bana yiyecek zırnık bırakmayacaklar!
 
-27
+25
 00:04:54,020 --> 00:04:56,650
 Ne güzel! Binelim! Atlıyorum!
 
-28
+26
 00:04:56,650 --> 00:04:57,100
 Ne?
 
-29
+27
 00:05:00,270 --> 00:05:01,730
 Beni...
 
-30
+28
 00:05:01,730 --> 00:05:05,220
 kollarıyla sarmalayan da kim böyle?
 
-31
+29
 00:05:05,220 --> 00:05:07,410
 Deh, at!
 
-32
+30
 00:05:07,410 --> 00:05:08,740
 Dur, n'apıyorsun be?
 
-33
+31
 00:05:08,740 --> 00:05:11,490
 – Ne? İnsan mıymış?
 – Ne? İnsan mıymış?
 
-34
+32
 00:05:13,450 --> 00:05:14,750
 Yok be, at işte!
 
-35
+33
 00:05:14,750 --> 00:05:17,080
 Ne cüretle Speed-sama'nın
 sırtına binersiniz?
 
-36
+34
 00:05:17,080 --> 00:05:18,420
 Alaşağı edin!
 
-37
+35
 00:05:18,420 --> 00:05:22,010
 İnsenize, edepsizler!
 
-38
+36
 00:05:24,270 --> 00:05:26,580
 Hey Tama, dango yap!
 
-39
+37
 00:05:26,580 --> 00:05:27,260
 Ne?
 
-40
+38
 00:05:27,260 --> 00:05:29,350
 Dediğimi yap!
 
-41
+39
 00:05:29,350 --> 00:05:31,890
 Kibi Dango!
 
-42
+40
 00:05:31,890 --> 00:05:33,220
 Şimdi, ata ver!
 
-43
+41
 00:05:33,220 --> 00:05:37,080
 Ne? İmkânsız!
 İnsanlar üzerinde işe yaramaz!
 
-44
+42
 00:05:37,080 --> 00:05:39,400
 Denemeden bilemezsin!
 
-45
+43
 00:05:42,360 --> 00:05:44,430
 Enfes duruyor!
 
-46
+44
 00:05:55,540 --> 00:06:00,200
 Nereye gitmek istiyorsunuz, efendim?
 
-47
+45
 00:06:00,200 --> 00:06:01,870
 Yaşasın!
 
-48
+46
 00:06:01,870 --> 00:06:03,710
 İşe yaradı!
 
-49
+47
 00:06:04,420 --> 00:06:06,200
 Ama... nasıl?
 
-50
+48
 00:06:06,200 --> 00:06:08,430
 Yarı at olduğundan galiba.
 
-51
+49
 00:06:10,840 --> 00:06:13,490
 S-Speed-sama...
 
-52
+50
 00:06:13,490 --> 00:06:15,350
 Peşine düşün!
 
-53
+51
 00:06:18,870 --> 00:06:19,900
 Çok hızlı!
 
-54
+52
 00:06:19,900 --> 00:06:23,420
 Pekâlâ Kısrak!
 Hazine gemisini takip et!
 
-55
+53
 00:06:23,420 --> 00:06:25,690
 Senin hizmetçin değilim!
 
-56
+54
 00:06:25,690 --> 00:06:29,950
 Adım Speed!
 Arkadaşmışız gibi Kısrak deme!
 
-57
+55
 00:06:29,950 --> 00:06:34,160
 Ağabeyin lafını dinlemeni
 istiyorum, Kısrak-chan.
 
-58
+56
 00:06:36,410 --> 00:06:40,370
 Başüstüne, efendim!
 
-59
+57
 00:06:40,370 --> 00:06:44,820
 Öncü Speed-sama'ya böyle
 söz geçirdiklerine inanamıyorum!
 
-60
+58
 00:06:44,820 --> 00:06:47,260
 Ona bir şeyle şantaj mı yapıyorlar ki?
 
-61
+59
 00:06:52,180 --> 00:06:54,180
 Ağabey...
 
-62
+60
 00:06:55,250 --> 00:06:58,230
 Kızıl Şahin!
 
-63
+61
 00:06:59,440 --> 00:07:01,520
 Ateş Yumruk!
 
-64
+62
 00:07:08,890 --> 00:07:12,280
 Ağabey, demin aynı...
 
-65
+63
 00:07:14,710 --> 00:07:16,990
 Ace gibiydin.
 
-66
+64
 00:07:22,250 --> 00:07:24,380
 Ha? Ne?
 
-67
+65
 00:07:24,380 --> 00:07:25,990
 Bir şey mi dedin?
 
-68
+66
 00:07:30,800 --> 00:07:31,920
 Yok!
 
-69
+67
 00:07:32,800 --> 00:07:34,600
 Önemli değil.
 
-70
+68
 00:07:45,580 --> 00:07:47,400
 Kelleni alacağım.
 
-71
+69
 00:07:47,400 --> 00:07:49,150
 Ne dedin lan sen?
 
-72
+70
 00:07:51,320 --> 00:07:52,880
 Gebertelim şunu!
 
-73
+71
 00:07:52,880 --> 00:07:53,740
 – Aynen!
 – Aynen!
 
-74
+72
 00:07:53,740 --> 00:07:55,240
 Oda!
 
-75
+73
 00:07:57,780 --> 00:08:00,000
 Bu yetenek...
 
-76
+74
 00:08:00,650 --> 00:08:02,210
 Kolundaki dövme...
 
-77
+75
 00:08:03,000 --> 00:08:03,960
 Yoksa...
 
-78
+76
 00:08:09,490 --> 00:08:10,950
 Mümkün!
 
-79
+77
 00:08:11,340 --> 00:08:14,010
 İttifak kurmuşlar!
 
-80
+78
 00:08:18,850 --> 00:08:23,350
 Planımızdan haberdar olan Roronoa-ya
 bizimkilerin yanında.
 
-81
+79
 00:08:24,180 --> 00:08:29,300
 Ne kadar düşüncesiz hareket etseler de
 Holdem'i alt etmek gibi bir aptallık yapmazlar.
 
-82
+80
 00:08:30,730 --> 00:08:33,360
 Holdem-sama!
 
-83
+81
 00:08:33,360 --> 00:08:37,570
 Olamaz! Derhâl Jack-sama'ya
 bildirmemiz gerek!
 
-84
+82
 00:08:37,570 --> 00:08:39,450
 Ona el sürerlerse...
 
-85
+83
 00:08:39,450 --> 00:08:42,010
 planımız...
 
-86
+84
 00:08:42,600 --> 00:08:43,540
 suya düşer.
 
-87
+85
 00:08:47,130 --> 00:08:49,810
 Geber Hawkins!
 
-88
+86
 00:08:52,800 --> 00:08:53,800
 Değişim!
 
-89
+87
 00:09:12,470 --> 00:09:14,360
 İmdat!
 
-90
+88
 00:09:14,360 --> 00:09:17,740
 Ne? Yaşıyor muyum?
 
-91
+89
 00:09:17,740 --> 00:09:21,990
 N'oluyor lan?
 Üst bedeni olmadan hareket ediyor!
 
-92
+90
 00:09:24,960 --> 00:09:28,290
 Bir bakalım...
 Nasıl bir yetenek kullandı?
 
-93
+91
 00:09:29,130 --> 00:09:30,970
 Hasır Kılıç!
 
-94
+92
 00:09:32,210 --> 00:09:33,720
 Maskeni çıkar,
 
-95
+93
 00:09:34,300 --> 00:09:36,610
 Trafalgar Law!
 
-96
+94
 00:09:57,570 --> 00:10:02,450
 Bu kadar çabuk ölmeyeceğini
 biliyordum, Basil Hawkins!
 
-97
+95
 00:10:03,180 --> 00:10:03,910
 Fakat...
 
-98
+96
 00:10:06,200 --> 00:10:09,920
 Gevzelik etmeyi kes!
 Çeneni kapamasını bilirim!
 
-99
+97
 00:10:09,920 --> 00:10:11,880
 Saldırın!
 
-100
+98
 00:10:11,880 --> 00:10:12,590
 Bekleyin!
 
-101
+99
 00:10:19,600 --> 00:10:21,090
 Kesme!
 
-102
+100
 00:10:27,390 --> 00:10:28,350
 Takt!
 
-103
+101
 00:10:37,740 --> 00:10:38,860
 Değişim!
 
-104
+102
 00:10:59,580 --> 00:11:01,800
 Yedek canlarımın hepsini kestiğine göre...
 
-105
+103
 00:11:01,800 --> 00:11:04,470
 yeteneğimi çabucak çözmüşsün.
 
-106
+104
 00:11:04,470 --> 00:11:06,010
 Sadece seni zarflıyordum.
 
-107
+105
 00:11:06,780 --> 00:11:10,270
 Can almaktan hoşlanmıyorum,
 ne de olsa bir doktorum.
 
-108
+106
 00:11:11,710 --> 00:11:16,320
 Wano'ya hoş geldin. Sabaody'deki o günden bu yana görüşmemiştik.
 
-109
+107
 00:11:16,320 --> 00:11:21,280
 Müttefiklerin de burada olduğuna göre
 tatile gelmediğini varsayıyorum.
 
-110
+108
 00:11:22,620 --> 00:11:24,700
 Fark etmeyeceğimi mi sanmıştın?
 
-111
+109
 00:11:24,700 --> 00:11:27,660
 Bu sabah
 Hasır Şapkalar'la karşılaştım.
 
-112
+110
 00:11:29,310 --> 00:11:33,120
 Planınız açığa çıkmadan
 beni susturmak istemiş olmalısın.
 
-113
+111
 00:11:38,890 --> 00:11:43,220
 Soyguncular Holdem-sama'yı alt ettiler, şu an kaçıyorlar!
 
-114
+112
 00:11:43,220 --> 00:11:45,300
 Durumu ise Jack-sama'ya bildirdik!
 
-115
+113
 00:11:45,300 --> 00:11:49,770
 Holdem'i devirdikleri yetmezmiş gibi
 Jack da haberdar mı edilmiş?
 
-116
+114
 00:11:50,060 --> 00:11:55,080
 İşittiğin üzere
 boşa kürek çekmiş oldun.
 
-117
+115
 00:11:56,130 --> 00:12:02,400
 Tabii Hasır Şapkalar'la olan iş birliğiniz
 Kaido-san'ın da kulağına gidecek.
 
-118
+116
 00:12:04,650 --> 00:12:09,630
 Sersem herifler! Bizi olabilecek
 en kötü duruma soktular!
 
-119
+117
 00:12:13,960 --> 00:12:18,020
 Lan yoldakiler! Çekilin!
 
-120
+118
 00:12:18,020 --> 00:12:19,460
 Roronoa-ya?!
 
-121
+119
 00:12:19,460 --> 00:12:23,350
 Affedersiniz! Açılın lütfen!
 Acelemiz var da!
 
-122
+120
 00:12:33,180 --> 00:12:36,440
 Peşlerine düşün! Erzağımızı çaldılar!
 
-123
+121
 00:12:43,110 --> 00:12:45,090
 Roronoa-ya!
 
-124
+122
 00:12:45,090 --> 00:12:46,780
 N'aber Trao?
 
-125
+123
 00:12:48,030 --> 00:12:49,200
 Yapacağın işi...
 
-126
+124
 00:13:05,590 --> 00:13:07,260
 Derdin ne, Trao?
 
-127
+125
 00:13:07,260 --> 00:13:09,100
 Lanet herif...
 
-128
+126
 00:13:09,100 --> 00:13:11,470
 Ne? Bu da kim?
 
-129
+127
 00:13:13,020 --> 00:13:17,350
 Aranan biri olman yetmezmiş gibi
 Jack'in da dikkatini çekecek bir halt yedin!
 
-130
+128
 00:13:17,350 --> 00:13:21,350
 Olay çıkarmayacağına söz vermiştin!
 
-131
+129
 00:13:22,220 --> 00:13:23,570
 Üzgünüm.
 
-132
+130
 00:13:23,570 --> 00:13:25,360
 Hem...
 
-133
+131
 00:13:25,360 --> 00:13:27,450
 Kuri'de ne işin var ki?
 
-134
+132
 00:13:27,450 --> 00:13:31,410
 Çiçek Başkenti'nde bir ronin olman gerekiyordu!
 
-135
+133
 00:13:32,310 --> 00:13:33,540
 Tanıdık mı?
 
-136
+134
 00:13:33,540 --> 00:13:35,520
 Her şey yolunda mı?
 
-137
+135
 00:13:35,520 --> 00:13:36,790
 Nah yolunda!
 
-138
+136
 00:13:36,790 --> 00:13:38,260
 Pardon.
 
-139
+137
 00:13:38,630 --> 00:13:41,240
 El mâhkumdu.
 
-140
+138
 00:13:41,240 --> 00:13:43,550
 Luffy'yle karşılaştım da.
 
-141
+139
 00:13:45,170 --> 00:13:48,890
 Hasır Şapka-ya!
 Yine altından o çıktı!
 
-142
+140
 00:13:58,690 --> 00:14:01,060
 Zorojuro-san! Kasabadan çıkıyoruz!
 
-143
+141
 00:14:01,910 --> 00:14:03,550
 Güzel.
 
-144
+142
 00:14:03,550 --> 00:14:05,780
 Okobore Kasabası'nda erzağı indirin!
 
-145
+143
 00:14:07,780 --> 00:14:11,000
 Anne ya! Karnım kazınıyor!
 
-146
+144
 00:14:11,000 --> 00:14:12,740
 Biraz daha dayan oğlum.
 
-147
+145
 00:14:19,020 --> 00:14:20,330
 Ne oluyor?
 
-148
+146
 00:14:30,470 --> 00:14:32,220
 B-Bu...
 
-149
+147
 00:14:32,220 --> 00:14:35,320
 hazine gemisi!
 
-150
+148
 00:14:35,640 --> 00:14:38,520
 Bir sürü balık var!
 
-151
+149
 00:14:38,520 --> 00:14:41,120
 Yiyecek! Yiyecek!
 
-152
+150
 00:14:56,330 --> 00:14:58,040
 Hazine gemisi geldi!
 
-153
+151
 00:14:58,040 --> 00:15:01,370
 Kurtulduk!
 
-154
+152
 00:15:03,790 --> 00:15:05,590
 Süper!
 
-155
+153
 00:15:05,590 --> 00:15:07,880
 Herkes acele etsin!
 
-156
+154
 00:15:39,650 --> 00:15:41,540
 Yiyecek!
 
-157
+155
 00:15:41,540 --> 00:15:43,400
 Yiyebilir miyiz?
 
-158
+156
 00:15:43,400 --> 00:15:44,950
 Şükürler olsun!
 
-159
+157
 00:15:44,950 --> 00:15:46,340
 Hayatta kalabileceğiz!
 
-160
+158
 00:15:47,010 --> 00:15:49,300
 Enfes!
 
-161
+159
 00:15:49,930 --> 00:15:53,260
 Gemi dolusu erzak!
 
-162
+160
 00:15:53,910 --> 00:15:57,220
 Artık karnımız kazınmayacak, teşekkürler!
 
-163
+161
 00:15:58,050 --> 00:16:00,060
 Şükürler olsun.
 
-164
+162
 00:16:07,400 --> 00:16:10,030
 Hayır lan, bekleyin!
 
-165
+163
 00:16:10,030 --> 00:16:12,740
 Gemidekiler artık değil!
 
-166
+164
 00:16:12,740 --> 00:16:15,620
 Hazine gemisinden uzaklaşın!
 
-167
+165
 00:16:16,620 --> 00:16:18,990
 Avam müsveddeleri!
 
-168
+166
 00:16:18,990 --> 00:16:23,870
 Erzağa elinizi dahi sürmeyin!
 
-169
+167
 00:16:23,870 --> 00:16:26,750
 Haddini bilmeyen budalalar!
 
-170
+168
 00:16:27,540 --> 00:16:29,550
 Buradan ileri geçemezsiniz!
 
-171
+169
 00:16:29,550 --> 00:16:31,840
 Avamlardan taraf oluyorsunuz demek!
 
-172
+170
 00:16:31,840 --> 00:16:35,220
 Sıçtıklarım, bunun bedelini
 ağır ödeyeceksiniz!
 
-173
+171
 00:16:39,260 --> 00:16:41,270
 Hey!
 
-174
+172
 00:16:42,180 --> 00:16:44,900
 Beklettiğim için üzgünüm!
 
-175
+173
 00:16:55,320 --> 00:16:57,660
 Su getirdim!
 
-176
+174
 00:17:00,040 --> 00:17:03,910
 Zehirli de değil! Kana kana için!
 
-177
+175
 00:17:15,670 --> 00:17:19,260
 Yıllardır bu kadar
 içme suyumuz olmamıştı!
 
-178
+176
 00:17:19,260 --> 00:17:21,930
 Şükürler olsun! Şükürler olsun!
 
-179
+177
 00:17:23,850 --> 00:17:27,980
 Adım Luffytaro! Soran olursa söylersiniz!
 
-180
+178
 00:17:37,020 --> 00:17:39,820
 Luffytaro-san, teşekkürler!
 
-181
+179
 00:17:39,820 --> 00:17:42,200
 Ağabey!
 
-182
+180
 00:17:43,220 --> 00:17:44,160
 Tama!
 
-183
+181
 00:17:45,370 --> 00:17:46,660
 Amanın.
 
-184
+182
 00:17:46,660 --> 00:17:48,080
 Trao!
 
-185
+183
 00:17:48,080 --> 00:17:50,290
 Uzun zaman oldu!
 
-186
+184
 00:17:50,290 --> 00:17:52,050
 Hasır Şapka-ya...
 
-187
+185
 00:17:52,050 --> 00:17:55,760
 Wano'da isyan çıkardın.
 
-188
+186
 00:17:55,760 --> 00:17:58,990
 İsyan mı? Yok be!
 
-189
+187
 00:18:00,910 --> 00:18:01,600
 Al bakalım!
 
-190
+188
 00:18:07,220 --> 00:18:08,900
 Elma!
 
-191
+189
 00:18:09,650 --> 00:18:10,970
 Tama...
 
-192
+190
 00:18:14,180 --> 00:18:18,780
 Bana yaptığın yemeğin
 karşılığını veriyorum.
 
-193
+191
 00:18:18,780 --> 00:18:21,150
 Daha yeni başladım!
 
-194
+192
 00:18:30,630 --> 00:18:32,710
 Şu ete bir bakın ya!
 
-195
+193
 00:18:34,530 --> 00:18:36,630
 Hey! Siz!
 
-196
+194
 00:18:36,630 --> 00:18:38,630
 Bana da et bırakın oğlum!
 
-197
+195
 00:18:38,630 --> 00:18:41,730
 Et! Et, et!
 
-198
+196
 00:18:41,730 --> 00:18:43,560
 Et, et, et, et!
 
-199
+197
 00:18:43,560 --> 00:18:45,170
 Et!
 
-200
+198
 00:18:56,480 --> 00:18:58,280
 Holdem-sama!
 
-201
+199
 00:18:58,280 --> 00:19:00,450
 Yangın yayılıyor!
 
-202
+200
 00:19:00,450 --> 00:19:02,680
 İtfaiyeciler nerede?
 
-203
+201
 00:19:04,740 --> 00:19:07,670
 Holdem-sama! Dayanın!
 
-204
+202
 00:19:07,670 --> 00:19:10,120
 Gözlerinizi açın lütfen!
 
-205
+203
 00:19:17,180 --> 00:19:20,180
 Yalnızca aslan uyandı! Korkunç!
 
-206
+204
 00:19:23,600 --> 00:19:25,350
 Evet.
 
-207
+205
 00:19:25,350 --> 00:19:28,730
 Monkey D. Luffy, Roronoa Zoro...
 
-208
+206
 00:19:28,730 --> 00:19:30,940
 ve Trafalgar Law.
 
-209
+207
 00:19:31,600 --> 00:19:33,650
 Kendimi aciz göstermek istemesem de...
 
-210
+208
 00:19:34,510 --> 00:19:39,610
 tehlikeli üç korsanla ben bile
 yalnız başa çıkamam.
 
-211
+209
 00:19:57,960 --> 00:20:00,950
 Enfes ya!
 
-212
+210
 00:20:01,690 --> 00:20:03,640
 Ne mutlu sana, Tama!
 
-213
+211
 00:20:04,330 --> 00:20:05,470
 E-Evet!
 
-214
+212
 00:20:05,470 --> 00:20:09,370
 Bundan daha iyi bir doğum günü
 geçireceğimi sanmıyorum!
 
-215
+213
 00:20:09,370 --> 00:20:10,680
 Tama!
 
-216
+214
 00:20:10,680 --> 00:20:13,100
 Küçük düşünme!
 
-217
+215
 00:20:13,100 --> 00:20:15,480
 Her gününü böyle geçirmeni sağlayacağım!
 
-218
+216
 00:20:17,440 --> 00:20:20,440
 Ülkeden ayrılacağım güne dek,
 
-219
+217
 00:20:20,440 --> 00:20:24,280
 burayı tıka basa karnını doyurabileceğin bir yere çevireceğim!
 
-220
+218
 00:20:47,710 --> 00:20:51,100
 Bu ülkeye tekrar geldiğimizde...
 
-221
+219
 00:20:51,100 --> 00:20:55,310
 tıka basa karnını doyurabileceğin
 bir yere çevireceğim!
 
-222
+220
 00:21:15,580 --> 00:21:17,000
 Ha, hoşuna gitmedi mi?
 
-223
+221
 00:21:18,050 --> 00:21:19,000
 Ne?
 
-224
+222
 00:21:19,080 --> 00:21:20,960
 N-N-Ne?!
 
-225
+223
 00:21:20,960 --> 00:21:23,130
 E-Elbette...
 
-226
+224
 00:21:23,130 --> 00:21:26,120
 Elbette mutluyum ya!
 
-227
+225
 00:21:28,690 --> 00:21:30,760
 Biraz şaşırdım sadece.
 
-228
+226
 00:21:34,490 --> 00:21:35,460
 Anladım!
 
-229
+227
 00:21:39,360 --> 00:21:42,900
 Ulan, çok düşüncesizce hareket ettin!
 
-230
+228
 00:21:42,900 --> 00:21:46,990
 Şimdi, gerçekten peşimizden gelecekler!
 Hazır ol!
 
-231
+229
 00:21:46,990 --> 00:21:48,660
 Sen hiç konuşma lan!
 
-232
+230
 00:21:49,160 --> 00:21:52,740
 Burada uzun süre kalmamalıyız,
 yola koyulalım!
 
-233
+231
 00:21:53,980 --> 00:21:55,190
 Peşime düşün.
 
-234
+232
 00:21:56,730 --> 00:22:00,920
 Dağın zirvesindeki
 Oden Kalesi'nin kalıntılarına gidiyoruz!
 
-235
+233
 00:22:03,880 --> 00:22:06,050
 Öyleyse ben de gidiyorum.
 
-236
+234
 00:22:08,600 --> 00:22:10,650
 Teşekkür ederim.
 
-237
+235
 00:22:10,650 --> 00:22:13,930
 Pekâlâ, ona gözün gibi bak, Kısrak!
 
-238
+236
 00:22:13,930 --> 00:22:18,820
 Canavar Korsanları'ndan
 öncü Speed'im ben!
 
-239
+237
 00:22:18,820 --> 00:22:21,440
 Sersemin tekinden emir almam!
 
-240
+238
 00:22:22,730 --> 00:22:25,820
 Efendisini korumak
 hizmetkârın boynunun borcudur zaten!
 
-241
+239
 00:22:25,820 --> 00:22:29,860
 Öncü niye veledin lafına bakıyor ki?
 
-242
+240
 00:22:31,110 --> 00:22:32,200
 Ağabey...
 
-243
+241
 00:22:32,200 --> 00:22:34,100
 Ha? Ne oldu?
 
-244
+242
 00:22:35,220 --> 00:22:38,210
 Hiç unutmayacağım...
 
-245
+243
 00:22:43,130 --> 00:22:50,340
 Bugün içtiğim çorbayla elmanın tadını
 hayatım boyunca unutmayacağım!
 
-246
+244
 00:22:50,340 --> 00:22:51,590
 Süper!
 
-247
+245
 00:22:51,590 --> 00:22:56,970
 Amigasa Köyü'ne dönünce
 elmayı da muhterem üstadıma vereceğim!
 
-248
+246
 00:22:56,970 --> 00:23:01,270
 Bunak Burna da selam söyle!
 Köpeği getireceğime söz veriyorum!
 
-249
+247
 00:23:01,270 --> 00:23:02,740
 Tamam!
 
-250
+248
 00:23:02,740 --> 00:23:03,860
 Komachiyo!
 
-251
+249
 00:23:03,860 --> 00:23:07,010
 Ağabeye yardım etmeni istiyorum.
 
-252
+250
 00:23:08,360 --> 00:23:09,820
 Sahi!
 
-253
+251
 00:23:09,820 --> 00:23:15,180
 Kılıç biraz daha bende kalsın!
 Kılıçsız samuray olamam!
 
-254
+252
 00:23:15,180 --> 00:23:18,500
 Kullandığın yok ki!
 
-255
+253
 00:23:18,500 --> 00:23:22,080
 Ver de bir bakayım yav, hayret bir şeysin!
 
-256
+254
 00:23:22,460 --> 00:23:25,460
 Muhterem üstadıma iletirim!
 
-257
+255
 00:23:25,460 --> 00:23:27,330
 Tamam, teşekkürler!
 
-258
+256
 00:23:27,330 --> 00:23:30,010
 Artık yola koyulalım efendim!
 
-259
+257
 00:23:30,010 --> 00:23:32,250
 Sana zahmet!
 
-260
+258
 00:23:32,250 --> 00:23:34,550
 Yolunuz açık olsun!
 
-261
+259
 00:23:34,550 --> 00:23:36,010
 Peki! Öyleyse...
 
-262
+260
 00:23:38,020 --> 00:23:40,940
 görüşürüz!
 
-263
+261
 00:23:44,980 --> 00:23:47,070
 Görüşürüz!
 
-264
+262
 00:23:47,070 --> 00:23:49,810
 Tama!
 
-265
+263
 00:23:58,980 --> 00:24:00,120
 Hadi bakalım...
 
-266
+264
 00:24:00,120 --> 00:24:01,410
 Luffy!
 
-267
+265
 00:24:03,470 --> 00:24:04,750
 Biz de yolumuza bakalım!
 
-268
+266
 00:24:05,250 --> 00:24:06,920
 Luffytaro-san!
 
-269
+267
 00:24:09,010 --> 00:24:11,010
 – Luffytaro-san!
 – Luffytaro-san!
 
-270
+268
 00:24:11,010 --> 00:24:13,890
 İlk kez böyle bir ziyafet görüyorum!
 
-271
+269
 00:24:13,890 --> 00:24:16,000
 Dedem de ayaklanıverdi!
 
-272
+270
 00:24:16,000 --> 00:24:18,010
 Artık gözüm açık gitmem!
 
-273
+271
 00:24:18,010 --> 00:24:20,230
 Evladımızın da yüzüne kan geldi!
 
-274
+272
 00:24:21,850 --> 00:24:25,310
 İlk kez karnım bu kadar doydu ya!
 
-275
+273
 00:24:35,270 --> 00:24:36,610
 Ne güzel!
 
-276
+274
 00:24:41,700 --> 00:24:43,920
 Tamam öyleyse, biz kaçtık!
 
-277
+275
 00:24:43,920 --> 00:24:48,670
 – Hazine gemisi için teşekkürler!
 – Hazine gemisi için teşekkürler!
 
-278
+276
 00:24:48,670 --> 00:24:50,640
 – Minnettarız!
 – Minnettarız!
 
-279
+277
 00:24:50,640 --> 00:24:52,920
 – Yine gelin!
 – Teşekkürler!
 
-280
+278
 00:24:53,710 --> 00:24:56,630
 Korsanlar iyilik mi yaparmış?
 
-281
+279
 00:24:56,630 --> 00:24:57,640
 Tiksindim!
 
-282
+280
 00:24:59,510 --> 00:25:02,430
 İyi bir iş yapmışız ha!
 
-283
+281
 00:25:04,760 --> 00:25:06,550
 Hırsızlık yaptın.
 
-284
+282
 00:25:10,360 --> 00:25:12,190
 Millet!
 
-285
+283
 00:25:12,190 --> 00:25:15,110
 Kendinize iyi bakın!
 
-286
+284
 00:25:24,070 --> 00:25:27,810
 Dango yediğin için onun
 hizmetkârı olmadın yani.
 
-287
+285
 00:25:29,710 --> 00:25:31,050
 Peki...
 
-288
+286
 00:25:31,050 --> 00:25:33,320
 sen niye peşimize takılıyorsun?
 
-289
+287
 00:25:34,110 --> 00:25:38,510
 Ö-Özür dilerim! Oden Kalesi'ni
 hep ziyaret etmek istemişimdir!
 
-290
+288
 00:25:38,510 --> 00:25:43,410
 Vardıktan sonra kendim dönebilirim,
 size yük olmam!
 
-291
+289
 00:25:44,980 --> 00:25:46,500
 Sorun olmasın?
 
-292
+290
 00:25:47,310 --> 00:25:48,400
 Merak etme!
 
-293
+291
 00:25:48,400 --> 00:25:52,320
 Kiku hem iyi kalpli hem de güçlüdür,
 sorun olmaz!
 
-294
+292
 00:25:54,030 --> 00:25:55,400
 Hayır,
 
-295
+293
 00:25:55,400 --> 00:25:57,970
 bir şeyler saklıyor.
 
-296
+294
 00:25:58,980 --> 00:26:02,290
 Bu arada Trao, niye kaleye gidiyoruz?
 
-297
+295
 00:26:02,290 --> 00:26:04,410
 Eskiden kaleydi.
 
-298
+296
 00:26:05,070 --> 00:26:07,810
 Terk edilmiş kalıntılar...
 
-299
+297
 00:26:07,810 --> 00:26:10,990
 Oden Kalesi'nde ne işi var ki?
 
-300
+298
 00:26:11,540 --> 00:26:14,340
 Luffytaro-sanlar iyi insanlar olsa da...
 
-301
+299
 00:26:14,340 --> 00:26:16,610
 henüz tedbiri elden bırakamam.
 
-302
+300
 00:26:18,590 --> 00:26:21,030
 Sizden ayrıldıktan sonra...
 
-303
+301
 00:26:21,030 --> 00:26:25,050
 bir plan yaparak o doğrultuda
 hareket etmeye başladık.
 
-304
+302
 00:26:25,050 --> 00:26:28,020
 Neyse, varınca görürsün.
 
-305
+303
 00:26:28,020 --> 00:26:29,190
 Öncelikle...
 
-306
+304
 00:26:29,190 --> 00:26:32,430
 Wano'nun hayaletleriyle buluşacağız.
 
-307
+305
 00:26:34,110 --> 00:26:35,230
 Hayaletler mi?
 
-308
+306
 00:26:36,380 --> 00:26:38,060
 Küçük dilini yutacaksın.
 
-309
+307
 00:26:39,730 --> 00:26:43,280
 Evet, ben de afallamıştım.
 
-310
+308
 00:26:47,650 --> 00:26:49,790
 Orada...
 
-311
+309
 00:26:58,450 --> 00:27:01,680
 akıl almaz hakikati öğreneceksin!
 
-312
+310
 00:27:05,710 --> 00:27:06,890
 Her hâlükârda...
 
-313
+311
 00:27:06,890 --> 00:27:11,730
 konuşma faslını Oden Kalesi'nin kalıntılarının bulunduğu dağın zirvesine varınca yaparız.
 
-314
+312
 00:27:13,400 --> 00:27:14,610
 Gıcık!
 
-315
+313
 00:27:24,780 --> 00:27:26,370
 Çetin bir ceviz var.
 
-316
+314
 00:27:26,370 --> 00:27:27,700
 Evet.
 
-317
+315
 00:27:28,290 --> 00:27:30,250
 Orochi'nin suikastçisi olabilir.
 
-318
+316
 00:27:30,250 --> 00:27:32,000
 Luffy, siz devam edin.
 
-319
+317
 00:27:32,910 --> 00:27:36,210
 İcabına bakar bakmaz size yetişirim.
 
-320
+318
 00:27:36,210 --> 00:27:37,170
 Elinden öper.
 
-321
+319
 00:27:42,720 --> 00:27:45,610
 Adamakıllı saklandığını mı sanıyorsun?
 
-322
+320
 00:28:03,410 --> 00:28:05,240
 Kale male yok!
 
-323
+321
 00:28:05,240 --> 00:28:06,640
 Kalıntı dedik ya.
 
-324
+322
 00:28:06,640 --> 00:28:07,710
 Sahi.
 
-325
+323
 00:28:07,710 --> 00:28:09,590
 Peşimden gel, bu taraftan.
 
-326
+324
 00:28:16,620 --> 00:28:18,970
 Ne? Hey, Kiku!
 
-327
+325
 00:28:19,670 --> 00:28:21,470
 Nesi var acaba?
 
-328
+326
 00:28:21,470 --> 00:28:25,180
 Sahi, Zoro da gelmedi daha.
 
-329
+327
 00:28:31,560 --> 00:28:34,650
 Ürpertici bir yermiş.
 
-330
+328
 00:28:34,650 --> 00:28:37,400
 20 yıldır ayak basan olmadı.
 
-331
+329
 00:28:41,930 --> 00:28:43,170
 Onlar nedir?
 
-332
+330
 00:28:47,780 --> 00:28:50,210
 "Kozuki Oden'in..."?
 
-333
+331
 00:28:52,540 --> 00:28:55,250
 Diğer mezar taşlarına da göz at.
 
-334
+332
 00:28:57,400 --> 00:28:59,150
 "Kozuki..."
 
-335
+333
 00:29:02,820 --> 00:29:04,720
 Momonosuke derken...
 
-336
+334
 00:29:05,720 --> 00:29:09,050
 Tanıdığın veledin mezarı.
 
-337
+335
 00:29:09,050 --> 00:29:11,810
 Ne? Neler zırvalıyorsun Trao?
 
-338
+336
 00:29:11,810 --> 00:29:14,770
 Yalnızca veletten ibaret de değil.
 
-339
+337
 00:29:18,360 --> 00:29:19,950
 "Raizo"?!
 
-340
+338
 00:29:21,820 --> 00:29:23,550
 "Kanjuro"?!
 
-341
+339
 00:29:25,150 --> 00:29:26,920
 "Kin'emon"?!
 
-342
+340
 00:29:30,120 --> 00:29:32,790
 Neden mezarları var ki?
 
-343
+341
 00:29:41,270 --> 00:29:44,320
 Dur biraz, Wano'ya girerken...
 
-344
+342
 00:29:44,320 --> 00:29:47,300
 Kin'emon'a ulaşamamıştım.
 
-345
+343
 00:29:54,910 --> 00:29:57,120
 Y- Yoksa...
 
-346
+344
 00:30:03,320 --> 00:30:05,410
 öldüler mi?
 
-347
+345
 00:30:17,330 --> 00:30:19,350
 Tamam, geri dönelim...
 
-348
+346
 00:30:22,600 --> 00:30:25,720
 Nereye gitti bunlar?
 
-349
+347
 00:30:30,710 --> 00:30:32,350
 Rıhtım.
 
-350
+348
 00:30:47,530 --> 00:30:49,060
 Mümkün değil!
 
-351
+349
 00:30:51,990 --> 00:30:53,660
 Ölmüş olamazlar!
 
-352
+350
 00:30:53,660 --> 00:30:56,280
 Kin'emon'un burada beklediğini sanmıştım.
 
-353
+351
 00:30:56,310 --> 00:30:58,870
 Uzun zaman önce aramızdan ayrıldı.
 
-354
+352
 00:30:58,870 --> 00:30:59,870
 Ayrıldı mı?
 
-355
+353
 00:30:59,870 --> 00:31:02,330
 Gece vakti uğrayabilir ama.
 
-356
+354
 00:31:02,330 --> 00:31:04,990
 Dün gece de defalarca belirdi.
 
-357
+355
 00:31:07,720 --> 00:31:10,510
 Ne hayaletmiş gibi konuşuyorsun be!
 
-358
+356
 00:31:10,510 --> 00:31:14,930
 Bu mezarlar ne alaka?
 Çıkar ağzındaki baklayı, Trao!
 
-359
+357
 00:31:14,930 --> 00:31:17,140
 Dillendirmek istemediğin bir şey mi var?
 
-360
+358
 00:31:18,070 --> 00:31:20,810
 Söylemek bana düşmez.
 
-361
+359
 00:31:53,400 --> 00:31:55,220
 Luffy-dono!
 
-362
+360
 00:31:56,650 --> 00:31:57,140
 Ne?
 
-363
+361
 00:31:59,060 --> 00:32:00,060
 Kin!
 
-364
+362
 00:32:00,060 --> 00:32:02,730
 Neyse ki hayattasın!
 
-365
+363
 00:32:02,730 --> 00:32:06,210
 Girişte karşılamaya
 gelemediğim için üzgünüm.
 
-366
+364
 00:32:06,210 --> 00:32:08,570
 Sağ salim varabilmenize çok sevindim.
 
-367
+365
 00:32:08,570 --> 00:32:12,000
 Öyle cırcır olmuşum ki...
 
-368
+366
 00:32:12,000 --> 00:32:16,460
 bu geceyi de
 tuvalatte geçiririm diyordum.
 
-369
+367
 00:32:16,980 --> 00:32:20,370
 Ama ufaktan toparlamaya başladım.
 
-370
+368
 00:32:20,370 --> 00:32:23,250
 Vay arkadaş, götüm yırtılacaktı.
 
-371
+369
 00:32:23,250 --> 00:32:25,450
 Yaşıyormuş lan, Trao!
 
-372
+370
 00:32:25,450 --> 00:32:27,340
 Öldüğünü ne zaman dedim ki?
 
-373
+371
 00:32:27,340 --> 00:32:30,110
 Tuvaletten anca gece çıkar demek istemiştim.
 
-374
+372
 00:32:30,110 --> 00:32:31,920
 Böyle mi anlatılır be!
 
-375
+373
 00:32:33,820 --> 00:32:35,390
 Kin-sama!
 
-376
+374
 00:32:35,510 --> 00:32:36,480
 Kiku!
 
-377
+375
 00:32:37,680 --> 00:32:40,770
 Dönmüşsün!
 
-378
+376
 00:32:41,470 --> 00:32:42,940
 Öyle özlemişim ki...
 
-379
+377
 00:32:42,940 --> 00:32:44,810
 elim ayağım boşaldı!
 
-380
+378
 00:32:44,810 --> 00:32:46,270
 Demek öyle...
 
-381
+379
 00:32:46,270 --> 00:32:51,940
 Hayret bir şeysin ya!
 Madem döndün, niye yanıma gelmedin?
 
-382
+380
 00:32:51,940 --> 00:32:55,280
 Nasıl endişelenmiştim!
 Soğuk davranmasana!
 
-383
+381
 00:32:55,280 --> 00:32:56,220
 Ü-Üzgünüm!
 
-384
+382
 00:32:56,220 --> 00:32:57,990
 Momonosuke-sama da güvende mi?
 
-385
+383
 00:32:57,990 --> 00:32:58,980
 Evet.
 
-386
+384
 00:32:58,980 --> 00:33:01,450
 Momo da hayatta demek?
 
-387
+385
 00:33:01,450 --> 00:33:04,470
 Bir saniye, Kiku ile Kin tanışıyor muydu?
 
-388
+386
 00:33:04,470 --> 00:33:06,670
 Bayağı da sıkı fıkılar.
 
-389
+387
 00:33:06,670 --> 00:33:07,170
 Ne?
 
-390
+388
 00:33:07,170 --> 00:33:11,710
 Kiku, Luffy-donolar'ın yanında ne işin var?
 
-391
+389
 00:33:11,710 --> 00:33:15,010
 Ne? Yoksa onlar...
 
-392
+390
 00:33:16,840 --> 00:33:20,030
 Kime, nereden anlatmaya başlasam ki?
 
-393
+391
 00:33:23,220 --> 00:33:24,980
 Evet, Kiku!
 
-394
+392
 00:33:24,980 --> 00:33:28,730
 Onlar, Orochi'nin hakkından gelmemize yardım edecek yaman dostlar!
 
-395
+393
 00:33:28,730 --> 00:33:31,810
 Luffy-dono ile Law-dono!
 
-396
+394
 00:33:31,810 --> 00:33:33,360
 Vay!
 
-397
+395
 00:33:33,360 --> 00:33:35,820
 Hey, Luffy!
 
-398
+396
 00:33:36,820 --> 00:33:38,700
 Sağ salim geldin demek!
 
-399
+397
 00:33:39,890 --> 00:33:40,990
 Momonosuke-sama?!
 
-400
+398
 00:33:40,990 --> 00:33:45,070
 Luffy, ben de kılıç ustalığımı geliştiriyordum!
 
-401
+399
 00:33:45,070 --> 00:33:46,020
 Harika!
 
-402
+400
 00:33:46,020 --> 00:33:46,880
 Bak şimdi!
 
-403
+401
 00:33:49,080 --> 00:33:52,210
 Momonosuke-sama!
 İyi olmanıza çok sevindim!
 
-404
+402
 00:33:52,210 --> 00:33:54,720
 Teşekkürler Kiku, uzun zaman oldu.
 
-405
+403
 00:33:54,720 --> 00:33:58,430
 Köpek amca da Wano'ya geldi mi, Momo?
 
-406
+404
 00:33:58,430 --> 00:33:59,640
 Ne? Momo mu?
 
-407
+405
 00:33:59,640 --> 00:34:03,590
 Momonosuke-sama'ya öyle hitap etmek
 saygısızlık olur ama!
 
-408
+406
 00:34:04,020 --> 00:34:06,020
 Dert değil, Kiku.
 
-409
+407
 00:34:06,020 --> 00:34:07,440
 Ne? Peki öyleyse.
 
-410
+408
 00:34:07,440 --> 00:34:10,770
 Inuarashi de geldi tabii.
 
-411
+409
 00:34:10,770 --> 00:34:12,730
 Demek öyle.
 
-412
+410
 00:34:13,930 --> 00:34:16,010
 Geriye bir tek onlar kalıyor öyleyse.
 
-413
+411
 00:34:16,610 --> 00:34:20,310
 Daha varmadık mı ya?
 Ayaklarıma kara sular indi.
 
-414
+412
 00:34:20,310 --> 00:34:25,690
 Kalenin kalıntılarına bakınmamızı
 söylediğinden bu dağda olmalılar.
 
-415
+413
 00:34:25,690 --> 00:34:28,210
 Neyse ki iletişime geçebildik ya!
 
-416
+414
 00:34:30,290 --> 00:34:32,030
 Hey!
 
-417
+415
 00:34:33,920 --> 00:34:36,840
 Gelmişsin, Luffy!
 
-418
+416
 00:34:36,840 --> 00:34:38,340
 – Luffy!
 – Luffy!
 
-419
+417
 00:34:38,340 --> 00:34:40,760
 Çocuklar! Gelin gelin!
 
-420
+418
 00:34:40,760 --> 00:34:42,220
 Luffy!
 
-421
+419
 00:34:42,220 --> 00:34:44,470
 İyi olmana çok sevindim!
 
-422
+420
 00:34:46,310 --> 00:34:48,650
 Garchu!
 
-423
+421
 00:34:48,650 --> 00:34:52,360
 Luffy! Samuray gibi giyinmişsin!
 Yakıyorsun ha!
 
-424
+422
 00:34:52,360 --> 00:34:53,980
 Niye bu kadar geciktiniz?
 
-425
+423
 00:34:53,980 --> 00:34:57,570
 Deniz tabanına kadar
 her yerde seni arıyorduk lan!
 
-426
+424
 00:34:57,570 --> 00:35:01,820
 Vivre kartını bulduğumuzdan
 en azından hayatta olduğunu biliyorduk.
 
-427
+425
 00:35:01,820 --> 00:35:03,410
 Onami!
 
-428
+426
 00:35:03,410 --> 00:35:04,780
 Momo-chan!
 
-429
+427
 00:35:04,780 --> 00:35:07,400
 Kin'emon-san, sıhhatin yerinde mi?
 
-430
+428
 00:35:07,400 --> 00:35:08,830
 Öyle böyle.
 
-431
+429
 00:35:08,830 --> 00:35:11,770
 Momonosuke-san, seni de iyi gördüm.
 
-432
+430
 00:35:12,330 --> 00:35:14,250
 Düşündüğüm gibi, abaza çükütay!
 
-433
+431
 00:35:14,250 --> 00:35:17,490
 Tayfaya döndün demek Sanji-dono.
 
-434
+432
 00:35:17,490 --> 00:35:19,770
 Evet, endişelendirdiğim için üzgünüm.
 
-435
+433
 00:35:19,770 --> 00:35:20,900
 Kin-san!
 
-436
+434
 00:35:23,180 --> 00:35:27,560
 Bu insanlar da
 Luffytaro-san'ın yoldaşları mı oluyor?
 
-437
+435
 00:35:27,560 --> 00:35:30,140
 Ne güzel bir hanımefendi!
 
-438
+436
 00:35:31,980 --> 00:35:33,270
 Hey!
 
-439
+437
 00:35:33,280 --> 00:35:35,450
 Tamam lan! Çekil artık!
 
-440
+438
 00:35:35,450 --> 00:35:37,280
 Haddini aşıyorsun, Kemikichi!
 
-441
+439
 00:35:37,280 --> 00:35:39,560
 Karışmasana çocuğa, Brook!
 
-442
+440
 00:35:39,560 --> 00:35:40,900
 Değil mi, Momo-chan?
 
-443
+441
 00:35:40,900 --> 00:35:43,300
 Onami...
 
-444
+442
 00:35:41,870 --> 00:35:43,300
 Momo!
 
-445
+443
 00:35:43,700 --> 00:35:45,860
 Momo!
 
-446
+444
 00:35:45,860 --> 00:35:48,830
 Hepsi de Luffy-dono'nun yoldaşıdır!
 
-447
+445
 00:35:48,830 --> 00:35:51,700
 Bize arka çıkacak güvenilir insanlardır!
 
-448
+446
 00:35:56,870 --> 00:36:00,810
 Momonosuke-sama,
 şükürler olsun ki yüzünüz gülüyor.
 
-449
+447
 00:36:02,630 --> 00:36:04,390
 Kaptan!
 
-450
+448
 00:36:04,390 --> 00:36:06,180
 Siz miydiniz?
 
-451
+449
 00:36:06,180 --> 00:36:08,090
 Bepo ne durumda?
 
-452
+450
 00:36:08,090 --> 00:36:11,560
 Cırcır olduğundan çalılıkta yatıp kalkıyor.
 
-453
+451
 00:36:12,780 --> 00:36:14,690
 Bir tane düzgün adam çıkmaz mı be?
 
-454
+452
 00:36:16,490 --> 00:36:17,360
 Hasır Şapka-ya.
 
-455
+453
 00:36:17,360 --> 00:36:18,090
 Ha?
 
-456
+454
 00:36:18,090 --> 00:36:20,020
 İçeride bir konuşalım hele.
 
-457
+455
 00:36:20,020 --> 00:36:21,080
 Tamam.
 
-458
+456
 00:36:21,080 --> 00:36:24,330
 Tarladan sağlıklı besinler çaldık.
 
-459
+457
 00:36:24,330 --> 00:36:26,830
 Hırsız sendin demek!
 
-460
+458
 00:36:29,200 --> 00:36:32,620
 Merkezimiz bu yıkık kale olacak.
 
-461
+459
 00:36:42,720 --> 00:36:44,850
 Ortalığı bok götürüyor!
 
-462
+460
 00:36:44,850 --> 00:36:46,760
 Kusura bakmayın arkadaşlar.
 
-463
+461
 00:36:54,060 --> 00:36:56,940
 Luffy-dono! Millet!
 
-464
+462
 00:36:56,940 --> 00:36:59,860
 Wano'ya geldiğiniz için teşekkür ederim!
 
-465
+463
 00:37:00,470 --> 00:37:03,110
 Tekrardan minnettarız!
 
-466
+464
 00:37:03,110 --> 00:37:04,820
 Lafı olmaz!
 
-467
+465
 00:37:04,820 --> 00:37:06,070
 Aynen!
 
-468
+466
 00:37:07,380 --> 00:37:11,350
 Öncelikle, Momonosuke-sama'nın
 kimliğinin yanı sıra...
 
-469
+467
 00:37:11,350 --> 00:37:15,920
 sizinle paylaşmadığım bir konu daha var.
 
-470
+468
 00:37:17,130 --> 00:37:19,380
 Amma sırrınız varmış ha!
 
-471
+469
 00:37:19,380 --> 00:37:22,880
 Dökülün gitsin artık! O kadar mazimiz var!
 
-472
+470
 00:37:22,880 --> 00:37:24,330
 Harbiden!
 
-473
+471
 00:37:24,330 --> 00:37:26,260
 Arkadaşız artık!
 
-474
+472
 00:37:26,260 --> 00:37:29,590
 Ne deseniz haklısınız, özür dilerim!
 
-475
+473
 00:37:29,930 --> 00:37:34,350
 Fakat söyleyeceklerime inanmayacaksınız.
 
-476
+474
 00:37:35,470 --> 00:37:37,230
 Neymiş o? Yumurtla artık!
 
-477
+475
 00:37:41,940 --> 00:37:45,960
 Tanıştığınız Kanjuro ile Raizo'yla...
 
-478
+476
 00:37:45,960 --> 00:37:48,820
 buradaki üçümüz olmak üzere...
 
-479
+477
 00:37:48,820 --> 00:37:50,660
 beşimiz beraber...
 
-480
+478
 00:37:51,360 --> 00:37:53,160
 esasen...
 
-481
+479
 00:37:54,760 --> 00:37:57,120
 geçmişten geldik!
 
-482
+480
 00:37:57,890 --> 00:37:58,460
 Ha?
 
-483
+481
 00:37:58,460 --> 00:37:59,680
 – Ne?
 – Ne?
 
-484
+482
 00:37:59,680 --> 00:38:01,340
 Geçmişten mi?
 
-485
+483
 00:38:01,340 --> 00:38:03,420
 Bu da ne demek oluyor?
 
-486
+484
 00:38:25,600 --> 00:38:30,450
 Şöyle ki, bizler
 20 yıl önceki Wano Ülkesi'nden...
 
-487
+485
 00:38:31,580 --> 00:38:35,620
 zamanda yolculuk yaparak
 günümüze geldik!
 
-488
+486
 00:38:39,050 --> 00:38:39,790
 Ha?!
 
-489
+487
 00:38:41,250 --> 00:38:44,230
 Haaaa?!
 
-490
+488
 00:26:52,540 --> 00:27:03,350
 - Mezarlık -
 
-491
+489
 00:26:52,540 --> 00:27:03,350
 Hizmetkâr Kanjuro
 
-492
+490
 00:26:54,050 --> 00:27:03,350
 Hizmetkâr Raizo
 
-493
+491
 00:26:55,670 --> 00:27:03,350
 Hizmetkâr Kin'emon
 
-494
+492
 00:26:57,050 --> 00:27:03,350
 Kozuki Momonosuke
 
-495
+493
 00:26:58,760 --> 00:27:03,350
 Kozuki Oden
 
-496
+494
 00:28:05,280 --> 00:28:09,580
 Oden Kalesinin Kalıntıları
 Kuri, Wano
 
-497
+495
 00:28:59,750 --> 00:29:00,260
 Mo-
 
-498
+496
 00:29:00,260 --> 00:29:00,760
 mo-
 
-499
+497
 00:29:00,760 --> 00:29:01,260
 no-
 
-500
+498
 00:29:01,260 --> 00:29:01,710
 suke
 
-501
+499
 00:29:51,100 --> 00:29:53,560
 Kin'emon
 
-502
+500
 00:30:53,660 --> 00:30:55,490
 Kin'emon'un Mezarı
 
-503
+501
 00:32:17,080 --> 00:32:23,240
 "Tilki Ateşi" Kin'emon
 Kozuki Hanesi Hizmetkârı
 
-504
+502
 00:38:10,640 --> 00:38:13,970
 -Mezarlık-
 
-505
+503
 00:38:10,640 --> 00:38:13,970
 Kozuki Oden
 
-506
+504
 00:38:10,640 --> 00:38:13,970
 Hizmetkâr Kin'emon
 
-507
+505
 00:38:10,640 --> 00:38:13,970
 Kozuki Momonosuke
 
-508
+506
 00:38:10,640 --> 00:38:13,970
 Hizmetkâr Kanjuro
 
-509
+507
 00:38:10,640 --> 00:38:13,970
 Hizmetkâr Raizo
 
-510
+508
 00:38:13,970 --> 00:38:15,270
 Kin'emon
 
-511
+509
 00:38:15,270 --> 00:38:16,520
 Kanjuro
 
-512
+510
 00:38:16,520 --> 00:38:17,810
 Raizo
 
-513
+511
 00:38:17,810 --> 00:38:19,190
 Momonosuke
+

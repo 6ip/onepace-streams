@@ -1,1243 +1,1230 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,920
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:02:08,480 --> 00:02:10,070
 What's wrong, Zoro?
 
-4
+2
 00:02:10,070 --> 00:02:12,570
 You've had a serious look
 on your face for a while.
 
-5
+3
 00:02:12,570 --> 00:02:15,110
 Well, I might just be
 imagining things, but...
 
-6
+4
 00:02:15,110 --> 00:02:16,070
 But what?
 
-7
+5
 00:02:16,070 --> 00:02:20,700
 I feel like the ship
 hasn't moved in a while.
 
-8
+6
 00:02:24,960 --> 00:02:25,540
 What?
 
-9
+7
 00:02:26,630 --> 00:02:30,920
 Now that you mention it,
 the sail isn't catching any wind...
 
-10
+8
 00:02:34,340 --> 00:02:35,470
 Oh no...!
 
-11
+9
 00:02:35,470 --> 00:02:37,550
 We've entered the Calm Belt!
 
-12
+10
 00:02:37,890 --> 00:02:38,890
 The Balm Belt?
 
-13
+11
 00:02:38,890 --> 00:02:39,720
 The heck is that?
 
-14
+12
 00:02:39,720 --> 00:02:42,230
 The Calm Belt! A sea where
 nothing moves a muscle!
 
-15
+13
 00:02:42,230 --> 00:02:43,310
 You grew some muscle?
 
-16
+14
 00:02:43,310 --> 00:02:44,520
 No, you idiot!
 
-17
+15
 00:02:51,400 --> 00:02:52,610
 Was that an earthquake?
 
-18
+16
 00:02:52,610 --> 00:02:54,400
 An earthquake? But we're at sea.
 
-19
+17
 00:02:54,400 --> 00:02:56,820
 Come on, guys, focus!
 
-20
+18
 00:02:56,820 --> 00:02:58,740
 Hoist the sails and start paddling!
 
-21
+19
 00:02:58,740 --> 00:03:00,330
 Put the ship back on course, now!
 
-22
+20
 00:03:00,330 --> 00:03:01,700
 As you wish, Nami!
 
-23
+21
 00:03:02,080 --> 00:03:03,960
 What are you panicking about?
 
-24
+22
 00:03:03,960 --> 00:03:05,790
 And why paddle? This is a sailboat.
 
-25
+23
 00:03:05,790 --> 00:03:06,960
 Yeah, why?
 
-26
+24
 00:03:06,960 --> 00:03:09,790
 Just shut up and do as I say!
 We're in big trouble!
 
-27
+25
 00:03:09,790 --> 00:03:11,630
 But the sea is nice and quiet here.
 
-28
+26
 00:03:11,630 --> 00:03:12,260
 Yeah.
 
-29
+27
 00:03:12,260 --> 00:03:15,010
 Alright, fine! I'll explain!
 
-30
+28
 00:03:15,010 --> 00:03:20,600
 Listen. Since we were in such a hurry,
 we went farther south than intended!
 
-31
+29
 00:03:20,600 --> 00:03:22,520
 So we're in the Grand Line now?
 
-32
+30
 00:03:22,520 --> 00:03:24,140
 Alright!
 
-33
+31
 00:03:24,140 --> 00:03:27,150
 If it was that easy,
 anyone could enter!
 
-34
+32
 00:03:28,730 --> 00:03:29,730
 Look here.
 
-35
+33
 00:03:29,730 --> 00:03:34,690
 The Grand Line runs between
 these two strips of sea.
 
-36
+34
 00:03:34,690 --> 00:03:39,530
 Are you following? The two strips
 are called the Calm Belts.
 
-37
+35
 00:03:40,620 --> 00:03:44,870
 The reason's unknown, but no wind
 or currents flow through them.
 
-38
+36
 00:03:44,870 --> 00:03:46,910
 These seas are completely calm.
 
-39
+37
 00:03:46,910 --> 00:03:49,670
 Sailboats need wind to move
 so it's very dangerous—
 
-40
+38
 00:03:49,670 --> 00:03:51,420
 maybe even fatal—without it!
 
-41
+39
 00:03:51,420 --> 00:03:52,920
 Did you get all that, Luffy?
 
-42
+40
 00:03:52,920 --> 00:03:54,710
 Yeah. Basically, we're in trouble.
 
-43
+41
 00:03:54,710 --> 00:03:57,430
 That explains the lack of wind.
 
-44
+42
 00:03:57,430 --> 00:03:59,760
 Not much we can do
 if the ship can't move.
 
-45
+43
 00:03:59,760 --> 00:04:01,510
 Can't we just wait for wind to–
 
-46
+44
 00:04:01,510 --> 00:04:05,640
 I just explained this! Wind won't blow
 no matter how long you wait here!
 
-47
+45
 00:04:05,640 --> 00:04:06,810
 And that's not all!
 
-48
+46
 00:04:06,810 --> 00:04:10,190
 There's another reason
 this area is dangerous!
 
-49
+47
 00:04:10,190 --> 00:04:11,610
 The Calm Belt is–
 
-50
+48
 00:04:13,610 --> 00:04:15,070
 What's going on?
 
-51
+49
 00:04:20,490 --> 00:04:22,160
 They're here!
 
-52
+50
 00:04:22,160 --> 00:04:23,410
 Huh?
 
-53
+51
 00:04:23,410 --> 00:04:24,200
 What's that?
 
-54
+52
 00:04:30,000 --> 00:04:31,790
 Th-Th-They're...
 
-55
+53
 00:04:31,790 --> 00:04:33,590
 They're huge!
 
-56
+54
 00:04:39,880 --> 00:04:42,550
 The Calm Belt is a nest of sea kings.
 
-57
+55
 00:04:42,550 --> 00:04:44,510
 Specifically colossal ones.
 
-58
+56
 00:04:44,890 --> 00:04:48,980
 They're the other reason people
 can't cross the Calm Belt...
 
-59
+57
 00:04:49,980 --> 00:04:51,900
 What do we do now?
 
-60
+58
 00:04:52,270 --> 00:04:55,270
 F-For the time being, no one move.
 
-61
+59
 00:04:55,270 --> 00:04:57,400
 They'll go back into
 the sea eventually.
 
-62
+60
 00:04:57,400 --> 00:05:00,910
 When they do, we paddle
 as hard as possible.
 
-63
+61
 00:05:00,910 --> 00:05:02,660
 Are you serious?!
 
-64
+62
 00:05:02,660 --> 00:05:03,530
 Shut it, idiot!
 
-65
+63
 00:05:05,280 --> 00:05:07,120
 Sorry...
 
-66
+64
 00:05:11,540 --> 00:05:13,210
 Hold on a sec...!
 
-67
+65
 00:05:13,210 --> 00:05:14,670
 If it does that...
 
-68
+66
 00:05:14,670 --> 00:05:17,170
 He's gonna sneeze!
 
-69
+67
 00:05:17,800 --> 00:05:20,050
 – What?!
 – What?!
 
-70
+68
 00:05:20,050 --> 00:05:22,800
 Wow! It feels like we're flying!
 
-71
+69
 00:05:24,720 --> 00:05:31,190
 We are flying!
 
-72
+70
 00:05:33,600 --> 00:05:36,400
 Looks like we're back on course...
 
-73
+71
 00:05:36,400 --> 00:05:39,940
 We should be seeing
 the Red Line any moment now.
 
-74
+72
 00:05:43,950 --> 00:05:46,990
 Are we finally going
 into the Grand Line?!
 
-75
+73
 00:05:47,830 --> 00:05:52,080
 Hey, Sanji! We're here,
 we're here, we're finally here!
 
-76
+74
 00:05:52,080 --> 00:05:53,670
 That hurts!
 
-77
+75
 00:05:53,670 --> 00:05:54,750
 Sorry...
 
-78
+76
 00:05:55,210 --> 00:05:56,460
 Zoro!
 
-79
+77
 00:05:56,460 --> 00:05:57,710
 We're here, we're here!
 
-80
+78
 00:05:56,460 --> 00:05:57,710
 But...
 
-81
+79
 00:05:57,710 --> 00:06:01,340
 We're here, we're here, we're here!
 
-82
+80
 00:05:57,710 --> 00:06:01,340
 is the drawing an accurate
 representation of what we'll find?
 
-83
+81
 00:06:01,340 --> 00:06:03,470
 Quit it!
 
-84
+82
 00:06:09,100 --> 00:06:10,180
 Look at this!
 
-85
+83
 00:06:11,430 --> 00:06:15,100
 I'd heard the rumors about it,
 and it's drawn on this map, too!
 
-86
+84
 00:06:15,100 --> 00:06:19,150
 If all of that is true, then the entrance
 to the Grand Line is a mountain!
 
-87
+85
 00:06:19,150 --> 00:06:20,690
 A mountain?
 
-88
+86
 00:06:20,690 --> 00:06:22,070
 We gotta crash into it?
 
-89
+87
 00:06:22,070 --> 00:06:23,200
 You're kidding, right?
 
-90
+88
 00:06:23,200 --> 00:06:28,200
 I doubted it myself, but the map
 shows canals leading to the mountain.
 
-91
+89
 00:06:28,200 --> 00:06:30,370
 That might mean we have to go up it!
 
-92
+90
 00:06:31,450 --> 00:06:33,250
 Cool!
 
-93
+91
 00:06:33,250 --> 00:06:34,710
 What are you talking about?!
 
-94
+92
 00:06:34,710 --> 00:06:39,090
 Even with canals or whatever,
 a ship can't climb up a mountain!
 
-95
+93
 00:06:39,090 --> 00:06:40,710
 But that's what the map says!
 
-96
+94
 00:06:40,710 --> 00:06:44,180
 Exactly! Nami would never
 say anything wrong!
 
-97
+95
 00:06:44,800 --> 00:06:47,430
 You stole that map
 from Buggy, right?
 
-98
+96
 00:06:47,430 --> 00:06:48,850
 Can we really trust it?
 
-99
+97
 00:06:48,850 --> 00:06:50,140
 H-Hey!
 
-100
+98
 00:06:50,140 --> 00:06:52,180
 Someone help me move the whipstaff!
 
-101
+99
 00:06:52,180 --> 00:06:54,560
 Sanji! Give Usopp a hand!
 
-102
+100
 00:06:54,560 --> 00:06:56,900
 I can't think with all his shouting!
 
-103
+101
 00:06:56,900 --> 00:06:58,440
 Right away, Nami!
 
-104
+102
 00:06:58,440 --> 00:06:59,520
 Here I go!
 
-105
+103
 00:06:52,770 --> 00:06:55,560
 It won't budge!
 
-106
+104
 00:06:55,560 --> 00:06:58,440
 It won't move! Someone help!
 
-107
+105
 00:06:59,980 --> 00:07:03,440
 D-Doesn't this current
 seem a bit strong?!
 
-108
+106
 00:07:03,440 --> 00:07:04,200
 Huh?
 
-109
+107
 00:07:04,200 --> 00:07:05,820
 Usopp, say that again!
 
-110
+108
 00:07:05,820 --> 00:07:08,570
 "D-Doesn't this current
 seem a bit strong?!"
 
-111
+109
 00:07:08,570 --> 00:07:10,370
 Current...
 
-112
+110
 00:07:10,370 --> 00:07:11,200
 That's it!
 
-113
+111
 00:07:11,200 --> 00:07:12,330
 What's it?
 
-114
+112
 00:07:12,330 --> 00:07:14,160
 The canals do go up the mountain!
 
-115
+113
 00:07:14,160 --> 00:07:16,710
 You're still on that?
 
-116
+114
 00:07:16,710 --> 00:07:17,420
 Look here!
 
-117
+115
 00:07:17,420 --> 00:07:18,540
 See?
 
-118
+116
 00:07:18,540 --> 00:07:21,750
 The guiding light was
 definitely pointing to here.
 
-119
+117
 00:07:21,750 --> 00:07:24,090
 Right on the Red Line:
 Reverse Mountain!
 
-120
+118
 00:07:24,090 --> 00:07:26,550
 Hey! What do I do now?!
 
-121
+119
 00:07:27,090 --> 00:07:29,220
 See these canals here?
 
-122
+120
 00:07:29,220 --> 00:07:34,680
 If major currents from the four seas
 all flowed toward this mountain...
 
-123
+121
 00:07:36,020 --> 00:07:40,270
 Then the four currents would go up
 these canals, collide at the top,
 
-124
+122
 00:07:40,270 --> 00:07:42,360
 and flow into the Grand Line!
 
-125
+123
 00:07:42,900 --> 00:07:45,070
 Reverse Mountain is a winter island,
 
-126
+124
 00:07:45,070 --> 00:07:50,410
 so any currents that collide with
 the Red Line will go into the depths.
 
-127
+125
 00:07:50,410 --> 00:07:53,040
 If we screw up and miss
 the entrance to the canal...
 
-128
+126
 00:07:53,660 --> 00:07:56,500
 the Going Merry will crash
 into the Red Line...
 
-129
+127
 00:07:58,750 --> 00:08:00,920
 and get completely wrecked!
 
-130
+128
 00:08:01,630 --> 00:08:04,300
 Then we'd end up at the bottom
 of the ocean. Get it?
 
-131
+129
 00:08:04,300 --> 00:08:05,720
 Oh, very interesting!
 
-132
+130
 00:08:05,720 --> 00:08:08,760
 So, basically, it's a mystery mountain!
 
-133
+131
 00:08:10,140 --> 00:08:13,060
 Well, I guess you wouldn't...
 
-134
+132
 00:08:13,680 --> 00:08:16,680
 All in all, now that
 we're on this current,
 
-135
+133
 00:08:16,680 --> 00:08:18,440
 as long as we steer correctly,
 
-136
+134
 00:08:18,440 --> 00:08:21,650
 it's a straight shot to the summit
 of Reverse Mountain!
 
-137
+135
 00:08:21,650 --> 00:08:24,530
 You're amazing, Nami!
 
-138
+136
 00:08:24,530 --> 00:08:27,450
 I've never heard of someone
 going up a mountain by boat.
 
-139
+137
 00:08:27,450 --> 00:08:29,160
 I've heard some stories!
 
-140
+138
 00:08:29,530 --> 00:08:30,950
 About the mystery mountain?
 
-141
+139
 00:08:30,950 --> 00:08:32,070
 No.
 
-142
+140
 00:08:32,580 --> 00:08:37,710
 I heard that half of everyone who heads
 to the Grand Line die before entering...
 
-143
+141
 00:08:38,660 --> 00:08:41,630
 I knew getting in wouldn't be easy.
 
-144
+142
 00:08:42,000 --> 00:08:43,500
 Sanji! Could you get the sail?
 
-145
+143
 00:08:43,500 --> 00:08:45,250
 Of course, Nami!
 
-146
+144
 00:08:45,250 --> 00:08:46,380
 Luffy! Help out!
 
-147
+145
 00:08:46,380 --> 00:08:48,340
 What?!
 
-148
+146
 00:09:00,730 --> 00:09:01,980
 Hey!
 
-149
+147
 00:09:01,980 --> 00:09:04,110
 I see the mystery mountain!
 
-150
+148
 00:09:04,110 --> 00:09:05,730
 – Wh-What?!
 – What?!
 
-151
+149
 00:09:06,150 --> 00:09:08,780
 Th-That's insanely huge!
 
-152
+150
 00:09:11,160 --> 00:09:13,740
 So that's the Red Line, huh?!
 
-153
+151
 00:09:14,240 --> 00:09:20,250
 Th-Th-The t-top's all the way
 above the clouds!
 
-154
+152
 00:09:40,680 --> 00:09:42,480
 We're getting sucked in!
 
-155
+153
 00:09:43,100 --> 00:09:44,730
 Hold the rudder tight!
 
-156
+154
 00:09:44,730 --> 00:09:46,230
 – On it!
 – On it!
 
-157
+155
 00:09:53,530 --> 00:09:56,120
 N-Nami! Wh-Where's the entrance?!
 
-158
+156
 00:09:56,120 --> 00:09:59,080
 We're gonna crash
 if we keep going this way!
 
-159
+157
 00:10:01,410 --> 00:10:03,330
 The crack in that cliff...
 
-160
+158
 00:10:06,210 --> 00:10:09,050
 Nami! What do we do?!
 
-161
+159
 00:10:09,050 --> 00:10:10,460
 Keep going straight ahead!
 
-162
+160
 00:10:10,460 --> 00:10:11,630
 Are you sure?!
 
-163
+161
 00:10:11,630 --> 00:10:12,840
 Just do it!
 
-164
+162
 00:10:13,840 --> 00:10:15,800
 Nami! Is that the entrance?
 
-165
+163
 00:10:15,800 --> 00:10:17,260
 Most likely!
 
-166
+164
 00:10:17,930 --> 00:10:19,720
 I can't believe this...!
 
-167
+165
 00:10:20,390 --> 00:10:23,890
 The damn ocean really is
 flowing up the mountain!
 
-168
+166
 00:10:28,980 --> 00:10:32,240
 We gotta be careful sailing
 through those gates!
 
-169
+167
 00:10:32,570 --> 00:10:35,110
 If we don't get it just right,
 the ship is done for!
 
-170
+168
 00:10:38,910 --> 00:10:42,120
 W-We're a little off!
 More to the right! The right!
 
-171
+169
 00:10:42,120 --> 00:10:44,420
 The right?! Go starboard!
 
-172
+170
 00:10:47,210 --> 00:10:49,710
 C-Come on, now!
 
-173
+171
 00:10:56,640 --> 00:10:58,180
 – The whipstaff!
 – The whipstaff!
 
-174
+172
 00:10:58,180 --> 00:11:00,890
 Gum-Gum Balloon!
 
-175
+173
 00:11:11,730 --> 00:11:13,490
 Luffy!
 
-176
+174
 00:11:13,940 --> 00:11:14,820
 Grab on!
 
-177
+175
 00:11:27,710 --> 00:11:30,380
 – We made it!
 – We made it!
 
-178
+176
 00:11:36,510 --> 00:11:39,850
 Now it's just a straight
 shot to the summit!
 
-179
+177
 00:11:44,100 --> 00:11:46,850
 A-Awesome!
 
-180
+178
 00:11:54,110 --> 00:11:55,190
 Awesome, right?
 
-181
+179
 00:11:57,300 --> 00:12:00,070
 We're in the clouds!
 
-182
+180
 00:12:11,000 --> 00:12:13,340
 So cool!
 
-183
+181
 00:12:14,760 --> 00:12:16,840
 Now we're above the clouds!
 
-184
+182
 00:12:27,180 --> 00:12:30,270
 Look! It's the summit! The summit!
 
-185
+183
 00:12:43,030 --> 00:12:45,290
 Yahoo!
 
-186
+184
 00:13:06,390 --> 00:13:07,430
 I see it!
 
-187
+185
 00:13:07,850 --> 00:13:10,270
 This is the greatest sea in the world!
 
-188
+186
 00:13:10,270 --> 00:13:11,560
 The Grand Line!
 
-189
+187
 00:13:14,270 --> 00:13:18,610
 The One Piece is somewhere up ahead!
 
-190
+188
 00:13:19,190 --> 00:13:21,740
 Go!
 
-191
+189
 00:13:36,250 --> 00:13:38,130
 Did you hear that just now?
 
-192
+190
 00:13:38,130 --> 00:13:40,050
 Wasn't it just the wind?
 
-193
+191
 00:13:40,050 --> 00:13:43,220
 It must be from all the weird
 landforms around here.
 
-194
+192
 00:13:48,520 --> 00:13:49,480
 What's that?
 
-195
+193
 00:13:50,060 --> 00:13:52,560
 Nami! I see a mountain up ahead!
 
-196
+194
 00:13:52,560 --> 00:13:54,900
 A mountain?! That can't be right!
 
-197
+195
 00:13:54,900 --> 00:13:56,940
 But there's really one there!
 
-198
+196
 00:13:56,940 --> 00:13:59,230
 Who cares?! Go!
 
-199
+197
 00:13:59,900 --> 00:14:03,910
 It should be open sea once
 we pass the Twin Capes up ahead!
 
-200
+198
 00:14:09,750 --> 00:14:11,120
 Oh, crap!
 
-201
+199
 00:14:13,290 --> 00:14:14,750
 It's not a mountain!
 
-202
+200
 00:14:14,750 --> 00:14:16,000
 It's a big black wall!
 
-203
+201
 00:14:16,000 --> 00:14:17,170
 No, it's not! That's...
 
-204
+202
 00:14:17,170 --> 00:14:18,300
 What is it then?!
 
-205
+203
 00:14:18,300 --> 00:14:19,550
 I-I-I-It's...
 
-206
+204
 00:14:19,550 --> 00:14:21,670
 It's a whale!
 
-207
+205
 00:14:24,180 --> 00:14:25,680
 Wh-Wh-What are we g-gonna do?!
 
-208
+206
 00:14:25,680 --> 00:14:26,640
 We should fight it!
 
-209
+207
 00:14:26,640 --> 00:14:28,810
 Are you crazy?! How are
 we gonna fight that?!
 
-210
+208
 00:14:28,810 --> 00:14:31,770
 B-B-But, i-i-it's blocking our way!
 
-211
+209
 00:14:31,770 --> 00:14:33,480
 What are we gonna do?!
 
-212
+210
 00:14:33,480 --> 00:14:34,940
 Hold on a sec!
 
-213
+211
 00:14:35,480 --> 00:14:39,440
 If it looks like a wall from
 this close, where are its eyes?!
 
-214
+212
 00:14:39,940 --> 00:14:43,570
 That's right! Maybe it
 hasn't noticed us yet!
 
-215
+213
 00:14:43,570 --> 00:14:46,120
 Either way, we're about
 to crash into it!
 
-216
+214
 00:14:46,120 --> 00:14:48,160
 Hey! There's an opening on the left!
 
-217
+215
 00:14:48,160 --> 00:14:50,620
 Port! Hard to port!
 
-218
+216
 00:14:51,200 --> 00:14:52,700
 But the whipstaff is broken!
 
-219
+217
 00:14:52,700 --> 00:14:55,170
 Well, figure something out! I'll help!
 
-220
+218
 00:14:55,170 --> 00:14:56,540
 Oh, yeah!
 
-221
+219
 00:14:56,540 --> 00:14:58,840
 I've got an idea!
 
-222
+220
 00:14:58,840 --> 00:14:59,500
 Luffy...?
 
-223
+221
 00:14:59,500 --> 00:15:01,380
 Hey, what are you doing?!
 
-224
+222
 00:15:06,720 --> 00:15:08,550
 This isn't working!
 
-225
+223
 00:15:08,550 --> 00:15:11,140
 The ship won't turn!
 
-226
+224
 00:15:11,140 --> 00:15:12,430
 Dammit!
 
-227
+225
 00:15:12,430 --> 00:15:14,560
 Don't give up!
 
-228
+226
 00:15:23,240 --> 00:15:25,150
 Is this it...?!
 
-229
+227
 00:15:32,160 --> 00:15:34,370
 The cannon?!
 
-230
+228
 00:15:32,410 --> 00:15:34,370
 The cannon?!
 
-231
+229
 00:15:32,660 --> 00:15:34,370
 The cannon?!
 
-232
+230
 00:15:32,910 --> 00:15:34,370
 The cannon?!
 
-233
+231
 00:15:34,370 --> 00:15:36,330
 Alright! Did it stop?
 
-234
+232
 00:15:44,340 --> 00:15:45,420
 We're screwed...
 
-235
+233
 00:15:45,840 --> 00:15:46,840
 Yeah, this is it...
 
-236
+234
 00:15:49,680 --> 00:15:51,600
 My special seat!
 
-237
+235
 00:16:08,660 --> 00:16:09,240
 Let's...
 
-238
+236
 00:16:09,240 --> 00:16:11,160
 Let's book it while we still can!
 
-239
+237
 00:16:11,160 --> 00:16:13,160
 What the heck is going on?!
 
-240
+238
 00:16:13,160 --> 00:16:15,660
 Is it so big that
 it didn't even feel it?!
 
-241
+239
 00:16:15,660 --> 00:16:17,000
 Or is it just slow?!
 
-242
+240
 00:16:17,000 --> 00:16:18,960
 Who cares?! Let's get
 the hell out of here!
 
-243
+241
 00:16:24,800 --> 00:16:25,840
 My ears!
 
-244
+242
 00:16:25,840 --> 00:16:27,470
 Paddle! Just keep paddling!
 
-245
+243
 00:16:27,470 --> 00:16:29,380
 We have to get away from it!
 
-246
+244
 00:16:35,600 --> 00:16:36,730
 Luffy...?
 
-247
+245
 00:16:36,730 --> 00:16:38,100
 You!
 
-248
+246
 00:16:38,100 --> 00:16:42,690
 What the hell did you do
 to my special seat?!
 
-249
+247
 00:16:43,980 --> 00:16:46,990
 – You dumbass!
 – You dumbass!
 
-250
+248
 00:16:53,910 --> 00:16:56,750
 How was that, huh?!
 Bring it on, you bastard!
 
-251
+249
 00:16:56,750 --> 00:16:58,330
 – Shut up already, you idiot!
 – Shut up already, you idiot!
 
-252
+250
 00:17:02,330 --> 00:17:03,710
 Wh-What?
 
-253
+251
 00:17:19,640 --> 00:17:20,600
 Luffy!
 
-254
+252
 00:17:20,600 --> 00:17:21,480
 Luffy!
 
-255
+253
 00:17:27,690 --> 00:17:30,650
 I'm not gonna die!
 
-256
+254
 00:17:58,270 --> 00:17:59,600
 What am I gonna do?
 
-257
+255
 00:17:59,600 --> 00:18:01,140
 They all got eaten...
 
-258
+256
 00:18:02,190 --> 00:18:05,150
 Hey, you! Spit them out!
 Give everyone back!
 
-259
+257
 00:18:05,150 --> 00:18:07,070
 Spit them out already! Listen to me!
 
-260
+258
 00:18:07,070 --> 00:18:07,980
 You–
 
-261
+259
 00:18:10,240 --> 00:18:11,990
 You... You jerk!
 
-262
+260
 00:18:12,400 --> 00:18:14,490
 Are you diving?! Stop it!
 
-263
+261
 00:18:14,490 --> 00:18:16,950
 Hey! I said stop! Hey!
 
-264
+262
 00:18:17,740 --> 00:18:19,910
 Please, stop! Give my friends back!
 
-265
+263
 00:18:20,370 --> 00:18:21,160
 Hey!
 
-266
+264
 00:18:21,160 --> 00:18:22,870
 Stop it already!
 
-267
+265
 00:18:23,250 --> 00:18:25,540
 We were just about
 to go on an adventure!
 
-268
+266
 00:18:25,540 --> 00:18:26,880
 I can't lose them!
 
-269
+267
 00:18:27,380 --> 00:18:30,010
 Give them back!
 
-270
+268
 00:18:51,530 --> 00:18:53,610
 So, what do you think?
 
-271
+269
 00:18:53,610 --> 00:18:55,530
 What do I think...?
 
-272
+270
 00:18:55,530 --> 00:18:57,240
 What should I think?
 
-273
+271
 00:18:57,240 --> 00:18:58,990
 H-H-H-H-How...?
 
-274
+272
 00:18:58,990 --> 00:19:03,160
 We were definitely
 swallowed by that whale...
 
-275
+273
 00:19:04,920 --> 00:19:06,580
 Is this a dream?
 
-276
+274
 00:19:06,580 --> 00:19:09,170
 Yeah, it's gotta be a dream.
 
-277
+275
 00:19:14,840 --> 00:19:17,390
 Then, how do you explain
 that island and house?
 
-278
+276
 00:19:17,390 --> 00:19:18,760
 Hallucinations.
 
-279
+277
 00:19:23,350 --> 00:19:25,520
 So, that's also...?
 
-280
+278
 00:19:26,190 --> 00:19:29,520
 – It's an imperial squid!
 – It's an imperial squid!
 
-281
+279
 00:19:50,750 --> 00:19:52,750
 Looks like someone lives there.
 
-282
+280
 00:19:52,750 --> 00:19:54,340
 Let's hope they're human.
 
-283
+281
 00:19:55,340 --> 00:19:57,340
 I've had enough. I wanna go home.
 
-284
+282
 00:19:57,340 --> 00:20:01,140
 Luffy's gone, too...
 What's gonna happen to us?
 
-285
+283
 00:20:01,140 --> 00:20:02,810
 You're right! Where's Luffy?!
 
-286
+284
 00:20:04,850 --> 00:20:06,690
 What the heck is all this?
 
-287
+285
 00:20:06,690 --> 00:20:10,610
 Why is there a door
 to a hallway inside a whale?
 
-288
+286
 00:20:13,480 --> 00:20:14,570
 A ship...
 
-289
+287
 00:20:14,570 --> 00:20:18,740
 Sh-Sh-Should we f-fire
 the cannon at that island?!
 
-290
+288
 00:20:18,740 --> 00:20:20,570
 No, hold on a sec...
 
-291
+289
 00:20:22,030 --> 00:20:24,040
 Someone's coming out...
+

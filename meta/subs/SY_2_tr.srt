@@ -1,1391 +1,1378 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:49,960 --> 00:01:59,950
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:52,550 --> 00:01:56,300
 Kulağa kötü gelen suikast
 kelimesini kullanma, Jango.
 
-4
+2
 00:01:56,300 --> 00:01:58,140
 Ah, haklısın.
 
-5
+3
 00:01:58,140 --> 00:01:59,770
 Yanlışlıkla. Yanlışlıkla oldu.
 
-6
+4
 00:02:01,850 --> 00:02:04,350
 Hey, onlar neden bahsediyor?
 
-7
+5
 00:02:04,350 --> 00:02:06,110
 B-Bana sorma!
 
-8
+6
 00:02:06,110 --> 00:02:08,570
 Ben de bunu öğrenmeye çalışıyorum.
 
-9
+7
 00:02:08,980 --> 00:02:11,530
 Öylece onu öldüremeyiz.
 
-10
+8
 00:02:11,530 --> 00:02:15,450
 Kaya hanımefendi
 bir kaza yüzünden ölmeli.
 
-11
+9
 00:02:15,450 --> 00:02:17,030
 Sakın berbat etme!
 
-12
+10
 00:02:18,080 --> 00:02:23,960
 Kısacası, işaretinle köye saldırıp
 hanımefendiyi öldüreceğiz.
 
-13
+11
 00:02:24,460 --> 00:02:27,710
 Sonra mirasına sahip olacaksın.
 
-14
+12
 00:02:27,710 --> 00:02:30,590
 Aptal! Kafanı çalıştır!
 
-15
+13
 00:02:30,590 --> 00:02:34,130
 Bir yabancı onun mirasına
 nasıl sahip olabilir?!
 
-16
+14
 00:02:34,130 --> 00:02:36,010
 Çok çalışarak mı?
 
-17
+15
 00:02:36,010 --> 00:02:37,720
 Çok çalışmak nafile.
 
-18
+16
 00:02:38,600 --> 00:02:41,640
 Dinle, en önemli kısmını anlatıyorum.
 
-19
+17
 00:02:41,640 --> 00:02:45,690
 Kaya'yı öldürmeden önce, hipnotize
 edip vasiyetine şunu yazdıracaksın...
 
-20
+18
 00:02:46,060 --> 00:02:50,190
 "Tüm servetimi uşağım
 Klahadore’a bırakıyorum!"
 
-21
+19
 00:02:52,440 --> 00:02:57,450
 Ancak o zaman
 onun muazzam servetine...
 
-22
+20
 00:02:58,200 --> 00:03:00,910
 yasal bir şekilde sahip olabilirim.
 
-23
+21
 00:03:01,790 --> 00:03:06,620
 Tam 3 yıl boyunca etrafındaki
 herkesin güvenini kazandım,
 
-24
+22
 00:03:06,620 --> 00:03:10,840
 böylece mirasını bana bıraktığında
 kimse şüphelenmeyecek.
 
-25
+23
 00:03:11,460 --> 00:03:14,800
 Bunun için 3 yıl uşaklık yaptın, ha?
 
-26
+24
 00:03:14,800 --> 00:03:17,390
 O zamanlar bizi çok korkutmuştun,
 
-27
+25
 00:03:17,390 --> 00:03:18,470
 Kaptan Kuro.
 
-28
+26
 00:03:19,390 --> 00:03:23,220
 3 yıl önce aniden korsanlığı
 bırakacağını söylemiştin.
 
-29
+27
 00:03:23,930 --> 00:03:27,190
 Sana benzeyen bir astını feda edip...
 
-30
+28
 00:03:27,190 --> 00:03:30,860
 dünyayı Kaptan Kuro'nun
 öldüğüne inandırdın.
 
-31
+29
 00:03:41,450 --> 00:03:45,330
 İşte planın başlangıcı buydu.
 
-32
+30
 00:03:45,330 --> 00:03:47,370
 "Bin Planlı" Kuro'ya yakışır şekilde.
 
-33
+31
 00:03:47,370 --> 00:03:49,670
 Beni o isimle anma.
 
-34
+32
 00:03:49,670 --> 00:03:51,880
 3 yıl önce o ismi bıraktım.
 
-35
+33
 00:03:52,130 --> 00:03:56,630
 Sadece zengin olup, hükûmetin
 beni takip etmesini istemiyorum.
 
-36
+34
 00:03:56,630 --> 00:03:59,220
 Başka bir deyişle,
 şimdi bir barışseverim.
 
-37
+35
 00:04:01,050 --> 00:04:03,720
 Çok barışseversin, yahu!
 
-38
+36
 00:04:03,720 --> 00:04:08,190
 Hangi barışsever zengin bir kızın
 bütün ailesini öldürür ki?
 
-39
+37
 00:04:08,190 --> 00:04:09,270
 Dur, bakalım.
 
-40
+38
 00:04:09,270 --> 00:04:11,730
 Babasının ölümünün
 benimle bir alakası yok.
 
-41
+39
 00:04:11,730 --> 00:04:13,610
 O beklenmedik bir şeydi.
 
-42
+40
 00:04:13,860 --> 00:04:14,940
 Her neyse.
 
-43
+41
 00:04:14,940 --> 00:04:16,570
 Beni ilgilendirmez.
 
-44
+42
 00:04:16,570 --> 00:04:19,030
 Bize işaret ver artık.
 
-45
+43
 00:04:19,030 --> 00:04:24,080
 Gemimiz neredeyse bir haftadır
 yakınlarda demirlemiş vaziyette.
 
-46
+44
 00:04:24,660 --> 00:04:27,710
 Adamlarım sabırsızlanıyor.
 
-47
+45
 00:04:33,880 --> 00:04:35,460
 Çok fena!
 
-48
+46
 00:04:36,210 --> 00:04:39,090
 Korkunç bir şeye kulak misafiri olduk!
 
-49
+47
 00:04:40,340 --> 00:04:43,050
 Hey, neler oluyor?
 Pek iyi görünmüyor.
 
-50
+48
 00:04:43,050 --> 00:04:46,600
 Dinlemedin mi?!
 Bu gerçekten korkunç!
 
-51
+49
 00:04:46,600 --> 00:04:47,930
 Onlar ciddiler!
 
-52
+50
 00:04:48,270 --> 00:04:55,150
 Kaptan Kuro, tüm zamanların en kurnaz
 ve gaddar korsanı olarak bilinir!
 
-53
+51
 00:04:55,980 --> 00:05:00,240
 3 sene önce denizciler tarafından
 yakalanıp idam edildiğini duymuştum.
 
-54
+52
 00:05:00,240 --> 00:05:02,660
 Ama Kaptan Kuro yaşıyor...
 
-55
+53
 00:05:02,660 --> 00:05:05,200
 "Uşak Klahadore" olarak!
 
-56
+54
 00:05:05,200 --> 00:05:10,830
 3 yıldır Kaya'nın servetinin peşindeymiş!
 
-57
+55
 00:05:12,380 --> 00:05:14,500
 Köye saldıracaklar!
 
-58
+56
 00:05:15,040 --> 00:05:16,050
 Kaya da tehlikede!
 
-59
+57
 00:05:19,420 --> 00:05:20,590
 Korkunç!
 
-60
+58
 00:05:20,590 --> 00:05:22,890
 Gerçekten korkunç!
 
-61
+59
 00:05:25,680 --> 00:05:28,100
 H-Hey, ayağa kalkma!
 Seni görecekler!
 
-62
+60
 00:05:28,100 --> 00:05:29,390
 Hey, sizler!
 
-63
+61
 00:05:29,390 --> 00:05:31,190
 Hanımefendiye dokunmayın!
 
-64
+62
 00:05:33,230 --> 00:05:34,400
 Sen kimsin?!
 
-65
+63
 00:05:34,400 --> 00:05:37,320
 Salak!
 Seni fark ettiler!
 
-66
+64
 00:05:37,320 --> 00:05:39,360
 Çabuk! Öldürülmeden saklan!
 
-67
+65
 00:05:39,740 --> 00:05:40,990
 Bak sen...
 
-68
+66
 00:05:40,990 --> 00:05:43,740
 Bu Usopp-kun değil mi?
 
-69
+67
 00:05:44,990 --> 00:05:46,700
 Beni de gördüler!
 
-70
+68
 00:05:47,330 --> 00:05:50,660
 Bazı ilginç şeyler duymuş
 olabilir misin?
 
-71
+69
 00:05:50,660 --> 00:05:53,370
 H-Hayır!
 N-Ne demek istiyorsun?!
 
-72
+70
 00:05:53,370 --> 00:05:56,130
 Daha yeni geldik, bu yüzden hiç–
 
-73
+71
 00:05:56,130 --> 00:05:57,300
 Her şeyi duyduk!
 
-74
+72
 00:05:57,300 --> 00:05:58,340
 Hey!
 
-75
+73
 00:06:04,510 --> 00:06:07,760
 Peki, peki.
 
-76
+74
 00:06:08,510 --> 00:06:10,270
 Hey, beyinsizler!
 
-77
+75
 00:06:10,730 --> 00:06:12,440
 Dikkatlice halkaya bakın!
 
-78
+76
 00:06:12,730 --> 00:06:14,310
 Ha? O da ne?
 
-79
+77
 00:06:14,310 --> 00:06:17,440
 Ç-Çok kötü! Bu bir fırlatma silahı!
 Savuştur!
 
-80
+78
 00:06:18,440 --> 00:06:21,690
 "Bir, iki, Jango" diyeceğim ve
 uyuyacaksınız.
 
-81
+79
 00:06:21,690 --> 00:06:23,150
 Tamam mı?
 
-82
+80
 00:06:23,150 --> 00:06:24,530
 Bir...
 
-83
+81
 00:06:24,530 --> 00:06:25,570
 İki...
 
-84
+82
 00:06:23,700 --> 00:06:26,120
 Saklan! Bizi öldürecek!
 
-85
+83
 00:06:26,120 --> 00:06:27,070
 Jango!
 
-86
+84
 00:06:32,200 --> 00:06:33,830
 Hey, uyan, Jango!
 
-87
+85
 00:06:33,830 --> 00:06:36,040
 Hâlâ bu alışkanlığından kurtulamadın mı?
 
-88
+86
 00:06:38,250 --> 00:06:40,880
 H-Hey, ne yapıyorsun?!
 Düşeceksin!
 
-89
+87
 00:06:44,680 --> 00:06:47,930
 Kafa üstü, ha?
 
-90
+88
 00:06:47,930 --> 00:06:50,560
 Seni öldürmek gibi bir niyetim yoktu.
 
-91
+89
 00:06:50,560 --> 00:06:53,180
 O yükseklikten düşünce,
 kurtulamazsın.
 
-92
+90
 00:06:53,560 --> 00:06:54,520
 Kahretsin!
 
-93
+91
 00:06:55,770 --> 00:06:57,020
 Onu öldürdü!
 
-94
+92
 00:06:57,020 --> 00:06:58,150
 Şerefsiz herif!
 
-95
+93
 00:06:58,150 --> 00:06:59,480
 Kahretsin!
 
-96
+94
 00:06:59,940 --> 00:07:01,480
 Peki ya diğeri?
 
-97
+95
 00:07:01,480 --> 00:07:03,240
 İcabına bakayım mı?
 
-98
+96
 00:07:03,240 --> 00:07:04,450
 Gerek yok.
 
-99
+97
 00:07:04,820 --> 00:07:07,620
 Ne söylerse söylesin,
 işe yaramayacak.
 
-100
+98
 00:07:09,580 --> 00:07:11,620
 Yarın sabah, Jango.
 
-101
+99
 00:07:11,620 --> 00:07:13,960
 Şafak vakti köye saldırın.
 
-102
+100
 00:07:13,960 --> 00:07:16,170
 Köylülerin evlerini yağmalayın,
 
-103
+101
 00:07:16,170 --> 00:07:20,540
 ve Kaya hanımefendinin cinayetinin
 bir kaza gibi görünmesini sağlayın!
 
-104
+102
 00:07:21,920 --> 00:07:23,010
 Yarın!
 
-105
+103
 00:07:23,340 --> 00:07:25,760
 İşte böyle, Usopp.
 
-106
+104
 00:07:25,760 --> 00:07:30,510
 Ne duymuş olursan ol,
 planımı bozamayacaksın.
 
-107
+105
 00:07:30,510 --> 00:07:31,930
 Lanet olsun!
 
-108
+106
 00:07:35,890 --> 00:07:37,350
 Emin misin?
 
-109
+107
 00:07:37,350 --> 00:07:40,400
 Elbette. Planım kusursuz.
 
-110
+108
 00:07:42,820 --> 00:07:45,360
 Bu çok kötü!
 Bu gerçekten çok kötü!
 
-111
+109
 00:07:45,860 --> 00:07:48,780
 Birlikte büyüdüğüm herkes öldürülecek.
 
-112
+110
 00:07:48,780 --> 00:07:50,870
 Kaya öldürülecek!
 
-113
+111
 00:07:51,240 --> 00:07:54,910
 Sevdiğim herkes...!
 
-114
+112
 00:07:57,080 --> 00:07:58,670
 Sen de kimsin?!
 
-115
+113
 00:07:58,670 --> 00:08:00,330
 Ben Usopp!
 
-116
+114
 00:08:00,330 --> 00:08:02,340
 Denizin cesur savaşçısı!
 
-117
+115
 00:08:03,420 --> 00:08:05,460
 Son zamanlarda
 mutsuz olduğunu duydum!
 
-118
+116
 00:08:05,460 --> 00:08:07,510
 Bir hikâyeyle seni neşelendireyim!
 
-119
+117
 00:08:08,010 --> 00:08:09,890
 Seni ilgilendirmez!
 
-120
+118
 00:08:09,890 --> 00:08:10,890
 Lütfen git!
 
-121
+119
 00:08:10,890 --> 00:08:12,640
 Yoksa birilerini çağıracağım!
 
-122
+120
 00:08:16,140 --> 00:08:18,560
 Sonra? Ondan sonra ne oldu?!
 
-123
+121
 00:08:18,560 --> 00:08:20,310
 Tabii ki savaştım!
 
-124
+122
 00:08:22,230 --> 00:08:26,780
 Kahretsin!
 
-125
+123
 00:08:31,240 --> 00:08:32,620
 – Kaptan!
 – Kaptan!
 
-126
+124
 00:08:32,620 --> 00:08:35,830
 Ne?
 Luffy onunla değil miydi?
 
-127
+125
 00:08:38,040 --> 00:08:39,210
 – Kaptan!
 – Kaptan!
 
-128
+126
 00:08:40,330 --> 00:08:42,670
 Luffy nerede?
 Seninle kıyıda...?
 
-129
+127
 00:08:47,010 --> 00:08:51,340
 Hâlâ babasının aşağılanmasına mı öfkeli?
 
-130
+128
 00:08:52,680 --> 00:08:54,310
 Kim bilir?
 
-131
+129
 00:08:54,560 --> 00:08:56,810
 Hayır, bakışları farklıydı!
 
-132
+130
 00:08:56,810 --> 00:08:58,560
 Evet, bir şey olmuş olmalı!
 
-133
+131
 00:08:58,560 --> 00:09:01,020
 Yüz ifadesini böyle değiştiren
 ne olabilir?
 
-134
+132
 00:09:01,850 --> 00:09:04,400
 Hey, o kıyıya nasıl gidebiliriz?
 
-135
+133
 00:09:04,770 --> 00:09:06,900
 Bu işte bir sıkıntı var gibi!
 
-136
+134
 00:09:06,900 --> 00:09:09,200
 Evet, kıyıda bir şey olmuş olmalı.
 
-137
+135
 00:09:09,200 --> 00:09:11,360
 Bu Usopp Korsanlarına göre bir iş!
 
-138
+136
 00:09:11,610 --> 00:09:14,240
 Tamam, anladık be!
 Oraya nasıl gideceğiz?!
 
-139
+137
 00:09:19,080 --> 00:09:22,250
 Kötü haber, millet!!!
 
-140
+138
 00:09:22,250 --> 00:09:26,710
 Korsanlar geliyor!!!
 
-141
+139
 00:09:30,130 --> 00:09:33,930
 Korsanlar, yarın sabah bu köye
 baskın yapacaklar!
 
-142
+140
 00:09:33,930 --> 00:09:35,760
 Herkes kaçsın!
 
-143
+141
 00:09:53,490 --> 00:09:54,700
 Hey, Usopp!
 
-144
+142
 00:09:54,700 --> 00:09:56,910
 Yeter artık, yeter!
 
-145
+143
 00:09:56,910 --> 00:10:00,120
 Seni sonsuza dek susturacağız!
 
-146
+144
 00:10:00,120 --> 00:10:02,620
 H-Hayır, bu sefer öyle değil!
 
-147
+145
 00:10:02,620 --> 00:10:03,960
 Bu kez doğru!
 
-148
+146
 00:10:04,210 --> 00:10:07,290
 Kapa' çeneni!
 Bize hep yalan söyledin.
 
-149
+147
 00:10:07,290 --> 00:10:11,470
 Eğer Klahadore kadar dürüst
 olsaydın, sana inanabilirdik.
 
-150
+148
 00:10:11,510 --> 00:10:14,390
 Ne söylerse söylesin,
 işe yaramayacak.
 
-151
+149
 00:10:14,390 --> 00:10:15,970
 Yarın sabah, Jango.
 
-152
+150
 00:10:15,970 --> 00:10:18,220
 Şafak vakti köye saldırın.
 
-153
+151
 00:10:18,970 --> 00:10:20,350
 Kahretsin!
 
-154
+152
 00:10:20,350 --> 00:10:25,520
 Beni saldı, çünkü kimsenin bana
 inanmayacağını biliyordu, değil mi?!
 
-155
+153
 00:10:31,860 --> 00:10:34,110
 Bu hoşunuza gitti mi?
 
-156
+154
 00:10:35,030 --> 00:10:38,160
 Komşu kasabadan sipariş ettiğiniz...
 
-157
+155
 00:10:38,490 --> 00:10:40,700
 gözlükleri aldım.
 
-158
+156
 00:10:40,700 --> 00:10:42,580
 Evet, mükemmel!
 
-159
+157
 00:10:43,580 --> 00:10:47,130
 Seni komşu kasabaya kadar
 yorduğum için üzgünüm.
 
-160
+158
 00:10:53,920 --> 00:10:55,300
 Hediye mi?
 
-161
+159
 00:10:55,300 --> 00:10:56,550
 Evet.
 
-162
+160
 00:10:56,550 --> 00:11:01,060
 Yarın Klahadore'un bu malikâneye
 gelişinin 3. yıldönümü olacak.
 
-163
+161
 00:11:01,060 --> 00:11:03,310
 Onca yıldır benimle ilgilendi.
 
-164
+162
 00:11:03,850 --> 00:11:06,480
 Klahadore-san buna bayılacak!
 
-165
+163
 00:11:06,480 --> 00:11:07,270
 Evet!
 
-166
+164
 00:11:10,020 --> 00:11:12,530
 Millet, lütfen beni dinleyin!
 
-167
+165
 00:11:12,900 --> 00:11:15,610
 Korsanlar yarın sabah
 buraya gerçekten saldıracak!
 
-168
+166
 00:11:15,990 --> 00:11:20,990
 Senin her uydurduğuna inansaydık,
 çoktan yüzlerce kez kaçmıştık!
 
-169
+167
 00:11:20,990 --> 00:11:23,580
 Lütfen bana inanın!
 Buradan kaçmalısınız!
 
-170
+168
 00:11:23,580 --> 00:11:26,710
 Gerçekten herkesi öldürecekler!
 
-171
+169
 00:11:26,710 --> 00:11:29,500
 Yemin ederim, bu sefer doğru!
 
-172
+170
 00:11:29,500 --> 00:11:32,210
 Bu sefer seni yakalayacağız!
 
-173
+171
 00:11:35,630 --> 00:11:37,760
 Kahretsin!!!
 
-174
+172
 00:11:37,760 --> 00:11:40,050
 Yakalayın onu!
 Kaçmasına izin vermeyin!
 
-175
+173
 00:11:48,060 --> 00:11:51,110
 Geldiğiniz için teşekkürler, beyler.
 
-176
+174
 00:11:51,110 --> 00:11:53,070
 Tam 3 yıl oldu.
 
-177
+175
 00:11:53,650 --> 00:11:56,320
 Bu plan başarılı olursa...
 
-178
+176
 00:11:56,320 --> 00:12:00,530
 ganimetten hepinize adil bir pay
 vermeyi düşünüyorum.
 
-179
+177
 00:12:01,490 --> 00:12:05,580
 Yarın sabah,
 köyü dilediğiniz gibi yağmalayın!
 
-180
+178
 00:12:13,050 --> 00:12:15,510
 – Ne?! Hanımefendiyi mi öldürecekler?!
 – Ne?! Hanımefendiyi mi öldürecekler?!
 
-181
+179
 00:12:15,510 --> 00:12:18,720
 – Gerçekten köye mi saldıracaklar?!
 – Gerçekten köye mi saldıracaklar?!
 
-182
+180
 00:12:19,470 --> 00:12:20,340
 Evet.
 
-183
+181
 00:12:20,340 --> 00:12:22,680
 Böyle diyorlardı.
 Hiç şüphem yok.
 
-184
+182
 00:12:26,850 --> 00:12:29,730
 Bu arada, sen niye burada kestiriyorsun?
 
-185
+183
 00:12:30,190 --> 00:12:31,400
 Olay da bu zaten!
 
-186
+184
 00:12:31,400 --> 00:12:34,230
 Uçurumun tepesinde olduğumu sanıyordum...
 
-187
+185
 00:12:34,730 --> 00:12:37,320
 Nasıl oldu da buraya geldim?
 
-188
+186
 00:12:35,190 --> 00:12:37,490
 Haklıymışız, Klahadore kötü biri!
 
-189
+187
 00:12:37,490 --> 00:12:39,070
 Tipinden belliydi!
 
-190
+188
 00:12:39,070 --> 00:12:42,990
 Demek bu yüzden kaptanımız
 o gergin bakışla köye koştu!
 
-191
+189
 00:12:42,990 --> 00:12:44,290
 Harika o zaman!
 
-192
+190
 00:12:44,290 --> 00:12:47,250
 Uyarıldıkları için kaçacak zamanları var.
 
-193
+191
 00:12:47,250 --> 00:12:48,790
 Aptal kötülerden bahsediyoruz!
 
-194
+192
 00:12:48,790 --> 00:12:51,710
 Evet, bu doğru!
 Bu yüzden biz de kaçmalıyız!
 
-195
+193
 00:12:51,710 --> 00:12:53,540
 Evet, değerli ne varsa alıp...
 
-196
+194
 00:12:53,540 --> 00:12:54,500
 – tüyelim!
 – tüyelim!
 
-197
+195
 00:12:58,220 --> 00:12:58,880
 Eyvah!
 
-198
+196
 00:12:58,880 --> 00:13:00,050
 Ne oldu?
 
-199
+197
 00:12:59,880 --> 00:13:03,850
 Kasap kaçmadan önce
 yiyecek stoklamalıyız!
 
-200
+198
 00:13:04,970 --> 00:13:07,180
 Bunu düşünecek zaman değil.
 
-201
+199
 00:13:24,070 --> 00:13:25,240
 Usopp-san!
 
-202
+200
 00:13:31,670 --> 00:13:32,830
 Tanrı'ya şükür!
 
-203
+201
 00:13:32,830 --> 00:13:35,340
 Bir daha buraya gelmeyeceğini düşünmüştüm.
 
-204
+202
 00:13:36,500 --> 00:13:38,340
 Kaçmalısın, Kaya!
 
-205
+203
 00:13:38,340 --> 00:13:39,550
 Seni öldürecekler!
 
-206
+204
 00:13:39,800 --> 00:13:40,590
 Şey...
 
-207
+205
 00:13:41,300 --> 00:13:42,630
 Ne demek istiyorsun?
 
-208
+206
 00:13:42,630 --> 00:13:44,760
 Aldatıldın!
 
-209
+207
 00:13:44,760 --> 00:13:46,720
 Uşak aslında bir korsan!
 
-210
+208
 00:13:47,810 --> 00:13:49,310
 Dur biraz...
 
-211
+209
 00:13:50,480 --> 00:13:52,270
 Bu ne tür bir şaka böyle?
 
-212
+210
 00:13:53,560 --> 00:13:54,980
 Şaka değil!
 
-213
+211
 00:13:54,980 --> 00:13:57,150
 Kendi kulaklarımla duydum!
 
-214
+212
 00:13:57,480 --> 00:13:58,730
 Klahadore,
 
-215
+213
 00:13:58,730 --> 00:14:02,530
 servetini çalmak için sinsice
 bu malikâneye sızan bir korsan!
 
-216
+214
 00:14:02,530 --> 00:14:07,120
 Senden çalmak için tam 3 yıldır
 uşakmış gibi davrandı!
 
-217
+215
 00:14:07,910 --> 00:14:11,160
 Sen neden bahsediyorsun, Usopp-san?
 
-218
+216
 00:14:11,660 --> 00:14:16,130
 Adamları şafak vakti baskın yapıp
 seni öldürecekler!
 
-219
+217
 00:14:20,460 --> 00:14:25,050
 O herif tam bir cani!
 Hemen kaçmalısın!
 
-220
+218
 00:14:26,640 --> 00:14:29,390
 Kabul ediyorum,
 daha önce çok ileri gitti.
 
-221
+219
 00:14:30,020 --> 00:14:32,020
 Ama böyle bir yalan...
 
-222
+220
 00:14:32,980 --> 00:14:34,690
 Bu sen değilsin, Usopp-san!
 
-223
+221
 00:14:36,310 --> 00:14:39,110
 Hayır, yalan değil...
 
-224
+222
 00:14:42,070 --> 00:14:43,110
 Ben...
 
-225
+223
 00:14:44,150 --> 00:14:45,950
 Onlara bayıldım.
 
-226
+224
 00:14:48,370 --> 00:14:51,750
 Anlattığın yalanları çok sevdim...
 
-227
+225
 00:14:52,120 --> 00:14:54,790
 Ama neden bunu söylüyorsun?
 
-228
+226
 00:14:56,790 --> 00:15:01,210
 Öyle değil! Klahadore'dan
 intikam almaya çalışmıyorum...
 
-229
+227
 00:15:01,590 --> 00:15:04,430
 O zaman neden...?
 
-230
+228
 00:15:04,430 --> 00:15:06,390
 Kaya... Ben...
 
-231
+229
 00:15:08,180 --> 00:15:10,510
 Hanımefendi, bir sorun mu var?!
 
-232
+230
 00:15:15,810 --> 00:15:17,350
 Kaçmalısın, Kaya!
 
-233
+231
 00:15:17,940 --> 00:15:20,270
 Hanımefendiyi bırak!
 
-234
+232
 00:15:21,730 --> 00:15:23,650
 Sadece bana güven!
 
-235
+233
 00:15:23,650 --> 00:15:25,650
 O uşak geri gelmeden önce...
 
-236
+234
 00:15:25,650 --> 00:15:28,200
 bu köyü terketmelisin!
 
-237
+235
 00:15:40,420 --> 00:15:41,590
 Yapma!
 
-238
+236
 00:15:44,720 --> 00:15:45,260
 Hadi!
 
-239
+237
 00:15:50,930 --> 00:15:53,220
 Yarın olunca bana inanacaksın.
 
-240
+238
 00:15:53,220 --> 00:15:54,980
 Şimdilik kaçalım!
 
-241
+239
 00:15:54,980 --> 00:15:56,440
 Lütfen, dinle!
 
-242
+240
 00:16:05,240 --> 00:16:06,900
 Acınacak hâldesin.
 
-243
+241
 00:16:18,370 --> 00:16:20,290
 Hanımefendiden uzaklaş!
 
-244
+242
 00:16:23,670 --> 00:16:24,380
 Yapma!
 
-245
+243
 00:16:37,980 --> 00:16:39,980
 Lütfen, yakalayın onu!
 
-246
+244
 00:16:39,980 --> 00:16:42,190
 Evin hanımını hırpaladı!
 
-247
+245
 00:16:42,520 --> 00:16:43,480
 Ne kadar korkunç!
 
-248
+246
 00:16:43,480 --> 00:16:44,820
 Nasıl yapabildi?!
 
-249
+247
 00:16:49,570 --> 00:16:50,660
 Neden...
 
-250
+248
 00:16:51,820 --> 00:16:53,830
 kimse bana inanmıyor?
 
-251
+249
 00:16:57,250 --> 00:16:58,870
 İşte orada!
 
-252
+250
 00:16:58,870 --> 00:17:00,420
 Yakalayın!
 
-253
+251
 00:17:06,380 --> 00:17:08,630
 Usopp-san...
 
-254
+252
 00:17:09,380 --> 00:17:12,430
 Hanımefendi, lütfen
 soğukkanlılığınızı koruyun!
 
-255
+253
 00:17:15,890 --> 00:17:18,140
 Yarın sabah, Jango.
 
-256
+254
 00:17:18,140 --> 00:17:20,890
 Şafak vakti köye saldırın.
 
-257
+255
 00:17:28,440 --> 00:17:30,450
 – Kaptan!
 – Kaptan!
 
-258
+256
 00:17:33,030 --> 00:17:34,780
 Selam, çocuklar!
 
-259
+257
 00:17:35,410 --> 00:17:36,450
 Selam!
 
-260
+258
 00:17:38,160 --> 00:17:40,120
 Y-Yaşıyor musun?!
 
-261
+259
 00:17:40,120 --> 00:17:41,500
 Yaşıyor muyum?
 
-262
+260
 00:17:41,500 --> 00:17:43,670
 Evet, demin uyandım!
 
-263
+261
 00:17:43,670 --> 00:17:45,460
 Onca zamandır uyuyormuş.
 
-264
+262
 00:17:45,460 --> 00:17:46,800
 Neyse Kaptan!
 
-265
+263
 00:17:46,800 --> 00:17:48,670
 Her şeyi duyduk!
 
-266
+264
 00:17:48,670 --> 00:17:52,050
 Acele edip herkesi
 korsanlar konusunda uyarmalıyız!
 
-267
+265
 00:17:52,050 --> 00:17:54,010
 Herkesi uyarmak mı?
 
-268
+266
 00:17:57,010 --> 00:17:58,470
 Acınacak hâldesin.
 
-269
+267
 00:18:00,930 --> 00:18:03,350
 Kapa' çeneni!
 Bize hep yalan söyledin.
 
-270
+268
 00:18:12,610 --> 00:18:15,070
 Her zamanki gibi yalan söyledim!
 
-271
+269
 00:18:15,070 --> 00:18:17,080
 O lanet uşak beni sinirlendirdi,
 
-272
+270
 00:18:17,080 --> 00:18:20,040
 bu yüzden onun korsan olduğu
 yalanını uydurdum!
 
-273
+271
 00:18:21,830 --> 00:18:23,330
 Ah, anlıyorum.
 
-274
+272
 00:18:23,330 --> 00:18:26,290
 Demek hasır şapkalı adam da
 işin içinde!
 
-275
+273
 00:18:30,760 --> 00:18:32,720
 Hey, sorun nedir?
 
-276
+274
 00:18:32,720 --> 00:18:33,470
 Ben...
 
-277
+275
 00:18:33,880 --> 00:18:35,840
 Bunu yaptığına inanamıyorum, Kaptan.
 
-278
+276
 00:18:35,840 --> 00:18:36,470
 Ben de!
 
-279
+277
 00:18:36,470 --> 00:18:37,100
 Aynen!
 
-280
+278
 00:18:37,100 --> 00:18:39,470
 O uşak kötü biri olsa bile...
 
-281
+279
 00:18:39,470 --> 00:18:44,140
 birini incitmek için yalan
 söyleyeceğini hiç düşünmemiştik.
 
-282
+280
 00:18:44,140 --> 00:18:47,440
 Sana gerçekten saygı duymuştuk!
 
-283
+281
 00:18:47,440 --> 00:18:48,320
 Eve gidelim!
 
-284
+282
 00:18:48,320 --> 00:18:50,030
 Evet, akşam yemeği vakti!
 
-285
+283
 00:18:50,030 --> 00:18:51,570
 Acaba ne yiyeceğiz...?
 
-286
+284
 00:18:57,370 --> 00:18:59,910
 Neden onlara öyle söyledin?
 
-287
+285
 00:18:59,910 --> 00:19:02,080
 Çünkü yalancının tekiyim.
 
-288
+286
 00:19:02,080 --> 00:19:05,540
 En baştan beri kimsenin inanacağı yoktu.
 
-289
+287
 00:19:05,540 --> 00:19:06,830
 Çok iyimserim.
 
-290
+288
 00:19:07,960 --> 00:19:10,800
 Ama sonuçta, gerçek hâlâ gerçektir.
 
-291
+289
 00:19:11,300 --> 00:19:14,340
 Korsanlar gerçekten gelecek, değil mi?
 
-292
+290
 00:19:14,340 --> 00:19:16,890
 Evet, geleceklerine şüphe yok.
 
-293
+291
 00:19:16,890 --> 00:19:19,390
 Ama herkes bunu yalan biliyor.
 
-294
+292
 00:19:19,390 --> 00:19:23,520
 Yarının başka bir sıradan,
 huzurlu gün olacağını düşünüyorlar...
 
-295
+293
 00:19:25,810 --> 00:19:26,940
 İşte bu yüzden...
 
-296
+294
 00:19:26,940 --> 00:19:30,860
 Yarın kıyıda korsanları durdurup
 yalan olarak kalmasını sağlayacağım!
 
-297
+295
 00:19:30,860 --> 00:19:34,820
 Bu, benim gibi bir yalancı için
 mantıklı olan tek şey!
 
-298
+296
 00:19:36,450 --> 00:19:38,990
 Kolumdan vurulsam da...
 
-299
+297
 00:19:39,530 --> 00:19:42,040
 süpürgelerle kovalanmış olsam da...
 
-300
+298
 00:19:42,040 --> 00:19:44,330
 burası benim yuvam!
 
-301
+299
 00:19:44,330 --> 00:19:46,710
 Bu köyü seviyorum!
 
-302
+300
 00:19:48,040 --> 00:19:50,670
 Herkesi korumak istiyorum!
 
-303
+301
 00:19:51,630 --> 00:19:53,260
 Çok iyi bir adamsın,
 
-304
+302
 00:19:53,260 --> 00:19:56,130
 tayfanı bir kenara itip
 tek başına savaşa giriyorsun.
 
-305
+303
 00:19:56,130 --> 00:19:59,640
 Şunu belirteyim,
 tüm korsan hazineleri benim olacak.
 
-306
+304
 00:19:59,640 --> 00:20:01,600
 Pekâlâ! Sana yardım edeceğiz!
 
-307
+305
 00:20:02,100 --> 00:20:03,100
 Siz...
 
-308
+306
 00:20:03,100 --> 00:20:05,350
 benimle birlikte
 savaşmak mı istiyorsunuz?
 
-309
+307
 00:20:05,350 --> 00:20:06,560
 Niye?
 
-310
+308
 00:20:06,560 --> 00:20:09,860
 Sayıca çok azsın, değil mi?
 
-311
+309
 00:20:09,860 --> 00:20:12,070
 Korktuğun yüzünden okunuyor.
 
-312
+310
 00:20:12,070 --> 00:20:13,900
 B-Ben mi korkmuşum?
 
-313
+311
 00:20:13,900 --> 00:20:17,070
 Bir sürü kötü adama karşı falan,
 tamamen mükemmelim!
 
-314
+312
 00:20:17,070 --> 00:20:22,240
 Çünkü ben denizin cesur savaşçısı,
 Kaptan Usopp'um!
 
-315
+313
 00:20:24,660 --> 00:20:25,750
 Kahretsin!
 
-316
+314
 00:20:25,750 --> 00:20:27,500
 Neye bakıyorsunuz?!
 
-317
+315
 00:20:27,500 --> 00:20:29,750
 Klahadore'un tayfasıyla karşı karşıyayız!
 
-318
+316
 00:20:29,750 --> 00:20:31,210
 Tabii ki korktum.
 
-319
+317
 00:20:31,210 --> 00:20:32,710
 Bunun nesi yanlış?!
 
-320
+318
 00:20:32,710 --> 00:20:34,710
 Bana acımayın!
 
-321
+319
 00:20:34,710 --> 00:20:37,170
 Gülmeyi kesin ve gidin! Defolun!
 
-322
+320
 00:20:37,670 --> 00:20:39,180
 Gülmüyoruz!
 
-323
+321
 00:20:39,180 --> 00:20:42,140
 Cesaretini takdir ettiğimiz için
 yardım etmek istiyoruz.
 
-324
+322
 00:20:43,140 --> 00:20:46,100
 Acıma olsaydı,
 hayatımızı riske atar mıydık?!
 
-325
+323
 00:20:51,350 --> 00:20:53,110
 Ya...
 
-326
+324
 00:20:53,110 --> 00:20:55,030
 Siz...
+

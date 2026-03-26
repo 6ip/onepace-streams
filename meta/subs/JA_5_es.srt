@@ -78,115 +78,25 @@ No tenían que meterse...
 00:17:24,770 --> 00:17:30,150
 ESCENA UNO
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-EQUIPO DE NAMI, SANJI Y USOPP
-
 21
 00:17:24,770 --> 00:17:30,150
 ESCENA UNO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EQUIPO DE NAMI, SANJI Y USOPP
 
 22
 00:18:54,110 --> 00:18:57,240
 ESCENA DOS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-EQUIPO DE  ROBIN Y ZORO
-
 23
 00:18:54,110 --> 00:18:57,240
 ESCENA DOS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EQUIPO DE  ROBIN Y ZORO
 
 24
 00:19:35,690 --> 00:19:40,280
 ESCENA TRES
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-EQUIPO DE LUFFY Y CHOPPER
-
 25
 00:19:35,690 --> 00:19:40,280
 ESCENA TRES
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EQUIPO DE LUFFY Y CHOPPER
 
 26
 00:00:06,970 --> 00:00:08,850
@@ -8856,3 +8766,4 @@ C
 2192
 00:01:34,210 --> 00:01:34,620
 F
+

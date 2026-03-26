@@ -1,229 +1,130 @@
 1
-00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
+00:11:26,330 --> 00:11:33,170
+Water Seven
+Distrito Comercial
+de los Barrios
 
 2
-00:02:32,510 --> 00:02:42,500
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
+00:11:26,330 --> 00:11:33,170
+Water Seven
+Distrito Comercial
+de los Barrios
 
 3
-00:11:26,330 --> 00:11:33,170
-Water Seven
-Distrito Comercial
-de los Barrios
+00:15:17,470 --> 00:15:23,900
+CASA DE CAMBIO
 
 4
-00:11:26,330 --> 00:11:33,170
-Water Seven
-Distrito Comercial
-de los Barrios
+00:15:17,470 --> 00:15:23,900
+CASA DE CAMBIO
 
 5
-00:15:17,470 --> 00:15:23,900
-CASA DE CAMBIO
+00:21:06,740 --> 00:21:11,830
+KAKU
+COMPAÑIA GALLEY-LA
 
 6
-00:15:17,470 --> 00:15:23,900
-CASA DE CAMBIO
+00:21:06,740 --> 00:21:11,830
+KAKU
+COMPAÑIA GALLEY-LA
 
 7
-00:21:06,740 --> 00:21:11,830
-KAKU
-COMPAÑIA GALLEY-LA
-
-
-
-
-
-
-
-
-
-
-
-
-CARPINTERO DE BARCOS
+00:27:09,480 --> 00:27:14,400
+ICEBURG
 
 8
-00:21:06,740 --> 00:21:11,830
-KAKU
-COMPAÑIA GALLEY-LA
-
-
-
-
-
-
-
-
-
-
-
-
-CARPINTERO DE BARCOS
+00:27:09,480 --> 00:27:14,400
+ICEBURG
 
 9
-00:27:09,480 --> 00:27:14,400
-ICEBURG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ALCALDE DE WATER SEVEN
-PRESIDENTE DE LA COMPAÑÍA GALLEY-LA
+00:28:28,350 --> 00:28:33,480
+KALIFA
 
 10
-00:27:09,480 --> 00:27:14,400
-ICEBURG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ALCALDE DE WATER SEVEN
-PRESIDENTE DE LA COMPAÑÍA GALLEY-LA
+00:28:28,350 --> 00:28:33,480
+KALIFA
 
 11
-00:28:28,350 --> 00:28:33,480
-KALIFA
-
-
-
-
-
-
-
-
-
-
-
-
-LA HERMOSA SECRETARIA DE ICEBURG
-
-12
-00:28:28,350 --> 00:28:33,480
-KALIFA
-
-
-
-
-
-
-
-
-
-
-
-
-LA HERMOSA SECRETARIA DE ICEBURG
-
-13
 00:00:03,990 --> 00:00:08,050
 ¡Está bien! ¡Vamos! Continuemos hacia adelante.
 
-14
+12
 00:00:08,310 --> 00:00:11,590
 ¡Siempre con el calor del sol en el pecho!
 
-15
+13
 00:00:11,730 --> 00:00:15,010
 ¡Nuestras manos unidas nos dan poder!
 
-16
+14
 00:00:15,100 --> 00:00:18,680
 ¡Y así atraparemos nuestros deseos!
 
-17
+15
 00:00:26,240 --> 00:00:32,490
 Montamos una gran ola, reuniendo nuestra fuerza.
 
-18
+16
 00:00:33,750 --> 00:00:40,290
 ¡Esa es la señal! Apresurémonos... ¡Hacia una nueva prosperidad!
 
-19
+17
 00:00:40,960 --> 00:00:47,130
 ¡Éste es nuestro momento de zarpar! Una vez que alcemos el ancla...
 
-20
+18
 00:00:47,930 --> 00:00:55,010
 Tomaremos el viento de siete colores... ¡Hacia una aventura en el mar!
 
-21
+19
 00:00:55,060 --> 00:00:58,550
 A veces será una travesía dura, pero...
 
-22
+20
 00:00:58,560 --> 00:01:02,270
 Allí hay algo muy importante.
 
-23
+21
 00:01:02,400 --> 00:01:06,350
 Cuando estés en problemas,
 
-24
+22
 00:01:06,450 --> 00:01:08,360
 ¡Yo te protegeré!
 
-25
+23
 00:01:09,450 --> 00:01:13,360
 ¡Está bien! ¡Vamos! Continuemos hacia adelante.
 
-26
+24
 00:01:13,660 --> 00:01:16,820
 ¡Siempre con el calor del sol en el pecho!
 
-27
+25
 00:01:17,170 --> 00:01:20,330
 Si viene una tormenta, apóyate en mi hombro.
 
-28
+26
 00:01:20,370 --> 00:01:24,200
 Y después de ello, ¡Veremos la luz!
 
-29
+27
 00:01:24,670 --> 00:01:27,920
 Reunamos los pedazos de nuestros sueños,
 
-30
+28
 00:01:28,390 --> 00:01:31,550
 para que sean el mapa de nuestro cálido futuro.
 
-31
+29
 00:01:31,680 --> 00:01:34,720
 ¡Por eso llevamos una misma bandera!
 
-32
+30
 00:01:35,100 --> 00:01:40,450
 ¡Así atraparemos nuestros deseos! ¡Somos uno solo!
 
-33
+31
 00:01:40,530 --> 00:01:42,490
 ¡Somos One Piece!
+

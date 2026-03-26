@@ -1,1767 +1,1754 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,010
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:53,130 --> 00:01:54,260
 Gut.
 
-4
+2
 00:01:54,260 --> 00:01:57,390
 Dann hören wir uns den Grund mal an.
 
-5
+3
 00:01:57,390 --> 00:01:58,140
 Nein, danke.
 
-6
+4
 00:01:58,140 --> 00:01:59,060
 H-Hey!
 
-7
+5
 00:01:59,060 --> 00:02:01,480
 Ihre Vergangenheit ist mir schnuppe.
 
-8
+6
 00:02:01,480 --> 00:02:02,850
 Wo willst du hin, Luffy?
 
-9
+7
 00:02:02,850 --> 00:02:03,900
 Spazieren.
 
-10
+8
 00:02:03,900 --> 00:02:05,430
 S-Spazieren?
 
-11
+9
 00:02:05,430 --> 00:02:07,320
 Willst du dir das denn nicht anhören?
 
-12
+10
 00:02:07,320 --> 00:02:08,520
 Nein. Muss nicht sein.
 
-13
+11
 00:02:10,030 --> 00:02:10,990
 Wer ist er?
 
-14
+12
 00:02:11,860 --> 00:02:14,610
 Vergiss ihn. So ist er einfach.
 
-15
+13
 00:02:14,610 --> 00:02:16,570
 Wir hören dir zu.
 
-16
+14
 00:02:16,570 --> 00:02:19,950
 Auch wenn das nichts ändern wird.
 
-17
+15
 00:02:19,950 --> 00:02:22,540
 Ja! Ich werde dir auch zuhören.
 
-18
+16
 00:02:22,540 --> 00:02:25,920
 Ich möchte wissen, was auf dieser Insel vor sich geht.
 
-19
+17
 00:02:25,920 --> 00:02:28,880
 Ich auch! Ich möchte einfach alles über Nami wissen!
 
-20
+18
 00:02:30,800 --> 00:02:32,130
 Und jetzt schläft er.
 
-21
+19
 00:02:32,130 --> 00:02:34,010
 Schlaf nicht ein,
 nachdem du das gesagt hast!
 
-22
+20
 00:02:37,600 --> 00:02:38,970
 Ach so.
 
-23
+21
 00:02:39,560 --> 00:02:42,060
 Deshalb hat es Nami so schwer.
 
-24
+22
 00:02:47,860 --> 00:02:48,980
 Ich bin eingeschlafen?
 
-25
+23
 00:02:49,650 --> 00:02:50,780
 Huch?
 
-26
+24
 00:02:50,780 --> 00:02:51,940
 Nojiko?
 
-27
+25
 00:02:53,570 --> 00:02:55,700
 Wo ist sie denn hin?
 
-28
+26
 00:03:01,490 --> 00:03:04,370
 Nur noch ein wenig länger, Bell-mère.
 
-29
+27
 00:03:06,080 --> 00:03:09,130
 Nur noch ein wenig länger und alles ist wieder beim Alten.
 
-30
+28
 00:03:09,540 --> 00:03:12,340
 Das Dorf Cocoyashi,
 die Mandarinenplantage
 
-31
+29
 00:03:12,340 --> 00:03:13,970
 und selbst mein Traum!
 
-32
+30
 00:03:20,890 --> 00:03:24,230
 Es hat mich acht Jahre gekostet...
 
-33
+31
 00:03:34,280 --> 00:03:35,240
 Fertig!
 
-34
+32
 00:03:35,650 --> 00:03:37,320
 Fertig!
 
-35
+33
 00:03:45,580 --> 00:03:47,870
 Jetzt muss ich nur noch in diesem Buch nachschlagen.
 
-36
+34
 00:03:57,470 --> 00:03:58,590
 Oh!
 
-37
+35
 00:03:58,590 --> 00:03:59,430
 Nami!
 
-38
+36
 00:03:59,930 --> 00:04:01,260
 Was ist los?
 
-39
+37
 00:04:02,510 --> 00:04:04,220
 Nichts!
 
-40
+38
 00:04:04,220 --> 00:04:06,060
 Gar nichts!
 
-41
+39
 00:04:15,900 --> 00:04:17,240
 Herrje!
 
-42
+40
 00:04:17,530 --> 00:04:19,740
 Verflucht, Nami!
 
-43
+41
 00:04:19,740 --> 00:04:21,700
 Nicht schon wieder!
 
-44
+42
 00:04:22,030 --> 00:04:23,950
 Oh? Schon wieder, Nami?
 
-45
+43
 00:04:22,450 --> 00:04:23,950
 Lass mich runter!
 
-46
+44
 00:04:23,950 --> 00:04:25,240
 Du lernst auch nie dazu!
 
-47
+45
 00:04:25,240 --> 00:04:27,460
 Ich bin doch keine Katze!
 
-48
+46
 00:04:27,460 --> 00:04:29,040
 Du hohle Nuss!
 
-49
+47
 00:04:29,040 --> 00:04:32,130
 Wie oft muss ich dir noch verklickern, dass Stehlen falsch ist?
 
-50
+48
 00:04:32,710 --> 00:04:35,960
 Ich kann ja nichts dafür, dass wir arm sind!
 
-51
+49
 00:04:36,630 --> 00:04:38,420
 Geizhals!
 
-52
+50
 00:04:39,380 --> 00:04:40,970
 Bell-mère!
 
-53
+51
 00:04:41,340 --> 00:04:42,600
 Bell-mère!
 
-54
+52
 00:04:42,600 --> 00:04:45,140
 Deine nichtsnutzige Katze hat wieder zugeschlagen!
 
-55
+53
 00:04:48,810 --> 00:04:50,900
 Was willste? Du nervst!
 
-56
+54
 00:04:51,520 --> 00:04:52,270
 Oh!
 
-57
+55
 00:04:52,270 --> 00:04:53,820
 Willkommen daheim, Nami!
 
-58
+56
 00:04:53,820 --> 00:04:55,020
 Da bin ich wieder!
 
-59
+57
 00:04:55,400 --> 00:04:56,390
 Sieh nur!
 
-60
+58
 00:04:56,390 --> 00:04:57,900
 Sie hat’s schon wieder getan!
 
-61
+59
 00:04:57,900 --> 00:04:59,700
 Sie ist im Dorf schon berüchtigt!
 
-62
+60
 00:05:00,700 --> 00:05:02,280
 Ach ja?
 
-63
+61
 00:05:02,780 --> 00:05:06,120
 Du hast doch bestimmt auch mal was stibitzt, Gen?
 
-64
+62
 00:05:06,120 --> 00:05:08,250
 Genau deshalb verhält sie sich so!
 
-65
+63
 00:05:08,250 --> 00:05:09,870
 Ist doch nur Spaß!
 
-66
+64
 00:05:09,870 --> 00:05:11,250
 Na schön.
 
-67
+65
 00:05:11,250 --> 00:05:15,090
 Du hast für sie bezahlt, oder?
 
-68
+66
 00:05:13,250 --> 00:05:15,090
 B-Bell-mère...
 
-69
+67
 00:05:15,420 --> 00:05:16,710
 Vielen Dank.
 
-70
+68
 00:05:16,710 --> 00:05:18,340
 Ich habe gerade kein Geld.
 
-71
+69
 00:05:18,340 --> 00:05:20,050
 Ich werde später dafür bezahlen...
 
-72
+70
 00:05:20,590 --> 00:05:22,800
 mit meinem Körper.
 
-73
+71
 00:05:23,760 --> 00:05:27,890
 S-Sag doch nicht so was!
 
-74
+72
 00:05:28,850 --> 00:05:30,890
 Du wirst ja knallrot!
 
-75
+73
 00:05:36,070 --> 00:05:38,900
 Ach? Und wieso lachst du?
 
-76
+74
 00:05:41,070 --> 00:05:42,450
 Tut mir leid!
 
-77
+75
 00:05:42,950 --> 00:05:46,200
 Aber ich wollte dieses Buch unbedingt!
 
-78
+76
 00:05:46,200 --> 00:05:49,580
 Wieso sagst du denn nichts, wenn du es möchtest?
 
-79
+77
 00:05:50,830 --> 00:05:53,080
 Weil du es mir eh nicht gekauft hättest.
 
-80
+78
 00:05:53,080 --> 00:05:54,580
 Aber natürlich hätte ich das!
 
-81
+79
 00:05:54,580 --> 00:05:56,710
 Wir haben doch noch Erspartes.
 
-82
+80
 00:05:56,710 --> 00:06:00,630
 Im Dorf sagt man, dass das Wetter gerade so gut ist,
 
-83
+81
 00:06:00,630 --> 00:06:03,550
 dass selbst auf den ollsten Plantagen die Mandarinen wachsen
 
-84
+82
 00:06:03,550 --> 00:06:06,720
 und unsere sich deshalb nicht gerade gut verkaufen werden.
 
-85
+83
 00:06:06,720 --> 00:06:08,850
 Die sollen sich um ihren Dreck scheren!
 
-86
+84
 00:06:08,850 --> 00:06:11,270
 Du bist ja so blöde, Nami!
 
-87
+85
 00:06:11,270 --> 00:06:14,060
 Ich hätte mich nicht erwischen lassen!
 
-88
+86
 00:06:15,310 --> 00:06:17,520
 Stehlen ist verboten!
 
-89
+87
 00:06:18,020 --> 00:06:20,360
 Das war doch nur Spaß!
 
-90
+88
 00:06:20,360 --> 00:06:21,990
 Das tut weh!
 
-91
+89
 00:06:26,530 --> 00:06:28,620
 Aber eines stimmt schon!
 
-92
+90
 00:06:29,410 --> 00:06:32,330
 Deine Karten sind die Wucht, Nami!
 
-93
+91
 00:06:33,460 --> 00:06:37,130
 Zuerst hast du gelernt, Seekarten zu zeichnen und jetzt noch Landkarten!
 
-94
+92
 00:06:38,090 --> 00:06:40,800
 Das ist eine Karte von der Insel, oder?
 
-95
+93
 00:06:41,800 --> 00:06:45,760
 Niemand würde glauben, dass die ein kleines Mädchen gezeichnet hat.
 
-96
+94
 00:06:47,390 --> 00:06:50,720
 Ich lerne jetzt auch was über Navigation!
 
-97
+95
 00:06:50,720 --> 00:06:52,850
 Auch noch über Navigation?
 
-98
+96
 00:06:52,850 --> 00:06:54,690
 Das ist Namis Traum!
 
-99
+97
 00:06:55,060 --> 00:06:56,270
 Ja!
 
-100
+98
 00:06:56,270 --> 00:07:00,610
 Mit meinen Navigationsfähigkeiten bereise ich dann alle Weltmeere!
 
-101
+99
 00:07:00,940 --> 00:07:04,780
 Und dann erstelle ich von allem,
 das ich sehe, eine Karte!
 
-102
+100
 00:07:05,660 --> 00:07:10,280
 Deine Karte von dieser Insel ist also der erste Schritt zu deinem Traum, ja?
 
-103
+101
 00:07:11,160 --> 00:07:12,370
 Ja!
 
-104
+102
 00:07:13,120 --> 00:07:15,540
 Eine Weltkarte, ja?
 
-105
+103
 00:07:15,540 --> 00:07:19,500
 Nami! Eines Tages wird sich dein Traum erfüllen!
 
-106
+104
 00:07:22,590 --> 00:07:24,010
 Das weiß ich!
 
-107
+105
 00:07:29,180 --> 00:07:30,970
 Hey, Bell-mère.
 
-108
+106
 00:07:31,810 --> 00:07:33,930
 Du isst in letzter Zeit nichts.
 
-109
+107
 00:07:34,310 --> 00:07:36,560
 Ich esse Mandarinen.
 
-110
+108
 00:07:36,560 --> 00:07:37,900
 Bin immerhin auf Diät.
 
-111
+109
 00:07:38,400 --> 00:07:40,190
 Ich muss auch nichts essen.
 
-112
+110
 00:07:40,190 --> 00:07:42,440
 Was soll das denn jetzt?
 
-113
+111
 00:07:42,440 --> 00:07:44,570
 Kinder müssen genug essen.
 
-114
+112
 00:07:44,570 --> 00:07:46,070
 Du lügst doch!
 
-115
+113
 00:07:46,070 --> 00:07:50,280
 Du hast nichts zu essen, weil wir kein Geld haben!
 
-116
+114
 00:07:50,280 --> 00:07:50,990
 Echt jetzt?
 
-117
+115
 00:07:50,990 --> 00:07:54,000
 Du leidest, damit wir...
 
-118
+116
 00:07:52,790 --> 00:07:54,000
 Diät!
 
-119
+117
 00:07:54,370 --> 00:07:58,250
 Ihr solltet nicht die verschönernde
 Wirkung von Mandarinen unterschätzen.
 
-120
+118
 00:07:58,250 --> 00:08:03,960
 Ihnen verdanke ich meine seidenglatte Haut im Alter von 30 Jahren!
 
-121
+119
 00:08:03,960 --> 00:08:05,670
 Aber deine Hände sind gelb!
 
-122
+120
 00:08:05,670 --> 00:08:07,630
 Halt die Klappe und iss!
 
-123
+121
 00:08:09,140 --> 00:08:11,140
 Schau mal, Nami! Fertig!
 
-124
+122
 00:08:11,140 --> 00:08:13,850
 Ein tolles Einzelstück der Marke Bell-mère!
 
-125
+123
 00:08:13,850 --> 00:08:15,890
 Schon wieder ’ne alte Klamotte von Nojiko?
 
-126
+124
 00:08:15,890 --> 00:08:17,020
 Bitte schön!
 
-127
+125
 00:08:17,020 --> 00:08:19,520
 Das steht dir gut, Nami!
 
-128
+126
 00:08:19,520 --> 00:08:21,610
 Der Löwe war doch mal eine Sonnenblume!
 
-129
+127
 00:08:21,610 --> 00:08:23,610
 Lässt sich halt nicht ändern!
 
-130
+128
 00:08:23,610 --> 00:08:26,240
 Du bist immerhin zwei Jahre jünger als ich!
 
-131
+129
 00:08:26,570 --> 00:08:28,610
 Das Alter hat doch nichts damit zu tun!
 
-132
+130
 00:08:28,610 --> 00:08:30,740
 Ich will auch neue Klamotten!
 
-133
+131
 00:08:30,740 --> 00:08:32,740
 Meine sind doch auch alt!
 
-134
+132
 00:08:32,740 --> 00:08:36,370
 Du kriegst mein Zeug, weil du meine kleine Schwester bist!
 
-135
+133
 00:08:36,790 --> 00:08:39,330
 Aber ich bin gar nicht deine echte Schwester!
 
-136
+134
 00:08:39,330 --> 00:08:41,960
 Wir sind nicht blutsverwandt!
 
-137
+135
 00:08:42,380 --> 00:08:43,090
 Nami!
 
-138
+136
 00:08:51,510 --> 00:08:52,850
 Bell-mère!
 
-139
+137
 00:08:58,850 --> 00:09:01,310
 Was macht es schon, dass ihr
 nicht blutsverwandt seid?
 
-140
+138
 00:09:04,270 --> 00:09:08,240
 Sag nie wieder so was Dummes!
 
-141
+139
 00:09:08,240 --> 00:09:10,530
 W-Was soll’s...
 
-142
+140
 00:09:10,530 --> 00:09:15,030
 Du bist ja auch nicht meine echte Mama!
 
-143
+141
 00:09:15,030 --> 00:09:18,450
 Ohne uns wärst du besser dran, oder?
 
-144
+142
 00:09:19,160 --> 00:09:21,620
 Dann könntest du essen,
 
-145
+143
 00:09:21,620 --> 00:09:25,130
 dir neue Klamotten kaufen und wärst endlich frei!
 
-146
+144
 00:09:25,130 --> 00:09:26,420
 Ich wünschte...
 
-147
+145
 00:09:27,170 --> 00:09:31,090
 Ich wünschte, mich hätte jemand Reiches adoptiert!
 
-148
+146
 00:09:39,020 --> 00:09:40,940
 A-Ach ja?
 
-149
+147
 00:09:42,060 --> 00:09:44,110
 Na schön! Mach doch, was du willst!
 
-150
+148
 00:09:44,110 --> 00:09:47,900
 Wenn du es hier so sehr hasst, dann geh doch woanders hin!
 
-151
+149
 00:09:47,900 --> 00:09:49,860
 Hört auf, ihr beiden!
 
-152
+150
 00:09:50,740 --> 00:09:52,740
 Ich werde gehen!
 
-153
+151
 00:09:53,610 --> 00:09:54,530
 Nami!
 
-154
+152
 00:09:54,950 --> 00:09:56,780
 Nami!
 
-155
+153
 00:10:04,580 --> 00:10:06,250
 Bell-mère...
 
-156
+154
 00:10:06,250 --> 00:10:09,510
 Wir drei sind doch eine Familie.
 
-157
+155
 00:10:09,510 --> 00:10:11,590
 Nami empfindet bestimmt genauso!
 
-158
+156
 00:10:11,590 --> 00:10:14,260
 Sie hat es nicht so gemeint!
 
-159
+157
 00:10:15,850 --> 00:10:17,560
 Du bist ein starkes Mädchen, Nojiko.
 
-160
+158
 00:10:18,180 --> 00:10:20,850
 Das war echt unreif von mir.
 
-161
+159
 00:10:21,430 --> 00:10:23,480
 Könntest du Nami für mich zurückholen?
 
-162
+160
 00:10:23,480 --> 00:10:26,650
 Bis dahin habe ich euch was Superleckeres gekocht!
 
-163
+161
 00:10:27,570 --> 00:10:28,610
 Ja!
 
-164
+162
 00:10:42,330 --> 00:10:44,460
 Gute Frau! Ich gehe so viel runter!
 
-165
+163
 00:10:44,460 --> 00:10:47,500
 Hä? Da geht doch noch mehr!
 
-166
+164
 00:10:47,920 --> 00:10:50,420
 Hier drüben! Tiefpreise! Tiefpreise!
 
-167
+165
 00:10:50,420 --> 00:10:55,590
 Es kann nicht schaden, ein paar meiner frischen Früchte zu kaufen!
 
-168
+166
 00:11:03,890 --> 00:11:07,020
 Vom Dorfrand hierherzukommen, nennst du schon „ausreißen“?
 
-169
+167
 00:11:07,020 --> 00:11:08,520
 Da machst du es dir aber einfach!
 
-170
+168
 00:11:10,270 --> 00:11:12,280
 Hier. Trink aus, bevor es kalt ist.
 
-171
+169
 00:11:15,150 --> 00:11:18,870
 Bell-mère wäre glücklicher, wenn wir nicht wären.
 
-172
+170
 00:11:19,620 --> 00:11:20,830
 Wie kommst du darauf?
 
-173
+171
 00:11:21,950 --> 00:11:24,830
 Zwei Kinder kosten viel Geld...
 
-174
+172
 00:11:24,830 --> 00:11:29,210
 Außerdem hassen sie alle im Dorf meinetwegen...
 
-175
+173
 00:11:29,210 --> 00:11:32,550
 Du bist alt genug, um an andere zu denken, oder?
 
-176
+174
 00:11:33,670 --> 00:11:35,050
 Keine Sorge.
 
-177
+175
 00:11:35,050 --> 00:11:38,890
 In deinem Alter war sie im Dorf als verzogene Göre bekannt.
 
-178
+176
 00:11:39,260 --> 00:11:40,600
 Bell-mère war was?!
 
-179
+177
 00:11:40,600 --> 00:11:42,480
 In den Augen der Dorfbewohner
 
-180
+178
 00:11:42,480 --> 00:11:44,890
 ist sie immer noch ein wenig eine verzogene Göre!
 
-181
+179
 00:11:45,520 --> 00:11:48,770
 Das ganze Dorf war sprachlos, als diese Göre plötzlich meinte,
 
-182
+180
 00:11:48,770 --> 00:11:50,650
 sie wolle zur Marine gehen.
 
-183
+181
 00:11:50,650 --> 00:11:51,980
 Zur Marine?
 
-184
+182
 00:11:51,980 --> 00:11:54,070
 Bell-mère war bei der Marine?
 
-185
+183
 00:11:54,440 --> 00:11:55,530
 Ja.
 
-186
+184
 00:12:03,950 --> 00:12:08,460
 Piraten müssen dafür büßen,
 dass sie Unschuldige abschlachten.
 
-187
+185
 00:12:08,460 --> 00:12:10,920
 Mit diesen Worten verließ sie das Dorf.
 
-188
+186
 00:12:18,630 --> 00:12:22,350
 Sie meinte, ihre Zeit zu sterben wäre endlich gekommen...
 
-189
+187
 00:12:23,850 --> 00:12:26,640
 Was soll’s...
 
-190
+188
 00:12:45,490 --> 00:12:47,000
 Deine kleine Schwester?
 
-191
+189
 00:12:51,920 --> 00:12:54,380
 Nein. Ich weiß nicht, wer sie ist.
 
-192
+190
 00:13:04,140 --> 00:13:06,310
 Weißt du eigentlich, wie ich das finde?
 
-193
+191
 00:13:21,320 --> 00:13:24,070
 Und das warst du, Nami.
 
-194
+192
 00:13:25,120 --> 00:13:30,040
 Als sie euch sah, fasste Bell-mère neuen Lebensmut.
 
-195
+193
 00:13:40,380 --> 00:13:42,590
 Ein Boot! Ich wusste es!
 
-196
+194
 00:13:42,590 --> 00:13:45,850
 In so einer stürmischen Nacht? Wer könnte das nur sein?
 
-197
+195
 00:13:54,770 --> 00:13:55,980
 Doktor!
 
-198
+196
 00:13:55,980 --> 00:13:57,400
 Holt den Doktor!
 
-199
+197
 00:13:58,030 --> 00:13:59,320
 Bell-mère?
 
-200
+198
 00:13:59,320 --> 00:14:00,650
 Bist du das, Bell-mère?
 
-201
+199
 00:14:00,650 --> 00:14:01,490
 Bell-mère!
 
-202
+200
 00:14:01,490 --> 00:14:03,240
 Was soll das?
 
-203
+201
 00:14:06,740 --> 00:14:08,460
 Wer sind diese Kinder?
 
-204
+202
 00:14:07,530 --> 00:14:08,460
 Doktor!
 
-205
+203
 00:14:08,460 --> 00:14:12,080
 Sie haben schreckliches Fieber!
 Der Sturm hat sie all ihre Kraft gekostet!
 
-206
+204
 00:14:12,080 --> 00:14:13,330
 Was?!
 
-207
+205
 00:14:15,130 --> 00:14:16,540
 Gut!
 
-208
+206
 00:14:16,540 --> 00:14:19,460
 Wir müssen uns aber auch um deine Verletzungen kümmern!
 
-209
+207
 00:14:19,460 --> 00:14:21,420
 Mach schon!
 
-210
+208
 00:14:21,420 --> 00:14:23,720
 Bitte! Lass sie nicht sterben!
 
-211
+209
 00:14:23,720 --> 00:14:25,450
 Rette diese Kinder!
 
-212
+210
 00:14:26,220 --> 00:14:30,430
 Ich flehe dich an!
 
-213
+211
 00:14:32,680 --> 00:14:35,900
 Was hast du da
 gerade gesagt, du Wildfang?
 
-214
+212
 00:14:36,520 --> 00:14:39,100
 Ich werde für diese Kinder eine Mutter.
 
-215
+213
 00:14:39,100 --> 00:14:40,150
 Das habe ich gesagt.
 
-216
+214
 00:14:40,150 --> 00:14:41,400
 Das geht nicht!
 
-217
+215
 00:14:41,400 --> 00:14:42,900
 Tu das nicht!
 
-218
+216
 00:14:42,900 --> 00:14:45,610
 Eine Chaotin wie du kann doch keine Kinder großziehen!
 
-219
+217
 00:14:45,610 --> 00:14:47,660
 H-Hör auf mich!
 
-220
+218
 00:14:47,660 --> 00:14:49,660
 Übergib sie der staatlichen Fürsorge!
 
-221
+219
 00:14:49,660 --> 00:14:51,290
 Ich hab das bereits entschieden!
 
-222
+220
 00:14:52,410 --> 00:14:54,420
 Ich bin jetzt auch erwachsen.
 
-223
+221
 00:14:54,420 --> 00:14:56,040
 Ich war sogar bei der Marine.
 
-224
+222
 00:14:56,040 --> 00:14:58,670
 Ich bin durchaus bodenständig geworden.
 
-225
+223
 00:14:58,670 --> 00:15:01,510
 Ich werde die Verantwortung für diese beiden Kinder übernehmen.
 
-226
+224
 00:15:02,630 --> 00:15:06,930
 Ich werde sie zu tollen Menschen erziehen,
 die in unserer Ära überleben können.
 
-227
+225
 00:15:07,760 --> 00:15:10,470
 Ich werde mit diesen Kindern zusammenleben.
 
-228
+226
 00:15:10,470 --> 00:15:13,770
 Nami und Nojiko haben mir das Leben gerettet.
 
-229
+227
 00:15:18,730 --> 00:15:23,570
 Euch Mädels verbindet ein Band, das stärker als das jeder Familie ist.
 
-230
+228
 00:15:27,660 --> 00:15:29,910
 Nami! Hier steckst du also!
 
-231
+229
 00:15:29,910 --> 00:15:31,660
 N-Nojiko!
 
-232
+230
 00:15:32,040 --> 00:15:34,250
 Bell-mère wartet auf uns!
 
-233
+231
 00:15:34,790 --> 00:15:36,620
 Sie kocht uns was Leckeres.
 
-234
+232
 00:15:38,630 --> 00:15:39,590
 Ja!
 
-235
+233
 00:15:40,290 --> 00:15:42,090
 Es gibt bestimmt dein Lieblingsessen!
 
-236
+234
 00:15:42,090 --> 00:15:43,840
 Omelett mit Mandarinensoße!
 
-237
+235
 00:15:43,840 --> 00:15:45,510
 Ja!
 
-238
+236
 00:15:47,050 --> 00:15:51,180
 Juhu! Omelett!
 
-239
+237
 00:15:55,480 --> 00:15:57,980
 Piraten, Leute!
 
-240
+238
 00:15:58,600 --> 00:16:00,650
 Die Piraten kommen!
 
-241
+239
 00:16:01,690 --> 00:16:02,940
 Piraten!
 
-242
+240
 00:16:02,940 --> 00:16:05,820
 Versteckt euch!
 
-243
+241
 00:16:14,700 --> 00:16:16,250
 Es sind die Arlong-Piraten!
 
-244
+242
 00:16:16,250 --> 00:16:17,040
 Arlong?!
 
-245
+243
 00:16:17,040 --> 00:16:17,960
 Unmöglich!
 
-246
+244
 00:16:18,580 --> 00:16:21,380
 Was machen die Fischmenschen von der Grand Line denn hier?
 
-247
+245
 00:16:21,380 --> 00:16:24,920
 Stimmen die Gerüchte über die
 Aufspaltung der Fischmenschen-Bande?
 
-248
+246
 00:16:24,920 --> 00:16:26,550
 Nami! Nojiko!
 
-249
+247
 00:16:26,550 --> 00:16:27,670
 Gen!
 
-250
+248
 00:16:28,180 --> 00:16:29,800
 Hier ist es gefährlich!
 
-251
+249
 00:16:29,800 --> 00:16:31,470
 Versteckt euch im Wald!
 
-252
+250
 00:16:31,800 --> 00:16:32,970
 Hä? Aber...
 
-253
+251
 00:16:32,970 --> 00:16:34,560
 Na los!
 
-254
+252
 00:16:45,730 --> 00:16:49,150
 Ihr wirkt ja richtig quicklebendig, kleine Menschlein!
 
-255
+253
 00:16:49,150 --> 00:16:50,820
 Ab sofort steht dieses Dorf...
 
-256
+254
 00:16:50,820 --> 00:16:54,410
 nein, diese Insel
 unter meiner Kontrolle!
 
-257
+255
 00:16:56,620 --> 00:16:58,290
 Lauscher auf!
 
-258
+256
 00:16:58,290 --> 00:17:02,920
 An diesem denkwürdigen Tag werdet ihr mich für eure Leben bezahlen.
 
-259
+257
 00:17:05,000 --> 00:17:07,380
 100.000 Berry pro Erwachsener.
 
-260
+258
 00:17:07,380 --> 00:17:09,300
 50.000 Berry pro Kind.
 
-261
+259
 00:17:09,300 --> 00:17:11,720
 Wer nicht zahlen kann, stirbt!
 
-262
+260
 00:17:14,010 --> 00:17:16,470
 Was machen wir jetzt, Nojiko?
 
-263
+261
 00:17:16,850 --> 00:17:19,100
 So viel haben wir nicht!
 
-264
+262
 00:17:19,100 --> 00:17:21,600
 Vielleicht finden sie unser Haus nicht!
 
-265
+263
 00:17:21,600 --> 00:17:23,480
 Man sieht es nicht vom Dorf aus.
 
-266
+264
 00:17:28,360 --> 00:17:30,570
 Wie viel haben
 wir bekommen, Bruder?
 
-267
+265
 00:17:31,070 --> 00:17:33,530
 Etwas über 25 Millionen würde ich sagen.
 
-268
+266
 00:17:34,160 --> 00:17:35,240
 Großartig!
 
-269
+267
 00:17:39,830 --> 00:17:42,120
 Ab sofort werden wir wohl
 
-270
+268
 00:17:42,120 --> 00:17:45,090
 100.000 Berry pro Monat pro Person zahlen müssen.
 
-271
+269
 00:17:45,090 --> 00:17:47,460
 100.000? So kommen wir kaum über die Runden!
 
-272
+270
 00:17:47,460 --> 00:17:48,710
 Erduldet es fürs Erste.
 
-273
+271
 00:17:48,710 --> 00:17:52,180
 Wir sollten froh sein, dass niemand
 im Dorf sterben musste.
 
-274
+272
 00:17:52,760 --> 00:17:56,390
 Wenn sie nur Geld wollen, dann ist
 das noch das geringste Übel.
 
-275
+273
 00:17:56,720 --> 00:18:02,350
 Hoffentlich finden sie nur nicht Bell-mères Haus.
 
-276
+274
 00:18:02,980 --> 00:18:06,230
 Zusammen mit den beiden Kindern wären das 200.000 Berry.
 
-277
+275
 00:18:06,230 --> 00:18:08,820
 Sie hat wohl kaum so viel angespart.
 
-278
+276
 00:18:09,320 --> 00:18:13,490
 Gut! Ziehen wir ab, Brüder!
 
-279
+277
 00:18:16,620 --> 00:18:19,580
 Arlong! Vom Dorfrand steigt Rauch auf!
 
-280
+278
 00:18:25,960 --> 00:18:27,290
 Gut!
 
-281
+279
 00:18:27,290 --> 00:18:28,750
 Gut, dann probieren wir mal!
 
-282
+280
 00:18:29,170 --> 00:18:33,010
 Zu köstlich! Nichts geht über Bell-mères spezielle Mandarinensoße!
 
-283
+281
 00:18:33,010 --> 00:18:35,970
 Die wird Nami und Nojiko vom Hocker hauen!
 
-284
+282
 00:18:35,970 --> 00:18:38,890
 Der Rauch steigt von einem Haus auf!
 
-285
+283
 00:18:39,850 --> 00:18:41,220
 Oh?
 
-286
+284
 00:18:41,220 --> 00:18:42,810
 Wir hätten es fast übersehen.
 
-287
+285
 00:18:42,810 --> 00:18:44,270
 Scheiße!
 
-288
+286
 00:18:44,270 --> 00:18:46,150
 – Bell-mère!
 – Bell-mère!
 
-289
+287
 00:18:47,020 --> 00:18:49,110
 Gehen wir!
 Sammeln wir unser Geld ein!
 
-290
+288
 00:18:51,490 --> 00:18:53,360
 Oh, das ist übel! Die Piraten...
 
-291
+289
 00:18:53,360 --> 00:18:55,160
 ...steuern auf Bell-mères Haus zu!
 
-292
+290
 00:18:59,450 --> 00:19:01,540
 Hey! Nojiko und Nami sind verschwunden!
 
-293
+291
 00:19:01,870 --> 00:19:02,620
 Was?!
 
-294
+292
 00:19:03,290 --> 00:19:05,670
 Die Ente muss noch zehn Minuten in den Ofen.
 
-295
+293
 00:19:05,670 --> 00:19:07,290
 Der Eintopf kocht.
 
-296
+294
 00:19:07,290 --> 00:19:09,340
 Das haut ein ziemliches Loch in unsere Reserven.
 
-297
+295
 00:19:09,340 --> 00:19:12,550
 Aber ab und zu muss man sich auch was gönnen!
 
-298
+296
 00:19:19,350 --> 00:19:22,430
 Bell-mère wird... Bell-mère wird...
 
-299
+297
 00:19:24,430 --> 00:19:26,440
 Bell-mère wird noch getötet!
 
-300
+298
 00:19:33,990 --> 00:19:37,070
 Wir dürfen auf gar keinen Fall Bell-mère im Stich lassen!
 
-301
+299
 00:19:37,070 --> 00:19:39,620
 Scheiße! Wieso muss es dazu kommen?
 
-302
+300
 00:19:39,620 --> 00:19:41,370
 Überstürze nichts, Bell-mère!
 
-303
+301
 00:19:44,790 --> 00:19:46,330
 Oh, sind sie zurück?
 
-304
+302
 00:19:53,840 --> 00:19:55,420
 Es ist offen!
 
-305
+303
 00:19:55,420 --> 00:19:57,220
 Kommt rein!
 
-306
+304
 00:19:57,590 --> 00:19:58,800
 Entschuldigung...
 
-307
+305
 00:20:22,990 --> 00:20:24,330
 Zu schade.
 
-308
+306
 00:20:24,330 --> 00:20:26,080
 Ich war mal bei der Marine.
 
-309
+307
 00:20:26,830 --> 00:20:28,760
 Was führt denn Piraten von der Grand Line
 
-310
+308
 00:20:28,760 --> 00:20:32,540
 den weiten Weg ins Dorf Cocoyashi?
 
-311
+309
 00:20:37,130 --> 00:20:38,130
 Was ist so lustig?
 
-312
+310
 00:20:45,180 --> 00:20:49,690
 Schwach! Schwach! Schwach! Schwach! Schwach!
 
-313
+311
 00:20:49,690 --> 00:20:54,070
 Wie schwach eure Spezies doch ist!
 
-314
+312
 00:21:01,320 --> 00:21:03,990
 Wir fliehen mit ihr durch die Hintertür!
 
-315
+313
 00:21:03,990 --> 00:21:05,790
 Aber die Piraten könnten schon da sein!
 
-316
+314
 00:21:05,790 --> 00:21:06,750
 Das wird schon!
 
-317
+315
 00:21:06,750 --> 00:21:07,660
 Halt!
 
-318
+316
 00:21:11,920 --> 00:21:12,670
 Doktor!
 
-319
+317
 00:21:12,670 --> 00:21:13,750
 Ihr könnt grad nicht heim!
 
-320
+318
 00:21:13,750 --> 00:21:14,500
 Was?!
 
-321
+319
 00:21:14,500 --> 00:21:16,710
 Aus dem Weg!
 Wir müssen Bell-mère retten!
 
-322
+320
 00:21:16,710 --> 00:21:18,090
 Nojiko! Nami!
 
-323
+321
 00:21:18,590 --> 00:21:20,720
 Hört mir gut zu, ihr beiden.
 
-324
+322
 00:21:20,720 --> 00:21:23,720
 Genau zu so einem Zeitpunkt...
 nein, genau weil es so weit gekommen ist,
 
-325
+323
 00:21:23,720 --> 00:21:26,640
 muss ich euch eine
 grausame Geschichte erzählen.
 
-326
+324
 00:21:28,270 --> 00:21:29,100
 Doktor?
 
-327
+325
 00:21:31,230 --> 00:21:33,520
 Bell-mère!
 
-328
+326
 00:21:41,610 --> 00:21:45,780
 Gar nicht gut! Die sind echte Monster!
 
-329
+327
 00:21:45,780 --> 00:21:46,740
 Sie werden mich töten!
 
-330
+328
 00:21:47,200 --> 00:21:49,200
 Nojiko! Nami!
 
-331
+329
 00:21:49,200 --> 00:21:50,710
 Bell-mère!
 
-332
+330
 00:21:51,100 --> 00:21:53,630
 Dein Leben ist mehr wert als dein alberner Gerechtigkeitssinn!
 
-333
+331
 00:21:54,080 --> 00:21:55,670
 Manche Kämpfe lohnen sich nicht.
 
-334
+332
 00:21:55,670 --> 00:21:58,710
 Manche Probleme lassen sich mit Geld lösen!
 
-335
+333
 00:21:58,710 --> 00:22:00,090
 Gen...
 
-336
+334
 00:22:00,720 --> 00:22:03,470
 Stimmt, Marine-Weib.
 
-337
+335
 00:22:03,470 --> 00:22:06,470
 100.000 pro Erwachsener. 50.000 pro Kind.
 
-338
+336
 00:22:06,810 --> 00:22:08,890
 Wenn du für deine Familie zahlst, lass ich dich leben.
 
-339
+337
 00:22:08,890 --> 00:22:10,680
 Du solltest mir dafür dankbar sein.
 
-340
+338
 00:22:10,680 --> 00:22:12,060
 Für meine Familie?
 
-341
+339
 00:22:14,520 --> 00:22:16,650
 Das wären 200.000.
 
-342
+340
 00:22:16,650 --> 00:22:18,690
 Wie viel hast du gerade da?
 
-343
+341
 00:22:19,690 --> 00:22:21,610
 Meine gesamten Ersparnisse
 
-344
+342
 00:22:21,610 --> 00:22:22,900
 betragen etwas mehr als 100.000.
 
-345
+343
 00:22:24,910 --> 00:22:28,240
 Hey! Hier wurde für drei Personen gedeckt!
 
-346
+344
 00:22:29,160 --> 00:22:30,000
 Oh?
 
-347
+345
 00:22:30,000 --> 00:22:32,160
 Eine dreiköpfige Familie?
 
-348
+346
 00:22:34,170 --> 00:22:36,460
 Fast vergessen!
 
-349
+347
 00:22:38,000 --> 00:22:42,170
 Sie hat mich und meinen Freund heute Abend zum Essen eingeladen.
 
-350
+348
 00:22:42,170 --> 00:22:43,800
 Komm, Bell-mère.
 
-351
+349
 00:22:43,800 --> 00:22:45,890
 Zahl schnell deinen Anteil.
 
-352
+350
 00:22:45,890 --> 00:22:48,350
 Sonst wird unser Essen noch kalt.
 
-353
+351
 00:22:48,350 --> 00:22:49,310
 Gen...
 
-354
+352
 00:22:49,310 --> 00:22:51,600
 Du hast doch die 100.000.
 
-355
+353
 00:22:51,600 --> 00:22:53,140
 Zum Glück hast du genug.
 
-356
+354
 00:22:53,980 --> 00:22:56,310
 Dann werden alle im Dorf verschont.
 
-357
+355
 00:22:56,690 --> 00:22:57,940
 Stimmt.
 
-358
+356
 00:22:57,940 --> 00:23:02,190
 Im Familienregister steht nichts darüber,
 dass sie verheiratet wäre oder Kinder hätte.
 
-359
+357
 00:23:02,190 --> 00:23:04,070
 Sie ist ledig.
 
-360
+358
 00:23:08,120 --> 00:23:09,870
 Rafft ihr es jetzt?
 
-361
+359
 00:23:09,870 --> 00:23:13,370
 Es gibt keinen Beweis, dass ihr beide und Bell-mère eine Familie wärt!
 
-362
+360
 00:23:13,370 --> 00:23:16,120
 Verlasst diese Insel, bevor ihr auffliegt!
 
-363
+361
 00:23:16,120 --> 00:23:17,380
 Flieht übers Meer!
 
-364
+362
 00:23:18,380 --> 00:23:20,880
 Ansonsten seid ihr drei nicht mehr zu retten!
 
-365
+363
 00:23:21,630 --> 00:23:25,130
 Mir ist klar, wie gefährlich es ist, euch beide
 in eurem Alter aufs Meer zu schicken.
 
-366
+364
 00:23:25,130 --> 00:23:28,470
 Es könnte sonst was passieren. Aber dann
 habt ihr wenigstens eine Chance...
 
-367
+365
 00:23:28,470 --> 00:23:29,100
 Nein.
 
-368
+366
 00:23:30,600 --> 00:23:32,390
 Will nicht.
 
-369
+367
 00:23:32,390 --> 00:23:36,270
 Ich will in diesem Dorf leben...
 
-370
+368
 00:23:36,270 --> 00:23:37,690
 Darf ich nur nicht mehr
 
-371
+369
 00:23:38,150 --> 00:23:41,520
 Bell-mères Tochter sein, weil wir so arm sind?
 
-372
+370
 00:23:41,900 --> 00:23:44,990
 Wieso? Wieso?
 
-373
+371
 00:23:47,950 --> 00:23:49,490
 So ein Glück.
 
-374
+372
 00:23:49,490 --> 00:23:51,240
 Jetzt muss niemand sterben.
 
-375
+373
 00:23:51,740 --> 00:23:53,830
 Verstanden, wir verlassen das Dorf.
 
-376
+374
 00:23:52,660 --> 00:23:53,830
 Nojiko!
 
-377
+375
 00:23:53,830 --> 00:23:54,960
 Gehen wir!
 
-378
+376
 00:23:54,960 --> 00:23:57,420
 Nur so kann Bell-mère überleben!
 
-379
+377
 00:24:12,930 --> 00:24:14,180
 Wartet!
 
-380
+378
 00:24:14,180 --> 00:24:16,390
 Wer hat gesagt, dass ich für mich gezahlt habe?
 
-381
+379
 00:24:17,730 --> 00:24:20,230
 Das waren die 100.000 für meine beiden Töchter.
 
-382
+380
 00:24:20,860 --> 00:24:22,070
 Ich habe nicht genug für mich.
 
-383
+381
 00:24:24,320 --> 00:24:25,740
 Bell-mère! Was sagst du denn da?
 
-384
+382
 00:24:25,740 --> 00:24:27,200
 Tut mir leid, Gen.
 
-385
+383
 00:24:27,200 --> 00:24:30,320
 Ich kann einfach nicht behaupten, ich hätte keine Familie.
 
-386
+384
 00:24:30,320 --> 00:24:33,030
 Auch wenn mich das mein Leben kostet.
 
-387
+385
 00:24:35,200 --> 00:24:36,160
 Wie konnte sie nur?
 
-388
+386
 00:24:36,500 --> 00:24:39,500
 Ja, wir sind nicht blutsverwandt,
 
-389
+387
 00:24:40,670 --> 00:24:42,170
 aber wir sind trotzdem eine Familie.
 
-390
+388
 00:24:42,790 --> 00:24:45,130
 Ich will ihre Mutter sein, auch wenn
 wir das nur so behaupten.
 
-391
+389
 00:24:46,670 --> 00:24:47,970
 Sie sind...
 
-392
+390
 00:24:48,430 --> 00:24:49,630
 meine Kinder.
 
-393
+391
 00:24:50,550 --> 00:24:53,260
 – Bell-mère!
 – Bell-mère!
 
-394
+392
 00:24:51,470 --> 00:24:52,640
 Wartet, ihr beiden!
 
-395
+393
 00:24:53,680 --> 00:24:57,230
 Ich wünschte, mich hätte jemand Reiches adoptiert!
 
-396
+394
 00:24:57,600 --> 00:24:59,480
 Das war gelogen!
 
-397
+395
 00:24:59,480 --> 00:25:01,100
 Ich hab gelogen!
 
-398
+396
 00:25:01,100 --> 00:25:03,820
 – Bell-mère!
 – Bell-mère!
 
-399
+397
 00:25:17,000 --> 00:25:18,620
 Ich wollte euch noch...
 
-400
+398
 00:25:18,620 --> 00:25:21,790
 so viele Bücher und Klamotten kaufen...
 
-401
+399
 00:25:22,420 --> 00:25:23,630
 Verzeiht mir!
 
-402
+400
 00:25:23,630 --> 00:25:26,170
 Ich konnte nie eine richtige Mutter sein!
 
-403
+401
 00:25:26,170 --> 00:25:27,510
 Das stimmt nicht!
 
-404
+402
 00:25:27,510 --> 00:25:29,380
 Wir brauchen nichts! Stirb nur nicht!
 
-405
+403
 00:25:29,380 --> 00:25:30,880
 Bleib für immer bei uns!
 
-406
+404
 00:25:30,880 --> 00:25:34,180
 Du sollst dir noch die Weltkarte anschauen, die ich zeichnen werde!
 
-407
+405
 00:25:36,140 --> 00:25:37,600
 Ja... Deine Karte...
 
-408
+406
 00:25:38,520 --> 00:25:39,770
 Lass deinen Traum...
 
-409
+407
 00:25:40,270 --> 00:25:42,150
 wahr werden!
 
-410
+408
 00:25:44,110 --> 00:25:45,570
 Lebt!
 
-411
+409
 00:25:45,570 --> 00:25:47,650
 Bell-mère!
 
-412
+410
 00:25:50,240 --> 00:25:52,570
 Das sind deine Blagen, ja?
 
-413
+411
 00:25:54,780 --> 00:25:56,450
 Ja, so ist es.
 
-414
+412
 00:25:56,910 --> 00:25:59,500
 Versprecht mir, dass ihr ihnen kein Haar krümmen werdet.
 
-415
+413
 00:25:59,500 --> 00:26:00,870
 Natürlich!
 
-416
+414
 00:26:00,870 --> 00:26:02,830
 Solange du schön artig stirbst.
 
-417
+415
 00:26:02,830 --> 00:26:04,630
 Hilfe!
 
-418
+416
 00:26:16,680 --> 00:26:18,560
 Jetzt haben sie’s geschafft.
 
-419
+417
 00:26:18,560 --> 00:26:21,020
 Tötet sie nicht.
 Macht mit ihnen, was ihr wollt.
 
-420
+418
 00:26:21,390 --> 00:26:24,350
 Es wird Zeit, dass wir ein Exempel an dir statuieren.
 
-421
+419
 00:26:29,820 --> 00:26:31,400
 Stirb für deine belanglose Liebe.
 
-422
+420
 00:26:41,660 --> 00:26:43,290
 Nojiko! Nami!
 
-423
+421
 00:26:46,580 --> 00:26:47,710
 Ich liebe euch.
 
-424
+422
 00:03:33,360 --> 00:03:37,320
 Nami (vor 8 Jahren)
+
+423
+00:03:33,360 --> 00:03:37,320
+Nami (vor 8 Jahren)
+
+424
+00:04:27,500 --> 00:04:32,460
+Genzo (vor 8 Jahren)
 
 425
-00:03:33,360 --> 00:03:37,320
-Nami (vor 8 Jahren)
+00:04:27,500 --> 00:04:32,460
+Genzo (vor 8 Jahren)
 
 426
-00:04:27,500 --> 00:04:32,460
-Genzo (vor 8 Jahren)
+00:04:47,390 --> 00:04:50,900
+Bell-mère
+Nami und Nojikos
+Pflegemutter
 
 427
-00:04:27,500 --> 00:04:32,460
-Genzo (vor 8 Jahren)
+00:04:47,390 --> 00:04:50,900
+Bell-mère
+Nami und Nojikos
+Pflegemutter
 
 428
-00:04:47,390 --> 00:04:50,900
-Bell-mère
-Nami und Nojikos
-Pflegemutter
+00:06:08,890 --> 00:06:11,270
+Nojiko (vor 8 Jahren)
 
 429
-00:04:47,390 --> 00:04:50,900
-Bell-mère
-Nami und Nojikos
-Pflegemutter
+00:06:08,890 --> 00:06:11,270
+Nojiko (vor 8 Jahren)
 
 430
-00:06:08,890 --> 00:06:11,270
-Nojiko (vor 8 Jahren)
+00:10:36,620 --> 00:10:41,540
+Dorf Cocoyashi
 
 431
-00:06:08,890 --> 00:06:11,270
-Nojiko (vor 8 Jahren)
-
-432
 00:10:36,620 --> 00:10:41,540
 Dorf Cocoyashi
 
-433
-00:10:36,620 --> 00:10:41,540
-Dorf Cocoyashi

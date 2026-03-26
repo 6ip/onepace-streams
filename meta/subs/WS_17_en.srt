@@ -1,1676 +1,1672 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:50,090 --> 00:02:00,090
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:56,600 --> 00:01:58,470
 We're approaching the exit.
 
-4
+2
 00:01:58,470 --> 00:02:00,890
 Going straight down, full steam ahead!
 
-5
+3
 00:02:00,890 --> 00:02:01,890
 No way!
 
-6
+4
 00:02:01,890 --> 00:02:02,640
 What?!
 
-7
+5
 00:02:02,640 --> 00:02:05,270
 Wh-Whaaaat?!
 
-8
+6
 00:02:24,250 --> 00:02:27,090
 Alright, the sea train has emerged!
 
-9
+7
 00:02:27,090 --> 00:02:30,340
 Let's go, guys! We're fighting, too!
 
-10
+8
 00:02:30,340 --> 00:02:33,010
 – Yeah!
 – Yeah!
 
-11
+9
 00:02:33,010 --> 00:02:35,840
 Jump, Sodom and Gomorrah!
 
-12
+10
 00:02:37,300 --> 00:02:38,510
 Wh-What the...?!
 
-13
+11
 00:02:41,350 --> 00:02:44,480
 Mr. Straw Hat!
 
-14
+12
 00:02:44,480 --> 00:02:48,060
 On behalf of the entire Franky Family,
 
-15
+13
 00:02:48,520 --> 00:02:52,070
 thank you for taking us along!
 
-16
+14
 00:02:52,070 --> 00:02:54,150
 Fire the connection cannons!
 
-17
+15
 00:03:04,540 --> 00:03:07,000
 Whoa! Cool!
 
-18
+16
 00:03:07,380 --> 00:03:10,840
 Those are some top-of-the-line king bulls.
 
-19
+17
 00:03:10,840 --> 00:03:12,880
 Not bad!
 
-20
+18
 00:03:15,050 --> 00:03:18,220
 Dammit! Those bastards...!
 
-21
+19
 00:03:18,220 --> 00:03:20,100
 Hey dumbasses, watch it!
 
-22
+20
 00:03:20,100 --> 00:03:22,560
 – Thanks for your help!
 – Thanks for your help!
 
-23
+21
 00:03:24,850 --> 00:03:27,230
 Looks like the tracks have drifted quite a bit.
 
-24
+22
 00:03:27,690 --> 00:03:31,360
 But I've watched over
 the sea train from day one.
 
-25
+23
 00:03:31,360 --> 00:03:33,530
 Don't underestimate me!
 
-26
+24
 00:03:37,910 --> 00:03:38,820
 I see it!
 
-27
+25
 00:03:38,820 --> 00:03:40,160
 Let's go!
 
-28
+26
 00:03:43,870 --> 00:03:46,370
 Urgent message from the engine room!
 
-29
+27
 00:03:46,370 --> 00:03:50,460
 In a moment, the train will get on
 the railway and accelerate rapidly!
 
-30
+28
 00:03:50,460 --> 00:03:54,460
 Hold on tight if you want to
 keep injuries to a minimum!
 
-31
+29
 00:03:54,460 --> 00:03:56,840
 So, we're getting hurt no matter what?
 
-32
+30
 00:04:06,230 --> 00:04:07,350
 Hey!
 
-33
+31
 00:04:07,350 --> 00:04:08,520
 Behave!
 
-34
+32
 00:04:08,520 --> 00:04:10,610
 Grandma, that was so, so close!
 
-35
+33
 00:04:10,610 --> 00:04:12,370
 A little to the right!
 
-36
+34
 00:04:14,690 --> 00:04:15,740
 Just wait and see!
 
-37
+35
 00:04:15,740 --> 00:04:17,360
 I'll make it next–
 
-38
+36
 00:04:17,360 --> 00:04:18,070
 Huh?!
 
-39
+37
 00:04:18,070 --> 00:04:20,530
 Chimney! Gonbe!
 
-40
+38
 00:04:21,780 --> 00:04:24,290
 You two snuck on board?!
 
-41
+39
 00:04:25,410 --> 00:04:26,950
 Yep, we did!
 
-42
+40
 00:04:29,960 --> 00:04:31,630
 For crying out loud!
 
-43
+41
 00:04:31,630 --> 00:04:33,250
 Hurry up and get inside!
 
-44
+42
 00:04:33,880 --> 00:04:35,800
 You'll be blown away!
 
-45
+43
 00:04:36,380 --> 00:04:37,970
 We're okay! We're okay!
 
-46
+44
 00:04:40,720 --> 00:04:41,890
 Chimney!
 
-47
+45
 00:04:44,140 --> 00:04:45,350
 I'm gonna fall!
 
-48
+46
 00:04:45,350 --> 00:04:48,230
 D-Don't let go!
 
-49
+47
 00:04:48,230 --> 00:04:51,000
 I'm gonna blow away!
 
-50
+48
 00:04:51,940 --> 00:04:53,520
 H-Hold on a sec, okay?
 
-51
+49
 00:04:53,520 --> 00:04:55,190
 I'll stop the train right away!
 
-52
+50
 00:05:01,410 --> 00:05:02,660
 Oh, that's right!
 
-53
+51
 00:05:02,660 --> 00:05:05,910
 The brake doesn't work on this train!
 
-54
+52
 00:05:09,410 --> 00:05:11,830
 What the heck? That looks kinda fun.
 
-55
+53
 00:05:12,830 --> 00:05:14,710
 It's Straw Hat guy!
 
-56
+54
 00:05:14,710 --> 00:05:15,900
 Hi!
 
-57
+55
 00:05:16,750 --> 00:05:19,670
 Straw Hat! Hurry and get
 Chimney and Gonbe inside!
 
-58
+56
 00:05:20,050 --> 00:05:23,720
 Once we get on the railway,
 they'll be blown away!
 
-59
+57
 00:05:24,180 --> 00:05:24,890
 Okay!
 
-60
+58
 00:06:02,260 --> 00:06:03,840
 – I thought I was a goner.
 – I thought I was a goner.
 
-61
+59
 00:06:04,340 --> 00:06:06,680
 Well, obviously! Good grief!
 
-62
+60
 00:06:06,680 --> 00:06:07,850
 I told you, didn't I?!
 
-63
+61
 00:06:07,850 --> 00:06:09,680
 I said you'd get blown away!
 
-64
+62
 00:06:09,680 --> 00:06:10,810
 Ow, ow, ow...
 
-65
+63
 00:06:10,810 --> 00:06:13,940
 That acceleration sure was crazy.
 
-66
+64
 00:06:13,940 --> 00:06:14,770
 Honestly...
 
-67
+65
 00:06:14,770 --> 00:06:16,900
 Yeah, really, that scared me!
 
-68
+66
 00:06:16,900 --> 00:06:18,900
 I hit my lower back.
 
-69
+67
 00:06:19,400 --> 00:06:20,690
 Wait a minute...
 
-70
+68
 00:06:20,690 --> 00:06:23,110
 We've got some unexpected company.
 
-71
+69
 00:06:23,450 --> 00:06:24,950
 – What?! Who are they?!
 – What?! Who are they?!
 
-72
+70
 00:06:24,950 --> 00:06:26,240
 He means you guys!
 
-73
+71
 00:06:26,240 --> 00:06:27,580
 That includes you!
 
-74
+72
 00:06:30,290 --> 00:06:33,750
 No matter how hard I tried
 to stop you, you kept going.
 
-75
+73
 00:06:34,120 --> 00:06:37,250
 The enemy you'd go this far
 to rescue your friend from
 
-76
+74
 00:06:37,250 --> 00:06:41,510
 is the same one who tried to kill Mr. Iceburg.
 
-77
+75
 00:06:41,840 --> 00:06:45,180
 And I've got some choice words for them!
 
-78
+76
 00:06:46,430 --> 00:06:49,060
 Paulie! We're not gonna let
 you hog all the glory!
 
-79
+77
 00:06:49,060 --> 00:06:53,430
 We figured we'd be able to find
 Mr. Iceburg's assassins if we followed you,
 
-80
+78
 00:06:53,430 --> 00:06:55,730
 so we hid in the coal car!
 
-81
+79
 00:06:55,730 --> 00:06:58,400
 And... it seems we were right.
 
-82
+80
 00:06:58,770 --> 00:07:01,690
 Let us join you guys in this battle.
 
-83
+81
 00:07:02,030 --> 00:07:04,150
 And your enemy is, of course...
 
-84
+82
 00:07:04,150 --> 00:07:06,740
 the same bastards who took Big Bro Franky!
 
-85
+83
 00:07:06,740 --> 00:07:10,950
 That's right, and we know
 exactly who they are!
 
-86
+84
 00:07:10,950 --> 00:07:14,750
 So, Galley-La, how you gonna make it right
 if we don't get back our Big Bro?!
 
-87
+85
 00:07:14,750 --> 00:07:15,750
 Shut up!
 
-88
+86
 00:07:15,750 --> 00:07:18,130
 It's Mr. Iceburg who's suffered the most!
 
-89
+87
 00:07:18,750 --> 00:07:20,750
 What are you guys talking about?!
 
-90
+88
 00:07:20,750 --> 00:07:23,760
 Paulie, fill us in! What's going on?!
 
-91
+89
 00:07:23,760 --> 00:07:25,470
 He's right, Paulie.
 
-92
+90
 00:07:25,470 --> 00:07:28,340
 You know the true culprit, don't you?
 
-93
+91
 00:07:28,340 --> 00:07:30,350
 Just tell us.
 
-94
+92
 00:07:30,350 --> 00:07:32,640
 We're not that dense.
 
-95
+93
 00:07:32,640 --> 00:07:34,270
 We have a rough idea who it is.
 
-96
+94
 00:07:34,600 --> 00:07:36,690
 We're not gonna be surprised.
 
-97
+95
 00:07:37,900 --> 00:07:42,150
 Yeah, it probably became obvious
 when they suddenly vanished.
 
-98
+96
 00:07:42,150 --> 00:07:44,490
 Then, I'll tell you straight.
 
-99
+97
 00:07:44,490 --> 00:07:47,910
 The true identities of those masked men are...
 
-100
+98
 00:07:47,910 --> 00:07:52,790
 Lucci, Kaku, Kalifa and Blueno from the bar.
 
-101
+99
 00:07:53,290 --> 00:07:57,250
 They tried to kill Mr. Iceburg.
 
-102
+100
 00:07:59,130 --> 00:08:00,960
 What?! It wasn't obvious to you?!
 
-103
+101
 00:08:00,960 --> 00:08:03,670
 B-But you said they moved back home!
 
-104
+102
 00:08:03,670 --> 00:08:05,090
 At a time like this?!
 
-105
+103
 00:08:05,090 --> 00:08:08,180
 We thought it was Michael
 and Hoichael from the Backstreets.
 
-106
+104
 00:08:08,180 --> 00:08:08,930
 Yeah, yeah!
 
-107
+105
 00:08:08,930 --> 00:08:09,840
 Who and who?!
 
-108
+106
 00:08:09,840 --> 00:08:12,430
 Wh-What?! You don't know them?!
 
-109
+107
 00:08:12,430 --> 00:08:14,020
 They're famous in the Backstreets!
 
-110
+108
 00:08:14,020 --> 00:08:15,060
 Yeah, yeah!
 
-111
+109
 00:08:15,060 --> 00:08:17,060
 How would I know?! You guys are–
 
-112
+110
 00:08:17,060 --> 00:08:17,940
 Alright!
 
-113
+111
 00:08:17,940 --> 00:08:19,940
 Oh man, I ate a lot.
 
-114
+112
 00:08:19,940 --> 00:08:21,860
 I'm finally full.
 
-115
+113
 00:08:24,400 --> 00:08:25,940
 Well, then...
 
-116
+114
 00:08:26,780 --> 00:08:30,110
 Franky Family! Galley-La shipwrights!
 
-117
+115
 00:08:30,530 --> 00:08:35,290
 We may have had our issues back in town,
 but we're all after the same enemy now!
 
-118
+116
 00:08:35,790 --> 00:08:40,230
 That pigeon jerk will be
 the strongest guy we fight.
 
-119
+117
 00:08:40,230 --> 00:08:43,000
 He's mine. I'm gonna kick his ass!
 
-120
+118
 00:08:43,000 --> 00:08:44,630
 Yeah.
 
-121
+119
 00:08:44,630 --> 00:08:48,380
 This is a battle to get back
 what those four took from us.
 
-122
+120
 00:08:48,380 --> 00:08:52,600
 In any case, we won't be able to get
 anything done unless we catch up to them.
 
-123
+121
 00:08:53,850 --> 00:08:57,210
 Grandma! Grandma! It's Aqua Laguna!
 
-124
+122
 00:08:57,850 --> 00:09:00,190
 Oh? It's here already?
 
-125
+123
 00:09:00,190 --> 00:09:01,560
 Chimney, let me have a look!
 
-126
+124
 00:09:06,780 --> 00:09:07,740
 This is bad!
 
-127
+125
 00:09:08,280 --> 00:09:11,200
 Miss Kokoro, shouldn't you be
 in the engine room right now?!
 
-128
+126
 00:09:11,200 --> 00:09:13,530
 We need to dodge that huge wave somehow!
 
-129
+127
 00:09:14,410 --> 00:09:15,410
 Didn't I tell you?
 
-130
+128
 00:09:15,410 --> 00:09:17,870
 We can't control Rocketman.
 
-131
+129
 00:09:17,870 --> 00:09:21,750
 Even if we tried to operate it,
 nothing works, including the brake.
 
-132
+130
 00:09:22,120 --> 00:09:25,380
 My job ended once the train
 got on the railway.
 
-133
+131
 00:09:25,960 --> 00:09:28,760
 This train always runs at full throttle.
 
-134
+132
 00:09:29,260 --> 00:09:31,630
 No one can stop it anymore.
 
-135
+133
 00:09:31,630 --> 00:09:32,760
 No way...
 
-136
+134
 00:09:32,760 --> 00:09:33,640
 Luffy!
 
-137
+135
 00:09:33,970 --> 00:09:37,390
 Do something, or we'll crash
 into that massive wave! Hey, Luffy–
 
-138
+136
 00:09:41,230 --> 00:09:43,850
 If we have the same goal...
 
-139
+137
 00:09:43,850 --> 00:09:46,520
 it would be dumb to fight separately.
 
-140
+138
 00:09:46,520 --> 00:09:47,820
 Yeah.
 
-141
+139
 00:09:47,820 --> 00:09:49,190
 You're right.
 
-142
+140
 00:09:51,200 --> 00:09:53,660
 Got it? We're comrades.
 
-143
+141
 00:09:54,120 --> 00:09:55,620
 All our friends...
 
-144
+142
 00:09:56,160 --> 00:09:58,160
 are in that train up ahead.
 
-145
+143
 00:09:58,160 --> 00:10:00,620
 We'll only get more allies!
 
-146
+144
 00:10:03,670 --> 00:10:04,920
 You guys!
 
-147
+145
 00:10:04,920 --> 00:10:07,380
 We're not gonna let a big wave take us down!
 
-148
+146
 00:10:07,380 --> 00:10:10,050
 We'll all achieve our goal!
 
-149
+147
 00:10:10,420 --> 00:10:11,550
 Let's go!
 
-150
+148
 00:10:11,550 --> 00:10:14,840
 – Yeah!
 – Yeah!
 
-151
+149
 00:10:17,140 --> 00:10:18,260
 Now, guys!
 
-152
+150
 00:10:18,260 --> 00:10:20,680
 Show me what you can do about this wave!
 
-153
+151
 00:10:20,680 --> 00:10:24,270
 Alright! Fire all the cannonballs
 we have at that wave!
 
-154
+152
 00:10:24,270 --> 00:10:27,230
 When it comes to cannons, leave it to me!
 
-155
+153
 00:10:27,570 --> 00:10:30,150
 Franky Family! Stand tall against that wave!
 
-156
+154
 00:10:30,480 --> 00:10:31,860
 Prepare the cannons!
 
-157
+155
 00:10:31,860 --> 00:10:33,070
 – Roger!
 – Roger!
 
-158
+156
 00:10:34,700 --> 00:10:36,370
 Get a move on!
 
-159
+157
 00:10:36,370 --> 00:10:38,370
 – Yeah!
 – Yeah!
 
-160
+158
 00:10:49,630 --> 00:10:51,260
 It's the baby transponder snail!
 
-161
+159
 00:11:07,400 --> 00:11:09,110
 Hey, you!
 
-162
+160
 00:11:09,110 --> 00:11:11,230
 Yes, Captain T-Bone!
 
-163
+161
 00:11:11,570 --> 00:11:13,610
 What happened to your arm?
 
-164
+162
 00:11:15,110 --> 00:11:15,950
 Oh...
 
-165
+163
 00:11:15,950 --> 00:11:19,950
 I-I got bitten by a bug earlier.
 When I scratched the area, it bled.
 
-166
+164
 00:11:19,950 --> 00:11:22,410
 That's awful! We must stop
 the bleeding at once!
 
-167
+165
 00:11:24,750 --> 00:11:26,370
 Let's make do with this.
 
-168
+166
 00:11:26,370 --> 00:11:28,880
 Y-Your own cape?!
 
-169
+167
 00:11:30,590 --> 00:11:31,960
 Now, this should do.
 
-170
+168
 00:11:31,960 --> 00:11:36,680
 When my subordinates bleed,
 it's my heart that gets wounded.
 
-171
+169
 00:11:37,720 --> 00:11:39,050
 Captain T-Bone...
 
-172
+170
 00:11:40,390 --> 00:11:46,890
 May the world be peaceful
 and kind again today.
 
-173
+171
 00:11:50,020 --> 00:11:52,400
 – His face is super scary.
 – His face is super scary.
 
-174
+172
 00:11:53,030 --> 00:11:53,940
 Captain!
 
-175
+173
 00:11:53,940 --> 00:11:55,320
 What'd you say?!
 
-176
+174
 00:11:56,450 --> 00:11:59,490
 I... I haven't said anything.
 
-177
+175
 00:11:59,820 --> 00:12:04,870
 If it's something I can do, I'll do it,
 even if my body gets destroyed.
 
-178
+176
 00:12:06,580 --> 00:12:08,040
 Well...
 
-179
+177
 00:12:08,580 --> 00:12:11,840
 The officials in cars six and seven
 have been wiped out.
 
-180
+178
 00:12:11,840 --> 00:12:17,170
 In addition, the two criminals detained
 in car six are missing as well.
 
-181
+179
 00:12:17,340 --> 00:12:18,550
 What?!
 
-182
+180
 00:12:19,680 --> 00:12:23,560
 We can't tell whether there's an intruder
 or if they escaped on their own.
 
-183
+181
 00:12:23,560 --> 00:12:24,930
 How can this be?!
 
-184
+182
 00:12:24,930 --> 00:12:29,560
 Tend to the wounded right away
 and alert everyone to the situation!
 
-185
+183
 00:12:29,560 --> 00:12:30,520
 Yes, sir!
 
-186
+184
 00:12:32,020 --> 00:12:33,150
 Hey, Nami!
 
-187
+185
 00:12:33,150 --> 00:12:34,280
 Nami, can you hear me?
 
-188
+186
 00:12:34,280 --> 00:12:36,110
 Yes! Is that you, Sanji?!
 
-189
+187
 00:12:36,530 --> 00:12:40,360
 Things are taking a turn for the worse here.
 
-190
+188
 00:12:40,360 --> 00:12:41,950
 Turn for the worse?
 
-191
+189
 00:12:42,870 --> 00:12:45,330
 Sanji! Who's with you?!
 
-192
+190
 00:12:45,330 --> 00:12:47,330
 Hey! What's going on?! Sanji!
 
-193
+191
 00:12:47,330 --> 00:12:48,790
 Hey, hey...
 
-194
+192
 00:12:50,290 --> 00:12:52,460
 Yeah, thanks to a certain idiot.
 
-195
+193
 00:12:52,460 --> 00:12:54,000
 I-Idiot?
 
-196
+194
 00:12:54,960 --> 00:12:57,090
 Oh! Again! What?!
 
-197
+195
 00:12:57,090 --> 00:12:58,340
 What's going on?!
 
-198
+196
 00:12:58,340 --> 00:13:00,050
 Are you okay, Sanji?
 
-199
+197
 00:13:00,050 --> 00:13:01,640
 Who is this idiot?!
 
-200
+198
 00:12:56,460 --> 00:12:58,340
 Are you okay?!
 
-201
+199
 00:12:58,340 --> 00:13:00,050
 Just kidding.
 
-202
+200
 00:13:00,050 --> 00:13:01,640
 But you look panicky.
 
-203
+201
 00:13:01,640 --> 00:13:03,930
 Actually, there are two idiots.
 
-204
+202
 00:13:07,350 --> 00:13:09,560
 Demi-Cannon!
 
-205
+203
 00:13:14,400 --> 00:13:15,650
 – Let 'er rip!
 – Let 'er rip!
 
-206
+204
 00:13:17,860 --> 00:13:19,820
 We're not even making a dent.
 
-207
+205
 00:13:19,820 --> 00:13:21,200
 Guess it's no surprise.
 
-208
+206
 00:13:21,200 --> 00:13:23,280
 No! Those puny cannons won't work!
 
-209
+207
 00:13:23,820 --> 00:13:25,410
 Guys! Stay back!
 
-210
+208
 00:13:25,410 --> 00:13:28,700
 Leave it to the Franky Family's special cannon!
 
-211
+209
 00:13:30,160 --> 00:13:32,670
 Target! Aqua Laguna!
 
-212
+210
 00:13:33,290 --> 00:13:34,000
 Fire!
 
-213
+211
 00:13:34,000 --> 00:13:36,460
 Super Scrap Cannon!
 
-214
+212
 00:13:41,430 --> 00:13:42,970
 Dammit!
 
-215
+213
 00:13:42,970 --> 00:13:44,300
 Stand tall!
 
-216
+214
 00:13:44,300 --> 00:13:46,310
 Keep firing!
 
-217
+215
 00:13:52,560 --> 00:13:54,230
 Replenish the cannonballs!
 
-218
+216
 00:13:54,230 --> 00:13:54,900
 Got it!
 
-219
+217
 00:13:54,900 --> 00:13:57,440
 Aim at the front! Focus on one spot!
 
-220
+218
 00:13:57,440 --> 00:14:00,440
 Go! Focus pocus!
 
-221
+219
 00:14:01,280 --> 00:14:02,240
 Do your best.
 
-222
+220
 00:14:02,610 --> 00:14:07,870
 The railway floats a little bit,
 but not enough to go over Aqua Laguna.
 
-223
+221
 00:14:07,870 --> 00:14:12,120
 If we slam into it head-on,
 even Rocketman will be scrap metal.
 
-224
+222
 00:14:13,250 --> 00:14:15,830
 Are we gonna die?!
 
-225
+223
 00:14:16,420 --> 00:14:19,050
 I told you to prepare yourselves, right?
 
-226
+224
 00:14:22,050 --> 00:14:24,430
 What?! Us too?!
 
-227
+225
 00:14:25,640 --> 00:14:26,720
 I see...
 
-228
+226
 00:14:26,720 --> 00:14:28,430
 Then Robin is still...
 
-229
+227
 00:14:30,310 --> 00:14:33,640
 It sure sounds lively over there.
 
-230
+228
 00:14:33,640 --> 00:14:35,600
 Say, Sanji...
 
-231
+229
 00:14:36,190 --> 00:14:38,860
 I'll fill you in on Robin's reasoning...
 
-232
+230
 00:14:39,650 --> 00:14:42,820
 and our current situation, so...
 
-233
+231
 00:14:42,820 --> 00:14:45,820
 Shut the hell up!
 
-234
+232
 00:14:47,030 --> 00:14:48,830
 Listen, Sanji.
 
-235
+233
 00:14:48,830 --> 00:14:53,960
 I'll tell you everything about the reason
 for Robin's actions and our current situation.
 
-236
+234
 00:14:53,960 --> 00:14:55,080
 So listen closely.
 
-237
+235
 00:14:56,790 --> 00:14:58,670
 We're gonna crash!
 
-238
+236
 00:14:58,670 --> 00:15:00,210
 Oh, no! We're gonna die!
 
-239
+237
 00:15:00,210 --> 00:15:01,550
 We're gonna die!
 
-240
+238
 00:15:01,550 --> 00:15:03,880
 Less whining, more firing!
 
-241
+239
 00:15:03,880 --> 00:15:05,840
 Find a way out!
 
-242
+240
 00:15:09,510 --> 00:15:11,100
 Hey, Luffy.
 
-243
+241
 00:15:11,100 --> 00:15:12,310
 Yeah...
 
-244
+242
 00:15:12,810 --> 00:15:14,810
 Let's go, Zoro.
 
-245
+243
 00:15:25,280 --> 00:15:27,490
 Hey! Keep firing at the front!
 
-246
+244
 00:15:27,490 --> 00:15:29,410
 What are you guys doing?!
 
-247
+245
 00:15:38,420 --> 00:15:40,040
 We're gonna fire our own...
 
-248
+246
 00:15:41,800 --> 00:15:42,630
 cannon.
 
-249
+247
 00:15:51,810 --> 00:15:54,100
 What's 108 times 2?
 
-250
+248
 00:15:54,930 --> 00:15:56,350
 It's 216.
 
-251
+249
 00:15:56,350 --> 00:15:58,480
 So, 216...
 
-252
+250
 00:15:58,480 --> 00:16:00,980
 That's a mouthful.
 
-253
+251
 00:16:00,980 --> 00:16:03,230
 Then, pick whatever.
 
-254
+252
 00:16:03,940 --> 00:16:06,570
 Wh-What are they doing?!
 
-255
+253
 00:16:06,570 --> 00:16:09,200
 What can they do with
 their fists and some swords?!
 
-256
+254
 00:16:09,200 --> 00:16:10,910
 They told us to keep firing.
 
-257
+255
 00:16:10,910 --> 00:16:12,870
 Enough talking! Just back them up!
 
-258
+256
 00:16:13,240 --> 00:16:15,250
 – Yeah!
 – Yeah!
 
-259
+257
 00:16:15,790 --> 00:16:18,670
 Okay, then... 300!
 
-260
+258
 00:16:19,290 --> 00:16:20,670
 Okay!
 
-261
+259
 00:16:20,670 --> 00:16:22,670
 Gum-Gum...
 
-262
+260
 00:16:22,670 --> 00:16:25,010
 Three-Hundred-Pound...
 
-263
+261
 00:16:27,090 --> 00:16:29,590
 – We're gonna crash!
 – We're gonna crash!
 
-264
+262
 00:16:36,850 --> 00:16:38,270
 – ...Cannon!
 – ...Cannon!
 
-265
+263
 00:17:30,610 --> 00:17:35,780
 – W-We got through!
 – W-We got through!
 
-266
+264
 00:17:41,830 --> 00:17:46,340
 – We got through Aqua Laguna!
 – We got through Aqua Laguna!
 
-267
+265
 00:17:49,670 --> 00:17:51,840
 I thought we were gonna die!
 
-268
+266
 00:18:15,870 --> 00:18:18,240
 Hey! Are you okay, Nami?
 
-269
+267
 00:18:18,240 --> 00:18:20,660
 Yeah, somehow...
 
-270
+268
 00:18:22,500 --> 00:18:24,250
 That was really something.
 
-271
+269
 00:18:24,250 --> 00:18:27,630
 They don't call themselves pirates for nothing.
 
-272
+270
 00:18:27,960 --> 00:18:30,340
 I'd hate to be their enemy,
 
-273
+271
 00:18:30,340 --> 00:18:34,720
 but they sure make dependable allies!
 
-274
+272
 00:18:34,720 --> 00:18:35,760
 – Straw Hat!
 – Straw Hat!
 
-275
+273
 00:18:36,260 --> 00:18:39,010
 Honestly, I thought we were dead.
 
-276
+274
 00:18:39,010 --> 00:18:40,350
 What incredible guys...
 
-277
+275
 00:18:40,720 --> 00:18:43,060
 Don't let your guard down.
 
-278
+276
 00:18:43,060 --> 00:18:45,850
 We're not through the storm yet!
 
-279
+277
 00:18:45,850 --> 00:18:47,560
 – Yeah!
 – Yeah!
 
-280
+278
 00:18:47,560 --> 00:18:50,030
 There's nothing we're afraid of now!
 
-281
+279
 00:18:54,660 --> 00:18:56,280
 That was fun!
 
-282
+280
 00:18:56,280 --> 00:18:59,030
 Straw Hat! You're amazing!
 
-283
+281
 00:18:59,030 --> 00:19:02,290
 That was some superhuman power!
 
-284
+282
 00:19:04,290 --> 00:19:06,380
 Oh, sorry.
 
-285
+283
 00:19:06,380 --> 00:19:08,000
 Luffy, get over here.
 
-286
+284
 00:19:14,380 --> 00:19:15,630
 It's Sanji.
 
-287
+285
 00:19:16,840 --> 00:19:18,050
 Hey, is that you, Luffy?
 
-288
+286
 00:19:18,050 --> 00:19:19,930
 Oh, Sanji!
 
-289
+287
 00:19:19,930 --> 00:19:21,520
 How's it going over there?
 
-290
+288
 00:19:21,520 --> 00:19:22,890
 Where's Robin?
 
-291
+289
 00:19:22,890 --> 00:19:26,560
 Robin is still in their custody.
 
-292
+290
 00:19:27,060 --> 00:19:29,690
 Nami just brought me up to speed.
 
-293
+291
 00:19:30,110 --> 00:19:32,360
 I heard everything.
 
-294
+292
 00:19:32,360 --> 00:19:33,820
 I see.
 
-295
+293
 00:19:34,360 --> 00:19:35,280
 Yeah...
 
-296
+294
 00:19:35,990 --> 00:19:38,320
 Well... that's what's going on.
 
-297
+295
 00:19:39,120 --> 00:19:41,030
 Go ahead and give them hell.
 
-298
+296
 00:19:41,030 --> 00:19:43,330
 Don't be reckless, Luffy!
 
-299
+297
 00:19:43,330 --> 00:19:45,660
 Tell him to wait until we catch up!
 
-300
+298
 00:19:46,500 --> 00:19:48,420
 Hey, cook! Can you hear me?!
 
-301
+299
 00:19:48,420 --> 00:19:50,340
 There are some crazy guys over there–
 
-302
+300
 00:19:50,340 --> 00:19:51,630
 I said it's fine.
 
-303
+301
 00:19:51,630 --> 00:19:52,750
 Zoro...
 
-304
+302
 00:19:53,170 --> 00:19:55,420
 What would you do if it were you?
 
-305
+303
 00:19:56,550 --> 00:20:02,220
 After hearing how Robin lied
 and was arrested to save us,
 
-306
+304
 00:20:02,720 --> 00:20:04,810
 could you just stay put?
 
-307
+305
 00:20:07,640 --> 00:20:09,480
 It's no use trying to stop him.
 
-308
+306
 00:20:10,860 --> 00:20:12,440
 You know me well.
 
-309
+307
 00:20:12,440 --> 00:20:14,530
 Hey, Moss Head!
 
-310
+308
 00:20:14,530 --> 00:20:16,530
 Are you worried about me?
 
-311
+309
 00:20:16,530 --> 00:20:17,780
 Get real, dumbass!
 
-312
+310
 00:20:18,160 --> 00:20:19,700
 Unfortunately...
 
-313
+311
 00:20:20,530 --> 00:20:24,080
 after hearing how Robin was feeling...
 
-314
+312
 00:20:25,080 --> 00:20:27,620
 even if our captain ordered it...
 
-315
+313
 00:20:27,620 --> 00:20:30,040
 there's no way I'd stop!
 
-316
+314
 00:20:32,000 --> 00:20:34,130
 Why'd you break it?!
 
-317
+315
 00:20:34,130 --> 00:20:37,340
 I wanted to ask Straw Hat something, too!
 
-318
+316
 00:20:37,340 --> 00:20:39,430
 Huh? Who cares?
 
-319
+317
 00:20:40,010 --> 00:20:41,760
 You should've told me beforehand.
 
-320
+318
 00:20:41,760 --> 00:20:43,930
 Even if I didn't tell you, wasn't it obvious?!
 
-321
+319
 00:20:43,930 --> 00:20:45,680
 Don't be so arrogant!
 
-322
+320
 00:20:45,680 --> 00:20:47,390
 I'm not being arrogant.
 
-323
+321
 00:20:50,650 --> 00:20:52,650
 I wonder if he'll be okay.
 
-324
+322
 00:20:52,650 --> 00:20:55,650
 Lady! Have the train go even faster!
 
-325
+323
 00:20:55,650 --> 00:20:56,650
 Even faster?
 
-326
+324
 00:20:56,650 --> 00:21:00,910
 Yeah! Like, more whooosh!
 
-327
+325
 00:21:02,620 --> 00:21:04,370
 Don't worry.
 
-328
+326
 00:21:04,370 --> 00:21:08,210
 It's already exceeded its speed limit...
 
-329
+327
 00:21:10,620 --> 00:21:14,250
 and it can no longer stop on its own.
 
-330
+328
 00:21:19,930 --> 00:21:22,260
 So, while I was away...
 
-331
+329
 00:21:22,930 --> 00:21:25,350
 all of this was happening?
 
-332
+330
 00:21:26,060 --> 00:21:28,310
 Robin doesn't know about the Merry...
 
-333
+331
 00:21:28,310 --> 00:21:32,650
 or the huge fight between you and Luffy.
 
-334
+332
 00:21:36,480 --> 00:21:41,490
 In order for all six of us,
 including you, to stay safe,
 
-335
+333
 00:21:41,490 --> 00:21:46,490
 she sacrificed herself and obeyed their orders.
 
-336
+334
 00:21:47,240 --> 00:21:49,040
 She did it for us.
 
-337
+335
 00:21:51,790 --> 00:21:55,500
 What a moving story!
 
-338
+336
 00:21:57,750 --> 00:21:59,760
 Why are you crying?
 
-339
+337
 00:21:59,760 --> 00:22:02,510
 You dummy! I'm not crying!
 
-340
+338
 00:22:04,470 --> 00:22:07,180
 Dammit! I can't believe it!
 
-341
+339
 00:22:07,180 --> 00:22:12,060
 Nico Robin is supposed to be
 a cruel, savage, she-devil!
 
-342
+340
 00:22:12,060 --> 00:22:16,570
 But in reality, she's got
 a soft spot for her friends!
 
-343
+341
 00:22:17,440 --> 00:22:19,860
 Robin is within a stone's throw.
 
-344
+342
 00:22:20,190 --> 00:22:22,400
 I'm going to rescue her!
 
-345
+343
 00:22:22,400 --> 00:22:23,360
 Well said!
 
-346
+344
 00:22:23,360 --> 00:22:26,370
 I'm the boss of the Franky Family, the Franky!
 
-347
+345
 00:22:26,370 --> 00:22:28,870
 I'll give you a hand, eyebrow bro!
 
-348
+346
 00:22:28,870 --> 00:22:33,920
 To be honest, I've got my own reasons for
 keeping Robin out of government custody.
 
-349
+347
 00:22:34,370 --> 00:22:37,880
 Most of all, when I hear
 such a touching story...!
 
-350
+348
 00:22:37,880 --> 00:22:39,880
 Hey! Let's go, Long Nose!
 
-351
+349
 00:22:40,420 --> 00:22:41,800
 I'm...
 
-352
+350
 00:22:42,920 --> 00:22:43,720
 not coming.
 
-353
+351
 00:22:46,390 --> 00:22:49,140
 It no longer has anything to do with me, right?
 
-354
+352
 00:22:49,140 --> 00:22:52,310
 If the World Government itself
 becomes your enemy at last,
 
-355
+353
 00:22:52,310 --> 00:22:54,230
 I don't wanna be part of it.
 
-356
+354
 00:22:55,900 --> 00:22:58,480
 You'll join with Luffy
 and the others as well, right?
 
-357
+355
 00:22:59,270 --> 00:23:02,110
 After all my blustering,
 and after humiliating myself,
 
-358
+356
 00:23:02,110 --> 00:23:04,780
 how could I stand alongside you guys?!
 
-359
+357
 00:23:08,490 --> 00:23:10,370
 I'm sorry about Robin,
 
-360
+358
 00:23:10,370 --> 00:23:14,080
 but I'm no longer under
 any obligation to go save her!
 
-361
+359
 00:23:14,460 --> 00:23:16,210
 I left the Straw Hat Pirates!
 
-362
+360
 00:23:22,340 --> 00:23:23,340
 See ya.
 
-363
+361
 00:23:25,680 --> 00:23:28,140
 H-Hey! What do you mean "see ya"?!
 
-364
+362
 00:23:28,140 --> 00:23:31,770
 You've got nowhere to go!
 
-365
+363
 00:23:31,770 --> 00:23:32,770
 It's fine.
 
-366
+364
 00:23:33,390 --> 00:23:34,520
 Leave him be.
 
-367
+365
 00:23:38,150 --> 00:23:40,400
 What a stubborn idiot.
 
-368
+366
 00:23:41,360 --> 00:23:43,280
 Search every nook and cranny!
 
-369
+367
 00:23:43,280 --> 00:23:45,740
 There's gotta be some evidence somewhere!
 
-370
+368
 00:23:46,570 --> 00:23:47,360
 This...
 
-371
+369
 00:23:47,700 --> 00:23:48,870
 This isn't good!
 
-372
+370
 00:23:50,830 --> 00:23:52,290
 Please make do with this!
 
-373
+371
 00:23:54,120 --> 00:23:58,210
 Wanze, sir! The train is in a whole lot of trouble!
 
-374
+372
 00:23:58,210 --> 00:23:59,330
 Pipe down!
 
-375
+373
 00:23:59,330 --> 00:24:01,800
 I'm the one who's in a whole lot of trouble!
 
-376
+374
 00:24:03,960 --> 00:24:06,800
 Nero, sir! The criminals have escaped!
 
-377
+375
 00:24:22,860 --> 00:24:24,070
 I found them!
 
-378
+376
 00:24:24,070 --> 00:24:25,780
 Oh, crap!
 
-379
+377
 00:24:25,780 --> 00:24:27,200
 Metallic Star!
 
-380
+378
 00:24:34,490 --> 00:24:36,120
 – Who's there?!
 – Who's there?!
 
-381
+379
 00:24:43,630 --> 00:24:45,760
 He told me everything.
 
-382
+380
 00:24:46,130 --> 00:24:48,760
 I heard that you men
 wish to rescue a fair maiden.
 
-383
+381
 00:24:49,260 --> 00:24:52,760
 That alone is reason enough
 for me to lend a hand.
 
-384
+382
 00:24:53,260 --> 00:24:55,220
 I shall fight alongside you!
 
-385
+383
 00:25:02,020 --> 00:25:03,440
 You may call me...
 
-386
+384
 00:25:04,360 --> 00:25:06,030
 Sogeking!
 
-387
+385
 00:02:44,520 --> 00:02:48,060
 Sodom and Gomorrah
 The Franky Family's
 Personal King Bulls
+
+386
+00:02:44,520 --> 00:02:48,060
+Sodom and Gomorrah
+The Franky Family's
+Personal King Bulls
+
+387
+00:10:51,300 --> 00:10:56,340
+Puffing Tom
 
 388
-00:02:44,520 --> 00:02:48,060
-Sodom and Gomorrah
-The Franky Family's
-Personal King Bulls
+00:10:51,300 --> 00:10:56,340
+Puffing Tom
 
 389
-00:10:51,300 --> 00:10:56,340
-Puffing Tom
+00:11:07,440 --> 00:11:11,230
+Car Five
 
 390
-00:10:51,300 --> 00:10:56,340
-Puffing Tom
+00:11:07,440 --> 00:11:11,230
+Car Five
 
 391
-00:11:07,440 --> 00:11:11,230
-Car Five
-
-392
-00:11:07,440 --> 00:11:11,230
-Car Five
-
-393
 00:11:29,460 --> 00:11:39,050
 "Justice"
 
-394
+392
 00:11:40,430 --> 00:11:46,890
 Captain T-Bone
 Marine Headquarters
 Hobby: Saving People   Motto: 100 Good Deeds A Day
+
+393
+00:11:40,430 --> 00:11:46,890
+Captain T-Bone
+Marine Headquarters
+Hobby: Saving People   Motto: 100 Good Deeds A Day
+
+394
+00:21:16,130 --> 00:21:19,420
+Puffing Tom
 
 395
-00:11:40,430 --> 00:11:46,890
-Captain T-Bone
-Marine Headquarters
-Hobby: Saving People   Motto: 100 Good Deeds A Day
+00:21:16,130 --> 00:21:19,420
+Puffing Tom
 
 396
-00:21:16,130 --> 00:21:19,420
-Puffing Tom
+00:23:48,910 --> 00:23:52,290
+Car Seven Interior
 
 397
-00:21:16,130 --> 00:21:19,420
-Puffing Tom
+00:23:48,910 --> 00:23:52,290
+Car Seven Interior
 
 398
-00:23:48,910 --> 00:23:52,290
-Car Seven Interior
+00:23:56,000 --> 00:23:59,130
+Car Four
+(Kitchen)
 
 399
-00:23:48,910 --> 00:23:52,290
-Car Seven Interior
+00:23:56,000 --> 00:23:59,130
+Car Four
+(Kitchen)
 
 400
 00:23:56,000 --> 00:23:59,130
@@ -1678,23 +1674,14 @@ Car Four
 (Kitchen)
 
 401
-00:23:56,000 --> 00:23:59,130
-Car Four
-(Kitchen)
+00:24:01,840 --> 00:24:04,130
+Car Three
 
 402
-00:23:56,000 --> 00:23:59,130
-Car Four
-(Kitchen)
+00:24:01,840 --> 00:24:04,130
+Car Three
 
 403
 00:24:01,840 --> 00:24:04,130
 Car Three
 
-404
-00:24:01,840 --> 00:24:04,130
-Car Three
-
-405
-00:24:01,840 --> 00:24:04,130
-Car Three

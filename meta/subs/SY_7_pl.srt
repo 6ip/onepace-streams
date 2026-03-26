@@ -1,1120 +1,1107 @@
 1
-00:00:00,000 --> 00:00:09,990
-Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
-Napisy prawdopodobnie nie będą działać prawidłowo.
-Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
-https://mpv.io
-
-2
-00:01:49,960 --> 00:01:59,950
-Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
-Napisy prawdopodobnie nie będą działać prawidłowo.
-Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
-https://mpv.io
-
-3
 00:02:12,630 --> 00:02:13,990
 P-Pokonał go...
 
-4
+2
 00:02:14,660 --> 00:02:16,870
 P-Pokonał Kapitana Kuro!
 
-5
+3
 00:02:17,530 --> 00:02:21,080
 Nawet Marynarka nie była w stanie
 sprostać Kuro Tysiąca Planów!
 
-6
+4
 00:02:21,080 --> 00:02:22,710
 Naprawdę go dorwał!
 
-7
+5
 00:02:22,710 --> 00:02:24,920
 Kim ty właściwie jesteś?!
 
-8
+6
 00:02:25,250 --> 00:02:27,090
 Monkey D. Luffy.
 
-9
+7
 00:02:27,540 --> 00:02:33,130
 Nigdy nie przegrałbym z tchórzem, który
 porzuca morze i wyrzeka się swojego imienia.
 
-10
+8
 00:02:33,130 --> 00:02:37,100
 Pirat może porzucić swoje
 imię tylko w chwili śmierci!
 
-11
+9
 00:02:37,550 --> 00:02:40,930
 Luffy?! Tak jak myślałem,
 nic mi to nie mówi...
 
-12
+10
 00:02:40,930 --> 00:02:44,440
 Lepiej dobrze sobie
 zapamiętajcie moje imię!
 
-13
+11
 00:02:44,440 --> 00:02:47,150
 Jestem człowiekiem,
 który zostanie Królem Piratów!
 
-14
+12
 00:02:49,400 --> 00:02:50,690
 On...
 
-15
+13
 00:02:52,530 --> 00:02:55,450
 Bierzcie go i wynocha!
 
-16
+14
 00:02:57,070 --> 00:02:59,200
 I nawet nie próbujcie wracać!
 
-17
+15
 00:03:01,290 --> 00:03:03,410
 W nogi!
 
-18
+16
 00:03:10,130 --> 00:03:12,260
 Dobra robota.
 
-19
+17
 00:03:12,260 --> 00:03:15,220
 Podnieść kotwicę! Prędko!
 
-20
+18
 00:03:15,550 --> 00:03:19,800
 No cóż, nawet ktoś taki jak ty ma
 prawo wymięknąć po tym wszystkim...
 
-21
+19
 00:03:19,800 --> 00:03:20,640
 Powiedz...
 
-22
+20
 00:03:22,060 --> 00:03:23,890
 Co cię tak wcześniej wkurzyło?
 
-23
+21
 00:03:24,230 --> 00:03:26,480
 Nienawidzę ich.
 
-24
+22
 00:03:26,480 --> 00:03:28,350
 Są pomyleni.
 
-25
+23
 00:03:29,560 --> 00:03:32,230
 Załoga nie zachowuje się w ten sposób.
 
-26
+24
 00:03:32,570 --> 00:03:34,400
 Co ty wygadujesz?
 
-27
+25
 00:03:34,400 --> 00:03:35,990
 To dla nich normalne.
 
-28
+26
 00:03:35,990 --> 00:03:40,030
 Piraci wcale nie są tacy
 wspaniali, za jakich ich masz.
 
-29
+27
 00:03:40,410 --> 00:03:41,780
 Wszamałbym jakieś mięcho.
 
-30
+28
 00:03:41,780 --> 00:03:44,500
 Co ja z tobą mam!
 
-31
+29
 00:03:51,540 --> 00:03:55,510
 Czy moglibyście zachować w tajemnicy
 wszystko, co się tu wydarzyło?
 
-32
+30
 00:03:55,510 --> 00:03:57,180
 Co?! W tajemnicy?!
 
-33
+31
 00:03:57,180 --> 00:03:59,090
 Dlaczego mielibyśmy to zrobić?!
 
-34
+32
 00:03:59,090 --> 00:04:03,100
 Właśnie! Przecież walczyliśmy
 razem w obronie wioski!
 
-35
+33
 00:04:03,100 --> 00:04:05,980
 Założe się, że mieszkańcy
 inaczej by na ciebie patrzyli!
 
-36
+34
 00:04:05,980 --> 00:04:08,480
 Zostałbyś bohaterem wioski!
 
-37
+35
 00:04:08,480 --> 00:04:10,350
 – No właśnie!
 – No właśnie!
 
-38
+36
 00:04:10,350 --> 00:04:13,570
 Usopp, naprawdę powinniśmy
 wyprowadzić wszystkich z błędu.
 
-39
+37
 00:04:14,690 --> 00:04:15,990
 Z błędu?
 
-40
+38
 00:04:15,990 --> 00:04:19,490
 Nazwali mnie kłamczuchem
 jak zwykle, to nic wielkiego.
 
-41
+39
 00:04:20,490 --> 00:04:25,120
 Poza tym, już po wszystkim,
 więc po co ich straszyć?
 
-42
+40
 00:04:27,080 --> 00:04:29,580
 To był wyjątek od reguły.
 
-43
+41
 00:04:29,580 --> 00:04:34,420
 To raczej mało prawdopodobne, aby jacyś
 piraci napadli na tak małą wioskę, prawda?
 
-44
+42
 00:04:35,550 --> 00:04:38,630
 Od teraz uznajmy, że nic
 się tutaj nigdy nie wydarzyło.
 
-45
+43
 00:04:39,130 --> 00:04:42,680
 Wszystko było kłamstwem.
 
-46
+44
 00:04:46,430 --> 00:04:47,890
 Nie będę was zmuszał...
 
-47
+45
 00:04:47,890 --> 00:04:49,480
 Nie! Tak właśnie zrobimy!
 
-48
+46
 00:04:49,480 --> 00:04:52,150
 Skoro tak będzie najlepiej dla wioski!
 
-49
+47
 00:04:52,150 --> 00:04:52,900
 Zgadzam się!
 
-50
+48
 00:04:52,900 --> 00:04:55,610
 Ja też! Nie pisnę nawet słówka, przenigdy!
 
-51
+49
 00:04:56,860 --> 00:04:58,320
 Kaya...
 
-52
+50
 00:04:58,860 --> 00:05:00,780
 Będzie ci z tym ciężko?
 
-53
+51
 00:05:04,990 --> 00:05:05,990
 Nie.
 
-54
+52
 00:05:09,250 --> 00:05:12,960
 Ciekawe gdzie się podziewa Usopp.
 
-55
+53
 00:05:13,580 --> 00:05:17,460
 Coś tak nieswojo bez niego...
 Wszystkiego się odechciewa.
 
-56
+54
 00:05:18,090 --> 00:05:20,050
 Mamo...
 
-57
+55
 00:05:20,050 --> 00:05:23,260
 Pana Kłamczucha dzisiaj nie będzie?
 
-58
+56
 00:05:23,680 --> 00:05:25,640
 Ten zakłamany gnojek...
 
-59
+57
 00:05:25,970 --> 00:05:27,890
 Jeszcze go nie ma?!
 
-60
+58
 00:05:28,600 --> 00:05:31,850
 Myślisz, że wczoraj lekko przesadziłem?
 
-61
+59
 00:05:31,850 --> 00:05:35,110
 Daj mu trochę czasu! Od jutra
 wszystko będzie po staremu!
 
-62
+60
 00:05:35,480 --> 00:05:36,730
 Jestem tego pewna.
 
-63
+61
 00:05:41,530 --> 00:05:42,700
 Dziękuję!
 
-64
+62
 00:05:42,700 --> 00:05:46,030
 Gdyby nie wasza pomoc,
 nie zdołałbym obronić wioski!
 
-65
+63
 00:05:46,580 --> 00:05:48,580
 O czym ty mówisz?
 
-66
+64
 00:05:48,580 --> 00:05:51,870
 Gdybyś nie pomagał, to bym
 nawet palcem nie kiwnął!
 
-67
+65
 00:05:52,330 --> 00:05:53,750
 Ani ja!
 
-68
+66
 00:05:53,750 --> 00:05:57,000
 A kogo to w ogóle obchodzi?
 
-69
+67
 00:05:57,000 --> 00:05:59,210
 Liczy się, że zgarnęłam skarb!
 
-70
+68
 00:06:03,970 --> 00:06:06,180
 Gdyby nie to całe zajście,
 
-71
+69
 00:06:06,180 --> 00:06:08,310
 to nigdy bym nie podjął decyzji.
 
-72
+70
 00:06:15,100 --> 00:06:18,730
 Kapitanie Usopp! Co takiego
 chciałeś z nami omówić?
 
-73
+71
 00:06:18,730 --> 00:06:24,110
 Świetnie się spisaliście w walce
 z Piratami Czarnego Kota!
 
-74
+72
 00:06:24,110 --> 00:06:27,700
 Jako kapitan jestem z was dumny!
 
-75
+73
 00:06:28,910 --> 00:06:32,790
 Pięć lat temu, gdy każdy z
 was miał zaledwie cztery lata
 
-76
+74
 00:06:32,790 --> 00:06:37,420
 powstała załoga Piratów Usoppa,
 która stoczyła dziś najznamienitszą bitwę!
 
-77
+75
 00:06:37,420 --> 00:06:38,290
 – Tak!
 – Tak!
 
-78
+76
 00:06:38,290 --> 00:06:39,750
 Wiem, że to nagłe...
 
-79
+77
 00:06:40,840 --> 00:06:43,670
 ale zdecydowałem wypłynąć w morze!
 
-80
+78
 00:06:46,340 --> 00:06:49,220
 Zostanę prawdziwym piratem!
 
-81
+79
 00:06:54,560 --> 00:06:58,860
 Zawsze miałem dylemat. Nie wiedziałem,
 czy wypłynąć, czy może lepiej zostać...
 
-82
+80
 00:06:58,860 --> 00:07:02,570
 Ale... spotkanie ich uświadomiło mi,
 co rzeczywiście powinienem zrobić!
 
-83
+81
 00:07:02,570 --> 00:07:07,030
 Mimo wszystko czuję, że jako mężczyzna
 powinienem wypłynąć w bezkres oceanu!
 
-84
+82
 00:07:07,030 --> 00:07:07,910
 Dlatego właśnie...
 
-85
+83
 00:07:07,910 --> 00:07:09,990
 opuszczę wioskę!
 
-86
+84
 00:07:12,750 --> 00:07:19,420
 Poczułem zew pirackiej bandery!
 Czy potrzeba czegoś więcej?!
 
-87
+85
 00:07:21,960 --> 00:07:24,170
 Kapitanie! To kłamstwo, co nie?!
 
-88
+86
 00:07:25,800 --> 00:07:27,930
 Znowu kłamiesz, mam rację?!
 
-89
+87
 00:07:27,930 --> 00:07:29,930
 To zbyt lekkomyślne!
 
-90
+88
 00:07:29,930 --> 00:07:32,810
 Czy Kapitan przypadkiem
 nie kochał tej wioski?!
 
-91
+89
 00:07:32,810 --> 00:07:35,690
 A co z załogą Piratów Usoppa?!
 
-92
+90
 00:07:37,850 --> 00:07:40,480
 Byliście dla mnie tacy dobrzy, chłopaki...
 
-93
+91
 00:07:40,980 --> 00:07:43,990
 Mam zamiar opuścić wioskę po cichu.
 
-94
+92
 00:07:43,990 --> 00:07:45,990
 Pozdrówcie ode mnie mieszkańców.
 
-95
+93
 00:07:45,990 --> 00:07:47,240
 Nie zgadzam się...
 
-96
+94
 00:07:47,240 --> 00:07:49,120
 Nie chcę tego!
 
-97
+95
 00:07:49,120 --> 00:07:50,990
 Nie odchodź, Kapitanie!
 
-98
+96
 00:07:52,950 --> 00:07:55,960
 Czy pamiętacie to miejsce?
 
-99
+97
 00:07:57,000 --> 00:08:00,580
 To właśnie tutaj spotkaliśmy
 się po raz pierwszy.
 
-100
+98
 00:08:08,130 --> 00:08:09,180
 Gotowe!
 
-101
+99
 00:08:09,180 --> 00:08:10,890
 Panie Kłamczuchu!
 
-102
+100
 00:08:11,930 --> 00:08:14,600
 A wy to kto?! Nawet was nie znam!
 
-103
+101
 00:08:14,600 --> 00:08:16,390
 Jesteś całkiem sławny!
 
-104
+102
 00:08:16,390 --> 00:08:18,310
 Właśnie, prawie jak celebryta...
 
-105
+103
 00:08:19,150 --> 00:08:20,230
 Rozumiem!
 
-106
+104
 00:08:20,230 --> 00:08:24,530
 Czyli ludzie w końcu zaczęli z szacunkiem
 nazywać mnie Kapitanem Usoppem!
 
-107
+105
 00:08:25,190 --> 00:08:27,860
 Każdy nazywa cię Kłamczuchem Usoppem!
 
-108
+106
 00:08:29,910 --> 00:08:33,530
 W porządku! Od dziś oficjalnie
  należycie do Piratów Usoppa!
 
-109
+107
 00:08:33,910 --> 00:08:37,000
 – Eee?
 – Eee?
 
-110
+108
 00:08:34,950 --> 00:08:37,000
 Ja wam dam "Eee"!
 
-111
+109
 00:08:39,000 --> 00:08:40,960
 Sporo się wydarzyło, co nie?
 
-112
+110
 00:08:41,960 --> 00:08:43,210
 To Cerber!
 
-113
+111
 00:08:43,210 --> 00:08:44,880
 Przegnać go!
 
-114
+112
 00:08:45,800 --> 00:08:47,340
 Smok!
 
-115
+113
 00:08:47,340 --> 00:08:49,880
 Łapać go!
 
-116
+114
 00:08:49,880 --> 00:08:51,180
 Mączna Gwiazda!
 
-117
+115
 00:08:51,970 --> 00:08:53,930
 Jesteś niesamowity, Kapitanie!
 
-118
+116
 00:08:54,260 --> 00:08:55,890
 No wiadomo!
 
-119
+117
 00:08:55,890 --> 00:08:58,680
 W końcu jestem dzielnym
 wojownikiem mórz!
 
-120
+118
 00:08:59,560 --> 00:09:02,860
 Nie chcemy teraz wspominać tamtych dni!
 
-121
+119
 00:09:02,860 --> 00:09:04,980
 Właśnie! Nie chcemy tego słuchać!
 
-122
+120
 00:09:04,980 --> 00:09:06,980
 To nie w twoim stylu, Kapitanie!
 
-123
+121
 00:09:06,980 --> 00:09:10,070
 Dlaczego nam o tym wszystkim mówisz?!
 
-124
+122
 00:09:10,400 --> 00:09:13,030
 To prawie tak, jakby...
 
-125
+123
 00:09:13,570 --> 00:09:15,660
 Jesteś taki głupi, Kapitanie!
 
-126
+124
 00:09:15,660 --> 00:09:17,660
 Głupi!
 
-127
+125
 00:09:25,670 --> 00:09:27,340
 Jakie są wasze życiowe cele?!
 
-128
+126
 00:09:27,840 --> 00:09:30,470
 Prowadzić gospodę!
 
-129
+127
 00:09:30,470 --> 00:09:33,220
 Być mistrzowskim cieślą!
 
-130
+128
 00:09:33,220 --> 00:09:35,390
 Zostać pisarzem!
 
-131
+129
 00:09:36,390 --> 00:09:39,730
 Więc przysięgnijcie, że każdy
 z was podąży własną ścieżką...
 
-132
+130
 00:09:40,390 --> 00:09:45,310
 oraz, że nie pozwolicie, aby ogień
 tych marzeń się w was wypalił!
 
-133
+131
 00:09:46,480 --> 00:09:47,980
 Z dniem dzisiejszym...
 
-134
+132
 00:09:48,980 --> 00:09:52,740
 załoga Piratów Usoppa...
 
-135
+133
 00:09:58,120 --> 00:09:59,750
 zostaje rozwiązana!
 
-136
+134
 00:10:07,550 --> 00:10:10,300
 Najedliśmy się do syta,
 więc pora się zbierać.
 
-137
+135
 00:10:10,300 --> 00:10:11,220
 Racja...
 
-138
+136
 00:10:13,010 --> 00:10:14,510
 Tu jesteście!
 
-139
+137
 00:10:14,510 --> 00:10:15,890
 Cześć, panienko!
 
-140
+138
 00:10:15,890 --> 00:10:17,510
 Już wszystko w porządku?
 
-141
+139
 00:10:17,510 --> 00:10:18,220
 Tak...
 
-142
+140
 00:10:19,970 --> 00:10:26,610
 Choroba, która męczyła mnie przez miniony rok, 
 była spowodowana żałobą po stracie rodziców.
 
-143
+141
 00:10:27,020 --> 00:10:30,150
 Usopp zawsze starał się
 podnieść mnie na duchu, ale...
 
-144
+142
 00:10:30,820 --> 00:10:32,780
 zrozumiałam, że pora skończyć z żalem!
 
-145
+143
 00:10:34,950 --> 00:10:40,200
 Przygotowałam dla was podarunek
 w dowód mojej wdzięczności!
 
-146
+144
 00:10:41,080 --> 00:10:43,580
 Proszę, przyjmijcie go!
 
-147
+145
 00:10:48,540 --> 00:10:49,670
 Wreszcie koniec...
 
-148
+146
 00:10:50,750 --> 00:10:54,090
 Czas pożegnać się z tym domem!
 
-149
+147
 00:10:58,800 --> 00:11:02,730
 Co?!
 
-150
+148
 00:11:05,850 --> 00:11:09,060
 Co jest...? Nie mogę wyjść!
 
-151
+149
 00:11:10,820 --> 00:11:12,530
 Niech to!
 
-152
+150
 00:11:31,340 --> 00:11:32,960
 Karawela!
 
-153
+151
 00:11:34,340 --> 00:11:37,260
 Serio możemy go wziąć?!
 
-154
+152
 00:11:37,260 --> 00:11:39,220
 Tak, korzystajcie do woli!
 
-155
+153
 00:11:41,260 --> 00:11:45,600
 Może i jest trochę przestarzały,
 ale osobiście go zaprojektowałem!
 
-156
+154
 00:11:46,190 --> 00:11:52,270
 Karawela z ożaglowaniem typu łacińskiego
 oraz sterem w centralnej części rufy...
 
-157
+155
 00:11:53,190 --> 00:11:56,030
 Przed wami Going Merry!
 
-158
+156
 00:11:57,030 --> 00:11:58,950
 Co do kwestii olinowania ruchomego.
 
-159
+157
 00:11:58,950 --> 00:12:02,030
 Po pierwsze żagiel rejowy należy
 dobrać za pomocą lin rogu szoto–
 
-160
+158
 00:12:02,030 --> 00:12:03,290
 Chwila, chwila!
 
-161
+159
 00:12:03,290 --> 00:12:05,410
 Sprawy statkowe wyjaśniaj mnie!
 
-162
+160
 00:12:06,080 --> 00:12:08,290
 Niezły jest ten statek!
 
-163
+161
 00:12:08,290 --> 00:12:11,710
 A szczególnie przód—jest czadowy!
 
-164
+162
 00:12:11,710 --> 00:12:15,840
 Załadowaliśmy na pokład wszystko,
 co może wam się przydać podczas żeglugi.
 
-165
+163
 00:12:15,840 --> 00:12:18,630
 Dzięki! Nasza dźwięczność nie zna granic!
 
-166
+164
 00:12:18,630 --> 00:12:20,720
 Mówi się "wdzięczność," gamoniu.
 
-167
+165
 00:12:24,640 --> 00:12:25,600
 Zatrzymać to!
 
-168
+166
 00:12:25,600 --> 00:12:26,890
 Usopp!
 
-169
+167
 00:12:28,350 --> 00:12:30,730
 Co on wyprawia?
 
-170
+168
 00:12:30,730 --> 00:12:32,610
 Póki co spróbujmy go zatrzymać.
 
-171
+169
 00:12:32,610 --> 00:12:34,780
 W tym tempie roztrzaska się o statek.
 
-172
+170
 00:12:38,860 --> 00:12:40,860
 Dz-Dzięki...
 
-173
+171
 00:12:40,860 --> 00:12:41,820
 Spoko.
 
-174
+172
 00:12:42,700 --> 00:12:46,790
 Tak myślałam... Czyli naprawdę
 chcesz wypłynąć w morze, Usopp?
 
-175
+173
 00:12:47,200 --> 00:12:48,120
 Tak.
 
-176
+174
 00:12:48,120 --> 00:12:51,380
 Postanowiłem, że lepiej to
 zrobić, zanim mi się coś odwidzi.
 
-177
+175
 00:12:52,500 --> 00:12:53,790
 Nie powstrzymuj mnie.
 
-178
+176
 00:12:53,790 --> 00:12:55,000
 Nie będę.
 
-179
+177
 00:12:55,000 --> 00:12:56,460
 Przeczuwałam, że tak będzie.
 
-180
+178
 00:12:56,460 --> 00:12:58,920
 Mi też jest przykro...
 
-181
+179
 00:12:59,510 --> 00:13:01,760
 Jednak gdy następnym razem tu przypłynę,
 
-182
+180
 00:13:01,760 --> 00:13:05,350
 to opowiem ci takie historie, że
 moje kłamstwa przy nich zbledną!
 
-183
+181
 00:13:06,810 --> 00:13:09,140
 Dobrze! Nie mogę się doczekać!
 
-184
+182
 00:13:09,640 --> 00:13:11,690
 Wy też się trzymajcie!
 
-185
+183
 00:13:11,690 --> 00:13:13,730
 Spotkajmy się jeszcze kiedyś!
 
-186
+184
 00:13:13,730 --> 00:13:14,520
 Ale czemu?
 
-187
+185
 00:13:14,520 --> 00:13:16,900
 Co? Jak to "ale czemu?"
 
-188
+186
 00:13:16,900 --> 00:13:19,280
 Nieczuły z ciebie facet, co?
 
-189
+187
 00:13:19,280 --> 00:13:23,450
 Też zostanę piratem, więc pewnie
 kiedyś spotkamy się gdzieś na morzu!
 
-190
+188
 00:13:23,820 --> 00:13:26,450
 Co ty chrzanisz?
 Pośpiesz się i wskakuj.
 
-191
+189
 00:13:26,450 --> 00:13:27,330
 Co?
 
-192
+190
 00:13:27,330 --> 00:13:29,790
 Przecież należysz już do naszej załogi, co nie?
 
-193
+191
 00:13:33,080 --> 00:13:35,130
 A-Ale...
 
-194
+192
 00:13:36,000 --> 00:13:38,130
 Ale to ja będę kapitanem, prawda?!
 
-195
+193
 00:13:38,130 --> 00:13:39,170
 Nie bądź głupi!
 
-196
+194
 00:13:39,170 --> 00:13:40,760
 Ja jestem kapitanem!
 
-197
+195
 00:14:02,400 --> 00:14:04,620
 No i kapitan popłynął...
 
-198
+196
 00:14:04,620 --> 00:14:05,450
 Tak.
 
-199
+197
 00:14:05,450 --> 00:14:08,830
 Ale jest razem z tamtymi,
 więc się aż tak nie martwię.
 
-200
+198
 00:14:08,830 --> 00:14:10,080
 Racja.
 
-201
+199
 00:14:10,080 --> 00:14:12,410
 Jeszcze nigdy nie widziałem takich siłaczy.
 
-202
+200
 00:14:12,920 --> 00:14:14,170
 Nic nie poradzimy.
 
-203
+201
 00:14:14,170 --> 00:14:16,790
 Od zawsze powtarzał,
 że chce zostać piratem.
 
-204
+202
 00:14:16,790 --> 00:14:19,670
 Mieszkańcom wioski będzie
 smutno, gdy się dowiedzą...
 
-205
+203
 00:14:19,670 --> 00:14:25,390
 Wszystko stało się tak nagle...
 To dzięki niemu było tu tak żwawo.
 
-206
+204
 00:14:28,140 --> 00:14:30,430
 Wpadłem na świetny pomysł!
 
-207
+205
 00:14:30,430 --> 00:14:31,930
 – Jaki pomysł?
 – Jaki pomysł?
 
-208
+206
 00:14:33,560 --> 00:14:34,520
 Merry...
 
-209
+207
 00:14:34,520 --> 00:14:35,560
 Tak?
 
-210
+208
 00:14:36,310 --> 00:14:39,230
 Kłamanie przynosi ból...
 
-211
+209
 00:14:39,230 --> 00:14:41,820
 Chodzi o Klahadore'a?
 
-212
+210
 00:14:41,820 --> 00:14:42,780
 Nie...
 
-213
+211
 00:14:43,530 --> 00:14:48,080
 Więc o tym, że tak naprawdę chciała
 panienka powstrzymać Usoppa?
 
-214
+212
 00:14:51,620 --> 00:14:52,910
 Panienko...
 
-215
+213
 00:14:53,460 --> 00:14:58,710
 Pewnego razu mieszkańcy wioski
 opowiedzieli mi historię jego dzieciństwa.
 
-216
+214
 00:15:00,210 --> 00:15:04,220
 Zaledwie chwilę po tym, jak
 ojciec Usoppa opuścił wioskę,
 
-217
+215
 00:15:04,220 --> 00:15:07,260
 jego matka zmarła.
 
-218
+216
 00:15:10,010 --> 00:15:14,140
 Piraci przypłynęli!
 
-219
+217
 00:15:14,560 --> 00:15:15,890
 Piraci przypłynęli!
 
-220
+218
 00:15:16,850 --> 00:15:19,480
 To tata i jego piracka załoga!
 
-221
+219
 00:15:17,980 --> 00:15:19,480
 Ch-Chwila, Usopp!
 
-222
+220
 00:15:19,480 --> 00:15:21,110
 Nie krzycz tak!
 
-223
+221
 00:15:22,190 --> 00:15:24,820
 Tata po nas przypłynął!
 
-224
+222
 00:15:25,490 --> 00:15:30,950
 N-Nie wygłupiaj się... Usopp...
 
-225
+223
 00:15:30,950 --> 00:15:36,420
 Ale przecież... obiecał, że gdy poczujesz
 się lepiej, to zabierze nas ze sobą!
 
-226
+224
 00:15:37,250 --> 00:15:40,880
 Twój ojciec już nie wróci...
 
-227
+225
 00:15:41,420 --> 00:15:48,010
 Ale wiesz co...? Jestem dumna,
 że za niego wyszłam...
 
-228
+226
 00:15:48,640 --> 00:15:50,640
 Istnieje takie cudowne lekarstwo!
 
-229
+227
 00:15:50,640 --> 00:15:52,930
 Może wyleczyć każdą chorobę!
 
-230
+228
 00:15:52,930 --> 00:15:54,770
 Głuptasie...
 
-231
+229
 00:15:54,770 --> 00:15:57,020
 Przesadzasz z tymi marzeniami...
 
-232
+230
 00:15:57,020 --> 00:15:58,900
 I co w tym złego?!
 
-233
+231
 00:15:58,900 --> 00:16:00,770
 Będę dalej marzył!
 
-234
+232
 00:16:00,770 --> 00:16:04,990
 W końcu jestem synem pirata!
 
-235
+233
 00:16:05,400 --> 00:16:10,700
 Wyrośnij na dzielnego mężczyznę,
 takiego jak twój ojciec...
 
-236
+234
 00:16:17,160 --> 00:16:22,000
 Piraci przypłynęli!
 
-237
+235
 00:16:22,000 --> 00:16:23,880
 Zapewne czuł się samotny,
 
-238
+236
 00:16:23,880 --> 00:16:27,510
 więc nawyk krzyczenia pozostał
 z nim nawet po śmierci matki.
 
-239
+237
 00:16:27,510 --> 00:16:33,720
 Wciąż miał nadzieję, że piracki okręt
 przybije któregoś dnia do brzegu...
 
-240
+238
 00:16:33,720 --> 00:16:36,770
 a tym samym, że jego
 ojciec po niego wróci.
 
-241
+239
 00:16:40,150 --> 00:16:46,070
 Mieszkańcy twierdzą, że to
 kłamstwo jest również życzeniem.
 
-242
+240
 00:16:46,070 --> 00:16:49,280
 Piraci!
 
-243
+241
 00:16:49,700 --> 00:16:53,200
 Jako ktoś, kto sam stracił
 rodziców w tej właśnie wiosce,
 
-244
+242
 00:16:53,200 --> 00:16:58,000
 zapewne nie mógł zostawić
 ciebie, która straciła własnych.
 
-245
+243
 00:16:58,540 --> 00:17:02,630
 Od teraz ty również
 musisz stać się silniejsza!
 
-246
+244
 00:17:03,170 --> 00:17:06,880
 W ramach podzięki za wszystko,
 co do tej pory dla panienki zrobił!
 
-247
+245
 00:17:09,010 --> 00:17:09,970
 Tak!
 
-248
+246
 00:17:14,510 --> 00:17:16,640
 Za nowy statek i członka załogi!
 
-249
+247
 00:17:16,640 --> 00:17:19,100
 – Zdrówko!
 – Zdrówko!
 
-250
+248
 00:17:22,310 --> 00:17:27,820
 Powiedzieli, że walczą, by
 żyć, a nie tylko przeżyć.
 
-251
+249
 00:17:28,690 --> 00:17:33,320
 Kłamstwa Usoppa zawsze
 dotyczyły radości płynącej z życia.
 
-252
+250
 00:17:33,320 --> 00:17:35,620
 Wsparły mnie i dały mi wolę!
 
-253
+251
 00:17:35,990 --> 00:17:37,410
 Nie inaczej.
 
-254
+252
 00:17:38,330 --> 00:17:39,580
 No dobra!
 
-255
+253
 00:17:39,580 --> 00:17:41,580
 Serio chcemy to zrobić?!
 
-256
+254
 00:17:41,580 --> 00:17:44,840
 Jeszcze jak! Pora ruszyć w
 ślady naszego kapitana!
 
-257
+255
 00:17:47,800 --> 00:18:06,440
 – Piraci tu płyną!
 – Piraci tu płyną!
 
-258
+256
 00:17:54,550 --> 00:17:56,050
 Wiesz co, Merry?
 
-259
+257
 00:17:56,600 --> 00:17:58,930
 Zostanę lekarką!
 
-260
+258
 00:18:00,390 --> 00:18:03,350
 Cóż za wspaniały cel!
+

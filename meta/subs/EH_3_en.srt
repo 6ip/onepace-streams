@@ -1,1725 +1,1711 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:30,070 --> 00:01:40,070
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:37,540 --> 00:01:42,420
 Now that I'm aboard this ship,
 I guess it's my problem, too!
 
-4
+2
 00:01:42,420 --> 00:01:45,750
 My new captain is quite the handful!
 
-5
+3
 00:01:47,170 --> 00:01:48,250
 Luffy!
 
-6
+4
 00:01:48,670 --> 00:01:51,510
 I love it! I love your dream!
 
-7
+5
 00:01:51,510 --> 00:01:52,590
 Yeah?
 
-8
+6
 00:01:52,590 --> 00:01:54,470
 It's the best!
 
-9
+7
 00:01:55,220 --> 00:01:56,140
 Whoa-whoa!
 
-10
+8
 00:01:56,140 --> 00:01:58,560
 Yeah, that's just like you...
 
-11
+9
 00:01:58,560 --> 00:02:03,190
 But you gotta be the Pirate King
 to make it happen!
 
-12
+10
 00:02:03,190 --> 00:02:08,320
 We're just one lode poneglyph away
 from setting course for Laugh Tale!
 
-13
+11
 00:02:08,320 --> 00:02:10,990
 Don't make it sound so simple, Franky.
 
-14
+12
 00:02:11,400 --> 00:02:16,530
 That last lode poneglyph will be
 the most difficult one to find.
 
-15
+13
 00:02:19,290 --> 00:02:20,660
 Because...
 
-16
+14
 00:02:21,080 --> 00:02:23,290
 unlike the others,
 
-17
+15
 00:02:24,040 --> 00:02:28,670
 no one has found it for a very long time...
 
-18
+16
 00:02:29,050 --> 00:02:31,300
 There are no leads whatsoever.
 
-19
+17
 00:02:45,060 --> 00:02:48,150
 Signal from Flame Emperor Sabo
 to the Kamabakka Queendom!
 
-20
+18
 00:02:48,150 --> 00:02:48,900
 Alright!
 
-21
+19
 00:02:48,900 --> 00:02:50,650
 Where is he?!
 
-22
+20
 00:02:50,650 --> 00:02:52,400
 Make sure you trace his position!
 
-23
+21
 00:02:52,400 --> 00:02:54,860
 No jamming from a white transponder snail!
 
-24
+22
 00:02:54,860 --> 00:02:58,240
 He's done nothing to prevent wiretapping?
 
-25
+23
 00:02:58,240 --> 00:03:01,200
 This must be an emergency call!
 It won't last long!
 
-26
+24
 00:03:01,200 --> 00:03:03,910
 We finally got a lead on his whereabouts!
 
-27
+25
 00:03:04,290 --> 00:03:06,040
 Don't miss this chance!
 
-28
+26
 00:03:14,720 --> 00:03:16,680
 The trace was successful!
 
-29
+27
 00:03:16,680 --> 00:03:17,800
 Where is it from?!
 
-30
+28
 00:03:18,800 --> 00:03:20,810
 The Kingdom of Lulusia!
 
-31
+29
 00:03:22,060 --> 00:03:23,640
 Lulusia...
 
-32
+30
 00:03:23,640 --> 00:03:24,890
 My word...
 
-33
+31
 00:03:24,890 --> 00:03:29,440
 It's one of the countries where
 the simultaneous Eight-Nation Revolution
 
-34
+32
 00:03:29,440 --> 00:03:31,980
 took place after the Reverie!
 
-35
+33
 00:03:31,980 --> 00:03:34,820
 It's an ideal hiding spot for Sabo!
 
-36
+34
 00:03:35,450 --> 00:03:37,160
 I see...
 
-37
+35
 00:03:37,160 --> 00:03:39,120
 What an unfortunate man...
 
-38
+36
 00:03:40,740 --> 00:03:42,330
 No...
 
-39
+37
 00:03:44,120 --> 00:03:46,160
 This is simply fate...
 
-40
+38
 00:03:51,590 --> 00:03:53,710
 Great! I got through!
 
-41
+39
 00:03:56,220 --> 00:03:57,430
 Sabo...
 
-42
+40
 00:03:57,430 --> 00:03:58,800
 Sabo!
 
-43
+41
 00:03:58,800 --> 00:04:01,930
 We haven't heard from you
 in a while, so what gives?!
 
-44
+42
 00:04:02,640 --> 00:04:06,140
 I vass really voorried about you!
 
-45
+43
 00:04:06,140 --> 00:04:07,770
 I'm sorry, everyone.
 
-46
+44
 00:04:07,770 --> 00:04:09,310
 No!
 
-47
+45
 00:04:09,310 --> 00:04:10,520
 That's okay!
 
-48
+46
 00:04:10,520 --> 00:04:12,020
 We love you!
 
-49
+47
 00:04:12,020 --> 00:04:14,780
 That's enough celebrating.
 
-50
+48
 00:04:14,780 --> 00:04:19,530
 You didn't contact us just to
 tell us you're alive, did you?
 
-51
+49
 00:04:21,160 --> 00:04:22,370
 No...
 
-52
+50
 00:04:22,370 --> 00:04:26,250
 I suppose you've all read
 the news article by now.
 
-53
+51
 00:04:34,340 --> 00:04:35,800
 Dragon!
 
-54
+52
 00:04:35,800 --> 00:04:38,550
 King Cobra's assassin...
 
-55
+53
 00:04:43,510 --> 00:04:44,390
 wasn't me!
 
-56
+54
 00:04:47,060 --> 00:04:48,140
 Yeah!
 
-57
+55
 00:04:48,140 --> 00:04:50,310
 I believed you!
 
-58
+56
 00:04:50,310 --> 00:04:52,650
 I did not need to hear it! I knew it!
 
-59
+57
 00:04:53,020 --> 00:04:53,860
 But...
 
-60
+58
 00:04:56,360 --> 00:04:58,530
 when I was at Mary Geoise...
 
-61
+59
 00:04:59,110 --> 00:05:01,450
 I saw something unthinkable!
 
-62
+60
 00:05:01,450 --> 00:05:03,280
 Something unthinkable?
 
-63
+61
 00:05:22,510 --> 00:05:23,510
 Hey.
 
-64
+62
 00:05:25,850 --> 00:05:26,850
 Look.
 
-65
+63
 00:05:31,440 --> 00:05:32,810
 What is that?
 
-66
+64
 00:05:32,810 --> 00:05:34,560
 It's creepy...
 
-67
+65
 00:05:34,560 --> 00:05:36,190
 It's almost like...
 
-68
+66
 00:05:36,190 --> 00:05:39,610
 there's something massive up there...
 
-69
+67
 00:05:41,450 --> 00:05:44,030
 You cretins will all regret this!
 
-70
+68
 00:05:44,030 --> 00:05:48,540
 Once Marine Headquarters hears
 about this, you'll all be impaled!
 
-71
+69
 00:05:48,540 --> 00:05:50,620
 Dad, let me do it, too!
 
-72
+70
 00:05:50,620 --> 00:05:53,500
 You vermin, I'll make you pay for this!
 
-73
+71
 00:05:53,500 --> 00:05:55,590
 Your Maje– I mean, Seki, sir!
 
-74
+72
 00:05:56,210 --> 00:06:01,970
 If you had thought of your citizens
 even a little bit, we wouldn't have revolted.
 
-75
+73
 00:06:01,970 --> 00:06:03,300
 If I had what?!
 
-76
+74
 00:06:03,300 --> 00:06:06,970
 Why should a king spare a thought
 for his lowly citizens?!
 
-77
+75
 00:06:07,510 --> 00:06:10,060
 Know your place! How dare you!
 
-78
+76
 00:06:10,060 --> 00:06:11,930
 Please confess to your crimes!
 
-79
+77
 00:06:11,930 --> 00:06:14,190
 We don't want to take your lives...
 
-80
+78
 00:06:15,270 --> 00:06:18,980
 Just shut up and let me out of here!
 
-81
+79
 00:06:34,670 --> 00:06:37,880
 In Pangaea Castle where
 the Reverie took place...
 
-82
+80
 00:06:38,340 --> 00:06:40,340
 on the Empty Throne...
 
-83
+81
 00:06:40,340 --> 00:06:43,550
 Communications, 
 cut off your transponder snail.
 
-84
+82
 00:06:43,550 --> 00:06:44,470
 What?
 
-85
+83
 00:06:44,930 --> 00:06:46,550
 Did you not hear me?
 
-86
+84
 00:06:47,510 --> 00:06:49,060
 Y-Yes, sir!
 
-87
+85
 00:06:49,720 --> 00:06:54,190
 There's no king over the whole world,
 so that throne should be empty...!
 
-88
+86
 00:06:56,190 --> 00:06:57,650
 Communications,
 
-89
+87
 00:06:58,150 --> 00:06:59,610
 listen carefully...
 
-90
+88
 00:07:09,490 --> 00:07:13,200
 You did not trace any calls...
 
-91
+89
 00:07:14,960 --> 00:07:17,040
 Dad, I'm scared.
 
-92
+90
 00:07:21,420 --> 00:07:24,340
 You did not wiretap anything...
 
-93
+91
 00:07:27,340 --> 00:07:29,970
 The Kingdom of Lulusia?
 
-94
+92
 00:07:36,310 --> 00:07:38,400
 Such a country...
 
-95
+93
 00:07:46,900 --> 00:07:50,070
 never even existed...
 
-96
+94
 00:08:10,300 --> 00:08:11,760
 What's happening?!
 
-97
+95
 00:08:36,000 --> 00:08:37,580
 Sabo?
 
-98
+96
 00:08:37,580 --> 00:08:39,080
 Sabo?!
 
-99
+97
 00:08:46,880 --> 00:08:49,800
 Seaquake off the southeast coast!
 Prepare for a tsunami!
 
-100
+98
 00:08:50,510 --> 00:08:51,510
 I repeat!
 
-101
+99
 00:08:51,510 --> 00:08:54,970
 Seaquake off the southeast coast!
 Prepare for a tsunami!
 
-102
+100
 00:09:10,820 --> 00:09:13,530
 I'm gonna die! I'm dead!
 
-103
+101
 00:09:21,250 --> 00:09:22,540
 It's cold!
 
-104
+102
 00:09:22,540 --> 00:09:24,130
 I'm scared!
 
-105
+103
 00:09:24,130 --> 00:09:25,710
 We're done for!
 
-106
+104
 00:09:25,710 --> 00:09:27,050
 Help!
 
-107
+105
 00:09:33,260 --> 00:09:34,890
 – A sea king!
 – A sea king!
 
-108
+106
 00:09:43,520 --> 00:09:45,980
 This is absurd!
 
-109
+107
 00:09:50,690 --> 00:09:52,570
 Aren't you cold?!
 
-110
+108
 00:09:52,570 --> 00:09:54,780
 It's all a matter of perception.
 
-111
+109
 00:09:55,660 --> 00:09:57,410
 It must be good to be moss, huh?
 
-112
+110
 00:09:57,410 --> 00:09:59,080
 You're too dull to feel cold.
 
-113
+111
 00:10:00,500 --> 00:10:02,870
 Want me to turn you into fish food?!
 
-114
+112
 00:10:02,870 --> 00:10:04,080
 Try it!
 
-115
+113
 00:10:04,460 --> 00:10:07,340
 Is this really the time?
 Knock it off, you two!
 
-116
+114
 00:10:07,340 --> 00:10:08,300
 Jinbe!
 
-117
+115
 00:10:08,670 --> 00:10:10,550
 Watch out for ice floes!
 
-118
+116
 00:10:10,550 --> 00:10:11,760
 You got it!
 
-119
+117
 00:10:24,230 --> 00:10:25,860
 Furl the sails!
 
-120
+118
 00:10:25,860 --> 00:10:27,570
 The winds are too strong!
 
-121
+119
 00:10:28,900 --> 00:10:30,070
 All right!
 
-122
+120
 00:10:36,160 --> 00:10:39,290
 Strong Right!
 
-123
+121
 00:10:47,750 --> 00:10:50,090
 Move faster, Moss Head!
 
-124
+122
 00:10:50,090 --> 00:10:52,760
 Can't you just work quietly?
 
-125
+123
 00:10:56,010 --> 00:10:58,510
 Are we near the island yet, Nami?!
 
-126
+124
 00:10:59,260 --> 00:11:01,470
 I don't think it's that far away!
 
-127
+125
 00:11:01,930 --> 00:11:06,020
 I believe we've entered
 the island's climate zone...
 
-128
+126
 00:11:06,020 --> 00:11:08,980
 I'm guessing it's a harsh winter island!
 
-129
+127
 00:11:14,950 --> 00:11:18,070
 Seems like they're having
 a hard time, so I'm gonna go help!
 
-130
+128
 00:11:18,070 --> 00:11:19,450
 Oh my,
 
-131
+129
 00:11:19,450 --> 00:11:21,290
 you look dashing, Chopper.
 
-132
+130
 00:11:23,330 --> 00:11:29,250
 Otama bestowed upon me this woven hat,
 thus these winter storms pose no threat!
 
-133
+131
 00:11:29,250 --> 00:11:30,090
 Right?!
 
-134
+132
 00:11:34,670 --> 00:11:36,260
 Hey, Nami!
 
-135
+133
 00:11:36,260 --> 00:11:37,640
 What's that?!
 
-136
+134
 00:11:38,090 --> 00:11:40,180
 What's what?
 
-137
+135
 00:11:49,730 --> 00:11:50,940
 What is that?!
 
-138
+136
 00:11:50,940 --> 00:11:53,690
 That's a big warm eddy!
 
-139
+137
 00:11:53,690 --> 00:11:55,530
 An eddy?! That?!
 
-140
+138
 00:11:55,530 --> 00:11:57,820
 What in the hell is that thing?!
 
-141
+139
 00:11:57,820 --> 00:11:59,490
 You've gotta be kidding!
 
-142
+140
 00:11:59,490 --> 00:12:02,700
 Why is it so far above the surface?!
 
-143
+141
 00:12:02,700 --> 00:12:07,000
 It's a mass of heated water that's been
 pushed above the surface somehow.
 
-144
+142
 00:12:07,000 --> 00:12:09,000
 How hot would it have to be?!
 
-145
+143
 00:12:11,460 --> 00:12:13,250
 It's like an afro!
 
-146
+144
 00:12:13,250 --> 00:12:15,460
 Get us out of here, Jinbe!
 We'll get pulled in!
 
-147
+145
 00:12:16,090 --> 00:12:17,090
 Leave it to me!
 
-148
+146
 00:12:17,090 --> 00:12:18,090
 Wait!
 
-149
+147
 00:12:19,300 --> 00:12:21,390
 Someone's there! Inside the water!
 
-150
+148
 00:12:23,060 --> 00:12:25,520
 What?! No way!
 
-151
+149
 00:12:25,520 --> 00:12:26,520
 A mermaid?!
 
-152
+150
 00:12:29,940 --> 00:12:33,400
 Somebody!
 
-153
+151
 00:12:34,280 --> 00:12:35,900
 There's no mistake!
 
-154
+152
 00:12:35,900 --> 00:12:37,780
 I hear a lady's scream!
 
-155
+153
 00:12:37,780 --> 00:12:39,150
 From inside the water?!
 
-156
+154
 00:12:42,370 --> 00:12:44,450
 Are you serious?!
 
-157
+155
 00:12:49,080 --> 00:12:52,130
 Even if someone is there, what can we do?!
 
-158
+156
 00:12:53,460 --> 00:12:55,210
 We can just cut it...
 
-159
+157
 00:13:00,130 --> 00:13:02,890
 If you so much as scratch the lady,
 
-160
+158
 00:13:02,890 --> 00:13:04,760
 I'll fillet you!
 
-161
+159
 00:13:04,760 --> 00:13:06,100
 Shut up!
 
-162
+160
 00:13:17,650 --> 00:13:19,360
 One-Sword Style:
 
-163
+161
 00:13:26,830 --> 00:13:28,700
 Bird Dance!
 
-164
+162
 00:13:34,920 --> 00:13:37,130
 – He cut it!
 – He cut it!
 
-165
+163
 00:13:40,670 --> 00:13:41,970
 Hey, guys!
 
-166
+164
 00:13:41,970 --> 00:13:43,680
 What's all the fuss about?!
 
-167
+165
 00:13:44,180 --> 00:13:45,220
 Don't worry!
 
-168
+166
 00:13:45,220 --> 00:13:48,140
 Woven-Hat Chopperemon is here, so–
 
-169
+167
 00:13:50,060 --> 00:13:51,310
 The wind is so strong!
 
-170
+168
 00:13:52,390 --> 00:13:54,940
 Why did you even come out here, Chopper?!
 
-171
+169
 00:13:55,900 --> 00:13:57,650
 Help!
 
-172
+170
 00:13:59,360 --> 00:14:00,530
 Chopper!
 
-173
+171
 00:14:03,240 --> 00:14:04,370
 Luffy!
 
-174
+172
 00:14:07,790 --> 00:14:09,500
 Not you too!
 
-175
+173
 00:14:09,870 --> 00:14:11,080
 What are you doing?!
 
-176
+174
 00:14:11,080 --> 00:14:12,460
 That idiot!
 
-177
+175
 00:14:27,140 --> 00:14:28,890
 A kid popped outta the water!
 
-178
+176
 00:14:29,560 --> 00:14:31,230
 Who is that?
 
-179
+177
 00:14:39,230 --> 00:14:40,150
 Who are you?!
 
-180
+178
 00:14:42,320 --> 00:14:43,650
 Thank good–
 
-181
+179
 00:14:44,320 --> 00:14:45,320
 Wait, the monster!
 
-182
+180
 00:14:46,570 --> 00:14:48,830
 Oh, good! Seems like she's alive...
 
-183
+181
 00:14:49,120 --> 00:14:50,870
 Below you!
 
-184
+182
 00:14:50,870 --> 00:14:52,790
 It's there!
 
-185
+183
 00:14:48,830 --> 00:14:49,790
 But...
 
-186
+184
 00:14:49,790 --> 00:14:52,790
 Where do they think they're going?!
 
-187
+185
 00:14:53,660 --> 00:14:56,250
 It's still there!
 
-188
+186
 00:14:52,790 --> 00:14:56,250
 That little kid's yelling something!
 
-189
+187
 00:14:56,750 --> 00:14:58,250
 Below you!
 
-190
+188
 00:14:58,250 --> 00:14:59,500
 Look down!
 
-191
+189
 00:15:00,250 --> 00:15:02,130
 "Look down"...?
 
-192
+190
 00:15:10,140 --> 00:15:11,970
 What is it this time?!
 
-193
+191
 00:15:11,970 --> 00:15:13,730
 Go away!
 
-194
+192
 00:15:13,730 --> 00:15:16,190
 – Oh my gosh! Oh my gosh! Oh my gosh!
 – What's going on?!
 
-195
+193
 00:15:16,190 --> 00:15:18,770
 – Help!
 – Help!
 
-196
+194
 00:15:20,150 --> 00:15:22,030
 These waters aren't safe!
 
-197
+195
 00:15:22,030 --> 00:15:23,070
 Get us out of here!
 
-198
+196
 00:15:38,210 --> 00:15:41,040
 Is this it for us?!
 
-199
+197
 00:15:42,170 --> 00:15:43,880
 Jinbe! Hurry up!
 
-200
+198
 00:15:44,300 --> 00:15:47,340
 Jinbe! Get us out of here!
 
-201
+199
 00:15:47,340 --> 00:15:49,850
 Hold on!
 
-202
+200
 00:15:49,850 --> 00:15:52,310
 Hurry!
 
-203
+201
 00:16:00,980 --> 00:16:02,610
 What is that thing?!
 
-204
+202
 00:16:02,610 --> 00:16:04,860
 That's no ordinary shark!
 
-205
+203
 00:16:04,860 --> 00:16:07,860
 It's way too big, and it's made of metal?!
 
-206
+204
 00:16:10,370 --> 00:16:11,740
 Hold on tight!
 
-207
+205
 00:16:11,740 --> 00:16:13,370
 We're about to hit water!
 
-208
+206
 00:16:21,000 --> 00:16:24,210
 Damn! They fell into the sea!
 
-209
+207
 00:16:24,210 --> 00:16:25,880
 This is bad!
 
-210
+208
 00:16:25,880 --> 00:16:27,170
 Franky!
 
-211
+209
 00:16:27,170 --> 00:16:28,800
 Take the helm!
 
-212
+210
 00:16:28,800 --> 00:16:32,470
 Bring the ship around to us!
 
-213
+211
 00:16:34,560 --> 00:16:36,770
 Alright! You can count on me!
 
-214
+212
 00:16:45,530 --> 00:16:47,150
 I told him to count on me,
 
-215
+213
 00:16:47,150 --> 00:16:50,110
 but how do I find them
 when the water's this rough?
 
-216
+214
 00:16:50,110 --> 00:16:52,320
 Guess I just gotta do it.
 
-217
+215
 00:17:00,670 --> 00:17:02,420
 Ship's Bottom:
 
-218
+216
 00:17:07,460 --> 00:17:08,880
 Rabbit...
 
-219
+217
 00:17:11,220 --> 00:17:14,430
 Screw!
 
-220
+218
 00:17:20,940 --> 00:17:22,480
 All right!
 
-221
+219
 00:17:22,480 --> 00:17:24,770
 Time to mount a rescue!
 
-222
+220
 00:17:38,370 --> 00:17:40,750
 Luffy! Chopper!
 
-223
+221
 00:17:40,750 --> 00:17:42,580
 Where are you?!
 
-224
+222
 00:17:49,840 --> 00:17:51,470
 Franky! Get us out of here!
 
-225
+223
 00:17:51,470 --> 00:17:53,930
 Torpedoes!
 
-226
+224
 00:18:00,640 --> 00:18:02,600
 Robin! Nami!
 
-227
+225
 00:18:03,440 --> 00:18:04,400
 Oh, crap!
 
-228
+226
 00:18:04,400 --> 00:18:07,770
 We're gonna capsize!
 
-229
+227
 00:18:24,580 --> 00:18:27,090
 What was that explosion?
 
-230
+228
 00:18:31,050 --> 00:18:33,180
 Luffy! Chopper!
 
-231
+229
 00:18:33,180 --> 00:18:35,590
 I'm here! You'll be alright!
 
-232
+230
 00:18:43,690 --> 00:18:46,560
 Hey, you three! Stay with me!
 
-233
+231
 00:18:46,560 --> 00:18:48,020
 We're about to surface!
 
-234
+232
 00:18:54,780 --> 00:18:56,530
 The current is too strong!
 
-235
+233
 00:18:56,530 --> 00:18:58,240
 The rudder can't take it!
 
-236
+234
 00:19:00,910 --> 00:19:02,950
 Thank you, Jinbe...
 
-237
+235
 00:19:02,950 --> 00:19:05,750
 I'm glad that all of you are okay!
 
-238
+236
 00:19:08,290 --> 00:19:11,420
 The Sunny will be here soon!
 
-239
+237
 00:19:27,310 --> 00:19:29,310
 What's the matter, Jinbe?
 
-240
+238
 00:19:30,570 --> 00:19:32,610
 Hold on tight!
 
-241
+239
 00:19:34,820 --> 00:19:37,240
 We'll escape below the surface!
 
-242
+240
 00:19:37,240 --> 00:19:40,280
 Take a deep breath, guys!
 
-243
+241
 00:19:47,460 --> 00:19:49,130
 Let's go!
 
-244
+242
 00:20:10,230 --> 00:20:11,270
 Oh, no...
 
-245
+243
 00:20:11,270 --> 00:20:12,860
 The current is too strong!
 
-246
+244
 00:20:12,860 --> 00:20:14,230
 We can't surface!
 
-247
+245
 00:20:14,940 --> 00:20:16,990
 Somebody, help!
 
-248
+246
 00:20:16,990 --> 00:20:20,240
 Why am I underwater?! What's going on?!
 
-249
+247
 00:20:20,700 --> 00:20:22,700
 Hang in there, Robin!
 
-250
+248
 00:20:23,330 --> 00:20:24,830
 Nami!
 
-251
+249
 00:21:18,300 --> 00:21:21,220
 We're in trouble...
 If we don't do something...
 
-252
+250
 00:21:22,720 --> 00:21:24,510
 we'll all die.
 
-253
+251
 00:21:39,530 --> 00:21:41,740
 All right, everyone!
 
-254
+252
 00:21:42,240 --> 00:21:44,240
 It's time for your medicine!
 
-255
+253
 00:21:45,700 --> 00:21:47,330
 One cup each!
 
-256
+254
 00:21:47,330 --> 00:21:48,410
 You can do it!
 
-257
+255
 00:21:50,540 --> 00:21:53,830
 I'll drink it, but only because
 you told me to, Tashigi!
 
-258
+256
 00:21:54,960 --> 00:21:56,170
 Thank you!
 
-259
+257
 00:21:56,170 --> 00:21:59,380
 Make sure you drink all of it!
 
-260
+258
 00:21:58,710 --> 00:22:00,380
 It tastes weird!
 
-261
+259
 00:22:00,380 --> 00:22:02,130
 I don't wanna, it tastes awful!
 
-262
+260
 00:22:02,470 --> 00:22:04,260
 But you should still try!
 
-263
+261
 00:22:05,930 --> 00:22:08,180
 Do I have to drink the whole thing?
 
-264
+262
 00:22:08,180 --> 00:22:11,140
 Yeah, to return to your original size.
 
-265
+263
 00:22:11,140 --> 00:22:14,270
 I wanna return faster, so I'll drink two!
 
-266
+264
 00:22:14,650 --> 00:22:15,730
 Tashigi!
 
-267
+265
 00:22:16,360 --> 00:22:18,440
 I think I'm a lot smaller now!
 
-268
+266
 00:22:19,570 --> 00:22:21,400
 I can hardly recognize you, Mocha!
 
-269
+267
 00:22:21,780 --> 00:22:23,860
 I can't wait to go home!
 
-270
+268
 00:22:23,860 --> 00:22:26,780
 Yeah, be patient just a little longer.
 
-271
+269
 00:22:26,780 --> 00:22:27,870
 Try to hang in there!
 
-272
+270
 00:22:27,870 --> 00:22:29,450
 Tashigi!
 
-273
+271
 00:22:30,330 --> 00:22:31,750
 Vice Admiral Doll!
 
-274
+272
 00:22:32,120 --> 00:22:33,960
 Can I steal you for a sec?
 
-275
+273
 00:22:37,340 --> 00:22:41,460
 Could you do something about
 that Helmeppo brat?
 
-276
+274
 00:22:41,970 --> 00:22:44,930
 There's nothing I can do.
 
-277
+275
 00:22:44,930 --> 00:22:47,390
 His best friend's safety is in question.
 
-278
+276
 00:22:47,760 --> 00:22:51,770
 Captain Koby is an important
 colleague to me, too...
 
-279
+277
 00:22:51,770 --> 00:22:54,520
 I'm begging you guys!
 
-280
+278
 00:22:54,520 --> 00:22:57,770
 We're comrades, aren't we? Please!
 
-281
+279
 00:22:58,650 --> 00:23:01,230
 I'm beggin' you, too!
 
-282
+280
 00:23:01,230 --> 00:23:04,700
 Koby's always looked out for me!
 
-283
+281
 00:23:05,160 --> 00:23:07,950
 Please come with us to Pirate Island!
 
-284
+282
 00:23:07,950 --> 00:23:09,370
 Prince!
 
-285
+283
 00:23:12,040 --> 00:23:13,200
 Please!
 
-286
+284
 00:23:13,200 --> 00:23:15,750
 We can't do it on our own!
 
-287
+285
 00:23:16,630 --> 00:23:18,340
 Prince!
 
-288
+286
 00:23:18,340 --> 00:23:20,170
 I'm begging you!
 
-289
+287
 00:23:20,710 --> 00:23:21,840
 Please!
 
-290
+288
 00:23:21,840 --> 00:23:24,880
 I won't move an inch until you join us!
 
-291
+289
 00:23:25,510 --> 00:23:29,350
 Koby's been taken to Pirate Island...
 
-292
+290
 00:23:29,350 --> 00:23:31,640
 That's Emperor Blackbeard's home turf!
 
-293
+291
 00:23:34,770 --> 00:23:36,270
 You understand, right?!
 
-294
+292
 00:23:37,020 --> 00:23:40,270
 If you poke that island even a little...
 
-295
+293
 00:23:40,570 --> 00:23:44,490
 bloodthirsty pirates will swarm you like bees!
 
-296
+294
 00:23:47,610 --> 00:23:50,330
 That's why it's called Beehive!
 
-297
+295
 00:23:51,080 --> 00:23:53,160
 Egghead isn't far from here!
 
-298
+296
 00:23:55,120 --> 00:23:57,620
 We could deploy the seraphim!
 
-299
+297
 00:23:57,620 --> 00:23:59,380
 The seraphim?!
 
-300
+298
 00:23:59,380 --> 00:24:00,840
 Are you out of your mind?!
 
-301
+299
 00:24:01,630 --> 00:24:03,460
 You need to calm down!
 
-302
+300
 00:24:05,920 --> 00:24:09,680
 We can't even contact Drake right now...
 
-303
+301
 00:24:10,300 --> 00:24:12,100
 There's nothing we can do!
 
-304
+302
 00:24:16,730 --> 00:24:18,230
 You must understand.
 
-305
+303
 00:24:20,560 --> 00:24:23,020
 Koby!
 
-306
+304
 00:24:27,530 --> 00:24:29,280
 What?!
 
-307
+305
 00:24:29,280 --> 00:24:31,490
 Don't you know who I am?!
 
-308
+306
 00:24:31,490 --> 00:24:33,330
 Nope. I don't know.
 
-309
+307
 00:24:33,740 --> 00:24:38,540
 We were both labeled as part
 of the Worst Generation!
 
-310
+308
 00:24:38,540 --> 00:24:41,670
 Oh, you're one of the worst, too?
 
-311
+309
 00:24:42,540 --> 00:24:44,130
 This guy's an idiot!
 
-312
+310
 00:24:46,800 --> 00:24:50,300
 I was there at Sabaody too, two years ago!
 
-313
+311
 00:24:51,680 --> 00:24:53,680
 I'm Bonney!
 
-314
+312
 00:24:53,680 --> 00:24:55,600
 Remember, we're enemies!
 
-315
+313
 00:24:56,600 --> 00:24:59,060
 Then again, you did save me...
 
-316
+314
 00:25:00,190 --> 00:25:01,480
 So thanks for that.
 
-317
+315
 00:25:02,110 --> 00:25:04,230
 Don't mention it, Bogey!
 
-318
+316
 00:25:04,650 --> 00:25:05,980
 It's Bonney!
 
-319
+317
 00:25:06,820 --> 00:25:08,070
 What the...
 
-320
+318
 00:25:11,110 --> 00:25:12,700
 That's cold!
 
-321
+319
 00:25:13,620 --> 00:25:16,080
 I'm invincible with my woven hat!
 
-322
+320
 00:25:17,120 --> 00:25:19,160
 I won't lose either, Chopper!
 
-323
+321
 00:25:20,670 --> 00:25:22,250
 This guy's an Emperor...?
 
-324
+322
 00:25:22,710 --> 00:25:25,090
 And Jinbe, Knight of the Sea,
 really did join his crew...
 
-325
+323
 00:25:25,920 --> 00:25:28,550
 Oh yeah, what's up with that wanted poster?
 
-326
+324
 00:25:28,550 --> 00:25:31,510
 Your hair was all white.
 
-327
+325
 00:25:31,510 --> 00:25:33,470
 It was all over the news.
 
-328
+326
 00:25:33,470 --> 00:25:35,390
 Oh, that's...
 
-329
+327
 00:25:37,890 --> 00:25:40,270
 just how I look when I'm free!
 
-330
+328
 00:25:40,270 --> 00:25:42,190
 What the hell?
 
-331
+329
 00:25:42,190 --> 00:25:45,190
 What happened to your crew?
 
-332
+330
 00:25:46,570 --> 00:25:48,320
 They'll be fine.
 
-333
+331
 00:25:49,900 --> 00:25:53,490
 What about your own ship and crew?
 
-334
+332
 00:25:55,330 --> 00:25:57,080
 I came here alone.
 
-335
+333
 00:25:58,040 --> 00:26:01,540
 That metal monster ate my ship.
 
-336
+334
 00:26:01,540 --> 00:26:03,500
 Screw that thing!
 
-337
+335
 00:26:03,500 --> 00:26:05,750
 That's terrible...
 
-338
+336
 00:26:06,130 --> 00:26:07,000
 Yeah!
 
-339
+337
 00:26:07,000 --> 00:26:09,460
 And I'm getting hungry now...
 
-340
+338
 00:26:11,470 --> 00:26:13,840
 Oh yeah, me too!
 
-341
+339
 00:26:13,840 --> 00:26:15,850
 Let's find a restaurant.
 
-342
+340
 00:26:15,850 --> 00:26:17,350
 I'm hungry, too!
 
-343
+341
 00:26:17,350 --> 00:26:19,560
 But, Luffy, do you have any money?
 
-344
+342
 00:26:20,520 --> 00:26:22,600
 Hey, boneheads!
 
-345
+343
 00:26:22,600 --> 00:26:24,150
 There's no restaurant here!
 
-346
+344
 00:26:26,980 --> 00:26:28,940
 This place belongs to the government.
 
-347
+345
 00:26:31,400 --> 00:26:32,740
 I'll fill you in.
 
-348
+346
 00:26:33,740 --> 00:26:36,700
 This island is called Egghead!
 
-349
+347
 00:26:37,200 --> 00:26:39,620
 It's said to be 500 years in the future.
 
-350
+348
 00:26:39,620 --> 00:26:42,710
 It's the island that houses Dr. Vegapunk's lab!
 
-351
+349
 00:26:44,210 --> 00:26:45,750
 Vegapunk!
 
-352
+350
 00:26:45,750 --> 00:26:47,170
 I know that name!
 
-353
+351
 00:26:50,420 --> 00:26:52,260
 I have business...
 
-354
+352
 00:26:53,050 --> 00:26:54,880
 with that quack!
 
-355
+353
 00:27:10,360 --> 00:27:12,280
 Everyone! Are you all right?!
 
-356
+354
 00:27:15,410 --> 00:27:18,620
 Is the Sunny all right?
 
-357
+355
 00:27:27,290 --> 00:27:29,540
 A... A...
 
-358
+356
 00:27:29,540 --> 00:27:32,590
 – A giant robot!
 – A giant robot!
 
-359
+357
 00:27:32,960 --> 00:27:34,550
 Who could possibly...?
 
-360
+358
 00:27:47,730 --> 00:27:49,310
 Someone's coming out!
 
-361
+359
 00:27:50,270 --> 00:27:52,150
 This won't do...
 
-362
+360
 00:27:53,030 --> 00:27:54,940
 Yet another failure.
 
-363
+361
 00:27:57,030 --> 00:28:00,370
 Why can't I suppress
 the urges of living beings?!
 
-364
+362
 00:28:02,290 --> 00:28:03,790
 I'm at my wit's end!
 
-365
+363
 00:28:03,790 --> 00:28:07,670
 I don't know who you are, but thank you!
 
-366
+364
 00:28:07,670 --> 00:28:09,000
 You saved us!
 
-367
+365
 00:28:09,000 --> 00:28:13,250
 The Mecha-Shark's only orders...
 
-368
+366
 00:28:18,470 --> 00:28:21,680
 were to scout, report, and bombard.
 
-369
+367
 00:28:22,060 --> 00:28:25,350
 But if it eats their ships,
 there won't be any valuables left.
 
-370
+368
 00:28:26,020 --> 00:28:28,350
 It must be a programming error.
 
-371
+369
 00:28:36,530 --> 00:28:37,650
 Now...
 
-372
+370
 00:28:37,650 --> 00:28:40,990
 Who said anything about
 rescuing you pirates?!
 
-373
+371
 00:28:40,990 --> 00:28:45,660
 I'm just a plain old genius scientist
 working for the World Government!
 
-374
+372
 00:28:49,500 --> 00:28:52,000
 I'm Dr. Vegapunk!
 
-375
+373
 00:28:54,050 --> 00:28:57,800
 – What?!
 – What?!
 
-376
+374
 00:02:40,970 --> 00:02:42,810
 Marine Headquarters
 New World
+
+375
+00:02:40,970 --> 00:02:42,810
+Marine Headquarters
+New World
+
+376
+00:03:06,540 --> 00:03:10,250
+Room of Authority
+Pangaea Castle
+The Holy Land, Mary Geoise
 
 377
-00:02:40,970 --> 00:02:42,810
-Marine Headquarters
-New World
+00:03:06,540 --> 00:03:10,250
+Room of Authority
+Pangaea Castle
+The Holy Land, Mary Geoise
 
 378
-00:03:06,540 --> 00:03:10,250
-Room of Authority
-Pangaea Castle
-The Holy Land, Mary Geoise
+00:03:48,120 --> 00:03:51,590
+Kamabakka Queendom
 
 379
-00:03:06,540 --> 00:03:10,250
-Room of Authority
-Pangaea Castle
-The Holy Land, Mary Geoise
+00:03:48,120 --> 00:03:51,590
+Kamabakka Queendom
 
 380
-00:03:48,120 --> 00:03:51,590
-Kamabakka Queendom
+00:05:10,080 --> 00:05:13,580
+Kingdom of Lulusia
+Grand Line
 
 381
-00:03:48,120 --> 00:03:51,590
-Kamabakka Queendom
+00:05:10,080 --> 00:05:13,580
+Kingdom of Lulusia
+Grand Line
 
 382
-00:05:10,080 --> 00:05:13,580
+00:05:44,070 --> 00:05:48,410
+Princess Comane
 Kingdom of Lulusia
-Grand Line
 
 383
-00:05:10,080 --> 00:05:13,580
+00:05:44,070 --> 00:05:48,410
+Princess Comane
 Kingdom of Lulusia
-Grand Line
 
 384
 00:05:44,070 --> 00:05:48,410
-Princess Comane
+King Seki
 Kingdom of Lulusia
 
 385
 00:05:44,070 --> 00:05:48,410
-Princess Comane
+King Seki
 Kingdom of Lulusia
 
 386
-00:05:44,070 --> 00:05:48,410
-King Seki
-Kingdom of Lulusia
+00:08:59,140 --> 00:09:04,320
+A Few Days Later
 
 387
-00:05:44,070 --> 00:05:48,410
-King Seki
-Kingdom of Lulusia
+00:08:59,140 --> 00:09:04,320
+A Few Days Later
 
 388
-00:08:59,140 --> 00:09:04,320
-A Few Days Later
+00:14:23,760 --> 00:14:26,680
+Jewelry Bonney "the Glutton"
+Worst Generation
 
 389
-00:08:59,140 --> 00:09:04,320
-A Few Days Later
+00:14:23,760 --> 00:14:26,680
+Jewelry Bonney "the Glutton"
+Worst Generation
 
 390
 00:14:23,760 --> 00:14:26,680
-Jewelry Bonney "the Glutton"
-Worst Generation
+Bounty:    320 Million
 
 391
 00:14:23,760 --> 00:14:26,680
-Jewelry Bonney "the Glutton"
-Worst Generation
+Bounty:    320 Million
 
 392
 00:14:23,760 --> 00:14:26,680
-Bounty:    320 Million
+m 6.4 11.52 b 6.4 8.24 6.32 5.44 8.96 2.96 11.84 0.32 19.44 0 20.96 4.4 22.72 9.2 15.44 12.88 12.8 5.92 12.8 5.92 11.2 5.92 11.2 5.92 11.2 5.92 10.4 11.52 10.4 11.52 13.6 11.52 22.16 11.12 24.72 12.24 28.8 13.92 30.32 20.4 29.12 24.32 28.4 26.64 27.04 28.08 25.6 29.92 27.28 30.88 28.48 31.44 29.44 33.2 31.12 36.16 30.88 44.72 28.48 47.2 26.24 49.44 23.44 48.8 21.28 51.04 21.28 51.04 18.08 56.16 18.08 56.16 15.6 58.88 9.52 60 6.88 56.88 4.48 54 6.32 49.52 10.4 50.24 12.64 50.64 13.36 52.16 14.4 53.92 14.4 53.92 16 49.92 16 49.92 16 49.92 0 49.12 0 49.12 0 49.12 0 11.52 0 11.52 0 11.52 6.4 11.52 6.4 11.52 m 11.2 27.52 b 10.7 24.37 10.28 21.34 7.8 16.27 7.92 17.95 6.94 17.04 5.6 16.32 4.88 18.88 3.68 25.6 6.64 27.04 7.76 27.6 10 27.52 11.2 27.52 m 12.8 16.32 b 12.96 18.16 13.12 19.36 13.6 21.12 13.92 22.32 14.56 24.72 15.28 25.68 18.88 30.56 26.96 23.12 22.08 18.32 21.28 17.52 20.24 17.12 19.2 16.8 17.44 16.24 14.72 16.32 12.8 16.32 m 13.6 33.2 b 11.52 32.72 7.92 31.84 6.08 33.2 4.24 34.72 4.32 42.08 6.08 43.52 7.6 44.64 13.2 44.32 15.2 44.32 15.2 44.32 13.6 33.2 13.6 33.2 m 20 44.32 b 21.44 43.84 22.48 43.6 23.52 42.4 25.44 40.16 24.96 36.24 22.96 34.24 20.72 32.16 17.76 32.16 18.16 36.32 18.16 36.32 18.72 39.52 18.72 39.52 18.72 39.52 20 44.32 20 44.32
 
 393
 00:14:23,760 --> 00:14:26,680
-Bounty:    320 Million
+m 6.4 11.52 b 6.4 8.24 6.32 5.44 8.96 2.96 11.84 0.32 19.44 0 20.96 4.4 22.72 9.2 15.44 12.88 12.8 5.92 12.8 5.92 11.2 5.92 11.2 5.92 11.2 5.92 10.4 11.52 10.4 11.52 13.6 11.52 22.16 11.12 24.72 12.24 28.8 13.92 30.32 20.4 29.12 24.32 28.4 26.64 27.04 28.08 25.6 29.92 27.28 30.88 28.48 31.44 29.44 33.2 31.12 36.16 30.88 44.72 28.48 47.2 26.24 49.44 23.44 48.8 21.28 51.04 21.28 51.04 18.08 56.16 18.08 56.16 15.6 58.88 9.52 60 6.88 56.88 4.48 54 6.32 49.52 10.4 50.24 12.64 50.64 13.36 52.16 14.4 53.92 14.4 53.92 16 49.92 16 49.92 16 49.92 0 49.12 0 49.12 0 49.12 0 11.52 0 11.52 0 11.52 6.4 11.52 6.4 11.52 m 11.2 27.52 b 10.7 24.37 10.28 21.34 7.8 16.27 7.92 17.95 6.94 17.04 5.6 16.32 4.88 18.88 3.68 25.6 6.64 27.04 7.76 27.6 10 27.52 11.2 27.52 m 12.8 16.32 b 12.96 18.16 13.12 19.36 13.6 21.12 13.92 22.32 14.56 24.72 15.28 25.68 18.88 30.56 26.96 23.12 22.08 18.32 21.28 17.52 20.24 17.12 19.2 16.8 17.44 16.24 14.72 16.32 12.8 16.32 m 13.6 33.2 b 11.52 32.72 7.92 31.84 6.08 33.2 4.24 34.72 4.32 42.08 6.08 43.52 7.6 44.64 13.2 44.32 15.2 44.32 15.2 44.32 13.6 33.2 13.6 33.2 m 20 44.32 b 21.44 43.84 22.48 43.6 23.52 42.4 25.44 40.16 24.96 36.24 22.96 34.24 20.72 32.16 17.76 32.16 18.16 36.32 18.16 36.32 18.72 39.52 18.72 39.52 18.72 39.52 20 44.32 20 44.32
 
 394
-00:14:23,760 --> 00:14:26,680
-m 6.4 11.52 b 6.4 8.24 6.32 5.44 8.96 2.96 11.84 0.32 19.44 0 20.96 4.4 22.72 9.2 15.44 12.88 12.8 5.92 12.8 5.92 11.2 5.92 11.2 5.92 11.2 5.92 10.4 11.52 10.4 11.52 13.6 11.52 22.16 11.12 24.72 12.24 28.8 13.92 30.32 20.4 29.12 24.32 28.4 26.64 27.04 28.08 25.6 29.92 27.28 30.88 28.48 31.44 29.44 33.2 31.12 36.16 30.88 44.72 28.48 47.2 26.24 49.44 23.44 48.8 21.28 51.04 21.28 51.04 18.08 56.16 18.08 56.16 15.6 58.88 9.52 60 6.88 56.88 4.48 54 6.32 49.52 10.4 50.24 12.64 50.64 13.36 52.16 14.4 53.92 14.4 53.92 16 49.92 16 49.92 16 49.92 0 49.12 0 49.12 0 49.12 0 11.52 0 11.52 0 11.52 6.4 11.52 6.4 11.52 m 11.2 27.52 b 10.7 24.37 10.28 21.34 7.8 16.27 7.92 17.95 6.94 17.04 5.6 16.32 4.88 18.88 3.68 25.6 6.64 27.04 7.76 27.6 10 27.52 11.2 27.52 m 12.8 16.32 b 12.96 18.16 13.12 19.36 13.6 21.12 13.92 22.32 14.56 24.72 15.28 25.68 18.88 30.56 26.96 23.12 22.08 18.32 21.28 17.52 20.24 17.12 19.2 16.8 17.44 16.24 14.72 16.32 12.8 16.32 m 13.6 33.2 b 11.52 32.72 7.92 31.84 6.08 33.2 4.24 34.72 4.32 42.08 6.08 43.52 7.6 44.64 13.2 44.32 15.2 44.32 15.2 44.32 13.6 33.2 13.6 33.2 m 20 44.32 b 21.44 43.84 22.48 43.6 23.52 42.4 25.44 40.16 24.96 36.24 22.96 34.24 20.72 32.16 17.76 32.16 18.16 36.32 18.16 36.32 18.72 39.52 18.72 39.52 18.72 39.52 20 44.32 20 44.32
+00:21:39,030 --> 00:21:41,740
+Marine Branch G-14
 
 395
-00:14:23,760 --> 00:14:26,680
-m 6.4 11.52 b 6.4 8.24 6.32 5.44 8.96 2.96 11.84 0.32 19.44 0 20.96 4.4 22.72 9.2 15.44 12.88 12.8 5.92 12.8 5.92 11.2 5.92 11.2 5.92 11.2 5.92 10.4 11.52 10.4 11.52 13.6 11.52 22.16 11.12 24.72 12.24 28.8 13.92 30.32 20.4 29.12 24.32 28.4 26.64 27.04 28.08 25.6 29.92 27.28 30.88 28.48 31.44 29.44 33.2 31.12 36.16 30.88 44.72 28.48 47.2 26.24 49.44 23.44 48.8 21.28 51.04 21.28 51.04 18.08 56.16 18.08 56.16 15.6 58.88 9.52 60 6.88 56.88 4.48 54 6.32 49.52 10.4 50.24 12.64 50.64 13.36 52.16 14.4 53.92 14.4 53.92 16 49.92 16 49.92 16 49.92 0 49.12 0 49.12 0 49.12 0 11.52 0 11.52 0 11.52 6.4 11.52 6.4 11.52 m 11.2 27.52 b 10.7 24.37 10.28 21.34 7.8 16.27 7.92 17.95 6.94 17.04 5.6 16.32 4.88 18.88 3.68 25.6 6.64 27.04 7.76 27.6 10 27.52 11.2 27.52 m 12.8 16.32 b 12.96 18.16 13.12 19.36 13.6 21.12 13.92 22.32 14.56 24.72 15.28 25.68 18.88 30.56 26.96 23.12 22.08 18.32 21.28 17.52 20.24 17.12 19.2 16.8 17.44 16.24 14.72 16.32 12.8 16.32 m 13.6 33.2 b 11.52 32.72 7.92 31.84 6.08 33.2 4.24 34.72 4.32 42.08 6.08 43.52 7.6 44.64 13.2 44.32 15.2 44.32 15.2 44.32 13.6 33.2 13.6 33.2 m 20 44.32 b 21.44 43.84 22.48 43.6 23.52 42.4 25.44 40.16 24.96 36.24 22.96 34.24 20.72 32.16 17.76 32.16 18.16 36.32 18.16 36.32 18.72 39.52 18.72 39.52 18.72 39.52 20 44.32 20 44.32
+00:21:39,030 --> 00:21:41,740
+Marine Branch G-14
 
 396
 00:21:39,030 --> 00:21:41,740
-Marine Branch G-14
+At a Nearby Island
 
 397
 00:21:39,030 --> 00:21:41,740
-Marine Branch G-14
+At a Nearby Island
 
 398
-00:21:39,030 --> 00:21:41,740
-At a Nearby Island
+00:21:41,740 --> 00:21:45,200
+Captain Tashigi
+Marine Headquarters
 
 399
-00:21:39,030 --> 00:21:41,740
-At a Nearby Island
+00:21:41,740 --> 00:21:45,200
+Captain Tashigi
+Marine Headquarters
 
 400
-00:21:41,740 --> 00:21:45,200
-Captain Tashigi
-Marine Headquarters
+00:22:37,250 --> 00:22:41,460
+Vice Admiral Doll
+Marine Branch G-14 Commander
 
 401
-00:21:41,740 --> 00:21:45,200
-Captain Tashigi
-Marine Headquarters
+00:22:37,250 --> 00:22:41,460
+Vice Admiral Doll
+Marine Branch G-14 Commander
 
 402
-00:22:37,250 --> 00:22:41,460
-Vice Admiral Doll
-Marine Branch G-14 Commander
+00:22:58,520 --> 00:23:04,700
+Commander Hibari
+Marine Headquarters
+(SWORD)
 
 403
-00:22:37,250 --> 00:22:41,460
-Vice Admiral Doll
-Marine Branch G-14 Commander
+00:22:58,520 --> 00:23:04,700
+Commander Hibari
+Marine Headquarters
+(SWORD)
 
 404
 00:22:58,520 --> 00:23:04,700
-Commander Hibari
+Lieutenant Commander Helmeppo
 Marine Headquarters
 (SWORD)
 
 405
 00:22:58,520 --> 00:23:04,700
-Commander Hibari
+Lieutenant Commander Helmeppo
 Marine Headquarters
 (SWORD)
 
 406
-00:22:58,520 --> 00:23:04,700
-Lieutenant Commander Helmeppo
+00:23:04,700 --> 00:23:07,950
+Rear Admiral Prince Grus
 Marine Headquarters
 (SWORD)
 
 407
-00:22:58,520 --> 00:23:04,700
-Lieutenant Commander Helmeppo
+00:23:04,700 --> 00:23:07,950
+Rear Admiral Prince Grus
 Marine Headquarters
 (SWORD)
 
 408
-00:23:04,700 --> 00:23:07,950
-Rear Admiral Prince Grus
-Marine Headquarters
-(SWORD)
-
-409
-00:23:04,700 --> 00:23:07,950
-Rear Admiral Prince Grus
-Marine Headquarters
-(SWORD)
-
-410
 00:24:28,780 --> 00:24:31,490
 Luffy's Group
 
-411
+409
 00:04:26,250 --> 00:04:27,710
 m -760 -203 l -684 -227 -589 -254 -449 -291 -274 -335 -124 -370 -14 -393 70 -411 849 -411 882 -366 734 -336 631 -316 602 -309 486 -285 364 -258 251 -235 165 -215 122 -206 95 -198 -16 -172 -64 -162 -110 -152 -135 -144 -224 -121 -244 -118 -321 -95 -396 -75 -490 -47 -642 1 -657 -19 -733 -158
 
-412
+410
 00:04:26,250 --> 00:04:27,710
 rFpdN,,uOd;TYCD?o!
 MtBX7'Q5ovkD"yFfrtHO"sGNU
@@ -1727,7 +1713,7 @@ cUANCGkxJI;g.o8PLE1lnUIy;1;vl;InxaH
 h'kHfP5qi.3Oy"vbSwBivnixrGFbLe9Zz2oA"idq
 !p;kVp'9ObnGtLA6934!yZdypH.5NO.oWZayooIFGh4;!
 
-413
+411
 00:04:26,250 --> 00:04:27,710
 hj"WN75Rl8e:CLTxO.
 AKX3nin116rq2yGw7P?"aeXNR
@@ -1735,158 +1721,164 @@ sr3NnnScJgvMkmPkvlPve7MeOnT!yFQ8AO:
 StXRlWvMiccXBY;BCL32Rh1x:JqhLmv'FEwSSW,t
 fkc:?PcliSzhmxOiv3:pNF?i:W.8N8GYxLTY;s6''t;'r
 
-414
+412
 00:04:26,250 --> 00:04:27,710
 REVOLUTIONARY ARMY CHIEF OF STAFF SABO
 
-ASSASSINATES KING COBRA OF ALABASTA
-
-415
+413
 00:17:14,300 --> 00:17:14,350
 SHIP'S BOTTOM:
 
-416
+414
 00:17:14,350 --> 00:17:14,390
 SHIP'S BOTTOM:
 
-417
+415
 00:17:14,390 --> 00:17:14,430
 SHIP'S BOTTOM:
 
-418
+416
 00:17:14,430 --> 00:17:14,470
 SHIP'S BOTTOM:
 
-419
+417
 00:17:14,470 --> 00:17:14,510
 SHIP'S BOTTOM:
 
-420
+418
 00:17:14,510 --> 00:17:14,560
 SHIP'S BOTTOM:
 
-421
+419
 00:17:14,560 --> 00:17:14,600
 SHIP'S BOTTOM:
 
-422
+420
 00:17:14,600 --> 00:17:14,640
 SHIP'S BOTTOM:
 
-423
+421
 00:17:14,640 --> 00:17:14,680
 SHIP'S BOTTOM:
 
-424
+422
 00:17:14,680 --> 00:17:14,720
 SHIP'S BOTTOM:
 
-425
+423
 00:17:14,720 --> 00:17:14,760
 SHIP'S BOTTOM:
 
-426
+424
 00:17:14,760 --> 00:17:14,810
 SHIP'S BOTTOM:
 
-427
+425
 00:17:14,810 --> 00:17:14,850
 SHIP'S BOTTOM:
 
-428
+426
 00:17:14,850 --> 00:17:14,890
 SHIP'S BOTTOM:
 
-429
+427
 00:17:14,890 --> 00:17:14,930
 SHIP'S BOTTOM:
 
-430
+428
 00:17:14,930 --> 00:17:14,970
 SHIP'S BOTTOM:
 
-431
+429
 00:17:14,970 --> 00:17:15,010
 SHIP'S BOTTOM:
 
-432
+430
 00:17:15,010 --> 00:17:15,060
 SHIP'S BOTTOM:
 
-433
+431
 00:17:15,060 --> 00:17:15,100
 SHIP'S BOTTOM:
 
-434
+432
 00:17:15,100 --> 00:17:15,140
 SHIP'S BOTTOM:
 
-435
+433
 00:17:15,140 --> 00:17:15,180
 SHIP'S BOTTOM:
 
-436
+434
 00:17:15,180 --> 00:17:16,810
 SHIP'S BOTTOM:
 
-437
+435
 00:17:16,810 --> 00:17:16,850
 SHIP'S BOTTOM:
 
-438
+436
 00:17:16,850 --> 00:17:16,930
 SHIP'S BOTTOM:
 
-439
+437
 00:17:16,930 --> 00:17:16,970
 SHIP'S BOTTOM:
 
-440
+438
 00:17:16,970 --> 00:17:17,060
 SHIP'S BOTTOM:
 
-441
+439
 00:17:17,060 --> 00:17:17,100
 SHIP'S BOTTOM:
 
-442
+440
 00:17:17,100 --> 00:17:17,180
 SHIP'S BOTTOM:
 
-443
+441
 00:17:17,180 --> 00:17:17,220
 SHIP'S BOTTOM:
 
-444
+442
 00:17:17,220 --> 00:17:17,310
 SHIP'S BOTTOM:
 
-445
+443
 00:17:17,310 --> 00:17:17,350
 SHIP'S BOTTOM:
 
-446
+444
 00:17:17,350 --> 00:17:17,430
 SHIP'S BOTTOM:
 
-447
+445
 00:17:17,430 --> 00:17:17,470
 SHIP'S BOTTOM:
 
-448
+446
 00:17:17,470 --> 00:17:17,520
 SHIP'S BOTTOM:
 
-449
+447
 00:17:17,520 --> 00:17:17,600
 SHIP'S BOTTOM:
 
-450
+448
 00:17:17,600 --> 00:17:17,640
 SHIP'S BOTTOM:
 
-451
+449
 00:17:17,640 --> 00:17:18,430
+SHIP'S BOTTOM:
+
+450
+00:17:14,300 --> 00:17:14,350
+SHIP'S BOTTOM:
+
+451
+00:17:14,300 --> 00:17:14,350
 SHIP'S BOTTOM:
 
 452
@@ -2178,11 +2170,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 524
-00:17:14,300 --> 00:17:14,350
+00:17:14,350 --> 00:17:14,390
 SHIP'S BOTTOM:
 
 525
-00:17:14,300 --> 00:17:14,350
+00:17:14,350 --> 00:17:14,390
 SHIP'S BOTTOM:
 
 526
@@ -2474,11 +2466,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 598
-00:17:14,350 --> 00:17:14,390
+00:17:14,390 --> 00:17:14,430
 SHIP'S BOTTOM:
 
 599
-00:17:14,350 --> 00:17:14,390
+00:17:14,390 --> 00:17:14,430
 SHIP'S BOTTOM:
 
 600
@@ -2770,11 +2762,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 672
-00:17:14,390 --> 00:17:14,430
+00:17:14,430 --> 00:17:14,470
 SHIP'S BOTTOM:
 
 673
-00:17:14,390 --> 00:17:14,430
+00:17:14,430 --> 00:17:14,470
 SHIP'S BOTTOM:
 
 674
@@ -3066,11 +3058,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 746
-00:17:14,430 --> 00:17:14,470
+00:17:14,470 --> 00:17:14,510
 SHIP'S BOTTOM:
 
 747
-00:17:14,430 --> 00:17:14,470
+00:17:14,470 --> 00:17:14,510
 SHIP'S BOTTOM:
 
 748
@@ -3362,11 +3354,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 820
-00:17:14,470 --> 00:17:14,510
+00:17:14,510 --> 00:17:14,560
 SHIP'S BOTTOM:
 
 821
-00:17:14,470 --> 00:17:14,510
+00:17:14,510 --> 00:17:14,560
 SHIP'S BOTTOM:
 
 822
@@ -3658,11 +3650,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 894
-00:17:14,510 --> 00:17:14,560
+00:17:14,560 --> 00:17:14,600
 SHIP'S BOTTOM:
 
 895
-00:17:14,510 --> 00:17:14,560
+00:17:14,560 --> 00:17:14,600
 SHIP'S BOTTOM:
 
 896
@@ -3954,11 +3946,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 968
-00:17:14,560 --> 00:17:14,600
+00:17:14,600 --> 00:17:14,640
 SHIP'S BOTTOM:
 
 969
-00:17:14,560 --> 00:17:14,600
+00:17:14,600 --> 00:17:14,640
 SHIP'S BOTTOM:
 
 970
@@ -4250,11 +4242,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1042
-00:17:14,600 --> 00:17:14,640
+00:17:14,640 --> 00:17:14,680
 SHIP'S BOTTOM:
 
 1043
-00:17:14,600 --> 00:17:14,640
+00:17:14,640 --> 00:17:14,680
 SHIP'S BOTTOM:
 
 1044
@@ -4546,11 +4538,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1116
-00:17:14,640 --> 00:17:14,680
+00:17:14,680 --> 00:17:14,720
 SHIP'S BOTTOM:
 
 1117
-00:17:14,640 --> 00:17:14,680
+00:17:14,680 --> 00:17:14,720
 SHIP'S BOTTOM:
 
 1118
@@ -4842,11 +4834,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1190
-00:17:14,680 --> 00:17:14,720
+00:17:14,720 --> 00:17:14,760
 SHIP'S BOTTOM:
 
 1191
-00:17:14,680 --> 00:17:14,720
+00:17:14,720 --> 00:17:14,760
 SHIP'S BOTTOM:
 
 1192
@@ -5138,11 +5130,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1264
-00:17:14,720 --> 00:17:14,760
+00:17:14,760 --> 00:17:14,810
 SHIP'S BOTTOM:
 
 1265
-00:17:14,720 --> 00:17:14,760
+00:17:14,760 --> 00:17:14,810
 SHIP'S BOTTOM:
 
 1266
@@ -5434,11 +5426,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1338
-00:17:14,760 --> 00:17:14,810
+00:17:14,810 --> 00:17:14,850
 SHIP'S BOTTOM:
 
 1339
-00:17:14,760 --> 00:17:14,810
+00:17:14,810 --> 00:17:14,850
 SHIP'S BOTTOM:
 
 1340
@@ -5730,11 +5722,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1412
-00:17:14,810 --> 00:17:14,850
+00:17:14,850 --> 00:17:14,890
 SHIP'S BOTTOM:
 
 1413
-00:17:14,810 --> 00:17:14,850
+00:17:14,850 --> 00:17:14,890
 SHIP'S BOTTOM:
 
 1414
@@ -6026,11 +6018,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1486
-00:17:14,850 --> 00:17:14,890
+00:17:14,890 --> 00:17:14,930
 SHIP'S BOTTOM:
 
 1487
-00:17:14,850 --> 00:17:14,890
+00:17:14,890 --> 00:17:14,930
 SHIP'S BOTTOM:
 
 1488
@@ -6322,11 +6314,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1560
-00:17:14,890 --> 00:17:14,930
+00:17:14,930 --> 00:17:14,970
 SHIP'S BOTTOM:
 
 1561
-00:17:14,890 --> 00:17:14,930
+00:17:14,930 --> 00:17:14,970
 SHIP'S BOTTOM:
 
 1562
@@ -6618,11 +6610,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1634
-00:17:14,930 --> 00:17:14,970
+00:17:14,970 --> 00:17:15,010
 SHIP'S BOTTOM:
 
 1635
-00:17:14,930 --> 00:17:14,970
+00:17:14,970 --> 00:17:15,010
 SHIP'S BOTTOM:
 
 1636
@@ -6914,11 +6906,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1708
-00:17:14,970 --> 00:17:15,010
+00:17:15,010 --> 00:17:15,060
 SHIP'S BOTTOM:
 
 1709
-00:17:14,970 --> 00:17:15,010
+00:17:15,010 --> 00:17:15,060
 SHIP'S BOTTOM:
 
 1710
@@ -7210,11 +7202,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1782
-00:17:15,010 --> 00:17:15,060
+00:17:15,060 --> 00:17:15,100
 SHIP'S BOTTOM:
 
 1783
-00:17:15,010 --> 00:17:15,060
+00:17:15,060 --> 00:17:15,100
 SHIP'S BOTTOM:
 
 1784
@@ -7506,11 +7498,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1856
-00:17:15,060 --> 00:17:15,100
+00:17:15,100 --> 00:17:15,140
 SHIP'S BOTTOM:
 
 1857
-00:17:15,060 --> 00:17:15,100
+00:17:15,100 --> 00:17:15,140
 SHIP'S BOTTOM:
 
 1858
@@ -7802,11 +7794,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 1930
-00:17:15,100 --> 00:17:15,140
+00:17:15,140 --> 00:17:15,180
 SHIP'S BOTTOM:
 
 1931
-00:17:15,100 --> 00:17:15,140
+00:17:15,140 --> 00:17:15,180
 SHIP'S BOTTOM:
 
 1932
@@ -8098,11 +8090,11 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 2004
-00:17:15,140 --> 00:17:15,180
+00:17:15,180 --> 00:17:18,430
 SHIP'S BOTTOM:
 
 2005
-00:17:15,140 --> 00:17:15,180
+00:17:15,180 --> 00:17:18,430
 SHIP'S BOTTOM:
 
 2006
@@ -8394,12 +8386,12 @@ SHIP'S BOTTOM:
 SHIP'S BOTTOM:
 
 2078
-00:17:15,180 --> 00:17:18,430
-SHIP'S BOTTOM:
+00:17:14,300 --> 00:17:14,350
+RABBIT SCREW
 
 2079
-00:17:15,180 --> 00:17:18,430
-SHIP'S BOTTOM:
+00:17:14,300 --> 00:17:14,350
+RABBIT SCREW
 
 2080
 00:17:14,300 --> 00:17:14,350
@@ -8702,11 +8694,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2155
-00:17:14,300 --> 00:17:14,350
+00:17:14,350 --> 00:17:14,390
 RABBIT SCREW
 
 2156
-00:17:14,300 --> 00:17:14,350
+00:17:14,350 --> 00:17:14,390
 RABBIT SCREW
 
 2157
@@ -9022,11 +9014,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2235
-00:17:14,350 --> 00:17:14,390
+00:17:14,390 --> 00:17:14,430
 RABBIT SCREW
 
 2236
-00:17:14,350 --> 00:17:14,390
+00:17:14,390 --> 00:17:14,430
 RABBIT SCREW
 
 2237
@@ -9342,11 +9334,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2315
-00:17:14,390 --> 00:17:14,430
+00:17:14,430 --> 00:17:14,470
 RABBIT SCREW
 
 2316
-00:17:14,390 --> 00:17:14,430
+00:17:14,430 --> 00:17:14,470
 RABBIT SCREW
 
 2317
@@ -9662,11 +9654,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2395
-00:17:14,430 --> 00:17:14,470
+00:17:14,470 --> 00:17:14,510
 RABBIT SCREW
 
 2396
-00:17:14,430 --> 00:17:14,470
+00:17:14,470 --> 00:17:14,510
 RABBIT SCREW
 
 2397
@@ -9982,11 +9974,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2475
-00:17:14,470 --> 00:17:14,510
+00:17:14,510 --> 00:17:14,560
 RABBIT SCREW
 
 2476
-00:17:14,470 --> 00:17:14,510
+00:17:14,510 --> 00:17:14,560
 RABBIT SCREW
 
 2477
@@ -10302,11 +10294,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2555
-00:17:14,510 --> 00:17:14,560
+00:17:14,560 --> 00:17:14,600
 RABBIT SCREW
 
 2556
-00:17:14,510 --> 00:17:14,560
+00:17:14,560 --> 00:17:14,600
 RABBIT SCREW
 
 2557
@@ -10622,11 +10614,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2635
-00:17:14,560 --> 00:17:14,600
+00:17:14,600 --> 00:17:14,640
 RABBIT SCREW
 
 2636
-00:17:14,560 --> 00:17:14,600
+00:17:14,600 --> 00:17:14,640
 RABBIT SCREW
 
 2637
@@ -10942,11 +10934,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2715
-00:17:14,600 --> 00:17:14,640
+00:17:14,640 --> 00:17:14,680
 RABBIT SCREW
 
 2716
-00:17:14,600 --> 00:17:14,640
+00:17:14,640 --> 00:17:14,680
 RABBIT SCREW
 
 2717
@@ -11262,11 +11254,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2795
-00:17:14,640 --> 00:17:14,680
+00:17:14,680 --> 00:17:14,720
 RABBIT SCREW
 
 2796
-00:17:14,640 --> 00:17:14,680
+00:17:14,680 --> 00:17:14,720
 RABBIT SCREW
 
 2797
@@ -11582,11 +11574,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2875
-00:17:14,680 --> 00:17:14,720
+00:17:14,720 --> 00:17:14,760
 RABBIT SCREW
 
 2876
-00:17:14,680 --> 00:17:14,720
+00:17:14,720 --> 00:17:14,760
 RABBIT SCREW
 
 2877
@@ -11902,11 +11894,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 2955
-00:17:14,720 --> 00:17:14,760
+00:17:14,760 --> 00:17:14,810
 RABBIT SCREW
 
 2956
-00:17:14,720 --> 00:17:14,760
+00:17:14,760 --> 00:17:14,810
 RABBIT SCREW
 
 2957
@@ -12222,11 +12214,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3035
-00:17:14,760 --> 00:17:14,810
+00:17:14,810 --> 00:17:14,850
 RABBIT SCREW
 
 3036
-00:17:14,760 --> 00:17:14,810
+00:17:14,810 --> 00:17:14,850
 RABBIT SCREW
 
 3037
@@ -12542,11 +12534,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3115
-00:17:14,810 --> 00:17:14,850
+00:17:14,850 --> 00:17:14,890
 RABBIT SCREW
 
 3116
-00:17:14,810 --> 00:17:14,850
+00:17:14,850 --> 00:17:14,890
 RABBIT SCREW
 
 3117
@@ -12862,11 +12854,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3195
-00:17:14,850 --> 00:17:14,890
+00:17:14,890 --> 00:17:14,930
 RABBIT SCREW
 
 3196
-00:17:14,850 --> 00:17:14,890
+00:17:14,890 --> 00:17:14,930
 RABBIT SCREW
 
 3197
@@ -13182,11 +13174,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3275
-00:17:14,890 --> 00:17:14,930
+00:17:14,930 --> 00:17:14,970
 RABBIT SCREW
 
 3276
-00:17:14,890 --> 00:17:14,930
+00:17:14,930 --> 00:17:14,970
 RABBIT SCREW
 
 3277
@@ -13502,11 +13494,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3355
-00:17:14,930 --> 00:17:14,970
+00:17:14,970 --> 00:17:15,010
 RABBIT SCREW
 
 3356
-00:17:14,930 --> 00:17:14,970
+00:17:14,970 --> 00:17:15,010
 RABBIT SCREW
 
 3357
@@ -13822,11 +13814,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3435
-00:17:14,970 --> 00:17:15,010
+00:17:15,010 --> 00:17:15,060
 RABBIT SCREW
 
 3436
-00:17:14,970 --> 00:17:15,010
+00:17:15,010 --> 00:17:15,060
 RABBIT SCREW
 
 3437
@@ -14142,11 +14134,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3515
-00:17:15,010 --> 00:17:15,060
+00:17:15,060 --> 00:17:15,100
 RABBIT SCREW
 
 3516
-00:17:15,010 --> 00:17:15,060
+00:17:15,060 --> 00:17:15,100
 RABBIT SCREW
 
 3517
@@ -14462,11 +14454,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3595
-00:17:15,060 --> 00:17:15,100
+00:17:15,100 --> 00:17:15,140
 RABBIT SCREW
 
 3596
-00:17:15,060 --> 00:17:15,100
+00:17:15,100 --> 00:17:15,140
 RABBIT SCREW
 
 3597
@@ -14782,11 +14774,11 @@ RABBIT SCREW
 RABBIT SCREW
 
 3675
-00:17:15,100 --> 00:17:15,140
+00:17:15,140 --> 00:17:18,430
 RABBIT SCREW
 
 3676
-00:17:15,100 --> 00:17:15,140
+00:17:15,140 --> 00:17:18,430
 RABBIT SCREW
 
 3677
@@ -15101,10 +15093,3 @@ RABBIT SCREW
 00:17:15,140 --> 00:17:18,430
 RABBIT SCREW
 
-3755
-00:17:15,140 --> 00:17:18,430
-RABBIT SCREW
-
-3756
-00:17:15,140 --> 00:17:18,430
-RABBIT SCREW

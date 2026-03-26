@@ -1,1374 +1,1370 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:02:32,510 --> 00:02:42,500
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:58,720 --> 00:02:02,480
 Mist, er macht Ernst! Wir müssen hier weg!
 
-4
+2
 00:02:02,480 --> 00:02:05,310
 Hier geht gleich alles drunter und drüber!
 
-5
+3
 00:02:10,030 --> 00:02:15,820
 Befindet sich dort das Dorf der widerwärtigen Shandia-Krieger?
 
-6
+4
 00:02:16,450 --> 00:02:18,990
 Sie kommen ja vom Blaumeer,
 
-7
+5
 00:02:18,990 --> 00:02:21,580
 da freuen sie sich sicher über die Heimfahrt.
 
-8
+6
 00:02:26,170 --> 00:02:28,960
 Und nun erledigt die Welt unter uns!
 
-9
+7
 00:02:39,100 --> 00:02:40,430
 Unser Dorf!
 
-10
+8
 00:02:42,730 --> 00:02:44,100
 Das war knapp!
 
-11
+9
 00:02:44,100 --> 00:02:47,150
 Einen Moment früher und wir wären nun Asche.
 
-12
+10
 00:02:54,740 --> 00:02:57,990
 Beim Namen des großen Kriegers Kalgara...
 
-13
+11
 00:03:01,330 --> 00:03:04,080
 entzünde das Leuchtfeuer von Shandora!
 
-14
+12
 00:03:11,170 --> 00:03:12,460
 Wyper.
 
-15
+13
 00:03:13,260 --> 00:03:17,260
 Dein Vorfahre,
 der große Krieger Kalgara,
 
-16
+14
 00:03:17,260 --> 00:03:20,510
 hatte einen weiteren Grund,
 
-17
+15
 00:03:20,510 --> 00:03:22,060
 weshalb er seine Heimat zurückwollte.
 
-18
+16
 00:03:22,060 --> 00:03:24,100
 Einen weiteren Grund?
 
-19
+17
 00:03:24,850 --> 00:03:29,270
 Genau. Die größte Reue Kalgaras.
 
-20
+18
 00:03:30,650 --> 00:03:31,890
 Hör gut zu.
 
-21
+19
 00:03:31,890 --> 00:03:36,150
 Der große Krieger Kalgara hatte einen guten Freund...
 
-22
+20
 00:03:36,150 --> 00:03:37,950
 Einen guten Freund?
 
-23
+21
 00:03:39,530 --> 00:03:40,540
 Genau.
 
-24
+22
 00:03:41,020 --> 00:03:45,580
 Vor 400 Jahren ist er zu Kalgara gekommen.
 
-25
+23
 00:03:48,290 --> 00:03:50,670
 Mont Blanc Noland!
 
-26
+24
 00:03:57,880 --> 00:03:59,820
 Vor langer, langer Zeit,
 
-27
+25
 00:04:00,480 --> 00:04:02,770
 nun schon vor 400 Jahren,
 
-28
+26
 00:04:03,310 --> 00:04:06,310
 ereignete sich eine Geschichte, die nie aufgeschrieben wurde,
 
-29
+27
 00:04:06,310 --> 00:04:10,520
 doch sich in die Herzen der Leute einbrannte
 und über Generationen weitererzählt wurde.
 
-30
+28
 00:04:11,650 --> 00:04:14,190
 Kommt schnell an Bord!
 
-31
+29
 00:04:15,900 --> 00:04:18,400
 Das Monster von Shandora kommt!
 
-32
+30
 00:04:18,400 --> 00:04:21,240
 Schnell! Anker lichten! Anker lichten!
 
-33
+31
 00:04:21,240 --> 00:04:22,700
 Aber es fehlen noch welche!
 
-34
+32
 00:04:22,700 --> 00:04:24,910
 Jetzt macht schon!
 
-35
+33
 00:04:28,120 --> 00:04:31,040
 Da ist er!
 
-36
+34
 00:04:44,220 --> 00:04:45,390
 Hinfort mit euch!
 
-37
+35
 00:05:01,070 --> 00:05:04,080
 Lasst eure Besitztümer hier und verschwindet!
 
-38
+36
 00:05:12,750 --> 00:05:15,670
 I-Ich berichte, Herr Admiral!
 
-39
+37
 00:05:15,670 --> 00:05:18,590
 Unsere Vorräte sind komplett aufgebraucht
 
-40
+38
 00:05:18,590 --> 00:05:21,710
 und wir benötigen nun...
 
-41
+39
 00:05:21,710 --> 00:05:24,010
 Hilfe.
 
-42
+40
 00:05:24,010 --> 00:05:25,680
 Der Koch ist umgekippt!
 
-43
+41
 00:05:25,680 --> 00:05:28,140
 Verdammt, wir haben kein Essen mehr...
 
-44
+42
 00:05:29,580 --> 00:05:31,440
 Der Admiral ist ins Meer gefallen.
 
-45
+43
 00:05:31,440 --> 00:05:33,220
 Das ist die Grand Line!
 
-46
+44
 00:05:33,220 --> 00:05:35,520
 Will er sich ertränken und uns zurücklassen?!
 
-47
+45
 00:05:35,520 --> 00:05:38,360
 Vielleicht hat er aus Hunger den Tod gewählt.
 
-48
+46
 00:05:38,360 --> 00:05:39,680
 Mach dich nicht lächerlich!
 
-49
+47
 00:05:39,680 --> 00:05:42,780
 Er ist ein Held und war schon zweimal in diesen Gewässern!
 
-50
+48
 00:05:42,780 --> 00:05:46,240
 Wozu hat er dann seine Kleidung so säuberlich zusammengelegt?!
 
-51
+49
 00:05:46,950 --> 00:05:49,040
 H-Hey, kann mal jemand nachgucken?
 
-52
+50
 00:05:49,040 --> 00:05:51,910
 Niemals! Das Meer ist voller Monster!
 
-53
+51
 00:05:51,910 --> 00:05:53,330
 Er taucht nicht auf.
 
-54
+52
 00:05:54,830 --> 00:05:55,540
 Admiral!
 
-55
+53
 00:05:55,540 --> 00:05:58,920
 Echt ein flinker Bursche. Nimm.
 
-56
+54
 00:05:58,920 --> 00:06:00,970
 Was? Das ist ein Seil...
 
-57
+55
 00:06:02,720 --> 00:06:03,510
 Zieht ihn hoch.
 
-58
+56
 00:06:07,010 --> 00:06:08,930
 Was ist das, Admiral?
 
-59
+57
 00:06:08,930 --> 00:06:11,100
 Haben Sie den etwa im Wasser erledigt?!
 
-60
+58
 00:06:11,100 --> 00:06:12,440
 Kocht uns was Schönes.
 
-61
+59
 00:06:13,440 --> 00:06:15,570
 Man lässt echt nach,
 
-62
+60
 00:06:15,570 --> 00:06:17,440
 wenn man auf der faulen Haut liegt.
 
-63
+61
 00:06:20,570 --> 00:06:22,610
 Ein gewaltiger Sturm, Admiral!
 
-64
+62
 00:06:22,610 --> 00:06:24,950
 Ja, das merkt man.
 
-65
+63
 00:06:24,950 --> 00:06:27,120
 „Das merkt man“? Ist das alles?
 
-66
+64
 00:06:28,160 --> 00:06:29,990
 Es hat die Rah erwischt!
 
-67
+65
 00:06:29,990 --> 00:06:30,830
 Wo?
 
-68
+66
 00:06:30,830 --> 00:06:31,910
 Die Hauptrah!
 
-69
+67
 00:06:31,910 --> 00:06:36,500
 Diese Reise dauert nun schon mehr als zwei Jahre an.
 
-70
+68
 00:06:36,500 --> 00:06:39,050
 Das grenzt an ein Wunder.
 
-71
+69
 00:06:41,800 --> 00:06:43,630
 Hey, hast du das gerade gehört?
 
-72
+70
 00:06:44,050 --> 00:06:45,530
 Hm? Was meinen Sie?
 
-73
+71
 00:06:45,530 --> 00:06:46,800
 Das Donnergrollen?
 
-74
+72
 00:06:46,800 --> 00:06:51,810
 Nein, ein schöner Klang wie von einer Glocke.
 
-75
+73
 00:06:54,890 --> 00:06:56,810
 Priester! Bleiben Sie bei Bewusstsein!
 
-76
+74
 00:06:56,810 --> 00:06:59,170
 Dieses Land wurde verflucht!
 
-77
+75
 00:06:59,170 --> 00:07:01,820
 Wenn es so weitergeht,
 werden die Shandia aussterben!
 
-78
+76
 00:07:01,820 --> 00:07:05,740
 W-Wie können wir das Dorf retten, Priester?!
 
-79
+77
 00:07:05,740 --> 00:07:08,910
 B-Bietet ein Mädchen als Opfer dar.
 
-80
+78
 00:07:09,830 --> 00:07:12,620
 Am Opferaltar!
 
-81
+79
 00:07:21,170 --> 00:07:23,590
 Wie viele Opfer macht das nun schon?
 
-82
+80
 00:07:25,220 --> 00:07:27,180
 Über einhundert...
 
-83
+81
 00:07:27,840 --> 00:07:29,980
 Wie grausam!
 
-84
+82
 00:07:29,980 --> 00:07:32,350
 So etwas gab es noch nie zuvor!
 
-85
+83
 00:07:37,310 --> 00:07:40,770
 Wenn ich so helfen kann,
 gebe ich mein Leben bereitwillig auf.
 
-86
+84
 00:07:43,820 --> 00:07:45,820
 Wieso weinst du denn, Mama?
 
-87
+85
 00:07:47,150 --> 00:07:52,120
 Ich werde bald vom Sonnengott willkommen geheißen.
 
-88
+86
 00:07:52,660 --> 00:07:56,410
 Es ist ein großes Glück,
 als Opfer ausgewählt zu werden.
 
-89
+87
 00:08:00,540 --> 00:08:04,130
 Danke für alles, was du für mich getan hast, Mama.
 
-90
+88
 00:08:04,800 --> 00:08:06,300
 Mousse!
 
-91
+89
 00:08:10,300 --> 00:08:13,010
 Wenn das ein Alptraum ist,
 lass mich aufwachen!
 
-92
+90
 00:08:13,600 --> 00:08:17,480
 Verdammt! Verschwinde!
 
-93
+91
 00:08:18,310 --> 00:08:20,150
 Jetzt verschwinde schon!
 
-94
+92
 00:08:23,070 --> 00:08:24,940
 Großer Krieger Kalgara...
 
-95
+93
 00:08:25,360 --> 00:08:26,990
 Seto...
 
-96
+94
 00:08:26,990 --> 00:08:30,360
 Ich wollte eines Tages wie du werden.
 
-97
+95
 00:08:30,990 --> 00:08:36,080
 Ein tapferer Krieger, der kämpft, um dieses Land zu beschützen!
 
-98
+96
 00:08:38,250 --> 00:08:41,040
 Ich will wegen so einer Sache nicht sterben!
 
-99
+97
 00:08:47,300 --> 00:08:49,340
 Sie sind unglaublich, Admiral!
 
-100
+98
 00:08:49,340 --> 00:08:53,050
 Sie hatten recht, in der Richtung war eine Insel!
 
-101
+99
 00:08:53,050 --> 00:08:54,390
 Ein Glück!
 
-102
+100
 00:08:54,390 --> 00:08:56,270
 Hier können wir dem Sturm entkommen.
 
-103
+101
 00:08:56,270 --> 00:08:59,600
 Aber sagt mal, habt ihr das echt nicht gehört?
 
-104
+102
 00:08:59,600 --> 00:09:02,940
 Nein, kein Glockenklang weit und breit, oder?
 
-105
+103
 00:09:02,940 --> 00:09:06,280
 Ja. Das war Ihre Einbildung, Admiral.
 
-106
+104
 00:09:13,530 --> 00:09:15,580
 Was für ein mächtiger Wald!
 
-107
+105
 00:09:15,580 --> 00:09:18,370
 Hoffentlich bringt uns das bei der Forschung weiter!
 
-108
+106
 00:09:26,880 --> 00:09:29,670
 Admiral! War das etwa das Geräusch?
 
-109
+107
 00:09:30,670 --> 00:09:33,090
 Hey, zieht mich nicht auf.
 
-110
+108
 00:09:33,340 --> 00:09:37,260
 Als ob ich die Stimme eines solchen Vögelchens verwechseln würde.
 
-111
+109
 00:09:38,470 --> 00:09:41,060
 A-Admiral, war es das?
 
-112
+110
 00:10:01,910 --> 00:10:04,920
 Wow, was für ein bezaubernder Klang.
 
-113
+111
 00:10:06,420 --> 00:10:08,550
 Hier müssen Menschen leben.
 
-114
+112
 00:10:10,050 --> 00:10:13,300
 W-Warten Sie doch, Admiral!
 
-115
+113
 00:10:17,390 --> 00:10:18,720
 Da liegt jemand am Boden!
 
-116
+114
 00:10:18,720 --> 00:10:20,600
 Verdammt, Eindringlinge...
 
-117
+115
 00:10:23,690 --> 00:10:24,940
 Hey, Junge.
 
-118
+116
 00:10:24,940 --> 00:10:27,820
 Admiral! Irgendwas stimmt mit dem Kind nicht!
 
-119
+117
 00:10:29,860 --> 00:10:30,690
 Hey, warte!
 
-120
+118
 00:10:32,400 --> 00:10:34,110
 Lasst mich los!
 
-121
+119
 00:10:36,240 --> 00:10:38,180
 Das ist Baumfieber, eine Seuche.
 
-122
+120
 00:10:38,180 --> 00:10:39,950
 Es wurde nicht behandelt.
 
-123
+121
 00:10:39,950 --> 00:10:42,500
 D-Das ist gar nicht gut!
 
-124
+122
 00:10:42,500 --> 00:10:44,870
 Doktor! Haben wir noch Konine?
 
-125
+123
 00:10:44,870 --> 00:10:47,840
 Spritze dem Jungen und uns sofort was davon!
 
-126
+124
 00:10:53,550 --> 00:10:54,800
 Sieht übel aus.
 
-127
+125
 00:10:55,840 --> 00:10:58,260
 Sämtliche Ernte ist vernichtet.
 
-128
+126
 00:11:01,020 --> 00:11:03,430
 Admiral! Die Häuser sind voll von Kranken!
 
-129
+127
 00:11:15,240 --> 00:11:17,780
 Bringt das Mädchen zum Altar!
 
-130
+128
 00:11:22,080 --> 00:11:26,250
 Sonnengott, Regengott...
 
-131
+129
 00:11:27,040 --> 00:11:31,420
 Waldgott, Erdgott...
 
-132
+130
 00:11:32,300 --> 00:11:39,350
 Bitte rettet im Austausch für das Leben dieses Mädchens unser Dorf!
 
-133
+131
 00:11:51,440 --> 00:11:52,730
 Das ist der Kashigami!
 
-134
+132
 00:11:57,150 --> 00:11:59,240
 Mousse!
 
-135
+133
 00:11:59,240 --> 00:12:01,450
 Gib sie auf! Tu es fürs Dorf!
 
-136
+134
 00:12:01,780 --> 00:12:06,040
 Wie erhaben der Kashigami aussieht!
 
-137
+135
 00:12:07,710 --> 00:12:09,170
 Bittet rettet meine Mutter.
 
-138
+136
 00:12:10,040 --> 00:12:13,710
 Bitte rettet meinen Sohn und meinen Vater.
 
-139
+137
 00:12:15,630 --> 00:12:17,340
 Da ist was reingefallen!
 
-140
+138
 00:12:17,720 --> 00:12:18,470
 Was war das?
 
-141
+139
 00:12:37,030 --> 00:12:39,280
 Was in aller Welt?! Wer ist das?
 
-142
+140
 00:12:39,280 --> 00:12:40,240
 Großer Kashigami!
 
-143
+141
 00:12:40,700 --> 00:12:42,660
 Gottestöter!
 
-144
+142
 00:12:48,540 --> 00:12:50,290
 Die Zeremonie ist vorbei.
 
-145
+143
 00:12:50,670 --> 00:12:52,290
 Das war sicher furchtbar.
 
-146
+144
 00:12:52,290 --> 00:12:55,630
 Aber du bist nun sicher.
 Du brauchst nicht zu sterben.
 
-147
+145
 00:12:59,130 --> 00:13:01,550
 Großer Kashigami! Bitte vergebt uns!
 
-148
+146
 00:13:01,550 --> 00:13:03,550
 Nun wird das ganze Dorf verflucht!
 
-149
+147
 00:13:03,550 --> 00:13:04,460
 Tötet ihn!
 
-150
+148
 00:13:04,460 --> 00:13:08,020
 Bringt den Göttern mehr Opfer,
 um sie zu besänftigen!
 
-151
+149
 00:13:08,600 --> 00:13:12,310
 Kalgara! Töte ihn!
 
-152
+150
 00:13:09,890 --> 00:13:12,310
 Das ging gehörig schief.
 
-153
+151
 00:13:12,310 --> 00:13:14,060
 Die rasten völlig aus.
 
-154
+152
 00:13:14,060 --> 00:13:16,780
 Wieso muss er sich immer einmischen?!
 
-155
+153
 00:13:16,780 --> 00:13:18,390
 Er hat einen Gott getötet?
 
-156
+154
 00:13:18,390 --> 00:13:19,610
 Was soll das heißen?
 
-157
+155
 00:13:19,610 --> 00:13:22,990
 Man mischt sich nicht einfach in die Rituale solcher Stämme ein!
 
-158
+156
 00:13:22,990 --> 00:13:26,490
 Besänftige den Zorn der Götter,
 großer Krieger Kalgara!
 
-159
+157
 00:13:26,990 --> 00:13:30,580
 Ich bin ein Entdecker vom North Blue, Mont Blanc No...
 
-160
+158
 00:13:30,580 --> 00:13:33,320
 Mir egal, wer du bist!
 
-161
+159
 00:13:33,670 --> 00:13:34,880
 Ich bringe dich um!
 
-162
+160
 00:13:35,670 --> 00:13:40,590
 Habt ihr so die wenigen,
 wichtigen Fortschritte unterbunden?!
 
-163
+161
 00:13:40,590 --> 00:13:43,200
 Misch dich nicht ein!
 
-164
+162
 00:13:43,200 --> 00:13:44,850
 Sühne bei den Göttern für deine Taten!
 
-165
+163
 00:13:45,350 --> 00:13:48,720
 Wer ist dieser Mann?
 Er kann Kalgara die Stirn bieten!
 
-166
+164
 00:13:56,770 --> 00:13:59,820
 Da! Nimm dir mit dem Messer das Leben!
 
-167
+165
 00:14:01,820 --> 00:14:03,200
 Wie bitte?
 
-168
+166
 00:14:03,200 --> 00:14:07,370
 Ein Opfer, das das Dorf
 retten sollte, weint und will leben?
 
-169
+167
 00:14:07,660 --> 00:14:08,740
 Kennst du keine Scham?!
 
-170
+168
 00:14:12,870 --> 00:14:14,250
 Lass den Mist!
 
-171
+169
 00:14:16,210 --> 00:14:16,960
 Aufhören!
 
-172
+170
 00:14:32,600 --> 00:14:34,980
 A-Admiral!
 
-173
+171
 00:14:39,190 --> 00:14:42,780
 Jahrhunderte haben wir uns hier strikt an das Gebot gehalten,
 
-174
+172
 00:14:42,780 --> 00:14:45,660
 dass alle Eindringlinge bestraft werden müssen.
 
-175
+173
 00:14:45,660 --> 00:14:47,860
 Und du bist zudem ein Gottestöter!
 
-176
+174
 00:14:47,860 --> 00:14:49,790
 Dein Leben allein genügt nicht!
 
-177
+175
 00:14:49,790 --> 00:14:54,420
 Auch deine Männer werden mit ihren Leben büßen!
 
-178
+176
 00:14:54,420 --> 00:14:58,630
 Was redest du da? Leben? Opfer?
 
-179
+177
 00:14:58,630 --> 00:15:00,880
 Der Irrsinn soll die Götter zufriedenstellen?
 
-180
+178
 00:15:01,550 --> 00:15:04,930
 Diese Zeremonien gehen gegen die
 Errungenschaften der großen Leute vor uns!
 
-181
+179
 00:15:04,930 --> 00:15:07,720
 Das kann ich nicht zulassen!
 
-182
+180
 00:15:09,100 --> 00:15:11,680
 Sie treten all die Abenteurer und Forscher,
 
-183
+181
 00:15:11,680 --> 00:15:15,440
 die jemals für das Glück anderer in See gestochen sind
 
-184
+182
 00:15:16,050 --> 00:15:17,310
 mit Füßen!
 
-185
+183
 00:15:18,400 --> 00:15:21,190
 Wenn euren Göttern die Leben der Menschen etwas bedeuten,
 
-186
+184
 00:15:21,190 --> 00:15:25,360
 würden sie solche Zeremonien dann nicht verachten?
 
-187
+185
 00:15:28,740 --> 00:15:30,200
 Gebt mir etwas Zeit!
 
-188
+186
 00:15:32,660 --> 00:15:36,290
 Ich werde diesen sogenannten „Fluch“ von euch nehmen.
 
-189
+187
 00:15:36,290 --> 00:15:40,880
 Wenn ich das nicht schaffe, stellt mit mir an, was ihr wollt!
 
-190
+188
 00:15:41,500 --> 00:15:42,920
 Was für ein Unfug!
 
-191
+189
 00:15:42,920 --> 00:15:45,670
 Hältst du dich für einen Gott oder was?!
 
-192
+190
 00:15:46,840 --> 00:15:51,600
 Wenn ich die Tragödie in diesem Dorf
 hingegen beenden kann, müsst ihr mir schwören,
 
-193
+191
 00:15:51,600 --> 00:15:54,060
 solche Zeremonien nie wieder durchzuführen!
 
-194
+192
 00:15:55,560 --> 00:15:57,140
 Mehr hast du nicht zu sagen?
 
-195
+193
 00:15:57,600 --> 00:16:00,940
 Dass ich nicht lache! Sag Lebewohl!
 
-196
+194
 00:16:00,940 --> 00:16:02,360
 Versuch es!
 
-197
+195
 00:16:04,900 --> 00:16:06,070
 Was?
 
-198
+196
 00:16:03,730 --> 00:16:04,900
 Eh?!
 
-199
+197
 00:16:06,900 --> 00:16:10,780
 Diese Menschen sollen bis morgen verschont bleiben.
 
-200
+198
 00:16:11,530 --> 00:16:13,740
 Nur zu gern!
 
-201
+199
 00:16:17,790 --> 00:16:22,540
 Morgen früh dürfen wir der Welt also Lebewohl sagen!
 
-202
+200
 00:16:24,000 --> 00:16:25,710
 Hab Vertrauen in den Admiral.
 
-203
+201
 00:16:25,710 --> 00:16:27,420
 Hey, Mädel.
 
-204
+202
 00:16:27,420 --> 00:16:30,720
 Du hast echt Pech,
 in diesem Dorf geboren zu sein.
 
-205
+203
 00:16:30,720 --> 00:16:34,770
 Genau. So hübsch wie du bist, könntest du einen Adligen heiraten.
 
-206
+204
 00:16:34,770 --> 00:16:37,060
 Lasst das! Habt ihr kein Taktgefühl?
 
-207
+205
 00:16:37,770 --> 00:16:38,560
 Wer ist das?
 
-208
+206
 00:16:39,310 --> 00:16:41,480
 Ach, du meinst den Admiral?
 
-209
+207
 00:16:41,480 --> 00:16:47,400
 Er heißt Mont Blanc Noland und ist ein
 renommierter Entdecker und Botaniker.
 
-210
+208
 00:16:47,400 --> 00:16:52,450
 Er besucht etliche unentdeckte Inseln und erforscht die Flora dort.
 
-211
+209
 00:16:52,450 --> 00:16:55,120
 In unserer Heimat wird er als Held verehrt.
 
-212
+210
 00:16:55,120 --> 00:16:57,620
 Leider ist er viel zu gutherzig.
 
-213
+211
 00:16:57,620 --> 00:17:00,870
 Dass er Leute in Not nicht
 ignorieren kann, schadet ihm manchmal.
 
-214
+212
 00:17:00,870 --> 00:17:02,960
 Aber wir vertrauen ihm!
 
-215
+213
 00:17:05,380 --> 00:17:08,630
 Warum haben Sie Kalgara
 davon abgehalten, ihn zu erledigen?
 
-216
+214
 00:17:08,630 --> 00:17:11,720
 Die Antwort wird sich morgen offenbaren.
 
-217
+215
 00:17:11,720 --> 00:17:14,140
 Er will unser Dorf retten.
 
-218
+216
 00:17:14,140 --> 00:17:16,220
 Es sollte nicht schaden, etwas zu warten.
 
-219
+217
 00:17:16,220 --> 00:17:17,980
 Wie können Sie so sorglos sein?
 
-220
+218
 00:17:17,980 --> 00:17:22,100
 Sie hören auf ihn, aber nicht auf die letzten Worte des Priesters?
 
-221
+219
 00:17:22,480 --> 00:17:25,570
 Kalgara! Sag du auch was!
 
-222
+220
 00:17:25,570 --> 00:17:28,280
 Wenn ich spüre,
 dass das Dorf in Gefahr ist,
 
-223
+221
 00:17:28,280 --> 00:17:32,950
 hole ich mir den Kopf des Mannes, ohne bis morgen zu warten.
 
-224
+222
 00:17:33,950 --> 00:17:37,370
 Ich bin nicht in der Lage,
 die Stimmen der Götter zu hören.
 
-225
+223
 00:17:37,950 --> 00:17:44,220
 Aber ich erkenne es, wenn ein Mann aufrichtige Worte spricht.
 
-226
+224
 00:17:44,220 --> 00:17:45,840
 Das ist alles.
 
-227
+225
 00:17:51,050 --> 00:17:53,050
 Solltest du echt noch wach sein?
 
-228
+226
 00:17:53,050 --> 00:17:53,840
 Ich bin geheilt.
 
-229
+227
 00:17:55,930 --> 00:17:58,020
 Großer Krieger Kalgara...
 
-230
+228
 00:17:58,770 --> 00:18:02,060
 Was bedeutet „Fortschritt“?
 
-231
+229
 00:18:11,030 --> 00:18:14,200
 Da ist einer! Ein Kona-Baum!
 
-232
+230
 00:18:14,570 --> 00:18:18,660
 Wäre auch seltsam, wenn in so einem großen Wald keiner wäre.
 
-233
+231
 00:18:24,000 --> 00:18:25,830
 Ein Erdbeben!
 
-234
+232
 00:18:25,830 --> 00:18:27,340
 Oh nein!
 
-235
+233
 00:18:27,340 --> 00:18:29,250
 Das ist der Fluch des Kashigami!
 
-236
+234
 00:18:33,180 --> 00:18:35,390
 Lasst uns hier raus!
 
-237
+235
 00:18:47,150 --> 00:18:51,740
 Hier sieht es furchtbar aus.
 Der Waldboden ist abgesunken.
 
-238
+236
 00:18:51,740 --> 00:18:54,200
 Als ob die Insel entzwei gerissen würde.
 
-239
+237
 00:19:04,460 --> 00:19:05,830
 Geschieht dir recht!
 
-240
+238
 00:19:06,580 --> 00:19:10,500
 Die Götter haben dir also eigenhändig den Gnadenstoß versetzt.
 
-241
+239
 00:19:12,510 --> 00:19:18,010
 Dann müssen die Götter noch ’ne Menge üben.
 
-242
+240
 00:19:18,010 --> 00:19:22,220
 Wenn sie nicht mal einen einzigen Mann töten können!
 
-243
+241
 00:19:25,230 --> 00:19:27,350
 Du bist echt hartnäckig.
 
-244
+242
 00:19:27,350 --> 00:19:30,070
 Entschuldige, aber würdest du bitte verschwinden?
 
-245
+243
 00:19:30,070 --> 00:19:32,690
 Ich will dich nicht sehen.
 
-246
+244
 00:19:32,690 --> 00:19:34,360
 Ich muss
 
-247
+245
 00:19:34,360 --> 00:19:36,200
 schnell ins Dorf.
 
-248
+246
 00:19:36,450 --> 00:19:39,830
 Faszinierend. Ich werde bis zum Ende dabeibleiben.
 
-249
+247
 00:19:40,700 --> 00:19:42,580
 Winde dich ruhig!
 
-250
+248
 00:19:43,790 --> 00:19:47,580
 Noch ein Krieger ist von uns gegangen.
 
-251
+249
 00:19:47,580 --> 00:19:49,730
 Und dann das Erdbeben gerade.
 
-252
+250
 00:19:49,730 --> 00:19:50,670
 Verdammt!
 
-253
+251
 00:19:55,340 --> 00:19:57,880
 Ihr seid böse Geister.
 
-254
+252
 00:19:57,880 --> 00:20:00,890
 Wir beenden es hier und jetzt!
 
-255
+253
 00:19:59,220 --> 00:20:00,890
 So war das nicht abgemacht! Wartet!
 
-256
+254
 00:20:00,890 --> 00:20:02,180
 Aufhören!
 
-257
+255
 00:20:01,600 --> 00:20:02,180
 Hey!
 
-258
+256
 00:20:11,230 --> 00:20:12,230
 Was soll das werden?
 
-259
+257
 00:20:09,400 --> 00:20:11,230
 Seto, aus dem Weg!
 
-260
+258
 00:20:13,110 --> 00:20:15,860
 Die Krieger Shandoras, die ich so bewundere
 
-261
+259
 00:20:16,740 --> 00:20:19,070
 sollten doch mehr Stolz haben!
 
-262
+260
 00:20:19,910 --> 00:20:21,240
 Junge...
 
-263
+261
 00:20:22,330 --> 00:20:26,870
 Wenn die Sonne sinkt und erneut im Westen untergeht
 
-264
+262
 00:20:27,250 --> 00:20:32,090
 werden die Leben deiner Männer den Göttern geopfert.
 
-265
+263
 00:20:39,720 --> 00:20:41,550
 Scheißdreck!
 
-266
+264
 00:20:46,020 --> 00:20:49,730
 Die Erde hat dich echt treffsicher verschluckt.
 
-267
+265
 00:20:49,730 --> 00:20:51,730
 Ein waschechter Zug der Götter.
 
-268
+266
 00:20:51,730 --> 00:20:54,150
 Umso unglaublicher, dass du noch lebst.
 
-269
+267
 00:21:04,280 --> 00:21:05,740
 Er bewegt den Boden?!
 
-270
+268
 00:21:20,880 --> 00:21:22,760
 Bereitet die Zeremonie vor!
 
-271
+269
 00:21:22,760 --> 00:21:25,060
 Bringt ohne Ausnahme alle zum Altar!
 
-272
+270
 00:21:25,470 --> 00:21:26,890
 Hey, wartet noch etwas.
 
-273
+271
 00:21:26,890 --> 00:21:28,250
 Der Admiral wird schon kommen!
 
-274
+272
 00:21:28,250 --> 00:21:30,770
 Gebt ihm zwei Stunden! Ach was, eine!
 
-275
+273
 00:21:30,770 --> 00:21:33,100
 Wieso werden wir auf dem Scheiterhaufen verbrannt?!
 
-276
+274
 00:21:34,900 --> 00:21:36,690
 Die Sonne senkt sich.
 
-277
+275
 00:21:36,690 --> 00:21:38,610
 Die Zeremonie geht gleich los.
 
-278
+276
 00:21:40,900 --> 00:21:42,790
 Wie erbärmlich!
 
-279
+277
 00:21:43,450 --> 00:21:48,200
 Ist das das Wrack des Mannes,
 der gegen die Götter aufbegehrt?
 
-280
+278
 00:21:48,200 --> 00:21:51,080
 Wovor habt ihr solche Angst?
 
-281
+279
 00:21:51,080 --> 00:21:52,250
 Wie bitte?
 
-282
+280
 00:21:52,670 --> 00:21:55,460
 Ihr zittert im Angesicht einer unsichtbaren Bedrohung
 
-283
+281
 00:21:55,460 --> 00:21:58,630
 und opfert Menschenleben,
 um euer Gewissen zu beruhigen!
 
-284
+282
 00:21:58,630 --> 00:22:00,220
 Unser Gewissen zu beruhigen?!
 
-285
+283
 00:22:00,670 --> 00:22:03,550
 All die Opfer sterben sinnlos!
 
-286
+284
 00:22:08,890 --> 00:22:14,020
 So leben wir nun schon seit Jahrhunderten!
 
-287
+285
 00:22:14,020 --> 00:22:16,610
 Das macht es nicht richtiger!
 
-288
+286
 00:22:16,610 --> 00:22:18,120
 Schweig still!
 
-289
+287
 00:22:18,120 --> 00:22:19,940
 Du kommst nicht von hier!
 
-290
+288
 00:22:21,950 --> 00:22:25,410
 Wie erhaben eure Götter auch sein mögen,
 
-291
+289
 00:22:25,410 --> 00:22:28,580
 die Leben der Menschen sind mehr wert!
 
-292
+290
 00:22:31,250 --> 00:22:33,420
 Bringt die Opfer zum Altar!
 
-293
+291
 00:22:33,420 --> 00:22:36,590
 Verbrennt sie auf dem Scheiterhaufen und schickt sie gen Himmel!
 
-294
+292
 00:22:42,010 --> 00:22:44,050
 Admiral!
 
-295
+293
 00:22:44,050 --> 00:22:46,430
 Die wollen uns verbrennen!
 
-296
+294
 00:22:48,850 --> 00:22:51,810
 Ihr, die ihr ohne mit der Wimper zu zucken
 
-297
+295
 00:22:53,560 --> 00:22:57,480
 ein unschuldiges Mädchen in den
 Tod schickt, könnt das nicht verstehen.
 
-298
+296
 00:22:57,860 --> 00:23:01,280
 Was ihr tut, ist unmenschlich!
 
-299
+297
 00:23:04,280 --> 00:23:06,780
 „Ohne mit der Wimper zu zucken“?
 
-300
+298
 00:23:09,120 --> 00:23:11,370
 Das Mädchen gestern...
 
-301
+299
 00:23:12,830 --> 00:23:14,660
 Das war meine Tochter!
 
-302
+300
 00:23:16,630 --> 00:23:21,340
 Du würdest das Leben deiner eigenen Tochter opfern?!
 
-303
+301
 00:23:21,340 --> 00:23:26,590
 Ihr seid es, die nicht begreift, welche Kraft in den Worten stecken,
 
-304
+302
 00:23:26,590 --> 00:23:29,180
 die die Priester von den Göttern hören!
 
-305
+303
 00:23:29,720 --> 00:23:32,180
 Es ist ein Gebot des Dorfes,
 sich dem zu fügen!
 
-306
+304
 00:23:32,560 --> 00:23:35,890
 Wir dürfen nicht um die Leben unserer Kinder betteln!
 
-307
+305
 00:23:43,280 --> 00:23:46,570
 Eine Größe kleiner. Das muss das Kind des Kashigami sein.
 
-308
+306
 00:23:47,860 --> 00:23:51,450
 Gottes Blut ist hier, um dich zu bestrafen.
 
-309
+307
 00:23:51,910 --> 00:23:54,160
 Von wegen Strafe!
 
-310
+308
 00:23:55,870 --> 00:24:01,130
 Vor sechzig Jahren hat mein Land 100.000 Leben
 
-311
+309
 00:24:01,130 --> 00:24:05,840
 an das Baumfieber verloren, das euer Dorf nun heimsucht!
 
-312
+310
 00:24:06,220 --> 00:24:10,800
 Aber in letzter Zeit ist kein einziger Mensch daran gestorben!
 
-313
+311
 00:24:11,510 --> 00:24:13,970
 Weißt du, warum das so ist?
 
-314
+312
 00:24:14,890 --> 00:24:18,140
 Weil wir ein Heilmittel entdeckt haben!
 
-315
+313
 00:24:19,060 --> 00:24:22,650
 In meiner rechten Hand befindet sich die Rinde des Kona-Baums.
 
-316
+314
 00:24:23,150 --> 00:24:27,490
 Daraus werde ich eine Substanz namens „Konine“ entnehmen.
 
-317
+315
 00:24:27,950 --> 00:24:31,870
 Wenn ich die zurückbringe, kann ich das Dorf retten!
 
-318
+316
 00:24:36,000 --> 00:24:40,210
 Ist dir klar, wie viel Zeit die Leute auf der Welt damit verbracht haben
 
-319
+317
 00:24:40,210 --> 00:24:44,840
 und wie viele Opfer es gefordert hat?
 
-320
+318
 00:24:44,840 --> 00:24:50,090
 Ihr tretet diese großartigen Fortschritte mit Füßen!
 
-321
+319
 00:24:50,090 --> 00:24:57,730
 Deshalb sagte ich, dass eure Zeremonien
 eine Beleidigung für diese Leute sind!
 
-322
+320
 00:24:58,020 --> 00:25:04,150
 Werde ich letztlich durch die Strafe der Götter oder einen Unfall sterben?
 
-323
+321
 00:25:04,150 --> 00:25:08,990
 Wird ein Fluch oder eine Krankheit dein Dorf dahinraffen?
 
-324
+322
 00:25:08,990 --> 00:25:13,450
 Hast du wirklich solche Angst vor den Göttern?!
 
-325
+323
 00:25:15,290 --> 00:25:19,290
 Aber ich erkenne es, wenn ein Mann aufrichtige Worte spricht.
 
-326
+324
 00:25:22,460 --> 00:25:23,630
 Verrate mir eins!
 
-327
+325
 00:25:26,500 --> 00:25:29,470
 Was habe ich gerade getötet?
 
-328
+326
 00:25:30,050 --> 00:25:30,970
 Eine Schlange.
 
-329
+327
 00:25:30,970 --> 00:25:32,260
 Nein!
 
-330
+328
 00:25:32,800 --> 00:25:37,470
 Ich habe gerade unser Gebot gebrochen und einen Gott getötet!
 
-331
+329
 00:25:37,470 --> 00:25:41,040
 Doch du nennst ihn eine Schlange und den Fluch,
 
-332
+330
 00:25:41,040 --> 00:25:44,730
 der unsere Leute tötet, eine Krankheit!
 
-333
+331
 00:25:49,190 --> 00:25:54,570
 Wirst du mein geliebtes Dorf wirklich retten?
 
-334
+332
 00:25:54,570 --> 00:25:56,660
 Kannst du es retten?
 
-335
+333
 00:25:57,700 --> 00:25:59,000
 Das kann ich!
+
+334
+00:04:06,350 --> 00:04:11,650
+Jaya, Grand Line
+Vor 400 Jahren
+
+335
+00:04:06,350 --> 00:04:11,650
+Jaya, Grand Line
+Vor 400 Jahren
 
 336
 00:04:06,350 --> 00:04:11,650
@@ -1376,14 +1372,14 @@ Jaya, Grand Line
 Vor 400 Jahren
 
 337
-00:04:06,350 --> 00:04:11,650
-Jaya, Grand Line
-Vor 400 Jahren
+00:04:58,190 --> 00:05:04,080
+Kalgara
+Shandoras großer Krieger
 
 338
-00:04:06,350 --> 00:04:11,650
-Jaya, Grand Line
-Vor 400 Jahren
+00:04:58,190 --> 00:05:04,080
+Kalgara
+Shandoras großer Krieger
 
 339
 00:04:58,190 --> 00:05:04,080
@@ -1391,26 +1387,26 @@ Kalgara
 Shandoras großer Krieger
 
 340
-00:04:58,190 --> 00:05:04,080
-Kalgara
-Shandoras großer Krieger
+00:05:12,000 --> 00:05:18,550
+Irgendwo auf der Grand Line
 
 341
-00:04:58,190 --> 00:05:04,080
-Kalgara
-Shandoras großer Krieger
+00:05:12,000 --> 00:05:18,550
+Irgendwo auf der Grand Line
 
 342
 00:05:12,000 --> 00:05:18,550
 Irgendwo auf der Grand Line
 
 343
-00:05:12,000 --> 00:05:18,550
-Irgendwo auf der Grand Line
+00:06:12,480 --> 00:06:17,440
+Mont Blanc Noland
+Admiral des Expeditionsschiffes
 
 344
-00:05:12,000 --> 00:05:18,550
-Irgendwo auf der Grand Line
+00:06:12,480 --> 00:06:17,440
+Mont Blanc Noland
+Admiral des Expeditionsschiffes
 
 345
 00:06:12,480 --> 00:06:17,440
@@ -1418,14 +1414,16 @@ Mont Blanc Noland
 Admiral des Expeditionsschiffes
 
 346
-00:06:12,480 --> 00:06:17,440
-Mont Blanc Noland
-Admiral des Expeditionsschiffes
+00:06:49,680 --> 00:07:01,820
+21. Mai 1122
+Anno Maris
+Jaya, Grand Line
 
 347
-00:06:12,480 --> 00:06:17,440
-Mont Blanc Noland
-Admiral des Expeditionsschiffes
+00:06:49,680 --> 00:07:01,820
+21. Mai 1122
+Anno Maris
+Jaya, Grand Line
 
 348
 00:06:49,680 --> 00:07:01,820
@@ -1434,25 +1432,14 @@ Anno Maris
 Jaya, Grand Line
 
 349
-00:06:49,680 --> 00:07:01,820
-21. Mai 1122
-Anno Maris
-Jaya, Grand Line
+00:18:18,700 --> 00:18:24,710
+In der Dämmerung
 
 350
-00:06:49,680 --> 00:07:01,820
-21. Mai 1122
-Anno Maris
-Jaya, Grand Line
+00:18:18,700 --> 00:18:24,710
+In der Dämmerung
 
 351
 00:18:18,700 --> 00:18:24,710
 In der Dämmerung
 
-352
-00:18:18,700 --> 00:18:24,710
-In der Dämmerung
-
-353
-00:18:18,700 --> 00:18:24,710
-In der Dämmerung

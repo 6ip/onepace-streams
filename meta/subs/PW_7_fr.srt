@@ -2338,9 +2338,6 @@ L'Île de Sable Blanc, Baltigo
 00:09:12,730 --> 00:09:22,110
 Escargophone Blanc
 
-(Émet des ondes permettant
-de brouiller les écoutes clandestines)
-
 531
 00:20:12,990 --> 00:20:17,960
 Terre Sainte de Marie Joie, Red Line
@@ -3228,3 +3225,4 @@ N'oublie pas
 752
 00:02:25,540 --> 00:02:27,640
 Que nous combattons ensemble.
+

@@ -178,51 +178,17 @@ Si mis ojos no me engañan, ese hombre es...
 00:05:52,000 --> 00:05:55,120
 VAGÓN N°. 1
 
-
-
-
-
-
-
-PUFFING TOM
-
 46
 00:05:52,000 --> 00:05:55,120
 VAGÓN N°. 1
-
-
-
-
-
-
-
-PUFFING TOM
 
 47
 00:10:10,580 --> 00:10:13,590
 ISLA JUDICIAL
 
-
-
-
-
-
-
-
-ENIES LOBBY
-
 48
 00:10:10,580 --> 00:10:13,590
 ISLA JUDICIAL
-
-
-
-
-
-
-
-
-ENIES LOBBY
 
 49
 00:12:46,030 --> 00:12:50,490
@@ -2694,9 +2660,3 @@ seguramente habrá un mañana.
 00:26:17,890 --> 00:26:24,310
 seguramente habrá un mañana.
 
-621
-00:01:49,940 --> 00:01:59,940
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io

@@ -1,648 +1,635 @@
 1
-00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-2
-00:02:25,660 --> 00:02:35,710
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-3
 00:00:00,260 --> 00:00:05,130
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-4
+2
 00:00:05,200 --> 00:00:08,800
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-5
+3
 00:00:08,870 --> 00:00:12,340
 ¡Ya hemos superado muchos obstáculos!
 
-6
+4
 00:00:12,440 --> 00:00:17,750
 ¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
 
-7
+5
 00:00:23,420 --> 00:00:30,740
 "Ya casi lo logro, un poco más y consigo la respuesta".
 
-8
+6
 00:00:30,830 --> 00:00:38,420
 Eso es lo que creemos al adentrarnos en este nuevo mundo.
 
-9
+7
 00:00:38,470 --> 00:00:45,920
 Resulta que los fragmentos de nuestros sueños se han fundido en uno.
 
-10
+8
 00:00:45,970 --> 00:00:54,020
 ¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
 
-11
+9
 00:00:54,070 --> 00:00:58,650
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-12
+10
 00:00:58,720 --> 00:01:02,470
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-13
+11
 00:01:02,470 --> 00:01:05,860
 ¡Ya hemos superado muchos obstáculos!
 
-14
+12
 00:01:05,890 --> 00:01:09,880
 ¡No nos detengamos, sigamos adelante!
 
-15
+13
 00:01:09,960 --> 00:01:11,370
 ¡Miren más arriba!
 
-16
+14
 00:01:11,400 --> 00:01:13,600
 ¡Con la cabeza bien en alto!
 
-17
+15
 00:01:13,640 --> 00:01:15,040
 ¡Siempre avanzando!
 
-18
+16
 00:01:15,040 --> 00:01:16,940
 ¡Volemos por encima de las olas!
 
-19
+17
 00:01:16,970 --> 00:01:20,480
 Unamos todos nuestros deseos en uno solo.
 
-20
+18
 00:01:20,510 --> 00:01:24,730
 ¡Dirijámonos al futuro!
 
-21
+19
 00:01:24,980 --> 00:01:31,120
 Avanzamos sin rumbo, surcando las olas.
 
-22
+20
 00:01:31,170 --> 00:01:35,390
 Encuentros, despedidas, una y otra vez.
 
-23
+21
 00:01:35,420 --> 00:01:39,590
 Siempre ante esta bandera...
 
-24
+22
 00:01:41,360 --> 00:01:44,770
 El dolor que no quiero olvidar lo guardo en mi corazón...
 
-25
+23
 00:01:44,830 --> 00:01:48,270
 ...desde aquel día en que lo grabé en mi interior.
 
-26
+24
 00:01:48,340 --> 00:01:51,910
 ¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
 
-27
+25
 00:01:51,970 --> 00:01:54,810
 ...y jamás se me escapará!
 
-28
+26
 00:01:54,840 --> 00:01:59,780
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-29
+27
 00:01:59,810 --> 00:02:03,470
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-30
+28
 00:02:03,520 --> 00:02:06,720
 ¡Ya hemos superado muchos obstáculos!
 
-31
+29
 00:02:06,750 --> 00:02:10,910
 ¡No nos detengamos, sigamos adelante!
 
-32
+30
 00:02:10,960 --> 00:02:12,280
 ¡Miren más arriba!
 
-33
+31
 00:02:12,330 --> 00:02:14,560
 ¡Con la cabeza bien en alto!
 
-34
+32
 00:02:14,580 --> 00:02:15,980
 ¡Siempre avanzando!
 
-35
+33
 00:02:16,030 --> 00:02:17,780
 ¡Volemos por encima de las olas!
 
-36
+34
 00:02:17,830 --> 00:02:21,540
 Unamos todos nuestros deseos en uno solo.
 
-37
+35
 00:02:21,600 --> 00:02:24,990
 ¡Dirijámonos al futuro!
 
-38
+36
 00:02:25,080 --> 00:02:29,930
 ¡Levanten las manos!
 
-39
+37
 00:02:33,830 --> 00:02:38,500
 Dentro de cinco minutos el laboratorio estará lleno de Shinokuni, el gas asesino.
 
-40
+38
 00:02:38,500 --> 00:02:45,490
 Los supervivientes se dirigen hacia su única ruta de escape, la Puerta 66 de la Torre R, pero...
 
-41
+39
 00:03:39,130 --> 00:03:43,970
 PISO 2 DE LA TORRE B - LABORATORIO
 
-42
+40
 00:05:00,080 --> 00:05:01,830
 PISO 1 DE LA TORRE R
 
-43
+41
 00:05:32,700 --> 00:05:35,480
 ¡Sala secreta, respondan!
 
-44
+42
 00:05:46,680 --> 00:05:48,710
 P-Pero si hacemos eso...
 
-45
+43
 00:05:56,060 --> 00:05:58,300
 ¡De inmediato!
 
-46
+44
 00:06:04,660 --> 00:06:08,080
 ¡Pero todavía hay decenas de guardias allí!
 
-47
+45
 00:06:19,360 --> 00:06:21,130
 ¡Dejen de holgazanear!
 
-48
+46
 00:06:21,130 --> 00:06:22,780
 ¡¿No me escuchan?!
 
-49
+47
 00:06:22,780 --> 00:06:26,770
 ¡Da igual cuántos de ustedes mueran, 
 siempre podré encontrar quien los reemplace!
 
-50
+48
 00:06:33,240 --> 00:06:36,590
 Parece que al fin se han dado
  cuenta de quién es Caesar.
 
-51
+49
 00:06:38,130 --> 00:06:38,880
 ¡Son Zoro y los demás!
 
-52
+50
 00:06:41,050 --> 00:06:44,080
 Se ve que la están pasando mal.
 
-53
+51
 00:06:44,820 --> 00:06:48,150
 ¿Podrán controlar las puertas desde aquí?
 
-54
+52
 00:07:15,250 --> 00:07:16,790
 ¡Por supuesto que no!
 
-55
+53
 00:07:53,970 --> 00:07:55,500
 Shinokuni
 
-56
+54
 00:07:55,500 --> 00:07:55,670
 Shinokuni
 
-57
+55
 00:07:55,670 --> 00:07:55,770
 Shinokuni
 
-58
+56
 00:07:55,770 --> 00:07:55,940
 Shinokuni
 
-59
+57
 00:07:55,940 --> 00:07:56,040
 Shinokuni
 
-60
+58
 00:07:56,040 --> 00:07:56,140
 Shinokuni
 
-61
+59
 00:07:56,140 --> 00:07:56,300
 Shinokuni
 
-62
+60
 00:07:56,300 --> 00:07:56,400
 Shinokuni
 
-63
+61
 00:07:56,400 --> 00:07:56,470
 Shinokuni
 
-64
+62
 00:07:59,440 --> 00:08:07,980
 Shinokuni
 
-65
+63
 00:11:45,980 --> 00:11:50,520
 Mola
 
-66
+64
 00:11:45,980 --> 00:11:50,520
 Shi
 
-67
+65
 00:11:45,980 --> 00:11:50,520
 Chibukai
 
-68
+66
 00:11:45,980 --> 00:11:50,520
 Fansub!
 
-69
+67
 00:11:45,980 --> 00:11:50,520
 Revólver del oso pardo.
 
-70
+68
 00:12:22,520 --> 00:12:24,860
 EN VARIAS PARTES DEL NUEVO MUNDO
 
-71
+69
 00:12:53,900 --> 00:12:54,990
 PISO 2 DE LA TORRE B
 
-72
+70
 00:13:00,460 --> 00:13:02,160
 Chopper, ¿puedes oírme?
 
-73
+71
 00:13:04,660 --> 00:13:07,970
 Tomen las escaleras que están más adelante.
 
-74
+72
 00:13:07,970 --> 00:13:10,670
 Es el camino más corto para llegar a la Torre R.
 
-75
+73
 00:13:10,740 --> 00:13:13,700
 PISO 2 DE LA TORRE R - SALA SECRETA
 
-76
+74
 00:13:45,240 --> 00:13:49,870
 ¿Que Momonosuke se transformó
  en un dragón pequeño?
 
-77
+75
 00:13:49,870 --> 00:13:50,810
 Sí.
 
-78
+76
 00:13:50,810 --> 00:13:52,940
 Es un secreto, pero es la verdad.
 
-79
+77
 00:13:53,860 --> 00:13:57,500
 Cadáver-dono, es muy probable que
  el dragón al que acabamos de ultimar...
 
-80
+78
 00:14:04,090 --> 00:14:05,940
 ¡Momonosuke!
 
-81
+79
 00:14:05,940 --> 00:14:08,480
 ¡He hecho algo imperdonable!
 
-82
+80
 00:14:08,480 --> 00:14:11,410
 ¡Kin'emon-san, no corras en esa dirección!
 
-83
+81
 00:14:12,830 --> 00:14:15,880
 ¡El gas asesino ya está frente a nosotros!
 
-84
+82
 00:14:15,880 --> 00:14:20,570
 ¡Aunque esté lleno de gas o fuego, no hay camino por el que no podamos andar!
 
-85
+83
 00:14:20,570 --> 00:14:22,250
 ¡Momonosuke!
 
-86
+84
 00:14:22,250 --> 00:14:25,540
 ¡Es imposible, Kin'emon-san!
 
-87
+85
 00:14:30,590 --> 00:14:31,920
 PISO 1 DE LA TORRE R
 
-88
+86
 00:14:51,300 --> 00:14:54,090
 Por los niños no te preocupes.
 
-89
+87
 00:14:54,090 --> 00:14:55,940
 Mis compañeros están ayudándolos.
 
-90
+88
 00:14:55,940 --> 00:14:59,390
 Si alguien puede hacerlo, son ellos.
 
-91
+89
 00:14:59,390 --> 00:15:01,830
 No te preocupes.
 
-92
+90
 00:15:21,240 --> 00:15:24,800
 PASILLO ENTRE LAS TORRES R Y D
 
-93
+91
 00:16:38,040 --> 00:16:40,820
 Retrocedemos un poco en el tiempo.
 
-94
+92
 00:16:42,300 --> 00:16:45,480
 En el cielo cerca de Punk Hazard...
 
-95
+93
 00:16:46,360 --> 00:16:52,360
 PIRATAS DE DONQUIXOTE
 
-96
+94
 00:16:46,360 --> 00:16:52,360
 SIRVIENTE/ASESINA - BABY 5
 
-97
+95
 00:16:50,140 --> 00:16:52,360
 FRUTA BUKI BUKI,
 HUMANO-ARMA DE CUERPO COMPLETO.
 
-98
+96
 00:16:46,140 --> 00:16:48,900
 Cuando esta misión termine, él morirá.
 
-99
+97
 00:16:48,900 --> 00:16:52,360
 Lo mataré al regresar.
 
-100
+98
 00:16:52,360 --> 00:16:54,610
 ¡A ese maldito Joker!
 
-101
+99
 00:16:54,610 --> 00:17:00,580
 ¡Mató a mi querido prometido
  junto con todo el pueblo!
 
-102
+100
 00:17:00,580 --> 00:17:02,130
 ¡No permitiré que siga viviendo!
 
-103
+101
 00:17:02,130 --> 00:17:10,110
 ¡Esta es la octava vez que mata a un
  prometido mío junto con todo el pueblo!
 
-104
+102
 00:17:10,860 --> 00:17:14,360
 ¿Por qué siempre tiene que arruinar mi felicidad?
 
-105
+103
 00:17:15,190 --> 00:17:17,260
 Esa es la forma de amar
  del joven amo-dasuyan.
 
-106
+104
 00:17:17,260 --> 00:17:21,770
 El joven maestro te considera su hermana menor.
 
-107
+105
 00:17:21,770 --> 00:17:25,160
 Por eso destruye esos pueblos-dasuyan.
 
-108
+106
 00:17:16,490 --> 00:17:25,160
 PIRATAS DE DONQUIXOTE
 
-109
+107
 00:17:16,490 --> 00:17:25,160
 GUERRERO - BUFFALO
 
-110
+108
 00:17:19,270 --> 00:17:25,160
 FRUTA GURU GURU, HUMANO GIRATORIO
 
-111
+109
 00:17:26,480 --> 00:17:30,140
 Debes aprender a rechazar propuestas.
 
-112
+110
 00:17:30,140 --> 00:17:32,160
 ¿Cómo iba a hacer eso?
 
-113
+111
 00:17:32,160 --> 00:17:35,920
 ¡Me necesitaba!
 
-114
+112
 00:17:38,020 --> 00:17:41,060
 Fue amor a primera vista, cásate conmigo.
 
-115
+113
 00:17:47,780 --> 00:17:53,070
 Debes hacer algo con ese hábito
  de nunca rechazar a nadie.
 
-116
+114
 00:17:53,070 --> 00:17:57,070
 Es extraño que te hayas 
 suscrito a cincuenta periódicos.
 
-117
+115
 00:17:57,070 --> 00:18:01,740
 Le prestas mucho dinero a las personas y te convencen de comprar muchas cosas.
 
-118
+116
 00:18:01,740 --> 00:18:03,790
 ¿Cuánto dinero debes ahora?
 
-119
+117
 00:18:04,340 --> 00:18:08,520
 ¡Cállate! ¡Debo 98 millones de bellies!
 
-120
+118
 00:18:08,520 --> 00:18:12,360
 Es mi vida, deja que haga 
 lo que quiera con ella.
 
-121
+119
 00:18:13,250 --> 00:18:14,640
 ¡Ah, sí!
 
-122
+120
 00:18:14,640 --> 00:18:17,140
 ¡Préstame dos millones!
 
-123
+121
 00:18:18,700 --> 00:18:21,770
 ¡Me necesita!
 
-124
+122
 00:18:22,540 --> 00:18:23,810
 Esto...
 
-125
+123
 00:18:23,810 --> 00:18:26,130
 ¿Para cuándo los necesitas?
 
-126
+124
 00:18:27,410 --> 00:18:30,090
 Quiero ir al casino cuando regresemos.
 
-127
+125
 00:18:30,090 --> 00:18:35,410
 Entonces conseguiré el dinero 
 en cuanto terminemos esta misión.
 
-128
+126
 00:18:37,960 --> 00:18:43,600
 Cumpliré con la misión que me han asignado, pero aun así voy a matar a Joker.
 
-129
+127
 00:18:45,490 --> 00:18:46,670
 La veo.
 
-130
+128
 00:18:47,050 --> 00:18:49,940
 ¡Es Punk Hazard-dasuyan!
 
-131
+129
 00:18:51,610 --> 00:18:54,180
 El gas de Caesar cubre
  toda la isla, no veo nada.
 
-132
+130
 00:18:54,670 --> 00:18:57,250
 Me pregunto si podré hacer explotar el gas.
 
-133
+131
 00:18:58,640 --> 00:19:00,050
 ¡Yo me encargaré!
 
-134
+132
 00:19:00,050 --> 00:19:03,150
 Salta y dame un poco de espacio, Baby 5.
 
-135
+133
 00:19:10,830 --> 00:19:12,500
 ¡Observa!
 
-136
+134
 00:19:12,500 --> 00:19:15,630
 ¡Este es el poder de un huracán!
 
-137
+135
 00:19:18,170 --> 00:19:22,310
 ¡Toppuu Matasaburo!
 
-138
+136
 00:19:17,900 --> 00:19:22,110
 Mola
 
-139
+137
 00:19:17,900 --> 00:19:22,110
 Shi
 
-140
+138
 00:19:17,900 --> 00:19:22,110
 Chibukai
 
-141
+139
 00:19:17,900 --> 00:19:22,110
 Fansub!
 
-142
+140
 00:19:17,900 --> 00:19:22,110
 Ráfaga de Matasaburo.
 
-143
+141
 00:19:29,360 --> 00:19:33,820
 Si esperamos allí, Caesar, Monet
  y Vergo vendrán a recibirnos.
 
-144
+142
 00:19:36,000 --> 00:19:39,400
 Me muero de ganas por regresar 
 para jugar a la ruleta-dasuyan.
 
-145
+143
 00:19:47,700 --> 00:19:49,680
 ¿Ha estallado el buque?
 
-146
+144
 00:19:49,680 --> 00:19:52,670
 No, algo ha chocado contra él-dasuyan.
 
-147
+145
 00:19:56,480 --> 00:19:58,240
 Hay una persona tirada ahí.
 
-148
+146
 00:20:00,010 --> 00:20:01,850
 ¡¿Caesar Clown?!
 
-149
+147
 00:20:03,080 --> 00:20:06,800
 DRESSROSA
 
-150
+148
 00:20:08,020 --> 00:20:12,220
 Joker, aquí Buffalo reportando desde Punk Hazard.
 
-151
+149
 00:20:12,220 --> 00:20:15,960
 Joker, ya hemos llegado a Punk Hazard-dasuyan.
 
-152
+150
 00:20:15,960 --> 00:20:23,770
 Por alguna razón, parece que le han dado una paliza a Caesar y ha salido volando-dasuyan.
 
-153
+151
 00:20:43,790 --> 00:20:46,520
 Entendido, Joker.
 
-154
+152
 00:20:52,010 --> 00:20:53,920
 Qué idiotas.
 
-155
+153
 00:20:53,920 --> 00:20:59,440
 Oigan, mocosos, el cielo está de mi lado.
 
-156
+154
 00:20:59,440 --> 00:21:02,040
 Mientras tenga a Caesar,
 
-157
+155
 00:21:02,040 --> 00:21:05,910
 podré fabricar más SAD.
+

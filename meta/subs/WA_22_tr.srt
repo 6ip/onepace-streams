@@ -1,1243 +1,1239 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:41,870 --> 00:01:51,860
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:51,750 --> 00:01:54,430
 Nasıl ölebilir?!
 
-4
+2
 00:01:55,000 --> 00:01:57,000
 Komurasaki-sama!
 
-5
+3
 00:02:02,060 --> 00:02:04,900
 Seni tekrar görmek için her şeyimi verirdim!
 
-6
+4
 00:02:14,660 --> 00:02:17,330
 Görmek istediğim
 Oiran geçit töreni bu değildi.
 
-7
+5
 00:02:17,330 --> 00:02:20,580
 Komurasaki-sama'yı nereye götürüyorsunuz?!
 
-8
+6
 00:02:20,580 --> 00:02:22,910
 Orochi-sama'ya karşı çıktı.
 
-9
+7
 00:02:22,910 --> 00:02:26,210
 Rasetsu Hapishanesi'nde bir suçlu gibi yakılacak.
 
-10
+8
 00:02:35,530 --> 00:02:37,350
 Tonoyasu'yu mu yakalamışlar?!
 
-11
+9
 00:02:37,350 --> 00:02:39,640
 Neler dönüyor burada?!
 
-12
+10
 00:02:39,640 --> 00:02:42,430
 Tonoyasu-san'ın İblis Saati Çocuğu
 olduğuna inanamıyorum!
 
-13
+11
 00:02:44,010 --> 00:02:45,690
 İblis Saati Çocuğu...
 
-14
+12
 00:02:45,690 --> 00:02:49,110
 Usta hırsız, her gece zenginlerden çaldığı serveti...
 
-15
+13
 00:02:49,110 --> 00:02:54,210
 yoksullara ve muhtaçlara dağıtırdı.
 
-16
+14
 00:02:55,990 --> 00:02:57,280
 Hırsız mı?!
 
-17
+15
 00:02:58,090 --> 00:02:59,620
 Şu eski kafalı mı?
 
-18
+16
 00:03:00,610 --> 00:03:02,470
 İblis Saati Çocuğu...
 
-19
+17
 00:03:02,470 --> 00:03:04,960
 Çiçek Başkenti onun ismiyle çalkalanıyordu.
 
-20
+18
 00:03:05,750 --> 00:03:09,380
 Anlayamıyorum.
 Aziz falan değil miydi o?
 
-21
+19
 00:03:24,100 --> 00:03:25,350
 Tonoyasu-san!
 
-22
+20
 00:03:29,710 --> 00:03:31,440
 Neden herkes gülüyor?!
 
-23
+21
 00:03:31,440 --> 00:03:34,570
 Adamınız çarmıha geriliyor!
 
-24
+22
 00:03:40,040 --> 00:03:43,260
 Tonoyasu-san gerçekten İblis Saati Çocuğu mu?!
 
-25
+23
 00:03:43,260 --> 00:03:47,500
 Doğruysa bile artık fark etmez.
 
-26
+24
 00:03:49,210 --> 00:03:52,920
 Onu hatırladım! O saçlar...!
 
-27
+25
 00:03:54,050 --> 00:03:56,930
 Tonoyasu onun takma adı.
 
-28
+26
 00:03:57,940 --> 00:03:59,640
 O hâlde kim o?
 
-29
+27
 00:04:01,510 --> 00:04:05,850
 Çiçek Başkenti karışacak gibi duruyor.
 
-30
+28
 00:04:05,850 --> 00:04:07,810
 Görüntü yansıtıcı salyangozu açın.
 
-31
+29
 00:04:20,370 --> 00:04:21,870
 Onu tanıyor musun?
 
-32
+30
 00:04:23,130 --> 00:04:25,160
 E-Evet. Çok iyi tanıyorum.
 
-33
+31
 00:04:27,730 --> 00:04:29,080
 O beyefendi...
 
-34
+32
 00:04:29,850 --> 00:04:35,510
 Oden-sama'nın akranı, Kozuki Hanesi'ne hizmet eden daimyolardan biriydi.
 
-35
+33
 00:04:38,180 --> 00:04:40,260
 Onun gerçek adı...
 
-36
+34
 00:04:40,890 --> 00:04:42,010
 Shimotsuki...
 
-37
+35
 00:04:52,280 --> 00:04:55,640
 Yasuie-dono!
 
-38
+36
 00:05:01,780 --> 00:05:05,540
 Hakumai Daimyo'su, Kirpi Yasu!
 
-39
+37
 00:05:06,790 --> 00:05:11,440
 Yüzü asla gülmeyen, çok sert bir adamdı.
 
-40
+38
 00:05:14,740 --> 00:05:18,420
 Eski hâlinden eser yoktu,
 o yüzden onu tanıyamadım!
 
-41
+39
 00:05:18,420 --> 00:05:20,010
 İdamı durdurun!
 
-42
+40
 00:05:20,010 --> 00:05:21,910
 Ben Hakumai'liyim.
 
-43
+41
 00:05:21,910 --> 00:05:23,300
 İyi ki sizi tekrar gördüm..!
 
-44
+42
 00:05:23,300 --> 00:05:25,750
 Yasuie-sama'yı hemen bırakın, aşağılık memurlar!
 
-45
+43
 00:05:26,360 --> 00:05:28,180
 Yasuie-sama!
 
-46
+44
 00:05:34,530 --> 00:05:37,360
 Demek halk beni hâlâ unutmamış?!
 
-47
+45
 00:05:38,570 --> 00:05:40,530
 Çok mutlu oldum!
 
-48
+46
 00:05:50,010 --> 00:05:56,960
 Wano'da resmi limanı olan tek bölge Hakumai'dir.
 
-49
+47
 00:05:58,370 --> 00:06:01,930
 Hem iyi hem de kötü misafirleri buraya çeker.
 
-50
+48
 00:06:02,760 --> 00:06:03,840
 Bu nedenle...
 
-51
+49
 00:06:06,720 --> 00:06:10,680
 yılmaz bir ordumuz olmalı.
 
-52
+50
 00:06:19,310 --> 00:06:22,860
 Wano'nun en iyi samuraylarından
 daha azını bekleyemezdim.
 
-53
+51
 00:06:30,720 --> 00:06:31,620
 İster misin?
 
-54
+52
 00:06:32,170 --> 00:06:35,420
 Benimle alay mı ediyorsun, Oden?
 
-55
+53
 00:06:39,790 --> 00:06:42,270
 Burada aylak aylak dolaşmanızı onaylamıyorum.
 
-56
+54
 00:06:42,270 --> 00:06:45,800
 Sonuçta sen şogunun çocuğusun.
 
-57
+55
 00:06:47,260 --> 00:06:52,520
 Beni kovdular.
 Hâlâ aileden görüldüğümü sanmıyorum.
 
-58
+56
 00:06:53,910 --> 00:06:55,730
 Herkes bu konuyu konuşuyor.
 
-59
+57
 00:06:56,670 --> 00:07:00,480
 "Kozuki Sukiyaki gittiğinde, Oden yerini dolduramayacak...
 
-60
+58
 00:07:03,460 --> 00:07:05,450
 sonraki şogun, Yasuie olacak."
 
-61
+59
 00:07:11,010 --> 00:07:12,600
 Ahmak!
 
-62
+60
 00:07:12,600 --> 00:07:14,000
 Of!
 
-63
+61
 00:07:18,810 --> 00:07:20,430
 Bu ne içindi?!
 
-64
+62
 00:07:20,430 --> 00:07:22,920
 Böyle boş söylentileri ciddiye alma!
 
-65
+63
 00:07:23,670 --> 00:07:27,950
 Kozuki Hanesi'ne önderlik edecek olan sensin.
 
-66
+64
 00:07:27,950 --> 00:07:32,260
 Sukiyaki-sama'nın seni reddetmesi,
 tamamen senin iyiliğin içindi.
 
-67
+65
 00:07:32,260 --> 00:07:34,890
 Neden ona beklediği şeyi göstermiyorsun?
 
-68
+66
 00:07:39,320 --> 00:07:40,640
 Yasu-san...
 
-69
+67
 00:07:41,560 --> 00:07:45,830
 şansımı denizde denemeyi yeğlerim.
 
-70
+68
 00:07:49,340 --> 00:07:52,040
 Neden bu ülkede buna izin verilmiyor?
 
-71
+69
 00:07:53,690 --> 00:07:57,710
 Bu tecrit politikası...
 Lanet olsun tüm bu kısıtlamalara!
 
-72
+70
 00:08:03,000 --> 00:08:03,850
 Sus!
 
-73
+71
 00:08:06,720 --> 00:08:10,140
 Sadece saygın bir savaşçının bencil kaprisleri olur!
 
-74
+72
 00:08:19,450 --> 00:08:22,730
 Çok acıtıyor! Bana vurmayı bırak!
 
-75
+73
 00:08:22,730 --> 00:08:24,820
 Kim olduğumu sanıyorsun ki?!
 
-76
+74
 00:08:25,270 --> 00:08:29,490
 Hâlâ bir hiçsin. Sadece bir suçlusun.
 
-77
+75
 00:08:48,230 --> 00:08:52,930
 Hiçbir faydası yok, dostlarım!
 Orochi gitmeme izin vermeyecektir!
 
-78
+76
 00:08:56,010 --> 00:08:59,600
 Ama öncelikle, iki şey için özür dilemeliyim.
 
-79
+77
 00:09:00,040 --> 00:09:03,270
 Ayrıca o aptal Orochi'ye de
 söyleyeceklerim var!
 
-80
+78
 00:09:31,790 --> 00:09:33,680
 Toko!
 
-81
+79
 00:09:35,470 --> 00:09:40,810
 Son sözümü söyledikten sonra, yüzümde bir tebessümle öteki dünyaya göçeceğim.
 
-82
+80
 00:09:50,650 --> 00:09:52,490
 Babacığım!
 
-83
+81
 00:09:54,590 --> 00:09:58,460
 Şimdi sanığa yöneltilen suçlamaları açıklayacağım.
 
-84
+82
 00:10:01,410 --> 00:10:06,210
 Bu adam, dün gece başkentte hırsızlık yaptı.
 
-85
+83
 00:10:06,750 --> 00:10:08,610
 Nereden nereye...
 
-86
+84
 00:10:08,610 --> 00:10:14,640
 Eski Hakumai Daimyosu, şimdilerde Ebisu Kasabası'nda soytarılık yapıyor.
 
-87
+85
 00:10:14,640 --> 00:10:18,100
 Adı Shimotsuki Yasuie!
 
-88
+86
 00:10:18,100 --> 00:10:25,010
 Vaktiyle Şogun Orochi'ye başkaldırmak gibi affedilmez bir suç işlediği için,
 
-89
+87
 00:10:25,010 --> 00:10:28,270
 onu Oiran Komurasaki'nin kabrine adak olarak sunuyor...
 
-90
+88
 00:10:29,230 --> 00:10:32,280
 ve ibretlik bir ölüme çarptırıyoruz.
 
-91
+89
 00:10:37,580 --> 00:10:40,470
 Şimdi ise,
 
-92
+90
 00:10:40,470 --> 00:10:46,000
 toplum düzenini tehdit eden
 İblis Saati Çocuğu olduğunu itiraf etti.
 
-93
+91
 00:10:46,000 --> 00:10:47,630
 O bir yalandı!
 
-94
+92
 00:10:50,000 --> 00:10:52,260
 Ne dedin sen?!
 
-95
+93
 00:10:52,260 --> 00:10:57,090
 Öleceğimi anladım, bu yüzden dikkatleri
 üzerime çekebilmek için öyle söyledim.
 
-96
+94
 00:10:58,970 --> 00:11:01,660
 Yalan söylediğim için özür dilerim.
 
-97
+95
 00:11:01,660 --> 00:11:03,770
 Sandığınız kahraman ben değilim.
 
-98
+96
 00:11:05,010 --> 00:11:06,600
 Yasuie-dono!
 
-99
+97
 00:11:08,770 --> 00:11:10,650
 Neden böyle bir yalan söyledi ki?
 
-100
+98
 00:11:11,690 --> 00:11:17,530
 Komurasaki'nin cenazesini saran keder,
 odağını Yasuie'nin idamına kaydırdı.
 
-101
+99
 00:11:21,330 --> 00:11:26,870
 Drake-san, Ebisu halkı
 Çiçek Başkenti'ne akın ediyor!
 
-102
+100
 00:11:27,390 --> 00:11:28,130
 Ne?!
 
-103
+101
 00:11:33,130 --> 00:11:38,340
 Şu herif, tahmin ettiğimizden de
 önemli biri çıktı.
 
-104
+102
 00:11:42,570 --> 00:11:46,060
 Ölemezsin, Yasu-san!
 
-105
+103
 00:11:46,060 --> 00:11:48,310
 Yasu-san!
 
-106
+104
 00:11:48,750 --> 00:11:53,150
 Desteğin olmadan yok oluruz!
 
-107
+105
 00:11:53,150 --> 00:11:58,570
 Şehre girmeye yetkiniz yok!
 Ebisu'ya geri dönün, sizi pislikler!
 
-108
+106
 00:11:59,610 --> 00:12:01,870
 Yasu-san!
 
-109
+107
 00:12:08,300 --> 00:12:11,000
 Ana caddedeki halk galeyana geldi!
 
-110
+108
 00:12:11,000 --> 00:12:12,710
 Batı bölgesi de karıştı!
 
-111
+109
 00:12:13,810 --> 00:12:15,340
 Sorun üstüne sorun.
 
-112
+110
 00:12:18,150 --> 00:12:25,370
 Orochi-sama'nın idamı yayınlatma kararı, başına büyük iş açabilir.
 
-113
+111
 00:12:25,930 --> 00:12:28,060
 Şehir genelinde gözlerinizi dört açın.
 
-114
+112
 00:12:30,130 --> 00:12:35,690
 Şogun-dono beceriksiz olunca, adamlarının işi başından aşkın oluyor.
 
-115
+113
 00:12:36,360 --> 00:12:38,900
 Dinleyin, dostlarım!
 
-116
+114
 00:12:49,620 --> 00:12:53,460
 Karşınızda, görkemli Çiçek Başkenti!
 
-117
+115
 00:13:00,640 --> 00:13:04,260
 Wano'nun manzarası harikulade!
 
-118
+116
 00:13:26,480 --> 00:13:28,780
 Bu manzara,
 
-119
+117
 00:13:28,780 --> 00:13:32,720
 Kozuki Hanesi ve halkın
 nesiller boyu süren emeğinin eseridir.
 
-120
+118
 00:13:32,720 --> 00:13:34,590
 Gurur duymalıyız!
 
-121
+119
 00:13:36,010 --> 00:13:37,130
 Daha hızlı!
 
-122
+120
 00:13:37,300 --> 00:13:39,910
 Acele edin!
 
-123
+121
 00:13:39,910 --> 00:13:42,550
 Saçma sapan konuşmaya başladı!
 
-124
+122
 00:13:46,010 --> 00:13:49,310
 Bu güzelliği kendine pay biçmeye hiç hakkın yok...
 
-125
+123
 00:13:56,430 --> 00:13:58,530
 Kurozumi Orochi!
 
-126
+124
 00:14:14,870 --> 00:14:17,130
 Beni duyabiliyor musun, Orochi?!
 
-127
+125
 00:14:17,750 --> 00:14:21,880
 Geniş ormanlar, çayırlar...
 
-128
+126
 00:14:24,130 --> 00:14:25,200
 nehirler...
 
-129
+127
 00:14:26,250 --> 00:14:27,850
 ve köyler!
 
-130
+128
 00:14:27,850 --> 00:14:31,930
 Açgözlülüğünün yarattığı çamurla her şeyi kirlettin!
 
-131
+129
 00:14:33,150 --> 00:14:36,400
 Bir haşereden başka bir şey değilsin!
 
-132
+130
 00:14:38,320 --> 00:14:40,820
 Senin ben..!
 
-133
+131
 00:14:47,070 --> 00:14:49,080
 Holdem, seni sidikli!
 
-134
+132
 00:14:49,080 --> 00:14:53,660
 Sığınağımı yakmaya nasıl cüret edersin!
 
-135
+133
 00:14:56,300 --> 00:14:59,330
 Neredesin?! Çık ortaya!
 
-136
+134
 00:15:00,050 --> 00:15:02,210
 Holdem!
 
-137
+135
 00:15:11,240 --> 00:15:12,350
 O...?!
 
-138
+136
 00:15:19,520 --> 00:15:22,730
 Bu kadar yeter, Yasuie-sama!
 
-139
+137
 00:15:22,730 --> 00:15:24,860
 Artık geri dönüşü olmayacak!
 
-140
+138
 00:15:30,010 --> 00:15:31,490
 Ve şimdi...
 
-141
+139
 00:15:32,550 --> 00:15:36,120
 herkese bir özür borçluyum.
 
-142
+140
 00:15:36,840 --> 00:15:40,960
 Son zamanlarda, ortalıkta
 bulmaca gibi bir şeyler dolaşıyor.
 
-143
+141
 00:15:42,870 --> 00:15:46,000
 Kozuki ismi 20 yıldır ölüydü.
 
-144
+142
 00:15:46,000 --> 00:15:49,090
 Artık onların intikamını alacak gücümüz yok.
 
-145
+143
 00:15:49,610 --> 00:15:52,270
 Kozuki Hanesi için yaşadığım pişmanlığın verdiği his ile...
 
-146
+144
 00:15:53,560 --> 00:15:56,020
 o bulmacayı ben yarattım!
 
-147
+145
 00:15:56,020 --> 00:15:57,900
 – Ne?!
 – Ne?!
 
-148
+146
 00:16:01,760 --> 00:16:04,990
 O sembol mânasız.
 
-149
+147
 00:16:04,990 --> 00:16:05,860
 O sadece...
 
-150
+148
 00:16:06,340 --> 00:16:09,000
 bir şakaydı!
 
-151
+149
 00:16:10,820 --> 00:16:13,000
 – Ne?!
 – Ne?!
 
-152
+150
 00:16:14,920 --> 00:16:17,160
 Neler söylüyor o?!
 
-153
+151
 00:16:26,010 --> 00:16:28,370
 İşte buradasın, Ashura.
 
-154
+152
 00:16:30,750 --> 00:16:35,220
 Ah, Kin'emon! Inuarashi! Buna inanamıyorum!
 
-155
+153
 00:16:35,220 --> 00:16:35,930
 Bakın!
 
-156
+154
 00:16:35,930 --> 00:16:39,600
 Yasuie-sama görünüşe göre hayatta kalmış.
 
-157
+155
 00:16:40,000 --> 00:16:43,930
 Evet, ben de şimdi fark ettim.
 
-158
+156
 00:16:43,930 --> 00:16:45,900
 Bu iş kontrolden çıkıyor.
 
-159
+157
 00:16:45,900 --> 00:16:48,860
 Oden, 20 yıl önce öldüğünde...
 
-160
+158
 00:16:49,320 --> 00:16:54,620
 Orochi, geriye kalan dört daimyo ile konuştu.
 
-161
+159
 00:16:54,620 --> 00:16:57,290
 "Kurozumi'ye hizmet edecek misiniz...
 
-162
+160
 00:16:57,290 --> 00:16:59,300
 yoksa bize karşı savaşacak mısınız?"
 
-163
+161
 00:17:00,570 --> 00:17:02,500
 Tam bi' komedi!
 
-164
+162
 00:17:03,080 --> 00:17:05,170
 Bulunduğun yeri Oden'e borçluydun...
 
-165
+163
 00:17:05,870 --> 00:17:09,760
 ama şogunluğu sinsi bir planla gasp ettin!
 
-166
+164
 00:17:09,760 --> 00:17:12,140
 Seni kim adam yerine koyar ki?!
 
-167
+165
 00:17:12,920 --> 00:17:17,980
 Bölge daimyoları ve halk
 vakit kaybetmeden ayaklandı.
 
-168
+166
 00:17:18,730 --> 00:17:22,770
 Ne yazık ki Kaido olarak bilinen canavar tarafından...
 
-169
+167
 00:17:23,480 --> 00:17:26,230
 bozguna uğratıldık,
 bu yüzden Wano da yanıp kül oldu.
 
-170
+168
 00:17:27,030 --> 00:17:34,190
 Zalim kader işte, bir şekilde hayatta kaldım
 ve Ebisu Kasabası'nda saklandım.
 
-171
+169
 00:17:34,990 --> 00:17:38,700
 Ama ecelimle ölmek israf olurdu...
 
-172
+170
 00:17:39,160 --> 00:17:45,040
 Ben de içimdeki çocuğa uyup
 şu ilan şakasını yapmaya karar verdim.
 
-173
+171
 00:17:47,320 --> 00:17:50,510
 Umarım beni affedebilirsiniz.
 
-174
+172
 00:17:51,470 --> 00:17:56,140
 Yine de Orochi'nin korkaklığı tüm beklentileri aştı.
 
-175
+173
 00:17:56,790 --> 00:18:03,100
 Sırf popüler ay dövmeleri var diye
 suçsuz insanları içeri tıktı.
 
-176
+174
 00:18:04,060 --> 00:18:05,670
 – Ne?!
 – Ne?!
 
-177
+175
 00:18:05,670 --> 00:18:08,130
 Yani hepsi Orochi-sama'nın kuruntusu muydu?!
 
-178
+176
 00:18:08,130 --> 00:18:11,030
 Ne yapacağız?!
 Çok fazla kişiyi tutukladık!
 
-179
+177
 00:18:13,010 --> 00:18:15,570
 Orochi-sama geldi!
 
-180
+178
 00:18:18,630 --> 00:18:21,370
 Soktuğumun Yasuie'si!
 
-181
+179
 00:18:21,370 --> 00:18:24,250
 Seni kurşun manyağı yapacağım!
 
-182
+180
 00:18:25,900 --> 00:18:27,130
 Demek geldin.
 
-183
+181
 00:18:28,340 --> 00:18:31,220
 Uzun zaman oldu, Orochi.
 
-184
+182
 00:18:31,220 --> 00:18:35,640
 Son sözün var mı, Yasuie?!
 
-185
+183
 00:18:36,190 --> 00:18:39,710
 Orochi! Evet var...
 
-186
+184
 00:18:40,820 --> 00:18:45,440
 Sana musallat olan o laneti okuyayım mı?
 
-187
+185
 00:18:50,670 --> 00:18:54,570
 "Küçük bir adam...
 
-188
+186
 00:18:55,710 --> 00:19:00,930
 asla, yiyemeyeceği bir oden'den fazlası olamayacak!"
 
-189
+187
 00:19:22,510 --> 00:19:25,090
 İşte bu kadar.
 
-190
+188
 00:19:26,120 --> 00:19:30,770
 Size bol şans diliyorum,
 Kin'emon ve Kızıl Kınlar.
 
-191
+189
 00:19:31,300 --> 00:19:34,740
 Ve sana da geleceğin şogunu, Momonosuke.
 
-192
+190
 00:19:38,370 --> 00:19:42,910
 Böylece planınız fiilen başa dönmüş oluyor!
 
-193
+191
 00:19:43,850 --> 00:19:46,290
 Rasetsu'da tutuklanan yoldaşlarımız için...
 
-194
+192
 00:19:47,010 --> 00:19:49,850
 yeni bir buluşma noktası hazırladım.
 
-195
+193
 00:19:54,160 --> 00:19:59,010
 Biliyorum pek bir şey değil ama
 şu ömrümle yapabileceğim başka bir şey yok.
 
-196
+194
 00:19:59,490 --> 00:20:05,310
 Planımızı yaşatmak için kendini feda mı edecek?!
 
-197
+195
 00:20:07,850 --> 00:20:09,150
 Yasuie-dono!
 
-198
+196
 00:20:15,700 --> 00:20:17,460
 Sonsuz teşekkürler!
 
-199
+197
 00:20:23,000 --> 00:20:26,620
 O korkak Orochi
 ne kadar bağırırsa bağırsın,
 
-200
+198
 00:20:26,620 --> 00:20:29,330
 askerlerinin içine kurt düştü bir kere.
 
-201
+199
 00:20:29,810 --> 00:20:32,480
 Bir şogun bu kadar korkakça davranmamalı.
 
-202
+200
 00:20:32,480 --> 00:20:34,130
 Yapma! Seni duyacaklar!
 
-203
+201
 00:20:38,290 --> 00:20:39,590
 Babacığım!
 
-204
+202
 00:20:40,670 --> 00:20:41,220
 Yasu!
 
-205
+203
 00:20:54,520 --> 00:21:01,870
 20 yıldır Kaido'yu kimse deviremedi...
 
-206
+204
 00:21:01,870 --> 00:21:04,510
 ama şimdi şansımız var!
 
-207
+205
 00:21:04,510 --> 00:21:07,100
 Çocuklarınızın gözlerini kapatın!
 
-208
+206
 00:21:07,100 --> 00:21:10,430
 Kozuki'ye hizmet eden son daimyo...
 
-209
+207
 00:21:10,430 --> 00:21:11,630
 Hayır...
 
-210
+208
 00:21:11,630 --> 00:21:16,510
 Ebisu Kasabası'nın neşeli adamı
 öteki dünyaya göçmek üzere!
 
-211
+209
 00:21:27,470 --> 00:21:29,520
 Yasuie!
 
-212
+210
 00:21:30,560 --> 00:21:32,690
 Haydi şarkı söyleyelim!
 
-213
+211
 00:21:32,690 --> 00:21:35,360
 ♪ İşte gidiyorum! ♪
 
-214
+212
 00:21:42,870 --> 00:21:44,320
 Ateş!
 
-215
+213
 00:21:58,570 --> 00:22:00,630
 Onigashima'yı istila edin!
 
-216
+214
 00:22:02,700 --> 00:22:05,430
 Lordumuzun intikamını alın!
 
-217
+215
 00:22:07,810 --> 00:22:10,770
 Sonraki yaşamımda
 iyi haberlerinizi bekliyor olacağım!
 
-218
+216
 00:22:17,750 --> 00:22:20,490
 Neden bu kadar para çalmak isteyesiniz ki?
 
-219
+217
 00:22:21,000 --> 00:22:23,740
 Oden-sama meteliksiz!
 
-220
+218
 00:22:24,150 --> 00:22:26,450
 Bizi öldüreceksen öldür gitsin!
 
-221
+219
 00:22:26,450 --> 00:22:28,580
 Seni kirpi bozuntusu!
 
-222
+220
 00:22:30,540 --> 00:22:34,120
 Yapacağın işe, Oden.
 Etrafına tuhafları toplamayı iyi biliyorsun.
 
-223
+221
 00:22:36,430 --> 00:22:37,590
 Dinleyin!
 
-224
+222
 00:22:37,590 --> 00:22:42,230
 Size çalmaya çalıştığınız parayı vereceğim.
 
-225
+223
 00:22:43,760 --> 00:22:46,010
 – Ne?!
 – Ne?!
 
-226
+224
 00:22:46,480 --> 00:22:48,350
 Lütfen tekrar düşünün, Yasuie-sama!
 
-227
+225
 00:22:48,350 --> 00:22:51,980
 Hakumai'nin ekonomisini daha fazla döndüremeyeceğiz!
 
-228
+226
 00:22:55,310 --> 00:22:57,940
 Tüm bunları da alabilirsiniz.
 
-229
+227
 00:22:57,940 --> 00:22:59,290
 Hepsi sizin.
 
-230
+228
 00:22:59,850 --> 00:23:01,540
 Daha da fazlası mı?!
 
-231
+229
 00:23:01,540 --> 00:23:04,200
 Dalga geçmeyi bırak! Bu bir tür tuzak mı?!
 
-232
+230
 00:23:06,000 --> 00:23:07,620
 Oden'i seviyor musunuz?
 
-233
+231
 00:23:08,560 --> 00:23:12,280
 Elbette! Ona canımızdan fazlasını borçluyuz!
 
-234
+232
 00:23:12,280 --> 00:23:13,790
 – Aynen öyle!
 – Kesinlikle!
 
-235
+233
 00:23:15,920 --> 00:23:17,360
 Anlıyorum.
 
-236
+234
 00:23:17,360 --> 00:23:24,450
 O hâlde şu parayı alın, kılık kıyafetinizi düzeltin, usul erkan öğrenin ve kitap alıp kendinizi eğitin!
 
-237
+235
 00:23:25,650 --> 00:23:30,600
 Sizin gibi serseri hizmetkârlar Oden'i ancak rezil eder!
 
-238
+236
 00:23:32,390 --> 00:23:34,390
 O adam...
 
-239
+237
 00:23:34,980 --> 00:23:38,060
 bir gün Wano'nun şogunu olacak!
 
-240
+238
 00:23:39,540 --> 00:23:45,710
 Ona hizmet edenler, Wano'nun en iyi samurayları olmak zorundalar!
 
-241
+239
 00:24:16,630 --> 00:24:19,950
 Lordunuzu korumak sizin mutlak göreviniz.
 
-242
+240
 00:24:21,190 --> 00:24:22,690
 Hepiniz şehrin...
 
-243
+241
 00:24:23,310 --> 00:24:28,700
 hayır, tüm ülkenin koruyucuları olacaksınız!
 
-244
+242
 00:24:28,700 --> 00:24:29,660
 Anladınız mı?!
 
-245
+243
 00:24:31,070 --> 00:24:33,580
 – Yasuie-dono!
 – Yasuie-dono!
 
-246
+244
 00:24:33,580 --> 00:24:35,580
 Babacığım!
 
-247
+245
 00:24:37,150 --> 00:24:39,500
 Babacığım!
 
-248
+246
 00:24:44,310 --> 00:24:46,260
 Babacığım!
 
-249
+247
 00:24:47,680 --> 00:24:49,730
 Otoko...
 
-250
+248
 00:24:49,730 --> 00:24:52,010
 Lütfen beni affet, Otoko.
 
-251
+249
 00:24:52,870 --> 00:24:56,330
 Seni babasız bıraktığım için.
 
-252
+250
 00:25:06,230 --> 00:25:07,250
 Babacığım!
 
-253
+251
 00:25:07,250 --> 00:25:09,410
 Babacığım! Babacığım!
 
-254
+252
 00:25:10,580 --> 00:25:12,280
 Babacığım!!
 
-255
+253
 00:25:12,280 --> 00:25:15,040
 Bu kadar yeter! Ateşi kesin!
 
-256
+254
 00:25:22,330 --> 00:25:23,540
 Yasu!
 
-257
+255
 00:25:24,110 --> 00:25:26,410
 Yasu-san!
 
-258
+256
 00:25:28,080 --> 00:25:31,970
 Bunlar Ebisu'nun köylüleri!
 Atın şunları Başkent'ten!
 
-259
+257
 00:25:34,600 --> 00:25:36,260
 Yasu-san!
 
-260
+258
 00:25:39,460 --> 00:25:41,190
 Yasuie-sama!
 
-261
+259
 00:25:44,670 --> 00:25:46,320
 B-Babacığım!
 
-262
+260
 00:25:47,190 --> 00:25:49,820
 Babacığım!
 
-263
+261
 00:26:04,010 --> 00:26:07,300
 B... Babacığım?
 
-264
+262
 00:26:09,010 --> 00:26:10,170
 Yasu..!
 
-265
+263
 00:26:11,550 --> 00:26:14,850
 Sonunda öldün mü, Yasuie?!
 
-266
+264
 00:26:29,880 --> 00:26:31,450
 Yasuie-sama...
 
-267
+265
 00:27:21,830 --> 00:27:23,370
 Ne yapıyor onlar?!
 
-268
+266
 00:27:28,080 --> 00:27:29,250
 Burada...
 
-269
+267
 00:27:31,160 --> 00:27:32,130
 neler oluyor?
 
-270
+268
 00:27:34,250 --> 00:27:35,970
 Birisi öldü.
 
-271
+269
 00:27:38,280 --> 00:27:41,060
 Komik olan ne lan?!
 
-272
+270
 00:27:48,880 --> 00:27:52,070
 Babam öldü!
 
-273
+271
 00:27:54,030 --> 00:27:55,610
 Seni velet...
 
-274
+272
 00:27:56,150 --> 00:27:57,550
 Lütfen bekleyin!
 
-275
+273
 00:28:00,840 --> 00:28:03,160
 Aslında... hepsi ağlıyor.
 
-276
+274
 00:28:04,500 --> 00:28:05,830
 Ne?!
 
-277
+275
 00:28:06,630 --> 00:28:09,540
 Ebisu halkı hep gülümser...
 
-278
+276
 00:28:10,110 --> 00:28:13,000
 Acı veya keder içinde olsalar bile..
 
-279
+277
 00:28:14,590 --> 00:28:16,340
 bunu yüzlerinde göremezsiniz.
 
-280
+278
 00:28:37,740 --> 00:28:42,120
 Gülümsemek dışındaki
 tüm yüz ifadeleri ellerinden alındı...
 
-281
+279
 00:28:42,890 --> 00:28:46,290
 Sadece gülümseyebilirler.
 
-282
+280
 00:28:50,460 --> 00:28:54,380
 Bunların hepsi
 Kaido ve Orochi'nin ülkeye getirdikleri...
 
-283
+281
 00:28:56,850 --> 00:28:59,980
 GÜLÜCÜK isimli meyve yüzünden!
 
-284
+282
 00:01:50,340 --> 00:01:54,430
 Çiçek Başkenti
+
+283
+00:01:50,340 --> 00:01:54,430
+Çiçek Başkenti
+
+284
+00:02:31,340 --> 00:02:34,590
+Ebisu Kasabası
 
 285
-00:01:50,340 --> 00:01:54,430
-Çiçek Başkenti
+00:02:31,340 --> 00:02:34,590
+Ebisu Kasabası
 
 286
-00:02:31,340 --> 00:02:34,590
-Ebisu Kasabası
+00:03:59,640 --> 00:04:03,390
+Kuri
+Bakura Kasabası
 
 287
-00:02:31,340 --> 00:02:34,590
-Ebisu Kasabası
+00:03:59,640 --> 00:04:03,390
+Kuri
+Bakura Kasabası
 
 288
-00:03:59,640 --> 00:04:03,390
-Kuri
-Bakura Kasabası
+00:04:07,810 --> 00:04:10,150
+Udon
 
 289
-00:03:59,640 --> 00:04:03,390
-Kuri
-Bakura Kasabası
+00:04:07,810 --> 00:04:10,150
+Udon
 
 290
-00:04:07,810 --> 00:04:10,150
-Udon
+00:05:23,300 --> 00:05:28,180
+Çiçek Başkenti
+Rasetsu Semti
+Hapishane
 
 291
-00:04:07,810 --> 00:04:10,150
-Udon
+00:05:23,300 --> 00:05:28,180
+Çiçek Başkenti
+Rasetsu Semti
+Hapishane
 
 292
-00:05:23,300 --> 00:05:28,180
-Çiçek Başkenti
-Rasetsu Semti
-Hapishane
+00:05:49,080 --> 00:05:56,960
+Hakumai
+Wano
 
 293
-00:05:23,300 --> 00:05:28,180
-Çiçek Başkenti
-Rasetsu Semti
-Hapishane
+00:05:49,080 --> 00:05:56,960
+Hakumai
+Wano
 
 294
-00:05:49,080 --> 00:05:56,960
-Hakumai
-Wano
+00:06:06,890 --> 00:06:10,680
+Shimotsuki Yasuie
 
 295
-00:05:49,080 --> 00:05:56,960
-Hakumai
-Wano
+00:06:06,890 --> 00:06:10,680
+Shimotsuki Yasuie
 
 296
 00:06:06,890 --> 00:06:10,680
-Shimotsuki Yasuie
+Hakumai'nin Daimyo'su
+(Sonradan Tonoyasu)
 
 297
 00:06:06,890 --> 00:06:10,680
-Shimotsuki Yasuie
+Hakumai'nin Daimyo'su
+(Sonradan Tonoyasu)
 
 298
 00:06:06,890 --> 00:06:10,680
@@ -1245,31 +1241,22 @@ Hakumai'nin Daimyo'su
 (Sonradan Tonoyasu)
 
 299
-00:06:06,890 --> 00:06:10,680
-Hakumai'nin Daimyo'su
-(Sonradan Tonoyasu)
+00:11:42,180 --> 00:11:46,060
+Çiçek Başkenti
+Ön Kapısı
 
 300
-00:06:06,890 --> 00:06:10,680
-Hakumai'nin Daimyo'su
-(Sonradan Tonoyasu)
+00:11:42,180 --> 00:11:46,060
+Çiçek Başkenti
+Ön Kapısı
 
 301
-00:11:42,180 --> 00:11:46,060
-Çiçek Başkenti
-Ön Kapısı
+00:22:12,060 --> 00:22:17,020
+Hakumai
+Wano
 
 302
-00:11:42,180 --> 00:11:46,060
-Çiçek Başkenti
-Ön Kapısı
-
-303
 00:22:12,060 --> 00:22:17,020
 Hakumai
 Wano
 
-304
-00:22:12,060 --> 00:22:17,020
-Hakumai
-Wano

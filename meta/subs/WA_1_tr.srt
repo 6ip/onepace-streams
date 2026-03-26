@@ -1,1324 +1,1311 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:41,870 --> 00:01:51,860
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:00:09,160 --> 00:00:13,240
 Usta Nekomamushi'nin denizcilik yetenekleri müthiş!
 
-4
+2
 00:00:13,240 --> 00:00:16,750
 Korsanlar Kralı ile denize açılmış bir adama da ancak bu yakışır!
 
-5
+3
 00:00:16,750 --> 00:00:21,630
 Bu harabede ne kadar bekleyeceğiz?
 
-6
+4
 00:00:21,630 --> 00:00:25,000
 Usta Nekomamushi, Marco ile dönene kadar!
 
-7
+5
 00:00:25,000 --> 00:00:27,840
 Gelecek mi acaba?
 
-8
+6
 00:00:27,840 --> 00:00:33,220
 Marco'nun bizimle Wano'ya gelmesi
 güçlü bir müttefikimiz olacak demek!
 
-9
+7
 00:00:35,100 --> 00:00:39,890
 Marco eski Beyazsakal Korsanları'nın
 1. Tümen Komutanı!
 
-10
+8
 00:00:39,890 --> 00:00:41,980
 Anka Marco diyorlar ona!
 
-11
+9
 00:00:41,980 --> 00:00:45,900
 Ustanın arkadaşı olduğunu
 duyunca şaşırdım.
 
-12
+10
 00:00:45,900 --> 00:00:47,030
 Pekâlâ!
 
-13
+11
 00:00:47,900 --> 00:00:51,320
 Ben de onu görmeye gideceğim.
 
-14
+12
 00:00:51,320 --> 00:00:53,530
 Hey! Bekle, bekle, bekle!
 
-15
+13
 00:00:53,990 --> 00:00:58,370
 Usta, o korkunç-gara suratın yüzünden
 burada beklemeni istedi!
 
-16
+14
 00:00:59,250 --> 00:01:02,250
 Marco gerçekten
 yüzümden korkacak birisi mi?
 
-17
+15
 00:01:03,380 --> 00:01:04,460
 Bak!
 
-18
+16
 00:01:05,090 --> 00:01:09,920
 Şelalenin arkasındaki mağaranın
 diğer tarafında huzurlu bir köy varmış.
 
-19
+17
 00:01:09,920 --> 00:01:13,010
 Bizim gibi savaşçılar, onları korkutur.
 
-20
+18
 00:01:13,010 --> 00:01:13,760
 Haklısın.
 
-21
+19
 00:01:14,300 --> 00:01:18,060
 Gel gör ki Usta'nın yüzü benimkinden
 daha korkunç!
 
-22
+20
 00:01:18,060 --> 00:01:19,520
 Hele bir de kızdığında.
 
-23
+21
 00:01:19,520 --> 00:01:21,730
 Gülerken de sevimli oluyor!
 
-24
+22
 00:01:21,730 --> 00:01:23,100
 Aynen!
 
-25
+23
 00:01:40,330 --> 00:01:41,000
 İşte!
 
-26
+24
 00:01:41,000 --> 00:01:42,870
 Hey, bekle!
 
-27
+25
 00:02:04,020 --> 00:02:04,730
 Bitti.
 
-28
+26
 00:02:05,100 --> 00:02:06,610
 Tedavi işi tamamdır.
 
-29
+27
 00:02:06,610 --> 00:02:07,820
 Hareket edebilir.
 
-30
+28
 00:02:08,900 --> 00:02:11,240
 Hareket edebilirmişsin!
 
-31
+29
 00:02:11,240 --> 00:02:12,650
 Tama, kalkabilir misin?
 
-32
+30
 00:02:18,660 --> 00:02:19,870
 Yavaş ol.
 
-33
+31
 00:02:19,870 --> 00:02:23,920
 İyileştiren Alevler'imin
 başkaları üzerindeki etkisi sınırlı.
 
-34
+32
 00:02:26,000 --> 00:02:29,300
 Bu tedaviyle daha hızlı iyileşecektir.
 
-35
+33
 00:02:29,300 --> 00:02:31,760
 Yarın hoplayıp zıplayabileceksin.
 
-36
+34
 00:02:35,800 --> 00:02:38,430
 Vay! Marco'nun büyüsü!
 
-37
+35
 00:02:38,430 --> 00:02:40,430
 Harika değil mi, Tama?!
 
-38
+36
 00:02:50,320 --> 00:02:52,400
 Vay! Harika!
 
-39
+37
 00:02:53,030 --> 00:02:55,610
 İyileştin, Tama!
 
-40
+38
 00:03:00,410 --> 00:03:02,620
 Yarın dedim! Zıplamayı kes!
 
-41
+39
 00:03:04,080 --> 00:03:05,920
 Teşekkürler, Marco!
 
-42
+40
 00:03:05,920 --> 00:03:07,460
 Sen bir tanesin!
 
-43
+41
 00:03:14,510 --> 00:03:16,380
 – Marco...
 – Marco-san...
 
-44
+42
 00:03:16,380 --> 00:03:17,840
 Omzum tutuldu...
 
-45
+43
 00:03:17,840 --> 00:03:19,220
 Marco, dağda...
 
-46
+44
 00:03:19,220 --> 00:03:21,100
 Marco, tarlamdaki sebzeler...
 
-47
+45
 00:03:21,100 --> 00:03:24,100
 Marco, sırt ağrılarım geri döndü!
 
-48
+46
 00:03:24,100 --> 00:03:27,850
 - Marco-chan, dizlerim...
 - Marco, çalışmama yardım eder misin?
 
-49
+47
 00:03:27,850 --> 00:03:30,190
 Marco, kardeşim bana kötü davranıyor!
 
-50
+48
 00:03:30,650 --> 00:03:35,900
 Tamam, teker teker konuşun.
 
-51
+49
 00:03:53,760 --> 00:03:56,840
 Bu köyü Babalık inşa etti.
 
-52
+50
 00:03:56,840 --> 00:03:59,300
 İhtiyar Beyazsakal mı?
 
-53
+51
 00:03:59,300 --> 00:04:00,890
 Ne demek istiyorsun?
 
-54
+52
 00:04:03,390 --> 00:04:05,680
 Çok fakir olduklarından...
 
-55
+53
 00:04:05,680 --> 00:04:10,400
 kutsal vergiyi ödeyemiyorlar.
 Böyle olunca Hükûmet'e bağlı olamıyorlar.
 
-56
+54
 00:04:10,400 --> 00:04:13,190
 Hükûmet'e bağlı olmayan ülkelerin hâli bu.
 
-57
+55
 00:04:13,190 --> 00:04:18,490
 Korsanlar ve insan tacirleri istediklerini
 yapıp o adaları kanunsuz hâle getiriyorlar.
 
-58
+56
 00:04:19,910 --> 00:04:23,910
 Ülkeler yıkılıyor ve
 çocuklar öksüz kalıyor.
 
-59
+57
 00:04:23,910 --> 00:04:26,910
 Babalık da o yetimlerden birisiydi.
 
-60
+58
 00:04:29,170 --> 00:04:34,460
 Genç yaşta denize açılmış.
 
-61
+59
 00:04:39,510 --> 00:04:42,850
 Korsan olduktan sonra bile
 bu adayla ilgilendi.
 
-62
+60
 00:04:43,220 --> 00:04:48,560
 Kimliğini gizleyerek kara para ve...
 
-63
+61
 00:04:48,560 --> 00:04:50,270
 erzak aktardı.
 
-64
+62
 00:04:51,770 --> 00:04:56,280
 Bir ailesi yoktu ve eski arkadaşları
 göçüp gitmişti ama...
 
-65
+63
 00:04:56,280 --> 00:04:58,190
 burası onun memleketiydi.
 
-66
+64
 00:05:00,910 --> 00:05:05,740
 Yozlaşmış dünyada
 temiz paradan söz edilemez!
 
-67
+65
 00:05:07,870 --> 00:05:09,370
 Teşekkürler.
 
-68
+66
 00:05:12,120 --> 00:05:13,920
 Zirve Savaşı'ndan sonra...
 
-69
+67
 00:05:14,170 --> 00:05:19,510
 en azından değer verdiği şeyleri
 korumak istedik.
 
-70
+68
 00:05:19,510 --> 00:05:24,010
 Kara Sakal bölgemizi istila ettiğinde,
 "İntikam Savaşı" başladı.
 
-71
+69
 00:05:24,010 --> 00:05:28,390
 Ancak Babalığın gücüne sahip olduğundan
 Teach ile baş edemedik.
 
-72
+70
 00:05:29,390 --> 00:05:33,270
 Her şeyi aldı.
 
-73
+71
 00:05:37,980 --> 00:05:41,200
 O nankörün pestilini çıkarmak istemiştim.
 
-74
+72
 00:05:48,870 --> 00:05:50,330
 Babalık...
 
-75
+73
 00:05:52,790 --> 00:05:55,960
 çok cimriydi, ha?
 
-76
+74
 00:06:04,220 --> 00:06:06,350
 Hep başkalarının içkilerini isterdi.
 
-77
+75
 00:06:07,220 --> 00:06:09,810
 Asla bir şey ısmarlamazdı!
 
-78
+76
 00:06:14,190 --> 00:06:19,070
 Neticede hazinedeki tüm payını
 buraya gönderirdi.
 
-79
+77
 00:06:21,940 --> 00:06:23,820
 Bunu bilmeyen yoktu.
 
-80
+78
 00:06:25,570 --> 00:06:27,530
 Anlıyorum.
 
-81
+79
 00:06:28,660 --> 00:06:34,580
 Burası ihtiyardan kalma son yadigâr, ha?
 
-82
+80
 00:06:35,370 --> 00:06:36,540
 Evet.
 
-83
+81
 00:06:39,590 --> 00:06:40,590
 Kızıl Saç da...
 
-84
+82
 00:06:41,710 --> 00:06:44,470
 mezarını yakın bir yere yaptı.
 
-85
+83
 00:06:46,640 --> 00:06:48,260
 Bu arada...
 
-86
+84
 00:06:48,680 --> 00:06:53,680
 Babalığın oğlu olduğunu söyleyip
 onunla alakası olanlara saldıran...
 
-87
+85
 00:06:53,680 --> 00:06:56,150
 Weevil adında bir Shichibukai var.
 
-88
+86
 00:06:56,520 --> 00:06:58,610
 Doğru mu bu?
 
-89
+87
 00:06:58,610 --> 00:07:01,900
 Babalığın kadınlarla olan mazisi hakkında
 bir yorum yapamam,
 
-90
+88
 00:07:02,400 --> 00:07:05,820
 ama sanırım miras peşindeler.
 
-91
+89
 00:07:05,820 --> 00:07:08,450
 Miras falan yok desek inanmayacaklardır.
 
-92
+90
 00:07:10,450 --> 00:07:14,830
 Er geç, benim ve buranın peşine düşecektir.
 
-93
+91
 00:07:14,830 --> 00:07:16,080
 Anladım.
 
-94
+92
 00:07:16,080 --> 00:07:18,830
 Öyleyse buradan ayrılamazsın, miyav.
 
-95
+93
 00:07:21,380 --> 00:07:25,380
 Weevil'ın annesi Buckin, eski bir korsan.
 
-96
+94
 00:07:25,380 --> 00:07:31,970
 30 veya 40 yıl önce falan
 Babalık ile aynı gemideymiş.
 
-97
+95
 00:07:35,140 --> 00:07:38,600
 Belki de korunması gereken
 başka bir yadigârdır.
 
-98
+96
 00:07:41,190 --> 00:07:44,070
 Davranışları aksini gösteriyor!
 
-99
+97
 00:07:44,070 --> 00:07:45,070
 Haklısın.
 
-100
+98
 00:07:50,070 --> 00:07:55,540
 Hasır Şapka Luffy'yle buluşacaksan
 ona bir mesajım var, Nekomamushi.
 
-101
+99
 00:07:55,540 --> 00:07:58,170
 Cankulağıyla dinliyorum.
 
-102
+100
 00:07:58,170 --> 00:07:59,920
 Hedefiniz Wano mu dedin?
 
-103
+101
 00:07:59,920 --> 00:08:00,790
 Evet.
 
-104
+102
 00:08:06,840 --> 00:08:09,760
 Luffy! Reverie başlamış!
 
-105
+103
 00:08:10,140 --> 00:08:15,060
 Dünyanın dört bir yanından hükümdarlar,
 Mary Geoise'daki konferansa katılıyor!
 
-106
+104
 00:08:17,600 --> 00:08:19,730
 Bu seferki konferansta ise tüm gözler...
 
-107
+105
 00:08:19,730 --> 00:08:23,520
 iki asırdır ilk kez katıldıkları için
 Ryugu Krallığı'na çevrilmiş durumda!
 
-108
+106
 00:08:23,520 --> 00:08:26,530
 Neptune-san ile oğullarının
 fotoğrafını çekmişler.
 
-109
+107
 00:08:28,280 --> 00:08:31,570
 Red Port'ta Shirahoshi'ye
 alkış seli olmuş!
 
-110
+108
 00:08:32,240 --> 00:08:34,620
 Karaya çıkmış demek!
 
-111
+109
 00:08:34,620 --> 00:08:37,250
 Bizim Pısırıkhoshi güçlenmiş!
 
-112
+110
 00:08:39,710 --> 00:08:42,330
 Anlaşılan deden onların refakatçisiymiş.
 
-113
+111
 00:08:42,330 --> 00:08:43,420
 Ya...?
 
-114
+112
 00:08:43,840 --> 00:08:49,340
 Balıkadamları yüzeye taşıma hayallerine
 doğru büyük bir adım atmışlar!
 
-115
+113
 00:08:53,970 --> 00:08:56,520
 Vivi-chwan!
 
-116
+114
 00:08:56,520 --> 00:09:00,900
 Daha da güzel bir prenses olmuşsun!
 
-117
+115
 00:09:01,520 --> 00:09:03,650
 Kimin gönlünü çalmak için?
 
-118
+116
 00:09:03,650 --> 00:09:06,280
 Benim mi? Hey, benim için mi?!
 
-119
+117
 00:09:07,780 --> 00:09:08,740
 Çekil!
 
-120
+118
 00:09:12,620 --> 00:09:13,490
 Vivi!
 
-121
+119
 00:09:13,910 --> 00:09:15,030
 Bizim Vivi!
 
-122
+120
 00:09:15,030 --> 00:09:17,910
 Onu görmeyeli uzun zaman oldu!
 
-123
+121
 00:09:17,910 --> 00:09:20,370
 Zarif ve krallara layık bir prenses olmuş.
 
-124
+122
 00:09:20,370 --> 00:09:23,750
 Oh, demek bu Vivi-san.
 
-125
+123
 00:09:23,750 --> 00:09:26,670
 Onunla karşılaşınca
 külotunu görmek isterim–
 
-126
+124
 00:09:26,670 --> 00:09:27,800
 Gösterir mi hiç sana!
 
-127
+125
 00:09:31,220 --> 00:09:35,100
 Bu fotoğraflar
 Sosyalleşme Alanı'nda çekilmiş.
 
-128
+126
 00:09:35,100 --> 00:09:38,390
 İştirak eden kraliyet ailelerine ve
 korumalarına baksanıza!
 
-129
+127
 00:09:39,100 --> 00:09:41,520
 D-Dressrosa da katılıyorsa...
 
-130
+128
 00:09:42,020 --> 00:09:44,060
 İşte! Viola-chan!
 
-131
+129
 00:09:50,860 --> 00:09:52,240
 Bu Wapol!
 
-132
+130
 00:09:52,240 --> 00:09:54,240
 Palamut amca da yanında!
 
-133
+131
 00:09:54,240 --> 00:09:56,030
 Ne? Wapol mu?
 
-134
+132
 00:09:56,030 --> 00:09:57,410
 Geri mi döndü?!
 
-135
+133
 00:09:58,410 --> 00:10:00,080
 Rebecca! Sai!
 
-136
+134
 00:10:00,080 --> 00:10:02,290
 Birçok tanıdık yüz var!
 
-137
+135
 00:10:02,290 --> 00:10:03,670
 E hâliyle.
 
-138
+136
 00:10:03,670 --> 00:10:08,500
 Dünyanın dört bir yanından
 Reverie'ye gelip istişare ediyorlar!
 
-139
+137
 00:10:10,010 --> 00:10:13,260
 Oh, belki Reverie'de...
 
-140
+138
 00:10:14,050 --> 00:10:18,510
 Reverie'de, tanıştığım prensesler...
 
-141
+139
 00:10:18,510 --> 00:10:22,770
 hakkımda konuşmaktan
 yerinde duramıyorlardır!
 
-142
+140
 00:10:22,770 --> 00:10:24,650
 Ne güzel olurdu, değil mi?
 
-143
+141
 00:10:25,270 --> 00:10:27,270
 Hey, baksana Chopper!
 
-144
+142
 00:10:28,520 --> 00:10:29,360
 Şuraya!
 
-145
+143
 00:10:33,110 --> 00:10:35,450
 Ne oldu, Choniki?
 
-146
+144
 00:10:43,500 --> 00:10:46,210
 Doktorin!
 
-147
+145
 00:10:46,210 --> 00:10:48,500
 Hadi ya, daha ölmemiş mi?
 
-148
+146
 00:10:48,500 --> 00:10:49,550
 Hey!
 
-149
+147
 00:10:56,590 --> 00:10:58,050
 Doktorin...
 
-150
+148
 00:10:58,050 --> 00:11:00,220
 Hey! Ne halt yiyorsun Chopper?
 
-151
+149
 00:11:00,640 --> 00:11:01,720
 Kesmesene!
 
-152
+150
 00:11:01,720 --> 00:11:03,310
 Ne? Dur biraz!
 
-153
+151
 00:11:03,310 --> 00:11:05,230
 Prenseslerimi bana ver!
 
-154
+152
 00:11:05,230 --> 00:11:07,690
 N'apıyorsunuz ya?
 
-155
+153
 00:11:13,360 --> 00:11:16,570
 Hey! Henüz arka sayfayı okumamıştım!
 
-156
+154
 00:11:16,570 --> 00:11:17,780
 Delik deşik etmişsiniz!
 
-157
+155
 00:11:19,410 --> 00:11:22,240
 Ha? Kaido hakkında yazı mı var?
 
-158
+156
 00:11:25,000 --> 00:11:28,380
 Big Mom... Ne yapıyormuş? Okunmuyor ki!
 
-159
+157
 00:11:28,380 --> 00:11:30,880
 Sanji-kun! Chopper! Verin şunları!
 
-160
+158
 00:11:30,880 --> 00:11:32,170
 – Olmaz!
 – Olmaz!
 
-161
+159
 00:11:35,510 --> 00:11:38,390
 Hepsini de iyi gördüğüme sevindim!
 
-162
+160
 00:11:38,390 --> 00:11:41,470
 Dünyayı dolaşmayı bitirince
 ziyaretlerine gidelim!
 
-163
+161
 00:11:41,470 --> 00:11:44,140
 Evet! Durumları iyiymiş!
 
-164
+162
 00:11:44,140 --> 00:11:49,650
 Bu arada Luffy-san,
 aktarıcı salyangoz hâlâ çalışmıyor mu?
 
-165
+163
 00:11:49,650 --> 00:11:51,770
 Sahi, aklımdan çıkmış.
 
-166
+164
 00:11:51,770 --> 00:11:53,650
 Hey! Benim, Luffy!
 
-167
+165
 00:11:53,650 --> 00:11:54,650
 Cevap verin!
 
-168
+166
 00:11:57,490 --> 00:11:59,740
 Cevap yok yav.
 
-169
+167
 00:11:59,740 --> 00:12:01,660
 Önemli değil, devam edelim!
 
-170
+168
 00:12:04,620 --> 00:12:05,700
 Bekle, Luffy!
 
-171
+169
 00:12:06,250 --> 00:12:07,160
 Ne oldu?
 
-172
+170
 00:12:08,500 --> 00:12:09,540
 Rüzgâr...
 
-173
+171
 00:12:30,690 --> 00:12:34,780
 Soğuk rüzgârla daha önce
 hiç görmediğim biçimdeki dalgalar...
 
-174
+172
 00:12:35,440 --> 00:12:37,360
 kesinlikle hayra alamet değil!
 
-175
+173
 00:12:42,870 --> 00:12:46,250
 Wano çevresindeki
 deniz sahasına geldik demek!
 
-176
+174
 00:12:54,630 --> 00:13:00,130
 Yaklaştıkça rüzgâr şiddeti gibi
 dalga boyları da artıyor!
 
-177
+175
 00:13:00,930 --> 00:13:05,010
 Bu kabarma, rüzgârın sürüklediği
 sıradan bir akıntıya benzemiyor.
 
-178
+176
 00:13:05,430 --> 00:13:07,890
 Sıra dışı dalgaların yanı sıra...
 
-179
+177
 00:13:08,560 --> 00:13:10,980
 gökyüzündeki korkunç havaya baksana!
 
-180
+178
 00:13:20,400 --> 00:13:22,780
 Fırtınadan kaçınmak akıllıca olur.
 
-181
+179
 00:13:22,780 --> 00:13:24,410
 Dinmesini bekleyelim mi?
 
-182
+180
 00:13:24,870 --> 00:13:26,870
 Hey! Ne diyorsun, Brook?
 
-183
+181
 00:13:26,870 --> 00:13:29,040
 Wano'ya hemen gidiyoruz!
 
-184
+182
 00:13:29,040 --> 00:13:33,710
 Luffy-san, niye hep mürettebatını
 bariz bir tehlikeye sokmak istiyorsun ki?
 
-185
+183
 00:13:35,130 --> 00:13:37,050
 Şöyle ki Brook...
 
-186
+184
 00:13:37,050 --> 00:13:37,800
 Ha?
 
-187
+185
 00:13:38,210 --> 00:13:41,590
 Kin'emon bu konuda bizi uyarmıştı.
 
-188
+186
 00:13:42,340 --> 00:13:45,930
 Zamanı gelince haber salyangozuyla
 açıklayacak olsam da...
 
-189
+187
 00:13:46,600 --> 00:13:51,480
 Wano'yu sarmalayan deniz sahasında
 dinmek bilmeyen bir fırtına vardır.
 
-190
+188
 00:13:51,480 --> 00:13:54,400
 Taşkın deniz ve
 şiddetli akıntılar yüzünden...
 
-191
+189
 00:13:54,730 --> 00:13:57,360
 ülkeye girmek oldukça güçtür!
 
-192
+190
 00:13:57,360 --> 00:13:58,360
 Ne?!
 
-193
+191
 00:13:58,360 --> 00:14:00,360
 Hava hep böyle kötü mü?!
 
-194
+192
 00:14:00,360 --> 00:14:03,240
 Öylece fırtınaya mı dalacağız yani?
 
-195
+193
 00:14:03,240 --> 00:14:05,120
 Öyle yapalım derim! Dalalım!
 
-196
+194
 00:14:05,120 --> 00:14:09,240
 Hem güçlü samurayları var hem de girişi zor...
 
-197
+195
 00:14:09,240 --> 00:14:11,750
 İzole bir ülke olmasına şaşmamalı!
 
-198
+196
 00:14:12,870 --> 00:14:15,170
 Biraz düşüneyim...
 
-199
+197
 00:14:15,170 --> 00:14:18,300
 Güvenli bir şekilde
 geçmenin bir yolu olmalı.
 
-200
+198
 00:14:23,090 --> 00:14:24,680
 Bu şey de ne böyle?!
 
-201
+199
 00:14:24,680 --> 00:14:26,010
 Ahtapot!
 
-202
+200
 00:14:26,010 --> 00:14:27,300
 Çok büyük!
 
-203
+201
 00:14:27,300 --> 00:14:28,970
 Ahtapotun burada ne işi var?!
 
-204
+202
 00:14:28,970 --> 00:14:30,810
 Denizdeyiz! Burada yaşıyorlar!
 
-205
+203
 00:14:30,810 --> 00:14:32,140
 Onu biliyorum be...!
 
-206
+204
 00:14:32,140 --> 00:14:35,440
 Ne ara güverteye çıktı?
 
-207
+205
 00:14:35,810 --> 00:14:39,440
 Hey! Wano'ya yaklaşıyoruz!
 
-208
+206
 00:14:39,440 --> 00:14:40,820
 Ne?!
 
-209
+207
 00:14:40,820 --> 00:14:42,820
 Kimin umurunda?!
 
-210
+208
 00:14:42,820 --> 00:14:45,490
 İlerle, Sunny!
 
-211
+209
 00:14:45,490 --> 00:14:48,830
 Wano'ya doğru!
 
-212
+210
 00:15:03,010 --> 00:15:05,550
 Hey! Gemiye yaklaşan şeyler var!
 
-213
+211
 00:15:09,430 --> 00:15:11,430
 Ne? Onlar da ne?
 
-214
+212
 00:15:11,430 --> 00:15:13,560
 Dev balıklara benziyorlar!
 
-215
+213
 00:15:13,560 --> 00:15:14,690
 Köpek balığı mı acaba?
 
-216
+214
 00:15:14,690 --> 00:15:15,730
 Köpek balığı mı?
 
-217
+215
 00:15:17,350 --> 00:15:18,980
 Sıçtık! Saldırıyor!
 
-218
+216
 00:15:27,450 --> 00:15:29,370
 S-S-Sazan...
 
-219
+217
 00:15:29,370 --> 00:15:31,290
 Muhteşem! Muhteşem!
 
-220
+218
 00:15:33,950 --> 00:15:35,410
 Kocaman sazan!
 
-221
+219
 00:15:44,050 --> 00:15:45,420
 Sazan balığı sürüsü mü?
 
-222
+220
 00:15:52,970 --> 00:15:55,020
 Denizde sazan ne arar ki?
 
-223
+221
 00:15:55,020 --> 00:15:56,560
 Tatlı su balığıdır!
 
-224
+222
 00:15:56,560 --> 00:15:58,060
 Buralarda nasıl yaşıyorlar?
 
-225
+223
 00:15:58,060 --> 00:16:01,190
 Böyle canavarımsı büyüklükteki
 balıklara mantık söker mi?
 
-226
+224
 00:16:01,190 --> 00:16:03,570
 Hey Sanji, tatları güzel midir?
 
-227
+225
 00:16:03,570 --> 00:16:06,360
 Canavar balıkları yemeyi aklından çıkar!
 
-228
+226
 00:16:06,900 --> 00:16:10,570
 Onları sıcak ve soğuk suda
 bir süre dinlendirerek sıkılaştırıyoruz;
 
-229
+227
 00:16:10,570 --> 00:16:12,580
 böylece "arai" diye bir lezzet
 elde ediliyor.
 
-230
+228
 00:16:12,580 --> 00:16:14,330
 Miso'yla Koikoku da yapabilirsin.
 
-231
+229
 00:16:14,330 --> 00:16:17,960
 Tempura ve tatlı soya sosu
 haşlamasıyla da iyi gider bak.
 
-232
+230
 00:16:17,960 --> 00:16:21,000
 Tamamdır!
 
-233
+231
 00:16:21,420 --> 00:16:24,630
 Zorolar'la buluştuğumuzda
 bu balıkla ziyafet çekeceğiz!
 
-234
+232
 00:16:24,630 --> 00:16:26,170
 Yapma, Luffy!
 
-235
+233
 00:16:26,170 --> 00:16:28,430
 Sazanın kılçığı çok olur!
 
-236
+234
 00:16:28,430 --> 00:16:29,510
 Kimin umurunda?!
 
-237
+235
 00:16:29,510 --> 00:16:31,720
 Bunun şu anda ne önemi var?!
 
-238
+236
 00:16:38,440 --> 00:16:40,100
 Direnmesene!
 
-239
+237
 00:16:40,100 --> 00:16:41,690
 Tabii direnecek be!
 
-240
+238
 00:16:42,110 --> 00:16:44,360
 Bir kere laf dinlesen ölür müsün?!
 
-241
+239
 00:16:44,360 --> 00:16:48,990
 Sanji-kun! Senin de kabahatin var.
 Luffy'yi geri getir!
 
-242
+240
 00:16:48,990 --> 00:16:50,740
 Endişelenme, Nami-san.
 
-243
+241
 00:16:50,740 --> 00:16:52,490
 Başının çaresine bakar.
 
-244
+242
 00:16:52,490 --> 00:16:53,740
 Ne?!
 
-245
+243
 00:16:53,740 --> 00:16:55,740
 Daha ziyade gemiyi koruyalım!
 
-246
+244
 00:17:17,470 --> 00:17:20,390
 Rüzgâr şiddetli! Carrot, yelkenleri topla!
 
-247
+245
 00:17:20,390 --> 00:17:21,350
 Tamamdır!
 
-248
+246
 00:17:21,350 --> 00:17:22,770
 Yardım edeyim!
 
-249
+247
 00:17:41,460 --> 00:17:46,920
 Şu suyun berraklığına bakın!
 Dağ nehrindeki suyu aratmıyor!
 
-250
+248
 00:17:46,920 --> 00:17:51,550
 Keşke berrak olmasaydı!
 Dev balıklar beni korkutuyor!
 
-251
+249
 00:17:51,970 --> 00:17:54,600
 Ne? Nehre mi girdik yani?
 
-252
+250
 00:17:55,600 --> 00:17:58,060
 Sazanlar nereye yüzüyor ki?!
 
-253
+251
 00:18:00,020 --> 00:18:01,480
 Sıkı tutunun!
 
-254
+252
 00:18:01,480 --> 00:18:03,060
 Akıntıya kapılıyoruz!
 
-255
+253
 00:18:03,980 --> 00:18:05,810
 Luffy hâlâ yakınımızda mı?
 
-256
+254
 00:18:13,110 --> 00:18:13,860
 Ne?
 
-257
+255
 00:18:16,870 --> 00:18:18,370
 Oha-çüş...!
 
-258
+256
 00:18:18,370 --> 00:18:19,830
 Bu da ne böyle?!
 
-259
+257
 00:18:20,910 --> 00:18:24,920
 Akan nehir, şelaleye mi bağlanıyor!
 Bu nasıl mümkün olabilir?!
 
-260
+258
 00:18:34,930 --> 00:18:36,050
 Anladım!
 
-261
+259
 00:18:36,640 --> 00:18:41,020
 Tatlı suyun nedeni karşımızdaki şelale ise
 üzerinde devasa bir havza da olmalı!
 
-262
+260
 00:18:41,930 --> 00:18:45,230
 Wano Ülkesi
 şelalenin ardında mı yoksa?
 
-263
+261
 00:18:45,230 --> 00:18:46,560
 Şelalenin ardı...
 
-264
+262
 00:18:46,560 --> 00:18:48,820
 Ne?! Nee?!
 
-265
+263
 00:18:48,820 --> 00:18:50,900
 Nasıl olabilir?!
 
-266
+264
 00:19:12,050 --> 00:19:14,510
 Ya! Şuna bakın!
 
-267
+265
 00:19:14,510 --> 00:19:16,590
 Sazanlar şelaleyi tırmanıyorlar!
 
-268
+266
 00:19:16,590 --> 00:19:18,260
 Nasıl be?!
 
-269
+267
 00:19:25,890 --> 00:19:28,360
 Muhteşem ya! Muhteşem!
 
-270
+268
 00:19:28,900 --> 00:19:32,900
 Gemimiz bunu yapamaz ki!
 Şelalenin dibini boylarız!
 
-271
+269
 00:19:32,900 --> 00:19:34,780
 Herhâlde!
 
-272
+270
 00:19:35,990 --> 00:19:37,280
 Luffy!
 
-273
+271
 00:19:37,280 --> 00:19:40,200
 Vay be, sazanlar amma güçlüymüş!
 
-274
+272
 00:19:40,200 --> 00:19:42,240
 Hiç sırası değil şimdi!
 
-275
+273
 00:19:42,240 --> 00:19:44,910
 Luffy! Gemimiz batacakmış!
 
-276
+274
 00:19:44,910 --> 00:19:46,370
 Tamamdır, bana bırakın.
 
-277
+275
 00:19:46,370 --> 00:19:47,620
 Ne?!
 
-278
+276
 00:19:49,130 --> 00:19:51,250
 Sıkı tutunun bakayım!
 
-279
+277
 00:19:56,970 --> 00:19:58,800
 Size güveniyorum, sazanlar!
 
-280
+278
 00:19:58,800 --> 00:20:01,100
 Dalga geçiyorsun herhâlde!
 
-281
+279
 00:20:03,010 --> 00:20:05,480
 Gidelim!
 
-282
+280
 00:20:23,490 --> 00:20:25,950
 Yaşasın!
 
-283
+281
 00:20:28,960 --> 00:20:32,500
 Tırmanıyoruz!
 
-284
+282
 00:20:53,110 --> 00:20:56,860
 Wano'nun ne biçim bir deniz sahası
 varmış ya?
 
-285
+283
 00:20:56,860 --> 00:20:58,320
 Çok kaotik.
 
-286
+284
 00:20:58,320 --> 00:21:00,820
 Hey! İşte kıyı!
 
-287
+285
 00:21:08,910 --> 00:21:10,960
 – Bir girdap!
 – Bir girdap!
 
-288
+286
 00:21:17,170 --> 00:21:19,470
 Luffy! Sazanları sal!
 
-289
+287
 00:21:19,470 --> 00:21:21,550
 Olmaz! Onları yiyeceğim!
 
-290
+288
 00:21:22,300 --> 00:21:24,600
 Kes artık!
 
-291
+289
 00:21:25,720 --> 00:21:27,810
 Brook! Dümene geç!
 
-292
+290
 00:21:27,810 --> 00:21:29,680
 Anlaşıldı!
 
-293
+291
 00:21:40,070 --> 00:21:42,530
 Çok kötü! Akıntı çok güçlü!
 
-294
+292
 00:21:48,250 --> 00:21:51,120
 Lanet olsun! Varmak üzereydik!
 
-295
+293
 00:21:52,870 --> 00:21:54,960
 Bu sefer kesin gidiciyiz!
 
-296
+294
 00:21:55,380 --> 00:21:57,670
 Doktorin!
 
-297
+295
 00:22:01,510 --> 00:22:03,590
 Hey? Sazanlarım nereye gitti?
 
-298
+296
 00:22:03,590 --> 00:22:05,510
 Daha büyük dertlerimiz var!
 
-299
+297
 00:22:05,510 --> 00:22:06,720
 Ha?
 
-300
+298
 00:22:18,070 --> 00:22:21,490
 Olamaz! Girdaba yakalanmışız!
 
-301
+299
 00:00:04,940 --> 00:00:08,450
 Yeni Dünya
+
+300
+00:00:04,940 --> 00:00:08,450
+Yeni Dünya
+
+301
+00:00:08,530 --> 00:00:13,240
+Mink Muhafızları
 
 302
-00:00:04,940 --> 00:00:08,450
-Yeni Dünya
+00:00:08,530 --> 00:00:13,240
+Mink Muhafızları
 
 303
-00:00:08,530 --> 00:00:13,240
-Mink Muhafızları
+00:02:25,500 --> 00:02:31,760
+Marco
+Eski Beyazsakal Korsanları Üyesi
+1. Tümen Komutanı (Doktor)
 
 304
-00:00:08,530 --> 00:00:13,240
-Mink Muhafızları
+00:02:25,500 --> 00:02:31,760
+Marco
+Eski Beyazsakal Korsanları Üyesi
+1. Tümen Komutanı (Doktor)
 
 305
-00:02:25,500 --> 00:02:31,760
-Marco
-Eski Beyazsakal Korsanları Üyesi
-1. Tümen Komutanı (Doktor)
+00:03:16,510 --> 00:03:19,220
+Nekomamushi
+Mink Muhafızı
 
 306
-00:02:25,500 --> 00:02:31,760
-Marco
-Eski Beyazsakal Korsanları Üyesi
-1. Tümen Komutanı (Doktor)
+00:03:16,510 --> 00:03:19,220
+Nekomamushi
+Mink Muhafızı
 
 307
-00:03:16,510 --> 00:03:19,220
-Nekomamushi
-Mink Muhafızı
+00:08:02,630 --> 00:08:06,010
+Yeni Dünya Suları
 
 308
-00:03:16,510 --> 00:03:19,220
-Nekomamushi
-Mink Muhafızı
+00:08:02,630 --> 00:08:06,010
+Yeni Dünya Suları
 
 309
-00:08:02,630 --> 00:08:06,010
-Yeni Dünya Suları
+00:08:38,660 --> 00:08:43,420
+"Hasır Şapkalı" Luffy
+Hasır Şapka Korsanları Kaptanı
+Kelle Ödülü: ¬1.5 Milyar
 
 310
-00:08:02,630 --> 00:08:06,010
-Yeni Dünya Suları
-
-311
 00:08:38,660 --> 00:08:43,420
 "Hasır Şapkalı" Luffy
 Hasır Şapka Korsanları Kaptanı
 Kelle Ödülü: ¬1.5 Milyar
 
-312
-00:08:38,660 --> 00:08:43,420
-"Hasır Şapkalı" Luffy
-Hasır Şapka Korsanları Kaptanı
-Kelle Ödülü: ¬1.5 Milyar

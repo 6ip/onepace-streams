@@ -1,2417 +1,2404 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:02:32,510 --> 00:02:42,500
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:50,340 --> 00:01:52,010
 Kızıl Bacak Zeff.
 
-4
+2
 00:01:52,630 --> 00:01:55,140
 Yaşıyordun demek.
 
-5
+3
 00:01:55,140 --> 00:01:59,600
 Hem aşçılık hem de kaptanlık yapmış,
 rakipsiz bir korsan.
 
-6
+4
 00:02:00,100 --> 00:02:02,810
 Yaşıyorsam ne olmuş?
 
-7
+5
 00:02:02,810 --> 00:02:05,480
 Bu seni ilgilendirmiyor.
 
-8
+6
 00:02:05,480 --> 00:02:10,070
 Gördüğün gibi,
 artık bir aşçı olarak yaşıyorum.
 
-9
+7
 00:02:12,900 --> 00:02:15,700
 Bunu böyle söylemen kulağa hoş geliyor...
 
-10
+8
 00:02:15,700 --> 00:02:19,540
 ama sen sadece zaman geçirmek için
 aşçılık yapmıyorsun,...
 
-11
+9
 00:02:19,540 --> 00:02:22,710
 sanki yapabildiğin tek şey bu.
 
-12
+10
 00:02:23,120 --> 00:02:30,210
 Kızıl Bacak Zeff, ellerini kullanmadan
 dövüşen bir tekme ustasıdır.
 
-13
+11
 00:02:30,630 --> 00:02:37,970
 Güçlü bacaklarının kayaları parçalayıp
 çeliğin üstünde iz bıraktığı söylenir.
 
-14
+12
 00:02:38,760 --> 00:02:40,680
 “Kızıl Bacak” lakabı,
 
-15
+13
 00:02:40,680 --> 00:02:46,690
 tekmelediklerinin kanıyla kaplı,
 alevi andıran çizmelerinden gelir.
 
-16
+14
 00:02:47,440 --> 00:02:52,440
 Ama görüyorum ki, o değerli
 bacaklarından birini kaybetmişsin.
 
-17
+15
 00:02:53,490 --> 00:02:56,200
 Demek ki söylentiler doğruymuş.
 
-18
+16
 00:02:56,200 --> 00:02:59,530
 Denizde böyle bir kaza
 yaşaman baya şanssızlık.
 
-19
+17
 00:03:00,080 --> 00:03:06,250
 Bir bacağını kaybetmek
 dövüş yeteneğini de götürür sanırım.
 
-20
+18
 00:03:06,580 --> 00:03:08,920
 Dövüşmek umurumda değil.
 
-21
+19
 00:03:08,920 --> 00:03:13,670
 Bir bacağımı kaybettim ama ellerim
 olduğu sürece yemek yapabilirim.
 
-22
+20
 00:03:13,670 --> 00:03:17,470
 Ne demek istiyorsan söyle artık.
 
-23
+21
 00:03:19,140 --> 00:03:21,180
 Kızıl Bacak Zeff,
 
-24
+22
 00:03:21,180 --> 00:03:26,480
 bir keresinde Grand Line'a gittin ve
 hiç yaralanmadan geri döndün.
 
-25
+23
 00:03:26,480 --> 00:03:32,570
 O bir yıllık yolcuğuluktan kalma
 bir seyir defterin olması lazım.
 
-26
+24
 00:03:32,980 --> 00:03:34,360
 Onu bana ver!
 
-27
+25
 00:03:35,950 --> 00:03:40,160
 Vay, ihtiyar!
 Sen de mi Grand Line'a gittin?!
 
-28
+26
 00:03:40,160 --> 00:03:41,160
 Evet...
 
-29
+27
 00:03:41,990 --> 00:03:43,660
 Seyir defterim, ha?
 
-30
+28
 00:03:43,660 --> 00:03:47,210
 Evet, istediğin şeye sahibim.
 
-31
+29
 00:03:47,620 --> 00:03:50,290
 Ama onu sana vermemin imkanı yok.
 
-32
+30
 00:03:51,500 --> 00:03:56,720
 O seyir defteri, benimle yolculuk eden
 herkesin onurunu taşıyor.
 
-33
+31
 00:03:56,720 --> 00:04:01,260
 Senin gibilere fazla ağır gelir.
 
-34
+32
 00:04:01,720 --> 00:04:04,310
 O zaman zorla almam gerekecek!
 
-35
+33
 00:04:05,060 --> 00:04:08,560
 Grand Line'ın beni yendiğini
 kabul ediyorum.
 
-36
+34
 00:04:08,560 --> 00:04:12,320
 Ama yenilgide bile,
 ben yılmaz Don Krieg
 
-37
+35
 00:04:12,980 --> 00:04:16,990
 en tehlikeli denizleri geçebilecek
 güce sahiptim.
 
-38
+36
 00:04:16,990 --> 00:04:18,200
 Adamlarım vardı.
 
-39
+37
 00:04:18,200 --> 00:04:19,660
 Hırsım vardı.
 
-40
+38
 00:04:21,490 --> 00:04:25,410
 Tek eksik olan şey bilgiydi.
 
-41
+39
 00:04:25,870 --> 00:04:28,120
 Sadece neyle karşılaşacağımı bilmiyordum.
 
-42
+40
 00:04:29,210 --> 00:04:31,630
 O seyir defteri benim olacak.
 
-43
+41
 00:04:31,630 --> 00:04:37,340
 Onunla korsan filomu yeniden toplayıp
 One Piece’i ele geçireceğim.
 
-44
+42
 00:04:37,760 --> 00:04:41,140
 Ve bu Büyük Korsan Çağı'nın
 en tepesine çıkacağım!
 
-45
+43
 00:04:46,770 --> 00:04:47,850
 Dur bakalım.
 
-46
+44
 00:04:48,230 --> 00:04:50,600
 Korsanlar Kralı olacak kişi benim!
 
-47
+45
 00:04:51,600 --> 00:04:52,270
 Kamarot?!
 
-48
+46
 00:04:53,520 --> 00:04:56,030
 Hey, geri dur, Kamarot!
 
-49
+47
 00:04:56,030 --> 00:04:57,900
 Sen onun dengi değilsin!
 
-50
+48
 00:04:57,900 --> 00:05:00,610
 Geri duramam. Bu konu da olmaz.
 
-51
+49
 00:05:02,530 --> 00:05:05,160
 Bir şey mi söyledin, velet?
 
-52
+50
 00:05:05,660 --> 00:05:08,000
 Demin söylediklerini görmezden geleceğim.
 
-53
+51
 00:05:08,000 --> 00:05:10,080
 Buna gerek yok.
 
-54
+52
 00:05:10,080 --> 00:05:12,000
 Sadece gerçeği söylüyorum.
 
-55
+53
 00:05:12,790 --> 00:05:15,000
 Bu bir oyun değil, çocuk.
 
-56
+54
 00:05:15,500 --> 00:05:16,630
 Haklısın.
 
-57
+55
 00:05:16,630 --> 00:05:18,970
 Grand Line'a ben hükmedeceğim.
 
-58
+56
 00:05:19,760 --> 00:05:21,760
 Bu iş şaka değil, velet!
 
-59
+57
 00:05:21,760 --> 00:05:23,890
 Bilgi eksikliğimizi bir kenara koyarsak,
 
-60
+58
 00:05:23,890 --> 00:05:27,850
 5,000 kişilik 50 gemim o acımasız
 denizde sadece yedi gün dayandı!
 
-61
+59
 00:05:27,850 --> 00:05:30,060
 Senin gibi bir veledin
 hiç şansı yok!
 
-62
+60
 00:05:30,060 --> 00:05:32,060
 Y-Yedi gün mü?
 
-63
+61
 00:05:32,060 --> 00:05:34,940
 Krieg Korsanları sadece
 yedi gün mü dayanabildi?!
 
-64
+62
 00:05:35,610 --> 00:05:37,280
 Onlara ne oldu böyle?!
 
-65
+63
 00:05:37,860 --> 00:05:42,030
 Üzgünüm ama bu şekilde şaka
 yapılmasından nefret ediyorum.
 
-66
+64
 00:05:42,530 --> 00:05:47,490
 Israrına devam edersen,
 seni burada ezip geçerim.
 
-67
+65
 00:05:47,910 --> 00:05:49,870
 Ezebilirsen tabii.
 
-68
+66
 00:05:52,500 --> 00:05:54,330
 Nasıl istersen.
 
-69
+67
 00:05:54,330 --> 00:05:58,380
 İstediğin gibi,
 seni öbür dünyaya yollayacağım.
 
-70
+68
 00:06:04,220 --> 00:06:06,930
 Dövüşecek misin, Luffy?
 Yardım lazım mı?
 
-71
+69
 00:06:06,930 --> 00:06:09,470
 Ş-şey, yardıma gerek
 yoksa da olur tabii...
 
-72
+70
 00:06:10,140 --> 00:06:13,140
 Zoro! Usopp!
 Burada olduğunuzu bilmiyordum!
 
-73
+71
 00:06:13,140 --> 00:06:15,230
 İyiyim ben.
 Oradan izleyin sadece.
 
-74
+72
 00:06:15,230 --> 00:06:16,520
 T-Tamam.
 
-75
+73
 00:06:18,610 --> 00:06:21,110
 Onlar senin adamların mı?
 
-76
+74
 00:06:21,690 --> 00:06:24,160
 Bayağı küçük bir tayfan varmış!
 
-77
+75
 00:06:24,160 --> 00:06:27,070
 Ne diyorsun sen?!
 İki kişi daha var!
 
-78
+76
 00:06:27,070 --> 00:06:29,040
 Hey! Beni de saydın, değil mi?!
 
-79
+77
 00:06:30,450 --> 00:06:32,790
 Sizinle daha sonra ilgileneceğim.
 
-80
+78
 00:06:33,330 --> 00:06:36,290
 Önce gidip adamlarımı beslemeliyim.
 
-81
+79
 00:06:38,960 --> 00:06:44,010
 Canını seven, ben geri dönmeden
 buradan ayrılsa iyi olur.
 
-82
+80
 00:06:44,760 --> 00:06:49,180
 Tek istediğim o seyir defteri
 ve bu gemi.
 
-83
+81
 00:06:50,930 --> 00:06:54,690
 Eğer hâlâ hayatınızı önemsemiyorsanız,
 
-84
+82
 00:06:54,690 --> 00:06:57,860
 sizi denizin dibine gömeceğim!
 
-85
+83
 00:06:58,360 --> 00:06:59,980
 Seçiminizi yapın.
 
-86
+84
 00:07:04,740 --> 00:07:06,740
 Çok üzgünüm, Sanji-san.
 
-87
+85
 00:07:06,740 --> 00:07:09,580
 Bu kadar ileri gideceğini bilmiyordum.
 
-88
+86
 00:07:09,580 --> 00:07:13,410
 Özre gerek yok, çaylak.
 
-89
+87
 00:07:14,580 --> 00:07:18,920
 Buradaki her aşçı neyin doğru
 olduğunu düşündülerse onu yaptılar.
 
-90
+88
 00:07:18,920 --> 00:07:21,000
 Hepsi bu.
 
-91
+89
 00:07:21,000 --> 00:07:22,380
 Patron!
 
-92
+90
 00:07:22,380 --> 00:07:27,010
 Ciddi ciddi Sanji'nin tarafını
 tutmuyorsun, değil mi?
 
-93
+91
 00:07:27,010 --> 00:07:28,340
 Evet!
 
-94
+92
 00:07:28,340 --> 00:07:31,220
 Olanların hepsi onun suçu!
 
-95
+93
 00:07:31,720 --> 00:07:34,770
 Sizin değerli restoranınızı
 yok etmeye çalışıyor!
 
-96
+94
 00:07:34,770 --> 00:07:36,560
 Susun artık, sizi lanet patlıcanlar!
 
-97
+95
 00:07:37,770 --> 00:07:43,780
 Hiç açlıktan öleceğinizi
 düşündüğünüz bir an oldu mu?!
 
-98
+96
 00:07:44,240 --> 00:07:51,280
 Bu sonsuz denizde aç ve
 susuz kalmanın ne denli...
 
-99
+97
 00:07:51,280 --> 00:07:54,540
 acı ve dehşet verici olduğunu
 anlayabilir misiniz?!
 
-100
+98
 00:07:54,540 --> 00:07:55,410
 Ha?
 
-101
+99
 00:07:55,410 --> 00:07:58,040
 N-Ne demek istiyorsunuz, Patron?!
 
-102
+100
 00:07:58,040 --> 00:08:03,550
 Sanji’nin sizden farkı,
 ne demek istediğimi anlamasıdır.
 
-103
+101
 00:08:05,670 --> 00:08:08,300
 Ben burada kalıp dövüşeceğim!
 
-104
+102
 00:08:08,300 --> 00:08:11,470
 Öylece kaçıp gitmek için fazla sinirliyim!
 
-105
+103
 00:08:11,470 --> 00:08:15,430
 Ben de! Burası benim çalıştığım yer!
 
-106
+104
 00:08:15,430 --> 00:08:17,810
 Gidecek başka yerimiz yok zaten!
 
-107
+105
 00:08:19,650 --> 00:08:21,690
 Ne yapıyorsunuz?!
 
-108
+106
 00:08:21,690 --> 00:08:24,650
 Don'un neler yapabileceğini gördünüz!
 
-109
+107
 00:08:24,650 --> 00:08:26,150
 Hey, Gin!
 
-110
+108
 00:08:26,570 --> 00:08:28,110
 Sana bir şey söyleyeyim.
 
-111
+109
 00:08:28,110 --> 00:08:33,080
 Bir aşçı olarak benim görevim,
 karnı aç olanları beslemektir.
 
-112
+110
 00:08:33,080 --> 00:08:33,870
 Ama...
 
-113
+111
 00:08:38,660 --> 00:08:42,040
 o yağmacılar, tok karınlarıyla
 yedikleri kaba sıçarlarsa
 
-114
+112
 00:08:42,790 --> 00:08:47,630
 korsan arkadaşlarını pataklarken
 sesini çıkarmayasın!
 
-115
+113
 00:08:47,630 --> 00:08:49,550
 Eğer bu restorana el uzatırsanız...
 
-116
+114
 00:08:49,880 --> 00:08:53,260
 bir an bile düşünmeden sizi öldürüm.
 
-117
+115
 00:08:53,890 --> 00:08:55,010
 Anladın mı?
 
-118
+116
 00:08:57,220 --> 00:09:01,650
 Önce kurtarıp sonra öldürmek mi? 
 Umutsuz vakanın tekisin, Sanji.
 
-119
+117
 00:09:01,650 --> 00:09:03,060
 Kapa çeneni, berbat aşçı!
 
-120
+118
 00:09:03,440 --> 00:09:05,690
 Şuna bakın!
 Çok havalı değil mi?!
 
-121
+119
 00:09:05,690 --> 00:09:08,110
 O kimin umurunda?!
 
-122
+120
 00:09:08,110 --> 00:09:10,240
 Buradan gitmemiz lazım!
 
-123
+121
 00:09:10,240 --> 00:09:11,160
 Sakin ol!
 
-124
+122
 00:09:11,700 --> 00:09:14,660
 Krieg olsa bile, şu anda bitik durumda.
 
-125
+123
 00:09:15,660 --> 00:09:20,330
 Gin, Grand Line hakkında hiçbir şey
 bilmediğini söylemiştin ama,
 
-126
+124
 00:09:20,330 --> 00:09:22,210
 oraya gittin, değil mi?!
 
-127
+125
 00:09:23,330 --> 00:09:25,670
 Orası hakkında hiçbir şey bilmediğim doğru.
 
-128
+126
 00:09:26,130 --> 00:09:30,340
 Grand Line'daki yedinci günümüzde
 gördüğümüz şey...
 
-129
+127
 00:09:30,340 --> 00:09:32,010
 bir hayal de olabilir,
 
-130
+128
 00:09:33,090 --> 00:09:34,050
 gerçek de...
 
-131
+129
 00:09:35,050 --> 00:09:38,890
 Hala daha kafamı toparlayamıyorum.
 
-132
+130
 00:09:39,850 --> 00:09:41,640
 İnanılmaz bir şeydi!
 
-133
+131
 00:09:44,060 --> 00:09:45,770
 Yalnız bir adam, nasıl...
 
-134
+132
 00:09:48,280 --> 00:09:51,990
 50 gemiden oluşan bir filoyu yok edebilir?!
 
-135
+133
 00:09:56,870 --> 00:09:59,620
 – Ne?!
 – Ne?!
 
-136
+134
 00:10:01,410 --> 00:10:04,250
 Bir anda oluverdi.
 
-137
+135
 00:10:04,250 --> 00:10:07,630
 Biz daha onun orada olduğunu anlayamadan,
 
-138
+136
 00:10:07,630 --> 00:10:10,670
 gemiler ardı ardına batmaya başladı.
 
-139
+137
 00:10:15,010 --> 00:10:18,510
 O fırtına ile karşılaşmamış olsaydık,
 
-140
+138
 00:10:18,510 --> 00:10:21,810
 ana gemimiz de
 aynı kader ile yüzleşecekti.
 
-141
+139
 00:10:29,480 --> 00:10:33,570
 Kaç tane gemimizin
 hayatta kaldığını bilmiyorum.
 
-142
+140
 00:10:33,570 --> 00:10:38,200
 Gerçek olduğunu kabul etmek için
 fazla korkunçtu.
 
-143
+141
 00:10:38,200 --> 00:10:40,160
 Hatırlamak istemiyorum!
 
-144
+142
 00:10:41,160 --> 00:10:42,910
 O adamı unutmak istiyorum—
 
-145
+143
 00:10:42,910 --> 00:10:46,830
 sadece bir bakışıyla nasıl öldürebildiğini—
 
-146
+144
 00:10:46,830 --> 00:10:49,170
 o şahin gibi bakışıyla!
 
-147
+145
 00:10:49,800 --> 00:10:50,800
 Ne?!
 
-148
+146
 00:10:50,800 --> 00:10:51,550
 Ha?
 
-149
+147
 00:10:52,670 --> 00:10:54,470
 Yoksa...?!
 
-150
+148
 00:10:58,180 --> 00:11:00,260
 O muhtemelen...
 
-151
+149
 00:11:00,680 --> 00:11:04,020
 Şahin Göz olarak bilinen adam.
 
-152
+150
 00:11:04,020 --> 00:11:04,890
 Ne?
 
-153
+151
 00:11:05,440 --> 00:11:11,360
 Sadece gözlerinin şahin gibi
 olması, kanıt sayılmaz.
 
-154
+152
 00:11:11,360 --> 00:11:17,490
 Böyle bir yıkımı yaratabilecek olması,
 o olduğunu işaret eden güçlü bir delil.
 
-155
+153
 00:11:17,950 --> 00:11:19,830
 Şahin gözlü adam!
 
-156
+154
 00:11:19,830 --> 00:11:22,160
 Ha? Tanıyor musun, Zoro?
 
-157
+155
 00:11:23,410 --> 00:11:25,040
 Evet...
 
-158
+156
 00:11:25,040 --> 00:11:27,330
 O benim aradığım kişi.
 
-159
+157
 00:11:29,420 --> 00:11:33,340
 O adam sizin tayfanıza karşı
 bir kin besliyor olmalı.
 
-160
+158
 00:11:33,340 --> 00:11:35,220
 Onu daha önce hiç görmedim!
 
-161
+159
 00:11:35,220 --> 00:11:38,010
 Onu uykusundan falan
 uyandırmışsınızdır belki de.
 
-162
+160
 00:11:38,010 --> 00:11:39,640
 Saçmalamayın!
 
-163
+161
 00:11:39,640 --> 00:11:42,890
 Kim böyle bir şey için
 bir filoyu yok eder?!
 
-164
+162
 00:11:44,230 --> 00:11:46,140
 Bu kadar sinirlenme.
 
-165
+163
 00:11:46,140 --> 00:11:47,850
 Ben sadece...
 
-166
+164
 00:11:48,650 --> 00:11:53,820
 Grand Line'da böyle şeylerin
 mümkün olduğunu söylüyorum.
 
-167
+165
 00:11:53,820 --> 00:11:56,450
 Ne tür bir yer orası?!
 
-168
+166
 00:11:56,450 --> 00:11:59,200
 Her şeyin olabileceği bir yer.
 
-169
+167
 00:12:00,370 --> 00:12:03,620
 Hey Luffy, öyle bir yere gitmemeliyiz!
 
-170
+168
 00:12:03,620 --> 00:12:05,250
 Luffy!
 
-171
+169
 00:12:08,250 --> 00:12:10,170
 Hey, Luffy?
 
-172
+170
 00:12:10,540 --> 00:12:13,920
 Vay, çok heyecanlandım!
 
-173
+171
 00:12:13,920 --> 00:12:15,970
 Öyle bir yer olduğunu biliyordum!
 
-174
+172
 00:12:15,970 --> 00:12:18,510
 En azından ne kadar tehlikeli
 olduğunu kabullen!
 
-175
+173
 00:12:18,510 --> 00:12:23,260
 Bununla beraber, artık tek hedefim
 kesinlikle Grand Line.
 
-176
+174
 00:12:23,260 --> 00:12:24,720
 Ne?!
 
-177
+175
 00:12:25,140 --> 00:12:26,770
 O adamı...
 
-178
+176
 00:12:26,770 --> 00:12:29,600
 O adamı Grand Line'da bulacağım!
 
-179
+177
 00:12:31,230 --> 00:12:33,440
 Delirdin mi sen?
 
-180
+178
 00:12:34,150 --> 00:12:36,610
 Tam olarak,
 önden saldırıp ölecek bir tipsin.
 
-181
+179
 00:12:36,990 --> 00:12:40,450
 Haklısın aslında, ama bana deli
 demekle ileri gidiyorsun.
 
-182
+180
 00:12:41,570 --> 00:12:46,410
 Dünyanın en iyi kılıç ustası olmayı
 seçtiğimde zaten hayatımı çöpe attım.
 
-183
+181
 00:12:46,910 --> 00:12:51,130
 Sadece tek bir kişi bana
 deli diyebilir ve o kişi de benim!
 
-184
+182
 00:12:53,290 --> 00:12:55,630
 Evet, benim için de aynısı geçerli!
 
-185
+183
 00:12:55,630 --> 00:12:58,380
 Aynı şekilde ben de,
 sonuçta denizciyim!
 
-186
+184
 00:12:58,380 --> 00:13:00,090
 Yalan söylüyorsun.
 
-187
+185
 00:13:02,550 --> 00:13:04,310
 Saçmalık...
 
-188
+186
 00:13:07,730 --> 00:13:09,730
 Hey, hey!
 
-189
+187
 00:13:09,730 --> 00:13:13,730
 Siz mankafalar burada neler
 döndüğünün farkında mısınız?!
 
-190
+188
 00:13:13,730 --> 00:13:20,950
 Dışarıda, Komodor Don Krieg’in
 filosuna ait devasa bir kalyon var!
 
-191
+189
 00:13:20,950 --> 00:13:25,030
 Bu savaş bittiğinde
 istediğiniz hayali kurabilirsiniz!
 
-192
+190
 00:13:34,170 --> 00:13:36,550
 – Kurtulduk!
 – Kurtulduk!
 
-193
+191
 00:13:36,550 --> 00:13:38,300
 Bu harika! Yaşayacağız!
 
-194
+192
 00:13:38,300 --> 00:13:39,840
 Sanki bir rüya gibi!
 
-195
+193
 00:13:39,840 --> 00:13:42,510
 Bu kabustan kurtulduk!
 
-196
+194
 00:13:42,510 --> 00:13:46,970
 Korsan Mezarlığı'ndan canlı çıktık!
 
-197
+195
 00:13:49,060 --> 00:13:50,140
 Bu doğru...
 
-198
+196
 00:13:50,890 --> 00:13:55,230
 Gözlerimizi bir kez daha
 Grand Line'a dikebiliriz.
 
-199
+197
 00:13:57,900 --> 00:13:59,360
 Ha?
 
-200
+198
 00:13:59,360 --> 00:14:00,990
 Bu bakışlar da ne?
 
-201
+199
 00:14:01,570 --> 00:14:03,910
 O-Oraya geri mi döneceğiz?!
 
-202
+200
 00:14:09,830 --> 00:14:13,580
 Başka itirazı olan var mı?
 
-203
+201
 00:14:25,550 --> 00:14:26,800
 İlk olarak,
 
-204
+202
 00:14:27,350 --> 00:14:32,520
 bu tamir edilemez gemiyi terk edip
 o restoranı ele geçireceğiz.
 
-205
+203
 00:14:32,520 --> 00:14:35,690
 Çalışanları bir grup
 haydutumsu aşçıdan ibaret.
 
-206
+204
 00:14:35,690 --> 00:14:38,270
 Bize karşı hiç şansları yok.
 
-207
+205
 00:14:44,490 --> 00:14:45,780
 Saldırın!
 
-208
+206
 00:14:51,250 --> 00:14:53,710
 Geliyorlar!
 Bağırışlarını duyabiliyorum!
 
-209
+207
 00:14:53,710 --> 00:14:57,750
 Onları uzak tutun!
 Bu gemi bizim restoranımız!
 
-210
+208
 00:15:01,380 --> 00:15:03,130
 Yolu açın, sizi pislikler!
 
-211
+209
 00:15:19,650 --> 00:15:20,520
 O da neydi?!
 
-212
+210
 00:15:21,860 --> 00:15:23,360
 Ne oldu?!
 
-213
+211
 00:15:23,360 --> 00:15:25,320
 Don Krieg!
 
-214
+212
 00:15:25,320 --> 00:15:27,280
 Ana gemimiz...
 
-215
+213
 00:15:27,280 --> 00:15:29,280
 ikiye bölündü!
 
-216
+214
 00:15:29,280 --> 00:15:32,040
 İkiye mi bölündü?! Doğru mu duydum?!
 
-217
+215
 00:15:32,040 --> 00:15:34,790
 Bizim devasa kalyon mu?!
 
-218
+216
 00:15:34,790 --> 00:15:35,910
 Böylesi...
 
-219
+217
 00:15:36,500 --> 00:15:40,750
 imkansız bir şey nasıl olabilir?!
 
-220
+218
 00:15:43,960 --> 00:15:45,720
 Demir atın!
 
-221
+219
 00:15:45,720 --> 00:15:47,970
 Bütün gemiyi yok edecek!
 
-222
+220
 00:15:47,970 --> 00:15:48,930
 Emredersiniz!
 
-223
+221
 00:15:51,430 --> 00:15:52,430
 Hiç iyi değil!
 
-224
+222
 00:15:52,430 --> 00:15:55,390
 Nami, Yosaku ve Johnny ön taraftaki gemide!
 
-225
+223
 00:15:56,480 --> 00:15:59,060
 Kahretsin!
 Muhtemelen çoktan geç kaldık!
 
-226
+224
 00:16:07,860 --> 00:16:09,950
 Abi!
 
-227
+225
 00:16:09,950 --> 00:16:11,410
 Abi!
 
-228
+226
 00:16:11,410 --> 00:16:14,410
 Yosaku! Johnny!
 
-229
+227
 00:16:14,410 --> 00:16:15,410
 İyi misiniz?
 
-230
+228
 00:16:15,790 --> 00:16:18,540
 Gemi nerede?! Gitmiş!
 Nami'ye ne oldu?!
 
-231
+229
 00:16:18,540 --> 00:16:19,790
 Şey...
 
-232
+230
 00:16:19,790 --> 00:16:23,050
 Üzgünüm, abi!
 O çoktan gitti!
 
-233
+231
 00:16:23,050 --> 00:16:26,050
 Görüşürüz!
 Luffy ve diğerlerine şöyle söyleyin...
 
-234
+232
 00:16:26,050 --> 00:16:27,550
 Nami Abla...!
 
-235
+233
 00:16:27,550 --> 00:16:30,140
 "Kaderde varsa, yine karşılaşırız."
 
-236
+234
 00:16:30,930 --> 00:16:34,890
 Tüm hazineyi aldı ve kaçtı!
 
-237
+235
 00:16:34,890 --> 00:16:36,100
 – N...?!
 – N...?!
 
-238
+236
 00:16:36,100 --> 00:16:38,230
 – Ne dedin?!
 – Ne dedin?!
 
-239
+237
 00:16:50,490 --> 00:16:52,160
 O adam...
 
-240
+238
 00:17:09,840 --> 00:17:10,840
 Ne diyorsunuz siz?!
 
-241
+239
 00:17:10,840 --> 00:17:14,100
 Nami Going Merry'yi alıp kaçtı mı?!
 
-242
+240
 00:17:14,100 --> 00:17:16,390
 Ne yaptığını sanıyor ki?!
 
-243
+241
 00:17:22,060 --> 00:17:25,110
 Daha az önce oldu!
 
-244
+242
 00:17:29,240 --> 00:17:31,490
 Bir sorun mu var, Nami Abla?
 
-245
+243
 00:17:31,490 --> 00:17:32,070
 Ha?
 
-246
+244
 00:17:32,660 --> 00:17:35,200
 Bu posterlere bakıyorsun da.
 
-247
+245
 00:17:35,200 --> 00:17:37,200
 Ah... Hiçbir şey...
 
-248
+246
 00:17:37,200 --> 00:17:39,450
 Her zamanki gibi etkileyicisin.
 
-249
+247
 00:17:39,870 --> 00:17:42,580
 Görüyorum ki büyük bir ödül
 dikkatini çekmiş.
 
-250
+248
 00:17:42,580 --> 00:17:46,460
 Ama Arlong, peşinden gitmemen
 gereken bir korsan.
 
-251
+249
 00:17:46,460 --> 00:17:48,550
 Acayip güçlü olduğunu söylüyorlar.
 
-252
+250
 00:17:48,550 --> 00:17:55,600
 Uzun süre sessiz sedasız takılıyordu,
 şimdi tekrar fırtına koparıyor.
 
-253
+251
 00:17:55,970 --> 00:17:59,520
 Ama o 20 milyon beli'lik ödülden
 vazgeçmek de zor tabii.
 
-254
+252
 00:17:59,520 --> 00:18:05,730
 Bu adam o kadar güçlü ki,
 savaşsak ölümle burun buruna geliriz.
 
-255
+253
 00:18:06,320 --> 00:18:07,020
 – Ha?
 – Ha?
 
-256
+254
 00:18:07,400 --> 00:18:08,440
 Nami Abla?
 
-257
+255
 00:18:10,070 --> 00:18:14,280
 Affedersiniz, üzerimi değiştireceğim,
 arkanızı döner misiniz?
 
-258
+256
 00:18:14,280 --> 00:18:15,280
 – Ne?!
 – Ne?!
 
-259
+257
 00:18:15,280 --> 00:18:16,910
 Ş-Şey...
 
-260
+258
 00:18:16,910 --> 00:18:18,240
 Değiştirmek? Burada? Şimdi?!
 
-261
+259
 00:18:18,790 --> 00:18:20,450
 Sakıncası yoksa.
 
-262
+260
 00:18:21,080 --> 00:18:22,790
 – Devam edin, lütfen!
 – Devam edin, lütfen!
 
-263
+261
 00:18:27,750 --> 00:18:30,760
 Gerçekten de göründüğü kadar cesur!
 
-264
+262
 00:18:30,760 --> 00:18:33,680
 Bir göz atmaktan zarar gelmez, değil mi?
 
-265
+263
 00:18:33,680 --> 00:18:34,470
 Hiç olmaz!
 
-266
+264
 00:18:41,810 --> 00:18:43,600
 N-Ne yapıyorsun?!
 
-267
+265
 00:18:44,730 --> 00:18:46,940
 Ne mi yapıyorum?
 İş, tabii ki!
 
-268
+266
 00:18:46,940 --> 00:18:49,070
 Ben korsanlardan çalan bir hırsızım.
 
-269
+267
 00:18:49,070 --> 00:18:50,730
 Bu gemiyi alıyorum.
 
-270
+268
 00:18:51,690 --> 00:18:54,820
 Tayfadan biri olduğumu asla söylemedim.
 
-271
+269
 00:18:54,820 --> 00:18:56,280
 Sadece bir ittifaktı.
 
-272
+270
 00:18:56,280 --> 00:19:01,040
 Luffy ve diğerleriyle kısa bir zaman
 geçirdim ama çok eğlendim.
 
-273
+271
 00:19:01,910 --> 00:19:03,540
 Onlara şöyle söyleyin:
 
-274
+272
 00:19:04,410 --> 00:19:07,290
 "Kaderde varsa, yine karşılaşırız."
 
-275
+273
 00:19:08,540 --> 00:19:10,460
 Nami Abla!
 
-276
+274
 00:19:17,840 --> 00:19:20,180
 D-Dur! Bunu yapamazsın!
 
-277
+275
 00:19:20,180 --> 00:19:25,060
 Bizden gemiye göz kulak
 olmamız söylenmişti!
 
-278
+276
 00:19:30,400 --> 00:19:33,740
 Ve işte gemiyi böyle aldı...
 
-279
+277
 00:19:33,740 --> 00:19:34,570
 Üzgünüz!
 
-280
+278
 00:19:34,570 --> 00:19:35,400
 Kahretsin!
 
-281
+279
 00:19:35,400 --> 00:19:38,780
 Bizim için bu krizi
 daha da kötü hale getirdi!
 
-282
+280
 00:19:38,780 --> 00:19:41,120
 Bize o gemiyi Kaya vermişti!
 
-283
+281
 00:19:41,120 --> 00:19:43,080
 Bekle! Onu hala görebiliyorum!
 
-284
+282
 00:19:43,080 --> 00:19:45,040
 Bu Going Merry!
 
-285
+283
 00:19:45,410 --> 00:19:46,790
 Sizin geminiz nerede?
 
-286
+284
 00:19:46,790 --> 00:19:48,380
 Hala burada duruyor...
 
-287
+285
 00:19:49,000 --> 00:19:50,630
 Zoro! Usopp! Hemen gidin!
 
-288
+286
 00:19:50,630 --> 00:19:52,590
 O gemiye binin ve Nami'yi takip edin!
 
-289
+287
 00:19:52,590 --> 00:19:55,420
 Unut gitsin.
 Bırak gemiyi alsın.
 
-290
+288
 00:19:55,420 --> 00:19:58,140
 O kadının arkasından gitmeye gerek yok.
 
-291
+289
 00:19:58,140 --> 00:20:01,010
 Başka kimseyi rotacımız istemiyorum!
 
-292
+290
 00:20:03,430 --> 00:20:06,940
 Tamam, nasıl istiyorsan...
 Ne zahmetli kaptansın ama!
 
-293
+291
 00:20:07,520 --> 00:20:08,690
 Hey, Usopp! Gidelim!
 
-294
+292
 00:20:08,690 --> 00:20:10,230
 T-Tamam...
 
-295
+293
 00:20:12,270 --> 00:20:14,820
 – Zoro abi, gemi hazır!
 – Zoro abi, gemi hazır!
 
-296
+294
 00:20:15,190 --> 00:20:16,570
 Luffy, peki sen?
 
-297
+295
 00:20:16,570 --> 00:20:20,820
 Bu restorandaki işim
 henüz bitmediği için ayrılamam.
 
-298
+296
 00:20:20,820 --> 00:20:22,280
 Dikkatli ol.
 
-299
+297
 00:20:22,280 --> 00:20:24,620
 Buradaki durum hiç normal değil.
 
-300
+298
 00:20:24,620 --> 00:20:26,580
 Evet, biliyorum.
 
-301
+299
 00:20:26,580 --> 00:20:29,500
 Gemi ikiye bölündü!
 
-302
+300
 00:20:30,380 --> 00:20:31,710
 Şuna bak!
 
-303
+301
 00:20:32,380 --> 00:20:33,800
 B-B-Bu o!
 
-304
+302
 00:20:38,930 --> 00:20:42,100
 Don Krieg! Bu o!
 
-305
+303
 00:20:42,100 --> 00:20:45,470
 Bu filomuzu yok eden adam!
 
-306
+304
 00:20:48,520 --> 00:20:51,060
 O-O adam...
 
-307
+305
 00:20:59,820 --> 00:21:01,360
 Yani o adam...
 
-308
+306
 00:21:03,070 --> 00:21:05,660
 Şu lanet uyuz köpek!
 
-309
+307
 00:21:06,330 --> 00:21:08,370
 Bizi öldürmek için...
 
-310
+308
 00:21:08,370 --> 00:21:10,460
 buraya kadar takip etmiş!
 
-311
+309
 00:21:10,920 --> 00:21:12,630
 Hapı yuttuk!
 
-312
+310
 00:21:13,380 --> 00:21:14,250
 Zoro?
 
-313
+311
 00:21:14,840 --> 00:21:16,210
 O da kim?
 
-314
+312
 00:21:16,920 --> 00:21:19,420
 Aradığım kişi.
 
-315
+313
 00:21:19,930 --> 00:21:21,840
 Şahin Göz Mihawk!
 
-316
+314
 00:21:22,760 --> 00:21:25,010
 Şahin Göz Mihawk...
 
-317
+315
 00:21:31,350 --> 00:21:33,360
 Dünyadaki en güçlü adam...
 
-318
+316
 00:21:35,320 --> 00:21:41,910
 Grand Line'da Krieg'in elli gemisini
 kendi başına batıran adam o mu?
 
-319
+317
 00:21:41,910 --> 00:21:45,620
 O zaman Krieg'in gemisini
 yok eden de o olmalı.
 
-320
+318
 00:21:45,620 --> 00:21:49,410
 Ama sıradan biri gibi görünüyor!
 
-321
+319
 00:21:49,410 --> 00:21:52,420
 Hiçbir özel silahı da
 yok gibi gözüküyor.
 
-322
+320
 00:21:53,040 --> 00:21:54,920
 Silahı sırtında duruyor...
 
-323
+321
 00:21:54,920 --> 00:21:57,340
 Şaka yapıyorsun!
 
-324
+322
 00:21:57,340 --> 00:22:01,220
 Cidden o kocaman gemiyi
 sırtındaki o kılıçla mı doğradı?
 
-325
+323
 00:22:01,720 --> 00:22:04,850
 O kılıç ustalarının efendisi Şahin Göz,
 
-326
+324
 00:22:04,850 --> 00:22:08,680
 kılıç ustalarının en tepesinde
 yer alan adam.
 
-327
+325
 00:22:13,270 --> 00:22:15,270
 S-Seni orospu çocuğu...
 
-328
+326
 00:22:15,770 --> 00:22:18,780
 Nasıl bir nefret ki bu,
 hâlâ peşimizdesin?
 
-329
+327
 00:22:20,110 --> 00:22:21,440
 Zaman öldürüyorum.
 
-330
+328
 00:22:21,440 --> 00:22:25,370
 Ne...?! Bizimle dalga geçme!
 
-331
+329
 00:22:34,960 --> 00:22:36,210
 N-Ne?!
 
-332
+330
 00:22:36,590 --> 00:22:38,380
 Direkt ona nişan aldığıma eminim!
 
-333
+331
 00:22:38,380 --> 00:22:39,710
 Sektirdi.
 
-334
+332
 00:22:40,460 --> 00:22:43,720
 Kılıcının ucuyla yönlerini
 sakince değiştirdi.
 
-335
+333
 00:22:44,180 --> 00:22:45,550
 Bu saçmalık!
 
-336
+334
 00:22:46,720 --> 00:22:49,100
 H-Hey! Sen de kimsin?!
 
-337
+335
 00:22:49,430 --> 00:22:53,140
 Daha önce kılıcını bu kadar hassas
 kullanan birini görmemiştim.
 
-338
+336
 00:22:53,810 --> 00:22:56,690
 Kuvvete dayalı bir kılıç darbesi
 güç barındırmaz.
 
-339
+337
 00:22:57,230 --> 00:23:00,190
 Bu gemiyi de o kılıçla mı doğradın?
 
-340
+338
 00:23:00,190 --> 00:23:01,650
 Doğru.
 
-341
+339
 00:23:01,650 --> 00:23:03,070
 Anlıyorum...
 
-342
+340
 00:23:03,530 --> 00:23:04,820
 Sen en iyisin...
 
-343
+341
 00:23:04,820 --> 00:23:07,700
 Üç katana var... Yoksa o...?!
 
-344
+342
 00:23:07,700 --> 00:23:11,160
 Seninle tanışmak için denize açıldım.
 
-345
+343
 00:23:11,160 --> 00:23:12,830
 Amacın ne?
 
-346
+344
 00:23:12,830 --> 00:23:14,290
 En iyisi olmak!
 
-347
+345
 00:23:15,580 --> 00:23:17,080
 Ne kadar aptalca...
 
-348
+346
 00:23:34,350 --> 00:23:36,310
 İyi insanlardı...
 
-349
+347
 00:23:36,310 --> 00:23:40,730
 Bir daha karşılaşırsak,
 onlara katılmama izin verirler mi ki?
 
-350
+348
 00:23:42,440 --> 00:23:44,650
 Yine karşılaşacak mıyız acaba?
 
-351
+349
 00:23:46,280 --> 00:23:48,820
 Özgür olmak istiyorum...
 
-352
+350
 00:23:51,120 --> 00:23:52,990
 Bell-mère-san...
 
-353
+351
 00:23:57,420 --> 00:24:00,290
 Zamanın var, değil mi?
 Hadi dövüşelim!
 
-354
+352
 00:24:00,290 --> 00:24:03,460
 B-Bu adam... Zoro!
 
-355
+353
 00:24:03,460 --> 00:24:05,670
 Üç-kılıç stili kullanan Roronoa Zoro!
 
-356
+354
 00:24:05,670 --> 00:24:06,630
 Ne?!
 
-357
+355
 00:24:07,880 --> 00:24:09,260
 Korsan Avcısı, ha?
 
-358
+356
 00:24:10,140 --> 00:24:11,680
 O mu?!
 
-359
+357
 00:24:14,890 --> 00:24:16,890
 Hey, bu hiç iyi değil, Luffy!
 
-360
+358
 00:24:16,890 --> 00:24:19,440
 Going Merry yakında görüşümüzden çıkacak!
 
-361
+359
 00:24:19,440 --> 00:24:20,900
 Hey, Luffy!
 
-362
+360
 00:24:21,270 --> 00:24:22,570
 Dövüş mü?
 
-363
+361
 00:24:23,690 --> 00:24:26,070
 Sana acıyorum, zayıf olan.
 
-364
+362
 00:24:30,530 --> 00:24:32,370
 Eğer yetkin bir kılıç ustasıysan,
 
-365
+363
 00:24:32,370 --> 00:24:37,410
 Kılıçlarımızı çekmeden
 yetenek farkını görebilmen gerekir.
 
-366
+364
 00:24:37,790 --> 00:24:40,670
 Kılıcını bana doğrultmanın sebebi ne?
 
-367
+365
 00:24:40,670 --> 00:24:44,500
 Cesaretin mi, yoksa cehaletin mi?
 
-368
+366
 00:24:44,500 --> 00:24:46,760
 Hırsım!
 
-369
+367
 00:24:49,380 --> 00:24:52,390
 Ve değerli bir arkadaşıma verdiğim söz.
 
-370
+368
 00:24:52,390 --> 00:24:56,020
 D-Dünyanın en iyi kılıç ustası,
 Şahin Göz Mihawk...
 
-371
+369
 00:24:56,020 --> 00:24:58,060
 ve Korsan Avcısı Zoro...
 
-372
+370
 00:24:58,060 --> 00:25:00,650
 Ne tür bir dövüş olacak acaba?
 
-373
+371
 00:25:01,060 --> 00:25:03,650
 Abiyi yenebilecek birinin
 olmasının imkanı yok!
 
-374
+372
 00:25:03,650 --> 00:25:04,400
 E-Evet!
 
-375
+373
 00:25:04,730 --> 00:25:06,860
 Abi zaten en güçlü olan!
 
-376
+374
 00:25:11,110 --> 00:25:13,990
 Hey, bu da ne demek oluyor?
 
-377
+375
 00:25:14,490 --> 00:25:18,960
 Tavşan avlamak için
 top kullanan bir ahmak değilim.
 
-378
+376
 00:25:18,960 --> 00:25:22,170
 Ünlü bir kılıç ustası olsan bile,
 
-379
+377
 00:25:22,170 --> 00:25:27,920
 bu deniz, Doğu Mavi,
 dört deniz arasından en güçsüzüdür.
 
-380
+378
 00:25:28,380 --> 00:25:32,260
 Ne yazık ki, yanımda
 bundan daha küçük bir kılıç yok.
 
-381
+379
 00:25:32,260 --> 00:25:35,810
 Bu kadar dalga geçtiğin yeter!
 
-382
+380
 00:25:35,810 --> 00:25:38,100
 Seni öldürdüğümde
 pişman olmazsan iyi olur!
 
-383
+381
 00:25:38,100 --> 00:25:39,480
 Kuyudaki kurbağa...
 
-384
+382
 00:25:39,480 --> 00:25:41,440
 dünyanın büyüklüğünü kavra.
 
-385
+383
 00:25:41,440 --> 00:25:43,350
 Şeytan Kesişi!
 
-386
+384
 00:25:46,570 --> 00:25:48,610
 N-Ne?!
 
-387
+385
 00:25:53,910 --> 00:25:55,080
 Zoro?!
 
-388
+386
 00:25:55,450 --> 00:25:58,580
 Ne...? 
 Abi'nin "Şeytan Kesişi"ni durdurdu!
 
-389
+387
 00:25:58,580 --> 00:26:02,040
 O teknik düşmanları
 her seferinde savurur, fakat...!
 
-390
+388
 00:26:02,040 --> 00:26:03,790
 Neler oluyor?!
 
-391
+389
 00:26:04,330 --> 00:26:08,250
 O... Onları hareket ettiremiyorum!
 Ne yaptı o öyle?!
 
-392
+390
 00:26:08,250 --> 00:26:12,510
 Bu teknikten kurtulan olmamıştı,
 ama o bir oyuncakla engelledi mi?!
 
-393
+391
 00:26:13,010 --> 00:26:15,470
 Bu... olamaz!
 
-394
+392
 00:26:16,640 --> 00:26:19,060
 Yeteneklerimiz arasında
 bu kadar mı fark var?!
 
-395
+393
 00:26:19,060 --> 00:26:22,060
 Böyle bir şey olamaz!
 Bu kadar mesafe olması imkansız.
 
-396
+394
 00:26:24,560 --> 00:26:27,190
 Dünyanın en güçlüsü
 bu kadar önde olamaz!
 
-397
+395
 00:26:35,120 --> 00:26:37,990
 Bu doğru olamaz, değil mi, abi?!
 Ciddileş artık!
 
-398
+396
 00:26:37,990 --> 00:26:39,700
 Abi!
 
-399
+397
 00:26:39,700 --> 00:26:42,080
 Aramızda bu kadar mesafe olamaz!
 
-400
+398
 00:26:56,050 --> 00:26:58,140
 Ne kadar vahşi bir kılıç kullanımı.
 
-401
+399
 00:27:05,310 --> 00:27:09,480
 Zoro'nun üç-kılıç stili saldırılarını
 o küçük bıçak ile karşılıyor.
 
-402
+400
 00:27:09,480 --> 00:27:12,360
 Canavar Zoro'nun bile
 ötesinde bir canavarlıkta!
 
-403
+401
 00:27:12,360 --> 00:27:13,860
 Ben...
 
-404
+402
 00:27:13,860 --> 00:27:18,700
 Kılıç ustalığını böyle bir oyuncağa
 heba etmek için öğrenmedim!
 
-405
+403
 00:27:24,160 --> 00:27:27,380
 Zoro, çok şanslısın. Sen bir erkeksin.
 
-406
+404
 00:27:27,880 --> 00:27:31,670
 Ben de dünyanın en iyi
 kılıç ustası olmak istiyorum!
 
-407
+405
 00:27:32,170 --> 00:27:33,880
 Söz ver bana!
 
-408
+406
 00:27:33,880 --> 00:27:38,550
 Bir gün, birimiz dünyanın
 en iyi kılıç ustası olacak!
 
-409
+407
 00:27:38,550 --> 00:27:39,680
 Söz ver!
 
-410
+408
 00:27:40,930 --> 00:27:41,930
 – Söz!
 – Söz!
 
-411
+409
 00:27:47,480 --> 00:27:49,940
 Dünyanın en iyisi olmak için!
 
-412
+410
 00:27:59,660 --> 00:28:04,160
 Ben... Onun için de güçleneceğim!
 
-413
+411
 00:28:04,160 --> 00:28:06,830
 Adım cennete ulaşacak kadar güçlü olacağım!
 
-414
+412
 00:28:06,830 --> 00:28:10,290
 Dünyanın en iyi kılıç ustası olacağım!
 
-415
+413
 00:28:10,880 --> 00:28:12,670
 Ona söz verdim...
 
-416
+414
 00:28:12,670 --> 00:28:14,090
 Ben...
 
-417
+415
 00:28:23,350 --> 00:28:26,100
 Her şeyi bu adamı
 yenmek için yaptım.
 
-418
+416
 00:28:31,650 --> 00:28:32,980
 Omzundaki yük nedir?
 
-419
+417
 00:28:32,980 --> 00:28:37,280
 Güç kazandığında ne yapmayı
 arzuluyorsun, zayıf olan?
 
-420
+418
 00:28:37,360 --> 00:28:41,410
 Yeteneğin çok etkileyici.
 Sana katılabilir miyiz?
 
-421
+419
 00:28:41,410 --> 00:28:45,450
 Biz ödül avcılarıyız, kanını
 donduracak kadar korkutucu...
 
-422
+420
 00:28:45,450 --> 00:28:47,160
 Yosaku ve Johnny'yiz.
 
-423
+421
 00:28:47,540 --> 00:28:50,420
 Abi'ye zayıf mı dedin? Seni haçlı pislik!
 
-424
+422
 00:28:50,420 --> 00:28:52,960
 Sana terbiye dersi vereceğiz!
 
-425
+423
 00:28:52,960 --> 00:28:55,840
 Kesin şunu, Yosaku ve Johnny!
 Ayak bağı olmayın!
 
-426
+424
 00:28:56,300 --> 00:28:58,930
 Sabırlı... olun...!
 
-427
+425
 00:29:00,800 --> 00:29:02,550
 Luffy...
 
-428
+426
 00:29:03,850 --> 00:29:07,020
 Ben... kaybedemem...
 
-429
+427
 00:29:18,820 --> 00:29:19,950
 Kaplan...
 
-430
+428
 00:29:19,950 --> 00:29:20,910
 Harika!
 
-431
+429
 00:29:20,910 --> 00:29:22,780
 Dünyanın en iyi kılıç ustası!
 
-432
+430
 00:29:22,780 --> 00:29:26,410
 Korsanlar kralının mürettebatında
 daha azı olamaz zaten!
 
-433
+431
 00:29:26,410 --> 00:29:27,500
 Avı!
 
-434
+432
 00:29:48,600 --> 00:29:51,520
 Öylece kalbini deşmeme izin mi vereceksin?
 
-435
+433
 00:29:51,520 --> 00:29:53,270
 Neden geri çekilmiyorsun?
 
-436
+434
 00:29:53,860 --> 00:29:56,110
 Neden bilmiyorum, ama...
 
-437
+435
 00:29:56,650 --> 00:29:58,740
 eğer bir adım bile geri çekilirsem,
 
-438
+436
 00:29:58,740 --> 00:30:05,240
 geçmişteki sözler ve yeminler gibi
 önemli birçok şey parçalanacak,
 
-439
+437
 00:30:05,240 --> 00:30:08,700
 ve şu anda bulunduğum konuma
 geri gelemeyeceğim.
 
-440
+438
 00:30:10,000 --> 00:30:12,120
 Evet, yenilgi böyle bir şeydir.
 
-441
+439
 00:30:13,250 --> 00:30:15,540
 O zaman çekilmemem için
 bir sebep daha.
 
-442
+440
 00:30:16,340 --> 00:30:17,880
 Ölsen bile mi?
 
-443
+441
 00:30:18,670 --> 00:30:20,920
 Ölmeyi yeğlerim.
 
-444
+442
 00:30:21,470 --> 00:30:24,010
 Ne güçlü bir yürek!
 
-445
+443
 00:30:24,010 --> 00:30:26,720
 Ölmeyi yenilgiye tercih ediyor!
 
-446
+444
 00:30:29,770 --> 00:30:31,770
 Çocuk! Adını bahşet.
 
-447
+445
 00:30:36,230 --> 00:30:38,230
 Roronoa Zoro.
 
-448
+446
 00:30:39,070 --> 00:30:40,490
 Bunu hatırlayacağım.
 
-449
+447
 00:30:40,490 --> 00:30:43,450
 Uzun süre senin gibisini görmedim,
 güçlü olan. Bu yüzden...
 
-450
+448
 00:30:45,410 --> 00:30:50,580
 Bir ustanın nezaketiyle, dünyanın
 en güçlü kara kılıcıyla işini bitireceğim.
 
-451
+449
 00:30:50,580 --> 00:30:53,330
 Minnettarım.
 
-452
+450
 00:30:54,920 --> 00:30:55,920
 Sonunda çekti!
 
-453
+451
 00:30:55,920 --> 00:30:57,960
 O, gemiyi doğradığı kılıç!
 
-454
+452
 00:30:58,670 --> 00:31:01,170
 Bu son vuruş olacak...
 
-455
+453
 00:31:01,170 --> 00:31:03,130
 Dünyanın en iyisi olmak mı?
 
-456
+454
 00:31:03,130 --> 00:31:04,130
 Ölmek mi?
 
-457
+455
 00:31:08,550 --> 00:31:10,560
 Abi! Yeter artık! Lütfen dur!
 
-458
+456
 00:31:10,560 --> 00:31:12,770
 Üç Kılıç Stili Gizli Teknik:
 
-459
+457
 00:31:15,650 --> 00:31:16,560
 Yıkıl!
 
-460
+458
 00:31:16,560 --> 00:31:18,940
 Üç Bin Dünya!
 
-461
+459
 00:31:26,280 --> 00:31:27,620
 Kaybettim...
 
-462
+460
 00:31:29,120 --> 00:31:32,290
 Kaybedeceğimi hiç düşünmemiştim...
 
-463
+461
 00:31:34,080 --> 00:31:36,750
 Demek ki bu dünyanın en iyisinin gücü...
 
-464
+462
 00:31:40,750 --> 00:31:41,670
 Ne yapıyorsun...?
 
-465
+463
 00:31:43,050 --> 00:31:45,550
 Sırttaki yaralar
 bir kılıç ustasının utancıdır.
 
-466
+464
 00:31:46,010 --> 00:31:46,970
 Harikulade!
 
-467
+465
 00:31:50,850 --> 00:31:56,810
 Zoro!
 
-468
+466
 00:31:58,730 --> 00:32:01,610
 Ölümün kucağına
 bodoslama atlama, delikanlı.
 
-469
+467
 00:32:02,860 --> 00:32:04,240
 Zoro!
 
-470
+468
 00:32:05,360 --> 00:32:06,740
 – Abi!
 – Abi!
 
-471
+469
 00:32:09,570 --> 00:32:11,080
 Neden?
 
-472
+470
 00:32:13,370 --> 00:32:20,210
 Dünyanın en iyi kılıç ustası olmayı
 seçtiğimde zaten hayatımı çöpe attım.
 
-473
+471
 00:32:22,000 --> 00:32:25,590
 O delirmiş! Rakibi dünyanın en iyisi!
 
-474
+472
 00:32:26,510 --> 00:32:27,970
 Sonuç belliydi.
 
-475
+473
 00:32:27,970 --> 00:32:30,180
 Ölmek yerine hırsından vazgeçmesi lazımdı!
 
-476
+474
 00:32:30,180 --> 00:32:31,510
 Çok basit lan!
 
-477
+475
 00:32:31,510 --> 00:32:33,470
 Sadece hırsından vazgeç!
 
-478
+476
 00:32:37,060 --> 00:32:40,520
 Demek ki bu Grand Line'nın gücü...
 dünyanın gücü!
 
-479
+477
 00:32:41,110 --> 00:32:44,820
 Korsan Avcısı Zoro, yeni doğmuş
 bir bebek kadar çaresizdi!
 
-480
+478
 00:32:44,820 --> 00:32:49,160
 Lanet olsun, lanet olsun... lanet olsun!
 
-481
+479
 00:32:49,160 --> 00:32:51,120
 – Abi!
 – Abi!
 
-482
+480
 00:32:55,700 --> 00:32:57,830
 O-O da ne?!
 
-483
+481
 00:32:59,370 --> 00:33:03,340
 Demek ki o velette
 şeytan meyvesinin gücü var!
 
-484
+482
 00:33:04,000 --> 00:33:04,880
 Seni–
 
-485
+483
 00:33:07,090 --> 00:33:09,630
 O genç kılıç ustasının arkadaşı mısın?
 
-486
+484
 00:33:09,630 --> 00:33:12,470
 Sonuna kadar izleyerek beni etkiledin!
 
-487
+485
 00:33:16,850 --> 00:33:20,480
 Merak etme. Onu öldürmedim.
 
-488
+486
 00:33:20,480 --> 00:33:21,230
 Ha?
 
-489
+487
 00:33:21,230 --> 00:33:23,980
 Abi! Abi! Bir şey söyle!
 
-490
+488
 00:33:23,980 --> 00:33:24,900
 Zoro?!
 
-491
+489
 00:33:26,860 --> 00:33:27,860
 Zoro!
 
-492
+490
 00:33:27,860 --> 00:33:29,780
 Hadi, çabuk olun ve onu gemiye çıkartın!
 
-493
+491
 00:33:31,660 --> 00:33:33,410
 Bu ilacı üzerine dökün!
 
-494
+492
 00:33:33,820 --> 00:33:36,240
 Ölmen için daha çok erken.
 
-495
+493
 00:33:36,740 --> 00:33:39,370
 Benim adım Dracule Mihawk!
 
-496
+494
 00:33:39,370 --> 00:33:40,750
 Kendini bil!
 
-497
+495
 00:33:40,750 --> 00:33:42,040
 Dünyayı öğren!
 
-498
+496
 00:33:42,040 --> 00:33:43,330
 Ve güçlen!
 
-499
+497
 00:33:43,330 --> 00:33:45,880
 Kaç yıl geçerse geçsin,
 
-500
+498
 00:33:45,880 --> 00:33:48,300
 en iyi olarak kalıp
 seni bekleyeceğim.
 
-501
+499
 00:33:48,880 --> 00:33:51,050
 Bu kılıcı aş!
 
-502
+500
 00:33:51,050 --> 00:33:55,430
 Beni geç, Roronoa Zoro!
 
-503
+501
 00:33:56,890 --> 00:33:59,640
 Abi! Abi, bir şey söyle!
 
-504
+502
 00:33:58,140 --> 00:33:59,640
 Abi!
 
-505
+503
 00:34:00,430 --> 00:34:04,150
 Şahin Göz Mihawk’a bunları söyletmiş olması…
 
-506
+504
 00:34:05,400 --> 00:34:07,900
 Çocuk, neyi hedefliyorsun?
 
-507
+505
 00:34:08,440 --> 00:34:09,530
 Korsanlar Kralı!
 
-508
+506
 00:34:10,280 --> 00:34:14,280
 Bu beni geçmekten bile zor!
 
-509
+507
 00:34:14,280 --> 00:34:17,030
 Daha olmadan nasıl bilebilirim ki?!
 
-510
+508
 00:34:18,120 --> 00:34:19,750
 Yaşıyor!
 
-511
+509
 00:34:20,120 --> 00:34:21,500
 Sadece bayılmış.
 
-512
+510
 00:34:22,540 --> 00:34:24,670
 Abi! Bir şey söyle!
 
-513
+511
 00:34:21,500 --> 00:34:22,540
 Abi!
 
-514
+512
 00:34:25,330 --> 00:34:26,420
 Zoro?
 
-515
+513
 00:34:27,090 --> 00:34:28,250
 Abi!
 
-516
+514
 00:34:29,760 --> 00:34:31,380
 L... Luffy...
 
-517
+515
 00:34:31,880 --> 00:34:33,130
 Beni duyabiliyor musun?
 
-518
+516
 00:34:33,130 --> 00:34:34,590
 Evet!
 
-519
+517
 00:34:35,600 --> 00:34:37,760
 Seni endişelendirdim mi?
 
-520
+518
 00:34:38,760 --> 00:34:40,180
 Ben...
 
-521
+519
 00:34:40,850 --> 00:34:46,690
 dünyanın en iyi kılıç ustası olamazsam
 zorlanırsın, değil mi?
 
-522
+520
 00:34:47,690 --> 00:34:50,650
 Abi! Lütfen daha fazla konuşma!
 
-523
+521
 00:34:49,570 --> 00:34:50,650
 Abi!
 
-524
+522
 00:34:51,110 --> 00:34:52,610
 Ben...
 
-525
+523
 00:34:52,990 --> 00:34:55,070
 Ben bir daha...
 
-526
+524
 00:34:55,070 --> 00:34:57,530
 asla yenilmeyeceğim!
 
-527
+525
 00:35:00,240 --> 00:35:04,040
 Onu yeneceğim ve gerçek bir usta
 olacağım o güne dek...
 
-528
+526
 00:35:04,540 --> 00:35:06,000
 Bir daha asla...
 
-529
+527
 00:35:06,000 --> 00:35:07,380
 kaybetmeyeceğim!
 
-530
+528
 00:35:08,040 --> 00:35:09,960
 Bununla ilgili bir sorun var mı...
 
-531
+529
 00:35:11,380 --> 00:35:13,550
 Korsanlar Kralı?!
 
-532
+530
 00:35:17,140 --> 00:35:18,140
 Yok!
 
-533
+531
 00:35:18,140 --> 00:35:19,930
 İyi bir takımsınız.
 
-534
+532
 00:35:19,930 --> 00:35:22,850
 Sizi bir daha görmek isterim.
 
-535
+533
 00:35:23,850 --> 00:35:25,980
 Hey, Şahin Göz!
 
-536
+534
 00:35:26,400 --> 00:35:29,900
 Benim kellemi almaya gelmedin mi...
 
-537
+535
 00:35:29,900 --> 00:35:33,400
 Doğu Mavi'nin hakimi,
 Don Krieg'in kellesini?
 
-538
+536
 00:35:33,860 --> 00:35:37,780
 Alacaktım ama yeterince eğlendim.
 
-539
+537
 00:35:37,780 --> 00:35:39,780
 Dinlenmek için eve geri dönüyorum.
 
-540
+538
 00:35:39,780 --> 00:35:43,500
 Sana yetmiş olabilir ama
 ben sürekli yenilmekten bıktım.
 
-541
+539
 00:35:43,500 --> 00:35:45,000
 D-Don?
 
-542
+540
 00:35:45,000 --> 00:35:47,380
 Neden onu burada tutmaya çalışıyorsun?
 
-543
+541
 00:35:47,750 --> 00:35:49,500
 Gitmeden önce öl!
 
-544
+542
 00:35:50,880 --> 00:35:53,130
 Tahmin ettiğim gibi...
 asla dersini almıyor...
 
-545
+543
 00:36:01,140 --> 00:36:03,100
 Kahretsin! Kaçtı...
 
-546
+544
 00:36:12,020 --> 00:36:13,690
 Usopp!
 
-547
+545
 00:36:13,690 --> 00:36:14,690
 Luffy!
 
-548
+546
 00:36:15,070 --> 00:36:17,410
 Git! Nami'yi size bırakıyorum!
 
-549
+547
 00:36:17,910 --> 00:36:18,910
 Anladım!
 
-550
+548
 00:36:18,910 --> 00:36:21,830
 Zoro ve ben,
 Nami'yi kesinlikle geri getireceğiz!
 
-551
+549
 00:36:21,830 --> 00:36:24,370
 Sen de o aşçıyı tayfamıza al!
 
-552
+550
 00:36:24,750 --> 00:36:27,500
 Beşimiz yeniden bir araya
 geldiğimizde gidelim...
 
-553
+551
 00:36:27,920 --> 00:36:29,920
 Grand Line'a!
 
-554
+552
 00:36:29,920 --> 00:36:30,920
 Evet!
 
-555
+553
 00:36:30,920 --> 00:36:32,170
 Bence de güzel plan!
 
-556
+554
 00:36:32,170 --> 00:36:37,340
 Beyler! Küçük bir engel ile karşılaştık
 ama gerçek savaş şimdi başlıyor!
 
-557
+555
 00:36:37,340 --> 00:36:39,010
 O gemiyi alacağız!
 
-558
+556
 00:36:39,010 --> 00:36:40,140
 – Evet!
 – Evet!
 
-559
+557
 00:36:40,140 --> 00:36:44,850
 İhtiyar, eğer onları uzaklaştırırsam,
 kamarotluğu bırakabilir miyim?
 
-560
+558
 00:36:44,850 --> 00:36:46,730
 Keyfine bak.
+
+559
+00:21:25,060 --> 00:21:29,980
+"Şahin Göz" Mihawk
+Dünyanın En İyi Kılıç Ustası
+
+560
+00:21:25,060 --> 00:21:29,980
+"Şahin Göz" Mihawk
+Dünyanın En İyi Kılıç Ustası
 
 561
 00:21:25,060 --> 00:21:29,980
 "Şahin Göz" Mihawk
 Dünyanın En İyi Kılıç Ustası
 
-562
-00:21:25,060 --> 00:21:29,980
-"Şahin Göz" Mihawk
-Dünyanın En İyi Kılıç Ustası
-
-563
-00:21:25,060 --> 00:21:29,980
-"Şahin Göz" Mihawk
-Dünyanın En İyi Kılıç Ustası

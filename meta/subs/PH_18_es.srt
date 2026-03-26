@@ -1,430 +1,417 @@
 1
-00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-2
-00:02:25,660 --> 00:02:35,710
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-3
 00:00:00,270 --> 00:00:05,120
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-4
+2
 00:00:05,220 --> 00:00:08,770
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-5
+3
 00:00:08,880 --> 00:00:12,380
 ¡Ya hemos superado muchos obstáculos!
 
-6
+4
 00:00:12,410 --> 00:00:17,750
 ¡No nos detengamos, sigamos adelante! ¡Levanten las manos!
 
-7
+5
 00:00:23,390 --> 00:00:30,730
 "Ya casi lo logro, un poco más y consigo la respuesta".
 
-8
+6
 00:00:30,830 --> 00:00:38,420
 Eso es lo que creemos al adentrarnos en este nuevo mundo.
 
-9
+7
 00:00:38,480 --> 00:00:45,960
 Resulta que los fragmentos de nuestros sueños se han fundido en uno.
 
-10
+8
 00:00:45,960 --> 00:00:54,000
 ¡Avanzaremos hacia un deslumbrante futuro con nuestros lazos inquebrantables!
 
-11
+9
 00:00:54,090 --> 00:00:58,630
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-12
+10
 00:00:58,700 --> 00:01:02,470
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-13
+11
 00:01:02,510 --> 00:01:05,860
 ¡Ya hemos superado muchos obstáculos!
 
-14
+12
 00:01:05,930 --> 00:01:09,870
 ¡No nos detengamos, sigamos adelante!
 
-15
+13
 00:01:09,970 --> 00:01:11,360
 ¡Miren más arriba!
 
-16
+14
 00:01:11,430 --> 00:01:13,580
 ¡Con la cabeza bien en alto!
 
-17
+15
 00:01:13,620 --> 00:01:15,010
 ¡Siempre avanzando!
 
-18
+16
 00:01:15,050 --> 00:01:16,930
 ¡Volemos por encima de las olas!
 
-19
+17
 00:01:16,970 --> 00:01:20,500
 Unamos todos nuestros deseos en uno solo.
 
-20
+18
 00:01:20,540 --> 00:01:24,710
 ¡Dirijámonos al futuro!
 
-21
+19
 00:01:25,000 --> 00:01:31,150
 Avanzamos sin rumbo, surcando las olas.
 
-22
+20
 00:01:31,170 --> 00:01:35,380
 Encuentros, despedidas, una y otra vez.
 
-23
+21
 00:01:35,420 --> 00:01:39,610
 Siempre ante esta bandera...
 
-24
+22
 00:01:41,340 --> 00:01:44,730
 El dolor que no quiero olvidar lo guardo en mi corazón...
 
-25
+23
 00:01:44,800 --> 00:01:48,300
 ...desde aquel día en que lo grabé en mi interior.
 
-26
+24
 00:01:48,340 --> 00:01:51,900
 ¡Nunca perderé contra nadie, protegeré mi libertad con mis propias manos...
 
-27
+25
 00:01:51,940 --> 00:01:54,840
 ...y jamás se me escapará!
 
-28
+26
 00:01:54,880 --> 00:01:59,740
 ¡Levanten más las manos, ahora mismo! Canten sobre sus sueños.
 
-29
+27
 00:01:59,790 --> 00:02:03,420
 ¡Siempre en pie! Con nuestra bandera irrompible.
 
-30
+28
 00:02:03,480 --> 00:02:06,760
 ¡Ya hemos superado muchos obstáculos!
 
-31
+29
 00:02:06,800 --> 00:02:10,890
 ¡No nos detengamos, sigamos adelante!
 
-32
+30
 00:02:10,950 --> 00:02:12,270
 ¡Miren más arriba!
 
-33
+31
 00:02:12,330 --> 00:02:14,580
 ¡Con la cabeza bien en alto!
 
-34
+32
 00:02:14,580 --> 00:02:15,970
 ¡Siempre avanzando!
 
-35
+33
 00:02:16,020 --> 00:02:17,810
 ¡Volemos por encima de las olas!
 
-36
+34
 00:02:17,870 --> 00:02:21,520
 Unamos todos nuestros deseos en uno solo.
 
-37
+35
 00:02:21,600 --> 00:02:25,000
 ¡Dirijámonos al futuro!
 
-38
+36
 00:02:25,080 --> 00:02:29,960
 ¡Levanten las manos!
 
-39
+37
 00:02:40,040 --> 00:02:42,000
 Deben estar viendo esto desde alguna parte, ¿no?
 
-40
+38
 00:02:42,000 --> 00:02:44,570
 ¡Nos han engañado!
 
-41
+39
 00:02:44,570 --> 00:02:47,260
 ¡Todo lo que les ha dicho Caesar es mentira!
 
-42
+40
 00:02:47,260 --> 00:02:50,120
 ¡Morirán si se quedan aquí!
 
-43
+41
 00:03:08,560 --> 00:03:11,360
 ¡Les revelaré quién es Caesar!
 
-44
+42
 00:03:43,590 --> 00:03:47,550
 Ah, ¿son los hombres de Barbamarrón?
 
-45
+43
 00:03:47,550 --> 00:03:52,680
 ¡Maestro, la entrada principal está
  cerrada y hay marinos frente a ella!
 
-46
+44
 00:03:54,010 --> 00:03:55,730
 ¡No podemos entrar!
 
-47
+45
 00:03:55,730 --> 00:03:56,950
 ¡Denos instrucciones!
 
-48
+46
 00:03:56,950 --> 00:03:59,240
 ¡Ya veo, qué terrible!
 
-49
+47
 00:03:59,240 --> 00:04:01,720
 ¡Enseguida les ayudo, quédense donde están!
 
-50
+48
 00:04:01,720 --> 00:04:05,580
 Maestro, ¿cómo vas a hacer que entren?
 
-51
+49
 00:04:09,790 --> 00:04:11,190
 No lo haré.
 
-52
+50
 00:04:11,190 --> 00:04:14,380
 Porque pronto todo el exterior 
 estará cubierto por Shinokuni.
 
-53
+51
 00:05:15,710 --> 00:05:21,340
 ¡Ellos seguirán obedeciéndome y 
 creyendo que soy su dios salvador!
 
-54
+52
 00:05:21,340 --> 00:05:25,470
 ¡Porque son muy estúpidos para darse cuenta que sólo son conejillos de indias para mí!
 
-55
+53
 00:05:25,880 --> 00:05:27,560
 ¡Los llama conejillos de indias!
 
-56
+54
 00:05:30,520 --> 00:05:33,070
 ¡¿Qué pasa?! ¡No puedo abrir la boca!
 
-57
+55
 00:05:33,680 --> 00:05:35,890
 ¡¿Qué me has hecho, Caesar?!
 
-58
+56
 00:06:11,650 --> 00:06:15,120
 ¡Maldita escoria!
 
-59
+57
 00:06:16,880 --> 00:06:20,740
 ¿C-Cómo te atreves a matar a mis hombres?
 
-60
+58
 00:06:41,600 --> 00:06:44,600
 ¡¿No fue Vegapunk?!
 
-61
+59
 00:06:44,600 --> 00:06:48,640
 ¡¿Tú lo ocasionaste todo y luego
  te hiciste pasar como su salvador?!
 
-62
+60
 00:07:05,400 --> 00:07:06,860
 ¡Huyan, muchachos!
 
-63
+61
 00:07:06,860 --> 00:07:10,760
 ¡Ha sido culpa de Caesar que esta
  isla se convirtiera en un infierno!
 
-64
+62
 00:07:10,760 --> 00:07:12,440
 ¡Corran, muchachos!
 
-65
+63
 00:07:12,440 --> 00:07:15,940
 ¡Es el diablo disfrazado de persona!
 
-66
+64
 00:07:52,310 --> 00:07:53,290
 ¡Maestro!
 
-67
+65
 00:08:06,110 --> 00:08:11,490
 ¡Es Sombrero de Paja Luffy!
 
-68
+66
 00:08:19,780 --> 00:08:26,530
 Su gran generosidad llevó al Maestro a salvarme la vida como antes había hecho con ellos.
 
-69
+67
 00:08:26,530 --> 00:08:30,330
 El Maestro es nuestro dios salvador, 
 poseedor de un corazón de oro.
 
-70
+68
 00:08:38,950 --> 00:08:39,710
 ¡Sí!
 
-71
+69
 00:08:39,710 --> 00:08:42,440
 ¡Asegúrense de que todos los agentes lo observen!
 
-72
+70
 00:08:42,440 --> 00:08:47,540
 Dentro de cinco años no quedará ninguno vivo.
 
-73
+71
 00:11:31,900 --> 00:11:35,370
 ¡M-Maestro!
 
-74
+72
 00:12:44,590 --> 00:12:47,280
 Mola
 
-75
+73
 00:12:44,590 --> 00:12:47,280
 Shi
 
-76
+74
 00:12:44,590 --> 00:12:47,280
 Chibukai
 
-77
+75
 00:12:44,590 --> 00:12:47,280
 Fansub!
 
-78
+76
 00:12:44,590 --> 00:12:47,280
 Gastilla.
 
-79
+77
 00:12:53,350 --> 00:12:54,700
 ¡Ahí está!
 
-80
+78
 00:13:36,190 --> 00:13:41,610
 El gas asesino, Shinokuni, que 
 petrifica y mata a las personas,
 
-81
+79
 00:13:41,610 --> 00:13:45,680
 ha entrado en el laboratorio.
 
-82
+80
 00:14:06,700 --> 00:14:11,110
 La mayoría de los supervivientes se
  dirigen hacia la única salida de la isla,
 
-83
+81
 00:14:11,110 --> 00:14:16,150
 la cual se encuentra en el primer piso de la Torre R, 
 donde Luffy y Caesar están peleando ahora mismo.
 
-84
+82
 00:14:16,150 --> 00:14:19,870
 Sin embargo, Kin'emon sigue
  buscando a su hijo, Momonosuke.
 
-85
+83
 00:14:24,260 --> 00:14:25,630
 ¿Qué?
 
-86
+84
 00:14:25,630 --> 00:14:29,030
 ¿Que Momonosuke se transformó
  en un dragón pequeño?
 
-87
+85
 00:15:49,870 --> 00:15:51,900
 Mola
 
-88
+86
 00:15:49,870 --> 00:15:51,900
 Shi
 
-89
+87
 00:15:49,870 --> 00:15:51,900
 Chibukai
 
-90
+88
 00:15:49,870 --> 00:15:51,900
 Fansub!
 
-91
+89
 00:15:49,870 --> 00:15:51,900
 Bambú demoniaco.
 
-92
+90
 00:18:04,380 --> 00:18:08,930
 Sí que eres engreído, mocoso.
 
-93
+91
 00:18:08,930 --> 00:18:12,970
 Pero ¿te saldrá todo bien?
 
-94
+92
 00:18:12,970 --> 00:18:15,850
 Porque seguro...
 
-95
+93
 00:18:15,850 --> 00:18:18,890
 ...que tienes a Vergo a punto de explotar de ira.
 
-96
+94
 00:18:19,880 --> 00:18:24,130
 ¿Recuerdas lo que pasó la última vez?
 
-97
+95
 00:18:24,130 --> 00:18:29,850
 ¿Ya no recuerdas lo que pasó 
 esa vez que hiciste enfadar a Vergo?
 
-98
+96
 00:18:32,030 --> 00:18:33,540
 Debes haber quedado traumatizado.
 
-99
+97
 00:18:33,540 --> 00:18:35,460
 Es imposible que olvides...
 
-100
+98
 00:18:35,460 --> 00:18:38,310
 ...el terror que Vergo te provocó.
 
-101
+99
 00:18:40,040 --> 00:18:42,770
 Quizá tu habilidad sea poderosa,
 
-102
+100
 00:18:42,770 --> 00:18:46,770
 pero no es rival para su Haki.
 
-103
+101
 00:18:46,770 --> 00:18:54,600
 ¡No estás a la altura de él, 
 ni en posición ni en fuerza!
+

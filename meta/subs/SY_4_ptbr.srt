@@ -1,1678 +1,1676 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:02:03,650 --> 00:02:05,020
 Você!
 
-4
+2
 00:02:05,020 --> 00:02:08,400
 Como se atreve a caçoar de mim?!
 
-5
+3
 00:02:08,980 --> 00:02:13,070
 Só porque eu tenho sangue de pirata...
 
-6
+4
 00:02:13,070 --> 00:02:15,450
 Pare, Usopp!
 
-7
+5
 00:02:36,180 --> 00:02:37,720
 Klahadore...
 
-8
+6
 00:02:38,600 --> 00:02:40,100
 Klahadore, está aí?
 
-9
+7
 00:02:41,600 --> 00:02:43,230
 Klahadore...
 
-10
+8
 00:02:46,230 --> 00:02:48,190
 M-Merry!
 
-11
+9
 00:02:48,820 --> 00:02:49,900
 Merry!
 
-12
+10
 00:02:50,690 --> 00:02:53,030
 O que houve?!
 
-13
+11
 00:02:53,030 --> 00:02:54,400
 Acorde, Merry!
 
-14
+12
 00:02:55,910 --> 00:02:57,660
 Por favor, fique comigo!
 
-15
+13
 00:02:57,660 --> 00:02:59,410
 Senhorita...
 
-16
+14
 00:02:59,410 --> 00:03:01,870
 Que bom que está bem...
 
-17
+15
 00:03:02,330 --> 00:03:03,250
 Merry...!
 
-18
+16
 00:03:07,290 --> 00:03:10,500
 Merry, quem fez isso?
 
-19
+17
 00:03:10,500 --> 00:03:11,880
 Klahadore!
 
-20
+18
 00:03:11,880 --> 00:03:14,800
 Foi... Foi ele!
 
-21
+19
 00:03:16,720 --> 00:03:21,220
 Ele... Ele é um pirata!
 
-22
+20
 00:03:21,970 --> 00:03:24,810
 Do que você está falando?!
 
-23
+21
 00:03:24,810 --> 00:03:30,940
 Ele só quer a fortuna de sua família!
 
-24
+22
 00:03:44,830 --> 00:03:45,750
 Então...
 
-25
+23
 00:03:46,410 --> 00:03:49,330
 O que Usopp disse ontem...
 
-26
+24
 00:03:50,880 --> 00:03:53,840
 Ele era o único que dizia a verdade...
 
-27
+25
 00:03:54,340 --> 00:03:59,390
 Ele arriscou a vida para nos avisar!
 
-28
+26
 00:03:59,390 --> 00:04:05,310
 Mas ninguém acreditou 
 em nada do que ele dizia...
 
-29
+27
 00:04:06,640 --> 00:04:08,440
 Fuja logo, Kaya!
 
-30
+28
 00:04:08,440 --> 00:04:09,730
 Ou vai acabar morta!
 
-31
+29
 00:04:11,730 --> 00:04:13,610
 Mas, por enquanto,
 vamos sair daqui!
 
-32
+30
 00:04:16,030 --> 00:04:21,660
 Só pensamos em proteger 
 quem nos queria mal...
 
-33
+31
 00:04:21,660 --> 00:04:26,500
 Ele só queria proteger a vila... 
 Ele arriscou a vida para nos avisar...
 
-34
+32
 00:04:27,460 --> 00:04:29,620
 E nós o enxotamos da vila!
 
-35
+33
 00:04:32,210 --> 00:04:35,510
 Socorro! Socorro, o Merry...
 
-36
+34
 00:04:34,130 --> 00:04:35,510
 Senhorita...
 
-37
+35
 00:04:35,510 --> 00:04:36,710
 Não adianta...
 
-38
+36
 00:04:38,670 --> 00:04:43,180
 Estão todos de folga desde ontem...
 
-39
+37
 00:04:43,810 --> 00:04:45,470
 Não pode ser...
 
-40
+38
 00:04:45,470 --> 00:04:46,720
 Então eu...
 
-41
+39
 00:04:46,720 --> 00:04:48,810
 Não entre em pânico!
 
-42
+40
 00:04:49,520 --> 00:04:52,150
 Nada aconteceu ainda.
 
-43
+41
 00:04:52,150 --> 00:04:56,480
 É vital que se acalme e pensemos
  em uma solução para isso.
 
-44
+42
 00:04:58,780 --> 00:05:03,120
 Se Klahadore quer 
 tudo que há nesta casa...
 
-45
+43
 00:05:03,120 --> 00:05:05,990
 Que fique com ela!
 
-46
+44
 00:05:05,990 --> 00:05:09,370
 Sua vida vale muito mais do que isso.
 
-47
+45
 00:05:11,960 --> 00:05:12,960
 Sim.
 
-48
+46
 00:05:13,330 --> 00:05:14,750
 É muita responsabilidade...
 
-49
+47
 00:05:14,750 --> 00:05:18,710
 mas você é a única que pode detê-lo.
 
-50
+48
 00:05:20,220 --> 00:05:21,800
 Você consegue?
 
-51
+49
 00:05:21,800 --> 00:05:25,350
 Embora não seja sua
 responsabilidade...
 
-52
+50
 00:05:26,180 --> 00:05:31,140
 Eu entendo.
 Eu... Eu não vou fugir.
 
-53
+51
 00:05:32,020 --> 00:05:33,770
 Eu entendo as consequências.
 
-54
+52
 00:05:35,110 --> 00:05:38,530
 Eu vou acertar as contas com o Klahadore.
 
-55
+53
 00:05:41,780 --> 00:05:45,200
 O quê?! O mordomo, 
 Klahadore, foi para a costa?
 
-56
+54
 00:05:45,200 --> 00:05:48,290
 Sim... Ele tinha uma cara assustadora!
 
-57
+55
 00:05:50,080 --> 00:05:51,620
 Ei! Acorda!
 
-58
+56
 00:05:53,000 --> 00:05:55,710
 Mas ainda tá na hora de dormir!
 
-59
+57
 00:05:55,710 --> 00:05:58,090
 Não é hora de dormir!
 
-60
+58
 00:05:58,090 --> 00:06:00,050
 Pode ter algo terrível acontecendo!
 
-61
+59
 00:06:03,050 --> 00:06:05,680
 Ainda acho que piratas vão atacar!
 
-62
+60
 00:06:06,430 --> 00:06:10,140
 O capitão disse que estava só mentindo, 
 mas acho que falou a verdade!
 
-63
+61
 00:06:10,640 --> 00:06:11,770
 Também acho!
 
-64
+62
 00:06:12,770 --> 00:06:16,730
 Eu também!
 
-65
+63
 00:06:16,730 --> 00:06:18,440
 É a senhorita Kaya!
 
-66
+64
 00:06:18,440 --> 00:06:19,940
 Ela está bem!
 
-67
+65
 00:06:30,410 --> 00:06:33,330
 Mas parece incomodada com alguma coisa.
 
-68
+66
 00:06:33,330 --> 00:06:36,330
 Ela está saindo de casa sozinha.
 
-69
+67
 00:06:36,330 --> 00:06:37,880
 Tem algo errado.
 
-70
+68
 00:06:37,880 --> 00:06:40,460
 Algo deve ter acontecido!
 
-71
+69
 00:06:44,010 --> 00:06:46,470
 Venham, Irmãos Nyaban!
 
-72
+70
 00:06:50,680 --> 00:06:53,140
 Chamou, Capitão Jango?
 
-73
+71
 00:06:55,020 --> 00:06:56,440
 O senhor nos chamou?
 
-74
+72
 00:06:56,440 --> 00:06:57,940
 Sham e...
 
-75
+73
 00:06:57,940 --> 00:06:58,860
 Buchi!
 
-76
+74
 00:06:58,860 --> 00:07:02,820
 Juntos, somos os Irmãos Nyaban!
 
-77
+75
 00:07:06,160 --> 00:07:07,660
 Buchi! Sham!
 
-78
+76
 00:07:07,660 --> 00:07:12,160
 Precisamos subir
 este talude, mas...
 
-79
+77
 00:07:12,160 --> 00:07:14,040
 Como podem ver,
 estão nos atrapalhando.
 
-80
+78
 00:07:14,500 --> 00:07:15,670
 Cuidem dele.
 
-81
+79
 00:07:16,460 --> 00:07:19,590
 Não, é impossível!
 
-82
+80
 00:07:19,590 --> 00:07:21,210
 Né, Buchi?!
 
-83
+81
 00:07:21,210 --> 00:07:23,920
 Sim, ele parece bem forte.
 
-84
+82
 00:07:25,800 --> 00:07:29,100
 Além disso, nosso trabalho 
 é cuidar do navio.
 
-85
+83
 00:07:29,100 --> 00:07:32,930
 Sim, isso mesmo! 
 Nosso trabalho não é lutar!
 
-86
+84
 00:07:32,930 --> 00:07:37,350
 Como assim? Eles são o trunfo?!
 
-87
+85
 00:07:37,350 --> 00:07:39,810
 Sham, ande logo com isso!
 
-88
+86
 00:07:39,810 --> 00:07:41,690
 O quê?! Eu?!
 
-89
+87
 00:07:41,690 --> 00:07:42,690
 Anda!
 
-90
+88
 00:07:42,690 --> 00:07:45,150
 Tá... Já vou.
 
-91
+89
 00:07:45,530 --> 00:07:47,410
 Ele está em prantos!
 
-92
+90
 00:07:47,410 --> 00:07:49,160
 O que eles pretendem fazer?!
 
-93
+91
 00:07:50,410 --> 00:07:52,410
 Como ele vai lutar desse jeito?!
 
-94
+92
 00:07:52,410 --> 00:07:53,740
 Ei, você!
 
-95
+93
 00:07:53,740 --> 00:07:54,910
 Se prepara aí!
 
-96
+94
 00:07:54,910 --> 00:07:57,920
 Vou te rasgar no meio
 com minhas garras!
 
-97
+95
 00:08:00,210 --> 00:08:02,210
 O que é que eu
 faço com esse cara?!
 
-98
+96
 00:08:02,670 --> 00:08:05,010
 Ei! Se não parar, vou te matar!
 
-99
+97
 00:08:07,090 --> 00:08:08,220
 Se for capaz!
 
-100
+98
 00:08:08,220 --> 00:08:09,220
 O quê?!
 
-101
+99
 00:08:13,350 --> 00:08:14,180
 Esse maldito...
 
-102
+100
 00:08:14,180 --> 00:08:15,220
 Você...
 
-103
+101
 00:08:16,020 --> 00:08:18,270
 Me subestimou!
 
-104
+102
 00:08:18,270 --> 00:08:23,020
 Bela defesa sua!
 E belíssima atuação minha!
 
-105
+103
 00:08:23,860 --> 00:08:25,530
 You might have a bit of skill,
 
-106
+104
 00:08:25,530 --> 00:08:29,570
 Mas não subestime Sham,
 dos Irmãos Nyaban! Entendeu?
 
-107
+105
 00:08:33,740 --> 00:08:37,960
 Sente falta de algo?
 
-108
+106
 00:08:38,660 --> 00:08:39,670
 Aí está.
 
-109
+107
 00:08:39,670 --> 00:08:41,130
 O Pulo do Gato.
 
-110
+108
 00:08:41,540 --> 00:08:43,630
 Devolva minhas espadas!
 
-111
+109
 00:08:43,630 --> 00:08:48,050
 Devolver?!
 
-112
+110
 00:08:51,090 --> 00:08:53,220
 Essas aqui só iam atrapalhar.
 
-113
+111
 00:09:00,020 --> 00:09:01,310
 Agora estou bem mais leve.
 
-114
+112
 00:09:01,310 --> 00:09:03,400
 Agora estou bem mais leve.
 
-115
+113
 00:09:03,400 --> 00:09:07,070
 Como se atreve a jogar minhas espadas?
 
-116
+114
 00:09:11,160 --> 00:09:12,910
 Maldito!
 
-117
+115
 00:09:15,030 --> 00:09:15,700
 O quê?
 
-118
+116
 00:09:16,910 --> 00:09:18,700
 O que você quer cortar?
 
-119
+117
 00:09:18,700 --> 00:09:20,710
 Eu sou um gato, afinal!
 
-120
+118
 00:09:23,460 --> 00:09:25,170
 Vamos, Buchi!
 
-121
+119
 00:09:25,170 --> 00:09:26,090
 Sua vez!
 
-122
+120
 00:09:26,090 --> 00:09:27,960
 Pode deixar, Sham!
 
-123
+121
 00:09:28,670 --> 00:09:30,970
 Ga...
 
-124
+122
 00:09:33,640 --> 00:09:35,470
 ...tástrofe!
 
-125
+123
 00:09:37,640 --> 00:09:39,270
 Droga!
 
-126
+124
 00:09:39,270 --> 00:09:40,600
 Ele fugiu!
 
-127
+125
 00:09:40,600 --> 00:09:43,350
 Ei, segura ele direito, Sham!
 
-128
+126
 00:09:43,350 --> 00:09:44,730
 Perdão.
 
-129
+127
 00:09:44,730 --> 00:09:47,780
 Não esperava 
 que ele tivesse tanta força.
 
-130
+128
 00:09:48,530 --> 00:09:50,280
 Só pode estar de brincadeira.
 
-131
+129
 00:09:50,280 --> 00:09:55,200
 Se ele tivesse me acertado, 
 arrebentava meus ossos ao meio!
 
-132
+130
 00:09:55,570 --> 00:09:57,160
 Ele não vai fugir dessa vez!
 
-133
+131
 00:09:57,160 --> 00:09:58,370
 Com certeza!
 
-134
+132
 00:09:58,870 --> 00:10:02,000
 Não tenho tantas técnicas 
 de uma espada só, mas...
 
-135
+133
 00:10:03,040 --> 00:10:05,000
 Vamos lá, Buchi!
 
-136
+134
 00:10:05,420 --> 00:10:07,210
 Pode deixar, Sham!
 
-137
+135
 00:10:07,210 --> 00:10:10,920
 Ataque das Garras de Gato!
 
-138
+136
 00:10:18,350 --> 00:10:20,810
 Essa, não! Zoro está encurralado!
 
-139
+137
 00:10:24,060 --> 00:10:25,560
 O que vai fazer?
 
-140
+138
 00:10:25,560 --> 00:10:29,320
 Se continuarem a atacá-lo
 assim, ele não vai vencer!
 
-141
+139
 00:10:29,320 --> 00:10:30,900
 Vou dar cobertura a ele!
 
-142
+140
 00:10:30,900 --> 00:10:32,530
 Engole esta...
 
-143
+141
 00:10:32,530 --> 00:10:33,740
 Estrela de Chumbo!
 
-144
+142
 00:10:39,950 --> 00:10:41,120
 Uma abertura!
 
-145
+143
 00:10:47,130 --> 00:10:50,130
 Que fogo amigo é esse?!
 
-146
+144
 00:10:50,880 --> 00:10:52,340
 Não foi minha intenção!
 
-147
+145
 00:10:52,340 --> 00:10:55,890
 Ele se jogou na frente da estrela!
 
-148
+146
 00:10:55,890 --> 00:10:57,760
 O quê?! Sério?!
 
-149
+147
 00:10:59,810 --> 00:11:01,810
 Usopp, seu idiota!
 
-150
+148
 00:11:01,810 --> 00:11:03,020
 Quer morrer?!
 
-151
+149
 00:11:07,520 --> 00:11:09,230
 Talvez...
 
-152
+150
 00:11:09,730 --> 00:11:12,230
 Ele acabou nos salvando...
 
-153
+151
 00:11:12,230 --> 00:11:16,240
 Se você os tivesse acertado com o
 Estilingue, eles provavelmente...
 
-154
+152
 00:11:16,240 --> 00:11:19,370
 Passariam a nos atacar.
 
-155
+153
 00:11:20,030 --> 00:11:21,240
 Ele...
 
-156
+154
 00:11:21,790 --> 00:11:24,000
 Não devia ficar se
 preocupando conosco agora!
 
-157
+155
 00:11:27,250 --> 00:11:28,540
 Droga...
 
-158
+156
 00:11:28,540 --> 00:11:31,880
 Se eu tivesse, pelo menos, 
 mais uma espada...
 
-159
+157
 00:11:34,130 --> 00:11:35,930
 Eu vou pegar as espadas dele.
 
-160
+158
 00:11:35,930 --> 00:11:38,010
 Se o Zoro pegar as espadas
 de volta, poderá derrotá-los!
 
-161
+159
 00:11:38,010 --> 00:11:39,470
 Então eu vou!
 
-162
+160
 00:11:40,350 --> 00:11:41,850
 Não, fique aí.
 
-163
+161
 00:11:41,850 --> 00:11:43,680
 Você não consegue
 nem ficar de pé.
 
-164
+162
 00:11:45,430 --> 00:11:46,390
 Ei, Nami!
 
-165
+163
 00:12:06,580 --> 00:12:07,620
 Nami!
 
-166
+164
 00:12:07,960 --> 00:12:10,250
 O que você quer
 com essas espadas?
 
-167
+165
 00:12:25,220 --> 00:12:29,480
 O que você quer
 com essas espadas?
 
-168
+166
 00:12:33,400 --> 00:12:37,490
 O sol já brilha no céu
 há um bom tempo.
 
-169
+167
 00:12:37,490 --> 00:12:41,870
 Vocês sabem o que acontece quando
 não seguem os meus planos...
 
-170
+168
 00:12:42,410 --> 00:12:44,740
 Capitão Kuro!
 
-171
+169
 00:12:44,740 --> 00:12:46,370
 Vamos ser mortos!
 
-172
+170
 00:12:52,840 --> 00:12:54,300
 Mas que sorte a nossa...
 
-173
+171
 00:13:08,140 --> 00:13:11,770
 Que merda é essa?!
 
-174
+172
 00:13:16,480 --> 00:13:20,320
 Nunca imaginei que fossem 
 ser derrotados por pivetes.
 
-175
+173
 00:13:20,950 --> 00:13:23,910
 Os Piratas do Gato Preto 
 não são mais os mesmos.
 
-176
+174
 00:13:24,740 --> 00:13:25,990
 Não é,
 
-177
+175
 00:13:26,870 --> 00:13:28,450
 Jango?!
 
-178
+176
 00:13:32,750 --> 00:13:35,880
 Mas...
 
-179
+177
 00:13:36,960 --> 00:13:41,470
 Você havia dito que esses pivetes não
 iam ser problema.
 
-180
+178
 00:13:44,550 --> 00:13:46,390
 Sim, eu disse.
 
-181
+179
 00:13:46,390 --> 00:13:47,470
 Sim, eu disse.
 
-182
+180
 00:13:47,850 --> 00:13:50,060
 E daí?
 
-183
+181
 00:13:50,060 --> 00:13:54,980
 Nós sabíamos que eles 
 iriam tentar nos deter.
 
-184
+182
 00:13:54,980 --> 00:13:57,730
 Mas o que eu não esperava...
 
-185
+183
 00:13:57,730 --> 00:14:00,860
 É que vocês fossem
 completos inúteis!
 
-186
+184
 00:14:00,860 --> 00:14:03,740
 Nós... somos... inúteis?
 
-187
+185
 00:14:03,740 --> 00:14:05,990
 Quem é inútil?!
 
-188
+186
 00:14:05,990 --> 00:14:07,660
 Como se atreve, Capitão Kuro?
 
-189
+187
 00:14:10,450 --> 00:14:12,710
 É verdade que, outrora,
  o senhor foi muito forte...
 
-190
+188
 00:14:13,210 --> 00:14:15,460
 Mas isso foi há três anos!
 
-191
+189
 00:14:15,460 --> 00:14:20,380
 Enquanto o senhor ficou nesta vila,
  não ficamos parados, esperando!
 
-192
+190
 00:14:20,380 --> 00:14:21,840
 Isso mesmo!
 
-193
+191
 00:14:21,840 --> 00:14:26,300
 Pilhamos inúmeras vilas e
 derrotamos vários outros bandos!
 
-194
+192
 00:14:28,260 --> 00:14:30,060
 O que querem dizer?
 
-195
+193
 00:14:30,970 --> 00:14:33,980
 Depois de três anos, você...
 
-196
+194
 00:14:33,980 --> 00:14:37,360
 Ainda tem força para nos vencer?!
 
-197
+195
 00:14:41,440 --> 00:14:44,410
 Parem! Buchi, Sham!
 
-198
+196
 00:14:50,240 --> 00:14:52,750
 Você não é mais nosso capitão!
 
-199
+197
 00:14:52,750 --> 00:14:55,670
 Perdão, mas vamos atacá-lo agora!
 
-200
+198
 00:15:08,180 --> 00:15:10,600
 Quando ele ficou atrás deles?!
 
-201
+199
 00:15:11,180 --> 00:15:12,810
 E essa arma...
 
-202
+200
 00:15:14,730 --> 00:15:16,980
 Quem vocês pretendiam matar?!
 
-203
+201
 00:15:18,230 --> 00:15:20,190
 Ele está...
 ...atrás da gente!
 
-204
+202
 00:15:24,280 --> 00:15:26,320
 Ele sumiu!
 
-205
+203
 00:15:31,030 --> 00:15:33,370
 Isso foi... O Passo Furtivo!
 
-206
+204
 00:15:38,210 --> 00:15:40,290
 Vocês têm razão.
 
-207
+205
 00:15:45,010 --> 00:15:48,470
 Não sou mais tão
 rápido quanto outrora.
 
-208
+206
 00:15:49,300 --> 00:15:54,480
 Com uma espada, o Zoro
 estava tendo dificuldades...
 
-209
+207
 00:15:55,730 --> 00:16:00,060
 O Passo Furtivo...
 ...o faz se mover
 em absoluto silêncio!
 
-210
+208
 00:16:00,810 --> 00:16:05,690
 Ele poderia acabar com 50 assassinos 
 sem sequer ser percebido.
 
-211
+209
 00:16:06,900 --> 00:16:10,910
 É impossível escapar das garras dele!
 
-212
+210
 00:16:11,780 --> 00:16:17,620
 Vê-lo agir assim depois de 3 anos 
 me deixa com os cabelos em pé!
 
-213
+211
 00:16:18,250 --> 00:16:24,210
 Ele sempre ajeita os óculos assim
 para que as Garras de Gato
 não cortem seu próprio rosto...
 
-214
+212
 00:16:24,210 --> 00:16:27,010
 Isso prova que ele nunca 
 se esqueceu de como lutar!
 
-215
+213
 00:16:35,310 --> 00:16:38,480
 Ficar estes 3 anos nesta vila...
 
-216
+214
 00:16:38,980 --> 00:16:42,560
 ...me deixou mais humilde.
 
-217
+215
 00:16:44,480 --> 00:16:46,570
 Eu lhes dou cinco minutos.
 
-218
+216
 00:16:48,700 --> 00:16:52,490
 Têm cinco minutos
 para dar um jeito...
 
-219
+217
 00:16:54,490 --> 00:16:57,250
 ...e matar os pirralhos.
 
-220
+218
 00:16:58,000 --> 00:17:00,670
 Ou morrerão por minhas mãos.
 
-221
+219
 00:17:09,840 --> 00:17:10,720
 Cinco minutos!
 
-222
+220
 00:17:11,470 --> 00:17:13,050
 Nós daremos um jeito!
 
-223
+221
 00:17:14,010 --> 00:17:15,720
 Ele!
 
-224
+222
 00:17:15,720 --> 00:17:20,810
 Se acabarmos com ele,
  vamos subir o talude!
 
-225
+223
 00:17:28,900 --> 00:17:31,320
 Se acabarmos com ele,
  vamos subir o talude!
 
-226
+224
 00:17:31,320 --> 00:17:33,450
 Acabamos com ele
 em cinco minutos!
 
-227
+225
 00:17:33,950 --> 00:17:37,660
 Conto com vocês,
 Irmãos Nyaban!
 
-228
+226
 00:17:40,580 --> 00:17:41,460
 Zoro!
 
-229
+227
 00:17:45,920 --> 00:17:46,880
 O quê?!
 
-230
+228
 00:17:48,340 --> 00:17:50,880
 Ora! Não chute minhas espadas!
 
-231
+229
 00:17:51,840 --> 00:17:53,300
 Como é que se diz?
 
-232
+230
 00:17:54,550 --> 00:17:55,390
 Tá...
 
-233
+231
 00:17:56,890 --> 00:17:58,520
 Obrigado.
 
-234
+232
 00:18:01,020 --> 00:18:02,270
 É inútil!
 
-235
+233
 00:18:02,270 --> 00:18:03,770
 Mesmo com as três...
 
-236
+234
 00:18:03,770 --> 00:18:05,560
 Não vai mudar nada!
 
-237
+235
 00:18:07,610 --> 00:18:08,320
 Caçada...
 
-238
+236
 00:18:11,860 --> 00:18:13,780
 Vocês não entendem...
 
-239
+237
 00:18:14,530 --> 00:18:16,070
 ...do Tigre!
 
-240
+238
 00:18:20,830 --> 00:18:23,420
 Mais quatro minutos!
 
-241
+239
 00:18:26,420 --> 00:18:30,210
 Ter três espadas e
 usar três espadas...
 
-242
+240
 00:18:30,210 --> 00:18:32,220
 ...são coisas completamente diferentes.
 
-243
+241
 00:18:42,060 --> 00:18:43,520
 Incrível...
 
-244
+242
 00:18:47,810 --> 00:18:49,400
 Um único ataque...
 
-245
+243
 00:18:58,160 --> 00:19:01,540
 Ele derrotou os Irmãos
 Nyaban com um só ataque?!
 
-246
+244
 00:19:12,710 --> 00:19:14,260
 Tudo bem!
 
-247
+245
 00:19:15,180 --> 00:19:21,770
 Em menos de cinco minutos,
  não vai sobrar nenhum! Eu cuido de todos.
 
-248
+246
 00:19:36,070 --> 00:19:38,820
 Mais três minutos...
 
-249
+247
 00:19:42,620 --> 00:19:46,500
 Maldito... Eu vou matá-lo!
 
-250
+248
 00:19:49,790 --> 00:19:51,920
 Capitão...
 
-251
+249
 00:19:51,920 --> 00:19:55,090
 Por favor, me hipnotize.
 
-252
+250
 00:19:57,090 --> 00:19:59,550
 Por favor... Capitão!
 
-253
+251
 00:20:00,100 --> 00:20:01,680
 Ele ainda está vivo.
 
-254
+252
 00:20:01,680 --> 00:20:03,270
 Você pegou leve.
 
-255
+253
 00:20:05,600 --> 00:20:08,560
 Essa gordura toda deve ter ajudado.
 
-256
+254
 00:20:30,080 --> 00:20:32,290
 Pegue-o, Buchi!
 
-257
+255
 00:20:36,760 --> 00:20:39,970
 Hipnose de novo, não é?
 
-258
+256
 00:20:43,720 --> 00:20:44,970
 Agora vai dar mais trabalho.
 
-259
+257
 00:20:45,470 --> 00:20:48,440
 Ele abriu uma fenda no chão
  com a força original...
 
-260
+258
 00:20:51,060 --> 00:20:53,570
 Como será agora,
 estando mais forte?
 
-261
+259
 00:21:02,700 --> 00:21:04,160
 É minha chance!
 
-262
+260
 00:21:04,160 --> 00:21:07,620
 Preciso acordá-lo!
 
-263
+261
 00:21:07,620 --> 00:21:10,250
 O que vai fazer agora?
 
-264
+262
 00:21:11,290 --> 00:21:13,000
 Que mulher irritante.
 
-265
+263
 00:21:13,420 --> 00:21:16,630
 Todos estão lutando feridos...
  Mas ele ainda...
 
-266
+264
 00:21:18,010 --> 00:21:19,340
 Morra!
 
-267
+265
 00:21:23,390 --> 00:21:24,930
 Acorde!
 
-268
+266
 00:21:24,930 --> 00:21:26,810
 Nami! Cuidado!
 
-269
+267
 00:21:31,270 --> 00:21:32,770
 Será cortada ao meio!
 
-270
+268
 00:21:34,150 --> 00:21:35,400
 Desvie!
 
-271
+269
 00:21:37,070 --> 00:21:39,360
 O quê...
 
-272
+270
 00:21:40,360 --> 00:21:41,780
 Um chakram...
 
-273
+271
 00:21:41,780 --> 00:21:44,240
 Não era só uma
 argola para hipnose?!
 
-274
+272
 00:21:45,450 --> 00:21:50,290
 Nami! Como é que você 
 pisa na minha cara assim?!
 
-275
+273
 00:21:52,080 --> 00:21:53,630
 Ele ainda está vivo?!
 
-276
+274
 00:21:54,790 --> 00:21:59,050
 Foi sorte ou só coincidência?
 
-277
+275
 00:22:02,930 --> 00:22:04,090
 L-Luffy...
 
-278
+276
 00:22:09,520 --> 00:22:11,060
 Luffy!
 
-279
+277
 00:22:11,060 --> 00:22:13,980
 Isso dói...
 
-280
+278
 00:22:14,350 --> 00:22:16,730
 Doeu!
 
-281
+279
 00:22:17,150 --> 00:22:19,610
 Ele acordou!
 
-282
+280
 00:22:19,610 --> 00:22:21,440
 Não pode ser...
 
-283
+281
 00:22:21,440 --> 00:22:24,110
 Impossível acabar com todos
 eles em cinco minutos!
 
-284
+282
 00:22:25,030 --> 00:22:28,200
 Nami, isso doeu, sua doida!
 
-285
+283
 00:22:28,200 --> 00:22:30,160
 Não fui eu!
 
-286
+284
 00:22:30,160 --> 00:22:31,710
 Não fui...
 
-287
+285
 00:22:35,170 --> 00:22:36,500
 N-Nami?
 
-288
+286
 00:22:36,500 --> 00:22:38,920
 Nami, machucou seu ombro?
 
-289
+287
 00:22:39,960 --> 00:22:42,380
 Não foi nada, estou bem.
 
-290
+288
 00:22:42,380 --> 00:22:45,840
 Fiz o que pude.
 
-291
+289
 00:22:45,840 --> 00:22:48,140
 Deixo o resto com você.
 
-292
+290
 00:22:49,180 --> 00:22:53,270
 Não podemos perder para eles!
 
-293
+291
 00:22:53,270 --> 00:22:54,060
 Sim.
 
-294
+292
 00:22:55,350 --> 00:22:58,730
 Pelos meus tesouros!
 
-295
+293
 00:22:58,730 --> 00:23:01,940
 Eu sabia.
 
-296
+294
 00:23:03,150 --> 00:23:05,490
 Só lhes resta um minuto.
 
-297
+295
 00:23:07,820 --> 00:23:09,620
 Impossível!
 
-298
+296
 00:23:09,620 --> 00:23:12,040
 O Capitão Jango e o Bushi
  não dão conta nesse tempo!
 
-299
+297
 00:23:12,370 --> 00:23:15,870
 Não vamos conseguir 
 matá-los em um minuto!!
 
-300
+298
 00:23:26,220 --> 00:23:29,050
 Buchi, já chega de brincadeira!
 
-301
+299
 00:23:29,800 --> 00:23:32,020
 Você pega o cara da bandana...
 
-302
+300
 00:23:32,020 --> 00:23:36,230
 ...e eu vou no moleque esquisito.
 
-303
+301
 00:23:42,780 --> 00:23:44,570
 Aquele do chapéu de palha!
 
-304
+302
 00:23:47,160 --> 00:23:50,080
 O quê? O mordomo
 também tá aqui.
 
-305
+303
 00:23:51,030 --> 00:23:52,740
 Esse maldito...
 
-306
+304
 00:23:52,740 --> 00:23:55,460
 Não tinha morrido
 ao cair do penhasco?
 
-307
+305
 00:23:57,210 --> 00:23:58,500
 Tudo bem...
 
-308
+306
 00:24:10,970 --> 00:24:12,560
 Não chegue perto de mim...
 
-309
+307
 00:24:16,020 --> 00:24:18,140
 ...pelas minhas costas!
 
-310
+308
 00:24:18,980 --> 00:24:20,940
 Kaya!
 
-311
+309
 00:24:36,750 --> 00:24:38,670
 Usopp! Você está bem?!
 
-312
+310
 00:24:38,670 --> 00:24:40,000
 K-Kaya...
 
-313
+311
 00:24:40,000 --> 00:24:41,670
 O que você
 está fazendo aqui?
 
-314
+312
 00:24:42,380 --> 00:24:44,630
 Sinto muito, Usopp...
 
-315
+313
 00:24:44,630 --> 00:24:47,470
 Você nunca vai me
 perdoar pelo que fiz.
 
-316
+314
 00:24:47,470 --> 00:24:49,840
 Não acredito que...
 
-317
+315
 00:24:49,840 --> 00:24:52,760
 Klahadore é um pirata!
 
-318
+316
 00:24:52,760 --> 00:24:54,720
 Mas não importa!
 
-319
+317
 00:24:54,720 --> 00:24:56,180
 Por que você veio?
 
-320
+318
 00:24:56,180 --> 00:24:58,230
 Eu disse para fugir.
 
-321
+319
 00:24:58,230 --> 00:25:00,440
 Ele quer te matar.
 
-322
+320
 00:25:00,440 --> 00:25:04,270
 Mas você está lutando, não?!
 
-323
+321
 00:25:05,780 --> 00:25:09,570
 O que eu lhe fiz foi horrível.
 
-324
+322
 00:25:09,570 --> 00:25:12,780
 Você está ferido,
 mas segue lutando.
 
-325
+323
 00:25:12,780 --> 00:25:13,580
 Por isso...
 
-326
+324
 00:25:13,580 --> 00:25:15,160
 Senhorita Kaya...
 
-327
+325
 00:25:16,240 --> 00:25:18,710
 Por que está aqui?
 
-328
+326
 00:25:21,370 --> 00:25:24,130
 Pare, por favor!
 
-329
+327
 00:25:27,300 --> 00:25:30,800
 Pare com isso, Klahadore!
 
-330
+328
 00:25:37,220 --> 00:25:40,190
 Merry me contou tudo.
 
-331
+329
 00:25:43,020 --> 00:25:45,360
 Não é a menina da mansão?
 
-332
+330
 00:25:45,820 --> 00:25:48,690
 Então é ela o alvo!
 
-333
+331
 00:25:48,690 --> 00:25:51,450
 Então não precisamos
 mais chegar na vila?
 
-334
+332
 00:25:51,450 --> 00:25:53,660
 Só precisamos matar
 a menina, não é?
 
-335
+333
 00:25:56,790 --> 00:25:58,540
 Klahadore, eu imploro!
 
-336
+334
 00:25:58,540 --> 00:26:02,000
 Se quer minha fortuna,
  que fique com ela!
 
-337
+335
 00:26:02,000 --> 00:26:03,790
 Mas vá embora daqui!
 
-338
+336
 00:26:03,790 --> 00:26:05,420
 Agora!
 
-339
+337
 00:26:05,420 --> 00:26:09,630
 Eu agradeço a oferta. Porém...
 
-340
+338
 00:26:10,130 --> 00:26:14,760
 Há algo mais que eu desejo.
 
-341
+339
 00:26:16,720 --> 00:26:19,310
 E o que eu desejo é...
 
-342
+340
 00:26:20,850 --> 00:26:23,190
 Ter paz de espírito.
 
-343
+341
 00:26:23,690 --> 00:26:25,400
 Paz...
 
-344
+342
 00:26:26,150 --> 00:26:29,860
 Sim, é tudo que desejo.
 
-345
+343
 00:26:31,070 --> 00:26:35,070
 Passei três anos ganhando
 a confiança de todos,
 
-346
+344
 00:26:35,070 --> 00:26:40,330
 o que me deixou 
 extremamente confortável.
 
-347
+345
 00:26:40,330 --> 00:26:46,880
 E quero essa sensação
 comigo para sempre.
 
-348
+346
 00:26:53,880 --> 00:26:55,590
 Portanto...
 
-349
+347
 00:26:56,340 --> 00:26:59,720
 Quero esta paz de
 espírito e sua fortuna!
 
-350
+348
 00:26:59,720 --> 00:27:02,180
 Quero esta paz de
 espírito e sua fortuna!
 
-351
+349
 00:27:02,810 --> 00:27:05,150
 O que significa que meus
 piratas atacarão a vila!
 
-352
+350
 00:27:08,270 --> 00:27:09,190
 E então...
 
-353
+351
 00:27:09,770 --> 00:27:12,900
 Você deixará um testamento e morrerá!
 
-354
+352
 00:27:13,280 --> 00:27:16,700
 O cumprimento das duas condições é extremamente necessário!
 
-355
+353
 00:27:17,280 --> 00:27:19,200
 Não... Ele...
 
-356
+354
 00:27:20,200 --> 00:27:22,410
 ...não pode ser o Klahadore.
 
-357
+355
 00:27:23,080 --> 00:27:26,920
 Fuja, pois não vai adiantar
 nada dialogar com ele!
 
-358
+356
 00:27:26,920 --> 00:27:28,290
 Fuja!
 
-359
+357
 00:27:28,290 --> 00:27:31,250
 Esse não é o Klahadore...
 
-360
+358
 00:27:31,250 --> 00:27:33,510
 Não é o Klahadore!
 
-361
+359
 00:27:34,720 --> 00:27:36,220
 Kaya...
 
-362
+360
 00:27:36,630 --> 00:27:38,050
 Saia desta vila!
 
-363
+361
 00:27:38,050 --> 00:27:39,470
 Vai logo!
 
-364
+362
 00:27:39,800 --> 00:27:41,430
 Então é assim...
 
-365
+363
 00:27:41,430 --> 00:27:45,390
 Você cresceu bastante
 nestes três anos,
 
-366
+364
 00:27:46,270 --> 00:27:48,230
 senhorita Kaya.
 
-367
+365
 00:27:49,400 --> 00:27:51,730
 Ainda se lembra?
 
-368
+366
 00:27:51,730 --> 00:27:54,820
 Muita coisa aconteceu
 nestes três anos.
 
-369
+367
 00:27:55,860 --> 00:28:00,070
 Desde quando passou meses na cama
  chorando por seus falecidos pais...
 
-370
+368
 00:28:00,070 --> 00:28:03,950
 Já se passou muito tempo.
 
-371
+369
 00:28:05,040 --> 00:28:06,540
 Muito tempo...
 
-372
+370
 00:28:10,250 --> 00:28:11,670
 Ainda me lembro dos dias tristes e
 dos dias felizes que passamos juntos.
 
-373
+371
 00:28:11,670 --> 00:28:16,300
 Ainda me lembro dos dias tristes e
 dos dias felizes que passamos juntos.
 
-374
+372
 00:28:16,800 --> 00:28:19,300
 Klahadore...
 
-375
+373
 00:28:20,300 --> 00:28:22,310
 Fizemos compras...
 
-376
+374
 00:28:23,060 --> 00:28:25,810
 Cuidei de você quando tinha febre...
 
-377
+375
 00:28:26,810 --> 00:28:30,810
 Ficava tão feliz quando conversávamos.
 
-378
+376
 00:28:32,900 --> 00:28:35,990
 Dei tudo por você.
 
-379
+377
 00:28:37,200 --> 00:28:38,990
 Eu sempre...
 
-380
+378
 00:28:38,990 --> 00:28:41,200
 Sempre...
 
-381
+379
 00:28:41,620 --> 00:28:43,870
 Encarei tudo.
 
-382
+380
 00:28:45,540 --> 00:28:52,380
 Sim... Tudo para que... 
 Pudesse matá-la um dia... Hoje!
 
-383
+381
 00:28:59,380 --> 00:29:03,180
 Eu, outrora conhecido
 como Capitão Kuro,
 
-384
+382
 00:29:03,510 --> 00:29:07,480
 tive de sorrir para uma
 garotinha que só chorava.
 
-385
+383
 00:29:08,390 --> 00:29:12,610
 Eu odiava aquilo, mas me
 esforçava para deixá-la feliz.
 
-386
+384
 00:29:17,440 --> 00:29:19,030
 Maldito!
 
-387
+385
 00:29:19,610 --> 00:29:22,990
 Consegue imaginar o
 quanto me humilhei?
 
-388
+386
 00:29:23,910 --> 00:29:28,710
 Consegue imaginar o
 Capitão Kuro fazendo isso?!
 
-389
+387
 00:29:36,090 --> 00:29:39,130
 Kuro!
 
-390
+388
 00:29:44,800 --> 00:29:47,180
 Aliás, é mesmo...
 
-391
+389
 00:29:49,520 --> 00:29:52,850
 Você ainda me deve
 um soco na cara.
 
-392
+390
 00:29:53,400 --> 00:29:55,060
 Usopp!
 
-393
+391
 00:29:55,400 --> 00:29:59,860
 Você me acertou em
 cheio da última vez.
 
-394
+392
 00:30:23,090 --> 00:30:27,930
 Já que você não gosta de apanhar na cara,
  tenho ainda muito o que esmurrar!
+
+393
+00:06:50,140 --> 00:06:53,140
+Sham
+Ship Guard
+Black Cat Pirates
+
+394
+00:06:50,140 --> 00:06:53,140
+Sham
+Ship Guard
+Black Cat Pirates
 
 395
 00:06:50,140 --> 00:06:53,140
@@ -1681,14 +1679,14 @@ Ship Guard
 Black Cat Pirates
 
 396
-00:06:50,140 --> 00:06:53,140
-Sham
+00:06:53,310 --> 00:06:56,440
+Buchi
 Ship Guard
 Black Cat Pirates
 
 397
-00:06:50,140 --> 00:06:53,140
-Sham
+00:06:53,310 --> 00:06:56,440
+Buchi
 Ship Guard
 Black Cat Pirates
 
@@ -1698,14 +1696,3 @@ Buchi
 Ship Guard
 Black Cat Pirates
 
-399
-00:06:53,310 --> 00:06:56,440
-Buchi
-Ship Guard
-Black Cat Pirates
-
-400
-00:06:53,310 --> 00:06:56,440
-Buchi
-Ship Guard
-Black Cat Pirates

@@ -4892,3 +4892,4 @@ Quelque chose tombe.
 1155
 00:38:01,850 --> 00:38:03,960
 C'est quoi, ce machin ?
+

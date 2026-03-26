@@ -387,3 +387,4 @@ Juego de palabras: "Kotsukotsu" significa "con esfuerzo/perseverancia", y "Kosts
 97
 00:28:27,770 --> 00:28:30,140
 ¡Quiere meterse allí!
+

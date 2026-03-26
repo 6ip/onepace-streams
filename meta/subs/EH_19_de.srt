@@ -1,2133 +1,2116 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:03:01,450 --> 00:03:11,440
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:33,870 --> 00:01:34,820
 Garp?!
 
-4
+2
 00:01:34,820 --> 00:01:37,080
 Er ist auf der Pirateninsel verschwunden?!
 
-5
+3
 00:01:37,080 --> 00:01:38,490
 Ist das wahr?!
 
-6
+4
 00:01:38,490 --> 00:01:42,000
 Er ist dorthin gefahren,
 um diesen Koby zu retten.
 
-7
+5
 00:01:42,000 --> 00:01:44,880
 Also hat er sich für
 seinen Kameraden geopfert.
 
-8
+6
 00:01:44,880 --> 00:01:46,750
 Da steht nicht, dass er tot ist!
 
-9
+7
 00:01:47,130 --> 00:01:50,130
 Er ist ein Mann, der viele
 Legenden geschmiedet hat!
 
-10
+8
 00:01:50,130 --> 00:01:51,840
 Keine Sorge.
 
-11
+9
 00:01:51,840 --> 00:01:53,890
 Ganz genau, Dorfvorsteher.
 
-12
+10
 00:01:53,890 --> 00:01:55,390
 Liegt doch auf der Hand!
 
-13
+11
 00:01:58,390 --> 00:02:00,100
 Wer ist da?! Was ist daran so lustig?!
 
-14
+12
 00:02:03,480 --> 00:02:04,560
 Oje, oje...
 
-15
+13
 00:02:05,190 --> 00:02:07,070
 Du musst dich erschreckt haben.
 
-16
+14
 00:02:07,070 --> 00:02:08,190
 Ist schon gut.
 
-17
+15
 00:02:08,190 --> 00:02:09,940
 Hoppla, du warst das.
 
-18
+16
 00:02:09,940 --> 00:02:11,150
 Tut mir leid, Makino.
 
-19
+17
 00:02:11,900 --> 00:02:14,780
 Geht es um Garp,
 machst du dir immer Sorgen.
 
-20
+18
 00:02:14,780 --> 00:02:18,200
 Der Kleine erkennt in
 letzter Zeit Luffys Gesicht.
 
-21
+19
 00:02:18,790 --> 00:02:21,580
 Du magst Luffy, nicht wahr?
 
-22
+20
 00:02:24,790 --> 00:02:26,630
 Garp und Luffy...
 
-23
+21
 00:02:26,630 --> 00:02:28,210
 Was treibt ihr nur?!
 
-24
+22
 00:02:44,980 --> 00:02:46,480
 Das wird heftig!
 
-25
+23
 00:02:51,650 --> 00:02:52,940
 Das ist ein Erdbeben!
 
-26
+24
 00:02:56,160 --> 00:02:57,370
 Papa!
 
-27
+25
 00:03:01,790 --> 00:03:04,160
 Ein Tsunami ist auf dem Weg!
 
-28
+26
 00:03:04,160 --> 00:03:05,750
 Schnell auf eine Anhöhe!
 
-29
+27
 00:03:06,750 --> 00:03:08,710
 Hier entlang! Bitte beeilt euch!
 
-30
+28
 00:03:13,920 --> 00:03:14,970
 Das ist ein starkes Beben!
 
-31
+29
 00:03:35,490 --> 00:03:38,280
 Rennt weg! Klettert auf den Hügel!
 
-32
+30
 00:03:38,870 --> 00:03:39,910
 Das bringt nichts.
 
-33
+31
 00:03:46,250 --> 00:03:50,670
 Das Epizentrum konnte nicht festgestellt
 werden, was seismologisch ungewöhnlich war.
 
-34
+32
 00:03:51,040 --> 00:03:53,090
 Obwohl die Relevanz unklar war,
 
-35
+33
 00:03:53,500 --> 00:03:57,470
 geschah es sechs Tage, nachdem das
 Königreich Lulusia von der Landkarte getilgt wurde,
 
-36
+34
 00:03:57,470 --> 00:03:59,970
 ohne dass jemand davon wusste.
 
-37
+35
 00:03:59,970 --> 00:04:02,470
 Wir sind bei den Überresten
 des Königreichs Lulusia!
 
-38
+36
 00:04:03,100 --> 00:04:04,930
 Vom Festland fehlt jede Spur!
 
-39
+37
 00:04:04,930 --> 00:04:07,520
 Hier ist nur ein riesiges Loch mit Wasserfällen!
 
-40
+38
 00:04:07,850 --> 00:04:09,690
 Nähern kann man sich nicht!
 
-41
+39
 00:04:09,690 --> 00:04:11,480
 Das Loch scheint sich auch nicht zu füllen!
 
-42
+40
 00:04:13,780 --> 00:04:19,700
 Durch das Erdbeben ist der Meeresspiegel
 weltweit um etwa einen Meter gestiegen.
 
-43
+41
 00:04:22,780 --> 00:04:24,950
 Hey! Was geht hier vor sich?!
 
-44
+42
 00:04:29,580 --> 00:04:32,590
 So eine Überflutung hat es
 am Strand noch nie gegeben!
 
-45
+43
 00:04:32,590 --> 00:04:34,460
 Die Flut geht doch wieder zurück, oder?
 
-46
+44
 00:04:34,460 --> 00:04:35,920
 Das ist unverzeihlich!
 
-47
+45
 00:04:36,670 --> 00:04:40,180
 Wir wollten doch am Strand rennen!
 
-48
+46
 00:04:40,970 --> 00:04:42,800
 Wird’s bald?!
 
-49
+47
 00:04:42,800 --> 00:04:45,680
 Gebt uns den Strand zurück!
 
-50
+48
 00:04:46,930 --> 00:04:50,140
 Zahlreiche Strände auf der
 ganzen Welt waren verschwunden.
 
-51
+49
 00:04:50,140 --> 00:04:52,650
 Wie auch unzählige Inseln.
 
-52
+50
 00:04:55,190 --> 00:04:57,320
 Diese Überflutung macht
 ein Leben hier unmöglich!
 
-53
+51
 00:04:57,320 --> 00:05:00,280
 Ein Hai schwamm direkt in mein Haus!
 
-54
+52
 00:05:02,030 --> 00:05:04,450
 Es sollte noch keine Flut kommen!
 
-55
+53
 00:05:04,450 --> 00:05:06,450
 Vielleicht kriegen wir heute fette Beute!
 
-56
+54
 00:05:06,450 --> 00:05:08,700
 Du Trottel! Segle bei dem
 Wetter bloß nicht raus!
 
-57
+55
 00:05:11,460 --> 00:05:14,000
 Hier ist ein Lagebericht zur
 Flutlage auf der ganzen Welt.
 
-58
+56
 00:05:15,130 --> 00:05:17,510
 Der Meeresspiegel auf der
 ganzen Welt ist gestiegen?!
 
-59
+57
 00:05:18,050 --> 00:05:19,050
 Ja.
 
-60
+58
 00:05:19,050 --> 00:05:20,930
 Ich frage mich, wie es dazu kommen konnte...
 
-61
+59
 00:05:22,300 --> 00:05:25,510
 Währenddessen befand sich in der Neuen
 Welt bei der Zukunftsinsel Egghead
 
-62
+60
 00:05:25,510 --> 00:05:29,980
 eine Flotte von 100 Schiffen
 verschiedener Größen,
 
-63
+61
 00:05:29,980 --> 00:05:32,440
 darunter 20 riesige Kriegsschiffe,
 
-64
+62
 00:05:32,440 --> 00:05:36,480
 die einen Buster Call, der eine landesgroße
 Flotte herbeirufen könnte, weit übertrafen.
 
-65
+63
 00:05:37,110 --> 00:05:39,990
 An Bord befanden sich
 30.000 Marine-Soldaten.
 
-66
+64
 00:05:41,240 --> 00:05:43,820
 Diese exorbitante Streitmacht wurde...
 
-67
+65
 00:05:49,700 --> 00:05:52,620
 von neun Vizeadmirälen
 des Marine-Hauptquartiers...
 
-68
+66
 00:05:59,170 --> 00:06:03,090
 und Admiral Kizaru angeführt.
 
-69
+67
 00:06:05,050 --> 00:06:07,050
 Sie kommen!
 
-70
+68
 00:06:43,090 --> 00:06:43,720
 Hey!
 
-71
+69
 00:06:44,590 --> 00:06:48,180
 Ich habe dir gesagt, du sollst die
 Seeungeheuer-Waffe in Ruhe lassen!
 
-72
+70
 00:06:48,180 --> 00:06:52,390
 Nun ja, es hat uns zuerst angegriffen.
 
-73
+71
 00:06:53,430 --> 00:06:55,350
 Kizaru, hier ist Ihre Mahlzeit.
 
-74
+72
 00:06:56,730 --> 00:06:59,150
 Oh, so gefällt mir das!
 
-75
+73
 00:06:59,520 --> 00:07:00,610
 Bitte schön!
 
-76
+74
 00:07:00,610 --> 00:07:02,280
 Stäbchen können Sie sich dort nehmen!
 
-77
+75
 00:07:09,280 --> 00:07:13,830
 Herrje, die Situation schlägt
 mir auf den Magen, Sentomaru.
 
-78
+76
 00:07:14,750 --> 00:07:18,500
 Warum gibst du nicht auf
 und kehrst zu uns zurück?
 
-79
+77
 00:07:18,500 --> 00:07:21,840
 Noch so ein Ding und wir greifen an, Onkel!
 
-80
+78
 00:07:21,840 --> 00:07:24,340
 Jetzt machst du mir aber Angst!
 
-81
+79
 00:07:24,340 --> 00:07:30,720
 Opa Punk entwickelte die Laser der Pacifista,
 indem er deine Fähigkeiten studierte.
 
-82
+80
 00:07:30,720 --> 00:07:32,890
 Wow, wie krass!
 
-83
+81
 00:07:34,230 --> 00:07:37,980
 Ich hätte nie gedacht, dass du eines Tages
 kommen würdest, um Opa Punk zu töten.
 
-84
+82
 00:07:38,350 --> 00:07:41,360
 Forschungen über die 100 Jahre
 der Leere sind ein Verbrechen,
 
-85
+83
 00:07:41,360 --> 00:07:44,860
 das selbst ich nicht
 gutheißen kann, Sentomaru.
 
-86
+84
 00:07:44,860 --> 00:07:46,200
 Ich bin...
 
-87
+85
 00:07:46,650 --> 00:07:48,570
 nur das Mittel zum Zweck.
 
-88
+86
 00:07:50,030 --> 00:07:54,540
 Das hier ist kein Kampf,
 den wir führen wollen.
 
-89
+87
 00:07:54,540 --> 00:07:57,540
 Je mehr wir zerstören,
 desto mehr verlieren wir.
 
-90
+88
 00:07:57,540 --> 00:08:01,880
 Sieht so aus, als hätte Rob Luccis Team
 das Attentat nicht über die Bühne gekriegt.
 
-91
+89
 00:08:01,880 --> 00:08:04,300
 Ja, weil die Strohhüte auf der Insel sind.
 
-92
+90
 00:08:09,430 --> 00:08:12,260
 Gebt nicht preis, dass ich hier bin.
 
-93
+91
 00:08:12,260 --> 00:08:13,220
 Jawohl!
 
-94
+92
 00:08:13,680 --> 00:08:18,690
 „Die Strohhüte nahmen Dr. Vegapunk
 als Geisel und belagern die Insel?“
 
-95
+93
 00:08:18,690 --> 00:08:20,350
 Der Artikel gefällt mir.
 
-96
+94
 00:08:20,940 --> 00:08:22,310
 Er stammt von Morgans.
 
-97
+95
 00:08:22,940 --> 00:08:24,150
 Und die Wahrheit?
 
-98
+96
 00:08:24,650 --> 00:08:28,110
 Wir erhielten keine Meldung über
 den Erfolg der Mission der CP0.
 
-99
+97
 00:08:29,160 --> 00:08:32,070
 Da Sentomaru die Insel
 immer noch verteidigt,
 
-100
+98
 00:08:32,530 --> 00:08:35,040
 können wir sicher sein,
 dass sich in der Labophase
 
-101
+99
 00:08:35,620 --> 00:08:38,960
 der wahre Dr. Vegapunk und
 seine sechs Satelliten befinden.
 
-102
+100
 00:08:39,670 --> 00:08:42,750
 Darüber hinaus die vier
 Seraphim, die ihn beschützen,
 
-103
+101
 00:08:42,750 --> 00:08:48,010
 und die zehn Mitglieder des Strohhut-Kaisers,
 die nun wohl ihre Verbündeten sind.
 
-104
+102
 00:08:50,970 --> 00:08:54,600
 Ebenso werden sich dort Rob Lucci,
 Kaku und Stussy von der CP0 aufhalten,
 
-105
+103
 00:08:54,600 --> 00:08:57,390
 die bei der Operation die Vorhut übernahmen.
 
-106
+104
 00:08:57,390 --> 00:09:02,350
 Und weitere Cipherpol-Agenten scheinen
 von Sentomaru und seinen Pacifista Mark III
 
-107
+105
 00:09:02,350 --> 00:09:05,270
 in der Fabriophase gefangen
 genommen worden zu sein.
 
-108
+106
 00:09:06,150 --> 00:09:11,410
 Der Barrierenstatus des Frontier Domes
 liegt bei 100 Prozent, was bedeutet,
 
-109
+107
 00:09:11,410 --> 00:09:14,870
 dass niemand die Labophase
 betreten oder verlassen kann.
 
-110
+108
 00:09:14,870 --> 00:09:19,120
 Ein ganzer Tag ist bereits vergangen
 und uns ist weiterhin unbekannt,
 
-111
+109
 00:09:19,120 --> 00:09:20,920
 was da drinnen vor sich geht.
 
-112
+110
 00:09:21,540 --> 00:09:26,460
 Wo sind die Forscher und Techniker,
 die auf Egghead gearbeitet haben?
 
-113
+111
 00:09:26,840 --> 00:09:29,880
 Sie haben gestern allesamt die Insel verlassen.
 
-114
+112
 00:09:30,260 --> 00:09:32,180
 Wir haben ihre Schiffe bereits lokalisiert.
 
-115
+113
 00:09:32,180 --> 00:09:34,850
 Was tun wir, falls sie irgendetwas wissen?
 
-116
+114
 00:09:35,600 --> 00:09:37,310
 Versenkt sie sofort.
 
-117
+115
 00:09:37,310 --> 00:09:38,060
 Jawohl!
 
-118
+116
 00:09:39,100 --> 00:09:41,230
 Da wäre noch etwas, Sankt Saturn!
 
-119
+117
 00:09:41,230 --> 00:09:45,360
 „Vielfraß“ Jewelry Bonney wurde
 ebenfalls auf der Insel gesichtet!
 
-120
+118
 00:09:45,360 --> 00:09:47,070
 Bärs Tochter, was?
 
-121
+119
 00:09:47,610 --> 00:09:49,440
 Sie hat für uns ausgedient.
 
-122
+120
 00:09:51,400 --> 00:09:54,240
 Ignoriert sie. Sie ist nur eine kleine Göre.
 
-123
+121
 00:09:54,240 --> 00:09:54,910
 Verstanden!
 
-124
+122
 00:09:57,740 --> 00:09:58,580
 Kizaru!
 
-125
+123
 00:10:02,250 --> 00:10:04,750
 Ich bin noch beim Essen!
 
-126
+124
 00:10:04,750 --> 00:10:07,000
 Wir empfangen ein Signal von Egghead!
 
-127
+125
 00:10:08,380 --> 00:10:10,380
 Sie scheinen irgendwo einen Anruf zu tätigen!
 
-128
+126
 00:10:10,380 --> 00:10:12,840
 Finde endlich heraus, wohin sie anrufen.
 
-129
+127
 00:10:17,300 --> 00:10:18,220
 Es ist Mary Geoise!
 
-130
+128
 00:10:23,940 --> 00:10:25,270
 Wer ist da?
 
-131
+129
 00:10:25,860 --> 00:10:29,650
 Admiral, Sie haben eine schwarze
 Teleschnecke an Ihrem Handgelenk!
 
-132
+130
 00:10:30,900 --> 00:10:32,650
 So können Sie den Anruf abhören!
 
-133
+131
 00:10:42,580 --> 00:10:44,040
 Hallo?! Ich bin’s!
 
-134
+132
 00:10:44,040 --> 00:10:45,540
 York!
 
-135
+133
 00:10:45,540 --> 00:10:46,670
 Ach, du bist es.
 
-136
+134
 00:10:46,670 --> 00:10:48,380
 Was soll das?!
 
-137
+135
 00:10:48,380 --> 00:10:49,630
 Wie gemein!
 
-138
+136
 00:10:49,630 --> 00:10:52,720
 Warum versucht ihr, mich auch umzubringen?!
 
-139
+137
 00:10:52,720 --> 00:10:55,890
 Ich bin diejenige, die euch
 über Stellas Verrat informiert hat!
 
-140
+138
 00:10:56,390 --> 00:11:00,640
 Aber du bist auch ein Vegapunk, York.
 
-141
+139
 00:11:00,970 --> 00:11:04,230
 Hätte ich ein Interesse an
 den 100 Jahren der Leere,
 
-142
+140
 00:11:04,230 --> 00:11:07,100
 hätte ich euch diese Info nicht gesteckt!
 
-143
+141
 00:11:07,480 --> 00:11:08,060
 Das hätte ich nicht erwartet!
 
-144
+142
 00:11:08,060 --> 00:11:08,980
 Das hätte ich nicht erwartet!
 
-145
+143
 00:11:10,520 --> 00:11:11,900
 Das mag stimmen.
 
-146
+144
 00:11:11,900 --> 00:11:13,780
 Ich bin überrascht, dass du noch lebst.
 
-147
+145
 00:11:13,780 --> 00:11:15,990
 Ist die CP0 nicht gekommen?
 
-148
+146
 00:11:16,570 --> 00:11:19,410
 Was treiben die Strohhüte?
 
-149
+147
 00:11:21,370 --> 00:11:23,450
 Die Tatsache, dass ich die Einzige bin,
 die euch nach letzter Nacht kontaktiert,
 
-150
+148
 00:11:23,450 --> 00:11:25,410
 Die Tatsache, dass ich die Einzige bin,
 die euch nach letzter Nacht kontaktiert,
 
-151
+149
 00:11:26,170 --> 00:11:28,790
 sollte euch doch ein Licht aufgehen lassen!
 
-152
+150
 00:11:31,130 --> 00:11:33,760
 Egghead gehört jetzt ganz mir!
 
-153
+151
 00:11:33,760 --> 00:11:37,190
 Ich habe die Seraphim auf meiner Seite.
 
-154
+152
 00:11:38,010 --> 00:11:38,800
 Außerdem...
 
-155
+153
 00:11:38,800 --> 00:11:41,810
 Warum wird die Insel von
 einer Kriegsflotte umzingelt?
 
-156
+154
 00:11:42,310 --> 00:11:44,600
 Wollt ihr einen Krieg mit mir?
 
-157
+155
 00:11:45,060 --> 00:11:48,230
 York, wir haben unsere Meinung geändert.
 
-158
+156
 00:11:49,940 --> 00:11:54,490
 Du kannst die Mother Flame
 auch erschaffen, richtig?
 
-159
+157
 00:11:59,910 --> 00:12:02,080
 Jetzt treibt ihr ein Spiel mit mir!
 
-160
+158
 00:12:02,080 --> 00:12:04,750
 Mir war klar, dass ihr euch
 danach die Finger leckt!
 
-161
+159
 00:12:04,750 --> 00:12:06,540
 Gut, dass ich sie euch geschickt habe!
 
-162
+160
 00:12:07,330 --> 00:12:09,500
 Ja, dies ist das Begehr.
 
-163
+161
 00:12:09,500 --> 00:12:11,090
 Begehr?
 
-164
+162
 00:12:11,090 --> 00:12:12,460
 Wessen?
 
-165
+163
 00:12:12,460 --> 00:12:15,460
 Das Kraftwerk, das sie erschaffen
 kann, befindet sich auf dieser Insel!
 
-166
+164
 00:12:25,600 --> 00:12:26,640
 Hört mal gut zu.
 
-167
+165
 00:12:28,020 --> 00:12:31,980
 Versprecht mir, dass ihr mir und
 dem Labor keinen Schaden zufügt.
 
-168
+166
 00:12:32,360 --> 00:12:33,400
 Du hast unser Wort.
 
-169
+167
 00:12:33,770 --> 00:12:36,150
 Macht mich zu einem Himmelsdrachen!
 
-170
+168
 00:12:36,150 --> 00:12:37,860
 So soll es sein.
 
-171
+169
 00:12:38,360 --> 00:12:40,820
 Damit steht unser Deal!
 
-172
+170
 00:12:40,820 --> 00:12:43,030
 Was haltet ihr davon,
 wenn ihr mich jetzt sofort...
 
-173
+171
 00:12:44,290 --> 00:12:47,250
 von hier rettet?!
 
-174
+172
 00:12:47,250 --> 00:12:52,500
 Strohhut Luffy wird mich umbringen!
 
-175
+173
 00:12:52,960 --> 00:12:53,880
 – Was?!
 – Was?!
 
-176
+174
 00:12:53,880 --> 00:12:54,750
 Wie bitte?
 
-177
+175
 00:12:54,750 --> 00:12:56,460
 Was wird da gespielt?!
 
-178
+176
 00:12:59,720 --> 00:13:01,260
 Hey, Luffy!
 
-179
+177
 00:13:01,260 --> 00:13:03,470
 Was sollen wir mit der machen?
 
-180
+178
 00:13:03,470 --> 00:13:05,220
 Brauchen wir die noch?
 
-181
+179
 00:13:07,470 --> 00:13:12,190
 Macht diese Fieslinge allesamt platt!
 
-182
+180
 00:13:12,730 --> 00:13:15,360
 Das hatte sich also zugetragen.
 
-183
+181
 00:13:15,360 --> 00:13:17,440
 Seht über diesen Ärger bitte hinweg.
 
-184
+182
 00:13:17,440 --> 00:13:21,700
 Alles klar! Nun sind wir vollkommen im Bilde!
 
-185
+183
 00:13:21,700 --> 00:13:23,410
 Was stellen wir mit ihr an, Luffy?
 
-186
+184
 00:13:25,660 --> 00:13:28,160
 Keine Ahnung.
 
-187
+185
 00:13:28,160 --> 00:13:30,540
 Sollen wir sie als Schutzschild
 benutzen, um zu entkommen?
 
-188
+186
 00:13:30,540 --> 00:13:32,960
 Wie bei ’ner Belagerung mit Geiselnahme.
 
-189
+187
 00:13:33,750 --> 00:13:35,880
 Wie steht es um Robins Wunden?
 
-190
+188
 00:13:35,880 --> 00:13:39,840
 Der Heilprozess dauert noch etwas,
 aber mit ein wenig Ruhe wird sie wieder.
 
-191
+189
 00:13:42,550 --> 00:13:45,010
 Hallöchen?!
 
-192
+190
 00:13:46,510 --> 00:13:47,220
 Mein Name ist
 
-193
+191
 00:13:47,220 --> 00:13:47,970
 Mein Name ist
 
-194
+192
 00:13:48,350 --> 00:13:50,350
 Monkey D. Luffy!
 
-195
+193
 00:13:50,350 --> 00:13:52,600
 Ich werde einmal König der Piraten sein!
 
-196
+194
 00:13:52,600 --> 00:13:55,190
 H-Hey, Luffy! Was denkst du dir dabei?!
 
-197
+195
 00:13:55,520 --> 00:13:58,900
 Wir haben Dr. Vegapunk in der Hand!
 
-198
+196
 00:13:59,740 --> 00:14:01,860
 Wenn euch etwas an Yorks Leben liegt,
 
-199
+197
 00:14:01,860 --> 00:14:06,080
 dann schafft alle Schiffe von der Küste weg!
 
-200
+198
 00:14:06,080 --> 00:14:07,830
 Hilfe!
 
-201
+199
 00:14:07,830 --> 00:14:10,290
 Der Strohhut wird mich umbringen!
 
-202
+200
 00:14:11,910 --> 00:14:13,170
 Was für ein Bösewicht!
 
-203
+201
 00:14:13,170 --> 00:14:15,880
 Seine Bösartigkeit war also nicht gelogen.
 
-204
+202
 00:14:16,880 --> 00:14:18,460
 Was macht der da?!
 
-205
+203
 00:14:18,460 --> 00:14:20,840
 Hä?! Luffy?!
 
-206
+204
 00:14:20,840 --> 00:14:22,420
 Was geht da vor sich?!
 
-207
+205
 00:14:23,010 --> 00:14:25,220
 Du bist also Strohhut Luffy, ja?
 
-208
+206
 00:14:25,220 --> 00:14:29,770
 Wer auf der Insel Egghead ist in
 diesem Moment noch am Leben?
 
-209
+207
 00:14:31,140 --> 00:14:33,850
 Ähm, einige Pappenheimer sind verletzt, aber...
 
-210
+208
 00:14:34,560 --> 00:14:36,020
 Kein Wort mehr, Luffy!
 
-211
+209
 00:14:39,320 --> 00:14:41,070
 Die Stimme einer Frau.
 
-212
+210
 00:14:41,490 --> 00:14:43,240
 Das muss Nico Robin gewesen sein.
 
-213
+211
 00:14:43,240 --> 00:14:45,360
 Warum hast du dich eingemischt?!
 
-214
+212
 00:14:45,360 --> 00:14:47,240
 Informationen sind eine Waffe.
 
-215
+213
 00:14:47,240 --> 00:14:49,120
 Du darfst sie nicht so leicht preisgeben.
 
-216
+214
 00:14:49,870 --> 00:14:51,200
 Ach so. Entschuldigung.
 
-217
+215
 00:14:51,580 --> 00:14:53,710
 Allerdings werden die Schiffe gleich fort sein.
 
-218
+216
 00:14:53,710 --> 00:14:54,920
 Träum weiter!
 
-219
+217
 00:14:55,290 --> 00:14:57,580
 Nimm die Marine nicht auf die leichte Schulter!
 
-220
+218
 00:14:59,590 --> 00:15:01,090
 Sankt Saturn...
 
-221
+219
 00:15:01,090 --> 00:15:03,300
 Es gibt drei Dinge, die wir schützen müssen.
 
-222
+220
 00:15:03,670 --> 00:15:05,550
 Yorks Sicherheit.
 
-223
+221
 00:15:05,550 --> 00:15:08,010
 Ihr Gehirn, Punk Records.
 
-224
+222
 00:15:08,680 --> 00:15:11,640
 Und das Kraftwerk,
 das die Mother Flame erzeugt.
 
-225
+223
 00:15:12,180 --> 00:15:14,060
 Alles andere ist entbehrlich.
 
-226
+224
 00:15:16,060 --> 00:15:20,150
 Aber Rob Lucci und weitere
 Cipherpol-Agenten sind immer noch...
 
-227
+225
 00:15:20,150 --> 00:15:22,480
 Ich habe nur vom
 schlimmsten Fall gesprochen.
 
-228
+226
 00:15:23,030 --> 00:15:25,820
 Verliere unsere obersten
 Prioritäten nicht aus den Augen.
 
-229
+227
 00:15:27,110 --> 00:15:30,870
 Betrachte die Leben von Menschen
 einfach als die von Käfern.
 
-230
+228
 00:15:30,870 --> 00:15:33,500
 Sie vermehren sich und
 verschwinden ebenso schnell.
 
-231
+229
 00:15:38,960 --> 00:15:39,840
 Jawohl!
 
-232
+230
 00:15:40,750 --> 00:15:43,130
 Hört mal her, ihr Witzfiguren!
 
-233
+231
 00:15:43,130 --> 00:15:46,260
 Ich habe einen Pakt mit
 den Fünf Weisen geschlossen!
 
-234
+232
 00:15:46,260 --> 00:15:49,510
 Wenn ihr mich anrührt, werdet ihr alle
 zusammen mit der Insel vernichtet!
 
-235
+233
 00:15:49,510 --> 00:15:51,390
 So wie es Ohara ergangen ist!
 
-236
+234
 00:16:01,690 --> 00:16:03,280
 Das tat weh!
 
-237
+235
 00:16:03,780 --> 00:16:05,150
 Dafür werdet ihr büßen!
 
-238
+236
 00:16:05,150 --> 00:16:07,150
 Das stecke ich den Fünf Weisen!
 
-239
+237
 00:16:07,150 --> 00:16:09,360
 Mach nur!
 
-240
+238
 00:16:09,740 --> 00:16:13,200
 Wie konntest du es wagen, so was
 in Robins Gegenwart zu sagen?!
 
-241
+239
 00:16:13,200 --> 00:16:16,080
 Gleich werde ich dich
 mal so richtig büßen lassen!
 
-242
+240
 00:16:16,080 --> 00:16:18,790
 Mach mal halblang! Sie ist unbewaffnet.
 
-243
+241
 00:16:19,750 --> 00:16:22,380
 Wie geht’s deinen Wunden, Robin?
 
-244
+242
 00:16:22,380 --> 00:16:25,880
 Alles bestens. Dank dir ist es
 nur halb so schlimm, Chopper.
 
-245
+243
 00:16:26,630 --> 00:16:29,090
 Das macht mich nicht glücklich, du Doofi!
 
-246
+244
 00:16:31,510 --> 00:16:32,850
 Was für ein Armutszeugnis.
 
-247
+245
 00:16:33,220 --> 00:16:37,180
 Allerdings hatte ich es auch mit
 zwei Seraphim gleichzeitig zu tun.
 
-248
+246
 00:16:39,560 --> 00:16:40,770
 Schlaf lieber.
 
-249
+247
 00:16:42,900 --> 00:16:44,900
 Shaka!
 
-250
+248
 00:16:44,900 --> 00:16:46,900
 Pythagoras!
 
-251
+249
 00:16:46,900 --> 00:16:48,280
 Edison!
 
-252
+250
 00:16:48,280 --> 00:16:50,910
 Ich lebe doch noch, Lilith.
 
-253
+251
 00:16:50,910 --> 00:16:52,490
 Gott sei Dank!
 
-254
+252
 00:16:54,120 --> 00:16:56,250
 Sei mal ruhig, Lilith!
 
-255
+253
 00:16:56,250 --> 00:16:58,210
 Ich kontaktiere gerade den Untergrund.
 
-256
+254
 00:17:01,670 --> 00:17:04,710
 Hey, verhaltet ihr euch auch ruhig?
 
-257
+255
 00:17:04,710 --> 00:17:06,920
 Strohhüte!
 
-258
+256
 00:17:08,340 --> 00:17:10,680
 Vielen Dank für die Lebensmittel!
 
-259
+257
 00:17:10,680 --> 00:17:13,600
 Ihr seid unsere Lebensretter!
 
-260
+258
 00:17:13,600 --> 00:17:15,350
 Wie lecker!
 
-261
+259
 00:17:15,350 --> 00:17:16,720
 Das weckt die Lebensgeister!
 
-262
+260
 00:17:18,850 --> 00:17:20,980
 Dank euch sind wir von
 den Toten auferstanden!
 
-263
+261
 00:17:20,980 --> 00:17:23,110
 Hey, die sind unsere Feinde!
 
-264
+262
 00:17:23,110 --> 00:17:24,310
 Sprich leiser!
 
-265
+263
 00:17:24,310 --> 00:17:26,980
 Ihr müsst uns nur noch hier rauslassen.
 
-266
+264
 00:17:26,980 --> 00:17:30,950
 Schön, dass es euch gut geht,
 aber das ist zu viel verlangt.
 
-267
+265
 00:17:30,950 --> 00:17:33,530
 Könntet ihr uns dann
 wenigstens woanders hinbringen?
 
-268
+266
 00:17:34,030 --> 00:17:37,450
 Mit denen in der Nähe können
 wir uns nicht entspannen.
 
-269
+267
 00:17:38,160 --> 00:17:40,080
 Wo ist denn das Problem?
 
-270
+268
 00:17:40,460 --> 00:17:43,080
 Die Seraphim stehen doch auf eurer Seite.
 
-271
+269
 00:17:43,080 --> 00:17:46,300
 Ja, aber für den Fall, dass sie Amok laufen...
 
-272
+270
 00:17:46,300 --> 00:17:49,050
 Da ist doch alles okay, oder, Vegapunk?
 
-273
+271
 00:17:49,050 --> 00:17:50,260
 Selbstverständlich.
 
-274
+272
 00:17:50,630 --> 00:17:53,050
 Diese Blasenbälle bestehen
 aus demselben Material
 
-275
+273
 00:17:53,050 --> 00:17:57,310
 wie die Blasenschilde der Pacifista Mark III,
 
-276
+274
 00:17:57,310 --> 00:17:59,730
 die sogar Kanonenschüsse abwehren können.
 
-277
+275
 00:18:00,060 --> 00:18:03,520
 Sie werden mit Meeresenergie erzeugt,
 
-278
+276
 00:18:03,520 --> 00:18:07,770
 also sind sie die perfekten Waffen,
 um Teufelsfruchtkraftnutzer einzufangen.
 
-279
+277
 00:18:07,770 --> 00:18:10,940
 Verstehe. Ich dachte,
 es wären gewöhnliche Blasen.
 
-280
+278
 00:18:11,400 --> 00:18:13,910
 Welch Schmach, in diesem
 Ding eingesperrt zu sein.
 
-281
+279
 00:18:15,030 --> 00:18:17,410
 Ihr könnt ganz unbesorgt sein.
 
-282
+280
 00:18:17,410 --> 00:18:21,120
 Niemand von uns erhielt
 den Befehl, euch zu töten.
 
-283
+281
 00:18:21,620 --> 00:18:23,540
 Ihr seid für uns nicht von Interesse!
 
-284
+282
 00:18:24,080 --> 00:18:25,750
 G-Gut, wenn du das sagst...
 
-285
+283
 00:18:25,750 --> 00:18:27,840
 Dann können wir aufatmen.
 
-286
+284
 00:18:28,210 --> 00:18:33,090
 Ich muss dir ebenfalls danken, S-Snake!
 
-287
+285
 00:18:33,800 --> 00:18:37,050
 Du hast uns nämlich von
 den Versteinerungen befreit.
 
-288
+286
 00:18:37,050 --> 00:18:38,930
 Ach, das hat sie?
 
-289
+287
 00:18:38,930 --> 00:18:40,060
 Seltsam.
 
-290
+288
 00:18:40,060 --> 00:18:43,890
 Ich habe S-Snake nie darauf programmiert.
 
-291
+289
 00:18:46,400 --> 00:18:47,900
 Hey, Hancock!
 
-292
+290
 00:18:48,320 --> 00:18:49,900
 Das sind meine Kameraden!
 
-293
+291
 00:18:49,900 --> 00:18:51,440
 Ich flehe dich an, mach es rückgängig!
 
-294
+292
 00:18:51,440 --> 00:18:52,110
 Komm schon!
 
-295
+293
 00:18:52,110 --> 00:18:54,450
 Nur du kannst sie retten!
 
-296
+294
 00:18:54,450 --> 00:18:55,410
 Ich bitte dich!
 
-297
+295
 00:18:57,820 --> 00:18:59,990
 Ist ja schon gut!
 
-298
+296
 00:18:59,990 --> 00:19:04,000
 Ich tu’s ja, aber hör auf,
 mich so direkt anzusehen!
 
-299
+297
 00:19:04,580 --> 00:19:06,750
 Das war also vorgefallen.
 
-300
+298
 00:19:06,750 --> 00:19:11,760
 Sogar das widerspenstige Hancock-Original
 hat eine Schwäche für Luffy!
 
-301
+299
 00:19:11,760 --> 00:19:14,010
 Höchst amüsant!
 
-302
+300
 00:19:14,840 --> 00:19:17,510
 Ihr Seraphim ist genauso eingestellt!
 
-303
+301
 00:19:17,510 --> 00:19:19,810
 Oh, Hancock!
 
-304
+302
 00:19:19,810 --> 00:19:21,720
 Hancock!
 
-305
+303
 00:19:21,720 --> 00:19:22,720
 Hey!
 
-306
+304
 00:19:22,720 --> 00:19:25,390
 Schau hierher, Hancock!
 
-307
+305
 00:19:25,390 --> 00:19:26,850
 Ich bin hier drüben!
 
-308
+306
 00:19:20,720 --> 00:19:25,390
 Die Informationen, die durch die
 Blutlinienfaktoren auf die Klone übertragen werden,
 
-309
+307
 00:19:25,390 --> 00:19:26,850
 wecken mein Interesse.
 
-310
+308
 00:19:27,350 --> 00:19:30,360
 Vielen Dank für alles, Hancock!
 
-311
+309
 00:19:30,360 --> 00:19:34,070
 Danke... Danke... Danke...
 
-312
+310
 00:19:34,070 --> 00:19:35,200
 Hä?
 
-313
+311
 00:19:35,200 --> 00:19:37,570
 Hast du mir soeben deine Liebe gestanden?
 
-314
+312
 00:19:45,000 --> 00:19:46,160
 Stella!
 
-315
+313
 00:19:46,160 --> 00:19:49,040
 Das Kommunikationssystem
 wurde zwar wiederhergestellt,
 
-316
+314
 00:19:49,040 --> 00:19:51,920
 aber der Frontier Dome lässt
 sich immer noch nicht öffnen!
 
-317
+315
 00:19:53,170 --> 00:19:54,800
 Das bringt nichts!
 
-318
+316
 00:19:55,630 --> 00:19:58,010
 Ich habe ihn mit einem Passwort verriegelt.
 
-319
+317
 00:19:58,010 --> 00:20:00,600
 Mein Gehirn ist nicht mit euren synchronisiert
 
-320
+318
 00:20:00,600 --> 00:20:02,350
 und verraten werde ich es euch auch nicht.
 
-321
+319
 00:20:02,350 --> 00:20:04,100
 Ach ja?!
 
-322
+320
 00:20:04,100 --> 00:20:06,390
 Soll ich es aus dem
 Miststück rausquetschen?!
 
-323
+321
 00:20:06,390 --> 00:20:08,730
 Beruhige dich, Lilith!
 
-324
+322
 00:20:10,810 --> 00:20:13,820
 Ich bin durch einen Code und
 die Welt selbst geschützt.
 
-325
+323
 00:20:13,820 --> 00:20:16,280
 Oh, habe ich einen Kohldampf.
 
-326
+324
 00:20:17,070 --> 00:20:18,490
 Du dreckige Fressbacke!
 
-327
+325
 00:20:18,860 --> 00:20:21,740
 Schalten wir die Barriere
 nicht ab, können wir nicht fliehen.
 
-328
+326
 00:20:21,740 --> 00:20:25,500
 Hä? Dabei habe ich bereits alles
 für unsere Flucht arrangiert.
 
-329
+327
 00:20:25,500 --> 00:20:27,500
 Mensch, so einfach wird das nicht!
 
-330
+328
 00:20:34,550 --> 00:20:36,630
 Vier Schwerverletzte...
 
-331
+329
 00:20:36,630 --> 00:20:38,760
 Zwei von Vegapunks Satelliten sind tot...
 
-332
+330
 00:20:39,760 --> 00:20:41,890
 Und die Strohhüte sind...
 
-333
+331
 00:20:41,890 --> 00:20:44,350
 Was murmelst du da, Lucci?
 
-334
+332
 00:20:45,600 --> 00:20:47,180
 Ich führe nur Selbstgespräche.
 
-335
+333
 00:20:49,560 --> 00:20:54,320
 Wir sind von allen Seiten umzingelt, Stella.
 
-336
+334
 00:20:54,320 --> 00:20:56,320
 Fräulein Stussy!
 
-337
+335
 00:20:56,320 --> 00:21:00,530
 Sie haben etwa 100 Schiffe verschiedener
 Größen und 30.000 Soldaten.
 
-338
+336
 00:21:01,820 --> 00:21:03,280
 Das ist mal eine heftige Wendung.
 
-339
+337
 00:21:03,280 --> 00:21:05,830
 Willkommen zurück, Fräulein Stussy!
 
-340
+338
 00:21:05,830 --> 00:21:07,910
 Wie wäre es mit einem Kaffee?
 
-341
+339
 00:21:07,910 --> 00:21:09,000
 Gerne doch.
 
-342
+340
 00:21:10,830 --> 00:21:12,460
 Starr mich nicht so an.
 
-343
+341
 00:21:12,460 --> 00:21:15,750
 Du bist also Nami, die Navigatorin, richtig?
 
-344
+342
 00:21:15,750 --> 00:21:17,460
 Jepp, die bin ich!
 
-345
+343
 00:21:17,460 --> 00:21:19,420
 Welchen Kurs verfolgt euer Schiff?
 
-346
+344
 00:21:19,420 --> 00:21:22,180
 Der Log-Port hat das Signal
 noch nicht aufgezeichnet,
 
-347
+345
 00:21:22,180 --> 00:21:24,640
 aber die Nadel, mit der wir
 aus Wano Kuni kamen, ist stabil.
 
-348
+346
 00:21:25,010 --> 00:21:26,930
 Sie zeigt nach Nordosten.
 
-349
+347
 00:21:26,930 --> 00:21:28,850
 Oh, dort liegt Elbaph.
 
-350
+348
 00:21:28,850 --> 00:21:31,060
 – Elbaph?!
 – Elbaph?!
 
-351
+349
 00:21:31,060 --> 00:21:32,230
 Fahren wir dorthin?!
 
-352
+350
 00:21:32,230 --> 00:21:33,560
 Wurde auch Zeit!
 
-353
+351
 00:21:33,560 --> 00:21:34,940
 Ja, sieht ganz so aus.
 
-354
+352
 00:21:34,940 --> 00:21:36,730
 – Dort wollten wir immer hin!
 – Dort wollten wir immer hin!
 
-355
+353
 00:21:38,490 --> 00:21:41,070
 – Das ist die Insel der Riesen!
 – Das ist die Insel der Riesen!
 
-356
+354
 00:21:41,070 --> 00:21:44,410
 – Elbaph! Elbaph! Elbaph!
 – Elbaph! Elbaph! Elbaph!
 
-357
+355
 00:21:44,410 --> 00:21:49,040
 – Dort sind alle gigantisch, weil sie Riesen sind!
 – Dort sind alle gigantisch, weil sie Riesen sind!
 
-358
+356
 00:21:44,410 --> 00:21:47,160
 Warum sind die so aus dem Häuschen?
 
-359
+357
 00:21:50,330 --> 00:21:51,750
 Glücklicherweise...
 
-360
+358
 00:21:52,250 --> 00:21:55,710
 befindet sich euer Schiff
 jetzt in der Labophase.
 
-361
+359
 00:21:56,210 --> 00:21:59,210
 Die Marine-Schiffe sind in alle
 Richtungen vor der Küste verteilt.
 
-362
+360
 00:21:59,210 --> 00:22:01,680
 Vom Hafen aus können
 wir nicht in See stechen!
 
-363
+361
 00:22:02,180 --> 00:22:04,390
 Da wir nach Nordosten müssen,
 
-364
+362
 00:22:04,760 --> 00:22:07,100
 müssten wir von der Rückseite starten.
 
-365
+363
 00:22:07,100 --> 00:22:10,730
 Zum Glück befindet sich
 euer Schiff neben Vegaforce-01.
 
-366
+364
 00:22:11,140 --> 00:22:16,190
 Wir könnten Vegaforce-01 benutzen,
 um über die Blockade der Marine zu fliegen,
 
-367
+365
 00:22:16,190 --> 00:22:20,690
 aber dieser Roboter kann nur innerhalb
 des Luftraums von Egghead fliegen.
 
-368
+366
 00:22:20,690 --> 00:22:24,160
 Sobald er den Luftraum verlässt,
 würde er sofort abstürzen.
 
-369
+367
 00:22:24,160 --> 00:22:26,240
 So kommen wir nicht weit genug weg!
 
-370
+368
 00:22:26,240 --> 00:22:27,370
 Moment!
 
-371
+369
 00:22:27,370 --> 00:22:32,370
 Von dort aus könnten wir mit dem
 Coup de Burst der Sunny noch weiter wegfliegen!
 
-372
+370
 00:22:32,370 --> 00:22:36,080
 Niemand wird uns einholen, wenn wir
 einen Kilometer zurückgelegt haben.
 
-373
+371
 00:22:36,080 --> 00:22:37,460
 Wie bitte?!
 
-374
+372
 00:22:37,460 --> 00:22:39,800
 Euer Schiff kann so weit fliegen?!
 
-375
+373
 00:22:39,800 --> 00:22:42,050
 Es fliegt mit Cola!
 
-376
+374
 00:22:42,050 --> 00:22:43,550
 Mit Cola?!
 
-377
+375
 00:22:52,600 --> 00:22:54,980
 Sehr gut! So machen wir das!
 
-378
+376
 00:22:54,980 --> 00:22:55,690
 Geht klar!
 
-379
+377
 00:22:56,610 --> 00:22:57,730
 Lilith!
 
-380
+378
 00:22:57,730 --> 00:22:59,730
 Benutze Vegaforce-01, um...
 
-381
+379
 00:22:59,730 --> 00:23:01,230
 Schon kapiert!
 
-382
+380
 00:23:01,230 --> 00:23:04,320
 Ich soll das Schiff vom Strohhut
 auf die Rückseite bringen.
 
-383
+381
 00:23:04,820 --> 00:23:06,200
 Okay!
 
-384
+382
 00:23:06,200 --> 00:23:09,660
 Aber zuerst müssen wir den
 Frontier Dome deaktivieren.
 
-385
+383
 00:23:09,660 --> 00:23:12,160
 Den Code kriegt ihr nicht aus mir heraus!
 
-386
+384
 00:23:19,710 --> 00:23:20,960
 Dann knacken wir ihn!
 
-387
+385
 00:23:20,960 --> 00:23:22,710
 – Unterschätze nie einen Vegapunk!
 – Unterschätze nie einen Vegapunk!
 
-388
+386
 00:23:24,670 --> 00:23:27,050
 Unser Plan wäre damit
 wohl in Stein gemeißelt.
 
-389
+387
 00:23:27,050 --> 00:23:31,140
 Ich glaube nicht, dass alles
 am Schnürchen laufen wird.
 
-390
+388
 00:23:32,640 --> 00:23:36,060
 Trotzdem hilft es uns momentan auch
 nicht, wenn wir Däumchen drehen.
 
-391
+389
 00:23:36,060 --> 00:23:37,060
 Du sagst es.
 
-392
+390
 00:23:37,600 --> 00:23:41,570
 Wenn du zur Sunny gehst,
 begleite ich dich selbstverständlich!
 
-393
+391
 00:23:41,940 --> 00:23:43,070
 Ich komm auch mit!
 
-394
+392
 00:23:43,070 --> 00:23:45,200
 Lasst uns schnell nach Elbaph aufbrechen!
 
-395
+393
 00:23:45,200 --> 00:23:46,530
 Ich geh euch auch zur Hand!
 
-396
+394
 00:23:47,030 --> 00:23:48,990
 Oh! Danke!
 
-397
+395
 00:23:51,200 --> 00:23:52,870
 Dann mal los!
 
-398
+396
 00:23:59,250 --> 00:24:02,630
 Beginnen wir mit der Operation!
 
-399
+397
 00:24:09,680 --> 00:24:11,720
 Bringen wir das Schiff zügig auf die Rückseite!
 
-400
+398
 00:24:11,720 --> 00:24:14,220
 Die Barriere könnte jeden
 Moment deaktiviert werden!
 
-401
+399
 00:24:14,220 --> 00:24:17,310
 Das wäre gut. Hoffentlich entstehen
 nicht noch mehr Probleme!
 
-402
+400
 00:24:17,310 --> 00:24:19,690
 Was sagst du da?
 Willst du sie nicht abschalten?
 
-403
+401
 00:24:19,690 --> 00:24:23,150
 Doch schon, aber sobald wir fliehen können,
 
-404
+402
 00:24:23,150 --> 00:24:26,490
 werden uns auch die Angriffe
 des Feindes erreichen!
 
-405
+403
 00:24:26,490 --> 00:24:28,110
 Ja, da hast du recht!
 
-406
+404
 00:24:28,110 --> 00:24:32,450
 Ihr müsst wissen, dass ich die Insel
 zum ersten Mal verlassen werde.
 
-407
+405
 00:24:32,450 --> 00:24:34,330
 Das wird kein Ausflug!
 
-408
+406
 00:24:35,750 --> 00:24:37,290
 Trotzdem...
 
-409
+407
 00:24:38,750 --> 00:24:41,000
 Wir brauchen deutlich mehr Futter!
 
-410
+408
 00:24:41,000 --> 00:24:42,090
 Seh ich auch so!
 
-411
+409
 00:24:42,500 --> 00:24:44,840
 Das hier würden wir an einem Tag wegfuttern!
 
-412
+410
 00:24:44,840 --> 00:24:46,300
 Lasst uns mehr Pizza holen!
 
-413
+411
 00:24:46,300 --> 00:24:48,300
 Käse reicht aus.
 
-414
+412
 00:24:48,300 --> 00:24:50,930
 Wenn wir die Zutaten haben,
 macht uns Sanji Pizza.
 
-415
+413
 00:24:52,760 --> 00:24:54,310
 Der Kerl gefällt mir!
 
-416
+414
 00:24:54,310 --> 00:24:56,140
 Er ist ein guter Koch und Kämpfer!
 
-417
+415
 00:24:57,390 --> 00:24:58,730
 Was ist mit dir los?
 
-418
+416
 00:24:58,730 --> 00:25:01,350
 Unheimlich, dass du so gut gelaunt bist!
 
-419
+417
 00:25:01,350 --> 00:25:04,520
 Vorhin hast du den Apfelopa
 noch abgrundtief gehasst.
 
-420
+418
 00:25:09,150 --> 00:25:12,240
 Ja, aber ich will Vegapunk nicht mehr töten.
 
-421
+419
 00:25:14,530 --> 00:25:17,620
 Freut mich zu hören. Du hast
 die ganze Nacht geweint.
 
-422
+420
 00:25:17,620 --> 00:25:19,500
 Hab ich sicher nicht!
 
-423
+421
 00:25:20,870 --> 00:25:22,670
 Rob Lucci hat sich gemeldet!
 
-424
+422
 00:25:23,210 --> 00:25:26,000
 Wir kennen nun die Situation
 im Inneren von Egghead!
 
-425
+423
 00:25:29,260 --> 00:25:31,260
 Sofort allen Schiffen mitteilen!
 
-426
+424
 00:25:31,260 --> 00:25:32,050
 Jawohl!
 
-427
+425
 00:25:38,730 --> 00:25:41,350
 Hast du das gehört, Borsalino?
 
-428
+426
 00:25:42,350 --> 00:25:43,560
 Ja, habe ich.
 
-429
+427
 00:25:44,190 --> 00:25:48,490
 Er hat große Töne gespuckt,
 als hätte er die Kontrolle,
 
-430
+428
 00:25:48,490 --> 00:25:52,570
 aber es scheint, als wären
 sie im Inneren gefangen.
 
-431
+429
 00:25:52,570 --> 00:25:56,620
 Der Frontier Dome ist ein
 Laserabwehrsystem, richtig?
 
-432
+430
 00:25:56,620 --> 00:25:58,870
 Du bist das Licht in Person.
 
-433
+431
 00:25:58,870 --> 00:26:00,120
 Kommst du da rein?
 
-434
+432
 00:26:00,120 --> 00:26:02,620
 Ehrlich gesagt, könnte ich das,
 
-435
+433
 00:26:02,620 --> 00:26:06,840
 aber ein guter Freund von
 mir verteidigt Vegapunk.
 
-436
+434
 00:26:06,840 --> 00:26:08,960
 Spring doch einfach über ihn drüber.
 
-437
+435
 00:26:08,960 --> 00:26:12,680
 Es wäre nicht elegant von mir,
 einen Mann zu demütigen,
 
-438
+436
 00:26:12,680 --> 00:26:14,680
 der sich mir entschlossen in den Weg stellt.
 
-439
+437
 00:26:15,180 --> 00:26:18,390
 Lassen Sie mich wenigstens
 meinen Prinzipien treu bleiben.
 
-440
+438
 00:26:18,850 --> 00:26:20,100
 Außerdem...
 
-441
+439
 00:26:20,390 --> 00:26:22,850
 Würden wir sie angreifen,
 
-442
+440
 00:26:22,850 --> 00:26:26,940
 wird Sentomaru unzähligen
 Seeungeheuer-Waffen
 
-443
+441
 00:26:26,940 --> 00:26:32,570
 und 50 Pacifista befehlen,
 unsere Kriegsschiffe zu versenken.
 
-444
+442
 00:26:32,570 --> 00:26:36,160
 Wir würden sagenhafte Verluste erleiden.
 
-445
+443
 00:26:37,780 --> 00:26:39,620
 Wir dürfen keine Zeit verstreichen lassen.
 
-446
+444
 00:26:40,750 --> 00:26:42,830
 Weißt du, wo sich das Kraftwerk befindet?
 
-447
+445
 00:26:47,090 --> 00:26:50,710
 Rob Lucci ist ein fähiger Mann.
 
-448
+446
 00:26:50,710 --> 00:26:56,260
 Alle nötigen Informationen
 haben wir bereits erhalten.
 
-449
+447
 00:27:06,100 --> 00:27:11,820
 – Auf Gefechtsposition!
 – Auf Gefechtsposition!
 
-450
+448
 00:27:12,190 --> 00:27:15,780
 Anwender der Sechs Formen begeben sich
 an Land, sobald die Schlacht beginnt!
 
-451
+449
 00:27:15,780 --> 00:27:19,490
 Befreit die gefangenen Cipherpol-Agenten!
 
-452
+450
 00:27:20,080 --> 00:27:23,370
 Kanonenfeuer wird gegen die
 Pacifista nicht funktionieren!
 
-453
+451
 00:27:23,370 --> 00:27:26,830
 Zielt damit auf die Seeungeheuer-Waffen!
 
-454
+452
 00:27:36,970 --> 00:27:39,220
 Das macht einen Spaß!
 
-455
+453
 00:27:39,220 --> 00:27:40,930
 Wie auf dem Boden einer Himmelsinsel!
 
-456
+454
 00:27:43,770 --> 00:27:46,770
 Ich kann dich gut verstehen,
 aber die Lage ist ernst!
 
-457
+455
 00:27:48,440 --> 00:27:50,820
 Schaut mal, da ist die Sunny!
 
-458
+456
 00:28:00,490 --> 00:28:02,200
 Nun gut...
 
-459
+457
 00:28:02,200 --> 00:28:04,580
 Yata-Spiegel!
 
-460
+458
 00:28:23,680 --> 00:28:26,020
 Da bist du ja, Onkel!
 
-461
+459
 00:28:26,020 --> 00:28:28,020
 Pacifista!
 
-462
+460
 00:28:43,740 --> 00:28:47,210
 Lass uns kämpfen, Sentomaru!
 
-463
+461
 00:28:49,750 --> 00:28:51,710
 Komm nur her, Onkel!
 
-464
+462
 00:28:52,630 --> 00:28:55,340
 Meine Abwehr...
 
-465
+463
 00:28:56,300 --> 00:28:59,430
 ist die robusteste auf der ganzen Welt!
 
-466
+464
 00:29:09,440 --> 00:29:10,940
 Nanu?
 
-467
+465
 00:29:10,940 --> 00:29:12,150
 Was ist das?!
 
-468
+466
 00:29:12,520 --> 00:29:14,360
 Licht von unten?!
 
-469
+467
 00:29:17,610 --> 00:29:19,320
 Jemand ist hergekommen!
 
-470
+468
 00:29:20,150 --> 00:29:21,610
 Jemand sehr starkes!
 
-471
+469
 00:01:30,110 --> 00:01:33,490
 Windmühlendorf
+
+470
+00:01:30,110 --> 00:01:33,490
+Windmühlendorf
+
+471
+00:02:50,980 --> 00:02:52,940
+East Blue
 
 472
-00:01:30,110 --> 00:01:33,490
-Windmühlendorf
+00:02:50,980 --> 00:02:52,940
+East Blue
 
 473
-00:02:50,980 --> 00:02:52,940
-East Blue
+00:03:00,330 --> 00:03:02,830
+South Blue
 
 474
-00:02:50,980 --> 00:02:52,940
-East Blue
+00:03:00,330 --> 00:03:02,830
+South Blue
 
 475
-00:03:00,330 --> 00:03:02,830
-South Blue
+00:03:05,750 --> 00:03:07,750
+West Blue
 
 476
-00:03:00,330 --> 00:03:02,830
-South Blue
+00:03:05,750 --> 00:03:07,750
+West Blue
 
 477
-00:03:05,750 --> 00:03:07,750
-West Blue
+00:03:11,170 --> 00:03:13,260
+North Blue
 
 478
-00:03:05,750 --> 00:03:07,750
-West Blue
+00:03:11,170 --> 00:03:13,260
+North Blue
 
 479
-00:03:11,170 --> 00:03:13,260
-North Blue
-
-480
-00:03:11,170 --> 00:03:13,260
-North Blue
-
-481
 00:03:16,510 --> 00:03:25,600
 m -714 -574 l 744 -574 744 540 -714 540
 
-482
+480
 00:03:16,510 --> 00:03:25,600
 Das Erdbeben an diesem Tag war
 so stark wie noch nie zuvor.
 
+481
+00:03:26,600 --> 00:03:28,560
+Grand Line
 
-Es verursachte weltweit
-weitreichende Schäden.
+482
+00:03:26,600 --> 00:03:28,560
+Grand Line
 
 483
-00:03:26,600 --> 00:03:28,560
-Grand Line
+00:08:04,340 --> 00:08:08,260
+Auf einem Kriegsschiff
 
 484
-00:03:26,600 --> 00:03:28,560
-Grand Line
+00:08:04,340 --> 00:08:08,260
+Auf einem Kriegsschiff
 
 485
-00:08:04,340 --> 00:08:08,260
-Auf einem Kriegsschiff
+00:10:18,260 --> 00:10:20,600
+Mary Geoise
+Heiliges Land
 
 486
-00:08:04,340 --> 00:08:08,260
-Auf einem Kriegsschiff
+00:10:18,260 --> 00:10:20,600
+Mary Geoise
+Heiliges Land
 
 487
-00:10:18,260 --> 00:10:20,600
-Mary Geoise
-Heiliges Land
+00:10:50,750 --> 00:10:55,890
+Raum der Autoritäten
 
 488
-00:10:18,260 --> 00:10:20,600
-Mary Geoise
-Heiliges Land
+00:10:50,750 --> 00:10:55,890
+Raum der Autoritäten
 
 489
-00:10:50,750 --> 00:10:55,890
-Raum der Autoritäten
+00:14:15,920 --> 00:14:18,460
+Weltwirtschaftszeitung
 
 490
-00:10:50,750 --> 00:10:55,890
-Raum der Autoritäten
+00:14:15,920 --> 00:14:18,460
+Weltwirtschaftszeitung
 
 491
-00:14:15,920 --> 00:14:18,460
-Weltwirtschaftszeitung
+00:17:07,920 --> 00:17:13,600
+Im Untergrund, Labophase
 
 492
-00:14:15,920 --> 00:14:18,460
-Weltwirtschaftszeitung
+00:17:07,920 --> 00:17:13,600
+Im Untergrund, Labophase
 
 493
-00:17:07,920 --> 00:17:13,600
-Im Untergrund, Labophase
-
-494
-00:17:07,920 --> 00:17:13,600
-Im Untergrund, Labophase
-
-495
 00:22:16,190 --> 00:22:24,160
 m -366 -243 l 376 -243 376 -88 -366 -88
 
-496
+494
 00:22:16,190 --> 00:22:24,160
 Flugfähiger Luftraum
+

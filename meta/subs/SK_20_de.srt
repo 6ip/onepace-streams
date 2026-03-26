@@ -1,1206 +1,1193 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:50,050 --> 00:02:00,040
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:52,380 --> 00:01:54,340
 E-Eine Schlange!
 
-4
+2
 00:01:54,720 --> 00:01:55,800
 Ist das...?
 
-5
+3
 00:01:56,180 --> 00:01:58,430
 Hey, Kalgara! Sieh nur!
 
-6
+4
 00:02:00,060 --> 00:02:01,290
 Was für eine Überraschung!
 
-7
+5
 00:02:01,290 --> 00:02:04,020
 Diese Schlange hatte also sogar ein Enkelkind.
 
-8
+6
 00:02:04,650 --> 00:02:06,440
 Diese Schlange?
 
-9
+7
 00:02:08,520 --> 00:02:09,610
 Eine Schlange, hm?
 
-10
+8
 00:02:13,860 --> 00:02:16,950
 Aus denen soll einer schlau werden.
 
-11
+9
 00:02:16,950 --> 00:02:20,040
 Vor ’ner Weile wollten die einander noch umbringen.
 
-12
+10
 00:02:20,040 --> 00:02:22,540
 Und jetzt sind sie die dicksten Freunde.
 
-13
+11
 00:02:22,540 --> 00:02:26,250
 Kalgara steht keinem der Dorfbewohner besonders nahe.
 
-14
+12
 00:02:27,250 --> 00:02:29,750
 Ich sehe ihn zum ersten Mal so lachen.
 
-15
+13
 00:02:31,960 --> 00:02:33,970
 Folg mir einfach.
 
-16
+14
 00:02:35,130 --> 00:02:36,970
 Da werden wir runtergehen.
 
-17
+15
 00:02:36,970 --> 00:02:38,470
 Runter?
 
-18
+16
 00:02:49,690 --> 00:02:51,530
 Dieses Glockenläuten...
 
-19
+17
 00:02:52,530 --> 00:02:55,780
 Hey, Kalgara. Woher kommt dieses wunderschöne Glockenläuten?
 
-20
+18
 00:02:55,780 --> 00:02:58,740
 Folg mir einfach,
 dann wirst du es sehen.
 
-21
+19
 00:03:36,450 --> 00:03:38,030
 Da sind sie!
 
-22
+20
 00:03:38,030 --> 00:03:40,030
 Hat es euch die Sprache verschlagen?
 
-23
+21
 00:03:40,030 --> 00:03:42,030
 Das ist Shandora, die Goldene Stadt.
 
-24
+22
 00:03:42,030 --> 00:03:44,910
 Und wir sind ihre Überlebenden!
 
-25
+23
 00:03:45,370 --> 00:03:47,370
 Eine Stadt aus Gold...
 
-26
+24
 00:03:47,920 --> 00:03:50,880
 Das ist wie ein Traum!
 
-27
+25
 00:03:51,290 --> 00:03:52,900
 W-Wow!
 
-28
+26
 00:03:52,900 --> 00:03:54,510
 Gold, so weit das Auge reicht!
 
-29
+27
 00:03:54,510 --> 00:03:58,180
 Die Stadt ist ein Schatz!
 
-30
+28
 00:03:58,180 --> 00:04:01,220
 H-Hey, bleibt ruhig, Leute.
 
-31
+29
 00:04:01,890 --> 00:04:03,220
 Lass sie ruhig.
 
-32
+30
 00:04:03,220 --> 00:04:06,000
 Beladet euer Schiff frei mit Schätzen.
 
-33
+31
 00:04:06,000 --> 00:04:08,100
 Nur die Glocke rührt ihr nicht an.
 
-34
+32
 00:04:10,020 --> 00:04:12,650
 Die Dorfbewohner sind einverstanden.
 
-35
+33
 00:04:12,650 --> 00:04:16,860
 Wir stehen für die Rettung vor der Krankheit in eurer Schuld.
 
-36
+34
 00:04:17,320 --> 00:04:18,610
 Das ist das Mindeste.
 
-37
+35
 00:04:19,360 --> 00:04:21,240
 Du bist so großzügig, großer Krieger!
 
-38
+36
 00:04:21,240 --> 00:04:26,200
 Aber habt ihr diese Stadt nicht all die Jahre beschützt?
 
-39
+37
 00:04:26,200 --> 00:04:27,580
 Stimmt,
 
-40
+38
 00:04:27,580 --> 00:04:29,910
 die Stadt haben wir beschützt.
 
-41
+39
 00:04:29,910 --> 00:04:31,460
 Aber...
 
-42
+40
 00:04:31,460 --> 00:04:35,210
 nicht unbedingt den Schatz.
 
-43
+41
 00:04:35,670 --> 00:04:38,090
 Genauer gesagt...
 
-44
+42
 00:04:45,520 --> 00:04:47,520
 nur diesen Stein.
 
-45
+43
 00:04:49,230 --> 00:04:51,900
 Was ist das?
 
-46
+44
 00:04:51,900 --> 00:04:53,310
 Schriftzeichen?
 
-47
+45
 00:04:53,310 --> 00:04:54,940
 Da steht die Geschichte geschrieben.
 
-48
+46
 00:04:54,940 --> 00:04:57,690
 Es nennt sich „Poneglyph“.
 
-49
+47
 00:04:57,690 --> 00:05:00,070
 Auch wir können es nicht lesen.
 
-50
+48
 00:05:00,070 --> 00:05:04,240
 Es wurde also nicht von deinen Vorfahren niedergeschrieben?
 
-51
+49
 00:05:04,740 --> 00:05:06,870
 Wir wissen lediglich,
 dass diese Stadt, Shandora,
 
-52
+50
 00:05:06,870 --> 00:05:12,830
 im Kampf um den Schutz dieses Steins zugrunde gegangen ist.
 
-53
+51
 00:05:13,170 --> 00:05:17,420
 Um diese Entschlossenheit zu ehren, müssen wir sie weiter beschützen.
 
-54
+52
 00:05:17,420 --> 00:05:18,970
 Als Nachfahren müssen wir
 
-55
+53
 00:05:18,970 --> 00:05:23,340
 ihn als Beweis des Kampfes unserer Vorfahren erhalten.
 
-56
+54
 00:05:23,800 --> 00:05:27,810
 Wir verehren unsere Ahnen wie Götter.
 
-57
+55
 00:05:27,810 --> 00:05:31,390
 Ich hätte echt nicht erwartet,
 
-58
+56
 00:05:31,390 --> 00:05:33,860
 dass es hier so eine riesige Goldglocke gibt.
 
-59
+57
 00:05:35,770 --> 00:05:38,690
 Im Läuten dieser Glocke stecken Worte.
 
-60
+58
 00:05:38,690 --> 00:05:40,110
 Worte?
 
-61
+59
 00:05:40,110 --> 00:05:44,030
 Damit die Seelen unserer Vorfahren, die in den Himmel aufgestiegen sind,
 
-62
+60
 00:05:44,030 --> 00:05:49,120
 jederzeit den Weg hierher zurückfinden,
 
-63
+61
 00:05:49,120 --> 00:05:52,670
 läuten wir diese Glocke, um ihnen mitzuteilen:
 
-64
+62
 00:05:52,670 --> 00:05:56,090
 „Wir sind hier!“
 
-65
+63
 00:05:57,210 --> 00:06:02,510
 Der Klang zeugt unzweifelhaft vom ehemaligen Glanz Shandoras
 
-66
+64
 00:06:02,510 --> 00:06:06,100
 und trägt die Existenz der Stadt bis ans Ende des Meeres hinaus.
 
-67
+65
 00:06:06,100 --> 00:06:09,220
 Wir werden nie davonlaufen oder uns verstecken.
 
-68
+66
 00:06:10,100 --> 00:06:14,940
 Deshalb nennen wir die Glocke „Leuchtfeuer von Shandora“.
 
-69
+67
 00:06:15,480 --> 00:06:18,980
 Das erklärt den erhabenen Klang.
 
-70
+68
 00:06:18,980 --> 00:06:20,360
 Meinst du?
 
-71
+69
 00:06:20,360 --> 00:06:21,440
 Allerdings.
 
-72
+70
 00:06:22,030 --> 00:06:26,660
 Durch dieses Leuchtfeuer haben wir hierher gefunden.
 
-73
+71
 00:06:28,490 --> 00:06:31,270
 Obwohl das in dem Sturm gar nicht möglich sein sollte,
 
-74
+72
 00:06:31,980 --> 00:06:35,120
 habe ich dieses Glockenläuten gehört.
 
-75
+73
 00:06:39,710 --> 00:06:43,340
 Dir gefällt der Klang also auch?
 
-76
+74
 00:06:43,340 --> 00:06:47,890
 Ob du auch mal so eine große Schlange wirst?
 
-77
+75
 00:06:52,810 --> 00:06:55,730
 Das wird noch so hundert Jahre dauern!
 
-78
+76
 00:06:58,270 --> 00:07:01,480
 Noland, du kannst so
 lange bleiben, wie du magst.
 
-79
+77
 00:07:01,980 --> 00:07:07,620
 Ihr seid die ersten Gäste auf dieser
 Insel seit dem Fall Shandoras vor 400 Jahren.
 
-80
+78
 00:07:07,620 --> 00:07:09,700
 Also will ich euch gebührend behandeln.
 
-81
+79
 00:07:11,330 --> 00:07:13,080
 Da bin ich dir sehr verbunden!
 
-82
+80
 00:07:13,080 --> 00:07:15,830
 Ich würde gern Pflanzen im Wald sammeln
 
-83
+81
 00:07:15,830 --> 00:07:18,920
 und außerdem hierbleiben,
 bis die Krankheit ganz geheilt ist.
 
-84
+82
 00:07:18,920 --> 00:07:22,050
 Admiral! Admiral!
 
-85
+83
 00:07:22,050 --> 00:07:24,050
 Hey, was soll denn der Aufzug?
 
-86
+84
 00:07:24,050 --> 00:07:26,090
 Sehen Sie nur! Ein Eternal Port!
 
-87
+85
 00:07:26,090 --> 00:07:27,840
 Und auch eine Karte, Admiral! Eine Karte!
 
-88
+86
 00:07:28,890 --> 00:07:32,060
 Die haben wir Eindringlingen abgenommen.
 
-89
+87
 00:07:32,600 --> 00:07:33,850
 Ja,
 
-90
+88
 00:07:33,850 --> 00:07:36,810
 bei der Totenkopfform muss das diese Insel sein.
 
-91
+89
 00:07:36,810 --> 00:07:41,570
 „Shandora“ bedeutet
 „rechtes Auge des Totenkopfs“,
 
-92
+90
 00:07:41,570 --> 00:07:45,490
 da dort die Stadt liegt.
 
-93
+91
 00:07:47,200 --> 00:07:51,580
 Dann passt gut auf und ruht euch weiterhin aus.
 
-94
+92
 00:07:51,580 --> 00:07:53,910
 Vielen Dank, Herr Doktor!
 
-95
+93
 00:07:56,460 --> 00:07:58,290
 Hey, kommt mal her, Leute!
 
-96
+94
 00:07:58,290 --> 00:08:01,540
 Noland will uns interessante Feldfrüchte geben.
 
-97
+95
 00:08:01,540 --> 00:08:03,830
 Ich habe ein Gewächshaus auf dem Schiff.
 
-98
+96
 00:08:03,830 --> 00:08:06,590
 Mit Exemplaren der verschiedensten Pflanzen.
 
-99
+97
 00:08:06,590 --> 00:08:09,840
 Ich gebe euch Samen und Knospen, die für euer Land geeignet sind.
 
-100
+98
 00:08:09,840 --> 00:08:11,850
 So was schmeckt?
 
-101
+99
 00:08:11,850 --> 00:08:14,810
 Und wie! Ist auch sehr nahrhaft!
 
-102
+100
 00:09:15,450 --> 00:09:18,910
 Okay, dann lasst uns heute wieder hart arbeiten!
 
-103
+101
 00:09:19,290 --> 00:09:21,330
 Hart arbeiten?
 
-104
+102
 00:09:21,330 --> 00:09:22,960
 Mit ’nem Krug vorm Lagerfeuer?
 
-105
+103
 00:09:31,300 --> 00:09:32,640
 Wieso?!
 
-106
+104
 00:09:32,640 --> 00:09:35,350
 Wieso tun der Doktor und die anderen so was?!
 
-107
+105
 00:09:40,060 --> 00:09:41,600
 Häuptling!
 
-108
+106
 00:09:41,600 --> 00:09:43,020
 Noland und die anderen sind da!
 
-109
+107
 00:09:43,900 --> 00:09:47,650
 Erwähnt ja nicht die letzte Nacht, hört ihr?
 
-110
+108
 00:09:47,650 --> 00:09:50,740
 Sie wollen in wenigen Tagen in See stechen.
 
-111
+109
 00:09:51,110 --> 00:09:55,030
 Überstürzt also ja nichts!
 
-112
+110
 00:09:55,410 --> 00:09:59,290
 Wir können einander also doch nicht verstehen...
 
-113
+111
 00:09:59,700 --> 00:10:04,380
 Wie toll die Medizin auch sein mag,
 er bleibt ein Gottestöter.
 
-114
+112
 00:10:04,380 --> 00:10:08,800
 Sind die so toll, dass sie unsere Geschichte mit Füßen treten dürfen?!
 
-115
+113
 00:10:09,590 --> 00:10:14,180
 Unterdrückt eure Gefühle und geduldet euch bis zu ihrer Abreise.
 
-116
+114
 00:10:14,180 --> 00:10:15,510
 Da sind sie!
 
-117
+115
 00:10:18,470 --> 00:10:19,970
 Hey, Leute!
 
-118
+116
 00:10:19,970 --> 00:10:21,430
 Ist Kalgara da?
 
-119
+117
 00:10:30,320 --> 00:10:33,410
 Was ist los? Wieso sind die alle plötzlich so abweisend?
 
-120
+118
 00:10:33,410 --> 00:10:34,490
 Wo ist Kalgara?
 
-121
+119
 00:10:34,490 --> 00:10:37,870
 Ihr seid und bleibt Außenseiter.
 
-122
+120
 00:10:37,870 --> 00:10:41,370
 Kalgara will euch nicht mehr sehen.
 
-123
+121
 00:10:41,370 --> 00:10:42,290
 Seto!
 
-124
+122
 00:10:45,120 --> 00:10:48,420
 Wann haut ihr endlich ab?
 
-125
+123
 00:10:50,710 --> 00:10:55,220
 Sie scheinen uns auf einmal zu hassen.
 
-126
+124
 00:10:55,220 --> 00:10:58,040
 Jetzt wartet doch mal!
 
-127
+125
 00:10:58,040 --> 00:10:59,470
 Was soll das denn auf einmal?!
 
-128
+126
 00:10:59,470 --> 00:11:00,470
 Lass gut sein.
 
-129
+127
 00:11:02,680 --> 00:11:05,640
 Lasst uns weiterarbeiten.
 
-130
+128
 00:11:06,350 --> 00:11:09,060
 In einigen Waldteilen waren wir noch nicht.
 
-131
+129
 00:11:12,110 --> 00:11:14,150
 Da bist du ja, Kalgara!
 
-132
+130
 00:11:14,150 --> 00:11:15,860
 Noland hat dich gesucht!
 
-133
+131
 00:11:15,860 --> 00:11:19,410
 Ja, aber ich will ihn nicht mehr sehen.
 
-134
+132
 00:11:19,990 --> 00:11:24,500
 Sonst töte ich ihn womöglich noch!
 
-135
+133
 00:11:30,880 --> 00:11:33,380
 Gar kein Glockenläuten heute...
 
-136
+134
 00:11:33,380 --> 00:11:34,260
 Ja,
 
-137
+135
 00:11:34,260 --> 00:11:38,220
 zum ersten Mal in dem Monat,
 den wir hier sind.
 
-138
+136
 00:11:38,890 --> 00:11:40,300
 Admiral.
 
-139
+137
 00:11:40,300 --> 00:11:43,470
 Übermorgen wird die Untersuchung des Waldes abgeschlossen sein.
 
-140
+138
 00:11:43,470 --> 00:11:44,930
 O-Okay.
 
-141
+139
 00:11:45,560 --> 00:11:50,440
 Sagt den Männern, dass wir in drei Tagen in See stechen.
 
-142
+140
 00:11:50,440 --> 00:11:54,150
 Sie sollen ihre letzten Tage auf festem Grund genießen.
 
-143
+141
 00:11:54,740 --> 00:11:59,110
 Admiral, ehrlich gesagt finde ich’s hier so unangenehm, dass ich sofort...
 
-144
+142
 00:11:59,110 --> 00:12:01,530
 Erst mal erledigen wir unsere Arbeit!
 
-145
+143
 00:12:01,530 --> 00:12:02,530
 Geh schlafen.
 
-146
+144
 00:12:04,910 --> 00:12:07,040
 Lass dich doch hier nieder, Noland!
 
-147
+145
 00:12:07,040 --> 00:12:07,960
 Ich hab’s!
 
-148
+146
 00:12:07,960 --> 00:12:11,040
 Du kannst Mousse heiraten!
 
-149
+147
 00:12:11,040 --> 00:12:12,210
 Mach dich nicht lächerlich.
 
-150
+148
 00:12:12,210 --> 00:12:15,420
 Ich habe zu Hause eine Familie. Auch ein Kind in ihrem Alter.
 
-151
+149
 00:12:15,420 --> 00:12:16,550
 Ich muss zurück.
 
-152
+150
 00:12:16,920 --> 00:12:20,390
 Kalgara will euch nicht mehr sehen.
 
-153
+151
 00:12:21,550 --> 00:12:25,140
 Wann haut ihr endlich ab?
 
-154
+152
 00:12:30,810 --> 00:12:33,070
 Ich weiß, dass du hier bist, Kalgara!
 
-155
+153
 00:12:33,070 --> 00:12:34,570
 Komm raus!
 
-156
+154
 00:12:35,190 --> 00:12:38,200
 Findest du das nicht etwas unfair?!
 
-157
+155
 00:12:38,200 --> 00:12:39,820
 Verrat mir den Grund!
 
-158
+156
 00:12:39,820 --> 00:12:41,780
 Sonst werde ich es nie verstehen!
 
-159
+157
 00:12:42,410 --> 00:12:45,040
 Wir werden bald abreisen!
 
-160
+158
 00:12:45,040 --> 00:12:47,620
 Ich will mich nicht so verabschieden!
 
-161
+159
 00:13:00,760 --> 00:13:04,180
 Tritt mir nicht unter die Augen!
 
-162
+160
 00:13:04,180 --> 00:13:07,470
 Willst du deine Frau zur Witwe machen?!
 
-163
+161
 00:13:11,190 --> 00:13:12,650
 Kalgara!
 
-164
+162
 00:13:16,730 --> 00:13:19,610
 Der Admiral wirkt niedergeschlagen...
 
-165
+163
 00:13:19,610 --> 00:13:20,900
 Ja,
 
-166
+164
 00:13:20,900 --> 00:13:26,120
 nachdem er hier so einen tollen Freund gefunden hatte, kein Wunder.
 
-167
+165
 00:13:27,790 --> 00:13:30,160
 Das macht alles keinen Sinn.
 
-168
+166
 00:13:30,160 --> 00:13:34,170
 Und morgen brechen wir in aller Frühe auf.
 
-169
+167
 00:13:34,170 --> 00:13:37,050
 Aber die Dorfleute sind so aufgebracht und abweisend.
 
-170
+168
 00:13:37,050 --> 00:13:41,130
 Zudem wurde die Glocke auch heute nicht geläutet.
 
-171
+169
 00:13:43,890 --> 00:13:46,930
 Tritt mir nicht unter die Augen!
 
-172
+170
 00:13:46,930 --> 00:13:49,890
 Willst du deine Frau zur Witwe machen?!
 
-173
+171
 00:14:06,160 --> 00:14:11,000
 Echt traurig, so abzureisen.
 
-174
+172
 00:14:11,000 --> 00:14:11,960
 Entschuldigung...
 
-175
+173
 00:14:16,540 --> 00:14:17,630
 Doktor.
 
-176
+174
 00:14:18,170 --> 00:14:19,670
 Mousse?
 
-177
+175
 00:14:19,670 --> 00:14:22,260
 Haben Sie kurz Zeit?
 
-178
+176
 00:14:26,930 --> 00:14:30,220
 Von wegen Botaniker!
 
-179
+177
 00:14:36,150 --> 00:14:37,770
 Noland!
 
-180
+178
 00:14:38,190 --> 00:14:42,150
 Wenn das die Opfer für deinen „Fortschritt“ waren,
 
-181
+179
 00:14:42,150 --> 00:14:46,570
 hätten wir uns nie auf euch einlassen sollen!
 
-182
+180
 00:14:49,910 --> 00:14:51,290
 Ahnenbäume?
 
-183
+181
 00:14:52,120 --> 00:14:53,160
 Genau.
 
-184
+182
 00:14:54,330 --> 00:14:58,630
 Die Seelen unserer Vorfahren,
 die auf dieser Insel gestorben sind,
 
-185
+183
 00:14:58,630 --> 00:15:02,340
 werden vom Glockenläuten hergeführt, um sich in ihnen niederzulassen.
 
-186
+184
 00:15:02,340 --> 00:15:06,720
 Seit der Zeit Shandoras sollen all
 unsere Vorfahren, die hier gelebt haben,
 
-187
+185
 00:15:06,720 --> 00:15:13,680
 aus diesen heiligen, weißen Bäumen
 heraus über uns wachen.
 
-188
+186
 00:15:20,150 --> 00:15:24,030
 Der Ahnenwald ist für uns Shandia so wichtig,
 
-189
+187
 00:15:24,360 --> 00:15:31,870
 dass wir ihn so sehr wie unsere eigenen Leben schützen!
 
-190
+188
 00:15:31,870 --> 00:15:34,870
 Und wir haben ihn abgeholzt...
 
-191
+189
 00:15:36,250 --> 00:15:40,960
 Die Krieger waren so wütend, dass sie sofort zu den Waffen greifen wollten.
 
-192
+190
 00:15:40,960 --> 00:15:43,090
 Wir müssen sie von hier vertreiben!
 
-193
+191
 00:15:43,090 --> 00:15:44,420
 – Genau!
 – Genau!
 
-194
+192
 00:15:46,760 --> 00:15:53,140
 Aber ihr habt so viele von uns gerettet.
 
-195
+193
 00:15:53,140 --> 00:15:55,020
 Ich verstehe.
 
-196
+194
 00:15:56,100 --> 00:15:59,100
 Wegen dieser Wut, die sie nicht ausleben konnten, sahen sie so aus.
 
-197
+195
 00:15:59,980 --> 00:16:02,570
 Selbst wenn es für die Baumforschung war...
 
-198
+196
 00:16:03,320 --> 00:16:04,780
 Selbst wenn ihr es nicht wusstet...
 
-199
+197
 00:16:05,490 --> 00:16:09,110
 Der Zorn der Leute lässt sich nicht beschwichtigen.
 
-200
+198
 00:16:09,110 --> 00:16:12,280
 Deshalb wollte ich euch vor eurer Abreise fragen,
 
-201
+199
 00:16:14,500 --> 00:16:16,710
 warum ihr das getan habt.
 
-202
+200
 00:16:18,830 --> 00:16:20,580
 Hey! Ich brauch Hilfe!
 
-203
+201
 00:16:20,580 --> 00:16:21,960
 Bringt alles an Bord!
 
-204
+202
 00:16:21,960 --> 00:16:24,550
 Bind’s ordentlich fest!
 
-205
+203
 00:16:19,960 --> 00:16:23,170
 Bäume mit den Seelen ihrer Ahnen.
 
-206
+204
 00:16:23,170 --> 00:16:25,340
 Ich hatte ja keine Ahnung.
 
-207
+205
 00:16:25,340 --> 00:16:28,180
 Wir haben etwas Unentschuldbares getan.
 
-208
+206
 00:16:28,550 --> 00:16:31,010
 Ihre Wut ist gerechtfertigt.
 
-209
+207
 00:16:31,010 --> 00:16:33,220
 Aber Admiral, das konnten wir...
 
-210
+208
 00:16:33,220 --> 00:16:35,140
 Ich will keine Ausreden hören!
 
-211
+209
 00:16:35,890 --> 00:16:38,980
 Das habe ich nur für mich selbst getan!
 
-212
+210
 00:16:39,560 --> 00:16:44,940
 Die Glocke soll nicht nur stolz die Existenz der Stadt verkünden,
 
-213
+211
 00:16:44,940 --> 00:16:49,200
 sondern auch die Seelen der Vorfahren zu dieser Insel führen.
 
-214
+212
 00:16:49,820 --> 00:16:54,620
 Und wir haben die Bäume,
 in denen sie hausen, abgeholzt!
 
-215
+213
 00:16:55,120 --> 00:16:57,040
 Das war unverzeihlich!
 
-216
+214
 00:16:57,620 --> 00:17:00,080
 Admiral...
 
-217
+215
 00:17:02,460 --> 00:17:04,420
 Hört zu, Männer!
 
-218
+216
 00:17:04,420 --> 00:17:06,260
 – Was?!
 – Was?!
 
-219
+217
 00:17:06,260 --> 00:17:09,220
 – Wir lassen all das Gold zurück?!
 – Wir lassen all das Gold zurück?!
 
-220
+218
 00:17:10,720 --> 00:17:14,140
 Noland und seine Männer machen sich zur Abreise bereit.
 
-221
+219
 00:17:24,610 --> 00:17:27,230
 Mousse! Wo warst du?
 
-222
+220
 00:17:29,780 --> 00:17:30,740
 Was wäre...
 
-223
+221
 00:17:31,610 --> 00:17:35,200
 Was wäre, wenn ein einziger,
 
-224
+222
 00:17:35,700 --> 00:17:38,160
 wichtiger Baum bereits vom Gift besudelt wäre
 
-225
+223
 00:17:38,910 --> 00:17:42,830
 und sein Gift sich nach und nach im ganzen Wald verbreiten,
 
-226
+224
 00:17:43,330 --> 00:17:46,300
 die Leute befallen und die Insel töten würde?
 
-227
+225
 00:17:46,300 --> 00:17:49,050
 Was, wenn man das vorher wüsste?
 
-228
+226
 00:17:49,050 --> 00:17:50,920
 Was redest du da?
 
-229
+227
 00:17:50,920 --> 00:17:52,380
 Worauf willst du hinaus?
 
-230
+228
 00:17:52,380 --> 00:17:54,050
 Was würden wir
 
-231
+229
 00:17:55,430 --> 00:17:57,760
 mit diesem einzelnen,
 
-232
+230
 00:17:59,560 --> 00:18:01,440
 wichtigen Baum tun?
 
-233
+231
 00:18:03,560 --> 00:18:06,820
 Papa! Du musst gehen und sie aufhalten!
 
-234
+232
 00:18:06,820 --> 00:18:09,690
 Sei nicht töricht! Du weißt, was sie getan haben!
 
-235
+233
 00:18:09,690 --> 00:18:13,030
 Wenn ihr euch so trennt, wirst du das ewig bereuen!
 
-236
+234
 00:18:13,030 --> 00:18:15,990
 Du hast endlich einen so teuren Freund gefunden,
 
-237
+235
 00:18:15,990 --> 00:18:18,450
 der uns Shandia gerettet hat!
 
-238
+236
 00:18:18,450 --> 00:18:20,910
 Doch so werden sie diese Wunde nie vergessen!
 
-239
+237
 00:18:21,410 --> 00:18:23,120
 Was willst du damit sagen?!
 
-240
+238
 00:18:23,750 --> 00:18:25,790
 Das klingt sicher wie eine Ausrede,
 
-241
+239
 00:18:26,380 --> 00:18:30,210
 aber ich muss das um der Ehre des Admirals willen sagen.
 
-242
+240
 00:18:30,210 --> 00:18:33,470
 Eure Bäume waren bereits tot.
 
-243
+241
 00:18:35,090 --> 00:18:37,930
 Was Baumfieber wirklich bedrohlich macht,
 
-244
+242
 00:18:38,560 --> 00:18:42,390
 ist, dass es eine Seuche ist, die auch Pflanzen infiziert.
 
-245
+243
 00:18:43,020 --> 00:18:45,230
 Dessen war sich der Admiral bewusst
 
-246
+244
 00:18:45,230 --> 00:18:48,980
 und hat euch deshalb unter Einsatz seines Lebens überzeugt.
 
-247
+245
 00:18:50,360 --> 00:18:53,150
 Von den Menschen zum Wald, vom Wald zu den Menschen...
 
-248
+246
 00:18:53,150 --> 00:18:58,410
 Auf diese Weise sind etliche kleine Inseln ausgelöscht worden.
 
-249
+247
 00:19:00,410 --> 00:19:02,790
 Aber macht euch keine Sorgen.
 
-250
+248
 00:19:02,790 --> 00:19:06,710
 Wir haben die Kontrolle des gesamten Waldes gestern abgeschlossen.
 
-251
+249
 00:19:06,710 --> 00:19:09,880
 Tut mir leid, dass wir ohne Vorwarnung
 
-252
+250
 00:19:09,880 --> 00:19:11,960
 Bäume gefällt haben, die euch wichtig waren.
 
-253
+251
 00:19:12,460 --> 00:19:16,090
 Ich erwarte nicht, dass ihr uns vergebt.
 
-254
+252
 00:19:16,090 --> 00:19:20,470
 Aber ein Botaniker würde einem Wald nie grundlos Schaden zufügen.
 
-255
+253
 00:19:20,930 --> 00:19:24,690
 Der Admiral hegt keinen Groll gegen Götter und Geister.
 
-256
+254
 00:19:28,900 --> 00:19:31,860
 Doch er weiß stets,
 
-257
+255
 00:19:31,860 --> 00:19:33,610
 was am wichtigsten ist.
 
-258
+256
 00:19:34,820 --> 00:19:38,870
 Sie haben das also unseretwegen getan?
 
-259
+257
 00:19:43,950 --> 00:19:44,960
 Papa!
 
-260
+258
 00:19:47,620 --> 00:19:49,420
 Verzeih mir, Noland!
 
-261
+259
 00:19:50,040 --> 00:19:52,170
 So warte doch!
 
-262
+260
 00:19:53,050 --> 00:19:54,880
 Habt ihr auch nichts vergessen?
 
-263
+261
 00:19:55,760 --> 00:19:57,340
 Doch...
 
-264
+262
 00:19:57,340 --> 00:19:59,340
 Jetzt schmoll nicht und gib’s auf.
 
-265
+263
 00:19:59,850 --> 00:20:01,430
 Gut, dann stechen wir in See!
 
-266
+264
 00:20:01,430 --> 00:20:02,890
 Auf eure Posten!
 
-267
+265
 00:20:02,890 --> 00:20:05,810
 Fahren wir zurück ins Königreich Lvneel!
 
-268
+266
 00:20:08,150 --> 00:20:10,610
 Noland!
 
-269
+267
 00:20:11,310 --> 00:20:13,980
 Ich habe einen schweren Fehler begangen!
 
-270
+268
 00:20:13,980 --> 00:20:17,570
 Warte, Noland!
 
-271
+269
 00:20:19,530 --> 00:20:22,240
 Segel setzen!
 
-272
+270
 00:20:30,210 --> 00:20:31,500
 Wieso...
 
-273
+271
 00:20:32,340 --> 00:20:33,920
 läutet die Glocke?
 
-274
+272
 00:20:34,840 --> 00:20:36,800
 Läutet die Glocke!
 
-275
+273
 00:20:37,130 --> 00:20:39,590
 Es tut mir so leid, Noland!
 
-276
+274
 00:20:39,590 --> 00:20:41,140
 Lauter!
 
-277
+275
 00:20:41,140 --> 00:20:43,140
 Noland und die anderen müssen sie hören!
 
-278
+276
 00:20:46,220 --> 00:20:47,560
 Admiral! Sieh nur!
 
-279
+277
 00:20:57,360 --> 00:21:01,030
 Noland!
 
-280
+278
 00:21:01,450 --> 00:21:03,240
 Kalgara...
 
-281
+279
 00:21:17,840 --> 00:21:20,970
 Besuch uns mal wieder!
 
-282
+280
 00:21:24,050 --> 00:21:25,890
 Noland...
 
-283
+281
 00:21:25,890 --> 00:21:29,350
 Ich werde hier auf dich warten!
 
-284
+282
 00:21:30,520 --> 00:21:33,560
 Ich werde die Glocke immerzu läuten!
 
-285
+283
 00:21:33,980 --> 00:21:38,990
 Damit dein Schiff wieder den Weg herfindet,
 ohne sich auf See zu verirren!
 
-286
+284
 00:21:38,990 --> 00:21:42,990
 Damit du die Insel selbst im Sturm nicht aus den Augen verlierst!
 
-287
+285
 00:21:42,990 --> 00:21:47,330
 Dafür werde ich die Glocke läuten und auf dich warten!
 
-288
+286
 00:21:56,630 --> 00:22:02,760
 Treffen wir uns eines
 Tages wieder, mein Freund!
 
-289
+287
 00:22:05,220 --> 00:22:06,510
 Ich darf
 
-290
+288
 00:22:07,220 --> 00:22:09,720
 hierher zurückkommen?
 
-291
+289
 00:22:12,940 --> 00:22:15,520
 Das werde ich!
 
-292
+290
 00:22:15,520 --> 00:22:17,070
 Ich schwöre, das werde ich!
 
-293
+291
 00:22:20,860 --> 00:22:25,660
 Eines Tages werden wir uns wiedersehen!
+
+292
+00:09:25,960 --> 00:09:30,420
+Einen Monat später
+
+293
+00:09:25,960 --> 00:09:30,420
+Einen Monat später
 
 294
 00:09:25,960 --> 00:09:30,420
 Einen Monat später
 
-295
-00:09:25,960 --> 00:09:30,420
-Einen Monat später
-
-296
-00:09:25,960 --> 00:09:30,420
-Einen Monat später

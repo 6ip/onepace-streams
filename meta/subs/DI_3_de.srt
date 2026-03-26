@@ -1,1790 +1,1777 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,920
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht.
-Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden.
-Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv:
-https://mpv.io
-
-3
 00:01:59,770 --> 00:02:02,600
 Verdammte Hasen!
 Ich glaub’s ja nicht...
 
-4
+2
 00:02:02,600 --> 00:02:04,980
 Hey, Sanji, was ist denn?
 
-5
+3
 00:02:04,980 --> 00:02:06,980
 Was machen die da?
 
-6
+4
 00:02:06,980 --> 00:02:09,070
 Hey! Wir müssen abhauen, Luffy!
 
-7
+5
 00:02:09,070 --> 00:02:11,530
 Abhauen? Wohin denn?
 
-8
+6
 00:02:14,490 --> 00:02:17,280
 Irgendwohin!
 Hauptsache weit weg!
 
-9
+7
 00:02:17,950 --> 00:02:19,450
 Was?!
 
-10
+8
 00:02:19,450 --> 00:02:22,830
 Eine Lawine!
 Eine Lawine ist im Anmarsch!
 
-11
+9
 00:02:28,590 --> 00:02:32,260
 Wapol! Wapol ist zurück!
 
-12
+10
 00:02:32,260 --> 00:02:33,260
 Was?!
 
-13
+11
 00:02:33,880 --> 00:02:36,510
 Dalton ist Richtung Big Horn gegangen!
 
-14
+12
 00:02:36,510 --> 00:02:39,510
 Wer kämpfen kann, soll sich eine
 Waffe schnappen und nach Big Horn!
 
-15
+13
 00:02:39,850 --> 00:02:42,310
 Schnell! Alle, die kämpfen
 können, nach Big Horn!
 
-16
+14
 00:02:43,020 --> 00:02:44,350
 Folgt Dalton!
 
-17
+15
 00:02:44,850 --> 00:02:46,230
 Folgt Dalton!
 
-18
+16
 00:02:46,230 --> 00:02:47,860
 Wapol ist zurück!
 
-19
+17
 00:02:47,860 --> 00:02:51,440
 Leute, erhebt eure Waffen!
 Zum Schutz unseres Landes!
 
-20
+18
 00:02:51,440 --> 00:02:53,820
 Schnappt euch eine Waffe!
 Auf nach Big Horn!
 
-21
+19
 00:02:53,820 --> 00:02:56,280
 Ja!
 
-22
+20
 00:02:59,280 --> 00:03:03,750
 Hey, Vivi, fahren wir echt richtig?
 Richtung Gyasta, wo die Hexe ist.
 
-23
+21
 00:03:03,750 --> 00:03:07,250
 Jetzt wo du fragst,
 werde ich unsicher...
 
-24
+22
 00:03:07,250 --> 00:03:09,460
 Das ist aber gar nicht gut...
 
-25
+23
 00:03:09,460 --> 00:03:14,010
 Hör mal, wenn Luffy und Sanji
 beim doktorlosen Schloss ankommen,
 
-26
+24
 00:03:14,010 --> 00:03:16,930
 denken die sich sicher:
 „Was treiben wir hier?“
 
-27
+25
 00:03:16,930 --> 00:03:20,720
 Deshalb müssen wir die Doktorin finden
 und zum Schloss zurückschicken.
 
-28
+26
 00:03:20,720 --> 00:03:22,640
 Das ist mir ja klar.
 
-29
+27
 00:03:22,640 --> 00:03:26,140
 Dann bieg das irgendwie gerade,
 du bist doch eine Prinzessin.
 
-30
+28
 00:03:26,140 --> 00:03:30,900
 Hat doch damit nichts zu tun!
 Ich bin eine Prinzessin, keine Hexe.
 
-31
+29
 00:03:30,900 --> 00:03:31,900
 Aber...
 
-32
+30
 00:03:31,900 --> 00:03:34,110
 Dann schau halt selbst auf die Karte.
 
-33
+31
 00:03:34,110 --> 00:03:35,990
 J-Jetzt mal halblang.
 
-34
+32
 00:03:35,990 --> 00:03:38,570
 Hier ist alles zugeschneit,
 da hilft eine Karte nicht...
 
-35
+33
 00:03:38,570 --> 00:03:43,040
 Wie auch immer, auf dem Weg sollte
 ein Wegweiser Richtung Gyasta sein.
 
-36
+34
 00:03:43,040 --> 00:03:44,500
 Bloß nicht verpassen.
 
-37
+35
 00:03:44,500 --> 00:03:48,830
 Geht klar, ich behalt
 die Wegweiser im Auge!
 
-38
+36
 00:03:48,830 --> 00:03:50,000
 Jetzt ignorierst du mich?
 
-39
+37
 00:04:01,720 --> 00:04:03,640
 Delicious!
 
-40
+38
 00:04:04,060 --> 00:04:06,060
 Hört zu, meine Bürger!
 
-41
+39
 00:04:06,060 --> 00:04:10,520
 Alles in diesem Land
 ist ein Snack für mich!
 
-42
+40
 00:04:10,520 --> 00:04:14,110
 Ich bin der Größte!
 Und wieso, fragt ihr?
 
-43
+41
 00:04:14,110 --> 00:04:16,280
 Kuromarimo, verrat’s ihnen.
 
-44
+42
 00:04:17,070 --> 00:04:21,200
 Weil Ihr der König seid.
 
-45
+43
 00:04:21,200 --> 00:04:24,040
 That’s right! Ganz genau!
 
-46
+44
 00:04:24,040 --> 00:04:26,790
 Und Häuser schmecken halt
 goldbraun gebacken am besten!
 
-47
+45
 00:04:26,790 --> 00:04:28,330
 Ja!
 
-48
+46
 00:04:28,330 --> 00:04:30,750
 König Wapol, ich habe
 eine wichtige Mitteilung.
 
-49
+47
 00:04:30,750 --> 00:04:31,460
 Die wäre?
 
-50
+48
 00:04:31,460 --> 00:04:38,420
 Mir wurde zugetragen, dass einige der Strohhüte
 Richtung Schloss Drum unterwegs seien.
 
-51
+49
 00:04:38,420 --> 00:04:40,680
 Was? Warum?
 
-52
+50
 00:04:41,090 --> 00:04:44,510
 Sie wollen ein krankes Mädchen
 zu einem Arzt bringen.
 
-53
+51
 00:04:44,510 --> 00:04:46,100
 Narren!
 
-54
+52
 00:04:46,100 --> 00:04:49,810
 Wieso sollte in meinem Schloss
 ein Arzt sein? Dort lebt niemand!
 
-55
+53
 00:04:50,940 --> 00:04:56,610
 W-Was uns zur nächsten 
 Ungeheuerlichkeit bringt.
 
-56
+54
 00:04:56,610 --> 00:04:59,240
 Diese Ärztin, Dr. Kureha, 
 soll derzeit im Schloss leben.
 
-57
+55
 00:05:00,990 --> 00:05:06,290
 Was?! Die alte Vettel
 besetzt mein Schloss?!
 
-58
+56
 00:05:06,290 --> 00:05:08,450
 Wie sehr will sie mich
 zum Narren halten?!
 
-59
+57
 00:05:08,450 --> 00:05:09,580
 Schmeißt sie raus!
 
-60
+58
 00:05:10,330 --> 00:05:13,750
 Ich werde sie zusammen mit
 dem Strohhut verspeisen!
 
-61
+59
 00:05:13,750 --> 00:05:16,420
 Männer, zurück zum Schloss!
 
-62
+60
 00:05:16,420 --> 00:05:19,010
 Jawoll!
 
-63
+61
 00:05:19,010 --> 00:05:20,010
 Keinen Schritt weiter.
 
-64
+62
 00:05:23,640 --> 00:05:24,760
 Wer ist das?
 
-65
+63
 00:05:26,720 --> 00:05:29,680
 Ah! Man hat mich
 geschnitten! Ich sterbe!
 
-66
+64
 00:05:30,310 --> 00:05:31,440
 Dalton!
 
-67
+65
 00:05:31,440 --> 00:05:35,770
 Ich bin hier, um dich zu töten.
 Darfst also gerne sterben.
 
-68
+66
 00:05:35,770 --> 00:05:37,530
 Verflucht seist du, Dalton!
 
-69
+67
 00:05:37,530 --> 00:05:40,030
 Du lebst also.
 
-70
+68
 00:05:40,030 --> 00:05:41,490
 Du wagst es, König Wapol anzugreifen?
 
-71
+69
 00:05:41,780 --> 00:05:43,530
 Wieso die Aufregung?
 
-72
+70
 00:05:43,530 --> 00:05:49,500
 Das ist doch Drum, das „Große Land der
 Medizin“ mit all seinen exzellenten Ärzten.
 
-73
+71
 00:05:49,500 --> 00:05:51,000
 Ganz recht!
 
-74
+72
 00:05:51,000 --> 00:05:54,460
 Isshi-20, Einheit für äußere
 Verletzungen, hervortreten!
 
-75
+73
 00:05:54,460 --> 00:05:56,630
 Starten wir die OP!
 
-76
+74
 00:05:55,540 --> 00:05:57,500
 Starten wir die OP!
 
-77
+75
 00:05:56,630 --> 00:05:58,500
 Starten wir die OP!
 
-78
+76
 00:05:57,500 --> 00:05:59,510
 Starten wir die OP!
 
-79
+77
 00:05:58,500 --> 00:06:00,590
 Starten wir die OP!
 
-80
+78
 00:05:59,510 --> 00:06:01,420
 Starten wir die OP!
 
-81
+79
 00:06:00,590 --> 00:06:01,420
 Starten wir die OP!
 
-82
+80
 00:06:01,420 --> 00:06:02,220
 Skalpell.
 
-83
+81
 00:06:02,220 --> 00:06:02,800
 Nadel.
 
-84
+82
 00:06:02,800 --> 00:06:03,760
 Blech.
 
-85
+83
 00:06:03,760 --> 00:06:04,680
 Hammer.
 
-86
+84
 00:06:05,180 --> 00:06:07,970
 Hach, ich dachte echt, ich sterbe!
 
-87
+85
 00:06:08,970 --> 00:06:11,230
 Und so wirst nur du geschützt,
 
-88
+86
 00:06:11,230 --> 00:06:14,230
 während die Dorfbewohner
 ohne einen Arzt
 
-89
+87
 00:06:14,230 --> 00:06:17,940
 keine Wahl haben, als unter
 ihren Krankheiten zu leiden, Wapol!
 
-90
+88
 00:06:17,940 --> 00:06:22,780
 Wapol? König Wapol für dich,
 mein Untertan Dalton.
 
-91
+89
 00:06:22,780 --> 00:06:26,410
 Genau! Du hast kein Recht zu reden!
 
-92
+90
 00:06:26,410 --> 00:06:30,410
 Wir drei, dich eingeschlossen,
 sind König Wapols Elite.
 
-93
+91
 00:06:30,410 --> 00:06:32,870
 Du warst doch auch
 sein loyaler Diener.
 
-94
+92
 00:06:34,210 --> 00:06:37,040
 Ja, als ihr den Bürgern
 so viel Leid zugefügt habt,
 
-95
+93
 00:06:37,040 --> 00:06:41,340
 habe ich bloß tatenlos zugesehen,
 obwohl ich an eurer Seite war.
 
-96
+94
 00:06:41,340 --> 00:06:44,090
 Dafür muss ich
 Verantwortung übernehmen.
 
-97
+95
 00:06:44,090 --> 00:06:47,470
 Wapol, lass uns dieses
 Land gemeinsam verlassen.
 
-98
+96
 00:06:47,470 --> 00:06:50,260
 Wir dürfen hier nicht länger bleiben.
 
-99
+97
 00:06:50,260 --> 00:06:53,520
 Dalton! Das ist nicht deine Schuld!
 
-100
+98
 00:06:53,520 --> 00:06:54,520
 Genau!
 
-101
+99
 00:06:54,520 --> 00:07:00,020
 Du hast doch als Einziger der
 Regierung für uns Bürger gekämpft!
 
-102
+100
 00:07:00,020 --> 00:07:01,280
 Und bist fast dabei gestorben!
 
-103
+101
 00:07:01,280 --> 00:07:06,740
 Pah, wäre er mal gestorben, als Hauptmann
 der Verteidigungskräfte des Königreichs Drum.
 
-104
+102
 00:07:06,740 --> 00:07:10,200
 Beachtlich, dass du in einem Land
 ohne Ärzte überlebt hast.
 
-105
+103
 00:07:10,200 --> 00:07:14,330
 Drum gilt weltweit als medizinisch
 fortschrittliches Land.
 
-106
+104
 00:07:14,330 --> 00:07:17,460
 Aber kaum einer weiß
 von der Tatsache,
 
-107
+105
 00:07:17,460 --> 00:07:22,210
 dass es nur 20 exzellente Ärzte gab,
 die im Labor des Schlosses arbeiteten,
 
-108
+106
 00:07:22,210 --> 00:07:26,180
 und alle anderen Ärzte
 verbannt wurden!
 
-109
+107
 00:07:26,180 --> 00:07:31,640
 Genau! Die Kranken sollen
 mich um ihr Leben anbetteln!
 
-110
+108
 00:07:31,640 --> 00:07:36,100
 Wenn mir danach ist, leihe ich
 ihnen meine Isshi-20.
 
-111
+109
 00:07:36,100 --> 00:07:41,110
 Wenn sie nicht sterben wollen, müssen
 sie nur mir, dem König, Folge leisten!
 
-112
+110
 00:07:41,110 --> 00:07:46,070
 Damit ist meine Herrschaft perfekt.
 Das ist die Regierung dieses Landes.
 
-113
+111
 00:07:46,070 --> 00:07:48,820
 Das nennst du Regierung?!
 
-114
+112
 00:07:48,820 --> 00:07:52,160
 Pah! Du nimmst auch kein
 Blatt vor den Mund, was?
 
-115
+113
 00:07:52,160 --> 00:07:56,210
 Tötet ihn! Tötet euren
 alten Hauptmann!
 
-116
+114
 00:07:56,210 --> 00:07:59,710
 Ich wusste, ich würde mit
 Worten nicht weit kommen.
 
-117
+115
 00:08:04,090 --> 00:08:08,340
 Du bist der Sohn des vorherigen Königs,
 dem ich viel zu verdanken habe.
 
-118
+116
 00:08:08,340 --> 00:08:11,260
 Ich hatte gehofft, du würdest
 eines Tages zu Sinnen kommen,
 
-119
+117
 00:08:11,260 --> 00:08:12,890
 aber scheinbar vergeblich!
 
-120
+118
 00:08:12,890 --> 00:08:15,390
 Da ist seine Bull-Bull-Frucht!
 
-121
+119
 00:08:15,390 --> 00:08:16,640
 Das Modell „Bison“.
 
-122
+120
 00:08:18,140 --> 00:08:20,690
 Nicht zurückschrecken! Feuer!
 
-123
+121
 00:08:23,610 --> 00:08:24,560
 Wir treffen ihn nicht!
 
-124
+122
 00:08:24,560 --> 00:08:25,480
 Er weicht aus!
 
-125
+123
 00:08:25,480 --> 00:08:27,780
 Auch meinen Ex-Leuten
 zeige ich keine Gnade!
 
-126
+124
 00:08:30,360 --> 00:08:32,580
 Fiddle Banff!
 
-127
+125
 00:08:41,330 --> 00:08:43,250
 Wow! Was für eine Kraft!
 
-128
+126
 00:08:43,920 --> 00:08:47,210
 Eine tierische Teufelsfrucht.
 Diese wilde Kraft!
 
-129
+127
 00:08:47,590 --> 00:08:50,220
 Ich habe die Nase
 gestrichen voll von euch!
 
-130
+128
 00:08:50,220 --> 00:08:54,000
 Ein Land, dessen König im
 Ernstfall als Erster davonläuft,
 
-131
+129
 00:08:54,000 --> 00:08:55,430
 soll zugrunde gehen!
 
-132
+130
 00:08:55,430 --> 00:08:58,930
 Gegen uns beide hast
 du keine Chance.
 
-133
+131
 00:08:58,930 --> 00:08:59,890
 Gib’s auf.
 
-134
+132
 00:09:00,900 --> 00:09:03,360
 Dalton!
 
-135
+133
 00:09:03,820 --> 00:09:04,870
 Dalton!
 
-136
+134
 00:09:04,870 --> 00:09:06,360
 Wir helfen dir!
 
-137
+135
 00:09:06,360 --> 00:09:07,850
 Lass uns mitkämpfen!
 
-138
+136
 00:09:07,850 --> 00:09:10,490
 Wir beschützen dieses freie Land!
 
-139
+137
 00:09:12,320 --> 00:09:14,780
 Ich kenne dich nun schon sehr lange.
 
-140
+138
 00:09:19,580 --> 00:09:21,080
 Wie bedauerlich.
 
-141
+139
 00:09:21,080 --> 00:09:22,000
 Nicht!
 
-142
+140
 00:09:22,000 --> 00:09:24,380
 Das ist dein Schwachpunkt...
 
-143
+141
 00:09:37,720 --> 00:09:40,140
 – Wieso...
 – ...hast du dich davorgestellt?
 
-144
+142
 00:09:40,140 --> 00:09:41,060
 Dalton!
 
-145
+143
 00:09:44,610 --> 00:09:46,020
 Dalton!
 
-146
+144
 00:09:46,020 --> 00:09:51,360
 Dein Mitgefühl ist deine
 Schwäche, Dalton.
 
-147
+145
 00:09:51,360 --> 00:09:53,070
 Dieser Tod passt zu dir.
 
-148
+146
 00:09:56,700 --> 00:09:58,040
 W-Was ist das?!
 
-149
+147
 00:09:58,040 --> 00:10:00,500
 Hm? Was? Ein Erdbeben?
 
-150
+148
 00:10:03,460 --> 00:10:07,250
 Das ist gar nicht gut.
 Wir stecken im Schnee fest.
 
-151
+149
 00:10:07,250 --> 00:10:09,710
 Offenbar sind wir einen Berg hoch.
 
-152
+150
 00:10:12,590 --> 00:10:15,640
 Was ist das für ein Beben?
 
-153
+151
 00:10:16,720 --> 00:10:19,390
 Usopp, das ist doch nicht etwa...?
 
-154
+152
 00:10:20,310 --> 00:10:23,350
 E-Eine L-Lawine?
 
-155
+153
 00:10:24,020 --> 00:10:26,020
 25.631...
 
-156
+154
 00:10:26,020 --> 00:10:27,310
 25.632...
 
-157
+155
 00:10:27,310 --> 00:10:30,030
 25.633...
 
-158
+156
 00:10:31,280 --> 00:10:33,530
 Was ist das für ein Lärm?
 
-159
+157
 00:10:42,620 --> 00:10:45,500
 25.634...
 
-160
+158
 00:10:46,790 --> 00:10:50,500
 Diese verdammten Hasen!
 Das kriegen die zurück!
 
-161
+159
 00:10:50,500 --> 00:10:53,970
 W-Was nun?
 W-Was sollen wir tun, Sanji?!
 
-162
+160
 00:10:54,630 --> 00:10:55,630
 Frag mich nicht!
 
-163
+161
 00:10:55,630 --> 00:10:57,010
 Unsere erste Priorität ist Nami!
 
-164
+162
 00:10:57,010 --> 00:10:57,550
 Zweite: Nami!
 
-165
+163
 00:10:57,550 --> 00:10:58,390
 Dritte: Nami!
 
-166
+164
 00:10:58,390 --> 00:10:59,140
 Vierte: Nami!
 
-167
+165
 00:10:59,140 --> 00:10:59,930
 Fünfte: Nami!
 
-168
+166
 00:10:59,930 --> 00:11:01,640
 Kapiert?!
 
-169
+167
 00:11:01,640 --> 00:11:03,430
 Beschütz sie, selbst
 wenn’s dich umbringt!
 
-170
+168
 00:11:03,430 --> 00:11:05,480
 Geht klar!
 
-171
+169
 00:11:05,480 --> 00:11:07,690
 Aber wie?
 
-172
+170
 00:11:13,570 --> 00:11:15,780
 Da drüben! Der Vorsprung!
 
-173
+171
 00:11:15,780 --> 00:11:16,860
 Vorsprung?
 
-174
+172
 00:11:16,860 --> 00:11:19,740
 Lauf! Wir müssen so hoch
 wie möglich kommen!
 
-175
+173
 00:11:21,660 --> 00:11:22,700
 Sie kommt!
 
-176
+174
 00:11:32,550 --> 00:11:35,220
 Gut, geschaf…
 
-177
+175
 00:11:35,760 --> 00:11:38,220
 Mist, das ist nicht hoch genug!
 
-178
+176
 00:11:47,190 --> 00:11:48,850
 Was nun?
 
-179
+177
 00:11:49,270 --> 00:11:50,810
 Ah, ich hab’s!
 
-180
+178
 00:11:52,780 --> 00:11:55,490
 Sanji! Halt dich fest!
 
-181
+179
 00:11:58,200 --> 00:11:59,160
 Das war knapp!
 
-182
+180
 00:11:59,160 --> 00:12:00,740
 Ja, aber weißt du,
 
-183
+181
 00:12:00,740 --> 00:12:02,700
 wir versinken zwar nicht im Schnee,
 
-184
+182
 00:12:02,700 --> 00:12:06,290
 dafür düsen wir geradewegs
 den Berg runter!
 
-185
+183
 00:12:06,290 --> 00:12:07,500
 Was?!
 
-186
+184
 00:12:07,500 --> 00:12:09,750
 Soll das ein Witz sein?
 
-187
+185
 00:12:09,750 --> 00:12:13,840
 Wir hatten fast den Gipfel
 dieses Schornsteinbergs erklommen!
 
-188
+186
 00:12:13,840 --> 00:12:15,970
 Wir waren fast bei der Ärztin!
 
-189
+187
 00:12:15,970 --> 00:12:18,930
 Luffy! Denk nach, wie du
 das Ding stoppen kannst!
 
-190
+188
 00:12:19,640 --> 00:12:22,300
 Diese verdammten, fetten Hüpfer!
 
-191
+189
 00:12:22,300 --> 00:12:24,720
 Beim nächsten Mal kommen
 die in den Kochtop…
 
-192
+190
 00:12:25,390 --> 00:12:27,350
 Was?!
 
-193
+191
 00:12:38,610 --> 00:12:39,820
 Was nun, Sanji?!
 
-194
+192
 00:12:39,820 --> 00:12:42,910
 Tja, da gibt’s nur einen Weg!
 
-195
+193
 00:12:42,910 --> 00:12:45,200
 Abhauen!
 
-196
+194
 00:12:47,040 --> 00:12:50,170
 Was ist nur los mit denen?!
 
-197
+195
 00:12:55,090 --> 00:12:57,970
 Nein, Luffy, schau nach vorne!
 
-198
+196
 00:12:59,050 --> 00:13:02,050
 Ah, wir werden kollidieren!
 
-199
+197
 00:13:06,220 --> 00:13:09,230
 Dazu darfst du es nicht kommen lassen!
 
-200
+198
 00:13:09,230 --> 00:13:11,230
 Du trägst doch Nami!
 
-201
+199
 00:13:20,740 --> 00:13:22,740
 Wir kollidieren!
 
-202
+200
 00:13:24,740 --> 00:13:28,950
 Du darfst eine Lady
 nicht so grob behandeln.
 
-203
+201
 00:13:29,540 --> 00:13:31,460
 Sanji!
 
-204
+202
 00:13:43,930 --> 00:13:45,180
 Sanji!
 
-205
+203
 00:13:46,100 --> 00:13:47,970
 Ah, Mist, das hat gesessen...
 
-206
+204
 00:13:47,970 --> 00:13:54,650
 Schwachkopf! Hör auf,
 so überstürzt zu handeln!
 
-207
+205
 00:13:57,650 --> 00:13:59,860
 Sanji!
 
-208
+206
 00:13:59,860 --> 00:14:04,530
 Sanji!
 
-209
+207
 00:14:01,360 --> 00:14:04,530
 Sanji!
 
-210
+208
 00:14:10,370 --> 00:14:13,670
 – Die Lawine kommt!
 – Sie bleibt nicht stehen
 
-211
+209
 00:14:13,670 --> 00:14:15,330
 Sie wird das ganze Dorf überrollen!
 
-212
+210
 00:14:15,330 --> 00:14:16,340
 Flieht!
 
-213
+211
 00:14:19,800 --> 00:14:23,260
 Wir hauen von hier ab!
 Chess, Kuromarimo, steigt auf!
 
-214
+212
 00:14:23,260 --> 00:14:24,550
 Robson!
 
-215
+213
 00:14:24,550 --> 00:14:28,430
 Robson, Krisenmodus!
 
-216
+214
 00:14:28,430 --> 00:14:31,930
 König Wapol! Lasst
 uns auch mitreiten!
 
-217
+215
 00:14:31,930 --> 00:14:35,810
 Seid still und schert
 euch aus dem Weg!
 
-218
+216
 00:14:36,610 --> 00:14:40,280
 Robson, Beeilung! Sie kommt näher!
 
-219
+217
 00:14:42,400 --> 00:14:46,990
 K-K-K-Keine Sorge,
 alles wird gut, Vivi!
 
-220
+218
 00:14:46,990 --> 00:14:50,740
 Selbst wenn wir begraben werden,
 werde ich dich retten, ich schwör’s!
 
-221
+219
 00:14:50,740 --> 00:14:53,910
 Denkst du, Luffy und die anderen...
 
-222
+220
 00:14:56,290 --> 00:14:58,880
 Dass sie von der Lawine
 begraben wurden?
 
-223
+221
 00:14:59,750 --> 00:15:02,920
 König Wapol!
 
-224
+222
 00:16:12,740 --> 00:16:16,160
 Nami, ist dir kalt?
 Halt noch ein bisschen durch.
 
-225
+223
 00:16:17,290 --> 00:16:20,790
 Hör zu. Bleib hier
 und warte kurz auf mich.
 
-226
+224
 00:16:45,730 --> 00:16:47,950
 Ach, ihr seid das!
 
-227
+225
 00:16:47,950 --> 00:16:50,780
 Ich dachte, das wär
 irgendein ekelhafter Sirup.
 
-228
+226
 00:16:50,780 --> 00:16:52,740
 Das kriegen sie zurück!
 
-229
+227
 00:16:52,740 --> 00:16:53,990
 Wen meint Ihr?
 
-230
+228
 00:16:53,990 --> 00:16:56,790
 Pah! Natürlich die Kerle!
 
-231
+229
 00:16:56,790 --> 00:16:58,460
 Und wer soll das sein?
 
-232
+230
 00:16:58,460 --> 00:17:02,210
 Ihr meintet, einige der Strohhüte wären
 auf dem Weg zum Schloss auf dem Berg!
 
-233
+231
 00:17:02,210 --> 00:17:05,170
 Dann stecken die dahinter!
 
-234
+232
 00:17:06,460 --> 00:17:09,510
 Wegen der Sache von neulich
 hegen die einen Groll gegen uns
 
-235
+233
 00:17:09,510 --> 00:17:12,470
 und haben deshalb
 die Lawine ausgelöst!
 
-236
+234
 00:17:14,050 --> 00:17:16,600
 Ach, das war also der Grund!
 
-237
+235
 00:17:16,600 --> 00:17:19,560
 Dann stecken die
 also hinter der Lawine...
 
-238
+236
 00:17:19,560 --> 00:17:22,020
 Dann los! Wir jagen sie durch die Schneeberge!
 
-239
+237
 00:17:22,020 --> 00:17:26,650
 Denen zeig ich, wie man
 mit Schnee umgeht!
 
-240
+238
 00:18:32,010 --> 00:18:34,680
 Ich bringe euch zu ihr.
 
-241
+239
 00:18:34,680 --> 00:18:37,050
 Sterbt mir ja nicht weg,
 
-242
+240
 00:18:38,260 --> 00:18:39,600
 ihr beiden.
 
-243
+241
 00:18:45,060 --> 00:18:46,060
 Da sind sie!
 
-244
+242
 00:18:46,060 --> 00:18:49,020
 Seht nur, König Wapol! Da sind sie!
 
-245
+243
 00:18:49,480 --> 00:18:51,490
 Stehen bleiben, du Wicht!
 
-246
+244
 00:18:51,490 --> 00:18:54,240
 Deine Unverfrorenheit
 kennt echt keine Grenzen!
 
-247
+245
 00:18:54,240 --> 00:18:56,200
 Mach dich auf
 ’ne Abreibung gefasst!
 
-248
+246
 00:19:04,710 --> 00:19:05,750
 Aus dem Weg.
 
-249
+247
 00:19:05,750 --> 00:19:07,750
 Pah, hättest du wohl gern.
 
-250
+248
 00:19:07,750 --> 00:19:09,710
 Wozu sollte ich das tun?
 
-251
+249
 00:19:10,210 --> 00:19:14,630
 Was du da in den Armen und auf dem
 Rücken trägst, scheint dem Tod nahe.
 
-252
+250
 00:19:22,310 --> 00:19:23,270
 Halt!
 
-253
+251
 00:19:23,270 --> 00:19:25,440
 Oh, ich hab’s!
 
-254
+252
 00:19:25,440 --> 00:19:28,310
 Chess! Ich habe mir ein
 neues Gesetz ausgedacht.
 
-255
+253
 00:19:28,310 --> 00:19:29,650
 Schreib es nieder.
 
-256
+254
 00:19:29,060 --> 00:19:29,650
 Jawohl!
 
-257
+255
 00:19:29,650 --> 00:19:33,440
 Wer den König ignoriert,
 wird hingerichtet.
 
-258
+256
 00:19:36,200 --> 00:19:38,660
 Schon ignoriert ihr mich?!
 
-259
+257
 00:19:38,660 --> 00:19:43,830
 Männer, fangt mit den Kranken und
 Verletzten an, die mich am meisten ignorieren!
 
-260
+258
 00:19:43,830 --> 00:19:44,750
 – Jawohl!
 – Jawohl!
 
-261
+259
 00:19:44,750 --> 00:19:46,250
 Was?!
 
-262
+260
 00:19:47,710 --> 00:19:49,380
 Ich hol mir die Frau
 auf seinem Rücken!
 
-263
+261
 00:19:49,380 --> 00:19:51,090
 Und ich mir den Mann!
 
-264
+262
 00:19:52,670 --> 00:19:53,590
 Nimm das!
 
-265
+263
 00:19:53,590 --> 00:19:55,050
 Überraschungsmarimo!
 
-266
+264
 00:19:59,760 --> 00:20:00,760
 Hör zu, Luffy!
 
-267
+265
 00:20:00,760 --> 00:20:03,220
 Du darfst auf keinen Fall kämpfen.
 
-268
+266
 00:20:03,220 --> 00:20:07,140
 Wenn du angreifst
 oder getroffen wirst,
 
-269
+267
 00:20:07,140 --> 00:20:11,310
 kriegt auch Nami
 den ganzen Stoß ab!
 
-270
+268
 00:20:14,570 --> 00:20:16,320
 Verdammt,
 
-271
+269
 00:20:16,320 --> 00:20:19,280
 das merk ich mir!
 
-272
+270
 00:20:19,280 --> 00:20:21,160
 Folgt mir ja nicht!
 
-273
+271
 00:20:22,530 --> 00:20:26,040
 Pah, so ein Feigling.
 Aber das ist zwecklos.
 
-274
+272
 00:20:31,880 --> 00:20:34,170
 Ich zeige ihm,
 
-275
+273
 00:20:34,170 --> 00:20:37,170
 wie ein Kampf in
 einem Schneeland abläuft.
 
-276
+274
 00:20:44,890 --> 00:20:48,020
 Nanu? Hier ist ja niemand. Komisch.
 
-277
+275
 00:20:48,020 --> 00:20:50,980
 Haben die etwa schon aufgegeben?
 
-278
+276
 00:20:55,530 --> 00:20:57,530
 So kämpft man in einem Schneeland!
 
-279
+277
 00:20:57,530 --> 00:20:58,780
 Weiße Tarnung:
 
-280
+278
 00:20:58,780 --> 00:21:00,110
 Pulverschnee-Make-up!
 
-281
+279
 00:21:00,110 --> 00:21:03,780
 So schwach, wie die sind,
 bringt ein Schuss sie zur Strecke.
 
-282
+280
 00:21:05,120 --> 00:21:06,660
 Schachmatt!
 
-283
+281
 00:21:06,660 --> 00:21:10,750
 Aufhören!
 
-284
+282
 00:21:16,550 --> 00:21:18,050
 Eisbären?
 
-285
+283
 00:21:21,380 --> 00:21:23,350
 Lapahns?!
 
-286
+284
 00:21:25,760 --> 00:21:27,770
 Haben die den beschützt?
 
-287
+285
 00:21:27,770 --> 00:21:32,650
 Das war ein Zufall. Lapahns werden
 gegenüber Menschen nicht zutraulich.
 
-288
+286
 00:21:44,370 --> 00:21:46,330
 Danke! Ihr habt mich gerettet!
 
-289
+287
 00:21:50,370 --> 00:21:51,750
 Lasst ihn nicht abhauen!
 
-290
+288
 00:21:51,750 --> 00:21:52,620
 – Jawohl!
 – Jawohl!
 
-291
+289
 00:22:04,300 --> 00:22:07,850
 Was zur Hölle machen die da?!
 
-292
+290
 00:22:23,490 --> 00:22:25,490
 Ein Arzt...
 
-293
+291
 00:22:28,990 --> 00:22:30,200
 Ein Arzt...
 
-294
+292
 00:22:33,500 --> 00:22:35,210
 Ein Arzt...
 
-295
+293
 00:22:43,170 --> 00:22:45,720
 Das ist es also?
 
-296
+294
 00:22:46,140 --> 00:22:48,850
 Ich kann den Gipfel nicht sehen.
 
-297
+295
 00:22:53,520 --> 00:22:57,650
 Da oben ist die Ärztin.
 
-298
+296
 00:22:59,820 --> 00:23:03,780
 Haltet noch ein bisschen
 durch. Nami, Sanji!
 
-299
+297
 00:23:53,500 --> 00:23:54,830
 Eine Lawine...
 
-300
+298
 00:23:57,330 --> 00:23:59,920
 Wir wurden von
 einer Lawine verschüttet.
 
-301
+299
 00:23:59,920 --> 00:24:01,800
 Ah! U-Usopp?
 
-302
+300
 00:24:01,800 --> 00:24:03,920
 Usopp!
 
-303
+301
 00:24:06,510 --> 00:24:10,800
 Usopp! Komm schon! Wach auf!
 
-304
+302
 00:24:12,310 --> 00:24:14,140
 Er lebt noch!
 
-305
+303
 00:24:14,140 --> 00:24:16,640
 Usopp! Halte durch!
 
-306
+304
 00:24:20,900 --> 00:24:22,860
 Komm schon, Usopp! Usopp!
 
-307
+305
 00:24:22,860 --> 00:24:24,400
 Usopp!
 
-308
+306
 00:24:24,480 --> 00:24:26,780
 Mensch, Vivi,
 jetzt weck mich doch nicht.
 
-309
+307
 00:24:26,780 --> 00:24:28,990
 Ich hatte so einen schönen Traum.
 
-310
+308
 00:24:28,990 --> 00:24:33,830
 Eine Blumenwiese und ein Fluss, so schön,
 als wären sie aus einer anderen Welt...
 
-311
+309
 00:24:33,830 --> 00:24:35,910
 Du bist fast im Jenseits!
 
-312
+310
 00:24:34,450 --> 00:24:35,910
 Schwimmt Zoro da im Fluss?
 
-313
+311
 00:24:35,910 --> 00:24:37,790
 Wach auf! Nicht schlafen!
 
-314
+312
 00:24:35,910 --> 00:24:37,790
 Schwimmt Zoro da im Fluss?
 
-315
+313
 00:24:40,670 --> 00:24:45,800
 Versammelt euch,
 meine 74.000 Usopp-Piraten!
 
-316
+314
 00:24:45,800 --> 00:24:51,890
 Lass das! Wach auf, Usopp!
 Nicht sterben! Usopp!
 
-317
+315
 00:24:51,890 --> 00:24:56,430
 Usopp! Usopp! Usopp!
 Usopp! Usopp! Usopp!
 
-318
+316
 00:24:56,430 --> 00:24:59,390
 Hach, da hast du mich
 echt gerettet, Vivi.
 
-319
+317
 00:24:59,390 --> 00:25:01,400
 Fast hätte ich den Tunnel durchquert.
 
-320
+318
 00:25:01,400 --> 00:25:03,190
 Bin ich froh, noch zu leben!
 
-321
+319
 00:25:03,190 --> 00:25:03,770
 Aber...
 
-322
+320
 00:25:03,770 --> 00:25:06,570
 Ist mein Gesicht nicht
 etwas geschwollen?
 
-323
+321
 00:25:06,570 --> 00:25:08,570
 D-Das sind nur Frostbeulen.
 
-324
+322
 00:25:07,570 --> 00:25:10,780
 Mein Kopf fühlt sich auch so schwer an.
 
-325
+323
 00:25:08,570 --> 00:25:10,780
 Deshalb ist mit Schnee nicht zu spaßen.
 
-326
+324
 00:25:10,780 --> 00:25:12,320
 Mein Sichtfeld ist irgendwie enger.
 
-327
+325
 00:25:12,320 --> 00:25:14,200
 Wir müssen schnellstens herausfinden,
 
-328
+326
 00:25:14,200 --> 00:25:16,750
 wo wir sind und was los ist!
 
-329
+327
 00:25:14,200 --> 00:25:16,750
 Ja...irgendwie schon...
 
-330
+328
 00:25:20,460 --> 00:25:23,710
 Ah, was ist das?!
 
-331
+329
 00:25:23,710 --> 00:25:27,460
 Puh, das war knapp. Ich hab
 schon eine Blumenwiese gesehen.
 
-332
+330
 00:25:30,550 --> 00:25:34,140
 Bei dieser Kälte plötzlich eine Lawine.
 Ich bin echt ein Pechvogel.
 
-333
+331
 00:25:34,140 --> 00:25:37,100
 Aber sehen wir’s als
 eine Art Eisschwimmen.
 
-334
+332
 00:25:37,100 --> 00:25:38,060
 Zoro.
 
-335
+333
 00:25:38,060 --> 00:25:40,060
 Hm? Oh, Vivi.
 
-336
+334
 00:25:46,610 --> 00:25:50,400
 Ach, du bist das, Usopp.
 Was treibt ihr zwei hier?
 
-337
+335
 00:25:50,400 --> 00:25:52,200
 – Das sollten wir dich fragen!
 – Das sollten wir dich fragen!
 
-338
+336
 00:25:55,160 --> 00:25:57,450
 Was für Volltrottel!
 
-339
+337
 00:25:57,450 --> 00:26:01,750
 Das haben niedere Hasen davon,
 wenn sie gegen den König aufbegehren.
 
-340
+338
 00:26:01,750 --> 00:26:07,750
 Aber ich hätte nie gedacht, meine wahre
 Kraft mal gegen Hasen einzusetzen.
 
-341
+339
 00:26:07,750 --> 00:26:12,090
 Es ging halt nicht anders. Das sind
 die aggressivsten Tiere auf Drum.
 
-342
+340
 00:26:14,050 --> 00:26:18,390
 Warte nur, Strohhut!
 
-343
+341
 00:26:26,940 --> 00:26:29,280
 Ein Arzt...
 
-344
+342
 00:26:33,700 --> 00:26:36,910
 Ein Arzt...
 
-345
+343
 00:26:53,300 --> 00:26:55,930
 Ein Arzt...
 
-346
+344
 00:27:01,140 --> 00:27:06,100
 Sanji!
 
-347
+345
 00:27:14,240 --> 00:27:17,780
 D-Das war knapp...
 
-348
+346
 00:27:20,990 --> 00:27:22,450
 Eisschwimmen?!
 
-349
+347
 00:27:22,450 --> 00:27:25,120
 Ja, nachdem ich ’ne Weile
 im Fluss geschwommen bin,
 
-350
+348
 00:27:25,120 --> 00:27:27,580
 wusste ich nicht mehr, wo ich bin.
 
-351
+349
 00:27:27,580 --> 00:27:31,300
 Dann hab ich mich beim
 Muskeltraining im Wald verlaufen.
 
-352
+350
 00:27:31,300 --> 00:27:34,380
 In dem Aufzug? Bist du bescheuert?
 
-353
+351
 00:27:34,380 --> 00:27:37,640
 Komm schon, Usopp,
 gib mir deine Jacke.
 
-354
+352
 00:27:37,640 --> 00:27:39,100
 Vergiss es.
 
-355
+353
 00:27:39,100 --> 00:27:43,180
 Ist Nami etwa durch die
 geistige Erschöpfung umgekippt?
 
-356
+354
 00:27:43,180 --> 00:27:45,100
 Dann deine Schuhe!
 
-357
+355
 00:27:44,180 --> 00:27:45,100
 Nope!
 
-358
+356
 00:27:45,100 --> 00:27:46,770
 Einen zumindest!
 
-359
+357
 00:27:45,560 --> 00:27:46,770
 Nichts da!
 
-360
+358
 00:27:46,770 --> 00:27:48,150
 Du bist doch selbst schuld dran.
 
-361
+359
 00:27:49,150 --> 00:27:51,320
 Seht mal, da sind Leute.
 
-362
+360
 00:27:53,690 --> 00:27:57,860
 Hey, diese Gebäude kennen wir doch.
 
-363
+361
 00:27:57,860 --> 00:27:59,120
 Was?
 
-364
+362
 00:27:59,870 --> 00:28:05,830
 Du hast recht! Das ist Big Horn!
 Wir sind zurückgegangen...
 
-365
+363
 00:28:06,500 --> 00:28:08,830
 Zurück mit euch!
 
-366
+364
 00:28:10,420 --> 00:28:12,420
 Dalton ist bereits tot!
 
-367
+365
 00:28:12,420 --> 00:28:15,420
 Das bisschen könnte
 Dalton nie umbringen!
 
-368
+366
 00:28:15,420 --> 00:28:18,260
 Ihr seid doch Daltons
 frühere Untergebene!
 
-369
+367
 00:28:18,260 --> 00:28:19,890
 Ist er euch völlig egal?
 
-370
+368
 00:28:19,890 --> 00:28:22,760
 Wir unterstehen dem König, Wapol!
 
-371
+369
 00:28:22,760 --> 00:28:25,600
 König Wapols Feinde
 müssen mit dem Tod rechnen!
 
-372
+370
 00:28:25,600 --> 00:28:27,350
 Hey, was ist hier los?
 
-373
+371
 00:28:27,350 --> 00:28:29,310
 W-Was hier los ist?
 
-374
+372
 00:28:30,310 --> 00:28:33,270
 Was ist mit dir und
 deinem Aufzug los?!
 
-375
+373
 00:28:33,270 --> 00:28:37,150
 Dalton wurde von einer
 Lawine verschüttet.
 
-376
+374
 00:28:37,150 --> 00:28:38,320
 Was?!
 
-377
+375
 00:28:38,320 --> 00:28:39,990
 Dalton?
 
-378
+376
 00:28:39,990 --> 00:28:44,410
 Ja, und da die im Weg sind,
 können wir ihn nicht ausgraben.
 
-379
+377
 00:28:44,410 --> 00:28:46,830
 Zurück mit euch!
 
-380
+378
 00:28:47,370 --> 00:28:51,790
 Wenn ihr ein Problem habt,
 sprecht euch nur aus!
 
-381
+379
 00:28:53,460 --> 00:28:56,590
 Usopp, die Kleidung kenne ich doch.
 
-382
+380
 00:28:56,590 --> 00:28:59,930
 Die haben uns doch auf
 dem Meer angegriffen,
 
-383
+381
 00:29:00,640 --> 00:29:01,430
 oder nicht?
 
-384
+382
 00:29:01,430 --> 00:29:03,100
 Ja, stimmt.
 
-385
+383
 00:29:03,100 --> 00:29:04,390
 Dann sind sie unsere Feinde.
 
-386
+384
 00:29:04,390 --> 00:29:06,520
 Stimmt doch, oder?
 Oder sind sie auf unserer Seite?
 
-387
+385
 00:29:06,520 --> 00:29:09,850
 Na ja, schon unsere Feinde.
 Aber wieso ist das wichtig?
 
-388
+386
 00:29:12,770 --> 00:29:15,780
 Ohne Dalton seid ihr aber zahm.
 
-389
+387
 00:29:21,530 --> 00:29:24,120
 Was? Mr. Bushido?!
 
-390
+388
 00:29:25,370 --> 00:29:26,330
 Wer ist das?
 
-391
+389
 00:29:26,330 --> 00:29:29,910
 Hey, du, lass das!
 Wenn du die angreifst...
 
-392
+390
 00:29:32,790 --> 00:29:34,880
 Schön warm! Besten Dank!
 
-393
+391
 00:29:35,420 --> 00:29:37,840
 Deshalb hast du gefragt?!
 
-394
+392
 00:29:38,420 --> 00:29:41,340
 Sieh nur, wie wütend sie sind!
 
-395
+393
 00:29:40,340 --> 00:29:41,340
 Du Dreckskerl!
 
-396
+394
 00:29:41,340 --> 00:29:43,800
 Du warst auf dem Schiff von dem,
 der Wapol weggeschleudert hat!
 
-397
+395
 00:29:44,970 --> 00:29:47,310
 Oho? Ihr lernt auch nicht dazu.
 
-398
+396
 00:29:48,060 --> 00:29:52,850
 Ein Arzt...
 Ein Arzt...
 
-399
+397
 00:29:53,980 --> 00:29:56,730
 Ein Arzt...
 
-400
+398
 00:30:49,790 --> 00:30:53,960
 Haltet durch. Wir sind fast da.
 
-401
+399
 00:30:53,960 --> 00:30:56,920
 Sterbt mir ja nicht weg!
 
-402
+400
 00:32:27,380 --> 00:32:29,760
 Wir sind da...
 
-403
+401
 00:32:39,480 --> 00:32:40,770
 Ein Arzt...
 
-404
+402
 00:33:11,260 --> 00:33:14,430
 Doktorine, die Antikörper reagieren.
 
-405
+403
 00:33:14,430 --> 00:33:18,100
 Ja, das dachte ich mir.
 
-406
+404
 00:33:18,100 --> 00:33:21,900
 Und weshalb? Erläuter mir das.
 
-407
+405
 00:33:21,900 --> 00:33:23,560
 Kestia...
 
-408
+406
 00:33:24,980 --> 00:33:27,110
 Ganz recht, Kestia.
 
-409
+407
 00:33:27,110 --> 00:33:29,570
 Kümmer du dich um das Mädchen.
 
-410
+408
 00:33:29,570 --> 00:33:30,780
 Ist gut.
 
-411
+409
 00:34:02,770 --> 00:34:03,350
 Wer bist du?
+

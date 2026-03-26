@@ -1,1325 +1,1312 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,910
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:02:09,220 --> 00:02:10,440
 Eh? C-Che succede?
 
-4
+2
 00:02:12,820 --> 00:02:13,990
 Cavolo...
 
-5
+3
 00:02:13,990 --> 00:02:15,900
 Sono enormi!
 
-6
+4
 00:03:04,620 --> 00:03:06,670
 L-L'ha preso con l'elmo!
 
-7
+5
 00:03:07,180 --> 00:03:10,130
 Se avesse sbagliato anche di poco, sarebbe morto all'istante!
 
-8
+6
 00:03:26,770 --> 00:03:28,860
 Che lotta assurda...!
 
-9
+7
 00:03:29,520 --> 00:03:34,990
 Tutti i loro attacchi... 
 sono colpi letali che mirano ai punti vitali!
 
-10
+8
 00:03:34,990 --> 00:03:39,900
 Hanno continuato questo duello mortale per cent'anni, quei due?
 
-11
+9
 00:03:41,620 --> 00:03:43,120
 Ma che fortuna!
 
-12
+10
 00:03:43,120 --> 00:03:44,870
 Possiamo usare
  questa occasione per scappare.
 
-13
+11
 00:03:44,870 --> 00:03:46,080
 Andiamo!
 
-14
+12
 00:03:55,840 --> 00:03:57,010
 Usopp?
 
-15
+13
 00:04:00,340 --> 00:04:01,720
 Incredibile...
 
-16
+14
 00:04:03,510 --> 00:04:05,600
 Il motivo, eh?
 
-17
+15
 00:04:05,600 --> 00:04:07,350
 L'ho dimenticato!
 
-18
+16
 00:04:14,150 --> 00:04:17,860
 Senza motivi...
  Un combattimento come questo...
 
-19
+17
 00:04:19,220 --> 00:04:21,530
 È proprio una lotta fastidiosa, vero?
 
-20
+18
 00:04:21,530 --> 00:04:22,580
 Idiota!
 
-21
+19
 00:04:23,080 --> 00:04:26,290
 Questa è ciò che si dice 
 una vera lotta tra uomini!
 
-22
+20
 00:04:27,710 --> 00:04:28,660
 Che vuoi dire?
 
-23
+21
 00:04:29,210 --> 00:04:36,420
 È come se entrambi avessero sul petto 
 una bandiera con "guerriero" scritto sopra,
 
-24
+22
 00:04:36,420 --> 00:04:40,300
 e che quelle bandiere fossero più importanti delle loro stesse vite.
 
-25
+23
 00:04:41,300 --> 00:04:43,390
 Non vogliono assolutamente che si rompano.
 
-26
+24
 00:04:43,970 --> 00:04:47,930
 Per questo, per cent'anni 
 hanno continuato a scontrarsi!
 
-27
+25
 00:04:51,480 --> 00:04:52,690
 Capisci?!
 
-28
+26
 00:04:52,690 --> 00:04:57,740
 Questa è senza dubbio un duello tra guerrieri pieni d'orgoglio.
 
-29
+27
 00:04:59,950 --> 00:05:00,700
 Che importa?
 
-30
+28
 00:05:01,280 --> 00:05:03,660
 A me non interessano queste cose.
 
-31
+29
 00:05:03,660 --> 00:05:04,620
 Dai, andiamocene!
 
-32
+30
 00:05:05,080 --> 00:05:06,580
 Guarderò per un altro po'.
 
-33
+31
 00:05:09,160 --> 00:05:14,630
 Si tratta di questo... il mio obiettivo di diventare
 un coraggioso guerriero del mare!
 
-34
+32
 00:05:15,130 --> 00:05:18,590
 Voglio essere un uomo così, pieno d'orgoglio.
 
-35
+33
 00:05:26,850 --> 00:05:28,850
 Quindi vuoi diventare un gigante.
 
-36
+34
 00:05:29,770 --> 00:05:30,560
 Sbagliato!
 
-37
+35
 00:05:31,100 --> 00:05:33,100
 Ma mi stavi almeno ascoltando?!
 
-38
+36
 00:05:33,100 --> 00:05:33,860
 Dai!
 
-39
+37
 00:05:33,860 --> 00:05:36,070
 Ti andrebbe bene non guardarli?
 
-40
+38
 00:05:41,950 --> 00:05:45,030
 Se c'è un villaggio dove vivono guerrieri così,
 
-41
+39
 00:05:45,030 --> 00:05:47,620
 un giorno vorrei andarci!
 
-42
+40
 00:06:02,010 --> 00:06:07,720
 Ormai... manca a entrambi la patria, no, Dorry?
 
-43
+41
 00:06:09,310 --> 00:06:15,860
 Per questo ti farò fuori e tornerò ad Elbaf, Brogy.
 
-44
+42
 00:06:31,160 --> 00:06:34,710
 Duello numero 73466...
 
-45
+43
 00:06:35,120 --> 00:06:39,710
 ...e pareggio numero 73466.
 
-46
+44
 00:07:06,660 --> 00:07:08,280
 Ehi, sei in mezzo ai piedi!
 
-47
+45
 00:07:08,870 --> 00:07:10,200
 Lucertolone!
 
-48
+46
 00:07:12,580 --> 00:07:14,160
 Lascia fare a me.
 
-49
+47
 00:07:16,960 --> 00:07:18,630
 Diecimila Kilo Press!
 
-50
+48
 00:07:32,010 --> 00:07:34,480
 Yo, Mr. 5.
 
-51
+49
 00:07:36,270 --> 00:07:40,980
 Che abilità straordinaria, poter creare una casa improvvisata nella giungla!
 
-52
+50
 00:07:40,980 --> 00:07:42,270
 Ma, lascia che te lo dica,
 
-53
+51
 00:07:42,270 --> 00:07:44,320
 questa missione è ancora nostra.
 
-54
+52
 00:07:44,320 --> 00:07:46,700
 Vorrei che non intervenissi.
 
-55
+53
 00:07:46,700 --> 00:07:49,450
 Non commetteremo più lo stesso errore.
 
-56
+54
 00:07:49,450 --> 00:07:50,950
 "Errore"?
 
-57
+55
 00:07:50,950 --> 00:07:52,620
 Vi sbagliate.
 
-58
+56
 00:07:52,620 --> 00:07:57,790
 Voi siete solo deboli, 
 Mr. 5, Miss Valentine.
 
-59
+57
 00:08:00,580 --> 00:08:03,500
 Su, non fate quelle facce tese...
 
-60
+58
 00:08:03,500 --> 00:08:04,710
 Guardate questo.
 
-61
+59
 00:08:06,130 --> 00:08:14,680
 Voglio sinceramente ringraziarvi, mi avete dato
  un motivo per visitare quest'isola oggi, sapete?
 
-62
+60
 00:08:15,850 --> 00:08:19,850
 Dorry il Demone Blu e Brogy il Demone Rosso 
 dei Pirati Giganti Guerrieri.
 
-63
+61
 00:08:20,650 --> 00:08:23,070
 Ne ho già sentito parlare in una vecchia storia.
 
-64
+62
 00:08:23,070 --> 00:08:25,360
 Non sono taglie di cent'anni fa queste?!
 
-65
+63
 00:08:25,360 --> 00:08:30,780
 Ma, loro vivono proprio in questa isola ora.
 
-66
+64
 00:08:30,780 --> 00:08:34,870
 Al giorno d'oggi, 
 valgono cento milioni di berry a testa.
 
-67
+65
 00:08:34,870 --> 00:08:37,580
 Con entrambi, sono duecento milioni di berry.
 
-68
+66
 00:08:37,580 --> 00:08:39,620
 Taglie da duecento milioni di berry?!
 
-69
+67
 00:08:39,620 --> 00:08:42,000
 Però si tratta di giganti.
 
-70
+68
 00:08:42,460 --> 00:08:48,470
 I criminali eccellenti portano a termine
  i loro crimini grazie alle loro menti eccellenti.
 
-71
+69
 00:08:48,470 --> 00:08:52,220
 Dovete solo obbedire ai miei ordini.
 
-72
+70
 00:08:52,220 --> 00:08:58,890
 Con un po' di ingegno, 
 si può spostare anche una montagna.
 
-73
+71
 00:09:21,080 --> 00:09:24,380
 Dorry! In realtà, degli ospiti 
 mi hanno dato dell'alcol!
 
-74
+72
 00:09:24,790 --> 00:09:25,920
 Che bello!
 
-75
+73
 00:09:25,920 --> 00:09:29,170
 È da un po' che non ne bevo!
 Dividilo con me!
 
-76
+74
 00:09:37,390 --> 00:09:38,350
 Capisco!
 
-77
+75
 00:09:38,350 --> 00:09:41,560
 Dunque i suoi ospiti sono tuoi compagni, eh?
 
-78
+76
 00:09:41,560 --> 00:09:44,730
 C'erano un uomo dal 
 naso lungo e una donna.
 
-79
+77
 00:09:44,730 --> 00:09:46,360
 Usopp e Nami!
 
-80
+78
 00:09:46,360 --> 00:09:49,360
 Ma come? Avevano detto che non sarebbero scesi dalla nave~
 
-81
+79
 00:09:49,360 --> 00:09:51,070
 Allora gli piacciono le avventure!
 
-82
+80
 00:09:51,400 --> 00:09:55,740
 Quindi vuol dire che questo 
 alcol è anche un vostro dono.
 
-83
+81
 00:09:58,200 --> 00:09:59,870
 In ogni caso, signor Dorry...
 
-84
+82
 00:09:59,870 --> 00:10:03,420
 è vero che il Log ci impiegherà un anno per registrare?
 
-85
+83
 00:10:03,420 --> 00:10:09,130
 Non vi eravate accorti che...
 da quella parte ci sono ossa umane?
 
-86
+84
 00:10:10,260 --> 00:10:15,470
 La maggior parte di coloro che giungono qui, 
 muoiono prima che il Log finisca.
 
-87
+85
 00:10:15,470 --> 00:10:17,560
 Qualcuno diventa preda dei dinosauri.
 
-88
+86
 00:10:17,560 --> 00:10:20,100
 Qualcuno soccombe alla calura e alla fame.
 
-89
+87
 00:10:20,100 --> 00:10:25,060
 E altri sono morti nel tentativo di attaccarci.
 
-90
+88
 00:10:26,440 --> 00:10:32,030
 Sembra che per gli umani, 
 sopravvivere qui per un anno sia troppo tempo.
 
-91
+89
 00:10:32,740 --> 00:10:34,200
 Che facciamo?
 
-92
+90
 00:10:34,570 --> 00:10:37,070
 Anche se sopravvivessimo per un anno,
 
-93
+91
 00:10:37,070 --> 00:10:40,950
 in così tanto tempo, non so cosa potrebbe succedere nel mio paese.
 
-94
+92
 00:10:41,580 --> 00:10:45,460
 Già... Un anno sarebbe noioso.
 
-95
+93
 00:10:45,460 --> 00:10:47,750
 Non c'è un modo migliore, vecchio?
 
-96
+94
 00:10:49,420 --> 00:10:55,090
 Abbiamo un Eternal Pose,
 ma punta alla nostra terra natia, Elbaf.
 
-97
+95
 00:10:55,090 --> 00:11:00,060
 Si potrebbe persino dire che stiamo combattendo per quell'Eternal Pose.
 
-98
+96
 00:11:00,060 --> 00:11:02,680
 Che ne dici? 
 Vuoi provare a rubarcelo con la forza?
 
-99
+97
 00:11:02,680 --> 00:11:04,230
 Non va bene.
 
-100
+98
 00:11:04,230 --> 00:11:06,520
 Non vogliamo andare là.
 
-101
+99
 00:11:06,900 --> 00:11:09,610
 Vogliamo solo andare nell'isola dopo questa.
 
-102
+100
 00:11:09,610 --> 00:11:10,400
 Giusto?
 
-103
+101
 00:11:10,400 --> 00:11:11,190
 Sì.
 
-104
+102
 00:11:11,980 --> 00:11:16,200
 Se perdessimo la rotta in cui si trova Alabasta,
  non avrebbe senso proseguire.
 
-105
+103
 00:11:16,530 --> 00:11:17,360
 Visto?
 
-106
+104
 00:11:18,280 --> 00:11:21,160
 Allora, che ne dite di 
 proseguire alla cieca?
 
-107
+105
 00:11:21,790 --> 00:11:25,830
 Se siete fortunati, arriverete a destinazione.
 
-108
+106
 00:11:32,500 --> 00:11:34,010
 Facciamo così!
 
-109
+107
 00:11:36,680 --> 00:11:38,470
 Magari ci arriviamo davvero!
 
-110
+108
 00:11:42,260 --> 00:11:47,100
 Ora che ci penso, tempo fa, c'è stato qualcuno 
 che se ne andò prima che il Log terminasse!
 
-111
+109
 00:11:47,100 --> 00:11:48,560
 Che fine ha fatto?
 
-112
+110
 00:11:48,560 --> 00:11:50,190
 E come mai potrei saperlo?!
 
-113
+111
 00:11:50,190 --> 00:11:52,860
 Sicuramente è arrivato alla prossima isola!
 
-114
+112
 00:11:52,860 --> 00:11:54,030
 Certamente!
 
-115
+113
 00:11:57,860 --> 00:12:00,160
 Cosa c'è di così divertente?
 
-116
+114
 00:12:06,790 --> 00:12:10,880
 Non riesco proprio a capire,
 cosa passi per la testa a questa gente.
 
-117
+115
 00:12:16,720 --> 00:12:19,470
 Un coraggioso guerriero del mare?
 
-118
+116
 00:12:19,470 --> 00:12:20,470
 Cosa sarebbe?
 
-119
+117
 00:12:20,840 --> 00:12:22,720
 Parlo di voi!
 
-120
+118
 00:12:22,720 --> 00:12:25,140
 Un giorno, voglio diventare come voi!
 
-121
+119
 00:12:26,770 --> 00:12:27,730
 Vuoi dire un gigante?
 
-122
+120
 00:12:28,350 --> 00:12:28,980
 Visto?
 
-123
+121
 00:12:28,980 --> 00:12:30,440
 Non quello!
 
-124
+122
 00:12:31,690 --> 00:12:36,400
 Voglio vivere con orgoglio, 
  proprio come i guerrieri di Elbaf!
 
-125
+123
 00:12:41,070 --> 00:12:41,740
 Capisco!
 
-126
+124
 00:12:42,780 --> 00:12:46,450
 Noi... dato che abbiamo una
 durata di vita più lunga della vostra
 
-127
+125
 00:12:46,450 --> 00:12:49,580
 pensiamo più spesso a come moriremo.
 
-128
+126
 00:12:49,580 --> 00:12:55,090
 Alla fine... sia i beni materiali che la propria vita sono destinati a perire.
 
-129
+127
 00:12:55,090 --> 00:13:00,550
 Ma... se riuscissimo a morire senza infangare
 il nostro orgoglio come guerrieri di Elbaf,
 
-130
+128
 00:13:00,550 --> 00:13:02,390
 moriremmo in modo onorevole.
 
-131
+129
 00:13:03,050 --> 00:13:07,850
 Quell'orgoglio è il tesoro eterno tramandato
  di generazione in generazione ad Elbaf.
 
-132
+130
 00:13:09,350 --> 00:13:11,350
 L'orgoglio è il tesoro?
 
-133
+131
 00:13:11,350 --> 00:13:12,810
 Che bello!
 
-134
+132
 00:13:12,810 --> 00:13:14,320
 Ho deciso!
 
-135
+133
 00:13:14,320 --> 00:13:17,230
 D'ora in poi ti chiamerò maestro!
 
-136
+134
 00:13:17,230 --> 00:13:18,360
 Eh?
 
-137
+135
 00:13:36,170 --> 00:13:37,250
 Signor gigante!
 
-138
+136
 00:13:40,130 --> 00:13:41,800
 Cos'è successo?
 
-139
+137
 00:13:41,800 --> 00:13:43,930
 Perché l'alcol è esploso?!
 
-140
+138
 00:13:44,430 --> 00:13:47,890
 Era l'alcol della nostra nave, no?!
 
-141
+139
 00:13:50,020 --> 00:13:52,230
 È esploso all'interno del suo stomaco!
 
-142
+140
 00:13:52,230 --> 00:13:55,110
 Quel gigante avversario ci 
 avrà messo dell'esplosivo...!
 
-143
+141
 00:13:55,810 --> 00:13:57,940
 Tu! Stavi guardando o no?!
 
-144
+142
 00:13:57,940 --> 00:14:01,400
 Dopo aver combattuto per cent'anni, perché dovrebbe fare una cosa così?!
 
-145
+143
 00:14:02,700 --> 00:14:04,910
 Allora, chi è stato?!
 
-146
+144
 00:14:07,700 --> 00:14:09,540
 Siete stati voi bastardi!
 
-147
+145
 00:14:11,960 --> 00:14:14,250
 Non è stato Brogy.
 
-148
+146
 00:14:14,920 --> 00:14:20,550
 Siamo... orgogliosi guerrieri di Elbaf.
 
-149
+147
 00:14:20,550 --> 00:14:25,220
 Oltre a voi, di chi altro dovrei sospettare?
 
-150
+148
 00:14:26,220 --> 00:14:27,640
 Scappiamo per ora!
 
-151
+149
 00:14:27,640 --> 00:14:29,600
 Forse è inutile parlargli ormai!
 
-152
+150
 00:14:29,600 --> 00:14:31,600
 Forse anche scappare sarà inutile.
 
-153
+151
 00:14:32,390 --> 00:14:34,060
 Tieni questo e fatti da parte.
 
-154
+152
 00:14:35,060 --> 00:14:37,940
 Non dirmi che... intendi combattere?
 
-155
+153
 00:14:41,280 --> 00:14:45,360
 Mi spiace per il vecchio,
  ma devo farlo stare zitto.
 
-156
+154
 00:14:49,870 --> 00:14:52,620
 Smettetela entrambi! Per favore!
 
-157
+155
 00:14:52,620 --> 00:14:54,290
 Ehi, signor Dorry! Ascolti!
 
-158
+156
 00:14:54,290 --> 00:14:56,080
 Noi non ne sappiamo davvero niente!
 
-159
+157
 00:14:56,080 --> 00:14:57,880
 Non c'entriamo con l'alcol esplosivo!
 
-160
+158
 00:14:57,880 --> 00:14:59,090
 Quindi non si scateni!
 
-161
+159
 00:14:59,460 --> 00:15:03,340
 Deve stare fermo!
 Le sue interiora sono danneggiate gravemente!
 
-162
+160
 00:15:04,760 --> 00:15:10,180
 Voi bastardi... come avete osato... fare una cosa così insolente?!
 
-163
+161
 00:15:21,190 --> 00:15:23,740
 Gum Gum...
 
-164
+162
 00:15:41,130 --> 00:15:42,710
 Gum Gum...
 
-165
+163
 00:15:52,810 --> 00:15:53,640
 Scusa.
 
-166
+164
 00:15:53,640 --> 00:15:55,600
 Rocket!
 
-167
+165
 00:16:24,090 --> 00:16:25,460
 Luffy!
 
-168
+166
 00:16:25,460 --> 00:16:27,630
 Possiedi i poteri...
 
-169
+167
 00:16:28,930 --> 00:16:31,350
 di un Frutto del Diavolo...?
 
-170
+168
 00:16:32,180 --> 00:16:35,970
 L'ho sottovalutato...
 
-171
+169
 00:16:55,620 --> 00:16:57,830
 Luffy! Stai bene?
 
-172
+170
 00:16:59,210 --> 00:17:00,170
 E lui?
 
-173
+171
 00:17:01,000 --> 00:17:02,540
 Bene... forse.
 
-174
+172
 00:17:02,920 --> 00:17:06,210
 Anzi, penso che altrimenti 
 non si sarebbe mai calmato.
 
-175
+173
 00:17:08,090 --> 00:17:09,470
 Ora sono arrabbiato!
 
-176
+174
 00:17:09,970 --> 00:17:11,220
 Eh?
 
-177
+175
 00:17:11,220 --> 00:17:16,470
 Quell'alcol, come diceva lui, 
 non è colpa dell'altro gigante
 
-178
+176
 00:17:16,470 --> 00:17:20,140
 e i miei compagni non farebbero mai qualcosa di così stupido!
 
-179
+177
 00:17:20,770 --> 00:17:22,600
 Allora... chi...?
 
-180
+178
 00:17:22,980 --> 00:17:25,730
 C'è qualcun altro... su quest'isola.
 
-181
+179
 00:17:34,280 --> 00:17:40,710
 Le sfide sono altamente 
 influenzate dagli stati mentali, sai?
 
-182
+180
 00:17:40,710 --> 00:17:43,130
 Al momento, sono confusi
 
-183
+181
 00:17:43,130 --> 00:17:48,590
 per via di un nemico invisibile e per
  il misterioso "servizio" esplosivo.
 
-184
+182
 00:17:49,260 --> 00:17:53,510
 Per prima cosa, il primo obiettivo, Dorry il Demone Blu...
 
-185
+183
 00:17:53,510 --> 00:17:56,100
 Sapevo che finirlo 
 sarebbe stato impossibile,
 
-186
+184
 00:17:56,100 --> 00:17:59,930
 ma il danno subito allo 
 stomaco è certamente notevole.
 
-187
+185
 00:17:59,930 --> 00:18:06,860
 Ora dobbiamo solo attendere che inizi
  il prossimo duello, magari bevendo un po' di tè.
 
-188
+186
 00:18:07,320 --> 00:18:11,360
 Quindi lasceremo che sia l'altro gigante a finire quello ferito?
 
-189
+187
 00:18:12,200 --> 00:18:14,530
 Esattamente.
 
-190
+188
 00:18:14,530 --> 00:18:16,330
 Hai proprio un modo contorto di agire.
 
-191
+189
 00:18:16,740 --> 00:18:21,500
 Questo perché fanno parte di una razza guerriera,
 sono proprio come dei cinghiali selvatici.
 
-192
+190
 00:18:21,500 --> 00:18:26,790
 Non c'è alcun motivo di combattere seriamente 
 con chi è abituato a fare solo scontri diretti.
 
-193
+191
 00:18:26,790 --> 00:18:29,380
 Anche se non possiamo 
 competere con la loro forza,
 
-194
+192
 00:18:29,380 --> 00:18:32,880
 abbiamo l'intelligenza per compensare.
 
-195
+193
 00:18:46,690 --> 00:18:48,110
 Sul serio...
 
-196
+194
 00:18:48,520 --> 00:18:51,820
 Non puoi prendertelo da sola, Miss Golden Week?
 
-197
+195
 00:18:52,400 --> 00:18:55,570
 Comunque, cosa dovremmo farne della Ciurma di Cappello di Paglia?
 
-198
+196
 00:18:55,570 --> 00:19:01,290
 Cappello di Paglia? Ooh, intendi quei 
 dilettanti che hanno scoperto il segreto del boss?
 
-199
+197
 00:19:01,870 --> 00:19:05,710
 Beh, basterà iniziare attirando quelli più facili da prendere
 
-200
+198
 00:19:06,500 --> 00:19:09,290
 verso il mio Service Set.
 
-201
+199
 00:19:10,380 --> 00:19:14,800
 Il mio motto è 
 "un crimine meschino è un grande crimine".
 
-202
+200
 00:19:16,760 --> 00:19:20,970
 Ci sono molti modi di sconfiggere 
 dei nemici anche senza combattere.
 
-203
+201
 00:19:25,560 --> 00:19:28,020
 Quella montagna... se non sbaglio...
 
-204
+202
 00:19:33,820 --> 00:19:35,360
 Il segnale, eh?
 
-205
+203
 00:19:36,530 --> 00:19:38,570
 Che giornata oggi, eh?
 
-206
+204
 00:19:38,570 --> 00:19:42,450
 V-Vai?! M-Ma le tue ferite del combattimento di prima–
 
-207
+205
 00:19:43,830 --> 00:19:44,960
 Cosa vuoi che sia!
 
-208
+206
 00:19:44,960 --> 00:19:47,460
 Siamo entrambi nelle stesse condizioni!
 
-209
+207
 00:19:51,670 --> 00:19:56,880
 Creare scuse in questo scontro
  mortale significa macchiare il proprio nome!
 
-210
+208
 00:20:04,060 --> 00:20:05,140
 Ehi! Aspetta, signore!
 
-211
+209
 00:20:05,770 --> 00:20:06,810
 Non andare!
 
-212
+210
 00:20:06,810 --> 00:20:09,270
 Non può, signor Dorry! Deve riposarsi!
 
-213
+211
 00:20:09,270 --> 00:20:11,400
 Se esagererà, finirà per morire!
 
-214
+212
 00:20:13,860 --> 00:20:17,150
 Io, il guerriero Dorry, sono qui.
 
-215
+213
 00:20:17,150 --> 00:20:18,240
 Almeno...
 
-216
+214
 00:20:19,410 --> 00:20:22,330
 combatterò in modo da non disonorare il nome di Elbaf!
 
-217
+215
 00:20:25,700 --> 00:20:28,540
 Bene, maestro Brogy! 
 Fai del tuo meglio!
 
-218
+216
 00:20:33,420 --> 00:20:35,300
 Ovviamente, Usopp!
 
-219
+217
 00:20:35,300 --> 00:20:38,220
 Questa volta ho intenzione di stenderlo come si deve!
 
-220
+218
 00:20:38,220 --> 00:20:41,600
 Sì! Dai del tuo meglio, guerriero di Elbaf!
 
-221
+219
 00:20:44,350 --> 00:20:46,390
 Forza!
 
-222
+220
 00:20:46,390 --> 00:20:48,140
 Sei grande!
 
-223
+221
 00:20:48,140 --> 00:20:50,150
 Sei fantastico!
 
-224
+222
 00:20:50,150 --> 00:20:51,650
 Sei forte!
 
-225
+223
 00:20:51,650 --> 00:20:53,770
 Sei enorme!
 
-226
+224
 00:20:53,770 --> 00:20:56,280
 Sei big! Sei me!
 
-227
+225
 00:20:54,400 --> 00:20:56,280
 Perché continuare una lotta così inutile?
 
-228
+226
 00:20:56,280 --> 00:20:58,450
 Non dire lotta inutile, scema!
 
-229
+227
 00:20:58,450 --> 00:21:01,780
 Ho detto che Brogy è il tipo di coraggioso
 guerriero del mare che voglio diventare!
 
-230
+228
 00:21:01,780 --> 00:21:04,740
 Ma mi stavi almeno ascoltando?!
 
-231
+229
 00:21:02,780 --> 00:21:04,740
 Comunque, torniamo sulla nave.
 
-232
+230
 00:21:05,620 --> 00:21:09,370
 È assurdo dover aspettare un anno che il Log finisca!
 
-233
+231
 00:21:09,370 --> 00:21:11,630
 Aspetteremo gli altri sulla 
 nave e penseremo a un piano.
 
-234
+232
 00:21:11,630 --> 00:21:13,040
 Ferma! Aspetta un attimo!
 
-235
+233
 00:21:15,550 --> 00:21:19,050
 Non saprei che pesci 
 prendere contro dei dinosauri!
 
-236
+234
 00:21:19,050 --> 00:21:23,760
 Di conseguenza, ci sarà impossibile 
 attraversare la giungla e raggiungere la nave!
 
-237
+235
 00:21:24,430 --> 00:21:28,310
 Non hai appena detto qualcosa 
 sull'essere un coraggioso guerriero del mare?
 
-238
+236
 00:21:28,310 --> 00:21:30,940
 Mi riferivo al mio spirito!
 
-239
+237
 00:21:30,940 --> 00:21:34,150
 Diventerò un uomo orgoglioso del suo modo di vivere!
 
-240
+238
 00:21:34,560 --> 00:21:35,820
 Non abbiamo scelta.
 
-241
+239
 00:21:35,820 --> 00:21:39,150
 Nella casa dell'altro gigante c'è il gruppo di Luffy, giusto?
 
-242
+240
 00:21:39,150 --> 00:21:41,110
 Andiamo da quella parte per ora...
 
-243
+241
 00:21:41,400 --> 00:21:42,740
 Ascolta, Nami.
 
-244
+242
 00:21:42,740 --> 00:21:45,620
 Anche se un giorno perdessi tutto
 
-245
+243
 00:21:45,620 --> 00:21:49,120
 e arrivassi a morire su un'isola deserta,
 
-246
+244
 00:21:49,120 --> 00:21:52,500
 potrò dire con orgoglio queste parole in punto di morte:
 
-247
+245
 00:21:52,500 --> 00:21:56,250
 "Sono il coraggioso guerriero del mare, Usopp!"
 
-248
+246
 00:21:58,130 --> 00:21:59,170
 Sì, sì.
 
-249
+247
 00:21:59,800 --> 00:22:03,130
 Allora, che ne dici di diventare in fretta 
 un guerriero su cui si può contare?
 
-250
+248
 00:22:03,130 --> 00:22:04,510
 Sì...
 
-251
+249
 00:22:04,510 --> 00:22:05,600
 Giusto!
 
-252
+250
 00:22:12,600 --> 00:22:14,060
 Cosa fai, signore?!
 
-253
+251
 00:22:14,060 --> 00:22:15,980
 Sposta questa roccia! Ehi!
 
-254
+252
 00:22:15,980 --> 00:22:17,820
 Non possiamo fermarci.
 
-255
+253
 00:22:21,070 --> 00:22:24,200
 Fu cento anni fa...
 
-256
+254
 00:22:26,240 --> 00:22:28,990
 che questo duello cominciò.
 
-257
+255
 00:22:30,910 --> 00:22:35,710
 Scappare da un combattimento 
 che si ha incominciato
 
-258
+256
 00:22:35,710 --> 00:22:38,550
 è come scappare dall'essere un guerriero.
 
-259
+257
 00:22:39,130 --> 00:22:41,920
 E se non fossi più un guerriero,
 
-260
+258
 00:22:41,920 --> 00:22:45,090
 non sarei più me stesso.
 
-261
+259
 00:22:46,430 --> 00:22:49,680
 Scusatemi per aver dubitato di voi.
 
-262
+260
 00:22:50,810 --> 00:22:53,350
 Questo viene dal dio del combattimento,
 
-263
+261
 00:22:54,900 --> 00:22:58,110
 è il giudizio espresso da Elbaf.
 
-264
+262
 00:22:59,270 --> 00:23:01,230
 Non avevo la sua protezione divina.
 
-265
+263
 00:23:01,230 --> 00:23:03,360
 Tutto qui.
 
-266
+264
 00:23:05,450 --> 00:23:10,620
 "Dio" e "protezione divina"?! 
 Cosa c'entra se esistono o meno?!
 
-267
+265
 00:23:10,620 --> 00:23:13,160
 Se un dio ti dice di morire, lo farai?!
 
-268
+266
 00:23:14,120 --> 00:23:16,250
 Ci sono state interferenze in questo duello!
 
-269
+267
 00:23:17,420 --> 00:23:19,460
 E un duello così,
 
-270
+268
 00:23:19,460 --> 00:23:20,750
 non è un duello!
 
-271
+269
 00:23:21,500 --> 00:23:22,510
 Giusto?!
 
-272
+270
 00:23:22,510 --> 00:23:24,720
 Zitto!
 
-273
+271
 00:23:26,510 --> 00:23:31,470
 Per voi che avete vissuto per 
 a malapena dieci o vent'anni...
 
-274
+272
 00:23:31,470 --> 00:23:35,520
 non è possibile udire le grandi parole di Elbaf.
 
-275
+273
 00:23:36,350 --> 00:23:37,850
 Chi se ne frega!
 
-276
+274
 00:23:37,850 --> 00:23:40,020
 Ehi! Sposta 'sta cosa!
 
-277
+275
 00:23:40,020 --> 00:23:41,320
 Ehi, signore!
 
-278
+276
 00:23:41,320 --> 00:23:45,530
 Idiota! Ehi! Signore! Aspetta, bastardo!
 
-279
+277
 00:23:45,950 --> 00:23:47,410
 Non riesco a spostarla!
 
-280
+278
 00:23:56,250 --> 00:23:57,290
 Dorry!
 
-281
+279
 00:23:57,290 --> 00:23:59,920
 Bere dell'alcol dopo tanto
 tempo è proprio speciale, vero?!
 
-282
+280
 00:24:00,920 --> 00:24:01,920
 Sì.
 
-283
+281
 00:24:01,920 --> 00:24:03,510
 Aveva un sapore divino.
 
-284
+282
 00:24:06,090 --> 00:24:08,640
 Che esagerato che sei! Andiamo al sodo!
 
-285
+283
 00:24:16,100 --> 00:24:18,480
 Che succede, Dorry?!
 
-286
+284
 00:24:18,480 --> 00:24:20,480
 Ti muovi lentamente!
 
-287
+285
 00:24:21,730 --> 00:24:24,360
 Che dici? Sono lo stesso di sempre!
 
-288
+286
 00:24:28,780 --> 00:24:31,320
 Stupido coso! Ehi!
 
-289
+287
 00:24:32,280 --> 00:24:35,540
 Proprio quando pensavo di aver incontrato un guerriero fantastico!
 
-290
+288
 00:24:36,370 --> 00:24:37,500
 Luffy...
 
-291
+289
 00:24:39,210 --> 00:24:43,210
 Perché si spinge così oltre per un gigante appena conosciuto?
 
-292
+290
 00:24:43,210 --> 00:24:46,720
 Non riesco a credere sia un
 fuorilegge con una taglia sulla testa.
 
-293
+291
 00:24:46,720 --> 00:24:47,970
 Chi è stato?!
 
-294
+292
 00:24:47,970 --> 00:24:51,050
 Chi si è intromesso nella lotta dei giganti?!
 
-295
+293
 00:24:52,680 --> 00:24:54,220
 Oh... ora che ci penso...!
 
-296
+294
 00:24:55,640 --> 00:24:56,730
 Karoo non c'è!
 
-297
+295
 00:25:05,190 --> 00:25:07,570
 Cavoli... mi sono perso.
 
-298
+296
 00:25:08,490 --> 00:25:11,820
 Però mi sembra di ricordare questo albero...
 
-299
+297
 00:25:11,820 --> 00:25:15,290
 Era a sinistra all'albero avvolto dalle liane, giusto?
 
-300
+298
 00:25:16,490 --> 00:25:18,540
 Oh! Nami!
 
-301
+299
 00:25:19,160 --> 00:25:21,000
 Tempismo perfetto!
 
-302
+300
 00:25:21,000 --> 00:25:24,170
 Sai, mi ero perso, non sapevo che fare.
 
-303
+301
 00:25:24,670 --> 00:25:27,050
 Comunque, che stai 
 facendo da queste parti?
 
-304
+302
 00:25:28,300 --> 00:25:29,130
 Ehi...
 
-305
+303
 00:25:29,130 --> 00:25:30,380
 Che hai?
 
-306
+304
 00:25:34,930 --> 00:25:36,890
 Un dinosauro!
 
-307
+305
 00:25:36,890 --> 00:25:38,890
 Dinosauro! Dinosauro! Dinosauro!
 
-308
+306
 00:25:41,730 --> 00:25:43,610
 Ehi! Sei troppo veloce!
 
-309
+307
 00:25:46,570 --> 00:25:48,280
 Uff, quel tipo...
 
-310
+308
 00:25:48,820 --> 00:25:49,780
 Luffy!
 
-311
+309
 00:25:50,360 --> 00:25:51,910
 Per fortuna!
 
-312
+310
 00:25:51,910 --> 00:25:54,070
 Cosa ci fai qui?
 
-313
+311
 00:26:07,920 --> 00:26:09,550
 Nami?
 
-314
+312
 00:26:20,350 --> 00:26:23,810
 Nami! Nami! Nami! Nami!
 
-315
+313
 00:26:25,190 --> 00:26:26,980
 Che guaio...
+

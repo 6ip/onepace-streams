@@ -1,1299 +1,1286 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:49,840 --> 00:01:59,850
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:51,800 --> 00:01:56,470
 Um, young lady...
 May I call you Aisa?
 
-4
+2
 00:01:56,470 --> 00:02:00,350
 Can you really tell where
 the Blue Sea folks' ship is headed?
 
-5
+3
 00:02:00,350 --> 00:02:01,270
 Yeah...
 
-6
+4
 00:02:01,270 --> 00:02:03,520
 What a mysterious power...
 
-7
+5
 00:02:03,520 --> 00:02:08,020
 Being able to hear people in
 the forest from this far away...
 
-8
+6
 00:02:08,020 --> 00:02:10,900
 Anyway, are you all right?
 
-9
+7
 00:02:10,900 --> 00:02:13,070
 You've been trembling
 for a while now.
 
-10
+8
 00:02:14,410 --> 00:02:15,490
 It's just...
 
-11
+9
 00:02:16,070 --> 00:02:20,120
 It's just that I've never
 felt so afraid before.
 
-12
+10
 00:02:20,120 --> 00:02:21,620
 Everyone's voices...
 
-13
+11
 00:02:22,120 --> 00:02:25,500
 Everyone's voices keep
 disappearing one after another...
 
-14
+12
 00:02:28,750 --> 00:02:30,250
 Yes, I'm sorry.
 
-15
+13
 00:02:30,250 --> 00:02:33,090
 Then we should hurry, Conis.
 
-16
+14
 00:02:33,090 --> 00:02:34,430
 Yes, Father.
 
-17
+15
 00:02:37,550 --> 00:02:40,680
 I've become a pirate at last!
 
-18
+16
 00:02:40,680 --> 00:02:43,690
 I think I'll look for the gold
 instead of the others!
 
-19
+17
 00:02:43,690 --> 00:02:45,020
 I'll surprise them all!
 
-20
+18
 00:02:48,770 --> 00:02:51,860
 That place seems suspicious to me...
 
-21
+19
 00:02:52,610 --> 00:02:53,740
 Who knows?
 
-22
+20
 00:02:54,490 --> 00:02:56,700
 Maybe everyone is over there...
 
-23
+21
 00:03:12,510 --> 00:03:13,880
 Hold on!
 
-24
+22
 00:03:13,880 --> 00:03:15,470
 You're leaving, weird knight?!
 
-25
+23
 00:03:15,470 --> 00:03:17,840
 My apologies, but I'm afraid
 I must pursue Enel.
 
-26
+24
 00:03:17,840 --> 00:03:20,640
 What?! You're just gonna
 leave a lady to fend for herself?!
 
-27
+25
 00:03:20,640 --> 00:03:22,680
 That is why I apologized.
 
-28
+26
 00:03:23,350 --> 00:03:29,690
 I don't have time to explain,
 but my men's lives are at stake.
 
-29
+27
 00:03:29,690 --> 00:03:30,730
 Nay...
 
-30
+28
 00:03:31,360 --> 00:03:33,360
 this entire land may be at stake...
 
-31
+29
 00:03:33,360 --> 00:03:34,860
 Can you fly, Pierre?
 
-32
+30
 00:03:36,070 --> 00:03:37,200
 You can't be serious...
 
-33
+31
 00:03:38,200 --> 00:03:40,200
 Hey, I said wait!
 
-34
+32
 00:03:40,200 --> 00:03:41,620
 You heartless jerk!
 
-35
+33
 00:03:41,620 --> 00:03:44,200
 And you call yourself god?!
 
-36
+34
 00:03:44,200 --> 00:03:47,790
 Get back here! Think this through!
 
-37
+35
 00:03:57,380 --> 00:04:00,390
 I should get these two
 patched up for now...
 
-38
+36
 00:04:00,390 --> 00:04:02,810
 You're both alive, right?!
 
-39
+37
 00:04:03,390 --> 00:04:05,640
 Come back soon, Chopper...
 
-40
+38
 00:04:07,350 --> 00:04:08,730
 Wh-What?! What was that?!
 
-41
+39
 00:04:14,190 --> 00:04:16,940
 Nami! Heso!
 
-42
+40
 00:04:17,820 --> 00:04:18,650
 Conis?!
 
-43
+41
 00:04:21,320 --> 00:04:22,200
 Heso!
 
-44
+42
 00:04:22,830 --> 00:04:24,040
 Mister!
 
-45
+43
 00:04:24,620 --> 00:04:26,620
 What are you doing here?
 
-46
+44
 00:04:29,750 --> 00:04:31,830
 Shut that horn off already!
 
-47
+45
 00:04:34,000 --> 00:04:36,050
 Let me go!
 
-48
+46
 00:04:36,050 --> 00:04:38,010
 Wait... No! You can't get off!
 
-49
+47
 00:04:38,010 --> 00:04:39,260
 Let me go!
 
-50
+48
 00:04:39,260 --> 00:04:42,010
 If you go any farther in,
 you'll never get out alive!
 
-51
+49
 00:04:42,010 --> 00:04:44,510
 We agreed to leave right away!
 
-52
+50
 00:04:44,510 --> 00:04:45,640
 Let go!
 
-53
+51
 00:04:45,010 --> 00:04:45,640
 No!
 
-54
+52
 00:04:45,640 --> 00:04:46,970
 Who's that kid?
 
-55
+53
 00:04:46,970 --> 00:04:48,980
 Oh, this is Aisa...
 
-56
+54
 00:04:48,980 --> 00:04:50,850
 Back off, Blue Sea scum!
 
-57
+55
 00:04:50,850 --> 00:04:52,230
 I'll eliminate you!
 
-58
+56
 00:04:52,230 --> 00:04:53,860
 I'm a warrior of Shandora!
 
-59
+57
 00:04:53,860 --> 00:04:57,490
 So? You're gonna fight me?
 Don't make me impact you.
 
-60
+58
 00:04:57,490 --> 00:05:00,820
 How awful! They're both charred
 black! They need first aid, quick!
 
-61
+59
 00:05:01,200 --> 00:05:02,820
 Sorry to interrupt,
 
-62
+60
 00:05:02,820 --> 00:05:05,330
 but you should sail onto
 the path we rode in on!
 
-63
+61
 00:05:06,370 --> 00:05:09,290
 It's a new river that
 we created with a milky dial.
 
-64
+62
 00:05:09,290 --> 00:05:12,790
 If you follow it, you can exit
 straight into the White-White Sea.
 
-65
+63
 00:05:12,790 --> 00:05:14,090
 Hurry, before we're seen...
 
-66
+64
 00:05:14,540 --> 00:05:17,380
 Shouldn't you have
 come more quietly then?!
 
-67
+65
 00:05:17,380 --> 00:05:21,380
 Oh, yes. I also have
 something for you.
 
-68
+66
 00:06:07,350 --> 00:06:09,930
 Oh, you're still at it?
 
-69
+67
 00:06:21,320 --> 00:06:23,200
 Sorry about that.
 
-70
+68
 00:06:23,200 --> 00:06:25,280
 I must've dozed off there.
 
-71
+69
 00:06:25,280 --> 00:06:27,200
 What's wrong?
 
-72
+70
 00:06:27,620 --> 00:06:29,290
 You seem to be in pain.
 
-73
+71
 00:06:29,950 --> 00:06:34,620
 Although, like I promised,
 I haven't done anything...
 
-74
+72
 00:06:36,000 --> 00:06:37,130
 I...
 
-75
+73
 00:06:39,380 --> 00:06:43,380
 can't... beat you...?
 
-76
+74
 00:06:46,970 --> 00:06:48,930
 Yes, that's right.
 
-77
+75
 00:06:50,560 --> 00:06:52,430
 Now do you understand?
 
-78
+76
 00:06:52,430 --> 00:06:54,980
 I am lightning.
 
-79
+77
 00:06:56,270 --> 00:07:00,570
 How could a mere man
 hope to defeat lightning?
 
-80
+78
 00:07:01,280 --> 00:07:06,110
 As a native of the sky, you've surely
 seen distant lightning before.
 
-81
+79
 00:07:06,110 --> 00:07:11,740
 Since ancient times, men have supplanted
 their fear of nature with the divine
 
-82
+80
 00:07:11,740 --> 00:07:15,960
 to flee from incomprehensible terror.
 
-83
+81
 00:07:16,670 --> 00:07:20,590
 They believe all supernatural
 phenomena are acts of gods
 
-84
+82
 00:07:20,590 --> 00:07:22,630
 beyond their understanding.
 
-85
+83
 00:07:25,470 --> 00:07:27,680
 Those calamities from the heavens
 
-86
+84
 00:07:27,680 --> 00:07:31,930
 that made humanity
 kneel in submission...
 
-87
+85
 00:07:32,640 --> 00:07:34,310
 They are me.
 
-88
+86
 00:07:41,610 --> 00:07:44,070
 Oh? A breath dial, huh?
 
-89
+87
 00:07:44,900 --> 00:07:48,110
 Burn Blade!
 
-90
+88
 00:08:12,100 --> 00:08:13,850
 I must tell Wyper!
 
-91
+89
 00:08:13,850 --> 00:08:15,980
 There's no point in fighting him!
 
-92
+90
 00:08:17,640 --> 00:08:19,230
 Wyper would only die in vain!
 
-93
+91
 00:08:19,770 --> 00:08:22,900
 Even if he risks his life,
 a reject will have no effect!
 
-94
+92
 00:08:23,650 --> 00:08:26,110
 So now you choose to run?
 
-95
+93
 00:08:26,650 --> 00:08:28,700
 I need to retreat and think!
 
-96
+94
 00:08:28,700 --> 00:08:30,030
 At this rate...
 
-97
+95
 00:08:30,030 --> 00:08:31,200
 At this rate...!
 
-98
+96
 00:08:37,870 --> 00:08:41,210
 Did you think you could move
 faster than lightning?
 
-99
+97
 00:08:44,050 --> 00:08:46,510
 Your five minutes are up.
 
-100
+98
 00:08:47,670 --> 00:08:49,800
 Now it's my turn.
 
-101
+99
 00:08:57,140 --> 00:09:01,150
 One Million Volts: Vari!
 
-102
+100
 00:09:02,020 --> 00:09:06,980
 Run Wyper!
 
-103
+101
 00:09:31,880 --> 00:09:33,090
 What was thaat?
 
-104
+102
 00:09:39,180 --> 00:09:41,140
 No!
 
-105
+103
 00:09:41,640 --> 00:09:43,150
 What?! What?!
 
-106
+104
 00:09:43,150 --> 00:09:45,400
 What's going on now?!
 
-107
+105
 00:09:45,400 --> 00:09:46,770
 What happened?!
 
-108
+106
 00:09:46,770 --> 00:09:48,230
 Their voices...
 
-109
+107
 00:09:48,230 --> 00:09:50,150
 are disappearing...!
 
-110
+108
 00:09:57,950 --> 00:09:58,990
 Pity...
 
-111
+109
 00:09:58,990 --> 00:10:02,830
 It seems the electricity traveled
 along the milky road.
 
-112
+110
 00:10:02,830 --> 00:10:06,460
 Twenty voices disappeared
 after that discharge.
 
-113
+111
 00:10:07,090 --> 00:10:09,050
 Fools...
 
-114
+112
 00:10:13,180 --> 00:10:18,350
 The eighty-one-man
 Upper Yard survival game...
 
-115
+113
 00:10:18,970 --> 00:10:21,600
 Two hours have passed.
 
-116
+114
 00:10:21,600 --> 00:10:25,650
 Fifty-six have fallen.
 
-117
+115
 00:10:26,810 --> 00:10:30,690
 Thirteen of God's Army remain.
 
-118
+116
 00:10:31,280 --> 00:10:35,200
 Five Straw Hats remain.
 
-119
+117
 00:10:36,780 --> 00:10:39,410
 Seven Shandians remain.
 
-120
+118
 00:10:40,660 --> 00:10:44,210
 That makes for a total
 of twenty-five left...
 
-121
+119
 00:10:45,080 --> 00:10:47,710
 That's more than I expected.
 
-122
+120
 00:10:48,420 --> 00:10:49,840
 No matter.
 
-123
+121
 00:10:49,840 --> 00:10:52,630
 I'll corner them all slowly but surely.
 
-124
+122
 00:10:53,800 --> 00:10:58,260
 Who will get to accompany
 me in the end?
 
-125
+123
 00:11:02,560 --> 00:11:04,060
 Amazing!
 
-126
+124
 00:11:04,060 --> 00:11:05,730
 You're incredible, Nami!
 
-127
+125
 00:11:08,110 --> 00:11:10,570
 It's all yours now!
 
-128
+126
 00:11:10,570 --> 00:11:12,400
 Yeah, thanks!
 
-129
+127
 00:11:13,400 --> 00:11:15,650
 I love it!
 
-130
+128
 00:11:15,650 --> 00:11:17,320
 It's so much faster!
 
-131
+129
 00:11:17,740 --> 00:11:21,620
 Yes. Jet dials went extinct
 hundreds of years ago,
 
-132
+130
 00:11:21,620 --> 00:11:27,540
 so I was shocked that the waver
 you left with me had one onboard!
 
-133
+131
 00:11:27,920 --> 00:11:31,670
 But... what do we do now?
 
-134
+132
 00:11:31,670 --> 00:11:36,300
 We had planned to escort you all
 to the edge of Skypiea, but...
 
-135
+133
 00:11:36,300 --> 00:11:37,470
 Yeah.
 
-136
+134
 00:11:37,930 --> 00:11:41,600
 For now, let's get the ship
 to the rendezvous coast.
 
-137
+135
 00:11:42,100 --> 00:11:44,520
 I'm sure they're doing fine...
 
-138
+136
 00:11:45,350 --> 00:11:48,730
 Well, the four of them
 together are unstoppable!
 
-139
+137
 00:11:48,730 --> 00:11:50,940
 There's no group of four on the island.
 
-140
+138
 00:11:51,360 --> 00:11:52,110
 Huh?
 
-141
+139
 00:11:53,650 --> 00:11:55,740
 At most, there are
 two-person groups.
 
-142
+140
 00:11:56,150 --> 00:11:59,910
 If there were four people
 moving together, I'd know!
 
-143
+141
 00:12:00,410 --> 00:12:02,200
 Mantra...
 
-144
+142
 00:12:02,950 --> 00:12:05,620
 The thing God and those priests use?
 
-145
+143
 00:12:06,870 --> 00:12:10,250
 I was born with it!
 
-146
+144
 00:12:10,250 --> 00:12:11,880
 That's why I'm afraid...
 
-147
+145
 00:12:12,460 --> 00:12:16,550
 You have no idea how scary
 it is hearing voices disappear!
 
-148
+146
 00:12:17,300 --> 00:12:19,180
 Are you gonna cry again?
 
-149
+147
 00:12:19,890 --> 00:12:22,430
 I am not crying,
 you stupid Blue Sea person!
 
-150
+148
 00:12:23,470 --> 00:12:26,850
 Her waver broke down,
 and we passed by
 
-151
+149
 00:12:26,850 --> 00:12:30,850
 just as a sky shark
 was about to attack her...
 
-152
+150
 00:12:30,850 --> 00:12:32,650
 What were you planning to do?!
 
-153
+151
 00:12:33,070 --> 00:12:34,530
 I don't know!
 
-154
+152
 00:12:34,530 --> 00:12:37,360
 But I can't just sit
 around doing nothing!
 
-155
+153
 00:12:40,740 --> 00:12:41,530
 Raki...
 
-156
+154
 00:12:42,070 --> 00:12:43,200
 Everyone...
 
-157
+155
 00:12:48,410 --> 00:12:51,420
 I hope everyone's all right...
 
-158
+156
 00:13:07,220 --> 00:13:10,440
 Man, this is no good...
 
-159
+157
 00:13:10,850 --> 00:13:16,650
 My bag's outside, and there's
 no fruit on all these rotting trees...
 
-160
+158
 00:13:16,650 --> 00:13:19,990
 I was really looking forward
 to that breakfast...
 
-161
+159
 00:13:20,860 --> 00:13:23,780
 What a weird cave I wound up in.
 
-162
+160
 00:13:23,780 --> 00:13:26,660
 I can't find the exit anywhere...
 
-163
+161
 00:13:27,660 --> 00:13:30,210
 I wonder if everyone's
 at the City of Gold by now.
 
-164
+162
 00:13:30,210 --> 00:13:32,960
 I bet it's pretty,
 all made out of gold...
 
-165
+163
 00:13:32,960 --> 00:13:38,630
 That reminds me, I once heard
 at a bar that gold stew tastes great...
 
-166
+164
 00:13:51,190 --> 00:13:53,100
 I've walked a long way.
 
-167
+165
 00:13:54,060 --> 00:13:55,560
 Guess I'll have that lunch...
 
-168
+166
 00:14:00,280 --> 00:14:01,280
 Who's there?!
 
-169
+167
 00:14:07,280 --> 00:14:09,160
 What's that supposed to mean?
 
-170
+168
 00:14:09,160 --> 00:14:10,790
 Don't tell me you're after my meal?!
 
-171
+169
 00:14:10,790 --> 00:14:11,460
 Huh?!
 
-172
+170
 00:14:12,120 --> 00:14:13,080
 Well, forget it!
 
-173
+171
 00:14:14,330 --> 00:14:16,420
 Quit staring at it!
 
-174
+172
 00:14:26,350 --> 00:14:27,760
 Stop following me!
 
-175
+173
 00:14:29,140 --> 00:14:32,020
 Listen! I already ate all my food!
 
-176
+174
 00:14:32,020 --> 00:14:35,270
 I don't have any more! Even if
 I did, I wouldn't give you any!
 
-177
+175
 00:14:35,270 --> 00:14:37,400
 Got it?! Now get lost!
 
-178
+176
 00:14:38,770 --> 00:14:41,150
 And you're walking all weird.
 
-179
+177
 00:14:41,150 --> 00:14:43,240
 Which way are you even facing?!
 
-180
+178
 00:14:44,740 --> 00:14:47,410
 You wanna take me on?! Huh?!
 
-181
+179
 00:14:50,450 --> 00:14:52,580
 In three hours,
 
-182
+180
 00:14:52,580 --> 00:14:56,880
 out of the eighty-one
 people on this island...
 
-183
+181
 00:14:56,880 --> 00:14:58,670
 five will remain.
 
-184
+182
 00:14:58,670 --> 00:15:01,800
 Only one hour left until
 the time I proclaimed is up...
 
-185
+183
 00:15:01,800 --> 00:15:03,550
 Current number of survivors...
 
-186
+184
 00:15:03,550 --> 00:15:05,470
 is twenty-five.
 
-187
+185
 00:15:08,050 --> 00:15:09,100
 This can't be!
 
-188
+186
 00:15:09,100 --> 00:15:11,930
 What is God Enel doing here?!
 
-189
+187
 00:15:11,930 --> 00:15:13,560
 He's going down!
 
-190
+188
 00:15:24,990 --> 00:15:28,370
 Twenty-four left.
 
-191
+189
 00:15:35,710 --> 00:15:37,000
 Oh, my.
 
-192
+190
 00:15:37,000 --> 00:15:40,290
 You're nothing but talk, Missy...
 
-193
+191
 00:15:42,920 --> 00:15:45,720
 Stomach Mountain!
 
-194
+192
 00:15:53,310 --> 00:15:54,730
 A runic statue!
 
-195
+193
 00:15:54,730 --> 00:15:56,850
 Veinte Fleurs!
 
-196
+194
 00:15:56,850 --> 00:15:58,020
 Calendula!
 
-197
+195
 00:16:10,780 --> 00:16:15,950
 How long are you going to keep
 protecting this withered old city?
 
-198
+196
 00:16:17,540 --> 00:16:18,620
 You don't seem...
 
-199
+197
 00:16:20,290 --> 00:16:24,630
 to have any respect for
 the vestiges of our ancestors.
 
-200
+198
 00:16:25,960 --> 00:16:28,470
 I care not for the past!
 
-201
+199
 00:16:29,470 --> 00:16:32,760
 Truly the words of a fool.
 
-202
+200
 00:16:35,060 --> 00:16:37,600
 Who do you take me for?!
 
-203
+201
 00:16:37,600 --> 00:16:39,520
 Punch Mountain!
 
-204
+202
 00:16:40,900 --> 00:16:45,940
 I need to move away from the ruins
 before this simpleton destroys them all!
 
-205
+203
 00:16:57,580 --> 00:16:59,670
 I chose to travel with Luffy,
 
-206
+204
 00:16:59,670 --> 00:17:03,250
 yet these ruins could hold clues
 about the untold history
 
-207
+205
 00:17:03,250 --> 00:17:04,960
 lost to the world below!
 
-208
+206
 00:17:20,690 --> 00:17:22,810
 How far are you going to run?
 
-209
+207
 00:17:54,720 --> 00:17:58,890
 Have you stopped running?
 
-210
+208
 00:17:58,890 --> 00:17:59,850
 Yes.
 
-211
+209
 00:18:00,480 --> 00:18:02,390
 It's too late now.
 
-212
+210
 00:18:03,230 --> 00:18:04,150
 Too late?
 
-213
+211
 00:18:05,650 --> 00:18:08,110
 Even if you repent,
 I won't forgive you!
 
-214
+212
 00:18:10,280 --> 00:18:12,780
 You won't forgive me?
 
-215
+213
 00:18:12,780 --> 00:18:15,660
 You certainly do adore
 those shabby ruins.
 
-216
+214
 00:18:15,660 --> 00:18:18,540
 Especially when they don't
 even belong to you...
 
-217
+215
 00:18:18,990 --> 00:18:20,330
 That's right.
 
-218
+216
 00:18:20,330 --> 00:18:22,370
 The ruins belong to no one.
 
-219
+217
 00:18:22,790 --> 00:18:26,500
 I don't feel like talking
 with you anymore.
 
-220
+218
 00:18:27,540 --> 00:18:29,170
 Don't worry.
 
-221
+219
 00:18:29,170 --> 00:18:32,130
 You won't have to...
 
-222
+220
 00:18:32,130 --> 00:18:35,930
 because this is where
 you get crushed to death!
 
-223
+221
 00:18:35,930 --> 00:18:38,430
 Drop Mountain!
 
-224
+222
 00:18:38,890 --> 00:18:41,810
 Now I can go all out!
 
-225
+223
 00:18:41,810 --> 00:18:43,600
 Treinta Fleurs!
 
-226
+224
 00:18:46,690 --> 00:18:49,150
 All you can do is rush
 forward like a bull...
 
-227
+225
 00:18:50,820 --> 00:18:54,070
 Realize the weight of
 the history you destroyed!
 
-228
+226
 00:18:54,950 --> 00:18:55,910
 Hang!
 
-229
+227
 00:19:01,160 --> 00:19:02,580
 He's so heavy!
 
-230
+228
 00:19:17,550 --> 00:19:18,220
 Take this!
 
-231
+229
 00:19:18,220 --> 00:19:20,180
 Tenfold Axe!
 
-232
+230
 00:19:21,560 --> 00:19:23,520
 Axe Mountain!
 
-233
+231
 00:19:26,350 --> 00:19:28,110
 My eyes!
 
-234
+232
 00:19:29,860 --> 00:19:30,940
 What are you–
 
-235
+233
 00:19:30,940 --> 00:19:31,530
 Huh?!
 
-236
+234
 00:19:31,940 --> 00:19:34,820
 Wait! The dials... They're backwards!
 
-237
+235
 00:19:34,820 --> 00:19:36,570
 Wait! The dials–
 
-238
+236
 00:19:57,180 --> 00:20:00,680
 Everything you destroyed was
 an exquisite, priceless treasure.
 
-239
+237
 00:20:01,300 --> 00:20:04,890
 Relics so precious it's impossible
 to measure their worth.
 
-240
+238
 00:20:05,770 --> 00:20:09,900
 History may repeat itself,
 but people can't go back in time.
 
-241
+239
 00:20:10,520 --> 00:20:13,570
 Though you don't seem
 to understand that.
 
-242
+240
 00:20:13,570 --> 00:20:17,570
 I... I understand...
 
-243
+241
 00:20:17,570 --> 00:20:22,030
 I won't ever... do it again...
 
-244
+242
 00:20:22,030 --> 00:20:22,780
 Please forgi–
 
-245
+243
 00:20:22,780 --> 00:20:23,950
 I will not.
 
-246
+244
 00:20:27,710 --> 00:20:29,000
 In that case...
 
-247
+245
 00:20:29,000 --> 00:20:31,840
 I just need to kill you!
 
-248
+246
 00:20:36,970 --> 00:20:39,890
 My fingers! Not my fingers!
 
-249
+247
 00:20:39,890 --> 00:20:41,430
 Cien Fleurs!
 
-250
+248
 00:20:44,350 --> 00:20:45,850
 Delphinium!
 
-251
+249
 00:20:46,270 --> 00:20:49,350
 What the...?! Stop!
 
-252
+250
 00:20:50,400 --> 00:20:53,270
 Wait! Where are you–
 
-253
+251
 00:20:54,520 --> 00:20:56,990
 Stop!
 
-254
+252
 00:20:57,860 --> 00:20:59,950
 It's too late for that now...
 
-255
+253
 00:21:01,660 --> 00:21:02,530
 Can't...
 
-256
+254
 00:21:03,660 --> 00:21:04,580
 breathe...
 
-257
+255
 00:21:09,790 --> 00:21:11,040
 Clutch!
 
-258
+256
 00:21:23,470 --> 00:21:25,430
 How barbaric...
 
-259
+257
 00:21:38,940 --> 00:21:42,030
 This should be the center of the city,
 
-260
+258
 00:21:42,660 --> 00:21:45,240
 but it doesn't match the map
 on the monument at all.
 
-261
+259
 00:21:46,200 --> 00:21:50,040
 Did everything get scattered
 from the impact of rising to the sky?
 
-262
+260
 00:22:59,190 --> 00:23:00,820
 That's strange...
 
-263
+261
 00:23:02,110 --> 00:23:03,860
 This is the City of Gold?
 
-264
+262
 00:23:04,650 --> 00:23:08,530
 As I thought, the size and topography
 are completely different.
 
-265
+263
 00:23:08,530 --> 00:23:10,290
 And what's most peculiar...
 
-266
+264
 00:23:19,840 --> 00:23:22,460
 The only entrance is at the top...
 
-267
+265
 00:23:28,050 --> 00:23:29,140
 Could it be?!
 
-268
+266
 00:23:58,380 --> 00:24:00,170
 There's a way down!
 
-269
+267
 00:24:14,180 --> 00:24:15,680
 It's so vast...
 
-270
+268
 00:24:16,180 --> 00:24:19,310
 These ruins extend so much deeper!
 
-271
+269
 00:24:19,690 --> 00:24:24,940
 I thought it was strange how Blue Sea
 ruins had island clouds for ground...
 
-272
+270
 00:24:25,530 --> 00:24:29,070
 The ruins above are just
 the upper parts of the city,
 
-273
+271
 00:24:29,070 --> 00:24:30,910
 eaten up by island clouds...
 
-274
+272
 00:24:31,530 --> 00:24:33,450
 There's still more below!
 
-275
+273
 00:25:02,110 --> 00:25:03,230
 Light?
 
-276
+274
 00:25:34,100 --> 00:25:38,640
 Eight-hundred years ago,
 the city of Shandora suddenly fell.
 
-277
+275
 00:25:39,270 --> 00:25:41,520
 It hardly seems that way, though.
 
-278
+276
 00:25:41,520 --> 00:25:46,110
 It's still so majestic and grand!
 
-279
+277
 00:25:46,690 --> 00:25:49,110
 This is Shandora, the City of Gold!
 
-280
+278
 00:26:13,090 --> 00:26:14,470
 Could it be?!
 
-281
+279
 00:26:23,900 --> 00:26:25,360
 Let me ask you a question...
 
-282
+280
 00:26:26,310 --> 00:26:29,860
 Can the untold history
 be brought to light?
 
-283
+281
 00:26:29,860 --> 00:26:32,610
 Are you saying that
 the poneglyphs hold that record?
 
-284
+282
 00:26:42,750 --> 00:26:47,210
 The ancient poneglyph script was
 displayed right out in the open...
 
-285
+283
 00:26:48,800 --> 00:26:55,140
 Only those who created the poneglyphs
 could use these symbols!
 
-286
+284
 00:26:55,140 --> 00:26:57,760
 "Hold the truth in your heart,
 and speak not of it.
 
-287
+285
 00:26:58,430 --> 00:27:01,180
 We are the ones who weave history...
 
-288
+286
 00:27:01,680 --> 00:27:04,770
 with the sounding of the grand bell..."
 
-289
+287
 00:27:06,770 --> 00:27:08,110
 That's right!
 
-290
+288
 00:27:08,610 --> 00:27:14,700
 Noland's logbook did mention
 a giant gold bell here...
 
-291
+289
 00:27:16,110 --> 00:27:19,620
 All of the city's writings
 were burned...
 
-292
+290
 00:27:21,740 --> 00:27:25,080
 The city's history was eradicated!
 
-293
+291
 00:27:32,380 --> 00:27:36,180
 They'll manage somehow, right?
 
-294
+292
 00:27:41,720 --> 00:27:43,730
 Quit following me!
 
-295
+293
 00:27:46,690 --> 00:27:48,650
 Now it goes down?
 
-296
+294
 00:27:50,440 --> 00:27:53,820
 A poneglyph was carried into the city!
 
-297
+295
 00:27:53,820 --> 00:27:56,320
 There's no question about it!
 
-298
+296
 00:27:56,320 --> 00:27:58,200
 This city was under siege!
 
-299
+297
 00:27:59,570 --> 00:28:01,740
 Shandora, the City of Gold,
 
-300
+298
 00:28:01,740 --> 00:28:05,580
 fought and fell trying
 to protect that poneglyph!
 
-301
+299
 00:28:09,040 --> 00:28:13,500
 In which case, the grand belfry
 located in the center of the four altars...
 
-302
+300
 00:28:14,260 --> 00:28:17,380
 might contain the true history...
 
-303
+301
 00:28:19,640 --> 00:28:21,970
 The rio poneglyph!
+

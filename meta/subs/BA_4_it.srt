@@ -1,1118 +1,1112 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:01:54,680 --> 00:01:56,930
 Wow~!
 
-4
+2
 00:01:56,930 --> 00:01:58,770
 Sono pronti a combattere pure loro!
 
-5
+3
 00:02:00,520 --> 00:02:01,810
 Mi sto proprio scaldando!
 
-6
+4
 00:02:02,440 --> 00:02:04,600
 Vecchio, siamo d'accordo, giusto?
 
-7
+5
 00:02:04,600 --> 00:02:08,780
 Se li caccio, smetterò di fare lo sguattero.
 Va bene per te, no?
 
-8
+6
 00:02:08,780 --> 00:02:10,150
 Non desidero altro.
 
-9
+7
 00:02:10,150 --> 00:02:14,740
 Se ti lasciassi lavorare qui per un anno, 
 il locale diventerebbe un disastro.
 
-10
+8
 00:02:15,110 --> 00:02:16,450
 Ottimo~!
 
-11
+9
 00:02:16,450 --> 00:02:21,120
 Quindi... vorresti diventare il 
 Re dei Pirati, giusto? Fai sul serio?
 
-12
+10
 00:02:22,080 --> 00:02:26,420
 Prendendoci quella nave,
  non avremo nulla da temere nella Grand Line!
 
-13
+11
 00:02:27,210 --> 00:02:31,840
 Piuttosto di fingerci una nave della Marina
 o di sventolare bandiera bianca,
 
-14
+12
 00:02:32,840 --> 00:02:37,140
 con quella, potremo avvicinarci più 
 efficacemente ai nemici e attaccarli di sorpresa.
 
-15
+13
 00:02:37,680 --> 00:02:40,560
 Sarebbe il miglior modo per ingannarli.
 
-16
+14
 00:02:40,560 --> 00:02:42,850
 Certamente, con una nave così ridicola...
 
-17
+15
 00:02:42,850 --> 00:02:46,520
 nessuno penserebbe che 
 ci siano dei pirati a bordo.
 
-18
+16
 00:02:46,520 --> 00:02:51,400
 M-Ma, Don...! Anche se tornassimo nella Grand Line con quella nave,
 
-19
+17
 00:02:51,400 --> 00:02:55,660
 se apparisse qualcuno come quel
 Mihawk Occhi di Falco, cosa succederebbe...
 
-20
+18
 00:02:59,530 --> 00:03:03,660
 Siete ancora terrorizzati da uno come quello?
 
-21
+19
 00:03:03,660 --> 00:03:05,040
 N-No...
 
-22
+20
 00:03:05,040 --> 00:03:09,000
 Pensate davvero che un semplice uomo
 possa tagliare una nave così grande?!
 
-23
+21
 00:03:10,460 --> 00:03:13,970
 Probabilmente si tratta del 
 potere di un Frutto del Diavolo.
 
-24
+22
 00:03:13,970 --> 00:03:18,010
 Seppur coloro che hanno quei poteri siano
  considerati leggende dal mondo,
 
-25
+23
 00:03:18,010 --> 00:03:21,430
 la Grand Line ne è piena zeppa.
 
-26
+24
 00:03:21,890 --> 00:03:26,940
 Mihawk deve aver usato qualche tipo di potere quando ha tagliato la nave.
 
-27
+25
 00:03:26,940 --> 00:03:33,360
 Anche quel moccioso dal cappello di paglia sarà 
  solo un pirata come un altro quando ci entrerà.
 
-28
+26
 00:03:34,240 --> 00:03:40,370
 Ma Zeff Gamba Scarlatta ci ha navigato per un anno.
 
-29
+27
 00:03:42,830 --> 00:03:47,710
 Deve aver pur avuto delle strategie per affrontare quei mostri.
 
-30
+28
 00:03:48,330 --> 00:03:53,800
 E quelle strategie devono essere scritte
  nel diario di bordo in suo possesso!
 
-31
+29
 00:03:54,300 --> 00:03:57,300
 Magari insieme a qualche informazione sul One Piece!
 
-32
+30
 00:03:57,630 --> 00:04:00,050
 Capisco. Non speravamo di meglio, Don Krieg!
 
-33
+31
 00:04:00,050 --> 00:04:05,270
 Se avessimo quella nave e il diario di bordo,
 la strada verso il One Piece si aprirebbe di nuovo!
 
-34
+32
 00:04:05,270 --> 00:04:07,310
 Tutto chiaro, uomini?
 
-35
+33
 00:04:07,310 --> 00:04:09,650
 Andiamo! Prendiamoci quel ristorante!
 
-36
+34
 00:04:09,650 --> 00:04:11,230
 – Sì!
 – Sì!
 
-37
+35
 00:04:12,150 --> 00:04:14,940
 Questa nave appartiene a noi cuochi!
 
-38
+36
 00:04:14,940 --> 00:04:17,780
 Vai nella sala di controllo e apri le pinne.
 
-39
+37
 00:04:17,780 --> 00:04:21,120
 Eh, cos-?! Vuoi aprire le pinne?!
 
-40
+38
 00:04:21,120 --> 00:04:23,490
 Darebbero un punto d'appoggio al nemico!
 
-41
+39
 00:04:23,490 --> 00:04:24,950
 Non importa.
 
-42
+40
 00:04:24,950 --> 00:04:28,500
 Non possiamo rendere l'interno del ristorante un campo di battaglia.
 
-43
+41
 00:04:28,500 --> 00:04:32,250
 Se lo diventasse,
  il vecchio di merda si lamenterebbe.
 
-44
+42
 00:04:32,250 --> 00:04:34,380
 Hai detto qualcosa, moccioso di merda?
 
-45
+43
 00:04:34,380 --> 00:04:37,130
 Sì, ho detto che sei una rottura! Dai, vai.
 
-46
+44
 00:04:37,130 --> 00:04:38,470
 S-S-Sì...
 
-47
+45
 00:04:41,220 --> 00:04:44,600
 Arrivano, arrivano! Finalmente arrivano!
 
-48
+46
 00:04:44,600 --> 00:04:46,220
 Andiamo!
 
-49
+47
 00:04:46,220 --> 00:04:49,020
 Gum Gum Rocket!
 
-50
+48
 00:04:49,640 --> 00:04:51,310
 Sta volando qui!
 
-51
+49
 00:04:51,770 --> 00:04:52,650
 E...
 
-52
+50
 00:04:52,650 --> 00:04:54,940
 Gum Gum...
 
-53
+51
 00:04:54,900 --> 00:04:57,030
 Falce!
 
-54
+52
 00:05:07,290 --> 00:05:09,540
 Ci sa fare, quello sguattero!
 
-55
+53
 00:05:09,540 --> 00:05:11,080
 C-Chi diamine...
 
-56
+54
 00:05:11,080 --> 00:05:12,460
 è quel tizio?!
 
-57
+55
 00:05:12,460 --> 00:05:17,340
 La Grand Line è piena zeppa di tipi come lui?
 
-58
+56
 00:05:17,340 --> 00:05:18,510
 Sanji!
 
-59
+57
 00:05:19,340 --> 00:05:22,300
 Guarda attentamente come combatte.
 
-60
+58
 00:05:22,680 --> 00:05:26,180
 Attaccare il ristorante che ti ha appena dato da mangiare...
 
-61
+59
 00:05:26,180 --> 00:05:29,560
 Te la farò vedere io, ingrato!
 
-62
+60
 00:05:31,850 --> 00:05:34,810
 Sei sicuro di voler combattere qui in mare dove non ci sono appigli?
 
-63
+61
 00:05:34,810 --> 00:05:39,820
 Si sa che quelli con il potere di un 
 Frutto del Diavolo sono deboli al mare...
 
-64
+62
 00:05:39,820 --> 00:05:40,990
 vero, specie di masso?
 
-65
+63
 00:05:40,990 --> 00:05:43,320
 Già è così, ma almeno posso allungarmi!
 
-66
+64
 00:05:46,280 --> 00:05:49,250
 Sanji! Sto aprendo le pinne!
 
-67
+65
 00:06:03,050 --> 00:06:04,760
 Dal mare...
 
-68
+66
 00:06:05,300 --> 00:06:07,640
 è apparsa una piattaforma!
 
-69
+67
 00:06:18,980 --> 00:06:21,900
 Wow! Che figata!
 
-70
+68
 00:06:26,120 --> 00:06:29,620
 Combattiamo fino all'ultimo sangue, pirati.
 
-71
+69
 00:06:29,620 --> 00:06:30,870
 Capisco.
 
-72
+70
 00:06:30,870 --> 00:06:34,250
 Un campo di battaglia per evitare di danneggiare l'interno, eh?
 
-73
+71
 00:06:34,830 --> 00:06:38,750
 Sarà utile anche a noi per conquistare la nave.
 
-74
+72
 00:06:38,750 --> 00:06:42,170
 La voglio sempre di più quella nave!
 
-75
+73
 00:06:43,220 --> 00:06:46,050
 Non vi lasceremo prendere questo locale così facilmente!
 
-76
+74
 00:06:46,050 --> 00:06:48,430
 Giusto! Non sottovalutateci!
 
-77
+75
 00:06:48,430 --> 00:06:50,970
 Siamo cuochi combattenti!
 
-78
+76
 00:06:58,730 --> 00:07:02,860
 Partenza! 
 Arma navale del Baratie: Testa di Sgombro I!
 
-79
+77
 00:07:02,860 --> 00:07:06,700
 Chiunque non voglia morire, 
 scappi a gambe levate!
 
-80
+78
 00:07:10,240 --> 00:07:11,740
 Che roba è?
 
-81
+79
 00:07:11,740 --> 00:07:14,210
 Che figata! La voglio!
 
-82
+80
 00:07:14,210 --> 00:07:15,920
 Pedala più velocemente!
 
-83
+81
 00:07:15,920 --> 00:07:16,710
 Lo sto già facendo!
 
-84
+82
 00:07:18,710 --> 00:07:20,540
 Fuoco!
 
-85
+83
 00:07:25,340 --> 00:07:27,090
 Affondo!
 
-86
+84
 00:07:28,680 --> 00:07:29,850
 Ce l'hanno fatta! Grandi!
 
-87
+85
 00:07:29,850 --> 00:07:33,520
 Patty, Carne! Fateli fuori!
 
-88
+86
 00:07:35,730 --> 00:07:37,190
 Ci sanno fare!
 
-89
+87
 00:07:39,190 --> 00:07:42,400
 Non girarti! Miriamo al prossimo!
 
-90
+88
 00:07:42,400 --> 00:07:44,150
 Sì!
 
-91
+89
 00:07:44,150 --> 00:07:46,950
 Krieg! Preparati!
 
-92
+90
 00:07:47,360 --> 00:07:52,910
 Osserva la potenza della nostra arma navale,
 l'orgoglio del ristorante galleggiante Baratie!
 
-93
+91
 00:08:02,670 --> 00:08:04,670
 Che succede? Abbiamo colpito qualcosa?
 
-94
+92
 00:08:04,670 --> 00:08:06,590
 Eh?! Non si muove!
 
-95
+93
 00:08:07,130 --> 00:08:09,180
 Io sono Don Krieg!
 
-96
+94
 00:08:09,930 --> 00:08:12,470
 Il re di tutti i mari del mondo!
 
-97
+95
 00:08:12,470 --> 00:08:14,430
 Ma quello sono io!
 
-98
+96
 00:08:14,430 --> 00:08:17,690
 Non ho tempo da perdere con i vostri giochetti!
 
-99
+97
 00:08:22,610 --> 00:08:24,690
 Che forza sovrumana!
 
-100
+98
 00:08:33,160 --> 00:08:35,540
 Sta venendo da questa parte!
 
-101
+99
 00:08:35,540 --> 00:08:38,080
 Il ristorante verrà distrutto!
 
-102
+100
 00:08:55,560 --> 00:08:56,640
 – Sanji!
 – Sanji!
 
-103
+101
 00:08:56,640 --> 00:08:58,270
 Con... la gamba?!
 
-104
+102
 00:09:10,450 --> 00:09:12,570
 C-Che gambe forti!
 
-105
+103
 00:09:12,570 --> 00:09:15,410
 Ha rimandato indietro a calci quella stramba nave!
 
-106
+104
 00:09:15,950 --> 00:09:17,750
 Quell'abilità con le gambe...
 
-107
+105
 00:09:17,750 --> 00:09:19,040
 Ci sa fare!
 
-108
+106
 00:09:23,250 --> 00:09:24,750
 Sanji, bastardo!
 
-109
+107
 00:09:24,750 --> 00:09:26,340
 Volevi far fuori i tuoi alleati?!
 
-110
+108
 00:09:26,960 --> 00:09:27,710
 Sì.
 
-111
+109
 00:09:27,710 --> 00:09:30,630
 Che diavolo significa "sì", 
 polpo pazzo che non sei altro?!
 
-112
+110
 00:09:30,630 --> 00:09:35,470
 Stavamo per perdere buona parte della
  nostra potenza, stupido spaghetto!
 
-113
+111
 00:09:35,930 --> 00:09:41,100
 Vi sembra proprio il momento adatto 
  per un duo comico, stupidi cuochi?
 
-114
+112
 00:09:42,190 --> 00:09:43,810
 Facciamoli fuori!
 
-115
+113
 00:09:51,950 --> 00:09:54,370
 Anche se sono armati,
   i cuochi rimangono cuochi.
 
-116
+114
 00:09:54,370 --> 00:09:57,740
 Rispetto a noi combattenti esperti, il loro livello è ben inferiore.
 
-117
+115
 00:09:57,740 --> 00:10:02,370
 Fate i bravi e andatevene a cucinare sulla terraferma.
 
-118
+116
 00:10:02,370 --> 00:10:06,040
 Ehi, voi! Perché state perdendo così facilmente?!
 
-119
+117
 00:10:06,040 --> 00:10:08,250
 E vi fate pure chiamare cuochi combattenti?!
 
-120
+118
 00:10:09,130 --> 00:10:10,210
 Sono forti!
 
-121
+119
 00:10:10,590 --> 00:10:13,380
 Sono avversari completamente diversi dagli altri!
 
-122
+120
 00:10:13,380 --> 00:10:16,970
 Non confrontateci con quei piratucoli della zona.
 
-123
+121
 00:10:16,970 --> 00:10:21,230
 Siamo i conquistatori dell'East Blue,
  i Pirati di Krieg.
 
-124
+122
 00:10:21,230 --> 00:10:27,190
 Dichiarate loro che quella nave è ormai diventata dei Pirati di Krieg!
 
-125
+123
 00:10:27,190 --> 00:10:29,480
 Sono cuoco da dieci anni.
 
-126
+124
 00:10:29,480 --> 00:10:31,820
 Sono stato in trecento ristoranti.
 
-127
+125
 00:10:31,820 --> 00:10:34,910
 Erano giorni duri in cui venivamo
 licenziati solo perché causavamo risse.
 
-128
+126
 00:10:34,910 --> 00:10:38,910
 Dopo aver saltato da un posto all'altro,
 siamo giunti in questo locale.
 
-129
+127
 00:10:40,200 --> 00:10:41,910
 Permesso!
 
-130
+128
 00:10:41,910 --> 00:10:45,540
 È questo il ristorante di Zeff Gamba Scarlatta?!
 
-131
+129
 00:10:45,540 --> 00:10:48,380
 La scritta "i cuochi stronzi 
 sono i benvenuti" è vera, no?!
 
-132
+130
 00:10:51,880 --> 00:10:54,090
 Sì, è vero.
 
-133
+131
 00:10:56,590 --> 00:11:00,510
 Che siano veri delinquenti 
 o criminali evasi dalla prigione,
 
-134
+132
 00:11:00,510 --> 00:11:05,140
 se stanno morendo di fame e raggiungono questo ristorante,
 
-135
+133
 00:11:05,140 --> 00:11:07,650
 li farò mangiare finché non saranno sazi.
 
-136
+134
 00:11:07,650 --> 00:11:11,650
 Siete pronti a questo?
 
-137
+135
 00:11:11,650 --> 00:11:13,030
 – S-Sì!
 – S-Sì!
 
-138
+136
 00:11:19,120 --> 00:11:21,910
 Non possiamo servire una zuppa così schifosa ai clienti!
 
-139
+137
 00:11:22,330 --> 00:11:23,950
 Perché mi hai colpito?!
 
-140
+138
 00:11:23,950 --> 00:11:25,710
 È un segno di determinazione!
 
-141
+139
 00:11:25,710 --> 00:11:27,210
 Taci!
 
-142
+140
 00:11:27,210 --> 00:11:30,880
 Possiamo scatenarci e cucinare quanto ci pare.
 
-143
+141
 00:11:30,880 --> 00:11:33,960
 Non esiste locale migliore di questo!
 
-144
+142
 00:11:33,960 --> 00:11:35,170
 Così dicono.
 
-145
+143
 00:11:35,170 --> 00:11:37,180
 Hai capito, Krieg?
 
-146
+144
 00:11:37,640 --> 00:11:41,640
 Ogni giorno, cucinare era 
 come un campo di battaglia.
 
-147
+145
 00:11:41,640 --> 00:11:46,140
 In confronto, quello di oggi non è nulla!
 
-148
+146
 00:11:46,140 --> 00:11:47,600
 Hai ragione!
 
-149
+147
 00:11:47,600 --> 00:11:48,650
 Combattiamo!
 
-150
+148
 00:11:48,650 --> 00:11:49,310
 – Sì!
 – Sì!
 
-151
+149
 00:11:49,310 --> 00:11:51,770
 Proteggiamo il proprietario!
 
-152
+150
 00:11:50,110 --> 00:11:51,770
 Proteggiamo il locale!
 
-153
+151
 00:12:04,540 --> 00:12:05,750
 Q-Quello è...!
 
-154
+152
 00:12:13,920 --> 00:12:16,550
 Cosa state facendo?
 
-155
+153
 00:12:17,840 --> 00:12:19,890
 Chi è quello?
 
-156
+154
 00:12:22,970 --> 00:12:24,890
 Di ferro, quindi invincibile!
 
-157
+155
 00:12:24,890 --> 00:12:27,850
 L'invincibile muro umano dei Pirati di Krieg,
 
-158
+156
 00:12:28,230 --> 00:12:30,480
 sono io, il signor Pearl.
 
-159
+157
 00:12:30,850 --> 00:12:32,190
 Signor Pearl!
 
-160
+158
 00:12:32,560 --> 00:12:35,150
 Patty! Carne! State bene?
 
-161
+159
 00:12:35,150 --> 00:12:42,120
 Non stanno bene perché sono stati colpiti
 dal mio pugno assassino, il "Pearl Present"~.
 
-162
+160
 00:12:44,240 --> 00:12:48,210
 Oh! Guarda, guarda!
 Ma che bel coltello! Me lo prendo io.
 
-163
+161
 00:12:49,040 --> 00:12:54,000
 Ehi, mollalo! Dammelo!
 Lascialo andare, bastardo mezzo morto!
 
-164
+162
 00:13:06,520 --> 00:13:09,100
 Quel tipo è proprio bravo con i calci!
 
-165
+163
 00:13:09,100 --> 00:13:11,440
 Il coltello da cucina è l'anima di un cuoco.
 
-166
+164
 00:13:11,440 --> 00:13:15,070
 Voi principianti non dovreste
  toccarlo nemmeno con un dito.
 
-167
+165
 00:13:15,690 --> 00:13:16,780
 Sanji...
 
-168
+166
 00:13:17,360 --> 00:13:19,400
 Tientelo stretto e sta giù.
 
-169
+167
 00:13:20,400 --> 00:13:22,490
 Li sistemo io.
 
-170
+168
 00:13:22,820 --> 00:13:25,990
 Come se un semplice cuoco potesse sconfiggerci!
 
-171
+169
 00:13:34,130 --> 00:13:35,590
 Un "semplice cuoco"?!
 
-172
+170
 00:13:35,590 --> 00:13:38,010
 Vi taglio in tre, bastardi!
 
-173
+171
 00:13:39,970 --> 00:13:43,140
 Sei un po' sfrontato a voler
 usare solo i calci per batterli.
 
-174
+172
 00:13:43,140 --> 00:13:45,100
 È la tua policy?
 
-175
+173
 00:13:45,430 --> 00:13:47,430
 Per un cuoco, le mani sono la vita.
 
-176
+174
 00:13:47,430 --> 00:13:50,520
 Non posso permettermi di ferirle in combattimento.
 
-177
+175
 00:13:50,520 --> 00:13:53,060
 Farò fuori anche te con queste gambe.
 
-178
+176
 00:13:53,060 --> 00:13:54,520
 Farmi fuori?
 
-179
+177
 00:13:54,520 --> 00:13:55,940
 Impossibile~.
 
-180
+178
 00:13:55,940 --> 00:14:00,990
 Finora ho vinto tutte le mie sessantuno battaglie 
  senza un graffio, come un muro di ferro.
 
-181
+179
 00:14:01,610 --> 00:14:05,910
 Non ho mai versato nemmeno una goccia di sangue in combattimento.
 
-182
+180
 00:14:05,910 --> 00:14:08,120
 Neanche una singola goccia.
 
-183
+181
 00:14:08,540 --> 00:14:10,950
 Vincere senza ferite è prova della mia forza!
 
-184
+182
 00:14:13,040 --> 00:14:16,000
 Sono un uomo scudo e un gentiluomo.
 
-185
+183
 00:14:16,420 --> 00:14:17,960
 Sono raffinato, non trovi?
 
-186
+184
 00:14:18,460 --> 00:14:21,420
 Era una battuta? Non era per niente divertente.
 
-187
+185
 00:14:21,420 --> 00:14:23,180
 Ehi, moccioso dal cappello di paglia!
 
-188
+186
 00:14:23,180 --> 00:14:25,260
 Se ti distrai, ti farai male!
 
-189
+187
 00:14:31,810 --> 00:14:34,810
 Anche i cannoni delle navi da guerra non funzionano su di me.
 
-190
+188
 00:14:34,810 --> 00:14:36,770
 Rimango illeso a ogni attacco!
 
-191
+189
 00:14:39,980 --> 00:14:42,280
 Aah, mi ha preso alla sprovvista!
 
-192
+190
 00:14:42,280 --> 00:14:43,990
 Per fortuna non sono caduto in mare.
 
-193
+191
 00:14:47,660 --> 00:14:48,530
 Eh?
 
-194
+192
 00:14:50,160 --> 00:14:51,620
 Si mette male.
 
-195
+193
 00:14:51,620 --> 00:14:52,870
 Sangue! Oddio!
 
-196
+194
 00:14:52,870 --> 00:14:54,580
 Signor Pearl, va tutto bene!
 
-197
+195
 00:14:54,960 --> 00:14:56,330
 È solo sangue dal naso!
 
-198
+196
 00:14:56,330 --> 00:14:58,590
 Non è una ferita da combattimento!
 
-199
+197
 00:14:58,590 --> 00:15:01,050
 Si calmi, signor Pearl!
 
-200
+198
 00:15:01,050 --> 00:15:02,050
 Che succede?
 
-201
+199
 00:15:02,460 --> 00:15:05,010
 Q-Q-Q-Questi tizi sono pericolosi!
 
-202
+200
 00:15:05,380 --> 00:15:08,010
 Cos'ha? È strano.
 
-203
+201
 00:15:08,760 --> 00:15:10,470
 È per il sangue dal naso?
 
-204
+202
 00:15:13,600 --> 00:15:15,560
 Fermo, Pearl!
 
-205
+203
 00:15:15,560 --> 00:15:17,940
 È solo sangue dal naso, non serve arrabbiarsi!
 
-206
+204
 00:15:20,480 --> 00:15:22,360
 Cosa sta per cominciare?
 
-207
+205
 00:15:22,690 --> 00:15:28,370
 Pericolo! Pericolo! Pericolo!
 
-208
+206
 00:15:32,120 --> 00:15:33,830
 Oddio, eccolo!
 
-209
+207
 00:15:33,830 --> 00:15:37,000
 Quando il signor Pearl si agita, prende fuoco!
 
-210
+208
 00:15:37,000 --> 00:15:38,040
 Come?
 
-211
+209
 00:15:38,880 --> 00:15:42,590
 Fire Pearl...
 
-212
+210
 00:15:43,210 --> 00:15:46,010
 Grande Vantaggio!
 
-213
+211
 00:15:47,970 --> 00:15:50,850
 Signor Pearl! Si fermi!
 
-214
+212
 00:15:52,930 --> 00:15:56,690
 B-Bruciate! Con queste fiamme e
  questo scudo infuocato,
 
-215
+213
 00:15:56,690 --> 00:15:58,900
 sono completamente inespugnabile!
 
-216
+214
 00:16:00,810 --> 00:16:04,900
 Che idiota! Ha intenzione di arrostire
  completamente la nave che vogliamo prendere?!
 
-217
+215
 00:16:04,900 --> 00:16:07,740
 Ahi, ahi, ahi, ahi...
 
-218
+216
 00:16:06,240 --> 00:16:07,240
 Dannazione...
 
-219
+217
 00:16:07,740 --> 00:16:11,240
 Maledizione! Siamo in mezzo al mare, non ci sono vie di fuga!
 
-220
+218
 00:16:11,240 --> 00:16:13,950
 Oh no! Il ristorante prenderà fuoco!
 
-221
+219
 00:16:14,450 --> 00:16:16,460
 Questo ristorante brucerà?
 
-222
+220
 00:16:16,460 --> 00:16:17,750
 Brucia! Brucia!
 
-223
+221
 00:16:17,750 --> 00:16:18,870
 Bastardo!
 
-224
+222
 00:16:19,210 --> 00:16:21,840
 Stupido! Ti scotterai, Sanji!
 
-225
+223
 00:16:22,750 --> 00:16:24,340
 Non ti lascerò
 
-226
+224
 00:16:24,340 --> 00:16:27,170
 mandare in fiamme il locale!
 
-227
+225
 00:16:30,390 --> 00:16:32,930
 C-Che incosciente!
 
-228
+226
 00:16:32,930 --> 00:16:34,680
 Vuole diventare una palla di fuoco?!
 
-229
+227
 00:16:35,270 --> 00:16:38,190
 Neanche le bestie feroci si avvicinano al Fire Pearl...
 
-230
+228
 00:16:40,270 --> 00:16:41,560
 Stupido!
 
-231
+229
 00:16:41,560 --> 00:16:44,150
 Se avessi paura del fuoco, come potrei fare il cuoco?
 
-232
+230
 00:16:44,150 --> 00:16:46,530
 D-Dannazione!
 
-233
+231
 00:16:46,530 --> 00:16:48,570
 Che tipo raffinato!
 
-234
+232
 00:16:49,570 --> 00:16:50,410
 Arrivo!
 
-235
+233
 00:16:55,080 --> 00:16:56,290
 L'ha preso in pieno!
 
-236
+234
 00:16:56,290 --> 00:16:58,870
 Ha superato il muro di ferro del signor Pearl!
 
-237
+235
 00:17:03,880 --> 00:17:05,380
 Che diamine ha questo cuoco?!
 
-238
+236
 00:17:05,380 --> 00:17:07,260
 È fuori di testa!
 
-239
+237
 00:17:07,260 --> 00:17:12,300
 B-B-B-Bastardo! Fuoco! Più fuoco!
 
-240
+238
 00:17:12,300 --> 00:17:14,760
 Se avessi più Fire Pearl...
 
-241
+239
 00:17:16,720 --> 00:17:18,230
 Il ristorante prenderà fuoco!
 
-242
+240
 00:17:18,230 --> 00:17:21,730
 Se il fuoco arriva in cucina, il ristorante esploderà!
 
-243
+241
 00:17:21,730 --> 00:17:23,770
 Proprietario! Scappi, la prego!
 
-244
+242
 00:17:23,770 --> 00:17:25,770
 Proprietario!
 
-245
+243
 00:17:36,030 --> 00:17:39,000
 Le mie Fire Pearl...!
 
-246
+244
 00:17:39,000 --> 00:17:41,500
 Questo non è nulla.
 
-247
+245
 00:17:41,830 --> 00:17:44,460
 L'onda d'urto del suo calcio ha spento le fiamme!
 
-248
+246
 00:17:44,460 --> 00:17:46,710
 Che roba! Non è umano!
 
-249
+247
 00:17:46,710 --> 00:17:49,420
 Zeff Gamba Scarlatta è ancora in azione?!
 
-250
+248
 00:17:49,800 --> 00:17:52,340
 Vecchio, wow! Sei un grande!
 
-251
+249
 00:17:52,340 --> 00:17:53,640
 Se le cose stanno così,
 
-252
+250
 00:17:53,640 --> 00:17:58,470
 devo affondarvi insieme alle pinne prima che il ristorante prenda fuoco!
 
-253
+251
 00:18:01,730 --> 00:18:04,190
 Sanji! Attento!
 
-254
+252
 00:18:04,520 --> 00:18:07,190
 Non va bene! È circondato dalle fiamme!
 
-255
+253
 00:18:11,450 --> 00:18:12,280
 Ahi, ahi, ahi...
 
-256
+254
 00:18:12,280 --> 00:18:13,530
 Sguattero!
 
-257
+255
 00:18:13,780 --> 00:18:17,160
 Gum Gum Bazooka!
 
-258
+256
 00:18:18,990 --> 00:18:21,290
 Ha respinto quella palla di ferro!
 
-259
+257
 00:18:18,990 --> 00:18:21,290
 Ahi, ahi, ahi...
 
-260
+258
 00:18:21,290 --> 00:18:23,960
 ahi, ahi, ahi!
 
-261
+259
 00:18:37,850 --> 00:18:40,850
 Il signor Pearl è stato sconfitto per davvero!
 
-262
+260
 00:18:40,850 --> 00:18:42,810
 – Il signor Pearl...
 – Il signor Pearl...
 
-263
+261
 00:18:42,810 --> 00:18:44,730
 Che cavolo...?
 
-264
+262
 00:18:44,730 --> 00:18:46,270
 'Sto tizio era proprio scemo.
 
-265
+263
 00:18:46,770 --> 00:18:48,650
 Siete tutti inutili.
 
-266
+264
 00:18:48,650 --> 00:18:51,280
 Alla fine, posso contare solo su di me, eh?
 
-267
+265
 00:18:57,320 --> 00:19:00,160
 Con questo, la battaglia è finita.
+
+266
+00:10:41,750 --> 00:10:48,380
+m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
+
+267
+00:10:41,750 --> 00:10:48,380
+m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
 
 268
 00:10:41,750 --> 00:10:48,380
@@ -1196,21 +1190,21 @@ m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 
 
 288
 00:10:41,750 --> 00:10:48,380
-m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
+Cercasi
+Personale
 
 289
 00:10:41,750 --> 00:10:48,380
-m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
+Cercasi
+Personale
 
 290
-00:10:41,750 --> 00:10:48,380
-Cercasi
-Personale
+00:11:11,650 --> 00:11:11,900
+m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
 
 291
-00:10:41,750 --> 00:10:48,380
-Cercasi
-Personale
+00:11:11,650 --> 00:11:11,900
+m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
 
 292
 00:11:11,650 --> 00:11:11,900
@@ -1294,21 +1288,25 @@ m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 
 
 312
 00:11:11,650 --> 00:11:11,900
-m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
+Cercasi
+Personale
 
 313
 00:11:11,650 --> 00:11:11,900
-m 443 411 l 465 403 473 407 484 406 488 406 492 404 513 400 540 398 543 394 546 392 569 400 584 431 591 443 584 458 524 467 513 473 490 478 469 471 451 452
+Cercasi
+Personale
 
 314
-00:11:11,650 --> 00:11:11,900
-Cercasi
-Personale
+00:12:19,930 --> 00:12:27,850
+Pearl "Muro di Ferro"
+Capo della seconda divisione dei 
+Pirati di Krieg
 
 315
-00:11:11,650 --> 00:11:11,900
-Cercasi
-Personale
+00:12:19,930 --> 00:12:27,850
+Pearl "Muro di Ferro"
+Capo della seconda divisione dei 
+Pirati di Krieg
 
 316
 00:12:19,930 --> 00:12:27,850
@@ -1316,14 +1314,3 @@ Pearl "Muro di Ferro"
 Capo della seconda divisione dei 
 Pirati di Krieg
 
-317
-00:12:19,930 --> 00:12:27,850
-Pearl "Muro di Ferro"
-Capo della seconda divisione dei 
-Pirati di Krieg
-
-318
-00:12:19,930 --> 00:12:27,850
-Pearl "Muro di Ferro"
-Capo della seconda divisione dei 
-Pirati di Krieg

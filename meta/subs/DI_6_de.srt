@@ -1,1702 +1,1695 @@
 1
-00:00:00,000 --> 00:00:09,990
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht. Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden. Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv: https://mpv.io
-
-2
-00:01:49,920 --> 00:01:59,920
-Der benutzte Mediaplayer unterstützt das in dieser Episode verwendete Untertitelformat nicht. Die Untertitel werden wahrscheinlich nicht korrekt angezeigt werden. Bitte verwende einen der empfohlenen Videoplayer, vorzugsweise mpv: https://mpv.io
-
-3
 00:01:50,470 --> 00:01:54,660
 Gum-Gum..
 
-4
+2
 00:01:51,100 --> 00:01:52,880
 K-König Wapol, das ist der Strohhut!
 
-5
+3
 00:01:55,470 --> 00:01:57,310
 ...Pistol!
 
-6
+4
 00:02:01,650 --> 00:02:03,480
 – König Wapol!
 – König Wapol!
 
-7
+5
 00:02:15,030 --> 00:02:17,200
 Das war knapp...
 
-8
+6
 00:02:23,030 --> 00:02:25,380
 Ihr Dreckskerle traut euch ja was.
 
-9
+7
 00:02:27,640 --> 00:02:29,210
 Wieder und wieder...
 
-10
+8
 00:02:29,210 --> 00:02:31,840
 Wie oft wollt ihr uns noch
 in die Quere kommen?
 
-11
+9
 00:02:32,740 --> 00:02:35,010
 Hm? Was machen die denn hier?
 
-12
+10
 00:02:38,970 --> 00:02:43,090
 Letztes Mal hatte ich Verletzte
 bei mir und musste abhauen.
 
-13
+11
 00:02:43,090 --> 00:02:48,080
 Aber diesmal brauche ich mich
 nicht mehr zurückzuhalten!
 
-14
+12
 00:02:49,900 --> 00:02:51,530
 Du Bastard!
 
-15
+13
 00:02:51,530 --> 00:02:56,840
 Was denkst du dir dabei, Wapol,
 den König von Drum, anzugreifen?
 
-16
+14
 00:02:56,840 --> 00:02:58,470
 Genau! Er ist der König!
 
-17
+15
 00:02:58,470 --> 00:03:01,610
 Wie kannst du es wagen, Seiner
 Majestät so etwas anzutun?
 
-18
+16
 00:03:01,610 --> 00:03:03,910
 Er ist der erlauchte Herrscher
 über alle Leute hier!
 
-19
+17
 00:03:04,400 --> 00:03:07,040
 Mir doch egal! Ihr treibt
 mich zur Weißglut!
 
-20
+18
 00:03:07,040 --> 00:03:10,080
 Hey, Jüngling. Kennst du die?
 
-21
+19
 00:03:10,080 --> 00:03:12,850
 Und ob! Das Großmaul!
 Der Großmaul-Pirat!
 
-22
+20
 00:03:12,850 --> 00:03:13,820
 Großmaul?
 
-23
+21
 00:03:13,820 --> 00:03:15,430
 Sein Riesenmaul macht nur Ärger!
 
-24
+22
 00:03:15,430 --> 00:03:17,600
 Frisst unser Schiff und
 greift meine Freunde an!
 
-25
+23
 00:03:17,600 --> 00:03:19,160
 Ich bin’s echt leid!
 
-26
+24
 00:03:19,160 --> 00:03:22,360
 Schön und gut, aber ist dir
 nicht kalt in dem Aufzug?
 
-27
+25
 00:03:22,890 --> 00:03:24,560
 Siehst du?
 
-28
+26
 00:03:25,060 --> 00:03:28,350
 Haben die gesagt, er wäre
 ein König? Ist er kein Pirat?
 
-29
+27
 00:03:28,350 --> 00:03:29,520
 Fällt dir jetzt auf?!
 
-30
+28
 00:03:29,900 --> 00:03:33,840
 Pah, Trottel. Scheinst deine
 Unverfrorenheit endlich einzusehen.
 
-31
+29
 00:03:33,840 --> 00:03:35,510
 Wapol ist der König Drums.
 
-32
+30
 00:03:35,510 --> 00:03:38,450
 Er war wegen der Umstände
 nur temporär Pirat,
 
-33
+31
 00:03:38,450 --> 00:03:41,080
 als wir auf euch getroffen sind.
 
-34
+32
 00:03:41,080 --> 00:03:43,450
 Doch damit ist nun Schluss
 
-35
+33
 00:03:43,450 --> 00:03:46,500
 und er wird wieder König dieses
 Landes in diesem Schloss.
 
-36
+34
 00:03:46,500 --> 00:03:48,220
 Brrr, echt kalt hier.
 
-37
+35
 00:03:48,220 --> 00:03:49,720
 Sag ich doch, Mensch!
 
-38
+36
 00:03:49,720 --> 00:03:51,420
 Es ist -50° kalt!
 
-39
+37
 00:03:51,420 --> 00:03:53,170
 Die nehmen uns wohl nicht ernst!
 
-40
+38
 00:03:54,530 --> 00:03:55,670
 König Wapol!
 
-41
+39
 00:03:55,930 --> 00:04:00,170
 Du hast es geschafft, mich
 wütend zu machen, Strohhut.
 
-42
+40
 00:04:00,170 --> 00:04:02,140
 Ich beiß dich in Stücke!
 
-43
+41
 00:04:02,460 --> 00:04:04,390
 Ähm, eine Sekunde.
 
-44
+42
 00:04:04,390 --> 00:04:06,520
 Luffy holt sich gerade
 was zum Anziehen.
 
-45
+43
 00:04:06,520 --> 00:04:07,600
 Er ist weg?!
 
-46
+44
 00:04:08,110 --> 00:04:09,740
 Eine Frage.
 
-47
+45
 00:04:09,740 --> 00:04:13,250
 Er hat eben seine Arme gedehnt.
 
-48
+46
 00:04:13,250 --> 00:04:16,180
 Jap, so macht er das
 als Gummimensch.
 
-49
+47
 00:04:16,180 --> 00:04:18,320
 W-Was soll das sein?
 
-50
+48
 00:04:19,170 --> 00:04:20,110
 Ein Monster.
 
-51
+49
 00:04:22,740 --> 00:04:27,830
 Aktuell besetzen also die rebellische Alte
 und einige Strohhüte mein Schloss.
 
-52
+50
 00:04:27,830 --> 00:04:29,580
 Sobald wir die umgelegt haben,
 
-53
+51
 00:04:29,580 --> 00:04:34,570
 ist niemand in diesem Land mehr
 so dreist, sich mir zu widersetzen.
 
-54
+52
 00:04:34,570 --> 00:04:36,220
 Ganz genau!
 
-55
+53
 00:04:36,700 --> 00:04:40,470
 Das wird der lang ersehnte Tag der
 Wiederausrufung des Königreichs Drum.
 
-56
+54
 00:04:40,470 --> 00:04:42,740
 Zuerst du, Dr. Kureha!
 
-57
+55
 00:04:42,740 --> 00:04:46,180
 Du hast echt Mumm, dich in meiner
 Abwesenheit hier breitzumachen.
 
-58
+56
 00:04:46,180 --> 00:04:48,140
 Selbst eine seltsame
 Flagge hast du gehisst!
 
-59
+57
 00:04:48,650 --> 00:04:52,150
 Ich habe dieses Schloss
 zu Hiriluks Grab gemacht.
 
-60
+58
 00:04:54,850 --> 00:04:59,090
 Mich persönlich interessiert so ein
 runtergekommenes Schloss nicht.
 
-61
+59
 00:04:59,090 --> 00:05:03,410
 Aber dieses Rentier bestand darauf,
 Hiriluks Flagge hier zu hissen.
 
-62
+60
 00:05:05,130 --> 00:05:09,870
 Ich habe diesen Totenkopf gegen
 all die Krankheiten aufgehängt!
 
-63
+61
 00:05:10,740 --> 00:05:11,920
 Totenkopf...
 
-64
+62
 00:05:12,400 --> 00:05:16,590
 Das Symbol dafür,
 dass nichts unmöglich ist!
 
-65
+63
 00:05:17,280 --> 00:05:21,090
 Ich werde dieses Land als Arzt retten.
 
-66
+64
 00:05:21,610 --> 00:05:25,220
 Indem ich das aufhänge,
 kämpfe ich wie die Piraten!
 
-67
+65
 00:05:25,820 --> 00:05:31,230
 Mit dem Hissen der Flagge hat der Doktor
 für die Rettung dieses Landes gekämpft.
 
-68
+66
 00:05:36,110 --> 00:05:40,280
 Du wagst es, mein heiliges Schloss mit
 der Flagge dieses Doktors zu besudeln?!
 
-69
+67
 00:05:41,010 --> 00:05:43,240
 Verbrennt diese Flagge augenblicklich!
 
-70
+68
 00:05:47,180 --> 00:05:50,500
 Ich lass dich nicht ins Schloss.
 
-71
+69
 00:05:53,550 --> 00:05:54,660
 Um keinen Preis.
 
-72
+70
 00:05:55,690 --> 00:05:57,620
 König Wapol... Er...
 
-73
+71
 00:05:57,620 --> 00:05:59,210
 Richtig! Das ist der Kerl von damals!
 
-74
+72
 00:06:00,630 --> 00:06:03,690
 Das Monster, das dem
 dummen Doktor gefolgt ist.
 
-75
+73
 00:06:05,970 --> 00:06:08,850
 Diese Flagge steht für die
 Überzeugungen des Doktors.
 
-76
+74
 00:06:09,570 --> 00:06:11,810
 Ich lasse nicht zu,
 dass ihr sie abhängt!
 
-77
+75
 00:06:12,770 --> 00:06:14,150
 Niemals!
 
-78
+76
 00:06:15,910 --> 00:06:18,540
 Zeigt keine Gnade! Rein ins Schloss!
 
-79
+77
 00:06:18,540 --> 00:06:21,610
 Erledigt jeden Einzelnen von ihnen!
 
-80
+78
 00:06:22,350 --> 00:06:24,320
 Kämpfst du auch, Oma?
 
-81
+79
 00:06:24,320 --> 00:06:25,320
 Oma?
 
-82
+80
 00:06:26,580 --> 00:06:29,410
 Wenn es euch
 überfordert, helf ich euch.
 
-83
+81
 00:06:29,410 --> 00:06:30,240
 Das ist nett...
 
-84
+82
 00:06:30,240 --> 00:06:32,360
 König Wapol! Überlasst das uns!
 
-85
+83
 00:06:32,360 --> 00:06:34,460
 Die kleinen Fische erledigen wir im Nu.
 
-86
+84
 00:06:34,870 --> 00:06:35,920
 Doktorine!
 
-87
+85
 00:06:38,920 --> 00:06:41,270
 Hey, hey, hey, Afro-Mann.
 
-88
+86
 00:06:41,270 --> 00:06:45,640
 Was für ein Bruder bist du, deinen
 Afro auf eine Lady zu schleudern?
 
-89
+87
 00:06:47,440 --> 00:06:49,060
 Du begreifst es ja doch.
 
-90
+88
 00:06:51,840 --> 00:06:52,730
 Reingefallen.
 
-91
+89
 00:06:56,100 --> 00:06:58,020
 Was?! Er geht nicht ab!
 
-92
+90
 00:06:58,020 --> 00:06:59,820
 Was ist das für ein Afro?
 
-93
+91
 00:06:59,820 --> 00:07:00,900
 Ist der statisch geladen?!
 
-94
+92
 00:07:01,350 --> 00:07:02,850
 Ganz genau.
 
-95
+93
 00:07:04,530 --> 00:07:07,240
 Ah, Scheißdreck! Verdammter Afro!
 
-96
+94
 00:07:07,720 --> 00:07:10,460
 Brrr, ist das kalt, ist das kalt!
 
-97
+95
 00:07:10,460 --> 00:07:11,800
 Kleidung, Kleidung!
 
-98
+96
 00:07:13,770 --> 00:07:15,670
 Kleidung, Kleidung, Kleidung!
 
-99
+97
 00:07:15,900 --> 00:07:17,370
 Wo ist meine Kleidung?
 
-100
+98
 00:07:17,370 --> 00:07:19,870
 Was ist draußen los? Es ist so laut.
 
-101
+99
 00:07:19,870 --> 00:07:22,130
 Draußen ist’s eiskalt.
 Wo ist meine Kleidung?
 
-102
+100
 00:07:22,510 --> 00:07:25,840
 Nein, ich will wissen,
 was draußen vor sich geht.
 
-103
+101
 00:07:25,840 --> 00:07:27,550
 Ach so, ein Kampf.
 
-104
+102
 00:07:27,550 --> 00:07:29,520
 Ach ja? Alles okay?
 
-105
+103
 00:07:29,520 --> 00:07:31,060
 Ja, bleib du liegen.
 
-106
+104
 00:07:31,060 --> 00:07:33,120
 Kannst ruhig meine Sachen tragen.
 
-107
+105
 00:07:33,120 --> 00:07:35,660
 Was? Deine lahmen Klamotten?
 
-108
+106
 00:07:35,660 --> 00:07:37,390
 Cooler als deine.
 
-109
+107
 00:07:37,390 --> 00:07:38,230
 Echt?
 
-110
+108
 00:07:38,230 --> 00:07:40,690
 Na ja, auch egal,
 solange sie warm sind.
 
-111
+109
 00:07:40,960 --> 00:07:42,290
 Okay!
 
-112
+110
 00:07:43,760 --> 00:07:46,120
 Und ich hatte mir schon
 Sorgen gemacht...
 
-113
+111
 00:07:46,700 --> 00:07:50,070
 Dem Kerl stopf ich sein Großmaul!
 
-114
+112
 00:07:50,070 --> 00:07:51,500
 Verdammt!
 
-115
+113
 00:07:52,030 --> 00:07:54,750
 Was ist das für ein Afro?
 Er geht nicht ab!
 
-116
+114
 00:07:58,240 --> 00:08:00,240
 Das war erst der Anfang.
 
-117
+115
 00:08:01,150 --> 00:08:02,880
 Eleki-Marimo!
 
-118
+116
 00:08:05,990 --> 00:08:08,340
 Diese Dinger sind scheißeklig!
 
-119
+117
 00:08:09,400 --> 00:08:11,620
 Hey, Rentier! Glotz nicht
 nur, sondern hilf mir!
 
-120
+118
 00:08:11,620 --> 00:08:12,560
 Okay!
 
-121
+119
 00:08:12,890 --> 00:08:15,560
 Mach die ab! Igitt...
 
-122
+120
 00:08:15,560 --> 00:08:17,230
 Und dann sehen die noch so lahm aus.
 
-123
+121
 00:08:18,690 --> 00:08:20,500
 Jetzt hängen die an mir. Nein, danke!
 
-124
+122
 00:08:20,500 --> 00:08:23,150
 Hey, behalt die! Zumindest eins!
 
-125
+123
 00:08:23,150 --> 00:08:24,400
 Niemals, die sind widerlich!
 
-126
+124
 00:08:24,400 --> 00:08:25,740
 An mir doch genauso!
 
-127
+125
 00:08:25,740 --> 00:08:27,170
 – Lass das!
 – Behalt die!
 
-128
+126
 00:08:27,170 --> 00:08:29,490
 Was treibt ihr da?
 
-129
+127
 00:08:28,540 --> 00:08:29,490
 Aufhören!
 
-130
+128
 00:08:29,490 --> 00:08:33,080
 Pah, die verstehen
 nichts von Teamwork.
 
-131
+129
 00:08:33,080 --> 00:08:35,220
 Nur damit ihr’s wisst,
 diese Eleki-Marimos
 
-132
+130
 00:08:35,220 --> 00:08:37,460
 brennen trotz ihres
 Aussehens ordentlich.
 
-133
+131
 00:08:39,250 --> 00:08:41,580
 Scheiße, er will die Afros abfackeln!
 
-134
+132
 00:08:41,580 --> 00:08:42,290
 Hier.
 
-135
+133
 00:08:42,290 --> 00:08:44,560
 Okay. Ey, was hast du vor?!
 
-136
+134
 00:08:44,560 --> 00:08:45,690
 Ein Ablenkungsmanöver!
 
-137
+135
 00:08:45,690 --> 00:08:48,260
 E-Ein Ablenkungsmanöver?
 Und ich bin die Ablenkung?!
 
-138
+136
 00:08:48,630 --> 00:08:49,880
 Schachmatt.
 
-139
+137
 00:08:50,330 --> 00:08:53,350
 Schnee, Schnee, Schnee!
 
-140
+138
 00:08:56,500 --> 00:08:58,390
 Aus dem Weg, Schwachkopf.
 
-141
+139
 00:08:58,930 --> 00:09:00,020
 König Wapol!
 
-142
+140
 00:09:00,020 --> 00:09:00,730
 Mist!
 
-143
+141
 00:09:00,730 --> 00:09:01,350
 Chopper!
 
-144
+142
 00:09:03,880 --> 00:09:06,080
 Hach, ist das schön warm.
 
-145
+143
 00:09:06,080 --> 00:09:06,880
 Luffy!
 
-146
+144
 00:09:07,250 --> 00:09:08,850
 Schnapp dir mein Bein von da!
 
-147
+145
 00:09:08,850 --> 00:09:10,070
 Dein Bein? Okay.
 
-148
+146
 00:09:10,990 --> 00:09:11,820
 So?
 
-149
+147
 00:09:11,820 --> 00:09:13,320
 Gut, lass ja nicht los!
 
-150
+148
 00:09:13,780 --> 00:09:15,260
 Hm? Na gut.
 
-151
+149
 00:09:15,260 --> 00:09:16,990
 Armée de l’Air...
 
-152
+150
 00:09:18,790 --> 00:09:21,290
 Gum Shoot!
 
-153
+151
 00:09:43,100 --> 00:09:43,980
 Nicht übel.
 
-154
+152
 00:09:46,540 --> 00:09:49,910
 D-Danke. Ihr seid klasse.
 
-155
+153
 00:09:49,910 --> 00:09:53,380
 Hey, Luffy, das ist doch Namis Jacke!
 
-156
+154
 00:09:53,380 --> 00:09:57,750
 Jap. Sieht nur, der lebt immer noch!
 Aber das Nilpferd ist weggeflogen.
 
-157
+155
 00:09:57,750 --> 00:09:59,450
 Zieh die aus, sofort!
 
-158
+156
 00:09:59,830 --> 00:10:01,420
 König Wapol, ist alles in Ordnung?
 
-159
+157
 00:10:01,420 --> 00:10:04,420
 Sie sind stärker als erwartet.
 Wir haben sie unterschätzt.
 
-160
+158
 00:10:05,280 --> 00:10:07,800
 Ich kann sie nicht
 länger am Leben lassen,
 
-161
+159
 00:10:07,800 --> 00:10:09,380
 diese Dreckskerle!
 
-162
+160
 00:10:09,730 --> 00:10:10,860
 – Was?!
 – Was?!
 
-163
+161
 00:10:10,860 --> 00:10:14,760
 Ich zeige ihnen die wahre Kraft
 der Munch-Munch-Frucht.
 
-164
+162
 00:10:14,760 --> 00:10:15,890
 König Wapol!
 
-165
+163
 00:10:16,930 --> 00:10:19,970
 Ich zeig ihnen meine Mampf-Fabrik!
 
-166
+164
 00:10:20,440 --> 00:10:21,540
 Oh, er steht wieder.
 
-167
+165
 00:10:21,540 --> 00:10:23,470
 Kann eine normale Person
 danach aufstehen?
 
-168
+166
 00:10:23,470 --> 00:10:25,190
 Der Kerl ist echt zäh!
 
-169
+167
 00:10:29,670 --> 00:10:31,340
 Dalton lebt.
 
-170
+168
 00:10:33,470 --> 00:10:35,200
 Die Isshi-20!
 
-171
+169
 00:10:35,980 --> 00:10:38,650
 Sein Körper ist bloß eingefroren.
 
-172
+170
 00:10:38,650 --> 00:10:41,160
 Mögt ihr ihn nicht uns überlassen?
 
-173
+171
 00:10:44,000 --> 00:10:46,540
 Hey, da sind ja Ärzte.
 
-174
+172
 00:10:46,540 --> 00:10:49,670
 Ich dachte, in diesem
 Land gäbe es keine.
 
-175
+173
 00:10:49,670 --> 00:10:54,900
 Das sind die Isshi-20, die
 exklusiv für Wapol zuständig sind.
 
-176
+174
 00:10:54,900 --> 00:10:56,430
 Sie sind also böse Ärzte!
 
-177
+175
 00:10:56,720 --> 00:10:58,800
 Genau, denen können wir nicht trauen!
 
-178
+176
 00:10:58,800 --> 00:11:02,600
 Wir sollen euch Dalton überlassen,
 
-179
+177
 00:11:02,600 --> 00:11:04,670
 wo ihr doch Wapol,
 dem König, gehorcht?
 
-180
+178
 00:11:04,670 --> 00:11:06,650
 Was habt ihr mit ihm vor?
 
-181
+179
 00:11:07,380 --> 00:11:10,150
 Wir wollen ihn bloß retten!
 Das ist unser Job!
 
-182
+180
 00:11:12,950 --> 00:11:15,400
 Wir sind letztlich bloß Ärzte.
 
-183
+181
 00:11:15,400 --> 00:11:18,570
 Auch wenn wir uns Wapols Leuten
 widerwillig beugen mussten,
 
-184
+182
 00:11:18,890 --> 00:11:22,090
 haben wir die Medizin
 stets weiterentwickelt.
 
-185
+183
 00:11:22,090 --> 00:11:24,540
 Für die Patienten in diesem Land!
 
-186
+184
 00:11:27,900 --> 00:11:32,180
 Weil ein gewisser Quacksalber uns
 beigebracht hat, niemals aufzugeben.
 
-187
+185
 00:11:33,800 --> 00:11:39,930
 Wir können es uns nicht erlauben,
 noch mehr Idioten wie ihn zu verlieren.
 
-188
+186
 00:11:40,390 --> 00:11:44,400
 Chess! Zähl auf, was ich
 heute gegessen habe!
 
-189
+187
 00:11:44,400 --> 00:11:45,390
 Jawohl!
 
-190
+188
 00:11:46,690 --> 00:11:51,200
 Auf dem Schiff habt Ihr eine in Butter
 geschwenkte und eine rohe Kanone gespeist.
 
-191
+189
 00:11:51,200 --> 00:11:55,900
 Zudem Kanonenkugel- und Schießpulversalat
 und ein geröstetes Haus im Dorf.
 
-192
+190
 00:11:56,200 --> 00:11:57,880
 Was isst du denn da?
 
-193
+191
 00:11:57,880 --> 00:11:59,620
 Ein wahrer Allesfresser.
 
-194
+192
 00:12:00,380 --> 00:12:01,870
 Schaut gut hin,
 
-195
+193
 00:12:01,870 --> 00:12:05,360
 wie das Essen mein
 Fleisch und Blut wird.
 
-196
+194
 00:12:08,460 --> 00:12:09,540
 Er hat irgendwas vor.
 
-197
+195
 00:12:14,670 --> 00:12:15,550
 Was ist das?
 
-198
+196
 00:12:15,880 --> 00:12:19,340
 Mampf-Mampf-Schock!
 
-199
+197
 00:12:23,850 --> 00:12:26,600
 Wapol Haus!
 
-200
+198
 00:12:27,060 --> 00:12:27,640
 Ein Haus?
 
-201
+199
 00:12:27,640 --> 00:12:29,190
 Wow!
 
-202
+200
 00:12:29,730 --> 00:12:33,150
 Spart euch euer Erstaunen.
 Das ist die Technik eines Königs.
 
-203
+201
 00:12:33,940 --> 00:12:36,610
 Mampf-Mampf-Fabrik!
 
-204
+202
 00:12:39,490 --> 00:12:40,450
 Was?!
 
-205
+203
 00:12:42,910 --> 00:12:45,200
 E-Er isst seine eigenen Leute!
 
-206
+204
 00:12:45,200 --> 00:12:46,910
 Seine Verbündeten!
 
-207
+205
 00:12:57,050 --> 00:13:00,930
 Sehet und staunet!
 Zeig dich, Wunder-Fusion!
 
-208
+206
 00:13:01,220 --> 00:13:02,930
 Was? Fusion?
 
-209
+207
 00:13:09,690 --> 00:13:13,560
 Ich bin der stärkste Krieger
 des Königreichs Drum.
 
-210
+208
 00:13:20,860 --> 00:13:22,740
 Chessmarimo!
 
-211
+209
 00:13:23,530 --> 00:13:26,660
 Öhm... Reitet der eine nicht nur
 auf den Schultern des anderen?
 
-212
+210
 00:13:26,660 --> 00:13:28,500
 Ist ja krass!
 
-213
+211
 00:13:28,500 --> 00:13:29,870
 Nichts ist krass daran!
 
-214
+212
 00:13:30,620 --> 00:13:32,460
 Seid bloß vorsichtig.
 
-215
+213
 00:13:33,750 --> 00:13:36,490
 Wenn sie wirklich schwach wären,
 
-216
+214
 00:13:36,490 --> 00:13:39,510
 wäre ein idiotischer Akt wie die Verbannung der Ärzte
 
-217
+215
 00:13:39,510 --> 00:13:42,050
 von den Bürgern vereitelt worden.
 
-218
+216
 00:13:42,630 --> 00:13:45,760
 Verfassung des
 Königreichs Drum, Artikel 1.
 
-219
+217
 00:13:45,760 --> 00:13:49,060
 „Alle, die sich dem König
 widersetzen, sterben“.
 
-220
+218
 00:13:49,060 --> 00:13:51,190
 Das fasst mein Land zusammen.
 
-221
+219
 00:13:51,190 --> 00:13:56,270
 Denn dieses Land ist mein Land
 und dieses Schloss mein Schloss.
 
-222
+220
 00:13:56,770 --> 00:14:00,780
 Und gerade die Flagge dieses
 Quacksalbers hat da nix zu suchen!
 
-223
+221
 00:14:00,780 --> 00:14:02,950
 Die ruiniert das Schloss!
 
-224
+222
 00:14:18,550 --> 00:14:19,960
 Eine Piratenflagge?
 
-225
+223
 00:14:20,460 --> 00:14:22,630
 Hey, Rentier. Diese Flagge...
 
-226
+224
 00:14:25,590 --> 00:14:29,260
 Nichts ist unmöglich für einen Mann,
 der eine Totenkopfflagge hisst!
 
-227
+225
 00:14:29,260 --> 00:14:32,520
 Das hab ich dir doch
 beigebracht, oder, Chopper?
 
-228
+226
 00:14:41,860 --> 00:14:44,950
 Du Bastard hast die Flagge
 des Doktors attackiert!
 
-229
+227
 00:14:48,280 --> 00:14:51,700
 Der Doktor wollte dich sogar retten!
 
-230
+228
 00:14:52,660 --> 00:14:54,710
 Chopper...
 
-231
+229
 00:14:55,040 --> 00:14:57,130
 Verachte die Menschen nicht.
 
-232
+230
 00:14:59,350 --> 00:15:01,710
 Dieses Land leidet aktuell
 unter einer Krankheit.
 
-233
+231
 00:15:02,130 --> 00:15:03,720
 Wieso?
 
-234
+232
 00:15:03,720 --> 00:15:06,260
 Doktor, der Kerl verdient keine Rettung.
 
-235
+233
 00:15:11,430 --> 00:15:12,930
 Ich...
 
-236
+234
 00:15:13,930 --> 00:15:18,060
 schlage dich auch nicht,
 also verschwinde aus diesem Land.
 
-237
+235
 00:15:18,610 --> 00:15:23,280
 Was redest du denn da, Chopper?!
 Glaubst du, der hört auf dich?!
 
-238
+236
 00:15:24,110 --> 00:15:26,740
 Na ja, denn...
 
-239
+237
 00:15:29,740 --> 00:15:30,580
 Chopper!
 
-240
+238
 00:15:36,330 --> 00:15:37,580
 Hey, Großmaul.
 
-241
+239
 00:15:41,040 --> 00:15:42,090
 Strohhut!
 
-242
+240
 00:15:44,340 --> 00:15:47,430
 Du warst nie ein richtiger Pirat, oder?
 
-243
+241
 00:15:47,430 --> 00:15:50,300
 Ihr habt nie eure Leben
 für eure Flagge riskiert
 
-244
+242
 00:15:50,300 --> 00:15:52,510
 und habt keine Ahnung,
 was sie bedeutet.
 
-245
+243
 00:15:53,180 --> 00:15:54,640
 Dieser Kerl...
 
-246
+244
 00:15:59,150 --> 00:16:03,190
 Wir sollten den Berg hoch,
 Usopp, Mr. Bushido.
 
-247
+245
 00:16:04,690 --> 00:16:06,150
 Wir können nicht untätig bleiben.
 
-248
+246
 00:16:06,150 --> 00:16:09,660
 Ich bin so besorgt, was Luffy, Nami
 und Sanji in der Lawine zugestoßen ist.
 
-249
+247
 00:16:10,280 --> 00:16:12,870
 Nami hatte furchtbares Fieber.
 
-250
+248
 00:16:12,870 --> 00:16:14,040
 Im Schlimmstfall...
 
-251
+249
 00:16:14,040 --> 00:16:15,580
 Du sorgst dich um Nami?
 
-252
+250
 00:16:16,000 --> 00:16:20,580
 Und dann auch noch um
 Dalton und Alabasta?
 
-253
+251
 00:16:22,840 --> 00:16:25,340
 Vivi, beruhig dich.
 
-254
+252
 00:16:25,340 --> 00:16:27,510
 Du bürdest dir viel zu viel auf.
 
-255
+253
 00:16:29,970 --> 00:16:34,350
 Luffy und Sanji sind doch bei Nami.
 
-256
+254
 00:16:34,350 --> 00:16:37,480
 Denen geht’s gut. Ich glaube an sie.
 
-257
+255
 00:16:38,690 --> 00:16:41,360
 Ja... Er hat recht.
 
-258
+256
 00:16:43,520 --> 00:16:46,610
 Usopp glaubt an seine Freunde.
 
-259
+257
 00:16:46,610 --> 00:16:49,400
 Deshalb kann er so ruhig bleiben.
 
-260
+258
 00:16:50,660 --> 00:16:53,120
 Danke, Usopp. Ich...
 
-261
+259
 00:16:53,120 --> 00:16:56,200
 Du hast doch bloß Schiss,
 den Berg hochzukraxeln.
 
-262
+260
 00:16:56,200 --> 00:17:01,170
 I-Ich hab halt Geschichten von
 einem Yeti und Bärenhasen gehört!
 
-263
+261
 00:17:01,170 --> 00:17:03,090
 Dann gib das gleich zu.
 
-264
+262
 00:17:03,710 --> 00:17:06,760
 Keine Sorge. Luffy schafft das schon!
 
-265
+263
 00:17:06,760 --> 00:17:09,050
 Ich hab halt Angst,
 ist das so schlimm?!
 
-266
+264
 00:17:09,420 --> 00:17:10,260
 Dalton!
 
-267
+265
 00:17:10,260 --> 00:17:11,760
 W-Warte!
 
-268
+266
 00:17:14,260 --> 00:17:15,930
 Dalton!
 
-269
+267
 00:17:15,930 --> 00:17:16,970
 Dalton!
 
-270
+268
 00:17:16,970 --> 00:17:19,100
 Verratet mir endlich,
 wer zum Teufel das ist.
 
-271
+269
 00:17:20,600 --> 00:17:23,020
 Dalton, das schaffst du nicht!
 
-272
+270
 00:17:23,020 --> 00:17:27,570
 Aus dem Weg! Wapol darf nicht
 ins Schloss zurück. Niemals.
 
-273
+271
 00:17:27,570 --> 00:17:30,110
 Du willst doch nicht etwa ins Schloss?
 
-274
+272
 00:17:30,110 --> 00:17:32,070
 In dem Zustand?
 Bist du lebensmüde?!
 
-275
+273
 00:17:33,120 --> 00:17:36,030
 Wenn ich jetzt nicht
 kämpfe, wann dann?
 
-276
+274
 00:17:36,030 --> 00:17:41,000
 Wenn Wapol wieder König wird,
 wird dieses Land auf ewig verderben!
 
-277
+275
 00:17:43,330 --> 00:17:45,960
 Aber in dem Zustand
 kannst du nicht kämpfen!
 
-278
+276
 00:17:45,960 --> 00:17:48,960
 Und wir können auch
 nichts ausrichten...
 
-279
+277
 00:17:49,380 --> 00:17:53,970
 Ich werde das zu Ende bringen!
 Egal, wie dreckig ich kämpfen muss!
 
-280
+278
 00:18:10,740 --> 00:18:13,030
 Spring auf. Ich bring
 dich zum Schloss.
 
-281
+279
 00:18:14,820 --> 00:18:16,970
 Keine falsche Zurückhaltung.
 
-282
+280
 00:18:16,970 --> 00:18:19,540
 Ich will bloß nicht, dass deine
 Entschlossenheit umsonst ist.
 
-283
+281
 00:18:20,160 --> 00:18:22,000
 Usopp...
 
-284
+282
 00:18:23,330 --> 00:18:25,170
 Wart’s ab,
 
-285
+283
 00:18:25,170 --> 00:18:26,750
 ich bring dich...
 
-286
+284
 00:18:27,460 --> 00:18:29,710
 ins Schloss...
 
-287
+285
 00:18:32,170 --> 00:18:33,680
 Usopp...
 
-288
+286
 00:18:37,930 --> 00:18:41,600
 Hey, Usopp. Ich glaube,
 das wird nichts.
 
-289
+287
 00:18:41,890 --> 00:18:45,060
 Und ob! Ich bring dich hin!
 
-290
+288
 00:18:45,060 --> 00:18:47,360
 Du kämpfst doch für dein Land, oder?
 
-291
+289
 00:18:47,360 --> 00:18:49,610
 Du willst die Sache doch beenden?
 
-292
+290
 00:18:50,280 --> 00:18:54,570
 Keine Sorge, ich bring dich hin.
 
-293
+291
 00:18:57,070 --> 00:18:59,330
 Mann, dieser Vollpfosten.
 
-294
+292
 00:19:01,120 --> 00:19:04,040
 Wir müssen bloß den
 Berg hoch, oder?
 
-295
+293
 00:19:05,080 --> 00:19:06,330
 Zoro...
 
-296
+294
 00:19:08,670 --> 00:19:13,470
 Du Arsch! Du Arsch! Usopp Punch!
 
-297
+295
 00:19:09,840 --> 00:19:13,470
 Au, au, was soll das?!
 
-298
+296
 00:19:14,800 --> 00:19:17,970
 Ich wollte gerade Ernst machen!
 
-299
+297
 00:19:18,300 --> 00:19:20,930
 Ja, weiß ich.
 
-300
+298
 00:19:20,930 --> 00:19:23,390
 Ernst!
 
-301
+299
 00:19:21,720 --> 00:19:23,390
 Jau, Hut ab.
 
-302
+300
 00:19:24,270 --> 00:19:27,650
 Wartet! Wenn ihr
 zum Schloss wollt,...
 
-303
+301
 00:19:29,730 --> 00:19:31,650
 ist die Seilbahn schneller.
 
-304
+302
 00:19:31,650 --> 00:19:35,820
 Unsinn. Keine Seilbahn
 führt mehr zum Schloss.
 
-305
+303
 00:19:36,410 --> 00:19:38,030
 Eine schon.
 
-306
+304
 00:19:38,030 --> 00:19:40,530
 Jemand hat das weiße
 Seil wieder aufgespannt.
 
-307
+305
 00:19:40,530 --> 00:19:43,750
 Vom großen Baum am
 Rande Gyastas zum Schloss.
 
-308
+306
 00:19:44,040 --> 00:19:45,460
 Gyasta?
 
-309
+307
 00:19:45,460 --> 00:19:48,750
 Das ist doch die Stadt,
 in der Dr. Kureha zuletzt war.
 
-310
+308
 00:19:49,460 --> 00:19:52,300
 Was die Flagge bedeutet, Strohhut?
 
-311
+309
 00:19:53,960 --> 00:19:57,130
 Als ob Piratenflaggen
 eine Bedeutung hätten!
 
-312
+310
 00:19:57,130 --> 00:19:59,430
 Ich sag doch, ihr habt keine Ahnung.
 
-313
+311
 00:19:59,430 --> 00:20:00,350
 Was?!
 
-314
+312
 00:20:00,800 --> 00:20:05,310
 So eine Flagge hisst
 man nicht zum Spaß!
 
-315
+313
 00:20:05,310 --> 00:20:06,690
 Du Schwachkopf!
 
-316
+314
 00:20:06,690 --> 00:20:10,150
 Ich, der König, würde so eine
 Flagge niemals ernst hissen!
 
-317
+315
 00:20:10,150 --> 00:20:13,780
 Also häng dieses lächerliche
 Ding nicht einfach wieder auf!
 
-318
+316
 00:20:13,780 --> 00:20:16,190
 Diese Flagge kannst
 du nicht zerstören.
 
-319
+317
 00:20:16,190 --> 00:20:19,990
 Der Totenkopf steht
 für eine Überzeugung!
 
-320
+318
 00:20:22,490 --> 00:20:23,700
 Pass auf! Weich aus!
 
-321
+319
 00:20:26,500 --> 00:20:27,330
 Luffy!
 
-322
+320
 00:20:27,830 --> 00:20:28,790
 Ein Volltreffer!
 
-323
+321
 00:20:32,500 --> 00:20:34,460
 Da hab ich den
 Schwachkopf weggepustet!
 
-324
+322
 00:20:54,780 --> 00:20:57,070
 Siehst du? Sie ist noch ganz.
 
-325
+323
 00:20:57,860 --> 00:21:01,030
 W-Was?! Er ist bescheuert!
 Ein echter Idiot!
 
-326
+324
 00:21:01,570 --> 00:21:06,040
 Ich habe keine Ahnung,
 wem diese Piratenflagge gehört.
 
-327
+325
 00:21:06,040 --> 00:21:09,540
 Aber das ist eine Flagge,
 in die man sein Leben setzt!
 
-328
+326
 00:21:09,540 --> 00:21:11,880
 Die hisst man nicht zum Spaß!
 
-329
+327
 00:21:14,920 --> 00:21:21,130
 Das ist keine Flagge, die ihr mit eurem
 schäbigen Lachen zerstören könnt!
 
-330
+328
 00:21:26,720 --> 00:21:28,520
 Unglaublich...
 
-331
+329
 00:21:29,180 --> 00:21:31,060
 Das ist also ein Pirat.
 
-332
+330
 00:21:31,140 --> 00:21:32,560
 Was sind Piraten?
 
-333
+331
 00:21:32,560 --> 00:21:35,570
 Piraten sind Wahnsinnsleute
 auf dem Meer.
 
-334
+332
 00:21:35,570 --> 00:21:40,530
 Piraten sind klasse! Auf dem Meer
 wimmelt’s nur so von krassen Leuten!
 
-335
+333
 00:21:40,530 --> 00:21:43,530
 Chopper, zieh du irgendwann
 auch raus aufs Meer.
 
-336
+334
 00:21:47,240 --> 00:21:48,700
 Hey, Rentier!
 
-337
+335
 00:21:49,580 --> 00:21:53,210
 Ich verpass den Kerlen jetzt ’ne
 Abreibung. Was hast du vor?
 
-338
+336
 00:21:53,960 --> 00:21:54,840
 Ich...
 
-339
+337
 00:21:54,840 --> 00:21:58,300
 Was faselst du da,
 du dämlicher Schwachkopf?!
 
-340
+338
 00:21:58,300 --> 00:22:00,970
 Wenn du die Flagge
 unbedingt beschützen willst,
 
-341
+339
 00:22:00,970 --> 00:22:02,970
 dann bleib halt dein
 ganzes Leben da oben!
 
-342
+340
 00:22:03,340 --> 00:22:05,680
 Das lässt du schön
 bleiben, Freundchen.
 
-343
+341
 00:22:10,310 --> 00:22:12,560
 Das war dein Rückgrat.
 
-344
+342
 00:22:14,230 --> 00:22:17,190
 War ja klar, so wild,
 wie du dich bewegst.
 
-345
+343
 00:22:17,650 --> 00:22:20,490
 Die Ärztin sagt Stopp!
 
-346
+344
 00:22:26,830 --> 00:22:29,080
 Was treibt ihr Schwachköpfe da?
 
-347
+345
 00:22:29,080 --> 00:22:33,250
 Lehnt euch zurück und schaut,
 wie ich ihn mit der Flagge hochjage!
 
-348
+346
 00:22:33,790 --> 00:22:36,590
 Ich puste dich weg, Strohhut!
 
-349
+347
 00:22:37,880 --> 00:22:40,550
 Lass das!
 
-350
+348
 00:22:41,460 --> 00:22:42,720
 Gut so!
 
-351
+349
 00:22:42,720 --> 00:22:44,680
 Schnapp ihn dir, Rentier!
 
-352
+350
 00:22:48,890 --> 00:22:51,140
 König Wapol! Achtung!
 
-353
+351
 00:22:56,270 --> 00:23:00,070
 Da zeigt der Kleine ja
 mal richtig Mumm.
 
-354
+352
 00:23:03,570 --> 00:23:04,950
 Pech gehabt,
 
-355
+353
 00:23:04,950 --> 00:23:07,990
 aber ich lasse nicht zu,
 dass du König Wapol anrührst!
 
-356
+354
 00:23:14,250 --> 00:23:17,540
 Gibt schon komische
 Kreaturen auf der Welt.
 
-357
+355
 00:23:17,540 --> 00:23:22,920
 Der Yeti, über den die Bürger
 geredet haben, warst wohl echt du.
 
-358
+356
 00:23:23,260 --> 00:23:26,930
 Sicher hat dich in deinem
 Leben noch nie jemand geliebt.
 
-359
+357
 00:23:26,930 --> 00:23:28,720
 Du armes Monster.
 
-360
+358
 00:23:28,720 --> 00:23:32,390
 Wieso will jemand so Einsames
 wie du dieses Land retten?
 
-361
+359
 00:23:32,390 --> 00:23:33,680
 Lachhaft!
 
-362
+360
 00:23:33,680 --> 00:23:35,020
 Seid still!
 
-363
+361
 00:23:35,020 --> 00:23:38,270
 Selbst ohne Freunde
 kann ich kämpfen!
 
-364
+362
 00:23:39,360 --> 00:23:42,230
 Solange die Flagge des Doktors da ist!
 
-365
+363
 00:23:42,230 --> 00:23:43,820
 Du hast doch Freunde!
 
-366
+364
 00:23:46,910 --> 00:23:51,370
 Ich bin dein Freund!
 
-367
+365
 00:24:03,960 --> 00:24:05,220
 Strohhut!
 
-368
+366
 00:24:10,140 --> 00:24:12,310
 Alles okay?
 
-369
+367
 00:24:12,310 --> 00:24:14,430
 Mir geht’s gut. Bin ja aus Gummi.
 
-370
+368
 00:24:14,430 --> 00:24:15,140
 Gummi?
 
-371
+369
 00:24:17,060 --> 00:24:20,230
 Hey, Rentier. Kannst
 du den Kerl aufhalten?
 
-372
+370
 00:24:20,650 --> 00:24:22,730
 So einer ist gar kein Problem.
 
-373
+371
 00:24:23,150 --> 00:24:24,690
 Das wäre also entschieden.
 
-374
+372
 00:24:25,440 --> 00:24:28,200
 Dann kümmer ich mich
 um das Großmaul!
 
-375
+373
 00:24:29,700 --> 00:24:34,040
 Verdammter Strohhut!
 Hüpf hier nicht so rum!
 
-376
+374
 00:24:34,740 --> 00:24:36,790
 Ich kenne keine Zweifel mehr.
 
-377
+375
 00:24:36,790 --> 00:24:39,000
 Du willst mich besiegen,
 
-378
+376
 00:24:39,000 --> 00:24:40,630
 Monster?
 
-379
+377
 00:24:42,590 --> 00:24:44,210
 Lass mich kämpfen,
 
-380
+378
 00:24:44,880 --> 00:24:48,220
 du Schreckschraube!
 
-381
+379
 00:24:48,220 --> 00:24:49,590
 Sei still und sieh zu.
 
-382
+380
 00:24:49,590 --> 00:24:53,180
 Wenn du nicht ruhig bleibst,
 wirst du nie mehr laufen können.
 
-383
+381
 00:24:53,680 --> 00:24:55,060
 Aber keine Sorge.
 
-384
+382
 00:24:55,060 --> 00:24:58,140
 In solchen Situationen ist
 auf mein Rentier Verlass.
 
-385
+383
 00:25:01,480 --> 00:25:05,150
 Mein Name ist Tony Tony Chopper!
 
-386
+384
 00:25:05,150 --> 00:25:07,990
 Den Namen hat mir der
 weltbeste Arzt gegeben!
 
-387
+385
 00:25:08,650 --> 00:25:11,910
 Selbst wenn er dir vergeben hat,
 
-388
+386
 00:25:11,910 --> 00:25:15,080
 ich werde dir nie dafür vergeben,
 dass du ihn ausgelacht hast!
 
-389
+387
 00:25:21,960 --> 00:25:23,790
 Ich werde dir nicht vergeben
 
-390
+388
 00:25:23,790 --> 00:25:25,590
 und dich zerstampfen!
 
-391
+389
 00:25:27,630 --> 00:25:29,380
 Rumble Ball!
+

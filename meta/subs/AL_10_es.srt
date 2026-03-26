@@ -1753,16 +1753,6 @@ Karoo, líder del escuadrón y el Superescuadrón de Patos Picotinto
 00:18:38,100 --> 00:18:42,270
 F-Wani, perteneciente a la familia de los Bananawani, orden de los cocodrilos
 
-
-
-
-
-
-
-
-
-  (El segundo animal más rápido del Reino de Arabasta)
-
 436
 00:19:12,710 --> 00:19:17,300
 Ciudad portuaria, Nanohana
@@ -6356,3 +6346,4 @@ C
 1582
 00:01:42,630 --> 00:01:46,160
 F
+

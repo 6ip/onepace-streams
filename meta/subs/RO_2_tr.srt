@@ -1,1139 +1,1126 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:50,170 --> 00:02:00,170
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:02:02,310 --> 00:02:04,080
 Müthiş...
 
-4
+2
 00:02:13,110 --> 00:02:14,610
 Tamam!
 
-5
+3
 00:02:17,030 --> 00:02:19,410
 Aman, yine mi...
 
-6
+4
 00:02:19,410 --> 00:02:20,620
 Vurucu dışarı!
 
-7
+5
 00:02:20,620 --> 00:02:22,250
 Ne yapıyorsun?
 
-8
+6
 00:02:22,250 --> 00:02:23,640
 Beceriksiz!
 
-9
+7
 00:02:30,880 --> 00:02:32,630
 Gerçekten ağır...
 
-10
+8
 00:02:32,630 --> 00:02:36,340
 O zaman içkiyle dolu olmalı!
 
-11
+9
 00:02:47,310 --> 00:02:49,070
 Sancak tarafında tehlike!
 
-12
+10
 00:02:49,400 --> 00:02:51,730
 Direğin tepesinde korsan bayrağı asılı!
 
-13
+11
 00:02:51,730 --> 00:02:55,610
 Korsan gemisi!
 Düşman saldırısı! Düşman saldırısı!
 
-14
+12
 00:03:19,390 --> 00:03:20,890
 Koby!
 
-15
+13
 00:03:21,140 --> 00:03:22,350
 E-evet, madam?!
 
-16
+14
 00:03:22,350 --> 00:03:25,890
 Bu okyanustaki en güzel kadın kim?
 
-17
+15
 00:03:25,890 --> 00:03:30,610
 Tabii ki bu geminin kaptanı, Alvida-sama.
 
-18
+16
 00:03:36,650 --> 00:03:37,820
 İyi dedin!
 
-19
+17
 00:03:37,820 --> 00:03:39,820
 Ç-Çok teşekkür ederim!
 
-20
+18
 00:03:39,820 --> 00:03:42,450
 Alvida-sama, uzun zaman oldu değil mi?
 
-21
+19
 00:03:42,450 --> 00:03:43,540
 Doğru!
 
-22
+20
 00:03:44,040 --> 00:03:46,660
 Şimdi gemiyi bordaya alın!
 
-23
+21
 00:03:46,660 --> 00:03:48,890
 – Emredersiniz!
 – Emredersiniz!
 
-24
+22
 00:04:12,020 --> 00:04:17,320
 Adamlarım! Onlara demir topuzlu dişi
 korsan Alvida'nın gücünü gösterin!
 
-25
+23
 00:04:27,660 --> 00:04:29,920
 Koby! Sen ne yapıyorsun?
 
-26
+24
 00:04:29,920 --> 00:04:32,290
 B-Ben bu tür şeylerde pek iyi değilim.
 
-27
+25
 00:04:32,290 --> 00:04:33,540
 Ne...?!
 
-28
+26
 00:04:33,540 --> 00:04:36,210
 Bana karşı konuşmaya mı
 cüret ediyorsun?
 
-29
+27
 00:04:37,050 --> 00:04:39,970
 Lütfen, demir topuz harici bir şey olsun!
 
-30
+28
 00:04:40,930 --> 00:04:43,600
 Öyleyse çabuk ol ve işe koyul!
 
-31
+29
 00:05:04,450 --> 00:05:09,620
 Sizi öldürmeyeceğiz,
 ama değerli olan her şeyinizi alacağız.
 
-32
+30
 00:05:09,620 --> 00:05:14,420
 Direniş gösteren herkes okyanusa atılacak!
 
-33
+31
 00:05:14,840 --> 00:05:17,210
 Merhaba...?
 
-34
+32
 00:05:18,840 --> 00:05:22,050
 Burada kimse yok, değil mi...?
 
-35
+33
 00:05:22,680 --> 00:05:24,800
 Tanrı'ya şükür... Hm?
 
-36
+34
 00:05:26,890 --> 00:05:29,930
 Bu oldukça büyük bir fıçı.
 
-37
+35
 00:05:36,320 --> 00:05:37,940
 Hey, korkak!
 
-38
+36
 00:05:37,940 --> 00:05:40,610
 Yine saklanıp hiçbir şey
 yapmadan duruyor musun?
 
-39
+37
 00:05:40,610 --> 00:05:44,820
 Hiç de değil!
 Bu şarap fıçısını ittiriyordum...
 
-40
+38
 00:05:45,950 --> 00:05:47,950
 Yükünü hafifletmemize izin ver!
 
-41
+39
 00:05:47,950 --> 00:05:49,450
 Çok susadık.
 
-42
+40
 00:05:49,450 --> 00:05:52,920
 Olamaz! Eğer Alvida-sama bunu
 öğrenirse, öldürülürsünüz.
 
-43
+41
 00:05:52,920 --> 00:05:55,670
 Eğer çeneni kapalı tutarsan bir şey olmaz.
 
-44
+42
 00:05:55,670 --> 00:05:57,420
 Değil mi, Koby?
 
-45
+43
 00:05:57,420 --> 00:06:00,880
 E-Evet! Kesinlikle!
 
-46
+44
 00:06:00,880 --> 00:06:02,170
 Oldukça ağır...
 
-47
+45
 00:06:02,170 --> 00:06:03,340
 Sabırsızlanıyorum!
 
-48
+46
 00:06:03,340 --> 00:06:05,470
 Hemen açacağım!
 
-49
+47
 00:06:15,060 --> 00:06:22,650
 NE HARİKA BİR ŞEKERLEMEEEEEEE!
 
-50
+48
 00:06:25,950 --> 00:06:26,740
 Ne?
 
-51
+49
 00:06:30,870 --> 00:06:31,700
 Siz de kimsiniz?
 
-52
+50
 00:06:31,700 --> 00:06:33,620
 – Asıl sen kimsin lan?!
 – Asıl sen kimsin lan?!
 
-53
+51
 00:06:33,620 --> 00:06:35,630
 Eğer burda uyursa üşütecek.
 
-54
+52
 00:06:35,630 --> 00:06:37,460
 – Bu senin hatan!
 – Bu senin hatan!
 
-55
+53
 00:06:39,130 --> 00:06:40,230
 Pislik...!
 
-56
+54
 00:06:40,250 --> 00:06:43,970
 Sen kim olduğunu sanıyorsun da
 korsanlarla uğraşıyorsun, ha?!
 
-57
+55
 00:06:44,260 --> 00:06:47,930
 Acıktım! Yiyecek bir şeyin var mı?
 
-58
+56
 00:06:45,890 --> 00:06:47,930
 Bizi görmezden gelme!
 
-59
+57
 00:06:48,300 --> 00:06:50,430
 Seni lanet velet!
 
-60
+58
 00:06:52,680 --> 00:06:54,060
 Geber!
 
-61
+59
 00:07:10,410 --> 00:07:12,500
 Böyle aniden ne yapıyorsunuz?
 
-62
+60
 00:07:12,830 --> 00:07:14,710
 K... Kimsin sen?
 
-63
+61
 00:07:14,710 --> 00:07:15,460
 Ben mi?
 
-64
+62
 00:07:16,000 --> 00:07:19,710
 Ben, Monkey D. Luffy.
 Memnun oldum!
 
-65
+63
 00:07:27,390 --> 00:07:29,640
 Demin... demin ne oldu öyle?
 
-66
+64
 00:07:29,640 --> 00:07:31,390
 Onların sorunu ne?
 
-67
+65
 00:07:31,390 --> 00:07:33,020
 Çabuk! Hemen kaç!
 
-68
+66
 00:07:33,020 --> 00:07:36,020
 Arkadaşlarıyla birlikte geri geldikleri
 zaman, seni öldürecekler!
 
-69
+67
 00:07:36,020 --> 00:07:38,020
 Öyle bile olsa, çok açım!
 
-70
+68
 00:07:38,020 --> 00:07:41,020
 Nasıl bu kadar pervasız olabiliyorsun?!
 
-71
+69
 00:07:41,020 --> 00:07:44,610
 Güvertede bir sürü korsan var!
 
-72
+70
 00:07:44,610 --> 00:07:47,360
 O tarafa gitme.
 
-73
+71
 00:07:47,360 --> 00:07:48,820
 D-D-Dur!
 
-74
+72
 00:07:48,820 --> 00:07:51,780
 Yanlış yöne gidiyorsun!
 
-75
+73
 00:07:56,960 --> 00:08:00,330
 Yiyecek! Yiyecek! Yiyecek! Yaşasın!
 
-76
+74
 00:08:00,330 --> 00:08:04,670
 Aslında bizi burada bulamayabilirler!
 
-77
+75
 00:08:05,210 --> 00:08:08,630
 Hangisini alsam acaba?
 Bu kutuyu mu? Oh, bingo.
 
-78
+76
 00:08:08,630 --> 00:08:10,390
 Çok lezzetli görünüyorlar!
 
-79
+77
 00:08:10,390 --> 00:08:13,010
 B-Benim adım Koby.
 
-80
+78
 00:08:13,010 --> 00:08:14,770
 Sen Luffy-san'sın, değil mi?
 
-81
+79
 00:08:14,770 --> 00:08:17,640
 Az önce inanılmazdın!
 Bunu nasıl yaptın?!
 
-82
+80
 00:08:18,390 --> 00:08:19,600
 Bunlar harika!
 
-83
+81
 00:08:21,230 --> 00:08:22,980
 Bu gemi, korsan gemisi mi?
 
-84
+82
 00:08:22,980 --> 00:08:29,950
 Hayır, bu gemi, Alvida-sama tarafından
 yağmalanan bir yolcu gemisi.
 
-85
+83
 00:08:29,950 --> 00:08:31,740
 Benim için farketmez.
 
-86
+84
 00:08:31,740 --> 00:08:33,950
 Bu gemide hiç sandal var mı?
 
-87
+85
 00:08:33,950 --> 00:08:36,500
 Olabilir, ama...
 
-88
+86
 00:08:36,500 --> 00:08:38,960
 Benim gemim girdaba yakalandı.
 
-89
+87
 00:08:38,960 --> 00:08:42,590
 Eh, o girdaba mı? Ölmüş olmalıydın.
 
-90
+88
 00:08:42,590 --> 00:08:46,050
 Evet, beni gerçekten endişelendirdi.
 
-91
+89
 00:08:47,420 --> 00:08:50,430
 Sen de onlar gibi korsan mısın?
 
-92
+90
 00:08:49,680 --> 00:08:50,430
 Hm?
 
-93
+91
 00:08:53,890 --> 00:08:56,970
 O gün... vahim bir gündü.
 
-94
+92
 00:08:57,480 --> 00:09:02,940
 O gün, balığa çıkmak niyetiyle
 sandala binmiştim...
 
-95
+93
 00:09:08,320 --> 00:09:14,740
 Ama o sandal korsan gemisine
 doğru gidiyordu!
 
-96
+94
 00:09:14,740 --> 00:09:16,620
 Geçtiğimiz 2 yıldan beri,...
 
-97
+95
 00:09:16,620 --> 00:09:20,540
 ...beni öldürmemeleri için
 köle gibi çalışıyorum.
 
-98
+96
 00:09:21,080 --> 00:09:23,210
 Gerçekten aptalsın!
 
-99
+97
 00:09:23,210 --> 00:09:25,250
 Son derece dürüstsün.
 
-100
+98
 00:09:25,250 --> 00:09:26,500
 Kaçabilirsin!
 
-101
+99
 00:09:26,500 --> 00:09:29,300
 Y-Yapamam! İmkansız, imkansız!
 
-102
+100
 00:09:29,300 --> 00:09:33,050
 Alvida-sama'nın beni bulması
 düşüncesi bile dizlerimi titretiyor.
 
-103
+101
 00:09:33,300 --> 00:09:35,930
 Ne, sen şu korkak olanlardan mısın?
 
-104
+102
 00:09:35,930 --> 00:09:38,810
 Senden hoşlanmadım.
 
-105
+103
 00:09:40,520 --> 00:09:43,150
 Hey, gevşemeyi bırakın da acele edin.
 
-106
+104
 00:09:43,150 --> 00:09:46,020
 Denizciler buraya gelmeden
 her şeyi taşıyın!
 
-107
+105
 00:09:46,980 --> 00:09:50,950
 Her kim işi gevşek tutarsa,
 demir topuzumun tadına bakar!
 
-108
+106
 00:09:49,690 --> 00:09:50,950
 Ne ganimet ama!
 
-109
+107
 00:09:56,870 --> 00:09:58,080
 – Alvida-sama!
 – Alvida-sama!
 
-110
+108
 00:09:59,370 --> 00:10:00,040
 – Sorun var!
 – Sorun var!
 
-111
+109
 00:10:00,410 --> 00:10:02,210
 Ne oldu?
 Çok gürültü yapıyorsunuz.
 
-112
+110
 00:10:02,210 --> 00:10:03,620
 F-f-fıçı!
 
-113
+111
 00:10:03,620 --> 00:10:05,420
 Y-Yaratık!
 
-114
+112
 00:10:05,420 --> 00:10:06,460
 Ha?!
 
-115
+113
 00:10:08,300 --> 00:10:10,420
 Kimmiş yaratık?
 
-116
+114
 00:10:17,930 --> 00:10:19,680
 Yanlış anladınız...
 
-117
+115
 00:10:19,680 --> 00:10:22,640
 Fıçıdan garip bir adam çıktı...
 
-118
+116
 00:10:22,640 --> 00:10:26,310
 Ödül avcısı olabilir.
 
-119
+117
 00:10:26,310 --> 00:10:27,940
 Ne?!
 
-120
+118
 00:10:28,980 --> 00:10:30,320
 Evet.
 
-121
+119
 00:10:30,570 --> 00:10:31,820
 Haklısın.
 
-122
+120
 00:10:31,820 --> 00:10:36,320
 Keşke bir varilin içinde denizlerde
 savrulacak kadar cesaretim olsaydı,...
 
-123
+121
 00:10:36,320 --> 00:10:40,330
 ...o zaman gerçekten
 istediğim şeyi başarmış olurdum.
 
-124
+122
 00:10:40,330 --> 00:10:44,580
 Şey... Seni denize açılmaya
 ne itti, Luffy-san?
 
-125
+123
 00:10:44,580 --> 00:10:45,290
 Ha?
 
-126
+124
 00:10:45,790 --> 00:10:48,090
 Ben, Korsanlar Kralı olacağım!
 
-127
+125
 00:10:50,210 --> 00:10:52,340
 Ko-Ko-Korsanlar Kralı mı?!
 
-128
+126
 00:10:52,340 --> 00:10:52,760
 Aynen.
 
-129
+127
 00:10:52,760 --> 00:10:53,840
 Ciddi misin?!
 
-130
+128
 00:10:53,840 --> 00:10:54,470
 Ciddiyim.
 
-131
+129
 00:10:54,470 --> 00:10:57,260
 Yani Luffy-san, sende mi korsansın?
 
-132
+130
 00:10:57,260 --> 00:10:58,220
 Tabii.
 
-133
+131
 00:10:58,220 --> 00:10:59,100
 Peki tayfan...?
 
-134
+132
 00:10:59,100 --> 00:11:01,270
 Hiç yok, ama şu anda bulmaya çalışıyorum.
 
-135
+133
 00:11:05,850 --> 00:11:11,980
 K-K-Korsanlar Kralı, bu dünyanın
 sunduğu her şeyi elde eden kişidir!
 
-136
+134
 00:11:11,980 --> 00:11:15,910
 Bu, en büyük zenginliği, şöhreti ve
 gücü aramak anlamına gelir.
 
-137
+135
 00:11:15,910 --> 00:11:18,570
 One Piece'in peşinden gittiğini
 söyleme bana.
 
-138
+136
 00:11:18,570 --> 00:11:19,070
 Aynen!
 
-139
+137
 00:11:19,070 --> 00:11:23,540
 "Aynen mi"?! Dünyadaki bütün
 korsanlar o hazinenin peşinden gidiyor!
 
-140
+138
 00:11:23,540 --> 00:11:24,580
 Ben de gidiyorum!
 
-141
+139
 00:11:24,580 --> 00:11:28,420
 İmkansız, imkansız, imkansız,
 imkansız, kesinlikle imkansız!
 
-142
+140
 00:11:28,420 --> 00:11:32,090
 Bu Büyük Korsan Çağı'nın
 zirvesine çıkman imkansız!
 
-143
+141
 00:11:32,090 --> 00:11:33,170
 İmkansız! İmkansız!
 
-144
+142
 00:11:35,510 --> 00:11:37,640
 Bana niye vurdun?
 
-145
+143
 00:11:37,640 --> 00:11:39,010
 İçimden geldi.
 
-146
+144
 00:11:39,760 --> 00:11:42,640
 Sorun değil,
 nasıl olsa buna alıştım.
 
-147
+145
 00:11:46,230 --> 00:11:48,100
 İmkansız olup olmaması önemli değil.
 
-148
+146
 00:11:48,100 --> 00:11:48,730
 Ha?
 
-149
+147
 00:11:48,730 --> 00:11:50,400
 Bunu istediğim için yapıyorum.
 
-150
+148
 00:11:53,230 --> 00:11:56,740
 Ben, Korsanlar Kralı olmaya karar verdim.
 
-151
+149
 00:11:56,740 --> 00:11:59,950
 Bu yolda ölsem bile farketmez.
 
-152
+150
 00:12:02,950 --> 00:12:07,160
 Artık doyduğuma göre,
 gidip bir sandal alabilirim.
 
-153
+151
 00:12:07,160 --> 00:12:08,870
 Acaba bana bir tane verirler mi?
 
-154
+152
 00:12:08,870 --> 00:12:11,130
 Umarım cömert olurlar.
 
-155
+153
 00:12:12,040 --> 00:12:14,670
 Bunu hiç düşünmemiştim.
 
-156
+154
 00:12:16,050 --> 00:12:18,260
 Bunu ben de yapabilir miyim?
 
-157
+155
 00:12:19,180 --> 00:12:20,890
 Ölmekten korkmadan.
 
-158
+156
 00:12:20,890 --> 00:12:21,720
 Neyi?
 
-159
+157
 00:12:22,390 --> 00:12:23,510
 Sence...
 
-160
+158
 00:12:24,010 --> 00:12:26,140
 ...donanmaya katılabilir miyim?
 
-161
+159
 00:12:27,100 --> 00:12:27,940
 Donanma mı?!
 
-162
+160
 00:12:27,940 --> 00:12:31,730
 Evet! Kötü adamları yakalamak
 benim hayalim!
 
-163
+161
 00:12:31,980 --> 00:12:34,190
 Çocukluğumdan beri hayalimdi!
 
-164
+162
 00:12:34,190 --> 00:12:35,940
 Bunu yapabilir miyim?
 
-165
+163
 00:12:35,940 --> 00:12:37,070
 Ben nereden bileyim?
 
-166
+164
 00:12:37,070 --> 00:12:38,570
 Hayır, bunu yapacağım!
 
-167
+165
 00:12:38,570 --> 00:12:42,830
 Ya hayatım boyunca miço olarak
 kalırım ya da Alvida-sama'yı...
 
-168
+166
 00:12:42,830 --> 00:12:45,200
 Hayır, Alvida'yı yakalayıp özgür olurum!
 
-169
+167
 00:12:52,040 --> 00:12:54,710
 Böyle arkadaş edinerek...
 
-170
+168
 00:12:54,710 --> 00:12:57,170
 ...kimi yakalayacaksın?
 
-171
+169
 00:12:57,170 --> 00:12:59,930
 Ha, Koby?!
 
-172
+170
 00:13:13,900 --> 00:13:16,400
 Korsan Avcısı Zoro'ya hiç benzemiyorsun.
 
-173
+171
 00:13:17,400 --> 00:13:18,190
 Zoro mu?
 
-174
+172
 00:13:18,190 --> 00:13:19,860
 Koby!
 
-175
+173
 00:13:20,110 --> 00:13:24,120
 Bu okyanusta en güzel kadın kim?!
 
-176
+174
 00:13:25,330 --> 00:13:27,290
 E-Elbette siz–
 
-177
+175
 00:13:27,910 --> 00:13:29,750
 Bu şişman kadın kim?
 
-178
+176
 00:13:36,210 --> 00:13:37,050
 "Şişman" mı?
 
-179
+177
 00:13:37,050 --> 00:13:38,170
 Sıçtı...
 
-180
+178
 00:13:40,970 --> 00:13:44,140
 Seni bücür!
 
-181
+179
 00:13:47,100 --> 00:13:48,060
 Gidelim!
 
-182
+180
 00:13:56,570 --> 00:13:57,690
 Seni...!
 
-183
+181
 00:14:18,380 --> 00:14:21,800
 Arkadan saldırmak hiç adil değil!
 
-184
+182
 00:14:28,930 --> 00:14:32,980
 Çok fazla kişiyle saldırmak da adil değil!
 
-185
+183
 00:14:42,280 --> 00:14:43,280
 Kandırdım!
 
-186
+184
 00:14:45,160 --> 00:14:50,410
 Lastik-Lastik...
 
-187
+185
 00:14:51,750 --> 00:14:55,250
 Roket!
 
-188
+186
 00:14:56,170 --> 00:14:57,750
 Nee?!
 
-189
+187
 00:15:03,050 --> 00:15:06,260
 Luffy-san, nesin sen?
 
-190
+188
 00:15:06,260 --> 00:15:06,720
 Ben mi?
 
-191
+189
 00:15:07,510 --> 00:15:09,180
 Ben lastik adamım.
 
-192
+190
 00:15:09,810 --> 00:15:13,680
 Lastik adam mı?
 Ciddi olamazsın!
 
-193
+191
 00:15:16,770 --> 00:15:19,440
 Şeytan meyvesini yedin, değil mi?
 
-194
+192
 00:15:20,190 --> 00:15:22,280
 Evet! Lastik-Lastik meyvesini yedim.
 
-195
+193
 00:15:22,530 --> 00:15:24,280
 Anlıyorum!
 
-196
+194
 00:15:24,280 --> 00:15:29,490
 Söylentiler duymuştum ama
 sanırım gerçekten varlarmış!
 
-197
+195
 00:15:29,830 --> 00:15:32,040
 Sen de fena değilsin.
 
-198
+196
 00:15:32,040 --> 00:15:33,410
 Ödül avcısı mısın?
 
-199
+197
 00:15:33,790 --> 00:15:34,960
 Hayır, korsanım!
 
-200
+198
 00:15:34,960 --> 00:15:36,710
 Korsan mı?! Ha!
 
-201
+199
 00:15:36,710 --> 00:15:37,790
 Tek başına mı?!
 
-202
+200
 00:15:37,790 --> 00:15:41,630
 Şu an sadece ben varım ama
 bir tayfa kuracağım!
 
-203
+201
 00:15:41,630 --> 00:15:44,470
 Şöyle bi'... on kişi iyi olur gibi!
 
-204
+202
 00:15:44,470 --> 00:15:48,430
 Bu bizi düşman yapıyor, değil mi?
 
-205
+203
 00:15:48,430 --> 00:15:50,800
 Lu... Luffy-san, kaç.
 
-206
+204
 00:15:50,800 --> 00:15:51,310
 Neden?
 
-207
+205
 00:15:51,310 --> 00:15:53,470
 O demir topuzun gücünü gördün.
 
-208
+206
 00:15:53,850 --> 00:15:56,690
 Bu kadın bir numaralı...
 
-209
+207
 00:15:59,150 --> 00:16:02,900
 Ben, Korsanlar Kralı olmaya karar verdim.
 
-210
+208
 00:16:02,900 --> 00:16:06,070
 Bu yolda ölsem bile farketmez.
 
-211
+209
 00:16:09,360 --> 00:16:11,870
 Bir numaralı ne?
 
-212
+210
 00:16:11,870 --> 00:16:14,620
 Bir... bir... bir...
 
-213
+211
 00:16:15,500 --> 00:16:21,290
 Bir numaralı kokuşmuş, çirkin ve
 yaşlı bir kocakarıdır!
 
-214
+212
 00:16:32,850 --> 00:16:35,140
 N-Ne dedin sen?!
 
-215
+213
 00:16:35,770 --> 00:16:38,140
 B-Ben donanmaya katılacağım!
 
-216
+214
 00:16:38,140 --> 00:16:41,150
 Katılıp senin gibi korsanlarla dövüşeceğim!
 
-217
+215
 00:16:41,150 --> 00:16:43,520
 Sen ne dediğinin farkında mısın?!
 
-218
+216
 00:16:43,520 --> 00:16:47,150
 Farkındayım!
 Ben istediğim şeyi yapacağım!
 
-219
+217
 00:16:47,150 --> 00:16:49,150
 Ben... Ben bir denizci olduğumda...
 
-220
+218
 00:16:49,150 --> 00:16:51,820
 Seni sonsuza kadar hapse tıkacağım!
 
-221
+219
 00:16:51,820 --> 00:16:54,870
 Seni lanet tıfıl!
 
-222
+220
 00:16:54,870 --> 00:16:59,370
 Pişmanlık yok! Pişmanlık yok!
 Söyledim! Hayalim için savaştım!
 
-223
+221
 00:16:59,370 --> 00:17:00,460
 İyi dedin!
 
-224
+222
 00:17:13,010 --> 00:17:14,350
 İşe yaramaz!
 
-225
+223
 00:17:14,350 --> 00:17:15,470
 Ne?!
 
-226
+224
 00:17:15,470 --> 00:17:17,100
 Çünkü ben lastiğim.
 
-227
+225
 00:17:19,480 --> 00:17:23,730
 Lastik-Lastik...
 
-228
+226
 00:17:24,730 --> 00:17:30,150
 Tabanca!
 
-229
+227
 00:17:48,260 --> 00:17:51,170
 Gökyüzü masmavi...
 
-230
+228
 00:18:02,850 --> 00:18:03,520
 Hey!
 
-231
+229
 00:18:03,520 --> 00:18:04,400
 – Evet?!
 – Evet?!
 
-232
+230
 00:18:04,400 --> 00:18:07,110
 Koby'ye sandal verin.
 
-233
+231
 00:18:07,110 --> 00:18:09,230
 Donanmaya katılacak.
 
-234
+232
 00:18:09,230 --> 00:18:10,690
 Bırakın gitsin.
 
-235
+233
 00:18:11,450 --> 00:18:13,160
 – T-Tabii!
 – T-Tabii!
 
-236
+234
 00:18:14,870 --> 00:18:16,200
 Luffy-san...!
 
-237
+235
 00:18:23,210 --> 00:18:25,330
 Bunlar... Denizciler!
 
-238
+236
 00:18:25,330 --> 00:18:26,340
 Oh!
 
-239
+237
 00:18:26,590 --> 00:18:29,380
 Harika zamanlama! 
 Onları görmelisin!
 
-240
+238
 00:18:29,380 --> 00:18:29,960
 Ha?
 
-241
+239
 00:18:29,960 --> 00:18:31,340
 Ben korsanım, kaçma zamanı!
 
-242
+240
 00:18:31,340 --> 00:18:32,340
 Ciddi misin?!
 
-243
+241
 00:18:32,340 --> 00:18:36,050
 Donanmaya böyle katılamam.
 Giremeden beni tutuklarlar!
 
-244
+242
 00:18:48,730 --> 00:18:50,940
 Neyse ki kaçabildik, ha?
 
-245
+243
 00:18:50,940 --> 00:18:53,280
 Uf, çok eğlenceliydi!
 
-246
+244
 00:18:54,280 --> 00:18:55,660
 Şey, Luffy-san.
 
-247
+245
 00:18:55,660 --> 00:18:56,410
 Evet?
 
-248
+246
 00:18:56,410 --> 00:19:01,200
 Eğer One Piece'i arıyorsan, o zaman
 Grand Line'a gidiyorsun, değil mi?
 
-249
+247
 00:19:01,200 --> 00:19:01,790
 Aynen.
 
-250
+248
 00:19:01,790 --> 00:19:04,920
 O yer aynı zamanda Korsan Mezarlığı
 olarak da bilinir.
 
-251
+249
 00:19:04,920 --> 00:19:07,790
 Evet, işte bu yüzden
 güçlü bir tayfaya ihtiyacım var.
 
-252
+250
 00:19:08,250 --> 00:19:10,500
 Şu korsan avcısı...
 
-253
+251
 00:19:10,500 --> 00:19:11,590
 O nasıl biri?
 
-254
+252
 00:19:12,170 --> 00:19:13,670
 Zoro'yu mu kastediyorsun?
 
-255
+253
 00:19:13,670 --> 00:19:17,340
 Donanma tarafından yakalandığını duydum.
 
-256
+254
 00:19:17,340 --> 00:19:19,260
 Ne? O güçsüz biri mi?
 
-257
+255
 00:19:19,260 --> 00:19:20,600
 Hiç de değil!
 
-258
+256
 00:19:20,600 --> 00:19:24,390
 O dehşet verici bir şeytan!
 
-259
+257
 00:19:25,350 --> 00:19:27,690
 Niye bana bunu soruyorsun?
 
-260
+258
 00:19:28,690 --> 00:19:31,650
 Eğer iyi biriyse, tayfama alabilirim!
 
-261
+259
 00:19:32,980 --> 00:19:35,110
 Yine pervasızca bir şey yapacaksın.
 
-262
+260
 00:19:35,110 --> 00:19:36,860
 İyi bir adam olabilir!
 
-263
+261
 00:19:36,860 --> 00:19:39,120
 O kötü bir adam olduğu için yakalandı!
 
-264
+262
 00:19:39,120 --> 00:19:42,080
 Hayır! İmkansız, imkansız, imkansız,
 Kesinlikle imkan–
 
-265
+263
 00:19:43,120 --> 00:19:45,370
 Bana niye vurdun?
 
-266
+264
 00:19:45,370 --> 00:19:46,580
 İçimden geldi.
 
-267
+265
 00:03:20,930 --> 00:03:25,640
 "Kamarot" Koby
+
+266
+00:03:20,930 --> 00:03:25,640
+"Kamarot" Koby
+
+267
+00:03:35,570 --> 00:03:39,780
+"Demir Topuz" Alvida
+Kadın Korsan
 
 268
-00:03:20,930 --> 00:03:25,640
-"Kamarot" Koby
-
-269
 00:03:35,570 --> 00:03:39,780
 "Demir Topuz" Alvida
 Kadın Korsan
 
-270
-00:03:35,570 --> 00:03:39,780
-"Demir Topuz" Alvida
-Kadın Korsan

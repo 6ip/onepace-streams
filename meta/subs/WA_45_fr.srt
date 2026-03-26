@@ -2024,1513 +2024,1009 @@ BOUM
 00:20:58,110 --> 00:20:58,150
 Position
 
-Actuelle
-
 478
 00:20:58,150 --> 00:20:58,190
 Position
-
-Actuelle
 
 479
 00:20:58,190 --> 00:20:58,230
 Position
 
-Actuelle
-
 480
 00:20:58,230 --> 00:20:58,270
 Position
-
-Actuelle
 
 481
 00:20:58,270 --> 00:20:58,320
 Position
 
-Actuelle
-
 482
 00:20:58,320 --> 00:20:58,360
 Position
-
-Actuelle
 
 483
 00:20:58,360 --> 00:20:58,400
 Position
 
-Actuelle
-
 484
 00:20:58,400 --> 00:20:58,440
 Position
-
-Actuelle
 
 485
 00:20:58,440 --> 00:20:58,480
 Position
 
-Actuelle
-
 486
 00:20:58,480 --> 00:20:58,520
 Position
-
-Actuelle
 
 487
 00:20:58,520 --> 00:20:58,570
 Position
 
-Actuelle
-
 488
 00:20:58,570 --> 00:20:58,610
 Position
-
-Actuelle
 
 489
 00:20:58,610 --> 00:20:58,650
 Position
 
-Actuelle
-
 490
 00:20:58,650 --> 00:20:58,690
 Position
-
-Actuelle
 
 491
 00:20:58,690 --> 00:20:58,730
 Position
 
-Actuelle
-
 492
 00:20:58,730 --> 00:20:58,770
 Position
-
-Actuelle
 
 493
 00:20:58,770 --> 00:20:58,820
 Position
 
-Actuelle
-
 494
 00:20:58,820 --> 00:20:58,860
 Position
-
-Actuelle
 
 495
 00:20:58,860 --> 00:20:58,900
 Position
 
-Actuelle
-
 496
 00:20:58,900 --> 00:20:58,940
 Position
-
-Actuelle
 
 497
 00:20:58,940 --> 00:20:58,980
 Position
 
-Actuelle
-
 498
 00:20:58,980 --> 00:20:59,020
 Position
-
-Actuelle
 
 499
 00:20:59,020 --> 00:20:59,070
 Position
 
-Actuelle
-
 500
 00:20:59,070 --> 00:20:59,110
 Position
-
-Actuelle
 
 501
 00:20:59,110 --> 00:20:59,150
 Position
 
-Actuelle
-
 502
 00:20:59,150 --> 00:20:59,190
 Position
-
-Actuelle
 
 503
 00:20:59,190 --> 00:20:59,230
 Position
 
-Actuelle
-
 504
 00:20:59,230 --> 00:20:59,270
 Position
-
-Actuelle
 
 505
 00:20:59,270 --> 00:20:59,320
 Position
 
-Actuelle
-
 506
 00:20:59,320 --> 00:20:59,360
 Position
-
-Actuelle
 
 507
 00:20:59,360 --> 00:20:59,400
 Position
 
-Actuelle
-
 508
 00:20:59,400 --> 00:20:59,440
 Position
-
-Actuelle
 
 509
 00:20:59,440 --> 00:20:59,480
 Position
 
-Actuelle
-
 510
 00:20:59,480 --> 00:20:59,520
 Position
-
-Actuelle
 
 511
 00:20:59,520 --> 00:20:59,570
 Position
 
-Actuelle
-
 512
 00:20:59,570 --> 00:20:59,610
 Position
-
-Actuelle
 
 513
 00:20:59,610 --> 00:20:59,650
 Position
 
-Actuelle
-
 514
 00:20:59,650 --> 00:20:59,690
 Position
-
-Actuelle
 
 515
 00:20:59,690 --> 00:20:59,730
 Position
 
-Actuelle
-
 516
 00:20:59,730 --> 00:20:59,780
 Position
-
-Actuelle
 
 517
 00:20:59,780 --> 00:20:59,820
 Position
 
-Actuelle
-
 518
 00:20:59,820 --> 00:20:59,860
 Position
-
-Actuelle
 
 519
 00:20:59,860 --> 00:20:59,900
 Position
 
-Actuelle
-
 520
 00:20:59,900 --> 00:20:59,940
 Position
-
-Actuelle
 
 521
 00:20:59,940 --> 00:20:59,980
 Position
 
-Actuelle
-
 522
 00:20:59,980 --> 00:21:00,030
 Position
-
-Actuelle
 
 523
 00:21:00,030 --> 00:21:00,070
 Position
 
-Actuelle
-
 524
 00:21:00,070 --> 00:21:00,110
 Position
-
-Actuelle
 
 525
 00:21:00,110 --> 00:21:00,150
 Position
 
-Actuelle
-
 526
 00:21:00,150 --> 00:21:00,190
 Position
-
-Actuelle
 
 527
 00:21:00,190 --> 00:21:00,230
 Position
 
-Actuelle
-
 528
 00:21:00,230 --> 00:21:00,280
 Position
-
-Actuelle
 
 529
 00:21:00,280 --> 00:21:00,320
 Position
 
-Actuelle
-
 530
 00:21:00,320 --> 00:21:00,360
 Position
-
-Actuelle
 
 531
 00:21:00,360 --> 00:21:00,400
 Position
 
-Actuelle
-
 532
 00:21:00,400 --> 00:21:00,440
 Position
-
-Actuelle
 
 533
 00:21:00,440 --> 00:21:00,480
 Position
 
-Actuelle
-
 534
 00:21:00,480 --> 00:21:00,530
 Position
-
-Actuelle
 
 535
 00:21:00,530 --> 00:21:00,570
 Position
 
-Actuelle
-
 536
 00:21:00,570 --> 00:21:00,610
 Position
-
-Actuelle
 
 537
 00:21:00,610 --> 00:21:00,650
 Position
 
-Actuelle
-
 538
 00:21:00,650 --> 00:21:00,690
 Position
-
-Actuelle
 
 539
 00:21:00,690 --> 00:21:00,730
 Position
 
-Actuelle
-
 540
 00:21:00,730 --> 00:21:00,780
 Position
-
-Actuelle
 
 541
 00:21:00,780 --> 00:21:00,820
 Position
 
-Actuelle
-
 542
 00:21:00,820 --> 00:21:00,860
 Position
-
-Actuelle
 
 543
 00:21:00,860 --> 00:21:00,900
 Position
 
-Actuelle
-
 544
 00:21:00,900 --> 00:21:00,940
 Position
-
-Actuelle
 
 545
 00:21:00,940 --> 00:21:00,980
 Position
 
-Actuelle
-
 546
 00:21:00,980 --> 00:21:01,030
 Position
-
-Actuelle
 
 547
 00:21:01,030 --> 00:21:01,070
 Position
 
-Actuelle
-
 548
 00:21:01,070 --> 00:21:01,110
 Position
-
-Actuelle
 
 549
 00:21:01,110 --> 00:21:01,150
 Position
 
-Actuelle
-
 550
 00:21:01,150 --> 00:21:01,190
 Position
-
-Actuelle
 
 551
 00:21:01,190 --> 00:21:01,230
 Position
 
-Actuelle
-
 552
 00:21:01,230 --> 00:21:01,280
 Position
-
-Actuelle
 
 553
 00:21:01,280 --> 00:21:01,320
 Position
 
-Actuelle
-
 554
 00:21:01,320 --> 00:21:01,360
 Position
-
-Actuelle
 
 555
 00:21:01,360 --> 00:21:01,400
 Position
 
-Actuelle
-
 556
 00:21:01,400 --> 00:21:01,440
 Position
-
-Actuelle
 
 557
 00:21:01,440 --> 00:21:01,490
 Position
 
-Actuelle
-
 558
 00:21:01,490 --> 00:21:01,530
 Position
-
-Actuelle
 
 559
 00:21:01,530 --> 00:21:01,570
 Position
 
-Actuelle
-
 560
 00:20:58,110 --> 00:20:58,150
 Position
-
-Actuelle
 
 561
 00:20:58,150 --> 00:20:58,190
 Position
 
-Actuelle
-
 562
 00:20:58,190 --> 00:20:58,230
 Position
-
-Actuelle
 
 563
 00:20:58,230 --> 00:20:58,270
 Position
 
-Actuelle
-
 564
 00:20:58,270 --> 00:20:58,320
 Position
-
-Actuelle
 
 565
 00:20:58,320 --> 00:20:58,360
 Position
 
-Actuelle
-
 566
 00:20:58,360 --> 00:20:58,400
 Position
-
-Actuelle
 
 567
 00:20:58,400 --> 00:20:58,440
 Position
 
-Actuelle
-
 568
 00:20:58,440 --> 00:20:58,480
 Position
-
-Actuelle
 
 569
 00:20:58,480 --> 00:20:58,520
 Position
 
-Actuelle
-
 570
 00:20:58,520 --> 00:20:58,570
 Position
-
-Actuelle
 
 571
 00:20:58,570 --> 00:20:58,610
 Position
 
-Actuelle
-
 572
 00:20:58,610 --> 00:20:58,650
 Position
-
-Actuelle
 
 573
 00:20:58,650 --> 00:20:58,690
 Position
 
-Actuelle
-
 574
 00:20:58,690 --> 00:20:58,730
 Position
-
-Actuelle
 
 575
 00:20:58,730 --> 00:20:58,770
 Position
 
-Actuelle
-
 576
 00:20:58,770 --> 00:20:58,820
 Position
-
-Actuelle
 
 577
 00:20:58,820 --> 00:20:58,860
 Position
 
-Actuelle
-
 578
 00:20:58,860 --> 00:20:58,900
 Position
-
-Actuelle
 
 579
 00:20:58,900 --> 00:20:58,940
 Position
 
-Actuelle
-
 580
 00:20:58,940 --> 00:20:58,980
 Position
-
-Actuelle
 
 581
 00:20:58,980 --> 00:20:59,020
 Position
 
-Actuelle
-
 582
 00:20:59,020 --> 00:20:59,070
 Position
-
-Actuelle
 
 583
 00:20:59,070 --> 00:20:59,110
 Position
 
-Actuelle
-
 584
 00:20:59,110 --> 00:20:59,150
 Position
-
-Actuelle
 
 585
 00:20:59,150 --> 00:20:59,190
 Position
 
-Actuelle
-
 586
 00:20:59,190 --> 00:20:59,230
 Position
-
-Actuelle
 
 587
 00:20:59,230 --> 00:20:59,270
 Position
 
-Actuelle
-
 588
 00:20:59,270 --> 00:20:59,320
 Position
-
-Actuelle
 
 589
 00:20:59,320 --> 00:20:59,360
 Position
 
-Actuelle
-
 590
 00:20:59,360 --> 00:20:59,400
 Position
-
-Actuelle
 
 591
 00:20:59,400 --> 00:20:59,440
 Position
 
-Actuelle
-
 592
 00:20:59,440 --> 00:20:59,480
 Position
-
-Actuelle
 
 593
 00:20:59,480 --> 00:20:59,520
 Position
 
-Actuelle
-
 594
 00:20:59,520 --> 00:20:59,570
 Position
-
-Actuelle
 
 595
 00:20:59,570 --> 00:20:59,610
 Position
 
-Actuelle
-
 596
 00:20:59,610 --> 00:20:59,650
 Position
-
-Actuelle
 
 597
 00:20:59,650 --> 00:20:59,690
 Position
 
-Actuelle
-
 598
 00:20:59,690 --> 00:20:59,730
 Position
-
-Actuelle
 
 599
 00:20:59,730 --> 00:20:59,780
 Position
 
-Actuelle
-
 600
 00:20:59,780 --> 00:20:59,820
 Position
-
-Actuelle
 
 601
 00:20:59,820 --> 00:20:59,860
 Position
 
-Actuelle
-
 602
 00:20:59,860 --> 00:20:59,900
 Position
-
-Actuelle
 
 603
 00:20:59,900 --> 00:20:59,940
 Position
 
-Actuelle
-
 604
 00:20:59,940 --> 00:20:59,980
 Position
-
-Actuelle
 
 605
 00:20:59,980 --> 00:21:00,030
 Position
 
-Actuelle
-
 606
 00:21:00,030 --> 00:21:00,070
 Position
-
-Actuelle
 
 607
 00:21:00,070 --> 00:21:00,110
 Position
 
-Actuelle
-
 608
 00:21:00,110 --> 00:21:00,150
 Position
-
-Actuelle
 
 609
 00:21:00,150 --> 00:21:00,190
 Position
 
-Actuelle
-
 610
 00:21:00,190 --> 00:21:00,230
 Position
-
-Actuelle
 
 611
 00:21:00,230 --> 00:21:00,280
 Position
 
-Actuelle
-
 612
 00:21:00,280 --> 00:21:00,320
 Position
-
-Actuelle
 
 613
 00:21:00,320 --> 00:21:00,360
 Position
 
-Actuelle
-
 614
 00:21:00,360 --> 00:21:00,400
 Position
-
-Actuelle
 
 615
 00:21:00,400 --> 00:21:00,440
 Position
 
-Actuelle
-
 616
 00:21:00,440 --> 00:21:00,480
 Position
-
-Actuelle
 
 617
 00:21:00,480 --> 00:21:00,530
 Position
 
-Actuelle
-
 618
 00:21:00,530 --> 00:21:00,570
 Position
-
-Actuelle
 
 619
 00:21:00,570 --> 00:21:00,610
 Position
 
-Actuelle
-
 620
 00:21:00,610 --> 00:21:00,650
 Position
-
-Actuelle
 
 621
 00:21:00,650 --> 00:21:00,690
 Position
 
-Actuelle
-
 622
 00:21:00,690 --> 00:21:00,730
 Position
-
-Actuelle
 
 623
 00:21:00,730 --> 00:21:00,780
 Position
 
-Actuelle
-
 624
 00:21:00,780 --> 00:21:00,820
 Position
-
-Actuelle
 
 625
 00:21:00,820 --> 00:21:00,860
 Position
 
-Actuelle
-
 626
 00:21:00,860 --> 00:21:00,900
 Position
-
-Actuelle
 
 627
 00:21:00,900 --> 00:21:00,940
 Position
 
-Actuelle
-
 628
 00:21:00,940 --> 00:21:00,980
 Position
-
-Actuelle
 
 629
 00:21:00,980 --> 00:21:01,030
 Position
 
-Actuelle
-
 630
 00:21:01,030 --> 00:21:01,070
 Position
-
-Actuelle
 
 631
 00:21:01,070 --> 00:21:01,110
 Position
 
-Actuelle
-
 632
 00:21:01,110 --> 00:21:01,150
 Position
-
-Actuelle
 
 633
 00:21:01,150 --> 00:21:01,190
 Position
 
-Actuelle
-
 634
 00:21:01,190 --> 00:21:01,230
 Position
-
-Actuelle
 
 635
 00:21:01,230 --> 00:21:01,280
 Position
 
-Actuelle
-
 636
 00:21:01,280 --> 00:21:01,320
 Position
-
-Actuelle
 
 637
 00:21:01,320 --> 00:21:01,360
 Position
 
-Actuelle
-
 638
 00:21:01,360 --> 00:21:01,400
 Position
-
-Actuelle
 
 639
 00:21:01,400 --> 00:21:01,440
 Position
 
-Actuelle
-
 640
 00:21:01,440 --> 00:21:01,490
 Position
-
-Actuelle
 
 641
 00:21:01,490 --> 00:21:01,530
 Position
 
-Actuelle
-
 642
 00:21:01,530 --> 00:21:01,570
 Position
-
-Actuelle
 
 643
 00:20:58,110 --> 00:20:58,150
 Position
 
-Actuelle
-
 644
 00:20:58,150 --> 00:20:58,190
 Position
-
-Actuelle
 
 645
 00:20:58,190 --> 00:20:58,230
 Position
 
-Actuelle
-
 646
 00:20:58,230 --> 00:20:58,270
 Position
-
-Actuelle
 
 647
 00:20:58,270 --> 00:20:58,320
 Position
 
-Actuelle
-
 648
 00:20:58,320 --> 00:20:58,360
 Position
-
-Actuelle
 
 649
 00:20:58,360 --> 00:20:58,400
 Position
 
-Actuelle
-
 650
 00:20:58,400 --> 00:20:58,440
 Position
-
-Actuelle
 
 651
 00:20:58,440 --> 00:20:58,480
 Position
 
-Actuelle
-
 652
 00:20:58,480 --> 00:20:58,520
 Position
-
-Actuelle
 
 653
 00:20:58,520 --> 00:20:58,570
 Position
 
-Actuelle
-
 654
 00:20:58,570 --> 00:20:58,610
 Position
-
-Actuelle
 
 655
 00:20:58,610 --> 00:20:58,650
 Position
 
-Actuelle
-
 656
 00:20:58,650 --> 00:20:58,690
 Position
-
-Actuelle
 
 657
 00:20:58,690 --> 00:20:58,730
 Position
 
-Actuelle
-
 658
 00:20:58,730 --> 00:20:58,770
 Position
-
-Actuelle
 
 659
 00:20:58,770 --> 00:20:58,820
 Position
 
-Actuelle
-
 660
 00:20:58,820 --> 00:20:58,860
 Position
-
-Actuelle
 
 661
 00:20:58,860 --> 00:20:58,900
 Position
 
-Actuelle
-
 662
 00:20:58,900 --> 00:20:58,940
 Position
-
-Actuelle
 
 663
 00:20:58,940 --> 00:20:58,980
 Position
 
-Actuelle
-
 664
 00:20:58,980 --> 00:20:59,020
 Position
-
-Actuelle
 
 665
 00:20:59,020 --> 00:20:59,070
 Position
 
-Actuelle
-
 666
 00:20:59,070 --> 00:20:59,110
 Position
-
-Actuelle
 
 667
 00:20:59,110 --> 00:20:59,150
 Position
 
-Actuelle
-
 668
 00:20:59,150 --> 00:20:59,190
 Position
-
-Actuelle
 
 669
 00:20:59,190 --> 00:20:59,230
 Position
 
-Actuelle
-
 670
 00:20:59,230 --> 00:20:59,270
 Position
-
-Actuelle
 
 671
 00:20:59,270 --> 00:20:59,320
 Position
 
-Actuelle
-
 672
 00:20:59,320 --> 00:20:59,360
 Position
-
-Actuelle
 
 673
 00:20:59,360 --> 00:20:59,400
 Position
 
-Actuelle
-
 674
 00:20:59,400 --> 00:20:59,440
 Position
-
-Actuelle
 
 675
 00:20:59,440 --> 00:20:59,480
 Position
 
-Actuelle
-
 676
 00:20:59,480 --> 00:20:59,520
 Position
-
-Actuelle
 
 677
 00:20:59,520 --> 00:20:59,570
 Position
 
-Actuelle
-
 678
 00:20:59,570 --> 00:20:59,610
 Position
-
-Actuelle
 
 679
 00:20:59,610 --> 00:20:59,650
 Position
 
-Actuelle
-
 680
 00:20:59,650 --> 00:20:59,690
 Position
-
-Actuelle
 
 681
 00:20:59,690 --> 00:20:59,730
 Position
 
-Actuelle
-
 682
 00:20:59,730 --> 00:20:59,780
 Position
-
-Actuelle
 
 683
 00:20:59,780 --> 00:20:59,820
 Position
 
-Actuelle
-
 684
 00:20:59,820 --> 00:20:59,860
 Position
-
-Actuelle
 
 685
 00:20:59,860 --> 00:20:59,900
 Position
 
-Actuelle
-
 686
 00:20:59,900 --> 00:20:59,940
 Position
-
-Actuelle
 
 687
 00:20:59,940 --> 00:20:59,980
 Position
 
-Actuelle
-
 688
 00:20:59,980 --> 00:21:00,030
 Position
-
-Actuelle
 
 689
 00:21:00,030 --> 00:21:00,070
 Position
 
-Actuelle
-
 690
 00:21:00,070 --> 00:21:00,110
 Position
-
-Actuelle
 
 691
 00:21:00,110 --> 00:21:00,150
 Position
 
-Actuelle
-
 692
 00:21:00,150 --> 00:21:00,190
 Position
-
-Actuelle
 
 693
 00:21:00,190 --> 00:21:00,230
 Position
 
-Actuelle
-
 694
 00:21:00,230 --> 00:21:00,280
 Position
-
-Actuelle
 
 695
 00:21:00,280 --> 00:21:00,320
 Position
 
-Actuelle
-
 696
 00:21:00,320 --> 00:21:00,360
 Position
-
-Actuelle
 
 697
 00:21:00,360 --> 00:21:00,400
 Position
 
-Actuelle
-
 698
 00:21:00,400 --> 00:21:00,440
 Position
-
-Actuelle
 
 699
 00:21:00,440 --> 00:21:00,480
 Position
 
-Actuelle
-
 700
 00:21:00,480 --> 00:21:00,530
 Position
-
-Actuelle
 
 701
 00:21:00,530 --> 00:21:00,570
 Position
 
-Actuelle
-
 702
 00:21:00,570 --> 00:21:00,610
 Position
-
-Actuelle
 
 703
 00:21:00,610 --> 00:21:00,650
 Position
 
-Actuelle
-
 704
 00:21:00,650 --> 00:21:00,690
 Position
-
-Actuelle
 
 705
 00:21:00,690 --> 00:21:00,730
 Position
 
-Actuelle
-
 706
 00:21:00,730 --> 00:21:00,780
 Position
-
-Actuelle
 
 707
 00:21:00,780 --> 00:21:00,820
 Position
 
-Actuelle
-
 708
 00:21:00,820 --> 00:21:00,860
 Position
-
-Actuelle
 
 709
 00:21:00,860 --> 00:21:00,900
 Position
 
-Actuelle
-
 710
 00:21:00,900 --> 00:21:00,940
 Position
-
-Actuelle
 
 711
 00:21:00,940 --> 00:21:00,980
 Position
 
-Actuelle
-
 712
 00:21:00,980 --> 00:21:01,030
 Position
-
-Actuelle
 
 713
 00:21:01,030 --> 00:21:01,070
 Position
 
-Actuelle
-
 714
 00:21:01,070 --> 00:21:01,110
 Position
-
-Actuelle
 
 715
 00:21:01,110 --> 00:21:01,150
 Position
 
-Actuelle
-
 716
 00:21:01,150 --> 00:21:01,190
 Position
-
-Actuelle
 
 717
 00:21:01,190 --> 00:21:01,230
 Position
 
-Actuelle
-
 718
 00:21:01,230 --> 00:21:01,280
 Position
-
-Actuelle
 
 719
 00:21:01,280 --> 00:21:01,320
 Position
 
-Actuelle
-
 720
 00:21:01,320 --> 00:21:01,360
 Position
-
-Actuelle
 
 721
 00:21:01,360 --> 00:21:01,400
 Position
 
-Actuelle
-
 722
 00:21:01,400 --> 00:21:01,440
 Position
-
-Actuelle
 
 723
 00:21:01,440 --> 00:21:01,490
 Position
 
-Actuelle
-
 724
 00:21:01,490 --> 00:21:01,530
 Position
-
-Actuelle
 
 725
 00:21:01,530 --> 00:21:01,570
 Position
 
-Actuelle
-
 726
 00:21:16,960 --> 00:21:30,890
 Position
-
-Actuelle
 
 727
 00:21:16,960 --> 00:21:30,890
 Position
 
-Actuelle
-
 728
 00:21:16,960 --> 00:21:30,890
 Position
-
-Actuelle
 
 729
 00:27:37,390 --> 00:27:42,470
@@ -5181,3 +4677,4 @@ Reste fidèle à toi-même jusqu'au bout !
 1122
 00:01:51,790 --> 00:01:56,670
 Rêve et atteins ton objectif !
+

@@ -1,575 +1,562 @@
 1
-00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-2
-00:01:59,990 --> 00:02:09,980
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io
-
-3
 00:00:02,180 --> 00:00:04,100
 La Gran Era de la Piratería...
 
-4
+2
 00:00:04,100 --> 00:00:09,230
 ...está experimentando una oleada que supera las expectativas del Gobierno Mundial.
 
-5
+3
 00:00:10,610 --> 00:00:18,070
 ¡Y quien se encuentra en el ojo del 
 huracán de esa oleada imparable es...
 
-6
+4
 00:00:19,990 --> 00:00:21,780
 ...Monkey D. Luffy!
 
-7
+5
 00:00:23,030 --> 00:00:25,080
 ¡Y los Sombrero de Paja!
 
-8
+6
 00:00:27,460 --> 00:00:31,330
 Para contrarrestar la turbulenta 
 Gran Era de la Piratería,
 
-9
+7
 00:00:31,330 --> 00:00:36,420
 cincuenta reyes celebran cada 
 cuatro años una reunión mundial.
 
-10
+8
 00:00:36,420 --> 00:00:39,880
 El Levely va a dar comienzo pronto.
 
-11
+9
 00:00:44,470 --> 00:00:48,520
 Los tiempos están cambiando
  a pasos agigantados.
 
-12
+10
 00:00:52,190 --> 00:00:55,680
 NUEVO MUNDO - EN EL MAR
 
-13
+11
 00:01:25,760 --> 00:01:27,310
 ¡Sanji!
 
-14
+12
 00:01:29,640 --> 00:01:30,980
 ¡¿Eh?!
 
-15
+13
 00:02:09,810 --> 00:02:13,060
 ¡Si uso el Raid Suit,
 
-16
+14
 00:02:18,690 --> 00:02:20,990
 tal vez podríamos lanzar rayos!
 
-17
+15
 00:02:31,160 --> 00:02:33,120
 ¡Nami-swan!
 
-18
+16
 00:03:21,500 --> 00:03:23,920
 ¡¿Por qué no funciona?!
 
-19
+17
 00:03:41,400 --> 00:03:42,900
 ¡Transfórmate!
 
-20
+18
 00:04:55,600 --> 00:04:59,520
 Mola
+
+19
+00:04:55,600 --> 00:04:59,520
+Shi
+
+20
+00:04:55,600 --> 00:04:59,520
+Chibukai
 
 21
 00:04:55,600 --> 00:04:59,520
-Shi
+Fansub!
 
 22
 00:04:55,600 --> 00:04:59,520
-Chibukai
-
-23
-00:04:55,600 --> 00:04:59,520
-Fansub!
-
-24
-00:04:55,600 --> 00:04:59,520
 Deprimido.
 
-25
+23
 00:05:06,680 --> 00:05:10,430
 Mola
 
-26
+24
 00:05:06,680 --> 00:05:10,430
 Shi
 
-27
+25
 00:05:06,680 --> 00:05:10,430
 Chibukai
 
-28
+26
 00:05:06,680 --> 00:05:10,430
 Fansub!
 
-29
+27
 00:05:06,680 --> 00:05:10,430
 Muy deprimido.
 
-30
+28
 00:05:15,450 --> 00:05:18,080
 Mientras tanto...
 
-31
+29
 00:05:19,040 --> 00:05:23,540
 Todos están hablando sobre el Levely, la reunión de los líderes mundiales...
 
-32
+30
 00:05:23,540 --> 00:05:30,130
 ...que se lleva a cabo en la Tierra Santa de Mary Geoise cada cuatro años.
 
-33
+31
 00:05:30,130 --> 00:05:34,640
 Y nosotros nos encontramos en la Isla Gyojin, a diez mil metros bajo el nivel del mar.
 
-34
+32
 00:05:34,640 --> 00:05:37,600
 En el Reino Ryugu.
 
-35
+33
 00:05:45,270 --> 00:05:49,530
 REINO RYUGU
 
-36
+34
 00:05:45,270 --> 00:05:49,530
 REY NEPTUNE
 
-37
+35
 00:05:49,570 --> 00:06:00,000
 RYUBOSHI
+
+36
+00:05:49,570 --> 00:06:00,000
+RYUBOSHI
+
+37
+00:05:49,570 --> 00:05:58,290
+MANBOSHI
 
 38
-00:05:49,570 --> 00:06:00,000
-RYUBOSHI
+00:05:49,570 --> 00:05:58,290
+MANBOSHI
 
 39
-00:05:49,570 --> 00:05:58,290
-MANBOSHI
+00:05:55,580 --> 00:06:00,000
+FUKABOSHI
 
 40
-00:05:49,570 --> 00:05:58,290
-MANBOSHI
+00:05:55,580 --> 00:06:00,000
+FUKABOSHI
 
 41
-00:05:55,580 --> 00:06:00,000
-FUKABOSHI
-
-42
-00:05:55,580 --> 00:06:00,000
-FUKABOSHI
-
-43
 00:06:13,380 --> 00:06:17,890
 PRINCESA SHIRAHOSHI
 
-44
+42
 00:06:35,870 --> 00:06:41,750
 Sin embargo, en lugar de hablar sobre la reunión que aún no comienza, todo el mundo se ha emocionado...
 
-45
+43
 00:06:41,750 --> 00:06:46,130
 ...sobre la noticia de que Sombrero
  de Paja Luffy, el joven pirata,
 
-46
+44
 00:06:46,130 --> 00:06:48,210
 ha desafiado a Big Mom, la Yonkou,
 
-47
+45
 00:06:48,210 --> 00:06:51,310
 quien durante décadas había gozado
  de una posición inamovible.
 
-48
+46
 00:06:51,310 --> 00:06:54,300
 El artículo dice lo siguiente:
 
-49
+47
 00:06:54,300 --> 00:06:58,010
 "De acuerdo a una de nuestras fuentes, 
 Sombrero de Paja Luffy ya es el líder...
 
-50
+48
 00:06:58,010 --> 00:07:01,560
 ...de siete poderosas tripulaciones piratas...
 
-51
+49
 00:07:01,560 --> 00:07:06,810
 ...con más de cinco mil subordinados, 
 convirtiéndolo en un gran capitán".
 
-52
+50
 00:07:07,480 --> 00:07:11,280
 "También se dice que no sólo
  fue hermano de crianza de Ace,
 
-53
+51
 00:07:11,280 --> 00:07:13,860
 sino también de Sabo, el segundo al
  mando del Ejército Revolucionario".
 
-54
+52
 00:07:14,570 --> 00:07:17,530
 "En un instante consiguió que
  Germa 66, el ejército malvado,
 
-55
+53
 00:07:17,530 --> 00:07:22,330
 los Piratas del Sol y los
  Piratas Fire Tank lo obedecieran...
 
-56
+54
 00:07:22,330 --> 00:07:25,460
 ...debido a su inusual carisma y liderazgo".
 
-57
+55
 00:07:26,000 --> 00:07:31,380
 "Tiene una mente calculadora, con la cual ideó un plan que llevó a la destrucción del castillo de la reina".
 
-58
+56
 00:07:32,130 --> 00:07:37,010
 "Y tiene la fuerza para derrotar a oficiales con
  ochocientos millones y mil millones de recompensa".
 
-59
+57
 00:07:37,010 --> 00:07:41,810
 "No sería exagerado considerar que el ganador de esta batalla fue Sombrero de Paja Luffy".
 
-60
+58
 00:07:41,810 --> 00:07:45,020
 Por último, el artículo concluye diciendo...
 
-61
+59
 00:07:46,020 --> 00:07:49,360
 "¡Es el ascenso del quinto
  emperador de los mares!".
 
-62
+60
 00:07:57,140 --> 00:08:02,160
 CUARTEL GENERAL DE LA MARINA
 
-63
+61
 00:07:57,140 --> 00:08:02,160
 SAKAZUKI - ALMIRANTE DE FLOTA
 
-64
+62
 00:08:35,540 --> 00:08:40,760
 Mola
+
+63
+00:08:35,540 --> 00:08:40,760
+Shi
+
+64
+00:08:35,540 --> 00:08:40,760
+Chibukai
 
 65
 00:08:35,540 --> 00:08:40,760
-Shi
+Fansub!
 
 66
 00:08:35,540 --> 00:08:40,760
-Chibukai
-
-67
-00:08:35,540 --> 00:08:40,760
-Fansub!
-
-68
-00:08:35,540 --> 00:08:40,760
 Intentan asesinar a Big Mom.
 
-69
+67
 00:08:37,250 --> 00:08:41,340
 REBECCA - ASISTENTE REAL DE DRESSROSA
 
-70
+68
 00:08:47,130 --> 00:08:51,390
 LÍDER TONTA - TRIBU TONTATTA
 
-71
+69
 00:08:47,130 --> 00:08:51,390
 LEO
 
-72
+70
 00:10:53,600 --> 00:10:55,230
 Mola
 
-73
+71
 00:10:53,600 --> 00:10:55,230
 Shi
 
-74
+72
 00:10:53,600 --> 00:10:55,230
 Chibukai
 
-75
+73
 00:10:53,600 --> 00:10:55,230
 Fansub!
 
-76
+74
 00:10:53,600 --> 00:10:55,230
 Justicia.
 
-77
+75
 00:10:56,560 --> 00:11:00,560
 CAPITÁN DEL CUARTEL 
 GENERAL DE LA MARINA
 
-78
+76
 00:10:56,560 --> 00:11:00,560
 KOBY
 
-79
+77
 00:11:46,490 --> 00:11:48,860
 ¡Hemos apresado a los piratas!
 
-80
+78
 00:11:54,740 --> 00:11:58,740
 HELMEPPO
 
-81
+79
 00:11:54,740 --> 00:11:58,740
 TENIENTE PRIMERO DEL 
 CUARTEL GENERAL DE LA MARINA
 
-82
+80
 00:12:48,420 --> 00:12:51,300
 Este hombre es muy fuerte.
 
-83
+81
 00:12:51,300 --> 00:12:55,510
 Nos ha salvado del ataque de un torpedo y no nos pide muestras de agradecimiento...
 
-84
+82
 00:13:14,240 --> 00:13:17,200
 El quinto emperador del mar...
 
-85
+83
 00:13:18,120 --> 00:13:21,580
 ¡Luffy-san es tan genial como siempre!
 
-86
+84
 00:13:22,670 --> 00:13:25,250
 ¡No para de avanzar!
 
-87
+85
 00:13:31,920 --> 00:13:34,510
 Cada vez que te veo en el periódico,
 
-88
+86
 00:13:34,510 --> 00:13:36,760
 pienso en aquel día...
 
-89
+87
 00:15:16,070 --> 00:15:18,030
 ¡¿Qué?!
 
-90
+88
 00:15:50,010 --> 00:15:53,900
 GRAND LINE
 
-91
+89
 00:15:50,010 --> 00:15:53,900
 UNA CIUDAD PORTUARIA DEL REINO DE LULUSIA
 
-92
+90
 00:16:46,820 --> 00:16:52,580
 CAPITÁN DE LOS PIRATAS 
 BARBADURAZNO - BARBADURAZNO
 
-93
+91
 00:16:46,820 --> 00:16:52,580
 RECOMPENSA: 52 MILLONES DE BELLIES
 
-94
+92
 00:18:58,630 --> 00:18:59,500
 ¡No puede ser!
 
-95
+93
 00:23:00,030 --> 00:23:03,910
 COMANDANTE DEL BATALLÓN DEL OESTE 
 DEL EJÉRCITO REVOLUCIONARIO
 
-96
+94
 00:23:04,280 --> 00:23:08,170
 COMANDANTE DEL BATALLÓN DEL ESTE 
 DEL EJÉRCITO REVOLUCIONARIO
 
-97
+95
 00:23:08,620 --> 00:23:12,500
 COMANDANTE DEL BATALLÓN DEL SUR 
 DEL EJÉRCITO REVOLUCIONARIO
 
-98
+96
 00:23:13,120 --> 00:23:17,010
 COMANDANTE DEL BATALLÓN DEL NORTE 
 DEL EJÉRCITO REVOLUCIONARIO
 
-99
+97
 00:23:30,390 --> 00:23:34,280
 EMPORIO IVANKOV
 
-100
+98
 00:23:30,390 --> 00:23:34,280
 OFICIAL DEL EJÉRCITO REVOLUCIONARIO
 
-101
+99
 00:23:34,430 --> 00:23:38,070
 MONKEY D. DRAGON
 
-102
+100
 00:23:34,430 --> 00:23:38,070
 LÍDER DEL EJÉRCITO REVOLUCIONARIO
 
-103
+101
 00:23:57,620 --> 00:24:01,510
 INAZUMA
 
-104
+102
 00:23:57,620 --> 00:24:01,510
 OFICIAL DEL EJÉRCITO REVOLUCIONARIO
 
-105
+103
 00:24:01,540 --> 00:24:05,310
 HACK
 
-106
+104
 00:24:01,540 --> 00:24:05,310
 SOLDADO DEL EJÉRCITO REVOLUCIONARIO
 
-107
+105
 00:24:07,010 --> 00:24:12,190
 INSTRUCTORA ASISTENTE DE KARATE 
 GYOJIN DEL EJÉRCITO REVOLUCIONARIO
 
-108
+106
 00:24:07,010 --> 00:24:12,190
 KOALA
 
-109
+107
 00:24:30,370 --> 00:24:31,630
 ¡Habla Lindbergh!
 
-110
+108
 00:24:34,130 --> 00:24:35,300
 Ah, eres Sabo.
 
-111
+109
 00:24:35,300 --> 00:24:37,050
 Estamos cerca,
 
-112
+110
 00:25:16,200 --> 00:25:20,720
 JEFE DE GABINETE DEL 
 EJÉRCITO REVOLUCIONARIO
 
-113
+111
 00:25:16,200 --> 00:25:20,720
 SABO
 
-114
+112
 00:27:03,360 --> 00:27:06,990
 Mola
+
+113
+00:27:03,360 --> 00:27:06,990
+Shi
+
+114
+00:27:03,360 --> 00:27:06,990
+Chibukai
 
 115
 00:27:03,360 --> 00:27:06,990
-Shi
+Fansub!
 
 116
 00:27:03,360 --> 00:27:06,990
-Chibukai
-
-117
-00:27:03,360 --> 00:27:06,990
-Fansub!
-
-118
-00:27:03,360 --> 00:27:06,990
 Animar.
 
-119
+117
 00:27:35,680 --> 00:27:38,560
 Mola
 
-120
+118
 00:27:35,680 --> 00:27:38,560
 Shi
 
-121
+119
 00:27:35,680 --> 00:27:38,560
 Chibukai
 
-122
+120
 00:27:35,680 --> 00:27:38,560
 Fansub!
 
-123
+121
 00:27:35,680 --> 00:27:38,560
 Pistola de hielo.
 
-124
+122
 00:30:46,620 --> 00:30:49,460
 Faltan dos días para el Levely.
 
-125
+123
 00:30:49,460 --> 00:30:54,470
 Los planes de la gente de todo el mundo
  han empezado a girar en espiral.
 
-126
+124
 00:31:16,630 --> 00:31:22,160
 YONKOU
 
-127
+125
 00:31:16,630 --> 00:31:22,160
 KAIDOU, EL REY DE LAS BESTIAS
 
-128
+126
 00:31:52,110 --> 00:31:55,280
 CHARLOTTE LINLIN
 
-129
+127
 00:31:52,110 --> 00:31:55,280
 BIG MOM, LA YONKOU
 
-130
+128
 00:31:57,870 --> 00:32:01,910
 MARSHALL D. TEACH
 
-131
+129
 00:31:57,870 --> 00:32:01,910
 BARBANEGRA, EL YONKOU
 
-132
+130
 00:32:09,880 --> 00:32:12,670
 SHANKS, EL PELIRROJO
 
-133
+131
 00:32:09,880 --> 00:32:12,670
 YONKOU
 
-134
+132
 00:33:13,940 --> 00:33:19,110
 ¡¿Qué?!
 
-135
+133
 00:33:19,990 --> 00:33:23,110
 El mundo entero se dirige
  al Levely y, por otra parte,
 
-136
+134
 00:33:23,110 --> 00:33:25,870
 los Sombrero de Paja van 
 en camino al País de Wa.
+

@@ -1,1171 +1,1158 @@
 1
-00:00:00,000 --> 00:00:09,990
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-2
-00:01:50,050 --> 00:02:00,040
-Medya oynatıcınız bu bölümde kullanılan altyazı formatını desteklemiyor.
-Altyazılar muhtemelen düzgün çalışmayacaktır.
-Lütfen önerilen video oynatıcılardan birini, tercihen mpv kullanın:
-https://mpv.io
-
-3
 00:01:53,340 --> 00:01:56,350
 Ne? Adadan kaçtılar mı?
 
-4
+2
 00:01:56,350 --> 00:01:59,470
 Evet. Minnettarlığımızı gösteremedik.
 
-5
+3
 00:01:59,470 --> 00:02:01,810
 Çok üzücü...
 
-6
+4
 00:02:02,980 --> 00:02:07,650
 Onlara ne kadar borçlu
 olduğumuzu bilmiyorlar mı?
 
-7
+5
 00:02:09,320 --> 00:02:13,110
 Evet. Hislerimizi hâlâ
 anlayabilmiş değiller.
 
-8
+6
 00:02:16,530 --> 00:02:18,410
 Bu adil değil, Aisa...
 
-9
+7
 00:02:18,410 --> 00:02:20,830
 Onlarla vedalaşan tek kişi sensin.
 
-10
+8
 00:02:20,830 --> 00:02:24,670
 Herkes kurtarıcılarımızın kaçışı
 konusunda velvele yapıyor.
 
-11
+9
 00:02:25,880 --> 00:02:29,670
 Ama Luffy ve tayfası
 kimseye söyleme dedi!
 
-12
+10
 00:02:30,340 --> 00:02:34,630
 Hey Raki, Luffy'nin bedeni
 esneyebiliyor, haberin var mıydı?!
 
-13
+11
 00:02:34,930 --> 00:02:37,800
 "Lastik-Lastik Tabanca" diye bağırıyordu.
 
-14
+12
 00:02:37,800 --> 00:02:40,430
 Hey, Aisa, kıpırdama.
 
-15
+13
 00:02:40,430 --> 00:02:43,390
 Demek Mavi Deniz'de de
 öyle güçlü bir savaşçı varmış!
 
-16
+14
 00:02:44,020 --> 00:02:48,060
 Onun gibi olmak istiyorum,
 "Lastik-Lastik" gibi!
 
-17
+15
 00:02:49,610 --> 00:02:51,070
 Aisa...
 
-18
+16
 00:02:52,570 --> 00:02:56,030
 Bugünlük sadece uçlarından alalım.
 Saçını uzatmalısın.
 
-19
+17
 00:02:56,030 --> 00:02:56,860
 Ne?
 
-20
+18
 00:02:56,860 --> 00:03:01,540
 Bence sana çok yakışır.
 Sonuçta kızsın, şirin olmalısın.
 
-21
+19
 00:03:01,830 --> 00:03:06,170
 Şirin mi?! Ben?!
 
-22
+20
 00:03:07,670 --> 00:03:08,420
 Aynen öyle!
 
-23
+21
 00:03:09,040 --> 00:03:12,670
 Artık siz çocukların
 silah taşımasına gerek yok.
 
-24
+22
 00:03:14,630 --> 00:03:19,100
 Normal bir adalı gibi
 özgürce yaşayabilirsin.
 
-25
+23
 00:03:21,140 --> 00:03:23,350
 Bugün çok hanım hanımsın!
 
-26
+24
 00:03:24,520 --> 00:03:27,270
 Şimdi, kıpırdama, Aisa!
 
-27
+25
 00:03:27,270 --> 00:03:28,650
 Hanım hanım, Raki!
 
-28
+26
 00:03:28,650 --> 00:03:29,900
 Aisa!
 
-29
+27
 00:03:37,200 --> 00:03:38,990
 Şanlı Savaşçı Kalgara...
 
-30
+28
 00:03:39,870 --> 00:03:43,490
 Bize, Shandia halkının kutsal
 görevini tamamladığı söylendi.
 
-31
+29
 00:03:44,120 --> 00:03:47,710
 Dileğin kesinlikle
 en iyi arkadaşına ulaştı.
 
-32
+30
 00:03:48,500 --> 00:03:53,340
 Gelecek nesillerde kan dökmemize gerek yok.
 
-33
+31
 00:03:54,010 --> 00:03:59,010
 Savaş sona erdi
 ama onurumuzu yitirmeyeceğiz!
 
-34
+32
 00:03:59,590 --> 00:04:03,100
 Bu yüzden, lütfen bizi gözetmeye devam et.
 
-35
+33
 00:04:05,310 --> 00:04:09,310
 Shandora'nın Işığı'nı daima
 yakacağımıza ant içeriz!
 
-36
+34
 00:04:19,240 --> 00:04:23,030
 Ben yalnızca Gökyüzü Şövalyesiyim,
 serbest çalışan bir paralı askerim.
 
-37
+35
 00:04:24,040 --> 00:04:26,370
 Bu işe uygun olan kişi sensin.
 
-38
+36
 00:04:26,370 --> 00:04:29,670
 Bu topraklar ilk günden beri
 size aitti.
 
-39
+37
 00:04:29,670 --> 00:04:31,210
 Bu da ne şimdi?
 
-40
+38
 00:04:31,750 --> 00:04:34,130
 Bu iyi bir sebep değil.
 
-41
+39
 00:04:34,130 --> 00:04:36,960
 Bu savaş, vearth üzerinde...
 
-42
+40
 00:04:37,590 --> 00:04:40,640
 kimsenin hak iddia edemeyeceğini
 hepimize gösterdi.
 
-43
+41
 00:04:40,970 --> 00:04:43,390
 "Tanrı" unvanı güç kazandırır.
 
-44
+42
 00:04:43,390 --> 00:04:47,100
 Bu diyarın adı Skypiea.
 Şehrin adı ise Shandora.
 
-45
+43
 00:04:47,930 --> 00:04:50,020
 Onları birleştirebilecek tek kişi sensin;
 
-46
+44
 00:04:50,020 --> 00:04:55,610
 bu topraklardaki bitmek bilmeyen
 savaş için hep acı çeken sen.
 
-47
+45
 00:04:57,070 --> 00:04:59,490
 Gökyüzü Şövalyesi Gan Fall...
 
-48
+46
 00:04:59,490 --> 00:05:01,570
 Bir kez daha tanrı olmanı...
 
-49
+47
 00:05:01,570 --> 00:05:05,490
 ve bu yaralı millete
 iyileşme gücü vermeni istiyorum.
 
-50
+48
 00:05:07,500 --> 00:05:09,410
 Bizim de isteğimiz bu!
 
-51
+49
 00:05:09,410 --> 00:05:10,500
 Gan Fall-sama!
 
-52
+50
 00:05:10,830 --> 00:05:12,630
 Siz varsanız biz de varız!
 
-53
+51
 00:05:12,630 --> 00:05:13,710
 Evet!
 
-54
+52
 00:05:13,710 --> 00:05:15,040
 Gan Fall!
 
-55
+53
 00:05:15,040 --> 00:05:16,210
 Tanrı'm!
 
-56
+54
 00:05:16,210 --> 00:05:16,920
 Lütfen dönün!
 
-57
+55
 00:05:20,680 --> 00:05:22,430
 Cidden...
 
-58
+56
 00:05:23,550 --> 00:05:28,890
 Tam da artık huzur içinde
 kabak yetiştirebilirim diyordum...
 
-59
+57
 00:05:55,630 --> 00:05:57,210
 Millet! Göründü sonunda!
 
-60
+58
 00:05:58,380 --> 00:06:01,420
 İleri bakın! Bulutun Sonu'na!
 
-61
+59
 00:06:01,420 --> 00:06:02,630
 Ah! Bakayım!
 
-62
+60
 00:06:03,800 --> 00:06:06,930
 Vay... Yani oradan inebilir miyiz?
 
-63
+61
 00:06:06,930 --> 00:06:09,100
 Buraya gerçekten çabuk geldik.
 
-64
+62
 00:06:11,270 --> 00:06:13,980
 Hemen ayrılıyor muyuz?
 
-65
+63
 00:06:13,980 --> 00:06:17,690
 Cidden, ayrılmak üzere
 olmamız biraz üzüyor.
 
-66
+64
 00:06:17,690 --> 00:06:20,570
 Bu beyaz denize elveda deme vakti.
 
-67
+65
 00:06:20,570 --> 00:06:23,740
 Gökyüzü adası eğlenceliydi
 ama biraz da korkunçtu.
 
-68
+66
 00:06:24,200 --> 00:06:28,700
 Demek oradan Mavi Deniz'e inen
 bir süt yolu var, ha?
 
-69
+67
 00:06:29,490 --> 00:06:32,120
 Bir daha gökyüzü adasına
 gelir miyiz acaba?
 
-70
+68
 00:06:32,120 --> 00:06:33,960
 Belki.
 
-71
+69
 00:06:42,920 --> 00:06:47,260
 Pekâlâ millet!
 Üzgünüm ama burada vedalaşıyoruz!
 
-72
+70
 00:06:47,260 --> 00:06:49,060
 Kendinize iyi bakın!
 
-73
+71
 00:06:49,890 --> 00:06:51,720
 Bizi uğurladığınız için sağ olun!
 
-74
+72
 00:06:51,720 --> 00:06:54,390
 Conis-chan! Kendine iyi bak!
 
-75
+73
 00:06:54,390 --> 00:06:56,350
 Diğerlerine de selamlarımızı iletin!
 
-76
+74
 00:06:56,900 --> 00:06:58,900
 Görüşürüz!
 
-77
+75
 00:06:59,650 --> 00:07:01,690
 Her şey için sağ olun!
 
-78
+76
 00:07:02,690 --> 00:07:07,160
 Hayır! Asıl siz sağ olun!
 
-79
+77
 00:07:07,870 --> 00:07:10,990
 Sizi asla unutmayacağım!
 
-80
+78
 00:07:11,490 --> 00:07:14,330
 Conis, ihtiyar ve tüy yumağı!
 Kendinize iyi bakın!
 
-81
+79
 00:07:14,330 --> 00:07:15,500
 – Olur!
 – Olur!
 
-82
+80
 00:07:15,500 --> 00:07:19,540
 Şimdi, yelkenleri hemen toplayın
 ve gemiye sıkı tutunun!
 
-83
+81
 00:07:19,540 --> 00:07:21,670
 Pekâlâ! Dediğini yapalım!
 
-84
+82
 00:07:22,090 --> 00:07:23,970
 Oldukça hızlı olacak gibi!
 
-85
+83
 00:07:23,970 --> 00:07:27,760
 Evet, 7.000 metre aşağı kayacağız!
 Acele edin!
 
-86
+84
 00:07:27,760 --> 00:07:28,760
 – Tamam!
 – Tamam!
 
-87
+85
 00:07:33,930 --> 00:07:35,020
 N-Ne?! Ha?!
 
-88
+86
 00:07:37,900 --> 00:07:40,060
 "Beni unutmayın." diyor.
 
-89
+87
 00:07:40,060 --> 00:07:43,860
 Ah... Gökyüzüne getirdiğimiz güney kuşu.
 
-90
+88
 00:07:47,240 --> 00:07:48,530
 Tamamız, Kaptan!
 
-91
+89
 00:07:48,950 --> 00:07:51,160
 Rotamız belirlendi!
 
-92
+90
 00:07:53,620 --> 00:07:59,880
 Evet! Aşağı iner inmez
 başka bir maceraya atılacağız!
 
-93
+91
 00:08:00,250 --> 00:08:03,090
 Hazır mısınız, millet?!
 
-94
+92
 00:08:04,670 --> 00:08:07,340
 Mavi Deniz'e dönüyoruz!
 
-95
+93
 00:08:07,340 --> 00:08:08,760
 – Evet!
 – Evet!
 
-96
+94
 00:08:21,900 --> 00:08:25,400
 Millet! Düşerken dikkatli olun!
 
-97
+95
 00:08:29,360 --> 00:08:30,610
 – Düşerken mi?
 – Düşerken mi?
 
-98
+96
 00:08:39,580 --> 00:08:41,000
 Heso!
 
-99
+97
 00:08:45,420 --> 00:08:50,050
 İşte başlıyor! Gökyüzü adasının ünlü ahtapot balonu!
 
-100
+98
 00:09:02,440 --> 00:09:04,400
 Ahtapot!
 
-101
+99
 00:09:04,400 --> 00:09:06,280
 Şerefsi...!
 
-102
+100
 00:09:10,650 --> 00:09:11,450
 A-Ah...
 
-103
+101
 00:09:11,820 --> 00:09:14,410
 N-N-Ne olu...?!
 
-104
+102
 00:09:16,370 --> 00:09:18,910
 Hey, şuna bakın! Bu müthiş!
 
-105
+103
 00:09:21,250 --> 00:09:22,750
 Bu şey de ne?!
 
-106
+104
 00:09:22,750 --> 00:09:24,090
 Balon bu!
 
-107
+105
 00:09:25,040 --> 00:09:26,630
 Çok eğlenceli!
 
-108
+106
 00:09:26,630 --> 00:09:27,710
 Yavaşladık!
 
-109
+107
 00:09:27,710 --> 00:09:32,970
 So... Sonunda öteki dünyaya
 gideceğimi sanmıştım.
 
-110
+108
 00:10:00,250 --> 00:10:06,170
 Çalın! Kurtarıcılarımızı güzel bir
 şarkıyla uğurlayalım!
 
-111
+109
 00:10:06,170 --> 00:10:07,090
 Heso!
 
-112
+110
 00:10:09,590 --> 00:10:13,090
 Luffy! Tekrar buluşalım!
 
-113
+111
 00:10:13,090 --> 00:10:14,800
 Yine gelin!
 
-114
+112
 00:10:14,800 --> 00:10:16,600
 Teşekkür ederiz!
 
-115
+113
 00:10:16,600 --> 00:10:20,430
 Mavi Deniz'e sağ salim geri dönün!
 
-116
+114
 00:10:27,110 --> 00:10:29,610
 Başınızı kaldırıp göğe baktığınızda,
 
-117
+115
 00:10:30,860 --> 00:10:34,660
 on bin metre yükseklikteki
 bu Tanrı Diyarı...
 
-118
+116
 00:10:35,450 --> 00:10:37,450
 hakikat mi, yoksa bir düş mü?
 
-119
+117
 00:10:38,120 --> 00:10:41,040
 Kulak kesilirseniz
 çanın sesini duyacaksınız.
 
-120
+118
 00:10:41,040 --> 00:10:43,960
 Bugün çalacak. Yarın yine çalacak.
 
-121
+119
 00:10:44,920 --> 00:10:47,290
 Gökte yankılanan çan sesi...
 
-122
+120
 00:10:47,290 --> 00:10:51,760
 bu gezgin toprağın zaferini haykırıyor...
 
-123
+121
 00:11:00,600 --> 00:11:02,430
 Çok iyi!
 
-124
+122
 00:11:02,430 --> 00:11:06,940
 Evet! Bu harika hissettiriyor!
 
-125
+123
 00:11:09,150 --> 00:11:10,980
 Keşfi bırakıyor musun?!
 
-126
+124
 00:11:10,980 --> 00:11:14,990
 Mantıklı değil mi?!
 Altın Şehir, meğersem gökteymiş!
 
-127
+125
 00:11:14,990 --> 00:11:18,160
 Denizin dibinde bir şey bulamayacağız.
 
-128
+126
 00:11:18,160 --> 00:11:20,160
 Artık işimiz kalmadı.
 
-129
+127
 00:11:20,160 --> 00:11:22,490
 Burada kalmanın bir anlamı yok.
 
-130
+128
 00:11:23,200 --> 00:11:24,080
 Patron...
 
-131
+129
 00:11:24,750 --> 00:11:26,170
 Patron...
 
-132
+130
 00:11:26,170 --> 00:11:33,840
 Hayalim uğruna yıllarca yanımda
 olduğunuz için hepinize minnettarım.
 
-133
+131
 00:11:33,840 --> 00:11:35,300
 Ne demek istiyorsun...?
 
-134
+132
 00:11:35,300 --> 00:11:37,640
 Bir yabancıymışız gibi konuşma.
 
-135
+133
 00:11:37,640 --> 00:11:38,970
 Pekâlâ, beyler!
 
-136
+134
 00:11:41,890 --> 00:11:44,850
 Şimdi ne tür bir romantizmin
 peşinden gidelim?!
 
-137
+135
 00:11:50,900 --> 00:11:54,360
 Peşinden her yere geliriz, patron!
 
-138
+136
 00:11:58,280 --> 00:12:03,290
 Altın! Altın! Altın! Altın! Altın!
 
-139
+137
 00:12:03,790 --> 00:12:07,920
 Nihayet zengin olduk!
 Ne alsak acaba?!
 
-140
+138
 00:12:07,920 --> 00:12:11,250
 Kocaman bronz bir heykele ne dersiniz?!
 
-141
+139
 00:12:11,250 --> 00:12:14,590
 Seni aptal! Neden altını bronzla
 takas edesin ki?!
 
-142
+140
 00:12:14,590 --> 00:12:16,840
 Birkaç top almalıyız!
 
-143
+141
 00:12:16,840 --> 00:12:18,180
 On tane alalım! On tane!
 
-144
+142
 00:12:18,180 --> 00:12:21,550
 Nami-san! Kilitli bir buzdolabı istiyorum!
 
-145
+143
 00:12:21,550 --> 00:12:25,890
 Saçmalama! Karnımız acıkınca
 ne yapacağız?! İtiraz ediyorum!
 
-146
+144
 00:12:22,600 --> 00:12:25,470
 B... B... Bana kitap almanı istiyorum!
 
-147
+145
 00:12:25,890 --> 00:12:27,980
 Bu yüzden istiyorum zaten, salak!
 
-148
+146
 00:12:25,470 --> 00:12:27,980
 Diğer ülkelerdeki
 tıp kitaplarını okumak istiyorum!
 
-149
+147
 00:12:27,980 --> 00:12:30,060
 Bir saniye durun, çocuklar!
 
-150
+148
 00:12:30,730 --> 00:12:34,230
 Aşağıya varınca
 hazineyi paylaşırız, tamam mı?
 
-151
+149
 00:12:34,230 --> 00:12:35,900
 Lütfen, bana biraz kitap al!
 
-152
+150
 00:12:36,570 --> 00:12:40,530
 Parayı sağa sola savurursak
 en sonunda hepsini çöpe atmış oluruz.
 
-153
+151
 00:12:49,620 --> 00:12:52,000
 Güneş tamamen battı.
 
-154
+152
 00:12:52,000 --> 00:12:53,590
 Güzel bir manzara ama.
 
-155
+153
 00:12:53,590 --> 00:12:56,300
 Evet, haklısın!
 
-156
+154
 00:13:09,770 --> 00:13:11,600
 Soğuk...!
 
-157
+155
 00:13:11,600 --> 00:13:13,900
 Nami-san! Robin-chan! İyi misiniz?
 
-158
+156
 00:13:17,070 --> 00:13:18,440
 Ödüm patladı!
 
-159
+157
 00:13:18,440 --> 00:13:21,160
 Ahtapot aniden söndü!
 
-160
+158
 00:13:21,160 --> 00:13:22,820
 Sanırım havası tükendi.
 
-161
+159
 00:13:22,820 --> 00:13:24,490
 Ne oldu öyle?!
 
-162
+160
 00:13:27,240 --> 00:13:30,330
 Ama bir şekilde aşağıya indik... ölmeden.
 
-163
+161
 00:13:30,330 --> 00:13:32,040
 Çok teşekkür ederiz!
 
-164
+162
 00:13:32,460 --> 00:13:33,830
 Yine de...
 
-165
+163
 00:13:38,880 --> 00:13:41,380
 inanılmaz bir yere gittik, değil mi?
 
-166
+164
 00:13:41,380 --> 00:13:44,430
 İndikten sonra kesinlikle öyle görünüyor.
 
-167
+165
 00:13:44,430 --> 00:13:46,470
 Sanki bir rüya gibiydi.
 
-168
+166
 00:13:46,850 --> 00:13:49,980
 Bir rüya ülkesi.
 Acaba bir gün tekrar görür müyüz?
 
-169
+167
 00:13:50,310 --> 00:13:52,690
 Belki ölünce...
 ya da daha yakın bir yere.
 
-170
+168
 00:13:53,020 --> 00:13:55,860
 Zoro, cennete gideceğinden emin misin?
 
-171
+169
 00:13:55,860 --> 00:13:57,610
 Kapa' çeneni!
 
-172
+170
 00:13:57,610 --> 00:14:00,280
 Şimdilik her şey sakin görünüyor.
 
-173
+171
 00:14:00,280 --> 00:14:01,860
 Kahve falan yapacağım.
 
-174
+172
 00:14:01,860 --> 00:14:03,990
 Ben yemek istiyorum, Sanji!
 
-175
+173
 00:14:03,990 --> 00:14:07,370
 Evet, evet, ilgileniyorum.
 Bir kahve iç ve az sabırlı ol.
 
-176
+174
 00:14:10,790 --> 00:14:13,290
 Bu korsan ganimeti,
 o yüzden eşit bölüşeceğiz!
 
-177
+175
 00:14:14,380 --> 00:14:16,000
 Hepimiz alacak mıyız?!
 
-178
+176
 00:14:16,000 --> 00:14:16,920
 Elbette.
 
-179
+177
 00:14:16,920 --> 00:14:18,380
 Sonunda be!
 
-180
+178
 00:14:18,380 --> 00:14:21,010
 Bronz heykel alacağım!
 
-181
+179
 00:14:21,010 --> 00:14:22,930
 Evet! Kitap alabilir miyim?!
 
-182
+180
 00:14:23,550 --> 00:14:28,060
 Yeni bir tencere, tavalar, kap kacak
 ve dev fare kapanları...
 
-183
+181
 00:14:28,060 --> 00:14:30,560
 Geriye bir sürü param da kalıyor!
 
-184
+182
 00:14:30,560 --> 00:14:32,390
 Kendimi içkiye boğacağım!
 
-185
+183
 00:14:32,730 --> 00:14:35,350
 Öncelikle, yüzde 80'i zulama gidiyor!
 
-186
+184
 00:14:35,940 --> 00:14:37,150
 – Dur bir saniye!
 – Dur bir saniye!
 
-187
+185
 00:14:37,150 --> 00:14:39,070
 Şaka yaptım be.
 
-188
+186
 00:14:39,070 --> 00:14:43,110
 Bi' zahmet! Herkesin bildiği
 gizli bir zula olmaz!
 
-189
+187
 00:14:43,110 --> 00:14:49,080
 "Zula"dan kastım, geminin onarım fonu!
 
-190
+188
 00:14:49,080 --> 00:14:52,120
 Gemi mi? Merry'yi mi kastediyorsun?
 
-191
+189
 00:14:52,120 --> 00:14:56,290
 Evet, Going Merry bizi
 buralara kadar getirdi.
 
-192
+190
 00:14:56,290 --> 00:14:57,840
 Sahi düşününce,
 
-193
+191
 00:14:57,840 --> 00:15:04,010
 Doğu Mavi'deki köyümden beri,
 hep bizi taşıdı.
 
-194
+192
 00:15:04,010 --> 00:15:07,430
 Bize çok yardımcı oldu ama
 epey hırpalandı.
 
-195
+193
 00:15:07,430 --> 00:15:10,890
 Harika fikir!
 Going Merry'nin Büyük Restorasyonu!
 
-196
+194
 00:15:10,890 --> 00:15:12,680
 Kesinlikle katılıyorum!
 
-197
+195
 00:15:12,680 --> 00:15:14,230
 Hadi, afiyet olsun.
 
-198
+196
 00:15:15,480 --> 00:15:19,360
 Sanırım, Usopp'un boktan
 onarım işleri fazla dayanmayacak.
 
-199
+197
 00:15:19,360 --> 00:15:22,070
 Hey, ben keskin nişancıyım, tamirci değil!
 
-200
+198
 00:15:22,070 --> 00:15:28,660
 Evet. Gemiyi tersaneye götürüp uzman
 bir marangozdan yardım almalıyız.
 
-201
+199
 00:15:29,950 --> 00:15:32,410
 Yani, Usopp'tan iyi tamirciler mi var?
 
-202
+200
 00:15:32,660 --> 00:15:35,040
 Onu düzenli olarak onarmamız gerek,
 
-203
+201
 00:15:35,040 --> 00:15:36,670
 yoksa ileride pişman oluruz!
 
-204
+202
 00:15:36,670 --> 00:15:38,000
 Tamam, karar verdim!
 
-205
+203
 00:15:38,580 --> 00:15:40,710
 Tayfamıza bir gemi marangozu katacağız!
 
-206
+204
 00:15:41,590 --> 00:15:43,880
 Daha gidecek çok yolumuz var!
 
-207
+205
 00:15:43,880 --> 00:15:45,170
 – Evet!
 – Evet!
 
-208
+206
 00:15:45,170 --> 00:15:47,470
 Böyle birine ihtiyacımız olacak.
 
-209
+207
 00:15:47,840 --> 00:15:49,930
 Merry bizim yuvamız!
 
-210
+208
 00:15:50,350 --> 00:15:51,390
 Canımız!
 
-211
+209
 00:15:51,970 --> 00:15:55,270
 Onu koruyacak
 bir gemi marangozu bulalım!
 
-212
+210
 00:15:57,900 --> 00:15:59,270
 Yine yaptı...
 
-213
+211
 00:15:59,270 --> 00:16:03,280
 Evet, nadiren de olsa
 bazen doğruyu söylüyor.
 
-214
+212
 00:16:03,280 --> 00:16:06,070
 Bu harika olur! Yapalım!
 
-215
+213
 00:16:06,650 --> 00:16:08,030
 Tamam, planımız bu!
 
-216
+214
 00:16:08,030 --> 00:16:10,530
 Umarım iyi birini buluruz!
 
-217
+215
 00:16:10,530 --> 00:16:12,030
 Bir de müzisyen!
 
-218
+216
 00:16:12,030 --> 00:16:13,490
 Hayır, ona ihtiyacımız yok.
 
-219
+217
 00:16:20,040 --> 00:16:22,340
 Bu gürültü de ne?!
 
-220
+218
 00:16:22,340 --> 00:16:23,710
 Kaçın!
 
-221
+219
 00:16:24,340 --> 00:16:27,050
 İtme! U-Uzak durmamız lazım!
 
-222
+220
 00:16:27,050 --> 00:16:28,010
 Anlaşmazlık mı?!
 
-223
+221
 00:16:41,190 --> 00:16:42,310
 Bellamy!
 
-224
+222
 00:16:42,310 --> 00:16:43,690
 Sarquiss!
 
-225
+223
 00:16:43,690 --> 00:16:45,440
 Lütfen! Durdurun onları!
 
-226
+224
 00:16:46,150 --> 00:16:51,240
 Lütfen! Kes şunu!
 Bunu neden yapıyorsun?!
 
-227
+225
 00:16:51,530 --> 00:16:53,160
 Neler oluyor?!
 
-228
+226
 00:16:53,160 --> 00:16:55,330
 Durması için yalvaran Sarquiss mi?
 
-229
+227
 00:16:55,330 --> 00:16:59,040
 Neden mi? Birde soruyor musunuz?
 
-230
+228
 00:16:59,040 --> 00:17:02,130
 Sarquiss... Bellamy...
 
-231
+229
 00:17:03,790 --> 00:17:07,760
 Sembolümü rezil
 ettiğiniz için elbette.
 
-232
+230
 00:17:10,840 --> 00:17:13,720
 "Gökyüzü adası var mı, yok mu?"
 
-233
+231
 00:17:14,100 --> 00:17:17,560
 "Altın Şehir hayal mi, gerçek mi?"
 
-234
+232
 00:17:19,690 --> 00:17:22,440
 Hiçbiri önemli değil.
 
-235
+233
 00:17:23,110 --> 00:17:26,400
 "İnançları çarpıştır,
 puslu zihinlere hükmet."
 
-236
+234
 00:17:27,190 --> 00:17:28,820
 Tam da bunu demiştim...
 
-237
+235
 00:17:28,820 --> 00:17:30,860
 değil mi, Bellamy?
 
-238
+236
 00:17:32,160 --> 00:17:35,450
 O... Donquixote Doflamingo!
 
-239
+237
 00:17:35,450 --> 00:17:38,080
 Shichibukai!
 
-240
+238
 00:17:38,080 --> 00:17:40,710
 Kelle ödülü 300 milyonun üzerinde!
 
-241
+239
 00:17:40,710 --> 00:17:42,750
 Burada ne arıyor?!
 
-242
+240
 00:17:42,750 --> 00:17:47,880
 Emrimde sizin gibi
 beceriksiz adamları istemem...
 
-243
+241
 00:17:48,630 --> 00:17:51,050
 Kahretsin!
 Bedenimi kontrol edemiyorum!
 
-244
+242
 00:17:51,050 --> 00:17:54,090
 Dur! Lütfen, yapma...!
 
-245
+243
 00:17:54,510 --> 00:17:56,930
 Hayır!
 
-246
+244
 00:18:00,600 --> 00:18:01,600
 Bellamy!
 
-247
+245
 00:18:05,270 --> 00:18:08,110
 B-Bana...
 
-248
+246
 00:18:08,860 --> 00:18:11,990
 Bana bir şans daha verin...!
 
-249
+247
 00:18:12,650 --> 00:18:16,620
 Biz... sadık takipçilerin olacağız!
 
-250
+248
 00:18:16,620 --> 00:18:17,830
 Bellamy!
 
-251
+249
 00:18:17,830 --> 00:18:19,450
 Yeter artık, Bellamy!
 
-252
+250
 00:18:21,620 --> 00:18:25,580
 Kaybettim ama asla
 ilkelerine karşı gelmedim!
 
-253
+251
 00:18:25,580 --> 00:18:27,210
 Sembolün üstüne yemin ederim!
 
-254
+252
 00:18:27,210 --> 00:18:29,880
 Sadece meseleleri böyle çözüyorum!
 
-255
+253
 00:18:29,880 --> 00:18:32,420
 Gitmesine izin veremezdik!
 
-256
+254
 00:18:32,420 --> 00:18:35,590
 Bir gün seni yakalayacaktı!
 
-257
+255
 00:18:36,800 --> 00:18:40,140
 Ne kadar da dokunaklı, benim sadık astım.
 
-258
+256
 00:18:40,470 --> 00:18:45,020
 Bellamy, sevdiğim yönün de bu işte.
 
-259
+257
 00:18:47,520 --> 00:18:51,940
 Yeni çağ kapımıza
 dayanmak üzere. İstediğini yap.
 
-260
+258
 00:18:53,240 --> 00:18:56,530
 Ama... Artık sana ihtiyacım yok.
 
-261
+259
 00:18:59,410 --> 00:19:02,330
 Doflamingo!
 
-262
+260
 00:19:08,130 --> 00:19:11,550
 55 milyon değerinde,
 ünlü bir çaylağı saf dışı bıraktı!
 
-263
+261
 00:19:11,550 --> 00:19:13,300
 Onun için çocuk oyuncağıydı!
 
-264
+262
 00:19:15,010 --> 00:19:16,890
 Nihayet başlıyor!
 
-265
+263
 00:19:16,890 --> 00:19:19,300
 Hazırlansanız iyi olur!
 
-266
+264
 00:19:19,300 --> 00:19:23,180
 Sadece gerçek korsanların hayatta
 kalabileceği bir dünya yaklaşıyor!
 
-267
+265
 00:19:23,180 --> 00:19:25,560
 Güçsüz olanlar,
 fırsatınız varken kaçın.
 
-268
+266
 00:19:25,560 --> 00:19:27,560
 Eşsiz güçlerin olduğu yeni çağ,
 
-269
+267
 00:19:27,560 --> 00:19:31,070
 durdurulamaz bir dalga gibi
 üzerimize geliyor!
+
+268
+00:05:44,120 --> 00:05:50,910
+Skypiea'nın Aşağısı,
+Beyaz Deniz
+
+269
+00:05:44,120 --> 00:05:50,910
+Skypiea'nın Aşağısı,
+Beyaz Deniz
 
 270
 00:05:44,120 --> 00:05:50,910
 Skypiea'nın Aşağısı,
 Beyaz Deniz
 
-271
-00:05:44,120 --> 00:05:50,910
-Skypiea'nın Aşağısı,
-Beyaz Deniz
-
-272
-00:05:44,120 --> 00:05:50,910
-Skypiea'nın Aşağısı,
-Beyaz Deniz

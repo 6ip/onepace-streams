@@ -6205,14 +6205,10 @@ QG de la Marine
 Près de Sphinx,
 Terre natale de Barbe Blanche
 
-Nouveau Monde
-
 1418
 00:16:47,150 --> 00:16:50,030
 Près de Sphinx,
 Terre natale de Barbe Blanche
-
-Nouveau Monde
 
 1419
 00:20:48,430 --> 00:20:49,640
@@ -6338,4 +6334,3 @@ m 94.15 427.07 l 96.83 423.88 99.24 423.27 m 111.15 372.07 l 113.83 368.88 116.2
 00:17:38,200 --> 00:17:41,120
 Un peu plus tôt
 
-à Wano

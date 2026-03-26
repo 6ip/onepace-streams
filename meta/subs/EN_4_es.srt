@@ -9652,9 +9652,3 @@ Flamante mundo nuevo.
 00:01:39,580 --> 00:01:40,140
 る
 
-2413
-00:01:49,940 --> 00:01:59,940
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
-https://mpv.io

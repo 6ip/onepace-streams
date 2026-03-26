@@ -1,1387 +1,1374 @@
 1
-00:00:00,000 --> 00:00:09,990
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,000
-Il lettore multimediale non supporta il formato dei sottotitoli di questo episodio.
-I sottotitoli probabilmente non funzioneranno correttamente.
-Si prega di utilizzare uno dei lettori video consigliati, preferibilmente mpv:
-https://mpv.io
-
-3
 00:01:57,260 --> 00:01:58,350
 Cos'è stato?!
 
-4
+2
 00:01:58,350 --> 00:01:59,640
 Cos'ha appena fatto?!
 
-5
+3
 00:01:59,640 --> 00:02:02,100
 Il suo braccio si è allungato, vero?!
 
-6
+4
 00:02:00,730 --> 00:02:02,100
 Assurdo!
 
-7
+5
 00:02:02,100 --> 00:02:05,650
 Ha spazzato via Captain Kuro?!
 
-8
+6
 00:02:23,040 --> 00:02:24,620
 Lascio il resto a te!
 
-9
+7
 00:02:26,540 --> 00:02:28,460
 Io mi occuperò del tesoro!
 
-10
+8
 00:02:29,710 --> 00:02:34,930
 – I Pirati di Usopp sono arrivati!
 – I Pirati di Usopp sono arrivati!
 
-11
+9
 00:02:35,590 --> 00:02:36,340
 Ragazzi!
 
-12
+10
 00:02:36,340 --> 00:02:37,350
 Non dovevate venire!
 
-13
+11
 00:02:37,890 --> 00:02:39,510
 Preparati!
 
-14
+12
 00:02:40,520 --> 00:02:41,770
 Punizione, punizione!
 
-15
+13
 00:02:42,180 --> 00:02:45,060
 Non disturbare la pace del villaggio, 
 maledetto pirata!
 
-16
+14
 00:02:43,890 --> 00:02:45,810
 S-Smettetela!
 
-17
+15
 00:02:47,060 --> 00:02:50,110
 Mocciosi! Cosa state facendo?!
 
-18
+16
 00:02:51,280 --> 00:02:53,110
 Che intenzione hanno quei marmocchi?!
 
-19
+17
 00:02:53,110 --> 00:02:56,780
 Ora basta! V-Voi tre... fermi!
 
-20
+18
 00:03:00,200 --> 00:03:03,330
 Bene! Così può bastare!
 
-21
+19
 00:03:05,960 --> 00:03:10,420
 H-Hanno fatto arrabbiare 
 completamente Captain Kuro!
 
-22
+20
 00:03:12,050 --> 00:03:13,970
 Captain! Come immaginavamo!
 
-23
+21
 00:03:13,970 --> 00:03:15,720
 Stavi combattendo!
 
-24
+22
 00:03:15,720 --> 00:03:17,840
 Perché non ce l'hai detto?!
 
-25
+23
 00:03:17,840 --> 00:03:19,220
 Sei proprio d'acqua!
 
-26
+24
 00:03:19,220 --> 00:03:21,430
 Sbagliato! Si dice "sei proprio di ghiaccio"!
 
-27
+25
 00:03:21,430 --> 00:03:22,770
 Non importa di cosa sono!
 
-28
+26
 00:03:23,430 --> 00:03:25,890
 Comunque, allontanatevi da qui!
 
-29
+27
 00:03:25,890 --> 00:03:27,230
 Dovete scappare!
 
-30
+28
 00:03:27,980 --> 00:03:28,980
 Non voglio!
 
-31
+29
 00:03:28,980 --> 00:03:30,980
 Combatteremo anche noi!
 
-32
+30
 00:03:30,980 --> 00:03:34,150
 Non possiamo scappare, 
 per i Pirati di Usopp sarebbe un disonore!
 
-33
+31
 00:03:44,660 --> 00:03:48,000
 Imbecilli! Scappate, veloci!
 
-34
+32
 00:04:00,390 --> 00:04:01,890
 – Captain!
 – Captain!
 
-35
+33
 00:04:06,520 --> 00:04:08,900
 L'ho sentito, leggermente.
 
-36
+34
 00:04:08,900 --> 00:04:12,860
 Hai usato una tecnica proprio peculiare...
 
-37
+35
 00:04:12,860 --> 00:04:14,280
 Bastardo!
 
-38
+36
 00:04:14,650 --> 00:04:16,940
 Hai i poteri di un Frutto del Diavolo, vero?!
 
-39
+37
 00:04:17,320 --> 00:04:19,950
 Esatto! Ho mangiato il Frutto Gum Gum!
 
-40
+38
 00:04:21,570 --> 00:04:22,910
 Sono un uomo di gomma!
 
-41
+39
 00:04:22,910 --> 00:04:24,580
 Cosa?! Un Frutto del Diavolo?!
 
-42
+40
 00:04:24,580 --> 00:04:25,870
 Allora è pericoloso!
 
-43
+41
 00:04:25,870 --> 00:04:27,330
 Ma quindi quella roba esiste?!
 
-44
+42
 00:04:27,330 --> 00:04:28,750
 Lo sapevo che era strano!
 
-45
+43
 00:04:28,750 --> 00:04:31,130
 Capisco. Un uomo di gomma, eh?
 
-46
+44
 00:04:31,130 --> 00:04:34,380
 Quindi il braccio che si allunga
  non è stato un'illusione ottica.
 
-47
+45
 00:04:35,800 --> 00:04:36,590
 Jango!
 
-48
+46
 00:04:36,590 --> 00:04:37,420
 S-Sì?
 
-49
+47
 00:04:37,420 --> 00:04:40,260
 Mi occupo io di quel moccioso...
 
-50
+48
 00:04:40,260 --> 00:04:43,050
 Lascio a te la signorina Kaya.
 
-51
+49
 00:04:43,890 --> 00:04:46,890
 Falle scrivere il testamento
  come prevedeva il piano
 
-52
+50
 00:04:47,230 --> 00:04:48,850
 ed eliminala!
 
-53
+51
 00:04:49,690 --> 00:04:52,100
 Inoltre, quelle tre formiche...
 
-54
+52
 00:04:52,610 --> 00:04:53,610
 sono d'intralcio!
 
-55
+53
 00:04:56,530 --> 00:04:58,190
 Ricevuto.
 
-56
+54
 00:05:02,490 --> 00:05:03,660
 Fermati.
 
-57
+55
 00:05:04,330 --> 00:05:07,500
 Oltrepassare questo punto è vietato.
 
-58
+56
 00:05:07,500 --> 00:05:09,830
 Buchi!
 
-59
+57
 00:05:12,460 --> 00:05:15,960
 Pestone del Gatto!
 
-60
+58
 00:05:16,340 --> 00:05:17,760
 Ancora?!
 
-61
+59
 00:05:51,000 --> 00:05:53,960
 Rispetto a prima... ha una stazza maggiore!
 
-62
+60
 00:05:55,460 --> 00:05:56,420
 Accidenti!
 
-63
+61
 00:05:57,040 --> 00:05:58,710
 Maledizione!
 
-64
+62
 00:06:00,210 --> 00:06:02,380
 Non ho la forza di rialzarmi...
 
-65
+63
 00:06:02,380 --> 00:06:05,050
 Maledizione! Maledizione...!
 
-66
+64
 00:06:05,050 --> 00:06:06,930
 Maledizione...
 
-67
+65
 00:06:06,930 --> 00:06:11,520
 Pirati di Usopp!
 
-68
+66
 00:06:12,390 --> 00:06:14,850
 – S-Sì!
 – S-Sì!
 
-69
+67
 00:06:14,850 --> 00:06:16,400
 Ascoltate ciò che vi dico!
 
-70
+68
 00:06:17,110 --> 00:06:18,520
 Non scapperemo!
 
-71
+69
 00:06:18,520 --> 00:06:20,320
 Dopo quello che ti hanno fatto,
 
-72
+70
 00:06:20,320 --> 00:06:22,320
 ci vendicheremo!
 
-73
+71
 00:06:22,700 --> 00:06:24,570
 Proteggete Kaya!
 
-74
+72
 00:06:27,200 --> 00:06:29,830
 D'accordo? Ascoltate bene!
 
-75
+73
 00:06:29,830 --> 00:06:31,450
 Ora...
 
-76
+74
 00:06:31,450 --> 00:06:37,080
 Ora vi darò il compito più importante... 
  che io vi abbia mai dato!
 
-77
+75
 00:06:37,080 --> 00:06:40,090
 Prendete Kaya e allontanatevi da qui!
 
-78
+76
 00:06:40,090 --> 00:06:42,010
 Non azzardatevi a dire che non potete!
 
-79
+77
 00:06:42,010 --> 00:06:46,090
 È per questo– È per diventare uomini in
  grado di proteggere ciò che è importante che
 
-80
+78
 00:06:46,090 --> 00:06:50,100
 abbiamo formato una ciurma pirata!
 
-81
+79
 00:06:52,430 --> 00:06:53,850
 Usopp...
 
-82
+80
 00:06:58,940 --> 00:07:02,320
 Questo è... un ordine del capitano.
 
-83
+81
 00:07:02,320 --> 00:07:05,280
 – Sì, Captain!
 – Sì, Captain!
 
-84
+82
 00:07:05,280 --> 00:07:06,610
 Signora Kaya, si sbrighi!
 
-85
+83
 00:07:06,610 --> 00:07:07,740
 Di qua, di qua!
 
-86
+84
 00:07:07,070 --> 00:07:07,740
 Di qua, di qua!
 
-87
+85
 00:07:08,370 --> 00:07:10,700
 È proprio bravo con le parole!
 
-88
+86
 00:07:10,700 --> 00:07:12,750
 Alla fine, li sta comunque facendo scappare.
 
-89
+87
 00:07:12,750 --> 00:07:15,290
 Andiamo nel bosco,
  lo conosciamo come le nostre tasche!
 
-90
+88
 00:07:15,290 --> 00:07:16,170
 Sì...
 
-91
+89
 00:07:19,340 --> 00:07:20,290
 Jango!
 
-92
+90
 00:07:20,290 --> 00:07:22,340
 Ah! Mi sono incantato!
 
-93
+91
 00:07:22,760 --> 00:07:25,930
 Idioti! Non riuscirete a scappare da me–!
 
-94
+92
 00:07:31,140 --> 00:07:32,100
 Ben ti sta!
 
-95
+93
 00:07:32,520 --> 00:07:34,230
 Brutto bastardo!
 
-96
+94
 00:07:34,230 --> 00:07:36,640
 Sbrigati a seguirli, cretino!
 
-97
+95
 00:07:39,230 --> 00:07:40,310
 Ho capito!
 
-98
+96
 00:07:42,780 --> 00:07:44,690
 È inutile.
 
-99
+97
 00:07:45,240 --> 00:07:49,120
 Conosco bene il fragile corpo di Kaya.
 
-100
+98
 00:07:49,120 --> 00:07:52,120
 Non riuscirà a scappare da Jango.
 
-101
+99
 00:07:52,990 --> 00:07:55,250
 Se vuoi andare ad aiutarla, fai pure.
 
-102
+100
 00:07:56,710 --> 00:08:00,920
 A patto che tu riesca a superare 
 questa strada in pendenza da vivo.
 
-103
+101
 00:08:06,300 --> 00:08:07,760
 Buchi!
 
-104
+102
 00:08:09,300 --> 00:08:13,140
 Hai già perso contro di me una volta, no?!
 
-105
+103
 00:08:13,140 --> 00:08:16,980
 Mi sembrava di averti 
 detto di non intralciarci!
 
-106
+104
 00:08:17,390 --> 00:08:19,230
 Levati!
 
-107
+105
 00:09:02,690 --> 00:09:05,480
 Dietro di noi c'è ancora quell'ipnotizzatore?
 
-108
+106
 00:09:05,480 --> 00:09:07,150
 No, non lo vedo!
 
-109
+107
 00:09:07,150 --> 00:09:08,940
 Continuiamo così!
 
-110
+108
 00:09:08,940 --> 00:09:12,450
 Non riuscirà mai a 
 prenderci in questa foresta!
 
-111
+109
 00:09:12,990 --> 00:09:14,490
 Stia tranquilla, signora Kaya!
 
-112
+110
 00:09:14,490 --> 00:09:16,660
 Riusciremo a proteggerla!
 
-113
+111
 00:09:16,990 --> 00:09:20,000
 Esatto! Per l'onore dei Pirati di Usopp!
 
-114
+112
 00:09:22,000 --> 00:09:23,330
 Grazie...
 
-115
+113
 00:09:46,570 --> 00:09:48,070
 Non ci sono.
 
-116
+114
 00:09:49,280 --> 00:09:51,570
 Dove siete, bambocci?!
 
-117
+115
 00:09:52,320 --> 00:09:54,700
 Non pensate di potermi sfuggire!
 
-118
+116
 00:09:58,040 --> 00:10:03,040
 Se dovesse servire...
 raderò al suolo l'intera foresta!
 
-119
+117
 00:10:03,040 --> 00:10:04,250
 Oh...
 
-120
+118
 00:10:04,250 --> 00:10:06,500
 Sembra arrabbiatissimo.
 
-121
+119
 00:10:06,500 --> 00:10:09,760
 Quindi non è solo un ipnotizzatore!
 
-122
+120
 00:10:14,220 --> 00:10:16,430
 Dove siete scappati?
 
-123
+121
 00:10:17,510 --> 00:10:18,510
 Da questa parte!
 
-124
+122
 00:10:26,230 --> 00:10:28,480
 C-Cos'era quel suono?!
 
-125
+123
 00:10:28,480 --> 00:10:29,860
 Chissà.
 
-126
+124
 00:10:29,860 --> 00:10:32,110
 Jango si starà scatenando.
 
-127
+125
 00:10:32,110 --> 00:10:34,570
 Che ne dici di andare a 
 controllare con i tuoi occhi?
 
-128
+126
 00:10:34,950 --> 00:10:39,540
 Anche se... potrebbe essere già troppo tardi.
 
-129
+127
 00:10:41,540 --> 00:10:43,000
 Bastardo...!
 
-130
+128
 00:10:43,330 --> 00:10:46,460
 Avete vissuto insieme
 nella villa per tre anni ma...
 
-131
+129
 00:10:46,460 --> 00:10:48,590
 non riesci ad avere un briciolo di pietà?!
 
-132
+130
 00:10:48,590 --> 00:10:49,750
 No!
 
-133
+131
 00:10:49,750 --> 00:10:53,970
 Mi pareva di averlo detto.
  Kaya non è altro che una pedina del mio piano.
 
-134
+132
 00:10:53,970 --> 00:10:58,430
 Quando sarà morta,
 sarò grato a lei per la prima volta.
 
-135
+133
 00:10:59,050 --> 00:11:01,350
 Brutto...!
 
-136
+134
 00:11:01,350 --> 00:11:03,600
 È un criminale senza speranze.
 
-137
+135
 00:11:03,600 --> 00:11:05,900
 Non penso ne abbia mai avute.
 
-138
+136
 00:11:07,150 --> 00:11:08,860
 Usopp!
 
-139
+137
 00:11:10,270 --> 00:11:12,780
 Tu va' con loro!
 
-140
+138
 00:11:13,780 --> 00:11:16,280
 Qui ce ne occupiamo noi.
 
-141
+139
 00:11:17,160 --> 00:11:18,570
 Lascia fare a noi!
 
-142
+140
 00:11:28,580 --> 00:11:32,920
 Oh... Riesci ancora a muoverti? 
 Complimenti.
 
-143
+141
 00:11:32,920 --> 00:11:34,420
 Taci!
 
-144
+142
 00:11:34,420 --> 00:11:36,180
 Non ti lascerò...
 
-145
+143
 00:11:36,180 --> 00:11:38,970
 fare quello che ti pare!
 
-146
+144
 00:11:39,850 --> 00:11:44,930
 L'affetto di Kaya e del villaggio...
  hai tradito tutti quanti.
 
-147
+145
 00:11:46,100 --> 00:11:50,860
 Non ti permetterò di 
 continuare a fare quello che vuoi!
 
-148
+146
 00:11:52,230 --> 00:11:53,320
 Usopp!
 
-149
+147
 00:11:56,820 --> 00:11:59,030
 M-Maledizione...
 
-150
+148
 00:11:59,030 --> 00:12:03,040
 Il mio corpo... non si muove.
 
-151
+149
 00:12:09,000 --> 00:12:12,590
 Sei proprio esilarante!
 
-152
+150
 00:12:12,920 --> 00:12:16,010
 Sarebbe meglio che tu
  rimanessi lì disteso a terra.
 
-153
+151
 00:12:16,590 --> 00:12:19,840
 Beh, anche se seguissi Jango,
 
-154
+152
 00:12:19,840 --> 00:12:22,640
 sarebbe un avversario impossibile per te.
 
-155
+153
 00:12:22,640 --> 00:12:25,140
 Probabilmente sei più al sicuro così.
 
-156
+154
 00:12:26,310 --> 00:12:27,980
 Anche se è impossibile...
 
-157
+155
 00:12:29,440 --> 00:12:32,690
 Anche se è impossibile, voglio proteggerli!
 
-158
+156
 00:12:32,690 --> 00:12:35,860
 Li proteggerò io!
 
-159
+157
 00:12:36,030 --> 00:12:39,320
 Sono il capitano dei Pirati di Usopp
 
-160
+158
 00:12:39,320 --> 00:12:42,410
 e sono un coraggioso guerriero del mare!
 
-161
+159
 00:12:43,030 --> 00:12:50,830
 Non ti lascerò sfiorare nemmeno 
 con un dito gli abitanti del villaggio!
 
-162
+160
 00:12:53,960 --> 00:12:56,170
 Che problemi ha?
 
-163
+161
 00:12:54,710 --> 00:12:56,170
 Sta urlando qualcosa!
 
-164
+162
 00:12:56,170 --> 00:12:58,630
 Ehi, guardate, sta piangendo!
 
-165
+163
 00:13:11,520 --> 00:13:13,230
 Cosa c'è di divertente?!
 
-166
+164
 00:13:16,030 --> 00:13:16,980
 Luffy!
 
-167
+165
 00:13:17,570 --> 00:13:20,950
 Inseguirò quel maledetto ipnotizzatore 
 con Usopp. Qualche problema?
 
-168
+166
 00:13:20,950 --> 00:13:22,910
 No! Andate!
 
-169
+167
 00:13:22,910 --> 00:13:25,160
 S-Scusa...
 
-170
+168
 00:13:25,160 --> 00:13:29,410
 In realtà, sarei più veloce da solo, 
 ma stiamo andando nel bosco.
 
-171
+169
 00:13:29,410 --> 00:13:32,620
 Senza la tua guida, 
 non riuscirei mai a raggiungerli.
 
-172
+170
 00:13:32,620 --> 00:13:34,630
 Ehi, bastardi!
 
-173
+171
 00:13:34,630 --> 00:13:37,880
 Chi vi ha dato il permesso 
 di superare questa salita?
 
-174
+172
 00:13:38,210 --> 00:13:39,510
 Sono stato io!
 
-175
+173
 00:13:40,840 --> 00:13:42,470
 Andate, Zoro, Usopp!
 
-176
+174
 00:13:44,550 --> 00:13:45,470
 Un altro!
 
-177
+175
 00:13:51,940 --> 00:13:56,520
 Gum Gum Lancia!
 
-178
+176
 00:13:56,520 --> 00:13:58,230
 Maledizione! È sparito di nuovo!
 
-179
+177
 00:14:00,650 --> 00:14:03,860
 Oh beh! Almeno sono riusciti a 
 superare la strada in pendenza.
 
-180
+178
 00:14:03,860 --> 00:14:07,490
 Prima di combattere, 
 lascia che ti chieda una cosa.
 
-181
+179
 00:14:07,490 --> 00:14:11,960
 Perché uno straniero come te ha voluto 
 ficcare il naso negli affari di questo villaggio?
 
-182
+180
 00:14:13,170 --> 00:14:16,420
 Perché in questo villaggio c'è una 
 persona che non voglio vedere morire.
 
-183
+181
 00:14:17,250 --> 00:14:18,880
 Sei un sempliciotto, eh?
 
-184
+182
 00:14:18,880 --> 00:14:22,260
 Ti va bene quella... 
 come ragione per morire?
 
-185
+183
 00:14:22,260 --> 00:14:23,970
 Mi va bene così!
 
-186
+184
 00:14:23,970 --> 00:14:25,340
 Ma non morirò!
 
-187
+185
 00:14:25,840 --> 00:14:27,810
 Ti farò morire invece!
 
-188
+186
 00:14:34,770 --> 00:14:37,560
 Gum Gum Frusta!
 
-189
+187
 00:14:38,520 --> 00:14:40,280
 E Pistol!
 
-190
+188
 00:14:46,240 --> 00:14:47,740
 Mi viene da sbadigliare!
 
-191
+189
 00:14:47,740 --> 00:14:50,040
 Bastardo!
 
-192
+190
 00:14:55,870 --> 00:14:59,670
 Ehi! A est! A est! 
 Ti ho detto di andare a est!
 
-193
+191
 00:14:59,670 --> 00:15:01,920
 Come se ti capissi! 
 Dimmi destra o sinistra!
 
-194
+192
 00:15:01,920 --> 00:15:03,420
 Allora, gira a destra!
 
-195
+193
 00:15:03,420 --> 00:15:04,630
 Dalla parte opposta?!
 
-196
+194
 00:15:07,970 --> 00:15:09,560
 Signora Kaya!
 
-197
+195
 00:15:11,560 --> 00:15:13,310
 Scusate...
 
-198
+196
 00:15:13,310 --> 00:15:15,140
 Andate pure avanti voi.
 
-199
+197
 00:15:15,140 --> 00:15:16,270
 Cosa sta dicendo?!
 
-200
+198
 00:15:16,270 --> 00:15:19,400
 La nostra missione è proteggerla, signora Kaya!
 
-201
+199
 00:15:20,730 --> 00:15:22,570
 Oh no! Ha la febbre altissima!
 
-202
+200
 00:15:22,570 --> 00:15:24,650
 Eh?! Si faccia forza, signora Kaya!
 
-203
+201
 00:15:24,650 --> 00:15:25,780
 Un dottore, un dottore!
 
-204
+202
 00:15:25,780 --> 00:15:28,160
 Idiota! Ti pare il momento?!
 
-205
+203
 00:15:28,160 --> 00:15:29,950
 La sua vita è in pericolo!
 
-206
+204
 00:15:30,450 --> 00:15:32,790
 Lo so... ma anche correre
  ancora sarebbe pericoloso.
 
-207
+205
 00:15:32,790 --> 00:15:34,080
 Però...!
 
-208
+206
 00:15:34,080 --> 00:15:36,460
 Dove siete, bambocci?!
 
-209
+207
 00:15:44,300 --> 00:15:45,760
 Grazie...
 
-210
+208
 00:15:45,760 --> 00:15:47,430
 Sono felice che mi abbiate salvata.
 
-211
+209
 00:15:48,140 --> 00:15:50,760
 Il pensiero è più che sufficiente.
 
-212
+210
 00:15:50,760 --> 00:15:52,510
 Scappate voi tre.
 
-213
+211
 00:15:54,140 --> 00:15:56,060
 Dove siete fuggiti?
 
-214
+212
 00:15:58,190 --> 00:16:02,860
 Se continuassimo a scappare senza
 la signora Kaya... ci salveremo sicuramente.
 
-215
+213
 00:16:02,860 --> 00:16:05,190
 Sì, di sicuro.
 
-216
+214
 00:16:05,190 --> 00:16:10,530
 Il Captain lo diceva sempre, no? Se state
  perdendo, scappate con la coda tra le gambe.
 
-217
+215
 00:16:10,530 --> 00:16:13,200
 Come pensavo, il Captain è un bugiardo!
 
-218
+216
 00:16:15,370 --> 00:16:17,960
 Lui stava combattendo, no?
 
-219
+217
 00:16:17,960 --> 00:16:21,040
 Combatteva così disperatamente...
  per coprirci le spalle.
 
-220
+218
 00:16:23,550 --> 00:16:25,840
 Non lasceremo morire la signora Kaya.
 
-221
+219
 00:16:26,220 --> 00:16:29,260
 Arrivati fin qui, è il momento di dare 
 il tutto per tutto, Pirati di Usopp!
 
-222
+220
 00:16:29,260 --> 00:16:30,090
 Giusto!
 
-223
+221
 00:16:30,090 --> 00:16:31,550
 Combattiamo contro di lui!
 
-224
+222
 00:16:31,550 --> 00:16:32,680
 Non potete!
 
-225
+223
 00:16:32,680 --> 00:16:34,930
 Siete solamente dei bambini!
 
-226
+224
 00:16:34,930 --> 00:16:37,520
 Non dovete morire per il mio bene!
 
-227
+225
 00:16:37,520 --> 00:16:39,140
 Non moriremo.
 
-228
+226
 00:16:39,140 --> 00:16:40,520
 Lotteremo per sopravvivere.
 
-229
+227
 00:16:41,730 --> 00:16:43,400
 Maledizione...
 
-230
+228
 00:16:43,940 --> 00:16:45,150
 Mi ha tagliato la bocca.
 
-231
+229
 00:16:45,610 --> 00:16:49,490
 Quel bastardo con il cappello di paglia... 
 anche se sembra terribilmente forte...!
 
-232
+230
 00:16:49,490 --> 00:16:52,410
 C-Come ci si aspetta da Captain Kuro!
 
-233
+231
 00:16:53,160 --> 00:16:54,950
 Fallo fuori!
 
-234
+232
 00:16:54,950 --> 00:16:56,580
 Urrà per Captain Kuro!
 
-235
+233
 00:16:55,660 --> 00:16:56,580
 Captain Kuro!
 
-236
+234
 00:16:56,580 --> 00:16:59,120
 Incredibile, Captain Kuro!
 
-237
+235
 00:16:59,120 --> 00:17:02,080
 Non chiamatemi... con quel nome!
 
-238
+236
 00:17:04,040 --> 00:17:07,050
 Non vi è ancora chiaro?!
 
-239
+237
 00:17:07,050 --> 00:17:13,550
 Questo è... un piano per abbandonare 
 completamente il nome di "Captain Kuro"!
 
-240
+238
 00:17:14,760 --> 00:17:16,850
 Mi sono stancato...
 
-241
+239
 00:17:17,430 --> 00:17:23,440
 Ogni giorno ho creato piani per voi
 senza cervello in grado solo di scatenarvi
 
-242
+240
 00:17:23,440 --> 00:17:27,940
 e di essere perseguitato dai cani del 
 Governo e dai cacciatori di taglie.
 
-243
+241
 00:17:27,940 --> 00:17:32,450
 Era così insopportabile 
 che non ne potevo più!
 
-244
+242
 00:17:36,200 --> 00:17:38,290
 La Marina, eh?
 
-245
+243
 00:17:39,040 --> 00:17:42,670
 Questa settimana è la terza volta...
 
-246
+244
 00:17:43,380 --> 00:17:45,420
 Non possiamo farci niente.
 
-247
+245
 00:17:45,420 --> 00:17:49,010
 Facciamo cose per cui essere
  perseguitati dovrebbe essere la norma.
 
-248
+246
 00:17:49,010 --> 00:17:51,680
 Inoltre, abbiamo una certa fama.
 
-249
+247
 00:17:51,680 --> 00:17:53,090
 Esatto.
 
-250
+248
 00:17:53,090 --> 00:17:56,600
 È proprio quella fama ad attirarli.
 
-251
+249
 00:17:56,600 --> 00:18:01,140
 Per questo, ho intenzione di 
 smettere di essere "Captain Kuro".
 
-252
+250
 00:18:02,850 --> 00:18:05,610
 Dici proprio cose strane.
 
-253
+251
 00:18:05,610 --> 00:18:06,980
 È inutile.
 
-254
+252
 00:18:06,980 --> 00:18:10,360
 Credo che la Marina ti inseguirà 
 fino al giorno della tua morte.
 
-255
+253
 00:18:14,570 --> 00:18:17,030
 Morirò.
 
-256
+254
 00:18:18,410 --> 00:18:22,710
 Alla fine, pare che essere 
 un pirata non mi si addica.
 
-257
+255
 00:18:22,710 --> 00:18:25,830
 Ma... sei tu il capitano di questa nave!
 
-258
+256
 00:18:25,830 --> 00:18:28,590
 Il capitano ora lo farai tu!
 
-259
+257
 00:18:28,590 --> 00:18:32,720
 Mi sono stancato di questa vita frenetica.
 
-260
+258
 00:18:35,300 --> 00:18:39,310
 Io... farò in modo che 
 la mia morte sia pubblica.
 
-261
+259
 00:18:40,060 --> 00:18:41,140
 Captain Kuro!
 
-262
+260
 00:18:41,140 --> 00:18:42,060
 Capitano!
 
-263
+261
 00:18:42,060 --> 00:18:43,020
 Capitano!
 
-264
+262
 00:18:43,020 --> 00:18:44,770
 Quante navi ha il nemico?
 
-265
+263
 00:18:44,770 --> 00:18:46,400
 U-Una!
 
-266
+264
 00:18:46,400 --> 00:18:47,900
 Che facciamo, capitano?
 
-267
+265
 00:18:47,900 --> 00:18:50,150
 Spariamo anche noi con i cannoni?
 
-268
+266
 00:18:50,150 --> 00:18:52,490
 Abbassate una delle scialuppe.
 
-269
+267
 00:18:52,490 --> 00:18:53,610
 Ah?
 
-270
+268
 00:18:53,610 --> 00:18:54,610
 Una scialuppa!
 
-271
+269
 00:18:58,410 --> 00:19:00,330
 Vicecapitano Jango! Il Captain Kuro–!
 
-272
+270
 00:19:00,330 --> 00:19:01,660
 Sì, lo so.
 
-273
+271
 00:19:01,660 --> 00:19:02,580
 Lo sa?
 
-274
+272
 00:19:02,580 --> 00:19:05,120
 Non importa come, è da pazzi andarci da solo!
 
-275
+273
 00:19:05,120 --> 00:19:07,880
 Non dirmi che ha intenzione di arrendersi?!
 
-276
+274
 00:19:22,680 --> 00:19:25,060
 Cosa?! L'attacco si è fermato!
 
-277
+275
 00:19:25,600 --> 00:19:27,230
 Avvicinate la nave.
 
-278
+276
 00:19:27,230 --> 00:19:28,560
 Eh? Ma–!
 
-279
+277
 00:19:28,560 --> 00:19:30,980
 Va bene così! Fate ciò che vi dico!
 
-280
+278
 00:19:30,980 --> 00:19:32,150
 S-Sì!
 
-281
+279
 00:19:32,150 --> 00:19:34,240
 Ehi! Preparatevi alla lotta!
 
-282
+280
 00:19:32,900 --> 00:19:34,240
 Capisco...
 
-283
+281
 00:19:34,240 --> 00:19:36,410
 È questo ciò che intendeva.
 
-284
+282
 00:19:34,240 --> 00:19:36,410
 Avviciniamo la nave!
 
-285
+283
 00:19:48,080 --> 00:19:50,420
 I marine...
 
-286
+284
 00:19:50,420 --> 00:19:52,670
 sono stati annientati!
 
-287
+285
 00:19:56,380 --> 00:19:58,300
 Bene...
 
-288
+286
 00:19:58,970 --> 00:20:01,810
 Diamo inizio al piano.
 
-289
+287
 00:20:05,980 --> 00:20:09,060
 Ehi, ehi. Fatti forza.
 
-290
+288
 00:20:09,060 --> 00:20:12,230
 Sei l'unico che ho lasciato in vita.
 
-291
+289
 00:20:12,230 --> 00:20:15,240
 S-Silenzio...
 
-292
+290
 00:20:15,240 --> 00:20:18,200
 N-Non chiederò pietà!
 
-293
+291
 00:20:18,990 --> 00:20:22,030
 D-D-Dammi il colpo di grazia!
 
-294
+292
 00:20:24,790 --> 00:20:26,750
 Che bell'espressione!
 
-295
+293
 00:20:26,750 --> 00:20:30,380
 Riesci a ringhiare anche con la
 mandibola rotta, è proprio ciò che volevo!
 
-296
+294
 00:20:33,340 --> 00:20:39,430
 Darò un premio a un 
 soldato insignificante come te.
 
-297
+295
 00:20:39,430 --> 00:20:42,100
 Accetta con gratitudine,
 
-298
+296
 00:20:42,850 --> 00:20:46,560
 la mia testa, quella di Kuro dei Cento Piani.
 
-299
+297
 00:20:46,980 --> 00:20:49,270
 Il tuo nome è Captain Kuro.
 
-300
+298
 00:20:49,270 --> 00:20:52,190
 Il tuo nome è Captain Kuro.
 
-301
+299
 00:20:52,190 --> 00:20:55,070
 Questa tragedia è opera tua.
 
-302
+300
 00:20:55,070 --> 00:20:56,190
 One,
 
-303
+301
 00:20:56,190 --> 00:20:57,440
 Two,
 
-304
+302
 00:20:57,440 --> 00:20:58,530
 Jango!
 
-305
+303
 00:20:58,950 --> 00:21:01,530
 Il mio nome è Captain Kuro.
 
-306
+304
 00:21:01,530 --> 00:21:04,370
 Questa tragedia è opera mia.
 
-307
+305
 00:21:04,370 --> 00:21:08,790
 E tu sei colui che ha catturato Captain Kuro.
 
-308
+306
 00:21:08,790 --> 00:21:11,830
 Fai ritorno alla base e giustizia quest'uomo.
 
-309
+307
 00:21:11,830 --> 00:21:12,750
 One,
 
-310
+308
 00:21:12,750 --> 00:21:13,840
 Two,
 
-311
+309
 00:21:13,840 --> 00:21:14,800
 Jango!
 
-312
+310
 00:21:15,880 --> 00:21:19,630
 Sono colui che ha catturato Captain Kuro!
 
-313
+311
 00:21:19,630 --> 00:21:21,760
 L'ha fatto di nuovo, vicecapitano.
 
-314
+312
 00:21:22,220 --> 00:21:23,890
 Bene così.
 
-315
+313
 00:21:23,890 --> 00:21:32,690
 Con la morte di quell'impostore,
 il nome "Captain Kuro" sparirà da questo mondo.
 
-316
+314
 00:21:32,940 --> 00:21:40,400
 E oggi, con il successo di questo piano, 
 il mio obiettivo sarà totalmente raggiunto.
 
-317
+315
 00:21:40,990 --> 00:21:43,740
 Otterrò denaro e pace.
 
-318
+316
 00:21:44,120 --> 00:21:46,200
 Hai capito, moccioso?
 
-319
+317
 00:21:46,200 --> 00:21:51,120
 Non posso permettermi il fallimento 
 di questo piano durato tre anni.
 
-320
+318
 00:21:51,460 --> 00:21:55,380
 Il mio piano non fallirà mai!
 
-321
+319
 00:22:01,550 --> 00:22:04,510
 Pare che allungarti non sia 
 l'unica cosa che sai fare!
 
-322
+320
 00:22:04,510 --> 00:22:05,600
 Già.
 
-323
+321
 00:22:05,600 --> 00:22:09,390
 Mi sono allenato
  per diventare un pirata!
 
-324
+322
 00:22:11,810 --> 00:22:13,560
 Ti sei stancato?
 
-325
+323
 00:22:13,560 --> 00:22:18,110
 Se hai paura di essere famoso in mare, 
 come puoi fare il pirata?!
 
-326
+324
 00:22:24,780 --> 00:22:27,030
 ìLa mia ambizione...
 
-327
+325
 00:22:27,030 --> 00:22:29,910
 è molto più grande della tua!
+
+326
+00:17:38,500 --> 00:17:43,380
+Kuro dei Cento Piani
+(3 anni fa)
+
+327
+00:17:38,500 --> 00:17:43,380
+Kuro dei Cento Piani
+(3 anni fa)
 
 328
 00:17:38,500 --> 00:17:43,380
 Kuro dei Cento Piani
 (3 anni fa)
 
-329
-00:17:38,500 --> 00:17:43,380
-Kuro dei Cento Piani
-(3 anni fa)
-
-330
-00:17:38,500 --> 00:17:43,380
-Kuro dei Cento Piani
-(3 anni fa)

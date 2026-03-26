@@ -1,1547 +1,1534 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-2
-00:01:50,010 --> 00:02:00,010
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
 00:01:56,720 --> 00:01:58,470
 Which one of you is Arlong?!
 
-4
+2
 00:01:59,100 --> 00:02:01,480
 My name happens to be Arlong.
 
-5
+3
 00:02:01,480 --> 00:02:02,940
 I'm Luffy.
 
-6
+4
 00:02:03,310 --> 00:02:04,900
 Luffy?
 
-7
+5
 00:02:04,900 --> 00:02:06,560
 And what are you, exactly?
 
-8
+6
 00:02:06,900 --> 00:02:08,440
 A pirate!
 
-9
+7
 00:02:08,780 --> 00:02:10,490
 Hey, hold up, you bastard.
 
-10
+8
 00:02:11,570 --> 00:02:13,320
 Where do you think you're goin'?
 
-11
+9
 00:02:14,030 --> 00:02:18,700
 You need to run things
 by us first, kiddo.
 
-12
+10
 00:02:19,240 --> 00:02:20,200
 Hey, now!
 
-13
+11
 00:02:20,200 --> 00:02:21,790
 If you don't stop...
 
-14
+12
 00:02:23,000 --> 00:02:24,290
 Move!
 
-15
+13
 00:02:27,290 --> 00:02:29,340
 What does a pirate want with me?
 
-16
+14
 00:02:51,320 --> 00:02:53,570
 Just who the hell are you?!
 
-17
+15
 00:02:58,620 --> 00:02:59,490
 Luffy...
 
-18
+16
 00:03:01,120 --> 00:03:02,120
 Help me...
 
-19
+17
 00:03:02,120 --> 00:03:04,960
 I won't let you make
 our navigator cry!
 
-20
+18
 00:03:04,960 --> 00:03:05,750
 Why, you...
 
-21
+19
 00:03:05,750 --> 00:03:08,380
 How dare you insult Arlong!
 
-22
+20
 00:03:10,460 --> 00:03:13,340
 Butt out, shrimp!
 
-23
+21
 00:03:16,340 --> 00:03:17,390
 Sheesh...
 
-24
+22
 00:03:17,930 --> 00:03:20,260
 You just had to run
 ahead by yourself...
 
-25
+23
 00:03:20,260 --> 00:03:22,470
 I can handle myself just fine.
 
-26
+24
 00:03:22,470 --> 00:03:26,600
 Idiot! When did I say
 I was worried about you?!
 
-27
+25
 00:03:27,310 --> 00:03:29,860
 I just don't want you
 hogging all the fun.
 
-28
+26
 00:03:29,860 --> 00:03:31,150
 Oh, makes sense!
 
-29
+27
 00:03:31,150 --> 00:03:36,320
 W-Well, I don't mind
 letting you hog it all!
 
-30
+28
 00:03:36,320 --> 00:03:39,030
 How awfully generous of you.
 
-31
+29
 00:03:40,370 --> 00:03:44,330
 That's the guy!
 The mysterious swordsman!
 
-32
+30
 00:03:44,330 --> 00:03:45,830
 That's Roronoa Zoro.
 
-33
+31
 00:03:45,830 --> 00:03:51,250
 Yeah? Yeah, I thought so!
 He tricked me!
 
-34
+32
 00:03:51,250 --> 00:03:52,840
 He really took me for a ride...
 
-35
+33
 00:03:52,840 --> 00:03:55,800
 No, wait... Didn't I give him a ride?
 
-36
+34
 00:03:55,800 --> 00:03:57,380
 Look! It's that long-nosed guy!
 
-37
+35
 00:03:58,550 --> 00:04:02,220
 D-Didn't Nami kill him?!
 
-38
+36
 00:04:02,220 --> 00:04:04,520
 It's just as I suspected, then.
 
-39
+37
 00:04:05,390 --> 00:04:08,190
 The girl turned against us!
 
-40
+38
 00:04:16,240 --> 00:04:18,150
 Hey! Who are those guys?!
 
-41
+39
 00:04:18,950 --> 00:04:19,990
 – Hold it!
 – Hold it!
 
-42
+40
 00:04:21,910 --> 00:04:24,160
 He sent Arlong flying!
 
-43
+41
 00:04:24,160 --> 00:04:25,870
 Unbelievable!
 
-44
+42
 00:04:27,370 --> 00:04:29,710
 No ordinary human could do that!
 
-45
+43
 00:04:29,710 --> 00:04:31,670
 They're...
 
-46
+44
 00:04:32,170 --> 00:04:35,380
 Do you still want to
 try and break in now?
 
-47
+45
 00:04:35,380 --> 00:04:38,760
 In a fight like this, there's
 nothing you guys can do.
 
-48
+46
 00:04:38,760 --> 00:04:40,640
 You'll only get in their way!
 
-49
+47
 00:04:40,640 --> 00:04:44,390
 B-But... why are they fighting?
 
-50
+48
 00:04:44,390 --> 00:04:47,020
 What reason do they have to fight?!
 
-51
+49
 00:04:47,020 --> 00:04:48,560
 What reason?
 
-52
+50
 00:04:51,150 --> 00:04:52,860
 Big Sis Nami was crying!
 
-53
+51
 00:04:55,980 --> 00:04:59,610
 What other reason do they need
 to put their lives on the line?
 
-54
+52
 00:05:03,830 --> 00:05:06,540
 A pirate, huh? I see...
 
-55
+53
 00:05:06,540 --> 00:05:09,410
 So that's what this is about.
 
-56
+54
 00:05:10,330 --> 00:05:13,000
 You were after Nami
 from the very start.
 
-57
+55
 00:05:13,000 --> 00:05:14,170
 But really...
 
-58
+56
 00:05:15,920 --> 00:05:18,510
 what can you four lowbred
 worms possibly do?!
 
-59
+57
 00:05:20,760 --> 00:05:24,300
 Fools! You're not worth Arlong's time!
 
-60
+58
 00:05:24,680 --> 00:05:26,430
 I know just the guy to take you on!
 
-61
+59
 00:05:34,860 --> 00:05:36,070
 Don't tell me...
 
-62
+60
 00:05:36,070 --> 00:05:37,730
 It's coming!
 
-63
+61
 00:05:41,320 --> 00:05:43,820
 Wh-Wh-Wh-What's going on?!
 
-64
+62
 00:05:43,820 --> 00:05:46,660
 Rise, Momoo!
 
-65
+63
 00:05:53,120 --> 00:05:55,250
 A-A monster!
 
-66
+64
 00:05:55,250 --> 00:05:58,750
 That's the monster from
 the Grand Line that destroyed Gosa!
 
-67
+65
 00:06:10,270 --> 00:06:12,060
 It's here!
 
-68
+66
 00:06:13,730 --> 00:06:15,230
 Th-That's...
 
-69
+67
 00:06:15,230 --> 00:06:16,520
 ...the fearsome Momoo!
 
-70
+68
 00:06:22,650 --> 00:06:23,910
 Oh, that guy?
 
-71
+69
 00:06:23,910 --> 00:06:25,620
 He's with the fishmen?
 
-72
+70
 00:06:29,410 --> 00:06:32,370
 Wait! Momoo! Where are you going?!
 
-73
+71
 00:06:32,790 --> 00:06:36,000
 Hey! Stop! Get back here! Momoo!
 
-74
+72
 00:06:37,750 --> 00:06:40,960
 Momoo. What do you
 think you're doing?
 
-75
+73
 00:06:45,300 --> 00:06:50,470
 I mean, if you wanna run away,
 I won't stop you.
 
-76
+74
 00:06:52,480 --> 00:06:54,520
 Well, Momoo?
 
-77
+75
 00:07:01,730 --> 00:07:03,690
 Here it comes! Here it comes!
 
-78
+76
 00:07:03,690 --> 00:07:04,700
 Alright!
 
-79
+77
 00:07:04,700 --> 00:07:06,530
 Follow Momoo!
 
-80
+78
 00:07:10,910 --> 00:07:13,330
 I'm sorry! I'm sorry!
 I'm sorry! I'm sorry!
 
-81
+79
 00:07:16,960 --> 00:07:19,670
 I'll do it! This is a waste of time!
 
-82
+80
 00:07:28,760 --> 00:07:31,220
 What is he up to this time?!
 
-83
+81
 00:07:31,220 --> 00:07:34,100
 I've got a bad feeling about this...
 
-84
+82
 00:07:51,870 --> 00:07:53,740
 His arms stretched!
 
-85
+83
 00:07:55,960 --> 00:07:58,250
 Devil fruit powers?!
 
-86
+84
 00:07:58,250 --> 00:07:59,290
 What?!
 
-87
+85
 00:07:59,290 --> 00:08:00,130
 Who cares?!
 
-88
+86
 00:08:00,130 --> 00:08:00,710
 Get him!
 
-89
+87
 00:08:03,340 --> 00:08:04,170
 Whoa! Run!
 
-90
+88
 00:08:04,170 --> 00:08:06,220
 What? What's he doing?!
 
-91
+89
 00:08:06,220 --> 00:08:08,720
 I dunno, but it doesn't look good!
 
-92
+90
 00:08:08,720 --> 00:08:15,060
 Gum-Gum...
 
-93
+91
 00:08:16,060 --> 00:08:21,150
 Pinwheel!
 
-94
+92
 00:08:30,990 --> 00:08:34,830
 I didn't come here to fight these guys!
 
-95
+93
 00:08:35,370 --> 00:08:37,750
 If I'm gonna beat anyone up...
 
-96
+94
 00:08:38,960 --> 00:08:40,080
 it's gonna be you!
 
-97
+95
 00:08:40,790 --> 00:08:42,960
 What a coincidence...
 
-98
+96
 00:08:44,590 --> 00:08:48,720
 I was just thinking about
 killing you, too.
 
-99
+97
 00:08:48,720 --> 00:08:51,140
 That was dangerous, you moron!
 
-100
+98
 00:08:51,140 --> 00:08:53,760
 Are you trying to kill us, too?!
 
-101
+99
 00:08:58,890 --> 00:09:01,270
 Such destructive power...
 
-102
+100
 00:09:01,650 --> 00:09:05,650
 I can't believe a human exists
 who can throw that giant beast!
 
-103
+101
 00:09:05,980 --> 00:09:08,820
 Are my eyes playing tricks on me?
 
-104
+102
 00:09:11,700 --> 00:09:14,370
 How dare you hurt our brothers!
 
-105
+103
 00:09:15,330 --> 00:09:19,620
 It seems like we're going
 to have to fight, too.
 
-106
+104
 00:09:19,620 --> 00:09:23,290
 Looks like we need to teach them
 the differences between our races.
 
-107
+105
 00:09:23,290 --> 00:09:26,250
 The real players are
 finally ready, huh?
 
-108
+106
 00:09:30,050 --> 00:09:32,760
 Please sit back and relax, Arlong.
 
-109
+107
 00:09:32,760 --> 00:09:39,480
 If you go on a rampage,
 you'll end up leveling Arlong Park.
 
-110
+108
 00:09:42,480 --> 00:09:45,150
 We'll take care of these guys!
 
-111
+109
 00:09:45,150 --> 00:09:48,110
 Sure, do whatever you want.
 
-112
+110
 00:09:49,030 --> 00:09:51,280
 Yikes...!
 
-113
+111
 00:09:51,900 --> 00:09:54,820
 Hey. Guys. Hold on a second.
 
-114
+112
 00:09:54,820 --> 00:09:57,280
 That octopus is up to something.
 
-115
+113
 00:09:57,280 --> 00:10:00,500
 Octopus is best served
 sliced, salted, and boiled.
 
-116
+114
 00:10:00,500 --> 00:10:04,710
 Add some olive oil and paprika,
 and it pairs perfectly with a drink.
 
-117
+115
 00:10:04,710 --> 00:10:07,130
 Hey, I'm kinda in trouble here.
 Can I have a sec?
 
-118
+116
 00:10:07,130 --> 00:10:09,340
 That's it! Kiss your sight goodbye!
 
-119
+117
 00:10:09,340 --> 00:10:12,130
 Octohachi Black!
 
-120
+118
 00:10:16,550 --> 00:10:18,810
 You idiot! Why didn't you dodge?!
 
-121
+119
 00:10:20,520 --> 00:10:22,770
 I can't see!
 
-122
+120
 00:10:23,850 --> 00:10:25,560
 Now to finish you off!
 
-123
+121
 00:10:28,570 --> 00:10:30,530
 Hey, Luffy! Run!
 
-124
+122
 00:10:31,360 --> 00:10:33,490
 Y-Yeah... Th-That's the problem..
 
-125
+123
 00:10:34,660 --> 00:10:37,410
 I don't think I can run!
 
-126
+124
 00:10:38,410 --> 00:10:39,700
 Huh?!
 
-127
+125
 00:10:40,080 --> 00:10:42,710
 M-My feet are stuck!
 
-128
+126
 00:10:42,710 --> 00:10:45,670
 You're the one who
 stuck them in the ground!
 
-129
+127
 00:10:45,670 --> 00:10:47,920
 Why is he always like this...?
 
-130
+128
 00:10:49,380 --> 00:10:52,760
 Octohachi Black on the Rocks!
 
-131
+129
 00:11:09,860 --> 00:11:11,900
 What a pain.
 
-132
+130
 00:11:12,530 --> 00:11:15,280
 Sanji! That was amazing!
 
-133
+131
 00:11:15,280 --> 00:11:19,450
 Seems like I chose
 one hell of an idiot for a captain.
 
-134
+132
 00:11:19,780 --> 00:11:20,950
 You said it.
 
-135
+133
 00:11:20,950 --> 00:11:23,500
 He's... so cool!
 
-136
+134
 00:11:23,830 --> 00:11:29,920
 But he's a hundred times better than
 a bunch of thugs who'd hurt a lady.
 
-137
+135
 00:11:29,920 --> 00:11:31,670
 Lady?
 
-138
+136
 00:11:33,010 --> 00:11:36,220
 Can't believe you'd
 break in here for one lousy girl.
 
-139
+137
 00:11:36,720 --> 00:11:38,180
 Lousy girl?
 
-140
+138
 00:11:38,800 --> 00:11:41,350
 Just try and insult
 Nami one more time.
 
-141
+139
 00:11:41,350 --> 00:11:45,230
 I'll pan-fry you in butter and turn
 you into fishman meunière!
 
-142
+140
 00:11:45,230 --> 00:11:48,850
 You seem somewhat
 skilled for a human.
 
-143
+141
 00:11:48,850 --> 00:11:52,980
 But chivalry from a pirate
 is bound to be half-hearted.
 
-144
+142
 00:11:54,900 --> 00:11:58,240
 Go ahead and see if my chivalry
 is half-hearted or not.
 
-145
+143
 00:11:58,240 --> 00:12:01,990
 I spent half my life raised by
 a gristly old pirate.
 
-146
+144
 00:12:04,660 --> 00:12:09,630
 It appears you don't know the true
 power of the fishman race.
 
-147
+145
 00:12:13,000 --> 00:12:14,840
 No good. They're still pretty stuck.
 
-148
+146
 00:12:15,510 --> 00:12:17,800
 Still?! They're still stuck?!
 
-149
+147
 00:12:19,090 --> 00:12:21,050
 Yep, still stuck.
 
-150
+148
 00:12:21,050 --> 00:12:23,810
 I don't think pulling me
 is gonna get them unstuck.
 
-151
+149
 00:12:23,810 --> 00:12:27,270
 Are you even trying?! Are you even
 trying to get your legs out?!
 
-152
+150
 00:12:27,270 --> 00:12:32,230
 Who do they think they are,
 playing around in Arlong Park?!
 
-153
+151
 00:12:32,730 --> 00:12:34,320
 I'll kill them!
 
-154
+152
 00:12:35,570 --> 00:12:38,200
 Come on, come on!
 Get unstuck already!
 
-155
+153
 00:12:40,160 --> 00:12:41,620
 Get back here!
 
-156
+154
 00:12:41,620 --> 00:12:42,990
 Hey, octopus.
 
-157
+155
 00:12:43,490 --> 00:12:45,450
 They're busy right now.
 
-158
+156
 00:12:46,580 --> 00:12:48,410
 I'll take you on.
 
-159
+157
 00:12:49,790 --> 00:12:53,040
 Roronoa Zoro! That's right! I forgot!
 
-160
+158
 00:12:53,040 --> 00:12:55,300
 How dare you trick me!
 
-161
+159
 00:12:58,760 --> 00:13:03,760
 That's right! Not to mention
 all my brethren you cut down!
 
-162
+160
 00:13:03,760 --> 00:13:06,180
 I don't care. That's all old news.
 
-163
+161
 00:13:06,770 --> 00:13:10,940
 It doesn't really matter
 why you want to kill me.
 
-164
+162
 00:13:11,650 --> 00:13:13,900
 The situation has changed.
 
-165
+163
 00:13:14,440 --> 00:13:17,110
 You're not trying
 to crush us anymore.
 
-166
+164
 00:13:17,110 --> 00:13:19,860
 We're trying to crush you!
 
-167
+165
 00:13:19,860 --> 00:13:24,030
 A-Alright, Zoro!
 The octopus is all yours! Nice!
 
-168
+166
 00:13:24,700 --> 00:13:26,330
 Luffy!
 
-169
+167
 00:13:32,500 --> 00:13:33,790
 I'm back...
 
-170
+168
 00:13:36,800 --> 00:13:38,460
 Why, you...
 
-171
+169
 00:13:38,460 --> 00:13:40,420
 My bad...
 
-172
+170
 00:13:40,420 --> 00:13:44,430
 Seems you really do
 want me to kill you.
 
-173
+171
 00:13:49,270 --> 00:13:53,230
 Wasn't that the guy
 who saved Mr. Gen?
 
-174
+172
 00:13:56,020 --> 00:13:58,190
 You're the people from
 Cocoyashi Village!
 
-175
+173
 00:13:58,190 --> 00:13:59,320
 Oh?
 
-176
+174
 00:13:59,320 --> 00:14:04,200
 Judging from those weapons,
 I take it this is a rebellion?
 
-177
+175
 00:14:04,660 --> 00:14:05,490
 Then you're all–
 
-178
+176
 00:14:05,490 --> 00:14:07,160
 Fire Star!
 
-179
+177
 00:14:07,740 --> 00:14:09,200
 Big Bro Usopp!
 
-180
+178
 00:14:12,000 --> 00:14:15,580
 You're dealing with me!
 
-181
+179
 00:14:17,670 --> 00:14:20,550
 If you wanna die that badly,
 I'll finish you right now!
 
-182
+180
 00:14:23,510 --> 00:14:25,930
 Just who is that boy?
 
-183
+181
 00:14:25,930 --> 00:14:29,680
 He's brave one minute, then runs away
 the next. He's a peculiar one...
 
-184
+182
 00:14:32,980 --> 00:14:34,560
 Get back here, big nose!
 
-185
+183
 00:14:34,560 --> 00:14:36,610
 You're one to talk, big mouth!
 
-186
+184
 00:14:37,820 --> 00:14:40,190
 How are these guys pirates?
 
-187
+185
 00:14:44,990 --> 00:14:49,830
 You're all pathetic. Move.
 I can't watch another second of this.
 
-188
+186
 00:14:50,120 --> 00:14:54,330
 Arlong! We asked you
 not to go on a rampage!
 
-189
+187
 00:14:54,330 --> 00:14:58,790
 I won't. I just thought up a fun game.
 
-190
+188
 00:15:00,270 --> 00:15:02,170
 I'm gonna kick...
 
-191
+189
 00:15:02,670 --> 00:15:05,010
 your ass!
 
-192
+190
 00:15:06,430 --> 00:15:10,140
 Do you seriously think
 you can beat us?
 
-193
+191
 00:15:10,140 --> 00:15:12,100
 So what if we do?
 
-194
+192
 00:15:12,100 --> 00:15:14,350
 We sure do, dummy!
 
-195
+193
 00:15:14,350 --> 00:15:15,560
 Now let go!
 
-196
+194
 00:15:15,560 --> 00:15:17,520
 Sounds like he has something to say.
 
-197
+195
 00:15:25,450 --> 00:15:27,110
 What the...?!
 What the...?! What the...?!
 
-198
+196
 00:15:29,120 --> 00:15:31,950
 People with devil fruit
 powers can't swim!
 
-199
+197
 00:15:32,370 --> 00:15:36,710
 Though, even people without powers
 would sink in this situation!
 
-200
+198
 00:15:38,210 --> 00:15:40,130
 He's gonna throw him into the sea?!
 
-201
+199
 00:15:41,000 --> 00:15:43,880
 Gum-Gum Pistol!
 
-202
+200
 00:15:46,300 --> 00:15:49,260
 Oww!
 
-203
+201
 00:15:49,260 --> 00:15:50,350
 Fool.
 
-204
+202
 00:15:51,260 --> 00:15:53,720
 Damn you!
 
-205
+203
 00:15:53,720 --> 00:15:55,680
 How pointless.
 
-206
+204
 00:16:00,730 --> 00:16:01,360
 Luffy!
 
-207
+205
 00:16:01,650 --> 00:16:02,860
 You bastard!
 
-208
+206
 00:16:13,080 --> 00:16:13,910
 I'll save–
 
-209
+207
 00:16:13,910 --> 00:16:15,790
 Idiot! Don't get worked up!
 
-210
+208
 00:16:16,410 --> 00:16:19,370
 They want us to go in the water!
 
-211
+209
 00:16:19,370 --> 00:16:23,000
 Fishmen have the obvious
 advantage in an underwater fight!
 
-212
+210
 00:16:23,750 --> 00:16:26,170
 There's only one way to save Luffy!
 
-213
+211
 00:16:27,340 --> 00:16:30,680
 Take these guys down in a flash
 and hop in the water?
 
-214
+212
 00:16:32,050 --> 00:16:34,140
 Let's do it! There's no time!
 
-215
+213
 00:16:34,140 --> 00:16:34,680
 Yeah!
 
-216
+214
 00:16:34,680 --> 00:16:38,640
 Just how long will
 the rubber man last?
 
-217
+215
 00:16:38,640 --> 00:16:40,690
 Oh, so that's the game?
 
-218
+216
 00:16:40,690 --> 00:16:41,940
 I see.
 
-219
+217
 00:16:45,230 --> 00:16:46,820
 You can have the fish.
 
-220
+218
 00:16:47,530 --> 00:16:49,660
 You can cut and trim the octopus.
 
-221
+219
 00:17:02,540 --> 00:17:06,260
 Man... This is bad. I feel so weak...
 
-222
+220
 00:17:07,380 --> 00:17:10,090
 What do we do?!
 He's helpless down there!
 
-223
+221
 00:17:10,090 --> 00:17:11,840
 Big Bro Luffy's going to die!
 
-224
+222
 00:17:20,390 --> 00:17:22,770
 They can't even breathe underwater.
 
-225
+223
 00:17:23,060 --> 00:17:25,770
 Humans are utterly pitiful creatures!
 
-226
+224
 00:17:27,730 --> 00:17:28,860
 Bring it on!
 
-227
+225
 00:17:28,860 --> 00:17:30,780
 I'll cross swords with you, octofreak!
 
-228
+226
 00:17:35,280 --> 00:17:36,660
 Sure, I'm game!
 
-229
+227
 00:17:36,990 --> 00:17:39,160
 I'll take care of you in five seconds!
 
-230
+228
 00:17:40,000 --> 00:17:41,080
 No, three seconds!
 
-231
+229
 00:17:41,670 --> 00:17:43,380
 Don't be in such a rush.
 
-232
+230
 00:17:44,000 --> 00:17:48,130
 It doesn't matter what you do!
 None of you are leaving here alive!
 
-233
+231
 00:18:01,560 --> 00:18:06,480
 I-I'm dead meat!
 
-234
+232
 00:18:06,820 --> 00:18:09,690
 Give us five seconds, Luffy!
 We'll beat them and save you!
 
-235
+233
 00:18:10,070 --> 00:18:11,570
 Octohachi Black!
 
-236
+234
 00:18:19,790 --> 00:18:22,040
 My hair! You bastard!
 
-237
+235
 00:18:22,040 --> 00:18:24,830
 I'm gonna...
 
-238
+236
 00:18:25,210 --> 00:18:26,130
 forgive you.
 
-239
+237
 00:18:26,130 --> 00:18:28,420
 It's just hair, so it'll grow back.
 
-240
+238
 00:18:28,420 --> 00:18:28,840
 Huh?
 
-241
+239
 00:18:29,210 --> 00:18:30,460
 Roronoa Zoro!
 
-242
+240
 00:18:30,460 --> 00:18:34,470
 You can't cut me
 because I have six hands.
 
-243
+241
 00:18:34,470 --> 00:18:36,550
 Go ahead! Try to cut me!
 
-244
+242
 00:18:36,550 --> 00:18:37,140
 Octofreak!
 
-245
+243
 00:18:37,510 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-246
+244
 00:18:38,100 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-247
+245
 00:18:39,010 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-248
+246
 00:18:39,850 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-249
+247
 00:18:40,600 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-250
+248
 00:18:41,430 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-251
+249
 00:18:42,270 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-252
+250
 00:18:43,100 --> 00:18:44,060
 Octo Triple Razor Sharp Blade Grab!
 
-253
+251
 00:18:46,400 --> 00:18:48,150
 Ouch!
 
-254
+252
 00:18:48,150 --> 00:18:49,900
 I don't have time to play with you!
 
-255
+253
 00:18:51,530 --> 00:18:53,360
 He throws me off my rhythm.
 
-256
+254
 00:18:54,030 --> 00:18:55,740
 Could he possibly...
 
-257
+255
 00:18:55,740 --> 00:18:57,740
 Blink and you're dead!
 
-258
+256
 00:18:57,740 --> 00:19:00,740
 Fish shouldn't be fighting a cook!
 
-259
+257
 00:19:01,240 --> 00:19:02,870
 We're running out of time...
 
-260
+258
 00:19:02,870 --> 00:19:04,040
 There's no...
 
-261
+259
 00:19:05,460 --> 00:19:07,040
 Just drop dead already!
 
-262
+260
 00:19:10,550 --> 00:19:13,050
 Octohachi Number...
 
-263
+261
 00:19:13,050 --> 00:19:14,550
 Nine!
 
-264
+262
 00:19:16,050 --> 00:19:18,720
 What are you doing?!
 Get down here already!
 
-265
+263
 00:19:20,220 --> 00:19:21,970
 You damn octopus!
 
-266
+264
 00:19:23,140 --> 00:19:26,230
 That octopest! He's just
 goofing around and stalling!
 
-267
+265
 00:19:26,230 --> 00:19:30,770
 Still, if he goes in the water now, he'll
 be dragged to the bottom of the sea!
 
-268
+266
 00:19:30,770 --> 00:19:33,900
 But at this rate,
 Big Bro Luffy's going to die!
 
-269
+267
 00:19:33,900 --> 00:19:35,860
 We've got to do something!
 
-270
+268
 00:19:35,860 --> 00:19:36,410
 Yeah!
 
-271
+269
 00:19:36,410 --> 00:19:36,860
 Wait!
 
-272
+270
 00:19:36,860 --> 00:19:38,530
 – Ouch!
 – Ouch!
 
-273
+271
 00:19:38,530 --> 00:19:42,080
 How are you going to be any help
 with injuries like those?
 
-274
+272
 00:19:43,200 --> 00:19:45,910
 You can't do much
 when you're hurt like this.
 
-275
+273
 00:19:46,460 --> 00:19:49,580
 If you're talking about that
 rubber boy, I'll go rescue him.
 
-276
+274
 00:19:49,580 --> 00:19:51,040
 Y-You will?
 
-277
+275
 00:19:51,040 --> 00:19:52,300
 Mr. Gen!
 
-278
+276
 00:19:52,300 --> 00:19:53,210
 I'll go, too!
 
-279
+277
 00:19:53,210 --> 00:19:54,380
 I'll go as well!
 
-280
+278
 00:19:54,380 --> 00:19:55,720
 Me, too!
 
-281
+279
 00:19:55,720 --> 00:20:01,010
 No! If too many of us go to rescue him,
 the fishmen are bound to notice.
 
-282
+280
 00:20:01,010 --> 00:20:03,560
 We'd just be making
 their job even harder!
 
-283
+281
 00:20:03,560 --> 00:20:04,270
 Mr. Gen!
 
-284
+282
 00:20:04,270 --> 00:20:08,900
 It'll be pointless if we end up
 interfering with their fight.
 
-285
+283
 00:20:08,900 --> 00:20:10,230
 So I'll do it alone.
 
-286
+284
 00:20:11,230 --> 00:20:13,360
 Sorry... Thank you!
 
-287
+285
 00:20:13,360 --> 00:20:14,940
 We'll leave it to you.
 
-288
+286
 00:20:14,940 --> 00:20:16,820
 Sorry, but please be quick.
 
-289
+287
 00:20:17,320 --> 00:20:18,030
 Wait!
 
-290
+288
 00:20:19,110 --> 00:20:20,950
 Mr. Gen, I'll go too.
 
-291
+289
 00:20:20,950 --> 00:20:23,080
 Nojiko, you're injured!
 
-292
+290
 00:20:23,080 --> 00:20:26,830
 Those guys are fighting
 for my little sister!
 
-293
+291
 00:20:27,120 --> 00:20:28,120
 Mr. Gen!
 
-294
+292
 00:20:29,330 --> 00:20:31,290
 Okay. Come on!
 
-295
+293
 00:20:31,290 --> 00:20:32,130
 Let's hurry!
 
-296
+294
 00:20:32,130 --> 00:20:32,790
 Okay!
 
-297
+295
 00:20:34,500 --> 00:20:35,920
 I'm sorry...
 
-298
+296
 00:20:35,920 --> 00:20:38,720
 If only we were a little stronger...
 
-299
+297
 00:20:39,180 --> 00:20:42,140
 Please... save Big Bro!
 
-300
+298
 00:20:46,220 --> 00:20:50,100
 Roronoa Zoro! Do you mind if I ask
 you a question? You don't, right?
 
-301
+299
 00:20:50,100 --> 00:20:52,230
 I heard you use the three-sword style.
 
-302
+300
 00:20:52,230 --> 00:20:53,980
 Why are you using only one sword?
 
-303
+301
 00:20:53,980 --> 00:20:56,610
 One already seems like
 overkill for the likes of you!
 
-304
+302
 00:20:56,610 --> 00:20:59,200
 Sh-Shut up! I'm not
 taking this seriously!
 
-305
+303
 00:20:59,200 --> 00:21:03,830
 Actually, there's a reason that a human
 swordsman could never defeat me.
 
-306
+304
 00:21:03,830 --> 00:21:05,910
 Wanna hear what it is?
 You do, don't you?
 
-307
+305
 00:21:05,910 --> 00:21:09,160
 When you hear it, you'll be
 surprised, scared, blown away!
 
-308
+306
 00:21:09,920 --> 00:21:13,290
 Dammit! I can't be in pain right now!
 
-309
+307
 00:21:21,340 --> 00:21:22,800
 I knew it. It's those wounds...
 
-310
+308
 00:21:24,930 --> 00:21:26,770
 from your fight with Hawk Eye!
 
-311
+309
 00:21:27,350 --> 00:21:28,480
 – Big Bro!
 – Big Bro!
 
-312
+310
 00:21:31,690 --> 00:21:34,310
 Look! This is my true form!
 
-313
+311
 00:21:34,310 --> 00:21:37,150
 Here comes Hachi,
 user of the six-sword style!
 
-314
+312
 00:21:37,150 --> 00:21:41,030
 Hey! That's not when you're
 supposed to fall! Don't mock me!
 
-315
+313
 00:21:43,820 --> 00:21:44,990
 Ah! Big Bro!
 
-316
+314
 00:21:44,990 --> 00:21:47,240
 So he really was in pain!
 
-317
+315
 00:21:47,240 --> 00:21:48,410
 Yeah.
 
-318
+316
 00:21:48,410 --> 00:21:52,920
 His injuries would kill a normal person
 or leave them bedridden for half a year!
 
-319
+317
 00:21:52,920 --> 00:21:53,710
 What?!
 
-320
+318
 00:21:56,630 --> 00:21:58,590
 I knew something was off.
 
-321
+319
 00:21:58,590 --> 00:22:02,260
 Acting all nonchalant
 after a fight like that...
 
-322
+320
 00:22:02,260 --> 00:22:03,640
 Is he an idiot or what?!
 
-323
+321
 00:22:11,270 --> 00:22:14,520
 I thought I told you not to blink.
 
-324
+322
 00:22:14,520 --> 00:22:16,730
 I'm a 40th-degree
 black belt in Fishman Karate.
 
-325
+323
 00:22:16,730 --> 00:22:19,230
 Wh-What?
 
-326
+324
 00:22:19,230 --> 00:22:20,690
 Someone went flying?!
 
-327
+325
 00:22:20,690 --> 00:22:22,400
 B-Big Bro?!
 
-328
+326
 00:22:22,400 --> 00:22:23,820
 Big Bro Cook!
 
-329
+327
 00:22:26,490 --> 00:22:29,490
 Big Bro Cook!
 
-330
+328
 00:22:30,290 --> 00:22:32,750
 He's been taken care of, Arlong.
 
-331
+329
 00:22:32,750 --> 00:22:34,710
 What do we do with Roronoa Zoro?
 
-332
+330
 00:22:34,710 --> 00:22:39,750
 Just toss him in the sea.
 What weaklings... How boring!
 
-333
+331
 00:22:42,880 --> 00:22:43,720
 That's all?
 
-334
+332
 00:22:44,050 --> 00:22:47,550
 Geez, they sure wreaked some havoc.
 
-335
+333
 00:22:47,550 --> 00:22:49,260
 It's no big deal.
 
-336
+334
 00:22:49,260 --> 00:22:52,480
 It'll take more than this
 to bring down Arlong Park.
 
-337
+335
 00:22:52,480 --> 00:22:53,690
 Indeed...
 
-338
+336
 00:22:55,310 --> 00:22:57,400
 How dare you, Roronoa Zoro!
 
-339
+337
 00:22:57,400 --> 00:23:01,030
 You died from shock before I,
 the great swordsman, could attack you?!
 
-340
+338
 00:23:01,030 --> 00:23:04,610
 History would've remembered you
 had you fallen to my six-sword style.
 
-341
+339
 00:23:04,610 --> 00:23:08,240
 Well, struggle all you want
 or even flip the world on its head,
 
-342
+340
 00:23:08,240 --> 00:23:14,290
 no human could ever lay a hand
 on me, the wielder of six swords!
 
-343
+341
 00:23:22,710 --> 00:23:24,220
 Stop it, Hachi.
 
-344
+342
 00:23:24,220 --> 00:23:28,720
 I know how you feel, but we'll be in
 big trouble if you actually go on a rampage.
 
-345
+343
 00:23:28,720 --> 00:23:30,390
 Do you want to destroy Arlong Park?
 
-346
+344
 00:23:32,140 --> 00:23:34,140
 N-No. Sorry.
 
-347
+345
 00:23:34,810 --> 00:23:37,730
 I got a little too worked up.
 
-348
+346
 00:23:37,730 --> 00:23:38,900
 Don't get carried away.
 
-349
+347
 00:23:38,900 --> 00:23:40,900
 My bad, my bad.
 
-350
+348
 00:23:41,780 --> 00:23:44,610
 Six-sword style, huh? What a joke!
 
-351
+349
 00:23:50,830 --> 00:23:52,290
 Big Bro!
 
-352
+350
 00:23:54,540 --> 00:23:56,750
 Roronoa Zoro!
 
-353
+351
 00:23:56,750 --> 00:23:59,080
 I'll tell you one thing, octopus.
 
-354
+352
 00:23:59,670 --> 00:24:02,590
 There's a man I need to meet.
 
-355
+353
 00:24:03,170 --> 00:24:05,670
 And until I see him again...
 
-356
+354
 00:24:07,930 --> 00:24:11,720
 even Death himself can't take my life!
 
-357
+355
 00:24:28,450 --> 00:24:30,240
 He's still alive!
 
-358
+356
 00:24:30,240 --> 00:24:32,410
 Big Bro! Big Bro Cook!
 
-359
+357
 00:24:33,490 --> 00:24:37,620
 That fishman's punch
 was 40th-degree, huh?
 
-360
+358
 00:24:38,250 --> 00:24:43,340
 Then all those kicks from the old fart
 must've been 400th-degree.
 
-361
+359
 00:24:44,050 --> 00:24:46,510
 This guy won't give up!
+

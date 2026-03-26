@@ -1801,8 +1801,6 @@ Région
 00:24:34,770 --> 00:24:38,670
 Trois ans plus tard,
 
-soit il y a trente ans
-
 419
 00:24:38,670 --> 00:24:47,630
 Capitale
@@ -1905,3 +1903,4 @@ Reste fidèle à toi-même jusqu'au bout !
 443
 00:08:36,780 --> 00:08:41,660
 Rêve et atteins ton objectif !
+
