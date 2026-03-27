@@ -133,6 +133,9 @@ def main():
 
     for i, item in enumerate(ass_files):
         path = item.get("path", "")
+        # --- NEW: Explicitly ignore the Release folder ---
+        if "Release/" in path or "Final Subs/" in path:
+            continue
         file_sha = item.get("sha", "") 
         
         parts = path.split("/")
@@ -145,6 +148,17 @@ def main():
         arc_key = clean_string(arc_folder)
         prefix = ARC_MAP.get(arc_key)
 
+        # --- NEW: Fallback for Cover Stories & Specials ---
+        # If the folder name doesn't map to a prefix (like "00 Cover Stories"), 
+        # we check if the actual filename contains the arc name (like "Buggys Crew")
+        if not prefix:
+            clean_fname = clean_string(filename)
+            for key, val in ARC_MAP.items():
+                clean_k = clean_string(key)
+                if clean_k and clean_k in clean_fname:
+                    prefix = val
+                    break
+
         if not prefix: continue
 
         try:
@@ -152,12 +166,32 @@ def main():
         except ValueError:
             continue
 
-        stremio_id = f"{prefix}_{ep_num}"
+        # --- NEW: Force episode ID to 1 for Cover Stories & Specials ---
+        if "Cover Stories" in arc_folder or prefix in ["BUGGYS_CREW", "COVER_KOBYMEPPO", "COVER_SHSS"]:
+            stremio_id = f"{prefix}_1"
+        else:
+            stremio_id = f"{prefix}_{ep_num}"
 
         name_without_ext = filename.rsplit('.', 1)[0]
         ep_str = str(ep_num).zfill(2)
         idx = name_without_ext.rfind(ep_str)
-        raw_lang_str = name_without_ext[idx + len(ep_str):].strip() if idx != -1 else ""
+        
+        # --- NEW: Smarter Language Extraction ---
+        if idx != -1:
+            raw_lang_str = name_without_ext[idx + len(ep_str):].strip()
+        else:
+            # If no episode number in filename (like the Specials), 
+            # we scan the filename from right-to-left to extract language tags/modifiers
+            words = name_without_ext.split()
+            lang_parts = []
+            for w in reversed(words):
+                w_lower = w.lower()
+                # Check if word is a known language or modifier
+                if w_lower in LANG_MAP or w_lower in ['alternate', 'dub', 'cc', 'typesetting']:
+                    lang_parts.insert(0, w_lower)
+                else:
+                    break # Stop when we hit normal title words like "Crew"
+            raw_lang_str = " ".join(lang_parts)
 
         lang_code = "eng" 
         for word in raw_lang_str.lower().split():
@@ -179,8 +213,17 @@ def main():
             counter += 1
 
         srt_filename = f"{unique_sub_id}.srt"
-        local_srt_path = os.path.join(OUTPUT_SUBS_DIR, srt_filename)
-        cdn_url = CDN_SRT_BASE_URL + urllib.parse.quote(srt_filename)
+        
+        # --- NEW: Organize into Arc/Episode folders ---
+        nested_dir = os.path.join(OUTPUT_SUBS_DIR, arc_folder, ep_folder)
+        os.makedirs(nested_dir, exist_ok=True) # Creates the nested folders if they don't exist
+        
+        local_srt_path = os.path.join(nested_dir, srt_filename)
+        
+        # --- NEW: Update the CDN URL to match ---
+        # We use safe='/' so the slashes stay as '/' instead of becoming '%2F'
+        rel_path = f"{arc_folder}/{ep_folder}/{srt_filename}"
+        cdn_url = CDN_SRT_BASE_URL + urllib.parse.quote(rel_path, safe='/')
 
         # --- NEW LOGIC: Crash-Proof Hash Checking ---
         file_exists = os.path.exists(local_srt_path)
