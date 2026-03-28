@@ -45,9 +45,8 @@ jobs:
             while IFS= read -r filename; do
               curl -s "https://purge.jsdelivr.net/gh/6ip/onepace-streams@main/stream/$filename"
               echo " - Purged $filename"
+              sleep 1 
             done < stream/st_purge.txt
-            
-            # Clean up the file so it doesn't linger
             rm stream/st_purge.txt
           else
             echo "No files updated. Skipping CDN purge."
