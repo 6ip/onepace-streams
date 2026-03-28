@@ -141,6 +141,7 @@ def save_tracker(tracker_data):
 def main():
     start_time = time.time()
     new_files_count = 0 
+    updated_files_list = [] # NEW: Keep track of what we update
     
     output_dir = "stream"
     os.makedirs(output_dir, exist_ok=True)
@@ -244,13 +245,10 @@ def main():
             
         print(f"  [*] Processing {filename} (Found {len(nyaa_urls)} stream(s)!)")
         
-        # --- Extact the raw number from the JSON filename to pass to the scraper! ---
-        # e.g., "RO_1.json" -> "1"
         ep_num_raw = filename.split('_')[-1].replace('.json', '')
         
         streams = []
         for url in nyaa_urls:
-            # Pass the episode number so it knows exactly which file to grab!
             info_hash, torrent_filename = get_torrent_data(url, ep_num_raw)
             
             if info_hash:
@@ -273,8 +271,16 @@ def main():
             
             print(f"  [+] Saved {filename}")
             new_files_count += 1
+            updated_files_list.append(filename) # NEW: Add to our purge list
+            
         else:
             print(f"  [-] Failed to get any infoHashes for {filename}")
+
+    # NEW: Write the purge list to a text file for GitHub Actions to read
+    if updated_files_list:
+        with open("stream/st_purge.txt", "w") as f: # <-- CHANGED THIS LINE
+            for fname in updated_files_list:
+                f.write(fname + "\n")
 
     end_time = time.time()
     total_time = round(end_time - start_time, 2)
