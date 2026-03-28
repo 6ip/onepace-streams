@@ -22,7 +22,7 @@ def download_excel_file(url, filename, max_retries=3):
     
     for attempt in range(1, max_retries + 1):
         try:
-            response = requests.get(url, stream=True, timeout=20)
+            response = requests.get(url, stream=True, timeout=60)
             response.raise_for_status()
             
             with open(filename, 'wb') as f:
