@@ -1834,32 +1834,32 @@ A riprenderci tutto!
 
 437
 00:20:39,130 --> 00:20:42,510
-Vagone 7
+Settimo Vagone
 (Ultimo Vagone)
 
 438
 00:20:39,130 --> 00:20:42,510
-Vagone 7
+Settimo Vagone
 (Ultimo Vagone)
 
 439
 00:20:39,130 --> 00:20:42,510
-Vagone 7
+Settimo Vagone
 (Ultimo Vagone)
 
 440
 00:20:51,440 --> 00:20:55,780
-Vagone 6
+Sesto Vagone
 (Vagone Merci)
 
 441
 00:20:51,440 --> 00:20:55,780
-Vagone 6
+Sesto Vagone
 (Vagone Merci)
 
 442
 00:20:51,440 --> 00:20:55,780
-Vagone 6
+Sesto Vagone
 (Vagone Merci)
 
 443
