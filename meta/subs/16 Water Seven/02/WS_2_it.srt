@@ -66,7 +66,8 @@ Hai sbagliato strada! A destra, a destra!
 
 17
 00:02:58,490 --> 00:03:02,230
-Sembra che il verso dell'acqua non gli importi a loro!
+Sembra che il verso dell'acqua 
+non gli importi a loro!
 
 18
 00:03:02,230 --> 00:03:03,950
@@ -257,7 +258,8 @@ gourmet comprano qui di nascosto.
 
 63
 00:06:02,990 --> 00:06:05,390
-È così buono da far sciogliere corpo e anima, vero?
+È così buono da far sciogliere 
+anima e corpo, vero?
 
 64
 00:06:08,300 --> 00:06:13,100
@@ -286,7 +288,7 @@ Ehi, Nami! Attracca vicino al negozio di navi!
 
 70
 00:06:24,600 --> 00:06:28,150
-Di nuovo... Guardandoci bene, 
+Di nuovo... Guardando bene, 
 sembra che siano in tutta la città.
 
 71
@@ -382,7 +384,8 @@ Ehi, Zoro!
 
 93
 00:08:07,720 --> 00:08:10,530
-Dov'è la mia dolce Robin? Non la trovo sulla nave.
+Dov'è la mia dolce Robin? 
+Non la trovo sulla nave.
 
 94
 00:08:10,530 --> 00:08:12,510
@@ -467,7 +470,8 @@ Andiamo a vedere! Vai, yagara!
 
 114
 00:10:10,000 --> 00:10:14,000
-Ehi, guarda là! È il signor Lucci! È proprio stupendo!
+Ehi, guarda là! È il signor Lucci! 
+È proprio stupendo!
 
 115
 00:10:14,800 --> 00:10:16,490
@@ -480,7 +484,8 @@ Lui sì che è un vero uomo!
 
 117
 00:10:22,140 --> 00:10:25,600
-Se parliamo di un vero uomo, quello è Tilestone!
+Se parliamo di un vero uomo, 
+quello è Tilestone!
 
 118
 00:10:26,780 --> 00:10:28,560
@@ -523,8 +528,8 @@ solo un ammasso di curiosi!
 
 127
 00:10:52,380 --> 00:10:57,050
-I carpentieri della Galley-La Company 
-sono ammirati da tutti i cittadini qui!
+I carpentieri della Galley-La Company
+sono ammirati da tutti i cittadini qui in città!
 
 128
 00:10:57,050 --> 00:10:59,050
@@ -568,11 +573,12 @@ Pare sia il quartiere commerciale delle retrovie.
 
 138
 00:11:35,890 --> 00:11:40,220
-Anche se è un posto così vivace, siamo nelle "retrovie", eh?
+Anche se è un posto così vivace, 
+siamo nelle "retrovie", eh?
 
 139
 00:11:40,900 --> 00:11:43,490
-Ci si può anche camminare.
+Qui si può anche camminare.
 
 140
 00:11:43,490 --> 00:11:45,900
@@ -597,12 +603,12 @@ camminare in città indossandole, no?
 
 145
 00:12:00,300 --> 00:12:04,320
-Ah, le stavano solo indossando?
+Ah, indossavano delle maschere?
 Pensavo avessero solo delle facce strane.
 
 146
 00:12:07,850 --> 00:12:10,490
-Pare che su San Faldo,
+Pare che a San Faldo,
 dove passa anche il treno marino,
 
 147
@@ -680,7 +686,8 @@ Ah?
 
 165
 00:14:00,650 --> 00:14:05,390
-Oh, che bella maschera! Da cosa sei travestito?
+Oh, che bella maschera! 
+Da cosa sei travestito?
 
 166
 00:14:05,390 --> 00:14:08,610
@@ -933,11 +940,12 @@ Dopodiché rimarremo in agguato su questa nave
 
 224
 00:18:23,910 --> 00:18:26,710
-e cattureremo tutta la tua banda in un colpo solo!
+e cattureremo tutta la tua
+ banda in un colpo solo!
 
 225
 00:18:28,490 --> 00:18:30,630
-La vostra sarà una sconfitta totale! Lucky!
+La vostra sarà una sconfitta+ totale! Lucky!
 
 226
 00:18:32,780 --> 00:18:33,960
@@ -1019,7 +1027,8 @@ Beh, è una reazione più che normale.
 
 244
 00:19:47,300 --> 00:19:49,860
-Piuttosto, non capisco quello lì che li lanciava in giro.
+Piuttosto, non capisco quello 
+lì che li lanciava in giro.
 
 245
 00:19:49,860 --> 00:19:52,540
@@ -1027,7 +1036,7 @@ Nota: I manju sono un tipico dolce giapponese
 
 246
 00:19:49,860 --> 00:19:52,540
-Ah! Ehi, guardate! Laggù! 
+Ah! Ehi, guardate! Laggiù! 
 Ci sono dei manju acqua-acqua!
 
 247
@@ -1099,7 +1108,8 @@ detto di chiedere a lui, però...
 
 262
 00:20:38,590 --> 00:20:42,590
-Comunque... per il momento, dovremmo entrare lì?
+Comunque... per il momento, 
+dovremmo entrare lì?
 
 263
 00:20:42,590 --> 00:20:44,410
@@ -1133,7 +1143,7 @@ Per ora... discutiamone fuori.
 270
 00:20:57,370 --> 00:21:01,320
 L'ingresso all'interno del
- cantiere è vietato ai non adetti.
+ cantiere è vietato ai non addetti.
 
 271
 00:21:04,360 --> 00:21:06,620
@@ -1266,7 +1276,7 @@ per vedere come sta la nave.
 301
 00:22:40,950 --> 00:22:44,250
 Così il vostro incontro con il 
-Signor Iceburg sarà più rapido.
+signor Iceburg sarà più rapido.
 
 302
 00:22:44,250 --> 00:22:46,880
@@ -1381,7 +1391,8 @@ cara Robin ad un appuntamento qui~!
 
 328
 00:24:20,770 --> 00:24:23,980
-Ma anche tenere entrambi quei fiori tra le mie braccia sarebbe bello!
+Ma anche tenere entrambi quei fiori 
+tra le mie braccia sarebbe bello!
 
 329
 00:24:26,290 --> 00:24:29,600
@@ -1516,7 +1527,7 @@ Wow, che sorpresa!
 
 361
 00:26:33,940 --> 00:26:37,530
-Beh, non sottovalutate mica i miei carpentieri.
+Beh, non sottovalutate i miei carpentieri.
 
 362
 00:26:37,530 --> 00:26:39,010
@@ -1651,7 +1662,7 @@ da potermelo permettere.
 
 393
 00:28:00,230 --> 00:28:03,300
-Se un completo fallimento per essere un sindaco!
+Sei un completo fallimento per essere un sindaco!
 
 394
 00:28:03,300 --> 00:28:05,510

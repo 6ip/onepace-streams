@@ -179,7 +179,7 @@ Continui ancora?! Gru gru!
 44
 00:04:14,100 --> 00:04:17,790
 Erano sullo yagara che ho 
-preso in prestito per caso!
+preso in prestito per caso!{
 
 45
 00:04:17,790 --> 00:04:19,690
@@ -214,7 +214,7 @@ Lasciate che mi occupi io dei miei subordinati.
 52
 00:04:40,510 --> 00:04:43,900
 Se lo faceste voi, la situazione
-potrebbe farsi probelmatica.
+potrebbe farsi problematica.
 
 53
 00:04:43,900 --> 00:04:48,510
@@ -433,7 +433,7 @@ M-Ma che razza di dita ha?!
 
 103
 00:07:36,350 --> 00:07:40,600
-Ma che cos'hanno qui questi carpentieri?!
+Ma che gli prende ai carpentieri qui?!
 
 104
 00:07:42,290 --> 00:07:44,150
@@ -457,7 +457,7 @@ il piccione!
 
 109
 00:07:59,190 --> 00:08:00,750
-Chissene frega!
+Chissenefrega!
 
 110
 00:08:00,750 --> 00:08:04,250
@@ -569,7 +569,8 @@ Vale anche per te, Kalifa!
 
 135
 00:09:32,720 --> 00:09:35,600
-Ancora con quei vestiti leggeri, non imparerai mai!
+Ancora con quei vestiti leggeri,
+non imparerai mai!
 
 136
 00:09:36,410 --> 00:09:39,800
@@ -637,12 +638,13 @@ Ah, sta iniziando ad aprirsi!
 
 151
 00:10:32,570 --> 00:10:36,990
-Non lasciate più i vostri soldi incostuditi.
+Non lasciate più i vostri soldi incustoditi.
 Qui dentro non dovrebbero esserci ladri, ma...
 
 152
 00:10:37,900 --> 00:10:42,100
-No, ecco... prima è stata colpa mia, mi spiace aver creato problemi.
+No, ecco... prima è stata colpa mia, 
+mi spiace aver creato problemi.
 
 153
 00:10:42,100 --> 00:10:43,660
@@ -671,7 +673,7 @@ Ci penso io!
 159
 00:10:49,960 --> 00:10:54,380
 Qui al Dock 1, è presente 
-l'elité della Galley-La Company
+l'élite della Galley-La Company
 
 160
 00:10:54,380 --> 00:10:56,960
@@ -774,11 +776,13 @@ su quest'isola ormai da tempo.
 
 183
 00:12:09,700 --> 00:12:12,590
-Tempo fa vi erano sette società navali in competizione.
+Tempo fa vi erano sette società 
+navali in competizione.
 
 184
 00:12:13,220 --> 00:12:17,540
-Fu proprio lì che il suo geniale talento nella carpenteria affascinò gli artigiani
+Fu proprio lì che il suo geniale talento 
+nella carpenteria affascinò gli artigiani
 
 185
 00:12:17,540 --> 00:12:22,510
@@ -859,7 +863,7 @@ Qui ci sono un sacco di carpentieri,
 
 203
 00:13:07,400 --> 00:13:10,470
-ma non sapre se c'è n'è 
+ma non saprei se c'è n'è 
 qualcuno che vuole fare il pirata.
 
 204
@@ -1203,7 +1207,7 @@ Eh?
 
 285
 00:18:56,900 --> 00:18:58,800
-Vuoi che ti faccia un controllo?
+Vuoi che ti visiti?
 
 286
 00:18:58,800 --> 00:19:00,360
@@ -1271,7 +1275,7 @@ Non è una questione di soldi.
 301
 00:20:02,590 --> 00:20:07,100
 Non importa quanto voi spendiate, 
-quella nave non tornarà mai quella di un tempo.
+quella nave non tornerà mai quella di un tempo.
 
 302
 00:20:08,310 --> 00:20:15,270
@@ -1309,7 +1313,7 @@ Il dritto di poppa e di prua, le madiere,
 
 310
 00:20:37,920 --> 00:20:40,800
-le costole, i braccianti e i bagli.
+le costole, i braccioli e i bagli.
 
 311
 00:20:40,800 --> 00:20:45,300
@@ -1467,7 +1471,7 @@ la vostra nave sia una caravella.
 346
 00:22:49,370 --> 00:22:54,340
 Francamente il viaggio che vi aspetta... 
-sarebbe davvero arudo con una nave così antiquata.
+sarebbe davvero arduo con una nave così antiquata.
 
 347
 00:22:54,340 --> 00:22:56,800
@@ -1510,7 +1514,7 @@ Voi... non avete idea di quanto è resistente
 
 356
 00:23:21,280 --> 00:23:23,500
-Vuoi salirci finché non affonda?
+Vuoi navigarci finché non affonda?
 
 357
 00:23:23,500 --> 00:23:25,840
@@ -1532,7 +1536,8 @@ nave, tornate qui. Mi occuperò io di voi.
 
 361
 00:23:39,400 --> 00:23:43,280
-Con trecento milioni di berry, vi costruirò una nave di ultima generazione.
+Con trecento milioni di berry, potrei
+costruirvi una nave di ultima generazione.
 
 362
 00:23:43,280 --> 00:23:45,070
@@ -1544,8 +1549,8 @@ Ecco a voi. Valutate il tutto con calma.
 
 364
 00:23:47,800 --> 00:23:51,240
-È un catalogo con tutti i modelli 
- vecchi e nuovi, con i rispettivi prezzi.
+È un catalogo con tutti i modelli vecchi e nuovi, 
+con i rispettivi prezzi.
 
 365
 00:23:51,840 --> 00:23:53,310
@@ -1558,7 +1563,7 @@ Ci sono ospiti davanti al portone principale.
 367
 00:23:57,080 --> 00:24:00,400
 Pare siano di nuovo funzionari 
-del Governo Modiale.
+del Governo Mondiale.
 
 368
 00:24:00,400 --> 00:24:01,790
@@ -1708,7 +1713,7 @@ Con tutti quei soldi, non possono essere leggere...
 
 402
 00:26:03,660 --> 00:26:05,870
-Cosa sono queste voci?
+Cosa sono queste urla?
 
 403
 00:26:08,000 --> 00:26:10,290
@@ -1745,7 +1750,7 @@ C-C-C-Che facciamo?!
 
 411
 00:26:34,370 --> 00:26:37,320
-Ehi, voi due, ancora con queste voci... 
+Ehi, voi due, ancora con queste urla... 
 Che succede?
 
 412
@@ -1887,8 +1892,8 @@ Luffy!
 
 445
 00:27:58,470 --> 00:28:03,160
-Che cavolo... È impossibile 
-che trovi qualcuno da solo!
+Che cavolo... 
+È impossibile che trovi qualcuno da solo!
 
 446
 00:28:03,840 --> 00:28:06,010
@@ -2072,7 +2077,7 @@ Qui davanti dovrebbe esserci la loro base,
 
 489
 00:31:08,370 --> 00:31:10,560
-basterà pestarli bene e sarà tutto finito!
+basterà pestarli per bene e sarà tutto finito!
 
 490
 00:31:12,050 --> 00:31:16,060
@@ -2105,7 +2110,7 @@ Avremmo potuto finalmente... sistemare la Merry...
 497
 00:31:44,040 --> 00:31:48,710
 Non importa quanto voi spendiate, 
-quella nave non tornarà mai quella di un tempo.
+quella nave non tornerà mai quella di un tempo.
 
 498
 00:31:49,800 --> 00:31:53,470
@@ -2113,7 +2118,7 @@ Sia che decidessimo di comprare una nuova nave
 
 499
 00:31:53,470 --> 00:31:57,390
-o che chiedessimo a qualcun'altro di sistemarla comunque,
+o che chiedessimo a qualcun altro di sistemarla comunque,
 
 500
 00:31:57,390 --> 00:32:01,890
@@ -2194,7 +2199,7 @@ ma per una nave è diverso.
 
 518
 00:32:56,700 --> 00:32:59,410
-Non può fare altro che accumulare il dolore.
+Non può fare altro che accumulare dolore.
 
 519
 00:33:03,850 --> 00:33:05,540
