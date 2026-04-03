@@ -89,9 +89,8 @@ def ass_to_srt(ass_content: str) -> str:
         ""
     ]
     
-    counter = 2
-    last_times = ("", "")
-    seen_texts = set()
+    # --- NEW: Group texts by exact timestamp to merge fragmented signs ---
+    grouped_dialogues = {}
 
     for d in dialogues:
         start = d.get("Start", "0:00:00.00")
@@ -102,30 +101,34 @@ def ass_to_srt(ass_content: str) -> str:
         if r"\p1" in text or r"\p2" in text or r"\p4" in text:
             continue
 
+        # Scrub out Aegisub typesetter "invisible text" background hacks
+        # This deletes the invisibility tag (even if buried in other tags) AND the garbage text that follows it
+        text = re.sub(r'\{[^}]*\\[1-4]?(alpha|a)&H[Ff]{2}&[^}]*\}[^{]*', '', text)
+
         text = _ASS_TAG_PATTERN.sub("", text)
         text = text.replace("\\N", "\n").replace("\\n", "\n").strip()
         
-        # --- NEW: Strip invisible bidirectional formatting characters (RLE, LRE, etc.)
-        # This prevents invisible characters from causing duplicates or showing up as "glitch boxes"
-        text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text)
+        # Strip invisible bidirectional formatting characters (RLE, LRE, etc.)
+        text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip()
 
         if not text or "mpv.io" in text.lower():
             continue
 
-        # --- NEW: Deduplication logic to merge identical multi-layered text ---
-        current_times = (start, end)
-        if current_times != last_times:
-            seen_texts.clear()
-            last_times = current_times
+        # Group by timestamp to catch split lines
+        time_key = (start, end)
+        if time_key not in grouped_dialogues:
+            grouped_dialogues[time_key] = []
         
-        # If we already printed this exact text at this exact timestamp, skip it
-        if text in seen_texts:
-            continue
-        seen_texts.add(text)
+        # Deduplicate identical layers
+        if text not in grouped_dialogues[time_key]:
+            grouped_dialogues[time_key].append(text)
 
+    # --- NEW: Write the grouped dialogues to the SRT format ---
+    counter = 2
+    for (start, end), texts in grouped_dialogues.items():
         srt_lines.append(str(counter))
         srt_lines.append(f"{convert_time(start)} --> {convert_time(end)}")
-        srt_lines.append(text)
+        srt_lines.append("\n".join(texts))  # Join multiple lines sharing the same time!
         srt_lines.append("")
         counter += 1
 
