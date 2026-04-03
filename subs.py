@@ -70,7 +70,6 @@ def ass_to_srt(ass_content: str) -> str:
                         continue
                     dialogues.append(entry)
 
-    # --- NEW: Helper to calculate milliseconds for accurate sorting ---
     def time_to_ms(t_str):
         match = _TIME_PATTERN.match(t_str)
         if match:
@@ -78,7 +77,6 @@ def ass_to_srt(ass_content: str) -> str:
             return int(h) * 3600000 + int(m) * 60000 + int(s) * 1000 + int(cs) * 10
         return 0
 
-    # --- NEW: Sort the dialogue chronologically so the SRT doesn't break ---
     dialogues.sort(key=lambda x: time_to_ms(x.get("Start", "0:00:00.00")))
 
     srt_lines = [
@@ -89,7 +87,6 @@ def ass_to_srt(ass_content: str) -> str:
         ""
     ]
     
-    # --- NEW: Group texts by exact timestamp to merge fragmented signs ---
     grouped_dialogues = {}
 
     for d in dialogues:
@@ -97,38 +94,34 @@ def ass_to_srt(ass_content: str) -> str:
         end = d.get("End", "0:00:00.00")
         text = d.get("Text", "")
 
-        # Skip lines that are vector drawings (e.g., {\p1}m 848 508 l...)
         if r"\p1" in text or r"\p2" in text or r"\p4" in text:
             continue
 
-        # Scrub out Aegisub typesetter "invisible text" background hacks
-        # This deletes the invisibility tag (even if buried in other tags) AND the garbage text that follows it
-        text = re.sub(r'\{[^}]*\\[1-4]?(alpha|a)&H[Ff]{2}&[^}]*\}[^{]*', '', text)
+        # --- UPDATED: Smarter scrub for typesetter hacks ---
+        # Only removes text following the global \alpha&HFF& tag (total transparency).
+        # We ignore \1a&HFF& etc. because they are used for title animations.
+        text = re.sub(r'\{[^}]*\\alpha&H[Ff]{2}&[^}]*\}[^{]*', '', text)
 
         text = _ASS_TAG_PATTERN.sub("", text)
         text = text.replace("\\N", "\n").replace("\\n", "\n").strip()
         
-        # Strip invisible bidirectional formatting characters (RLE, LRE, etc.)
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip()
 
         if not text or "mpv.io" in text.lower():
             continue
 
-        # Group by timestamp to catch split lines
         time_key = (start, end)
         if time_key not in grouped_dialogues:
             grouped_dialogues[time_key] = []
         
-        # Deduplicate identical layers
         if text not in grouped_dialogues[time_key]:
             grouped_dialogues[time_key].append(text)
 
-    # --- NEW: Write the grouped dialogues to the SRT format ---
     counter = 2
     for (start, end), texts in grouped_dialogues.items():
         srt_lines.append(str(counter))
         srt_lines.append(f"{convert_time(start)} --> {convert_time(end)}")
-        srt_lines.append("\n".join(texts))  # Join multiple lines sharing the same time!
+        srt_lines.append("\n".join(texts))
         srt_lines.append("")
         counter += 1
 

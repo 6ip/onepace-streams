@@ -1457,981 +1457,985 @@ Nous sommes, nous sommes du voyage !
 Nous en sommes !
 
 353
+00:01:53,840 --> 00:01:57,780
+La Quatrième Recrue
+
+354
 00:02:04,140 --> 00:02:07,040
 Ah ! Mon chapeau !
 Où est mon chapeau de paille ?
 
-354
+355
 00:02:07,210 --> 00:02:08,730
 Il est juste là.
 
-355
+356
 00:02:08,880 --> 00:02:10,400
 Hein ? Ah oui...
 
-356
+357
 00:02:10,580 --> 00:02:12,020
 Tu es enfin réveillé ?
 
-357
+358
 00:02:12,510 --> 00:02:14,570
 Tiens ?
 Où sont-ils tous passés ?
 
-358
+359
 00:02:14,750 --> 00:02:17,110
 Ils sont partis.
 Et ça, c'est grâce à toi.
 
-359
+360
 00:02:17,280 --> 00:02:20,160
 – Ah bon ?
 – "À la prochaine, sur Grand Line !"
 
-360
+361
 00:02:20,420 --> 00:02:22,350
 C'est ce qu'a dit Gin en partant.
 
-361
+362
 00:02:23,810 --> 00:02:24,580
 Gin...
 
-362
+363
 00:02:25,320 --> 00:02:28,160
 – Il t'a promis ça ?
 – C'est à toi que ça s'adressait !
 
-363
+364
 00:02:30,750 --> 00:02:33,590
 Au fait...
 Comme je les ai chassés,
 
-364
+365
 00:02:33,750 --> 00:02:35,630
 je n'ai plus à travailler ici !
 
-365
+366
 00:02:35,800 --> 00:02:36,800
 Content pour toi.
 
-366
+367
 00:02:37,170 --> 00:02:38,510
 À ce sujet...
 
-367
+368
 00:02:38,680 --> 00:02:41,930
 Non, je reste ici.
 Je ne veux pas être un pirate.
 
-368
+369
 00:02:42,680 --> 00:02:44,350
 Je resterai cuistot ici,
 
-369
+370
 00:02:44,510 --> 00:02:47,600
 jusqu'à ce que le vieux
 reconnaisse mes talents de cuistot.
 
-370
+371
 00:02:48,100 --> 00:02:50,060
 Très bien, je laisse tomber.
 
-371
+372
 00:02:50,520 --> 00:02:52,520
 Ton bras renonce pas, lui !
 
-372
+373
 00:02:56,650 --> 00:02:58,190
 Je ne peux pas m'en aller.
 
-373
+374
 00:02:58,360 --> 00:03:01,450
 Ces bons à rien
 seraient perdus sans moi.
 
-374
+375
 00:03:01,740 --> 00:03:04,530
 Mais je sais qu'un jour, je partirai...
 
-375
+376
 00:03:05,410 --> 00:03:06,830
 pour Grand Line.
 
-376
+377
 00:03:09,580 --> 00:03:11,120
 Eh bien, allons-y !
 
-377
+378
 00:03:11,290 --> 00:03:13,250
 Le moment n'est pas encore venu.
 
-378
+379
 00:03:15,900 --> 00:03:16,960
 Dis-moi...
 
-379
+380
 00:03:18,170 --> 00:03:19,970
 "All Blue", tu connais ?
 
-380
+381
 00:03:20,300 --> 00:03:21,090
 Non.
 
-381
+382
 00:03:21,380 --> 00:03:24,850
 T'en as jamais entendu parler ?
 C'est une mer légendaire !
 
-382
+383
 00:03:26,930 --> 00:03:31,310
 Elle est divisée en quatre zones :
 East, West, North et South Blue !
 
-383
+384
 00:03:31,480 --> 00:03:34,400
 On y trouve toutes sortes de poissons !
 
-384
+385
 00:03:36,900 --> 00:03:39,610
 C'est le paradis
 pour un cuistot comme moi !
 
-385
+386
 00:03:40,030 --> 00:03:42,360
 Elle est censée
 se trouver sur Grand Line !
 
-386
+387
 00:03:47,830 --> 00:03:50,660
 On dirait qu'il a retrouvé le sourire...
 
-387
+388
 00:03:52,170 --> 00:03:53,420
 Petit idiot !
 
-388
+389
 00:03:59,380 --> 00:04:01,720
 Le repas est servi, les gars !
 
-389
+390
 00:04:02,340 --> 00:04:07,100
 1e étage - Cantine du Baratie
 
-390
+391
 00:04:02,470 --> 00:04:05,420
 – J'ai les crocs, moi !
 – C'est pas trop tôt !
 
-391
+392
 00:04:05,600 --> 00:04:06,800
 À table ! À table !
 
-392
+393
 00:04:13,230 --> 00:04:16,480
 – Hep ! Vous nous avez gardé une place ?
 – Où est ma part ?
 
-393
+394
 00:04:16,810 --> 00:04:21,110
 – Désolés, y a plus de chaises.
 – Vous n'avez qu'à manger par terre !
 
-394
+395
 00:04:21,330 --> 00:04:24,110
 Plus de chaises ?
 Vous vous foutez de nous ?
 
-395
+396
 00:04:24,450 --> 00:04:26,370
 C'est un restaurant, ici !
 
-396
+397
 00:04:28,030 --> 00:04:29,270
 Bon, tant pis...
 
-397
+398
 00:04:29,440 --> 00:04:31,620
 Ils sont bizarres, aujourd'hui.
 
-398
+399
 00:04:32,750 --> 00:04:34,750
 Tss... Pas plus que d'habitude.
 
-399
+400
 00:04:36,630 --> 00:04:39,920
 Dites donc !
 Qui a préparé la soupe de ce matin ?
 
-400
+401
 00:04:40,460 --> 00:04:44,720
 C'est moi ! Elle est bonne, hein ?
 Je l'ai particulièrement bien réussie !
 
-401
+402
 00:04:45,180 --> 00:04:47,220
 Quelle horreur ! C'est immangeable !
 
-402
+403
 00:04:47,390 --> 00:04:49,890
 C'est tout juste bon pour les porcs !
 Pouah !
 
-403
+404
 00:04:56,230 --> 00:04:57,310
 Allons...
 
-404
+405
 00:04:57,520 --> 00:05:01,570
 Dis plutôt qu'elle est trop raffinée
 pour ton palais de blaireau.
 
-405
+406
 00:05:01,720 --> 00:05:04,860
 Je vais t'dire !
 Rater autant une soupe, c'est de l'art !
 
-406
+407
 00:05:05,030 --> 00:05:07,200
 Elle est à gerber ! Pouah ! Pouah !
 
-407
+408
 00:05:08,400 --> 00:05:10,930
 Désolé,
 mais je suis sûr de l'avoir réussie.
 
-408
+409
 00:05:11,080 --> 00:05:13,750
 Tu dois avoir les papilles
 qui débloquent !
 
-409
+410
 00:05:18,630 --> 00:05:20,500
 C'est infect ! Beurk !
 
-410
+411
 00:05:22,210 --> 00:05:23,800
 Elle est immangeable !
 
-411
+412
 00:05:25,760 --> 00:05:29,180
 – Pas vrai, les gars ?
 – Beurk ! C'est dégoûtant !
 
-412
+413
 00:05:30,850 --> 00:05:34,100
 – Cette soupe est immonde !
 – Je ne peux pas avaler ça !
 
-413
+414
 00:05:34,230 --> 00:05:36,310
 Pitié, donnez-moi un verre d'eau !
 
-414
+415
 00:05:36,730 --> 00:05:38,900
 C'est quoi, ce cirque ?
 
-415
+416
 00:05:39,150 --> 00:05:42,070
 Tu n'as de sous-chef que le titre !
 
-416
+417
 00:05:42,230 --> 00:05:43,820
 T'as dû l'avoir à l'ancienneté !
 
-417
+418
 00:05:43,990 --> 00:05:47,030
 Et puis, y en a marre
 de tes manières brutales !
 
-418
+419
 00:05:47,150 --> 00:05:49,740
 Si c'est infect,
 on a le droit de le dire !
 
-419
+420
 00:05:50,990 --> 00:05:51,950
 Quoi ?
 
-420
+421
 00:05:56,660 --> 00:05:57,620
 Patron !
 
-421
+422
 00:05:57,940 --> 00:05:59,040
 Vieux schnock...
 
-422
+423
 00:06:01,420 --> 00:06:04,590
 C'est quoi, cette horreur ?
 On dirait de la gadoue !
 
-423
+424
 00:06:04,840 --> 00:06:06,330
 Si on servait ça aux clients,
 
-424
+425
 00:06:06,530 --> 00:06:08,430
 ce serait la faillite assurée !
 
-425
+426
 00:06:09,260 --> 00:06:10,850
 Arrête ton char, vieux débris !
 
-426
+427
 00:06:11,050 --> 00:06:14,770
 Dis-moi donc ce que tes soupes
 ont de meilleur que les miennes !
 
-427
+428
 00:06:14,930 --> 00:06:16,770
 Tu oses nous comparer ?
 
-428
+429
 00:06:19,650 --> 00:06:21,480
 Ne sois pas aussi prétentieux !
 
-429
+430
 00:06:23,880 --> 00:06:26,690
 Il a frappé avec le poing,
 pas avec le pied !
 
-430
+431
 00:06:27,370 --> 00:06:31,370
 Ce n'est pas toi qui vas me donner
 des leçons de cuisine, petit cornichon !
 
-431
+432
 00:06:31,570 --> 00:06:35,950
 Parce que moi, j'ai déjà cuisiné
  sur les mers du monde entier !
 
-432
+433
 00:06:40,080 --> 00:06:41,290
 Putain !
 
-433
+434
 00:06:51,800 --> 00:06:54,510
 Moi, je la trouve succulente,
 cette soupe !
 
-434
+435
 00:06:55,060 --> 00:06:56,810
 On le sait bien...
 
-435
+436
 00:06:57,390 --> 00:07:01,560
 Tout le monde ici reconnaît
 que Sanji est un vrai cordon-bleu.
 
-436
+437
 00:07:02,360 --> 00:07:06,230
 – Elle n'est pas mauvaise du tout.
 – Elle est même très réussie.
 
-437
+438
 00:07:06,530 --> 00:07:07,990
 Quelle frousse !
 
-438
+439
 00:07:08,190 --> 00:07:10,780
 – Il était vraiment en rogne...
 – Tu m'étonnes !
 
-439
+440
 00:07:16,910 --> 00:07:21,710
 Que voulez-vous... c'était le seul moyen
 de pousser cet idiot à se décider.
 
-440
+441
 00:07:24,250 --> 00:07:25,420
 Dis, mon garçon...
 
-441
+442
 00:07:26,210 --> 00:07:29,510
 Si je ne m'abuse, tu cherches un cuistot
 pour ton équipage, non ?
 
-442
+443
 00:07:29,720 --> 00:07:33,010
 Je ne cherche pas à te forcer la main,
 mais que dirais-tu...
 
-443
+444
 00:07:33,550 --> 00:07:36,390
 d'embarquer ce petit cornichon ?
 
-444
+445
 00:07:37,140 --> 00:07:39,060
 Et de l'emmener sur Grand Line.
 
-445
+446
 00:07:40,220 --> 00:07:44,230
 Aller là-bas,
 ça a toujours été son plus grand rêve.
 
-446
+447
 00:07:46,360 --> 00:07:49,690
 Tout de même, patron,
 tout ce numéro pour le faire partir !
 
-447
+448
 00:07:49,860 --> 00:07:53,910
 J'ai bien cru qu'il ne marcherait jamais
 tellement tu jouais comme un pied !
 
-448
+449
 00:07:55,030 --> 00:07:57,240
 Tu peux parler ! Quel piètre acteur !
 
-449
+450
 00:07:57,450 --> 00:08:00,410
 – Je reprendrais bien un peu de soupe !
 – Moi aussi !
 
-450
+451
 00:08:15,930 --> 00:08:17,560
 J'ai tout entendu...
 
-451
+452
 00:08:18,010 --> 00:08:19,640
 bande de blaireaux !
 
-452
+453
 00:08:21,520 --> 00:08:23,310
 Qu'est-ce que tu en dis, petit ?
 
-453
+454
 00:08:23,890 --> 00:08:25,480
 – Je refuse.
 – Quoi ?
 
-454
+455
 00:08:26,770 --> 00:08:30,330
 Pourtant, tu cherches bien un cuistot
 pour ton équipage, non ?
 
-455
+456
 00:08:31,360 --> 00:08:34,860
 Ou alors, c'est peut-être
 qu'il ne te convient pas ?
 
-456
+457
 00:08:35,910 --> 00:08:39,910
 Au contraire, j'aimerais beaucoup
 qu'il fasse partie de mon équipage...
 
-457
+458
 00:08:40,700 --> 00:08:43,900
 Mais il m'a dit qu'il voulait continuer
 à travailler ici.
 
-458
+459
 00:08:44,080 --> 00:08:47,630
 C'est sa volonté et je la respecte,
 alors n'insistez pas.
 
-459
+460
 00:08:48,170 --> 00:08:52,720
 Il faut donc que ce soit lui
 qui te demande de l'emmener ?
 
-460
+461
 00:08:53,400 --> 00:08:54,680
 Tout juste ! Du rab !
 
-461
+462
 00:08:54,840 --> 00:08:57,260
 Oui, ça tombe sous le sens.
 
-462
+463
 00:08:57,850 --> 00:09:02,640
 Seulement, je doute que cet entêté
 te demande de lui-même de l'emmener.
 
-463
+464
 00:09:03,100 --> 00:09:06,920
 Je vous le fais pas dire, patron !
 Sanji est une vraie tête de mule !
 
-464
+465
 00:09:07,100 --> 00:09:08,270
 Du rab !
 
-465
+466
 00:09:37,720 --> 00:09:40,430
 – Sanji !
 – C'est qui, lui ? Un Homme-Poisson ?
 
-466
+467
 00:09:40,550 --> 00:09:43,070
 Il est venu exprès de son île
 pour manger ici ?
 
-467
+468
 00:09:43,200 --> 00:09:45,390
 Crétin !
 C'est un type dans un requin !
 
-468
+469
 00:09:46,310 --> 00:09:48,900
 Hein ?
 Mais c'est Yosaku, non ?
 
-469
+470
 00:09:50,150 --> 00:09:51,570
 Luffy...
 
-470
+471
 00:09:51,820 --> 00:09:55,240
 T'es tout seul ?
 Où sont les autres ? Et Nami ?
 
-471
+472
 00:10:02,540 --> 00:10:04,500
 On n'a pas réussi à rattraper Nami.
 
-472
+473
 00:10:04,910 --> 00:10:06,620
 Mais d'après le cap qu'elle suivait,
 
-473
+474
 00:10:06,790 --> 00:10:09,420
 on a pu se faire une idée
 de sa destination.
 
-474
+475
 00:10:10,420 --> 00:10:12,210
 On n'a plus qu'à la suivre, alors !
 
-475
+476
 00:10:13,210 --> 00:10:17,380
 C'est là que ça se corse...
 Si nos calculs sont exacts,
 
-476
+477
 00:10:17,550 --> 00:10:20,930
 elle se dirige
 vers un endroit très dangereux.
 
-477
+478
 00:10:22,930 --> 00:10:25,680
 Bref,
 on va avoir besoin de ton aide, Luffy !
 
-478
+479
 00:10:25,850 --> 00:10:26,980
 Viens avec moi !
 
-479
+480
 00:10:27,350 --> 00:10:31,060
 Bien ! J'ai pas tout compris,
 mais c'est d'accord ! En route !
 
-480
+481
 00:10:39,660 --> 00:10:40,570
 Minute !
 
-481
+482
 00:10:41,740 --> 00:10:45,450
 Moi aussi, j'ai un rêve un peu dingue
 qui me tient à cœur...
 
-482
+483
 00:10:48,870 --> 00:10:52,840
 Je veux trouver cet endroit
 qu'on appelle All Blue.
 
-483
+484
 00:10:54,170 --> 00:10:54,840
 Sanji...
 
-484
+485
 00:10:56,260 --> 00:11:00,590
 Ouaip ! Nos routes vont donc
 dans la même direction, pas vrai ?
 
-485
+486
 00:11:02,890 --> 00:11:06,020
 J'accepte de devenir
 le cuistot de ton équipage.
 
-486
+487
 00:11:06,310 --> 00:11:07,980
 T'es d'accord, ou pas ?
 
-487
+488
 00:11:08,730 --> 00:11:09,940
 Bien sûr !
 
-488
+489
 00:11:10,150 --> 00:11:13,000
 – Super !
 – C'est génial, Luffy !
 
-489
+490
 00:11:13,160 --> 00:11:14,020
 Ouais !
 
-490
+491
 00:11:14,190 --> 00:11:17,070
 Youpi ! On a enfin un cuistot !
 
-491
+492
 00:11:18,440 --> 00:11:19,950
 Vous êtes contents ?
 
-492
+493
 00:11:21,280 --> 00:11:23,870
 Faut dire
 que je vous en ai fait baver, hein ?
 
-493
+494
 00:11:24,060 --> 00:11:25,780
 Pff... J'suis dégoûté !
 
-494
+495
 00:11:25,950 --> 00:11:29,780
 Moi qui rêvais de te flanquer à la mer
 de mes propres mains !
 
-495
+496
 00:11:29,960 --> 00:11:33,080
 Tu t'en tires à bon compte, mon gars !
 
-496
+497
 00:11:34,250 --> 00:11:38,090
 Désolé d'avoir dû vous obliger
 à jouer les acteurs d'opérette.
 
-497
+498
 00:11:38,240 --> 00:11:40,000
 Tu savais qu'on faisait semblant ?
 
-498
+499
 00:11:40,170 --> 00:11:42,590
 J'ai tout entendu, bande d'imbéciles !
 
-499
+500
 00:11:42,760 --> 00:11:43,550
 Quoi ?
 
-500
+501
 00:11:44,260 --> 00:11:47,220
 Tu tiens tant que ça
 à te débarrasser de moi ?
 
-501
+502
 00:11:47,390 --> 00:11:49,310
 Hein, vieux schnock ?
 
-502
+503
 00:11:50,060 --> 00:11:54,690
 T'es obligé d'insulter les gens
 quand tu t'adresses à eux ? Non, mais !
 
-503
+504
 00:11:56,480 --> 00:11:59,130
 Tu as mis du temps à comprendre,
 petit cornichon.
 
-504
+505
 00:11:59,380 --> 00:12:01,860
 Je ne supporte pas
 les gamins dans ton genre !
 
-505
+506
 00:12:02,070 --> 00:12:05,760
 Il n'y a pas un jour
 où je ne regrette pas de t'avoir sauvé,
 
-506
+507
 00:12:05,930 --> 00:12:07,200
 sale môme !
 
-507
+508
 00:12:08,080 --> 00:12:10,250
 Rassure-toi, je m'en vais !
 
-508
+509
 00:12:10,450 --> 00:12:12,920
 Profite bien de tes vieux jours !
 
-509
+510
 00:12:13,500 --> 00:12:16,620
 Ouah ! Super, ce bateau !
 On peut vraiment l'utiliser ?
 
-510
+511
 00:12:16,780 --> 00:12:18,840
 Bien sûr, c'est celui de Sanji !
 
-511
+512
 00:12:19,650 --> 00:12:21,670
 Tu en veux encore plus ?
 
-512
+513
 00:12:21,840 --> 00:12:23,300
 Oui, plus de viande !
 
-513
+514
 00:12:23,510 --> 00:12:26,380
 Et d'abord, vous prenez la mer
 pour combien de jours ?
 
-514
+515
 00:12:26,550 --> 00:12:27,470
 Sais pas.
 
-515
+516
 00:12:31,520 --> 00:12:33,240
 La vache !
 
-516
+517
 00:12:33,550 --> 00:12:36,790
 Alors c'est ça, un navire-restaurant,
 vieux schnock ?
 
-517
+518
 00:12:40,110 --> 00:12:42,070
 LES 4 RÈGLES D'OR DU BARATIE
 
-518
+519
 00:12:57,960 --> 00:12:59,950
 Tu sais, Sanji...
 
-519
+520
 00:13:01,250 --> 00:13:02,260
 Quoi ?
 
-520
+521
 00:13:02,920 --> 00:13:07,090
 Que ce soit la pire des crapules
 ou un prisonnier en fuite,
 
-521
+522
 00:13:07,620 --> 00:13:09,700
 un affamé reste un affamé...
 
-522
+523
 00:13:10,100 --> 00:13:13,730
 Chaque fois que l'un d'eux
 arrivera jusqu'à ce navire-restaurant,
 
-523
+524
 00:13:14,940 --> 00:13:18,450
 ce ne sera qu'une raison de plus
 de poursuivre notre noble combat,
 
-524
+525
 00:13:18,650 --> 00:13:20,650
 tu n'es pas d'accord ?
 
-525
+526
 00:13:21,260 --> 00:13:22,320
 Oui !
 
-526
+527
 00:13:23,420 --> 00:13:25,550
 On va avoir beaucoup de boulot !
 
-527
+528
 00:13:25,720 --> 00:13:28,740
 T'inquiète pas,
 je suis là pour t'aider !
 
-528
+529
 00:13:41,550 --> 00:13:42,670
 C'est quoi, ça ?
 
-529
+530
 00:13:44,850 --> 00:13:47,090
 Tes épluchures sont trop épaisses !
 
-530
+531
 00:13:47,590 --> 00:13:49,600
 Ça fait super mal !
 
-531
+532
 00:13:49,750 --> 00:13:53,960
 Quand je m'applique à faire la cuisine,
 contente-toi de regarder en silence !
 
-532
+533
 00:13:54,120 --> 00:13:56,890
 Tu es drôlement impertinent,
 petit cornichon !
 
-533
+534
 00:13:57,060 --> 00:13:59,200
 Je suis pas un petit cornichon !
 
-534
+535
 00:13:59,380 --> 00:14:00,940
 Vieux schnock !
 
-535
+536
 00:14:04,080 --> 00:14:05,390
 Vas-y, goûte !
 
-536
+537
 00:14:05,650 --> 00:14:07,680
 C'est toi qui as cuisiné ça ?
 
-537
+538
 00:14:08,200 --> 00:14:08,990
 Ouais !
 
-538
+539
 00:14:11,100 --> 00:14:12,160
 Alors ?
 
-539
+540
 00:14:12,600 --> 00:14:15,540
 Bon sang !
 Mais c'est infect, petit cornichon !
 
-540
+541
 00:14:16,290 --> 00:14:18,580
 Espèce de vieux schnock !
 
-541
+542
 00:14:28,620 --> 00:14:30,700
 Il est bien long, notre cuistot...
 
-542
+543
 00:14:30,870 --> 00:14:31,710
 Oui...
 
-543
+544
 00:14:41,860 --> 00:14:45,030
 – J'ai jamais pu te blairer !
 – Cette fois, t'es cuit !
 
-544
+545
 00:14:51,780 --> 00:14:54,370
 Vous ferez jamais le poids contre lui.
 
-545
+546
 00:15:07,950 --> 00:15:11,140
 – En route.
 – Tu ne leur dis pas au revoir ?
 
-546
+547
 00:15:11,550 --> 00:15:13,800
 – Pas la peine.
 – Sanji !
 
-547
+548
 00:15:14,680 --> 00:15:17,270
 Tâche de ne pas attraper froid...
 
-548
+549
 00:15:32,620 --> 00:15:34,740
 Patron Zeff !
 
-549
+550
 00:15:36,160 --> 00:15:37,420
 Merci pour tout !
 
-550
+551
 00:15:37,650 --> 00:15:40,290
 Jamais je n'oublierai
 votre foutue gentillesse !
 
-551
+552
 00:15:40,830 --> 00:15:44,960
 Jamais je n'oublierai
 ce que vous avez fait pour moi !
 
-552
+553
 00:16:04,350 --> 00:16:07,150
 Espèce d'idiot !
 
-553
+554
 00:16:09,280 --> 00:16:11,820
 Tu vas nous manquer, putain !
 
-554
+555
 00:16:12,200 --> 00:16:14,110
 On va s'ennuyer sans toi !
 
-555
+556
 00:16:28,320 --> 00:16:31,920
 – C'est trop triste !
 – Tu nous manques déjà !
 
-556
+557
 00:16:39,280 --> 00:16:40,680
 Bande de mauviettes !
 
-557
+558
 00:16:42,140 --> 00:16:45,520
 Un homme devrait toujours partir
 sans dire un mot !
 
-558
+559
 00:16:48,650 --> 00:16:51,490
 En route ! Larguez les amarres !
 
-559
+560
 00:16:51,690 --> 00:16:55,160
 À un de ces jours, bande de blaireaux !
 
-560
+561
 00:17:07,400 --> 00:17:11,510
 Si tu as suffisamment foi en toi
 pour braver la peur de la mort...
 
-561
+562
 00:17:13,510 --> 00:17:16,300
 tu trouveras sûrement
 ce que tu cherches...
 
-562
+563
 00:17:17,140 --> 00:17:19,350
 All Blue !
 
-563
+564
 00:17:21,770 --> 00:17:24,890
 Allez, les gars !
 Les clients ne vont plus tarder !
 
-564
+565
 00:17:25,140 --> 00:17:27,730
 Reprenez le travail ! Et que ça saute !
 
-565
+566
 00:17:33,240 --> 00:17:39,950
 Quand j’étais enfant, une carte au trésor
 
-566
+567
 00:17:40,240 --> 00:17:47,120
 Flottait dans mon esprit, claire comme le jour.
 
-567
+568
 00:17:47,330 --> 00:17:54,050
 Je cherchais toujours cet endroit légendaire,
 
-568
+569
 00:17:54,300 --> 00:18:01,310
 Pour ne jamais laisser un inconnu me dépasser.
 
-569
+570
 00:18:04,140 --> 00:18:06,980
 Mais même maintenant,
 
-570
+571
 00:18:08,980 --> 00:18:15,110
 Je n'arrive pas à attraper mes véritables rêves.
 
-571
+572
 00:18:15,570 --> 00:18:22,370
 Si jamais le monde venait à changer,
 
-572
+573
 00:18:22,620 --> 00:18:29,460
 Ramène-moi à l’époque où je ne savais rien,
 
-573
+574
 00:18:29,710 --> 00:18:42,470
 Pour que mes souvenirs conservent leurs couleurs éclatantes.
