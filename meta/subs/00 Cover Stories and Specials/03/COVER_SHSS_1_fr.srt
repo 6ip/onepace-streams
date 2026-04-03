@@ -546,7 +546,7 @@ Pays Futuriste de Baldimore
 
 127
 00:12:36,240 --> 00:12:38,170
-....Opération
+Opération
 en cours
 
 128
@@ -569,7 +569,7 @@ Nous n'avons pas de cola sous la main.
 
 132
 00:12:55,090 --> 00:12:57,090
-....Opération
+Opération
 en cours
 
 133

@@ -1955,6833 +1955,4184 @@ The Seven Warlords of the Sea
 409
 00:15:07,670 --> 00:15:07,710
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 410
-00:15:07,670 --> 00:15:07,710
+00:15:07,710 --> 00:15:07,760
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 411
-00:15:07,670 --> 00:15:07,710
+00:15:07,760 --> 00:15:07,800
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 412
-00:15:07,710 --> 00:15:07,760
+00:15:07,800 --> 00:15:07,840
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 413
-00:15:07,710 --> 00:15:07,760
+00:15:07,840 --> 00:15:07,880
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 414
-00:15:07,710 --> 00:15:07,760
+00:15:07,880 --> 00:15:07,920
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 415
-00:15:07,760 --> 00:15:07,800
+00:15:07,920 --> 00:15:07,970
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 416
-00:15:07,760 --> 00:15:07,800
+00:15:07,970 --> 00:15:08,010
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 417
-00:15:07,760 --> 00:15:07,800
+00:15:08,010 --> 00:15:08,050
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 418
-00:15:07,800 --> 00:15:07,840
+00:15:08,050 --> 00:15:08,090
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 419
-00:15:07,800 --> 00:15:07,840
+00:15:08,090 --> 00:15:08,130
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 420
-00:15:07,800 --> 00:15:07,840
+00:15:08,130 --> 00:15:08,170
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 421
-00:15:07,840 --> 00:15:07,880
+00:15:08,170 --> 00:15:08,220
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 422
-00:15:07,840 --> 00:15:07,880
+00:15:08,220 --> 00:15:08,260
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 423
-00:15:07,840 --> 00:15:07,880
+00:15:08,260 --> 00:15:08,300
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 424
-00:15:07,880 --> 00:15:07,920
+00:15:08,300 --> 00:15:08,340
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 425
-00:15:07,880 --> 00:15:07,920
+00:15:08,340 --> 00:15:08,380
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 426
-00:15:07,880 --> 00:15:07,920
+00:15:08,380 --> 00:15:08,420
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 427
-00:15:07,920 --> 00:15:07,970
+00:15:08,420 --> 00:15:08,470
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 428
-00:15:07,920 --> 00:15:07,970
+00:15:08,470 --> 00:15:08,510
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 429
-00:15:07,920 --> 00:15:07,970
+00:15:08,510 --> 00:15:08,550
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 430
-00:15:07,970 --> 00:15:08,010
+00:15:08,550 --> 00:15:08,590
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 431
-00:15:07,970 --> 00:15:08,010
+00:15:08,590 --> 00:15:08,630
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 432
-00:15:07,970 --> 00:15:08,010
+00:15:08,630 --> 00:15:08,670
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 433
-00:15:08,010 --> 00:15:08,050
+00:15:08,670 --> 00:15:08,720
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 434
-00:15:08,010 --> 00:15:08,050
+00:15:08,720 --> 00:15:08,760
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 435
-00:15:08,010 --> 00:15:08,050
+00:15:08,760 --> 00:15:08,800
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 436
-00:15:08,050 --> 00:15:08,090
+00:15:08,800 --> 00:15:08,840
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 437
-00:15:08,050 --> 00:15:08,090
+00:15:08,840 --> 00:15:08,880
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 438
-00:15:08,050 --> 00:15:08,090
+00:15:08,880 --> 00:15:08,920
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 439
-00:15:08,090 --> 00:15:08,130
+00:15:08,920 --> 00:15:08,970
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 440
-00:15:08,090 --> 00:15:08,130
+00:15:08,970 --> 00:15:09,010
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 441
-00:15:08,090 --> 00:15:08,130
+00:15:09,010 --> 00:15:09,050
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 442
-00:15:08,130 --> 00:15:08,170
+00:15:09,050 --> 00:15:09,090
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 443
-00:15:08,130 --> 00:15:08,170
+00:15:09,090 --> 00:15:09,130
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 444
-00:15:08,130 --> 00:15:08,170
+00:15:09,130 --> 00:15:09,170
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 445
-00:15:08,170 --> 00:15:08,220
+00:15:09,170 --> 00:15:09,220
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 446
-00:15:08,170 --> 00:15:08,220
+00:15:09,220 --> 00:15:09,260
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 447
-00:15:08,170 --> 00:15:08,220
+00:15:09,260 --> 00:15:09,300
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 448
-00:15:08,220 --> 00:15:08,260
+00:15:09,300 --> 00:15:09,340
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 449
-00:15:08,220 --> 00:15:08,260
+00:15:09,340 --> 00:15:09,380
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 450
-00:15:08,220 --> 00:15:08,260
+00:15:09,380 --> 00:15:09,430
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 451
-00:15:08,260 --> 00:15:08,300
+00:15:09,430 --> 00:15:09,470
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 452
-00:15:08,260 --> 00:15:08,300
+00:15:09,470 --> 00:15:09,510
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 453
-00:15:08,260 --> 00:15:08,300
+00:15:09,510 --> 00:15:09,550
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 454
-00:15:08,300 --> 00:15:08,340
+00:15:09,550 --> 00:15:09,590
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 455
-00:15:08,300 --> 00:15:08,340
+00:15:09,590 --> 00:15:09,630
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 456
-00:15:08,300 --> 00:15:08,340
+00:15:09,630 --> 00:15:09,680
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 457
-00:15:08,340 --> 00:15:08,380
+00:15:09,680 --> 00:15:09,720
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 458
-00:15:08,340 --> 00:15:08,380
+00:15:09,720 --> 00:15:09,760
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 459
-00:15:08,340 --> 00:15:08,380
+00:15:09,760 --> 00:15:09,800
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 460
-00:15:08,380 --> 00:15:08,420
+00:15:09,800 --> 00:15:09,840
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 461
-00:15:08,380 --> 00:15:08,420
+00:15:09,840 --> 00:15:09,880
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 462
-00:15:08,380 --> 00:15:08,420
+00:15:09,880 --> 00:15:09,930
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 463
-00:15:08,420 --> 00:15:08,470
+00:15:09,930 --> 00:15:09,970
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 464
-00:15:08,420 --> 00:15:08,470
+00:15:09,970 --> 00:15:10,010
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 465
-00:15:08,420 --> 00:15:08,470
+00:15:10,010 --> 00:15:10,050
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 466
-00:15:08,470 --> 00:15:08,510
+00:15:10,050 --> 00:15:10,090
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 467
-00:15:08,470 --> 00:15:08,510
+00:15:10,090 --> 00:15:10,130
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 468
-00:15:08,470 --> 00:15:08,510
+00:15:10,130 --> 00:15:10,180
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 469
-00:15:08,510 --> 00:15:08,550
+00:15:10,180 --> 00:15:10,220
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 470
-00:15:08,510 --> 00:15:08,550
+00:15:10,220 --> 00:15:10,260
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 471
-00:15:08,510 --> 00:15:08,550
+00:15:10,260 --> 00:15:10,300
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 472
-00:15:08,550 --> 00:15:08,590
+00:15:10,300 --> 00:15:10,340
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 473
-00:15:08,550 --> 00:15:08,590
+00:15:10,340 --> 00:15:10,380
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 474
-00:15:08,550 --> 00:15:08,590
+00:15:10,380 --> 00:15:10,430
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 475
-00:15:08,590 --> 00:15:08,630
+00:15:10,430 --> 00:15:10,470
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 476
-00:15:08,590 --> 00:15:08,630
+00:15:10,470 --> 00:15:10,510
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 477
-00:15:08,590 --> 00:15:08,630
+00:15:10,510 --> 00:15:10,550
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 478
-00:15:08,630 --> 00:15:08,670
+00:15:10,550 --> 00:15:10,590
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 479
-00:15:08,630 --> 00:15:08,670
+00:15:10,590 --> 00:15:10,630
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 480
-00:15:08,630 --> 00:15:08,670
+00:15:10,630 --> 00:15:10,680
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 481
-00:15:08,670 --> 00:15:08,720
+00:15:10,680 --> 00:15:10,720
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 482
-00:15:08,670 --> 00:15:08,720
+00:15:10,720 --> 00:15:10,760
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 483
-00:15:08,670 --> 00:15:08,720
+00:15:10,760 --> 00:15:10,800
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 484
-00:15:08,720 --> 00:15:08,760
+00:15:10,800 --> 00:15:10,840
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 485
-00:15:08,720 --> 00:15:08,760
+00:15:10,840 --> 00:15:10,880
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 486
-00:15:08,720 --> 00:15:08,760
+00:15:10,880 --> 00:15:10,930
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 487
-00:15:08,760 --> 00:15:08,800
+00:15:10,930 --> 00:15:10,970
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 488
-00:15:08,760 --> 00:15:08,800
+00:15:10,970 --> 00:15:11,010
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 489
-00:15:08,760 --> 00:15:08,800
+00:15:11,010 --> 00:15:11,050
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 490
-00:15:08,800 --> 00:15:08,840
+00:15:11,050 --> 00:15:11,090
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 491
-00:15:08,800 --> 00:15:08,840
+00:15:11,090 --> 00:15:11,140
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 492
-00:15:08,800 --> 00:15:08,840
+00:15:11,140 --> 00:15:11,180
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 493
-00:15:08,840 --> 00:15:08,880
+00:15:11,180 --> 00:15:11,220
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 494
-00:15:08,840 --> 00:15:08,880
+00:15:11,220 --> 00:15:11,260
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 495
-00:15:08,840 --> 00:15:08,880
+00:15:11,260 --> 00:15:11,300
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 496
-00:15:08,880 --> 00:15:08,920
+00:15:11,300 --> 00:15:11,340
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 497
-00:15:08,880 --> 00:15:08,920
+00:15:11,340 --> 00:15:11,390
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 498
-00:15:08,880 --> 00:15:08,920
+00:15:11,390 --> 00:15:11,430
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 499
-00:15:08,920 --> 00:15:08,970
+00:15:11,430 --> 00:15:11,470
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 500
-00:15:08,920 --> 00:15:08,970
+00:15:11,470 --> 00:15:11,510
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 501
-00:15:08,920 --> 00:15:08,970
+00:15:11,510 --> 00:15:11,550
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 502
-00:15:08,970 --> 00:15:09,010
+00:15:11,550 --> 00:15:11,590
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 503
-00:15:08,970 --> 00:15:09,010
+00:15:11,590 --> 00:15:11,640
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 504
-00:15:08,970 --> 00:15:09,010
+00:15:11,640 --> 00:15:11,680
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 505
-00:15:09,010 --> 00:15:09,050
+00:15:11,680 --> 00:15:11,720
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 506
-00:15:09,010 --> 00:15:09,050
+00:15:11,720 --> 00:15:11,760
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 507
-00:15:09,010 --> 00:15:09,050
+00:15:11,760 --> 00:15:11,800
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 508
-00:15:09,050 --> 00:15:09,090
+00:15:11,800 --> 00:15:11,840
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 509
-00:15:09,050 --> 00:15:09,090
+00:15:11,840 --> 00:15:11,890
+The Four Emperors
 Navy
+The Seven Warlords of the Sea
 
 510
-00:15:09,050 --> 00:15:09,090
+00:15:11,890 --> 00:15:11,930
+The Four Emperors
+Navy
 The Seven Warlords of the Sea
 
 511
-00:15:09,090 --> 00:15:09,130
+00:15:11,930 --> 00:15:11,970
 The Four Emperors
+Navy
+The Seven Warlords of the Sea
 
 512
-00:15:09,090 --> 00:15:09,130
-Navy
-
-513
-00:15:09,090 --> 00:15:09,130
-The Seven Warlords of the Sea
-
-514
-00:15:09,130 --> 00:15:09,170
-The Four Emperors
-
-515
-00:15:09,130 --> 00:15:09,170
-Navy
-
-516
-00:15:09,130 --> 00:15:09,170
-The Seven Warlords of the Sea
-
-517
-00:15:09,170 --> 00:15:09,220
-The Four Emperors
-
-518
-00:15:09,170 --> 00:15:09,220
-Navy
-
-519
-00:15:09,170 --> 00:15:09,220
-The Seven Warlords of the Sea
-
-520
-00:15:09,220 --> 00:15:09,260
-The Four Emperors
-
-521
-00:15:09,220 --> 00:15:09,260
-Navy
-
-522
-00:15:09,220 --> 00:15:09,260
-The Seven Warlords of the Sea
-
-523
-00:15:09,260 --> 00:15:09,300
-The Four Emperors
-
-524
-00:15:09,260 --> 00:15:09,300
-Navy
-
-525
-00:15:09,260 --> 00:15:09,300
-The Seven Warlords of the Sea
-
-526
-00:15:09,300 --> 00:15:09,340
-The Four Emperors
-
-527
-00:15:09,300 --> 00:15:09,340
-Navy
-
-528
-00:15:09,300 --> 00:15:09,340
-The Seven Warlords of the Sea
-
-529
-00:15:09,340 --> 00:15:09,380
-The Four Emperors
-
-530
-00:15:09,340 --> 00:15:09,380
-Navy
-
-531
-00:15:09,340 --> 00:15:09,380
-The Seven Warlords of the Sea
-
-532
-00:15:09,380 --> 00:15:09,430
-The Four Emperors
-
-533
-00:15:09,380 --> 00:15:09,430
-Navy
-
-534
-00:15:09,380 --> 00:15:09,430
-The Seven Warlords of the Sea
-
-535
-00:15:09,430 --> 00:15:09,470
-The Four Emperors
-
-536
-00:15:09,430 --> 00:15:09,470
-Navy
-
-537
-00:15:09,430 --> 00:15:09,470
-The Seven Warlords of the Sea
-
-538
-00:15:09,470 --> 00:15:09,510
-The Four Emperors
-
-539
-00:15:09,470 --> 00:15:09,510
-Navy
-
-540
-00:15:09,470 --> 00:15:09,510
-The Seven Warlords of the Sea
-
-541
-00:15:09,510 --> 00:15:09,550
-The Four Emperors
-
-542
-00:15:09,510 --> 00:15:09,550
-Navy
-
-543
-00:15:09,510 --> 00:15:09,550
-The Seven Warlords of the Sea
-
-544
-00:15:09,550 --> 00:15:09,590
-The Four Emperors
-
-545
-00:15:09,550 --> 00:15:09,590
-Navy
-
-546
-00:15:09,550 --> 00:15:09,590
-The Seven Warlords of the Sea
-
-547
-00:15:09,590 --> 00:15:09,630
-The Four Emperors
-
-548
-00:15:09,590 --> 00:15:09,630
-Navy
-
-549
-00:15:09,590 --> 00:15:09,630
-The Seven Warlords of the Sea
-
-550
-00:15:09,630 --> 00:15:09,680
-The Four Emperors
-
-551
-00:15:09,630 --> 00:15:09,680
-Navy
-
-552
-00:15:09,630 --> 00:15:09,680
-The Seven Warlords of the Sea
-
-553
-00:15:09,680 --> 00:15:09,720
-The Four Emperors
-
-554
-00:15:09,680 --> 00:15:09,720
-Navy
-
-555
-00:15:09,680 --> 00:15:09,720
-The Seven Warlords of the Sea
-
-556
-00:15:09,720 --> 00:15:09,760
-The Four Emperors
-
-557
-00:15:09,720 --> 00:15:09,760
-Navy
-
-558
-00:15:09,720 --> 00:15:09,760
-The Seven Warlords of the Sea
-
-559
-00:15:09,760 --> 00:15:09,800
-The Four Emperors
-
-560
-00:15:09,760 --> 00:15:09,800
-Navy
-
-561
-00:15:09,760 --> 00:15:09,800
-The Seven Warlords of the Sea
-
-562
-00:15:09,800 --> 00:15:09,840
-The Four Emperors
-
-563
-00:15:09,800 --> 00:15:09,840
-Navy
-
-564
-00:15:09,800 --> 00:15:09,840
-The Seven Warlords of the Sea
-
-565
-00:15:09,840 --> 00:15:09,880
-The Four Emperors
-
-566
-00:15:09,840 --> 00:15:09,880
-Navy
-
-567
-00:15:09,840 --> 00:15:09,880
-The Seven Warlords of the Sea
-
-568
-00:15:09,880 --> 00:15:09,930
-The Four Emperors
-
-569
-00:15:09,880 --> 00:15:09,930
-Navy
-
-570
-00:15:09,880 --> 00:15:09,930
-The Seven Warlords of the Sea
-
-571
-00:15:09,930 --> 00:15:09,970
-The Four Emperors
-
-572
-00:15:09,930 --> 00:15:09,970
-Navy
-
-573
-00:15:09,930 --> 00:15:09,970
-The Seven Warlords of the Sea
-
-574
-00:15:09,970 --> 00:15:10,010
-The Four Emperors
-
-575
-00:15:09,970 --> 00:15:10,010
-Navy
-
-576
-00:15:09,970 --> 00:15:10,010
-The Seven Warlords of the Sea
-
-577
-00:15:10,010 --> 00:15:10,050
-The Four Emperors
-
-578
-00:15:10,010 --> 00:15:10,050
-Navy
-
-579
-00:15:10,010 --> 00:15:10,050
-The Seven Warlords of the Sea
-
-580
-00:15:10,050 --> 00:15:10,090
-The Four Emperors
-
-581
-00:15:10,050 --> 00:15:10,090
-Navy
-
-582
-00:15:10,050 --> 00:15:10,090
-The Seven Warlords of the Sea
-
-583
-00:15:10,090 --> 00:15:10,130
-The Four Emperors
-
-584
-00:15:10,090 --> 00:15:10,130
-Navy
-
-585
-00:15:10,090 --> 00:15:10,130
-The Seven Warlords of the Sea
-
-586
-00:15:10,130 --> 00:15:10,180
-The Four Emperors
-
-587
-00:15:10,130 --> 00:15:10,180
-Navy
-
-588
-00:15:10,130 --> 00:15:10,180
-The Seven Warlords of the Sea
-
-589
-00:15:10,180 --> 00:15:10,220
-The Four Emperors
-
-590
-00:15:10,180 --> 00:15:10,220
-Navy
-
-591
-00:15:10,180 --> 00:15:10,220
-The Seven Warlords of the Sea
-
-592
-00:15:10,220 --> 00:15:10,260
-The Four Emperors
-
-593
-00:15:10,220 --> 00:15:10,260
-Navy
-
-594
-00:15:10,220 --> 00:15:10,260
-The Seven Warlords of the Sea
-
-595
-00:15:10,260 --> 00:15:10,300
-The Four Emperors
-
-596
-00:15:10,260 --> 00:15:10,300
-Navy
-
-597
-00:15:10,260 --> 00:15:10,300
-The Seven Warlords of the Sea
-
-598
-00:15:10,300 --> 00:15:10,340
-The Four Emperors
-
-599
-00:15:10,300 --> 00:15:10,340
-Navy
-
-600
-00:15:10,300 --> 00:15:10,340
-The Seven Warlords of the Sea
-
-601
-00:15:10,340 --> 00:15:10,380
-The Four Emperors
-
-602
-00:15:10,340 --> 00:15:10,380
-Navy
-
-603
-00:15:10,340 --> 00:15:10,380
-The Seven Warlords of the Sea
-
-604
-00:15:10,380 --> 00:15:10,430
-The Four Emperors
-
-605
-00:15:10,380 --> 00:15:10,430
-Navy
-
-606
-00:15:10,380 --> 00:15:10,430
-The Seven Warlords of the Sea
-
-607
-00:15:10,430 --> 00:15:10,470
-The Four Emperors
-
-608
-00:15:10,430 --> 00:15:10,470
-Navy
-
-609
-00:15:10,430 --> 00:15:10,470
-The Seven Warlords of the Sea
-
-610
-00:15:10,470 --> 00:15:10,510
-The Four Emperors
-
-611
-00:15:10,470 --> 00:15:10,510
-Navy
-
-612
-00:15:10,470 --> 00:15:10,510
-The Seven Warlords of the Sea
-
-613
-00:15:10,510 --> 00:15:10,550
-The Four Emperors
-
-614
-00:15:10,510 --> 00:15:10,550
-Navy
-
-615
-00:15:10,510 --> 00:15:10,550
-The Seven Warlords of the Sea
-
-616
-00:15:10,550 --> 00:15:10,590
-The Four Emperors
-
-617
-00:15:10,550 --> 00:15:10,590
-Navy
-
-618
-00:15:10,550 --> 00:15:10,590
-The Seven Warlords of the Sea
-
-619
-00:15:10,590 --> 00:15:10,630
-The Four Emperors
-
-620
-00:15:10,590 --> 00:15:10,630
-Navy
-
-621
-00:15:10,590 --> 00:15:10,630
-The Seven Warlords of the Sea
-
-622
-00:15:10,630 --> 00:15:10,680
-The Four Emperors
-
-623
-00:15:10,630 --> 00:15:10,680
-Navy
-
-624
-00:15:10,630 --> 00:15:10,680
-The Seven Warlords of the Sea
-
-625
-00:15:10,680 --> 00:15:10,720
-The Four Emperors
-
-626
-00:15:10,680 --> 00:15:10,720
-Navy
-
-627
-00:15:10,680 --> 00:15:10,720
-The Seven Warlords of the Sea
-
-628
-00:15:10,720 --> 00:15:10,760
-The Four Emperors
-
-629
-00:15:10,720 --> 00:15:10,760
-Navy
-
-630
-00:15:10,720 --> 00:15:10,760
-The Seven Warlords of the Sea
-
-631
-00:15:10,760 --> 00:15:10,800
-The Four Emperors
-
-632
-00:15:10,760 --> 00:15:10,800
-Navy
-
-633
-00:15:10,760 --> 00:15:10,800
-The Seven Warlords of the Sea
-
-634
-00:15:10,800 --> 00:15:10,840
-The Four Emperors
-
-635
-00:15:10,800 --> 00:15:10,840
-Navy
-
-636
-00:15:10,800 --> 00:15:10,840
-The Seven Warlords of the Sea
-
-637
-00:15:10,840 --> 00:15:10,880
-The Four Emperors
-
-638
-00:15:10,840 --> 00:15:10,880
-Navy
-
-639
-00:15:10,840 --> 00:15:10,880
-The Seven Warlords of the Sea
-
-640
-00:15:10,880 --> 00:15:10,930
-The Four Emperors
-
-641
-00:15:10,880 --> 00:15:10,930
-Navy
-
-642
-00:15:10,880 --> 00:15:10,930
-The Seven Warlords of the Sea
-
-643
-00:15:10,930 --> 00:15:10,970
-The Four Emperors
-
-644
-00:15:10,930 --> 00:15:10,970
-Navy
-
-645
-00:15:10,930 --> 00:15:10,970
-The Seven Warlords of the Sea
-
-646
-00:15:10,970 --> 00:15:11,010
-The Four Emperors
-
-647
-00:15:10,970 --> 00:15:11,010
-Navy
-
-648
-00:15:10,970 --> 00:15:11,010
-The Seven Warlords of the Sea
-
-649
-00:15:11,010 --> 00:15:11,050
-The Four Emperors
-
-650
-00:15:11,010 --> 00:15:11,050
-Navy
-
-651
-00:15:11,010 --> 00:15:11,050
-The Seven Warlords of the Sea
-
-652
-00:15:11,050 --> 00:15:11,090
-The Four Emperors
-
-653
-00:15:11,050 --> 00:15:11,090
-Navy
-
-654
-00:15:11,050 --> 00:15:11,090
-The Seven Warlords of the Sea
-
-655
-00:15:11,090 --> 00:15:11,140
-The Four Emperors
-
-656
-00:15:11,090 --> 00:15:11,140
-Navy
-
-657
-00:15:11,090 --> 00:15:11,140
-The Seven Warlords of the Sea
-
-658
-00:15:11,140 --> 00:15:11,180
-The Four Emperors
-
-659
-00:15:11,140 --> 00:15:11,180
-Navy
-
-660
-00:15:11,140 --> 00:15:11,180
-The Seven Warlords of the Sea
-
-661
-00:15:11,180 --> 00:15:11,220
-The Four Emperors
-
-662
-00:15:11,180 --> 00:15:11,220
-Navy
-
-663
-00:15:11,180 --> 00:15:11,220
-The Seven Warlords of the Sea
-
-664
-00:15:11,220 --> 00:15:11,260
-The Four Emperors
-
-665
-00:15:11,220 --> 00:15:11,260
-Navy
-
-666
-00:15:11,220 --> 00:15:11,260
-The Seven Warlords of the Sea
-
-667
-00:15:11,260 --> 00:15:11,300
-The Four Emperors
-
-668
-00:15:11,260 --> 00:15:11,300
-Navy
-
-669
-00:15:11,260 --> 00:15:11,300
-The Seven Warlords of the Sea
-
-670
-00:15:11,300 --> 00:15:11,340
-The Four Emperors
-
-671
-00:15:11,300 --> 00:15:11,340
-Navy
-
-672
-00:15:11,300 --> 00:15:11,340
-The Seven Warlords of the Sea
-
-673
-00:15:11,340 --> 00:15:11,390
-The Four Emperors
-
-674
-00:15:11,340 --> 00:15:11,390
-Navy
-
-675
-00:15:11,340 --> 00:15:11,390
-The Seven Warlords of the Sea
-
-676
-00:15:11,390 --> 00:15:11,430
-The Four Emperors
-
-677
-00:15:11,390 --> 00:15:11,430
-Navy
-
-678
-00:15:11,390 --> 00:15:11,430
-The Seven Warlords of the Sea
-
-679
-00:15:11,430 --> 00:15:11,470
-The Four Emperors
-
-680
-00:15:11,430 --> 00:15:11,470
-Navy
-
-681
-00:15:11,430 --> 00:15:11,470
-The Seven Warlords of the Sea
-
-682
-00:15:11,470 --> 00:15:11,510
-The Four Emperors
-
-683
-00:15:11,470 --> 00:15:11,510
-Navy
-
-684
-00:15:11,470 --> 00:15:11,510
-The Seven Warlords of the Sea
-
-685
-00:15:11,510 --> 00:15:11,550
-The Four Emperors
-
-686
-00:15:11,510 --> 00:15:11,550
-Navy
-
-687
-00:15:11,510 --> 00:15:11,550
-The Seven Warlords of the Sea
-
-688
-00:15:11,550 --> 00:15:11,590
-The Four Emperors
-
-689
-00:15:11,550 --> 00:15:11,590
-Navy
-
-690
-00:15:11,550 --> 00:15:11,590
-The Seven Warlords of the Sea
-
-691
-00:15:11,590 --> 00:15:11,640
-The Four Emperors
-
-692
-00:15:11,590 --> 00:15:11,640
-Navy
-
-693
-00:15:11,590 --> 00:15:11,640
-The Seven Warlords of the Sea
-
-694
-00:15:11,640 --> 00:15:11,680
-The Four Emperors
-
-695
-00:15:11,640 --> 00:15:11,680
-Navy
-
-696
-00:15:11,640 --> 00:15:11,680
-The Seven Warlords of the Sea
-
-697
-00:15:11,680 --> 00:15:11,720
-The Four Emperors
-
-698
-00:15:11,680 --> 00:15:11,720
-Navy
-
-699
-00:15:11,680 --> 00:15:11,720
-The Seven Warlords of the Sea
-
-700
-00:15:11,720 --> 00:15:11,760
-The Four Emperors
-
-701
-00:15:11,720 --> 00:15:11,760
-Navy
-
-702
-00:15:11,720 --> 00:15:11,760
-The Seven Warlords of the Sea
-
-703
-00:15:11,760 --> 00:15:11,800
-The Four Emperors
-
-704
-00:15:11,760 --> 00:15:11,800
-Navy
-
-705
-00:15:11,760 --> 00:15:11,800
-The Seven Warlords of the Sea
-
-706
-00:15:11,800 --> 00:15:11,840
-The Four Emperors
-
-707
-00:15:11,800 --> 00:15:11,840
-Navy
-
-708
-00:15:11,800 --> 00:15:11,840
-The Seven Warlords of the Sea
-
-709
-00:15:11,840 --> 00:15:11,890
-The Four Emperors
-
-710
-00:15:11,840 --> 00:15:11,890
-Navy
-
-711
-00:15:11,840 --> 00:15:11,890
-The Seven Warlords of the Sea
-
-712
-00:15:11,890 --> 00:15:11,930
-The Four Emperors
-
-713
-00:15:11,890 --> 00:15:11,930
-Navy
-
-714
-00:15:11,890 --> 00:15:11,930
-The Seven Warlords of the Sea
-
-715
-00:15:11,930 --> 00:15:11,970
-The Four Emperors
-
-716
-00:15:11,930 --> 00:15:11,970
-Navy
-
-717
-00:15:11,930 --> 00:15:11,970
-The Seven Warlords of the Sea
-
-718
 00:15:11,970 --> 00:15:12,930
 However,
 
-719
+513
 00:15:11,970 --> 00:15:12,010
 The Four Emperors
-
-720
-00:15:11,970 --> 00:15:12,010
 Navy
-
-721
-00:15:11,970 --> 00:15:12,010
 The Seven Warlords of the Sea
 
-722
+514
 00:15:12,010 --> 00:15:12,050
 The Four Emperors
-
-723
-00:15:12,010 --> 00:15:12,050
 Navy
-
-724
-00:15:12,010 --> 00:15:12,050
 The Seven Warlords of the Sea
 
-725
+515
 00:15:12,050 --> 00:15:12,090
 The Four Emperors
-
-726
-00:15:12,050 --> 00:15:12,090
 Navy
-
-727
-00:15:12,050 --> 00:15:12,090
 The Seven Warlords of the Sea
 
-728
+516
 00:15:12,090 --> 00:15:12,140
 The Four Emperors
-
-729
-00:15:12,090 --> 00:15:12,140
 Navy
-
-730
-00:15:12,090 --> 00:15:12,140
 The Seven Warlords of the Sea
 
-731
+517
 00:15:12,140 --> 00:15:12,180
 The Four Emperors
-
-732
-00:15:12,140 --> 00:15:12,180
 Navy
-
-733
-00:15:12,140 --> 00:15:12,180
 The Seven Warlords of the Sea
 
-734
+518
 00:15:12,180 --> 00:15:12,220
 The Four Emperors
-
-735
-00:15:12,180 --> 00:15:12,220
 Navy
-
-736
-00:15:12,180 --> 00:15:12,220
 The Seven Warlords of the Sea
 
-737
+519
 00:15:12,220 --> 00:15:12,260
 The Four Emperors
-
-738
-00:15:12,220 --> 00:15:12,260
 Navy
-
-739
-00:15:12,220 --> 00:15:12,260
 The Seven Warlords of the Sea
 
-740
+520
 00:15:12,260 --> 00:15:12,300
 The Four Emperors
-
-741
-00:15:12,260 --> 00:15:12,300
 Navy
-
-742
-00:15:12,260 --> 00:15:12,300
 The Seven Warlords of the Sea
 
-743
+521
 00:15:12,300 --> 00:15:12,340
 The Four Emperors
-
-744
-00:15:12,300 --> 00:15:12,340
 Navy
-
-745
-00:15:12,300 --> 00:15:12,340
 The Seven Warlords of the Sea
 
-746
+522
 00:15:12,340 --> 00:15:12,390
 The Four Emperors
-
-747
-00:15:12,340 --> 00:15:12,390
 Navy
-
-748
-00:15:12,340 --> 00:15:12,390
 The Seven Warlords of the Sea
 
-749
+523
 00:15:12,390 --> 00:15:12,430
 The Four Emperors
-
-750
-00:15:12,390 --> 00:15:12,430
 Navy
-
-751
-00:15:12,390 --> 00:15:12,430
 The Seven Warlords of the Sea
 
-752
+524
 00:15:12,430 --> 00:15:12,470
 The Four Emperors
-
-753
-00:15:12,430 --> 00:15:12,470
 Navy
-
-754
-00:15:12,430 --> 00:15:12,470
 The Seven Warlords of the Sea
 
-755
+525
 00:15:12,470 --> 00:15:12,510
 The Four Emperors
-
-756
-00:15:12,470 --> 00:15:12,510
 Navy
-
-757
-00:15:12,470 --> 00:15:12,510
 The Seven Warlords of the Sea
 
-758
+526
 00:15:12,510 --> 00:15:12,550
 The Four Emperors
-
-759
-00:15:12,510 --> 00:15:12,550
 Navy
-
-760
-00:15:12,510 --> 00:15:12,550
 The Seven Warlords of the Sea
 
-761
+527
 00:15:12,550 --> 00:15:12,590
 The Four Emperors
-
-762
-00:15:12,550 --> 00:15:12,590
 Navy
-
-763
-00:15:12,550 --> 00:15:12,590
 The Seven Warlords of the Sea
 
-764
+528
 00:15:12,590 --> 00:15:12,640
 The Four Emperors
-
-765
-00:15:12,590 --> 00:15:12,640
 Navy
-
-766
-00:15:12,590 --> 00:15:12,640
 The Seven Warlords of the Sea
 
-767
+529
 00:15:12,640 --> 00:15:12,680
 The Four Emperors
-
-768
-00:15:12,640 --> 00:15:12,680
 Navy
-
-769
-00:15:12,640 --> 00:15:12,680
 The Seven Warlords of the Sea
 
-770
+530
 00:15:12,680 --> 00:15:12,720
 The Four Emperors
-
-771
-00:15:12,680 --> 00:15:12,720
 Navy
-
-772
-00:15:12,680 --> 00:15:12,720
 The Seven Warlords of the Sea
 
-773
+531
 00:15:12,720 --> 00:15:12,760
 The Four Emperors
-
-774
-00:15:12,720 --> 00:15:12,760
 Navy
-
-775
-00:15:12,720 --> 00:15:12,760
 The Seven Warlords of the Sea
 
-776
+532
 00:15:12,760 --> 00:15:12,800
 The Four Emperors
-
-777
-00:15:12,760 --> 00:15:12,800
 Navy
-
-778
-00:15:12,760 --> 00:15:12,800
 The Seven Warlords of the Sea
 
-779
+533
 00:15:12,800 --> 00:15:12,850
 The Four Emperors
-
-780
-00:15:12,800 --> 00:15:12,850
 Navy
-
-781
-00:15:12,800 --> 00:15:12,850
 The Seven Warlords of the Sea
 
-782
+534
 00:15:12,850 --> 00:15:12,890
 The Four Emperors
-
-783
-00:15:12,850 --> 00:15:12,890
 Navy
-
-784
-00:15:12,850 --> 00:15:12,890
 The Seven Warlords of the Sea
 
-785
+535
 00:15:12,890 --> 00:15:12,930
 The Four Emperors
-
-786
-00:15:12,890 --> 00:15:12,930
 Navy
-
-787
-00:15:12,890 --> 00:15:12,930
 The Seven Warlords of the Sea
 
-788
+536
 00:15:13,480 --> 00:15:16,690
 two kings had suffered terribly
 at the hands of Warlords:
 
-789
+537
 00:15:16,690 --> 00:15:20,020
 King Nefertari Cobra
 of the Kingdom of Alabasta,
 
-790
+538
 00:15:20,610 --> 00:15:23,780
 and Riku Doldo III
 of the Kingdom of Dressrosa.
 
-791
+539
 00:15:23,780 --> 00:15:26,860
 They fought for the abolition
 of the Seven Warlords system.
 
-792
+540
 00:15:27,530 --> 00:15:31,080
 Then, after a heated debate at the Reverie,
 
-793
+541
 00:15:31,080 --> 00:15:35,460
 a large majority supported
 the proposition, and it passed.
 
-794
+542
 00:15:36,710 --> 00:15:42,300
 Therefore, the Seven Warlords of the Sea
 will automatically be stripped of all their rights,
 
-795
+543
 00:15:42,300 --> 00:15:46,180
 and their connection with
 the World Government will hereby be cut off.
 
-796
+544
 00:15:46,180 --> 00:15:47,010
 That means...!
 
-797
+545
 00:15:47,010 --> 00:15:50,470
 Empty Bluffs Island
 New World
 
-798
+546
 00:15:47,890 --> 00:15:49,260
 Buggy,
 
-799
+547
 00:15:49,260 --> 00:15:53,270
 you're just another pirate!
 
-800
+548
 00:15:54,140 --> 00:15:56,390
 That's no fair, you assholes!
 
-801
+549
 00:15:56,390 --> 00:16:01,440
 A decision was made without telling us,
 and since we're no longer useful, you arrest us?!
 
-802
+550
 00:16:01,440 --> 00:16:03,650
 You have no sense of justice whatsoever!
 
-803
+551
 00:16:03,650 --> 00:16:08,240
 Whether Crocodile and Doflamingo
 outsmarted you is none of my business!
 
-804
+552
 00:16:08,240 --> 00:16:11,240
 Don't take it out on me!
 
-805
+553
 00:16:11,240 --> 00:16:13,830
 They've got the whole coast surrounded!
 
-806
+554
 00:16:14,330 --> 00:16:15,870
 What should we do?
 
-807
+555
 00:16:16,910 --> 00:16:20,790
 My entire life's plan is going to the dogs!
 
-808
+556
 00:16:21,290 --> 00:16:22,250
 Oh?
 
-809
+557
 00:16:22,290 --> 00:16:27,720
 An Island
 in the New World
 
-810
+558
 00:16:22,630 --> 00:16:25,920
 The Marines should be on our side,
 but they've surrounded us!
 
-811
+559
 00:16:25,920 --> 00:16:27,720
 What should we do, Mommy?!
 
-812
+560
 00:16:28,300 --> 00:16:30,180
 Mommy!
 
-813
+561
 00:16:31,640 --> 00:16:35,060
 The Ruins of the Muggy Kingdom
 Gloom Island
 
-814
+562
 00:16:31,800 --> 00:16:33,560
 Surrender yourself now,
 
-815
+563
 00:16:33,560 --> 00:16:35,060
 Hawk Eye Mihawk!
 
-816
+564
 00:16:35,600 --> 00:16:37,680
 Surrender yourself now!
 
-817
+565
 00:16:39,140 --> 00:16:42,150
 The Isle of Women
 Amazon Lily
 
-818
+566
 00:16:39,390 --> 00:16:42,150
 Snyake Princess, we have a problem!
 
-819
+567
 00:16:42,150 --> 00:16:46,440
 Your title of Warlord has been stripped away!
 
-820
+568
 00:16:47,110 --> 00:16:48,360
 Elder Nyon!
 
-821
+569
 00:16:48,360 --> 00:16:50,320
 There are Marine ships off the coast!
 
-822
+570
 00:16:50,320 --> 00:16:51,530
 What?!
 
-823
+571
 00:16:51,530 --> 00:16:54,160
 They've already gone into action?!
 
-824
+572
 00:16:55,160 --> 00:16:56,580
 Don't panic!
 
-825
+573
 00:16:57,910 --> 00:16:59,210
 Snyake Princess!
 
-826
+574
 00:16:59,540 --> 00:17:01,750
 They've obviously forgotten something...
 
-827
+575
 00:17:03,460 --> 00:17:04,710
 don't you think?
 
-828
+576
 00:17:05,170 --> 00:17:07,970
 This is no good, President Buggy!
 
-829
+577
 00:17:07,970 --> 00:17:09,380
 Should we run?!
 
-830
+578
 00:17:10,010 --> 00:17:14,050
 Of course not! We'll show them a flashy fight!
 
-831
+579
 00:17:18,680 --> 00:17:23,900
 Show some guts, you sad sacks!
 
-832
+580
 00:17:25,190 --> 00:17:27,780
 – That's our President Buggy!
 – That's our President Buggy!
 
-833
+581
 00:17:27,810 --> 00:17:27,850
 Former Warlord of the Sea
 
-834
+582
 00:17:27,850 --> 00:17:27,900
 Chairman Buggy "the Bombastic Clown"
-
-835
-00:17:27,850 --> 00:17:27,900
 Buggy's Delivery
-
-836
-00:17:27,850 --> 00:17:27,900
 Former Warlord of the Sea
 
-837
+583
 00:17:27,900 --> 00:17:27,940
 Chairman Buggy "the Bombastic Clown"
-
-838
-00:17:27,900 --> 00:17:27,940
 Buggy's Delivery
-
-839
-00:17:27,900 --> 00:17:27,940
 Former Warlord of the Sea
 
-840
+584
 00:17:27,940 --> 00:17:27,980
 Chairman Buggy "the Bombastic Clown"
-
-841
-00:17:27,940 --> 00:17:27,980
 Buggy's Delivery
-
-842
-00:17:27,940 --> 00:17:27,980
 Former Warlord of the Sea
 
-843
+585
 00:17:27,980 --> 00:17:28,020
 Chairman Buggy "the Bombastic Clown"
-
-844
-00:17:27,980 --> 00:17:28,020
 Buggy's Delivery
-
-845
-00:17:27,980 --> 00:17:28,020
 Former Warlord of the Sea
 
-846
+586
 00:17:28,030 --> 00:17:28,110
 Chairman Buggy "the Bombastic Clown"
-
-847
-00:17:28,030 --> 00:17:28,110
 Buggy's Delivery
-
-848
-00:17:28,030 --> 00:17:28,110
 Former Warlord of the Sea
 
-849
+587
 00:17:28,110 --> 00:17:28,150
 Chairman Buggy "the Bombastic Clown"
-
-850
-00:17:28,110 --> 00:17:28,150
 Buggy's Delivery
-
-851
-00:17:28,110 --> 00:17:28,150
 Former Warlord of the Sea
 
-852
+588
 00:17:28,150 --> 00:17:28,190
 Chairman Buggy "the Bombastic Clown"
-
-853
-00:17:28,150 --> 00:17:28,190
 Buggy's Delivery
-
-854
-00:17:28,150 --> 00:17:28,190
 Former Warlord of the Sea
 
-855
+589
 00:17:28,190 --> 00:17:28,240
 Chairman Buggy "the Bombastic Clown"
-
-856
-00:17:28,190 --> 00:17:28,240
 Buggy's Delivery
-
-857
-00:17:28,190 --> 00:17:28,240
 Former Warlord of the Sea
 
-858
+590
 00:17:28,240 --> 00:17:28,280
 Chairman Buggy "the Bombastic Clown"
-
-859
-00:17:28,240 --> 00:17:28,280
 Buggy's Delivery
-
-860
-00:17:28,240 --> 00:17:28,280
 Former Warlord of the Sea
 
-861
+591
 00:17:28,280 --> 00:17:28,320
 Chairman Buggy "the Bombastic Clown"
-
-862
-00:17:28,280 --> 00:17:28,320
 Buggy's Delivery
-
-863
-00:17:28,280 --> 00:17:28,320
 Former Warlord of the Sea
 
-864
+592
 00:17:28,280 --> 00:17:28,610
 Former Warlord of the Sea
 
-865
+593
 00:17:28,320 --> 00:17:28,360
 Chairman Buggy "the Bombastic Clown"
 
-866
+594
 00:17:28,320 --> 00:17:28,610
 Chairman Buggy "the Bombastic Clown"
 
-867
+595
 00:17:28,360 --> 00:17:28,400
 Chairman Buggy "the Bombastic Clown"
 
-868
+596
 00:17:28,400 --> 00:17:28,440
 Chairman Buggy "the Bombastic Clown"
 
-869
+597
 00:17:28,440 --> 00:17:28,490
 Chairman Buggy "the Bombastic Clown"
 
-870
+598
 00:17:28,490 --> 00:17:28,530
 Chairman Buggy "the Bombastic Clown"
 
-871
+599
 00:17:28,530 --> 00:17:28,570
 Chairman Buggy "the Bombastic Clown"
 
-872
+600
 00:17:28,570 --> 00:17:28,610
 Chairman Buggy "the Bombastic Clown"
 
-873
+601
 00:17:28,610 --> 00:17:28,650
 Chairman Buggy "the Bombastic Clown"
-
-874
-00:17:28,610 --> 00:17:28,650
 Former Warlord of the Sea
 
-875
+602
 00:17:28,650 --> 00:17:28,690
 Chairman Buggy "the Bombastic Clown"
-
-876
-00:17:28,650 --> 00:17:28,690
 Former Warlord of the Sea
 
-877
+603
 00:17:28,690 --> 00:17:28,730
 Chairman Buggy "the Bombastic Clown"
-
-878
-00:17:28,690 --> 00:17:28,730
 Former Warlord of the Sea
 
-879
+604
 00:17:28,730 --> 00:17:28,770
 Chairman Buggy "the Bombastic Clown"
-
-880
-00:17:28,730 --> 00:17:28,770
 Former Warlord of the Sea
 
-881
+605
 00:17:28,770 --> 00:17:28,810
 Chairman Buggy "the Bombastic Clown"
-
-882
-00:17:28,770 --> 00:17:28,810
 Former Warlord of the Sea
 
-883
+606
 00:17:28,810 --> 00:17:28,860
 Chairman Buggy "the Bombastic Clown"
-
-884
-00:17:28,810 --> 00:17:28,860
 Buggy's Delivery
-
-885
-00:17:28,810 --> 00:17:28,860
 Former Warlord of the Sea
 
-886
+607
 00:17:28,860 --> 00:17:28,900
 Chairman Buggy "the Bombastic Clown"
-
-887
-00:17:28,860 --> 00:17:28,900
 Buggy's Delivery
-
-888
-00:17:28,860 --> 00:17:28,900
 Former Warlord of the Sea
 
-889
+608
 00:17:28,900 --> 00:17:28,940
 Chairman Buggy "the Bombastic Clown"
-
-890
-00:17:28,900 --> 00:17:28,940
 Buggy's Delivery
-
-891
-00:17:28,900 --> 00:17:28,940
 Former Warlord of the Sea
 
-892
+609
 00:17:28,940 --> 00:17:28,980
 Chairman Buggy "the Bombastic Clown"
-
-893
-00:17:28,940 --> 00:17:28,980
 Buggy's Delivery
-
-894
-00:17:28,940 --> 00:17:28,980
 Former Warlord of the Sea
 
-895
+610
 00:17:28,980 --> 00:17:29,020
 Chairman Buggy "the Bombastic Clown"
-
-896
-00:17:28,980 --> 00:17:29,020
 Buggy's Delivery
-
-897
-00:17:28,980 --> 00:17:29,020
 Former Warlord of the Sea
 
-898
+611
 00:17:29,020 --> 00:17:29,060
 Chairman Buggy "the Bombastic Clown"
-
-899
-00:17:29,020 --> 00:17:29,060
 Buggy's Delivery
-
-900
-00:17:29,020 --> 00:17:29,060
 Former Warlord of the Sea
 
-901
+612
 00:17:29,060 --> 00:17:29,110
 Chairman Buggy "the Bombastic Clown"
-
-902
-00:17:29,060 --> 00:17:29,110
 Buggy's Delivery
-
-903
-00:17:29,060 --> 00:17:29,110
 Former Warlord of the Sea
 
-904
+613
 00:17:29,110 --> 00:17:29,150
 Chairman Buggy "the Bombastic Clown"
-
-905
-00:17:29,110 --> 00:17:29,150
 Buggy's Delivery
-
-906
-00:17:29,110 --> 00:17:29,150
 Former Warlord of the Sea
 
-907
+614
 00:17:29,150 --> 00:17:29,190
 Chairman Buggy "the Bombastic Clown"
-
-908
-00:17:29,150 --> 00:17:29,190
 Buggy's Delivery
-
-909
-00:17:29,150 --> 00:17:29,190
 Former Warlord of the Sea
 
-910
+615
 00:17:29,190 --> 00:17:29,230
 Chairman Buggy "the Bombastic Clown"
-
-911
-00:17:29,190 --> 00:17:29,230
 Buggy's Delivery
-
-912
-00:17:29,190 --> 00:17:29,230
 Former Warlord of the Sea
 
-913
+616
 00:17:29,230 --> 00:17:29,270
 Chairman Buggy "the Bombastic Clown"
-
-914
-00:17:29,230 --> 00:17:29,270
 Buggy's Delivery
-
-915
-00:17:29,230 --> 00:17:29,270
 Former Warlord of the Sea
 
-916
+617
 00:17:29,270 --> 00:17:29,310
 Chairman Buggy "the Bombastic Clown"
-
-917
-00:17:29,270 --> 00:17:29,310
 Buggy's Delivery
-
-918
-00:17:29,270 --> 00:17:29,310
 Former Warlord of the Sea
 
-919
+618
 00:17:29,310 --> 00:17:29,360
 Chairman Buggy "the Bombastic Clown"
-
-920
-00:17:29,310 --> 00:17:29,360
 Buggy's Delivery
-
-921
-00:17:29,310 --> 00:17:29,360
 Former Warlord of the Sea
 
-922
+619
 00:17:29,320 --> 00:17:33,200
 – Buggy! Buggy! Buggy! Buggy!
 – Buggy! Buggy! Buggy! Buggy!
 
-923
+620
 00:17:29,360 --> 00:17:29,400
 Chairman Buggy "the Bombastic Clown"
-
-924
-00:17:29,360 --> 00:17:29,400
 Buggy's Delivery
-
-925
-00:17:29,360 --> 00:17:29,400
 Former Warlord of the Sea
 
-926
+621
 00:17:29,400 --> 00:17:29,440
 Chairman Buggy "the Bombastic Clown"
-
-927
-00:17:29,400 --> 00:17:29,440
 Buggy's Delivery
-
-928
-00:17:29,400 --> 00:17:29,440
 Former Warlord of the Sea
 
-929
+622
 00:17:29,440 --> 00:17:29,480
 Chairman Buggy "the Bombastic Clown"
-
-930
-00:17:29,440 --> 00:17:29,480
 Buggy's Delivery
-
-931
-00:17:29,440 --> 00:17:29,480
 Former Warlord of the Sea
 
-932
+623
 00:17:29,480 --> 00:17:29,520
 Chairman Buggy "the Bombastic Clown"
-
-933
-00:17:29,480 --> 00:17:29,520
 Buggy's Delivery
-
-934
-00:17:29,480 --> 00:17:29,520
 Former Warlord of the Sea
 
-935
+624
 00:17:29,520 --> 00:17:29,570
 Chairman Buggy "the Bombastic Clown"
-
-936
-00:17:29,520 --> 00:17:29,570
 Buggy's Delivery
-
-937
-00:17:29,520 --> 00:17:29,570
 Former Warlord of the Sea
 
-938
+625
 00:17:29,570 --> 00:17:29,610
 Chairman Buggy "the Bombastic Clown"
-
-939
-00:17:29,570 --> 00:17:29,610
 Buggy's Delivery
-
-940
-00:17:29,570 --> 00:17:29,610
 Former Warlord of the Sea
 
-941
+626
 00:17:29,610 --> 00:17:29,650
 Chairman Buggy "the Bombastic Clown"
-
-942
-00:17:29,610 --> 00:17:29,650
 Buggy's Delivery
-
-943
-00:17:29,610 --> 00:17:29,650
 Former Warlord of the Sea
 
-944
+627
 00:17:29,650 --> 00:17:29,690
 Chairman Buggy "the Bombastic Clown"
-
-945
-00:17:29,650 --> 00:17:29,690
 Buggy's Delivery
-
-946
-00:17:29,650 --> 00:17:29,690
 Former Warlord of the Sea
 
-947
+628
 00:17:29,690 --> 00:17:29,730
 Chairman Buggy "the Bombastic Clown"
-
-948
-00:17:29,690 --> 00:17:29,730
 Buggy's Delivery
-
-949
-00:17:29,690 --> 00:17:29,730
 Former Warlord of the Sea
 
-950
+629
 00:17:29,730 --> 00:17:29,770
 Chairman Buggy "the Bombastic Clown"
-
-951
-00:17:29,730 --> 00:17:29,770
 Buggy's Delivery
-
-952
-00:17:29,730 --> 00:17:29,770
 Former Warlord of the Sea
 
-953
+630
 00:17:29,770 --> 00:17:29,820
 Chairman Buggy "the Bombastic Clown"
-
-954
-00:17:29,770 --> 00:17:29,820
 Buggy's Delivery
-
-955
-00:17:29,770 --> 00:17:29,820
 Former Warlord of the Sea
 
-956
+631
 00:17:29,820 --> 00:17:29,860
 Chairman Buggy "the Bombastic Clown"
-
-957
-00:17:29,820 --> 00:17:29,860
 Buggy's Delivery
-
-958
-00:17:29,820 --> 00:17:29,860
 Former Warlord of the Sea
 
-959
+632
 00:17:29,860 --> 00:17:29,900
 Chairman Buggy "the Bombastic Clown"
-
-960
-00:17:29,860 --> 00:17:29,900
 Buggy's Delivery
-
-961
-00:17:29,860 --> 00:17:29,900
 Former Warlord of the Sea
 
-962
+633
 00:17:29,900 --> 00:17:29,940
 Chairman Buggy "the Bombastic Clown"
-
-963
-00:17:29,900 --> 00:17:29,940
 Buggy's Delivery
-
-964
-00:17:29,900 --> 00:17:29,940
 Former Warlord of the Sea
 
-965
+634
 00:17:29,940 --> 00:17:29,980
 Chairman Buggy "the Bombastic Clown"
-
-966
-00:17:29,940 --> 00:17:29,980
 Buggy's Delivery
-
-967
-00:17:29,940 --> 00:17:29,980
 Former Warlord of the Sea
 
-968
+635
 00:17:29,980 --> 00:17:30,020
 Chairman Buggy "the Bombastic Clown"
-
-969
-00:17:29,980 --> 00:17:30,020
 Buggy's Delivery
-
-970
-00:17:29,980 --> 00:17:30,020
 Former Warlord of the Sea
 
-971
+636
 00:17:30,020 --> 00:17:30,070
 Chairman Buggy "the Bombastic Clown"
-
-972
-00:17:30,020 --> 00:17:30,070
 Buggy's Delivery
-
-973
-00:17:30,020 --> 00:17:30,070
 Former Warlord of the Sea
 
-974
+637
 00:17:30,070 --> 00:17:30,110
 Chairman Buggy "the Bombastic Clown"
-
-975
-00:17:30,070 --> 00:17:30,110
 Buggy's Delivery
-
-976
-00:17:30,070 --> 00:17:30,110
 Former Warlord of the Sea
 
-977
+638
 00:17:30,110 --> 00:17:30,150
 Chairman Buggy "the Bombastic Clown"
-
-978
-00:17:30,110 --> 00:17:30,150
 Buggy's Delivery
-
-979
-00:17:30,110 --> 00:17:30,150
 Former Warlord of the Sea
 
-980
+639
 00:17:30,150 --> 00:17:30,190
 Chairman Buggy "the Bombastic Clown"
-
-981
-00:17:30,150 --> 00:17:30,190
 Buggy's Delivery
-
-982
-00:17:30,150 --> 00:17:30,190
 Former Warlord of the Sea
 
-983
+640
 00:17:30,190 --> 00:17:30,230
 Chairman Buggy "the Bombastic Clown"
-
-984
-00:17:30,190 --> 00:17:30,230
 Buggy's Delivery
-
-985
-00:17:30,190 --> 00:17:30,230
 Former Warlord of the Sea
 
-986
+641
 00:17:30,230 --> 00:17:30,270
 Chairman Buggy "the Bombastic Clown"
-
-987
-00:17:30,230 --> 00:17:30,270
 Buggy's Delivery
-
-988
-00:17:30,230 --> 00:17:30,270
 Former Warlord of the Sea
 
-989
+642
 00:17:30,270 --> 00:17:30,320
 Chairman Buggy "the Bombastic Clown"
-
-990
-00:17:30,270 --> 00:17:30,320
 Buggy's Delivery
-
-991
-00:17:30,270 --> 00:17:30,320
 Former Warlord of the Sea
 
-992
+643
 00:17:30,320 --> 00:17:30,360
 Chairman Buggy "the Bombastic Clown"
-
-993
-00:17:30,320 --> 00:17:30,360
 Buggy's Delivery
-
-994
-00:17:30,320 --> 00:17:30,360
 Former Warlord of the Sea
 
-995
+644
 00:17:30,360 --> 00:17:30,400
 Chairman Buggy "the Bombastic Clown"
-
-996
-00:17:30,360 --> 00:17:30,400
 Buggy's Delivery
-
-997
-00:17:30,360 --> 00:17:30,400
 Former Warlord of the Sea
 
-998
+645
 00:17:30,400 --> 00:17:30,440
 Chairman Buggy "the Bombastic Clown"
-
-999
-00:17:30,400 --> 00:17:30,440
 Buggy's Delivery
-
-1000
-00:17:30,400 --> 00:17:30,440
 Former Warlord of the Sea
 
-1001
+646
 00:17:30,440 --> 00:17:30,480
 Chairman Buggy "the Bombastic Clown"
-
-1002
-00:17:30,440 --> 00:17:30,480
 Buggy's Delivery
-
-1003
-00:17:30,440 --> 00:17:30,480
 Former Warlord of the Sea
 
-1004
+647
 00:17:30,480 --> 00:17:30,520
 Chairman Buggy "the Bombastic Clown"
-
-1005
-00:17:30,480 --> 00:17:30,520
 Buggy's Delivery
-
-1006
-00:17:30,480 --> 00:17:30,520
 Former Warlord of the Sea
 
-1007
+648
 00:17:30,520 --> 00:17:30,570
 Chairman Buggy "the Bombastic Clown"
-
-1008
-00:17:30,520 --> 00:17:30,570
 Buggy's Delivery
-
-1009
-00:17:30,520 --> 00:17:30,570
 Former Warlord of the Sea
 
-1010
+649
 00:17:30,570 --> 00:17:30,610
 Chairman Buggy "the Bombastic Clown"
-
-1011
-00:17:30,570 --> 00:17:30,610
 Buggy's Delivery
-
-1012
-00:17:30,570 --> 00:17:30,610
 Former Warlord of the Sea
 
-1013
+650
 00:17:30,610 --> 00:17:30,650
 Chairman Buggy "the Bombastic Clown"
-
-1014
-00:17:30,610 --> 00:17:30,650
 Buggy's Delivery
-
-1015
-00:17:30,610 --> 00:17:30,650
 Former Warlord of the Sea
 
-1016
+651
 00:17:30,650 --> 00:17:30,690
 Chairman Buggy "the Bombastic Clown"
-
-1017
-00:17:30,650 --> 00:17:30,690
 Buggy's Delivery
-
-1018
-00:17:30,650 --> 00:17:30,690
 Former Warlord of the Sea
 
-1019
+652
 00:17:30,690 --> 00:17:30,730
 Chairman Buggy "the Bombastic Clown"
-
-1020
-00:17:30,690 --> 00:17:30,730
 Buggy's Delivery
-
-1021
-00:17:30,690 --> 00:17:30,730
 Former Warlord of the Sea
 
-1022
+653
 00:17:30,730 --> 00:17:30,770
 Chairman Buggy "the Bombastic Clown"
-
-1023
-00:17:30,730 --> 00:17:30,770
 Buggy's Delivery
-
-1024
-00:17:30,730 --> 00:17:30,770
 Former Warlord of the Sea
 
-1025
+654
 00:17:30,770 --> 00:17:30,820
 Chairman Buggy "the Bombastic Clown"
-
-1026
-00:17:30,770 --> 00:17:30,820
 Buggy's Delivery
-
-1027
-00:17:30,770 --> 00:17:30,820
 Former Warlord of the Sea
 
-1028
+655
 00:17:30,820 --> 00:17:30,860
 Chairman Buggy "the Bombastic Clown"
-
-1029
-00:17:30,820 --> 00:17:30,860
 Buggy's Delivery
-
-1030
-00:17:30,820 --> 00:17:30,860
 Former Warlord of the Sea
 
-1031
+656
 00:17:30,860 --> 00:17:30,900
 Chairman Buggy "the Bombastic Clown"
-
-1032
-00:17:30,860 --> 00:17:30,900
 Buggy's Delivery
-
-1033
-00:17:30,860 --> 00:17:30,900
 Former Warlord of the Sea
 
-1034
+657
 00:17:30,900 --> 00:17:30,940
 Chairman Buggy "the Bombastic Clown"
-
-1035
-00:17:30,900 --> 00:17:30,940
 Buggy's Delivery
-
-1036
-00:17:30,900 --> 00:17:30,940
 Former Warlord of the Sea
 
-1037
+658
 00:17:30,940 --> 00:17:30,980
 Chairman Buggy "the Bombastic Clown"
-
-1038
-00:17:30,940 --> 00:17:30,980
 Buggy's Delivery
-
-1039
-00:17:30,940 --> 00:17:30,980
 Former Warlord of the Sea
 
-1040
+659
 00:17:30,980 --> 00:17:31,020
 Chairman Buggy "the Bombastic Clown"
-
-1041
-00:17:30,980 --> 00:17:31,020
 Buggy's Delivery
-
-1042
-00:17:30,980 --> 00:17:31,020
 Former Warlord of the Sea
 
-1043
+660
 00:17:31,020 --> 00:17:31,070
 Chairman Buggy "the Bombastic Clown"
-
-1044
-00:17:31,020 --> 00:17:31,070
 Buggy's Delivery
-
-1045
-00:17:31,020 --> 00:17:31,070
 Former Warlord of the Sea
 
-1046
+661
 00:17:31,070 --> 00:17:31,110
 Chairman Buggy "the Bombastic Clown"
-
-1047
-00:17:31,070 --> 00:17:31,110
 Buggy's Delivery
-
-1048
-00:17:31,070 --> 00:17:31,110
 Former Warlord of the Sea
 
-1049
+662
 00:17:31,110 --> 00:17:31,150
 Chairman Buggy "the Bombastic Clown"
-
-1050
-00:17:31,110 --> 00:17:31,150
 Buggy's Delivery
-
-1051
-00:17:31,110 --> 00:17:31,150
 Former Warlord of the Sea
 
-1052
+663
 00:17:31,150 --> 00:17:31,190
 Chairman Buggy "the Bombastic Clown"
-
-1053
-00:17:31,150 --> 00:17:31,190
 Buggy's Delivery
-
-1054
-00:17:31,150 --> 00:17:31,190
 Former Warlord of the Sea
 
-1055
+664
 00:17:31,190 --> 00:17:31,230
 Chairman Buggy "the Bombastic Clown"
-
-1056
-00:17:31,190 --> 00:17:31,230
 Buggy's Delivery
-
-1057
-00:17:31,190 --> 00:17:31,230
 Former Warlord of the Sea
 
-1058
+665
 00:17:31,230 --> 00:17:31,280
 Chairman Buggy "the Bombastic Clown"
-
-1059
-00:17:31,230 --> 00:17:31,280
 Buggy's Delivery
-
-1060
-00:17:31,230 --> 00:17:31,280
 Former Warlord of the Sea
 
-1061
+666
 00:17:31,280 --> 00:17:31,320
 Chairman Buggy "the Bombastic Clown"
-
-1062
-00:17:31,280 --> 00:17:31,320
 Buggy's Delivery
-
-1063
-00:17:31,280 --> 00:17:31,320
 Former Warlord of the Sea
 
-1064
+667
 00:17:31,320 --> 00:17:31,360
 Chairman Buggy "the Bombastic Clown"
-
-1065
-00:17:31,320 --> 00:17:31,360
 Buggy's Delivery
-
-1066
-00:17:31,320 --> 00:17:31,360
 Former Warlord of the Sea
 
-1067
+668
 00:17:31,360 --> 00:17:31,400
 Chairman Buggy "the Bombastic Clown"
-
-1068
-00:17:31,360 --> 00:17:31,400
 Buggy's Delivery
-
-1069
-00:17:31,360 --> 00:17:31,400
 Former Warlord of the Sea
 
-1070
+669
 00:17:31,400 --> 00:17:31,440
 Chairman Buggy "the Bombastic Clown"
-
-1071
-00:17:31,400 --> 00:17:31,440
 Buggy's Delivery
-
-1072
-00:17:31,400 --> 00:17:31,440
 Former Warlord of the Sea
 
-1073
+670
 00:17:31,440 --> 00:17:31,480
 Chairman Buggy "the Bombastic Clown"
-
-1074
-00:17:31,440 --> 00:17:31,480
 Buggy's Delivery
-
-1075
-00:17:31,440 --> 00:17:31,480
 Former Warlord of the Sea
 
-1076
+671
 00:17:31,480 --> 00:17:31,530
 Chairman Buggy "the Bombastic Clown"
-
-1077
-00:17:31,480 --> 00:17:31,530
 Buggy's Delivery
-
-1078
-00:17:31,480 --> 00:17:31,530
 Former Warlord of the Sea
 
-1079
+672
 00:17:31,530 --> 00:17:31,570
 Chairman Buggy "the Bombastic Clown"
-
-1080
-00:17:31,530 --> 00:17:31,570
 Buggy's Delivery
-
-1081
-00:17:31,530 --> 00:17:31,570
 Former Warlord of the Sea
 
-1082
+673
 00:17:31,570 --> 00:17:31,610
 Chairman Buggy "the Bombastic Clown"
-
-1083
-00:17:31,570 --> 00:17:31,610
 Buggy's Delivery
-
-1084
-00:17:31,570 --> 00:17:31,610
 Former Warlord of the Sea
 
-1085
+674
 00:17:31,610 --> 00:17:31,650
 Chairman Buggy "the Bombastic Clown"
-
-1086
-00:17:31,610 --> 00:17:31,650
 Buggy's Delivery
-
-1087
-00:17:31,610 --> 00:17:31,650
 Former Warlord of the Sea
 
-1088
+675
 00:17:31,650 --> 00:17:31,690
 Chairman Buggy "the Bombastic Clown"
-
-1089
-00:17:31,650 --> 00:17:31,690
 Buggy's Delivery
-
-1090
-00:17:31,650 --> 00:17:31,690
 Former Warlord of the Sea
 
-1091
+676
 00:17:31,690 --> 00:17:31,730
 Chairman Buggy "the Bombastic Clown"
-
-1092
-00:17:31,690 --> 00:17:31,730
 Buggy's Delivery
-
-1093
-00:17:31,690 --> 00:17:31,730
 Former Warlord of the Sea
 
-1094
+677
 00:17:31,730 --> 00:17:31,780
 Chairman Buggy "the Bombastic Clown"
-
-1095
-00:17:31,730 --> 00:17:31,780
 Buggy's Delivery
-
-1096
-00:17:31,730 --> 00:17:31,780
 Former Warlord of the Sea
 
-1097
+678
 00:17:31,780 --> 00:17:31,820
 Chairman Buggy "the Bombastic Clown"
-
-1098
-00:17:31,780 --> 00:17:31,820
 Buggy's Delivery
-
-1099
-00:17:31,780 --> 00:17:31,820
 Former Warlord of the Sea
 
-1100
+679
 00:17:31,820 --> 00:17:31,860
 Chairman Buggy "the Bombastic Clown"
-
-1101
-00:17:31,820 --> 00:17:31,860
 Buggy's Delivery
-
-1102
-00:17:31,820 --> 00:17:31,860
 Former Warlord of the Sea
 
-1103
+680
 00:17:31,860 --> 00:17:31,900
 Chairman Buggy "the Bombastic Clown"
-
-1104
-00:17:31,860 --> 00:17:31,900
 Buggy's Delivery
-
-1105
-00:17:31,860 --> 00:17:31,900
 Former Warlord of the Sea
 
-1106
+681
 00:17:31,900 --> 00:17:31,940
 Chairman Buggy "the Bombastic Clown"
-
-1107
-00:17:31,900 --> 00:17:31,940
 Buggy's Delivery
-
-1108
-00:17:31,900 --> 00:17:31,940
 Former Warlord of the Sea
 
-1109
+682
 00:17:31,940 --> 00:17:31,980
 Chairman Buggy "the Bombastic Clown"
-
-1110
-00:17:31,940 --> 00:17:31,980
 Buggy's Delivery
-
-1111
-00:17:31,940 --> 00:17:31,980
 Former Warlord of the Sea
 
-1112
+683
 00:17:31,980 --> 00:17:32,030
 Chairman Buggy "the Bombastic Clown"
-
-1113
-00:17:31,980 --> 00:17:32,030
 Buggy's Delivery
-
-1114
-00:17:31,980 --> 00:17:32,030
 Former Warlord of the Sea
 
-1115
+684
 00:17:32,030 --> 00:17:32,070
 Chairman Buggy "the Bombastic Clown"
-
-1116
-00:17:32,030 --> 00:17:32,070
 Buggy's Delivery
-
-1117
-00:17:32,030 --> 00:17:32,070
 Former Warlord of the Sea
 
-1118
+685
 00:17:32,070 --> 00:17:32,110
 Chairman Buggy "the Bombastic Clown"
-
-1119
-00:17:32,070 --> 00:17:32,110
 Buggy's Delivery
-
-1120
-00:17:32,070 --> 00:17:32,110
 Former Warlord of the Sea
 
-1121
+686
 00:17:32,110 --> 00:17:32,150
 Chairman Buggy "the Bombastic Clown"
-
-1122
-00:17:32,110 --> 00:17:32,150
 Buggy's Delivery
-
-1123
-00:17:32,110 --> 00:17:32,150
 Former Warlord of the Sea
 
-1124
+687
 00:17:32,150 --> 00:17:32,190
 Chairman Buggy "the Bombastic Clown"
-
-1125
-00:17:32,150 --> 00:17:32,190
 Buggy's Delivery
-
-1126
-00:17:32,150 --> 00:17:32,190
 Former Warlord of the Sea
 
-1127
+688
 00:17:32,190 --> 00:17:32,230
 Chairman Buggy "the Bombastic Clown"
-
-1128
-00:17:32,190 --> 00:17:32,230
 Buggy's Delivery
-
-1129
-00:17:32,190 --> 00:17:32,230
 Former Warlord of the Sea
 
-1130
+689
 00:17:32,230 --> 00:17:32,280
 Chairman Buggy "the Bombastic Clown"
-
-1131
-00:17:32,230 --> 00:17:32,280
 Buggy's Delivery
-
-1132
-00:17:32,230 --> 00:17:32,280
 Former Warlord of the Sea
 
-1133
+690
 00:17:32,280 --> 00:17:32,320
 Chairman Buggy "the Bombastic Clown"
-
-1134
-00:17:32,280 --> 00:17:32,320
 Buggy's Delivery
-
-1135
-00:17:32,280 --> 00:17:32,320
 Former Warlord of the Sea
 
-1136
+691
 00:17:32,320 --> 00:17:32,360
 Chairman Buggy "the Bombastic Clown"
-
-1137
-00:17:32,320 --> 00:17:32,360
 Buggy's Delivery
-
-1138
-00:17:32,320 --> 00:17:32,360
 Former Warlord of the Sea
 
-1139
+692
 00:17:32,360 --> 00:17:32,400
 Chairman Buggy "the Bombastic Clown"
-
-1140
-00:17:32,360 --> 00:17:32,400
 Buggy's Delivery
-
-1141
-00:17:32,360 --> 00:17:32,400
 Former Warlord of the Sea
 
-1142
+693
 00:17:32,400 --> 00:17:32,440
 Chairman Buggy "the Bombastic Clown"
-
-1143
-00:17:32,400 --> 00:17:32,440
 Buggy's Delivery
-
-1144
-00:17:32,400 --> 00:17:32,440
 Former Warlord of the Sea
 
-1145
+694
 00:17:32,440 --> 00:17:32,480
 Chairman Buggy "the Bombastic Clown"
-
-1146
-00:17:32,440 --> 00:17:32,480
 Buggy's Delivery
-
-1147
-00:17:32,440 --> 00:17:32,480
 Former Warlord of the Sea
 
-1148
+695
 00:17:32,480 --> 00:17:32,530
 Chairman Buggy "the Bombastic Clown"
-
-1149
-00:17:32,480 --> 00:17:32,530
 Buggy's Delivery
-
-1150
-00:17:32,480 --> 00:17:32,530
 Former Warlord of the Sea
 
-1151
+696
 00:17:32,530 --> 00:17:32,570
 Chairman Buggy "the Bombastic Clown"
-
-1152
-00:17:32,530 --> 00:17:32,570
 Buggy's Delivery
-
-1153
-00:17:32,530 --> 00:17:32,570
 Former Warlord of the Sea
 
-1154
+697
 00:17:32,570 --> 00:17:32,610
 Chairman Buggy "the Bombastic Clown"
-
-1155
-00:17:32,570 --> 00:17:32,610
 Buggy's Delivery
-
-1156
-00:17:32,570 --> 00:17:32,610
 Former Warlord of the Sea
 
-1157
+698
 00:17:32,610 --> 00:17:32,650
 Chairman Buggy "the Bombastic Clown"
-
-1158
-00:17:32,610 --> 00:17:32,650
 Buggy's Delivery
-
-1159
-00:17:32,610 --> 00:17:32,650
 Former Warlord of the Sea
 
-1160
+699
 00:17:32,650 --> 00:17:32,690
 Chairman Buggy "the Bombastic Clown"
-
-1161
-00:17:32,650 --> 00:17:32,690
 Buggy's Delivery
-
-1162
-00:17:32,650 --> 00:17:32,690
 Former Warlord of the Sea
 
-1163
+700
 00:17:32,690 --> 00:17:32,730
 Chairman Buggy "the Bombastic Clown"
-
-1164
-00:17:32,690 --> 00:17:32,730
 Buggy's Delivery
-
-1165
-00:17:32,690 --> 00:17:32,730
 Former Warlord of the Sea
 
-1166
+701
 00:17:32,730 --> 00:17:32,780
 Chairman Buggy "the Bombastic Clown"
-
-1167
-00:17:32,730 --> 00:17:32,780
 Buggy's Delivery
-
-1168
-00:17:32,730 --> 00:17:32,780
 Former Warlord of the Sea
 
-1169
+702
 00:17:32,780 --> 00:17:32,820
 Chairman Buggy "the Bombastic Clown"
-
-1170
-00:17:32,780 --> 00:17:32,820
 Buggy's Delivery
-
-1171
-00:17:32,780 --> 00:17:32,820
 Former Warlord of the Sea
 
-1172
+703
 00:17:32,820 --> 00:17:32,860
 Chairman Buggy "the Bombastic Clown"
-
-1173
-00:17:32,820 --> 00:17:32,860
 Buggy's Delivery
-
-1174
-00:17:32,820 --> 00:17:32,860
 Former Warlord of the Sea
 
-1175
+704
 00:17:32,860 --> 00:17:32,900
 Chairman Buggy "the Bombastic Clown"
-
-1176
-00:17:32,860 --> 00:17:32,900
 Buggy's Delivery
-
-1177
-00:17:32,860 --> 00:17:32,900
 Former Warlord of the Sea
 
-1178
+705
 00:17:32,900 --> 00:17:32,940
 Chairman Buggy "the Bombastic Clown"
-
-1179
-00:17:32,900 --> 00:17:32,940
 Buggy's Delivery
-
-1180
-00:17:32,900 --> 00:17:32,940
 Former Warlord of the Sea
 
-1181
+706
 00:17:32,940 --> 00:17:32,990
 Chairman Buggy "the Bombastic Clown"
-
-1182
-00:17:32,940 --> 00:17:32,990
 Buggy's Delivery
-
-1183
-00:17:32,940 --> 00:17:32,990
 Former Warlord of the Sea
 
-1184
+707
 00:17:32,990 --> 00:17:33,030
 Chairman Buggy "the Bombastic Clown"
-
-1185
-00:17:32,990 --> 00:17:33,030
 Buggy's Delivery
-
-1186
-00:17:32,990 --> 00:17:33,030
 Former Warlord of the Sea
 
-1187
+708
 00:17:33,030 --> 00:17:33,070
 Chairman Buggy "the Bombastic Clown"
-
-1188
-00:17:33,030 --> 00:17:33,070
 Buggy's Delivery
-
-1189
-00:17:33,030 --> 00:17:33,070
 Former Warlord of the Sea
 
-1190
+709
 00:17:33,070 --> 00:17:33,110
 Chairman Buggy "the Bombastic Clown"
-
-1191
-00:17:33,070 --> 00:17:33,110
 Buggy's Delivery
-
-1192
-00:17:33,070 --> 00:17:33,110
 Former Warlord of the Sea
 
-1193
+710
 00:17:33,110 --> 00:17:33,150
 Chairman Buggy "the Bombastic Clown"
-
-1194
-00:17:33,110 --> 00:17:33,150
 Buggy's Delivery
-
-1195
-00:17:33,110 --> 00:17:33,150
 Former Warlord of the Sea
 
-1196
+711
 00:17:33,150 --> 00:17:33,190
 Chairman Buggy "the Bombastic Clown"
-
-1197
-00:17:33,150 --> 00:17:33,190
 Buggy's Delivery
-
-1198
-00:17:33,150 --> 00:17:33,190
 Former Warlord of the Sea
 
-1199
+712
 00:17:33,530 --> 00:17:36,700
 Seems like they're not on our side anymore!
 
-1200
+713
 00:17:36,700 --> 00:17:39,370
 How incredibly unforgivable...
 
-1201
+714
 00:17:39,370 --> 00:17:40,910
 Weevil!
 
-1202
+715
 00:17:40,910 --> 00:17:43,000
 You have permission to take them down!
 
-1203
+716
 00:17:43,000 --> 00:17:44,800
 R-Really?!
 
-1204
+717
 00:17:44,800 --> 00:17:48,050
 In that case, I'm gonna kill 'em...
 
-1205
+718
 00:17:48,290 --> 00:17:48,330
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1206
+719
 00:17:48,330 --> 00:17:48,380
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1207
+720
 00:17:48,380 --> 00:17:48,420
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1208
+721
 00:17:48,420 --> 00:17:48,460
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1209
+722
 00:17:48,460 --> 00:17:48,500
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1210
+723
 00:17:48,510 --> 00:17:49,010
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1211
+724
 00:17:49,000 --> 00:17:49,040
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1212
+725
 00:17:49,040 --> 00:17:49,080
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1213
+726
 00:17:49,080 --> 00:17:49,130
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1214
+727
 00:17:49,130 --> 00:17:49,170
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1215
+728
 00:17:49,170 --> 00:17:49,210
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1216
+729
 00:17:49,210 --> 00:17:49,250
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1217
+730
 00:17:49,250 --> 00:17:49,290
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1218
+731
 00:17:49,290 --> 00:17:49,330
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1219
+732
 00:17:49,330 --> 00:17:49,380
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1220
+733
 00:17:49,380 --> 00:17:49,420
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1221
+734
 00:17:49,420 --> 00:17:49,460
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1222
+735
 00:17:49,460 --> 00:17:49,500
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1223
+736
 00:17:49,500 --> 00:17:49,540
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1224
+737
 00:17:49,540 --> 00:17:49,590
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1225
+738
 00:17:49,590 --> 00:17:49,630
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1226
+739
 00:17:49,630 --> 00:17:52,590
 in the name of Whitebeard!
 
-1227
+740
 00:17:49,630 --> 00:17:49,670
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1228
+741
 00:17:49,670 --> 00:17:49,710
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1229
+742
 00:17:49,710 --> 00:17:49,750
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1230
+743
 00:17:49,750 --> 00:17:49,790
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1231
+744
 00:17:49,790 --> 00:17:49,840
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1232
+745
 00:17:49,840 --> 00:17:49,880
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1233
+746
 00:17:49,880 --> 00:17:49,920
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1234
+747
 00:17:49,920 --> 00:17:49,960
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1235
+748
 00:17:49,960 --> 00:17:50,000
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1236
+749
 00:17:50,000 --> 00:17:50,040
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1237
+750
 00:17:50,040 --> 00:17:50,090
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1238
+751
 00:17:50,090 --> 00:17:50,130
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1239
+752
 00:17:50,130 --> 00:17:50,170
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1240
+753
 00:17:50,170 --> 00:17:50,210
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1241
+754
 00:17:50,210 --> 00:17:50,250
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1242
+755
 00:17:50,250 --> 00:17:50,290
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1243
+756
 00:17:50,290 --> 00:17:50,340
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1244
+757
 00:17:50,340 --> 00:17:50,380
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1245
+758
 00:17:50,380 --> 00:17:50,420
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1246
+759
 00:17:50,420 --> 00:17:50,460
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1247
+760
 00:17:50,460 --> 00:17:50,500
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1248
+761
 00:17:50,500 --> 00:17:50,540
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1249
+762
 00:17:50,540 --> 00:17:50,590
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1250
+763
 00:17:50,590 --> 00:17:50,630
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1251
+764
 00:17:50,630 --> 00:17:50,670
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1252
+765
 00:17:50,670 --> 00:17:50,710
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1253
+766
 00:17:50,710 --> 00:17:50,750
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1254
+767
 00:17:50,750 --> 00:17:50,790
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1255
+768
 00:17:50,790 --> 00:17:50,840
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1256
+769
 00:17:50,840 --> 00:17:50,880
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1257
+770
 00:17:50,880 --> 00:17:50,920
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1258
+771
 00:17:50,920 --> 00:17:50,960
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1259
+772
 00:17:50,960 --> 00:17:51,000
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1260
+773
 00:17:51,000 --> 00:17:51,040
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1261
+774
 00:17:51,040 --> 00:17:51,090
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1262
+775
 00:17:51,090 --> 00:17:51,130
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1263
+776
 00:17:51,130 --> 00:17:51,170
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1264
+777
 00:17:51,170 --> 00:17:51,210
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1265
+778
 00:17:51,210 --> 00:17:51,250
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1266
+779
 00:17:51,250 --> 00:17:51,300
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1267
+780
 00:17:51,300 --> 00:17:51,340
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1268
+781
 00:17:51,340 --> 00:17:51,380
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1269
+782
 00:17:51,380 --> 00:17:51,420
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1270
+783
 00:17:51,420 --> 00:17:51,460
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1271
+784
 00:17:51,460 --> 00:17:51,500
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1272
+785
 00:17:51,500 --> 00:17:51,550
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1273
+786
 00:17:51,550 --> 00:17:51,590
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1274
+787
 00:17:51,590 --> 00:17:51,630
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1275
+788
 00:17:51,630 --> 00:17:51,670
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1276
+789
 00:17:51,670 --> 00:17:51,710
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1277
+790
 00:17:51,710 --> 00:17:51,750
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1278
+791
 00:17:51,750 --> 00:17:51,800
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1279
+792
 00:17:51,800 --> 00:17:51,840
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1280
+793
 00:17:51,840 --> 00:17:51,880
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1281
+794
 00:17:51,880 --> 00:17:51,920
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1282
+795
 00:17:51,920 --> 00:17:51,960
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1283
+796
 00:17:51,960 --> 00:17:52,000
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1284
+797
 00:17:52,000 --> 00:17:52,050
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1285
+798
 00:17:52,050 --> 00:17:52,090
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1286
+799
 00:17:52,090 --> 00:17:52,130
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1287
+800
 00:17:52,130 --> 00:17:52,170
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1288
+801
 00:17:52,170 --> 00:17:52,210
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1289
+802
 00:17:52,210 --> 00:17:52,250
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1290
+803
 00:17:52,250 --> 00:17:52,300
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1291
+804
 00:17:52,300 --> 00:17:52,340
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1292
+805
 00:17:52,340 --> 00:17:52,380
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1293
+806
 00:17:52,380 --> 00:17:52,420
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1294
+807
 00:17:52,420 --> 00:17:52,460
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1295
+808
 00:17:52,460 --> 00:17:52,500
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1296
+809
 00:17:52,500 --> 00:17:52,550
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1297
+810
 00:17:52,550 --> 00:17:52,590
 Edward "Whitebeard Jr. (Self-Proclaimed)" Weevil
 Former Warlord of the Sea
 
-1298
+811
 00:17:53,260 --> 00:17:54,890
 I feel a tremor of excitement.
 
-1299
+812
 00:17:55,640 --> 00:17:57,260
 It's been a long time...
 
-1300
+813
 00:17:57,350 --> 00:17:57,390
 Dracule Mihawk
 "Hawk Eye"
-
-1301
-00:17:57,350 --> 00:17:57,390
 Former Warlord 
 of the Sea
 
-1302
+814
 00:17:57,390 --> 00:17:57,430
 Dracule Mihawk
 "Hawk Eye"
-
-1303
-00:17:57,390 --> 00:17:57,430
 Former Warlord 
 of the Sea
 
-1304
+815
 00:17:57,430 --> 00:17:57,470
 Dracule Mihawk
 "Hawk Eye"
-
-1305
-00:17:57,430 --> 00:17:57,470
 Former Warlord 
 of the Sea
 
-1306
+816
 00:17:57,470 --> 00:17:57,510
 Dracule Mihawk
 "Hawk Eye"
-
-1307
-00:17:57,470 --> 00:17:57,510
 Former Warlord 
 of the Sea
 
-1308
+817
 00:17:57,510 --> 00:17:57,600
 Dracule Mihawk
 "Hawk Eye"
 
-1309
+818
 00:17:57,510 --> 00:17:57,560
 Former Warlord 
 of the Sea
 
-1310
+819
 00:17:57,560 --> 00:17:57,600
 Former Warlord
 
-1311
+820
 00:17:57,600 --> 00:17:57,640
 Dracule Mihawk
 "Hawk Eye"
-
-1312
-00:17:57,600 --> 00:17:57,640
 Former Warlord 
 of the Sea
 
-1313
+821
 00:17:57,680 --> 00:17:57,760
 Dracule Mihawk
-
-1314
-00:17:57,680 --> 00:17:57,760
 Former Warlord
 
-1315
+822
 00:17:57,760 --> 00:17:57,800
 Dracule Mihawk
 "Hawk Eye"
-
-1316
-00:17:57,760 --> 00:17:57,800
 Former Warlord 
 of the Sea
 
-1317
+823
 00:17:57,800 --> 00:17:57,840
 Dracule Mihawk
 "Hawk Eye"
-
-1318
-00:17:57,800 --> 00:17:57,840
 Former Warlord 
 of the Sea
 
-1319
+824
 00:17:57,840 --> 00:17:57,880
 Dracule Mihawk
 "Hawk Eye"
-
-1320
-00:17:57,840 --> 00:17:57,880
 Former Warlord 
 of the Sea
 
-1321
+825
 00:17:57,880 --> 00:17:57,930
 Dracule Mihawk
 "Hawk Eye"
-
-1322
-00:17:57,880 --> 00:17:57,930
 Former Warlord 
 of the Sea
 
-1323
+826
 00:17:57,930 --> 00:17:57,970
 Dracule Mihawk
 "Hawk Eye"
-
-1324
-00:17:57,930 --> 00:17:57,970
 Former Warlord 
 of the Sea
 
-1325
+827
 00:17:57,970 --> 00:17:58,010
 Dracule Mihawk
 "Hawk Eye"
-
-1326
-00:17:57,970 --> 00:17:58,010
 Former Warlord 
 of the Sea
 
-1327
+828
 00:17:58,010 --> 00:17:58,050
 Dracule Mihawk
 "Hawk Eye"
-
-1328
-00:17:58,010 --> 00:17:58,050
 Former Warlord 
 of the Sea
 
-1329
+829
 00:17:58,050 --> 00:17:58,090
 Dracule Mihawk
 "Hawk Eye"
-
-1330
-00:17:58,050 --> 00:17:58,090
 Former Warlord 
 of the Sea
 
-1331
+830
 00:17:58,090 --> 00:17:58,140
 Dracule Mihawk
 "Hawk Eye"
-
-1332
-00:17:58,090 --> 00:17:58,140
 Former Warlord 
 of the Sea
 
-1333
+831
 00:17:58,140 --> 00:17:58,180
 Dracule Mihawk
 "Hawk Eye"
-
-1334
-00:17:58,140 --> 00:17:58,180
 Former Warlord 
 of the Sea
 
-1335
+832
 00:17:58,180 --> 00:17:58,220
 Dracule Mihawk
 "Hawk Eye"
-
-1336
-00:17:58,180 --> 00:17:58,220
 Former Warlord 
 of the Sea
 
-1337
+833
 00:17:58,220 --> 00:17:58,260
 Dracule Mihawk
 "Hawk Eye"
-
-1338
-00:17:58,220 --> 00:17:58,260
 Former Warlord 
 of the Sea
 
-1339
+834
 00:17:58,260 --> 00:17:58,300
 Dracule Mihawk
 "Hawk Eye"
-
-1340
-00:17:58,260 --> 00:17:58,300
 Former Warlord 
 of the Sea
 
-1341
+835
 00:17:58,300 --> 00:17:58,340
 Dracule Mihawk
 "Hawk Eye"
-
-1342
-00:17:58,300 --> 00:17:58,340
 Former Warlord 
 of the Sea
 
-1343
+836
 00:17:58,340 --> 00:17:58,390
 Dracule Mihawk
 "Hawk Eye"
-
-1344
-00:17:58,340 --> 00:17:58,390
 Former Warlord 
 of the Sea
 
-1345
+837
 00:17:58,390 --> 00:17:58,430
 Dracule Mihawk
 "Hawk Eye"
-
-1346
-00:17:58,390 --> 00:17:58,430
 Former Warlord 
 of the Sea
 
-1347
+838
 00:17:58,430 --> 00:17:58,470
 Dracule Mihawk
 "Hawk Eye"
-
-1348
-00:17:58,430 --> 00:17:58,470
 Former Warlord 
 of the Sea
 
-1349
+839
 00:17:58,470 --> 00:17:58,510
 Dracule Mihawk
 "Hawk Eye"
-
-1350
-00:17:58,470 --> 00:17:58,510
 Former Warlord 
 of the Sea
 
-1351
+840
 00:17:58,510 --> 00:17:58,550
 Dracule Mihawk
 "Hawk Eye"
-
-1352
-00:17:58,510 --> 00:17:58,550
 Former Warlord 
 of the Sea
 
-1353
+841
 00:17:58,550 --> 00:17:58,590
 Dracule Mihawk
 "Hawk Eye"
-
-1354
-00:17:58,550 --> 00:17:58,590
 Former Warlord 
 of the Sea
 
-1355
+842
 00:17:58,590 --> 00:17:58,640
 Dracule Mihawk
 "Hawk Eye"
-
-1356
-00:17:58,590 --> 00:17:58,640
 Former Warlord 
 of the Sea
 
-1357
+843
 00:17:58,640 --> 00:17:58,680
 Dracule Mihawk
 "Hawk Eye"
-
-1358
-00:17:58,640 --> 00:17:58,680
 Former Warlord 
 of the Sea
 
-1359
+844
 00:17:58,680 --> 00:17:58,720
 Dracule Mihawk
 "Hawk Eye"
-
-1360
-00:17:58,680 --> 00:17:58,720
 Former Warlord 
 of the Sea
 
-1361
+845
 00:17:58,720 --> 00:17:58,760
 Dracule Mihawk
 "Hawk Eye"
-
-1362
-00:17:58,720 --> 00:17:58,760
 Former Warlord 
 of the Sea
 
-1363
+846
 00:17:58,760 --> 00:17:58,800
 Dracule Mihawk
 "Hawk Eye"
-
-1364
-00:17:58,760 --> 00:17:58,800
 Former Warlord 
 of the Sea
 
-1365
+847
 00:17:58,800 --> 00:17:58,840
 Dracule Mihawk
 "Hawk Eye"
-
-1366
-00:17:58,800 --> 00:17:58,840
 Former Warlord 
 of the Sea
 
-1367
+848
 00:17:58,840 --> 00:17:58,890
 Dracule Mihawk
 "Hawk Eye"
-
-1368
-00:17:58,840 --> 00:17:58,890
 Former Warlord 
 of the Sea
 
-1369
+849
 00:17:58,890 --> 00:17:58,930
 Dracule Mihawk
 "Hawk Eye"
-
-1370
-00:17:58,890 --> 00:17:58,930
 Former Warlord 
 of the Sea
 
-1371
+850
 00:17:58,930 --> 00:17:58,970
 Dracule Mihawk
 "Hawk Eye"
-
-1372
-00:17:58,930 --> 00:17:58,970
 Former Warlord 
 of the Sea
 
-1373
+851
 00:17:58,970 --> 00:17:59,010
 Dracule Mihawk
 "Hawk Eye"
-
-1374
-00:17:58,970 --> 00:17:59,010
 Former Warlord 
 of the Sea
 
-1375
+852
 00:17:59,010 --> 00:17:59,050
 Dracule Mihawk
 "Hawk Eye"
-
-1376
-00:17:59,010 --> 00:17:59,050
 Former Warlord 
 of the Sea
 
-1377
+853
 00:17:59,050 --> 00:17:59,090
 Dracule Mihawk
 "Hawk Eye"
-
-1378
-00:17:59,050 --> 00:17:59,090
 Former Warlord 
 of the Sea
 
-1379
+854
 00:17:59,090 --> 00:17:59,140
 Dracule Mihawk
 "Hawk Eye"
-
-1380
-00:17:59,090 --> 00:17:59,140
 Former Warlord 
 of the Sea
 
-1381
+855
 00:17:59,140 --> 00:17:59,180
 Dracule Mihawk
 "Hawk Eye"
-
-1382
-00:17:59,140 --> 00:17:59,180
 Former Warlord 
 of the Sea
 
-1383
+856
 00:17:59,180 --> 00:17:59,220
 Dracule Mihawk
 "Hawk Eye"
-
-1384
-00:17:59,180 --> 00:17:59,220
 Former Warlord 
 of the Sea
 
-1385
+857
 00:17:59,220 --> 00:17:59,260
 Dracule Mihawk
 "Hawk Eye"
-
-1386
-00:17:59,220 --> 00:17:59,260
 Former Warlord 
 of the Sea
 
-1387
+858
 00:17:59,260 --> 00:17:59,300
 Dracule Mihawk
 "Hawk Eye"
-
-1388
-00:17:59,260 --> 00:17:59,300
 Former Warlord 
 of the Sea
 
-1389
+859
 00:17:59,270 --> 00:18:02,190
 since I was the one being hunted.
 
-1390
+860
 00:17:59,300 --> 00:17:59,340
 Dracule Mihawk
 "Hawk Eye"
-
-1391
-00:17:59,300 --> 00:17:59,340
 Former Warlord 
 of the Sea
 
-1392
+861
 00:17:59,340 --> 00:17:59,390
 Dracule Mihawk
 "Hawk Eye"
-
-1393
-00:17:59,340 --> 00:17:59,390
 Former Warlord 
 of the Sea
 
-1394
+862
 00:17:59,390 --> 00:17:59,430
 Dracule Mihawk
 "Hawk Eye"
-
-1395
-00:17:59,390 --> 00:17:59,430
 Former Warlord 
 of the Sea
 
-1396
+863
 00:17:59,430 --> 00:17:59,470
 Dracule Mihawk
 "Hawk Eye"
-
-1397
-00:17:59,430 --> 00:17:59,470
 Former Warlord 
 of the Sea
 
-1398
+864
 00:17:59,470 --> 00:17:59,510
 Dracule Mihawk
 "Hawk Eye"
-
-1399
-00:17:59,470 --> 00:17:59,510
 Former Warlord 
 of the Sea
 
-1400
+865
 00:17:59,510 --> 00:17:59,550
 Dracule Mihawk
 "Hawk Eye"
-
-1401
-00:17:59,510 --> 00:17:59,550
 Former Warlord 
 of the Sea
 
-1402
+866
 00:17:59,550 --> 00:17:59,600
 Dracule Mihawk
 "Hawk Eye"
-
-1403
-00:17:59,550 --> 00:17:59,600
 Former Warlord 
 of the Sea
 
-1404
+867
 00:17:59,600 --> 00:17:59,640
 Dracule Mihawk
 "Hawk Eye"
-
-1405
-00:17:59,600 --> 00:17:59,640
 Former Warlord 
 of the Sea
 
-1406
+868
 00:17:59,640 --> 00:17:59,680
 Dracule Mihawk
 "Hawk Eye"
-
-1407
-00:17:59,640 --> 00:17:59,680
 Former Warlord 
 of the Sea
 
-1408
+869
 00:17:59,680 --> 00:17:59,720
 Dracule Mihawk
 "Hawk Eye"
-
-1409
-00:17:59,680 --> 00:17:59,720
 Former Warlord 
 of the Sea
 
-1410
+870
 00:17:59,720 --> 00:17:59,760
 Dracule Mihawk
 "Hawk Eye"
-
-1411
-00:17:59,720 --> 00:17:59,760
 Former Warlord 
 of the Sea
 
-1412
+871
 00:17:59,760 --> 00:17:59,800
 Dracule Mihawk
 "Hawk Eye"
-
-1413
-00:17:59,760 --> 00:17:59,800
 Former Warlord 
 of the Sea
 
-1414
+872
 00:17:59,800 --> 00:17:59,850
 Dracule Mihawk
 "Hawk Eye"
-
-1415
-00:17:59,800 --> 00:17:59,850
 Former Warlord 
 of the Sea
 
-1416
+873
 00:17:59,850 --> 00:17:59,890
 Dracule Mihawk
 "Hawk Eye"
-
-1417
-00:17:59,850 --> 00:17:59,890
 Former Warlord 
 of the Sea
 
-1418
+874
 00:17:59,890 --> 00:17:59,930
 Dracule Mihawk
 "Hawk Eye"
-
-1419
-00:17:59,890 --> 00:17:59,930
 Former Warlord 
 of the Sea
 
-1420
+875
 00:17:59,930 --> 00:17:59,970
 Dracule Mihawk
 "Hawk Eye"
-
-1421
-00:17:59,930 --> 00:17:59,970
 Former Warlord 
 of the Sea
 
-1422
+876
 00:17:59,970 --> 00:18:00,010
 Dracule Mihawk
 "Hawk Eye"
-
-1423
-00:17:59,970 --> 00:18:00,010
 Former Warlord 
 of the Sea
 
-1424
+877
 00:18:00,010 --> 00:18:00,050
 Dracule Mihawk
 "Hawk Eye"
-
-1425
-00:18:00,010 --> 00:18:00,050
 Former Warlord 
 of the Sea
 
-1426
+878
 00:18:00,050 --> 00:18:00,100
 Dracule Mihawk
 "Hawk Eye"
-
-1427
-00:18:00,050 --> 00:18:00,100
 Former Warlord 
 of the Sea
 
-1428
+879
 00:18:00,100 --> 00:18:00,140
 Dracule Mihawk
 "Hawk Eye"
-
-1429
-00:18:00,100 --> 00:18:00,140
 Former Warlord 
 of the Sea
 
-1430
+880
 00:18:00,140 --> 00:18:00,180
 Dracule Mihawk
 "Hawk Eye"
-
-1431
-00:18:00,140 --> 00:18:00,180
 Former Warlord 
 of the Sea
 
-1432
+881
 00:18:00,180 --> 00:18:00,220
 Dracule Mihawk
 "Hawk Eye"
-
-1433
-00:18:00,180 --> 00:18:00,220
 Former Warlord 
 of the Sea
 
-1434
+882
 00:18:00,220 --> 00:18:00,260
 Dracule Mihawk
 "Hawk Eye"
-
-1435
-00:18:00,220 --> 00:18:00,260
 Former Warlord 
 of the Sea
 
-1436
+883
 00:18:00,260 --> 00:18:00,300
 Dracule Mihawk
 "Hawk Eye"
-
-1437
-00:18:00,260 --> 00:18:00,300
 Former Warlord 
 of the Sea
 
-1438
+884
 00:18:00,300 --> 00:18:00,350
 Dracule Mihawk
 "Hawk Eye"
-
-1439
-00:18:00,300 --> 00:18:00,350
 Former Warlord 
 of the Sea
 
-1440
+885
 00:18:00,350 --> 00:18:00,390
 Dracule Mihawk
 "Hawk Eye"
-
-1441
-00:18:00,350 --> 00:18:00,390
 Former Warlord 
 of the Sea
 
-1442
+886
 00:18:00,390 --> 00:18:00,430
 Dracule Mihawk
 "Hawk Eye"
-
-1443
-00:18:00,390 --> 00:18:00,430
 Former Warlord 
 of the Sea
 
-1444
+887
 00:18:00,430 --> 00:18:00,470
 Dracule Mihawk
 "Hawk Eye"
-
-1445
-00:18:00,430 --> 00:18:00,470
 Former Warlord 
 of the Sea
 
-1446
+888
 00:18:00,470 --> 00:18:00,510
 Dracule Mihawk
 "Hawk Eye"
-
-1447
-00:18:00,470 --> 00:18:00,510
 Former Warlord 
 of the Sea
 
-1448
+889
 00:18:00,510 --> 00:18:00,550
 Dracule Mihawk
 "Hawk Eye"
-
-1449
-00:18:00,510 --> 00:18:00,550
 Former Warlord 
 of the Sea
 
-1450
+890
 00:18:00,550 --> 00:18:00,600
 Dracule Mihawk
 "Hawk Eye"
-
-1451
-00:18:00,550 --> 00:18:00,600
 Former Warlord 
 of the Sea
 
-1452
+891
 00:18:00,600 --> 00:18:00,640
 Dracule Mihawk
 "Hawk Eye"
-
-1453
-00:18:00,600 --> 00:18:00,640
 Former Warlord 
 of the Sea
 
-1454
+892
 00:18:00,640 --> 00:18:00,680
 Dracule Mihawk
 "Hawk Eye"
-
-1455
-00:18:00,640 --> 00:18:00,680
 Former Warlord 
 of the Sea
 
-1456
+893
 00:18:00,680 --> 00:18:00,720
 Dracule Mihawk
 "Hawk Eye"
-
-1457
-00:18:00,680 --> 00:18:00,720
 Former Warlord 
 of the Sea
 
-1458
+894
 00:18:00,720 --> 00:18:00,760
 Dracule Mihawk
 "Hawk Eye"
-
-1459
-00:18:00,720 --> 00:18:00,760
 Former Warlord 
 of the Sea
 
-1460
+895
 00:18:00,760 --> 00:18:00,800
 Dracule Mihawk
 "Hawk Eye"
-
-1461
-00:18:00,760 --> 00:18:00,800
 Former Warlord 
 of the Sea
 
-1462
+896
 00:18:00,800 --> 00:18:00,850
 Dracule Mihawk
 "Hawk Eye"
-
-1463
-00:18:00,800 --> 00:18:00,850
 Former Warlord 
 of the Sea
 
-1464
+897
 00:18:00,850 --> 00:18:00,890
 Dracule Mihawk
 "Hawk Eye"
-
-1465
-00:18:00,850 --> 00:18:00,890
 Former Warlord 
 of the Sea
 
-1466
+898
 00:18:00,890 --> 00:18:00,930
 Dracule Mihawk
 "Hawk Eye"
-
-1467
-00:18:00,890 --> 00:18:00,930
 Former Warlord 
 of the Sea
 
-1468
+899
 00:18:00,930 --> 00:18:00,970
 Dracule Mihawk
 "Hawk Eye"
-
-1469
-00:18:00,930 --> 00:18:00,970
 Former Warlord 
 of the Sea
 
-1470
+900
 00:18:00,970 --> 00:18:01,010
 Dracule Mihawk
 "Hawk Eye"
-
-1471
-00:18:00,970 --> 00:18:01,010
 Former Warlord 
 of the Sea
 
-1472
+901
 00:18:01,010 --> 00:18:01,050
 Dracule Mihawk
 "Hawk Eye"
-
-1473
-00:18:01,010 --> 00:18:01,050
 Former Warlord 
 of the Sea
 
-1474
+902
 00:18:01,050 --> 00:18:01,100
 Dracule Mihawk
 "Hawk Eye"
-
-1475
-00:18:01,050 --> 00:18:01,100
 Former Warlord 
 of the Sea
 
-1476
+903
 00:18:01,100 --> 00:18:01,140
 Dracule Mihawk
 "Hawk Eye"
-
-1477
-00:18:01,100 --> 00:18:01,140
 Former Warlord 
 of the Sea
 
-1478
+904
 00:18:01,140 --> 00:18:01,180
 Dracule Mihawk
 "Hawk Eye"
-
-1479
-00:18:01,140 --> 00:18:01,180
 Former Warlord 
 of the Sea
 
-1480
+905
 00:18:01,180 --> 00:18:01,220
 Dracule Mihawk
 "Hawk Eye"
-
-1481
-00:18:01,180 --> 00:18:01,220
 Former Warlord 
 of the Sea
 
-1482
+906
 00:18:01,220 --> 00:18:01,260
 Dracule Mihawk
 "Hawk Eye"
-
-1483
-00:18:01,220 --> 00:18:01,260
 Former Warlord 
 of the Sea
 
-1484
+907
 00:18:01,260 --> 00:18:01,310
 Dracule Mihawk
 "Hawk Eye"
-
-1485
-00:18:01,260 --> 00:18:01,310
 Former Warlord 
 of the Sea
 
-1486
+908
 00:18:01,310 --> 00:18:01,350
 Dracule Mihawk
 "Hawk Eye"
-
-1487
-00:18:01,310 --> 00:18:01,350
 Former Warlord 
 of the Sea
 
-1488
+909
 00:18:01,350 --> 00:18:01,390
 Dracule Mihawk
 "Hawk Eye"
-
-1489
-00:18:01,350 --> 00:18:01,390
 Former Warlord 
 of the Sea
 
-1490
+910
 00:18:01,390 --> 00:18:01,430
 Dracule Mihawk
 "Hawk Eye"
-
-1491
-00:18:01,390 --> 00:18:01,430
 Former Warlord 
 of the Sea
 
-1492
+911
 00:18:01,430 --> 00:18:01,470
 Dracule Mihawk
 "Hawk Eye"
-
-1493
-00:18:01,430 --> 00:18:01,470
 Former Warlord 
 of the Sea
 
-1494
+912
 00:18:01,470 --> 00:18:01,510
 Dracule Mihawk
 "Hawk Eye"
-
-1495
-00:18:01,470 --> 00:18:01,510
 Former Warlord 
 of the Sea
 
-1496
+913
 00:18:01,510 --> 00:18:01,560
 Dracule Mihawk
 "Hawk Eye"
-
-1497
-00:18:01,510 --> 00:18:01,560
 Former Warlord 
 of the Sea
 
-1498
+914
 00:18:01,560 --> 00:18:01,600
 Dracule Mihawk
 "Hawk Eye"
-
-1499
-00:18:01,560 --> 00:18:01,600
 Former Warlord 
 of the Sea
 
-1500
+915
 00:18:01,600 --> 00:18:01,640
 Dracule Mihawk
 "Hawk Eye"
-
-1501
-00:18:01,600 --> 00:18:01,640
 Former Warlord 
 of the Sea
 
-1502
+916
 00:18:01,640 --> 00:18:01,680
 Dracule Mihawk
 "Hawk Eye"
-
-1503
-00:18:01,640 --> 00:18:01,680
 Former Warlord 
 of the Sea
 
-1504
+917
 00:18:01,680 --> 00:18:01,720
 Dracule Mihawk
 "Hawk Eye"
-
-1505
-00:18:01,680 --> 00:18:01,720
 Former Warlord 
 of the Sea
 
-1506
+918
 00:18:01,720 --> 00:18:01,760
 Dracule Mihawk
 "Hawk Eye"
-
-1507
-00:18:01,720 --> 00:18:01,760
 Former Warlord 
 of the Sea
 
-1508
+919
 00:18:01,760 --> 00:18:01,810
 Dracule Mihawk
 "Hawk Eye"
-
-1509
-00:18:01,760 --> 00:18:01,810
 Former Warlord 
 of the Sea
 
-1510
+920
 00:18:01,810 --> 00:18:01,850
 Dracule Mihawk
 "Hawk Eye"
-
-1511
-00:18:01,810 --> 00:18:01,850
 Former Warlord 
 of the Sea
 
-1512
+921
 00:18:01,850 --> 00:18:01,890
 Dracule Mihawk
 "Hawk Eye"
-
-1513
-00:18:01,850 --> 00:18:01,890
 Former Warlord 
 of the Sea
 
-1514
+922
 00:18:01,890 --> 00:18:01,930
 Dracule Mihawk
 "Hawk Eye"
-
-1515
-00:18:01,890 --> 00:18:01,930
 Former Warlord 
 of the Sea
 
-1516
+923
 00:18:01,930 --> 00:18:01,970
 Dracule Mihawk
 "Hawk Eye"
-
-1517
-00:18:01,930 --> 00:18:01,970
 Former Warlord 
 of the Sea
 
-1518
+924
 00:18:01,970 --> 00:18:02,010
 Dracule Mihawk
 "Hawk Eye"
-
-1519
-00:18:01,970 --> 00:18:02,010
 Former Warlord 
 of the Sea
 
-1520
+925
 00:18:02,010 --> 00:18:02,060
 Dracule Mihawk
 "Hawk Eye"
-
-1521
-00:18:02,010 --> 00:18:02,060
 Former Warlord 
 of the Sea
 
-1522
+926
 00:18:02,060 --> 00:18:02,100
 Dracule Mihawk
 "Hawk Eye"
-
-1523
-00:18:02,060 --> 00:18:02,100
 Former Warlord 
 of the Sea
 
-1524
+927
 00:18:02,100 --> 00:18:02,140
 Dracule Mihawk
 "Hawk Eye"
-
-1525
-00:18:02,100 --> 00:18:02,140
 Former Warlord 
 of the Sea
 
-1526
+928
 00:18:02,140 --> 00:18:02,180
 Dracule Mihawk
 "Hawk Eye"
-
-1527
-00:18:02,140 --> 00:18:02,180
 Former Warlord 
 of the Sea
 
-1528
+929
 00:18:02,180 --> 00:18:02,220
 Dracule Mihawk
 "Hawk Eye"
-
-1529
-00:18:02,180 --> 00:18:02,220
 Former Warlord 
 of the Sea
 
-1530
+930
 00:18:02,220 --> 00:18:02,260
 Dracule Mihawk
 "Hawk Eye"
-
-1531
-00:18:02,220 --> 00:18:02,260
 Former Warlord 
 of the Sea
 
-1532
+931
 00:18:02,260 --> 00:18:02,310
 Dracule Mihawk
 "Hawk Eye"
-
-1533
-00:18:02,260 --> 00:18:02,310
 Former Warlord 
 of the Sea
 
-1534
+932
 00:18:02,310 --> 00:18:02,350
 Dracule Mihawk
 "Hawk Eye"
-
-1535
-00:18:02,310 --> 00:18:02,350
 Former Warlord 
 of the Sea
 
-1536
+933
 00:18:02,350 --> 00:18:02,390
 Dracule Mihawk
 "Hawk Eye"
-
-1537
-00:18:02,350 --> 00:18:02,390
 Former Warlord 
 of the Sea
 
-1538
+934
 00:18:02,390 --> 00:18:02,430
 Dracule Mihawk
 "Hawk Eye"
-
-1539
-00:18:02,390 --> 00:18:02,430
 Former Warlord 
 of the Sea
 
-1540
+935
 00:18:02,430 --> 00:18:02,470
 Dracule Mihawk
 "Hawk Eye"
-
-1541
-00:18:02,430 --> 00:18:02,470
 Former Warlord 
 of the Sea
 
-1542
+936
 00:18:02,470 --> 00:18:02,510
 Dracule Mihawk
 "Hawk Eye"
-
-1543
-00:18:02,470 --> 00:18:02,510
 Former Warlord 
 of the Sea
 
-1544
+937
 00:18:02,510 --> 00:18:02,560
 Dracule Mihawk
 "Hawk Eye"
-
-1545
-00:18:02,510 --> 00:18:02,560
 Former Warlord 
 of the Sea
 
-1546
+938
 00:18:02,560 --> 00:18:02,600
 Dracule Mihawk
 "Hawk Eye"
-
-1547
-00:18:02,560 --> 00:18:02,600
 Former Warlord 
 of the Sea
 
-1548
+939
 00:18:02,600 --> 00:18:02,640
 Dracule Mihawk
 "Hawk Eye"
-
-1549
-00:18:02,600 --> 00:18:02,640
 Former Warlord 
 of the Sea
 
-1550
+940
 00:18:02,640 --> 00:18:02,680
 Dracule Mihawk
 "Hawk Eye"
-
-1551
-00:18:02,640 --> 00:18:02,680
 Former Warlord 
 of the Sea
 
-1552
+941
 00:18:02,680 --> 00:18:02,720
 Dracule Mihawk
 "Hawk Eye"
-
-1553
-00:18:02,680 --> 00:18:02,720
 Former Warlord 
 of the Sea
 
-1554
+942
 00:18:02,720 --> 00:18:02,760
 Dracule Mihawk
 "Hawk Eye"
-
-1555
-00:18:02,720 --> 00:18:02,760
 Former Warlord 
 of the Sea
 
-1556
+943
 00:18:02,760 --> 00:18:02,810
 Dracule Mihawk
 "Hawk Eye"
-
-1557
-00:18:02,760 --> 00:18:02,810
 Former Warlord 
 of the Sea
 
-1558
+944
 00:18:02,810 --> 00:18:02,850
 Dracule Mihawk
 "Hawk Eye"
-
-1559
-00:18:02,810 --> 00:18:02,850
 Former Warlord 
 of the Sea
 
-1560
+945
 00:18:02,850 --> 00:18:02,890
 Dracule Mihawk
 "Hawk Eye"
-
-1561
-00:18:02,850 --> 00:18:02,890
 Former Warlord 
 of the Sea
 
-1562
+946
 00:18:02,890 --> 00:18:02,930
 Dracule Mihawk
 "Hawk Eye"
-
-1563
-00:18:02,890 --> 00:18:02,930
 Former Warlord 
 of the Sea
 
-1564
+947
 00:18:02,930 --> 00:18:02,970
 Dracule Mihawk
 "Hawk Eye"
-
-1565
-00:18:02,930 --> 00:18:02,970
 Former Warlord 
 of the Sea
 
-1566
+948
 00:18:02,970 --> 00:18:03,020
 Dracule Mihawk
 "Hawk Eye"
-
-1567
-00:18:02,970 --> 00:18:03,020
 Former Warlord 
 of the Sea
 
-1568
+949
 00:18:03,020 --> 00:18:03,060
 Dracule Mihawk
 "Hawk Eye"
-
-1569
-00:18:03,020 --> 00:18:03,060
 Former Warlord 
 of the Sea
 
-1570
+950
 00:18:03,060 --> 00:18:03,100
 Dracule Mihawk
 "Hawk Eye"
-
-1571
-00:18:03,060 --> 00:18:03,100
 Former Warlord 
 of the Sea
 
-1572
+951
 00:18:03,100 --> 00:18:03,140
 Dracule Mihawk
 "Hawk Eye"
-
-1573
-00:18:03,100 --> 00:18:03,140
 Former Warlord 
 of the Sea
 
-1574
+952
 00:18:03,140 --> 00:18:03,180
 Dracule Mihawk
 "Hawk Eye"
-
-1575
-00:18:03,140 --> 00:18:03,180
 Former Warlord 
 of the Sea
 
-1576
+953
 00:18:03,180 --> 00:18:03,220
 Dracule Mihawk
 "Hawk Eye"
-
-1577
-00:18:03,180 --> 00:18:03,220
 Former Warlord 
 of the Sea
 
-1578
+954
 00:18:03,220 --> 00:18:03,270
 Dracule Mihawk
 "Hawk Eye"
-
-1579
-00:18:03,220 --> 00:18:03,270
 Former Warlord 
 of the Sea
 
-1580
+955
 00:18:03,270 --> 00:18:03,310
 Dracule Mihawk
 "Hawk Eye"
-
-1581
-00:18:03,270 --> 00:18:03,310
 Former Warlord 
 of the Sea
 
-1582
+956
 00:18:03,310 --> 00:18:03,350
 Dracule Mihawk
 "Hawk Eye"
-
-1583
-00:18:03,310 --> 00:18:03,350
 Former Warlord 
 of the Sea
 
-1584
+957
 00:18:03,350 --> 00:18:03,390
 Dracule Mihawk
 "Hawk Eye"
-
-1585
-00:18:03,350 --> 00:18:03,390
 Former Warlord 
 of the Sea
 
-1586
+958
 00:18:03,390 --> 00:18:03,430
 Dracule Mihawk
 "Hawk Eye"
-
-1587
-00:18:03,390 --> 00:18:03,430
 Former Warlord 
 of the Sea
 
-1588
+959
 00:18:03,430 --> 00:18:03,470
 Dracule Mihawk
 "Hawk Eye"
-
-1589
-00:18:03,430 --> 00:18:03,470
 Former Warlord 
 of the Sea
 
-1590
+960
 00:18:03,470 --> 00:18:03,520
 Dracule Mihawk
 "Hawk Eye"
-
-1591
-00:18:03,470 --> 00:18:03,520
 Former Warlord 
 of the Sea
 
-1592
+961
 00:18:03,520 --> 00:18:03,560
 Dracule Mihawk
 "Hawk Eye"
-
-1593
-00:18:03,520 --> 00:18:03,560
 Former Warlord 
 of the Sea
 
-1594
+962
 00:18:03,560 --> 00:18:03,600
 Dracule Mihawk
 "Hawk Eye"
-
-1595
-00:18:03,560 --> 00:18:03,600
 Former Warlord 
 of the Sea
 
-1596
+963
 00:18:03,600 --> 00:18:03,640
 Dracule Mihawk
 "Hawk Eye"
-
-1597
-00:18:03,600 --> 00:18:03,640
 Former Warlord 
 of the Sea
 
-1598
+964
 00:18:03,640 --> 00:18:03,680
 Dracule Mihawk
 "Hawk Eye"
-
-1599
-00:18:03,640 --> 00:18:03,680
 Former Warlord 
 of the Sea
 
-1600
+965
 00:18:03,680 --> 00:18:03,720
 Dracule Mihawk
 "Hawk Eye"
-
-1601
-00:18:03,680 --> 00:18:03,720
 Former Warlord 
 of the Sea
 
-1602
+966
 00:18:03,720 --> 00:18:03,770
 Dracule Mihawk
 "Hawk Eye"
-
-1603
-00:18:03,720 --> 00:18:03,770
 Former Warlord 
 of the Sea
 
-1604
+967
 00:18:03,770 --> 00:18:03,810
 Dracule Mihawk
 "Hawk Eye"
-
-1605
-00:18:03,770 --> 00:18:03,810
 Former Warlord 
 of the Sea
 
-1606
+968
 00:18:03,810 --> 00:18:03,850
 Dracule Mihawk
 "Hawk Eye"
-
-1607
-00:18:03,810 --> 00:18:03,850
 Former Warlord 
 of the Sea
 
-1608
+969
 00:18:03,850 --> 00:18:07,400
 We became the Seven Warlords of the Sea...
 
-1609
+970
 00:18:07,480 --> 00:18:07,520
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1610
+971
 00:18:07,520 --> 00:18:07,570
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1611
+972
 00:18:07,570 --> 00:18:07,610
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1612
+973
 00:18:07,610 --> 00:18:07,650
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1613
+974
 00:18:07,640 --> 00:18:07,690
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1614
-00:18:07,640 --> 00:18:07,690
 "Pirate Empress" Boa Hancock
-
-1615
-00:18:07,640 --> 00:18:07,690
 Former Warlord of the Sea
 
-1616
+975
 00:18:07,690 --> 00:18:07,730
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1617
-00:18:07,690 --> 00:18:07,730
 "Pirate Empress" Boa Hancock
-
-1618
-00:18:07,690 --> 00:18:07,730
 Former Warlord of the Sea
 
-1619
+976
 00:18:07,730 --> 00:18:07,770
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1620
-00:18:07,730 --> 00:18:07,770
 "Pirate Empress" Boa Hancock
-
-1621
-00:18:07,730 --> 00:18:07,770
 Former Warlord of the Sea
 
-1622
+977
 00:18:07,770 --> 00:18:07,810
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1623
-00:18:07,770 --> 00:18:07,810
 "Pirate Empress" Boa Hancock
-
-1624
-00:18:07,770 --> 00:18:07,810
 Former Warlord of the Sea
 
-1625
+978
 00:18:07,810 --> 00:18:07,850
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1626
-00:18:07,810 --> 00:18:07,850
 "Pirate Empress" Boa Hancock
-
-1627
-00:18:07,810 --> 00:18:07,850
 Former Warlord of the Sea
 
-1628
+979
 00:18:07,850 --> 00:18:07,890
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1629
-00:18:07,850 --> 00:18:07,890
 "Pirate Empress" Boa Hancock
-
-1630
-00:18:07,850 --> 00:18:07,890
 Former Warlord of the Sea
 
-1631
+980
 00:18:07,890 --> 00:18:07,940
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1632
-00:18:07,890 --> 00:18:07,940
 "Pirate Empress" Boa Hancock
-
-1633
-00:18:07,890 --> 00:18:07,940
 Former Warlord of the Sea
 
-1634
+981
 00:18:07,940 --> 00:18:07,980
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1635
-00:18:07,940 --> 00:18:07,980
 "Pirate Empress" Boa Hancock
-
-1636
-00:18:07,940 --> 00:18:07,980
 Former Warlord of the Sea
 
-1637
+982
 00:18:07,980 --> 00:18:08,020
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1638
-00:18:07,980 --> 00:18:08,020
 "Pirate Empress" Boa Hancock
-
-1639
-00:18:07,980 --> 00:18:08,020
 Former Warlord of the Sea
 
-1640
+983
 00:18:08,020 --> 00:18:08,060
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1641
-00:18:08,020 --> 00:18:08,060
 "Pirate Empress" Boa Hancock
-
-1642
-00:18:08,020 --> 00:18:08,060
 Former Warlord of the Sea
 
-1643
+984
 00:18:08,060 --> 00:18:08,100
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1644
-00:18:08,060 --> 00:18:08,100
 "Pirate Empress" Boa Hancock
-
-1645
-00:18:08,060 --> 00:18:08,100
 Former Warlord of the Sea
 
-1646
+985
 00:18:08,100 --> 00:18:08,150
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1647
-00:18:08,100 --> 00:18:08,150
 "Pirate Empress" Boa Hancock
-
-1648
-00:18:08,100 --> 00:18:08,150
 Former Warlord of the Sea
 
-1649
+986
 00:18:08,150 --> 00:18:08,190
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1650
-00:18:08,150 --> 00:18:08,190
 "Pirate Empress" Boa Hancock
-
-1651
-00:18:08,150 --> 00:18:08,190
 Former Warlord of the Sea
 
-1652
+987
 00:18:08,190 --> 00:18:08,230
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1653
-00:18:08,190 --> 00:18:08,230
 "Pirate Empress" Boa Hancock
-
-1654
-00:18:08,190 --> 00:18:08,230
 Former Warlord of the Sea
 
-1655
+988
 00:18:08,230 --> 00:18:08,270
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1656
-00:18:08,230 --> 00:18:08,270
 "Pirate Empress" Boa Hancock
-
-1657
-00:18:08,230 --> 00:18:08,270
 Former Warlord of the Sea
 
-1658
+989
 00:18:08,270 --> 00:18:08,310
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1659
-00:18:08,270 --> 00:18:08,310
 "Pirate Empress" Boa Hancock
-
-1660
-00:18:08,270 --> 00:18:08,310
 Former Warlord of the Sea
 
-1661
+990
 00:18:08,310 --> 00:18:08,350
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1662
-00:18:08,310 --> 00:18:08,350
 "Pirate Empress" Boa Hancock
-
-1663
-00:18:08,310 --> 00:18:08,350
 Former Warlord of the Sea
 
-1664
+991
 00:18:08,350 --> 00:18:08,400
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1665
-00:18:08,350 --> 00:18:08,400
 "Pirate Empress" Boa Hancock
-
-1666
-00:18:08,350 --> 00:18:08,400
 Former Warlord of the Sea
 
-1667
+992
 00:18:08,400 --> 00:18:08,440
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1668
-00:18:08,400 --> 00:18:08,440
 "Pirate Empress" Boa Hancock
-
-1669
-00:18:08,400 --> 00:18:08,440
 Former Warlord of the Sea
 
-1670
+993
 00:18:08,440 --> 00:18:08,480
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1671
-00:18:08,440 --> 00:18:08,480
 "Pirate Empress" Boa Hancock
-
-1672
-00:18:08,440 --> 00:18:08,480
 Former Warlord of the Sea
 
-1673
+994
 00:18:08,480 --> 00:18:08,520
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1674
-00:18:08,480 --> 00:18:08,520
 "Pirate Empress" Boa Hancock
-
-1675
-00:18:08,480 --> 00:18:08,520
 Former Warlord of the Sea
 
-1676
+995
 00:18:08,520 --> 00:18:08,560
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1677
-00:18:08,520 --> 00:18:08,560
 "Pirate Empress" Boa Hancock
-
-1678
-00:18:08,520 --> 00:18:08,560
 Former Warlord of the Sea
 
-1679
+996
 00:18:08,560 --> 00:18:08,600
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1680
-00:18:08,560 --> 00:18:08,600
 "Pirate Empress" Boa Hancock
-
-1681
-00:18:08,560 --> 00:18:08,600
 Former Warlord of the Sea
 
-1682
+997
 00:18:08,600 --> 00:18:08,650
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1683
-00:18:08,600 --> 00:18:08,650
 "Pirate Empress" Boa Hancock
-
-1684
-00:18:08,600 --> 00:18:08,650
 Former Warlord of the Sea
 
-1685
+998
 00:18:08,650 --> 00:18:08,690
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1686
-00:18:08,650 --> 00:18:08,690
 "Pirate Empress" Boa Hancock
-
-1687
-00:18:08,650 --> 00:18:08,690
 Former Warlord of the Sea
 
-1688
+999
 00:18:08,690 --> 00:18:08,730
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1689
-00:18:08,690 --> 00:18:08,730
 "Pirate Empress" Boa Hancock
-
-1690
-00:18:08,690 --> 00:18:08,730
 Former Warlord of the Sea
 
-1691
+1000
 00:18:08,730 --> 00:18:08,770
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1692
-00:18:08,730 --> 00:18:08,770
 "Pirate Empress" Boa Hancock
-
-1693
-00:18:08,730 --> 00:18:08,770
 Former Warlord of the Sea
 
-1694
+1001
 00:18:08,770 --> 00:18:08,810
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1695
-00:18:08,770 --> 00:18:08,810
 "Pirate Empress" Boa Hancock
-
-1696
-00:18:08,770 --> 00:18:08,810
 Former Warlord of the Sea
 
-1697
+1002
 00:18:08,810 --> 00:18:08,850
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1698
-00:18:08,810 --> 00:18:08,850
 "Pirate Empress" Boa Hancock
-
-1699
-00:18:08,810 --> 00:18:08,850
 Former Warlord of the Sea
 
-1700
+1003
 00:18:08,850 --> 00:18:08,900
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1701
-00:18:08,850 --> 00:18:08,900
 "Pirate Empress" Boa Hancock
-
-1702
-00:18:08,850 --> 00:18:08,900
 Former Warlord of the Sea
 
-1703
+1004
 00:18:08,900 --> 00:18:08,940
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1704
-00:18:08,900 --> 00:18:08,940
 "Pirate Empress" Boa Hancock
-
-1705
-00:18:08,900 --> 00:18:08,940
 Former Warlord of the Sea
 
-1706
+1005
 00:18:08,940 --> 00:18:08,980
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1707
-00:18:08,940 --> 00:18:08,980
 "Pirate Empress" Boa Hancock
-
-1708
-00:18:08,940 --> 00:18:08,980
 Former Warlord of the Sea
 
-1709
+1006
 00:18:08,980 --> 00:18:09,020
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1710
-00:18:08,980 --> 00:18:09,020
 "Pirate Empress" Boa Hancock
-
-1711
-00:18:08,980 --> 00:18:09,020
 Former Warlord of the Sea
 
-1712
+1007
 00:18:09,020 --> 00:18:09,060
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1713
-00:18:09,020 --> 00:18:09,060
 "Pirate Empress" Boa Hancock
-
-1714
-00:18:09,020 --> 00:18:09,060
 Former Warlord of the Sea
 
-1715
+1008
 00:18:09,060 --> 00:18:09,100
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1716
-00:18:09,060 --> 00:18:09,100
 "Pirate Empress" Boa Hancock
-
-1717
-00:18:09,060 --> 00:18:09,100
 Former Warlord of the Sea
 
-1718
+1009
 00:18:09,100 --> 00:18:09,150
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1719
-00:18:09,100 --> 00:18:09,150
 "Pirate Empress" Boa Hancock
-
-1720
-00:18:09,100 --> 00:18:09,150
 Former Warlord of the Sea
 
-1721
+1010
 00:18:09,150 --> 00:18:09,190
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1722
-00:18:09,150 --> 00:18:09,190
 "Pirate Empress" Boa Hancock
-
-1723
-00:18:09,150 --> 00:18:09,190
 Former Warlord of the Sea
 
-1724
+1011
 00:18:09,190 --> 00:18:09,230
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1725
-00:18:09,190 --> 00:18:09,230
 "Pirate Empress" Boa Hancock
-
-1726
-00:18:09,190 --> 00:18:09,230
 Former Warlord of the Sea
 
-1727
+1012
 00:18:09,230 --> 00:18:09,270
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1728
-00:18:09,230 --> 00:18:09,270
 "Pirate Empress" Boa Hancock
-
-1729
-00:18:09,230 --> 00:18:09,270
 Former Warlord of the Sea
 
-1730
+1013
 00:18:09,270 --> 00:18:09,310
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1731
-00:18:09,270 --> 00:18:09,310
 "Pirate Empress" Boa Hancock
-
-1732
-00:18:09,270 --> 00:18:09,310
 Former Warlord of the Sea
 
-1733
+1014
 00:18:09,310 --> 00:18:09,350
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1734
-00:18:09,310 --> 00:18:09,350
 "Pirate Empress" Boa Hancock
-
-1735
-00:18:09,310 --> 00:18:09,350
 Former Warlord of the Sea
 
-1736
+1015
 00:18:09,350 --> 00:18:09,400
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1737
-00:18:09,350 --> 00:18:09,400
 "Pirate Empress" Boa Hancock
-
-1738
-00:18:09,350 --> 00:18:09,400
 Former Warlord of the Sea
 
-1739
+1016
 00:18:09,400 --> 00:18:09,440
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1740
-00:18:09,400 --> 00:18:09,440
 "Pirate Empress" Boa Hancock
-
-1741
-00:18:09,400 --> 00:18:09,440
 Former Warlord of the Sea
 
-1742
+1017
 00:18:09,440 --> 00:18:09,480
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1743
-00:18:09,440 --> 00:18:09,480
 "Pirate Empress" Boa Hancock
-
-1744
-00:18:09,440 --> 00:18:09,480
 Former Warlord of the Sea
 
-1745
+1018
 00:18:09,480 --> 00:18:09,520
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1746
-00:18:09,480 --> 00:18:09,520
 "Pirate Empress" Boa Hancock
-
-1747
-00:18:09,480 --> 00:18:09,520
 Former Warlord of the Sea
 
-1748
+1019
 00:18:09,520 --> 00:18:09,560
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1749
-00:18:09,520 --> 00:18:09,560
 "Pirate Empress" Boa Hancock
-
-1750
-00:18:09,520 --> 00:18:09,560
 Former Warlord of the Sea
 
-1751
+1020
 00:18:09,560 --> 00:18:09,610
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1752
-00:18:09,560 --> 00:18:09,610
 "Pirate Empress" Boa Hancock
-
-1753
-00:18:09,560 --> 00:18:09,610
 Former Warlord of the Sea
 
-1754
+1021
 00:18:09,610 --> 00:18:09,650
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1755
-00:18:09,610 --> 00:18:09,650
 "Pirate Empress" Boa Hancock
-
-1756
-00:18:09,610 --> 00:18:09,650
 Former Warlord of the Sea
 
-1757
+1022
 00:18:09,650 --> 00:18:09,690
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1758
-00:18:09,650 --> 00:18:09,690
 "Pirate Empress" Boa Hancock
-
-1759
-00:18:09,650 --> 00:18:09,690
 Former Warlord of the Sea
 
-1760
+1023
 00:18:09,690 --> 00:18:09,730
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1761
-00:18:09,690 --> 00:18:09,730
 "Pirate Empress" Boa Hancock
-
-1762
-00:18:09,690 --> 00:18:09,730
 Former Warlord of the Sea
 
-1763
+1024
 00:18:09,730 --> 00:18:09,770
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1764
-00:18:09,730 --> 00:18:09,770
 "Pirate Empress" Boa Hancock
-
-1765
-00:18:09,730 --> 00:18:09,770
 Former Warlord of the Sea
 
-1766
+1025
 00:18:09,770 --> 00:18:09,810
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1767
-00:18:09,770 --> 00:18:09,810
 "Pirate Empress" Boa Hancock
-
-1768
-00:18:09,770 --> 00:18:09,810
 Former Warlord of the Sea
 
-1769
+1026
 00:18:09,810 --> 00:18:09,860
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1770
-00:18:09,810 --> 00:18:09,860
-"Pirate Empress" Boa Hancock
-
-1771
-00:18:09,810 --> 00:18:09,860
-Former Warlord of the Sea
-
-1772
-00:18:09,860 --> 00:18:09,900
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1773
+1027
 00:18:09,860 --> 00:18:09,900
 "Pirate Empress" Boa Hancock
-
-1774
-00:18:09,860 --> 00:18:09,900
+Former Warlord of the Sea
+"Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1775
+1028
 00:18:09,900 --> 00:18:12,740
 because of our might!
 
-1776
+1029
 00:18:09,900 --> 00:18:09,940
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1777
-00:18:09,900 --> 00:18:09,940
 "Pirate Empress" Boa Hancock
-
-1778
-00:18:09,900 --> 00:18:09,940
 Former Warlord of the Sea
 
-1779
+1030
 00:18:09,940 --> 00:18:09,980
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1780
-00:18:09,940 --> 00:18:09,980
 "Pirate Empress" Boa Hancock
-
-1781
-00:18:09,940 --> 00:18:09,980
 Former Warlord of the Sea
 
-1782
+1031
 00:18:09,980 --> 00:18:10,020
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1783
-00:18:09,980 --> 00:18:10,020
 "Pirate Empress" Boa Hancock
-
-1784
-00:18:09,980 --> 00:18:10,020
 Former Warlord of the Sea
 
-1785
+1032
 00:18:10,020 --> 00:18:10,060
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1786
-00:18:10,020 --> 00:18:10,060
 "Pirate Empress" Boa Hancock
-
-1787
-00:18:10,020 --> 00:18:10,060
 Former Warlord of the Sea
 
-1788
+1033
 00:18:10,060 --> 00:18:10,110
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1789
-00:18:10,060 --> 00:18:10,110
 "Pirate Empress" Boa Hancock
-
-1790
-00:18:10,060 --> 00:18:10,110
 Former Warlord of the Sea
 
-1791
+1034
 00:18:10,110 --> 00:18:10,150
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1792
-00:18:10,110 --> 00:18:10,150
 "Pirate Empress" Boa Hancock
-
-1793
-00:18:10,110 --> 00:18:10,150
 Former Warlord of the Sea
 
-1794
+1035
 00:18:10,150 --> 00:18:10,190
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1795
-00:18:10,150 --> 00:18:10,190
 "Pirate Empress" Boa Hancock
-
-1796
-00:18:10,150 --> 00:18:10,190
 Former Warlord of the Sea
 
-1797
+1036
 00:18:10,190 --> 00:18:10,230
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1798
-00:18:10,190 --> 00:18:10,230
 "Pirate Empress" Boa Hancock
-
-1799
-00:18:10,190 --> 00:18:10,230
 Former Warlord of the Sea
 
-1800
+1037
 00:18:10,230 --> 00:18:10,270
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1801
-00:18:10,230 --> 00:18:10,270
 "Pirate Empress" Boa Hancock
-
-1802
-00:18:10,230 --> 00:18:10,270
 Former Warlord of the Sea
 
-1803
+1038
 00:18:10,270 --> 00:18:10,310
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1804
-00:18:10,270 --> 00:18:10,310
 "Pirate Empress" Boa Hancock
-
-1805
-00:18:10,270 --> 00:18:10,310
 Former Warlord of the Sea
 
-1806
+1039
 00:18:10,310 --> 00:18:10,360
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1807
-00:18:10,310 --> 00:18:10,360
 "Pirate Empress" Boa Hancock
-
-1808
-00:18:10,310 --> 00:18:10,360
 Former Warlord of the Sea
 
-1809
+1040
 00:18:10,360 --> 00:18:10,400
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1810
-00:18:10,360 --> 00:18:10,400
 "Pirate Empress" Boa Hancock
-
-1811
-00:18:10,360 --> 00:18:10,400
 Former Warlord of the Sea
 
-1812
+1041
 00:18:10,400 --> 00:18:10,440
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1813
-00:18:10,400 --> 00:18:10,440
 "Pirate Empress" Boa Hancock
-
-1814
-00:18:10,400 --> 00:18:10,440
 Former Warlord of the Sea
 
-1815
+1042
 00:18:10,440 --> 00:18:10,480
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1816
-00:18:10,440 --> 00:18:10,480
 "Pirate Empress" Boa Hancock
-
-1817
-00:18:10,440 --> 00:18:10,480
 Former Warlord of the Sea
 
-1818
+1043
 00:18:10,480 --> 00:18:10,520
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1819
-00:18:10,480 --> 00:18:10,520
 "Pirate Empress" Boa Hancock
-
-1820
-00:18:10,480 --> 00:18:10,520
 Former Warlord of the Sea
 
-1821
+1044
 00:18:10,520 --> 00:18:10,560
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1822
-00:18:10,520 --> 00:18:10,560
 "Pirate Empress" Boa Hancock
-
-1823
-00:18:10,520 --> 00:18:10,560
 Former Warlord of the Sea
 
-1824
+1045
 00:18:10,560 --> 00:18:10,610
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1825
-00:18:10,560 --> 00:18:10,610
 "Pirate Empress" Boa Hancock
-
-1826
-00:18:10,560 --> 00:18:10,610
 Former Warlord of the Sea
 
-1827
+1046
 00:18:10,610 --> 00:18:10,650
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1828
-00:18:10,610 --> 00:18:10,650
 "Pirate Empress" Boa Hancock
-
-1829
-00:18:10,610 --> 00:18:10,650
 Former Warlord of the Sea
 
-1830
+1047
 00:18:10,650 --> 00:18:10,690
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1831
-00:18:10,650 --> 00:18:10,690
 "Pirate Empress" Boa Hancock
-
-1832
-00:18:10,650 --> 00:18:10,690
 Former Warlord of the Sea
 
-1833
+1048
 00:18:10,690 --> 00:18:10,730
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1834
-00:18:10,690 --> 00:18:10,730
 "Pirate Empress" Boa Hancock
-
-1835
-00:18:10,690 --> 00:18:10,730
 Former Warlord of the Sea
 
-1836
+1049
 00:18:10,730 --> 00:18:10,770
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1837
-00:18:10,730 --> 00:18:10,770
 "Pirate Empress" Boa Hancock
-
-1838
-00:18:10,730 --> 00:18:10,770
 Former Warlord of the Sea
 
-1839
+1050
 00:18:10,770 --> 00:18:10,810
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1840
-00:18:10,770 --> 00:18:10,810
 "Pirate Empress" Boa Hancock
-
-1841
-00:18:10,770 --> 00:18:10,810
 Former Warlord of the Sea
 
-1842
+1051
 00:18:10,810 --> 00:18:10,860
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1843
-00:18:10,810 --> 00:18:10,860
 "Pirate Empress" Boa Hancock
-
-1844
-00:18:10,810 --> 00:18:10,860
 Former Warlord of the Sea
 
-1845
+1052
 00:18:10,860 --> 00:18:10,900
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1846
-00:18:10,860 --> 00:18:10,900
 "Pirate Empress" Boa Hancock
-
-1847
-00:18:10,860 --> 00:18:10,900
 Former Warlord of the Sea
 
-1848
+1053
 00:18:10,900 --> 00:18:10,940
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1849
-00:18:10,900 --> 00:18:10,940
 "Pirate Empress" Boa Hancock
-
-1850
-00:18:10,900 --> 00:18:10,940
 Former Warlord of the Sea
 
-1851
+1054
 00:18:10,940 --> 00:18:10,980
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1852
-00:18:10,940 --> 00:18:10,980
 "Pirate Empress" Boa Hancock
-
-1853
-00:18:10,940 --> 00:18:10,980
 Former Warlord of the Sea
 
-1854
+1055
 00:18:10,980 --> 00:18:11,020
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1855
-00:18:10,980 --> 00:18:11,020
 "Pirate Empress" Boa Hancock
-
-1856
-00:18:10,980 --> 00:18:11,020
 Former Warlord of the Sea
 
-1857
+1056
 00:18:11,020 --> 00:18:11,060
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1858
-00:18:11,020 --> 00:18:11,060
 "Pirate Empress" Boa Hancock
-
-1859
-00:18:11,020 --> 00:18:11,060
 Former Warlord of the Sea
 
-1860
+1057
 00:18:11,060 --> 00:18:11,110
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1861
-00:18:11,060 --> 00:18:11,110
 "Pirate Empress" Boa Hancock
-
-1862
-00:18:11,060 --> 00:18:11,110
 Former Warlord of the Sea
 
-1863
+1058
 00:18:11,110 --> 00:18:11,150
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1864
-00:18:11,110 --> 00:18:11,150
 "Pirate Empress" Boa Hancock
-
-1865
-00:18:11,110 --> 00:18:11,150
 Former Warlord of the Sea
 
-1866
+1059
 00:18:11,150 --> 00:18:11,190
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1867
-00:18:11,150 --> 00:18:11,190
 "Pirate Empress" Boa Hancock
-
-1868
-00:18:11,150 --> 00:18:11,190
 Former Warlord of the Sea
 
-1869
+1060
 00:18:11,190 --> 00:18:11,230
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1870
-00:18:11,190 --> 00:18:11,230
 "Pirate Empress" Boa Hancock
-
-1871
-00:18:11,190 --> 00:18:11,230
 Former Warlord of the Sea
 
-1872
+1061
 00:18:11,230 --> 00:18:11,270
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1873
-00:18:11,230 --> 00:18:11,270
 "Pirate Empress" Boa Hancock
-
-1874
-00:18:11,230 --> 00:18:11,270
 Former Warlord of the Sea
 
-1875
+1062
 00:18:11,270 --> 00:18:11,320
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1876
-00:18:11,270 --> 00:18:11,320
 "Pirate Empress" Boa Hancock
-
-1877
-00:18:11,270 --> 00:18:11,320
 Former Warlord of the Sea
 
-1878
+1063
 00:18:11,320 --> 00:18:11,360
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1879
-00:18:11,320 --> 00:18:11,360
 "Pirate Empress" Boa Hancock
-
-1880
-00:18:11,320 --> 00:18:11,360
 Former Warlord of the Sea
 
-1881
+1064
 00:18:11,360 --> 00:18:11,400
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1882
-00:18:11,360 --> 00:18:11,400
 "Pirate Empress" Boa Hancock
-
-1883
-00:18:11,360 --> 00:18:11,400
 Former Warlord of the Sea
 
-1884
+1065
 00:18:11,400 --> 00:18:11,440
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1885
-00:18:11,400 --> 00:18:11,440
 "Pirate Empress" Boa Hancock
-
-1886
-00:18:11,400 --> 00:18:11,440
 Former Warlord of the Sea
 
-1887
+1066
 00:18:11,440 --> 00:18:11,480
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1888
-00:18:11,440 --> 00:18:11,480
 "Pirate Empress" Boa Hancock
-
-1889
-00:18:11,440 --> 00:18:11,480
 Former Warlord of the Sea
 
-1890
+1067
 00:18:11,480 --> 00:18:11,520
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1891
-00:18:11,480 --> 00:18:11,520
 "Pirate Empress" Boa Hancock
-
-1892
-00:18:11,480 --> 00:18:11,520
 Former Warlord of the Sea
 
-1893
+1068
 00:18:11,520 --> 00:18:11,570
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1894
-00:18:11,520 --> 00:18:11,570
 "Pirate Empress" Boa Hancock
-
-1895
-00:18:11,520 --> 00:18:11,570
 Former Warlord of the Sea
 
-1896
+1069
 00:18:11,570 --> 00:18:11,610
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1897
-00:18:11,570 --> 00:18:11,610
 "Pirate Empress" Boa Hancock
-
-1898
-00:18:11,570 --> 00:18:11,610
 Former Warlord of the Sea
 
-1899
+1070
 00:18:11,610 --> 00:18:11,650
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1900
-00:18:11,610 --> 00:18:11,650
 "Pirate Empress" Boa Hancock
-
-1901
-00:18:11,610 --> 00:18:11,650
 Former Warlord of the Sea
 
-1902
+1071
 00:18:11,650 --> 00:18:11,690
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1903
-00:18:11,650 --> 00:18:11,690
 "Pirate Empress" Boa Hancock
-
-1904
-00:18:11,650 --> 00:18:11,690
 Former Warlord of the Sea
 
-1905
+1072
 00:18:11,690 --> 00:18:11,730
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1906
-00:18:11,690 --> 00:18:11,730
 "Pirate Empress" Boa Hancock
-
-1907
-00:18:11,690 --> 00:18:11,730
 Former Warlord of the Sea
 
-1908
+1073
 00:18:11,730 --> 00:18:11,770
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1909
-00:18:11,730 --> 00:18:11,770
 "Pirate Empress" Boa Hancock
-
-1910
-00:18:11,730 --> 00:18:11,770
 Former Warlord of the Sea
 
-1911
+1074
 00:18:11,770 --> 00:18:11,820
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1912
-00:18:11,770 --> 00:18:11,820
 "Pirate Empress" Boa Hancock
-
-1913
-00:18:11,770 --> 00:18:11,820
 Former Warlord of the Sea
 
-1914
+1075
 00:18:11,820 --> 00:18:11,860
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1915
-00:18:11,820 --> 00:18:11,860
 "Pirate Empress" Boa Hancock
-
-1916
-00:18:11,820 --> 00:18:11,860
 Former Warlord of the Sea
 
-1917
+1076
 00:18:11,860 --> 00:18:11,900
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1918
-00:18:11,860 --> 00:18:11,900
 "Pirate Empress" Boa Hancock
-
-1919
-00:18:11,860 --> 00:18:11,900
 Former Warlord of the Sea
 
-1920
+1077
 00:18:11,900 --> 00:18:11,940
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1921
-00:18:11,900 --> 00:18:11,940
 "Pirate Empress" Boa Hancock
-
-1922
-00:18:11,900 --> 00:18:11,940
 Former Warlord of the Sea
 
-1923
+1078
 00:18:11,940 --> 00:18:11,980
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1924
-00:18:11,940 --> 00:18:11,980
 "Pirate Empress" Boa Hancock
-
-1925
-00:18:11,940 --> 00:18:11,980
 Former Warlord of the Sea
 
-1926
+1079
 00:18:11,980 --> 00:18:12,020
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1927
-00:18:11,980 --> 00:18:12,020
 "Pirate Empress" Boa Hancock
-
-1928
-00:18:11,980 --> 00:18:12,020
 Former Warlord of the Sea
 
-1929
+1080
 00:18:12,020 --> 00:18:12,070
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1930
-00:18:12,020 --> 00:18:12,070
 "Pirate Empress" Boa Hancock
-
-1931
-00:18:12,020 --> 00:18:12,070
 Former Warlord of the Sea
 
-1932
+1081
 00:18:12,070 --> 00:18:12,110
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1933
-00:18:12,070 --> 00:18:12,110
 "Pirate Empress" Boa Hancock
-
-1934
-00:18:12,070 --> 00:18:12,110
 Former Warlord of the Sea
 
-1935
+1082
 00:18:12,110 --> 00:18:12,150
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1936
-00:18:12,110 --> 00:18:12,150
 "Pirate Empress" Boa Hancock
-
-1937
-00:18:12,110 --> 00:18:12,150
 Former Warlord of the Sea
 
-1938
+1083
 00:18:12,150 --> 00:18:12,190
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1939
-00:18:12,150 --> 00:18:12,190
 "Pirate Empress" Boa Hancock
-
-1940
-00:18:12,150 --> 00:18:12,190
 Former Warlord of the Sea
 
-1941
+1084
 00:18:12,190 --> 00:18:12,230
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1942
-00:18:12,190 --> 00:18:12,230
 "Pirate Empress" Boa Hancock
-
-1943
-00:18:12,190 --> 00:18:12,230
 Former Warlord of the Sea
 
-1944
+1085
 00:18:12,230 --> 00:18:12,270
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1945
-00:18:12,230 --> 00:18:12,270
 "Pirate Empress" Boa Hancock
-
-1946
-00:18:12,230 --> 00:18:12,270
 Former Warlord of the Sea
 
-1947
+1086
 00:18:12,270 --> 00:18:12,320
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1948
-00:18:12,270 --> 00:18:12,320
 "Pirate Empress" Boa Hancock
-
-1949
-00:18:12,270 --> 00:18:12,320
 Former Warlord of the Sea
 
-1950
+1087
 00:18:12,320 --> 00:18:12,360
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1951
-00:18:12,320 --> 00:18:12,360
 "Pirate Empress" Boa Hancock
-
-1952
-00:18:12,320 --> 00:18:12,360
 Former Warlord of the Sea
 
-1953
+1088
 00:18:12,360 --> 00:18:12,400
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1954
-00:18:12,360 --> 00:18:12,400
 "Pirate Empress" Boa Hancock
-
-1955
-00:18:12,360 --> 00:18:12,400
 Former Warlord of the Sea
 
-1956
+1089
 00:18:12,400 --> 00:18:12,440
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1957
-00:18:12,400 --> 00:18:12,440
 "Pirate Empress" Boa Hancock
-
-1958
-00:18:12,400 --> 00:18:12,440
 Former Warlord of the Sea
 
-1959
+1090
 00:18:12,440 --> 00:18:12,480
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1960
-00:18:12,440 --> 00:18:12,480
 "Pirate Empress" Boa Hancock
-
-1961
-00:18:12,440 --> 00:18:12,480
 Former Warlord of the Sea
 
-1962
+1091
 00:18:12,480 --> 00:18:12,520
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1963
-00:18:12,480 --> 00:18:12,520
 "Pirate Empress" Boa Hancock
-
-1964
-00:18:12,480 --> 00:18:12,520
 Former Warlord of the Sea
 
-1965
+1092
 00:18:12,520 --> 00:18:12,570
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1966
-00:18:12,520 --> 00:18:12,570
 "Pirate Empress" Boa Hancock
-
-1967
-00:18:12,520 --> 00:18:12,570
 Former Warlord of the Sea
 
-1968
+1093
 00:18:12,570 --> 00:18:12,610
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1969
-00:18:12,570 --> 00:18:12,610
 "Pirate Empress" Boa Hancock
-
-1970
-00:18:12,570 --> 00:18:12,610
 Former Warlord of the Sea
 
-1971
+1094
 00:18:12,610 --> 00:18:12,650
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1972
-00:18:12,610 --> 00:18:12,650
 "Pirate Empress" Boa Hancock
-
-1973
-00:18:12,610 --> 00:18:12,650
 Former Warlord of the Sea
 
-1974
+1095
 00:18:12,650 --> 00:18:12,690
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
-
-1975
-00:18:12,650 --> 00:18:12,690
-"Pirate Empress" Boa Hancock
-
-1976
-00:18:12,650 --> 00:18:12,690
-Former Warlord of the Sea
-
-1977
-00:18:12,690 --> 00:18:12,730
 "Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1978
+1096
 00:18:12,690 --> 00:18:12,730
 "Pirate Empress" Boa Hancock
-
-1979
-00:18:12,690 --> 00:18:12,730
+Former Warlord of the Sea
+"Pirate Empress" Boa Hancock
 Former Warlord of the Sea
 
-1980
+1097
 00:18:12,740 --> 00:18:16,070
 I'm counting on you guys.
 
-1981
+1098
 00:18:16,070 --> 00:18:18,200
 In the meantime...
 
-1982
+1099
 00:18:20,500 --> 00:18:22,210
 I'll get the hell out of here...

@@ -509,696 +509,690 @@ Sorun sayı değil...
 122
 00:08:45,670 --> 00:08:47,720
 Dinle, natto'yu kullan.
-
-123
-00:08:45,670 --> 00:08:47,720
 Natto: Mayalanmış soya fasulyesidir ve çok kötü kokar.
 
-124
+123
 00:08:47,720 --> 00:08:50,220
 Natto gibi koktuğunu söyle.
 
-125
+124
 00:08:50,590 --> 00:08:52,300
 Demek sonunda adadan kaçtık.
 
-126
+125
 00:08:52,300 --> 00:08:52,970
 Evet.
 
-127
+126
 00:08:54,510 --> 00:08:55,510
 Aferin.
 
-128
+127
 00:08:57,810 --> 00:08:59,480
 İntikam mı arıyorsun?! Gel!
 
-129
+128
 00:08:59,850 --> 00:09:01,350
 Sen niye buradasın?!
 
-130
+129
 00:09:01,350 --> 00:09:04,770
 Düşman saldırısı! Düşman saldırısı!
 
-131
+130
 00:09:06,150 --> 00:09:07,070
 O kim?
 
-132
+131
 00:09:07,070 --> 00:09:08,820
 Kimin umurunda?
 
-133
+132
 00:09:08,820 --> 00:09:10,400
 Ne kadar güzel bir kadın!
 
-134
+133
 00:09:17,580 --> 00:09:22,540
 Size tehlikeli şeyleri
 bana doğru tutmamanızı söylemiştim.
 
-135
+134
 00:09:22,540 --> 00:09:24,500
 Ne zamandır bu gemideydin?
 
-136
+135
 00:09:24,500 --> 00:09:25,750
 Bir süredir.
 
-137
+136
 00:09:26,250 --> 00:09:28,760
 Bu elbiseler senin mi?
 Onları ödünç alıyorum.
 
-138
+137
 00:09:28,760 --> 00:09:31,720
 Ne yaptığını sanıyorsun, Baroque Works?!
 
-139
+138
 00:09:31,720 --> 00:09:33,340
 Monkey D. Luffy...
 
-140
+139
 00:09:33,340 --> 00:09:37,470
 Bana ne yaptığını unutmadın, değil mi?
 
-141
+140
 00:09:37,470 --> 00:09:42,060
 Luffy! Bu güzel bayana
 ne yaptın, lanet herif?!
 
-142
+141
 00:09:41,810 --> 00:09:45,020
 Derhal gemiden in.
 
-143
+142
 00:09:42,060 --> 00:09:45,020
 Konuş, seni pislik!
 
-144
+143
 00:09:45,650 --> 00:09:49,110
 Hey, sen! Yalan söyleme!
 Hiçbir şey yapmadım!
 
-145
+144
 00:09:49,490 --> 00:09:50,360
 Evet, yaptın.
 
-146
+145
 00:09:50,360 --> 00:09:52,990
 Bana çok kötü bir muamelede bulundun.
 
-147
+146
 00:09:52,990 --> 00:09:55,240
 Sorumluluğu üstlen.
 
-148
+147
 00:09:55,240 --> 00:09:58,410
 O kim ve neler oluyor?
 
-149
+148
 00:09:55,620 --> 00:09:59,080
 "Kötü muamele" mi? 
 Ona ne yaptın?!
 
-150
+149
 00:09:56,740 --> 00:09:58,410
 Gemiyi terket...
 
-151
+150
 00:09:58,410 --> 00:10:00,830
 yoksa Donanma'yı çağıracağım!
 
-152
+151
 00:09:59,080 --> 00:10:03,460
 Sorumluluğu üstlensen iyi olur, yoksa...!
 
-153
+152
 00:10:00,830 --> 00:10:03,460
 Çok ciddiyim.
 
-154
+153
 00:10:04,170 --> 00:10:07,290
 Neden bahsettiğini bilmiyorum!
 Benden ne istiyorsun?!
 
-155
+154
 00:10:09,300 --> 00:10:11,760
 Tayfana katılmama izin ver.
 
-156
+155
 00:10:11,760 --> 00:10:12,880
 – Ha?!
 – Ha?!
 
-157
+156
 00:10:17,180 --> 00:10:19,060
 Bunu hemen ona içir.
 
-158
+157
 00:10:19,060 --> 00:10:22,020
 Crocodile'ın zehrinin panzehiri.
 
-159
+158
 00:10:22,350 --> 00:10:24,230
 Burada gömülü kalsa bile,
 
-160
+159
 00:10:24,230 --> 00:10:26,730
 lastik vücudu
 hayatta kalmasını sağlayabilir.
 
-161
+160
 00:10:29,070 --> 00:10:30,650
 O sırada...
 
-162
+161
 00:10:31,280 --> 00:10:34,570
 sadece tarihin yazılı
 olduğunu söylemiştin.
 
-163
+162
 00:10:37,620 --> 00:10:39,200
 Niye yalan söyledin?
 
-164
+163
 00:10:42,000 --> 00:10:43,000
 Biliyor muydun...?
 
-165
+164
 00:10:43,790 --> 00:10:44,830
 Çok kötüsün...
 
-166
+165
 00:10:45,370 --> 00:10:49,040
 Bu ülkenin tarihi o taşa yazılı değil.
 
-167
+166
 00:10:49,040 --> 00:10:53,090
 Orada tüm yazılı olan,
 örgütünün istediği silahla ilgili detaylar.
 
-168
+167
 00:10:53,090 --> 00:10:54,970
 Ve elbette silahın yeri.
 
-169
+168
 00:10:55,340 --> 00:10:57,430
 Crocodile için onu doğru çevirseydin,
 
-170
+169
 00:10:57,430 --> 00:11:00,850
 bu ülke şu anda onun olurdu.
 
-171
+170
 00:11:00,850 --> 00:11:02,180
 Yanılıyor muyum?
 
-172
+171
 00:11:03,560 --> 00:11:05,190
 İlgilenmiyorum...
 
-173
+172
 00:11:05,190 --> 00:11:10,150
 İnsanların ve ülkelerin yaşaması...
 Açıkçası hiç umurumda değil.
 
-174
+173
 00:11:10,520 --> 00:11:14,610
 Başından beri Crocodile'a silahı
 vermek niyetinde değildim.
 
-175
+174
 00:11:14,990 --> 00:11:16,950
 Anlamıyorum...
 
-176
+175
 00:11:16,950 --> 00:11:18,620
 Öyleyse buraya neden geldin?
 
-177
+176
 00:11:19,580 --> 00:11:21,950
 Umutlar ve beklentiler iki farklı şeydir.
 
-178
+177
 00:11:23,250 --> 00:11:26,580
 Bulmak istediğim şey, Rio Poneglifi'dir.
-
-179
-00:11:23,250 --> 00:11:26,580
 Rio Poneglifi: Gerçek Tarihi Metin.
 
-180
+178
 00:11:28,080 --> 00:11:31,840
 Dünyadaki bütün poneglifler içerisinde,
 
-181
+179
 00:11:31,840 --> 00:11:34,090
 gerçek tarihi anlatan sadece o.
 
-182
+180
 00:11:35,670 --> 00:11:37,510
 O, Rio poneglifi.
 
-183
+181
 00:11:39,050 --> 00:11:42,310
 "Gerçek tarih" derken
 ne demek istiyorsun?
 
-184
+182
 00:11:43,810 --> 00:11:45,140
 Artık yeter.
 
-185
+183
 00:11:45,140 --> 00:11:49,650
 Yirmi yıl boyunca aradım ve
 bulduğum tek ipucu buydu.
 
-186
+184
 00:11:49,650 --> 00:11:53,530
 Bu yer benim son umudumdu
 ve başarısızlıkla sonuçlandı.
 
-187
+185
 00:11:53,530 --> 00:11:56,400
 Burada ölmem gerekiyorsa, bana uyar.
 
-188
+186
 00:11:58,070 --> 00:12:01,700
 O kadar yorgunum ki… Artık bu
 şekilde devam edemeyeceğim.
 
-189
+187
 00:12:06,580 --> 00:12:09,330
 Tek istediğim tarihi öğrenmekti.
 
-190
+188
 00:12:11,340 --> 00:12:12,840
 Ama hayalimin önünde...
 
-191
+189
 00:12:13,460 --> 00:12:15,300
 çok fazla düşman var.
 
-192
+190
 00:12:16,170 --> 00:12:17,590
 Şunu merak ediyorum…
 
-193
+191
 00:12:18,510 --> 00:12:22,010
 Anlatılmayan tarih
 gün ışığına çıkarılabilir mi?
 
-194
+192
 00:12:22,010 --> 00:12:24,890
 Poneglifler'in o kaydı
 içerdiğini mi söylüyorsun?
 
-195
+193
 00:12:26,600 --> 00:12:29,020
 Öyleyse neden biz...
 
-196
+194
 00:12:34,400 --> 00:12:35,650
 Pekâlâ, gidelim.
 
-197
+195
 00:12:35,650 --> 00:12:36,610
 Dur biraz!
 
-198
+196
 00:12:36,610 --> 00:12:38,570
 Yaşamak için bir sebebim yok!
 
-199
+197
 00:12:38,950 --> 00:12:40,240
 Beni burada bırak!
 
-200
+198
 00:12:41,620 --> 00:12:44,200
 Niye seni dinleyeyim ki?
 
-201
+199
 00:12:48,410 --> 00:12:52,170
 O sırada ölmeyi isterken,
 beni yaşamaya zorladın.
 
-202
+200
 00:12:52,170 --> 00:12:54,000
 Bu senin suçun.
 
-203
+201
 00:12:54,500 --> 00:12:57,760
 Gidecek veya dönecek bir yerim yok.
 
-204
+202
 00:12:57,760 --> 00:13:00,260
 Bu yüzden bırak,
 bu gemide kalayım.
 
-205
+203
 00:13:00,260 --> 00:13:03,510
 Oh, anladım... O zaman başka
 seçeneğimiz yok. Hoş geldin.
 
-206
+204
 00:13:03,510 --> 00:13:05,760
 – Luffy!
 – Luffy!
 
-207
+205
 00:13:05,760 --> 00:13:07,770
 Endişelenmeyin.
 
-208
+206
 00:13:07,770 --> 00:13:09,730
 O kötü biri değil!
 
-209
+207
 00:13:09,730 --> 00:13:11,850
 Mellorine! Mellor–
 
-210
+208
 00:13:32,040 --> 00:13:33,080
 Dikkatini ver!
 
-211
+209
 00:13:33,460 --> 00:13:36,090
 Sorularımı dürüstçe cevapla!
 
-212
+210
 00:13:36,090 --> 00:13:37,590
 Bir daha soracağım.
 
-213
+211
 00:13:37,590 --> 00:13:38,630
 Adın ne?!
 
-214
+212
 00:13:39,920 --> 00:13:42,800
 Oh… Ben Usopp. Tanıştığımıza
 sevindim. Evet, sevindim.
 
-215
+213
 00:13:42,800 --> 00:13:44,350
 Nico Robin.
 
-216
+214
 00:13:44,350 --> 00:13:45,680
 Tamam, Nico Robin!
 
-217
+215
 00:13:45,680 --> 00:13:47,310
 Mesleğin nedir?
 
-218
+216
 00:13:47,310 --> 00:13:48,350
 Arkeologum.
 
-219
+217
 00:13:48,350 --> 00:13:49,480
 Arkeolog mu?!
 
-220
+218
 00:13:49,850 --> 00:13:54,020
 Uzun bir arkeolog soyundan geliyorum.
 
-221
+219
 00:13:54,020 --> 00:14:00,610
 Aranan bir suçlu olma durumum,
 sanırım sekiz yaşlarımdayken başladı.
 
-222
+220
 00:14:00,940 --> 00:14:02,780
 Bu, yirmi yıl önceydi.
 
-223
+221
 00:14:02,780 --> 00:14:06,120
 O zamandan beri
 dikkat çekmemeye çalışıyorum.
 
-224
+222
 00:14:06,120 --> 00:14:09,450
 Sekiz yaşından beri mi?
 Onca zamandır yalnız mıydın?
 
-225
+223
 00:14:11,460 --> 00:14:16,170
 Hiçbir çocuk, denizde
 tek başına hayatta kalamaz.
 
-226
+224
 00:14:16,960 --> 00:14:19,340
 Kendimi korumak ve...
 
-227
+225
 00:14:19,340 --> 00:14:22,050
 hedefime ulaşmak için,
 
-228
+226
 00:14:22,720 --> 00:14:27,050
 çeşitli haydutlarla
 ittifak yapmak zorunda kaldım.
 
-229
+227
 00:14:27,050 --> 00:14:28,260
 Hikaye bu.
 
-230
+228
 00:14:29,260 --> 00:14:32,520
 Bu yüzden, gölgelerde çalışmada
 oldukça yetkin hâle geldim.
 
-231
+229
 00:14:32,520 --> 00:14:34,730
 İşinize çok yararım.
 
-232
+230
 00:14:34,730 --> 00:14:38,110
 Oh...? Kendine çok güveniyor gibisin.
 
-233
+231
 00:14:38,110 --> 00:14:39,320
 Uzmanlık alanın nedir?
 
-234
+232
 00:14:41,150 --> 00:14:42,150
 Suikast.
 
-235
+233
 00:14:42,150 --> 00:14:46,910
 Luffy! Onu sorgularken çok tehlikeli
 olduğu sonucuna vardım.
 
-236
+234
 00:14:47,910 --> 00:14:49,240
 Dinlemiyor musunuz be?!
 
-237
+235
 00:14:49,990 --> 00:14:51,660
 Cidden...!
 
-238
+236
 00:14:52,040 --> 00:14:54,540
 Böylesine kolay aldatılmak… Zavallıca!
 
-239
+237
 00:14:54,540 --> 00:14:57,880
 Birkaç gün önce, bir suç
 örgütünün başkan yardımcısıydı.
 
-240
+238
 00:14:58,380 --> 00:15:01,920
 Böyle birinin bize katılmasına
 nasıl izin verebiliriz?
 
-241
+239
 00:15:02,420 --> 00:15:06,430
 Bu aptalları kandırmış olabilirsin
 ama bende işe yaramaz!
 
-242
+240
 00:15:06,430 --> 00:15:09,510
 Bir şey yapmaya kalkışırsan, seni atarım.
 
-243
+241
 00:15:11,010 --> 00:15:13,730
 Peki. Bunu aklımda tutacağım.
 
-244
+242
 00:15:13,730 --> 00:15:15,600
 Bu arada...
 
-245
+243
 00:15:15,600 --> 00:15:18,810
 Crocodile'ın mücevherlerinden
 birazını getirmiştim.
 
-246
+244
 00:15:20,610 --> 00:15:23,320
 Vay, Abla! Seni seviyorum!
 
-247
+245
 00:15:23,320 --> 00:15:24,530
 – Hey, hey, hey, hey...
 – Hey, hey, hey, hey...
 
-248
+246
 00:15:24,530 --> 00:15:26,280
 Nami'yi de kaybettik!
 
-249
+247
 00:15:26,280 --> 00:15:27,780
 Bu çok hilekârcaydı.
 
-250
+248
 00:15:27,780 --> 00:15:29,530
 Tamamen büyüsüne kapılmış.
 
-251
+249
 00:15:29,530 --> 00:15:30,660
 – Ha?
 – Ha?
 
-252
+250
 00:15:32,830 --> 00:15:34,710
 Ah, aşk...
 
-253
+251
 00:15:34,710 --> 00:15:36,000
 Yanında süzülen...
 
-254
+252
 00:15:36,000 --> 00:15:40,710
 alev almış bir odun parçasından
 başka bir şey değilim.
 
-255
+253
 00:15:41,710 --> 00:15:42,710
 Hazine...
 
-256
+254
 00:15:42,710 --> 00:15:44,670
 Güzelliğin yıldırım gibi beni çarptı.
 
-257
+255
 00:15:44,670 --> 00:15:47,800
 Irmakların paramparça ettiği
 odun parçasıyım.
 
-258
+256
 00:15:48,680 --> 00:15:49,930
 Sizin için, leydim.
 
-259
+257
 00:15:49,930 --> 00:15:51,390
 Oh, teşekkürler.
 
-260
+258
 00:15:51,390 --> 00:15:53,600
 Hiç şaşırmadım.
 
-261
+259
 00:15:53,600 --> 00:15:54,430
 Evet...
 
-262
+260
 00:15:54,430 --> 00:15:57,100
 Zaten hiç şansı yoktu...
 
-263
+261
 00:15:57,100 --> 00:15:58,230
 Ve böylece...
 
-264
+262
 00:15:59,190 --> 00:16:02,940
 güçlü durmak bize kaldı.
 
-265
+263
 00:16:02,940 --> 00:16:06,360
 Evet, ne kadar zayıflar!
 Tamamen boyun eğdiler.
 
-266
+264
 00:16:06,360 --> 00:16:07,820
 Hey, Usopp!
 
-267
+265
 00:16:06,900 --> 00:16:07,820
 Ne?!
 
-268
+266
 00:16:08,320 --> 00:16:09,870
 Chopper!
 
-269
+267
 00:16:16,540 --> 00:16:18,120
 Sana Robin-chwan mı desem?
 
-270
+268
 00:16:18,620 --> 00:16:20,250
 Ya da Robin-swan mı?
 
-271
+269
 00:16:20,250 --> 00:16:21,960
 Hangisi?
 
-272
+270
 00:16:21,960 --> 00:16:23,170
 Oh? Nereye gidiyorsun?
 
-273
+271
 00:16:27,340 --> 00:16:29,380
 Ne kadın ama...
 
-274
+272
 00:16:29,380 --> 00:16:33,310
 Nami-san'dan çok farklı,
 daha olgun bir güzelliği var!
 
-275
+273
 00:16:38,190 --> 00:16:40,440
 Güzel bir gemi...
 
-276
+274
 00:16:40,440 --> 00:16:42,440
 Her zaman böyle hareketli midir?
 
-277
+275
 00:16:43,190 --> 00:16:44,900
 Evet, öyledir.
 
-278
+276
 00:16:45,480 --> 00:16:46,690
 Anlıyorum.
 
-279
+277
 00:16:49,240 --> 00:16:52,070
 Ne dolaplar çeviriyor?
 
-280
+278
 00:16:58,330 --> 00:17:01,420
 Bu arada, Bayan Rotacı.
 Şu anda her şey yolunda mı?
 
-281
+279
 00:17:01,420 --> 00:17:03,920
 Rüzgârda ve havada bir sorun yok!
 
-282
+280
 00:17:03,920 --> 00:17:06,420
 Her şey mükemmel, Robin abla!
 
-283
+281
 00:17:06,420 --> 00:17:08,800
 Demek seni satın aldı, ha?
 
-284
+282
 00:17:08,800 --> 00:17:10,930
 Sanji, atıştırmalığım hazır mı?!
 
-285
+283
 00:17:10,930 --> 00:17:12,430
 Az sabırlı ol!

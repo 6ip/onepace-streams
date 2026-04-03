@@ -1151,759 +1151,570 @@ That's sexual harassment.
 271
 00:20:18,490 --> 00:20:19,740
 What?!
-
-272
-00:20:18,490 --> 00:20:19,740
 Yeah...
 
-273
+272
 00:20:20,070 --> 00:20:23,330
 A call came in earlier.
 
-274
+273
 00:20:20,490 --> 00:20:23,830
 Hey! Hey! Someone! Someone help! Hey!
 
-275
+274
 00:20:23,330 --> 00:20:26,580
 The chief was so upset,
 it was almost embarrassing.
 
-276
+275
 00:20:23,830 --> 00:20:26,580
 What're you doing?! Hey!
 
-277
+276
 00:20:26,960 --> 00:20:28,460
 Let the chief go!
 
-278
+277
 00:20:26,960 --> 00:20:30,210
 But the report said
 that there were only five casualties.
 
-279
+278
 00:20:28,460 --> 00:20:30,210
 Give up already, you lowlife!
 
-280
+279
 00:20:30,210 --> 00:20:31,250
 Huh?
 
-281
+280
 00:20:34,130 --> 00:20:36,630
 The receiver is off the hook.
 
-282
+281
 00:20:37,590 --> 00:20:39,380
 Don't give us trouble!
 
-283
+282
 00:20:39,380 --> 00:20:40,760
 Get walking!
 
-284
+283
 00:20:52,150 --> 00:20:56,740
 You guys go back to your rooms
 and take it easy for the time being.
 
-285
+284
 00:20:56,740 --> 00:21:02,410
 Thanks to this latest success,
 CP9's status will undoubtedly skyrocket.
 
-286
+285
 00:21:02,410 --> 00:21:05,990
 So, shall we raise our glasses on the ship?
 
-287
+286
 00:21:08,660 --> 00:21:11,960
 I don't feel like drinking...
 
-288
+287
 00:21:12,330 --> 00:21:15,210
 since I'm not interested in status or authority.
 
-289
+288
 00:21:15,210 --> 00:21:16,340
 What?
 
-290
+289
 00:21:17,300 --> 00:21:21,300
 Our justice is whatever
 the World Government says it is.
 
-291
+290
 00:21:21,300 --> 00:21:25,060
 So long as the government
 recognizes you as CP9's chief,
 
-292
+291
 00:21:25,060 --> 00:21:27,270
 we will perfectly carry out our orders.
 
-293
+292
 00:21:29,770 --> 00:21:33,730
 We don't have to support your ideology.
 
-294
+293
 00:21:35,190 --> 00:21:37,320
 Th-That's a sound argument.
 
-295
+294
 00:21:37,320 --> 00:21:40,360
 Then what's in it for you?
 
-296
+295
 00:21:44,570 --> 00:21:47,290
 Blood, I'd say.
 
-297
+296
 00:21:56,840 --> 00:22:00,420
 As long as we belong to CP9,
 even killing can be justified.
 
-298
+297
 00:22:03,090 --> 00:22:05,760
 They give me the creeps.
 
-299
+298
 00:22:06,180 --> 00:22:10,480
 Indeed, they are the government's
 principal group of assassins.
 
-300
+299
 00:22:10,480 --> 00:22:15,150
 My subordinates truly make a dependable unit.
 
-301
+300
 00:22:15,150 --> 00:22:20,030
 With them at my beck and call,
 nothing can stand in my way!
 
-302
+301
 00:22:27,610 --> 00:22:28,830
 Courthouse
-
-303
-00:22:27,610 --> 00:22:28,830
 Island Gate
 
-304
+302
 00:22:27,620 --> 00:22:28,830
 Courthouse
 
-305
+303
 00:22:28,080 --> 00:22:31,200
 C-Commander! There's trouble!
 
-306
+304
 00:22:28,820 --> 00:22:28,860
 Courthouse
+Island Gate
+
+305
+00:22:28,860 --> 00:22:28,910
+Courthouse
+Island Gate
+
+306
+00:22:28,910 --> 00:22:28,950
+Courthouse
+Island Gate
 
 307
-00:22:28,820 --> 00:22:28,860
+00:22:28,950 --> 00:22:28,990
+Courthouse
 Island Gate
 
 308
-00:22:28,860 --> 00:22:28,910
+00:22:28,990 --> 00:22:29,030
 Courthouse
+Island Gate
 
 309
-00:22:28,860 --> 00:22:28,910
+00:22:29,030 --> 00:22:29,070
+Courthouse
 Island Gate
 
 310
-00:22:28,910 --> 00:22:28,950
+00:22:29,070 --> 00:22:29,110
 Courthouse
+Island Gate
 
 311
-00:22:28,910 --> 00:22:28,950
+00:22:29,110 --> 00:22:29,160
+Courthouse
 Island Gate
 
 312
-00:22:28,950 --> 00:22:28,990
+00:22:29,160 --> 00:22:29,200
 Courthouse
+Island Gate
 
 313
-00:22:28,950 --> 00:22:28,990
+00:22:29,200 --> 00:22:29,240
+Courthouse
 Island Gate
 
 314
-00:22:28,990 --> 00:22:29,030
+00:22:29,240 --> 00:22:29,280
 Courthouse
+Island Gate
 
 315
-00:22:28,990 --> 00:22:29,030
+00:22:29,280 --> 00:22:29,320
+Courthouse
 Island Gate
 
 316
-00:22:29,030 --> 00:22:29,070
+00:22:29,320 --> 00:22:29,360
 Courthouse
+Island Gate
 
 317
-00:22:29,030 --> 00:22:29,070
+00:22:29,360 --> 00:22:29,410
+Courthouse
 Island Gate
 
 318
-00:22:29,070 --> 00:22:29,110
+00:22:29,410 --> 00:22:29,450
 Courthouse
+Island Gate
 
 319
-00:22:29,070 --> 00:22:29,110
+00:22:29,450 --> 00:22:29,490
+Courthouse
 Island Gate
 
 320
-00:22:29,110 --> 00:22:29,160
+00:22:29,490 --> 00:22:29,530
 Courthouse
+Island Gate
 
 321
-00:22:29,110 --> 00:22:29,160
+00:22:29,530 --> 00:22:29,570
+Courthouse
 Island Gate
 
 322
-00:22:29,160 --> 00:22:29,200
+00:22:29,570 --> 00:22:29,610
 Courthouse
+Island Gate
 
 323
-00:22:29,160 --> 00:22:29,200
+00:22:29,610 --> 00:22:29,660
+Courthouse
 Island Gate
 
 324
-00:22:29,200 --> 00:22:29,240
+00:22:29,660 --> 00:22:29,700
 Courthouse
+Island Gate
 
 325
-00:22:29,200 --> 00:22:29,240
+00:22:29,700 --> 00:22:29,740
+Courthouse
 Island Gate
 
 326
-00:22:29,240 --> 00:22:29,280
+00:22:29,740 --> 00:22:29,780
 Courthouse
+Island Gate
 
 327
-00:22:29,240 --> 00:22:29,280
+00:22:29,780 --> 00:22:29,820
+Courthouse
 Island Gate
 
 328
-00:22:29,280 --> 00:22:29,320
+00:22:29,820 --> 00:22:29,870
 Courthouse
+Island Gate
 
 329
-00:22:29,280 --> 00:22:29,320
+00:22:29,870 --> 00:22:29,910
+Courthouse
 Island Gate
 
 330
-00:22:29,320 --> 00:22:29,360
+00:22:29,910 --> 00:22:29,950
 Courthouse
+Island Gate
 
 331
-00:22:29,320 --> 00:22:29,360
+00:22:29,950 --> 00:22:29,990
+Courthouse
 Island Gate
 
 332
-00:22:29,360 --> 00:22:29,410
+00:22:29,990 --> 00:22:30,030
 Courthouse
+Island Gate
 
 333
-00:22:29,360 --> 00:22:29,410
+00:22:30,030 --> 00:22:30,070
+Courthouse
 Island Gate
 
 334
-00:22:29,410 --> 00:22:29,450
+00:22:30,070 --> 00:22:30,120
 Courthouse
+Island Gate
 
 335
-00:22:29,410 --> 00:22:29,450
+00:22:30,120 --> 00:22:30,160
+Courthouse
 Island Gate
 
 336
-00:22:29,450 --> 00:22:29,490
+00:22:30,160 --> 00:22:30,200
 Courthouse
+Island Gate
 
 337
-00:22:29,450 --> 00:22:29,490
+00:22:30,200 --> 00:22:30,240
+Courthouse
 Island Gate
 
 338
-00:22:29,490 --> 00:22:29,530
+00:22:30,240 --> 00:22:30,280
 Courthouse
+Island Gate
 
 339
-00:22:29,490 --> 00:22:29,530
+00:22:30,280 --> 00:22:30,320
+Courthouse
 Island Gate
 
 340
-00:22:29,530 --> 00:22:29,570
+00:22:30,320 --> 00:22:30,370
 Courthouse
+Island Gate
 
 341
-00:22:29,530 --> 00:22:29,570
+00:22:30,370 --> 00:22:30,410
+Courthouse
 Island Gate
 
 342
-00:22:29,570 --> 00:22:29,610
+00:22:30,410 --> 00:22:30,450
 Courthouse
+Island Gate
 
 343
-00:22:29,570 --> 00:22:29,610
+00:22:30,450 --> 00:22:30,490
+Courthouse
 Island Gate
 
 344
-00:22:29,610 --> 00:22:29,660
+00:22:30,490 --> 00:22:30,530
 Courthouse
+Island Gate
 
 345
-00:22:29,610 --> 00:22:29,660
+00:22:30,530 --> 00:22:30,570
+Courthouse
 Island Gate
 
 346
-00:22:29,660 --> 00:22:29,700
+00:22:30,570 --> 00:22:30,620
 Courthouse
+Island Gate
 
 347
-00:22:29,660 --> 00:22:29,700
+00:22:30,620 --> 00:22:30,660
+Courthouse
 Island Gate
 
 348
-00:22:29,700 --> 00:22:29,740
+00:22:30,660 --> 00:22:30,700
 Courthouse
+Island Gate
 
 349
-00:22:29,700 --> 00:22:29,740
+00:22:30,700 --> 00:22:30,740
+Courthouse
 Island Gate
 
 350
-00:22:29,740 --> 00:22:29,780
+00:22:30,740 --> 00:22:30,780
 Courthouse
+Island Gate
 
 351
-00:22:29,740 --> 00:22:29,780
+00:22:30,780 --> 00:22:30,820
+Courthouse
 Island Gate
 
 352
-00:22:29,780 --> 00:22:29,820
+00:22:30,820 --> 00:22:30,870
 Courthouse
+Island Gate
 
 353
-00:22:29,780 --> 00:22:29,820
+00:22:30,870 --> 00:22:30,910
+Courthouse
 Island Gate
 
 354
-00:22:29,820 --> 00:22:29,870
+00:22:30,910 --> 00:22:30,950
 Courthouse
+Island Gate
 
 355
-00:22:29,820 --> 00:22:29,870
+00:22:30,950 --> 00:22:30,990
+Courthouse
 Island Gate
 
 356
-00:22:29,870 --> 00:22:29,910
+00:22:30,990 --> 00:22:31,030
 Courthouse
+Island Gate
 
 357
-00:22:29,870 --> 00:22:29,910
+00:22:31,030 --> 00:22:31,070
+Courthouse
 Island Gate
 
 358
-00:22:29,910 --> 00:22:29,950
+00:22:31,070 --> 00:22:31,120
 Courthouse
+Island Gate
 
 359
-00:22:29,910 --> 00:22:29,950
+00:22:31,120 --> 00:22:31,160
+Courthouse
 Island Gate
 
 360
-00:22:29,950 --> 00:22:29,990
+00:22:31,160 --> 00:22:31,200
 Courthouse
+Island Gate
 
 361
-00:22:29,950 --> 00:22:29,990
-Island Gate
-
-362
-00:22:29,990 --> 00:22:30,030
-Courthouse
-
-363
-00:22:29,990 --> 00:22:30,030
-Island Gate
-
-364
-00:22:30,030 --> 00:22:30,070
-Courthouse
-
-365
-00:22:30,030 --> 00:22:30,070
-Island Gate
-
-366
-00:22:30,070 --> 00:22:30,120
-Courthouse
-
-367
-00:22:30,070 --> 00:22:30,120
-Island Gate
-
-368
-00:22:30,120 --> 00:22:30,160
-Courthouse
-
-369
-00:22:30,120 --> 00:22:30,160
-Island Gate
-
-370
-00:22:30,160 --> 00:22:30,200
-Courthouse
-
-371
-00:22:30,160 --> 00:22:30,200
-Island Gate
-
-372
-00:22:30,200 --> 00:22:30,240
-Courthouse
-
-373
-00:22:30,200 --> 00:22:30,240
-Island Gate
-
-374
-00:22:30,240 --> 00:22:30,280
-Courthouse
-
-375
-00:22:30,240 --> 00:22:30,280
-Island Gate
-
-376
-00:22:30,280 --> 00:22:30,320
-Courthouse
-
-377
-00:22:30,280 --> 00:22:30,320
-Island Gate
-
-378
-00:22:30,320 --> 00:22:30,370
-Courthouse
-
-379
-00:22:30,320 --> 00:22:30,370
-Island Gate
-
-380
-00:22:30,370 --> 00:22:30,410
-Courthouse
-
-381
-00:22:30,370 --> 00:22:30,410
-Island Gate
-
-382
-00:22:30,410 --> 00:22:30,450
-Courthouse
-
-383
-00:22:30,410 --> 00:22:30,450
-Island Gate
-
-384
-00:22:30,450 --> 00:22:30,490
-Courthouse
-
-385
-00:22:30,450 --> 00:22:30,490
-Island Gate
-
-386
-00:22:30,490 --> 00:22:30,530
-Courthouse
-
-387
-00:22:30,490 --> 00:22:30,530
-Island Gate
-
-388
-00:22:30,530 --> 00:22:30,570
-Courthouse
-
-389
-00:22:30,530 --> 00:22:30,570
-Island Gate
-
-390
-00:22:30,570 --> 00:22:30,620
-Courthouse
-
-391
-00:22:30,570 --> 00:22:30,620
-Island Gate
-
-392
-00:22:30,620 --> 00:22:30,660
-Courthouse
-
-393
-00:22:30,620 --> 00:22:30,660
-Island Gate
-
-394
-00:22:30,660 --> 00:22:30,700
-Courthouse
-
-395
-00:22:30,660 --> 00:22:30,700
-Island Gate
-
-396
-00:22:30,700 --> 00:22:30,740
-Courthouse
-
-397
-00:22:30,700 --> 00:22:30,740
-Island Gate
-
-398
-00:22:30,740 --> 00:22:30,780
-Courthouse
-
-399
-00:22:30,740 --> 00:22:30,780
-Island Gate
-
-400
-00:22:30,780 --> 00:22:30,820
-Courthouse
-
-401
-00:22:30,780 --> 00:22:30,820
-Island Gate
-
-402
-00:22:30,820 --> 00:22:30,870
-Courthouse
-
-403
-00:22:30,820 --> 00:22:30,870
-Island Gate
-
-404
-00:22:30,870 --> 00:22:30,910
-Courthouse
-
-405
-00:22:30,870 --> 00:22:30,910
-Island Gate
-
-406
-00:22:30,910 --> 00:22:30,950
-Courthouse
-
-407
-00:22:30,910 --> 00:22:30,950
-Island Gate
-
-408
-00:22:30,950 --> 00:22:30,990
-Courthouse
-
-409
-00:22:30,950 --> 00:22:30,990
-Island Gate
-
-410
-00:22:30,990 --> 00:22:31,030
-Courthouse
-
-411
-00:22:30,990 --> 00:22:31,030
-Island Gate
-
-412
-00:22:31,030 --> 00:22:31,070
-Courthouse
-
-413
-00:22:31,030 --> 00:22:31,070
-Island Gate
-
-414
-00:22:31,070 --> 00:22:31,120
-Courthouse
-
-415
-00:22:31,070 --> 00:22:31,120
-Island Gate
-
-416
-00:22:31,120 --> 00:22:31,160
-Courthouse
-
-417
-00:22:31,120 --> 00:22:31,160
-Island Gate
-
-418
-00:22:31,160 --> 00:22:31,200
-Courthouse
-
-419
-00:22:31,160 --> 00:22:31,200
-Island Gate
-
-420
 00:22:31,200 --> 00:22:32,080
 Report!
 
-421
+362
 00:22:31,200 --> 00:22:31,240
 Courthouse
-
-422
-00:22:31,200 --> 00:22:31,240
 Island Gate
 
-423
+363
 00:22:31,240 --> 00:22:31,280
 Courthouse
-
-424
-00:22:31,240 --> 00:22:31,280
 Island Gate
 
-425
+364
 00:22:31,280 --> 00:22:31,320
 Courthouse
-
-426
-00:22:31,280 --> 00:22:31,320
 Island Gate
 
-427
+365
 00:22:31,320 --> 00:22:31,370
 Courthouse
-
-428
-00:22:31,320 --> 00:22:31,370
 Island Gate
 
-429
+366
 00:22:31,370 --> 00:22:31,410
 Courthouse
 
-430
+367
 00:22:31,410 --> 00:22:31,450
 Courthouse
 
-431
+368
 00:22:31,450 --> 00:22:31,490
 Courthouse
 
-432
+369
 00:22:31,490 --> 00:22:31,530
 Courthouse
 
-433
+370
 00:22:31,530 --> 00:22:31,580
 Courthouse
 
-434
+371
 00:22:32,080 --> 00:22:34,460
 Straw Hat Luffy...!
 
-435
+372
 00:22:36,420 --> 00:22:39,880
 We lost Straw Hat Luffy!
 
-436
+373
 00:22:39,880 --> 00:22:43,430
 That's just not possible! How many
 guards do you think there are?!
 
-437
+374
 00:22:43,430 --> 00:22:45,090
 But we can't find him anywhere!
 
-438
+375
 00:22:45,680 --> 00:22:49,140
 Does that mean... he's already
 inside the courthouse?!
 
-439
+376
 00:22:49,140 --> 00:22:52,640
 No, sir! We haven't let even
 a single bug through here!
 
-440
+377
 00:22:53,890 --> 00:22:55,270
 Find him!
 
-441
+378
 00:22:55,270 --> 00:22:58,480
 Find Straw Hat at any cost!
 
-442
+379
 00:23:05,700 --> 00:23:08,490
 That must be the last building.
 
-443
+380
 00:23:08,490 --> 00:23:10,990
 But there's no path to it.
 
-444
+381
 00:23:10,990 --> 00:23:13,870
 It's a bit far, but I'll try jumping.
 
-445
+382
 00:23:18,840 --> 00:23:20,250
 What the heck?
 
-446
+383
 00:23:20,250 --> 00:23:21,630
 Air Door.
 
-447
+384
 00:23:32,350 --> 00:23:34,730
 You're that bull who was
 with the damn pigeon!
 
-448
+385
 00:23:34,730 --> 00:23:39,110
 The actual situation seems
 quite different from the report.
 
-449
+386
 00:23:39,110 --> 00:23:41,570
 Hey! How'd you do that?!
 
-450
+387
 00:23:41,570 --> 00:23:43,570
 So cool! Was it a magic trick?
 
-451
+388
 00:23:43,570 --> 00:23:48,410
 Five casualties certainly seemed
 too low a number to be accurate.
 
-452
+389
 00:23:48,410 --> 00:23:50,660
 Boy, that was a big surprise!
 
-453
+390
 00:23:50,660 --> 00:23:53,240
 Since the World Government was conceived,
 
-454
+391
 00:23:53,240 --> 00:24:00,380
 no man has so boldly stepped foot
 this far into the government's entrance.
 
-455
+392
 00:24:00,380 --> 00:24:04,170
 How long do you plan to keep fighting?
 
-456
+393
 00:24:17,940 --> 00:24:19,350
 Until I die.

@@ -195,2406 +195,2385 @@ Seré el Rey de los Piratas...
 49
 00:03:16,780 --> 00:03:22,050
 MONKEY D. GARP
-
-50
-00:03:16,780 --> 00:03:22,050
 [HACE 10 AÑOS]
 
-51
+50
 00:03:16,780 --> 00:03:19,390
 ¡Tanto Ace como tú, Luffy,
 
-52
+51
 00:03:19,390 --> 00:03:22,070
 se convertirán en fuertes marinos!
 
-53
+52
 00:03:22,050 --> 00:03:26,830
 MONKEY D. LUFFY
-
-54
-00:03:22,050 --> 00:03:26,830
 [HACE 10 AÑOS]
 
-55
+53
 00:03:22,100 --> 00:03:24,100
 ¡Duele!
 
-56
+54
 00:03:24,100 --> 00:03:26,470
 ¡Diablos...! ¡¿Por qué me duele si soy de goma?!
 
-57
+55
 00:03:26,470 --> 00:03:28,830
 ¡Suéltame, abuelo!
 
-58
+56
 00:03:28,830 --> 00:03:32,120
 ¡Cometí un error al dejarte en un
  lugar tranquilo como la Aldea Fuusha!
 
-59
+57
 00:03:32,120 --> 00:03:33,940
 ¡¿De entre todas las cosas, Rey de los Piratas?!
 
-60
+58
 00:03:33,940 --> 00:03:34,610
 ¡Sí!
 
-61
+59
 00:03:37,760 --> 00:03:39,430
 ¿Qué es este lugar?
 
-62
+60
 00:03:41,070 --> 00:03:43,700
 ¡Qué molesto!
 
-63
+61
 00:03:43,700 --> 00:03:45,860
 ¡¿Quién es el idiota que no valora su vida?!
 
-64
+62
 00:03:46,000 --> 00:03:47,070
 Soy yo.
 
-65
+63
 00:03:50,220 --> 00:03:52,350
 ¡G-Garp-san!
 
-66
+64
 00:03:54,810 --> 00:03:58,280
 CURLY DADAN
 
-67
+65
 00:03:58,280 --> 00:04:01,720
 BANDIDO DE LA MONTAÑA - DOGRA
 
-68
+66
 00:04:01,720 --> 00:04:05,190
 BANDIDO DE LA MONTAÑA - MAGRA
 
-69
+67
 00:04:05,190 --> 00:04:06,720
 Parece que están bien.
 
-70
+68
 00:04:06,720 --> 00:04:11,600
 ¡Déjate de bromas! ¡Ya deberías liberarnos de esto!
 
-71
+69
 00:04:11,600 --> 00:04:14,140
 ¡Ace ya tiene diez años, ¿sabes?!
 
-72
+70
 00:04:14,140 --> 00:04:16,110
 ¿En serio? ¿Tanto tiempo ha pasado?
 
-73
+71
 00:04:16,110 --> 00:04:17,770
 ¿Cómo está?
 
-74
+72
 00:04:17,770 --> 00:04:19,920
 ¡No es gracioso!
 
-75
+73
 00:04:19,920 --> 00:04:22,480
 ¡Ya no podemos con él!
 
-76
+74
 00:04:22,480 --> 00:04:23,730
 ¡Llévatelo de vuelta!
 
-77
+75
 00:04:23,730 --> 00:04:24,900
 En fin...
 
-78
+76
 00:04:24,900 --> 00:04:26,780
 ¡No cambies el tema!
 
-79
+77
 00:04:26,780 --> 00:04:28,680
 ¡Qué niño tan molesto!
 
-80
+78
 00:04:28,680 --> 00:04:30,880
 Cuiden de él.
 
-81
+79
 00:04:32,380 --> 00:04:33,580
 Vamos, Luffy.
 
-82
+80
 00:04:33,580 --> 00:04:34,490
 Saluda.
 
-83
+81
 00:04:34,490 --> 00:04:35,320
 Hola.
 
-84
+82
 00:04:35,320 --> 00:04:38,020
 ¿Quién es ese niño?
 
-85
+83
 00:04:38,020 --> 00:04:40,660
 Es mi nieto.
 
-86
+84
 00:04:41,390 --> 00:04:43,660
 ¡¿Qué?!
 
-87
+85
 00:04:43,660 --> 00:04:45,280
 ¡¿Tenemos que cuidar a otro?!
 
-88
+86
 00:04:45,280 --> 00:04:46,980
 De Garp... digo...
 
-89
+87
 00:04:46,980 --> 00:04:49,230
 ¡¿El nieto de Garp-san?!
 
-90
+88
 00:04:49,740 --> 00:04:51,040
 ¡Imposible!
 
-91
+89
 00:04:51,040 --> 00:04:53,400
 Bueno, entonces deben elegir.
 
-92
+90
 00:04:53,400 --> 00:04:56,510
 ¿Quieren pasar su vida detrás de las rejas o van a criarlo?
 
-93
+91
 00:04:56,510 --> 00:05:00,380
 He pasado por alto la infinidad 
 de delitos que han cometido.
 
-94
+92
 00:05:02,000 --> 00:05:03,850
 ¡No puede ser!
 
-95
+93
 00:05:03,850 --> 00:05:06,820
 Bueno, no quiero ir a prisión...
 
-96
+94
 00:05:06,820 --> 00:05:10,010
 Pero ir a prisión parece tentador...
 
-97
+95
 00:05:10,010 --> 00:05:12,360
 ¡Ya estamos demasiado ocupados con Ace!
 
-98
+96
 00:05:12,410 --> 00:05:14,500
 ¡¿Y ahora nos traes a tu nieto?!
 
-99
+97
 00:05:14,500 --> 00:05:17,700
 ¡Seguro que es un monstruo como el otro, ¿no?!
 
-100
+98
 00:05:17,700 --> 00:05:19,210
 ¡Qué casa tan fea!
 
-101
+99
 00:05:19,210 --> 00:05:21,380
 ¡¿Quieres morir, granuja?!
 
-102
+100
 00:05:21,380 --> 00:05:22,470
 ¡No escucha!
 
-103
+101
 00:05:22,470 --> 00:05:24,680
 ¡Jefa!
 
-104
+102
 00:05:22,470 --> 00:05:22,930
 ¡Jefa!
 
-105
+103
 00:05:24,680 --> 00:05:25,780
 ¿Qué?
 
-106
+104
 00:05:25,780 --> 00:05:26,550
 ¿Eh?
 
-107
+105
 00:05:26,550 --> 00:05:28,720
 ¡Un escupitajo! ¡Qué asco!
 
-108
+106
 00:05:28,720 --> 00:05:29,830
 ¡¿Quién fue?!
 
-109
+107
 00:05:31,140 --> 00:05:32,440
 ¡Oye! ¡Tú!
 
-110
+108
 00:05:33,210 --> 00:05:35,260
 ¡Discúlpate! ¡Eso da asco!
 
-111
+109
 00:05:35,260 --> 00:05:37,350
 ¡Oh! ¡Ace!
 
-112
+110
 00:05:37,350 --> 00:05:39,510
 ¡Estás de vuelta, Ace!
 
-113
+111
 00:05:41,080 --> 00:05:45,320
 PORTGAS D. ACE
-
-114
-00:05:41,080 --> 00:05:45,320
 [HACE 10 AÑOS]
 
-115
+112
 00:05:45,320 --> 00:05:46,560
 ¡Oye! ¡Discúlpate!
 
-116
+113
 00:05:48,760 --> 00:05:51,590
 Luffy, él es Ace.
 
-117
+114
 00:05:51,590 --> 00:05:53,620
 Es tres años mayor que tú.
 
-118
+115
 00:05:53,620 --> 00:05:56,430
 Desde hoy, vas a vivir con estas personas.
 
-119
+116
 00:05:56,950 --> 00:05:58,900
 ¡¿Lo decidiste tú solo?!
 
-120
+117
 00:06:04,550 --> 00:06:05,710
 ¡Llévense bien!
 
-121
+118
 00:06:05,710 --> 00:06:06,810
 ¡¿Ya está decidido?!
 
-122
+119
 00:06:06,810 --> 00:06:08,850
 ¡¿Qué?!
 
-123
+120
 00:06:11,330 --> 00:06:12,980
 ¡Cuidaremos de él!
 
-124
+121
 00:06:13,820 --> 00:06:15,740
 ¡Es tu turno de lavar los platos!
 
-125
+122
 00:06:16,140 --> 00:06:18,430
 ¡Viejo, quiero otro plato!
 
-126
+123
 00:06:18,430 --> 00:06:20,590
 ¡Soy una mujer!
 
-127
+124
 00:06:20,590 --> 00:06:23,870
 ¡¿No entiendes en qué clase de lugar te dejaron?!
 
-128
+125
 00:06:23,870 --> 00:06:24,500
 No.
 
-129
+126
 00:06:24,500 --> 00:06:25,980
 Entonces te lo diré.
 
-130
+127
 00:06:25,980 --> 00:06:29,840
 ¡Esta es la guarida del grupo de bandidos de la montaña que controla el Monte Colubo, la Familia Dadan!
 
-131
+128
 00:06:29,840 --> 00:06:31,450
 ¿Bandidos de la montaña?
 
-132
+129
 00:06:31,450 --> 00:06:33,550
 ¡Los detesto!
 
-133
+130
 00:06:35,240 --> 00:06:36,900
 ¡Cállate, mocoso!
 
-134
+131
 00:06:36,900 --> 00:06:40,200
 ¡¿Crees que crío a mocosos como tú por gusto?!
 
-135
+132
 00:06:40,210 --> 00:06:42,320
 ¡Si no quieres estar aquí, mejor para nosotros!
 
-136
+133
 00:06:42,320 --> 00:06:44,870
 ¡Vete a cualquier parte y muere como un animal!
 
-137
+134
 00:06:44,870 --> 00:06:46,580
 Tranquila, jefa...
 
-138
+135
 00:06:46,580 --> 00:06:48,450
 Aún tengo hambre...
 
-139
+136
 00:06:50,120 --> 00:06:52,420
 Quiero un poco de esa carne...
 
-140
+137
 00:06:59,720 --> 00:07:03,900
 Toda esta carne ha sido de un búfalo que cazó Ace.
 
-141
+138
 00:07:03,900 --> 00:07:07,140
 Se puede sentar a comer con nosotros porque también nos trae provisiones.
 
-142
+139
 00:07:07,140 --> 00:07:09,090
 La vida de un bandido de la montaña es dura.
 
-143
+140
 00:07:09,090 --> 00:07:12,050
 ¡A partir de mañana, trabajarás como un esclavo!
 
-144
+141
 00:07:12,050 --> 00:07:12,990
 Limpiando.
 
-145
+142
 00:07:12,990 --> 00:07:14,170
 Lavando ropa.
 
-146
+143
 00:07:14,170 --> 00:07:16,070
 ¡Lustrando zapatos y afilando armas!
 
-147
+144
 00:07:16,440 --> 00:07:19,190
 ¡Robarás, estafarás y asesinarás a personas!
 
-148
+145
 00:07:19,810 --> 00:07:24,760
 ¡Y escucha bien, no le dirás ni una palabra a Garp de lo que te obligamos a hacer!
 
-149
+146
 00:07:24,760 --> 00:07:29,460
 ¡Un plato de arroz y un vaso de agua al día!
 
-150
+147
 00:07:29,460 --> 00:07:31,660
 Eso es lo único que tendrás.
 
-151
+148
 00:07:31,660 --> 00:07:34,220
 Todo lo demás tienes que conseguirlo tú mismo.
 
-152
+149
 00:07:34,220 --> 00:07:36,000
 Así que te criarás solo.
 
-153
+150
 00:07:36,000 --> 00:07:36,920
 Muy bien.
 
-154
+151
 00:07:36,920 --> 00:07:38,250
 ¡¿Estás de acuerdo?!
 
-155
+152
 00:07:38,250 --> 00:07:40,240
 ¡Deberías estar llorando!
 
-156
+153
 00:07:40,240 --> 00:07:44,050
 Una vez, mi abuelo me dejó en la selva de pequeño.
 
-157
+154
 00:07:44,050 --> 00:07:46,390
 Gusanos, ranas, serpientes, hongos...
 
-158
+155
 00:07:46,390 --> 00:07:49,510
 ¡Si estamos en un bosque, tendré mucho que comer!
 
-159
+156
 00:07:49,510 --> 00:07:52,950
 ¡Además, algún día seré pirata!
 
-160
+157
 00:07:52,950 --> 00:07:55,000
 ¡Así que tengo que poder con esto y más!
 
-161
+158
 00:07:55,620 --> 00:07:56,720
 ¡Jefa!
 
-162
+159
 00:07:56,720 --> 00:07:57,230
 ¿Se encuentra bien?
 
-163
+160
 00:07:57,230 --> 00:07:58,620
 ¡¿Qué está haciendo?!
 
-164
+161
 00:07:58,620 --> 00:08:01,200
 ¡Y... tiren!
 
-165
+162
 00:08:02,160 --> 00:08:04,160
 ¿Adónde irá?
 
-166
+163
 00:08:04,160 --> 00:08:05,500
 ¡Y... tiren!
 
-167
+164
 00:08:06,910 --> 00:08:08,220
 ¡¿Adónde vas?!
 
-168
+165
 00:08:08,690 --> 00:08:10,640
 ¡Espera, ¿dijiste pirata?!
 
-169
+166
 00:08:10,640 --> 00:08:12,500
 ¡No escucha!
 
-170
+167
 00:08:12,500 --> 00:08:13,770
 ¡Oye!
 
-171
+168
 00:08:17,880 --> 00:08:20,410
 ¡¿Ven?! ¡Es demasiado terco!
 
-172
+169
 00:08:20,410 --> 00:08:23,010
 ¡Por eso no quería cuidar al nieto de Garp!
 
-173
+170
 00:08:23,010 --> 00:08:24,780
 Tranquila, jefa.
 
-174
+171
 00:08:25,390 --> 00:08:26,820
 ¡Oye!
 
-175
+172
 00:08:27,550 --> 00:08:29,090
 ¡Espera!
 
-176
+173
 00:08:30,260 --> 00:08:32,040
 ¡Oye!
 
-177
+174
 00:08:34,860 --> 00:08:39,960
 ¡Me llamo Luffy! ¡Ya no estoy
  enfadado por lo del escupitajo!
 
-178
+175
 00:08:44,740 --> 00:08:46,510
 ¡¿Por qué se están riendo?!
 
-179
+176
 00:08:47,270 --> 00:08:49,310
 Ellos sólo derramaron algo de alcohol.
 
-180
+177
 00:08:49,310 --> 00:08:51,300
 No es para exaltarse tanto.
 
-181
+178
 00:08:51,410 --> 00:08:54,890
 ¡No es para exaltarse tanto! ¡Seamos amigos!
 
-182
+179
 00:08:55,510 --> 00:08:56,880
 ¿Adónde vas?
 
-183
+180
 00:09:04,390 --> 00:09:06,660
 ¡¿No hay salida?!
 
-184
+181
 00:10:00,450 --> 00:10:04,000
 ¡Oye! ¡Ace ha vuelto!
 
-185
+182
 00:10:04,000 --> 00:10:05,920
 ¡Comida!
 
-186
+183
 00:10:07,540 --> 00:10:10,230
 Ace, ¿volviste solo?
 
-187
+184
 00:10:10,230 --> 00:10:12,560
 ¿Qué hay de Luffy?
 
-188
+185
 00:10:12,560 --> 00:10:13,960
 ¿No estaba contigo?
 
-189
+186
 00:10:13,960 --> 00:10:15,010
 Ni idea.
 
-190
+187
 00:10:16,900 --> 00:10:19,790
 ¡Compórtese, jefa!
 
-191
+188
 00:10:19,790 --> 00:10:20,700
 ¿Qué dijiste?
 
-192
+189
 00:10:20,700 --> 00:10:24,460
 ¡Escúcheme, ¿no se ve mal que desaparezca el primer día?!
 
-193
+190
 00:10:24,460 --> 00:10:27,970
 ¡Déjalo! ¡Si se ha muerto, no hay nada que podamos hacer!
 
-194
+191
 00:10:28,520 --> 00:10:33,190
 ¡Además, ya he tenido suficiente de ese Ace!
 
-195
+192
 00:10:33,960 --> 00:10:39,300
 ¡Si le sucediera algo, le diríamos a Garp que fue un accidente! ¡Y todos seríamos felices!
 
-196
+193
 00:10:39,300 --> 00:10:43,360
 Pero nada, "hierba mala nunca muere".
 
-197
+194
 00:10:43,360 --> 00:10:45,670
 Él también es el hijo de un demonio.
 
-198
+195
 00:10:45,670 --> 00:10:49,650
 ¡Piensen lo que pasaría si el Gobierno se entera!
 
-199
+196
 00:10:49,650 --> 00:10:52,710
 ¿Tienen idea de lo que nos podrían hacer?
 
-200
+197
 00:10:52,710 --> 00:10:54,500
 Tranquila, jefa...
 
-201
+198
 00:10:54,500 --> 00:10:58,480
 ¿No cree que ha bebido demasiado?
 
-202
+199
 00:10:59,420 --> 00:11:02,450
 UNA SEMANA DESPUÉS
 
-203
+200
 00:11:00,690 --> 00:11:02,450
 Una semana después...
 
-204
+201
 00:11:02,990 --> 00:11:05,290
 ¡Jefa! ¡Jefa Dadan!
 
-205
+202
 00:11:05,290 --> 00:11:06,930
 ¿Quién...?
 
-206
+203
 00:11:06,930 --> 00:11:08,830
 ¿Quién es?
 
-207
+204
 00:11:08,830 --> 00:11:09,590
 ¡Eres tú!
 
-208
+205
 00:11:09,590 --> 00:11:12,950
 ¡Luffy regresó!
 
-209
+206
 00:11:18,040 --> 00:11:19,360
 Este mocoso...
 
-210
+207
 00:11:20,080 --> 00:11:22,040
 ¡¿Sigue vivo?!
 
-211
+208
 00:11:22,040 --> 00:11:22,970
 Pequeño moc...
 
-212
+209
 00:11:22,970 --> 00:11:24,530
 Tranquila, jefa...
 
-213
+210
 00:11:24,530 --> 00:11:26,820
 ¡¿Dónde te habías metido?!
 
-214
+211
 00:11:26,820 --> 00:11:27,780
 Tranquila...
 
-215
+212
 00:11:27,780 --> 00:11:30,070
 ¿Dónde estabas y qué estabas haciendo?
 
-216
+213
 00:11:30,590 --> 00:11:34,050
 Me estaban persiguiendo unos
  lobos en el fondo de un precipicio.
 
-217
+214
 00:11:34,050 --> 00:11:37,320
 ¡¿En el fondo de un precipicio?! ¡¿Qué hacías ahí abajo?!
 
-218
+215
 00:11:39,590 --> 00:11:43,880
 Bueno, en ese caso, qué bueno que estés a salvo.
 
-219
+216
 00:11:43,880 --> 00:11:48,060
 ¡Al diablo con eso! ¡Esto significa 
 que el problema ha regresado!
 
-220
+217
 00:11:48,930 --> 00:11:53,890
 ¡Vete a dormir! ¡Mañana trabajarás duro!
 
-221
+218
 00:11:53,890 --> 00:11:54,840
 ¡Qué rápido!
 
-222
+219
 00:12:03,840 --> 00:12:04,900
 ¡Hola!
 
-223
+220
 00:12:04,900 --> 00:12:07,780
 ¿Vas a algún lado hoy, Ace?
 
-224
+221
 00:12:07,780 --> 00:12:11,570
 ¡Llévame contigo! ¡Seamos amigos!
 
-225
+222
 00:12:12,360 --> 00:12:13,620
 ¡Espera!
 
-226
+223
 00:12:13,620 --> 00:12:16,160
 ¡Jefa! ¡Está persiguiendo a Ace de nuevo!
 
-227
+224
 00:12:16,710 --> 00:12:20,270
 ¡Oye! ¡Tienes trabajo que hacer!
 
-228
+225
 00:12:21,880 --> 00:12:25,060
 ¡No quiero!
 
-229
+226
 00:12:25,070 --> 00:12:27,530
 ¡Este maldito mocoso nunca me va a escuchar!
 
-230
+227
 00:12:27,530 --> 00:12:28,880
 Tranquila, jefa...
 
-231
+228
 00:12:28,880 --> 00:12:30,850
 ¡Date prisa y tráelo de vuelta!
 
-232
+229
 00:12:30,850 --> 00:12:31,510
 Sí...
 
-233
+230
 00:12:31,510 --> 00:12:33,600
 ¡Oye!
 
-234
+231
 00:12:51,150 --> 00:12:53,730
 Seguía persiguiéndolo, pero siempre lo perdía de vista.
 
-235
+232
 00:12:57,260 --> 00:12:59,320
 Y así, día tras día...
 
-236
+233
 00:12:59,320 --> 00:13:01,430
 ¡Ace!
 
-237
+234
 00:13:09,240 --> 00:13:10,870
 Un mes...
 
-238
+235
 00:13:12,210 --> 00:13:13,610
 Dos meses...
 
-239
+236
 00:13:13,610 --> 00:13:15,460
 ¡Ace!
 
-240
+237
 00:13:15,460 --> 00:13:16,810
 En días lluviosos...
 
-241
+238
 00:13:17,460 --> 00:13:19,530
 Y en días con viento...
 
-242
+239
 00:13:21,460 --> 00:13:23,350
 ¡Ace!
 
-243
+240
 00:13:23,350 --> 00:13:27,060
 Luffy seguía persiguiendo a Ace desesperadamente.
 
-244
+241
 00:13:33,160 --> 00:13:35,440
 ¡Ace!
 
-245
+242
 00:13:43,380 --> 00:13:44,790
 ¡Ace!
 
-246
+243
 00:13:44,790 --> 00:13:47,080
 ¡Oye!
 
-247
+244
 00:13:47,080 --> 00:13:49,290
 Me ha seguido hasta aquí...
 
-248
+245
 00:13:49,290 --> 00:13:50,770
 Qué persistente...
 
-249
+246
 00:13:52,790 --> 00:13:54,000
 ¡Demonios!
 
-250
+247
 00:13:54,890 --> 00:13:57,350
 ¡Diablos! ¡Lo perdí de vista de nuevo!
 
-251
+248
 00:13:57,350 --> 00:13:59,580
 ¡Ace es increíble!
 
-252
+249
 00:14:00,660 --> 00:14:01,390
 ¿Ace?
 
-253
+250
 00:14:10,170 --> 00:14:15,010
 ¡El Rey del Monte Colubo! ¡No tiene 
 ninguna posibilidad contra él!
 
-254
+251
 00:14:17,580 --> 00:14:19,040
 ¡¿Por qué no corres?!
 
-255
+252
 00:14:19,040 --> 00:14:20,160
 ¡Te va a comer!
 
-256
+253
 00:14:21,360 --> 00:14:24,290
 ¡M-Mis piernas no... me responden!
 
-257
+254
 00:14:24,840 --> 00:14:26,170
 Él...
 
-258
+255
 00:15:29,720 --> 00:15:34,540
 Luffy continuó con su persecución durante tres meses...
 
-259
+256
 00:15:41,630 --> 00:15:43,780
 ¡Salí del bosque!
 
-260
+257
 00:15:50,980 --> 00:15:52,240
 ¿Qué es este lugar?
 
-261
+258
 00:15:53,490 --> 00:15:58,970
 Al norte del Monte Colubo, donde vive la 
 Familia Dadan, se encuentra este lugar.
 
-262
+259
 00:15:59,760 --> 00:16:05,150
 El humo emerge constantemente de las pilas de basura.
 
-263
+260
 00:16:05,150 --> 00:16:08,620
 Todo lo que ha quedado inservible se amontona aquí.
 
-264
+261
 00:16:08,620 --> 00:16:15,100
 Sus habitantes son forajidos que 
 han sido expulsados del reino.
 
-265
+262
 00:16:15,100 --> 00:16:18,000
 Naturalmente, es una tierra sin ley...
 
-266
+263
 00:16:18,710 --> 00:16:22,720
 ...y sin médicos, donde los delitos
  y las enfermedades abundan.
 
-267
+264
 00:16:22,720 --> 00:16:26,300
 Esto es Gray Terminal.
 
-268
+265
 00:16:26,830 --> 00:16:28,850
 Tesoro... tesoro...
 
-269
+266
 00:16:28,850 --> 00:16:31,650
 ¿No hay nada de valor por aquí?
 
-270
+267
 00:16:33,940 --> 00:16:35,830
 ¡Encontré un tesoro!
 
-271
+268
 00:16:35,830 --> 00:16:37,480
 ¡Dámelo!
 
-272
+269
 00:16:37,480 --> 00:16:38,840
 ¡No, es mío!
 
-273
+270
 00:16:38,840 --> 00:16:40,710
 ¡No me jodas! ¡Yo lo encontré!
 
-274
+271
 00:16:40,710 --> 00:16:43,000
 ¡No lo toquen, malditos!
 
-275
+272
 00:16:43,000 --> 00:16:45,730
 ¡Lo voy a llevar al pueblo para venderlo!
 
-276
+273
 00:16:45,730 --> 00:16:46,980
 ¡No permitiré que me lo quiten!
 
-277
+274
 00:16:46,980 --> 00:16:48,390
 ¡Espera!
 
-278
+275
 00:16:57,350 --> 00:16:58,330
 ¡Demonios!
 
-279
+276
 00:16:58,330 --> 00:16:59,010
 ¡Dámelo!
 
-280
+277
 00:17:01,150 --> 00:17:05,860
 No te hubiera lastimado si me lo
  hubieras dado desde un principio.
 
-281
+278
 00:17:06,650 --> 00:17:08,670
 ¡Bien hecho!
 
-282
+279
 00:17:08,670 --> 00:17:09,870
 Tú...
 
-283
+280
 00:17:09,870 --> 00:17:10,890
 ¡No me jodas!
 
-284
+281
 00:17:13,460 --> 00:17:15,290
 ¡Ladrón!
 
-285
+282
 00:17:21,310 --> 00:17:22,250
 ¡Apártate, mocoso!
 
-286
+283
 00:17:23,960 --> 00:17:27,520
 ¡Date prisa! ¡Si no te mueves pronto, te...!
 
-287
+284
 00:17:27,520 --> 00:17:29,870
 ¡Se fue por ahí!
 
-288
+285
 00:17:35,490 --> 00:17:37,550
 ¡Sabo! ¡Sabo, ¿estás ahí?!
 
-289
+286
 00:17:40,280 --> 00:17:42,020
 ¡Oh, Ace!
 
-290
+287
 00:17:42,590 --> 00:17:44,570
 Disculpa por llegar tarde.
 
-291
+288
 00:17:44,570 --> 00:17:46,160
 ¡Llegas tarde!
 
-292
+289
 00:17:46,490 --> 00:17:49,480
 Ya hice un trabajito en la ciudad.
 
-293
+290
 00:17:46,750 --> 00:17:51,290
 SABO [HACE 10 AÑOS]
-
-294
-00:17:46,750 --> 00:17:51,290
 (CHICO QUE VIVE EN GRAY TERMINAL)
 
-295
+291
 00:17:52,150 --> 00:17:55,200
 ¿En serio? Ya somos dos.
 
-296
+292
 00:17:55,200 --> 00:17:57,000
 ¡Aquí vamos!
 
-297
+293
 00:17:57,000 --> 00:18:00,630
 ¡Fantástico! ¡Conseguiste más que yo!
 
-298
+294
 00:18:00,630 --> 00:18:03,710
 ¡¿De dónde sacaste tanto?!
 
-299
+295
 00:18:03,710 --> 00:18:07,410
 Se lo robé a unos rufianes
  justo al lado de la Gran Puerta.
 
-300
+296
 00:18:07,850 --> 00:18:10,670
 Rayos, me volviste a ganar.
 
-301
+297
 00:18:11,230 --> 00:18:12,690
 Da igual quién traiga más, ¿no?
 
-302
+298
 00:18:14,010 --> 00:18:16,620
 Este fondo pirata lo usaremos entre los dos.
 
-303
+299
 00:18:16,620 --> 00:18:19,660
 Ya llevamos cinco años reuniendo el dinero, ¿cierto?
 
-304
+300
 00:18:22,710 --> 00:18:23,730
 Nos ha costado.
 
-305
+301
 00:18:25,290 --> 00:18:26,700
 ¡Vaya que sí!
 
-306
+302
 00:18:27,740 --> 00:18:32,490
 Salir del East Blue para dirigirse a un mundo del que estos isleños no tienen idea...
 
-307
+303
 00:18:32,500 --> 00:18:35,240
 ¡Me emociono de sólo pensarlo!
 
-308
+304
 00:18:42,320 --> 00:18:45,510
 Apresúrate y tápalo, no se sabe quién pueda estar mirando.
 
-309
+305
 00:18:45,510 --> 00:18:49,880
 ¿Cuánto se necesitará para comprar un barco pirata?
 
-310
+306
 00:18:49,880 --> 00:18:50,970
 Ni idea...
 
-311
+307
 00:18:50,970 --> 00:18:53,710
 Decenas o cientos de millones...
 
-312
+308
 00:18:53,710 --> 00:18:55,310
 Aún nos falta mucho.
 
-313
+309
 00:18:55,310 --> 00:18:56,790
 ¡¿Un barco pirata?!
 
-314
+310
 00:18:57,390 --> 00:19:01,360
 ¡¿Ustedes van a ser piratas?!
 
-315
+311
 00:19:01,360 --> 00:19:03,800
 ¡Yo también!
 
-316
+312
 00:19:03,800 --> 00:19:05,030
 ¡Oigan!
 
-317
+313
 00:19:14,870 --> 00:19:16,460
 ¡Ya cállate!
 
-318
+314
 00:19:19,520 --> 00:19:23,640
 Ace, ¿aquí es adonde venías todos los días?
 
-319
+315
 00:19:23,640 --> 00:19:24,850
 Cállate.
 
-320
+316
 00:19:25,060 --> 00:19:28,690
 ¿Este es el tal Luffy del que me hablaste?
 
-321
+317
 00:19:29,620 --> 00:19:31,320
 ¿Le hablaste de mí?
 
-322
+318
 00:19:31,320 --> 00:19:33,850
 ¡Me estaba quejando de lo pegajoso que eres!
 
-323
+319
 00:19:33,850 --> 00:19:37,700
 ¡Y de cómo nunca piensas en las cosas que haces!
 
-324
+320
 00:19:38,420 --> 00:19:39,420
 ¡Ya veo!
 
-325
+321
 00:19:39,420 --> 00:19:42,670
 ¿No se da cuenta de que lo estamos insultando?
 
-326
+322
 00:19:42,670 --> 00:19:45,640
 Al final, logró seguirme hasta aquí.
 
-327
+323
 00:19:45,640 --> 00:19:48,540
 Y eso que paso por lugares que
  no cualquiera podría cruzar...
 
-328
+324
 00:19:48,540 --> 00:19:51,290
 ¿Eres amigo de Ace?
 
-329
+325
 00:19:51,290 --> 00:19:52,880
 ¡Yo también quiero ser tu amigo!
 
-330
+326
 00:19:52,880 --> 00:19:56,550
 ¡Cállate! ¡Y no me trates de "tú"!
 
-331
+327
 00:19:56,550 --> 00:19:58,400
 Entonces, ¿cuál es tu nombre?
 
-332
+328
 00:19:58,400 --> 00:19:59,200
 Sa...
 
-333
+329
 00:19:59,200 --> 00:20:00,040
 ¡No te lo diré!
 
-334
+330
 00:20:00,820 --> 00:20:04,180
 ¡Por eso te dije que vivieras aquí conmigo!
 
-335
+331
 00:20:04,180 --> 00:20:08,100
 ¡Tus entrenamientos diarios cruzando
  la montaña nos van a salir caros!
 
-336
+332
 00:20:08,760 --> 00:20:10,010
 ¿Qué hacemos?
 
-337
+333
 00:20:11,400 --> 00:20:13,640
 Ha descubierto nuestro secreto...
 
-338
+334
 00:20:13,640 --> 00:20:16,660
 Si lo dejamos libre, se lo contará a alguien.
 
-339
+335
 00:20:23,260 --> 00:20:24,300
 Lo mataremos.
 
-340
+336
 00:20:24,300 --> 00:20:26,200
 Bien, será lo mejor.
 
-341
+337
 00:20:28,220 --> 00:20:31,090
 ¡¿Qué?!
 
-342
+338
 00:20:31,090 --> 00:20:33,480
 ¡No me maten!
 
-343
+339
 00:20:33,480 --> 00:20:35,450
 ¡Auxilio!
 
-344
+340
 00:20:35,450 --> 00:20:36,880
 ¡No quiero morir!
 
-345
+341
 00:20:36,880 --> 00:20:38,820
 ¡Idiota! ¡Cállate!
 
-346
+342
 00:20:38,820 --> 00:20:41,290
 ¡Sabo! ¡Mátalo ya!
 
-347
+343
 00:20:41,290 --> 00:20:43,220
 ¡¿Qué?! ¡No, hazlo tú!
 
-348
+344
 00:20:43,220 --> 00:20:45,540
 ¡Nunca he matado a nadie!
 
-349
+345
 00:20:45,540 --> 00:20:48,470
 ¡Yo tampoco! ¡No sé cómo se hace!
 
-350
+346
 00:20:48,470 --> 00:20:51,410
 ¡No me arrojen al agua!
 
-351
+347
 00:20:51,410 --> 00:20:52,850
 ¡Eso! ¡Al río!
 
-352
+348
 00:20:52,850 --> 00:20:55,300
 ¿Por qué nos lo dijo?
 
-353
+349
 00:20:55,300 --> 00:20:56,330
 ¡Porque es un idiota!
 
-354
+350
 00:20:56,330 --> 00:20:58,870
 ¡Auxilio!
 
-355
+351
 00:20:58,870 --> 00:21:00,520
 ¡Cállate!
 
-356
+352
 00:21:02,710 --> 00:21:04,920
 ¡No quiero morir!
 
-357
+353
 00:21:05,460 --> 00:21:07,580
 ¡Se oyen voces en el bosque!
 
-358
+354
 00:21:07,580 --> 00:21:08,810
 ¡Voces de niños!
 
-359
+355
 00:21:08,810 --> 00:21:11,180
 ¡Rayos! ¡Viene alguien!
 
-360
+356
 00:21:11,180 --> 00:21:13,400
 ¡Hay que desatarlo!
 
-361
+357
 00:21:13,400 --> 00:21:16,190
 ¡Si no nos alejamos de aquí, 
 encontrarán nuestro tesoro!
 
-362
+358
 00:21:18,910 --> 00:21:22,560
 Ace y Sabo son unos mocosos 
 muy conocidos por esta zona.
 
-363
+359
 00:21:23,600 --> 00:21:25,890
 ¿Están completamente seguros...
 
-364
+360
 00:21:23,680 --> 00:21:28,340
 MARINERO DE LOS PIRATAS DE BLUEJAM
-
-365
-00:21:23,680 --> 00:21:28,340
 PORCHEMY
 
-366
+361
 00:21:25,890 --> 00:21:28,350
 ...de que fue Ace quien les robó el dinero?
 
-367
+362
 00:21:28,350 --> 00:21:31,170
 Sí, es vergonzoso.
 
-368
+363
 00:21:31,170 --> 00:21:32,480
 Nos confiamos.
 
-369
+364
 00:21:32,990 --> 00:21:35,080
 ¡Qué niño tan atrevido!
 
-370
+365
 00:21:35,080 --> 00:21:38,020
 ¡Mira que robarnos a nosotros!
 
-371
+366
 00:21:38,580 --> 00:21:43,660
 ¡Si el Capitán Bluejam se entera 
 de esto, nos matará a todos!
 
-372
+367
 00:21:45,320 --> 00:21:50,090
 ¡Rayos! ¿Esos rufianes son parte 
 de la tripulación de Bluejam?
 
-373
+368
 00:21:50,090 --> 00:21:53,100
 ¿Rufianes? ¿Les robaste el dinero a esos tipos?
 
-374
+369
 00:21:53,810 --> 00:21:56,630
 Fue un error ir tras su dinero.
 
-375
+370
 00:21:56,640 --> 00:22:00,640
 Ese tipo que lleva una espada de verdad es un subordinado de Bluejam, Porchemy.
 
-376
+371
 00:22:01,380 --> 00:22:04,410
 Dicen que está loco, ¿sabes?
 
-377
+372
 00:22:05,480 --> 00:22:09,650
 ¡Les quita la piel de la cara a quienes
  derrota mientras aún están vivos!
 
-378
+373
 00:22:13,540 --> 00:22:16,320
 No podemos dejar que nos vean...
 
-379
+374
 00:22:17,820 --> 00:22:19,360
 ¿Eh? ¿Dónde se metió?
 
-380
+375
 00:22:22,130 --> 00:22:23,970
 ¡Suéltame! ¿Qué crees que haces?
 
-381
+376
 00:22:23,970 --> 00:22:26,140
 ¡¿Cómo es que lo atraparon?!
 
-382
+377
 00:22:26,800 --> 00:22:28,450
 ¿Quién es este niño?
 
-383
+378
 00:22:28,450 --> 00:22:29,640
 ¡Ayúdame!
 
-384
+379
 00:22:29,640 --> 00:22:31,260
 ¡Ace!
 
-385
+380
 00:22:32,820 --> 00:22:35,250
 ¡Ayúdame, Ace!
 
-386
+381
 00:22:35,250 --> 00:22:38,390
 ¡Qué idiota! ¡Dijo mi nombre!
 
-387
+382
 00:22:40,210 --> 00:22:42,120
 ¿Dijiste "Ace"?
 
-388
+383
 00:22:43,420 --> 00:22:44,190
 ¿Y qué?
 
-389
+384
 00:22:44,190 --> 00:22:47,390
 ¿Conoces a Ace?
 
-390
+385
 00:22:48,860 --> 00:22:50,200
 ¡Es mi amigo!
 
-391
+386
 00:22:51,110 --> 00:22:53,700
 Ah, aunque estaba a punto de matarme...
 
-392
+387
 00:22:55,360 --> 00:22:58,270
 ¡Nunca se calla!
 
-393
+388
 00:22:58,820 --> 00:23:00,690
 Por si acaso, te lo preguntaré...
 
-394
+389
 00:23:00,690 --> 00:23:05,970
 Hace un rato, Ace nos robó dinero y luego huyó...
 
-395
+390
 00:23:05,970 --> 00:23:09,210
 ¿Sabes dónde lo tiene?
 
-396
+391
 00:23:13,590 --> 00:23:16,840
 ¡Demonios! ¡Nos quitarán nuestro tesoro!
 
-397
+392
 00:23:16,840 --> 00:23:19,180
 ¡Será mejor que ese idiota no le diga nada!
 
-398
+393
 00:23:28,650 --> 00:23:31,600
 Ni idea...
 
-399
+394
 00:23:32,440 --> 00:23:34,170
 ¡Qué mal mentiroso!
 
-400
+395
 00:23:38,360 --> 00:23:42,470
 Muy bien, qué pena que no lo sepas.
 
-401
+396
 00:23:45,600 --> 00:23:49,250
 ¡Tendremos que hacer que lo 
 recuerdes! ¡Tú no te preocupes!
 
-402
+397
 00:23:50,520 --> 00:23:51,320
 ¡¿Qué hacen?!
 
-403
+398
 00:23:51,320 --> 00:23:53,540
 ¡Suéltenme! ¡¿Adónde me llevan?!
 
-404
+399
 00:23:53,540 --> 00:23:56,390
 ¡Demonios! ¡Idiota, suéltame!
 
-405
+400
 00:23:56,390 --> 00:23:58,280
 ¡Idiota!
 
-406
+401
 00:23:58,280 --> 00:23:59,670
 ¿Qué hacemos?
 
-407
+402
 00:23:59,670 --> 00:24:02,400
 ¿Que qué hacemos? Bueno...
 
-408
+403
 00:24:10,740 --> 00:24:12,410
 ¡Suéltame!
 
-409
+404
 00:24:12,410 --> 00:24:14,410
 ¡No te diré nada!
 
-410
+405
 00:24:22,720 --> 00:24:24,750
 ¡Mocoso de mierda!
 
-411
+406
 00:24:38,840 --> 00:24:42,440
 ¡Ya te dije que soy un hombre de
  goma, comí la fruta Gomu Gomu!
 
-412
+407
 00:24:42,960 --> 00:24:44,330
 ¡Quietos!
 
-413
+408
 00:24:45,510 --> 00:24:47,650
 ¿Una fruta del diablo?
 
-414
+409
 00:24:49,080 --> 00:24:51,520
 Así que eres un verdadero usuario...
 
-415
+410
 00:24:53,620 --> 00:24:55,500
 Tráiganme mis guantes.
 
-416
+411
 00:24:56,170 --> 00:24:57,150
 ¡S-Sí!
 
-417
+412
 00:24:57,150 --> 00:25:01,350
 ¡Deprisa, deprisa! ¡Si Porchemy y los
  demás vuelven, estaremos perdidos!
 
-418
+413
 00:25:01,350 --> 00:25:04,280
 ¡Debemos llevar nuestro tesoro a otra parte! ¡Rápido!
 
-419
+414
 00:25:04,880 --> 00:25:08,320
 ¡Sólo es cuestión de tiempo para que Luffy hable!
 
-420
+415
 00:25:08,320 --> 00:25:11,690
 Si encuentran esto, no sólo se llevarán lo que les robamos...
 
-421
+416
 00:25:11,690 --> 00:25:15,890
 ¡Nos quitarán todo nuestro fondo pirata, nuestro esfuerzo de cinco años!
 
-422
+417
 00:25:21,350 --> 00:25:26,090
 ¡Mira, mocoso! ¡El dinero que tu amigo, Ace, nos robó...
 
-423
+418
 00:25:26,090 --> 00:25:29,070
 ...es muy importante para nuestra tripulación!
 
-424
+419
 00:25:29,880 --> 00:25:32,380
 ¡Y tú sabes dónde está!
 
-425
+420
 00:25:32,380 --> 00:25:34,880
 ¡Así que vas a decírnoslo!
 
-426
+421
 00:25:36,260 --> 00:25:37,050
 ¡No!
 
-427
+422
 00:25:45,790 --> 00:25:46,770
 ¡Funciona!
 
-428
+423
 00:25:50,930 --> 00:25:53,910
 ¡No hay que hacer enojar a un pirata!
 
-429
+424
 00:25:53,910 --> 00:25:59,040
 ¡Nuestro capitán, Bluejam, es realmente cruel!
 
-430
+425
 00:26:06,560 --> 00:26:07,900
 ¡Me duele mucho!
 
-431
+426
 00:26:07,900 --> 00:26:10,740
 ¡Tengo miedo! ¡Que alguien me ayude!
 
-432
+427
 00:26:13,050 --> 00:26:15,920
 ¡Salgan a buscar a Ace y Sabo!
 
-433
+428
 00:26:15,920 --> 00:26:18,520
 ¡No tenemos tiempo que perder!
 
-434
+429
 00:26:18,520 --> 00:26:19,330
 ¡S-Sí!
 
-435
+430
 00:26:27,950 --> 00:26:31,010
 ¿Que si he visto a Ace y a Sabo?
 
-436
+431
 00:26:31,010 --> 00:26:34,800
 Ustedes son de la ciudad, ¿no?
 
-437
+432
 00:26:34,800 --> 00:26:37,750
 Será mejor que no se metan con esos dos.
 
-438
+433
 00:26:38,620 --> 00:26:41,310
 ¡No deberían subestimarlos sólo porque son niños!
 
-439
+434
 00:26:41,310 --> 00:26:44,280
 ¡Son capaces de asesinar a animales salvajes!
 
-440
+435
 00:26:44,280 --> 00:26:46,150
 ¿Ace y Sabo?
 
-441
+436
 00:26:46,150 --> 00:26:47,560
 No los he visto...
 
-442
+437
 00:26:48,240 --> 00:26:50,840
 Pero, antes que eso, amigos...
 
-443
+438
 00:26:50,840 --> 00:26:53,790
 ¿Por qué no nos dan sus cosas de valor?
 
-444
+439
 00:26:53,790 --> 00:26:55,490
 ¡N-No lo hagan, por favor!
 
-445
+440
 00:26:55,490 --> 00:26:57,470
 ¡Busquemos en otra parte!
 
-446
+441
 00:27:00,530 --> 00:27:03,300
 Ya está anocheciendo...
 
-447
+442
 00:27:03,300 --> 00:27:05,310
 ¡Bien, todo listo!
 
-448
+443
 00:27:05,310 --> 00:27:07,650
 ¡Terminamos de trasladar todo el tesoro!
 
-449
+444
 00:27:11,460 --> 00:27:13,100
 ¡Ace!
 
-450
+445
 00:27:13,100 --> 00:27:15,000
 Sabo, ¿qué pasa?
 
-451
+446
 00:27:15,000 --> 00:27:17,050
 ¿Fueron a nuestro antiguo 
 escondite a buscar el dinero?
 
-452
+447
 00:27:19,600 --> 00:27:21,750
 No, no han ido...
 
-453
+448
 00:27:22,240 --> 00:27:24,120
 ¡¿Cómo van a ir a buscarlo?!
 
-454
+449
 00:27:25,010 --> 00:27:25,920
 ¿A qué te refieres?
 
-455
+450
 00:27:25,920 --> 00:27:28,330
 ¡Ese tal Luffy...
 
-456
+451
 00:27:29,360 --> 00:27:31,660
 ...aún no les ha dicho nada!
 
-457
+452
 00:27:33,260 --> 00:27:36,160
 No hay duda de que lo están torturando...
 
-458
+453
 00:27:36,160 --> 00:27:40,340
 Yo pensé que hablaría de inmediato,
  que era un llorón y un idiota...
 
-459
+454
 00:27:40,340 --> 00:27:41,670
 ¡Esto no tiene sentido!
 
-460
+455
 00:27:43,770 --> 00:27:45,380
 A este paso, él...
 
-461
+456
 00:27:52,950 --> 00:27:57,230
 GRAY TERMINAL
-
-462
-00:27:52,950 --> 00:27:57,230
 [ENSENADA DE LOS PIRATAS]
 
-463
+457
 00:27:54,390 --> 00:27:57,220
 Cómo tardan...
 
-464
+458
 00:27:57,220 --> 00:27:59,990
 ¿Quién es el responsable hoy?
 
-465
+459
 00:28:00,590 --> 00:28:03,890
 Es Porchemy, Capitán Bluejam.
 
-466
+460
 00:28:04,610 --> 00:28:06,860
 Pronto oscurecerá.
 
-467
+461
 00:28:10,570 --> 00:28:14,860
 ¡Se supone que ya deberían haber hecho el intercambio!
 
-468
+462
 00:28:14,860 --> 00:28:18,970
 ¿Creen que ese maldito huyó con mi dinero?
 
-469
+463
 00:28:15,000 --> 00:28:18,970
 CAPITÁN DE LOS PIRATAS DE BLUEJAM
-
-470
-00:28:15,000 --> 00:28:18,970
 BLUEJAM
 
-471
+464
 00:28:18,970 --> 00:28:21,050
 ¡No lo creo!
 
-472
+465
 00:28:21,050 --> 00:28:24,520
 ¡Seguramente valora su vida!
 
-473
+466
 00:28:26,140 --> 00:28:27,990
 Tienes razón.
 
-474
+467
 00:28:32,690 --> 00:28:35,760
 ¡Habla de una vez!
 
-475
+468
 00:28:40,070 --> 00:28:41,130
 ¡Porchemy-san!
 
-476
+469
 00:28:41,710 --> 00:28:44,000
 ¡Es inútil!
 
-477
+470
 00:28:46,780 --> 00:28:50,040
 ¡Ya ni siquiera puede gritar!
 
-478
+471
 00:28:54,680 --> 00:29:00,440
 ¡No creo que nos vaya a decir algo y,
  sinceramente, esto ya es demasiado cruel!
 
-479
+472
 00:29:00,440 --> 00:29:03,250
 ¡Ya déjelo ir!
 
-480
+473
 00:29:05,700 --> 00:29:09,770
 ¡Si tienes tiempo para defender a este mocoso, entonces, ve a buscar a Ace y Sabo!
 
-481
+474
 00:29:10,250 --> 00:29:14,100
 ¡Nuestras vidas peligran, ¿no lo entiendes?!
 
-482
+475
 00:29:14,100 --> 00:29:19,740
 ¡Hace mucho que pasó la hora en que le deberíamos haber entregado el dinero al Capitán Bluejam!
 
-483
+476
 00:29:24,500 --> 00:29:26,170
 No es más que un niño...
 
-484
+477
 00:29:26,170 --> 00:29:28,820
 ¿Y si llamamos a la policía de la ciudad?
 
-485
+478
 00:29:28,840 --> 00:29:32,780
 No serviría de nada, nunca vendrían a un lugar como este.
 
-486
+479
 00:29:32,780 --> 00:29:36,720
 Además, ese tipo es de
  la tripulación de Bluejam.
 
-487
+480
 00:29:36,720 --> 00:29:39,360
 ¡Sobornan a los nobles!
 
-488
+481
 00:29:39,360 --> 00:29:44,370
 ¡Pasan por alto todos los crímenes
  que cometen en este país!
 
-489
+482
 00:29:45,000 --> 00:29:49,810
 ¡Aunque cada vez haya más cadáveres aquí, para ellos, no son más que basura!
 
-490
+483
 00:29:51,000 --> 00:29:53,000
 ¡Habla ya!
 
-491
+484
 00:29:54,070 --> 00:29:55,680
 ¡No lo haré...!
 
-492
+485
 00:29:56,310 --> 00:30:01,380
 ¡Maldito mocoso! ¡¿De qué te sirve guardarles el secreto?!
 
-493
+486
 00:30:05,160 --> 00:30:07,770
 ¡Habla!
 
-494
+487
 00:30:10,050 --> 00:30:11,790
 No lo haré...
 
-495
+488
 00:30:12,640 --> 00:30:13,990
 ¡No lo haré!
 
-496
+489
 00:30:14,650 --> 00:30:16,270
 ¡No lo haré!
 
-497
+490
 00:30:19,810 --> 00:30:21,620
 ¡No lo haré!
 
-498
+491
 00:30:24,120 --> 00:30:26,070
 ¡Muy bien! ¡Ya ni me importa!
 
-499
+492
 00:30:44,720 --> 00:30:46,150
 Muere.
 
-500
+493
 00:30:49,160 --> 00:30:52,550
 ¡Detente!
 
-501
+494
 00:30:57,800 --> 00:30:58,700
 ¡Apártate!
 
-502
+495
 00:31:01,810 --> 00:31:04,430
 ¡Es él, Porchemy-san!
 
-503
+496
 00:31:04,430 --> 00:31:06,980
 ¡Él es quien nos robó el dinero! ¡Demonios!
 
-504
+497
 00:31:06,980 --> 00:31:08,050
 ¡¿Qué?!
 
-505
+498
 00:31:08,050 --> 00:31:10,310
 ¡A-Ace!
 
-506
+499
 00:31:15,760 --> 00:31:19,500
 ¡Me ahorraron un montón de trabajo!
 
-507
+500
 00:31:19,500 --> 00:31:23,510
 ¡No sabía qué hacer con su amiguito!
 
-508
+501
 00:31:23,510 --> 00:31:24,540
 ¡Ace!
 
-509
+502
 00:31:24,540 --> 00:31:26,820
 S-Suéltame...
 
-510
+503
 00:31:26,820 --> 00:31:28,440
 ¡Sabo!
 
-511
+504
 00:31:32,200 --> 00:31:33,500
 ¡Porchemy-san!
 
-512
+505
 00:31:36,110 --> 00:31:38,510
 Ace... Sabo...
 
-513
+506
 00:31:38,510 --> 00:31:42,050
 Eso me dolió bastante, ¿eh?
 
-514
+507
 00:31:43,970 --> 00:31:47,960
 ¡Sabes lo que pasa cuando haces
  enojar a un adulto, ¿verdad?!
 
-515
+508
 00:31:48,650 --> 00:31:50,450
 ¡Yo seré tu oponente!
 
-516
+509
 00:31:50,450 --> 00:31:52,260
 ¡Sabo! ¡Ayuda a Luffy!
 
-517
+510
 00:31:52,260 --> 00:31:53,360
 ¡Ace!
 
-518
+511
 00:31:54,520 --> 00:31:57,530
 ¡Tiene una espada! ¡Cuidado!
 
-519
+512
 00:32:10,040 --> 00:32:11,340
 ¡Mi cuchillo!
 
-520
+513
 00:32:11,800 --> 00:32:13,480
 ¡Porchemy-san! ¡El chico!
 
-521
+514
 00:32:16,950 --> 00:32:18,950
 ¡Larguémonos de aquí, Ace!
 
-522
+515
 00:32:18,950 --> 00:32:20,280
 ¡Adelántense!
 
-523
+516
 00:32:20,810 --> 00:32:23,350
 ¡Idiota! ¡Date prisa!
 
-524
+517
 00:32:23,350 --> 00:32:25,750
 Una vez que empiezo a luchar...
 
-525
+518
 00:32:25,750 --> 00:32:28,040
 ¡No huyo!
 
-526
+519
 00:32:28,130 --> 00:32:30,740
 ¡¿Qué dices, maldito mocoso?!
 
-527
+520
 00:32:30,740 --> 00:32:34,340
 ¡Detente! ¡Él no es como los
  rufianes del vertedero!
 
-528
+521
 00:32:34,810 --> 00:32:36,700
 Parece que lo entiendes.
 
-529
+522
 00:32:36,700 --> 00:32:39,540
 ¡Oye, ya basta de jueguitos!
 
-530
+523
 00:32:39,540 --> 00:32:41,610
 ¡Robaste nuestro dinero!
 
-531
+524
 00:32:41,760 --> 00:32:44,550
 ¡Devuélvelo pacíficamente, mocoso insolente!
 
-532
+525
 00:32:44,550 --> 00:32:47,050
 Estoy seguro de que sabes que hiciste algo malo.
 
-533
+526
 00:32:47,050 --> 00:32:50,110
 No te haré daño si devuelves el dinero.
 
-534
+527
 00:32:52,470 --> 00:32:55,390
 ¡Nosotros le daremos un mejor uso!
 
-535
+528
 00:32:56,450 --> 00:32:57,170
 ¡¿Qu...?!
 
-536
+529
 00:32:58,510 --> 00:33:00,260
 ¡¿Qué dijiste?!
 
-537
+530
 00:33:00,260 --> 00:33:02,990
 ¡Espera aquí un segundo!
 
-538
+531
 00:33:03,890 --> 00:33:05,830
 ¡Déjense de tonterías!
 
-539
+532
 00:33:10,630 --> 00:33:14,940
 ¡Si unos niños me vencen, dejaré de ser pirata!
 
-540
+533
 00:33:14,940 --> 00:33:17,770
 ¡Entonces que así sea!
 
-541
+534
 00:33:17,880 --> 00:33:20,080
 ¡Los aplastaré!
 
-542
+535
 00:33:28,820 --> 00:33:32,260
 Ya me contaron lo que sucedió, Porchemy.
 
-543
+536
 00:33:32,260 --> 00:33:34,030
 ¡Qué patético!
 
-544
+537
 00:33:34,030 --> 00:33:36,100
 ¿En serio perdiste...
 
-545
+538
 00:33:36,100 --> 00:33:37,250
 ...contra unos niños?
 
-546
+539
 00:33:38,240 --> 00:33:41,340
 Lo siento, Capitán Bluejam...
 
-547
+540
 00:33:41,340 --> 00:33:42,520
 Ese dinero...
 
-548
+541
 00:33:42,920 --> 00:33:45,710
 No me mires, no quiero volver a ver esa cara.
 
-549
+542
 00:33:57,430 --> 00:34:00,090
 Qué mala costumbre tienes, Ace...
 
-550
+543
 00:34:00,090 --> 00:34:03,980
 Eso de no huir ante los piratas de verdad.
 
-551
+544
 00:34:03,980 --> 00:34:06,120
 ¿Por qué tienes tantas ganas de morir?
 
-552
+545
 00:34:06,120 --> 00:34:09,760
 No se siente muy bien, estaba mejor antes.
 
-553
+546
 00:34:12,030 --> 00:34:17,900
 Ahora seremos el objetivo de Bluejam y su tripulación.
 
-554
+547
 00:34:17,900 --> 00:34:19,340
 No nos dejarán en paz.
 
-555
+548
 00:34:19,340 --> 00:34:21,170
 ¡Tenía mucho miedo!
 
-556
+549
 00:34:21,170 --> 00:34:23,260
 ¡Pensé que iba a morir!
 
-557
+550
 00:34:27,140 --> 00:34:28,420
 ¡Me sacas de quicio!
 
-558
+551
 00:34:28,420 --> 00:34:31,060
 ¡Cállate! ¡Deja ya de llorar!
 
-559
+552
 00:34:31,060 --> 00:34:35,490
 ¡Odio a los debiluchos y a los llorones!
 
-560
+553
 00:34:37,630 --> 00:34:39,230
 G-Gracias...
 
-561
+554
 00:34:42,830 --> 00:34:43,880
 ...por...
 
-562
+555
 00:34:45,130 --> 00:34:47,130
 ...por salvarme...
 
-563
+556
 00:34:47,130 --> 00:34:48,370
 ¡Maldito...!
 
-564
+557
 00:34:48,370 --> 00:34:50,970
 Déjalo, sólo nos está dando las gracias.
 
-565
+558
 00:34:54,390 --> 00:34:58,400
 ¡¿Y por qué no les dijiste nada?!
 
-566
+559
 00:34:58,400 --> 00:35:02,220
 ¡Esos tipos no dudan en matar a mujeres y niños!
 
-567
+560
 00:35:03,190 --> 00:35:04,370
 Porque si hablaba...
 
-568
+561
 00:35:04,370 --> 00:35:07,830
 ...nunca podría ser tu amigo.
 
-569
+562
 00:35:08,530 --> 00:35:10,860
 ¿Y qué? ¿No es mejor eso que morir?
 
-570
+563
 00:35:10,860 --> 00:35:13,360
 ¿Por qué te esfuerzas tanto en ser mi amigo?
 
-571
+564
 00:35:15,620 --> 00:35:16,700
 Porque...
 
-572
+565
 00:35:17,220 --> 00:35:21,660
 ¡¿No te das cuenta de todo lo que te he hecho pasar?!
 
-573
+566
 00:35:21,660 --> 00:35:24,190
 ¡¿Por qué continúas siguiéndome?!
 
-574
+567
 00:35:29,860 --> 00:35:31,170
 Porque...
 
-575
+568
 00:35:32,210 --> 00:35:35,320
 ¡Porque no tengo a nadie más!
 
-576
+569
 00:35:36,040 --> 00:35:40,000
 No puedo regresar a la Aldea Fuusha y odio a esos bandidos de la montaña...
 
-577
+570
 00:35:40,000 --> 00:35:43,480
 ¡Si no saliera a perseguirte, me quedaría solo!
 
-578
+571
 00:35:43,480 --> 00:35:46,730
 ¡Y estar solo es lo más doloroso que hay!
 
-579
+572
 00:35:48,460 --> 00:35:50,590
 ¿Qué hay de tus padres?
 
-580
+573
 00:35:50,590 --> 00:35:52,330
 Sólo tengo a mi abuelo.
 
-581
+574
 00:35:54,460 --> 00:35:56,320
 ¿Prefieres estar conmigo?
 
-582
+575
 00:35:56,320 --> 00:35:57,810
 Sí.
 
-583
+576
 00:35:57,810 --> 00:35:59,890
 ¿Y sería peor si no estuviera?
 
-584
+577
 00:35:59,890 --> 00:36:01,350
 Sí.
 
-585
+578
 00:36:03,520 --> 00:36:06,400
 ¿Que qué pasaría si Roger tuviera un hijo?
 
-586
+579
 00:36:07,410 --> 00:36:10,110
 ¡Sería horrible que existiera!
 
-587
+580
 00:36:10,110 --> 00:36:15,750
 ¡Sería un demonio que no tendría 
  derecho a vivir, ni siquiera a nacer!
 
-588
+581
 00:36:21,280 --> 00:36:22,940
 ¿Quieres...
 
-589
+582
 00:36:22,940 --> 00:36:24,840
 ...que yo viva?
 
-590
+583
 00:36:28,200 --> 00:36:29,660
 ¡Por supuesto!
 
-591
+584
 00:36:31,010 --> 00:36:32,300
 Ya veo.
 
-592
+585
 00:36:34,720 --> 00:36:39,080
 Pero yo odio a los debiluchos como tú.
 
-593
+586
 00:36:40,990 --> 00:36:44,120
 ¡No soy débil! ¡Soy fuerte!
 
-594
+587
 00:36:44,120 --> 00:36:46,250
 ¿Fuerte? ¡¿Cómo vas a ser fuerte?!
 
-595
+588
 00:36:46,250 --> 00:36:48,650
 ¡Si te la pasas lloriqueando!
 
-596
+589
 00:36:48,650 --> 00:36:51,600
 ¡Seguro que a ti nunca te han 
 golpeado con un guante con púas!
 
-597
+590
 00:36:51,600 --> 00:36:56,670
 ¡Sólo tengo siete años! ¡Cuando tenga
  diez, como tú, no lloraré nada!
 
-598
+591
 00:36:56,670 --> 00:36:58,320
 ¡Y seré más fuerte que tú!
 
-599
+592
 00:36:58,320 --> 00:37:00,500
 Yo no lloraba ni cuando tenía siete.
 
-600
+593
 00:37:00,500 --> 00:37:02,270
 ¡Idiota! ¡No te compares conmigo!
 
-601
+594
 00:37:02,270 --> 00:37:05,440
 ¡Seré más fuerte que nadie!
 
-602
+595
 00:37:05,440 --> 00:37:09,490
 ¡Le prometí a Shanks que me 
 convertiría en un gran pirata!
 
-603
+596
 00:37:09,490 --> 00:37:10,940
 ¡¿Un pirata?! ¡¿Tú?!
 
-604
+597
 00:37:10,940 --> 00:37:11,610
 ¡Así es!
 
-605
+598
 00:37:11,610 --> 00:37:12,380
 ¡Sí, claro...!
 
-606
+599
 00:37:12,380 --> 00:37:13,250
 ¡Lo conseguiré!
 
-607
+600
 00:37:14,560 --> 00:37:17,010
 Bueno, ya es suficiente.
 
-608
+601
 00:37:17,660 --> 00:37:21,990
 Bueno, ahora tengo un pequeño problema.
 
-609
+602
 00:37:21,990 --> 00:37:23,300
 ¿Problema?
 
-610
+603
 00:37:24,100 --> 00:37:29,730
 He estado viviendo en este bosque, pero me queda muy cerca de su base, la ensenada de los piratas.
 
-611
+604
 00:37:29,730 --> 00:37:34,660
 ¿Qué creen que pasaría si me
  encontraran mientras duermo?
 
-612
+605
 00:37:35,910 --> 00:37:38,040
 Así que quiero pedirles algo.
 
-613
+606
 00:37:53,680 --> 00:37:58,190
 ¿Por qué están tan heridos?
 
-614
+607
 00:38:00,410 --> 00:38:02,170
 Oye, ¿qué es esto?
 
-615
+608
 00:38:06,980 --> 00:38:09,150
 ¡Jefa! ¡Jefa!
 
-616
+609
 00:38:09,150 --> 00:38:10,200
 ¡Esto es increíble!
 
-617
+610
 00:38:11,120 --> 00:38:12,780
 ¿Por qué hacen tanto
  ruido a estas horas?
 
-618
+611
 00:38:12,780 --> 00:38:16,750
 ¡¿Qué significa esto?!
 
-619
+612
 00:38:16,750 --> 00:38:18,780
 Uno, dos...
 
-620
+613
 00:38:21,380 --> 00:38:24,790
 ¡Ace, Luffy! ¡¿Quién es este?!
 
-621
+614
 00:38:26,130 --> 00:38:27,830
 ¿Quién es quién?
 
-622
+615
 00:38:30,690 --> 00:38:33,990
 ¿Por qué de repente hay un mocoso más?
 
-623
+616
 00:38:33,990 --> 00:38:35,260
 ¡¿Quién eres?!
 
-624
+617
 00:38:35,990 --> 00:38:37,670
 ¿Quién? ¿Yo?
 
-625
+618
 00:38:39,110 --> 00:38:41,070
 ¡Soy Sabo!
 
-626
+619
 00:38:41,070 --> 00:38:42,430
 ¡Hola! Dadan, ¿verdad?
 
-627
+620
 00:38:42,430 --> 00:38:45,710
 ¿Sabo? Conozco ese nombre.
 
-628
+621
 00:38:45,710 --> 00:38:48,660
 ¿De verdad? Eso me facilita las cosas.
 
-629
+622
 00:38:48,660 --> 00:38:50,080
 ¡Mucho gusto!
 
-630
+623
 00:38:51,270 --> 00:38:52,780
 ¡Si eres el Sabo del que he oído,
 
-631
+624
 00:38:52,780 --> 00:38:54,950
 debes ser un mocoso de mierda!
 
-632
+625
 00:38:54,950 --> 00:38:58,580
 ¿En serio? ¡Yo también he oído 
 que eres una bruja de mierda!
 
-633
+626
 00:39:09,080 --> 00:39:11,390
 ¡Ace, Luffy, Sabo!
 
-634
+627
 00:39:11,390 --> 00:39:15,430
 ¡Ya que se quedarán aquí, 
 dense prisa y pónganse a trabajar!
 
-635
+628
 00:39:16,930 --> 00:39:19,110
 ¡Gracias, Dadan!
 
-636
+629
 00:39:29,000 --> 00:39:36,050
 Después de que los echaran de Gray Terminal, el amigo de Ace, Sabo, se mudó con ellos.
 
-637
+630
 00:39:37,240 --> 00:39:40,080
 Ace, Sabo y Luffy.
 
-638
+631
 00:39:41,090 --> 00:39:46,580
 Estos tres pequeños malandrines pasaban el tiempo
  peleando contra las bestias de la selva y las montañas,
 
-639
+632
 00:39:46,580 --> 00:39:51,400
 contra delincuentes de la ciudad e 
 incluso contra piratas de la ensenada.
 
-640
+633
 00:39:51,400 --> 00:39:58,940
 Rápidamente, sus nombres llegaron
  a oídos del centro de la ciudad.

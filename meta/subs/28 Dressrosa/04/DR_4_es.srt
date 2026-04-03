@@ -174,207 +174,198 @@ Las nuevas motivaciones de Bellamy
 43
 00:03:07,940 --> 00:03:13,610
 CAPITÁN DE LA TRIPULACIÓN PIRATA "BARTOCLUB"
-
-44
-00:03:07,940 --> 00:03:13,610
 BARTOLOMEO, EL CANÍBAL
-
-45
-00:03:07,940 --> 00:03:13,610
 RECOMPENSA: 150 MILLONES DE BELLIES
 
-46
+44
 00:03:12,800 --> 00:03:13,610
 ¡El pirata...
 
-47
+45
 00:03:14,940 --> 00:03:19,350
 ...Bartolomeo!
 
-48
+46
 00:03:32,260 --> 00:03:33,730
 ¡Lárgate de aquí!
 
-49
+47
 00:03:33,730 --> 00:03:37,360
 ¡Vete al infierno!
 
-50
+48
 00:03:41,460 --> 00:03:43,670
 ¡¿Qué demonios pretendes, maldito?!
 
-51
+49
 00:04:34,220 --> 00:04:38,880
 ¡Pero hay un competidor más en el Bloque B!
 
-52
+50
 00:04:38,880 --> 00:04:42,480
 ¡Es todo lo opuesto al lunático de Bartolomeo!
 
-53
+51
 00:04:42,480 --> 00:04:46,730
 ¡Un gran admirador del Rey Doflamingo!
 
-54
+52
 00:04:46,730 --> 00:04:54,810
 Le juró lealtad al llevarle un enorme
  pilar de oro de un país muy lejano.
 
-55
+53
 00:04:56,710 --> 00:05:05,720
 ¡Ha destrozado sin piedad a los pueblos que se atrevieron a llamar a nuestro país "reino de un pirata salvaje"!
 
-56
+54
 00:05:05,720 --> 00:05:08,450
 ¡Es la Bala de Dressrosa!
 
-57
+55
 00:05:08,450 --> 00:05:13,760
 ¡Nuestro rey le ha dado una
  oportunidad con este torneo!
 
-58
+56
 00:05:15,400 --> 00:05:18,410
 DENTRO DEL COLISEO
 
-59
+57
 00:05:49,900 --> 00:05:51,150
 Si no me equivoco...
 
-60
+58
 00:05:52,040 --> 00:05:55,210
 Es el tipo que atacó al 
 viejo cabeza de castaña.
 
-61
+59
 00:06:01,920 --> 00:06:06,260
 EXCAPITÁN DE LOS PIRATAS DE BELLAMY
 
-62
+60
 00:06:06,450 --> 00:06:11,280
 RECOMPENSA: 195 MILLONES DE BELLIES
-
-63
-00:06:06,450 --> 00:06:11,280
 BELLAMY, LA HIENA
 
-64
+61
 00:07:14,000 --> 00:07:18,350
 ¡Si gana esta competencia, será recompensado...
 
-65
+62
 00:07:18,350 --> 00:07:27,490
 ...con un puesto de oficial 
 de la Familia Donquixote!
 
-66
+63
 00:07:27,490 --> 00:07:32,030
 ¡Es uno de los candidatos 
 para ganar este torneo!
 
-67
+64
 00:07:32,030 --> 00:07:39,500
 ¡El pirata, Bellamy, la Hiena!
 
-68
+65
 00:07:53,180 --> 00:07:58,720
 Y, ahora, dará comienzo
  la batalla campal del Bloque B.
 
-69
+66
 00:07:58,720 --> 00:08:01,460
 ¡Si mueren dentro del ring, serán descalificados!
 
-70
+67
 00:08:01,460 --> 00:08:04,850
 ¡Si salen del ring, serán descalificados!
 
-71
+68
 00:08:06,560 --> 00:08:10,780
 ¡Sólo habrá un ganador!
 
-72
+69
 00:08:14,650 --> 00:08:17,080
 ¡Y, ahora, que suene...
 
-73
+70
 00:08:17,080 --> 00:08:18,510
 EL REY LUCHADOR
 ELIZABELLO II
 
-74
+71
 00:08:18,510 --> 00:08:19,910
 ARTISTA MARCIAL
 BLUE GILLY
 
-75
+72
 00:08:19,910 --> 00:08:21,350
 COMANDANTE DE EJÉRCITO
 TANK LEPANTO
 
-76
+73
 00:08:21,350 --> 00:08:22,750
 UN CRIMINAL
 ABDULLAH
 
-77
+74
 00:08:22,750 --> 00:08:24,180
 PIRATA
 BARTOLOMEO
 
-78
+75
 00:08:24,180 --> 00:08:25,580
 GLADIADOR
 RICKY
 
-79
+76
 00:08:25,580 --> 00:08:27,020
 PIRATA
 BELLAMY
 
-80
+77
 00:08:27,020 --> 00:08:28,420
 ESTRATEGA
 DAGAMA
 
-81
+78
 00:08:28,420 --> 00:08:29,850
 MAESTRO DEL GYOJIN KARATE
 HACK
 
-82
+79
 00:08:29,850 --> 00:08:31,660
 UN CRIMINAL
 JEET
 
-83
+80
 00:08:31,660 --> 00:08:34,130
 ...la campana!
 
-84
+81
 00:09:27,010 --> 00:09:32,150
 ¡Parece que algunos han formado
  equipos en medio del ring!
 
-85
+82
 00:09:50,880 --> 00:09:56,590
 El Reino Prodence se hará con la fruta Mera Mera.
 
-86
+83
 00:09:56,590 --> 00:10:02,190
 Nuestro Rey, Elizabello II, es un
  arma de destrucción humana.
 
-87
+84
 00:10:02,190 --> 00:10:08,280
 La fuerza de su puño viene 
 de su estructura corporal.
 
-88
+85
 00:10:13,940 --> 00:10:20,390
 El mundo se conmocionó cuando con un solo puñetazo le hizo un agujero a una fortaleza enemiga.
 
-89
+86
 00:10:13,980 --> 00:10:21,070
 EL REY LUCHADOR DEL REINO PRODENCE
 
@@ -387,129 +378,90 @@ EL REY LUCHADOR DEL REINO PRODENCE
 
  ELIZABELLO II
 
-90
+87
 00:10:21,820 --> 00:10:25,770
 Pero esa técnica destructiva
  tiene un punto débil.
 
-91
+88
 00:10:25,770 --> 00:10:32,400
 Para poder lanzar ese puñetazo, necesita
  concentrarse y calentar durante una hora.
 
-92
+89
 00:10:32,400 --> 00:10:36,330
 Sólo puede usarlo una vez por batalla.
 
-93
+90
 00:10:36,330 --> 00:10:41,690
 Podría derrotar a un Yonkou
  si lograra asestarle ese puñetazo.
 
-94
+91
 00:10:41,690 --> 00:10:45,900
 Nuestra victoria depende de encontrar el momento perfecto para lanzar ese golpe.
 
-95
+92
 00:11:12,870 --> 00:11:17,360
 EL COMANDANTE DEL EJÉRCITO
 DE AUTODEFENSA DE DRESSROSA
 
-96
+93
 00:11:14,400 --> 00:11:17,360
 TANK LEPANTO
 
-97
+94
 00:11:32,540 --> 00:11:35,550
 ¡Tres participantes han sido 
 descalificados por salirse del ring!
 
-98
+95
 00:11:38,500 --> 00:11:45,460
 ¡Y por supuesto, fuera del ring
  está esperando el hambriento...
 
-99
+96
 00:11:50,520 --> 00:11:53,490
 ...banco de pequeños peces de lidia!
 
-100
+97
 00:11:59,780 --> 00:12:03,050
 Fuera y dentro del ring es un infierno.
 
-101
+98
 00:12:03,050 --> 00:12:06,050
 ¡No hay escapatoria!
 
-102
+99
 00:12:06,050 --> 00:12:10,790
 ¡Así es el Coliseo Corrida!
 
-103
+100
 00:12:16,970 --> 00:12:19,340
 Mola
-
-104
-00:12:16,970 --> 00:12:19,340
 Shi
-
-105
-00:12:16,970 --> 00:12:19,340
 Chibukai
-
-106
-00:12:16,970 --> 00:12:19,340
 Fansub!
 
-107
-00:12:16,970 --> 00:12:19,340
-Impacto...
-
-108
+101
 00:12:22,630 --> 00:12:26,150
 Mola
-
-109
-00:12:22,630 --> 00:12:26,150
 Shi
-
-110
-00:12:22,630 --> 00:12:26,150
 Chibukai
-
-111
-00:12:22,630 --> 00:12:26,150
 Fansub!
 
-112
-00:12:22,630 --> 00:12:26,150
-...mortal del muelle.
-
-113
+102
 00:13:04,810 --> 00:13:09,170
 ABDULLAH Y JEET
 
-114
+103
 00:13:45,030 --> 00:13:48,830
 Mola
-
-115
-00:13:45,030 --> 00:13:48,830
 Shi
-
-116
-00:13:45,030 --> 00:13:48,830
 Chibukai
-
-117
-00:13:45,030 --> 00:13:48,830
 Fansub!
 
-118
-00:13:45,030 --> 00:13:48,830
-Golpe de cuatro mil tejas.
-
-119
+104
 00:13:54,330 --> 00:13:59,350
 MAESTRO DEL GYOJIN KARATE
 ARTISTA MARCIAL DEL GYOJIN JUUJUTSU
@@ -526,7 +478,7 @@ ARTISTA MARCIAL DEL GYOJIN JUUJUTSU
 
 HACK
 
-120
+105
 00:14:23,120 --> 00:14:26,850
 ARTISTA MARCIAL
 DE LA TRIBU PIERNASLARGAS
@@ -542,7 +494,7 @@ DE LA TRIBU PIERNASLARGAS
 
 BLUE GILLY
 
-121
+106
 00:15:43,260 --> 00:15:44,590
 EXGLADIADOR
 
@@ -553,10 +505,7 @@ EXGLADIADOR
 
 RICKY
 
-122
+107
 00:16:23,220 --> 00:16:25,630
 ASIENTOS DE ESPECTADOR
-
-123
-00:16:23,220 --> 00:16:25,630
 DE LOS PARTICIPANTES

@@ -2054,68 +2054,47 @@ are
 514
 00:02:24,670 --> 00:02:28,500
 En el presente
-
-515
-00:02:24,670 --> 00:02:28,500
 En una isla del Mar del Este
 
-516
+515
 00:02:38,810 --> 00:02:40,720
 Capitán Buggy
-
-517
-00:02:38,810 --> 00:02:40,720
 (En busca de las demás partes)
 
-518
+516
 00:02:46,220 --> 00:02:50,360
 Las aventuras de la tripulación de Buggy
 
-519
+517
 00:03:33,400 --> 00:03:36,320
 Gran ave
 
-520
+518
 00:09:56,120 --> 00:10:00,870
 Mujer misteriosa
 
-521
+519
 00:12:49,870 --> 00:12:51,960
 Vicecapitán de los Piratas de Buggy
-
-522
-00:12:49,870 --> 00:12:51,960
 "Mohji, el Domador de Bestias"
 
-523
+520
 00:12:54,670 --> 00:12:56,630
 Número dos de los Piratas
  de Buggy y jefe de personal
-
-524
-00:12:54,670 --> 00:12:56,630
 "Cabaji, el Acróbata"
 
-525
+521
 00:13:41,930 --> 00:13:44,890
 Doce horas después
-
-526
-00:13:41,930 --> 00:13:44,890
 desde que la batalla comenzó
 
-527
+522
 00:15:08,640 --> 00:15:14,560
 "Richie"
-
-528
-00:15:08,640 --> 00:15:14,560
 Capitán de los Piratas de Richie
 
-529
+523
 00:19:42,160 --> 00:19:45,370
 Capitán de los Piratas de Buggy
-
-530
-00:19:42,160 --> 00:19:45,370
 "Buggy el Payaso"

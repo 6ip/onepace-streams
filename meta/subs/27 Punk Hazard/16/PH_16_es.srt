@@ -155,522 +155,438 @@ la intimidante usuaria de la fruta de la nieve!
 39
 00:02:38,790 --> 00:02:43,440
 TORRE C - VERTEDERO
-
-40
-00:02:38,790 --> 00:02:43,440
 GRUPO DE LUFFY
 
-41
+40
 00:03:03,380 --> 00:03:06,520
 MOMONOSUKE (DRAGÓN)
 
-42
+41
 00:04:40,420 --> 00:04:42,120
 Te darán comida.
 
-43
+42
 00:04:42,120 --> 00:04:43,340
 ¿No quieres comer?
 
-44
+43
 00:04:44,200 --> 00:04:49,080
 Soy un samurái, no acepto
  caridad de los demás.
 
-45
+44
 00:04:55,480 --> 00:04:57,800
 Te he traído comida.
 
-46
+45
 00:04:57,800 --> 00:05:01,430
 ¡He dicho que no quiero nada!
 
-47
+46
 00:05:01,430 --> 00:05:05,510
 Come algo, todos estamos
  lejos de nuestros padres.
 
-48
+47
 00:05:05,510 --> 00:05:09,090
 ¡Nadie es capaz de entender mis sentimientos!
 
-49
+48
 00:05:05,650 --> 00:05:09,090
 Deberíamos permanecer juntos...
 
-50
+49
 00:05:10,980 --> 00:05:13,980
 Soy el Maestro Caesar.
 
-51
+50
 00:05:13,980 --> 00:05:16,080
 Vamos, entren.
 
-52
+51
 00:05:16,080 --> 00:05:19,700
 A partir de ahora, este será su patio de juegos.
 
-53
+52
 00:05:21,550 --> 00:05:23,900
 Oye, ¿cómo te llamas?
 
-54
+53
 00:05:23,900 --> 00:05:27,370
 ¡Mi nombre no es de tu incumbencia!
 
-55
+54
 00:05:29,220 --> 00:05:30,570
 Adelante.
 
-56
+55
 00:05:30,570 --> 00:05:33,050
 Son dulces.
 
-57
+56
 00:05:33,050 --> 00:05:34,020
 ¡No los necesito!
 
-58
+57
 00:05:34,530 --> 00:05:35,380
 ¿Y un caramelo?
 
-59
+58
 00:05:35,380 --> 00:05:36,560
 ¡No lo necesito!
 
-60
+59
 00:05:38,240 --> 00:05:41,220
 ¡¿Qué?! ¡¿Un niño escapó?!
 
-61
+60
 00:05:41,220 --> 00:05:45,280
 Sí, pero he comprobado el registro 
 y el número de niños coincide.
 
-62
+61
 00:05:45,280 --> 00:05:46,190
 Qué extraño.
 
-63
+62
 00:06:14,900 --> 00:06:16,310
 Oye.
 
-64
+63
 00:06:20,560 --> 00:06:24,410
 Oh, así que te llamas Momonosuke-kun...
 
-65
+64
 00:06:24,410 --> 00:06:27,850
 Esta es la sala secreta, 
 tenemos prohibido entrar aquí.
 
-66
+65
 00:06:27,850 --> 00:06:31,990
 Deja de hablarme, no te involucres conmigo.
 
-67
+66
 00:06:31,990 --> 00:06:34,880
 Estoy buscando la salida.
 
-68
+67
 00:06:34,880 --> 00:06:38,160
 Quiero marcharme, tengo un asunto pendiente.
 
-69
+68
 00:06:38,160 --> 00:06:42,810
 Pero todos los que estamos aquí nos sentimos igual.
 
-70
+69
 00:06:44,080 --> 00:06:48,970
 Queremos ver cuanto 
 antes a nuestros padres.
 
-71
+70
 00:06:50,880 --> 00:06:56,330
 Venimos de distintas islas para que nos curen, todos nos sentimos igual.
 
-72
+71
 00:06:57,610 --> 00:07:02,320
 Hay tantas cosas que me gustaría
  hacer si pudiera volver a casa...
 
-73
+72
 00:07:02,320 --> 00:07:06,840
 Todos nos llevamos bien y nos 
 divertimos mucho en el Biscuits Room.
 
-74
+73
 00:07:06,840 --> 00:07:08,740
 Olvidamos todo el sufrimiento.
 
-75
+74
 00:07:08,740 --> 00:07:12,830
 ¡Por eso deberías comer bien, Momonosuke-kun!
 
-76
+75
 00:07:12,830 --> 00:07:14,260
 Pero yo...
 
-77
+76
 00:07:14,260 --> 00:07:16,890
 La puerta de la sala secreta está abierta.
 
-78
+77
 00:07:16,890 --> 00:07:17,880
 ¡Oh, no!
 
-79
+78
 00:07:17,880 --> 00:07:19,260
 ¡Alguien viene!
 
-80
+79
 00:07:19,260 --> 00:07:20,790
 ¡Vámonos, Momonosuke-kun!
 
-81
+80
 00:07:25,720 --> 00:07:27,190
 ¿Hay alguien ahí?
 
-82
+81
 00:07:28,600 --> 00:07:29,880
 ¿Qué sucede?
 
-83
+82
 00:07:29,880 --> 00:07:30,470
 ¿Quién es?
 
-84
+83
 00:07:40,600 --> 00:07:42,070
 ¡¿U-Un dragón?!
 
-85
+84
 00:07:45,430 --> 00:07:47,030
 ¿Qué está pasando?
 
-86
+85
 00:07:47,030 --> 00:07:50,160
 M-Momonosuke-kun se ha...
 
-87
+86
 00:07:50,930 --> 00:07:52,050
 Mira.
 
-88
+87
 00:07:52,050 --> 00:07:56,640
 En esta vitrina estaba la fruta
  del diablo que creó Vegapunk.
 
-89
+88
 00:07:56,640 --> 00:07:59,420
 Aunque tenía entendido que
  estaba defectuosa, ¿no?
 
-90
+89
 00:07:59,420 --> 00:08:01,450
 Sí, yo también tenía entendido eso.
 
-91
+90
 00:08:57,830 --> 00:09:01,220
 ¡Esta vez son niños obedientes!
 
-92
+91
 00:09:04,360 --> 00:09:08,320
 Y los demás se están haciendo
  gigantes adecuadamente.
 
-93
+92
 00:09:08,320 --> 00:09:12,730
 Este experimento sirve para conocer 
 el nivel de tolerancia de esta droga.
 
-94
+93
 00:09:12,730 --> 00:09:15,120
 No creo que resistan mucho.
 
-95
+94
 00:09:16,370 --> 00:09:21,200
 Dentro de cinco años no quedará ninguno vivo.
 
-96
+95
 00:09:23,260 --> 00:09:26,390
 Para entonces tendremos que conseguir más niños.
 
-97
+96
 00:09:26,390 --> 00:09:29,610
 Los experimentos van de la mano con los fracasos.
 
-98
+97
 00:09:29,610 --> 00:09:31,630
 Son sacrificios necesarios.
 
-99
+98
 00:10:34,700 --> 00:10:35,600
 ¡Resiste!
 
-100
+99
 00:10:35,600 --> 00:10:40,470
 ¡Resiste!
 
-101
+100
 00:10:57,080 --> 00:10:59,400
 PISO 2 DE LA TORRE B - ÁREA INTERIOR
-
-102
-00:10:57,080 --> 00:10:59,400
 PASILLO EN DIRECCIÓN A LA SALA DE EXAMINACIÓN
 
-103
+101
 00:11:18,520 --> 00:11:21,230
 TORRE D - SALA DE PRODUCCIÓN DEL SAD
 
-104
+102
 00:11:31,260 --> 00:11:32,540
 TORRE B - CERCA DEL BISCUITS ROOM
 
-105
+103
 00:11:50,830 --> 00:11:53,720
 PISO 3 DE LA TORRE B - BISCUITS ROOM
 
-106
+104
 00:13:25,010 --> 00:13:28,360
 Mocha, no podemos hacer nada.
 
-107
+105
 00:13:28,360 --> 00:13:30,140
 Estamos enfermos.
 
-108
+106
 00:13:30,970 --> 00:13:35,790
 Si contagiáramos a los adultos, morirían.
 
-109
+107
 00:13:35,790 --> 00:13:41,010
 ¿Verdad que sería peor que 
 nuestros padres murieran?
 
-110
+108
 00:13:42,370 --> 00:13:46,310
 Dijeron que nos curarían en un año.
 
-111
+109
 00:13:47,730 --> 00:13:49,100
 Es un placer conocerlos.
 
-112
+110
 00:13:49,100 --> 00:13:51,570
 Soy Caesar Clown.
 
-113
+111
 00:13:51,570 --> 00:13:53,840
 Llámenme Maestro.
 
-114
+112
 00:13:53,840 --> 00:13:57,420
 Ustedes son mi primera generación de pacientes.
 
-115
+113
 00:13:57,420 --> 00:13:59,060
 Mucho gusto.
 
-116
+114
 00:14:00,880 --> 00:14:07,110
 Perdí a mi único hijo por
  culpa de esta enfermedad.
 
-117
+115
 00:14:07,110 --> 00:14:11,570
 Por eso no quiero que ningún otro niño 
 vuelva a sufrir jamás por su culpa.
 
-118
+116
 00:14:14,770 --> 00:14:20,020
 Tampoco quiero que más padres de familia lo pasen mal por perder a sus hijos.
 
-119
+117
 00:14:22,190 --> 00:14:23,810
 Vaya, lo siento.
 
-120
+118
 00:14:23,810 --> 00:14:26,870
 Qué vergüenza que vean cómo lloro.
 
-121
+119
 00:14:27,650 --> 00:14:30,400
 ¿Se encuentra bien, Maestro-san?
 
-122
+120
 00:14:30,400 --> 00:14:33,630
 Gracias, eres muy cariñosa.
 
-123
+121
 00:14:33,630 --> 00:14:40,580
 Ah, sí, les presentaré a niños enfermos 
 que provienen de otras islas.
 
-124
+122
 00:14:41,380 --> 00:14:43,560
 Soy Uzu, mucho gusto.
 
-125
+123
 00:14:47,710 --> 00:14:49,240
 Me llamo Doran.
 
-126
+124
 00:14:53,400 --> 00:14:54,850
 Yo soy Konbu.
 
-127
+125
 00:15:00,780 --> 00:15:04,290
 Hoy les traigo amiguitos nuevos.
 
-128
+126
 00:15:04,910 --> 00:15:07,630
 ¡Asegúrense de llevarse bien!
 
-129
+127
 00:15:07,630 --> 00:15:10,010
 Llámenme si pasa algo.
 
-130
+128
 00:15:10,010 --> 00:15:11,840
 ¡Sí, Monet-san!
 
-131
+129
 00:15:20,270 --> 00:15:23,870
 Este es un premio por portarte tan bien.
 
-132
+130
 00:15:23,870 --> 00:15:27,010
 Es un caramelo de parte del Maestro.
 
-133
+131
 00:16:10,750 --> 00:16:13,610
 Mola
+Shi
+Chibukai
+Fansub!
+
+132
+00:16:36,610 --> 00:16:39,360
+Mola
+Shi
+Chibukai
+Fansub!
+
+133
+00:16:39,320 --> 00:16:41,950
+Mola
+Shi
+Chibukai
+Fansub!
 
 134
-00:16:10,750 --> 00:16:13,610
+00:16:59,190 --> 00:17:01,710
+Mola
 Shi
+Chibukai
+Fansub!
 
 135
-00:16:10,750 --> 00:16:13,610
+00:18:16,410 --> 00:18:19,120
+Mola
+Shi
 Chibukai
+Fansub!
 
 136
-00:16:10,750 --> 00:16:13,610
+00:18:19,080 --> 00:18:22,510
+Mola
+Shi
+Chibukai
 Fansub!
 
 137
-00:16:10,750 --> 00:16:13,610
-Huevo de calor.
-
-138
-00:16:36,610 --> 00:16:39,360
-Mola
-
-139
-00:16:36,610 --> 00:16:39,360
-Shi
-
-140
-00:16:36,610 --> 00:16:39,360
-Chibukai
-
-141
-00:16:36,610 --> 00:16:39,360
-Fansub!
-
-142
-00:16:36,610 --> 00:16:39,360
-Barrera de nieve.
-
-143
-00:16:39,320 --> 00:16:41,950
-Mola
-
-144
-00:16:39,320 --> 00:16:41,950
-Shi
-
-145
-00:16:39,320 --> 00:16:41,950
-Chibukai
-
-146
-00:16:39,320 --> 00:16:41,950
-Fansub!
-
-147
-00:16:39,320 --> 00:16:41,950
-Nieve perpetua.
-
-148
-00:16:59,190 --> 00:17:01,710
-Mola
-
-149
-00:16:59,190 --> 00:17:01,710
-Shi
-
-150
-00:16:59,190 --> 00:17:01,710
-Chibukai
-
-151
-00:16:59,190 --> 00:17:01,710
-Fansub!
-
-152
-00:16:59,190 --> 00:17:01,710
-Manotazo.
-
-153
-00:18:16,410 --> 00:18:19,120
-Mola
-
-154
-00:18:16,410 --> 00:18:19,120
-Shi
-
-155
-00:18:16,410 --> 00:18:19,120
-Chibukai
-
-156
-00:18:16,410 --> 00:18:19,120
-Fansub!
-
-157
-00:18:16,410 --> 00:18:19,120
-Copos de nieve dura.
-
-158
-00:18:19,080 --> 00:18:22,510
-Mola
-
-159
-00:18:19,080 --> 00:18:22,510
-Shi
-
-160
-00:18:19,080 --> 00:18:22,510
-Chibukai
-
-161
-00:18:19,080 --> 00:18:22,510
-Fansub!
-
-162
-00:18:19,080 --> 00:18:22,510
-Espada corporal.
-
-163
 00:19:34,540 --> 00:19:37,800
 ¡Pero si hay una belleza detrás de ti!
 
-164
+138
 00:19:37,800 --> 00:19:39,740
 ¡Qué guapa!
 
-165
+139
 00:21:04,390 --> 00:21:06,510
 ¡Capitana-chan!

@@ -1494,32 +1494,32 @@ That'd be stupid of us!
 
 344
 00:20:15,860 --> 00:20:15,900
-asFull
+Full
 Fledged
 
 345
 00:20:15,900 --> 00:20:15,940
-asFull
+Full
 Fledged
 
 346
 00:20:15,940 --> 00:20:15,980
-asFull
+Full
 Fledged
 
 347
 00:20:15,980 --> 00:20:16,020
-asFull
+Full
 Fledged
 
 348
 00:20:16,020 --> 00:20:16,060
-asFull
+Full
 Fledged
 
 349
 00:20:16,060 --> 00:20:16,480
-asFull
+Full
 Fledged
 
 350
@@ -1529,12 +1529,12 @@ promoted to a number agent.
 
 351
 00:20:17,570 --> 00:20:23,910
-asdfFull
+Full
 Fledged
 
 352
 00:20:23,910 --> 00:20:23,990
-asdfFull
+Full
 Fledged
 
 353

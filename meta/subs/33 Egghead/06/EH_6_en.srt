@@ -1024,477 +1024,474 @@ There's something I want to show you.
 00:16:03,780 --> 00:16:06,990
 Hey! There's no cockpit
 on this thing, Chopper.
-
-241
-00:16:03,780 --> 00:16:06,990
 Scrap Heap
 Fabriophase
 Egghead
 
-242
+241
 00:16:07,910 --> 00:16:10,700
 I got it! Maybe this robot...
 
-243
+242
 00:16:10,700 --> 00:16:12,910
 moves on its own!
 
-244
+243
 00:16:12,910 --> 00:16:16,330
 Maybe it'll react if we say something to it!
 
-245
+244
 00:16:16,660 --> 00:16:18,460
 Like... Like...
 
-246
+245
 00:16:18,460 --> 00:16:21,130
 Move! Move, robot!
 
-247
+246
 00:16:21,920 --> 00:16:22,960
 It didn't work...
 
-248
+247
 00:16:22,960 --> 00:16:25,460
 I wonder what the magic word is...
 
-249
+248
 00:16:25,460 --> 00:16:27,930
 No! It must have a name!
 
-250
+249
 00:16:27,930 --> 00:16:29,840
 We should call it out!
 
-251
+250
 00:16:29,840 --> 00:16:32,100
 Move, Robonosuke!
 
-252
+251
 00:16:34,810 --> 00:16:36,560
 Robo King!
 
-253
+252
 00:16:36,560 --> 00:16:37,850
 Jeez...
 
-254
+253
 00:16:37,850 --> 00:16:39,480
 What are you guys, kids?
 
-255
+254
 00:16:39,480 --> 00:16:41,650
 That obviously won't work.
 
-256
+255
 00:16:50,200 --> 00:16:51,910
 What?!
 
-257
+256
 00:17:02,920 --> 00:17:04,420
 Are you okay?
 
-258
+257
 00:17:04,420 --> 00:17:05,670
 Yeah...
 
-259
+258
 00:17:05,670 --> 00:17:08,220
 What was that?! Did the robot explode?!
 
-260
+259
 00:17:08,220 --> 00:17:10,930
 No, it wasn't an explosion.
 
-261
+260
 00:17:10,930 --> 00:17:13,800
 Then what just happened?!
 
-262
+261
 00:17:14,350 --> 00:17:17,720
 Hey!
 
-263
+262
 00:17:17,720 --> 00:17:20,560
 Help me-quasar!
 
-264
+263
 00:17:21,690 --> 00:17:23,020
 "Quasar"?
 
-265
+264
 00:17:23,020 --> 00:17:24,150
 Oh no!
 
-266
+265
 00:17:24,150 --> 00:17:25,520
 I failed again!
 
-267
+266
 00:17:25,520 --> 00:17:28,740
 Somebody, help me-quasar!
 
-268
+267
 00:17:28,740 --> 00:17:32,200
 Maybe I warped space-time when I teleported!
 
-269
+268
 00:17:32,200 --> 00:17:34,320
 Was that old man there before?
 
-270
+269
 00:17:33,820 --> 00:17:36,410
 I'm sinking! Hey!
 
-271
+270
 00:17:34,320 --> 00:17:36,410
 I don't think so.
 
-272
+271
 00:17:36,410 --> 00:17:38,790
 My body's sinking!
 
-273
+272
 00:17:38,790 --> 00:17:40,410
 Somebody!
 
-274
+273
 00:17:43,630 --> 00:17:45,630
 I don't know what's going on.
 
-275
+274
 00:17:45,630 --> 00:17:48,010
 Hey, gramps, do you need help?
 
-276
+275
 00:17:53,300 --> 00:17:55,890
 Help me-quasar!
 
-277
+276
 00:17:55,890 --> 00:17:57,310
 What the...?
 
-278
+277
 00:17:57,310 --> 00:17:59,640
 You're just like Kin'emon.
 
-279
+278
 00:18:01,440 --> 00:18:04,190
 Hurry up!
 
-280
+279
 00:18:07,400 --> 00:18:09,280
 I'll get you out!
 
-281
+280
 00:18:09,280 --> 00:18:10,400
 Thanks!
 
-282
+281
 00:18:14,200 --> 00:18:15,410
 I knew it!
 
-283
+282
 00:18:15,410 --> 00:18:16,410
 It's him!
 
-284
+283
 00:18:18,660 --> 00:18:19,790
 Thank you!
 
-285
+284
 00:18:19,790 --> 00:18:21,120
 By the way, you're...
 
-286
+285
 00:18:21,120 --> 00:18:22,870
 Dragon's son, right?
 
-287
+286
 00:18:22,870 --> 00:18:24,460
 I knew you were here.
 
-288
+287
 00:18:24,460 --> 00:18:26,250
 I'm glad you came.
 
-289
+288
 00:18:26,250 --> 00:18:27,460
 And you must be...
 
-290
+289
 00:18:27,460 --> 00:18:28,750
 Bonney!
 
-291
+290
 00:18:28,750 --> 00:18:30,460
 You're all grown up!
 
-292
+291
 00:18:30,460 --> 00:18:31,920
 Vegapunk!
 
-293
+292
 00:18:32,670 --> 00:18:34,680
 I'm glad to see you doing well!
 
-294
+293
 00:18:35,890 --> 00:18:37,890
 Old man, are you floating?!
 
-295
+294
 00:18:38,390 --> 00:18:40,270
 You're wearing them, too.
 
-296
+295
 00:18:40,270 --> 00:18:40,970
 What?
 
-297
+296
 00:18:40,970 --> 00:18:44,690
 Those dom shoes have a hover function!
 
-298
+297
 00:18:44,690 --> 00:18:47,440
 What?! A hover function?!
 
-299
+298
 00:18:47,440 --> 00:18:48,650
 How do we use it?!
 
-300
+299
 00:18:48,650 --> 00:18:52,320
 First, press the button on the side...
 
-301
+300
 00:18:53,070 --> 00:18:54,530
 Oh, this one.
 
-302
+301
 00:18:55,110 --> 00:18:57,070
 And this lever!
 
-303
+302
 00:18:57,070 --> 00:19:00,040
 Push it down!
 
-304
+303
 00:19:00,040 --> 00:19:00,870
 Like this?!
 
-305
+304
 00:19:01,450 --> 00:19:02,620
 That's it!
 
-306
+305
 00:19:11,050 --> 00:19:13,510
 We flew too high!
 
-307
+306
 00:19:15,680 --> 00:19:19,970
 Help me-quasar!
 
-308
+307
 00:19:21,350 --> 00:19:21,390
 The World's Premier Brain
 
-309
+308
 00:19:21,390 --> 00:19:21,430
 The World's Premier Brain
 
-310
+309
 00:19:21,430 --> 00:19:21,470
 The World's Premier Brain
 
-311
+310
 00:19:21,470 --> 00:19:21,520
 The World's Premier Brain
 
-312
+311
 00:19:21,520 --> 00:19:21,560
 The World's Premier Brain
 
-313
+312
 00:19:21,560 --> 00:19:21,600
 The World's Premier Brain
 
-314
+313
 00:19:21,600 --> 00:19:22,470
 The World's Premier Brain
 
-315
+314
 00:19:24,480 --> 00:19:28,900
 The World's Premier Brain
 
-316
+315
 00:19:25,020 --> 00:19:25,060
-Head of the Marines' Special Science Group
+H
+
+316
+00:19:25,060 --> 00:19:25,140
+He
 
 317
-00:19:25,060 --> 00:19:25,140
-Head of the Marines' Special Science Group
+00:19:25,140 --> 00:19:25,230
+Hea
 
 318
-00:19:25,140 --> 00:19:25,230
-Head of the Marines' Special Science Group
+00:19:25,230 --> 00:19:25,270
+Head
 
 319
-00:19:25,230 --> 00:19:25,270
-Head of the Marines' Special Science Group
+00:19:25,270 --> 00:19:25,350
+Head
 
 320
-00:19:25,270 --> 00:19:25,350
-Head of the Marines' Special Science Group
+00:19:25,350 --> 00:19:25,440
+Head o
 
 321
-00:19:25,350 --> 00:19:25,440
-Head of the Marines' Special Science Group
+00:19:25,440 --> 00:19:25,480
+Head of
 
 322
-00:19:25,440 --> 00:19:25,480
-Head of the Marines' Special Science Group
+00:19:25,480 --> 00:19:25,560
+Head of
 
 323
-00:19:25,480 --> 00:19:25,560
-Head of the Marines' Special Science Group
+00:19:25,560 --> 00:19:25,640
+Head of t
 
 324
-00:19:25,560 --> 00:19:25,640
-Head of the Marines' Special Science Group
+00:19:25,640 --> 00:19:25,690
+Head of th
 
 325
-00:19:25,640 --> 00:19:25,690
-Head of the Marines' Special Science Group
+00:19:25,690 --> 00:19:25,770
+Head of the
 
 326
-00:19:25,690 --> 00:19:25,770
-Head of the Marines' Special Science Group
+00:19:25,770 --> 00:19:25,850
+Head of the
 
 327
-00:19:25,770 --> 00:19:25,850
-Head of the Marines' Special Science Group
+00:19:25,850 --> 00:19:25,890
+Head of the M
 
 328
-00:19:25,850 --> 00:19:25,890
-Head of the Marines' Special Science Group
+00:19:25,890 --> 00:19:25,980
+Head of the Ma
 
 329
-00:19:25,890 --> 00:19:25,980
-Head of the Marines' Special Science Group
+00:19:25,980 --> 00:19:26,060
+Head of the Mar
 
 330
-00:19:25,980 --> 00:19:26,060
-Head of the Marines' Special Science Group
+00:19:26,060 --> 00:19:26,140
+Head of the Mari
 
 331
-00:19:26,060 --> 00:19:26,140
-Head of the Marines' Special Science Group
+00:19:26,140 --> 00:19:26,190
+Head of the Marin
 
 332
-00:19:26,140 --> 00:19:26,190
-Head of the Marines' Special Science Group
+00:19:26,190 --> 00:19:26,270
+Head of the Marine
 
 333
-00:19:26,190 --> 00:19:26,270
-Head of the Marines' Special Science Group
+00:19:26,270 --> 00:19:26,350
+Head of the Marines
 
 334
-00:19:26,270 --> 00:19:26,350
-Head of the Marines' Special Science Group
+00:19:26,350 --> 00:19:26,400
+Head of the Marines'
 
 335
-00:19:26,350 --> 00:19:26,400
-Head of the Marines' Special Science Group
+00:19:26,400 --> 00:19:26,480
+Head of the Marines'
 
 336
-00:19:26,400 --> 00:19:26,480
-Head of the Marines' Special Science Group
+00:19:26,480 --> 00:19:26,560
+Head of the Marines' S
 
 337
-00:19:26,480 --> 00:19:26,560
-Head of the Marines' Special Science Group
+00:19:26,560 --> 00:19:26,600
+Head of the Marines' Sp
 
 338
-00:19:26,560 --> 00:19:26,600
-Head of the Marines' Special Science Group
+00:19:26,600 --> 00:19:26,690
+Head of the Marines' Spe
 
 339
-00:19:26,600 --> 00:19:26,690
-Head of the Marines' Special Science Group
+00:19:26,690 --> 00:19:26,770
+Head of the Marines' Spec
 
 340
-00:19:26,690 --> 00:19:26,770
-Head of the Marines' Special Science Group
+00:19:26,770 --> 00:19:26,810
+Head of the Marines' Speci
 
 341
-00:19:26,770 --> 00:19:26,810
-Head of the Marines' Special Science Group
+00:19:26,810 --> 00:19:26,900
+Head of the Marines' Specia
 
 342
-00:19:26,810 --> 00:19:26,900
-Head of the Marines' Special Science Group
+00:19:26,900 --> 00:19:26,980
+Head of the Marines' Special
 
 343
-00:19:26,900 --> 00:19:26,980
-Head of the Marines' Special Science Group
+00:19:26,980 --> 00:19:27,060
+Head of the Marines' Special
 
 344
-00:19:26,980 --> 00:19:27,060
-Head of the Marines' Special Science Group
+00:19:27,060 --> 00:19:27,100
+Head of the Marines' Special S
 
 345
-00:19:27,060 --> 00:19:27,100
-Head of the Marines' Special Science Group
+00:19:27,100 --> 00:19:27,190
+Head of the Marines' Special Sc
 
 346
-00:19:27,100 --> 00:19:27,190
-Head of the Marines' Special Science Group
+00:19:27,190 --> 00:19:27,270
+Head of the Marines' Special Sci
 
 347
-00:19:27,190 --> 00:19:27,270
-Head of the Marines' Special Science Group
+00:19:27,270 --> 00:19:27,310
+Head of the Marines' Special Scie
 
 348
-00:19:27,270 --> 00:19:27,310
-Head of the Marines' Special Science Group
+00:19:27,310 --> 00:19:27,400
+Head of the Marines' Special Scien
 
 349
-00:19:27,310 --> 00:19:27,400
-Head of the Marines' Special Science Group
+00:19:27,400 --> 00:19:27,480
+Head of the Marines' Special Scienc
 
 350
-00:19:27,400 --> 00:19:27,480
-Head of the Marines' Special Science Group
+00:19:27,480 --> 00:19:27,520
+Head of the Marines' Special Science
 
 351
-00:19:27,480 --> 00:19:27,520
-Head of the Marines' Special Science Group
+00:19:27,520 --> 00:19:27,600
+Head of the Marines' Special Science
 
 352
-00:19:27,520 --> 00:19:27,600
-Head of the Marines' Special Science Group
+00:19:27,600 --> 00:19:27,690
+Head of the Marines' Special Science G
 
 353
-00:19:27,600 --> 00:19:27,690
-Head of the Marines' Special Science Group
+00:19:27,690 --> 00:19:27,730
+Head of the Marines' Special Science Gr
 
 354
-00:19:27,690 --> 00:19:27,730
-Head of the Marines' Special Science Group
+00:19:27,730 --> 00:19:27,810
+Head of the Marines' Special Science Gro
 
 355
-00:19:27,730 --> 00:19:27,810
-Head of the Marines' Special Science Group
+00:19:27,810 --> 00:19:27,900
+Head of the Marines' Special Science Grou
 
 356
-00:19:27,810 --> 00:19:27,900
-Head of the Marines' Special Science Group
-
-357
 00:19:27,900 --> 00:19:27,980
 Head of the Marines' Special Science Group
 
-358
+357
 00:19:27,980 --> 00:19:28,900
 Head of the Marines' Special Science Group

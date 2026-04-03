@@ -482,13 +482,7 @@ I will not stop robbing these graves!
 111
 00:12:36,230 --> 00:12:36,270
 Shimotsuki
-
-112
-00:12:36,230 --> 00:12:36,270
 Ushimaru
-
-113
-00:12:36,230 --> 00:12:36,270
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -503,9 +497,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+112
+00:12:36,270 --> 00:12:36,310
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+113
+00:12:36,310 --> 00:12:36,360
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 114
-00:12:36,230 --> 00:12:36,270
+00:12:36,360 --> 00:12:36,400
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -522,15 +612,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 115
-00:12:36,270 --> 00:12:36,310
+00:12:36,400 --> 00:12:36,440
 Shimotsuki
-
-116
-00:12:36,270 --> 00:12:36,310
 Ushimaru
-
-117
-00:12:36,270 --> 00:12:36,310
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -545,9 +629,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+116
+00:12:36,440 --> 00:12:36,480
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+117
+00:12:36,480 --> 00:12:36,520
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 118
-00:12:36,270 --> 00:12:36,310
+00:12:36,520 --> 00:12:36,560
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -564,15 +744,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 119
-00:12:36,310 --> 00:12:36,360
+00:12:36,560 --> 00:12:36,610
 Shimotsuki
-
-120
-00:12:36,310 --> 00:12:36,360
 Ushimaru
-
-121
-00:12:36,310 --> 00:12:36,360
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -587,9 +761,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+120
+00:12:36,610 --> 00:12:36,650
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+121
+00:12:36,650 --> 00:12:36,690
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 122
-00:12:36,310 --> 00:12:36,360
+00:12:36,690 --> 00:12:36,730
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -606,15 +876,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 123
-00:12:36,360 --> 00:12:36,400
+00:12:36,730 --> 00:12:36,770
 Shimotsuki
-
-124
-00:12:36,360 --> 00:12:36,400
 Ushimaru
-
-125
-00:12:36,360 --> 00:12:36,400
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -629,9 +893,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+124
+00:12:36,770 --> 00:12:36,810
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+125
+00:12:36,810 --> 00:12:36,860
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 126
-00:12:36,360 --> 00:12:36,400
+00:12:36,860 --> 00:12:36,900
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -648,15 +1008,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 127
-00:12:36,400 --> 00:12:36,440
+00:12:36,900 --> 00:12:36,940
 Shimotsuki
-
-128
-00:12:36,400 --> 00:12:36,440
 Ushimaru
-
-129
-00:12:36,400 --> 00:12:36,440
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -671,9 +1025,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+128
+00:12:36,940 --> 00:12:36,980
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+129
+00:12:36,980 --> 00:12:37,020
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 130
-00:12:36,400 --> 00:12:36,440
+00:12:37,020 --> 00:12:37,060
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -690,15 +1140,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 131
-00:12:36,440 --> 00:12:36,480
+00:12:37,060 --> 00:12:37,110
 Shimotsuki
-
-132
-00:12:36,440 --> 00:12:36,480
 Ushimaru
-
-133
-00:12:36,440 --> 00:12:36,480
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -713,9 +1157,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+132
+00:12:37,110 --> 00:12:37,150
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+133
+00:12:37,150 --> 00:12:37,190
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 134
-00:12:36,440 --> 00:12:36,480
+00:12:37,190 --> 00:12:37,230
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -732,15 +1272,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 135
-00:12:36,480 --> 00:12:36,520
+00:12:37,230 --> 00:12:37,270
 Shimotsuki
-
-136
-00:12:36,480 --> 00:12:36,520
 Ushimaru
-
-137
-00:12:36,480 --> 00:12:36,520
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -755,9 +1289,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+136
+00:12:37,270 --> 00:12:37,310
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+137
+00:12:37,310 --> 00:12:37,360
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 138
-00:12:36,480 --> 00:12:36,520
+00:12:37,360 --> 00:12:37,400
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -774,15 +1404,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 139
-00:12:36,520 --> 00:12:36,560
+00:12:37,400 --> 00:12:37,440
 Shimotsuki
-
-140
-00:12:36,520 --> 00:12:36,560
 Ushimaru
-
-141
-00:12:36,520 --> 00:12:36,560
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -797,9 +1421,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+140
+00:12:37,440 --> 00:12:37,480
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+141
+00:12:37,480 --> 00:12:37,520
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 142
-00:12:36,520 --> 00:12:36,560
+00:12:37,520 --> 00:12:37,560
+Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -816,1712 +1536,686 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 143
-00:12:36,560 --> 00:12:36,610
+00:12:37,560 --> 00:12:37,610
 Shimotsuki
+Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 144
-00:12:36,560 --> 00:12:36,610
+00:12:37,610 --> 00:12:37,650
+Shimotsuki
 Ushimaru
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 145
-00:12:36,560 --> 00:12:36,610
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-146
-00:12:36,560 --> 00:12:36,610
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-147
-00:12:36,610 --> 00:12:36,650
-Shimotsuki
-
-148
-00:12:36,610 --> 00:12:36,650
-Ushimaru
-
-149
-00:12:36,610 --> 00:12:36,650
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-150
-00:12:36,610 --> 00:12:36,650
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-151
-00:12:36,650 --> 00:12:36,690
-Shimotsuki
-
-152
-00:12:36,650 --> 00:12:36,690
-Ushimaru
-
-153
-00:12:36,650 --> 00:12:36,690
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-154
-00:12:36,650 --> 00:12:36,690
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-155
-00:12:36,690 --> 00:12:36,730
-Shimotsuki
-
-156
-00:12:36,690 --> 00:12:36,730
-Ushimaru
-
-157
-00:12:36,690 --> 00:12:36,730
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-158
-00:12:36,690 --> 00:12:36,730
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-159
-00:12:36,730 --> 00:12:36,770
-Shimotsuki
-
-160
-00:12:36,730 --> 00:12:36,770
-Ushimaru
-
-161
-00:12:36,730 --> 00:12:36,770
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-162
-00:12:36,730 --> 00:12:36,770
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-163
-00:12:36,770 --> 00:12:36,810
-Shimotsuki
-
-164
-00:12:36,770 --> 00:12:36,810
-Ushimaru
-
-165
-00:12:36,770 --> 00:12:36,810
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-166
-00:12:36,770 --> 00:12:36,810
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-167
-00:12:36,810 --> 00:12:36,860
-Shimotsuki
-
-168
-00:12:36,810 --> 00:12:36,860
-Ushimaru
-
-169
-00:12:36,810 --> 00:12:36,860
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-170
-00:12:36,810 --> 00:12:36,860
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-171
-00:12:36,860 --> 00:12:36,900
-Shimotsuki
-
-172
-00:12:36,860 --> 00:12:36,900
-Ushimaru
-
-173
-00:12:36,860 --> 00:12:36,900
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-174
-00:12:36,860 --> 00:12:36,900
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-175
-00:12:36,900 --> 00:12:36,940
-Shimotsuki
-
-176
-00:12:36,900 --> 00:12:36,940
-Ushimaru
-
-177
-00:12:36,900 --> 00:12:36,940
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-178
-00:12:36,900 --> 00:12:36,940
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-179
-00:12:36,940 --> 00:12:36,980
-Shimotsuki
-
-180
-00:12:36,940 --> 00:12:36,980
-Ushimaru
-
-181
-00:12:36,940 --> 00:12:36,980
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-182
-00:12:36,940 --> 00:12:36,980
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-183
-00:12:36,980 --> 00:12:37,020
-Shimotsuki
-
-184
-00:12:36,980 --> 00:12:37,020
-Ushimaru
-
-185
-00:12:36,980 --> 00:12:37,020
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-186
-00:12:36,980 --> 00:12:37,020
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-187
-00:12:37,020 --> 00:12:37,060
-Shimotsuki
-
-188
-00:12:37,020 --> 00:12:37,060
-Ushimaru
-
-189
-00:12:37,020 --> 00:12:37,060
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-190
-00:12:37,020 --> 00:12:37,060
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-191
-00:12:37,060 --> 00:12:37,110
-Shimotsuki
-
-192
-00:12:37,060 --> 00:12:37,110
-Ushimaru
-
-193
-00:12:37,060 --> 00:12:37,110
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-194
-00:12:37,060 --> 00:12:37,110
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-195
-00:12:37,110 --> 00:12:37,150
-Shimotsuki
-
-196
-00:12:37,110 --> 00:12:37,150
-Ushimaru
-
-197
-00:12:37,110 --> 00:12:37,150
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-198
-00:12:37,110 --> 00:12:37,150
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-199
-00:12:37,150 --> 00:12:37,190
-Shimotsuki
-
-200
-00:12:37,150 --> 00:12:37,190
-Ushimaru
-
-201
-00:12:37,150 --> 00:12:37,190
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-202
-00:12:37,150 --> 00:12:37,190
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-203
-00:12:37,190 --> 00:12:37,230
-Shimotsuki
-
-204
-00:12:37,190 --> 00:12:37,230
-Ushimaru
-
-205
-00:12:37,190 --> 00:12:37,230
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-206
-00:12:37,190 --> 00:12:37,230
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-207
-00:12:37,230 --> 00:12:37,270
-Shimotsuki
-
-208
-00:12:37,230 --> 00:12:37,270
-Ushimaru
-
-209
-00:12:37,230 --> 00:12:37,270
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-210
-00:12:37,230 --> 00:12:37,270
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-211
-00:12:37,270 --> 00:12:37,310
-Shimotsuki
-
-212
-00:12:37,270 --> 00:12:37,310
-Ushimaru
-
-213
-00:12:37,270 --> 00:12:37,310
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-214
-00:12:37,270 --> 00:12:37,310
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-215
-00:12:37,310 --> 00:12:37,360
-Shimotsuki
-
-216
-00:12:37,310 --> 00:12:37,360
-Ushimaru
-
-217
-00:12:37,310 --> 00:12:37,360
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-218
-00:12:37,310 --> 00:12:37,360
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-219
-00:12:37,360 --> 00:12:37,400
-Shimotsuki
-
-220
-00:12:37,360 --> 00:12:37,400
-Ushimaru
-
-221
-00:12:37,360 --> 00:12:37,400
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-222
-00:12:37,360 --> 00:12:37,400
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-223
-00:12:37,400 --> 00:12:37,440
-Shimotsuki
-
-224
-00:12:37,400 --> 00:12:37,440
-Ushimaru
-
-225
-00:12:37,400 --> 00:12:37,440
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-226
-00:12:37,400 --> 00:12:37,440
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-227
-00:12:37,440 --> 00:12:37,480
-Shimotsuki
-
-228
-00:12:37,440 --> 00:12:37,480
-Ushimaru
-
-229
-00:12:37,440 --> 00:12:37,480
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-230
-00:12:37,440 --> 00:12:37,480
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-231
-00:12:37,480 --> 00:12:37,520
-Shimotsuki
-
-232
-00:12:37,480 --> 00:12:37,520
-Ushimaru
-
-233
-00:12:37,480 --> 00:12:37,520
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-234
-00:12:37,480 --> 00:12:37,520
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-235
-00:12:37,520 --> 00:12:37,560
-Shimotsuki
-
-236
-00:12:37,520 --> 00:12:37,560
-Ushimaru
-
-237
-00:12:37,520 --> 00:12:37,560
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-238
-00:12:37,520 --> 00:12:37,560
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-239
-00:12:37,560 --> 00:12:37,610
-Shimotsuki
-
-240
-00:12:37,560 --> 00:12:37,610
-Ushimaru
-
-241
-00:12:37,560 --> 00:12:37,610
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-242
-00:12:37,560 --> 00:12:37,610
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-243
-00:12:37,610 --> 00:12:37,650
-Shimotsuki
-
-244
-00:12:37,610 --> 00:12:37,650
-Ushimaru
-
-245
-00:12:37,610 --> 00:12:37,650
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-246
-00:12:37,610 --> 00:12:37,650
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-247
 00:12:54,710 --> 00:12:57,170
 Onimaru...
 
-248
+146
 00:13:12,060 --> 00:13:12,930
 What the...?
 
-249
+147
 00:13:12,930 --> 00:13:18,230
 What a turn of events...
 Did you understand me?
 
-250
+148
 00:13:20,730 --> 00:13:23,440
 Allow me to join you, Onimaru.
 
-251
+149
 00:13:24,740 --> 00:13:29,280
 That's how Onimaru and I
 began working together
 
-252
+150
 00:13:29,280 --> 00:13:32,290
 to defend the graves
 and collect their weapons.
 
-253
+151
 00:13:41,380 --> 00:13:44,520
 Alright! Another day for robbing graves!
 
-254
+152
 00:13:52,060 --> 00:13:54,930
 It is freezing today!
 
-255
+153
 00:13:56,810 --> 00:14:00,730
 At this rate, the two of us
 will have no place to sleep...
 
-256
+154
 00:14:01,440 --> 00:14:04,610
 Let us dig a cellar to hide
 these weapons away.
 
-257
+155
 00:14:07,150 --> 00:14:08,780
 I am famished...
 
-258
+156
 00:14:09,450 --> 00:14:13,040
 Just selling one or two
 of those swords in the capital...
 
-259
+157
 00:14:13,040 --> 00:14:18,040
 That would earn the money needed
 to buy enough food for a time...
 
-260
+158
 00:14:18,040 --> 00:14:19,120
 Onimaru...
 
-261
+159
 00:14:22,460 --> 00:14:24,550
 It was a joke! I was joking!
 
-262
+160
 00:14:27,470 --> 00:14:29,930
 An army marches when bellies are filled...
 
-263
+161
 00:14:32,720 --> 00:14:35,930
 This is for a good cause! Forgive me!
 
-264
+162
 00:14:37,280 --> 00:14:38,890
 I have returned, Onimaru!
 
-265
+163
 00:14:38,890 --> 00:14:41,820
 Look at the food I procured.
 
-266
+164
 00:14:42,560 --> 00:14:45,320
 It is your favorite, fried tofu.
 
-267
+165
 00:14:52,030 --> 00:14:55,450
 You think we could make a profit there?
 
-268
+166
 00:14:55,450 --> 00:14:58,460
 Bingo, are you sure about this?
 
-269
+167
 00:14:58,460 --> 00:15:03,960
 Yeah, I looked into it.
 The Eternal Graves are a gold mine!
 
-270
+168
 00:15:04,340 --> 00:15:07,260
 The swords are just there
 for the taking. Look here!
 
-271
+169
 00:15:07,660 --> 00:15:10,880
 On the other side of that bridge
 lies the heart of Ringo.
 
-272
+170
 00:15:16,640 --> 00:15:17,890
 Who's there?!
 
-273
+171
 00:15:17,890 --> 00:15:20,600
 Away with you, thieving swine!
 
-274
+172
 00:15:20,600 --> 00:15:24,480
 We will not let the likes of you
 take even a single sword!
 
-275
+173
 00:15:25,240 --> 00:15:28,400
 Try and stop us! Bungo! Bongo! Let's get 'im!
 
-276
+174
 00:15:27,900 --> 00:15:28,400
 – Yeah!
 – Yeah!
 
-277
+175
 00:15:28,740 --> 00:15:30,900
 Onimaru!
 
-278
+176
 00:15:37,580 --> 00:15:39,960
 Damn, just who the hell are you anyway?!
 
-279
+177
 00:15:40,500 --> 00:15:44,420
 My name? Good question...
 
-280
+178
 00:15:45,210 --> 00:15:46,420
 C'mon...!
 
-281
+179
 00:15:49,300 --> 00:15:50,880
 I have an idea!
 
-282
+180
 00:15:50,880 --> 00:15:52,840
 My name is...
 
-283
+181
 00:15:52,840 --> 00:15:55,720
 Bandit's Bridge's...
 
-284
+182
 00:15:56,560 --> 00:16:02,770
 Gyukimaru!
 
-285
+183
 00:16:04,800 --> 00:16:07,980
 Now, leave your weapons and begone!
 
-286
+184
 00:16:17,220 --> 00:16:19,750
 Gyukimaru? What a coincidence!
 
-287
+185
 00:16:20,240 --> 00:16:23,250
 That's the name of that warrior monk we met.
 
-288
+186
 00:16:23,250 --> 00:16:28,960
 Soon after, I traveled to the capital
 to procure some food,
 
-289
+187
 00:16:28,960 --> 00:16:35,680
 but it just so happened that
 I was unable to return.
 
-290
+188
 00:16:37,890 --> 00:16:40,640
 People of the capital, I am sorry...
 
-291
+189
 00:16:45,560 --> 00:16:49,150
 – You're under arrest!
 – You're under arrest!
 
-292
+190
 00:16:49,150 --> 00:16:53,400
 We caught him! Don't move
 a muscle, you fried-tofu thief!
 
-293
+191
 00:16:54,280 --> 00:16:58,030
 What a catastrophic mistake.
 
-294
+192
 00:17:05,920 --> 00:17:08,540
 Forgive me, Onimaru.
 
-295
+193
 00:17:11,840 --> 00:17:14,590
 That is why you were
 locked away for thirteen years?
 
-296
+194
 00:17:15,340 --> 00:17:17,510
 What a mistake it was...
 
-297
+195
 00:17:17,510 --> 00:17:21,720
 Then, have you returned here
 today to see that fox?
 
-298
+196
 00:17:21,720 --> 00:17:27,150
 No, Onimaru must have given up
 on me since I never returned.
 
-299
+197
 00:17:27,150 --> 00:17:31,940
 I cannot believe he would still
 be here after thirteen years.
 
-300
+198
 00:17:37,860 --> 00:17:39,450
 Zorojuro!
 
-301
+199
 00:17:40,030 --> 00:17:42,490
 Where did that warrior monk go?
 
-302
+200
 00:17:42,490 --> 00:17:47,460
 He opened this door and disappeared.
 
-303
+201
 00:17:48,000 --> 00:17:50,340
 A door? This place is...
 
-304
+202
 00:17:50,700 --> 00:17:53,670
 What the hell is he up to?
 
-305
+203
 00:17:54,090 --> 00:18:00,260
 Could it be...?! This passage leads to
 the undergound space that he and I created...
 
-306
+204
 00:18:06,440 --> 00:18:08,190
 Is that you, Kin'emon?!
 
-307
+205
 00:18:08,190 --> 00:18:12,610
 Oh, Kawamatsu! I am glad
 to hear you are still alive!
 
-308
+206
 00:18:12,610 --> 00:18:18,240
 I have so much to tell you,
 but a far more pressing matter is at hand.
 
-309
+207
 00:18:18,720 --> 00:18:21,780
 Are you aware that we captured Udon?
 
-310
+208
 00:18:21,780 --> 00:18:23,740
 Yes, I heard.
 
-311
+209
 00:18:24,410 --> 00:18:31,420
 Raizo reported that Sir Luffytaro's efforts
 have increased our forces severalfold.
 
-312
+210
 00:18:31,420 --> 00:18:34,420
 Yes, but are you not short on weapons?
 
-313
+211
 00:18:34,420 --> 00:18:39,890
 That is indeed accurate! Solving this
 conundrum is at the forefront of our minds.
 
-314
+212
 00:18:39,890 --> 00:18:45,680
 That damned Orochi has been confiscating
 weapons across the country for twenty years!
 
-315
+213
 00:18:45,680 --> 00:18:47,140
 I suspected as much...
 
-316
+214
 00:18:47,760 --> 00:18:49,310
 But you need not worry.
 
-317
+215
 00:18:49,310 --> 00:18:52,190
 Even if you enlist thousands of soldiers,
 
-318
+216
 00:18:52,680 --> 00:18:55,070
 I can provide all the swords that they need!
 
-319
+217
 00:18:55,480 --> 00:18:57,570
 What?! Are you serious?!
 
-320
+218
 00:18:57,570 --> 00:19:00,660
 Send some people to the location
 I am about to share with you!
 
-321
+219
 00:19:01,040 --> 00:19:02,870
 Understood! Right away!
 
-322
+220
 00:19:05,910 --> 00:19:07,750
 But how...?
 
-323
+221
 00:19:08,220 --> 00:19:12,290
 Was it Onimaru...? No, only human hands
 could have accomplished this.
 
-324
+222
 00:19:12,290 --> 00:19:14,820
 Just who was it then...?
 
-325
+223
 00:19:22,640 --> 00:19:28,850
 Master Kawamatsu...
 I have accomplished our mission...
 
-326
+224
 00:19:29,180 --> 00:19:30,440
 I wish you luck!
 
-327
+225
 00:19:47,520 --> 00:19:50,290
 Seven days before
 the invasion of Onigashima—
 
-328
+226
 00:19:50,290 --> 00:19:54,420
 the stage of the final clash
 against the backdrop of the Fire Festival—
 
-329
+227
 00:19:54,420 --> 00:19:59,260
 the samurai acquired
 a massive cache of swords.
 
-330
+228
 00:19:59,260 --> 00:20:00,920
 Zorojuro!
 
-331
+229
 00:20:00,400 --> 00:20:00,920
 Hm?
 
-332
+230
 00:20:01,260 --> 00:20:05,010
 If your sword is the real Shusui,
 
-333
+231
 00:20:05,010 --> 00:20:07,010
 I implore you to return it to Wano.
 
-334
+232
 00:20:07,010 --> 00:20:09,600
 I already told you, it's mine!
 
-335
+233
 00:20:11,770 --> 00:20:13,560
 I'll give you another in return.
 
-336
+234
 00:20:14,860 --> 00:20:18,570
 The sword I inherited from my late father...
 
-337
+235
 00:20:19,600 --> 00:20:21,190
 the named blade, Enma.
 
-338
+236
 00:20:23,820 --> 00:20:24,870
 Enma...
 
-339
+237
 00:20:25,560 --> 00:20:28,870
 It is a legendary sword,
 the only one known to have cut Kaido.
 
-340
+238
 00:20:30,750 --> 00:20:31,410
 Wha...?!
 
-341
+239
 00:20:32,020 --> 00:20:33,830
 Do not do this, Princess Hiyori!
 
-342
+240
 00:20:33,830 --> 00:20:36,960
 You cannot let go of an heirloom
 from Lord Oden!
 
-343
+241
 00:20:39,300 --> 00:20:42,760
 My father, Kozuki Oden,
 was a swordsman who used...
 
-344
+242
 00:20:43,900 --> 00:20:46,200
 two-sword style with two full-size swords!
 
-345
+243
 00:20:47,850 --> 00:20:51,560
 Before Orochi had my father executed...
 
-346
+244
 00:20:52,140 --> 00:20:54,940
 my brother Momonosuke and I...
 
-347
+245
 00:20:55,560 --> 00:21:00,320
 were each entrusted with one of
 the two swords that our father used.
 
-348
+246
 00:21:04,200 --> 00:21:05,110
 To my brother...
 
-349
+247
 00:21:06,990 --> 00:21:11,160
 Ame no Habakiri.
 
-350
+248
 00:21:11,660 --> 00:21:12,370
 And to me...
 
-351
+249
 00:21:14,250 --> 00:21:18,290
 Enma.
 
-352
+250
 00:21:18,290 --> 00:21:23,880
 They were both crafted by Wanese
 swordsmiths of great renown.
 
-353
+251
 00:21:24,170 --> 00:21:26,640
 They are fine swords.
 
-354
+252
 00:21:27,510 --> 00:21:30,720
 That is precisely why
 you cannot, Your Highness!
 
-355
+253
 00:21:30,850 --> 00:21:33,680
 It is unthinkable to let a dubious man like him
 
-356
+254
 00:21:33,680 --> 00:21:36,940
 use Lord Oden's sword!
 
-357
+255
 00:21:36,940 --> 00:21:38,230
 Kawamatsu...
 
-358
+256
 00:21:39,190 --> 00:21:42,190
 I understand how you feel,
 
-359
+257
 00:21:42,190 --> 00:21:45,700
 but act more kindly toward
 the man who saved my life.
 
-360
+258
 00:21:46,990 --> 00:21:54,700
 I do not know how you obtained Shusui,
 the sword of Ryuma, God of the Blade.
 
-361
+259
 00:22:00,120 --> 00:22:01,220
 Well...
 
-362
+260
 00:22:01,840 --> 00:22:04,420
 I guess Moria stole it...
 
-363
+261
 00:22:05,460 --> 00:22:08,590
 However, when it was stolen...
 
-364
+262
 00:22:09,260 --> 00:22:14,020
 all of Wano became crestfallen
 because it is considered a national treasure.
 
-365
+263
 00:22:15,890 --> 00:22:19,100
 Please offer Shusui to this country.
 
-366
+264
 00:22:30,950 --> 00:22:33,120
 Seeing as you'll replace it...
 
-367
+265
 00:22:33,120 --> 00:22:34,660
 I suppose...
 
-368
+266
 00:22:41,170 --> 00:22:42,540
 I understand.
 
-369
+267
 00:22:42,540 --> 00:22:47,630
 Well, I'm bonded to Ryuma since he and I
 fought a duel for it, even if it was with his corpse...
 
-370
+268
 00:22:59,480 --> 00:23:01,810
 I'll return Shusui.
 
-371
+269
 00:23:01,810 --> 00:23:06,570
 In exchange, at least
 let me visit Ryuma's grave.
 
-372
+270
 00:23:08,570 --> 00:23:11,820
 He's delusional! What's wrong with him?!
 
-373
+271
 00:23:12,660 --> 00:23:14,160
 Your Highness!
 
-374
+272
 00:23:18,790 --> 00:23:22,380
 The Flower
 Capital
 
-375
+273
 00:23:22,380 --> 00:23:24,630
 Rasetsu Prison
 Nickname:
 The Public Cells
 
-376
+274
 00:23:24,630 --> 00:23:31,100
 The captive samurai who rebelled against
 Shogun Orochi have yet to be released.
 
-377
+275
 00:23:32,180 --> 00:23:39,810
 This is despite the fact that Yasuie gambled his
 life to distract the enemy and save the plan.
 
-378
+276
 00:23:40,270 --> 00:23:42,400
 What the hell is going on?!
 
-379
+277
 00:23:42,400 --> 00:23:44,900
 We're not rebels!
 
-380
+278
 00:23:45,610 --> 00:23:50,820
 The sketch we had was just a joke
 fabricated by Lord Yasuie.
 
-381
+279
 00:23:50,820 --> 00:23:54,660
 The crescent moon tattoos are just a trend!
 
-382
+280
 00:23:54,660 --> 00:23:56,710
 Are the whims of a coward so strong
 
-383
+281
 00:23:56,710 --> 00:24:01,670
 that you would imprison innocent men
 and put them on display like this?!
 
-384
+282
 00:24:01,670 --> 00:24:04,660
 It's humiliating to be labeled a traitor!
 
-385
+283
 00:24:05,420 --> 00:24:08,510
 Let us out already! Come on!
 
-386
+284
 00:24:10,010 --> 00:24:10,970
 Damn...
 
-387
+285
 00:24:12,380 --> 00:24:14,300
 What can we do?
 
-388
+286
 00:24:25,610 --> 00:24:29,730
 Inside
 the
@@ -2532,140 +2226,140 @@ Quarters
 Rasetsu
 Town
 
-389
+287
 00:24:31,190 --> 00:24:34,160
 What in the world happened to your alliance?
 
-390
+288
 00:24:34,160 --> 00:24:39,160
 I thought you formed an alliance
 with Kid and Apoo...
 
-391
+289
 00:24:43,240 --> 00:24:45,420
 We were set up...
 
-392
+290
 00:24:50,090 --> 00:24:56,260
 Scratchmen Apoo was always
 under Kaido's thumb.
 
-393
+291
 00:25:01,100 --> 00:25:04,060
 That beast Kaido told me...
 
-394
+292
 00:25:04,060 --> 00:25:07,940
 “I'll welcome you as
 one of us if you serve me.”
 
-395
+293
 00:25:11,160 --> 00:25:14,900
 He is always searching for
 more powerful soldiers.
 
-396
+294
 00:25:14,900 --> 00:25:18,080
 He's building the world's most powerful army.
 
-397
+295
 00:25:19,240 --> 00:25:23,960
 My chance of winning a fight
 in that moment: 0 percent.
 
-398
+296
 00:25:24,600 --> 00:25:28,420
 My chance of escaping
 successfully: 0 percent.
 
-399
+297
 00:25:28,420 --> 00:25:32,240
 My chance of surviving
 after surrendering: 40 percent.
 
-400
+298
 00:25:32,920 --> 00:25:34,880
 I had no choice.
 
-401
+299
 00:25:39,300 --> 00:25:43,060
 But Kid and Killer weren't like me...
 
-402
+300
 00:25:43,680 --> 00:25:49,770
 They stood and fought him until
 they couldn't move an inch.
 
-403
+301
 00:25:51,180 --> 00:25:54,820
 Kaido would never try
 to kill someone like that.
 
-404
+302
 00:25:56,530 --> 00:26:00,740
 He'd rather find a way to break
 their spirit and subjugate them.
 
-405
+303
 00:26:00,740 --> 00:26:03,200
 I can't imagine Kid will give in.
 
-406
+304
 00:26:03,760 --> 00:26:05,790
 So he'll be killed.
 
-407
+305
 00:26:05,790 --> 00:26:09,460
 I feel sorry for Kid's crewmembers.
 
-408
+306
 00:26:09,710 --> 00:26:14,460
 They've been told they can save their captain
 if they do a bit of this and a bit of that...
 
-409
+307
 00:26:14,460 --> 00:26:18,180
 Ultimately, Orochi used them as pawns.
 
-410
+308
 00:26:29,020 --> 00:26:32,400
 The Four Emperors are cut
 from a different cloth than us.
 
-411
+309
 00:26:32,400 --> 00:26:34,400
 Conventional rules don't apply.
 
-412
+310
 00:26:38,400 --> 00:26:42,200
 Your alliance with Straw Hat
 seems to be going well...
 
-413
+311
 00:26:43,900 --> 00:26:47,040
 The two of you made it to Wano together...
 
-414
+312
 00:26:48,290 --> 00:26:49,000
 What now?
 
-415
+313
 00:26:49,580 --> 00:26:51,630
 Have you changed your mind?
 
-416
+314
 00:26:52,860 --> 00:26:54,500
 I'm the one asking the questions!
 
-417
+315
 00:27:05,930 --> 00:27:09,480
 Is part of your plan that I walk free?
 
-418
+316
 00:27:10,230 --> 00:27:11,690
 If so, I'm in.
 
-419
+317
 00:27:13,440 --> 00:27:17,690
 It is now six days until
 the raid on Onigashima.

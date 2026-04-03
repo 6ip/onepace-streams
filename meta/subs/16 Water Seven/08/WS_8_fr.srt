@@ -1520,306 +1520,303 @@ Cette semaine, je suis comme ça.
 348
 00:23:13,200 --> 00:23:15,330
 Patron !
-
-349
-00:23:13,200 --> 00:23:15,330
 Hm ?
 
-350
+349
 00:23:16,120 --> 00:23:17,710
 Zambai et les autres.
 
-351
+350
 00:23:19,210 --> 00:23:22,600
 Patron, vous les avez bien démontés
 pour nous ?
 
-352
+351
 00:23:22,760 --> 00:23:24,080
 Non, pas encore.
 
-353
+352
 00:23:24,080 --> 00:23:26,930
 On m'a empêché de les rosser.
 Ils se sont enfuis.
 
-354
+353
 00:23:28,200 --> 00:23:30,570
 Ils ont échappé à la furie du patron ?
 
-355
+354
 00:23:30,720 --> 00:23:33,220
 Ils ont vraiment une sacrée veine.
 
-356
+355
 00:23:33,220 --> 00:23:37,260
 Comme on a vu
 que l'autre avorton au grand pif
 
-357
+356
 00:23:37,260 --> 00:23:39,500
 réparait le navire tout seul,
 
-358
+357
 00:23:39,610 --> 00:23:43,030
 on a cru que vous aviez
 mis une raclée à tous les autres.
 
-359
+358
 00:23:43,030 --> 00:23:45,300
 Quoi, il en reste un ?
 
-360
+359
 00:23:45,490 --> 00:23:47,450
 Euh...
 Oui, à bord de leur navire.
 
-361
+360
 00:23:51,830 --> 00:23:54,600
 S'il en reste un, c'est tout vu.
 
-362
+361
 00:23:54,910 --> 00:23:59,380
 On va l'utiliser comme appât,
 les autres devront bien se montrer.
 
-363
+362
 00:23:59,790 --> 00:24:02,400
 Le patron a vraiment un air diabolique.
 
-364
+363
 00:24:04,460 --> 00:24:08,470
 J'ai une mission pour vous, les gars.
 Parcourez la ville en criant :
 
-365
+364
 00:24:09,470 --> 00:24:11,260
 "On a le type au long pif !
 
-366
+365
 00:24:11,510 --> 00:24:13,350
 "Si vous voulez pas qu'on le noie,
 
-367
+366
 00:24:13,350 --> 00:24:15,890
 rendez-vous à l'entrepôt sous le pont.
 
-368
+367
 00:24:16,020 --> 00:24:19,310
 De la part de Franky."
 
-369
+368
 00:24:22,000 --> 00:24:26,650
 Pendant ce temps,
 je vais récupérer l'autre long pif.
 
-370
+369
 00:24:26,900 --> 00:24:30,620
 Ça marche, patron ! On vous fait ça !
 
-371
+370
 00:24:44,590 --> 00:24:48,510
 Hangar Souterrain
 (Refuge)
 
-372
+371
 00:24:48,510 --> 00:24:52,300
 Attention, l'Aqua Laguna arrive !
 
-373
+372
 00:24:52,600 --> 00:24:55,120
 Voici l'Aqua Laguna !
 
-374
+373
 00:24:56,680 --> 00:24:59,320
 Alors, ils ont attrapé les coupables ?
 
-375
+374
 00:24:59,520 --> 00:25:02,110
 Non, aux dernières nouvelles,
 ils courent encore.
 
-376
+375
 00:25:02,110 --> 00:25:05,900
 C'est pas rassurant.
 J'aime pas ça.
 
-377
+376
 00:25:06,150 --> 00:25:10,530
 On pense qu'ils vont peut-être
 profiter de la tempête pour attaquer.
 
-378
+377
 00:25:10,530 --> 00:25:13,200
 Oh, non !
 C'est l'Aqua Laguna !
 
-379
+378
 00:25:13,700 --> 00:25:15,700
 Mais ce soir,
 ils auront fort à faire !
 
-380
+379
 00:25:15,830 --> 00:25:20,040
 Il paraît que tous les hommes
 de Galley-La gardent le siège !
 
-381
+380
 00:25:20,040 --> 00:25:22,250
 Purée, c'est pas rien !
 
-382
+381
 00:25:22,500 --> 00:25:26,050
 Au fait, les pirates
 au chapeau de paille sont nombreux ?
 
-383
+382
 00:25:26,400 --> 00:25:30,850
 Certains disent qu'ils sont 50,
 pour d'autres, ils sont le double.
 
-384
+383
 00:25:31,090 --> 00:25:33,800
 Et la tête de leur capitaine
 vaut 100 Millions !
 
-385
+384
 00:25:33,800 --> 00:25:37,850
 Peut-être que 3 000 de ses hommes
 vont débarquer pendant la nuit.
 
-386
+385
 00:25:38,140 --> 00:25:40,100
 Si c'est ça, c'est la cata !
 
-387
+386
 00:25:46,570 --> 00:25:50,610
 Pas la moindre brèche dans les rangs,
 Galley-La Company !
 
-388
+387
 00:25:50,610 --> 00:25:52,110
 Ouais !
 
-389
+388
 00:25:52,610 --> 00:25:55,240
 Même une souris ne doit pas passer !
 
-390
+389
 00:25:55,240 --> 00:25:57,370
 Ouais !
 
-391
+390
 00:26:06,710 --> 00:26:12,590
 Devant la chambre d'Icebarg
 
-392
+391
 00:26:13,230 --> 00:26:15,140
 Amenez-vous !
 
-393
+392
 00:26:16,970 --> 00:26:20,460
 Ce que t'es bruyant ! Rouhou !
 Tais-toi, Tilestone.
 
-394
+393
 00:26:22,060 --> 00:26:24,900
 Ils n'étaient pas
 à bord du Train des Mers.
 
-395
+394
 00:26:25,300 --> 00:26:28,300
 Ça veut dire qu'ils sont encore
 quelque part sur l'île.
 
-396
+395
 00:26:28,980 --> 00:26:32,820
 Vu le nombre de gardes,
 ils seraient bien fous de venir ici.
 
-397
+396
 00:26:33,360 --> 00:26:37,780
 Leur chef a bien été assez fou
 pour débarquer ici en pleine journée.
 
-398
+397
 00:26:38,540 --> 00:26:40,300
 Le bon sens, c'est pas leur truc.
 
-399
+398
 00:26:41,450 --> 00:26:42,750
 Ma foi.
 
-400
+399
 00:26:43,080 --> 00:26:48,920
 Chambre
 
-401
+400
 00:26:43,730 --> 00:26:45,880
 C'était pas la peine d'en faire tant.
 
-402
+401
 00:26:46,580 --> 00:26:48,670
 Ils sont tous volontaires.
 
-403
+402
 00:26:49,550 --> 00:26:50,670
 Un vrai coq en pâte.
 
-404
+403
 00:26:51,380 --> 00:26:52,140
 Au fait,
 
-405
+404
 00:26:52,300 --> 00:26:55,890
 pourquoi gardez-vous ici
 l'avis de recherche de Nico Robin ?
 
-406
+405
 00:26:56,800 --> 00:26:57,970
 Ça vous intrigue ?
 
-407
+406
 00:27:00,390 --> 00:27:00,890
 Un peu.
 
-408
+407
 00:27:05,440 --> 00:27:07,190
 Moins vous en savez, mieux c'est.
 
-409
+408
 00:27:10,940 --> 00:27:13,400
 Cette femme, est un démon.
 
-410
+409
 00:27:40,930 --> 00:27:43,180
 C'est bourré de gardes.
 
-411
+410
 00:27:43,470 --> 00:27:45,070
 C'est un peu loin.
 
-412
+411
 00:27:45,350 --> 00:27:47,400
 Tu prendras de l'élan avec tes bras.
 
-413
+412
 00:27:47,520 --> 00:27:49,210
 Mais attends qu'ils attaquent.
 
-414
+413
 00:27:49,360 --> 00:27:54,770
 Oui. Si on attaque en premier,
 on leur servira juste de diversion.
 
-415
+414
 00:27:55,300 --> 00:27:56,750
 Les gars !
 
-416
+415
 00:27:56,950 --> 00:27:59,030
 Ne laissez absolument rien passer.
 
-417
+416
 00:27:59,660 --> 00:28:02,400
 Ouais !

@@ -264,159 +264,150 @@ Izo
 Son of a Former Hanayanagi
 
 Dance School Headmaster
+Kikunojo
+
+Izo's Younger Brother
 
 62
-00:03:11,880 --> 00:03:11,920
+00:03:11,920 --> 00:03:11,960
+Izo
+
+Son of a Former Hanayanagi
+
+Dance School Headmaster
 Kikunojo
 
 Izo's Younger Brother
 
 63
-00:03:11,920 --> 00:03:11,960
+00:03:11,960 --> 00:03:14,720
 Izo
 
 Son of a Former Hanayanagi
 
 Dance School Headmaster
+Kikunojo
+
+Izo's Younger Brother
 
 64
-00:03:11,920 --> 00:03:11,960
-Kikunojo
-
-Izo's Younger Brother
-
-65
-00:03:11,960 --> 00:03:14,720
-Izo
-
-Son of a Former Hanayanagi
-
-Dance School Headmaster
-
-66
-00:03:11,960 --> 00:03:14,720
-Kikunojo
-
-Izo's Younger Brother
-
-67
 00:03:14,720 --> 00:03:16,260
 Get lost!
 
-68
+65
 00:03:20,680 --> 00:03:24,060
 They were trying to earn money
 by dancing, but people were cold.
 
-69
+66
 00:03:30,900 --> 00:03:33,030
 Why are you two following me?!
 
-70
+67
 00:03:34,940 --> 00:03:36,110
 Stop eating, you brats!
 
-71
+68
 00:03:36,110 --> 00:03:37,030
 I want more.
 
-72
+69
 00:03:37,030 --> 00:03:38,530
 I said stop!
 
-73
+70
 00:03:38,530 --> 00:03:40,200
 Do not give him any more!
 
-74
+71
 00:03:40,200 --> 00:03:43,750
 They mentioned being
 the heirs to a school of dance,
 
-75
+72
 00:03:43,750 --> 00:03:47,620
 but their father was arrested,
 breaking up their family.
 
-76
+73
 00:03:47,620 --> 00:03:52,800
 They brazenly ate our oden,
 sobbing all the while.
 
-77
+74
 00:03:59,930 --> 00:04:02,350
 Kibi
 
-78
+75
 00:04:01,930 --> 00:04:08,270
 In Kibi, there was a ghoul who
 collected hair from the living and dead alike.
 
-79
+76
 00:04:08,770 --> 00:04:12,940
 He was a freak who made a living
 selling brushes made from the hair.
 
-80
+77
 00:04:16,360 --> 00:04:16,400
 Kanjuro
 Ghoul of Kibi
 
-81
+78
 00:04:16,400 --> 00:04:19,320
 Kanjuro
 Ghoul of Kibi
 
-82
+79
 00:04:21,950 --> 00:04:25,620
 Whoa! I give up! I give up! I give up!
 I thought you were a corpse!
 
-83
+80
 00:04:25,620 --> 00:04:30,040
 I punched him for coming after my hair,
 but then he began to follow me too.
 
-84
+81
 00:04:30,040 --> 00:04:33,880
 He claimed to have suffered—
 and deservedly so—from persecution.
 
-85
+82
 00:04:33,880 --> 00:04:43,300
 Udon
 
-86
+83
 00:04:34,710 --> 00:04:39,340
 In the forest-covered Udon, there were
 rumors of a notorious mountain bandit.
 
-87
+84
 00:04:39,340 --> 00:04:43,470
 They said women would be abducted,
 and men would be beaten soundly.
 
-88
+85
 00:04:44,930 --> 00:04:46,770
 Why are you all following me?!
 
-89
+86
 00:04:46,770 --> 00:04:48,430
 You're telling me!
 
-90
+87
 00:04:57,280 --> 00:04:59,030
 Is that the mountain bandit?!
 
-91
+88
 00:05:01,490 --> 00:05:02,160
 Jump!
 
-92
+89
 00:05:02,570 --> 00:05:04,450
 Lord Oden!
 
-93
+90
 00:05:04,450 --> 00:05:04,490
 Raizo
 
@@ -424,7 +415,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-94
+91
 00:05:04,490 --> 00:05:04,530
 Raizo
 
@@ -432,7 +423,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-95
+92
 00:05:04,530 --> 00:05:04,570
 Raizo
 
@@ -440,7 +431,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-96
+93
 00:05:04,570 --> 00:05:04,610
 Raizo
 
@@ -448,7 +439,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-97
+94
 00:05:04,610 --> 00:05:04,650
 Raizo
 
@@ -456,7 +447,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-98
+95
 00:05:04,650 --> 00:05:04,700
 Raizo
 
@@ -464,7 +455,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-99
+96
 00:05:04,700 --> 00:05:04,740
 Raizo
 
@@ -472,7 +463,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-100
+97
 00:05:04,740 --> 00:05:04,780
 Raizo
 
@@ -480,7 +471,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-101
+98
 00:05:04,780 --> 00:05:04,820
 Raizo
 
@@ -488,7 +479,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-102
+99
 00:05:04,820 --> 00:05:04,860
 Raizo
 
@@ -496,7 +487,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-103
+100
 00:05:04,860 --> 00:05:04,900
 Raizo
 
@@ -504,7 +495,7 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-104
+101
 00:05:04,900 --> 00:05:13,540
 Raizo
 
@@ -512,2896 +503,2896 @@ Former Member of
 
 the Kozuki Clan's Oniwabanshu
 
-105
+102
 00:05:05,660 --> 00:05:13,540
 The prodigious ninja, Raizo, quit the Kozuki Clan's
 Oniwabanshu after a kunoichi broke his heart.
 
-106
+103
 00:05:13,540 --> 00:05:17,920
 I cannot live my life in hiding any longer!
 
-107
+104
 00:05:23,260 --> 00:05:24,760
 He looks annoyed...
 
-108
+105
 00:05:24,760 --> 00:05:33,230
 Lawless Land of Kuri
 
-109
+106
 00:05:34,610 --> 00:05:39,780
 Ashura Doji
 Strongest Monster in Kuri
 
-110
+107
 00:05:35,570 --> 00:05:37,940
 Kozuki Oden has come to Kuri?
 
-111
+108
 00:05:37,940 --> 00:05:40,070
 He's the shogun's son!
 
-112
+109
 00:05:40,070 --> 00:05:41,820
 I wanna kill him myself!
 
-113
+110
 00:05:41,820 --> 00:05:43,450
 Catch him and bring him here!
 
-114
+111
 00:05:43,450 --> 00:05:44,450
 – Yes, sir!
 – Yes, sir!
 
-115
+112
 00:05:53,540 --> 00:05:57,750
 Those in power... We hate them most of all!
 
-116
+113
 00:06:00,840 --> 00:06:02,630
 Where's Oden?
 
-117
+114
 00:06:02,630 --> 00:06:04,970
 He went south of here to take a dump.
 
-118
+115
 00:06:05,300 --> 00:06:07,310
 Wasn't that yesterday?
 
-119
+116
 00:06:07,310 --> 00:06:11,680
 He sometimes disappears on a whim
 for one or two days, right?
 
-120
+117
 00:06:12,390 --> 00:06:15,440
 Hey, Raizo! There's a gate
 to Kuri in the south!
 
-121
+118
 00:06:15,440 --> 00:06:16,190
 What?!
 
-122
+119
 00:06:17,150 --> 00:06:22,650
 Crap! I swore I'd die for him, and now
 I'm late to join him on the battlefield!
 
-123
+120
 00:06:31,700 --> 00:06:31,830
 Kuri
 
-124
+121
 00:06:31,830 --> 00:06:31,950
 Kuri
 
-125
+122
 00:06:31,950 --> 00:06:32,080
 Kuri
 
-126
+123
 00:06:32,080 --> 00:06:32,200
 Kuri
 
-127
+124
 00:06:32,200 --> 00:06:32,330
 Kuri
 
-128
+125
 00:06:32,330 --> 00:06:32,460
 Kuri
 
-129
+126
 00:06:32,460 --> 00:06:33,160
 Kuri
 
-130
+127
 00:06:33,160 --> 00:06:33,200
 Kuri
 
-131
+128
 00:06:33,200 --> 00:06:33,240
 Kuri
 
-132
+129
 00:06:33,240 --> 00:06:33,280
 Kuri
 
-133
+130
 00:06:33,280 --> 00:06:33,330
 Kuri
 
-134
+131
 00:06:33,330 --> 00:06:33,370
 Kuri
 
-135
+132
 00:06:33,370 --> 00:06:33,410
 Kuri
 
-136
+133
 00:06:33,410 --> 00:06:33,450
 Kuri
 
-137
+134
 00:06:33,450 --> 00:06:33,490
 Kuri
 
-138
+135
 00:06:33,490 --> 00:06:33,530
 Kuri
 
-139
+136
 00:06:33,530 --> 00:06:33,580
 Kuri
 
-140
+137
 00:06:33,580 --> 00:06:33,620
 Kuri
 
-141
+138
 00:06:33,620 --> 00:06:33,660
 Kuri
 
-142
+139
 00:06:33,660 --> 00:06:33,700
 Kuri
 
-143
+140
 00:06:33,700 --> 00:06:33,740
 Kuri
 
-144
+141
 00:06:33,740 --> 00:06:33,780
 Kuri
 
-145
+142
 00:06:33,780 --> 00:06:33,830
 Kuri
 
-146
+143
 00:06:33,830 --> 00:06:33,870
 Kuri
 
-147
+144
 00:06:33,870 --> 00:06:33,910
 Kuri
 
-148
+145
 00:06:33,910 --> 00:06:33,950
 Kuri
 
-149
+146
 00:06:33,950 --> 00:06:33,990
 Kuri
 
-150
+147
 00:06:33,990 --> 00:06:34,040
 Kuri
 
-151
+148
 00:06:34,040 --> 00:06:34,080
 Kuri
 
-152
+149
 00:06:34,080 --> 00:06:34,120
 Kuri
 
-153
+150
 00:06:34,120 --> 00:06:34,160
 Kuri
 
-154
+151
 00:06:34,160 --> 00:06:34,200
 Kuri
 
-155
+152
 00:06:34,200 --> 00:06:34,240
 Kuri
 
-156
+153
 00:06:34,240 --> 00:06:34,290
 Kuri
 
-157
+154
 00:06:34,290 --> 00:06:34,330
 Kuri
 
-158
+155
 00:06:34,330 --> 00:06:34,370
 Kuri
 
-159
+156
 00:06:34,370 --> 00:06:34,410
 Kuri
 
-160
+157
 00:06:34,410 --> 00:06:34,450
 Kuri
 
-161
+158
 00:06:34,450 --> 00:06:34,490
 Kuri
 
-162
+159
 00:06:34,490 --> 00:06:34,540
 Kuri
 
-163
+160
 00:06:34,540 --> 00:06:34,580
 Kuri
 
-164
+161
 00:06:34,580 --> 00:06:34,620
 Kuri
 
-165
+162
 00:06:34,620 --> 00:06:34,660
 Kuri
 
-166
+163
 00:06:34,660 --> 00:06:34,700
 Kuri
 
-167
+164
 00:06:34,700 --> 00:06:34,740
 Kuri
 
-168
+165
 00:06:34,740 --> 00:06:34,790
 Kuri
 
-169
+166
 00:06:34,790 --> 00:06:34,830
 Kuri
 
-170
+167
 00:06:34,830 --> 00:06:34,870
 Kuri
 
-171
+168
 00:06:34,870 --> 00:06:34,910
 Kuri
 
-172
+169
 00:06:34,910 --> 00:06:34,950
 Kuri
 
-173
+170
 00:06:34,950 --> 00:06:34,990
 Kuri
 
-174
+171
 00:06:34,990 --> 00:06:35,040
 Kuri
 
-175
+172
 00:06:35,040 --> 00:06:35,080
 Kuri
 
-176
+173
 00:06:35,080 --> 00:06:35,120
 Kuri
 
-177
+174
 00:06:35,120 --> 00:06:35,160
 Kuri
 
-178
+175
 00:06:35,160 --> 00:06:35,200
 Kuri
 
-179
+176
 00:06:35,200 --> 00:06:35,240
 Kuri
 
-180
+177
 00:06:35,240 --> 00:06:35,290
 Kuri
 
-181
+178
 00:06:35,290 --> 00:06:35,330
 Kuri
 
-182
+179
 00:06:35,330 --> 00:06:35,370
 Kuri
 
-183
+180
 00:06:35,370 --> 00:06:35,410
 Kuri
 
-184
+181
 00:06:35,410 --> 00:06:35,450
 Kuri
 
-185
+182
 00:06:54,310 --> 00:06:59,190
 This was a place filled with the stench
 of death, blood, and violence!
 
-186
+183
 00:06:59,190 --> 00:07:00,900
 It was like a different world.
 
-187
+184
 00:07:00,900 --> 00:07:04,610
 All of their bloodlust was directed toward me!
 
-188
+185
 00:07:05,240 --> 00:07:09,620
 I'll lop off your head, Kozuki Oden!
 
-189
+186
 00:08:55,180 --> 00:08:57,890
 Daimyo and Retainers
 
-190
+187
 00:08:57,890 --> 00:08:59,730
 You're Kozuki Oden, huh?
 
-191
+188
 00:09:02,310 --> 00:09:04,110
 I have been disowned,
 
-192
+189
 00:09:04,110 --> 00:09:06,030
 so I no longer have a name!
 
-193
+190
 00:09:06,650 --> 00:09:10,650
 You can enter all you like,
 but we kill any who try to leave!
 
-194
+191
 00:09:10,650 --> 00:09:13,450
 Especially samurai!
 
-195
+192
 00:09:19,250 --> 00:09:21,580
 It is so restrictive!
 
-196
+193
 00:09:23,000 --> 00:09:27,170
 How can anyone live in a place like this?!
 
-197
+194
 00:09:27,630 --> 00:09:30,050
 That's hilarious.
 
-198
+195
 00:09:30,050 --> 00:09:34,300
 You're never going to leave this place!
 
-199
+196
 00:09:34,300 --> 00:09:36,430
 No, don't even try to leave!
 
-200
+197
 00:09:37,850 --> 00:09:39,730
 "Don't even try to leave"?
 
-201
+198
 00:09:39,730 --> 00:09:43,400
 That is my least favorite rule!
 
-202
+199
 00:09:43,400 --> 00:09:45,900
 I make the rules here!
 
-203
+200
 00:09:47,070 --> 00:09:48,110
 Cut him down!
 
-204
+201
 00:10:21,350 --> 00:10:22,850
 That makes you the boss?
 
-205
+202
 00:10:34,490 --> 00:10:37,410
 – Oden!
 – Oden!
 
-206
+203
 00:10:37,740 --> 00:10:39,870
 Oden!
 
-207
+204
 00:10:41,700 --> 00:10:43,960
 Look! The gate has been broken!
 
-208
+205
 00:10:52,090 --> 00:10:55,510
 How can an ass who grew up
 pampered in the capital...
 
-209
+206
 00:10:56,090 --> 00:10:59,350
 understand what it's like to live in hell?!
 
-210
+207
 00:10:59,350 --> 00:11:03,020
 Is that all you really want to say?!
 
-211
+208
 00:11:05,560 --> 00:11:06,520
 Look!
 
-212
+209
 00:11:07,900 --> 00:11:09,060
 Up there!
 
-213
+210
 00:11:19,370 --> 00:11:22,580
 Oden! We're here to back you up!
 
-214
+211
 00:11:26,460 --> 00:11:27,830
 I must apologize.
 
-215
+212
 00:11:28,250 --> 00:11:31,710
 I seem to have finished up already.
 
-216
+213
 00:11:32,340 --> 00:11:35,930
 It took me an entire day and night.
 
-217
+214
 00:11:45,100 --> 00:11:47,480
 Kill me already!
 
-218
+215
 00:11:47,480 --> 00:11:49,860
 I know what the future holds anyway.
 
-219
+216
 00:11:50,860 --> 00:11:52,820
 I've got nothing to live for!
 
-220
+217
 00:11:53,820 --> 00:11:58,030
 This is the infamous Ashura Doji?!
 
-221
+218
 00:11:58,570 --> 00:12:00,700
 Hey, you guys!
 
-222
+219
 00:12:01,030 --> 00:12:04,290
 Do you still love me?
 
-223
+220
 00:12:08,080 --> 00:12:11,790
 Lend me your wisdom and strength!
 
-224
+221
 00:12:12,590 --> 00:12:16,920
 I have decided that the worthless scum here...
 
-225
+222
 00:12:17,420 --> 00:12:20,050
 need me as their king!
 
-226
+223
 00:12:24,140 --> 00:12:26,930
 Flower
 
 Capital
 
-227
+224
 00:12:32,690 --> 00:12:35,360
 My lord, Shogun! Lord Oden is at it again!
 
-228
+225
 00:12:35,780 --> 00:12:38,900
 What? What did he do this time?!
 
-229
+226
 00:12:39,820 --> 00:12:40,820
 Look at this!
 
-230
+227
 00:12:46,000 --> 00:12:47,790
 That lawless Kuri...
 
-231
+228
 00:12:49,040 --> 00:12:52,130
 Only he could do this...
 
-232
+229
 00:12:52,130 --> 00:12:54,920
 Is this all true?
 
-233
+230
 00:12:57,670 --> 00:13:02,890
 Leading the roughnecks
 of the bloody and hellish land of Kuri,
 
-234
+231
 00:13:02,890 --> 00:13:10,850
 Oden utilized their abundant energy
 to turn the wild land into a habitable place.
 
-235
+232
 00:13:17,940 --> 00:13:23,200
 After hearing of this accomplishment,
 Shogun Kozuki Sukiyaki revoked his disownment
 
-236
+233
 00:13:23,200 --> 00:13:27,370
 and bestowed upon his son
 the title of daimyo of Kuri.
 
-237
+234
 00:13:25,450 --> 00:13:25,490
 Reformation 
 of
  Kuri
 
-238
+235
 00:13:25,490 --> 00:13:25,530
 Reformation 
 of
  Kuri
 
-239
+236
 00:13:25,530 --> 00:13:25,570
 Reformation 
 of
  Kuri
 
-240
+237
 00:13:25,570 --> 00:13:25,610
 Reformation 
 of
  Kuri
 
-241
+238
 00:13:25,610 --> 00:13:25,650
 Reformation 
 of
  Kuri
 
-242
+239
 00:13:25,650 --> 00:13:25,700
 Reformation 
 of
  Kuri
 
-243
+240
 00:13:25,700 --> 00:13:25,740
 Reformation 
 of
  Kuri
 
-244
+241
 00:13:25,740 --> 00:13:25,780
 Reformation 
 of
  Kuri
 
-245
+242
 00:13:25,780 --> 00:13:25,820
 Reformation 
 of
  Kuri
 
-246
+243
 00:13:25,820 --> 00:13:25,860
 Reformation 
 of
  Kuri
 
-247
+244
 00:13:25,860 --> 00:13:25,900
 Reformation 
 of
  Kuri
 
-248
+245
 00:13:25,900 --> 00:13:25,950
 Reformation 
 of
  Kuri
 
-249
+246
 00:13:25,950 --> 00:13:25,990
 Reformation 
 of
  Kuri
 
-250
+247
 00:13:25,990 --> 00:13:26,030
 Reformation 
 of
  Kuri
 
-251
+248
 00:13:26,030 --> 00:13:26,070
 Reformation 
 of
  Kuri
 
-252
+249
 00:13:26,070 --> 00:13:26,110
 Reformation 
 of
  Kuri
 
-253
+250
 00:13:26,110 --> 00:13:26,160
 Reformation 
 of
  Kuri
 
-254
+251
 00:13:26,160 --> 00:13:26,200
 Reformation 
 of
  Kuri
 
-255
+252
 00:13:26,200 --> 00:13:26,240
 Reformation 
 of
  Kuri
 
-256
+253
 00:13:26,240 --> 00:13:26,280
 Reformation 
 of
  Kuri
 
-257
+254
 00:13:26,280 --> 00:13:26,320
 Reformation 
 of
  Kuri
 
-258
+255
 00:13:26,320 --> 00:13:26,360
 Reformation 
 of
  Kuri
 
-259
+256
 00:13:26,360 --> 00:13:26,410
 Reformation 
 of
  Kuri
 
-260
+257
 00:13:26,410 --> 00:13:26,450
 Reformation 
 of
  Kuri
 
-261
+258
 00:13:26,450 --> 00:13:26,490
 Reformation 
 of
  Kuri
 
-262
+259
 00:13:26,490 --> 00:13:26,530
 Reformation 
 of
  Kuri
 
-263
+260
 00:13:26,530 --> 00:13:26,570
 Reformation 
 of
  Kuri
 
-264
+261
 00:13:26,570 --> 00:13:26,610
 Reformation 
 of
  Kuri
 
-265
+262
 00:13:26,610 --> 00:13:26,660
 Reformation 
 of
  Kuri
 
-266
+263
 00:13:26,660 --> 00:13:26,700
 Reformation 
 of
  Kuri
 
-267
+264
 00:13:26,700 --> 00:13:26,740
 Reformation 
 of
  Kuri
 
-268
+265
 00:13:26,740 --> 00:13:26,780
 Reformation 
 of
  Kuri
 
-269
+266
 00:13:26,780 --> 00:13:26,820
 Reformation 
 of
  Kuri
 
-270
+267
 00:13:26,820 --> 00:13:26,860
 Reformation 
 of
  Kuri
 
-271
+268
 00:13:26,860 --> 00:13:26,910
 Reformation 
 of
  Kuri
 
-272
+269
 00:13:26,910 --> 00:13:26,950
 Reformation 
 of
  Kuri
 
-273
+270
 00:13:26,950 --> 00:13:26,990
 Reformation 
 of
  Kuri
 
-274
+271
 00:13:26,990 --> 00:13:27,030
 Reformation 
 of
  Kuri
 
-275
+272
 00:13:27,030 --> 00:13:27,070
 Reformation 
 of
  Kuri
 
-276
+273
 00:13:27,070 --> 00:13:27,110
 Reformation 
 of
  Kuri
 
-277
+274
 00:13:27,110 --> 00:13:27,160
 Reformation 
 of
  Kuri
 
-278
+275
 00:13:27,160 --> 00:13:27,200
 Reformation 
 of
  Kuri
 
-279
+276
 00:13:27,200 --> 00:13:27,240
 Reformation 
 of
  Kuri
 
-280
+277
 00:13:27,240 --> 00:13:27,280
 Reformation 
 of
  Kuri
 
-281
+278
 00:13:27,280 --> 00:13:27,320
 Reformation 
 of
  Kuri
 
-282
+279
 00:13:27,320 --> 00:13:27,360
 Reformation 
 of
  Kuri
 
-283
+280
 00:13:27,360 --> 00:13:27,410
 Reformation 
 of
  Kuri
 
-284
+281
 00:13:27,370 --> 00:13:31,120
 Our great Lord Oden will become
 the daimyo of Kuri!
 
-285
+282
 00:13:27,410 --> 00:13:27,450
 Reformation 
 of
  Kuri
 
-286
+283
 00:13:27,450 --> 00:13:27,490
 Reformation 
 of
  Kuri
 
-287
+284
 00:13:27,490 --> 00:13:27,530
 Reformation 
 of
  Kuri
 
-288
+285
 00:13:27,530 --> 00:13:27,570
 Reformation 
 of
  Kuri
 
-289
+286
 00:13:27,570 --> 00:13:27,610
 Reformation 
 of
  Kuri
 
-290
+287
 00:13:27,610 --> 00:13:27,660
 Reformation 
 of
  Kuri
 
-291
+288
 00:13:27,660 --> 00:13:27,700
 Reformation 
 of
  Kuri
 
-292
+289
 00:13:27,700 --> 00:13:27,740
 Reformation 
 of
  Kuri
 
-293
+290
 00:13:27,740 --> 00:13:27,780
 Reformation 
 of
  Kuri
 
-294
+291
 00:13:27,780 --> 00:13:27,820
 Reformation 
 of
  Kuri
 
-295
+292
 00:13:27,820 --> 00:13:27,870
 Reformation 
 of
  Kuri
 
-296
+293
 00:13:27,870 --> 00:13:27,910
 Reformation 
 of
  Kuri
 
-297
+294
 00:13:27,910 --> 00:13:27,950
 Reformation 
 of
  Kuri
 
-298
+295
 00:13:27,950 --> 00:13:27,990
 Reformation 
 of
  Kuri
 
-299
+296
 00:13:27,990 --> 00:13:28,030
 Reformation 
 of
  Kuri
 
-300
+297
 00:13:28,030 --> 00:13:28,070
 Reformation 
 of
  Kuri
 
-301
+298
 00:13:28,070 --> 00:13:28,120
 Reformation 
 of
  Kuri
 
-302
+299
 00:13:28,120 --> 00:13:28,160
 Reformation 
 of
  Kuri
 
-303
+300
 00:13:28,160 --> 00:13:28,200
 Reformation 
 of
  Kuri
 
-304
+301
 00:13:28,200 --> 00:13:28,240
 Reformation 
 of
  Kuri
 
-305
+302
 00:13:28,240 --> 00:13:28,280
 Reformation 
 of
  Kuri
 
-306
+303
 00:13:28,280 --> 00:13:28,320
 Reformation 
 of
  Kuri
 
-307
+304
 00:13:28,320 --> 00:13:28,370
 Reformation 
 of
  Kuri
 
-308
+305
 00:13:28,370 --> 00:13:28,410
 Reformation 
 of
  Kuri
 
-309
+306
 00:13:28,410 --> 00:13:28,450
 Reformation 
 of
  Kuri
 
-310
+307
 00:13:28,450 --> 00:13:28,490
 Reformation 
 of
  Kuri
 
-311
+308
 00:13:28,490 --> 00:13:28,530
 Reformation 
 of
  Kuri
 
-312
+309
 00:13:28,530 --> 00:13:28,570
 Reformation 
 of
  Kuri
 
-313
+310
 00:13:28,570 --> 00:13:28,620
 Reformation 
 of
  Kuri
 
-314
+311
 00:13:28,620 --> 00:13:28,660
 Reformation 
 of
  Kuri
 
-315
+312
 00:13:28,660 --> 00:13:28,700
 Reformation 
 of
  Kuri
 
-316
+313
 00:13:28,700 --> 00:13:28,740
 Reformation 
 of
  Kuri
 
-317
+314
 00:13:28,740 --> 00:13:28,780
 Reformation 
 of
  Kuri
 
-318
+315
 00:13:28,780 --> 00:13:28,820
 Reformation 
 of
  Kuri
 
-319
+316
 00:13:28,820 --> 00:13:28,870
 Reformation 
 of
  Kuri
 
-320
+317
 00:13:28,870 --> 00:13:28,910
 Reformation 
 of
  Kuri
 
-321
+318
 00:13:28,910 --> 00:13:28,950
 Reformation 
 of
  Kuri
 
-322
+319
 00:13:28,950 --> 00:13:28,990
 Reformation 
 of
  Kuri
 
-323
+320
 00:13:28,990 --> 00:13:29,030
 Reformation 
 of
  Kuri
 
-324
+321
 00:13:29,030 --> 00:13:29,070
 Reformation 
 of
  Kuri
 
-325
+322
 00:13:29,070 --> 00:13:29,120
 Reformation 
 of
  Kuri
 
-326
+323
 00:13:29,120 --> 00:13:29,160
 Reformation 
 of
  Kuri
 
-327
+324
 00:13:29,160 --> 00:13:29,200
 Reformation 
 of
  Kuri
 
-328
+325
 00:13:29,200 --> 00:13:29,240
 Reformation 
 of
  Kuri
 
-329
+326
 00:13:29,240 --> 00:13:29,280
 Reformation 
 of
  Kuri
 
-330
+327
 00:13:29,280 --> 00:13:29,330
 Reformation 
 of
  Kuri
 
-331
+328
 00:13:29,330 --> 00:13:29,370
 Reformation 
 of
  Kuri
 
-332
+329
 00:13:29,370 --> 00:13:29,410
 Reformation 
 of
  Kuri
 
-333
+330
 00:13:29,410 --> 00:13:29,450
 Reformation 
 of
  Kuri
 
-334
+331
 00:13:29,450 --> 00:13:29,490
 Reformation 
 of
  Kuri
 
-335
+332
 00:13:29,490 --> 00:13:29,530
 Reformation 
 of
  Kuri
 
-336
+333
 00:13:29,530 --> 00:13:29,580
 Reformation 
 of
  Kuri
 
-337
+334
 00:13:29,580 --> 00:13:29,620
 Reformation 
 of
  Kuri
 
-338
+335
 00:13:29,620 --> 00:13:29,660
 Reformation 
 of
  Kuri
 
-339
+336
 00:13:29,660 --> 00:13:29,700
 Reformation 
 of
  Kuri
 
-340
+337
 00:13:29,700 --> 00:13:29,740
 Reformation 
 of
  Kuri
 
-341
+338
 00:13:29,740 --> 00:13:29,780
 Reformation 
 of
  Kuri
 
-342
+339
 00:13:29,780 --> 00:13:29,830
 Reformation 
 of
  Kuri
 
-343
+340
 00:13:29,830 --> 00:13:29,870
 Reformation 
 of
  Kuri
 
-344
+341
 00:13:29,870 --> 00:13:29,910
 Reformation 
 of
  Kuri
 
-345
+342
 00:13:29,910 --> 00:13:29,950
 Reformation 
 of
  Kuri
 
-346
+343
 00:13:29,950 --> 00:13:29,990
 Reformation 
 of
  Kuri
 
-347
+344
 00:13:29,990 --> 00:13:30,030
 Reformation 
 of
  Kuri
 
-348
+345
 00:13:30,030 --> 00:13:30,080
 Reformation 
 of
  Kuri
 
-349
+346
 00:13:30,080 --> 00:13:30,120
 Reformation 
 of
  Kuri
 
-350
+347
 00:13:30,120 --> 00:13:30,160
 Reformation 
 of
  Kuri
 
-351
+348
 00:13:30,160 --> 00:13:30,200
 Reformation 
 of
  Kuri
 
-352
+349
 00:13:30,200 --> 00:13:30,240
 Reformation 
 of
  Kuri
 
-353
+350
 00:13:30,240 --> 00:13:30,280
 Reformation 
 of
  Kuri
 
-354
+351
 00:13:30,280 --> 00:13:30,330
 Reformation 
 of
  Kuri
 
-355
+352
 00:13:30,330 --> 00:13:30,370
 Reformation 
 of
  Kuri
 
-356
+353
 00:13:30,370 --> 00:13:30,410
 Reformation 
 of
  Kuri
 
-357
+354
 00:13:30,410 --> 00:13:30,450
 Reformation 
 of
  Kuri
 
-358
+355
 00:13:30,450 --> 00:13:30,490
 Reformation 
 of
  Kuri
 
-359
+356
 00:13:30,490 --> 00:13:30,530
 Reformation 
 of
  Kuri
 
-360
+357
 00:13:30,530 --> 00:13:30,580
 Reformation 
 of
  Kuri
 
-361
+358
 00:13:30,580 --> 00:13:30,620
 Reformation 
 of
  Kuri
 
-362
+359
 00:13:30,620 --> 00:13:30,660
 Reformation 
 of
  Kuri
 
-363
+360
 00:13:30,660 --> 00:13:30,700
 Reformation 
 of
  Kuri
 
-364
+361
 00:13:30,700 --> 00:13:30,740
 Reformation 
 of
  Kuri
 
-365
+362
 00:13:30,740 --> 00:13:30,780
 Reformation 
 of
  Kuri
 
-366
+363
 00:13:30,780 --> 00:13:30,830
 Reformation 
 of
  Kuri
 
-367
+364
 00:13:30,830 --> 00:13:30,870
 Reformation 
 of
  Kuri
 
-368
+365
 00:13:30,870 --> 00:13:30,910
 Reformation 
 of
  Kuri
 
-369
+366
 00:13:30,910 --> 00:13:30,950
 Reformation 
 of
  Kuri
 
-370
+367
 00:13:30,950 --> 00:13:30,990
 Reformation 
 of
  Kuri
 
-371
+368
 00:13:30,990 --> 00:13:31,040
 Reformation 
 of
  Kuri
 
-372
+369
 00:13:31,040 --> 00:13:31,080
 Reformation 
 of
  Kuri
 
-373
+370
 00:13:31,080 --> 00:13:31,120
 Reformation 
 of
  Kuri
 
-374
+371
 00:13:31,120 --> 00:13:32,500
 Hooray!
 
-375
+372
 00:13:31,120 --> 00:13:31,160
 Reformation 
 of
  Kuri
 
-376
+373
 00:13:31,160 --> 00:13:31,200
 Reformation 
 of
  Kuri
 
-377
+374
 00:13:31,200 --> 00:13:31,240
 Reformation 
 of
  Kuri
 
-378
+375
 00:13:31,240 --> 00:13:31,290
 Reformation 
 of
  Kuri
 
-379
+376
 00:13:31,290 --> 00:13:31,330
 Reformation 
 of
  Kuri
 
-380
+377
 00:13:31,330 --> 00:13:31,370
 Reformation 
 of
  Kuri
 
-381
+378
 00:13:31,370 --> 00:13:31,410
 Reformation 
 of
  Kuri
 
-382
+379
 00:13:31,410 --> 00:13:31,450
 Reformation 
 of
  Kuri
 
-383
+380
 00:13:31,450 --> 00:13:31,490
 Reformation 
 of
  Kuri
 
-384
+381
 00:13:31,490 --> 00:13:31,540
 Reformation 
 of
  Kuri
 
-385
+382
 00:13:31,540 --> 00:13:31,580
 Reformation 
 of
  Kuri
 
-386
+383
 00:13:31,580 --> 00:13:31,620
 Reformation 
 of
  Kuri
 
-387
+384
 00:13:31,620 --> 00:13:31,660
 Reformation 
 of
  Kuri
 
-388
+385
 00:13:31,660 --> 00:13:31,700
 Reformation 
 of
  Kuri
 
-389
+386
 00:13:31,700 --> 00:13:31,740
 Reformation 
 of
  Kuri
 
-390
+387
 00:13:31,740 --> 00:13:31,790
 Reformation 
 of
  Kuri
 
-391
+388
 00:13:31,790 --> 00:13:31,830
 Reformation 
 of
  Kuri
 
-392
+389
 00:13:31,830 --> 00:13:31,870
 Reformation 
 of
  Kuri
 
-393
+390
 00:13:31,870 --> 00:13:31,910
 Reformation 
 of
  Kuri
 
-394
+391
 00:13:31,910 --> 00:13:31,950
 Reformation 
 of
  Kuri
 
-395
+392
 00:13:31,950 --> 00:13:31,990
 Reformation 
 of
  Kuri
 
-396
+393
 00:13:31,990 --> 00:13:32,040
 Reformation 
 of
  Kuri
 
-397
+394
 00:13:32,040 --> 00:13:32,080
 Reformation 
 of
  Kuri
 
-398
+395
 00:13:32,080 --> 00:13:32,120
 Reformation 
 of
  Kuri
 
-399
+396
 00:13:32,120 --> 00:13:32,160
 Reformation 
 of
  Kuri
 
-400
+397
 00:13:32,160 --> 00:13:32,200
 Reformation 
 of
  Kuri
 
-401
+398
 00:13:32,200 --> 00:13:32,240
 Reformation 
 of
  Kuri
 
-402
+399
 00:13:32,240 --> 00:13:32,290
 Reformation 
 of
  Kuri
 
-403
+400
 00:13:32,290 --> 00:13:32,330
 Reformation 
 of
  Kuri
 
-404
+401
 00:13:32,330 --> 00:13:32,370
 Reformation 
 of
  Kuri
 
-405
+402
 00:13:32,370 --> 00:13:32,410
 Reformation 
 of
  Kuri
 
-406
+403
 00:13:32,410 --> 00:13:32,450
 Reformation 
 of
  Kuri
 
-407
+404
 00:13:32,450 --> 00:13:32,490
 Reformation 
 of
  Kuri
 
-408
+405
 00:13:32,490 --> 00:13:32,540
 Reformation 
 of
  Kuri
 
-409
+406
 00:13:32,500 --> 00:13:34,750
 Then it'll become a full-fledged province!
 
-410
+407
 00:13:32,540 --> 00:13:32,580
 Reformation 
 of
  Kuri
 
-411
+408
 00:13:32,580 --> 00:13:32,620
 Reformation 
 of
  Kuri
 
-412
+409
 00:13:32,620 --> 00:13:32,660
 Reformation 
 of
  Kuri
 
-413
+410
 00:13:32,660 --> 00:13:32,700
 Reformation 
 of
  Kuri
 
-414
+411
 00:13:32,700 --> 00:13:32,750
 Reformation 
 of
  Kuri
 
-415
+412
 00:13:32,750 --> 00:13:32,790
 Reformation 
 of
  Kuri
 
-416
+413
 00:13:32,790 --> 00:13:32,830
 Reformation 
 of
  Kuri
 
-417
+414
 00:13:32,830 --> 00:13:32,870
 Reformation 
 of
  Kuri
 
-418
+415
 00:13:32,870 --> 00:13:32,910
 Reformation 
 of
  Kuri
 
-419
+416
 00:13:32,910 --> 00:13:32,950
 Reformation 
 of
  Kuri
 
-420
+417
 00:13:32,950 --> 00:13:33,000
 Reformation 
 of
  Kuri
 
-421
+418
 00:13:33,000 --> 00:13:33,040
 Reformation 
 of
  Kuri
 
-422
+419
 00:13:33,040 --> 00:13:33,080
 Reformation 
 of
  Kuri
 
-423
+420
 00:13:33,080 --> 00:13:33,120
 Reformation 
 of
  Kuri
 
-424
+421
 00:13:33,120 --> 00:13:33,160
 Reformation 
 of
  Kuri
 
-425
+422
 00:13:33,160 --> 00:13:33,200
 Reformation 
 of
  Kuri
 
-426
+423
 00:13:33,200 --> 00:13:33,250
 Reformation 
 of
  Kuri
 
-427
+424
 00:13:33,250 --> 00:13:33,290
 Reformation 
 of
  Kuri
 
-428
+425
 00:13:33,290 --> 00:13:33,330
 Reformation 
 of
  Kuri
 
-429
+426
 00:13:33,330 --> 00:13:33,370
 Reformation 
 of
  Kuri
 
-430
+427
 00:13:33,370 --> 00:13:33,410
 Reformation 
 of
  Kuri
 
-431
+428
 00:13:33,410 --> 00:13:33,450
 Reformation 
 of
  Kuri
 
-432
+429
 00:13:33,450 --> 00:13:33,500
 Reformation 
 of
  Kuri
 
-433
+430
 00:13:33,500 --> 00:13:33,540
 Reformation 
 of
  Kuri
 
-434
+431
 00:13:33,540 --> 00:13:33,580
 Reformation 
 of
  Kuri
 
-435
+432
 00:13:33,580 --> 00:13:33,620
 Reformation 
 of
  Kuri
 
-436
+433
 00:13:33,620 --> 00:13:33,660
 Reformation 
 of
  Kuri
 
-437
+434
 00:13:33,660 --> 00:13:33,700
 Reformation 
 of
  Kuri
 
-438
+435
 00:13:33,700 --> 00:13:33,750
 Reformation 
 of
  Kuri
 
-439
+436
 00:13:33,750 --> 00:13:33,790
 Reformation 
 of
  Kuri
 
-440
+437
 00:13:33,790 --> 00:13:33,830
 Reformation 
 of
  Kuri
 
-441
+438
 00:13:33,830 --> 00:13:33,870
 Reformation 
 of
  Kuri
 
-442
+439
 00:13:33,870 --> 00:13:33,910
 Reformation 
 of
  Kuri
 
-443
+440
 00:13:33,910 --> 00:13:33,950
 Reformation 
 of
  Kuri
 
-444
+441
 00:13:33,950 --> 00:13:34,000
 Reformation 
 of
  Kuri
 
-445
+442
 00:13:34,000 --> 00:13:34,040
 Reformation 
 of
  Kuri
 
-446
+443
 00:13:34,040 --> 00:13:34,080
 Reformation 
 of
  Kuri
 
-447
+444
 00:13:34,080 --> 00:13:34,120
 Reformation 
 of
  Kuri
 
-448
+445
 00:13:34,120 --> 00:13:34,160
 Reformation 
 of
  Kuri
 
-449
+446
 00:13:34,160 --> 00:13:34,200
 Reformation 
 of
  Kuri
 
-450
+447
 00:13:34,200 --> 00:13:34,250
 Reformation 
 of
  Kuri
 
-451
+448
 00:13:34,250 --> 00:13:34,290
 Reformation 
 of
  Kuri
 
-452
+449
 00:13:34,290 --> 00:13:34,330
 Reformation 
 of
  Kuri
 
-453
+450
 00:13:34,330 --> 00:13:34,370
 Reformation 
 of
  Kuri
 
-454
+451
 00:13:34,370 --> 00:13:34,410
 Reformation 
 of
  Kuri
 
-455
+452
 00:13:34,410 --> 00:13:34,460
 Reformation 
 of
  Kuri
 
-456
+453
 00:13:34,460 --> 00:13:34,500
 Reformation 
 of
  Kuri
 
-457
+454
 00:13:34,500 --> 00:13:34,540
 Reformation 
 of
  Kuri
 
-458
+455
 00:13:34,540 --> 00:13:34,580
 Reformation 
 of
  Kuri
 
-459
+456
 00:13:34,580 --> 00:13:34,620
 Reformation 
 of
  Kuri
 
-460
+457
 00:13:34,620 --> 00:13:34,660
 Reformation 
 of
  Kuri
 
-461
+458
 00:13:34,660 --> 00:13:34,710
 Reformation 
 of
  Kuri
 
-462
+459
 00:13:34,710 --> 00:13:34,750
 Reformation 
 of
  Kuri
 
-463
+460
 00:13:34,750 --> 00:13:38,260
 I can't believe it! But we
 stuck it out to the end!
 
-464
+461
 00:13:34,750 --> 00:13:34,790
 Reformation 
 of
  Kuri
 
-465
+462
 00:13:34,790 --> 00:13:34,830
 Reformation 
 of
  Kuri
 
-466
+463
 00:13:34,830 --> 00:13:34,870
 Reformation 
 of
  Kuri
 
-467
+464
 00:13:34,870 --> 00:13:34,910
 Reformation 
 of
  Kuri
 
-468
+465
 00:13:34,910 --> 00:13:34,960
 Reformation 
 of
  Kuri
 
-469
+466
 00:13:34,960 --> 00:13:35,000
 Reformation 
 of
  Kuri
 
-470
+467
 00:13:35,000 --> 00:13:35,040
 Reformation 
 of
  Kuri
 
-471
+468
 00:13:35,040 --> 00:13:35,080
 Reformation 
 of
  Kuri
 
-472
+469
 00:13:35,080 --> 00:13:35,120
 Reformation 
 of
  Kuri
 
-473
+470
 00:13:35,120 --> 00:13:35,160
 Reformation 
 of
  Kuri
 
-474
+471
 00:13:35,160 --> 00:13:35,210
 Reformation 
 of
  Kuri
 
-475
+472
 00:13:35,210 --> 00:13:35,250
 Reformation 
 of
  Kuri
 
-476
+473
 00:13:35,250 --> 00:13:35,290
 Reformation 
 of
  Kuri
 
-477
+474
 00:13:35,290 --> 00:13:35,330
 Reformation 
 of
  Kuri
 
-478
+475
 00:13:35,330 --> 00:13:35,370
 Reformation 
 of
  Kuri
 
-479
+476
 00:13:35,370 --> 00:13:35,410
 Reformation 
 of
  Kuri
 
-480
+477
 00:13:35,410 --> 00:13:35,460
 Reformation 
 of
  Kuri
 
-481
+478
 00:13:35,460 --> 00:13:35,500
 Reformation 
 of
  Kuri
 
-482
+479
 00:13:35,500 --> 00:13:35,540
 Reformation 
 of
  Kuri
 
-483
+480
 00:13:35,540 --> 00:13:35,580
 Reformation 
 of
  Kuri
 
-484
+481
 00:13:35,580 --> 00:13:35,620
 Reformation 
 of
  Kuri
 
-485
+482
 00:13:35,620 --> 00:13:35,660
 Reformation 
 of
  Kuri
 
-486
+483
 00:13:35,660 --> 00:13:35,710
 Reformation 
 of
  Kuri
 
-487
+484
 00:13:35,710 --> 00:13:35,750
 Reformation 
 of
  Kuri
 
-488
+485
 00:13:35,750 --> 00:13:35,790
 Reformation 
 of
  Kuri
 
-489
+486
 00:13:35,790 --> 00:13:35,830
 Reformation 
 of
  Kuri
 
-490
+487
 00:13:35,830 --> 00:13:35,870
 Reformation 
 of
  Kuri
 
-491
+488
 00:13:35,870 --> 00:13:35,910
 Reformation 
 of
  Kuri
 
-492
+489
 00:13:35,910 --> 00:13:35,960
 Reformation 
 of
  Kuri
 
-493
+490
 00:13:35,960 --> 00:13:36,000
 Reformation 
 of
  Kuri
 
-494
+491
 00:13:36,000 --> 00:13:36,040
 Reformation 
 of
  Kuri
 
-495
+492
 00:13:36,040 --> 00:13:36,080
 Reformation 
 of
  Kuri
 
-496
+493
 00:13:36,080 --> 00:13:36,120
 Reformation 
 of
  Kuri
 
-497
+494
 00:13:36,120 --> 00:13:36,170
 Reformation 
 of
  Kuri
 
-498
+495
 00:13:36,170 --> 00:13:36,210
 Reformation 
 of
  Kuri
 
-499
+496
 00:13:36,210 --> 00:13:36,250
 Reformation 
 of
  Kuri
 
-500
+497
 00:13:36,250 --> 00:13:36,290
 Reformation 
 of
  Kuri
 
-501
+498
 00:13:36,290 --> 00:13:36,330
 Reformation 
 of
  Kuri
 
-502
+499
 00:13:36,330 --> 00:13:36,370
 Reformation 
 of
  Kuri
 
-503
+500
 00:13:36,370 --> 00:13:36,420
 Reformation 
 of
  Kuri
 
-504
+501
 00:13:36,420 --> 00:13:36,460
 Reformation 
 of
  Kuri
 
-505
+502
 00:13:36,460 --> 00:13:36,500
 Reformation 
 of
  Kuri
 
-506
+503
 00:13:36,500 --> 00:13:36,540
 Reformation 
 of
  Kuri
 
-507
+504
 00:13:36,540 --> 00:13:36,580
 Reformation 
 of
  Kuri
 
-508
+505
 00:13:36,580 --> 00:13:36,620
 Reformation 
 of
  Kuri
 
-509
+506
 00:13:36,620 --> 00:13:36,670
 Reformation 
 of
  Kuri
 
-510
+507
 00:13:36,670 --> 00:13:36,710
 Reformation 
 of
  Kuri
 
-511
+508
 00:13:36,710 --> 00:13:36,750
 Reformation 
 of
  Kuri
 
-512
+509
 00:13:36,750 --> 00:13:36,790
 Reformation 
 of
  Kuri
 
-513
+510
 00:13:36,790 --> 00:13:36,830
 Reformation 
 of
  Kuri
 
-514
+511
 00:13:36,830 --> 00:13:36,870
 Reformation 
 of
  Kuri
 
-515
+512
 00:13:36,870 --> 00:13:36,920
 Reformation 
 of
  Kuri
 
-516
+513
 00:13:36,920 --> 00:13:36,960
 Reformation 
 of
  Kuri
 
-517
+514
 00:13:36,960 --> 00:13:37,000
 Reformation 
 of
  Kuri
 
-518
+515
 00:13:37,000 --> 00:13:37,040
 Reformation 
 of
  Kuri
 
-519
+516
 00:13:37,040 --> 00:13:37,080
 Reformation 
 of
  Kuri
 
-520
+517
 00:13:37,080 --> 00:13:37,120
 Reformation 
 of
  Kuri
 
-521
+518
 00:13:37,120 --> 00:13:37,170
 Reformation 
 of
  Kuri
 
-522
+519
 00:13:37,170 --> 00:13:37,210
 Reformation 
 of
  Kuri
 
-523
+520
 00:13:37,210 --> 00:13:37,250
 Reformation 
 of
  Kuri
 
-524
+521
 00:13:37,250 --> 00:13:37,290
 Reformation 
 of
  Kuri
 
-525
+522
 00:13:37,290 --> 00:13:37,330
 Reformation 
 of
  Kuri
 
-526
+523
 00:13:37,330 --> 00:13:37,370
 Reformation 
 of
  Kuri
 
-527
+524
 00:13:37,370 --> 00:13:37,420
 Reformation 
 of
  Kuri
 
-528
+525
 00:13:37,420 --> 00:13:37,460
 Reformation 
 of
  Kuri
 
-529
+526
 00:13:37,460 --> 00:13:37,500
 Reformation 
 of
  Kuri
 
-530
+527
 00:13:37,500 --> 00:13:37,540
 Reformation 
 of
  Kuri
 
-531
+528
 00:13:37,540 --> 00:13:37,580
 Reformation 
 of
  Kuri
 
-532
+529
 00:13:37,580 --> 00:13:37,620
 Reformation 
 of
  Kuri
 
-533
+530
 00:13:37,620 --> 00:13:37,670
 Reformation 
 of
  Kuri
 
-534
+531
 00:13:37,670 --> 00:13:37,710
 Reformation 
 of
  Kuri
 
-535
+532
 00:13:37,710 --> 00:13:37,750
 Reformation 
 of
  Kuri
 
-536
+533
 00:13:37,750 --> 00:13:37,790
 Reformation 
 of
  Kuri
 
-537
+534
 00:13:37,790 --> 00:13:37,830
 Reformation 
 of
  Kuri
 
-538
+535
 00:13:37,830 --> 00:13:37,880
 Reformation 
 of
  Kuri
 
-539
+536
 00:13:37,880 --> 00:13:37,920
 Reformation 
 of
  Kuri
 
-540
+537
 00:13:37,920 --> 00:13:37,960
 Reformation 
 of
  Kuri
 
-541
+538
 00:13:37,960 --> 00:13:38,000
 Reformation 
 of
  Kuri
 
-542
+539
 00:13:38,000 --> 00:13:38,040
 Reformation 
 of
  Kuri
 
-543
+540
 00:13:38,040 --> 00:13:38,080
 Reformation 
 of
  Kuri
 
-544
+541
 00:13:38,080 --> 00:13:38,130
 Reformation 
 of
  Kuri
 
-545
+542
 00:13:38,130 --> 00:13:38,170
 Reformation 
 of
  Kuri
 
-546
+543
 00:13:38,170 --> 00:13:38,210
 Reformation 
 of
  Kuri
 
-547
+544
 00:13:38,210 --> 00:13:38,250
 Reformation 
 of
  Kuri
 
-548
+545
 00:13:38,250 --> 00:13:38,290
 Reformation 
 of
  Kuri
 
-549
+546
 00:13:38,290 --> 00:13:38,330
 Reformation 
 of
  Kuri
 
-550
+547
 00:13:38,330 --> 00:13:38,380
 Reformation 
 of
  Kuri
 
-551
+548
 00:13:38,380 --> 00:13:38,420
 Reformation 
 of
  Kuri
 
-552
+549
 00:13:38,420 --> 00:13:38,460
 Reformation 
 of
  Kuri
 
-553
+550
 00:13:38,460 --> 00:13:38,500
 Reformation 
 of
  Kuri
 
-554
+551
 00:13:38,500 --> 00:13:38,540
 Reformation 
 of
  Kuri
 
-555
+552
 00:13:38,540 --> 00:13:38,580
 Reformation 
 of
  Kuri
 
-556
+553
 00:13:38,580 --> 00:13:38,630
 Reformation 
 of
  Kuri
 
-557
+554
 00:13:38,630 --> 00:13:38,670
 Reformation 
 of
  Kuri
 
-558
+555
 00:13:38,670 --> 00:13:38,710
 Reformation 
 of
  Kuri
 
-559
+556
 00:13:38,710 --> 00:13:38,750
 Reformation 
 of
  Kuri
 
-560
+557
 00:13:38,750 --> 00:13:38,790
 Reformation 
 of
  Kuri
 
-561
+558
 00:13:38,790 --> 00:13:38,830
 Reformation 
 of
  Kuri
 
-562
+559
 00:13:38,830 --> 00:13:38,880
 Reformation 
 of
  Kuri
 
-563
+560
 00:13:38,880 --> 00:13:38,920
 Reformation 
 of
  Kuri
 
-564
+561
 00:13:38,920 --> 00:13:38,960
 Reformation 
 of
  Kuri
 
-565
+562
 00:13:38,960 --> 00:13:39,000
 Reformation 
 of
  Kuri
 
-566
+563
 00:13:39,000 --> 00:13:39,040
 Reformation 
 of
  Kuri
 
-567
+564
 00:13:39,040 --> 00:13:39,080
 Reformation 
 of
  Kuri
 
-568
+565
 00:13:39,080 --> 00:13:39,130
 Reformation 
 of
  Kuri
 
-569
+566
 00:13:39,130 --> 00:13:39,170
 Reformation 
 of
  Kuri
 
-570
+567
 00:13:39,170 --> 00:13:39,210
 Reformation 
 of
  Kuri
 
-571
+568
 00:13:39,210 --> 00:13:39,250
 Reformation 
 of
  Kuri
 
-572
+569
 00:13:39,250 --> 00:13:39,290
 Reformation 
 of
  Kuri
 
-573
+570
 00:13:39,290 --> 00:13:39,340
 Reformation 
 of
  Kuri
 
-574
+571
 00:13:39,340 --> 00:13:39,380
 Reformation 
 of
  Kuri
 
-575
+572
 00:13:39,380 --> 00:13:39,420
 Reformation 
 of
  Kuri
 
-576
+573
 00:13:39,420 --> 00:13:39,460
 Reformation 
 of
  Kuri
 
-577
+574
 00:13:39,460 --> 00:13:39,500
 Reformation 
 of
  Kuri
 
-578
+575
 00:13:39,500 --> 00:13:39,540
 Reformation 
 of
  Kuri
 
-579
+576
 00:13:39,540 --> 00:13:39,590
 Reformation 
 of
  Kuri
 
-580
+577
 00:13:39,590 --> 00:13:39,630
 Reformation 
 of
  Kuri
 
-581
+578
 00:13:39,630 --> 00:13:39,670
 Reformation 
 of
  Kuri
 
-582
+579
 00:13:39,670 --> 00:13:39,710
 Reformation 
 of
  Kuri
 
-583
+580
 00:13:39,710 --> 00:13:39,750
 Reformation 
 of
  Kuri
 
-584
+581
 00:13:39,750 --> 00:13:39,790
 Reformation 
 of
  Kuri
 
-585
+582
 00:13:39,790 --> 00:13:39,840
 Reformation 
 of
  Kuri
 
-586
+583
 00:13:39,840 --> 00:13:39,880
 Reformation 
 of
  Kuri
 
-587
+584
 00:13:39,880 --> 00:13:39,920
 Reformation 
 of
  Kuri
 
-588
+585
 00:13:39,920 --> 00:13:39,960
 Reformation 
 of
  Kuri
 
-589
+586
 00:13:39,960 --> 00:13:40,000
 Reformation 
 of
  Kuri
 
-590
+587
 00:13:40,000 --> 00:13:40,040
 Reformation 
 of
  Kuri
 
-591
+588
 00:13:40,040 --> 00:13:40,090
 Reformation 
 of
  Kuri
 
-592
+589
 00:13:40,090 --> 00:13:40,130
 Reformation 
 of
  Kuri
 
-593
+590
 00:13:40,130 --> 00:13:40,170
 Reformation 
 of
  Kuri
 
-594
+591
 00:13:40,170 --> 00:13:40,210
 Reformation 
 of
  Kuri
 
-595
+592
 00:13:40,210 --> 00:13:40,250
 Reformation 
 of
  Kuri
 
-596
+593
 00:13:40,250 --> 00:13:40,290
 Reformation 
 of
  Kuri
 
-597
+594
 00:13:40,290 --> 00:13:40,340
 Reformation 
 of
  Kuri
 
-598
+595
 00:13:40,340 --> 00:13:40,380
 Reformation 
 of
  Kuri
 
-599
+596
 00:13:40,380 --> 00:13:40,420
 Reformation 
 of
  Kuri
 
-600
+597
 00:13:40,420 --> 00:13:40,460
 Reformation 
 of
  Kuri
 
-601
+598
 00:13:40,460 --> 00:13:40,500
 Reformation 
 of
  Kuri
 
-602
+599
 00:13:40,500 --> 00:13:40,540
 Reformation 
 of
  Kuri
 
-603
+600
 00:13:40,540 --> 00:13:40,590
 Reformation 
 of
  Kuri
 
-604
+601
 00:13:40,590 --> 00:13:40,630
 Reformation 
 of
  Kuri
 
-605
+602
 00:13:40,630 --> 00:13:40,670
 Reformation 
 of
  Kuri
 
-606
+603
 00:13:40,670 --> 00:13:41,590
 Reformation 
 of
  Kuri
 
-607
+604
 00:13:42,300 --> 00:13:43,970
 Kin...
 
-608
+605
 00:13:47,260 --> 00:13:49,850
 You did it! Our beloved Oden did it!
 
-609
+606
 00:13:49,850 --> 00:13:50,810
 Hooray!
 
-610
+607
 00:13:50,810 --> 00:13:52,440
 You're amazing, Oden!
 
-611
+608
 00:13:52,440 --> 00:13:54,150
 You're finally Kuri's–
 
-612
+609
 00:13:54,150 --> 00:13:55,270
 Oden!
 
-613
+610
 00:13:59,820 --> 00:14:00,990
 Absolutely!
 
-614
+611
 00:14:03,990 --> 00:14:06,830
 Daimyo!
 
-615
+612
 00:14:11,250 --> 00:14:12,750
 – Lord Oden!
 – Lord Oden!
 
-616
+613
 00:14:19,210 --> 00:14:20,710
 What is the matter, Ashura?
 
-617
+614
 00:14:22,090 --> 00:14:23,470
 I...
 
-618
+615
 00:14:23,880 --> 00:14:27,720
 have never seen peace before.
 
-619
+616
 00:14:30,060 --> 00:14:32,310
 Thank you, Oden!
 
-620
+617
 00:14:32,770 --> 00:14:35,400
 Stop it! You are creeping me out!
 
-621
+618
 00:14:39,230 --> 00:14:41,490
 You bastard!
 
-622
+619
 00:14:42,900 --> 00:14:44,530
 What're you doing?! Stop it!
 
-623
+620
 00:14:44,530 --> 00:14:46,240
 Hey!
 
-624
+621
 00:14:46,240 --> 00:14:48,200
 I said "Stop it"!
 
-625
+622
 00:14:46,620 --> 00:14:48,200
 Screw you!
 
-626
+623
 00:14:49,080 --> 00:14:50,580
 Knock it off already!
 
-627
+624
 00:14:50,580 --> 00:14:53,500
 Now, a daimyo requires retainers.
 
-628
+625
 00:14:55,000 --> 00:14:58,790
 Instead of surrounding myself
 with the usual wise and sober men...
 
-629
+626
 00:15:00,800 --> 00:15:03,050
 I would rather have you all.
 
-630
+627
 00:15:12,850 --> 00:15:15,940
 Be my samurai!
 
-631
+628
 00:15:35,370 --> 00:15:37,710
 – Lord Oden!
 – Lord Oden!
 
-632
+629
 00:15:38,250 --> 00:15:39,380
 S-S-Stop it!
 
-633
+630
 00:15:39,380 --> 00:15:42,750
 Your snot! Your snot!
 It is dripping! Oh, it is on me!
 
-634
+631
 00:15:42,750 --> 00:15:44,720
 Stop it!
 
-635
+632
 00:15:45,720 --> 00:15:52,510
 Six years after that moment in time...
 yet thirty-three years before the present day...
 
-636
+633
 00:15:52,510 --> 00:15:58,350
 across the world, disbanded members
 of the legendary Rocks Pirates
 
-637
+634
 00:15:58,350 --> 00:16:04,230
 each formed a new crew, extended
 their influence, and became infamous.
 
-638
+635
 00:16:04,940 --> 00:16:11,030
 Kuri
 Beach
@@ -3409,165 +3400,165 @@ Beach
 
 Wano
 
-639
+636
 00:16:11,030 --> 00:16:13,790
 What are they? Animals?
 
-640
+637
 00:16:14,240 --> 00:16:16,710
 Hairy humans?
 
-641
+638
 00:16:19,170 --> 00:16:21,250
 Deformed monsters?
 
-642
+639
 00:16:28,220 --> 00:16:29,470
 Did you get it?
 
-643
+640
 00:16:29,470 --> 00:16:30,300
 Yeah...
 
-644
+641
 00:16:36,850 --> 00:16:40,770
 In the distant past, many centuries ago,
 
-645
+642
 00:16:41,100 --> 00:16:45,730
 we minks and the samurai
 of Wano's Kozuki Clan
 
-646
+643
 00:16:46,490 --> 00:16:49,780
 made a pledge to become sworn brothers.
 
-647
+644
 00:16:50,360 --> 00:16:54,240
 Damn! Wano is the worst!
 
-648
+645
 00:16:54,240 --> 00:16:56,620
 Dammit! Let me down!
 
-649
+646
 00:16:58,080 --> 00:16:59,670
 I'm a kappa!
 
-650
+647
 00:16:59,670 --> 00:17:01,120
 Which makes you a monster!
 
-651
+648
 00:17:01,120 --> 00:17:03,750
 I wish we'd never set sail!
 
-652
+649
 00:17:03,750 --> 00:17:05,710
 I wish we hadn't come here!
 
-653
+650
 00:17:05,710 --> 00:17:09,010
 This isn't how you treat brothers!
 
-654
+651
 00:17:09,380 --> 00:17:12,260
 A cat monster, dog monster, and a kappa...
 
-655
+652
 00:17:12,260 --> 00:17:14,640
 Is this beach cursed?
 
-656
+653
 00:17:14,640 --> 00:17:15,970
 Let's burn them alive!
 
-657
+654
 00:17:19,480 --> 00:17:20,270
 Don't do it!
 
-658
+655
 00:17:25,150 --> 00:17:27,820
 That is plenty of ingredients for today's oden...
 
-659
+656
 00:17:35,580 --> 00:17:37,870
 You wretches!
 
-660
+657
 00:17:46,800 --> 00:17:49,840
 You should all be ashamed!
 
-661
+658
 00:17:48,760 --> 00:17:48,880
 Beef 
 Tendon
 
-662
+659
 00:17:48,880 --> 00:17:49,010
 Beef 
 Tendon
 
-663
+660
 00:17:49,010 --> 00:17:49,840
 Beef 
 Tendon
 
-664
+661
 00:17:49,840 --> 00:17:53,260
 You fear what is different out of ignorance!
 
-665
+662
 00:17:49,840 --> 00:17:56,220
 Beef 
 Tendon
 
-666
+663
 00:17:53,260 --> 00:17:56,220
 It is pathetic to torment such little creatures!
 
-667
+664
 00:17:56,810 --> 00:17:58,140
 Thank you...
 
-668
+665
 00:18:00,180 --> 00:18:01,480
 Farewell.
 
-669
+666
 00:18:01,480 --> 00:18:03,480
 – Don't leave us like this!
 – Don't leave us like this!
 
-670
+667
 00:18:10,990 --> 00:18:12,990
 So, who are the monsters?
 
-671
+668
 00:18:12,990 --> 00:18:14,200
 They followed me.
 
-672
+669
 00:18:16,580 --> 00:18:19,200
 Inuarashi
 
 
 Mink
 
-673
+670
 00:18:16,870 --> 00:18:19,120
 Thank you for saving us!
 
-674
+671
 00:18:21,250 --> 00:18:22,500
 It's hot!
 
-675
+672
 00:18:22,500 --> 00:18:26,880
 Between starvation, a shipwreck,
 and a violent mob, we almost died!
 
-676
+673
 00:18:22,540 --> 00:18:26,080
 Neko-
 mamushi
@@ -3575,484 +3566,484 @@ mamushi
 
 Mink
 
-677
+674
 00:18:27,880 --> 00:18:28,750
 Ouch!
 
-678
+675
 00:18:28,750 --> 00:18:31,010
 Hey! This is too hot to eat!
 
-679
+676
 00:18:31,010 --> 00:18:32,420
 Whoa...
 
-680
+677
 00:18:32,420 --> 00:18:35,720
 I still can't get used to seeing animals talking.
 
-681
+678
 00:18:38,600 --> 00:18:39,890
 The minks!
 
-682
+679
 00:18:39,890 --> 00:18:42,020
 My father once told me about them.
 
-683
+680
 00:18:42,020 --> 00:18:43,190
 I thought so!
 
-684
+681
 00:18:43,190 --> 00:18:45,810
 We have that symbol in our country, too!
 
-685
+682
 00:18:45,810 --> 00:18:48,570
 You-gara and our people are brothers!
 
-686
+683
 00:18:48,570 --> 00:18:50,190
 And you saved our lives!
 
-687
+684
 00:18:50,190 --> 00:18:51,780
 We were starving...
 
-688
+685
 00:18:51,780 --> 00:18:52,650
 I see...
 
-689
+686
 00:18:52,650 --> 00:18:54,400
 Eat as much as you want.
 
-690
+687
 00:18:54,400 --> 00:18:56,320
 Here's to our savior.
 
-691
+688
 00:18:56,320 --> 00:18:57,120
 Ouch!
 
-692
+689
 00:18:57,120 --> 00:18:58,490
 Don't be shy.
 
-693
+690
 00:18:58,490 --> 00:18:59,790
 You'll like the radish.
 
-694
+691
 00:18:59,790 --> 00:19:01,830
 I won't forget this favor.
 
-695
+692
 00:19:01,830 --> 00:19:02,330
 Hot!
 
-696
+693
 00:19:02,330 --> 00:19:04,000
 Try the hanpen.
 
-697
+694
 00:19:04,670 --> 00:19:05,250
 Ouch!
 
-698
+695
 00:19:05,250 --> 00:19:05,960
 The konnyaku–
 
-699
+696
 00:19:05,960 --> 00:19:08,460
 No! It's too hot to eat!
 
-700
+697
 00:19:12,800 --> 00:19:16,010
 My tongue is sensitive like a cat's!
 
-701
+698
 00:19:16,010 --> 00:19:18,140
 Bad cat!
 
-702
+699
 00:19:18,550 --> 00:19:20,100
 Hey! Wait, Cat!
 
-703
+700
 00:19:22,720 --> 00:19:24,230
 Hey, Cat!
 
-704
+701
 00:19:24,230 --> 00:19:26,600
 Oden was meant...
 
-705
+702
 00:19:27,730 --> 00:19:30,190
 to boil!
 
-706
+703
 00:19:32,780 --> 00:19:34,360
 – That's kinda cool!
 – That's kinda cool!
 
-707
+704
 00:19:36,280 --> 00:19:37,450
 Tastes good to me.
 
-708
+705
 00:19:38,240 --> 00:19:39,620
 And what are you?!
 
-709
+706
 00:19:39,620 --> 00:19:43,080
 The ship my mother and I were on sank, and...
 
-710
+707
 00:19:44,000 --> 00:19:46,620
 we were cast ashore in this country.
 
-711
+708
 00:19:46,620 --> 00:19:49,920
 We asked for help, but people threw
 rocks at us for being fishmen.
 
-712
+709
 00:19:50,340 --> 00:19:54,800
 My mother got hurt, so we couldn't
 go back to where we came from.
 
-713
+710
 00:19:54,800 --> 00:19:57,180
 Before my mother died, she told me,
 
-714
+711
 00:19:57,180 --> 00:19:59,430
 "Fishmen suffer discrimination...
 
-715
+712
 00:19:59,430 --> 00:20:02,310
 so claim that you're a kappa."
 
-716
+713
 00:20:07,190 --> 00:20:09,440
 I'm Kawamatsu the Kappa.
 
-717
+714
 00:20:09,060 --> 00:20:09,100
 Kawamatsu
 
 "the Kappa"
 
-718
+715
 00:20:09,100 --> 00:20:12,020
 Kawamatsu
 
 "the Kappa"
 
-719
+716
 00:20:09,440 --> 00:20:11,440
 I've been living off leftovers.
 
-720
+717
 00:20:12,520 --> 00:20:17,150
 Thank you for saving me
 and treating me to such a delicious meal.
 
-721
+718
 00:20:17,700 --> 00:20:19,660
 I'll never forget this.
 
-722
+719
 00:20:19,990 --> 00:20:22,450
 May I eat the rest?
 
-723
+720
 00:20:22,450 --> 00:20:25,450
 Nonesense. We'll cook more,
 so just wait a bit.
 
-724
+721
 00:20:25,450 --> 00:20:28,620
 No, that's not necessary. It's still edible.
 
-725
+722
 00:20:29,960 --> 00:20:31,000
 Oh no...
 
-726
+723
 00:20:31,000 --> 00:20:33,380
 I failed to express proper gratitude.
 
-727
+724
 00:20:33,380 --> 00:20:35,880
 I wasted food.
 
-728
+725
 00:20:35,880 --> 00:20:37,590
 You've grown up.
 
-729
+726
 00:20:39,970 --> 00:20:41,720
 I'm meowwy sorry, Kappa!
 
-730
+727
 00:20:41,720 --> 00:20:43,600
 I'll eat it, too!
 
-731
+728
 00:20:45,100 --> 00:20:47,350
 It's still too hot!
 
-732
+729
 00:20:49,640 --> 00:20:51,400
 What an amusing cat!
 
-733
+730
 00:20:52,770 --> 00:20:55,860
 Cat!
 
-734
+731
 00:20:56,940 --> 00:21:01,200
 There must still be creatures
 out there I've never seen before.
 
-735
+732
 00:21:01,200 --> 00:21:06,040
 Meeting you all has reinvigorated
 my desire to one day set sail!
 
-736
+733
 00:21:06,040 --> 00:21:06,950
 Sounds great!
 
-737
+734
 00:21:06,950 --> 00:21:08,660
 The world's a big place!
 
-738
+735
 00:21:08,660 --> 00:21:10,460
 Well then, take care!
 
-739
+736
 00:21:13,670 --> 00:21:15,090
 Let us stay here!
 
-740
+737
 00:21:15,090 --> 00:21:16,670
 Were you listening to us?!
 
-741
+738
 00:21:16,670 --> 00:21:19,050
 We have no place to go!
 
-742
+739
 00:21:19,050 --> 00:21:22,140
 All right! All right!
 
-743
+740
 00:21:22,140 --> 00:21:22,180
 All right! All right!
 
-744
+741
 00:21:22,180 --> 00:21:22,220
 All right! All right!
 
-745
+742
 00:21:22,220 --> 00:21:22,260
 All right! All right!
 
-746
+743
 00:21:22,260 --> 00:21:22,300
 All right! All right!
 
-747
+744
 00:21:22,300 --> 00:21:22,340
 All right! All right!
 
-748
+745
 00:21:22,340 --> 00:21:22,390
 All right! All right!
 
-749
+746
 00:21:22,390 --> 00:21:22,430
 All right! All right!
 
-750
+747
 00:21:22,430 --> 00:21:22,470
 All right! All right!
 
-751
+748
 00:21:22,470 --> 00:21:22,510
 All right! All right!
 
-752
+749
 00:21:22,510 --> 00:21:22,550
 All right! All right!
 
-753
+750
 00:21:22,550 --> 00:21:22,590
 All right! All right!
 
-754
+751
 00:21:22,590 --> 00:21:22,640
 All right! All right!
 
-755
+752
 00:21:22,640 --> 00:21:22,680
 All right! All right!
 
-756
+753
 00:21:23,350 --> 00:21:25,140
 Yay!
 
-757
+754
 00:21:26,010 --> 00:21:27,270
 We got more people...
 
-758
+755
 00:21:27,270 --> 00:21:30,310
 I guess you just can't reject anyone.
 
-759
+756
 00:21:31,480 --> 00:21:34,560
 That's fine and all, but we're in a bind here.
 
-760
+757
 00:21:34,560 --> 00:21:37,570
 You lent money to Orochi
 without asking me again!
 
-761
+758
 00:21:37,570 --> 00:21:39,440
 Why would you help that creep?!
 
-762
+759
 00:21:39,440 --> 00:21:40,320
 You see...
 
-763
+760
 00:21:40,320 --> 00:21:45,080
 He may be independent now, but with
 his ties to Yasuie, I cannot abandon him.
 
-764
+761
 00:21:49,910 --> 00:21:53,170
 Silent steps. Stealthy steps. Ninja steps.
 
-765
+762
 00:21:53,170 --> 00:21:55,590
 Understood? These are the fundamentals.
 
-766
+763
 00:21:55,590 --> 00:21:56,750
 – Okay!
 – Okay!
 
-767
+764
 00:21:56,750 --> 00:21:57,750
 Let's go!
 
-768
+765
 00:21:57,750 --> 00:21:59,630
 Don't be afraid of Yasuie!
 
-769
+766
 00:21:59,630 --> 00:22:02,970
 Silent steps. Stealthy steps. Ninja steps.
 
-770
+767
 00:21:59,630 --> 00:22:07,010
 Hakumai
 
-771
+768
 00:22:02,970 --> 00:22:05,930
 – Silent steps. Stealthy steps. Ninja steps.
 – Silent steps. Stealthy steps. Ninja steps.
 
-772
+769
 00:22:11,140 --> 00:22:14,020
 Why would you want to 
 steal this much money?
 
-773
+770
 00:22:14,020 --> 00:22:16,440
 Lord Oden was broke!
 
-774
+771
 00:22:16,440 --> 00:22:19,730
 If you're gonna kill us,
 just do it already, you hedgehog!
 
-775
+772
 00:22:19,730 --> 00:22:22,900
 If it'll help Lord Oden...
 
-776
+773
 00:22:22,900 --> 00:22:26,160
 I'm happy to die!
 
-777
+774
 00:22:27,580 --> 00:22:31,750
 Damn you, Oden. You certainly
 know how to pick them.
 
-778
+775
 00:22:33,870 --> 00:22:36,380
 I am giving you the money
 you tried to steal.
 
-779
+776
 00:22:37,790 --> 00:22:38,550
 – What?!
 – What?!
 
-780
+777
 00:22:38,550 --> 00:22:42,220
 Lord Yasuie! These are Hakumai's funds!
 
-781
+778
 00:22:42,220 --> 00:22:43,510
 And...?
 
-782
+779
 00:22:47,550 --> 00:22:50,470
 You can have this too. It is yours!
 
-783
+780
 00:22:50,470 --> 00:22:52,180
 Even more money?!
 
-784
+781
 00:22:52,180 --> 00:22:54,730
 You gotta be kidding me! Is this a trap?!
 
-785
+782
 00:22:55,980 --> 00:22:57,440
 Do you love Oden?
 
-786
+783
 00:22:59,650 --> 00:23:08,870
 Then take this money, make yourselves presentable,
 learn some manners, buy some books, and study!
 
-787
+784
 00:23:10,290 --> 00:23:12,040
 These don't suit us!
 
-788
+785
 00:23:19,420 --> 00:23:20,460
 I am...
 
-789
+786
 00:23:20,460 --> 00:23:22,340
 No! Speak from your stomach!
 
-790
+787
 00:23:22,340 --> 00:23:23,510
 I am...!
 
-791
+788
 00:23:31,380 --> 00:23:31,430
 mDtq08'ZH
 kicV5673M
@@ -4060,33 +4051,24 @@ B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-792
-00:23:31,380 --> 00:23:31,430
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-793
-00:23:31,380 --> 00:23:31,430
 - Religion
 - History
 - Economics
-
-794
-00:23:31,380 --> 00:23:31,430
 - Samurai
 - Etiquette
 
-795
+789
 00:23:31,390 --> 00:23:36,230
 Having a bunch of lowlife retainers
 like you would only disgrace Oden!
 
-796
+790
 00:23:31,430 --> 00:23:31,470
 mDtq08'ZH
 kicV5673M
@@ -4094,2008 +4076,1396 @@ B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-797
-00:23:31,430 --> 00:23:31,470
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-798
-00:23:31,430 --> 00:23:31,470
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+791
+00:23:31,470 --> 00:23:31,510
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+792
+00:23:31,510 --> 00:23:31,550
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+793
+00:23:31,550 --> 00:23:31,590
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+794
+00:23:31,590 --> 00:23:31,640
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+795
+00:23:31,640 --> 00:23:31,680
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+796
+00:23:31,680 --> 00:23:31,720
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+797
+00:23:31,720 --> 00:23:31,760
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+798
+00:23:31,760 --> 00:23:31,800
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 799
-00:23:31,430 --> 00:23:31,470
+00:23:31,800 --> 00:23:31,840
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 800
-00:23:31,470 --> 00:23:31,510
+00:23:31,840 --> 00:23:31,890
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-801
-00:23:31,470 --> 00:23:31,510
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-802
-00:23:31,470 --> 00:23:31,510
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+801
+00:23:31,890 --> 00:23:31,930
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+802
+00:23:31,930 --> 00:23:31,970
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 803
-00:23:31,470 --> 00:23:31,510
+00:23:31,970 --> 00:23:32,010
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 804
-00:23:31,510 --> 00:23:31,550
+00:23:32,010 --> 00:23:32,050
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-805
-00:23:31,510 --> 00:23:31,550
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-806
-00:23:31,510 --> 00:23:31,550
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+805
+00:23:32,050 --> 00:23:32,090
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+806
+00:23:32,090 --> 00:23:32,140
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 807
-00:23:31,510 --> 00:23:31,550
+00:23:32,140 --> 00:23:32,180
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 808
-00:23:31,550 --> 00:23:31,590
+00:23:32,180 --> 00:23:32,220
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-809
-00:23:31,550 --> 00:23:31,590
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-810
-00:23:31,550 --> 00:23:31,590
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+809
+00:23:32,220 --> 00:23:32,260
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+810
+00:23:32,260 --> 00:23:32,300
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 811
-00:23:31,550 --> 00:23:31,590
+00:23:32,300 --> 00:23:32,340
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 812
-00:23:31,590 --> 00:23:31,640
+00:23:32,340 --> 00:23:32,390
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-813
-00:23:31,590 --> 00:23:31,640
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-814
-00:23:31,590 --> 00:23:31,640
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+813
+00:23:32,390 --> 00:23:32,430
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+814
+00:23:32,430 --> 00:23:32,470
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 815
-00:23:31,590 --> 00:23:31,640
+00:23:32,470 --> 00:23:32,510
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 816
-00:23:31,640 --> 00:23:31,680
+00:23:32,510 --> 00:23:32,550
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-817
-00:23:31,640 --> 00:23:31,680
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-818
-00:23:31,640 --> 00:23:31,680
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+817
+00:23:32,550 --> 00:23:32,590
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+818
+00:23:32,590 --> 00:23:32,640
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 819
-00:23:31,640 --> 00:23:31,680
+00:23:32,640 --> 00:23:32,680
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 820
-00:23:31,680 --> 00:23:31,720
+00:23:32,680 --> 00:23:32,720
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-821
-00:23:31,680 --> 00:23:31,720
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-822
-00:23:31,680 --> 00:23:31,720
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+821
+00:23:32,720 --> 00:23:32,760
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+822
+00:23:32,760 --> 00:23:32,800
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 823
-00:23:31,680 --> 00:23:31,720
+00:23:32,800 --> 00:23:32,840
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 824
-00:23:31,720 --> 00:23:31,760
+00:23:32,840 --> 00:23:32,890
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-825
-00:23:31,720 --> 00:23:31,760
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-826
-00:23:31,720 --> 00:23:31,760
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+825
+00:23:32,890 --> 00:23:32,930
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+826
+00:23:32,930 --> 00:23:32,970
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 827
-00:23:31,720 --> 00:23:31,760
+00:23:32,970 --> 00:23:33,010
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 828
-00:23:31,760 --> 00:23:31,800
+00:23:33,010 --> 00:23:33,050
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-829
-00:23:31,760 --> 00:23:31,800
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-830
-00:23:31,760 --> 00:23:31,800
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+829
+00:23:33,050 --> 00:23:33,090
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+830
+00:23:33,090 --> 00:23:33,140
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 831
-00:23:31,760 --> 00:23:31,800
+00:23:33,140 --> 00:23:33,180
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 832
-00:23:31,800 --> 00:23:31,840
+00:23:33,180 --> 00:23:33,220
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-833
-00:23:31,800 --> 00:23:31,840
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-834
-00:23:31,800 --> 00:23:31,840
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+833
+00:23:33,220 --> 00:23:33,260
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+834
+00:23:33,260 --> 00:23:33,300
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 835
-00:23:31,800 --> 00:23:31,840
+00:23:33,300 --> 00:23:33,350
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 836
-00:23:31,840 --> 00:23:31,890
+00:23:33,350 --> 00:23:33,390
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-837
-00:23:31,840 --> 00:23:31,890
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-838
-00:23:31,840 --> 00:23:31,890
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+837
+00:23:33,390 --> 00:23:33,430
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+838
+00:23:33,430 --> 00:23:33,470
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 839
-00:23:31,840 --> 00:23:31,890
+00:23:33,470 --> 00:23:33,510
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 840
-00:23:31,890 --> 00:23:31,930
+00:23:33,510 --> 00:23:33,550
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-841
-00:23:31,890 --> 00:23:31,930
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-842
-00:23:31,890 --> 00:23:31,930
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+841
+00:23:33,550 --> 00:23:33,600
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+842
+00:23:33,600 --> 00:23:33,640
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 843
-00:23:31,890 --> 00:23:31,930
+00:23:33,640 --> 00:23:33,680
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 844
-00:23:31,930 --> 00:23:31,970
+00:23:33,680 --> 00:23:33,720
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-845
-00:23:31,930 --> 00:23:31,970
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-846
-00:23:31,930 --> 00:23:31,970
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+845
+00:23:33,720 --> 00:23:33,760
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+846
+00:23:33,760 --> 00:23:33,800
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 847
-00:23:31,930 --> 00:23:31,970
+00:23:33,800 --> 00:23:33,850
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 848
-00:23:31,970 --> 00:23:32,010
+00:23:33,850 --> 00:23:33,890
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-849
-00:23:31,970 --> 00:23:32,010
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-850
-00:23:31,970 --> 00:23:32,010
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+849
+00:23:33,890 --> 00:23:33,930
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+850
+00:23:33,930 --> 00:23:33,970
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 851
-00:23:31,970 --> 00:23:32,010
+00:23:33,970 --> 00:23:34,010
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 852
-00:23:32,010 --> 00:23:32,050
+00:23:34,010 --> 00:23:34,050
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
-
-853
-00:23:32,010 --> 00:23:32,050
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
-
-854
-00:23:32,010 --> 00:23:32,050
 - Religion
 - History
 - Economics
+- Samurai
+- Etiquette
+
+853
+00:23:34,050 --> 00:23:34,100
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
+
+854
+00:23:34,100 --> 00:23:34,140
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 855
-00:23:32,010 --> 00:23:32,050
+00:23:34,140 --> 00:23:34,180
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
 - Samurai
 - Etiquette
 
 856
-00:23:32,050 --> 00:23:32,090
+00:23:34,180 --> 00:23:34,220
 mDtq08'ZH
 kicV5673M
 B!R0OkG2k
 RV;l1es4X
 7qE,wk"3u
 Jo1bbGZ.W
+Suw.r.:qz
+R8'j202em
+kxx02jUvX
+IOJxR:Kcu
+UET.RSAtC
+jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 857
-00:23:32,050 --> 00:23:32,090
+00:23:34,220 --> 00:23:34,260
+mDtq08'ZH
+kicV5673M
+B!R0OkG2k
+RV;l1es4X
+7qE,wk"3u
+Jo1bbGZ.W
 Suw.r.:qz
 R8'j202em
 kxx02jUvX
 IOJxR:Kcu
 UET.RSAtC
 jqBdNsERE
+- Religion
+- History
+- Economics
+- Samurai
+- Etiquette
 
 858
-00:23:32,050 --> 00:23:32,090
-- Religion
-- History
-- Economics
-
-859
-00:23:32,050 --> 00:23:32,090
-- Samurai
-- Etiquette
-
-860
-00:23:32,090 --> 00:23:32,140
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-861
-00:23:32,090 --> 00:23:32,140
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-862
-00:23:32,090 --> 00:23:32,140
-- Religion
-- History
-- Economics
-
-863
-00:23:32,090 --> 00:23:32,140
-- Samurai
-- Etiquette
-
-864
-00:23:32,140 --> 00:23:32,180
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-865
-00:23:32,140 --> 00:23:32,180
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-866
-00:23:32,140 --> 00:23:32,180
-- Religion
-- History
-- Economics
-
-867
-00:23:32,140 --> 00:23:32,180
-- Samurai
-- Etiquette
-
-868
-00:23:32,180 --> 00:23:32,220
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-869
-00:23:32,180 --> 00:23:32,220
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-870
-00:23:32,180 --> 00:23:32,220
-- Religion
-- History
-- Economics
-
-871
-00:23:32,180 --> 00:23:32,220
-- Samurai
-- Etiquette
-
-872
-00:23:32,220 --> 00:23:32,260
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-873
-00:23:32,220 --> 00:23:32,260
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-874
-00:23:32,220 --> 00:23:32,260
-- Religion
-- History
-- Economics
-
-875
-00:23:32,220 --> 00:23:32,260
-- Samurai
-- Etiquette
-
-876
-00:23:32,260 --> 00:23:32,300
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-877
-00:23:32,260 --> 00:23:32,300
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-878
-00:23:32,260 --> 00:23:32,300
-- Religion
-- History
-- Economics
-
-879
-00:23:32,260 --> 00:23:32,300
-- Samurai
-- Etiquette
-
-880
-00:23:32,300 --> 00:23:32,340
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-881
-00:23:32,300 --> 00:23:32,340
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-882
-00:23:32,300 --> 00:23:32,340
-- Religion
-- History
-- Economics
-
-883
-00:23:32,300 --> 00:23:32,340
-- Samurai
-- Etiquette
-
-884
-00:23:32,340 --> 00:23:32,390
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-885
-00:23:32,340 --> 00:23:32,390
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-886
-00:23:32,340 --> 00:23:32,390
-- Religion
-- History
-- Economics
-
-887
-00:23:32,340 --> 00:23:32,390
-- Samurai
-- Etiquette
-
-888
-00:23:32,390 --> 00:23:32,430
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-889
-00:23:32,390 --> 00:23:32,430
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-890
-00:23:32,390 --> 00:23:32,430
-- Religion
-- History
-- Economics
-
-891
-00:23:32,390 --> 00:23:32,430
-- Samurai
-- Etiquette
-
-892
-00:23:32,430 --> 00:23:32,470
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-893
-00:23:32,430 --> 00:23:32,470
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-894
-00:23:32,430 --> 00:23:32,470
-- Religion
-- History
-- Economics
-
-895
-00:23:32,430 --> 00:23:32,470
-- Samurai
-- Etiquette
-
-896
-00:23:32,470 --> 00:23:32,510
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-897
-00:23:32,470 --> 00:23:32,510
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-898
-00:23:32,470 --> 00:23:32,510
-- Religion
-- History
-- Economics
-
-899
-00:23:32,470 --> 00:23:32,510
-- Samurai
-- Etiquette
-
-900
-00:23:32,510 --> 00:23:32,550
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-901
-00:23:32,510 --> 00:23:32,550
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-902
-00:23:32,510 --> 00:23:32,550
-- Religion
-- History
-- Economics
-
-903
-00:23:32,510 --> 00:23:32,550
-- Samurai
-- Etiquette
-
-904
-00:23:32,550 --> 00:23:32,590
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-905
-00:23:32,550 --> 00:23:32,590
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-906
-00:23:32,550 --> 00:23:32,590
-- Religion
-- History
-- Economics
-
-907
-00:23:32,550 --> 00:23:32,590
-- Samurai
-- Etiquette
-
-908
-00:23:32,590 --> 00:23:32,640
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-909
-00:23:32,590 --> 00:23:32,640
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-910
-00:23:32,590 --> 00:23:32,640
-- Religion
-- History
-- Economics
-
-911
-00:23:32,590 --> 00:23:32,640
-- Samurai
-- Etiquette
-
-912
-00:23:32,640 --> 00:23:32,680
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-913
-00:23:32,640 --> 00:23:32,680
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-914
-00:23:32,640 --> 00:23:32,680
-- Religion
-- History
-- Economics
-
-915
-00:23:32,640 --> 00:23:32,680
-- Samurai
-- Etiquette
-
-916
-00:23:32,680 --> 00:23:32,720
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-917
-00:23:32,680 --> 00:23:32,720
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-918
-00:23:32,680 --> 00:23:32,720
-- Religion
-- History
-- Economics
-
-919
-00:23:32,680 --> 00:23:32,720
-- Samurai
-- Etiquette
-
-920
-00:23:32,720 --> 00:23:32,760
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-921
-00:23:32,720 --> 00:23:32,760
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-922
-00:23:32,720 --> 00:23:32,760
-- Religion
-- History
-- Economics
-
-923
-00:23:32,720 --> 00:23:32,760
-- Samurai
-- Etiquette
-
-924
-00:23:32,760 --> 00:23:32,800
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-925
-00:23:32,760 --> 00:23:32,800
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-926
-00:23:32,760 --> 00:23:32,800
-- Religion
-- History
-- Economics
-
-927
-00:23:32,760 --> 00:23:32,800
-- Samurai
-- Etiquette
-
-928
-00:23:32,800 --> 00:23:32,840
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-929
-00:23:32,800 --> 00:23:32,840
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-930
-00:23:32,800 --> 00:23:32,840
-- Religion
-- History
-- Economics
-
-931
-00:23:32,800 --> 00:23:32,840
-- Samurai
-- Etiquette
-
-932
-00:23:32,840 --> 00:23:32,890
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-933
-00:23:32,840 --> 00:23:32,890
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-934
-00:23:32,840 --> 00:23:32,890
-- Religion
-- History
-- Economics
-
-935
-00:23:32,840 --> 00:23:32,890
-- Samurai
-- Etiquette
-
-936
-00:23:32,890 --> 00:23:32,930
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-937
-00:23:32,890 --> 00:23:32,930
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-938
-00:23:32,890 --> 00:23:32,930
-- Religion
-- History
-- Economics
-
-939
-00:23:32,890 --> 00:23:32,930
-- Samurai
-- Etiquette
-
-940
-00:23:32,930 --> 00:23:32,970
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-941
-00:23:32,930 --> 00:23:32,970
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-942
-00:23:32,930 --> 00:23:32,970
-- Religion
-- History
-- Economics
-
-943
-00:23:32,930 --> 00:23:32,970
-- Samurai
-- Etiquette
-
-944
-00:23:32,970 --> 00:23:33,010
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-945
-00:23:32,970 --> 00:23:33,010
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-946
-00:23:32,970 --> 00:23:33,010
-- Religion
-- History
-- Economics
-
-947
-00:23:32,970 --> 00:23:33,010
-- Samurai
-- Etiquette
-
-948
-00:23:33,010 --> 00:23:33,050
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-949
-00:23:33,010 --> 00:23:33,050
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-950
-00:23:33,010 --> 00:23:33,050
-- Religion
-- History
-- Economics
-
-951
-00:23:33,010 --> 00:23:33,050
-- Samurai
-- Etiquette
-
-952
-00:23:33,050 --> 00:23:33,090
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-953
-00:23:33,050 --> 00:23:33,090
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-954
-00:23:33,050 --> 00:23:33,090
-- Religion
-- History
-- Economics
-
-955
-00:23:33,050 --> 00:23:33,090
-- Samurai
-- Etiquette
-
-956
-00:23:33,090 --> 00:23:33,140
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-957
-00:23:33,090 --> 00:23:33,140
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-958
-00:23:33,090 --> 00:23:33,140
-- Religion
-- History
-- Economics
-
-959
-00:23:33,090 --> 00:23:33,140
-- Samurai
-- Etiquette
-
-960
-00:23:33,140 --> 00:23:33,180
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-961
-00:23:33,140 --> 00:23:33,180
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-962
-00:23:33,140 --> 00:23:33,180
-- Religion
-- History
-- Economics
-
-963
-00:23:33,140 --> 00:23:33,180
-- Samurai
-- Etiquette
-
-964
-00:23:33,180 --> 00:23:33,220
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-965
-00:23:33,180 --> 00:23:33,220
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-966
-00:23:33,180 --> 00:23:33,220
-- Religion
-- History
-- Economics
-
-967
-00:23:33,180 --> 00:23:33,220
-- Samurai
-- Etiquette
-
-968
-00:23:33,220 --> 00:23:33,260
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-969
-00:23:33,220 --> 00:23:33,260
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-970
-00:23:33,220 --> 00:23:33,260
-- Religion
-- History
-- Economics
-
-971
-00:23:33,220 --> 00:23:33,260
-- Samurai
-- Etiquette
-
-972
-00:23:33,260 --> 00:23:33,300
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-973
-00:23:33,260 --> 00:23:33,300
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-974
-00:23:33,260 --> 00:23:33,300
-- Religion
-- History
-- Economics
-
-975
-00:23:33,260 --> 00:23:33,300
-- Samurai
-- Etiquette
-
-976
-00:23:33,300 --> 00:23:33,350
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-977
-00:23:33,300 --> 00:23:33,350
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-978
-00:23:33,300 --> 00:23:33,350
-- Religion
-- History
-- Economics
-
-979
-00:23:33,300 --> 00:23:33,350
-- Samurai
-- Etiquette
-
-980
-00:23:33,350 --> 00:23:33,390
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-981
-00:23:33,350 --> 00:23:33,390
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-982
-00:23:33,350 --> 00:23:33,390
-- Religion
-- History
-- Economics
-
-983
-00:23:33,350 --> 00:23:33,390
-- Samurai
-- Etiquette
-
-984
-00:23:33,390 --> 00:23:33,430
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-985
-00:23:33,390 --> 00:23:33,430
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-986
-00:23:33,390 --> 00:23:33,430
-- Religion
-- History
-- Economics
-
-987
-00:23:33,390 --> 00:23:33,430
-- Samurai
-- Etiquette
-
-988
-00:23:33,430 --> 00:23:33,470
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-989
-00:23:33,430 --> 00:23:33,470
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-990
-00:23:33,430 --> 00:23:33,470
-- Religion
-- History
-- Economics
-
-991
-00:23:33,430 --> 00:23:33,470
-- Samurai
-- Etiquette
-
-992
-00:23:33,470 --> 00:23:33,510
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-993
-00:23:33,470 --> 00:23:33,510
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-994
-00:23:33,470 --> 00:23:33,510
-- Religion
-- History
-- Economics
-
-995
-00:23:33,470 --> 00:23:33,510
-- Samurai
-- Etiquette
-
-996
-00:23:33,510 --> 00:23:33,550
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-997
-00:23:33,510 --> 00:23:33,550
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-998
-00:23:33,510 --> 00:23:33,550
-- Religion
-- History
-- Economics
-
-999
-00:23:33,510 --> 00:23:33,550
-- Samurai
-- Etiquette
-
-1000
-00:23:33,550 --> 00:23:33,600
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1001
-00:23:33,550 --> 00:23:33,600
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1002
-00:23:33,550 --> 00:23:33,600
-- Religion
-- History
-- Economics
-
-1003
-00:23:33,550 --> 00:23:33,600
-- Samurai
-- Etiquette
-
-1004
-00:23:33,600 --> 00:23:33,640
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1005
-00:23:33,600 --> 00:23:33,640
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1006
-00:23:33,600 --> 00:23:33,640
-- Religion
-- History
-- Economics
-
-1007
-00:23:33,600 --> 00:23:33,640
-- Samurai
-- Etiquette
-
-1008
-00:23:33,640 --> 00:23:33,680
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1009
-00:23:33,640 --> 00:23:33,680
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1010
-00:23:33,640 --> 00:23:33,680
-- Religion
-- History
-- Economics
-
-1011
-00:23:33,640 --> 00:23:33,680
-- Samurai
-- Etiquette
-
-1012
-00:23:33,680 --> 00:23:33,720
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1013
-00:23:33,680 --> 00:23:33,720
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1014
-00:23:33,680 --> 00:23:33,720
-- Religion
-- History
-- Economics
-
-1015
-00:23:33,680 --> 00:23:33,720
-- Samurai
-- Etiquette
-
-1016
-00:23:33,720 --> 00:23:33,760
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1017
-00:23:33,720 --> 00:23:33,760
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1018
-00:23:33,720 --> 00:23:33,760
-- Religion
-- History
-- Economics
-
-1019
-00:23:33,720 --> 00:23:33,760
-- Samurai
-- Etiquette
-
-1020
-00:23:33,760 --> 00:23:33,800
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1021
-00:23:33,760 --> 00:23:33,800
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1022
-00:23:33,760 --> 00:23:33,800
-- Religion
-- History
-- Economics
-
-1023
-00:23:33,760 --> 00:23:33,800
-- Samurai
-- Etiquette
-
-1024
-00:23:33,800 --> 00:23:33,850
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1025
-00:23:33,800 --> 00:23:33,850
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1026
-00:23:33,800 --> 00:23:33,850
-- Religion
-- History
-- Economics
-
-1027
-00:23:33,800 --> 00:23:33,850
-- Samurai
-- Etiquette
-
-1028
-00:23:33,850 --> 00:23:33,890
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1029
-00:23:33,850 --> 00:23:33,890
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1030
-00:23:33,850 --> 00:23:33,890
-- Religion
-- History
-- Economics
-
-1031
-00:23:33,850 --> 00:23:33,890
-- Samurai
-- Etiquette
-
-1032
-00:23:33,890 --> 00:23:33,930
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1033
-00:23:33,890 --> 00:23:33,930
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1034
-00:23:33,890 --> 00:23:33,930
-- Religion
-- History
-- Economics
-
-1035
-00:23:33,890 --> 00:23:33,930
-- Samurai
-- Etiquette
-
-1036
-00:23:33,930 --> 00:23:33,970
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1037
-00:23:33,930 --> 00:23:33,970
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1038
-00:23:33,930 --> 00:23:33,970
-- Religion
-- History
-- Economics
-
-1039
-00:23:33,930 --> 00:23:33,970
-- Samurai
-- Etiquette
-
-1040
-00:23:33,970 --> 00:23:34,010
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1041
-00:23:33,970 --> 00:23:34,010
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1042
-00:23:33,970 --> 00:23:34,010
-- Religion
-- History
-- Economics
-
-1043
-00:23:33,970 --> 00:23:34,010
-- Samurai
-- Etiquette
-
-1044
-00:23:34,010 --> 00:23:34,050
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1045
-00:23:34,010 --> 00:23:34,050
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1046
-00:23:34,010 --> 00:23:34,050
-- Religion
-- History
-- Economics
-
-1047
-00:23:34,010 --> 00:23:34,050
-- Samurai
-- Etiquette
-
-1048
-00:23:34,050 --> 00:23:34,100
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1049
-00:23:34,050 --> 00:23:34,100
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1050
-00:23:34,050 --> 00:23:34,100
-- Religion
-- History
-- Economics
-
-1051
-00:23:34,050 --> 00:23:34,100
-- Samurai
-- Etiquette
-
-1052
-00:23:34,100 --> 00:23:34,140
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1053
-00:23:34,100 --> 00:23:34,140
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1054
-00:23:34,100 --> 00:23:34,140
-- Religion
-- History
-- Economics
-
-1055
-00:23:34,100 --> 00:23:34,140
-- Samurai
-- Etiquette
-
-1056
-00:23:34,140 --> 00:23:34,180
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1057
-00:23:34,140 --> 00:23:34,180
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1058
-00:23:34,140 --> 00:23:34,180
-- Religion
-- History
-- Economics
-
-1059
-00:23:34,140 --> 00:23:34,180
-- Samurai
-- Etiquette
-
-1060
-00:23:34,180 --> 00:23:34,220
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1061
-00:23:34,180 --> 00:23:34,220
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1062
-00:23:34,180 --> 00:23:34,220
-- Religion
-- History
-- Economics
-
-1063
-00:23:34,180 --> 00:23:34,220
-- Samurai
-- Etiquette
-
-1064
-00:23:34,220 --> 00:23:34,260
-mDtq08'ZH
-kicV5673M
-B!R0OkG2k
-RV;l1es4X
-7qE,wk"3u
-Jo1bbGZ.W
-
-1065
-00:23:34,220 --> 00:23:34,260
-Suw.r.:qz
-R8'j202em
-kxx02jUvX
-IOJxR:Kcu
-UET.RSAtC
-jqBdNsERE
-
-1066
-00:23:34,220 --> 00:23:34,260
-- Religion
-- History
-- Economics
-
-1067
-00:23:34,220 --> 00:23:34,260
-- Samurai
-- Etiquette
-
-1068
 00:23:36,230 --> 00:23:40,940
 Lord Oden, would you kindly elaborate
 on your temperament this fine morning?
 
-1069
+859
 00:23:40,940 --> 00:23:43,690
 This ganmodoki is exquisite!
 
-1070
+860
 00:23:45,070 --> 00:23:48,110
 What is the matter with you all?!
 You are all creeping me out!
 
-1071
+861
 00:23:48,110 --> 00:23:52,080
 He is the man who will one day
 become the shogun of Wano!
 
-1072
+862
 00:23:52,410 --> 00:23:56,960
 Those who serve him ought to be
 the best samurai Wano has to offer!
 
-1073
+863
 00:24:21,190 --> 00:24:24,280
 Of course, protecting your lord is a must.
 
-1074
+864
 00:24:24,280 --> 00:24:26,320
 The capital city...
 
-1075
+865
 00:24:26,320 --> 00:24:31,830
 No, the entire country of Wano
 will have you as its guardians!
 
-1076
+866
 00:24:34,790 --> 00:24:38,670
 Three Years Later
 
@@ -6105,120 +5475,120 @@ Thirty Years Before
 
 the Present Day
 
-1077
+867
 00:24:38,670 --> 00:24:42,420
 I hear the daimyo of Kuri
 and his court are coming to the capital.
 
-1078
+868
 00:24:38,670 --> 00:24:47,630
 Flower
 
 Capital
 
-1079
+869
 00:24:43,040 --> 00:24:44,920
 Make sure you don't get robbed.
 
-1080
+870
 00:24:44,920 --> 00:24:47,630
 Lord Oden's retainers are known thugs.
 
-1081
+871
 00:24:47,630 --> 00:24:50,010
 Look! They're here!
 
-1082
+872
 00:24:50,010 --> 00:24:50,970
 – Wha...?
 – Huh?
 
-1083
+873
 00:24:51,390 --> 00:24:52,050
 What?!
 
-1084
+874
 00:25:21,170 --> 00:25:23,670
 Oh, my! Look at those samurai!
 
-1085
+875
 00:25:23,670 --> 00:25:26,590
 Were Lord Oden's retainers
 always so dignified?
 
-1086
+876
 00:25:27,010 --> 00:25:28,470
 I hardly recognized them!
 
-1087
+877
 00:25:28,470 --> 00:25:30,550
 It's like a shogun's procession!
 
-1088
+878
 00:25:39,350 --> 00:25:46,440
 The regal postures of those samurai were
 so glorious that some people even forgot to breathe.
 
-1089
+879
 00:25:46,440 --> 00:25:52,950
 And one could have seen people drop
 to their knees everywhere in the capital.
 
-1090
+880
 00:25:56,450 --> 00:25:58,700
 Hey, Father!
 
-1091
+881
 00:25:58,700 --> 00:25:59,750
 Oden!
 
-1092
+882
 00:25:59,750 --> 00:26:01,620
 You have become such a fine man!
 
-1093
+883
 00:26:01,620 --> 00:26:03,290
 Everyone is surprised!
 
-1094
+884
 00:26:03,290 --> 00:26:05,590
 I have only been made into a fine man.
 
-1095
+885
 00:26:05,590 --> 00:26:07,920
 But I am still the same as ever!
 
-1096
+886
 00:26:08,710 --> 00:26:11,880
 M-M-My Oden feels grateful toward others?!
 
-1097
+887
 00:26:12,260 --> 00:26:14,180
 Why should that scare you?
 
-1098
+888
 00:26:20,890 --> 00:26:26,480
 Hearing of his father's illness, Oden rushed to the capital
 and was relieved to see him in good health.
 
-1099
+889
 00:26:26,480 --> 00:26:31,150
 However, this would be the last time
 they ever exchanged words.
 
-1100
+890
 00:26:35,570 --> 00:26:37,660
 It seems this place is inhabited.
 
-1101
+891
 00:26:38,080 --> 00:26:41,370
 Pops, it'll take a week to repair it.
 
-1102
+892
 00:26:41,750 --> 00:26:44,040
 The water damaged most of the cargo!
 
-1103
+893
 00:26:44,040 --> 00:26:48,670
 The Same Year...
 
@@ -6227,230 +5597,230 @@ Itachi Port
 
 Kuri
 
-1104
+894
 00:26:44,420 --> 00:26:47,000
 We need to procure supplies.
 
-1105
+895
 00:26:47,000 --> 00:26:48,670
 Who wants to go?!
 
-1106
+896
 00:26:48,670 --> 00:26:52,260
 Almost everyone since we all
 need some exercise.
 
-1107
+897
 00:26:56,680 --> 00:27:00,310
 Captain Edward Newgate
 
 
 Whitebeard Pirates
 
-1108
+898
 00:26:57,390 --> 00:26:59,850
 We climbed up the falls, right?
 
-1109
+899
 00:27:03,520 --> 00:27:06,980
 Why is there sea and an island here?
 
-1110
+900
 00:27:13,030 --> 00:27:15,490
 We have a problem, Sir Kanjuro!
 
-1111
+901
 00:27:16,780 --> 00:27:17,620
 What is it?
 
-1112
+902
 00:27:17,620 --> 00:27:20,240
 Calm yourself! You are too loud!
 
-1113
+903
 00:27:20,240 --> 00:27:24,120
 We received a report that
 a pirate ship docked at Itachi Port!
 
-1114
+904
 00:27:24,120 --> 00:27:25,330
 Pirates?!
 
-1115
+905
 00:27:30,090 --> 00:27:31,420
 Lord Oden!
 
-1116
+906
 00:27:31,420 --> 00:27:33,260
 Where are you going?!
 
-1117
+907
 00:27:33,260 --> 00:27:35,090
 To the port!
 
-1118
+908
 00:27:36,590 --> 00:27:39,100
 Here I go! Here I go!
 
-1119
+909
 00:27:40,510 --> 00:27:43,180
 Alright, we'll go fetch some supplies.
 
-1120
+910
 00:27:43,180 --> 00:27:45,100
 I'm coming, too!
 
-1121
+911
 00:27:45,100 --> 00:27:46,100
 You can't.
 
-1122
+912
 00:27:46,100 --> 00:27:47,980
 You're just an apprentice!
 
-1123
+913
 00:27:47,980 --> 00:27:49,560
 Don't say that!
 
-1124
+914
 00:27:49,560 --> 00:27:52,360
 Pops! Can I go?
 
-1125
+915
 00:27:52,360 --> 00:27:53,990
 Do as you like.
 
-1126
+916
 00:27:54,780 --> 00:27:57,860
 All right! Let's go!
 
-1127
+917
 00:27:55,450 --> 00:27:57,860
 Hurry up! Hurry up!
 
-1128
+918
 00:27:57,860 --> 00:27:59,990
 I said no apprentices allowed!
 
-1129
+919
 00:27:59,990 --> 00:28:00,990
 Stay here!
 
-1130
+920
 00:28:01,370 --> 00:28:02,490
 What?!
 
-1131
+921
 00:28:02,490 --> 00:28:04,790
 Lord Oden went to the port?!
 
-1132
+922
 00:28:05,870 --> 00:28:07,540
 Why did you let him go?!
 
-1133
+923
 00:28:07,540 --> 00:28:09,830
 I heard there's a pirate ship at Itachi Port!
 
-1134
+924
 00:28:09,830 --> 00:28:11,210
 It's unusual, too!
 
-1135
+925
 00:28:11,210 --> 00:28:13,500
 They say it's big and the pirates look tough!
 
-1136
+926
 00:28:14,130 --> 00:28:15,550
 We must stop him!
 
-1137
+927
 00:28:15,550 --> 00:28:18,130
 He just went to chase them away, right?!
 
-1138
+928
 00:28:18,130 --> 00:28:19,390
 Not likely!
 
-1139
+929
 00:28:19,390 --> 00:28:21,010
 I am sure you know about...
 
-1140
+930
 00:28:21,680 --> 00:28:23,350
 Lord Oden's dream!
 
-1141
+931
 00:28:27,850 --> 00:28:31,020
 Is that a pirate ship?!
 
-1142
+932
 00:28:31,020 --> 00:28:33,020
 I have been waiting...
 
-1143
+933
 00:28:33,780 --> 00:28:36,190
 for this moment!
 
-1144
+934
 00:28:37,990 --> 00:28:39,360
 Here comes trouble.
 
-1145
+935
 00:28:41,070 --> 00:28:43,080
 Hey, all of you! Stand back!
 
-1146
+936
 00:28:43,080 --> 00:28:43,870
 – What?
 – What?
 
-1147
+937
 00:28:44,410 --> 00:28:46,540
 Something's coming!
 
-1148
+938
 00:28:46,540 --> 00:28:48,620
 Something unthinkable!
 
-1149
+939
 00:28:48,620 --> 00:28:50,210
 Well done!
 
-1150
+940
 00:28:50,540 --> 00:28:55,880
 You made it past the terrible weather
 and waterfalls! Quite impressive!
 
-1151
+941
 00:29:11,100 --> 00:29:16,190
 I have been waiting for you, pirates!
 
-1152
+942
 00:29:34,040 --> 00:29:36,460
 You are really something else!
 
-1153
+943
 00:29:37,130 --> 00:29:38,630
 I'll make you pay for that!
 
-1154
+944
 00:29:40,840 --> 00:29:43,760
 Bring it on, you punk!
 
-1155
+945
 00:30:12,960 --> 00:30:16,000
 I have been waiting for someone like you!
 
-1156
+946
 00:30:16,500 --> 00:30:19,090
 My name is Kozuki Oden!
 
-1157
+947
 00:30:19,090 --> 00:30:21,760
 I do not know who you are,
 but please allow me...
 
-1158
+948
 00:30:22,180 --> 00:30:23,630
 to ride on your ship!

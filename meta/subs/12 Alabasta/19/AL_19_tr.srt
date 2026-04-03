@@ -1479,704 +1479,686 @@ Acaba uyanmış mıdır?
 354
 00:22:06,470 --> 00:22:06,510
 Acaba uyanmış mıdır?
+Öyle olsaydı şimdiye dek duyardık.
 
 355
-00:22:06,470 --> 00:22:06,510
+00:22:06,510 --> 00:22:06,560
+Acaba uyanmış mıdır?
 Öyle olsaydı şimdiye dek duyardık.
 
 356
-00:22:06,510 --> 00:22:06,560
-Acaba uyanmış mıdır?
-
-357
-00:22:06,510 --> 00:22:06,560
-Öyle olsaydı şimdiye dek duyardık.
-
-358
 00:22:06,560 --> 00:22:06,600
 Öyle olsaydı şimdiye dek duyardık.
 
-359
+357
 00:22:06,600 --> 00:22:06,640
 Öyle olsaydı şimdiye dek duyardık.
 
-360
+358
 00:22:06,640 --> 00:22:06,680
 Öyle olsaydı şimdiye dek duyardık.
 
-361
+359
 00:22:06,680 --> 00:22:09,390
 Öyle olsaydı şimdiye dek duyardık.
 
-362
+360
 00:22:09,390 --> 00:22:10,930
 Ohhhh...
 
-363
+361
 00:22:10,930 --> 00:22:13,020
 Ne uyudum be!
 
-364
+362
 00:22:15,150 --> 00:22:16,690
 Ha? Şapkam?
 
-365
+363
 00:22:16,690 --> 00:22:18,650
 Şapkam! Şapkam nerede?
 
-366
+364
 00:22:18,650 --> 00:22:20,650
 Acıktım. Kahvaltı nerede?
 
-367
+365
 00:22:20,650 --> 00:22:23,150
 Hey, kahvaltı! Şapkam nerede?!
 Kahvaltı? Şapka?!
 
-368
+366
 00:22:23,530 --> 00:22:26,030
 Uyandığın zaman çok gürültücüsün!
 
-369
+367
 00:22:26,030 --> 00:22:28,910
 Ayrıca kahvaltı değil,
 akşam yemeği zamanı.
 
-370
+368
 00:22:28,910 --> 00:22:30,790
 Şapkan orada.
 
-371
+369
 00:22:30,790 --> 00:22:33,120
 Askerin biri sarayın önünde bulmuş.
 
-372
+370
 00:22:33,790 --> 00:22:35,040
 Ah, şükürler olsun!
 
-373
+371
 00:22:35,040 --> 00:22:37,420
 İyi olduğuna çok sevindim, Luffy-san!
 
-374
+372
 00:22:37,420 --> 00:22:40,010
 Öyle mi? Ben her zaman iyiyim ki.
 
-375
+373
 00:22:40,010 --> 00:22:43,130
 Seni aptal!
 Ateşin gerçekten çok yüksekti!
 
-376
+374
 00:22:43,130 --> 00:22:46,260
 Vivi ve Chopper bu süre boyunca
 hep seninle ilgilendiler!
 
-377
+375
 00:22:46,260 --> 00:22:48,220
 Öyle mi? Teşekkürler!
 
-378
+376
 00:22:49,010 --> 00:22:50,640
 Oh, Luffy! Uyandın mı?
 
-379
+377
 00:22:50,640 --> 00:22:52,770
 Oh, Zoro!
 Görüşmeyeli çok oldu!
 
-380
+378
 00:22:52,770 --> 00:22:53,980
 "Çok oldu mu"?
 
-381
+379
 00:22:53,980 --> 00:22:56,690
 Hey! Yine antrenman yapıyordun, değil mi?!
 
-382
+380
 00:22:56,690 --> 00:22:58,320
 Ne? Bu beni ilgilendirir, ha?
 
-383
+381
 00:22:58,320 --> 00:23:01,570
 Hayır! Ben senin doktorunum!
 Ayrıca bandajlarını çıkarma!
 
-384
+382
 00:23:01,570 --> 00:23:03,150
 Onlarla hareket etmek zor.
 
-385
+383
 00:23:03,150 --> 00:23:04,820
 Öyleyse hareket etme!
 
-386
+384
 00:23:04,820 --> 00:23:06,820
 "Çok geçti mi"...?
 
-387
+385
 00:23:06,820 --> 00:23:08,030
 "Çok mu geçti"?
 
-388
+386
 00:23:08,030 --> 00:23:11,790
 Evet, böyle hissetmene şaşmamalı.
 Üç gündür deliksiz uyuyordun.
 
-389
+387
 00:23:11,790 --> 00:23:14,040
 Üç gün mü?!
 Üç gündür uyuyor muydum?!
 
-390
+388
 00:23:14,040 --> 00:23:14,790
 Evet.
 
-391
+389
 00:23:17,380 --> 00:23:19,000
 15 öğün kaçırdım.
 
-392
+390
 00:23:19,000 --> 00:23:21,050
 Nasıl bu kadar hızlı hesapladın?!
 
-393
+391
 00:23:21,050 --> 00:23:23,010
 Günde beş öğün hemde!
 
-394
+392
 00:23:24,090 --> 00:23:25,720
 Kaptan sonunda uyandı mı?!
 
-395
+393
 00:23:26,090 --> 00:23:28,800
 Akşam yemeği birazdan hazır,
 bekleyebilir misiniz?
 
-396
+394
 00:23:28,800 --> 00:23:29,390
 N...?!
 
-397
+395
 00:23:29,390 --> 00:23:31,640
 Oh, masuralı adam!
 Hayatta mısın?!
 
-398
+396
 00:23:31,640 --> 00:23:33,980
 B-Böyle zevklerin olduğunu biliyordum.
 
-399
+397
 00:23:33,980 --> 00:23:35,520
 Hayır, millet!
 
-400
+398
 00:23:35,520 --> 00:23:37,100
 Bu, Terracotta-san.
 
-401
+399
 00:23:37,100 --> 00:23:39,980
 Igaram'ın karısı ve
 sarayın işleriyle uğraşıyor!
 
-402
+400
 00:23:39,980 --> 00:23:41,980
 Yaptığınız her şey için teşekkürler.
 
-403
+401
 00:23:41,980 --> 00:23:45,320
 Birbirinin ikizi olan çiftler
 duymuştum ama bu çok fazla!
 
-404
+402
 00:23:45,320 --> 00:23:47,320
 Çok yediğini duydum.
 
-405
+403
 00:23:47,320 --> 00:23:51,280
 Yemek vaktine dek
 bu meyvelerle idare edebilir misin?
 
-406
+404
 00:23:50,660 --> 00:23:51,280
 Olur.
 
-407
+405
 00:23:51,870 --> 00:23:53,160
 – Büyücü müsün lan?!
 – Büyücü müsün lan?!
 
-408
+406
 00:23:53,540 --> 00:23:55,330
 Bayan, üç günlük yemek yiyeceğim!
 
-409
+407
 00:23:55,330 --> 00:23:57,920
 Muhteşem! Bu işi 30 yıldır yapıyorum.
 
-410
+408
 00:23:57,920 --> 00:24:01,590
 Bir gencin midesine yenik düşmem! 
 İstediğin kadar ye!
 
-411
+409
 00:24:07,260 --> 00:24:09,300
 Adabımuaşeretten yoksunlar.
 
-412
+410
 00:24:09,300 --> 00:24:13,520
 Bu salonda yemek,
 ağırbaşlı bir şekilde yenmeli.
 
-413
+411
 00:24:15,230 --> 00:24:17,190
 Dediği gibiymiş ama
 henüz pes etmedim!
 
-414
+412
 00:24:17,940 --> 00:24:19,650
 Hızlı ye, yoksa kalmayacak!
 
-415
+413
 00:24:21,270 --> 00:24:23,110
 Hey, Luffy! O benim yemeğimdi!
 
-416
+414
 00:24:24,110 --> 00:24:25,070
 Yemeği tükürme!
 
-417
+415
 00:24:25,570 --> 00:24:27,740
 Hey, hey, yavaşlamazsan...
 
-418
+416
 00:24:27,740 --> 00:24:29,160
 Çok fazla var, o yüzden...
 
-419
+417
 00:24:29,280 --> 00:24:32,870
 Bekle, Luffy.
 Biraz tabasco yıldızı koyayım da gör.
 
-420
+418
 00:24:36,750 --> 00:24:38,370
 Hey! Ne ara buraya geldin?!
 
-421
+419
 00:24:39,670 --> 00:24:40,880
 Bunun adı ne?
 
-422
+420
 00:24:40,880 --> 00:24:43,590
 Kunafa efendim.
 Erişteleri fırına koyuyorsunuz ve...
-
-423
-00:24:40,880 --> 00:24:43,590
 Kunafa: Künefe
 
-424
+421
 00:24:44,210 --> 00:24:45,550
 Çok lezzetli!
 
-425
+422
 00:24:45,550 --> 00:24:47,720
 İşte, sıradaki servis!
 
-426
+423
 00:24:48,090 --> 00:24:50,970
 Ağca, sven kvalh mısınh?
-
-427
-00:24:48,090 --> 00:24:50,970
 (Amca, sen kral mısın?)
 
-428
+424
 00:24:50,970 --> 00:24:54,100
 Yoni Bibinin bahasısın.
-
-429
-00:24:50,970 --> 00:24:54,100
 (Yani Vivi'nin babasısın.)
 
-430
+425
 00:24:54,100 --> 00:24:56,270
 Ş-Şey...
 Bunları yemekten sonra konuşalım.
 
-431
+426
 00:24:56,270 --> 00:24:57,100
 Tomam.
-
-432
-00:24:56,270 --> 00:24:57,100
 (Tamam)
 
-433
+427
 00:24:58,640 --> 00:25:00,520
 Biraz içki alabilir miyiz?!
 
-434
+428
 00:25:00,600 --> 00:25:02,110
 Hey, buraya biraz su!
 
-435
+429
 00:25:03,360 --> 00:25:05,480
 Ne gürültülü bir sofra...
 
-436
+430
 00:25:05,480 --> 00:25:07,440
 İzleyemiyorum. Çok kabalar...
 
-437
+431
 00:25:11,280 --> 00:25:14,240
 Vivi-sama buna nasıl gülebiliyor?
 
-438
+432
 00:25:42,940 --> 00:25:45,110
 Burası sarayın değerli bir hamamı.
 
-439
+433
 00:25:45,110 --> 00:25:47,610
 Sadece yağmurlu
 mevsimlerde kullanabiliriz.
 
-440
+434
 00:25:46,780 --> 00:25:47,610
 Müthiş!
 
-441
+435
 00:25:47,610 --> 00:25:48,990
 Harikulade! Harikulade!
 
-442
+436
 00:25:48,990 --> 00:25:51,110
 Ben ilk olacağım!
 
-443
+437
 00:25:49,940 --> 00:25:51,110
 Hayır, ben!
 
-444
+438
 00:25:52,110 --> 00:25:53,410
 Eğleniyor musunuz?
 
-445
+439
 00:25:53,410 --> 00:25:56,490
 Yemekten çok keyif aldım.
 
-446
+440
 00:25:56,490 --> 00:25:59,500
 Resmi bir yemekle kutlama
 yapmak niyetindeydim...
 
-447
+441
 00:25:59,500 --> 00:26:03,370
 ama her şeyi partiye
 dönüştürüyorsunuz gibi görünüyor.
 
-448
+442
 00:26:03,750 --> 00:26:06,460
 Hey, Zoro, bak! Antrenman yapıyoruz!
 
-449
+443
 00:26:06,460 --> 00:26:07,380
 Çalış, çalış!
 
-450
+444
 00:26:07,380 --> 00:26:08,340
 Ne için çalışayım?
 
-451
+445
 00:26:09,010 --> 00:26:10,970
 Kadınlar hamamı nerede?
 
-452
+446
 00:26:10,970 --> 00:26:12,840
 Delirdin mi?! Niye sana söyleyeyim?!
 
-453
+447
 00:26:12,840 --> 00:26:14,340
 Vivi-sama orada!
 
-454
+448
 00:26:14,340 --> 00:26:16,300
 Hadi ama, dökül bakalım!
 
-455
+449
 00:26:16,300 --> 00:26:17,890
 Şu duvarın arkasındalar!
 
-456
+450
 00:26:17,890 --> 00:26:19,430
 Majesteleri! Neden?!
 
-457
+451
 00:26:19,430 --> 00:26:21,480
 Vay! İhtiyar, tarzını sevdim!
 
-458
+452
 00:26:22,350 --> 00:26:23,560
 Çok iyi hissettiriyor!
 
-459
+453
 00:26:24,100 --> 00:26:26,730
 Keşke böyle kocaman bir
 hamamı olan gemi olsaydı.
 
-460
+454
 00:26:26,730 --> 00:26:29,690
 Eminim vardır!
 Dünya çok büyük bir yer!
 
-461
+455
 00:26:30,190 --> 00:26:31,690
 Devler gördük...
 
-462
+456
 00:26:31,690 --> 00:26:33,070
 Dinazorlar gördük...
 
-463
+457
 00:26:33,070 --> 00:26:35,820
 Kış adasında açan
 kiraz çiçekleri gördük.
 
-464
+458
 00:26:35,820 --> 00:26:40,160
 Keşfedilmeyi bekleyen
 daha neler var kim bilir!
 
-465
+459
 00:26:43,580 --> 00:26:44,870
 Şey....
 
-466
+460
 00:26:44,120 --> 00:26:44,870
 Benim sıram.
 
-467
+461
 00:26:46,130 --> 00:26:47,290
 Teşekkürler.
 
-468
+462
 00:26:47,290 --> 00:26:48,590
 Ha?
 
-469
+463
 00:26:48,590 --> 00:26:50,760
 Hey, ne yapıyorsunuz siz böyle?!
 
-470
+464
 00:26:51,090 --> 00:26:52,720
 Şu salaklar...
 
-471
+465
 00:26:54,300 --> 00:26:57,220
 Her birinize 100,000 beliye
 mal olacak, tamam mı?!
 
-472
+466
 00:26:58,010 --> 00:26:58,680
 Ha?
 
-473
+467
 00:26:58,680 --> 00:27:01,100
 Mutluluk Yumruğu!
 
-474
+468
 00:27:01,100 --> 00:27:02,100
 Nami-san!
 
-475
+469
 00:27:08,520 --> 00:27:10,020
 Kararsızsın, değil mi...?
 
-476
+470
 00:27:10,980 --> 00:27:14,860
 Bu gece gitmeyi düşünüyoruz.
 
-477
+471
 00:27:14,860 --> 00:27:15,660
 Cidden mi?!
 
-478
+472
 00:27:15,660 --> 00:27:18,280
 Artık burada durmamız için
 bir sebep yok, değil mi?
 
-479
+473
 00:27:18,280 --> 00:27:20,910
 Ve eminim ki Denizciler
 limanda bizi bekliyordur.
 
-480
+474
 00:27:20,910 --> 00:27:22,620
 Gemimiz tehlikede olacak.
 
-481
+475
 00:27:25,710 --> 00:27:26,540
 Teşekkürler...
 
-482
+476
 00:27:27,040 --> 00:27:28,080
 – Pis ihtiyar...
 – Pis ihtiyar...
 
-483
+477
 00:27:28,080 --> 00:27:29,880
 Onun için değil!
 
-484
+478
 00:27:32,010 --> 00:27:33,510
 Ülkem için.
 
-485
+479
 00:27:40,850 --> 00:27:45,020
 Hey, hey, bir kral bunu yapmalı mı?
 
-486
+480
 00:27:45,020 --> 00:27:47,600
 Bu ciddi bir mesele, Majesteleri.
 
-487
+481
 00:27:47,600 --> 00:27:50,230
 Bir kral asla başını eğmemeli.
 
-488
+482
 00:27:50,730 --> 00:27:52,610
 Igaram...
 
-489
+483
 00:27:52,610 --> 00:27:56,030
 Bir insanın unvanı kıyafetlerini
 çıkarana kadar geçerlidir.
 
-490
+484
 00:27:56,450 --> 00:27:58,620
 Ama burası bir hamam.
 
-491
+485
 00:27:58,620 --> 00:28:01,330
 Çıplak kral diye bir şey yok.
 
-492
+486
 00:28:01,330 --> 00:28:06,160
 Bir baba ve bu ülkede
 yaşayan bir adam olarak,
 
-493
+487
 00:28:06,160 --> 00:28:09,000
 yürekten minnettarlığımı
 ifade etmek istiyorum.
 
-494
+488
 00:28:13,250 --> 00:28:14,840
 Çok teşekkür ederim.
 
-495
+489
 00:28:15,470 --> 00:28:18,300
 Gerçekten minnettarım!
 
-496
+490
 00:28:24,520 --> 00:28:25,890
 Bu gece mi?
 
-497
+491
 00:28:25,890 --> 00:28:26,850
 Evet.
 
-498
+492
 00:28:26,850 --> 00:28:28,520
 Demek gidiyoruz, öyle mi?
 
-499
+493
 00:28:28,520 --> 00:28:31,400
 Bence de iyi bir fikir.
 
-500
+494
 00:28:31,400 --> 00:28:33,690
 Burada daha fazla durmak için sebep yok.
 
-501
+495
 00:28:33,690 --> 00:28:36,240
 Evet, Denizciler daha çok
 görünmeye başladılar.
 
-502
+496
 00:28:36,240 --> 00:28:38,070
 Pekâlâ! Luffy, ne diyorsun?
 
-503
+497
 00:28:38,070 --> 00:28:40,240
 Tamam! Bir yemek daha yiyip gidelim.
 
-504
+498
 00:28:40,240 --> 00:28:41,700
 Şimdi gidiyoruz, ahmak!
 
-505
+499
 00:28:41,700 --> 00:28:43,200
 – Ahmak!
 – Hepinizin vurmasına...
 
-506
+500
 00:28:43,580 --> 00:28:45,080
 Ne yapacağız, Igaram-san?
 
-507
+501
 00:28:45,080 --> 00:28:46,910
 Onlara hemen söylemeliyiz!
 
-508
+502
 00:28:46,910 --> 00:28:48,500
 Evet, elbette.
 
-509
+503
 00:28:48,500 --> 00:28:49,870
 Ama...
 
-510
+504
 00:28:49,870 --> 00:28:51,880
 bu, çok kötü bir durum.
 
-511
+505
 00:28:52,340 --> 00:28:55,000
 Umarım bu adadan
 sağ salim ayrılabilirler.
 
-512
+506
 00:28:55,000 --> 00:28:56,840
 Olaylar çok çabuk gelişiyor!
 
-513
+507
 00:28:58,300 --> 00:29:01,390
 Roronoa Zoro,
 Kelle Ödülü: 60 milyon beli.
 
-514
+508
 00:29:02,510 --> 00:29:05,930
 Monkey D. Luffy,
 Kelle Ödülü: 100 milyon beli.
 
-515
+509
 00:29:06,520 --> 00:29:07,560
 Igaram-san...
 
-516
+510
 00:29:07,560 --> 00:29:08,850
 Bu ödüller,
 
-517
+511
 00:29:08,850 --> 00:29:12,400
 Donanma'nın üst düzey yetkililerini
 bile harekete geçirecektir.
 
-518
+512
 00:29:12,770 --> 00:29:15,400
 Artık geri dönüş yok, Luffy-kun.
 
-519
+513
 00:29:16,030 --> 00:29:19,530
 Sen ve tayfan
 Shichibukai birini devirdiniz.

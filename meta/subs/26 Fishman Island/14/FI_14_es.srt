@@ -149,336 +149,208 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 00:02:31,580 --> 00:02:34,940
 En el centro de la Isla Gyojin,
  en la Ciudad de la Fábrica de Dulces.
-
-38
-00:02:31,580 --> 00:02:34,940
 PLAZA
 GYONCORDE
-
-39
-00:02:31,580 --> 00:02:34,940
 ISLA 
 GYOJIN
-
-40
-00:02:31,580 --> 00:02:34,940
 ENTRADA 
 DE LA ISLA
-
-41
-00:02:31,580 --> 00:02:34,940
 FÁBRICA 
 DE DULCES
 
-42
+38
 00:04:01,380 --> 00:04:06,860
 ¡Reunión en la Plaza Gyoncorde!
 El verdadero poder de la drogas malvadas
 
-43
+39
 00:04:35,140 --> 00:04:38,580
 Al Norte de la Isla Gyojin,
  en el Distrito Molino de Agua.
 
-44
+40
 00:04:35,140 --> 00:04:38,700
 PLAZA
 GYONCORDE
-
-45
-00:04:35,140 --> 00:04:38,700
 ISLA 
 GYOJIN
-
-46
-00:04:35,140 --> 00:04:38,700
 ENTRADA 
 DE LA ISLA
-
-47
-00:04:35,140 --> 00:04:38,700
 DISTRITO MOLINO
 DE AGUA
 
-48
+41
 00:05:21,580 --> 00:05:23,380
 ¡Muy bien!
 
-49
+42
 00:05:32,340 --> 00:05:33,580
 ¿Potsun?
 
-50
+43
 00:05:39,340 --> 00:05:41,010
 ¿Bosun?
 
-51
+44
 00:05:48,900 --> 00:05:50,380
 ¿Tosun?
 
-52
+45
 00:06:18,660 --> 00:06:20,340
 ¡Ha ido más allá del dosun!
 
-53
+46
 00:06:58,290 --> 00:07:00,740
 ¡Sí!
 
-54
+47
 00:07:02,460 --> 00:07:07,140
 Al sur de la Isla Gyojin, 
 frente a la Asamblea Cultural Gyojin.
 
-55
+48
 00:07:02,460 --> 00:07:07,180
 PLAZA
 GYONCORDE
-
-56
-00:07:02,460 --> 00:07:07,180
 ISLA 
 GYOJIN
-
-57
-00:07:02,460 --> 00:07:07,180
 ENTRADA 
 DE LA ISLA
-
-58
-00:07:02,460 --> 00:07:07,180
 ASAMBLEA
 CULTURAL GYOJIN
 
-59
+49
 00:09:01,070 --> 00:09:03,340
 ¡No se te entiende nada!
 
-60
+50
 00:09:03,460 --> 00:09:07,260
 Al este de la Isla Gyojin,
  en el Centro Comercial Marino.
-
-61
-00:09:03,460 --> 00:09:07,260
 PLAZA
 GYONCORDE
-
-62
-00:09:03,460 --> 00:09:07,260
 ISLA 
 GYOJIN
-
-63
-00:09:03,460 --> 00:09:07,260
 ENTRADA 
 DE LA ISLA
-
-64
-00:09:03,460 --> 00:09:07,260
 CENTRO COMERCIAL
 MARINO
 
-65
+51
 00:10:15,640 --> 00:10:19,860
 ¡Vaya orgullo! ¡Con razón se hace
  llamar el noble del Distrito Gyojin!
 
-66
+52
 00:10:19,860 --> 00:10:22,860
 ¿Hace como que nada ha pasado?
 
-67
+53
 00:10:40,700 --> 00:10:45,860
 PLAZA
 GYONCORDE
-
-68
-00:10:40,700 --> 00:10:45,860
 ISLA 
 GYOJIN
-
-69
-00:10:40,700 --> 00:10:45,860
 ENTRADA 
 DE LA ISLA
-
-70
-00:10:40,700 --> 00:10:45,860
 DEL DISTRITO 
 MOLINO DE AGUA
 A LA PLAZA
 GYONCORDE
 
-71
+54
 00:12:00,980 --> 00:12:01,910
 ¡Sí!
 
-72
+55
 00:12:03,060 --> 00:12:05,960
 Al noreste de la Isla Gyojin, en Gyoverly Hills.
-
-73
-00:12:03,060 --> 00:12:05,960
 PLAZA
 GYONCORDE
-
-74
-00:12:03,060 --> 00:12:05,960
 ISLA 
 GYOJIN
-
-75
-00:12:03,060 --> 00:12:05,960
 ENTRADA 
 DE LA ISLA
-
-76
-00:12:03,060 --> 00:12:05,960
 GYOVERLY
 HILLS
 
-77
+56
 00:14:51,860 --> 00:14:54,430
 No me llamen Gran Caballero.
 
-78
+57
 00:14:54,430 --> 00:14:57,490
 Ni siquiera soy capaz de
  proteger a mi pueblo.
 
-79
+58
 00:14:57,490 --> 00:14:59,580
 ¡Vaya crueldad!
 
-80
+59
 00:15:02,180 --> 00:15:06,740
 Nos hacemos llamar el ejército real, 
 pero ni siquiera podemos proteger al rey.
 
-81
+60
 00:15:06,740 --> 00:15:08,820
 ¡¿Qué sentido tiene este ejército?!
 
-82
+61
 00:15:43,540 --> 00:15:45,940
 ¿Herido? ¡¿Nuestro capitán?!
 
-83
+62
 00:17:41,420 --> 00:17:43,100
 No eres mi tipo.
 
-84
+63
 00:18:09,500 --> 00:18:10,780
 ¡¿Sólo la parte de arriba?!
 
-85
+64
 00:21:35,980 --> 00:21:37,420
 Guardias míos...
 
-86
+65
 00:22:21,060 --> 00:22:23,300
 Mola
-
-87
-00:22:21,060 --> 00:22:23,300
 Shi
-
-88
-00:22:21,060 --> 00:22:23,300
 Chibukai
-
-89
-00:22:21,060 --> 00:22:23,300
 Fansub!
 
-90
-00:22:21,060 --> 00:22:23,300
-Disparo de agua.
-
-91
+66
 00:22:58,820 --> 00:23:02,300
 BAHÍA DE LAS SIRENAS
 
-92
+67
 00:25:55,500 --> 00:25:57,140
 Mola
-
-93
-00:25:55,500 --> 00:25:57,140
 Shi
-
-94
-00:25:55,500 --> 00:25:57,140
 Chibukai
-
-95
-00:25:55,500 --> 00:25:57,140
 Fansub!
 
-96
-00:25:55,500 --> 00:25:57,140
-Combate sirena.
-
-97
+68
 00:25:57,580 --> 00:25:59,780
 Mola
-
-98
-00:25:57,580 --> 00:25:59,780
 Shi
-
-99
-00:25:57,580 --> 00:25:59,780
 Chibukai
-
-100
-00:25:57,580 --> 00:25:59,780
 Fansub!
 
-101
-00:25:57,580 --> 00:25:59,780
-Lanza de agua del tiempo.
-
-102
+69
 00:26:00,100 --> 00:26:02,420
 Mola
-
-103
-00:26:00,100 --> 00:26:02,420
 Shi
-
-104
-00:26:00,100 --> 00:26:02,420
 Chibukai
-
-105
-00:26:00,100 --> 00:26:02,420
 Fansub!
 
-106
-00:26:00,100 --> 00:26:02,420
-Todos los tesoros del mundo.
-
-107
+70
 00:26:02,820 --> 00:26:04,820
 Mola
-
-108
-00:26:02,820 --> 00:26:04,820
 Shi
-
-109
-00:26:02,820 --> 00:26:04,820
 Chibukai
-
-110
-00:26:02,820 --> 00:26:04,820
 Fansub!
 
-111
-00:26:02,820 --> 00:26:04,820
-Puerta del Palacio Ryugu.
-
-112
+71
 00:26:09,610 --> 00:26:15,620
 ¡V-Vencieron a las bestias marinas!

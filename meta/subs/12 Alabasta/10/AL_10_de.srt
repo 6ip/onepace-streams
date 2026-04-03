@@ -598,2789 +598,1961 @@ und alles verhindern wollen...
 135
 00:11:20,700 --> 00:11:20,740
 Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 136
-00:11:20,700 --> 00:11:20,740
+00:11:20,740 --> 00:11:20,780
+Alubarna
 Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 137
-00:11:20,700 --> 00:11:20,740
+00:11:20,780 --> 00:11:20,830
+Alubarna
+Rainbase
 Katorea
+Nanohana
+Erumalu
+Yuba
 
 138
-00:11:20,700 --> 00:11:20,740
+00:11:20,830 --> 00:11:20,870
+Alubarna
+Rainbase
+Katorea
 Nanohana
+Erumalu
+Yuba
 
 139
-00:11:20,700 --> 00:11:20,740
+00:11:20,870 --> 00:11:20,910
+Alubarna
+Rainbase
+Katorea
+Nanohana
 Erumalu
+Yuba
 
 140
-00:11:20,700 --> 00:11:20,740
+00:11:20,910 --> 00:11:20,950
+Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
 Yuba
 
 141
-00:11:20,740 --> 00:11:20,780
+00:11:20,950 --> 00:11:20,990
 Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 142
-00:11:20,740 --> 00:11:20,780
+00:11:20,990 --> 00:11:21,040
+Alubarna
 Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 143
-00:11:20,740 --> 00:11:20,780
+00:11:21,040 --> 00:11:21,080
+Alubarna
+Rainbase
 Katorea
+Nanohana
+Erumalu
+Yuba
 
 144
-00:11:20,740 --> 00:11:20,780
+00:11:21,080 --> 00:11:21,120
+Alubarna
+Rainbase
+Katorea
 Nanohana
+Erumalu
+Yuba
 
 145
-00:11:20,740 --> 00:11:20,780
+00:11:21,120 --> 00:11:21,160
+Alubarna
+Rainbase
+Katorea
+Nanohana
 Erumalu
+Yuba
 
 146
-00:11:20,740 --> 00:11:20,780
+00:11:21,160 --> 00:11:21,200
+Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
 Yuba
 
 147
-00:11:20,780 --> 00:11:20,830
+00:11:21,200 --> 00:11:21,240
 Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 148
-00:11:20,780 --> 00:11:20,830
+00:11:21,240 --> 00:11:21,290
+Alubarna
 Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 149
-00:11:20,780 --> 00:11:20,830
+00:11:21,290 --> 00:11:21,330
+Alubarna
+Rainbase
 Katorea
+Nanohana
+Erumalu
+Yuba
 
 150
-00:11:20,780 --> 00:11:20,830
+00:11:21,330 --> 00:11:21,370
+Alubarna
+Rainbase
+Katorea
 Nanohana
+Erumalu
+Yuba
 
 151
-00:11:20,780 --> 00:11:20,830
+00:11:21,370 --> 00:11:21,410
+Alubarna
+Rainbase
+Katorea
+Nanohana
 Erumalu
+Yuba
 
 152
-00:11:20,780 --> 00:11:20,830
+00:11:21,410 --> 00:11:21,450
+Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
 Yuba
 
 153
-00:11:20,830 --> 00:11:20,870
+00:11:21,450 --> 00:11:21,490
 Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 154
-00:11:20,830 --> 00:11:20,870
+00:11:21,490 --> 00:11:21,540
+Alubarna
 Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 155
-00:11:20,830 --> 00:11:20,870
+00:11:21,540 --> 00:11:21,580
+Alubarna
+Rainbase
 Katorea
+Nanohana
+Erumalu
+Yuba
 
 156
-00:11:20,830 --> 00:11:20,870
+00:11:21,580 --> 00:11:21,620
+Alubarna
+Rainbase
+Katorea
 Nanohana
+Erumalu
+Yuba
 
 157
-00:11:20,830 --> 00:11:20,870
+00:11:21,620 --> 00:11:21,660
+Alubarna
+Rainbase
+Katorea
+Nanohana
 Erumalu
+Yuba
 
 158
-00:11:20,830 --> 00:11:20,870
+00:11:21,660 --> 00:11:21,700
+Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
 Yuba
 
 159
-00:11:20,870 --> 00:11:20,910
+00:11:21,700 --> 00:11:21,740
 Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 160
-00:11:20,870 --> 00:11:20,910
+00:11:21,740 --> 00:11:21,790
+Alubarna
 Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 161
-00:11:20,870 --> 00:11:20,910
+00:11:21,790 --> 00:11:21,830
+Alubarna
+Rainbase
 Katorea
+Nanohana
+Erumalu
+Yuba
 
 162
-00:11:20,870 --> 00:11:20,910
+00:11:21,830 --> 00:11:21,870
+Alubarna
+Rainbase
+Katorea
 Nanohana
+Erumalu
+Yuba
 
 163
-00:11:20,870 --> 00:11:20,910
+00:11:21,870 --> 00:11:21,910
+Alubarna
+Rainbase
+Katorea
+Nanohana
 Erumalu
+Yuba
 
 164
-00:11:20,870 --> 00:11:20,910
+00:11:21,910 --> 00:11:21,950
+Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
 Yuba
 
 165
-00:11:20,910 --> 00:11:20,950
+00:11:21,950 --> 00:11:21,990
 Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 166
-00:11:20,910 --> 00:11:20,950
+00:11:21,990 --> 00:11:22,040
+Alubarna
 Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 167
-00:11:20,910 --> 00:11:20,950
+00:11:22,040 --> 00:11:22,080
+Alubarna
+Rainbase
 Katorea
+Nanohana
+Erumalu
+Yuba
 
 168
-00:11:20,910 --> 00:11:20,950
+00:11:22,080 --> 00:11:22,120
+Alubarna
+Rainbase
+Katorea
 Nanohana
+Erumalu
+Yuba
 
 169
-00:11:20,910 --> 00:11:20,950
+00:11:22,120 --> 00:11:22,160
+Alubarna
+Rainbase
+Katorea
+Nanohana
 Erumalu
+Yuba
 
 170
-00:11:20,910 --> 00:11:20,950
+00:11:22,160 --> 00:11:22,200
+Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
 Yuba
 
 171
-00:11:20,950 --> 00:11:20,990
+00:11:22,200 --> 00:11:28,170
 Alubarna
+Rainbase
+Katorea
+Nanohana
+Erumalu
+Yuba
 
 172
-00:11:20,950 --> 00:11:20,990
-Rainbase
-
-173
-00:11:20,950 --> 00:11:20,990
-Katorea
-
-174
-00:11:20,950 --> 00:11:20,990
-Nanohana
-
-175
-00:11:20,950 --> 00:11:20,990
-Erumalu
-
-176
-00:11:20,950 --> 00:11:20,990
-Yuba
-
-177
-00:11:20,990 --> 00:11:21,040
-Alubarna
-
-178
-00:11:20,990 --> 00:11:21,040
-Rainbase
-
-179
-00:11:20,990 --> 00:11:21,040
-Katorea
-
-180
-00:11:20,990 --> 00:11:21,040
-Nanohana
-
-181
-00:11:20,990 --> 00:11:21,040
-Erumalu
-
-182
-00:11:20,990 --> 00:11:21,040
-Yuba
-
-183
-00:11:21,040 --> 00:11:21,080
-Alubarna
-
-184
-00:11:21,040 --> 00:11:21,080
-Rainbase
-
-185
-00:11:21,040 --> 00:11:21,080
-Katorea
-
-186
-00:11:21,040 --> 00:11:21,080
-Nanohana
-
-187
-00:11:21,040 --> 00:11:21,080
-Erumalu
-
-188
-00:11:21,040 --> 00:11:21,080
-Yuba
-
-189
-00:11:21,080 --> 00:11:21,120
-Alubarna
-
-190
-00:11:21,080 --> 00:11:21,120
-Rainbase
-
-191
-00:11:21,080 --> 00:11:21,120
-Katorea
-
-192
-00:11:21,080 --> 00:11:21,120
-Nanohana
-
-193
-00:11:21,080 --> 00:11:21,120
-Erumalu
-
-194
-00:11:21,080 --> 00:11:21,120
-Yuba
-
-195
-00:11:21,120 --> 00:11:21,160
-Alubarna
-
-196
-00:11:21,120 --> 00:11:21,160
-Rainbase
-
-197
-00:11:21,120 --> 00:11:21,160
-Katorea
-
-198
-00:11:21,120 --> 00:11:21,160
-Nanohana
-
-199
-00:11:21,120 --> 00:11:21,160
-Erumalu
-
-200
-00:11:21,120 --> 00:11:21,160
-Yuba
-
-201
-00:11:21,160 --> 00:11:21,200
-Alubarna
-
-202
-00:11:21,160 --> 00:11:21,200
-Rainbase
-
-203
-00:11:21,160 --> 00:11:21,200
-Katorea
-
-204
-00:11:21,160 --> 00:11:21,200
-Nanohana
-
-205
-00:11:21,160 --> 00:11:21,200
-Erumalu
-
-206
-00:11:21,160 --> 00:11:21,200
-Yuba
-
-207
-00:11:21,200 --> 00:11:21,240
-Alubarna
-
-208
-00:11:21,200 --> 00:11:21,240
-Rainbase
-
-209
-00:11:21,200 --> 00:11:21,240
-Katorea
-
-210
-00:11:21,200 --> 00:11:21,240
-Nanohana
-
-211
-00:11:21,200 --> 00:11:21,240
-Erumalu
-
-212
-00:11:21,200 --> 00:11:21,240
-Yuba
-
-213
-00:11:21,240 --> 00:11:21,290
-Alubarna
-
-214
-00:11:21,240 --> 00:11:21,290
-Rainbase
-
-215
-00:11:21,240 --> 00:11:21,290
-Katorea
-
-216
-00:11:21,240 --> 00:11:21,290
-Nanohana
-
-217
-00:11:21,240 --> 00:11:21,290
-Erumalu
-
-218
-00:11:21,240 --> 00:11:21,290
-Yuba
-
-219
-00:11:21,290 --> 00:11:21,330
-Alubarna
-
-220
-00:11:21,290 --> 00:11:21,330
-Rainbase
-
-221
-00:11:21,290 --> 00:11:21,330
-Katorea
-
-222
-00:11:21,290 --> 00:11:21,330
-Nanohana
-
-223
-00:11:21,290 --> 00:11:21,330
-Erumalu
-
-224
-00:11:21,290 --> 00:11:21,330
-Yuba
-
-225
-00:11:21,330 --> 00:11:21,370
-Alubarna
-
-226
-00:11:21,330 --> 00:11:21,370
-Rainbase
-
-227
-00:11:21,330 --> 00:11:21,370
-Katorea
-
-228
-00:11:21,330 --> 00:11:21,370
-Nanohana
-
-229
-00:11:21,330 --> 00:11:21,370
-Erumalu
-
-230
-00:11:21,330 --> 00:11:21,370
-Yuba
-
-231
-00:11:21,370 --> 00:11:21,410
-Alubarna
-
-232
-00:11:21,370 --> 00:11:21,410
-Rainbase
-
-233
-00:11:21,370 --> 00:11:21,410
-Katorea
-
-234
-00:11:21,370 --> 00:11:21,410
-Nanohana
-
-235
-00:11:21,370 --> 00:11:21,410
-Erumalu
-
-236
-00:11:21,370 --> 00:11:21,410
-Yuba
-
-237
-00:11:21,410 --> 00:11:21,450
-Alubarna
-
-238
-00:11:21,410 --> 00:11:21,450
-Rainbase
-
-239
-00:11:21,410 --> 00:11:21,450
-Katorea
-
-240
-00:11:21,410 --> 00:11:21,450
-Nanohana
-
-241
-00:11:21,410 --> 00:11:21,450
-Erumalu
-
-242
-00:11:21,410 --> 00:11:21,450
-Yuba
-
-243
-00:11:21,450 --> 00:11:21,490
-Alubarna
-
-244
-00:11:21,450 --> 00:11:21,490
-Rainbase
-
-245
-00:11:21,450 --> 00:11:21,490
-Katorea
-
-246
-00:11:21,450 --> 00:11:21,490
-Nanohana
-
-247
-00:11:21,450 --> 00:11:21,490
-Erumalu
-
-248
-00:11:21,450 --> 00:11:21,490
-Yuba
-
-249
-00:11:21,490 --> 00:11:21,540
-Alubarna
-
-250
-00:11:21,490 --> 00:11:21,540
-Rainbase
-
-251
-00:11:21,490 --> 00:11:21,540
-Katorea
-
-252
-00:11:21,490 --> 00:11:21,540
-Nanohana
-
-253
-00:11:21,490 --> 00:11:21,540
-Erumalu
-
-254
-00:11:21,490 --> 00:11:21,540
-Yuba
-
-255
-00:11:21,540 --> 00:11:21,580
-Alubarna
-
-256
-00:11:21,540 --> 00:11:21,580
-Rainbase
-
-257
-00:11:21,540 --> 00:11:21,580
-Katorea
-
-258
-00:11:21,540 --> 00:11:21,580
-Nanohana
-
-259
-00:11:21,540 --> 00:11:21,580
-Erumalu
-
-260
-00:11:21,540 --> 00:11:21,580
-Yuba
-
-261
-00:11:21,580 --> 00:11:21,620
-Alubarna
-
-262
-00:11:21,580 --> 00:11:21,620
-Rainbase
-
-263
-00:11:21,580 --> 00:11:21,620
-Katorea
-
-264
-00:11:21,580 --> 00:11:21,620
-Nanohana
-
-265
-00:11:21,580 --> 00:11:21,620
-Erumalu
-
-266
-00:11:21,580 --> 00:11:21,620
-Yuba
-
-267
-00:11:21,620 --> 00:11:21,660
-Alubarna
-
-268
-00:11:21,620 --> 00:11:21,660
-Rainbase
-
-269
-00:11:21,620 --> 00:11:21,660
-Katorea
-
-270
-00:11:21,620 --> 00:11:21,660
-Nanohana
-
-271
-00:11:21,620 --> 00:11:21,660
-Erumalu
-
-272
-00:11:21,620 --> 00:11:21,660
-Yuba
-
-273
-00:11:21,660 --> 00:11:21,700
-Alubarna
-
-274
-00:11:21,660 --> 00:11:21,700
-Rainbase
-
-275
-00:11:21,660 --> 00:11:21,700
-Katorea
-
-276
-00:11:21,660 --> 00:11:21,700
-Nanohana
-
-277
-00:11:21,660 --> 00:11:21,700
-Erumalu
-
-278
-00:11:21,660 --> 00:11:21,700
-Yuba
-
-279
-00:11:21,700 --> 00:11:21,740
-Alubarna
-
-280
-00:11:21,700 --> 00:11:21,740
-Rainbase
-
-281
-00:11:21,700 --> 00:11:21,740
-Katorea
-
-282
-00:11:21,700 --> 00:11:21,740
-Nanohana
-
-283
-00:11:21,700 --> 00:11:21,740
-Erumalu
-
-284
-00:11:21,700 --> 00:11:21,740
-Yuba
-
-285
-00:11:21,740 --> 00:11:21,790
-Alubarna
-
-286
-00:11:21,740 --> 00:11:21,790
-Rainbase
-
-287
-00:11:21,740 --> 00:11:21,790
-Katorea
-
-288
-00:11:21,740 --> 00:11:21,790
-Nanohana
-
-289
-00:11:21,740 --> 00:11:21,790
-Erumalu
-
-290
-00:11:21,740 --> 00:11:21,790
-Yuba
-
-291
-00:11:21,790 --> 00:11:21,830
-Alubarna
-
-292
-00:11:21,790 --> 00:11:21,830
-Rainbase
-
-293
-00:11:21,790 --> 00:11:21,830
-Katorea
-
-294
-00:11:21,790 --> 00:11:21,830
-Nanohana
-
-295
-00:11:21,790 --> 00:11:21,830
-Erumalu
-
-296
-00:11:21,790 --> 00:11:21,830
-Yuba
-
-297
-00:11:21,830 --> 00:11:21,870
-Alubarna
-
-298
-00:11:21,830 --> 00:11:21,870
-Rainbase
-
-299
-00:11:21,830 --> 00:11:21,870
-Katorea
-
-300
-00:11:21,830 --> 00:11:21,870
-Nanohana
-
-301
-00:11:21,830 --> 00:11:21,870
-Erumalu
-
-302
-00:11:21,830 --> 00:11:21,870
-Yuba
-
-303
-00:11:21,870 --> 00:11:21,910
-Alubarna
-
-304
-00:11:21,870 --> 00:11:21,910
-Rainbase
-
-305
-00:11:21,870 --> 00:11:21,910
-Katorea
-
-306
-00:11:21,870 --> 00:11:21,910
-Nanohana
-
-307
-00:11:21,870 --> 00:11:21,910
-Erumalu
-
-308
-00:11:21,870 --> 00:11:21,910
-Yuba
-
-309
-00:11:21,910 --> 00:11:21,950
-Alubarna
-
-310
-00:11:21,910 --> 00:11:21,950
-Rainbase
-
-311
-00:11:21,910 --> 00:11:21,950
-Katorea
-
-312
-00:11:21,910 --> 00:11:21,950
-Nanohana
-
-313
-00:11:21,910 --> 00:11:21,950
-Erumalu
-
-314
-00:11:21,910 --> 00:11:21,950
-Yuba
-
-315
-00:11:21,950 --> 00:11:21,990
-Alubarna
-
-316
-00:11:21,950 --> 00:11:21,990
-Rainbase
-
-317
-00:11:21,950 --> 00:11:21,990
-Katorea
-
-318
-00:11:21,950 --> 00:11:21,990
-Nanohana
-
-319
-00:11:21,950 --> 00:11:21,990
-Erumalu
-
-320
-00:11:21,950 --> 00:11:21,990
-Yuba
-
-321
-00:11:21,990 --> 00:11:22,040
-Alubarna
-
-322
-00:11:21,990 --> 00:11:22,040
-Rainbase
-
-323
-00:11:21,990 --> 00:11:22,040
-Katorea
-
-324
-00:11:21,990 --> 00:11:22,040
-Nanohana
-
-325
-00:11:21,990 --> 00:11:22,040
-Erumalu
-
-326
-00:11:21,990 --> 00:11:22,040
-Yuba
-
-327
-00:11:22,040 --> 00:11:22,080
-Alubarna
-
-328
-00:11:22,040 --> 00:11:22,080
-Rainbase
-
-329
-00:11:22,040 --> 00:11:22,080
-Katorea
-
-330
-00:11:22,040 --> 00:11:22,080
-Nanohana
-
-331
-00:11:22,040 --> 00:11:22,080
-Erumalu
-
-332
-00:11:22,040 --> 00:11:22,080
-Yuba
-
-333
-00:11:22,080 --> 00:11:22,120
-Alubarna
-
-334
-00:11:22,080 --> 00:11:22,120
-Rainbase
-
-335
-00:11:22,080 --> 00:11:22,120
-Katorea
-
-336
-00:11:22,080 --> 00:11:22,120
-Nanohana
-
-337
-00:11:22,080 --> 00:11:22,120
-Erumalu
-
-338
-00:11:22,080 --> 00:11:22,120
-Yuba
-
-339
-00:11:22,120 --> 00:11:22,160
-Alubarna
-
-340
-00:11:22,120 --> 00:11:22,160
-Rainbase
-
-341
-00:11:22,120 --> 00:11:22,160
-Katorea
-
-342
-00:11:22,120 --> 00:11:22,160
-Nanohana
-
-343
-00:11:22,120 --> 00:11:22,160
-Erumalu
-
-344
-00:11:22,120 --> 00:11:22,160
-Yuba
-
-345
-00:11:22,160 --> 00:11:22,200
-Alubarna
-
-346
-00:11:22,160 --> 00:11:22,200
-Rainbase
-
-347
-00:11:22,160 --> 00:11:22,200
-Katorea
-
-348
-00:11:22,160 --> 00:11:22,200
-Nanohana
-
-349
-00:11:22,160 --> 00:11:22,200
-Erumalu
-
-350
-00:11:22,160 --> 00:11:22,200
-Yuba
-
-351
-00:11:22,200 --> 00:11:28,170
-Alubarna
-
-352
-00:11:22,200 --> 00:11:28,170
-Rainbase
-
-353
-00:11:22,200 --> 00:11:28,170
-Katorea
-
-354
-00:11:22,200 --> 00:11:28,170
-Nanohana
-
-355
-00:11:22,200 --> 00:11:28,170
-Erumalu
-
-356
-00:11:22,200 --> 00:11:28,170
-Yuba
-
-357
 00:11:22,680 --> 00:11:25,060
 All ihre Gefühle stehen im Widerspruch
 
-358
+173
 00:11:25,060 --> 00:11:28,170
 und prallen in der Hauptstadt Alubarna aufeinander.
 
-359
+174
 00:11:31,590 --> 00:11:34,510
 Was? Wir können mit dieser
 Krabbe nicht den Fluss überqueren?
 
-360
+175
 00:11:34,510 --> 00:11:38,770
 Umzugskrebse sind Wüstentiere,
 daher vertragen sie kein Wasser.
 
-361
+176
 00:11:38,770 --> 00:11:43,480
 Aber das ist doch eine Krabbe, oder?
 Eine Krabbe! Kein Hummer! Mach was!
 
-362
+177
 00:11:44,230 --> 00:11:46,610
 Hey, das ist übel! Gar nicht gut.
 
-363
+178
 00:11:46,610 --> 00:11:47,440
 Seht mal!
 
-364
+179
 00:11:48,020 --> 00:11:51,050
 Wenn wir gemütlich durch diesen Fluss
 schwimmen, der breit wie ein See ist,
 
-365
+180
 00:11:51,050 --> 00:11:53,140
 schaffen wir’s nicht
 rechtzeitig! Und seht mal!
 
-366
+181
 00:11:53,140 --> 00:11:56,580
 Hinter dem Fluss warten noch weitere
 etliche Kilometer Wüste auf uns!
 
-367
+182
 00:11:56,580 --> 00:11:58,820
 Wenn diese Krabbe nicht
 ans andere Ufer kommt,
 
-368
+183
 00:11:58,820 --> 00:12:00,410
 rennen wir dann ab dort?
 
-369
+184
 00:12:00,590 --> 00:12:01,660
 Uns bleibt nichts anderes übrig.
 
-370
+185
 00:12:01,660 --> 00:12:03,490
 Das schaffen wir doch nie rechtzeitig!
 
-371
+186
 00:12:03,490 --> 00:12:05,960
 Das ist völlig unmöglich!
 
-372
+187
 00:12:12,800 --> 00:12:15,170
 Oh nein! Der Fluss!
 
-373
+188
 00:12:15,170 --> 00:12:17,630
 Ich kann den Sandora-Fluss sehen!
 
-374
+189
 00:12:16,980 --> 00:12:17,630
 Was?!
 
-375
+190
 00:12:17,630 --> 00:12:20,010
 Mach was, Schere!
 
-376
+191
 00:12:20,390 --> 00:12:23,100
 Stimmt ja! Schere mag Tänzerinnen.
 
-377
+192
 00:12:25,800 --> 00:12:26,960
 Genügt das?
 
-378
+193
 00:12:26,960 --> 00:12:27,940
 Vermutlich.
 
-379
+194
 00:12:27,940 --> 00:12:29,140
 Meine Güte!
 
-380
+195
 00:12:31,640 --> 00:12:33,570
 Ah, er schaut her.
 
-381
+196
 00:12:36,010 --> 00:12:37,380
 Wir beschleunigen!
 
-382
+197
 00:12:37,380 --> 00:12:40,040
 Nami!
 
-383
+198
 00:12:43,680 --> 00:12:45,780
 Mit diesem Unsinn habt ihr
 gleich zwei Tiere versaut!
 
-384
+199
 00:12:45,780 --> 00:12:48,210
 Los, Kraft der Lust!
 
-385
+200
 00:12:49,420 --> 00:12:53,170
 Und? Was soll das nun
 gebracht haben? Chopper!
 
-386
+201
 00:12:59,510 --> 00:13:00,630
 Los!
 
-387
+202
 00:13:03,600 --> 00:13:04,840
 Er macht’s!
 
-388
+203
 00:13:06,020 --> 00:13:09,560
 Hey, hey! Die Krabbe ist ja
 der Hammer. Unfassbar!
 
-389
+204
 00:13:09,560 --> 00:13:11,310
 Boah, geilo!
 
-390
+205
 00:13:11,310 --> 00:13:14,320
 Ein Wunder! Bleib auf
 dem Wasser und renn!
 
-391
+206
 00:13:14,320 --> 00:13:17,530
 Renn, renn, renn den
 ganzen Weg! Los!
 
-392
+207
 00:13:17,530 --> 00:13:21,700
 Du schaffst das! Immer weiter!
 Du packst das! Diese Krabbe packt das!
 
-393
+208
 00:13:21,700 --> 00:13:24,770
 Hey, was wird das?
 Liegt’s an mir oder sinken wir?
 
-394
+209
 00:13:24,770 --> 00:13:26,440
 Wir sinken!
 
-395
+210
 00:13:30,860 --> 00:13:32,370
 Versink nicht, du Krabbe!
 
-396
+211
 00:13:32,370 --> 00:13:36,000
 Hör auf zu jammern.
 Wir ziehen weiter.
 
-397
+212
 00:13:36,000 --> 00:13:38,300
 M-Moment mal!
 
-398
+213
 00:13:38,300 --> 00:13:41,970
 Gibt es denn keine Boote? Wie viele
 Kilometer bis zum anderen Ufer?
 
-399
+214
 00:13:41,970 --> 00:13:43,340
 Etwa 50 Kilometer.
 
-400
+215
 00:13:43,340 --> 00:13:44,300
 Wer soll das schwimmen können?
 
-401
+216
 00:13:46,560 --> 00:13:48,390
 Danke!
 
-402
+217
 00:13:48,390 --> 00:13:50,560
 Danke, Schere!
 
-403
+218
 00:13:50,560 --> 00:13:53,400
 Das ist der falsche Zeitpunkt,
 sich nett zu verabschieden!
 
-404
+219
 00:13:56,350 --> 00:13:57,940
 Was?!
 
-405
+220
 00:14:00,070 --> 00:14:03,490
 Das ist ein seltener Sandora-Wels!
 Die sieht man nur sehr selten!
 
-406
+221
 00:14:03,490 --> 00:14:05,810
 Das brauchst du nicht erklären!
 
-407
+222
 00:14:06,880 --> 00:14:08,990
 Menschen sind ihre Leibspeise!
 
-408
+223
 00:14:08,990 --> 00:14:11,330
 Sag das doch gleich!
 
-409
+224
 00:14:20,460 --> 00:14:22,700
 Hey, lass los! Ich kann nichts sehen!
 
-410
+225
 00:14:22,700 --> 00:14:24,470
 Chopper, lass los!
 
-411
+226
 00:14:33,090 --> 00:14:34,810
 Kung Fu Dugongs?!
 
-412
+227
 00:14:34,810 --> 00:14:34,850
 Kung Fu Dugongs?!
 
-413
+228
 00:14:34,850 --> 00:14:34,890
 Kung Fu Dugongs?!
 
-414
+229
 00:14:34,890 --> 00:14:34,930
 Kung Fu Dugongs?!
 
-415
+230
 00:14:34,930 --> 00:14:34,970
 Kung Fu Dugongs?!
 
-416
+231
 00:14:34,970 --> 00:14:35,020
 Kung Fu Dugongs?!
 
-417
+232
 00:14:35,020 --> 00:14:35,060
 Kung Fu Dugongs?!
 
-418
+233
 00:14:35,970 --> 00:14:38,370
 Sie würden niemals seine
 ältesten Schüler im Stich lassen.
 
-419
+234
 00:14:38,370 --> 00:14:41,580
 Nun, wir sind ja nicht
 Luffys Schüler oder so...
 
-420
+235
 00:14:41,580 --> 00:14:43,710
 Trotzdem haben sie uns gerettet.
 
-421
+236
 00:14:43,710 --> 00:14:46,990
 Gut, nur noch ein
 Stückchen! Haut rein!
 
-422
+237
 00:14:46,550 --> 00:14:48,160
 Danke!
 
-423
+238
 00:14:48,160 --> 00:14:50,390
 Bye-bye!
 
-424
+239
 00:14:52,660 --> 00:14:55,120
 Das läuft ja wie am Schnürchen.
 Schaffen wir es noch?
 
-425
+240
 00:14:55,120 --> 00:14:56,610
 Das wird schwierig.
 
-426
+241
 00:14:56,610 --> 00:14:59,330
 Selbst wenn wir auf Wimper reiten,
 könnte es knapp werden.
 
-427
+242
 00:14:59,330 --> 00:15:02,740
 Vor allem kann er nur
 zwei von uns tragen!
 
-428
+243
 00:15:02,740 --> 00:15:06,390
 Ab hier würde uns auch die
 Baroque-Firma angreifen.
 
-429
+244
 00:15:06,390 --> 00:15:09,300
 Können wir nicht irgendwie
 alle zusammenbleiben?
 
-430
+245
 00:15:17,440 --> 00:15:19,300
 Schaut dort drüben!
 
-431
+246
 00:15:19,300 --> 00:15:22,730
 Was? Ist das der Feind?
 I-I-Ist er schon hier?
 
-432
+247
 00:15:25,030 --> 00:15:26,740
 N-Nein! Das ist...
 
-433
+248
 00:15:27,980 --> 00:15:29,640
 Karoo!
 
-434
+249
 00:15:29,030 --> 00:15:34,120
 Korpsführer Karoo
 Rennentenkorps
 (Schnellster Trupp Alabastas)
 
-435
+250
 00:15:30,650 --> 00:15:33,550
 Und das Rennentenkorps!
 
-436
+251
 00:15:35,310 --> 00:15:36,910
 Ihr holt uns ab, oder?
 
-437
+252
 00:15:38,200 --> 00:15:39,380
 Karoo!
 
-438
+253
 00:16:01,270 --> 00:16:05,320
 Fleisch!
 
-439
+254
 00:16:12,360 --> 00:16:18,120
 Wir beide sind Piraten auf
 völlig verschiedenen Niveaus.
 
-440
+255
 00:16:18,120 --> 00:16:20,060
 Yuba wird sterben.
 
-441
+256
 00:16:20,060 --> 00:16:24,610
 Und dann wird die Flamme des Hasses
 der Rebellen noch heißer brennen.
 
-442
+257
 00:17:14,290 --> 00:17:17,180
 Danke...
 
-443
+258
 00:17:22,340 --> 00:17:23,730
 Wieso kämpfst du?
 
-444
+259
 00:17:29,490 --> 00:17:31,700
 Ihr mit dem Namen „D“?
 
-445
+260
 00:17:33,870 --> 00:17:35,520
 „D”...?
 
-446
+261
 00:17:37,190 --> 00:17:39,710
 Wer seid ihr?
 
-447
+262
 00:17:42,560 --> 00:17:45,110
 Das war wohl eine
 sinnlose Frage, wie?
 
-448
+263
 00:17:51,230 --> 00:17:52,380
 Hab ich dich!
 
-449
+264
 00:17:58,040 --> 00:17:59,520
 Wo ist Prinzessin Vivi?
 
-450
+265
 00:18:00,020 --> 00:18:01,130
 Herrje.
 
-451
+266
 00:18:02,140 --> 00:18:03,730
 Du bist schon wieder wach?
 
-452
+267
 00:18:04,660 --> 00:18:07,030
 Da ich nun deine Fähigkeit kenne,
 
-453
+268
 00:18:07,030 --> 00:18:09,280
 wird das nicht wie beim
 letzten Mal enden!
 
-454
+269
 00:18:11,440 --> 00:18:14,820
 Überanstreng dich nicht.
 Du bist schwer verletzt.
 
-455
+270
 00:18:20,750 --> 00:18:24,830
 Das kommt mir gerade recht.
 Wieso rettest du den Burschen nicht?
 
-456
+271
 00:18:27,730 --> 00:18:30,000
 Er ist ein tapferer Ritter,
 
-457
+272
 00:18:30,000 --> 00:18:34,260
 der deine kostbare Prinzessin in
 dieses Land zurückgebracht hat.
 
-458
+273
 00:18:35,090 --> 00:18:38,060
 Außerdem ist die
 Prinzessin in Sicherheit.
 
-459
+274
 00:18:38,060 --> 00:18:40,300
 Sie ist gerade auf dem
 Weg nach Alubarna.
 
-460
+275
 00:18:38,100 --> 00:18:42,270
 Accelegator
 Zweitschnellstes
 Tier in Alabasta
-
-461
-00:18:38,100 --> 00:18:42,270
 (                                )
 
-462
+276
 00:18:40,300 --> 00:18:43,730
 Was aber dort aus ihr wird,
 kann ich dir nicht sagen.
 
-463
+277
 00:18:43,730 --> 00:18:45,730
 Man weiß aktuell ja nie.
 
-464
+278
 00:18:59,890 --> 00:19:04,890
 Wenn ich nicht gegen sie ankomme,
 wer soll Prinzessin Vivi dann beschützen?
 
-465
+279
 00:19:09,270 --> 00:19:12,010
 Fleisch!
 
-466
+280
 00:19:12,710 --> 00:19:17,300
 Nanohana, eine Hafenstadt
 
-467
+281
 00:19:13,110 --> 00:19:16,040
 Die letzte Rebellion beginnt nun endlich, wie?
 
-468
+282
 00:19:16,710 --> 00:19:18,050
 Das war ein Schiff.
 
-469
+283
 00:19:18,400 --> 00:19:22,890
 Prinzessin Vivi und die anderen scheinen
 sicher in diesem Land angekommen zu sein.
 
-470
+284
 00:19:22,890 --> 00:19:26,520
 Ich muss mich beeilen.
 Hoffentlich komme ich noch rechtzeitig.
 
-471
+285
 00:19:27,880 --> 00:19:29,900
 H-Hey! Alles in Ordnung?
 
-472
+286
 00:19:29,900 --> 00:19:31,790
 Fleisch...
 
-473
+287
 00:19:35,220 --> 00:19:37,100
 Fleisch...
 
-474
+288
 00:19:37,100 --> 00:19:40,220
 Fleisch? In deiner Verfassung?
 
-475
+289
 00:19:40,220 --> 00:19:42,660
 Was faselst du da? Warte.
 
-476
+290
 00:19:43,190 --> 00:19:45,190
 Ich werde einen Arzt holen.
 
-477
+291
 00:19:48,130 --> 00:19:53,630
 Crocodile wird dafür büßen...
 
-478
+292
 00:19:55,900 --> 00:20:00,800
 Er hat sich über Vivi und den
 schrumpeligen Alten lustig gemacht...
 
-479
+293
 00:20:01,360 --> 00:20:03,770
 Dafür wird er so was von büßen...
 
-480
+294
 00:20:05,780 --> 00:20:08,230
 Wer in aller Welt bist du?
 
-481
+295
 00:20:09,450 --> 00:20:11,250
 Fleisch...
 
-482
+296
 00:20:32,540 --> 00:20:35,260
 Da! Es ist noch weit weg,
 aber das ist Alubarna!
 
-483
+297
 00:20:37,150 --> 00:20:40,120
 Koza, in weniger als
 30 Minuten sind wir da.
 
-484
+298
 00:20:40,120 --> 00:20:41,260
 Ja!
 
-485
+299
 00:20:41,260 --> 00:20:43,720
 Alubarna ist nah!
 
-486
+300
 00:20:43,720 --> 00:20:46,170
 Fasst all euren Mut zusammen!
 
-487
+301
 00:20:50,960 --> 00:20:54,860
 Meister Chaka! Wir haben die Rebellen
 etwa 15 km von hier im Süden gesichtet.
 
-488
+302
 00:20:55,490 --> 00:20:59,010
 Ihre Armee zählt zwei Millionen
 Mann und stürmt aufs Südtor zu.
 
-489
+303
 00:20:59,010 --> 00:21:02,820
 Osten, Westen, Süden,
 Südosten, Südwesten...
 
-490
+304
 00:21:02,820 --> 00:21:04,530
 Verteidigt alle Tore mit euren Leben!
 
-491
+305
 00:21:05,520 --> 00:21:08,520
 Lasst sie keinen Fuß
 in diese Stadt setzen!
 
-492
+306
 00:21:08,520 --> 00:21:09,710
 Jawohl!
 
-493
+307
 00:21:20,510 --> 00:21:26,520
 Westtor, Alubarna
 
-494
+308
 00:21:25,140 --> 00:21:29,160
 Hey, schaut mal da! Die Rebellen sind in Sicht!
 
-495
+309
 00:21:29,160 --> 00:21:30,980
 Das ist ja echt ein ganzer Haufen!
 
-496
+310
 00:21:30,980 --> 00:21:35,040
 Die Prinzessin wäre echt dämlich,
 wenn sie die noch aufhalten will.
 
-497
+311
 00:21:35,040 --> 00:21:39,440
 Aber wird die dumme Kuh
 auch wirklich aufkreuzen?
 
-498
+312
 00:21:39,440 --> 00:21:43,230
 Oder kommt sie nicht?
 Kommt sie? Kommt sie nicht?
 
-499
+313
 00:21:43,230 --> 00:21:44,320
 Das ist alles so vage!
 
-500
+314
 00:21:44,320 --> 00:21:45,950
 Hey, hey, hey, hey, hey, hey!
 
-501
+315
 00:21:45,950 --> 00:21:48,170
 Sind wir uns ganz sicher
  Ganz sicher?
 
-502
+316
 00:21:48,170 --> 00:21:50,920
 Die Prinzessin und die Piraten
 werden doch kommen, oder?
 
-503
+317
 00:21:50,920 --> 00:21:53,830
 Die Rebellenarmee wird aber so
 noch zuerst hier ankommen!
 
-504
+318
 00:21:53,830 --> 00:21:55,920
 Wollen sie die denn ums
 Verrecken nicht aufhalten?
 
-505
+319
 00:21:56,440 --> 00:21:59,000
 Gut möglich, dass sie es
 nicht rechtzeitig her schaffen.
 
-506
+320
 00:21:59,000 --> 00:22:04,170
 Da... kommen... sie...
 
-507
+321
 00:21:59,750 --> 00:22:04,170
 Immerhin haben sie viel
 Zeit in Rainbase verloren.
 
-508
+322
 00:22:04,170 --> 00:22:05,390
 Was du nicht sagst!
 
-509
+323
 00:22:06,580 --> 00:22:09,520
 Und? Wenn die Rebellion
 nun zuerst beginnt,
 
-510
+324
 00:22:09,520 --> 00:22:12,140
 was sollen wir dann deux?
 
-511
+325
 00:22:12,140 --> 00:22:15,120
 Wir müssen gar nichts deux, oder?
 
-512
+326
 00:22:15,120 --> 00:22:19,820
 Sobald der Krieg beginnt, kann nicht mal
 die Prinzessin mehr etwas ausrichten.
 
-513
+327
 00:22:19,820 --> 00:22:23,590
 Wir müssen nur diejenigen ausschalten,
 die wir ausschalten sollen.
 
-514
+328
 00:22:23,590 --> 00:22:26,510
 Kommst du da echt
 nicht selbst drauf?
 
-515
+329
 00:22:26,510 --> 00:22:29,720
 Klingt ganz so, als würdest du gerne
 durch meine Kampfkunst sterben.
 
-516
+330
 00:22:29,720 --> 00:22:31,510
 Hört auf zu streiten, ihr beiden.
 
-517
+331
 00:22:31,510 --> 00:22:33,800
 Ah, mein Rücken!
 Mein Rücken schmerzt!
 
-518
+332
 00:22:33,800 --> 00:22:39,750
 Sie... kommen...
 
-519
+333
 00:22:33,800 --> 00:22:36,750
 Mr. 4, massier ihn mir!
 
-520
+334
 00:22:39,750 --> 00:22:40,760
 Was?!
 
-521
+335
 00:22:41,330 --> 00:22:44,380
 Wieso sagst du das nicht früher,
 du vollverblödete Daruma-Puppe?!
 
-522
+336
 00:22:47,220 --> 00:22:49,190
 Enten?
 
-523
+337
 00:22:50,220 --> 00:22:54,690
 Enten? Was meinst du damit,
 Miss Merry Christmas?
 
-524
+338
 00:22:54,690 --> 00:22:57,980
 Die werden immer mehr,
 oder? Sie sind zu sechst.
 
-525
+339
 00:22:57,980 --> 00:23:02,110
 Laut unserer Liste müssten sie ohne
 den Strohhut zu viert sein, oder?
 
-526
+340
 00:23:02,580 --> 00:23:05,020
 Du irrst dich, Miss Merry Christmas...
 
-527
+341
 00:23:05,020 --> 00:23:09,570
 Hast du dem Boss nicht zugehört?
 Da wäre doch noch dieser Mr. Prince.
 
-528
+342
 00:23:09,570 --> 00:23:13,620
 Er sagte doch, es wäre noch einer mehr.
 Mit den beiden passt es doch.
 
-529
+343
 00:23:14,360 --> 00:23:17,290
 Egal, wie viele sie sind,
 unser Ziel ist nur Vivi.
 
-530
+344
 00:23:18,030 --> 00:23:20,070
 Was wirst du so nervös?
 
-531
+345
 00:23:20,800 --> 00:23:23,300
 Mr. 1...
 
-532
+346
 00:23:23,300 --> 00:23:26,590
 Wir müssen nur Vivi erledigen?
 
-533
+347
 00:23:27,720 --> 00:23:29,050
 Na,
 
-534
+348
 00:23:30,460 --> 00:23:33,020
 dann finde doch mal raus,
 wer davon Vivi ist!
 
-535
+349
 00:23:34,310 --> 00:23:36,520
 Sie tragen alle dieselben Mäntel!
 
-536
+350
 00:23:38,980 --> 00:23:41,320
 Außerdem sind das die
 schnellsten Vögel Alabastas,
 
-537
+351
 00:23:41,720 --> 00:23:43,280
 das Rennentenkorps!
 
-538
+352
 00:23:48,270 --> 00:23:50,410
 Diese Mistkerle!
 
-539
+353
 00:23:50,410 --> 00:23:53,330
 Woher sollen wir jetzt
 noch wissen, wer Vivi ist?
 
-540
+354
 00:23:53,330 --> 00:23:55,790
 Das ist einfach zu vage!
 
-541
+355
 00:23:55,790 --> 00:23:58,370
 Das ist einfach zu vage!
 
-542
+356
 00:23:58,370 --> 00:24:00,800
 Das ist einfach zu vage!
 
-543
+357
 00:24:06,160 --> 00:24:07,930
 Zeig’s ihnen, Mr. 4!
 
-544
+358
 00:24:12,060 --> 00:24:13,060
 Bleibt fern!
 
-545
+359
 00:24:16,060 --> 00:24:19,020
 Ausgewichen!
 Diese Vögel sind schnell, wie?
 
-546
+360
 00:24:21,110 --> 00:24:23,860
 Zwei sind nach Süden!
 Sie teilen sich auf!
 
-547
+361
 00:24:23,860 --> 00:24:26,360
 Sie wollen wohl zum Südtor!
 
-548
+362
 00:24:26,780 --> 00:24:29,300
 Damit wären sie direkt
 bei der Rebellenarmee.
 
-549
+363
 00:24:29,300 --> 00:24:32,080
 Einer von denen wird
 dann wohl Vivi sein?
 
-550
+364
 00:24:32,080 --> 00:24:34,620
 Wir übernehmen die beiden!
 
-551
+365
 00:24:35,020 --> 00:24:36,790
 Los, Mr. 4!
 
-552
+366
 00:24:39,040 --> 00:24:42,000
 Spezialattacke: Feuer-Stern!
 
-553
+367
 00:24:45,340 --> 00:24:49,430
 Mr. 1, die beiden reiten da lang!
 Das könnte Vivi sein!
 
-554
+368
 00:24:50,020 --> 00:24:52,470
 Sie wollen durchs Westtor.
 
-555
+369
 00:24:52,470 --> 00:24:54,600
 Ihr Maden...
 
-556
+370
 00:24:54,600 --> 00:24:56,140
 Ihnen nach!
 
-557
+371
 00:24:57,770 --> 00:24:59,610
 Un... deux!
 
-558
+372
 00:24:59,610 --> 00:25:02,360
 Gut! Wir reiten zum Südwesttor!
 
-559
+373
 00:25:05,320 --> 00:25:10,030
 West
-
-560
-00:25:05,320 --> 00:25:10,030
 Ost
-
-561
-00:25:05,320 --> 00:25:10,030
 Südwest
-
-562
-00:25:05,320 --> 00:25:10,030
 Südost
-
-563
-00:25:05,320 --> 00:25:10,030
 Süd
 
-564
+374
 00:25:05,810 --> 00:25:09,890
 Von Westen aus können sie es bei drei
 der fünf Tore von Alubarna versuchen.
 
-565
+375
 00:25:10,030 --> 00:25:10,070
 West
-
-566
-00:25:10,030 --> 00:25:10,070
 Ost
-
-567
-00:25:10,030 --> 00:25:10,070
 Südwest
-
-568
-00:25:10,030 --> 00:25:10,070
 Südost
-
-569
-00:25:10,030 --> 00:25:10,070
 Süd
 
-570
+376
 00:25:10,070 --> 00:25:10,110
 West
-
-571
-00:25:10,070 --> 00:25:10,110
 Ost
-
-572
-00:25:10,070 --> 00:25:10,110
 Südwest
-
-573
-00:25:10,070 --> 00:25:10,110
 Südost
-
-574
-00:25:10,070 --> 00:25:10,110
 Süd
 
-575
+377
 00:25:10,110 --> 00:25:10,150
 West
-
-576
-00:25:10,110 --> 00:25:10,150
 Ost
-
-577
-00:25:10,110 --> 00:25:10,150
 Südwest
-
-578
-00:25:10,110 --> 00:25:10,150
 Südost
-
-579
-00:25:10,110 --> 00:25:10,150
 Süd
 
-580
+378
 00:25:10,150 --> 00:25:10,190
 West
-
-581
-00:25:10,150 --> 00:25:10,190
 Ost
-
-582
-00:25:10,150 --> 00:25:10,190
 Südwest
-
-583
-00:25:10,150 --> 00:25:10,190
 Südost
-
-584
-00:25:10,150 --> 00:25:10,190
 Süd
 
-585
+379
 00:25:10,190 --> 00:25:10,230
 West
-
-586
-00:25:10,190 --> 00:25:10,230
 Ost
-
-587
-00:25:10,190 --> 00:25:10,230
 Südwest
-
-588
-00:25:10,190 --> 00:25:10,230
 Südost
-
-589
-00:25:10,190 --> 00:25:10,230
 Süd
 
-590
+380
 00:25:10,230 --> 00:25:10,280
 West
-
-591
-00:25:10,230 --> 00:25:10,280
 Ost
-
-592
-00:25:10,230 --> 00:25:10,280
 Südwest
-
-593
-00:25:10,230 --> 00:25:10,280
 Südost
-
-594
-00:25:10,230 --> 00:25:10,280
 Süd
 
-595
+381
 00:25:10,280 --> 00:25:10,320
 West
-
-596
-00:25:10,280 --> 00:25:10,320
 Ost
-
-597
-00:25:10,280 --> 00:25:10,320
 Südwest
-
-598
-00:25:10,280 --> 00:25:10,320
 Südost
-
-599
-00:25:10,280 --> 00:25:10,320
 Süd
 
-600
+382
 00:25:10,320 --> 00:25:10,360
 West
-
-601
-00:25:10,320 --> 00:25:10,360
 Ost
-
-602
-00:25:10,320 --> 00:25:10,360
 Südwest
-
-603
-00:25:10,320 --> 00:25:10,360
 Südost
-
-604
-00:25:10,320 --> 00:25:10,360
 Süd
 
-605
+383
 00:25:10,360 --> 00:25:10,400
 West
-
-606
-00:25:10,360 --> 00:25:10,400
 Ost
-
-607
-00:25:10,360 --> 00:25:10,400
 Südwest
-
-608
-00:25:10,360 --> 00:25:10,400
 Südost
-
-609
-00:25:10,360 --> 00:25:10,400
 Süd
 
-610
+384
 00:25:10,390 --> 00:25:12,450
 Sie teilen sich auf und
 wollen so reinkommen, ja?
 
-611
+385
 00:25:10,400 --> 00:25:10,440
 West
-
-612
-00:25:10,400 --> 00:25:10,440
 Ost
-
-613
-00:25:10,400 --> 00:25:10,440
 Südwest
-
-614
-00:25:10,400 --> 00:25:10,440
 Südost
-
-615
-00:25:10,400 --> 00:25:10,440
 Süd
 
-616
+386
 00:25:10,440 --> 00:25:10,480
 West
-
-617
-00:25:10,440 --> 00:25:10,480
 Ost
-
-618
-00:25:10,440 --> 00:25:10,480
 Südwest
-
-619
-00:25:10,440 --> 00:25:10,480
 Südost
-
-620
-00:25:10,440 --> 00:25:10,480
 Süd
 
-621
+387
 00:25:10,480 --> 00:25:10,530
 West
-
-622
-00:25:10,480 --> 00:25:10,530
 Ost
-
-623
-00:25:10,480 --> 00:25:10,530
 Südwest
-
-624
-00:25:10,480 --> 00:25:10,530
 Südost
-
-625
-00:25:10,480 --> 00:25:10,530
 Süd
 
-626
+388
 00:25:10,530 --> 00:25:10,570
 West
-
-627
-00:25:10,530 --> 00:25:10,570
 Ost
-
-628
-00:25:10,530 --> 00:25:10,570
 Südwest
-
-629
-00:25:10,530 --> 00:25:10,570
 Südost
-
-630
-00:25:10,530 --> 00:25:10,570
 Süd
 
-631
+389
 00:25:10,570 --> 00:25:10,610
 West
-
-632
-00:25:10,570 --> 00:25:10,610
 Ost
-
-633
-00:25:10,570 --> 00:25:10,610
 Südwest
-
-634
-00:25:10,570 --> 00:25:10,610
 Südost
-
-635
-00:25:10,570 --> 00:25:10,610
 Süd
 
-636
+390
 00:25:10,610 --> 00:25:10,650
 West
-
-637
-00:25:10,610 --> 00:25:10,650
 Ost
-
-638
-00:25:10,610 --> 00:25:10,650
 Südwest
-
-639
-00:25:10,610 --> 00:25:10,650
 Südost
-
-640
-00:25:10,610 --> 00:25:10,650
 Süd
 
-641
+391
 00:25:10,650 --> 00:25:10,690
 West
-
-642
-00:25:10,650 --> 00:25:10,690
 Ost
-
-643
-00:25:10,650 --> 00:25:10,690
 Südwest
-
-644
-00:25:10,650 --> 00:25:10,690
 Südost
-
-645
-00:25:10,650 --> 00:25:10,690
 Süd
 
-646
+392
 00:25:10,690 --> 00:25:10,730
 West
-
-647
-00:25:10,690 --> 00:25:10,730
 Ost
-
-648
-00:25:10,690 --> 00:25:10,730
 Südwest
-
-649
-00:25:10,690 --> 00:25:10,730
 Südost
-
-650
-00:25:10,690 --> 00:25:10,730
 Süd
 
-651
+393
 00:25:10,730 --> 00:25:10,780
 West
-
-652
-00:25:10,730 --> 00:25:10,780
 Ost
-
-653
-00:25:10,730 --> 00:25:10,780
 Südwest
-
-654
-00:25:10,730 --> 00:25:10,780
 Südost
-
-655
-00:25:10,730 --> 00:25:10,780
 Süd
 
-656
+394
 00:25:10,780 --> 00:25:10,820
 West
-
-657
-00:25:10,780 --> 00:25:10,820
 Ost
-
-658
-00:25:10,780 --> 00:25:10,820
 Südwest
-
-659
-00:25:10,780 --> 00:25:10,820
 Südost
-
-660
-00:25:10,780 --> 00:25:10,820
 Süd
 
-661
+395
 00:25:10,820 --> 00:25:10,860
 West
-
-662
-00:25:10,820 --> 00:25:10,860
 Ost
-
-663
-00:25:10,820 --> 00:25:10,860
 Südwest
-
-664
-00:25:10,820 --> 00:25:10,860
 Südost
-
-665
-00:25:10,820 --> 00:25:10,860
 Süd
 
-666
+396
 00:25:10,860 --> 00:25:10,900
 West
-
-667
-00:25:10,860 --> 00:25:10,900
 Ost
-
-668
-00:25:10,860 --> 00:25:10,900
 Südwest
-
-669
-00:25:10,860 --> 00:25:10,900
 Südost
-
-670
-00:25:10,860 --> 00:25:10,900
 Süd
 
-671
+397
 00:25:12,450 --> 00:25:14,870
 Dann machen wir sie
 halt in der Stadt fertig!
 
-672
+398
 00:25:16,200 --> 00:25:18,500
 Ihr entkommt mir nicht!
 
-673
+399
 00:25:22,960 --> 00:25:26,320
 Hey! Da kommt jemand hoch!
 Ist das der Feind?
 
-674
+400
 00:25:26,320 --> 00:25:27,420
 Nein, wartet!
 
-675
+401
 00:25:27,420 --> 00:25:30,200
 Das ist das Rennentenkorps!
 Lasst sie durch!
 
-676
+402
 00:25:45,330 --> 00:25:48,710
 Ihr entkommt mir nicht!
 
-677
+403
 00:26:04,530 --> 00:26:07,210
 Danke, dass du uns
 bis hierher gefolgt bist.
 
-678
+404
 00:26:07,210 --> 00:26:08,420
 Was?
 
-679
+405
 00:26:11,490 --> 00:26:13,260
 Halt! Halt!
 
-680
+406
 00:26:14,820 --> 00:26:18,570
 Ihr habt ja gute Instinkte!
 Genau, ich bin Prinzessin Vivi!
 
-681
+407
 00:26:18,570 --> 00:26:21,400
 Was laberst du...
 ähm... sagst du denn da?
 
-682
+408
 00:26:21,400 --> 00:26:23,730
 Ich bin die echte Vivi.
 
-683
+409
 00:26:26,350 --> 00:26:28,800
 Ob das weit genug war?
 
-684
+410
 00:26:33,220 --> 00:26:36,870
 Schon witzig, wie ihr
 darauf reingefallen seid.
 
-685
+411
 00:26:37,410 --> 00:26:38,200
 Na schön...
 
-686
+412
 00:26:39,080 --> 00:26:41,710
 Geben wir uns mal zu erkennen.
 
-687
+413
 00:26:42,960 --> 00:26:45,880
 – Zu schade, ihr liegt daneben.
 – Zu schade, ihr liegt daneben.
 
-688
+414
 00:26:49,860 --> 00:26:52,220
 Was?!
 
-689
+415
 00:26:57,870 --> 00:26:59,930
 Danke, Leute.
 
-690
+416
 00:27:02,420 --> 00:27:06,520
 Ich muss mich beeilen.
 Die Rebellenarmee ist gleich da vorne.
 
-691
+417
 00:27:07,390 --> 00:27:08,820
 Auf geht’s, Karoo!
 
-692
+418
 00:27:10,530 --> 00:27:12,190
 Ein Kamel?!
 
-693
+419
 00:27:12,190 --> 00:27:15,450
 Und dich kenne ich doch!
 
-694
+420
 00:27:15,450 --> 00:27:17,160
 T-Tut mir leid!
 
-695
+421
 00:27:17,160 --> 00:27:19,160
 Los, Zoro! Zeig’s ihnen!
 
-696
+422
 00:27:19,160 --> 00:27:21,350
 Halt den Rand!
 
-697
+423
 00:27:21,350 --> 00:27:23,120
 Die haben uns dranbekommen.
-
-698
-00:27:21,350 --> 00:27:23,120
 Wie hoch waren deine Schulden noch mal?
 
-699
+424
 00:27:23,120 --> 00:27:25,330
 Was für eine Farce.
-
-700
-00:27:23,120 --> 00:27:25,330
 Die hast du mir bereits erlassen!
 
-701
+425
 00:27:26,830 --> 00:27:29,460
 Jetzt wird es keine
 Rebellion mehr geben.
 
-702
+426
 00:27:29,460 --> 00:27:31,050
 Was?!
 
-703
+427
 00:27:34,300 --> 00:27:35,930
 Ich werde sie auf jeden Fall aufhalten!
 
-704
+428
 00:27:35,930 --> 00:27:39,380
 Wenn ich sie jetzt nicht aufhalte,
 wäre alles für die Katz!
 
-705
+429
 00:27:41,940 --> 00:27:47,290
 Vivi und Koza dürfen sich
 auf gar keinen Fall treffen.
 
-706
+430
 00:27:54,060 --> 00:27:57,300
 Sichert die Kanonenkugeln!
 Die sollen nicht wegrollen!
 
-707
+431
 00:27:57,300 --> 00:27:59,500
 Artilleriebesatzung,
 bleibt auf euren Posten!
 
-708
+432
 00:27:59,500 --> 00:28:02,040
 Haltet eure Kanonenkugeln
 gut im Auge!
 
-709
+433
 00:28:02,790 --> 00:28:04,790
 Die Erde bebt, was?
 
-710
+434
 00:28:04,790 --> 00:28:07,790
 Auf uns stürmen zwei
 Millionen wütende Männer zu.
 
-711
+435
 00:28:07,790 --> 00:28:11,250
 Da erzittert selbst die Erde.
 Schreckt nicht zurück.
 
-712
+436
 00:28:22,460 --> 00:28:25,500
 Schon gut, Karoo.
 Du musst nicht hier bleiben.
 
-713
+437
 00:28:28,520 --> 00:28:30,730
 Du könntest niedergetrampelt werden.
 
-714
+438
 00:28:42,630 --> 00:28:47,370
 Bitte, Anführer, hör mich an.
 
-715
+439
 00:28:53,380 --> 00:28:57,630
 Leute, bleibt zusammen!
 Stürmt durchs Südtor!
 
-716
+440
 00:28:57,630 --> 00:29:00,550
 Die anderen machen
 wir in der Stadt fertig!
 
-717
+441
 00:29:00,550 --> 00:29:02,840
 Macht euch bereit!
 
-718
+442
 00:29:11,520 --> 00:29:13,690
 Halt, Rebellenarmee!
 
-719
+443
 00:29:13,690 --> 00:29:16,440
 Dieser Kampf ist ein Komplott!
 
-720
+444
 00:29:19,450 --> 00:29:21,860
 Bitte! Hört mich an!
 
-721
+445
 00:29:27,290 --> 00:29:29,160
 Rebellenarmee! Halt!
 
-722
+446
 00:29:34,610 --> 00:29:37,850
 Hey! Hast du da gerade
 jemanden gesehen?
 
-723
+447
 00:29:37,850 --> 00:29:39,420
 Was? Dafür haben wir keine Zeit!
 
-724
+448
 00:29:39,420 --> 00:29:42,620
 Sie schießen bereits auf uns!
 
-725
+449
 00:29:46,460 --> 00:29:50,520
 Was? Jetzt sehen sie mich nicht mehr!
 
-726
+450
 00:29:53,000 --> 00:29:56,480
 Was für eine Dummheit war
 das denn, Königliche Truppen?
 
-727
+451
 00:29:56,770 --> 00:30:00,450
 Ihr Trottel! Ich habe noch
 keinen Feuerbefehl erteilt!
 
-728
+452
 00:30:00,450 --> 00:30:03,120
 Handelt nicht eigenmächtig!
 
-729
+453
 00:30:03,120 --> 00:30:05,250
 E-Es tut mir schrecklich leid.
 
-730
+454
 00:30:05,250 --> 00:30:08,250
 Mir ist die Hand ausgerutscht
 und dann war’s geschehen.
 
-731
+455
 00:30:27,980 --> 00:30:31,230
 Schreckt nicht zurück! Brecht durch!
 Das ist nur eine Sandwolke!
 
-732
+456
 00:30:32,290 --> 00:30:34,730
 Nein, Leute! Halt!
 
-733
+457
 00:30:35,710 --> 00:30:39,190
 Für unser Land muss
 der König büßen!
 
-734
+458
 00:30:39,190 --> 00:30:40,280
 Anführer!
 
-735
+459
 00:30:50,370 --> 00:30:52,120
 Anführer!
 
-736
+460
 00:30:59,580 --> 00:31:00,760
 Was ist los, Koza?
 
-737
+461
 00:31:02,250 --> 00:31:04,430
 Es ist nichts.
 
-738
+462
 00:31:06,160 --> 00:31:07,680
 Habe ich mir das eingebildet?
 
-739
+463
 00:31:21,560 --> 00:31:22,870
 Anführer!
 
-740
+464
 00:31:24,860 --> 00:31:27,820
 Denkt dran! Das ist
 unsere letzte Schlacht!
 
-741
+465
 00:31:30,330 --> 00:31:32,290
 Warte! Hör mich an!
 
-742
+466
 00:31:34,750 --> 00:31:36,710
 Anführer!
 
-743
+467
 00:31:53,720 --> 00:31:55,730
 Sie kommen!
 
-744
+468
 00:31:55,730 --> 00:31:58,390
 Macht euch feuerbereit!
 
-745
+469
 00:32:24,600 --> 00:32:28,380
 Stürzt Alubarna!
 
-746
+470
 00:33:00,890 --> 00:33:01,880
 Karoo...
 
-747
+471
 00:33:05,590 --> 00:33:08,220
 Du hast mich gedeckt...
 
-748
+472
 00:33:11,390 --> 00:33:13,910
 Es tut mir so leid...
 
-749
+473
 00:33:13,910 --> 00:33:18,910
 Wir haben so viel durchgestanden,
 doch die Rebellion hat begonnen...
 
-750
+474
 00:33:18,910 --> 00:33:20,850
 Es tut mir so leid...
 
-751
+475
 00:33:22,050 --> 00:33:24,350
 Aber ich werde sie trotzdem aufhalten!
 
-752
+476
 00:33:24,350 --> 00:33:26,410
 Egal, wie oft sie mich überrennen,
 
-753
+477
 00:33:26,410 --> 00:33:30,660
 ich darf unsere Mühen nicht
 vergebens gewesen sein lassen...
 
-754
+478
 00:33:30,660 --> 00:33:34,900
 Das habe ich an Bord
 dieses Schiffes gelernt...
 
-755
+479
 00:33:36,190 --> 00:33:38,300
 Dass man nicht aufgeben darf!
 
-756
+480
 00:33:40,700 --> 00:33:41,790
 Vivi!
 
-757
+481
 00:33:43,710 --> 00:33:45,310
 Hier steckst du also!
 
-758
+482
 00:33:45,310 --> 00:33:46,750
 Usopp!
 
-759
+483
 00:33:46,750 --> 00:33:49,970
 Wir können es noch schaffen!
 Spring schnell auf!
 
-760
+484
 00:33:49,970 --> 00:33:52,180
 Ja! Halte durch, Karoo!
 
-761
+485
 00:33:52,180 --> 00:33:54,180
 Der Vogel ist erledigt!
 
-762
+486
 00:33:56,370 --> 00:34:00,760
 Wir müssen uns beeilen! Die Rebellion
 artet sonst nur aus! Schnell!
 
-763
+487
 00:34:03,100 --> 00:34:06,110
 Der Vogel...
 
-764
+488
 00:34:09,530 --> 00:34:11,700
 Auf geht’s, Karoo!
 
-765
+489
 00:34:15,990 --> 00:34:19,330
 Was ist los? Schnell! Mach schon!
 
-766
+490
 00:34:21,790 --> 00:34:24,760
 Usopp, beweis mir, dass du es bist.
 
-767
+491
 00:34:27,110 --> 00:34:30,380
 Hä? Du zweifelst mich an?
 
-768
+492
 00:34:31,510 --> 00:34:32,340
 Na?
 
-769
+493
 00:34:32,340 --> 00:34:33,620
 Er ist es nicht!
 
-770
+494
 00:34:35,300 --> 00:34:38,410
 Usopp! Hey, Usopp!
 
-771
+495
 00:34:38,410 --> 00:34:40,270
 Wimper, wach auf!
 
-772
+496
 00:34:41,140 --> 00:34:44,970
 Ach, Sanji. Guten Morgen.
 
-773
+497
 00:34:43,890 --> 00:34:44,970
 Ja.
 
-774
+498
 00:34:44,970 --> 00:34:47,780
 Und? Wie ging euer Kampf aus?
 
-775
+499
 00:34:47,780 --> 00:34:51,310
 Der Teil mit dem
 Weglocken war erfolgreich.
 
-776
+500
 00:34:51,310 --> 00:34:52,280
 Und dann...
 
-777
+501
 00:34:52,280 --> 00:34:56,280
 war es in zwei Sekunden vorbei.
 Eine Sekunde für jeden von uns.
 
-778
+502
 00:34:56,280 --> 00:34:58,200
 Konntet ihr nicht länger durchhalten?
 
-779
+503
 00:35:00,370 --> 00:35:02,120
 Aber, Sanji, was machst du hier?
 
-780
+504
 00:35:02,120 --> 00:35:05,920
 Eure Enten haben nach Hilfe
 gesucht! Wie auch immer...
 
-781
+505
 00:35:06,710 --> 00:35:08,860
 Ihr habt Mr. 2
 entkommen lassen, oder?
 
-782
+506
 00:35:08,860 --> 00:35:09,880
 Ja.
 
-783
+507
 00:35:15,050 --> 00:35:19,360
 Lauscher auf. Die Verwandlungen
 dieses Affen sind perfekt.
 
-784
+508
 00:35:19,360 --> 00:35:24,100
 Man weiß nie, wann er sich als einer
 von uns ausgibt und Vivis Leben bedroht.
 
-785
+509
 00:35:24,100 --> 00:35:27,060
 Wenn jemand von uns
 euch verdächtigt,
 
-786
+510
 00:35:30,020 --> 00:35:32,530
 nehmt den Verband ab
 und zeigt euer Zeichen.
 
-787
+511
 00:35:32,530 --> 00:35:34,530
 Wer das nicht kann,
 ist eine Fälschung.
 
-788
+512
 00:35:35,040 --> 00:35:40,200
 Hui, dass du einen zweistufigen Plan
 ausarbeitest, kennt man gar nicht von dir.
 
-789
+513
 00:35:40,730 --> 00:35:43,450
 Bedeutet das also,
 dass du bereits der Affe bist?
 
-790
+514
 00:35:43,450 --> 00:35:44,830
 Ich hack dich klein!
 
-791
+515
 00:35:44,830 --> 00:35:46,350
 Ach, das ist Zoro.
 
-792
+516
 00:35:46,350 --> 00:35:48,420
 Ach, das ist Zoro?
 
-793
+517
 00:35:54,630 --> 00:35:57,840
 Du bist nicht Usopp.
 
-794
+518
 00:36:00,030 --> 00:36:01,810
 Ach, Liebes...
 
-795
+519
 00:36:03,310 --> 00:36:06,770
 Was hat mich nur verraten?
 
-796
+520
 00:36:06,770 --> 00:36:09,400
 Ich fand mich perfekt.
 
-797
+521
 00:36:10,530 --> 00:36:13,720
 Zerolein hatte uns berichtet,
 
-798
+522
 00:36:13,720 --> 00:36:17,200
 dass ihr alle denselben Verband tragt.
 
-799
+523
 00:36:18,880 --> 00:36:21,200
 Das ist gar nicht gut.
 
-800
+524
 00:36:21,730 --> 00:36:23,960
 Vivilein ist in Gefahr!

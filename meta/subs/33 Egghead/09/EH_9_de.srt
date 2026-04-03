@@ -1575,1846 +1575,1271 @@ Autoritätschip
 389
 00:26:06,880 --> 00:26:06,920
 Sentomaru
+Autoritätschip
+(CP0)
 
 390
-00:26:06,880 --> 00:26:06,920
+00:26:06,920 --> 00:26:06,960
+Sentomaru
 Autoritätschip
 (CP0)
 
 391
-00:26:06,920 --> 00:26:06,960
+00:26:06,960 --> 00:26:07,000
+Vegapunk
 Sentomaru
+Autoritätschip
+(CP0)
 
 392
-00:26:06,920 --> 00:26:06,960
+00:26:07,000 --> 00:26:07,050
+Vegapunk
+Sentomaru
 Autoritätschip
 (CP0)
 
 393
-00:26:06,960 --> 00:26:07,000
+00:26:07,050 --> 00:26:07,090
 Vegapunk
+Sentomaru
 
 394
-00:26:06,960 --> 00:26:07,000
-Sentomaru
-
-395
-00:26:06,960 --> 00:26:07,000
-Autoritätschip
-(CP0)
-
-396
-00:26:07,000 --> 00:26:07,050
-Vegapunk
-
-397
-00:26:07,000 --> 00:26:07,050
-Sentomaru
-
-398
-00:26:07,000 --> 00:26:07,050
-Autoritätschip
-(CP0)
-
-399
-00:26:07,050 --> 00:26:07,090
-Vegapunk
-
-400
-00:26:07,050 --> 00:26:07,090
-Sentomaru
-
-401
 00:26:07,090 --> 00:26:07,130
 Vegapunk
 
-402
+395
 00:26:07,130 --> 00:26:09,170
 Vegapunk
 
-403
+396
 00:26:09,170 --> 00:26:09,210
 Vegapunk
 
-404
+397
 00:26:09,210 --> 00:26:09,260
 Vegapunk
 
-405
+398
 00:26:09,260 --> 00:26:09,300
 Die Fünf Weisen
-
-406
-00:26:09,260 --> 00:26:09,300
 Vegapunk
 
-407
+399
 00:26:09,300 --> 00:26:09,340
 Vegapunk
 
-408
+400
 00:26:09,340 --> 00:26:09,380
 Die Fünf Weisen
+Vegapunk
+
+401
+00:26:09,380 --> 00:26:09,420
+Die Fünf Weisen
+Vegapunk
+
+402
+00:26:09,420 --> 00:26:09,460
+Die Fünf Weisen
+Vegapunk
+
+403
+00:26:09,460 --> 00:26:09,510
+Die Fünf Weisen
+Vegapunk
+
+404
+00:26:09,510 --> 00:26:09,550
+Die Fünf Weisen
+Vegapunk
+
+405
+00:26:09,550 --> 00:26:09,590
+Die Fünf Weisen
+Vegapunk
+
+406
+00:26:09,590 --> 00:26:09,630
+Die Fünf Weisen
+Vegapunk
+
+407
+00:26:09,630 --> 00:26:09,670
+Die Fünf Weisen
+Vegapunk
+
+408
+00:26:09,670 --> 00:26:09,710
+Die Fünf Weisen
+Vegapunk
 
 409
-00:26:09,340 --> 00:26:09,380
+00:26:09,710 --> 00:26:09,760
+Die Fünf Weisen
 Vegapunk
 
 410
-00:26:09,380 --> 00:26:09,420
+00:26:09,760 --> 00:26:09,800
 Die Fünf Weisen
+Vegapunk
 
 411
-00:26:09,380 --> 00:26:09,420
+00:26:09,800 --> 00:26:09,840
+Die Fünf Weisen
 Vegapunk
 
 412
-00:26:09,420 --> 00:26:09,460
+00:26:09,840 --> 00:26:09,880
 Die Fünf Weisen
+Vegapunk
 
 413
-00:26:09,420 --> 00:26:09,460
+00:26:09,880 --> 00:26:09,920
+Die Fünf Weisen
 Vegapunk
 
 414
-00:26:09,460 --> 00:26:09,510
+00:26:09,920 --> 00:26:09,960
 Die Fünf Weisen
+Vegapunk
 
 415
-00:26:09,460 --> 00:26:09,510
+00:26:09,960 --> 00:26:10,010
+Die Fünf Weisen
 Vegapunk
 
 416
-00:26:09,510 --> 00:26:09,550
+00:26:10,010 --> 00:26:10,050
 Die Fünf Weisen
+Vegapunk
 
 417
-00:26:09,510 --> 00:26:09,550
+00:26:10,050 --> 00:26:10,090
+Die Fünf Weisen
 Vegapunk
 
 418
-00:26:09,550 --> 00:26:09,590
+00:26:10,090 --> 00:26:10,130
 Die Fünf Weisen
+Vegapunk
 
 419
-00:26:09,550 --> 00:26:09,590
-Vegapunk
-
-420
-00:26:09,590 --> 00:26:09,630
-Die Fünf Weisen
-
-421
-00:26:09,590 --> 00:26:09,630
-Vegapunk
-
-422
-00:26:09,630 --> 00:26:09,670
-Die Fünf Weisen
-
-423
-00:26:09,630 --> 00:26:09,670
-Vegapunk
-
-424
-00:26:09,670 --> 00:26:09,710
-Die Fünf Weisen
-
-425
-00:26:09,670 --> 00:26:09,710
-Vegapunk
-
-426
-00:26:09,710 --> 00:26:09,760
-Die Fünf Weisen
-
-427
-00:26:09,710 --> 00:26:09,760
-Vegapunk
-
-428
-00:26:09,760 --> 00:26:09,800
-Die Fünf Weisen
-
-429
-00:26:09,760 --> 00:26:09,800
-Vegapunk
-
-430
-00:26:09,800 --> 00:26:09,840
-Die Fünf Weisen
-
-431
-00:26:09,800 --> 00:26:09,840
-Vegapunk
-
-432
-00:26:09,840 --> 00:26:09,880
-Die Fünf Weisen
-
-433
-00:26:09,840 --> 00:26:09,880
-Vegapunk
-
-434
-00:26:09,880 --> 00:26:09,920
-Die Fünf Weisen
-
-435
-00:26:09,880 --> 00:26:09,920
-Vegapunk
-
-436
-00:26:09,920 --> 00:26:09,960
-Die Fünf Weisen
-
-437
-00:26:09,920 --> 00:26:09,960
-Vegapunk
-
-438
-00:26:09,960 --> 00:26:10,010
-Die Fünf Weisen
-
-439
-00:26:09,960 --> 00:26:10,010
-Vegapunk
-
-440
-00:26:10,010 --> 00:26:10,050
-Die Fünf Weisen
-
-441
-00:26:10,010 --> 00:26:10,050
-Vegapunk
-
-442
-00:26:10,050 --> 00:26:10,090
-Die Fünf Weisen
-
-443
-00:26:10,050 --> 00:26:10,090
-Vegapunk
-
-444
-00:26:10,090 --> 00:26:10,130
-Die Fünf Weisen
-
-445
-00:26:10,090 --> 00:26:10,130
-Vegapunk
-
-446
 00:26:10,130 --> 00:26:13,640
 werden die Seraphim uns hier in der Labophase nützlich sein.
 
-447
-00:26:21,080 --> 00:26:24,100
-Egghead
-Fabriophase
-
-448
+420
 00:26:30,990 --> 00:26:34,700
 Sofern wir das Kommando über sie kriegen!
 Sonst stehen wir mit dem Rücken zur Wand!
 
-449
+421
 00:26:35,070 --> 00:26:36,490
 Ich mach mich auf die Socken!
 
-450
+422
 00:26:38,950 --> 00:26:40,410
 Ich begleite dich!
 
-451
+423
 00:26:43,120 --> 00:26:44,710
 Das wird sicher kein Spaziergang!
 
-452
+424
 00:26:44,710 --> 00:26:46,130
 Ist mir auch klar!
 
-453
+425
 00:26:46,130 --> 00:26:48,630
 Hoffentlich halten die beiden noch durch.
 
-454
+426
 00:26:49,130 --> 00:26:51,300
 Ich zähle auf euch, Edison und Lilith!
 
-455
+427
 00:26:51,300 --> 00:26:53,550
 Schnauze! Spiel dich nicht als unser Boss auf!
 
-456
+428
 00:26:54,300 --> 00:26:55,470
 Zoro!
 
-457
+429
 00:26:55,470 --> 00:26:58,010
 Ab jetzt werde ich mit ganzer Kraft gegen dich kämpfen.
 
-458
+430
 00:26:59,220 --> 00:27:00,430
 Die Kacke ist am Dampfen!
 
-459
+431
 00:27:00,430 --> 00:27:03,270
 Selbst für Zoro und Brook wird das zu viel!
 
-460
+432
 00:27:03,640 --> 00:27:05,770
 Ich eile ihnen auch zur Hilfe!
 
-461
+433
 00:27:05,770 --> 00:27:07,150
 G-Geht klar!
 
-462
+434
 00:27:07,150 --> 00:27:09,020
 Überlass mir hier alles.
 
-463
+435
 00:27:09,020 --> 00:27:10,610
 Ich halte die Stellung.
 
-464
+436
 00:27:10,610 --> 00:27:14,450
 So kurz vor dem One Piece geht der Spinatschädel also drauf.
 
-465
+437
 00:27:14,450 --> 00:27:17,120
 Schwing deinen Hintern zu ihnen! Unsere Kameraden sind in Gefahr!
 
-466
+438
 00:27:18,870 --> 00:27:22,580
 Dein Wunsch sei mir Befehl!
 
-467
+439
 00:27:22,950 --> 00:27:28,330
 Wie die Seraphim gehorcht „Sanjiphim“ Namis Befehlen bedingungslos!
 
-468
+440
 00:27:25,040 --> 00:27:25,080
 HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+441
+00:27:25,080 --> 00:27:25,120
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+442
+00:27:25,120 --> 00:27:25,170
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+443
+00:27:25,170 --> 00:27:25,210
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+444
+00:27:25,210 --> 00:27:25,250
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+445
+00:27:25,250 --> 00:27:25,290
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+446
+00:27:25,290 --> 00:27:25,330
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+447
+00:27:25,330 --> 00:27:25,370
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+448
+00:27:25,370 --> 00:27:25,420
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+449
+00:27:25,420 --> 00:27:25,460
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+450
+00:27:25,460 --> 00:27:25,500
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+451
+00:27:25,500 --> 00:27:25,540
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+452
+00:27:25,540 --> 00:27:25,580
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+453
+00:27:25,580 --> 00:27:25,620
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+454
+00:27:25,620 --> 00:27:25,670
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+455
+00:27:25,670 --> 00:27:25,710
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+456
+00:27:25,710 --> 00:27:25,750
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+457
+00:27:25,750 --> 00:27:25,790
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+458
+00:27:25,790 --> 00:27:25,830
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+459
+00:27:25,830 --> 00:27:25,870
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+460
+00:27:25,870 --> 00:27:25,920
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+461
+00:27:25,920 --> 00:27:25,960
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+462
+00:27:25,960 --> 00:27:26,000
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+463
+00:27:26,000 --> 00:27:26,040
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+464
+00:27:26,040 --> 00:27:26,080
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+465
+00:27:26,080 --> 00:27:26,120
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+466
+00:27:26,120 --> 00:27:26,170
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+467
+00:27:26,170 --> 00:27:26,210
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
+
+468
+00:27:26,210 --> 00:27:26,250
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
 
 469
-00:27:25,040 --> 00:27:25,080
+00:27:26,250 --> 00:27:26,290
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
 Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
 
 470
-00:27:25,040 --> 00:27:25,080
+00:27:26,290 --> 00:27:26,330
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
 Ladys an erster Stelle: Absoluter Gehorsam
 
 471
-00:27:25,080 --> 00:27:25,120
+00:27:26,330 --> 00:27:26,370
 HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
 
 472
-00:27:25,080 --> 00:27:25,120
+00:27:26,370 --> 00:27:26,420
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
 Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
 
 473
-00:27:25,080 --> 00:27:25,120
+00:27:26,420 --> 00:27:26,460
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
 Ladys an erster Stelle: Absoluter Gehorsam
 
 474
-00:27:25,120 --> 00:27:25,170
+00:27:26,460 --> 00:27:26,500
 HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
 
 475
-00:27:25,120 --> 00:27:25,170
+00:27:26,500 --> 00:27:26,540
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
 Sanjiphims Autoritätsreihenfolge
+Ladys an erster Stelle: Absoluter Gehorsam
 
 476
-00:27:25,120 --> 00:27:25,170
+00:27:26,540 --> 00:27:26,580
+HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
 Ladys an erster Stelle: Absoluter Gehorsam
 
 477
-00:27:25,170 --> 00:27:25,210
+00:27:26,580 --> 00:27:26,620
 HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+Ladys an erster Stelle: Absoluter Gehorsam
 
 478
-00:27:25,170 --> 00:27:25,210
-Sanjiphims Autoritätsreihenfolge
+00:27:26,620 --> 00:27:26,670
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 479
-00:27:25,170 --> 00:27:25,210
+00:27:26,670 --> 00:27:26,710
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 480
-00:27:25,210 --> 00:27:25,250
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:26,710 --> 00:27:26,750
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 481
-00:27:25,210 --> 00:27:25,250
-Sanjiphims Autoritätsreihenfolge
+00:27:26,750 --> 00:27:26,790
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 482
-00:27:25,210 --> 00:27:25,250
+00:27:26,790 --> 00:27:26,830
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 483
-00:27:25,250 --> 00:27:25,290
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:26,830 --> 00:27:26,880
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 484
-00:27:25,250 --> 00:27:25,290
-Sanjiphims Autoritätsreihenfolge
+00:27:26,880 --> 00:27:26,920
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 485
-00:27:25,250 --> 00:27:25,290
+00:27:26,920 --> 00:27:26,960
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 486
-00:27:25,290 --> 00:27:25,330
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:26,960 --> 00:27:27,000
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 487
-00:27:25,290 --> 00:27:25,330
-Sanjiphims Autoritätsreihenfolge
+00:27:27,000 --> 00:27:27,040
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 488
-00:27:25,290 --> 00:27:25,330
+00:27:27,040 --> 00:27:27,080
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 489
-00:27:25,330 --> 00:27:25,370
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,080 --> 00:27:27,130
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 490
-00:27:25,330 --> 00:27:25,370
-Sanjiphims Autoritätsreihenfolge
+00:27:27,130 --> 00:27:27,170
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 491
-00:27:25,330 --> 00:27:25,370
+00:27:27,170 --> 00:27:27,210
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 492
-00:27:25,370 --> 00:27:25,420
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,210 --> 00:27:27,250
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 493
-00:27:25,370 --> 00:27:25,420
-Sanjiphims Autoritätsreihenfolge
+00:27:27,250 --> 00:27:27,290
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 494
-00:27:25,370 --> 00:27:25,420
+00:27:27,290 --> 00:27:27,330
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 495
-00:27:25,420 --> 00:27:25,460
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,330 --> 00:27:27,380
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 496
-00:27:25,420 --> 00:27:25,460
-Sanjiphims Autoritätsreihenfolge
+00:27:27,380 --> 00:27:27,420
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 497
-00:27:25,420 --> 00:27:25,460
+00:27:27,420 --> 00:27:27,460
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 498
-00:27:25,460 --> 00:27:25,500
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,460 --> 00:27:27,500
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 499
-00:27:25,460 --> 00:27:25,500
-Sanjiphims Autoritätsreihenfolge
+00:27:27,500 --> 00:27:27,540
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 500
-00:27:25,460 --> 00:27:25,500
+00:27:27,540 --> 00:27:27,580
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 501
-00:27:25,500 --> 00:27:25,540
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,580 --> 00:27:27,630
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 502
-00:27:25,500 --> 00:27:25,540
-Sanjiphims Autoritätsreihenfolge
+00:27:27,630 --> 00:27:27,670
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 503
-00:27:25,500 --> 00:27:25,540
+00:27:27,670 --> 00:27:27,710
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 504
-00:27:25,540 --> 00:27:25,580
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,710 --> 00:27:27,750
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 505
-00:27:25,540 --> 00:27:25,580
-Sanjiphims Autoritätsreihenfolge
+00:27:27,750 --> 00:27:27,790
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 506
-00:27:25,540 --> 00:27:25,580
+00:27:27,790 --> 00:27:27,830
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 507
-00:27:25,580 --> 00:27:25,620
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,830 --> 00:27:27,880
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 508
-00:27:25,580 --> 00:27:25,620
-Sanjiphims Autoritätsreihenfolge
+00:27:27,880 --> 00:27:27,920
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 509
-00:27:25,580 --> 00:27:25,620
+00:27:27,920 --> 00:27:27,960
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 510
-00:27:25,620 --> 00:27:25,670
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:27,960 --> 00:27:28,000
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 511
-00:27:25,620 --> 00:27:25,670
-Sanjiphims Autoritätsreihenfolge
+00:27:28,000 --> 00:27:28,040
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 512
-00:27:25,620 --> 00:27:25,670
+00:27:28,040 --> 00:27:28,080
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 513
-00:27:25,670 --> 00:27:25,710
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,080 --> 00:27:28,130
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 514
-00:27:25,670 --> 00:27:25,710
-Sanjiphims Autoritätsreihenfolge
+00:27:28,130 --> 00:27:28,170
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 515
-00:27:25,670 --> 00:27:25,710
+00:27:28,170 --> 00:27:28,210
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 516
-00:27:25,710 --> 00:27:25,750
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,210 --> 00:27:28,250
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 517
-00:27:25,710 --> 00:27:25,750
-Sanjiphims Autoritätsreihenfolge
+00:27:28,250 --> 00:27:28,290
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 518
-00:27:25,710 --> 00:27:25,750
+00:27:28,290 --> 00:27:28,330
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 519
-00:27:25,750 --> 00:27:25,790
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,330 --> 00:27:28,380
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 520
-00:27:25,750 --> 00:27:25,790
-Sanjiphims Autoritätsreihenfolge
+00:27:28,380 --> 00:27:28,420
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 521
-00:27:25,750 --> 00:27:25,790
+00:27:28,420 --> 00:27:28,460
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 522
-00:27:25,790 --> 00:27:25,830
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,460 --> 00:27:28,500
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 523
-00:27:25,790 --> 00:27:25,830
-Sanjiphims Autoritätsreihenfolge
+00:27:28,500 --> 00:27:28,540
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 524
-00:27:25,790 --> 00:27:25,830
+00:27:28,540 --> 00:27:28,590
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 525
-00:27:25,830 --> 00:27:25,870
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,590 --> 00:27:28,630
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
 
 526
-00:27:25,830 --> 00:27:25,870
-Sanjiphims Autoritätsreihenfolge
+00:27:28,630 --> 00:27:28,670
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 527
-00:27:25,830 --> 00:27:25,870
+00:27:28,670 --> 00:27:28,710
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 528
-00:27:25,870 --> 00:27:25,920
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,710 --> 00:27:28,750
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 529
-00:27:25,870 --> 00:27:25,920
-Sanjiphims Autoritätsreihenfolge
+00:27:28,750 --> 00:27:28,790
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 530
-00:27:25,870 --> 00:27:25,920
+00:27:28,790 --> 00:27:28,840
 Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 531
-00:27:25,920 --> 00:27:25,960
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,840 --> 00:27:28,880
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 532
-00:27:25,920 --> 00:27:25,960
-Sanjiphims Autoritätsreihenfolge
+00:27:28,880 --> 00:27:28,920
+Ladys an erster Stelle: Absoluter Gehorsam
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 533
-00:27:25,920 --> 00:27:25,960
-Ladys an erster Stelle: Absoluter Gehorsam
+00:27:28,920 --> 00:27:28,960
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 534
-00:27:25,960 --> 00:27:26,000
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:28,960 --> 00:27:29,000
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 535
-00:27:25,960 --> 00:27:26,000
-Sanjiphims Autoritätsreihenfolge
+00:27:29,000 --> 00:27:29,040
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 536
-00:27:25,960 --> 00:27:26,000
-Ladys an erster Stelle: Absoluter Gehorsam
+00:27:29,040 --> 00:27:29,090
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 537
-00:27:26,000 --> 00:27:26,040
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:29,090 --> 00:27:29,130
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 538
-00:27:26,000 --> 00:27:26,040
-Sanjiphims Autoritätsreihenfolge
+00:27:29,130 --> 00:27:29,170
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 539
-00:27:26,000 --> 00:27:26,040
-Ladys an erster Stelle: Absoluter Gehorsam
+00:27:29,170 --> 00:27:29,210
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 540
-00:27:26,040 --> 00:27:26,080
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
+00:27:29,210 --> 00:27:29,250
+Andere Konsorten: Je nach Lage
+Spinatschädel
 
 541
-00:27:26,040 --> 00:27:26,080
-Sanjiphims Autoritätsreihenfolge
-
-542
-00:27:26,040 --> 00:27:26,080
-Ladys an erster Stelle: Absoluter Gehorsam
-
-543
-00:27:26,080 --> 00:27:26,120
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-544
-00:27:26,080 --> 00:27:26,120
-Sanjiphims Autoritätsreihenfolge
-
-545
-00:27:26,080 --> 00:27:26,120
-Ladys an erster Stelle: Absoluter Gehorsam
-
-546
-00:27:26,120 --> 00:27:26,170
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-547
-00:27:26,120 --> 00:27:26,170
-Sanjiphims Autoritätsreihenfolge
-
-548
-00:27:26,120 --> 00:27:26,170
-Ladys an erster Stelle: Absoluter Gehorsam
-
-549
-00:27:26,170 --> 00:27:26,210
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-550
-00:27:26,170 --> 00:27:26,210
-Sanjiphims Autoritätsreihenfolge
-
-551
-00:27:26,170 --> 00:27:26,210
-Ladys an erster Stelle: Absoluter Gehorsam
-
-552
-00:27:26,210 --> 00:27:26,250
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-553
-00:27:26,210 --> 00:27:26,250
-Sanjiphims Autoritätsreihenfolge
-
-554
-00:27:26,210 --> 00:27:26,250
-Ladys an erster Stelle: Absoluter Gehorsam
-
-555
-00:27:26,250 --> 00:27:26,290
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-556
-00:27:26,250 --> 00:27:26,290
-Sanjiphims Autoritätsreihenfolge
-
-557
-00:27:26,250 --> 00:27:26,290
-Ladys an erster Stelle: Absoluter Gehorsam
-
-558
-00:27:26,290 --> 00:27:26,330
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-559
-00:27:26,290 --> 00:27:26,330
-Sanjiphims Autoritätsreihenfolge
-
-560
-00:27:26,290 --> 00:27:26,330
-Ladys an erster Stelle: Absoluter Gehorsam
-
-561
-00:27:26,330 --> 00:27:26,370
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-562
-00:27:26,330 --> 00:27:26,370
-Sanjiphims Autoritätsreihenfolge
-
-563
-00:27:26,330 --> 00:27:26,370
-Ladys an erster Stelle: Absoluter Gehorsam
-
-564
-00:27:26,370 --> 00:27:26,420
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-565
-00:27:26,370 --> 00:27:26,420
-Sanjiphims Autoritätsreihenfolge
-
-566
-00:27:26,370 --> 00:27:26,420
-Ladys an erster Stelle: Absoluter Gehorsam
-
-567
-00:27:26,420 --> 00:27:26,460
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-568
-00:27:26,420 --> 00:27:26,460
-Sanjiphims Autoritätsreihenfolge
-
-569
-00:27:26,420 --> 00:27:26,460
-Ladys an erster Stelle: Absoluter Gehorsam
-
-570
-00:27:26,460 --> 00:27:26,500
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-571
-00:27:26,460 --> 00:27:26,500
-Sanjiphims Autoritätsreihenfolge
-
-572
-00:27:26,460 --> 00:27:26,500
-Ladys an erster Stelle: Absoluter Gehorsam
-
-573
-00:27:26,500 --> 00:27:26,540
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-574
-00:27:26,500 --> 00:27:26,540
-Sanjiphims Autoritätsreihenfolge
-
-575
-00:27:26,500 --> 00:27:26,540
-Ladys an erster Stelle: Absoluter Gehorsam
-
-576
-00:27:26,540 --> 00:27:26,580
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-577
-00:27:26,540 --> 00:27:26,580
-Ladys an erster Stelle: Absoluter Gehorsam
-
-578
-00:27:26,580 --> 00:27:26,620
-HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHH
-
-579
-00:27:26,580 --> 00:27:26,620
-Ladys an erster Stelle: Absoluter Gehorsam
-
-580
-00:27:26,620 --> 00:27:26,670
-Ladys an erster Stelle: Absoluter Gehorsam
-
-581
-00:27:26,620 --> 00:27:26,670
-Andere Konsorten: Je nach Lage
-
-582
-00:27:26,670 --> 00:27:26,710
-Ladys an erster Stelle: Absoluter Gehorsam
-
-583
-00:27:26,670 --> 00:27:26,710
-Andere Konsorten: Je nach Lage
-
-584
-00:27:26,710 --> 00:27:26,750
-Ladys an erster Stelle: Absoluter Gehorsam
-
-585
-00:27:26,710 --> 00:27:26,750
-Andere Konsorten: Je nach Lage
-
-586
-00:27:26,750 --> 00:27:26,790
-Ladys an erster Stelle: Absoluter Gehorsam
-
-587
-00:27:26,750 --> 00:27:26,790
-Andere Konsorten: Je nach Lage
-
-588
-00:27:26,790 --> 00:27:26,830
-Ladys an erster Stelle: Absoluter Gehorsam
-
-589
-00:27:26,790 --> 00:27:26,830
-Andere Konsorten: Je nach Lage
-
-590
-00:27:26,830 --> 00:27:26,880
-Ladys an erster Stelle: Absoluter Gehorsam
-
-591
-00:27:26,830 --> 00:27:26,880
-Andere Konsorten: Je nach Lage
-
-592
-00:27:26,880 --> 00:27:26,920
-Ladys an erster Stelle: Absoluter Gehorsam
-
-593
-00:27:26,880 --> 00:27:26,920
-Andere Konsorten: Je nach Lage
-
-594
-00:27:26,920 --> 00:27:26,960
-Ladys an erster Stelle: Absoluter Gehorsam
-
-595
-00:27:26,920 --> 00:27:26,960
-Andere Konsorten: Je nach Lage
-
-596
-00:27:26,960 --> 00:27:27,000
-Ladys an erster Stelle: Absoluter Gehorsam
-
-597
-00:27:26,960 --> 00:27:27,000
-Andere Konsorten: Je nach Lage
-
-598
-00:27:27,000 --> 00:27:27,040
-Ladys an erster Stelle: Absoluter Gehorsam
-
-599
-00:27:27,000 --> 00:27:27,040
-Andere Konsorten: Je nach Lage
-
-600
-00:27:27,040 --> 00:27:27,080
-Ladys an erster Stelle: Absoluter Gehorsam
-
-601
-00:27:27,040 --> 00:27:27,080
-Andere Konsorten: Je nach Lage
-
-602
-00:27:27,080 --> 00:27:27,130
-Ladys an erster Stelle: Absoluter Gehorsam
-
-603
-00:27:27,080 --> 00:27:27,130
-Andere Konsorten: Je nach Lage
-
-604
-00:27:27,130 --> 00:27:27,170
-Ladys an erster Stelle: Absoluter Gehorsam
-
-605
-00:27:27,130 --> 00:27:27,170
-Andere Konsorten: Je nach Lage
-
-606
-00:27:27,170 --> 00:27:27,210
-Ladys an erster Stelle: Absoluter Gehorsam
-
-607
-00:27:27,170 --> 00:27:27,210
-Andere Konsorten: Je nach Lage
-
-608
-00:27:27,210 --> 00:27:27,250
-Ladys an erster Stelle: Absoluter Gehorsam
-
-609
-00:27:27,210 --> 00:27:27,250
-Andere Konsorten: Je nach Lage
-
-610
-00:27:27,250 --> 00:27:27,290
-Ladys an erster Stelle: Absoluter Gehorsam
-
-611
-00:27:27,250 --> 00:27:27,290
-Andere Konsorten: Je nach Lage
-
-612
-00:27:27,290 --> 00:27:27,330
-Ladys an erster Stelle: Absoluter Gehorsam
-
-613
-00:27:27,290 --> 00:27:27,330
-Andere Konsorten: Je nach Lage
-
-614
-00:27:27,330 --> 00:27:27,380
-Ladys an erster Stelle: Absoluter Gehorsam
-
-615
-00:27:27,330 --> 00:27:27,380
-Andere Konsorten: Je nach Lage
-
-616
-00:27:27,380 --> 00:27:27,420
-Ladys an erster Stelle: Absoluter Gehorsam
-
-617
-00:27:27,380 --> 00:27:27,420
-Andere Konsorten: Je nach Lage
-
-618
-00:27:27,420 --> 00:27:27,460
-Ladys an erster Stelle: Absoluter Gehorsam
-
-619
-00:27:27,420 --> 00:27:27,460
-Andere Konsorten: Je nach Lage
-
-620
-00:27:27,460 --> 00:27:27,500
-Ladys an erster Stelle: Absoluter Gehorsam
-
-621
-00:27:27,460 --> 00:27:27,500
-Andere Konsorten: Je nach Lage
-
-622
-00:27:27,500 --> 00:27:27,540
-Ladys an erster Stelle: Absoluter Gehorsam
-
-623
-00:27:27,500 --> 00:27:27,540
-Andere Konsorten: Je nach Lage
-
-624
-00:27:27,540 --> 00:27:27,580
-Ladys an erster Stelle: Absoluter Gehorsam
-
-625
-00:27:27,540 --> 00:27:27,580
-Andere Konsorten: Je nach Lage
-
-626
-00:27:27,580 --> 00:27:27,630
-Ladys an erster Stelle: Absoluter Gehorsam
-
-627
-00:27:27,580 --> 00:27:27,630
-Andere Konsorten: Je nach Lage
-
-628
-00:27:27,630 --> 00:27:27,670
-Ladys an erster Stelle: Absoluter Gehorsam
-
-629
-00:27:27,630 --> 00:27:27,670
-Andere Konsorten: Je nach Lage
-
-630
-00:27:27,670 --> 00:27:27,710
-Ladys an erster Stelle: Absoluter Gehorsam
-
-631
-00:27:27,670 --> 00:27:27,710
-Andere Konsorten: Je nach Lage
-
-632
-00:27:27,710 --> 00:27:27,750
-Ladys an erster Stelle: Absoluter Gehorsam
-
-633
-00:27:27,710 --> 00:27:27,750
-Andere Konsorten: Je nach Lage
-
-634
-00:27:27,750 --> 00:27:27,790
-Ladys an erster Stelle: Absoluter Gehorsam
-
-635
-00:27:27,750 --> 00:27:27,790
-Andere Konsorten: Je nach Lage
-
-636
-00:27:27,790 --> 00:27:27,830
-Ladys an erster Stelle: Absoluter Gehorsam
-
-637
-00:27:27,790 --> 00:27:27,830
-Andere Konsorten: Je nach Lage
-
-638
-00:27:27,830 --> 00:27:27,880
-Ladys an erster Stelle: Absoluter Gehorsam
-
-639
-00:27:27,830 --> 00:27:27,880
-Andere Konsorten: Je nach Lage
-
-640
-00:27:27,880 --> 00:27:27,920
-Ladys an erster Stelle: Absoluter Gehorsam
-
-641
-00:27:27,880 --> 00:27:27,920
-Andere Konsorten: Je nach Lage
-
-642
-00:27:27,920 --> 00:27:27,960
-Ladys an erster Stelle: Absoluter Gehorsam
-
-643
-00:27:27,920 --> 00:27:27,960
-Andere Konsorten: Je nach Lage
-
-644
-00:27:27,960 --> 00:27:28,000
-Ladys an erster Stelle: Absoluter Gehorsam
-
-645
-00:27:27,960 --> 00:27:28,000
-Andere Konsorten: Je nach Lage
-
-646
-00:27:28,000 --> 00:27:28,040
-Ladys an erster Stelle: Absoluter Gehorsam
-
-647
-00:27:28,000 --> 00:27:28,040
-Andere Konsorten: Je nach Lage
-
-648
-00:27:28,040 --> 00:27:28,080
-Ladys an erster Stelle: Absoluter Gehorsam
-
-649
-00:27:28,040 --> 00:27:28,080
-Andere Konsorten: Je nach Lage
-
-650
-00:27:28,080 --> 00:27:28,130
-Ladys an erster Stelle: Absoluter Gehorsam
-
-651
-00:27:28,080 --> 00:27:28,130
-Andere Konsorten: Je nach Lage
-
-652
-00:27:28,130 --> 00:27:28,170
-Ladys an erster Stelle: Absoluter Gehorsam
-
-653
-00:27:28,130 --> 00:27:28,170
-Andere Konsorten: Je nach Lage
-
-654
-00:27:28,170 --> 00:27:28,210
-Ladys an erster Stelle: Absoluter Gehorsam
-
-655
-00:27:28,170 --> 00:27:28,210
-Andere Konsorten: Je nach Lage
-
-656
-00:27:28,210 --> 00:27:28,250
-Ladys an erster Stelle: Absoluter Gehorsam
-
-657
-00:27:28,210 --> 00:27:28,250
-Andere Konsorten: Je nach Lage
-
-658
-00:27:28,250 --> 00:27:28,290
-Ladys an erster Stelle: Absoluter Gehorsam
-
-659
-00:27:28,250 --> 00:27:28,290
-Andere Konsorten: Je nach Lage
-
-660
-00:27:28,290 --> 00:27:28,330
-Ladys an erster Stelle: Absoluter Gehorsam
-
-661
-00:27:28,290 --> 00:27:28,330
-Andere Konsorten: Je nach Lage
-
-662
-00:27:28,330 --> 00:27:28,380
-Ladys an erster Stelle: Absoluter Gehorsam
-
-663
-00:27:28,330 --> 00:27:28,380
-Andere Konsorten: Je nach Lage
-
-664
-00:27:28,380 --> 00:27:28,420
-Ladys an erster Stelle: Absoluter Gehorsam
-
-665
-00:27:28,380 --> 00:27:28,420
-Andere Konsorten: Je nach Lage
-
-666
-00:27:28,420 --> 00:27:28,460
-Ladys an erster Stelle: Absoluter Gehorsam
-
-667
-00:27:28,420 --> 00:27:28,460
-Andere Konsorten: Je nach Lage
-
-668
-00:27:28,460 --> 00:27:28,500
-Ladys an erster Stelle: Absoluter Gehorsam
-
-669
-00:27:28,460 --> 00:27:28,500
-Andere Konsorten: Je nach Lage
-
-670
-00:27:28,500 --> 00:27:28,540
-Ladys an erster Stelle: Absoluter Gehorsam
-
-671
-00:27:28,500 --> 00:27:28,540
-Andere Konsorten: Je nach Lage
-
-672
-00:27:28,540 --> 00:27:28,590
-Ladys an erster Stelle: Absoluter Gehorsam
-
-673
-00:27:28,540 --> 00:27:28,590
-Andere Konsorten: Je nach Lage
-
-674
-00:27:28,590 --> 00:27:28,630
-Ladys an erster Stelle: Absoluter Gehorsam
-
-675
-00:27:28,590 --> 00:27:28,630
-Andere Konsorten: Je nach Lage
-
-676
-00:27:28,630 --> 00:27:28,670
-Ladys an erster Stelle: Absoluter Gehorsam
-
-677
-00:27:28,630 --> 00:27:28,670
-Andere Konsorten: Je nach Lage
-
-678
-00:27:28,630 --> 00:27:28,670
-Spinatschädel
-
-679
-00:27:28,670 --> 00:27:28,710
-Ladys an erster Stelle: Absoluter Gehorsam
-
-680
-00:27:28,670 --> 00:27:28,710
-Andere Konsorten: Je nach Lage
-
-681
-00:27:28,670 --> 00:27:28,710
-Spinatschädel
-
-682
-00:27:28,710 --> 00:27:28,750
-Ladys an erster Stelle: Absoluter Gehorsam
-
-683
-00:27:28,710 --> 00:27:28,750
-Andere Konsorten: Je nach Lage
-
-684
-00:27:28,710 --> 00:27:28,750
-Spinatschädel
-
-685
-00:27:28,750 --> 00:27:28,790
-Ladys an erster Stelle: Absoluter Gehorsam
-
-686
-00:27:28,750 --> 00:27:28,790
-Andere Konsorten: Je nach Lage
-
-687
-00:27:28,750 --> 00:27:28,790
-Spinatschädel
-
-688
-00:27:28,790 --> 00:27:28,840
-Ladys an erster Stelle: Absoluter Gehorsam
-
-689
-00:27:28,790 --> 00:27:28,840
-Andere Konsorten: Je nach Lage
-
-690
-00:27:28,790 --> 00:27:28,840
-Spinatschädel
-
-691
-00:27:28,840 --> 00:27:28,880
-Ladys an erster Stelle: Absoluter Gehorsam
-
-692
-00:27:28,840 --> 00:27:28,880
-Andere Konsorten: Je nach Lage
-
-693
-00:27:28,840 --> 00:27:28,880
-Spinatschädel
-
-694
-00:27:28,880 --> 00:27:28,920
-Ladys an erster Stelle: Absoluter Gehorsam
-
-695
-00:27:28,880 --> 00:27:28,920
-Andere Konsorten: Je nach Lage
-
-696
-00:27:28,880 --> 00:27:28,920
-Spinatschädel
-
-697
-00:27:28,920 --> 00:27:28,960
-Andere Konsorten: Je nach Lage
-
-698
-00:27:28,920 --> 00:27:28,960
-Spinatschädel
-
-699
-00:27:28,960 --> 00:27:29,000
-Andere Konsorten: Je nach Lage
-
-700
-00:27:28,960 --> 00:27:29,000
-Spinatschädel
-
-701
-00:27:29,000 --> 00:27:29,040
-Andere Konsorten: Je nach Lage
-
-702
-00:27:29,000 --> 00:27:29,040
-Spinatschädel
-
-703
-00:27:29,040 --> 00:27:29,090
-Andere Konsorten: Je nach Lage
-
-704
-00:27:29,040 --> 00:27:29,090
-Spinatschädel
-
-705
-00:27:29,090 --> 00:27:29,130
-Andere Konsorten: Je nach Lage
-
-706
-00:27:29,090 --> 00:27:29,130
-Spinatschädel
-
-707
-00:27:29,130 --> 00:27:29,170
-Andere Konsorten: Je nach Lage
-
-708
-00:27:29,130 --> 00:27:29,170
-Spinatschädel
-
-709
-00:27:29,170 --> 00:27:29,210
-Andere Konsorten: Je nach Lage
-
-710
-00:27:29,170 --> 00:27:29,210
-Spinatschädel
-
-711
-00:27:29,210 --> 00:27:29,250
-Andere Konsorten: Je nach Lage
-
-712
-00:27:29,210 --> 00:27:29,250
-Spinatschädel
-
-713
 00:27:29,250 --> 00:27:30,000
 Aber...
 
-714
+542
 00:27:29,250 --> 00:27:29,290
 Andere Konsorten: Je nach Lage
-
-715
-00:27:29,250 --> 00:27:29,290
 Spinatschädel
 
-716
+543
 00:27:29,290 --> 00:27:29,340
 Andere Konsorten: Je nach Lage
-
-717
-00:27:29,290 --> 00:27:29,340
 Spinatschädel
 
-718
+544
 00:27:29,340 --> 00:27:29,380
 Andere Konsorten: Je nach Lage
-
-719
-00:27:29,340 --> 00:27:29,380
 Spinatschädel
 
-720
+545
 00:27:29,380 --> 00:27:29,420
 Andere Konsorten: Je nach Lage
-
-721
-00:27:29,380 --> 00:27:29,420
 Spinatschädel
 
-722
+546
 00:27:29,420 --> 00:27:29,460
 Andere Konsorten: Je nach Lage
-
-723
-00:27:29,420 --> 00:27:29,460
 Spinatschädel
 
-724
+547
 00:27:29,460 --> 00:27:29,500
 Andere Konsorten: Je nach Lage
-
-725
-00:27:29,460 --> 00:27:29,500
 Spinatschädel
 
-726
+548
 00:27:29,500 --> 00:27:29,540
 Andere Konsorten: Je nach Lage
-
-727
-00:27:29,500 --> 00:27:29,540
 Spinatschädel
 
-728
+549
 00:27:29,540 --> 00:27:29,590
 Andere Konsorten: Je nach Lage
-
-729
-00:27:29,540 --> 00:27:29,590
 Spinatschädel
 
-730
+550
 00:27:29,590 --> 00:27:29,630
 Andere Konsorten: Je nach Lage
-
-731
-00:27:29,590 --> 00:27:29,630
 Spinatschädel
 
-732
+551
 00:27:29,630 --> 00:27:29,670
 Andere Konsorten: Je nach Lage
-
-733
-00:27:29,630 --> 00:27:29,670
 Spinatschädel
 
-734
+552
 00:27:29,670 --> 00:27:29,710
 Andere Konsorten: Je nach Lage
-
-735
-00:27:29,670 --> 00:27:29,710
 Spinatschädel
 
-736
+553
 00:27:29,710 --> 00:27:29,750
 Andere Konsorten: Je nach Lage
-
-737
-00:27:29,710 --> 00:27:29,750
 Spinatschädel
 
-738
+554
 00:27:29,750 --> 00:27:29,790
 Andere Konsorten: Je nach Lage
-
-739
-00:27:29,750 --> 00:27:29,790
 Spinatschädel
 
-740
+555
 00:27:29,790 --> 00:27:29,840
 Andere Konsorten: Je nach Lage
-
-741
-00:27:29,790 --> 00:27:29,840
 Spinatschädel
 
-742
+556
 00:27:29,840 --> 00:27:29,880
 Andere Konsorten: Je nach Lage
-
-743
-00:27:29,840 --> 00:27:29,880
 Spinatschädel
 
-744
+557
 00:27:29,880 --> 00:27:29,920
 Andere Konsorten: Je nach Lage
-
-745
-00:27:29,880 --> 00:27:29,920
 Spinatschädel
 
-746
+558
 00:27:29,920 --> 00:27:29,960
 Andere Konsorten: Je nach Lage
-
-747
-00:27:29,920 --> 00:27:29,960
 Spinatschädel
 
-748
+559
 00:27:29,960 --> 00:27:30,000
 Andere Konsorten: Je nach Lage
-
-749
-00:27:29,960 --> 00:27:30,000
 Spinatschädel
 
-750
+560
 00:27:30,500 --> 00:27:32,510
 muss ich diesen Penner echt retten?
 
-751
+561
 00:27:32,510 --> 00:27:34,590
 Mecker jetzt nicht rum, Zwirbelphim!
 
-752
+562
 00:27:34,590 --> 00:27:36,340
 Wir sitzen ganz schön in der Klemme!
 
-753
+563
 00:27:42,850 --> 00:27:44,390
 Ich wollte
 
-754
+564
 00:27:44,890 --> 00:27:49,860
 irgendwann die offene Rechnung mit dir begleichen.
 
-755
+565
 00:27:52,400 --> 00:27:54,150
 Jetzt kann’s gerne losgehen,
 
-756
+566
 00:27:54,150 --> 00:27:55,900
 Roronoa!
 
-757
+567
 00:27:57,110 --> 00:27:59,990
 Hä? Was ist das für eine Gestalt?
 
-758
+568
 00:27:59,990 --> 00:28:04,120
 Eigentlich verwandelt er sich in eine Giraffe, aber diesmal sieht er etwas anders aus.
 
-759
+569
 00:28:04,120 --> 00:28:05,410
 Ist auch egal.
 
-760
+570
 00:28:05,750 --> 00:28:08,330
 Letztlich werde ich ihn wieder zersäbeln.
 
-761
+571
 00:28:08,330 --> 00:28:10,460
 Solange du das auch schaffst,
 
-762
+572
 00:28:10,460 --> 00:28:11,710
 Roronoa!
 
-763
+573
 00:28:12,750 --> 00:28:14,760
 Pass auf das Schiff auf, Brook!
 
-764
+574
 00:28:14,760 --> 00:28:15,720
 Verstanden!
 
-765
+575
 00:28:15,720 --> 00:28:17,090
 Mach dich auf was gefasst!
 
-766
+576
 00:28:17,090 --> 00:28:18,430
 Nasenpistole!
 
-767
+577
 00:28:23,720 --> 00:28:26,680
 Jetzt beginnt die wahre Hölle für dich!
 
-768
+578
 00:28:26,680 --> 00:28:28,650
 Kilimanjaro!
 
-769
+579
 00:28:30,610 --> 00:28:32,980
 Das war’s noch lange nicht!
 
-770
+580
 00:28:45,790 --> 00:28:48,000
 In Wano Kuni habe ich...
 
-771
+581
 00:28:48,540 --> 00:28:52,210
 einen harten Kampf gegen einen geschlängelten Typen gehabt.
 
-772
+582
 00:28:52,840 --> 00:28:56,420
 Davon hab ich die Schnauze voll!
 
-773
+583
 00:29:12,730 --> 00:29:15,110
 Bevor Vegapunk rauskommt,
 
-774
+584
 00:29:15,690 --> 00:29:17,650
 zerstören wir das Labor!
 
-775
+585
 00:29:35,710 --> 00:29:38,010
 Mist! Sie wollen das Labor zerstören!
 
-776
+586
 00:29:57,480 --> 00:29:58,820
 Bloß das nicht!
 
-777
+587
 00:29:58,820 --> 00:30:01,450
 Wenn wir nichts tun,
 wird auch dieser Ort zerstört!
 
-778
+588
 00:30:24,800 --> 00:30:25,760
 Freunde...
 
-779
+589
 00:30:26,850 --> 00:30:28,600
 In dieser Situation
 
-780
+590
 00:30:28,600 --> 00:30:30,290
 hast du keine Chance auf den Sieg!
 
-781
+591
 00:30:30,770 --> 00:30:32,200
 Hey! Hey!
 
-782
+592
 00:30:32,200 --> 00:30:33,850
 Ihr haut ja echt auf den Putz!
 
-783
+593
 00:30:34,350 --> 00:30:35,770
 Scheiße!
 
-784
+594
 00:30:44,360 --> 00:30:47,580
 Macht weiter so und beendet eure Mission!
 
-785
+595
 00:31:02,380 --> 00:31:04,130
 Du...
 
-786
+596
 00:31:18,520 --> 00:31:19,650
 Kaku!
 
-787
+597
 00:31:23,490 --> 00:31:24,950
 Was hast du getan?
 
-788
+598
 00:31:26,740 --> 00:31:28,240
 Stussy!
 
-789
+599
 00:31:30,120 --> 00:31:31,790
 Was ich getan habe?
 
-790
+600
 00:31:32,660 --> 00:31:34,540
 Ich hab ihn nur ein Nickerchen machen lassen.
 
-791
+601
 00:31:38,920 --> 00:31:40,840
 Tu mir einen Gefallen, Lucci.
 
-792
+602
 00:31:42,050 --> 00:31:43,970
 Leiste ihm im Traumland Gesellschaft.
 
-793
+603
 00:31:45,970 --> 00:31:49,220
 Stussy
 MADS Klon-Experiment
 Gelungenes Exemplar 01
-
-794
-00:31:45,970 --> 00:31:49,220
 Klon des ehemaligen Mitglieds
 der Rocks-Piratenbande
 Miss Buckingham Stussy
 
-795
+604
 00:31:49,220 --> 00:31:53,140
 Ein gewisses Seegebiet
 Neue Welt
 
-796
+605
 00:32:08,610 --> 00:32:11,370
 War dieser Fisch nicht enorm riesig?
 
-797
+606
 00:32:11,370 --> 00:32:14,120
 Das hier scheint kein gewöhnliches Seegebiet zu sein.
 
-798
+607
 00:32:14,870 --> 00:32:16,370
 Wie aufregend.
 
-799
+608
 00:32:17,170 --> 00:32:18,670
 Ist das eine Insel?
 
-800
+609
 00:32:19,920 --> 00:32:21,340
 Wach auf, Kid!
 
-801
+610
 00:32:22,460 --> 00:32:23,630
 Wir erreichen eine Insel!
 
-802
+611
 00:32:24,130 --> 00:32:25,510
 Gehen wir an Land?
 
-803
+612
 00:32:26,380 --> 00:32:28,380
 Das fragst du noch?
 
-804
+613
 00:32:28,380 --> 00:32:32,600
 Es gibt keine Insel, vor der wir mit einem Landgang noch zögern würden.
 
-805
+614
 00:32:34,100 --> 00:32:36,600
 Hey, was ist das?
 
-806
+615
 00:32:39,940 --> 00:32:44,780
 Ich nehme an, dass diese Insel die Heimat der Riesen ist!
 
-807
+616
 00:32:45,400 --> 00:32:46,780
 Das ist Elbaph!
 
-808
+617
 00:32:49,030 --> 00:32:51,120
 Elbaph...
 
-809
+618
 00:32:51,120 --> 00:32:53,370
 Marine Hauptquartier
 Stützpunkt G-14
 
-810
+619
 00:32:53,370 --> 00:32:56,080
 Das würde Probleme mit sich bringen,
 Vizeadmiral Garp!
 
-811
+620
 00:32:56,500 --> 00:33:00,330
 Wir müssen bald nach Egghead aufbrechen.
 
-812
+621
 00:33:00,330 --> 00:33:02,210
 Nimm uns also keine Soldaten weg.
 
-813
+622
 00:33:02,210 --> 00:33:04,880
 Sei nicht so verklemmt, Doll.
 
-814
+623
 00:33:07,590 --> 00:33:09,590
 Was gibt’s da zu lachen?!
 
-815
+624
 00:33:09,590 --> 00:33:13,850
 Und wenn du schon die Insel eines Kaisers der Meere angreifen willst,
 
-816
+625
 00:33:13,850 --> 00:33:15,560
 gehe ich davon aus, dass du die Erlaubnis
 
-817
+626
 00:33:15,560 --> 00:33:17,520
 von der Chefetage hast, oder?
 
-818
+627
 00:33:17,520 --> 00:33:18,520
 Hä?
 
-819
+628
 00:33:18,520 --> 00:33:19,480
 Wozu brauche ich die?
 
-820
+629
 00:33:20,940 --> 00:33:23,310
 Du bist schon seit Jahrzehnten ein Marine-Soldat!
 
-821
+630
 00:33:25,570 --> 00:33:27,280
 Mach dir mal keine Sorgen.
 
-822
+631
 00:33:27,280 --> 00:33:28,900
 Ich bin bereits da.
 
-823
+632
 00:33:28,900 --> 00:33:30,400
 Wo bist du?
 
-824
+633
 00:33:32,070 --> 00:33:34,200
 Helmeppo!
 
-825
+634
 00:33:34,200 --> 00:33:36,950
 Komm raus!
 
-826
+635
 00:33:37,700 --> 00:33:38,410
 Was war das?
 
-827
+636
 00:33:39,040 --> 00:33:40,160
 War das ein Pirat?!
 
-828
+637
 00:33:40,160 --> 00:33:42,540
 Ruft er nach Helmeppo, um ihn zu töten?!
 
-829
+638
 00:33:42,540 --> 00:33:44,420
 Nein! Das ist...
 
-830
+639
 00:33:52,260 --> 00:33:53,760
 Helmeppo!
 
-831
+640
 00:33:53,760 --> 00:33:55,470
 Da bist du ja!
 
-832
+641
 00:33:55,850 --> 00:33:57,810
 Vizeadmiral Garp!
 
-833
+642
 00:33:59,480 --> 00:34:01,230
 Ich hab dich vermisst!
 
-834
+643
 00:34:01,230 --> 00:34:03,400
 Koby...
 
-835
+644
 00:34:03,400 --> 00:34:07,780
 Koby wurde von Blackbeard erwischt.
 
-836
+645
 00:34:08,150 --> 00:34:11,780
 Ich konnte überhaupt nichts tun.
 
-837
+646
 00:34:11,780 --> 00:34:14,160
 Hör auf zu flennen!
 
-838
+647
 00:34:14,160 --> 00:34:15,580
 Du bist eine Schande!
 
-839
+648
 00:34:17,490 --> 00:34:19,410
 Vizeadmiral Garp!
 
-840
+649
 00:34:20,500 --> 00:34:22,210
 Na schön.
 
-841
+650
 00:34:22,210 --> 00:34:23,920
 Kommt mal an Bord!
 
-842
+651
 00:34:24,380 --> 00:34:28,250
 Wir setzen sofort Kurs auf die Pirateninsel Hachinosu,
 
-843
+652
 00:34:28,250 --> 00:34:30,630
 um das Piratenpack zu vermöbeln
 
-844
+653
 00:34:30,970 --> 00:34:33,380
 und Kapitän Koby...
 
-845
+654
 00:34:33,380 --> 00:34:35,340
 zu retten!
 
-846
+655
 00:34:35,720 --> 00:34:37,850
 – Vizeadmiral Garp!
 – Vizeadmiral Garp!

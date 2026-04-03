@@ -67,385 +67,376 @@ Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 17
 00:02:50,140 --> 00:02:51,270
 أسلوب الكابا
-
-18
-00:02:50,140 --> 00:02:51,270
 كابا ريو
 
-19
+18
 00:02:51,810 --> 00:02:53,860
 يوريكيري
 
-20
+19
 00:03:00,910 --> 00:03:02,410
 كاواماتسو
 
-21
+20
 00:03:03,120 --> 00:03:06,370
 كاواماتسو، كاواماتسو
 
-22
+21
 00:03:06,370 --> 00:03:07,370
 أميرتي
 
-23
+22
 00:03:07,370 --> 00:03:09,750
 كاواماتسو... هل أنت بخير؟
 
-24
+23
 00:03:11,500 --> 00:03:13,330
 لا داعي للقلق
 
-25
+24
 00:03:13,920 --> 00:03:19,220
 قد نصادف مزيدًا من الأعداء، لنغادر هذا المكان
 
-26
+25
 00:03:17,800 --> 00:03:19,220
 ...أنت على حقّ
 
-27
+26
 00:03:21,880 --> 00:03:24,640
 اصعدي! يصعب المشي هنا
 
-28
+27
 00:03:26,140 --> 00:03:30,060
 !تمهّل! لستُ طفلة يا كاواماتسو
 
-29
+28
 00:03:31,730 --> 00:03:33,100
 فعلًا؟
 
-30
+29
 00:03:33,100 --> 00:03:36,770
 لكنّ لا ينفخ البالغون خدودهم عابسين هكذا كالأسماك المنتفخة
 
-31
+30
 00:03:36,770 --> 00:03:38,610
 ماذا؟ كيف أمكنك قول ذلك؟
 
-32
+31
 00:03:41,070 --> 00:03:43,570
 يشعرني هذا بالحنين حقًّا
 
-33
+32
 00:03:43,950 --> 00:03:47,910
 لا أصدّق أنّه تسنّى لي المشي معك ثانية
 
-34
+33
 00:03:47,910 --> 00:03:52,540
 أريد أن أحدّثك في أمور عدّة لكن أوّلًا، لماذا أنت هنا؟
 
-35
+34
 00:03:52,540 --> 00:03:58,000
 ...بعد اختفائك، شققت طريقي إلى هنا أؤدّي أعمالًا عاديّة
 
-36
+35
 00:03:58,000 --> 00:04:03,380
 وكما هو حال هاكوماي المجاورة فإنّ هذه المنطقة الشّماليّة من رينغو
 
-37
+36
 00:04:03,380 --> 00:04:09,100
 كانت تحت حكم عشيرة شيموتسكي الّذين اشتهروا بقوّتهم
 
-38
+37
 00:04:09,100 --> 00:04:12,480
 كان اسم الدّايميو هو شيموتسكي أوشيمارو-ساما
 
-39
+38
 00:04:12,480 --> 00:04:17,190
 كان سيّافًا خبيرًا يرافقه ثعلب على الدّوام
 
-40
+39
 00:04:17,190 --> 00:04:18,570
 ثعلب؟
 
-41
+40
 00:04:18,570 --> 00:04:25,950
 ولكن، دمّر كايدو رينغو تمامًا كما فعل بالمناطق الأخرى
 
-42
+41
 00:04:26,490 --> 00:04:31,950
 يا أميرتي، هل تعرفين تقليد القبور الأبديّة لرينغو؟
 
-43
+42
 00:04:31,950 --> 00:04:37,540
 نعم، سمعتُ أنّ الجثث توضع في توابيت ولا تتحلّل لقرون بسبب البرد
 
-44
+43
 00:04:37,920 --> 00:04:42,760
 هذا صحيح، ويُفترض أنّ شواهد القبور عبارة عن سيوف
 
-45
+44
 00:04:43,340 --> 00:04:47,600
 يُمنح سكّان رينغو سيوفًا عندما يولدون
 
-46
+45
 00:04:47,600 --> 00:04:51,020
 إذ يكبرون معها ويحتفظون  بها في شيخوختهم
 
-47
+46
 00:04:51,020 --> 00:04:55,650
 وعندما يموتون، تصبح السّيوف الّتي حملوها شواهد لقبورهم
 
-48
+47
 00:04:55,650 --> 00:04:58,860
 ترافق السّيوف أصحابها إلى الأبد
 
-49
+48
 00:04:58,860 --> 00:05:02,490
 لهذا السّبب تسمّى هذه القبور بالقبور الأبديّة
 
-50
+49
 00:05:03,820 --> 00:05:09,780
 لكن بما أنّ بعضها عبارة عن سيوف عظيمة مشهورة، أمسى نبش القبور مشكلة مستمرّة
 
-51
+50
 00:05:10,660 --> 00:05:13,680
 هذه هي حالة رينغو الراهنة
 
-52
+51
 00:05:15,210 --> 00:05:20,130
 ...دعيني أخبرك ماذا حدث عندما أتيت إلى هنا قبل ثلاث عشرة سنة
 
-53
+52
 00:05:29,740 --> 00:05:33,480
 ...كنت عازمًا أنّني إن شققت بطني فسأفعل ذلك في هذه المنطقة
 
-54
+53
 00:05:42,530 --> 00:05:46,240
 سُحقًا! أهذا وحش؟ كم هو مريب
 
-55
+54
 00:05:47,820 --> 00:05:50,240
 !سنأخذ الأسلحة لاحقًا! اهربوا
 
-56
+55
 00:05:50,240 --> 00:05:52,700
 هذه لعنة السّاموراي من رينغو؟
 
-57
+56
 00:05:58,670 --> 00:06:03,750
 كم هذا مزعج، لماذا لا يدعونني أموت بسلام؟
 
-58
+57
 00:06:10,340 --> 00:06:11,680
 هذا أنت
 
-59
+58
 00:06:11,680 --> 00:06:15,520
 نعم. قابلتك مرّة من قبل
 
-60
+59
 00:06:17,560 --> 00:06:20,480
 ألستَ أونيمارو؟
 
-61
+60
 00:06:21,080 --> 00:06:24,570
 كان اسم ثعلب الكوما ذاك هو أونيمارو
 
-62
+61
 00:06:24,570 --> 00:06:29,780
 كان رفيق شيموتسكي أوشيمارو-ساما دايميو رينغو الرّاحل
 
-63
+62
 00:06:39,460 --> 00:06:45,710
 عجبًا، أكنت تحمي كل هذا وحدك؟
 
-64
+63
 00:06:46,240 --> 00:06:50,590
 لأكثر من خمس سنوات منذ دمار رينغو كان أوينمارو يقاتل وحيدًا
 
-65
+64
 00:06:50,590 --> 00:06:56,180
 ضدّ نابشي القبور الّذين أتوا لسرقة الأسلحة من القبور الأبديّة
 
-66
+65
 00:06:57,040 --> 00:07:01,600
 هيّا. لا يجب عليك أن تخاف، أنا حليفك
 
-67
+66
 00:07:05,780 --> 00:07:07,900
 ...أنت مصاب
 
-68
+67
 00:07:14,900 --> 00:07:15,370
 أونيمارو
 
-69
+68
 00:07:15,370 --> 00:07:17,790
 ابقَ معي
 
-70
+69
 00:07:29,670 --> 00:07:32,090
 أنت مستيقظ
 
-71
+70
 00:07:32,740 --> 00:07:34,470
 إليك طعامك
 
-72
+71
 00:07:34,470 --> 00:07:37,500
 تحبّ الثّعالب التّوفو المقليّ، صحيح؟
 
-73
+72
 00:07:41,350 --> 00:07:45,560
 ما الخطب؟ لن يلتئم ذلك الجرح ما لم تأكل
 
-74
+73
 00:07:45,560 --> 00:07:47,940
 لن تستطيع حراسة قبر سيّدك إن متّ
 
-75
+74
 00:07:48,480 --> 00:07:52,610
 كُل، هيّا. جرّبه
 
-76
+75
 00:08:00,250 --> 00:08:05,000
 حسنًا، معدتي تؤلمني، أعتقد أنّني أكثرت من الأكل
 
-77
+76
 00:08:08,800 --> 00:08:11,340
 ذلك لا يهمّ
 
-78
+77
 00:08:11,340 --> 00:08:13,510
 !هيّا! لا تخجل
 
-79
+78
 00:08:28,570 --> 00:08:30,690
 هل أحببته؟
 
-80
+79
 00:09:08,310 --> 00:09:10,940
 أونيمارو، لا تحدث جلبة
 
-81
+80
 00:09:13,690 --> 00:09:15,780
 !سامحني! أعرف ما تودّ قوله
 
-82
+81
 00:09:24,160 --> 00:09:25,620
 Let go!اتركني
 
-83
+82
 00:09:28,290 --> 00:09:31,130
 كيف لي أن أشرح الأمر لك؟
 
-84
+83
 00:09:31,640 --> 00:09:35,170
 لا أودّ أن أؤرق نوم الأموات
 
-85
+84
 00:09:35,170 --> 00:09:40,060
 لكن عليّ فعل هذا الآن
 
-86
+85
 00:09:42,770 --> 00:09:45,850
 غادروا... إلى المستقبل
 
-87
+86
 00:09:58,860 --> 00:10:03,950
 بعد ثلاث عشرة سنة من الآن، ستحدث معركة كبيرة ثانية
 
-88
+87
 00:10:11,670 --> 00:10:12,920
 اسمع
 
-89
+88
 00:10:12,920 --> 00:10:18,300
 أنا واثق أنّه سيحلّ يوم سيقف فيه السّاموراي من أقاصي البلاد شامخين
 
-90
+89
 00:10:18,300 --> 00:10:23,350
 وعند حدوث ذلك، فسنحتاج لأطنان من السّيوف
 
-91
+90
 00:10:23,350 --> 00:10:30,440
 وفي ساحة المعركة، سنحمل سيوف زملائنا الّذين قضوا نحبهم أمام أعيننا وسنتقدّم
 
-92
+91
 00:10:30,980 --> 00:10:37,360
 ستجعل الأرواح الّتي ترقد في تلك السّيوف السّاموراي أقوى وأجدر بهزيمة الأعداء
 
-93
+92
 00:10:37,800 --> 00:10:41,910
 ما زالت هذه ساحة معركة
 
-94
+93
 00:10:42,200 --> 00:10:43,910
 اسمع يا أونيمارو
 
-95
+94
 00:10:44,500 --> 00:10:49,870
 إنّ المعركة بين قراصنة الوحوش وبلاد وانو لم تنقضِ بعد
 
-96
+95
 00:10:50,460 --> 00:10:53,590
 ما زال الوقت أبكر من أن ترقد هذه السّيوف بسلام
 
-97
+96
 00:10:53,590 --> 00:11:01,390
 وإلى أن يحين ذلك اليوم، لا يجب لنا السّماح لأولئك اللّصوص بأخذ السّيوف
 
-98
+97
 00:11:02,390 --> 00:11:05,560
 وعوض ذلك، سأجمعها كلّها
 
-99
+98
 00:11:06,320 --> 00:11:07,980
 وأخفيها
 
-100
+99
 00:11:09,400 --> 00:11:13,020
 ...أنا أفهم
 
-101
+100
 00:11:13,020 --> 00:11:18,610
 أنّ هذا هو الدّور الوحيد الّذي مُنحتُ إيّاه
 
-102
+101
 00:11:24,030 --> 00:11:29,410
 أيتها الأميرة هيوري-ساما
 
-103
+102
 00:11:37,630 --> 00:11:41,550
 ...لم أستطع حماية هيوري-ساما
 
-104
+103
 00:11:42,920 --> 00:11:44,510
 ...لذلك
 
-105
+104
 00:11:45,220 --> 00:11:50,430
 هذا أقلّ ما بإمكاني فعله
 
-106
+105
 00:11:52,060 --> 00:11:56,690
 ...عليّ إبقاء نفسي منشغلًا بشيء ما وإلاّ عذّبني النّدم وقتلني
 
-107
+106
 00:11:57,400 --> 00:11:58,860
 إن كنتَ جائعًا
 
-108
+107
 00:11:58,860 --> 00:12:02,990
 فاقضم هذه الذّراع بسرعة وخذها
 
-109
+108
 00:12:02,990 --> 00:12:07,120
 لن أكفّ عن سرقة القبور
 
-110
+109
 00:12:36,230 --> 00:12:36,270
 شيموتسكي
-
-111
-00:12:36,230 --> 00:12:36,270
 أوشيمارو
-
-112
-00:12:36,230 --> 00:12:36,270
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -460,9 +451,138 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+110
+00:12:36,270 --> 00:12:36,310
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+111
+00:12:36,310 --> 00:12:36,360
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+112
+00:12:36,360 --> 00:12:36,400
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 113
-00:12:36,230 --> 00:12:36,270
+00:12:36,400 --> 00:12:36,440
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -479,15 +599,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 114
-00:12:36,270 --> 00:12:36,310
+00:12:36,440 --> 00:12:36,480
 شيموتسكي
-
-115
-00:12:36,270 --> 00:12:36,310
 أوشيمارو
-
-116
-00:12:36,270 --> 00:12:36,310
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -502,9 +616,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+115
+00:12:36,480 --> 00:12:36,520
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+116
+00:12:36,520 --> 00:12:36,560
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 117
-00:12:36,270 --> 00:12:36,310
+00:12:36,560 --> 00:12:36,610
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -521,15 +731,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 118
-00:12:36,310 --> 00:12:36,360
+00:12:36,610 --> 00:12:36,650
 شيموتسكي
-
-119
-00:12:36,310 --> 00:12:36,360
 أوشيمارو
-
-120
-00:12:36,310 --> 00:12:36,360
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -544,9 +748,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+119
+00:12:36,650 --> 00:12:36,690
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+120
+00:12:36,690 --> 00:12:36,730
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 121
-00:12:36,310 --> 00:12:36,360
+00:12:36,730 --> 00:12:36,770
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -563,15 +863,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 122
-00:12:36,360 --> 00:12:36,400
+00:12:36,770 --> 00:12:36,810
 شيموتسكي
-
-123
-00:12:36,360 --> 00:12:36,400
 أوشيمارو
-
-124
-00:12:36,360 --> 00:12:36,400
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -586,9 +880,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+123
+00:12:36,810 --> 00:12:36,860
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+124
+00:12:36,860 --> 00:12:36,900
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 125
-00:12:36,360 --> 00:12:36,400
+00:12:36,900 --> 00:12:36,940
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -605,15 +995,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 126
-00:12:36,400 --> 00:12:36,440
+00:12:36,940 --> 00:12:36,980
 شيموتسكي
-
-127
-00:12:36,400 --> 00:12:36,440
 أوشيمارو
-
-128
-00:12:36,400 --> 00:12:36,440
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -628,9 +1012,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+127
+00:12:36,980 --> 00:12:37,020
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+128
+00:12:37,020 --> 00:12:37,060
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 129
-00:12:36,400 --> 00:12:36,440
+00:12:37,060 --> 00:12:37,110
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -647,15 +1127,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 130
-00:12:36,440 --> 00:12:36,480
+00:12:37,110 --> 00:12:37,150
 شيموتسكي
-
-131
-00:12:36,440 --> 00:12:36,480
 أوشيمارو
-
-132
-00:12:36,440 --> 00:12:36,480
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -670,9 +1144,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+131
+00:12:37,150 --> 00:12:37,190
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+132
+00:12:37,190 --> 00:12:37,230
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 133
-00:12:36,440 --> 00:12:36,480
+00:12:37,230 --> 00:12:37,270
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -689,15 +1259,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 134
-00:12:36,480 --> 00:12:36,520
+00:12:37,270 --> 00:12:37,310
 شيموتسكي
-
-135
-00:12:36,480 --> 00:12:36,520
 أوشيمارو
-
-136
-00:12:36,480 --> 00:12:36,520
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -712,9 +1276,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+135
+00:12:37,310 --> 00:12:37,360
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+136
+00:12:37,360 --> 00:12:37,400
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 137
-00:12:36,480 --> 00:12:36,520
+00:12:37,400 --> 00:12:37,440
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -731,15 +1391,9 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 138
-00:12:36,520 --> 00:12:36,560
+00:12:37,440 --> 00:12:37,480
 شيموتسكي
-
-139
-00:12:36,520 --> 00:12:36,560
 أوشيمارو
-
-140
-00:12:36,520 --> 00:12:36,560
 SBVWaclzaWKCeHuNhSlPdyF
 KLOJnLUVvdGwoESEIUIuekz
 adEcwFEWtSyMJNxkPmTwscm
@@ -754,9 +1408,105 @@ ZaxJuPHIBSfpzdBcHrMIrox
 GnPYOMeCEjBsGUzSWQeHpyI
 oiJCZQBjbbprcmPYeDuDoCz
 SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+139
+00:12:37,480 --> 00:12:37,520
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
+
+140
+00:12:37,520 --> 00:12:37,560
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 141
-00:12:36,520 --> 00:12:36,560
+00:12:37,560 --> 00:12:37,610
+شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
 isnyiSAUxBsmCyQPvjfvLuV
 zTraCOfwIiuxHBfshLDEmuW
 WgZpRdjlVzAqdwoUFMiioNz
@@ -773,1753 +1523,694 @@ BWmPVAvQXjvcRnUHcqnEkYR
 FRrdOZerMeqwFEceHNTzKLP
 
 142
-00:12:36,560 --> 00:12:36,610
+00:12:37,610 --> 00:12:37,650
 شيموتسكي
+أوشيمارو
+SBVWaclzaWKCeHuNhSlPdyF
+KLOJnLUVvdGwoESEIUIuekz
+adEcwFEWtSyMJNxkPmTwscm
+DjXdobMHgKOFVoCXtIDkcpc
+scpGscTjMnaKjDRnChCUotW
+hLhUZgAufynxYvklzhzIgUb
+upiIiJoktNGGWVyvwVFihdE
+gpIDgZvADFoZaBsNXyJGaWG
+jDiqWYPxfUgbkenrFAKVYXF
+gcmTylIXLVWexJpzQOtVvYb
+ZaxJuPHIBSfpzdBcHrMIrox
+GnPYOMeCEjBsGUzSWQeHpyI
+oiJCZQBjbbprcmPYeDuDoCz
+SyVODdPdGuEwbERoHNviSTf
+isnyiSAUxBsmCyQPvjfvLuV
+zTraCOfwIiuxHBfshLDEmuW
+WgZpRdjlVzAqdwoUFMiioNz
+HOcoPquaRWIIrNpKzGYOAuY
+wLVpyehSsAlBjyphwIdDZFy
+usWTVaqkiOZpaBxQJmBITWx
+czOEUafvFAhJeindecQJfTz
+sVKTokPOTCCtZzcmJPejMXj
+nTclZtSsIfNmFOowmokFFFn
+dldzAZqBHeINdFlbsnscWOb
+qLkCxlwikJHpFfwvaJAQQEc
+dOqCVsbfdMKnMnyiANzhKEA
+BWmPVAvQXjvcRnUHcqnEkYR
+FRrdOZerMeqwFEceHNTzKLP
 
 143
-00:12:36,560 --> 00:12:36,610
-أوشيمارو
-
-144
-00:12:36,560 --> 00:12:36,610
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-145
-00:12:36,560 --> 00:12:36,610
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-146
-00:12:36,610 --> 00:12:36,650
-شيموتسكي
-
-147
-00:12:36,610 --> 00:12:36,650
-أوشيمارو
-
-148
-00:12:36,610 --> 00:12:36,650
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-149
-00:12:36,610 --> 00:12:36,650
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-150
-00:12:36,650 --> 00:12:36,690
-شيموتسكي
-
-151
-00:12:36,650 --> 00:12:36,690
-أوشيمارو
-
-152
-00:12:36,650 --> 00:12:36,690
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-153
-00:12:36,650 --> 00:12:36,690
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-154
-00:12:36,690 --> 00:12:36,730
-شيموتسكي
-
-155
-00:12:36,690 --> 00:12:36,730
-أوشيمارو
-
-156
-00:12:36,690 --> 00:12:36,730
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-157
-00:12:36,690 --> 00:12:36,730
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-158
-00:12:36,730 --> 00:12:36,770
-شيموتسكي
-
-159
-00:12:36,730 --> 00:12:36,770
-أوشيمارو
-
-160
-00:12:36,730 --> 00:12:36,770
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-161
-00:12:36,730 --> 00:12:36,770
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-162
-00:12:36,770 --> 00:12:36,810
-شيموتسكي
-
-163
-00:12:36,770 --> 00:12:36,810
-أوشيمارو
-
-164
-00:12:36,770 --> 00:12:36,810
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-165
-00:12:36,770 --> 00:12:36,810
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-166
-00:12:36,810 --> 00:12:36,860
-شيموتسكي
-
-167
-00:12:36,810 --> 00:12:36,860
-أوشيمارو
-
-168
-00:12:36,810 --> 00:12:36,860
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-169
-00:12:36,810 --> 00:12:36,860
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-170
-00:12:36,860 --> 00:12:36,900
-شيموتسكي
-
-171
-00:12:36,860 --> 00:12:36,900
-أوشيمارو
-
-172
-00:12:36,860 --> 00:12:36,900
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-173
-00:12:36,860 --> 00:12:36,900
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-174
-00:12:36,900 --> 00:12:36,940
-شيموتسكي
-
-175
-00:12:36,900 --> 00:12:36,940
-أوشيمارو
-
-176
-00:12:36,900 --> 00:12:36,940
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-177
-00:12:36,900 --> 00:12:36,940
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-178
-00:12:36,940 --> 00:12:36,980
-شيموتسكي
-
-179
-00:12:36,940 --> 00:12:36,980
-أوشيمارو
-
-180
-00:12:36,940 --> 00:12:36,980
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-181
-00:12:36,940 --> 00:12:36,980
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-182
-00:12:36,980 --> 00:12:37,020
-شيموتسكي
-
-183
-00:12:36,980 --> 00:12:37,020
-أوشيمارو
-
-184
-00:12:36,980 --> 00:12:37,020
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-185
-00:12:36,980 --> 00:12:37,020
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-186
-00:12:37,020 --> 00:12:37,060
-شيموتسكي
-
-187
-00:12:37,020 --> 00:12:37,060
-أوشيمارو
-
-188
-00:12:37,020 --> 00:12:37,060
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-189
-00:12:37,020 --> 00:12:37,060
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-190
-00:12:37,060 --> 00:12:37,110
-شيموتسكي
-
-191
-00:12:37,060 --> 00:12:37,110
-أوشيمارو
-
-192
-00:12:37,060 --> 00:12:37,110
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-193
-00:12:37,060 --> 00:12:37,110
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-194
-00:12:37,110 --> 00:12:37,150
-شيموتسكي
-
-195
-00:12:37,110 --> 00:12:37,150
-أوشيمارو
-
-196
-00:12:37,110 --> 00:12:37,150
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-197
-00:12:37,110 --> 00:12:37,150
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-198
-00:12:37,150 --> 00:12:37,190
-شيموتسكي
-
-199
-00:12:37,150 --> 00:12:37,190
-أوشيمارو
-
-200
-00:12:37,150 --> 00:12:37,190
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-201
-00:12:37,150 --> 00:12:37,190
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-202
-00:12:37,190 --> 00:12:37,230
-شيموتسكي
-
-203
-00:12:37,190 --> 00:12:37,230
-أوشيمارو
-
-204
-00:12:37,190 --> 00:12:37,230
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-205
-00:12:37,190 --> 00:12:37,230
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-206
-00:12:37,230 --> 00:12:37,270
-شيموتسكي
-
-207
-00:12:37,230 --> 00:12:37,270
-أوشيمارو
-
-208
-00:12:37,230 --> 00:12:37,270
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-209
-00:12:37,230 --> 00:12:37,270
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-210
-00:12:37,270 --> 00:12:37,310
-شيموتسكي
-
-211
-00:12:37,270 --> 00:12:37,310
-أوشيمارو
-
-212
-00:12:37,270 --> 00:12:37,310
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-213
-00:12:37,270 --> 00:12:37,310
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-214
-00:12:37,310 --> 00:12:37,360
-شيموتسكي
-
-215
-00:12:37,310 --> 00:12:37,360
-أوشيمارو
-
-216
-00:12:37,310 --> 00:12:37,360
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-217
-00:12:37,310 --> 00:12:37,360
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-218
-00:12:37,360 --> 00:12:37,400
-شيموتسكي
-
-219
-00:12:37,360 --> 00:12:37,400
-أوشيمارو
-
-220
-00:12:37,360 --> 00:12:37,400
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-221
-00:12:37,360 --> 00:12:37,400
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-222
-00:12:37,400 --> 00:12:37,440
-شيموتسكي
-
-223
-00:12:37,400 --> 00:12:37,440
-أوشيمارو
-
-224
-00:12:37,400 --> 00:12:37,440
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-225
-00:12:37,400 --> 00:12:37,440
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-226
-00:12:37,440 --> 00:12:37,480
-شيموتسكي
-
-227
-00:12:37,440 --> 00:12:37,480
-أوشيمارو
-
-228
-00:12:37,440 --> 00:12:37,480
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-229
-00:12:37,440 --> 00:12:37,480
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-230
-00:12:37,480 --> 00:12:37,520
-شيموتسكي
-
-231
-00:12:37,480 --> 00:12:37,520
-أوشيمارو
-
-232
-00:12:37,480 --> 00:12:37,520
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-233
-00:12:37,480 --> 00:12:37,520
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-234
-00:12:37,520 --> 00:12:37,560
-شيموتسكي
-
-235
-00:12:37,520 --> 00:12:37,560
-أوشيمارو
-
-236
-00:12:37,520 --> 00:12:37,560
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-237
-00:12:37,520 --> 00:12:37,560
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-238
-00:12:37,560 --> 00:12:37,610
-شيموتسكي
-
-239
-00:12:37,560 --> 00:12:37,610
-أوشيمارو
-
-240
-00:12:37,560 --> 00:12:37,610
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-241
-00:12:37,560 --> 00:12:37,610
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-242
-00:12:37,610 --> 00:12:37,650
-شيموتسكي
-
-243
-00:12:37,610 --> 00:12:37,650
-أوشيمارو
-
-244
-00:12:37,610 --> 00:12:37,650
-SBVWaclzaWKCeHuNhSlPdyF
-KLOJnLUVvdGwoESEIUIuekz
-adEcwFEWtSyMJNxkPmTwscm
-DjXdobMHgKOFVoCXtIDkcpc
-scpGscTjMnaKjDRnChCUotW
-hLhUZgAufynxYvklzhzIgUb
-upiIiJoktNGGWVyvwVFihdE
-gpIDgZvADFoZaBsNXyJGaWG
-jDiqWYPxfUgbkenrFAKVYXF
-gcmTylIXLVWexJpzQOtVvYb
-ZaxJuPHIBSfpzdBcHrMIrox
-GnPYOMeCEjBsGUzSWQeHpyI
-oiJCZQBjbbprcmPYeDuDoCz
-SyVODdPdGuEwbERoHNviSTf
-
-245
-00:12:37,610 --> 00:12:37,650
-isnyiSAUxBsmCyQPvjfvLuV
-zTraCOfwIiuxHBfshLDEmuW
-WgZpRdjlVzAqdwoUFMiioNz
-HOcoPquaRWIIrNpKzGYOAuY
-wLVpyehSsAlBjyphwIdDZFy
-usWTVaqkiOZpaBxQJmBITWx
-czOEUafvFAhJeindecQJfTz
-sVKTokPOTCCtZzcmJPejMXj
-nTclZtSsIfNmFOowmokFFFn
-dldzAZqBHeINdFlbsnscWOb
-qLkCxlwikJHpFfwvaJAQQEc
-dOqCVsbfdMKnMnyiANzhKEA
-BWmPVAvQXjvcRnUHcqnEkYR
-FRrdOZerMeqwFEceHNTzKLP
-
-246
 00:12:54,710 --> 00:12:57,170
 ...أونيمارو
 
-247
+144
 00:13:12,930 --> 00:13:18,230
 ما الّذي حلّ بك؟ هل فهمت ما قلتُه؟
 
-248
+145
 00:13:20,730 --> 00:13:23,440
 !حسنًا يا أونيمارو! سأنضمّ إليك
 
-249
+146
 00:13:24,740 --> 00:13:29,280
 وهكذا، اتّحدنا أنا وأونيمارو
 
-250
+147
 00:13:29,280 --> 00:13:32,290
 لحماية القبور وجمع السّيوف
 
-251
+148
 00:13:41,380 --> 00:13:44,520
 !حسنًا! يوم جديد لسرقة القبور
 
-252
+149
 00:13:52,060 --> 00:13:54,930
 البرد قارس اليوم
 
-253
+150
 00:13:56,810 --> 00:14:00,730
 إن استمرّ الوضع هكذا فلن يظلّ لنا مكان للنّوم
 
-254
+151
 00:14:01,440 --> 00:14:04,610
 لنحفر حفرة ونخفيها فيها
 
-255
+152
 00:14:07,150 --> 00:14:08,780
 ...أنا جائع
 
-256
+153
 00:14:09,450 --> 00:14:13,040
 إن بعت سيفًا أو سيفين في العاصمة
 
-257
+154
 00:14:13,040 --> 00:14:18,040
 ...فسأجني مالًا لشراء طعام يكفي لمدّة
 
-258
+155
 00:14:18,040 --> 00:14:19,120
 أونيمارو؟
 
-259
+156
 00:14:22,460 --> 00:14:24,550
 كنتُ أمزح، أمزح
 
-260
+157
 00:14:27,470 --> 00:14:29,930
 ...لا يمكن لجيش التّقدّم بمعدة خاوية
 
-261
+158
 00:14:32,720 --> 00:14:35,930
 !هذا من أجل مصلحة أعظم! سامحوني
 
-262
+159
 00:14:37,280 --> 00:14:38,890
 لقد عدتُ يا أونيمارو
 
-263
+160
 00:14:38,890 --> 00:14:41,820
 أحضرت بعض الطّعام
 
-264
+161
 00:14:42,560 --> 00:14:45,320
 إليك التّوفو المقليّ المفضّل لديك
 
-265
+162
 00:14:52,030 --> 00:14:55,450
 ثمّة فرصة لجني المال في مكان كهذا؟
 
-266
+163
 00:14:55,450 --> 00:14:58,460
 بينغو، هل أنت واثق؟
 
-267
+164
 00:14:58,460 --> 00:15:03,960
 نعم، لقد تحقّقت منه، القبور الأبديّة عبارة عن كنز دفين
 
-268
+165
 00:15:04,340 --> 00:15:07,260
 بإمكاننا سرقة ما نشاء من السّيوف، انظروا
 
-269
+166
 00:15:07,660 --> 00:15:10,880
 الجانب الرّئيسيّ من رينغو خلف ذلك الجسر
 
-270
+167
 00:15:16,640 --> 00:15:17,890
 ماذا هنالك؟
 
-271
+168
 00:15:17,890 --> 00:15:20,600
 غادروا أيّها اللّصوص
 
-272
+169
 00:15:20,600 --> 00:15:24,480
 لا يستطيع منحطّون مثلكم الحصول على أيّ سيف
 
-273
+170
 00:15:24,480 --> 00:15:28,400
 !كفاك عبثًا! هيّا بنا يا بُنغو وبونغو
 
-274
+171
 00:15:27,900 --> 00:15:28,400
 أجل
 
-275
+172
 00:15:28,740 --> 00:15:30,900
 أونيمارو
 
-276
+173
 00:15:37,580 --> 00:15:39,960
 من... من أنت أيّها الوغد؟
 
-277
+174
 00:15:40,500 --> 00:15:44,420
 ...أتريد معرفة اسمي؟ حسنًا
 
-278
+175
 00:15:49,300 --> 00:15:50,880
 لديّ فكرة
 
-279
+176
 00:15:50,880 --> 00:15:52,840
 ...اسمي
 
-280
+177
 00:15:52,840 --> 00:15:55,720
 ...قابع جسر قطّاع الطّرق
 
-281
+178
 00:15:56,560 --> 00:16:02,770
 غيوكيمارو
 
-282
+179
 00:16:04,800 --> 00:16:07,980
 والآن، دعوا أسلحتكم وغادروا
 
-283
+180
 00:16:17,220 --> 00:16:19,750
 غيوكيمارو؟ أهذه مصادفة؟
 
-284
+181
 00:16:20,240 --> 00:16:23,250
 ...يحمل الرّاهب المحارب نفس الاسم
 
-285
+182
 00:16:23,250 --> 00:16:28,960
 وبعد وقت قصير من ذلك ذهبت للعاصمة لإحضار الطّعام
 
-286
+183
 00:16:28,960 --> 00:16:35,680
 ولكن لسبب معيّن لم أستطع العودة
 
-287
+184
 00:16:37,890 --> 00:16:40,640
 ...اعذروني يا سكان العاصمة
 
-288
+185
 00:16:45,560 --> 00:16:49,150
 أنت رهن الاعتقال
 
-289
+186
 00:16:49,150 --> 00:16:53,400
 !أمسكنا به! كفاك مقاومة يا لصّ التّوفو المقليّ
 
-290
+187
 00:16:53,700 --> 00:16:58,030
 ...هذه أخطر غلطة في حياتي
 
-291
+188
 00:17:05,920 --> 00:17:08,540
 ...سامحني يا أونيمارو
 
-292
+189
 00:17:11,840 --> 00:17:14,590
 وكُنت سجينًا لثلاث عشرة سنة؟
 
-293
+190
 00:17:15,340 --> 00:17:17,510
 كان ذلك فشلًا ذريعًا
 
-294
+191
 00:17:17,510 --> 00:17:21,720
 إذًا فقد أتيت اليوم إلى هنا لرؤية ذلك الثّعلب؟
 
-295
+192
 00:17:21,720 --> 00:17:27,150
 كلاّ، أنا واثق أنّ أونيمارو قد تخلّى عنّي بما أنّني لم أعد
 
-296
+193
 00:17:27,150 --> 00:17:31,940
 مضت ثلاثة عشر... لا أظنه ما زال موجودًا
 
-297
+194
 00:17:37,860 --> 00:17:39,450
 زوروجورو-سان
 
-298
+195
 00:17:40,030 --> 00:17:42,490
 ما الّذي حلّ بذلك الرّاهب المحارب؟
 
-299
+196
 00:17:42,490 --> 00:17:47,460
 فتح هذا الباب وهرب
 
-300
+197
 00:17:48,000 --> 00:17:50,340
 ...فتح الباب؟ هذا المكان
 
-301
+198
 00:17:50,700 --> 00:17:53,670
 ما الّذي كان يفكّر به؟
 
-302
+199
 00:17:54,090 --> 00:18:00,260
 ...أيعقل أنّ هذا هو الطّريق المؤدّي للمكان تحت الأرضي الّذي أنشأناه
 
-303
+200
 00:18:06,440 --> 00:18:08,190
 مرحبًا؟ أهذا أنت يا كينيمون؟
 
-304
+201
 00:18:08,190 --> 00:18:12,610
 !هذا أنت يا كاواماتسو! أنا سعيد لأنّك حيّ
 
-305
+202
 00:18:12,610 --> 00:18:18,240
 لدينا الكثير لنتحدّث عنه لكني بحاجة لإخبارك بأمر أوّلًا
 
-306
+203
 00:18:18,720 --> 00:18:21,780
 تعرف أنّنا أخضعنا أودون، صحيح؟
 
-307
+204
 00:18:21,780 --> 00:18:23,740
 نعم، بشأن ذلك
 
-308
+205
 00:18:24,410 --> 00:18:31,420
 أخبرني رايزو أنّ أعداد الجنود في جانبنا قد تزايدت بفضل لوفيتارو-دونو
 
-309
+206
 00:18:31,420 --> 00:18:34,420
 لكنّني أراهن أنّكم لا تملكون سيوفًا بما يكفي
 
-310
+207
 00:18:34,420 --> 00:18:39,890
 هذا صحيح تمامًا! شغل ذلك الموضوع بالنا طوال الوقت
 
-311
+208
 00:18:39,890 --> 00:18:45,680
 أوروتشي اللّعين كان يسلب النّاس سيوفهم في كلّ أرجاء  البلاد في السنين العشرين الماضية
 
-312
+209
 00:18:45,680 --> 00:18:47,140
 ...ذلك ما توقّعته
 
-313
+210
 00:18:47,760 --> 00:18:49,310
 لكن لا داعي للقلق
 
-314
+211
 00:18:49,310 --> 00:18:52,190
 حتّى إن جمعتم آلاف الجنود
 
-315
+212
 00:18:52,680 --> 00:18:55,070
 أستطيع تزويدكم بقدر ما تشاؤون من السّيوف
 
-316
+213
 00:18:55,480 --> 00:18:57,570
 !ماذا؟! أأنت جادّ؟
 
-317
+214
 00:18:57,570 --> 00:19:00,660
 أرسل بعض الأشخاص إلى المكان الّذي سأخبرك عنه الآن
 
-318
+215
 00:19:01,040 --> 00:19:02,870
 !لك ذلك! سأفعل هذا في الحال
 
-319
+216
 00:19:05,910 --> 00:19:07,750
 لكن كيف...؟
 
-320
+217
 00:19:08,220 --> 00:19:12,290
 ...أفعل أونيمارو هذا؟ لكن لا غير البشر بوسعهم فعل هذا
 
-321
+218
 00:19:12,290 --> 00:19:14,820
 من فعل هذا إذًا؟
 
-322
+219
 00:19:22,640 --> 00:19:28,850
 ...كاواماتسو-ساما... أدّيت... واجبي
 
-323
+220
 00:19:29,180 --> 00:19:30,440
 بالتوفيق
 
-324
+221
 00:19:47,520 --> 00:19:50,290
 قبل أسبوع عن غارة أونيغاشيما حيث يُخطّط
 
-325
+222
 00:19:50,290 --> 00:19:54,420
 أن تجري المعركة النهائية في يوم مهرجان النار
 
-326
+223
 00:19:54,420 --> 00:19:59,260
 وقعت في أيدي السّاموراي عديد من السّيوف
 
-327
+224
 00:19:59,260 --> 00:20:00,920
 زوروجورو-سان
 
-328
+225
 00:20:01,260 --> 00:20:05,010
 إن كان سيفك هو شوسوي الحقيقيّ
 
-329
+226
 00:20:05,010 --> 00:20:07,010
 أعده إلى بلاد وانو
 
-330
+227
 00:20:07,010 --> 00:20:09,600
 !أخبرتك! إنّه سيفي
 
-331
+228
 00:20:11,770 --> 00:20:13,560
 سأمنحك بديلًا عنه
 
-332
+229
 00:20:14,860 --> 00:20:18,570
 ...سيف ورثته عن والدي المتوفّى
 
-333
+230
 00:20:19,600 --> 00:20:21,190
 السّيف العظيم إنما
 
-334
+231
 00:20:23,820 --> 00:20:24,870
 ...إنما
 
-335
+232
 00:20:25,560 --> 00:20:28,870
 إنّه سيف أسطوريّ والسّلاح الوحيد الّذي جرح كايدو على الإطلاق
 
-336
+233
 00:20:32,020 --> 00:20:33,830
 لا يا هيوري-ساما
 
-337
+234
 00:20:33,830 --> 00:20:36,960
 لا يمكنك التّخلّي عن تذكار من أودين-ساما
 
-338
+235
 00:20:39,300 --> 00:20:42,760
 ...كان والدي كوزكي أودين
 
-339
+236
 00:20:43,900 --> 00:20:46,200
 سيّافًا يستعمل أسلوب السّيفين الطّويلين
 
-340
+237
 00:20:47,850 --> 00:20:51,560
 قبل أن يُعدَم من طرف الرّجل الفظيع أوروتشي
 
-341
+238
 00:20:52,140 --> 00:20:54,940
 ...عُهد لنا أنا الصّغيرة وأخي مومونوسكي
 
-342
+239
 00:20:55,560 --> 00:21:00,320
 بواحد من السّيفين اللّذين استعملهما والدي لكلٍّ منّا
 
-343
+240
 00:21:04,200 --> 00:21:05,110
 ...حصل أخي على
 
-344
+241
 00:21:06,990 --> 00:21:11,160
 آمي-نو-هاباكيري
 
-345
+242
 00:21:11,660 --> 00:21:12,370
 ...وحصلتُ أنا على
 
-346
+243
 00:21:14,250 --> 00:21:18,290
 إنما
 
-347
+244
 00:21:18,290 --> 00:21:23,880
 صُنع كلاهما على أيدي صانعي سيوف عظماء ذاع صيتهم في بلاد وانو في الماضي
 
-348
+245
 00:21:24,170 --> 00:21:26,640
 إنّهما سيفان مذهلان
 
-349
+246
 00:21:27,510 --> 00:21:30,720
 لهذا السّبب لا يمكنك التّخلّي عنه يا أميرتي
 
-350
+247
 00:21:30,850 --> 00:21:33,680
 ...لا يمكنك السّماح لرجل مريب مثله
 
-351
+248
 00:21:33,680 --> 00:21:36,940
 أن يحمل سيف أودين-ساما
 
-352
+249
 00:21:36,940 --> 00:21:38,230
 ...كاواماتسو
 
-353
+250
 00:21:39,190 --> 00:21:42,190
 أدرك حقيقة شعورك تمامًا
 
-354
+251
 00:21:42,190 --> 00:21:45,700
 لكن لا تكن فظًّا مع الرّجل الّذي أنقذ حياتي
 
-355
+252
 00:21:46,990 --> 00:21:54,700
 إنّه سيف ريوما المعروف بإله السّيوف، لا أعرف كيف انتهى المطاف بشوسوي معك أنت
 
-356
+253
 00:22:00,120 --> 00:22:04,420
 حسنًا، أعتقد أن موريا سرقه
 
-357
+254
 00:22:05,460 --> 00:22:14,020
 لكن ... عندما سُرق، خيّم الحزن على البلاد بأكملها لأنّه كنز مقدس بالنسبة لوانو
 
-358
+255
 00:22:15,890 --> 00:22:19,100
 لذا نريدك أن تُرجع الشوسوي إلينا من فضلك
 
-359
+256
 00:22:30,950 --> 00:22:34,660
 ...إن أعطيتني بديلًا، فحينها
 
-360
+257
 00:22:41,170 --> 00:22:42,540
 حسنًا
 
-361
+258
 00:22:42,540 --> 00:22:47,630
 شكّلت رابطًا معه لأنّنا تقاتلنا وإن كان قتالًا ضدّ جثّته فحسب
 
-362
+259
 00:22:59,480 --> 00:23:01,810
 ...سأعيد شوسوي
 
-363
+260
 00:23:01,810 --> 00:23:06,570
 في المقابل، دعاني أزور قبر ريوما بعد هذا
 
-364
+261
 00:23:08,570 --> 00:23:11,820
 إنّه واهم فعلًا، أهو بخير؟
 
-365
+262
 00:23:12,660 --> 00:23:14,160
 يا أميرتي
 
-366
+263
 00:23:18,790 --> 00:23:22,380
 عاصمة
  الزهور
 
-367
+264
 00:23:22,380 --> 00:23:24,630
 معقل سجناء بلدة راسيتسو
 المعروف بالزّنزانات العامّة
 
-368
+265
 00:23:24,630 --> 00:23:31,100
 إنّ السّاموراي الّذين أُسروا هناك لتمرّدهم ضدّ الشّوغن أوروتشي لم يُحرّروا بعد
 
-369
+266
 00:23:32,180 --> 00:23:39,810
 خدع ياسويي العدوّ وأنقذ خطّة الغارة عن طريق المخاطرة بحياته. ولكن
 
-370
+267
 00:23:40,270 --> 00:23:42,400
 ما الّذي يحدث؟
 
-371
+268
 00:23:42,400 --> 00:23:44,900
 لسنا متمرّدين
 
-372
+269
 00:23:45,610 --> 00:23:50,820
 إن المنشورات الّتي كانت معنا كانت مجرّد خدعة من ياسويي-ساما
 
-373
+270
 00:23:50,820 --> 00:23:54,660
 وشم الهلال مجرّد تصميم شائع
 
-374
+271
 00:23:54,660 --> 00:24:01,670
 كيف للخوف أن يتمكّن منكم لدرجة أن تسجنونا ونحن أبرياء وتعرضوننا في مكان كهذا؟
 
-375
+272
 00:24:01,670 --> 00:24:04,660
 إنّه لمن المخزي أن نُعد متمردين
 
-376
+273
 00:24:05,420 --> 00:24:08,510
 أطلقوا سراحنا
 
-377
+274
 00:24:08,510 --> 00:24:10,970
 ...سُحقًا
 
-378
+275
 00:24:12,380 --> 00:24:14,300
 ماذا بإمكاننا فعله؟
 
-379
+276
 00:24:25,610 --> 00:24:29,730
 داخل معقل
  سجناء 
 بلدة راسيتسو
 
-380
+277
 00:24:31,190 --> 00:24:34,160
 ما الّذي حلّ بتحالفكم؟
 
-381
+278
 00:24:34,160 --> 00:24:39,160
 ...ظننت أنّك شكّلت تحالفًا مع كيد وأبو
 
-382
+279
 00:24:43,240 --> 00:24:45,420
 ...لقد خُدِعنا
 
-383
+280
 00:24:50,090 --> 00:24:56,260
 ...كان سكراتشمن أبو تحت جناح كايدو من البداية
 
-384
+281
 00:25:01,100 --> 00:25:04,060
 ...قال لي كايدو المتوحّش
 
-385
+282
 00:25:04,060 --> 00:25:07,940
 ".إن كنت تريد أن تصير من أتباعي، فسأرحّب بك"
 
-386
+283
 00:25:11,160 --> 00:25:14,900
 ...إنّه في بحث دائم عن جنود أقوياء
 
-387
+284
 00:25:14,900 --> 00:25:18,080
 ...لإنشاء أقوى جيش في العالم
 
-388
+285
 00:25:19,240 --> 00:25:23,960
 كانت فرص انتصاري في ذلك الوضع صفرًا في المئة
 
-389
+286
 00:25:24,600 --> 00:25:28,420
 وكانت فرص نجاحي في الهرب صفرًا في المئة
 
-390
+287
 00:25:28,420 --> 00:25:32,240
 وكانت فرص بقائي عن طريق الانصياع له أربعين في المئة
 
-391
+288
 00:25:32,920 --> 00:25:34,880
 لم يكن لديّ خيار
 
-392
+289
 00:25:39,300 --> 00:25:43,060
 ...لكنّ كيد وكيلر لم يكونا مثلي
 
-393
+290
 00:25:43,680 --> 00:25:49,770
 لقد تحدّياه وواصلا القتال إلى أن عجزا عن الحركة بالكامل
 
-394
+291
 00:25:51,180 --> 00:25:54,820
 يأبى كايدو أن يقتل الأشخاص أمثالهما
 
-395
+292
 00:25:56,530 --> 00:26:00,740
 سيحاول كسر روحهم وسحقهم إلى أن ينصاعوا
 
-396
+293
 00:26:00,740 --> 00:26:03,200
 ...لكن لا أظنّ أنّ كيد سيستسلم
 
-397
+294
 00:26:03,760 --> 00:26:05,790
 لذلك فسيُقتل
 
-398
+295
 00:26:05,790 --> 00:26:14,460
 أشعر بالأسى على رفاق كيد، قيل لهم أنّ عليهم القيام بشتّى الأمور إن أرادوا إنقاذ قبطانهم
 
-399
+296
 00:26:14,460 --> 00:26:18,180
 ممّا يعني أنّ أوروتشي استغلّهم كما يشاء
 
-400
+297
 00:26:29,020 --> 00:26:32,400
 يمكنك اعتبار الأباطرة مخلوقات مختلفة تمامًا عنّا
 
-401
+298
 00:26:32,400 --> 00:26:34,400
 إنّهم لا يفهمون المنطق
 
-402
+299
 00:26:38,400 --> 00:26:42,200
 ...يبدو أنّ التّحالف بينك وبين قبّعة القشّ يسير بشكل جيّد
 
-403
+300
 00:26:43,900 --> 00:26:47,040
 أتيتما إلى بلاد وانو معًا من دون أي مشكلات تُذكر
 
-404
+301
 00:26:48,290 --> 00:26:49,000
 والآن
 
-405
+302
 00:26:49,580 --> 00:26:51,630
 هل غيّرت رأيك؟
 
-406
+303
 00:26:52,860 --> 00:26:54,500
 لا توجه أسئلة لي
 
-407
+304
 00:27:05,930 --> 00:27:09,480
 ...إن كنت تخطّط للسّماح لي بالهرب
 
-408
+305
 00:27:10,230 --> 00:27:11,690
 فلن أعارضك
 
-409
+306
 00:27:13,440 --> 00:27:17,690
 تبقت ستة أيام حتى غارة أونيغاشيما

@@ -1106,11 +1106,11 @@ the Barco Hunter!
 
 255
 00:16:30,350 --> 00:16:30,850
-Monkey, monkey, monkey!
+Monkey,
 
 256
 00:16:30,850 --> 00:16:31,350
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 257
 00:16:31,350 --> 00:16:33,640
@@ -1118,11 +1118,11 @@ Monkey, monkey, monkey!
 
 258
 00:16:32,100 --> 00:16:32,640
-Monkey, monkey, monkey!
+Monkey,
 
 259
 00:16:32,640 --> 00:16:33,100
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 260
 00:16:33,100 --> 00:16:35,310
@@ -1130,11 +1130,11 @@ Monkey, monkey, monkey!
 
 261
 00:16:34,140 --> 00:16:34,430
-Monkey, monkey, monkey!
+Monkey,
 
 262
 00:16:34,430 --> 00:16:34,810
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 263
 00:16:34,810 --> 00:16:37,100
@@ -1142,11 +1142,11 @@ Monkey, monkey, monkey!
 
 264
 00:16:35,770 --> 00:16:36,270
-Monkey, monkey, monkey!
+Monkey,
 
 265
 00:16:36,270 --> 00:16:36,690
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 266
 00:16:36,690 --> 00:16:37,100

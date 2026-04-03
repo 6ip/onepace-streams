@@ -72,7 +72,7 @@ A-Ace...
 
 18
 00:01:32,510 --> 00:01:33,760
-¡Más y más...
+¡Más
 
 19
 00:01:33,760 --> 00:01:35,280
@@ -80,7 +80,7 @@ A-Ace...
 
 20
 00:01:35,280 --> 00:01:36,130
-...más y más...
+...más
 
 21
 00:01:36,130 --> 00:01:37,310
@@ -88,7 +88,7 @@ A-Ace...
 
 22
 00:01:37,310 --> 00:01:37,910
-...más y más...
+...más
 
 23
 00:01:37,910 --> 00:01:38,990
@@ -100,7 +100,7 @@ A-Ace...
 
 25
 00:01:40,130 --> 00:01:41,010
-...más y más...
+...más
 
 26
 00:01:41,010 --> 00:01:42,080
@@ -108,7 +108,7 @@ A-Ace...
 
 27
 00:01:42,080 --> 00:01:42,710
-...más y más...
+...más
 
 28
 00:01:42,710 --> 00:01:43,880
@@ -116,7 +116,7 @@ A-Ace...
 
 29
 00:01:43,880 --> 00:01:44,480
-...más y más...
+...más
 
 30
 00:01:44,480 --> 00:01:45,660
@@ -124,7 +124,7 @@ A-Ace...
 
 31
 00:01:45,660 --> 00:01:46,280
-...más y más...
+...más
 
 32
 00:01:46,280 --> 00:01:47,620
@@ -991,565 +991,562 @@ ALGUNOS MESES DESPUÉS
 243
 00:20:40,740 --> 00:20:44,720
 3 AÑOS DESPUÉS
-
-244
-00:20:40,740 --> 00:20:44,720
 LUFFY, 17 AÑOS
 
-245
+244
 00:20:44,720 --> 00:20:46,590
 ¡Oigan, vamos!
 
-246
+245
 00:20:46,590 --> 00:20:49,060
 Ya me voy, ¿no vendrán a despedirse?
 
-247
+246
 00:20:49,060 --> 00:20:51,100
 ¡Oigan!
 
-248
+247
 00:20:51,100 --> 00:20:52,900
 Ya cállate...
 
-249
+248
 00:20:53,120 --> 00:21:00,240
 El alcalde y Makino nos conocen, pero los demás habitantes de Fuusha se asustarían si bajamos de la montaña.
 
-250
+249
 00:21:00,240 --> 00:21:01,440
 Pero...
 
-251
+250
 00:21:01,960 --> 00:21:03,690
 ¡Vete ya!
 
-252
+251
 00:21:04,420 --> 00:21:07,520
 ¡Ya veo! ¡Entonces...!
 
-253
+252
 00:21:07,520 --> 00:21:09,780
 ¡Gracias por todo!
 
-254
+253
 00:21:09,780 --> 00:21:12,900
 No nos des las gracias, qué vergüenza.
 
-255
+254
 00:21:12,900 --> 00:21:15,460
 Vaya, vaya, cuídate.
 
-256
+255
 00:21:15,460 --> 00:21:17,460
 ¡Sí, entendido!
 
-257
+256
 00:21:19,220 --> 00:21:20,660
 ¡Ah, sí!
 
-258
+257
 00:21:21,250 --> 00:21:24,270
 ¡Dadan! ¡Odio a los bandidos de la montaña!
 
-259
+258
 00:21:24,270 --> 00:21:25,900
 ¡Cállate, mocoso!
 
-260
+259
 00:21:27,050 --> 00:21:29,800
 ¡Pero a ustedes los quiero mucho!
 
-261
+260
 00:21:33,140 --> 00:21:36,910
 ¡Deja de decir tonterías y vete ya, maldita sea!
 
-262
+261
 00:21:36,910 --> 00:21:41,310
 ¡Estos chicos...!
 
-263
+262
 00:21:42,130 --> 00:21:43,840
 ¿Qué? ¿Estás llorando?
 
-264
+263
 00:21:43,840 --> 00:21:46,450
 ¡Claro que no!
 
-265
+264
 00:21:47,950 --> 00:21:52,450
 Isla Dawn, en las afueras del Reino Goa, Aldea Fuusha.
 
-266
+265
 00:21:52,890 --> 00:21:56,900
 ¡Oye! ¡Si vas a salir al mar, 
 llévate mi barco pesquero, Luffy!
 
-267
+266
 00:21:56,900 --> 00:21:59,430
 ¡Te vas a hundir de inmediato si vas en esa cosa!
 
-268
+267
 00:21:59,430 --> 00:22:01,500
 ¿Un bote de remos? ¡Vamos!
 
-269
+268
 00:22:02,280 --> 00:22:05,900
 ¡Prefiero este! ¡Quiero empezar de cero!
 
-270
+269
 00:22:09,810 --> 00:22:12,310
 ¡Sabo!
 
-271
+270
 00:22:12,710 --> 00:22:18,050
 ¡Mírame bien! ¡Por fin saldré al mar!
 
-272
+271
 00:22:20,110 --> 00:22:21,540
 Sabo fue el primero.
 
-273
+272
 00:22:21,540 --> 00:22:23,190
 Ace, el segundo.
 
-274
+273
 00:22:24,280 --> 00:22:27,230
 ¡Yo soy el tercero, pero no me quedaré atrás!
 
-275
+274
 00:22:27,230 --> 00:22:31,460
 ¡Ya verás, Ace! ¡Pronto te alcanzaré!
 
-276
+275
 00:22:31,460 --> 00:22:32,680
 ¿Qué pasa, Luffy?
 
-277
+276
 00:22:32,680 --> 00:22:34,480
 ¿Qué estás gritando y murmurando?
 
-278
+277
 00:22:34,480 --> 00:22:36,640
 ¿Estás rezando?
 
-279
+278
 00:22:36,640 --> 00:22:38,800
 ¡No es eso! ¡Estaba lanzando un reto!
 
-280
+279
 00:22:38,800 --> 00:22:41,020
 ¿Quién es Ace?
 
-281
+280
 00:22:41,020 --> 00:22:41,770
 Ni idea.
 
-282
+281
 00:22:41,770 --> 00:22:44,210
 Bueno, ya me voy.
 
-283
+282
 00:22:53,310 --> 00:22:56,350
 Ya se fue, alcalde...
 
-284
+283
 00:22:56,350 --> 00:22:58,260
 Lo extrañaré.
 
-285
+284
 00:22:58,260 --> 00:23:01,140
 ¡Es una desgracia para la aldea 
 que se convierta en pirata!
 
-286
+285
 00:23:04,130 --> 00:23:05,330
 ¡Ah...!
 
-287
+286
 00:23:05,330 --> 00:23:08,700
 ¡Qué gran día para navegar!
 
-288
+287
 00:23:21,640 --> 00:23:22,650
 Ese es...
 
-289
+288
 00:23:27,140 --> 00:23:29,550
 Así que ahí estabas, Rey de la Costa.
 
-290
+289
 00:23:34,960 --> 00:23:37,310
 Elegiste al oponente equivocado.
 
-291
+290
 00:23:37,730 --> 00:23:40,310
 ¡Mira la técnica que llevo diez años practicando!
 
-292
+291
 00:23:41,940 --> 00:23:44,400
 ¡Gomu Gomu no...
 
-293
+292
 00:23:50,110 --> 00:23:52,000
 ...Pistol!
 
-294
+293
 00:24:08,890 --> 00:24:10,960
 ¿Aprendiste tu lección, maldito pez?
 
-295
+294
 00:24:18,590 --> 00:24:22,470
 ¡Increíble...! ¡Venció de un golpe al Rey de la Costa!
 
-296
+295
 00:24:23,940 --> 00:24:26,480
 Se ha hecho fuerte.
 
-297
+296
 00:24:28,190 --> 00:24:30,280
 Primero, necesito una tripulación.
 
-298
+297
 00:24:30,280 --> 00:24:32,890
 Quiero alrededor de diez personas...
 
-299
+298
 00:24:33,530 --> 00:24:36,160
 ¡Pero, primero, una bandera pirata!
 
-300
+299
 00:24:36,960 --> 00:24:41,960
 ¡Muy bien! ¡Allá voy!
 
-301
+300
 00:24:41,960 --> 00:24:43,830
 ¡Seré...
 
-302
+301
 00:24:45,660 --> 00:24:48,160
 ...el Rey de los Piratas!
 
-303
+302
 00:24:58,220 --> 00:24:59,880
 Volvemos al presente...
 
-304
+303
 00:25:01,790 --> 00:25:04,840
 Su hermano, Ace, ha muerto y Luffy...
 
-305
+304
 00:25:05,620 --> 00:25:07,260
 ...llora su pérdida.
 
-306
+305
 00:25:31,290 --> 00:25:35,880
 [EAST BLUE] REINO GOA - ALDEA FUUSHA
 
-307
+306
 00:26:23,660 --> 00:26:24,600
 ¡Sí, señor!
 
-308
+307
 00:29:17,240 --> 00:29:21,880
 Ahora imagina que lo tienes enfrente.
 
-309
+308
 00:29:21,880 --> 00:29:25,190
 ¡Me llamo Ace! ¿Quién demonios eres?
 
-310
+309
 00:29:25,190 --> 00:29:29,010
 No, no, "quién demonios" es algo muy grosero.
 
-311
+310
 00:29:29,770 --> 00:29:32,040
 Prueba con "rayos".
 
-312
+311
 00:29:33,010 --> 00:29:34,590
 ¿Quién eres tú?
 
-313
+312
 00:29:34,590 --> 00:29:35,990
 No.
 
-314
+313
 00:29:35,990 --> 00:29:37,720
 ¿Quién es este?
 
-315
+314
 00:29:37,720 --> 00:29:39,850
 No.
 
-316
+315
 00:29:39,850 --> 00:29:41,990
 Se dice "¿quién es ese?", ¿no?
 
-317
+316
 00:29:41,990 --> 00:29:43,030
 ¡No, no!
 
-318
+317
 00:29:44,370 --> 00:29:47,330
 Todo mal, ¿de verdad lo están intentando?
 
-319
+318
 00:29:47,550 --> 00:29:50,440
 ¡Esto es porque no dejas de decir tonterías!
 
-320
+319
 00:29:50,440 --> 00:29:51,720
 ¡Deja de distraerme!
 
-321
+320
 00:29:51,720 --> 00:29:58,430
 ¡Oye, Ace! ¡Ayer encontré el nido de una serpiente gigante, está lleno de huevos inmensos!
 
-322
+321
 00:29:58,430 --> 00:30:00,080
 ¡Vayamos a buscarlos!
 
-323
+322
 00:30:00,080 --> 00:30:02,340
 ¿Eh? ¿Huevos inmensos?
 
-324
+323
 00:30:02,340 --> 00:30:04,490
 ¡No puedo!
 
-325
+324
 00:30:04,490 --> 00:30:07,280
 ¡Estoy aprendiendo a saludar a la gente!
 
-326
+325
 00:30:07,280 --> 00:30:11,180
 ¡Estaría en problemas si la serpiente
  me encontrara a mí solo!
 
-327
+326
 00:30:11,180 --> 00:30:14,540
 ¡Pero estaré bien si vas conmigo, así que vamos!
 
-328
+327
 00:30:14,540 --> 00:30:15,760
 ¡Cállate!
 
-329
+328
 00:31:57,600 --> 00:32:00,350
 Ahora, en un lugar lejano...
 
-330
+329
 00:32:00,350 --> 00:32:04,700
 En la segunda parte del Grand Line, el Nuevo Mundo.
 
-331
+330
 00:32:55,300 --> 00:32:59,040
 Luffy, debe ser difícil para ti.
 
-332
+331
 00:33:00,210 --> 00:33:04,070
 Me llevé una sorpresa cuando supe lo que hizo Ace justo antes de morir.
 
-333
+332
 00:33:04,790 --> 00:33:07,610
 ¡Retira lo dicho ahora mismo!
 
-334
+333
 00:33:07,800 --> 00:33:11,100
 ¡No te burles de la persona a la que debo mi vida!
 
-335
+334
 00:33:11,100 --> 00:33:14,720
 ¡Esta es la Era de Barbablanca!
 
-336
+335
 00:33:19,690 --> 00:33:24,850
 Se comportó igual que el Capitán Roger.
 
-337
+336
 00:33:27,220 --> 00:33:32,560
 Hubo momentos en los que incluso
  yo hubiera preferido que huyera...
 
-338
+337
 00:33:33,310 --> 00:33:35,380
 ...o que llorara.
 
-339
+338
 00:33:40,470 --> 00:33:42,770
 Escúchame bien, Luffy.
 
-340
+339
 00:33:43,110 --> 00:33:49,000
 Un hombre madura al conocer tanto
  la victoria como la derrota...
 
-341
+340
 00:33:49,390 --> 00:33:52,170
 ...después de huir y derramar lágrimas.
 
-342
+341
 00:34:03,100 --> 00:34:05,590
 Llora si hace falta.
 
-343
+342
 00:34:07,760 --> 00:34:09,620
 ¡Pero debes superarlo!
 
-344
+343
 00:34:16,380 --> 00:34:20,420
 [CALM BELT] ISLA DE LAS MUJERES
 
-345
+344
 00:35:36,170 --> 00:35:38,020
 Jinbe...
 
-346
+345
 00:35:38,990 --> 00:35:41,970
 Mientras estaba buscando a Teach...
 
-347
+346
 00:35:43,360 --> 00:35:48,610
 Luego de tres años sin verlo, me encontré 
 por casualidad con mi hermano en Arabasta.
 
-348
+347
 00:35:49,330 --> 00:35:53,330
 En cuanto lo vi, me quedé tranquilo.
 
-349
+348
 00:35:55,220 --> 00:35:57,100
 ¿Sabes por qué?
 
-350
+349
 00:37:54,120 --> 00:37:57,560
 ¡Luffy, no juegues aquí arriba!
 
-351
+350
 00:37:57,560 --> 00:37:59,190
 ¡Estoy entrenando!
 
-352
+351
 00:38:04,160 --> 00:38:07,660
 ¡Luffy, deprisa, pon a todos en sus posiciones!
 
-353
+352
 00:38:07,660 --> 00:38:09,500
 ¡Se acerca una tormenta!
 
-354
+353
 00:38:11,090 --> 00:38:16,040
 ¡Luffy, mírame! ¡Estoy a punto
  de atrapar un pez gigante!
 
-355
+354
 00:38:19,350 --> 00:38:23,110
 ¡Luffy, ya casi está listo! ¡Ten paciencia y espera!
 
-356
+355
 00:38:24,280 --> 00:38:28,280
 ¡Luffy, no importa cuán fuerte te
  golpee la vida! ¡Todo estará bien!
 
-357
+356
 00:38:28,280 --> 00:38:30,920
 ¡Porque yo te curaré!
 
-358
+357
 00:38:35,100 --> 00:38:36,460
 Oh, Luffy.
 
-359
+358
 00:38:37,020 --> 00:38:40,760
 Si te interesa la arqueología, podría enseñarte.
 
-360
+359
 00:38:43,590 --> 00:38:48,250
 ¡Oye, Luffy! ¡Hoy el motor de cola
  está funcionando perfectamente!
 
-361
+360
 00:38:49,580 --> 00:38:52,540
 ¡Puedes dejar al Sunny en mis manos!
 
-362
+361
 00:38:53,300 --> 00:38:57,770
 ¡Luffy-san, buenos días! ¡Ya amaneció!
 
-363
+362
 00:38:57,770 --> 00:39:00,580
 ¡Entonces, tocaré una canción matutina!
 
-364
+363
 00:39:08,020 --> 00:39:09,660
 ¡Luffy!
 
-365
+364
 00:39:09,660 --> 00:39:11,360
 ¡Luffy!
 
-366
+365
 00:39:11,360 --> 00:39:19,870
 ¡Luffy!
 
-367
+366
 00:39:19,870 --> 00:39:21,810
 ¡Luffy-san!
 
-368
+367
 00:39:22,050 --> 00:39:23,770
 ¡Luffy!
 
-369
+368
 00:39:58,780 --> 00:40:01,490
 ¡Chicos! ¡Nos veremos dentro de tres días en el Sunny!
 
-370
+369
 00:40:01,490 --> 00:40:03,380
 ¡Sí!
 
-371
+370
 00:40:13,510 --> 00:40:17,130
 Lo que vi allí,
 
-372
+371
 00:40:17,130 --> 00:40:18,460
 Jinbe...
 
-373
+372
 00:40:20,600 --> 00:40:23,860
 Tener un hermano menor que es un poco lento...
 
-374
+373
 00:40:24,850 --> 00:40:26,940
 ...hace que su hermano mayor se preocupe.
 
-375
+374
 00:40:27,470 --> 00:40:30,910
 Probablemente vuelva a quemar sus manos.
 
-376
+375
 00:40:31,150 --> 00:40:33,310
 Cuídenlo bien por mí.
 
-377
+376
 00:40:34,380 --> 00:40:40,580
 Ya no era el Luffy de antes
  que siempre iba tras de mí.
 
-378
+377
 00:40:40,850 --> 00:40:42,860
 Ya tiene...
 
-379
+378
 00:40:45,340 --> 00:40:48,350
 ...sus propios compañeros en los que confiar.
 
-380
+379
 00:40:49,860 --> 00:40:53,060
 Estará bien sin importar lo que suceda.
 
-381
+380
 00:40:53,610 --> 00:40:56,100
 Me quedé más tranquilo.

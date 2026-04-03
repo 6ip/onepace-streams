@@ -1212,1270 +1212,1243 @@ The Camel
 288
 00:21:09,700 --> 00:21:09,740
 What? "The Camel"?! An animal did?!
+The Camel
 
 289
-00:21:09,700 --> 00:21:09,740
+00:21:09,740 --> 00:21:09,790
+What? "The Camel"?! An animal did?!
 The Camel
 
 290
-00:21:09,740 --> 00:21:09,790
+00:21:09,790 --> 00:21:09,830
 What? "The Camel"?! An animal did?!
+The Camel
 
 291
-00:21:09,740 --> 00:21:09,790
+00:21:09,830 --> 00:21:09,870
+What? "The Camel"?! An animal did?!
 The Camel
 
 292
-00:21:09,790 --> 00:21:09,830
+00:21:09,870 --> 00:21:09,910
 What? "The Camel"?! An animal did?!
+The Camel
 
 293
-00:21:09,790 --> 00:21:09,830
+00:21:09,910 --> 00:21:09,950
+What? "The Camel"?! An animal did?!
 The Camel
 
 294
-00:21:09,830 --> 00:21:09,870
+00:21:09,950 --> 00:21:09,990
 What? "The Camel"?! An animal did?!
+The Camel
 
 295
-00:21:09,830 --> 00:21:09,870
+00:21:09,990 --> 00:21:10,040
+What? "The Camel"?! An animal did?!
 The Camel
 
 296
-00:21:09,870 --> 00:21:09,910
+00:21:10,040 --> 00:21:10,080
 What? "The Camel"?! An animal did?!
+The Camel
 
 297
-00:21:09,870 --> 00:21:09,910
-The Camel
-
-298
-00:21:09,910 --> 00:21:09,950
-What? "The Camel"?! An animal did?!
-
-299
-00:21:09,910 --> 00:21:09,950
-The Camel
-
-300
-00:21:09,950 --> 00:21:09,990
-What? "The Camel"?! An animal did?!
-
-301
-00:21:09,950 --> 00:21:09,990
-The Camel
-
-302
-00:21:09,990 --> 00:21:10,040
-What? "The Camel"?! An animal did?!
-
-303
-00:21:09,990 --> 00:21:10,040
-The Camel
-
-304
-00:21:10,040 --> 00:21:10,080
-What? "The Camel"?! An animal did?!
-
-305
-00:21:10,040 --> 00:21:10,080
-The Camel
-
-306
 00:21:10,080 --> 00:21:10,120
 The Camel
 
-307
+298
 00:21:10,120 --> 00:21:10,160
 The Camel
 
-308
+299
 00:21:10,810 --> 00:21:12,770
 They call me the Camel!
 
-309
+300
 00:21:12,770 --> 00:21:16,230
 Man, those blueprints
 gave me nothing but trouble!
 
-310
+301
 00:21:16,230 --> 00:21:18,290
 Some guy made off with them!
 
-311
+302
 00:21:18,290 --> 00:21:23,550
 His face was covered,
 but he said he came from Kuri.
 
-312
+303
 00:21:23,550 --> 00:21:26,100
 Kuri?!
 
-313
+304
 00:21:30,310 --> 00:21:30,930
 Um...
 
-314
+305
 00:21:30,930 --> 00:21:34,000
 Oh, I'm sorry. It's sea bream.
 
-315
+306
 00:21:34,000 --> 00:21:36,230
 Is that how sea bream usually looks?
 
-316
+307
 00:21:36,230 --> 00:21:39,110
 Nice doing business with you!
 
-317
+308
 00:21:43,030 --> 00:21:44,490
 Sir Franosuke!
 
-318
+309
 00:21:46,400 --> 00:21:48,240
 You seem to be in high spirits.
 
-319
+310
 00:21:48,240 --> 00:21:51,370
 Of course! But what in
 the world are you selling?
 
-320
+311
 00:21:51,370 --> 00:21:55,090
 What? Oh, I'm peddling fish.
 
-321
+312
 00:21:55,090 --> 00:21:58,790
 You stick out like a sore thumb!
 Kids are drawn to you!
 
-322
+313
 00:21:58,790 --> 00:22:04,910
 Anyway, why were you in such a hurry?
 Is anything the matter?
 
-323
+314
 00:22:04,910 --> 00:22:10,350
 Oh, yeah! Forget sticking out!
 We've got bigger fish to fry!
 
-324
+315
 00:22:10,350 --> 00:22:16,060
 The guy I thought had the blueprints
 didn't have them after all!
 
-325
+316
 00:22:17,550 --> 00:22:20,560
 Check the swords over there next.
 
-326
+317
 00:22:20,560 --> 00:22:25,740
 What?! The blueprints for Kaido's
 mansion are here in Kuri?!
 
-327
+318
 00:22:25,740 --> 00:22:30,450
 Yeah! I couldn't find them even after
 running all over the capital!
 
-328
+319
 00:22:30,450 --> 00:22:33,150
 I'm not sure what I should do now!
 
-329
+320
 00:22:34,210 --> 00:22:36,660
 I'm sorry you had to go through that.
 
-330
+321
 00:22:36,660 --> 00:22:40,750
 Sir Franosuke, please help the others
 complete their missions in the capital.
 
-331
+322
 00:22:40,750 --> 00:22:42,390
 Got it!
 
-332
+323
 00:22:43,600 --> 00:22:48,520
 Hmm... Who would want
 the blueprints of Kaido's mansion?
 
-333
+324
 00:22:48,520 --> 00:22:49,910
 Could it be...?
 
-334
+325
 00:22:50,800 --> 00:22:52,720
 Your Grace! Sir Kin!
 
-335
+326
 00:22:52,720 --> 00:22:54,770
 Hey!
 
-336
+327
 00:22:55,470 --> 00:22:56,770
 Whew!
 
-337
+328
 00:22:56,770 --> 00:23:01,940
 Look at all we stole! There's food
 and weapons from the factory!
 
-338
+329
 00:23:01,940 --> 00:23:05,150
 Nice work. Did you leave the calling card?
 
-339
+330
 00:23:05,150 --> 00:23:06,780
 We sure did!
 
-340
+331
 00:23:08,650 --> 00:23:10,550
 But should we have?
 
-341
+332
 00:23:10,550 --> 00:23:16,200
 The note might cause the Beast Pirates
 to attack Ashura Doji.
 
-342
+333
 00:23:16,200 --> 00:23:20,580
 That is what we want.
 Coming under attack will infuriate him.
 
-343
+334
 00:23:20,580 --> 00:23:25,420
 If we don't use his rage to goad him
 into fighting the Beast Pirates...
 
-344
+335
 00:23:25,420 --> 00:23:28,680
 we'll never rekindle the fire within him.
 
-345
+336
 00:23:31,690 --> 00:23:38,210
 Considering the regret he's suffered for
 twenty years, this seems a bit heavy-handed.
 
-346
+337
 00:23:38,210 --> 00:23:39,600
 I know!
 
-347
+338
 00:23:39,600 --> 00:23:45,230
 But whether the means be fair or foul,
 we need him if we are to topple Kaido!
 
-348
+339
 00:23:45,900 --> 00:23:48,690
 We need Ashura Doji's help!
 
-349
+340
 00:23:51,400 --> 00:23:54,870
 Hey! I'm back!
 
-350
+341
 00:23:54,870 --> 00:23:57,740
 Ebisu Town
 
-351
+342
 00:24:00,410 --> 00:24:01,790
 Yasu!
 
-352
+343
 00:24:02,790 --> 00:24:05,960
 Oh, you're back, Tonoyasu!
 
-353
+344
 00:24:05,960 --> 00:24:09,590
 Yasu, you're back, but we
 still don't have any food!
 
-354
+345
 00:24:11,080 --> 00:24:12,760
 I'm so hungry!
 
-355
+346
 00:24:13,690 --> 00:24:15,550
 I'm starving to death!
 
-356
+347
 00:24:24,800 --> 00:24:27,400
 How come they're so cheerful?
 
-357
+348
 00:24:27,400 --> 00:24:28,860
 Wow!
 
-358
+349
 00:24:28,860 --> 00:24:33,200
 You're quick on the uptake, mister!
 Everyone here looks happy, right?!
 
-359
+350
 00:24:33,940 --> 00:24:36,660
 It's slightly different from
 Okobore Town in Kuri.
 
-360
+351
 00:24:39,070 --> 00:24:43,790
 Amongst all the species,
 only humans can laugh!
 
-361
+352
 00:24:43,790 --> 00:24:44,670
 Yeah!
 
-362
+353
 00:24:44,670 --> 00:24:48,900
 ♪ That's why you just gotta laugh! ♪
 
-363
+354
 00:24:50,680 --> 00:24:52,760
 ♪ You just gotta laugh! ♪
 
-364
+355
 00:24:54,970 --> 00:24:57,280
 ♪ You just gotta laugh! ♪
 
-365
+356
 00:25:00,720 --> 00:25:02,680
 Pardon us!
 
-366
+357
 00:25:11,590 --> 00:25:12,990
 – Shogun Orochi!
 – Shogun Orochi!
 
-367
+358
 00:25:21,200 --> 00:25:25,120
 Don't be reserved! Raise your heads!
 
-368
+359
 00:25:26,330 --> 00:25:30,090
 Now, what's for dinner?
 
-369
+360
 00:25:30,090 --> 00:25:33,380
 Yes! Everything is ready!
 
-370
+361
 00:25:33,380 --> 00:25:34,620
 Bring it in!
 
-371
+362
 00:25:37,340 --> 00:25:39,220
 Oh!
 
-372
+363
 00:25:39,220 --> 00:25:43,400
 We slaughtered the chickens we bred in
 the beautiful environs of Orochi Farm,
 
-373
+364
 00:25:43,400 --> 00:25:45,060
 then parboiled them...
 
-374
+365
 00:25:45,060 --> 00:25:47,060
 No! I don't feel like chicken!
 
-375
+366
 00:25:47,060 --> 00:25:49,600
 Yes, my lord! We'll discard them!
 
-376
+367
 00:25:49,600 --> 00:25:51,100
 Take it away!
 
-377
+368
 00:25:51,100 --> 00:25:52,150
 Next!
 
-378
+369
 00:25:52,150 --> 00:25:54,450
 These fresh, delicious vegetables...
 
-379
+370
 00:25:54,450 --> 00:25:55,370
 I don't want them!
 
-380
+371
 00:25:55,370 --> 00:25:57,280
 Yes, my lord! We'll throw them out!
 
-381
+372
 00:25:57,280 --> 00:25:58,360
 Next!
 
-382
+373
 00:25:59,390 --> 00:26:02,450
 We present some of the finest,
 fattiest saury available!
 
-383
+374
 00:26:03,620 --> 00:26:06,100
 I like saury!
 
-384
+375
 00:26:06,100 --> 00:26:07,900
 And tuna sashimi!
 
-385
+376
 00:26:07,910 --> 00:26:10,790
 Yeah! Nothing beats tuna! Tuna!
 
-386
+377
 00:26:10,790 --> 00:26:14,880
 And we have selected a variety
 of sake from across Wano...
 
-387
+378
 00:26:14,880 --> 00:26:16,840
 I get it!
 
-388
+379
 00:26:18,410 --> 00:26:21,730
 Of course you have plenty
 of sake to go around!
 
-389
+380
 00:26:21,730 --> 00:26:24,120
 But how about women?
 
-390
+381
 00:26:24,120 --> 00:26:25,770
 Of course, right away!
 
-391
+382
 00:26:25,770 --> 00:26:27,890
 Good! Good!
 
-392
+383
 00:26:33,980 --> 00:26:36,920
 Mom, I'm hungry!
 
-393
+384
 00:26:36,920 --> 00:26:38,780
 Me, too!
 
-394
+385
 00:26:41,570 --> 00:26:45,450
 My tooth fell out from malnutrition!
 
-395
+386
 00:26:46,900 --> 00:26:49,280
 Not like you have any food to chew anyway!
 
-396
+387
 00:26:51,170 --> 00:26:54,960
 Now, Tonoyasu, who is this ronin fellow?
 
-397
+388
 00:26:54,960 --> 00:26:57,760
 He has three swords belted on!
 
-398
+389
 00:26:58,760 --> 00:27:01,580
 You're right! Three swords!
 
-399
+390
 00:27:01,580 --> 00:27:03,260
 And they're all long swords!
 
-400
+391
 00:27:03,260 --> 00:27:05,100
 Are you trying to be funny?!
 
-401
+392
 00:27:07,090 --> 00:27:11,790
 Whoa, whoa! I admire this gentleman!
 
-402
+393
 00:27:11,790 --> 00:27:16,400
 Oh no! I'm sorry to hear you've had
 this weirdo following you around.
 
-403
+394
 00:27:16,400 --> 00:27:19,820
 Wrong! I'm the world's greatest sycophant!
 
-404
+395
 00:27:19,820 --> 00:27:22,020
 Right, handsome?!
 
-405
+396
 00:27:23,000 --> 00:27:27,500
 He sure is, but look!
 He has that frightful expression!
 
-406
+397
 00:27:27,500 --> 00:27:31,830
 Come on, young man. Drop the scary look.
 
-407
+398
 00:27:34,300 --> 00:27:36,710
 Give us a smile!
 
-408
+399
 00:27:36,710 --> 00:27:40,300
 Good things happen, even in
 a miserable hole like Ebisu!
 
-409
+400
 00:27:40,300 --> 00:27:44,970
 Wait, are you saying he
 paid this town a visit?!
 
-410
+401
 00:27:44,970 --> 00:27:49,930
 That's right! The Witching Hour Boy
 paid us another visit!
 
-411
+402
 00:27:51,520 --> 00:27:53,310
 That's great!
 
-412
+403
 00:27:53,310 --> 00:27:55,480
 Witching-whozit?
 
-413
+404
 00:27:55,480 --> 00:27:59,400
 Yeah, he always comes by
 when we're in trouble!
 
-414
+405
 00:27:59,400 --> 00:28:02,830
 We don't even know who he is.
 
-415
+406
 00:28:04,120 --> 00:28:07,900
 He appears at the witching hour
 
-416
+407
 00:28:07,900 --> 00:28:11,460
 and steals money from the rich,
 evil people of the capital...
 
-417
+408
 00:28:19,400 --> 00:28:23,690
 He leaves the money at
 poor tenements and disappears.
 
-418
+409
 00:28:23,690 --> 00:28:26,630
 I wonder who he is.
 
-419
+410
 00:28:26,630 --> 00:28:29,510
 Thank goodness, thank goodness!
 
-420
+411
 00:28:30,600 --> 00:28:32,940
 Fortune comes to those who laugh!
 
-421
+412
 00:28:32,940 --> 00:28:37,160
 So we pooled our money to ourselves a treat!
 
-422
+413
 00:28:38,320 --> 00:28:41,150
 Oh! What kind of treat?!
 
-423
+414
 00:28:41,150 --> 00:28:43,130
 Here it is!
 
-424
+415
 00:28:43,130 --> 00:28:44,410
 You see?
 
-425
+416
 00:28:44,410 --> 00:28:46,280
 This is it!
 
-426
+417
 00:28:47,190 --> 00:28:49,120
 Please have a cup!
 
-427
+418
 00:28:50,850 --> 00:28:52,460
 You should have some, too!
 
-428
+419
 00:28:54,190 --> 00:28:56,000
 It's clear water!
 
-429
+420
 00:28:56,000 --> 00:28:58,340
 We bought it with the money we were given!
 
-430
+421
 00:29:01,840 --> 00:29:04,050
 No, I shouldn't...
 
-431
+422
 00:29:04,050 --> 00:29:05,730
 Don't worry!
 
-432
+423
 00:29:06,890 --> 00:29:11,390
 This water's clean, so you
 won't get a tummy ache!
 
-433
+424
 00:29:11,390 --> 00:29:16,090
 Yasu brought you here,
 so you must be a good man!
 
-434
+425
 00:29:20,520 --> 00:29:22,800
 Don't be shy!
 
-435
+426
 00:29:22,800 --> 00:29:27,620
 Go ahead and drink! Everyone
 has the right to have some!
 
-436
+427
 00:29:27,620 --> 00:29:29,740
 ♪ Delicious water! ♪
 
-437
+428
 00:29:29,740 --> 00:29:31,740
 ♪ Clear water! ♪
 
-438
+429
 00:29:31,740 --> 00:29:34,080
 ♪ Delicious water! ♪
 
-439
+430
 00:29:34,080 --> 00:29:36,210
 ♪ Clear water! ♪
 
-440
+431
 00:29:36,210 --> 00:29:40,630
 ♪ Delicious water! Clear water! ♪
 
-441
+432
 00:29:40,630 --> 00:29:44,680
 ♪ Delicious water! Clear water! ♪
 
-442
+433
 00:29:44,680 --> 00:29:49,340
 ♪ Delicious water! Clear water! ♪
 
-443
+434
 00:30:02,030 --> 00:30:04,940
 Good huh?! It seeps into every
 fiber of your being, right?!
 
-444
+435
 00:30:05,780 --> 00:30:08,530
 There's that scary look again!
 
-445
+436
 00:30:10,950 --> 00:30:14,090
 Smile, or fortune won't smile on you!
 
-446
+437
 00:30:14,790 --> 00:30:18,420
 In this country, we call
 everyone's smiling face
 
-447
+438
 00:30:18,420 --> 00:30:22,420
 an Ebisu grin, mister!
 
-448
+439
 00:30:22,420 --> 00:30:25,450
 That's why this place is called Ebisu!
 
-449
+440
 00:30:25,450 --> 00:30:28,550
 We won't let poverty get us down!
 
-450
+441
 00:30:28,550 --> 00:30:32,560
 ♪ Crying won't cure your poverty! ♪
 ♪ So, you just gotta laugh! ♪
 
-451
+442
 00:30:32,560 --> 00:30:35,060
 ♪ You just gotta laugh! ♪
 
-452
+443
 00:30:42,020 --> 00:30:45,240
 Enough waiting! Let me see them!
 
-453
+444
 00:30:45,240 --> 00:30:47,490
 Just a moment, my lord!
 
-454
+445
 00:30:48,740 --> 00:30:53,240
 Oh, yeah! These girls are fabulous! Fabulous!
 
-455
+446
 00:30:57,830 --> 00:31:01,990
 A-Are you pleased with them, my lord?
 
-456
+447
 00:31:01,990 --> 00:31:04,880
 They're... gorgeous!
 
-457
+448
 00:31:06,200 --> 00:31:10,430
 Simply superb! Let's start
 the banquet immediately!
 
-458
+449
 00:31:10,430 --> 00:31:11,680
 Drink!
 
-459
+450
 00:31:11,680 --> 00:31:13,300
 Dance!
 
-460
+451
 00:31:13,300 --> 00:31:15,140
 Sing!
 
-461
+452
 00:31:15,140 --> 00:31:18,050
 Don't hold back!
 
-462
+453
 00:31:18,680 --> 00:31:18,730
 Kurozumi Orochi
 Shogun of Wano
 
-463
+454
 00:31:18,730 --> 00:31:18,770
 Kurozumi Orochi
 Shogun of Wano
 
-464
+455
 00:31:18,770 --> 00:31:18,810
 Kurozumi Orochi
 Shogun of Wano
 
-465
+456
 00:31:18,810 --> 00:31:18,850
 Kurozumi Orochi
 Shogun of Wano
 
-466
+457
 00:31:18,850 --> 00:31:18,890
 Kurozumi Orochi
 Shogun of Wano
 
-467
+458
 00:31:18,890 --> 00:31:18,940
 Kurozumi Orochi
 Shogun of Wano
 
-468
+459
 00:31:18,940 --> 00:31:18,980
 Kurozumi Orochi
 Shogun of Wano
 
-469
+460
 00:31:18,980 --> 00:31:19,020
 Kurozumi Orochi
 Shogun of Wano
 
-470
+461
 00:31:19,020 --> 00:31:19,060
 Kurozumi Orochi
 Shogun of Wano
 
-471
+462
 00:31:19,060 --> 00:31:19,100
 Kurozumi Orochi
 Shogun of Wano
 
-472
+463
 00:31:19,100 --> 00:31:19,140
 Kurozumi Orochi
 Shogun of Wano
 
-473
+464
 00:31:19,140 --> 00:31:23,060
 Kurozumi Orochi
 Shogun of Wano
 
-474
+465
 00:31:27,400 --> 00:31:29,400
 I have arrived, my lord...
 
-475
+466
 00:31:39,000 --> 00:31:42,790
 Oh, Komurasaki! I've missed you!
 
-476
+467
 00:31:44,110 --> 00:31:46,340
 And I, you...
 
-477
+468
 00:31:47,100 --> 00:31:48,010
 my lord.
 
-478
+469
 00:31:48,010 --> 00:31:50,430
 Oh, y-you did?!
 
-479
+470
 00:31:53,640 --> 00:31:55,540
 You did?!
 
-480
+471
 00:32:04,590 --> 00:32:07,440
 Traf, what brings you here?
 
-481
+472
 00:32:07,440 --> 00:32:11,490
 We have an emergency.
 You need to hide, Black Leg.
 
-482
+473
 00:32:12,410 --> 00:32:16,200
 This about the fight earlier? If they
 come back, I'll just beat them again.
 
-483
+474
 00:32:16,200 --> 00:32:17,660
 That's not it.
 
-484
+475
 00:32:18,500 --> 00:32:21,080
 The guys that are coming know our faces!
 
-485
+476
 00:32:22,990 --> 00:32:24,000
 Is it Hawkins?
 
-486
+477
 00:32:24,000 --> 00:32:27,590
 It wouldn't be so bad if it was just him...
 
-487
+478
 00:32:28,500 --> 00:32:32,600
 The six strongest headliners
 are known as the Soaring Six.
 
-488
+479
 00:32:33,390 --> 00:32:34,890
 Two of them are coming here.
 
-489
+480
 00:32:34,890 --> 00:32:36,050
 Two?
 
-490
+481
 00:32:36,050 --> 00:32:40,270
 The first is Page One from the Soaring Six.
 
-491
+482
 00:32:45,900 --> 00:32:45,940
 Page One 
 
 Soaring Six, Beast Pirates
 
-492
+483
 00:32:45,940 --> 00:32:45,980
 Page One 
 
 Soaring Six, Beast Pirates
 
-493
+484
 00:32:45,980 --> 00:32:46,020
 Page One 
 
 Soaring Six, Beast Pirates
 
-494
+485
 00:32:46,020 --> 00:32:46,060
 Page One 
 
 Soaring Six, Beast Pirates
 
-495
+486
 00:32:46,060 --> 00:32:46,110
 Page One 
 
 Soaring Six, Beast Pirates
 
-496
+487
 00:32:46,110 --> 00:32:46,150
 Page One 
 
 Soaring Six, Beast Pirates
 
-497
+488
 00:32:46,150 --> 00:32:46,190
 Page One 
 
 Soaring Six, Beast Pirates
 
-498
+489
 00:32:46,190 --> 00:32:46,230
 Page One 
 
 Soaring Six, Beast Pirates
 
-499
+490
 00:32:46,230 --> 00:32:46,270
 Page One 
 
 Soaring Six, Beast Pirates
 
-500
+491
 00:32:46,270 --> 00:32:46,310
 Page One 
 
 Soaring Six, Beast Pirates
 
-501
+492
 00:32:46,310 --> 00:32:46,360
 Page One 
 
 Soaring Six, Beast Pirates
 
-502
+493
 00:32:46,360 --> 00:32:49,480
 Page One 
 
 Soaring Six, Beast Pirates
 
-503
+494
 00:32:49,480 --> 00:32:52,650
 The Soaring Six... Page One...
 
-504
+495
 00:32:52,650 --> 00:32:57,830
 The other one is X Drake from the Soaring Six.
 
-505
+496
 00:32:57,830 --> 00:32:59,900
 Drake...
 
-506
+497
 00:32:59,900 --> 00:33:02,540
 He's from the Worst Generation...
 
-507
+498
 00:33:06,800 --> 00:33:12,050
 Page One, why do we have to do this?
 
-508
+499
 00:33:13,800 --> 00:33:13,840
 X Drake
 
 Soaring Six, Beast Pirates
 
-509
+500
 00:33:13,840 --> 00:33:13,880
 X Drake
 
 Soaring Six, Beast Pirates
 
-510
+501
 00:33:13,880 --> 00:33:13,930
 X Drake
 
 Soaring Six, Beast Pirates
 
-511
+502
 00:33:13,930 --> 00:33:13,970
 X Drake
 
 Soaring Six, Beast Pirates
 
-512
+503
 00:33:13,970 --> 00:33:14,010
 X Drake
 
 Soaring Six, Beast Pirates
 
-513
+504
 00:33:14,010 --> 00:33:14,050
 X Drake
 
 Soaring Six, Beast Pirates
 
-514
+505
 00:33:14,050 --> 00:33:14,090
 X Drake
 
 Soaring Six, Beast Pirates
 
-515
+506
 00:33:14,090 --> 00:33:14,130
 X Drake
 
 Soaring Six, Beast Pirates
 
-516
+507
 00:33:14,130 --> 00:33:14,180
 X Drake
 
 Soaring Six, Beast Pirates
 
-517
+508
 00:33:14,180 --> 00:33:14,220
 X Drake
 
 Soaring Six, Beast Pirates
 
-518
+509
 00:33:14,220 --> 00:33:14,260
 X Drake
 
 Soaring Six, Beast Pirates
 
-519
+510
 00:33:14,260 --> 00:33:14,300
 X Drake
 
 Soaring Six, Beast Pirates
 
-520
+511
 00:33:14,300 --> 00:33:14,340
 X Drake
 
 Soaring Six, Beast Pirates
 
-521
+512
 00:33:14,340 --> 00:33:17,430
 X Drake
 
 Soaring Six, Beast Pirates
 
-522
+513
 00:33:17,430 --> 00:33:19,500
 To set an example, I guess...
 
-523
+514
 00:33:19,500 --> 00:33:28,340
 We've got to show them what happens
 when you cross the Beast Pirates in Wano.
 
-524
+515
 00:33:28,340 --> 00:33:31,030
 So, why are you here...
 
-525
+516
 00:33:31,530 --> 00:33:32,810
 Hawkins?
 
-526
+517
 00:33:32,810 --> 00:33:35,460
 I'm looking for someone.
 
-527
+518
 00:33:35,460 --> 00:33:40,280
 You'll get more than you
 bargained for with this job, Drake...
 
-528
+519
 00:33:48,540 --> 00:33:53,840
 Have you thought about
 my offer from earlier, Boss?
 
-529
+520
 00:33:53,840 --> 00:33:58,620
 If you're gonna break out,
 take me with you!
 
-530
+521
 00:33:58,620 --> 00:34:00,930
 I'll do anything!
 
-531
+522
 00:34:00,930 --> 00:34:05,770
 If we join forces, we'll be unstoppable!
 
-532
+523
 00:34:05,770 --> 00:34:09,540
 Shut up already! Why don't
 you team up with Jaggy?!
 
-533
+524
 00:34:09,540 --> 00:34:11,070
 You mean Kid?
 
-534
+525
 00:34:11,070 --> 00:34:15,660
 No way. His reputation is terrible.
 
-535
+526
 00:34:15,660 --> 00:34:21,870
 Did you hear he tried to take down Big Mom?!
 
-536
+527
 00:34:21,870 --> 00:34:27,110
 Rumor has it one of her subordinates—
 not her—took his arm,
 
-537
+528
 00:34:27,110 --> 00:34:29,840
 after which he escaped!
 
-538
+529
 00:34:30,880 --> 00:34:34,720
 Rumor? It's pathetic to listen
 to that kinda crap.
 
-539
+530
 00:34:34,970 --> 00:34:41,220
 Nah, I heard it from a trusted source, Boss.
 
-540
+531
 00:34:44,480 --> 00:34:47,940
 Who is this source?
 
-541
+532
 00:34:47,940 --> 00:34:52,360
 I've never tried to take down Big Mom!
 
-542
+533
 00:34:52,360 --> 00:34:55,100
 K-K-K-Kid!
 
-543
+534
 00:34:55,100 --> 00:34:58,000
 I wounded one of her Sweet Commanders,
 
-544
+535
 00:34:58,000 --> 00:35:00,700
 took what I wanted, and left!
 
-545
+536
 00:35:00,700 --> 00:35:03,240
 B-B-B-But your arm...
 
-546
+537
 00:35:03,240 --> 00:35:09,580
 I'd already lost it before that,
 in a battle against the Red Hair Pirates.
 
-547
+538
 00:35:12,300 --> 00:35:14,150
 Any other questions?!
 
-548
+539
 00:35:14,150 --> 00:35:14,880
 None.
 
-549
+540
 00:35:14,880 --> 00:35:20,380
 Then, let me tell you something!
 You listen up, too, you stupid monkey!
 
-550
+541
 00:35:20,380 --> 00:35:21,340
 What?!
 
-551
+542
 00:35:22,010 --> 00:35:25,900
 I'm the one who's gonna take down
 Kaido and get the glory!
 
-552
+543
 00:35:25,900 --> 00:35:27,880
 No, I am!
 
-553
+544
 00:35:27,880 --> 00:35:28,770
 What?!
 
-554
+545
 00:35:38,570 --> 00:35:42,700
 Everyone, the Fire Festival is nearly upon us!
 
-555
+546
 00:35:42,700 --> 00:35:45,030
 Let's consider this party the opening act!
 
-556
+547
 00:35:45,030 --> 00:35:48,410
 Go ahead and indulge yourselves!
 
-557
+548
 00:35:48,410 --> 00:35:51,920
 This is Wano!
 
-558
+549
 00:35:51,920 --> 00:35:54,340
 We may as well be in heaven!
 
-559
+550
 00:35:54,340 --> 00:35:57,710
 Eat and drink to your heart's content!
 
-560
+551
 00:36:06,040 --> 00:36:10,350
 They're approaching from
 the southeast in a massive ship!
 
-561
+552
 00:36:12,020 --> 00:36:14,520
 She actually came!
 
-562
+553
 00:36:15,200 --> 00:36:17,070
 Blast them!
 
-563
+554
 00:36:17,070 --> 00:36:19,920
 Don't let her enter the country!
 
-564
+555
 00:36:19,920 --> 00:36:23,910
 But there is a problem...
 
-565
+556
 00:36:30,080 --> 00:36:34,920
 Carp are pulling their ship
 and they're charing ahead!
 
-566
+557
 00:36:34,920 --> 00:36:36,600
 What?!
 
-567
+558
 00:36:36,600 --> 00:36:40,090
 How do they know how
 to climb the waterfall?!
 
-568
+559
 00:36:40,090 --> 00:36:46,180
 Well, the Big Mom Pirates are
 known for gathering good intel.
 
-569
+560
 00:36:46,180 --> 00:36:49,100
 Shut it! I don't care!
 
-570
+561
 00:36:49,100 --> 00:36:51,890
 We knew they were coming!
 
-571
+562
 00:36:51,890 --> 00:36:54,190
 Just sink them already!
 
-572
+563
 00:37:00,200 --> 00:37:07,620
 That old bag! I'm sure she
 remembers that I warned her...
 
-573
+564
 00:37:07,620 --> 00:37:12,830
 I'll kill you if you come here, Linlin!
 
-574
+565
 00:38:46,890 --> 00:38:50,870
 I won't let you get away, Straw Hat...

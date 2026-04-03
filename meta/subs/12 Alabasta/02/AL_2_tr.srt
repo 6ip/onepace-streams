@@ -1458,32 +1458,32 @@ Aptal mıyız biz?
 
 344
 00:20:15,860 --> 00:20:15,900
-asTam
+Tam
 Teşekküllü
 
 345
 00:20:15,900 --> 00:20:15,940
-asTam
+Tam
 Teşekküllü
 
 346
 00:20:15,940 --> 00:20:15,980
-asTam
+Tam
 Teşekküllü
 
 347
 00:20:15,980 --> 00:20:16,020
-asTam
+Tam
 Teşekküllü
 
 348
 00:20:16,020 --> 00:20:16,060
-asTam
+Tam
 Teşekküllü
 
 349
 00:20:16,060 --> 00:20:16,480
-asTam
+Tam
 Teşekküllü
 
 350
@@ -1493,12 +1493,12 @@ numaralı ajanlığa yükselecek.
 
 351
 00:20:17,570 --> 00:20:23,910
-asdfTam
+Tam
 Teşekküllü
 
 352
 00:20:23,910 --> 00:20:23,990
-asdfTam
+Tam
 Teşekküllü
 
 353

@@ -83,7322 +83,5491 @@ Got it!
 20
 00:01:20,220 --> 00:01:20,260
 Vice Admiral Yamakaji
-
-21
-00:01:20,220 --> 00:01:20,260
 Marine Headquarters
 
-22
+21
 00:01:20,230 --> 00:01:22,560
 No sign of Hancock yet...
 
-23
+22
 00:01:20,260 --> 00:01:20,310
 Vice Admiral Yamakaji
+Marine Headquarters
+
+23
+00:01:20,310 --> 00:01:20,350
+Vice Admiral Yamakaji
+Marine Headquarters
 
 24
-00:01:20,260 --> 00:01:20,310
+00:01:20,350 --> 00:01:20,390
+Vice Admiral Yamakaji
 Marine Headquarters
 
 25
-00:01:20,310 --> 00:01:20,350
+00:01:20,390 --> 00:01:20,430
 Vice Admiral Yamakaji
+Marine Headquarters
 
 26
-00:01:20,310 --> 00:01:20,350
+00:01:20,430 --> 00:01:20,470
+Vice Admiral Yamakaji
 Marine Headquarters
 
 27
-00:01:20,350 --> 00:01:20,390
+00:01:20,470 --> 00:01:20,510
 Vice Admiral Yamakaji
+Marine Headquarters
 
 28
-00:01:20,350 --> 00:01:20,390
+00:01:20,510 --> 00:01:20,560
+Vice Admiral Yamakaji
 Marine Headquarters
 
 29
-00:01:20,390 --> 00:01:20,430
+00:01:20,560 --> 00:01:20,600
 Vice Admiral Yamakaji
+Marine Headquarters
 
 30
-00:01:20,390 --> 00:01:20,430
+00:01:20,600 --> 00:01:20,640
+Vice Admiral Yamakaji
 Marine Headquarters
 
 31
-00:01:20,430 --> 00:01:20,470
+00:01:20,640 --> 00:01:20,680
 Vice Admiral Yamakaji
+Marine Headquarters
 
 32
-00:01:20,430 --> 00:01:20,470
+00:01:20,680 --> 00:01:20,720
+Vice Admiral Yamakaji
 Marine Headquarters
 
 33
-00:01:20,470 --> 00:01:20,510
+00:01:20,720 --> 00:01:20,760
 Vice Admiral Yamakaji
+Marine Headquarters
 
 34
-00:01:20,470 --> 00:01:20,510
+00:01:20,760 --> 00:01:20,810
+Vice Admiral Yamakaji
 Marine Headquarters
 
 35
-00:01:20,510 --> 00:01:20,560
+00:01:20,810 --> 00:01:20,850
 Vice Admiral Yamakaji
+Marine Headquarters
 
 36
-00:01:20,510 --> 00:01:20,560
+00:01:20,850 --> 00:01:20,890
+Vice Admiral Yamakaji
 Marine Headquarters
 
 37
-00:01:20,560 --> 00:01:20,600
+00:01:20,890 --> 00:01:20,930
 Vice Admiral Yamakaji
+Marine Headquarters
 
 38
-00:01:20,560 --> 00:01:20,600
+00:01:20,930 --> 00:01:20,970
+Vice Admiral Yamakaji
 Marine Headquarters
 
 39
-00:01:20,600 --> 00:01:20,640
+00:01:20,970 --> 00:01:21,010
 Vice Admiral Yamakaji
+Marine Headquarters
 
 40
-00:01:20,600 --> 00:01:20,640
+00:01:21,010 --> 00:01:21,060
+Vice Admiral Yamakaji
 Marine Headquarters
 
 41
-00:01:20,640 --> 00:01:20,680
+00:01:21,060 --> 00:01:21,100
 Vice Admiral Yamakaji
+Marine Headquarters
 
 42
-00:01:20,640 --> 00:01:20,680
+00:01:21,100 --> 00:01:21,140
+Vice Admiral Yamakaji
 Marine Headquarters
 
 43
-00:01:20,680 --> 00:01:20,720
+00:01:21,140 --> 00:01:21,180
 Vice Admiral Yamakaji
+Marine Headquarters
 
 44
-00:01:20,680 --> 00:01:20,720
+00:01:21,180 --> 00:01:21,220
+Vice Admiral Yamakaji
 Marine Headquarters
 
 45
-00:01:20,720 --> 00:01:20,760
+00:01:21,220 --> 00:01:21,260
 Vice Admiral Yamakaji
+Marine Headquarters
 
 46
-00:01:20,720 --> 00:01:20,760
+00:01:21,260 --> 00:01:21,310
+Vice Admiral Yamakaji
 Marine Headquarters
 
 47
-00:01:20,760 --> 00:01:20,810
+00:01:21,310 --> 00:01:21,350
 Vice Admiral Yamakaji
+Marine Headquarters
 
 48
-00:01:20,760 --> 00:01:20,810
+00:01:21,350 --> 00:01:21,390
+Vice Admiral Yamakaji
 Marine Headquarters
 
 49
-00:01:20,810 --> 00:01:20,850
+00:01:21,390 --> 00:01:21,430
 Vice Admiral Yamakaji
+Marine Headquarters
 
 50
-00:01:20,810 --> 00:01:20,850
+00:01:21,430 --> 00:01:21,470
+Vice Admiral Yamakaji
 Marine Headquarters
 
 51
-00:01:20,850 --> 00:01:20,890
+00:01:21,470 --> 00:01:21,510
 Vice Admiral Yamakaji
+Marine Headquarters
 
 52
-00:01:20,850 --> 00:01:20,890
+00:01:21,510 --> 00:01:21,560
+Vice Admiral Yamakaji
 Marine Headquarters
 
 53
-00:01:20,890 --> 00:01:20,930
+00:01:21,560 --> 00:01:21,600
 Vice Admiral Yamakaji
+Marine Headquarters
 
 54
-00:01:20,890 --> 00:01:20,930
+00:01:21,600 --> 00:01:21,640
+Vice Admiral Yamakaji
 Marine Headquarters
 
 55
-00:01:20,930 --> 00:01:20,970
+00:01:21,640 --> 00:01:21,680
 Vice Admiral Yamakaji
+Marine Headquarters
 
 56
-00:01:20,930 --> 00:01:20,970
+00:01:21,680 --> 00:01:21,720
+Vice Admiral Yamakaji
 Marine Headquarters
 
 57
-00:01:20,970 --> 00:01:21,010
+00:01:21,720 --> 00:01:21,760
 Vice Admiral Yamakaji
+Marine Headquarters
 
 58
-00:01:20,970 --> 00:01:21,010
+00:01:21,760 --> 00:01:21,810
+Vice Admiral Yamakaji
 Marine Headquarters
 
 59
-00:01:21,010 --> 00:01:21,060
+00:01:21,810 --> 00:01:21,850
 Vice Admiral Yamakaji
+Marine Headquarters
 
 60
-00:01:21,010 --> 00:01:21,060
+00:01:21,850 --> 00:01:21,890
+Vice Admiral Yamakaji
 Marine Headquarters
 
 61
-00:01:21,060 --> 00:01:21,100
+00:01:21,890 --> 00:01:21,930
 Vice Admiral Yamakaji
+Marine Headquarters
 
 62
-00:01:21,060 --> 00:01:21,100
+00:01:21,930 --> 00:01:21,970
+Vice Admiral Yamakaji
 Marine Headquarters
 
 63
-00:01:21,100 --> 00:01:21,140
+00:01:21,970 --> 00:01:22,020
 Vice Admiral Yamakaji
+Marine Headquarters
 
 64
-00:01:21,100 --> 00:01:21,140
+00:01:22,020 --> 00:01:22,060
+Vice Admiral Yamakaji
 Marine Headquarters
 
 65
-00:01:21,140 --> 00:01:21,180
+00:01:22,060 --> 00:01:22,100
 Vice Admiral Yamakaji
+Marine Headquarters
 
 66
-00:01:21,140 --> 00:01:21,180
+00:01:22,100 --> 00:01:22,140
+Vice Admiral Yamakaji
 Marine Headquarters
 
 67
-00:01:21,180 --> 00:01:21,220
+00:01:22,140 --> 00:01:22,180
 Vice Admiral Yamakaji
+Marine Headquarters
 
 68
-00:01:21,180 --> 00:01:21,220
+00:01:22,180 --> 00:01:22,220
+Vice Admiral Yamakaji
 Marine Headquarters
 
 69
-00:01:21,220 --> 00:01:21,260
+00:01:22,220 --> 00:01:22,270
 Vice Admiral Yamakaji
+Marine Headquarters
 
 70
-00:01:21,220 --> 00:01:21,260
+00:01:22,270 --> 00:01:22,310
+Vice Admiral Yamakaji
 Marine Headquarters
 
 71
-00:01:21,260 --> 00:01:21,310
+00:01:22,310 --> 00:01:22,350
 Vice Admiral Yamakaji
+Marine Headquarters
 
 72
-00:01:21,260 --> 00:01:21,310
+00:01:22,350 --> 00:01:22,390
+Vice Admiral Yamakaji
 Marine Headquarters
 
 73
-00:01:21,310 --> 00:01:21,350
+00:01:22,390 --> 00:01:22,430
 Vice Admiral Yamakaji
+Marine Headquarters
 
 74
-00:01:21,310 --> 00:01:21,350
+00:01:22,430 --> 00:01:22,470
+Vice Admiral Yamakaji
 Marine Headquarters
 
 75
-00:01:21,350 --> 00:01:21,390
+00:01:22,470 --> 00:01:22,520
 Vice Admiral Yamakaji
+Marine Headquarters
 
 76
-00:01:21,350 --> 00:01:21,390
+00:01:22,520 --> 00:01:22,560
+Vice Admiral Yamakaji
 Marine Headquarters
 
 77
-00:01:21,390 --> 00:01:21,430
-Vice Admiral Yamakaji
-
-78
-00:01:21,390 --> 00:01:21,430
-Marine Headquarters
-
-79
-00:01:21,430 --> 00:01:21,470
-Vice Admiral Yamakaji
-
-80
-00:01:21,430 --> 00:01:21,470
-Marine Headquarters
-
-81
-00:01:21,470 --> 00:01:21,510
-Vice Admiral Yamakaji
-
-82
-00:01:21,470 --> 00:01:21,510
-Marine Headquarters
-
-83
-00:01:21,510 --> 00:01:21,560
-Vice Admiral Yamakaji
-
-84
-00:01:21,510 --> 00:01:21,560
-Marine Headquarters
-
-85
-00:01:21,560 --> 00:01:21,600
-Vice Admiral Yamakaji
-
-86
-00:01:21,560 --> 00:01:21,600
-Marine Headquarters
-
-87
-00:01:21,600 --> 00:01:21,640
-Vice Admiral Yamakaji
-
-88
-00:01:21,600 --> 00:01:21,640
-Marine Headquarters
-
-89
-00:01:21,640 --> 00:01:21,680
-Vice Admiral Yamakaji
-
-90
-00:01:21,640 --> 00:01:21,680
-Marine Headquarters
-
-91
-00:01:21,680 --> 00:01:21,720
-Vice Admiral Yamakaji
-
-92
-00:01:21,680 --> 00:01:21,720
-Marine Headquarters
-
-93
-00:01:21,720 --> 00:01:21,760
-Vice Admiral Yamakaji
-
-94
-00:01:21,720 --> 00:01:21,760
-Marine Headquarters
-
-95
-00:01:21,760 --> 00:01:21,810
-Vice Admiral Yamakaji
-
-96
-00:01:21,760 --> 00:01:21,810
-Marine Headquarters
-
-97
-00:01:21,810 --> 00:01:21,850
-Vice Admiral Yamakaji
-
-98
-00:01:21,810 --> 00:01:21,850
-Marine Headquarters
-
-99
-00:01:21,850 --> 00:01:21,890
-Vice Admiral Yamakaji
-
-100
-00:01:21,850 --> 00:01:21,890
-Marine Headquarters
-
-101
-00:01:21,890 --> 00:01:21,930
-Vice Admiral Yamakaji
-
-102
-00:01:21,890 --> 00:01:21,930
-Marine Headquarters
-
-103
-00:01:21,930 --> 00:01:21,970
-Vice Admiral Yamakaji
-
-104
-00:01:21,930 --> 00:01:21,970
-Marine Headquarters
-
-105
-00:01:21,970 --> 00:01:22,020
-Vice Admiral Yamakaji
-
-106
-00:01:21,970 --> 00:01:22,020
-Marine Headquarters
-
-107
-00:01:22,020 --> 00:01:22,060
-Vice Admiral Yamakaji
-
-108
-00:01:22,020 --> 00:01:22,060
-Marine Headquarters
-
-109
-00:01:22,060 --> 00:01:22,100
-Vice Admiral Yamakaji
-
-110
-00:01:22,060 --> 00:01:22,100
-Marine Headquarters
-
-111
-00:01:22,100 --> 00:01:22,140
-Vice Admiral Yamakaji
-
-112
-00:01:22,100 --> 00:01:22,140
-Marine Headquarters
-
-113
-00:01:22,140 --> 00:01:22,180
-Vice Admiral Yamakaji
-
-114
-00:01:22,140 --> 00:01:22,180
-Marine Headquarters
-
-115
-00:01:22,180 --> 00:01:22,220
-Vice Admiral Yamakaji
-
-116
-00:01:22,180 --> 00:01:22,220
-Marine Headquarters
-
-117
-00:01:22,220 --> 00:01:22,270
-Vice Admiral Yamakaji
-
-118
-00:01:22,220 --> 00:01:22,270
-Marine Headquarters
-
-119
-00:01:22,270 --> 00:01:22,310
-Vice Admiral Yamakaji
-
-120
-00:01:22,270 --> 00:01:22,310
-Marine Headquarters
-
-121
-00:01:22,310 --> 00:01:22,350
-Vice Admiral Yamakaji
-
-122
-00:01:22,310 --> 00:01:22,350
-Marine Headquarters
-
-123
-00:01:22,350 --> 00:01:22,390
-Vice Admiral Yamakaji
-
-124
-00:01:22,350 --> 00:01:22,390
-Marine Headquarters
-
-125
-00:01:22,390 --> 00:01:22,430
-Vice Admiral Yamakaji
-
-126
-00:01:22,390 --> 00:01:22,430
-Marine Headquarters
-
-127
-00:01:22,430 --> 00:01:22,470
-Vice Admiral Yamakaji
-
-128
-00:01:22,430 --> 00:01:22,470
-Marine Headquarters
-
-129
-00:01:22,470 --> 00:01:22,520
-Vice Admiral Yamakaji
-
-130
-00:01:22,470 --> 00:01:22,520
-Marine Headquarters
-
-131
-00:01:22,520 --> 00:01:22,560
-Vice Admiral Yamakaji
-
-132
-00:01:22,520 --> 00:01:22,560
-Marine Headquarters
-
-133
 00:01:26,400 --> 00:01:29,190
 Warship spotted off the stern!
 
-134
+78
 00:01:29,650 --> 00:01:32,700
 Behind us! Pirates!
 
-135
+79
 00:01:31,570 --> 00:01:32,700
 Who is it?!
 
-136
+80
 00:01:38,660 --> 00:01:42,290
 Emperor Blackbeard's crew is here!
 
-137
+81
 00:01:42,290 --> 00:01:43,670
 Seaquake!
 
-138
+82
 00:01:43,670 --> 00:01:46,090
 The sea kings will notice!
 
-139
+83
 00:01:51,880 --> 00:01:53,380
 Who's that?!
 
-140
+84
 00:01:53,380 --> 00:01:56,010
 We can't fight a child!
 
-141
+85
 00:01:56,010 --> 00:01:57,720
 That's one strong kid!
 
-142
+86
 00:01:57,720 --> 00:02:00,640
 And don't you think she...?
 
-143
+87
 00:02:12,070 --> 00:02:16,030
 I've come for you, Pirate Empress!
 
-144
+88
 00:02:21,080 --> 00:02:24,920
 I won't let the Marines
 have your devil fruit power!
 
-145
+89
 00:02:26,330 --> 00:02:30,460
 Hancock... That beautiful face...
 
-146
+90
 00:02:30,460 --> 00:02:33,800
 I wanna take her head
 and make it my treasure.
 
-147
+91
 00:02:33,800 --> 00:02:37,720
 Do what you like after I've taken her power!
 
-148
+92
 00:02:37,720 --> 00:02:39,220
 C'mon!
 
-149
+93
 00:02:39,220 --> 00:02:44,020
 Shouldn't we take her alive
 and have fun with her?
 
-150
+94
 00:02:49,190 --> 00:02:52,240
 Halt, Blackbeard Pirates!
 
-151
+95
 00:02:53,030 --> 00:02:54,360
 Vice Admiral Yamakaji!
 
-152
+96
 00:02:54,360 --> 00:02:57,740
 Give us the order to attack
 Emperor Blackbeard!
 
-153
+97
 00:02:57,740 --> 00:02:59,530
 Wait for word from headquarters!
 
-154
+98
 00:02:59,530 --> 00:03:00,410
 What?!
 
-155
+99
 00:03:01,240 --> 00:03:03,120
 I have no business with you guys!
 
-156
+100
 00:03:22,970 --> 00:03:24,430
 Show yourself...
 
-157
+101
 00:03:24,430 --> 00:03:27,440
 Boa Hancock!
 
-158
+102
 00:03:33,190 --> 00:03:34,740
 Blackbeard!
 
-159
+103
 00:03:34,740 --> 00:03:40,030
 I guess it was inevitable that pirates
 would try to capture the former Warlords!
 
-160
+104
 00:03:41,870 --> 00:03:42,830
 Damn!
 
-161
+105
 00:03:46,500 --> 00:03:48,670
 There's no end in sight!
 
-162
+106
 00:03:48,670 --> 00:03:49,540
 Watch out!
 
-163
+107
 00:03:52,840 --> 00:03:54,380
 I'm gonna die!
 
-164
+108
 00:03:54,380 --> 00:03:55,630
 Let's go.
 
-165
+109
 00:03:55,630 --> 00:03:58,760
 We've got to do something
 about this situation first...
 
-166
+110
 00:04:00,760 --> 00:04:02,510
 Hancock!
 
-167
+111
 00:04:02,510 --> 00:04:06,020
 We, the Marines, would
 prefer to avoid bloodshed!
 
-168
+112
 00:04:06,020 --> 00:04:10,230
 If you allow us to take you into custody,
 you have my word we will withdraw!
 
-169
+113
 00:04:12,020 --> 00:04:15,400
 Don't be so cocky, Koby the Hero!
 
-170
+114
 00:04:15,400 --> 00:04:18,150
 Leave him to us, Big Sis!
 
-171
+115
 00:04:18,570 --> 00:04:20,160
 Preposterous.
 
-172
+116
 00:04:20,780 --> 00:04:23,280
 No one can capture me.
 
-173
+117
 00:04:25,950 --> 00:04:28,290
 I do not bow to anyone!
 
-174
+118
 00:04:29,790 --> 00:04:31,040
 Wait!
 
-175
+119
 00:04:31,040 --> 00:04:33,040
 No, Big Sis!
 
-176
+120
 00:04:33,040 --> 00:04:36,170
 Commodore Teach!
 Nothing's working against hi–
 
-177
+121
 00:04:41,680 --> 00:04:43,350
 Hey, now...
 
-178
+122
 00:04:43,350 --> 00:04:46,770
 You all let one brat take you out?!
 
-179
+123
 00:04:55,150 --> 00:04:57,690
 Oh, you've gotta be kidding me...
 
-180
+124
 00:04:57,690 --> 00:04:59,320
 White hair.
 
-181
+125
 00:04:59,700 --> 00:05:01,280
 Brown skin.
 
-182
+126
 00:05:01,700 --> 00:05:03,030
 Black wings?!
 
-183
+127
 00:05:21,800 --> 00:05:23,430
 "PX"?!
 
-184
+128
 00:05:27,140 --> 00:05:28,350
 Don't tell me...
 
-185
+129
 00:05:28,770 --> 00:05:30,230
 he's a pacifista?!
 
-186
+130
 00:05:57,800 --> 00:05:58,880
 Damn!
 
-187
+131
 00:05:58,880 --> 00:06:02,130
 This brat is a pacifista?
 
-188
+132
 00:06:02,130 --> 00:06:03,590
 What's going on here?!
 
-189
+133
 00:06:11,930 --> 00:06:13,600
 This brat...
 
-190
+134
 00:06:15,650 --> 00:06:16,980
 is something else!
 
-191
+135
 00:06:19,190 --> 00:06:21,990
 Black Hole!
 
-192
+136
 00:06:36,830 --> 00:06:39,960
 Hey, this doesn't look good...
 
-193
+137
 00:06:45,470 --> 00:06:47,050
 – Hubba-hubba!
 – Hubba-hubba!
 
-194
+138
 00:06:47,050 --> 00:06:48,300
 Wow!
 
-195
+139
 00:06:48,300 --> 00:06:49,390
 Hancock!
 
-196
+140
 00:06:53,060 --> 00:06:55,440
 The Blackbeard Pirates, too?!
 
-197
+141
 00:06:58,400 --> 00:07:00,780
 Slave Arrow!
 
-198
+142
 00:07:08,070 --> 00:07:09,370
 This is bad...
 
-199
+143
 00:07:09,370 --> 00:07:11,740
 We've got to go stop her, Helmeppo...
 
-200
+144
 00:07:13,830 --> 00:07:15,370
 Helmeppo!
 
-201
+145
 00:07:16,120 --> 00:07:17,830
 Vice Admiral Yamakaji!
 
-202
+146
 00:07:19,670 --> 00:07:21,920
 Pacifista! Wait!
 
-203
+147
 00:07:31,970 --> 00:07:34,310
 You'll shatter everyone who was petrified!
 
-204
+148
 00:07:34,310 --> 00:07:35,520
 Pacifista!
 
-205
+149
 00:07:35,520 --> 00:07:37,980
 This is an order! Stop!
 
-206
+150
 00:07:38,850 --> 00:07:40,940
 So that's Koby!
 
-207
+151
 00:07:44,110 --> 00:07:45,610
 Perfume...
 
-208
+152
 00:07:48,780 --> 00:07:50,120
 I can't dodge it!
 
-209
+153
 00:07:51,200 --> 00:07:52,910
 Black Vortex!
 
-210
+154
 00:08:00,580 --> 00:08:03,670
 How's that, Boa Hancock?
 
-211
+155
 00:08:04,050 --> 00:08:08,430
 My darkness absorbs devil fruit powers.
 
-212
+156
 00:08:11,470 --> 00:08:16,180
 Emperor Marshall D. "Blackbeard" Teach
 Bounty:    3.996 Billion
-
-213
-00:08:11,470 --> 00:08:16,180
 Former Warlord "Pirate Empress" Boa Hancock
 Bounty:    1.659 Billion
 
-214
+157
 00:08:16,520 --> 00:08:18,060
 Snake Princess!
 
-215
+158
 00:08:18,060 --> 00:08:20,810
 Her devil fruit power has been nullified!
 
-216
+159
 00:08:21,440 --> 00:08:23,190
 Unhand me...
 
-217
+160
 00:08:23,190 --> 00:08:24,650
 you filth.
 
-218
+161
 00:08:24,650 --> 00:08:28,610
 Well, there's the Pirate Empress
 we all know and love!
 
-219
+162
 00:08:29,030 --> 00:08:30,490
 Good grief...
 
-220
+163
 00:08:30,490 --> 00:08:34,330
 All my stupid crew members
 have been turned to stone!
 
-221
+164
 00:08:36,290 --> 00:08:37,660
 How should I proceed?
 
-222
+165
 00:08:37,660 --> 00:08:40,790
 Just as I thought, she's unimaginably tough!
 
-223
+166
 00:08:40,790 --> 00:08:42,500
 Boa Hancock!
 
-224
+167
 00:08:42,500 --> 00:08:46,630
 I've come for your power!
 
-225
+168
 00:08:47,510 --> 00:08:50,930
 This power is nothing without my beauty.
 
-226
+169
 00:08:50,930 --> 00:08:55,060
 If you kill me, your people
 will remain petrified.
 
-227
+170
 00:08:55,430 --> 00:08:58,560
 The next user cannot undo it.
 
-228
+171
 00:09:01,190 --> 00:09:03,400
 We're getting nowhere.
 
-229
+172
 00:09:03,400 --> 00:09:06,030
 Koby the Hero!
 
-230
+173
 00:09:06,030 --> 00:09:11,110
 You did me a solid during
 the Rocky Port Incident!
 
-231
+174
 00:09:12,450 --> 00:09:16,370
 Thanks to you, I was able
 to take down Ochoku,
 
-232
+175
 00:09:16,370 --> 00:09:20,000
 and take his place as the boss of Pirate Island!
 
-233
+176
 00:09:29,090 --> 00:09:30,970
 So, Hero!
 
-234
+177
 00:09:31,590 --> 00:09:35,680
 If I take my hand off this wench,
 
-235
+178
 00:09:35,680 --> 00:09:41,600
 do you think she'll turn
 my men back, just like that?
 
-236
+179
 00:09:43,850 --> 00:09:47,940
 She needs to change back our Marines, too!
 
-237
+180
 00:09:48,570 --> 00:09:52,450
 If you all agree to leave quietly…
 
-238
+181
 00:09:53,490 --> 00:09:55,070
 I'll do it!
 
-239
+182
 00:09:56,240 --> 00:09:57,870
 No.
 
-240
+183
 00:09:57,870 --> 00:09:59,540
 You're lying!
 
-241
+184
 00:10:02,370 --> 00:10:06,960
 If I unhand you, you'll petrify us.
 
-242
+185
 00:10:06,960 --> 00:10:09,510
 And that'll be it.
 
-243
+186
 00:10:09,510 --> 00:10:11,010
 Am I wrong?
 
-244
+187
 00:10:15,550 --> 00:10:18,350
 Frankly, it's hard to think of a man...
 
-245
+188
 00:10:18,850 --> 00:10:23,890
 who wouldn't fall victim
 to that technique of yours.
 
-246
+189
 00:10:25,730 --> 00:10:27,480
 What should I do?
 
-247
+190
 00:10:29,610 --> 00:10:31,780
 I guess I should just kill you!
 
-248
+191
 00:10:34,410 --> 00:10:36,160
 Please, wait!
 
-249
+192
 00:10:36,160 --> 00:10:38,780
 Those losses would be too great!
 
-250
+193
 00:10:53,090 --> 00:10:56,140
 I knew the Marines would lay siege here...
 
-251
+194
 00:10:58,680 --> 00:11:01,770
 but to think it would reshape
 the very island itself...
 
-252
+195
 00:11:04,890 --> 00:11:07,350
 D-Dark King Rayleigh!
 
-253
+196
 00:11:08,400 --> 00:11:11,610
 Sorry to keep you waiting, Hancock.
 
-254
+197
 00:11:12,230 --> 00:11:13,650
 Rayleigh...
 
-255
+198
 00:11:16,200 --> 00:11:17,450
 Hey.
 
-256
+199
 00:11:17,450 --> 00:11:20,080
 Whitebeard's little apprentice!
 
-257
+200
 00:11:22,080 --> 00:11:27,210
 I know it's childish to say this,
 but I just don't like you!
 
-258
+201
 00:11:35,050 --> 00:11:36,430
 What?!
 
-259
+202
 00:11:36,430 --> 00:11:39,720
 That's the Silvers Rayleigh?!
 
-260
+203
 00:11:49,810 --> 00:11:51,440
 Hancock.
 
-261
+204
 00:11:51,440 --> 00:11:54,150
 Undo your petrification.
 
-262
+205
 00:11:54,530 --> 00:11:56,530
 I'll keep watch until the end.
 
-263
+206
 00:11:57,030 --> 00:12:02,080
 Nobody will try anything foolish.
 Everyone will leave this island!
 
-264
+207
 00:12:09,330 --> 00:12:11,000
 Present Day
 
-265
+208
 00:12:14,760 --> 00:12:16,340
 I'm really glad...
 
-266
+209
 00:12:16,760 --> 00:12:19,090
 that you're alive.
 
-267
+210
 00:12:21,300 --> 00:12:23,850
 Thank you, Rayleigh.
 
-268
+211
 00:12:30,060 --> 00:12:30,310
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-269
+212
 00:12:30,060 --> 00:12:30,100
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-270
+213
 00:12:30,100 --> 00:12:30,150
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-271
+214
 00:12:30,150 --> 00:12:30,190
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-272
+215
 00:12:30,190 --> 00:12:30,230
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-273
+216
 00:12:30,230 --> 00:12:30,270
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-274
+217
 00:12:30,270 --> 00:12:30,310
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-275
+218
 00:12:30,310 --> 00:12:30,350
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-276
+219
 00:12:30,350 --> 00:12:30,400
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-277
+220
 00:12:30,400 --> 00:12:30,440
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-278
+221
 00:12:30,440 --> 00:12:30,480
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-279
+222
 00:12:30,480 --> 00:12:30,520
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-280
+223
 00:12:30,480 --> 00:12:30,690
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-281
+224
 00:12:30,520 --> 00:12:30,560
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-282
+225
 00:12:30,560 --> 00:12:30,600
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-283
+226
 00:12:30,600 --> 00:12:30,650
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-284
+227
 00:12:30,650 --> 00:12:30,690
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-285
+228
 00:12:30,690 --> 00:12:30,730
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-286
+229
 00:12:30,690 --> 00:12:31,560
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-287
+230
 00:12:30,730 --> 00:12:30,770
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-288
+231
 00:12:30,770 --> 00:12:30,810
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-289
+232
 00:12:30,770 --> 00:12:31,560
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-290
+233
 00:12:30,810 --> 00:12:30,850
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-291
+234
 00:12:30,850 --> 00:12:30,900
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-292
+235
 00:12:30,900 --> 00:12:30,940
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-293
+236
 00:12:30,940 --> 00:12:30,980
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-294
+237
 00:12:30,980 --> 00:12:31,060
 "Dark King" Silvers Rayleigh
 Right Hand of the Pirate King
 
-295
+238
 00:12:33,520 --> 00:12:36,650
 Advances in technology
 can create new menaces.
 
-296
+239
 00:12:36,070 --> 00:12:36,240
-Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-297
+240
 00:12:36,240 --> 00:12:37,190
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-298
+241
 00:12:37,190 --> 00:12:37,860
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-299
+242
 00:12:37,190 --> 00:12:37,240
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-300
+243
 00:12:37,240 --> 00:12:37,280
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-301
+244
 00:12:37,280 --> 00:12:37,320
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-302
+245
 00:12:37,320 --> 00:12:37,360
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-303
+246
 00:12:37,360 --> 00:12:37,400
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-304
+247
 00:12:37,400 --> 00:12:37,440
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-305
+248
 00:12:37,440 --> 00:12:37,490
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-306
+249
 00:12:37,490 --> 00:12:37,530
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-307
+250
 00:12:37,530 --> 00:12:37,570
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-308
+251
 00:12:37,570 --> 00:12:37,610
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-309
+252
 00:12:37,610 --> 00:12:37,650
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-310
+253
 00:12:37,650 --> 00:12:37,700
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-311
+254
 00:12:37,700 --> 00:12:37,740
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-312
+255
 00:12:37,740 --> 00:12:37,780
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-313
+256
 00:12:37,780 --> 00:12:37,820
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-314
+257
 00:12:37,860 --> 00:12:38,400
 Shakuyaku
 Former Captain of the Kuja Pirates
 Empress of Amazon Lily Two Generations Ago
 
-315
+258
 00:12:38,740 --> 00:12:43,080
 Because of Vegapunk's
 seastone paddle ships...
 
-316
+259
 00:12:44,950 --> 00:12:48,960
 the Calm Belts are no longer safe.
 
-317
+260
 00:12:49,750 --> 00:12:51,880
 The Marine siege.
 
-318
+261
 00:12:51,880 --> 00:12:54,340
 The introduction of these nyew weapons.
 
-319
+262
 00:12:54,340 --> 00:12:56,960
 Blackbeard's raid.
 
-320
+263
 00:12:57,880 --> 00:13:01,090
 I thought we were doomed...
 
-321
+264
 00:13:08,230 --> 00:13:12,810
 Frankly, I was only able to save you
 due to the particulars of the situation.
 
-322
+265
 00:13:15,270 --> 00:13:17,860
 I've gotten old.
 
-323
+266
 00:13:21,740 --> 00:13:27,290
 Nowadays, I don't think I could
 beat Blackbeard in a fight head-on.
 
-324
+267
 00:13:28,950 --> 00:13:33,580
 So the Marines thought those new weapons...
 
-325
+268
 00:13:34,040 --> 00:13:39,360
 could replace you guys, the Seven Warlords...
 
-326
+269
 00:13:40,050 --> 00:13:42,550
 In the end, those two...
 
-327
+270
 00:13:42,550 --> 00:13:45,550
 ...got away without even a scratch!
 
-328
+271
 00:13:45,550 --> 00:13:47,350
 But the strange thing is...
 
-329
+272
 00:13:47,890 --> 00:13:52,480
 one of them looked just like our
 big sister when she was a child.
 
-330
+273
 00:13:58,190 --> 00:14:02,650
 Aye aye. Proceeding directly
 to the port of Egghead.
 
-331
+274
 00:14:04,070 --> 00:14:07,490
 About Captain Koby's kidnapping…
 
-332
+275
 00:14:11,330 --> 00:14:11,370
 CAPTAIN KOBY
 
-333
+276
 00:14:11,330 --> 00:14:11,950
 900!TR;5BpG.!
 8anLI.bMGWJw!
 6E"5;SImhTns!
 d5kx7OaccIsH!
-
-334
-00:14:11,330 --> 00:14:11,950
 yM20zy"7n.X6W
 T:NiCEujA:lAw
 oM9wZFnCplEfY
 s6qT'RlHdt'yE
 
-335
+277
 00:14:11,370 --> 00:14:11,410
 CAPTAIN KOBY
 
-336
+278
 00:14:11,410 --> 00:14:11,450
 CAPTAIN KOBY
 
-337
+279
 00:14:11,450 --> 00:14:11,490
 CAPTAIN KOBY
 
-338
+280
 00:14:11,490 --> 00:14:11,530
 CAPTAIN KOBY
 
-339
+281
 00:14:11,530 --> 00:14:11,580
 CAPTAIN KOBY
 
-340
+282
 00:14:11,580 --> 00:14:11,620
 CAPTAIN KOBY
 
-341
+283
 00:14:11,620 --> 00:14:11,660
 CAPTAIN KOBY
 
-342
+284
 00:14:11,660 --> 00:14:11,700
 CAPTAIN KOBY
 
-343
+285
 00:14:11,700 --> 00:14:11,740
 CAPTAIN KOBY
 
-344
+286
 00:14:11,740 --> 00:14:11,780
 CAPTAIN KOBY
 
-345
+287
 00:14:11,780 --> 00:14:11,830
 CAPTAIN KOBY
 
-346
+288
 00:14:11,830 --> 00:14:11,870
 CAPTAIN KOBY
 
-347
+289
 00:14:11,870 --> 00:14:11,910
 CAPTAIN KOBY
 
-348
+290
 00:14:11,910 --> 00:14:11,950
 CAPTAIN KOBY
 
-349
+291
 00:14:12,620 --> 00:14:12,660
 CAPTAIN
-
-350
-00:14:12,620 --> 00:14:12,660
 qpx
 twIUY
 18Hfi1uu
 SHuTQ8s9jd!
 P3szTjF0ir7?Ei
-
-351
-00:14:12,620 --> 00:14:12,660
 OBC
 lNC8e
 0e3iD:zx
 StuaH9AeAg'
 u9MF6It?IZV1"b
 
-352
+292
 00:14:12,660 --> 00:14:12,700
 CAPTAIN
-
-353
-00:14:12,660 --> 00:14:12,700
 Ih:
 R.wVd
 F?KXnUad
 bZVWZa'3Pg!
 EhHI,ApJ"Es7OT
-
-354
-00:14:12,660 --> 00:14:12,700
 S0K
 V4dhU
 ,R"z9Yqs
 LP:v9uMMNBw
 ,,.T4JFnozqho'
 
-355
+293
 00:14:12,700 --> 00:14:12,740
 CAPTAIN
-
-356
-00:14:12,700 --> 00:14:12,740
 xFM
 E.gGB
 CyRhTwmk
 11"xdubbn.!
 PCpMpAFqGCsn"J
-
-357
-00:14:12,700 --> 00:14:12,740
 a18
 CUv"P
 bXKfmq6O
 rI16;?9M7;L
 mqRDAgv4rQSnfp
 
-358
+294
 00:14:12,740 --> 00:14:12,790
 CAPTAIN
-
-359
-00:14:12,740 --> 00:14:12,790
 YBV
 0QeOU
 Xl"?lJI"
 trNVnNKTQi!
 '?7!'npDDPFGCt
-
-360
-00:14:12,740 --> 00:14:12,790
 "G;
 6:q4:
 orU4S4E'
 m.NZCNMNkew
 D0J2Mczktd1Hpd
 
-361
+295
 00:14:12,790 --> 00:14:12,830
 CAPTAIN
-
-362
-00:14:12,790 --> 00:14:12,830
 b3P
 i?nr0
 hWvb9jxF
 0f?Bl5F8f3!
 VON4t7v6BO!caM
-
-363
-00:14:12,790 --> 00:14:12,830
 vIT
 m2,.7
 emaqHeh2
 w!.w1yv?65h
 z1NZU94a2;M;dI
 
-364
+296
 00:14:12,830 --> 00:14:12,870
 CAPTAIN
-
-365
-00:14:12,830 --> 00:14:12,870
 .4d
 lu.:z
 S171HH9t
 MWGH.TQ.vD!
 :yeusWste:JZRb
-
-366
-00:14:12,830 --> 00:14:12,870
 q.r
 FX3D'
 6hWOkEb6
 W6gIxqQPDdT
 h4wW'Nr8CBH.o,
 
-367
+297
 00:14:12,870 --> 00:14:12,910
 CAPTAIN
-
-368
-00:14:12,870 --> 00:14:12,910
 ott
 i:bu!
 negmUkRc
 i71uaXIgRj!
 P6Sd!qLBT;bvbh
-
-369
-00:14:12,870 --> 00:14:12,910
 Tid
 EaPYa
 ,nmwfjLv
 Nu0z,26KU.J
 97de'OtOeXcGLq
 
-370
+298
 00:14:12,910 --> 00:14:12,950
 CAPTAIN
-
-371
-00:14:12,910 --> 00:14:12,950
 g!N
 MHi.0
 AnF?:hc2
 pidNRYWY"q!
 q19c;5u?ddmpU3
-
-372
-00:14:12,910 --> 00:14:12,950
 FkN
 Bxg!l
 lbjQ7bxj
 o??NHfsBmhz
 UCxSTXBL0UAqyZ
 
-373
+299
 00:14:12,950 --> 00:14:12,990
 CAPTAIN
-
-374
-00:14:12,950 --> 00:14:12,990
 t1D
 lE1.x
 JDbr9mrv
 I6MJg?srHN!
 dZALl!StHYPabW
-
-375
-00:14:12,950 --> 00:14:12,990
 vH6
 cm4u7
 4yqtw0jI
 tZHMb"x1pNV
 bEU1AHGDW6"9Xz
 
-376
+300
 00:14:12,990 --> 00:14:13,040
 CAPTAIN
-
-377
-00:14:12,990 --> 00:14:13,040
 ZG5
 t1HG7
 m8wDm6;b
 TGY:cpROpc!
 ;!jx90YQnlQxH,
-
-378
-00:14:12,990 --> 00:14:13,040
 ?xI
 QH8uQ
 vy'ZqT3J
 :VbEoCCEuM:
 e4IZU:iNITTdUk
 
-379
+301
 00:14:13,040 --> 00:14:13,080
 CAPTAIN
-
-380
-00:14:13,040 --> 00:14:13,080
 6hW
 i,VW4
 1Ew.yFdm
 kALwadzsCY!
 OgQBl"?WQ!NyN0
-
-381
-00:14:13,040 --> 00:14:13,080
 yWY
 1w;xN
 T9RPTO8K
 ,e:ZqBOwZt3
 1IDy6ObQbgN8Ne
 
-382
+302
 00:14:13,080 --> 00:14:13,120
 CAPTAIN
-
-383
-00:14:13,080 --> 00:14:13,120
 T7j
 oe6hB
 i7Ajls'V
 dznWQas?J,!
 tYt;D3Q2LMn9Ik
-
-384
-00:14:13,080 --> 00:14:13,120
 DkE
 T5HJ2
 ONdsvBrq
 ZvBWXWRb'IH
 lxMx"gQTy4n0uL
 
-385
+303
 00:14:13,120 --> 00:14:13,160
 CAPTAIN
-
-386
-00:14:13,120 --> 00:14:13,160
 Ok9
 Kp78Y
 pU0efm,g
 mw?lfO0Xax!
 17'Ig"o"MKVouO
-
-387
-00:14:13,120 --> 00:14:13,160
 vy?
 3;",8
 !n3KpT,c
 KZSqwvB0'EQ
 ,Q9'L?Xo"U:a3H
 
-388
+304
 00:14:13,160 --> 00:14:13,200
 CAPTAIN
-
-389
-00:14:13,160 --> 00:14:13,200
 MaL
 .7JEX
 iOOxcZ!5
 eDehQcLBGZ!
 nzD2g8jSfvaKcT
-
-390
-00:14:13,160 --> 00:14:13,200
 k7j
 3BdNt
 nPEt"SAj
 qRm:5G8DVSY
 zT"E74KcVW':L9
 
-391
+305
 00:14:13,200 --> 00:14:13,240
 CAPTAIN
-
-392
-00:14:13,200 --> 00:14:13,240
 z:W
 fROCD
 l?LAm3AF
 3v'RcHTy3M!
 5l5gk4l?LMuxp:
-
-393
-00:14:13,200 --> 00:14:13,240
 WBQ
 cKaVF
 YNJwp6lH
 UI1?HZFazDR
 BDbDY4Gi;ZnwYw
 
-394
+306
 00:14:13,240 --> 00:14:13,290
 CAPTAIN
-
-395
-00:14:13,240 --> 00:14:13,290
 ol6
 Y0VKU
 Wyk',zCO
 oSVL:s8LuI!
 nma8Dr1YxdKkYp
-
-396
-00:14:13,240 --> 00:14:13,290
 u2F
 2z9ED
 zzHjzKjR
 2hPaalWJqO3
 STq'mQ62B4lWKG
 
-397
+307
 00:14:13,290 --> 00:14:13,330
 CAPTAIN
-
-398
-00:14:13,290 --> 00:14:13,330
 Zs6
 ,YzmC
 REvb5:L;
 hw,p1Nwhu.!
 j'qHa6B1DEUTwR
-
-399
-00:14:13,290 --> 00:14:13,330
 LvW
 kfv,3
 z"w!LoZJ
 i;F!0NXUS?:
 g6ccc5a!TJPdvn
 
-400
+308
 00:14:13,330 --> 00:14:13,370
 CAPTAIN
-
-401
-00:14:13,330 --> 00:14:13,370
 8'4
 EkbIy
 mbKvZt,w
 v0Gox1O;aQ!
 z3z:18F872Z87Y
-
-402
-00:14:13,330 --> 00:14:13,370
 5jP
 ei3rC
 y3t31uVs
 vbgJFFVb'uK
 mhLwcBrVvDyTtY
 
-403
+309
 00:14:13,370 --> 00:14:13,410
 CAPTAIN
-
-404
-00:14:13,370 --> 00:14:13,410
 B6Z
 86bD;
 P,tY!1g0
 Qwq7s0Tpea!
 0M',;9x8ghd3d?
-
-405
-00:14:13,370 --> 00:14:13,410
 uCm
 7F414
 V7QjnRE:
 CO1f0Q!L8Lv
 1;RTQkZHZ1jUcW
 
-406
+310
 00:14:13,410 --> 00:14:13,450
 CAPTAIN
-
-407
-00:14:13,410 --> 00:14:13,450
 V;6
 C1SEl
 6vUdqKdD
 o:FMFCzWS:!
 9Gk2M7aB5lYSzP
-
-408
-00:14:13,410 --> 00:14:13,450
 !MK
 LXh:9
 R?r7GP6J
 w9mbxPSbWo8
 6aCNR8MnUcTkJE
 
-409
+311
 00:14:13,450 --> 00:14:13,490
 CAPTAIN KOBY
-
-410
-00:14:13,450 --> 00:14:13,490
 Fh7F'a3'YxAllapPl!
 hs9Oaqr;YFZ.Wxl
 pfIxb3BAjfOa4s:rh!
 "TIq"JfoZ7gJ?ZDCie2!
-
-411
-00:14:13,450 --> 00:14:13,490
 R46NG47Z.60hdm8bBy
 I1hVLKsAaoQl10A
 R5;VpEGu?k2MJmwAvv
 SrcJ2YAGx1KKc7rYSF0O
 
-412
+312
 00:14:13,490 --> 00:14:13,540
 CAPTAIN KOBY
-
-413
-00:14:13,490 --> 00:14:13,540
 MC49oENTC3BJcHmL0!
 :.UfHUNIHOPEy1K
 juSLZdSvQDmVXUsFH!
 Bd,,bUQ6Q3auK!8o:8"!
-
-414
-00:14:13,490 --> 00:14:13,540
 V:f,RNN5QYyH5ysz4S
 bX6?kNN2W;,ulb;
 okEya"DltkFpd6XRaf
 Kih05wD:?mXm3tiynI8N
 
-415
+313
 00:14:13,540 --> 00:14:13,580
 CAPTAIN KOBY
-
-416
-00:14:13,540 --> 00:14:13,580
 J7Dh3CKetoK3ck6?8!
 Mw'dxh7zaADeT2F
 nIXKy02RpVMRUn8L"!
 ".biJ!QzT1Flg9.B1RH!
-
-417
-00:14:13,540 --> 00:14:13,580
 9!rL3nVuI'g4yRZY.0
 "Y0:h024HRqT.1g
 ?BXy1O7TPyk708TSik
 T5NMjh1fXY3'Rsh5ZXzS
 
-418
+314
 00:14:13,580 --> 00:14:13,620
 CAPTAIN KOBY
-
-419
-00:14:13,580 --> 00:14:13,620
 "r:cM58OmKb5CTp2H!
 X!a!rVMMQ"hGTp!
 DH's7JM9TU9YZcpa2!
 .kQHMNPRL;8c:KB!Xst!
-
-420
-00:14:13,580 --> 00:14:13,620
 qgB7!lzzi3k6PlkBbB
 f4P3'qRFl2'Fs!o
 T4zrn6rclt0UOW:hny
 tzs3WNFKW;5ah?C7lcC1
 
-421
+315
 00:14:13,620 --> 00:14:13,660
 CAPTAIN KOBY
-
-422
-00:14:13,620 --> 00:14:13,660
 Yhuep:nNA5GTtRsqi!
 oNnjkE,Wwjd;0Gx
 T:nBrhP3oyb1YCs,3!
 d:rmx5wbTNWDlxM.lGE!
-
-423
-00:14:13,620 --> 00:14:13,660
 lpreim0NYMxtIxJuOe
 !NkJxaTKds8VaxF
 64:nnK22?hDJ7gN2m4
 mgNKn16zqN3Gk:IcoOlt
 
-424
+316
 00:14:13,660 --> 00:14:13,700
 CAPTAIN KOBY
-
-425
-00:14:13,660 --> 00:14:13,700
 EZB';huEc:YD4"!K:!
 tU0do!H"mBDNPRn
 g2Niq!VvrLJP2qa0;!
 SZ,qEnzgY.!Qef,QNdN!
-
-426
-00:14:13,660 --> 00:14:13,700
 GLUfpnDYH'Z'wn6K:k
 Yiw';C4.2IBN,XF
 zhN:Y2FE5wO'LiO'ld
 iy6TxnzsNPajEYRON7NP
 
-427
+317
 00:14:13,700 --> 00:14:13,740
 CAPTAIN KOBY
-
-428
-00:14:13,700 --> 00:14:13,740
 OdHTqoMCcx10ajvjq!
 MjEycupxXeqqi14
 G,STztR,Ygr!tS"n7!
 FNSu'tkVY'm9,hE5p!s!
-
-429
-00:14:13,700 --> 00:14:13,740
 KErO2Xw"MRcQZveLJ9
 AA79sbqiHS;Wm!"
 OA92qQ9dn50rVxDXgs
 JNQ.k!IFkPo,E'tOBwP.
 
-430
+318
 00:14:13,740 --> 00:14:13,790
 CAPTAIN KOBY
-
-431
-00:14:13,740 --> 00:14:13,790
 G;0aqc0zC8vUKh?Ro!
 edGpu'FdOooC,Xh
 rbdsH7q:d"Xd7!o0X!
 IX?t;c540'PVzD6tz0I!
-
-432
-00:14:13,740 --> 00:14:13,790
 8gfgn5p7nFJoqg"Ct;
 :jll0y0zccUhxQv
 NiU!1zP1o,NwIGDiT?
 "?,nqsEPR2!ohlB7gDOL
 
-433
+319
 00:14:13,790 --> 00:14:13,830
 CAPTAIN KOBY
-
-434
-00:14:13,790 --> 00:14:13,830
 u?On,FSyXsWTyAOQ5!
 .,:XYoB!pkgwdbg
 gdneP1h!XUrTv9YNl!
 3!1y7!!:;mmb"y,Ak,N!
-
-435
-00:14:13,790 --> 00:14:13,830
 Cw0RkOH,oCAp;yURcH
 6hJx;S?U;UeXMcC
 rtk;LEezmgJCl50N'G
 UFP'6ph7yn6luykfTQNY
 
-436
+320
 00:14:13,830 --> 00:14:13,870
 CAPTAIN KOBY
-
-437
-00:14:13,830 --> 00:14:13,870
 f1K3LdgpEXRBSlPMJ!
 MFM2'TEgtCg;qS;
 A32pUXsCWotInqsx;!
 lBcdLRyCcqA"3h560gO!
-
-438
-00:14:13,830 --> 00:14:13,870
 KnebMGoZo1qax"R5X;
 EkCnZBfahEli1aQ
 iCowM17:641.5z4Uh:
 nQyM9??3gwfIod52rdgi
 
-439
+321
 00:14:13,870 --> 00:14:13,910
 CAPTAIN KOBY
-
-440
-00:14:13,870 --> 00:14:13,910
 Y98mbFalV"hR"xoOt!
 Mk:aKXoik!rA9rW
 W0bCGl3LY7lRHRnxK!
 KPRgWP8.ItR;bMxqN"9!
-
-441
-00:14:13,870 --> 00:14:13,910
 zCK4vJq6zNP?crolzX
 zmPU3u07Ke0HS:t
 l0p;cMMaNCVEkaZOY9
 CPRiWQq3Og78RN,CNwue
 
-442
+322
 00:14:13,910 --> 00:14:13,950
 CAPTAIN KOBY
-
-443
-00:14:13,910 --> 00:14:13,950
 dUF8zU!OJb;POTnv1!
 TQE5XAXquQGYntH
 M91D0Tnk6Y;H3BhsZ!
 '"piYvW,kZ23V.Xn3i;!
-
-444
-00:14:13,910 --> 00:14:13,950
 RtYC7fQPs,LRqp'lic
 HVLoCVV9svpgI7v
 CtJVh"VOU3uLtmZPRI
 LI,g1hDtJ2!7PHwYXIkC
 
-445
+323
 00:14:13,950 --> 00:14:13,990
 CAPTAIN KOBY
-
-446
-00:14:13,950 --> 00:14:13,990
 c!XZ0p;NR'MsNh0cp!
 c!'AKVJ'TK,MW.l
 b3vOZeyxFM.OP'K66!
 gQKUmaVASc0P.YCka7q!
-
-447
-00:14:13,950 --> 00:14:13,990
 j:LAN!wN0wgVN3PhIW
 mZEMh:WYtJMyery
 KzF4pL3fnsQLb3xAbW
 'rXxz2e4Sf8g8vuGI6Se
 
-448
+324
 00:14:13,990 --> 00:14:14,040
 CAPTAIN KOBY
-
-449
-00:14:13,990 --> 00:14:14,040
 f?H.RL4SP!qMPQT76!
 Ea?MxWJUMKWLL6G
 qXzIsBoXHCIZ:eZwT!
 qZz!IzkOarnUtqQA6.R!
-
-450
-00:14:13,990 --> 00:14:14,040
 Q2WEiNf:cerbYY5J7a
 23V,ASShvwKNXC!
 SX;AIlwdD6nVXytzlI
 5"qehJpZCSPU57r?daYF
 
-451
+325
 00:14:14,040 --> 00:14:14,080
 CAPTAIN KOBY
-
-452
-00:14:14,040 --> 00:14:14,080
 Ts33qgMBl8U45ySXx!
 W.G!E'NJyPaES5d
 Rjm!CCcci!MAhHTm1!
 hjQ8,P!!"U7.9v0zJZC!
-
-453
-00:14:14,040 --> 00:14:14,080
 ;WM.rx1W'797PW41vD
 WTSAv0N,zuUKxYw
 Bnzooop?7b38,WaS9e
 c4hZc36RkK.prheKm6xC
 
-454
+326
 00:14:14,080 --> 00:14:14,120
 CAPTAIN KOBY
-
-455
-00:14:14,080 --> 00:14:14,120
 0:EVkglpf1FSM'zD4!
 wNyrx,MSsNJL;Ra
 EzL'xPVWeJ0Ml1ry4!
 yfF9u?mY'DUh59gIThX!
-
-456
-00:14:14,080 --> 00:14:14,120
 Dy4?.b67bt:4rMvXb7
 'Nwqzb"93NEA6Wq
 rVnFXn5Q.McJehxoE4
 IcH;?s9Sq!oBaJUy?H!?
 
-457
+327
 00:14:14,120 --> 00:14:14,160
 CAPTAIN KOBY
-
-458
-00:14:14,120 --> 00:14:14,160
 xw.9m?tMu4iwz33P"!
 y?7dCe3FJO4.LU9
 Ag9o8RO"dyM8C33TC!
 jZa;m!U'D9aesD.dNY8!
-
-459
-00:14:14,120 --> 00:14:14,160
 HU;Fc0zktRB2ErKxG1
 FBxK?lsNw64ITKE
 ryluNVd7AgDbP3OBC8
 TAD0WgJ13M9YuNoJN7mZ
 
-460
+328
 00:14:14,160 --> 00:14:14,200
 CAPTAIN KOBY
-
-461
-00:14:14,160 --> 00:14:14,200
 SSiUWIFb?5SYk"cu7!
 :UbcjPKExxi9BYv
 HDxkK"RXqjcbhk0jq!
 Em8Y;5,XfDpjDfOPm7"!
-
-462
-00:14:14,160 --> 00:14:14,200
 0:3NWk1:YBgJk3Kt4a
 vcOZz8UJAbfgBc8
 8udt1es9chUR:iGx38
 O0nrMWpQRyznHV:SWyYl
 
-463
+329
 00:14:14,200 --> 00:14:14,240
 CAPTAIN KOBY
-
-464
-00:14:14,200 --> 00:14:14,240
 AK1k:Bd;:'J'I7"N"!
 TJHeec.SZToU43Z
 oWfhUQfdop4PSmWOU!
 ;:;vYDN:fC7XV'OjIX5!
-
-465
-00:14:14,200 --> 00:14:14,240
 Et;qFo3So9NvBfSNbT
 5US59O17BJnWvoi
 UQv7q9.VY:uxV6Lw'W
 FnF3XoNPa'y.GBXfO6.A
 
-466
+330
 00:14:14,240 --> 00:14:14,330
 CAPTAIN KOBY
 
-467
+331
 00:14:14,240 --> 00:14:14,290
 FSAspQLnWfb9NuBQz!
 .:'t8XK:;F4RLgm
 rhA.;yEIwy"OUJtEU!
 vSuVJ6qYdbTiLqWbWSy!
-
-468
-00:14:14,240 --> 00:14:14,290
 cQ2YnEGZQoEiNNGIqy
 BSb2H,f5T4F"6RH
 e;OYSGcSYqhEL;SdEr
 !Tyh5mQu:Z85"mHmr'C;
 
-469
+332
 00:14:14,290 --> 00:14:14,330
 WAEhu:9Tetst7Es79!
 b,"V4WS5h"YFTYg
 CvDlz3K6DPe0LyXmv!
 sPpxTs17;gRYaQ1!Mdt!
-
-470
-00:14:14,290 --> 00:14:14,330
 Rtf;lO5b2aCPad"ZO4
 b;"NcmUTOkZP5La
 m'biO1LRY0aOuHkLa8
 26;BI5rRtFhZVFCbVLZ1
 
-471
+333
 00:14:14,330 --> 00:14:14,370
 CAPTAIN KOBY
-
-472
-00:14:14,330 --> 00:14:14,370
 dM1?oq7nRl;AqfVUj!
 cS5q!.ervTNYB:M
 QK!RAsNjcMKtXjsOX!
 vUB.8r;0pCUCGnoHcxU!
-
-473
-00:14:14,330 --> 00:14:14,370
 1OCa,6iY,5Ui6KvaWh
 !!tBBXJb8"NfA!D
 ?JophYNDxmrBkFIRT0
 G8:7GMfdCmx8EykvrYfp
 
-474
+334
 00:14:14,370 --> 00:14:14,410
 CAPTAIN KOBY
-
-475
-00:14:14,370 --> 00:14:14,410
 PfXji?:kzB,3GqyE,!
 P:!7,GD2L,vOZQn
 oPfeR0ZchdoWIs"Q8!
 LK8.3d8uRMj87o6K:hx!
-
-476
-00:14:14,370 --> 00:14:14,410
 108wa:4?.w3yTfDIz8
 4elOnedrnSf;X'j
 rhr0P"Ty."JwsrdN3X
 LOCp9Jsnw.MPIMw0b6Q"
 
-477
+335
 00:14:14,410 --> 00:14:14,450
 CAPTAIN KOBY
-
-478
-00:14:14,410 --> 00:14:14,450
 f.P,tk;L.VHVjcMVW!
 RHkko,IiUyo1?ez
 uFc1qFaT2A:eEA1fm!
 vEyfgF2;zajnO"UiwR'!
-
-479
-00:14:14,410 --> 00:14:14,450
 EjH3H98MYi4y"9MrA3
 dsf6Y6ej32.A,An
 php7qeAp2UZtqtNzwm
 8fk1jD36tZWVDO6XrcpR
 
-480
+336
 00:14:14,450 --> 00:14:14,500
 CAPTAIN KOBY
-
-481
-00:14:14,450 --> 00:14:14,500
 C64cJleXId.gjSDJ'!
 nbAQ.RH5RK.?6dG
 VfJypR?K6CR'Jq7L:!
 Tb.wPGUNtdUDqjbjUbX!
-
-482
-00:14:14,450 --> 00:14:14,500
 ;QY1OkaD.n85qd36G?
 zx"2nSw6:2H6Bis
 kJ"QiXldv?m5L94;UW
 P5eiWteNZgluWPvXsSaF
 
-483
+337
 00:14:14,500 --> 00:14:14,540
 CAPTAIN KOBY
-
-484
-00:14:14,500 --> 00:14:14,540
 3D1cuTKwOY6vDrLhv!
 fBN5PRyHLX4xTkF
 wBl4mw5RikQKGtdvO!
 9fPn4nZMcZIH6gf,Ka:!
-
-485
-00:14:14,500 --> 00:14:14,540
 E.HYe7TNb:jN4yp5O?
 eLNvFiufsGFMJfl
 B1T5u3:RMF;OPvSjg8
 VK'GuB2fJAfQ:'A,cH7V
 
-486
+338
 00:14:14,540 --> 00:14:14,580
 CAPTAIN KOBY
-
-487
-00:14:14,540 --> 00:14:14,580
 bnmT5oy0C.wyFPxRq!
 JK0FTL0Q6eD4Sqw
 3jjhC?7cKgoLDfaW6!
 AOd?dajjWV0,xhD3lAV!
-
-488
-00:14:14,540 --> 00:14:14,580
 Os?RbJNznc9LVseHDi
 uPNVQqgfiHNnY!.
 6FpF6;JU5z7xlC:L9"
 GmR5.zohb!kwTJ29bpFe
 
-489
+339
 00:14:14,580 --> 00:14:14,660
 CAPTAIN KOBY
 
-490
+340
 00:14:14,580 --> 00:14:14,620
 4mDfbk"!zfsmSMoGR!
 7AH2KJ:dTVJ'naI
 0piZK4EENqEN'hS6X!
 PFjjLkSlz'EtnfpaqIt!
-
-491
-00:14:14,580 --> 00:14:14,620
 ,M!LmmxQ0LffEZXsPq
 4UY'wr33rTxcU1S
 LJC99r9zN9lN'j15gJ
 .Xq0vFUJA:7syM8o'iNw
 
-492
+341
 00:14:14,620 --> 00:14:14,660
 .zpHeVu4E5":n;;fo!
 elgV?sEnLD:TI5J
 fmxbG1nrwTpozW,Iy!
 t.ficrO:;LWJB90c0OB!
-
-493
-00:14:14,620 --> 00:14:14,660
 vtTXaqIOphuQMWqF'9
 na8"pozKNk'ye0x
 NRfppa?"qFBZ'cZ4Qd
 9YCHNLT;KfNaI9EbRQro
 
-494
+342
 00:14:14,660 --> 00:14:14,700
 CAPTAIN KOBY
-
-495
-00:14:14,660 --> 00:14:14,700
 vzpg"hSTJs5,qr0EM!
 oqx5;vM,44nHWbF
 iZk3kC7RDXnZLBuTl!
 vC3bpf.K0sNuBR83Y1r!
-
-496
-00:14:14,660 --> 00:14:14,700
 DNW7JyyPmy9qDSc?Mr
 Vb:j,mQAF8.jnFk
 n?mmfOOyS;iIZgY99n
 ek0AtdnrTUNQ7J"eqX2e
 
-497
+343
 00:14:14,700 --> 00:14:14,750
 CAPTAIN KOBY
-
-498
-00:14:14,700 --> 00:14:14,750
 u;eRxCq4Phb48w1fL!
 3kYEAwxGy7DKPPc
 .ng6Oi89XTIO07eTq!
 L9"ud7JqDB0hj9;5uI7!
-
-499
-00:14:14,700 --> 00:14:14,750
 VO.IB,eTi5Qa5:0WqQ
 !E3Gx1,5W0R3gKu
 Qi7J9QmWZ!a6eZcXo!
 idyyLH':JEU;8M!0.p3"
 
-500
+344
 00:14:14,750 --> 00:14:18,460
 Captain Koby, the hero
 of the Rocky Port Incident,
 
-501
+345
 00:14:14,750 --> 00:14:14,790
 CAPTAIN KOBY
-
-502
-00:14:14,750 --> 00:14:14,790
 JuP2iU:bGcIz2f?67!
 2.WvzoxITn9,zAm
 5qnN3,PxzXnNN8La"!
 FuULpRSkA2E.F,1hOkv!
-
-503
-00:14:14,750 --> 00:14:14,790
 pY1mXX!8zRJGMJ!5SP
 eWZW5aXIUF!BvX8
 PYYNwhx8oJDNNoVG8z
 c'rghM.?yDf1K5epHb,w
 
-504
+346
 00:14:14,790 --> 00:14:14,830
 CAPTAIN KOBY
-
-505
-00:14:14,790 --> 00:14:14,830
 A0,"bH;f6NokAlEG.!
 0T,D'MqXw?RR7aB
 8wpSrOcX"B;tKH0vc!
 JyRLUvosC0CrQhF1vTU!
-
-506
-00:14:14,790 --> 00:14:14,830
 XEngJFnyuN3:zEdwxM
 2w,RzqOY0HcKKrp
 4134HBDNv:qX5nJ;qP
 ,LS7oz;6?hnQlEcnVzq;
 
-507
+347
 00:14:14,830 --> 00:14:14,870
 CAPTAIN KOBY
-
-508
-00:14:14,830 --> 00:14:14,870
 T6J;R:wkJVBIahVT:!
 C6PB?nCBaV4D3cW
 DqabLw7FQ,mzQ'NxD!
 vbbizhNkFXg8kVSUhzP!
-
-509
-00:14:14,830 --> 00:14:14,870
 6N0Qtt;F9VuyElapZR
 !OR"TDlgcwGHG;g
 Uq;:nPWubgAcp:NUTx
 d.8:G3NPcsTyNu',2k1s
 
-510
+348
 00:14:14,870 --> 00:14:14,910
 CAPTAIN KOBY
-
-511
-00:14:14,870 --> 00:14:14,910
 7BV0coBXvJ!2w9SG2!
 V!SEWGN6C;bCB.d
 Mi3xpwhe48kfMUJcL!
 aoSkpVKQV4F?3t.qBji!
-
-512
-00:14:14,870 --> 00:14:14,910
 31,Bmf0a?.j;0O:ciC
 pS2!.jNg0T;6ebA
 tMs57hJnalMQ3ZOb5R
 p1774z.K9'X?lh6LuH;N
 
-513
+349
 00:14:14,910 --> 00:14:14,950
 CAPTAIN KOBY
-
-514
-00:14:14,910 --> 00:14:14,950
 gg3UA?MGCQMIBWn0"!
 GRGwvXgT?JhnDg1
 dJyL?jq,Lb"pW:ED4!
 Bwx4'KzDHpyX2TwTJoF!
-
-515
-00:14:14,910 --> 00:14:14,950
 H4S:ee0evOq3dH?6gJ
 DRdyC7qYegfDX.z
 Z5b'TPwa,iQC9UOXIz
 x3a?Y3NRoTLcGu1duPkv
 
-516
+350
 00:14:14,950 --> 00:14:15,000
 CAPTAIN KOBY
-
-517
-00:14:14,950 --> 00:14:15,000
 cweYxcuPG31c0:V:z!
 ;v;f0EP:HKWkjW'
 IBW;zEdCAw1r,;dK"!
 SSg.qN3AMuAD,IRQBx4!
-
-518
-00:14:14,950 --> 00:14:15,000
 ighEnj.1fSNcWYb1RY
 .,Qy!H8LAOeh.sZ
 K31pi2haBR0'zDcfAV
 Ehhk1N8VcNQEsb8JBfd2
 
-519
+351
 00:14:15,000 --> 00:14:15,040
 CAPTAIN KOBY
-
-520
-00:14:15,000 --> 00:14:15,040
 5.G57pqbPEtsJP'iK!
 wLryhiRmxHHUFb8
 xqzkZhjjvu4nzfvsc!
 cYmJ9Q0DQ3cZQQC7pZN!
-
-521
-00:14:15,000 --> 00:14:15,040
 IA,Q.a!:!07lEG'UGt
 .8WLllis"gSG?HG
 e8QtSsQOcj'PBe:EIp
 ADTq"Vh1yX6tvDaybRN.
 
-522
+352
 00:14:15,040 --> 00:14:15,080
 CAPTAIN KOBY
-
-523
-00:14:15,040 --> 00:14:15,080
 yp9UooHkcGYgoQN1n!
 f6JtSdj74YwFMRc
 ?Sqm!36FUFAQkki1f!
 HfFdpcthbUnt1?1cwdi!
-
-524
-00:14:15,040 --> 00:14:15,080
 Ax;8,"t;pGZBssNHOJ
 !ozBxkz0tl5FglZ
 6kzxaMKstBOO92fisZ
 ptJmJwEuCbQW'RH,46Ap
 
-525
+353
 00:14:15,080 --> 00:14:15,120
 CAPTAIN KOBY
-
-526
-00:14:15,080 --> 00:14:15,120
 AGVHZ?;SNPw;?PyeP!
 E0M!63L9epVeS!5
 !ViUT;Ke5GtxmTrkB!
 IZe3e.OiO!V"aoPyx4W!
-
-527
-00:14:15,080 --> 00:14:15,120
 AZjaXUoUNRGmWfUh6p
 uW4KX0g;uDikQVw
 qyHY3zM.DSpdgtPHmf
 8vF02L8Bx7luj:xCXVfF
 
-528
+354
 00:14:15,120 --> 00:14:15,160
 CAPTAIN KOBY
-
-529
-00:14:15,120 --> 00:14:15,160
 SQWJ?Ey4XR0lF5bv"!
 fOZEqjMair".4wp
 9d4uWHm:XJFkeWbM8!
 MZyfMYuR?yf'LTp"GhU!
-
-530
-00:14:15,120 --> 00:14:15,160
 b44sx3K3.TT4!bliup
 LUgIMjhnzLQqCd6
 JxtCrbSYB'nxQZA4P!
 j32,hF4au1Bb"enM7ONz
 
-531
+355
 00:14:15,160 --> 00:14:15,200
 CAPTAIN KOBY
-
-532
-00:14:15,160 --> 00:14:15,200
 upcYhZ8onXJ.xZWxd!
 Sj8;7RQS,HdEqt:
 pLcvkaB'crybZ,IWp!
 QVyh5eR?BlyxBffwE,g!
-
-533
-00:14:15,160 --> 00:14:15,200
 os:UeLE7h?ZLV,QSkx
 5nEVXZJ1'F6Cfny
 yzT6Mu6OSJ!QgsMZb.
 I8HUs9fJdqqs"mPiRU2b
 
-534
+356
 00:14:15,200 --> 00:14:15,250
 CAPTAIN KOBY
-
-535
-00:14:15,200 --> 00:14:15,250
 Ny!.OOyUBJxc?3C5?!
 DQKqcvWr!IqpVY4
 "R0cwUeMEl:4p!yHY!
 ;Xly0B8tJ3.6MDV97AQ!
-
-536
-00:14:15,200 --> 00:14:15,250
 NIo48ajKr72pVt4v,t
 c5ytGm??a.s,.AR
 wrJtDhqrgOu2iSps5a
 xGRXduLRrvRMK:VcZcmx
 
-537
+357
 00:14:15,250 --> 00:14:15,290
 CAPTAIN KOBY
-
-538
-00:14:15,250 --> 00:14:15,290
 4vm1!CP?oNEzLNe9M!
 Z;?nScC9'q"dig6
 xKA2S784GH1vem3xP!
 j,n3N7SDKu6kV'LFWEu!
-
-539
-00:14:15,250 --> 00:14:15,290
 tXLSy9UQ7Nu3UNAXvn
 s!RN7"Jp.hG"0O2
 jtbz0:rhTLu!aq548C
 V6J3NE6b20fJkAzRIPlE
 
-540
+358
 00:14:15,290 --> 00:14:15,330
 CAPTAIN KOBY
-
-541
-00:14:15,290 --> 00:14:15,330
 OCJgrOYBiZ!?SF0YY!
 'rlBsSa:V8?JGjX
 CnmAi9PswXm,y:9Eh!
 3pnkFustPAc2q,U1ofV!
-
-542
-00:14:15,290 --> 00:14:15,330
 !gC88W8lchiboXkEkD
 WZk3H'BpuYkNNfL
 X0x7f.1N?3;Y;vDh6H
 b9uWuLEUJYiR7Q2i0BSX
 
-543
+359
 00:14:15,330 --> 00:14:15,370
 CAPTAIN KOBY
-
-544
-00:14:15,330 --> 00:14:15,370
 m6WZqzUUB85hv.deD!
 5'IxY59uZ:JQpc;
 WH.Eczu,IZ5RjSh77!
 .B"P.XnOXGfYCoikwaA!
-
-545
-00:14:15,330 --> 00:14:15,370
 oqgeo.EAUcTHMit,2E
 ,ny9my2LyX?l4L'
 csTG7'7iC,?pIcOB1s
 rmsG?1pWNqaiV'DKI8GD
 
-546
+360
 00:14:15,370 --> 00:14:15,410
 CAPTAIN KOBY
-
-547
-00:14:15,370 --> 00:14:15,410
 R6"auGNDW1lD.Xez?!
 ql9A?3.VjlCZtL5
 gdj,o;HZ:kK8H0pca!
 CcuDmHjwIshC6Ttbfyn!
-
-548
-00:14:15,370 --> 00:14:15,410
 MwTq7vNp7OAncLrqKV
 FDA6FbZy:Y"pJqR
 7U4mG1W:EY,9:pYc7E
 BGBq8ix,kHr3o.U3tFAW
 
-549
+361
 00:14:15,410 --> 00:14:15,450
 CAPTAIN KOBY
-
-550
-00:14:15,410 --> 00:14:15,450
 OHBHKLxTLEgJrflMX!
 2UT6r0H47UVtwvw
 Aa'!7F5J.1BLQok5n!
 xvwP?GcDHXY;rWD"JeA!
-
-551
-00:14:15,410 --> 00:14:15,450
 QRTOSRg0nujP1zJ2yK
 KZWn8Z5iZIovvSr
 3M1IqMHaRFjLBOdOlT
 ",.TNw'RBP1tcyW31yFn
 
-552
+362
 00:14:15,450 --> 00:14:15,540
 CAPTAIN KOBY
 
-553
+363
 00:14:15,450 --> 00:14:15,500
 zG33jOa3M0sgewqc3!
 Vn8vX6b2jK!tDXe
 :z0Nvy3aS6,RXoElu!
 :8,n'5BWYvxCEAmTdyB!
-
-554
-00:14:15,450 --> 00:14:15,500
 uwH0efDh?X3Ozbidhn
 ,vF9LZGshSQqFtY
 0:2Nzeu1hN5'CNrbZ?
 Eo5cFTO.xd!y78gvqCWq
 
-555
+364
 00:14:15,500 --> 00:14:15,540
 bokqn?PS?lUYBZoS.!
 UMl84Hnl6CT:DYE
 kkCvWlz7uRN!zGn,H!
 hrdXmBPP6KByj1R;E'I!
-
-556
-00:14:15,500 --> 00:14:15,540
 RTxhRmBCB,nHlgGDu1
 AeSOCh56;t5PN;T
 OSvxJXQ?TmNKWgEVem
 w5q10FMLH8iyC9izo54E
 
-557
+365
 00:14:15,540 --> 00:14:15,580
 CAPTAIN KOBY
-
-558
-00:14:15,540 --> 00:14:15,580
 CLDn'WDIgp9epm.t;!
 4eu8F,96g7eD9tS
 yl0KD35WHdtAb,pt;!
 nGh0efKdngcZXfZ:Ls0!
-
-559
-00:14:15,540 --> 00:14:15,580
 XUlAyR4EczaVG..m;Y
 IUMddwsHEB?qA2E
 xwpOamJiVDPr!.gQiP
 KTI2?mMUcsz2h21uA2?K
 
-560
+366
 00:14:15,580 --> 00:14:15,620
 CAPTAIN KOBY
-
-561
-00:14:15,580 --> 00:14:15,620
 APp3JIgHQ8XEbm;ve!
 bJINcRIFn4e7Nx3
 "bpukpbUwv;E3S3.Q!
 Oe:dFJuTrcD5q:6H3O:!
-
-562
-00:14:15,580 --> 00:14:15,620
 sLtx.:xgSvfA29WgfW
 TVqNH!NMUjmmNYW
 CY9lKs!'bxtOR7eCOj
 w8dnjYGkV7"pn;L29yMC
 
-563
+367
 00:14:15,620 --> 00:14:15,660
 CAPTAIN KOBY
-
-564
-00:14:15,620 --> 00:14:15,660
 IzD;t8x;lD!KB;1DK!
 fJ1kU82z?L32:64
 k,OJ!hp;?xCvdO:fb!
 bsS8Z4!?5;MVrsmayqo!
-
-565
-00:14:15,620 --> 00:14:15,660
 GgWXyHG6;IWGNfWizf
 O;8cGwnKBU7:X1'
 Gsce9uzV!MwdUN3l1v
 pAfmmrTZF2NN2t!:kvV:
 
-566
+368
 00:14:15,660 --> 00:14:15,700
 CAPTAIN KOBY
-
-567
-00:14:15,660 --> 00:14:15,700
 MQyTdJpQcpcdgvBiT!
 .TKMsTVwqMW84dm
 jrT.7eudkvX,,wY4t!
 9IYxpoQ'.csFequ8?'6!
-
-568
-00:14:15,660 --> 00:14:15,700
 MtrQPin3OoJ:!Fyfi9
 s38?s0489UdqKzZ
 XBz1uxPlog'O8bqBMy
 Cfn1:cy97!ZquXKYiw2k
 
-569
+369
 00:14:15,700 --> 00:14:15,750
 CAPTAIN KOBY
-
-570
-00:14:15,700 --> 00:14:15,750
 ;s03"mlWv7eap9cgo!
 "fzFsgL2h9oZF7H
 hCJ7JJA5R9s'Om1cs!
 wtg3oKcd1rBdc8hwA9y!
-
-571
-00:14:15,700 --> 00:14:15,750
 gMmg;hRNKQQ5.qOnWg
 QghGF?'zEvQ14yA
 Ub5;Ml7PtEaPTY05rx
 vtQkl'O:vjKxiruGPM7;
 
-572
+370
 00:14:15,750 --> 00:14:15,790
 CAPTAIN KOBY
-
-573
-00:14:15,750 --> 00:14:15,790
 gCSD:RVLhf,ahgptO!
 a8P:?7RdTy3bJP'
 rwiheDIH84'b'r8Cr!
 rDPDAh9a9cdCh7l4khe!
-
-574
-00:14:15,750 --> 00:14:15,790
 rajTo2cyl;Nj9LIOgD
 UtOfGC'7".7'z5w
 9oer'jmnB53n'T0HsU
 jncT6l9jyt1QqtpgWB2p
 
-575
+371
 00:14:15,790 --> 00:14:15,830
 CAPTAIN KOBY
-
-576
-00:14:15,790 --> 00:14:15,830
 I,hefgB;9oF?gyxjl!
 lM5Kma!bPomi,Jv
 WH9kZm!jTL8HF7mob!
 ,'FBeHO?:AUWbF4zWby!
-
-577
-00:14:15,790 --> 00:14:15,830
 PS8SBUq5mmbIYsYOpp
 UmcPxoRoLCibSPZ
 ppNT7XMFe7"4YclqU.
 G7Nxrfu9SQ'Vn''N9:Zd
 
-578
+372
 00:14:15,830 --> 00:14:15,870
 CAPTAIN KOBY
-
-579
-00:14:15,830 --> 00:14:15,870
 qY.RTIPl"5viDAY14!
 tdNril:q!1Jfvgq
 B!0WSwD,HVdMww1t1!
 k?1T66Vfg,JQcWx!MsH!
-
-580
-00:14:15,830 --> 00:14:15,870
 pd894!'gyKeBwH7i'l
 qaNET;8nZdM:LC.
 mDzYgKZgmdxafD:MNU
 uECiu0qFkw,uAePqwgDE
 
-581
+373
 00:14:15,870 --> 00:14:15,910
 CAPTAIN KOBY
-
-582
-00:14:15,870 --> 00:14:15,910
 wP7.DtIvkLaA7RTJP!
 g"5'KT;R73Kn32z
 Qieb?88TT!5LTbmBv!
 Lg8:OxjIuX?dtQxwsEN!
-
-583
-00:14:15,870 --> 00:14:15,910
 RqFW1P0i72h;qfAGh,
 EuoPKvhUV7wu1WW
 'QzaZtL,PoNawip!HP
 GglS5y3'MjWcYL1fssNw
 
-584
+374
 00:14:15,910 --> 00:14:15,950
 CAPTAIN KOBY
-
-585
-00:14:15,910 --> 00:14:15,950
 nQjL2aNzC0dcvt:Z2!
 1eyaGf9R9co,AMd
 FIBbTkcU3oX2A01?7!
 L0nGtOL7:txkzsH1Q0"!
-
-586
-00:14:15,910 --> 00:14:15,950
 rox.AaNsheu7zwOFOz
 GNtIlcY6Ka1xTl.
 CgzwvsXM8G8dL!uh?X
 EXJF2I,yZsGGqDtBczwb
 
-587
+375
 00:14:15,950 --> 00:14:16,000
 CAPTAIN KOBY
-
-588
-00:14:15,950 --> 00:14:16,000
 hkpZ.Teth1RzM4IP!!
 daUo4fmcs4iwepx
 rD2.CxJGXA3P6GObl!
 VQBQR?yeRv:hpcmb7I1!
-
-589
-00:14:15,950 --> 00:14:16,000
 kWN.jXiMzzrlCcnsGc
 o1pF2xVue.6,4"R
 FtjXCpihNmoGx?7Qc:
 EdR!Y!tVj83Tj:S0o'."
 
-590
+376
 00:14:16,000 --> 00:14:16,040
 CAPTAIN KOBY
-
-591
-00:14:16,000 --> 00:14:16,040
 grKS8v8TX?F,26PO9!
 MIYgVKnMpYAFPlF
 h96MYEEgF,DjZ:b1B!
 kB'Ftstc?2JuWROLD01!
-
-592
-00:14:16,000 --> 00:14:16,040
 JunP,:,JGJKpviwrbL
 ycMWCXbfDh!ov9"
 oQHFArk0;uOCNQc9Sa
 kFWu"Fbw;NwsQbslDB"A
 
-593
+377
 00:14:16,040 --> 00:14:16,080
 CAPTAIN KOBY
-
-594
-00:14:16,040 --> 00:14:16,080
 Fv!zQUfyO5H:XJFn6!
 KXfA:orxLRMwMp.
 g3'v1Zmnyqbe'OqDG!
 7h6fNO7D0SjrpKb1xES!
-
-595
-00:14:16,040 --> 00:14:16,080
 .'32zUuaLxNWAwFmdb
 j8?3Gz;aY2O1qC"
 N8Pu!RN1BvoeHbQOam
 jN.aNJ57!Y!r!XDO4"US
 
-596
+378
 00:14:16,080 --> 00:14:16,160
 CAPTAIN KOBY
 
-597
+379
 00:14:16,080 --> 00:14:16,120
 nR2ioQBHONa9;pHLx!
 5XMTOoofxOGc0ME
 sOTcHiEzWrnMjTJG0!
 w62DIQ1zpF6qRGuHXa'!
-
-598
-00:14:16,080 --> 00:14:16,120
 vGX:OfKioN5c949qje
 Td:T4mUi4wcUTuk
 wTjeeIuGujeB,YAvTT
 HoqOZymOZ'fEJeoaKmx0
 
-599
+380
 00:14:16,120 --> 00:14:16,160
 vK2u05BOOiy.8TEn4!
 !2QswzacsKT!Pfv
 QcbgQFeFE7b3yCCST!
 oJJsxS3"kizgiQwN,r;!
-
-600
-00:14:16,120 --> 00:14:16,160
 'w8.5Q!u?;uyw:"s2z
 0kvhlVqsbTN3p"s
 NS8DVfHraWaHAaruy"
 7VUo7AifVpPxmT!N.fY4
 
-601
+381
 00:14:16,160 --> 00:14:16,210
 CAPTAIN KOBY
-
-602
-00:14:16,160 --> 00:14:16,210
 wVT.49:T45yUItuDU!
 x!NJMthTlkPutdY
 aMTU7CS3wx'GWKr5:!
 lR7CzeP8Krwpf7!KRp'!
-
-603
-00:14:16,160 --> 00:14:16,210
 !'zUWa6cptl9yNpJ'9
 IxNMZ0rQL2mD30T
 c914YBKo6c1:yruLUv
 7O6sqKgxfx"7RL:SekWt
 
-604
+382
 00:14:16,210 --> 00:14:16,250
 CAPTAIN KOBY
-
-605
-00:14:16,210 --> 00:14:16,250
 k21IGN6TGFwJJWUy1!
 exrdanaDS5Av1t,
 cj2V;xIcqR:8;0lcb!
 0RjI6KqbixcrbNx:Wgq!
-
-606
-00:14:16,210 --> 00:14:16,250
 vE69cNIAOXNr2L1mx9
 hSx04,4ZmYS6.6:
 70E0ExRXv1l5r!c02p
 HO:nopA4P?zU,NslVzvd
 
-607
+383
 00:14:16,250 --> 00:14:16,290
 CAPTAIN KOBY
-
-608
-00:14:16,250 --> 00:14:16,290
 Q9VhqNz3q!"g862fL!
 N!eQqoNex0hMWMM
 Er7TQ3uR2jVP:e0EL!
 vx3!Wks8W4z:ZNWz?1F!
-
-609
-00:14:16,250 --> 00:14:16,290
 fTpzONEza.aFcmer,z
 NZzqvQNG2z.9kLf
 JPf;M7ccJZpHBzPTMB
 !.ZIB:R?n1D3ZNseBfIh
 
-610
+384
 00:14:16,290 --> 00:14:16,330
 CAPTAIN KOBY
-
-611
-00:14:16,290 --> 00:14:16,330
 SsKkZXSJ54O"QUCD7!
 gqY:5cL"M4jdT::
 QY6,eRD?JxptqVvdE!
 !Sr20dKGRG,OcEaWJvh!
-
-612
-00:14:16,290 --> 00:14:16,330
 bYgrhQaQFop"S8u,GN
 vyiGq"D9rGMHO3K
 eDsDsH0dVluO..PYaz
 sUHXK0mO5pFzggC;"Ki7
 
-613
+385
 00:14:16,330 --> 00:14:16,370
 CAPTAIN KOBY
-
-614
-00:14:16,330 --> 00:14:16,370
 L83lT?76?AyS7ZImD!
 uumX"G5IN.F2yJ!
 Xc.Q;54yTT2gC!9PP!
 2xyhjUqT0LH7jY?Fx4"!
-
-615
-00:14:16,330 --> 00:14:16,370
 Aro6R?UPMh67rKkRqY
 1xEN828uNFEenuy
 v,qjCpPJCWzALKAyPx
 Zy0Zl?jNF1b31cG:vPt8
 
-616
+386
 00:14:16,370 --> 00:14:16,410
 CAPTAIN KOBY
-
-617
-00:14:16,370 --> 00:14:16,410
 mLEdFU"MBaUYj4bGy!
 9yTnuZI.JD6IKC?
 Y25fBms?VIPAT40z9!
 KL2"SB;gsdpF,Ze0lWW!
-
-618
-00:14:16,370 --> 00:14:16,410
 inYY,"!n:3W96YkT1W
 JKb".Cw'THMLpZX
 !VS!j27IZKsq82RYoD
 lwIYBBH8.Q!p8cUl3Yx3
 
-619
+387
 00:14:16,410 --> 00:14:16,460
 CAPTAIN KOBY
-
-620
-00:14:16,410 --> 00:14:16,460
 GQ,YaaxqomN2bIwID!
 '9gCgM;eUBCwyz2
 gZ,ap8fjwTJokPLd!!
 TiDpOuBaV69KIGfpcto!
-
-621
-00:14:16,410 --> 00:14:16,460
 4f5j'mDe7rN6LUhYcX
 MnZbCKm;AA"Aw'h
 KtQl3I258g1qVE9poR
 6nawth4N2AeQVYZjMUil
 
-622
+388
 00:14:16,460 --> 00:14:16,500
 CAPTAIN KOBY
-
-623
-00:14:16,460 --> 00:14:16,500
 ra8P.hG6kHJ"lSuQA!
 5V"72?L!r"F8MeI
 eS.e0T0!q,7!uoTP5!
 yHTMsQ8B6VW5n0.iRIo!
-
-624
-00:14:16,460 --> 00:14:16,500
 tUx3;.CT?Oo27LwXkm
 r!2.YjKc9hpHizj
 ogx4Vf1gpDvN;P9YK'
 ?BXgOhm7XRDnjCCXr!fs
 
-625
+389
 00:14:16,500 --> 00:14:16,540
 CAPTAIN KOBY
-
-626
-00:14:16,500 --> 00:14:16,540
 c?"x'cEDJ,Kf3A4.:!
 uUDuDArdrN3v;.U
 fDQ8Zbhec:Fp.Fb!m!
 ZLXT16pfceVflm1qp.A!
-
-627
-00:14:16,500 --> 00:14:16,540
 slj:edJz?kfgdS7eHK
 GDlvSI;TMNrotRo
 P7WPEZFdBcou7wdPqX
 xlGOB;R!Pw4GNpa48j3r
 
-628
+390
 00:14:16,540 --> 00:14:16,580
 CAPTAIN KOBY
-
-629
-00:14:16,540 --> 00:14:16,580
 DC7;nwR;ROiHDuG96!
 gUUE1LnM8Jz4H8E
 6Q6hsNCi;8oS.nmPw!
 Hr3U1!pv8,dRS.gK53D!
-
-630
-00:14:16,540 --> 00:14:16,580
 e:hd;PIg:HQXozO,9P
 f9WctExl8sEA'r;
 ,eYY2N;rUe':lJiIGq
 q,sx3d.gYh7Ub9h5LCb;
 
-631
+391
 00:14:16,580 --> 00:14:16,620
 CAPTAIN KOBY
-
-632
-00:14:16,580 --> 00:14:16,620
 xKopE46kbiPiLa8A;!
 ?'y592'1JAxhBQM
 eveSbzJpOzpTkhSvO!
 qaEdg:18XOflh4ew2SP!
-
-633
-00:14:16,580 --> 00:14:16,620
 NdHNJZJU:'e,e2u;ho
 'u8JPi21mclTQmU
 yfOAfSHOZtAbecqXTT
 6,:gvqT,X8X.:5sK,5'M
 
-634
+392
 00:14:16,620 --> 00:14:16,660
 CAPTAIN KOBY
-
-635
-00:14:16,620 --> 00:14:16,660
 SL,b;Q'8JVX'arXv!!
 t9btOg27deqOeut
 9Mn!f7hi;iwZYAl2Z!
 iXgkATQdhYt4x'XeL6S!
-
-636
-00:14:16,620 --> 00:14:16,660
 tWxIeg!LO:8NQlklZ0
 L'5zoAN9HOcUDco
 TGx7OclDRUnb3drX75
 4SqBrFuYH'kxV'Xzezn1
 
-637
+393
 00:14:16,660 --> 00:14:16,710
 CAPTAIN KOBY
-
-638
-00:14:16,660 --> 00:14:16,710
 hmH4v4;?wbiku9Tdc!
 0DgoMhme0or"0Yb
 zfXSO6vX2q9Lws7Mv!
 !'u3l'F9rZlPTw?izeW!
-
-639
-00:14:16,660 --> 00:14:16,710
 hnMU6Xc,:cN"aX8DEO
 !6AxEoH'6H8tAHx
 ,1j2VGnu?7ELQ1Bode
 NddXAmfS:5J,7eVc9.Jq
 
-640
+394
 00:14:16,710 --> 00:14:16,750
 CAPTAIN KOBY
-
-641
-00:14:16,710 --> 00:14:16,750
 u"ZGq!E5e0FvT!Zc6!
 q4klke2Z74DTK:!
 oBrBNR1dlarN6whaD!
 ft1DTgV7Hkd1M,FovXM!
-
-642
-00:14:16,710 --> 00:14:16,750
 mR6ry.BJR1:NF70DND
 7ax9.Sb;WEY?x4X
 :n1vNI;heXiN6N:iUJ
 :zTV'B6DE!g'Ge?.kQXW
 
-643
+395
 00:14:16,750 --> 00:14:16,790
 CAPTAIN KOBY
-
-644
-00:14:16,750 --> 00:14:16,790
 xXXbH5xSiEL;WYY'w!
 EMRMz4y2i2o""bv
 vued;aCvNk0rVc:7T!
 cdJ4lwbGoXC6qXnMy.S!
-
-645
-00:14:16,750 --> 00:14:16,790
 FM!YYywCFoq9T4Qqpb
 HN6yInlf,ibXPC?
 S,lgrNTRNABp5FL:D3
 zll5dd3VoKqstrsCQGrM
 
-646
+396
 00:14:16,790 --> 00:14:16,830
 CAPTAIN KOBY
-
-647
-00:14:16,790 --> 00:14:16,830
 W7K:,im"STKXhm!GZ!
 e6HTHeFaFV60sqX
 b!wD42hX'0c;!GMfB!
 19nG8:!VfPP.ZXV'"k"!
-
-648
-00:14:16,790 --> 00:14:16,830
 m8K8k9ILDs8G;vCWcu
 CAyyJVpH2UKYc26
 Z02mb1j"kcLWr6izXy
 .ejN5;nzI;F41ks!MoW5
 
-649
+397
 00:14:16,830 --> 00:14:16,870
 CAPTAIN KOBY
-
-650
-00:14:16,830 --> 00:14:16,870
 31XEt9er.2M9S6YId!
 3eOV,A8LbZO7zTy
 MGL??4dy5wPq3Ce,j!
 ?SBFgBwz7,mfIXA"XG2!
-
-651
-00:14:16,830 --> 00:14:16,870
 QhQV"f8nJ6hlVt;hAn
 5UVBtqRtXVrW7fe
 a79xrI!jeQ"6SFGhy!
 '5MXTNnUfkpbC;0Y;qhC
 
-652
+398
 00:14:16,870 --> 00:14:16,960
 CAPTAIN KOBY
 
-653
+399
 00:14:16,870 --> 00:14:16,910
 LDiWMPnSd3BsbqmJ8!
 tzsjc,1Ch'Q'VmQ
 scjVkOLarFAL7GKcw!
 7!,06"Elg'VVR;fMf8D!
-
-654
-00:14:16,870 --> 00:14:16,910
 DGxiDp"ebn9v1?Zhrj
 :kOPE9JVILA"J7d
 a5B7BPh:VmP.fM4gWo
 g;JI:hO"r8cgdOU:CrQv
 
-655
+400
 00:14:16,910 --> 00:14:16,960
 d0HzRhGCk8sin65r"!
 la'KPDpo1nRtVlY
 8,ZdIXs2wlSU1S.IL!
 5RxpenfeQwssaCc6LDs!
-
-656
-00:14:16,910 --> 00:14:16,960
 GCcb2Rk8mjZ,mYnY3N
 Ux1r1yxSGNd2xfn
 sRhWgIF62fwn,k72Km
 JCh,SzKewCnk8hm7Pbwt
 
-657
+401
 00:14:16,960 --> 00:14:17,000
 CAPTAIN KOBY
-
-658
-00:14:16,960 --> 00:14:17,000
 ?"64PziYk0'VD;e0'!
 ylfH:tWJ.:z2?tk
 ,fx.lnh,IYQ.LGQ6g!
 TIxdxQ3cmWc82q6g00C!
-
-659
-00:14:16,960 --> 00:14:17,000
 jhh2,qBbYbDcI9,Eio
 ppm4Qw"?'fMGSL1
 .8OArsO3bI37nG"gq8
 bl1?.MWJipZyVlYgYf:s
 
-660
+402
 00:14:17,000 --> 00:14:17,040
 CAPTAIN KOBY
-
-661
-00:14:17,000 --> 00:14:17,040
 kuh'k'eElhHx2E4XH!
 kEDpiAvw4o6hduh
 ZRn;:wxwgmmsy!3NT!
 bYwU7UrqrPLmjwt?nrh!
-
-662
-00:14:17,000 --> 00:14:17,040
 .MEvMB'"jbWeXbx8Gl
 aIygl"573wyHGXb
 !FsnEvz:o6V3skiNm!
 W.n7OCNZlga'N!?GwLnQ
 
-663
+403
 00:14:17,040 --> 00:14:17,080
 CAPTAIN KOBY
-
-664
-00:14:17,040 --> 00:14:17,080
 5?T,EGbQ:gM"?,1PJ!
 6!4GI;EtVs8RGgo
 lJYi2ugpcFD.ywjXp!
 uBBrpuvsA.,3Mj9xh.6!
-
-665
-00:14:17,040 --> 00:14:17,080
 wLSBe:azJkXF1lDFWx
 gU7l8GfRX;SZImR
 Oo,xc22iMV6So"WAbS
 6.GYEwV,KZm;G'xTO8U,
 
-666
+404
 00:14:17,080 --> 00:14:17,160
 CAPTAIN KOBY
 
-667
+405
 00:14:17,080 --> 00:14:17,120
 bwAB:3,J"GtFbRrIb!
 ONje:IOO'!:dK"P
 Jv'ItLc!hSQtdgzp5!
 s2!wo7tFA"V2QcN0AuC!
-
-668
-00:14:17,080 --> 00:14:17,120
 f?k9N4spnT!'XfGh.'
 cN1D?Z',paWrf;g
 rzJVy9W4'a3y0ZGrLr
 04'Fgq5xMmOb,4NlYGJ1
 
-669
+406
 00:14:17,120 --> 00:14:17,160
 A5mQpkpLap'"KKvv:!
 2UtgP!WLZnaaiFB
 hdkSGXa807.5dWJKh!
 ivNQISjBX?0iJs:QWmO!
-
-670
-00:14:17,120 --> 00:14:17,160
 dRLU1EjLzgxyo.KhTv
 Gg3vu!aJfmJ'Owu
 UzNBFVHs7ThpIsagNk
 AFN,YnoYudgje1cA8Gv!
 
-671
+407
 00:14:17,160 --> 00:14:17,210
 CAPTAIN KOBY
-
-672
-00:14:17,160 --> 00:14:17,210
 UsBtR?leWj?x4XShL!
 mVGN66,B,LKg'1'
 VKjv!4M,vTDJIILSv!
 eyMG4r'rWc!8qy'MUXR!
-
-673
-00:14:17,160 --> 00:14:17,210
 W.VAc6WfauOPeBvPf4
 cHpNM'XG6MaU2a"
 954?Z6DajLyyLc?,S0
 oLL7i6fNqYj4bc7.U2pn
 
-674
+408
 00:14:17,210 --> 00:14:17,250
 CAPTAIN KOBY
-
-675
-00:14:17,210 --> 00:14:17,250
 oSzn0yWQJEn"9tspc!
 h2B'"mTi95Qd5oQ
 ,pyBp89EuIWvgyeyf!
 ;zJW8UJnBwE?4'2Ef7N!
-
-676
-00:14:17,210 --> 00:14:17,250
 6bGDk4qY1EjwPVL:sU
 x6NI"?x2!8meFXz
 JBCW:t46"vUeinTJuk
 ZVqlm,CgG54!1x'worN2
 
-677
+409
 00:14:17,250 --> 00:14:17,290
 CAPTAIN KOBY
-
-678
-00:14:17,250 --> 00:14:17,290
 FpriExlOkduK8z'G0!
 jkC;W"Iy'QSibU7
 PxiN:MROwvevHmBhX!
 b5:Y5mCTZnsjWnHgZEL!
-
-679
-00:14:17,250 --> 00:14:17,290
 YVqpecK.rS8lrrijd:
 va,m!4zYaBqk'My
 n0UNGOYyb5x;B9W.0Z
 jhWmZEJPj1wyTb:tQUjD
 
-680
+410
 00:14:17,290 --> 00:14:17,330
 CAPTAIN KOBY
-
-681
-00:14:17,290 --> 00:14:17,330
 ..O1F;,'nqIFALBZy!
 2;Oa1r3NfWMo6H'
 6MixKiQTt8c,qvq1R!
 tsO'W'EJihoxekY,N9E!
-
-682
-00:14:17,290 --> 00:14:17,330
 e0DUcRuaD,tdnM:nIA
 oKUQq2gNJp40fQ3
 PZUD4ij8R!KW;bowFL
 JFu'r,MXWZvnX6C?N1'A
 
-683
+411
 00:14:17,330 --> 00:14:17,370
 CAPTAIN KOBY
-
-684
-00:14:17,330 --> 00:14:17,370
 72.SI9DKi?.ytnx74!
 ;yCvcP"PmBY4noz
 jYYGMn59aNCpmN6,9!
 ,krg0kswwmIEtmsjI2a!
-
-685
-00:14:17,330 --> 00:14:17,370
 2;R99fsZF"2EroVdrj
 sSswf67DUVBMv25
 .Aa0,lB:dNRlVNJxNZ
 u25:2ebK9?HiChMZXg":
 
-686
+412
 00:14:17,370 --> 00:14:17,410
 CAPTAIN KOBY
-
-687
-00:14:17,370 --> 00:14:17,410
 5ump9TSXfyFrDZScN!
 gM31SK?5J1T23YN
 17Z?m5bJx!u"tr:iV!
 iewjJgl3Kt0vf3PJS6j!
-
-688
-00:14:17,370 --> 00:14:17,410
 .kYrHUkXqm6E8HCuNs
 PSX1c6LWRCDi4AN
 wDegW6rO3QYWsZ8qzE
 Ui1FHMg'YYXG5fqDchAO
 
-689
+413
 00:14:17,410 --> 00:14:17,500
 CAPTAIN KOBY
 
-690
+414
 00:14:17,410 --> 00:14:17,460
 zO.BczFBFx7CT7d'b!
 RKeH7dF?5!osvEO
 D:MkdF?U58''c9JnZ!
 ?FiMKIHCfeIQxUKa7Gn!
-
-691
-00:14:17,410 --> 00:14:17,460
 T"yCr6cqKc!piHMiCQ
 otPF.gC4Eg9Z?v6
 Dteg61yl7ga:bUTe5E
 dV7NAbLwi9qf2,O:i,gQ
 
-692
+415
 00:14:17,460 --> 00:14:17,500
 2Mvyo8WG?EJ"OWca:!
 HRCiiATSlddpkd,
 7Vb7FFTEZgE!MLvYZ!
 8ZV78mtx4Rnq?lDgk1Y!
-
-693
-00:14:17,460 --> 00:14:17,500
 Y.5Gh6QFC4Dx";53PG
 "BNS..!e1BwVzS3
 v.aH;"Lj:CQZSNkqQh
 xqJiME8"l:YfkjMUdayP
 
-694
+416
 00:14:17,500 --> 00:14:17,540
 CAPTAIN KOBY
-
-695
-00:14:17,500 --> 00:14:17,540
 !nSKL!;7t3u6StyzR!
 2PUqgPn5?f!wSHU
 nEnzNaDo4BzQaCG;R!
 xTi?q5ecaOWbxHstQGg!
-
-696
-00:14:17,500 --> 00:14:17,540
 VWGOUCzEe9LbfykrnO
 7?RJTY7j:KfoOrH
 Z8ZmNWCYL7SZe4zN4V
 l.RJNa:,gbxL5..Vucht
 
-697
+417
 00:14:17,540 --> 00:14:17,580
 CAPTAIN KOBY
-
-698
-00:14:17,540 --> 00:14:17,580
 !DBFzTHHm,LEFtjOw!
 Lm,TUuRsZh".!Vs
 AOVsI939izMT9WkTU!
 'rB"oF89Jl56Xdw?T:g!
-
-699
-00:14:17,540 --> 00:14:17,580
 OrtZVvytJNWVBcaAl1
 EwXA'JybGx5tV?s
 ub3eenOg;tYar!PQpL
 pvrcTMwtfJb;bMdF;R4q
 
-700
+418
 00:14:17,580 --> 00:14:17,620
 CAPTAIN KOBY
-
-701
-00:14:17,580 --> 00:14:17,620
 xyJd,TcH26'wMqFyI!
 WI"fikj'7q"xgsx
 Z3phvajAyxkpbX,oU!
 P,fpFICQz0RyNo9Caoy!
-
-702
-00:14:17,580 --> 00:14:17,620
 9.N5hS:oQUhp;0aR"!
 cq"kZ2SQZ.fqSR0
 vyuEXpQO.FXVoECKhJ
 Ys".huwDj90VN09cN;:M
 
-703
+419
 00:14:17,620 --> 00:14:17,660
 CAPTAIN KOBY
-
-704
-00:14:17,620 --> 00:14:17,660
 Zu6kVS10et,KB?'vK!
 ?veV;!e9hlNCb68
 TEUxaOwo2doJQRM6k!
 B3J:GL4322fL"TuD7i4!
-
-705
-00:14:17,620 --> 00:14:17,660
 eewKB"DWIK5Tm9cA;l
 B3WJeNrmfQNHPTe
 zarm,Wl0,:O?.bhYAh
 qJ7x7ZmMR4tLfJyuMb42
 
-706
+420
 00:14:17,660 --> 00:14:17,710
 CAPTAIN KOBY
-
-707
-00:14:17,660 --> 00:14:17,710
 ZN6x7nVB;idfXR;;J!
 q6JzUx59M42dZaH
 2ILP4;?ETypz"OqMx!
 3YV477,YzitS2M3pUWK!
-
-708
-00:14:17,660 --> 00:14:17,710
 ZNgatHiIEX5F8V"MEy
 JiJpEZ:ApfEHq'i
 EJQaw7rdmUl.t2UI5v
 1vU,2U7lfsRKBzSMf9IR
 
-709
+421
 00:14:17,710 --> 00:14:17,750
 CAPTAIN KOBY
-
-710
-00:14:17,710 --> 00:14:17,750
 :b1gEY2HPberK?x:4!
 hQAEEr?1lclefri
 "7DvsIeMjQ1mNNuxE!
 eaq2w8ZWbmLXR51Ny;R!
-
-711
-00:14:17,710 --> 00:14:17,750
 GSCIhycbKfCwtww8ws
 MU0E0Y"kQR,7iU?
 GtMQN6MZpoYRNN0OnF
 yC.mYf9fiVs:9QyNb:Qe
 
-712
+422
 00:14:17,750 --> 00:14:17,790
 CAPTAIN KOBY
-
-713
-00:14:17,750 --> 00:14:17,790
 VPTAh,ayu9imSQIG'!
 RW.A.AF"OAt683s
 yfu6Q7ty7"Doc7Coi!
 ,f0M5K5M3rgEAH4xIS9!
-
-714
-00:14:17,750 --> 00:14:17,790
 666hHSp;fppOIdA1'B
 Z7t,KKu,AzzJQc.
 11ru0R0vd7SfQcE2rY
 U"La?hxIlqdgoJ,IO'CE
 
-715
+423
 00:14:17,790 --> 00:14:17,830
 CAPTAIN KOBY
-
-716
-00:14:17,790 --> 00:14:17,830
 h?qgCtFBM"OG5kM!g!
 c6jAP.LQ7X22oO;
 Br,e7kJRkbTis'i9b!
 z.GK5NeiJZ!EQam25zK!
-
-717
-00:14:17,790 --> 00:14:17,830
 T3XMQfkJ.8;u7'CKf:
 sp9,uK7FxCmjBa1
 UcsaxBusIJ9.SMR:H!
 Ip0g0Nuzmtz40x:'p6F.
 
-718
+424
 00:14:17,830 --> 00:14:17,870
 CAPTAIN KOBY
-
-719
-00:14:17,830 --> 00:14:17,870
 2Z8D?zgt:NPCrwOvK!
 wDpeD5RPHv?xh;K
 71VYz0VL7TwYMYb!C!
 zOjC8jvJIL6MMpg!hsG!
-
-720
-00:14:17,830 --> 00:14:17,870
 aRxjdmtP0NfC'd3.S?
 qdysWxUgW!8.HDR
 qbP0UVz''dblNu3u!y
 AfcwYgKWm9L?veo,6eGr
 
-721
+425
 00:14:17,870 --> 00:14:17,920
 CAPTAIN KOBY
-
-722
-00:14:17,870 --> 00:14:17,920
 LTkiEy4jFs.hDKZxR!
 lh1b3F8a1bARtZB
 DVj3g6grwgu7:ecvS!
 LsV'7E,XOPjPGe:tgyg!
-
-723
-00:14:17,870 --> 00:14:17,920
 njr8mUJAY3j8"93uSy
 NOS.P9Vcz:u3KLE
 snZAMduP5c.W!m2RoE
 X,TJ,Z.v2'BP9AwItjTS
 
-724
+426
 00:14:17,920 --> 00:14:17,960
 CAPTAIN KOBY
-
-725
-00:14:17,920 --> 00:14:17,960
 OD.XL6vYgBNrYO2MH!
 0cdVq30;ixqpIp'
 R5'5K;bPhq"DStg;y!
 qbxIUnK1kxF;sZ7f6E8!
-
-726
-00:14:17,920 --> 00:14:17,960
 R2o5ClgwVtNoWRMhrE
 gj.t6kMO6uKP8CE
 i;F9'uv'PnczwS38Bz
 49yP2'zbBq;xG,QxxN53
 
-727
+427
 00:14:17,960 --> 00:14:18,000
 CAPTAIN KOBY
-
-728
-00:14:17,960 --> 00:14:18,000
 9kGV?p81uzMMgHX;1!
 22Cp5eVGo6:e5,c
 M8.Ck;V,Z'8PYhs:t!
 DXI!39Pq3KJ2FRmU;4w!
-
-729
-00:14:17,960 --> 00:14:18,000
 IK6O13!ljXYz.0,wIY
 4gh6yji4Yu31A!8
 8.dHjuwNdVI45dFwbs
 7G6UQ8lSS.l!!Yfbuar3
 
-730
+428
 00:14:18,000 --> 00:14:18,040
 CAPTAIN KOBY
-
-731
-00:14:18,000 --> 00:14:18,040
 z:j,o7npGLajLWOV0!
 nQz6anCCZo1wk!r
 qO5vNgTD2cKm,EeaV!
 CT!FeDZJNHKbOI4xyAq!
-
-732
-00:14:18,000 --> 00:14:18,040
 9b"uNtrPMdmW'5w.7h
 bY5vzlvdz0KEwqL
 PeiONKMNi;OoABBgHO
 7SKXCQblNr0EmC5Zk5oH
 
-733
+429
 00:14:18,040 --> 00:14:18,080
 CAPTAIN KOBY
-
-734
-00:14:18,040 --> 00:14:18,080
 !!tYWAqgGzPZenDVd!
 k36rjj7LtNvTD,2
 iDeBfYcbziBA46gxK!
 sbN7x0LV.v8o4Z5zwoi!
-
-735
-00:14:18,040 --> 00:14:18,080
 h2,qs6s'!fOCqd,F.U
 o6t"?WiHMNO9Yyo
 EW5I4uE3GFbTG9?Nhk
 RwN8oeA"h;ERV.!:93;v
 
-736
+430
 00:14:18,080 --> 00:14:18,120
 CAPTAIN KOBY
-
-737
-00:14:18,080 --> 00:14:18,120
 4ClGLjgw8qA6ZdfCN!
 NB?0EndiJjCKTY8
 D8vT0J,54"hjf8'?3!
 jGTOI'?s.ETay033Hhq!
-
-738
-00:14:18,080 --> 00:14:18,120
 :xhl6AJj";MQ;jjdNx
 Nb31o:OFqaX51dQ
 sVb!IBIBFIu4hwXg8'
 GKIbtQKs2'?xH".N;dcT
 
-739
+431
 00:14:18,120 --> 00:14:18,170
 CAPTAIN KOBY
-
-740
-00:14:18,120 --> 00:14:18,170
 QT;u6;OWKuH34i!Vj!
 NHnEdTjIXH!4EcE
 SoW1V,DcpagE.TQl.!
 4p!?za1jZOQBS:9Tw7j!
-
-741
-00:14:18,120 --> 00:14:18,170
 HPuPA:nmtPmNCW48Ou
 Nod:nZOFaxsqS8T
 sFAtEWw3;FkZvYVq3A
 ,x:WOdIv8M14tsx0eQzX
 
-742
+432
 00:14:18,170 --> 00:14:18,210
 CAPTAIN KOBY
-
-743
-00:14:18,170 --> 00:14:18,210
 ;XMSbzfiSsWzSTEgM!
 13.1FDR;g5dL7aK
 "E0pyN1Ul7rA1ILr8!
 9!2IajDheQZ?bb2'gZi!
-
-744
-00:14:18,170 --> 00:14:18,210
 Q!s1fPS1??ZoP'S96R
 K'rSB?1h55RGLtH
 rNpthN1dW?Oe;CX0hp
 !w8dNAzEVsJRo2ctqpoC
 
-745
+433
 00:14:18,210 --> 00:14:18,250
 CAPTAIN KOBY
-
-746
-00:14:18,210 --> 00:14:18,250
 j6dhhYD9b2Uv'lSKn!
 G22jBp:M9pereiW
 1.Bh4:V'";xWgG'pp!
 lAKgj4RtRGSVE9WrKh4!
-
-747
-00:14:18,210 --> 00:14:18,250
 .ZTVo43L"s?5dubM"5
 h9nll"ioj'T3orX
 NF.I;kfnowOYGxC'1s
 smny;jSY3E9pt;l7"pd7
 
-748
+434
 00:14:18,250 --> 00:14:18,290
 CAPTAIN KOBY
-
-749
-00:14:18,250 --> 00:14:18,290
 O7cBhnw3g,SZ7p.xi!
 Wu!"ZsR"2hBK5h?
 bcwrsi2":9GqTbfXC!
 N,'7pq0b5arb9SUjRH2!
-
-750
-00:14:18,250 --> 00:14:18,290
 VeR,R5C1L,TN2Y"xP0
 ?yw5VKxSDI3xPDj
 kEx!98'Z9e3TCVJ3zw
 N65FoTsDVpaJX4T7fuOe
 
-751
+435
 00:14:18,290 --> 00:14:18,330
 CAPTAIN KOBY
-
-752
-00:14:18,290 --> 00:14:18,330
 IOiK':U9MP8HP1nk,!
 L,tjzgvGKvUBTRD
 'pCwuAFmzaIPq4eFQ!
 hxx'h!..gM6.oGPeN5c!
-
-753
-00:14:18,290 --> 00:14:18,330
 BV4A?n'0GOLRV8Nbmn
 b.wT3uosB?l3E5o
 bIquVBB0cdS,V"rbyI
 mBhdD6LMDinMks9ENS3S
 
-754
+436
 00:14:18,330 --> 00:14:18,370
 CAPTAIN KOBY
-
-755
-00:14:18,330 --> 00:14:18,370
 U361CN1JGtBGcbiXB!
 34k!K?ZynvXh::S
 j5BB87huJFg;NTcGM!
 7g.tIwUx,14S3DhZs3s!
-
-756
-00:14:18,330 --> 00:14:18,370
 gkl"IN2KW6z8QKwiAG
 t3hOVqKnYr.0VR6
 16BL3mTVuhq4NInwxL
 QvQmu5R7WTA.Pq,WMIwS
 
-757
+437
 00:14:18,370 --> 00:14:18,420
 CAPTAIN KOBY
-
-758
-00:14:18,370 --> 00:14:18,420
 LDHLj'mXH3hW0w2a4!
 Jd51x?Iemxed5QJ
 udrap;GTnl10aLy7P!
 WJkYbroM9zJ2HSzXC0s!
-
-759
-00:14:18,370 --> 00:14:18,420
 !mNVimP'a'Kb8kzVlU
 Uz5K6ZXXnmyIE6V
 ABsI14jttyzJF5Qdr9
 q8sOUjcZmMTkPFM1TeM4
 
-760
+438
 00:14:18,420 --> 00:14:18,500
 CAPTAIN KOBY
 
-761
+439
 00:14:18,420 --> 00:14:18,460
 LmdCjSUhwkE56"cl7!
 cygIXwiuFq9hGE6
 i72nWvD1qWv.aw.pY!
 Hh."sBp?rWe:vs5buN6!
-
-762
-00:14:18,420 --> 00:14:18,460
 ogyH9KxsU?6djXU4N"
 ?!.2gXAfSz1wBl1
 7FFzZK9fa?8pKFV4Uv
 1vph:e5ZsCzQaf9Y1NK2
 
-763
+440
 00:14:18,460 --> 00:14:21,970
 was taken captive by
 Emperor Blackbeard's group.
 
-764
+441
 00:14:18,460 --> 00:14:18,500
 MYJO'kRlRVCatKTbR!
 WKj8vGu2cugawPg
 3H2oXo4C.H2PxYRCX!
 Nn!B'OepRLiYce.Okes!
-
-765
-00:14:18,460 --> 00:14:18,500
 OzBsoPJhmJJmx1GQ;B
 YIy1tXg3EJOcaLg
 fCtQH!9XzjmRrAYtq4
 NZvJ'9"Z47H100V.lMaV
 
-766
+442
 00:14:18,500 --> 00:14:18,540
 CAPTAIN KOBY
-
-767
-00:14:18,500 --> 00:14:18,540
 x?0JG8TO5pomt.jfQ!
 B3tnCGHM?iih0'f
 L.37GzK5VHEmb,SPF!
 lF8imb8OB5ZBQpciHaa!
-
-768
-00:14:18,500 --> 00:14:18,540
 X9JErPO2;ItA"sKmcU
 l5Yp0sBifdOfo99
 mrdL:y0Gqavfpa04,i
 fal!Fnu"xgkLjMOR3ADE
 
-769
+443
 00:14:18,540 --> 00:14:18,580
 CAPTAIN KOBY
-
-770
-00:14:18,540 --> 00:14:18,580
 wlQ89l'R,5YTgm,nx!
 4uXn.wTCegWdj9Z
 67pdebF;3PIHL:1ZL!
 SZwVb7lp7E3x9i,0KE7!
-
-771
-00:14:18,540 --> 00:14:18,580
 WIZFMwkNh0DtunO,?i
 9zOFRHYz;w4IEje
 4xzug9YHItMyuIk9K7
 YO3r"":mlda'Mn3V2BwV
 
-772
+444
 00:14:18,580 --> 00:14:18,620
 CAPTAIN KOBY
-
-773
-00:14:18,580 --> 00:14:18,620
 9r9bqYLffT.fvd4;r!
 Gs3NnQ'9RKzTR4U
 C?5:7KxTcJxTCHh3o!
 rLXxfLFyo8kKjikKDEK!
-
-774
-00:14:18,580 --> 00:14:18,620
 HIXlt7tr"vU'u,LG62
 F:hNdMP9N3lrGOi
 ,XSx9J,4"ZZTjbrDR7
 kk?rQB82.GaVVMPcQpNX
 
-775
+445
 00:14:18,620 --> 00:14:18,670
 CAPTAIN KOBY
-
-776
-00:14:18,620 --> 00:14:18,670
 4MTx'ELGxa5;aCPxv!
 7mnE,BfsFnw.Biw
 IPk:p."!Jcf:!SHQV!
 q'Uk3335JBqtSG,n5ZJ!
-
-777
-00:14:18,620 --> 00:14:18,670
 4Lv"ZtX?NCq!s!PVs1
 p!9YPWGqA5tcgyM
 UlNC2j3mqmx,f1SKo.
 5IpcF78kSQzl?rWAGcjp
 
-778
+446
 00:14:18,670 --> 00:14:18,710
 CAPTAIN KOBY
-
-779
-00:14:18,670 --> 00:14:18,710
 gWV36cR8i6,EL,J2i!
 iP?2uliiPVbq.1v
 LifS1glJEoflAxXVu!
 ;v1Ga14"TCnPTGsKURn!
-
-780
-00:14:18,670 --> 00:14:18,710
 X84YAqJ1Kx,3Bf:JIO
 DYBGz1Bmwr!G2OY
 tpiiM;jJ.lQMg.ed,5
 y.5wsOmbK1!a.",IVawp
 
-781
+447
 00:14:18,710 --> 00:14:18,750
 CAPTAIN KOBY
-
-782
-00:14:18,710 --> 00:14:18,750
 pznEw5?;Nkdor.c'b!
 ,xtTEGLRiJRkb5:
 evOZQBLc,8vvTHXcC!
 2O75"Fi:K9aTI'fH!8C!
-
-783
-00:14:18,710 --> 00:14:18,750
 ;KnK6A7ZNnZ.aplUD.
 4gzG7?xo8;x"0By
 FKf;OmEfr4R7mc8Buu
 LTy;k"hQZePke8R;Sw6b
 
-784
+448
 00:14:18,750 --> 00:14:18,790
 CAPTAIN KOBY
-
-785
-00:14:18,750 --> 00:14:18,790
 9D17pQhDBZIuhfV0R!
 'YtEPE1ulB4w?c:
 !HxWs2OlW6brjAp7C!
 Mb!wTvKCby3rjqaJcq'!
-
-786
-00:14:18,750 --> 00:14:18,790
 F!8u9h71gGrm6v!q2s
 ZiEEAyNk4!gyR7G
 mIV9Ac:SAX7kf;dsHk
 'i.G;JJd6.LkESIS84g9
 
-787
+449
 00:14:18,790 --> 00:14:18,830
 CAPTAIN KOBY
-
-788
-00:14:18,790 --> 00:14:18,830
 pw4badRR6D9ddFWmy!
 u3ASkSZNuuhGHFN
 ogp6ME8gne,!Gbv3E!
 vkhHS6aW8fMmhs31GbF!
-
-789
-00:14:18,790 --> 00:14:18,830
 tFCPoC9JfJLg'mMPgL
 1OQtGmgNn;1o2'N
 T'vb!j4kHcL1CgKu8S
 CDbpbu09,NGvO?xIsQ9N
 
-790
+450
 00:14:18,830 --> 00:14:18,870
 CAPTAIN KOBY
-
-791
-00:14:18,830 --> 00:14:18,870
 LGGmQprY?;hr78810!
 ,t;PyXf!JKtM6AK
 UhhSCW6uXKZ6xvz0D!
 W!FFcSi46t83crbcR5A!
-
-792
-00:14:18,830 --> 00:14:18,870
 :9.:E?"!pSwf:R0Cxr
 ghu".XpyP2v6MFQ
 0h5,2cqrSHn9ez!Fta
 052u?JKXUZkMXNMcKkI;
 
-793
+451
 00:14:18,870 --> 00:14:18,920
 CAPTAIN KOBY
-
-794
-00:14:18,870 --> 00:14:18,920
 Tujl9q4n:hxqQ"Khf!
 QWLJuMZngsm?FPa
 1I'qwoXZS5cX,X0O,!
 qbuxnvuAy;hNFmkkx3N!
-
-795
-00:14:18,870 --> 00:14:18,920
 ezMF"gkdrjpprj1q;D
 pmn:B.04JW;OaHO
 aIRGE2Nc"k1uXTryeD
 o!8UWT3Dp;tNlcCPO4Nq
 
-796
+452
 00:14:18,920 --> 00:14:18,960
 CAPTAIN KOBY
-
-797
-00:14:18,920 --> 00:14:18,960
 IU2cQMv4.Kf0K'YWc!
 Jr7C94XBYgyRvk:
 uJ"q"6t2NKTTEC1Uj!
 KOt7j!:ylxQHN6e7Gvs!
-
-798
-00:14:18,920 --> 00:14:18,960
 8WYIzvqBkJgTF3hGfC
 soTdGLh0"fqep4;
 Aha,k39JNfJG"ro,GV
 8R!YziPgnoQQNVCyRLfM
 
-799
+453
 00:14:18,960 --> 00:14:19,000
 CAPTAIN KOBY
-
-800
-00:14:18,960 --> 00:14:19,000
 2uULHzHln9NVtSw65!
 6z,8YWDYVi;TzfQ
 v;qDNxpG8l22fgjbt!
 tySBBn:71APRD?V;R';!
-
-801
-00:14:18,960 --> 00:14:19,000
 YC5E2qlj"FNYKg!.:B
 FgOW5.VCg3IWOuB
 485wNAr90eW4kN;Rax
 cWhebL'n8,7G9zjuqM?N
 
-802
+454
 00:14:19,000 --> 00:14:19,040
 CAPTAIN KOBY
-
-803
-00:14:19,000 --> 00:14:19,040
 CKNSQEaDXV:ecHIEG!
 haIgrufgFT4eWe.
 "OYwjTgIFZPm.EQ4v!
 !IeZ72!xQWN;C,ed:JU!
-
-804
-00:14:19,000 --> 00:14:19,040
 ?8N3trn3ox3o;CvX.k
 tauAGnbvo8;dV4P
 JXgsyDQLkgyw1;YeLp
 DC4y?.CLFNNuX5gd?KXG
 
-805
+455
 00:14:19,040 --> 00:14:19,080
 CAPTAIN KOBY
-
-806
-00:14:19,040 --> 00:14:19,080
 7SmFd375L"aH1m':u!
 RQC9AsMI.iYUV94
 C02ja7jPByjZVK6pV!
 :ljIg";PpSsCHyiLSbm!
-
-807
-00:14:19,040 --> 00:14:19,080
 n''iDu30svILoP;KX9
 !Q9TexnU4hplLH5
 bg9vH?";."Mtv7!s!K
 0zk:hGjKGabL'2q89g4?
 
-808
+456
 00:14:19,080 --> 00:14:19,120
 CAPTAIN KOBY
-
-809
-00:14:19,080 --> 00:14:19,120
 X?oT4udWfL'9gqF?u!
 ckH:8O5Qov1L?WY
 C:T0POApBmy!;'mgn!
 Vbh!.D64.lpH'BZuIV8!
-
-810
-00:14:19,080 --> 00:14:19,120
 v'ptU'O:GNMDxAfUT.
 pIQkg5GFOyR4qgI
 Fk0i.XFNcCMpjWx5vj
 l,:DtQY!.'mNb5czVl!m
 
-811
+457
 00:14:19,120 --> 00:14:19,170
 CAPTAIN KOBY
-
-812
-00:14:19,120 --> 00:14:19,170
 jkwiljFIhUmVNvbXI!
 DRQau98LRUUfaj0
 Om05d:;,7DJ!Uq0Rn!
 I7qSxV20utfFO9sLsXf!
-
-813
-00:14:19,120 --> 00:14:19,170
 MhGCexgUQUOfNLiSRK
 nw?2MhjMBvqBuUa
 GLeE5g6Y73l8n0Hfke
 vnyfO'jqRTIC1nL4B!Yz
 
-814
+458
 00:14:19,170 --> 00:14:19,210
 CAPTAIN KOBY
-
-815
-00:14:19,170 --> 00:14:19,210
 fbRwfKtF6Rn?y,C2.!
 g6D;2OJBs0FsA8z
 FOcjvfXUS:.:f0Ybl!
 b2WnEGROvcqnNkoUs,x!
-
-816
-00:14:19,170 --> 00:14:19,210
 HOkD16x4azwT,ubmcM
 6Z!JT:HL.fseRkH
 xGBfxqURU0Rykg8IrR
 RpBdAN'"ZQY7N7N2kRB;
 
-817
+459
 00:14:19,210 --> 00:14:19,250
 CAPTAIN KOBY
-
-818
-00:14:19,210 --> 00:14:19,250
 1nlJ"R6XFBXQ.B0R1!
 Txa65j2EcbyxCu?
 2adc56A3s3Tc6wEgu!
 O4UHkcrEsac?'o.WV2L!
-
-819
-00:14:19,210 --> 00:14:19,250
 3;.2SHIZhzyP'9D,yL
 XRuGSWLBZnazqWR
 J5?AV3Gut05wBpTO?k
 ifuIvMipAuLIS9!kOpFT
 
-820
+460
 00:14:19,250 --> 00:14:19,290
 CAPTAIN KOBY
-
-821
-00:14:19,250 --> 00:14:19,290
 r.'INIuPaGld9p2qj!
 QRHWreKG2Go6L1D
 S:D.ei'r"U5N7XWsu!
 h48fVkGecc6iddepfpa!
-
-822
-00:14:19,250 --> 00:14:19,290
 b;obNgpuctoHwpSyj"
 P5DyMf!3n1sxOEs
 6?;bciOrtP;NoC8rjj
 sFemJSGiK,Hy3Ge6ZLT8
 
-823
+461
 00:14:19,290 --> 00:14:19,330
 CAPTAIN KOBY
-
-824
-00:14:19,290 --> 00:14:19,330
 Z.dDVdsNW67PiA:UU!
 :Bo1diKTuFnO!pM
 wYNCgrUoUlYLugwsH!
 HWTgxM0uFdAB,0k0.g'!
-
-825
-00:14:19,290 --> 00:14:19,330
 5dQW:cBNc?YnT9Op'R
 du'wDd8!lk2KthO
 CWNVe"S9Xx"?zOCcLn
 ?cVLC5ouGDX6LJNRaTLY
 
-826
+462
 00:14:19,330 --> 00:14:19,380
 CAPTAIN KOBY
-
-827
-00:14:19,330 --> 00:14:19,380
 JntxWdeVTJR4NDx;q!
 04RXw2?xRV2T?99
 j1RZ0;wOqvtJM5PKn!
 TBbnPBr9LzJWubByM'F!
-
-828
-00:14:19,330 --> 00:14:19,380
 hvbe:16YCL!eNz1bQF
 TjuO3D3d9HwTfQ2
 !?Uhf'OwGl:,BtKT!A
 1JRbEt6dH1Mo1dLxavd0
 
-829
+463
 00:14:19,380 --> 00:14:19,420
 CAPTAIN KOBY
-
-830
-00:14:19,380 --> 00:14:19,420
 8jTed0Iiy.vPeR.iJ!
 NJ2jy,yFUJm,GAU
 W!fxa9t?x0Ay7x'ei!
 1!E6dY;xPmLTPv4jFxa!
-
-831
-00:14:19,380 --> 00:14:19,420
 h:tI7.?!iwOWw'uysO
 NdvxhuKzIBRhg8q
 OxD64;Pwa6j!8p1EBM
 hELbmDGSs?Y;BnSJmEvi
 
-832
+464
 00:14:19,420 --> 00:14:19,460
 CAPTAIN KOBY
-
-833
-00:14:19,420 --> 00:14:19,460
 ?oyHSddhrFNv":On"!
 HjOOdDyD"Z?bRAz
 vI6,UpuwS08!cRsOU!
 faFvZCb;AThC5qbB1Pi!
-
-834
-00:14:19,420 --> 00:14:19,460
 RShipUlVf'NOf1CikR
 fGmiqKCTLcs?s0p
 Fj"abOx"98".WgnKrV
 eM,.dytHD;nu!ktNA"j!
 
-835
+465
 00:14:19,460 --> 00:14:19,500
 CAPTAIN KOBY
-
-836
-00:14:19,460 --> 00:14:19,500
 :C"hUwd?hrsY!fEk7!
 Yg:fjIzfNgwX2ob
 St,c3,USoyB6zPP,J!
 ao0va?IfzjAoG1sd"k,!
-
-837
-00:14:19,460 --> 00:14:19,500
 ;E7';'en8QShz2NcS2
 ufHL"?2YN7;cSi?
 Gpc'zaZhmQIaD7mHP;
 gAco9ww0pHAZLU'3cv"t
 
-838
+466
 00:14:19,500 --> 00:14:19,540
 CAPTAIN KOBY
-
-839
-00:14:19,500 --> 00:14:19,540
 "'GXgI9xJpE?PxIv!!
 U6KCp1j"!6gfpAo
 lyHt7ydW.;kwg8uyJ!
 ?uy4L3,bT:nNc3DAekG!
-
-840
-00:14:19,500 --> 00:14:19,540
 6nw..w9vC'4qUHBQx:
 wQcXKC9HbJ?mn"Z
 Z72b9IAZ1PXfKuFymY
 dZzJp:D!sB4N!7.S,lA'
 
-841
+467
 00:14:19,540 --> 00:14:19,580
 CAPTAIN KOBY
-
-842
-00:14:19,540 --> 00:14:19,580
 2YSC.,R:KGoT!5rAv!
 uUHyUKfzPLTTZ3m
 6TMdaV.D5V9MLvL?:!
 EA:nPtWpbNG9?vHEaie!
-
-843
-00:14:19,540 --> 00:14:19,580
 dvsd'4Il0N.!6JzdAB
 hZglu"6?bN5M7C:
 fdMPe;Ofee0U":D:Cp
 WRyoUaF.rNVqw6Ddz?E8
 
-844
+468
 00:14:19,580 --> 00:14:19,630
 CAPTAIN KOBY
-
-845
-00:14:19,580 --> 00:14:19,630
 wPP4EpvHbl,s"mejm!
 u:Rth!APh?mcATe
 kTGW1drOv,Ha?KBoa!
 Cm6i,PEjYVff0YXidku!
-
-846
-00:14:19,580 --> 00:14:19,630
 TPSNe1FhpCd':cKafm
 dS6TGJ1bkksRmnl
 wFrp30dG,WEhcT0iOP
 :dzjzZHLcx6mS3VQ!1,F
 
-847
+469
 00:14:19,630 --> 00:14:19,670
 CAPTAIN KOBY
-
-848
-00:14:19,630 --> 00:14:19,670
 YtZ2gNSmI!ojjeu8x!
 j'ULl;nJlfkSoAe
 "pOpcjsz?h7hj!dVD!
 zEfdq9H"T4.xEe6s,k7!
-
-849
-00:14:19,630 --> 00:14:19,670
 wm8"FNokbBh'6cztfj
 ui?eZyNPG;hHRtv
 :qwHNghooT7M4mJYhC
 uusi9t6Jco?Fcmh.s8,9
 
-850
+470
 00:14:19,670 --> 00:14:19,710
 CAPTAIN KOBY
-
-851
-00:14:19,670 --> 00:14:19,710
 "MhkBYBD4y.vvllUx!
 7FpgdbsVCHrBHYE
 !h"3"ohxfgInP4T3M!
 ,rx2aryvT4cF,CrLTl'!
-
-852
-00:14:19,670 --> 00:14:19,710
 ?!Dc?mAHC1zbZ6ha5N
 RFIfG?os6Y1BkNK
 Zfj1?XqsDu!4mpYA,4
 Ib19DEMRragva9UDpbOP
 
-853
+471
 00:14:19,710 --> 00:14:19,750
 CAPTAIN KOBY
-
-854
-00:14:19,710 --> 00:14:19,750
 ylWjtfXdHxLtzQV:Q!
 JdeIGvfHl;?X;tK
 Y9ylsyVLv.n.c"5QW!
 Lxxva9YG,1ucduDPPwR!
-
-855
-00:14:19,710 --> 00:14:19,750
 uvYQXbVnututF'LCGL
 .uVrRXBkOjEKA:I
 lJuKgx""0Nimw1MGfQ
 RLmM0euS.O.NicqyTRXq
 
-856
+472
 00:14:19,750 --> 00:14:19,830
 CAPTAIN KOBY
 
-857
+473
 00:14:19,750 --> 00:14:19,790
 Oo9wH1Ivk?YN3u,ha!
 tIDTmHawoy9HY4S
 mtCGCY?NjS44FgkR!!
 'G0VbFeAMLPi?1J0G8E!
-
-858
-00:14:19,750 --> 00:14:19,790
 9,pKuvSvpW,NhonTGg
 LCatDxsga2l5AXH
 H2ZZNJ2NEQ0;:RWf'm
 Poj8kLZ6RmvtlkpGycHC
 
-859
+474
 00:14:19,790 --> 00:14:19,830
 eyG6j2MBHz6wzXWHd!
 7SrRSbxeuTmoeMC
 O7x'2lE5r9.k;Ypqt!
 BpyrhoayV.7Vr:zeVs;!
-
-860
-00:14:19,790 --> 00:14:19,830
 o5w1MURigOVu?M4:i7
 h!ZepRQ9o8in9'j
 LBMVAQb1VSgnQyCsSg
 slm!IZCaavzcIE'7jVvr
 
-861
+475
 00:14:19,830 --> 00:14:19,920
 CAPTAIN KOBY
 
-862
+476
 00:14:19,830 --> 00:14:19,880
 6h:S8Ko1Pj7TVxLWk!
 2DEKwPoGPjTBn;w
 .pdigW5xsNVbG48Am!
 W!cNbLfHwC0:lZEc0tz!
-
-863
-00:14:19,830 --> 00:14:19,880
 IBQ6mvyGrIy"TLp2:S
 c04'V8hC?P;t3vf
 XCQAT90h4Ng,hDBhvm
 aL;N:A1TEv8L3,nUy0QC
 
-864
+477
 00:14:19,880 --> 00:14:19,920
 m1vq!jRnM9PQUTDO7!
 ,mJ5MTI!:ndLnbj
 'L7M6Q?uJFTMRxN.G!
 oaEUjnjFNSXUL.P:V.j!
-
-865
-00:14:19,880 --> 00:14:19,920
 XF'Xxsjy47zEFH5It;
 .09DrEQZ"VAkHYR
 nPsDFzYt4ay,?JN!c?
 '?;;ujiUNMWXa5L125r1
 
-866
+478
 00:14:19,920 --> 00:14:19,960
 CAPTAIN KOBY
-
-867
-00:14:19,920 --> 00:14:19,960
 "iius9nTi9Vyk39"?!
 71'Qpr34R82WRyz
 qPirNaKT?3UhLxUtd!
 abZ02R;,YbLLPfy6WkO!
-
-868
-00:14:19,920 --> 00:14:19,960
 tUfs7sY'.ysK8:n!A0
 Sq'T2Zipm.D32Vw
 uTBNNfIErprsDUj7Kl
 :yAUy!zvu8D1Z1Z9.6pk
 
-869
+479
 00:14:19,960 --> 00:14:20,040
 CAPTAIN KOBY
 
-870
+480
 00:14:19,960 --> 00:14:20,000
 '7Cs7r:zltqn6JSGk!
 8:TjJ;q6h7BfBHQ
 BRGnxycxUTa61C?aM!
 gPXknwn?pjStVlju;uV!
-
-871
-00:14:19,960 --> 00:14:20,000
 X24!y?XBRTR8R.GX"L
 HM.?jVw!zg7mkH4
 ibBxtmzdTAO1tO,Pq1
 jqOhz1v5JTHiHmgp;'nQ
 
-872
+481
 00:14:20,000 --> 00:14:20,040
 ;rYlMm!'7.sdrIKb5!
 Yu8SP6K5YSAO1ha
 1wDLhlBLpe,7jaJYf!
 0jYevueteYLFIMTH"nQ!
-
-873
-00:14:20,000 --> 00:14:20,040
 fuA8nfs36Df?,hFm'R
 Bb39Rr?4JrJ7??2
 X0Sjalg1Ay3TyXsFrh
 xjECQXZgDG0;x?Kut6!8
 
-874
+482
 00:14:20,040 --> 00:14:20,080
 CAPTAIN KOBY
-
-875
-00:14:20,040 --> 00:14:20,080
 4zriEjT2knN.gyIzl!
 GhZAFZWfnCDR0Hn
 S!Du1oRB4QI4QPTkS!
 1Gpw6!C,.Omb3P833yh!
-
-876
-00:14:20,040 --> 00:14:20,080
 fh'Zn8qVYrNeUCtguh
 lmOZeeDFRpeiJ5s
 bMnxKnaAmyr,piofeC
 4gGaN0SQmwEdqDRM3aj9
 
-877
+483
 00:14:20,080 --> 00:14:20,130
 CAPTAIN KOBY
-
-878
-00:14:20,080 --> 00:14:20,130
 ;2P.8VYlUmQgGCUKK!
 1A;0X!BkdokJGK9
 "QLZd06"waut:Qwhr!
 oSJiuB'WkSh"Zzfvylx!
-
-879
-00:14:20,080 --> 00:14:20,130
 GF9aS23giNFZ6Ctt!b
 5e3XlCMmwOA0Pec
 gqOWvJ"n3bK"pj2.ng
 0vDs8Wm;jtl4CCQ:kKCB
 
-880
+484
 00:14:20,130 --> 00:14:20,170
 CAPTAIN KOBY
-
-881
-00:14:20,130 --> 00:14:20,170
 UHiYokYoEqbiMm85q!
 hR99cEv44'YfnMo
 k8pEyQHqJbD5QU1N!!
 uHNa0Jh.zK8QDVKICS;!
-
-882
-00:14:20,130 --> 00:14:20,170
 M!KSa1GgyqVOmlKgBQ
 Zx1P9:'gWjUwfk8
 "YV8JoqWDokg'5CNbN
 bPN9'3.UuE4n'.hZWsC!
 
-883
+485
 00:14:20,170 --> 00:14:20,210
 CAPTAIN KOBY
-
-884
-00:14:20,170 --> 00:14:20,210
 J9YQERSlGu3c:2V;Q!
 xyVDixQHTjl8S,8
 AF6wrKkNpgO0Qf"x6!
 Gj!x"9aePGup'xb8N2O!
-
-885
-00:14:20,170 --> 00:14:20,210
 fnEOM4AQesMAJm0uzT
 OW5P8mtHF4LY1vd
 ZnLKYEsNd47HhPoIx2
 i3H,kQsY!uMVG1XWNpjE
 
-886
+486
 00:14:20,210 --> 00:14:20,250
 CAPTAIN KOBY
-
-887
-00:14:20,210 --> 00:14:20,250
 g:KnGDsU74!Vi.m?A!
 AVxnwPIkk0?.0qa
 GFUu16nfqMQg2'eo:!
 io1DLsYusK'YrTAOUMs!
-
-888
-00:14:20,210 --> 00:14:20,250
 ;79CQkRLQmAgPs11yB
 .Bv0FfY'u,HU?m5
 ?H4GjD;gZlQBUFTbk9
 H;D!?xtxg,hBhb8'6?q7
 
-889
+487
 00:14:20,250 --> 00:14:20,290
 CAPTAIN KOBY
-
-890
-00:14:20,250 --> 00:14:20,290
 QqSZdMKLoGCryrhZJ!
 A'ETTd?hNFxb9'W
 Lj6.ERh?XeEyOvXp:!
 JnFnY"ocAa'z'SG,.iV!
-
-891
-00:14:20,250 --> 00:14:20,290
 4WTGpYzQk!T:E48R,y
 qCz!noCzNySggK?
 'xha.m,q4a5s5"CuWy
 I90upZZ,1sxM.p7sYtb.
 
-892
+488
 00:14:20,290 --> 00:14:20,330
 CAPTAIN KOBY
-
-893
-00:14:20,290 --> 00:14:20,330
 RnuseKOh?Yhf4;muH!
 VJNldZRRlfOj;Fu
 x."IAdfz5.EhYA.Un!
 C.IwxvqO!;A86AaCrnr!
-
-894
-00:14:20,290 --> 00:14:20,330
 j8pNhA:AEM1WJmutbu
 KCN6f50gsokmNkw
 KL8lwGh9,Hplj!vOHm
 w7ePrpgvwQfO6;wV4mRg
 
-895
+489
 00:14:20,330 --> 00:14:20,380
 CAPTAIN KOBY
-
-896
-00:14:20,330 --> 00:14:20,380
 C:W,LLH7X.8p9rFS6!
 'YJpA"Cz3q;GC2l
 rP05C7Bp1at5SaDeO!
 AT8ERRzpguw:2eOOuUb!
-
-897
-00:14:20,330 --> 00:14:20,380
 K7QoH1N6kYR.JlPCyh
 mK"l!Vb;'vt39'?
 1:sveRSUlK'zBb31vo
 ,9K'YReWw6;FwX2eo5fP
 
-898
+490
 00:14:20,380 --> 00:14:20,420
 CAPTAIN KOBY
-
-899
-00:14:20,380 --> 00:14:20,420
 8Hq7O8Vbwgq!caM7W!
 LvGHB;y1VuySu.L
 H.ShGArkvUzHI:8rg!
 ;P5?kolB'9?B2MS"Mg'!
-
-900
-00:14:20,380 --> 00:14:20,420
 wxureR33z41g1Qk7'z
 RmFXbz0E3hqZQf2
 sHw.xU9Qe:RYeE3OFD
 ;jktLoNqtDH,mi7eQDuV
 
-901
+491
 00:14:20,420 --> 00:14:20,460
 CAPTAIN KOBY
-
-902
-00:14:20,420 --> 00:14:20,460
 nPZD,0aP5Kt"yy3Oi!
 Locxtu9YBQru1jH
 xmi7g:heFqZhp5aYs!
 dL.S13b!Qd0aPNqjb2P!
-
-903
-00:14:20,420 --> 00:14:20,460
 h".bj7nCeQ1xLn8'91
 NsE"duVtCTEbf'c
 nWjKQHtE2S3HZgCEcb
 j0q994i;fT'mrNAFXnX8
 
-904
+492
 00:14:20,460 --> 00:14:20,500
 CAPTAIN KOBY
-
-905
-00:14:20,460 --> 00:14:20,500
 5PITMq3RxsevCyMn'!
 hngFcIKKM6Z0X0,
 nlfONc3':xEuQ;DQ6!
 98Y7ynrkRLthkOdzyRo!
-
-906
-00:14:20,460 --> 00:14:20,500
 k.A1qIpx'Bc898P?:b
 qLA0SEpEy"DQkCp
 "xPlNBdkhpOm5TKQG'
 mh.SVvtZRIR?G!bojaD!
 
-907
+493
 00:14:20,500 --> 00:14:20,540
 CAPTAIN KOBY
-
-908
-00:14:20,500 --> 00:14:20,540
 8cRhkzYni6'edD.F3!
 97SbC6ZJ3FS.kg5
 J;dBsnzZuWD.wA8Qt!
 6lyAe"a'NJ49:?M.jaA!
-
-909
-00:14:20,500 --> 00:14:20,540
 ndDHS5re42Wu0hrIjK
 6mB?ETAGY,2UmfY
 VrA,6VXpeO1o;?gvoW
 Lg?NPgmdN!BQiK!FeZbz
 
-910
+494
 00:14:20,540 --> 00:14:20,580
 CAPTAIN KOBY
-
-911
-00:14:20,540 --> 00:14:20,580
 xki7xS8,x!K9a1?6a!
 0dAlha,VhA8:Kz'
 eyX1nY8YjZq60bO6S!
 7xwX6uNysr,cWFoaXLH!
-
-912
-00:14:20,540 --> 00:14:20,580
 NbJogU:d7;JbSaOjVt
 on8SgOO,dzQUUNH
 UB:T?hIEBjUXvCQDSu
 t50hjkNOtdpnHxFcihVl
 
-913
+495
 00:14:20,580 --> 00:14:20,630
 CAPTAIN KOBY
-
-914
-00:14:20,580 --> 00:14:20,630
 L8b"p!HFWz3BvVmnq!
 aK?bI,chk?2!"Kd
 OIBfqtQ,Sx.ICIk:s!
 xpSXsuWPS3x;pWw;1oN!
-
-915
-00:14:20,580 --> 00:14:20,630
 7l1uR?9z:wj3KT'dr7
 zxMfy998jTqTVAd
 93MXxySH"yRRrDxcG1
 Bu6K19gPgxBI8FNTAzNB
 
-916
+496
 00:14:20,630 --> 00:14:20,670
 CAPTAIN KOBY
-
-917
-00:14:20,630 --> 00:14:20,670
 nLiFBZEN,J!vujDtC!
 LQS.yblnS4MJLCw
 :0fPhjrr1cxTduHy4!
 0a2T7B,Tl5030sJH8dP!
-
-918
-00:14:20,630 --> 00:14:20,670
 trRXX"vNuWHz2I?WBJ
 A:vt3aUNKrKP224
 Y,SJoOyKoknKKs9Az4
 x?WrjxcB2H;1TvpvQhAT
 
-919
+497
 00:14:20,670 --> 00:14:20,710
 CAPTAIN KOBY
-
-920
-00:14:20,670 --> 00:14:20,710
 2itZlSuM2S7yUOV5o!
 ,W4I;7T3O2xlWdA
 SmwvUoKdjtO8S9Oms!
 Z7CU8tgt8ibh"MNMGPT!
-
-921
-00:14:20,670 --> 00:14:20,710
 8fAKq,sn1,aAJ;hHJz
 2UaTgFbF"kg1qwQ
 EWG!:TDqDV'lkpcqn0
 iRUpdw!X0fVBQ4NLTlAo
 
-922
+498
 00:14:20,710 --> 00:14:20,750
 CAPTAIN KOBY
-
-923
-00:14:20,710 --> 00:14:20,750
 mw.6nK0fyy9W8Er3y!
 1:.LK6nvFALli"Z
 xkqxs7:rn?hOiLPIB!
 9Ekly;n..z"0wSykL!5!
-
-924
-00:14:20,710 --> 00:14:20,750
 eM!C0:DC;ec6oVMs8d
 '5pOujE0fwq9I28
 Qde?bRnnZM:,RHSr"Q
 lhmUGLt"qJQE4AK!!YjC
 
-925
+499
 00:14:20,750 --> 00:14:20,790
 CAPTAIN KOBY
-
-926
-00:14:20,750 --> 00:14:20,790
 6rCiWDH15tWHRuvs5!
 Tv1YCPJRqDz"NIP
 fF5,pEatXJF'u6TLM!
 vlFiCggN7.GQd,sI,wg!
-
-927
-00:14:20,750 --> 00:14:20,790
 tm8XrMbOLyh0fgP0R.
 n9'EwwHj3pxkN3Q
 IVX50syw8y!kvUuEUb
 MJsIm8"NWLw4dy3"9IZ4
 
-928
+500
 00:14:20,790 --> 00:14:20,830
 CAPTAIN KOBY
-
-929
-00:14:20,790 --> 00:14:20,830
 y6XbM'VFv:ulTIq3b!
 xa91GUQazD2BvIL
 lyFcFKwg9myo?!WTM!
 n!vUzHv0QiuZH6IAMlc!
-
-930
-00:14:20,790 --> 00:14:20,830
 !dwDNMqNpeiAtcfTAF
 frhIYlFK?gsM:!7
 MCEJIpQTTLh?xnITle
 QLfpn;JGXq'!,0YbnO1O
 
-931
+501
 00:14:20,830 --> 00:14:20,920
 CAPTAIN KOBY
 
-932
+502
 00:14:20,830 --> 00:14:20,880
 FEa,Sdf.f6VVUPrTS!
 KZ6Isx'2Phs5e3!
 9"3h5llQYmQICm4dN!
 J.I!FMxm,minOHDmvuh!
-
-933
-00:14:20,830 --> 00:14:20,880
 FMLCApp8rVG6nxOG7c
 71Jv4EuGgU'9hOH
 v,8eRKxI!YCIuaPQNu
 Zvu:YGp2w3;bj"BS3jz0
 
-934
+503
 00:14:20,880 --> 00:14:20,920
 ZZoblIe'WmHwcba!o!
 4:Hf9iYvdn'R;z3
 ;RYBQac0m0X?HoXfD!
 tM?xqToatTzaNxQzd?H!
-
-935
-00:14:20,880 --> 00:14:20,920
 amguo2jjMhOTUCl0dj
 8M!SZq5P1!s;.JZ
 BxNnV:j1jo676jDs!l
 VSXi"kS2kbT"Nw5nO4vd
 
-936
+504
 00:14:20,920 --> 00:14:20,960
 CAPTAIN KOBY
-
-937
-00:14:20,920 --> 00:14:20,960
 E9!uw0Rr;u4O2i!r1!
 zr9FQa:SlTRmyHL
 1LheXZKIXR2P7lJDX!
 8gXxf5;.Xo5QzspJfQ3!
-
-938
-00:14:20,920 --> 00:14:20,960
 2fmDoiQy5EaiIlhS3G
 aVyiM7U?xr"d2K8
 jqpepIsKYZJ'5KsoQV
 4Mg0OnKHHrqWsuDYAQQT
 
-939
+505
 00:14:20,960 --> 00:14:21,000
 CAPTAIN KOBY
-
-940
-00:14:20,960 --> 00:14:21,000
 k'9xHdr,H5MlvYBSB!
 erZb3:xET;KHK!P
 PBrR48PaNd2gLCHi2!
 hk.T'ibtBsX?n!d,M:"!
-
-941
-00:14:20,960 --> 00:14:21,000
 Pn"Dx5U"3A7o'YlesZ
 "'r5!Z7G0i:AZ4M
 TH1P6X0JNAOnt8,PXD
 A:mSpRaGpQy5ZEizYA6N
 
-942
+506
 00:14:21,000 --> 00:14:21,040
 CAPTAIN KOBY
-
-943
-00:14:21,000 --> 00:14:21,040
 CVdgLMRZ18LU:v.au!
 2qM9!FVPR!zUx;r
 4f3Mc"4TbBFqQywUV!
 CCUSL.xJYSLkRNba4ii!
-
-944
-00:14:21,000 --> 00:14:21,040
 8Zw;HVDMDWNe?VtsIt
 d7Zd8,ugEf,M"dg
 ?Rg7nhtGvwuEO1mfHP
 O9anXJZwDzi?ZNiFa,A,
 
-945
+507
 00:14:21,040 --> 00:14:21,090
 CAPTAIN KOBY
-
-946
-00:14:21,040 --> 00:14:21,090
 9Iw:mk9eH3K9zPxuC!
 g!IR"ksZ7R;eUJ;
 12.u1MSq,Nm9beDtV!
 ,Ns:osvcQ8trS:IEkfn!
-
-947
-00:14:21,040 --> 00:14:21,090
 T51tJp3RaEqwsK!2'T
 cX'RZ9SgDBhfyE;
 yeC:IIrgKNZ2WE2u"'
 cNHBSicr7J1sRBFEJc7Y
 
-948
+508
 00:14:21,090 --> 00:14:21,170
 CAPTAIN KOBY
 
-949
+509
 00:14:21,090 --> 00:14:21,130
 VUsbvvz2xAP.81bTv!
 EhOVYGxQjTYjo7n
 OisA0,wF?S;2?NxCj!
 ctKHMs73n4B?H;i0G2F!
-
-950
-00:14:21,090 --> 00:14:21,130
 nKLUgk;5imnad13mHG
 JOCdDGEgZB8r'0X
 ;J54rljs?h'kwNUaLv
 kcZCwUBovxAtPvl,Pddf
 
-951
+510
 00:14:21,130 --> 00:14:21,170
 466LpHueU1yN1D0SP!
 gKz,3oM28ZB3j3N
 94z"AaKWpxwRCQif,!
 gMRgzfczzYk7Ptdd2tO!
-
-952
-00:14:21,130 --> 00:14:21,170
 3y7y2oGg0;ANWHD6tT
 O9:ENs6bAjd;NRN
 hWB".SC:Ys6OoyRA0x
 DlJ93zkO8rJekMeVmQ2?
 
-953
+511
 00:14:21,170 --> 00:14:21,210
 CAPTAIN KOBY
-
-954
-00:14:21,170 --> 00:14:21,210
 Y't;Hkjo9;K:t?X9T!
 9n4dcYJJqXkPw,f
 Zso0"O8GQE3Ti:IIh!
 cqiv'wa9dcL4M?508pV!
-
-955
-00:14:21,170 --> 00:14:21,210
 PKv;wEJmBbl!GFcJ.n
 hcP3t;zJrtXsElx
 STTdXM.shApzjuxiti
 wablm!ZIsq3C?L,4w,dL
 
-956
+512
 00:14:21,210 --> 00:14:21,250
 CAPTAIN KOBY
-
-957
-00:14:21,210 --> 00:14:21,250
 'PA4'?xNhMotwf1g0!
 ?Me9eDSmm.!Zjlb
 qQExa0",yH7f!brnC!
 C:SSD8tKzW64S!zJyON!
-
-958
-00:14:21,210 --> 00:14:21,250
 :lgXZ3SN00pwFaaX'T
 BX:kliQm07!h7QC
 qUQdE,Wkm'NSoCLuta
 GAS8NGESfq8q2K08W5Nt
 
-959
+513
 00:14:21,250 --> 00:14:21,290
 CAPTAIN KOBY
-
-960
-00:14:21,250 --> 00:14:21,290
 nX4ZI5sRlL:ZX3O9j!
 Pj4nb?isRUV;'Zq
 O553LTng9O?CAfpC,!
 zeux7nwpjbPZKsz9s?R!
-
-961
-00:14:21,250 --> 00:14:21,290
 "e53lDNUpBoQa:Xwqy
 aQBJxM.GkjybB9K
 t1cbPPUBdkpjfdegoY
 WR,m"yXJ.QAAj'cSCEGK
 
-962
+514
 00:14:21,290 --> 00:14:21,380
 CAPTAIN KOBY
 
-963
+515
 00:14:21,290 --> 00:14:21,340
 hpiEQQZl8r7GIm73v!
 NMQPchgsS3e::a'
 OI2m"Sqrdp.gPG6nV!
 BZUJ;GB,2X?L,c"k:ZX!
-
-964
-00:14:21,290 --> 00:14:21,340
 sYmtpgquaYCPnX?"mR
 NXy93Meyt4dHBKm
 !PO,;J8ewse0R?N"zt
 U"cnGzDp:k;TUm"cB2s0
 
-965
+516
 00:14:21,340 --> 00:14:21,380
 muqGtlM6zkzSRLhZh!
 'YP6C.htMXS0?FZ
 tQyqiWxzWiPhhjyBa!
 Vs5B79gA;CvW2uI6jBt!
-
-966
-00:14:21,340 --> 00:14:21,380
 GU82zSWNvpaBXH"TpN
 e;!!8ULHU4Lm:nO
 owR25xzh;BYeI5!wn9
 lSBbt2!UmYb:sFaXwJNl
 
-967
+517
 00:14:21,380 --> 00:14:21,420
 CAPTAIN KOBY
-
-968
-00:14:21,380 --> 00:14:21,420
 Tiqe6mitKfQHQF8IV!
 jZ'fSZ13f,RvtBW
 q5QxviKIzh8R?R"jN!
 .:Z!B"teg!LGHSBKL!A!
-
-969
-00:14:21,380 --> 00:14:21,420
 y9?A!1rOX6?u:Zj.jc
 SEQOabJU''qlMk;
 zfBCO"r5GVM7;c5ZNI
 0'Fb.NnaC:;;;1BzR99A
 
-970
+518
 00:14:21,420 --> 00:14:21,460
 CAPTAIN KOBY
-
-971
-00:14:21,420 --> 00:14:21,460
 ll8gfl3sVlnyr?DiF!
 JekcBNdrElBCYE7
 AK"K0;CL?6h:fdVJG!
 ZHS3KHjgC3q"3yT4upR!
-
-972
-00:14:21,420 --> 00:14:21,460
 :eblYBZBOywYrHPnoe
 j'2?WNdu.NmIbb,
 HJtosfmzxuI97TsY.g
 TaXP.wG?wIScuedQspN.
 
-973
+519
 00:14:21,460 --> 00:14:21,500
 CAPTAIN KOBY
-
-974
-00:14:21,460 --> 00:14:21,500
 pri2LiVtO2o,nR,CR!
 "uAkyu5hMEfWHDw
 jQyTSyOzzQ.a;amjm!
 Ps,nC"C8i?ut1q25jn9!
-
-975
-00:14:21,460 --> 00:14:21,500
 ,LTBj1Y2RIaS9cBoo2
 dwLsugF.I82s?sP
 !GR3,ed26Fmg"0v9eo
 ?slGJj!wl916S6z!toiR
 
-976
+520
 00:14:21,500 --> 00:14:21,540
 CAPTAIN KOBY
-
-977
-00:14:21,500 --> 00:14:21,540
 ISkKTCPr"xxfIB.gM!
 2U1h97aXxqQXQK"
 1Idd3yqyzyx3n;1q8!
 2TPqAdeynyziEsIEfet!
-
-978
-00:14:21,500 --> 00:14:21,540
 RBgqNHdgvk!?4z;K;b
 6t8Vd76UvI17M2V
 qkgIlhi8Q'R7CRiE1E
 cG!rj4dW,'4okIfcOy5Q
 
-979
+521
 00:14:21,540 --> 00:14:21,590
 CAPTAIN KOBY
-
-980
-00:14:21,540 --> 00:14:21,590
 j2S4.A6bAV7Lg;rZm!
 cXkN':XKxcN8joY
 ZSkk7:JQApmGhXpKF!
 pRN:r3TrP!!ui6497QU!
-
-981
-00:14:21,540 --> 00:14:21,590
 AEbmStBNkJiYtkShs.
 gf.NH4EKMjNz8k:
 RzyTGRK4GE!tP1hbzf
 JqN?1wH6?hj4Oxjx60R7
 
-982
+522
 00:14:21,590 --> 00:14:21,630
 CAPTAIN KOBY
-
-983
-00:14:21,590 --> 00:14:21,630
 S6csuiH?o7NaOe'b7!
 n42bSsMCavt'J?:
 MqbNeu2dwyJZaUJ1j!
 Cqm1g9Sp3?werQ'Xpq0!
-
-984
-00:14:21,590 --> 00:14:21,630
 iYAe7DUy7JN,S8aQFp
 UO:Z36GUUuqkvNG
 wunNRas0PLnn?!mg.b
 'aavPWptMGnhMIE"LwBN
 
-985
+523
 00:14:21,630 --> 00:14:21,670
 CAPTAIN KOBY
-
-986
-00:14:21,630 --> 00:14:21,670
 ltThc50TOpGOyXEr6!
 vHvAN99CilSWdEk
 eTkC;::v1'YSpigf!!
 zqatK57mCS"Q4FBuBSy!
-
-987
-00:14:21,630 --> 00:14:21,670
 yXFO7tuzjrkIYN;fU?
 wqzSNf"bBAthjR6
 8J:MvxS'6'ygCxHKnk
 .l2'y2U99UA8W4G:IVzm
 
-988
+524
 00:14:21,670 --> 00:14:21,710
 CAPTAIN KOBY
-
-989
-00:14:21,670 --> 00:14:21,710
 ypH1s!QMXFyR28W?5!
 ?:?EXcei4EYu4f,
 rpn.PROCWpxILcPba!
 d!;t;I"3tgF1r4T!2WB!
-
-990
-00:14:21,670 --> 00:14:21,710
 EDmrmcL:nSlZ4CEP,.
 jKY;6v8nn.f3f4n
 cfybE9Msu.7kz:qk6i
 rQTsctAlxt?Smb4',,Qy
 
-991
+525
 00:14:21,710 --> 00:14:21,750
 CAPTAIN KOBY
-
-992
-00:14:21,710 --> 00:14:21,750
 q0oKuRBKcVs2ZO0lh!
 WDd'OShKrz.pnFf
 ufzODTO70e7kJ.WRj!
 U0YVusnAU?ifa82d8Tc!
-
-993
-00:14:21,710 --> 00:14:21,750
 RFZWn:'KNl2FM?4X?S
 JDqG8B"Z:vyQTnI
 J"HW6OTdblu2h?9bGI
 O9T5P.VpPNGwNEtdDY:J
 
-994
+526
 00:14:21,750 --> 00:14:21,790
 CAPTAIN KOBY
-
-995
-00:14:21,750 --> 00:14:21,790
 QnW;FVSWxj7?OjXMp!
 S9OUa6yT8r3M?28
 bLEgYDxf.9?lEnXNd!
 Yg?ZsXhxyjWKXKNjIu5!
-
-996
-00:14:21,750 --> 00:14:21,790
 !Ttxo,Xliy:RSbUdke
 EHJ1X70A9Zcnnq2
 Hg5FCSglJYup.9ENgX
 :01m9Vv,kB,A5UNI'JH7
 
-997
+527
 00:14:21,790 --> 00:14:21,840
 CAPTAIN KOBY
-
-998
-00:14:21,790 --> 00:14:21,840
 wz5GmC"jDy1gZvDUP!
 PA4kPCSZaSDRImw
 l8"3;RlyLL1fy,NWn!
 0ZiHMPrYBk,g!PLR30p!
-
-999
-00:14:21,790 --> 00:14:21,840
 EjNtvN5Nwt;RbSYjhJ
 xxBJ1drK4dj:2wA
 :eGJuO9mEQlUE1NANB
 7WwJCT6:YqO1MG4cjAjL
 
-1000
+528
 00:14:21,840 --> 00:14:21,880
 CAPTAIN KOBY
-
-1001
-00:14:21,840 --> 00:14:21,880
 ;zt3:ztKjWlVPEU6E!
 hE77GXvLpsEem9V
 LM;rTBQbaWV'E:v:4!
 LgoPJVeg1Lwd,1QePTm!
-
-1002
-00:14:21,840 --> 00:14:21,880
 ,AN27NA,kO0SBFu.Q:
 nrDFdyCQRPGknVO
 0el"ENN7SFl,4CsAha
 q!HPlpDvVINvL2McRJ3!
 
-1003
+529
 00:14:21,880 --> 00:14:21,920
 CAPTAIN KOBY
-
-1004
-00:14:21,880 --> 00:14:21,920
 k,HSBD.xofvnzh,nR!
 IaEcDy;LZYtfDr'
 VKks5u4Z??Iz;TKZC!
 fX'UQ.KQLBuOCjNsQsZ!
-
-1005
-00:14:21,880 --> 00:14:21,920
 AtYrduEhePXpU2tmmn
 hODZ'bHaYwd"8PJ
 l"E.!JWeYH6dnHW7Of
 gR;Yf;2AjNl79DNMidLa
 
-1006
+530
 00:14:21,920 --> 00:14:21,960
 CAPTAIN KOBY
-
-1007
-00:14:21,920 --> 00:14:21,960
 RfeoAM8Q,cfJ5OB8H!
 7HjZ;;IpgrID?AG
 ;1hoAX;l3;C;N8:jW!
 aoIHm1z1V'EXiVJHUQP!
-
-1008
-00:14:21,920 --> 00:14:21,960
 4AXb8.66MquixWoCzg
 eeuDLdGthoUmJfb
 lWX6A9j;d.q2N0DYp9
 1fhbSErz6:cZlh5MfXOk
 
-1009
+531
 00:14:21,960 --> 00:14:22,000
 CAPTAIN KOBY
-
-1010
-00:14:21,960 --> 00:14:22,000
 EcmuOQyqSN.rg71ge!
 i?bglzVLB7txuDr
 iBxBm96hwFljKqfYC!
 d93GBHel3H4MGf1;nzE!
-
-1011
-00:14:21,960 --> 00:14:22,000
 v5FrTRHi2N?R9PR"lq
 lIx3ky7FpOVacDH
 kasMgYhIcXsgQ4vL0R
 A28yNgPnbXcQMrkNJYKp
 
-1012
+532
 00:14:21,970 --> 00:14:23,590
 His status is unknown.
 
-1013
+533
 00:14:22,000 --> 00:14:22,040
 CAPTAIN KOBY
-
-1014
-00:14:22,000 --> 00:14:22,040
 6I0FnrW5x2d5eUgeZ!
 7hX5FXQfm5B,;y6
 v6;OrOH2,1bramT0q!
 ,pfNHSVzCvutBVZ1n?D!
-
-1015
-00:14:22,000 --> 00:14:22,040
 p4,iCeYakgfq7aB6pn
 .l2"xNRj4JQxFJK
 8KQ1MPySKFH7HrSUaX
 gSUNwqAHwlPM7jTT6'L;
 
-1016
+534
 00:14:22,040 --> 00:14:22,090
 CAPTAIN KOBY
-
-1017
-00:14:22,040 --> 00:14:22,090
 ?xt2HZc:N8sc6TXU5!
 7D3wslz87iuV1pG
 13AP!cKrOvsq!u,0,!
 LoLRR.A;eUb8AdSTwSF!
-
-1018
-00:14:22,040 --> 00:14:22,090
 cT;Y4Lg7N4r,IQDz'd
 "hkKUh?r!IaUx7E
 92"rc6iSXHqtPD24;m
 WlbaynX;VLGr!bFK1643
 
-1019
+535
 00:14:22,090 --> 00:14:22,130
 CAPTAIN KOBY
-
-1020
-00:14:22,090 --> 00:14:22,130
 QE??FUe:Un5S.Ct.Z!
 lZfC:g;20DGwTJG
 muqWIqPAR!?bkVVOe!
 ngdh'PrjJuY2"25J0Mn!
-
-1021
-00:14:22,090 --> 00:14:22,130
 "pC5o8?"eW??Kvt'Fz
 ;gQHFIuUI3qz:r.
 xL6ALTAhbl4,a7j'0Y
 2jMm3,H7YbD.XGc6gPLR
 
-1022
+536
 00:14:22,130 --> 00:14:22,170
 CAPTAIN KOBY
-
-1023
-00:14:22,130 --> 00:14:22,170
 IgS"TwRiMKM?T.A1a!
 qfY:,f7'I8!DnUY
 tFD,J2.oxx?AT6k5b!
 kM:RBHkiPf0lq294M:R!
-
-1024
-00:14:22,130 --> 00:14:22,170
 6NVNSm"CG8HZtR2MtM
 pYVeJyZ3.buIFsU
 9cI;3ZDSW?;'!;Y:B"
 :E7ZQ2nqvSqZl;kvbtb4
 
-1025
+537
 00:14:22,170 --> 00:14:22,250
 CAPTAIN KOBY
 
-1026
+538
 00:14:22,170 --> 00:14:22,210
 Hjjk3YCLf1,MIFeo:!
 vm:g,2JsPNGvtPp
 0OJZxmoQ5U7sn'MJc!
 !qf3nVh9!"zP:.xd8ZA!
-
-1027
-00:14:22,170 --> 00:14:22,210
 kYzxROPH20,lQjqwyK
 lDdluLtmYNwYTO1
 R8ciHdq"lPyX,EK1S2
 ljGPcqotDgi"HEg7VRY1
 
-1028
+539
 00:14:22,210 --> 00:14:22,250
 EYHTBXKwMM6p.l'ci!
 I,3zLJwAw:FL7Kf
 CPj47ZhiVl:Bpvhzg!
 0S"LbH"PZy9D'7OwF:Y!
-
-1029
-00:14:22,210 --> 00:14:22,250
 5Xyw3JY,CxiF4rs2Od
 tFdB0XOj9wvNpGP
 W8EToh?wzltJy2xWrY
 Bt4pvrjdmw4dtjBCe7?f
 
-1030
+540
 00:14:22,250 --> 00:14:22,290
 CAPTAIN KOBY
-
-1031
-00:14:22,250 --> 00:14:22,290
 4nO!PsYLTAmJF8Ch1!
 JnxasYX0gcf!1,6
 J4'dd9Zm9np.9Yp6w!
 o2w,v;UxAHJbk6or!zx!
-
-1032
-00:14:22,250 --> 00:14:22,290
 AW8n9RjFulCaKVTMu;
 NrhhL'RukzzQEAZ
 xs0Ucr:mjAvIPQlPSz
 FwreAE8GimH,,qpUwWUj
 
-1033
+541
 00:14:22,290 --> 00:14:22,340
 CAPTAIN KOBY
-
-1034
-00:14:22,290 --> 00:14:22,340
 !l;LemNPOGtp7xFH.!
 sxWLI'fPGJg8O1?
 G1nJzZwE9GHIpwXj3!
 "5dLDa4"Tv;qTC9:0T"!
-
-1035
-00:14:22,290 --> 00:14:22,340
 E;?5'lN.1jTM8"uAuL
 uIJe5;Qkg2qZGpv
 !yFyATWxRK61Z:8I;F
 CzIZ3:p,YY6Wr?Q,slPz
 
-1036
+542
 00:14:22,340 --> 00:14:22,380
 CAPTAIN KOBY
-
-1037
-00:14:22,340 --> 00:14:22,380
 KEidwS;ATu;?Zdg7r!
 JOJpyYPggzTkXmv
 ;YRVOE:hIWedrHWgV!
 1iem"DtUzysFY4OjM7"!
-
-1038
-00:14:22,340 --> 00:14:22,380
 5Hic5by7nPh6m;mccu
 G2EVffbeM.,!B0T
 t:eBsQ74IHd;Fzj1Lh
 KkILq56YRT"W8k2unPTR
 
-1039
+543
 00:14:22,380 --> 00:14:22,460
 CAPTAIN KOBY
 
-1040
+544
 00:14:22,380 --> 00:14:22,420
 qB4?sOW:4TiYFfhop!
 .0QZDh7;0Yof5T,
 b!2Q"lp1!'ndRA!.!!
 5PmRZdBvSvzDTlmrZeo!
-
-1041
-00:14:22,380 --> 00:14:22,420
 muaJNfQD1q2FjO?gKy
 .X8LyF7,W,YQVro
 zCIH1'D4bNrVWNBUdj
 q83Jl:pv5ho6.4iJ'j7s
 
-1042
+545
 00:14:22,420 --> 00:14:22,460
 :PPn3oTls8WmFj."Y!
 SkUwStaYMjkGxs9
 L88B5olOuoCBCCjKA!
 Cr?lrJiPhwk?J.'uULQ!
-
-1043
-00:14:22,420 --> 00:14:22,460
 pROvw',dJRvPjmzyrl
 pCbXtTmshZt;.3W
 iF9alS,mkSawvcVia"
 pB24axOv8BirAcyJEFCf
 
-1044
+546
 00:14:22,460 --> 00:14:22,500
 CAPTAIN KOBY
-
-1045
-00:14:22,460 --> 00:14:22,500
 fuCEN1qa.Mz8LZVXd!
 Ggs.p!:oiMImxjT
 S.Qpx7icqn.FV:IpC!
 6Afe94wHq2lgFKxSWRI!
-
-1046
-00:14:22,460 --> 00:14:22,500
 xfuuNcdtD9:,UCg"TV
 !iOjpApxh03TxWN
 DIkmlRXBo3EtEU'BO0
 iqMQJlntRDiHjZo?lbeq
 
-1047
+547
 00:14:22,500 --> 00:14:22,540
 CAPTAIN KOBY
-
-1048
-00:14:22,500 --> 00:14:22,540
 NRYRVlZ8aeYvSYQxX!
 RgupMUBTO4W?ppI
 qm3:nAtD9kcBj:em5!
 QFG"3Fx4z99AFIjhfqo!
-
-1049
-00:14:22,500 --> 00:14:22,540
 NNGV0aE;kN2A8Kqy8F
 pQvgR.et;Ia!Rn6
 1adQOJ.rA;2D3Ja4Lx
 I7kx?ZLFAcbD1WJAEUpg
 
-1050
+548
 00:14:22,540 --> 00:14:22,590
 CAPTAIN KOBY
-
-1051
-00:14:22,540 --> 00:14:22,590
 bJB"Z2F3Tl8x4LpL8!
 "IepSs4IsH5;U.v
 'xHv8fou'uqIL8Is;!
 t0GgrS?K.B8HrnCqK6Y!
-
-1052
-00:14:22,540 --> 00:14:22,590
 'ZwX9HH,JkfHyECLOL
 u6XEaVVqdSh.i?6
 7UCW6aIdR!ORB8GeV:
 geN3:sTK9ECp.ku3DK5.
 
-1053
+549
 00:14:22,590 --> 00:14:22,670
 CAPTAIN KOBY
 
-1054
+550
 00:14:22,590 --> 00:14:22,630
 nhlmDla6DcuKStlab!
 kS9WJ5NyFyu"5SR
 i0sLsIHW.33Pclm,E!
 .TNeUKM022FVIxpwWAn!
-
-1055
-00:14:22,590 --> 00:14:22,630
 Jh,155;6g'lC!4Y"J"
 "Gbsl.NMBuUD"d5
 EwLiC17P"iaX?Aewyg
 rkNQS3eUaiivSTLk,6vq
 
-1056
+551
 00:14:22,630 --> 00:14:22,670
 Y1hVAgrcowJXb1ze.!
 dF;;QhWq1GA"aH?
 1BOeMvz';vRXVH6K6!
 hlH0fzFBWoDQtEneDTx!
-
-1057
-00:14:22,630 --> 00:14:22,670
 XmZjQELNnP.HDxTTUj
 oOLnIWktQfXF,sZ
 Aj23"w?fK;1pKgLSV5
 l,"eCNhMmZj.gOk4.lnU
 
-1058
+552
 00:14:22,670 --> 00:14:22,710
 CAPTAIN KOBY
-
-1059
-00:14:22,670 --> 00:14:22,710
 9IQ9":UGIaUW3hxao!
 P!jwvIYZajq!eVn
 P,I;lgOWMYVwVQezC!
 86id7ADC3jBj.78w2De!
-
-1060
-00:14:22,670 --> 00:14:22,710
 Kz3N79zf,WUVW?wqzu
 Ikh34amc3:Q2Mbk
 dT1q"lg!,Nqjsq4JsT
 AK.NhhRzrJOZGuZ.pqO!
 
-1061
+553
 00:14:22,710 --> 00:14:22,750
 CAPTAIN KOBY
-
-1062
-00:14:22,710 --> 00:14:22,750
 C5c98E48Tc:80381R!
 iC;xN2DXa'NuDdp
 k;mM;!ZGFqc9t9jvO!
 8sAaa6:hWnGadTSffiz!
-
-1063
-00:14:22,710 --> 00:14:22,750
 mqeWHl52YFvJs?;eU"
 zF0fNtRJcgNcs1C
 kG75k4WQ"XqvtsJD,D
 !9C!4RyS5nrYqS6uy21q
 
-1064
+554
 00:14:22,750 --> 00:14:22,800
 CAPTAIN KOBY
-
-1065
-00:14:22,750 --> 00:14:22,800
 Fu3;Z1eiJDPY9gycm!
 ;L9YfX7t"'g9M'e
 dWAAiAH5FjlaqJFJa!
 fTl.Ep"evkppHtcXX:I!
-
-1066
-00:14:22,750 --> 00:14:22,800
 s!cTnn"bjZwGv'0HKp
 pH6:TOHCHUUod,Q
 MxOTmaiPNOqJxXP3Af
 ard':2jJ'E;,OxfK'xac
 
-1067
+555
 00:14:22,800 --> 00:14:22,840
 CAPTAIN KOBY
-
-1068
-00:14:22,800 --> 00:14:22,840
 E:q,mC:ST'Q;RTzcZ!
 Y"V0wqhBDv;ofXA
 q0FjD8eG,2TI18jJH!
 BmF:jHaKk2I'jBYOfiM!
-
-1069
-00:14:22,800 --> 00:14:22,840
 PSMKv6BDgUsbjtoHIv
 s2GKQuSYhYw8CHb
 l1ZUt3P6kDou.xQoLo
 7v'6BwD"wQQ.q"d;Vz7k
 
-1070
+556
 00:14:22,840 --> 00:14:22,920
 CAPTAIN KOBY
 
-1071
+557
 00:14:22,840 --> 00:14:22,880
 E!Of54Rv'6p4OBW7Z!
 PiFowj37oYnGodP
 Ee8Refw3CQw?6y3ZY!
 3I9kxVmk'"Z:1u0Wa6c!
-
-1072
-00:14:22,840 --> 00:14:22,880
 8Z.QNHmTXlUAge5jj.
 6x,CX6:9DRVmhlo
 g1"BE6peWULgf:tngF
 RmJLb7xCyZQCaDYDw4oX
 
-1073
+558
 00:14:22,880 --> 00:14:22,920
 3b,j9Yt9Qqzs2RF0g!
 !5H'k7akChat2Uq
 y82ZMQQIugV;77D9W!
 jsg2!rtWJwk9'8DKc6F!
-
-1074
-00:14:22,880 --> 00:14:22,920
 RI2utz!cH99eUNBaQF
 :!q8B20zxwcL0qU
 wcQ9u"wzkthBj1kIPb
 hK5fH1DXi,"SymYP9TPx
 
-1075
+559
 00:14:22,920 --> 00:14:23,000
 CAPTAIN KOBY
 
-1076
+560
 00:14:22,920 --> 00:14:22,960
 ?TQkaYuy7DuXWmBsp!
 dP,fqLrkWgL'jsd
 9OVJY7ASmIGg7FvBH!
 YJ;HP5q!0t4Gsqj"RqB!
-
-1077
-00:14:22,920 --> 00:14:22,960
 ,88'go36WZo94:T5R5
 DQLZmHo8zVik,3V
 SoTqHzUS,tm"sNwme'
 tCC4t6M?9B2;H78u9RBO
 
-1078
+561
 00:14:22,960 --> 00:14:23,000
 ?liFf1N8'wf'IqYuC!
 cIJLm:CI9SPEqWA
 J?xqgni:'9HDHm:S2!
 uh1xJyMzcfRGhY7ox8K!
-
-1079
-00:14:22,960 --> 00:14:23,000
 Sw9kCjNO7Ku5n;VFGw
 xO2,KH,nFC"h;gX
 ymzlpdQeLLa7gOFzbb
 5anZIkJ59a2fWM5Z"7zb
 
-1080
+562
 00:14:23,000 --> 00:14:23,050
 CAPTAIN KOBY
-
-1081
-00:14:23,000 --> 00:14:23,050
 1v;gpwXLJc0ebypD0!
 YncWdxtm5:2ht1p
 I;XNO;6"U";gy!75R!
 yo'.YU4'm?MIOxOhkap!
-
-1082
-00:14:23,000 --> 00:14:23,050
 MNJV0Hu?EPyUr66n0n
 o'3FB06i:'VJdMi
 a,:NONJ6ZE3HO.t0ic
 QO7s;g?D!.6ZD5'.uQUd
 
-1083
+563
 00:14:23,050 --> 00:14:23,090
 CAPTAIN KOBY
-
-1084
-00:14:23,050 --> 00:14:23,090
 Eykp.fcystFt,QREg!
 fSlwzQW5;oAQ;7m
 sHjOk2m5WoP;1EHGr!
 dhs!Y?,jXDf9.tbzNGb!
-
-1085
-00:14:23,050 --> 00:14:23,090
 TRjzX?rhq;,waiaKdY
 rV:2xC,46m,Eh9c
 ui.gH'CG"kl8NdgJb8
 l2CSkvoCynk1H"LoNpi?
 
-1086
+564
 00:14:23,090 --> 00:14:23,130
 CAPTAIN KOBY
-
-1087
-00:14:23,090 --> 00:14:23,130
 3xb5ElZNM1wHjAKj8!
 fF6T!75Tsp6'Nnz
 F1LKg'RvtV9VS667c!
 B'Jx?3uZAgnWrPEPw3z!
-
-1088
-00:14:23,090 --> 00:14:23,130
 Qo3x7"GNqZnEMXpoPW
 8Jqj87:XG2,EN5F
 FZYOYeKfEt,qXxd,7L
 c":Cjc'GKIUqAm3:2!vz
 
-1089
+565
 00:14:23,130 --> 00:14:23,170
 CAPTAIN KOBY
-
-1090
-00:14:23,130 --> 00:14:23,170
 !JzkxJ2Z'lx,l3at?!
 Ad5jBDaBYKJZkLq
 6SJ4FN90nPI:eZ4.R!
 Ia"SgO9xUJdxe4IHIEj!
-
-1091
-00:14:23,130 --> 00:14:23,170
 2zlkCs;0.M;07g2nYM
 R?DDL,VMEEh8:8t
 J3aYDN;;pYLE7gb"dN
 Qou69c?wQ8A"AJ0FrLlE
 
-1092
+566
 00:14:23,170 --> 00:14:23,210
 CAPTAIN KOBY
-
-1093
-00:14:23,170 --> 00:14:23,210
 Yd,;a4zaMA.yWZ6zb!
 7IHklLYLrmA,aJC
 zZ93.7vfNWu5Doa4r!
 0ySZTAMdJpT18SL'r0w!
-
-1094
-00:14:23,170 --> 00:14:23,210
 EtRC5,5?iFdcE,YvQn
 !eBuYJct'9WiNKH
 J8PKKL;!NiGvLVR8GS
 l:xbb"ArA99rp"sh8XvK
 
-1095
+567
 00:14:23,210 --> 00:14:23,250
 CAPTAIN KOBY
-
-1096
-00:14:23,210 --> 00:14:23,250
 nDzsH"mHU1pHJMxar!
 5dhkKrAAmYa6WhP
 "zlG:vfhFI80worV0!
 GFec2fRWeS3ebXnSRsV!
-
-1097
-00:14:23,210 --> 00:14:23,250
 gQUDfYD6Yf,et6vGLt
 Igr7ODJHE80qcQU
 Wb3aOAKa1mMzm'gar4
 w3Ey1Y.oDg2i5NUNjOgF
 
-1098
+568
 00:14:23,250 --> 00:14:23,300
 CAPTAIN KOBY
-
-1099
-00:14:23,250 --> 00:14:23,300
 ThJ'T6YSu2rembvhA!
 jXnXZ5wS6skstl:
 :.fzSA,3zVwJ,yA'8!
 Elmq?EQqRHmmrh!rJ,d!
-
-1100
-00:14:23,250 --> 00:14:23,300
 "xYq;ZXRng,lLZTjuj
 57npuO,!omepRXP
 C:9qt?LAwUWvGX?bBQ
 ujLtmpzsqw"5HzVsMcBo
 
-1101
+569
 00:14:23,300 --> 00:14:23,340
 CAPTAIN KOBY
-
-1102
-00:14:23,300 --> 00:14:23,340
 MSd6T:VK,oMhRGEN1!
 c"wgbTUh'fo!;Px
 6b1fssF!Cw1u,Ly't!
 aQLH8vW:M"ZKU50aF6e!
-
-1103
-00:14:23,300 --> 00:14:23,340
 b4ecbj4XboNUoQiNzT
 b5Ugh0,gtTg;ukj
 s'XQeTY:dZ44KkEIEt
 sP01k6A"3nFJudHe?aet
 
-1104
+570
 00:14:23,340 --> 00:14:23,380
 CAPTAIN KOBY
-
-1105
-00:14:23,340 --> 00:14:23,380
 NjPim!efvKZ"D,R9J!
 3daE34z"L5I;tOV
 P6CUMtYyHlncx?O:W!
 .fA,t88;kd3Q5KBHc,h!
-
-1106
-00:14:23,340 --> 00:14:23,380
 Ng',k.Ool?bw5USARj
 wcqRwZm;?O?RyZE
 0x:f'Gcl,Qa!kkXBcS
 DNtQ?EteeNCaP7pbno1s
 
-1107
+571
 00:14:23,380 --> 00:14:23,420
 CAPTAIN KOBY
-
-1108
-00:14:23,380 --> 00:14:23,420
 M,ejjNLEyprOVHv8k!
 H172a1cIIwxCBg8
 RyDu9WAD.N!Wwgz7t!
 RFEQ?4KmPRfzv9Mv5x1!
-
-1109
-00:14:23,380 --> 00:14:23,420
 LhCW2NsKAXgs:7zyW9
 vi'cK4kG,;3iig;
 qateZNOOVNnckLarc6
 7BXc;w7x;c3gwkT?k6!6
 
-1110
+572
 00:14:23,420 --> 00:14:23,460
 CAPTAIN KOBY
-
-1111
-00:14:23,420 --> 00:14:23,460
 G47uSxEzv8SjMBpup!
 lUHI,Nm,G06A2mm
 JFzIrwB.K0R!n80TK!
 OOmSLGtPncDMN9sNXRe!
-
-1112
-00:14:23,420 --> 00:14:23,460
 ki3fwZ03;A3yKJNyrJ
 xlLfVNYE9Tv;B!'
 hF.e!A,j5g7ECiZNzL
 f,GXu!;Y80F2NQlNbjal
 
-1113
+573
 00:14:23,460 --> 00:14:23,500
 CAPTAIN KOBY
-
-1114
-00:14:23,460 --> 00:14:23,500
 FSpsq!mIVPsaMwo'M!
 UYX8DITvVr7YAWE
 JNTKQWSGWrTNZrPP7!
 29rhjmx'8"qK'uvtemW!
-
-1115
-00:14:23,460 --> 00:14:23,500
 u8jR.zGl;Rjz35"!AR
 .nvf49QEm22Ia.q
 aNYjE.4d8l3N152.4j
 2REdd'Ue3Ya9bmIoM6;U
 
-1116
+574
 00:14:23,500 --> 00:14:23,550
 CAPTAIN KOBY
-
-1117
-00:14:23,500 --> 00:14:23,550
 krL5n!,.,ojMhQpcT!
 ,?9kTsqyRqxOD1u
 M4V3a6kJT5dF6v3KF!
 sHegPmud4yJ'tCfRW3l!
-
-1118
-00:14:23,500 --> 00:14:23,550
 2'fOZV"'asjK;Hk8RL
 Z;;za924;OaeM8J
 MiwWOYQF3Wb:GC,loS
 6tUctAwYvNFNrMEmpj;e
 
-1119
+575
 00:14:23,550 --> 00:14:23,590
 CAPTAIN KOBY
-
-1120
-00:14:23,550 --> 00:14:23,590
 4VK87nO';Sx63r6oZ!
 cclNV;RJM7j7:;l
 YZYtCdBgfr!13AjRY!
 N.ZI1vw;mtIzvhHJRXF!
-
-1121
-00:14:23,550 --> 00:14:23,590
 p7m,Dkx7T6U"bRA,l5
 "aZNf?lYyZUdXeu
 !a8n"qt?!:giC7rDsZ
 Np0hy;FD4eCXMp!qLKeC
 
-1122
+576
 00:14:23,590 --> 00:14:23,630
 CAPTAIN KOBY
-
-1123
-00:14:23,590 --> 00:14:23,630
 AN5bnk??bWdTcb?dL!
 i3U;VwyryC0g2IN
 jNREAoTSwMSgO2JXA!
 WwsYfPbq;'mrJsNNFL;!
-
-1124
-00:14:23,590 --> 00:14:23,630
 1N.kgyiKXgyEJecMHX
 C1wSdgsy6Bt,::N
 rNn!Q4Wzq8YR6kEa4M
 qjjfEyeAzab.zXNNdpUJ
 
-1125
+577
 00:14:23,630 --> 00:14:23,670
 CAPTAIN KOBY
-
-1126
-00:14:23,630 --> 00:14:23,670
 EB"WMmGgrNHC.DDVO!
 kWjg?Uw"xXP1EOi
 0OIq'fxMUfB?VWEJ:!
 :W.mch.WnFQ"AXTLOD;!
-
-1127
-00:14:23,630 --> 00:14:23,670
 G!2jiAx9gNJ?4vvnRT
 CEi9kl'M4Pp8X'L
 0GGtZqHbAq8;ss6z'A
 rtC5ia0?F9"83.WIalOq
 
-1128
+578
 00:14:23,670 --> 00:14:23,710
 CAPTAIN KOBY
-
-1129
-00:14:23,670 --> 00:14:23,710
 ?tnE;Q.KOh?Ulgy"N!
 X,i6mJM2b"'Mjyy
 l0xtPB!!HZQk0PATh!
 Prl7Ng'GCFpaq6fVgtd!
-
-1130
-00:14:23,670 --> 00:14:23,710
 8'Sno8jWtA9:6LjqNX
 ZHClrPqS0tFhbx'
 hWFSudIGor8sJ4kGYe
 'z2iNl?l62caK:Jz7o0k
 
-1131
+579
 00:14:23,710 --> 00:14:23,800
 CAPTAIN KOBY
 
-1132
+580
 00:14:23,710 --> 00:14:23,750
 8?W0:7E?b:OC:S3cO!
 okD,tMym7pHbY:F
 UxfjUfSDGIoAk'S:k!
 sIf.Oy8kMQPbG'XnG,Z!
-
-1133
-00:14:23,710 --> 00:14:23,750
 bHmDMXIamFsQuv7!EJ
 hQbS32uKkJDjIFO
 uLJVAqwkV6mI1AbKRL
 VCcIUMvOJgnxq9JoHVvm
 
-1134
+581
 00:14:23,750 --> 00:14:23,800
 cEawBHQYcCdZ!8,FR!
 Sw3f9"!eHd6k23d
 z3"pSMPoDiCG0kcb4!
 g;"lfXMivh;BAKEGhs!!
-
-1135
-00:14:23,750 --> 00:14:23,800
 LXotLRY76ilI3wwuHh
 O'p'3:n7MQq7SSy
 z0M,RzCmvJ.hqwlP!e
 LuGcccfj8CCBhoUYu'ja
 
-1136
+582
 00:14:23,800 --> 00:14:23,840
 CAPTAIN KOBY
-
-1137
-00:14:23,800 --> 00:14:23,840
 Tsga9Nm2T3OF8hz.x!
 :zZcvf2i!DrnpFR
 ysQ0MxIt5Dncc!izf!
 OQWdv0MSuVKmaKRLAJ9!
-
-1138
-00:14:23,800 --> 00:14:23,840
 SiggzNYWk05!C.3N8n
 !x2DRDty56Q4Sp4
 FFp;2be3Fu;BD,z;iq
 Sgx"WiZzjDimawHwwc3X
 
-1139
+583
 00:14:23,840 --> 00:14:23,880
 CAPTAIN KOBY
-
-1140
-00:14:23,840 --> 00:14:23,880
 5MvPfTybErczV?mSg!
 sLimqnZK'sdSe:n
 N0ln5pd1HGJKxTI?Z!
 e:IYb?Qs;:iwp:7tGFU!
-
-1141
-00:14:23,840 --> 00:14:23,880
 QX0g"bLZ"oZz5zPeKq
 rp!ad5Tmqnx02UM
 NJB66LsOAPRm"Y01Ss
 b1R:,d:kB!mq398FtrRq
 
-1142
+584
 00:14:23,880 --> 00:14:23,920
 CAPTAIN KOBY
-
-1143
-00:14:23,880 --> 00:14:23,920
 fAwDWqhVOlUPCW"zw!
 K'sO0f1b!G4Obja
 8mixN7P,j9,si77.U!
 O'!cQ;ntmP;GJR0PKs'!
-
-1144
-00:14:23,880 --> 00:14:23,920
 bIoc?3WCuFbBeKSV3W
 ,qehL:e'Q:1kXuL
 d0yfNJNvxEYTS1vmxn
 gDUPro:0C1.zYiCQXW4G
 
-1145
+585
 00:14:23,920 --> 00:14:24,000
 CAPTAIN KOBY
 
-1146
+586
 00:14:23,920 --> 00:14:23,960
 CiS4HmxlxDXWygVoS!
 'gRCnSP.wSXUveK
 4!7"H,qMR7H"BZWS7!
 KyzsaEtmZLn'EnvSXqd!
-
-1147
-00:14:23,920 --> 00:14:23,960
 4nH2.Yj?R3IAdk"NGX
 QHKsHI2Jo.q8rlY
 HeLFNtxKG.,b8BFcCb
 CKGUrvvq?UbJAL:2yKgb
 
-1148
+587
 00:14:23,960 --> 00:14:24,000
 ?kSCy7YfSYE8WowXv!
 eDdKMvXZ1:sCO!?
 I5;8G?d?8n2e;s'Dk!
 'jlReM;6:OB!44DDpMW!
-
-1149
-00:14:23,960 --> 00:14:24,000
 4di4,,R3wsBFiZm.6c
 Y0m6;QoMdGUX3Yg
 fhokD6fcXnYp!htCWp
 xvf;VjtsZyKysW?Oqnww
 
-1150
+588
 00:14:24,000 --> 00:14:24,090
 CAPTAIN KOBY
 
-1151
+589
 00:14:24,000 --> 00:14:24,050
 Rxv,A:'fBdrOgXoka!
 hAbuofBR;6Yipmy
 ,B:U6QciSkphFBPSm!
 NqhAmvkFovgZ"FRyd4Y!
-
-1152
-00:14:24,000 --> 00:14:24,050
 LOqRjZ0zqwu3O0YBEb
 p:VU2kU!3;SqUQ6
 8puT9RhDot8u5k58Lq
 NnGD3C0RJeF;'bbti?tz
 
-1153
+590
 00:14:24,050 --> 00:14:24,090
 UOEljmqeQxy5IY!vB!
 F0"SR?9O8G0H?AZ
 ?23?pbs:VhGHR9atM!
 ihpfbnYa"aGLUL,.l'I!
-
-1154
-00:14:24,050 --> 00:14:24,090
 lyVrlPVqgV0Feurd1z
 6?Ut2veKRBrsy;G
 sVBROFLIS!d;;sAccm
 W3DFnAbZnx7LF.uoT2m3
 
-1155
+591
 00:14:24,090 --> 00:14:24,130
 CAPTAIN KOBY
-
-1156
-00:14:24,090 --> 00:14:24,130
 il"dYfK'5wV6dVsXy!
 wQMpuuWGxu6"Vql
 Tm'5Io!N;AYv4e.6g!
 A.oi6:YrC4JTIx8Qhau!
-
-1157
-00:14:24,090 --> 00:14:24,130
 Cj:mVzstGWvyDYoZo;
 IrSz.g.mvftgO!x
 ?RQWZ,BNqP2pODEotM
 Ik,59foeOqgAxZO!zYS'
 
-1158
+592
 00:14:24,130 --> 00:14:24,170
 CAPTAIN KOBY
-
-1159
-00:14:24,130 --> 00:14:24,170
 TcnNAVDhvD0Izy7pu!
 39mV"oXEEWsvmAt
 f5hRrAP8YeMQotWGO!
 .rBjmziB7rRvLeAP?yi!
-
-1160
-00:14:24,130 --> 00:14:24,170
 C?,NxOEXhaCeE7Qbk4
 5.s5q6:Vp1.oMYd
 Ivyltq"YDBPATj'55w
 vKX,NiHMTINVnRppn,Ak
 
-1161
+593
 00:14:24,170 --> 00:14:24,210
 CAPTAIN KOBY
-
-1162
-00:14:24,170 --> 00:14:24,210
 f:ifSIPUKqEeeMCCR!
 5un"aXGP0TZ"Omh
 rJ4,tn98m?wAdA?X'!
 W,FG3,F0i!Bo?"mz;Z?!
-
-1163
-00:14:24,170 --> 00:14:24,210
 sYl;3a;Rsmig840Km2
 Yidi6Myw:?1UtQd
 SwSPNR'JMQ10qKfQUz
 8dPis:5'!:""sWjFPih1
 
-1164
+594
 00:14:24,210 --> 00:14:24,250
 CAPTAIN KOBY
-
-1165
-00:14:24,210 --> 00:14:24,250
 4jUPau;IN9ONLqZhu!
 0oXcSLdR?sTdR0u
 pw"D5awVveVV2mqoV!
 U;zOy"nn;gLgs:?xyq!!
-
-1166
-00:14:24,210 --> 00:14:24,250
 gi,aCo36NmeNZ48KS3
 9w8w6jQvmm!w!Tk
 15WaWlX;RbBO45:GfZ
 v:GmK6ISgmPyvJL4lZEN
 
-1167
+595
 00:14:24,250 --> 00:14:24,340
 CAPTAIN KOBY
 
-1168
+596
 00:14:24,250 --> 00:14:24,300
 ,;tmjv9LgfzamVpPo!
 C2Kjkz3RJ?3;FQh
 U3JpWXw!WrKtlQG4d!
 LWWryL747YG,ZskX4wq!
-
-1169
-00:14:24,250 --> 00:14:24,300
 O:Ze;03iT4rxI0agCo
 GIeAZD66qivRQ1S
 74F5f2:y,mIkkP6rMI
 ,Qc:7xDiKJgLWmk;o1w7
 
-1170
+597
 00:14:24,300 --> 00:14:24,340
 hJIi.7zF5jMiQ4::;!
 ,Grrp1kY7ITEJCm
 I"d0rS7AImbTHc;:I!
 6?tKw8Wsgr:!d7P1elP!
-
-1171
-00:14:24,300 --> 00:14:24,340
 1Ul4OKe.EzGAhuFxBE
 tg"fp;Lo6PxkAGL
 pfbWfOX:9"VQ:0CwCE
 o'yViT;5gB9hLJt'0J03
 
-1172
+598
 00:14:24,340 --> 00:14:24,380
 CAPTAIN KOBY
-
-1173
-00:14:24,340 --> 00:14:24,380
 D2JcJvGOPYuvS;vJ1!
 'iu6zNvtCd?G:26
 o6'zAGo:.upeX;Vod!
 4'3rX8fbHFufyBvAr5!!
-
-1174
-00:14:24,340 --> 00:14:24,380
 O?ihpNx'puLK7aR33T
 oMjywN0h:J4PWpx
 87!t:46JX,Z0ClFGjq
 0XhbwIvVnlta8xh?6,Je
 
-1175
+599
 00:14:24,380 --> 00:14:24,420
 CAPTAIN KOBY
-
-1176
-00:14:24,380 --> 00:14:24,420
 ;JsPrgzQLoEpYktRS!
 2Gsd!mKU!NOxR'g
 yYH'Z,ac'N?E7!6fW!
 :0NdRcc5z,PG3,oHf1c!
-
-1177
-00:14:24,380 --> 00:14:24,420
 oTPIaAUGVbUv,c!gDo
 ZB45Jt0,2N1qt4K
 nRoA8'wnaNe"G9lJOW
 MoN:JiKdpBRef79gbovx
 
-1178
+600
 00:14:24,420 --> 00:14:24,460
 CAPTAIN KOBY
-
-1179
-00:14:24,420 --> 00:14:24,460
 P"VQLhw93fX'eYiTv!
 :;y6fdk4?'8Rt;S
 1Ho.HYPaD7NvMw85O!
 yhQf3Qk"L4ThD5jK?Z9!
-
-1180
-00:14:24,420 --> 00:14:24,460
 ctqthYzgtp7z9id?CI
 wuz0:H92!2AIjYf
 CtBUYKwGQ6NY"sdiWm
 ;GOi1JFf7sIHfDksYKjK
 
-1181
+601
 00:14:24,460 --> 00:14:24,510
 CAPTAIN KOBY
-
-1182
-00:14:24,460 --> 00:14:24,510
 ZRkEnSELaNLUsn:yc!
 65tjlqZ'Nn5oZDi
 y,jX:e0C:r9k2F3E,!
 y,5n1AbJHuVXkn?8k,V!
-
-1183
-00:14:24,460 --> 00:14:24,510
 4Zq54E?NdNjrFAKZxf
 ?OdhW9KCN1fAHk9
 P'ywv"o::u99vs2myJ
 uEKy"O.n4xdIUIZ6yz0X
 
-1184
+602
 00:14:24,510 --> 00:14:24,550
 CAPTAIN KOBY
-
-1185
-00:14:24,510 --> 00:14:24,550
 757VYYgHwhK'7"Ydz!
 U0oA'GqXsFA?Sg:
 ,.8dhOmPY'5KpfD8X!
 YZK0FIHxr6f4GbyDMj0!
-
-1186
-00:14:24,510 --> 00:14:24,550
 mXYYx0wTaSl'C1Wt?X
 tUNNuOx"jw1J2Vk
 qFUhRWMy"e7BZOzdlZ
 FQ?28IEaSBVyOV'ZQUnO
 
-1187
+603
 00:14:24,550 --> 00:14:24,590
 CAPTAIN KOBY
-
-1188
-00:14:24,550 --> 00:14:24,590
 WmnapchKA0ov35RRK!
 OxC"QnHJuh0ua9P
 .1PrDDl3sTI'ZEj8?!
 ;FlmsIlJBX;29I748F!!
-
-1189
-00:14:24,550 --> 00:14:24,590
 jSec9O:ulz'27gx6N4
 7jTGfq84Y8rTtIp
 NDA1bdoDjqR1n"eC,a
 .smGn0T;;r!ZbsFcYbDC
 
-1190
+604
 00:14:24,590 --> 00:14:24,630
 CAPTAIN KOBY
-
-1191
-00:14:24,590 --> 00:14:24,630
 R1c9fSQW:d6hdB:?x!
 JGERbLUXVblT;zd
 T,V'LGYV,60U9zMPH!
 s,G?d0ZzXmxJwwu:k;G!
-
-1192
-00:14:24,590 --> 00:14:24,630
 SrJtFX!B7;8;eqS5M9
 U1YCB"V05Edxq.R
 jsXcZdt!CTWwLuVoBv
 hhxQV5"!wEJWHAw..r7e
 
-1193
+605
 00:14:24,630 --> 00:14:24,670
 CAPTAIN KOBY
-
-1194
-00:14:24,630 --> 00:14:24,670
 sDsCUsalmvv3p?GSD!
 1PLLVGkNcledxc,
 !L,2Z2TeDO:BUHfzu!
 tG81jMnn0eexGAiBdBh!
-
-1195
-00:14:24,630 --> 00:14:24,670
 8GTn"7r1iTBZweZx3c
 czr.rgUN3.dn.Zc
 8TS?,.KpLcdtYtMYDK
 hOxYn7'mYmqun2xcrken
 
-1196
+606
 00:14:24,670 --> 00:14:24,710
 CAPTAIN KOBY
-
-1197
-00:14:24,670 --> 00:14:24,710
 WKpHgEE6JY,SjWGZ4!
 Z.nwqmdGnO'A1EW
 m9lXl;AbqevNzKmjC!
 t,k5Kaka.WzMCYqlQb9!
-
-1198
-00:14:24,670 --> 00:14:24,710
 oJq:xwC1aQ2TK,Hg"X
 'so4EwZV9b2fCVo
 b,VQh6L?eCDNOOirfY
 76ny'X;aKIZO8kS8bA73
 
-1199
+607
 00:14:24,710 --> 00:14:24,760
 CAPTAIN KOBY
-
-1200
-00:14:24,710 --> 00:14:24,760
 vBdinl!YVKUT?74Z?!
 .:h,vyRd2XAD,:,
 o8'HqEs,tcFzfaV9Z!
 kIhVeuNRpRKjCI"wATl!
-
-1201
-00:14:24,710 --> 00:14:24,760
 T"b";Hep3!ZSnEYxpH
 ,"B4jVwwZvm6D0z
 6zVz?UBX58kp:WFoeB
 8v0NSuNTqR7WhNPR2SDc
 
-1202
+608
 00:14:24,760 --> 00:14:24,800
 CAPTAIN KOBY
-
-1203
-00:14:24,760 --> 00:14:24,800
 wyumIOLFOTpcQnWcp!
 :iv,sGeqMku'UUs
 ",vWZWCN0ebdIWtrC!
 3l?6lNDx2ohLSoAOs'7!
-
-1204
-00:14:24,760 --> 00:14:24,800
 9TcMCh4p;4CzxiMDch
 5Vs6;lgUfL!q0fY
 5AK!S8fNV75UqasW?A
 NIOkLN.RhNMzcq9"!tgw
 
-1205
+609
 00:14:24,800 --> 00:14:24,840
 CAPTAIN KOBY
-
-1206
-00:14:24,800 --> 00:14:24,840
 Q;7:Pbgs,VQCA51P!!
 xi0dW:FXX,bUX4G
 Ac3Y,UXRjxuH"CZNn!
 OTMWaQP:kGB.cKB;nHh!
-
-1207
-00:14:24,800 --> 00:14:24,840
 KV:p0Ud2s2wy?86InS
 JBGkE93mYH4hJMa
 uRIhFygqEn.r3coN2v
 fKLCS1K9gUeIod'3yNAb
 
-1208
+610
 00:14:24,840 --> 00:14:24,880
 CAPTAIN KOBY
-
-1209
-00:14:24,840 --> 00:14:24,880
 GbnGvLLy!IhstYlV3!
 EgVmwRyVvR"5lr5
 ;aio:JfMVzq0mTyxO!
 8fQQb'6rV5dVkXn9:RX!
-
-1210
-00:14:24,840 --> 00:14:24,880
 sh0q.g1SRJi80nQd!K
 WXc67ux4I7GBjBh
 NDmUc.5b7Kb;HCV8tI
 'K0YahukEM5!tdlpJXop
 
-1211
+611
 00:14:24,880 --> 00:14:24,920
 CAPTAIN KOBY
-
-1212
-00:14:24,880 --> 00:14:24,920
 BGzp"Of?Zt84WADpV!
 sQQzM:nJWMurksU
 MQ2,mV!9fLVCeU5En!
 nTUU6KcELxBdfK5rKl4!
-
-1213
-00:14:24,880 --> 00:14:24,920
 rvy3;cp8TTqyVy7S5H
 UxetAZt7Z"gGNwJ
 eX!H8niq!qovDtG0nm
 SdeFWKSE?kyunJgAue8N
 
-1214
+612
 00:14:24,920 --> 00:14:24,960
 CAPTAIN KOBY
-
-1215
-00:14:24,920 --> 00:14:24,960
 LOellIyujq3OC8"Py!
 1ZWR'7"3SzZWGN!
 apw5iVV:.hNSC2ITc!
 T0QvQD"jP'j8?8l4UQ3!
-
-1216
-00:14:24,920 --> 00:14:24,960
 aiYjSbrug;BoX!dsc2
 L7SrOpD;j"9XUNL
 bDlYV'J'ANN62?wQUI
 hCfBRXrFZYRX!sX'bZmM
 
-1217
+613
 00:14:24,960 --> 00:14:25,010
 CAPTAIN KOBY
-
-1218
-00:14:24,960 --> 00:14:25,010
 N2W;N1sV?NGFJHojF!
 8QVMeNji;cpf"a;
 zFpzCE5uVRz6OLUFw!
 ;zbCmfF!C3l!y2.QOTG!
-
-1219
-00:14:24,960 --> 00:14:25,010
 NR6ZN6"zaNdy"KUBmb
 e"HANNNvImvq'Qu
 i"U2Ewv:LTBY7G8lvP
 U,lCO.RgjbrZeUi6!qda
 
-1220
+614
 00:14:25,010 --> 00:14:25,050
 CAPTAIN KOBY
-
-1221
-00:14:25,010 --> 00:14:25,050
 ?8!a3o.CvqT;m,!0s!
 RrXa57bCkMRZ2hb
 9h8hxtYEkxKfuDRZS!
 H,D96lJ?E2G16XEd!Ju!
-
-1222
-00:14:25,010 --> 00:14:25,050
 xAajs?oK6c:nx5BUdk
 xB7IGzj:nVciOuy
 040gezB2gr5Brp"3?V
 kgO4"3Q3BLFV"2ik!GhC
 
-1223
+615
 00:14:25,050 --> 00:14:25,090
 CAPTAIN KOBY
-
-1224
-00:14:25,050 --> 00:14:25,090
 KJ9euM1w?xSJy3a8;!
 nTM6.4mv2kg;77'
 QF:dDfXqA5bOhySh,!
 KrVzso,B7WBIP!zJdzb!
-
-1225
-00:14:25,050 --> 00:14:25,090
 Wy?;K!,9MGZdpw;3uv
 s"6nUfYG9763LZh
 xtrE7;.hefHa838am;
 5Afof:VpM4Y7vGgrMw'l
 
-1226
+616
 00:14:25,090 --> 00:14:27,760
 There's no way that's true!
 
-1227
+617
 00:14:27,760 --> 00:14:30,430
 He would never kill Vivi's dad!
 
-1228
+618
 00:14:33,020 --> 00:14:36,690
 Sabo would never do something like that!
 
-1229
+619
 00:14:37,310 --> 00:14:38,480
 Of course.
 
-1230
+620
 00:14:38,750 --> 00:14:40,860
 I agree with you.
 
-1231
+621
 00:14:40,860 --> 00:14:44,240
 The Revolutionary Army's
 enemies are the world nobles.
 
-1232
+622
 00:14:44,240 --> 00:14:46,200
 Not the kings!
 
-1233
+623
 00:14:46,530 --> 00:14:50,330
 "Revolutionary Army Declares
 War on Celestial Dragons"...
 
-1234
+624
 00:14:50,330 --> 00:14:55,670
 "Chief of Staff Sabo Assassinates
 King Cobra of Alabasta"?!
 
-1235
+625
 00:14:55,670 --> 00:15:00,380
 "Disappearance of Alabasta's
 Royal Daughter, Princess Vivi"?!
 
-1236
+626
 00:15:01,800 --> 00:15:05,010
 Where are you and how are
 you feeling, my darling Vivi?!
 
-1237
+627
 00:15:05,010 --> 00:15:07,390
 Please be safe!
 
-1238
+628
 00:15:07,800 --> 00:15:09,930
 Set sail for Alabasta!
 
-1239
+629
 00:15:09,930 --> 00:15:10,970
 Now!
 
-1240
+630
 00:15:10,970 --> 00:15:14,180
 King Cobra is already dead.
 
-1241
+631
 00:15:14,180 --> 00:15:15,850
 What would be the point?
 
-1242
+632
 00:15:15,850 --> 00:15:19,820
 And Vivi disappeared in
 Mary Geoise, of all places.
 
-1243
+633
 00:15:19,820 --> 00:15:21,020
 Then...
 
-1244
+634
 00:15:21,440 --> 00:15:22,990
 we're going to Mary Geoise!
 
-1245
+635
 00:15:22,990 --> 00:15:23,690
 What?
 
-1246
+636
 00:15:23,690 --> 00:15:26,820
 What?! Are they going to Mary Geoise?
 
-1247
+637
 00:15:26,820 --> 00:15:28,780
 I'm in trouble...
 
-1248
+638
 00:15:28,780 --> 00:15:31,080
 I can't really hear them!
 
-1249
+639
 00:15:33,660 --> 00:15:36,210
 That's our enemies' stronghold, idiot!
 
-1250
+640
 00:15:36,210 --> 00:15:38,630
 Do you plan to take on Marine Headquarters?!
 
-1251
+641
 00:15:38,630 --> 00:15:39,840
 Damn right!
 
-1252
+642
 00:15:39,840 --> 00:15:42,550
 What, are you scared, Zoro?!
 
-1253
+643
 00:15:42,550 --> 00:15:44,880
 I'm just saying we have no leads!
 
-1254
+644
 00:15:44,880 --> 00:15:46,260
 Calm down!
 
-1255
+645
 00:15:48,260 --> 00:15:51,220
 Vivi's father is dead?!
 
-1256
+646
 00:15:51,720 --> 00:15:56,640
 He was so nice to us
 even though we're pirates...!
 
-1257
+647
 00:15:57,390 --> 00:16:00,110
 I'd like to thank you...
 
-1258
+648
 00:16:00,610 --> 00:16:05,820
 from the bottom of my heart as a father
 and as a resident of this land.
 
-1259
+649
 00:16:07,360 --> 00:16:09,160
 Thank you very much.
 
-1260
+650
 00:16:13,120 --> 00:16:17,000
 Yeah! No other king is that kind!
 
-1261
+651
 00:16:17,000 --> 00:16:19,210
 Vivi!
 
-1262
+652
 00:16:19,540 --> 00:16:21,380
 I'm so worried!
 
-1263
+653
 00:16:21,380 --> 00:16:23,380
 This must be so hard for her!
 
-1264
+654
 00:16:23,380 --> 00:16:24,840
 I can't help but worry!
 
-1265
+655
 00:16:24,840 --> 00:16:27,010
 Vivi!
 
-1266
+656
 00:16:27,010 --> 00:16:29,340
 – Vivi!
 – Vivi!
 
-1267
+657
 00:16:29,340 --> 00:16:33,720
 It seems like the last Reverie
 was quite tumultuous.
 
-1268
+658
 00:16:33,720 --> 00:16:38,690
 I've never heard a single shady rumor about
 the Kingdom of Alabasta's government.
 
-1269
+659
 00:16:38,690 --> 00:16:43,520
 The Revolutionary Army's
 chief of staff, Sabo...
 
-1270
+660
 00:16:46,940 --> 00:16:51,870
 We met that big brother of yours
 in Dressrosa, didn't we, Luffy?
 
-1271
+661
 00:16:51,870 --> 00:16:54,870
 I can't take it! I'm worried about Vivi!
 
-1272
+662
 00:16:54,870 --> 00:16:56,620
 Where is she?!
 
-1273
+663
 00:16:56,620 --> 00:16:59,620
 Me, too! Alright! Let's go rescue her!
 
-1274
+664
 00:16:59,620 --> 00:17:01,250
 Let's go!
 
-1275
+665
 00:17:01,250 --> 00:17:03,170
 – Yeah!
 – Yeah!
 
-1276
+666
 00:17:03,170 --> 00:17:06,170
 That's enough, you guys!
 
-1277
+667
 00:17:07,630 --> 00:17:08,760
 Luffy!
 
-1278
+668
 00:17:09,220 --> 00:17:10,720
 What did you say...
 
-1279
+669
 00:17:10,720 --> 00:17:13,100
 when Ace was in trouble?
 
-1280
+670
 00:17:17,180 --> 00:17:19,770
 Ace has his own adventures.
 
-1281
+671
 00:17:22,230 --> 00:17:27,110
 You trusted him to pull through
 on his own until he actually needed help.
 
-1282
+672
 00:17:30,070 --> 00:17:32,780
 Are you underestimating Vivi?
 
-1283
+673
 00:17:32,780 --> 00:17:35,240
 She can take care of herself!
 
-1284
+674
 00:17:35,700 --> 00:17:40,290
 When the time comes for us to step in,
 we'll give one hell of a fight!
 
-1285
+675
 00:17:40,870 --> 00:17:43,750
 We can't do anything now,
 so stop making a fuss!
 
-1286
+676
 00:17:46,000 --> 00:17:48,920
 All we can do is make a fuss,
 so let us make a fuss!
 
-1287
+677
 00:17:48,920 --> 00:17:51,130
 This guy's an oni!
 
-1288
+678
 00:17:51,130 --> 00:17:52,680
 You Onigashima!
 
-1289
+679
 00:17:52,680 --> 00:17:54,050
 Green Kaido!
 
-1290
+680
 00:17:54,050 --> 00:17:55,390
 Green Mom!
 
-1291
+681
 00:17:55,390 --> 00:17:56,890
 Shitty Moss Head!
 
-1292
+682
 00:17:56,890 --> 00:17:58,140
 – Boo!
 – Boo!
 
-1293
+683
 00:17:58,470 --> 00:18:01,270
 – Boo! Boo! Boo!
 – Boo! Boo! Boo!
 
-1294
+684
 00:18:01,270 --> 00:18:02,940
 Shut up, number four.
 
-1295
+685
 00:18:03,940 --> 00:18:06,020
 Again with this?!
 
-1296
+686
 00:18:06,020 --> 00:18:09,690
 It's not so easy being above you!
 
-1297
+687
 00:18:11,110 --> 00:18:14,490
 Since when are you above me?!
 
-1298
+688
 00:18:14,490 --> 00:18:18,290
 Always have been and always will be!
 
-1299
+689
 00:18:22,290 --> 00:18:27,090
 While we were in Wano,
 so many incidents have occurred,
 
-1300
+690
 00:18:27,090 --> 00:18:30,260
 and they're developing rapidly...
 
-1301
+691
 00:18:32,260 --> 00:18:34,090
 The abolition of the Warlords...
 
-1302
+692
 00:18:34,550 --> 00:18:37,640
 sent those elite pirates back to sea.
 
-1303
+693
 00:18:38,560 --> 00:18:39,720
 And that led to...
 
-1304
+694
 00:18:41,100 --> 00:18:43,390
 the foundation of Cross Guild,
 
-1305
+695
 00:18:44,560 --> 00:18:48,730
 and Buggy the Bombastic Clown's
 ascension as a new Emperor!
 
-1306
+696
 00:18:49,480 --> 00:18:52,110
 That last one's gotta be a mistake!
 
-1307
+697
 00:18:52,530 --> 00:18:56,990
 Maybe it is and maybe it isn't.
 
-1308
+698
 00:18:59,160 --> 00:19:00,370
 Thanks!
 
-1309
+699
 00:19:00,700 --> 00:19:01,410
 Luffy.
 
-1310
+700
 00:19:03,290 --> 00:19:08,040
 There are a few other names in here
 that have connections to you...
 
-1311
+701
 00:19:08,040 --> 00:19:09,420
 Do you want to hear?
 
-1312
+702
 00:19:12,710 --> 00:19:14,720
 I'll leave it to you.
 
-1313
+703
 00:19:14,720 --> 00:19:16,760
 Just tell me the important ones!
 
-1314
+704
 00:19:17,260 --> 00:19:18,510
 All right.
 
-1315
+705
 00:19:18,510 --> 00:19:19,680
 Let's do that.
 
-1316
+706
 00:19:20,510 --> 00:19:23,020
 You've already got a lot on your mind.
 
-1317
+707
 00:19:28,610 --> 00:19:30,690
 Sabo is innocent!
 
-1318
+708
 00:19:34,360 --> 00:19:35,700
 He...
 
-1319
+709
 00:19:36,110 --> 00:19:38,320
 grew up in a strict home,
 
-1320
+710
 00:19:38,320 --> 00:19:41,160
 so he just wants to set everyone free!
 
-1321
+711
 00:19:45,730 --> 00:19:48,920
 We gotta set out to sea someday!
 
-1322
+712
 00:19:48,920 --> 00:19:52,090
 Let's get out of this country and live free!
 
-1323
+713
 00:19:52,090 --> 00:19:56,630
 I wanna see the world out there
 and write a book about it!
 
-1324
+714
 00:19:56,630 --> 00:19:59,550
 Navigation is the one thing I do love to study!
 
-1325
+715
 00:19:59,550 --> 00:20:02,720
 Let's get even stronger
 and become pirates someday!
 
-1326
+716
 00:20:08,730 --> 00:20:12,400
 That was my plan anyway!
 You don't have to tell me twice!
 
-1327
+717
 00:20:12,400 --> 00:20:18,240
 When I'm a pirate, I'll beat up everyone
 and become the biggest, baddest one of all!
 
-1328
+718
 00:20:18,740 --> 00:20:21,830
 That's how I'll leave my mark on the world!
 
-1329
+719
 00:20:22,660 --> 00:20:28,750
 It doesn't matter if the whole world
 rejects or despises me,
 
-1330
+720
 00:20:28,750 --> 00:20:31,670
 I'll become a great pirate and show them all!
 
-1331
+721
 00:20:32,500 --> 00:20:35,510
 I won't run from anyone!
 I won't lose to anyone!
 
-1332
+722
 00:20:35,510 --> 00:20:40,390
 Whether I'm feared or hated or whatever,
 my name will be known all over!
 
-1333
+723
 00:20:44,850 --> 00:20:46,270
 We made an oath.
 
-1334
+724
 00:20:46,270 --> 00:20:49,310
 The three of us, including Ace!
 
-1335
+725
 00:20:51,770 --> 00:20:53,270
 I got it!
 
-1336
+726
 00:20:53,270 --> 00:20:55,440
 Alright!
 
-1337
+727
 00:20:56,780 --> 00:20:59,360
 I'm gonna...
 
-1338
+728
 00:20:59,740 --> 00:21:01,490
 I'm gonna...
 
-1339
+729
 00:21:09,830 --> 00:21:11,250
 What did you just say?
 
-1340
+730
 00:21:11,250 --> 00:21:12,210
 What?
 
-1341
+731
 00:21:14,130 --> 00:21:16,550
 That's so funny!
 
-1342
+732
 00:21:16,550 --> 00:21:20,340
 Hey! No, no, no... No way!
 
-1343
+733
 00:21:21,260 --> 00:21:22,510
 I love it!
 
-1344
+734
 00:21:22,510 --> 00:21:24,220
 That's great!
 
-1345
+735
 00:21:25,930 --> 00:21:28,390
 Hey, Chopper. Examine his head!
 
-1346
+736
 00:21:30,600 --> 00:21:32,230
 No way!
 
-1347
+737
 00:21:32,230 --> 00:21:34,400
 That's impossible!
 
-1348
+738
 00:21:35,480 --> 00:21:38,320
 Maybe it's possible once
 I'm King of the Pirates!
 
-1349
+739
 00:21:38,320 --> 00:21:41,070
 No one would think something like that...
 
-1350
+740
 00:21:41,740 --> 00:21:42,740
 Huh?
 
-1351
+741
 00:21:42,740 --> 00:21:44,320
 Didn't I tell you?
 
-1352
+742
 00:21:44,740 --> 00:21:45,830
 Any of you?
 
-1353
+743
 00:21:46,410 --> 00:21:50,040
 Well, I don't care if you didn't...
 Because that's impossible!
 
-1354
+744
 00:21:51,250 --> 00:21:55,590
 I guess I only told Shanks, Ace, and Sabo.
 
-1355
+745
 00:21:57,090 --> 00:21:58,840
 What did they say?
 
-1356
+746
 00:21:58,840 --> 00:22:01,010
 They just laughed.
 
-1357
+747
 00:22:02,720 --> 00:22:05,760
 Shanks laughed himself to tears.
 
-1358
+748
 00:22:18,530 --> 00:22:22,570
 That's what I want at the end of my dream.

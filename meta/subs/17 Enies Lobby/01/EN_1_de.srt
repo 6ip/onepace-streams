@@ -1374,1268 +1374,833 @@ Das wirst du schon selbst sehen.
 327
 00:19:37,410 --> 00:19:39,870
 Eisenzaun
-
-328
-00:19:37,410 --> 00:19:39,870
 Haupttor
 
-329
+328
 00:19:37,450 --> 00:19:40,700
 Wenn wir Nico Robin und
 Franky nicht auf direktem Wege
 
-330
+329
 00:19:39,860 --> 00:19:39,900
 Eisenzaun
+Haupttor
+Inseltor
+
+330
+00:19:39,900 --> 00:19:39,950
+Eisenzaun
+Haupttor
+Inseltor
 
 331
-00:19:39,860 --> 00:19:39,900
+00:19:39,950 --> 00:19:39,990
+Eisenzaun
 Haupttor
+Inseltor
 
 332
-00:19:39,860 --> 00:19:39,900
+00:19:39,990 --> 00:19:40,030
+Eisenzaun
+Haupttor
 Inseltor
 
 333
-00:19:39,900 --> 00:19:39,950
+00:19:40,030 --> 00:19:40,070
 Eisenzaun
+Haupttor
+Inseltor
 
 334
-00:19:39,900 --> 00:19:39,950
+00:19:40,070 --> 00:19:40,110
+Eisenzaun
 Haupttor
+Inseltor
 
 335
-00:19:39,900 --> 00:19:39,950
+00:19:40,110 --> 00:19:40,150
+Eisenzaun
+Haupttor
 Inseltor
 
 336
-00:19:39,950 --> 00:19:39,990
+00:19:40,150 --> 00:19:40,200
 Eisenzaun
+Haupttor
+Inseltor
 
 337
-00:19:39,950 --> 00:19:39,990
+00:19:40,200 --> 00:19:40,240
+Eisenzaun
 Haupttor
+Inseltor
 
 338
-00:19:39,950 --> 00:19:39,990
+00:19:40,240 --> 00:19:40,280
+Eisenzaun
+Haupttor
 Inseltor
 
 339
-00:19:39,990 --> 00:19:40,030
+00:19:40,280 --> 00:19:40,320
 Eisenzaun
+Haupttor
+Inseltor
 
 340
-00:19:39,990 --> 00:19:40,030
+00:19:40,320 --> 00:19:40,360
+Eisenzaun
 Haupttor
+Inseltor
 
 341
-00:19:39,990 --> 00:19:40,030
+00:19:40,360 --> 00:19:40,400
+Eisenzaun
+Haupttor
 Inseltor
 
 342
-00:19:40,030 --> 00:19:40,070
+00:19:40,400 --> 00:19:40,450
 Eisenzaun
+Haupttor
+Inseltor
 
 343
-00:19:40,030 --> 00:19:40,070
+00:19:40,450 --> 00:19:40,490
+Eisenzaun
 Haupttor
+Inseltor
 
 344
-00:19:40,030 --> 00:19:40,070
+00:19:40,490 --> 00:19:40,530
+Eisenzaun
+Haupttor
 Inseltor
 
 345
-00:19:40,070 --> 00:19:40,110
+00:19:40,530 --> 00:19:40,570
 Eisenzaun
+Haupttor
+Inseltor
 
 346
-00:19:40,070 --> 00:19:40,110
+00:19:40,570 --> 00:19:40,610
+Eisenzaun
 Haupttor
+Inseltor
 
 347
-00:19:40,070 --> 00:19:40,110
+00:19:40,610 --> 00:19:40,650
+Eisenzaun
+Haupttor
 Inseltor
 
 348
-00:19:40,110 --> 00:19:40,150
+00:19:40,650 --> 00:19:40,700
 Eisenzaun
+Haupttor
+Inseltor
 
 349
-00:19:40,110 --> 00:19:40,150
-Haupttor
-
-350
-00:19:40,110 --> 00:19:40,150
-Inseltor
-
-351
-00:19:40,150 --> 00:19:40,200
-Eisenzaun
-
-352
-00:19:40,150 --> 00:19:40,200
-Haupttor
-
-353
-00:19:40,150 --> 00:19:40,200
-Inseltor
-
-354
-00:19:40,200 --> 00:19:40,240
-Eisenzaun
-
-355
-00:19:40,200 --> 00:19:40,240
-Haupttor
-
-356
-00:19:40,200 --> 00:19:40,240
-Inseltor
-
-357
-00:19:40,240 --> 00:19:40,280
-Eisenzaun
-
-358
-00:19:40,240 --> 00:19:40,280
-Haupttor
-
-359
-00:19:40,240 --> 00:19:40,280
-Inseltor
-
-360
-00:19:40,280 --> 00:19:40,320
-Eisenzaun
-
-361
-00:19:40,280 --> 00:19:40,320
-Haupttor
-
-362
-00:19:40,280 --> 00:19:40,320
-Inseltor
-
-363
-00:19:40,320 --> 00:19:40,360
-Eisenzaun
-
-364
-00:19:40,320 --> 00:19:40,360
-Haupttor
-
-365
-00:19:40,320 --> 00:19:40,360
-Inseltor
-
-366
-00:19:40,360 --> 00:19:40,400
-Eisenzaun
-
-367
-00:19:40,360 --> 00:19:40,400
-Haupttor
-
-368
-00:19:40,360 --> 00:19:40,400
-Inseltor
-
-369
-00:19:40,400 --> 00:19:40,450
-Eisenzaun
-
-370
-00:19:40,400 --> 00:19:40,450
-Haupttor
-
-371
-00:19:40,400 --> 00:19:40,450
-Inseltor
-
-372
-00:19:40,450 --> 00:19:40,490
-Eisenzaun
-
-373
-00:19:40,450 --> 00:19:40,490
-Haupttor
-
-374
-00:19:40,450 --> 00:19:40,490
-Inseltor
-
-375
-00:19:40,490 --> 00:19:40,530
-Eisenzaun
-
-376
-00:19:40,490 --> 00:19:40,530
-Haupttor
-
-377
-00:19:40,490 --> 00:19:40,530
-Inseltor
-
-378
-00:19:40,530 --> 00:19:40,570
-Eisenzaun
-
-379
-00:19:40,530 --> 00:19:40,570
-Haupttor
-
-380
-00:19:40,530 --> 00:19:40,570
-Inseltor
-
-381
-00:19:40,570 --> 00:19:40,610
-Eisenzaun
-
-382
-00:19:40,570 --> 00:19:40,610
-Haupttor
-
-383
-00:19:40,570 --> 00:19:40,610
-Inseltor
-
-384
-00:19:40,610 --> 00:19:40,650
-Eisenzaun
-
-385
-00:19:40,610 --> 00:19:40,650
-Haupttor
-
-386
-00:19:40,610 --> 00:19:40,650
-Inseltor
-
-387
-00:19:40,650 --> 00:19:40,700
-Eisenzaun
-
-388
-00:19:40,650 --> 00:19:40,700
-Haupttor
-
-389
-00:19:40,650 --> 00:19:40,700
-Inseltor
-
-390
 00:19:40,700 --> 00:19:44,660
 vom Haupttor zum Tor der Gerechtigkeit
 retten können, haben wir verloren.
 
-391
+350
 00:19:40,700 --> 00:19:40,740
 Eisenzaun
-
-392
-00:19:40,700 --> 00:19:40,740
 Haupttor
-
-393
-00:19:40,700 --> 00:19:40,740
 Inseltor
 
-394
+351
 00:19:40,740 --> 00:19:40,780
 Eisenzaun
-
-395
-00:19:40,740 --> 00:19:40,780
 Haupttor
-
-396
-00:19:40,740 --> 00:19:40,780
 Inseltor
 
-397
+352
 00:19:40,780 --> 00:19:40,820
 Eisenzaun
-
-398
-00:19:40,780 --> 00:19:40,820
 Haupttor
-
-399
-00:19:40,780 --> 00:19:40,820
 Inseltor
 
-400
+353
 00:19:40,820 --> 00:19:40,860
 Eisenzaun
-
-401
-00:19:40,820 --> 00:19:40,860
 Haupttor
-
-402
-00:19:40,820 --> 00:19:40,860
 Inseltor
 
-403
+354
 00:19:40,860 --> 00:19:40,900
 Eisenzaun
-
-404
-00:19:40,860 --> 00:19:40,900
 Haupttor
-
-405
-00:19:40,860 --> 00:19:40,900
 Inseltor
 
-406
+355
 00:19:40,900 --> 00:19:40,950
 Eisenzaun
-
-407
-00:19:40,900 --> 00:19:40,950
 Haupttor
-
-408
-00:19:40,900 --> 00:19:40,950
 Inseltor
 
-409
+356
 00:19:40,950 --> 00:19:40,990
 Eisenzaun
-
-410
-00:19:40,950 --> 00:19:40,990
 Haupttor
-
-411
-00:19:40,950 --> 00:19:40,990
 Inseltor
 
-412
+357
 00:19:40,990 --> 00:19:41,030
 Eisenzaun
-
-413
-00:19:40,990 --> 00:19:41,030
 Inseltor
 
-414
+358
 00:19:41,030 --> 00:19:41,070
 Inseltor
 
-415
+359
 00:19:41,070 --> 00:19:41,110
 Inseltor
 
-416
+360
 00:19:41,110 --> 00:19:41,150
 Inseltor
 
-417
+361
 00:19:41,150 --> 00:19:41,200
 Inseltor
 
-418
+362
 00:19:41,200 --> 00:19:41,240
 Inseltor
-
-419
-00:19:41,200 --> 00:19:41,240
 Gerichtsgebäude
 
-420
+363
 00:19:41,240 --> 00:19:41,280
 Inseltor
-
-421
-00:19:41,240 --> 00:19:41,280
 Gerichtsgebäude
 
-422
+364
 00:19:41,280 --> 00:19:41,320
 Inseltor
-
-423
-00:19:41,280 --> 00:19:41,320
 Gerichtsgebäude
 
-424
+365
 00:19:41,320 --> 00:19:41,360
 Inseltor
-
-425
-00:19:41,320 --> 00:19:41,360
 Gerichtsgebäude
 
-426
+366
 00:19:41,360 --> 00:19:41,410
 Inseltor
-
-427
-00:19:41,360 --> 00:19:41,410
 Gerichtsgebäude
 
-428
+367
 00:19:41,410 --> 00:19:41,450
 Inseltor
-
-429
-00:19:41,410 --> 00:19:41,450
 Gerichtsgebäude
 
-430
+368
 00:19:41,450 --> 00:19:41,490
 Inseltor
-
-431
-00:19:41,450 --> 00:19:41,490
 Gerichtsgebäude
-
-432
-00:19:41,450 --> 00:19:41,490
 Justizturm
 
-433
+369
 00:19:41,490 --> 00:19:41,530
 Inseltor
-
-434
-00:19:41,490 --> 00:19:41,530
 Gerichtsgebäude
-
-435
-00:19:41,490 --> 00:19:41,530
 Justizturm
 
-436
+370
 00:19:41,530 --> 00:19:41,570
 Inseltor
-
-437
-00:19:41,530 --> 00:19:41,570
 Gerichtsgebäude
-
-438
-00:19:41,530 --> 00:19:41,570
 Justizturm
 
-439
+371
 00:19:41,570 --> 00:19:41,610
 Inseltor
-
-440
-00:19:41,570 --> 00:19:41,610
 Gerichtsgebäude
-
-441
-00:19:41,570 --> 00:19:41,610
 Justizturm
 
-442
+372
 00:19:41,610 --> 00:19:41,660
 Inseltor
-
-443
-00:19:41,610 --> 00:19:41,660
 Gerichtsgebäude
-
-444
-00:19:41,610 --> 00:19:41,660
 Justizturm
 
-445
+373
 00:19:41,660 --> 00:19:41,700
 Inseltor
-
-446
-00:19:41,660 --> 00:19:41,700
 Gerichtsgebäude
-
-447
-00:19:41,660 --> 00:19:41,700
 Justizturm
 
-448
+374
 00:19:41,700 --> 00:19:41,740
 Inseltor
-
-449
-00:19:41,700 --> 00:19:41,740
 Gerichtsgebäude
-
-450
-00:19:41,700 --> 00:19:41,740
 Justizturm
 
-451
+375
 00:19:41,740 --> 00:19:41,780
 Inseltor
-
-452
-00:19:41,740 --> 00:19:41,780
 Gerichtsgebäude
-
-453
-00:19:41,740 --> 00:19:41,780
 Justizturm
 
-454
+376
 00:19:41,780 --> 00:19:41,820
 Inseltor
-
-455
-00:19:41,780 --> 00:19:41,820
 Gerichtsgebäude
-
-456
-00:19:41,780 --> 00:19:41,820
 Justizturm
 
-457
+377
 00:19:41,820 --> 00:19:41,860
 Inseltor
-
-458
-00:19:41,820 --> 00:19:41,860
 Gerichtsgebäude
-
-459
-00:19:41,820 --> 00:19:41,860
 Justizturm
 
-460
+378
 00:19:41,860 --> 00:19:41,910
 Inseltor
-
-461
-00:19:41,860 --> 00:19:41,910
 Gerichtsgebäude
-
-462
-00:19:41,860 --> 00:19:41,910
 Justizturm
 
-463
+379
 00:19:41,910 --> 00:19:41,950
 Inseltor
-
-464
-00:19:41,910 --> 00:19:41,950
 Gerichtsgebäude
-
-465
-00:19:41,910 --> 00:19:41,950
 Justizturm
 
-466
+380
 00:19:41,950 --> 00:19:41,990
 Inseltor
-
-467
-00:19:41,950 --> 00:19:41,990
 Gerichtsgebäude
-
-468
-00:19:41,950 --> 00:19:41,990
 Justizturm
 
-469
+381
 00:19:41,990 --> 00:19:42,030
 Inseltor
-
-470
-00:19:41,990 --> 00:19:42,030
 Gerichtsgebäude
-
-471
-00:19:41,990 --> 00:19:42,030
 Justizturm
 
-472
+382
 00:19:42,030 --> 00:19:42,070
 Inseltor
-
-473
-00:19:42,030 --> 00:19:42,070
 Gerichtsgebäude
-
-474
-00:19:42,030 --> 00:19:42,070
 Justizturm
-
-475
-00:19:42,030 --> 00:19:42,070
 Tor der Gerechtigkeit
 
-476
+383
 00:19:42,070 --> 00:19:42,110
 Inseltor
-
-477
-00:19:42,070 --> 00:19:42,110
 Gerichtsgebäude
-
-478
-00:19:42,070 --> 00:19:42,110
 Justizturm
-
-479
-00:19:42,070 --> 00:19:42,110
 Tor der Gerechtigkeit
 
-480
+384
 00:19:42,110 --> 00:19:42,160
 Inseltor
-
-481
-00:19:42,110 --> 00:19:42,160
 Gerichtsgebäude
-
-482
-00:19:42,110 --> 00:19:42,160
 Justizturm
-
-483
-00:19:42,110 --> 00:19:42,160
 Tor der Gerechtigkeit
 
-484
+385
 00:19:42,160 --> 00:19:42,200
 Inseltor
-
-485
-00:19:42,160 --> 00:19:42,200
 Gerichtsgebäude
-
-486
-00:19:42,160 --> 00:19:42,200
 Justizturm
-
-487
-00:19:42,160 --> 00:19:42,200
 Tor der Gerechtigkeit
 
-488
+386
 00:19:42,200 --> 00:19:42,240
 Inseltor
-
-489
-00:19:42,200 --> 00:19:42,240
 Gerichtsgebäude
-
-490
-00:19:42,200 --> 00:19:42,240
 Justizturm
-
-491
-00:19:42,200 --> 00:19:42,240
 Tor der Gerechtigkeit
 
-492
+387
 00:19:42,240 --> 00:19:42,280
 Inseltor
-
-493
-00:19:42,240 --> 00:19:42,280
 Gerichtsgebäude
-
-494
-00:19:42,240 --> 00:19:42,280
 Justizturm
-
-495
-00:19:42,240 --> 00:19:42,280
 Tor der Gerechtigkeit
 
-496
+388
 00:19:42,280 --> 00:19:42,320
 Inseltor
-
-497
-00:19:42,280 --> 00:19:42,320
 Gerichtsgebäude
-
-498
-00:19:42,280 --> 00:19:42,320
 Justizturm
-
-499
-00:19:42,280 --> 00:19:42,320
 Tor der Gerechtigkeit
 
-500
+389
 00:19:42,320 --> 00:19:42,360
 Inseltor
-
-501
-00:19:42,320 --> 00:19:42,360
 Gerichtsgebäude
-
-502
-00:19:42,320 --> 00:19:42,360
 Justizturm
-
-503
-00:19:42,320 --> 00:19:42,360
 Tor der Gerechtigkeit
 
-504
+390
 00:19:42,360 --> 00:19:42,410
 Inseltor
-
-505
-00:19:42,360 --> 00:19:42,410
 Gerichtsgebäude
-
-506
-00:19:42,360 --> 00:19:42,410
 Justizturm
-
-507
-00:19:42,360 --> 00:19:42,410
 Tor der Gerechtigkeit
 
-508
+391
 00:19:42,410 --> 00:19:42,450
 Gerichtsgebäude
-
-509
-00:19:42,410 --> 00:19:42,450
 Justizturm
-
-510
-00:19:42,410 --> 00:19:42,450
 Tor der Gerechtigkeit
 
-511
+392
 00:19:42,450 --> 00:19:42,490
 Gerichtsgebäude
-
-512
-00:19:42,450 --> 00:19:42,490
 Justizturm
-
-513
-00:19:42,450 --> 00:19:42,490
 Tor der Gerechtigkeit
 
-514
+393
 00:19:42,490 --> 00:19:42,530
 Gerichtsgebäude
-
-515
-00:19:42,490 --> 00:19:42,530
 Justizturm
-
-516
-00:19:42,490 --> 00:19:42,530
 Tor der Gerechtigkeit
 
-517
+394
 00:19:42,530 --> 00:19:42,570
 Gerichtsgebäude
-
-518
-00:19:42,530 --> 00:19:42,570
 Justizturm
-
-519
-00:19:42,530 --> 00:19:42,570
 Tor der Gerechtigkeit
 
-520
+395
 00:19:42,570 --> 00:19:42,610
 Gerichtsgebäude
-
-521
-00:19:42,570 --> 00:19:42,610
 Justizturm
-
-522
-00:19:42,570 --> 00:19:42,610
 Tor der Gerechtigkeit
 
-523
+396
 00:19:42,610 --> 00:19:42,660
 Gerichtsgebäude
-
-524
-00:19:42,610 --> 00:19:42,660
 Justizturm
-
-525
-00:19:42,610 --> 00:19:42,660
 Tor der Gerechtigkeit
 
-526
+397
 00:19:42,660 --> 00:19:42,700
 Gerichtsgebäude
-
-527
-00:19:42,660 --> 00:19:42,700
 Justizturm
-
-528
-00:19:42,660 --> 00:19:42,700
 Tor der Gerechtigkeit
 
-529
+398
 00:19:42,700 --> 00:19:42,740
 Gerichtsgebäude
-
-530
-00:19:42,700 --> 00:19:42,740
 Justizturm
-
-531
-00:19:42,700 --> 00:19:42,740
 Tor der Gerechtigkeit
 
-532
+399
 00:19:42,740 --> 00:19:42,780
 Gerichtsgebäude
-
-533
-00:19:42,740 --> 00:19:42,780
 Justizturm
-
-534
-00:19:42,740 --> 00:19:42,780
 Tor der Gerechtigkeit
 
-535
+400
 00:19:42,780 --> 00:19:42,820
 Gerichtsgebäude
-
-536
-00:19:42,780 --> 00:19:42,820
 Justizturm
-
-537
-00:19:42,780 --> 00:19:42,820
 Tor der Gerechtigkeit
 
-538
+401
 00:19:42,820 --> 00:19:42,860
 Gerichtsgebäude
-
-539
-00:19:42,820 --> 00:19:42,860
 Justizturm
-
-540
-00:19:42,820 --> 00:19:42,860
 Tor der Gerechtigkeit
 
-541
+402
 00:19:42,860 --> 00:19:42,950
 Gerichtsgebäude
-
-542
-00:19:42,860 --> 00:19:42,950
 Justizturm
-
-543
-00:19:42,860 --> 00:19:42,950
 Tor der Gerechtigkeit
 
-544
+403
 00:19:42,950 --> 00:19:42,990
 Gerichtsgebäude
-
-545
-00:19:42,950 --> 00:19:42,990
 Justizturm
-
-546
-00:19:42,950 --> 00:19:42,990
 Tor der Gerechtigkeit
 
-547
+404
 00:19:42,990 --> 00:19:44,660
 Gerichtsgebäude
-
-548
-00:19:42,990 --> 00:19:44,660
 Justizturm
-
-549
-00:19:42,990 --> 00:19:44,660
 Tor der Gerechtigkeit
 
-550
+405
 00:19:45,000 --> 00:19:46,160
 Wieso denn?
 
-551
+406
 00:19:46,160 --> 00:19:48,200
 Ist doch egal, wo sie Robin hinbringen.
 
-552
+407
 00:19:48,200 --> 00:19:50,210
 Wir folgen ihr, bis wir sie zurückhaben!
 
-553
+408
 00:19:50,210 --> 00:19:53,000
 Ich hab’s doch vorm Aufbruch
 aus Water Seven erklärt.
 
-554
+409
 00:19:53,000 --> 00:19:57,880
 Hinter diesem Tor sind nur noch das
 Marine-Hauptquartier und das Tiefseegefängnis.
 
-555
+410
 00:19:58,260 --> 00:20:02,560
 Also müssen wir die Sache um
 jeden Preis bis dahin erledigt haben!
 
-556
+411
 00:20:02,560 --> 00:20:04,560
 Ganz genau.
 
-557
+412
 00:20:04,560 --> 00:20:08,100
 Aber selbst wenn wir alle reinstürmen,
 
-558
+413
 00:20:08,100 --> 00:20:13,480
 ihr seid die einzigen, die es
 mit CP9 aufnehmen können.
 
-559
+414
 00:20:13,480 --> 00:20:17,150
 Nach der Zugfahrt weiß
 ich nun, wie stark ihr seid.
 
-560
+415
 00:20:17,150 --> 00:20:20,490
 Also wartet fünf Minuten auf dem Meer
 
-561
+416
 00:20:20,490 --> 00:20:24,120
 und prescht danach mit dem
 Rocketman durchs Haupttor.
 
-562
+417
 00:20:24,120 --> 00:20:28,330
 Wir gehen vor und öffnen
 das Insel- und Haupttor,
 
-563
+418
 00:20:28,330 --> 00:20:30,710
 damit der Zug passieren kann.
 
-564
+419
 00:20:31,130 --> 00:20:36,590
 Danach haltet bitte nicht inne,
 egal wie viele von uns den Löffel abgeben.
 
-565
+420
 00:20:38,720 --> 00:20:41,220
 Wir sind nur knapp 60 Leute,
 
-566
+421
 00:20:41,220 --> 00:20:44,560
 unsere Feinde hingegen
 zählen 2.000 bis 3.000.
 
-567
+422
 00:20:45,430 --> 00:20:50,980
 Ihr solltet unnötige Kämpfe vermeiden
 und euch auf CP9 konzentrieren.
 
-568
+423
 00:20:50,980 --> 00:20:52,980
 Ja, geht klar.
 
-569
+424
 00:20:52,980 --> 00:20:54,480
 Okay, Leute!
 
-570
+425
 00:20:54,480 --> 00:20:57,150
 Wir sind unmittelbar vor der Insel!
 
-571
+426
 00:20:57,150 --> 00:21:01,070
 Schaut euch den Himmel
 hinter Enies Lobby genau an.
 
-572
+427
 00:21:02,530 --> 00:21:04,910
 Das ist das Tor der Gerechtigkeit.
 
-573
+428
 00:21:04,910 --> 00:21:10,830
 – Ist ja gigantisch!
 – Ist ja gigantisch!
 
-574
+429
 00:21:13,750 --> 00:21:16,800
 Sie öffnen es nie gänzlich.
 
-575
+430
 00:21:16,800 --> 00:21:21,840
 Wenn Verbrecher hindurchgehen,
 öffnen sie es stets nur ein bisschen.
 
-576
+431
 00:21:22,300 --> 00:21:26,180
 Und hinter dem Tor ist ein Nest von
 Seekönigen, wie beim Calm Belt,
 
-577
+432
 00:21:26,180 --> 00:21:30,190
 der Meereszone auf beiden
 Seiten der Grand Line.
 
-578
+433
 00:21:30,560 --> 00:21:33,400
 Da kommt kein normales Schiff rein.
 
-579
+434
 00:21:33,400 --> 00:21:35,770
 Keine Ahnung wie,
 
-580
+435
 00:21:35,770 --> 00:21:39,820
 aber die Marine hat einen Weg,
 sicher dran vorbeizukommen.
 
-581
+436
 00:21:39,820 --> 00:21:43,620
 Wie das Piratenmädel also sagte:
 
-582
+437
 00:21:43,620 --> 00:21:46,660
 Wer gefangene Verbrecher zurückholen will,
 
-583
+438
 00:21:46,660 --> 00:21:50,410
 muss das tun, bevor sie
 durch diese Tore gehen!
 
-584
+439
 00:21:50,410 --> 00:21:53,460
 Und nun dürfen wir keine
 Zeit mehr verschwenden!
 
-585
+440
 00:21:55,960 --> 00:21:58,670
 Dann gehen wir wie geplant vor.
 
-586
+441
 00:21:59,510 --> 00:22:01,510
 Wir decken euch den Rücken!
 
-587
+442
 00:22:01,510 --> 00:22:04,720
 Ey, ihr beiden gehört doch zu uns!
 
-588
+443
 00:22:10,180 --> 00:22:11,890
 Hm? Wo ist Luffy?
 
-589
+444
 00:22:11,890 --> 00:22:14,520
 Hä? Der war doch gerade noch hier...
 
-590
+445
 00:22:20,690 --> 00:22:21,950
 Das ist der Strohhut!
 
-591
+446
 00:22:21,950 --> 00:22:23,530
 Was?!
 
-592
+447
 00:22:26,870 --> 00:22:29,330
 – Was?!
 – Was?!
 
-593
+448
 00:22:29,330 --> 00:22:32,660
 Was zur Hölle treibt der
 Kerl da auf eigene Faust?!
 
-594
+449
 00:22:32,660 --> 00:22:35,460
 Der hat den Plan überhaupt nicht kapiert!
 
-595
+450
 00:22:37,210 --> 00:22:38,960
 Es war alles umsonst...
 
-596
+451
 00:22:38,960 --> 00:22:40,920
 Er meinte doch, er hätte ihn verstanden.
 
-597
+452
 00:22:40,920 --> 00:22:43,550
 Der Kerl kann sich keine
 fünf Minuten gedulden.
 
-598
+453
 00:22:43,550 --> 00:22:45,140
 Wir hätten’s wissen müssen.
 
-599
+454
 00:22:46,970 --> 00:22:49,810
 Was für ein ungeduldiger Kerl.
 
-600
+455
 00:22:49,810 --> 00:22:52,230
 Los, Piratenjunge!
 
-601
+456
 00:22:56,100 --> 00:22:59,360
 Lasst euch nicht abhängen! Sodom! Gomorrah!
 
-602
+457
 00:22:59,360 --> 00:23:03,030
 Klettert den Eisenzaun hoch
 und brecht das Haupttor auf!
 
-603
+458
 00:23:06,320 --> 00:23:09,620
 – Yeah!
 – Yeah!
 
-604
+459
 00:23:10,080 --> 00:23:12,450
 Gum-Gum...
 
-605
+460
 00:23:12,450 --> 00:23:15,040
 Rocket!
 
-606
+461
 00:23:16,120 --> 00:23:17,080
 Was war das?
 
-607
+462
 00:23:18,960 --> 00:23:20,210
 Da kam was geflogen!
 
-608
+463
 00:23:24,470 --> 00:23:26,050
 Krasser Ort!
 
-609
+464
 00:23:26,050 --> 00:23:27,720
 Was für ein Riesenloch!
 
-610
+465
 00:23:27,720 --> 00:23:29,760
 Als würde die Insel schweben!
 
-611
+466
 00:23:31,310 --> 00:23:32,770
 Da oben ist jemand!
 
-612
+467
 00:23:32,770 --> 00:23:35,230
 Ein Eindringling! Schießt ihn ab!
 
-613
+468
 00:23:35,940 --> 00:23:37,730
 Ups, erwischt.
 
-614
+469
 00:23:40,730 --> 00:23:42,610
 Er ist hinterm Tor!
 
-615
+470
 00:23:47,990 --> 00:23:50,280
 Hier spricht das Haupttor!
 Hier spricht das Haupttor!
 
-616
+471
 00:23:50,280 --> 00:23:52,580
 Eine Nachricht an den
 Oberbefehlshaber und das Inseltor!
 
-617
+472
 00:23:53,200 --> 00:23:55,830
 Hier spricht das Haupttor! Bitte um Antwort!
 
-618
+473
 00:23:57,170 --> 00:23:59,330
 Was ist denn los?
 
-619
+474
 00:23:59,710 --> 00:24:04,050
 Ein Eindringling hat das Haupttor
 überwunden und ist unterwegs zum Inseltor!
 
-620
+475
 00:24:04,050 --> 00:24:06,830
 Ach, nur einer?
 
-621
+476
 00:24:06,830 --> 00:24:07,720
 Beruhigt euch und schaltet ihn aus.
 
-622
+477
 00:24:07,720 --> 00:24:08,510
 Beruhigt euch und schaltet ihn aus.
 
-623
+478
 00:24:08,510 --> 00:24:10,600
 Ja, aber...
 
-624
+479
 00:24:10,600 --> 00:24:12,510
 Hier spricht das Inseltor.
 
-625
+480
 00:24:12,510 --> 00:24:14,100
 Eindringling bestätigt.
 
-626
+481
 00:24:14,100 --> 00:24:16,730
 Wir kümmern uns sofort
 um ihn, nur keine Sorge.
 
-627
+482
 00:24:19,150 --> 00:24:21,730
 Hey, hey, jetzt warte doch mal.
 
-628
+483
 00:24:21,730 --> 00:24:23,690
 Ist dir klar, wo du hier bist?
 
-629
+484
 00:24:23,690 --> 00:24:25,610
 Lasst höchste Vorsicht walten!
 
-630
+485
 00:24:25,610 --> 00:24:27,860
 Wenn ich mich nicht irre, ist das...
 
-631
+486
 00:24:29,910 --> 00:24:31,620
 Strohhut Luffy!
 
-632
+487
 00:24:37,410 --> 00:24:39,540
 Was hast du gerade gesagt?!
 
-633
+488
 00:24:39,540 --> 00:24:41,210
 Ich glaub, das ist der Strohhut!
 
-634
+489
 00:24:42,960 --> 00:24:46,260
 Ein Pirat mit 100 Millionen Berry Kopfgeld!
 
-635
+490
 00:24:51,430 --> 00:24:52,760
 Robin...
 
-636
+491
 00:25:08,280 --> 00:25:12,240
 Wo steckt Robin?!

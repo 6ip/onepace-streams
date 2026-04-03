@@ -187,232 +187,219 @@ Esto significa que...
 47
 00:12:03,730 --> 00:12:07,220
 Mola
-
-48
-00:12:03,730 --> 00:12:07,220
 Shi
-
-49
-00:12:03,730 --> 00:12:07,220
 Chibukai
-
-50
-00:12:03,730 --> 00:12:07,220
 Fansub!
 
-51
-00:12:03,730 --> 00:12:07,220
-Estrella letal somnífera.
-
-52
+48
 00:12:23,720 --> 00:12:25,900
 ¡Sáquennos de aquí!
 
-53
+49
 00:12:25,900 --> 00:12:29,650
 ¡Quiero ver a mamá y a papá!
 
-54
+50
 00:16:47,850 --> 00:16:49,810
 ¿Los mataron?
 
-55
+51
 00:16:51,280 --> 00:16:53,030
 B-Bueno... supongo que...
 
-56
+52
 00:16:57,200 --> 00:17:00,730
 ¡D-Disculpe! ¡El Maestro dijo que le daba igual...!
 
-57
+53
 00:17:10,060 --> 00:17:11,990
 Por favor, continúen con el encargo.
 
-58
+54
 00:17:12,900 --> 00:17:16,920
 LABORATORIO DE CAESAR CLOWN
 
-59
+55
 00:18:35,030 --> 00:18:36,180
 ¡Maestro!
 
-60
+56
 00:18:36,180 --> 00:18:38,370
 Estoy haciendo un experimento, llama después.
 
-61
+57
 00:18:38,370 --> 00:18:40,250
 ¡Pero es un Shichibukai...!
 
-62
+58
 00:18:42,510 --> 00:18:44,770
 ¿Qué?
 
-63
+59
 00:18:45,180 --> 00:18:47,690
 ¿Quedarte en Punk Hazard?
 
-64
+60
 00:18:47,690 --> 00:18:51,350
 Me ha costado mucho llegar a 
 esta isla que ni el Log Pose localiza.
 
-65
+61
 00:18:51,350 --> 00:18:54,050
 Como antiguamente eran unas 
 instalaciones secretas del Gobierno...
 
-66
+62
 00:18:54,050 --> 00:18:56,180
 ¿Cuál es tu objetivo?
 
-67
+63
 00:18:56,180 --> 00:19:00,040
 Como esta isla solía ser 
 el laboratorio del Doctor Vegapunk,
 
-68
+64
 00:19:00,040 --> 00:19:03,240
 debe haber evidencias de lo 
 que el Gobierno Mundial trama.
 
-69
+65
 00:19:03,240 --> 00:19:08,240
 Es decir, que aquí debe haber pruebas de los 
 experimentos del Gobierno que siguen en curso.
 
-70
+66
 00:19:08,240 --> 00:19:14,000
 Con tener libertad de movimiento por
  la isla y el laboratorio me basta.
 
-71
+67
 00:19:15,690 --> 00:19:18,790
 A cambio, te seré de utilidad.
 
-72
+68
 00:19:18,790 --> 00:19:21,090
 Ninguno intentará indagar 
 en lo que hace el otro.
 
-73
+69
 00:19:21,090 --> 00:19:24,730
 Por supuesto, no le dirás a nadie
  ni una palabra de que estoy aquí.
 
-74
+70
 00:19:25,760 --> 00:19:27,590
 Ni siquiera a Joker.
 
-75
+71
 00:19:30,720 --> 00:19:32,670
 ¡Parece que estás muy bien informado!
 
-76
+72
 00:19:32,670 --> 00:19:34,220
 ¿Cómo sabes eso?
 
-77
+73
 00:19:34,220 --> 00:19:38,990
 ¿Preferirías que fuera un ignorante 
 que no tuviera ni idea de lo que hacen?
 
-78
+74
 00:19:41,200 --> 00:19:44,650
 Ya entiendo, estamos en el mismo saco.
 
-79
+75
 00:19:44,650 --> 00:19:47,790
 No puedo confiar en ti, pero 
 no me supones ningún perjuicio.
 
-80
+76
 00:19:47,790 --> 00:19:49,370
 ¿Verdad, Monet?
 
-81
+77
 00:19:51,600 --> 00:19:55,930
 Oriundo del North Blue, el Cirujano de la Muerte.
 
-82
+78
 00:19:55,930 --> 00:19:58,270
 Tienes los poderes de la fruta Ope Ope.
 
-83
+79
 00:19:58,270 --> 00:20:00,800
 Eres médico, ¿no?
 
-84
+80
 00:20:00,800 --> 00:20:06,580
 En esta isla, hay muchos exconvictos que no pueden caminar por el gas venenoso.
 
-85
+81
 00:20:07,790 --> 00:20:09,090
 ¿Podrías curarlos?
 
-86
+82
 00:25:00,550 --> 00:25:02,240
 Ah, y ese tipo...
 
-87
+83
 00:25:02,240 --> 00:25:04,280
 ¿Cómo se llamaba?
 
-88
+84
 00:25:05,460 --> 00:25:07,220
 Se ha dejado apresar.
 
-89
+85
 00:25:07,220 --> 00:25:11,300
 Ese estúpido barbudo que es 
 famoso por ser torpe y desgraciado.
 
-90
+86
 00:25:11,300 --> 00:25:13,620
 Ah, sí, Barbamarrón.
 
-91
+87
 00:25:16,460 --> 00:25:20,980
 Es un idiota fácil de manipular,
  pero ahora es un estorbo.
 
-92
+88
 00:25:20,980 --> 00:25:22,820
 Ya no lo necesito.
 
-93
+89
 00:25:22,820 --> 00:25:23,960
 Mátenlo.
 
-94
+90
 00:25:41,380 --> 00:25:44,130
 Me alegro de que hayas llegado hasta aquí.
 
-95
+91
 00:25:44,130 --> 00:25:47,240
 Ya puedes estar tranquilo.
 
-96
+92
 00:25:47,240 --> 00:25:48,460
 Buen trabajo.
 
-97
+93
 00:25:48,460 --> 00:25:52,970
 ¡Maestro! ¡Hoy fue un día 
 muy tranquilo como de costumbre!
 
-98
+94
 00:25:52,970 --> 00:25:54,250
 Ya veo.
 
-99
+95
 00:25:54,250 --> 00:25:57,710
 Barbamarrón, eres un guardia muy eficiente.
 
-100
+96
 00:25:59,880 --> 00:26:01,100
 Ah, no es para tanto.
 
-101
+97
 00:28:16,550 --> 00:28:22,420
 PUERTA TRASERA DEL LABORATORIO

@@ -2730,84 +2730,58 @@ Un asunto familiar
 683
 00:07:10,990 --> 00:07:13,830
 Mola
-
-684
-00:07:10,990 --> 00:07:13,830
 Shi
-
-685
-00:07:10,990 --> 00:07:13,830
 Chibukai
-
-686
-00:07:10,990 --> 00:07:13,830
 Fansub!
 
-687
-00:07:10,990 --> 00:07:13,830
-Hierba somnífera.
-
-688
+684
 00:08:12,220 --> 00:08:14,140
 ¡¿Eh?!
 
-689
+685
 00:10:46,460 --> 00:10:52,010
 Mola
-
-690
-00:10:46,460 --> 00:10:52,010
 Shi
-
-691
-00:10:46,460 --> 00:10:52,010
 Chibukai
-
-692
-00:10:46,460 --> 00:10:52,010
 Fansub!
 
-693
-00:10:46,460 --> 00:10:52,010
-Tienda de ropa Fuku Fuku de Kin-chan.
-
-694
+686
 00:12:06,870 --> 00:12:11,500
 ¡Nami-swan, también me encanta
  cómo te ves vestida de villana!
 
-695
+687
 00:12:28,690 --> 00:12:31,900
 ¡Robin-chwan, eres fría y hermosa!
 
-696
+688
 00:13:33,790 --> 00:13:35,880
 Orochi ha bajado la guardia.
 
-697
+689
 00:13:35,880 --> 00:13:41,470
 Esto ocurrió porque Kanjuro, su espía, le reveló los planes de los Vainas Rojas,
 
-698
+690
 00:13:41,470 --> 00:13:46,600
 así que preparó un plan infalible para detener la venganza de los samuráis.
 
-699
+691
 00:13:48,560 --> 00:13:51,600
 Su punto de encuentro
 es el Puerto Tokage.
 
-700
+692
 00:13:51,600 --> 00:13:54,730
 ¡Destruyan todas las rutas
 que llevan allí!
 
-701
+693
 00:13:54,730 --> 00:13:56,320
 Gran puente
  entre Kuri y Udon
 
-702
+694
 00:13:56,320 --> 00:13:57,860
 Gran puente
 
@@ -2815,418 +2789,370 @@ entre Ringo
 
 y Hakumai
 
-703
+695
 00:13:58,820 --> 00:14:01,450
 Kuri,
 
 Puerto Itachi
 
-704
+696
 00:14:01,450 --> 00:14:03,780
 ¡Los Vainas Rojas están solos!
 
-705
+697
 00:14:03,780 --> 00:14:05,410
 ¡No dejen a ninguno vivo!
 
-706
+698
 00:14:11,000 --> 00:14:15,330
 Ya no lo atormentan los 
 fantasmas de los Kouzuki,
 
-707
+699
 00:14:16,590 --> 00:14:20,260
 Onigashima
 
-708
+700
 00:14:18,210 --> 00:14:20,920
 pero en Onigashima...
 
-709
+701
 00:14:20,920 --> 00:14:23,760
 Comenzo la invasion
-
-710
-00:14:20,920 --> 00:14:23,760
 ´
 
-711
+702
 00:14:21,880 --> 00:14:23,760
 ¡Comenzó la invasión!
 
-712
+703
 00:14:27,640 --> 00:14:31,100
 Ejercito
  del este
-
-713
-00:14:27,640 --> 00:14:31,100
 ´
 
-714
+704
 00:14:28,970 --> 00:14:31,100
 Kin'emon dirige el ejército del este.
 
-715
+705
 00:14:35,940 --> 00:14:39,150
 Ejercito 
 del sur
-
-716
-00:14:35,940 --> 00:14:39,150
 ´
 
-717
+706
 00:14:37,020 --> 00:14:39,150
 Denjiro dirige el ejército del sur.
 
-718
+707
 00:14:39,820 --> 00:14:43,150
 En total, superan los cinco mil miembros.
 
-719
+708
 00:14:46,870 --> 00:14:50,040
 Polar Tang
 
-720
+709
 00:14:52,040 --> 00:14:54,040
 El submarino del pirata Law...
 
-721
+710
 00:14:54,040 --> 00:14:58,000
 ...se ha sumergido, llevando a bordo 
 a los Vainas Rojas restantes.
 
-722
+711
 00:14:54,040 --> 00:14:56,380
 Castillo de Kaidou
-
-723
-00:14:54,040 --> 00:14:56,380
 Ejército
 del sur
-
-724
-00:14:54,040 --> 00:14:56,380
 Law
-
-725
-00:14:54,040 --> 00:14:56,380
 Ejército
 del este
 
-726
+712
 00:14:58,000 --> 00:15:02,340
 Y emergerá cerca del castillo 
 donde están Orochi y Kaidou.
 
-727
+713
 00:15:06,050 --> 00:15:11,640
 Sus enemigos aún no han descubierto la invasión de más de cinco mil soldados.
 
-728
+714
 00:15:48,210 --> 00:15:48,260
 Kurosai
 FR-U4
 
-729
+715
 00:15:48,260 --> 00:15:48,300
 Kurosai
 FR-U4
 
-730
+716
 00:15:48,300 --> 00:15:48,340
 Kurosai
 FR-U4
 
-731
+717
 00:15:48,340 --> 00:15:48,380
 Kurosai
 FR-U4
 
-732
+718
 00:15:48,380 --> 00:15:48,420
 Kurosai
 FR-U4
 
-733
+719
 00:15:48,420 --> 00:15:48,460
 Kurosai
 FR-U4
 
-734
+720
 00:15:48,460 --> 00:15:48,510
 Kurosai
 FR-U4
 
-735
+721
 00:15:48,510 --> 00:15:48,550
 Kurosai
 FR-U4
 
-736
+722
 00:15:48,550 --> 00:15:48,590
 Kurosai
 FR-U4
 
-737
+723
 00:15:48,590 --> 00:15:48,630
 Kurosai
 FR-U4
 
-738
+724
 00:15:48,630 --> 00:15:48,670
 Kurosai
 FR-U4
 
-739
+725
 00:15:48,670 --> 00:15:48,710
 Kurosai
 FR-U4
 
-740
+726
 00:15:48,710 --> 00:15:48,760
 Kurosai
 FR-U4
 
-741
+727
 00:15:48,760 --> 00:15:48,800
 Kurosai
 FR-U4
 
-742
+728
 00:15:48,800 --> 00:15:50,300
 Kurosai
 FR-U4
 
-743
+729
 00:16:15,530 --> 00:16:15,570
 Brachio Tank 5
 
-744
+730
 00:16:15,570 --> 00:16:15,620
 Brachio Tank 5
 
-745
+731
 00:16:15,620 --> 00:16:15,660
 Brachio Tank 5
 
-746
+732
 00:16:15,660 --> 00:16:15,700
 Brachio Tank 5
 
-747
+733
 00:16:15,700 --> 00:16:15,740
 Brachio Tank 5
 
-748
+734
 00:16:15,740 --> 00:16:15,780
 Brachio Tank 5
 
-749
+735
 00:16:15,780 --> 00:16:15,820
 Brachio Tank 5
 
-750
+736
 00:16:15,820 --> 00:16:15,870
 Brachio Tank 5
 
-751
+737
 00:16:15,870 --> 00:16:15,910
 Brachio Tank 5
 
-752
+738
 00:16:15,910 --> 00:16:15,950
 Brachio Tank 5
 
-753
+739
 00:16:15,950 --> 00:16:15,990
 Brachio Tank 5
 
-754
+740
 00:16:15,990 --> 00:16:16,030
 Brachio Tank 5
 
-755
+741
 00:16:16,030 --> 00:16:16,070
 Brachio Tank 5
 
-756
+742
 00:16:16,070 --> 00:16:16,120
 Brachio Tank 5
 
-757
+743
 00:16:16,120 --> 00:16:17,740
 Brachio Tank 5
 
-758
+744
 00:16:22,500 --> 00:16:25,540
 C
-
-759
-00:16:22,500 --> 00:16:25,540
 o
-
-760
-00:16:22,500 --> 00:16:25,540
 m
-
-761
-00:16:22,500 --> 00:16:25,540
 a
-
-762
-00:16:22,500 --> 00:16:25,540
 n
-
-763
-00:16:22,500 --> 00:16:25,540
 d
-
-764
-00:16:22,500 --> 00:16:25,540
 t
-
-765
-00:16:22,500 --> 00:16:25,540
 e
-
-766
-00:16:22,500 --> 00:16:25,540
 h
-
-767
-00:16:22,500 --> 00:16:25,540
 p
-
-768
-00:16:22,500 --> 00:16:25,540
 r
 
-769
+745
 00:16:42,730 --> 00:16:42,770
 ¡Presentes!
 
-770
+746
 00:16:42,770 --> 00:16:42,810
 ¡Presentes!
 
-771
+747
 00:16:42,810 --> 00:16:42,850
 ¡Presentes!
 
-772
+748
 00:16:42,850 --> 00:16:42,890
 ¡Presentes!
 
-773
+749
 00:16:42,890 --> 00:16:42,940
 ¡Presentes!
 
-774
+750
 00:16:42,940 --> 00:16:42,980
 ¡Presentes!
 
-775
+751
 00:16:42,980 --> 00:16:43,020
 ¡Presentes!
 
-776
+752
 00:16:43,020 --> 00:16:43,060
 ¡Presentes!
 
-777
+753
 00:16:43,060 --> 00:16:43,100
 ¡Presentes!
 
-778
+754
 00:16:43,100 --> 00:16:43,140
 ¡Presentes!
 
-779
+755
 00:16:43,140 --> 00:16:43,190
 ¡Presentes!
 
-780
+756
 00:16:43,190 --> 00:16:43,230
 ¡Presentes!
 
-781
+757
 00:16:43,230 --> 00:16:43,270
 ¡Presentes!
 
-782
+758
 00:16:43,270 --> 00:16:43,310
 ¡Presentes!
 
-783
+759
 00:16:43,310 --> 00:16:45,940
 ¡Presentes!
 
-784
+760
 00:16:58,370 --> 00:16:59,410
 ¡Muy bien!
 
-785
+761
 00:16:59,410 --> 00:17:01,040
 ¡Iré a detenerlos!
 
-786
+762
 00:17:01,040 --> 00:17:02,330
 ¡No se preocupen!
 
-787
+763
 00:17:04,420 --> 00:17:07,090
 ¡Es obvio que provocará un escándalo peor!
 
-788
+764
 00:17:11,800 --> 00:17:14,720
 Luffy provocará un escándalo mayor.
 
-789
+765
 00:17:14,720 --> 00:17:16,140
 ¡Iré a detenerlo!
 
-790
+766
 00:17:18,100 --> 00:17:20,730
 ¡Está claro que se perderá!
 
-791
+767
 00:17:22,690 --> 00:17:24,820
 ¡Olvídate de ese idiota...
 
-792
+768
 00:17:24,820 --> 00:17:29,700
 ...y tengamos una cita en el 
 campo de batalla, Nami-swan!
 
-793
+769
 00:18:17,580 --> 00:18:20,040
 ¡Súper!
 
-794
+770
 00:18:38,350 --> 00:18:42,980
 ¡Robin-chwan, ven conmigo!
 
-795
+771
 00:19:26,020 --> 00:19:30,440
 Kanjuro secuestró a Momonosuke y 
 se dirigió hacia donde está Orochi
 
-796
+772
 00:19:30,440 --> 00:19:36,030
 sin embargo, tal como predijo Kin’emon, 
 aún no se ha reunido con él.
 
-797
+773
 00:21:00,610 --> 00:21:01,410
 ¡¿Qué?!
 
-798
+774
 00:21:08,040 --> 00:21:09,580
 ¿Eh?
 
-799
+775
 00:22:14,310 --> 00:22:14,350
 PIRATAS BESTIA 
 
@@ -3234,7 +3160,7 @@ ARTISTA BAO HUANG
 
 (SMILE DE ARDILLA VOLADORA)
 
-800
+776
 00:22:14,350 --> 00:22:14,400
 PIRATAS BESTIA 
 
@@ -3242,7 +3168,7 @@ ARTISTA BAO HUANG
 
 (SMILE DE ARDILLA VOLADORA)
 
-801
+777
 00:22:14,400 --> 00:22:14,440
 PIRATAS BESTIA 
 
@@ -3250,7 +3176,7 @@ ARTISTA BAO HUANG
 
 (SMILE DE ARDILLA VOLADORA)
 
-802
+778
 00:22:14,440 --> 00:22:14,480
 PIRATAS BESTIA 
 
@@ -3258,7 +3184,7 @@ ARTISTA BAO HUANG
 
 (SMILE DE ARDILLA VOLADORA)
 
-803
+779
 00:22:14,480 --> 00:22:18,070
 PIRATAS BESTIA 
 
@@ -3266,42 +3192,42 @@ ARTISTA BAO HUANG
 
 (SMILE DE ARDILLA VOLADORA)
 
-804
+780
 00:24:45,130 --> 00:24:48,840
 ¡Si adelgazo, seré demasiado popular,
 
-805
+781
 00:24:48,840 --> 00:24:51,220
 así que no lo hago; ese es mi...
 
-806
+782
 00:24:51,220 --> 00:24:52,430
 ...funk!
 
-807
+783
 00:26:12,880 --> 00:26:16,260
 ¡Qué rica!
 
-808
+784
 00:26:16,760 --> 00:26:20,060
 ¡Qué comida más rica!
 
-809
+785
 00:26:20,060 --> 00:26:23,100
 ¿Es la primera vez que la comes?
 
-810
+786
 00:26:23,100 --> 00:26:24,020
 ¡Sí!
 
-811
+787
 00:26:24,020 --> 00:26:26,480
 ¡Hasta tiene mochi!
 
-812
+788
 00:26:26,480 --> 00:26:29,070
 ¡Esta comida es un lujo!
 
-813
+789
 00:26:38,240 --> 00:26:41,620
 ¡Es el mejor día de mi vida!

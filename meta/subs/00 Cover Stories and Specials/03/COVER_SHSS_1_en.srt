@@ -501,7 +501,7 @@ Okay!
 
 119
 00:12:36,240 --> 00:12:38,170
-....Surgery in
+Surgery in
 Progress
 
 120
@@ -530,7 +530,7 @@ Understood.
 
 126
 00:12:55,090 --> 00:12:57,090
-....Surgery in
+Surgery in
 Progress
 
 127

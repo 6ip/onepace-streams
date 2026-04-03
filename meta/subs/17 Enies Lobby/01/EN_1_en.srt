@@ -1383,1265 +1383,830 @@ Well, you'll see once you're in there.
 330
 00:19:37,410 --> 00:19:39,870
 Iron Fence
-
-331
-00:19:37,410 --> 00:19:39,870
 Main Gate
 
-332
+331
 00:19:37,450 --> 00:19:40,700
 If we can't recover Nico Robin
 and Franky somewhere on this path
 
-333
+332
 00:19:39,860 --> 00:19:39,900
 Iron Fence
+Main Gate
+Island Gate
+
+333
+00:19:39,900 --> 00:19:39,950
+Iron Fence
+Main Gate
+Island Gate
 
 334
-00:19:39,860 --> 00:19:39,900
+00:19:39,950 --> 00:19:39,990
+Iron Fence
 Main Gate
+Island Gate
 
 335
-00:19:39,860 --> 00:19:39,900
+00:19:39,990 --> 00:19:40,030
+Iron Fence
+Main Gate
 Island Gate
 
 336
-00:19:39,900 --> 00:19:39,950
+00:19:40,030 --> 00:19:40,070
 Iron Fence
+Main Gate
+Island Gate
 
 337
-00:19:39,900 --> 00:19:39,950
+00:19:40,070 --> 00:19:40,110
+Iron Fence
 Main Gate
+Island Gate
 
 338
-00:19:39,900 --> 00:19:39,950
+00:19:40,110 --> 00:19:40,150
+Iron Fence
+Main Gate
 Island Gate
 
 339
-00:19:39,950 --> 00:19:39,990
+00:19:40,150 --> 00:19:40,200
 Iron Fence
+Main Gate
+Island Gate
 
 340
-00:19:39,950 --> 00:19:39,990
+00:19:40,200 --> 00:19:40,240
+Iron Fence
 Main Gate
+Island Gate
 
 341
-00:19:39,950 --> 00:19:39,990
+00:19:40,240 --> 00:19:40,280
+Iron Fence
+Main Gate
 Island Gate
 
 342
-00:19:39,990 --> 00:19:40,030
+00:19:40,280 --> 00:19:40,320
 Iron Fence
+Main Gate
+Island Gate
 
 343
-00:19:39,990 --> 00:19:40,030
+00:19:40,320 --> 00:19:40,360
+Iron Fence
 Main Gate
+Island Gate
 
 344
-00:19:39,990 --> 00:19:40,030
+00:19:40,360 --> 00:19:40,400
+Iron Fence
+Main Gate
 Island Gate
 
 345
-00:19:40,030 --> 00:19:40,070
+00:19:40,400 --> 00:19:40,450
 Iron Fence
+Main Gate
+Island Gate
 
 346
-00:19:40,030 --> 00:19:40,070
+00:19:40,450 --> 00:19:40,490
+Iron Fence
 Main Gate
+Island Gate
 
 347
-00:19:40,030 --> 00:19:40,070
+00:19:40,490 --> 00:19:40,530
+Iron Fence
+Main Gate
 Island Gate
 
 348
-00:19:40,070 --> 00:19:40,110
+00:19:40,530 --> 00:19:40,570
 Iron Fence
+Main Gate
+Island Gate
 
 349
-00:19:40,070 --> 00:19:40,110
+00:19:40,570 --> 00:19:40,610
+Iron Fence
 Main Gate
+Island Gate
 
 350
-00:19:40,070 --> 00:19:40,110
+00:19:40,610 --> 00:19:40,650
+Iron Fence
+Main Gate
 Island Gate
 
 351
-00:19:40,110 --> 00:19:40,150
+00:19:40,650 --> 00:19:40,700
 Iron Fence
+Main Gate
+Island Gate
 
 352
-00:19:40,110 --> 00:19:40,150
-Main Gate
-
-353
-00:19:40,110 --> 00:19:40,150
-Island Gate
-
-354
-00:19:40,150 --> 00:19:40,200
-Iron Fence
-
-355
-00:19:40,150 --> 00:19:40,200
-Main Gate
-
-356
-00:19:40,150 --> 00:19:40,200
-Island Gate
-
-357
-00:19:40,200 --> 00:19:40,240
-Iron Fence
-
-358
-00:19:40,200 --> 00:19:40,240
-Main Gate
-
-359
-00:19:40,200 --> 00:19:40,240
-Island Gate
-
-360
-00:19:40,240 --> 00:19:40,280
-Iron Fence
-
-361
-00:19:40,240 --> 00:19:40,280
-Main Gate
-
-362
-00:19:40,240 --> 00:19:40,280
-Island Gate
-
-363
-00:19:40,280 --> 00:19:40,320
-Iron Fence
-
-364
-00:19:40,280 --> 00:19:40,320
-Main Gate
-
-365
-00:19:40,280 --> 00:19:40,320
-Island Gate
-
-366
-00:19:40,320 --> 00:19:40,360
-Iron Fence
-
-367
-00:19:40,320 --> 00:19:40,360
-Main Gate
-
-368
-00:19:40,320 --> 00:19:40,360
-Island Gate
-
-369
-00:19:40,360 --> 00:19:40,400
-Iron Fence
-
-370
-00:19:40,360 --> 00:19:40,400
-Main Gate
-
-371
-00:19:40,360 --> 00:19:40,400
-Island Gate
-
-372
-00:19:40,400 --> 00:19:40,450
-Iron Fence
-
-373
-00:19:40,400 --> 00:19:40,450
-Main Gate
-
-374
-00:19:40,400 --> 00:19:40,450
-Island Gate
-
-375
-00:19:40,450 --> 00:19:40,490
-Iron Fence
-
-376
-00:19:40,450 --> 00:19:40,490
-Main Gate
-
-377
-00:19:40,450 --> 00:19:40,490
-Island Gate
-
-378
-00:19:40,490 --> 00:19:40,530
-Iron Fence
-
-379
-00:19:40,490 --> 00:19:40,530
-Main Gate
-
-380
-00:19:40,490 --> 00:19:40,530
-Island Gate
-
-381
-00:19:40,530 --> 00:19:40,570
-Iron Fence
-
-382
-00:19:40,530 --> 00:19:40,570
-Main Gate
-
-383
-00:19:40,530 --> 00:19:40,570
-Island Gate
-
-384
-00:19:40,570 --> 00:19:40,610
-Iron Fence
-
-385
-00:19:40,570 --> 00:19:40,610
-Main Gate
-
-386
-00:19:40,570 --> 00:19:40,610
-Island Gate
-
-387
-00:19:40,610 --> 00:19:40,650
-Iron Fence
-
-388
-00:19:40,610 --> 00:19:40,650
-Main Gate
-
-389
-00:19:40,610 --> 00:19:40,650
-Island Gate
-
-390
-00:19:40,650 --> 00:19:40,700
-Iron Fence
-
-391
-00:19:40,650 --> 00:19:40,700
-Main Gate
-
-392
-00:19:40,650 --> 00:19:40,700
-Island Gate
-
-393
 00:19:40,700 --> 00:19:44,660
 between the main gate
 to the Gates of Justice, then we fail.
 
-394
+353
 00:19:40,700 --> 00:19:40,740
 Iron Fence
-
-395
-00:19:40,700 --> 00:19:40,740
 Main Gate
-
-396
-00:19:40,700 --> 00:19:40,740
 Island Gate
 
-397
+354
 00:19:40,740 --> 00:19:40,780
 Iron Fence
-
-398
-00:19:40,740 --> 00:19:40,780
 Main Gate
-
-399
-00:19:40,740 --> 00:19:40,780
 Island Gate
 
-400
+355
 00:19:40,780 --> 00:19:40,820
 Iron Fence
-
-401
-00:19:40,780 --> 00:19:40,820
 Main Gate
-
-402
-00:19:40,780 --> 00:19:40,820
 Island Gate
 
-403
+356
 00:19:40,820 --> 00:19:40,860
 Iron Fence
-
-404
-00:19:40,820 --> 00:19:40,860
 Main Gate
-
-405
-00:19:40,820 --> 00:19:40,860
 Island Gate
 
-406
+357
 00:19:40,860 --> 00:19:40,900
 Iron Fence
-
-407
-00:19:40,860 --> 00:19:40,900
 Main Gate
-
-408
-00:19:40,860 --> 00:19:40,900
 Island Gate
 
-409
+358
 00:19:40,900 --> 00:19:40,950
 Iron Fence
-
-410
-00:19:40,900 --> 00:19:40,950
 Main Gate
-
-411
-00:19:40,900 --> 00:19:40,950
 Island Gate
 
-412
+359
 00:19:40,950 --> 00:19:40,990
 Iron Fence
-
-413
-00:19:40,950 --> 00:19:40,990
 Main Gate
-
-414
-00:19:40,950 --> 00:19:40,990
 Island Gate
 
-415
+360
 00:19:40,990 --> 00:19:41,030
 Iron Fence
-
-416
-00:19:40,990 --> 00:19:41,030
 Island Gate
 
-417
+361
 00:19:41,030 --> 00:19:41,070
 Island Gate
 
-418
+362
 00:19:41,070 --> 00:19:41,110
 Island Gate
 
-419
+363
 00:19:41,110 --> 00:19:41,150
 Island Gate
 
-420
+364
 00:19:41,150 --> 00:19:41,200
 Island Gate
 
-421
+365
 00:19:41,200 --> 00:19:41,240
 Island Gate
-
-422
-00:19:41,200 --> 00:19:41,240
 Courthouse
 
-423
+366
 00:19:41,240 --> 00:19:41,280
 Island Gate
-
-424
-00:19:41,240 --> 00:19:41,280
 Courthouse
 
-425
+367
 00:19:41,280 --> 00:19:41,320
 Island Gate
-
-426
-00:19:41,280 --> 00:19:41,320
 Courthouse
 
-427
+368
 00:19:41,320 --> 00:19:41,360
 Island Gate
-
-428
-00:19:41,320 --> 00:19:41,360
 Courthouse
 
-429
+369
 00:19:41,360 --> 00:19:41,410
 Island Gate
-
-430
-00:19:41,360 --> 00:19:41,410
 Courthouse
 
-431
+370
 00:19:41,410 --> 00:19:41,450
 Island Gate
-
-432
-00:19:41,410 --> 00:19:41,450
 Courthouse
 
-433
+371
 00:19:41,450 --> 00:19:41,490
 Island Gate
-
-434
-00:19:41,450 --> 00:19:41,490
 Courthouse
-
-435
-00:19:41,450 --> 00:19:41,490
 Tower of Justice
 
-436
+372
 00:19:41,490 --> 00:19:41,530
 Island Gate
-
-437
-00:19:41,490 --> 00:19:41,530
 Courthouse
-
-438
-00:19:41,490 --> 00:19:41,530
 Tower of Justice
 
-439
+373
 00:19:41,530 --> 00:19:41,570
 Island Gate
-
-440
-00:19:41,530 --> 00:19:41,570
 Courthouse
-
-441
-00:19:41,530 --> 00:19:41,570
 Tower of Justice
 
-442
+374
 00:19:41,570 --> 00:19:41,610
 Island Gate
-
-443
-00:19:41,570 --> 00:19:41,610
 Courthouse
-
-444
-00:19:41,570 --> 00:19:41,610
 Tower of Justice
 
-445
+375
 00:19:41,610 --> 00:19:41,660
 Island Gate
-
-446
-00:19:41,610 --> 00:19:41,660
 Courthouse
-
-447
-00:19:41,610 --> 00:19:41,660
 Tower of Justice
 
-448
+376
 00:19:41,660 --> 00:19:41,700
 Island Gate
-
-449
-00:19:41,660 --> 00:19:41,700
 Courthouse
-
-450
-00:19:41,660 --> 00:19:41,700
 Tower of Justice
 
-451
+377
 00:19:41,700 --> 00:19:41,740
 Island Gate
-
-452
-00:19:41,700 --> 00:19:41,740
 Courthouse
-
-453
-00:19:41,700 --> 00:19:41,740
 Tower of Justice
 
-454
+378
 00:19:41,740 --> 00:19:41,780
 Island Gate
-
-455
-00:19:41,740 --> 00:19:41,780
 Courthouse
-
-456
-00:19:41,740 --> 00:19:41,780
 Tower of Justice
 
-457
+379
 00:19:41,780 --> 00:19:41,820
 Island Gate
-
-458
-00:19:41,780 --> 00:19:41,820
 Courthouse
-
-459
-00:19:41,780 --> 00:19:41,820
 Tower of Justice
 
-460
+380
 00:19:41,820 --> 00:19:41,860
 Island Gate
-
-461
-00:19:41,820 --> 00:19:41,860
 Courthouse
-
-462
-00:19:41,820 --> 00:19:41,860
 Tower of Justice
 
-463
+381
 00:19:41,860 --> 00:19:41,910
 Island Gate
-
-464
-00:19:41,860 --> 00:19:41,910
 Courthouse
-
-465
-00:19:41,860 --> 00:19:41,910
 Tower of Justice
 
-466
+382
 00:19:41,910 --> 00:19:41,950
 Island Gate
-
-467
-00:19:41,910 --> 00:19:41,950
 Courthouse
-
-468
-00:19:41,910 --> 00:19:41,950
 Tower of Justice
 
-469
+383
 00:19:41,950 --> 00:19:41,990
 Island Gate
-
-470
-00:19:41,950 --> 00:19:41,990
 Courthouse
-
-471
-00:19:41,950 --> 00:19:41,990
 Tower of Justice
 
-472
+384
 00:19:41,990 --> 00:19:42,030
 Island Gate
-
-473
-00:19:41,990 --> 00:19:42,030
 Courthouse
-
-474
-00:19:41,990 --> 00:19:42,030
 Tower of Justice
 
-475
+385
 00:19:42,030 --> 00:19:42,070
 Island Gate
-
-476
-00:19:42,030 --> 00:19:42,070
 Courthouse
-
-477
-00:19:42,030 --> 00:19:42,070
 Tower of Justice
-
-478
-00:19:42,030 --> 00:19:42,070
 Gates of Justice
 
-479
+386
 00:19:42,070 --> 00:19:42,110
 Island Gate
-
-480
-00:19:42,070 --> 00:19:42,110
 Courthouse
-
-481
-00:19:42,070 --> 00:19:42,110
 Tower of Justice
-
-482
-00:19:42,070 --> 00:19:42,110
 Gates of Justice
 
-483
+387
 00:19:42,110 --> 00:19:42,160
 Island Gate
-
-484
-00:19:42,110 --> 00:19:42,160
 Courthouse
-
-485
-00:19:42,110 --> 00:19:42,160
 Tower of Justice
-
-486
-00:19:42,110 --> 00:19:42,160
 Gates of Justice
 
-487
+388
 00:19:42,160 --> 00:19:42,200
 Island Gate
-
-488
-00:19:42,160 --> 00:19:42,200
 Courthouse
-
-489
-00:19:42,160 --> 00:19:42,200
 Tower of Justice
-
-490
-00:19:42,160 --> 00:19:42,200
 Gates of Justice
 
-491
+389
 00:19:42,200 --> 00:19:42,240
 Island Gate
-
-492
-00:19:42,200 --> 00:19:42,240
 Courthouse
-
-493
-00:19:42,200 --> 00:19:42,240
 Tower of Justice
-
-494
-00:19:42,200 --> 00:19:42,240
 Gates of Justice
 
-495
+390
 00:19:42,240 --> 00:19:42,280
 Island Gate
-
-496
-00:19:42,240 --> 00:19:42,280
 Courthouse
-
-497
-00:19:42,240 --> 00:19:42,280
 Tower of Justice
-
-498
-00:19:42,240 --> 00:19:42,280
 Gates of Justice
 
-499
+391
 00:19:42,280 --> 00:19:42,320
 Island Gate
-
-500
-00:19:42,280 --> 00:19:42,320
 Courthouse
-
-501
-00:19:42,280 --> 00:19:42,320
 Tower of Justice
-
-502
-00:19:42,280 --> 00:19:42,320
 Gates of Justice
 
-503
+392
 00:19:42,320 --> 00:19:42,360
 Island Gate
-
-504
-00:19:42,320 --> 00:19:42,360
 Courthouse
-
-505
-00:19:42,320 --> 00:19:42,360
 Tower of Justice
-
-506
-00:19:42,320 --> 00:19:42,360
 Gates of Justice
 
-507
+393
 00:19:42,360 --> 00:19:42,410
 Island Gate
-
-508
-00:19:42,360 --> 00:19:42,410
 Courthouse
-
-509
-00:19:42,360 --> 00:19:42,410
 Tower of Justice
-
-510
-00:19:42,360 --> 00:19:42,410
 Gates of Justice
 
-511
+394
 00:19:42,410 --> 00:19:42,450
 Courthouse
-
-512
-00:19:42,410 --> 00:19:42,450
 Tower of Justice
-
-513
-00:19:42,410 --> 00:19:42,450
 Gates of Justice
 
-514
+395
 00:19:42,450 --> 00:19:42,490
 Courthouse
-
-515
-00:19:42,450 --> 00:19:42,490
 Tower of Justice
-
-516
-00:19:42,450 --> 00:19:42,490
 Gates of Justice
 
-517
+396
 00:19:42,490 --> 00:19:42,530
 Courthouse
-
-518
-00:19:42,490 --> 00:19:42,530
 Tower of Justice
-
-519
-00:19:42,490 --> 00:19:42,530
 Gates of Justice
 
-520
+397
 00:19:42,530 --> 00:19:42,570
 Courthouse
-
-521
-00:19:42,530 --> 00:19:42,570
 Tower of Justice
-
-522
-00:19:42,530 --> 00:19:42,570
 Gates of Justice
 
-523
+398
 00:19:42,570 --> 00:19:42,610
 Courthouse
-
-524
-00:19:42,570 --> 00:19:42,610
 Tower of Justice
-
-525
-00:19:42,570 --> 00:19:42,610
 Gates of Justice
 
-526
+399
 00:19:42,610 --> 00:19:42,660
 Courthouse
-
-527
-00:19:42,610 --> 00:19:42,660
 Tower of Justice
-
-528
-00:19:42,610 --> 00:19:42,660
 Gates of Justice
 
-529
+400
 00:19:42,660 --> 00:19:42,700
 Courthouse
-
-530
-00:19:42,660 --> 00:19:42,700
 Tower of Justice
-
-531
-00:19:42,660 --> 00:19:42,700
 Gates of Justice
 
-532
+401
 00:19:42,700 --> 00:19:42,740
 Courthouse
-
-533
-00:19:42,700 --> 00:19:42,740
 Tower of Justice
-
-534
-00:19:42,700 --> 00:19:42,740
 Gates of Justice
 
-535
+402
 00:19:42,740 --> 00:19:42,780
 Courthouse
-
-536
-00:19:42,740 --> 00:19:42,780
 Tower of Justice
-
-537
-00:19:42,740 --> 00:19:42,780
 Gates of Justice
 
-538
+403
 00:19:42,780 --> 00:19:42,820
 Courthouse
-
-539
-00:19:42,780 --> 00:19:42,820
 Tower of Justice
-
-540
-00:19:42,780 --> 00:19:42,820
 Gates of Justice
 
-541
+404
 00:19:42,820 --> 00:19:42,860
 Courthouse
-
-542
-00:19:42,820 --> 00:19:42,860
 Tower of Justice
-
-543
-00:19:42,820 --> 00:19:42,860
 Gates of Justice
 
-544
+405
 00:19:42,860 --> 00:19:42,950
 Courthouse
-
-545
-00:19:42,860 --> 00:19:42,950
 Tower of Justice
-
-546
-00:19:42,860 --> 00:19:42,950
 Gates of Justice
 
-547
+406
 00:19:42,950 --> 00:19:42,990
 Courthouse
-
-548
-00:19:42,950 --> 00:19:42,990
 Tower of Justice
-
-549
-00:19:42,950 --> 00:19:42,990
 Gates of Justice
 
-550
+407
 00:19:42,990 --> 00:19:44,660
 Courthouse
-
-551
-00:19:42,990 --> 00:19:44,660
 Tower of Justice
-
-552
-00:19:42,990 --> 00:19:44,660
 Gates of Justice
 
-553
+408
 00:19:45,000 --> 00:19:46,160
 Why?!
 
-554
+409
 00:19:46,160 --> 00:19:50,210
 No matter where they take Robin,
 we'll just follow them until we get her back!
 
-555
+410
 00:19:50,210 --> 00:19:53,000
 Didn't I explain this
 before we left Water Seven?!
 
-556
+411
 00:19:53,000 --> 00:19:57,880
 The only destinations beyond those gates are
 Marine Headquarters and the undersea prison.
 
-557
+412
 00:19:58,260 --> 00:20:02,560
 We'll need to settle this matter
 before they reach them, no matter what.
 
-558
+413
 00:20:02,560 --> 00:20:04,560
 She's right.
 
-559
+414
 00:20:04,560 --> 00:20:08,100
 Still, even if we all rush in,
 
-560
+415
 00:20:08,100 --> 00:20:11,820
 if we encounter CP9, the only ones
 who can hope to beat them...
 
-561
+416
 00:20:11,820 --> 00:20:13,480
 is you guys.
 
-562
+417
 00:20:13,480 --> 00:20:17,150
 Our time on this train has shown me
 just how strong you guys are.
 
-563
+418
 00:20:17,150 --> 00:20:20,490
 So, you guys wait here
 on the sea for five minutes,
 
-564
+419
 00:20:20,490 --> 00:20:24,120
 then charge through the island's
 main gate in Rocketman.
 
-565
+420
 00:20:24,120 --> 00:20:28,330
 We'll go in first to bust open
 the main gate and the island gate.
 
-566
+421
 00:20:28,330 --> 00:20:30,710
 That way, the train can pass through.
 
-567
+422
 00:20:31,130 --> 00:20:36,590
 After that, you'll need to keep moving forward,
 no matter how many of us fall.
 
-568
+423
 00:20:38,720 --> 00:20:41,220
 We have just over sixty people,
 
-569
+424
 00:20:41,220 --> 00:20:44,560
 but our enemy's forces are probably
 well above 2,000 or even 3,000.
 
-570
+425
 00:20:45,430 --> 00:20:50,980
 We'd like you guys to only go after CP9
 and avoid any unnecessary battles.
 
-571
+426
 00:20:50,980 --> 00:20:52,980
 Okay, got it.
 
-572
+427
 00:20:52,980 --> 00:20:54,480
 Okay, guys!
 
-573
+428
 00:20:54,480 --> 00:20:57,150
 We just arrived in front of the island!
 
-574
+429
 00:20:57,150 --> 00:21:01,070
 Take a good look at the sky
 behind Enies Lobby.
 
-575
+430
 00:21:02,530 --> 00:21:04,910
 Those are the Gates of Justice.
 
-576
+431
 00:21:04,910 --> 00:21:10,830
 – Whoooa! They're huuuge!
 – Whoooa! They're huuuge!
 
-577
+432
 00:21:13,750 --> 00:21:16,800
 They never open all the way.
 
-578
+433
 00:21:16,800 --> 00:21:21,840
 When criminals are taken through them,
 they open just a crack.
 
-579
+434
 00:21:22,300 --> 00:21:26,180
 Behind those doors is a nest of
 giant sea kings just like in the Calm Belt,
 
-580
+435
 00:21:26,180 --> 00:21:30,190
 the areas of sea that run along
 both sides of the Grand Line.
 
-581
+436
 00:21:30,560 --> 00:21:33,400
 So no ordinary ships venture in there.
 
-582
+437
 00:21:33,400 --> 00:21:35,770
 I don't know how,
 
-583
+438
 00:21:35,770 --> 00:21:39,820
 but the Marines have a way to pass
 through the gates without being harmed.
 
-584
+439
 00:21:39,820 --> 00:21:43,620
 In other words, just like the pirate girl said,
 
-585
+440
 00:21:43,620 --> 00:21:46,660
 if you want to rescue a criminal
 who's been brought here,
 
-586
+441
 00:21:46,660 --> 00:21:50,410
 you've got until the moment
 before they go through those gates to do it!
 
-587
+442
 00:21:50,410 --> 00:21:53,460
 Now, there's no time to lose!
 
-588
+443
 00:21:55,960 --> 00:21:58,670
 All right! As planned, we're gonna go in first!
 
-589
+444
 00:21:59,510 --> 00:22:01,510
 We'll cover your entrance!
 
-590
+445
 00:22:01,510 --> 00:22:04,720
 Hey, you two! Aren't you
 supposed to be with us?!
 
-591
+446
 00:22:10,180 --> 00:22:11,890
 Oh? Where's Luffy?
 
-592
+447
 00:22:11,890 --> 00:22:14,520
 Huh? He was right here a second ago.
 
-593
+448
 00:22:20,690 --> 00:22:21,950
 Is that Mr. Straw Hat?
 
-594
+449
 00:22:21,950 --> 00:22:23,530
 What?!
 
-595
+450
 00:22:26,870 --> 00:22:29,330
 – What?!
 – What?!
 
-596
+451
 00:22:29,330 --> 00:22:32,660
 Why the hell is he doing things on his own?!
 
-597
+452
 00:22:32,660 --> 00:22:35,460
 That guy didn't get the plan at all!
 
-598
+453
 00:22:37,210 --> 00:22:38,960
 So much for that...
 
-599
+454
 00:22:38,960 --> 00:22:40,920
 He said "got it," didn't he?
 
-600
+455
 00:22:40,920 --> 00:22:43,550
 It's impossible for him to wait five minutes.
 
-601
+456
 00:22:43,550 --> 00:22:45,140
 We should've known.
 
-602
+457
 00:22:46,970 --> 00:22:49,810
 What an impatient guy!
 
-603
+458
 00:22:49,810 --> 00:22:52,230
 Go! Pirate guy!
 
-604
+459
 00:22:56,100 --> 00:22:59,360
 Sodom and Gomorrah, don't fall behind!
 
-605
+460
 00:22:59,360 --> 00:23:03,030
 Climb up the iron fence
 and break open the main gate!
 
-606
+461
 00:23:06,320 --> 00:23:09,620
 – Yeah!
 – Yeah!
 
-607
+462
 00:23:10,080 --> 00:23:12,450
 Gum-Gum...
 
-608
+463
 00:23:12,450 --> 00:23:15,040
 Rocket!
 
-609
+464
 00:23:16,120 --> 00:23:17,080
 What was that...?
 
-610
+465
 00:23:18,960 --> 00:23:20,210
 Something just flew by!
 
-611
+466
 00:23:24,470 --> 00:23:26,050
 What is this place?!
 
-612
+467
 00:23:26,050 --> 00:23:27,720
 What a huge hole!
 
-613
+468
 00:23:27,720 --> 00:23:29,760
 It looks like the island is floating.
 
-614
+469
 00:23:31,310 --> 00:23:32,770
 There's someone up there!
 
-615
+470
 00:23:32,770 --> 00:23:35,230
 It's an intruder! Shoot him down!
 
-616
+471
 00:23:35,940 --> 00:23:37,730
 They found me.
 
-617
+472
 00:23:40,730 --> 00:23:42,610
 He went past the gate!
 
-618
+473
 00:23:47,990 --> 00:23:50,280
 This is the main gate! This is the main gate!
 
-619
+474
 00:23:50,280 --> 00:23:52,580
 Reporting to the chief and the island gate!
 
-620
+475
 00:23:53,200 --> 00:23:55,830
 This is the main gate! Do you copy?!
 
-621
+476
 00:23:57,170 --> 00:23:59,330
 What is it? What's going on?
 
-622
+477
 00:23:59,710 --> 00:24:04,050
 An intruder climbed over the main gate
 and is rapidly approaching the island gate!
 
-623
+478
 00:24:04,050 --> 00:24:07,720
 So it's just one intruder.
 Calm down and take care of him.
 
-624
+479
 00:24:07,720 --> 00:24:08,510
 So it's just one intruder.
 Calm down and take care of him.
 
-625
+480
 00:24:08,510 --> 00:24:10,600
 Yes, but...
 
-626
+481
 00:24:10,600 --> 00:24:12,510
 This is the island gate.
 
-627
+482
 00:24:12,510 --> 00:24:14,100
 We have eyes on the intruder.
 
-628
+483
 00:24:14,100 --> 00:24:16,730
 We'll take care of him right away, rest assured.
 
-629
+484
 00:24:19,150 --> 00:24:21,730
 Hey, kid. Stop this already.
 
-630
+485
 00:24:21,730 --> 00:24:23,690
 Do you know what this place is?
 
-631
+486
 00:24:23,690 --> 00:24:25,610
 Do not take him lightly!
 
-632
+487
 00:24:25,610 --> 00:24:27,860
 Either my eyes deceive me, or that man is...
 
-633
+488
 00:24:29,910 --> 00:24:31,620
 Straw Hat Luffy!
 
-634
+489
 00:24:37,410 --> 00:24:39,540
 What?! Can you confirm what you just said?!
 
-635
+490
 00:24:39,540 --> 00:24:41,210
 I think it's Straw Hat...
 
-636
+491
 00:24:42,960 --> 00:24:46,260
 a pirate with a 100-million-berry
 bounty on his head!
 
-637
+492
 00:24:51,430 --> 00:24:52,760
 Where's Robin?!
 
-638
+493
 00:25:08,280 --> 00:25:12,240
 Where the hell is Robin?!

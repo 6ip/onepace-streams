@@ -1070,11 +1070,11 @@ del Barco-Hunter!
 
 254
 00:16:30,350 --> 00:16:30,850
-Monkey, monkey, monkey!
+Monkey,
 
 255
 00:16:30,850 --> 00:16:31,350
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 256
 00:16:31,350 --> 00:16:33,640
@@ -1082,11 +1082,11 @@ Monkey, monkey, monkey!
 
 257
 00:16:32,100 --> 00:16:32,640
-Monkey, monkey, monkey!
+Monkey,
 
 258
 00:16:32,640 --> 00:16:33,100
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 259
 00:16:33,100 --> 00:16:35,310
@@ -1094,11 +1094,11 @@ Monkey, monkey, monkey!
 
 260
 00:16:34,140 --> 00:16:34,430
-Monkey, monkey, monkey!
+Monkey,
 
 261
 00:16:34,430 --> 00:16:34,810
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 262
 00:16:34,810 --> 00:16:37,100
@@ -1106,11 +1106,11 @@ Monkey, monkey, monkey!
 
 263
 00:16:35,770 --> 00:16:36,270
-Monkey, monkey, monkey!
+Monkey,
 
 264
 00:16:36,270 --> 00:16:36,690
-Monkey, monkey, monkey!
+Monkey, monkey,
 
 265
 00:16:36,690 --> 00:16:37,100

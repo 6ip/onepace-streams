@@ -428,39 +428,39 @@ I did it... I did it! Usopp... Vivi...!
 
 101
 00:10:59,510 --> 00:10:59,640
-Battle Behind the Medi Assembly Hall
+Bat
 
 102
 00:10:59,640 --> 00:10:59,760
-Battle Behind the Medi Assembly Hall
+Battle
 
 103
 00:10:59,760 --> 00:10:59,890
-Battle Behind the Medi Assembly Hall
+Battle Be
 
 104
 00:10:59,890 --> 00:11:00,010
-Battle Behind the Medi Assembly Hall
+Battle Behind
 
 105
 00:11:00,010 --> 00:11:00,510
-Battle Behind the Medi Assembly Hall
+Battle Behind the
 
 106
 00:11:00,510 --> 00:11:00,760
-Battle Behind the Medi Assembly Hall
+Battle Behind the Me
 
 107
 00:11:00,760 --> 00:11:00,930
-Battle Behind the Medi Assembly Hall
+Battle Behind the Medi
 
 108
 00:11:00,930 --> 00:11:01,060
-Battle Behind the Medi Assembly Hall
+Battle Behind the Medi Ass
 
 109
 00:11:01,060 --> 00:11:01,220
-Battle Behind the Medi Assembly Hall
+Battle Behind the Medi Assembly
 
 110
 00:11:01,220 --> 00:11:08,650
@@ -468,47 +468,47 @@ Battle Behind the Medi Assembly Hall
 
 111
 00:11:01,770 --> 00:11:01,930
-Alubarna North Block
+A
 
 112
 00:11:01,930 --> 00:11:02,060
-Alubarna North Block
+Alu
 
 113
 00:11:02,060 --> 00:11:02,270
-Alubarna North Block
+Aluba
 
 114
 00:11:02,270 --> 00:11:02,520
-Alubarna North Block
+Alubar
 
 115
 00:11:02,520 --> 00:11:02,770
-Alubarna North Block
+Alubarna
 
 116
 00:11:02,770 --> 00:11:03,270
-Alubarna North Block
+Alubarna No
 
 117
 00:11:03,270 --> 00:11:03,430
-Alubarna North Block
+Alubarna Nor
 
 118
 00:11:03,430 --> 00:11:03,600
-Alubarna North Block
+Alubarna North
 
 119
 00:11:03,600 --> 00:11:03,770
-Alubarna North Block
+Alubarna North B
 
 120
 00:11:03,770 --> 00:11:04,020
-Alubarna North Block
+Alubarna North Blo
 
 121
 00:11:04,020 --> 00:11:04,270
-Alubarna North Block
+Alubarna North Bloc
 
 122
 00:11:04,270 --> 00:11:08,650
@@ -516,15 +516,15 @@ Alubarna North Block
 
 123
 00:11:05,140 --> 00:11:05,520
-Winner: Nami
+Win
 
 124
 00:11:05,520 --> 00:11:06,270
-Winner: Nami
+Winner:
 
 125
 00:11:06,270 --> 00:11:06,520
-Winner: Nami
+Winner: Na
 
 126
 00:11:06,520 --> 00:11:08,650
@@ -1437,39 +1437,39 @@ You win...
 
 331
 00:32:11,910 --> 00:32:12,160
-Battle in Front of the Medi Assembly Hall
+Bat
 
 332
 00:32:12,160 --> 00:32:12,540
-Battle in Front of the Medi Assembly Hall
+Battle
 
 333
 00:32:12,540 --> 00:32:12,660
-Battle in Front of the Medi Assembly Hall
+Battle in
 
 334
 00:32:12,660 --> 00:32:13,080
-Battle in Front of the Medi Assembly Hall
+Battle in Front
 
 335
 00:32:13,080 --> 00:32:13,580
-Battle in Front of the Medi Assembly Hall
+Battle in Front of
 
 336
 00:32:13,580 --> 00:32:13,700
-Battle in Front of the Medi Assembly Hall
+Battle in Front of the
 
 337
 00:32:13,700 --> 00:32:13,910
-Battle in Front of the Medi Assembly Hall
+Battle in Front of the Medi
 
 338
 00:32:13,910 --> 00:32:14,040
-Battle in Front of the Medi Assembly Hall
+Battle in Front of the Medi Ass
 
 339
 00:32:14,040 --> 00:32:14,290
-Battle in Front of the Medi Assembly Hall
+Battle in Front of the Medi Assembly
 
 340
 00:32:14,290 --> 00:32:22,750
@@ -1477,47 +1477,47 @@ Battle in Front of the Medi Assembly Hall
 
 341
 00:32:14,900 --> 00:32:15,080
-Alubarna North Block
+A
 
 342
 00:32:15,080 --> 00:32:15,410
-Alubarna North Block
+Alu
 
 343
 00:32:15,410 --> 00:32:15,660
-Alubarna North Block
+Aluba
 
 344
 00:32:15,660 --> 00:32:16,040
-Alubarna North Block
+Alubar
 
 345
 00:32:16,040 --> 00:32:16,160
-Alubarna North Block
+Alubarna
 
 346
 00:32:16,160 --> 00:32:16,290
-Alubarna North Block
+Alubarna No
 
 347
 00:32:16,290 --> 00:32:16,660
-Alubarna North Block
+Alubarna Nor
 
 348
 00:32:16,660 --> 00:32:16,910
-Alubarna North Block
+Alubarna North
 
 349
 00:32:16,910 --> 00:32:17,170
-Alubarna North Block
+Alubarna North B
 
 350
 00:32:17,170 --> 00:32:17,540
-Alubarna North Block
+Alubarna North Blo
 
 351
 00:32:17,540 --> 00:32:17,670
-Alubarna North Block
+Alubarna North Bloc
 
 352
 00:32:17,670 --> 00:32:22,750
@@ -1525,15 +1525,15 @@ Alubarna North Block
 
 353
 00:32:18,580 --> 00:32:18,920
-Winner: Zoro
+Win
 
 354
 00:32:18,920 --> 00:32:20,130
-Winner: Zoro
+Winner:
 
 355
 00:32:20,130 --> 00:32:20,380
-Winner: Zoro
+Winner: Zo
 
 356
 00:32:20,380 --> 00:32:22,750

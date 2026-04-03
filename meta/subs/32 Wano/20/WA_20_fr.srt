@@ -1594,857 +1594,853 @@ dans un combat de samouraïs.
 Qu'en penses-tu, Otoko ?
 
 364
-00:23:15,660 --> 00:23:15,700
-CAPITALE DES FLEURS
-
-365
 00:23:15,700 --> 00:23:15,740
 CAPITALE DES FLEURS
 
-366
+365
 00:23:15,740 --> 00:23:15,780
 CAPITALE DES FLEURS
 
-367
+366
 00:23:15,780 --> 00:23:15,820
 CAPITALE DES FLEURS
 
-368
+367
 00:23:15,820 --> 00:23:15,860
 CAPITALE DES FLEURS
 
-369
+368
 00:23:15,860 --> 00:23:15,910
 CAPITALE DES FLEURS
 
-370
+369
 00:23:15,910 --> 00:23:15,950
 CAPITALE DES FLEURS
 
-371
+370
 00:23:15,950 --> 00:23:15,990
 CAPITALE DES FLEURS
 
-372
+371
 00:23:15,990 --> 00:23:16,030
 CAPITALE DES FLEURS
 
-373
+372
 00:23:16,030 --> 00:23:16,070
 CAPITALE DES FLEURS
 
-374
+373
 00:23:16,070 --> 00:23:16,110
 CAPITALE DES FLEURS
 
-375
+374
 00:23:16,110 --> 00:23:16,160
 CAPITALE DES FLEURS
 
-376
+375
 00:23:16,160 --> 00:23:16,200
 CAPITALE DES FLEURS
 
-377
+376
 00:23:16,200 --> 00:23:16,240
 CAPITALE DES FLEURS
 
-378
+377
 00:23:16,240 --> 00:23:16,280
 CAPITALE DES FLEURS
 
-379
+378
 00:23:16,280 --> 00:23:16,320
 CAPITALE DES FLEURS
 
-380
+379
 00:23:16,320 --> 00:23:16,360
 CAPITALE DES FLEURS
 
-381
+380
 00:23:16,360 --> 00:23:16,410
 CAPITALE DES FLEURS
 
-382
+381
 00:23:16,410 --> 00:23:16,450
 CAPITALE DES FLEURS
 
-383
+382
 00:23:16,450 --> 00:23:16,490
 CAPITALE DES FLEURS
 
-384
+383
 00:23:16,490 --> 00:23:16,530
 CAPITALE DES FLEURS
 
-385
+384
 00:23:16,530 --> 00:23:16,570
 CAPITALE DES FLEURS
 
-386
+385
 00:23:16,570 --> 00:23:16,620
 CAPITALE DES FLEURS
 
-387
+386
 00:23:16,620 --> 00:23:16,660
 CAPITALE DES FLEURS
 
-388
+387
 00:23:16,660 --> 00:23:16,700
 CAPITALE DES FLEURS
 
-389
+388
 00:23:16,700 --> 00:23:16,740
 CAPITALE DES FLEURS
 
-390
+389
 00:23:16,740 --> 00:23:16,780
 CAPITALE DES FLEURS
 
-391
+390
 00:23:16,780 --> 00:23:16,820
 CAPITALE DES FLEURS
 
-392
+391
 00:23:16,820 --> 00:23:16,870
 CAPITALE DES FLEURS
 
-393
+392
 00:23:16,870 --> 00:23:16,910
 CAPITALE DES FLEURS
 
-394
+393
 00:23:16,910 --> 00:23:16,950
 CAPITALE DES FLEURS
 
-395
+394
 00:23:16,950 --> 00:23:16,990
 CAPITALE DES FLEURS
 
-396
+395
 00:23:16,990 --> 00:23:17,030
 CAPITALE DES FLEURS
 
-397
+396
 00:23:17,030 --> 00:23:17,070
 CAPITALE DES FLEURS
 
-398
+397
 00:23:17,070 --> 00:23:17,120
 CAPITALE DES FLEURS
 
-399
+398
 00:23:17,120 --> 00:23:17,160
 CAPITALE DES FLEURS
 
-400
+399
 00:23:17,160 --> 00:23:17,200
 CAPITALE DES FLEURS
 
-401
+400
 00:23:17,200 --> 00:23:17,240
 CAPITALE DES FLEURS
 
-402
+401
 00:23:17,240 --> 00:23:17,280
 CAPITALE DES FLEURS
 
-403
+402
 00:23:17,280 --> 00:23:17,320
 CAPITALE DES FLEURS
 
-404
+403
 00:23:17,320 --> 00:23:17,370
 CAPITALE DES FLEURS
 
-405
+404
 00:23:17,370 --> 00:23:17,410
 CAPITALE DES FLEURS
 
-406
+405
 00:23:17,410 --> 00:23:17,450
 CAPITALE DES FLEURS
 
-407
+406
 00:23:17,450 --> 00:23:17,490
 CAPITALE DES FLEURS
 
-408
+407
 00:23:17,490 --> 00:23:18,450
 CAPITALE DES FLEURS
 
-409
+408
 00:23:19,410 --> 00:23:22,040
 Ville de Rasetsu
 Capitale des Fleurs
 
-410
+409
 00:23:28,760 --> 00:23:34,020
 Quartiers des Prisonniers
 Alias les Cellules Publiques
 Ville de Rasetsu
 
-411
+410
 00:23:29,780 --> 00:23:34,020
 Je ne m'attendais pas
 à voir tant de voyous ici !
 
-412
+411
 00:23:34,280 --> 00:23:38,220
 Jeunes gens, observez bien !
 
-413
+412
 00:23:38,720 --> 00:23:45,570
 Voici les visages de ceux qui osent
 se rebeller contre maître Orochi et Kaido !
 
-414
+413
 00:23:51,740 --> 00:23:53,490
 Allez, entre là-dedans !
 
-415
+414
 00:23:58,930 --> 00:24:00,750
 Je suis navré pour vous.
 
-416
+415
 00:24:01,350 --> 00:24:04,080
 Votre plan a été révélé...
 
-417
+416
 00:24:04,770 --> 00:24:06,330
 C'est un véritable échec.
 
-418
+417
 00:24:06,540 --> 00:24:09,000
 Monsieur Fukurokuju, 
 attendez un peu !
 
-419
+418
 00:24:09,200 --> 00:24:13,340
 Pourquoi penser que ce tatouage
 à la cheville est signe de rébellion ?
 
-420
+419
 00:24:13,810 --> 00:24:15,900
 C'est juste un symbole populaire !
 
-421
+420
 00:24:15,900 --> 00:24:17,800
 On ne va pas se rebeller !
 
-422
+421
 00:24:18,000 --> 00:24:18,960
 Silence !
 
-423
+422
 00:24:19,100 --> 00:24:22,510
 Comment expliquer
  ce prospectus alors ?
 
-424
+423
 00:24:24,040 --> 00:24:28,510
 Le croissant de lune inversé
 placé entre deux oiseaux...
 
-425
+424
 00:24:28,510 --> 00:24:33,770
 J'en conjecture que c'est un signe
 de ralliement contre maître Orochi.
 
-426
+425
 00:24:34,180 --> 00:24:37,160
 Et il ressemble étrangement
 à vos tatouages.
 
-427
+426
 00:24:37,720 --> 00:24:42,120
 C'est un ordre de maître Orochi.
 Maintenant, fermez-la et restez ici !
 
-428
+427
 00:24:54,060 --> 00:24:56,090
 On a un gros problème...
 
-429
+428
 00:24:56,090 --> 00:24:58,300
 Tout le monde va penser...
 
-430
+429
 00:24:59,960 --> 00:25:02,690
 que c'est à cause de nous
 que le plan a fuité...
 
-431
+430
 00:25:05,470 --> 00:25:06,560
 Tout va bien...
 
-432
+431
 00:25:06,800 --> 00:25:10,900
 Le capitaine nous fait confiance,
 j'en suis certain...
 
-433
+432
 00:25:15,360 --> 00:25:17,860
 Mine des Prisonniers
 Udon
 
-434
+433
 00:25:26,670 --> 00:25:30,200
 Ouais, allez !
 
-435
+434
 00:25:36,330 --> 00:25:38,920
 Je ferais bien
 un combat de sumo moi aussi...
 
-436
+435
 00:25:38,920 --> 00:25:42,750
 Je m'appelle Madilloman !
 Un Gifters qui a mangé...
 
-437
+436
 00:25:42,730 --> 00:25:46,640
 Madilloman
 Un Gifters
 Smile du Tatou
 
-438
+437
 00:25:43,000 --> 00:25:45,520
 le Smile du tatou !
 
-439
+438
 00:25:50,110 --> 00:25:53,100
 Ton corps
  a l'air vachement robuste !
 
-440
+439
 00:25:53,260 --> 00:25:54,740
 Parfait pour s'entraîner !
 
-441
+440
 00:25:54,740 --> 00:25:56,190
 Imbécile !
 
-442
+441
 00:25:56,490 --> 00:26:00,750
 Les balles de ce flingue
 sont faites de Granit Marin !
 
-443
+442
 00:26:03,360 --> 00:26:05,910
 C'est fini pour vous !
 
-444
+443
 00:26:07,490 --> 00:26:09,130
 "C'est fini" ?
 
-445
+444
 00:26:09,410 --> 00:26:14,750
 Mais qu'est-ce qu'il raconte ?
 C'est pas encore fini !
 
-446
+445
 00:26:16,410 --> 00:26:17,180
 Papy !
 
-447
+446
 00:26:17,510 --> 00:26:20,210
 Vers la droite, impulsion, puis saute !
 
-448
+447
 00:26:20,410 --> 00:26:20,920
 Quoi ?
 
-449
+448
 00:26:20,920 --> 00:26:22,140
 Crève !
 
-450
+449
 00:26:22,140 --> 00:26:23,800
 – Cours !
 – D'accord.
 
-451
+450
 00:26:24,800 --> 00:26:26,260
 Vers la droite...
 
-452
+451
 00:26:27,220 --> 00:26:28,220
 Impulsion...
 
-453
+452
 00:26:28,520 --> 00:26:30,390
 – Puis... 
 – Sale...
 
-454
+453
 00:26:30,390 --> 00:26:31,560
 Je saute !
 
-455
+454
 00:26:39,620 --> 00:26:41,820
 Quoi ?
 
-456
+455
 00:26:42,620 --> 00:26:43,820
 Aïe, aïe, aïe...
 
-457
+456
 00:26:45,210 --> 00:26:46,790
 Merde, merde, merde, merde !
 
-458
+457
 00:26:48,840 --> 00:26:51,040
 Bien joué, papy ! 
 Continue comme ça !
 
-459
+458
 00:26:51,240 --> 00:26:55,420
 Ça alors...
 Tu vois l'avenir ou quoi ?
 
-460
+459
 00:26:55,720 --> 00:26:56,760
 Te fous pas de moi !
 
-461
+460
 00:26:57,000 --> 00:27:01,670
 Personne ne peut faire ça !
 Qu'est-ce que t'as vraiment fait ?
 
-462
+461
 00:27:08,510 --> 00:27:10,190
 Papy ! 
 Vers la gauche, maintenant !
 
-463
+462
 00:27:10,190 --> 00:27:12,560
 – Hein ?
 – Enfoiré !
 
-464
+463
 00:27:12,900 --> 00:27:14,140
 Vers la gauche !
 
-465
+464
 00:27:15,730 --> 00:27:18,310
 Il fait chier, ce vieux !
 
-466
+465
 00:27:18,310 --> 00:27:19,610
 Évite-moi ça !
 
-467
+466
 00:27:24,500 --> 00:27:27,620
 Gauche ! Gauche ! Gauche ! Gauche !
 
-468
+467
 00:27:31,120 --> 00:27:32,130
 Saleté !
 
-469
+468
 00:27:36,290 --> 00:27:37,220
 Prends ça !
 
-470
+469
 00:27:44,450 --> 00:27:46,560
 C'est pas avec des flingues
 que tu vas m'avoir !
 
-471
+470
 00:27:48,080 --> 00:27:50,690
 En... Enfoiré !
 
-472
+471
 00:27:58,580 --> 00:28:01,280
 J'ai plus le choix !
 
-473
+472
 00:28:01,900 --> 00:28:04,080
 Sans même te toucher,
 je t'envoie valser !
 
-474
+473
 00:28:10,580 --> 00:28:11,740
 C'est pas ça.
 
-475
+474
 00:28:11,890 --> 00:28:13,910
 C'est juste l'Armement classique...
 
-476
+475
 00:28:17,410 --> 00:28:18,510
 Putain !
 
-477
+476
 00:28:20,240 --> 00:28:21,920
 Tatouguard !
 
-478
+477
 00:28:26,130 --> 00:28:26,980
 Toujours pas...
 
-479
+478
 00:28:27,340 --> 00:28:29,970
 C'est encore l'Armement classique...
 
-480
+479
 00:28:29,970 --> 00:28:32,240
 Hein ?
 Tu ne vas pas me frapper ?
 
-481
+480
 00:28:33,930 --> 00:28:36,070
 Alpaga Kenpo !
 
-482
+481
 00:28:37,010 --> 00:28:39,690
 Hé !
 Je vais par où maintenant ?
 
-483
+482
 00:28:40,350 --> 00:28:42,650
 Petit gars de paille !
 
-484
+483
 00:28:43,070 --> 00:28:45,160
 Bien ! Arrête-toi là !
 
-485
+484
 00:28:45,310 --> 00:28:46,240
 Hein ?
 
-486
+485
 00:28:51,350 --> 00:28:53,200
 C'est plus facile comme ça !
 
-487
+486
 00:28:53,450 --> 00:28:54,800
 Désolé !
 
-488
+487
 00:28:55,120 --> 00:28:57,230
 C'est parti, Alpagaman !
 
-489
+488
 00:28:57,410 --> 00:28:58,360
 Ouais !
 
-490
+489
 00:28:59,710 --> 00:29:05,060
 Repose-moi.
 Je ne veux pas te gêner davantage !
 
-491
+490
 00:29:06,160 --> 00:29:09,510
 Non, en fait,
 plus c'est lourd, mieux c'est !
 
-492
+491
 00:29:09,510 --> 00:29:10,680
 Hein ?
 
-493
+492
 00:29:15,360 --> 00:29:17,100
 C'est pour mon entraînement !
 
-494
+493
 00:29:22,420 --> 00:29:24,690
 Je vois, je vois...
 
-495
+494
 00:29:26,450 --> 00:29:32,530
 En voyant ce tract,
 nous avons compris pour la grande bataille.
 
-496
+495
 00:29:32,930 --> 00:29:35,500
 Deux oiseaux en feu,
 
-497
+496
 00:29:35,500 --> 00:29:38,260
 ça veut dire au crépuscule,
 le jour du Festival du Feu !
 
-498
+497
 00:29:38,260 --> 00:29:42,540
 Le point de rendez-vous pour l'assaut
 est le port de Habu !
 
-499
+498
 00:29:43,190 --> 00:29:46,810
 Oh, mon petit Kin'emon doit y avoir
 réfléchi sérieusement.
 
-500
+499
 00:29:47,650 --> 00:29:49,840
 Mon petit Kin'emon ?
 
-501
+500
 00:29:50,760 --> 00:29:53,750
 Pourquoi tu me regardes comme ça ?
 
-502
+501
 00:29:53,750 --> 00:29:55,270
 Ma petite Shinobu !
 
-503
+502
 00:29:57,420 --> 00:29:59,240
 Eh bien, je comprends.
 
-504
+503
 00:29:59,400 --> 00:30:01,950
 Ce n'est pas étonnant
 que tu aies l'air triste.
 
-505
+504
 00:30:02,330 --> 00:30:04,800
 Le plan est ruiné.
 
-506
+505
 00:30:05,010 --> 00:30:07,990
 Même les ennemis sont au courant.
 
-507
+506
 00:30:08,760 --> 00:30:11,740
 Oui... C'est vrai...
 
-508
+507
 00:30:12,260 --> 00:30:16,500
 Nos alliés au tatouage de croissant
 de lune inversée signifiant rébellion
 
-509
+508
 00:30:16,500 --> 00:30:18,710
 se font arrêter
 les uns après les autres...
 
-510
+509
 00:30:21,070 --> 00:30:25,500
 Ça serait bien de revenir en arrière
 et de dire « c'était une blague ! »,
 
-511
+510
 00:30:25,620 --> 00:30:29,090
 mais ça induirait en erreur
 nos alliés aussi.
 
-512
+511
 00:30:30,380 --> 00:30:31,800
 Mais avant ça,
 
-513
+512
 00:30:32,000 --> 00:30:35,330
 je ne savais pas
 pour le tatouage sur la cheville.
 
-514
+513
 00:30:35,690 --> 00:30:38,510
 Vous avez réussi
 à protéger les alliés comme moi.
 
-515
+514
 00:30:51,600 --> 00:30:55,240
 Ça va pas.
 J'y arrive pas du tout !
 
-516
+515
 00:30:55,240 --> 00:30:56,420
 Hein ?
 
-517
+516
 00:30:57,380 --> 00:31:00,160
 À chaque fois que tu en frappes un,
 
-518
+517
 00:31:00,320 --> 00:31:02,240
 tu répètes « c'est pas encore ça ».
 
-519
+518
 00:31:02,400 --> 00:31:04,130
 Qu'est-ce que tu essaies de faire ?
 
-520
+519
 00:31:04,130 --> 00:31:07,790
 Je veux les envoyer valser
 sans même avoir à les toucher !
 
-521
+520
 00:31:08,000 --> 00:31:09,430
 Si j'y arrive,
 
-522
+521
 00:31:09,810 --> 00:31:14,020
 je pense que je serai capable
 de briser la défense de Kaido !
 
-523
+522
 00:31:14,020 --> 00:31:16,770
 Les envoyer valser sans les toucher ?
 
-524
+523
 00:31:16,970 --> 00:31:17,900
 Ouais.
 
-525
+524
 00:31:18,350 --> 00:31:20,450
 On peut pas savoir sans essayer.
 
-526
+525
 00:31:20,600 --> 00:31:23,100
 Mais je l'ai déjà vu...
 
-527
+526
 00:31:24,000 --> 00:31:25,030
 Que ce soit Rayleigh...
 
-528
+527
 00:31:27,000 --> 00:31:29,360
 ou ce mec aux haches...
 
-529
+528
 00:31:30,490 --> 00:31:32,940
 Ils utilisaient le même
 Haki de l'Armement.
 
-530
+529
 00:31:33,370 --> 00:31:35,210
 Qu'est-ce qu'ils font de plus ?
 
-531
+530
 00:31:35,430 --> 00:31:38,170
 Le Haki doit être
 un concept étranger.
 
-532
+531
 00:31:38,670 --> 00:31:40,210
 Tu sais quelque chose ?
 
-533
+532
 00:31:40,350 --> 00:31:45,170
 À Wano, on a le pouvoir
 d'envelopper une arme d'énergie.
 
-534
+533
 00:31:46,080 --> 00:31:49,140
 Une bonne épée peut même
 fendre l'acier si on le souhaite,
 
-535
+534
 00:31:49,290 --> 00:31:52,390
 mais sans motivation,
 elle coupera à peine le papier.
 
-536
+535
 00:31:52,550 --> 00:31:55,100
 Tout dépend du bretteur.
 
-537
+536
 00:32:06,020 --> 00:32:07,110
 Papy.
 
-538
+537
 00:32:07,490 --> 00:32:10,360
 Imbécile !
 Tu viens pour te faire tuer ?
 
-539
+538
 00:32:11,570 --> 00:32:13,220
 Petit gars de paille.
 
-540
+539
 00:32:13,520 --> 00:32:16,490
 Observe la technique que
 j'ai perfectionnée
 
-541
+540
 00:32:16,880 --> 00:32:18,810
 au cours de mes combats.
 
-542
+541
 00:32:24,980 --> 00:32:29,520
 Malgré ce combat à mort
 dans lequel il est embarqué,
 
-543
+542
 00:32:29,520 --> 00:32:33,840
 il continue son entraînement ?
 
-544
+543
 00:32:35,300 --> 00:32:37,690
 Petit gars de paille !
 Dirige-moi !
 
-545
+544
 00:32:38,610 --> 00:32:39,300
 D'accord !
 
-546
+545
 00:32:46,920 --> 00:32:49,570
 Il va donner un coup vertical
 avec son épée droite !
 
-547
+546
 00:32:50,840 --> 00:32:51,990
 Compris.
 
-548
+547
 00:33:06,280 --> 00:33:08,620
 Sale vieillard !
 
-549
+548
 00:33:36,720 --> 00:33:38,240
 Il l'a eu !
 
-550
+549
 00:33:46,080 --> 00:33:47,170
 Papy...
 
-551
+550
 00:33:47,920 --> 00:33:52,120
 Le vieux Hyo a vaincu un Gifters !
 
-552
+551
 00:33:52,310 --> 00:33:53,510
 Alpagaman !
 
-553
+552
 00:33:56,530 --> 00:33:58,600
 Ce vieux gâteux...
 
-554
+553
 00:33:58,750 --> 00:34:01,940
 Je pensais qu'il avait déjà
 un pied dans la tombe.
 
-555
+554
 00:34:02,410 --> 00:34:05,060
 Mais il a encore de l'énergie !
 
-556
+555
 00:34:07,680 --> 00:34:09,900
 Le vieux Hyo serait vraiment...
 
-557
+556
 00:34:10,110 --> 00:34:12,610
 le fameux Hyogoro le Fleuri ?
 
-558
+557
 00:34:16,140 --> 00:34:17,540
 Petit gars de paille.
 
-559
+558
 00:34:19,450 --> 00:34:23,410
 Si c'est ce que tu cherches à faire,
 
-560
+559
 00:34:24,130 --> 00:34:27,240
 alors, je peux sans doute t'aider.
 
-561
+560
 00:34:32,510 --> 00:34:34,050
 Apprends-moi !
 
-562
+561
 00:34:35,780 --> 00:34:37,880
 C'est exactement ça !

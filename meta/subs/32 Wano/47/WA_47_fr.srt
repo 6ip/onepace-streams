@@ -1639,1508 +1639,1262 @@ Fille de Kaido
 391
 00:17:43,040 --> 00:17:43,080
 Fille de Kaido
+(Auto-proclamée Kozuki Oden)
 
 392
-00:17:43,040 --> 00:17:43,080
+00:17:43,080 --> 00:17:43,120
+Fille de Kaido
 (Auto-proclamée Kozuki Oden)
 
 393
-00:17:43,080 --> 00:17:43,120
+00:17:43,120 --> 00:17:43,160
 Fille de Kaido
+(Auto-proclamée Kozuki Oden)
 
 394
-00:17:43,080 --> 00:17:43,120
+00:17:43,160 --> 00:17:43,200
+Fille de Kaido
 (Auto-proclamée Kozuki Oden)
 
 395
-00:17:43,120 --> 00:17:43,160
+00:17:43,200 --> 00:17:43,250
 Fille de Kaido
+(Auto-proclamée Kozuki Oden)
 
 396
-00:17:43,120 --> 00:17:43,160
+00:17:43,250 --> 00:17:43,290
+Fille de Kaido
 (Auto-proclamée Kozuki Oden)
 
 397
-00:17:43,160 --> 00:17:43,200
+00:17:43,290 --> 00:17:43,330
 Fille de Kaido
+(Auto-proclamée Kozuki Oden)
 
 398
-00:17:43,160 --> 00:17:43,200
+00:17:43,330 --> 00:17:43,370
+Fille de Kaido
 (Auto-proclamée Kozuki Oden)
 
 399
-00:17:43,200 --> 00:17:43,250
+00:17:43,370 --> 00:17:43,410
 Fille de Kaido
+(Auto-proclamée Kozuki Oden)
 
 400
-00:17:43,200 --> 00:17:43,250
-(Auto-proclamée Kozuki Oden)
-
-401
-00:17:43,250 --> 00:17:43,290
-Fille de Kaido
-
-402
-00:17:43,250 --> 00:17:43,290
-(Auto-proclamée Kozuki Oden)
-
-403
-00:17:43,290 --> 00:17:43,330
-Fille de Kaido
-
-404
-00:17:43,290 --> 00:17:43,330
-(Auto-proclamée Kozuki Oden)
-
-405
-00:17:43,330 --> 00:17:43,370
-Fille de Kaido
-
-406
-00:17:43,330 --> 00:17:43,370
-(Auto-proclamée Kozuki Oden)
-
-407
-00:17:43,370 --> 00:17:43,410
-Fille de Kaido
-
-408
-00:17:43,370 --> 00:17:43,410
-(Auto-proclamée Kozuki Oden)
-
-409
 00:17:43,410 --> 00:17:43,830
 Fille de Kaido
 
-410
+401
 00:17:43,410 --> 00:17:43,750
 (Auto-proclamée Kozuki Oden)
 
-411
+402
 00:17:43,750 --> 00:17:43,790
 (Auto-proclamée Kozuki Oden)
 
-412
+403
 00:17:43,790 --> 00:17:43,830
 (Auto-proclamée Kozuki Oden)
 
-413
+404
 00:17:43,830 --> 00:17:43,870
 Fille de Kaido
-
-414
-00:17:43,830 --> 00:17:43,870
 (Auto-proclamée Kozuki Oden)
 
-415
+405
 00:17:43,870 --> 00:17:43,910
 Fille de Kaido
-
-416
-00:17:43,870 --> 00:17:43,910
 (Auto-proclamée Kozuki Oden)
 
-417
+406
 00:17:43,910 --> 00:17:43,950
 Fille de Kaido
-
-418
-00:17:43,910 --> 00:17:43,950
 (Auto-proclamée Kozuki Oden)
 
-419
+407
 00:17:43,950 --> 00:17:44,000
 Fille de Kaido
-
-420
-00:17:43,950 --> 00:17:44,000
 (Auto-proclamée Kozuki Oden)
 
-421
+408
 00:17:44,000 --> 00:17:44,040
 Fille de Kaido
-
-422
-00:17:44,000 --> 00:17:44,040
 (Auto-proclamée Kozuki Oden)
 
-423
+409
 00:17:44,040 --> 00:17:44,080
 Fille de Kaido
-
-424
-00:17:44,040 --> 00:17:44,080
 (Auto-proclamée Kozuki Oden)
 
-425
+410
 00:17:44,080 --> 00:17:44,120
 Fille de Kaido
-
-426
-00:17:44,080 --> 00:17:44,120
 (Auto-proclamée Kozuki Oden)
 
-427
+411
 00:17:44,120 --> 00:17:44,160
 Fille de Kaido
-
-428
-00:17:44,120 --> 00:17:44,160
 (Auto-proclamée Kozuki Oden)
 
-429
+412
 00:17:44,130 --> 00:17:44,170
 Y
 
-430
+413
 00:17:44,160 --> 00:17:44,200
 Fille de Kaido
-
-431
-00:17:44,160 --> 00:17:44,200
 (Auto-proclamée Kozuki Oden)
 
-432
+414
 00:17:44,170 --> 00:17:44,210
 Y
 
-433
+415
 00:17:44,200 --> 00:17:44,250
 Fille de Kaido
-
-434
-00:17:44,200 --> 00:17:44,250
 (Auto-proclamée Kozuki Oden)
-
-435
-00:17:44,200 --> 00:17:44,250
 Y
 
-436
+416
 00:17:44,210 --> 00:17:44,250
 a
 
-437
+417
 00:17:44,250 --> 00:17:44,290
 Fille de Kaido
-
-438
-00:17:44,250 --> 00:17:44,290
 (Auto-proclamée Kozuki Oden)
-
-439
-00:17:44,250 --> 00:17:44,290
 Y
-
-440
-00:17:44,250 --> 00:17:44,290
 a
 
-441
+418
 00:17:44,290 --> 00:17:44,330
 Fille de Kaido
-
-442
-00:17:44,290 --> 00:17:44,330
 (Auto-proclamée Kozuki Oden)
-
-443
-00:17:44,290 --> 00:17:44,330
 Y
-
-444
-00:17:44,290 --> 00:17:44,330
 a
-
-445
-00:17:44,290 --> 00:17:44,330
 m
 
-446
+419
 00:17:44,330 --> 00:17:44,370
 Fille de Kaido
-
-447
-00:17:44,330 --> 00:17:44,370
 (Auto-proclamée Kozuki Oden)
-
-448
-00:17:44,330 --> 00:17:44,370
 Y
-
-449
-00:17:44,330 --> 00:17:44,370
 a
 
-450
+420
 00:17:44,330 --> 00:17:44,380
 m
 
-451
+421
 00:17:44,370 --> 00:17:44,410
 Y
-
-452
-00:17:44,370 --> 00:17:44,410
 a
-
-453
-00:17:44,370 --> 00:17:44,410
 m
 
-454
+422
 00:17:44,380 --> 00:17:44,420
 a
 
-455
+423
 00:17:44,410 --> 00:17:44,450
 Y
-
-456
-00:17:44,410 --> 00:17:44,450
 a
-
-457
-00:17:44,410 --> 00:17:44,450
 m
 
-458
+424
 00:17:44,420 --> 00:17:44,460
 a
 
-459
+425
 00:17:44,450 --> 00:17:44,500
 Y
-
-460
-00:17:44,450 --> 00:17:44,500
 a
-
-461
-00:17:44,450 --> 00:17:44,500
 m
 
-462
+426
 00:17:44,460 --> 00:17:44,500
 t
 
-463
+427
 00:17:44,500 --> 00:17:44,540
 Y
-
-464
-00:17:44,500 --> 00:17:44,540
 a
-
-465
-00:17:44,500 --> 00:17:44,540
 m
-
-466
-00:17:44,500 --> 00:17:44,540
 t
 
-467
+428
 00:17:44,540 --> 00:17:44,580
 Y
-
-468
-00:17:44,540 --> 00:17:44,580
 a
-
-469
-00:17:44,540 --> 00:17:44,580
 m
-
-470
-00:17:44,540 --> 00:17:44,580
 t
 
-471
+429
 00:17:44,540 --> 00:17:44,590
 o
 
-472
+430
 00:17:44,580 --> 00:17:44,620
 Y
-
-473
-00:17:44,580 --> 00:17:44,620
 a
-
-474
-00:17:44,580 --> 00:17:44,620
 m
-
-475
-00:17:44,580 --> 00:17:44,620
 t
 
-476
+431
 00:17:44,590 --> 00:17:44,630
 o
 
-477
+432
 00:17:44,620 --> 00:17:44,660
 Y
-
-478
-00:17:44,620 --> 00:17:44,660
 a
-
-479
-00:17:44,620 --> 00:17:44,660
 m
-
-480
-00:17:44,620 --> 00:17:44,660
 t
-
-481
-00:17:44,620 --> 00:17:44,660
 o
 
-482
+433
 00:17:44,660 --> 00:17:44,710
 Y
-
-483
-00:17:44,660 --> 00:17:44,710
 a
-
-484
-00:17:44,660 --> 00:17:44,710
 m
-
-485
-00:17:44,660 --> 00:17:44,710
 t
-
-486
-00:17:44,660 --> 00:17:44,710
 o
 
-487
+434
 00:17:44,710 --> 00:17:44,750
 Y
-
-488
-00:17:44,710 --> 00:17:44,750
 a
-
-489
-00:17:44,710 --> 00:17:44,750
 m
-
-490
-00:17:44,710 --> 00:17:44,750
 t
-
-491
-00:17:44,710 --> 00:17:44,750
 o
 
-492
+435
 00:17:44,750 --> 00:17:44,790
 Y
-
-493
-00:17:44,750 --> 00:17:44,790
 a
-
-494
-00:17:44,750 --> 00:17:44,790
 m
-
-495
-00:17:44,750 --> 00:17:44,790
 t
-
-496
-00:17:44,750 --> 00:17:44,790
 o
 
-497
+436
 00:17:44,790 --> 00:17:44,870
 Y
-
-498
-00:17:44,790 --> 00:17:44,870
 a
-
-499
-00:17:44,790 --> 00:17:44,870
 m
-
-500
-00:17:44,790 --> 00:17:44,870
 t
-
-501
-00:17:44,790 --> 00:17:44,870
 o
 
-502
+437
 00:17:44,870 --> 00:17:44,910
 Y
-
-503
-00:17:44,870 --> 00:17:44,910
 a
-
-504
-00:17:44,870 --> 00:17:44,910
 m
-
-505
-00:17:44,870 --> 00:17:44,910
 t
-
-506
-00:17:44,870 --> 00:17:44,910
 o
 
-507
+438
 00:17:44,910 --> 00:17:44,960
 Y
-
-508
-00:17:44,910 --> 00:17:44,960
 a
-
-509
-00:17:44,910 --> 00:17:44,960
 m
-
-510
-00:17:44,910 --> 00:17:44,960
 t
-
-511
-00:17:44,910 --> 00:17:44,960
 o
 
-512
+439
 00:17:44,960 --> 00:17:45,660
 Y
+t
+o
 
-513
+440
 00:17:44,960 --> 00:17:45,750
 a
-
-514
-00:17:44,960 --> 00:17:45,750
 m
 
-515
-00:17:44,960 --> 00:17:45,660
-t
-
-516
-00:17:44,960 --> 00:17:45,660
-o
-
-517
+441
 00:17:45,660 --> 00:17:46,290
 Y
-
-518
-00:17:45,660 --> 00:17:46,290
 t
-
-519
-00:17:45,660 --> 00:17:46,290
 o
 
-520
+442
 00:17:45,750 --> 00:17:46,370
 a
-
-521
-00:17:45,750 --> 00:17:46,370
 m
 
-522
+443
 00:17:46,290 --> 00:17:46,670
 Y
-
-523
-00:17:46,290 --> 00:17:46,670
 t
-
-524
-00:17:46,290 --> 00:17:46,670
 o
 
-525
+444
 00:17:46,370 --> 00:17:46,670
 a
-
-526
-00:17:46,370 --> 00:17:46,670
 m
 
-527
+445
 00:17:51,090 --> 00:17:54,850
 Entrée
 arrière
 
-528
+446
 00:18:11,170 --> 00:18:13,610
 Je savais que vous viendriez.
 
-529
+447
 00:18:13,970 --> 00:18:18,830
 Il n'y avait certes nulle trace
 d'une infiltration des samouraïs,
 
-530
+448
 00:18:19,010 --> 00:18:22,040
 mais votre venue à vous
 demeurait inéluctable.
 
-531
+449
 00:18:24,170 --> 00:18:28,250
 Vous ne vous découragez jamais,
 je le sais mieux que quiconque !
 
-532
+450
 00:18:29,220 --> 00:18:31,130
 Ils se sont vraiment pointés !
 
-533
+451
 00:18:31,310 --> 00:18:35,430
 Le comble, après l'ébouillantage
 et vingt ans à se planquer !
 
-534
+452
 00:18:37,110 --> 00:18:38,350
 Kanjuro...
 
-535
+453
 00:18:38,530 --> 00:18:40,040
 Tu nous as trahis ?
 
-536
+454
 00:18:40,620 --> 00:18:43,100
 Vous n'entrerez pas.
 
-537
+455
 00:18:43,690 --> 00:18:44,600
 Izo...
 
-538
+456
 00:18:44,780 --> 00:18:48,570
 Dire que tu reviens livrer
 une bataille perdue d'avance...
 
-539
+457
 00:18:51,420 --> 00:18:54,050
 Pas mal, tes cavaliers sans tête.
 
-540
+458
 00:18:54,530 --> 00:18:55,910
 Sacré coup de pinceau.
 
-541
+459
 00:18:56,090 --> 00:18:58,600
 Vous avez beaucoup en commun.
 
-542
+460
 00:18:58,780 --> 00:19:01,700
 Comme eux, vous remuez
 tels des vermisseaux
 
-543
+461
 00:19:01,880 --> 00:19:04,120
 malgré la perte de votre tête Oden.
 
-544
+462
 00:19:04,300 --> 00:19:06,910
 Nous n'avons pas perdu notre tête.
 
-545
+463
 00:19:07,090 --> 00:19:09,800
 Le seigneur Momonosuke
 nous guide toujours !
 
-546
+464
 00:19:09,980 --> 00:19:12,210
 Notre seigneur est-il en vie ?
 
-547
+465
 00:19:14,260 --> 00:19:18,100
 Je ne peux pas
 m'avancer à ce sujet.
 
-548
+466
 00:19:18,430 --> 00:19:21,910
 Il tenta de me résister
 avec ses petits moyens.
 
-549
+467
 00:19:24,400 --> 00:19:27,230
 Comment puis-je retrouver
 le seigneur Orochi ?
 
-550
+468
 00:19:39,170 --> 00:19:40,650
 Tu ne m'échapperas pas !
 
-551
+469
 00:19:47,500 --> 00:19:52,300
 Je ne souffrirai pas d'être
 un poids pour mes hommes !
 
-552
+470
 00:20:12,190 --> 00:20:14,230
 À quoi crois-tu jouer ?
 
-553
+471
 00:20:28,170 --> 00:20:30,000
 Si tu devais t'enfuir,
 
-554
+472
 00:20:31,720 --> 00:20:34,880
 je ne serais plus en mesure
 de remplir mon rôle !
 
-555
+473
 00:20:39,130 --> 00:20:42,460
 Je comptais seulement
 lui faire perdre connaissance,
 
-556
+474
 00:20:42,640 --> 00:20:45,720
 mais je crains m'être
 quelque peu emporté.
 
-557
+475
 00:20:46,120 --> 00:20:49,550
 Par chance,
 votre petite teigne survécut,
 
-558
+476
 00:20:49,730 --> 00:20:53,060
 me permettant de le livrer
 sans problème à Orochi.
 
-559
+477
 00:20:54,830 --> 00:20:56,190
 Seigneur Momonosuke...
 
-560
+478
 00:20:56,730 --> 00:20:58,950
 Au cœur du château dans mon dos,
 
-561
+479
 00:20:59,130 --> 00:21:03,160
 l'exécution de Momonosuke
 suit son cours.
 
-562
+480
 00:21:05,080 --> 00:21:08,660
 Il nous suffit de vous retenir ici
 
-563
+481
 00:21:08,840 --> 00:21:12,630
 pour que dans quelques minutes,
 le clan Kozuki disparaisse.
 
-564
+482
 00:21:12,870 --> 00:21:15,300
 Ne nous sous-estime pas,
 Kanjuro !
 
-565
+483
 00:21:16,090 --> 00:21:18,080
 Chargez !
 
-566
+484
 00:21:29,740 --> 00:21:30,850
 Voie du Kappa.
 
-567
+485
 00:21:33,280 --> 00:21:34,530
 Yorikiri !
 
-568
+486
 00:21:36,200 --> 00:21:38,190
 Shuriken fleuris !
 
-569
+487
 00:21:49,060 --> 00:21:51,330
 Va crever !
 
-570
+488
 00:21:57,460 --> 00:21:59,840
 Hé, c'est quoi cette jambe ?
 
-571
+489
 00:22:01,730 --> 00:22:04,090
 Ma technique à deux sabres.
 Pas mal, hein ?
 
-572
+490
 00:22:04,270 --> 00:22:05,510
 Je sais pas trop...
 
-573
+491
 00:22:05,770 --> 00:22:06,600
 Et ton bras ?
 
-574
+492
 00:22:06,750 --> 00:22:07,800
 Cool, pas vrai ?
 
-575
+493
 00:22:07,990 --> 00:22:11,600
 Avec ça, Kaido,
 il va finir en passoire.
 
-576
+494
 00:22:11,780 --> 00:22:12,940
 Joli !
 
-577
+495
 00:22:18,980 --> 00:22:20,850
 Qu'y a-t-il donc, Kiku ?
 
-578
+496
 00:22:21,150 --> 00:22:24,270
 Je t'aimerais plus larmoyante !
 
-579
+497
 00:22:25,120 --> 00:22:26,060
 Allez...
 
-580
+498
 00:22:26,920 --> 00:22:28,270
 Sois gentille...
 
-581
+499
 00:22:28,530 --> 00:22:29,830
 Je te prie !
 
-582
+500
 00:22:36,510 --> 00:22:40,170
 Cesse tes fanfaronnades,
 je te prie, Kanjuro.
 
-583
+501
 00:22:43,890 --> 00:22:47,180
 Je nourrissais du respect pour toi,
 Yudachi Kanjuro.
 
-584
+502
 00:22:48,340 --> 00:22:50,270
 Tu étais un estimé camarade.
 
-585
+503
 00:22:54,200 --> 00:22:55,960
 Mais, prépare-toi.
 
-586
+504
 00:22:56,170 --> 00:22:59,900
 Car, mes lacérations te hanteront
 même dans l'autre monde.
 
-587
+505
 00:23:00,030 --> 00:23:00,070
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-588
+506
 00:23:00,070 --> 00:23:00,110
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-589
+507
 00:23:00,110 --> 00:23:00,150
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-590
+508
 00:23:00,150 --> 00:23:00,190
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-591
+509
 00:23:00,190 --> 00:23:00,230
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-592
+510
 00:23:00,230 --> 00:23:00,280
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-593
+511
 00:23:00,280 --> 00:23:00,320
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-594
+512
 00:23:00,320 --> 00:23:00,360
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-595
+513
 00:23:00,360 --> 00:23:00,400
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-596
+514
 00:23:00,400 --> 00:23:00,440
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-597
+515
 00:23:00,440 --> 00:23:07,820
 Kikunojo des neiges printanières
 Vassal du clan Kozuki
 
-598
+516
 00:23:00,690 --> 00:23:02,640
 Telles
 des neiges printanières,
 
-599
+517
 00:23:03,000 --> 00:23:05,980
 elles ne cesseront
 de tourmenter ton âme !
 
-600
+518
 00:23:11,660 --> 00:23:12,870
 Je t'attends, Kiku !
 
-601
+519
 00:23:27,510 --> 00:23:30,460
 Le visioescargophone
 va se rétablir un jour ou pas ?
 
-602
+520
 00:23:30,640 --> 00:23:33,730
 Le discours de Kaido a commencé !
 
-603
+521
 00:23:34,600 --> 00:23:37,490
 De mon point de vue,
 étant Kozuki Oden,
 
-604
+522
 00:23:37,880 --> 00:23:42,100
 toi, le petit frère d'Ace,
 tu devais me prendre sur ton navire.
 
-605
+523
 00:23:42,280 --> 00:23:43,530
 Du moins, j'imaginais.
 
-606
+524
 00:23:43,710 --> 00:23:47,350
 Je te signale
 que tout le monde aime Kozuki Oden.
 
-607
+525
 00:23:47,710 --> 00:23:50,160
 Tu peux pas prendre sa place
 l'air de rien.
 
-608
+526
 00:23:51,200 --> 00:23:53,540
 C'est vrai que t'es plus Oden que moi !
 
-609
+527
 00:23:53,720 --> 00:23:56,120
 Qu'est-ce que tu veux
 dire par là ?
 
-610
+528
 00:23:57,420 --> 00:24:00,540
 Peut-être suis-je Oden,
 mais je ne suis pas libre.
 
-611
+529
 00:24:02,190 --> 00:24:03,960
 À cause de ces menottes.
 
-612
+530
 00:24:07,090 --> 00:24:10,500
 Je voulais prendre la mer
 avec la flotte d'Ace.
 
-613
+531
 00:24:13,140 --> 00:24:17,510
 Sauf que depuis mes 8 ans,
 je suis retenu sur l'île.
 
-614
+532
 00:24:19,700 --> 00:24:21,310
 Comme un prisonnier ?
 
-615
+533
 00:24:21,490 --> 00:24:22,510
 Exactement.
 
-616
+534
 00:24:22,720 --> 00:24:26,780
 Elles exploseront si je sors de l'île,
 selon mon paternel.
 
-617
+535
 00:24:27,350 --> 00:24:30,840
 Il pourrait très bien mentir,
 je le sais.
 
-618
+536
 00:24:31,200 --> 00:24:34,160
 Quand même,
 un père qui fait sauter son propre fils ?
 
-619
+537
 00:24:34,990 --> 00:24:37,200
 Mais il reste une infime possibilité,
 
-620
+538
 00:24:37,380 --> 00:24:38,990
 et elle me terrorise.
 
-621
+539
 00:24:39,170 --> 00:24:41,240
 Mon père, c'est pas n'importe qui.
 
-622
+540
 00:24:41,420 --> 00:24:43,170
 Je te les enlève, sinon ?
 
-623
+541
 00:24:44,130 --> 00:24:45,010
 Pardon ?
 
-624
+542
 00:24:45,220 --> 00:24:49,680
 Tu veux vraiment te battre à nos côtés ?
 
-625
+543
 00:24:49,860 --> 00:24:53,760
 Je vais démolir Kaido,
 que tu regardes ou pas.
 
-626
+544
 00:24:53,940 --> 00:24:55,840
 Je ne demande que ça !
 
-627
+545
 00:24:56,020 --> 00:25:00,290
 Si tu savais combien de fois
 il m'a frappé gamin !
 
-628
+546
 00:25:00,650 --> 00:25:03,570
 À chaque fois que je le défiais,
 il me rossait !
 
-629
+547
 00:25:03,800 --> 00:25:06,050
 OK, j'ai compris.
 Je te les enlève.
 
-630
+548
 00:25:06,220 --> 00:25:10,820
 Comment ça, tu me les enlèves ?
 Je suis attaché depuis vingt ans...
 
-631
+549
 00:25:11,000 --> 00:25:12,770
 Ça ne sera pas si facile.
 
-632
+550
 00:25:12,950 --> 00:25:16,450
 La Guerre au Sommet de Barbe Blanche
 a pris fin il y a deux ans.
 
-633
+551
 00:25:22,300 --> 00:25:24,830
 C'est l'espace de concert !
 
-634
+552
 00:25:27,070 --> 00:25:30,250
 Enfin, de grands bouleversements
 refaçonnent le monde !
 
-635
+553
 00:25:30,430 --> 00:25:35,510
 Le Gouvernement savait ce qu'il faisait
 en supprimant les Grands Corsaires.
 
-636
+554
 00:25:40,850 --> 00:25:43,350
 C'est dire toute la confiance
 
-637
+555
 00:25:43,530 --> 00:25:47,440
 qu'il fait à sa nouvelle force
 pour nous maîtriser.
 
-638
+556
 00:25:51,630 --> 00:25:56,280
 Hors de question de ployer l'échine
 devant ces sales prétentieux !
 
-639
+557
 00:25:56,860 --> 00:25:59,800
 On va dénicher les armes antiques
 et ainsi mettre la main
 
-640
+558
 00:26:00,000 --> 00:26:02,620
 sur une force destructrice
 sans égale !
 
-641
+559
 00:26:08,270 --> 00:26:10,300
 Et dans ce seul but...
 
-642
+560
 00:26:19,470 --> 00:26:22,440
 notre équipage s'est allié
 à celui de Big Mom !
 
-643
+561
 00:26:38,160 --> 00:26:40,040
 Mais dis-moi...
 
-644
+562
 00:26:40,330 --> 00:26:46,670
 Olin l'Oiran
 Capitaine de l'équipage de Big Mom
 Prime : 4 Milliards 388 Millions de Berrys
 
-645
+563
 00:26:41,160 --> 00:26:44,540
 Tu m'as appelée, Kaido ?
 
-646
+564
 00:26:53,520 --> 00:26:54,660
 Bon sang de bonsoir...
 
-647
+565
 00:26:55,690 --> 00:26:56,890
 C'est Big Mom !
 
-648
+566
 00:26:59,990 --> 00:27:02,910
 Comme on se retrouve, mon Zeus.
 
-649
+567
 00:27:03,100 --> 00:27:05,250
 Oh, Mama...
 
-650
+568
 00:27:05,430 --> 00:27:06,230
 Mama !
 
-651
+569
 00:27:09,610 --> 00:27:12,600
 De près, elle fiche bien les jetons.
 
-652
+570
 00:27:12,780 --> 00:27:15,610
 C'est la vieille bique
 la plus puissante du monde !
 
-653
+571
 00:27:20,580 --> 00:27:21,830
 Zeus !
 
-654
+572
 00:27:22,980 --> 00:27:23,620
 Nami !
 
-655
+573
 00:27:24,040 --> 00:27:25,670
 Elle s'est fait capturer ?
 
-656
+574
 00:27:27,170 --> 00:27:30,200
 Tu en auras mis du temps, Linlin.
 
-657
+575
 00:27:30,380 --> 00:27:32,470
 J'en ai marre que tu traînasses !
 
-658
+576
 00:27:33,600 --> 00:27:36,800
 Fais pas ton rabat-joie, Kaido.
 
-659
+577
 00:27:37,000 --> 00:27:38,850
 Je suis pile à l'heure, non ?
 
-660
+578
 00:27:44,360 --> 00:27:46,730
 Kaido n'a pas menti.
 
-661
+579
 00:27:46,910 --> 00:27:51,390
 Nous faisons cause commune
 pour remplir un certain objectif.
 
-662
+580
 00:27:52,440 --> 00:27:53,510
 Quel objectif ?
 
-663
+581
 00:27:53,690 --> 00:27:56,900
 Il sera irréalisable
 si des frictions nous opposent,
 
-664
+582
 00:27:57,080 --> 00:28:00,480
 mais ensemble,
 notre but est à portée de main.
 
-665
+583
 00:28:00,660 --> 00:28:02,830
 Vous avez compris, les gars ?
 
-666
+584
 00:28:03,010 --> 00:28:06,280
 Fini de jouer, on passe
 aux choses sérieuses !
 
-667
+585
 00:28:06,640 --> 00:28:08,670
 L'heure est venue de chercher...
 
-668
+586
 00:28:08,850 --> 00:28:11,460
 ... le trésor qui les rassemblait tous.
 
-669
+587
 00:28:14,090 --> 00:28:17,260
 On va trouver le One Piece !
 
-670
+588
 00:28:24,020 --> 00:28:25,210
 Le One Piece...
 
-671
+589
 00:28:25,840 --> 00:28:28,800
 Mais puisque je leur dis
 qu'il est à moi !
 
-672
+590
 00:28:29,000 --> 00:28:31,060
 Ils commencent à me gonfler !
 
-673
+591
 00:28:32,780 --> 00:28:35,380
 Les armes antiques sont terribles,
 
-674
+592
 00:28:35,740 --> 00:28:39,640
 elles mettront le monde
 à feu et à sang.
 
-675
+593
 00:28:40,490 --> 00:28:42,250
 Soyez prêts.
 
-676
+594
 00:28:42,490 --> 00:28:43,900
 C'est ce qu'on veut !
 
-677
+595
 00:28:44,120 --> 00:28:47,960
 Le monde de violence
 dont rêvent les pirates !
 
-678
+596
 00:28:54,640 --> 00:28:56,300
 Comme c'est merveilleux !
 
-679
+597
 00:28:58,360 --> 00:29:02,470
 Maintenant, subordonnés d'Orochi,
 je dois vous parler.
 
-680
+598
 00:29:03,690 --> 00:29:06,110
 Je vous donne le choix !
 
-681
+599
 00:29:08,560 --> 00:29:10,120
 Comment cela ?
 
-682
+600
 00:29:11,700 --> 00:29:13,260
 Votre pays,
 
-683
+601
 00:29:13,440 --> 00:29:17,680
 c'est une forteresse naturelle
 grâce à ses cascades qui le protègent.
 
-684
+602
 00:29:17,830 --> 00:29:21,250
 Le Gouvernement n'y glissera
 même pas un orteil.
 
-685
+603
 00:29:21,610 --> 00:29:24,410
 En accroissant le nombre
 d'usines d'armes
 
-686
+604
 00:29:26,320 --> 00:29:29,860
 et en mettant à contribution
 les habitants de la capitale,
 
-687
+605
 00:29:30,040 --> 00:29:32,190
 Wano deviendra un paradis !
 
-688
+606
 00:29:32,370 --> 00:29:36,000
 Une terre sans foi ni loi,
 une utopie pour pirates !
 
-689
+607
 00:29:41,630 --> 00:29:42,740
 Hé oh...
 
-690
+608
 00:29:45,510 --> 00:29:46,560
 Attend !
 
-691
+609
 00:29:46,950 --> 00:29:47,910
 Kaido !
 
-692
+610
 00:29:48,090 --> 00:29:49,840
 Tu te jouais de moi ?
 
-693
+611
 00:29:50,020 --> 00:29:53,460
 La Capitale des Fleurs
 demeure toujours mon logis !
 
-694
+612
 00:29:57,900 --> 00:29:59,860
 Tu m'écoutes, fumier ?
 
-695
+613
 00:30:01,160 --> 00:30:03,220
 Je ferai ployer le genou
 
-696
+614
 00:30:03,400 --> 00:30:06,810
 aux criminels Kozuki,
 nos oppresseurs de toujours !
 
-697
+615
 00:30:06,990 --> 00:30:09,920
 Plus jamais ils n'oseront me résister,
 
-698
+616
 00:30:10,100 --> 00:30:12,920
 paralysés par le spectre de la peur !
 
-699
+617
 00:30:13,130 --> 00:30:17,640
 C'était déjà vrai,
 et cela le sera à tout jamais !
 
-700
+618
 00:30:17,920 --> 00:30:20,800
 C'est moi qui annihilerai Wano !
 
-701
+619
 00:30:21,010 --> 00:30:24,420
 Ce pays m'appartient, tu entends !
 
-702
+620
 00:30:24,620 --> 00:30:26,800
 Tu vas rester à ta place,
 
-703
+621
 00:30:27,220 --> 00:30:28,430
 Kaido !
 
-704
+622
 00:30:28,650 --> 00:30:30,710
 Tu n'étais qu'un second couteau !
 
-705
+623
 00:30:30,890 --> 00:30:33,620
 Qui t'a offert
 tes armes sur un plateau ?
 
-706
+624
 00:30:33,780 --> 00:30:36,250
 J'ai besoin de le rappeler ?
 
-707
+625
 00:30:36,570 --> 00:30:41,030
 Si Wano te lèche les pieds aujourd'hui,
 c'est entièrement grâce à moi !
 
-708
+626
 00:30:46,340 --> 00:30:48,450
 Tant que tu comprends, cela me va.
 
-709
+627
 00:30:48,880 --> 00:30:53,460
 Il ne nous reste plus
 qu'à buter le reje...
 
-710
+628
 00:31:09,550 --> 00:31:10,960
 J'en ai rien à foutre !
 
-711
+629
 00:31:11,320 --> 00:31:13,850
 J'en ai plus rien à faire,
 de ce sale petit cafard.
 
-712
+630
 00:31:36,200 --> 00:31:37,630
 Ridicule.
 
-713
+631
 00:31:42,150 --> 00:31:44,010
 Me concernant...
 
-714
+632
 00:31:48,980 --> 00:31:50,470
 Vos histoires de Kurozumi
 
-715
+633
 00:31:51,220 --> 00:31:52,820
 ou de Kozuki...
 
-716
+634
 00:31:56,450 --> 00:31:58,800
 Je m'en contre fous !
 
-717
+635
 00:32:11,200 --> 00:32:11,870
 Momo !
 
-718
+636
 00:32:12,320 --> 00:32:14,290
 Hé, mais c'est Momo !
 
-719
+637
 00:32:15,250 --> 00:32:16,900
 Momo, j'arrive !
 
-720
+638
 00:32:17,080 --> 00:32:18,710
 Arrête de hurler !
 
-721
+639
 00:32:24,150 --> 00:32:26,580
 – C'était quoi ?
 – Qu'est-ce qui se passe ?
 
-722
+640
 00:32:29,100 --> 00:32:32,290
 La mouche qui nous importunait
 vient de crever.
 
-723
+641
 00:32:32,490 --> 00:32:37,060
 Vous avez cinq secondes pour choisir,
 subalternes d'Orochi !
 
-724
+642
 00:32:37,820 --> 00:32:41,020
 Deviendrez-vous des pirates
 à mes côtés
 
-725
+643
 00:32:41,410 --> 00:32:44,730
 ou mourrez-vous en vous frottant
 à nous maintenant ?
 
-726
+644
 00:32:45,500 --> 00:32:49,080
 Je compte remodeler votre pays
 
-727
+645
 00:32:49,260 --> 00:32:51,820
 et en faire un empire
 de la piraterie
 
-728
+646
 00:32:52,000 --> 00:32:53,780
 avant la guerre qui plane.
 
-729
+647
 00:32:55,820 --> 00:32:59,290
 Les actes de piraterie
 reprendront de plus belle.
 
-730
+648
 00:33:00,040 --> 00:33:01,000
 Ce soir,
 
-731
+649
 00:33:01,180 --> 00:33:04,200
 je déplacerai Onigashima
 à la Capitale des Fleurs.
 
-732
+650
 00:33:04,380 --> 00:33:06,670
 Le pays de Wano cessera d'exister !
 
-733
+651
 00:33:07,300 --> 00:33:09,010
 L'enfoiré !
 
-734
+652
 00:33:09,190 --> 00:33:12,500
 Ce pays prendra le nom
 de "Nouvelle Onigashima".
 
-735
+653
 00:33:12,700 --> 00:33:15,530
 Et le Shogun sera mon fils...
 
-736
+654
 00:33:15,890 --> 00:33:17,600
 Yamato !
 
-737
+655
 00:33:21,060 --> 00:33:22,240
 Pardon ?
 
-738
+656
 00:33:23,690 --> 00:33:27,650
 Qu'est-ce qu'il vient de dire,
 l'autre pourriture ?
 
-739
+657
 00:33:34,150 --> 00:33:36,300
 Ça ne se passera pas comme ça !
 
-740
+658
 00:33:36,540 --> 00:33:38,830
 Enfoiré de paternel !
 
-741
+659
 00:33:39,410 --> 00:33:41,850
 On doit se grouiller,
 Momo va y passer !
 
-742
+660
 00:33:42,000 --> 00:33:43,620
 OK, on prend un raccourci.
 
-743
+661
 00:33:43,800 --> 00:33:44,540
 Ça marche !

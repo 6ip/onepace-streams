@@ -506,1241 +506,1238 @@ Olen varas joka vie merirosvoilta aarteet!
 120
 00:08:59,390 --> 00:09:00,520
 Nimeni on Nami!
-
-121
-00:08:59,390 --> 00:09:00,520
 Nami: Suom. aalto, laine
 
-122
+121
 00:09:00,520 --> 00:09:02,440
 Eikö tehtäisi yhteistyötä?!
 
-123
+122
 00:09:02,900 --> 00:09:05,900
 Mua ei kiinnosta yhteistyö.
 
-124
+123
 00:09:06,280 --> 00:09:08,610
 O-Odota nyt!
 
-125
+124
 00:09:09,740 --> 00:09:11,360
 Pysähdy hetkeksi!
 
-126
+125
 00:09:13,780 --> 00:09:16,840
 Eikö varasta ole vieläkään napattu?!
 
-127
+126
 00:09:17,870 --> 00:09:23,170
 J-Jäljitetään paraikaa,
 kapteeni Buggy! Niin!
 
-128
+127
 00:09:23,210 --> 00:09:28,960
 Merirosvokapteeni
 Buggy-klovni
 
-129
+128
 00:09:23,960 --> 00:09:28,960
 Entä miten ihmeessä se sai karttamme?!
 
-130
+129
 00:09:30,420 --> 00:09:35,470
 Juuri kun mä olin aikeissa hiukan
 mellastaa Grand Linellä!
 
-131
+130
 00:09:35,470 --> 00:09:40,230
 N-Nähkääs, vajan oven
 saranat olivat irtonaiset.
 
-132
+131
 00:09:41,020 --> 00:09:42,020
 Mitääh?!
 
-133
+132
 00:09:42,020 --> 00:09:44,650
 S-Saranat olivat irtona...
 
-134
+133
 00:09:44,940 --> 00:09:47,210
 Kenellä on irtonenä?!
 
-135
+134
 00:09:49,110 --> 00:09:51,860
 Onko nenäni hassu?
 
-136
+135
 00:09:51,860 --> 00:09:53,740
 Kuin irtonenä?!
 
-137
+136
 00:09:53,740 --> 00:09:55,830
 H-Hirveä väärinkäsitys!
 
-138
+137
 00:09:55,830 --> 00:09:58,290
 Jaa että hirveä väritys?!
 
-139
+138
 00:10:00,160 --> 00:10:02,120
 A-Apua!
 
-140
+139
 00:10:08,250 --> 00:10:09,630
 S-Siinä se on...
 
-141
+140
 00:10:09,630 --> 00:10:11,880
 Hänen pirunmarjakykynsä!
 
-142
+141
 00:10:18,260 --> 00:10:19,810
 Kuka mä olen?
 
-143
+142
 00:10:20,810 --> 00:10:23,190
 Ka-Kapteeni Buggy...
 
-144
+143
 00:10:28,650 --> 00:10:30,650
 Niin mitä tapahtuu vastustajilleni?
 
-145
+144
 00:10:30,650 --> 00:10:33,610
 He kuolevat räväkästi!
 
-146
+145
 00:10:33,610 --> 00:10:35,570
 Antakaa anteeksi!
 
-147
+146
 00:10:35,570 --> 00:10:38,490
 En sano enää koskaan!
 
-148
+147
 00:10:38,490 --> 00:10:41,080
 Armahtakaa minut!
 
-149
+148
 00:10:43,500 --> 00:10:48,040
 Tämän kerran päätän
 ymmärtää että se oli vahinko.
 
-150
+149
 00:10:49,250 --> 00:10:50,880
 Hankkikaa merikartta takaisin!
 
-151
+150
 00:10:50,880 --> 00:10:53,340
 Jos tämä menee mönkään...!
 Tiedätte kyllä.
 
-152
+151
 00:10:53,340 --> 00:10:55,680
 – Käskystä! Kapteeni Buggy!
 – Käskystä! Kapteeni Buggy!
 
-153
+152
 00:11:01,180 --> 00:11:02,270
 Namskis!
 
-154
+153
 00:11:02,270 --> 00:11:04,770
 Onko tämä sun kämppäsi?
 
-155
+154
 00:11:05,060 --> 00:11:07,860
 En edes ole täältä kotoisin.
 
-156
+155
 00:11:08,310 --> 00:11:11,110
 Väki on paennut kaupungista
 Buggyn vuoksi.
 
-157
+156
 00:11:11,820 --> 00:11:12,740
 Joten olet rosvo.
 
-158
+157
 00:11:12,740 --> 00:11:14,240
 Töykeästi sanottu!
 
-159
+158
 00:11:14,240 --> 00:11:17,320
 Olen varas joka varastaa
 vain merirosvoilta!
 
-160
+159
 00:11:17,320 --> 00:11:20,120
 Aivan eri asia kuin joku murtovaras!
 
-161
+160
 00:11:21,080 --> 00:11:23,040
 Rosvo on rosvo.
 
-162
+161
 00:11:24,410 --> 00:11:29,040
 Aion saada kasaan sata miljoonaa bellyä,
 kävi miten kävi!
 
-163
+162
 00:11:30,250 --> 00:11:32,500
 Mihin sä niin paljon tarttet?
 
-164
+163
 00:11:32,500 --> 00:11:33,760
 Se on salaisuus!
 
-165
+164
 00:11:34,510 --> 00:11:39,220
 Äsken pihistämäni Grand Linen kartan
 avulla sata miljoonaa ei ole mahdoton!
 
-166
+165
 00:11:40,350 --> 00:11:41,470
 Karttako?
 
-167
+166
 00:11:41,470 --> 00:11:42,890
 Satutko olemaan navigointitaitoinen?!
 
-168
+167
 00:11:43,560 --> 00:11:46,520
 Vai että olenko!
 Harvoin olen tavannut vertaistani!
 
-169
+168
 00:11:47,350 --> 00:11:49,100
 Huippua, juuri sopivasti!
 
-170
+169
 00:11:49,100 --> 00:11:52,440
 Ryhdy meidän sakin navigaattoriksi!
 
-171
+170
 00:11:52,440 --> 00:11:53,440
 Ihanko totta?
 
-172
+171
 00:11:53,440 --> 00:11:55,900
 Jep! Liity mun merirosvoihin!
 
-173
+172
 00:11:56,650 --> 00:11:57,400
 Ei käy!
 
-174
+173
 00:11:59,620 --> 00:12:01,530
 Olet siis piraatti.
 
-175
+174
 00:12:01,530 --> 00:12:05,870
 Juu, vannoin tän
 olkihatun antaneelle
 
-176
+175
 00:12:05,870 --> 00:12:08,210
 kokoavani miehistön ja
 ryhtyväni piraatiksi!
 
-177
+176
 00:12:09,250 --> 00:12:12,250
 Kaikkein inhottavin asia
 koko maailmassa ovat merirosvot!
 
-178
+177
 00:12:12,250 --> 00:12:13,960
 Kivoja taas aarteet ja mandariinit!
 
-179
+178
 00:12:13,960 --> 00:12:16,260
 Hei, ryhdy navigaattoriksi.
 
-180
+179
 00:12:16,260 --> 00:12:17,630
 Sanoin jo, ettei käy.
 
-181
+180
 00:12:18,260 --> 00:12:19,390
 Ai eikö?
 
-182
+181
 00:12:21,470 --> 00:12:22,550
 Onko sitä näkynyt?!
 
-183
+182
 00:12:22,550 --> 00:12:24,520
 Ei löydy mistään!
 
-184
+183
 00:12:25,060 --> 00:12:26,770
 Minne se rosvotyttö meni?!
 
-185
+184
 00:12:26,770 --> 00:12:29,440
 Käy räväkästi jos
 emme saa karttaa takaisin!
 
-186
+185
 00:12:30,350 --> 00:12:33,270
 Jotain on tehtävä heidän suhteen.
 
-187
+186
 00:12:34,230 --> 00:12:38,030
 No, saatan harkita yhdellä ehdolla!
 
-188
+187
 00:12:38,030 --> 00:12:40,530
 Niinkö?! Kaikki käy!
 
-189
+188
 00:12:40,530 --> 00:12:44,450
 Tulet kanssani Buggyn luokse.
 
-190
+189
 00:12:44,450 --> 00:12:45,200
 Mutta...
 
-191
+190
 00:12:49,290 --> 00:12:50,790
 Miks oon solmussa?
 
-192
+191
 00:12:50,790 --> 00:12:52,670
 Pelkkä köysihän se on.
 Haittaako se?
 
-193
+192
 00:12:52,670 --> 00:12:54,550
 No ei oikeestaan!
 
-194
+193
 00:12:54,550 --> 00:12:56,760
 Halusinkin tavata muita merirosvoja!
 
-195
+194
 00:12:56,760 --> 00:12:57,800
 Mennään vaan!
 
-196
+195
 00:12:57,800 --> 00:13:00,130
 Ei hoppuilla!
 
-197
+196
 00:13:00,130 --> 00:13:02,930
 Että mitääh?!
 
-198
+197
 00:13:02,930 --> 00:13:04,970
 Päästitte varkaan livistämään?!
 
-199
+198
 00:13:06,720 --> 00:13:08,730
 – Anna anteeksi, kapteeni!
 – Anna anteeksi, kapteeni!
 
-200
+199
 00:13:08,730 --> 00:13:13,110
 Kaikki kolme korstoa säälittäviä!
 Kuolkaa räväkästi!
 
-201
+200
 00:13:14,360 --> 00:13:16,610
 Kapteeni Buggy!
 
-202
+201
 00:13:16,610 --> 00:13:17,610
 No mitä?!
 
-203
+202
 00:13:17,610 --> 00:13:20,570
 Äskeinen varas on
 tulossa luoksemme!
 
-204
+203
 00:13:20,570 --> 00:13:21,570
 Täh?!
 
-205
+204
 00:13:23,910 --> 00:13:25,160
 Siinä he ovat!
 
-206
+205
 00:13:25,160 --> 00:13:27,870
 Kartan varastanut tyttö!
 
-207
+206
 00:13:32,370 --> 00:13:36,000
 Nappasin varkaan,
 kapteeni Buggy-klovni!
 
-208
+207
 00:13:36,000 --> 00:13:37,340
 Palautan myös merikarttanne.
 
-209
+208
 00:13:37,340 --> 00:13:39,760
 Kiitoksia.
 
-210
+209
 00:13:39,760 --> 00:13:42,300
 Mutta miksi ihmeessä?
 
-211
+210
 00:13:44,760 --> 00:13:46,760
 Riitelin pomoni kanssa.
 
-212
+211
 00:13:46,760 --> 00:13:48,810
 Sain hänestä tarpeekseni!
 
-213
+212
 00:13:48,810 --> 00:13:51,140
 Ottakaa minut joukkoonne!
 
-214
+213
 00:13:58,690 --> 00:14:00,190
 Sait tarpeeksesi?!
 
-215
+214
 00:14:00,190 --> 00:14:01,820
 Hauska likka! Sopivan räväkkä!
 
-216
+215
 00:14:01,820 --> 00:14:04,820
 Pidän susta, pääset alaisekseni!
 
-217
+216
 00:14:08,910 --> 00:14:10,620
 Soluttautuminen onnistui!
 
-218
+217
 00:14:10,620 --> 00:14:13,170
 Piraatit ovat niin yksinkertaisia!
 
-219
+218
 00:14:16,130 --> 00:14:17,960
 Miks oon häkis?
 
-220
+219
 00:14:20,590 --> 00:14:22,550
 Oloni on mitä parhain tänään!
 
-221
+220
 00:14:22,880 --> 00:14:24,930
 Likka, mikä on nimesi?
 
-222
+221
 00:14:24,930 --> 00:14:25,930
 Nami!
 
-223
+222
 00:14:25,930 --> 00:14:27,300
 Loistavaa!
 
-224
+223
 00:14:27,300 --> 00:14:30,060
 Pidetään tervetuliasjuhlat Namille!
 
-225
+224
 00:14:30,060 --> 00:14:31,180
 Tehään niistä räväkät!
 
-226
+225
 00:14:49,120 --> 00:14:52,040
 Mikä vialla?
 Juhlat ovat kunniaksesi!
 
-227
+226
 00:14:52,040 --> 00:14:53,540
 Syö itsesi täyteen!
 
-228
+227
 00:14:54,210 --> 00:14:56,040
 Kyllä! Kiitos!
 
-229
+228
 00:14:57,040 --> 00:15:01,050
 Pitää vain odottaa tilaisuutta
 ottaa kartta itselleni taas.
 
-230
+229
 00:15:01,050 --> 00:15:04,720
 Buggyn aarre voisi
 lähteä myös mukaani!
 
-231
+230
 00:15:07,800 --> 00:15:08,640
 Hitsi!
 
-232
+231
 00:15:17,480 --> 00:15:20,070
 Tämäpä vasta räväkkää!
 
-233
+232
 00:15:20,070 --> 00:15:21,150
 Kas niin ruojat!
 
-234
+233
 00:15:21,980 --> 00:15:25,240
 Buggyspecialkuulat valmiiksi!
 
-235
+234
 00:15:42,630 --> 00:15:44,730
 Valmiina, sir!
 
-236
+235
 00:15:45,470 --> 00:15:47,970
 Mi-Mitä tulee tapahtumaan?
 
-237
+236
 00:15:47,970 --> 00:15:51,100
 Näet pian Buggykuulien mahdin!
 
-238
+237
 00:15:51,100 --> 00:15:51,720
 Sytyttäkää.
 
-239
+238
 00:16:13,540 --> 00:16:15,290
 Mikä räjähti?
 
-240
+239
 00:16:15,290 --> 00:16:18,790
 Yksi kapteenin rakkaista
 Buggykuulista!
 
-241
+240
 00:16:19,420 --> 00:16:21,290
 Buggykuulista?!
 
-242
+241
 00:16:33,100 --> 00:16:34,220
 Superräväkästä!
 
-243
+242
 00:16:34,220 --> 00:16:36,850
 Buggykuulilla ja
 pirunmarjavoimillani
 
-244
+243
 00:16:36,850 --> 00:16:39,850
 hallitsen kohta Grand Linea!
 
-245
+244
 00:16:39,850 --> 00:16:41,060
 Vai mitä, Nami?!
 
-246
+245
 00:16:41,060 --> 00:16:42,940
 N-No totta ihmeessä!
 
-247
+246
 00:16:42,940 --> 00:16:44,530
 Mitä että?!
 
-248
+247
 00:16:44,530 --> 00:16:45,280
 Mitä?!
 
-249
+248
 00:16:45,280 --> 00:16:48,240
 Mutta mähän sitä Grand Linea
 tuun hallitsemaan!
 
-250
+249
 00:16:49,030 --> 00:16:50,160
 Häh?
 
-251
+250
 00:16:50,160 --> 00:16:52,570
 Musta tulee merirosvokuningas!
 
-252
+251
 00:16:52,990 --> 00:16:54,540
 Hölmö!
 
-253
+252
 00:16:57,660 --> 00:17:00,000
 Ymmärrän miksi sait tarpeeksesi, Nami!
 
-254
+253
 00:17:00,000 --> 00:17:01,670
 Just niin!
 
-255
+254
 00:17:01,670 --> 00:17:04,920
 Tosi sinisilmäinen
 ja kuin seinälle puhuisi!
 
-256
+255
 00:17:04,920 --> 00:17:07,510
 En vain kestänyt enää.
 
-257
+256
 00:17:07,510 --> 00:17:08,590
 Tämäpä!
 
-258
+257
 00:17:08,590 --> 00:17:13,300
 Ota Buggykuula ja hävitä
 ex-pomosi maan pinnalta!
 
-259
+258
 00:17:13,720 --> 00:17:14,300
 Mitä?
 
-260
+259
 00:17:14,760 --> 00:17:19,770
 Vannot samalla
 uskollisuutesi minulle.
 
-261
+260
 00:17:19,770 --> 00:17:20,440
 Tee se!
 
-262
+261
 00:17:28,440 --> 00:17:30,070
 Eihän se ole tarpeen!
 
-263
+262
 00:17:30,070 --> 00:17:34,280
 Tämähän on juhla,
 eiköhän keskitytä olennaiseen!
 
-264
+263
 00:17:35,700 --> 00:17:36,540
 Tee se.
 
-265
+264
 00:17:36,540 --> 00:17:38,700
 Näin meikäläinen pitää juhlansa.
 
-266
+265
 00:17:42,000 --> 00:17:45,840
 – Ammu! Ammu! Ammu!
 – Ammu! Ammu! Ammu!
 
-267
+266
 00:17:46,920 --> 00:17:49,590
 Ellen ammu,
 minut tapetaan varmasti!
 
-268
+267
 00:17:50,880 --> 00:17:54,970
 Mutta oli merirosvo tai ei,
 jos surmaan hänet, olen samaa pohjasakkaa.
 
-269
+268
 00:17:56,560 --> 00:17:58,970
 Sytytä jo tulilanka ja räväkästi!
 
-270
+269
 00:17:58,970 --> 00:18:11,070
 – Ammu! Ammu! Ammu!
 – Ammu! Ammu! Ammu!
 
-271
+270
 00:18:11,070 --> 00:18:13,950
 Nami! Älä latista tunnelmaa!
 
-272
+271
 00:18:16,780 --> 00:18:17,780
 Mikä on?
 
-273
+272
 00:18:18,240 --> 00:18:19,580
 Sun kätesi tärisee.
 
-274
+273
 00:18:21,200 --> 00:18:25,540
 Noin käy, kun asettuu merirosvoja
 vastaan ilman riittävää valmiutta.
 
-275
+274
 00:18:26,340 --> 00:18:27,790
 Valmiutta mihin?
 
-276
+275
 00:18:27,790 --> 00:18:30,010
 Tappamiseen ilman syytäkö?!
 
-277
+276
 00:18:30,010 --> 00:18:31,840
 Sitäkö teikäläisiltä vaaditaan?!
 
-278
+277
 00:18:31,840 --> 00:18:32,720
 Ei.
 
-279
+278
 00:18:35,800 --> 00:18:38,510
 Vaan valmiutta laittaa
 oma henki likoon!
 
-280
+279
 00:18:38,510 --> 00:18:42,680
 – Ammu! Ammu! Ammu!
 – Ammu! Ammu! Ammu!
 
-281
+280
 00:18:44,190 --> 00:18:46,860
 Hei, uusi likka!
 Älä viitti pitkittää!
 
-282
+281
 00:18:46,860 --> 00:18:48,690
 Se sytytetään näin!
 
-283
+282
 00:18:59,660 --> 00:19:01,370
 Voi ei! Toimin ajattelematta...
 
-284
+283
 00:19:02,620 --> 00:19:05,670
 Mitä halvattua, Nami?!
 
-285
+284
 00:19:06,120 --> 00:19:07,130
 Sori!
 
-286
+285
 00:19:07,130 --> 00:19:09,880
 Häh?! Miten
 anteeksipyyntö auttaisi?!
 
-287
+286
 00:19:10,300 --> 00:19:11,420
 Mitä ihmettä sä teet?
 
-288
+287
 00:19:11,420 --> 00:19:13,510
 Nytkö sitten meinaat
 pelastaa mut?
 
-289
+288
 00:19:13,510 --> 00:19:14,880
 Älä puhu typeriä!
 
-290
+289
 00:19:14,880 --> 00:19:17,510
 Tein äsköisen vaistonvaraisesti!
 
-291
+290
 00:19:17,510 --> 00:19:21,010
 En aio alentua teidän
 raakalaisten tasolle!
 
-292
+291
 00:19:21,010 --> 00:19:22,850
 Ai vaistojen takia?
 
-293
+292
 00:19:23,100 --> 00:19:25,440
 Merirosvot murhasivat
 minulle rakkaan ihmisen!
 
-294
+293
 00:19:25,440 --> 00:19:27,310
 En koskaan tulisi teikäläisiksi!
 
-295
+294
 00:19:27,310 --> 00:19:29,440
 Jaa siksi...
 
-296
+295
 00:19:29,440 --> 00:19:30,190
 Mitä?
 
-297
+296
 00:19:31,480 --> 00:19:33,190
 Tulilanka palaa!
 
-298
+297
 00:19:34,150 --> 00:19:37,610
 Nyt loppui venkoilut, likka!
 
-299
+298
 00:19:37,610 --> 00:19:38,950
 Tappakaa se räväkästi!
 
-300
+299
 00:19:38,950 --> 00:19:41,450
 – Jahhuu!
 – Jahhuu!
 
-301
+300
 00:19:43,250 --> 00:19:47,170
 – Kuole räväkästi!
 – Kuole räväkästi!
 
-302
+301
 00:19:47,170 --> 00:19:48,330
 – No niin!
 – Käykää päälle!
 
-303
+302
 00:19:49,960 --> 00:19:51,380
 V-Vettä! Vettä! Vettä! Vettä!
 
-304
+303
 00:19:56,590 --> 00:19:57,720
 Kökkö!
 
-305
+304
 00:20:04,930 --> 00:20:05,980
 Mitä sä...?
 
-306
+305
 00:20:11,270 --> 00:20:12,230
 Takanas!
 
-307
+306
 00:20:12,230 --> 00:20:14,320
 – Kuole räväkästi!
 – Kuole räväkästi!
 
-308
+307
 00:20:20,620 --> 00:20:22,080
 Voi hyvät hyssykät...
 
-309
+308
 00:20:23,160 --> 00:20:26,580
 Monta äijää yhtä tyttöä vastaan.
 
-310
+309
 00:20:28,080 --> 00:20:28,790
 Zoro!
 
-311
+310
 00:20:34,840 --> 00:20:35,880
 Oletko ok?
 
-312
+311
 00:20:36,670 --> 00:20:37,420
 Täh...?
 
-313
+312
 00:20:37,420 --> 00:20:39,590
 Luokkaannuitko?
 
-314
+313
 00:20:39,590 --> 00:20:42,220
 E-En, olen kunnossa.
 
-315
+314
 00:20:42,220 --> 00:20:44,390
 Huh, mahtavaa!
 
-316
+315
 00:20:44,390 --> 00:20:46,180
 Että löysitkin!
 
-317
+316
 00:20:46,180 --> 00:20:47,770
 Päästä mut äkkiä ulos!
 
-318
+317
 00:20:47,770 --> 00:20:50,770
 Mitä sä oikein pelleilet?
 
-319
+318
 00:20:50,770 --> 00:20:53,860
 Jouduit linnun kitaan ja
 seuraavaks kykit häkissä!
 
-320
+319
 00:20:53,860 --> 00:20:55,400
 Kokemuksena ihan lysti.
 
-321
+320
 00:20:56,110 --> 00:20:57,900
 – Zoroko?
 – Zo...
 
-322
+321
 00:20:57,900 --> 00:21:00,570
 Sanoks se sillä nimellä?
 
-323
+322
 00:21:00,990 --> 00:21:05,490
 Se "kaveri" tarkoitti
 merirosvometsästäjä Zoroa?
 
-324
+323
 00:21:06,080 --> 00:21:07,750
 Miten?!
 
-325
+324
 00:21:09,080 --> 00:21:10,830
 Joten sä oot Zoro?
 
-326
+325
 00:21:11,790 --> 00:21:15,210
 Mun päätänikö tulit hakemaan?
 
-327
+326
 00:21:15,840 --> 00:21:17,840
 Pääs ei kiinnosta.
 
-328
+327
 00:21:17,840 --> 00:21:20,930
 Lopetin piraattien jahtaamisen.
 
-329
+328
 00:21:21,720 --> 00:21:25,310
 Muapa kiinnostaa, pääsi siis.
 Tekisi hyvää maineelleni!
 
-330
+329
 00:21:26,810 --> 00:21:29,020
 Anna olla tai kuolet.
 
-331
+330
 00:21:29,020 --> 00:21:31,730
 Ai onko näin?
 
-332
+331
 00:21:33,980 --> 00:21:36,230
 No jos sanat ei kerran riitä...
 
-333
+332
 00:21:36,900 --> 00:21:39,110
 Jeaah! Päälle vaan kapteeni!
 
-334
+333
 00:21:39,110 --> 00:21:41,740
 Kapteeni Buggy!
 
-335
+334
 00:21:41,740 --> 00:21:55,670
 – Buggy! Buggy! Buggy!
 – Buggy! Buggy! Buggy!
 
-336
+335
 00:21:56,170 --> 00:21:59,340
 Räväkkä kuolema; olkaa hyvä!
 
-337
+336
 00:22:13,560 --> 00:22:15,860
 Ei yhtään vastusta...
 
-338
+337
 00:22:15,860 --> 00:22:17,480
 Vau!
 
-339
+338
 00:22:17,480 --> 00:22:19,280
 Ei pärjännyt ollenkaan...!
 
-340
+339
 00:22:19,780 --> 00:22:20,860
 Mahdotonta...
 
-341
+340
 00:22:31,200 --> 00:22:32,540
 Mikä noita vaivaa?
 
-342
+341
 00:22:32,540 --> 00:22:34,170
 Mi-Miksi he...?
 
-343
+342
 00:22:34,170 --> 00:22:37,290
 Päällikkö tapettiin,
 mutta nauravat!
 
-344
+343
 00:22:37,290 --> 00:22:38,630
 Haloo!
 
-345
+344
 00:22:38,630 --> 00:22:40,880
 Mikä naurattaa?!
 
-346
+345
 00:22:49,060 --> 00:22:50,520
 Zoro!
 
-347
+346
 00:22:51,640 --> 00:22:53,060
 Onko tuo käsi ?!
 
-348
+347
 00:22:53,060 --> 00:22:55,850
 Hitto! Mitä tämä oikein...?
 
-349
+348
 00:22:59,110 --> 00:23:01,030
 Palapalamarja.
 
-350
+349
 00:23:02,110 --> 00:23:05,360
 Se on syömäni pirunmarjan nimi!
 
-351
+350
 00:23:06,870 --> 00:23:10,870
 Turha leikellä, ei tehoa -
 mä olen palapalamies!
 
-352
+351
 00:23:13,710 --> 00:23:16,250
 Kokosi itsensä!
 
-353
+352
 00:23:16,250 --> 00:23:19,710
 Luulin pirunmarjoja taruksi!
 
-354
+353
 00:23:19,710 --> 00:23:21,300
 Palapalamies?!
 
-355
+354
 00:23:21,300 --> 00:23:22,960
 Sehän on monsteri!
 
-356
+355
 00:23:22,960 --> 00:23:25,180
 Kumimies
 
-357
+356
 00:23:25,930 --> 00:23:29,600
 Ei tullut täysosumaa,
 mutta paha haava silti!
 
-358
+357
 00:23:29,600 --> 00:23:30,640
 Taisin voittaa!
 
-359
+358
 00:23:30,640 --> 00:23:36,600
 – Buggy! Buggy! Buggy!
 – Buggy! Buggy! Buggy!
 
-360
+359
 00:23:30,640 --> 00:23:33,020
 Mahtihomma, kapteeni!
 
-361
+360
 00:23:33,890 --> 00:23:36,600
 Buggy! Buggy!
 
-362
+361
 00:23:37,440 --> 00:23:41,070
 Pahus! Ikävä käänne!
 
-363
+362
 00:23:41,070 --> 00:23:44,950
 Jos jäämme tähän
 kuolemme kaikki kolme!
 
-364
+363
 00:23:46,200 --> 00:23:49,160
 Tuo jopa satutti...
 
-365
+364
 00:23:54,620 --> 00:23:58,080
 – Buggy! Buggy! Buggy!
 – Buggy! Buggy! Buggy!
 
-366
+365
 00:23:58,080 --> 00:24:00,420
 Raukkamaista pistää takaa,
 
-367
+366
 00:24:00,420 --> 00:24:02,050
 mokoma isonenä!
 
-368
+367
 00:24:05,760 --> 00:24:07,340
 Hö-Hölmö!
 
-369
+368
 00:24:07,340 --> 00:24:09,340
 Tuota ei olisi...
 
-370
+369
 00:24:12,350 --> 00:24:17,810
 Kuka on isonenä?!
 
-371
+370
 00:24:19,190 --> 00:24:19,850
 Luffy!
 
-372
+371
 00:24:21,690 --> 00:24:22,820
 Buggy!
 
-373
+372
 00:24:24,230 --> 00:24:27,280
 Sut mä kyllä rökitän
 oikein kunnolla!
 
-374
+373
 00:24:31,530 --> 00:24:33,120
 Että rökität?
 
-375
+374
 00:24:33,120 --> 00:24:34,790
 Kyllä meinaa naurattaa!
 
-376
+375
 00:24:34,790 --> 00:24:37,910
 Tehän kuolette tässä näin!
 
-377
+376
 00:24:38,420 --> 00:24:40,750
 Mitenkäs mut nyt pitäisi rökittyä?!
 
-378
+377
 00:24:40,750 --> 00:24:43,040
 Kuis?! Kuis?! Kuis?!
 
-379
+378
 00:24:47,630 --> 00:24:50,590
 Turha toivo...
 Tästä ei palauduta...
 
-380
+379
 00:24:53,260 --> 00:24:55,220
 En aio vielä kuolla!
 
-381
+380
 00:24:55,720 --> 00:24:57,310
 Zoro, pakoon!
 
-382
+381
 00:24:57,310 --> 00:24:58,310
 Mitäh?!
 
-383
+382
 00:24:58,310 --> 00:25:01,560
 Pakoon?! Hän tuli varta vasten...!
 
-384
+383
 00:25:01,560 --> 00:25:03,060
 Entä sinä sitten?!
 
-385
+384
 00:25:08,990 --> 00:25:09,990
 Käskystä!
 
-386
+385
 00:25:10,240 --> 00:25:12,370
 Ei noista ota selvää!
 
-387
+386
 00:25:12,370 --> 00:25:14,740
 Tämänkin vuoksi vihaan piraatteja!
 
-388
+387
 00:25:15,080 --> 00:25:16,950
 Älä unta näe!
 
-389
+388
 00:25:16,950 --> 00:25:18,870
 Et ole menossa minnekään!
 
-390
+389
 00:25:25,750 --> 00:25:26,880
 Pöljäke!
 
-391
+390
 00:25:26,880 --> 00:25:30,220
 Kolmen miekan tekniikkasi
 ei ole vertaa...
 
-392
+391
 00:25:30,930 --> 00:25:33,390
 Hei! Puhetta tulisi kuunnella!
 
-393
+392
 00:25:50,450 --> 00:25:53,410
 Apua! Tykki kääntyi tänne päin!
 
-394
+393
 00:25:53,870 --> 00:25:55,160
 Hei! Sytytä lanka!
 
-395
+394
 00:25:55,160 --> 00:25:55,830
 Häh?!
 
-396
+395
 00:25:55,830 --> 00:25:56,790
 Vauhtia!
 
-397
+396
 00:25:56,790 --> 00:25:57,450
 Se-Selvä!
 
-398
+397
 00:25:58,370 --> 00:25:59,830
 Hetki, hetki, hetki, hetki!
 
-399
+398
 00:25:59,830 --> 00:26:04,040
 Siellä on Buggyspecialkuula sisällä!
 
-400
+399
 00:26:06,800 --> 00:26:08,340
 Menit sitten sytyttämään!
 
-401
+400
 00:26:08,340 --> 00:26:12,010
 Aah! Odota! Ei! Lopeta!
 
-402
+401
 00:26:12,010 --> 00:26:13,680
 Älkää!
 
-403
+402
 00:26:29,940 --> 00:26:32,570
 Hei, Zoro.
 Sähän oot loukkaantunut...
 
-404
+403
 00:26:32,820 --> 00:26:35,200
 Iho umpeen ja pysy aloillasi!
 
-405
+404
 00:26:35,200 --> 00:26:37,490
 Mä teen sen mitä tahdon!
 
-406
+405
 00:26:43,210 --> 00:26:45,670
 Kuka tää jätkä on?!
 
-407
+406
 00:26:47,670 --> 00:26:50,670
 Luffy... kuka toi on?
 
-408
+407
 00:26:51,010 --> 00:26:53,220
 Se on meitin navigaattori!
 
-409
+408
 00:26:54,340 --> 00:26:56,300
 Ihan oikeasti!
 
-410
+409
 00:26:56,300 --> 00:26:58,470
 Keitä te olette?!
 
-411
+410
 00:26:58,470 --> 00:27:00,180
 Liiku...
 
-412
+411
 00:27:01,270 --> 00:27:02,600
 Oot tiellä!
 
-413
+412
 00:27:15,200 --> 00:27:17,320
 Miksi menisit niin pitkälle?
 
-414
+413
 00:27:17,320 --> 00:27:18,830
 Olet pelkkä merirosvo!

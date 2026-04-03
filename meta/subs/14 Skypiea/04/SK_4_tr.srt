@@ -1062,1845 +1062,1275 @@ Amma düz adamsın.
 254
 00:16:02,390 --> 00:16:02,440
 Sevimli Cadde
+Melek Sahili
 
 255
-00:16:02,390 --> 00:16:02,440
+00:16:02,440 --> 00:16:02,480
+Sevimli Cadde
 Melek Sahili
 
 256
-00:16:02,440 --> 00:16:02,480
+00:16:02,480 --> 00:16:02,520
 Sevimli Cadde
+Melek Sahili
 
 257
-00:16:02,440 --> 00:16:02,480
+00:16:02,520 --> 00:16:02,560
+Sevimli Cadde
 Melek Sahili
 
 258
-00:16:02,480 --> 00:16:02,520
+00:16:02,560 --> 00:16:02,600
 Sevimli Cadde
+Melek Sahili
 
 259
-00:16:02,480 --> 00:16:02,520
+00:16:02,600 --> 00:16:02,640
+Sevimli Cadde
 Melek Sahili
 
 260
-00:16:02,520 --> 00:16:02,560
+00:16:02,640 --> 00:16:02,690
 Sevimli Cadde
+Melek Sahili
 
 261
-00:16:02,520 --> 00:16:02,560
+00:16:02,690 --> 00:16:02,730
+Sevimli Cadde
 Melek Sahili
 
 262
-00:16:02,560 --> 00:16:02,600
+00:16:02,730 --> 00:16:02,770
 Sevimli Cadde
+Melek Sahili
 
 263
-00:16:02,560 --> 00:16:02,600
+00:16:02,770 --> 00:16:02,810
+Sevimli Cadde
 Melek Sahili
 
 264
-00:16:02,600 --> 00:16:02,640
+00:16:02,810 --> 00:16:02,850
 Sevimli Cadde
+Melek Sahili
 
 265
-00:16:02,600 --> 00:16:02,640
+00:16:02,850 --> 00:16:02,900
+Sevimli Cadde
 Melek Sahili
 
 266
-00:16:02,640 --> 00:16:02,690
+00:16:02,900 --> 00:16:02,940
 Sevimli Cadde
+Melek Sahili
 
 267
-00:16:02,640 --> 00:16:02,690
+00:16:02,940 --> 00:16:02,980
+Sevimli Cadde
 Melek Sahili
 
 268
-00:16:02,690 --> 00:16:02,730
+00:16:02,980 --> 00:16:03,020
 Sevimli Cadde
+Melek Sahili
 
 269
-00:16:02,690 --> 00:16:02,730
+00:16:03,020 --> 00:16:03,060
+Sevimli Cadde
 Melek Sahili
 
 270
-00:16:02,730 --> 00:16:02,770
+00:16:03,060 --> 00:16:03,100
 Sevimli Cadde
+Melek Sahili
 
 271
-00:16:02,730 --> 00:16:02,770
+00:16:03,100 --> 00:16:03,150
+Sevimli Cadde
 Melek Sahili
 
 272
-00:16:02,770 --> 00:16:02,810
+00:16:03,150 --> 00:16:03,190
 Sevimli Cadde
+Melek Sahili
 
 273
-00:16:02,770 --> 00:16:02,810
+00:16:03,190 --> 00:16:03,230
+Sevimli Cadde
 Melek Sahili
 
 274
-00:16:02,810 --> 00:16:02,850
+00:16:03,230 --> 00:16:03,270
 Sevimli Cadde
+Melek Sahili
 
 275
-00:16:02,810 --> 00:16:02,850
+00:16:03,270 --> 00:16:03,310
+Sevimli Cadde
 Melek Sahili
 
 276
-00:16:02,850 --> 00:16:02,900
+00:16:03,310 --> 00:16:03,350
 Sevimli Cadde
+Melek Sahili
 
 277
-00:16:02,850 --> 00:16:02,900
+00:16:03,350 --> 00:16:03,400
+Sevimli Cadde
 Melek Sahili
 
 278
-00:16:02,900 --> 00:16:02,940
+00:16:03,400 --> 00:16:03,440
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 279
-00:16:02,900 --> 00:16:02,940
+00:16:03,440 --> 00:16:03,480
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 280
-00:16:02,940 --> 00:16:02,980
+00:16:03,480 --> 00:16:03,520
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 281
-00:16:02,940 --> 00:16:02,980
+00:16:03,520 --> 00:16:03,560
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 282
-00:16:02,980 --> 00:16:03,020
+00:16:03,560 --> 00:16:03,600
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 283
-00:16:02,980 --> 00:16:03,020
+00:16:03,600 --> 00:16:03,650
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 284
-00:16:03,020 --> 00:16:03,060
+00:16:03,650 --> 00:16:03,690
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 285
-00:16:03,020 --> 00:16:03,060
+00:16:03,690 --> 00:16:03,730
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 286
-00:16:03,060 --> 00:16:03,100
+00:16:03,730 --> 00:16:03,770
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 287
-00:16:03,060 --> 00:16:03,100
+00:16:03,770 --> 00:16:03,810
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 288
-00:16:03,100 --> 00:16:03,150
+00:16:03,810 --> 00:16:03,850
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 289
-00:16:03,100 --> 00:16:03,150
+00:16:03,850 --> 00:16:03,900
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 290
-00:16:03,150 --> 00:16:03,190
+00:16:03,900 --> 00:16:03,940
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 291
-00:16:03,150 --> 00:16:03,190
+00:16:03,940 --> 00:16:03,980
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 292
-00:16:03,190 --> 00:16:03,230
+00:16:03,980 --> 00:16:04,020
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 293
-00:16:03,190 --> 00:16:03,230
+00:16:04,020 --> 00:16:04,060
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 294
-00:16:03,230 --> 00:16:03,270
+00:16:04,060 --> 00:16:04,100
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 295
-00:16:03,230 --> 00:16:03,270
+00:16:04,100 --> 00:16:04,150
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 296
-00:16:03,270 --> 00:16:03,310
+00:16:04,150 --> 00:16:04,190
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 297
-00:16:03,270 --> 00:16:03,310
+00:16:04,190 --> 00:16:04,230
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 298
-00:16:03,310 --> 00:16:03,350
+00:16:04,230 --> 00:16:04,270
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 299
-00:16:03,310 --> 00:16:03,350
+00:16:04,270 --> 00:16:04,310
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 300
-00:16:03,350 --> 00:16:03,400
+00:16:04,310 --> 00:16:04,350
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 301
-00:16:03,350 --> 00:16:03,400
+00:16:04,350 --> 00:16:04,400
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 302
-00:16:03,400 --> 00:16:03,440
+00:16:04,400 --> 00:16:04,440
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 303
-00:16:03,400 --> 00:16:03,440
+00:16:04,440 --> 00:16:04,480
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 304
-00:16:03,400 --> 00:16:03,440
+00:16:04,480 --> 00:16:04,520
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 305
-00:16:03,440 --> 00:16:03,480
+00:16:04,520 --> 00:16:04,560
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 306
-00:16:03,440 --> 00:16:03,480
+00:16:04,560 --> 00:16:04,610
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 307
-00:16:03,440 --> 00:16:03,480
+00:16:04,610 --> 00:16:04,650
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 308
-00:16:03,480 --> 00:16:03,520
+00:16:04,650 --> 00:16:04,690
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 309
-00:16:03,480 --> 00:16:03,520
+00:16:04,690 --> 00:16:04,730
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 310
-00:16:03,480 --> 00:16:03,520
+00:16:04,730 --> 00:16:04,770
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 311
-00:16:03,520 --> 00:16:03,560
+00:16:04,770 --> 00:16:04,810
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 312
-00:16:03,520 --> 00:16:03,560
+00:16:04,810 --> 00:16:04,860
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 313
-00:16:03,520 --> 00:16:03,560
+00:16:04,860 --> 00:16:04,900
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 314
-00:16:03,560 --> 00:16:03,600
+00:16:04,900 --> 00:16:04,940
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 315
-00:16:03,560 --> 00:16:03,600
+00:16:04,940 --> 00:16:04,980
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 316
-00:16:03,560 --> 00:16:03,600
+00:16:04,980 --> 00:16:05,020
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 317
-00:16:03,600 --> 00:16:03,650
+00:16:05,020 --> 00:16:05,060
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 318
-00:16:03,600 --> 00:16:03,650
+00:16:05,060 --> 00:16:05,110
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 319
-00:16:03,600 --> 00:16:03,650
+00:16:05,110 --> 00:16:05,150
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 320
-00:16:03,650 --> 00:16:03,690
+00:16:05,150 --> 00:16:05,190
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 321
-00:16:03,650 --> 00:16:03,690
+00:16:05,190 --> 00:16:05,230
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 322
-00:16:03,650 --> 00:16:03,690
+00:16:05,230 --> 00:16:05,270
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 323
-00:16:03,690 --> 00:16:03,730
+00:16:05,270 --> 00:16:05,310
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 324
-00:16:03,690 --> 00:16:03,730
+00:16:05,310 --> 00:16:05,360
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 325
-00:16:03,690 --> 00:16:03,730
+00:16:05,360 --> 00:16:05,400
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 326
-00:16:03,730 --> 00:16:03,770
+00:16:05,400 --> 00:16:05,440
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 327
-00:16:03,730 --> 00:16:03,770
+00:16:05,440 --> 00:16:05,480
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 328
-00:16:03,730 --> 00:16:03,770
+00:16:05,480 --> 00:16:05,520
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 329
-00:16:03,770 --> 00:16:03,810
+00:16:05,520 --> 00:16:05,560
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 330
-00:16:03,770 --> 00:16:03,810
+00:16:05,560 --> 00:16:05,610
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 331
-00:16:03,770 --> 00:16:03,810
+00:16:05,610 --> 00:16:05,650
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 332
-00:16:03,810 --> 00:16:03,850
+00:16:05,650 --> 00:16:05,690
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 333
-00:16:03,810 --> 00:16:03,850
+00:16:05,690 --> 00:16:05,730
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 334
-00:16:03,810 --> 00:16:03,850
+00:16:05,730 --> 00:16:05,770
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 335
-00:16:03,850 --> 00:16:03,900
+00:16:05,770 --> 00:16:05,810
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 336
-00:16:03,850 --> 00:16:03,900
+00:16:05,810 --> 00:16:05,860
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 337
-00:16:03,850 --> 00:16:03,900
+00:16:05,860 --> 00:16:05,900
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 338
-00:16:03,900 --> 00:16:03,940
+00:16:05,900 --> 00:16:05,940
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 339
-00:16:03,900 --> 00:16:03,940
+00:16:05,940 --> 00:16:05,980
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 340
-00:16:03,900 --> 00:16:03,940
+00:16:05,980 --> 00:16:06,020
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 341
-00:16:03,940 --> 00:16:03,980
+00:16:06,020 --> 00:16:06,060
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 342
-00:16:03,940 --> 00:16:03,980
+00:16:06,060 --> 00:16:06,110
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 343
-00:16:03,940 --> 00:16:03,980
+00:16:06,110 --> 00:16:06,150
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 344
-00:16:03,980 --> 00:16:04,020
+00:16:06,150 --> 00:16:06,190
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 345
-00:16:03,980 --> 00:16:04,020
+00:16:06,190 --> 00:16:06,230
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 346
-00:16:03,980 --> 00:16:04,020
+00:16:06,230 --> 00:16:06,270
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 347
-00:16:04,020 --> 00:16:04,060
+00:16:06,270 --> 00:16:06,320
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 348
-00:16:04,020 --> 00:16:04,060
+00:16:06,320 --> 00:16:06,360
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 349
-00:16:04,020 --> 00:16:04,060
+00:16:06,360 --> 00:16:06,400
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 350
-00:16:04,060 --> 00:16:04,100
+00:16:06,400 --> 00:16:06,440
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 351
-00:16:04,060 --> 00:16:04,100
+00:16:06,440 --> 00:16:06,480
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 352
-00:16:04,060 --> 00:16:04,100
+00:16:06,480 --> 00:16:06,520
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 353
-00:16:04,100 --> 00:16:04,150
+00:16:06,520 --> 00:16:06,570
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 354
-00:16:04,100 --> 00:16:04,150
+00:16:06,570 --> 00:16:06,610
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 355
-00:16:04,100 --> 00:16:04,150
+00:16:06,610 --> 00:16:06,650
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 356
-00:16:04,150 --> 00:16:04,190
+00:16:06,650 --> 00:16:06,690
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 357
-00:16:04,150 --> 00:16:04,190
+00:16:06,690 --> 00:16:06,730
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 358
-00:16:04,150 --> 00:16:04,190
+00:16:06,730 --> 00:16:06,770
+Sevimli Cadde
+Melek Sahili
 Yukarı Bahçe
 
 359
-00:16:04,190 --> 00:16:04,230
+00:16:06,770 --> 00:16:06,820
 Sevimli Cadde
+Melek Sahili
+Yukarı Bahçe
 
 360
-00:16:04,190 --> 00:16:04,230
+00:16:06,820 --> 00:16:11,990
+Sevimli Cadde
 Melek Sahili
+Yukarı Bahçe
 
 361
-00:16:04,190 --> 00:16:04,230
-Yukarı Bahçe
-
-362
-00:16:04,230 --> 00:16:04,270
-Sevimli Cadde
-
-363
-00:16:04,230 --> 00:16:04,270
-Melek Sahili
-
-364
-00:16:04,230 --> 00:16:04,270
-Yukarı Bahçe
-
-365
-00:16:04,270 --> 00:16:04,310
-Sevimli Cadde
-
-366
-00:16:04,270 --> 00:16:04,310
-Melek Sahili
-
-367
-00:16:04,270 --> 00:16:04,310
-Yukarı Bahçe
-
-368
-00:16:04,310 --> 00:16:04,350
-Sevimli Cadde
-
-369
-00:16:04,310 --> 00:16:04,350
-Melek Sahili
-
-370
-00:16:04,310 --> 00:16:04,350
-Yukarı Bahçe
-
-371
-00:16:04,350 --> 00:16:04,400
-Sevimli Cadde
-
-372
-00:16:04,350 --> 00:16:04,400
-Melek Sahili
-
-373
-00:16:04,350 --> 00:16:04,400
-Yukarı Bahçe
-
-374
-00:16:04,400 --> 00:16:04,440
-Sevimli Cadde
-
-375
-00:16:04,400 --> 00:16:04,440
-Melek Sahili
-
-376
-00:16:04,400 --> 00:16:04,440
-Yukarı Bahçe
-
-377
-00:16:04,440 --> 00:16:04,480
-Sevimli Cadde
-
-378
-00:16:04,440 --> 00:16:04,480
-Melek Sahili
-
-379
-00:16:04,440 --> 00:16:04,480
-Yukarı Bahçe
-
-380
-00:16:04,480 --> 00:16:04,520
-Sevimli Cadde
-
-381
-00:16:04,480 --> 00:16:04,520
-Melek Sahili
-
-382
-00:16:04,480 --> 00:16:04,520
-Yukarı Bahçe
-
-383
-00:16:04,520 --> 00:16:04,560
-Sevimli Cadde
-
-384
-00:16:04,520 --> 00:16:04,560
-Melek Sahili
-
-385
-00:16:04,520 --> 00:16:04,560
-Yukarı Bahçe
-
-386
-00:16:04,560 --> 00:16:04,610
-Sevimli Cadde
-
-387
-00:16:04,560 --> 00:16:04,610
-Melek Sahili
-
-388
-00:16:04,560 --> 00:16:04,610
-Yukarı Bahçe
-
-389
-00:16:04,610 --> 00:16:04,650
-Sevimli Cadde
-
-390
-00:16:04,610 --> 00:16:04,650
-Melek Sahili
-
-391
-00:16:04,610 --> 00:16:04,650
-Yukarı Bahçe
-
-392
-00:16:04,650 --> 00:16:04,690
-Sevimli Cadde
-
-393
-00:16:04,650 --> 00:16:04,690
-Melek Sahili
-
-394
-00:16:04,650 --> 00:16:04,690
-Yukarı Bahçe
-
-395
-00:16:04,690 --> 00:16:04,730
-Sevimli Cadde
-
-396
-00:16:04,690 --> 00:16:04,730
-Melek Sahili
-
-397
-00:16:04,690 --> 00:16:04,730
-Yukarı Bahçe
-
-398
-00:16:04,730 --> 00:16:04,770
-Sevimli Cadde
-
-399
-00:16:04,730 --> 00:16:04,770
-Melek Sahili
-
-400
-00:16:04,730 --> 00:16:04,770
-Yukarı Bahçe
-
-401
-00:16:04,770 --> 00:16:04,810
-Sevimli Cadde
-
-402
-00:16:04,770 --> 00:16:04,810
-Melek Sahili
-
-403
-00:16:04,770 --> 00:16:04,810
-Yukarı Bahçe
-
-404
-00:16:04,810 --> 00:16:04,860
-Sevimli Cadde
-
-405
-00:16:04,810 --> 00:16:04,860
-Melek Sahili
-
-406
-00:16:04,810 --> 00:16:04,860
-Yukarı Bahçe
-
-407
-00:16:04,860 --> 00:16:04,900
-Sevimli Cadde
-
-408
-00:16:04,860 --> 00:16:04,900
-Melek Sahili
-
-409
-00:16:04,860 --> 00:16:04,900
-Yukarı Bahçe
-
-410
-00:16:04,900 --> 00:16:04,940
-Sevimli Cadde
-
-411
-00:16:04,900 --> 00:16:04,940
-Melek Sahili
-
-412
-00:16:04,900 --> 00:16:04,940
-Yukarı Bahçe
-
-413
-00:16:04,940 --> 00:16:04,980
-Sevimli Cadde
-
-414
-00:16:04,940 --> 00:16:04,980
-Melek Sahili
-
-415
-00:16:04,940 --> 00:16:04,980
-Yukarı Bahçe
-
-416
-00:16:04,980 --> 00:16:05,020
-Sevimli Cadde
-
-417
-00:16:04,980 --> 00:16:05,020
-Melek Sahili
-
-418
-00:16:04,980 --> 00:16:05,020
-Yukarı Bahçe
-
-419
-00:16:05,020 --> 00:16:05,060
-Sevimli Cadde
-
-420
-00:16:05,020 --> 00:16:05,060
-Melek Sahili
-
-421
-00:16:05,020 --> 00:16:05,060
-Yukarı Bahçe
-
-422
-00:16:05,060 --> 00:16:05,110
-Sevimli Cadde
-
-423
-00:16:05,060 --> 00:16:05,110
-Melek Sahili
-
-424
-00:16:05,060 --> 00:16:05,110
-Yukarı Bahçe
-
-425
-00:16:05,110 --> 00:16:05,150
-Sevimli Cadde
-
-426
-00:16:05,110 --> 00:16:05,150
-Melek Sahili
-
-427
-00:16:05,110 --> 00:16:05,150
-Yukarı Bahçe
-
-428
-00:16:05,150 --> 00:16:05,190
-Sevimli Cadde
-
-429
-00:16:05,150 --> 00:16:05,190
-Melek Sahili
-
-430
-00:16:05,150 --> 00:16:05,190
-Yukarı Bahçe
-
-431
-00:16:05,190 --> 00:16:05,230
-Sevimli Cadde
-
-432
-00:16:05,190 --> 00:16:05,230
-Melek Sahili
-
-433
-00:16:05,190 --> 00:16:05,230
-Yukarı Bahçe
-
-434
-00:16:05,230 --> 00:16:05,270
-Sevimli Cadde
-
-435
-00:16:05,230 --> 00:16:05,270
-Melek Sahili
-
-436
-00:16:05,230 --> 00:16:05,270
-Yukarı Bahçe
-
-437
-00:16:05,270 --> 00:16:05,310
-Sevimli Cadde
-
-438
-00:16:05,270 --> 00:16:05,310
-Melek Sahili
-
-439
-00:16:05,270 --> 00:16:05,310
-Yukarı Bahçe
-
-440
-00:16:05,310 --> 00:16:05,360
-Sevimli Cadde
-
-441
-00:16:05,310 --> 00:16:05,360
-Melek Sahili
-
-442
-00:16:05,310 --> 00:16:05,360
-Yukarı Bahçe
-
-443
-00:16:05,360 --> 00:16:05,400
-Sevimli Cadde
-
-444
-00:16:05,360 --> 00:16:05,400
-Melek Sahili
-
-445
-00:16:05,360 --> 00:16:05,400
-Yukarı Bahçe
-
-446
-00:16:05,400 --> 00:16:05,440
-Sevimli Cadde
-
-447
-00:16:05,400 --> 00:16:05,440
-Melek Sahili
-
-448
-00:16:05,400 --> 00:16:05,440
-Yukarı Bahçe
-
-449
-00:16:05,440 --> 00:16:05,480
-Sevimli Cadde
-
-450
-00:16:05,440 --> 00:16:05,480
-Melek Sahili
-
-451
-00:16:05,440 --> 00:16:05,480
-Yukarı Bahçe
-
-452
-00:16:05,480 --> 00:16:05,520
-Sevimli Cadde
-
-453
-00:16:05,480 --> 00:16:05,520
-Melek Sahili
-
-454
-00:16:05,480 --> 00:16:05,520
-Yukarı Bahçe
-
-455
-00:16:05,520 --> 00:16:05,560
-Sevimli Cadde
-
-456
-00:16:05,520 --> 00:16:05,560
-Melek Sahili
-
-457
-00:16:05,520 --> 00:16:05,560
-Yukarı Bahçe
-
-458
-00:16:05,560 --> 00:16:05,610
-Sevimli Cadde
-
-459
-00:16:05,560 --> 00:16:05,610
-Melek Sahili
-
-460
-00:16:05,560 --> 00:16:05,610
-Yukarı Bahçe
-
-461
-00:16:05,610 --> 00:16:05,650
-Sevimli Cadde
-
-462
-00:16:05,610 --> 00:16:05,650
-Melek Sahili
-
-463
-00:16:05,610 --> 00:16:05,650
-Yukarı Bahçe
-
-464
-00:16:05,650 --> 00:16:05,690
-Sevimli Cadde
-
-465
-00:16:05,650 --> 00:16:05,690
-Melek Sahili
-
-466
-00:16:05,650 --> 00:16:05,690
-Yukarı Bahçe
-
-467
-00:16:05,690 --> 00:16:05,730
-Sevimli Cadde
-
-468
-00:16:05,690 --> 00:16:05,730
-Melek Sahili
-
-469
-00:16:05,690 --> 00:16:05,730
-Yukarı Bahçe
-
-470
-00:16:05,730 --> 00:16:05,770
-Sevimli Cadde
-
-471
-00:16:05,730 --> 00:16:05,770
-Melek Sahili
-
-472
-00:16:05,730 --> 00:16:05,770
-Yukarı Bahçe
-
-473
-00:16:05,770 --> 00:16:05,810
-Sevimli Cadde
-
-474
-00:16:05,770 --> 00:16:05,810
-Melek Sahili
-
-475
-00:16:05,770 --> 00:16:05,810
-Yukarı Bahçe
-
-476
-00:16:05,810 --> 00:16:05,860
-Sevimli Cadde
-
-477
-00:16:05,810 --> 00:16:05,860
-Melek Sahili
-
-478
-00:16:05,810 --> 00:16:05,860
-Yukarı Bahçe
-
-479
-00:16:05,860 --> 00:16:05,900
-Sevimli Cadde
-
-480
-00:16:05,860 --> 00:16:05,900
-Melek Sahili
-
-481
-00:16:05,860 --> 00:16:05,900
-Yukarı Bahçe
-
-482
-00:16:05,900 --> 00:16:05,940
-Sevimli Cadde
-
-483
-00:16:05,900 --> 00:16:05,940
-Melek Sahili
-
-484
-00:16:05,900 --> 00:16:05,940
-Yukarı Bahçe
-
-485
-00:16:05,940 --> 00:16:05,980
-Sevimli Cadde
-
-486
-00:16:05,940 --> 00:16:05,980
-Melek Sahili
-
-487
-00:16:05,940 --> 00:16:05,980
-Yukarı Bahçe
-
-488
-00:16:05,980 --> 00:16:06,020
-Sevimli Cadde
-
-489
-00:16:05,980 --> 00:16:06,020
-Melek Sahili
-
-490
-00:16:05,980 --> 00:16:06,020
-Yukarı Bahçe
-
-491
-00:16:06,020 --> 00:16:06,060
-Sevimli Cadde
-
-492
-00:16:06,020 --> 00:16:06,060
-Melek Sahili
-
-493
-00:16:06,020 --> 00:16:06,060
-Yukarı Bahçe
-
-494
-00:16:06,060 --> 00:16:06,110
-Sevimli Cadde
-
-495
-00:16:06,060 --> 00:16:06,110
-Melek Sahili
-
-496
-00:16:06,060 --> 00:16:06,110
-Yukarı Bahçe
-
-497
-00:16:06,110 --> 00:16:06,150
-Sevimli Cadde
-
-498
-00:16:06,110 --> 00:16:06,150
-Melek Sahili
-
-499
-00:16:06,110 --> 00:16:06,150
-Yukarı Bahçe
-
-500
-00:16:06,150 --> 00:16:06,190
-Sevimli Cadde
-
-501
-00:16:06,150 --> 00:16:06,190
-Melek Sahili
-
-502
-00:16:06,150 --> 00:16:06,190
-Yukarı Bahçe
-
-503
-00:16:06,190 --> 00:16:06,230
-Sevimli Cadde
-
-504
-00:16:06,190 --> 00:16:06,230
-Melek Sahili
-
-505
-00:16:06,190 --> 00:16:06,230
-Yukarı Bahçe
-
-506
-00:16:06,230 --> 00:16:06,270
-Sevimli Cadde
-
-507
-00:16:06,230 --> 00:16:06,270
-Melek Sahili
-
-508
-00:16:06,230 --> 00:16:06,270
-Yukarı Bahçe
-
-509
-00:16:06,270 --> 00:16:06,320
-Sevimli Cadde
-
-510
-00:16:06,270 --> 00:16:06,320
-Melek Sahili
-
-511
-00:16:06,270 --> 00:16:06,320
-Yukarı Bahçe
-
-512
-00:16:06,320 --> 00:16:06,360
-Sevimli Cadde
-
-513
-00:16:06,320 --> 00:16:06,360
-Melek Sahili
-
-514
-00:16:06,320 --> 00:16:06,360
-Yukarı Bahçe
-
-515
-00:16:06,360 --> 00:16:06,400
-Sevimli Cadde
-
-516
-00:16:06,360 --> 00:16:06,400
-Melek Sahili
-
-517
-00:16:06,360 --> 00:16:06,400
-Yukarı Bahçe
-
-518
-00:16:06,400 --> 00:16:06,440
-Sevimli Cadde
-
-519
-00:16:06,400 --> 00:16:06,440
-Melek Sahili
-
-520
-00:16:06,400 --> 00:16:06,440
-Yukarı Bahçe
-
-521
-00:16:06,440 --> 00:16:06,480
-Sevimli Cadde
-
-522
-00:16:06,440 --> 00:16:06,480
-Melek Sahili
-
-523
-00:16:06,440 --> 00:16:06,480
-Yukarı Bahçe
-
-524
-00:16:06,480 --> 00:16:06,520
-Sevimli Cadde
-
-525
-00:16:06,480 --> 00:16:06,520
-Melek Sahili
-
-526
-00:16:06,480 --> 00:16:06,520
-Yukarı Bahçe
-
-527
-00:16:06,520 --> 00:16:06,570
-Sevimli Cadde
-
-528
-00:16:06,520 --> 00:16:06,570
-Melek Sahili
-
-529
-00:16:06,520 --> 00:16:06,570
-Yukarı Bahçe
-
-530
-00:16:06,570 --> 00:16:06,610
-Sevimli Cadde
-
-531
-00:16:06,570 --> 00:16:06,610
-Melek Sahili
-
-532
-00:16:06,570 --> 00:16:06,610
-Yukarı Bahçe
-
-533
-00:16:06,610 --> 00:16:06,650
-Sevimli Cadde
-
-534
-00:16:06,610 --> 00:16:06,650
-Melek Sahili
-
-535
-00:16:06,610 --> 00:16:06,650
-Yukarı Bahçe
-
-536
-00:16:06,650 --> 00:16:06,690
-Sevimli Cadde
-
-537
-00:16:06,650 --> 00:16:06,690
-Melek Sahili
-
-538
-00:16:06,650 --> 00:16:06,690
-Yukarı Bahçe
-
-539
-00:16:06,690 --> 00:16:06,730
-Sevimli Cadde
-
-540
-00:16:06,690 --> 00:16:06,730
-Melek Sahili
-
-541
-00:16:06,690 --> 00:16:06,730
-Yukarı Bahçe
-
-542
-00:16:06,730 --> 00:16:06,770
-Sevimli Cadde
-
-543
-00:16:06,730 --> 00:16:06,770
-Melek Sahili
-
-544
-00:16:06,730 --> 00:16:06,770
-Yukarı Bahçe
-
-545
-00:16:06,770 --> 00:16:06,820
-Sevimli Cadde
-
-546
-00:16:06,770 --> 00:16:06,820
-Melek Sahili
-
-547
-00:16:06,770 --> 00:16:06,820
-Yukarı Bahçe
-
-548
-00:16:06,820 --> 00:16:11,990
-Sevimli Cadde
-
-549
-00:16:06,820 --> 00:16:11,990
-Melek Sahili
-
-550
-00:16:06,820 --> 00:16:11,990
-Yukarı Bahçe
-
-551
 00:16:18,890 --> 00:16:22,090
 Vay be! Burası harika!
 
-552
+362
 00:16:22,880 --> 00:16:26,490
 Sevimli Cadde,
 Melek Adası'nın en canlı yeridir.
 
-553
+363
 00:16:28,430 --> 00:16:31,010
 Baksanıza! Dükkânlar havada duruyor!
 
-554
+364
 00:16:31,630 --> 00:16:35,160
 Hepsi, ada bulutlarının
 özel olarak işlenmesiyle yapıldı.
 
-555
+365
 00:16:35,160 --> 00:16:38,020
 Vay! Et lokantası var mı burada?
 
-556
+366
 00:16:49,370 --> 00:16:52,890
 Bana mı öyle geliyor yoksa
 insanlar bizden uzak mı duruyor?
 
-557
+367
 00:16:52,890 --> 00:16:54,180
 Onları suçlayamam.
 
-558
+368
 00:16:54,180 --> 00:16:58,000
 Suçlu olduğumuzun dedikodusu yayılmış olmalı.
 
-559
+369
 00:17:00,360 --> 00:17:01,690
 Bu harika!
 
-560
+370
 00:17:01,690 --> 00:17:03,590
 Bütün cadde bize kaldı!
 
-561
+371
 00:17:04,380 --> 00:17:07,210
 Bütün melekler benden kaçıyor.
 
-562
+372
 00:17:09,610 --> 00:17:12,930
 Ah? Amma garip şeyler satıyorlar!
 
-563
+373
 00:17:15,500 --> 00:17:20,070
 Ne güzel! Keşke alacak param olsaydı.
 Deftere yazdırsak oluyor mu?
 
-564
+374
 00:17:20,070 --> 00:17:20,970
 Hayır!
 
-565
+375
 00:17:21,650 --> 00:17:25,220
 Luffy! Oyalanacak zamanımız yok!
 
-566
+376
 00:17:25,220 --> 00:17:27,390
 Nami-san ve diğerleri kurban edilecekler!
 
-567
+377
 00:17:27,390 --> 00:17:29,600
 Onları kurtarmak istemiyor musun?!
 
-568
+378
 00:17:29,600 --> 00:17:33,700
 Kurtarmak mı? 
 Onlara bir şey olmaz! Zoro da onlarla!
 
-569
+379
 00:17:33,700 --> 00:17:35,840
 Sanki ona güvenebilirmişiz gibi!
 
-570
+380
 00:17:35,840 --> 00:17:40,660
 Umarım onca kargaşadan sonra
 gemi hâlâ tek parçadır.
 
-571
+381
 00:17:40,980 --> 00:17:43,350
 Ha?! Caddenin ortasında bir şey var!
 
-572
+382
 00:17:43,350 --> 00:17:43,980
 Ha?
 
-573
+383
 00:17:50,220 --> 00:17:53,260
 Ne garip suratı var!
 Bu ne? Fok mu?
 
-574
+384
 00:17:53,260 --> 00:17:57,660
 Tuhaf bir çamurdan figür...
 Put olabilir mi?
 
-575
+385
 00:17:57,660 --> 00:18:00,950
 Aptallar! Sanat bu! Anlarım ben!
 
-576
+386
 00:18:00,950 --> 00:18:02,440
 O "Vearth".
 
-577
+387
 00:18:02,940 --> 00:18:07,150
 Gökyüzü insanları ona
 hep büyük hayranlık duymuştur.
 
-578
+388
 00:18:07,150 --> 00:18:08,440
 "Vearth" mü?
 
-579
+389
 00:18:08,440 --> 00:18:14,030
 Ne? Buna mı hayranlık duyuyorsunuz?
 Kafayı yediniz herhâlde...
 
-580
+390
 00:18:16,220 --> 00:18:21,160
 Evet, eminim bu Mavi Deniz insanı
 için anlaması zor bir durum.
 
-581
+391
 00:18:21,160 --> 00:18:23,340
 Ah, rıhtım bu tarafta!
 
-582
+392
 00:18:23,340 --> 00:18:25,440
 Ne? Hemen ayrılıyor muyuz?!
 
-583
+393
 00:18:25,440 --> 00:18:28,900
 Ne diyorsun be?!
 Yapmamız gerekenler var!
 
-584
+394
 00:18:28,900 --> 00:18:31,730
 Hadi ama biraz daha dolansak olmaz mı?
 
-585
+395
 00:18:59,280 --> 00:19:00,740
 – Vay!
 – Vay!
 
-586
+396
 00:19:00,740 --> 00:19:02,750
 Ne kadar çok bot var!
 
-587
+397
 00:19:04,140 --> 00:19:07,250
 Burada her tür bot var.
 
-588
+398
 00:19:12,090 --> 00:19:15,380
 Vay! Şu gondola bakın!
 
-589
+399
 00:19:18,030 --> 00:19:21,100
 Çok havalı! Hadi ödünç alalım şunu!
 
-590
+400
 00:19:21,720 --> 00:19:26,000
 Arkasına bakın! Waver gibi kendi hareket edebilen modellerden biri!
 
-591
+401
 00:19:26,000 --> 00:19:28,910
 Eğlenceli bir gondol turu olur gibi!
 
-592
+402
 00:19:28,910 --> 00:19:33,660
 Seni aptal! Nami-san ve Robin-chan'ı kurtarmaya gidiyoruz! Biraz ciddi ol!
 
-593
+403
 00:19:33,660 --> 00:19:36,270
 Sizin botunuz burada.
 
-594
+404
 00:19:36,270 --> 00:19:36,780
 Peki!
 
-595
+405
 00:19:36,780 --> 00:19:38,030
 – Öyle mi?!
 – Öyle mi?!
 
-596
+406
 00:19:39,030 --> 00:19:42,290
 Acaba bizimkisi nasıl bir gondol?!
 
-597
+407
 00:19:53,420 --> 00:19:54,720
 Küçük Karga!
 
-598
+408
 00:19:57,550 --> 00:19:59,260
 Dalga geçiyorsun herhâlde!
 
-599
+409
 00:19:59,260 --> 00:20:00,450
 Kargaların...
 
-600
+410
 00:20:01,720 --> 00:20:03,350
 suyla alakası bile yok.
 
-601
+411
 00:20:04,540 --> 00:20:08,650
 Waver sürmeyi öğrenmeden
 önce hep bunu kullandım.
 
-602
+412
 00:20:09,200 --> 00:20:14,110
 Waver kadar hızlı değil ama
 iki breath dial'ı var.
 
-603
+413
 00:20:14,610 --> 00:20:16,320
 Buyrun çekinmeden kullanın!
 
-604
+414
 00:20:17,790 --> 00:20:19,530
 Yok... Ben gitmiyorum.
 
-605
+415
 00:20:20,620 --> 00:20:22,030
 Aynen beklediğim gibi!
 
-606
+416
 00:20:22,030 --> 00:20:24,330
 Asıl rengini son anda belli etti!
 
-607
+417
 00:20:24,330 --> 00:20:26,410
 Ben onu istiyorum.
 
-608
+418
 00:20:30,860 --> 00:20:32,840
 Derdi bot muymuş?
 
-609
+419
 00:20:34,590 --> 00:20:38,380
 B-Bunu sevmedin mi? Özür dilerim. Ama...
 
-610
+420
 00:20:38,380 --> 00:20:41,100
 Pis nankör! Özür dile!
 
-611
+421
 00:20:41,100 --> 00:20:44,780
 Conis-chan'dan samimi bir şekilde özür dile, şerefsiz seni!
 
-612
+422
 00:20:44,780 --> 00:20:47,690
 Bunun küstahlığına bakma sen!
 
-613
+423
 00:20:47,690 --> 00:20:49,070
 Özür dilerim!
 
-614
+424
 00:20:49,070 --> 00:20:49,600
 Peki...
 
-615
+425
 00:20:49,600 --> 00:20:52,020
 2 numaralı kapıdan çıkacaksınız.
 
-616
+426
 00:20:52,890 --> 00:20:57,170
 Sizi Yukarı Bahçe'ye götürecek
 büyük süt yoluna çıkacaksınız.
 
-617
+427
 00:20:58,030 --> 00:21:01,120
 R-Rota bu kadar basit.
 
-618
+428
 00:21:04,000 --> 00:21:05,870
 Hey, Conis.
 
-619
+429
 00:21:06,400 --> 00:21:07,000
 Evet?
 
-620
+430
 00:21:07,360 --> 00:21:10,750
 Evinden ayrıldığımızdan beri neden titriyorsun?
 
-621
+431
 00:21:14,380 --> 00:21:17,880
 Ne diyor bu?!
 
-622
+432
 00:21:19,280 --> 00:21:20,990
 T-Titriyor muyum?
 
-623
+433
 00:21:23,550 --> 00:21:26,560
 Evet. Sanki bir şeyden korkuyor gibisin...
 
-624
+434
 00:21:28,520 --> 00:21:30,930
 Olamaz! Yoksa...?
 
-625
+435
 00:21:33,390 --> 00:21:38,940
 Conis-chan! Bizim için
 endişeleniyor musun?! Bu çok hoş!
 
-626
+436
 00:21:40,900 --> 00:21:44,910
 Sen ve baban, iyi olacak mısınız?!
 
-627
+437
 00:21:44,910 --> 00:21:48,760
 Bütün şehir bizden uzak duruyor,
 
-628
+438
 00:21:48,760 --> 00:21:53,710
 ama sen, bize botunu ödünç verip
 üstüne de yolu tarif ediyorsun...
 
-629
+439
 00:21:54,460 --> 00:21:57,840
 Bu seni suç ortağı yapmaz mı?
 
-630
+440
 00:21:58,500 --> 00:22:01,340
 Rengin soluk görünüyor...
 
-631
+441
 00:22:03,670 --> 00:22:06,290
 Eğer korkuyorsan
 baştan söyleseydin keşke.
 
-632
+442
 00:22:06,290 --> 00:22:08,270
 Kendi başımıza gelirdik...
 
-633
+443
 00:22:08,270 --> 00:22:09,190
 Hayır.
 
-634
+444
 00:22:10,230 --> 00:22:11,370
 Ben...
 
-635
+445
 00:22:11,920 --> 00:22:13,170
 Düşündüğünüz gibi değil!
 
-636
+446
 00:22:17,280 --> 00:22:18,820
 Yapamaz!
 
-637
+447
 00:22:19,620 --> 00:22:21,820
 Sakın ağzını açma!
 
-638
+448
 00:22:22,880 --> 00:22:24,780
 Tuhaf, değil mi?
 
-639
+449
 00:22:25,320 --> 00:22:30,700
 Sizi buraya kadar kendim getirip
 üstüne yolu tarif etmem...
 
-640
+450
 00:22:30,700 --> 00:22:35,670
 Yolun korkunçluğunu anlattığım hâlde ısrarla sizi oraya yönlendirmem...
 
-641
+451
 00:22:37,630 --> 00:22:41,510
 Dur! Sakın pişman olacağın bir şey söyleme!
 
-642
+452
 00:22:41,510 --> 00:22:43,880
 Ha? O kimdi?!
 
-643
+453
 00:22:54,020 --> 00:22:56,860
 Sakın bana hepsinin...
 
-644
+454
 00:23:02,390 --> 00:23:08,070
 Bu, halkın görevi. Hepsi onun isteği.
 
-645
+455
 00:23:15,080 --> 00:23:16,730
 Neden kaçmadınız ki?
 
-646
+456
 00:23:22,510 --> 00:23:24,080
 Çok özür dilerim!
 
-647
+457
 00:23:27,720 --> 00:23:29,100
 Dur!
 
-648
+458
 00:23:29,100 --> 00:23:30,680
 Ne diyorsun sen?!
 
-649
+459
 00:23:31,420 --> 00:23:35,630
 Süper ıstakoz ekpresini çağıran bendim!
 
-650
+460
 00:23:36,540 --> 00:23:39,340
 Nami-san ve diğerlerini götüren şeyi mi diyorsun?!
 
-651
+461
 00:23:39,340 --> 00:23:40,520
 Sen mi çağırdın?!
 
-652
+462
 00:23:43,050 --> 00:23:47,640
 Siz evdeyken onlara,
 
-653
+463
 00:23:47,640 --> 00:23:51,070
 Bulutun Sonu'na giden
 bir akıntı var diye yalan söyledim...
 
-654
+464
 00:23:51,640 --> 00:23:53,530
 ve bu yüzden demir aldılar.
 
-655
+465
 00:23:59,000 --> 00:24:02,990
 Bu, süper ıstakoz ekspresinin beklediği sinyaldi!
 
-656
+466
 00:24:12,850 --> 00:24:14,560
 Ahmak kız! Canına mı susadın?!
 
-657
+467
 00:24:14,560 --> 00:24:16,560
 Bizim görevimiz bu!
 
-658
+468
 00:24:16,560 --> 00:24:18,140
 Bir suçluyu bilip de...
 
-659
+469
 00:24:18,140 --> 00:24:23,480
 onu yargılanacağı yere
 yönlendirmezsek cezası ölüm olur!
 
-660
+470
 00:24:25,440 --> 00:24:29,080
 Dursana! Ne dediğini farkında mısın?!
 
-661
+471
 00:24:29,080 --> 00:24:30,510
 Yaptığın günah!
 
-662
+472
 00:24:30,510 --> 00:24:32,370
 Durdurun onu!
 
-663
+473
 00:24:32,370 --> 00:24:35,370
 Halk olarak buna zorunluyuz...
 
-664
+474
 00:24:35,370 --> 00:24:37,130
 Sen ciddi misin?!
 
-665
+475
 00:24:37,130 --> 00:24:38,410
 Özür dilerim!
 
-666
+476
 00:24:39,180 --> 00:24:42,160
 Çok tuhaf, değil mi?!
 
-667
+477
 00:24:43,750 --> 00:24:48,130
 Aptal olma! Başka şansın yoktu, değil mi?!
 
-668
+478
 00:24:51,560 --> 00:24:52,550
 O zaman...
 
-669
+479
 00:24:56,000 --> 00:24:57,850
 – ...niye bize söyledin?!
 – ...niye bize söyledin?!
 
-670
+480
 00:25:02,400 --> 00:25:04,630
 Şimdi başın belada!
 
-671
+481
 00:25:04,630 --> 00:25:06,170
 İş işten geçti!
 
-672
+482
 00:25:06,170 --> 00:25:07,530
 Çok geç kaldık!
 
-673
+483
 00:25:07,530 --> 00:25:08,980
 Kızdan uzak durun!
 
-674
+484
 00:25:08,980 --> 00:25:10,490
 Ceza geliyor!
 
-675
+485
 00:25:47,720 --> 00:25:48,990
 Kaçamayacağız! Çok büyük!
 
-676
+486
 00:26:33,290 --> 00:26:34,950
 O neydi?!
 
-677
+487
 00:26:35,480 --> 00:26:36,990
 Ne oldu öyle?!
 
-678
+488
 00:26:38,420 --> 00:26:39,360
 Luffy!
 
-679
+489
 00:26:39,360 --> 00:26:42,270
 Conis-chan! Hey! Nereye gittiniz?!
 
-680
+490
 00:26:42,910 --> 00:26:45,420
 Luffy! Conis!
 
-681
+491
 00:26:45,840 --> 00:26:47,040
 Faydası yok...
 
-682
+492
 00:26:47,040 --> 00:26:50,340
 Yüce Tanrı Enel her şeyi görür...!
 
-683
+493
 00:26:54,130 --> 00:26:56,430
 Güvendeler.
 
-684
+494
 00:27:02,590 --> 00:27:04,250
 Gan Fall-san!
 
-685
+495
 00:27:06,540 --> 00:27:08,400
 Oh, tuhaf ihtiyar!
 
-686
+496
 00:27:08,700 --> 00:27:10,080
 "Tuhaf" mı?
 
-687
+497
 00:27:10,080 --> 00:27:14,700
 Lütfen bana Gökyüzü Şövalyesi deyin!
 Bu benden olsun!
 
-688
+498
 00:27:18,460 --> 00:27:20,910
 Şükürler olsun! Conis-chan...!
 
-689
+499
 00:27:21,840 --> 00:27:27,380
 Bu kızı bana bırakın. Enel'in ona zarar vermesine izin vermeyeceğim.
 
-690
+500
 00:27:28,460 --> 00:27:29,460
 Olur!
 
-691
+501
 00:27:29,460 --> 00:27:34,750
 Artık bu adada işlerin nasıl yürüdüğünü
 biliyorsunuz, Tanrı'nın gücünü de gördünüz.
 
-692
+502
 00:27:34,750 --> 00:27:37,050
 Şimdi ne yapacaksınız?
 
-693
+503
 00:27:37,050 --> 00:27:39,490
 Burada ne olduğu umurumda değil.
 
-694
+504
 00:27:40,680 --> 00:27:42,930
 Arkadaşlarımız Tanrı'nın Adası'nda!
 
-695
+505
 00:27:43,440 --> 00:27:46,390
 Anladım... Şans yanınızda olsun.
 
-696
+506
 00:27:56,440 --> 00:27:57,400
 Peki onlar?
 
-697
+507
 00:27:57,400 --> 00:27:59,660
 Onlar seçimini yaptı.
 
-698
+508
 00:27:59,660 --> 00:28:02,330
 Senin bir suçun yok.
 
-699
+509
 00:28:03,180 --> 00:28:06,210
 Senin kim olduğunu biliyorum.
 
-700
+510
 00:28:06,800 --> 00:28:09,530
 Ben Gökyüzü Şövalyesi'yim.
 
-701
+511
 00:28:10,290 --> 00:28:15,300
 Hayır, hepimiz biliyoruz. Lütfen geri dönün...
 
-702
+512
 00:28:15,870 --> 00:28:17,010
 Tanrı'm!
 
-703
+513
 00:28:22,270 --> 00:28:26,470
 Atlayın! Güçlüce iteceğim!
 
-704
+514
 00:28:26,470 --> 00:28:27,950
 Sen de geliyorsun!
 
-705
+515
 00:28:32,920 --> 00:28:35,400
 Pekâlâ, hadi Yüksek Bahçe'ye gidelim!
 
-706
+516
 00:28:38,730 --> 00:28:41,550
 Hayır...!
 
-707
+517
 00:28:44,140 --> 00:28:45,900
 Şerefsizler harbiden gidiyor...
 
-708
+518
 00:28:46,430 --> 00:28:49,290
 hem de hiç tereddüt etmeden.

@@ -1111,1915 +1111,1345 @@ Das wird ein Spaß!
 272
 00:16:02,390 --> 00:16:02,440
 Lovely Street
+Angel Beach
 
 273
-00:16:02,390 --> 00:16:02,440
+00:16:02,440 --> 00:16:02,480
+Lovely Street
 Angel Beach
 
 274
-00:16:02,440 --> 00:16:02,480
+00:16:02,480 --> 00:16:02,520
 Lovely Street
+Angel Beach
 
 275
-00:16:02,440 --> 00:16:02,480
+00:16:02,520 --> 00:16:02,560
+Lovely Street
 Angel Beach
 
 276
-00:16:02,480 --> 00:16:02,520
+00:16:02,560 --> 00:16:02,600
 Lovely Street
+Angel Beach
 
 277
-00:16:02,480 --> 00:16:02,520
+00:16:02,600 --> 00:16:02,640
+Lovely Street
 Angel Beach
 
 278
-00:16:02,520 --> 00:16:02,560
+00:16:02,640 --> 00:16:02,690
 Lovely Street
+Angel Beach
 
 279
-00:16:02,520 --> 00:16:02,560
+00:16:02,690 --> 00:16:02,730
+Lovely Street
 Angel Beach
 
 280
-00:16:02,560 --> 00:16:02,600
+00:16:02,730 --> 00:16:02,770
 Lovely Street
+Angel Beach
 
 281
-00:16:02,560 --> 00:16:02,600
+00:16:02,770 --> 00:16:02,810
+Lovely Street
 Angel Beach
 
 282
-00:16:02,600 --> 00:16:02,640
+00:16:02,810 --> 00:16:02,850
 Lovely Street
+Angel Beach
 
 283
-00:16:02,600 --> 00:16:02,640
+00:16:02,850 --> 00:16:02,900
+Lovely Street
 Angel Beach
 
 284
-00:16:02,640 --> 00:16:02,690
+00:16:02,900 --> 00:16:02,940
 Lovely Street
+Angel Beach
 
 285
-00:16:02,640 --> 00:16:02,690
+00:16:02,940 --> 00:16:02,980
+Lovely Street
 Angel Beach
 
 286
-00:16:02,690 --> 00:16:02,730
+00:16:02,980 --> 00:16:03,020
 Lovely Street
+Angel Beach
 
 287
-00:16:02,690 --> 00:16:02,730
+00:16:03,020 --> 00:16:03,060
+Lovely Street
 Angel Beach
 
 288
-00:16:02,730 --> 00:16:02,770
+00:16:03,060 --> 00:16:03,100
 Lovely Street
+Angel Beach
 
 289
-00:16:02,730 --> 00:16:02,770
+00:16:03,100 --> 00:16:03,150
+Lovely Street
 Angel Beach
 
 290
-00:16:02,770 --> 00:16:02,810
+00:16:03,150 --> 00:16:03,190
 Lovely Street
+Angel Beach
 
 291
-00:16:02,770 --> 00:16:02,810
+00:16:03,190 --> 00:16:03,230
+Lovely Street
 Angel Beach
 
 292
-00:16:02,810 --> 00:16:02,850
+00:16:03,230 --> 00:16:03,270
 Lovely Street
+Angel Beach
 
 293
-00:16:02,810 --> 00:16:02,850
+00:16:03,270 --> 00:16:03,310
+Lovely Street
 Angel Beach
 
 294
-00:16:02,850 --> 00:16:02,900
+00:16:03,310 --> 00:16:03,350
 Lovely Street
+Angel Beach
 
 295
-00:16:02,850 --> 00:16:02,900
+00:16:03,350 --> 00:16:03,400
+Lovely Street
 Angel Beach
 
 296
-00:16:02,900 --> 00:16:02,940
+00:16:03,400 --> 00:16:03,440
 Lovely Street
+Angel Beach
+Upper Yard
 
 297
-00:16:02,900 --> 00:16:02,940
+00:16:03,440 --> 00:16:03,480
+Lovely Street
 Angel Beach
+Upper Yard
 
 298
-00:16:02,940 --> 00:16:02,980
+00:16:03,480 --> 00:16:03,520
 Lovely Street
+Angel Beach
+Upper Yard
 
 299
-00:16:02,940 --> 00:16:02,980
+00:16:03,520 --> 00:16:03,560
+Lovely Street
 Angel Beach
+Upper Yard
 
 300
-00:16:02,980 --> 00:16:03,020
+00:16:03,560 --> 00:16:03,600
 Lovely Street
+Angel Beach
+Upper Yard
 
 301
-00:16:02,980 --> 00:16:03,020
+00:16:03,600 --> 00:16:03,650
+Lovely Street
 Angel Beach
+Upper Yard
 
 302
-00:16:03,020 --> 00:16:03,060
+00:16:03,650 --> 00:16:03,690
 Lovely Street
+Angel Beach
+Upper Yard
 
 303
-00:16:03,020 --> 00:16:03,060
+00:16:03,690 --> 00:16:03,730
+Lovely Street
 Angel Beach
+Upper Yard
 
 304
-00:16:03,060 --> 00:16:03,100
+00:16:03,730 --> 00:16:03,770
 Lovely Street
+Angel Beach
+Upper Yard
 
 305
-00:16:03,060 --> 00:16:03,100
+00:16:03,770 --> 00:16:03,810
+Lovely Street
 Angel Beach
+Upper Yard
 
 306
-00:16:03,100 --> 00:16:03,150
+00:16:03,810 --> 00:16:03,850
 Lovely Street
+Angel Beach
+Upper Yard
 
 307
-00:16:03,100 --> 00:16:03,150
+00:16:03,850 --> 00:16:03,900
+Lovely Street
 Angel Beach
+Upper Yard
 
 308
-00:16:03,150 --> 00:16:03,190
+00:16:03,900 --> 00:16:03,940
 Lovely Street
+Angel Beach
+Upper Yard
 
 309
-00:16:03,150 --> 00:16:03,190
+00:16:03,940 --> 00:16:03,980
+Lovely Street
 Angel Beach
+Upper Yard
 
 310
-00:16:03,190 --> 00:16:03,230
+00:16:03,980 --> 00:16:04,020
 Lovely Street
+Angel Beach
+Upper Yard
 
 311
-00:16:03,190 --> 00:16:03,230
+00:16:04,020 --> 00:16:04,060
+Lovely Street
 Angel Beach
+Upper Yard
 
 312
-00:16:03,230 --> 00:16:03,270
+00:16:04,060 --> 00:16:04,100
 Lovely Street
+Angel Beach
+Upper Yard
 
 313
-00:16:03,230 --> 00:16:03,270
+00:16:04,100 --> 00:16:04,150
+Lovely Street
 Angel Beach
+Upper Yard
 
 314
-00:16:03,270 --> 00:16:03,310
+00:16:04,150 --> 00:16:04,190
 Lovely Street
+Angel Beach
+Upper Yard
 
 315
-00:16:03,270 --> 00:16:03,310
+00:16:04,190 --> 00:16:04,230
+Lovely Street
 Angel Beach
+Upper Yard
 
 316
-00:16:03,310 --> 00:16:03,350
+00:16:04,230 --> 00:16:04,270
 Lovely Street
+Angel Beach
+Upper Yard
 
 317
-00:16:03,310 --> 00:16:03,350
+00:16:04,270 --> 00:16:04,310
+Lovely Street
 Angel Beach
+Upper Yard
 
 318
-00:16:03,350 --> 00:16:03,400
+00:16:04,310 --> 00:16:04,350
 Lovely Street
+Angel Beach
+Upper Yard
 
 319
-00:16:03,350 --> 00:16:03,400
+00:16:04,350 --> 00:16:04,400
+Lovely Street
 Angel Beach
+Upper Yard
 
 320
-00:16:03,400 --> 00:16:03,440
+00:16:04,400 --> 00:16:04,440
 Lovely Street
+Angel Beach
+Upper Yard
 
 321
-00:16:03,400 --> 00:16:03,440
+00:16:04,440 --> 00:16:04,480
+Lovely Street
 Angel Beach
+Upper Yard
 
 322
-00:16:03,400 --> 00:16:03,440
+00:16:04,480 --> 00:16:04,520
+Lovely Street
+Angel Beach
 Upper Yard
 
 323
-00:16:03,440 --> 00:16:03,480
+00:16:04,520 --> 00:16:04,560
 Lovely Street
+Angel Beach
+Upper Yard
 
 324
-00:16:03,440 --> 00:16:03,480
+00:16:04,560 --> 00:16:04,610
+Lovely Street
 Angel Beach
+Upper Yard
 
 325
-00:16:03,440 --> 00:16:03,480
+00:16:04,610 --> 00:16:04,650
+Lovely Street
+Angel Beach
 Upper Yard
 
 326
-00:16:03,480 --> 00:16:03,520
+00:16:04,650 --> 00:16:04,690
 Lovely Street
+Angel Beach
+Upper Yard
 
 327
-00:16:03,480 --> 00:16:03,520
+00:16:04,690 --> 00:16:04,730
+Lovely Street
 Angel Beach
+Upper Yard
 
 328
-00:16:03,480 --> 00:16:03,520
+00:16:04,730 --> 00:16:04,770
+Lovely Street
+Angel Beach
 Upper Yard
 
 329
-00:16:03,520 --> 00:16:03,560
+00:16:04,770 --> 00:16:04,810
 Lovely Street
+Angel Beach
+Upper Yard
 
 330
-00:16:03,520 --> 00:16:03,560
+00:16:04,810 --> 00:16:04,860
+Lovely Street
 Angel Beach
+Upper Yard
 
 331
-00:16:03,520 --> 00:16:03,560
+00:16:04,860 --> 00:16:04,900
+Lovely Street
+Angel Beach
 Upper Yard
 
 332
-00:16:03,560 --> 00:16:03,600
+00:16:04,900 --> 00:16:04,940
 Lovely Street
+Angel Beach
+Upper Yard
 
 333
-00:16:03,560 --> 00:16:03,600
+00:16:04,940 --> 00:16:04,980
+Lovely Street
 Angel Beach
+Upper Yard
 
 334
-00:16:03,560 --> 00:16:03,600
+00:16:04,980 --> 00:16:05,020
+Lovely Street
+Angel Beach
 Upper Yard
 
 335
-00:16:03,600 --> 00:16:03,650
+00:16:05,020 --> 00:16:05,060
 Lovely Street
+Angel Beach
+Upper Yard
 
 336
-00:16:03,600 --> 00:16:03,650
+00:16:05,060 --> 00:16:05,110
+Lovely Street
 Angel Beach
+Upper Yard
 
 337
-00:16:03,600 --> 00:16:03,650
+00:16:05,110 --> 00:16:05,150
+Lovely Street
+Angel Beach
 Upper Yard
 
 338
-00:16:03,650 --> 00:16:03,690
+00:16:05,150 --> 00:16:05,190
 Lovely Street
+Angel Beach
+Upper Yard
 
 339
-00:16:03,650 --> 00:16:03,690
+00:16:05,190 --> 00:16:05,230
+Lovely Street
 Angel Beach
+Upper Yard
 
 340
-00:16:03,650 --> 00:16:03,690
+00:16:05,230 --> 00:16:05,270
+Lovely Street
+Angel Beach
 Upper Yard
 
 341
-00:16:03,690 --> 00:16:03,730
+00:16:05,270 --> 00:16:05,310
 Lovely Street
+Angel Beach
+Upper Yard
 
 342
-00:16:03,690 --> 00:16:03,730
+00:16:05,310 --> 00:16:05,360
+Lovely Street
 Angel Beach
+Upper Yard
 
 343
-00:16:03,690 --> 00:16:03,730
+00:16:05,360 --> 00:16:05,400
+Lovely Street
+Angel Beach
 Upper Yard
 
 344
-00:16:03,730 --> 00:16:03,770
+00:16:05,400 --> 00:16:05,440
 Lovely Street
+Angel Beach
+Upper Yard
 
 345
-00:16:03,730 --> 00:16:03,770
+00:16:05,440 --> 00:16:05,480
+Lovely Street
 Angel Beach
+Upper Yard
 
 346
-00:16:03,730 --> 00:16:03,770
+00:16:05,480 --> 00:16:05,520
+Lovely Street
+Angel Beach
 Upper Yard
 
 347
-00:16:03,770 --> 00:16:03,810
+00:16:05,520 --> 00:16:05,560
 Lovely Street
+Angel Beach
+Upper Yard
 
 348
-00:16:03,770 --> 00:16:03,810
+00:16:05,560 --> 00:16:05,610
+Lovely Street
 Angel Beach
+Upper Yard
 
 349
-00:16:03,770 --> 00:16:03,810
+00:16:05,610 --> 00:16:05,650
+Lovely Street
+Angel Beach
 Upper Yard
 
 350
-00:16:03,810 --> 00:16:03,850
+00:16:05,650 --> 00:16:05,690
 Lovely Street
+Angel Beach
+Upper Yard
 
 351
-00:16:03,810 --> 00:16:03,850
+00:16:05,690 --> 00:16:05,730
+Lovely Street
 Angel Beach
+Upper Yard
 
 352
-00:16:03,810 --> 00:16:03,850
+00:16:05,730 --> 00:16:05,770
+Lovely Street
+Angel Beach
 Upper Yard
 
 353
-00:16:03,850 --> 00:16:03,900
+00:16:05,770 --> 00:16:05,810
 Lovely Street
+Angel Beach
+Upper Yard
 
 354
-00:16:03,850 --> 00:16:03,900
+00:16:05,810 --> 00:16:05,860
+Lovely Street
 Angel Beach
+Upper Yard
 
 355
-00:16:03,850 --> 00:16:03,900
+00:16:05,860 --> 00:16:05,900
+Lovely Street
+Angel Beach
 Upper Yard
 
 356
-00:16:03,900 --> 00:16:03,940
+00:16:05,900 --> 00:16:05,940
 Lovely Street
+Angel Beach
+Upper Yard
 
 357
-00:16:03,900 --> 00:16:03,940
+00:16:05,940 --> 00:16:05,980
+Lovely Street
 Angel Beach
+Upper Yard
 
 358
-00:16:03,900 --> 00:16:03,940
+00:16:05,980 --> 00:16:06,020
+Lovely Street
+Angel Beach
 Upper Yard
 
 359
-00:16:03,940 --> 00:16:03,980
+00:16:06,020 --> 00:16:06,060
 Lovely Street
+Angel Beach
+Upper Yard
 
 360
-00:16:03,940 --> 00:16:03,980
+00:16:06,060 --> 00:16:06,110
+Lovely Street
 Angel Beach
+Upper Yard
 
 361
-00:16:03,940 --> 00:16:03,980
+00:16:06,110 --> 00:16:06,150
+Lovely Street
+Angel Beach
 Upper Yard
 
 362
-00:16:03,980 --> 00:16:04,020
+00:16:06,150 --> 00:16:06,190
 Lovely Street
+Angel Beach
+Upper Yard
 
 363
-00:16:03,980 --> 00:16:04,020
+00:16:06,190 --> 00:16:06,230
+Lovely Street
 Angel Beach
+Upper Yard
 
 364
-00:16:03,980 --> 00:16:04,020
+00:16:06,230 --> 00:16:06,270
+Lovely Street
+Angel Beach
 Upper Yard
 
 365
-00:16:04,020 --> 00:16:04,060
+00:16:06,270 --> 00:16:06,320
 Lovely Street
+Angel Beach
+Upper Yard
 
 366
-00:16:04,020 --> 00:16:04,060
+00:16:06,320 --> 00:16:06,360
+Lovely Street
 Angel Beach
+Upper Yard
 
 367
-00:16:04,020 --> 00:16:04,060
+00:16:06,360 --> 00:16:06,400
+Lovely Street
+Angel Beach
 Upper Yard
 
 368
-00:16:04,060 --> 00:16:04,100
+00:16:06,400 --> 00:16:06,440
 Lovely Street
+Angel Beach
+Upper Yard
 
 369
-00:16:04,060 --> 00:16:04,100
+00:16:06,440 --> 00:16:06,480
+Lovely Street
 Angel Beach
+Upper Yard
 
 370
-00:16:04,060 --> 00:16:04,100
+00:16:06,480 --> 00:16:06,520
+Lovely Street
+Angel Beach
 Upper Yard
 
 371
-00:16:04,100 --> 00:16:04,150
+00:16:06,520 --> 00:16:06,570
 Lovely Street
+Angel Beach
+Upper Yard
 
 372
-00:16:04,100 --> 00:16:04,150
+00:16:06,570 --> 00:16:06,610
+Lovely Street
 Angel Beach
+Upper Yard
 
 373
-00:16:04,100 --> 00:16:04,150
+00:16:06,610 --> 00:16:06,650
+Lovely Street
+Angel Beach
 Upper Yard
 
 374
-00:16:04,150 --> 00:16:04,190
+00:16:06,650 --> 00:16:06,690
 Lovely Street
+Angel Beach
+Upper Yard
 
 375
-00:16:04,150 --> 00:16:04,190
+00:16:06,690 --> 00:16:06,730
+Lovely Street
 Angel Beach
+Upper Yard
 
 376
-00:16:04,150 --> 00:16:04,190
+00:16:06,730 --> 00:16:06,770
+Lovely Street
+Angel Beach
 Upper Yard
 
 377
-00:16:04,190 --> 00:16:04,230
+00:16:06,770 --> 00:16:06,820
 Lovely Street
+Angel Beach
+Upper Yard
 
 378
-00:16:04,190 --> 00:16:04,230
+00:16:06,820 --> 00:16:11,990
+Lovely Street
 Angel Beach
+Upper Yard
 
 379
-00:16:04,190 --> 00:16:04,230
-Upper Yard
-
-380
-00:16:04,230 --> 00:16:04,270
-Lovely Street
-
-381
-00:16:04,230 --> 00:16:04,270
-Angel Beach
-
-382
-00:16:04,230 --> 00:16:04,270
-Upper Yard
-
-383
-00:16:04,270 --> 00:16:04,310
-Lovely Street
-
-384
-00:16:04,270 --> 00:16:04,310
-Angel Beach
-
-385
-00:16:04,270 --> 00:16:04,310
-Upper Yard
-
-386
-00:16:04,310 --> 00:16:04,350
-Lovely Street
-
-387
-00:16:04,310 --> 00:16:04,350
-Angel Beach
-
-388
-00:16:04,310 --> 00:16:04,350
-Upper Yard
-
-389
-00:16:04,350 --> 00:16:04,400
-Lovely Street
-
-390
-00:16:04,350 --> 00:16:04,400
-Angel Beach
-
-391
-00:16:04,350 --> 00:16:04,400
-Upper Yard
-
-392
-00:16:04,400 --> 00:16:04,440
-Lovely Street
-
-393
-00:16:04,400 --> 00:16:04,440
-Angel Beach
-
-394
-00:16:04,400 --> 00:16:04,440
-Upper Yard
-
-395
-00:16:04,440 --> 00:16:04,480
-Lovely Street
-
-396
-00:16:04,440 --> 00:16:04,480
-Angel Beach
-
-397
-00:16:04,440 --> 00:16:04,480
-Upper Yard
-
-398
-00:16:04,480 --> 00:16:04,520
-Lovely Street
-
-399
-00:16:04,480 --> 00:16:04,520
-Angel Beach
-
-400
-00:16:04,480 --> 00:16:04,520
-Upper Yard
-
-401
-00:16:04,520 --> 00:16:04,560
-Lovely Street
-
-402
-00:16:04,520 --> 00:16:04,560
-Angel Beach
-
-403
-00:16:04,520 --> 00:16:04,560
-Upper Yard
-
-404
-00:16:04,560 --> 00:16:04,610
-Lovely Street
-
-405
-00:16:04,560 --> 00:16:04,610
-Angel Beach
-
-406
-00:16:04,560 --> 00:16:04,610
-Upper Yard
-
-407
-00:16:04,610 --> 00:16:04,650
-Lovely Street
-
-408
-00:16:04,610 --> 00:16:04,650
-Angel Beach
-
-409
-00:16:04,610 --> 00:16:04,650
-Upper Yard
-
-410
-00:16:04,650 --> 00:16:04,690
-Lovely Street
-
-411
-00:16:04,650 --> 00:16:04,690
-Angel Beach
-
-412
-00:16:04,650 --> 00:16:04,690
-Upper Yard
-
-413
-00:16:04,690 --> 00:16:04,730
-Lovely Street
-
-414
-00:16:04,690 --> 00:16:04,730
-Angel Beach
-
-415
-00:16:04,690 --> 00:16:04,730
-Upper Yard
-
-416
-00:16:04,730 --> 00:16:04,770
-Lovely Street
-
-417
-00:16:04,730 --> 00:16:04,770
-Angel Beach
-
-418
-00:16:04,730 --> 00:16:04,770
-Upper Yard
-
-419
-00:16:04,770 --> 00:16:04,810
-Lovely Street
-
-420
-00:16:04,770 --> 00:16:04,810
-Angel Beach
-
-421
-00:16:04,770 --> 00:16:04,810
-Upper Yard
-
-422
-00:16:04,810 --> 00:16:04,860
-Lovely Street
-
-423
-00:16:04,810 --> 00:16:04,860
-Angel Beach
-
-424
-00:16:04,810 --> 00:16:04,860
-Upper Yard
-
-425
-00:16:04,860 --> 00:16:04,900
-Lovely Street
-
-426
-00:16:04,860 --> 00:16:04,900
-Angel Beach
-
-427
-00:16:04,860 --> 00:16:04,900
-Upper Yard
-
-428
-00:16:04,900 --> 00:16:04,940
-Lovely Street
-
-429
-00:16:04,900 --> 00:16:04,940
-Angel Beach
-
-430
-00:16:04,900 --> 00:16:04,940
-Upper Yard
-
-431
-00:16:04,940 --> 00:16:04,980
-Lovely Street
-
-432
-00:16:04,940 --> 00:16:04,980
-Angel Beach
-
-433
-00:16:04,940 --> 00:16:04,980
-Upper Yard
-
-434
-00:16:04,980 --> 00:16:05,020
-Lovely Street
-
-435
-00:16:04,980 --> 00:16:05,020
-Angel Beach
-
-436
-00:16:04,980 --> 00:16:05,020
-Upper Yard
-
-437
-00:16:05,020 --> 00:16:05,060
-Lovely Street
-
-438
-00:16:05,020 --> 00:16:05,060
-Angel Beach
-
-439
-00:16:05,020 --> 00:16:05,060
-Upper Yard
-
-440
-00:16:05,060 --> 00:16:05,110
-Lovely Street
-
-441
-00:16:05,060 --> 00:16:05,110
-Angel Beach
-
-442
-00:16:05,060 --> 00:16:05,110
-Upper Yard
-
-443
-00:16:05,110 --> 00:16:05,150
-Lovely Street
-
-444
-00:16:05,110 --> 00:16:05,150
-Angel Beach
-
-445
-00:16:05,110 --> 00:16:05,150
-Upper Yard
-
-446
-00:16:05,150 --> 00:16:05,190
-Lovely Street
-
-447
-00:16:05,150 --> 00:16:05,190
-Angel Beach
-
-448
-00:16:05,150 --> 00:16:05,190
-Upper Yard
-
-449
-00:16:05,190 --> 00:16:05,230
-Lovely Street
-
-450
-00:16:05,190 --> 00:16:05,230
-Angel Beach
-
-451
-00:16:05,190 --> 00:16:05,230
-Upper Yard
-
-452
-00:16:05,230 --> 00:16:05,270
-Lovely Street
-
-453
-00:16:05,230 --> 00:16:05,270
-Angel Beach
-
-454
-00:16:05,230 --> 00:16:05,270
-Upper Yard
-
-455
-00:16:05,270 --> 00:16:05,310
-Lovely Street
-
-456
-00:16:05,270 --> 00:16:05,310
-Angel Beach
-
-457
-00:16:05,270 --> 00:16:05,310
-Upper Yard
-
-458
-00:16:05,310 --> 00:16:05,360
-Lovely Street
-
-459
-00:16:05,310 --> 00:16:05,360
-Angel Beach
-
-460
-00:16:05,310 --> 00:16:05,360
-Upper Yard
-
-461
-00:16:05,360 --> 00:16:05,400
-Lovely Street
-
-462
-00:16:05,360 --> 00:16:05,400
-Angel Beach
-
-463
-00:16:05,360 --> 00:16:05,400
-Upper Yard
-
-464
-00:16:05,400 --> 00:16:05,440
-Lovely Street
-
-465
-00:16:05,400 --> 00:16:05,440
-Angel Beach
-
-466
-00:16:05,400 --> 00:16:05,440
-Upper Yard
-
-467
-00:16:05,440 --> 00:16:05,480
-Lovely Street
-
-468
-00:16:05,440 --> 00:16:05,480
-Angel Beach
-
-469
-00:16:05,440 --> 00:16:05,480
-Upper Yard
-
-470
-00:16:05,480 --> 00:16:05,520
-Lovely Street
-
-471
-00:16:05,480 --> 00:16:05,520
-Angel Beach
-
-472
-00:16:05,480 --> 00:16:05,520
-Upper Yard
-
-473
-00:16:05,520 --> 00:16:05,560
-Lovely Street
-
-474
-00:16:05,520 --> 00:16:05,560
-Angel Beach
-
-475
-00:16:05,520 --> 00:16:05,560
-Upper Yard
-
-476
-00:16:05,560 --> 00:16:05,610
-Lovely Street
-
-477
-00:16:05,560 --> 00:16:05,610
-Angel Beach
-
-478
-00:16:05,560 --> 00:16:05,610
-Upper Yard
-
-479
-00:16:05,610 --> 00:16:05,650
-Lovely Street
-
-480
-00:16:05,610 --> 00:16:05,650
-Angel Beach
-
-481
-00:16:05,610 --> 00:16:05,650
-Upper Yard
-
-482
-00:16:05,650 --> 00:16:05,690
-Lovely Street
-
-483
-00:16:05,650 --> 00:16:05,690
-Angel Beach
-
-484
-00:16:05,650 --> 00:16:05,690
-Upper Yard
-
-485
-00:16:05,690 --> 00:16:05,730
-Lovely Street
-
-486
-00:16:05,690 --> 00:16:05,730
-Angel Beach
-
-487
-00:16:05,690 --> 00:16:05,730
-Upper Yard
-
-488
-00:16:05,730 --> 00:16:05,770
-Lovely Street
-
-489
-00:16:05,730 --> 00:16:05,770
-Angel Beach
-
-490
-00:16:05,730 --> 00:16:05,770
-Upper Yard
-
-491
-00:16:05,770 --> 00:16:05,810
-Lovely Street
-
-492
-00:16:05,770 --> 00:16:05,810
-Angel Beach
-
-493
-00:16:05,770 --> 00:16:05,810
-Upper Yard
-
-494
-00:16:05,810 --> 00:16:05,860
-Lovely Street
-
-495
-00:16:05,810 --> 00:16:05,860
-Angel Beach
-
-496
-00:16:05,810 --> 00:16:05,860
-Upper Yard
-
-497
-00:16:05,860 --> 00:16:05,900
-Lovely Street
-
-498
-00:16:05,860 --> 00:16:05,900
-Angel Beach
-
-499
-00:16:05,860 --> 00:16:05,900
-Upper Yard
-
-500
-00:16:05,900 --> 00:16:05,940
-Lovely Street
-
-501
-00:16:05,900 --> 00:16:05,940
-Angel Beach
-
-502
-00:16:05,900 --> 00:16:05,940
-Upper Yard
-
-503
-00:16:05,940 --> 00:16:05,980
-Lovely Street
-
-504
-00:16:05,940 --> 00:16:05,980
-Angel Beach
-
-505
-00:16:05,940 --> 00:16:05,980
-Upper Yard
-
-506
-00:16:05,980 --> 00:16:06,020
-Lovely Street
-
-507
-00:16:05,980 --> 00:16:06,020
-Angel Beach
-
-508
-00:16:05,980 --> 00:16:06,020
-Upper Yard
-
-509
-00:16:06,020 --> 00:16:06,060
-Lovely Street
-
-510
-00:16:06,020 --> 00:16:06,060
-Angel Beach
-
-511
-00:16:06,020 --> 00:16:06,060
-Upper Yard
-
-512
-00:16:06,060 --> 00:16:06,110
-Lovely Street
-
-513
-00:16:06,060 --> 00:16:06,110
-Angel Beach
-
-514
-00:16:06,060 --> 00:16:06,110
-Upper Yard
-
-515
-00:16:06,110 --> 00:16:06,150
-Lovely Street
-
-516
-00:16:06,110 --> 00:16:06,150
-Angel Beach
-
-517
-00:16:06,110 --> 00:16:06,150
-Upper Yard
-
-518
-00:16:06,150 --> 00:16:06,190
-Lovely Street
-
-519
-00:16:06,150 --> 00:16:06,190
-Angel Beach
-
-520
-00:16:06,150 --> 00:16:06,190
-Upper Yard
-
-521
-00:16:06,190 --> 00:16:06,230
-Lovely Street
-
-522
-00:16:06,190 --> 00:16:06,230
-Angel Beach
-
-523
-00:16:06,190 --> 00:16:06,230
-Upper Yard
-
-524
-00:16:06,230 --> 00:16:06,270
-Lovely Street
-
-525
-00:16:06,230 --> 00:16:06,270
-Angel Beach
-
-526
-00:16:06,230 --> 00:16:06,270
-Upper Yard
-
-527
-00:16:06,270 --> 00:16:06,320
-Lovely Street
-
-528
-00:16:06,270 --> 00:16:06,320
-Angel Beach
-
-529
-00:16:06,270 --> 00:16:06,320
-Upper Yard
-
-530
-00:16:06,320 --> 00:16:06,360
-Lovely Street
-
-531
-00:16:06,320 --> 00:16:06,360
-Angel Beach
-
-532
-00:16:06,320 --> 00:16:06,360
-Upper Yard
-
-533
-00:16:06,360 --> 00:16:06,400
-Lovely Street
-
-534
-00:16:06,360 --> 00:16:06,400
-Angel Beach
-
-535
-00:16:06,360 --> 00:16:06,400
-Upper Yard
-
-536
-00:16:06,400 --> 00:16:06,440
-Lovely Street
-
-537
-00:16:06,400 --> 00:16:06,440
-Angel Beach
-
-538
-00:16:06,400 --> 00:16:06,440
-Upper Yard
-
-539
-00:16:06,440 --> 00:16:06,480
-Lovely Street
-
-540
-00:16:06,440 --> 00:16:06,480
-Angel Beach
-
-541
-00:16:06,440 --> 00:16:06,480
-Upper Yard
-
-542
-00:16:06,480 --> 00:16:06,520
-Lovely Street
-
-543
-00:16:06,480 --> 00:16:06,520
-Angel Beach
-
-544
-00:16:06,480 --> 00:16:06,520
-Upper Yard
-
-545
-00:16:06,520 --> 00:16:06,570
-Lovely Street
-
-546
-00:16:06,520 --> 00:16:06,570
-Angel Beach
-
-547
-00:16:06,520 --> 00:16:06,570
-Upper Yard
-
-548
-00:16:06,570 --> 00:16:06,610
-Lovely Street
-
-549
-00:16:06,570 --> 00:16:06,610
-Angel Beach
-
-550
-00:16:06,570 --> 00:16:06,610
-Upper Yard
-
-551
-00:16:06,610 --> 00:16:06,650
-Lovely Street
-
-552
-00:16:06,610 --> 00:16:06,650
-Angel Beach
-
-553
-00:16:06,610 --> 00:16:06,650
-Upper Yard
-
-554
-00:16:06,650 --> 00:16:06,690
-Lovely Street
-
-555
-00:16:06,650 --> 00:16:06,690
-Angel Beach
-
-556
-00:16:06,650 --> 00:16:06,690
-Upper Yard
-
-557
-00:16:06,690 --> 00:16:06,730
-Lovely Street
-
-558
-00:16:06,690 --> 00:16:06,730
-Angel Beach
-
-559
-00:16:06,690 --> 00:16:06,730
-Upper Yard
-
-560
-00:16:06,730 --> 00:16:06,770
-Lovely Street
-
-561
-00:16:06,730 --> 00:16:06,770
-Angel Beach
-
-562
-00:16:06,730 --> 00:16:06,770
-Upper Yard
-
-563
-00:16:06,770 --> 00:16:06,820
-Lovely Street
-
-564
-00:16:06,770 --> 00:16:06,820
-Angel Beach
-
-565
-00:16:06,770 --> 00:16:06,820
-Upper Yard
-
-566
-00:16:06,820 --> 00:16:11,990
-Lovely Street
-
-567
-00:16:06,820 --> 00:16:11,990
-Angel Beach
-
-568
-00:16:06,820 --> 00:16:11,990
-Upper Yard
-
-569
 00:16:18,890 --> 00:16:22,090
 Wow! Hier ist’s ja toll!
 
-570
+380
 00:16:22,880 --> 00:16:26,490
 Die Lovely Street ist das einzige Stadtzentrum auf Angel Island.
 
-571
+381
 00:16:28,430 --> 00:16:31,010
 Schaut mal! Die Läden schweben!
 
-572
+382
 00:16:31,630 --> 00:16:35,160
 Sie wurden mit den Eigenschaften der Inselwolken erbaut.
 
-573
+383
 00:16:35,160 --> 00:16:38,020
 Wow! Gibt’s hier Grillrestaurants?
 
-574
+384
 00:16:49,370 --> 00:16:52,890
 Bild ich mir das ein oder meiden uns hier alle?
 
-575
+385
 00:16:52,890 --> 00:16:54,180
 Man kann ihnen nichts vorwerfen.
 
-576
+386
 00:16:54,180 --> 00:16:56,350
 Vermutlich hat sich schon herumgesprochen,
 
-577
+387
 00:16:56,350 --> 00:16:58,000
 dass wir Kriminelle sind.
 
-578
+388
 00:17:00,360 --> 00:17:01,690
 Wie toll!
 
-579
+389
 00:17:01,690 --> 00:17:03,590
 Das ganze Stadtzentrum nur für uns!
 
-580
+390
 00:17:04,380 --> 00:17:07,210
 All die Engelchen meiden mich...
 
-581
+391
 00:17:09,610 --> 00:17:12,930
 Oh? Hier werden ja echt seltsame Dinge zum Verkauf angeboten.
 
-582
+392
 00:17:15,500 --> 00:17:18,250
 Oh, hätte ich doch nur Geld!
 
-583
+393
 00:17:18,250 --> 00:17:20,070
 Kann ich auch mit Schätzen zahlen?
 
-584
+394
 00:17:20,070 --> 00:17:20,970
 Nee!
 
-585
+395
 00:17:21,650 --> 00:17:25,220
 Luffy! Wir haben keine Zeit zum Herumalbern.
 
-586
+396
 00:17:25,220 --> 00:17:27,390
 Nami und die anderen sollen geopfert werden!
 
-587
+397
 00:17:27,390 --> 00:17:29,600
 Willst du sie überhaupt retten?
 
-588
+398
 00:17:29,600 --> 00:17:32,070
 Sie retten? Die schaffen das schon!
 
-589
+399
 00:17:32,070 --> 00:17:33,700
 Zoro wurde doch auch geschnappt!
 
-590
+400
 00:17:33,700 --> 00:17:35,840
 Als könnten wir auf den wirklich zählen!
 
-591
+401
 00:17:35,840 --> 00:17:40,660
 Ich hoffe nur, das Schiff hat nicht noch mehr abbekommen.
 
-592
+402
 00:17:40,980 --> 00:17:43,350
 Nanu?! Da ist etwas mitten auf der Straße.
 
-593
+403
 00:17:43,350 --> 00:17:43,980
 Hä?
 
-594
+404
 00:17:50,220 --> 00:17:51,540
 Was für ein seltsames Gesicht!
 
-595
+405
 00:17:51,540 --> 00:17:53,260
 Was ist das? Ein Siegel?
 
-596
+406
 00:17:53,260 --> 00:17:57,660
 Wirkt wie eine seltsame Lehmfigur,
 ist aber vermutlich eine religiöse Figur.
 
-597
+407
 00:17:57,660 --> 00:18:00,950
 Depp! Das ist Kunst!
 Seh ich auf den ersten Blick!
 
-598
+408
 00:18:00,950 --> 00:18:02,440
 Das ist „Vearth“.
 
-599
+409
 00:18:02,940 --> 00:18:07,150
 Die Himmelsbewohner verehren es seit jeher.
 
-600
+410
 00:18:07,150 --> 00:18:08,440
 Vearth?
 
-601
+411
 00:18:08,440 --> 00:18:11,840
 Was?! Dieses Ding verehrt ihr?
 
-602
+412
 00:18:12,560 --> 00:18:14,030
 Ihr habt doch ’nen Sockenschuss.
 
-603
+413
 00:18:16,220 --> 00:18:21,160
 Ja, für Blaumeerer ist das bestimmt schwer nachzuvollziehen.
 
-604
+414
 00:18:21,160 --> 00:18:23,340
 Zum Dock geht es hier lang.
 
-605
+415
 00:18:23,340 --> 00:18:25,440
 Was?! Wir gehen schon wieder?
 
-606
+416
 00:18:25,440 --> 00:18:28,900
 Was redest du da?
 Das hier ist nicht unser Ziel!
 
-607
+417
 00:18:28,900 --> 00:18:31,730
 Komm schon, können wir nicht noch etwas hierbleiben?
 
-608
+418
 00:18:59,280 --> 00:19:00,740
 –Oh!
 –Oh!
 
-609
+419
 00:19:00,740 --> 00:19:02,750
 So viele Boote!
 
-610
+420
 00:19:04,140 --> 00:19:07,250
 Hier liegen allerlei Boote an.
 
-611
+421
 00:19:12,090 --> 00:19:15,380
 Boah! Seht euch diese Gondel an!
 
-612
+422
 00:19:18,030 --> 00:19:19,780
 Die sieht ja krass aus!
 
-613
+423
 00:19:19,780 --> 00:19:21,100
 Nehmen wir die!
 
-614
+424
 00:19:21,720 --> 00:19:23,200
 Schaut mal dort hinten!
 
-615
+425
 00:19:23,200 --> 00:19:26,000
 Die kann sich von
 allein bewegen, wie ein Waver!
 
-616
+426
 00:19:26,000 --> 00:19:28,910
 Das könnte ’ne lustige Gondelfahrt werden!
 
-617
+427
 00:19:28,910 --> 00:19:30,230
 Du Volltrottel!
 
-618
+428
 00:19:30,230 --> 00:19:32,430
 Wir retten hier Nami und Robin!
 
-619
+429
 00:19:32,430 --> 00:19:33,660
 Bleib mal ernst!
 
-620
+430
 00:19:33,660 --> 00:19:36,270
 Oh, euer Boot ist dort drüben.
 
-621
+431
 00:19:36,270 --> 00:19:36,780
 Okay!
 
-622
+432
 00:19:36,780 --> 00:19:38,030
 – Oh?!
 – Oh?!
 
-623
+433
 00:19:39,030 --> 00:19:42,290
 Was für eine Gondel es wohl sein wird?
 
-624
+434
 00:19:53,420 --> 00:19:54,720
 Die Floating Crow!
 
-625
+435
 00:19:57,550 --> 00:19:59,260
 Du veräppelst uns!
 
-626
+436
 00:19:59,260 --> 00:20:00,450
 Krähen...
 
-627
+437
 00:20:01,720 --> 00:20:03,350
 sind nicht mal Wasservögel!
 
-628
+438
 00:20:04,540 --> 00:20:08,650
 Bis vor Kurzem habe ich sie genutzt.
 Bis ich mit dem Waver umgehen konnte.
 
-629
+439
 00:20:09,200 --> 00:20:11,520
 Ist zwar kein Waver,
 
-630
+440
 00:20:11,520 --> 00:20:14,110
 aber hat immerhin zwei Breath-Dials an Bord!
 
-631
+441
 00:20:14,610 --> 00:20:16,320
 Bitte nutzt sie doch!
 
-632
+442
 00:20:17,790 --> 00:20:19,530
 Nö... Ich geh nicht.
 
-633
+443
 00:20:20,620 --> 00:20:22,030
 Wie erwartet!
 
-634
+444
 00:20:22,030 --> 00:20:24,330
 In letzter Minute zeigt er seinen wahren Charakter!
 
-635
+445
 00:20:24,330 --> 00:20:26,410
 Ich bevorzuge das da.
 
-636
+446
 00:20:30,860 --> 00:20:32,840
 Er war nur egoistisch?
 
-637
+447
 00:20:34,590 --> 00:20:36,350
 S-Sie gefällt dir nicht?
 
-638
+448
 00:20:36,350 --> 00:20:38,380
 Das tut mir leid. Aber...
 
-639
+449
 00:20:38,380 --> 00:20:41,100
 Du undankbarer Kerl! Entschuldige dich!
 
-640
+450
 00:20:41,100 --> 00:20:44,780
 Entschuldige dich bei Conis vom Grunde deines Herzens! Du Abschaum!
 
-641
+451
 00:20:44,780 --> 00:20:47,690
 Ignorier seinen Egoismus einfach.
 
-642
+452
 00:20:47,690 --> 00:20:49,070
 ’tschuldigung...
 
-643
+453
 00:20:49,070 --> 00:20:49,600
 Schon gut.
 
-644
+454
 00:20:49,600 --> 00:20:52,020
 Euer Ausgang ist an Gate 2.
 
-645
+455
 00:20:52,890 --> 00:20:57,170
 Er führt euch zur gigantischen
 Milky Road, die zum Upper Yard führt.
 
-646
+456
 00:20:58,030 --> 00:21:01,120
 I-Ihr müsst einfach nur hindurchfahren.
 
-647
+457
 00:21:04,000 --> 00:21:05,870
 Du, Conis.
 
-648
+458
 00:21:06,400 --> 00:21:07,000
 Jawohl?
 
-649
+459
 00:21:07,360 --> 00:21:10,750
 Warum zitterst du, seit wir euer Haus verlassen haben?
 
-650
+460
 00:21:14,380 --> 00:21:17,880
 W-Was labert der?
 
-651
+461
 00:21:19,280 --> 00:21:20,990
 W-Wirkt das etwa so?
 
-652
+462
 00:21:23,550 --> 00:21:26,560
 Ja. Als würdest du dich vor etwas fürchten.
 
-653
+463
 00:21:28,520 --> 00:21:30,930
 Nein, sie wird doch nicht...
 
-654
+464
 00:21:33,390 --> 00:21:37,360
 Conis! Du sorgst dich um uns!
 
-655
+465
 00:21:37,360 --> 00:21:38,940
 Das ist so rührend!
 
-656
+466
 00:21:40,900 --> 00:21:44,910
 Aber schafft ihr das?
 
-657
+467
 00:21:44,910 --> 00:21:48,760
 Alle in der Stadt ignorieren uns offen,
 
-658
+468
 00:21:48,760 --> 00:21:53,710
 aber du leihst uns dein Boot und hilfst uns sogar...
 
-659
+469
 00:21:54,460 --> 00:21:57,840
 Macht dich das nicht zur Komplizin?
 
-660
+470
 00:21:58,500 --> 00:22:01,340
 Hey, du wirkst auch ganz blass...
 
-661
+471
 00:22:03,670 --> 00:22:06,290
 Sag uns doch,
 wenn du solche Angst hast.
 
-662
+472
 00:22:06,290 --> 00:22:08,270
 Wir hätten das schon allein...
 
-663
+473
 00:22:08,270 --> 00:22:09,190
 Nein...
 
-664
+474
 00:22:10,230 --> 00:22:11,370
 Ich...
 
-665
+475
 00:22:11,920 --> 00:22:13,170
 Es ist nicht so, wie ihr denkt!
 
-666
+476
 00:22:17,280 --> 00:22:18,820
 Sie wird doch nicht...
 
-667
+477
 00:22:19,620 --> 00:22:21,820
 Sag jetzt nichts Unüberlegtes!
 
-668
+478
 00:22:22,880 --> 00:22:24,780
 Es ist seltsam, oder?
 
-669
+479
 00:22:25,320 --> 00:22:28,390
 Euch den Weg zu eurem „Martyrium“ erklären
 
-670
+480
 00:22:28,390 --> 00:22:30,700
 und auch noch persönlich hinzubringen...
 
-671
+481
 00:22:30,700 --> 00:22:33,670
 Als würde ich euch unbedingt herführen wollen
 
-672
+482
 00:22:33,670 --> 00:22:35,670
 obwohl es furchterregend ist.
 
-673
+483
 00:22:37,630 --> 00:22:39,340
 Aufhören!
 
-674
+484
 00:22:39,340 --> 00:22:41,510
 Mach keine Dummheit!
 
-675
+485
 00:22:41,510 --> 00:22:43,880
 Nanu? Was war das?!
 
-676
+486
 00:22:54,020 --> 00:22:56,860
 Die sind doch nicht etwa alle...
 
-677
+487
 00:23:02,390 --> 00:23:05,020
 Es ist unsere Pflicht als Bürger.
 
-678
+488
 00:23:05,020 --> 00:23:08,070
 Und auch Sein Wille.
 
-679
+489
 00:23:15,080 --> 00:23:16,730
 Würdet ihr bitte fliehen?
 
-680
+490
 00:23:22,510 --> 00:23:24,080
 Es tut mir leid!
 
-681
+491
 00:23:27,720 --> 00:23:29,100
 Nicht!
 
-682
+492
 00:23:29,100 --> 00:23:30,680
 Was sagst du da?!
 
-683
+493
 00:23:31,420 --> 00:23:35,630
 Ich habe den Sonder-Hummerexpress gerufen!
 
-684
+494
 00:23:36,540 --> 00:23:39,340
 Das Ding, das Nami und die anderen weggebracht hat?!
 
-685
+495
 00:23:39,340 --> 00:23:40,520
 Du hast es gerufen?!
 
-686
+496
 00:23:43,050 --> 00:23:47,640
 Während ihr nicht an Bord wart,
 
-687
+497
 00:23:47,640 --> 00:23:51,070
 habe ich ihnen ein Lügenmärchen über
 einen Strom erzählt, der nach Clouds End führt,
 
-688
+498
 00:23:51,640 --> 00:23:53,530
 und sie den Anker lichten lassen.
 
-689
+499
 00:23:59,000 --> 00:24:02,990
 Das war das Zeichen für den Sonder-Hummerexpress.
 
-690
+500
 00:24:12,850 --> 00:24:16,560
 Närrin! Willst du dein Leben verlieren?!
 
-691
+501
 00:24:16,560 --> 00:24:18,140
 Wenn wir einen Kriminellen
 
-692
+502
 00:24:18,140 --> 00:24:23,480
 nicht an den Ort des Urteils bringen, werden wir getötet, darum...
 
-693
+503
 00:24:25,440 --> 00:24:26,860
 Hör auf!
 
-694
+504
 00:24:26,860 --> 00:24:29,080
 Ist dir eigentlich bewusst, was du da sagst?!
 
-695
+505
 00:24:29,080 --> 00:24:30,510
 Das ist Gotteslästerung!
 
-696
+506
 00:24:30,510 --> 00:24:32,370
 Haltet sie auf!
 
-697
+507
 00:24:32,370 --> 00:24:35,370
 Das ist die Pflicht von uns Einwohnern...
 
-698
+508
 00:24:35,370 --> 00:24:37,130
 Ist das dein Ernst?!
 
-699
+509
 00:24:37,130 --> 00:24:38,410
 Es tut mir leid!
 
-700
+510
 00:24:39,180 --> 00:24:42,160
 Das ist alles so seltsam, was?!
 
-701
+511
 00:24:43,750 --> 00:24:45,090
 Sei nicht albern!
 
-702
+512
 00:24:45,800 --> 00:24:48,130
 Du hattest keine Wahl, oder?!
 
-703
+513
 00:24:51,560 --> 00:24:52,550
 Warum dann...
 
-704
+514
 00:24:56,000 --> 00:24:57,850
 – erzählst du uns das?!
 – erzählst du uns das?!
 
-705
+515
 00:25:02,400 --> 00:25:04,630
 Dein Leben ist in Gefahr!
 
-706
+516
 00:25:04,630 --> 00:25:06,170
 Das war’s!
 
-707
+517
 00:25:06,170 --> 00:25:07,530
 Wir waren zu spät!
 
-708
+518
 00:25:07,530 --> 00:25:08,980
 Bleibt dem Mädchen fern!
 
-709
+519
 00:25:08,980 --> 00:25:10,490
 Das Urteil wird folgen!
 
-710
+520
 00:25:47,720 --> 00:25:48,990
 Nicht gut! Es ist gigantisch!
 
-711
+521
 00:26:33,290 --> 00:26:34,950
 Was war das?!
 
-712
+522
 00:26:35,480 --> 00:26:36,990
 Was ist gerade passiert?!
 
-713
+523
 00:26:38,420 --> 00:26:39,360
 Luffy!
 
-714
+524
 00:26:39,360 --> 00:26:42,270
 Conis! Hey, wo seid ihr?!
 
-715
+525
 00:26:42,910 --> 00:26:45,420
 Luffy! Conis!
 
-716
+526
 00:26:45,840 --> 00:26:47,040
 Es bringt nichts.
 
-717
+527
 00:26:47,040 --> 00:26:50,340
 Der allmächtige Enel sieht alles.
 
-718
+528
 00:26:54,130 --> 00:26:56,430
 Ihnen beiden geht es gut.
 
-719
+529
 00:27:02,590 --> 00:27:04,250
 Es ist Gan Fall!
 
-720
+530
 00:27:06,540 --> 00:27:08,400
 Oh! Der seltsame alte Kauz!
 
-721
+531
 00:27:08,700 --> 00:27:10,080
 „Seltsam“?
 
-722
+532
 00:27:10,080 --> 00:27:12,560
 Aber nein, ich bin der Ritter des Himmels!
 
-723
+533
 00:27:12,560 --> 00:27:14,700
 Das hier geht aufs Haus!
 
-724
+534
 00:27:18,460 --> 00:27:20,910
 Ein Glück! Conis...!
 
-725
+535
 00:27:21,840 --> 00:27:24,230
 Überlasst das Mädchen mir.
 
-726
+536
 00:27:24,230 --> 00:27:27,380
 Ich lasse nicht zu, dass Enel sie verletzt.
 
-727
+537
 00:27:28,460 --> 00:27:29,460
 Gut!
 
-728
+538
 00:27:29,460 --> 00:27:34,750
 Ihr kennt nun das wahre Wesen
 dieses Landes, genau wie „Gottes“ Kraft.
 
-729
+539
 00:27:34,750 --> 00:27:37,050
 Was werdet ihr nun tun?
 
-730
+540
 00:27:37,050 --> 00:27:39,490
 Dieses Land interessiert uns nicht.
 
-731
+541
 00:27:40,680 --> 00:27:42,930
 Unsere Freunde sind auf „Gottes Insel“!
 
-732
+542
 00:27:43,440 --> 00:27:44,790
 Verstehe...
 
-733
+543
 00:27:44,790 --> 00:27:46,390
 Möge das Glück euch hold sein.
 
-734
+544
 00:27:56,440 --> 00:27:57,400
 Was ist mit den Jungs?
 
-735
+545
 00:27:57,400 --> 00:27:59,660
 Sie haben ihren Kurs gewählt.
 
-736
+546
 00:27:59,660 --> 00:28:02,330
 Es ist nicht deine Schuld.
 
-737
+547
 00:28:03,180 --> 00:28:06,210
 Ich weiß, wer Ihr seid.
 
-738
+548
 00:28:06,800 --> 00:28:09,530
 Ich bin der Ritter des Himmels.
 
-739
+549
 00:28:10,290 --> 00:28:12,850
 Nein, wir alle wissen es.
 
-740
+550
 00:28:13,520 --> 00:28:15,300
 Bitte kommt zurück...
 
-741
+551
 00:28:15,870 --> 00:28:17,010
 Gott!
 
-742
+552
 00:28:22,270 --> 00:28:26,470
 Steigt auf! Dem werd ich ’nen Turbo verpassen!
 
-743
+553
 00:28:26,470 --> 00:28:27,950
 Du kommst auch mit!
 
-744
+554
 00:28:32,920 --> 00:28:35,400
 Alles klar, auf zum Upper Yard!
 
-745
+555
 00:28:38,730 --> 00:28:41,550
 Nein!
 
-746
+556
 00:28:44,140 --> 00:28:46,380
 Diese Bastarde sind tatsächlich aufgebrochen,
 
-747
+557
 00:28:46,380 --> 00:28:49,290
 ohne Zögern oder ein Fünkchen Unsicherheit.

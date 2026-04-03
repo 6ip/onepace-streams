@@ -118,2564 +118,2206 @@ La mienne a augmenté ?
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
+Prime :     1000
 
 28
-00:02:15,320 --> 00:02:15,370
+00:02:15,370 --> 00:02:15,410
+Médecin de bord
+Le Fana de Barbe à Papa
+Animal de compagnie
 Prime :     1000
 
 29
-00:02:15,370 --> 00:02:15,410
+00:02:15,410 --> 00:02:15,450
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
+Prime :     1000
 
 30
-00:02:15,370 --> 00:02:15,410
+00:02:15,450 --> 00:02:15,490
+Médecin de bord
+Le Fana de Barbe à Papa
+Animal de compagnie
 Prime :     1000
 
 31
-00:02:15,410 --> 00:02:15,450
+00:02:15,490 --> 00:02:15,530
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
+Prime :     1000
 
 32
-00:02:15,410 --> 00:02:15,450
+00:02:15,530 --> 00:02:15,570
+Médecin de bord
+Le Fana de Barbe à Papa
+Animal de compagnie
 Prime :     1000
 
 33
-00:02:15,450 --> 00:02:15,490
+00:02:15,570 --> 00:02:15,620
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
+Prime :     1000
 
 34
-00:02:15,450 --> 00:02:15,490
+00:02:15,620 --> 00:02:15,660
+Médecin de bord
+Le Fana de Barbe à Papa
+Animal de compagnie
 Prime :     1000
 
 35
-00:02:15,490 --> 00:02:15,530
+00:02:15,660 --> 00:02:15,700
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
+Prime :     1000
 
 36
-00:02:15,490 --> 00:02:15,530
+00:02:15,700 --> 00:02:15,740
+Médecin de bord
+Le Fana de Barbe à Papa
+Animal de compagnie
 Prime :     1000
 
 37
-00:02:15,530 --> 00:02:15,570
-Médecin de bord
-Le Fana de Barbe à Papa
-Animal de compagnie
-
-38
-00:02:15,530 --> 00:02:15,570
-Prime :     1000
-
-39
-00:02:15,570 --> 00:02:15,620
-Médecin de bord
-Le Fana de Barbe à Papa
-Animal de compagnie
-
-40
-00:02:15,570 --> 00:02:15,620
-Prime :     1000
-
-41
-00:02:15,620 --> 00:02:15,660
-Médecin de bord
-Le Fana de Barbe à Papa
-Animal de compagnie
-
-42
-00:02:15,620 --> 00:02:15,660
-Prime :     1000
-
-43
-00:02:15,660 --> 00:02:15,700
-Médecin de bord
-Le Fana de Barbe à Papa
-Animal de compagnie
-
-44
-00:02:15,660 --> 00:02:15,700
-Prime :     1000
-
-45
-00:02:15,700 --> 00:02:15,740
-Médecin de bord
-Le Fana de Barbe à Papa
-Animal de compagnie
-
-46
-00:02:15,700 --> 00:02:15,740
-Prime :     1000
-
-47
 00:02:15,740 --> 00:02:15,820
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
 
-48
+38
 00:02:15,740 --> 00:02:15,780
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
-
-49
-00:02:15,740 --> 00:02:15,780
 Prime :     1000
 
-50
+39
 00:02:15,780 --> 00:02:15,820
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
-
-51
-00:02:15,780 --> 00:02:15,820
 Prime :     1000
 
-52
+40
 00:02:15,820 --> 00:02:24,830
 Médecin de bord
 Le Fana de Barbe à Papa
 Animal de compagnie
-
-53
-00:02:15,820 --> 00:02:24,830
 Prime :     1000
 
-54
+41
 00:02:15,990 --> 00:02:18,750
 Le médecin de bord,
 Chopper, fan de barbe à papa.
 
-55
+42
 00:02:18,920 --> 00:02:20,680
 Aussi, animal domestique.
 
-56
+43
 00:02:20,850 --> 00:02:22,750
 Sa prime : 1 000 Berrys.
 
-57
+44
 00:02:22,910 --> 00:02:24,710
 Augmentation de 900 Berrys.
 
-58
+45
 00:02:26,180 --> 00:02:29,170
 Elle a monté,
 mais ils se moquent du monde.
 
-59
+46
 00:02:37,600 --> 00:02:44,940
 "La chapardeuse" Nami
 Navigatrice
-
-60
-00:02:37,600 --> 00:02:44,940
 Prime :      366 Millions
 
-61
+47
 00:02:38,470 --> 00:02:40,900
 La navigatrice,
 Nami, la chapardeuse.
 
-62
+48
 00:02:41,080 --> 00:02:44,810
 Sa prime : 366 millions de Berrys.
 
-63
+49
 00:02:45,850 --> 00:02:46,910
 C’est beaucoup !
 
-64
+50
 00:02:47,150 --> 00:02:48,900
 Donnez-moi tout ce pognon !
 
-65
+51
 00:02:56,580 --> 00:02:57,580
 Yeah!
 
-66
+52
 00:02:58,570 --> 00:02:58,620
 Brook "Le Soul King"
 Musicien
-
-67
-00:02:58,570 --> 00:02:58,620
 Prime :      383 Millions
 
-68
+53
 00:02:58,620 --> 00:02:58,660
 Brook "Le Soul King"
 Musicien
-
-69
-00:02:58,620 --> 00:02:58,660
 Prime :      383 Millions
 
-70
+54
 00:02:58,660 --> 00:02:58,700
 Brook "Le Soul King"
 Musicien
-
-71
-00:02:58,660 --> 00:02:58,700
 Prime :      383 Millions
 
-72
+55
 00:02:58,700 --> 00:02:58,740
 Brook "Le Soul King"
 Musicien
-
-73
-00:02:58,700 --> 00:02:58,740
 Prime :      383 Millions
 
-74
+56
 00:02:58,740 --> 00:03:01,420
 Le musicien de bord,
 Brook, le Soul King.
 
-75
+57
 00:02:58,740 --> 00:02:58,780
 Brook "Le Soul King"
 Musicien
-
-76
-00:02:58,740 --> 00:02:58,780
 Prime :      383 Millions
 
-77
+58
 00:02:58,780 --> 00:02:58,830
 Brook "Le Soul King"
 Musicien
-
-78
-00:02:58,780 --> 00:02:58,830
 Prime :      383 Millions
 
-79
+59
 00:02:58,830 --> 00:02:58,870
 Brook "Le Soul King"
 Musicien
-
-80
-00:02:58,830 --> 00:02:58,870
 Prime :      383 Millions
 
-81
+60
 00:02:58,870 --> 00:02:58,910
 Brook "Le Soul King"
 Musicien
-
-82
-00:02:58,870 --> 00:02:58,910
 Prime :      383 Millions
 
-83
+61
 00:02:58,910 --> 00:02:58,950
 Brook "Le Soul King"
 Musicien
-
-84
-00:02:58,910 --> 00:02:58,950
 Prime :      383 Millions
 
-85
+62
 00:02:58,950 --> 00:02:58,990
 Brook "Le Soul King"
 Musicien
-
-86
-00:02:58,950 --> 00:02:58,990
 Prime :      383 Millions
 
-87
+63
 00:02:58,990 --> 00:02:59,030
 Brook "Le Soul King"
 Musicien
-
-88
-00:02:58,990 --> 00:02:59,030
 Prime :      383 Millions
 
-89
+64
 00:02:59,030 --> 00:02:59,080
 Brook "Le Soul King"
 Musicien
-
-90
-00:02:59,030 --> 00:02:59,080
 Prime :      383 Millions
 
-91
+65
 00:02:59,080 --> 00:03:05,290
 Brook "Le Soul King"
 Musicien
-
-92
-00:02:59,080 --> 00:03:05,290
 Prime :      383 Millions
 
-93
+66
 00:03:01,600 --> 00:03:05,290
 Sa prime : 383 millions de Berrys.
 
-94
+67
 00:03:05,290 --> 00:03:06,680
 Merci !
 
-95
+68
 00:03:06,850 --> 00:03:08,000
 C’est tout ?
 
-96
+69
 00:03:12,290 --> 00:03:12,330
 Franky "Le Cyborg" 
 Charpentier
-
-97
-00:03:12,290 --> 00:03:12,330
 Prime :      394 Millions
 
-98
+70
 00:03:12,330 --> 00:03:12,380
 Franky "Le Cyborg" 
 Charpentier
-
-99
-00:03:12,330 --> 00:03:12,380
 Prime :      394 Millions
 
-100
+71
 00:03:12,380 --> 00:03:12,420
 Franky "Le Cyborg" 
 Charpentier
-
-101
-00:03:12,380 --> 00:03:12,420
 Prime :      394 Millions
 
-102
+72
 00:03:12,420 --> 00:03:12,460
 Franky "Le Cyborg" 
 Charpentier
-
-103
-00:03:12,420 --> 00:03:12,460
 Prime :      394 Millions
 
-104
+73
 00:03:12,460 --> 00:03:12,500
 Franky "Le Cyborg" 
 Charpentier
-
-105
-00:03:12,460 --> 00:03:12,500
 Prime :      394 Millions
 
-106
+74
 00:03:12,500 --> 00:03:12,540
 Franky "Le Cyborg" 
 Charpentier
-
-107
-00:03:12,500 --> 00:03:12,540
 Prime :      394 Millions
 
-108
+75
 00:03:12,540 --> 00:03:12,580
 Franky "Le Cyborg" 
 Charpentier
-
-109
-00:03:12,540 --> 00:03:12,580
 Prime :      394 Millions
 
-110
+76
 00:03:12,580 --> 00:03:12,630
 Franky "Le Cyborg" 
 Charpentier
-
-111
-00:03:12,580 --> 00:03:12,630
 Prime :      394 Millions
 
-112
+77
 00:03:12,630 --> 00:03:12,670
 Franky "Le Cyborg" 
 Charpentier
-
-113
-00:03:12,630 --> 00:03:12,670
 Prime :      394 Millions
 
-114
+78
 00:03:12,670 --> 00:03:12,710
 Franky "Le Cyborg" 
 Charpentier
-
-115
-00:03:12,670 --> 00:03:12,710
 Prime :      394 Millions
 
-116
+79
 00:03:12,710 --> 00:03:12,750
 Franky "Le Cyborg" 
 Charpentier
 
-117
+80
 00:03:12,710 --> 00:03:19,800
 Franky "Le Cyborg" 
 Charpentier
-
-118
-00:03:12,710 --> 00:03:19,800
 Prime :      394 Millions
 
-119
+81
 00:03:12,750 --> 00:03:12,790
 Franky "Le Cyborg" 
 Charpentier
 
-120
+82
 00:03:12,790 --> 00:03:12,830
 Franky "Le Cyborg" 
 Charpentier
 
-121
+83
 00:03:12,800 --> 00:03:15,640
 Le charpentier,
 Franky, le cyborg.
 
-122
+84
 00:03:12,830 --> 00:03:12,880
 Franky "Le Cyborg" 
 Charpentier
 
-123
+85
 00:03:12,880 --> 00:03:12,920
 Franky "Le Cyborg" 
 Charpentier
 
-124
+86
 00:03:12,920 --> 00:03:12,960
 Franky "Le Cyborg" 
 Charpentier
 
-125
+87
 00:03:12,960 --> 00:03:13,000
 Franky "Le Cyborg" 
 Charpentier
 
-126
+88
 00:03:13,000 --> 00:03:13,040
 Franky "Le Cyborg" 
 Charpentier
 
-127
+89
 00:03:13,040 --> 00:03:13,080
 Franky "Le Cyborg" 
 Charpentier
 
-128
+90
 00:03:13,080 --> 00:03:13,130
 Franky "Le Cyborg" 
 Charpentier
 
-129
+91
 00:03:13,130 --> 00:03:13,250
 Franky "Le Cyborg" 
 Charpentier
 
-130
+92
 00:03:13,250 --> 00:03:19,800
 Franky "Le Cyborg" 
 Charpentier
 
-131
+93
 00:03:15,840 --> 00:03:19,480
 Sa prime : 394 millions de Berrys.
 
-132
+94
 00:03:19,800 --> 00:03:19,890
 Franky "Le Cyborg" 
 Charpentier
-
-133
-00:03:19,800 --> 00:03:19,890
 Prime :      394 Millions
 
-134
+95
 00:03:19,890 --> 00:03:20,140
 Franky "Le Cyborg" 
 Charpentier
-
-135
-00:03:19,890 --> 00:03:20,140
 Prime :      394 Millions
 
-136
+96
 00:03:19,890 --> 00:03:20,100
 Prime :      394 Millions
 
-137
-00:03:19,890 --> 00:03:20,140
-Prime :      394 Millions
-
-138
+97
 00:03:20,100 --> 00:03:20,140
 Prime :      394 Millions
 
-139
+98
 00:03:20,140 --> 00:03:23,430
 Ils se fichent du monde !
 Je vaux plus que ça !
 
-140
+99
 00:03:31,900 --> 00:03:31,940
 "Dieu" Usopp
 Tireur d'élite
-
-141
-00:03:31,900 --> 00:03:31,940
 Prime :      500 Millions
 
-142
+100
 00:03:31,940 --> 00:03:31,980
 "Dieu" Usopp
 Tireur d'élite
-
-143
-00:03:31,940 --> 00:03:31,980
 Prime :      500 Millions
 
-144
+101
 00:03:31,980 --> 00:03:32,020
 "Dieu" Usopp
 Tireur d'élite
-
-145
-00:03:31,980 --> 00:03:32,020
 Prime :      500 Millions
 
-146
+102
 00:03:32,020 --> 00:03:32,070
 "Dieu" Usopp
 Tireur d'élite
-
-147
-00:03:32,020 --> 00:03:32,070
 Prime :      500 Millions
 
-148
+103
 00:03:32,070 --> 00:03:32,110
 "Dieu" Usopp
 Tireur d'élite
-
-149
-00:03:32,070 --> 00:03:32,110
 Prime :      500 Millions
 
-150
+104
 00:03:32,110 --> 00:03:32,150
 "Dieu" Usopp
 Tireur d'élite
-
-151
-00:03:32,110 --> 00:03:32,150
 Prime :      500 Millions
 
-152
+105
 00:03:32,150 --> 00:03:32,190
 "Dieu" Usopp
 Tireur d'élite
-
-153
-00:03:32,150 --> 00:03:32,190
 Prime :      500 Millions
 
-154
+106
 00:03:32,190 --> 00:03:32,230
 "Dieu" Usopp
 Tireur d'élite
-
-155
-00:03:32,190 --> 00:03:32,230
 Prime :      500 Millions
 
-156
+107
 00:03:32,230 --> 00:03:32,280
 "Dieu" Usopp
 Tireur d'élite
-
-157
-00:03:32,230 --> 00:03:32,280
 Prime :      500 Millions
 
-158
+108
 00:03:32,280 --> 00:03:32,320
 "Dieu" Usopp
 Tireur d'élite
-
-159
-00:03:32,280 --> 00:03:32,320
 Prime :      500 Millions
 
-160
+109
 00:03:32,320 --> 00:03:32,360
 "Dieu" Usopp
 Tireur d'élite
-
-161
-00:03:32,320 --> 00:03:32,360
 Prime :      500 Millions
 
-162
+110
 00:03:32,360 --> 00:03:32,400
 "Dieu" Usopp
 Tireur d'élite
-
-163
-00:03:32,360 --> 00:03:32,400
 Prime :      500 Millions
 
-164
+111
 00:03:32,400 --> 00:03:37,450
 "Dieu" Usopp
 Tireur d'élite
-
-165
-00:03:32,400 --> 00:03:37,450
 Prime :      500 Millions
 
-166
+112
 00:03:32,540 --> 00:03:34,720
 Le tireur d’élite,
 le dieu Usopp.
 
-167
+113
 00:03:34,870 --> 00:03:37,070
 Sa prime : 500 millions de Berrys.
 
-168
+114
 00:03:37,570 --> 00:03:41,830
 Arrêtez de la monter,
 je vous en supplie !
 
-169
+115
 00:03:42,660 --> 00:03:45,100
 Arrête de pleurer, Chopper.
 
-170
+116
 00:03:46,540 --> 00:03:46,580
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-171
-00:03:46,540 --> 00:03:46,580
 Prime :      930 Millions
 
-172
+117
 00:03:46,580 --> 00:03:46,620
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-173
-00:03:46,580 --> 00:03:46,620
 Prime :      930 Millions
 
-174
+118
 00:03:46,620 --> 00:03:46,660
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-175
-00:03:46,620 --> 00:03:46,660
 Prime :      930 Millions
 
-176
+119
 00:03:46,660 --> 00:03:46,710
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-177
-00:03:46,660 --> 00:03:46,710
 Prime :      930 Millions
 
-178
+120
 00:03:46,710 --> 00:03:46,750
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-179
-00:03:46,710 --> 00:03:46,750
 Prime :      930 Millions
 
-180
+121
 00:03:46,750 --> 00:03:46,790
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-181
-00:03:46,750 --> 00:03:46,790
 Prime :      930 Millions
 
-182
+122
 00:03:46,790 --> 00:03:46,830
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-183
-00:03:46,790 --> 00:03:46,830
 Prime :      930 Millions
 
-184
+123
 00:03:46,830 --> 00:03:46,870
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-185
-00:03:46,830 --> 00:03:46,870
 Prime :      930 Millions
 
-186
+124
 00:03:46,870 --> 00:03:46,910
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-187
-00:03:46,870 --> 00:03:46,910
 Prime :      930 Millions
 
-188
+125
 00:03:46,910 --> 00:03:46,960
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-189
-00:03:46,910 --> 00:03:46,960
 Prime :      930 Millions
 
-190
+126
 00:03:46,960 --> 00:03:47,000
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-191
-00:03:46,960 --> 00:03:47,000
 Prime :      930 Millions
 
-192
+127
 00:03:47,000 --> 00:03:53,960
 Nico Robin "L'enfant du démon" 
 Archéologue
-
-193
-00:03:47,000 --> 00:03:53,960
 Prime :      930 Millions
 
-194
+128
 00:03:47,120 --> 00:03:50,400
 L’enfant du démon,
 l’archéologue Nico Robin.
 
-195
+129
 00:03:50,630 --> 00:03:53,960
 Sa prime : 930 millions de Berrys.
 
-196
+130
 00:03:55,590 --> 00:03:57,470
 Merci beaucoup, Robin.
 
-197
+131
 00:04:02,720 --> 00:04:02,760
 Sanji "La jambe noire" 
 Cuisinier
-
-198
-00:04:02,720 --> 00:04:02,760
 Prime :      1.032 Milliard
 
-199
+132
 00:04:02,760 --> 00:04:02,810
 Sanji "La jambe noire" 
 Cuisinier
-
-200
-00:04:02,760 --> 00:04:02,810
 Prime :      1.032 Milliard
 
-201
+133
 00:04:02,810 --> 00:04:02,850
 Sanji "La jambe noire" 
 Cuisinier
-
-202
-00:04:02,810 --> 00:04:02,850
 Prime :      1.032 Milliard
 
-203
+134
 00:04:02,850 --> 00:04:02,890
 Sanji "La jambe noire" 
 Cuisinier
-
-204
-00:04:02,850 --> 00:04:02,890
 Prime :      1.032 Milliard
 
-205
+135
 00:04:02,890 --> 00:04:02,930
 Sanji "La jambe noire" 
 Cuisinier
-
-206
-00:04:02,890 --> 00:04:02,930
 Prime :      1.032 Milliard
 
-207
+136
 00:04:02,930 --> 00:04:02,970
 Sanji "La jambe noire" 
 Cuisinier
-
-208
-00:04:02,930 --> 00:04:02,970
 Prime :      1.032 Milliard
 
-209
+137
 00:04:02,970 --> 00:04:03,010
 Sanji "La jambe noire" 
 Cuisinier
-
-210
-00:04:02,970 --> 00:04:03,010
 Prime :      1.032 Milliard
 
-211
+138
 00:04:03,010 --> 00:04:03,060
 Sanji "La jambe noire" 
 Cuisinier
-
-212
-00:04:03,010 --> 00:04:03,060
 Prime :      1.032 Milliard
 
-213
+139
 00:04:03,060 --> 00:04:03,100
 Sanji "La jambe noire" 
 Cuisinier
-
-214
-00:04:03,060 --> 00:04:03,100
 Prime :      1.032 Milliard
 
-215
+140
 00:04:03,100 --> 00:04:03,140
 Sanji "La jambe noire" 
 Cuisinier
-
-216
-00:04:03,100 --> 00:04:03,140
 Prime :      1.032 Milliard
 
-217
+141
 00:04:03,140 --> 00:04:03,180
 Sanji "La jambe noire" 
 Cuisinier
-
-218
-00:04:03,140 --> 00:04:03,180
 Prime :      1.032 Milliard
 
-219
+142
 00:04:03,180 --> 00:04:03,220
 Sanji "La jambe noire" 
 Cuisinier
-
-220
-00:04:03,180 --> 00:04:03,220
 Prime :      1.032 Milliard
 
-221
+143
 00:04:03,220 --> 00:04:05,420
 Le cuisinier,
 Sanji, la jambe noire.
 
-222
+144
 00:04:03,220 --> 00:04:09,230
 Sanji "La jambe noire" 
 Cuisinier
-
-223
-00:04:03,220 --> 00:04:09,230
 Prime :      1.032 Milliard
 
-224
+145
 00:04:05,600 --> 00:04:09,100
 Sa prime :
 1,032 milliard de Berrys.
 
-225
+146
 00:04:09,850 --> 00:04:11,880
 Jinbe, j’ai récupéré la tienne.
 
-226
+147
 00:04:13,900 --> 00:04:16,390
 Tes exploits ont fait du bruit.
 
-227
+148
 00:04:17,600 --> 00:04:18,820
 Quoi ?
 
-228
+149
 00:04:23,330 --> 00:04:23,370
 Jinbe, "Le paladin des mers"
 Timonier
-
-229
-00:04:23,330 --> 00:04:23,370
 Prime :      1.1 Milliard
 
-230
+150
 00:04:23,370 --> 00:04:23,410
 Jinbe, "Le paladin des mers"
 Timonier
-
-231
-00:04:23,370 --> 00:04:23,410
 Prime :      1.1 Milliard
 
-232
+151
 00:04:23,410 --> 00:04:23,450
 Jinbe, "Le paladin des mers"
 Timonier
-
-233
-00:04:23,410 --> 00:04:23,450
 Prime :      1.1 Milliard
 
-234
+152
 00:04:23,450 --> 00:04:23,490
 Jinbe, "Le paladin des mers"
 Timonier
-
-235
-00:04:23,450 --> 00:04:23,490
 Prime :      1.1 Milliard
 
-236
+153
 00:04:23,490 --> 00:04:23,530
 Jinbe, "Le paladin des mers"
 Timonier
-
-237
-00:04:23,490 --> 00:04:23,530
 Prime :      1.1 Milliard
 
-238
+154
 00:04:23,530 --> 00:04:23,580
 Jinbe, "Le paladin des mers"
 Timonier
-
-239
-00:04:23,530 --> 00:04:23,580
 Prime :      1.1 Milliard
 
-240
+155
 00:04:23,580 --> 00:04:23,620
 Jinbe, "Le paladin des mers"
 Timonier
-
-241
-00:04:23,580 --> 00:04:23,620
 Prime :      1.1 Milliard
 
-242
+156
 00:04:23,620 --> 00:04:23,660
 Jinbe, "Le paladin des mers"
 Timonier
-
-243
-00:04:23,620 --> 00:04:23,660
 Prime :      1.1 Milliard
 
-244
+157
 00:04:23,660 --> 00:04:23,700
 Jinbe, "Le paladin des mers"
 Timonier
-
-245
-00:04:23,660 --> 00:04:23,700
 Prime :      1.1 Milliard
 
-246
+158
 00:04:23,700 --> 00:04:23,740
 Jinbe, "Le paladin des mers"
 Timonier
-
-247
-00:04:23,700 --> 00:04:23,740
 Prime :      1.1 Milliard
 
-248
+159
 00:04:23,740 --> 00:04:23,790
 Jinbe, "Le paladin des mers"
 Timonier
-
-249
-00:04:23,740 --> 00:04:23,790
 Prime :      1.1 Milliard
 
-250
+160
 00:04:23,790 --> 00:04:23,830
 Jinbe, "Le paladin des mers"
 Timonier
-
-251
-00:04:23,790 --> 00:04:23,830
 Prime :      1.1 Milliard
 
-252
+161
 00:04:23,800 --> 00:04:26,120
 Le timonier,
 Jinbe, le paladin des mers.
 
-253
+162
 00:04:23,830 --> 00:04:29,000
 Jinbe, "Le paladin des mers"
 Timonier
-
-254
-00:04:23,830 --> 00:04:29,000
 Prime :      1.1 Milliard
 
-255
+163
 00:04:26,290 --> 00:04:29,000
 Sa prime : 1,1 milliard de Berrys.
 
-256
+164
 00:04:30,880 --> 00:04:30,920
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-257
-00:04:30,880 --> 00:04:30,920
 Prime :      1.111 Milliard
 
-258
+165
 00:04:30,920 --> 00:04:30,960
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-259
-00:04:30,920 --> 00:04:30,960
 Prime :      1.111 Milliard
 
-260
+166
 00:04:30,960 --> 00:04:31,000
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-261
-00:04:30,960 --> 00:04:31,000
 Prime :      1.111 Milliard
 
-262
+167
 00:04:31,000 --> 00:04:31,040
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-263
-00:04:31,000 --> 00:04:31,040
 Prime :      1.111 Milliard
 
-264
+168
 00:04:31,040 --> 00:04:31,080
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-265
-00:04:31,040 --> 00:04:31,080
 Prime :      1.111 Milliard
 
-266
+169
 00:04:31,080 --> 00:04:31,130
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-267
-00:04:31,080 --> 00:04:31,130
 Prime :      1.111 Milliard
 
-268
+170
 00:04:31,130 --> 00:04:31,170
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-269
-00:04:31,130 --> 00:04:31,170
 Prime :      1.111 Milliard
 
-270
+171
 00:04:31,170 --> 00:04:31,210
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-271
-00:04:31,170 --> 00:04:31,210
 Prime :      1.111 Milliard
 
-272
+172
 00:04:31,210 --> 00:04:31,250
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-273
-00:04:31,210 --> 00:04:31,250
 Prime :      1.111 Milliard
 
-274
+173
 00:04:31,250 --> 00:04:31,290
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-275
-00:04:31,250 --> 00:04:31,290
 Prime :      1.111 Milliard
 
-276
+174
 00:04:31,290 --> 00:04:31,330
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-277
-00:04:31,290 --> 00:04:31,330
 Prime :      1.111 Milliard
 
-278
+175
 00:04:31,330 --> 00:04:31,380
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-279
-00:04:31,330 --> 00:04:31,380
 Prime :      1.111 Milliard
 
-280
+176
 00:04:31,380 --> 00:04:37,720
 Zoro "Le chasseur de pirates" 
 Sabreur
-
-281
-00:04:31,380 --> 00:04:37,720
 Prime :      1.111 Milliard
 
-282
+177
 00:04:31,540 --> 00:04:33,900
 Le sabreur, Zoro,
 le chasseur de pirates.
 
-283
+178
 00:04:34,090 --> 00:04:37,720
 Sa prime :
 1,111 milliard de Berrys.
 
-284
+179
 00:04:37,980 --> 00:04:41,780
 Pourquoi je suis tombé
 plus bas que la face de cactus ?
 
-285
+180
 00:04:41,900 --> 00:04:43,680
 Tu es mal en point, Sanji ?
 
-286
+181
 00:04:43,840 --> 00:04:45,100
 Qu’est-ce qui se passe ?
 
-287
+182
 00:04:45,270 --> 00:04:47,890
 Non… Toi aussi, Jinbe…
 
-288
+183
 00:04:48,190 --> 00:04:49,810
 Tu me mets à l’amende ?
 
-289
+184
 00:04:50,850 --> 00:04:53,110
 Fais pas attention à lui, Jinbe.
 
-290
+185
 00:04:53,280 --> 00:04:55,070
 Il est au pied du podium.
 
-291
+186
 00:04:57,300 --> 00:05:00,080
 Qui est au pied du podium, hein ?
 
-292
+187
 00:05:02,740 --> 00:05:05,030
 Arrêtez un peu
 de vous bouffer le nez !
 
-293
+188
 00:05:06,080 --> 00:05:07,500
 Je suis désolé…
 
-294
+189
 00:05:08,080 --> 00:05:09,960
 Sortez-moi de là…
 
-295
+190
 00:05:10,500 --> 00:05:10,540
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-296
-00:05:10,500 --> 00:05:10,540
 Prime :      3 Milliard
 
-297
+191
 00:05:10,540 --> 00:05:10,580
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-298
-00:05:10,540 --> 00:05:10,580
 Prime :      3 Milliard
 
-299
+192
 00:05:10,580 --> 00:05:10,620
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-300
-00:05:10,580 --> 00:05:10,620
 Prime :      3 Milliard
 
-301
+193
 00:05:10,620 --> 00:05:10,670
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-302
-00:05:10,620 --> 00:05:10,670
 Prime :      3 Milliard
 
-303
+194
 00:05:10,670 --> 00:05:10,710
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-304
-00:05:10,670 --> 00:05:10,710
 Prime :      3 Milliard
 
-305
+195
 00:05:10,710 --> 00:05:10,750
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-306
-00:05:10,710 --> 00:05:10,750
 Prime :      3 Milliard
 
-307
+196
 00:05:10,750 --> 00:05:10,790
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-308
-00:05:10,750 --> 00:05:10,790
 Prime :      3 Milliard
 
-309
+197
 00:05:10,790 --> 00:05:10,830
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-310
-00:05:10,790 --> 00:05:10,830
 Prime :      3 Milliard
 
-311
+198
 00:05:10,830 --> 00:05:10,870
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-312
-00:05:10,830 --> 00:05:10,870
 Prime :      3 Milliard
 
-313
+199
 00:05:10,870 --> 00:05:10,920
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-314
-00:05:10,870 --> 00:05:10,920
 Prime :      3 Milliard
 
-315
+200
 00:05:10,920 --> 00:05:10,960
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-316
-00:05:10,920 --> 00:05:10,960
 Prime :      3 Milliard
 
-317
+201
 00:05:10,960 --> 00:05:11,000
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-318
-00:05:10,960 --> 00:05:11,000
 Prime :      3 Milliard
 
-319
+202
 00:05:11,000 --> 00:05:18,460
 Empereur, Luffy "Chapeau de Paille" 
 Capitaine
-
-320
-00:05:11,000 --> 00:05:18,460
 Prime :      3 Milliard
 
-321
+203
 00:05:11,250 --> 00:05:15,010
 L’Empereur Luffy au chapeau de paille,
 capitaine de l’armada.
 
-322
+204
 00:05:15,210 --> 00:05:18,460
 Sa prime : 3 milliards de Berrys.
 
-323
+205
 00:05:20,590 --> 00:05:22,470
 J’ai la dalle…
 
-324
+206
 00:05:23,260 --> 00:05:25,930
 Île de Lacrahn-Ri
 
-325
+207
 00:05:26,100 --> 00:05:28,220
 – Tu les as vus ?
 – Mais oui !
 
-326
+208
 00:05:28,350 --> 00:05:29,850
 En chair et en os.
 
-327
+209
 00:05:30,020 --> 00:05:31,390
 C’était fou.
 
-328
+210
 00:05:34,000 --> 00:05:36,520
 C’était le plus grand sabreur
 du monde.
 
-329
+211
 00:05:36,750 --> 00:05:38,730
 – Il fait peur !
 – Carrément !
 
-330
+212
 00:05:42,250 --> 00:05:45,700
 Avec la Marine à nos portes,
 après la dissolution des Corsaires,
 
-331
+213
 00:05:45,850 --> 00:05:47,910
 je nous croyais finis pour de bon.
 
-332
+214
 00:05:49,200 --> 00:05:53,170
 Mais le président Baggy
 avait de la ressource !
 
-333
+215
 00:05:57,290 --> 00:06:00,670
 Pitié, restez calmes !
 
-334
+216
 00:06:00,850 --> 00:06:04,800
 Laissez-moi la vie sauve,
 je vous en supplie !
 
-335
+217
 00:06:06,330 --> 00:06:08,500
 Pitié, épargnez-moi !
 
-336
+218
 00:06:08,700 --> 00:06:10,220
 Je ferai ce que vous voulez !
 
-337
+219
 00:06:10,220 --> 00:06:13,810
 Empereur, Baggy "Le Clown Star"
 
-338
+220
 00:06:10,600 --> 00:06:13,810
 Je vous lécherai les bottes
 si vous voulez.
 
-339
+221
 00:06:15,100 --> 00:06:18,570
 Ancien Grand Corsaire, Sir Crocodile
 
-340
+222
 00:06:19,500 --> 00:06:25,110
 À l’origine, je comptais monter la Cross Guild
 avec Œil de Faucon.
 
-341
+223
 00:06:22,280 --> 00:06:25,700
 Ancien Grand Corsaire, Dracule Mihawk
 
-342
+224
 00:06:25,700 --> 00:06:29,260
 Explique-moi donc
 pourquoi t’es le patron, Baggy.
 
-343
+225
 00:06:29,400 --> 00:06:32,420
 Je vous présente
 mes plus plates excuses.
 
-344
+226
 00:06:32,570 --> 00:06:34,120
 C’est pas de pot, quoi…
 
-345
+227
 00:06:35,120 --> 00:06:38,000
 Tu es le premier
 et le dernier homme
 
-346
+228
 00:06:38,220 --> 00:06:40,560
 à devenir Empereur
 en s’excusant.
 
-347
+229
 00:06:40,960 --> 00:06:43,760
 Tu dois mourir pour l’exemple.
 
-348
+230
 00:06:46,080 --> 00:06:51,430
 Pour exprimer ce que je ressens, le mot « injurié » ne suffit plus.
 
-349
+231
 00:06:52,600 --> 00:06:54,190
 Ne me tuez pas !
 
-350
+232
 00:06:54,390 --> 00:06:55,980
 Navré, je n’écoute plus.
 
-351
+233
 00:06:59,020 --> 00:07:03,740
 Tout mais pas ça !
 Épargnez ma pauvre vie !
 
-352
+234
 00:07:03,990 --> 00:07:05,900
 Patron !
 
-353
+235
 00:07:06,070 --> 00:07:08,250
 Ça me fait tellement plaisir
 
-354
+236
 00:07:08,400 --> 00:07:11,290
 de servir à nouveau
 sous vos ordres.
 
-355
+237
 00:07:08,530 --> 00:07:11,290
 Galdino
-
-356
-00:07:08,530 --> 00:07:11,290
 Ancien agent du Baroque Works
 (Homme de main de Crocodile)
 
-357
+238
 00:07:11,420 --> 00:07:15,250
 Galdino ! Tu vas me planter
 un couteau dans le dos ?
 
-358
+239
 00:07:15,430 --> 00:07:20,380
 Je ne me rappelle pas
 avoir déjà travaillé pour toi, Baggy.
 
-359
+240
 00:07:21,770 --> 00:07:24,380
 Espèce d’ingrat !
 
-360
+241
 00:07:25,080 --> 00:07:27,300
 Cause toujours, tu m’intéresses.
 
-361
+242
 00:07:28,550 --> 00:07:32,620
 Le chef va y passer.
 Qui va prendra la relève ?
 
-362
+243
 00:07:32,820 --> 00:07:34,480
 On obéira à Crocodile.
 
-363
+244
 00:07:37,270 --> 00:07:40,060
 On vit dans un monde de brutes.
 
-364
+245
 00:07:41,230 --> 00:07:44,690
 Le clown s’est pris
 pour ce qu’il n’était pas !
 
-365
+246
 00:07:50,990 --> 00:07:54,870
 Tu as perdu tes privilèges
 de Grand Corsaire, Œil de Faucon.
 
-366
+247
 00:07:51,160 --> 00:07:54,870
 Île de Kuraigana
 
-367
+248
 00:07:55,390 --> 00:07:58,370
 Qu’est-ce que tu me veux,
 Crocodile ?
 
-368
+249
 00:07:58,560 --> 00:08:02,200
 La Marine encercle mon île
 en ce moment même.
 
-369
+250
 00:08:02,350 --> 00:08:03,380
 Je suis au courant.
 
-370
+251
 00:08:05,260 --> 00:08:06,800
 À la Rêverie,
 
-371
+252
 00:08:06,920 --> 00:08:10,340
 ils ont décidé de dissoudre
 les Grands Corsaires,
 
-372
+253
 00:08:10,520 --> 00:08:13,950
 qui n’ont plus ni droits
 ni liens avec le Gouvernement.
 
-373
+254
 00:08:14,380 --> 00:08:18,000
 Tu es redevenu un pirate
 parmi les pirates.
 
-374
+255
 00:08:18,220 --> 00:08:21,770
 La Marine ne bosse vite
 que pour nous pourrir la vie.
 
-375
+256
 00:08:22,570 --> 00:08:26,050
 Tu portes une partie
 de la responsabilité du désastre.
 
-376
+257
 00:08:26,210 --> 00:08:28,200
 C’est du passé, ça.
 
-377
+258
 00:08:30,400 --> 00:08:34,300
 Tout ça me fatigue,
 je vais devoir déménager.
 
-378
+259
 00:08:34,470 --> 00:08:37,000
 Fais équipe avec moi, alors.
 
-379
+260
 00:08:38,210 --> 00:08:40,400
 Ça a ses avantages, non ?
 
-380
+261
 00:08:41,290 --> 00:08:43,450
 Si on bosse main dans la main,
 
-381
+262
 00:08:43,600 --> 00:08:46,630
 la Marine ne pourra pas
 ignorer notre organisation.
 
-382
+263
 00:08:47,550 --> 00:08:51,890
 On t’appelait autrefois
 le « chasseur de marines ».
 
-383
+264
 00:08:52,510 --> 00:08:54,930
 Tu ne fais pas confiance
 aux autres,
 
-384
+265
 00:08:55,480 --> 00:08:58,030
 mais ça tombe bien,
 moi non plus.
 
-385
+266
 00:09:03,610 --> 00:09:06,610
 Dans quel pétrin
 me suis-je encore fourré ?
 
-386
+267
 00:09:07,180 --> 00:09:11,750
 Pourquoi je suis toujours
 poursuivi par la malchance ?
 
-387
+268
 00:09:12,600 --> 00:09:14,670
 – Capitaine Baggy.
 – Capitaine !
 
-388
+269
 00:09:14,870 --> 00:09:17,700
 Qu’est-ce qu’il y a ?
 Battez-vous !
 
-389
+270
 00:09:17,850 --> 00:09:19,860
 Vous avez peur des soldats ?
 
-390
+271
 00:09:20,120 --> 00:09:25,090
 Ils m’empêchent de préparer ma fuite,
 bon sang de bonsoir…
 
-391
+272
 00:09:25,250 --> 00:09:28,840
 Quelqu’un attaque la flotte
 qui encercle notre île !
 
-392
+273
 00:09:31,340 --> 00:09:34,140
 Les navires sombrent les uns
 après les autres.
 
-393
+274
 00:09:35,350 --> 00:09:36,720
 La Marine perd ?
 
-394
+275
 00:09:41,900 --> 00:09:44,150
 Qui est mon ange gardien ?
 
-395
+276
 00:09:45,440 --> 00:09:47,400
 C’est Crocodile !
 
-396
+277
 00:09:54,990 --> 00:09:55,870
 Cassez-vous.
 
-397
+278
 00:10:02,330 --> 00:10:03,830
 Feu à volonté !
 
-398
+279
 00:10:10,920 --> 00:10:12,590
 Sables !
 
-399
+280
 00:10:17,810 --> 00:10:22,770
 C’était donc vrai que Crocodile
 bossait pour le chef !
 
-400
+281
 00:10:22,900 --> 00:10:25,920
 Et il a bravé le danger
 pour sauver son patron !
 
-401
+282
 00:10:26,120 --> 00:10:28,150
 Quel homme, ce Baggy !
 
-402
+283
 00:10:30,730 --> 00:10:33,400
 Ah, c’est Crocodile…
 
-403
+284
 00:10:38,160 --> 00:10:41,410
 Il vient récupérer
 la fortune que je lui dois !
 
-404
+285
 00:10:42,080 --> 00:10:45,720
 J’ai pas une thune à lui rendre, moi…
 
-405
+286
 00:10:45,890 --> 00:10:48,130
 Je préfère encore la Marine !
 
-406
+287
 00:10:52,550 --> 00:10:54,080
 Te connaissant,
 
-407
+288
 00:10:54,760 --> 00:10:57,150
 je me suis dit
 que tu allais décamper.
 
-408
+289
 00:10:57,670 --> 00:10:59,510
 Il avait bien raison !
 
-409
+290
 00:11:00,940 --> 00:11:02,880
 Baggy’s Delivery est au plus mal !
 
-410
+291
 00:11:03,020 --> 00:11:08,270
 Il faut bien nourrir les employés
 qui font tourner la boîte.
 
-411
+292
 00:11:08,400 --> 00:11:12,070
 Et mes plus gros clients, les géants,
 m’ont lâché il y a peu de temps.
 
-412
+293
 00:11:12,600 --> 00:11:16,550
 Soit tu me rembourses,
 soit tu paieras avec tes organes.
 
-413
+294
 00:11:17,830 --> 00:11:19,780
 Allons, tu es dur, quoi.
 
-414
+295
 00:11:19,920 --> 00:11:23,300
 On est des camarades,
 des évadés d’Impel Down !
 
-415
+296
 00:11:23,450 --> 00:11:24,910
 Pas vrai, Croco ?
 
-416
+297
 00:11:25,110 --> 00:11:27,800
 Et c’est pour ça
 que je t’ai prêté du pognon.
 
-417
+298
 00:11:28,180 --> 00:11:29,790
 Si t’as rien à rendre,
 
-418
+299
 00:11:30,210 --> 00:11:32,000
 tu vas devoir assumer.
 
-419
+300
 00:11:32,300 --> 00:11:33,420
 Assumer ?
 
-420
+301
 00:11:34,300 --> 00:11:37,830
 J’ai besoin d’oseille
 pour monter une nouvelle affaire.
 
-421
+302
 00:11:38,030 --> 00:11:40,390
 Tu dérailles ?
 
-422
+303
 00:11:41,560 --> 00:11:47,220
 Fais-moi entrer
 dans ta nouvelle société.
 
-423
+304
 00:11:47,520 --> 00:11:49,900
 Même galeux,
 tu aurais un ancien corsaire
 
-424
+305
 00:11:50,340 --> 00:11:52,520
 sous tes ordres !
 
-425
+306
 00:11:54,200 --> 00:11:56,900
 Je travaillerai assez
 pour rembourser ma dette.
 
-426
+307
 00:11:57,050 --> 00:12:01,700
 Monter une entreprise,
 ça se fait en grandes pompes !
 
-427
+308
 00:12:02,240 --> 00:12:04,550
 Mes hommes sont bourrés
 de ressource.
 
-428
+309
 00:12:04,680 --> 00:12:06,220
 Design publicitaire,
 
-429
+310
 00:12:06,720 --> 00:12:07,880
 impression,
 
-430
+311
 00:12:08,180 --> 00:12:09,250
 logistique,
 
-431
+312
 00:12:09,500 --> 00:12:11,150
 utilise-les à ta guise.
 
-432
+313
 00:12:11,350 --> 00:12:13,800
 Je te ferai tout ça gratis !
 
-433
+314
 00:12:14,420 --> 00:12:17,880
 Et on se retrouve avec ce torchon
 pour le lancement ?
 
-434
+315
 00:12:19,720 --> 00:12:22,050
 Ça va, on te dérange pas,
 
-435
+316
 00:12:22,260 --> 00:12:23,600
 « patron » ?
 
-436
+317
 00:12:23,600 --> 00:12:25,900
 Non, tu te méprends !
 
-437
+318
 00:12:26,080 --> 00:12:28,270
 J’en avais pas l’intention.
 
-438
+319
 00:12:28,400 --> 00:12:30,060
 Comment je dois le prendre ?
 
-439
+320
 00:12:36,780 --> 00:12:39,900
 Ça s’est fait comme ça.
 
-440
+321
 00:12:40,050 --> 00:12:44,410
 C’est mes hommes,
 ils me respectent tellement…
 
-441
+322
 00:12:44,550 --> 00:12:46,330
 Moi, je me faisais dessus !
 
-442
+323
 00:12:48,540 --> 00:12:50,250
 Patron !
 
-443
+324
 00:12:50,790 --> 00:12:52,920
 Les affiches sont là !
 
-444
+325
 00:12:54,020 --> 00:12:56,130
 Pardon ?
 Tu m’expliques ton affiche, là ?
 
-445
+326
 00:12:56,270 --> 00:12:58,920
 Je voulais
 que vous ressortiez le plus.
 
-446
+327
 00:13:04,320 --> 00:13:06,890
 Personne ne l’a vu, si ?
 
-447
+328
 00:13:07,050 --> 00:13:08,550
 On l’a fait partir !
 
-448
+329
 00:13:08,730 --> 00:13:10,810
 Elle tourne tout autour du monde !
 
-449
+330
 00:13:10,950 --> 00:13:13,900
 Pardon ?
 
-450
+331
 00:13:18,990 --> 00:13:23,740
 Baggy était le cerveau
 derrière l’invasion d’Impel Down.
 
-451
+332
 00:13:19,280 --> 00:13:23,740
 QG de la Marine
 
-452
+333
 00:13:23,940 --> 00:13:26,690
 Il voguait par le passé
 avec le Roi des Pirates.
 
-453
+334
 00:13:26,850 --> 00:13:30,870
 C’est un pirate qui rivalise
 avec l’Empereur Shanks le Roux.
 
-454
+335
 00:13:31,930 --> 00:13:33,330
 Acculé à Lacrahn-Ri,
 
-455
+336
 00:13:33,530 --> 00:13:37,500
 il est suffisamment respecté
 pour que Crocodile vienne le sauver.
 
-456
+337
 00:13:37,860 --> 00:13:42,550
 Nos écoutes montrent que Mihawk
 et Crocodile travaillent avec lui.
 
-457
+338
 00:13:44,110 --> 00:13:47,680
 Le chasseur de soldats est financé
 par la pègre.
 
-458
+339
 00:13:47,890 --> 00:13:50,150
 Dans le chaos ambiant
 tout autour du monde,
 
-459
+340
 00:13:50,300 --> 00:13:55,600
 il me semble nécessaire
 de garder un œil sur la Cross Guild.
 
-460
+341
 00:13:55,940 --> 00:13:58,000
 À combien
 s’élèvent leurs primes ?
 
-461
+342
 00:13:59,700 --> 00:14:02,780
 L’ancien Grand Corsaire,
 Sir Crocodile,
 
-462
+343
 00:14:03,350 --> 00:14:05,700
 détient un grand pouvoir
 de type Logia,
 
-463
+344
 00:14:05,900 --> 00:14:09,200
 une grande intelligence
 et un charisme naturel.
 
-464
+345
 00:14:10,120 --> 00:14:13,170
 Sa tête est mise à prix
 1,965 milliard de Berrys.
 
-465
+346
 00:14:13,470 --> 00:14:15,670
 Mihawk Œil de Faucon,
 
-466
+347
 00:14:15,970 --> 00:14:20,590
 est un ancien Grand Corsaire
 et un meilleur bretteur que le Roux.
 
-467
+348
 00:14:21,100 --> 00:14:24,760
 Le plus grand sabreur au monde
 mérite bien une somme folle.
 
-468
+349
 00:14:25,760 --> 00:14:28,390
 Sa prime : 3,59 milliards de Berrys.
 
-469
+350
 00:14:28,690 --> 00:14:32,020
 Et enfin, Baggy,
 le Clown aux mille pièces.
 
-470
+351
 00:14:32,430 --> 00:14:34,740
 Le plus impressionnant,
 
-471
+352
 00:14:34,940 --> 00:14:38,610
 c’est qu’il arrive à dominer
 les deux lascars d’avant.
 
-472
+353
 00:14:39,920 --> 00:14:43,310
 Sa prime est fixée
 à 3,189 milliards de Berrys.
 
-473
+354
 00:14:43,610 --> 00:14:47,400
 Il sera un nouvel Empereur
 aux côtés de Luffy au chapeau de paille,
 
-474
+355
 00:14:47,580 --> 00:14:52,540
 alors il est à surveiller, comme l’a exigé
 le Gouvernement Mondial.
 
-475
+356
 00:14:53,960 --> 00:14:57,210
 Maintenant, tu es même Empereur.
 
-476
+357
 00:14:57,450 --> 00:14:59,480
 Tu as pris du gallon,
 
-477
+358
 00:15:00,000 --> 00:15:01,340
 mon petit clown.
 
-478
+359
 00:15:01,340 --> 00:15:04,680
 Je suis vraiment désolé !
 Pardonnez-moi !
 
-479
+360
 00:15:04,820 --> 00:15:05,750
 Je vais lécher…
 
-480
+361
 00:15:05,880 --> 00:15:06,760
 Silence.
 
-481
+362
 00:15:08,620 --> 00:15:11,800
 Cela dit,
 d’un certain point de vue,
 
-482
+363
 00:15:12,060 --> 00:15:15,080
 ça nous arrange
 qu’il soit le plus haut placé.
 
-483
+364
 00:15:16,600 --> 00:15:18,380
 En tout cas, moi, oui.
 
-484
+365
 00:15:18,600 --> 00:15:20,300
 Je demande à vivre en paix,
 
-485
+366
 00:15:20,600 --> 00:15:22,730
 pas à devenir Empereur.
 
-486
+367
 00:15:23,600 --> 00:15:25,000
 T’es sérieux ?
 
-487
+368
 00:15:25,220 --> 00:15:27,300
 On pourrait en faire notre visage.
 
-488
+369
 00:15:27,550 --> 00:15:30,220
 Nous pourrons le supprimer
 n’importe quand.
 
-489
+370
 00:15:33,050 --> 00:15:34,640
 C’est vrai aussi.
 
-490
+371
 00:15:46,700 --> 00:15:48,010
 Écoutez-moi !
 
-491
+372
 00:15:49,140 --> 00:15:53,250
 Pour préparer 
 la nouvelle ère à venir,
 
-492
+373
 00:15:53,450 --> 00:15:56,440
 j’ai fondé la Cross Guild !
 
-493
+374
 00:15:56,700 --> 00:15:59,230
 Je vais vous présenter ses cadres.
 
-494
+375
 00:15:59,660 --> 00:16:01,020
 D’abord,
 
-495
+376
 00:16:01,600 --> 00:16:04,280
 Sir Crocodile.
 
-496
+377
 00:16:07,350 --> 00:16:08,820
 Et enfin, le second,
 
-497
+378
 00:16:09,490 --> 00:16:13,160
 Mihawk Œil de Faucon !
 
-498
+379
 00:16:15,500 --> 00:16:18,250
 – Crocodile !
 – Mihawk !
 
-499
+380
 00:16:20,600 --> 00:16:22,000
 On vous servira !
 
-500
+381
 00:16:22,200 --> 00:16:24,470
 Sir Crocodile !
 
-501
+382
 00:16:24,670 --> 00:16:27,300
 Allez, bande de soûlards !
 
-502
+383
 00:16:28,040 --> 00:16:30,590
 Faisons ça en grandes pompes !
 
-503
+384
 00:16:36,700 --> 00:16:38,820
 Le président Baggy pleure !
 
-504
+385
 00:16:38,990 --> 00:16:41,610
 Nous aussi,
 on en chialerait d’émotion !
 
-505
+386
 00:16:43,850 --> 00:16:46,850
 Ma vie est fichue !
 
-506
+387
 00:16:47,150 --> 00:16:50,030
 Près de Sphinx,
 Terre natale de Barbe Blanche
 
 Nouveau Monde
 
-507
+388
 00:16:54,820 --> 00:16:56,900
 Terre en vue, Marco.
 
-508
+389
 00:16:57,080 --> 00:16:58,010
 Parfait.
 
-509
+390
 00:16:58,550 --> 00:17:00,870
 Je vais partir, alors.
 
-510
+391
 00:17:03,450 --> 00:17:06,600
 Merci de m’avoir déposé, Shanks.
 
-511
+392
 00:17:06,880 --> 00:17:08,220
 Attends, Marco,
 
-512
+393
 00:17:08,400 --> 00:17:11,640
 tu ne me fais pas le plaisir
 de me rejoindre ?
 
-513
+394
 00:17:13,280 --> 00:17:14,700
 Tu t’entends parler ?
 
-514
+395
 00:17:19,310 --> 00:17:23,700
 J’en ai ma claque, moi, 
 de baby-sitter les grands pirates.
 
-515
+396
 00:17:24,150 --> 00:17:27,340
 Imbécile !
 Je sais me prendre en main, moi !
 
-516
+397
 00:17:27,540 --> 00:17:28,440
 Pas vrai, Beck ?
 
-517
+398
 00:17:28,600 --> 00:17:30,070
 Joker.
 
-518
+399
 00:17:34,300 --> 00:17:35,530
 À la prochaine !
 
-519
+400
 00:17:38,200 --> 00:17:41,120
 Un peu plus tôt
 
 à Wano
 
-520
+401
 00:17:48,820 --> 00:17:50,340
 Sérieux ?
 
-521
+402
 00:17:51,220 --> 00:17:52,950
 Tu ne viens pas ?
 
-522
+403
 00:17:53,140 --> 00:17:55,100
 Deviens pirate avec nous.
 
-523
+404
 00:17:56,910 --> 00:18:01,000
 Yamato !
 Tu vas pas nous laisser tomber ?
 
-524
+405
 00:18:01,220 --> 00:18:03,520
 J’ai besoin de toi au quotidien !
 
-525
+406
 00:18:08,570 --> 00:18:10,790
 Je sais que vous l’avez perçue,
 
-526
+407
 00:18:11,360 --> 00:18:13,430
 l’attaque de l’homme-forêt.
 
-527
+408
 00:18:13,730 --> 00:18:17,030
 Un Haki très puissant
 nous a sauvés de l’envahisseur.
 
-528
+409
 00:18:17,450 --> 00:18:19,410
 Kaido a peut-être disparu,
 
-529
+410
 00:18:19,620 --> 00:18:22,490
 mais d’autres personnes
 s’en prendront à Wano.
 
-530
+411
 00:18:24,910 --> 00:18:26,410
 Je peux pas les lâcher.
 
-531
+412
 00:18:27,040 --> 00:18:30,000
 On ne part pas à l’aventure
 en ayant la tête ailleurs,
 
-532
+413
 00:18:30,170 --> 00:18:32,250
 que ce soit toi ou moi.
 
-533
+414
 00:18:32,540 --> 00:18:34,250
 J’ai envie d’être votre ami.
 
-534
+415
 00:18:34,460 --> 00:18:36,970
 Dis que je suis ton ami !
 
-535
+416
 00:18:38,680 --> 00:18:40,680
 Ça m’embête que tu restes…
 
-536
+417
 00:18:47,060 --> 00:18:48,480
 Mais c’est vrai.
 
-537
+418
 00:18:49,650 --> 00:18:53,820
 Te savoir ici a quelque chose
 de plutôt rassurant.
 
-538
+419
 00:18:55,150 --> 00:18:58,360
 Je te confie le pays,
 Momo et compagnie.
 
-539
+420
 00:19:01,570 --> 00:19:03,030
 Fais gaffe, Yamato.
 
-540
+421
 00:19:03,240 --> 00:19:06,830
 Momo a la fierté mal placée.
 Tu vas en baver.
 
-541
+422
 00:19:07,000 --> 00:19:10,500
 Je sais bien, et je trouverai
 quelque chose à faire.
 
-542
+423
 00:19:10,830 --> 00:19:12,540
 Ma Yamato…
 
-543
+424
 00:19:14,040 --> 00:19:15,920
 Hé, Chapeau de paille !
 
-544
+425
 00:19:17,010 --> 00:19:18,550
 Marco !
 
-545
+426
 00:19:18,920 --> 00:19:21,090
 Un bateau ami passe non loin,
 
-546
+427
 00:19:21,260 --> 00:19:24,100
 je tire ma révérence
 un peu en avance.
 
-547
+428
 00:19:24,260 --> 00:19:26,310
 Tu pars déjà ? Ça marche.
 
-548
+429
 00:19:26,470 --> 00:19:27,720
 Ouais.
 
-549
+430
 00:19:30,060 --> 00:19:35,440
 Pendant la Guerre au Sommet, tu m’avais sauvé la vie.
 
-550
+431
 00:19:35,770 --> 00:19:38,860
 Emporte le frère d’Ace loin d’ici,
 Jinbe !
 
-551
+432
 00:19:39,280 --> 00:19:40,610
 Encore merci !
 
-552
+433
 00:19:41,070 --> 00:19:43,490
 Tout le monde
 avait répondu à mon appel.
 
-553
+434
 00:19:43,740 --> 00:19:45,910
 Va savoir pourquoi.
 Hein, Jinbe ?
 
-554
+435
 00:19:46,080 --> 00:19:50,290
 C’est de l’histoire ancienne.
 J’ai déjà oublié !
 
-555
+436
 00:19:54,130 --> 00:19:57,630
 Je suis sûr qu’Ace est fier
 du pirate que tu es devenu.
 
-556
+437
 00:20:03,260 --> 00:20:05,100
 Peut-être bien !
 
-557
+438
 00:20:08,890 --> 00:20:09,930
 Luffy !
 
-558
+439
 00:20:10,680 --> 00:20:12,940
 L’ère à venir vous appartient.
 
-559
+440
 00:20:13,900 --> 00:20:16,190
 Soyez forts !
 
-560
+441
 00:20:18,780 --> 00:20:21,320
 J’y compte bien. À plus !
 
-561
+442
 00:20:34,580 --> 00:20:38,170
 Ne te casse pas trop la tête
 avec ça, Koala.
 
-562
+443
 00:20:40,210 --> 00:20:42,880
 Sabo est toujours en vie.
 
-563
+444
 00:20:44,380 --> 00:20:46,970
 C’est déjà une bonne chose
 que vous soyez en vie.
 
-564
+445
 00:20:47,140 --> 00:20:48,430
 Oh oui !
 
-565
+446
 00:20:48,430 --> 00:20:49,640
 Royaume de Kedétrav
 Grand Line
 
-566
+447
 00:20:48,600 --> 00:20:51,060
 Réjouissons-nous
 de ce miracle.
 
-567
+448
 00:20:53,640 --> 00:20:55,100
 Bon sang…
 
-568
+449
 00:20:55,270 --> 00:20:58,820
 Il abuse quand même
 à nous inquiéter.
 
-569
+450
 00:20:58,980 --> 00:21:01,230
 Je manquerai pas de lui dire.
 
-570
+451
 00:21:01,690 --> 00:21:04,820
 Et pour ce qui s’est passé
 après notre séparation,
 
-571
+452
 00:21:05,360 --> 00:21:07,700
 moi, je lui fais confiance.
 
-572
+453
 00:21:07,870 --> 00:21:11,120
 T’es d’un pénible !
 Tu m’ôtes les mots de la bouche.
 
-573
+454
 00:21:11,240 --> 00:21:14,210
 C’est toujours pareil !
 
-574
+455
 00:21:18,250 --> 00:21:21,760
 Fermez-la !
 Vous êtes insupportables.
 
-575
+456
 00:21:32,640 --> 00:21:33,980
 Dragon…
 
-576
+457
 00:21:37,690 --> 00:21:39,360
 Sabo s’en est sorti.
 
-577
+458
 00:21:41,570 --> 00:21:42,690
 En revanche,
 
-578
+459
 00:21:43,070 --> 00:21:47,450
 s’il est vraiment l’assassin
 du roi Cobra…
 
-579
+460
 00:21:48,070 --> 00:21:50,490
 je ne lui pardonnerai pas,
 
-580
+461
 00:21:51,160 --> 00:21:53,040
 peu importe ses motivations.
 
-581
+462
 00:22:01,380 --> 00:22:03,050
 Et toi, alors, Kuma ?
 
-582
+463
 00:22:04,050 --> 00:22:05,720
 Dis-moi, mon ami…
 
-583
+464
 00:22:06,090 --> 00:22:07,840
 Qu’as-tu vu, là-bas ?
 
-584
+465
 00:22:09,090 --> 00:22:11,600
 À...
 
-585
+466
 00:22:12,060 --> 00:22:15,180
 À vos ordres...
 
-586
+467
 00:22:16,690 --> 00:22:19,520
 À vos ordres...
 
-587
+468
 00:22:39,000 --> 00:22:41,420
 Appel intercepté vers Kedétrav.
 
-588
+469
 00:22:41,790 --> 00:22:43,500
 C’est l’empereur des flammes ?
 
-589
+470
 00:22:42,290 --> 00:22:43,750
 QG de la Marine
 Nouveau Monde
 
-590
+471
 00:22:44,090 --> 00:22:46,460
 Sur écoute !
 Localisez la source.
 
-591
+472
 00:22:46,720 --> 00:22:47,550
 Bien !
 
-592
+473
 00:22:53,350 --> 00:22:54,600
 Taisez-vous.
 
-593
+474
 00:23:02,310 --> 00:23:02,980
 Oui ?
 
-594
+475
 00:23:03,400 --> 00:23:04,650
 Koala à l’appareil.
 
-595
+476
 00:23:06,360 --> 00:23:07,490
 C’est moi…
 
-596
+477
 00:23:09,280 --> 00:23:10,320
 Sabo !
 
-597
+478
 00:23:13,700 --> 00:23:15,040
 Pardonnez-moi.
 
-598
+479
 00:23:15,830 --> 00:23:18,080
 J’ai causé bien des problèmes.

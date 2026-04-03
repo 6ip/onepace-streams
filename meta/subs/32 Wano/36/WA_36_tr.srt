@@ -1578,197 +1578,191 @@ Evet!
 387
 00:25:29,760 --> 00:25:34,220
 Güney Mavi
+Doğu Mavi
+Kuzey
 
 388
-00:25:29,760 --> 00:25:34,220
-Doğu Mavi
-
-389
 00:25:29,760 --> 00:25:31,890
 Batı Mavi
 
-390
-00:25:29,760 --> 00:25:34,220
-Kuzey
-
-391
+389
 00:25:30,300 --> 00:25:34,220
 Wano dünyaya kıyasla küçücük kalıyor.
 
-392
+390
 00:25:31,890 --> 00:25:32,010
 Batı Mavi
 
-393
+391
 00:25:32,010 --> 00:25:32,140
 Batı Mavi
 
-394
+392
 00:25:32,140 --> 00:25:32,260
 Batı Mavi
 
-395
+393
 00:25:32,260 --> 00:25:34,220
 Batı Mavi
 
-396
+394
 00:25:34,220 --> 00:25:37,140
 Sen nerede doğdun, Toki?
 
-397
+395
 00:25:38,890 --> 00:25:40,230
 Bilmiyorum.
 
-398
+396
 00:25:41,230 --> 00:25:44,440
 Tek bildiğim ailemin Wano'lu olduğu.
 
-399
+397
 00:25:46,150 --> 00:25:50,950
 Oraya gitmeyi her şeyden çok istiyorum.
 
-400
+398
 00:25:51,490 --> 00:25:55,030
 Ama bu gemi muhtemelen bir süre
 daha oraya dönmeyecek.
 
-401
+399
 00:25:58,370 --> 00:25:59,910
 Üzgünüm.
 
-402
+400
 00:26:01,410 --> 00:26:05,040
 Sorun değil. Seninle çok eğleniyorum!
 
-403
+401
 00:26:06,340 --> 00:26:10,510
 Seninle olduğum her an,
 dünyadaki yerimi bulmuş gibi hissediyorum.
 
-404
+402
 00:26:11,380 --> 00:26:12,930
 Neden acaba...
 
-405
+403
 00:26:12,930 --> 00:26:14,430
 Ben de bilmiyorum...
 
-406
+404
 00:26:15,050 --> 00:26:16,390
 Çok tuhaf...
 
-407
+405
 00:26:16,390 --> 00:26:17,760
 Evet, öyle!
 
-408
+406
 00:26:22,770 --> 00:26:24,020
 Hey!
 
-409
+407
 00:26:24,020 --> 00:26:26,440
 Oden-sama'yı gördünüz mü?
 
-410
+408
 00:26:26,440 --> 00:26:27,440
 Şurada mı?
 
-411
+409
 00:26:28,320 --> 00:26:30,070
 Merak kediyi öldürür!
 
-412
+410
 00:26:43,410 --> 00:26:45,580
 Beyazsakal'ın bile düşmanı varmış...
 
-413
+411
 00:26:46,420 --> 00:26:47,540
 Denizciler!
 
-414
+412
 00:26:47,540 --> 00:26:49,130
 Geri çekilin!
 
-415
+413
 00:26:50,630 --> 00:26:51,840
 Neden kaçtık?!
 
-416
+414
 00:26:52,220 --> 00:26:54,340
 Güçlü görünüyorlardı!
 
-417
+415
 00:26:54,340 --> 00:26:55,590
 Onlarla savaşmalıydık!
 
-418
+416
 00:26:55,590 --> 00:26:57,600
 Onlar Denizciler'di!
 
-419
+417
 00:26:58,560 --> 00:27:00,310
 Büyük bir organizasyondur.
 
-420
+418
 00:27:00,310 --> 00:27:04,810
 Bugün onları indirsek bile,
 yarın peşimize daha fazlası takılır.
 
-421
+419
 00:27:05,690 --> 00:27:09,070
 Yani tüm dünyanın düzeni
 bu organizasyonun elinde mi?!
 
-422
+420
 00:27:09,900 --> 00:27:12,150
 Buradaki düşmanlar olağanüstü!
 
-423
+421
 00:27:12,690 --> 00:27:17,030
 Güçlerini tartmadan önce dünyayı biraz daha gör.
 
-424
+422
 00:27:17,490 --> 00:27:20,490
 Ülkenin özgür olmasına şaşıracaksın da!
 
-425
+423
 00:27:23,290 --> 00:27:27,630
 Başka Bir Denizde
 
-426
+424
 00:27:29,170 --> 00:27:31,300
 Bugünkü gazete de boş çıktı.
 
-427
+425
 00:27:32,050 --> 00:27:33,920
 Yine mi Beyazsakal haberi?!
 
-428
+426
 00:27:33,920 --> 00:27:36,050
 Biz de millete bela oluyoruz be!
 
-429
+427
 00:27:36,050 --> 00:27:38,300
 Hey! Okumayı daha bitirmedim!
 
-430
+428
 00:27:38,300 --> 00:27:44,560
 Beyazsakal'ın Wano'dan aldığı o deli samuray yine ortalığı dağıtıp duruyor.
 
-431
+429
 00:27:46,310 --> 00:27:47,900
 – Kaptan!
 – Kaptan!
 
-432
+430
 00:27:51,190 --> 00:27:54,690
 İzole bir ülkeden kaçmış samuray demek!
 
-433
+431
 00:27:55,820 --> 00:27:57,990
 Umarım yollarımız kesişir!
 
-434
+432
 00:27:58,490 --> 00:28:01,870
 Büyük Korsan
 Gold Roger

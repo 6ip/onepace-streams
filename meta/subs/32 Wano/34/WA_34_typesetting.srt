@@ -365,220 +365,214 @@ The Shogun's Heir
 61
 00:20:48,520 --> 00:20:49,520
 Notice
-
-62
-00:20:48,520 --> 00:20:49,520
 of
-
-63
-00:20:48,520 --> 00:20:49,520
 Disownment
 
-64
+62
 00:20:49,520 --> 00:20:49,560
 Notice
  of
  Disownment
 
-65
+63
 00:20:49,560 --> 00:20:49,690
 Notice
  of
  Disownment
 
-66
+64
 00:20:49,690 --> 00:20:49,810
 Notice
  of
  Disownment
 
-67
+65
 00:20:49,810 --> 00:20:49,940
 Notice
  of
  Disownment
 
-68
+66
 00:20:49,940 --> 00:20:50,060
 Notice
  
  Disownment
 
-69
+67
 00:20:50,060 --> 00:20:50,190
 Notice
  of
  Disownment
 
-70
+68
 00:20:50,190 --> 00:20:50,310
 Notice
  of
  Disownment
 
-71
+69
 00:20:50,310 --> 00:20:53,020
 Notice
  of
  Disownment
 
-72
+70
 00:20:53,020 --> 00:20:53,150
 Notice
  of
  Disownment
 
-73
+71
 00:20:53,150 --> 00:20:53,270
 Notice
  of
  Disownment
 
-74
+72
 00:20:53,270 --> 00:20:57,150
 Notice
  of
  Disownment
 
-75
+73
 00:20:57,270 --> 00:20:57,360
 Notice 
 of 
 Disownment
 
-76
+74
 00:20:57,360 --> 00:20:57,440
 Notice 
 of 
 Disownment
 
-77
+75
 00:20:57,440 --> 00:20:57,520
 Notice 
 of 
 Disownment
 
-78
+76
 00:20:57,520 --> 00:20:57,610
 Notice 
 of 
 Disownment
 
-79
+77
 00:20:57,610 --> 00:20:57,690
 Notice 
 of 
 Disownment
 
-80
+78
 00:20:57,690 --> 00:20:57,730
 Notice 
 of 
 Disownment
 
-81
+79
 00:20:57,730 --> 00:20:57,770
 Notice 
 of 
 Disownment
 
-82
+80
 00:20:57,770 --> 00:20:57,860
 Notice 
 of 
 Disownment
 
-83
+81
 00:20:57,860 --> 00:20:57,900
 Notice 
 of 
 Disownment
 
-84
+82
 00:20:57,900 --> 00:20:57,940
 Notice 
 of 
 Disownment
 
-85
+83
 00:20:57,940 --> 00:20:58,020
 Notice 
 of 
 Disownment
 
-86
+84
 00:20:58,020 --> 00:20:58,060
 Notice 
 of 
 Disownment
 
-87
+85
 00:20:58,060 --> 00:20:58,110
 Notice 
 of 
 Disownment
 
-88
+86
 00:20:58,110 --> 00:20:58,150
 Notice 
 of 
 Disownment
 
-89
+87
 00:20:58,150 --> 00:20:58,190
 Notice 
 of 
 Disownment
 
-90
+88
 00:20:58,190 --> 00:20:58,230
 Notice 
 of 
 Disownment
 
-91
+89
 00:20:58,230 --> 00:20:58,270
 Notice 
 of 
 Disownment
 
-92
+90
 00:20:58,270 --> 00:20:58,320
 Notice 
 of 
 Disownment
 
-93
+91
 00:20:58,320 --> 00:20:58,360
 Notice 
 of 
 Disownment
 
-94
+92
 00:20:58,360 --> 00:20:58,400
 Notice 
 of 
 Disownment
 
-95
+93
 00:20:58,400 --> 00:20:58,440
 Notice 
 of 
 Disownment
 
-96
+94
 00:20:58,440 --> 00:20:58,480
 Notice 
 of 
 Disownment
 
-97
+95
 00:20:58,480 --> 00:20:58,520
 Notice 
 of 
 Disownment
 
-98
+96
 00:20:58,520 --> 00:21:00,860
 Notice 
 of 

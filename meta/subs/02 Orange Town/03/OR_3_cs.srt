@@ -1451,155 +1451,152 @@ Ehm... Utekli směrem k přístavu.
 350
 00:19:33,110 --> 00:19:35,110
 Zatraceně!
+– Starosto! Starosto!
+– Starosto! Starosto!
 
 351
-00:19:33,110 --> 00:19:35,110
-– Starosto! Starosto!
-– Starosto! Starosto!
-
-352
 00:19:35,110 --> 00:19:38,410
 Myslí si, že si v mém městě
 můžou dělat, co chtějí!
 
-353
+352
 00:19:38,410 --> 00:19:42,370
 Pořádně vám to vytmavím, spratci!
 
-354
+353
 00:19:46,040 --> 00:19:47,790
 Tak jo! Jdeme na to!
 
-355
+354
 00:19:48,710 --> 00:19:52,340
 Není na té plachtě Buggyho znak?
 
-356
+355
 00:19:52,340 --> 00:19:55,340
 No jo, tohle byla jeho loď.
 Brzy ji sundám.
 
-357
+356
 00:19:57,220 --> 00:19:58,680
 Hej! Počkejte!
 
-358
+357
 00:19:59,090 --> 00:20:01,180
 Hej, mladíci!
 
-359
+358
 00:20:01,180 --> 00:20:02,640
 Ten starý starosta!
 
-360
+359
 00:20:10,810 --> 00:20:13,440
 Byl jsem připravený zemřít!
 
-361
+360
 00:20:13,440 --> 00:20:17,320
 Byl jsem připravený zemřít v naprostém zoufalství!
 
-362
+361
 00:20:18,950 --> 00:20:20,780
 Díky! Jsme vám zavázáni!
 
-363
+362
 00:20:24,120 --> 00:20:25,500
 To nic!
 
-364
+363
 00:20:25,500 --> 00:20:27,250
 Mějte se!
 
-365
+364
 00:20:27,660 --> 00:20:29,670
 Zpropadená mládež...
 
-366
+365
 00:20:29,670 --> 00:20:31,790
 Zpropadená mládež!
 
-367
+366
 00:20:31,790 --> 00:20:34,420
 Zpropadená mládež...
 
-368
+367
 00:20:36,260 --> 00:20:38,180
 Nemám slov...
 
-369
+368
 00:20:43,100 --> 00:20:44,180
 Cože?
 
-370
+369
 00:20:44,180 --> 00:20:46,020
 Cože?!
 
-371
+370
 00:20:46,390 --> 00:20:48,440
 Ty jsi tam nechal ten pytel s pokladem?!
 
-372
+371
 00:20:48,440 --> 00:20:49,140
 Jo.
 
-373
+372
 00:20:49,140 --> 00:20:52,150
 Víš, že jen jeden
 má cenu pět milionů berry?!
 
-374
+373
 00:20:52,150 --> 00:20:55,530
 Ale oni potřebují peníze
 na opravu zničeného města, ne?
 
-375
+374
 00:20:55,530 --> 00:20:57,440
 To byl můj poklad!
 
-376
+375
 00:20:57,820 --> 00:21:00,410
 Tušíš, čím jsem si prošla, abych ho ukradla?!
 
-377
+376
 00:21:01,070 --> 00:21:02,910
 Proč jsi to udělal?!
 
-378
+377
 00:21:02,910 --> 00:21:04,910
 Počkej! Já neumím plavat!
 
-379
+378
 00:21:04,910 --> 00:21:06,660
 Právě proto!
 
-380
+379
 00:21:06,660 --> 00:21:08,540
 Jestli ho chceš,
 tak si pro něj jdi!
 
-381
+380
 00:21:08,540 --> 00:21:10,750
 Já nemůžu! Ty pro něj běž!
 
-382
+381
 00:21:10,750 --> 00:21:13,540
 Ne! To je nebezpečný!
 Mohl bych umřít!
 
-383
+382
 00:21:13,540 --> 00:21:15,210
 Tak třeba umři!
 
-384
+383
 00:21:15,750 --> 00:21:18,630
 Příště tě fakt shodím do oceánu!
 
-385
+384
 00:21:20,340 --> 00:21:23,390
 Tak či onak...
 
-386
+385
 00:21:23,390 --> 00:21:28,060
 vypadá to, že se k naší výpravě
 přidal navigátor.

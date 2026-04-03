@@ -1981,6855 +1981,4200 @@ Les Sept Grands Corsaires
 414
 00:15:07,670 --> 00:15:07,710
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 415
-00:15:07,670 --> 00:15:07,710
+00:15:07,710 --> 00:15:07,760
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 416
-00:15:07,670 --> 00:15:07,710
+00:15:07,760 --> 00:15:07,800
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 417
-00:15:07,710 --> 00:15:07,760
+00:15:07,800 --> 00:15:07,840
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 418
-00:15:07,710 --> 00:15:07,760
+00:15:07,840 --> 00:15:07,880
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 419
-00:15:07,710 --> 00:15:07,760
+00:15:07,880 --> 00:15:07,920
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 420
-00:15:07,760 --> 00:15:07,800
+00:15:07,920 --> 00:15:07,970
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 421
-00:15:07,760 --> 00:15:07,800
+00:15:07,970 --> 00:15:08,010
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 422
-00:15:07,760 --> 00:15:07,800
+00:15:08,010 --> 00:15:08,050
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 423
-00:15:07,800 --> 00:15:07,840
+00:15:08,050 --> 00:15:08,090
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 424
-00:15:07,800 --> 00:15:07,840
+00:15:08,090 --> 00:15:08,130
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 425
-00:15:07,800 --> 00:15:07,840
+00:15:08,130 --> 00:15:08,170
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 426
-00:15:07,840 --> 00:15:07,880
+00:15:08,170 --> 00:15:08,220
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 427
-00:15:07,840 --> 00:15:07,880
+00:15:08,220 --> 00:15:08,260
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 428
-00:15:07,840 --> 00:15:07,880
+00:15:08,260 --> 00:15:08,300
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 429
-00:15:07,880 --> 00:15:07,920
+00:15:08,300 --> 00:15:08,340
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 430
-00:15:07,880 --> 00:15:07,920
+00:15:08,340 --> 00:15:08,380
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 431
-00:15:07,880 --> 00:15:07,920
+00:15:08,380 --> 00:15:08,420
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 432
-00:15:07,920 --> 00:15:07,970
+00:15:08,420 --> 00:15:08,470
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 433
-00:15:07,920 --> 00:15:07,970
+00:15:08,470 --> 00:15:08,510
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 434
-00:15:07,920 --> 00:15:07,970
+00:15:08,510 --> 00:15:08,550
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 435
-00:15:07,970 --> 00:15:08,010
-Quatre Empereurs
-
-436
-00:15:07,970 --> 00:15:08,010
-Marine
-
-437
-00:15:07,970 --> 00:15:08,010
-Les Sept Grands Corsaires
-
-438
-00:15:08,010 --> 00:15:08,050
-Quatre Empereurs
-
-439
-00:15:08,010 --> 00:15:08,050
-Marine
-
-440
-00:15:08,010 --> 00:15:08,050
-Les Sept Grands Corsaires
-
-441
-00:15:08,050 --> 00:15:08,090
-Quatre Empereurs
-
-442
-00:15:08,050 --> 00:15:08,090
-Marine
-
-443
-00:15:08,050 --> 00:15:08,090
-Les Sept Grands Corsaires
-
-444
-00:15:08,090 --> 00:15:08,130
-Quatre Empereurs
-
-445
-00:15:08,090 --> 00:15:08,130
-Marine
-
-446
-00:15:08,090 --> 00:15:08,130
-Les Sept Grands Corsaires
-
-447
-00:15:08,130 --> 00:15:08,170
-Quatre Empereurs
-
-448
-00:15:08,130 --> 00:15:08,170
-Marine
-
-449
-00:15:08,130 --> 00:15:08,170
-Les Sept Grands Corsaires
-
-450
-00:15:08,170 --> 00:15:08,220
-Quatre Empereurs
-
-451
-00:15:08,170 --> 00:15:08,220
-Marine
-
-452
-00:15:08,170 --> 00:15:08,220
-Les Sept Grands Corsaires
-
-453
-00:15:08,220 --> 00:15:08,260
-Quatre Empereurs
-
-454
-00:15:08,220 --> 00:15:08,260
-Marine
-
-455
-00:15:08,220 --> 00:15:08,260
-Les Sept Grands Corsaires
-
-456
-00:15:08,260 --> 00:15:08,300
-Quatre Empereurs
-
-457
-00:15:08,260 --> 00:15:08,300
-Marine
-
-458
-00:15:08,260 --> 00:15:08,300
-Les Sept Grands Corsaires
-
-459
-00:15:08,300 --> 00:15:08,340
-Quatre Empereurs
-
-460
-00:15:08,300 --> 00:15:08,340
-Marine
-
-461
-00:15:08,300 --> 00:15:08,340
-Les Sept Grands Corsaires
-
-462
-00:15:08,340 --> 00:15:08,380
-Quatre Empereurs
-
-463
-00:15:08,340 --> 00:15:08,380
-Marine
-
-464
-00:15:08,340 --> 00:15:08,380
-Les Sept Grands Corsaires
-
-465
-00:15:08,380 --> 00:15:08,420
-Quatre Empereurs
-
-466
-00:15:08,380 --> 00:15:08,420
-Marine
-
-467
-00:15:08,380 --> 00:15:08,420
-Les Sept Grands Corsaires
-
-468
-00:15:08,420 --> 00:15:08,470
-Quatre Empereurs
-
-469
-00:15:08,420 --> 00:15:08,470
-Marine
-
-470
-00:15:08,420 --> 00:15:08,470
-Les Sept Grands Corsaires
-
-471
-00:15:08,470 --> 00:15:08,510
-Quatre Empereurs
-
-472
-00:15:08,470 --> 00:15:08,510
-Marine
-
-473
-00:15:08,470 --> 00:15:08,510
-Les Sept Grands Corsaires
-
-474
-00:15:08,510 --> 00:15:08,550
-Quatre Empereurs
-
-475
-00:15:08,510 --> 00:15:08,550
-Marine
-
-476
-00:15:08,510 --> 00:15:08,550
-Les Sept Grands Corsaires
-
-477
 00:15:08,550 --> 00:15:11,390
 formaient un équilibre
 préservant la paix.
 
-478
+436
 00:15:08,550 --> 00:15:08,590
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+437
+00:15:08,590 --> 00:15:08,630
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+438
+00:15:08,630 --> 00:15:08,670
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+439
+00:15:08,670 --> 00:15:08,720
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+440
+00:15:08,720 --> 00:15:08,760
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+441
+00:15:08,760 --> 00:15:08,800
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+442
+00:15:08,800 --> 00:15:08,840
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+443
+00:15:08,840 --> 00:15:08,880
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+444
+00:15:08,880 --> 00:15:08,920
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+445
+00:15:08,920 --> 00:15:08,970
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+446
+00:15:08,970 --> 00:15:09,010
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+447
+00:15:09,010 --> 00:15:09,050
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+448
+00:15:09,050 --> 00:15:09,090
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+449
+00:15:09,090 --> 00:15:09,130
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+450
+00:15:09,130 --> 00:15:09,170
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+451
+00:15:09,170 --> 00:15:09,220
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+452
+00:15:09,220 --> 00:15:09,260
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+453
+00:15:09,260 --> 00:15:09,300
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+454
+00:15:09,300 --> 00:15:09,340
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+455
+00:15:09,340 --> 00:15:09,380
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+456
+00:15:09,380 --> 00:15:09,430
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+457
+00:15:09,430 --> 00:15:09,470
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+458
+00:15:09,470 --> 00:15:09,510
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+459
+00:15:09,510 --> 00:15:09,550
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+460
+00:15:09,550 --> 00:15:09,590
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+461
+00:15:09,590 --> 00:15:09,630
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+462
+00:15:09,630 --> 00:15:09,680
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+463
+00:15:09,680 --> 00:15:09,720
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+464
+00:15:09,720 --> 00:15:09,760
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+465
+00:15:09,760 --> 00:15:09,800
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+466
+00:15:09,800 --> 00:15:09,840
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+467
+00:15:09,840 --> 00:15:09,880
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+468
+00:15:09,880 --> 00:15:09,930
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+469
+00:15:09,930 --> 00:15:09,970
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+470
+00:15:09,970 --> 00:15:10,010
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+471
+00:15:10,010 --> 00:15:10,050
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+472
+00:15:10,050 --> 00:15:10,090
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+473
+00:15:10,090 --> 00:15:10,130
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+474
+00:15:10,130 --> 00:15:10,180
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+475
+00:15:10,180 --> 00:15:10,220
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+476
+00:15:10,220 --> 00:15:10,260
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+477
+00:15:10,260 --> 00:15:10,300
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
+
+478
+00:15:10,300 --> 00:15:10,340
+Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 479
-00:15:08,550 --> 00:15:08,590
+00:15:10,340 --> 00:15:10,380
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 480
-00:15:08,550 --> 00:15:08,590
+00:15:10,380 --> 00:15:10,430
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 481
-00:15:08,590 --> 00:15:08,630
+00:15:10,430 --> 00:15:10,470
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 482
-00:15:08,590 --> 00:15:08,630
+00:15:10,470 --> 00:15:10,510
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 483
-00:15:08,590 --> 00:15:08,630
+00:15:10,510 --> 00:15:10,550
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 484
-00:15:08,630 --> 00:15:08,670
+00:15:10,550 --> 00:15:10,590
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 485
-00:15:08,630 --> 00:15:08,670
+00:15:10,590 --> 00:15:10,630
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 486
-00:15:08,630 --> 00:15:08,670
+00:15:10,630 --> 00:15:10,680
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 487
-00:15:08,670 --> 00:15:08,720
+00:15:10,680 --> 00:15:10,720
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 488
-00:15:08,670 --> 00:15:08,720
+00:15:10,720 --> 00:15:10,760
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 489
-00:15:08,670 --> 00:15:08,720
+00:15:10,760 --> 00:15:10,800
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 490
-00:15:08,720 --> 00:15:08,760
+00:15:10,800 --> 00:15:10,840
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 491
-00:15:08,720 --> 00:15:08,760
+00:15:10,840 --> 00:15:10,880
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 492
-00:15:08,720 --> 00:15:08,760
+00:15:10,880 --> 00:15:10,930
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 493
-00:15:08,760 --> 00:15:08,800
+00:15:10,930 --> 00:15:10,970
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 494
-00:15:08,760 --> 00:15:08,800
+00:15:10,970 --> 00:15:11,010
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 495
-00:15:08,760 --> 00:15:08,800
+00:15:11,010 --> 00:15:11,050
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 496
-00:15:08,800 --> 00:15:08,840
+00:15:11,050 --> 00:15:11,090
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 497
-00:15:08,800 --> 00:15:08,840
+00:15:11,090 --> 00:15:11,140
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 498
-00:15:08,800 --> 00:15:08,840
+00:15:11,140 --> 00:15:11,180
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 499
-00:15:08,840 --> 00:15:08,880
+00:15:11,180 --> 00:15:11,220
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 500
-00:15:08,840 --> 00:15:08,880
+00:15:11,220 --> 00:15:11,260
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 501
-00:15:08,840 --> 00:15:08,880
+00:15:11,260 --> 00:15:11,300
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 502
-00:15:08,880 --> 00:15:08,920
+00:15:11,300 --> 00:15:11,340
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 503
-00:15:08,880 --> 00:15:08,920
+00:15:11,340 --> 00:15:11,390
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 504
-00:15:08,880 --> 00:15:08,920
+00:15:11,390 --> 00:15:11,430
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 505
-00:15:08,920 --> 00:15:08,970
+00:15:11,430 --> 00:15:11,470
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 506
-00:15:08,920 --> 00:15:08,970
+00:15:11,470 --> 00:15:11,510
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 507
-00:15:08,920 --> 00:15:08,970
+00:15:11,510 --> 00:15:11,550
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 508
-00:15:08,970 --> 00:15:09,010
+00:15:11,550 --> 00:15:11,590
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 509
-00:15:08,970 --> 00:15:09,010
+00:15:11,590 --> 00:15:11,640
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 510
-00:15:08,970 --> 00:15:09,010
+00:15:11,640 --> 00:15:11,680
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 511
-00:15:09,010 --> 00:15:09,050
+00:15:11,680 --> 00:15:11,720
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 512
-00:15:09,010 --> 00:15:09,050
+00:15:11,720 --> 00:15:11,760
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 513
-00:15:09,010 --> 00:15:09,050
+00:15:11,760 --> 00:15:11,800
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 514
-00:15:09,050 --> 00:15:09,090
+00:15:11,800 --> 00:15:11,840
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 515
-00:15:09,050 --> 00:15:09,090
+00:15:11,840 --> 00:15:11,890
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 516
-00:15:09,050 --> 00:15:09,090
+00:15:11,890 --> 00:15:11,930
+Quatre Empereurs
+Marine
 Les Sept Grands Corsaires
 
 517
-00:15:09,090 --> 00:15:09,130
+00:15:11,930 --> 00:15:11,970
 Quatre Empereurs
+Marine
+Les Sept Grands Corsaires
 
 518
-00:15:09,090 --> 00:15:09,130
+00:15:11,970 --> 00:15:12,010
+Quatre Empereurs
 Marine
+Les Sept Grands Corsaires
 
 519
-00:15:09,090 --> 00:15:09,130
-Les Sept Grands Corsaires
-
-520
-00:15:09,130 --> 00:15:09,170
-Quatre Empereurs
-
-521
-00:15:09,130 --> 00:15:09,170
-Marine
-
-522
-00:15:09,130 --> 00:15:09,170
-Les Sept Grands Corsaires
-
-523
-00:15:09,170 --> 00:15:09,220
-Quatre Empereurs
-
-524
-00:15:09,170 --> 00:15:09,220
-Marine
-
-525
-00:15:09,170 --> 00:15:09,220
-Les Sept Grands Corsaires
-
-526
-00:15:09,220 --> 00:15:09,260
-Quatre Empereurs
-
-527
-00:15:09,220 --> 00:15:09,260
-Marine
-
-528
-00:15:09,220 --> 00:15:09,260
-Les Sept Grands Corsaires
-
-529
-00:15:09,260 --> 00:15:09,300
-Quatre Empereurs
-
-530
-00:15:09,260 --> 00:15:09,300
-Marine
-
-531
-00:15:09,260 --> 00:15:09,300
-Les Sept Grands Corsaires
-
-532
-00:15:09,300 --> 00:15:09,340
-Quatre Empereurs
-
-533
-00:15:09,300 --> 00:15:09,340
-Marine
-
-534
-00:15:09,300 --> 00:15:09,340
-Les Sept Grands Corsaires
-
-535
-00:15:09,340 --> 00:15:09,380
-Quatre Empereurs
-
-536
-00:15:09,340 --> 00:15:09,380
-Marine
-
-537
-00:15:09,340 --> 00:15:09,380
-Les Sept Grands Corsaires
-
-538
-00:15:09,380 --> 00:15:09,430
-Quatre Empereurs
-
-539
-00:15:09,380 --> 00:15:09,430
-Marine
-
-540
-00:15:09,380 --> 00:15:09,430
-Les Sept Grands Corsaires
-
-541
-00:15:09,430 --> 00:15:09,470
-Quatre Empereurs
-
-542
-00:15:09,430 --> 00:15:09,470
-Marine
-
-543
-00:15:09,430 --> 00:15:09,470
-Les Sept Grands Corsaires
-
-544
-00:15:09,470 --> 00:15:09,510
-Quatre Empereurs
-
-545
-00:15:09,470 --> 00:15:09,510
-Marine
-
-546
-00:15:09,470 --> 00:15:09,510
-Les Sept Grands Corsaires
-
-547
-00:15:09,510 --> 00:15:09,550
-Quatre Empereurs
-
-548
-00:15:09,510 --> 00:15:09,550
-Marine
-
-549
-00:15:09,510 --> 00:15:09,550
-Les Sept Grands Corsaires
-
-550
-00:15:09,550 --> 00:15:09,590
-Quatre Empereurs
-
-551
-00:15:09,550 --> 00:15:09,590
-Marine
-
-552
-00:15:09,550 --> 00:15:09,590
-Les Sept Grands Corsaires
-
-553
-00:15:09,590 --> 00:15:09,630
-Quatre Empereurs
-
-554
-00:15:09,590 --> 00:15:09,630
-Marine
-
-555
-00:15:09,590 --> 00:15:09,630
-Les Sept Grands Corsaires
-
-556
-00:15:09,630 --> 00:15:09,680
-Quatre Empereurs
-
-557
-00:15:09,630 --> 00:15:09,680
-Marine
-
-558
-00:15:09,630 --> 00:15:09,680
-Les Sept Grands Corsaires
-
-559
-00:15:09,680 --> 00:15:09,720
-Quatre Empereurs
-
-560
-00:15:09,680 --> 00:15:09,720
-Marine
-
-561
-00:15:09,680 --> 00:15:09,720
-Les Sept Grands Corsaires
-
-562
-00:15:09,720 --> 00:15:09,760
-Quatre Empereurs
-
-563
-00:15:09,720 --> 00:15:09,760
-Marine
-
-564
-00:15:09,720 --> 00:15:09,760
-Les Sept Grands Corsaires
-
-565
-00:15:09,760 --> 00:15:09,800
-Quatre Empereurs
-
-566
-00:15:09,760 --> 00:15:09,800
-Marine
-
-567
-00:15:09,760 --> 00:15:09,800
-Les Sept Grands Corsaires
-
-568
-00:15:09,800 --> 00:15:09,840
-Quatre Empereurs
-
-569
-00:15:09,800 --> 00:15:09,840
-Marine
-
-570
-00:15:09,800 --> 00:15:09,840
-Les Sept Grands Corsaires
-
-571
-00:15:09,840 --> 00:15:09,880
-Quatre Empereurs
-
-572
-00:15:09,840 --> 00:15:09,880
-Marine
-
-573
-00:15:09,840 --> 00:15:09,880
-Les Sept Grands Corsaires
-
-574
-00:15:09,880 --> 00:15:09,930
-Quatre Empereurs
-
-575
-00:15:09,880 --> 00:15:09,930
-Marine
-
-576
-00:15:09,880 --> 00:15:09,930
-Les Sept Grands Corsaires
-
-577
-00:15:09,930 --> 00:15:09,970
-Quatre Empereurs
-
-578
-00:15:09,930 --> 00:15:09,970
-Marine
-
-579
-00:15:09,930 --> 00:15:09,970
-Les Sept Grands Corsaires
-
-580
-00:15:09,970 --> 00:15:10,010
-Quatre Empereurs
-
-581
-00:15:09,970 --> 00:15:10,010
-Marine
-
-582
-00:15:09,970 --> 00:15:10,010
-Les Sept Grands Corsaires
-
-583
-00:15:10,010 --> 00:15:10,050
-Quatre Empereurs
-
-584
-00:15:10,010 --> 00:15:10,050
-Marine
-
-585
-00:15:10,010 --> 00:15:10,050
-Les Sept Grands Corsaires
-
-586
-00:15:10,050 --> 00:15:10,090
-Quatre Empereurs
-
-587
-00:15:10,050 --> 00:15:10,090
-Marine
-
-588
-00:15:10,050 --> 00:15:10,090
-Les Sept Grands Corsaires
-
-589
-00:15:10,090 --> 00:15:10,130
-Quatre Empereurs
-
-590
-00:15:10,090 --> 00:15:10,130
-Marine
-
-591
-00:15:10,090 --> 00:15:10,130
-Les Sept Grands Corsaires
-
-592
-00:15:10,130 --> 00:15:10,180
-Quatre Empereurs
-
-593
-00:15:10,130 --> 00:15:10,180
-Marine
-
-594
-00:15:10,130 --> 00:15:10,180
-Les Sept Grands Corsaires
-
-595
-00:15:10,180 --> 00:15:10,220
-Quatre Empereurs
-
-596
-00:15:10,180 --> 00:15:10,220
-Marine
-
-597
-00:15:10,180 --> 00:15:10,220
-Les Sept Grands Corsaires
-
-598
-00:15:10,220 --> 00:15:10,260
-Quatre Empereurs
-
-599
-00:15:10,220 --> 00:15:10,260
-Marine
-
-600
-00:15:10,220 --> 00:15:10,260
-Les Sept Grands Corsaires
-
-601
-00:15:10,260 --> 00:15:10,300
-Quatre Empereurs
-
-602
-00:15:10,260 --> 00:15:10,300
-Marine
-
-603
-00:15:10,260 --> 00:15:10,300
-Les Sept Grands Corsaires
-
-604
-00:15:10,300 --> 00:15:10,340
-Quatre Empereurs
-
-605
-00:15:10,300 --> 00:15:10,340
-Marine
-
-606
-00:15:10,300 --> 00:15:10,340
-Les Sept Grands Corsaires
-
-607
-00:15:10,340 --> 00:15:10,380
-Quatre Empereurs
-
-608
-00:15:10,340 --> 00:15:10,380
-Marine
-
-609
-00:15:10,340 --> 00:15:10,380
-Les Sept Grands Corsaires
-
-610
-00:15:10,380 --> 00:15:10,430
-Quatre Empereurs
-
-611
-00:15:10,380 --> 00:15:10,430
-Marine
-
-612
-00:15:10,380 --> 00:15:10,430
-Les Sept Grands Corsaires
-
-613
-00:15:10,430 --> 00:15:10,470
-Quatre Empereurs
-
-614
-00:15:10,430 --> 00:15:10,470
-Marine
-
-615
-00:15:10,430 --> 00:15:10,470
-Les Sept Grands Corsaires
-
-616
-00:15:10,470 --> 00:15:10,510
-Quatre Empereurs
-
-617
-00:15:10,470 --> 00:15:10,510
-Marine
-
-618
-00:15:10,470 --> 00:15:10,510
-Les Sept Grands Corsaires
-
-619
-00:15:10,510 --> 00:15:10,550
-Quatre Empereurs
-
-620
-00:15:10,510 --> 00:15:10,550
-Marine
-
-621
-00:15:10,510 --> 00:15:10,550
-Les Sept Grands Corsaires
-
-622
-00:15:10,550 --> 00:15:10,590
-Quatre Empereurs
-
-623
-00:15:10,550 --> 00:15:10,590
-Marine
-
-624
-00:15:10,550 --> 00:15:10,590
-Les Sept Grands Corsaires
-
-625
-00:15:10,590 --> 00:15:10,630
-Quatre Empereurs
-
-626
-00:15:10,590 --> 00:15:10,630
-Marine
-
-627
-00:15:10,590 --> 00:15:10,630
-Les Sept Grands Corsaires
-
-628
-00:15:10,630 --> 00:15:10,680
-Quatre Empereurs
-
-629
-00:15:10,630 --> 00:15:10,680
-Marine
-
-630
-00:15:10,630 --> 00:15:10,680
-Les Sept Grands Corsaires
-
-631
-00:15:10,680 --> 00:15:10,720
-Quatre Empereurs
-
-632
-00:15:10,680 --> 00:15:10,720
-Marine
-
-633
-00:15:10,680 --> 00:15:10,720
-Les Sept Grands Corsaires
-
-634
-00:15:10,720 --> 00:15:10,760
-Quatre Empereurs
-
-635
-00:15:10,720 --> 00:15:10,760
-Marine
-
-636
-00:15:10,720 --> 00:15:10,760
-Les Sept Grands Corsaires
-
-637
-00:15:10,760 --> 00:15:10,800
-Quatre Empereurs
-
-638
-00:15:10,760 --> 00:15:10,800
-Marine
-
-639
-00:15:10,760 --> 00:15:10,800
-Les Sept Grands Corsaires
-
-640
-00:15:10,800 --> 00:15:10,840
-Quatre Empereurs
-
-641
-00:15:10,800 --> 00:15:10,840
-Marine
-
-642
-00:15:10,800 --> 00:15:10,840
-Les Sept Grands Corsaires
-
-643
-00:15:10,840 --> 00:15:10,880
-Quatre Empereurs
-
-644
-00:15:10,840 --> 00:15:10,880
-Marine
-
-645
-00:15:10,840 --> 00:15:10,880
-Les Sept Grands Corsaires
-
-646
-00:15:10,880 --> 00:15:10,930
-Quatre Empereurs
-
-647
-00:15:10,880 --> 00:15:10,930
-Marine
-
-648
-00:15:10,880 --> 00:15:10,930
-Les Sept Grands Corsaires
-
-649
-00:15:10,930 --> 00:15:10,970
-Quatre Empereurs
-
-650
-00:15:10,930 --> 00:15:10,970
-Marine
-
-651
-00:15:10,930 --> 00:15:10,970
-Les Sept Grands Corsaires
-
-652
-00:15:10,970 --> 00:15:11,010
-Quatre Empereurs
-
-653
-00:15:10,970 --> 00:15:11,010
-Marine
-
-654
-00:15:10,970 --> 00:15:11,010
-Les Sept Grands Corsaires
-
-655
-00:15:11,010 --> 00:15:11,050
-Quatre Empereurs
-
-656
-00:15:11,010 --> 00:15:11,050
-Marine
-
-657
-00:15:11,010 --> 00:15:11,050
-Les Sept Grands Corsaires
-
-658
-00:15:11,050 --> 00:15:11,090
-Quatre Empereurs
-
-659
-00:15:11,050 --> 00:15:11,090
-Marine
-
-660
-00:15:11,050 --> 00:15:11,090
-Les Sept Grands Corsaires
-
-661
-00:15:11,090 --> 00:15:11,140
-Quatre Empereurs
-
-662
-00:15:11,090 --> 00:15:11,140
-Marine
-
-663
-00:15:11,090 --> 00:15:11,140
-Les Sept Grands Corsaires
-
-664
-00:15:11,140 --> 00:15:11,180
-Quatre Empereurs
-
-665
-00:15:11,140 --> 00:15:11,180
-Marine
-
-666
-00:15:11,140 --> 00:15:11,180
-Les Sept Grands Corsaires
-
-667
-00:15:11,180 --> 00:15:11,220
-Quatre Empereurs
-
-668
-00:15:11,180 --> 00:15:11,220
-Marine
-
-669
-00:15:11,180 --> 00:15:11,220
-Les Sept Grands Corsaires
-
-670
-00:15:11,220 --> 00:15:11,260
-Quatre Empereurs
-
-671
-00:15:11,220 --> 00:15:11,260
-Marine
-
-672
-00:15:11,220 --> 00:15:11,260
-Les Sept Grands Corsaires
-
-673
-00:15:11,260 --> 00:15:11,300
-Quatre Empereurs
-
-674
-00:15:11,260 --> 00:15:11,300
-Marine
-
-675
-00:15:11,260 --> 00:15:11,300
-Les Sept Grands Corsaires
-
-676
-00:15:11,300 --> 00:15:11,340
-Quatre Empereurs
-
-677
-00:15:11,300 --> 00:15:11,340
-Marine
-
-678
-00:15:11,300 --> 00:15:11,340
-Les Sept Grands Corsaires
-
-679
-00:15:11,340 --> 00:15:11,390
-Quatre Empereurs
-
-680
-00:15:11,340 --> 00:15:11,390
-Marine
-
-681
-00:15:11,340 --> 00:15:11,390
-Les Sept Grands Corsaires
-
-682
-00:15:11,390 --> 00:15:11,430
-Quatre Empereurs
-
-683
-00:15:11,390 --> 00:15:11,430
-Marine
-
-684
-00:15:11,390 --> 00:15:11,430
-Les Sept Grands Corsaires
-
-685
-00:15:11,430 --> 00:15:11,470
-Quatre Empereurs
-
-686
-00:15:11,430 --> 00:15:11,470
-Marine
-
-687
-00:15:11,430 --> 00:15:11,470
-Les Sept Grands Corsaires
-
-688
-00:15:11,470 --> 00:15:11,510
-Quatre Empereurs
-
-689
-00:15:11,470 --> 00:15:11,510
-Marine
-
-690
-00:15:11,470 --> 00:15:11,510
-Les Sept Grands Corsaires
-
-691
-00:15:11,510 --> 00:15:11,550
-Quatre Empereurs
-
-692
-00:15:11,510 --> 00:15:11,550
-Marine
-
-693
-00:15:11,510 --> 00:15:11,550
-Les Sept Grands Corsaires
-
-694
-00:15:11,550 --> 00:15:11,590
-Quatre Empereurs
-
-695
-00:15:11,550 --> 00:15:11,590
-Marine
-
-696
-00:15:11,550 --> 00:15:11,590
-Les Sept Grands Corsaires
-
-697
-00:15:11,590 --> 00:15:11,640
-Quatre Empereurs
-
-698
-00:15:11,590 --> 00:15:11,640
-Marine
-
-699
-00:15:11,590 --> 00:15:11,640
-Les Sept Grands Corsaires
-
-700
-00:15:11,640 --> 00:15:11,680
-Quatre Empereurs
-
-701
-00:15:11,640 --> 00:15:11,680
-Marine
-
-702
-00:15:11,640 --> 00:15:11,680
-Les Sept Grands Corsaires
-
-703
-00:15:11,680 --> 00:15:11,720
-Quatre Empereurs
-
-704
-00:15:11,680 --> 00:15:11,720
-Marine
-
-705
-00:15:11,680 --> 00:15:11,720
-Les Sept Grands Corsaires
-
-706
-00:15:11,720 --> 00:15:11,760
-Quatre Empereurs
-
-707
-00:15:11,720 --> 00:15:11,760
-Marine
-
-708
-00:15:11,720 --> 00:15:11,760
-Les Sept Grands Corsaires
-
-709
-00:15:11,760 --> 00:15:11,800
-Quatre Empereurs
-
-710
-00:15:11,760 --> 00:15:11,800
-Marine
-
-711
-00:15:11,760 --> 00:15:11,800
-Les Sept Grands Corsaires
-
-712
-00:15:11,800 --> 00:15:11,840
-Quatre Empereurs
-
-713
-00:15:11,800 --> 00:15:11,840
-Marine
-
-714
-00:15:11,800 --> 00:15:11,840
-Les Sept Grands Corsaires
-
-715
-00:15:11,840 --> 00:15:11,890
-Quatre Empereurs
-
-716
-00:15:11,840 --> 00:15:11,890
-Marine
-
-717
-00:15:11,840 --> 00:15:11,890
-Les Sept Grands Corsaires
-
-718
-00:15:11,890 --> 00:15:11,930
-Quatre Empereurs
-
-719
-00:15:11,890 --> 00:15:11,930
-Marine
-
-720
-00:15:11,890 --> 00:15:11,930
-Les Sept Grands Corsaires
-
-721
-00:15:11,930 --> 00:15:11,970
-Quatre Empereurs
-
-722
-00:15:11,930 --> 00:15:11,970
-Marine
-
-723
-00:15:11,930 --> 00:15:11,970
-Les Sept Grands Corsaires
-
-724
-00:15:11,970 --> 00:15:12,010
-Quatre Empereurs
-
-725
-00:15:11,970 --> 00:15:12,010
-Marine
-
-726
-00:15:11,970 --> 00:15:12,010
-Les Sept Grands Corsaires
-
-727
 00:15:12,010 --> 00:15:12,930
 Mais…
 
-728
+520
 00:15:12,010 --> 00:15:12,050
 Quatre Empereurs
-
-729
-00:15:12,010 --> 00:15:12,050
 Marine
-
-730
-00:15:12,010 --> 00:15:12,050
 Les Sept Grands Corsaires
 
-731
+521
 00:15:12,050 --> 00:15:12,090
 Quatre Empereurs
-
-732
-00:15:12,050 --> 00:15:12,090
 Marine
-
-733
-00:15:12,050 --> 00:15:12,090
 Les Sept Grands Corsaires
 
-734
+522
 00:15:12,090 --> 00:15:12,140
 Quatre Empereurs
-
-735
-00:15:12,090 --> 00:15:12,140
 Marine
-
-736
-00:15:12,090 --> 00:15:12,140
 Les Sept Grands Corsaires
 
-737
+523
 00:15:12,140 --> 00:15:12,180
 Quatre Empereurs
-
-738
-00:15:12,140 --> 00:15:12,180
 Marine
-
-739
-00:15:12,140 --> 00:15:12,180
 Les Sept Grands Corsaires
 
-740
+524
 00:15:12,180 --> 00:15:12,220
 Quatre Empereurs
-
-741
-00:15:12,180 --> 00:15:12,220
 Marine
-
-742
-00:15:12,180 --> 00:15:12,220
 Les Sept Grands Corsaires
 
-743
+525
 00:15:12,220 --> 00:15:12,260
 Quatre Empereurs
-
-744
-00:15:12,220 --> 00:15:12,260
 Marine
-
-745
-00:15:12,220 --> 00:15:12,260
 Les Sept Grands Corsaires
 
-746
+526
 00:15:12,260 --> 00:15:12,300
 Quatre Empereurs
-
-747
-00:15:12,260 --> 00:15:12,300
 Marine
-
-748
-00:15:12,260 --> 00:15:12,300
 Les Sept Grands Corsaires
 
-749
+527
 00:15:12,300 --> 00:15:12,340
 Quatre Empereurs
-
-750
-00:15:12,300 --> 00:15:12,340
 Marine
-
-751
-00:15:12,300 --> 00:15:12,340
 Les Sept Grands Corsaires
 
-752
+528
 00:15:12,340 --> 00:15:12,390
 Quatre Empereurs
-
-753
-00:15:12,340 --> 00:15:12,390
 Marine
-
-754
-00:15:12,340 --> 00:15:12,390
 Les Sept Grands Corsaires
 
-755
+529
 00:15:12,390 --> 00:15:12,430
 Quatre Empereurs
-
-756
-00:15:12,390 --> 00:15:12,430
 Marine
-
-757
-00:15:12,390 --> 00:15:12,430
 Les Sept Grands Corsaires
 
-758
+530
 00:15:12,430 --> 00:15:12,470
 Quatre Empereurs
-
-759
-00:15:12,430 --> 00:15:12,470
 Marine
-
-760
-00:15:12,430 --> 00:15:12,470
 Les Sept Grands Corsaires
 
-761
+531
 00:15:12,470 --> 00:15:12,510
 Quatre Empereurs
-
-762
-00:15:12,470 --> 00:15:12,510
 Marine
-
-763
-00:15:12,470 --> 00:15:12,510
 Les Sept Grands Corsaires
 
-764
+532
 00:15:12,510 --> 00:15:12,550
 Quatre Empereurs
-
-765
-00:15:12,510 --> 00:15:12,550
 Marine
-
-766
-00:15:12,510 --> 00:15:12,550
 Les Sept Grands Corsaires
 
-767
+533
 00:15:12,550 --> 00:15:12,590
 Quatre Empereurs
-
-768
-00:15:12,550 --> 00:15:12,590
 Marine
-
-769
-00:15:12,550 --> 00:15:12,590
 Les Sept Grands Corsaires
 
-770
+534
 00:15:12,590 --> 00:15:12,640
 Quatre Empereurs
-
-771
-00:15:12,590 --> 00:15:12,640
 Marine
-
-772
-00:15:12,590 --> 00:15:12,640
 Les Sept Grands Corsaires
 
-773
+535
 00:15:12,640 --> 00:15:12,680
 Quatre Empereurs
-
-774
-00:15:12,640 --> 00:15:12,680
 Marine
-
-775
-00:15:12,640 --> 00:15:12,680
 Les Sept Grands Corsaires
 
-776
+536
 00:15:12,680 --> 00:15:12,720
 Quatre Empereurs
-
-777
-00:15:12,680 --> 00:15:12,720
 Marine
-
-778
-00:15:12,680 --> 00:15:12,720
 Les Sept Grands Corsaires
 
-779
+537
 00:15:12,720 --> 00:15:12,760
 Quatre Empereurs
-
-780
-00:15:12,720 --> 00:15:12,760
 Marine
-
-781
-00:15:12,720 --> 00:15:12,760
 Les Sept Grands Corsaires
 
-782
+538
 00:15:12,760 --> 00:15:12,800
 Quatre Empereurs
-
-783
-00:15:12,760 --> 00:15:12,800
 Marine
-
-784
-00:15:12,760 --> 00:15:12,800
 Les Sept Grands Corsaires
 
-785
+539
 00:15:12,800 --> 00:15:12,850
 Quatre Empereurs
-
-786
-00:15:12,800 --> 00:15:12,850
 Marine
-
-787
-00:15:12,800 --> 00:15:12,850
 Les Sept Grands Corsaires
 
-788
+540
 00:15:12,850 --> 00:15:12,890
 Quatre Empereurs
-
-789
-00:15:12,850 --> 00:15:12,890
 Marine
-
-790
-00:15:12,850 --> 00:15:12,890
 Les Sept Grands Corsaires
 
-791
+541
 00:15:12,890 --> 00:15:12,930
 Quatre Empereurs
-
-792
-00:15:12,890 --> 00:15:12,930
 Marine
-
-793
-00:15:12,890 --> 00:15:12,930
 Les Sept Grands Corsaires
 
-794
+542
 00:15:13,470 --> 00:15:16,520
 des royaumes ont lourdement souffert.
 
-795
+543
 00:15:16,680 --> 00:15:20,020
 Ainsi, le royaume d’Alabasta,
 dirigé par Nefertari Cobra.
 
-796
+544
 00:15:20,520 --> 00:15:23,440
 Et le royaume de Dressrosa,
 de Riku Dold III.
 
-797
+545
 00:15:23,810 --> 00:15:26,780
 Ces dirigeants
 se sont dressés face aux Corsaires.
 
-798
+546
 00:15:27,480 --> 00:15:30,950
 C’est ainsi qu’après un débat enflammé
 lors de la Rêverie,
 
-799
+547
 00:15:31,070 --> 00:15:35,530
 une proposition emporta la majorité
 et fut adoptée par décret.
 
-800
+548
 00:15:36,950 --> 00:15:37,870
 Par conséquent,
 
-801
+549
 00:15:38,000 --> 00:15:42,290
 les Sept Grands Corsaires sont
 dorénavant privés de leurs privilèges
 
-802
+550
 00:15:42,460 --> 00:15:45,960
 et leurs liens avec le Gouvernement
 sont rompus.
 
-803
+551
 00:15:46,210 --> 00:15:47,340
 Autrement dit...
 
-804
+552
 00:15:47,000 --> 00:15:50,470
 Nouveau Monde
-
-805
-00:15:47,000 --> 00:15:50,470
 Île de Lacrahn-Ri
 
-806
+553
 00:15:47,840 --> 00:15:50,470
 Baggy, à présent…
 
-807
+554
 00:15:50,720 --> 00:15:53,010
 tu n’es plus qu’un simple pirate !
 
-808
+555
 00:15:54,140 --> 00:15:56,390
 C’est pas du jeu !
 
-809
+556
 00:15:56,600 --> 00:15:58,720
 Vous avez décidé ça dans votre coin !
 
-810
+557
 00:15:58,890 --> 00:16:01,270
 Vous nous jetez comme des vieux slips !
 
-811
+558
 00:16:01,440 --> 00:16:03,440
 Vous avez vraiment pas de race.
 
-812
+559
 00:16:03,690 --> 00:16:08,070
 C’est pas de ma faute si Crocodile
 et Doflamingo vous ont roulés !
 
-813
+560
 00:16:08,280 --> 00:16:11,200
 Vous vengez pas sur moi !
 
-814
+561
 00:16:11,320 --> 00:16:13,820
 Nous sommes encerclés.
 
-815
+562
 00:16:14,240 --> 00:16:15,700
 On fait quoi ?
 
-816
+563
 00:16:16,870 --> 00:16:20,790
 Mes projets de carrières sont foutus.
 
-817
+564
 00:16:21,330 --> 00:16:22,460
 Ben quoi ?
 
-818
+565
 00:16:22,290 --> 00:16:27,730
 Sur une île
 du Nouveau Monde
 
-819
+566
 00:16:22,790 --> 00:16:25,750
 Pourquoi les soldats font ça ?
 Ils sont avec nous, non ?
 
-820
+567
 00:16:25,920 --> 00:16:27,960
 On fait quoi, maman ?
 
-821
+568
 00:16:28,300 --> 00:16:29,920
 Maman !
 
-822
+569
 00:16:31,630 --> 00:16:35,050
 Île de Kuraigana
 Ruines du Royaume de Seglock
 
-823
+570
 00:16:31,800 --> 00:16:35,050
 Rendez-vous sur-le-champ,
 Mihawk Œil de Faucon.
 
-824
+571
 00:16:35,510 --> 00:16:37,390
 Capitulez sans faire d’histoires.
 
-825
+572
 00:16:39,150 --> 00:16:42,160
 Île des Femmes,
 Amazon Lily
 
-826
+573
 00:16:39,390 --> 00:16:42,140
 Princesse serpent, c’est terrible !
 
-827
+574
 00:16:42,390 --> 00:16:46,190
 Ils viennent de te retirer
 ton titre de Grand Corsaire.
 
-828
+575
 00:16:47,060 --> 00:16:48,190
 Mami Nyon.
 
-829
+576
 00:16:48,520 --> 00:16:50,320
 Des navires arrivent.
 
-830
+577
 00:16:50,530 --> 00:16:51,650
 Quoi ?
 
-831
+578
 00:16:51,780 --> 00:16:53,950
 Ils sont déjà en mouvement ?
 
-832
+579
 00:16:55,110 --> 00:16:56,490
 Ne paniquez pas.
 
-833
+580
 00:16:58,120 --> 00:16:59,200
 Princesse serpent ?
 
-834
+581
 00:16:59,490 --> 00:17:01,700
 Je crois qu’ils ont oublié
 
-835
+582
 00:17:03,460 --> 00:17:04,670
 un petit détail.
 
-836
+583
 00:17:05,460 --> 00:17:07,980
 Ça craint, patron.
 
-837
+584
 00:17:08,210 --> 00:17:09,460
 On se casse ?
 
-838
+585
 00:17:10,210 --> 00:17:14,050
 Bien sûr que non,
 on va se battre en grandes pompes !
 
-839
+586
 00:17:18,890 --> 00:17:21,060
 Un peu de nerf,
 
-840
+587
 00:17:21,350 --> 00:17:23,560
 bande de loques !
 
-841
+588
 00:17:23,890 --> 00:17:25,060
 Ouais !
 
-842
+589
 00:17:25,190 --> 00:17:27,650
 Vive Baggy !
 
-843
+590
 00:17:27,810 --> 00:17:27,850
 Ancien Grand Corsaire
 
-844
+591
 00:17:27,850 --> 00:17:27,900
 Baggy le Clown aux Mille Pièces
-
-845
-00:17:27,850 --> 00:17:27,900
 Baggy's Delivery
-
-846
-00:17:27,850 --> 00:17:27,900
 Ancien Grand Corsaire
 
-847
+592
 00:17:27,900 --> 00:17:27,940
 Baggy le Clown aux Mille Pièces
-
-848
-00:17:27,900 --> 00:17:27,940
 Baggy's Delivery
-
-849
-00:17:27,900 --> 00:17:27,940
 Ancien Grand Corsaire
 
-850
+593
 00:17:27,940 --> 00:17:27,980
 Baggy le Clown aux Mille Pièces
-
-851
-00:17:27,940 --> 00:17:27,980
 Baggy's Delivery
-
-852
-00:17:27,940 --> 00:17:27,980
 Ancien Grand Corsaire
 
-853
+594
 00:17:27,980 --> 00:17:28,020
 Baggy le Clown aux Mille Pièces
-
-854
-00:17:27,980 --> 00:17:28,020
 Baggy's Delivery
-
-855
-00:17:27,980 --> 00:17:28,020
 Ancien Grand Corsaire
 
-856
+595
 00:17:28,030 --> 00:17:28,110
 Baggy le Clown aux Mille Pièces
-
-857
-00:17:28,030 --> 00:17:28,110
 Baggy's Delivery
-
-858
-00:17:28,030 --> 00:17:28,110
 Ancien Grand Corsaire
 
-859
+596
 00:17:28,110 --> 00:17:28,150
 Baggy le Clown aux Mille Pièces
-
-860
-00:17:28,110 --> 00:17:28,150
 Baggy's Delivery
-
-861
-00:17:28,110 --> 00:17:28,150
 Ancien Grand Corsaire
 
-862
+597
 00:17:28,150 --> 00:17:28,190
 Baggy le Clown aux Mille Pièces
-
-863
-00:17:28,150 --> 00:17:28,190
 Baggy's Delivery
-
-864
-00:17:28,150 --> 00:17:28,190
 Ancien Grand Corsaire
 
-865
+598
 00:17:28,190 --> 00:17:28,240
 Baggy le Clown aux Mille Pièces
-
-866
-00:17:28,190 --> 00:17:28,240
 Baggy's Delivery
-
-867
-00:17:28,190 --> 00:17:28,240
 Ancien Grand Corsaire
 
-868
+599
 00:17:28,240 --> 00:17:28,280
 Baggy le Clown aux Mille Pièces
-
-869
-00:17:28,240 --> 00:17:28,280
 Baggy's Delivery
-
-870
-00:17:28,240 --> 00:17:28,280
 Ancien Grand Corsaire
 
-871
+600
 00:17:28,280 --> 00:17:28,320
 Baggy le Clown aux Mille Pièces
-
-872
-00:17:28,280 --> 00:17:28,320
 Baggy's Delivery
-
-873
-00:17:28,280 --> 00:17:28,320
 Ancien Grand Corsaire
 
-874
+601
 00:17:28,280 --> 00:17:28,610
 Ancien Grand Corsaire
 
-875
+602
 00:17:28,320 --> 00:17:28,360
 Baggy le Clown aux Mille Pièces
 
-876
+603
 00:17:28,320 --> 00:17:28,610
 Baggy le Clown aux Mille Pièces
 
-877
+604
 00:17:28,360 --> 00:17:28,400
 Baggy le Clown aux Mille Pièces
 
-878
+605
 00:17:28,400 --> 00:17:28,440
 Baggy le Clown aux Mille Pièces
 
-879
+606
 00:17:28,440 --> 00:17:28,490
 Baggy le Clown aux Mille Pièces
 
-880
+607
 00:17:28,490 --> 00:17:28,530
 Baggy le Clown aux Mille Pièces
 
-881
+608
 00:17:28,530 --> 00:17:28,570
 Baggy le Clown aux Mille Pièces
 
-882
+609
 00:17:28,570 --> 00:17:28,610
 Baggy le Clown aux Mille Pièces
 
-883
+610
 00:17:28,610 --> 00:17:28,650
 Baggy le Clown aux Mille Pièces
-
-884
-00:17:28,610 --> 00:17:28,650
 Ancien Grand Corsaire
 
-885
+611
 00:17:28,650 --> 00:17:28,690
 Baggy le Clown aux Mille Pièces
-
-886
-00:17:28,650 --> 00:17:28,690
 Ancien Grand Corsaire
 
-887
+612
 00:17:28,690 --> 00:17:28,730
 Baggy le Clown aux Mille Pièces
-
-888
-00:17:28,690 --> 00:17:28,730
 Ancien Grand Corsaire
 
-889
+613
 00:17:28,730 --> 00:17:28,770
 Baggy le Clown aux Mille Pièces
-
-890
-00:17:28,730 --> 00:17:28,770
 Ancien Grand Corsaire
 
-891
+614
 00:17:28,770 --> 00:17:28,810
 Baggy le Clown aux Mille Pièces
-
-892
-00:17:28,770 --> 00:17:28,810
 Ancien Grand Corsaire
 
-893
+615
 00:17:28,810 --> 00:17:28,860
 Baggy le Clown aux Mille Pièces
-
-894
-00:17:28,810 --> 00:17:28,860
 Baggy's Delivery
-
-895
-00:17:28,810 --> 00:17:28,860
 Ancien Grand Corsaire
 
-896
+616
 00:17:28,860 --> 00:17:28,900
 Baggy le Clown aux Mille Pièces
-
-897
-00:17:28,860 --> 00:17:28,900
 Baggy's Delivery
-
-898
-00:17:28,860 --> 00:17:28,900
 Ancien Grand Corsaire
 
-899
+617
 00:17:28,900 --> 00:17:28,940
 Baggy le Clown aux Mille Pièces
-
-900
-00:17:28,900 --> 00:17:28,940
 Baggy's Delivery
-
-901
-00:17:28,900 --> 00:17:28,940
 Ancien Grand Corsaire
 
-902
+618
 00:17:28,940 --> 00:17:28,980
 Baggy le Clown aux Mille Pièces
-
-903
-00:17:28,940 --> 00:17:28,980
 Baggy's Delivery
-
-904
-00:17:28,940 --> 00:17:28,980
 Ancien Grand Corsaire
 
-905
+619
 00:17:28,980 --> 00:17:29,020
 Baggy le Clown aux Mille Pièces
-
-906
-00:17:28,980 --> 00:17:29,020
 Baggy's Delivery
-
-907
-00:17:28,980 --> 00:17:29,020
 Ancien Grand Corsaire
 
-908
+620
 00:17:29,020 --> 00:17:29,060
 Baggy le Clown aux Mille Pièces
-
-909
-00:17:29,020 --> 00:17:29,060
 Baggy's Delivery
-
-910
-00:17:29,020 --> 00:17:29,060
 Ancien Grand Corsaire
 
-911
+621
 00:17:29,060 --> 00:17:29,110
 Baggy le Clown aux Mille Pièces
-
-912
-00:17:29,060 --> 00:17:29,110
 Baggy's Delivery
-
-913
-00:17:29,060 --> 00:17:29,110
 Ancien Grand Corsaire
 
-914
+622
 00:17:29,110 --> 00:17:29,150
 Baggy le Clown aux Mille Pièces
-
-915
-00:17:29,110 --> 00:17:29,150
 Baggy's Delivery
-
-916
-00:17:29,110 --> 00:17:29,150
 Ancien Grand Corsaire
 
-917
+623
 00:17:29,150 --> 00:17:29,190
 Baggy le Clown aux Mille Pièces
-
-918
-00:17:29,150 --> 00:17:29,190
 Baggy's Delivery
-
-919
-00:17:29,150 --> 00:17:29,190
 Ancien Grand Corsaire
 
-920
+624
 00:17:29,190 --> 00:17:29,230
 Baggy le Clown aux Mille Pièces
-
-921
-00:17:29,190 --> 00:17:29,230
 Baggy's Delivery
-
-922
-00:17:29,190 --> 00:17:29,230
 Ancien Grand Corsaire
 
-923
+625
 00:17:29,230 --> 00:17:29,270
 Baggy le Clown aux Mille Pièces
-
-924
-00:17:29,230 --> 00:17:29,270
 Baggy's Delivery
-
-925
-00:17:29,230 --> 00:17:29,270
 Ancien Grand Corsaire
 
-926
+626
 00:17:29,270 --> 00:17:29,310
 Baggy le Clown aux Mille Pièces
-
-927
-00:17:29,270 --> 00:17:29,310
 Baggy's Delivery
-
-928
-00:17:29,270 --> 00:17:29,310
 Ancien Grand Corsaire
 
-929
+627
 00:17:29,310 --> 00:17:29,360
 Baggy le Clown aux Mille Pièces
-
-930
-00:17:29,310 --> 00:17:29,360
 Baggy's Delivery
-
-931
-00:17:29,310 --> 00:17:29,360
 Ancien Grand Corsaire
 
-932
+628
 00:17:29,360 --> 00:17:29,400
 Baggy le Clown aux Mille Pièces
-
-933
-00:17:29,360 --> 00:17:29,400
 Baggy's Delivery
-
-934
-00:17:29,360 --> 00:17:29,400
 Ancien Grand Corsaire
 
-935
+629
 00:17:29,400 --> 00:17:33,190
 Baggy ! Baggy !
 
-936
+630
 00:17:29,400 --> 00:17:29,440
 Baggy le Clown aux Mille Pièces
-
-937
-00:17:29,400 --> 00:17:29,440
 Baggy's Delivery
-
-938
-00:17:29,400 --> 00:17:29,440
 Ancien Grand Corsaire
 
-939
+631
 00:17:29,440 --> 00:17:29,480
 Baggy le Clown aux Mille Pièces
-
-940
-00:17:29,440 --> 00:17:29,480
 Baggy's Delivery
-
-941
-00:17:29,440 --> 00:17:29,480
 Ancien Grand Corsaire
 
-942
+632
 00:17:29,480 --> 00:17:29,520
 Baggy le Clown aux Mille Pièces
-
-943
-00:17:29,480 --> 00:17:29,520
 Baggy's Delivery
-
-944
-00:17:29,480 --> 00:17:29,520
 Ancien Grand Corsaire
 
-945
+633
 00:17:29,520 --> 00:17:29,570
 Baggy le Clown aux Mille Pièces
-
-946
-00:17:29,520 --> 00:17:29,570
 Baggy's Delivery
-
-947
-00:17:29,520 --> 00:17:29,570
 Ancien Grand Corsaire
 
-948
+634
 00:17:29,570 --> 00:17:29,610
 Baggy le Clown aux Mille Pièces
-
-949
-00:17:29,570 --> 00:17:29,610
 Baggy's Delivery
-
-950
-00:17:29,570 --> 00:17:29,610
 Ancien Grand Corsaire
 
-951
+635
 00:17:29,610 --> 00:17:29,650
 Baggy le Clown aux Mille Pièces
-
-952
-00:17:29,610 --> 00:17:29,650
 Baggy's Delivery
-
-953
-00:17:29,610 --> 00:17:29,650
 Ancien Grand Corsaire
 
-954
+636
 00:17:29,650 --> 00:17:29,690
 Baggy le Clown aux Mille Pièces
-
-955
-00:17:29,650 --> 00:17:29,690
 Baggy's Delivery
-
-956
-00:17:29,650 --> 00:17:29,690
 Ancien Grand Corsaire
 
-957
+637
 00:17:29,690 --> 00:17:29,730
 Baggy le Clown aux Mille Pièces
-
-958
-00:17:29,690 --> 00:17:29,730
 Baggy's Delivery
-
-959
-00:17:29,690 --> 00:17:29,730
 Ancien Grand Corsaire
 
-960
+638
 00:17:29,730 --> 00:17:29,770
 Baggy le Clown aux Mille Pièces
-
-961
-00:17:29,730 --> 00:17:29,770
 Baggy's Delivery
-
-962
-00:17:29,730 --> 00:17:29,770
 Ancien Grand Corsaire
 
-963
+639
 00:17:29,770 --> 00:17:29,820
 Baggy le Clown aux Mille Pièces
-
-964
-00:17:29,770 --> 00:17:29,820
 Baggy's Delivery
-
-965
-00:17:29,770 --> 00:17:29,820
 Ancien Grand Corsaire
 
-966
+640
 00:17:29,820 --> 00:17:29,860
 Baggy le Clown aux Mille Pièces
-
-967
-00:17:29,820 --> 00:17:29,860
 Baggy's Delivery
-
-968
-00:17:29,820 --> 00:17:29,860
 Ancien Grand Corsaire
 
-969
+641
 00:17:29,860 --> 00:17:29,900
 Baggy le Clown aux Mille Pièces
-
-970
-00:17:29,860 --> 00:17:29,900
 Baggy's Delivery
-
-971
-00:17:29,860 --> 00:17:29,900
 Ancien Grand Corsaire
 
-972
+642
 00:17:29,900 --> 00:17:29,940
 Baggy le Clown aux Mille Pièces
-
-973
-00:17:29,900 --> 00:17:29,940
 Baggy's Delivery
-
-974
-00:17:29,900 --> 00:17:29,940
 Ancien Grand Corsaire
 
-975
+643
 00:17:29,940 --> 00:17:29,980
 Baggy le Clown aux Mille Pièces
-
-976
-00:17:29,940 --> 00:17:29,980
 Baggy's Delivery
-
-977
-00:17:29,940 --> 00:17:29,980
 Ancien Grand Corsaire
 
-978
+644
 00:17:29,980 --> 00:17:30,020
 Baggy le Clown aux Mille Pièces
-
-979
-00:17:29,980 --> 00:17:30,020
 Baggy's Delivery
-
-980
-00:17:29,980 --> 00:17:30,020
 Ancien Grand Corsaire
 
-981
+645
 00:17:30,020 --> 00:17:30,070
 Baggy le Clown aux Mille Pièces
-
-982
-00:17:30,020 --> 00:17:30,070
 Baggy's Delivery
-
-983
-00:17:30,020 --> 00:17:30,070
 Ancien Grand Corsaire
 
-984
+646
 00:17:30,070 --> 00:17:30,110
 Baggy le Clown aux Mille Pièces
-
-985
-00:17:30,070 --> 00:17:30,110
 Baggy's Delivery
-
-986
-00:17:30,070 --> 00:17:30,110
 Ancien Grand Corsaire
 
-987
+647
 00:17:30,110 --> 00:17:30,150
 Baggy le Clown aux Mille Pièces
-
-988
-00:17:30,110 --> 00:17:30,150
 Baggy's Delivery
-
-989
-00:17:30,110 --> 00:17:30,150
 Ancien Grand Corsaire
 
-990
+648
 00:17:30,150 --> 00:17:30,190
 Baggy le Clown aux Mille Pièces
-
-991
-00:17:30,150 --> 00:17:30,190
 Baggy's Delivery
-
-992
-00:17:30,150 --> 00:17:30,190
 Ancien Grand Corsaire
 
-993
+649
 00:17:30,190 --> 00:17:30,230
 Baggy le Clown aux Mille Pièces
-
-994
-00:17:30,190 --> 00:17:30,230
 Baggy's Delivery
-
-995
-00:17:30,190 --> 00:17:30,230
 Ancien Grand Corsaire
 
-996
+650
 00:17:30,230 --> 00:17:30,270
 Baggy le Clown aux Mille Pièces
-
-997
-00:17:30,230 --> 00:17:30,270
 Baggy's Delivery
-
-998
-00:17:30,230 --> 00:17:30,270
 Ancien Grand Corsaire
 
-999
+651
 00:17:30,270 --> 00:17:30,320
 Baggy le Clown aux Mille Pièces
-
-1000
-00:17:30,270 --> 00:17:30,320
 Baggy's Delivery
-
-1001
-00:17:30,270 --> 00:17:30,320
 Ancien Grand Corsaire
 
-1002
+652
 00:17:30,320 --> 00:17:30,360
 Baggy le Clown aux Mille Pièces
-
-1003
-00:17:30,320 --> 00:17:30,360
 Baggy's Delivery
-
-1004
-00:17:30,320 --> 00:17:30,360
 Ancien Grand Corsaire
 
-1005
+653
 00:17:30,360 --> 00:17:30,400
 Baggy le Clown aux Mille Pièces
-
-1006
-00:17:30,360 --> 00:17:30,400
 Baggy's Delivery
-
-1007
-00:17:30,360 --> 00:17:30,400
 Ancien Grand Corsaire
 
-1008
+654
 00:17:30,400 --> 00:17:30,440
 Baggy le Clown aux Mille Pièces
-
-1009
-00:17:30,400 --> 00:17:30,440
 Baggy's Delivery
-
-1010
-00:17:30,400 --> 00:17:30,440
 Ancien Grand Corsaire
 
-1011
+655
 00:17:30,440 --> 00:17:30,480
 Baggy le Clown aux Mille Pièces
-
-1012
-00:17:30,440 --> 00:17:30,480
 Baggy's Delivery
-
-1013
-00:17:30,440 --> 00:17:30,480
 Ancien Grand Corsaire
 
-1014
+656
 00:17:30,480 --> 00:17:30,520
 Baggy le Clown aux Mille Pièces
-
-1015
-00:17:30,480 --> 00:17:30,520
 Baggy's Delivery
-
-1016
-00:17:30,480 --> 00:17:30,520
 Ancien Grand Corsaire
 
-1017
+657
 00:17:30,520 --> 00:17:30,570
 Baggy le Clown aux Mille Pièces
-
-1018
-00:17:30,520 --> 00:17:30,570
 Baggy's Delivery
-
-1019
-00:17:30,520 --> 00:17:30,570
 Ancien Grand Corsaire
 
-1020
+658
 00:17:30,570 --> 00:17:30,610
 Baggy le Clown aux Mille Pièces
-
-1021
-00:17:30,570 --> 00:17:30,610
 Baggy's Delivery
-
-1022
-00:17:30,570 --> 00:17:30,610
 Ancien Grand Corsaire
 
-1023
+659
 00:17:30,610 --> 00:17:30,650
 Baggy le Clown aux Mille Pièces
-
-1024
-00:17:30,610 --> 00:17:30,650
 Baggy's Delivery
-
-1025
-00:17:30,610 --> 00:17:30,650
 Ancien Grand Corsaire
 
-1026
+660
 00:17:30,650 --> 00:17:30,690
 Baggy le Clown aux Mille Pièces
-
-1027
-00:17:30,650 --> 00:17:30,690
 Baggy's Delivery
-
-1028
-00:17:30,650 --> 00:17:30,690
 Ancien Grand Corsaire
 
-1029
+661
 00:17:30,690 --> 00:17:30,730
 Baggy le Clown aux Mille Pièces
-
-1030
-00:17:30,690 --> 00:17:30,730
 Baggy's Delivery
-
-1031
-00:17:30,690 --> 00:17:30,730
 Ancien Grand Corsaire
 
-1032
+662
 00:17:30,730 --> 00:17:30,770
 Baggy le Clown aux Mille Pièces
-
-1033
-00:17:30,730 --> 00:17:30,770
 Baggy's Delivery
-
-1034
-00:17:30,730 --> 00:17:30,770
 Ancien Grand Corsaire
 
-1035
+663
 00:17:30,770 --> 00:17:30,820
 Baggy le Clown aux Mille Pièces
-
-1036
-00:17:30,770 --> 00:17:30,820
 Baggy's Delivery
-
-1037
-00:17:30,770 --> 00:17:30,820
 Ancien Grand Corsaire
 
-1038
+664
 00:17:30,820 --> 00:17:30,860
 Baggy le Clown aux Mille Pièces
-
-1039
-00:17:30,820 --> 00:17:30,860
 Baggy's Delivery
-
-1040
-00:17:30,820 --> 00:17:30,860
 Ancien Grand Corsaire
 
-1041
+665
 00:17:30,860 --> 00:17:30,900
 Baggy le Clown aux Mille Pièces
-
-1042
-00:17:30,860 --> 00:17:30,900
 Baggy's Delivery
-
-1043
-00:17:30,860 --> 00:17:30,900
 Ancien Grand Corsaire
 
-1044
+666
 00:17:30,900 --> 00:17:30,940
 Baggy le Clown aux Mille Pièces
-
-1045
-00:17:30,900 --> 00:17:30,940
 Baggy's Delivery
-
-1046
-00:17:30,900 --> 00:17:30,940
 Ancien Grand Corsaire
 
-1047
+667
 00:17:30,940 --> 00:17:30,980
 Baggy le Clown aux Mille Pièces
-
-1048
-00:17:30,940 --> 00:17:30,980
 Baggy's Delivery
-
-1049
-00:17:30,940 --> 00:17:30,980
 Ancien Grand Corsaire
 
-1050
+668
 00:17:30,980 --> 00:17:31,020
 Baggy le Clown aux Mille Pièces
-
-1051
-00:17:30,980 --> 00:17:31,020
 Baggy's Delivery
-
-1052
-00:17:30,980 --> 00:17:31,020
 Ancien Grand Corsaire
 
-1053
+669
 00:17:31,020 --> 00:17:31,070
 Baggy le Clown aux Mille Pièces
-
-1054
-00:17:31,020 --> 00:17:31,070
 Baggy's Delivery
-
-1055
-00:17:31,020 --> 00:17:31,070
 Ancien Grand Corsaire
 
-1056
+670
 00:17:31,070 --> 00:17:31,110
 Baggy le Clown aux Mille Pièces
-
-1057
-00:17:31,070 --> 00:17:31,110
 Baggy's Delivery
-
-1058
-00:17:31,070 --> 00:17:31,110
 Ancien Grand Corsaire
 
-1059
+671
 00:17:31,110 --> 00:17:31,150
 Baggy le Clown aux Mille Pièces
-
-1060
-00:17:31,110 --> 00:17:31,150
 Baggy's Delivery
-
-1061
-00:17:31,110 --> 00:17:31,150
 Ancien Grand Corsaire
 
-1062
+672
 00:17:31,150 --> 00:17:31,190
 Baggy le Clown aux Mille Pièces
-
-1063
-00:17:31,150 --> 00:17:31,190
 Baggy's Delivery
-
-1064
-00:17:31,150 --> 00:17:31,190
 Ancien Grand Corsaire
 
-1065
+673
 00:17:31,190 --> 00:17:31,230
 Baggy le Clown aux Mille Pièces
-
-1066
-00:17:31,190 --> 00:17:31,230
 Baggy's Delivery
-
-1067
-00:17:31,190 --> 00:17:31,230
 Ancien Grand Corsaire
 
-1068
+674
 00:17:31,230 --> 00:17:31,280
 Baggy le Clown aux Mille Pièces
-
-1069
-00:17:31,230 --> 00:17:31,280
 Baggy's Delivery
-
-1070
-00:17:31,230 --> 00:17:31,280
 Ancien Grand Corsaire
 
-1071
+675
 00:17:31,280 --> 00:17:31,320
 Baggy le Clown aux Mille Pièces
-
-1072
-00:17:31,280 --> 00:17:31,320
 Baggy's Delivery
-
-1073
-00:17:31,280 --> 00:17:31,320
 Ancien Grand Corsaire
 
-1074
+676
 00:17:31,320 --> 00:17:31,360
 Baggy le Clown aux Mille Pièces
-
-1075
-00:17:31,320 --> 00:17:31,360
 Baggy's Delivery
-
-1076
-00:17:31,320 --> 00:17:31,360
 Ancien Grand Corsaire
 
-1077
+677
 00:17:31,360 --> 00:17:31,400
 Baggy le Clown aux Mille Pièces
-
-1078
-00:17:31,360 --> 00:17:31,400
 Baggy's Delivery
-
-1079
-00:17:31,360 --> 00:17:31,400
 Ancien Grand Corsaire
 
-1080
+678
 00:17:31,400 --> 00:17:31,440
 Baggy le Clown aux Mille Pièces
-
-1081
-00:17:31,400 --> 00:17:31,440
 Baggy's Delivery
-
-1082
-00:17:31,400 --> 00:17:31,440
 Ancien Grand Corsaire
 
-1083
+679
 00:17:31,440 --> 00:17:31,480
 Baggy le Clown aux Mille Pièces
-
-1084
-00:17:31,440 --> 00:17:31,480
 Baggy's Delivery
-
-1085
-00:17:31,440 --> 00:17:31,480
 Ancien Grand Corsaire
 
-1086
+680
 00:17:31,480 --> 00:17:31,530
 Baggy le Clown aux Mille Pièces
-
-1087
-00:17:31,480 --> 00:17:31,530
 Baggy's Delivery
-
-1088
-00:17:31,480 --> 00:17:31,530
 Ancien Grand Corsaire
 
-1089
+681
 00:17:31,530 --> 00:17:31,570
 Baggy le Clown aux Mille Pièces
-
-1090
-00:17:31,530 --> 00:17:31,570
 Baggy's Delivery
-
-1091
-00:17:31,530 --> 00:17:31,570
 Ancien Grand Corsaire
 
-1092
+682
 00:17:31,570 --> 00:17:31,610
 Baggy le Clown aux Mille Pièces
-
-1093
-00:17:31,570 --> 00:17:31,610
 Baggy's Delivery
-
-1094
-00:17:31,570 --> 00:17:31,610
 Ancien Grand Corsaire
 
-1095
+683
 00:17:31,610 --> 00:17:31,650
 Baggy le Clown aux Mille Pièces
-
-1096
-00:17:31,610 --> 00:17:31,650
 Baggy's Delivery
-
-1097
-00:17:31,610 --> 00:17:31,650
 Ancien Grand Corsaire
 
-1098
+684
 00:17:31,650 --> 00:17:31,690
 Baggy le Clown aux Mille Pièces
-
-1099
-00:17:31,650 --> 00:17:31,690
 Baggy's Delivery
-
-1100
-00:17:31,650 --> 00:17:31,690
 Ancien Grand Corsaire
 
-1101
+685
 00:17:31,690 --> 00:17:31,730
 Baggy le Clown aux Mille Pièces
-
-1102
-00:17:31,690 --> 00:17:31,730
 Baggy's Delivery
-
-1103
-00:17:31,690 --> 00:17:31,730
 Ancien Grand Corsaire
 
-1104
+686
 00:17:31,730 --> 00:17:31,780
 Baggy le Clown aux Mille Pièces
-
-1105
-00:17:31,730 --> 00:17:31,780
 Baggy's Delivery
-
-1106
-00:17:31,730 --> 00:17:31,780
 Ancien Grand Corsaire
 
-1107
+687
 00:17:31,780 --> 00:17:31,820
 Baggy le Clown aux Mille Pièces
-
-1108
-00:17:31,780 --> 00:17:31,820
 Baggy's Delivery
-
-1109
-00:17:31,780 --> 00:17:31,820
 Ancien Grand Corsaire
 
-1110
+688
 00:17:31,820 --> 00:17:31,860
 Baggy le Clown aux Mille Pièces
-
-1111
-00:17:31,820 --> 00:17:31,860
 Baggy's Delivery
-
-1112
-00:17:31,820 --> 00:17:31,860
 Ancien Grand Corsaire
 
-1113
+689
 00:17:31,860 --> 00:17:31,900
 Baggy le Clown aux Mille Pièces
-
-1114
-00:17:31,860 --> 00:17:31,900
 Baggy's Delivery
-
-1115
-00:17:31,860 --> 00:17:31,900
 Ancien Grand Corsaire
 
-1116
+690
 00:17:31,900 --> 00:17:31,940
 Baggy le Clown aux Mille Pièces
-
-1117
-00:17:31,900 --> 00:17:31,940
 Baggy's Delivery
-
-1118
-00:17:31,900 --> 00:17:31,940
 Ancien Grand Corsaire
 
-1119
+691
 00:17:31,940 --> 00:17:31,980
 Baggy le Clown aux Mille Pièces
-
-1120
-00:17:31,940 --> 00:17:31,980
 Baggy's Delivery
-
-1121
-00:17:31,940 --> 00:17:31,980
 Ancien Grand Corsaire
 
-1122
+692
 00:17:31,980 --> 00:17:32,030
 Baggy le Clown aux Mille Pièces
-
-1123
-00:17:31,980 --> 00:17:32,030
 Baggy's Delivery
-
-1124
-00:17:31,980 --> 00:17:32,030
 Ancien Grand Corsaire
 
-1125
+693
 00:17:32,030 --> 00:17:32,070
 Baggy le Clown aux Mille Pièces
-
-1126
-00:17:32,030 --> 00:17:32,070
 Baggy's Delivery
-
-1127
-00:17:32,030 --> 00:17:32,070
 Ancien Grand Corsaire
 
-1128
+694
 00:17:32,070 --> 00:17:32,110
 Baggy le Clown aux Mille Pièces
-
-1129
-00:17:32,070 --> 00:17:32,110
 Baggy's Delivery
-
-1130
-00:17:32,070 --> 00:17:32,110
 Ancien Grand Corsaire
 
-1131
+695
 00:17:32,110 --> 00:17:32,150
 Baggy le Clown aux Mille Pièces
-
-1132
-00:17:32,110 --> 00:17:32,150
 Baggy's Delivery
-
-1133
-00:17:32,110 --> 00:17:32,150
 Ancien Grand Corsaire
 
-1134
+696
 00:17:32,150 --> 00:17:32,190
 Baggy le Clown aux Mille Pièces
-
-1135
-00:17:32,150 --> 00:17:32,190
 Baggy's Delivery
-
-1136
-00:17:32,150 --> 00:17:32,190
 Ancien Grand Corsaire
 
-1137
+697
 00:17:32,190 --> 00:17:32,230
 Baggy le Clown aux Mille Pièces
-
-1138
-00:17:32,190 --> 00:17:32,230
 Baggy's Delivery
-
-1139
-00:17:32,190 --> 00:17:32,230
 Ancien Grand Corsaire
 
-1140
+698
 00:17:32,230 --> 00:17:32,280
 Baggy le Clown aux Mille Pièces
-
-1141
-00:17:32,230 --> 00:17:32,280
 Baggy's Delivery
-
-1142
-00:17:32,230 --> 00:17:32,280
 Ancien Grand Corsaire
 
-1143
+699
 00:17:32,280 --> 00:17:32,320
 Baggy le Clown aux Mille Pièces
-
-1144
-00:17:32,280 --> 00:17:32,320
 Baggy's Delivery
-
-1145
-00:17:32,280 --> 00:17:32,320
 Ancien Grand Corsaire
 
-1146
+700
 00:17:32,320 --> 00:17:32,360
 Baggy le Clown aux Mille Pièces
-
-1147
-00:17:32,320 --> 00:17:32,360
 Baggy's Delivery
-
-1148
-00:17:32,320 --> 00:17:32,360
 Ancien Grand Corsaire
 
-1149
+701
 00:17:32,360 --> 00:17:32,400
 Baggy le Clown aux Mille Pièces
-
-1150
-00:17:32,360 --> 00:17:32,400
 Baggy's Delivery
-
-1151
-00:17:32,360 --> 00:17:32,400
 Ancien Grand Corsaire
 
-1152
+702
 00:17:32,400 --> 00:17:32,440
 Baggy le Clown aux Mille Pièces
-
-1153
-00:17:32,400 --> 00:17:32,440
 Baggy's Delivery
-
-1154
-00:17:32,400 --> 00:17:32,440
 Ancien Grand Corsaire
 
-1155
+703
 00:17:32,440 --> 00:17:32,480
 Baggy le Clown aux Mille Pièces
-
-1156
-00:17:32,440 --> 00:17:32,480
 Baggy's Delivery
-
-1157
-00:17:32,440 --> 00:17:32,480
 Ancien Grand Corsaire
 
-1158
+704
 00:17:32,480 --> 00:17:32,530
 Baggy le Clown aux Mille Pièces
-
-1159
-00:17:32,480 --> 00:17:32,530
 Baggy's Delivery
-
-1160
-00:17:32,480 --> 00:17:32,530
 Ancien Grand Corsaire
 
-1161
+705
 00:17:32,530 --> 00:17:32,570
 Baggy le Clown aux Mille Pièces
-
-1162
-00:17:32,530 --> 00:17:32,570
 Baggy's Delivery
-
-1163
-00:17:32,530 --> 00:17:32,570
 Ancien Grand Corsaire
 
-1164
+706
 00:17:32,570 --> 00:17:32,610
 Baggy le Clown aux Mille Pièces
-
-1165
-00:17:32,570 --> 00:17:32,610
 Baggy's Delivery
-
-1166
-00:17:32,570 --> 00:17:32,610
 Ancien Grand Corsaire
 
-1167
+707
 00:17:32,610 --> 00:17:32,650
 Baggy le Clown aux Mille Pièces
-
-1168
-00:17:32,610 --> 00:17:32,650
 Baggy's Delivery
-
-1169
-00:17:32,610 --> 00:17:32,650
 Ancien Grand Corsaire
 
-1170
+708
 00:17:32,650 --> 00:17:32,690
 Baggy le Clown aux Mille Pièces
-
-1171
-00:17:32,650 --> 00:17:32,690
 Baggy's Delivery
-
-1172
-00:17:32,650 --> 00:17:32,690
 Ancien Grand Corsaire
 
-1173
+709
 00:17:32,690 --> 00:17:32,730
 Baggy le Clown aux Mille Pièces
-
-1174
-00:17:32,690 --> 00:17:32,730
 Baggy's Delivery
-
-1175
-00:17:32,690 --> 00:17:32,730
 Ancien Grand Corsaire
 
-1176
+710
 00:17:32,730 --> 00:17:32,780
 Baggy le Clown aux Mille Pièces
-
-1177
-00:17:32,730 --> 00:17:32,780
 Baggy's Delivery
-
-1178
-00:17:32,730 --> 00:17:32,780
 Ancien Grand Corsaire
 
-1179
+711
 00:17:32,780 --> 00:17:32,820
 Baggy le Clown aux Mille Pièces
-
-1180
-00:17:32,780 --> 00:17:32,820
 Baggy's Delivery
-
-1181
-00:17:32,780 --> 00:17:32,820
 Ancien Grand Corsaire
 
-1182
+712
 00:17:32,820 --> 00:17:32,860
 Baggy le Clown aux Mille Pièces
-
-1183
-00:17:32,820 --> 00:17:32,860
 Baggy's Delivery
-
-1184
-00:17:32,820 --> 00:17:32,860
 Ancien Grand Corsaire
 
-1185
+713
 00:17:32,860 --> 00:17:32,900
 Baggy le Clown aux Mille Pièces
-
-1186
-00:17:32,860 --> 00:17:32,900
 Baggy's Delivery
-
-1187
-00:17:32,860 --> 00:17:32,900
 Ancien Grand Corsaire
 
-1188
+714
 00:17:32,900 --> 00:17:32,940
 Baggy le Clown aux Mille Pièces
-
-1189
-00:17:32,900 --> 00:17:32,940
 Baggy's Delivery
-
-1190
-00:17:32,900 --> 00:17:32,940
 Ancien Grand Corsaire
 
-1191
+715
 00:17:32,940 --> 00:17:32,990
 Baggy le Clown aux Mille Pièces
-
-1192
-00:17:32,940 --> 00:17:32,990
 Baggy's Delivery
-
-1193
-00:17:32,940 --> 00:17:32,990
 Ancien Grand Corsaire
 
-1194
+716
 00:17:32,990 --> 00:17:33,030
 Baggy le Clown aux Mille Pièces
-
-1195
-00:17:32,990 --> 00:17:33,030
 Baggy's Delivery
-
-1196
-00:17:32,990 --> 00:17:33,030
 Ancien Grand Corsaire
 
-1197
+717
 00:17:33,030 --> 00:17:33,070
 Baggy le Clown aux Mille Pièces
-
-1198
-00:17:33,030 --> 00:17:33,070
 Baggy's Delivery
-
-1199
-00:17:33,030 --> 00:17:33,070
 Ancien Grand Corsaire
 
-1200
+718
 00:17:33,070 --> 00:17:33,110
 Baggy le Clown aux Mille Pièces
-
-1201
-00:17:33,070 --> 00:17:33,110
 Baggy's Delivery
-
-1202
-00:17:33,070 --> 00:17:33,110
 Ancien Grand Corsaire
 
-1203
+719
 00:17:33,110 --> 00:17:33,150
 Baggy le Clown aux Mille Pièces
-
-1204
-00:17:33,110 --> 00:17:33,150
 Baggy's Delivery
-
-1205
-00:17:33,110 --> 00:17:33,150
 Ancien Grand Corsaire
 
-1206
+720
 00:17:33,150 --> 00:17:33,190
 Baggy le Clown aux Mille Pièces
-
-1207
-00:17:33,150 --> 00:17:33,190
 Baggy's Delivery
-
-1208
-00:17:33,150 --> 00:17:33,190
 Ancien Grand Corsaire
 
-1209
+721
 00:17:33,530 --> 00:17:36,610
 Ces rats nous ont trahis.
 
-1210
+722
 00:17:36,740 --> 00:17:38,910
 Ils vont payer.
 
-1211
+723
 00:17:39,370 --> 00:17:43,000
 Weevil !
 Tu peux t'occuper d'eux !
 
-1212
+724
 00:17:43,290 --> 00:17:44,410
 Vraiment ? Je peux ?
 
-1213
+725
 00:17:44,580 --> 00:17:47,500
 Dans ce cas, je vais tous les buter !
 
-1214
+726
 00:17:48,290 --> 00:17:48,330
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1215
+727
 00:17:48,330 --> 00:17:48,380
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1216
+728
 00:17:48,380 --> 00:17:48,420
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1217
+729
 00:17:48,420 --> 00:17:48,460
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1218
+730
 00:17:48,460 --> 00:17:48,500
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1219
+731
 00:17:48,510 --> 00:17:49,010
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1220
+732
 00:17:49,000 --> 00:17:49,040
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
-
-1221
-00:17:49,000 --> 00:17:49,040
 dward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1222
+733
 00:17:49,040 --> 00:17:49,080
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1223
+734
 00:17:49,080 --> 00:17:49,130
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1224
+735
 00:17:49,130 --> 00:17:49,170
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1225
+736
 00:17:49,170 --> 00:17:49,210
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1226
+737
 00:17:49,210 --> 00:17:49,250
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1227
+738
 00:17:49,250 --> 00:17:49,290
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1228
+739
 00:17:49,290 --> 00:17:49,330
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1229
+740
 00:17:49,330 --> 00:17:49,380
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1230
+741
 00:17:49,380 --> 00:17:49,420
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1231
+742
 00:17:49,420 --> 00:17:49,460
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1232
+743
 00:17:49,460 --> 00:17:49,500
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1233
+744
 00:17:49,500 --> 00:17:49,540
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1234
+745
 00:17:49,540 --> 00:17:49,590
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1235
+746
 00:17:49,590 --> 00:17:49,630
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1236
+747
 00:17:49,630 --> 00:17:49,670
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1237
+748
 00:17:49,670 --> 00:17:49,710
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1238
+749
 00:17:49,710 --> 00:17:52,590
 En l’honneur de Barbe Blanche !
 
-1239
+750
 00:17:49,710 --> 00:17:49,750
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1240
+751
 00:17:49,750 --> 00:17:49,790
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1241
+752
 00:17:49,790 --> 00:17:49,840
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1242
+753
 00:17:49,840 --> 00:17:49,880
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1243
+754
 00:17:49,880 --> 00:17:49,920
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1244
+755
 00:17:49,920 --> 00:17:49,960
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1245
+756
 00:17:49,960 --> 00:17:50,000
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1246
+757
 00:17:50,000 --> 00:17:50,040
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1247
+758
 00:17:50,040 --> 00:17:50,090
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1248
+759
 00:17:50,090 --> 00:17:50,130
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1249
+760
 00:17:50,130 --> 00:17:50,170
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1250
+761
 00:17:50,170 --> 00:17:50,210
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1251
+762
 00:17:50,210 --> 00:17:50,250
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1252
+763
 00:17:50,250 --> 00:17:50,290
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1253
+764
 00:17:50,290 --> 00:17:50,340
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1254
+765
 00:17:50,340 --> 00:17:50,380
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1255
+766
 00:17:50,380 --> 00:17:50,420
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1256
+767
 00:17:50,420 --> 00:17:50,460
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1257
+768
 00:17:50,460 --> 00:17:50,500
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1258
+769
 00:17:50,500 --> 00:17:50,540
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1259
+770
 00:17:50,540 --> 00:17:50,590
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1260
+771
 00:17:50,590 --> 00:17:50,630
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1261
+772
 00:17:50,630 --> 00:17:50,670
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1262
+773
 00:17:50,670 --> 00:17:50,710
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1263
+774
 00:17:50,710 --> 00:17:50,750
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1264
+775
 00:17:50,750 --> 00:17:50,790
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1265
+776
 00:17:50,790 --> 00:17:50,840
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1266
+777
 00:17:50,840 --> 00:17:50,880
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1267
+778
 00:17:50,880 --> 00:17:50,920
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1268
+779
 00:17:50,920 --> 00:17:50,960
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1269
+780
 00:17:50,960 --> 00:17:51,000
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1270
+781
 00:17:51,000 --> 00:17:51,040
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1271
+782
 00:17:51,040 --> 00:17:51,090
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1272
+783
 00:17:51,090 --> 00:17:51,130
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1273
+784
 00:17:51,130 --> 00:17:51,170
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1274
+785
 00:17:51,170 --> 00:17:51,210
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1275
+786
 00:17:51,210 --> 00:17:51,250
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1276
+787
 00:17:51,250 --> 00:17:51,300
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1277
+788
 00:17:51,300 --> 00:17:51,340
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1278
+789
 00:17:51,340 --> 00:17:51,380
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1279
+790
 00:17:51,380 --> 00:17:51,420
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1280
+791
 00:17:51,420 --> 00:17:51,460
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1281
+792
 00:17:51,460 --> 00:17:51,500
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1282
+793
 00:17:51,500 --> 00:17:51,550
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1283
+794
 00:17:51,550 --> 00:17:51,590
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1284
+795
 00:17:51,590 --> 00:17:51,630
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1285
+796
 00:17:51,630 --> 00:17:51,670
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1286
+797
 00:17:51,670 --> 00:17:51,710
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1287
+798
 00:17:51,710 --> 00:17:51,750
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1288
+799
 00:17:51,750 --> 00:17:51,800
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1289
+800
 00:17:51,800 --> 00:17:51,840
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1290
+801
 00:17:51,840 --> 00:17:51,880
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1291
+802
 00:17:51,880 --> 00:17:51,920
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1292
+803
 00:17:51,920 --> 00:17:51,960
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1293
+804
 00:17:51,960 --> 00:17:52,000
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1294
+805
 00:17:52,000 --> 00:17:52,050
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1295
+806
 00:17:52,050 --> 00:17:52,090
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1296
+807
 00:17:52,090 --> 00:17:52,130
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1297
+808
 00:17:52,130 --> 00:17:52,170
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1298
+809
 00:17:52,170 --> 00:17:52,210
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1299
+810
 00:17:52,210 --> 00:17:52,250
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1300
+811
 00:17:52,250 --> 00:17:52,300
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1301
+812
 00:17:52,300 --> 00:17:52,340
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1302
+813
 00:17:52,340 --> 00:17:52,380
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1303
+814
 00:17:52,380 --> 00:17:52,420
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1304
+815
 00:17:52,420 --> 00:17:52,460
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1305
+816
 00:17:52,460 --> 00:17:52,500
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1306
+817
 00:17:52,500 --> 00:17:52,550
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1307
+818
 00:17:52,550 --> 00:17:52,590
 Edward Weevil, Fils Auto-Proclamé de Barbe Blanche
 Ancien Grand Corsaire
 
-1308
+819
 00:17:53,260 --> 00:17:54,880
 C’est presque excitant.
 
-1309
+820
 00:17:55,590 --> 00:17:57,260
 Cela faisait longtemps…
 
-1310
+821
 00:17:57,350 --> 00:17:57,390
 Dracule Mihawk
 "Oeil de Faucon"
-
-1311
-00:17:57,350 --> 00:17:57,390
 Ancien Grand 
 Corsaire
 
-1312
+822
 00:17:57,390 --> 00:17:57,430
 Dracule Mihawk
 "Oeil de Faucon"
-
-1313
-00:17:57,390 --> 00:17:57,430
 Ancien Grand 
 Corsaire
 
-1314
+823
 00:17:57,430 --> 00:17:57,470
 Dracule Mihawk
 "Oeil de Faucon"
-
-1315
-00:17:57,430 --> 00:17:57,470
 Ancien Grand 
 Corsaire
 
-1316
+824
 00:17:57,470 --> 00:17:57,510
 Dracule Mihawk
 "Oeil de Faucon"
-
-1317
-00:17:57,470 --> 00:17:57,510
 Ancien Grand 
 Corsaire
 
-1318
+825
 00:17:57,510 --> 00:17:57,600
 Dracule Mihawk
 "Oeil de Faucon"
 
-1319
+826
 00:17:57,510 --> 00:17:57,560
 Ancien Grand 
 Corsaire
 
-1320
+827
 00:17:57,560 --> 00:17:57,600
 Ancien Grand
 
-1321
+828
 00:17:57,600 --> 00:17:57,640
 Dracule Mihawk
 "Oeil de Faucon"
-
-1322
-00:17:57,600 --> 00:17:57,640
 Ancien Grand 
 Corsaire
 
-1323
+829
 00:17:57,680 --> 00:17:57,760
 Dracule Mihawk
-
-1324
-00:17:57,680 --> 00:17:57,760
 Ancien Grand
 
-1325
+830
 00:17:57,760 --> 00:17:57,800
 Dracule Mihawk
 "Oeil de Faucon"
-
-1326
-00:17:57,760 --> 00:17:57,800
 Ancien Grand 
 Corsaire
 
-1327
+831
 00:17:57,800 --> 00:17:57,840
 Dracule Mihawk
 "Oeil de Faucon"
-
-1328
-00:17:57,800 --> 00:17:57,840
 Ancien Grand 
 Corsaire
 
-1329
+832
 00:17:57,840 --> 00:17:57,880
 Dracule Mihawk
 "Oeil de Faucon"
-
-1330
-00:17:57,840 --> 00:17:57,880
 Ancien Grand 
 Corsaire
 
-1331
+833
 00:17:57,880 --> 00:17:57,930
 Dracule Mihawk
 "Oeil de Faucon"
-
-1332
-00:17:57,880 --> 00:17:57,930
 Ancien Grand 
 Corsaire
 
-1333
+834
 00:17:57,930 --> 00:17:57,970
 Dracule Mihawk
 "Oeil de Faucon"
-
-1334
-00:17:57,930 --> 00:17:57,970
 Ancien Grand 
 Corsaire
 
-1335
+835
 00:17:57,970 --> 00:17:58,010
 Dracule Mihawk
 "Oeil de Faucon"
-
-1336
-00:17:57,970 --> 00:17:58,010
 Ancien Grand 
 Corsaire
 
-1337
+836
 00:17:58,010 --> 00:17:58,050
 Dracule Mihawk
 "Oeil de Faucon"
-
-1338
-00:17:58,010 --> 00:17:58,050
 Ancien Grand 
 Corsaire
 
-1339
+837
 00:17:58,050 --> 00:17:58,090
 Dracule Mihawk
 "Oeil de Faucon"
-
-1340
-00:17:58,050 --> 00:17:58,090
 Ancien Grand 
 Corsaire
 
-1341
+838
 00:17:58,090 --> 00:17:58,140
 Dracule Mihawk
 "Oeil de Faucon"
-
-1342
-00:17:58,090 --> 00:17:58,140
 Ancien Grand 
 Corsaire
 
-1343
+839
 00:17:58,140 --> 00:17:58,180
 Dracule Mihawk
 "Oeil de Faucon"
-
-1344
-00:17:58,140 --> 00:17:58,180
 Ancien Grand 
 Corsaire
 
-1345
+840
 00:17:58,180 --> 00:17:58,220
 Dracule Mihawk
 "Oeil de Faucon"
-
-1346
-00:17:58,180 --> 00:17:58,220
 Ancien Grand 
 Corsaire
 
-1347
+841
 00:17:58,220 --> 00:17:58,260
 Dracule Mihawk
 "Oeil de Faucon"
-
-1348
-00:17:58,220 --> 00:17:58,260
 Ancien Grand 
 Corsaire
 
-1349
+842
 00:17:58,260 --> 00:17:58,300
 Dracule Mihawk
 "Oeil de Faucon"
-
-1350
-00:17:58,260 --> 00:17:58,300
 Ancien Grand 
 Corsaire
 
-1351
+843
 00:17:58,300 --> 00:17:58,340
 Dracule Mihawk
 "Oeil de Faucon"
-
-1352
-00:17:58,300 --> 00:17:58,340
 Ancien Grand 
 Corsaire
 
-1353
+844
 00:17:58,340 --> 00:17:58,390
 Dracule Mihawk
 "Oeil de Faucon"
-
-1354
-00:17:58,340 --> 00:17:58,390
 Ancien Grand 
 Corsaire
 
-1355
+845
 00:17:58,390 --> 00:17:58,430
 Dracule Mihawk
 "Oeil de Faucon"
-
-1356
-00:17:58,390 --> 00:17:58,430
 Ancien Grand 
 Corsaire
 
-1357
+846
 00:17:58,430 --> 00:17:58,470
 Dracule Mihawk
 "Oeil de Faucon"
-
-1358
-00:17:58,430 --> 00:17:58,470
 Ancien Grand 
 Corsaire
 
-1359
+847
 00:17:58,470 --> 00:17:58,510
 Dracule Mihawk
 "Oeil de Faucon"
-
-1360
-00:17:58,470 --> 00:17:58,510
 Ancien Grand 
 Corsaire
 
-1361
+848
 00:17:58,510 --> 00:17:58,550
 Dracule Mihawk
 "Oeil de Faucon"
-
-1362
-00:17:58,510 --> 00:17:58,550
 Ancien Grand 
 Corsaire
 
-1363
+849
 00:17:58,550 --> 00:17:58,590
 Dracule Mihawk
 "Oeil de Faucon"
-
-1364
-00:17:58,550 --> 00:17:58,590
 Ancien Grand 
 Corsaire
 
-1365
+850
 00:17:58,590 --> 00:17:58,640
 Dracule Mihawk
 "Oeil de Faucon"
-
-1366
-00:17:58,590 --> 00:17:58,640
 Ancien Grand 
 Corsaire
 
-1367
+851
 00:17:58,640 --> 00:17:58,680
 Dracule Mihawk
 "Oeil de Faucon"
-
-1368
-00:17:58,640 --> 00:17:58,680
 Ancien Grand 
 Corsaire
 
-1369
+852
 00:17:58,680 --> 00:17:58,720
 Dracule Mihawk
 "Oeil de Faucon"
-
-1370
-00:17:58,680 --> 00:17:58,720
 Ancien Grand 
 Corsaire
 
-1371
+853
 00:17:58,720 --> 00:17:58,760
 Dracule Mihawk
 "Oeil de Faucon"
-
-1372
-00:17:58,720 --> 00:17:58,760
 Ancien Grand 
 Corsaire
 
-1373
+854
 00:17:58,760 --> 00:17:58,800
 Dracule Mihawk
 "Oeil de Faucon"
-
-1374
-00:17:58,760 --> 00:17:58,800
 Ancien Grand 
 Corsaire
 
-1375
+855
 00:17:58,800 --> 00:17:58,840
 Dracule Mihawk
 "Oeil de Faucon"
-
-1376
-00:17:58,800 --> 00:17:58,840
 Ancien Grand 
 Corsaire
 
-1377
+856
 00:17:58,840 --> 00:17:58,890
 Dracule Mihawk
 "Oeil de Faucon"
-
-1378
-00:17:58,840 --> 00:17:58,890
 Ancien Grand 
 Corsaire
 
-1379
+857
 00:17:58,890 --> 00:17:58,930
 Dracule Mihawk
 "Oeil de Faucon"
-
-1380
-00:17:58,890 --> 00:17:58,930
 Ancien Grand 
 Corsaire
 
-1381
+858
 00:17:58,930 --> 00:17:58,970
 Dracule Mihawk
 "Oeil de Faucon"
-
-1382
-00:17:58,930 --> 00:17:58,970
 Ancien Grand 
 Corsaire
 
-1383
+859
 00:17:58,970 --> 00:17:59,010
 Dracule Mihawk
 "Oeil de Faucon"
-
-1384
-00:17:58,970 --> 00:17:59,010
 Ancien Grand 
 Corsaire
 
-1385
+860
 00:17:59,010 --> 00:17:59,050
 Dracule Mihawk
 "Oeil de Faucon"
-
-1386
-00:17:59,010 --> 00:17:59,050
 Ancien Grand 
 Corsaire
 
-1387
+861
 00:17:59,050 --> 00:17:59,090
 Dracule Mihawk
 "Oeil de Faucon"
-
-1388
-00:17:59,050 --> 00:17:59,090
 Ancien Grand 
 Corsaire
 
-1389
+862
 00:17:59,090 --> 00:17:59,140
 Dracule Mihawk
 "Oeil de Faucon"
-
-1390
-00:17:59,090 --> 00:17:59,140
 Ancien Grand 
 Corsaire
 
-1391
+863
 00:17:59,140 --> 00:17:59,180
 Dracule Mihawk
 "Oeil de Faucon"
-
-1392
-00:17:59,140 --> 00:17:59,180
 Ancien Grand 
 Corsaire
 
-1393
+864
 00:17:59,180 --> 00:17:59,220
 Dracule Mihawk
 "Oeil de Faucon"
-
-1394
-00:17:59,180 --> 00:17:59,220
 Ancien Grand 
 Corsaire
 
-1395
+865
 00:17:59,220 --> 00:17:59,260
 Dracule Mihawk
 "Oeil de Faucon"
-
-1396
-00:17:59,220 --> 00:17:59,260
 Ancien Grand 
 Corsaire
 
-1397
+866
 00:17:59,260 --> 00:17:59,300
 Dracule Mihawk
 "Oeil de Faucon"
-
-1398
-00:17:59,260 --> 00:17:59,300
 Ancien Grand 
 Corsaire
 
-1399
+867
 00:17:59,300 --> 00:17:59,340
 Dracule Mihawk
 "Oeil de Faucon"
-
-1400
-00:17:59,300 --> 00:17:59,340
 Ancien Grand 
 Corsaire
 
-1401
+868
 00:17:59,340 --> 00:17:59,390
 Dracule Mihawk
 "Oeil de Faucon"
-
-1402
-00:17:59,340 --> 00:17:59,390
 Ancien Grand 
 Corsaire
 
-1403
+869
 00:17:59,390 --> 00:17:59,430
 Dracule Mihawk
 "Oeil de Faucon"
-
-1404
-00:17:59,390 --> 00:17:59,430
 Ancien Grand 
 Corsaire
 
-1405
+870
 00:17:59,430 --> 00:18:02,060
 Me voici redevenu une proie.
 
-1406
+871
 00:17:59,430 --> 00:17:59,470
 Dracule Mihawk
 "Oeil de Faucon"
-
-1407
-00:17:59,430 --> 00:17:59,470
 Ancien Grand 
 Corsaire
 
-1408
+872
 00:17:59,470 --> 00:17:59,510
 Dracule Mihawk
 "Oeil de Faucon"
-
-1409
-00:17:59,470 --> 00:17:59,510
 Ancien Grand 
 Corsaire
 
-1410
+873
 00:17:59,510 --> 00:17:59,550
 Dracule Mihawk
 "Oeil de Faucon"
-
-1411
-00:17:59,510 --> 00:17:59,550
 Ancien Grand 
 Corsaire
 
-1412
+874
 00:17:59,550 --> 00:17:59,600
 Dracule Mihawk
 "Oeil de Faucon"
-
-1413
-00:17:59,550 --> 00:17:59,600
 Ancien Grand 
 Corsaire
 
-1414
+875
 00:17:59,600 --> 00:17:59,640
 Dracule Mihawk
 "Oeil de Faucon"
-
-1415
-00:17:59,600 --> 00:17:59,640
 Ancien Grand 
 Corsaire
 
-1416
+876
 00:17:59,640 --> 00:17:59,680
 Dracule Mihawk
 "Oeil de Faucon"
-
-1417
-00:17:59,640 --> 00:17:59,680
 Ancien Grand 
 Corsaire
 
-1418
+877
 00:17:59,680 --> 00:17:59,720
 Dracule Mihawk
 "Oeil de Faucon"
-
-1419
-00:17:59,680 --> 00:17:59,720
 Ancien Grand 
 Corsaire
 
-1420
+878
 00:17:59,720 --> 00:17:59,760
 Dracule Mihawk
 "Oeil de Faucon"
-
-1421
-00:17:59,720 --> 00:17:59,760
 Ancien Grand 
 Corsaire
 
-1422
+879
 00:17:59,760 --> 00:17:59,800
 Dracule Mihawk
 "Oeil de Faucon"
-
-1423
-00:17:59,760 --> 00:17:59,800
 Ancien Grand 
 Corsaire
 
-1424
+880
 00:17:59,800 --> 00:17:59,850
 Dracule Mihawk
 "Oeil de Faucon"
-
-1425
-00:17:59,800 --> 00:17:59,850
 Ancien Grand 
 Corsaire
 
-1426
+881
 00:17:59,850 --> 00:17:59,890
 Dracule Mihawk
 "Oeil de Faucon"
-
-1427
-00:17:59,850 --> 00:17:59,890
 Ancien Grand 
 Corsaire
 
-1428
+882
 00:17:59,890 --> 00:17:59,930
 Dracule Mihawk
 "Oeil de Faucon"
-
-1429
-00:17:59,890 --> 00:17:59,930
 Ancien Grand 
 Corsaire
 
-1430
+883
 00:17:59,930 --> 00:17:59,970
 Dracule Mihawk
 "Oeil de Faucon"
-
-1431
-00:17:59,930 --> 00:17:59,970
 Ancien Grand 
 Corsaire
 
-1432
+884
 00:17:59,970 --> 00:18:00,010
 Dracule Mihawk
 "Oeil de Faucon"
-
-1433
-00:17:59,970 --> 00:18:00,010
 Ancien Grand 
 Corsaire
 
-1434
+885
 00:18:00,010 --> 00:18:00,050
 Dracule Mihawk
 "Oeil de Faucon"
-
-1435
-00:18:00,010 --> 00:18:00,050
 Ancien Grand 
 Corsaire
 
-1436
+886
 00:18:00,050 --> 00:18:00,100
 Dracule Mihawk
 "Oeil de Faucon"
-
-1437
-00:18:00,050 --> 00:18:00,100
 Ancien Grand 
 Corsaire
 
-1438
+887
 00:18:00,100 --> 00:18:00,140
 Dracule Mihawk
 "Oeil de Faucon"
-
-1439
-00:18:00,100 --> 00:18:00,140
 Ancien Grand 
 Corsaire
 
-1440
+888
 00:18:00,140 --> 00:18:00,180
 Dracule Mihawk
 "Oeil de Faucon"
-
-1441
-00:18:00,140 --> 00:18:00,180
 Ancien Grand 
 Corsaire
 
-1442
+889
 00:18:00,180 --> 00:18:00,220
 Dracule Mihawk
 "Oeil de Faucon"
-
-1443
-00:18:00,180 --> 00:18:00,220
 Ancien Grand 
 Corsaire
 
-1444
+890
 00:18:00,220 --> 00:18:00,260
 Dracule Mihawk
 "Oeil de Faucon"
-
-1445
-00:18:00,220 --> 00:18:00,260
 Ancien Grand 
 Corsaire
 
-1446
+891
 00:18:00,260 --> 00:18:00,300
 Dracule Mihawk
 "Oeil de Faucon"
-
-1447
-00:18:00,260 --> 00:18:00,300
 Ancien Grand 
 Corsaire
 
-1448
+892
 00:18:00,300 --> 00:18:00,350
 Dracule Mihawk
 "Oeil de Faucon"
-
-1449
-00:18:00,300 --> 00:18:00,350
 Ancien Grand 
 Corsaire
 
-1450
+893
 00:18:00,350 --> 00:18:00,390
 Dracule Mihawk
 "Oeil de Faucon"
-
-1451
-00:18:00,350 --> 00:18:00,390
 Ancien Grand 
 Corsaire
 
-1452
+894
 00:18:00,390 --> 00:18:00,430
 Dracule Mihawk
 "Oeil de Faucon"
-
-1453
-00:18:00,390 --> 00:18:00,430
 Ancien Grand 
 Corsaire
 
-1454
+895
 00:18:00,430 --> 00:18:00,470
 Dracule Mihawk
 "Oeil de Faucon"
-
-1455
-00:18:00,430 --> 00:18:00,470
 Ancien Grand 
 Corsaire
 
-1456
+896
 00:18:00,470 --> 00:18:00,510
 Dracule Mihawk
 "Oeil de Faucon"
-
-1457
-00:18:00,470 --> 00:18:00,510
 Ancien Grand 
 Corsaire
 
-1458
+897
 00:18:00,510 --> 00:18:00,550
 Dracule Mihawk
 "Oeil de Faucon"
-
-1459
-00:18:00,510 --> 00:18:00,550
 Ancien Grand 
 Corsaire
 
-1460
+898
 00:18:00,550 --> 00:18:00,600
 Dracule Mihawk
 "Oeil de Faucon"
-
-1461
-00:18:00,550 --> 00:18:00,600
 Ancien Grand 
 Corsaire
 
-1462
+899
 00:18:00,600 --> 00:18:00,640
 Dracule Mihawk
 "Oeil de Faucon"
-
-1463
-00:18:00,600 --> 00:18:00,640
 Ancien Grand 
 Corsaire
 
-1464
+900
 00:18:00,640 --> 00:18:00,680
 Dracule Mihawk
 "Oeil de Faucon"
-
-1465
-00:18:00,640 --> 00:18:00,680
 Ancien Grand 
 Corsaire
 
-1466
+901
 00:18:00,680 --> 00:18:00,720
 Dracule Mihawk
 "Oeil de Faucon"
-
-1467
-00:18:00,680 --> 00:18:00,720
 Ancien Grand 
 Corsaire
 
-1468
+902
 00:18:00,720 --> 00:18:00,760
 Dracule Mihawk
 "Oeil de Faucon"
-
-1469
-00:18:00,720 --> 00:18:00,760
 Ancien Grand 
 Corsaire
 
-1470
+903
 00:18:00,760 --> 00:18:00,800
 Dracule Mihawk
 "Oeil de Faucon"
-
-1471
-00:18:00,760 --> 00:18:00,800
 Ancien Grand 
 Corsaire
 
-1472
+904
 00:18:00,800 --> 00:18:00,850
 Dracule Mihawk
 "Oeil de Faucon"
-
-1473
-00:18:00,800 --> 00:18:00,850
 Ancien Grand 
 Corsaire
 
-1474
+905
 00:18:00,850 --> 00:18:00,890
 Dracule Mihawk
 "Oeil de Faucon"
-
-1475
-00:18:00,850 --> 00:18:00,890
 Ancien Grand 
 Corsaire
 
-1476
+906
 00:18:00,890 --> 00:18:00,930
 Dracule Mihawk
 "Oeil de Faucon"
-
-1477
-00:18:00,890 --> 00:18:00,930
 Ancien Grand 
 Corsaire
 
-1478
+907
 00:18:00,930 --> 00:18:00,970
 Dracule Mihawk
 "Oeil de Faucon"
-
-1479
-00:18:00,930 --> 00:18:00,970
 Ancien Grand 
 Corsaire
 
-1480
+908
 00:18:00,970 --> 00:18:01,010
 Dracule Mihawk
 "Oeil de Faucon"
-
-1481
-00:18:00,970 --> 00:18:01,010
 Ancien Grand 
 Corsaire
 
-1482
+909
 00:18:01,010 --> 00:18:01,050
 Dracule Mihawk
 "Oeil de Faucon"
-
-1483
-00:18:01,010 --> 00:18:01,050
 Ancien Grand 
 Corsaire
 
-1484
+910
 00:18:01,050 --> 00:18:01,100
 Dracule Mihawk
 "Oeil de Faucon"
-
-1485
-00:18:01,050 --> 00:18:01,100
 Ancien Grand 
 Corsaire
 
-1486
+911
 00:18:01,100 --> 00:18:01,140
 Dracule Mihawk
 "Oeil de Faucon"
-
-1487
-00:18:01,100 --> 00:18:01,140
 Ancien Grand 
 Corsaire
 
-1488
+912
 00:18:01,140 --> 00:18:01,180
 Dracule Mihawk
 "Oeil de Faucon"
-
-1489
-00:18:01,140 --> 00:18:01,180
 Ancien Grand 
 Corsaire
 
-1490
+913
 00:18:01,180 --> 00:18:01,220
 Dracule Mihawk
 "Oeil de Faucon"
-
-1491
-00:18:01,180 --> 00:18:01,220
 Ancien Grand 
 Corsaire
 
-1492
+914
 00:18:01,220 --> 00:18:01,260
 Dracule Mihawk
 "Oeil de Faucon"
-
-1493
-00:18:01,220 --> 00:18:01,260
 Ancien Grand 
 Corsaire
 
-1494
+915
 00:18:01,260 --> 00:18:01,310
 Dracule Mihawk
 "Oeil de Faucon"
-
-1495
-00:18:01,260 --> 00:18:01,310
 Ancien Grand 
 Corsaire
 
-1496
+916
 00:18:01,310 --> 00:18:01,350
 Dracule Mihawk
 "Oeil de Faucon"
-
-1497
-00:18:01,310 --> 00:18:01,350
 Ancien Grand 
 Corsaire
 
-1498
+917
 00:18:01,350 --> 00:18:01,390
 Dracule Mihawk
 "Oeil de Faucon"
-
-1499
-00:18:01,350 --> 00:18:01,390
 Ancien Grand 
 Corsaire
 
-1500
+918
 00:18:01,390 --> 00:18:01,430
 Dracule Mihawk
 "Oeil de Faucon"
-
-1501
-00:18:01,390 --> 00:18:01,430
 Ancien Grand 
 Corsaire
 
-1502
+919
 00:18:01,430 --> 00:18:01,470
 Dracule Mihawk
 "Oeil de Faucon"
-
-1503
-00:18:01,430 --> 00:18:01,470
 Ancien Grand 
 Corsaire
 
-1504
+920
 00:18:01,470 --> 00:18:01,510
 Dracule Mihawk
 "Oeil de Faucon"
-
-1505
-00:18:01,470 --> 00:18:01,510
 Ancien Grand 
 Corsaire
 
-1506
+921
 00:18:01,510 --> 00:18:01,560
 Dracule Mihawk
 "Oeil de Faucon"
-
-1507
-00:18:01,510 --> 00:18:01,560
 Ancien Grand 
 Corsaire
 
-1508
+922
 00:18:01,560 --> 00:18:01,600
 Dracule Mihawk
 "Oeil de Faucon"
-
-1509
-00:18:01,560 --> 00:18:01,600
 Ancien Grand 
 Corsaire
 
-1510
+923
 00:18:01,600 --> 00:18:01,640
 Dracule Mihawk
 "Oeil de Faucon"
-
-1511
-00:18:01,600 --> 00:18:01,640
 Ancien Grand 
 Corsaire
 
-1512
+924
 00:18:01,640 --> 00:18:01,680
 Dracule Mihawk
 "Oeil de Faucon"
-
-1513
-00:18:01,640 --> 00:18:01,680
 Ancien Grand 
 Corsaire
 
-1514
+925
 00:18:01,680 --> 00:18:01,720
 Dracule Mihawk
 "Oeil de Faucon"
-
-1515
-00:18:01,680 --> 00:18:01,720
 Ancien Grand 
 Corsaire
 
-1516
+926
 00:18:01,720 --> 00:18:01,760
 Dracule Mihawk
 "Oeil de Faucon"
-
-1517
-00:18:01,720 --> 00:18:01,760
 Ancien Grand 
 Corsaire
 
-1518
+927
 00:18:01,760 --> 00:18:01,810
 Dracule Mihawk
 "Oeil de Faucon"
-
-1519
-00:18:01,760 --> 00:18:01,810
 Ancien Grand 
 Corsaire
 
-1520
+928
 00:18:01,810 --> 00:18:01,850
 Dracule Mihawk
 "Oeil de Faucon"
-
-1521
-00:18:01,810 --> 00:18:01,850
 Ancien Grand 
 Corsaire
 
-1522
+929
 00:18:01,850 --> 00:18:01,890
 Dracule Mihawk
 "Oeil de Faucon"
-
-1523
-00:18:01,850 --> 00:18:01,890
 Ancien Grand 
 Corsaire
 
-1524
+930
 00:18:01,890 --> 00:18:01,930
 Dracule Mihawk
 "Oeil de Faucon"
-
-1525
-00:18:01,890 --> 00:18:01,930
 Ancien Grand 
 Corsaire
 
-1526
+931
 00:18:01,930 --> 00:18:01,970
 Dracule Mihawk
 "Oeil de Faucon"
-
-1527
-00:18:01,930 --> 00:18:01,970
 Ancien Grand 
 Corsaire
 
-1528
+932
 00:18:01,970 --> 00:18:02,010
 Dracule Mihawk
 "Oeil de Faucon"
-
-1529
-00:18:01,970 --> 00:18:02,010
 Ancien Grand 
 Corsaire
 
-1530
+933
 00:18:02,010 --> 00:18:02,060
 Dracule Mihawk
 "Oeil de Faucon"
-
-1531
-00:18:02,010 --> 00:18:02,060
 Ancien Grand 
 Corsaire
 
-1532
+934
 00:18:02,060 --> 00:18:02,100
 Dracule Mihawk
 "Oeil de Faucon"
-
-1533
-00:18:02,060 --> 00:18:02,100
 Ancien Grand 
 Corsaire
 
-1534
+935
 00:18:02,100 --> 00:18:02,140
 Dracule Mihawk
 "Oeil de Faucon"
-
-1535
-00:18:02,100 --> 00:18:02,140
 Ancien Grand 
 Corsaire
 
-1536
+936
 00:18:02,140 --> 00:18:02,180
 Dracule Mihawk
 "Oeil de Faucon"
-
-1537
-00:18:02,140 --> 00:18:02,180
 Ancien Grand 
 Corsaire
 
-1538
+937
 00:18:02,180 --> 00:18:02,220
 Dracule Mihawk
 "Oeil de Faucon"
-
-1539
-00:18:02,180 --> 00:18:02,220
 Ancien Grand 
 Corsaire
 
-1540
+938
 00:18:02,220 --> 00:18:02,260
 Dracule Mihawk
 "Oeil de Faucon"
-
-1541
-00:18:02,220 --> 00:18:02,260
 Ancien Grand 
 Corsaire
 
-1542
+939
 00:18:02,260 --> 00:18:02,310
 Dracule Mihawk
 "Oeil de Faucon"
-
-1543
-00:18:02,260 --> 00:18:02,310
 Ancien Grand 
 Corsaire
 
-1544
+940
 00:18:02,310 --> 00:18:02,350
 Dracule Mihawk
 "Oeil de Faucon"
-
-1545
-00:18:02,310 --> 00:18:02,350
 Ancien Grand 
 Corsaire
 
-1546
+941
 00:18:02,350 --> 00:18:02,390
 Dracule Mihawk
 "Oeil de Faucon"
-
-1547
-00:18:02,350 --> 00:18:02,390
 Ancien Grand 
 Corsaire
 
-1548
+942
 00:18:02,390 --> 00:18:02,430
 Dracule Mihawk
 "Oeil de Faucon"
-
-1549
-00:18:02,390 --> 00:18:02,430
 Ancien Grand 
 Corsaire
 
-1550
+943
 00:18:02,430 --> 00:18:02,470
 Dracule Mihawk
 "Oeil de Faucon"
-
-1551
-00:18:02,430 --> 00:18:02,470
 Ancien Grand 
 Corsaire
 
-1552
+944
 00:18:02,470 --> 00:18:02,510
 Dracule Mihawk
 "Oeil de Faucon"
-
-1553
-00:18:02,470 --> 00:18:02,510
 Ancien Grand 
 Corsaire
 
-1554
+945
 00:18:02,510 --> 00:18:02,560
 Dracule Mihawk
 "Oeil de Faucon"
-
-1555
-00:18:02,510 --> 00:18:02,560
 Ancien Grand 
 Corsaire
 
-1556
+946
 00:18:02,560 --> 00:18:02,600
 Dracule Mihawk
 "Oeil de Faucon"
-
-1557
-00:18:02,560 --> 00:18:02,600
 Ancien Grand 
 Corsaire
 
-1558
+947
 00:18:02,600 --> 00:18:02,640
 Dracule Mihawk
 "Oeil de Faucon"
-
-1559
-00:18:02,600 --> 00:18:02,640
 Ancien Grand 
 Corsaire
 
-1560
+948
 00:18:02,640 --> 00:18:02,680
 Dracule Mihawk
 "Oeil de Faucon"
-
-1561
-00:18:02,640 --> 00:18:02,680
 Ancien Grand 
 Corsaire
 
-1562
+949
 00:18:02,680 --> 00:18:02,720
 Dracule Mihawk
 "Oeil de Faucon"
-
-1563
-00:18:02,680 --> 00:18:02,720
 Ancien Grand 
 Corsaire
 
-1564
+950
 00:18:02,720 --> 00:18:02,760
 Dracule Mihawk
 "Oeil de Faucon"
-
-1565
-00:18:02,720 --> 00:18:02,760
 Ancien Grand 
 Corsaire
 
-1566
+951
 00:18:02,760 --> 00:18:02,810
 Dracule Mihawk
 "Oeil de Faucon"
-
-1567
-00:18:02,760 --> 00:18:02,810
 Ancien Grand 
 Corsaire
 
-1568
+952
 00:18:02,810 --> 00:18:02,850
 Dracule Mihawk
 "Oeil de Faucon"
-
-1569
-00:18:02,810 --> 00:18:02,850
 Ancien Grand 
 Corsaire
 
-1570
+953
 00:18:02,850 --> 00:18:02,890
 Dracule Mihawk
 "Oeil de Faucon"
-
-1571
-00:18:02,850 --> 00:18:02,890
 Ancien Grand 
 Corsaire
 
-1572
+954
 00:18:02,890 --> 00:18:02,930
 Dracule Mihawk
 "Oeil de Faucon"
-
-1573
-00:18:02,890 --> 00:18:02,930
 Ancien Grand 
 Corsaire
 
-1574
+955
 00:18:02,930 --> 00:18:02,970
 Dracule Mihawk
 "Oeil de Faucon"
-
-1575
-00:18:02,930 --> 00:18:02,970
 Ancien Grand 
 Corsaire
 
-1576
+956
 00:18:02,970 --> 00:18:03,020
 Dracule Mihawk
 "Oeil de Faucon"
-
-1577
-00:18:02,970 --> 00:18:03,020
 Ancien Grand 
 Corsaire
 
-1578
+957
 00:18:03,020 --> 00:18:03,060
 Dracule Mihawk
 "Oeil de Faucon"
-
-1579
-00:18:03,020 --> 00:18:03,060
 Ancien Grand 
 Corsaire
 
-1580
+958
 00:18:03,060 --> 00:18:03,100
 Dracule Mihawk
 "Oeil de Faucon"
-
-1581
-00:18:03,060 --> 00:18:03,100
 Ancien Grand 
 Corsaire
 
-1582
+959
 00:18:03,100 --> 00:18:03,140
 Dracule Mihawk
 "Oeil de Faucon"
-
-1583
-00:18:03,100 --> 00:18:03,140
 Ancien Grand 
 Corsaire
 
-1584
+960
 00:18:03,140 --> 00:18:03,180
 Dracule Mihawk
 "Oeil de Faucon"
-
-1585
-00:18:03,140 --> 00:18:03,180
 Ancien Grand 
 Corsaire
 
-1586
+961
 00:18:03,180 --> 00:18:03,220
 Dracule Mihawk
 "Oeil de Faucon"
-
-1587
-00:18:03,180 --> 00:18:03,220
 Ancien Grand 
 Corsaire
 
-1588
+962
 00:18:03,220 --> 00:18:03,270
 Dracule Mihawk
 "Oeil de Faucon"
-
-1589
-00:18:03,220 --> 00:18:03,270
 Ancien Grand 
 Corsaire
 
-1590
+963
 00:18:03,270 --> 00:18:03,310
 Dracule Mihawk
 "Oeil de Faucon"
-
-1591
-00:18:03,270 --> 00:18:03,310
 Ancien Grand 
 Corsaire
 
-1592
+964
 00:18:03,310 --> 00:18:03,350
 Dracule Mihawk
 "Oeil de Faucon"
-
-1593
-00:18:03,310 --> 00:18:03,350
 Ancien Grand 
 Corsaire
 
-1594
+965
 00:18:03,350 --> 00:18:03,390
 Dracule Mihawk
 "Oeil de Faucon"
-
-1595
-00:18:03,350 --> 00:18:03,390
 Ancien Grand 
 Corsaire
 
-1596
+966
 00:18:03,390 --> 00:18:03,430
 Dracule Mihawk
 "Oeil de Faucon"
-
-1597
-00:18:03,390 --> 00:18:03,430
 Ancien Grand 
 Corsaire
 
-1598
+967
 00:18:03,430 --> 00:18:03,470
 Dracule Mihawk
 "Oeil de Faucon"
-
-1599
-00:18:03,430 --> 00:18:03,470
 Ancien Grand 
 Corsaire
 
-1600
+968
 00:18:03,470 --> 00:18:03,520
 Dracule Mihawk
 "Oeil de Faucon"
-
-1601
-00:18:03,470 --> 00:18:03,520
 Ancien Grand 
 Corsaire
 
-1602
+969
 00:18:03,520 --> 00:18:03,560
 Dracule Mihawk
 "Oeil de Faucon"
-
-1603
-00:18:03,520 --> 00:18:03,560
 Ancien Grand 
 Corsaire
 
-1604
+970
 00:18:03,560 --> 00:18:03,600
 Dracule Mihawk
 "Oeil de Faucon"
-
-1605
-00:18:03,560 --> 00:18:03,600
 Ancien Grand 
 Corsaire
 
-1606
+971
 00:18:03,600 --> 00:18:03,640
 Dracule Mihawk
 "Oeil de Faucon"
-
-1607
-00:18:03,600 --> 00:18:03,640
 Ancien Grand 
 Corsaire
 
-1608
+972
 00:18:03,640 --> 00:18:03,680
 Dracule Mihawk
 "Oeil de Faucon"
-
-1609
-00:18:03,640 --> 00:18:03,680
 Ancien Grand 
 Corsaire
 
-1610
+973
 00:18:03,680 --> 00:18:03,720
 Dracule Mihawk
 "Oeil de Faucon"
-
-1611
-00:18:03,680 --> 00:18:03,720
 Ancien Grand 
 Corsaire
 
-1612
+974
 00:18:03,720 --> 00:18:03,770
 Dracule Mihawk
 "Oeil de Faucon"
-
-1613
-00:18:03,720 --> 00:18:03,770
 Ancien Grand 
 Corsaire
 
-1614
+975
 00:18:03,770 --> 00:18:03,810
 Dracule Mihawk
 "Oeil de Faucon"
-
-1615
-00:18:03,770 --> 00:18:03,810
 Ancien Grand 
 Corsaire
 
-1616
+976
 00:18:03,810 --> 00:18:03,850
 Dracule Mihawk
 "Oeil de Faucon"
-
-1617
-00:18:03,810 --> 00:18:03,850
 Ancien Grand 
 Corsaire
 
-1618
+977
 00:18:04,100 --> 00:18:07,390
 Si nous sommes devenus Corsaires…
 
-1619
+978
 00:18:07,480 --> 00:18:07,520
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1620
+979
 00:18:07,520 --> 00:18:07,570
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1621
+980
 00:18:07,570 --> 00:18:07,610
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1622
+981
 00:18:07,610 --> 00:18:07,650
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1623
+982
 00:18:07,640 --> 00:18:07,690
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1624
-00:18:07,640 --> 00:18:07,690
 Boa Hancock, Impératrice Pirate
-
-1625
-00:18:07,640 --> 00:18:07,690
 Ancienne Grand Corsaire
 
-1626
+983
 00:18:07,690 --> 00:18:07,730
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1627
-00:18:07,690 --> 00:18:07,730
 Boa Hancock, Impératrice Pirate
-
-1628
-00:18:07,690 --> 00:18:07,730
 Ancienne Grand Corsaire
 
-1629
+984
 00:18:07,730 --> 00:18:07,770
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1630
-00:18:07,730 --> 00:18:07,770
 Boa Hancock, Impératrice Pirate
-
-1631
-00:18:07,730 --> 00:18:07,770
 Ancienne Grand Corsaire
 
-1632
+985
 00:18:07,770 --> 00:18:07,810
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1633
-00:18:07,770 --> 00:18:07,810
 Boa Hancock, Impératrice Pirate
-
-1634
-00:18:07,770 --> 00:18:07,810
 Ancienne Grand Corsaire
 
-1635
+986
 00:18:07,810 --> 00:18:07,850
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1636
-00:18:07,810 --> 00:18:07,850
 Boa Hancock, Impératrice Pirate
-
-1637
-00:18:07,810 --> 00:18:07,850
 Ancienne Grand Corsaire
 
-1638
+987
 00:18:07,850 --> 00:18:07,890
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1639
-00:18:07,850 --> 00:18:07,890
 Boa Hancock, Impératrice Pirate
-
-1640
-00:18:07,850 --> 00:18:07,890
 Ancienne Grand Corsaire
 
-1641
+988
 00:18:07,890 --> 00:18:07,940
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1642
-00:18:07,890 --> 00:18:07,940
 Boa Hancock, Impératrice Pirate
-
-1643
-00:18:07,890 --> 00:18:07,940
 Ancienne Grand Corsaire
 
-1644
+989
 00:18:07,940 --> 00:18:07,980
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1645
-00:18:07,940 --> 00:18:07,980
 Boa Hancock, Impératrice Pirate
-
-1646
-00:18:07,940 --> 00:18:07,980
 Ancienne Grand Corsaire
 
-1647
+990
 00:18:07,980 --> 00:18:08,020
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1648
-00:18:07,980 --> 00:18:08,020
 Boa Hancock, Impératrice Pirate
-
-1649
-00:18:07,980 --> 00:18:08,020
 Ancienne Grand Corsaire
 
-1650
+991
 00:18:08,020 --> 00:18:08,060
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1651
-00:18:08,020 --> 00:18:08,060
 Boa Hancock, Impératrice Pirate
-
-1652
-00:18:08,020 --> 00:18:08,060
 Ancienne Grand Corsaire
 
-1653
+992
 00:18:08,060 --> 00:18:08,100
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1654
-00:18:08,060 --> 00:18:08,100
 Boa Hancock, Impératrice Pirate
-
-1655
-00:18:08,060 --> 00:18:08,100
 Ancienne Grand Corsaire
 
-1656
+993
 00:18:08,100 --> 00:18:08,150
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1657
-00:18:08,100 --> 00:18:08,150
 Boa Hancock, Impératrice Pirate
-
-1658
-00:18:08,100 --> 00:18:08,150
 Ancienne Grand Corsaire
 
-1659
+994
 00:18:08,150 --> 00:18:08,190
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1660
-00:18:08,150 --> 00:18:08,190
 Boa Hancock, Impératrice Pirate
-
-1661
-00:18:08,150 --> 00:18:08,190
 Ancienne Grand Corsaire
 
-1662
+995
 00:18:08,190 --> 00:18:08,230
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1663
-00:18:08,190 --> 00:18:08,230
 Boa Hancock, Impératrice Pirate
-
-1664
-00:18:08,190 --> 00:18:08,230
 Ancienne Grand Corsaire
 
-1665
+996
 00:18:08,230 --> 00:18:08,270
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1666
-00:18:08,230 --> 00:18:08,270
 Boa Hancock, Impératrice Pirate
-
-1667
-00:18:08,230 --> 00:18:08,270
 Ancienne Grand Corsaire
 
-1668
+997
 00:18:08,270 --> 00:18:08,310
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1669
-00:18:08,270 --> 00:18:08,310
 Boa Hancock, Impératrice Pirate
-
-1670
-00:18:08,270 --> 00:18:08,310
 Ancienne Grand Corsaire
 
-1671
+998
 00:18:08,310 --> 00:18:08,350
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1672
-00:18:08,310 --> 00:18:08,350
 Boa Hancock, Impératrice Pirate
-
-1673
-00:18:08,310 --> 00:18:08,350
 Ancienne Grand Corsaire
 
-1674
+999
 00:18:08,350 --> 00:18:08,400
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1675
-00:18:08,350 --> 00:18:08,400
 Boa Hancock, Impératrice Pirate
-
-1676
-00:18:08,350 --> 00:18:08,400
 Ancienne Grand Corsaire
 
-1677
+1000
 00:18:08,400 --> 00:18:08,440
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1678
-00:18:08,400 --> 00:18:08,440
 Boa Hancock, Impératrice Pirate
-
-1679
-00:18:08,400 --> 00:18:08,440
 Ancienne Grand Corsaire
 
-1680
+1001
 00:18:08,440 --> 00:18:08,480
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1681
-00:18:08,440 --> 00:18:08,480
 Boa Hancock, Impératrice Pirate
-
-1682
-00:18:08,440 --> 00:18:08,480
 Ancienne Grand Corsaire
 
-1683
+1002
 00:18:08,480 --> 00:18:08,520
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1684
-00:18:08,480 --> 00:18:08,520
 Boa Hancock, Impératrice Pirate
-
-1685
-00:18:08,480 --> 00:18:08,520
 Ancienne Grand Corsaire
 
-1686
+1003
 00:18:08,520 --> 00:18:08,560
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1687
-00:18:08,520 --> 00:18:08,560
 Boa Hancock, Impératrice Pirate
-
-1688
-00:18:08,520 --> 00:18:08,560
 Ancienne Grand Corsaire
 
-1689
+1004
 00:18:08,560 --> 00:18:08,600
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1690
-00:18:08,560 --> 00:18:08,600
 Boa Hancock, Impératrice Pirate
-
-1691
-00:18:08,560 --> 00:18:08,600
 Ancienne Grand Corsaire
 
-1692
+1005
 00:18:08,600 --> 00:18:08,650
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1693
-00:18:08,600 --> 00:18:08,650
 Boa Hancock, Impératrice Pirate
-
-1694
-00:18:08,600 --> 00:18:08,650
 Ancienne Grand Corsaire
 
-1695
+1006
 00:18:08,650 --> 00:18:08,690
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1696
-00:18:08,650 --> 00:18:08,690
 Boa Hancock, Impératrice Pirate
-
-1697
-00:18:08,650 --> 00:18:08,690
 Ancienne Grand Corsaire
 
-1698
+1007
 00:18:08,690 --> 00:18:08,730
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1699
-00:18:08,690 --> 00:18:08,730
 Boa Hancock, Impératrice Pirate
-
-1700
-00:18:08,690 --> 00:18:08,730
 Ancienne Grand Corsaire
 
-1701
+1008
 00:18:08,730 --> 00:18:08,770
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1702
-00:18:08,730 --> 00:18:08,770
 Boa Hancock, Impératrice Pirate
-
-1703
-00:18:08,730 --> 00:18:08,770
 Ancienne Grand Corsaire
 
-1704
+1009
 00:18:08,770 --> 00:18:08,810
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1705
-00:18:08,770 --> 00:18:08,810
 Boa Hancock, Impératrice Pirate
-
-1706
-00:18:08,770 --> 00:18:08,810
 Ancienne Grand Corsaire
 
-1707
+1010
 00:18:08,810 --> 00:18:08,850
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1708
-00:18:08,810 --> 00:18:08,850
 Boa Hancock, Impératrice Pirate
-
-1709
-00:18:08,810 --> 00:18:08,850
 Ancienne Grand Corsaire
 
-1710
+1011
 00:18:08,850 --> 00:18:08,900
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1711
-00:18:08,850 --> 00:18:08,900
 Boa Hancock, Impératrice Pirate
-
-1712
-00:18:08,850 --> 00:18:08,900
 Ancienne Grand Corsaire
 
-1713
+1012
 00:18:08,900 --> 00:18:08,940
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1714
-00:18:08,900 --> 00:18:08,940
 Boa Hancock, Impératrice Pirate
-
-1715
-00:18:08,900 --> 00:18:08,940
 Ancienne Grand Corsaire
 
-1716
+1013
 00:18:08,940 --> 00:18:08,980
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1717
-00:18:08,940 --> 00:18:08,980
 Boa Hancock, Impératrice Pirate
-
-1718
-00:18:08,940 --> 00:18:08,980
 Ancienne Grand Corsaire
 
-1719
+1014
 00:18:08,980 --> 00:18:09,020
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1720
-00:18:08,980 --> 00:18:09,020
 Boa Hancock, Impératrice Pirate
-
-1721
-00:18:08,980 --> 00:18:09,020
 Ancienne Grand Corsaire
 
-1722
+1015
 00:18:09,020 --> 00:18:09,060
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1723
-00:18:09,020 --> 00:18:09,060
 Boa Hancock, Impératrice Pirate
-
-1724
-00:18:09,020 --> 00:18:09,060
 Ancienne Grand Corsaire
 
-1725
+1016
 00:18:09,060 --> 00:18:09,100
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1726
-00:18:09,060 --> 00:18:09,100
 Boa Hancock, Impératrice Pirate
-
-1727
-00:18:09,060 --> 00:18:09,100
 Ancienne Grand Corsaire
 
-1728
+1017
 00:18:09,100 --> 00:18:09,150
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1729
-00:18:09,100 --> 00:18:09,150
 Boa Hancock, Impératrice Pirate
-
-1730
-00:18:09,100 --> 00:18:09,150
 Ancienne Grand Corsaire
 
-1731
+1018
 00:18:09,150 --> 00:18:09,190
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1732
-00:18:09,150 --> 00:18:09,190
 Boa Hancock, Impératrice Pirate
-
-1733
-00:18:09,150 --> 00:18:09,190
 Ancienne Grand Corsaire
 
-1734
+1019
 00:18:09,190 --> 00:18:09,230
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1735
-00:18:09,190 --> 00:18:09,230
 Boa Hancock, Impératrice Pirate
-
-1736
-00:18:09,190 --> 00:18:09,230
 Ancienne Grand Corsaire
 
-1737
+1020
 00:18:09,230 --> 00:18:09,270
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1738
-00:18:09,230 --> 00:18:09,270
 Boa Hancock, Impératrice Pirate
-
-1739
-00:18:09,230 --> 00:18:09,270
 Ancienne Grand Corsaire
 
-1740
+1021
 00:18:09,270 --> 00:18:09,310
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1741
-00:18:09,270 --> 00:18:09,310
 Boa Hancock, Impératrice Pirate
-
-1742
-00:18:09,270 --> 00:18:09,310
 Ancienne Grand Corsaire
 
-1743
+1022
 00:18:09,310 --> 00:18:09,350
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1744
-00:18:09,310 --> 00:18:09,350
 Boa Hancock, Impératrice Pirate
-
-1745
-00:18:09,310 --> 00:18:09,350
 Ancienne Grand Corsaire
 
-1746
+1023
 00:18:09,350 --> 00:18:09,400
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1747
-00:18:09,350 --> 00:18:09,400
 Boa Hancock, Impératrice Pirate
-
-1748
-00:18:09,350 --> 00:18:09,400
 Ancienne Grand Corsaire
 
-1749
+1024
 00:18:09,400 --> 00:18:09,440
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1750
-00:18:09,400 --> 00:18:09,440
 Boa Hancock, Impératrice Pirate
-
-1751
-00:18:09,400 --> 00:18:09,440
 Ancienne Grand Corsaire
 
-1752
+1025
 00:18:09,440 --> 00:18:09,480
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1753
-00:18:09,440 --> 00:18:09,480
 Boa Hancock, Impératrice Pirate
-
-1754
-00:18:09,440 --> 00:18:09,480
 Ancienne Grand Corsaire
 
-1755
+1026
 00:18:09,480 --> 00:18:09,520
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1756
-00:18:09,480 --> 00:18:09,520
 Boa Hancock, Impératrice Pirate
-
-1757
-00:18:09,480 --> 00:18:09,520
 Ancienne Grand Corsaire
 
-1758
+1027
 00:18:09,520 --> 00:18:09,560
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1759
-00:18:09,520 --> 00:18:09,560
 Boa Hancock, Impératrice Pirate
-
-1760
-00:18:09,520 --> 00:18:09,560
 Ancienne Grand Corsaire
 
-1761
+1028
 00:18:09,560 --> 00:18:09,610
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1762
-00:18:09,560 --> 00:18:09,610
 Boa Hancock, Impératrice Pirate
-
-1763
-00:18:09,560 --> 00:18:09,610
 Ancienne Grand Corsaire
 
-1764
+1029
 00:18:09,610 --> 00:18:09,650
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1765
-00:18:09,610 --> 00:18:09,650
 Boa Hancock, Impératrice Pirate
-
-1766
-00:18:09,610 --> 00:18:09,650
 Ancienne Grand Corsaire
 
-1767
+1030
 00:18:09,650 --> 00:18:09,690
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1768
-00:18:09,650 --> 00:18:09,690
 Boa Hancock, Impératrice Pirate
-
-1769
-00:18:09,650 --> 00:18:09,690
 Ancienne Grand Corsaire
 
-1770
+1031
 00:18:09,690 --> 00:18:09,730
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1771
-00:18:09,690 --> 00:18:09,730
 Boa Hancock, Impératrice Pirate
-
-1772
-00:18:09,690 --> 00:18:09,730
 Ancienne Grand Corsaire
 
-1773
+1032
 00:18:09,730 --> 00:18:09,770
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1774
-00:18:09,730 --> 00:18:09,770
-Boa Hancock, Impératrice Pirate
-
-1775
-00:18:09,730 --> 00:18:09,770
-Ancienne Grand Corsaire
-
-1776
-00:18:09,770 --> 00:18:09,810
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1777
+1033
 00:18:09,770 --> 00:18:09,810
 Boa Hancock, Impératrice Pirate
-
-1778
-00:18:09,770 --> 00:18:09,810
+Ancienne Grand Corsaire
+Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1779
+1034
 00:18:09,810 --> 00:18:12,440
 C’est au regard de notre force.
 
-1780
+1035
 00:18:09,810 --> 00:18:09,860
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1781
-00:18:09,810 --> 00:18:09,860
 Boa Hancock, Impératrice Pirate
-
-1782
-00:18:09,810 --> 00:18:09,860
 Ancienne Grand Corsaire
 
-1783
+1036
 00:18:09,860 --> 00:18:09,900
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1784
-00:18:09,860 --> 00:18:09,900
 Boa Hancock, Impératrice Pirate
-
-1785
-00:18:09,860 --> 00:18:09,900
 Ancienne Grand Corsaire
 
-1786
+1037
 00:18:09,900 --> 00:18:09,940
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1787
-00:18:09,900 --> 00:18:09,940
 Boa Hancock, Impératrice Pirate
-
-1788
-00:18:09,900 --> 00:18:09,940
 Ancienne Grand Corsaire
 
-1789
+1038
 00:18:09,940 --> 00:18:09,980
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1790
-00:18:09,940 --> 00:18:09,980
 Boa Hancock, Impératrice Pirate
-
-1791
-00:18:09,940 --> 00:18:09,980
 Ancienne Grand Corsaire
 
-1792
+1039
 00:18:09,980 --> 00:18:10,020
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1793
-00:18:09,980 --> 00:18:10,020
 Boa Hancock, Impératrice Pirate
-
-1794
-00:18:09,980 --> 00:18:10,020
 Ancienne Grand Corsaire
 
-1795
+1040
 00:18:10,020 --> 00:18:10,060
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1796
-00:18:10,020 --> 00:18:10,060
 Boa Hancock, Impératrice Pirate
-
-1797
-00:18:10,020 --> 00:18:10,060
 Ancienne Grand Corsaire
 
-1798
+1041
 00:18:10,060 --> 00:18:10,110
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1799
-00:18:10,060 --> 00:18:10,110
 Boa Hancock, Impératrice Pirate
-
-1800
-00:18:10,060 --> 00:18:10,110
 Ancienne Grand Corsaire
 
-1801
+1042
 00:18:10,110 --> 00:18:10,150
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1802
-00:18:10,110 --> 00:18:10,150
 Boa Hancock, Impératrice Pirate
-
-1803
-00:18:10,110 --> 00:18:10,150
 Ancienne Grand Corsaire
 
-1804
+1043
 00:18:10,150 --> 00:18:10,190
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1805
-00:18:10,150 --> 00:18:10,190
 Boa Hancock, Impératrice Pirate
-
-1806
-00:18:10,150 --> 00:18:10,190
 Ancienne Grand Corsaire
 
-1807
+1044
 00:18:10,190 --> 00:18:10,230
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1808
-00:18:10,190 --> 00:18:10,230
 Boa Hancock, Impératrice Pirate
-
-1809
-00:18:10,190 --> 00:18:10,230
 Ancienne Grand Corsaire
 
-1810
+1045
 00:18:10,230 --> 00:18:10,270
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1811
-00:18:10,230 --> 00:18:10,270
 Boa Hancock, Impératrice Pirate
-
-1812
-00:18:10,230 --> 00:18:10,270
 Ancienne Grand Corsaire
 
-1813
+1046
 00:18:10,270 --> 00:18:10,310
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1814
-00:18:10,270 --> 00:18:10,310
 Boa Hancock, Impératrice Pirate
-
-1815
-00:18:10,270 --> 00:18:10,310
 Ancienne Grand Corsaire
 
-1816
+1047
 00:18:10,310 --> 00:18:10,360
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1817
-00:18:10,310 --> 00:18:10,360
 Boa Hancock, Impératrice Pirate
-
-1818
-00:18:10,310 --> 00:18:10,360
 Ancienne Grand Corsaire
 
-1819
+1048
 00:18:10,360 --> 00:18:10,400
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1820
-00:18:10,360 --> 00:18:10,400
 Boa Hancock, Impératrice Pirate
-
-1821
-00:18:10,360 --> 00:18:10,400
 Ancienne Grand Corsaire
 
-1822
+1049
 00:18:10,400 --> 00:18:10,440
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1823
-00:18:10,400 --> 00:18:10,440
 Boa Hancock, Impératrice Pirate
-
-1824
-00:18:10,400 --> 00:18:10,440
 Ancienne Grand Corsaire
 
-1825
+1050
 00:18:10,440 --> 00:18:10,480
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1826
-00:18:10,440 --> 00:18:10,480
 Boa Hancock, Impératrice Pirate
-
-1827
-00:18:10,440 --> 00:18:10,480
 Ancienne Grand Corsaire
 
-1828
+1051
 00:18:10,480 --> 00:18:10,520
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1829
-00:18:10,480 --> 00:18:10,520
 Boa Hancock, Impératrice Pirate
-
-1830
-00:18:10,480 --> 00:18:10,520
 Ancienne Grand Corsaire
 
-1831
+1052
 00:18:10,520 --> 00:18:10,560
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1832
-00:18:10,520 --> 00:18:10,560
 Boa Hancock, Impératrice Pirate
-
-1833
-00:18:10,520 --> 00:18:10,560
 Ancienne Grand Corsaire
 
-1834
+1053
 00:18:10,560 --> 00:18:10,610
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1835
-00:18:10,560 --> 00:18:10,610
 Boa Hancock, Impératrice Pirate
-
-1836
-00:18:10,560 --> 00:18:10,610
 Ancienne Grand Corsaire
 
-1837
+1054
 00:18:10,610 --> 00:18:10,650
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1838
-00:18:10,610 --> 00:18:10,650
 Boa Hancock, Impératrice Pirate
-
-1839
-00:18:10,610 --> 00:18:10,650
 Ancienne Grand Corsaire
 
-1840
+1055
 00:18:10,650 --> 00:18:10,690
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1841
-00:18:10,650 --> 00:18:10,690
 Boa Hancock, Impératrice Pirate
-
-1842
-00:18:10,650 --> 00:18:10,690
 Ancienne Grand Corsaire
 
-1843
+1056
 00:18:10,690 --> 00:18:10,730
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1844
-00:18:10,690 --> 00:18:10,730
 Boa Hancock, Impératrice Pirate
-
-1845
-00:18:10,690 --> 00:18:10,730
 Ancienne Grand Corsaire
 
-1846
+1057
 00:18:10,730 --> 00:18:10,770
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1847
-00:18:10,730 --> 00:18:10,770
 Boa Hancock, Impératrice Pirate
-
-1848
-00:18:10,730 --> 00:18:10,770
 Ancienne Grand Corsaire
 
-1849
+1058
 00:18:10,770 --> 00:18:10,810
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1850
-00:18:10,770 --> 00:18:10,810
 Boa Hancock, Impératrice Pirate
-
-1851
-00:18:10,770 --> 00:18:10,810
 Ancienne Grand Corsaire
 
-1852
+1059
 00:18:10,810 --> 00:18:10,860
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1853
-00:18:10,810 --> 00:18:10,860
 Boa Hancock, Impératrice Pirate
-
-1854
-00:18:10,810 --> 00:18:10,860
 Ancienne Grand Corsaire
 
-1855
+1060
 00:18:10,860 --> 00:18:10,900
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1856
-00:18:10,860 --> 00:18:10,900
 Boa Hancock, Impératrice Pirate
-
-1857
-00:18:10,860 --> 00:18:10,900
 Ancienne Grand Corsaire
 
-1858
+1061
 00:18:10,900 --> 00:18:10,940
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1859
-00:18:10,900 --> 00:18:10,940
 Boa Hancock, Impératrice Pirate
-
-1860
-00:18:10,900 --> 00:18:10,940
 Ancienne Grand Corsaire
 
-1861
+1062
 00:18:10,940 --> 00:18:10,980
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1862
-00:18:10,940 --> 00:18:10,980
 Boa Hancock, Impératrice Pirate
-
-1863
-00:18:10,940 --> 00:18:10,980
 Ancienne Grand Corsaire
 
-1864
+1063
 00:18:10,980 --> 00:18:11,020
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1865
-00:18:10,980 --> 00:18:11,020
 Boa Hancock, Impératrice Pirate
-
-1866
-00:18:10,980 --> 00:18:11,020
 Ancienne Grand Corsaire
 
-1867
+1064
 00:18:11,020 --> 00:18:11,060
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1868
-00:18:11,020 --> 00:18:11,060
 Boa Hancock, Impératrice Pirate
-
-1869
-00:18:11,020 --> 00:18:11,060
 Ancienne Grand Corsaire
 
-1870
+1065
 00:18:11,060 --> 00:18:11,110
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1871
-00:18:11,060 --> 00:18:11,110
 Boa Hancock, Impératrice Pirate
-
-1872
-00:18:11,060 --> 00:18:11,110
 Ancienne Grand Corsaire
 
-1873
+1066
 00:18:11,110 --> 00:18:11,150
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1874
-00:18:11,110 --> 00:18:11,150
 Boa Hancock, Impératrice Pirate
-
-1875
-00:18:11,110 --> 00:18:11,150
 Ancienne Grand Corsaire
 
-1876
+1067
 00:18:11,150 --> 00:18:11,190
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1877
-00:18:11,150 --> 00:18:11,190
 Boa Hancock, Impératrice Pirate
-
-1878
-00:18:11,150 --> 00:18:11,190
 Ancienne Grand Corsaire
 
-1879
+1068
 00:18:11,190 --> 00:18:11,230
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1880
-00:18:11,190 --> 00:18:11,230
 Boa Hancock, Impératrice Pirate
-
-1881
-00:18:11,190 --> 00:18:11,230
 Ancienne Grand Corsaire
 
-1882
+1069
 00:18:11,230 --> 00:18:11,270
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1883
-00:18:11,230 --> 00:18:11,270
 Boa Hancock, Impératrice Pirate
-
-1884
-00:18:11,230 --> 00:18:11,270
 Ancienne Grand Corsaire
 
-1885
+1070
 00:18:11,270 --> 00:18:11,320
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1886
-00:18:11,270 --> 00:18:11,320
 Boa Hancock, Impératrice Pirate
-
-1887
-00:18:11,270 --> 00:18:11,320
 Ancienne Grand Corsaire
 
-1888
+1071
 00:18:11,320 --> 00:18:11,360
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1889
-00:18:11,320 --> 00:18:11,360
 Boa Hancock, Impératrice Pirate
-
-1890
-00:18:11,320 --> 00:18:11,360
 Ancienne Grand Corsaire
 
-1891
+1072
 00:18:11,360 --> 00:18:11,400
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1892
-00:18:11,360 --> 00:18:11,400
 Boa Hancock, Impératrice Pirate
-
-1893
-00:18:11,360 --> 00:18:11,400
 Ancienne Grand Corsaire
 
-1894
+1073
 00:18:11,400 --> 00:18:11,440
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1895
-00:18:11,400 --> 00:18:11,440
 Boa Hancock, Impératrice Pirate
-
-1896
-00:18:11,400 --> 00:18:11,440
 Ancienne Grand Corsaire
 
-1897
+1074
 00:18:11,440 --> 00:18:11,480
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1898
-00:18:11,440 --> 00:18:11,480
 Boa Hancock, Impératrice Pirate
-
-1899
-00:18:11,440 --> 00:18:11,480
 Ancienne Grand Corsaire
 
-1900
+1075
 00:18:11,480 --> 00:18:11,520
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1901
-00:18:11,480 --> 00:18:11,520
 Boa Hancock, Impératrice Pirate
-
-1902
-00:18:11,480 --> 00:18:11,520
 Ancienne Grand Corsaire
 
-1903
+1076
 00:18:11,520 --> 00:18:11,570
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1904
-00:18:11,520 --> 00:18:11,570
 Boa Hancock, Impératrice Pirate
-
-1905
-00:18:11,520 --> 00:18:11,570
 Ancienne Grand Corsaire
 
-1906
+1077
 00:18:11,570 --> 00:18:11,610
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1907
-00:18:11,570 --> 00:18:11,610
 Boa Hancock, Impératrice Pirate
-
-1908
-00:18:11,570 --> 00:18:11,610
 Ancienne Grand Corsaire
 
-1909
+1078
 00:18:11,610 --> 00:18:11,650
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1910
-00:18:11,610 --> 00:18:11,650
 Boa Hancock, Impératrice Pirate
-
-1911
-00:18:11,610 --> 00:18:11,650
 Ancienne Grand Corsaire
 
-1912
+1079
 00:18:11,650 --> 00:18:11,690
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1913
-00:18:11,650 --> 00:18:11,690
 Boa Hancock, Impératrice Pirate
-
-1914
-00:18:11,650 --> 00:18:11,690
 Ancienne Grand Corsaire
 
-1915
+1080
 00:18:11,690 --> 00:18:11,730
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1916
-00:18:11,690 --> 00:18:11,730
 Boa Hancock, Impératrice Pirate
-
-1917
-00:18:11,690 --> 00:18:11,730
 Ancienne Grand Corsaire
 
-1918
+1081
 00:18:11,730 --> 00:18:11,770
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1919
-00:18:11,730 --> 00:18:11,770
 Boa Hancock, Impératrice Pirate
-
-1920
-00:18:11,730 --> 00:18:11,770
 Ancienne Grand Corsaire
 
-1921
+1082
 00:18:11,770 --> 00:18:11,820
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1922
-00:18:11,770 --> 00:18:11,820
 Boa Hancock, Impératrice Pirate
-
-1923
-00:18:11,770 --> 00:18:11,820
 Ancienne Grand Corsaire
 
-1924
+1083
 00:18:11,820 --> 00:18:11,860
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1925
-00:18:11,820 --> 00:18:11,860
 Boa Hancock, Impératrice Pirate
-
-1926
-00:18:11,820 --> 00:18:11,860
 Ancienne Grand Corsaire
 
-1927
+1084
 00:18:11,860 --> 00:18:11,900
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1928
-00:18:11,860 --> 00:18:11,900
 Boa Hancock, Impératrice Pirate
-
-1929
-00:18:11,860 --> 00:18:11,900
 Ancienne Grand Corsaire
 
-1930
+1085
 00:18:11,900 --> 00:18:11,940
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1931
-00:18:11,900 --> 00:18:11,940
 Boa Hancock, Impératrice Pirate
-
-1932
-00:18:11,900 --> 00:18:11,940
 Ancienne Grand Corsaire
 
-1933
+1086
 00:18:11,940 --> 00:18:11,980
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1934
-00:18:11,940 --> 00:18:11,980
 Boa Hancock, Impératrice Pirate
-
-1935
-00:18:11,940 --> 00:18:11,980
 Ancienne Grand Corsaire
 
-1936
+1087
 00:18:11,980 --> 00:18:12,020
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1937
-00:18:11,980 --> 00:18:12,020
 Boa Hancock, Impératrice Pirate
-
-1938
-00:18:11,980 --> 00:18:12,020
 Ancienne Grand Corsaire
 
-1939
+1088
 00:18:12,020 --> 00:18:12,070
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1940
-00:18:12,020 --> 00:18:12,070
 Boa Hancock, Impératrice Pirate
-
-1941
-00:18:12,020 --> 00:18:12,070
 Ancienne Grand Corsaire
 
-1942
+1089
 00:18:12,070 --> 00:18:12,110
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1943
-00:18:12,070 --> 00:18:12,110
 Boa Hancock, Impératrice Pirate
-
-1944
-00:18:12,070 --> 00:18:12,110
 Ancienne Grand Corsaire
 
-1945
+1090
 00:18:12,110 --> 00:18:12,150
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1946
-00:18:12,110 --> 00:18:12,150
 Boa Hancock, Impératrice Pirate
-
-1947
-00:18:12,110 --> 00:18:12,150
 Ancienne Grand Corsaire
 
-1948
+1091
 00:18:12,150 --> 00:18:12,190
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1949
-00:18:12,150 --> 00:18:12,190
 Boa Hancock, Impératrice Pirate
-
-1950
-00:18:12,150 --> 00:18:12,190
 Ancienne Grand Corsaire
 
-1951
+1092
 00:18:12,190 --> 00:18:12,230
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1952
-00:18:12,190 --> 00:18:12,230
 Boa Hancock, Impératrice Pirate
-
-1953
-00:18:12,190 --> 00:18:12,230
 Ancienne Grand Corsaire
 
-1954
+1093
 00:18:12,230 --> 00:18:12,270
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1955
-00:18:12,230 --> 00:18:12,270
 Boa Hancock, Impératrice Pirate
-
-1956
-00:18:12,230 --> 00:18:12,270
 Ancienne Grand Corsaire
 
-1957
+1094
 00:18:12,270 --> 00:18:12,320
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1958
-00:18:12,270 --> 00:18:12,320
 Boa Hancock, Impératrice Pirate
-
-1959
-00:18:12,270 --> 00:18:12,320
 Ancienne Grand Corsaire
 
-1960
+1095
 00:18:12,320 --> 00:18:12,360
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1961
-00:18:12,320 --> 00:18:12,360
 Boa Hancock, Impératrice Pirate
-
-1962
-00:18:12,320 --> 00:18:12,360
 Ancienne Grand Corsaire
 
-1963
+1096
 00:18:12,360 --> 00:18:12,400
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1964
-00:18:12,360 --> 00:18:12,400
 Boa Hancock, Impératrice Pirate
-
-1965
-00:18:12,360 --> 00:18:12,400
 Ancienne Grand Corsaire
 
-1966
+1097
 00:18:12,400 --> 00:18:12,440
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1967
-00:18:12,400 --> 00:18:12,440
 Boa Hancock, Impératrice Pirate
-
-1968
-00:18:12,400 --> 00:18:12,440
 Ancienne Grand Corsaire
 
-1969
+1098
 00:18:12,440 --> 00:18:12,480
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1970
-00:18:12,440 --> 00:18:12,480
 Boa Hancock, Impératrice Pirate
-
-1971
-00:18:12,440 --> 00:18:12,480
 Ancienne Grand Corsaire
 
-1972
+1099
 00:18:12,480 --> 00:18:12,520
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1973
-00:18:12,480 --> 00:18:12,520
 Boa Hancock, Impératrice Pirate
-
-1974
-00:18:12,480 --> 00:18:12,520
 Ancienne Grand Corsaire
 
-1975
+1100
 00:18:12,520 --> 00:18:12,570
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1976
-00:18:12,520 --> 00:18:12,570
 Boa Hancock, Impératrice Pirate
-
-1977
-00:18:12,520 --> 00:18:12,570
 Ancienne Grand Corsaire
 
-1978
+1101
 00:18:12,570 --> 00:18:12,610
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1979
-00:18:12,570 --> 00:18:12,610
 Boa Hancock, Impératrice Pirate
-
-1980
-00:18:12,570 --> 00:18:12,610
 Ancienne Grand Corsaire
 
-1981
+1102
 00:18:12,610 --> 00:18:12,650
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1982
-00:18:12,610 --> 00:18:12,650
 Boa Hancock, Impératrice Pirate
-
-1983
-00:18:12,610 --> 00:18:12,650
 Ancienne Grand Corsaire
 
-1984
+1103
 00:18:12,650 --> 00:18:12,690
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
-
-1985
-00:18:12,650 --> 00:18:12,690
-Boa Hancock, Impératrice Pirate
-
-1986
-00:18:12,650 --> 00:18:12,690
-Ancienne Grand Corsaire
-
-1987
-00:18:12,690 --> 00:18:12,730
 Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1988
+1104
 00:18:12,690 --> 00:18:12,730
 Boa Hancock, Impératrice Pirate
-
-1989
-00:18:12,690 --> 00:18:12,730
+Ancienne Grand Corsaire
+Boa Hancock, Impératrice Pirate
 Ancienne Grand Corsaire
 
-1990
+1105
 00:18:12,900 --> 00:18:15,650
 Je compte sur vous, les gars.
 
-1991
+1106
 00:18:16,070 --> 00:18:17,900
 Pendant ce temps, moi…
 
-1992
+1107
 00:18:20,410 --> 00:18:22,120
 Je prendrai la fuite !

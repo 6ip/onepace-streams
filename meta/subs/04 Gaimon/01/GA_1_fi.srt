@@ -910,392 +910,388 @@ Näin en voi kiivetä!
 Enkä ees pääse irti!
 
 219
-00:14:39,230 --> 00:14:43,280
-Tulkaa takaisin, kaverit!
-
-220
 00:14:43,200 --> 00:14:44,740
 Siitä päivästä lähtien...
 
-221
+220
 00:14:44,740 --> 00:14:49,910
 olen jatkuvasti ajatellut sitä aarretta.
 
-222
+221
 00:14:49,910 --> 00:14:53,790
 Saaliinhimoisia piraatteja saapui,
 
-223
+222
 00:14:53,790 --> 00:14:56,670
 mutta pelätin kaikki eläinystävilläni.
 
-224
+223
 00:14:56,670 --> 00:15:02,010
 Oon 20 vuotta varjellu aarretta niin.
 
-225
+224
 00:15:02,590 --> 00:15:03,920
 Se on mun!
 
-226
+225
 00:15:03,920 --> 00:15:05,680
 Totta puhut.
 
-227
+226
 00:15:05,680 --> 00:15:07,140
 Se on sun.
 
-228
+227
 00:15:07,140 --> 00:15:08,970
 Selvän teki, herra Gaimon.
 
-229
+228
 00:15:08,970 --> 00:15:12,350
 Haemme aarteen puolestanne.
 
-230
+229
 00:15:13,180 --> 00:15:14,560
 Ihanks totta?!
 
-231
+230
 00:15:13,680 --> 00:15:14,560
 Joo.
 
-232
+231
 00:15:14,890 --> 00:15:15,810
 Eikai hän...
 
-233
+232
 00:15:16,190 --> 00:15:19,110
 Sähän olit merirosvoihin
 erikoistunut varas.
 
-234
+233
 00:15:19,110 --> 00:15:20,270
 Pää kiinni!
 
-235
+234
 00:15:20,900 --> 00:15:23,280
 On minullakin omatunto.
 
-236
+235
 00:15:47,550 --> 00:15:48,760
 Tääkö se on?
 
-237
+236
 00:15:48,760 --> 00:15:51,680
 En oo itekään käyny täällä aikoihin.
 
-238
+237
 00:15:55,390 --> 00:15:57,770
 Aika koitti vihdoin.
 
-239
+238
 00:15:57,770 --> 00:15:58,940
 Tää on hyvä päivä.
 
-240
+239
 00:15:58,940 --> 00:16:00,440
 Luotan sinuun, Olkilätsä!
 
-241
+240
 00:16:00,440 --> 00:16:01,060
 Selvä!
 
-242
+241
 00:16:01,060 --> 00:16:02,520
 Gumigumi...
 
-243
+242
 00:16:06,150 --> 00:16:09,280
 Raketti!
 
-244
+243
 00:16:09,870 --> 00:16:12,120
 Wuhuu!
 
-245
+244
 00:16:18,290 --> 00:16:20,130
 No? Onko siellä mitään?
 
-246
+245
 00:16:25,630 --> 00:16:28,090
 On täällä arkkuja! Viiskin!
 
-247
+246
 00:16:28,090 --> 00:16:29,840
 V-Viimein!
 
-248
+247
 00:16:32,430 --> 00:16:36,180
 Sain viimein aarteeni! Aarteeni!
 
-249
+248
 00:16:36,180 --> 00:16:37,850
 Tipauta ne tänne!
 
-250
+249
 00:16:37,850 --> 00:16:40,940
 Heitä ne minulle! Äkkiä!
 
-251
+250
 00:16:40,940 --> 00:16:41,690
 Ei käy.
 
-252
+251
 00:16:41,690 --> 00:16:42,980
 Mitä?!
 
-253
+252
 00:16:44,320 --> 00:16:47,030
 Ei käy, en halua antaa niitä.
 
-254
+253
 00:16:47,030 --> 00:16:48,820
 Mitä sinä höpiset?!
 
-255
+254
 00:16:48,820 --> 00:16:50,360
 Lopeta pelleily!
 
-256
+255
 00:16:55,450 --> 00:16:57,410
 Lopeta tuollainen!
 
-257
+256
 00:16:57,410 --> 00:16:58,790
 Ei sillä väliä.
 
-258
+257
 00:16:59,960 --> 00:17:01,120
 Jos se ei haluu.
 
-259
+258
 00:17:01,120 --> 00:17:02,210
 On sillä väliä!
 
-260
+259
 00:17:02,210 --> 00:17:06,420
 Niin! Olet varjellut
 aarretta 20 vuotta!
 
-261
+260
 00:17:07,840 --> 00:17:10,050
 Olkilätsä, sä oot...
 
-262
+261
 00:17:10,050 --> 00:17:12,390
 hyvä jätkä.
 
-263
+262
 00:17:13,180 --> 00:17:14,600
 Mitä sinä...?
 
-264
+263
 00:17:15,430 --> 00:17:19,770
 Sitä tuli aina joskus mietittyä.
 
-265
+264
 00:17:19,770 --> 00:17:22,940
 Yritin kyllä olla aattelematta.
 
-266
+265
 00:17:24,270 --> 00:17:26,320
 Ne on vissiin tyhjiä.
 
-267
+266
 00:17:28,610 --> 00:17:29,820
 Joo.
 
-268
+267
 00:17:29,820 --> 00:17:31,410
 Joka ainoa.
 
-269
+268
 00:17:31,410 --> 00:17:32,570
 Voi ei...
 
-270
+269
 00:17:32,570 --> 00:17:36,990
 20 vuotta varjelitkin
 vain tyhjiä laatikoita...
 
-271
+270
 00:17:36,990 --> 00:17:41,710
 Ihan yleinen juttu
 aarrekarttojen kanssa.
 
-272
+271
 00:17:42,080 --> 00:17:45,170
 Kartta löytyy vasta,
 kun aarre on viety.
 
-273
+272
 00:17:45,170 --> 00:17:48,920
 Sen takia aarteenmetsästys
 on niin ankaraa.
 
-274
+273
 00:17:49,420 --> 00:17:53,760
 Voit käyttää koko elinikäsi
 etsimiseen löytämättä mitään.
 
-275
+274
 00:17:53,760 --> 00:17:56,180
 Niin on käynyt monille piraateille.
 
-276
+275
 00:17:58,890 --> 00:18:01,390
 Turha vetistellä, pappa.
 
-277
+276
 00:18:01,390 --> 00:18:03,650
 Hyvä että satuttiin paikalle
 jo 20 vuoden jälkeen.
 
-278
+277
 00:18:03,980 --> 00:18:06,940
 Vielä 30 vuotta ja
 saattaisit olla haudassa.
 
-279
+278
 00:18:07,980 --> 00:18:09,320
 Olkilätsä...
 
-280
+279
 00:18:09,320 --> 00:18:10,240
 Luffy...
 
-281
+280
 00:18:10,240 --> 00:18:11,320
 Hän...
 
-282
+281
 00:18:11,320 --> 00:18:13,450
 Parasta jatkaa hölmöilylinjalla...
 
-283
+282
 00:18:13,450 --> 00:18:15,780
 seuraavaksi One Piecen perässä.
 
-284
+283
 00:18:15,780 --> 00:18:18,410
 Ryhdy taas piraatiksi, mun kanssa!
 
-285
+284
 00:18:18,410 --> 00:18:22,540
 Säkö pyydät mua?
 
-286
+285
 00:18:23,420 --> 00:18:25,380
 Tähän mennessä,
 
-287
+286
 00:18:25,380 --> 00:18:28,380
 ei kukaan mut
 nähtyään tullu jutteleen.
 
-288
+287
 00:18:29,050 --> 00:18:32,340
 Milloin viimeksi luotin johonkuhun?
 
-289
+288
 00:18:38,810 --> 00:18:40,680
 Kiitos.
 
-290
+289
 00:18:51,820 --> 00:18:54,820
 Ootsä varma että meinaat
 jäädä tänne, pesusienimies?
 
-291
+290
 00:18:54,820 --> 00:18:56,160
 Jep, Olkilätsä.
 
-292
+291
 00:18:56,160 --> 00:19:00,120
 Ilman aarrettakin täällä on varjeltavaa.
 
-293
+292
 00:19:00,120 --> 00:19:01,240
 Täh?
 
-294
+293
 00:19:01,240 --> 00:19:02,620
 Varjeltavaa?
 
-295
+294
 00:19:04,540 --> 00:19:08,590
 Olen kokenut kaikenlaista
 metsän asukkien kanssa.
 
-296
+295
 00:19:08,590 --> 00:19:10,840
 En mä voi hylätä niitä.
 
-297
+296
 00:19:18,510 --> 00:19:23,180
 Nyt kun tiedän totuuden
 aarteesta, olo on vapaampi.
 
-298
+297
 00:19:23,180 --> 00:19:26,560
 Nyt voin elää haluamaani elämää.
 
-299
+298
 00:19:26,560 --> 00:19:29,520
 Ja oon alkanut pitämään
 arkussa elämisestä.
 
-300
+299
 00:19:29,520 --> 00:19:31,530
 Okei. Vaikka sääli silti.
 
-301
+300
 00:19:31,530 --> 00:19:33,280
 Oot lysti tyyppi.
 
-302
+301
 00:19:33,280 --> 00:19:35,530
 Joten elukat ovat tosiystäväsi.
 
-303
+302
 00:19:36,070 --> 00:19:38,280
 Mut sä oot näistä otuksista oudoin.
 
-304
+303
 00:19:38,280 --> 00:19:39,450
 Mitäh?!
 
-305
+304
 00:19:49,210 --> 00:19:50,590
 Heippa sitten!
 
-306
+305
 00:19:50,590 --> 00:19:52,670
 Pärjäile!
 
-307
+306
 00:19:52,670 --> 00:19:54,510
 Hei hei!
 
-308
+307
 00:19:57,340 --> 00:19:58,840
 Olkilätsä...
 
-309
+308
 00:19:58,840 --> 00:20:02,350
 Saavuta unelmasi
 minunkin tähden.
 
-310
+309
 00:20:02,760 --> 00:20:05,350
 Saat takuulla käsiisi sen.
 
-311
+310
 00:20:05,850 --> 00:20:08,190
 Legendaarisen One Piece-aarteen.
 
-312
+311
 00:20:10,230 --> 00:20:15,900
 Ja sitten ostat koko maailman!

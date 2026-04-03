@@ -1639,1800 +1639,1527 @@ Yeah, we just finished up here.
 343
 00:17:28,440 --> 00:17:28,490
 Rear Admiral Prince Grus
+Marine Headquarters
 
 344
-00:17:28,440 --> 00:17:28,490
+00:17:28,490 --> 00:17:28,530
+Rear Admiral Prince Grus
 Marine Headquarters
 
 345
-00:17:28,490 --> 00:17:28,530
+00:17:28,530 --> 00:17:28,570
 Rear Admiral Prince Grus
+Marine Headquarters
 
 346
-00:17:28,490 --> 00:17:28,530
+00:17:28,570 --> 00:17:28,610
+Rear Admiral Prince Grus
 Marine Headquarters
 
 347
-00:17:28,530 --> 00:17:28,570
+00:17:28,610 --> 00:17:28,650
 Rear Admiral Prince Grus
+Marine Headquarters
 
 348
-00:17:28,530 --> 00:17:28,570
+00:17:28,650 --> 00:17:28,690
+Rear Admiral Prince Grus
 Marine Headquarters
 
 349
-00:17:28,570 --> 00:17:28,610
+00:17:28,690 --> 00:17:28,740
 Rear Admiral Prince Grus
+Marine Headquarters
 
 350
-00:17:28,570 --> 00:17:28,610
+00:17:28,740 --> 00:17:28,780
+Rear Admiral Prince Grus
 Marine Headquarters
 
 351
-00:17:28,610 --> 00:17:28,650
+00:17:28,780 --> 00:17:28,820
 Rear Admiral Prince Grus
+Marine Headquarters
 
 352
-00:17:28,610 --> 00:17:28,650
+00:17:28,820 --> 00:17:28,860
+Rear Admiral Prince Grus
 Marine Headquarters
 
 353
-00:17:28,650 --> 00:17:28,690
+00:17:28,860 --> 00:17:28,900
 Rear Admiral Prince Grus
+Marine Headquarters
 
 354
-00:17:28,650 --> 00:17:28,690
+00:17:28,900 --> 00:17:28,940
+Rear Admiral Prince Grus
 Marine Headquarters
 
 355
-00:17:28,690 --> 00:17:28,740
+00:17:28,940 --> 00:17:28,990
 Rear Admiral Prince Grus
+Marine Headquarters
 
 356
-00:17:28,690 --> 00:17:28,740
+00:17:28,990 --> 00:17:29,030
+Rear Admiral Prince Grus
 Marine Headquarters
 
 357
-00:17:28,740 --> 00:17:28,780
+00:17:29,030 --> 00:17:29,070
 Rear Admiral Prince Grus
+Marine Headquarters
 
 358
-00:17:28,740 --> 00:17:28,780
+00:17:29,070 --> 00:17:29,110
+Rear Admiral Prince Grus
 Marine Headquarters
 
 359
-00:17:28,780 --> 00:17:28,820
+00:17:29,110 --> 00:17:29,150
 Rear Admiral Prince Grus
+Marine Headquarters
 
 360
-00:17:28,780 --> 00:17:28,820
+00:17:29,150 --> 00:17:29,190
+Rear Admiral Prince Grus
 Marine Headquarters
 
 361
-00:17:28,820 --> 00:17:28,860
+00:17:29,190 --> 00:17:29,240
 Rear Admiral Prince Grus
+Marine Headquarters
 
 362
-00:17:28,820 --> 00:17:28,860
+00:17:29,240 --> 00:17:29,280
+Rear Admiral Prince Grus
 Marine Headquarters
 
 363
-00:17:28,860 --> 00:17:28,900
+00:17:29,280 --> 00:17:29,320
 Rear Admiral Prince Grus
+Marine Headquarters
 
 364
-00:17:28,860 --> 00:17:28,900
+00:17:29,320 --> 00:17:29,360
+Rear Admiral Prince Grus
 Marine Headquarters
 
 365
-00:17:28,900 --> 00:17:28,940
+00:17:29,360 --> 00:17:29,400
 Rear Admiral Prince Grus
+Marine Headquarters
 
 366
-00:17:28,900 --> 00:17:28,940
+00:17:29,400 --> 00:17:29,440
+Rear Admiral Prince Grus
 Marine Headquarters
 
 367
-00:17:28,940 --> 00:17:28,990
+00:17:29,440 --> 00:17:29,490
 Rear Admiral Prince Grus
+Marine Headquarters
 
 368
-00:17:28,940 --> 00:17:28,990
+00:17:29,490 --> 00:17:29,530
+Rear Admiral Prince Grus
 Marine Headquarters
 
 369
-00:17:28,990 --> 00:17:29,030
+00:17:29,530 --> 00:17:29,570
 Rear Admiral Prince Grus
+Marine Headquarters
 
 370
-00:17:28,990 --> 00:17:29,030
+00:17:29,570 --> 00:17:29,610
+Rear Admiral Prince Grus
 Marine Headquarters
 
 371
-00:17:29,030 --> 00:17:29,070
+00:17:29,610 --> 00:17:29,650
 Rear Admiral Prince Grus
+Marine Headquarters
 
 372
-00:17:29,030 --> 00:17:29,070
+00:17:29,650 --> 00:17:29,700
+Rear Admiral Prince Grus
 Marine Headquarters
 
 373
-00:17:29,070 --> 00:17:29,110
+00:17:29,700 --> 00:17:29,740
 Rear Admiral Prince Grus
+Marine Headquarters
 
 374
-00:17:29,070 --> 00:17:29,110
+00:17:29,740 --> 00:17:29,780
+Rear Admiral Prince Grus
 Marine Headquarters
 
 375
-00:17:29,110 --> 00:17:29,150
+00:17:29,780 --> 00:17:29,820
 Rear Admiral Prince Grus
+Marine Headquarters
 
 376
-00:17:29,110 --> 00:17:29,150
+00:17:29,820 --> 00:17:29,860
+Rear Admiral Prince Grus
 Marine Headquarters
 
 377
-00:17:29,150 --> 00:17:29,190
+00:17:29,860 --> 00:17:29,900
 Rear Admiral Prince Grus
+Marine Headquarters
 
 378
-00:17:29,150 --> 00:17:29,190
+00:17:29,900 --> 00:17:29,950
+Rear Admiral Prince Grus
 Marine Headquarters
 
 379
-00:17:29,190 --> 00:17:29,240
+00:17:29,950 --> 00:17:29,990
 Rear Admiral Prince Grus
+Marine Headquarters
 
 380
-00:17:29,190 --> 00:17:29,240
+00:17:29,990 --> 00:17:30,030
+Rear Admiral Prince Grus
 Marine Headquarters
 
 381
-00:17:29,240 --> 00:17:29,280
+00:17:30,030 --> 00:17:30,070
 Rear Admiral Prince Grus
+Marine Headquarters
 
 382
-00:17:29,240 --> 00:17:29,280
+00:17:30,070 --> 00:17:30,110
+Rear Admiral Prince Grus
 Marine Headquarters
 
 383
-00:17:29,280 --> 00:17:29,320
+00:17:30,110 --> 00:17:30,150
 Rear Admiral Prince Grus
+Marine Headquarters
 
 384
-00:17:29,280 --> 00:17:29,320
+00:17:30,150 --> 00:17:30,200
+Rear Admiral Prince Grus
 Marine Headquarters
 
 385
-00:17:29,320 --> 00:17:29,360
+00:17:30,200 --> 00:17:30,240
 Rear Admiral Prince Grus
+Marine Headquarters
 
 386
-00:17:29,320 --> 00:17:29,360
+00:17:30,240 --> 00:17:30,280
+Rear Admiral Prince Grus
 Marine Headquarters
 
 387
-00:17:29,360 --> 00:17:29,400
+00:17:30,280 --> 00:17:30,320
 Rear Admiral Prince Grus
+Marine Headquarters
 
 388
-00:17:29,360 --> 00:17:29,400
+00:17:30,320 --> 00:17:30,360
+Rear Admiral Prince Grus
 Marine Headquarters
 
 389
-00:17:29,400 --> 00:17:29,440
+00:17:30,360 --> 00:17:30,400
 Rear Admiral Prince Grus
+Marine Headquarters
 
 390
-00:17:29,400 --> 00:17:29,440
+00:17:30,400 --> 00:17:30,450
+Rear Admiral Prince Grus
 Marine Headquarters
 
 391
-00:17:29,440 --> 00:17:29,490
+00:17:30,450 --> 00:17:30,490
 Rear Admiral Prince Grus
+Marine Headquarters
 
 392
-00:17:29,440 --> 00:17:29,490
+00:17:30,490 --> 00:17:30,530
+Rear Admiral Prince Grus
 Marine Headquarters
 
 393
-00:17:29,490 --> 00:17:29,530
+00:17:30,530 --> 00:17:30,570
 Rear Admiral Prince Grus
+Marine Headquarters
 
 394
-00:17:29,490 --> 00:17:29,530
+00:17:30,570 --> 00:17:30,610
+Rear Admiral Prince Grus
 Marine Headquarters
 
 395
-00:17:29,530 --> 00:17:29,570
+00:17:30,610 --> 00:17:30,650
 Rear Admiral Prince Grus
+Marine Headquarters
 
 396
-00:17:29,530 --> 00:17:29,570
+00:17:30,650 --> 00:17:30,700
+Rear Admiral Prince Grus
 Marine Headquarters
 
 397
-00:17:29,570 --> 00:17:29,610
+00:17:30,700 --> 00:17:30,740
 Rear Admiral Prince Grus
+Marine Headquarters
 
 398
-00:17:29,570 --> 00:17:29,610
+00:17:30,740 --> 00:17:30,780
+Rear Admiral Prince Grus
 Marine Headquarters
 
 399
-00:17:29,610 --> 00:17:29,650
+00:17:30,780 --> 00:17:30,820
 Rear Admiral Prince Grus
+Marine Headquarters
 
 400
-00:17:29,610 --> 00:17:29,650
+00:17:30,820 --> 00:17:30,860
+Rear Admiral Prince Grus
 Marine Headquarters
 
 401
-00:17:29,650 --> 00:17:29,700
+00:17:30,860 --> 00:17:30,900
 Rear Admiral Prince Grus
+Marine Headquarters
 
 402
-00:17:29,650 --> 00:17:29,700
+00:17:30,900 --> 00:17:30,950
+Rear Admiral Prince Grus
 Marine Headquarters
 
 403
-00:17:29,700 --> 00:17:29,740
+00:17:30,950 --> 00:17:30,990
 Rear Admiral Prince Grus
+Marine Headquarters
 
 404
-00:17:29,700 --> 00:17:29,740
+00:17:30,990 --> 00:17:31,030
+Rear Admiral Prince Grus
 Marine Headquarters
 
 405
-00:17:29,740 --> 00:17:29,780
+00:17:31,030 --> 00:17:31,070
 Rear Admiral Prince Grus
+Marine Headquarters
 
 406
-00:17:29,740 --> 00:17:29,780
+00:17:31,070 --> 00:17:31,110
+Rear Admiral Prince Grus
 Marine Headquarters
 
 407
-00:17:29,780 --> 00:17:29,820
+00:17:31,110 --> 00:17:31,150
 Rear Admiral Prince Grus
+Marine Headquarters
 
 408
-00:17:29,780 --> 00:17:29,820
+00:17:31,150 --> 00:17:31,200
+Rear Admiral Prince Grus
 Marine Headquarters
 
 409
-00:17:29,820 --> 00:17:29,860
+00:17:31,200 --> 00:17:31,240
 Rear Admiral Prince Grus
+Marine Headquarters
 
 410
-00:17:29,820 --> 00:17:29,860
+00:17:31,240 --> 00:17:31,280
+Rear Admiral Prince Grus
 Marine Headquarters
 
 411
-00:17:29,860 --> 00:17:29,900
+00:17:31,280 --> 00:17:31,320
 Rear Admiral Prince Grus
+Marine Headquarters
 
 412
-00:17:29,860 --> 00:17:29,900
+00:17:31,320 --> 00:17:31,360
+Rear Admiral Prince Grus
 Marine Headquarters
 
 413
-00:17:29,900 --> 00:17:29,950
+00:17:31,360 --> 00:17:31,410
 Rear Admiral Prince Grus
+Marine Headquarters
 
 414
-00:17:29,900 --> 00:17:29,950
+00:17:31,410 --> 00:17:31,450
+Rear Admiral Prince Grus
 Marine Headquarters
 
 415
-00:17:29,950 --> 00:17:29,990
+00:17:31,450 --> 00:17:31,490
 Rear Admiral Prince Grus
+Marine Headquarters
 
 416
-00:17:29,950 --> 00:17:29,990
+00:17:31,490 --> 00:17:31,530
+Rear Admiral Prince Grus
 Marine Headquarters
 
 417
-00:17:29,990 --> 00:17:30,030
+00:17:31,530 --> 00:17:31,570
 Rear Admiral Prince Grus
+Marine Headquarters
 
 418
-00:17:29,990 --> 00:17:30,030
+00:17:31,570 --> 00:17:31,610
+Rear Admiral Prince Grus
 Marine Headquarters
 
 419
-00:17:30,030 --> 00:17:30,070
+00:17:31,610 --> 00:17:31,660
 Rear Admiral Prince Grus
+Marine Headquarters
 
 420
-00:17:30,030 --> 00:17:30,070
+00:17:31,660 --> 00:17:31,700
+Rear Admiral Prince Grus
 Marine Headquarters
 
 421
-00:17:30,070 --> 00:17:30,110
+00:17:31,700 --> 00:17:31,740
 Rear Admiral Prince Grus
+Marine Headquarters
 
 422
-00:17:30,070 --> 00:17:30,110
+00:17:31,740 --> 00:17:31,780
+Rear Admiral Prince Grus
 Marine Headquarters
 
 423
-00:17:30,110 --> 00:17:30,150
+00:17:31,780 --> 00:17:31,820
 Rear Admiral Prince Grus
+Marine Headquarters
 
 424
-00:17:30,110 --> 00:17:30,150
+00:17:31,820 --> 00:17:31,860
+Rear Admiral Prince Grus
 Marine Headquarters
 
 425
-00:17:30,150 --> 00:17:30,200
+00:17:31,860 --> 00:17:31,910
 Rear Admiral Prince Grus
+Marine Headquarters
 
 426
-00:17:30,150 --> 00:17:30,200
+00:17:31,910 --> 00:17:31,950
+Rear Admiral Prince Grus
 Marine Headquarters
 
 427
-00:17:30,200 --> 00:17:30,240
+00:17:31,950 --> 00:17:31,990
 Rear Admiral Prince Grus
+Marine Headquarters
 
 428
-00:17:30,200 --> 00:17:30,240
+00:17:31,990 --> 00:17:32,030
+Rear Admiral Prince Grus
 Marine Headquarters
 
 429
-00:17:30,240 --> 00:17:30,280
+00:17:32,030 --> 00:17:32,070
 Rear Admiral Prince Grus
+Marine Headquarters
 
 430
-00:17:30,240 --> 00:17:30,280
+00:17:32,070 --> 00:17:32,110
+Rear Admiral Prince Grus
 Marine Headquarters
 
 431
-00:17:30,280 --> 00:17:30,320
+00:17:32,110 --> 00:17:32,160
 Rear Admiral Prince Grus
+Marine Headquarters
 
 432
-00:17:30,280 --> 00:17:30,320
+00:17:32,160 --> 00:17:32,200
+Rear Admiral Prince Grus
 Marine Headquarters
 
 433
-00:17:30,320 --> 00:17:30,360
-Rear Admiral Prince Grus
-
-434
-00:17:30,320 --> 00:17:30,360
-Marine Headquarters
-
-435
-00:17:30,360 --> 00:17:30,400
-Rear Admiral Prince Grus
-
-436
-00:17:30,360 --> 00:17:30,400
-Marine Headquarters
-
-437
-00:17:30,400 --> 00:17:30,450
-Rear Admiral Prince Grus
-
-438
-00:17:30,400 --> 00:17:30,450
-Marine Headquarters
-
-439
-00:17:30,450 --> 00:17:30,490
-Rear Admiral Prince Grus
-
-440
-00:17:30,450 --> 00:17:30,490
-Marine Headquarters
-
-441
-00:17:30,490 --> 00:17:30,530
-Rear Admiral Prince Grus
-
-442
-00:17:30,490 --> 00:17:30,530
-Marine Headquarters
-
-443
-00:17:30,530 --> 00:17:30,570
-Rear Admiral Prince Grus
-
-444
-00:17:30,530 --> 00:17:30,570
-Marine Headquarters
-
-445
-00:17:30,570 --> 00:17:30,610
-Rear Admiral Prince Grus
-
-446
-00:17:30,570 --> 00:17:30,610
-Marine Headquarters
-
-447
-00:17:30,610 --> 00:17:30,650
-Rear Admiral Prince Grus
-
-448
-00:17:30,610 --> 00:17:30,650
-Marine Headquarters
-
-449
-00:17:30,650 --> 00:17:30,700
-Rear Admiral Prince Grus
-
-450
-00:17:30,650 --> 00:17:30,700
-Marine Headquarters
-
-451
-00:17:30,700 --> 00:17:30,740
-Rear Admiral Prince Grus
-
-452
-00:17:30,700 --> 00:17:30,740
-Marine Headquarters
-
-453
-00:17:30,740 --> 00:17:30,780
-Rear Admiral Prince Grus
-
-454
-00:17:30,740 --> 00:17:30,780
-Marine Headquarters
-
-455
-00:17:30,780 --> 00:17:30,820
-Rear Admiral Prince Grus
-
-456
-00:17:30,780 --> 00:17:30,820
-Marine Headquarters
-
-457
-00:17:30,820 --> 00:17:30,860
-Rear Admiral Prince Grus
-
-458
-00:17:30,820 --> 00:17:30,860
-Marine Headquarters
-
-459
-00:17:30,860 --> 00:17:30,900
-Rear Admiral Prince Grus
-
-460
-00:17:30,860 --> 00:17:30,900
-Marine Headquarters
-
-461
-00:17:30,900 --> 00:17:30,950
-Rear Admiral Prince Grus
-
-462
-00:17:30,900 --> 00:17:30,950
-Marine Headquarters
-
-463
-00:17:30,950 --> 00:17:30,990
-Rear Admiral Prince Grus
-
-464
-00:17:30,950 --> 00:17:30,990
-Marine Headquarters
-
-465
-00:17:30,990 --> 00:17:31,030
-Rear Admiral Prince Grus
-
-466
-00:17:30,990 --> 00:17:31,030
-Marine Headquarters
-
-467
-00:17:31,030 --> 00:17:31,070
-Rear Admiral Prince Grus
-
-468
-00:17:31,030 --> 00:17:31,070
-Marine Headquarters
-
-469
-00:17:31,070 --> 00:17:31,110
-Rear Admiral Prince Grus
-
-470
-00:17:31,070 --> 00:17:31,110
-Marine Headquarters
-
-471
-00:17:31,110 --> 00:17:31,150
-Rear Admiral Prince Grus
-
-472
-00:17:31,110 --> 00:17:31,150
-Marine Headquarters
-
-473
-00:17:31,150 --> 00:17:31,200
-Rear Admiral Prince Grus
-
-474
-00:17:31,150 --> 00:17:31,200
-Marine Headquarters
-
-475
-00:17:31,200 --> 00:17:31,240
-Rear Admiral Prince Grus
-
-476
-00:17:31,200 --> 00:17:31,240
-Marine Headquarters
-
-477
-00:17:31,240 --> 00:17:31,280
-Rear Admiral Prince Grus
-
-478
-00:17:31,240 --> 00:17:31,280
-Marine Headquarters
-
-479
-00:17:31,280 --> 00:17:31,320
-Rear Admiral Prince Grus
-
-480
-00:17:31,280 --> 00:17:31,320
-Marine Headquarters
-
-481
-00:17:31,320 --> 00:17:31,360
-Rear Admiral Prince Grus
-
-482
-00:17:31,320 --> 00:17:31,360
-Marine Headquarters
-
-483
-00:17:31,360 --> 00:17:31,410
-Rear Admiral Prince Grus
-
-484
-00:17:31,360 --> 00:17:31,410
-Marine Headquarters
-
-485
-00:17:31,410 --> 00:17:31,450
-Rear Admiral Prince Grus
-
-486
-00:17:31,410 --> 00:17:31,450
-Marine Headquarters
-
-487
-00:17:31,450 --> 00:17:31,490
-Rear Admiral Prince Grus
-
-488
-00:17:31,450 --> 00:17:31,490
-Marine Headquarters
-
-489
-00:17:31,490 --> 00:17:31,530
-Rear Admiral Prince Grus
-
-490
-00:17:31,490 --> 00:17:31,530
-Marine Headquarters
-
-491
-00:17:31,530 --> 00:17:31,570
-Rear Admiral Prince Grus
-
-492
-00:17:31,530 --> 00:17:31,570
-Marine Headquarters
-
-493
-00:17:31,570 --> 00:17:31,610
-Rear Admiral Prince Grus
-
-494
-00:17:31,570 --> 00:17:31,610
-Marine Headquarters
-
-495
-00:17:31,610 --> 00:17:31,660
-Rear Admiral Prince Grus
-
-496
-00:17:31,610 --> 00:17:31,660
-Marine Headquarters
-
-497
-00:17:31,660 --> 00:17:31,700
-Rear Admiral Prince Grus
-
-498
-00:17:31,660 --> 00:17:31,700
-Marine Headquarters
-
-499
-00:17:31,700 --> 00:17:31,740
-Rear Admiral Prince Grus
-
-500
-00:17:31,700 --> 00:17:31,740
-Marine Headquarters
-
-501
-00:17:31,740 --> 00:17:31,780
-Rear Admiral Prince Grus
-
-502
-00:17:31,740 --> 00:17:31,780
-Marine Headquarters
-
-503
-00:17:31,780 --> 00:17:31,820
-Rear Admiral Prince Grus
-
-504
-00:17:31,780 --> 00:17:31,820
-Marine Headquarters
-
-505
-00:17:31,820 --> 00:17:31,860
-Rear Admiral Prince Grus
-
-506
-00:17:31,820 --> 00:17:31,860
-Marine Headquarters
-
-507
-00:17:31,860 --> 00:17:31,910
-Rear Admiral Prince Grus
-
-508
-00:17:31,860 --> 00:17:31,910
-Marine Headquarters
-
-509
-00:17:31,910 --> 00:17:31,950
-Rear Admiral Prince Grus
-
-510
-00:17:31,910 --> 00:17:31,950
-Marine Headquarters
-
-511
-00:17:31,950 --> 00:17:31,990
-Rear Admiral Prince Grus
-
-512
-00:17:31,950 --> 00:17:31,990
-Marine Headquarters
-
-513
-00:17:31,990 --> 00:17:32,030
-Rear Admiral Prince Grus
-
-514
-00:17:31,990 --> 00:17:32,030
-Marine Headquarters
-
-515
-00:17:32,030 --> 00:17:32,070
-Rear Admiral Prince Grus
-
-516
-00:17:32,030 --> 00:17:32,070
-Marine Headquarters
-
-517
-00:17:32,070 --> 00:17:32,110
-Rear Admiral Prince Grus
-
-518
-00:17:32,070 --> 00:17:32,110
-Marine Headquarters
-
-519
-00:17:32,110 --> 00:17:32,160
-Rear Admiral Prince Grus
-
-520
-00:17:32,110 --> 00:17:32,160
-Marine Headquarters
-
-521
-00:17:32,160 --> 00:17:32,200
-Rear Admiral Prince Grus
-
-522
-00:17:32,160 --> 00:17:32,200
-Marine Headquarters
-
-523
 00:17:32,200 --> 00:17:34,070
 Koby is safe, too!
 
-524
+434
 00:17:32,200 --> 00:17:34,660
 Glorp-Glorp Fruit
-
-525
-00:17:32,200 --> 00:17:34,660
 Clay Man
 
-526
+435
 00:17:34,660 --> 00:17:37,120
 Mud Puppet (Golem)
 
-527
+436
 00:17:37,490 --> 00:17:40,960
 H-Hey... Has this square
 always been shaped like this?
 
-528
+437
 00:17:40,960 --> 00:17:41,580
 What?
 
-529
+438
 00:17:44,290 --> 00:17:47,300
 Isn't that building moving?
 
-530
+439
 00:17:47,300 --> 00:17:48,760
 H-Hey, wait!
 
-531
+440
 00:17:52,090 --> 00:17:53,800
 O-Oh no...
 
-532
+441
 00:17:53,800 --> 00:17:55,890
 We can't get out of here!
 
-533
+442
 00:17:55,890 --> 00:17:57,890
 Now, whenever you're ready!
 
-534
+443
 00:17:58,270 --> 00:17:59,850
 Head to the very center!
 
-535
+444
 00:18:00,230 --> 00:18:02,190
 I was able to contact Prince!
 
-536
+445
 00:18:02,520 --> 00:18:03,940
 It's all ready!
 
-537
+446
 00:18:03,940 --> 00:18:05,440
 Vice Admiral Garp!
 
-538
+447
 00:18:06,900 --> 00:18:09,440
 Everyone, hang onto something!
 
-539
+448
 00:18:12,030 --> 00:18:14,320
 Charge!
 
-540
+449
 00:18:22,620 --> 00:18:23,960
 C'mon! Hurry up!
 
-541
+450
 00:18:24,370 --> 00:18:26,210
 Let's get out of here!
 
-542
+451
 00:18:31,800 --> 00:18:33,470
 Look up!
 
-543
+452
 00:18:37,760 --> 00:18:40,220
 Whaaat?!
 
-544
+453
 00:18:42,810 --> 00:18:46,980
 – Whaaat?!
 – Whaaat?!
 
-545
+454
 00:18:47,440 --> 00:18:51,320
 A Marine ship is flying through the sky!
 
-546
+455
 00:18:51,320 --> 00:18:53,990
 Why?! How is that possible?!
 
-547
+456
 00:18:53,990 --> 00:18:55,320
 Who's on it?!
 
-548
+457
 00:18:56,780 --> 00:18:59,700
 Isn't it... falling toward us?
 
-549
+458
 00:18:59,700 --> 00:19:02,250
 R-Run!
 
-550
+459
 00:19:05,960 --> 00:19:07,080
 Look!
 
-551
+460
 00:19:07,080 --> 00:19:08,590
 On the ship!
 
-552
+461
 00:19:11,380 --> 00:19:14,840
 No way! I thought he retired!
 
-553
+462
 00:19:15,340 --> 00:19:16,800
 The legendary...
 
-554
+463
 00:19:16,800 --> 00:19:18,390
 Hero!
 
-555
+464
 00:19:23,520 --> 00:19:26,480
 Vice Admiral Garp!
 
-556
+465
 00:19:26,980 --> 00:19:28,480
 Koby!
 
-557
+466
 00:19:28,480 --> 00:19:30,480
 I'm here to save you!
 
-558
+467
 00:19:32,230 --> 00:19:34,990
 Run! Just run!
 
-559
+468
 00:19:34,990 --> 00:19:35,950
 We can't...
 
-560
+469
 00:19:35,950 --> 00:19:37,910
 There's no way out!
 
-561
+470
 00:19:41,490 --> 00:19:45,040
 Hey, you damn pirates!
 
-562
+471
 00:19:45,870 --> 00:19:48,000
 He's coming! Run!
 
-563
+472
 00:20:06,890 --> 00:20:08,770
 Vice Admiral Garp...
 
-564
+473
 00:20:09,810 --> 00:20:12,900
 Why? I'm not even worth saving...
 
-565
+474
 00:20:13,320 --> 00:20:14,900
 You idiots!
 
-566
+475
 00:20:15,610 --> 00:20:20,870
 Do you have any idea who
 the hell you've kidnapped?!
 
-567
+476
 00:20:28,960 --> 00:20:32,170
 Koby is the future of the Marines!
 
-568
+477
 00:20:33,340 --> 00:20:35,960
 Not to mention...
 
-569
+478
 00:20:36,420 --> 00:20:40,550
 my precious protégé!
 
-570
+479
 00:20:41,930 --> 00:20:45,220
 Galaxy...
 
-571
+480
 00:20:56,400 --> 00:21:00,280
 Impact!
 
-572
+481
 00:21:59,090 --> 00:22:01,630
 Cumulo-glorpus!
 
-573
+482
 00:22:14,600 --> 00:22:16,610
 Damn you, Garp!
 
-574
+483
 00:22:16,610 --> 00:22:18,190
 He's insane!
 
-575
+484
 00:22:18,190 --> 00:22:20,440
 I'll make that geezer pay!
 
-576
+485
 00:22:20,440 --> 00:22:22,150
 Don't move, pirates!
 
-577
+486
 00:22:23,110 --> 00:22:26,870
 Resistance will only result in further damage!
 
-578
+487
 00:22:33,870 --> 00:22:36,380
 Absolutely pathetic...
 
-579
+488
 00:22:37,170 --> 00:22:39,170
 I've really gotten rusty.
 
-580
+489
 00:22:39,800 --> 00:22:41,170
 Screw you!
 
-581
+490
 00:22:41,170 --> 00:22:43,800
 As if there's anything left to damage!
 
-582
+491
 00:22:44,180 --> 00:22:46,140
 Vice Admiral Garp!
 
-583
+492
 00:22:47,930 --> 00:22:49,470
 Oh, Koby!
 
-584
+493
 00:22:50,140 --> 00:22:51,890
 You're okay!
 
-585
+494
 00:22:54,140 --> 00:22:56,020
 Thank goodness!
 
-586
+495
 00:22:56,020 --> 00:22:58,400
 They didn't kill him!
 
-587
+496
 00:22:58,400 --> 00:23:00,030
 Really now...
 
-588
+497
 00:23:00,030 --> 00:23:01,530
 He overdid it.
 
-589
+498
 00:23:01,530 --> 00:23:04,400
 You're such a naughty boy, Garp!
 
-590
+499
 00:23:04,400 --> 00:23:08,370
 Garp said Koby's the future of
 the Marines. I won't stand for it!
 
-591
+500
 00:23:08,370 --> 00:23:10,580
 I'm gonna sabotage him!
 
-592
+501
 00:23:10,580 --> 00:23:15,080
 That's something you're supposed
 to keep to yourself, you spoiled brat.
 
-593
+502
 00:23:15,080 --> 00:23:16,710
 It's cuter that way.
 
-594
+503
 00:23:16,710 --> 00:23:18,790
 Koby!
 
-595
+504
 00:23:18,790 --> 00:23:21,090
 Captain Koby!
 
-596
+505
 00:23:21,420 --> 00:23:23,550
 Koby!
 
-597
+506
 00:23:23,550 --> 00:23:25,260
 Tashigi!
 
-598
+507
 00:23:25,630 --> 00:23:28,010
 Even non-SWORD members came...
 
-599
+508
 00:23:29,140 --> 00:23:32,100
 Hey, Koby! Why are you
 lugging that thing around?
 
-600
+509
 00:23:32,100 --> 00:23:33,430
 Vice Admiral Garp!
 
-601
+510
 00:23:33,850 --> 00:23:37,520
 We've tried everything,
 but we can't get the shackle off!!
 
-602
+511
 00:23:37,520 --> 00:23:38,480
 Please...
 
-603
+512
 00:23:40,860 --> 00:23:42,190
 do...
 
-604
+513
 00:23:42,780 --> 00:23:44,030
 some...
 
-605
+514
 00:23:45,150 --> 00:23:46,780
 thing...
 
-606
+515
 00:23:51,080 --> 00:23:52,080
 Hibari...!
 
-607
+516
 00:23:52,080 --> 00:23:53,290
 Hibari!
 
-608
+517
 00:23:56,670 --> 00:23:57,960
 Hibari!
 
-609
+518
 00:24:10,010 --> 00:24:11,260
 Kuzan.
 
-610
+519
 00:24:11,760 --> 00:24:13,220
 Kuzan!
 
-611
+520
 00:24:13,560 --> 00:24:14,980
 What are you doing?!
 
-612
+521
 00:24:14,980 --> 00:24:17,480
 Please thaw her out right now!
 
-613
+522
 00:24:19,060 --> 00:24:21,060
 It's Aokiji!
 
-614
+523
 00:24:21,690 --> 00:24:24,190
 Captain Kuzan!
 
-615
+524
 00:24:24,190 --> 00:24:26,030
 Kuzan!
 
-616
+525
 00:24:27,400 --> 00:24:29,280
 Don't get me in trouble, Koby.
 
-617
+526
 00:24:29,280 --> 00:24:31,200
 I can't have you running off...
 
-618
+527
 00:24:31,620 --> 00:24:34,330
 while Teach is away.
 
-619
+528
 00:24:35,040 --> 00:24:40,830
 Two years ago, Admiral Akainu and Admiral Aokiji...
 
-620
+529
 00:24:41,420 --> 00:24:47,510
 fought for the position of the next
 fleet admiral of Marine Headquarters.
 
-621
+530
 00:24:51,640 --> 00:24:56,020
 The deadly struggle went on for
 ten days before a victor emerged:
 
-622
+531
 00:24:56,680 --> 00:24:57,730
 Akainu.
 
-623
+532
 00:24:59,440 --> 00:25:04,020
 However, Aokiji refused to serve under him.
 
-624
+533
 00:25:04,400 --> 00:25:06,400
 And so, he left the Marines.
 
-625
+534
 00:25:12,530 --> 00:25:17,500
 Some Island, New World
 
-626
+535
 00:25:26,300 --> 00:25:28,380
 What the...?!
 
-627
+536
 00:25:28,720 --> 00:25:30,510
 Blackbeard's here!
 
-628
+537
 00:25:30,510 --> 00:25:33,300
 Run! Get out of the town!
 
-629
+538
 00:25:33,300 --> 00:25:34,220
 Hey!
 
-630
+539
 00:25:34,220 --> 00:25:36,430
 What happened here?
 
-631
+540
 00:25:36,430 --> 00:25:39,390
 Wait! Who did this?!
 
-632
+541
 00:25:43,520 --> 00:25:45,980
 No, I don't need to ask...
 
-633
+542
 00:25:47,320 --> 00:25:52,740
 There's only one person
 in the world who could've done this!
 
-634
+543
 00:25:54,700 --> 00:25:56,160
 It's you!
 
-635
+544
 00:25:56,160 --> 00:25:58,200
 Aokiji!
 
-636
+545
 00:26:10,800 --> 00:26:13,430
 My crew is frozen solid outside!
 
-637
+546
 00:26:13,430 --> 00:26:15,850
 Undo it!
 
-638
+547
 00:26:16,720 --> 00:26:19,310
 You're annoying me.
 
-639
+548
 00:26:20,310 --> 00:26:22,940
 And don't even think about using your power.
 
-640
+549
 00:26:24,440 --> 00:26:26,730
 Your crew will shatter and die.
 
-641
+550
 00:26:28,230 --> 00:26:31,490
 You're their captain, so I think you know.
 
-642
+551
 00:26:32,740 --> 00:26:35,200
 Do you really think I started it?
 
-643
+552
 00:26:35,950 --> 00:26:38,910
 Besides, you already know, don't you?
 
-644
+553
 00:26:39,660 --> 00:26:43,830
 I'm not just heartbroken, I'm furious.
 
-645
+554
 00:26:45,880 --> 00:26:48,800
 Take a guess who actually started this.
 
-646
+555
 00:27:12,610 --> 00:27:15,070
 Another round over here!
 
-647
+556
 00:27:16,780 --> 00:27:19,870
 You can really knock 'em back, Ice Pop!
 
-648
+557
 00:27:19,870 --> 00:27:22,620
 You're not bad yourself, you son of a bitch!
 
-649
+558
 00:27:25,080 --> 00:27:28,210
 So what did Akainu say next?
 
-650
+559
 00:27:31,840 --> 00:27:34,970
 "Two men who enlisted the same year
 in a fight to the death...
 
-651
+560
 00:27:34,970 --> 00:27:38,180
 My eyes are burning with tears."
 
-652
+561
 00:27:38,890 --> 00:27:41,890
 And I said, "Yeah, that's 'cause...
 
-653
+562
 00:27:42,220 --> 00:27:44,930
 your magma's flowing!"
 
-654
+563
 00:27:47,100 --> 00:27:48,610
 And now look at me!
 
-655
+564
 00:27:52,530 --> 00:27:54,490
 I'm down to one leg!
 
-656
+565
 00:27:55,400 --> 00:27:58,360
 So that's what happens
 when two admirals fight!
 
-657
+566
 00:27:58,360 --> 00:27:59,910
 What about Akainu?
 
-658
+567
 00:28:00,450 --> 00:28:02,830
 Did you at least rip one of his arms off?!
 
-659
+568
 00:28:03,200 --> 00:28:04,200
 No...
 
-660
+569
 00:28:06,920 --> 00:28:09,540
 But I'm sure he's scarred to all hell.
 
-661
+570
 00:28:12,130 --> 00:28:16,470
 Speaking of scars, he might know
 Burn Scar, Commodore.
 
-662
+571
 00:28:16,840 --> 00:28:18,970
 Huh? Burn Scar?
 
-663
+572
 00:28:18,970 --> 00:28:24,770
 There are four important
 red lode poneglyphs in the world.
 
-664
+573
 00:28:26,890 --> 00:28:31,560
 Big Mom and Kaido have two of them...
 
-665
+574
 00:28:33,190 --> 00:28:37,530
 But we can't find the other two!
 
-666
+575
 00:28:37,530 --> 00:28:40,280
 Once more fate rears its head...
 
-667
+576
 00:28:40,280 --> 00:28:41,240
 Yeah...
 
-668
+577
 00:28:41,240 --> 00:28:47,250
 And they say that the Man with
 the Burn Scar has one of them.
 
-669
+578
 00:28:48,960 --> 00:28:50,120
 Is it me?
 
-670
+579
 00:28:50,120 --> 00:28:52,500
 You just got that scar, you idiot!
 
-671
+580
 00:28:57,170 --> 00:28:59,180
 Rumor has it...
 
-672
+581
 00:29:05,470 --> 00:29:10,310
 that he sails a pitch-black ship.
 
-673
+582
 00:29:17,280 --> 00:29:22,990
 And when you get close, he creates
 a giant whirlpool to swallow you up.
 
-674
+583
 00:29:27,790 --> 00:29:30,500
 He may have eaten a devil fruit...
 
-675
+584
 00:29:31,120 --> 00:29:34,710
 I believe he works for the government.
 
-676
+585
 00:29:35,210 --> 00:29:38,760
 The World Government has
 dark secrets, after all.
 
-677
+586
 00:29:38,760 --> 00:29:41,630
 If they hold on to even one of the stones,
 
-678
+587
 00:29:41,630 --> 00:29:50,180
 it means that no pirate will ever reach the
 One Piece, the single greatest hidden treasure.
 
-679
+588
 00:29:51,690 --> 00:29:55,570
 The poneglyphs... I only have
 bitter memories involving them.
 
-680
+589
 00:29:55,570 --> 00:30:01,240
 If I saw a red stone like that
 in Ohara, I'd remember it.
 
-681
+590
 00:30:02,860 --> 00:30:04,990
 All I can remember...
 
-682
+591
 00:30:04,990 --> 00:30:08,240
 is a good friend who rebelled
 against the government...
 
-683
+592
 00:30:08,240 --> 00:30:11,080
 and a girl with eyes full of despair...
 
-684
+593
 00:30:11,580 --> 00:30:15,340
 whose fate was in my hands.
 
-685
+594
 00:30:17,670 --> 00:30:20,550
 What kind of boring story is that?!
 
-686
+595
 00:30:23,380 --> 00:30:25,600
 Commodore, what should we do?
 
-687
+596
 00:30:25,600 --> 00:30:26,220
 Huh?
 
-688
+597
 00:30:26,600 --> 00:30:30,930
 If we take his power for ourselves,
 it'll be a considerable asset to us...
 
-689
+598
 00:30:36,400 --> 00:30:39,360
 I heard that, you slimy bastards!
 
-690
+599
 00:30:41,570 --> 00:30:45,530
 How about I send you to an icy hell?!
 
-691
+600
 00:30:49,080 --> 00:30:50,450
 Stop, stop, stop!
 
-692
+601
 00:30:52,000 --> 00:30:57,790
 That's right, I've already heard about
 you guys hunting devil fruit powers.
 
-693
+602
 00:30:59,210 --> 00:31:00,960
 Bring it on!
 
-694
+603
 00:31:06,590 --> 00:31:07,800
 Wait!
 
-695
+604
 00:31:08,680 --> 00:31:09,930
 I'm sorry!
 
-696
+605
 00:31:09,930 --> 00:31:12,680
 What my crew member said was ridiculous.
 
-697
+606
 00:31:13,310 --> 00:31:15,850
 I wouldn't dream of doing that.
 
-698
+607
 00:31:15,850 --> 00:31:17,980
 What I really wanted to ask you was...
 
-699
+608
 00:31:17,980 --> 00:31:20,440
 Do you wanna sail with us?
 
-700
+609
 00:31:21,400 --> 00:31:24,650
 What?! Captain, are you off your rocker?!
 
-701
+610
 00:31:24,650 --> 00:31:27,620
 You lost your position, didn't you?
 
-702
+611
 00:31:27,620 --> 00:31:29,620
 Do you have a place to go?
 
-703
+612
 00:31:29,620 --> 00:31:31,620
 What are you gonna do now?
 
-704
+613
 00:31:31,620 --> 00:31:34,040
 The guardians of justice have abandoned you!
 
-705
+614
 00:31:35,080 --> 00:31:37,210
 Man, this must be rock bottom.
 
-706
+615
 00:31:37,210 --> 00:31:41,090
 A pirate worrying about my prospects.
 
-707
+616
 00:31:41,090 --> 00:31:44,300
 Wherever you go, whatever you do,
 
-708
+617
 00:31:44,920 --> 00:31:48,050
 trouble will always find you!
 
-709
+618
 00:31:48,050 --> 00:31:53,220
 So what flag are you gonna fight under?
 
-710
+619
 00:31:53,220 --> 00:31:54,640
 Huh?!
 
-711
+620
 00:31:56,020 --> 00:31:59,020
 I'm different from the Marines!
 
-712
+621
 00:31:59,020 --> 00:32:01,860
 I have my own brand of justice!
 
-713
+622
 00:32:01,860 --> 00:32:03,190
 Don't be stupid!
 
-714
+623
 00:32:03,190 --> 00:32:08,200
 Just because we shared a few drinks
 doesn't mean I trust scum like you!
 
-715
+624
 00:32:08,200 --> 00:32:09,570
 Whoa, whoa!
 
-716
+625
 00:32:09,570 --> 00:32:12,450
 I think you have the wrong idea about pirates.
 
-717
+626
 00:32:12,450 --> 00:32:16,460
 It's not like we're all buddies here!
 
-718
+627
 00:32:21,630 --> 00:32:23,840
 The only thing a pirate crew needs...
 
-719
+628
 00:32:26,510 --> 00:32:30,680
 is to have mutual interests!
 
-720
+629
 00:32:33,560 --> 00:32:36,680
 You're free now...
 
-721
+630
 00:32:38,190 --> 00:32:40,100
 so what do you wanna do?
 
-722
+631
 00:32:54,660 --> 00:32:56,290
 Hey, Kuzan!
 
-723
+632
 00:32:56,750 --> 00:32:58,580
 Thaw out Hibari!
 
-724
+633
 00:32:59,120 --> 00:33:00,920
 Let Koby escape!
 
-725
+634
 00:33:00,920 --> 00:33:03,630
 Come back to the Marines!
 
-726
+635
 00:33:06,380 --> 00:33:11,510
 You haven't changed at all.
 Always saying what's on your mind.
 
-727
+636
 00:33:15,220 --> 00:33:19,310
 But I can't let any of that happen, Garp!
 
-728
+637
 00:33:20,230 --> 00:33:22,020
 I've always loved...
 
-729
+638
 00:33:22,900 --> 00:33:24,730
 how straightforward you are...
 
-730
+639
 00:33:25,360 --> 00:33:29,650
 which is why I'm living the way I want to now!
 
-731
+640
 00:33:26,650 --> 00:33:29,650
 Kuzan
 Captain of the Tenth Ship
 Blackbeard Pirates
 
-732
+641
 00:33:34,870 --> 00:33:36,240
 Bonehead...
 
-733
+642
 00:33:52,970 --> 00:33:53,800
 Ice...
 
-734
+643
 00:33:54,300 --> 00:33:55,510
 Ball!
 
-735
+644
 00:34:01,770 --> 00:34:03,730
 Vice Admiral Garp!
 
-736
+645
 00:34:05,900 --> 00:34:07,730
 Vice Admiral Garp!
 
-737
+646
 00:34:11,200 --> 00:34:13,820
 In order to save your beloved protégé,
 
-738
+647
 00:34:14,410 --> 00:34:18,910
 can you kill your former star pupil?!
 
-739
+648
 00:34:20,620 --> 00:34:22,830
 Don't live in the past, you moron!
 
-740
+649
 00:34:24,460 --> 00:34:27,710
 I taught you to live in the moment!
 
-741
+650
 00:34:33,090 --> 00:34:34,180
 It didn't work!
 
-742
+651
 00:34:54,410 --> 00:34:56,160
 Listen, Kuzan!
 
-743
+652
 00:35:19,350 --> 00:35:21,560
 Wavering is a sign...
 
-744
+653
 00:35:23,310 --> 00:35:24,270
 of weakness!
 
-745
+654
 00:35:26,480 --> 00:35:29,900
 Blue Hole!
 
-746
+655
 00:35:58,890 --> 00:36:02,600
 Meanwhile, at Winner Island...
 
-747
+656
 00:35:58,890 --> 00:36:04,060
 Winner Island
 New World
 
-748
+657
 00:36:39,390 --> 00:36:44,270
 You can hardly call yourself
 a pirate crew without a ship!
 
-749
+658
 00:36:44,770 --> 00:36:47,480
 There's no way for you to escape!
 
-750
+659
 00:36:48,100 --> 00:36:54,360
 The hundred pirates whose hearts
 you stole at Rocky Port...
 
-751
+660
 00:36:54,360 --> 00:36:58,950
 are still living in fear on the Pirate Island!
 
-752
+661
 00:36:59,320 --> 00:37:05,540
 But if I bring them your heart,
 they're sure to raise a toast!
 
-753
+662
 00:37:12,420 --> 00:37:14,670
 You really made it for me!
 
-754
+663
 00:37:14,670 --> 00:37:18,630
 But I can't guarantee it'll work.
 
-755
+664
 00:37:24,390 --> 00:37:26,020
 Now...
 
-756
+665
 00:37:26,020 --> 00:37:30,390
 I'm having a hard time deciding whether
 to sell or use the Op-Op Fruit.
 
-757
+666
 00:37:30,390 --> 00:37:33,610
 It can even grant me eternal youth, can't it?!
 
-758
+667
 00:37:41,360 --> 00:37:44,120
 Get your hands...
 
-759
+668
 00:37:46,240 --> 00:37:48,000
 off my captain!
 
-760
+669
 00:37:57,710 --> 00:37:58,880
 Bepo...
 
-761
+670
 00:38:04,720 --> 00:38:06,850
 What?! Sulong?!
 
-762
+671
 00:38:06,850 --> 00:38:09,310
 No way! The moon isn't even out!
 
-763
+672
 00:38:18,860 --> 00:38:20,860
 Wait, wait, wait, wait!
 
-764
+673
 00:38:37,170 --> 00:38:38,210
 Captain!
 
-765
+674
 00:39:00,030 --> 00:39:02,320
 Dammit! They fled to sea!
 
-766
+675
 00:39:02,320 --> 00:39:04,530
 Don't let him get away!
 
-767
+676
 00:39:11,500 --> 00:39:14,080
 Go back, Bepo...
 
-768
+677
 00:39:18,540 --> 00:39:22,840
 I can't... leave the crew... behind...
 
-769
+678
 00:39:22,840 --> 00:39:24,590
 I won't go back!
 
-770
+679
 00:39:25,340 --> 00:39:27,720
 Trust them, Captain!
 
-771
+680
 00:39:27,720 --> 00:39:30,510
 From that frigid northern port
 all the way until now...
 
-772
+681
 00:39:32,520 --> 00:39:35,900
 we've always survived!
 
-773
+682
 00:39:35,900 --> 00:39:37,190
 So...
 
-774
+683
 00:39:38,480 --> 00:39:40,980
 none of us will die here!
 
-775
+684
 00:39:46,740 --> 00:39:49,490
 We've overcome so much together!
 
-776
+685
 00:39:51,580 --> 00:39:53,450
 So, Captain!
 
-777
+686
 00:39:54,540 --> 00:39:57,120
 Don't die!
 
-778
+687
 00:40:05,880 --> 00:40:07,470
 Please...
 
-779
+688
 00:40:08,840 --> 00:40:10,850
 don't die!
 
-780
+689
 00:40:16,060 --> 00:40:19,770
 At Winner Island in the New World...
 
-781
+690
 00:40:28,320 --> 00:40:33,040
 the Heart Pirates' submarine, the Polar Tang,
 
-782
+691
 00:40:33,410 --> 00:40:34,910
 was sunk.
 
-783
+692
 00:40:38,370 --> 00:40:42,540
 The Heart Pirates led by Trafalgar Law...
 
-784
+693
 00:40:43,750 --> 00:40:45,260
 were defeated.

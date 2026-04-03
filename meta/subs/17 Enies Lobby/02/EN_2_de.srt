@@ -76,1327 +76,1189 @@ Der Seezug Rocketman wird in vier Minuten reinstürmen!
 19
 00:03:49,290 --> 00:03:49,330
 Haupttor
+Inseltor
 
 20
-00:03:49,290 --> 00:03:49,330
+00:03:49,330 --> 00:03:49,370
+Haupttor
 Inseltor
 
 21
-00:03:49,330 --> 00:03:49,370
+00:03:49,370 --> 00:03:49,410
 Haupttor
+Inseltor
 
 22
-00:03:49,330 --> 00:03:49,370
+00:03:49,410 --> 00:03:49,450
+Haupttor
 Inseltor
 
 23
-00:03:49,370 --> 00:03:49,410
+00:03:49,450 --> 00:03:49,500
 Haupttor
+Inseltor
 
 24
-00:03:49,370 --> 00:03:49,410
+00:03:49,500 --> 00:03:49,540
+Haupttor
 Inseltor
 
 25
-00:03:49,410 --> 00:03:49,450
+00:03:49,540 --> 00:03:49,580
 Haupttor
+Inseltor
 
 26
-00:03:49,410 --> 00:03:49,450
+00:03:49,580 --> 00:03:49,620
+Haupttor
 Inseltor
 
 27
-00:03:49,450 --> 00:03:49,500
+00:03:49,620 --> 00:03:49,660
 Haupttor
+Inseltor
 
 28
-00:03:49,450 --> 00:03:49,500
+00:03:49,660 --> 00:03:49,700
+Haupttor
 Inseltor
 
 29
-00:03:49,500 --> 00:03:49,540
+00:03:49,700 --> 00:03:49,750
 Haupttor
+Inseltor
 
 30
-00:03:49,500 --> 00:03:49,540
+00:03:49,750 --> 00:03:49,790
+Haupttor
 Inseltor
 
 31
-00:03:49,540 --> 00:03:49,580
+00:03:49,790 --> 00:03:49,830
 Haupttor
+Inseltor
 
 32
-00:03:49,540 --> 00:03:49,580
+00:03:49,830 --> 00:03:49,870
+Haupttor
 Inseltor
 
 33
-00:03:49,580 --> 00:03:49,620
+00:03:49,870 --> 00:03:49,910
 Haupttor
+Inseltor
 
 34
-00:03:49,580 --> 00:03:49,620
+00:03:49,910 --> 00:03:49,950
+Haupttor
 Inseltor
 
 35
-00:03:49,620 --> 00:03:49,660
+00:03:49,950 --> 00:03:50,000
 Haupttor
+Inseltor
 
 36
-00:03:49,620 --> 00:03:49,660
+00:03:50,000 --> 00:03:50,040
+Haupttor
 Inseltor
 
 37
-00:03:49,660 --> 00:03:49,700
+00:03:50,040 --> 00:03:50,080
 Haupttor
+Inseltor
 
 38
-00:03:49,660 --> 00:03:49,700
+00:03:50,080 --> 00:03:50,120
+Haupttor
 Inseltor
 
 39
-00:03:49,700 --> 00:03:49,750
+00:03:50,120 --> 00:03:50,160
 Haupttor
+Inseltor
 
 40
-00:03:49,700 --> 00:03:49,750
+00:03:50,160 --> 00:03:50,200
+Haupttor
 Inseltor
 
 41
-00:03:49,750 --> 00:03:49,790
+00:03:50,200 --> 00:03:50,250
 Haupttor
+Inseltor
 
 42
-00:03:49,750 --> 00:03:49,790
+00:03:50,250 --> 00:03:50,290
+Haupttor
 Inseltor
 
 43
-00:03:49,790 --> 00:03:49,830
+00:03:50,290 --> 00:03:50,330
 Haupttor
+Inseltor
 
 44
-00:03:49,790 --> 00:03:49,830
+00:03:50,330 --> 00:03:50,370
+Haupttor
 Inseltor
 
 45
-00:03:49,830 --> 00:03:49,870
+00:03:50,370 --> 00:03:50,410
 Haupttor
+Inseltor
 
 46
-00:03:49,830 --> 00:03:49,870
+00:03:50,410 --> 00:03:50,460
+Haupttor
 Inseltor
 
 47
-00:03:49,870 --> 00:03:49,910
+00:03:50,460 --> 00:03:50,500
 Haupttor
+Inseltor
 
 48
-00:03:49,870 --> 00:03:49,910
+00:03:50,500 --> 00:03:50,540
+Haupttor
 Inseltor
 
 49
-00:03:49,910 --> 00:03:49,950
+00:03:50,540 --> 00:03:50,580
 Haupttor
+Inseltor
 
 50
-00:03:49,910 --> 00:03:49,950
+00:03:50,580 --> 00:03:50,620
+Haupttor
 Inseltor
 
 51
-00:03:49,950 --> 00:03:50,000
+00:03:50,620 --> 00:03:50,660
 Haupttor
+Inseltor
 
 52
-00:03:49,950 --> 00:03:50,000
+00:03:50,660 --> 00:03:50,710
+Haupttor
 Inseltor
 
 53
-00:03:50,000 --> 00:03:50,040
+00:03:50,710 --> 00:03:50,750
 Haupttor
+Inseltor
 
 54
-00:03:50,000 --> 00:03:50,040
+00:03:50,750 --> 00:03:50,790
+Haupttor
 Inseltor
 
 55
-00:03:50,040 --> 00:03:50,080
+00:03:50,790 --> 00:03:50,830
 Haupttor
+Inseltor
 
 56
-00:03:50,040 --> 00:03:50,080
+00:03:50,830 --> 00:03:50,870
+Haupttor
 Inseltor
 
 57
-00:03:50,080 --> 00:03:50,120
+00:03:50,870 --> 00:03:50,910
 Haupttor
+Inseltor
 
 58
-00:03:50,080 --> 00:03:50,120
+00:03:50,910 --> 00:03:50,960
+Haupttor
 Inseltor
 
 59
-00:03:50,120 --> 00:03:50,160
+00:03:50,960 --> 00:03:51,000
 Haupttor
+Inseltor
 
 60
-00:03:50,120 --> 00:03:50,160
+00:03:51,000 --> 00:03:51,040
+Haupttor
 Inseltor
 
 61
-00:03:50,160 --> 00:03:50,200
+00:03:51,040 --> 00:03:51,080
 Haupttor
+Inseltor
 
 62
-00:03:50,160 --> 00:03:50,200
+00:03:51,080 --> 00:03:51,120
+Haupttor
 Inseltor
 
 63
-00:03:50,200 --> 00:03:50,250
+00:03:51,120 --> 00:03:51,160
 Haupttor
+Inseltor
 
 64
-00:03:50,200 --> 00:03:50,250
-Inseltor
-
-65
-00:03:50,250 --> 00:03:50,290
-Haupttor
-
-66
-00:03:50,250 --> 00:03:50,290
-Inseltor
-
-67
-00:03:50,290 --> 00:03:50,330
-Haupttor
-
-68
-00:03:50,290 --> 00:03:50,330
-Inseltor
-
-69
-00:03:50,330 --> 00:03:50,370
-Haupttor
-
-70
-00:03:50,330 --> 00:03:50,370
-Inseltor
-
-71
-00:03:50,370 --> 00:03:50,410
-Haupttor
-
-72
-00:03:50,370 --> 00:03:50,410
-Inseltor
-
-73
-00:03:50,410 --> 00:03:50,460
-Haupttor
-
-74
-00:03:50,410 --> 00:03:50,460
-Inseltor
-
-75
-00:03:50,460 --> 00:03:50,500
-Haupttor
-
-76
-00:03:50,460 --> 00:03:50,500
-Inseltor
-
-77
-00:03:50,500 --> 00:03:50,540
-Haupttor
-
-78
-00:03:50,500 --> 00:03:50,540
-Inseltor
-
-79
-00:03:50,540 --> 00:03:50,580
-Haupttor
-
-80
-00:03:50,540 --> 00:03:50,580
-Inseltor
-
-81
-00:03:50,580 --> 00:03:50,620
-Haupttor
-
-82
-00:03:50,580 --> 00:03:50,620
-Inseltor
-
-83
-00:03:50,620 --> 00:03:50,660
-Haupttor
-
-84
-00:03:50,620 --> 00:03:50,660
-Inseltor
-
-85
-00:03:50,660 --> 00:03:50,710
-Haupttor
-
-86
-00:03:50,660 --> 00:03:50,710
-Inseltor
-
-87
-00:03:50,710 --> 00:03:50,750
-Haupttor
-
-88
-00:03:50,710 --> 00:03:50,750
-Inseltor
-
-89
-00:03:50,750 --> 00:03:50,790
-Haupttor
-
-90
-00:03:50,750 --> 00:03:50,790
-Inseltor
-
-91
-00:03:50,790 --> 00:03:50,830
-Haupttor
-
-92
-00:03:50,790 --> 00:03:50,830
-Inseltor
-
-93
-00:03:50,830 --> 00:03:50,870
-Haupttor
-
-94
-00:03:50,830 --> 00:03:50,870
-Inseltor
-
-95
-00:03:50,870 --> 00:03:50,910
-Haupttor
-
-96
-00:03:50,870 --> 00:03:50,910
-Inseltor
-
-97
-00:03:50,910 --> 00:03:50,960
-Haupttor
-
-98
-00:03:50,910 --> 00:03:50,960
-Inseltor
-
-99
-00:03:50,960 --> 00:03:51,000
-Haupttor
-
-100
-00:03:50,960 --> 00:03:51,000
-Inseltor
-
-101
-00:03:51,000 --> 00:03:51,040
-Haupttor
-
-102
-00:03:51,000 --> 00:03:51,040
-Inseltor
-
-103
-00:03:51,040 --> 00:03:51,080
-Haupttor
-
-104
-00:03:51,040 --> 00:03:51,080
-Inseltor
-
-105
-00:03:51,080 --> 00:03:51,120
-Haupttor
-
-106
-00:03:51,080 --> 00:03:51,120
-Inseltor
-
-107
-00:03:51,120 --> 00:03:51,160
-Haupttor
-
-108
-00:03:51,120 --> 00:03:51,160
-Inseltor
-
-109
 00:03:58,300 --> 00:04:01,930
 Ich bitte vielmals um Entschuldigung,
 aber bitte lasst mich durch.
 
-110
+65
 00:04:03,810 --> 00:04:06,100
 Du kannst noch so höflich fragen...
 
-111
+66
 00:04:06,100 --> 00:04:08,640
 Aber nein...
 
-112
+67
 00:04:08,640 --> 00:04:10,150
 heißt nein!
 
-113
+68
 00:04:14,030 --> 00:04:14,820
 Na gut...
 
-114
+69
 00:04:15,190 --> 00:04:16,110
 Dann...
 
-115
+70
 00:04:16,490 --> 00:04:17,820
 lebt mit den Konsequenzen!
 
-116
+71
 00:04:18,150 --> 00:04:19,490
 Du dreckiger Pirat!
 
-117
+72
 00:04:19,490 --> 00:04:21,280
 Gum-Gum...
 
-118
+73
 00:04:23,240 --> 00:04:24,620
 Roboterkumpel!
 
-119
+74
 00:04:32,790 --> 00:04:34,800
 Hey, der spielt dreckig!
 
-120
+75
 00:04:34,800 --> 00:04:36,380
 Uns sind die Hände gebunden!
 
-121
+76
 00:04:38,800 --> 00:04:42,510
 Lasst euch von so einem kindischen
 Trick nicht einschüchtern!
 
-122
+77
 00:04:43,930 --> 00:04:45,350
 Roboterkumpel-Punch!
 
-123
+78
 00:04:45,350 --> 00:04:47,520
 Punch!
 
-124
+79
 00:04:48,310 --> 00:04:49,020
 Es tut mir leid!
 
-125
+80
 00:04:51,190 --> 00:04:53,060
 Roboterkumpel-Kick!
 
-126
+81
 00:04:55,440 --> 00:04:57,740
 Es tut mir so leid, Sir!
 
-127
+82
 00:04:57,740 --> 00:04:59,650
 Jetzt reicht es aber!
 
-128
+83
 00:05:00,490 --> 00:05:02,620
 Dein Rücken ist völlig ungeschützt!
 
-129
+84
 00:05:13,580 --> 00:05:14,460
 Dreckskerl!
 
-130
+85
 00:05:24,470 --> 00:05:25,600
 Haltet ihn auf!
 
-131
+86
 00:05:25,600 --> 00:05:27,810
 Es ist nur ein unbewaffneter Mann!
 
-132
+87
 00:05:50,580 --> 00:05:53,040
 Wie kann er so flink sein?!
 
-133
+88
 00:05:53,040 --> 00:05:55,040
 Ich hab’s eilig.
 
-134
+89
 00:05:55,420 --> 00:05:57,130
 Gleich kommen noch mehr.
 
-135
+90
 00:05:57,130 --> 00:05:58,380
 Macht’s gut!
 
-136
+91
 00:06:01,920 --> 00:06:03,510
 Hä?!
 
-137
+92
 00:06:05,390 --> 00:06:08,350
 Hey, w-warte!
 
-138
+93
 00:06:08,890 --> 00:06:11,770
 Er ist drinnen! Schnell rein da!
 
-139
+94
 00:06:11,770 --> 00:06:13,900
 Er ist auf der Hauptinsel!
 
-140
+95
 00:06:13,900 --> 00:06:15,980
 Inseltor an den Oberbefehlshaber!
 
-141
+96
 00:06:15,980 --> 00:06:19,940
 S-Strohhut-Luffy hat die Hauptinsel erreicht!
 
-142
+97
 00:06:19,940 --> 00:06:23,360
 Was?! Ihr habt ihn auf
 die Hauptinsel gelassen?!
 
-143
+98
 00:06:23,360 --> 00:06:25,320
 Ich will eine Erklärung!
 
-144
+99
 00:06:25,320 --> 00:06:27,120
 Was treiben Oimo und Kashi?!
 
-145
+100
 00:06:27,120 --> 00:06:29,370
 Hat’s die beiden auch erwischt?
 
-146
+101
 00:06:29,740 --> 00:06:33,120
 Nein, Sir! Es ist mitten in der Nacht,...
 
-147
+102
 00:06:34,120 --> 00:06:35,830
 also schlafen sie vermutlich.
 
-148
+103
 00:06:35,830 --> 00:06:37,420
 Dafür ist keine Zeit!
 
-149
+104
 00:06:37,420 --> 00:06:39,050
 Weckt sie auf!
 
-150
+105
 00:06:39,050 --> 00:06:41,710
 Sie und alle schlafenden
 Wachleute auf der Hauptinsel!
 
-151
+106
 00:06:41,710 --> 00:06:43,340
 J-Jawohl!
 
-152
+107
 00:06:44,720 --> 00:06:47,140
 Es ist bloß ein Eindringling.
 
-153
+108
 00:06:47,140 --> 00:06:50,510
 Kein Grund, in Panik zu verfallen.
 
-154
+109
 00:06:51,770 --> 00:06:53,980
 Wir sind doch hier.
 
-155
+110
 00:06:53,980 --> 00:06:55,600
 Schwachkopf!
 
-156
+111
 00:06:55,600 --> 00:06:57,800
 Das hier ist die Justizinsel,
 
-157
+112
 00:06:57,800 --> 00:07:01,030
 die als heiliges Symbol für den
 Eingang zur Weltregierung fungiert!
 
-158
+113
 00:07:01,650 --> 00:07:07,660
 Jedem Torfkopf sollte klar sein,
 was es bedeutet, hier einzudringen!
 
-159
+114
 00:07:07,660 --> 00:07:13,500
 Trotzdem hat er sich auf die Hauptinsel gewagt,
 nur um eine Kameradin zurückzuholen!
 
-160
+115
 00:07:13,500 --> 00:07:16,330
 Was für eine Schmach!
 Unterschätzt der uns?!
 
-161
+116
 00:07:17,000 --> 00:07:20,380
 Diese verdammten Strohhüte und ihre Lakaien.
 
-162
+117
 00:07:20,750 --> 00:07:22,090
 Torwächter!
 
-163
+118
 00:07:22,090 --> 00:07:25,050
 Verrat uns, was am Haupttor los ist!
 
-164
+119
 00:07:25,050 --> 00:07:26,340
 Hey, Torwächter.
 
-165
+120
 00:07:27,590 --> 00:07:29,220
 Wie viele Feinde sind es?
 
-166
+121
 00:07:30,100 --> 00:07:31,640
 Wo sind sie derzeit?
 
-167
+122
 00:07:32,310 --> 00:07:34,680
 Antwortet, Haupttor!
 
-168
+123
 00:07:34,680 --> 00:07:36,440
 Hey, was ist los?!
 
-169
+124
 00:07:38,060 --> 00:07:41,270
 Antworte, Torwächter!
 
-170
+125
 00:07:42,980 --> 00:07:44,650
 Rope Action...
 
-171
+126
 00:07:44,650 --> 00:07:47,610
 Figure-of-Eight Knot!
 
-172
+127
 00:07:48,530 --> 00:07:51,280
 Bazooka Bat!
 
-173
+128
 00:07:53,540 --> 00:07:55,830
 Es ist noch zu früh,
 Kugeln zu verschwenden!
 
-174
+129
 00:07:56,160 --> 00:07:58,750
 Dringt durch die Nebentore ein
 und öffnet das Tor!
 
-175
+130
 00:08:03,000 --> 00:08:04,630
 Nichts da!
 
-176
+131
 00:08:05,340 --> 00:08:07,090
 – Aus dem Weg!
 – Aus dem Weg!
 
-177
+132
 00:08:07,470 --> 00:08:08,840
 Mozu! Nach links!
 
-178
+133
 00:08:08,840 --> 00:08:10,640
 Geht klar!
 
-179
+134
 00:08:11,260 --> 00:08:13,010
 Hättet ihr wohl gerne!
 
-180
+135
 00:08:13,850 --> 00:08:15,890
 Was?! Warum kommen Haare
 aus meiner Nase?!
 
-181
+136
 00:08:16,390 --> 00:08:17,850
 Du solltest besser aufpassen!
 
-182
+137
 00:08:21,520 --> 00:08:22,310
 Beeilung!
 
-183
+138
 00:08:22,310 --> 00:08:24,030
 Danke dir!
 
-184
+139
 00:08:30,610 --> 00:08:32,950
 Kielbrecher!
 
-185
+140
 00:08:40,000 --> 00:08:43,710
 Ist es schon offen, Mozu, Kiwi?!
 
-186
+141
 00:08:44,840 --> 00:08:48,470
 Wir sind auf Schiffszerstörung spezialisiert.
 Ein Schloss kann uns nichts.
 
-187
+142
 00:08:50,760 --> 00:08:52,180
 Diese Seite ist offen!
 
-188
+143
 00:08:52,680 --> 00:08:53,890
 Diese auch!
 
-189
+144
 00:08:53,890 --> 00:08:59,140
 Okay! Dann öffnet das Tor, Zerstörer!
 
-190
+145
 00:09:05,860 --> 00:09:08,650
 Lasst sie das Tor nicht öffnen! Haltet sie auf!
 
-191
+146
 00:09:08,990 --> 00:09:10,240
 Aus dem Weg, du störst!
 
-192
+147
 00:09:25,840 --> 00:09:27,590
 Stürmt rein!
 
-193
+148
 00:09:32,430 --> 00:09:35,300
 Wir haben das erste Tor,
 das Haupttor, durchbrochen!
 
-194
+149
 00:09:37,930 --> 00:09:41,440
 Was ist das für ein Loch?!
 
-195
+150
 00:09:41,440 --> 00:09:43,690
 Keine Zeit dafür! Nicht trödeln!
 
-196
+151
 00:09:43,690 --> 00:09:45,940
 Weiter, weiter!
 
-197
+152
 00:09:45,940 --> 00:09:49,110
 Weiter zum Tor der Hauptinsel!
 
-198
+153
 00:09:49,110 --> 00:09:51,240
 Ein Wasserfall!
 
-199
+154
 00:09:54,740 --> 00:09:55,910
 – Geschafft!
 – Geschafft!
 
-200
+155
 00:09:55,910 --> 00:09:58,240
 Hey, Leute! Hier lang!
 
-201
+156
 00:09:58,240 --> 00:10:00,330
 Helft mir, und zwar dalli!
 
-202
+157
 00:10:07,800 --> 00:10:11,920
 Kashi! Oimo! Steht endlich auf!
 
-203
+158
 00:10:11,920 --> 00:10:16,180
 V-Verdächtige Leute haben
 das Haupttor durchbrochen!
 
-204
+159
 00:10:18,930 --> 00:10:23,730
 Das Haupttor soll durchbrochen
 worden sein, Oimo.
 
-205
+160
 00:10:23,730 --> 00:10:25,270
 Ja.
 
-206
+161
 00:10:25,270 --> 00:10:29,110
 Das geht so natürlich nicht, Kashi.
 
-207
+162
 00:10:32,610 --> 00:10:34,740
 Ich unterbreche meinen Schlaf nur ungern.
 
-208
+163
 00:10:34,740 --> 00:10:36,820
 Aber die Pflicht ruft. Los.
 
-209
+164
 00:10:38,620 --> 00:10:40,700
 – Und hepp!
 – Und hepp!
 
-210
+165
 00:10:46,540 --> 00:10:49,130
 – Was?!
 – Was?!
 
-211
+166
 00:10:56,050 --> 00:11:05,980
 Oimo
 Torwächter des
 Inseltors von Enies Lobby
-
-212
-00:10:56,050 --> 00:11:05,980
 Kashi
 Torwächter des
 Inseltors von Enies Lobby
 
-213
+167
 00:10:58,300 --> 00:11:00,890
 Das war nicht genug Schlaf.
 
-214
+168
 00:11:01,720 --> 00:11:04,850
 Ich mach das fix
 und hau mich wieder hin.
 
-215
+169
 00:11:04,850 --> 00:11:05,980
 Ich auch!
 
-216
+170
 00:11:05,980 --> 00:11:08,650
 R-R-Riesen!
 
-217
+171
 00:11:09,020 --> 00:11:13,610
 Keine Ahnung, was euch
 hierher verschlagen hat.
 
-218
+172
 00:11:13,610 --> 00:11:16,740
 Aber haut lieber ab,
 bevor wir euch zerquetschen.
 
-219
+173
 00:11:16,740 --> 00:11:17,740
 Oder, Oimo?
 
-220
+174
 00:11:17,740 --> 00:11:20,580
 Ja, Kashi. Ganz meiner Meinung.
 
-221
+175
 00:11:21,290 --> 00:11:24,710
 Die verarbeiten wir zu Brei.
 
-222
+176
 00:11:24,710 --> 00:11:27,250
 Riesen als Torwächter?!
 
-223
+177
 00:11:27,250 --> 00:11:28,790
 Das ist nicht fair!
 
-224
+178
 00:11:29,130 --> 00:11:33,010
 Wie riesig die sind! Da sind
 die Zerstörer ja winzig gegen!
 
-225
+179
 00:11:34,510 --> 00:11:36,470
 Und nun zischt ab!
 
-226
+180
 00:11:36,470 --> 00:11:38,050
 Hier kommt ihr nicht durch!
 
-227
+181
 00:11:38,050 --> 00:11:40,050
 Niemals!
 
-228
+182
 00:11:40,050 --> 00:11:41,350
 Sie greifen an!
 
-229
+183
 00:11:41,350 --> 00:11:45,640
 Gegen wen wir auch kämpfen,
 zögert nicht, Franky Family!
 
-230
+184
 00:11:46,060 --> 00:11:47,270
 Für unseren Bruder!
 
-231
+185
 00:11:47,270 --> 00:11:51,110
 – Jawohl!
 – Jawohl!
 
-232
+186
 00:11:52,570 --> 00:11:55,320
 Ihr wisst, was zu tun ist?
 
-233
+187
 00:11:55,820 --> 00:11:56,950
 Ja.
 
-234
+188
 00:11:56,950 --> 00:11:58,910
 Okay!
 
-235
+189
 00:12:01,120 --> 00:12:05,500
 Wenn wir nicht vorangehen, wer dann?!
 
-236
+190
 00:12:05,500 --> 00:12:08,370
 Unsere Arbeit als Schiffszerstörer
 hat uns stark gemacht!
 
-237
+191
 00:12:08,370 --> 00:12:10,920
 Wir nehmen’s auch mit Riesen auf!
 
-238
+192
 00:12:10,920 --> 00:12:12,420
 Zerstörer!
 
-239
+193
 00:12:35,530 --> 00:12:39,070
 A-Alle drei Zerstörer wurden...
 
-240
+194
 00:12:39,070 --> 00:12:41,030
 ...in nur einem Augenblick erledigt!
 
-241
+195
 00:12:42,870 --> 00:12:46,040
 Wir sind geborene Krieger!
 
-242
+196
 00:12:46,040 --> 00:12:51,670
 Unser Blut ist anders als das kleiner Menschen,
 die nur etwas größer als andere sind.
 
-243
+197
 00:12:52,710 --> 00:12:55,630
 Hier kommt keiner durch!
 
-244
+198
 00:12:55,630 --> 00:12:56,760
 Keiner!
 
-245
+199
 00:12:56,760 --> 00:12:59,510
 N-N-Nur keine Angst!
 
-246
+200
 00:12:59,510 --> 00:13:01,510
 Nicht verzagen!
 
-247
+201
 00:13:01,510 --> 00:13:05,600
 Genau! Bruder Franky ist hinter dem Tor!
 
-248
+202
 00:13:07,220 --> 00:13:12,060
 Zeigt ihnen einen Kampf, der unseres
 Bruders würdig ist, Franky Family!
 
-249
+203
 00:13:20,820 --> 00:13:22,780
 Hey, Strohhut Luffy.
 
-250
+204
 00:13:23,240 --> 00:13:25,990
 Wie viele Freunde hast du mitgebracht?
 
-251
+205
 00:13:27,620 --> 00:13:30,710
 In Enies Lobby sind
 10.000 Soldaten stationiert!
 
-252
+206
 00:13:31,540 --> 00:13:33,920
 Ja, aber ich bin allein hier.
 
-253
+207
 00:13:37,170 --> 00:13:38,880
 Macht den Weg frei!
 
-254
+208
 00:13:46,310 --> 00:13:50,680
 Zeigt ihnen einen Kampf, der unseres
 Bruders würdig ist, Franky Family!
 
-255
+209
 00:13:56,480 --> 00:13:58,280
 Nicht verzagen!
 
-256
+210
 00:13:58,280 --> 00:14:00,820
 Öffnet das Tor für den Rocketman!
 
-257
+211
 00:14:06,830 --> 00:14:09,330
 Öffnet das Tor!
 
-258
+212
 00:14:13,080 --> 00:14:16,540
 Durch dieses Tor kommt nicht mal eine Ameise!
 
-259
+213
 00:14:23,010 --> 00:14:24,260
 Zerstörer!
 
-260
+214
 00:14:24,260 --> 00:14:25,300
 Leute!
 
-261
+215
 00:14:26,600 --> 00:14:30,470
 Scheißdreck! Ihr wagt es,
 unsere stärksten Leute umzuhauen?!
 
-262
+216
 00:14:30,470 --> 00:14:32,100
 Los!
 
-263
+217
 00:14:40,150 --> 00:14:41,440
 Was zum...?!
 
-264
+218
 00:14:41,900 --> 00:14:43,070
 Zambai!
 
-265
+219
 00:14:43,070 --> 00:14:44,030
 Kiwi! Mozu!
 
-266
+220
 00:14:44,360 --> 00:14:45,860
 Galley-La!
 
-267
+221
 00:14:50,370 --> 00:14:51,910
 Sorry, hat etwas gedauert.
 
-268
+222
 00:14:51,910 --> 00:14:55,500
 War nicht einfach, Sodom und
 Gomorrah in den Landmodus zu bringen.
 
-269
+223
 00:14:56,000 --> 00:14:58,920
 Zambai! Die Zerstörer...
 
-270
+224
 00:14:58,920 --> 00:15:00,590
 Ist mir klar.
 
-271
+225
 00:15:01,340 --> 00:15:04,220
 Aber wir haben keine Zeit, sie zu verarzten.
 
-272
+226
 00:15:04,220 --> 00:15:10,890
 Um zu Bruder Franky zu gelangen, müssen wir
 dieses Tor um jeden Preis öffnen!
 
-273
+227
 00:15:11,310 --> 00:15:12,310
 Los geht’s!
 
-274
+228
 00:15:12,930 --> 00:15:13,520
 Ja!
 
-275
+229
 00:15:15,850 --> 00:15:18,860
 Bringen wir ihn aus der Balance. Mozu!
 
-276
+230
 00:15:18,860 --> 00:15:21,110
 Roger, Kiwi!
 
-277
+231
 00:15:28,740 --> 00:15:31,080
 – Kielraumzerleger-Schnitt!
 – Kielraumzerleger-Schnitt!
 
-278
+232
 00:15:34,330 --> 00:15:36,000
 Rope Action...
 
-279
+233
 00:15:36,460 --> 00:15:39,170
 Timber Hitch Tug!
 
-280
+234
 00:15:41,000 --> 00:15:44,970
 Au, au, au, au!
 
-281
+235
 00:15:52,010 --> 00:15:53,390
 Kashi!
 
-282
+236
 00:15:58,940 --> 00:15:59,860
 Tilestone!
 
-283
+237
 00:15:59,860 --> 00:16:01,400
 Ja!
 
-284
+238
 00:16:11,660 --> 00:16:14,540
 Au, au, au, au!
 
-285
+239
 00:16:14,540 --> 00:16:16,040
 Trunnel Lock!
 
-286
+240
 00:16:16,040 --> 00:16:17,620
 Arbeit abgeschlossen!
 
-287
+241
 00:16:29,590 --> 00:16:31,930
 Ihr Dreckskerle!
 
-288
+242
 00:16:31,930 --> 00:16:34,220
 Ich hau euch kurz und klein!
 
-289
+243
 00:16:40,730 --> 00:16:42,190
 Kashi!
 
-290
+244
 00:16:49,240 --> 00:16:50,610
 Sauber!
 
-291
+245
 00:16:55,200 --> 00:16:56,750
 Ihr wagt es?!
 
-292
+246
 00:16:57,450 --> 00:17:00,080
 Jetzt den anderen, ihr Landratten!
 
-293
+247
 00:17:00,080 --> 00:17:02,460
 – Ja!
 – Ja!
 
-294
+248
 00:17:09,340 --> 00:17:10,970
 Wie ist der Status?
 
-295
+249
 00:17:10,970 --> 00:17:12,200
 Jawohl.
 
-296
+250
 00:17:12,200 --> 00:17:16,810
 Kashi und Oimo sollten sich derzeit
 vor dem Inseltor um sie kümmern.
 
-297
+251
 00:17:16,810 --> 00:17:18,600
 Es sollte keine Probleme geben.
 
-298
+252
 00:17:18,600 --> 00:17:19,810
 So, so.
 
-299
+253
 00:17:19,810 --> 00:17:22,980
 Und habt ihr den Strohhut gefangen,
 der es auf die Hauptinsel geschafft hat?
 
-300
+254
 00:17:22,980 --> 00:17:25,480
 Ähm, nun ja...
 
-301
+255
 00:17:25,480 --> 00:17:29,320
 Das ist nur eine grobe Schätzung, aber etwa 400.
 
-302
+256
 00:17:29,860 --> 00:17:30,900
 400?
 
-303
+257
 00:17:31,530 --> 00:17:33,030
 Wovon sprichst du?
 
-304
+258
 00:17:33,030 --> 00:17:34,870
 Unsere Opfer!
 
-305
+259
 00:17:41,960 --> 00:17:44,250
 Was?! Unsere Opfer?!
 
-306
+260
 00:17:44,250 --> 00:17:46,750
 Er soll 400 Soldaten erledigt haben?!
 
-307
+261
 00:17:47,250 --> 00:17:49,840
 Jetzt wohl schon hundert mehr...
 
-308
+262
 00:17:50,470 --> 00:17:52,840
 Öhm, Entschuldigen Sie,
 ich muss mich korrigieren.
 
-309
+263
 00:17:52,840 --> 00:17:56,220
 Offensichtlich! Unsere Wachen
 sind ja keine Luschen!
 
-310
+264
 00:17:56,220 --> 00:17:58,270
 Kann doch nicht sein,
 dass so viele erwischt wurden!
 
-311
+265
 00:17:58,270 --> 00:18:01,180
 Wenn es Opfer gibt,
 nenn zumindest die richtige Zahl!
 
-312
+266
 00:18:08,150 --> 00:18:10,530
 Dann, ähm, lassen Sie mich berichten.
 
-313
+267
 00:18:10,530 --> 00:18:12,400
 Die derzeitige Opferzahl vor Ort beträgt fünf…
 
-314
+268
 00:18:16,580 --> 00:18:18,330
 Fünf?
 
-315
+269
 00:18:18,330 --> 00:18:20,540
 Nur fünf Leute also?
 
-316
+270
 00:18:20,540 --> 00:18:23,790
 Also ehrlich... Nicht mal Bericht
 erstatten kannst du vernünftig!
 
-317
+271
 00:18:23,790 --> 00:18:27,040
 Fünfhundert Leute...
 
-318
+272
 00:18:28,550 --> 00:18:33,510
 Strohhut Luffy kämpft also nicht,
 sondern läuft nur kreuz und quer davon.
 
-319
+273
 00:18:33,510 --> 00:18:35,260
 Aber macht Sinn.
 
-320
+274
 00:18:35,260 --> 00:18:38,310
 Niemand wäre dumm genug,
 sich so vielen Wachen zu stellen.
 
-321
+275
 00:18:38,310 --> 00:18:42,060
 Ist nur eine Frage der Zeit,
 bis sie ihn schnappen.
 
-322
+276
 00:18:44,440 --> 00:18:45,980
 Willkommen zurück.
 
-323
+277
 00:18:46,650 --> 00:18:49,730
 Oberbefehlshaber, Lucci
 und die anderen sind zurück.
 
-324
+278
 00:18:50,190 --> 00:18:52,190
 Sie sind zurück?
 
-325
+279
 00:18:52,190 --> 00:18:53,400
 Lass sie rein.
 
-326
+280
 00:18:55,990 --> 00:18:58,200
 Hey, Sogeking...
 
-327
+281
 00:18:59,790 --> 00:19:00,370
 Hey!
 
-328
+282
 00:19:00,370 --> 00:19:02,790
 Ey, das tat weh!
 
-329
+283
 00:19:02,790 --> 00:19:06,040
 Wie benutzt man den Stock für kühle Luft?
 
-330
+284
 00:19:06,040 --> 00:19:08,000
 Hm? Zeig mal her...
 
-331
+285
 00:19:08,000 --> 00:19:09,800
 Woher soll ich das wissen?
 
-332
+286
 00:19:12,340 --> 00:19:14,720
 Es ist an der Zeit, Leute!
 
-333
+287
 00:19:16,260 --> 00:19:18,140
 Wollen wir?
 
-334
+288
 00:19:18,510 --> 00:19:21,520
 Die beiden Tore sollten
 mittlerweile offen sein.
 
-335
+289
 00:19:21,520 --> 00:19:24,980
 Vorwärts! Vorwärts!
 
-336
+290
 00:19:25,770 --> 00:19:29,360
 Samurai-Mann! Kümmer dich
 um den Eisenzaun!
 
-337
+291
 00:19:29,980 --> 00:19:31,690
 Geht klar.

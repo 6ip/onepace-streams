@@ -1461,151 +1461,148 @@ Tuota... Satamaan päin he menivät...
 350
 00:19:33,110 --> 00:19:35,110
 Hitto!
+– Pormestari! Pormestari!
+– Pormestari! Pormestari!
 
 351
-00:19:33,110 --> 00:19:35,110
-– Pormestari! Pormestari!
-– Pormestari! Pormestari!
-
-352
 00:19:35,110 --> 00:19:38,410
 Rellestävät minun kaupungissani!
 
-353
+352
 00:19:38,410 --> 00:19:42,370
 Minullakin on sanani sanottavani!
 
-354
+353
 00:19:46,040 --> 00:19:47,790
 No niin! Mennään sitten!
 
-355
+354
 00:19:48,710 --> 00:19:52,340
 Purjeessasi on Buggyn tunnus.
 
-356
+355
 00:19:52,340 --> 00:19:55,340
 No, onhan tämä hänen paattinsa.
 Poistan sen joskus.
 
-357
+356
 00:19:57,220 --> 00:19:58,680
 Hei! Odottakaas!
 
-358
+357
 00:19:59,090 --> 00:20:01,180
 Nulikat!
 
-359
+358
 00:20:01,180 --> 00:20:02,640
 Pormestariukkeli!
 
-360
+359
 00:20:10,810 --> 00:20:13,440
 Olin valmis kuolemaan!
 
-361
+360
 00:20:13,440 --> 00:20:17,320
 Epätoivoissani en välittänyt...!
 
-362
+361
 00:20:18,950 --> 00:20:20,780
 Kiitosta! Jäimme velkaa!
 
-363
+362
 00:20:24,120 --> 00:20:25,500
 Älä siitä välitä!
 
-364
+363
 00:20:25,500 --> 00:20:27,250
 Otetaan lunkisti!
 
-365
+364
 00:20:27,660 --> 00:20:29,670
 Hitsin nulikat.
 
-366
+365
 00:20:29,670 --> 00:20:31,790
 Hitsin nulikat!
 
-367
+366
 00:20:31,790 --> 00:20:34,420
 Hitsin nulikat...
 
-368
+367
 00:20:36,260 --> 00:20:38,180
 Ei löydy sanoja...
 
-369
+368
 00:20:43,100 --> 00:20:44,180
 Mitä?
 
-370
+369
 00:20:44,180 --> 00:20:46,020
 Mitääh?!
 
-371
+370
 00:20:46,390 --> 00:20:48,440
 Jätit säkkisi?!
 
-372
+371
 00:20:48,440 --> 00:20:49,140
 Jep.
 
-373
+372
 00:20:49,140 --> 00:20:52,150
 Jätit siis viisi miljoonaa berryä!
 
-374
+373
 00:20:52,150 --> 00:20:55,530
 Kaupungin korjaus maksaa.
 
-375
+374
 00:20:55,530 --> 00:20:57,440
 Aarre oli minun!
 
-376
+375
 00:20:57,820 --> 00:21:00,410
 Tiedätkö mitä
 kävin läpi saadakseni sen?!
 
-377
+376
 00:21:01,070 --> 00:21:02,910
 Miksi teit noin?!
 
-378
+377
 00:21:02,910 --> 00:21:04,910
 Lopeta! Mä en voi uida!
 
-379
+378
 00:21:04,910 --> 00:21:06,660
 Siksi juuri!
 
-380
+379
 00:21:06,660 --> 00:21:08,540
 Käy itse hakemassa jos haluut!
 
-381
+380
 00:21:08,540 --> 00:21:10,750
 Miten muka?! Hanki sinä se!
 
-382
+381
 00:21:10,750 --> 00:21:13,540
 Ei! Vaarallista! Saatan kuolla tähän!
 
-383
+382
 00:21:13,540 --> 00:21:15,210
 Kuolisit nyt sitten kerran!
 
-384
+383
 00:21:15,750 --> 00:21:18,630
 Ensi kerralla heitän mereen!
 
-385
+384
 00:21:20,340 --> 00:21:23,390
 Oli se sitten hyvä tai huono asia...
 
-386
+385
 00:21:23,390 --> 00:21:28,060
 näyttää siltä, että saimme
 navigaattorin mukaan reissuun.
