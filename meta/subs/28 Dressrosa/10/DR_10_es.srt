@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -140,112 +140,112 @@ El poder que se esconde en nuestros lazos...
 ¡Somos los mejores! ¡Sigamos avanzando!
 
 36
-00:02:40,050 --> 00:02:44,290
-DEBAJO DE GREEN BIT
+00:02:30,030 --> 00:02:39,010
+La rebelión Tontatta y la batalla final del Bloque C
 
 37
 00:02:40,050 --> 00:02:44,290
-REINO TONTATTA
+DEBAJO DE GREEN BIT
 
 38
-00:03:00,810 --> 00:03:03,930
-AEROPUERTO TONTATTA
+00:02:40,050 --> 00:02:44,290
+REINO TONTATTA
 
 39
 00:03:00,810 --> 00:03:03,930
-AEROLÍNEA TONTATTA
+AEROPUERTO TONTATTA
 
 40
+00:03:00,810 --> 00:03:03,930
+AEROLÍNEA TONTATTA
+
+41
 00:03:04,710 --> 00:03:09,620
 KABU AMARILLO
 (GRAN ESCARABAJO RINOCERONTE DORADO)
 
-41
+42
 00:03:08,050 --> 00:03:11,540
 Unidad 43 lista para despegar.
 
-42
+43
 00:03:14,120 --> 00:03:18,840
 ESCUADRÓN DE ABEJAS ROSAS BI (PINK BEE)
 
-43
+44
 00:03:17,040 --> 00:03:18,850
 Entendido, abejas rosas.
 
-44
+45
 00:03:18,850 --> 00:03:22,050
 Los demás están a la espera de instrucciones.
 
-45
+46
 00:03:22,050 --> 00:03:24,800
 Oh, Usoland, ten cuidado al pisar.
 
-46
+47
 00:03:29,460 --> 00:03:32,440
 KABU, CAPITÁN DEL ESCUADRÓN
  DE ESCARABAJOS AMARILLOS
 
-47
+48
 00:03:29,460 --> 00:03:32,440
 (FRUTA MUSHI MUSHI - MODELO ESCARABAJO RINOCERONTE)
 
-48
+49
 00:03:34,260 --> 00:03:37,530
 BIAN, CAPITANA DEL ESCUADRÓN DE ABEJAS ROSAS
 
-49
+50
 00:03:34,260 --> 00:03:37,530
 (FRUTA MUSHI MUSHI - MODELO AVISPÓN)
 
-50
+51
 00:04:04,110 --> 00:04:08,610
 TRANSPORTE PARA 20 HOMBRES - LINEAR FOX
 
-51
+52
 00:04:04,110 --> 00:04:08,610
 (EXPRESO MAÍZ)
 
-52
+53
 00:04:38,520 --> 00:04:40,760
 ¡Sí!
 
-53
+54
 00:05:08,540 --> 00:05:11,320
 No creo que lleguemos a ese extremo...
 
-54
+55
 00:05:32,220 --> 00:05:37,680
 Aquí, en Dressrosa, hay un 
 magnífico campo de girasoles.
 
-55
+56
 00:05:39,220 --> 00:05:45,440
 En un lugar secreto entre las flores
  que crecen llenas de gracia,
 
-56
+57
 00:05:45,440 --> 00:05:48,430
 hay un pasadizo subterráneo secreto.
 
-57
+58
 00:05:48,430 --> 00:05:52,400
 Si uno desciende por ese camino,
 
-58
+59
 00:05:53,190 --> 00:05:57,810
 podrá escuchar voces valerosas.
 
-59
+60
 00:06:09,020 --> 00:06:11,350
 ORGANIZACIÓN ANTIDOFLAMINGO
 
-60
+61
 00:06:09,020 --> 00:06:11,350
 CUARTEL GENERAL DEL EJÉRCITO REAL DE RIKU
-
-61
-00:07:38,220 --> 00:07:39,810
-Debe haber sido Usopp.
 
 62
 00:07:38,220 --> 00:07:39,810
@@ -462,194 +462,186 @@ como si fueran sacos de boxeo.
 ¡Jefe!
 
 113
-00:17:19,080 --> 00:17:21,120
-¡Jefe!
+00:17:21,120 --> 00:17:24,780
+¡Lo logró!
 
 114
-00:17:21,120 --> 00:17:24,780
-¡Lo logró!
-
-115
-00:17:21,120 --> 00:17:24,780
-¡Lo logró!
-
-116
 00:17:25,960 --> 00:17:27,400
 ¡Retirada!
 
-117
+115
 00:17:27,400 --> 00:17:30,000
 ¡A todos los barcos, retirada!
 
-118
+116
 00:17:33,570 --> 00:17:35,140
 ¡Jefe!
 
-119
+117
 00:17:35,140 --> 00:17:38,080
 ¡Jefe, me alegro de que esté bien!
 
-120
+118
 00:17:47,120 --> 00:17:48,950
 ¡Ábrete, Chinjao!
 
-121
+119
 00:17:51,210 --> 00:17:53,780
 ¡Kiryuu Kirikugi!
 
-122
+120
 00:17:53,780 --> 00:17:55,080
 ¡Jefe!
 
-123
+121
 00:17:55,080 --> 00:17:56,830
 ¡Jefe, ya deténgase!
 
-124
+122
 00:17:56,830 --> 00:17:58,480
 ¡Se va a matar!
 
-125
+123
 00:17:58,480 --> 00:17:59,560
 ¡Ábrete!
 
-126
+124
 00:18:04,300 --> 00:18:05,750
 No se abre.
 
-127
+125
 00:18:06,600 --> 00:18:08,650
 ¡¿Qué hago?!
 
-128
+126
 00:18:08,650 --> 00:18:10,570
 ¡Son mis tesoros!
 
-129
+127
 00:18:10,570 --> 00:18:13,330
 ¡Los veo!
 
-130
+128
 00:18:13,330 --> 00:18:18,650
 ¡Los tesoros de toda mi vida, toda mi riqueza!
 
-131
+129
 00:18:19,890 --> 00:18:21,850
 ¡Maldito Garp!
 
-132
+130
 00:18:21,850 --> 00:18:23,220
 ¡Nunca te lo perdonaré!
 
-133
+131
 00:18:23,860 --> 00:18:27,520
 ¡Este rencor se extenderá hasta tus nietos!
 
-134
+132
 00:18:27,520 --> 00:18:33,340
 ¡Yo te maldigo!
 
-135
+133
 00:18:52,310 --> 00:18:55,180
 ¡¿Acaso es una ilusión?!
 
-136
+134
 00:18:55,820 --> 00:18:58,310
 ¡El brazo de Lucy se ha hecho enorme!
 
-137
+135
 00:19:22,470 --> 00:19:25,100
 Mola
+
+136
+00:19:22,470 --> 00:19:25,100
+Shi
+
+137
+00:19:22,470 --> 00:19:25,100
+Chibukai
 
 138
 00:19:22,470 --> 00:19:25,100
-Shi
+Fansub!
 
 139
 00:19:22,470 --> 00:19:25,100
-Chibukai
+Técnica secreta del Puño de Ocho Impactos.
 
 140
-00:19:22,470 --> 00:19:25,100
-Fansub!
+00:19:32,480 --> 00:19:33,990
+Mola
 
 141
-00:19:22,470 --> 00:19:25,100
-Técnica secreta del Puño de Ocho Impactos.
+00:19:32,480 --> 00:19:33,990
+Shi
 
 142
 00:19:32,480 --> 00:19:33,990
-Mola
+Chibukai
 
 143
 00:19:32,480 --> 00:19:33,990
-Shi
+Fansub!
 
 144
 00:19:32,480 --> 00:19:33,990
-Chibukai
-
-145
-00:19:32,480 --> 00:19:33,990
-Fansub!
-
-146
-00:19:32,480 --> 00:19:33,990
 Dragón sin taladro.
 
-147
+145
 00:19:38,030 --> 00:19:39,990
 Mola
 
-148
+146
 00:19:38,030 --> 00:19:39,990
 Shi
 
-149
+147
 00:19:38,030 --> 00:19:39,990
 Chibukai
 
-150
+148
 00:19:38,030 --> 00:19:39,990
 Fansub!
 
-151
+149
 00:19:38,030 --> 00:19:39,990
 Clavo sin taladro.
 
-152
+150
 00:20:09,790 --> 00:20:12,080
 ¡Chinjao ha salido del ring!
 
-153
+151
 00:20:12,080 --> 00:20:13,660
 ¡Está descalificado!
 
-154
+152
 00:20:22,730 --> 00:20:25,740
 ¡Qué gran hombre!
 
-155
+153
 00:20:25,740 --> 00:20:32,080
 ¡El ganador de la cruenta batalla del Bloque C
  y aquel que pudo con una leyenda...
 
-156
+154
 00:20:32,680 --> 00:20:35,980
 ...es el gladiador Lucy!
 
-157
+155
 00:20:37,190 --> 00:20:42,890
 ¡Lucy, Lucy!
 
-158
+156
 00:20:42,890 --> 00:20:45,760
 ¿Quién habría imaginado que Lucy llegaría tan lejos?
 
-159
+157
 00:20:45,760 --> 00:20:49,960
 ¡Es un resultado verdaderamente sorprendente!
 
-160
+158
 00:21:16,920 --> 00:21:18,720
 ¿Sombrero de Paja?

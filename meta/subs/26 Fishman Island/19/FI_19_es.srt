@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,304 +146,304 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
-00:05:03,520 --> 00:05:05,520
-Mola
+00:02:32,000 --> 00:02:38,710
+¿Quién eres?
 
 38
 00:05:03,520 --> 00:05:05,520
-Shi
+Mola
 
 39
 00:05:03,520 --> 00:05:05,520
-Chibukai
+Shi
 
 40
 00:05:03,520 --> 00:05:05,520
-Fansub!
+Chibukai
 
 41
 00:05:03,520 --> 00:05:05,520
-Bola negra.
+Fansub!
 
 42
-00:05:34,150 --> 00:05:37,580
-Mola
+00:05:03,520 --> 00:05:05,520
+Bola negra.
 
 43
 00:05:34,150 --> 00:05:37,580
-Shi
+Mola
 
 44
 00:05:34,150 --> 00:05:37,580
-Chibukai
+Shi
 
 45
 00:05:34,150 --> 00:05:37,580
-Fansub!
+Chibukai
 
 46
 00:05:34,150 --> 00:05:37,580
-Bastón de nubes de rayos.
+Fansub!
 
 47
+00:05:34,150 --> 00:05:37,580
+Bastón de nubes de rayos.
+
+48
 00:08:41,780 --> 00:08:42,820
 ¿Qué?
 
-48
+49
 00:08:48,960 --> 00:08:50,200
 ¿Qué?
 
-49
+50
 00:08:55,720 --> 00:08:56,940
 ¡¿Qué?!
 
-50
-00:09:06,410 --> 00:09:12,560
-Mola
-
 51
 00:09:06,410 --> 00:09:12,560
-Shi
+Mola
 
 52
 00:09:06,410 --> 00:09:12,560
-Chibukai
+Shi
 
 53
 00:09:06,410 --> 00:09:12,560
-Fansub!
+Chibukai
 
 54
 00:09:06,410 --> 00:09:12,560
-Supercabezazo a la planta del pie.
+Fansub!
 
 55
+00:09:06,410 --> 00:09:12,560
+Supercabezazo a la planta del pie.
+
+56
 00:09:12,570 --> 00:09:14,870
 ¡Le puso nombre!
 
-56
+57
 00:10:05,820 --> 00:10:08,460
 Mola
 
-57
-00:10:05,820 --> 00:10:08,020
-Shi
-
 58
 00:10:05,820 --> 00:10:08,020
-Chibukai
+Shi
 
 59
 00:10:05,820 --> 00:10:08,020
-Fansub!
+Chibukai
 
 60
 00:10:05,820 --> 00:10:08,020
-Cañón de once cuernos.
+Fansub!
 
 61
-00:10:27,370 --> 00:10:29,790
-Mola
+00:10:05,820 --> 00:10:08,020
+Cañón de once cuernos.
 
 62
 00:10:27,370 --> 00:10:29,790
-Shi
+Mola
 
 63
 00:10:27,370 --> 00:10:29,790
-Chibukai
+Shi
 
 64
 00:10:27,370 --> 00:10:29,790
-Fansub!
+Chibukai
 
 65
 00:10:27,370 --> 00:10:29,790
-Estrella verde mortal.
+Fansub!
 
 66
+00:10:27,370 --> 00:10:29,790
+Estrella verde mortal.
+
+67
 00:12:37,700 --> 00:12:40,420
 ¡Tengo que llevarlo lejos, muy lejos!
 
-67
+68
 00:12:44,610 --> 00:12:47,100
 Lejos de la isla...
 
-68
+69
 00:12:48,100 --> 00:12:49,880
 ¡Noah!
 
-69
+70
 00:15:08,410 --> 00:15:10,880
 ¡Noah! ¡Ven hacia aquí!
 
-70
+71
 00:15:14,050 --> 00:15:16,890
 ¡Noah! ¡Sígueme!
 
-71
+72
 00:15:41,590 --> 00:15:44,860
 ¡Noah! ¡Aquí estoy!
 
-72
+73
 00:16:18,410 --> 00:16:19,570
 ¡Noah!
 
-73
+74
 00:18:43,880 --> 00:18:46,040
 Escuchen, hijos míos.
 
-74
+75
 00:18:46,040 --> 00:18:51,450
 Esa arca, el Noah, no es 
 ninguna reliquia histórica.
 
-75
+76
 00:18:56,610 --> 00:19:02,950
 Alguien que iba a convertirse en 
 un gran personaje siglos atrás...
 
-76
+77
 00:19:02,950 --> 00:19:07,900
 ...hizo una promesa con ese barco, por eso está en las profundidades esperando el momento preciso.
 
-77
+78
 00:19:07,910 --> 00:19:11,500
 Es un barco que todavía no ha cumplido su función.
 
-78
+79
 00:19:11,510 --> 00:19:16,390
 La técnica que usaron para su 
 construcción sigue siendo un misterio.
 
-79
+80
 00:19:16,390 --> 00:19:20,870
 ¡Hasta que llegue el día de la promesa,
  no debe sufrir un solo rasguño!
 
-80
+81
 00:19:20,870 --> 00:19:23,120
 Entendido, padre.
 
-81
+82
 00:19:23,120 --> 00:19:27,870
 Averiguaremos por qué se ha movido
  y así controlaremos la situación.
 
-82
+83
 00:19:28,890 --> 00:19:32,810
 ¡Pase lo que pase, debemos salvar
  a nuestro reino y al Noah!
 
-83
+84
 00:20:45,970 --> 00:20:47,930
 Mola
 
-84
+85
 00:20:45,970 --> 00:20:47,930
 Shi
 
-85
+86
 00:20:45,970 --> 00:20:47,930
 Chibukai
 
-86
+87
 00:20:45,970 --> 00:20:47,930
 Fansub!
 
-87
+88
 00:20:45,970 --> 00:20:47,930
 Tambor de mar.
 
-88
+89
 00:25:57,990 --> 00:25:59,560
 Sombrero de Paja Luffy-san.
 
-89
+90
 00:25:59,560 --> 00:26:00,830
 Te hablo desde el Tanque de Aire.
 
-90
+91
 00:26:00,830 --> 00:26:02,200
 Nos vimos antes.
 
-91
+92
 00:26:02,350 --> 00:26:05,740
 TANQUE DE AIRE
 
-92
+93
 00:26:05,890 --> 00:26:10,290
 PUESTO DE CONTROL
 
-93
+94
 00:26:14,840 --> 00:26:17,410
 ¿Hay algo en la cubierta que te interese?
 
-94
+95
 00:26:17,410 --> 00:26:18,780
 ¡Hody!
 
-95
+96
 00:26:19,130 --> 00:26:20,770
 ¡Síguelo!
 
-96
+97
 00:26:20,770 --> 00:26:23,190
 No, espera, Sombrero de Paja.
 
-97
+98
 00:26:23,190 --> 00:26:25,500
 ¡¿Por qué no vas?!
 
-98
+99
 00:26:25,500 --> 00:26:28,220
 Ya deberías saberlo.
 
-99
+100
 00:26:28,220 --> 00:26:33,140
 Pelear en el agua le da una ventaja
  considerable a un gyojin como Hody.
 
-100
+101
 00:26:33,140 --> 00:26:34,400
 Si lo seguimos...
 
-101
+102
 00:26:34,400 --> 00:26:36,160
 ¡Entonces, ¿qué vamos a hacer?!
 
-102
+103
 00:26:36,160 --> 00:26:37,430
 Tengo un plan.
 
-103
+104
 00:26:39,290 --> 00:26:42,160
 ¡Oye! ¡¿Adónde vamos, Hermahoshi?!
 
-104
+105
 00:26:43,690 --> 00:26:49,020
 ENTRADA PRINCIPAL DE LA ISLA GYOJIN
 
-105
+106
 00:26:45,550 --> 00:26:47,120
 Príncipe Fukaboshi.
 
-106
+107
 00:26:47,120 --> 00:26:49,020
 ¿Qué sucede, príncipe?
 
-107
+108
 00:26:49,020 --> 00:26:53,490
 Soldados, vamos a necesitar 
 una burbuja de aire enorme.
 
-108
+109
 00:26:53,490 --> 00:26:54,870
 Dense prisa y prepárenla.
-
-109
-00:26:54,870 --> 00:26:56,320
-¡Sí!
 
 110
 00:26:54,870 --> 00:26:56,320

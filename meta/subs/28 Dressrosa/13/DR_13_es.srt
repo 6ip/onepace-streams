@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -140,345 +140,350 @@ El poder que se esconde en nuestros lazos...
 ¡Somos los mejores! ¡Sigamos avanzando!
 
 36
-00:03:00,000 --> 00:03:02,630
-Mola
+00:02:30,060 --> 00:02:39,240
+¡El plan de Law y
+la pesadilla subterránea del Coliseo!
 
 37
 00:03:00,000 --> 00:03:02,630
-Shi
+Mola
 
 38
 00:03:00,000 --> 00:03:02,630
-Chibukai
+Shi
 
 39
 00:03:00,000 --> 00:03:02,630
-Fansub!
+Chibukai
 
 40
 00:03:00,000 --> 00:03:02,630
-Hilo multicolor.
+Fansub!
 
 41
-00:04:16,170 --> 00:04:18,440
-Mola
+00:03:00,000 --> 00:03:02,630
+Hilo multicolor.
 
 42
 00:04:16,170 --> 00:04:18,440
-Shi
+Mola
 
 43
 00:04:16,170 --> 00:04:18,440
-Chibukai
+Shi
 
 44
 00:04:16,170 --> 00:04:18,440
-Fansub!
+Chibukai
 
 45
 00:04:16,170 --> 00:04:18,440
-Sobra ardiente de cuerda de látigo.
+Fansub!
 
 46
+00:04:16,170 --> 00:04:18,440
+Sobra ardiente de cuerda de látigo.
+
+47
 00:04:29,470 --> 00:04:30,980
 DRESSROSA
 
-47
+48
 00:06:51,830 --> 00:06:53,140
 Fujitora, ¿eh?
 
-48
+49
 00:07:50,450 --> 00:07:51,950
 ¡Meteoritos! ¡Meteoritos!
 
-49
+50
 00:08:51,270 --> 00:08:54,990
 Mola
 
-50
+51
 00:08:51,270 --> 00:08:54,990
 Shi
 
-51
+52
 00:08:51,270 --> 00:08:54,990
 Chibukai
 
-52
+53
 00:08:51,270 --> 00:08:54,990
 Fansub!
 
-53
+54
 00:08:51,270 --> 00:08:54,990
 Hilo.
 
-54
+55
 00:12:05,980 --> 00:12:09,140
 AGUAS CERCANAS A DRESSROSA
 
-55
+56
 00:13:21,120 --> 00:13:24,050
 ¡Joven amo, va a morir!
 
-56
+57
 00:13:24,050 --> 00:13:27,520
 ¡¿Qué demonios fue eso?!
 
-57
+58
 00:13:30,290 --> 00:13:32,660
 ¡¿Qué eres, maldito?!
 
-58
+59
 00:13:32,660 --> 00:13:34,630
 ¡¿Acaso no eres un gladiador?!
 
-59
+60
 00:13:39,850 --> 00:13:44,480
 ¿Quién disfrutaría viéndolos correr?
 
-60
+61
 00:13:44,480 --> 00:13:46,540
 Si no pueden cortar a sus rivales,
 
-61
+62
 00:13:46,540 --> 00:13:50,110
 entonces, dejen que los corten
  para que vean algo de sangre.
 
-62
+63
 00:13:50,110 --> 00:13:53,820
 Todos los humanos, sin importar su personalidad,
 
-63
+64
 00:13:53,820 --> 00:13:58,280
 tienen un lado cruel y sediento de sangre.
 
-64
+65
 00:13:58,280 --> 00:13:59,790
 Sangre y muerte...
 
-65
+66
 00:13:59,790 --> 00:14:01,690
 ¡Ese es el mejor entretenimiento de todos!
 
-66
+67
 00:14:01,690 --> 00:14:04,320
 ¡Compórtate!
 
-67
+68
 00:14:05,620 --> 00:14:07,520
 ¡Escoria!
 
-68
+69
 00:14:12,030 --> 00:14:15,130
 No me vuelvan a mostrar un combate
  tan patético como el de hoy.
 
-69
+70
 00:14:15,130 --> 00:14:17,400
 ¡S-Sí, joven amo!
 
-70
+71
 00:14:18,770 --> 00:14:21,120
 Kin'emon, Momonosuke...
 
-71
+72
 00:14:21,120 --> 00:14:22,900
 Oh, Kanjuro...
 
-72
+73
 00:14:22,900 --> 00:14:24,340
 Encontré el puerto.
 
-73
+74
 00:14:24,340 --> 00:14:26,500
 Tomemos un barco de los que hay allí.
 
-74
+75
 00:14:26,500 --> 00:14:28,780
 Este país es peligroso.
 
-75
+76
 00:14:47,100 --> 00:14:50,600
 Depende de qué quiera hacer con ustedes,
 
-76
+77
 00:14:50,600 --> 00:14:53,960
 pero muchas veces no tratan mal a los rehenes.
 
-77
+78
 00:14:53,960 --> 00:14:55,170
 Así que todo está bien.
 
-78
+79
 00:15:04,750 --> 00:15:06,330
 Estaré bien.
 
-79
+80
 00:15:06,930 --> 00:15:11,010
 Pedí ayuda a un conocido,
  el Gobierno me protegerá.
 
-80
+81
 00:15:11,010 --> 00:15:13,220
 Deberían estar esperándome en el puerto.
 
-81
+82
 00:15:13,220 --> 00:15:15,080
 Ya veo.
 
-82
+83
 00:15:15,080 --> 00:15:18,360
 Me gustaría poder ir contigo, pero 
 al menos sé que estarás bien.
 
-83
+84
 00:15:20,240 --> 00:15:21,750
 Gracias.
 
-84
+85
 00:15:21,750 --> 00:15:25,750
 Gracias a ti, puedo seguir
  adelante una vez más.
 
-85
+86
 00:15:25,750 --> 00:15:27,860
 No fue nada.
 
-86
+87
 00:15:27,860 --> 00:15:29,910
 Si quieres agradecérmelo, bésame...
 
-87
+88
 00:15:32,260 --> 00:15:36,300
 ¡Oh, no, su barco está siendo
  atacado por peces de lidia!
 
-88
+89
 00:15:36,300 --> 00:15:37,250
 ¿Peces de lidia?
 
-89
+90
 00:15:37,250 --> 00:15:38,230
 ¡¿Qué son?!
 
-90
+91
 00:15:38,230 --> 00:15:39,330
 Date prisa, ve con ellos.
 
-91
+92
 00:15:40,160 --> 00:15:43,080
 ¡Nami-swan!
 
-92
+93
 00:16:16,150 --> 00:16:19,970
 DRESSROSA
 
-93
+94
 00:16:16,150 --> 00:16:19,970
 COLISEO CORRIDA
 
-94
+95
 00:16:32,270 --> 00:16:35,440
 (Siempre he sido fan suyo).
 
-95
+96
 00:16:46,020 --> 00:16:47,170
 Ya lo dije.
 
-96
+97
 00:17:30,790 --> 00:17:32,470
 ¡Maldita sea!
 
-97
+98
 00:17:32,470 --> 00:17:34,070
 ¡No la derrotan!
 
-98
+99
 00:17:34,070 --> 00:17:36,900
 ¡Esta es la especialidad de Rebecca, 
 danza de espadas al borde del foso!
 
-99
+100
 00:17:39,850 --> 00:17:42,200
 ¡Hazte fuerte, Rebecca!
 
-100
+101
 00:17:43,440 --> 00:17:47,580
 Usando la fuerza de sus oponentes, 
 los acerca al borde del ring.
 
-101
+102
 00:17:47,580 --> 00:17:50,500
 Se coloca frente al foso 
 lleno de peces de lidia...
 
-102
+103
 00:17:50,500 --> 00:17:57,820
 ...y, valiéndose de su increíble velocidad, usa la fuerza 
 de sus oponentes para lanzarlos hacia el agua.
 
-103
+104
 00:18:10,120 --> 00:18:11,130
 ¡Ahí está!
 
-104
+105
 00:18:11,130 --> 00:18:13,800
 ¡Esa técnica es la danza de
  espadas al borde del foso!
 
-105
+106
 00:18:14,840 --> 00:18:21,950
 ¡Así es, en ninguno de sus combates
  ha herido directamente a un contrincante!
 
-106
+107
 00:18:22,330 --> 00:18:26,320
 CUARTELES DE LOS 
 GLADIADORES PRISIONEROS
 
-107
+108
 00:18:26,320 --> 00:18:29,290
 ¡Tampoco la han golpeado ni una sola vez!
 
-108
+109
 00:18:29,290 --> 00:18:32,170
 ¡Echa del ring a todos sus oponentes!
 
-109
+110
 00:18:32,170 --> 00:18:33,910
 ¡Es la mujer invicta!
 
-110
+111
 00:18:39,150 --> 00:18:43,530
 ¡No es que no sea hermoso su estilo de pelea!
 
-111
+112
 00:18:45,520 --> 00:18:48,840
 ¡Y no es que no me desagrade!
 
-112
+113
 00:19:00,480 --> 00:19:03,440
 ¡Pero ¿cómo le irá en esta competición?!
 
-113
+114
 00:19:03,440 --> 00:19:07,320
 ¡Con grandes contendientes de todas partes
  del mundo y con diversos estilos de pelea,
 
-114
+115
 00:19:08,410 --> 00:19:10,570
 nada garantiza un combate limpio!
 
-115
+116
 00:19:21,320 --> 00:19:25,930
 COMANDANTE MILITAR 
 DEL REINO MAJIATSUKA DEL SUR
 ROLLING LOGAN
 
-116
+117
 00:19:33,550 --> 00:19:37,420
 DENTRO DEL COLISEO
 
-117
+118
 00:19:33,550 --> 00:19:37,420
 SALA DE ESPERA MÉDICA SUBTERRÁNEA

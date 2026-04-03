@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,255 +146,260 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
+00:02:30,210 --> 00:02:38,650
+¡Llegada a Colina Coral!
+¡La emorragia nasal y la predicción devastadora!
+
+38
 00:02:43,340 --> 00:02:44,410
 ¡Sanji-chan!
 
-38
+39
 00:02:44,410 --> 00:02:46,310
 ¡Con gusto!
 
-39
+40
 00:02:49,770 --> 00:02:50,620
 ¡He decidido...
 
-40
+41
 00:02:52,710 --> 00:02:53,650
 ...quedarme...
 
-41
+42
 00:02:55,110 --> 00:02:57,860
 ...a vivir aquí para siempre!
 
-42
+43
 00:03:47,430 --> 00:03:52,570
 ISLA GYOJIN "REINO RYUGU"
 
-43
+44
 00:03:59,220 --> 00:04:01,790
 ¡Nos vemos dentro de dos años en la Isla Gyojin!
 
-44
+45
 00:04:01,790 --> 00:04:06,430
 ¡Estaré esperando con ansias 
 recibirte a ti y a tus compañeros!
 
-45
-00:05:11,820 --> 00:05:15,230
-Mola
-
 46
 00:05:11,820 --> 00:05:15,230
-Shi
+Mola
 
 47
 00:05:11,820 --> 00:05:15,230
-Chibukai
+Shi
 
 48
 00:05:11,820 --> 00:05:15,230
-Fansub!
+Chibukai
 
 49
 00:05:11,820 --> 00:05:15,230
-Palacio del Dragón.
+Fansub!
 
 50
-00:05:46,280 --> 00:05:51,000
-REINO RYUGU
+00:05:11,820 --> 00:05:15,230
+Palacio del Dragón.
 
 51
 00:05:46,280 --> 00:05:51,000
-LOS TRES HERMANOS DE LA FAMILIA NEPTUNE
+REINO RYUGU
 
 52
-00:06:13,370 --> 00:06:17,610
-HIJO MAYOR - FUKABOSHI
+00:05:46,280 --> 00:05:51,000
+LOS TRES HERMANOS DE LA FAMILIA NEPTUNE
 
 53
 00:06:13,370 --> 00:06:17,610
-(GYOJIN TIBURÓN)
+HIJO MAYOR - FUKABOSHI
 
 54
-00:06:18,030 --> 00:06:23,310
-HIJO DE EN MEDIO - RYUBOSHI
+00:06:13,370 --> 00:06:17,610
+(GYOJIN TIBURÓN)
 
 55
 00:06:18,030 --> 00:06:23,310
-GYOJIN PEZ REMO
+HIJO DE EN MEDIO - RYUBOSHI
 
 56
-00:06:25,320 --> 00:06:29,430
-HIJO MENOR - MANBOSHI
+00:06:18,030 --> 00:06:23,310
+GYOJIN PEZ REMO
 
 57
 00:06:25,320 --> 00:06:29,430
-(GYOJIN PEZ LUNA)
+HIJO MENOR - MANBOSHI
 
 58
+00:06:25,320 --> 00:06:29,430
+(GYOJIN PEZ LUNA)
+
+59
 00:07:13,690 --> 00:07:15,580
 ¡No es ninguna molestia!
 
-59
-00:07:41,370 --> 00:07:43,780
-Mola
-
 60
 00:07:41,370 --> 00:07:43,780
-Shi
+Mola
 
 61
 00:07:41,370 --> 00:07:43,780
-Chibukai
+Shi
 
 62
 00:07:41,370 --> 00:07:43,780
-Fansub!
+Chibukai
 
 63
 00:07:41,370 --> 00:07:43,780
-Caballeros amonita.
+Fansub!
 
 64
+00:07:41,370 --> 00:07:43,780
+Caballeros amonita.
+
+65
 00:07:43,230 --> 00:07:43,910
 ¡Sí, señor!
 
-65
+66
 00:10:47,830 --> 00:10:49,290
 Mola
 
-66
+67
 00:10:47,830 --> 00:10:49,290
 Shi
 
-67
+68
 00:10:47,830 --> 00:10:49,290
 Chibukai
 
-68
+69
 00:10:47,830 --> 00:10:49,290
 Fansub!
 
-69
+70
 00:10:47,830 --> 00:10:49,290
 Red de pesca.
 
-70
+71
 00:13:58,670 --> 00:14:01,930
 REINO RYUGU
 
-71
+72
 00:13:58,670 --> 00:14:01,930
 PUERTO "COLINA CORAL"
 
-72
+73
 00:14:58,530 --> 00:15:00,350
 ¡No lo recuerdes!
 
-73
+74
 00:15:22,720 --> 00:15:24,040
 No ha sido nada.
 
-74
+75
 00:15:24,040 --> 00:15:30,040
 Todos somos hermanos, y nos
  ayudamos en los momentos duros.
 
-75
+76
 00:15:35,530 --> 00:15:39,850
 PIRATAS GEMELOS
 
-76
+77
 00:15:35,530 --> 00:15:39,850
 SPALSH Y SPLATTER
 
-77
+78
 00:15:37,110 --> 00:15:39,850
 pídelo por esa boquita, tontito.
 
-78
+79
 00:17:16,750 --> 00:17:22,870
 ASESINO DE LOS NUEVOS PIRATAS GYOJIN
 
-79
+80
 00:17:16,750 --> 00:17:22,870
 HYOUZOU (GYOJIN PULPO DE ANILLOS AZULES)
 
-80
+81
 00:17:29,220 --> 00:17:31,400
 ¡Ishilly!
 
-81
+82
 00:17:51,100 --> 00:17:54,860
 DUEÑA DEL MERMAID CAFÉ
 
-82
+83
 00:17:51,100 --> 00:17:54,860
 MADAME SHYARLY
 
-83
+84
 00:18:25,510 --> 00:18:26,140
 ¿Eh?
 
-84
+85
 00:18:52,690 --> 00:18:53,730
 ¡Lo siento!
 
-85
+86
 00:19:12,560 --> 00:19:18,140
 Mola
 
-86
+87
 00:19:12,560 --> 00:19:18,140
 Shi
 
-87
+88
 00:19:12,560 --> 00:19:18,140
 Chibukai
 
-88
+89
 00:19:12,560 --> 00:19:18,140
 Fansub!
 
-89
+90
 00:19:12,560 --> 00:19:18,140
 Hitode significa tanto "personal" como "estrella de mar".
 
-90
+91
 00:19:53,710 --> 00:19:55,610
 ¡¿Qué?!
 
-91
+92
 00:20:15,060 --> 00:20:16,310
 ¡Ya vamos!
 
-92
+93
 00:21:06,310 --> 00:21:09,280
 ¡Muchísimas gracias!
 
-93
+94
 00:21:12,420 --> 00:21:13,810
 ¡Brook!
 
-94
+95
 00:21:55,070 --> 00:21:56,460
 ¡Maravilloso!
 
-95
+96
 00:23:33,800 --> 00:23:35,800
 ¡Es tan suave! ¡Se siente genial!
 
-96
+97
 00:23:41,130 --> 00:23:42,200
 ¡Sí!
 
-97
+98
 00:25:00,030 --> 00:25:04,070
 PEZ TAXI
 
-98
+99
 00:27:22,320 --> 00:27:25,290
 ¡¿Qué?! ¡Pero si sólo es una estrella de mar!
 
-99
+100
 00:27:25,290 --> 00:27:26,930
 COLINA CORAL

@@ -1,551 +1,555 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:05,600 --> 00:00:09,050
+¡Sí, tenemos superpoderes!
+
+3
+00:00:11,060 --> 00:00:14,510
+¡Sí, tenemos superpoderes!
+
+4
+00:00:16,440 --> 00:00:19,890
+¡Sí, tenemos superpoderes!
+
+5
+00:00:21,980 --> 00:00:25,320
+¡Sí, tenemos superpoderes!
+
+6
+00:00:25,320 --> 00:00:28,000
+Tu sueño es de un tamaño monstruoso.
+
+7
+00:00:28,000 --> 00:00:30,710
+Cuando se rompa la prisión de tu pecho...
+
+8
+00:00:30,710 --> 00:00:33,220
+...adéntrate al paraíso...
+
+9
+00:00:33,220 --> 00:00:35,040
+...que lleva escrito "vete al infierno".
+
+10
+00:00:35,040 --> 00:00:36,000
+En todo momento...
+
+11
+00:00:36,000 --> 00:00:37,750
+¡Peligroso, peligroso!
+
+12
+00:00:37,750 --> 00:00:38,610
+¡Nos gusta!
+
+13
+00:00:38,610 --> 00:00:40,660
+¡Grave, grave!
+
+14
+00:00:40,660 --> 00:00:41,710
+¡Oh!
+
+15
+00:00:41,710 --> 00:00:45,900
+Este sueño malherido algún día...
+
+16
+00:00:45,900 --> 00:00:51,310
+...se convertirá en uno de mis valiosos tesoros.
+
+17
+00:00:51,310 --> 00:00:55,070
+Un extraño entusiasmo une a los compañeros.
+
+18
+00:00:55,070 --> 00:01:00,670
+¿Vivir plenamente es una aventura?
+
+19
+00:01:00,670 --> 00:01:03,100
+¡Sí, tenemos superpoderes!
+
+20
+00:01:03,100 --> 00:01:08,820
+Confiemos en el mayor de los sueños y en los lazos con los rivales.
+
+21
+00:01:08,820 --> 00:01:11,630
+Fallar también tiene su encanto.
+
+22
+00:01:11,630 --> 00:01:14,570
+¡Sí, tenemos superpoderes!
+
+23
+00:01:16,410 --> 00:01:19,740
+¡Sí, somos superpoderosos!
+
+24
+00:01:21,880 --> 00:01:25,160
+¡Sí, somos superpoderosos!
+
+25
+00:01:27,330 --> 00:01:30,660
+¡Sí, somos superpoderosos!
+
+26
+00:01:32,750 --> 00:01:36,160
+¡Sí, somos superpoderosos!
+
+27
+00:01:39,720 --> 00:01:43,350
+¡Confían en mí!
+
+28
 00:02:35,200 --> 00:02:38,220
 Todos los ataques tienen una intención.
 
-3
+29
 00:02:43,180 --> 00:02:44,810
 Y una presencia.
 
-4
+30
 00:02:49,460 --> 00:02:52,800
 No ataques imprudentemente, Luffy.
 
-5
+31
 00:03:20,810 --> 00:03:22,790
 ¡Este tipo, como pensé...!
 
-6
+32
 00:03:30,240 --> 00:03:34,840
 ¡Ha empezado a ver el mismo futuro que yo!
 
-7
+33
 00:03:47,150 --> 00:03:53,160
 EN EL MAR - BARCO DE BEGE
 
-8
+34
 00:04:00,380 --> 00:04:01,160
 ¡Sí!
 
-9
+35
 00:08:11,770 --> 00:08:13,140
 ¡Ellos...
 
-10
+36
 00:10:56,170 --> 00:11:01,430
 ¡Su Haki de Observación cada
  vez se asemeja más al mío!
 
-11
+37
 00:11:20,530 --> 00:11:24,740
 ¡Debo eliminarlo cuanto
  antes por si acaso!
 
-12
+38
 00:13:00,250 --> 00:13:01,690
 ¡Sí!
 
-13
+39
 00:13:10,450 --> 00:13:12,840
 ¡Sí!
 
-14
+40
 00:13:21,690 --> 00:13:23,840
 ¡Nami-swan!
 
-15
+41
 00:13:23,840 --> 00:13:26,090
 ¡He venido a salvarte!
 
-16
+42
 00:13:37,100 --> 00:13:39,890
 ¡Nami-swan!
 
-17
+43
 00:14:16,220 --> 00:14:20,720
 ¿Qué hacemos? ¿Qué hacemos?
 
-18
+44
 00:14:34,710 --> 00:14:37,370
 ¡¿Destruimos el pastel?!
 
-19
+45
 00:14:37,370 --> 00:14:42,150
 ¡Pero si lo destruimos, ya nadie
  podrá detener a mamá...
 
-20
+46
 00:14:42,150 --> 00:14:44,010
 ...y será el fin de este país!
 
-21
+47
 00:14:44,010 --> 00:14:47,650
 ¡Ah, pero si muere envenenada 
 por comer el pastel,
 
-22
+48
 00:14:47,650 --> 00:14:50,810
 tanto el país como la tripulación 
 pirata estarán condenados!
 
-23
+49
 00:14:50,810 --> 00:14:52,820
 ¿Qué hacemos?
 
-24
+50
 00:14:52,820 --> 00:14:54,920
 ¿Qué deberíamos decidir?
 
-25
+51
 00:16:31,160 --> 00:16:31,890
 ¡Sí!
 
-26
+52
 00:16:51,490 --> 00:16:54,600
 Los barcos de Sombrero
  de Paja y el de Bege...
 
-27
+53
 00:16:54,600 --> 00:16:59,260
 Se separan para que nos dividamos...
 
-28
+54
 00:16:59,260 --> 00:17:00,800
 ¡Lamida!
 
-29
+55
 00:17:20,520 --> 00:17:22,440
 ¡Flechazo!
 
-30
+56
 00:17:22,820 --> 00:17:24,040
 ¡Yo también te quiero!
 
-31
+57
 00:17:24,040 --> 00:17:25,650
 ¡Nami-swan!
 
-32
+58
 00:19:30,660 --> 00:19:32,130
 ¡Desgraciado!
 
-33
+59
 00:20:10,140 --> 00:20:16,400
 CHARLOTTE SMOOTHIE
 HIJA DÉCIMO CUARTA DE LA FAMILIA CHARLOTTE
 
-34
+60
 00:20:10,140 --> 00:20:16,400
 (UNA DE LOS TRES GENERALES DULCES)
 
-35
+61
 00:20:53,140 --> 00:20:59,400
 HIJA DÉCIMO QUINTA DE LA FAMILIA CHARLOTTE
 
-36
+62
 00:20:53,140 --> 00:20:59,400
 CHARLOTTE CITRON
 
-37
+63
 00:21:04,240 --> 00:21:09,750
 HIJA DÉCIMO SEXTA DE LA FAMILIA CHARLOTTE
 
-38
+64
 00:21:04,240 --> 00:21:09,750
 CHARLOTTE CINNAMON
 
-39
+65
 00:21:28,040 --> 00:21:29,900
 ¡Sí!
 
-40
+66
 00:22:54,180 --> 00:22:56,210
 ¡Mi plan ha sido un éxito!
 
-41
+67
 00:23:10,790 --> 00:23:14,920
 ¡Hermano!
 
-42
+68
 00:23:23,840 --> 00:23:26,250
 La verdad es que aquella vez...
 
-43
+69
 00:23:26,250 --> 00:23:28,700
 ¡Ya veo, Flampé!
 
-44
+70
 00:23:28,700 --> 00:23:31,140
 ¡Qué niña tan buena y considerada eres!
 
-45
+71
 00:23:34,430 --> 00:23:39,340
 Eres mi hermana preferida.
 
-46
+72
 00:23:39,920 --> 00:23:42,240
 ¡Oh, qué admirable soy!
 
-47
+73
 00:23:42,240 --> 00:23:43,820
 ¡Qué linda soy!
 
-48
+74
 00:24:28,030 --> 00:24:31,260
 Mola
 
-49
+75
 00:24:28,030 --> 00:24:31,260
 Shi
 
-50
+76
 00:24:28,030 --> 00:24:31,260
 Chibukai
 
-51
+77
 00:24:28,030 --> 00:24:31,260
 Fansub!
 
-52
+78
 00:24:28,030 --> 00:24:31,260
 Tarareo de bolsitas de mochi (juego de palabras con mochi kinchaku).
 
-53
+79
 00:25:06,240 --> 00:25:09,250
 ¡Por fin había empezado a admirarte,
 
-54
+80
 00:25:12,840 --> 00:25:15,270
 pero me has decepcionado!
 
-55
+81
 00:25:41,820 --> 00:25:43,690
 ¡Creo que lo vi!
 
-56
+82
 00:25:44,900 --> 00:25:46,190
 ¿O habrá sido mi imaginación?
 
-57
+83
 00:25:48,070 --> 00:25:50,780
 Está bien si fue tu imaginación.
 
-58
+84
 00:25:50,780 --> 00:25:55,000
 ¡El Haki de Observación es 
 una extensión de tu imaginación!
 
-59
+85
 00:26:01,070 --> 00:26:05,010
 ¡Debes poder percibirlo instintivamente!
 
-60
+86
 00:26:05,010 --> 00:26:06,730
 ¡¿Instintivamente?!
 
-61
+87
 00:26:15,920 --> 00:26:17,620
 ¡Se ha puesto de pie de nuevo!
 
-62
+88
 00:26:17,620 --> 00:26:19,540
 ¡Pero cómo tiemblan sus piernas!
 
-63
+89
 00:26:20,290 --> 00:26:21,560
 ¡Muy bien!
 
-64
+90
 00:26:21,560 --> 00:26:22,600
 ¡Volveré a dispararle!
 
-65
+91
 00:26:25,090 --> 00:26:31,260
 ¡Esta vez le dispararé una Shibirebari
  diez veces más efectiva que la anterior!
 
-66
+92
 00:26:25,090 --> 00:26:31,260
 Mola
 
-67
+93
 00:26:25,090 --> 00:26:31,260
 Shi
 
-68
+94
 00:26:25,090 --> 00:26:31,260
 Chibukai
 
-69
+95
 00:26:25,090 --> 00:26:31,260
 Fansub!
 
-70
+96
 00:26:25,090 --> 00:26:31,260
 Agujas entumecedoras.
 
-71
+97
 00:26:34,340 --> 00:26:37,060
 Eres un mono que no sabe cuándo rendirse...
 
-72
+98
 00:26:37,060 --> 00:26:39,500
 ¡Muere de una vez!
 
-73
+99
 00:26:46,070 --> 00:26:47,090
 ¡Shibirebari!
 
-74
+100
 00:27:02,350 --> 00:27:03,030
 ¿Eh?
 
-75
+101
 00:27:03,030 --> 00:27:04,310
 ¿Lo esquivó?
 
-76
+102
 00:27:04,310 --> 00:27:06,310
 ¡¿Mi aguja silenciosa?!
 
-77
+103
 00:27:12,170 --> 00:27:14,180
 ¡Pero se cayó!
 
-78
+104
 00:28:26,880 --> 00:28:28,650
 ¿Flampe?
 
-79
+105
 00:28:40,590 --> 00:28:41,740
 No me digas que...
 
-80
+106
 00:29:13,130 --> 00:29:14,580
 ¡Bien hecho!
 
-81
+107
 00:29:14,580 --> 00:29:17,990
 Eres una buena chica, Flampe.
 
-82
+108
 00:29:17,990 --> 00:29:19,390
 Bien hecho.
 
-83
+109
 00:29:27,790 --> 00:29:29,360
 Ya veo.
 
-84
+110
 00:29:29,360 --> 00:29:32,160
 Fuiste tú, Flampe.
 
-85
+111
 00:29:35,740 --> 00:29:40,510
 Detuviste sus movimientos 
 con tu cerbatana silenciosa.
 
-86
+112
 00:29:43,350 --> 00:29:49,300
 Perdió su concentración durante un instante, en medio de esta intensa batalla.
 
-87
+113
 00:29:50,350 --> 00:29:52,900
 Me pareció extraño...
 
-88
+114
 00:29:54,670 --> 00:29:56,150
 ¡Mochi...
 
-89
+115
 00:29:58,320 --> 00:29:59,140
 ...Tsuki!
 
-90
+116
 00:30:01,910 --> 00:30:07,500
 ¡Pero fue por atacar en ese momento que logré hacerle un agujero mortal en el abdomen!
 
-91
+117
 00:30:11,100 --> 00:30:15,880
 ¡¿De verdad crees que deseo
  ganar de esa manera?!
 
-92
+118
 00:30:40,790 --> 00:30:42,620
 Flampe...
 
-93
+119
 00:30:45,100 --> 00:30:46,670
 Tú lo hiciste, ¿verdad?
 
-94
+120
 00:30:46,670 --> 00:30:48,960
 ¡Así es, hermano!
 
-95
+121
 00:30:48,960 --> 00:30:52,470
 ¡Yo lo hice!
 
-96
+122
 00:30:52,470 --> 00:30:57,630
 ¡De todas tus hermanas menores, yo soy la más considerada y linda, ¿no es así?!
 
-97
+123
 00:30:57,630 --> 00:31:01,760
 ¡La favorita del mejor y más perfecto hermano mayor de todo el mundo...
 
-98
+124
 00:31:01,760 --> 00:31:04,140
 ...soy yo!
 
-99
+125
 00:31:04,140 --> 00:31:07,640
 ¡Felicítame con todas tus fuerzas!
 
-100
+126
 00:31:07,640 --> 00:31:10,730
 ¡Hermano!
 
-101
+127
 00:31:44,560 --> 00:31:46,850
 ¡Katakuri-sama!
 
-102
+128
 00:32:52,660 --> 00:32:55,250
 ¡Sí, qué decepción!
 
-103
+129
 00:33:34,900 --> 00:33:37,200
 ¡Ah, es el pez pelícano!
 
-104
+130
 00:33:37,200 --> 00:33:38,570
 ¡No te acerques!
 
-105
+131
 00:33:38,570 --> 00:33:41,940
 ¡Es igual de fuerte que un monstruo!
 
-106
+132
 00:33:41,940 --> 00:33:45,200
 ¡Corran!
 
-107
+133
 00:35:21,640 --> 00:35:23,520
 ¡Eso, eso!
 
-108
+134
 00:36:01,720 --> 00:36:02,870
 ¡¿Haki del Rey?!
 
-109
+135
 00:36:03,490 --> 00:36:05,800
 ¡¿Ese mono lo está usando?!
 
-110
+136
 00:36:05,800 --> 00:36:08,040
 ¡¿Ese tipo...?!
-
-111
-00:00:05,600 --> 00:00:09,050
-¡Sí, tenemos superpoderes!
-
-112
-00:00:11,060 --> 00:00:14,510
-¡Sí, tenemos superpoderes!
-
-113
-00:00:16,440 --> 00:00:19,890
-¡Sí, tenemos superpoderes!
-
-114
-00:00:21,980 --> 00:00:25,320
-¡Sí, tenemos superpoderes!
-
-115
-00:00:25,320 --> 00:00:28,000
-Tu sueño es de un tamaño monstruoso.
-
-116
-00:00:28,000 --> 00:00:30,710
-Cuando se rompa la prisión de tu pecho...
-
-117
-00:00:30,710 --> 00:00:33,220
-...adéntrate al paraíso...
-
-118
-00:00:33,220 --> 00:00:35,040
-...que lleva escrito "vete al infierno".
-
-119
-00:00:35,040 --> 00:00:36,000
-En todo momento...
-
-120
-00:00:36,000 --> 00:00:37,750
-¡Peligroso, peligroso!
-
-121
-00:00:37,750 --> 00:00:38,610
-¡Nos gusta!
-
-122
-00:00:38,610 --> 00:00:40,660
-¡Grave, grave!
-
-123
-00:00:40,660 --> 00:00:41,710
-¡Oh!
-
-124
-00:00:41,710 --> 00:00:45,900
-Este sueño malherido algún día...
-
-125
-00:00:45,900 --> 00:00:51,310
-...se convertirá en uno de mis valiosos tesoros.
-
-126
-00:00:51,310 --> 00:00:55,070
-Un extraño entusiasmo une a los compañeros.
-
-127
-00:00:55,070 --> 00:01:00,670
-¿Vivir plenamente es una aventura?
-
-128
-00:01:00,670 --> 00:01:03,100
-¡Sí, tenemos superpoderes!
-
-129
-00:01:03,100 --> 00:01:08,820
-Confiemos en el mayor de los sueños y en los lazos con los rivales.
-
-130
-00:01:08,820 --> 00:01:11,630
-Fallar también tiene su encanto.
-
-131
-00:01:11,630 --> 00:01:14,570
-¡Sí, tenemos superpoderes!
-
-132
-00:01:16,410 --> 00:01:19,740
-¡Sí, somos superpoderosos!
-
-133
-00:01:21,880 --> 00:01:25,160
-¡Sí, somos superpoderosos!
-
-134
-00:01:27,330 --> 00:01:30,660
-¡Sí, somos superpoderosos!
-
-135
-00:01:32,750 --> 00:01:36,160
-¡Sí, somos superpoderosos!

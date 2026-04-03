@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,177 +146,182 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
+00:02:29,720 --> 00:02:37,170
+¡El oscuro secreto de Hody!
+El arribo de los Sombrero de Paja
+
+38
 00:03:02,100 --> 00:03:04,080
 PLAZA GYONCORDE
 
-38
+39
 00:04:27,460 --> 00:04:39,130
 ¡Ejecútenlos! ¡Ejecútenlos!
 
-39
+40
 00:04:39,130 --> 00:04:40,870
 ¡Ejecútenlos!
 
-40
+41
 00:05:36,150 --> 00:05:38,260
 ¡Shirahoshi!
 
-41
+42
 00:12:31,860 --> 00:12:39,490
 No sé quién eres, pero si la paga es buena, con gusto aceptaré cualquier trabajo.
 
-42
+43
 00:12:43,150 --> 00:12:44,810
 ¡¿En serio?!
 
-43
+44
 00:12:44,810 --> 00:12:46,950
 Esa es la mitad de tu paga.
 
-44
+45
 00:12:46,950 --> 00:12:49,820
 El resto te lo daré cuando concluyas el trabajo.
 
-45
+46
 00:12:49,820 --> 00:12:52,740
 Muy bien, acepto.
 
-46
+47
 00:12:52,740 --> 00:12:56,410
 Con esto podré seguir bebiendo
  por un buen tiempo.
 
-47
+48
 00:12:59,900 --> 00:13:01,840
 ¿Y bien? ¿Qué tengo que hacer?
 
-48
+49
 00:13:02,400 --> 00:13:05,520
 Es algo sencillo, hasta un niño podría hacerlo.
 
-49
+50
 00:13:05,520 --> 00:13:10,240
 ¡Pero debes asegurarte de que nadie te vea!
 
-50
+51
 00:13:23,130 --> 00:13:25,760
 ¡Aléjense! ¡El fuego se hace más grande!
 
-51
+52
 00:13:25,760 --> 00:13:26,950
 ¡Apaguen el fuego!
 
-52
+53
 00:13:26,950 --> 00:13:27,690
 ¡Salgan de aquí!
 
-53
+54
 00:13:27,690 --> 00:13:29,200
 ¡Protejan a la familia real!
 
-54
+55
 00:13:29,200 --> 00:13:31,250
 ¡Dense prisa y apaguen el incendio!
 
-55
+56
 00:13:43,030 --> 00:13:46,200
 ¡Le han disparado a Otohime-sama!
 
-56
+57
 00:13:47,070 --> 00:13:50,480
 ¡Oye, dame ya el resto de mi dinero!
 
-57
+58
 00:13:50,480 --> 00:13:54,000
 ¡Quemé las firmas tal como me pediste!
 
-58
+59
 00:13:54,000 --> 00:13:57,240
 ¡No te molestaré más, 
 pero dame mi dinero!
 
-59
+60
 00:14:03,250 --> 00:14:04,340
 ¿Qué significa esto?
 
-60
+61
 00:14:05,070 --> 00:14:07,070
 Estúpido humano.
 
-61
+62
 00:14:07,810 --> 00:14:10,260
 ¡Mierda! ¡Mierda!
 
-62
+63
 00:14:19,060 --> 00:14:20,770
 ¡El asesino...
 
-63
+64
 00:14:21,840 --> 00:14:25,810
 ...de nuestra reina es un humano!
 
-64
+65
 00:14:25,810 --> 00:14:33,100
 ¡Quien ha matado a la Reina Otohime es un humano!
 
-65
+66
 00:16:08,850 --> 00:16:11,150
 ¡Se está moviendo!
 
-66
+67
 00:16:19,820 --> 00:16:21,180
 ¡¿Qué?!
 
-67
+68
 00:18:27,740 --> 00:18:31,170
 Así que, sea quien fuere el culpable,
 
-68
+69
 00:18:31,840 --> 00:18:35,890
 no quiero que se enfaden con él por mí.
 
-69
+70
 00:18:35,890 --> 00:18:42,270
 No quiero irme despertando ira y odio en los que se quedan,
  no quiero que vivan con esos sentimientos.
 
-70
+71
 00:19:12,240 --> 00:19:16,060
 ¡¿No odiar a aquel que ha matado a tu madre?!
 
-71
+72
 00:19:16,060 --> 00:19:23,440
 ¡Aunque fuera su última voluntad, 
 es prácticamente una utopía!
 
-72
+73
 00:19:24,410 --> 00:19:28,210
 ¡Qué hija tan admirable y valiente!
 
-73
+74
 00:19:28,210 --> 00:19:31,490
 ¡Nadie aguantaría ese dolor en soledad!
 
-74
+75
 00:22:08,370 --> 00:22:59,310
 ¡Ejecútenlos! ¡Ejecútenlos!
 
-75
+76
 00:23:58,330 --> 00:24:03,570
 ¡Sombrero de Paja! ¡Sombrero de Paja!
 
-76
+77
 00:24:03,570 --> 00:24:23,580
 ¡Sombrero de Paja! ¡Sombrero de Paja!
 
-77
+78
 00:25:33,410 --> 00:25:35,550
 ¡E-Ese es...
 
-78
+79
 00:25:39,290 --> 00:25:43,050
 ...Sombrero de Paja Luffy!
 
-79
+80
 00:25:43,590 --> 00:25:48,070
 ¡Realmente apareció!

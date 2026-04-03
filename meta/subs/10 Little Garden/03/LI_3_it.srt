@@ -1,1690 +1,1694 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:53,720 --> 00:01:56,550
+Subdolo
+
+3
 00:01:54,220 --> 00:01:56,550
 Luffy!
 
-3
+4
 00:01:56,550 --> 00:01:58,560
 Luffy! Luffy! Luffy! Luffy!
 
-4
+5
 00:01:58,560 --> 00:01:59,350
 Luffy! Luffy!
 
-5
+6
 00:01:59,350 --> 00:02:02,190
 Luffy!
 
-6
+7
 00:02:05,980 --> 00:02:07,570
 Ahi, ahi, ahi...
 
-7
+8
 00:02:08,650 --> 00:02:10,780
 È terribile!
 Nami è stata mangiata da un dinosauro!
 
-8
+9
 00:02:10,780 --> 00:02:11,990
 Davvero?!
 
-9
+10
 00:02:12,360 --> 00:02:14,490
 Stavamo correndo insieme nella giungla
 
-10
+11
 00:02:14,490 --> 00:02:18,700
 per scappare da un dinosauro ma all'improvviso, è sparita!
 
-11
+12
 00:02:19,620 --> 00:02:20,830
 Che faccio?!
 
-12
+13
 00:02:20,830 --> 00:02:23,460
 Ho lasciato morire una mia compagna!
 
-13
+14
 00:02:24,270 --> 00:02:26,210
 A-Aspettate!
 
-14
+15
 00:02:26,210 --> 00:02:28,670
 Calmatevi, voi due!
 
-15
+16
 00:02:29,130 --> 00:02:30,420
 – Eh?
 – Eh?
 
-16
+17
 00:02:30,420 --> 00:02:35,300
 Se è scomparsa all'improvviso,
 vuol dire che non ti sei accertato dell'accaduto?
 
-17
+18
 00:02:35,760 --> 00:02:36,970
 Ma sei scema?!
 
-18
+19
 00:02:36,970 --> 00:02:39,180
 Ero troppo terrorizzato per controllare!
 
-19
+20
 00:02:39,180 --> 00:02:41,100
 Dinosauro o no, è stata divorata!
 
-20
+21
 00:02:41,100 --> 00:02:42,810
 Cos'altro potrebbe essere stato?!
 
-21
+22
 00:02:42,810 --> 00:02:44,940
 Non saprei.
 
-22
+23
 00:02:44,940 --> 00:02:49,320
 Ma se qualcuno della Baroque Works ci ha seguiti su quest'isola,
 
-23
+24
 00:02:49,320 --> 00:02:53,780
 potrebbe aver senso che, tra voi due, abbiano scelto Nami come obiettivo.
 
-24
+25
 00:02:53,780 --> 00:02:55,150
 Eh?!
 
-25
+26
 00:02:55,150 --> 00:02:58,280
 La Baroque Works è su quest'isola?!
 
-26
+27
 00:02:59,280 --> 00:03:00,410
 Ah, però...
 
-27
+28
 00:03:01,290 --> 00:03:03,450
 perché non avrebbero preso di mira me?
 
-28
+29
 00:03:03,830 --> 00:03:08,380
 Perché probabilmente non sei sulla loro lista nera.
 
-29
+30
 00:03:08,380 --> 00:03:09,420
 Capisco!
 
-30
+31
 00:03:09,960 --> 00:03:14,700
 Inoltre, anche l'obiettivo originale di quel 
 barile di alcol potremmo essere stati noi.
 
-31
+32
 00:03:15,380 --> 00:03:16,380
 Alcol?!
 
-32
+33
 00:03:16,380 --> 00:03:18,510
 Quale alcol intendi?!
 
-33
+34
 00:03:18,510 --> 00:03:21,850
 Brogy ha portato il vostro alcol a Dorry.
 
-34
+35
 00:03:21,850 --> 00:03:26,980
 Quando Dorry l'ha bevuto,
 l'alcol è esploso... nel suo stomaco.
 
-35
+36
 00:03:26,980 --> 00:03:29,860
 Cosa?! L'alcol gli è esploso nello stomaco?!
 
-36
+37
 00:03:30,610 --> 00:03:33,990
 Quindi è andato a lottare ridotto così?!
 
-37
+38
 00:03:33,990 --> 00:03:37,070
 Ho provato a fermarlo, ma sono finito così.
 
-38
+39
 00:03:39,490 --> 00:03:41,330
 Non può essere!
 
-39
+40
 00:03:41,330 --> 00:03:47,750
 Quei due hanno combattuto alla pari dando il massimo per cent'anni!
 
-40
+41
 00:03:52,380 --> 00:03:56,340
 Probabilmente è il duello più dignitoso del mondo!
 
-41
+42
 00:03:56,340 --> 00:03:56,920
 Sì...
 
-42
+43
 00:03:56,920 --> 00:04:00,010
 Non può finire così!
 
-43
+44
 00:04:02,220 --> 00:04:04,270
 Che succede?!
 
-44
+45
 00:04:16,190 --> 00:04:17,860
 Sta ancora combattendo.
 
-45
+46
 00:04:18,910 --> 00:04:22,990
 Sì. È proprio testardo questo Dorry il Demone Blu.
 
-46
+47
 00:04:24,870 --> 00:04:27,620
 Forse dovrei dargli una mano.
 
-47
+48
 00:04:38,970 --> 00:04:41,180
 Un secolo...
 
-48
+49
 00:04:45,770 --> 00:04:49,690
 È stata una lunga lotta!
 
-49
+50
 00:05:29,140 --> 00:05:31,140
 Questo viene dal dio del combattimento,
 
-50
+51
 00:05:31,140 --> 00:05:33,980
 è il giudizio espresso da Elbaf.
 
-51
+52
 00:05:33,980 --> 00:05:36,480
 Non avevo la sua protezione divina.
 
-52
+53
 00:05:36,480 --> 00:05:38,400
 Tutto qui.
 
-53
+54
 00:05:46,120 --> 00:05:46,950
 Luffy!
 
-54
+55
 00:05:46,950 --> 00:05:48,040
 Luffy?!
 
-55
+56
 00:05:48,410 --> 00:05:51,620
 Chi è stato?!
 
-56
+57
 00:05:51,620 --> 00:06:03,720
 Fatti vedere!
 
-57
+58
 00:06:03,720 --> 00:06:04,680
 Eh?
 
-58
+59
 00:06:05,550 --> 00:06:08,350
 Mr. 3, mi pare di aver sentito qualcosa...
 
-59
+60
 00:06:10,680 --> 00:06:12,270
 Che buffo!
 
-60
+61
 00:06:12,270 --> 00:06:14,980
 Pare che un perdente stia 
 piangendo in questa giungla!
 
-61
+62
 00:06:20,940 --> 00:06:24,320
 Settantatre... mila
 
-62
+63
 00:06:26,030 --> 00:06:30,200
 quattrocento... sessantasettesimo duello...
 
-63
+64
 00:06:32,250 --> 00:06:38,210
 Settanta... tremila... 
 quattrocentosessanta... sei parità
 
-64
+65
 00:06:41,050 --> 00:06:42,720
 e una vittoria!
 
-65
+66
 00:06:58,650 --> 00:07:00,820
 Lacrime di gioia, eh?
 
-66
+67
 00:07:00,820 --> 00:07:02,990
 Dev'essere bello essere un tal sempliciotto!
 
-67
+68
 00:07:03,820 --> 00:07:07,110
 Beh, comunque per ora ti dirò "ben fatto".
 
-68
+69
 00:07:07,110 --> 00:07:09,080
 Lacrime di gioia, dici?!
 
-69
+70
 00:07:09,080 --> 00:07:11,450
 Cosa pensi di saperne tu?!
 
-70
+71
 00:07:11,450 --> 00:07:12,870
 Chi diavolo sei?!
 
-71
+72
 00:07:13,200 --> 00:07:14,710
 Mr. 3.
 
-72
+73
 00:07:14,710 --> 00:07:19,380
 Mi scuso per aver dato solo il 
 nome in codice. Sono solo un artista scultore
 
-73
+74
 00:07:19,380 --> 00:07:25,340
 E... questa è la mia assistente, 
 una pittrice realista, Miss Golden Week.
 
-74
+75
 00:07:25,760 --> 00:07:29,800
 Inoltre, sei già mio ostaggio.
 
-75
+76
 00:07:31,560 --> 00:07:33,980
 C-Cos'è questo?!
 
-76
+77
 00:07:40,770 --> 00:07:42,110
 Bene, Luffy!
 
-77
+78
 00:07:42,110 --> 00:07:45,490
 Non so chi o cosa sia, 
 ma andrò a sconfiggerli io!
 
-78
+79
 00:07:46,400 --> 00:07:47,490
 Vengo anch'io!
 
-79
+80
 00:07:47,490 --> 00:07:50,780
 Sì! Vieni pure! 
 Sarebbe rassicurante!
 
-80
+81
 00:07:50,780 --> 00:07:52,370
 Non ce n'è bisogno!
 
-81
+82
 00:07:55,370 --> 00:07:56,830
 Voi?!
 
-82
+83
 00:08:04,170 --> 00:08:06,170
 Ve lo restituiamo.
 
-83
+84
 00:08:06,170 --> 00:08:07,170
 Non ci serve.
 
-84
+85
 00:08:09,640 --> 00:08:10,470
 Karoo!
 
-85
+86
 00:08:10,470 --> 00:08:12,600
 Voi...!
 
-86
+87
 00:08:12,600 --> 00:08:14,270
 Ehi, chi sono?
 
-87
+88
 00:08:14,270 --> 00:08:15,980
 Quelli della scorsa città!
 
-88
+89
 00:08:16,480 --> 00:08:18,100
 Che ci fate qui?!
 
-89
+90
 00:08:18,100 --> 00:08:19,980
 Karoo non c'entra niente!
 
-90
+91
 00:08:20,480 --> 00:08:23,860
 Vero. Quell'uccello non c'entra nulla.
 
-91
+92
 00:08:23,860 --> 00:08:28,900
 Ma... quello che consideriamo pericoloso 
 è quell'uomo dal cappello di paglia.
 
-92
+93
 00:08:29,820 --> 00:08:36,620
 Avevamo pensato di far starnazzare 
 quest'uccello per attrarre lui e la principessa
 
-93
+94
 00:08:36,620 --> 00:08:39,080
 però è proprio un papero ostinato.
 
-94
+95
 00:08:39,920 --> 00:08:42,670
 Bene! Parla e chiama la tua padrona!
 
-95
+96
 00:08:44,130 --> 00:08:47,090
 Se starnazzerai particolarmente forte,
  ti lasceremo libero!
 
-96
+97
 00:08:51,090 --> 00:08:53,550
 Non abbiamo scelta! 
 Vuoi che ti faccia cantare?!
 
-97
+98
 00:08:54,430 --> 00:08:56,220
 Chiama la principessa!
 
-98
+99
 00:08:59,890 --> 00:09:01,730
 Muoviti...
 
-99
+100
 00:09:01,730 --> 00:09:03,980
 e chiama aiuto!
 
-100
+101
 00:09:07,320 --> 00:09:09,490
 Apri la bocca, stupido uccellaccio!
 
-101
+102
 00:09:11,160 --> 00:09:16,490
 Ma, ecco, guardando bene, 
 Cappello di Paglia era già stato messo fuori gioco.
 
-102
+103
 00:09:16,490 --> 00:09:18,700
 Quindi quel pennuto non ci serviva più.
 
-103
+104
 00:09:19,210 --> 00:09:20,460
 Karoo...
 
-104
+105
 00:09:26,250 --> 00:09:27,340
 Che uccello idiota!
 
-105
+106
 00:09:29,630 --> 00:09:31,840
 Voi...!
 
-106
+107
 00:09:31,840 --> 00:09:35,180
 Siete stati voi?!
  Avete messo voi una bomba nell'alcol?!
 
-107
+108
 00:09:36,180 --> 00:09:39,060
 Sì, esatto. 
 Ma tu chi saresti?
 
-108
+109
 00:09:39,060 --> 00:09:40,060
 È nella lista?
 
-109
+110
 00:09:40,060 --> 00:09:43,520
 No. Ma sicuramente è un loro compagno. 
 Facciamolo sparire.
 
-110
+111
 00:09:43,520 --> 00:09:46,400
 Avete interferito nel duello dei giganti!
 
-111
+112
 00:09:46,770 --> 00:09:48,440
 Sono stati loro?!
 
-112
+113
 00:09:48,440 --> 00:09:49,900
 Vi prenderò a calci!
 
-113
+114
 00:09:50,400 --> 00:09:52,360
 Sarete voi a sparire!
 
-114
+115
 00:09:53,700 --> 00:09:57,370
 Oh? Cercherai di combattere, Miss Wednesday?
 
-115
+116
 00:09:58,830 --> 00:10:02,410
 Pensi di poter competere con noi, Officer Agent?
 
-116
+117
 00:10:02,410 --> 00:10:04,420
 Pavone Slasher!
 
-117
+118
 00:10:04,420 --> 00:10:05,170
 Prendete questo!
 
-118
+119
 00:10:05,170 --> 00:10:07,250
 Colpo mortale: Stella Polvere da Sparo!
 
-119
+120
 00:10:10,550 --> 00:10:11,380
 Evvai!
 
-120
+121
 00:10:14,800 --> 00:10:15,930
 Che bell'onda d'urto!
 
-121
+122
 00:10:16,800 --> 00:10:18,510
 Nose Fancy Cannon!
 
-122
+123
 00:10:24,440 --> 00:10:25,440
 Poverino!
 
-123
+124
 00:10:25,440 --> 00:10:27,020
 Usopp!
 
-124
+125
 00:10:27,440 --> 00:10:28,980
 Diecimila Kilo Press!
 
-125
+126
 00:10:33,570 --> 00:10:35,490
 Calmati!
 
-126
+127
 00:10:42,160 --> 00:10:43,790
 Non serve arrabbiarsi così,
 
-127
+128
 00:10:43,790 --> 00:10:46,750
 non vi uccideremo per il momento.
 
-128
+129
 00:10:50,750 --> 00:10:53,090
 Siamo solo venuti a rapirvi,
 
-129
+130
 00:10:53,090 --> 00:10:55,590
 su ordine di Mr. 3.
 
-130
+131
 00:10:58,100 --> 00:10:59,760
 Mr. 3?!
 
-131
+132
 00:10:59,760 --> 00:11:10,690
 Nota: "Doru doru" deriva da "kyandoru", ossia "candle" 
 o, in italiano "candela", da cui "Dela Dela".
 
-132
+133
 00:10:59,760 --> 00:11:01,520
 L'uomo del Frutto Dela Dela?
 
-133
+134
 00:11:01,520 --> 00:11:03,180
 È su quest'isola?!
 
-134
+135
 00:11:03,180 --> 00:11:05,060
 Esatto.
 
-135
+136
 00:11:05,060 --> 00:11:10,690
 Può controllare la cera che secerne dal suo corpo, è l'uomo candela.
 
-136
+137
 00:11:14,820 --> 00:11:16,160
 Bastardo!
 
-137
+138
 00:11:16,160 --> 00:11:17,570
 Cosa stai...?!
 
-138
+139
 00:11:19,370 --> 00:11:21,200
 Cosa hai detto?
 
-139
+140
 00:11:21,200 --> 00:11:24,370
 Sei proprio un tipo privo di classe...
 
-140
+141
 00:11:24,370 --> 00:11:28,580
 Sto creando un'opera d'arte, ovviamente.
 
-141
+142
 00:11:34,010 --> 00:11:36,260
 Fai la brava.
 
-142
+143
 00:11:36,260 --> 00:11:41,470
 Pensavi davvero di poter sfuggire dal seguito della Baroque Works?
 
-143
+144
 00:11:48,900 --> 00:11:52,520
 Persino quello con la taglia da trenta milioni è finito così.
 
-144
+145
 00:11:53,980 --> 00:11:56,990
 Sono felice di poterti restituire il favore per Whisky Peak.
 
-145
+146
 00:11:57,360 --> 00:11:59,490
 Dei piratucoli come voi non avrebbero dovuto
 
-146
+147
 00:11:59,490 --> 00:12:03,120
 ficcare il naso in una questione così delicata.
 
-147
+148
 00:12:03,120 --> 00:12:08,420
 Abbiamo già catturato il tuo compagno spadaccino e l'altra donna.
 
-148
+149
 00:12:09,330 --> 00:12:11,000
 Avete preso... Zoro?
 
-149
+150
 00:12:11,000 --> 00:12:11,880
 Eh?
 
-150
+151
 00:12:11,880 --> 00:12:14,630
 Allora... vi farà a fette!
 
-151
+152
 00:12:14,630 --> 00:12:15,880
 Oh?
 
-152
+153
 00:12:15,880 --> 00:12:17,880
 Riesci ancora a parlare...
 
-153
+154
 00:12:17,880 --> 00:12:20,800
 nonostante tu sia stato colpito in faccia da una mia Kicky Bomb?
 
-154
+155
 00:12:20,800 --> 00:12:23,180
 Come se mi facessero qualcosa!
 
-155
+156
 00:12:23,180 --> 00:12:25,600
 Vi prenderò... a calci!
 
-156
+157
 00:12:29,730 --> 00:12:30,810
 Ora basta.
 
-157
+158
 00:12:34,150 --> 00:12:35,400
 Luffy!
 
-158
+159
 00:12:38,570 --> 00:12:39,660
 Crepa!
 
-159
+160
 00:12:52,710 --> 00:12:53,420
 Idiota!
 
-160
+161
 00:12:53,420 --> 00:12:55,050
 Luffy!
 
-161
+162
 00:12:55,050 --> 00:12:57,720
 Luffy! Luffy!
 
-162
+163
 00:12:57,720 --> 00:12:59,300
 Andiamo, Miss Valentine.
 
-163
+164
 00:12:59,300 --> 00:13:00,510
 Luffy!
 
-164
+165
 00:13:01,390 --> 00:13:03,470
 Usopp! Karoo!
 
-165
+166
 00:13:24,740 --> 00:13:25,580
 Bastardo!
 
-166
+167
 00:13:25,990 --> 00:13:28,500
 Arrenditi! Arrenditi!
 
-167
+168
 00:13:28,500 --> 00:13:34,290
 Questa mia Candle Jacket, una volta solidificata, è dura come il ferro!
 
-168
+169
 00:13:35,920 --> 00:13:38,210
 Voi giganti avete una grande forza bruta,
 
-169
+170
 00:13:38,210 --> 00:13:42,430
 ma una volta catturati, diventa inutile.
 
-170
+171
 00:13:42,430 --> 00:13:44,760
 È necessario usare la testa.
 
-171
+172
 00:13:44,760 --> 00:13:47,600
 Non c'è bisogno di affrontarvi direttamente.
 
-172
+173
 00:13:48,470 --> 00:13:51,350
 Hai abbassato la guardia dopo la vittoria,
 
-173
+174
 00:13:51,350 --> 00:13:53,230
 Brogy il Demone Rosso.
 
-174
+175
 00:13:55,610 --> 00:13:57,440
 Non guardarmi così,
 
-175
+176
 00:13:57,440 --> 00:13:59,530
 rischio di farmela addosso dalla paura!
 
-176
+177
 00:14:00,740 --> 00:14:02,910
 Dovresti rallegrarti!
 
-177
+178
 00:14:02,910 --> 00:14:06,740
 Quel lunghissimo duello è giunto al termine!
 
-178
+179
 00:14:06,740 --> 00:14:11,080
 Hai messo in gioco il tuo cosiddetto 
 "onore" e combattuto per un secolo, no?
 
-179
+180
 00:14:11,080 --> 00:14:14,920
 Il sapore della vittoria dovrebbe essere particolarmente speciale, no?
 
-180
+181
 00:14:14,920 --> 00:14:18,960
 Anche se è stato solo grazie all'aiuto di qualcun altro.
 
-181
+182
 00:14:19,920 --> 00:14:21,260
 Mi sbaglio?
 
-182
+183
 00:14:21,260 --> 00:14:22,840
 Bastardo!
 
-183
+184
 00:14:22,840 --> 00:14:23,970
 Vuoi dire che...?!
 
-184
+185
 00:14:27,510 --> 00:14:29,100
 Ma, alla fine,
 
-185
+186
 00:14:29,100 --> 00:14:31,230
 il vero vincitore sono io!
 
-186
+187
 00:14:31,230 --> 00:14:36,480
 Lo sapevi, vero? Su di voi c'erano da molto
  tempo delle taglie enormi, che in totale
 
-187
+188
 00:14:36,480 --> 00:14:38,230
 valgono duecento milioni di berry!
 
-188
+189
 00:14:38,230 --> 00:14:40,690
 Sono valide tuttora!
 
-189
+190
 00:14:41,690 --> 00:14:42,900
 Bastardo...!
 
-190
+191
 00:14:42,900 --> 00:14:46,870
 Mi sento come se avessi scoperto un tesoro nascosto da molto tempo!
 
-191
+192
 00:14:47,990 --> 00:14:49,910
 Quindi era questo il tuo obiettivo, eh?!
 
-192
+193
 00:14:49,910 --> 00:14:50,490
 Mmnh?
 
-193
+194
 00:14:50,490 --> 00:14:52,000
 Mr. 3!
 
-194
+195
 00:14:52,790 --> 00:14:54,000
 Te l'abbiamo portata.
 
-195
+196
 00:14:54,920 --> 00:14:56,790
 La traditrice della nostra organizzazione.
 
-196
+197
 00:14:56,790 --> 00:14:57,960
 Che lentezza.
 
-197
+198
 00:14:57,960 --> 00:14:59,500
 Mi sono stufato di aspettarvi.
 
-198
+199
 00:14:59,500 --> 00:15:02,460
 I tuoi metodi sono estremamente subdoli, Mr. 3!
 
-199
+200
 00:15:03,170 --> 00:15:05,840
 Hai messo delle bombe nell'alcol di Dorry...!
 
-200
+201
 00:15:05,840 --> 00:15:06,970
 Cosa?!
 
-201
+202
 00:15:07,720 --> 00:15:08,930
 Alcol?
 
-202
+203
 00:15:09,430 --> 00:15:12,310
 Nell'alcol... che gli avevo dato?
 
-203
+204
 00:15:14,850 --> 00:15:15,890
 Dorry!
 
-204
+205
 00:15:15,890 --> 00:15:18,270
 Bere dell'alcol dopo tanto
 tempo è proprio speciale, vero?!
 
-205
+206
 00:15:18,770 --> 00:15:20,070
 Sì.
 
-206
+207
 00:15:20,070 --> 00:15:22,530
 Aveva un sapore divino.
 
-207
+208
 00:15:22,900 --> 00:15:26,110
 È andata così... Dorry?!
 
-208
+209
 00:15:26,910 --> 00:15:30,530
 Hai rovinato la cosa, 
 rivelando il trucco, ragazzina.
 
-209
+210
 00:15:30,530 --> 00:15:31,950
 Beh, non importa.
 
-210
+211
 00:15:31,950 --> 00:15:34,500
 Tanto non puoi più fare nulla.
 
-211
+212
 00:15:36,170 --> 00:15:39,000
 Candle...
 
-212
+213
 00:15:39,000 --> 00:15:40,670
 Lock!
 
-213
+214
 00:15:49,390 --> 00:15:50,350
 Mr. 5!
 
-214
+215
 00:15:50,350 --> 00:15:51,050
 Eh?
 
-215
+216
 00:15:51,050 --> 00:15:52,850
 Porta qui lo spadaccino e la donna!
 
-216
+217
 00:15:54,350 --> 00:15:55,230
 Iniziamo.
 
-217
+218
 00:15:59,060 --> 00:16:04,650
 Extra-Large Candle Set!
 
-218
+219
 00:16:30,140 --> 00:16:31,260
 Che sta succedendo?!
 
-219
+220
 00:16:32,050 --> 00:16:33,720
 Li ho portati qui.
 
-220
+221
 00:16:39,060 --> 00:16:40,190
 Troppo facile.
 
-221
+222
 00:16:42,020 --> 00:16:45,150
 Essere stato battuto da gente così insignificante mi imbarazza
 
-222
+223
 00:16:45,150 --> 00:16:47,820
 così tanto che sono arrabbiato con me stesso.
 
-223
+224
 00:16:48,320 --> 00:16:49,610
 Cos'è quello?!
 
-224
+225
 00:16:49,610 --> 00:16:52,070
 Nami... Mr. Bushido...
 
-225
+226
 00:16:52,070 --> 00:16:53,080
 Vivi!
 
-226
+227
 00:16:53,080 --> 00:16:55,740
 Vivi! Ma perché?! 
 Non eri con Luffy?!
 
-227
+228
 00:16:55,740 --> 00:16:57,450
 Sì, ma...
 
-228
+229
 00:16:57,450 --> 00:17:01,380
 Se intendete Cappello di Paglia, me ne sono occupato io!
 
-229
+230
 00:17:02,630 --> 00:17:04,960
 Ed è stato pure semplice.
 
-230
+231
 00:17:05,550 --> 00:17:06,960
 Tu?
 
-231
+232
 00:17:24,520 --> 00:17:27,990
 Benvenuti, voi tutti, al mio Service Set!
 
-232
+233
 00:17:31,200 --> 00:17:35,950
 Dev'essere così che si sente una candela conficcata in una torta, eh?
 
-233
+234
 00:17:35,950 --> 00:17:38,910
 Cos'è che sta ruotando lassù?
 
-234
+235
 00:17:40,710 --> 00:17:42,290
 E non riesco a muovermi.
 
-235
+236
 00:17:42,790 --> 00:17:46,090
 Beh, è ovvio che non ci lasceranno muovere.
 
-236
+237
 00:17:46,090 --> 00:17:47,300
 Dopotutto sono nemici.
 
-237
+238
 00:17:51,380 --> 00:17:52,840
 È così duro.
 
-238
+239
 00:17:53,510 --> 00:17:56,760
 E, in questa posa,
 non riesco a usare tutta la mia forza.
 
-239
+240
 00:17:56,760 --> 00:17:58,640
 Sta piovendo qualcosa!
 
-240
+241
 00:18:01,100 --> 00:18:04,020
 Assaporate pure il mio Candle Service!
 
-241
+242
 00:18:04,650 --> 00:18:07,150
 Questa nebbia di cera sopra la vostra testa
 
-242
+243
 00:18:07,150 --> 00:18:09,990
 alla fine vi trasformerà in statue di cera!
 
-243
+244
 00:18:10,860 --> 00:18:14,070
 Diventerete ciò che neanche le 
 mie abilità potrebbero mai creare,
 
-244
+245
 00:18:14,070 --> 00:18:17,030
 delle perfette statue di cera umane!
 
-245
+246
 00:18:17,740 --> 00:18:22,000
 Proprio come dice il nome,
 delle statue di cera dotate di un anima.
 
-246
+247
 00:18:23,040 --> 00:18:25,000
 Ora, in nome dell'arte,
 
-247
+248
 00:18:25,330 --> 00:18:26,960
 morite, per favore.
 
-248
+249
 00:18:27,630 --> 00:18:29,550
 Scordatelo!
 
-249
+250
 00:18:29,550 --> 00:18:32,970
 Perché mai dovremmo 
 diventare tue opere d'arte?!
 
-250
+251
 00:18:33,470 --> 00:18:36,300
 Signor Brogy! 
 Non stia lì impalato, si scateni!
 
-251
+252
 00:18:36,300 --> 00:18:39,100
 Anche lei diventerà una statua di cera!
 
-252
+253
 00:18:39,100 --> 00:18:41,600
 Però, che razza di persona enorme c'è lì...
 
-253
+254
 00:18:42,810 --> 00:18:46,100
 Qualsiasi cosa gli direte, sarà inutile, sapete?
 
-254
+255
 00:18:46,100 --> 00:18:52,820
 Si è solo finalmente accorto che il suo avversario era ferito.
 
-255
+256
 00:18:52,820 --> 00:18:56,570
 Dopo cent'anni di combattimento, ha 
 stupidamente ucciso il suo miglior amico Dorry
 
-256
+257
 00:18:56,570 --> 00:19:04,250
 con le sue stesse mani e ha esultato,
 versando persino delle lacrime di gioia.
 
-257
+258
 00:19:04,250 --> 00:19:08,040
 Oppure stavi piangendo per il tuo amico?
 
-258
+259
 00:19:09,590 --> 00:19:13,420
 Comunque sia, non c'è modo 
 di tornare indietro, idiota!
 
-259
+260
 00:19:23,600 --> 00:19:25,350
 L'avevo capito...
 
-260
+261
 00:19:25,350 --> 00:19:26,600
 Eh?
 
-261
+262
 00:19:26,600 --> 00:19:29,310
 Quello l'avevo capito...
 
-262
+263
 00:19:34,650 --> 00:19:37,450
 Fin dal primo colpo del duello,
 
-263
+264
 00:19:37,450 --> 00:19:40,080
 sapevo che Dorry stesse nascondendo qualcosa.
 
-264
+265
 00:19:40,450 --> 00:19:43,250
 Oh? L'avevi capito, dici?
 
-265
+266
 00:19:43,250 --> 00:19:44,120
 Bugiardo!
 
-266
+267
 00:19:44,830 --> 00:19:47,540
 Allora perché non hai smesso di combattere?
 
-267
+268
 00:19:47,540 --> 00:19:53,340
 Non c'era neanche un briciolo di pietà in quel colpo decisivo!
 
-268
+269
 00:19:56,930 --> 00:19:59,640
 Come può un bimbo che non sa
 neanche il significato di "duello"
 
-269
+270
 00:19:59,640 --> 00:20:02,470
 capire il motivo delle mie lacrime?!
 
-270
+271
 00:20:03,350 --> 00:20:05,930
 Cosa mai potresti saperne tu?!
 
-271
+272
 00:20:05,930 --> 00:20:10,270
 Vorresti dirmi che avrei dovuto umiliare un guerriero che
 
-272
+273
 00:20:10,270 --> 00:20:11,730
 nascondeva le proprie ferite?!
 
-273
+274
 00:20:15,650 --> 00:20:22,080
 Come potrei mostrare pietà a un guerriero ferito... 
 che desidera comunque combattere?!
 
-274
+275
 00:20:23,030 --> 00:20:26,000
 E ora, ho capito il motivo.
 
-275
+276
 00:20:26,910 --> 00:20:30,960
 Ora che lo so, porrò fine alla cosa con le mie stesse mani!
 
-276
+277
 00:20:39,590 --> 00:20:41,510
 Per il mio miglior amico Dorry,
 
-277
+278
 00:20:41,510 --> 00:20:43,890
 è il minimo che posso fare per rendergli onore!
 
-278
+279
 00:20:48,440 --> 00:20:49,640
 Signor Brogy!
 
-279
+280
 00:20:55,650 --> 00:20:57,320
 – Signor Brogy!
 – Signor Brogy!
 
-280
+281
 00:20:58,110 --> 00:21:00,320
 Che mostro rumoroso!
 
-281
+282
 00:21:01,740 --> 00:21:05,240
 U... Usopp...
 
-282
+283
 00:21:05,240 --> 00:21:06,910
 Usopp...!
 
-283
+284
 00:21:09,870 --> 00:21:13,130
 Gliela farai... passare liscia così?
 
-284
+285
 00:21:13,590 --> 00:21:15,000
 No...
 
-285
+286
 00:21:15,000 --> 00:21:16,590
 non li perdonerò mai.
 
-286
+287
 00:21:25,600 --> 00:21:28,430
 Ti senti... deluso?
 
-287
+288
 00:21:34,940 --> 00:21:37,030
 Bene! Andremo in tre...
 
-288
+289
 00:21:37,530 --> 00:21:39,780
 a prenderli a calci!
 
-289
+290
 00:21:39,780 --> 00:21:40,900
 Signor Brogy!
 
-290
+291
 00:21:41,910 --> 00:21:42,740
 Che stupido!
 
-291
+292
 00:21:43,990 --> 00:21:49,450
 Ho sottovalutato la forza mostruosa dei giganti!
 
-292
+293
 00:21:50,910 --> 00:21:54,630
 Sembra che sia necessario immobilizzarti completamente!
 
-293
+294
 00:21:54,630 --> 00:21:57,590
 Dela Dela Arts: Manette!
 
-294
+295
 00:22:00,760 --> 00:22:02,220
 Ancora! Ancora!
 
-295
+296
 00:22:08,770 --> 00:22:11,430
 Ed ora il tocco finale!
 
-296
+297
 00:22:11,430 --> 00:22:12,480
 Prendi questo!
 
-297
+298
 00:22:21,900 --> 00:22:24,870
 Ora non puoi più muoverti, vero?
 
-298
+299
 00:22:33,460 --> 00:22:35,420
 Che crudeltà...!
 
-299
+300
 00:22:35,420 --> 00:22:38,380
 Bene, accelera, Candle Service!
 
-300
+301
 00:22:39,050 --> 00:22:43,090
 Trasformali velocemente in statue di cera!
 
-301
+302
 00:22:48,260 --> 00:22:50,270
 Mi fa male il petto...
 
-302
+303
 00:22:50,270 --> 00:22:52,480
 La nebbia di cera mi sta entrando nei polmoni!
 
-303
+304
 00:22:52,480 --> 00:22:55,850
 Di questo passo, diventeremo statue di cera dall'interno!
 
-304
+305
 00:22:57,150 --> 00:22:58,480
 Bene! Bene!
 
-305
+306
 00:22:58,480 --> 00:23:01,820
 Fate quante più espressioni dolorose potete!
 
-306
+307
 00:23:02,190 --> 00:23:07,820
 Espressioni di sofferenza e agonia sono proprio ciò che cerco nell'arte!
 
-307
+308
 00:23:08,780 --> 00:23:10,830
 Solidificatevi ora che avete paura!
 
-308
+309
 00:23:11,370 --> 00:23:17,170
 Nota: Il chonmage è una pettinatura tradizionale
 dei samurai e guerrieri giapponesi.
 
-309
+310
 00:23:11,370 --> 00:23:14,080
 Dov'è che sarebbe arte questa, dannato chonmage?!
 
-310
+311
 00:23:14,080 --> 00:23:17,170
 Come hai potuto fare una cosa del genere al signor Brogy?!
 
-311
+312
 00:23:17,960 --> 00:23:21,050
 Ve ne pentirete! Avete capito?!
 
-312
+313
 00:23:23,210 --> 00:23:25,550
 Urla quanto vuoi!
 
-313
+314
 00:23:32,140 --> 00:23:33,600
 Per cent'anni...
 
-314
+315
 00:23:42,070 --> 00:23:46,530
 giorno dopo giorno, abbiamo lottato e lottato.
 
-315
+316
 00:23:46,530 --> 00:23:52,040
 Abbiamo continuato il duello in onore del nostro
  orgoglio come guerrieri del villaggio di Elbaf!
 
-316
+317
 00:23:52,660 --> 00:23:53,660
 Eppure...
 
-317
+318
 00:23:53,660 --> 00:23:58,710
 che razza di vessazione è questa, 
 o dio del combattimento di Elbaf?!
 
-318
+319
 00:24:01,590 --> 00:24:06,680
 Se è questa la nostra fine, Elbaf,
 
-319
+320
 00:24:06,680 --> 00:24:08,840
 non è ingiusta?!
 
-320
+321
 00:24:08,840 --> 00:24:13,140
 Perché non ci lasci morire lottando?!
 
-321
+322
 00:24:15,770 --> 00:24:17,810
 Che espressione!
 
-322
+323
 00:24:17,810 --> 00:24:21,150
 Bene! Quel dolore! 
 Quel lamento! Quell'agonia!
 
-323
+324
 00:24:21,150 --> 00:24:24,610
 Che opera d'arte straordinaria!
 
-324
+325
 00:24:24,610 --> 00:24:27,030
 Elbaf!
 
-325
+326
 00:24:27,570 --> 00:24:29,660
 Oh no! Non riesco a muovere le mani!
 
-326
+327
 00:24:29,660 --> 00:24:32,160
 Non voglio morire così! 
 Non possiamo fare niente?!
 
-327
+328
 00:24:32,160 --> 00:24:34,370
 Il mio corpo si sta già solidificando!
 
-328
+329
 00:24:34,370 --> 00:24:35,950
 Cosa dovremmo fare?!
 
-329
+330
 00:24:36,580 --> 00:24:38,710
 Z-Zoro! Fai qualcosa!
 
-330
+331
 00:24:39,420 --> 00:24:41,040
 Ehi, vecchio!
 
-331
+332
 00:24:41,380 --> 00:24:42,880
 Puoi ancora muoverti, vero?
 
-332
+333
 00:24:42,880 --> 00:24:43,800
 Eh?
 
-333
+334
 00:24:43,800 --> 00:24:45,460
 Anch'io posso.
 
-334
+335
 00:24:47,800 --> 00:24:50,760
 Che ne dici se quei tizi... 
 li distruggiamo insieme?
 
-335
+336
 00:24:52,430 --> 00:24:54,100
 Aspetta, Zoro! Cosa vuoi fare?!
 
-336
+337
 00:24:54,100 --> 00:24:55,220
 Non vorrai–!
 
-337
+338
 00:24:55,220 --> 00:24:55,930
 Sì.
 
-338
+339
 00:24:55,930 --> 00:24:58,270
 Le tue gambe?! Non scherzare!
 
-339
+340
 00:24:58,270 --> 00:25:00,190
 Non scherzo.
 
-340
+341
 00:25:00,190 --> 00:25:02,690
 È l'unico modo per uscire da qui.
 
-341
+342
 00:25:02,690 --> 00:25:03,770
 Voi che farete?
 
-342
+343
 00:25:03,770 --> 00:25:05,280
 Cosa faremo?! È inutile!
 
-343
+344
 00:25:05,280 --> 00:25:07,900
 Anche se riuscissimo a scendere, ci catturerebbero subito!
 
-344
+345
 00:25:08,320 --> 00:25:10,860
 Se non ci proviamo, non possiamo saperlo.
 
-345
+346
 00:25:11,490 --> 00:25:14,620
 Rimanendo qui, ci faranno comunque fuori.
 
-346
+347
 00:25:14,620 --> 00:25:16,830
 Proviamo a lottare in modo pietoso!
 
-347
+348
 00:25:17,700 --> 00:25:21,080
 Non c'è motivo di morire da uomini con questi pezzenti!
 
-348
+349
 00:25:21,080 --> 00:25:22,330
 Giusto?!
 
-349
+350
 00:25:22,330 --> 00:25:24,500
 Che sta dicendo? È pazzo?!
 
-350
+351
 00:25:25,090 --> 00:25:26,590
 Sta bluffando!
 
-351
+352
 00:25:26,590 --> 00:25:28,800
 Non può fare una cosa del genere!
 
-352
+353
 00:25:28,800 --> 00:25:30,300
 Sta solo facendo il gradasso!
 
-353
+354
 00:25:33,640 --> 00:25:36,220
 Che moccioso impertinente!
 
-354
+355
 00:25:36,220 --> 00:25:37,810
 Che vergogna.
 
-355
+356
 00:25:37,810 --> 00:25:40,730
 Stavo per perdere la mia voglia di lottare.
 
-356
+357
 00:25:41,350 --> 00:25:44,190
 Concordo con questa tua determinazione!
 
-357
+358
 00:25:46,110 --> 00:25:48,360
 Non può essere?! Sei serio?!
 
-358
+359
 00:25:48,360 --> 00:25:50,610
 Se lo facessi, come farai a combattere?!
 
-359
+360
 00:25:50,610 --> 00:25:51,570
 Chissà.
 
-360
+361
 00:25:51,950 --> 00:25:53,070
 Ma...
 
-361
+362
 00:25:53,820 --> 00:25:55,740
 intendo vincere!
 
-362
+363
 00:25:56,530 --> 00:25:58,200
 Chi diavolo sono questi tizi?!
 
-363
+364
 00:25:58,200 --> 00:25:59,750
 Sono pazzi!
 
-364
+365
 00:26:00,370 --> 00:26:02,250
 Che razza di uomo...
 
-365
+366
 00:26:02,250 --> 00:26:06,380
 Ma... ho già visto questo sguardo... da qualche parte...
 
-366
+367
 00:26:06,380 --> 00:26:07,710
 Principessa Vivi!
 
-367
+368
 00:26:08,170 --> 00:26:11,170
 È pronta a non morire?
 
-368
+369
 00:26:11,170 --> 00:26:13,680
 A-Aspetta! Combatterò anch'io!
 
-369
+370
 00:26:13,680 --> 00:26:14,300
 Vivi!
 
-370
+371
 00:26:14,300 --> 00:26:15,640
 Bene, ho capito.
 
-371
+372
 00:26:16,050 --> 00:26:19,390
 Andiamo, moccioso!
 
-372
+373
 00:26:19,390 --> 00:26:22,390
 Non scherzate! Cosa avete intenzione di fare?!
 
-373
+374
 00:26:32,650 --> 00:26:33,990
 Voi!
 
-374
+375
 00:26:33,990 --> 00:26:35,870
 Vi prenderò a calci!
 
-375
+376
 00:26:39,200 --> 00:26:40,410
 Cosa?
 
-376
+377
 00:26:41,960 --> 00:26:43,290
 Facciamolo, Usopp!
 
-377
+378
 00:26:43,290 --> 00:26:43,920
 Sì!
 
-378
+379
 00:26:43,920 --> 00:26:45,540
 Uccello!
 
-379
+380
 00:26:45,540 --> 00:26:46,460
 Luffy!
 
-380
+381
 00:26:46,460 --> 00:26:47,420
 Usopp!
 
-381
+382
 00:26:47,790 --> 00:26:48,550
 Karoo!
 
-382
+383
 00:26:48,920 --> 00:26:52,800
 Maestro Brogy!
 Ci faremo carico noi della tua frustrazione!
 
-383
+384
 00:26:52,800 --> 00:26:53,720
 Usopp...!
 
-384
+385
 00:26:53,720 --> 00:26:56,720
 Picchiateli finché non 
 saranno più riconoscibili
 
-385
+386
 00:26:56,720 --> 00:26:58,890
 e fateli volare via lontano da qui!
 
-386
+387
 00:26:58,890 --> 00:27:00,180
 Sì! Lo farò!
 
-387
+388
 00:27:00,810 --> 00:27:04,690
 Questi tizi hanno rovinato il duello dei vecchi giganti!
 
-388
+389
 00:27:05,060 --> 00:27:09,690
 Quindi sei tu, vero? 
 Quello con la taglia più alta dell'East Blue?
 
-389
+390
 00:27:09,690 --> 00:27:12,360
 La Marina ha proprio abbassato i suoi standard!
 
-390
+391
 00:27:12,360 --> 00:27:13,990
 Wow! Che testa strana!
 
-391
+392
 00:27:13,990 --> 00:27:14,860
 Sta' zitto!
 
-392
+393
 00:27:14,860 --> 00:27:16,740
 È un tre! E sta bruciando!
 
-393
+394
 00:27:16,740 --> 00:27:17,370
 Zitto!
 
-394
+395
 00:27:17,370 --> 00:27:20,330
 Prima di tutto, rompi questa colonna!
 
-395
+396
 00:27:20,330 --> 00:27:22,870
 Stiamo diventando delle statue di cera!
 
-396
+397
 00:27:22,870 --> 00:27:23,540
 Eh?
 
-397
+398
 00:27:24,080 --> 00:27:25,250
 Oh, siete in pericolo?
 
-398
+399
 00:27:25,250 --> 00:27:27,040
 No. Nessun problema.
 
-399
+400
 00:27:27,040 --> 00:27:29,040
 Wah– Ehi, le tue gambe!
 
-400
+401
 00:27:29,040 --> 00:27:29,790
 Sì.
 
-401
+402
 00:27:30,170 --> 00:27:32,130
 Sarò arrivato circa a metà.
 
-402
+403
 00:27:32,130 --> 00:27:35,220
 Cosa dici allora "nessun problema"?!
 
-403
+404
 00:27:35,590 --> 00:27:39,390
 Comunque, Luffy, 
 puoi distruggere questa colonna?
 
-404
+405
 00:27:39,800 --> 00:27:41,180
 Lascerò a te il resto.
 
-405
+406
 00:27:41,890 --> 00:27:43,350
 Sì, arrivo!
 
-406
+407
 00:27:44,520 --> 00:27:46,270
 Non te lo lascerò fare.
 
-407
+408
 00:27:46,770 --> 00:27:50,060
 Non so cosa sia, ma distruggiamolo!
 
-408
+409
 00:27:50,060 --> 00:27:51,270
 Bene!
 
-409
+410
 00:27:51,270 --> 00:27:52,480
 Capito!
 
-410
+411
 00:27:52,480 --> 00:27:55,400
 Oggi sono una persona un po' diversa!
 
-411
+412
 00:27:58,070 --> 00:28:01,160
 Veloci o ci solidificheremo!

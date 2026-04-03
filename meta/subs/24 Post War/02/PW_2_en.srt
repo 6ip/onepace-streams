@@ -1,2425 +1,2376 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:02:31,460 --> 00:02:36,420
+The Gray Terminal
+
+3
 00:02:37,490 --> 00:02:40,960
 Ten years ago, in the East Blue...
 
-3
+4
 00:02:42,860 --> 00:02:48,680
 there was a little hamlet known as
 Windmill Village, where people lived peacefully.
 
-4
+5
 00:02:49,360 --> 00:02:52,700
 Not far from there was Mt. Colubo,
 where none dared set foot.
 
-5
+6
 00:02:53,720 --> 00:03:00,760
 There, it was survival of the fittest.
 As for the weak, death was all but certain.
 
-6
+7
 00:03:02,460 --> 00:03:06,200
 Grandpa, I'm telling you...
 
-7
+8
 00:03:06,200 --> 00:03:08,470
 I'm gonna be King of the Pirates...
 
-8
+9
 00:03:08,470 --> 00:03:10,740
 What's this King of the Pirates crap?!
 
-9
+10
 00:03:10,740 --> 00:03:12,910
 L-Let me go!
 
-10
+11
 00:03:12,910 --> 00:03:16,780
 First you eat that devil fruit,
 and now you're spouting nonsense!
 
-11
+12
 00:03:16,780 --> 00:03:19,220
 Luffy! Both you and Ace
 
-12
+13
+00:03:16,780 --> 00:03:22,050
+Monkey D. Garp
+(10 Years Ago)
+
+14
 00:03:19,220 --> 00:03:22,050
 are gonna be strapping Marines!
 
-13
+15
 00:03:22,050 --> 00:03:24,100
 Ow, ow, ow, dammit!
 
-14
+16
+00:03:22,110 --> 00:03:26,830
+Monkey D. Luffy
+(10 Years Ago)
+
+17
 00:03:24,100 --> 00:03:26,470
 Why does this hurt when my body is rubber?!
 
-15
+18
 00:03:26,470 --> 00:03:28,050
 Let me go, Grandpa!
 
-16
+19
 00:03:28,830 --> 00:03:32,120
 Leaving you in Windmill Village was a mistake!
 
-17
+20
 00:03:32,120 --> 00:03:34,590
 It just had to be pirates!
 
-18
+21
 00:03:37,760 --> 00:03:39,430
 What is this place?
 
-19
+22
 00:03:40,800 --> 00:03:46,000
 Stop that! Say your prayers, whoever you are!
 
-20
+23
 00:03:46,000 --> 00:03:47,070
 It's me.
 
-21
+24
 00:03:50,220 --> 00:03:52,350
 M-Mr. Garp!
 
-22
+25
+00:03:54,810 --> 00:03:58,280
+Curly Dadan
+
+26
+00:03:58,320 --> 00:04:01,720
+Dogra
+Mountain Bandit
+
+27
+00:04:01,750 --> 00:04:05,190
+Magra
+Mountain Bandit
+
+28
 00:04:05,190 --> 00:04:06,720
 You seem well.
 
-23
+29
 00:04:06,720 --> 00:04:11,600
 This isn't funny! Please,
 you can't do this to me!
 
-24
+30
 00:04:11,600 --> 00:04:14,140
 That Ace kid is ten years old now!
 
-25
+31
 00:04:14,140 --> 00:04:17,770
 Oh, already? How is he?
 
-26
+32
 00:04:17,770 --> 00:04:19,920
 It's not funny!
 
-27
+33
 00:04:19,920 --> 00:04:23,730
 We can't handle him anymore!
 You have to take him back!
 
-28
+34
 00:04:23,730 --> 00:04:24,850
 Putting that aside...
 
-29
+35
 00:04:24,850 --> 00:04:26,780
 Don't put it aside!
 
-30
+36
 00:04:26,780 --> 00:04:28,680
 Will you pipe down, kid?!
 
-31
+37
 00:04:28,680 --> 00:04:30,880
 I'd like you to look after him, too.
 
-32
+38
 00:04:32,380 --> 00:04:34,490
 Hey, Luffy. Say hi.
 
-33
+39
 00:04:34,490 --> 00:04:35,320
 Sup?
 
-34
+40
 00:04:35,320 --> 00:04:38,020
 Who's the kid?
 
-35
+41
 00:04:38,020 --> 00:04:40,660
 He's my grandson.
 
-36
+42
 00:04:40,660 --> 00:04:41,390
 Wha...?
 
-37
+43
 00:04:41,390 --> 00:04:43,660
 – What?!
 – What?!
 
-38
+44
 00:04:43,660 --> 00:04:45,280
 Another one?!
 
-39
+45
 00:04:45,280 --> 00:04:49,840
 He's Garp's... I mean, Mr. Garp's grandson?!
 
-40
+46
 00:04:49,840 --> 00:04:51,040
 – We can't!
 – We can't!
 
-41
+47
 00:04:51,040 --> 00:04:53,400
 All right! Here are your choices:
 
-42
+48
 00:04:53,400 --> 00:04:56,510
 Spend the rest of your life
 in a cell, or raise this kid.
 
-43
+49
 00:04:56,510 --> 00:05:00,380
 I've turned a blind eye to
 who-knows-how-many of your crimes.
 
-44
+50
 00:05:02,000 --> 00:05:03,850
 – No fair!
 – No fair!
 
-45
+51
 00:05:03,850 --> 00:05:06,820
 Well, I don't wanna get arrested but...
 
-46
+52
 00:05:06,820 --> 00:05:12,410
 Sometimes I feel like prison might
 actually be better than raising Ace.
 
-47
+53
 00:05:12,410 --> 00:05:15,100
 And now you're saddling
 us with your grandson?
 
-48
+54
 00:05:15,100 --> 00:05:17,700
 I bet this kid's some kind of monster too.
 
-49
+55
 00:05:17,700 --> 00:05:19,210
 What a crummy shack!
 
-50
+56
 00:05:19,210 --> 00:05:21,380
 I'll knock you into next week!
 
-51
+57
 00:05:21,380 --> 00:05:23,000
 He ignored me!
 
-52
+58
 00:05:22,470 --> 00:05:23,000
 – Boss!
 – Boss!
 
-53
+59
 00:05:23,000 --> 00:05:24,680
 Are you alright?!
 
-54
+60
 00:05:24,680 --> 00:05:28,070
 What the...? Ugh! It's spit! Gross!
 
-55
+61
 00:05:28,720 --> 00:05:29,830
 Who's there?!
 
-56
+62
 00:05:31,140 --> 00:05:32,440
 Hey, you!
 
-57
+63
 00:05:33,210 --> 00:05:35,080
 Say you're sorry! That was gross!
 
-58
+64
 00:05:35,080 --> 00:05:36,720
 Hm? Ace!
 
-59
+65
 00:05:36,720 --> 00:05:39,510
 Oh! Are you back, Ace?!
 
-60
+66
+00:05:41,080 --> 00:05:45,320
+Portgas D. Ace
+(10 Years Ago)
+
+67
 00:05:45,320 --> 00:05:46,560
 Hey! Say sorry!
 
-61
+68
 00:05:48,760 --> 00:05:53,620
 Luffy, this is Ace.
 He's three years older than you.
 
-62
+69
 00:05:53,620 --> 00:05:56,430
 Starting today, you'll be living together.
 
-63
+70
 00:05:56,440 --> 00:05:57,810
 – What?!
 – What?!
 
-64
+71
 00:05:57,810 --> 00:05:58,900
 It's not decided yet!
 
-65
+72
 00:06:04,740 --> 00:06:05,710
 Be nice!
 
-66
+73
 00:06:05,710 --> 00:06:06,810
 It is decided?!
 
-67
+74
 00:06:06,810 --> 00:06:08,850
 Is there a problem?
 
-68
+75
 00:06:11,330 --> 00:06:12,980
 – Happy to have him!
 – Happy to have him!
 
-69
+76
 00:06:13,820 --> 00:06:16,690
 It's your turn to wash dishes!
 
-70
+77
 00:06:16,140 --> 00:06:16,690
 More!
 
-71
+78
 00:06:17,060 --> 00:06:18,430
 Gimme some more, pops!
 
-72
+79
 00:06:18,430 --> 00:06:20,590
 I'll have you know I'm a woman!
 
-73
+80
 00:06:20,590 --> 00:06:23,870
 Do you even know where you are now?!
 
-74
+81
 00:06:23,870 --> 00:06:24,500
 No.
 
-75
+82
 00:06:24,500 --> 00:06:25,980
 Then I'll tell you.
 
-76
+83
 00:06:25,980 --> 00:06:29,840
 You're in the den of the Dadan Family,
 the mountain bandits of Mt. Colubo!
 
-77
+84
 00:06:29,840 --> 00:06:33,570
 Mountain bandits? I hate mountain bandits!
 
-78
+85
 00:06:35,240 --> 00:06:40,210
 Shut it, you brat! We're the ones
 who got stuck with a little snot like you!
 
-79
+86
 00:06:40,210 --> 00:06:42,320
 If you don't like it here, fine!
 
-80
+87
 00:06:42,320 --> 00:06:44,870
 Get lost and die like a dog!
 
-81
+88
 00:06:44,870 --> 00:06:46,580
 Take it easy, Boss.
 
-82
+89
 00:06:46,580 --> 00:06:48,450
 I wanna eat more...
 
-83
+90
 00:06:50,120 --> 00:06:52,420
 Gimme some of that meat too.
 
-84
+91
 00:06:59,720 --> 00:07:03,900
 All this meat is from a bison
 that Ace took down for us.
 
-85
+92
 00:07:03,900 --> 00:07:07,140
 He gave us a cut of the haul
 so that everyone can eat.
 
-86
+93
 00:07:07,140 --> 00:07:09,210
 Mountain bandits have it tough.
 
-87
+94
 00:07:09,210 --> 00:07:12,050
 Starting tomorrow,
 I'm gonna work your butt off!
 
-88
+95
 00:07:12,050 --> 00:07:16,440
 Cleaning, laundry,
 polishing shoes and weapons,
 
-89
+96
 00:07:16,440 --> 00:07:19,820
 burglary, robbery, fraud, and murder!
 
-90
+97
 00:07:19,820 --> 00:07:24,760
 And remember, you can never
 tell Garp what we make you do!
 
-91
+98
 00:07:24,760 --> 00:07:29,460
 You get one bowl of rice
 and one glass of water each day!
 
-92
+99
 00:07:29,460 --> 00:07:31,660
 That's all I can guarantee you.
 
-93
+100
 00:07:31,660 --> 00:07:36,000
 You've gotta get everything else
 on your own and take care of yourself.
 
-94
+101
 00:07:36,000 --> 00:07:36,920
 Okay!
 
-95
+102
 00:07:36,920 --> 00:07:40,240
 "Okay"?! Just like that?! No waterworks?!
 
-96
+103
 00:07:40,240 --> 00:07:44,050
 This one time, Grandpa threw me into a jungle!
 
-97
+104
 00:07:44,050 --> 00:07:48,820
 This is a forest, so there's plenty of water to drink
 and frogs, snakes and mushrooms to eat!
 
-98
+105
 00:07:49,510 --> 00:07:52,950
 Plus, I'm gonna be a pirate someday...
 
-99
+106
 00:07:52,950 --> 00:07:55,620
 so I have to take care of myself!
 
-100
+107
 00:07:55,620 --> 00:07:57,230
 – Boss!
 – Are you alright?!
 
-101
+108
 00:07:57,230 --> 00:07:58,620
 What are you doing?!
 
-102
+109
 00:07:58,620 --> 00:08:01,200
 – Heave ho!
 – Heave ho!
 
-103
+110
 00:08:02,160 --> 00:08:04,160
 Where's he headed?
 
-104
+111
 00:08:04,160 --> 00:08:05,930
 – Heave ho!
 – Heave ho!
 
-105
+112
 00:08:06,910 --> 00:08:08,200
 Where are you going?!
 
-106
+113
 00:08:08,200 --> 00:08:10,640
 Did you just say "pirate"?
 
-107
+114
 00:08:10,640 --> 00:08:12,500
 He ignored me!
 
-108
+115
 00:08:12,500 --> 00:08:13,770
 Hey!
 
-109
+116
 00:08:17,880 --> 00:08:22,820
 See? I knew he'd be a handful! That's why
 I didn't wanna take care of Garp's grandson!
 
-110
+117
 00:08:22,820 --> 00:08:24,780
 Take it easy, Boss.
 
-111
+118
 00:08:25,390 --> 00:08:27,550
 Hey!
 
-112
+119
 00:08:27,550 --> 00:08:29,090
 Wait for me!
 
-113
+120
 00:08:30,260 --> 00:08:32,040
 Hey!
 
-114
+121
 00:08:34,860 --> 00:08:39,960
 My name's Luffy! I'm not mad
 about you spitting on me anymore!
 
-115
+122
 00:08:44,740 --> 00:08:46,510
 Why are you laughing?!
 
-116
+123
 00:08:46,510 --> 00:08:51,410
 He only got some booze on me.
 It's nothing worth getting mad over.
 
-117
+124
 00:08:51,410 --> 00:08:55,510
 It's nothing worth getting
 mad over! Let's be friends!
 
-118
+125
 00:08:55,510 --> 00:08:56,880
 Are you going somewhere?!
 
-119
+126
 00:09:04,390 --> 00:09:06,660
 It's a dead end!
 
-120
+127
 00:10:00,450 --> 00:10:04,000
 Hey! Ace is back!
 
-121
+128
 00:10:04,000 --> 00:10:05,920
 – Food's here!
 – Food's here!
 
-122
+129
 00:10:07,540 --> 00:10:10,230
 Ace, are you by yourself?
 
-123
+130
 00:10:10,230 --> 00:10:13,960
 Hey, where's Luffy?
 I thought he went with you.
 
-124
+131
 00:10:13,960 --> 00:10:15,640
 Dunno.
 
-125
+132
 00:10:16,900 --> 00:10:19,500
 Get it together, Boss!
 
-126
+133
 00:10:19,500 --> 00:10:20,700
 What'd you say?!
 
-127
+134
 00:10:20,700 --> 00:10:24,140
 I'm saying it's really bad that
 we lost him on the first day!
 
-128
+135
 00:10:24,140 --> 00:10:27,970
 Leave me alone! If he dies, he dies!
 
-129
+136
 00:10:28,650 --> 00:10:33,190
 I've already given up on Ace, too!
 
-130
+137
 00:10:33,960 --> 00:10:39,300
 Even if he winds up dead somewhere,
 all I have to do is tell Garp it was an accident.
 
-131
+138
 00:10:39,300 --> 00:10:43,360
 As they say, "The devil's children
 have the devil's luck."
 
-132
+139
 00:10:43,360 --> 00:10:45,670
 He's demon spawn!
 
-133
+140
 00:10:46,420 --> 00:10:52,710
 If the government finds out that he's here,
 what do you think they'd do to us?!
 
-134
+141
 00:10:52,710 --> 00:10:54,500
 Take it easy, Boss.
 
-135
+142
 00:10:54,500 --> 00:10:58,480
 You're drinking too much!
 
-136
+143
+00:10:59,440 --> 00:11:02,450
+One Week Later...
+
+144
 00:11:00,690 --> 00:11:02,450
 One week later...
 
-137
+145
 00:11:03,100 --> 00:11:05,290
 Boss! Boss Dadan!
 
-138
+146
 00:11:05,290 --> 00:11:06,910
 Who– Huh?!
 
-139
+147
 00:11:06,910 --> 00:11:08,550
 Who is it...? Huh?!
 
-140
+148
 00:11:08,550 --> 00:11:09,720
 It's you!
 
-141
+149
 00:11:09,720 --> 00:11:13,030
 Luffy came back!
 
-142
+150
 00:11:18,040 --> 00:11:19,410
 Why, you...!
 
-143
+151
 00:11:20,500 --> 00:11:22,870
 You survived, you little sh–
 
-144
+152
 00:11:22,870 --> 00:11:24,530
 Take it easy, Boss.
 
-145
+153
 00:11:24,530 --> 00:11:26,820
 Where were you?!
 
-146
+154
 00:11:26,820 --> 00:11:30,180
 Take it easy! Where were you
 and what were you doing?
 
-147
+155
 00:11:30,640 --> 00:11:34,050
 Wolves were chasing me through the ravine.
 
-148
+156
 00:11:34,050 --> 00:11:37,320
 What were you doing in the ravine?!
 
-149
+157
 00:11:41,480 --> 00:11:43,220
 Anyway, good thing you're okay.
 
-150
+158
 00:11:43,220 --> 00:11:43,990
 Yeah, it's good.
 
-151
+159
 00:11:43,990 --> 00:11:45,050
 Like hell it's good!
 
-152
+160
 00:11:45,050 --> 00:11:48,060
 The pest came back!
 
-153
+161
 00:11:48,930 --> 00:11:53,890
 Just go to bed already! I'll start
 working you like a dog tomorrow!
 
-154
+162
 00:11:53,890 --> 00:11:54,840
 Already?!
 
-155
+163
 00:12:03,840 --> 00:12:04,900
 Morning!
 
-156
+164
 00:12:04,900 --> 00:12:07,780
 Where you off to today, Ace?
 
-157
+165
 00:12:07,780 --> 00:12:11,570
 Take me with you! Let's be friends!
 
-158
+166
 00:12:12,780 --> 00:12:13,620
 Wait up!
 
-159
+167
 00:12:13,620 --> 00:12:16,160
 Boss! He's chasing after Ace again!
 
-160
+168
 00:12:16,750 --> 00:12:20,250
 Hey! You've got chores to do!
 
-161
+169
 00:12:21,880 --> 00:12:25,060
 No way!
 
-162
+170
 00:12:25,070 --> 00:12:27,460
 You're out of control, you little turd!
 
-163
+171
 00:12:27,460 --> 00:12:28,880
 Take it eas–
 
-164
+172
 00:12:28,880 --> 00:12:30,870
 Bring him back right now!
 
-165
+173
 00:12:30,870 --> 00:12:31,500
 Yes, ma'am.
 
-166
+174
 00:12:31,510 --> 00:12:33,600
 Hey!
 
-167
+175
 00:12:51,150 --> 00:12:53,730
 Even though he always lost track of Ace....
 
-168
+176
 00:12:57,260 --> 00:12:59,320
 he kept chasing him day after day.
 
-169
+177
 00:12:59,320 --> 00:13:00,490
 Ace!
 
-170
+178
 00:13:09,240 --> 00:13:10,870
 For one month...
 
-171
+179
 00:13:12,210 --> 00:13:13,610
 For two months...
 
-172
+180
 00:13:13,740 --> 00:13:15,460
 Ace!
 
-173
+181
 00:13:15,460 --> 00:13:16,610
 No matter the rain...
 
-174
+182
 00:13:18,000 --> 00:13:19,200
 No matter the wind...
 
-175
+183
 00:13:21,460 --> 00:13:23,350
 Ace!
 
-176
+184
 00:13:23,350 --> 00:13:27,060
 Luffy was relentless in his pursuit of Ace.
 
-177
+185
 00:13:33,160 --> 00:13:35,440
 Ace!
 
-178
+186
 00:13:43,380 --> 00:13:47,080
 Ace! Hey!
 
-179
+187
 00:13:47,080 --> 00:13:50,850
 I can't believe he followed me
 all the way here. He's so persistent.
 
-180
+188
 00:13:52,790 --> 00:13:54,000
 Oh, crap!
 
-181
+189
 00:13:54,890 --> 00:13:59,550
 Damn! I lost him again! Ace sure is quick!
 
-182
+190
 00:14:00,660 --> 00:14:01,390
 That you, Ace?!
 
-183
+191
 00:14:10,170 --> 00:14:15,010
 That's the beast of Mt. Colubo!
 No one can beat that thing!
 
-184
+192
 00:14:17,580 --> 00:14:20,150
 Why won't he run?! It's gonna eat him!
 
-185
+193
 00:14:21,360 --> 00:14:24,280
 M-My legs w-won't move!
 
-186
+194
 00:14:24,280 --> 00:14:26,170
 Tch! That twerp!
 
-187
+195
 00:15:29,720 --> 00:15:34,540
 After three months of cuts,
 bruises, and endless pursuit...
 
-188
+196
 00:15:41,630 --> 00:15:43,780
 It's the edge of the forest.
 
-189
+197
 00:15:49,390 --> 00:15:52,240
 Whoa! What is this place?!
 
-190
+198
 00:15:53,490 --> 00:15:58,790
 North of Mt. Colubo, where the Dadan
 Family resides, lies a neglected place.
 
-191
+199
 00:15:59,700 --> 00:16:05,150
 Smoke endlessly emanates from
 heaps of discarded trash.
 
-192
+200
 00:16:05,150 --> 00:16:08,620
 Unwanted things accumulate here.
 
-193
+201
 00:16:09,520 --> 00:16:15,100
 Its inhabitants are outlaws,
 shunned by mainstream society.
 
-194
+202
 00:16:15,100 --> 00:16:18,000
 Naturally, the law holds no sway here.
 
-195
+203
 00:16:18,710 --> 00:16:22,720
 Without so much as a doctor,
 the area teems with crime and disease.
 
-196
+204
 00:16:22,720 --> 00:16:26,830
 This is the Gray Terminal.
 
-197
+205
 00:16:26,830 --> 00:16:28,850
 Come on out, treasure...
 
-198
+206
 00:16:28,850 --> 00:16:31,650
 Isn't there anything worth selling around here?
 
-199
+207
 00:16:33,940 --> 00:16:35,830
 I got something!
 
-200
+208
 00:16:35,830 --> 00:16:37,050
 They're mine!
 
-201
+209
 00:16:37,050 --> 00:16:38,840
 No, they're mine!
 
-202
+210
 00:16:38,840 --> 00:16:40,710
 Lay off! I found them!
 
-203
+211
 00:16:40,710 --> 00:16:43,000
 Hands off the goods, you vultures!
 
-204
+212
 00:16:43,000 --> 00:16:45,730
 I'm gonna sell them in town!
 
-205
+213
 00:16:45,730 --> 00:16:46,720
 Like hell you will!
 
-206
+214
 00:16:46,720 --> 00:16:48,390
 Get back here!
 
-207
+215
 00:16:57,350 --> 00:16:58,330
 Damn you!
 
-208
+216
 00:16:58,330 --> 00:16:59,010
 Drop 'em!
 
-209
+217
 00:17:01,140 --> 00:17:05,860
 If you'd just handed 'em over,
 I wouldn't have needed to sock you!
 
-210
+218
 00:17:06,650 --> 00:17:08,670
 Nice going!
 
-211
+219
 00:17:08,670 --> 00:17:10,680
 Why, you...! Are you kidding me?!
 
-212
+220
 00:17:13,460 --> 00:17:15,290
 Thief!
 
-213
+221
 00:17:21,310 --> 00:17:22,250
 Move it, kid!
 
-214
+222
 00:17:23,960 --> 00:17:27,520
 Hurry it up! Move or I'll...
 
-215
+223
 00:17:27,520 --> 00:17:29,870
 He went that way!
 
-216
+224
 00:17:35,490 --> 00:17:37,550
 Sabo! Sabo, are you there?
 
-217
+225
 00:17:40,280 --> 00:17:42,020
 Oh, Ace!
 
-218
+226
 00:17:42,590 --> 00:17:44,570
 Sorry I'm late.
 
-219
+227
 00:17:44,570 --> 00:17:46,160
 You sure are!
 
-220
+228
 00:17:46,490 --> 00:17:49,480
 I already finished a job in town.
 
-221
+229
+00:17:46,780 --> 00:17:51,290
+Sabo (Age 10)
+(A Boy Living in the Gray Terminal)
+
+230
 00:17:52,360 --> 00:17:55,200
 Oh, yeah? Truth is, so did I.
 
-222
+231
 00:17:55,200 --> 00:17:57,000
 – Same time!
 – Same time!
 
-223
+232
 00:17:57,000 --> 00:18:00,630
 Whoa! That's a lot...! A lot more than I made!
 
-224
+233
 00:18:00,630 --> 00:18:03,800
 What a haul! How'd you pull it off?!
 
-225
+234
 00:18:03,810 --> 00:18:07,400
 I stole it from some thugs near the Great Gate.
 
-226
+235
 00:18:07,400 --> 00:18:10,670
 Damn! You win again!
 
-227
+236
 00:18:10,670 --> 00:18:12,660
 It doesn't matter who wins, does it?
 
-228
+237
 00:18:14,010 --> 00:18:16,620
 This pirate fund is for the both of us.
 
-229
+238
 00:18:16,620 --> 00:18:19,660
 It's been five years
 since we started saving, huh?
 
-230
+239
 00:18:22,710 --> 00:18:23,730
 We've worked hard.
 
-231
+240
 00:18:25,290 --> 00:18:26,700
 We sure have!
 
-232
+241
 00:18:27,740 --> 00:18:32,490
 To leave the East Blue and sail into a world
 these island hicks couldn't even dream of...
 
-233
+242
 00:18:32,500 --> 00:18:35,240
 it just gets me so pumped!
 
-234
+243
 00:18:42,320 --> 00:18:45,510
 Hurry and close the lid.
 You never know who's watching.
 
-235
+244
 00:18:45,510 --> 00:18:49,870
 How much do you think
 we'll need for a pirate ship?
 
-236
+245
 00:18:49,870 --> 00:18:53,710
 Who knows? Hundreds of thousands,
 or maybe even millions...
 
-237
+246
 00:18:53,710 --> 00:18:55,310
 We'll get there one day.
 
-238
+247
 00:18:55,310 --> 00:18:56,790
 "A pirate ship"?!
 
-239
+248
 00:18:57,390 --> 00:19:01,360
 Are you guys gonna be pirates?!
 
-240
+249
 00:19:01,360 --> 00:19:03,800
 I'm gonna be one too!
 
-241
+250
 00:19:03,800 --> 00:19:05,030
 Hey!
 
-242
+251
 00:19:14,870 --> 00:19:16,120
 – Be quiet!
 – Be quiet!
 
-243
+252
 00:19:19,520 --> 00:19:23,640
 Ace! This is where you've
 been going every day?!
 
-244
+253
 00:19:23,640 --> 00:19:24,840
 Shut up.
 
-245
+254
 00:19:24,840 --> 00:19:28,680
 So this is that Luffy kid you told me about.
 
-246
+255
 00:19:28,680 --> 00:19:31,320
 Oh, you told him about me?!
 
-247
+256
 00:19:31,320 --> 00:19:33,850
 I complained about how persistent you are.
 
-248
+257
 00:19:33,850 --> 00:19:37,390
 And about how airheaded you seem!
 
-249
+258
 00:19:38,420 --> 00:19:39,420
 I see!
 
-250
+259
 00:19:39,420 --> 00:19:42,670
 Doesn't he get that we're insulting him?
 
-251
+260
 00:19:42,670 --> 00:19:45,640
 He finally made it all the way here.
 
-252
+261
 00:19:45,640 --> 00:19:48,540
 I even made sure to avoid the main pathways.
 
-253
+262
 00:19:48,540 --> 00:19:52,880
 Are you Ace's friend?! Be my friend, too!
 
-254
+263
 00:19:52,880 --> 00:19:56,550
 Shut up! We don't even know each other!
 
-255
+264
 00:19:56,550 --> 00:19:58,400
 Then, what's your name?
 
-256
+265
 00:19:58,400 --> 00:19:59,200
 Sa–
 
-257
+266
 00:19:59,200 --> 00:20:00,040
 I'm not telling!
 
-258
+267
 00:20:00,820 --> 00:20:04,050
 This is why I told you to live here with me!
 
-259
+268
 00:20:04,050 --> 00:20:08,750
 Your daily round trip "training" through
 the mountains was a bad idea after all!
 
-260
+269
 00:20:08,760 --> 00:20:10,010
 What do we do?
 
-261
+270
 00:20:11,400 --> 00:20:13,640
 Now he knows our secret.
 
-262
+271
 00:20:13,640 --> 00:20:16,660
 He'll spill the beans if we don't do something.
 
-263
+272
 00:20:23,260 --> 00:20:24,300
 We gotta kill him.
 
-264
+273
 00:20:24,300 --> 00:20:26,200
 Alright, let's do it.
 
-265
+274
 00:20:26,200 --> 00:20:27,290
 Wha...?!
 
-266
+275
 00:20:28,210 --> 00:20:30,380
 What?!
 
-267
+276
 00:20:31,090 --> 00:20:36,880
 Don't kill me! Someone save me!
 I don't wanna die!
 
-268
+277
 00:20:36,880 --> 00:20:38,820
 You idiot! Be quiet!
 
-269
+278
 00:20:38,820 --> 00:20:41,290
 Sabo! Hurry and do it!
 
-270
+279
 00:20:41,290 --> 00:20:43,220
 Why me?! You do it!
 
-271
+280
 00:20:43,220 --> 00:20:45,540
 I've never killed anyone before!
 
-272
+281
 00:20:45,540 --> 00:20:48,470
 Neither have I! I don't know how to do it!
 
-273
+282
 00:20:48,470 --> 00:20:51,410
 Please don't throw me into water!
 
-274
+283
 00:20:51,410 --> 00:20:52,850
 Right! The river!
 
-275
+284
 00:20:52,850 --> 00:20:55,300
 Why'd he give that away?!
 
-276
+285
 00:20:55,300 --> 00:20:56,330
 'Cause he's a moron!
 
-277
+286
 00:20:56,330 --> 00:20:58,870
 Somebody help me!
 
-278
+287
 00:20:58,870 --> 00:21:00,520
 – Shut up!
 – Shut up!
 
-279
+288
 00:21:02,710 --> 00:21:03,740
 I don't wanna die! No!
 
-280
+289
 00:21:03,740 --> 00:21:05,560
 I don't wanna die! No!
 
-281
+290
 00:21:05,560 --> 00:21:07,680
 There's a voice coming from the forest!
 
-282
+291
 00:21:07,680 --> 00:21:08,810
 A kid's voice!
 
-283
+292
 00:21:08,810 --> 00:21:11,120
 Oh, no! Someone's coming!
 
-284
+293
 00:21:11,120 --> 00:21:13,480
 Let's just untie him!
 
-285
+294
 00:21:13,480 --> 00:21:16,190
 If we don't clear out, they'll find our treasure!
 
-286
+295
 00:21:18,910 --> 00:21:22,560
 Those brats, Ace and Sabo,
 are infamous around these parts.
 
-287
+296
+00:21:23,590 --> 00:21:28,340
+Porchemy
+Bluejam Pirates
+
+297
 00:21:23,600 --> 00:21:25,890
 You're absolutely certain
 
-288
+298
 00:21:25,890 --> 00:21:28,350
 it was Ace who swiped the cash, right?
 
-289
+299
 00:21:28,350 --> 00:21:32,470
 Yeah... It's embarrassing, but we got sloppy.
 
-290
+300
 00:21:32,470 --> 00:21:35,080
 I can't believe that kid...
 
-291
+301
 00:21:35,080 --> 00:21:38,020
 laying his hands on our crew's loot!
 
-292
+302
 00:21:38,660 --> 00:21:43,660
 If Captain Bluejam hears
 about this, we're all dead!
 
-293
+303
 00:21:45,320 --> 00:21:50,090
 Damn it! Those thugs were Bluejam's lackeys?
 
-294
+304
 00:21:50,090 --> 00:21:53,100
 Thugs? You mean you got
 that money from those guys?
 
-295
+305
 00:21:53,810 --> 00:21:56,630
 We've got some dangerous
 money on our hands...
 
-296
+306
 00:21:56,640 --> 00:22:00,640
 He has a real sword...
 Porchemy is one of Bluejam's goons.
 
-297
+307
 00:22:01,380 --> 00:22:04,410
 He's crazy. Have you heard?
 
-298
+308
 00:22:05,480 --> 00:22:09,650
 When he beats someone, he scalps them alive!
 
-299
+309
 00:22:13,540 --> 00:22:16,320
 Let's hope they just move along...
 
-300
+310
 00:22:17,820 --> 00:22:19,360
 Huh? Where'd he go?
 
-301
+311
 00:22:22,130 --> 00:22:26,120
 Let go of me! What are you doing?
 
-302
+312
 00:22:23,970 --> 00:22:26,140
 – How'd he get caught?!
 – How'd he get caught?!
 
-303
+313
 00:22:26,800 --> 00:22:28,450
 Who's this little shit?
 
-304
+314
 00:22:28,450 --> 00:22:29,640
 Help me!
 
-305
+315
 00:22:29,640 --> 00:22:31,260
 Ace!
 
-306
+316
 00:22:32,820 --> 00:22:34,630
 Help me, Ace!
 
-307
+317
 00:22:34,630 --> 00:22:39,000
 You dumbass...!
 Shouting my name like that...!
 
-308
+318
 00:22:34,630 --> 00:22:39,000
 Ace! Ace! Ace!
 
-309
+319
 00:22:40,170 --> 00:22:42,120
 Did you just say "Ace"?
 
-310
+320
 00:22:43,420 --> 00:22:44,190
 Yeah, so?!
 
-311
+321
 00:22:44,190 --> 00:22:47,390
 Do you know Ace?
 
-312
+322
 00:22:48,860 --> 00:22:50,200
 He's my friend!
 
-313
+323
 00:22:51,110 --> 00:22:53,700
 Oh, but he was going to kill me just now.
 
-314
+324
 00:22:55,360 --> 00:22:58,270
 Just. Stop. Talking.
 
-315
+325
 00:22:58,820 --> 00:23:00,690
 I need to ask...
 
-316
+326
 00:23:00,690 --> 00:23:05,970
 Earlier today, Ace stole
 some of our money and ran off.
 
-317
+327
 00:23:05,970 --> 00:23:09,210
 You wouldn't happen to know
 where he put it, would you?
 
-318
+328
 00:23:13,140 --> 00:23:16,840
 Oh, crap! They're gonna take our treasure!
 
-319
+329
 00:23:16,840 --> 00:23:19,180
 That airhead better not blab...
 
-320
+330
 00:23:26,460 --> 00:23:27,260
 – What?!
 – What?!
 
-321
+331
 00:23:27,260 --> 00:23:28,650
 Huh?!
 
-322
+332
 00:23:28,650 --> 00:23:31,600
 I-I don't know...
 
-323
+333
 00:23:32,560 --> 00:23:34,170
 What a terrible liar!
 
-324
+334
 00:23:38,360 --> 00:23:42,470
 All right, all right. If you
 don't know, then that's that.
 
-325
+335
 00:23:45,600 --> 00:23:49,250
 I'll help jog your memory, so don't worry!
 
-326
+336
 00:23:50,520 --> 00:23:53,540
 What the hell?! Let me go!
 Where are you taking me?!
 
-327
+337
 00:23:53,540 --> 00:23:56,390
 Damn it! Idiot! Let go of me!
 
-328
+338
 00:23:56,390 --> 00:23:57,420
 You bastard!
 
-329
+339
 00:23:58,150 --> 00:23:59,670
 What do we do?
 
-330
+340
 00:23:59,670 --> 00:24:02,400
 "What do we do?" Well...
 
-331
+341
 00:24:10,740 --> 00:24:12,600
 Let me go!
 
-332
+342
 00:24:12,600 --> 00:24:14,410
 I'm not telling you anything!
 
-333
+343
 00:24:22,720 --> 00:24:24,750
 You little shit!
 
-334
+344
 00:24:38,840 --> 00:24:42,430
 I tried to tell you, but I'm all rubbery
 after eating the Gum-Gum Fruit!
 
-335
+345
 00:24:42,700 --> 00:24:44,330
 Quiet!
 
-336
+346
 00:24:45,510 --> 00:24:47,650
 A devil fruit, huh?
 
-337
+347
 00:24:49,080 --> 00:24:51,240
 Yeah, you're the genuine article.
 
-338
+348
 00:24:53,620 --> 00:24:55,170
 Get my gloves.
 
-339
+349
 00:24:55,170 --> 00:24:57,150
 Wha...?! Y-Yes, sir!
 
-340
+350
 00:24:57,150 --> 00:25:01,350
 Hurry up! Hurry up! We're screwed
 if Porchemy and his goons come back!
 
-341
+351
 00:25:01,350 --> 00:25:04,550
 We've gotta move the treasure fast!
 
-342
+352
 00:25:04,560 --> 00:25:08,320
 It's only a matter of time before
 that Luffy kid rats us out!
 
-343
+353
 00:25:08,320 --> 00:25:11,690
 If they find this, they won't just
 take back what we stole from them,
 
-344
+354
 00:25:11,690 --> 00:25:15,890
 but the entire pirate fund
 from over the past five years!
 
-345
+355
 00:25:21,350 --> 00:25:23,370
 Listen, you little shit.
 
-346
+356
 00:25:23,370 --> 00:25:29,070
 The cash that your friend Ace stole
 was important to our pirate crew...
 
-347
+357
 00:25:29,880 --> 00:25:32,380
 and you know where it is!
 
-348
+358
 00:25:32,380 --> 00:25:34,880
 So, you will tell me.
 
-349
+359
 00:25:36,260 --> 00:25:37,050
 I won't!
 
-350
+360
 00:25:45,790 --> 00:25:46,770
 That's gotta hurt!
 
-351
+361
 00:25:50,930 --> 00:25:53,900
 You shouldn't piss off a pirate!
 
-352
+362
 00:25:53,900 --> 00:25:59,040
 Our captain, Bluejam, is a brutal monster!
 
-353
+363
 00:26:06,560 --> 00:26:09,110
 That hurt! I'm scared!
 
-354
+364
 00:26:09,110 --> 00:26:10,750
 Somebody save me!
 
-355
+365
 00:26:13,050 --> 00:26:15,920
 You guys, find Ace and Sabo!
 
-356
+366
 00:26:15,920 --> 00:26:18,520
 Don't just stand there twiddling your thumbs!
 
-357
+367
 00:26:18,520 --> 00:26:19,330
 – Yes, sir!
 – Yes, sir!
 
-358
+368
 00:26:27,950 --> 00:26:31,010
 You're asking about Ace and Sabo?
 
-359
+369
 00:26:31,010 --> 00:26:33,900
 You must be delinquents from the city.
 
-360
+370
 00:26:34,800 --> 00:26:37,750
 You're better off not getting
 involved with those two.
 
-361
+371
 00:26:38,620 --> 00:26:41,310
 Don't underestimate 'em
 just 'cause they're puny.
 
-362
+372
 00:26:41,310 --> 00:26:44,280
 Those mad dogs turn tigers into mincemeat!
 
-363
+373
 00:26:44,280 --> 00:26:47,570
 Ace and Sabo, huh? Haven't seen 'em...
 
-364
+374
 00:26:48,240 --> 00:26:50,840
 But more importantly, fellas...
 
-365
+375
 00:26:50,840 --> 00:26:52,960
 why don't you hand over your valuables?
 
-366
+376
 00:26:53,300 --> 00:26:55,490
 W-We'd rather not!
 
-367
+377
 00:26:55,490 --> 00:26:57,470
 Let's go look somewhere else!
 
-368
+378
 00:27:00,630 --> 00:27:02,200
 It's almost nighttime...
 
-369
+379
 00:27:03,300 --> 00:27:05,310
 Alright! All done!
 
-370
+380
 00:27:05,310 --> 00:27:07,650
 We moved all the treasure!
 
-371
+381
 00:27:11,460 --> 00:27:13,100
 Ace!
 
-372
+382
 00:27:13,100 --> 00:27:15,000
 Sabo, what's wrong?
 
-373
+383
 00:27:15,000 --> 00:27:17,050
 Were they looting our old hideout?
 
-374
+384
 00:27:19,600 --> 00:27:22,220
 No, they never showed.
 
-375
+385
 00:27:22,240 --> 00:27:24,120
 And I bet they won't!
 
-376
+386
 00:27:25,010 --> 00:27:25,920
 Meaning...?
 
-377
+387
 00:27:25,920 --> 00:27:28,330
 That Luffy kid...
 
-378
+388
 00:27:29,360 --> 00:27:31,660
 still hasn't told them a thing!
 
-379
+389
 00:27:33,260 --> 00:27:36,160
 He's definitely being tortured.
 
-380
+390
 00:27:36,160 --> 00:27:40,410
 He was such an idiot crybaby that
 I thought for sure he'd tell them!
 
-381
+391
 00:27:40,410 --> 00:27:41,670
 I don't get it!
 
-382
+392
 00:27:43,770 --> 00:27:45,380
 At this rate, he'll...
 
-383
+393
+00:27:52,920 --> 00:27:57,230
+Pirate Bay
+Gray Terminal
+
+394
 00:27:54,390 --> 00:27:56,660
 They're late...
 
-384
+395
 00:27:57,220 --> 00:27:59,700
 Who was in charge today?
 
-385
+396
 00:28:00,590 --> 00:28:03,890
 It was Porchemy, Captain Bluejam.
 
-386
+397
 00:28:04,610 --> 00:28:06,860
 The sun's already setting.
 
-387
+398
 00:28:10,570 --> 00:28:14,000
 There's no way it takes this long
 to cash in the goods.
 
-388
+399
 00:28:14,770 --> 00:28:18,970
 You don't think he'd run away with the money, do you?
 
-389
+400
+00:28:14,970 --> 00:28:18,970
+Captain Bluejam
+Bluejam Pirates
+
+401
 00:28:18,970 --> 00:28:21,050
 No, he'd never...!
 
-390
+402
 00:28:21,050 --> 00:28:24,050
 He wouldn't risk his life to pull a stunt like that.
 
-391
+403
 00:28:26,140 --> 00:28:27,990
 You're right.
 
-392
+404
 00:28:32,690 --> 00:28:35,760
 Spit it out already...!
 
-393
+405
 00:28:38,100 --> 00:28:41,130
 Ah... P-P-Porchemy...!
 
-394
+406
 00:28:41,770 --> 00:28:43,470
 It's no use!
 
-395
+407
 00:28:46,780 --> 00:28:50,040
 He's too worn out to even scream now!
 
-396
+408
 00:28:54,680 --> 00:28:57,250
 He probably won't tell us anything,
 
-397
+409
 00:28:57,250 --> 00:29:00,440
 and, to be honest, this is
 so brutal I can barely watch!
 
-398
+410
 00:29:00,440 --> 00:29:03,250
 Let's just let him go!
 
-399
+411
 00:29:05,700 --> 00:29:09,760
 If you have the time to worry about the kid,
 then go find Ace and Sabo!
 
-400
+412
 00:29:09,760 --> 00:29:14,100
 We're the ones who'll get killed!
 Don't you get it?!
 
-401
+413
 00:29:14,100 --> 00:29:19,740
 The scheduled drop-off with
 Captain Bluejam is long overdue!
 
-402
+414
 00:29:24,500 --> 00:29:26,250
 Poor kiddo...
 
-403
+415
 00:29:26,250 --> 00:29:28,480
 Should we get the town sheriff involved?
 
-404
+416
 00:29:28,480 --> 00:29:29,990
 It won't do any good.
 
-405
+417
 00:29:29,990 --> 00:29:32,780
 The country's laws don't extend to this area.
 
-406
+418
 00:29:32,780 --> 00:29:37,020
 Besides, that guy is on Bluejam's crew.
 
-407
+419
 00:29:37,040 --> 00:29:39,360
 They pay off the nobles!
 
-408
+420
 00:29:39,360 --> 00:29:44,370
 Whatever crimes they commit in this country
 —even murder—will just be overlooked!
 
-409
+421
 00:29:45,000 --> 00:29:49,810
 No matter how many corpses pile up
 around here, nobody pays any mind!
 
-410
+422
 00:29:51,000 --> 00:29:53,000
 Just tell me!
 
-411
+423
 00:29:54,070 --> 00:29:55,680
 I won't!
 
-412
+424
 00:29:56,310 --> 00:30:01,380
 You little shit! You're putting too
 much effort into keeping this secret!
 
-413
+425
 00:30:05,160 --> 00:30:07,770
 Spit it out!
 
-414
+426
 00:30:10,050 --> 00:30:11,790
 I won't.
 
-415
+427
 00:30:12,640 --> 00:30:13,990
 I won't!
 
-416
+428
 00:30:14,650 --> 00:30:16,270
 I won't!
 
-417
+429
 00:30:19,810 --> 00:30:21,620
 I won't!
 
-418
+430
 00:30:24,120 --> 00:30:26,070
 Fine. Enough.
 
-419
+431
 00:30:44,720 --> 00:30:46,150
 Die.
 
-420
+432
 00:30:49,160 --> 00:30:52,380
 Stop!                                     Stop!
 
-421
+433
 00:30:57,800 --> 00:30:58,700
 Outta my way!
 
-422
+434
 00:31:01,810 --> 00:31:04,340
 That's the kid, Porchemy!
 
-423
+435
 00:31:04,340 --> 00:31:06,980
 He's the one who stole our money, dammit!
 
-424
+436
 00:31:06,980 --> 00:31:08,050
 What?
 
-425
+437
 00:31:08,050 --> 00:31:10,310
 A-Ace!
 
-426
+438
 00:31:15,760 --> 00:31:19,500
 You saved us time by coming here yourselves!
 
-427
+439
 00:31:19,500 --> 00:31:23,510
 We were having a hard time
 making your friend talk.
 
-428
+440
 00:31:23,510 --> 00:31:24,540
 Ace!
 
-429
+441
 00:31:24,540 --> 00:31:26,820
 L-Let me go!
 
-430
+442
 00:31:26,820 --> 00:31:28,440
 Sabo!
 
-431
+443
 00:31:32,200 --> 00:31:33,500
 – Porchemy!
 – Porchemy!
 
-432
+444
 00:31:36,110 --> 00:31:38,510
 Ace! Sabo!
 
-433
+445
 00:31:38,510 --> 00:31:42,050
 That kinda hurt, y'know? Hey...!
 
-434
+446
 00:31:43,970 --> 00:31:47,960
 Do you know what happens
 when you mess with grown-ups?!
 
-435
+447
 00:31:48,650 --> 00:31:50,450
 I'm the one you're going to fight!
 
-436
+448
 00:31:50,450 --> 00:31:52,260
 Sabo! Grab the kid!
 
-437
+449
 00:31:52,260 --> 00:31:53,360
 Ace!
 
-438
+450
 00:31:54,520 --> 00:31:57,530
 He has a sword! Be careful!
 
-439
+451
 00:32:10,040 --> 00:32:11,340
 Oh, my knife!
 
-440
+452
 00:32:11,800 --> 00:32:13,480
 Porchemy, that kid...!
 
-441
+453
 00:32:16,950 --> 00:32:18,950
 Let's go, Ace!
 
-442
+454
 00:32:18,950 --> 00:32:20,280
 You go on ahead!
 
-443
+455
 00:32:20,980 --> 00:32:23,350
 You're crazy! Hurry up!
 
-444
+456
 00:32:23,920 --> 00:32:25,830
 When I face someone...
 
-445
+457
 00:32:25,830 --> 00:32:28,130
 I never run!
 
-446
+458
 00:32:28,130 --> 00:32:30,740
 What'd you say?! You little shit!
 
-447
+459
 00:32:30,740 --> 00:32:34,330
 Don't do it! He's not like the thugs in the city!
 
-448
+460
 00:32:34,330 --> 00:32:36,700
 Your friend gets it!
 
-449
+461
 00:32:36,700 --> 00:32:39,410
 Now... playtime is over.
 
-450
+462
 00:32:39,410 --> 00:32:44,550
 It's our money after all,
 so give it back nice and easy, kid!
 
-451
+463
 00:32:44,550 --> 00:32:47,050
 You probably stole it on impulse, right?
 
-452
+464
 00:32:47,050 --> 00:32:50,110
 Just give the money back before you regret it.
 
-453
+465
 00:32:52,470 --> 00:32:55,390
 We can put that money
 to better use than you!
 
-454
+466
 00:32:56,450 --> 00:32:57,170
 Wha...?
 
-455
+467
 00:32:58,510 --> 00:33:00,260
 What the hell did you say?!
 
-456
+468
 00:33:00,560 --> 00:33:02,430
 Wait here a minute!
 
-457
+469
 00:33:03,890 --> 00:33:06,330
 Enough of your crap!
 
-458
+470
 00:33:10,630 --> 00:33:14,940
 If I lose to a couple of kids,
 I may as well quit being a pirate!
 
-459
+471
 00:33:14,940 --> 00:33:17,770
 – Then you're gonna quit!
 – Then you're gonna quit!
 
-460
+472
 00:33:17,880 --> 00:33:20,010
 You're all dead!
 
-461
+473
 00:33:28,820 --> 00:33:32,330
 I heard the whole story, Porchemy...
 
-462
+474
 00:33:32,330 --> 00:33:34,030
 How pathetic.
 
-463
+475
 00:33:34,030 --> 00:33:37,290
 You seriously let a couple of kids beat you?
 
-464
+476
 00:33:38,240 --> 00:33:42,920
 I'm sorry, Captain Bluejam... The money is–
 
-465
+477
 00:33:42,920 --> 00:33:45,710
 Don't look at me! You're a disgrace!
 
-466
+478
 00:33:57,430 --> 00:34:00,060
 That's a real bad habit, Ace!
 
-467
+479
 00:34:00,060 --> 00:34:03,980
 When faced with a real pirate, it's best to run!
 
-468
+480
 00:34:03,980 --> 00:34:06,120
 Why do you have such a death wish?
 
-469
+481
 00:34:06,120 --> 00:34:10,460
 It's just not the same.
 I liked the last one better.
 
-470
+482
 00:34:12,030 --> 00:34:14,030
 We really stepped in it this time...
 
-471
+483
 00:34:14,030 --> 00:34:17,900
 The Bluejam crew isn't going to let this slide.
 
-472
+484
 00:34:17,900 --> 00:34:19,340
 They'll come for us.
 
-473
+485
 00:34:19,340 --> 00:34:23,270
 That was so scary!
 I thought I was gonna die!
 
-474
+486
 00:34:27,140 --> 00:34:31,060
 You're so annoying! Shut up!
 Stop crying already!
 
-475
+487
 00:34:31,060 --> 00:34:34,350
 I really can't stand cowards and crybabies!
 
-476
+488
 00:34:37,630 --> 00:34:39,230
 Th-Thank you!
 
-477
+489
 00:34:42,830 --> 00:34:43,880
 You...
 
-478
+490
 00:34:45,130 --> 00:34:47,130
 You saved me!
 
-479
+491
 00:34:47,130 --> 00:34:48,370
 You...!
 
-480
+492
 00:34:48,370 --> 00:34:50,930
 Whoa, let him show some gratitude.
 
-481
+493
 00:34:54,390 --> 00:34:58,400
 Why didn't you just
 tell them what you knew?!
 
-482
+494
 00:34:58,400 --> 00:35:02,220
 They'd even kill women
 and children without hesitation!
 
-483
+495
 00:35:03,190 --> 00:35:07,830
 I thought if I said anything...
 you wouldn't be my friend.
 
-484
+496
 00:35:08,490 --> 00:35:10,860
 It's better than dying, isn't it?
 
-485
+497
 00:35:10,860 --> 00:35:13,360
 Why are you so obsessed
 with being my friend?!
 
-486
+498
 00:35:15,620 --> 00:35:17,160
 Because...
 
-487
+499
 00:35:17,160 --> 00:35:21,660
 Haven't I been giving you a hard time?
 
-488
+500
 00:35:21,660 --> 00:35:24,190
 Why would you follow me this far?
 
-489
+501
 00:35:29,860 --> 00:35:31,170
 Because...
 
-490
+502
 00:35:32,210 --> 00:35:35,320
 Because I don't have anyone else!
 
-491
+503
 00:35:36,040 --> 00:35:40,000
 I can't go back to Windmill Village
 and I hate mountain bandits!
 
-492
+504
 00:35:40,000 --> 00:35:43,480
 If I didn't follow you, I'd be all alone!
 
-493
+505
 00:35:43,480 --> 00:35:46,730
 Being lonely is more painful than getting hurt!
 
-494
+506
 00:35:48,460 --> 00:35:50,590
 Where are your parents?
 
-495
+507
 00:35:50,590 --> 00:35:52,330
 Grandpa is all I have.
 
-496
+508
 00:35:54,460 --> 00:35:56,930
 So you feel better when I'm around?
 
-497
+509
 00:35:56,140 --> 00:35:56,930
 Uh-huh.
 
-498
+510
 00:35:57,940 --> 00:36:00,570
 You need me?
 
-499
+511
 00:35:59,670 --> 00:36:00,570
 Uh-huh.
 
-500
+512
 00:36:03,520 --> 00:36:06,260
 "What if Gold Roger had a child?"
 
-501
+513
 00:36:07,410 --> 00:36:10,110
 We definitely don't need a kid like that around!
 
-502
+514
 00:36:10,110 --> 00:36:15,750
 Demon spawn like that doesn't
 even deserve to be alive!
 
-503
+515
 00:36:21,280 --> 00:36:22,680
 Do you want me...
 
-504
+516
 00:36:23,630 --> 00:36:24,830
 to live?
 
-505
+517
 00:36:28,200 --> 00:36:29,660
 Of course I do!
 
-506
+518
 00:36:31,010 --> 00:36:31,940
 Okay...
 
-507
+519
 00:36:34,720 --> 00:36:39,080
 but I hate spoiled brats like you.
 
-508
+520
 00:36:40,990 --> 00:36:44,120
 I'm not a spoiled brat! I'm tough!
 
-509
+521
 00:36:44,120 --> 00:36:48,650
 Tough?! You're not tough at all!
 Men aren't supposed to cry!
 
-510
+522
 00:36:48,650 --> 00:36:53,300
 Have you ever been hit
 with spikes? I'm only seven!
 
-511
+523
 00:36:53,300 --> 00:36:58,320
 When I'm ten like you,
 I'll be super strong and never ever cry!
 
-512
+524
 00:36:58,320 --> 00:37:02,270
 I never cried when I was seven,
 you dork! Don't compare us!
 
-513
+525
 00:37:02,270 --> 00:37:05,440
 I'm gonna be stronger than anyone!
 
-514
+526
 00:37:05,440 --> 00:37:09,490
 I promised Shanks that
 I'd become a great pirate!
 
-515
+527
 00:37:09,490 --> 00:37:10,980
 A pirate? You?
 
-516
+528
 00:37:10,980 --> 00:37:11,610
 Yes!
 
-517
+529
 00:37:11,610 --> 00:37:12,780
 – No way!
 – Yes way!
 
-518
+530
 00:37:14,560 --> 00:37:16,320
 Okay, that's enough!
 
-519
+531
 00:37:17,660 --> 00:37:21,990
 Hey, by the way, I have a little problem.
 
-520
+532
 00:37:21,990 --> 00:37:23,090
 What? A problem?
 
-521
+533
 00:37:23,090 --> 00:37:24,090
 Mm-hmm...
 
-522
+534
 00:37:24,090 --> 00:37:29,730
 I've been living in this forest, but it's
 too close to that hideout in Pirate Bay.
 
-523
+535
 00:37:29,730 --> 00:37:34,660
 What if they attack me when I'm
 exhausted and fast asleep?
 
-524
+536
 00:37:35,910 --> 00:37:38,040
 That's why I need your help.
 
-525
+537
 00:37:53,680 --> 00:37:58,190
 How did they get hurt?
 They're all bandaged up!
 
-526
+538
 00:38:00,410 --> 00:38:02,170
 Hey, that's...
 
-527
+539
 00:38:06,630 --> 00:38:10,200
 Whoa! Boss! Boss! We have a problem!
 
-528
+540
 00:38:10,200 --> 00:38:12,780
 Huh? It's too early to "have a problem"...
 
-529
+541
 00:38:12,780 --> 00:38:16,750
 Whoa! What's going on here?!
 
-530
+542
 00:38:16,750 --> 00:38:18,780
 One, two...
 
-531
+543
 00:38:19,860 --> 00:38:21,380
 Huh?
 
-532
+544
 00:38:21,380 --> 00:38:24,790
 Ace! Luffy! Who is that?!
 
-533
+545
 00:38:26,130 --> 00:38:27,830
 Who is who?
 
-534
+546
 00:38:30,690 --> 00:38:33,990
 Why is there one more kid?!
 
-535
+547
 00:38:33,990 --> 00:38:35,260
 Who the hell are you?!
 
-536
+548
 00:38:35,990 --> 00:38:37,670
 Are you talking about me?
 
-537
+549
 00:38:39,110 --> 00:38:42,430
 I'm Sabo! Hey, you must be Dadan!
 
-538
+550
 00:38:42,430 --> 00:38:45,710
 Sabo? I've heard your name before!
 
-539
+551
 00:38:45,710 --> 00:38:50,270
 Oh, yeah? That makes it easier!
 Thank you for taking me in!
 
-540
+552
 00:38:51,270 --> 00:38:54,950
 I heard you're a shitty a brat just like them!
 
-541
+553
 00:38:54,950 --> 00:38:58,580
 Well, sure! And I heard that you're
 a no-good, annoying old hag!
 
-542
+554
 00:39:09,080 --> 00:39:11,390
 Ace! Luffy! Sabo!
 
-543
+555
 00:39:11,390 --> 00:39:15,430
 I'm giving you three a place to stay,
 so get to work already!
 
-544
+556
 00:39:16,930 --> 00:39:19,110
 Thank you, Dadan!
 
-545
+557
 00:39:29,000 --> 00:39:35,850
 After being forced to leave the Gray Terminal,
 Ace's best friend Sabo moved in.
 
-546
+558
 00:39:37,240 --> 00:39:40,080
 Ace, Sabo, and Luffy...
 
-547
+559
 00:39:41,090 --> 00:39:46,860
 The trio soon began to spend their time
 fighting wildlife in the mountains and jungle.
 
-548
+560
 00:39:46,880 --> 00:39:51,400
 They also clashed with hooligans
 from the city and pirates at the bay.
 
-549
+561
 00:39:51,400 --> 00:39:58,940
 Eventually, their notoriety spread
 even to the heart of the kingdom!
-
-550
-00:03:16,780 --> 00:03:22,050
-Monkey D. Garp
-(10 Years Ago)
-
-551
-00:03:16,780 --> 00:03:22,050
-Monkey D. Garp
-(10 Years Ago)
-
-552
-00:03:22,110 --> 00:03:26,830
-Monkey D. Luffy
-(10 Years Ago)
-
-553
-00:03:22,110 --> 00:03:26,830
-Monkey D. Luffy
-(10 Years Ago)
-
-554
-00:03:54,810 --> 00:03:58,280
-Curly Dadan
-
-555
-00:03:54,810 --> 00:03:58,280
-Curly Dadan
-
-556
-00:03:58,320 --> 00:04:01,720
-Dogra
-Mountain Bandit
-
-557
-00:03:58,320 --> 00:04:01,720
-Dogra
-Mountain Bandit
-
-558
-00:04:01,750 --> 00:04:05,190
-Magra
-Mountain Bandit
-
-559
-00:04:01,750 --> 00:04:05,190
-Magra
-Mountain Bandit
-
-560
-00:05:41,080 --> 00:05:45,320
-Portgas D. Ace
-(10 Years Ago)
-
-561
-00:05:41,080 --> 00:05:45,320
-Portgas D. Ace
-(10 Years Ago)
-
-562
-00:10:59,440 --> 00:11:02,450
-One Week Later...
-
-563
-00:10:59,440 --> 00:11:02,450
-One Week Later...
-
-564
-00:17:46,780 --> 00:17:51,290
-Sabo (Age 10)
-(A Boy Living in the Gray Terminal)
-
-565
-00:17:46,780 --> 00:17:51,290
-Sabo (Age 10)
-(A Boy Living in the Gray Terminal)
-
-566
-00:21:23,590 --> 00:21:28,340
-Porchemy
-Bluejam Pirates
-
-567
-00:21:23,590 --> 00:21:28,340
-Porchemy
-Bluejam Pirates
-
-568
-00:27:52,920 --> 00:27:57,230
-Pirate Bay
-Gray Terminal
-
-569
-00:27:52,920 --> 00:27:57,230
-Pirate Bay
-Gray Terminal
-
-570
-00:28:14,970 --> 00:28:18,970
-Captain Bluejam
-Bluejam Pirates
-
-571
-00:28:14,970 --> 00:28:18,970
-Captain Bluejam
-Bluejam Pirates

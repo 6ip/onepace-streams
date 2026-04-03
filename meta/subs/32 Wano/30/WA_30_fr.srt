@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -39,1893 +39,1897 @@ Assaut : J-5
 Plus que cinq jours avant l'assaut.
 
 10
+00:01:01,870 --> 00:01:06,670
+Si tu veux le réaliser, va vers le sommet
+
+11
+00:01:22,560 --> 00:01:26,190
+Partons à la découverte d'un monde inconnu
+
+12
+00:01:27,150 --> 00:01:30,480
+Surmontons le vent et les vagues qui se déchaînent
+
+13
+00:01:31,230 --> 00:01:33,440
+Je dois continuer à avancer
+
+14
+00:01:33,480 --> 00:01:36,070
+car je veux y arriver en premier
+
+15
+00:01:36,110 --> 00:01:38,490
+Ce n'est pas le moment de s'inquiéter,
+
+16
+00:01:38,490 --> 00:01:42,950
+ça passe ou ça casse
+
+17
+00:01:44,450 --> 00:01:48,920
+Quand ton adversaire a l'air intimidant
+
+18
+00:01:48,920 --> 00:01:53,670
+C'est un signe que ton cœur s'atrophie
+
+19
+00:01:54,210 --> 00:01:56,550
+Fuir n'est pas une option
+
+20
+00:01:56,550 --> 00:01:58,840
+Fais un pas de plus
+
+21
+00:01:58,800 --> 00:02:01,140
+C'est un compliment de se faire
+traiter d'insolent, n'est-ce pas ?
+
+22
+00:02:01,140 --> 00:02:02,640
+Quand les choses se compliquent,
+
+23
+00:02:02,640 --> 00:02:05,680
+c'est là où tu dois sourire
+
+24
+00:02:06,890 --> 00:02:09,400
+Un nouvel horizon
+
+25
+00:02:09,400 --> 00:02:11,480
+est témoin de ton long parcours
+
+26
+00:02:11,520 --> 00:02:16,650
+Il est plus brillant, et ça devient de plus en plus difficile
+
+27
+00:02:16,650 --> 00:02:21,280
+Vis dans tes rêves et crée un ouragan
+
+28
+00:02:21,280 --> 00:02:25,620
+Vas-y ! Surpasse toutes les attentes
+
+29
+00:02:25,870 --> 00:02:29,870
+Un rêve, un souhait
+
+30
+00:02:30,170 --> 00:02:35,050
+Les rêves ne fuient pas, fracasse tout
+
+31
+00:02:35,050 --> 00:02:37,380
+Vers le sommet !
+
+32
+00:02:38,580 --> 00:02:44,280
+Enma
+
+33
 00:02:45,560 --> 00:02:47,680
 Ici Kin'emon.
 
-11
+34
 00:02:48,520 --> 00:02:50,020
 Il y a un changement
 
-12
+35
 00:02:50,310 --> 00:02:52,360
 quant au pictogramme
 que vous tenez.
 
-13
+36
 00:02:53,000 --> 00:02:55,460
 Kuri :
 Village d'Amigasa
 
-14
+37
 00:02:53,190 --> 00:02:55,440
 Deux traits barrent le serpent.
 
-15
+38
 00:02:56,730 --> 00:02:57,690
 C’est un message
 
-16
+39
 00:02:58,490 --> 00:03:01,280
 de notre très regretté seigneur Yasuie.
 
-17
+40
 00:03:06,410 --> 00:03:07,750
 Deux traits...
 
-18
+41
 00:03:10,960 --> 00:03:12,710
 Deux traits ?
 
-19
+42
 00:03:15,040 --> 00:03:16,170
 Mais bien sûr !
 
-20
+43
 00:03:16,550 --> 00:03:18,010
 C'était donc ça.
 
-21
+44
 00:03:16,550 --> 00:03:19,010
 Udon
 Mission : Armes
 
-22
+45
 00:03:19,760 --> 00:03:22,890
 Ringo
 Mission : Sabres
 
-23
+46
 00:03:19,920 --> 00:03:21,880
 Je reconnais bien là Yasuie.
 
-24
+47
 00:03:22,890 --> 00:03:24,260
 Je vois.
 
-25
+48
 00:03:24,260 --> 00:03:28,890
 Kibi - Mission :
 Rassembler les rebelles
 
-26
+49
 00:03:24,510 --> 00:03:26,510
 C’est compris. Ça marche.
 
-27
+50
 00:03:29,180 --> 00:03:31,640
 Hé ! Un peu de nerf !
 
-28
+51
 00:03:31,640 --> 00:03:41,510
 Kuri, Port d'Itachi
 Mission :
 Réparer les navires
 
-29
+52
 00:03:32,190 --> 00:03:35,770
 Sinon,
 on n’est pas rendus à Onigashima !
 
-30
+53
 00:03:35,900 --> 00:03:37,400
 Bien, chef !
 
-31
+54
 00:03:37,570 --> 00:03:39,860
 Deux traits sur le serpent ?
 
-32
+55
 00:03:40,240 --> 00:03:41,490
 Je vois !
 
-33
+56
 00:03:41,740 --> 00:03:44,120
 C’est bien compris, sieur Kin'emon.
 
-34
+57
 00:03:44,570 --> 00:03:46,620
 Bien, tant mieux.
 
-35
+58
 00:03:48,200 --> 00:03:49,750
 C’est toi, Kin'emon ?
 
-36
+59
 00:03:50,120 --> 00:03:52,460
 Tous les navires seront OK !
 
-37
+60
 00:03:52,670 --> 00:03:54,580
 On super…
 
-38
+61
 00:03:54,750 --> 00:03:56,590
 gère comme des pros !
 
-39
+62
 00:03:56,750 --> 00:03:58,990
 – Oui !
 – Comme des pros !
 
-40
+63
 00:03:59,270 --> 00:04:00,210
 On bosse !
 
-41
+64
 00:04:00,380 --> 00:04:03,630
 Je vais transmettre
 à tout le monde, pour le changement.
 
-42
+65
 00:04:03,840 --> 00:04:05,220
 Je compte sur toi.
 
-43
+66
 00:04:06,050 --> 00:04:07,100
 C’est fou !
 
-44
+67
 00:04:07,720 --> 00:04:09,220
 Les gens de Wano
 
-45
+68
 00:04:09,390 --> 00:04:12,640
 ont vite compris
 ce que signifient les traits.
 
-46
+69
 00:04:13,230 --> 00:04:14,100
 Et donc ?
 
-47
+70
 00:04:14,350 --> 00:04:15,560
 Ça veut dire quoi ?
 
-48
+71
 00:04:16,440 --> 00:04:18,690
 Deux traits en plus…
 
-49
+72
 00:04:20,450 --> 00:04:21,320
 Un sërpënt ?
 
-50
+73
 00:04:22,900 --> 00:04:23,920
 Pas du tout.
 
-51
+74
 00:04:24,200 --> 00:04:27,700
 Il faut être de Wano
 pour comprendre l’astuce.
 
-52
-00:04:30,010 --> 00:04:31,390
-Le port de « Itachi ».
-
-53
+75
 00:04:29,680 --> 00:04:31,390
 Belette
 
-54
+76
+00:04:30,010 --> 00:04:31,390
+Le port de « Itachi ».
+
+77
 00:04:33,120 --> 00:04:34,420
 Le port de « Neko ».
 
-55
+78
 00:04:33,120 --> 00:04:34,690
 Chat
 
-56
-00:04:34,870 --> 00:04:36,150
-Le port de « Kaeru ».
-
-57
+79
 00:04:34,690 --> 00:04:36,150
 Grenouille
 
-58
-00:04:36,330 --> 00:04:37,540
-Le port de « Mogura ».
+80
+00:04:34,870 --> 00:04:36,150
+Le port de « Kaeru ».
 
-59
+81
 00:04:36,150 --> 00:04:37,540
 Taupe
 
-60
-00:04:37,790 --> 00:04:39,000
-Le port de « Tokage ».
+82
+00:04:36,330 --> 00:04:37,540
+Le port de « Mogura ».
 
-61
+83
 00:04:37,560 --> 00:04:39,000
 Lézard
 
-62
-00:04:39,210 --> 00:04:41,380
-Et pour finir, le port de « Habu ».
+84
+00:04:37,790 --> 00:04:39,000
+Le port de « Tokage ».
 
-63
+85
 00:04:39,020 --> 00:04:41,860
 Serpent
 
-64
+86
+00:04:39,210 --> 00:04:41,380
+Et pour finir, le port de « Habu ».
+
+87
 00:04:42,170 --> 00:04:43,880
 Tous les ports de Wano
 
-65
+88
 00:04:44,090 --> 00:04:47,050
 portent des noms d’animaux.
 
-66
+89
 00:04:47,430 --> 00:04:49,640
 Sur le pictogramme,
 il y avait un serpent,
 
-67
+90
 00:04:49,850 --> 00:04:52,890
 qui désignait donc le port de Habu.
 
-68
+91
 00:04:53,680 --> 00:04:56,730
 Or, les deux traits flanquant le serpent
 
-69
+92
 00:04:56,940 --> 00:04:59,980
 deviennent des pattes,
 avec un peu d’imagination.
 
-70
+93
 00:05:00,150 --> 00:05:01,400
 Ce qui donne un lézard.
 
-71
+94
 00:05:01,690 --> 00:05:04,120
 Le port de Tokage,
 se trouvant à Udon.
 
-72
+95
 00:05:04,740 --> 00:05:08,990
 Le point de rendez-vous change donc
 de Habu à Tokage.
 
-73
+96
 00:05:09,160 --> 00:05:13,290
 Notre plan est ainsi
 à l’abri de l’ennemi le plus futé.
 
-74
+97
 00:05:13,790 --> 00:05:15,250
 Seigneur Yasuie…
 
-75
+98
 00:05:16,040 --> 00:05:17,960
 Il avait tout envisagé.
 
-76
+99
 00:05:18,170 --> 00:05:21,410
 Il a fait cela
 pour nous épargner des mésaventures.
 
-77
+100
 00:05:24,420 --> 00:05:26,440
 Il nous aura protégés jusqu’au bout.
 
-78
+101
 00:05:26,840 --> 00:05:29,710
 Même depuis l’au-delà,
 il veille sur nous.
 
-79
+102
 00:05:30,010 --> 00:05:33,640
 Nous devons tirer parti de cela,
 foi de samouraï !
 
-80
+103
 00:05:35,480 --> 00:05:37,190
 Il nous l’avait bien dit, jadis.
 
-81
+104
 00:05:37,480 --> 00:05:39,440
 Le grand seigneur Yasuie.
 
-82
+105
 00:05:39,900 --> 00:05:41,770
 « Vous devez devenir…
 
-83
+106
 00:05:41,940 --> 00:05:43,570
 « … les protecteurs de Wano. »
 
-84
+107
 00:05:45,820 --> 00:05:49,030
 Quel grand homme, ce Yasuie !
 
-85
+108
 00:05:51,870 --> 00:05:54,250
 Nous ne sommes pas encore rendus.
 
-86
+109
 00:05:54,830 --> 00:05:56,210
 Mais grâce à vous…
 
-87
+110
 00:05:59,250 --> 00:06:00,210
 dorénavant,
 
-88
+111
 00:06:00,540 --> 00:06:03,880
 nos troupes grandissent chaque jour.
 
-89
+112
 00:06:04,170 --> 00:06:07,340
 Nous n’avons pas encore
 retrouvé Denjiro,
 
-90
+113
 00:06:07,680 --> 00:06:09,390
 mais sept vassaux Kozuki
 
-91
-00:06:09,840 --> 00:06:11,350
-ont été réunis.
-
-92
+114
 00:06:09,410 --> 00:06:11,350
 KANJURO
 LA DOUCHE DU SOIR
 
-93
+115
+00:06:09,840 --> 00:06:11,350
+ont été réunis.
+
+116
 00:06:11,350 --> 00:06:13,310
 KIKUNOJO
 DES NEIGES PRINTANIÈRES
 
-94
+117
 00:06:13,310 --> 00:06:15,220
 KAWAMATSU LE KAPPA
 
-95
+118
 00:06:15,220 --> 00:06:17,180
 INUARASHI
 
-96
+119
 00:06:17,180 --> 00:06:19,100
 ASHURA DOJI
 
-97
+120
 00:06:19,100 --> 00:06:21,060
 KIN'EMON
 LE RENARD À LA FLAMME
 
-98
+121
 00:06:21,060 --> 00:06:22,770
 RAIZO DE LA BRUME
 
-99
+122
 00:06:23,070 --> 00:06:24,730
 Ça fait du beau monde.
 
-100
+123
 00:06:24,980 --> 00:06:28,490
 On devrait arriver à rassembler
 5 000 hommes, au final.
 
-101
+124
 00:06:28,820 --> 00:06:30,740
 Oui. C’est fantastique.
 
-102
+125
 00:06:32,410 --> 00:06:34,830
 On va rester à papoter longtemps ?
 
-103
+126
 00:06:35,040 --> 00:06:36,830
 On perd du temps, là.
 
-104
+127
 00:06:37,790 --> 00:06:40,120
 Oui. Mettons-nous à l’œuvre.
 
-105
+128
 00:06:40,540 --> 00:06:42,300
 Travaillons le plan d’attaque.
 
-106
+129
 00:06:42,960 --> 00:06:46,630
 Nous allons avoir les têtes
  de Kaido et d'Orochi.
 
-107
+130
 00:06:46,880 --> 00:06:50,890
 Et ainsi venger la mort
 de notre seigneur Oden.
 
-108
+131
 00:06:54,810 --> 00:06:57,310
 Check it out!
 
-109
+132
 00:06:58,270 --> 00:06:59,810
 Fait intéressant,
 
-110
+133
 00:07:02,440 --> 00:07:04,730
 il existe en vérité,
 pour accéder à Wano,
 
-111
+134
 00:07:04,900 --> 00:07:06,730
 deux moyens différents.
 
-112
+135
 00:07:07,440 --> 00:07:10,910
 Le premier consiste
 à remonter la cascade à dos de carpes,
 
-113
+136
 00:07:11,070 --> 00:07:13,260
 ce qui peut s’avérer très périlleux.
 
-114
+137
 00:07:14,580 --> 00:07:15,700
 L’autre moyen
 
-115
+138
 00:07:15,870 --> 00:07:19,500
 consiste à traverser la cascade
 pour gagner la grotte derrière.
 
-116
+139
 00:07:21,250 --> 00:07:24,790
 Bien sûr, sans l’autorisation
 de Kaido ou d’Orochi,
 
-117
+140
 00:07:24,960 --> 00:07:26,770
 il est impossible de passer par là.
 
-118
+141
 00:07:27,670 --> 00:07:31,300
 Tout au fond de la grotte
 se trouve le port de Mogura.
 
-119
+142
 00:07:34,470 --> 00:07:35,890
 Il y a un monte-charge
 
-120
+143
 00:07:36,220 --> 00:07:39,310
 pour les marchandises et les voyageurs.
 
-121
+144
 00:07:40,020 --> 00:07:42,900
 Et tout en haut,
 ce puits débouche…
 
-122
+145
 00:07:48,280 --> 00:07:50,650
 sur la région de Hakumai.
 
-123
+146
 00:07:54,490 --> 00:07:56,330
 Allô, Kaido ?
 
-124
+147
 00:07:56,950 --> 00:07:59,370
 Nous sommes arrivés à Hakumai.
 
-125
+148
 00:07:59,370 --> 00:08:01,960
 Onigashima
 
-126
+149
 00:08:00,330 --> 00:08:01,960
 Quoi, vous aussi ?
 
-127
+150
 00:08:02,080 --> 00:08:05,330
 Vous êtes revenus pour le banquet ?
 
-128
+151
 00:08:08,000 --> 00:08:09,590
 Bien sûr !
 
-129
+152
 00:08:09,760 --> 00:08:12,430
 Après tout, ça n’arrive
 qu’une fois par an.
 
-130
+153
 00:08:12,590 --> 00:08:16,600
 Nous n’allions tout de même pas
 rater ça !
 
-131
+154
 00:08:16,760 --> 00:08:19,300
 Cette année, on va se lâcher.
 
-132
+155
 00:08:19,390 --> 00:08:20,890
 Ça me va.
 
-133
+156
 00:08:21,060 --> 00:08:22,690
 Ouais !
 
-134
+157
 00:08:22,890 --> 00:08:25,150
 En piste, alors !
 
-135
+158
 00:08:39,410 --> 00:08:41,540
 Ces choses… C’est quoi ?
 
-136
+159
 00:08:45,170 --> 00:08:46,380
 Ce sont…
 
-137
+160
 00:08:47,290 --> 00:08:49,090
 Les Numbers d’Onigashima.
 
-138
+161
 00:08:49,670 --> 00:08:51,130
 Allons-nous-en d’ici.
 
-139
+162
 00:08:51,340 --> 00:08:52,840
 Ils vont nous croquer.
 
-140
+163
 00:08:57,220 --> 00:08:59,260
 Les Numbers sont de retour.
 
-141
+164
 00:08:59,400 --> 00:09:02,640
 Ah non ! Pas eux !
 Ils ont l'alcool mauvais.
 
-142
+165
 00:09:02,810 --> 00:09:05,140
 Je peux pas les encadrer.
 
-143
+166
 00:09:05,520 --> 00:09:09,650
 Le Festival du Feu
 sera le plus grandiose des banquets.
 
-144
+167
 00:09:09,940 --> 00:09:12,530
 Oui. Il faut fêter ça.
 
-145
+168
 00:09:15,340 --> 00:09:16,030
 Eh bien ?
 
-146
+169
 00:09:16,490 --> 00:09:19,490
 Ils ont mis le massacre
 sur pause ou quoi ?
 
-147
+170
 00:09:23,580 --> 00:09:25,750
 Écoutez-moi bien, les gars.
 
-148
+171
 00:09:25,870 --> 00:09:26,580
 Ouais ?
 
-149
+172
 00:09:27,000 --> 00:09:29,840
 L’équipage aux Cent Bêtes,
 que je dirige.
 
-150
+173
 00:09:30,170 --> 00:09:32,710
 Et l’équipage de Big Mom, le mien…
 
-151
+174
 00:09:33,380 --> 00:09:34,470
 Et hop.
 
-152
+175
 00:09:34,590 --> 00:09:36,430
 Nous avons décidé…
 
-153
+176
 00:09:36,550 --> 00:09:38,220
 … de nouer…
 
-154
+177
 00:09:38,390 --> 00:09:40,300
 … une alliance !
 
-155
+178
 00:09:42,390 --> 00:09:47,560
 Ensemble, on sera en mesure
 de conquérir le monde.
 
-156
+179
 00:09:47,780 --> 00:09:51,110
 On se mettra sur la tronche après.
 
-157
+180
 00:09:59,050 --> 00:10:01,510
 Kuri :
 Village d'Amigasa
 
-158
+181
 00:10:05,790 --> 00:10:07,750
 Que dis-tu ?
 
-159
+182
 00:10:08,080 --> 00:10:09,790
 C'est vrai ?
 
-160
+183
 00:10:10,540 --> 00:10:11,630
 C’est bien vrai.
 
-161
+184
 00:10:11,920 --> 00:10:13,300
 Son Altesse Hiyori…
 
-162
+185
 00:10:13,550 --> 00:10:15,090
 Elle est vivante ?
 
-163
+186
 00:10:15,710 --> 00:10:16,550
 Oui.
 
-164
+187
 00:10:17,050 --> 00:10:18,550
 Elle est saine et sauve.
 
-165
+188
 00:10:21,970 --> 00:10:25,520
 Je me fais un sang d’encre
 pour cette pauvre petite Otoko.
 
-166
+189
 00:10:26,230 --> 00:10:27,180
 Mais, Kawamatsu,
 
-167
+190
 00:10:27,770 --> 00:10:29,230
 je pense qu’il vaut mieux
 
-168
+191
 00:10:29,900 --> 00:10:33,150
 que j’attende
 avant de retrouver les autres.
 
-169
+192
 00:10:33,650 --> 00:10:34,980
 Avant une bataille,
 
-170
+193
 00:10:35,360 --> 00:10:37,350
 il n’est pas bon de se disperser.
 
-171
+194
 00:10:40,510 --> 00:10:42,440
 Vous tous, joignez vos forces.
 
-172
+195
 00:10:42,800 --> 00:10:44,150
 Je vous confie Wano.
 
-173
+196
 00:10:44,740 --> 00:10:47,600
 Je vous implore à genoux
 de protéger cette contrée.
 
-174
+197
 00:10:49,000 --> 00:10:52,640
 Princesse ! Cessez cela.
 Relevez-vous, enfin !
 
-175
+198
 00:10:58,730 --> 00:11:00,130
 Cette petite chipie…
 
-176
+199
 00:11:00,400 --> 00:11:03,110
 La voilà devenue si polie
 et respectueuse.
 
-177
+200
 00:11:03,620 --> 00:11:05,680
 Comme elle a grandi.
 
-178
+201
 00:11:06,150 --> 00:11:07,430
 Kawamatsu !
 
-179
+202
 00:11:07,680 --> 00:11:12,040
 Comme tu avais été capturé,
 je m’étais imaginé le pire.
 
-180
+203
 00:11:12,300 --> 00:11:14,610
 Je n’avais donc osé te questionner.
 
-181
+204
 00:11:16,750 --> 00:11:18,050
 Où est-elle ?
 
-182
+205
 00:11:18,140 --> 00:11:19,560
 Qui la protège ?
 
-183
+206
 00:11:19,700 --> 00:11:21,070
 Ne vous en faites pas.
 
-184
+207
 00:11:21,380 --> 00:11:23,200
 Elle est en sûreté.
 
-185
+208
 00:11:24,970 --> 00:11:26,580
 Que je suis soulagé !
 
-186
+209
 00:11:27,050 --> 00:11:28,850
 C’est une si bonne nouvelle.
 
-187
+210
 00:11:33,040 --> 00:11:34,790
 Elle est en vie.
 
-188
+211
 00:11:41,090 --> 00:11:43,430
 Grand frère !
 
-189
+212
 00:11:44,200 --> 00:11:44,890
 Hiyori !
 
-190
+213
 00:11:45,050 --> 00:11:46,890
 Coup de tatane !
 
-191
+214
 00:11:52,480 --> 00:11:53,480
 Hiyori…
 
-192
+215
 00:11:54,690 --> 00:11:55,890
 Zorojuro.
 
-193
+216
 00:11:57,190 --> 00:11:59,290
 Tu l’as sauvée, à ce qu’il paraît.
 
-194
+217
 00:11:59,860 --> 00:12:00,990
 Mille mercis.
 
-195
+218
 00:12:01,530 --> 00:12:04,930
 Hiyori aime jouer la dure,
 mais c’est une mauviette.
 
-196
+219
 00:12:05,370 --> 00:12:07,700
 Elle pleure pour un rien.
 
-197
+220
 00:12:08,080 --> 00:12:08,930
 Dis donc, Momo.
 
-198
+221
 00:12:09,410 --> 00:12:11,520
 Je te signale que le temps à passé.
 
-199
+222
 00:12:12,160 --> 00:12:15,290
 Elle a 18 ans de plus que toi,
 maintenant.
 
-200
+223
 00:12:20,340 --> 00:12:22,010
 Coup de tatane !
 
-201
+224
 00:12:23,680 --> 00:12:26,180
 Un coup de tatane
 de la part d’une grande…
 
-202
+225
 00:12:26,390 --> 00:12:28,180
 Voilà qui doit faire mal.
 
-203
+226
 00:12:29,520 --> 00:12:30,680
 Minute, l’artiste.
 
-204
+227
 00:12:30,810 --> 00:12:32,560
 La beauté de l’autre jour,
 
-205
+228
 00:12:32,730 --> 00:12:34,940
 c’était la petite sœur de Momo ?
 
-206
+229
 00:12:39,570 --> 00:12:41,110
 Quoi ?
 
-207
+230
 00:12:44,820 --> 00:12:46,660
 Mon petit Momo-chou.
 
-208
+231
 00:12:47,100 --> 00:12:49,900
 Qu’est-ce que je peux faire pour toi ?
 
-209
+232
 00:12:50,000 --> 00:12:52,000
 Arrête de faire
 de la lèche au grand frère.
 
-210
+233
 00:12:52,660 --> 00:12:53,980
 Sieur Sangoro.
 
-211
+234
 00:12:54,210 --> 00:12:56,210
 Cessez vos pitreries.
 
-212
+235
 00:12:57,460 --> 00:13:00,410
 Kawamatsu, les voici.
 
-213
+236
 00:13:01,690 --> 00:13:04,340
 Es-tu bien certain ?
 
-214
+237
 00:13:04,790 --> 00:13:05,560
 Oui.
 
-215
+238
 00:13:06,080 --> 00:13:08,160
 L’affaire est déjà conclue.
 
-216
+239
 00:13:09,100 --> 00:13:09,830
 Sieur Hitetsu.
 
-217
+240
 00:13:10,470 --> 00:13:13,280
 Je vous rends ceci,
 emprunté par Luffytaro.
 
-218
+241
 00:13:13,640 --> 00:13:17,060
 Les gardes d’Udon l’avaient confisqué.
 C’est le Nidai Kitetsu.
 
-219
+242
 00:13:17,230 --> 00:13:18,810
 Ah, merci.
 
-220
+243
 00:13:19,060 --> 00:13:21,110
 Il l’avait emporté 
 sur un coup de tête.
 
-221
+244
 00:13:22,340 --> 00:13:23,340
 Un Kitetsu ?
 
-222
+245
 00:13:26,430 --> 00:13:28,620
 C’était bien une grande lame.
 
-223
+246
 00:13:29,700 --> 00:13:30,660
 Bon.
 
-224
+247
 00:13:31,040 --> 00:13:33,430
 Je me nomme Tenguyama Hitetsu.
 
-225
+248
 00:13:33,830 --> 00:13:36,460
 Forgeur de sabres de Wano.
 
-226
+249
 00:13:37,750 --> 00:13:38,770
 Depuis 20 ans,
 
-227
+250
 00:13:39,240 --> 00:13:41,420
 j’attendais de confier à Momonosuke
 
-228
+251
 00:13:41,540 --> 00:13:44,380
 et à Hiyori le contenu de ce coffre.
 
-229
+252
 00:13:44,550 --> 00:13:47,180
 Le jour est enfin venu.
 
-230
+253
 00:13:54,830 --> 00:13:57,770
 Le seigneur Oden
 portait deux sabres à son côté.
 
-231
+254
 00:13:58,020 --> 00:14:01,230
 Ame no Habakiri,
 capable de transpercer le ciel.
 
-232
+255
 00:14:02,110 --> 00:14:06,240
 Et Enma,
 à même de pourfendre les Enfers.
 
-233
+256
 00:14:07,400 --> 00:14:12,950
 Au même titre que Shusui,
 elles font partie des 21 Grandes Lames.
 
-234
+257
 00:14:14,240 --> 00:14:17,250
 Seigneur Momonosuke, qu’en dites-vous ?
 
-235
+258
 00:14:17,540 --> 00:14:19,000
 C’est mon chef-œuvre.
 
-236
+259
 00:14:19,150 --> 00:14:21,500
 Euh, moi ?
 Non… C’est que…
 
-237
+260
 00:14:22,200 --> 00:14:24,300
 Non que je sois intimidé !
 
-238
+261
 00:14:24,760 --> 00:14:27,590
 Mais pour l’instant,
 je le laisse à votre bonne garde.
 
-239
+262
 00:14:28,330 --> 00:14:32,350
 Quant à Enma,
 c’est à toi qu’il revient, jeune homme.
 
-240
+263
 00:14:33,420 --> 00:14:34,970
 Laisse-moi te dire une chose.
 
-241
+264
 00:14:35,100 --> 00:14:38,550
 Sur ces terres, Enma n’a été dompté
 
-242
+265
 00:14:38,720 --> 00:14:41,190
 que par un seul guerrier :
 Kozuki Oden.
 
-243
+266
 00:14:41,310 --> 00:14:42,610
 Et personne d’autre.
 
-244
+267
 00:14:53,780 --> 00:14:55,490
 Vois-tu l’arbre, là-bas ?
 
-245
+268
 00:14:55,700 --> 00:14:58,370
 Essaie de l’abattre
 d’un seul coup de sabre.
 
-246
+269
 00:15:04,960 --> 00:15:05,920
 Messire Zoro.
 
-247
+270
 00:15:06,630 --> 00:15:09,170
 Je dis cela sans arrière-pensée.
 
-248
+271
 00:15:09,760 --> 00:15:12,580
 Mais si j’étais vous,
 je refuserais ce sabre.
 
-249
+272
 00:15:33,320 --> 00:15:34,750
 Il a coupé la falaise ?
 
-250
+273
 00:15:47,380 --> 00:15:49,590
 Regardez le bras de Zorojuro !
 
-251
+274
 00:15:56,390 --> 00:15:57,640
 Espèce de…
 
-252
+275
 00:16:00,350 --> 00:16:01,520
 Rends-moi ça !
 
-253
+276
 00:16:18,540 --> 00:16:21,540
 Il vampirise le Ryuo
 de celui qui le brandit.
 
-254
+277
 00:16:21,710 --> 00:16:23,870
 Et il tranche bien plus que nécessaire.
 
-255
+278
 00:16:25,290 --> 00:16:29,880
 Un sabreur moins robuste que toi
 serait desséché et à terre.
 
-256
+279
 00:16:30,550 --> 00:16:31,760
 Chapeau.
 
-257
+280
 00:16:32,510 --> 00:16:35,720
 Bref, que décides-tu ?
 Préfères-tu un autre sabre ?
 
-258
+281
 00:16:38,560 --> 00:16:41,350
 Non. Il me va bien, celui-là.
 
-259
+282
 00:16:41,600 --> 00:16:43,060
 Enma, hein ?
 
-260
+283
 00:16:44,100 --> 00:16:46,100
 Quand je l’aurai dompté,
 
-261
+284
 00:16:46,780 --> 00:16:51,360
 je pense qu’il me rendra
 encore plus fort.
 
-262
+285
 00:16:55,530 --> 00:16:57,140
 Quel fou !
 
-263
+286
 00:17:01,750 --> 00:17:03,800
 Du nerf, faut bosser !
 
-264
+287
 00:17:04,110 --> 00:17:06,040
 On n’a pas le temps !
 
-265
+288
+00:17:06,540 --> 00:17:18,030
+Assaut : J-3
+
+289
 00:17:06,800 --> 00:17:09,900
 Il nous faut de quoi trimballer
 100 000 gars.
 
-266
-00:17:06,540 --> 00:17:18,030
-Assaut : J-3
-
-267
+290
 00:17:10,120 --> 00:17:11,850
 On sera pas tant.
 
-268
+291
 00:17:11,950 --> 00:17:15,340
 Imbécile !
 Mieux vaut prévoir trop que pas assez.
 
-269
+292
 00:17:15,510 --> 00:17:18,180
 On prend les paris ?
 Combien de gars on aura ?
 
-270
+293
 00:17:19,560 --> 00:17:22,760
 Dame Orobi,
 quelles sont les effectifs de l’ennemi ?
 
-271
+294
 00:17:23,270 --> 00:17:25,140
 De ce que j’ai pu récolter,
 
-272
+295
 00:17:26,100 --> 00:17:29,900
 l’équipage aux Cent Bêtes
 disposerait de 20 000 hommes.
 
-273
+296
 00:17:30,520 --> 00:17:34,740
 Le Shogun Orochi, quant à lui,
 commande environ 10 000 hommes.
 
-274
+297
 00:17:35,450 --> 00:17:37,570
 Le soir du banquet, à Onigashima,
 
-275
+298
 00:17:37,910 --> 00:17:40,240
 nous pouvons tabler sur 30 000 ennemis.
 
-276
+299
 00:17:40,620 --> 00:17:42,830
 Ils n’auront pas de civils
 dans les pattes
 
-277
+300
 00:17:43,000 --> 00:17:45,330
 et ils connaîtront le coin
 comme leur poche.
 
-278
+301
 00:17:45,830 --> 00:17:47,830
 On a les plans, c’est tout.
 
-279
+302
 00:17:48,290 --> 00:17:52,360
 Nous disposons à l’heure actuelle
 d’environ 4 000 hommes.
 
-280
+303
 00:17:52,880 --> 00:17:54,920
 Ce n’est pas une bataille rangée,
 
-281
+304
 00:17:55,150 --> 00:17:57,300
 mais nous sommes
 en infériorité numérique.
 
-282
+305
 00:17:58,010 --> 00:18:02,180
 L’attaque surprise
 est notre seule chance !
 
-283
+306
 00:18:02,470 --> 00:18:04,260
 Nous ne pouvons échouer.
 
-284
+307
 00:18:04,500 --> 00:18:06,000
 Gear Fourth.
 
-285
+308
 00:18:13,680 --> 00:18:15,560
 Bound Man.
 
-286
+309
 00:18:18,590 --> 00:18:20,390
 Mine d'Udon
 
-287
+310
 00:18:21,620 --> 00:18:24,360
 King Kong Gun !
 
-288
+311
 00:18:36,410 --> 00:18:38,200
 C’est pas bon.
 
-289
+312
 00:18:38,410 --> 00:18:40,800
 Non. Tu forces trop.
 
-290
+313
 00:18:41,220 --> 00:18:43,220
 Quoi ? Ça ne va pas ?
 
-291
+314
 00:18:57,860 --> 00:18:59,990
 Tu vas te calmer tout de suite.
 
-292
+315
 00:19:08,790 --> 00:19:11,380
 Momo, concentre-toi
 sur ton entraînement.
 
-293
+316
 00:19:11,540 --> 00:19:13,000
 Euh… Oui !
 
-294
+317
 00:19:13,700 --> 00:19:15,800
 Au fait, l’autre fois…
 
-295
+318
 00:19:15,960 --> 00:19:19,380
 tu m’avais parlé du cri « Sunachi ».
 
-296
+319
 00:19:19,510 --> 00:19:21,090
 Hein ? Ouais…
 
-297
+320
 00:19:21,930 --> 00:19:25,220
 C’est un vieux cri galvanisant
 pour mieux rassembler ses forces.
 
-298
+321
 00:19:25,430 --> 00:19:26,200
 Ouais.
 
-299
+322
 00:19:26,600 --> 00:19:29,940
 Mais Okiku m’a dit
 que ce mot était inconvenant.
 
-300
+323
 00:19:30,350 --> 00:19:33,190
 Je le tiens d’un vieux de mon village.
 
-301
+324
 00:19:33,550 --> 00:19:35,650
 Perso, j’ai jamais prononcé ce mot.
 
-302
+325
 00:19:35,770 --> 00:19:36,940
 Quoi ?
 
-303
+326
 00:19:39,340 --> 00:19:42,340
 Assaut : J-2
 
-304
+327
 00:19:40,280 --> 00:19:42,530
 Maître !
 
-305
+328
 00:19:42,990 --> 00:19:44,410
 Otama !
 
-306
+329
 00:19:45,580 --> 00:19:47,620
 Je me faisais du souci.
 
-307
+330
 00:19:47,790 --> 00:19:49,830
 Chopper ! Luffy !
 
-308
+331
 00:19:50,080 --> 00:19:50,910
 Nami !
 
-309
+332
 00:19:59,090 --> 00:20:00,610
 Ici Kin'emon.
 
-310
+333
 00:20:00,920 --> 00:20:02,320
 Sieur Kin'emon.
 
-311
+334
 00:20:03,430 --> 00:20:04,260
 Entre Kibi,
 
-312
+335
 00:20:04,590 --> 00:20:06,680
 Hakumai, Ringo
 
-313
+336
 00:20:07,140 --> 00:20:08,080
 et Udon,
 
-314
+337
 00:20:08,350 --> 00:20:11,410
 nous avons recruté
 200 volontaires supplémentaires.
 
-315
+338
 00:20:13,520 --> 00:20:15,000
 Vraiment ?
 
-316
+339
 00:20:18,980 --> 00:20:20,400
 Youpi !
 
-317
+340
 00:20:20,710 --> 00:20:23,410
 Voilà qui porte nos effectifs
 à 4 200 hommes.
 
-318
+341
 00:20:24,870 --> 00:20:27,260
 Law ne donne pas signe de vie.
 
-319
+342
 00:20:28,120 --> 00:20:30,540
 Tant pis, nous ferons sans lui.
 
-320
+343
 00:20:30,700 --> 00:20:33,500
 Mais non ! Il est super fort !
 
-321
+344
 00:20:36,130 --> 00:20:39,670
 Frérot s’est trop entraîné.
 Il passe son temps à dormir.
 
-322
+345
 00:20:45,400 --> 00:20:46,450
 Hé, le gardien !
 
-323
+346
 00:20:47,550 --> 00:20:49,930
 C’est bientôt le festival.
 On veut y aller.
 
-324
+347
 00:20:50,430 --> 00:20:52,250
 C'est mort. Tais-toi.
 
-325
+348
 00:20:52,520 --> 00:20:55,150
 Et merde, c’est notre dernière chance.
 
-326
+349
 00:20:55,440 --> 00:20:58,110
 C’est l’heure du grand combat !
 
-327
+350
 00:20:59,130 --> 00:21:02,090
 Prison de Rasetsu
 
-328
+351
 00:20:59,940 --> 00:21:02,090
 À la capitale,
 
-329
+352
 00:21:02,400 --> 00:21:05,420
 les prisonniers sont sous bonne garde,
 impossible d’agir.
 
-330
+353
 00:21:05,820 --> 00:21:08,740
 Ceux qui tentent d’aider
 sont également incarcérés.
 
-331
+354
 00:21:09,330 --> 00:21:10,740
 C’est très dommage.
 
-332
+355
 00:21:10,910 --> 00:21:13,410
 Les meilleurs samouraïs
 sont enfermés là-bas.
 
-333
+356
 00:21:14,040 --> 00:21:15,790
 Mais c’est trop tard.
 
-334
+357
 00:21:18,040 --> 00:21:19,040
 Mes braves.
 
-335
+358
 00:21:19,630 --> 00:21:21,350
 Vous avez fait du bon travail.
 
-336
+359
 00:21:22,260 --> 00:21:26,130
 Le temps restant
 doit être consacré aux préparatifs.
 
-337
+360
 00:21:26,340 --> 00:21:27,240
 Bien reçu.
 
-338
+361
 00:21:27,590 --> 00:21:30,600
 Retrouvons-nous
 au point de rendez-vous !
 
-339
+362
 00:21:35,460 --> 00:21:39,840
 Assaut : J-1
 
-340
+363
 00:21:35,850 --> 00:21:38,230
 J’ai tissé des chapeaux
  pour tout le monde.
 
-341
+364
 00:21:38,690 --> 00:21:39,840
 Merci bien.
 
-342
+365
 00:21:41,350 --> 00:21:42,670
 Sur ce, messire Luffy.
 
-343
+366
 00:21:43,490 --> 00:21:45,200
 Nous partons devant.
 
-344
+367
 00:21:45,650 --> 00:21:47,240
 Pour arriver les premiers.
 
-345
+368
 00:21:47,530 --> 00:21:48,090
 Ça roule.
 
-346
+369
 00:21:48,530 --> 00:21:51,870
 Le Sunny est amarré
 sur une plage pas loin d’ici.
 
-347
+370
 00:21:52,320 --> 00:21:53,790
 Vous faites pas prendre.
 
-348
+371
 00:21:53,910 --> 00:21:55,160
 Aucune chance.
 
-349
+372
 00:21:55,850 --> 00:21:57,990
 Nous avons fait attention tout du long.
 
-350
+373
 00:22:01,210 --> 00:22:03,610
 Merci de votre aide.
 
-351
+374
 00:22:03,880 --> 00:22:05,090
 De rien.
 
-352
+375
 00:22:05,380 --> 00:22:06,760
 On va gérer.
 
-353
+376
 00:22:07,300 --> 00:22:08,860
 Rendez-vous au port.
 
-354
+377
 00:22:09,640 --> 00:22:10,470
 Ouais !
 
-355
+378
 00:22:24,690 --> 00:22:26,190
 Cette contrée
 
-356
+379
 00:22:26,530 --> 00:22:28,530
 compte de nombreuses cheminées.
 
-357
+380
 00:22:30,950 --> 00:22:34,870
 Et plus encore,
 de nombreux travailleurs à la peine.
 
-358
+381
 00:22:35,500 --> 00:22:36,580
 C’est vrai ?
 
-359
+382
 00:22:37,080 --> 00:22:38,370
 De quoi tu parles ?
 
-360
+383
 00:22:38,580 --> 00:22:39,650
 Seigneur Yasuie…
 
-361
+384
 00:22:40,050 --> 00:22:43,380
 Il aurait protégé
 les Neufs Fourreaux Rouges.
 
-362
+385
 00:22:43,550 --> 00:22:45,260
 – Hein ?
 – Le pictogramme…
 
-363
+386
 00:22:45,510 --> 00:22:48,050
 Ce n’était pas une blague.
 
-364
+387
 00:22:48,220 --> 00:22:51,140
 C’était bel et bien
 le signal d’une insurrection.
 
-365
+388
 00:22:51,550 --> 00:22:54,620
 Arrête de rêver.
 Ce serait trop beau.
 
-366
+389
 00:22:55,140 --> 00:22:58,940
 Cela fait 20 ans
 que le clan Kozuki s’est éteint.
 
-367
+390
 00:22:59,230 --> 00:23:03,520
 Même si le grand Kin'emon
 et les siens étaient vivants…
 
-368
+391
 00:23:06,940 --> 00:23:09,930
 ils doivent avoir perdu tout espoir,
 à l’heure qu’il est.
 
-369
+392
 00:23:10,490 --> 00:23:12,200
 Un soulèvement ?
 
-370
+393
 00:23:12,490 --> 00:23:14,310
 C’est impensable.
 
-371
+394
 00:23:15,080 --> 00:23:17,620
 De plus, notre pays est isolé.
 
-372
+395
 00:23:18,040 --> 00:23:19,920
 Personne ne viendra nous aider.
 
-373
+396
 00:23:20,710 --> 00:23:22,880
 Il n’y a personne
 
-374
+397
 00:23:23,130 --> 00:23:25,840
 pour se dresser face à Kaido.
 
-375
+398
 00:23:27,170 --> 00:23:29,550
 C’est ainsi que se mirent en route
 
-376
+399
 00:23:29,800 --> 00:23:31,930
 sept des Neuf Fourreaux Rouges,
 
-377
+400
 00:23:32,090 --> 00:23:35,330
 une femme-ninja
 et un haut personnage.
 
-378
+401
 00:23:35,620 --> 00:23:38,680
 Sous leurs pieds,
 le sol desséché crissait,
 
-379
+402
 00:23:38,850 --> 00:23:41,350
 tel le givre que l’on foule en hiver.
 
-380
+403
 00:23:43,020 --> 00:23:45,940
 Le soleil était à son zénith.
 
-381
+404
 00:23:46,440 --> 00:23:48,320
 Et malgré la fumée et les nuages,
 
-382
+405
 00:23:49,030 --> 00:23:50,950
 les guerriers venus du passé
 
-383
+406
 00:23:51,530 --> 00:23:55,830
 pour venger leur seigneur
 n’avaient rien de fantômes.
 
-384
+407
 00:23:56,030 --> 00:23:57,740
 Aux pieds de ces neuf revenants,
 
-385
+408
 00:23:58,080 --> 00:24:00,870
 une ombre des plus nettes se dessinait.
 
-386
+409
 00:24:01,580 --> 00:24:04,710
 Après la victoire,
 nous leur dresserons de belles tombes.
 
-387
+410
 00:24:03,690 --> 00:24:06,440
 YASUIE
 
-388
+411
 00:24:08,400 --> 00:24:10,240
 PEDRO
 
-389
+412
 00:24:16,220 --> 00:24:18,720
 Le Kitetsu a bien changé.
 
-390
+413
 00:24:20,060 --> 00:24:23,350
 Il a dû se trouver un bon maître.
 
-391
+414
 00:24:24,250 --> 00:24:28,730
 Le Sandai Kitetsu que tu détiens
 est l’un de mes sabres.
 
-392
+415
 00:24:28,940 --> 00:24:30,240
 Vraiment ?
 
-393
+416
 00:24:31,030 --> 00:24:32,030
 Jeune homme.
 
-394
+417
 00:24:32,150 --> 00:24:34,570
 Enma,
 que la douce Hiyori t’a donné,
 
-395
+418
 00:24:34,700 --> 00:24:37,490
 il t’est étrangement familier, non ?
 
-396
+419
 00:24:38,790 --> 00:24:41,060
 Comme tous les sabres maudits,
 
-397
+420
 00:24:41,580 --> 00:24:43,960
 il ne sied guère aux faibles.
 
-398
+421
 00:24:44,250 --> 00:24:48,750
 Mais il y a une autre raison.
 Les hasards du destin jouent.
 
-399
+422
 00:24:49,300 --> 00:24:51,340
 Car le Wado Ichimonji que tu tiens
 
-400
+423
 00:24:51,510 --> 00:24:54,460
 et Enma furent forgés
 par le même homme.
 
-401
+424
 00:24:55,890 --> 00:24:59,140
 Le grand maître Shimotsuki Kozaburo.
 
-402
+425
 00:24:59,600 --> 00:25:01,560
 Il y a plus de 50 ans de cela,
 
-403
+426
 00:25:01,770 --> 00:25:04,890
 il a quitté notre belle contrée.
 
-404
+427
 00:25:05,560 --> 00:25:08,020
 Hiyori a dû remarquer ton sabre
 
-405
+428
 00:25:08,270 --> 00:25:11,230
 et te juger digne
 d’hériter du sabre de son père.
 
-406
+429
 00:25:13,950 --> 00:25:17,280
 Enma n’est pas encore
 une lame noire.
 
-407
+430
 00:25:17,780 --> 00:25:20,620
 C’est à toi qu’il va revenir
 de le perfectionner.
 
-408
+431
 00:25:22,660 --> 00:25:24,710
 Ça me va.
 
-409
+432
 00:25:26,960 --> 00:25:28,710
 Tout va bien à Udon ?
 
-410
+433
 00:25:28,880 --> 00:25:30,670
 Oui, il n’y a rien à signaler.
 
-411
+434
 00:25:30,800 --> 00:25:32,840
 Ah ? C’était une fausse alerte ?
 
-412
+435
 00:25:33,050 --> 00:25:36,930
 Oui ! Je confirme qu’ici, à Udon,
 tout se passe comme d’habitude.
 
-413
+436
 00:25:37,090 --> 00:25:40,640
 Nous gardons les prisonniers à l’œil,
 comme toujours.
 
-414
+437
 00:25:40,760 --> 00:25:41,600
 Au revoir.
 
-415
+438
 00:25:42,600 --> 00:25:45,770
 On ne peut vraiment pas se fier
 à ce sale menteur !
 
-416
+439
 00:25:46,560 --> 00:25:47,480
 Mais bon…
 
-417
+440
 00:25:47,810 --> 00:25:50,860
 Tant que j’ai ma taupe
 bien infiltrée, tout va bien.
 
-418
+441
 00:25:51,700 --> 00:25:55,230
 « Changement de port de départ :
 Tokage remplace Habu. »
 
-419
+442
 00:25:55,450 --> 00:25:57,660
 « Kozuki Hiyori est en vie. »
 
-420
+443
 00:25:57,820 --> 00:25:59,580
 « Elle se terre au nord. »
 
-421
+444
 00:26:40,950 --> 00:26:42,990
 Tu vas voir, Kaido !
 
-422
+445
 00:26:45,700 --> 00:26:48,270
 Oyez, oyez !
 
-423
+446
 00:26:49,250 --> 00:26:53,100
 Le soleil brille sur la capitale
 aux mille fleurs de cerisier.
 
-424
+447
 00:26:53,750 --> 00:26:56,170
 L’heure du Festival du Feu approche.
 
-425
+448
 00:26:56,710 --> 00:26:58,010
 Mais dans l’ombre,
 
-426
+449
 00:26:58,170 --> 00:27:00,570
 une lutte dont l’issue
 influencera le monde
 
-427
+450
 00:27:00,720 --> 00:27:03,220
 est sur le point de commencer.
 
-428
+451
 00:27:08,580 --> 00:27:11,000
 Wano - Fin de l'acte 2
 
-429
+452
 00:27:11,000 --> 00:27:11,080
 Wano - Fin de l'a
 
-430
+453
 00:27:11,080 --> 00:27:11,170
 Wano -
-
-431
-00:01:01,870 --> 00:01:06,670
-Si tu veux le réaliser, va vers le sommet
-
-432
-00:01:22,560 --> 00:01:26,190
-Partons à la découverte d'un monde inconnu
-
-433
-00:01:27,150 --> 00:01:30,480
-Surmontons le vent et les vagues qui se déchaînent
-
-434
-00:01:31,230 --> 00:01:33,440
-Je dois continuer à avancer
-
-435
-00:01:33,480 --> 00:01:36,070
-car je veux y arriver en premier
-
-436
-00:01:36,110 --> 00:01:38,490
-Ce n'est pas le moment de s'inquiéter,
-
-437
-00:01:38,490 --> 00:01:42,950
-ça passe ou ça casse
-
-438
-00:01:44,450 --> 00:01:48,920
-Quand ton adversaire a l'air intimidant
-
-439
-00:01:48,920 --> 00:01:53,670
-C'est un signe que ton cœur s'atrophie
-
-440
-00:01:54,210 --> 00:01:56,550
-Fuir n'est pas une option
-
-441
-00:01:56,550 --> 00:01:58,840
-Fais un pas de plus
-
-442
-00:01:58,800 --> 00:02:01,140
-C'est un compliment de se faire
-traiter d'insolent, n'est-ce pas ?
-
-443
-00:02:01,140 --> 00:02:02,640
-Quand les choses se compliquent,
-
-444
-00:02:02,640 --> 00:02:05,680
-c'est là où tu dois sourire
-
-445
-00:02:06,890 --> 00:02:09,400
-Un nouvel horizon
-
-446
-00:02:09,400 --> 00:02:11,480
-est témoin de ton long parcours
-
-447
-00:02:11,520 --> 00:02:16,650
-Il est plus brillant, et ça devient de plus en plus difficile
-
-448
-00:02:16,650 --> 00:02:21,280
-Vis dans tes rêves et crée un ouragan
-
-449
-00:02:21,280 --> 00:02:25,620
-Vas-y ! Surpasse toutes les attentes
-
-450
-00:02:25,870 --> 00:02:29,870
-Un rêve, un souhait
-
-451
-00:02:30,170 --> 00:02:35,050
-Les rêves ne fuient pas, fracasse tout
-
-452
-00:02:35,050 --> 00:02:37,380
-Vers le sommet !

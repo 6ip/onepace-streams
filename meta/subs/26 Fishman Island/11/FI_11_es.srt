@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,433 +146,434 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
+00:02:29,860 --> 00:02:39,180
+¡La impactante verdad de Tiger!
+El fin de los Piratas del Sol
+
+38
 00:02:42,020 --> 00:02:46,250
 Por fin hemos conseguido un Eternal Pose que apunta a la aldea de Koala.
 
-38
+39
 00:02:42,300 --> 00:02:46,250
 HACE 12 AÑOS - GRAND LINE
 
-39
+40
 00:02:46,250 --> 00:02:49,220
 ¡Koala, pronto estarás en casa!
 
-40
+41
 00:02:49,770 --> 00:02:51,260
 Ah... este...
 
-41
+42
 00:02:56,460 --> 00:02:58,220
 Cómo has cambiado, ¿eh?
 
-42
+43
 00:02:58,220 --> 00:03:01,760
 Te has vuelto más femenina.
 
-43
+44
 00:02:59,260 --> 00:03:03,260
 KOALA (EXESCLAVA)
 
-44
+45
 00:03:03,250 --> 00:03:05,580
 Es que a mí estas cosas...
 
-45
+46
 00:03:09,620 --> 00:03:13,330
 ¿No te gusta lo que te hemos comprado?
 
-46
+47
 00:03:14,680 --> 00:03:18,220
 El corte de pelo te ha quedado bien, ya verás que a tu madre le gustará mucho.
 
-47
+48
 00:03:19,510 --> 00:03:20,660
 Yo...
 
-48
+49
 00:03:22,640 --> 00:03:24,000
 ...tengo que limpiar.
 
-49
+50
 00:03:25,860 --> 00:03:29,090
 ¡Debes controlar esos impulsos raros por trabajar!
 
-50
+51
 00:03:29,090 --> 00:03:31,590
 ¡Ya no estás en Mary Geoise!
 
-51
+52
 00:03:31,590 --> 00:03:33,000
 Deja que haga lo que quiera.
 
-52
+53
 00:03:34,030 --> 00:03:39,100
 Tiene que superarlo poco a poco, los traumas no desaparecen de un día para otro.
 
-53
+54
 00:03:35,100 --> 00:03:39,100
 DOCTOR DE A BORDO DE LOS PIRATAS DEL SOL -
 
-54
+55
 00:03:35,100 --> 00:03:39,100
 ALADINE
 
-55
+56
 00:03:39,690 --> 00:03:40,700
 ¿En serio?
 
-56
+57
 00:03:40,700 --> 00:03:43,860
 Veo que sabes mucho del tema, hermano Aladine.
 
-57
+58
 00:03:44,940 --> 00:03:47,540
 Claro, ¿quién mejor que un
  esclavo para entender a otro?
 
-58
+59
 00:03:48,150 --> 00:03:51,630
 Seguro que ahora mismo quieres matarla, ¿no?
 
-59
+60
 00:03:52,690 --> 00:03:56,020
 ¡Es humana, como quien te compró!
 
-60
+61
 00:03:57,060 --> 00:03:58,500
 Detente, Arlong.
 
-61
+62
 00:03:58,500 --> 00:04:00,380
 ¡Vamos, muéstrate como eres!
 
-62
+63
 00:04:00,380 --> 00:04:02,820
 ¿Qué te enseñó tu madre?
 
-63
+64
 00:04:02,820 --> 00:04:07,580
 Seguro que tus padres 
 desprecian a los gyojin, ¿verdad?
 
-64
+65
 00:04:12,090 --> 00:04:14,800
 ¡Así funciona la sociedad humana, ¿no?!
 
-65
+66
 00:04:14,800 --> 00:04:19,820
 ¡Los humanos y la nobleza se consideran los seres superiores del mundo!
 
-66
+67
 00:04:19,820 --> 00:04:22,660
 ¡Y sus hijos crecen con la misma mentalidad!
 
-67
+68
 00:04:22,660 --> 00:04:27,010
 ¡Hay que cortar el asunto de raíz
  para terminar con esta situación!
 
-68
+69
 00:04:28,860 --> 00:04:33,460
 Ustedes mismos lo han visto muchas veces en 
 estos tres años que llevamos navegando juntos.
 
-69
+70
 00:04:34,500 --> 00:04:38,260
 ¡Hablo de esas miradas de desprecio
  con las que nos observan siempre!
 
-70
+71
 00:04:38,260 --> 00:04:42,500
 No sé qué les habría hecho
  si no hubiera estado el jefe.
 
-71
+72
 00:04:50,860 --> 00:04:53,820
 Sólo nos miran con desprecio una parte de ellos.
 
-72
+73
 00:04:53,820 --> 00:04:56,260
 Y no vi que fuera algo generalizado.
 
-73
+74
 00:04:56,260 --> 00:04:57,420
 Hermano Jinbe...
 
-74
+75
 00:04:57,420 --> 00:05:02,020
 A mí me parece que nos temen,
  y que sienten terror.
 
-75
+76
 00:05:06,630 --> 00:05:08,600
 ¿Será porque somos piratas?
 
-76
+77
 00:05:11,300 --> 00:05:13,640
 ¿Por qué les damos tanto miedo?
 
-77
+78
 00:05:16,000 --> 00:05:17,220
 Porque...
 
-78
+79
 00:05:18,230 --> 00:05:20,380
 ...no sabemos nada de ustedes.
 
-79
+80
 00:05:22,590 --> 00:05:24,740
 ¿Miedo a lo desconocido?
 
-80
+81
 00:05:25,510 --> 00:05:29,880
 Piensen que nosotros sólo hemos conocido una pequeña parte de la población humana.
 
-81
+82
 00:05:29,880 --> 00:05:32,980
 Prácticamente no sabemos
  nada de la humanidad.
 
-82
+83
 00:05:34,050 --> 00:05:37,340
 ¿Cambiaría todo si nos conociéramos mejor?
 
-83
+84
 00:05:39,740 --> 00:05:40,860
 ¡Mira esto, Koala!
 
-84
+85
 00:05:42,020 --> 00:05:45,220
 ¡Adivina en qué mano lo tengo!
 
-85
+86
 00:05:45,820 --> 00:05:47,700
 ¿Dónde está?
 
-86
+87
 00:05:48,410 --> 00:05:51,130
 Ah... en esta.
 
-87
+88
 00:05:52,470 --> 00:05:54,800
 ¡Fallaste!
-
-88
-00:06:50,470 --> 00:06:54,220
-Koala, despídete del barco, 
-estamos muy cerca de tu aldea.
 
 89
 00:06:50,060 --> 00:06:54,220
 GRAND LINE - ISLA FOOLSHOUT
 
 90
+00:06:50,470 --> 00:06:54,220
+Koala, despídete del barco, 
+estamos muy cerca de tu aldea.
+
+91
 00:06:59,740 --> 00:07:01,820
 ¿Dónde está tu aldea?
 
-91
+92
 00:07:01,820 --> 00:07:02,630
 ¿Eh?
 
-92
+93
 00:07:02,630 --> 00:07:05,220
 Te acompañaré hasta allí.
 
-93
+94
 00:07:05,220 --> 00:07:06,220
 ¡Sí!
 
-94
+95
 00:07:07,200 --> 00:07:08,940
 ¡No te vayas, Koala!
 
-95
+96
 00:07:08,940 --> 00:07:10,800
 ¡Sigue navegando con nosotros!
 
-96
+97
 00:07:10,800 --> 00:07:13,920
 ¡Eres tan buena chica, y eso que eres humana!
 
-97
+98
 00:07:15,060 --> 00:07:16,500
 ¡No lloren!
 
-98
+99
 00:07:19,360 --> 00:07:22,220
 ¡Les diré a todos los de la aldea...
 
-99
+100
 00:07:22,220 --> 00:07:26,100
 ...que hay muchos gyojin de buen corazón!
 
-100
+101
 00:07:29,140 --> 00:07:32,000
 ¡Muchas gracias a todos!
 
-101
+102
 00:07:32,000 --> 00:07:33,380
 ¡Adiós!
 
-102
+103
 00:07:40,420 --> 00:07:42,980
 ¡Cuídate mucho!
 
-103
+104
 00:08:13,770 --> 00:08:18,780
 En cuanto crezca, esa niña será 
 igual que los demás humanos.
 
-104
+105
 00:08:18,780 --> 00:08:21,460
 ¡¿Qué dices, bastardo?!
 
-105
+106
 00:08:21,460 --> 00:08:22,780
 Jinbe.
 
-106
+107
 00:08:23,520 --> 00:08:25,220
 Arlong, tú...
 
-107
+108
 00:08:25,220 --> 00:08:27,150
 Hermano Jinbe,
 
-108
+109
 00:08:28,060 --> 00:08:30,980
 has cambiado mucho en estos tres años.
 
-109
+110
 00:08:30,980 --> 00:08:31,940
 ¿Qué?
 
-110
+111
 00:08:31,940 --> 00:08:33,460
 Piénsalo bien.
 
-111
+112
 00:08:33,460 --> 00:08:39,220
 ¿De qué sirve que una sola humana transmita al pueblo que los gyojin somos buenos?
 
-112
+113
 00:08:39,220 --> 00:08:44,720
 Pasará lo mismo que con Otohime, sus palabras entrarán por un oído y saldrán por el otro.
 
-113
+114
 00:09:38,420 --> 00:09:42,700
 Soy el Contraalmirante Strawberry,
  del Cuartel General de la Marina.
 
-114
+115
 00:09:42,700 --> 00:09:48,820
 Recibimos un aviso de una isla cercana, según el cual vendrían a esta aldea.
 
-115
+116
 00:09:48,820 --> 00:09:55,330
 Los aldeanos del lugar que acabas de visitar saben que va a haber un alboroto aquí,
 
-116
+117
 00:09:55,330 --> 00:09:57,140
 pero harán oídos sordos.
 
-117
+118
 00:09:57,670 --> 00:10:03,420
 A cambio, no denunciaremos el regreso de esa niña que pertenece a los Tenryuubito.
 
-118
+119
 00:10:03,420 --> 00:10:07,460
 ¡Capitán de los Piratas del Sol, Fisher Tiger!
 
-119
+120
 00:10:08,060 --> 00:10:10,320
 Se te acusa de dos delitos.
 
-120
+121
 00:10:10,320 --> 00:10:12,620
 Ya los conoces.
 
-121
+122
 00:10:12,620 --> 00:10:15,400
 Agresión y fuga.
 
-122
+123
 00:10:27,850 --> 00:10:30,060
 ¿Qué han sido esos disparos?
 
-123
+124
 00:10:30,060 --> 00:10:32,590
 ¡Parecen provenir de la
  dirección que tomó el jefe!
 
-124
+125
 00:10:32,590 --> 00:10:34,570
 Podría estarle pasando algo al jefe.
 
-125
+126
 00:10:34,570 --> 00:10:37,460
 ¡Oigan, miren hacia el mar!
 
-126
+127
 00:10:39,130 --> 00:10:41,500
 ¡La marina nos ha rodeado-chuu!
 
-127
+128
 00:10:41,500 --> 00:10:43,220
 ¿Qué hace la Marina aquí?
 
-128
+129
 00:10:43,220 --> 00:10:45,300
 ¡Nos pusieron una trampa!
 
-129
+130
 00:10:45,300 --> 00:10:48,580
 ¡Esa niña fue una carnada puesta por la Marina!
 
-130
+131
 00:10:48,580 --> 00:10:53,860
 ¡Quiere decir que el hermano Ti y todos nosotros hemos caído en su trampa!
 
-131
+132
 00:10:53,860 --> 00:10:57,140
 ¡Miren! ¡Así son los humanos!
 
-132
+133
 00:11:08,810 --> 00:11:10,350
 ¡Maldita Marina!
 
-133
+134
 00:11:11,320 --> 00:11:14,820
 ¡Jefe! ¡El Jefe Ti corre peligro!
 
-134
+135
 00:11:14,820 --> 00:11:15,700
 ¡Arlong!
 
-135
+136
 00:11:15,700 --> 00:11:16,570
 ¿Eh?
 
-136
+137
 00:11:16,570 --> 00:11:20,290
 ¡Encárgate de esto, nosotros
  iremos a ayudar al jefe!
 
-137
+138
 00:11:20,290 --> 00:11:22,580
 ¡Claro, hermano Jinbe!
 
-138
+139
 00:11:22,580 --> 00:11:26,780
 ¡Será mejor que traigas al hermano mayor a salvo, o te las tendrás que ver conmigo!
 
-139
+140
 00:11:26,780 --> 00:11:29,410
 ¡Por supuesto que lo haré! ¡Vamos!
-
-140
-00:11:29,410 --> 00:11:30,700
-¡Sí!
 
 141
 00:11:29,410 --> 00:11:30,700
@@ -656,1221 +657,1198 @@ Chicos, perdónenme.
 ¡Jefe!
 
 161
-00:12:42,500 --> 00:12:44,380
-¡Jefe!
-
-162
 00:12:45,030 --> 00:12:47,060
 ¡¿Tú eres el responsable?!
 
-163
+162
 00:12:47,060 --> 00:12:52,140
 ¡Es por el bien de la justicia, 
 por el exterminio de los Piratas del Sol!
 
-164
+163
 00:12:53,340 --> 00:12:55,780
 ¡Malditos marinos!
 
-165
+164
 00:12:56,090 --> 00:12:57,980
 ¡También tomaré tu cabeza!
 
-166
+165
 00:12:57,980 --> 00:13:00,300
 ¡Tómala si puedes!
 
+166
+00:13:19,780 --> 00:13:21,380
+¡Jefe!
+
 167
-00:13:19,780 --> 00:13:21,380
-¡Jefe!
-
-168
-00:13:19,780 --> 00:13:21,380
-¡Jefe!
-
-169
 00:13:21,380 --> 00:13:24,060
 ¡¿Te niegas a aceptar una transfusión de sangre?!
 
-170
+168
 00:13:24,060 --> 00:13:27,180
 ¡Jefe, ¿qué tonterías dices?!
 
-171
+169
 00:13:27,180 --> 00:13:29,100
 ¡Has perdido mucha sangre!
 
-172
+170
 00:13:29,100 --> 00:13:31,700
 ¡Tenemos que hacerte una 
 transfusión o no sobrevivirás!
 
-173
+171
 00:13:31,700 --> 00:13:37,540
 ¡Tu grupo sanguíneo es muy raro y en la tripulación nadie tiene el mismo!
 
-174
+172
 00:13:37,540 --> 00:13:42,730
 ¡Pero... la sangre que hay en
  este barco de la Marina...
 
-175
+173
 00:13:43,890 --> 00:13:46,400
 ...es sangre... humana, ¿verdad?!
 
-176
+174
 00:13:47,190 --> 00:13:48,580
 ¡Así es!
 
-177
+175
 00:13:48,580 --> 00:13:51,700
 ¡Pero por las venas de los humanos corre la misma sangre que la nuestra!
 
-178
+176
 00:13:51,700 --> 00:13:55,180
 ¡Su sangre es útil! ¡Sobrevivirías!
 
-179
+177
 00:13:57,660 --> 00:13:59,620
 Te haré la transfusión...
 
-180
+178
 00:13:59,620 --> 00:14:01,100
 ¡No lo hagas!
 
-181
+179
 00:14:02,340 --> 00:14:05,260
 ¡No quiero vivir con esa sangre en mis venas!
 
-182
+180
 00:14:07,810 --> 00:14:10,060
 ¡Es sangre sucia!
 
-183
+181
 00:14:10,900 --> 00:14:15,620
 ¡La sangre de aquellos que nos
  han pisoteado durante toda la vida!
 
-184
+182
 00:14:15,620 --> 00:14:17,740
 Jefe...
 
-185
+183
 00:14:17,740 --> 00:14:21,860
 ¡Me niego a estar en deuda 
 con ellos! ¡No quiero su lástima!
 
-186
+184
 00:14:21,860 --> 00:14:25,100
 ¡Jamás me doblegaré ante los humanos!
 
-187
+185
 00:14:27,500 --> 00:14:29,100
 ¡Hermano mayor!
 
-188
+186
 00:14:29,100 --> 00:14:31,580
 ¡¿Pasó algo entre los humanos y tú?!
 
-189
+187
 00:14:37,220 --> 00:14:40,980
 No quería... decirles esto.
 
-190
+188
 00:14:41,750 --> 00:14:45,300
 En mi... último viaje...
 
-191
+189
 00:14:46,500 --> 00:14:48,870
 Esta vez sí que fue un viaje largo.
 
-192
+190
 00:14:48,870 --> 00:14:50,810
 Sí, me han pasado muchas cosas.
 
-193
+191
 00:14:52,340 --> 00:14:53,580
 Dime...
 
-194
+192
 00:14:53,580 --> 00:14:57,420
 ¿Qué has visto en este viaje para convencerte?
 
-195
+193
 00:15:00,680 --> 00:15:02,220
 Humanos.
 
-196
+194
 00:15:05,380 --> 00:15:07,490
 ¡Al poco tiempo de partir,
 
-197
+195
 00:15:08,950 --> 00:15:11,020
 me apresaron!
 
-198
+196
 00:15:11,720 --> 00:15:14,500
 Estuve un tiempo en Mary Geoise.
 
-199
+197
 00:15:18,150 --> 00:15:19,510
 ¡Fui...
 
-200
+198
 00:15:20,750 --> 00:15:22,460
 ...un esclavo!
 
-201
+199
 00:15:22,460 --> 00:15:24,260
 ¡¿Qué?!
 
-202
+200
 00:15:27,500 --> 00:15:29,300
 Jefe...
 
-203
+201
 00:15:30,470 --> 00:15:35,900
 Y lo que vi ahí fue la locura de los humanos.
 
-204
+202
 00:15:35,900 --> 00:15:38,820
 Con un soplo de vida logré escapar,
 
-205
+203
 00:15:39,900 --> 00:15:44,220
 pero no podía dejar a su suerte
  a los otros esclavos.
 
-206
+204
 00:15:47,440 --> 00:15:48,980
 Escúchenme bien.
 
-207
+205
 00:15:48,980 --> 00:15:51,770
 Yo he vivido como he querido...
 
-208
+206
 00:15:52,810 --> 00:15:58,950
 ...y al final he sido un gran
  estorbo para la Reina Otohime.
 
-209
+207
 00:16:00,340 --> 00:16:03,460
 Pero ella... tiene razón.
 
-210
+208
 00:16:04,060 --> 00:16:07,700
 ¡Todos prefieren la paz!
 
-211
+209
 00:16:09,450 --> 00:16:14,180
 Pero los que de verdad pueden cambiar la isla...
 
-212
+210
 00:16:15,140 --> 00:16:20,100
 ...son quienes, como Koala, no saben nada de nada, la próxima generación.
 
-213
+211
 00:16:24,920 --> 00:16:27,140
 ¡Por eso les suplico...
 
-214
+212
 00:16:27,140 --> 00:16:30,980
 ...que no le digan nada a la gente de la isla!
 
-215
+213
 00:16:30,980 --> 00:16:36,800
 Que no sepan lo que realmente ha ocurrido, no centren su ira en los humanos.
 
-216
+214
 00:16:36,800 --> 00:16:38,140
 Pero, hermano mayor...
 
-217
+215
 00:16:38,140 --> 00:16:39,390
 ¡Arlong!
 
-218
+216
 00:16:43,340 --> 00:16:49,220
 En este mundo, hay montones
  de humanos de buen corazón.
 
-219
+217
 00:16:49,220 --> 00:16:51,540
 Eso lo sabemos todos.
 
-220
+218
 00:16:51,540 --> 00:16:59,940
 ¡Por eso, ¿no les parece injusto que quienes
  mueren lo hagan dejando el odio como legado?!
 
-221
+219
 00:17:01,300 --> 00:17:03,970
 ¡Racionalmente soy muy consciente de ello,
 
-222
+220
 00:17:03,970 --> 00:17:07,280
 pero el demonio que llevo dentro...
 
-223
+221
 00:17:08,610 --> 00:17:10,250
 ...me impide verlo con claridad!
 
-224
+222
 00:17:11,340 --> 00:17:15,540
 ¡Mi cuerpo rechaza esa sangre!
 
-225
+223
 00:17:15,540 --> 00:17:17,360
 ¡Yo no soy capaz...
 
-226
+224
 00:17:20,400 --> 00:17:23,900
 ...de hacer las paces ni de querer a los humanos!
 
-227
+225
 00:17:25,540 --> 00:17:29,310
 ¡Jefe, no digas eso! ¡Tienes 
 que sobrevivir, por favor!
 
-228
+226
 00:17:29,310 --> 00:17:32,660
 ¡Por favor, aún puedes sobrevivir!
 
-229
+227
 00:17:32,660 --> 00:17:38,480
 ¡Jefe! ¡Da igual lo que te pasara, lo importante es que liberaste a los esclavos,
 
-230
+228
 00:17:38,480 --> 00:17:41,180
 te debemos la libertad!
 
-231
+229
 00:17:41,180 --> 00:17:45,860
 ¡Eres el héroe de la Isla Gyojin,
  llevaste a cabo una gran hazaña!
 
-232
+230
 00:17:46,560 --> 00:17:47,940
 Me alegro mucho.
 
-233
+231
 00:17:49,860 --> 00:17:51,420
 Aún te falta.
 
-234
+232
 00:17:51,420 --> 00:17:52,260
 ¡¿Qué?!
 
-235
+233
 00:17:52,260 --> 00:17:55,220
 Tus movimientos son muy suaves.
 
-236
+234
 00:17:55,220 --> 00:17:57,700
 Con un puño así, no podrás proteger a nadie.
 
-237
+235
 00:17:58,340 --> 00:17:59,460
 ¡¿Proteger?!
 
-238
+236
 00:18:01,180 --> 00:18:01,980
 ¡Hermano!
 
-239
+237
 00:18:01,980 --> 00:18:07,980
 ¡Si no hay nadie que quiera luchar, a partir de ahora, yo seré el jefe del Distrito Gyojin!
 
-240
+238
 00:18:07,980 --> 00:18:10,060
 ¡Yo soy Tiger!
 
-241
+239
 00:18:10,060 --> 00:18:13,180
 ¡Ahora que soy su líder, pueden quedarse tranquilos!
 
-242
+240
 00:18:13,180 --> 00:18:15,940
 ¡Sus vidas son mi vida!
 
-243
+241
 00:18:18,060 --> 00:18:21,370
 ¡Protegeré a los que quieran estar a mi lado!
 
-244
+242
 00:18:28,000 --> 00:18:36,300
 ¡Jefe!
 
-245
+243
 00:18:44,540 --> 00:18:50,190
 ¡Jefe!
 
-246
-00:18:44,540 --> 00:18:50,190
-¡Jefe!
-
-247
+244
 00:18:53,560 --> 00:18:57,860
 ¡Nunca los perdonaré!
 
-248
+245
 00:19:09,020 --> 00:19:12,580
 ¡Prepárense, desgraciados!
 
-249
+246
 00:19:12,580 --> 00:19:14,700
 Eres ese gyojin...
 
-250
+247
 00:19:22,500 --> 00:19:24,580
 Qué ruidoso.
 
-251
+248
 00:19:33,980 --> 00:19:36,620
 ¿Así que tú eres Arlong?
 
-252
+249
 00:19:36,990 --> 00:19:39,860
 ¿A qué has venido hasta aquí?
 
-253
+250
 00:19:39,860 --> 00:19:41,660
 Te atreviste a regresar...
 
-254
+251
 00:19:47,100 --> 00:19:53,100
 VICEALMIRANTE -
 
-255
+252
 00:19:47,100 --> 00:19:53,100
 BORSALINO (FUTURO ALMIRANTE KIZARU)
 
-256
+253
 00:19:50,550 --> 00:19:53,100
 Tienes valor.
 
-257
+254
 00:19:53,100 --> 00:19:57,420
 ¡Vine a matar a todos los humanos 
 que vendieron al hermano Ti!
 
-258
+255
 00:19:57,420 --> 00:19:59,580
 ¡También iré a la isla que 
 les entregó la información!
 
-259
+256
 00:20:00,200 --> 00:20:02,740
 ¿Esta es tu venganza?
 
-260
+257
 00:20:02,740 --> 00:20:05,860
 ¡Así es! ¡Fisher Tiger ha muerto!
 
-261
+258
 00:20:05,860 --> 00:20:09,020
 ¡Ustedes, seres inferiores, lo han matado!
 
-262
+259
 00:20:09,020 --> 00:20:12,060
 Oh, ¿de verdad? ¿Está muerto?
 
-263
+260
 00:20:12,740 --> 00:20:17,630
 Bueno, pero tú vas a venir conmigo.
 
-264
+261
 00:20:33,140 --> 00:20:35,940
 ¡Si no se hubiera negado, estaría vivo!
 
-265
+262
 00:20:35,940 --> 00:20:40,060
 ¡Si hubiéramos tenido sangre de gyojin, 
 Fisher Tiger no habría muerto!
 
-266
+263
 00:20:40,060 --> 00:20:44,880
 ¡Todo es culpa suya, humanos!
 
-267
+264
 00:20:46,750 --> 00:20:49,420
 "Los humanos le negaron la transfusión sanguínea".
 
-268
+265
 00:20:49,420 --> 00:20:53,780
 "Fisher Tiger, el Capitán de
  los Piratas del Sol, ha fallecido".
 
-269
+266
 00:20:53,780 --> 00:20:56,660
 No es que sea del todo erróneo.
 
-270
+267
 00:20:57,910 --> 00:21:01,660
 Desde luego, la causa fueron los humanos.
 
-271
+268
 00:21:01,660 --> 00:21:05,100
 Arlong le mintió a la Marina.
 
-272
+269
 00:21:05,100 --> 00:21:07,700
 La verdad es mucho más dura.
 
-273
+270
 00:21:08,190 --> 00:21:15,330
 El héroe Tiger se sintió traicionado por los humanos y ese odio hizo que se negara a recibir la transfusión.
 
-274
+271
 00:21:15,330 --> 00:21:17,770
 Sin mencionar su pasado como esclavo.
 
-275
+272
 00:21:17,770 --> 00:21:22,010
 Si el mundo se enterara de eso, 
 podría dañar el prestigio del jefe.
 
-276
+273
 00:21:22,820 --> 00:21:25,280
 Arlong nunca lo contaría.
 
-277
+274
 00:21:31,380 --> 00:21:33,550
 ¡Capitán Jinbe!
 
-278
+275
 00:21:33,550 --> 00:21:35,180
 ¡Barco enemigo a la vista!
 
-279
+276
 00:21:35,180 --> 00:21:39,100
 ¡El jefe falleció, así que no hay vuelta atrás!
 
-280
+277
 00:21:40,500 --> 00:21:42,740
 ¡Prepárense para la batalla!
 
-281
+278
 00:21:42,740 --> 00:21:45,300
 ¡No maten a nadie!
 
-282
+279
 00:21:45,300 --> 00:21:48,530
 ¡Sí!
 
-283
-00:21:45,300 --> 00:21:48,530
-¡Sí!
-
-284
+280
 00:22:02,780 --> 00:22:06,460
 ISLA GYOJIN - PALACIO RYUGU
 
-285
+281
 00:22:04,000 --> 00:22:06,460
 "Pensé que ustedes...
 
-286
+282
 00:22:06,460 --> 00:22:10,860
 ...merecían saber la verdad y,
  por eso, me he decidido a escribirles".
 
-287
+283
 00:22:10,860 --> 00:22:15,640
 "Capitán de los Piratas del Sol, Jinbe".
 
-288
+284
 00:22:16,630 --> 00:22:18,780
 Ya lo he decidido.
 
-289
+285
 00:22:18,780 --> 00:22:23,560
 Así que Tiger no tuvo más remedio que escoger esa forma de vida-yamon.
 
-290
+286
 00:22:24,510 --> 00:22:29,260
 Ahora comprendo esos gritos desde su interior.
 
-291
+287
 00:22:42,060 --> 00:22:46,370
 ¡No te preocupes por mí! ¡No perderé!
 
-292
+288
 00:22:47,140 --> 00:22:49,620
 ¡Debemos vivir donde los rayos 
 del sol nos toquen directamente!
 
-293
+289
 00:22:49,620 --> 00:22:52,740
 ¡Llegará el día en el que podamos
  convivir con los humanos!
 
-294
+290
 00:22:52,740 --> 00:22:56,270
 ¡Firma! ¡Sólo tienes que firmar aquí!
 
-295
+291
 00:22:56,270 --> 00:22:59,620
 ¡No! ¡No puedo, Otohime-sama!
 
-296
+292
 00:22:59,620 --> 00:23:05,000
 ¡Los humanos abandonaron a Tiger,
  quien salvó a todos los esclavos...
 
-297
+293
 00:23:05,000 --> 00:23:07,390
 ...sin discriminar a ninguno!
 
-298
+294
 00:23:07,390 --> 00:23:09,140
 ¡¿Cómo vamos a convivir con esa gente?!
 
-299
+295
 00:23:12,540 --> 00:23:16,220
 Hoy no me ha firmado nadie.
 
-300
+296
 00:23:17,450 --> 00:23:19,060
 ¡Madre!
 
-301
-00:23:17,450 --> 00:23:19,060
-¡Madre!
-
-302
+297
 00:23:19,060 --> 00:23:20,450
 ¡Mis niños!
 
-303
+298
 00:23:23,490 --> 00:23:26,280
 Madre, ¿estás bien?
 
-304
+299
 00:23:26,280 --> 00:23:29,230
 ¿Estás bien? ¿Estás bien?
 
-305
+300
 00:23:29,230 --> 00:23:31,620
 Se te ve muy cansada.
 
-306
+301
 00:23:31,620 --> 00:23:35,390
 Ah, mi oasis de paz.
 
-307
+302
 00:23:36,990 --> 00:23:38,780
 ¡Pero estoy bien!
 
-308
+303
 00:23:39,810 --> 00:23:41,180
 Madre.
 
-309
+304
 00:23:41,180 --> 00:23:42,980
 ¡Madre!
 
-310
-00:23:41,180 --> 00:23:42,980
-¡Madre!
-
-311
+305
 00:23:42,980 --> 00:23:45,660
 Se los prometo...
 
-312
+306
 00:23:45,660 --> 00:23:48,900
 ...por su futuro.
 
-313
+307
 00:24:09,670 --> 00:24:11,090
 ¡Resistan!
 
-314
+308
 00:24:11,090 --> 00:24:12,790
 ¿Otra vez piratas?
 
-315
+309
 00:24:13,390 --> 00:24:14,880
 Ayúdenme.
 
-316
+310
 00:24:14,880 --> 00:24:16,180
 ¡Por supuesto que los ayudaremos!
 
-317
+311
 00:24:16,180 --> 00:24:18,780
 ¡Los llevaremos a la isla!
 
-318
+312
 00:24:22,980 --> 00:24:26,940
 De este lugar les hablé ayer, 
 es un sitio donde hay muchos árboles.
 
-319
+313
 00:24:26,940 --> 00:24:27,770
 Se llama bosque.
 
-320
+314
 00:24:27,770 --> 00:24:30,380
 ¿Bosque? ¿Como el Bosque Marino?
 
-321
+315
 00:24:33,560 --> 00:24:35,370
 ¡Esperen!
 
-322
+316
 00:24:36,670 --> 00:24:38,660
 ¡Sólo les tomará un segundo!
 
-323
+317
 00:24:44,640 --> 00:24:46,180
 Reina Otohime.
 
-324
+318
 00:24:47,100 --> 00:24:49,580
 ¡Oh! ¡Son ustedes!
 
-325
+319
 00:24:49,580 --> 00:24:52,820
 Son los que me dieron sus firmas, ¿verdad?
 
-326
+320
 00:24:52,820 --> 00:24:54,910
 Venimos a pedirle algo.
 
-327
+321
 00:24:54,910 --> 00:24:57,660
 ¿Cuántas firmas ha conseguido?
 
-328
+322
 00:24:58,000 --> 00:25:00,520
 Pues llevo más de cinco años recolectando firmas,
 
-329
+323
 00:25:00,520 --> 00:25:02,700
 y hay diez por hoja.
 
-330
+324
 00:25:02,700 --> 00:25:05,100
 Tengo unas cien hojas,
 
-331
+325
 00:25:05,100 --> 00:25:08,450
 así que son unos mil
  ciudadanos los que me apoyan.
 
-332
+326
 00:25:08,450 --> 00:25:14,660
 La población de la Isla Gyojin es de cinco millones de habitantes y, sinceramente, esperaba más...
 
-333
+327
 00:25:16,300 --> 00:25:19,460
 Bueno, en cuanto a nuestra petición...
 
-334
+328
 00:25:19,460 --> 00:25:25,970
 Queremos borrar nuestras firmas,
  lo que serían cincuenta de sus hojas.
 
-335
+329
 00:25:26,740 --> 00:25:28,980
 ¿No se enteró?
 
-336
+330
 00:25:28,980 --> 00:25:31,940
 El otro día, vinieron piratas a la isla.
 
-337
+331
 00:25:33,770 --> 00:25:38,560
 Saquearon la ciudad y huyeron de la isla.
 
-338
+332
 00:25:46,420 --> 00:25:47,980
 Otohime-sama...
 
-339
+333
 00:25:47,980 --> 00:25:48,980
 ¡Otohime-sama!
 
-340
+334
 00:25:48,980 --> 00:25:50,780
 Oh, niños.
 
-341
+335
 00:25:50,780 --> 00:25:53,140
 ¿Quieren que les cuente cosas 
 del mundo de la superficie?
 
-342
+336
 00:25:57,060 --> 00:26:01,060
 Bueno, el papel que entregó...
 
-343
+337
 00:26:01,060 --> 00:26:02,040
 Mi mamá lo quiere.
 
-344
+338
 00:26:03,300 --> 00:26:04,660
 ¡Mi mamá lo quiere!
 
-345
+339
 00:26:09,770 --> 00:26:10,860
 ¿Qué pasa?
 
-346
+340
 00:26:10,860 --> 00:26:14,700
 Como usted es la reina, 
 escuché lo que quería decirme...
 
-347
+341
 00:26:17,300 --> 00:26:20,180
 Pero el problema son los humanos.
 
-348
+342
 00:26:22,170 --> 00:26:24,300
 No necesitamos...
 
-349
+343
 00:26:24,300 --> 00:26:26,820
 ...más discursos.
 
-350
+344
 00:26:28,850 --> 00:26:30,300
 Ya nos hartaron.
 
-351
+345
 00:26:38,950 --> 00:26:42,380
 ¡Bienvenida a casa, madre!
 
-352
+346
 00:26:43,780 --> 00:26:45,940
 ¡Hoy también me esforcé al máximo!
 
-353
+347
 00:26:45,940 --> 00:26:48,000
 ¡Hola, mis ángeles!
 
-354
+348
 00:26:48,000 --> 00:26:52,530
 Hoy trabajé un montón, 
 ¿podrían dejarme sola, por favor?
 
-355
+349
 00:27:15,340 --> 00:27:20,740
 ¡Son un montón de mentirosos!
 
-356
+350
 00:27:21,460 --> 00:27:23,260
 ¡O-Otohime-sama!
 
-357
+351
 00:27:23,260 --> 00:27:26,650
 ¡Ahora mismo está hablando para todo el país!
 
-358
+352
 00:27:29,260 --> 00:27:34,580
 ¡Cállate, Ministro de Izquierda!
 
-359
+353
 00:27:37,700 --> 00:27:40,140
 ¡¿Ha estado bebiendo?!
 
-360
+354
 00:27:40,140 --> 00:27:45,110
 ¡Cállate! ¡No he bebido ni una gota!
 
-361
+355
 00:27:45,110 --> 00:27:47,010
 ¡Pero si está ebria!
 
-362
+356
 00:27:47,010 --> 00:27:48,550
 ¿Cómo?
 
-363
+357
 00:27:48,550 --> 00:27:50,620
 ¿Es la voz de la Reina Otohime?
 
-364
+358
 00:27:50,620 --> 00:27:53,940
 ¡Escúchenme todos!
 
-365
+359
 00:27:53,940 --> 00:27:56,420
 Nosotros...
 
-366
+360
 00:27:56,420 --> 00:28:01,220
 ...no sólo podemos vivir debajo del mar.
 
-367
+361
 00:28:02,050 --> 00:28:06,470
 Y de entre este ancho y extenso mar,
 
-368
+362
 00:28:06,470 --> 00:28:10,740
 lo hacemos en las profundidades más oscuras.
 
-369
+363
 00:28:13,390 --> 00:28:19,350
 ¿Por qué hemos escogido este lugar?
 
-370
+364
 00:28:20,010 --> 00:28:21,300
 Otohime-sama...
 
-371
+365
 00:28:22,310 --> 00:28:29,840
 ¿Acaso no es porque hay un
  poco de luz y aire para vivir?
 
-372
+366
 00:28:29,840 --> 00:28:34,150
 ¡En la superficie, hay muchísima más luz!
 
-373
+367
 00:28:34,150 --> 00:28:37,330
 ¡Un cielo que está altísimo!
 
-374
+368
 00:28:43,540 --> 00:28:51,700
 ¿Por qué van los niños a escondidas
  a ver el Sabaody Park?
 
-375
+369
 00:28:52,480 --> 00:28:54,340
 ¡En el mundo...
 
-376
+370
 00:28:55,550 --> 00:28:59,470
 ...hay sitios aún más maravillosos!
 
-377
+371
 00:29:00,550 --> 00:29:05,540
 Deberíamos poder ir a todos esos lugares.
 
-378
+372
 00:29:06,730 --> 00:29:15,110
 ¡¿No será que se están poniendo excusas y 
 convenciéndose para no luchar por un sueño?!
 
-379
+373
 00:29:16,180 --> 00:29:18,620
 ¡Tengan el valor...
 
-380
+374
 00:29:19,300 --> 00:29:23,280
 ...para pelear por aquello que desean!
 
-381
+375
 00:29:25,420 --> 00:29:26,980
 Majestad.
 
-382
+376
 00:29:26,980 --> 00:29:30,690
 ¡Si el impedimento son los humanos,
 
-383
+377
 00:29:30,690 --> 00:29:33,740
 entonces, superemos juntos ese obstáculo!
 
-384
+378
 00:29:33,740 --> 00:29:39,820
 ¡Porque sólo así, tal vez consigamos que el futuro de los niños de la Isla Gyojin...
 
-385
+379
 00:29:39,820 --> 00:29:41,200
 ...cambie...
 
-386
+380
 00:29:42,980 --> 00:29:45,540
 ...aunque sea un poco!
 
-387
+381
 00:29:58,420 --> 00:30:01,260
 CUARTEL GENERAL DE LA MARINA
 
-388
+382
 00:30:01,260 --> 00:30:04,300
 ¿Ya sanaron tus heridas?
 
-389
+383
 00:30:04,300 --> 00:30:06,260
 Estuve en serios problemas.
 
-390
+384
 00:30:06,260 --> 00:30:09,740
 Nunca pensé que acabarías en ese estado.
 
-391
+385
 00:30:09,740 --> 00:30:16,580
 Arlong, el que ha sido encarcelado
  en Impel Down, no es gran cosa.
 
-392
+386
 00:30:16,580 --> 00:30:20,100
 El que sí es violento es Jinbe.
 
-393
+387
 00:30:24,500 --> 00:30:28,020
 Su fuerza es descomunal.
 
-394
+388
 00:30:28,700 --> 00:30:31,660
 Es demasiado peligroso dejarlo libre.
 
-395
+389
 00:30:34,740 --> 00:30:37,540
 Justicia Incierta
 
-396
+390
 00:30:38,940 --> 00:30:42,220
 ¡¿Que yo sea un Ouka Shichibukai?!
 
-397
+391
 00:30:42,220 --> 00:30:46,060
 ¡Claro, ahora tienes una recompensa 
 de 250 millones de bellies!
 
-398
+392
 00:30:46,060 --> 00:30:52,800
 ¡Habrán pensado que acabarás 
 siendo una amenaza para el Gobierno!
 
-399
+393
 00:30:52,800 --> 00:30:56,270
 ¡Eso significa que se van dando 
 cuenta de lo que valemos!
 
-400
+394
 00:30:56,270 --> 00:31:03,660
 ¡Rechaza su oferta y vuélvete 
 aún más infame, Capitán Jinbe-chuu!
 
-401
+395
 00:31:03,660 --> 00:31:07,820
 No, creo que voy a aceptar su oferta.
 
-402
+396
 00:31:07,820 --> 00:31:09,660
 ¡¿Eh?!
 
-403
-00:31:07,820 --> 00:31:09,660
-¡¿Eh?!
-
-404
+397
 00:31:09,660 --> 00:31:15,340
 Me enteré sobre la oferta que te 
 hicieron para unirte a los Shichibukai.
 
-405
+398
 00:31:15,340 --> 00:31:19,380
 Si me uno a los Shichibukai, todos los que no quieren vivir como piratas...
 
-406
+399
 00:31:19,380 --> 00:31:27,300
 ...como Aladine y muchos más, gozarían de amnistía y podrían vivir aquí sin que los persiguiera la Marina.
 
-407
+400
 00:31:27,300 --> 00:31:35,660
 Y, lo que es más importante, si yo acepto este título,
  tal vez los gyojin nos acerquemos más al Gobierno Mundial.
 
-408
+401
 00:31:35,660 --> 00:31:39,110
 En parte también pienso en la reina,
  a la que tantos disgustos hemos causado.
 
-409
+402
 00:31:39,110 --> 00:31:41,450
 Sí, y te lo agradezco.
 
-410
+403
 00:31:42,070 --> 00:31:45,860
 Aunque ahora está un poco indispuesta.
 
-411
+404
 00:31:47,670 --> 00:31:50,580
 El difunto Tiger así lo habría querido.
 
-412
+405
 00:31:50,580 --> 00:31:55,100
 ¡Considero que es un paso adelante para lograr la liberación de los gyojin!
 
-413
+406
 00:31:55,100 --> 00:32:01,150
 Por desgracia, en cuanto a
  la amnistía, albergo ciertas dudas...
 
-414
+407
 00:32:06,880 --> 00:32:08,790
 ¡Arlong-san!
 
-415
+408
 00:32:08,790 --> 00:32:09,580
 ¡Arlong!
 
-416
+409
 00:32:14,180 --> 00:32:18,740
 ¡Arlong-san ha regresado! ¡Está de vuelta!
 
-417
+410
 00:32:23,310 --> 00:32:27,100
 ¡Si hay algo que quieras decir, 
 será mejor que lo hagas ahora, Arlong!
 
-418
+411
 00:32:27,100 --> 00:32:30,750
 Un Shichibukai, ¿eh, hermano Jinbe?
 
-419
+412
 00:32:30,750 --> 00:32:35,300
 ¿Entonces te vas a convertir en un perro faldero del gobierno de los humanos?
 
-420
+413
 00:32:35,300 --> 00:32:38,550
 ¡¿Has olvidado las palabras del hermano Ti?!
 
-421
+414
 00:32:39,190 --> 00:32:42,180
 ¡Resulta estúpido vivir en
  el odio y la ira permanentes!
 
-422
+415
 00:32:43,360 --> 00:32:45,730
 Te volviste blando, hermano.
 
-423
+416
 00:32:45,730 --> 00:32:50,300
 ¡Supongo que seguirte sirviendo 
 sería la opción más segura,
 
-424
+417
 00:32:50,300 --> 00:32:52,020
 pero no lo haré!
 
-425
+418
 00:32:52,740 --> 00:32:55,470
 ¡El hermano mayor ha muerto!
 
-426
+419
 00:32:56,130 --> 00:32:59,180
 Volveré a formar a los Piratas de Arlong.
 
-427
+420
 00:32:59,180 --> 00:33:02,300
 Y me llevo a los míos.
 
-428
+421
 00:33:03,620 --> 00:33:04,980
 Nos iremos de inmediato.
 
-429
+422
 00:33:05,500 --> 00:33:08,500
 Arlong, tú...
 
-430
+423
 00:33:08,500 --> 00:33:10,990
 Si quieres detenerme,
 
-431
+424
 00:33:10,990 --> 00:33:12,820
 ya sabes.
 
-432
+425
 00:33:13,590 --> 00:33:16,460
 ¡Mátame aquí y ahora!
 
-433
+426
 00:33:16,460 --> 00:33:17,900
 ¡A-Arlong-san!
 
-434
+427
 00:33:18,700 --> 00:33:22,420
 ¡Si no lo haces, soy libre!
 
-435
+428
 00:33:22,420 --> 00:33:27,580
 ¡Yo representaré la ira de los gyojin!
 
-436
+429
 00:33:28,340 --> 00:33:31,260
 ¡Deja de decir estupideces!
 
-437
+430
 00:33:35,460 --> 00:33:36,540
 ¡Jinbe-san!
 
-438
+431
 00:33:38,560 --> 00:33:40,360
 ¡Muy bien!
 
-439
+432
 00:33:55,440 --> 00:33:56,840
 ¡Jinbe-san!
 
-440
+433
 00:33:58,020 --> 00:34:00,380
 ¡Ya basta!
 
-441
+434
 00:34:06,860 --> 00:34:09,980
 No te sientas culpable, Jinbe.
 
-442
+435
 00:34:13,340 --> 00:34:21,420
 Es uno de los tuyos, te criaste
  con él en el Distrito Gyojin.
 
-443
+436
 00:34:21,420 --> 00:34:20,850
 No podías matarlo, no es tu estilo.
 
-444
+437
 00:34:21,430 --> 00:34:25,820
 ¡¿Por qué no puede ese idiota entender...
 
-445
+438
 00:34:25,820 --> 00:34:28,420
 ...el verdadero deseo del hermano Ti?!
 
-446
+439
 00:34:29,260 --> 00:34:35,100
 Si actúa con violencia, da igual dónde sea, 
 ya que la Marina acudirá tarde o temprano.
 
-447
+440
 00:34:35,100 --> 00:34:40,580
 Si se da el caso, seremos nosotros mismos quienes vayamos a detenerlos.
 
-448
+441
 00:34:40,580 --> 00:34:42,140
 Sin duda.
 
-449
+442
 00:34:43,630 --> 00:34:49,900
 Vaya, vaya, nosotros también 
 volveremos a lo nuestro, Capitán Jinbe.
 
-450
+443
 00:34:49,900 --> 00:34:51,620
 Macro, tú...
 
-451
+444
 00:34:51,620 --> 00:34:53,180
 Deja que haga lo que quiera.
 
-452
+445
 00:34:53,430 --> 00:34:55,660
 ¡Nos vemos!
 
-453
+446
 00:34:59,780 --> 00:35:02,740
 ¡Rayos, ese bastardo se ha ensañado!
 
-454
+447
 00:35:04,580 --> 00:35:06,490
 Hachi, vámonos.
+
+448
+00:35:53,740 --> 00:35:58,620
+¡El Tenryuubito náufrago!
+Una bala que sella el futuro

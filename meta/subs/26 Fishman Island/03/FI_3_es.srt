@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,101 +146,106 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
+00:02:30,040 --> 00:02:38,640
+¡Llegando a la Isla Gyojin!
+¡La Bahía de las Sirenas y Gyoverly Hills!
+
+38
 00:02:38,640 --> 00:02:41,510
 ¡¿Qué?!
 
-38
+39
 00:02:47,740 --> 00:02:48,690
 ¡Sí!
 
-39
+40
 00:06:42,650 --> 00:06:43,810
 ¡Fue fácil!
 
-40
+41
 00:06:50,540 --> 00:06:52,520
 ¡Surume! ¡Surume!
 
-41
+42
 00:07:07,840 --> 00:07:12,260
 DIEZ MIL METROS DE PROFUNDIDAD
 
-42
+43
 00:07:07,840 --> 00:07:12,260
 FONDO DE LA FOSA MARINA
 
-43
+44
 00:08:24,160 --> 00:08:29,830
 ¡Por fin llegamos al paraíso con el que 
 he soñado desde que era pequeño!
 
-44
+45
 00:08:31,920 --> 00:08:35,570
 ¡Sirenas! ¡Sirenas!
 
-45
+46
 00:09:01,750 --> 00:09:04,820
 No quiero morir sin hacer realidad mi sueño.
 
-46
+47
 00:10:58,300 --> 00:11:03,100
 COMBATIENTE DE LOS NUEVOS PIRATAS GYOJIN
 
-47
+48
 00:10:58,300 --> 00:11:03,100
 HAMMOND
 
-48
+49
 00:11:03,280 --> 00:11:08,880
 SICARIO DE LOS NUEVOS PIRATAS GYOJIN
 
-49
+50
 00:11:03,280 --> 00:11:08,880
 HYOUZOU
 
-50
+51
 00:12:47,220 --> 00:12:49,040
 CUARTO DE COMBUSTIBLE
 
-51
+52
 00:14:18,120 --> 00:14:21,070
 ¡Qué corriente tan fuerte!
 
-52
+53
 00:14:31,530 --> 00:14:33,620
 ¡Tenemos cuatro usuarios de las habilidades!
 
-53
+54
 00:14:43,330 --> 00:14:48,770
 ¡Extiendan sus manos!
 
-54
+55
 00:14:49,070 --> 00:14:54,440
 ¡Nami-san! ¡Robin-chan!
 
-55
+56
 00:14:54,970 --> 00:14:59,340
 ¡Demonios! ¡No puedo salvar a nadie!
 
-56
+57
 00:15:44,160 --> 00:15:46,550
 ISLA GYOJIN - LECHO MARINO
 
-57
+58
 00:16:33,530 --> 00:16:38,170
 ¡Estás aún más bonita que 
 la última vez que te vi, Camie-chwan!
 
-58
+59
 00:19:08,350 --> 00:19:09,470
 ¡Resistió!
 
-59
+60
 00:19:40,120 --> 00:19:42,950
 ASCENSOR
 TORTUGA
 DE MAR
 
-60
+61
 00:23:48,740 --> 00:23:50,370
 DISTRITO GYOJIN [NOAH]

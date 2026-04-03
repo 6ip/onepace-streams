@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -160,109 +160,114 @@ Gastémoslos en fiestas alocadas,
 derrochándolo todo...
 
 41
-00:04:05,510 --> 00:04:07,100
-Mola
+00:02:29,870 --> 00:02:38,620
+¡El Jardín de las Maravillas de Perona y
+la carga de los Generales Zombis!
 
 42
 00:04:05,510 --> 00:04:07,100
-Shi
+Mola
 
 43
 00:04:05,510 --> 00:04:07,100
-Chibukai
+Shi
 
 44
 00:04:05,510 --> 00:04:07,100
-Fansub!
+Chibukai
 
 45
 00:04:05,510 --> 00:04:07,100
-Técnica Bélica de la Novia.
+Fansub!
 
 46
-00:04:07,100 --> 00:04:08,810
-Mola
+00:04:05,510 --> 00:04:07,100
+Técnica Bélica de la Novia.
 
 47
 00:04:07,100 --> 00:04:08,810
-Shi
+Mola
 
 48
 00:04:07,100 --> 00:04:08,810
-Chibukai
+Shi
 
 49
 00:04:07,100 --> 00:04:08,810
-Fansub!
+Chibukai
 
 50
 00:04:07,100 --> 00:04:08,810
-Beso de compromiso.
+Fansub!
 
 51
-00:04:54,440 --> 00:04:58,110
-Mola
+00:04:07,100 --> 00:04:08,810
+Beso de compromiso.
 
 52
 00:04:54,440 --> 00:04:58,110
-Shi
+Mola
 
 53
 00:04:54,440 --> 00:04:58,110
-Chibukai
+Shi
 
 54
 00:04:54,440 --> 00:04:58,110
-Fansub!
+Chibukai
 
 55
 00:04:54,440 --> 00:04:58,110
-Hermanos Arriesgados.
+Fansub!
 
 56
+00:04:54,440 --> 00:04:58,110
+Hermanos Arriesgados.
+
+57
 00:07:54,790 --> 00:07:58,430
 Recuerdo bien lo que dijo ese zombi.
 
-57
+58
 00:08:00,520 --> 00:08:01,750
 ¡Lo siento,
 
-58
+59
 00:08:01,750 --> 00:08:04,420
 aquí no se encuentra el tesoro!
 
-59
+60
 00:08:13,510 --> 00:08:15,160
 ¡Pero tienes los ojos extraños!
 
-60
+61
 00:08:57,970 --> 00:08:58,620
 ¡No puede ser!
 
-61
+62
 00:09:01,020 --> 00:09:04,310
 ¡Bienvenidos al Jardín de las Maravillas de Perona-sama!
 
-62
+63
 00:09:04,310 --> 00:09:07,940
 ¡Cómo es posible que aparezcan más criaturas extrañas!
 
-63
+64
 00:17:26,310 --> 00:17:29,980
 Mola
 
-64
+65
 00:17:26,310 --> 00:17:29,980
 Shi
 
-65
+66
 00:17:26,310 --> 00:17:29,980
 Chibukai
 
-66
+67
 00:17:26,310 --> 00:17:29,980
 Fansub!
 
-67
+68
 00:17:26,310 --> 00:17:29,980
 Mono Araña.

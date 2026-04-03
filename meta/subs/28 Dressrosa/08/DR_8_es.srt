@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -140,287 +140,288 @@ El poder que se esconde en nuestros lazos...
 ¡Somos los mejores! ¡Sigamos avanzando!
 
 36
+00:02:30,030 --> 00:02:38,980
+Lucha violenta en el Bloque C
+¡Lucy y Ucy!
+
+37
 00:02:39,260 --> 00:02:41,740
 AGUAS CERCA DE DRESSROSA
 
-37
+38
 00:02:41,830 --> 00:02:44,810
 THOUSAND SUNNY
 
-38
+39
 00:02:53,490 --> 00:02:54,560
 ¡Nadie dijo eso!
 
-39
+40
 00:03:30,460 --> 00:03:32,070
 ¡Sí, Giolla-sama!
 
-40
+41
 00:04:01,050 --> 00:04:03,650
 ¡Detente!
 
-41
+42
 00:05:18,500 --> 00:05:21,480
 DRESSROSA
 
-42
+43
 00:05:22,020 --> 00:05:25,340
 COLISEO CORRIDA
 
-43
+44
 00:06:16,090 --> 00:06:18,050
 Rebecca,
 
-44
+45
 00:06:18,050 --> 00:06:19,460
 lo siento.
 
-45
+46
 00:06:31,890 --> 00:06:36,320
 DENTRO DEL COLISEO
 
-46
+47
 00:06:31,890 --> 00:06:36,320
 SALA DE ESPERA DE LA FAMILIA DONQUIXOTE
 
-47
+48
 00:07:02,420 --> 00:07:06,580
 ¡Oye, Bellamy! ¡Ánimo!
 
-48
+49
 00:07:57,890 --> 00:08:01,770
 ¡Ya han sido derrotados muchos participantes!
 
-49
+50
 00:08:01,770 --> 00:08:05,000
 ¡El Bloque C está que arde!
 
-50
+51
 00:08:05,000 --> 00:08:09,130
 ¡Sin embargo, aun en este
  intenso choque de titanes,
 
-51
+52
 00:08:09,130 --> 00:08:14,140
 hay un enorme peleador que
  literalmente sobresale del resto!
 
-52
+53
 00:08:24,050 --> 00:08:28,350
 ¡Un guerrero de la nueva generación
  de la famosa tierra de gigantes, Elbaf!
 
-53
+54
 00:08:28,350 --> 00:08:31,510
 ¡El pirata mercenario!
 
-54
+55
 00:08:31,510 --> 00:08:36,390
 ¡Su nombre es Hajrudin!
 
-55
+56
 00:09:00,720 --> 00:09:04,210
 ¡Sus puñetazos son tan poderosos 
 como buques de guerra!
 
-56
+57
 00:09:04,210 --> 00:09:07,310
 ¡¿Habrá alguien que pueda hacerle frente?!
 
-57
+58
 00:09:07,860 --> 00:09:10,210
 ¡Oh, y mientras tanto,
 
-58
+59
 00:09:10,690 --> 00:09:16,030
 un toro solitario corre desbocado por todo el ring sin temer a sus rivales!
 
-59
+60
 00:09:17,100 --> 00:09:20,680
 ¡En este mismo coliseo, se enfrascó en una pelea contra prisioneros condenados a muerte...
 
-60
+61
 00:09:20,680 --> 00:09:24,140
 ...y envió a veinte de ellos directos 
 al infierno, es un toro asesino!
 
-61
+62
 00:09:25,140 --> 00:09:31,310
 ¡El Dios de la Muerte del coliseo o, como 
 todos lo conocemos, Brutal Bull!
 
-62
+63
 00:09:31,310 --> 00:09:35,860
 ¡Y este hombre se las ingenió 
 para domar al Dios de la Muerte!
 
-63
+64
 00:09:35,860 --> 00:09:41,710
 ¡El hombre que apareció de la nada y que se convirtió en el favorito del público por su fuerza y habilidad,
 
-64
+65
 00:09:41,710 --> 00:09:43,450
 Lucy!
 
-65
+66
 00:09:48,740 --> 00:09:52,620
 ¡También soy un gran fanático de él!
 
-66
+67
 00:09:52,620 --> 00:09:55,010
 ¡Gatz-san, debes ser imparcial!
 
-67
+68
 00:10:57,900 --> 00:11:01,400
 ¡Qué decepción!
 
-68
+69
 00:11:07,610 --> 00:11:10,350
 ¡Ambos fueron demasiado débiles...
 
-69
+70
 00:11:10,350 --> 00:11:14,440
 ...para el novato de Elbaf!
 
-70
+71
 00:11:16,750 --> 00:11:21,950
 El Dios de la Muerte del coliseo
  y el misterioso gladiador, Lucy...
 
-71
+72
 00:11:23,190 --> 00:11:25,250
 ...fueron incapaces de derrotar...
 
-72
+73
 00:11:27,290 --> 00:11:28,970
 ¿Eh?
 
-73
+74
 00:12:04,840 --> 00:12:09,520
 ¡Ha derribado al gigante!
 
-74
+75
 00:12:23,390 --> 00:12:28,660
 ¡Con tantos giros inesperados, 
 la emoción nunca se acaba!
 
-75
+76
 00:12:28,660 --> 00:12:35,910
 ¡Lucy, la inesperada estrella del Bloque C, 
 acaba de realizar otra hazaña increíble!
 
-76
+77
 00:12:45,910 --> 00:12:50,010
 ¡¿Su fuerza no tiene límites?!
 
-77
+78
 00:13:21,610 --> 00:13:26,730
 ¡¿Hajrudin salió volando del ring?!
 
-78
+79
 00:13:26,730 --> 00:13:29,990
 ¡¿Qué pudo haber sucedido?!
 
-79
+80
 00:13:38,830 --> 00:13:42,330
 ¡No, no fue una explosión!
 
-80
+81
 00:13:42,330 --> 00:13:47,260
 ¡Hajrudin ha sido descalificado, pero el
  Bloque C está lleno de guerreros increíbles!
 
-81
+82
 00:13:49,660 --> 00:13:54,750
 ¡Los extraños hombros de este hombre le permitieron lanzar un golpe con la fuerza de una explosión!
 
-82
+83
 00:13:57,030 --> 00:13:59,850
 ¡El responsable de haber lanzado a Hajrudin...
 
-83
+84
 00:13:58,650 --> 00:14:05,070
 BOXEADOR DE NIVEL XXX
 
-84
+85
 00:13:58,650 --> 00:14:05,070
 IDEO, EL CAÑÓN DESTRUCTOR
 
-85
+86
 00:13:59,850 --> 00:14:05,390
 ...es el dos veces campeón del Torneo
  de Pelea Central del Nuevo Mundo,
 
-86
+87
 00:14:05,390 --> 00:14:09,290
 Ideo, el Cañón Destructor!
 
-87
+88
 00:14:09,290 --> 00:14:13,600
 ¡Pero no es la única batalla interesante!
 
-88
+89
 00:14:13,600 --> 00:14:16,570
 ¡Ahora me gustaría que dirigieran su atención...
 
-89
+90
 00:14:16,570 --> 00:14:21,290
 ...a los miembros de la Pandilla 
 del País de Ka del distante este!
 
-90
+91
 00:14:21,290 --> 00:14:24,080
 ¡Esos hombres son extraordinarios!
 
-91
+92
 00:14:38,220 --> 00:14:40,080
 ¡Y ahí está!
 
-92
+93
 00:14:40,080 --> 00:14:44,350
 ¡La onda de choque Hasshoken,
  que es imposible de bloquear!
 
-93
+94
 00:14:41,230 --> 00:14:47,530
 PANDILLA DEL PAÍS DE KA
 
-94
+95
 00:14:41,230 --> 00:14:47,530
 DECIMOTERCER LÍDER DE LA ARMADA HAPPOU - SAI
 
-95
+96
 00:14:44,350 --> 00:14:47,540
 ¡No hay escudo ni armadura que
  pueda bloquear sus ataques!
 
-96
+97
 00:14:47,540 --> 00:14:50,610
 Mola
 
-97
+98
 00:14:47,540 --> 00:14:50,610
 Shi
 
-98
+99
 00:14:47,540 --> 00:14:50,610
 Chibukai
 
-99
+100
 00:14:47,540 --> 00:14:50,610
 Fansub!
 
-100
+101
 00:14:47,540 --> 00:14:50,610
 Hasshoken: Puño de ocho impactos.
 
-101
+102
 00:14:55,650 --> 00:15:01,340
 ¡Estamos presenciando el poder de la Armada Happou y sus siglos de historia!
-
-102
-00:15:01,340 --> 00:15:04,900
-¡Son incomparables!
 
 103
 00:14:58,430 --> 00:15:04,900
@@ -431,176 +432,180 @@ PANDILLA DEL PAÍS DE KA
 SUBLÍDER DE LA ARMADA HAPPOU - BOO
 
 105
-00:15:21,410 --> 00:15:24,000
-PANDILLA DEL REINO DE KA
+00:15:01,340 --> 00:15:04,900
+¡Son incomparables!
 
 106
 00:15:21,410 --> 00:15:24,000
-EXDUODÉCIMO LÍDER DE LA ARMADA HAPPOU (RETIRADO)
+PANDILLA DEL REINO DE KA
 
 107
+00:15:21,410 --> 00:15:24,000
+EXDUODÉCIMO LÍDER DE LA ARMADA HAPPOU (RETIRADO)
+
+108
 00:15:32,020 --> 00:15:34,350
 DON CHINJAO
 
-108
+109
 00:15:59,610 --> 00:16:03,110
 ¡El hombre que permanece de pie a pesar del ataque de Chinjao y que ahora está recogiendo las armas...
 
-109
+110
 00:16:03,110 --> 00:16:10,010
 ...es la incógnita de este 
 torneo, Jean, el Bandido!
 
-110
+111
 00:16:04,520 --> 00:16:10,010
 CAZARRECOMPENSAS - JEAN ANGO
 
-111
+112
 00:16:04,520 --> 00:16:10,010
 JEAN, EL BANDIDO
 
-112
+113
 00:16:10,020 --> 00:16:17,430
 ¡Un cazarrecompensas que se ha ganado el rencor 
 de los piratas más importantes del Nuevo Mundo!
 
-113
+114
 00:17:16,390 --> 00:17:23,070
 CIUDADANOS DEL PAÍS MOGARO
 
-114
+115
 00:17:16,390 --> 00:17:23,070
 ASESINOS - HERMANOS FUNK
 
-115
+116
 00:17:35,110 --> 00:17:39,870
 HERMANO MAYOR
 
-116
+117
 00:17:35,110 --> 00:17:39,870
 KELLY FUNK
 
-117
+118
 00:17:40,910 --> 00:17:45,740
 BOBBY FUNK
 
-118
+119
 00:17:40,910 --> 00:17:45,740
 HERMANO MENOR
 
-119
+120
 00:17:45,740 --> 00:17:48,670
 ¡Los Hermanos Funk son bastante crueles!
 
-120
+121
 00:17:48,670 --> 00:17:54,510
 ¡Dicen que todos los del bajo mundo
  conocen a este par de asesinos!
 
-121
+122
 00:17:54,510 --> 00:18:00,090
 ¡Es más, dicen que son tan poderosos que pueden matar a piratas con recompensas de más de 100 millones!
 
-122
+123
 00:18:01,050 --> 00:18:03,760
 Veo a unos tipos desagradables por allá.
 
-123
+124
 00:18:20,560 --> 00:18:23,010
 ¡Pero qué debilucho!
 
-124
+125
 00:18:23,010 --> 00:18:26,460
 ¿O acaso la Armada Happou es demasiado fuerte?
 
-125
+126
 00:18:26,460 --> 00:18:28,990
 Qué decepción...
 
-126
+127
 00:18:28,990 --> 00:18:31,810
 ¡¿Cómo es que tienes esa reputación, imbécil?!
 
-127
+128
 00:18:31,810 --> 00:18:34,160
 ¡Insignificante debilucho!
 
-128
+129
 00:18:32,830 --> 00:18:34,160
 ¡Gatz-san!
 
-129
+130
 00:18:51,080 --> 00:18:53,590
 ¡¿Le ha dado dolor de espalda?!
 
-130
+131
 00:18:53,590 --> 00:18:56,210
 ¡Esos hermanos son patéticos!
 
-131
+132
 00:18:56,210 --> 00:18:58,650
 ¿El hacha se ha roto?
 
-132
+133
 00:18:58,650 --> 00:19:02,630
 ¡Pero si estaba imbuida con Haki de Armadura!
 
-133
+134
 00:19:02,630 --> 00:19:05,890
 ¡Pero ¿cómo es que su cuerpo es tan duro?!
 
-134
+135
 00:19:26,040 --> 00:19:29,160
 ¡¿Qué está pasando?!
 
-135
+136
 00:19:33,820 --> 00:19:37,210
 ¡Están golpeando a Boo del País de Ka!
 
-136
+137
 00:19:37,210 --> 00:19:39,210
 ¡Hace tiempo que quedó inconsciente!
 
-137
+138
 00:19:39,210 --> 00:19:43,730
 ¡¿Y el que lo está golpeando es 
 el cobarde hermano menor, Bobby?!
 
-138
+139
 00:19:43,730 --> 00:19:47,080
 ¡¿O es su débil hermano mayor, Kelly?!
 
-139
+140
 00:19:47,080 --> 00:19:49,380
 ¡Parece que es el hermano mayor!
 
-140
+141
 00:19:49,380 --> 00:19:52,250
 ¡Se hizo más grande y se ve
 completamente diferente!
 
-141
+142
 00:20:04,710 --> 00:20:06,030
 ¿Qué es esto?
 
-142
+143
 00:20:06,030 --> 00:20:08,990
 ¡Lucy ha perdido su casco!
 
-143
+144
 00:20:28,930 --> 00:20:33,560
 ¡Parece que Don Chinjao ha centrado 
 su atención en un solo objetivo!
 
-144
+145
 00:20:38,980 --> 00:20:44,360
 ¡Quedan alrededor de cuarenta
  hombres en el Bloque C!
 
-145
+146
 00:20:46,120 --> 00:20:49,900
 ¡Varios contendientes poderosos continúan de pie!
 
-146
+147
 00:20:50,750 --> 00:20:54,340
 ¡¿Quién será el vencedor?!

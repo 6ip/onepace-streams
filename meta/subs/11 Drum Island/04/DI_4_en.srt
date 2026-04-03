@@ -1,728 +1,728 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:49,960 --> 00:01:53,300
+Enter: Tony Tony Chopper
+
+3
 00:01:56,740 --> 00:01:58,300
 Aren't you...
 
-3
+4
 00:01:59,340 --> 00:02:00,510
 peeking the wrong way?
 
-4
+5
 00:02:07,590 --> 00:02:11,040
 It's too late now...
 and you're still clearly visible.
 
-5
+6
 00:02:11,040 --> 00:02:12,360
 Just what are you?
 
-6
+7
 00:02:12,360 --> 00:02:15,320
 Sh-Shut up, human!
 
-7
+8
 00:02:15,920 --> 00:02:17,490
 Also, how's your fever?
 
-8
+9
 00:02:17,490 --> 00:02:18,490
 It talked!
 
-9
+10
 00:02:27,650 --> 00:02:29,340
 Be quiet, Chopper!
 
-10
+11
 00:02:38,860 --> 00:02:41,810
 Your fever seems to have
 come down a little, girl.
 
-11
+12
 00:02:43,310 --> 00:02:44,020
 Are ya happy?
 
-12
+13
 00:02:49,520 --> 00:02:50,730
 Who are you?
 
-13
+14
 00:02:51,870 --> 00:02:54,950
 Hmm, 38.2 degrees...
 Not too shabby.
 
-14
+15
 00:02:55,700 --> 00:03:00,700
 I'm a doctor. Dr. Kureha.
 Call me Doctorine.
 
-15
+16
 00:03:01,170 --> 00:03:03,660
 Doctor... Then I'm in the...
 
-16
+17
 00:03:04,210 --> 00:03:05,750
 The secret to my youth?
 
-17
+18
 00:03:06,250 --> 00:03:07,750
 No, I didn't ask that.
 
-18
+19
 00:03:13,360 --> 00:03:16,390
 You're right. You're in the castle
 on top of the mountain.
 
-19
+20
 00:03:16,390 --> 00:03:19,550
 Then there were two others
 with me, right?
 
-20
+21
 00:03:19,550 --> 00:03:22,690
 Yeah, they're sound asleep
 in the next room.
 
-21
+22
 00:03:22,690 --> 00:03:24,350
 What tough guys...
 
-22
+23
 00:03:26,100 --> 00:03:27,020
 Look here.
 
-23
+24
 00:03:28,230 --> 00:03:30,310
 This was the cause.
 
-24
+25
 00:03:30,310 --> 00:03:31,900
 What... is this?
 
-25
+26
 00:03:32,790 --> 00:03:35,330
 You were bitten by a kestia.
 
-26
+27
 00:03:35,330 --> 00:03:39,120
 It's a poisonous tick that's only found
 in hot and humid jungles.
 
-27
+28
 00:03:39,120 --> 00:03:42,810
 Once you're bitten by it,
 bacteria enter your body
 
-28
+29
 00:03:42,810 --> 00:03:46,250
 and incubate for five days,
 all while causing you pain.
 
-29
+30
 00:03:47,680 --> 00:03:53,150
 Fevers run above 40 degrees with
 coinfection, myocarditis, arteritis, and cerebritis.
 
-30
+31
 00:03:53,150 --> 00:03:57,760
 Judging by the spread of infection,
 I'd say you were bitten three days ago.
 
-31
+32
 00:03:58,740 --> 00:04:01,650
 You must have suffered
 through immense pain.
 
-32
+33
 00:04:01,650 --> 00:04:04,960
 But, even without treatment,
 it'd have ended after two more days.
 
-33
+34
 00:04:04,960 --> 00:04:06,720
 After two more days...?
 
-34
+35
 00:04:06,730 --> 00:04:10,690
 Yeah. After two more days,
 you would have died.
 
-35
+36
 00:04:10,690 --> 00:04:11,640
 What?!
 
-36
+37
 00:04:13,340 --> 00:04:15,090
 It's called the "five-day disease."
 
-37
+38
 00:04:15,090 --> 00:04:18,850
 I had heard that kestias
 died out a century ago,
 
-38
+39
 00:04:18,850 --> 00:04:21,830
 so it's good that I kept
 the antibiotic just in case.
 
-39
+40
 00:04:21,830 --> 00:04:24,170
 Where did you guys come from?
 
-40
+41
 00:04:24,170 --> 00:04:28,500
 Were you walking around on a prehistoric
 jungle island with your belly exposed?
 
-41
+42
 00:04:30,070 --> 00:04:32,880
 But that's just silly...
 
-42
+43
 00:04:31,750 --> 00:04:32,880
 Ah...
 
-43
+44
 00:04:35,250 --> 00:04:37,420
 That ring a bell?
 
-44
+45
 00:04:37,420 --> 00:04:39,430
 What a crazy girl...
 
-45
+46
 00:04:39,850 --> 00:04:40,930
 Now...
 
-46
+47
 00:04:41,650 --> 00:04:45,790
 Stay in bed. Your treatment
 hasn't finished yet.
 
-47
+48
 00:04:45,790 --> 00:04:49,330
 Thanks for your help.
 But my fever is much better already.
 
-48
+49
 00:04:49,330 --> 00:04:51,230
 I can heal on my own now, right?
 
-49
+50
 00:04:51,230 --> 00:04:53,400
 You're too optimistic.
 
-50
+51
 00:04:53,400 --> 00:04:58,030
 This disease normally takes
 a minimum of ten days to fully treat.
 
-51
+52
 00:04:58,030 --> 00:05:03,200
 Unless, of course, you want it to
 flare up again and kill you this time.
 
-52
+53
 00:05:03,200 --> 00:05:07,100
 Even with my medicine,
 you'll have to rest at least three days.
 
-53
+54
 00:05:07,100 --> 00:05:07,790
 What...?
 
-54
+55
 00:05:07,790 --> 00:05:09,500
 I can't stay here for three days!
 
-55
+56
 00:05:10,160 --> 00:05:11,830
 Vivi must reach Alabasta soon!
 
-56
+57
 00:05:14,670 --> 00:05:18,360
 A patient only leaves
 my care one of two ways:
 
-57
+58
 00:05:19,800 --> 00:05:21,250
 cured or dead.
 
-58
+59
 00:05:21,250 --> 00:05:22,640
 You're not leaving here.
 
-59
+60
 00:05:50,480 --> 00:05:53,060
 He climbed this mountain
 with his bare hands?!
 
-60
+61
 00:05:53,060 --> 00:05:55,790
 This 5,000-meter-high Drum Rock?!
 
-61
+62
 00:05:57,760 --> 00:06:00,160
 Nearly his entire body is frostbitten.
 
-62
+63
 00:06:00,160 --> 00:06:02,380
 What was he thinking
 dressing like this?
 
-63
+64
 00:06:02,380 --> 00:06:04,470
 Throw him in a warm bath immediately.
 
-64
+65
 00:06:05,170 --> 00:06:10,050
 This guy's bleeding badly.
 Six broken ribs and a spinal fissure.
 
-65
+66
 00:06:10,050 --> 00:06:11,430
 Can I operate on him?
 
-66
+67
 00:06:13,060 --> 00:06:18,030
 This girl's the most critical.
 She's barely alive.
 
-67
+68
 00:06:18,030 --> 00:06:22,360
 Chopper, ready some phenicol,
 cardiotonic, and tialcillin.
 
-68
+69
 00:06:22,360 --> 00:06:24,190
 Does she have an infection?
 
-69
+70
 00:06:24,190 --> 00:06:27,030
 Yeah, and the pathogen
 isn't from this island.
 
-70
+71
 00:06:33,890 --> 00:06:37,850
 Don't worry. I'll make both that
 bleeding kid and this girl all better.
 
-71
+72
 00:06:37,850 --> 00:06:38,880
 You can relax.
 
-72
+73
 00:06:41,190 --> 00:06:43,380
 Th-They're my f-friends...!
 
-73
+74
 00:06:49,190 --> 00:06:51,920
 I get the picture. I'll help them.
 
-74
+75
 00:06:51,920 --> 00:06:53,890
 Chopper! Let's begin treatment!
 
-75
+76
 00:07:00,350 --> 00:07:02,860
 Th-They're my f-friends...!
 
-76
+77
 00:07:04,250 --> 00:07:05,600
 I'm...
 
-77
+78
 00:07:06,860 --> 00:07:09,080
 I'm hungry...
 
-78
+79
 00:07:13,770 --> 00:07:15,220
 Meat...
 
-79
+80
 00:07:19,500 --> 00:07:23,200
 Venison stew needs to be cooked
 in a pot for three hours,
 
-80
+81
 00:07:23,200 --> 00:07:25,380
 then the meat
 becomes properly tender.
 
-81
+82
 00:07:28,020 --> 00:07:30,140
 Venison...!
 
-82
+83
 00:07:39,100 --> 00:07:42,730
 Ahhhh! Help!
 
-83
+84
 00:07:44,720 --> 00:07:45,700
 Wait, meat!
 
-84
+85
 00:07:51,360 --> 00:07:53,490
 Wait, Luffy! I'll cook him for you!
 
-85
+86
 00:08:01,620 --> 00:08:02,860
 Nami?!
 
-86
+87
 00:08:02,860 --> 00:08:03,550
 Nami!
 
-87
+88
 00:08:03,890 --> 00:08:05,340
 You got better?
 
-88
+89
 00:08:05,340 --> 00:08:06,630
 Yeah, thanks.
 
-89
+90
 00:08:06,630 --> 00:08:10,140
 Okay, then! I'll make a nutritious
 venison dish for Nami!
 
-90
+91
 00:08:13,480 --> 00:08:16,310
 – Wait!
 – Wait!
 
-91
+92
 00:08:18,490 --> 00:08:21,620
 I'm surprised they can
 already move around.
 
-92
+93
 00:08:21,620 --> 00:08:25,190
 What's that talking stuffed deer
 with the blue nose?
 
-93
+94
 00:08:25,190 --> 00:08:26,780
 You're asking me what he is?
 
-94
+95
 00:08:26,780 --> 00:08:28,450
 Don't run away, meat!
 
-95
+96
 00:08:28,450 --> 00:08:31,460
 Wait, Luffy! I'm telling you
 not to eat it yet!
 
-96
+97
 00:08:34,740 --> 00:08:36,290
 Stop it, humans!
 
-97
+98
 00:08:36,290 --> 00:08:40,170
 His name is Chopper.
 He's just a reindeer with a blue nose.
 
-98
+99
 00:08:41,690 --> 00:08:43,630
 Reindeer don't talk.
 
-99
+100
 00:08:43,630 --> 00:08:45,630
 S-Stop it, you jerks!
 
-100
+101
 00:08:45,630 --> 00:08:49,090
 S-Stop it!
 
-101
+102
 00:08:46,320 --> 00:08:49,090
 He's a regular reindeer
 that just happened to...
 
-102
+103
 00:08:49,590 --> 00:08:51,090
 Just happened to...?
 
-103
+104
 00:08:54,310 --> 00:08:56,820
 I'm not food!
 
-104
+105
 00:08:59,460 --> 00:09:02,900
 ...eat the Human-Human Fruit.
 
-105
+106
 00:09:02,900 --> 00:09:04,360
 The Human-Human Fruit...
 
-106
+107
 00:09:04,930 --> 00:09:06,280
 One of the devil fruits...
 
-107
+108
 00:09:07,860 --> 00:09:13,790
 Yeah. He's become
 a reindeer with human abilities.
 
-108
+109
 00:09:14,450 --> 00:09:16,450
 Rats! Rats!
 
-109
+110
 00:09:17,070 --> 00:09:22,210
 And I taught him everything
 I know about medicine.
 
-110
+111
 00:09:25,630 --> 00:09:28,050
 Oh, it's already over?
 
-111
+112
 00:09:32,890 --> 00:09:34,970
 What a disappointing bunch.
 
-112
+113
 00:09:36,600 --> 00:09:38,390
 – What was that?!
 – Amazing...
 
-113
+114
 00:09:40,560 --> 00:09:41,770
 Amazing...
 
-114
+115
 00:09:42,730 --> 00:09:46,770
 All right! Good job, Zoro!
 Just as I instructed!
 
-115
+116
 00:09:48,900 --> 00:09:50,360
 Let's find Dalton!
 
-116
+117
 00:09:50,360 --> 00:09:51,360
 Yeah!
 
-117
+118
 00:09:53,740 --> 00:09:55,070
 Thank you!
 
-118
+119
 00:09:57,030 --> 00:09:58,990
 Hurry up! Dig everywhere!
 
-119
+120
 00:10:00,500 --> 00:10:03,670
 So, what's all this fuss about?
 
-120
+121
 00:10:03,670 --> 00:10:06,590
 I'll explain later! Let's help them!
 
-121
+122
 00:10:06,960 --> 00:10:09,550
 Dalton! Please be alive!
 
-122
+123
 00:10:20,060 --> 00:10:23,060
 Join my crew!
 Please, old lady!
 
-123
+124
 00:10:23,060 --> 00:10:25,020
 We need a doctor on our ship!
 
-124
+125
 00:10:25,020 --> 00:10:28,520
 Luffy! You said that's
 your name, right?
 
-125
+126
 00:10:28,520 --> 00:10:29,940
 Yeah, I did, old la–
 
-126
+127
 00:10:30,360 --> 00:10:33,400
 Watch... what you say!
 
-127
+128
 00:10:35,820 --> 00:10:40,040
 I'm still in my youthful 130s.
 
-128
+129
 00:10:40,040 --> 00:10:42,040
 Whoa. What an incredible old hag.
 
-129
+130
 00:10:44,420 --> 00:10:46,790
 Are you asking me to be a pirate?
 
-130
+131
 00:10:47,710 --> 00:10:51,800
 Don't be ridiculous!
 It'd be a waste of my glorious time.
 
-131
+132
 00:10:51,800 --> 00:10:54,260
 I'm not interested in the sea.
 
-132
+133
 00:10:55,050 --> 00:10:58,100
 Who cares? Let's go
 on an adventure, old lady!
 
-133
+134
 00:10:58,390 --> 00:11:02,060
 Hey now. I just told you
 to watch what you say, didn't I?
 
-134
+135
 00:11:02,890 --> 00:11:04,770
 So they're pirates...
 
-135
+136
 00:11:11,690 --> 00:11:14,530
 Wait, meat!
 
-136
+137
 00:11:12,740 --> 00:11:14,530
 Wait!
 
-137
+138
 00:11:17,740 --> 00:11:19,660
 Hold it, you brats!
 
-138
+139
 00:11:27,170 --> 00:11:28,630
 Wait!
 
-139
+140
 00:11:28,630 --> 00:11:32,210
 Hold on, Nami! I'll cook
 a nutritious reindeer dish!
 
-140
+141
 00:11:33,590 --> 00:11:37,340
 Before that, I'll eat you guys!
 
-141
+142
 00:11:37,720 --> 00:11:39,050
 – The old hag!
 – The old hag!
 
-142
+143
 00:11:39,050 --> 00:11:40,890
 Where the heck did she come from?!
 
-143
+144
 00:11:41,470 --> 00:11:41,720
 She's coming! She's coming!
 She's coming! She's coming!
 
-144
+145
 00:11:41,720 --> 00:11:42,010
 She's coming! She's coming!
 She's coming! She's coming!
 
-145
+146
 00:11:42,010 --> 00:11:42,310
 She's coming! She's coming!
 She's coming! She's coming!
 
-146
+147
 00:11:42,310 --> 00:11:43,470
 She's coming! She's coming!
 She's coming! She's coming!
 
-147
+148
 00:11:47,730 --> 00:11:51,270
 Forget the food. I just want
 some peace and quiet.
 
-148
+149
 00:11:57,490 --> 00:12:00,740
 Snow? Even though
 we're inside the castle...?
 
-149
+150
 00:12:01,450 --> 00:12:02,200
 So cold...!
 
-150
+151
 00:12:05,160 --> 00:12:07,830
 I'll close the door.
 
-151
+152
 00:12:06,160 --> 00:12:07,830
 Hey! Stay in bed!
 
-152
+153
 00:12:10,210 --> 00:12:12,210
 You still have a fever!
 
-153
+154
 00:12:12,210 --> 00:12:15,710
 I don't. It seems like
 it's pretty much gone.
 
-154
+155
 00:12:15,710 --> 00:12:17,220
 Looks like I lost them...
 
-155
+156
 00:12:17,220 --> 00:12:18,180
 Even so, no!
 
-156
+157
 00:12:18,930 --> 00:12:22,970
 Doctorine's medicine makes
 the fever go away quickly.
 
-157
+158
 00:12:22,970 --> 00:12:25,680
 But the kestia's bacteria
 still remain in your body.
 
-158
+159
 00:12:26,310 --> 00:12:29,400
 You need to have your
 antibiotic shot and stay in bed.
 
-159
+160
 00:12:30,650 --> 00:12:31,770
 Thank you.
 
-160
+161
 00:12:32,940 --> 00:12:35,320
 You've been taking care of me, right?
 
-161
+162
 00:12:35,820 --> 00:12:36,690
 Sh...
 
-162
+163
 00:12:38,070 --> 00:12:39,570
 Shut up!
 
-163
+164
 00:12:39,860 --> 00:12:43,330
 I don't wanna be thanked by a human!
 
-164
+165
 00:12:44,580 --> 00:12:47,450
 Don't mock me! You jerk!
 
-165
+166
 00:12:47,450 --> 00:12:49,000
 Don't be silly, you dummy!
-
-166
-00:12:50,080 --> 00:12:52,250
-Seriously, don't be so...
 
 167
 00:12:50,080 --> 00:12:52,250

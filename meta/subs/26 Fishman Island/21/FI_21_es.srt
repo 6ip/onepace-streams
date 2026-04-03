@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -742,65 +742,61 @@ Recuerda lo que ha pasado en estos dos años...
 ¡Sanji-kyun!
 
 184
-00:28:04,150 --> 00:28:06,500
-¡Sanji-kyun!
+00:28:15,470 --> 00:28:18,660
+Mola
 
 185
 00:28:15,470 --> 00:28:18,660
-Mola
+Shi
 
 186
 00:28:15,470 --> 00:28:18,660
-Shi
+Chibukai
 
 187
 00:28:15,470 --> 00:28:18,660
-Chibukai
+Fansub!
 
 188
 00:28:15,470 --> 00:28:18,660
-Fansub!
+Recuerdos del infierno.
 
 189
-00:28:15,470 --> 00:28:18,660
-Recuerdos del infierno.
+00:28:40,670 --> 00:28:46,180
+Mola
 
 190
 00:28:40,670 --> 00:28:46,180
-Mola
+Shi
 
 191
 00:28:40,670 --> 00:28:46,180
-Shi
+Chibukai
 
 192
 00:28:40,670 --> 00:28:46,180
-Chibukai
+Fansub!
 
 193
 00:28:40,670 --> 00:28:46,180
-Fansub!
-
-194
-00:28:40,670 --> 00:28:46,180
 Estilo de ocho espadas.
 
-195
+194
 00:28:48,270 --> 00:28:53,010
 Mola
 
-196
+195
 00:28:48,270 --> 00:28:53,010
 Shi
 
-197
+196
 00:28:48,270 --> 00:28:53,010
 Chibukai
 
-198
+197
 00:28:48,270 --> 00:28:53,010
 Fansub!
 
-199
+198
 00:28:48,270 --> 00:28:53,010
 Corte del demonio del purgatorio.

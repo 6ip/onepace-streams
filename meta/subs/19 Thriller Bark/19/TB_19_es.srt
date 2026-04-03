@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -120,97 +120,102 @@ Una moneda en el bolsillo, dime...
 ¡Estamos!
 
 31
+00:02:29,860 --> 00:02:34,280
+¡La mañana se acerca!
+¡El ataque final de los Sombrero de Paja!
+
+32
 00:07:14,560 --> 00:07:17,600
 ¡Como ordene!
 
-32
+33
 00:08:02,430 --> 00:08:03,540
 ¡Genial!
 
-33
+34
 00:08:03,540 --> 00:08:06,080
 ¡Terminada la reparación de emergencia de las tuberías!
 
-34
+35
 00:10:57,770 --> 00:10:59,330
 ¡Arriba!
 
-35
+36
 00:11:20,300 --> 00:11:24,580
 ¡Lo logró!
 
-36
+37
 00:13:36,310 --> 00:13:38,210
 ¡Moria!
 
-37
-00:16:12,870 --> 00:16:16,650
-Mola
-
 38
 00:16:12,870 --> 00:16:16,650
-Shi
+Mola
 
 39
 00:16:12,870 --> 00:16:16,650
-Chibukai
+Shi
 
 40
 00:16:12,870 --> 00:16:16,650
-Fansub!
+Chibukai
 
 41
 00:16:12,870 --> 00:16:16,650
-Asgard: Residencia Celestial de los dioses y héroes caídos en la mitología nórdica.
+Fansub!
 
 42
-00:22:33,530 --> 00:22:35,670
-Mola
+00:16:12,870 --> 00:16:16,650
+Asgard: Residencia Celestial de los dioses y héroes caídos en la mitología nórdica.
 
 43
 00:22:33,530 --> 00:22:35,670
-Shi
+Mola
 
 44
 00:22:33,530 --> 00:22:35,670
-Chibukai
+Shi
 
 45
 00:22:33,530 --> 00:22:35,670
-Fansub!
+Chibukai
 
 46
 00:22:33,530 --> 00:22:35,670
-Caja Negra.
+Fansub!
 
 47
+00:22:33,530 --> 00:22:35,670
+Caja Negra.
+
+48
 00:23:39,930 --> 00:23:41,670
 ¡Se levantó!
 
-48
+49
 00:25:26,910 --> 00:25:30,470
 ¡No dejaré que mi ejército escape!
 
-49
+50
 00:25:35,040 --> 00:25:36,830
 ¡Sombras!
 
-50
+51
 00:25:36,830 --> 00:25:41,230
 ¡Yo soy su amo!
 
-51
+52
 00:26:50,310 --> 00:26:51,660
 ¡Regresa!
 
-52
+53
 00:26:51,660 --> 00:26:53,360
 ¡Regresa!
 
-53
+54
 00:26:53,360 --> 00:26:55,290
 ¡Regresa!
 
-54
+55
 00:26:55,290 --> 00:26:58,320
 ¡Regresa!

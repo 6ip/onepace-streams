@@ -1,3232 +1,3235 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:18,590 --> 00:00:22,170
+Partons en voyage avant l'aube.
+
+3
+00:00:22,260 --> 00:00:26,690
+Pour voir nos lendemains inconnus.
+
+4
+00:00:26,970 --> 00:00:30,330
+Nous n'avons aucun regrets dans nos choix
+
+5
+00:00:30,630 --> 00:00:33,340
+(Oh je sais ce que je suis supposée faire).
+
+6
+00:00:33,510 --> 00:00:37,070
+Peu importe les épreuves qui nous attendent.
+
+7
+00:00:37,210 --> 00:00:41,700
+Rien ne peut arrêter mon cœur de battre.
+
+8
+00:00:41,810 --> 00:00:46,350
+Il n'y a qu'un seul endroit où aller.
+
+9
+00:00:46,580 --> 00:00:48,250
+(Volons vers la lumière !)
+
+10
+00:00:48,320 --> 00:00:52,000
+Je ne laisserai personne briser
+
+11
+00:00:52,160 --> 00:00:55,670
+Les liens créés au fil des batailles.
+
+12
+00:00:55,800 --> 00:00:58,470
+Quand je rouvrirai mon poing serré,
+
+13
+00:00:58,600 --> 00:01:01,710
+J'y trouverai de la force.
+
+14
+00:01:01,870 --> 00:01:04,130
+Allez, c'est parti.
+
+15
+00:01:04,270 --> 00:01:09,280
+Le nouveau monde appelle.
+
+16
+00:01:09,380 --> 00:01:11,670
+Regarde maintenant.
+
+17
+00:01:11,780 --> 00:01:18,020
+Peu importe le nombre de mers qui nous séparent.
+
+18
+00:01:18,080 --> 00:01:21,790
+Je me tiendrai toujours à tes côtés.
+
+19
+00:01:21,820 --> 00:01:25,460
+N'aie pas peur d'avancer.
+
+20
+00:01:25,960 --> 00:01:27,850
+N'oublie pas
+
+21
+00:01:27,920 --> 00:01:29,200
+Que nous combattons ensemble.
+
+22
+00:01:29,860 --> 00:01:37,120
+Je n'ai jamais souillé la mémoire.
+
+23
+00:01:37,540 --> 00:01:39,900
+De ce vaste ciel infini
+
+24
+00:01:40,010 --> 00:01:45,020
+que j'ai admiré ce jour-là.
+
+25
+00:01:45,040 --> 00:01:48,450
+Nous avons parcouru un long chemin.
+
+26
+00:01:48,650 --> 00:01:52,410
+Chacun avec notre engagement dans nos cœurs.
+
+27
+00:01:52,450 --> 00:01:54,990
+Il n'y a pas de doute.
+
+28
+00:01:55,050 --> 00:01:59,410
+Il y a des choses que l'on doit emporter avec nous.
+
+29
+00:01:59,560 --> 00:02:01,880
+Le soleil se lèvera et brillera.
+
+30
+00:02:02,030 --> 00:02:06,840
+De façon égale, même sur nos peines.
+
+31
+00:02:06,870 --> 00:02:09,240
+Je crois
+
+32
+00:02:09,340 --> 00:02:15,700
+au futur qui sera un jour une seule partie.
+
+33
+00:02:15,710 --> 00:02:19,300
+Allons le chercher ensemble.
+
+34
+00:02:19,380 --> 00:02:23,110
+Tu es unique.
+
+35
+00:02:23,580 --> 00:02:25,240
+N'oublie pas
+
+36
+00:02:25,540 --> 00:02:27,640
+Que nous combattons ensemble.
+
+37
 00:02:43,510 --> 00:02:45,280
 Nous voici à East Blue.
 
-3
+38
+00:02:44,740 --> 00:02:49,720
+East Blue : Sur un Pont Gigantesque
+
+39
 00:02:45,580 --> 00:02:49,720
 Robin a été libérée de l'esclavagisme
 par l'Armée Révolutionnaire.
 
-4
+40
 00:02:54,690 --> 00:02:57,060
 La Flamme de la Révolution.
 
-5
+41
 00:02:57,560 --> 00:02:59,950
 C'est ainsi que l'on vous surnomme.
 
-6
+42
 00:03:00,100 --> 00:03:03,430
 Cela fait plus de dix ans
 que nous vous cherchons sans relâche.
 
-7
+43
 00:03:04,100 --> 00:03:06,200
 Votre pays a défié le monde.
 
-8
+44
 00:03:06,450 --> 00:03:08,970
 Vous êtes l'unique survivante d'Ohara.
 
-9
+45
 00:03:10,220 --> 00:03:12,300
 Si jamais on parvenait à vous trouver,
 
-10
+46
 00:03:12,450 --> 00:03:16,610
 notre chef nous avait ordonné
 de vous soustraire au Gouvernement.
 
-11
+47
 00:03:18,080 --> 00:03:18,880
 Votre chef ?
 
-12
+48
 00:03:20,780 --> 00:03:24,520
 Le Commandant en chef
 de l'Armée Révolutionnaire, Dragon.
 
-13
+49
 00:03:25,380 --> 00:03:27,220
 Le père de Luffy ?
 
-14
+50
 00:03:29,020 --> 00:03:30,720
 Le monde est petit.
 
-15
+51
 00:03:32,760 --> 00:03:34,900
 Nous avons
 une demande à vous soumettre.
 
-16
+52
 00:03:35,090 --> 00:03:38,400
 Est-ce que vous consentiriez
 à rencontrer notre chef ?
 
-17
+53
 00:03:38,560 --> 00:03:40,030
 Nous vous mènerons à lui.
 
-18
+54
 00:03:40,030 --> 00:03:44,500
 Non merci.
 Je dois absolument me rendre ailleurs.
 
-19
+55
 00:03:44,750 --> 00:03:47,870
 De plus,
 je n'ai pas besoin de votre protection.
 
-20
+56
 00:03:49,370 --> 00:03:52,010
 J'ai des compagnons.
 
-21
+57
 00:03:52,300 --> 00:03:55,350
 Vous parlez
 des pirates au chapeau de paille ?
 
-22
+58
 00:03:55,480 --> 00:03:56,560
 Vous avez vu ?
 
-23
+59
 00:03:56,720 --> 00:04:00,850
 Luffy au chapeau de paille,
 le fils de Dragon, est dans le journal.
 
-24
+60
 00:04:00,850 --> 00:04:04,240
 Oui.
 Il avait disparu après la bataille,
 
-25
+61
 00:04:04,380 --> 00:04:06,800
 et il refait surface
 avec ce coup d'éclat.
 
-26
+62
 00:04:07,240 --> 00:04:10,500
 Il faut envoyer cet article à Nico Robin
 en vitesse.
 
-27
+63
 00:04:10,700 --> 00:04:12,600
 Ça devrait la rassurer.
 
-28
+64
 00:04:12,760 --> 00:04:16,240
 Elle ne doit pas avoir quitté le pont,
 pas encore.
 
-29
+65
 00:04:16,740 --> 00:04:20,640
 Nous allons traverser plusieurs ruines
 avant de finir la traversée.
 
-30
+66
 00:04:20,840 --> 00:04:25,730
 La population avançait avec les travaux,
 migrant régulièrement de place en place.
 
-31
+67
 00:04:25,880 --> 00:04:29,520
 Cette zone du chantier
 date d'il y a 300 ans.
 
-32
+68
 00:04:30,150 --> 00:04:32,320
 Pourquoi ce pont a-t-il vu le jour ?
 
-33
+69
 00:04:32,460 --> 00:04:35,700
 Ordre de la noblesse mondiale,
 des Dragons Célestes.
 
-34
+70
 00:04:35,850 --> 00:04:37,220
 Les Dragons Célestes ?
 
-35
+71
 00:04:37,400 --> 00:04:40,050
 Qu'il y ait une raison ou non,
 ça ne change rien !
 
-36
+72
 00:04:40,200 --> 00:04:44,000
 Bien trop de leurs "esclaves"
 ont été sacrifiés pour ça.
 
-37
+73
 00:04:45,630 --> 00:04:46,970
 Oh, merci.
 
-38
+74
 00:04:47,600 --> 00:04:48,870
 C'est pour vous.
 
-39
+75
 00:04:50,940 --> 00:04:52,100
 Luffy ?
 
-40
+76
 00:04:53,040 --> 00:04:55,170
 Ouf, il n'a rien.
 
-41
+77
 00:04:58,910 --> 00:05:00,220
 Qu'y a-t-il ?
 
-42
+78
 00:05:00,380 --> 00:05:02,810
 Vous avez lu
 quelque chose d'intéressant ?
 
-43
+79
 00:05:04,720 --> 00:05:05,650
 Oui.
 
-44
-00:05:26,970 --> 00:05:29,740
-Donc ça,
-c'est bien l'avis de Paille-boy ?
-
-45
-00:05:29,740 --> 00:05:31,080
-Ouais, c'est ça.
-
-46
-00:05:31,610 --> 00:05:33,910
-Et ça,
-c'est Zoro le chasseur de pirates.
-
-47
-00:05:33,910 --> 00:05:34,780
-Je m'en fiche !
-
-48
-00:05:34,780 --> 00:05:37,520
-Nami la chapardeuse.
-
-49
-00:05:39,500 --> 00:05:42,820
-Ça, c'est le Roi des snipers,
-Sniperking.
-
-50
-00:05:42,820 --> 00:05:43,820
-Ouais.
-
-51
-00:05:44,220 --> 00:05:46,360
-Et ça... c'est toi.
-
-52
-00:05:46,360 --> 00:05:46,930
-Sûrement pas !
-
-53
-00:05:46,930 --> 00:05:48,170
-Tu vois ?
-
-54
-00:05:48,330 --> 00:05:50,460
-Tu n'as pas d'avis !
-
-55
-00:05:50,460 --> 00:05:54,170
-T'es donc pas un de ses compagnons,
-arrête tes craques !
-
-56
-00:05:54,170 --> 00:05:56,420
-Je te dis que si !
-
-57
-00:05:56,570 --> 00:06:00,310
-Dis-moi ce qui est arrivé à Luffy,
-travelo en chef !
-
-58
-00:06:00,670 --> 00:06:04,480
-T'étais avec lui,
-c'est marqué dans le journal.
-
-59
-00:06:04,480 --> 00:06:06,180
-Donc c'est toi ?
-
-60
-00:06:06,180 --> 00:06:07,850
-Non !
-
-61
-00:06:08,610 --> 00:06:11,550
-Non, mais en fait, si...
-
-62
-00:06:13,190 --> 00:06:15,590
-Le nom, c'est bien le mien.
-
-63
-00:06:19,560 --> 00:06:22,260
-C'est si dur que ça à admettre ?
-
-64
-00:06:25,930 --> 00:06:29,200
-Cet avis...
-C'est le mien ! C'est moi, dessus !
-
-65
-00:06:29,500 --> 00:06:32,440
-Ce portrait complètement immonde,
-c'est bien moi !
-
-66
-00:06:32,640 --> 00:06:33,270
-T'es content ?
-
-67
-00:06:37,080 --> 00:06:39,580
-Pas possible,
-c'est pas du tout ressemblant.
-
-68
-00:06:39,880 --> 00:06:41,410
-Me force pas à le dire, alors !
-
-69
-00:06:41,710 --> 00:06:43,520
-Ça m'arrache la bouche, débile !
-
-70
-00:06:43,850 --> 00:06:45,150
-N'insiste pas.
-
-71
-00:06:45,350 --> 00:06:50,780
-Et si tu étais un sbire du Gouvernement
-ou de la Marine ?
-
-72
-00:06:50,920 --> 00:06:53,000
-Tant qu'il reste le moindre doute,
-
-73
-00:06:53,150 --> 00:06:57,000
-je ne te confierai rien
-au sujet de Paille-boy !
-
-74
-00:06:57,300 --> 00:06:58,630
-D'accord.
-
-75
-00:06:58,930 --> 00:07:00,420
-Donne-moi un navire.
-
-76
-00:07:00,570 --> 00:07:03,370
-Je dois rejoindre le point
-de rendez-vous fixé avec Luffy.
-
-77
-00:07:03,370 --> 00:07:04,940
-T'auras pas de navire.
-
-78
-00:07:05,540 --> 00:07:07,340
-Très bien, j'irai à la nage.
-
-79
-00:07:08,140 --> 00:07:09,710
-Qu'est-ce que tu as dit ?
-
 80
-00:07:09,710 --> 00:07:13,050
-C'est exactement le genre de chose
-qu'un ami de Paille-boy dirait !
-
-81
-00:07:14,950 --> 00:07:16,680
-Je dois bien l'admettre,
-
-82
-00:07:16,680 --> 00:07:18,080
-je suis touchée.
-
-83
-00:07:18,080 --> 00:07:22,150
-Convaincue par ton ardeur,
-je vais tout te dire sur Paille-boy.
-
-84
-00:07:24,820 --> 00:07:27,000
-Ou plutôt, je ne dirai rien !
-
-85
-00:07:28,930 --> 00:07:32,230
-Oh, vraiment ?
-Vous nous avez bien eues !
-
-86
-00:07:33,330 --> 00:07:34,400
-Silence !
-
-87
-00:07:37,320 --> 00:07:38,550
-Purée...
-
-88
-00:07:39,120 --> 00:07:40,880
-Il est à bout.
-
-89
-00:07:41,240 --> 00:07:45,340
-C'est le moment !
-Forçons-le à enfiler une robe.
-
-90
-00:07:45,540 --> 00:07:47,310
-Jamais je remettrai ça !
-
-91
-00:07:47,310 --> 00:07:48,410
-Hors de ma vue !
-
-92
-00:07:49,180 --> 00:07:53,490
-J'aime les femmes, moi !
-Je suis un homme, un vrai !
-
-93
-00:07:53,490 --> 00:07:55,920
-M'approchez pas, les affreux.
-
-94
-00:07:59,320 --> 00:08:01,800
-Bon.
-Iva, c'est bien ça ?
-
-95
-00:08:02,130 --> 00:08:05,160
-On va régler cette histoire de navire
-à la pirate.
-
-96
-00:08:06,130 --> 00:08:07,770
-Je te défie en duel.
-
-97
-00:08:08,530 --> 00:08:09,670
-Ça me va.
-
-98
-00:08:22,410 --> 00:08:26,620
-Je peux bien te dire
-ce qui est arrivé à Paille-boy, Vrille-boy.
-
-99
-00:08:27,650 --> 00:08:29,760
-Pourquoi t'as changé d'avis ?
-
-100
-00:08:30,320 --> 00:08:34,300
-Tout simplement parce que
-le monde entier est au courant.
-
-101
-00:08:34,460 --> 00:08:37,330
-À quoi est-ce qu'il joue ?
-
-102
-00:08:37,830 --> 00:08:39,600
-Le journal du jour ?
-
-103
-00:08:40,300 --> 00:08:41,230
-Luffy ?
-
-104
-00:08:41,530 --> 00:08:44,040
-Grande Iva ?
-Un appel de Baltigo.
-
-105
-00:08:44,040 --> 00:08:44,840
-Vraiment ?
-
-106
-00:08:45,040 --> 00:08:47,270
-Dans la salle des communications.
-
-107
-00:08:48,170 --> 00:08:50,140
-Avec la Guerre au Sommet,
-
-108
-00:08:50,280 --> 00:08:54,240
-ils ont tout déballé à ton sujet, Dragon.
-
-109
-00:08:54,650 --> 00:08:57,450
-Ça n'a pas trop perturbé nos troupes ?
-
-110
-00:08:58,820 --> 00:09:02,380
-Tu parles, leur mystérieux chef
-est bel et bien humain, au final.
-
-111
-00:09:02,380 --> 00:09:04,260
-L'article a rassuré tout le monde.
-
-112
-00:09:04,400 --> 00:09:05,920
-Aucun souci à avoir.
-
-113
-00:09:06,160 --> 00:09:07,890
-Et Luffy n'est plus un enfant.
-
-114
-00:09:07,890 --> 00:09:12,430
-Cela dit, je ne m'attendais pas
-à ce qu'il fasse équipe avec toi.
-
-115
-00:09:12,430 --> 00:09:15,970
-C'était un sacré coup du sort, en effet.
-
-116
-00:09:16,940 --> 00:09:18,000
-Quoi qu'il en soit,
-
-117
-00:09:18,150 --> 00:09:24,200
-Inazuma et moi, on a plein de choses
-à te dire et à te demander,
-
-118
-00:09:24,200 --> 00:09:25,940
-après notre évasion surprise.
-
-119
-00:09:25,940 --> 00:09:27,500
-Je me doute.
-
-120
-00:09:27,650 --> 00:09:32,580
-Nous organiserons sous peu une réunion
-de tous les cadres de la révolution.
-
-121
-00:09:32,980 --> 00:09:34,440
-La mort de Barbe Blanche
-
-122
-00:09:34,600 --> 00:09:38,360
-va bouleverser le monde
-et changer la donne au Gouvernement.
-
-123
-00:09:38,660 --> 00:09:43,560
-Je dois également te parler de Kuma.
-
-124
-00:09:43,560 --> 00:09:46,730
-Oui,
-ça m'intéresserait d'avoir des détails.
-
-125
-00:09:46,900 --> 00:09:50,740
-Pourquoi obéit-il aveuglément
-au Gouvernement ?
-
-126
-00:09:51,140 --> 00:09:54,070
-Le Kuma que je connaissais
-n'existe plus.
-
-127
-00:09:54,470 --> 00:09:57,940
-Il a même tenté de me tuer.
-
-128
-00:09:58,410 --> 00:10:01,410
-Au fait, Dragon,
-tu as vu le journal ?
-
-129
-00:10:01,650 --> 00:10:05,050
-Paille-boy a encore fait des siennes.
-
-130
-00:10:05,050 --> 00:10:07,720
-Il aime les coups d'éclat,
-comme son papa.
-
-131
-00:10:07,720 --> 00:10:11,660
-Qui aurait cru qu'il retournerait
-à Marine Ford pour faire ça ?
-
-132
-00:10:15,760 --> 00:10:19,560
-Pendant ce temps, à l'endroit
-où est amarré le Thousand Sunny,
-
-133
-00:10:20,060 --> 00:10:22,730
-sur l'archipel des Sabaody
-de Grand Line,
-
-134
-00:10:22,950 --> 00:10:25,470
-au Grove 44.
-
-135
-00:10:25,670 --> 00:10:29,140
-Filez-nous le navire
-sans faire d'histoires.
-
-136
-00:10:29,710 --> 00:10:34,830
-C'est le navire du fils de Dragon,
-Luffy au chapeau de paille !
-
-137
-00:10:35,300 --> 00:10:39,280
-Si on le livre à la Marine,
-on devrait choper une sacrée récompense.
-
-138
-00:10:41,990 --> 00:10:43,960
-Et puisque nous sommes confrères,
-
-139
-00:10:44,560 --> 00:10:48,490
-on vous propose même
-de partager le magot.
-
-140
-00:10:48,860 --> 00:10:50,760
-Qu'en dites-vous, les Exocets Riders ?
-
-141
-00:10:50,760 --> 00:10:52,260
-Quoi ? Je suis beau gosse ?
-
-142
-00:10:53,100 --> 00:10:55,730
-T'es vraiment à la masse !
-File-nous le navire, crétin !
-
-143
-00:10:57,070 --> 00:10:59,970
-Et puis quoi, encore ?
-Rêvez pas !
-
-144
-00:11:06,010 --> 00:11:09,660
-Écoutez-moi bien.
-Moi, c'est Duval le beau gosse.
-
-145
-00:11:09,850 --> 00:11:12,850
-Ce navire est celui de mon bienfaiteur,
-et je suis trop beau...
-
-146
-00:11:13,290 --> 00:11:15,820
-Je ne laisserai personne
-devenir plus beau...
-
-147
-00:11:15,990 --> 00:11:17,390
-Euh, voler le bateau !
-
-148
-00:11:17,860 --> 00:11:20,290
-Il part en latte en cours de phrase.
-
-149
-00:11:20,790 --> 00:11:24,950
-Moi vivant, personne ne touchera
-au navire de Monseigneur.
-
-150
-00:11:25,100 --> 00:11:27,700
-Il faudrait d'abord qu'une demoiselle
-me passe sur le corps !
-
-151
-00:11:27,700 --> 00:11:29,100
-Oups, non.
-
-152
-00:11:29,830 --> 00:11:32,470
-Il faudrait d'abord
-me passer sur le corps !
-
-153
-00:11:32,470 --> 00:11:34,140
-Pas vrai, les gars ?
-
-154
-00:11:34,140 --> 00:11:35,410
-Oui, Dubeaugosse !
-
-155
-00:11:36,840 --> 00:11:38,210
-On s'éclipse !
-
-156
-00:11:39,910 --> 00:11:42,050
-Duvalichou, t'es trop cool !
-
-157
-00:11:43,920 --> 00:11:46,420
-Je suis trop beau,
-les filles craquent toutes.
-
-158
-00:11:48,820 --> 00:11:51,600
-Je t'aime aussi, poupée.
-
-159
-00:11:52,090 --> 00:11:55,130
-On les emmènera
-au Café des sirènes d'abord ?
-
-160
-00:11:55,130 --> 00:11:56,300
-C'est tendance.
-
-161
-00:11:56,460 --> 00:11:59,100
-Non ! Le truc à voir sur notre île,
-
-162
-00:11:59,250 --> 00:12:01,870
-c'est le dojo
-de karaté des Hommes-Poissons.
-
-163
-00:12:01,870 --> 00:12:05,700
-J'ai promis au sac d'os
-de lui présenter la princesse sirène.
-
-164
-00:12:05,700 --> 00:12:08,210
-M'sieur Duval,
-elle vous a mis un gros vent !
-
-165
-00:12:08,610 --> 00:12:10,910
-C'est vrai, mais c'est pas grave.
-
-166
-00:12:11,510 --> 00:12:13,010
-C'est bien ça, Shakky ?
-
-167
-00:12:13,160 --> 00:12:15,510
-Ils vont tous revenir,
-grâce à la Vivre Card.
-
-168
-00:12:16,080 --> 00:12:19,620
-Avec le journal de ce matin,
-on sait que Luffy va bien.
-
-169
-00:12:20,220 --> 00:12:21,690
-Oui,
-
-170
-00:12:22,000 --> 00:12:24,260
-mais il va nous falloir
-un peu de patience.
-
-171
-00:12:24,460 --> 00:12:27,390
-En tout cas,
-Ray a retrouvé le petit Monkey.
-
-172
-00:12:30,800 --> 00:12:34,300
-Il faut protéger ce navire
-jusqu'à leur retour.
-
-173
-00:12:34,500 --> 00:12:37,640
-Je m'occupe de tout, ma p'tite dame !
-
-174
-00:12:37,800 --> 00:12:40,110
-Marine ou autre, qu'ils s'amènent !
-
-175
-00:12:40,310 --> 00:12:44,080
-Personne ne touchera à ce navire !
-
-176
-00:12:44,880 --> 00:12:46,480
-On compte sur vous.
-
-177
-00:12:49,110 --> 00:12:52,780
-M'sieur Duval, c'est la cata !
-Kuma attaque !
-
-178
-00:12:53,220 --> 00:12:56,390
-"Kumquat" ?
-Y a pas de kumquats, ici.
-
-179
-00:12:57,060 --> 00:12:57,690
-Minute...
-
-180
-00:13:05,130 --> 00:13:08,240
-Le Grand Corsaire, Bartholomew Kuma !
-
-181
-00:13:24,050 --> 00:13:25,450
-Pas de panique.
-
-182
-00:13:25,750 --> 00:13:29,450
-Il est passé voir Ray, l'autre jour.
-
-183
-00:13:30,890 --> 00:13:32,560
-C'est un allié.
-
-184
-00:13:33,060 --> 00:13:34,260
-Enfin, j'espère.
-
-185
-00:13:40,770 --> 00:13:44,720
-Nous voici sur l'île des Sables
-de Grand Line,
-
-186
-00:13:44,870 --> 00:13:47,440
-au royaume d'Alabasta.
-
-187
-00:13:48,510 --> 00:13:50,980
-La capitale, Alubarna.
-
-188
-00:13:54,280 --> 00:13:56,420
-Et les pirates ?
-
-189
-00:13:56,580 --> 00:13:59,520
-Refoulés.
-La ville n'a quasiment pas de dommages.
-
-190
-00:13:59,520 --> 00:14:03,150
-Nous avons renforcé la garde
-dans tous les ports.
-
-191
-00:14:03,150 --> 00:14:04,990
-Il faut rester vigilants.
-
-192
-00:14:05,320 --> 00:14:09,730
-Si seulement tous les pirates
-étaient comme le jeune Luffy...
-
-193
-00:14:09,730 --> 00:14:11,660
-Ce serait trop demander.
-
-194
-00:14:12,130 --> 00:14:13,850
-À ce sujet, Votre Altesse,
-
-195
-00:14:14,130 --> 00:14:16,070
-avez-vous vu le journal de ce matin ?
-
-196
-00:14:16,270 --> 00:14:18,000
-Bien sûr.
-
-197
-00:14:20,410 --> 00:14:23,830
-Ces marques sur le bras de Luffy,
-ce sont des chiffres ?
-
-198
-00:14:23,980 --> 00:14:25,380
-Un signe ?
-
-199
-00:14:25,380 --> 00:14:27,710
-Ou alors,
-c'est juste pour faire cool ?
-
-200
-00:14:27,710 --> 00:14:30,180
-Non, ce n'est pas le genre de Luffy.
-
-201
-00:14:38,260 --> 00:14:43,830
-Passons maintenant à une autre ville,
-quelque part sur Grand Line.
-
-202
-00:14:47,530 --> 00:14:51,340
-Hé ! Que fait ce type ici ?
-
-203
-00:14:51,340 --> 00:14:52,600
-Chut !
-Il va t'entendre !
-
-204
-00:14:53,510 --> 00:14:56,710
-Même pas trois semaines
-après la guerre...
-
-205
-00:14:57,940 --> 00:15:00,650
-Alors qu'il en a réchappé de justesse.
-
-206
-00:15:03,920 --> 00:15:07,000
-À quoi est-ce qu'ils jouent ?
-
-207
-00:15:07,250 --> 00:15:09,610
-Ils doivent avoir une idée en tête.
-
-208
-00:15:09,910 --> 00:15:11,720
-Ou ils sont devenus fous.
-
-209
-00:15:12,890 --> 00:15:14,830
-Tu crois, Das ?
-
-210
-00:15:15,960 --> 00:15:18,450
-Le Chapeau de paille
-a subi un gros traumatisme.
-
-211
-00:15:18,670 --> 00:15:21,970
-Une telle blessure
-ne se referme pas si facilement.
-
-212
-00:15:23,330 --> 00:15:26,970
-Tu ne manques pas d'air.
-Tu dis ça pour moi ?
-
-213
-00:15:29,440 --> 00:15:31,710
-Ne t'inquiète pas, je suis guéri.
-
-214
-00:15:32,410 --> 00:15:34,900
-Et pour preuve,
-j'ai décidé qu'il était grand temps
-
-215
-00:15:35,050 --> 00:15:37,350
-de repartir pour le Nouveau Monde.
-
-216
-00:15:38,850 --> 00:15:40,220
-Tu m'accompagnes ?
-
-217
-00:15:42,590 --> 00:15:43,890
-Évidemment.
-
-218
-00:15:45,060 --> 00:15:48,460
-Quelque part sur une île reculée
-de Grand Line...
-
-219
-00:15:53,330 --> 00:15:55,770
-Depuis votre capture,
-
-220
-00:15:55,770 --> 00:15:59,700
-nous étions rongés par l'angoisse,
-au point d'en perdre le sommeil.
-
-221
-00:16:00,020 --> 00:16:01,600
-Navigant sans trêve,
-
-222
-00:16:01,600 --> 00:16:04,430
-nous en avons salement bavé,
-un vrai calvaire.
-
-223
-00:16:04,580 --> 00:16:05,750
-On vous croyait en prison,
-
-224
-00:16:05,750 --> 00:16:09,050
-on vous découvre en héros,
-à la une des journaux !
-
-225
-00:16:13,890 --> 00:16:15,500
-Capitaine Baggy !
-
-226
-00:16:15,650 --> 00:16:17,420
-On vous a tant cherché !
-
-227
-00:16:19,090 --> 00:16:23,140
-On a toujours été 100 % derrière vous.
-Quand on a vu la une, on s'est dit :
-
-228
-00:16:23,390 --> 00:16:27,070
-"Tiens-toi bien, Nouveau Monde !
-Voici notre capitaine !"
-
-229
-00:16:28,270 --> 00:16:31,700
-Les gars,
-vous avez tellement foi en moi ?
-
-230
-00:16:31,700 --> 00:16:33,940
-Vous m'avez manqué !
-
-231
-00:16:33,940 --> 00:16:36,270
-Capitaine Baggy !
-
-232
-00:16:42,750 --> 00:16:44,250
-Non, mais franchement...
-
-233
-00:16:44,980 --> 00:16:47,390
-Vous ne l'avez pas abandonné, plutôt ?
-
-234
-00:16:58,500 --> 00:17:01,130
-Ça, c'est de l'accueil, mes braves !
-
-235
-00:17:02,430 --> 00:17:06,070
-Je suis le capitaine en second
-des pirates de Baggy, Morge !
-
-236
-00:17:06,070 --> 00:17:08,640
-Notre pote Morge !
-
-237
-00:17:09,640 --> 00:17:11,910
-Je suis le quartier-maître Cabaji.
-
-238
-00:17:11,910 --> 00:17:14,650
-Notre pote Cabaji !
-
-239
-00:17:14,650 --> 00:17:17,350
-Et ça, c'est mon fidèle compagnon :
-
-240
-00:17:17,500 --> 00:17:19,090
-Richie !
-
-241
-00:17:20,140 --> 00:17:22,290
-Richie !
-
-242
-00:17:25,960 --> 00:17:27,400
-Je n'en reviens pas.
-
-243
-00:17:27,550 --> 00:17:30,560
-L'article de journal disait donc vrai ?
-
-244
-00:17:30,860 --> 00:17:35,430
-J'ai déjà vu leurs têtes sur des avis,
-ils sont tous mis à prix.
-
-245
-00:17:36,600 --> 00:17:38,060
-Je pense bien, oui !
-
-246
-00:17:38,060 --> 00:17:41,310
-C'est un ramassis d'affreux,
-sortis d'Impel Down.
-
-247
-00:17:41,310 --> 00:17:43,000
-J'y pense...
-
-248
-00:17:43,150 --> 00:17:46,750
-Alvida, tu veux voir un truc extra ?
-
-249
-00:17:47,330 --> 00:17:48,950
-Tadaa !
-
-250
-00:17:49,910 --> 00:17:51,220
-Mais c'est...
-
-251
-00:17:51,520 --> 00:17:55,140
-C'est l'indice menant au trésor
-de capitaine John ?
-
-252
-00:17:55,320 --> 00:17:56,550
-Bingo.
-
-253
-00:17:56,550 --> 00:17:59,890
-Mais c'est fabuleux !
-Comment as-tu mis la main dessus ?
-
-254
-00:18:00,960 --> 00:18:04,730
-C'est ce nigaud de Chapeau de paille
-qui l'avait !
-
-255
-00:18:06,260 --> 00:18:09,650
-Tu veux que je te dise,
-la chance est en train de tourner.
-
-256
-00:18:09,800 --> 00:18:13,140
-Et elle met le cap droit sur moi !
-
-257
-00:18:15,140 --> 00:18:16,240
-Hep, Baggy !
-
-258
-00:18:18,140 --> 00:18:21,550
-Le Gouvernement t'envoie
-une chauve-souris messagère.
-
-259
-00:18:21,550 --> 00:18:23,410
-Hein ?
-Comment ils m'ont trouvé ?
-
-260
-00:18:25,220 --> 00:18:26,480
-Impossible...
-
-261
-00:18:28,390 --> 00:18:30,220
-Tu vas jamais deviner ce que ça dit.
-
-262
-00:18:30,220 --> 00:18:32,420
-N'ouvre pas mon courrier !
-
-263
-00:18:34,590 --> 00:18:38,070
-Décidément,
-ce garçon aime faire parler de lui.
-
-264
-00:18:38,230 --> 00:18:39,870
-Quand on sait que ce Luffy
-
-265
-00:18:40,070 --> 00:18:43,230
-est le petit-fils de Garp,
-on saisit tout de suite mieux.
-
-266
-00:18:43,230 --> 00:18:46,910
-Quelle est la nature
-de ses liens avec Rayleigh ?
-
-267
-00:18:47,240 --> 00:18:50,480
-Pourquoi fait-il son retour
-après tout ce temps ?
-
-268
-00:18:51,140 --> 00:18:53,650
-Et Jinbe s'est finalement
-retourné contre nous.
-
-269
-00:18:53,850 --> 00:18:55,700
-En rejoignant les Corsaires,
-
-270
-00:18:55,850 --> 00:18:59,080
-il était devenu un symbole de paix
-entre les races.
-
-271
-00:18:59,080 --> 00:19:00,620
-C'est vraiment regrettable.
-
-272
-00:19:00,620 --> 00:19:04,700
-L'équilibre des Trois Puissances
-appartient déjà au passé.
-
-273
-00:19:04,860 --> 00:19:08,490
-Qui va combler les trois postes vacants
-parmi les Corsaires ?
-
-274
-00:19:08,800 --> 00:19:11,960
-Attendons de voir ce qui va se passer
-dans le Nouveau Monde.
-
-275
-00:19:12,100 --> 00:19:15,670
-L'équilibre des forces
-va être bouleversé parmi les pirates.
-
-276
-00:19:15,670 --> 00:19:19,140
-Nous devrons choisir
-les plus influents d'entre eux.
-
-277
-00:19:19,550 --> 00:19:23,240
-Barbe Noire est déjà passé à l'action
-dans le Nouveau Monde.
-
-278
-00:19:23,440 --> 00:19:25,800
-Une des onze Supernova
-
-279
-00:19:25,950 --> 00:19:28,600
-en a déjà fait les frais.
-
-280
-00:19:29,000 --> 00:19:33,820
-Il connaît par cœur
-le territoire de Barbe Blanche.
-
-281
-00:19:35,190 --> 00:19:38,220
-Il a déjà une longueur d'avance
-parmi les pirates
-
-282
-00:19:38,370 --> 00:19:40,660
-voulant devenir
-l'un des Quatre Empereurs.
-
-283
-00:19:40,930 --> 00:19:44,120
-Un homme ayant mangé
-deux Fruits du Démon,
-
-284
-00:19:44,330 --> 00:19:46,750
-c'est du jamais vu.
-
-285
-00:19:47,200 --> 00:19:50,520
-La seule personne capable
-de l'arrêter sera sûrement...
-
-286
-00:19:50,950 --> 00:19:52,340
-un des Quatre Empereurs.
-
-287
-00:19:53,040 --> 00:19:57,480
-Ou bien Marco le Phénix
-et le reste des hommes de Barbe Blanche.
-
-288
-00:19:58,880 --> 00:20:01,750
-Cette particule, "D",
-est toujours une source d'ennuis.
-
-289
-00:20:01,750 --> 00:20:03,720
-Portgas la portait aussi.
-
-290
-00:20:03,920 --> 00:20:06,050
-Ces noms avec un "D" sont rares,
-
-291
-00:20:06,200 --> 00:20:09,050
-mais ils attirent
-un peu trop l'attention.
-
-292
-00:20:12,620 --> 00:20:14,360
-J'ai tenté de l'en dissuader,
-
-293
-00:20:14,600 --> 00:20:17,960
-mais Garp a bien renoncé à son poste.
-
-294
-00:20:18,800 --> 00:20:23,160
-Toutefois,
-il gardera officiellement son titre.
-
-295
-00:20:23,560 --> 00:20:27,000
-On en a besoin pour former
-nos jeunes recrues.
-
-296
-00:20:27,490 --> 00:20:30,400
-Si vous renoncez
-à votre poste d'Amiral en chef,
-
-297
-00:20:30,750 --> 00:20:33,240
-je vous demanderai
-d'en faire de même.
-
-298
-00:20:33,240 --> 00:20:34,710
-Sengoku.
-
-299
-00:20:35,010 --> 00:20:35,900
-Très bien.
-
-300
-00:20:36,610 --> 00:20:38,750
-J'accepte votre requête.
-
-301
-00:20:39,050 --> 00:20:41,920
-C'est peut-être une bonne manière
-de finir ma carrière.
-
-302
-00:20:45,020 --> 00:20:46,720
-Vous voir partir tous les deux,
-
-303
-00:20:46,720 --> 00:20:49,700
-alors que vous avez mené la Marine
-sur tous les fronts
-
-304
-00:20:49,850 --> 00:20:52,000
-depuis le début de l'ère Roger,
-
-305
-00:20:52,230 --> 00:20:54,600
-va faire grand bruit.
-
-306
-00:20:54,600 --> 00:20:59,470
-Et avec les fugitifs
-du 6e Cercle d'Impel Down,
-
-307
-00:20:59,870 --> 00:21:03,780
-on a encore beaucoup
-de pirates de légende à affronter.
-
-308
-00:21:05,110 --> 00:21:08,680
-Newgate était le plus fort d'entre eux.
-
-309
-00:21:10,620 --> 00:21:14,000
-L'âge d'or de la piraterie
-ne sera bientôt plus la même.
-
-310
-00:21:14,330 --> 00:21:17,820
-Qu'est-ce qu'un vieux soldat
-a encore à faire dans la Marine ?
-
-311
-00:21:18,120 --> 00:21:21,890
-La justice est fondée sur des valeurs,
-et les générations changent.
-
-312
-00:21:24,060 --> 00:21:26,130
-Et ça fait peine à entendre.
-
-313
-00:21:26,130 --> 00:21:28,130
-Quoi qu'il en soit, Kong,
-
-314
-00:21:28,130 --> 00:21:31,070
-j'aimerais recommander Aokiji
-
-315
-00:21:31,270 --> 00:21:34,310
-pour me succéder
-au poste d'Amiral en chef.
-
-316
-00:21:35,870 --> 00:21:37,610
-Il a donc survécu.
-
-317
-00:21:38,310 --> 00:21:39,480
-Bien joué.
-
-318
-00:21:40,380 --> 00:21:44,020
-T'es au courant ? Le Chapeau de paille
-a encore fait parler de lui.
-
-319
-00:21:44,320 --> 00:21:45,280
-Ouais.
-
-320
-00:21:45,280 --> 00:21:49,150
-La guerre est encore fraîche,
-et il revient chez nous
-
-321
-00:21:49,290 --> 00:21:50,990
-sonner la cloche seize fois ?
-
-322
-00:21:50,990 --> 00:21:53,320
-C'est une sorte de message ?
-
-323
-00:21:54,960 --> 00:21:56,530
-Va savoir.
-
-324
-00:21:57,070 --> 00:21:59,500
-Bon, et pour ma demande de mutation ?
-
-325
-00:22:00,030 --> 00:22:03,840
-Eh bien,
-j'en parlerai à l'Amiral Sengoku.
-
-326
-00:22:03,840 --> 00:22:05,640
-Mais tu es sérieux ?
-
-327
-00:22:05,900 --> 00:22:09,000
-Je ne plaisante pas
-avec ce genre de sujet.
-
-328
-00:22:09,170 --> 00:22:11,100
-J'entends bien, mais tout de même...
-
-329
-00:22:11,250 --> 00:22:15,210
-Personne ne se porte volontaire
-pour aller au G5.
-
-330
-00:22:15,510 --> 00:22:18,280
-C'est un nid à problèmes, là-bas.
-
-331
-00:22:19,650 --> 00:22:23,250
-C'est la 5e base de la Marine
-sur Grand Line.
-
-332
-00:22:23,860 --> 00:22:26,720
-En clair, tu veux aller
-dans le Nouveau Monde.
-
-333
-00:22:27,000 --> 00:22:30,760
-Pour atteindre sa cible,
-le mieux est de s'en approcher.
-
-334
-00:22:32,610 --> 00:22:35,430
-On appelle ce pouvoir le "Haki".
-
-335
-00:22:35,730 --> 00:22:38,340
-Vous en possédez une variante.
-
-336
-00:22:39,640 --> 00:22:43,210
-Le traumatisme de la guerre
-a dû l'éveiller en vous.
-
-337
-00:22:43,440 --> 00:22:48,280
-Normalement, ce don ne se révèle
-qu'après des années d'entraînement.
-
-338
-00:22:48,280 --> 00:22:50,900
-C'est le Haki ?
-
-339
-00:22:51,550 --> 00:22:55,950
-Tous les officiers ayant au moins
-le rang de Vice-amiral le maîtrisent.
-
-340
-00:22:55,950 --> 00:22:56,790
-Sérieusement ?
-
-341
-00:22:56,790 --> 00:23:01,160
-Je n'arrive pas à me calmer
-tant mes sens sont en éveil !
-
-342
-00:23:01,660 --> 00:23:04,100
-Vous êtes des disciples de Garp ?
-
-343
-00:23:04,400 --> 00:23:06,130
-Demandez-lui de vous apprendre.
-
-344
-00:23:06,130 --> 00:23:07,670
-Hé, docteur !
-
-345
-00:23:07,900 --> 00:23:10,000
-J'y arriverai aussi ?
-
-346
-00:23:10,000 --> 00:23:11,440
-Qu'est-ce que j'en sais ?
-
-347
-00:23:13,200 --> 00:23:14,600
-Bon sang !
-
-348
-00:23:14,750 --> 00:23:18,250
-J'ai maintenant l'impression
-que t'as pris une longueur d'avance !
-
-349
-00:23:18,510 --> 00:23:21,310
-Je n'y comprends rien, moi non plus.
-
-350
-00:23:22,750 --> 00:23:24,620
-C'est proprement ahurissant !
-
-351
-00:23:25,220 --> 00:23:27,100
-Nous avons appris durant la guerre
-
-352
-00:23:27,250 --> 00:23:29,900
-qu'il était le frère
-du défunt Portgas D. Ace,
-
-353
-00:23:30,120 --> 00:23:32,590
-le fils de Dragon le Révolutionnaire,
-
-354
-00:23:33,050 --> 00:23:38,000
-mais aussi le petit-fils
-de notre Vice-amiral Garp !
-
-355
-00:23:38,260 --> 00:23:41,070
-Je parle du pirate Monkey D. Luffy !
-
-356
-00:23:41,730 --> 00:23:45,000
-Il était porté disparu
-depuis la fin des combats.
-
-357
-00:23:45,000 --> 00:23:48,040
-Non seulement il était en vie,
-mais en plus,
-
-358
-00:23:48,970 --> 00:23:51,610
-il est réapparu dans notre QG !
-
-359
-00:23:53,300 --> 00:23:54,810
-Coulez le navire !
-
-360
-00:24:03,320 --> 00:24:06,120
-Je dois halluciner.
-Ce ne serait pas...
-
-361
-00:24:06,720 --> 00:24:08,930
-l'ancien capitaine en second
-de Gold Roger ?
-
-362
-00:24:09,130 --> 00:24:11,530
-Le seigneur des Ténèbres,
-Silvers Rayleigh !
-
-363
-00:24:25,940 --> 00:24:28,150
-Ils font le tour de l'île.
-
-364
-00:24:28,400 --> 00:24:30,880
-On dirait des funérailles.
-
-365
-00:24:42,630 --> 00:24:45,100
-Feu à volonté !
-
-366
-00:25:05,350 --> 00:25:06,920
-Lâche-toi.
-
-367
-00:25:08,090 --> 00:25:08,750
-OK !
-
-368
-00:25:10,220 --> 00:25:12,130
-Capturez-le !
-
-369
-00:25:12,860 --> 00:25:14,300
-Gum Gum...
-
-370
-00:25:14,450 --> 00:25:16,260
-Fouet !
-
-371
-00:25:25,230 --> 00:25:27,510
-Qu'est-ce qu'il veut faire
-avec l'Ox Bell ?
-
-372
-00:26:04,640 --> 00:26:06,310
-Ça va faire une super photo !
-
-373
-00:26:28,930 --> 00:26:30,500
-Capturez-le !
-
-374
-00:26:30,800 --> 00:26:32,700
-Il est reparti...
-
-375
-00:26:33,240 --> 00:26:34,870
-Quelqu'un m'explique ?
-
-376
-00:26:34,870 --> 00:26:40,380
-Même Rayleigh et Jinbe
-se sont alliés au Chapeau de paille ?
-
-377
-00:26:40,700 --> 00:26:43,410
-Rayleigh appartenait
-à l'équipage du Roi des Pirates.
-
-378
-00:26:43,610 --> 00:26:45,950
-Le Chapeau de paille
-serait son successeur ?
-
-379
-00:26:46,120 --> 00:26:47,200
-Pas si vite !
-
-380
-00:26:47,200 --> 00:26:50,620
-C'est le fils de Dragon !
-Ça n'a pas de sens.
-
-381
-00:26:51,390 --> 00:26:52,860
-Dans tous les cas...
-
-382
-00:26:53,490 --> 00:26:55,060
-On tient un scoop !
-
-383
-00:27:14,380 --> 00:27:17,350
-Cet article fait déjà le tour du monde.
-
-384
-00:27:17,520 --> 00:27:22,000
-Et ils ont très bien détaillé la façon
-dont on l'a laissé s'échapper !
-
-385
-00:27:22,190 --> 00:27:23,590
-C'est une honte !
-
-386
-00:27:24,000 --> 00:27:26,660
-On pourrait d'abord penser
-qu'il a voulu rendre hommage
-
-387
-00:27:26,660 --> 00:27:32,660
-à son frère, à Barbe Blanche
-et à tous les morts de la guerre.
-
-388
-00:27:32,660 --> 00:27:35,730
-Sa minute de silence
-et son tour du QG en témoignent.
-
-389
-00:27:36,070 --> 00:27:40,100
-Mais on sonne la cloche deux fois
-pour signaler une catastrophe.
-
-390
-00:27:40,100 --> 00:27:41,910
-Il l'a sonnée seize fois !
-
-391
-00:27:41,910 --> 00:27:46,740
-Seize coups, c'est une déclaration
-de guerre à la Marine !
-
-392
-00:27:47,310 --> 00:27:51,080
-Quelque part,
-sur les eaux de Grand Line...
-
-393
-00:27:52,380 --> 00:27:55,320
-Pardon, je vous ai entraînées
-dans cette expédition.
-
-394
-00:27:55,320 --> 00:27:57,740
-Ça va,
-on a l'habitude des raids militaires.
-
-395
-00:27:57,890 --> 00:27:59,530
-Au fait, vous jouez à quoi ?
-
-396
-00:27:59,790 --> 00:28:02,390
-On s'assure que tu te reposes.
-
-397
-00:28:02,390 --> 00:28:04,460
-C'est un ordre de la Princesse Serpent.
-
-398
-00:28:04,660 --> 00:28:08,600
-Elle avait tellement de palpitations
-qu'elle s'est évanouie.
-
-399
-00:28:10,230 --> 00:28:13,040
-Donc on prend soin de toi pour elle.
-
-400
-00:28:15,770 --> 00:28:19,610
-J'espère que le message
-leur parviendra bien.
-
-401
-00:28:20,610 --> 00:28:23,050
-S'ils voient l'article,
-ça devrait aller.
-
-402
-00:28:23,550 --> 00:28:26,080
-Tes actions
-leur mettront la puce à l'oreille.
-
-403
-00:28:26,220 --> 00:28:27,450
-Ça suffit, maintenant.
-
-404
-00:28:27,450 --> 00:28:30,780
-Il y en a bien un
-qui n'a pas l'air très rapide.
-
-405
-00:28:31,190 --> 00:28:33,390
-Mais je pense que ça devrait aller.
-
-406
-00:28:34,020 --> 00:28:36,430
-Ils comprendront ton message.
-
-407
-00:28:36,630 --> 00:28:38,530
-J'en suis convaincu.
-
-408
-00:28:39,530 --> 00:28:41,730
-Grand Line, en plein ciel.
-
-409
-00:28:47,070 --> 00:28:50,170
-D'accord.
-J'ai compris, Luffy.
-
-410
-00:28:51,310 --> 00:28:55,210
-Je t'ai compris.
-D'accord, ça marche.
-
-411
-00:28:55,950 --> 00:28:59,320
-East Blue, sur le pont géant.
-
-412
-00:29:05,160 --> 00:29:07,290
-Je vois, c'est évident.
-
-413
-00:29:07,290 --> 00:29:10,630
-Qu'y a-t-il, Robin ?
-
-414
-00:29:13,100 --> 00:29:15,930
-Message bien reçu, Luffy.
-
-415
-00:29:19,400 --> 00:29:21,570
-Royaume de Kedétrav.
-
-416
-00:29:29,050 --> 00:29:31,900
-Ça roule, Luffy.
-
-417
-00:29:32,120 --> 00:29:33,420
-Qu'est-ce qui roule ?
-
-418
-00:29:37,520 --> 00:29:40,420
-Ruines du royaume de Céglok.
-
-419
-00:29:41,130 --> 00:29:42,740
-Toujours pas ?
-
-420
-00:29:42,890 --> 00:29:44,360
-J'ai les bras qui fatiguent.
-
-421
-00:29:44,700 --> 00:29:46,430
-Bouge pas.
-
-422
-00:29:46,730 --> 00:29:48,330
-Doit y avoir un truc.
-
-423
-00:29:48,330 --> 00:29:51,220
-Luffy est pas du genre à faire ça.
-
-424
-00:29:51,540 --> 00:29:54,870
-Rayleigh était avec lui,
-ça doit être un de ses plans.
-
-425
-00:29:55,070 --> 00:29:56,970
-Y a un truc, forcément.
-
-426
-00:29:57,910 --> 00:30:00,850
-Pays futuriste de Baldimore.
-
-427
-00:30:05,050 --> 00:30:07,080
-Hop là boum !
-
-428
-00:30:07,080 --> 00:30:10,450
-Nom d'un slibard, quelle histoire !
-
-429
-00:30:11,360 --> 00:30:12,820
-M'sieur !
-
-430
-00:30:28,610 --> 00:30:29,710
-C'est pigé.
-
-431
-00:30:34,880 --> 00:30:36,580
-Archipel de Boing.
-
-432
-00:30:36,800 --> 00:30:39,120
-Qu'est-ce qui t'arrive encore, Usopp ?
-
-433
-00:30:39,360 --> 00:30:41,050
-J'ai compris, Luffy.
-
-434
-00:30:44,660 --> 00:30:47,490
-Île céleste de Weatheria.
-
-435
-00:30:49,860 --> 00:30:51,640
-Je vois.
-
-436
-00:30:51,900 --> 00:30:53,260
-Lui alors !
-
-437
-00:30:53,660 --> 00:30:56,470
-Il n'en fait qu'à sa tête,
-sans penser aux autres.
-
-438
-00:30:56,770 --> 00:30:59,800
-Ma petite demoiselle,
-tes poursuivants approchent.
-
-439
-00:31:01,210 --> 00:31:03,410
-Royaume des Longs Bras.
-
-440
-00:31:13,580 --> 00:31:16,900
-Ça va bientôt être à toi.
-Tâche d'y mettre du tien.
-
-441
-00:31:17,120 --> 00:31:18,290
-Voilà.
-
-442
-00:31:20,460 --> 00:31:21,690
-Luffy ?
-
-443
-00:31:21,690 --> 00:31:23,090
-L'attente est terminée !
-
-444
-00:31:23,090 --> 00:31:27,130
-Vous allez enfin pouvoir admirer
-le seul squelette ambulant du monde.
-
-445
-00:31:34,300 --> 00:31:36,940
-Fort bien, faisons comme ça.
-
-446
-00:31:38,840 --> 00:31:41,410
-J'ai bien compris, Luffy !
-
-447
-00:31:46,080 --> 00:31:50,450
-L'esclandre provoqué par Luffy
-fit rapidement le tour de la planète.
-
-448
-00:31:51,420 --> 00:31:54,660
-Il retentit même
-jusqu'au Nouveau Monde.
-
-449
-00:31:54,660 --> 00:31:58,130
-Le Chapeau de paille a donc survécu.
-
-450
-00:31:58,960 --> 00:32:02,700
-Il a annoncé une nouvelle ère
-en sonnant la cloche de Marine Ford.
-
-451
-00:32:03,350 --> 00:32:05,140
-C'est quoi, cette Ox Bell ?
-
-452
-00:32:07,270 --> 00:32:08,870
-L'Ox Bell
-
-453
-00:32:09,870 --> 00:32:12,040
-est une cloche sacrée qui jadis
-
-454
-00:32:12,240 --> 00:32:15,780
-se trouvait à bord de l'Ox Lloyd's,
-un navire de la Marine.
-
-455
-00:32:16,750 --> 00:32:18,550
-On sonne huit fois la cloche
-
-456
-00:32:18,750 --> 00:32:21,140
-pour commémorer l'année passée,
-
-457
-00:32:21,590 --> 00:32:24,250
-et encore huit fois
-pour célébrer la nouvelle.
-
-458
-00:32:25,020 --> 00:32:28,900
-Ces seize coups de cloche
-sont une tradition de la Marine.
-
-459
-00:32:29,090 --> 00:32:31,260
-Les seize coups rituels.
-
-460
-00:32:33,230 --> 00:32:35,270
-Mais ce n'est pas le Nouvel An.
-
-461
-00:32:35,570 --> 00:32:36,950
-Son geste sonne donc
-
-462
-00:32:37,100 --> 00:32:40,040
-la fin d'une ère
-et le début d'une autre.
-
-463
-00:32:40,140 --> 00:32:42,570
-L'ère de Barbe Blanche est révolue.
-
-464
-00:32:42,900 --> 00:32:46,840
-Il veut donc dire que c'est lui
-qui va façonner la nouvelle ère ?
-
-465
-00:32:46,840 --> 00:32:51,110
-Si ce n'était pas le cas,
-il ne se serait pas infligé la douleur
-
-466
-00:32:51,310 --> 00:32:54,750
-de revenir à l'endroit
-où il a perdu son frère.
-
-467
-00:32:56,450 --> 00:32:58,590
-Ce type a le don de m'irriter !
-
-468
-00:32:59,100 --> 00:33:01,020
-Il faut dire qu'avec cette guerre,
-
-469
-00:33:01,160 --> 00:33:05,790
-il s'est distingué de tous les pirates
-à plus de 100 Millions de Berrys.
-
-470
-00:33:06,260 --> 00:33:07,390
-Il n'empêche !
-
-471
-00:33:07,600 --> 00:33:11,270
-Je ne vais pas gentiment
-le laisser n'en faire qu'à sa tête.
-
-472
-00:33:13,970 --> 00:33:15,840
-Ah, le Nouveau Monde.
-
-473
-00:33:16,140 --> 00:33:18,980
-Je m'attendais à être plus impressionné.
-
-474
-00:33:19,150 --> 00:33:21,380
-Mais regardez-moi ces lopettes !
-
-475
-00:33:21,380 --> 00:33:22,900
-Épargnez-nous !
-
-476
-00:33:23,150 --> 00:33:25,950
-On ne vous a rien fait, nous !
-
-477
-00:33:25,950 --> 00:33:29,120
-En fait, on s'apprêtait même
-à quitter cette mer !
-
-478
-00:33:29,120 --> 00:33:31,320
-Laissez-nous repartir à Paradise !
-
-479
-00:33:31,800 --> 00:33:35,430
-Paradise ?
-Ton petit nid douillet ?
-
-480
-00:33:35,760 --> 00:33:37,950
-Vous venez juste d'arriver !
-
-481
-00:33:38,350 --> 00:33:41,130
-Vous ignorez tout
-de l'horreur de ces mers !
-
-482
-00:33:48,710 --> 00:33:49,940
-Le Chapeau de paille ?
-
-483
-00:33:49,940 --> 00:33:52,540
-Oui, il a encore fait des siennes.
-
-484
-00:33:52,910 --> 00:33:54,850
-Pas la peine de paniquer.
-
-485
-00:33:55,010 --> 00:33:58,750
-Le gagnant, c'est celui
-qui fait échec et mat à la fin.
-
-486
-00:34:00,080 --> 00:34:01,080
-Quoi ?
-
-487
-00:34:01,450 --> 00:34:03,390
-Father, c'est le navire !
-
-488
-00:34:03,390 --> 00:34:07,450
-Il lévite au-dessus de l'eau !
-Qu'est-ce que tu dis ?
-
-489
-00:34:08,400 --> 00:34:11,260
-Comment est-ce possible ?
-Qu'est-ce que ça veut dire ?
-
-490
-00:34:11,260 --> 00:34:12,760
-Reprenez le contrôle !
-
-491
-00:34:12,760 --> 00:34:15,200
-Father, quelque chose s'approche !
-
-492
-00:34:18,700 --> 00:34:22,070
-Non, c'est nous qui sommes attirés !
-
-493
-00:34:27,710 --> 00:34:29,550
-Je suis vraiment désolé.
-
-494
-00:34:31,920 --> 00:34:34,000
-Veux-tu bien répéter ?
-
-495
-00:34:34,280 --> 00:34:36,220
-Je n'ai pas bien entendu.
-
-496
-00:34:36,490 --> 00:34:38,110
-Je suis Barbe Brune !
-
-497
-00:34:38,290 --> 00:34:42,930
-Ma prime dépasse
-les 80 Millions de Berrys.
-
-498
-00:34:43,590 --> 00:34:47,460
-Retiens bien mon nom.
-Tu es sur mon territoire.
-
-499
-00:34:47,660 --> 00:34:50,970
-Tu as osé t'en prendre
-à mon cher équipage.
-
-500
-00:34:51,150 --> 00:34:53,200
-Tu vas le payer de ton sang !
-
-501
-00:34:53,650 --> 00:34:54,850
-Ah oui ?
-
-502
-00:34:55,150 --> 00:34:58,480
-Ton nom est si grotesque
-que j'avais cru mal entendre.
-
-503
-00:34:58,910 --> 00:35:00,300
-Deux choses.
-
-504
-00:35:00,720 --> 00:35:03,180
-D'abord, je déteste les plaisanteries.
-
-505
-00:35:03,180 --> 00:35:04,350
-Les plaisanteries ?
-
-506
-00:35:04,720 --> 00:35:06,680
-Deuxième chose...
-
-507
-00:35:08,420 --> 00:35:12,190
-Je vois l'ombre de la mort
-planer sur toi.
-
-508
-00:35:20,560 --> 00:35:24,900
-Le Log Pose nous indique vraiment
-la direction de cette île ?
-
-509
-00:35:25,140 --> 00:35:28,550
-La foudre...
-Elle se déchaîne !
-
-510
-00:35:28,980 --> 00:35:30,970
-C'est de la folie !
-
-511
-00:35:36,680 --> 00:35:39,120
-Comment va-t-on accoster ?
-
-512
-00:35:41,000 --> 00:35:44,920
-Les audacieux qui ont osé pénétrer
-dans le Nouveau Monde...
-
-513
-00:35:45,960 --> 00:35:48,390
-Mon père, quelqu'un approche !
-
-514
-00:35:49,530 --> 00:35:50,530
-Qui est-ce ?
-
-515
-00:35:50,900 --> 00:35:53,100
-Ces audacieux parlent tous
-
-516
-00:35:53,250 --> 00:35:55,470
-des mers de Grand Line
-de la même façon.
-
-517
-00:35:55,770 --> 00:35:57,930
-Holà, jeunes gens.
-
-518
-00:35:58,440 --> 00:36:00,940
-C'est qui, cette vieille femme ?
-
-519
-00:36:01,140 --> 00:36:04,940
-"Grand Line, c'était le Paradis."
-
-520
-00:36:07,180 --> 00:36:10,180
-Avez-vous besoin d'un parapluie ?
-
-521
-00:36:10,880 --> 00:36:14,820
-Si vous restez sur ces mers,
-vous ne survivrez pas longtemps !
-
-522
-00:36:14,820 --> 00:36:19,060
-On veut juste
-retourner à Paradise ! Pitié !
-
-523
-00:36:19,920 --> 00:36:22,060
-Tu me fatigues déjà.
-
-524
-00:36:23,730 --> 00:36:28,530
-Les gens qui ne sont résolus
-ni à vivre ni à mourir
-
-525
-00:36:28,830 --> 00:36:35,530
-n'ont rien à faire sur ces mers !
-
-526
-00:36:38,480 --> 00:36:41,450
-J'aurai vite ta peau.
-
-527
-00:36:41,650 --> 00:36:45,730
-Prépare-toi à mourir,
-Chapeau de paille !
-
-528
-00:02:44,740 --> 00:02:49,720
-East Blue : Sur un Pont Gigantesque
-
-529
 00:05:22,900 --> 00:05:26,610
 Grand Line
 Île Rose, Royaume de Kedétrav
 
-530
+81
+00:05:26,970 --> 00:05:29,740
+Donc ça,
+c'est bien l'avis de Paille-boy ?
+
+82
+00:05:29,740 --> 00:05:31,080
+Ouais, c'est ça.
+
+83
+00:05:31,610 --> 00:05:33,910
+Et ça,
+c'est Zoro le chasseur de pirates.
+
+84
+00:05:33,910 --> 00:05:34,780
+Je m'en fiche !
+
+85
+00:05:34,780 --> 00:05:37,520
+Nami la chapardeuse.
+
+86
+00:05:39,500 --> 00:05:42,820
+Ça, c'est le Roi des snipers,
+Sniperking.
+
+87
+00:05:42,820 --> 00:05:43,820
+Ouais.
+
+88
+00:05:44,220 --> 00:05:46,360
+Et ça... c'est toi.
+
+89
+00:05:46,360 --> 00:05:46,930
+Sûrement pas !
+
+90
+00:05:46,930 --> 00:05:48,170
+Tu vois ?
+
+91
+00:05:48,330 --> 00:05:50,460
+Tu n'as pas d'avis !
+
+92
+00:05:50,460 --> 00:05:54,170
+T'es donc pas un de ses compagnons,
+arrête tes craques !
+
+93
+00:05:54,170 --> 00:05:56,420
+Je te dis que si !
+
+94
+00:05:56,570 --> 00:06:00,310
+Dis-moi ce qui est arrivé à Luffy,
+travelo en chef !
+
+95
+00:06:00,670 --> 00:06:04,480
+T'étais avec lui,
+c'est marqué dans le journal.
+
+96
+00:06:04,480 --> 00:06:06,180
+Donc c'est toi ?
+
+97
+00:06:06,180 --> 00:06:07,850
+Non !
+
+98
+00:06:08,610 --> 00:06:11,550
+Non, mais en fait, si...
+
+99
+00:06:13,190 --> 00:06:15,590
+Le nom, c'est bien le mien.
+
+100
+00:06:19,560 --> 00:06:22,260
+C'est si dur que ça à admettre ?
+
+101
+00:06:25,930 --> 00:06:29,200
+Cet avis...
+C'est le mien ! C'est moi, dessus !
+
+102
+00:06:29,500 --> 00:06:32,440
+Ce portrait complètement immonde,
+c'est bien moi !
+
+103
+00:06:32,640 --> 00:06:33,270
+T'es content ?
+
+104
+00:06:37,080 --> 00:06:39,580
+Pas possible,
+c'est pas du tout ressemblant.
+
+105
+00:06:39,880 --> 00:06:41,410
+Me force pas à le dire, alors !
+
+106
+00:06:41,710 --> 00:06:43,520
+Ça m'arrache la bouche, débile !
+
+107
+00:06:43,850 --> 00:06:45,150
+N'insiste pas.
+
+108
+00:06:45,350 --> 00:06:50,780
+Et si tu étais un sbire du Gouvernement
+ou de la Marine ?
+
+109
+00:06:50,920 --> 00:06:53,000
+Tant qu'il reste le moindre doute,
+
+110
+00:06:53,150 --> 00:06:57,000
+je ne te confierai rien
+au sujet de Paille-boy !
+
+111
+00:06:57,300 --> 00:06:58,630
+D'accord.
+
+112
+00:06:58,930 --> 00:07:00,420
+Donne-moi un navire.
+
+113
+00:07:00,570 --> 00:07:03,370
+Je dois rejoindre le point
+de rendez-vous fixé avec Luffy.
+
+114
+00:07:03,370 --> 00:07:04,940
+T'auras pas de navire.
+
+115
+00:07:05,540 --> 00:07:07,340
+Très bien, j'irai à la nage.
+
+116
+00:07:08,140 --> 00:07:09,710
+Qu'est-ce que tu as dit ?
+
+117
+00:07:09,710 --> 00:07:13,050
+C'est exactement le genre de chose
+qu'un ami de Paille-boy dirait !
+
+118
+00:07:14,950 --> 00:07:16,680
+Je dois bien l'admettre,
+
+119
+00:07:16,680 --> 00:07:18,080
+je suis touchée.
+
+120
+00:07:18,080 --> 00:07:22,150
+Convaincue par ton ardeur,
+je vais tout te dire sur Paille-boy.
+
+121
+00:07:24,820 --> 00:07:27,000
+Ou plutôt, je ne dirai rien !
+
+122
+00:07:28,930 --> 00:07:32,230
+Oh, vraiment ?
+Vous nous avez bien eues !
+
+123
+00:07:33,330 --> 00:07:34,400
+Silence !
+
+124
+00:07:37,320 --> 00:07:38,550
+Purée...
+
+125
+00:07:39,120 --> 00:07:40,880
+Il est à bout.
+
+126
+00:07:41,240 --> 00:07:45,340
+C'est le moment !
+Forçons-le à enfiler une robe.
+
+127
+00:07:45,540 --> 00:07:47,310
+Jamais je remettrai ça !
+
+128
+00:07:47,310 --> 00:07:48,410
+Hors de ma vue !
+
+129
+00:07:49,180 --> 00:07:53,490
+J'aime les femmes, moi !
+Je suis un homme, un vrai !
+
+130
+00:07:53,490 --> 00:07:55,920
+M'approchez pas, les affreux.
+
+131
+00:07:59,320 --> 00:08:01,800
+Bon.
+Iva, c'est bien ça ?
+
+132
+00:08:02,130 --> 00:08:05,160
+On va régler cette histoire de navire
+à la pirate.
+
+133
+00:08:06,130 --> 00:08:07,770
+Je te défie en duel.
+
+134
+00:08:08,530 --> 00:08:09,670
+Ça me va.
+
+135
+00:08:22,410 --> 00:08:26,620
+Je peux bien te dire
+ce qui est arrivé à Paille-boy, Vrille-boy.
+
+136
+00:08:27,650 --> 00:08:29,760
+Pourquoi t'as changé d'avis ?
+
+137
+00:08:30,320 --> 00:08:34,300
+Tout simplement parce que
+le monde entier est au courant.
+
+138
+00:08:34,460 --> 00:08:37,330
+À quoi est-ce qu'il joue ?
+
+139
+00:08:37,830 --> 00:08:39,600
+Le journal du jour ?
+
+140
+00:08:40,300 --> 00:08:41,230
+Luffy ?
+
+141
+00:08:41,530 --> 00:08:44,040
+Grande Iva ?
+Un appel de Baltigo.
+
+142
+00:08:44,040 --> 00:08:44,840
+Vraiment ?
+
+143
+00:08:45,040 --> 00:08:47,270
+Dans la salle des communications.
+
+144
 00:08:47,540 --> 00:08:54,250
 Grand Line
 L'Île de Sable Blanc, Baltigo
 
-531
+145
+00:08:48,170 --> 00:08:50,140
+Avec la Guerre au Sommet,
+
+146
+00:08:50,280 --> 00:08:54,240
+ils ont tout déballé à ton sujet, Dragon.
+
+147
+00:08:54,650 --> 00:08:57,450
+Ça n'a pas trop perturbé nos troupes ?
+
+148
+00:08:58,820 --> 00:09:02,380
+Tu parles, leur mystérieux chef
+est bel et bien humain, au final.
+
+149
+00:09:02,380 --> 00:09:04,260
+L'article a rassuré tout le monde.
+
+150
+00:09:04,400 --> 00:09:05,920
+Aucun souci à avoir.
+
+151
+00:09:06,160 --> 00:09:07,890
+Et Luffy n'est plus un enfant.
+
+152
+00:09:07,890 --> 00:09:12,430
+Cela dit, je ne m'attendais pas
+à ce qu'il fasse équipe avec toi.
+
+153
+00:09:12,430 --> 00:09:15,970
+C'était un sacré coup du sort, en effet.
+
+154
 00:09:12,730 --> 00:09:22,110
 Escargophone Blanc
 
-532
+(Émet des ondes permettant
+de brouiller les écoutes clandestines)
+
+155
+00:09:16,940 --> 00:09:18,000
+Quoi qu'il en soit,
+
+156
+00:09:18,150 --> 00:09:24,200
+Inazuma et moi, on a plein de choses
+à te dire et à te demander,
+
+157
+00:09:24,200 --> 00:09:25,940
+après notre évasion surprise.
+
+158
+00:09:25,940 --> 00:09:27,500
+Je me doute.
+
+159
+00:09:27,650 --> 00:09:32,580
+Nous organiserons sous peu une réunion
+de tous les cadres de la révolution.
+
+160
+00:09:32,980 --> 00:09:34,440
+La mort de Barbe Blanche
+
+161
+00:09:34,600 --> 00:09:38,360
+va bouleverser le monde
+et changer la donne au Gouvernement.
+
+162
+00:09:38,660 --> 00:09:43,560
+Je dois également te parler de Kuma.
+
+163
+00:09:43,560 --> 00:09:46,730
+Oui,
+ça m'intéresserait d'avoir des détails.
+
+164
+00:09:46,900 --> 00:09:50,740
+Pourquoi obéit-il aveuglément
+au Gouvernement ?
+
+165
+00:09:51,140 --> 00:09:54,070
+Le Kuma que je connaissais
+n'existe plus.
+
+166
+00:09:54,470 --> 00:09:57,940
+Il a même tenté de me tuer.
+
+167
+00:09:58,410 --> 00:10:01,410
+Au fait, Dragon,
+tu as vu le journal ?
+
+168
+00:10:01,650 --> 00:10:05,050
+Paille-boy a encore fait des siennes.
+
+169
+00:10:05,050 --> 00:10:07,720
+Il aime les coups d'éclat,
+comme son papa.
+
+170
+00:10:07,720 --> 00:10:11,660
+Qui aurait cru qu'il retournerait
+à Marine Ford pour faire ça ?
+
+171
+00:10:15,760 --> 00:10:19,560
+Pendant ce temps, à l'endroit
+où est amarré le Thousand Sunny,
+
+172
+00:10:20,060 --> 00:10:22,730
+sur l'archipel des Sabaody
+de Grand Line,
+
+173
+00:10:22,950 --> 00:10:25,470
+au Grove 44.
+
+174
+00:10:25,670 --> 00:10:29,140
+Filez-nous le navire
+sans faire d'histoires.
+
+175
+00:10:29,710 --> 00:10:34,830
+C'est le navire du fils de Dragon,
+Luffy au chapeau de paille !
+
+176
+00:10:35,300 --> 00:10:39,280
+Si on le livre à la Marine,
+on devrait choper une sacrée récompense.
+
+177
+00:10:41,990 --> 00:10:43,960
+Et puisque nous sommes confrères,
+
+178
+00:10:44,560 --> 00:10:48,490
+on vous propose même
+de partager le magot.
+
+179
+00:10:48,860 --> 00:10:50,760
+Qu'en dites-vous, les Exocets Riders ?
+
+180
+00:10:50,760 --> 00:10:52,260
+Quoi ? Je suis beau gosse ?
+
+181
+00:10:53,100 --> 00:10:55,730
+T'es vraiment à la masse !
+File-nous le navire, crétin !
+
+182
+00:10:57,070 --> 00:10:59,970
+Et puis quoi, encore ?
+Rêvez pas !
+
+183
+00:11:06,010 --> 00:11:09,660
+Écoutez-moi bien.
+Moi, c'est Duval le beau gosse.
+
+184
+00:11:09,850 --> 00:11:12,850
+Ce navire est celui de mon bienfaiteur,
+et je suis trop beau...
+
+185
+00:11:13,290 --> 00:11:15,820
+Je ne laisserai personne
+devenir plus beau...
+
+186
+00:11:15,990 --> 00:11:17,390
+Euh, voler le bateau !
+
+187
+00:11:17,860 --> 00:11:20,290
+Il part en latte en cours de phrase.
+
+188
+00:11:20,790 --> 00:11:24,950
+Moi vivant, personne ne touchera
+au navire de Monseigneur.
+
+189
+00:11:25,100 --> 00:11:27,700
+Il faudrait d'abord qu'une demoiselle
+me passe sur le corps !
+
+190
+00:11:27,700 --> 00:11:29,100
+Oups, non.
+
+191
+00:11:29,830 --> 00:11:32,470
+Il faudrait d'abord
+me passer sur le corps !
+
+192
+00:11:32,470 --> 00:11:34,140
+Pas vrai, les gars ?
+
+193
+00:11:34,140 --> 00:11:35,410
+Oui, Dubeaugosse !
+
+194
+00:11:36,840 --> 00:11:38,210
+On s'éclipse !
+
+195
+00:11:39,910 --> 00:11:42,050
+Duvalichou, t'es trop cool !
+
+196
+00:11:43,920 --> 00:11:46,420
+Je suis trop beau,
+les filles craquent toutes.
+
+197
+00:11:48,820 --> 00:11:51,600
+Je t'aime aussi, poupée.
+
+198
+00:11:52,090 --> 00:11:55,130
+On les emmènera
+au Café des sirènes d'abord ?
+
+199
+00:11:55,130 --> 00:11:56,300
+C'est tendance.
+
+200
+00:11:56,460 --> 00:11:59,100
+Non ! Le truc à voir sur notre île,
+
+201
+00:11:59,250 --> 00:12:01,870
+c'est le dojo
+de karaté des Hommes-Poissons.
+
+202
+00:12:01,870 --> 00:12:05,700
+J'ai promis au sac d'os
+de lui présenter la princesse sirène.
+
+203
+00:12:05,700 --> 00:12:08,210
+M'sieur Duval,
+elle vous a mis un gros vent !
+
+204
+00:12:08,610 --> 00:12:10,910
+C'est vrai, mais c'est pas grave.
+
+205
+00:12:11,510 --> 00:12:13,010
+C'est bien ça, Shakky ?
+
+206
+00:12:13,160 --> 00:12:15,510
+Ils vont tous revenir,
+grâce à la Vivre Card.
+
+207
+00:12:16,080 --> 00:12:19,620
+Avec le journal de ce matin,
+on sait que Luffy va bien.
+
+208
+00:12:20,220 --> 00:12:21,690
+Oui,
+
+209
+00:12:22,000 --> 00:12:24,260
+mais il va nous falloir
+un peu de patience.
+
+210
+00:12:24,460 --> 00:12:27,390
+En tout cas,
+Ray a retrouvé le petit Monkey.
+
+211
+00:12:30,800 --> 00:12:34,300
+Il faut protéger ce navire
+jusqu'à leur retour.
+
+212
+00:12:34,500 --> 00:12:37,640
+Je m'occupe de tout, ma p'tite dame !
+
+213
+00:12:37,800 --> 00:12:40,110
+Marine ou autre, qu'ils s'amènent !
+
+214
+00:12:40,310 --> 00:12:44,080
+Personne ne touchera à ce navire !
+
+215
+00:12:44,880 --> 00:12:46,480
+On compte sur vous.
+
+216
+00:12:49,110 --> 00:12:52,780
+M'sieur Duval, c'est la cata !
+Kuma attaque !
+
+217
+00:12:53,220 --> 00:12:56,390
+"Kumquat" ?
+Y a pas de kumquats, ici.
+
+218
+00:12:57,060 --> 00:12:57,690
+Minute...
+
+219
+00:13:05,130 --> 00:13:08,240
+Le Grand Corsaire, Bartholomew Kuma !
+
+220
+00:13:24,050 --> 00:13:25,450
+Pas de panique.
+
+221
+00:13:25,750 --> 00:13:29,450
+Il est passé voir Ray, l'autre jour.
+
+222
+00:13:30,890 --> 00:13:32,560
+C'est un allié.
+
+223
+00:13:33,060 --> 00:13:34,260
+Enfin, j'espère.
+
+224
+00:13:40,770 --> 00:13:44,720
+Nous voici sur l'île des Sables
+de Grand Line,
+
+225
+00:13:44,870 --> 00:13:47,440
+au royaume d'Alabasta.
+
+226
+00:13:48,510 --> 00:13:50,980
+La capitale, Alubarna.
+
+227
+00:13:54,280 --> 00:13:56,420
+Et les pirates ?
+
+228
+00:13:56,580 --> 00:13:59,520
+Refoulés.
+La ville n'a quasiment pas de dommages.
+
+229
+00:13:59,520 --> 00:14:03,150
+Nous avons renforcé la garde
+dans tous les ports.
+
+230
+00:14:03,150 --> 00:14:04,990
+Il faut rester vigilants.
+
+231
+00:14:05,320 --> 00:14:09,730
+Si seulement tous les pirates
+étaient comme le jeune Luffy...
+
+232
+00:14:09,730 --> 00:14:11,660
+Ce serait trop demander.
+
+233
+00:14:12,130 --> 00:14:13,850
+À ce sujet, Votre Altesse,
+
+234
+00:14:14,130 --> 00:14:16,070
+avez-vous vu le journal de ce matin ?
+
+235
+00:14:16,270 --> 00:14:18,000
+Bien sûr.
+
+236
+00:14:20,410 --> 00:14:23,830
+Ces marques sur le bras de Luffy,
+ce sont des chiffres ?
+
+237
+00:14:23,980 --> 00:14:25,380
+Un signe ?
+
+238
+00:14:25,380 --> 00:14:27,710
+Ou alors,
+c'est juste pour faire cool ?
+
+239
+00:14:27,710 --> 00:14:30,180
+Non, ce n'est pas le genre de Luffy.
+
+240
+00:14:38,260 --> 00:14:43,830
+Passons maintenant à une autre ville,
+quelque part sur Grand Line.
+
+241
+00:14:47,530 --> 00:14:51,340
+Hé ! Que fait ce type ici ?
+
+242
+00:14:51,340 --> 00:14:52,600
+Chut !
+Il va t'entendre !
+
+243
+00:14:53,510 --> 00:14:56,710
+Même pas trois semaines
+après la guerre...
+
+244
+00:14:57,940 --> 00:15:00,650
+Alors qu'il en a réchappé de justesse.
+
+245
+00:15:03,920 --> 00:15:07,000
+À quoi est-ce qu'ils jouent ?
+
+246
+00:15:07,250 --> 00:15:09,610
+Ils doivent avoir une idée en tête.
+
+247
+00:15:09,910 --> 00:15:11,720
+Ou ils sont devenus fous.
+
+248
+00:15:12,890 --> 00:15:14,830
+Tu crois, Das ?
+
+249
+00:15:15,960 --> 00:15:18,450
+Le Chapeau de paille
+a subi un gros traumatisme.
+
+250
+00:15:18,670 --> 00:15:21,970
+Une telle blessure
+ne se referme pas si facilement.
+
+251
+00:15:23,330 --> 00:15:26,970
+Tu ne manques pas d'air.
+Tu dis ça pour moi ?
+
+252
+00:15:29,440 --> 00:15:31,710
+Ne t'inquiète pas, je suis guéri.
+
+253
+00:15:32,410 --> 00:15:34,900
+Et pour preuve,
+j'ai décidé qu'il était grand temps
+
+254
+00:15:35,050 --> 00:15:37,350
+de repartir pour le Nouveau Monde.
+
+255
+00:15:38,850 --> 00:15:40,220
+Tu m'accompagnes ?
+
+256
+00:15:42,590 --> 00:15:43,890
+Évidemment.
+
+257
+00:15:45,060 --> 00:15:48,460
+Quelque part sur une île reculée
+de Grand Line...
+
+258
+00:15:53,330 --> 00:15:55,770
+Depuis votre capture,
+
+259
+00:15:55,770 --> 00:15:59,700
+nous étions rongés par l'angoisse,
+au point d'en perdre le sommeil.
+
+260
+00:16:00,020 --> 00:16:01,600
+Navigant sans trêve,
+
+261
+00:16:01,600 --> 00:16:04,430
+nous en avons salement bavé,
+un vrai calvaire.
+
+262
+00:16:04,580 --> 00:16:05,750
+On vous croyait en prison,
+
+263
+00:16:05,750 --> 00:16:09,050
+on vous découvre en héros,
+à la une des journaux !
+
+264
+00:16:13,890 --> 00:16:15,500
+Capitaine Baggy !
+
+265
+00:16:15,650 --> 00:16:17,420
+On vous a tant cherché !
+
+266
+00:16:19,090 --> 00:16:23,140
+On a toujours été 100 % derrière vous.
+Quand on a vu la une, on s'est dit :
+
+267
+00:16:23,390 --> 00:16:27,070
+"Tiens-toi bien, Nouveau Monde !
+Voici notre capitaine !"
+
+268
+00:16:28,270 --> 00:16:31,700
+Les gars,
+vous avez tellement foi en moi ?
+
+269
+00:16:31,700 --> 00:16:33,940
+Vous m'avez manqué !
+
+270
+00:16:33,940 --> 00:16:36,270
+Capitaine Baggy !
+
+271
+00:16:42,750 --> 00:16:44,250
+Non, mais franchement...
+
+272
+00:16:44,980 --> 00:16:47,390
+Vous ne l'avez pas abandonné, plutôt ?
+
+273
+00:16:58,500 --> 00:17:01,130
+Ça, c'est de l'accueil, mes braves !
+
+274
+00:17:02,430 --> 00:17:06,070
+Je suis le capitaine en second
+des pirates de Baggy, Morge !
+
+275
+00:17:06,070 --> 00:17:08,640
+Notre pote Morge !
+
+276
+00:17:09,640 --> 00:17:11,910
+Je suis le quartier-maître Cabaji.
+
+277
+00:17:11,910 --> 00:17:14,650
+Notre pote Cabaji !
+
+278
+00:17:14,650 --> 00:17:17,350
+Et ça, c'est mon fidèle compagnon :
+
+279
+00:17:17,500 --> 00:17:19,090
+Richie !
+
+280
+00:17:20,140 --> 00:17:22,290
+Richie !
+
+281
+00:17:25,960 --> 00:17:27,400
+Je n'en reviens pas.
+
+282
+00:17:27,550 --> 00:17:30,560
+L'article de journal disait donc vrai ?
+
+283
+00:17:30,860 --> 00:17:35,430
+J'ai déjà vu leurs têtes sur des avis,
+ils sont tous mis à prix.
+
+284
+00:17:36,600 --> 00:17:38,060
+Je pense bien, oui !
+
+285
+00:17:38,060 --> 00:17:41,310
+C'est un ramassis d'affreux,
+sortis d'Impel Down.
+
+286
+00:17:41,310 --> 00:17:43,000
+J'y pense...
+
+287
+00:17:43,150 --> 00:17:46,750
+Alvida, tu veux voir un truc extra ?
+
+288
+00:17:47,330 --> 00:17:48,950
+Tadaa !
+
+289
+00:17:49,910 --> 00:17:51,220
+Mais c'est...
+
+290
+00:17:51,520 --> 00:17:55,140
+C'est l'indice menant au trésor
+de capitaine John ?
+
+291
+00:17:55,320 --> 00:17:56,550
+Bingo.
+
+292
+00:17:56,550 --> 00:17:59,890
+Mais c'est fabuleux !
+Comment as-tu mis la main dessus ?
+
+293
+00:18:00,960 --> 00:18:04,730
+C'est ce nigaud de Chapeau de paille
+qui l'avait !
+
+294
+00:18:06,260 --> 00:18:09,650
+Tu veux que je te dise,
+la chance est en train de tourner.
+
+295
+00:18:09,800 --> 00:18:13,140
+Et elle met le cap droit sur moi !
+
+296
+00:18:15,140 --> 00:18:16,240
+Hep, Baggy !
+
+297
+00:18:18,140 --> 00:18:21,550
+Le Gouvernement t'envoie
+une chauve-souris messagère.
+
+298
+00:18:21,550 --> 00:18:23,410
+Hein ?
+Comment ils m'ont trouvé ?
+
+299
+00:18:25,220 --> 00:18:26,480
+Impossible...
+
+300
+00:18:28,390 --> 00:18:30,220
+Tu vas jamais deviner ce que ça dit.
+
+301
+00:18:30,220 --> 00:18:32,420
+N'ouvre pas mon courrier !
+
+302
+00:18:34,590 --> 00:18:38,070
+Décidément,
+ce garçon aime faire parler de lui.
+
+303
+00:18:38,230 --> 00:18:39,870
+Quand on sait que ce Luffy
+
+304
+00:18:40,070 --> 00:18:43,230
+est le petit-fils de Garp,
+on saisit tout de suite mieux.
+
+305
+00:18:43,230 --> 00:18:46,910
+Quelle est la nature
+de ses liens avec Rayleigh ?
+
+306
+00:18:47,240 --> 00:18:50,480
+Pourquoi fait-il son retour
+après tout ce temps ?
+
+307
+00:18:51,140 --> 00:18:53,650
+Et Jinbe s'est finalement
+retourné contre nous.
+
+308
+00:18:53,850 --> 00:18:55,700
+En rejoignant les Corsaires,
+
+309
+00:18:55,850 --> 00:18:59,080
+il était devenu un symbole de paix
+entre les races.
+
+310
+00:18:59,080 --> 00:19:00,620
+C'est vraiment regrettable.
+
+311
+00:19:00,620 --> 00:19:04,700
+L'équilibre des Trois Puissances
+appartient déjà au passé.
+
+312
+00:19:04,860 --> 00:19:08,490
+Qui va combler les trois postes vacants
+parmi les Corsaires ?
+
+313
+00:19:08,800 --> 00:19:11,960
+Attendons de voir ce qui va se passer
+dans le Nouveau Monde.
+
+314
+00:19:12,100 --> 00:19:15,670
+L'équilibre des forces
+va être bouleversé parmi les pirates.
+
+315
+00:19:15,670 --> 00:19:19,140
+Nous devrons choisir
+les plus influents d'entre eux.
+
+316
+00:19:19,550 --> 00:19:23,240
+Barbe Noire est déjà passé à l'action
+dans le Nouveau Monde.
+
+317
+00:19:23,440 --> 00:19:25,800
+Une des onze Supernova
+
+318
+00:19:25,950 --> 00:19:28,600
+en a déjà fait les frais.
+
+319
+00:19:29,000 --> 00:19:33,820
+Il connaît par cœur
+le territoire de Barbe Blanche.
+
+320
+00:19:35,190 --> 00:19:38,220
+Il a déjà une longueur d'avance
+parmi les pirates
+
+321
+00:19:38,370 --> 00:19:40,660
+voulant devenir
+l'un des Quatre Empereurs.
+
+322
+00:19:40,930 --> 00:19:44,120
+Un homme ayant mangé
+deux Fruits du Démon,
+
+323
+00:19:44,330 --> 00:19:46,750
+c'est du jamais vu.
+
+324
+00:19:47,200 --> 00:19:50,520
+La seule personne capable
+de l'arrêter sera sûrement...
+
+325
+00:19:50,950 --> 00:19:52,340
+un des Quatre Empereurs.
+
+326
+00:19:53,040 --> 00:19:57,480
+Ou bien Marco le Phénix
+et le reste des hommes de Barbe Blanche.
+
+327
+00:19:58,880 --> 00:20:01,750
+Cette particule, "D",
+est toujours une source d'ennuis.
+
+328
+00:20:01,750 --> 00:20:03,720
+Portgas la portait aussi.
+
+329
+00:20:03,920 --> 00:20:06,050
+Ces noms avec un "D" sont rares,
+
+330
+00:20:06,200 --> 00:20:09,050
+mais ils attirent
+un peu trop l'attention.
+
+331
+00:20:12,620 --> 00:20:14,360
+J'ai tenté de l'en dissuader,
+
+332
 00:20:12,990 --> 00:20:17,960
 Terre Sainte de Marie Joie, Red Line
 
-533
+333
+00:20:14,600 --> 00:20:17,960
+mais Garp a bien renoncé à son poste.
+
+334
 00:20:18,760 --> 00:20:29,540
 Kong
 
-534
+335
 00:20:18,760 --> 00:20:29,540
 Chef d'État-Major des Armées
 
-535
+336
+00:20:18,800 --> 00:20:23,160
+Toutefois,
+il gardera officiellement son titre.
+
+337
+00:20:23,560 --> 00:20:27,000
+On en a besoin pour former
+nos jeunes recrues.
+
+338
+00:20:27,490 --> 00:20:30,400
+Si vous renoncez
+à votre poste d'Amiral en chef,
+
+339
+00:20:30,750 --> 00:20:33,240
+je vous demanderai
+d'en faire de même.
+
+340
+00:20:33,240 --> 00:20:34,710
+Sengoku.
+
+341
+00:20:35,010 --> 00:20:35,900
+Très bien.
+
+342
+00:20:36,610 --> 00:20:38,750
+J'accepte votre requête.
+
+343
+00:20:39,050 --> 00:20:41,920
+C'est peut-être une bonne manière
+de finir ma carrière.
+
+344
+00:20:45,020 --> 00:20:46,720
+Vous voir partir tous les deux,
+
+345
+00:20:46,720 --> 00:20:49,700
+alors que vous avez mené la Marine
+sur tous les fronts
+
+346
+00:20:49,850 --> 00:20:52,000
+depuis le début de l'ère Roger,
+
+347
+00:20:52,230 --> 00:20:54,600
+va faire grand bruit.
+
+348
+00:20:54,600 --> 00:20:59,470
+Et avec les fugitifs
+du 6e Cercle d'Impel Down,
+
+349
+00:20:59,870 --> 00:21:03,780
+on a encore beaucoup
+de pirates de légende à affronter.
+
+350
+00:21:05,110 --> 00:21:08,680
+Newgate était le plus fort d'entre eux.
+
+351
+00:21:10,620 --> 00:21:14,000
+L'âge d'or de la piraterie
+ne sera bientôt plus la même.
+
+352
+00:21:14,330 --> 00:21:17,820
+Qu'est-ce qu'un vieux soldat
+a encore à faire dans la Marine ?
+
+353
+00:21:18,120 --> 00:21:21,890
+La justice est fondée sur des valeurs,
+et les générations changent.
+
+354
+00:21:24,060 --> 00:21:26,130
+Et ça fait peine à entendre.
+
+355
+00:21:26,130 --> 00:21:28,130
+Quoi qu'il en soit, Kong,
+
+356
+00:21:28,130 --> 00:21:31,070
+j'aimerais recommander Aokiji
+
+357
+00:21:31,270 --> 00:21:34,310
+pour me succéder
+au poste d'Amiral en chef.
+
+358
+00:21:35,870 --> 00:21:37,610
+Il a donc survécu.
+
+359
+00:21:38,310 --> 00:21:39,480
+Bien joué.
+
+360
+00:21:40,380 --> 00:21:44,020
+T'es au courant ? Le Chapeau de paille
+a encore fait parler de lui.
+
+361
+00:21:44,320 --> 00:21:45,280
+Ouais.
+
+362
+00:21:45,280 --> 00:21:49,150
+La guerre est encore fraîche,
+et il revient chez nous
+
+363
+00:21:49,290 --> 00:21:50,990
+sonner la cloche seize fois ?
+
+364
+00:21:50,990 --> 00:21:53,320
+C'est une sorte de message ?
+
+365
+00:21:54,960 --> 00:21:56,530
+Va savoir.
+
+366
+00:21:57,070 --> 00:21:59,500
+Bon, et pour ma demande de mutation ?
+
+367
+00:22:00,030 --> 00:22:03,840
+Eh bien,
+j'en parlerai à l'Amiral Sengoku.
+
+368
+00:22:03,840 --> 00:22:05,640
+Mais tu es sérieux ?
+
+369
+00:22:05,900 --> 00:22:09,000
+Je ne plaisante pas
+avec ce genre de sujet.
+
+370
+00:22:09,170 --> 00:22:11,100
+J'entends bien, mais tout de même...
+
+371
+00:22:11,250 --> 00:22:15,210
+Personne ne se porte volontaire
+pour aller au G5.
+
+372
+00:22:15,510 --> 00:22:18,280
+C'est un nid à problèmes, là-bas.
+
+373
+00:22:19,650 --> 00:22:23,250
+C'est la 5e base de la Marine
+sur Grand Line.
+
+374
+00:22:23,860 --> 00:22:26,720
+En clair, tu veux aller
+dans le Nouveau Monde.
+
+375
+00:22:27,000 --> 00:22:30,760
+Pour atteindre sa cible,
+le mieux est de s'en approcher.
+
+376
 00:22:31,060 --> 00:22:35,730
 QG de la Marine - Service Médical
 
-536
+377
+00:22:32,610 --> 00:22:35,430
+On appelle ce pouvoir le "Haki".
+
+378
+00:22:35,730 --> 00:22:38,340
+Vous en possédez une variante.
+
+379
+00:22:39,640 --> 00:22:43,210
+Le traumatisme de la guerre
+a dû l'éveiller en vous.
+
+380
+00:22:43,440 --> 00:22:48,280
+Normalement, ce don ne se révèle
+qu'après des années d'entraînement.
+
+381
+00:22:48,280 --> 00:22:50,900
+C'est le Haki ?
+
+382
+00:22:51,550 --> 00:22:55,950
+Tous les officiers ayant au moins
+le rang de Vice-amiral le maîtrisent.
+
+383
+00:22:55,950 --> 00:22:56,790
+Sérieusement ?
+
+384
+00:22:56,790 --> 00:23:01,160
+Je n'arrive pas à me calmer
+tant mes sens sont en éveil !
+
+385
+00:23:01,660 --> 00:23:04,100
+Vous êtes des disciples de Garp ?
+
+386
+00:23:04,400 --> 00:23:06,130
+Demandez-lui de vous apprendre.
+
+387
+00:23:06,130 --> 00:23:07,670
+Hé, docteur !
+
+388
+00:23:07,900 --> 00:23:10,000
+J'y arriverai aussi ?
+
+389
+00:23:10,000 --> 00:23:11,440
+Qu'est-ce que j'en sais ?
+
+390
+00:23:13,200 --> 00:23:14,600
+Bon sang !
+
+391
+00:23:14,750 --> 00:23:18,250
+J'ai maintenant l'impression
+que t'as pris une longueur d'avance !
+
+392
+00:23:18,510 --> 00:23:21,310
+Je n'y comprends rien, moi non plus.
+
+393
 00:23:21,310 --> 00:23:24,620
 Salle de Réunion
 
-537
+394
+00:23:22,750 --> 00:23:24,620
+C'est proprement ahurissant !
+
+395
+00:23:25,220 --> 00:23:27,100
+Nous avons appris durant la guerre
+
+396
+00:23:27,250 --> 00:23:29,900
+qu'il était le frère
+du défunt Portgas D. Ace,
+
+397
+00:23:30,120 --> 00:23:32,590
+le fils de Dragon le Révolutionnaire,
+
+398
+00:23:33,050 --> 00:23:38,000
+mais aussi le petit-fils
+de notre Vice-amiral Garp !
+
+399
+00:23:38,260 --> 00:23:41,070
+Je parle du pirate Monkey D. Luffy !
+
+400
 00:23:41,670 --> 00:23:41,700
 Le Chapeau de paille à Marine Ford
 
-538
+401
 00:23:41,700 --> 00:23:41,730
 Le Chapeau de paille à Marine Ford
 
-539
+402
+00:23:41,730 --> 00:23:45,000
+Il était porté disparu
+depuis la fin des combats.
+
+403
 00:23:41,730 --> 00:23:41,770
 Le Chapeau de paille à Marine Ford
 
-540
+404
 00:23:41,770 --> 00:23:41,800
 Le Chapeau de paille à Marine Ford
 
-541
+405
 00:23:41,800 --> 00:23:41,830
 Le Chapeau de paille à Marine Ford
 
-542
+406
 00:23:41,830 --> 00:23:41,870
 Le Chapeau de paille à Marine Ford
 
-543
+407
 00:23:41,870 --> 00:23:41,900
 Le Chapeau de paille à Marine Ford
 
-544
+408
 00:23:41,900 --> 00:23:41,930
 Le Chapeau de paille à Marine Ford
 
-545
+409
 00:23:41,930 --> 00:23:41,970
 Le Chapeau de paille à Marine Ford
 
-546
+410
 00:23:41,970 --> 00:23:42,000
 Le Chapeau de paille à Marine Ford
 
-547
+411
 00:23:42,000 --> 00:23:42,030
 Le Chapeau de paille à Marine Ford
 
-548
+412
 00:23:42,030 --> 00:23:42,070
 Le Chapeau de paille à Marine Ford
 
-549
+413
 00:23:42,070 --> 00:23:42,100
 Le Chapeau de paille à Marine Ford
 
-550
+414
 00:23:42,100 --> 00:23:42,130
 Le Chapeau de paille à Marine Ford
 
-551
+415
 00:23:42,130 --> 00:23:42,170
 Le Chapeau de paille à Marine Ford
 
-552
+416
 00:23:42,170 --> 00:23:42,200
 Le Chapeau de paille à Marine Ford
 
-553
+417
 00:23:42,200 --> 00:23:42,230
 Le Chapeau de paille à Marine Ford
 
-554
+418
 00:23:42,230 --> 00:23:42,270
 Le Chapeau de paille à Marine Ford
 
-555
+419
 00:23:42,270 --> 00:23:42,300
 Le Chapeau de paille à Marine Ford
 
-556
+420
 00:23:42,300 --> 00:23:42,330
 Le Chapeau de paille à Marine Ford
 
-557
+421
 00:23:42,330 --> 00:23:42,370
 Le Chapeau de paille à Marine Ford
 
-558
+422
 00:23:42,370 --> 00:23:42,400
 Le Chapeau de paille à Marine Ford
 
-559
+423
 00:23:42,400 --> 00:23:42,430
 Le Chapeau de paille à Marine Ford
 
-560
+424
 00:23:42,430 --> 00:23:42,470
 Le Chapeau de paille à Marine Ford
 
-561
+425
 00:23:42,470 --> 00:23:42,500
 Le Chapeau de paille à Marine Ford
 
-562
+426
 00:23:42,500 --> 00:23:42,530
 Le Chapeau de paille à Marine Ford
 
-563
+427
 00:23:42,530 --> 00:23:42,570
 Le Chapeau de paille à Marine Ford
 
-564
+428
 00:23:42,570 --> 00:23:42,600
 Le Chapeau de paille à Marine Ford
 
-565
+429
 00:23:42,600 --> 00:23:42,630
 Le Chapeau de paille à Marine Ford
 
-566
+430
 00:23:42,630 --> 00:23:42,670
 Le Chapeau de paille à Marine Ford
 
-567
+431
 00:23:42,670 --> 00:23:42,700
 Le Chapeau de paille à Marine Ford
 
-568
+432
 00:23:42,700 --> 00:23:42,730
 Le Chapeau de paille à Marine Ford
 
-569
+433
 00:23:42,730 --> 00:23:42,770
 Le Chapeau de paille à Marine Ford
 
-570
+434
 00:23:42,770 --> 00:23:42,800
 Le Chapeau de paille à Marine Ford
 
-571
+435
 00:23:42,800 --> 00:23:42,830
 Le Chapeau de paille à Marine Ford
 
-572
+436
 00:23:42,830 --> 00:23:42,870
 Le Chapeau de paille à Marine Ford
 
-573
+437
 00:23:42,870 --> 00:23:42,900
 Le Chapeau de paille à Marine Ford
 
-574
+438
 00:23:42,900 --> 00:23:42,930
 Le Chapeau de paille à Marine Ford
 
-575
+439
 00:23:42,930 --> 00:23:42,970
 Le Chapeau de paille à Marine Ford
 
-576
+440
 00:23:42,970 --> 00:23:43,000
 Le Chapeau de paille à Marine Ford
 
-577
+441
 00:23:43,000 --> 00:23:43,030
 Le Chapeau de paille à Marine Ford
 
-578
+442
 00:23:43,030 --> 00:23:43,070
 Le Chapeau de paille à Marine Ford
 
-579
+443
 00:23:43,070 --> 00:23:43,100
 Le Chapeau de paille à Marine Ford
 
-580
+444
 00:23:43,100 --> 00:23:43,130
 Le Chapeau de paille à Marine Ford
 
-581
+445
 00:23:43,130 --> 00:23:43,170
 Le Chapeau de paille à Marine Ford
 
-582
+446
 00:23:43,170 --> 00:23:43,200
 Le Chapeau de paille à Marine Ford
 
-583
+447
 00:23:43,200 --> 00:23:43,230
 Le Chapeau de paille à Marine Ford
 
-584
+448
 00:23:43,230 --> 00:23:43,270
 Le Chapeau de paille à Marine Ford
 
-585
+449
 00:23:43,270 --> 00:23:43,300
 Le Chapeau de paille à Marine Ford
 
-586
+450
 00:23:43,300 --> 00:23:43,330
 Le Chapeau de paille à Marine Ford
 
-587
+451
 00:23:43,330 --> 00:23:43,370
 Le Chapeau de paille à Marine Ford
 
-588
+452
 00:23:43,370 --> 00:23:43,400
 Le Chapeau de paille à Marine Ford
 
-589
+453
 00:23:43,400 --> 00:23:43,430
 Le Chapeau de paille à Marine Ford
 
-590
+454
 00:23:43,430 --> 00:23:43,470
 Le Chapeau de paille à Marine Ford
 
-591
+455
 00:23:43,470 --> 00:23:43,500
 Le Chapeau de paille à Marine Ford
 
-592
+456
 00:23:43,500 --> 00:23:43,530
 Le Chapeau de paille à Marine Ford
 
-593
+457
 00:23:43,530 --> 00:23:43,570
 Le Chapeau de paille à Marine Ford
 
-594
+458
 00:23:43,570 --> 00:23:43,600
 Le Chapeau de paille à Marine Ford
 
-595
+459
 00:23:43,600 --> 00:23:43,630
 Le Chapeau de paille à Marine Ford
 
-596
+460
 00:23:43,630 --> 00:23:43,670
 Le Chapeau de paille à Marine Ford
 
-597
+461
 00:23:43,670 --> 00:23:43,700
 Le Chapeau de paille à Marine Ford
 
-598
+462
 00:23:43,700 --> 00:23:43,730
 Le Chapeau de paille à Marine Ford
 
-599
+463
 00:23:43,730 --> 00:23:43,770
 Le Chapeau de paille à Marine Ford
 
-600
+464
 00:23:43,770 --> 00:23:43,800
 Le Chapeau de paille à Marine Ford
 
-601
+465
 00:23:43,800 --> 00:23:43,830
 Le Chapeau de paille à Marine Ford
 
-602
+466
 00:23:43,830 --> 00:23:43,870
 Le Chapeau de paille à Marine Ford
 
-603
+467
 00:23:43,870 --> 00:23:43,900
 Le Chapeau de paille à Marine Ford
 
-604
+468
 00:23:43,900 --> 00:23:43,940
 Le Chapeau de paille à Marine Ford
 
-605
+469
 00:23:43,940 --> 00:23:43,970
 Le Chapeau de paille à Marine Ford
 
-606
+470
 00:23:43,970 --> 00:23:44,000
 Le Chapeau de paille à Marine Ford
 
-607
+471
 00:23:44,000 --> 00:23:44,040
 Le Chapeau de paille à Marine Ford
 
-608
+472
 00:23:44,040 --> 00:23:44,070
 Le Chapeau de paille à Marine Ford
 
-609
+473
 00:23:44,070 --> 00:23:44,100
 Le Chapeau de paille à Marine Ford
 
-610
+474
 00:23:44,100 --> 00:23:44,140
 Le Chapeau de paille à Marine Ford
 
-611
+475
 00:23:44,140 --> 00:23:44,170
 Le Chapeau de paille à Marine Ford
 
-612
+476
 00:23:44,170 --> 00:23:44,200
 Le Chapeau de paille à Marine Ford
 
-613
+477
 00:23:44,200 --> 00:23:44,240
 Le Chapeau de paille à Marine Ford
 
-614
+478
 00:23:44,240 --> 00:23:44,270
 Le Chapeau de paille à Marine Ford
 
-615
+479
 00:23:44,270 --> 00:23:44,300
 Le Chapeau de paille à Marine Ford
 
-616
+480
 00:23:44,300 --> 00:23:44,340
 Le Chapeau de paille à Marine Ford
 
-617
+481
 00:23:44,340 --> 00:23:44,370
 Le Chapeau de paille à Marine Ford
 
-618
+482
 00:23:44,370 --> 00:23:44,400
 Le Chapeau de paille à Marine Ford
 
-619
+483
 00:23:44,400 --> 00:23:44,440
 Le Chapeau de paille à Marine Ford
 
-620
+484
 00:23:44,440 --> 00:23:44,470
 Le Chapeau de paille à Marine Ford
 
-621
+485
 00:23:44,470 --> 00:23:44,500
 Le Chapeau de paille à Marine Ford
 
-622
+486
 00:23:44,500 --> 00:23:44,540
 Le Chapeau de paille à Marine Ford
 
-623
+487
 00:23:44,540 --> 00:23:44,570
 Le Chapeau de paille à Marine Ford
 
-624
+488
 00:23:44,570 --> 00:23:44,600
 Le Chapeau de paille à Marine Ford
 
-625
+489
 00:23:44,600 --> 00:23:44,640
 Le Chapeau de paille à Marine Ford
 
-626
+490
 00:23:44,640 --> 00:23:44,670
 Le Chapeau de paille à Marine Ford
 
-627
+491
 00:23:44,670 --> 00:23:44,700
 Le Chapeau de paille à Marine Ford
 
-628
+492
 00:23:44,700 --> 00:23:44,740
 Le Chapeau de paille à Marine Ford
 
-629
+493
 00:23:44,740 --> 00:23:44,770
 Le Chapeau de paille à Marine Ford
 
-630
+494
 00:23:44,770 --> 00:23:44,800
 Le Chapeau de paille à Marine Ford
 
-631
+495
 00:23:44,800 --> 00:23:44,840
 Le Chapeau de paille à Marine Ford
 
-632
+496
 00:23:44,840 --> 00:23:44,870
 Le Chapeau de paille à Marine Ford
 
-633
+497
 00:23:44,870 --> 00:23:44,900
 Le Chapeau de paille à Marine Ford
 
-634
+498
 00:23:44,900 --> 00:23:44,940
 Le Chapeau de paille à Marine Ford
 
-635
+499
 00:23:44,940 --> 00:23:44,970
 Le Chapeau de paille à Marine Ford
 
-636
+500
 00:23:44,970 --> 00:23:45,000
 Le Chapeau de paille à Marine Ford
 
-637
+501
+00:23:45,000 --> 00:23:48,040
+Non seulement il était en vie,
+mais en plus,
+
+502
 00:23:45,000 --> 00:23:45,040
 Le Chapeau de paille à Marine Ford
 
-638
+503
 00:23:45,040 --> 00:23:45,070
 Le Chapeau de paille à Marine Ford
 
-639
+504
 00:23:45,070 --> 00:23:45,100
 Le Chapeau de paille à Marine Ford
 
-640
+505
 00:23:45,100 --> 00:23:45,140
 Le Chapeau de paille à Marine Ford
 
-641
+506
 00:23:45,140 --> 00:23:45,170
 Le Chapeau de paille à Marine Ford
 
-642
+507
 00:23:45,170 --> 00:23:45,200
 Le Chapeau de paille à Marine Ford
 
-643
+508
 00:23:45,200 --> 00:23:45,240
 Le Chapeau de paille à Marine Ford
 
-644
+509
 00:23:45,240 --> 00:23:45,270
 Le Chapeau de paille à Marine Ford
 
-645
+510
 00:23:45,270 --> 00:23:45,300
 Le Chapeau de paille à Marine Ford
 
-646
+511
 00:23:45,300 --> 00:23:45,340
 Le Chapeau de paille à Marine Ford
 
-647
+512
 00:23:45,340 --> 00:23:45,370
 Le Chapeau de paille à Marine Ford
 
-648
+513
 00:23:45,370 --> 00:23:45,400
 Le Chapeau de paille à Marine Ford
 
-649
+514
 00:23:45,400 --> 00:23:45,440
 Le Chapeau de paille à Marine Ford
 
-650
+515
 00:23:45,440 --> 00:23:45,470
 Le Chapeau de paille à Marine Ford
 
-651
+516
 00:23:45,470 --> 00:23:45,500
 Le Chapeau de paille à Marine Ford
 
-652
+517
 00:23:45,500 --> 00:23:45,540
 Le Chapeau de paille à Marine Ford
 
-653
+518
 00:23:45,540 --> 00:23:45,570
 Le Chapeau de paille à Marine Ford
 
-654
+519
 00:23:45,570 --> 00:23:45,600
 Le Chapeau de paille à Marine Ford
 
-655
+520
 00:23:45,600 --> 00:23:45,640
 Le Chapeau de paille à Marine Ford
 
-656
+521
 00:23:45,640 --> 00:23:45,670
 Le Chapeau de paille à Marine Ford
 
-657
+522
 00:23:45,670 --> 00:23:45,700
 Le Chapeau de paille à Marine Ford
 
-658
+523
 00:23:45,700 --> 00:23:45,740
 Le Chapeau de paille à Marine Ford
 
-659
+524
 00:23:45,740 --> 00:23:45,770
 Le Chapeau de paille à Marine Ford
 
-660
+525
 00:23:45,770 --> 00:23:45,800
 Le Chapeau de paille à Marine Ford
 
-661
+526
 00:23:45,800 --> 00:23:45,840
 Le Chapeau de paille à Marine Ford
 
-662
+527
 00:23:45,840 --> 00:23:45,870
 Le Chapeau de paille à Marine Ford
 
-663
+528
 00:23:45,870 --> 00:23:45,900
 Le Chapeau de paille à Marine Ford
 
-664
+529
 00:23:45,900 --> 00:23:45,940
 Le Chapeau de paille à Marine Ford
 
-665
+530
 00:23:45,940 --> 00:23:45,970
 Le Chapeau de paille à Marine Ford
 
-666
+531
 00:23:45,970 --> 00:23:46,000
 Le Chapeau de paille à Marine Ford
 
-667
+532
 00:23:46,000 --> 00:23:46,040
 Le Chapeau de paille à Marine Ford
 
-668
+533
 00:23:46,040 --> 00:23:46,070
 Le Chapeau de paille à Marine Ford
 
-669
+534
 00:23:46,070 --> 00:23:46,100
 Le Chapeau de paille à Marine Ford
 
-670
+535
 00:23:46,100 --> 00:23:46,140
 Le Chapeau de paille à Marine Ford
 
-671
+536
 00:23:46,140 --> 00:23:46,240
 Le Chapeau de paille à Marine Ford
 
-672
+537
 00:23:46,240 --> 00:23:46,270
 Le Chapeau de paille à Marine Ford
 
-673
+538
 00:23:46,270 --> 00:23:46,300
 Le Chapeau de paille à Marine Ford
 
-674
+539
 00:23:46,300 --> 00:23:46,400
 Le Chapeau de paille à Marine Ford
 
-675
+540
 00:23:46,400 --> 00:23:46,440
 Le Chapeau de paille à Marine Ford
 
-676
+541
 00:23:46,440 --> 00:23:47,000
 Le Chapeau de paille à Marine Ford
 
-677
+542
 00:23:47,000 --> 00:23:47,240
 Le Chapeau de paille à Marine Ford
 
-678
+543
 00:23:47,240 --> 00:23:47,640
 Le Chapeau de paille à Marine Ford
 
-679
+544
 00:23:47,640 --> 00:23:47,670
 Le Chapeau de paille à Marine Ford
 
-680
+545
 00:23:47,670 --> 00:23:47,710
 Le Chapeau de paille à Marine Ford
 
-681
+546
 00:23:47,710 --> 00:23:47,810
 Le Chapeau de paille à Marine Ford
 
-682
+547
 00:23:47,810 --> 00:23:47,840
 Le Chapeau de paille à Marine Ford
 
-683
+548
 00:23:47,840 --> 00:23:47,870
 Le Chapeau de paille à Marine Ford
 
-684
+549
 00:23:47,870 --> 00:23:47,910
 Le Chapeau de paille à Marine Ford
 
-685
+550
 00:23:47,910 --> 00:23:47,940
 Le Chapeau de paille à Marine Ford
 
-686
+551
 00:23:47,940 --> 00:23:47,970
 Le Chapeau de paille à Marine Ford
 
-687
+552
 00:23:47,970 --> 00:23:48,010
 Le Chapeau de paille à Marine Ford
 
-688
+553
 00:23:48,010 --> 00:23:48,040
 Le Chapeau de paille à Marine Ford
 
-689
+554
 00:23:48,040 --> 00:23:48,070
 Le Chapeau de paille à Marine Ford
 
-690
+555
 00:23:48,070 --> 00:23:48,110
 Le Chapeau de paille à Marine Ford
 
-691
+556
 00:23:48,110 --> 00:23:48,140
 Le Chapeau de paille à Marine Ford
 
-692
+557
 00:23:48,140 --> 00:23:48,170
 Le Chapeau de paille à Marine Ford
 
-693
+558
 00:23:48,170 --> 00:23:48,210
 Le Chapeau de paille à Marine Ford
 
-694
+559
 00:23:48,210 --> 00:23:48,240
 Le Chapeau de paille à Marine Ford
 
-695
+560
 00:23:48,240 --> 00:23:48,270
 Le Chapeau de paille à Marine Ford
 
-696
+561
 00:23:48,270 --> 00:23:48,310
 Le Chapeau de paille à Marine Ford
 
-697
+562
 00:23:48,310 --> 00:23:48,340
 Le Chapeau de paille à Marine Ford
 
-698
+563
 00:23:48,340 --> 00:23:48,370
 Le Chapeau de paille à Marine Ford
 
-699
+564
 00:23:48,370 --> 00:23:48,410
 Le Chapeau de paille à Marine Ford
 
-700
+565
 00:23:48,410 --> 00:23:48,440
 Le Chapeau de paille à Marine Ford
 
-701
+566
 00:23:48,440 --> 00:23:48,470
 Le Chapeau de paille à Marine Ford
 
-702
+567
 00:23:48,470 --> 00:23:48,510
 Le Chapeau de paille à Marine Ford
 
-703
+568
 00:23:48,510 --> 00:23:48,540
 Le Chapeau de paille à Marine Ford
 
-704
+569
 00:23:48,540 --> 00:23:48,570
 Le Chapeau de paille à Marine Ford
 
-705
-00:23:48,570 --> 00:23:48,610
-Le Chapeau de paille à Marine Ford
-
-706
-00:23:48,610 --> 00:23:48,640
-Le Chapeau de paille à Marine Ford
-
-707
-00:23:48,640 --> 00:23:48,670
-Le Chapeau de paille à Marine Ford
-
-708
-00:23:48,670 --> 00:23:48,710
-Le Chapeau de paille à Marine Ford
-
-709
-00:23:48,710 --> 00:23:48,740
-Le Chapeau de paille à Marine Ford
-
-710
-00:23:48,740 --> 00:23:48,770
-Le Chapeau de paille à Marine Ford
-
-711
+570
 00:23:48,540 --> 00:23:51,610
 Il y a quelques jours
 
-712
+571
+00:23:48,570 --> 00:23:48,610
+Le Chapeau de paille à Marine Ford
+
+572
+00:23:48,610 --> 00:23:48,640
+Le Chapeau de paille à Marine Ford
+
+573
+00:23:48,640 --> 00:23:48,670
+Le Chapeau de paille à Marine Ford
+
+574
+00:23:48,670 --> 00:23:48,710
+Le Chapeau de paille à Marine Ford
+
+575
+00:23:48,710 --> 00:23:48,740
+Le Chapeau de paille à Marine Ford
+
+576
+00:23:48,740 --> 00:23:48,770
+Le Chapeau de paille à Marine Ford
+
+577
+00:23:48,970 --> 00:23:51,610
+il est réapparu dans notre QG !
+
+578
+00:23:53,300 --> 00:23:54,810
+Coulez le navire !
+
+579
+00:24:03,320 --> 00:24:06,120
+Je dois halluciner.
+Ce ne serait pas...
+
+580
+00:24:06,720 --> 00:24:08,930
+l'ancien capitaine en second
+de Gold Roger ?
+
+581
+00:24:09,130 --> 00:24:11,530
+Le seigneur des Ténèbres,
+Silvers Rayleigh !
+
+582
+00:24:25,940 --> 00:24:28,150
+Ils font le tour de l'île.
+
+583
+00:24:28,400 --> 00:24:30,880
+On dirait des funérailles.
+
+584
+00:24:42,630 --> 00:24:45,100
+Feu à volonté !
+
+585
+00:25:05,350 --> 00:25:06,920
+Lâche-toi.
+
+586
+00:25:08,090 --> 00:25:08,750
+OK !
+
+587
+00:25:10,220 --> 00:25:12,130
+Capturez-le !
+
+588
+00:25:12,860 --> 00:25:14,300
+Gum Gum...
+
+589
+00:25:14,450 --> 00:25:16,260
+Fouet !
+
+590
+00:25:25,230 --> 00:25:27,510
+Qu'est-ce qu'il veut faire
+avec l'Ox Bell ?
+
+591
+00:26:04,640 --> 00:26:06,310
+Ça va faire une super photo !
+
+592
+00:26:28,930 --> 00:26:30,500
+Capturez-le !
+
+593
+00:26:30,800 --> 00:26:32,700
+Il est reparti...
+
+594
+00:26:33,240 --> 00:26:34,870
+Quelqu'un m'explique ?
+
+595
+00:26:34,870 --> 00:26:40,380
+Même Rayleigh et Jinbe
+se sont alliés au Chapeau de paille ?
+
+596
+00:26:40,700 --> 00:26:43,410
+Rayleigh appartenait
+à l'équipage du Roi des Pirates.
+
+597
+00:26:43,610 --> 00:26:45,950
+Le Chapeau de paille
+serait son successeur ?
+
+598
+00:26:46,120 --> 00:26:47,200
+Pas si vite !
+
+599
+00:26:47,200 --> 00:26:50,620
+C'est le fils de Dragon !
+Ça n'a pas de sens.
+
+600
+00:26:51,390 --> 00:26:52,860
+Dans tous les cas...
+
+601
+00:26:53,490 --> 00:26:55,060
+On tient un scoop !
+
+602
+00:27:14,380 --> 00:27:17,350
+Cet article fait déjà le tour du monde.
+
+603
+00:27:17,520 --> 00:27:22,000
+Et ils ont très bien détaillé la façon
+dont on l'a laissé s'échapper !
+
+604
+00:27:22,190 --> 00:27:23,590
+C'est une honte !
+
+605
+00:27:24,000 --> 00:27:26,660
+On pourrait d'abord penser
+qu'il a voulu rendre hommage
+
+606
+00:27:26,660 --> 00:27:32,660
+à son frère, à Barbe Blanche
+et à tous les morts de la guerre.
+
+607
+00:27:32,660 --> 00:27:35,730
+Sa minute de silence
+et son tour du QG en témoignent.
+
+608
+00:27:36,070 --> 00:27:40,100
+Mais on sonne la cloche deux fois
+pour signaler une catastrophe.
+
+609
+00:27:40,100 --> 00:27:41,910
+Il l'a sonnée seize fois !
+
+610
+00:27:41,910 --> 00:27:46,740
+Seize coups, c'est une déclaration
+de guerre à la Marine !
+
+611
+00:27:47,310 --> 00:27:51,080
+Quelque part,
+sur les eaux de Grand Line...
+
+612
+00:27:52,380 --> 00:27:55,320
+Pardon, je vous ai entraînées
+dans cette expédition.
+
+613
+00:27:55,320 --> 00:27:57,740
+Ça va,
+on a l'habitude des raids militaires.
+
+614
+00:27:57,890 --> 00:27:59,530
+Au fait, vous jouez à quoi ?
+
+615
+00:27:59,790 --> 00:28:02,390
+On s'assure que tu te reposes.
+
+616
+00:28:02,390 --> 00:28:04,460
+C'est un ordre de la Princesse Serpent.
+
+617
+00:28:04,660 --> 00:28:08,600
+Elle avait tellement de palpitations
+qu'elle s'est évanouie.
+
+618
+00:28:10,230 --> 00:28:13,040
+Donc on prend soin de toi pour elle.
+
+619
+00:28:15,770 --> 00:28:19,610
+J'espère que le message
+leur parviendra bien.
+
+620
+00:28:20,610 --> 00:28:23,050
+S'ils voient l'article,
+ça devrait aller.
+
+621
+00:28:23,550 --> 00:28:26,080
+Tes actions
+leur mettront la puce à l'oreille.
+
+622
+00:28:26,220 --> 00:28:27,450
+Ça suffit, maintenant.
+
+623
+00:28:27,450 --> 00:28:30,780
+Il y en a bien un
+qui n'a pas l'air très rapide.
+
+624
+00:28:31,190 --> 00:28:33,390
+Mais je pense que ça devrait aller.
+
+625
+00:28:34,020 --> 00:28:36,430
+Ils comprendront ton message.
+
+626
+00:28:36,630 --> 00:28:38,530
+J'en suis convaincu.
+
+627
+00:28:39,530 --> 00:28:41,730
+Grand Line, en plein ciel.
+
+628
+00:28:47,070 --> 00:28:50,170
+D'accord.
+J'ai compris, Luffy.
+
+629
+00:28:51,310 --> 00:28:55,210
+Je t'ai compris.
+D'accord, ça marche.
+
+630
+00:28:55,950 --> 00:28:59,320
+East Blue, sur le pont géant.
+
+631
+00:29:05,160 --> 00:29:07,290
+Je vois, c'est évident.
+
+632
+00:29:07,290 --> 00:29:10,630
+Qu'y a-t-il, Robin ?
+
+633
+00:29:13,100 --> 00:29:15,930
+Message bien reçu, Luffy.
+
+634
+00:29:19,400 --> 00:29:21,570
+Royaume de Kedétrav.
+
+635
+00:29:29,050 --> 00:29:31,900
+Ça roule, Luffy.
+
+636
+00:29:32,120 --> 00:29:33,420
+Qu'est-ce qui roule ?
+
+637
+00:29:37,520 --> 00:29:40,420
+Ruines du royaume de Céglok.
+
+638
+00:29:41,130 --> 00:29:42,740
+Toujours pas ?
+
+639
+00:29:42,890 --> 00:29:44,360
+J'ai les bras qui fatiguent.
+
+640
+00:29:44,700 --> 00:29:46,430
+Bouge pas.
+
+641
+00:29:46,730 --> 00:29:48,330
+Doit y avoir un truc.
+
+642
+00:29:48,330 --> 00:29:51,220
+Luffy est pas du genre à faire ça.
+
+643
+00:29:51,540 --> 00:29:54,870
+Rayleigh était avec lui,
+ça doit être un de ses plans.
+
+644
+00:29:55,070 --> 00:29:56,970
+Y a un truc, forcément.
+
+645
+00:29:57,910 --> 00:30:00,850
+Pays futuriste de Baldimore.
+
+646
+00:30:05,050 --> 00:30:07,080
+Hop là boum !
+
+647
+00:30:07,080 --> 00:30:10,450
+Nom d'un slibard, quelle histoire !
+
+648
+00:30:11,360 --> 00:30:12,820
+M'sieur !
+
+649
+00:30:28,610 --> 00:30:29,710
+C'est pigé.
+
+650
+00:30:34,880 --> 00:30:36,580
+Archipel de Boing.
+
+651
+00:30:36,800 --> 00:30:39,120
+Qu'est-ce qui t'arrive encore, Usopp ?
+
+652
+00:30:39,360 --> 00:30:41,050
+J'ai compris, Luffy.
+
+653
+00:30:44,660 --> 00:30:47,490
+Île céleste de Weatheria.
+
+654
+00:30:49,860 --> 00:30:51,640
+Je vois.
+
+655
+00:30:51,900 --> 00:30:53,260
+Lui alors !
+
+656
+00:30:53,660 --> 00:30:56,470
+Il n'en fait qu'à sa tête,
+sans penser aux autres.
+
+657
+00:30:56,770 --> 00:30:59,800
+Ma petite demoiselle,
+tes poursuivants approchent.
+
+658
+00:31:01,210 --> 00:31:03,410
+Royaume des Longs Bras.
+
+659
+00:31:13,580 --> 00:31:16,900
+Ça va bientôt être à toi.
+Tâche d'y mettre du tien.
+
+660
+00:31:17,120 --> 00:31:18,290
+Voilà.
+
+661
+00:31:20,460 --> 00:31:21,690
+Luffy ?
+
+662
+00:31:21,690 --> 00:31:23,090
+L'attente est terminée !
+
+663
+00:31:23,090 --> 00:31:27,130
+Vous allez enfin pouvoir admirer
+le seul squelette ambulant du monde.
+
+664
+00:31:34,300 --> 00:31:36,940
+Fort bien, faisons comme ça.
+
+665
+00:31:38,840 --> 00:31:41,410
+J'ai bien compris, Luffy !
+
+666
+00:31:46,080 --> 00:31:50,450
+L'esclandre provoqué par Luffy
+fit rapidement le tour de la planète.
+
+667
+00:31:51,420 --> 00:31:54,660
+Il retentit même
+jusqu'au Nouveau Monde.
+
+668
 00:31:51,420 --> 00:31:54,660
 Nouveau Monde
 
-713
+669
+00:31:54,660 --> 00:31:58,130
+Le Chapeau de paille a donc survécu.
+
+670
 00:31:55,190 --> 00:31:59,660
 Eustass “Captain” Kid
 
-714
+671
+00:31:58,960 --> 00:32:02,700
+Il a annoncé une nouvelle ère
+en sonnant la cloche de Marine Ford.
+
+672
+00:32:03,350 --> 00:32:05,140
+C'est quoi, cette Ox Bell ?
+
+673
+00:32:07,270 --> 00:32:08,870
+L'Ox Bell
+
+674
+00:32:09,870 --> 00:32:12,040
+est une cloche sacrée qui jadis
+
+675
 00:32:10,810 --> 00:32:15,780
 Killer  –  Pirates de Kid
 
-715
+676
+00:32:12,240 --> 00:32:15,780
+se trouvait à bord de l'Ox Lloyd's,
+un navire de la Marine.
+
+677
+00:32:16,750 --> 00:32:18,550
+On sonne huit fois la cloche
+
+678
+00:32:18,750 --> 00:32:21,140
+pour commémorer l'année passée,
+
+679
+00:32:21,590 --> 00:32:24,250
+et encore huit fois
+pour célébrer la nouvelle.
+
+680
+00:32:25,020 --> 00:32:28,900
+Ces seize coups de cloche
+sont une tradition de la Marine.
+
+681
+00:32:29,090 --> 00:32:31,260
+Les seize coups rituels.
+
+682
+00:32:33,230 --> 00:32:35,270
+Mais ce n'est pas le Nouvel An.
+
+683
+00:32:35,570 --> 00:32:36,950
+Son geste sonne donc
+
+684
+00:32:37,100 --> 00:32:40,040
+la fin d'une ère
+et le début d'une autre.
+
+685
+00:32:40,140 --> 00:32:42,570
+L'ère de Barbe Blanche est révolue.
+
+686
+00:32:42,900 --> 00:32:46,840
+Il veut donc dire que c'est lui
+qui va façonner la nouvelle ère ?
+
+687
+00:32:46,840 --> 00:32:51,110
+Si ce n'était pas le cas,
+il ne se serait pas infligé la douleur
+
+688
+00:32:51,310 --> 00:32:54,750
+de revenir à l'endroit
+où il a perdu son frère.
+
+689
+00:32:56,450 --> 00:32:58,590
+Ce type a le don de m'irriter !
+
+690
+00:32:59,100 --> 00:33:01,020
+Il faut dire qu'avec cette guerre,
+
+691
+00:33:01,160 --> 00:33:05,790
+il s'est distingué de tous les pirates
+à plus de 100 Millions de Berrys.
+
+692
+00:33:06,260 --> 00:33:07,390
+Il n'empêche !
+
+693
+00:33:07,600 --> 00:33:11,270
+Je ne vais pas gentiment
+le laisser n'en faire qu'à sa tête.
+
+694
+00:33:13,970 --> 00:33:15,840
+Ah, le Nouveau Monde.
+
+695
+00:33:16,140 --> 00:33:18,980
+Je m'attendais à être plus impressionné.
+
+696
+00:33:19,150 --> 00:33:21,380
+Mais regardez-moi ces lopettes !
+
+697
+00:33:21,380 --> 00:33:22,900
+Épargnez-nous !
+
+698
+00:33:23,150 --> 00:33:25,950
+On ne vous a rien fait, nous !
+
+699
+00:33:25,950 --> 00:33:29,120
+En fait, on s'apprêtait même
+à quitter cette mer !
+
+700
+00:33:29,120 --> 00:33:31,320
+Laissez-nous repartir à Paradise !
+
+701
+00:33:31,800 --> 00:33:35,430
+Paradise ?
+Ton petit nid douillet ?
+
+702
+00:33:35,760 --> 00:33:37,950
+Vous venez juste d'arriver !
+
+703
+00:33:38,350 --> 00:33:41,130
+Vous ignorez tout
+de l'horreur de ces mers !
+
+704
+00:33:48,710 --> 00:33:49,940
+Le Chapeau de paille ?
+
+705
+00:33:49,940 --> 00:33:52,540
+Oui, il a encore fait des siennes.
+
+706
 00:33:52,540 --> 00:33:57,050
 Capone “Gang” Bege
+
+707
+00:33:52,910 --> 00:33:54,850
+Pas la peine de paniquer.
+
+708
+00:33:55,010 --> 00:33:58,750
+Le gagnant, c'est celui
+qui fait échec et mat à la fin.
+
+709
+00:34:00,080 --> 00:34:01,080
+Quoi ?
+
+710
+00:34:01,450 --> 00:34:03,390
+Father, c'est le navire !
+
+711
+00:34:03,390 --> 00:34:07,450
+Il lévite au-dessus de l'eau !
+Qu'est-ce que tu dis ?
+
+712
+00:34:08,400 --> 00:34:11,260
+Comment est-ce possible ?
+Qu'est-ce que ça veut dire ?
+
+713
+00:34:11,260 --> 00:34:12,760
+Reprenez le contrôle !
+
+714
+00:34:12,760 --> 00:34:15,200
+Father, quelque chose s'approche !
+
+715
+00:34:18,700 --> 00:34:22,070
+Non, c'est nous qui sommes attirés !
 
 716
 00:34:26,540 --> 00:34:29,810
 Foodvalten, Nouveau Monde
 
 717
+00:34:27,710 --> 00:34:29,550
+Je suis vraiment désolé.
+
+718
 00:34:31,680 --> 00:34:36,490
 Basil Hawkins
 
-718
+719
+00:34:31,920 --> 00:34:34,000
+Veux-tu bien répéter ?
+
+720
+00:34:34,280 --> 00:34:36,220
+Je n'ai pas bien entendu.
+
+721
+00:34:36,490 --> 00:34:38,110
+Je suis Barbe Brune !
+
+722
+00:34:38,290 --> 00:34:42,930
+Ma prime dépasse
+les 80 Millions de Berrys.
+
+723
+00:34:43,590 --> 00:34:47,460
+Retiens bien mon nom.
+Tu es sur mon territoire.
+
+724
+00:34:47,660 --> 00:34:50,970
+Tu as osé t'en prendre
+à mon cher équipage.
+
+725
+00:34:51,150 --> 00:34:53,200
+Tu vas le payer de ton sang !
+
+726
+00:34:53,650 --> 00:34:54,850
+Ah oui ?
+
+727
+00:34:55,150 --> 00:34:58,480
+Ton nom est si grotesque
+que j'avais cru mal entendre.
+
+728
+00:34:58,910 --> 00:35:00,300
+Deux choses.
+
+729
+00:35:00,720 --> 00:35:03,180
+D'abord, je déteste les plaisanteries.
+
+730
+00:35:03,180 --> 00:35:04,350
+Les plaisanteries ?
+
+731
+00:35:04,720 --> 00:35:06,680
+Deuxième chose...
+
+732
+00:35:08,420 --> 00:35:12,190
+Je vois l'ombre de la mort
+planer sur toi.
+
+733
+00:35:20,560 --> 00:35:24,900
+Le Log Pose nous indique vraiment
+la direction de cette île ?
+
+734
+00:35:25,140 --> 00:35:28,550
+La foudre...
+Elle se déchaîne !
+
+735
 00:35:27,770 --> 00:35:30,970
 Urouge
 
-719
-00:00:18,590 --> 00:00:22,170
-Partons en voyage avant l'aube.
-
-720
-00:00:22,260 --> 00:00:26,690
-Pour voir nos lendemains inconnus.
-
-721
-00:00:26,970 --> 00:00:30,330
-Nous n'avons aucun regrets dans nos choix
-
-722
-00:00:30,630 --> 00:00:33,340
-(Oh je sais ce que je suis supposée faire).
-
-723
-00:00:33,510 --> 00:00:37,070
-Peu importe les épreuves qui nous attendent.
-
-724
-00:00:37,210 --> 00:00:41,700
-Rien ne peut arrêter mon cœur de battre.
-
-725
-00:00:41,810 --> 00:00:46,350
-Il n'y a qu'un seul endroit où aller.
-
-726
-00:00:46,580 --> 00:00:48,250
-(Volons vers la lumière !)
-
-727
-00:00:48,320 --> 00:00:52,000
-Je ne laisserai personne briser
-
-728
-00:00:52,160 --> 00:00:55,670
-Les liens créés au fil des batailles.
-
-729
-00:00:55,800 --> 00:00:58,470
-Quand je rouvrirai mon poing serré,
-
-730
-00:00:58,600 --> 00:01:01,710
-J'y trouverai de la force.
-
-731
-00:01:01,870 --> 00:01:04,130
-Allez, c'est parti.
-
-732
-00:01:04,270 --> 00:01:09,280
-Le nouveau monde appelle.
-
-733
-00:01:09,380 --> 00:01:11,670
-Regarde maintenant.
-
-734
-00:01:11,780 --> 00:01:18,020
-Peu importe le nombre de mers qui nous séparent.
-
-735
-00:01:18,080 --> 00:01:21,790
-Je me tiendrai toujours à tes côtés.
-
 736
-00:01:21,820 --> 00:01:25,460
-N'aie pas peur d'avancer.
+00:35:28,980 --> 00:35:30,970
+C'est de la folie !
 
 737
-00:01:25,960 --> 00:01:27,850
-N'oublie pas
+00:35:36,680 --> 00:35:39,120
+Comment va-t-on accoster ?
 
 738
-00:01:27,920 --> 00:01:29,200
-Que nous combattons ensemble.
+00:35:41,000 --> 00:35:44,920
+Les audacieux qui ont osé pénétrer
+dans le Nouveau Monde...
 
 739
-00:01:29,860 --> 00:01:37,120
-Je n'ai jamais souillé la mémoire.
+00:35:45,960 --> 00:35:48,390
+Mon père, quelqu'un approche !
 
 740
-00:01:37,540 --> 00:01:39,900
-De ce vaste ciel infini
+00:35:49,530 --> 00:35:50,530
+Qui est-ce ?
 
 741
-00:01:40,010 --> 00:01:45,020
-que j'ai admiré ce jour-là.
+00:35:50,900 --> 00:35:53,100
+Ces audacieux parlent tous
 
 742
-00:01:45,040 --> 00:01:48,450
-Nous avons parcouru un long chemin.
+00:35:53,250 --> 00:35:55,470
+des mers de Grand Line
+de la même façon.
 
 743
-00:01:48,650 --> 00:01:52,410
-Chacun avec notre engagement dans nos cœurs.
+00:35:55,770 --> 00:35:57,930
+Holà, jeunes gens.
 
 744
-00:01:52,450 --> 00:01:54,990
-Il n'y a pas de doute.
+00:35:58,440 --> 00:36:00,940
+C'est qui, cette vieille femme ?
 
 745
-00:01:55,050 --> 00:01:59,410
-Il y a des choses que l'on doit emporter avec nous.
+00:36:01,140 --> 00:36:04,940
+"Grand Line, c'était le Paradis."
 
 746
-00:01:59,560 --> 00:02:01,880
-Le soleil se lèvera et brillera.
+00:36:07,180 --> 00:36:10,180
+Avez-vous besoin d'un parapluie ?
 
 747
-00:02:02,030 --> 00:02:06,840
-De façon égale, même sur nos peines.
+00:36:10,880 --> 00:36:14,820
+Si vous restez sur ces mers,
+vous ne survivrez pas longtemps !
 
 748
-00:02:06,870 --> 00:02:09,240
-Je crois
+00:36:14,820 --> 00:36:19,060
+On veut juste
+retourner à Paradise ! Pitié !
 
 749
-00:02:09,340 --> 00:02:15,700
-au futur qui sera un jour une seule partie.
+00:36:19,920 --> 00:36:22,060
+Tu me fatigues déjà.
 
 750
-00:02:15,710 --> 00:02:19,300
-Allons le chercher ensemble.
+00:36:23,730 --> 00:36:28,530
+Les gens qui ne sont résolus
+ni à vivre ni à mourir
 
 751
-00:02:19,380 --> 00:02:23,110
-Tu es unique.
+00:36:28,830 --> 00:36:35,530
+n'ont rien à faire sur ces mers !
 
 752
-00:02:23,580 --> 00:02:25,240
-N'oublie pas
+00:36:38,480 --> 00:36:41,450
+J'aurai vite ta peau.
 
 753
-00:02:25,540 --> 00:02:27,640
-Que nous combattons ensemble.
+00:36:41,650 --> 00:36:45,730
+Prépare-toi à mourir,
+Chapeau de paille !

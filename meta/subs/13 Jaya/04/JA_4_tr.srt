@@ -1,421 +1,421 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:49,760 --> 00:01:54,840
+Yalancı Noland
+
+3
 00:01:54,840 --> 00:01:57,720
 Neden? Neden? Neden?
 
-3
+4
 00:01:58,240 --> 00:02:01,430
 Neden? Lanet olası orangutan!
 
-4
+5
 00:02:01,430 --> 00:02:04,980
 Gemiyi daha da berbat bir hâle getirdi!
 
-5
+6
 00:02:04,980 --> 00:02:09,030
 Gemi dökülüyor.
 Yenisini bulma vaktimiz geldi gibi.
 
-6
+7
 00:02:09,040 --> 00:02:11,530
 Bir de sen söylenmeye başlama!
 
-7
+8
 00:02:11,530 --> 00:02:12,530
 Bir de sen başlama!
 
-8
+9
 00:02:13,000 --> 00:02:16,070
 Anlıyoruz, Usopp.
 Endişelenmene gerek yok.
 
-9
+10
 00:02:16,670 --> 00:02:20,040
 Going Merry takımın önemli bir parçası.
 
-10
+11
 00:02:18,180 --> 00:02:19,680
 Bir de sen başlama!
 
-11
+12
 00:02:19,680 --> 00:02:21,200
 Sen...! Sen...!
 
-12
+13
 00:02:20,040 --> 00:02:23,250
 O yüzden beraber çabalayıp
 gemiyi tamir edelim!
 
-13
+14
 00:02:22,370 --> 00:02:26,290
 An...! Anla...! Anla...dı...dı...dık!
 
-14
+15
 00:02:23,260 --> 00:02:26,290
 Luffy, sen çok...
 
-15
+16
 00:02:27,640 --> 00:02:28,310
 Tüh.
 
-16
+17
 00:02:28,750 --> 00:02:30,550
 ...aptalsın!
 
-17
+18
 00:02:31,860 --> 00:02:36,010
 Mock Şehri'nin doğusuna gitmek için
 adanın etrafından dolaşmalıyız.
 
-18
+19
 00:02:36,030 --> 00:02:38,180
 Yakında haritadaki işarete ulaşacağız.
 
-19
+20
 00:02:38,200 --> 00:02:40,520
 O adamın olduğu yere... Neydi adı?
 
-20
+21
 00:02:40,520 --> 00:02:42,730
 Mont Blanc Cricket.
 
-21
+22
 00:02:42,730 --> 00:02:45,830
 Yani o büyük hayallerinden
 bahseden adam orada mı yaşıyor?
 
-22
+23
 00:02:46,560 --> 00:02:48,770
 İ-İnanılmaz!
 
-23
+24
 00:02:49,790 --> 00:02:52,860
 Burada mı yaşıyor?!
 Bu bir saray değil mi?!
 
-24
+25
 00:02:52,860 --> 00:02:57,740
 Bu Mont Blanc Cricket denilen adam
 çok mu zengin yani?!
 
-25
+26
 00:02:57,740 --> 00:02:59,780
 Aptallar! Dikkatli bakın.
 
-26
+27
 00:02:59,800 --> 00:03:01,740
 Hayalperest, ha?
 
-27
+28
 00:03:01,740 --> 00:03:04,620
 En azından gösteriş konusunda
 hayal gücü genişmiş.
 
-28
+29
 00:03:05,920 --> 00:03:06,790
 Ne diyorsun?
 
-29
+30
 00:03:10,010 --> 00:03:13,420
 Ne...?! Kartondan mıymış?
 
-30
+31
 00:03:13,440 --> 00:03:15,130
 Ne?!
 
-31
+32
 00:03:15,150 --> 00:03:18,510
 Evin sadece yarısı gerçek.
 Geri kalanı sahte bir kaplama.
 
-32
+33
 00:03:18,530 --> 00:03:20,680
 Pintinin teki herhalde.
 
-33
+34
 00:03:21,360 --> 00:03:24,600
 Ne gibi hayallerden bahsetmiş ki 
 şehirden sürülmüş acaba?
 
-34
+35
 00:03:24,600 --> 00:03:26,640
 Detaylara hakim değilim.
 
-35
+36
 00:03:26,850 --> 00:03:31,610
 Ama söylenenlere göre Jaya'da yüklü
 bir miktar altın olduğunu iddia ediyormuş.
 
-36
+37
 00:03:31,610 --> 00:03:32,570
 Altın mı?!
 
-37
+38
 00:03:32,570 --> 00:03:35,070
 Korsanın biri, buraya hazinesini
 falan mı gömmüş?
 
-38
+39
 00:03:35,070 --> 00:03:37,300
 Açıkçası bilmiyorum.
 
-39
+40
 00:03:37,840 --> 00:03:39,820
 Altın!
 
-40
+41
 00:03:40,200 --> 00:03:42,490
 Kaz Chopper! Altınları bul!
 
-41
+42
 00:03:42,510 --> 00:03:43,830
 Kazarak bulabilir miyiz?
 
-42
+43
 00:03:43,840 --> 00:03:46,330
 Her şeyden uzakta
 yalnız başına mı yaşıyor?
 
-43
+44
 00:03:46,330 --> 00:03:48,000
 Merhaba. İçeri giriyorum.
 
-44
+45
 00:03:48,000 --> 00:03:49,420
 Bir saniye yerinde dur be!
 
-45
+46
 00:03:50,170 --> 00:03:51,920
 Ha? Burada kimse yok.
 
-46
+47
 00:03:51,920 --> 00:03:54,090
 Merhaba?!
 
-47
+48
 00:03:54,460 --> 00:03:55,340
 Cevap yok.
 
-48
+49
 00:03:55,340 --> 00:03:58,090
 Beklesene aptal!
 Ya adam tehlikeli biriyse?
 
-49
+50
 00:03:58,610 --> 00:04:01,030
 Hey, çocuklar! Evde kimse yok!
 
-50
+51
 00:04:02,930 --> 00:04:03,930
 Bu...
 
-51
+52
 00:04:05,310 --> 00:04:06,350
 resimli bir kitap.
 
-52
+53
 00:04:07,160 --> 00:04:09,310
 Epey eski bir kitap.
 
-53
+54
 00:04:10,100 --> 00:04:12,480
 Adı "Yalancı Noland."
 
-54
+55
 00:04:12,480 --> 00:04:16,360
 Vay, ne kadar havalı!
 Kitap ismi için çok iyi bir fikir!
 
-55
+56
 00:04:16,360 --> 00:04:18,320
 "Yalancı Noland" mı?
 
-56
+57
 00:04:18,320 --> 00:04:19,820
 Bunu okudun mu, Sanji-kun?
 
-57
+58
 00:04:19,820 --> 00:04:23,030
 Ama Kuzey Mavi'de basılmış.
 
-58
+59
 00:04:23,030 --> 00:04:26,040
 Evet. Ben Kuzey Mavi'de doğdum.
 
-59
+60
 00:04:26,040 --> 00:04:28,000
 Size bahsetmemiş miydim?
 
-60
+61
 00:04:28,000 --> 00:04:29,440
 Benim haberim yoktu.
 
-61
+62
 00:04:29,440 --> 00:04:31,250
 Sen de Doğu Mavi'densin sanıyordum.
 
-62
+63
 00:04:31,250 --> 00:04:32,290
 Aslen oralı değilim.
 
-63
+64
 00:04:32,290 --> 00:04:34,380
 Sessiz ol, Chopper! Ne yapıyorsun?!
 
-64
+65
 00:04:34,380 --> 00:04:35,510
 Ne?!
 
-65
+66
+00:04:35,500 --> 00:04:46,000
+Yalancı Noland
+
+67
 00:04:36,440 --> 00:04:39,380
 Bu hikâye kuzeyde çok meşhurdur.
 
-66
+68
 00:04:39,380 --> 00:04:40,590
 Bir çocuk masalıdır...
 
-67
+69
 00:04:40,590 --> 00:04:46,930
 Ama duydum ki bu Noland denen adam zamanında gerçekten yaşamış.
 
-68
+70
 00:04:47,660 --> 00:04:50,520
 Bu çok çok eskilerden—
 
-69
+71
 00:04:50,520 --> 00:04:54,610
 400 yıl öncesine giden bir hikaye.
 
-70
+72
 00:04:54,610 --> 00:04:54,650
 400 yıl öncesine giden bir hikaye.
 
-71
+73
 00:04:54,650 --> 00:04:54,690
 400 yıl öncesine giden bir hikaye.
 
-72
+74
 00:04:54,690 --> 00:04:54,730
 400 yıl öncesine giden bir hikaye.
 
-73
+75
 00:04:54,730 --> 00:04:54,770
 400 yıl öncesine giden bir hikaye.
 
-74
+76
 00:04:55,330 --> 00:04:57,560
 Kuzey Mavi'nin bir ülkesinde,
 
-75
+77
 00:04:57,570 --> 00:05:01,070
 Mont Blanc Noland diye biri yaşarmış.
 
-76
+78
 00:05:01,070 --> 00:05:01,110
 Mont Blanc Noland diye biri yaşarmış.
 
-77
+79
 00:05:01,110 --> 00:05:01,160
 Mont Blanc Noland diye biri yaşarmış.
 
-78
+80
 00:05:01,160 --> 00:05:01,200
 Mont Blanc Noland diye biri yaşarmış.
 
-79
+81
 00:05:01,670 --> 00:05:07,250
 Noland sürekli fantastik gezilerinden bahseden bir kaşifmiş.
 
-80
+82
 00:05:07,250 --> 00:05:12,000
 Ancak köylüler, hikayeleri doğru mu
 değil mi bir türlü anlayamazlarmış.
 
-81
+83
 00:05:12,000 --> 00:05:12,040
 Ancak köylüler, hikayeleri doğru mu
 değil mi bir türlü anlayamazlarmış.
 
-82
+84
 00:05:12,040 --> 00:05:12,080
 Ancak köylüler, hikayeleri doğru mu
 değil mi bir türlü anlayamazlarmış.
 
-83
+85
 00:05:12,080 --> 00:05:12,120
 Ancak köylüler, hikayeleri doğru mu
 değil mi bir türlü anlayamazlarmış.
 
-84
+86
 00:05:12,120 --> 00:05:12,170
 Ancak köylüler, hikayeleri doğru mu
 değil mi bir türlü anlayamazlarmış.
 
-85
+87
 00:05:13,000 --> 00:05:17,920
 Bir gün keşiften dönen Noland,
 Kral'a bir rapor vermiş:
 
-86
+88
 00:05:17,920 --> 00:05:17,960
 Bir gün keşiften dönen Noland,
 Kral'a bir rapor vermiş:
 
-87
+89
 00:05:17,960 --> 00:05:18,010
 Bir gün keşiften dönen Noland,
 Kral'a bir rapor vermiş:
 
-88
+90
 00:05:18,010 --> 00:05:18,050
 Bir gün keşiften dönen Noland,
 Kral'a bir rapor vermiş:
 
-89
+91
 00:05:18,050 --> 00:05:18,090
 Bir gün keşiften dönen Noland,
 Kral'a bir rapor vermiş:
 
-90
+92
 00:05:18,860 --> 00:05:24,180
 "Engin denizde bir adada
 koca bir altın dağına rastladım."
 
-91
+93
 00:05:24,180 --> 00:05:27,350
 Bunu duyan cesur kral yanına 2000 adam alıp,
 
-92
-00:05:27,350 --> 00:05:27,390
-Bunu duyan cesur kral yanına 2000 adam alıp,
-
-93
-00:05:27,390 --> 00:05:27,430
-Bunu duyan cesur kral yanına 2000 adam alıp,
-
 94
-00:05:27,430 --> 00:05:27,470
+00:05:27,350 --> 00:05:27,390
 Bunu duyan cesur kral yanına 2000 adam alıp,
 
 95
-00:05:27,470 --> 00:05:27,520
-Bunu duyan cesur kral yanına 2000 adam alıp,
-
-96
-00:05:27,520 --> 00:05:27,560
-Bunu duyan cesur kral yanına 2000 adam alıp,
-
-97
 00:05:27,350 --> 00:05:27,390
 Noland ile beraber onun iddiasını doğrulamak için denize açılmışlar.
 
-98
+96
+00:05:27,390 --> 00:05:27,430
+Bunu duyan cesur kral yanına 2000 adam alıp,
+
+97
 00:05:27,390 --> 00:05:27,430
 Noland ile beraber onun iddiasını doğrulamak için denize açılmışlar.
+
+98
+00:05:27,430 --> 00:05:27,470
+Bunu duyan cesur kral yanına 2000 adam alıp,
 
 99
 00:05:27,430 --> 00:05:27,470
@@ -423,39 +423,39 @@ Noland ile beraber onun iddiasını doğrulamak için denize açılmışlar.
 
 100
 00:05:27,470 --> 00:05:27,520
-Noland ile beraber onun iddiasını doğrulamak için denize açılmışlar.
+Bunu duyan cesur kral yanına 2000 adam alıp,
 
 101
-00:05:27,520 --> 00:05:27,560
+00:05:27,470 --> 00:05:27,520
 Noland ile beraber onun iddiasını doğrulamak için denize açılmışlar.
 
 102
+00:05:27,520 --> 00:05:27,560
+Bunu duyan cesur kral yanına 2000 adam alıp,
+
+103
+00:05:27,520 --> 00:05:27,560
+Noland ile beraber onun iddiasını doğrulamak için denize açılmışlar.
+
+104
 00:05:27,560 --> 00:05:33,100
 Noland ile beraber onun iddiasını doğrulamak için denize açılmışlar.
 
-103
+105
 00:05:33,100 --> 00:05:36,820
 Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
 
-104
-00:05:36,820 --> 00:05:36,860
-Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
-
-105
-00:05:36,860 --> 00:05:36,900
-Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
-
 106
-00:05:36,900 --> 00:05:36,940
+00:05:36,820 --> 00:05:36,860
 Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
 
 107
-00:05:36,940 --> 00:05:36,980
-Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
-
-108
 00:05:36,820 --> 00:05:36,860
 adaya ulaştıklarında, geriye sadece Kral, Noland ve 100 asker kalmıştı.
+
+108
+00:05:36,860 --> 00:05:36,900
+Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
 
 109
 00:05:36,860 --> 00:05:36,900
@@ -463,1110 +463,1096 @@ adaya ulaştıklarında, geriye sadece Kral, Noland ve 100 asker kalmıştı.
 
 110
 00:05:36,900 --> 00:05:36,940
-adaya ulaştıklarında, geriye sadece Kral, Noland ve 100 asker kalmıştı.
+Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
 
 111
-00:05:36,940 --> 00:05:36,980
+00:05:36,900 --> 00:05:36,940
 adaya ulaştıklarında, geriye sadece Kral, Noland ve 100 asker kalmıştı.
 
 112
+00:05:36,940 --> 00:05:36,980
+Şiddetli fırtınalar ve deniz canavarlarıyla mücadeleden sonra,
+
+113
+00:05:36,940 --> 00:05:36,980
+adaya ulaştıklarında, geriye sadece Kral, Noland ve 100 asker kalmıştı.
+
+114
 00:05:36,980 --> 00:05:44,530
 adaya ulaştıklarında, geriye sadece Kral, Noland ve 100 asker kalmıştı.
 
-113
+115
 00:05:44,530 --> 00:05:49,290
 Ancak tek buldukları sıradan bir orman olmuş.
 
-114
+116
 00:05:49,290 --> 00:05:49,330
 Ancak tek buldukları sıradan bir orman olmuş.
 
-115
+117
 00:05:49,330 --> 00:05:49,370
 Ancak tek buldukları sıradan bir orman olmuş.
 
-116
+118
 00:05:49,370 --> 00:05:49,410
 Ancak tek buldukları sıradan bir orman olmuş.
 
-117
+119
 00:05:50,050 --> 00:05:54,830
 Sonunda Noland, yalan söyleme suçundan idam cezasına çarptırılmış.
 
-118
+120
 00:05:54,830 --> 00:05:57,710
 Noland'ın son sözleri:
 
-119
+121
 00:05:57,710 --> 00:05:57,750
 Noland'ın son sözleri:
 
-120
+122
 00:05:57,750 --> 00:05:57,800
 Noland'ın son sözleri:
 
-121
+123
 00:05:57,800 --> 00:05:57,840
 Noland'ın son sözleri:
 
-122
+124
 00:05:58,560 --> 00:06:02,590
 "Evet! Altın dağı
 denizin dibine gitmiş olmalı!"
 
-123
+125
 00:06:02,610 --> 00:06:05,470
 Kral ve halk şaşkına döndüler.
 
-124
+126
 00:06:05,470 --> 00:06:08,560
 Kimse Noland'a inanmadı ama...
 
-125
+127
 00:06:08,560 --> 00:06:13,850
 O, son nefesine kadar
 yalan söylemeye devam etti.
 
-126
+128
 00:06:13,850 --> 00:06:16,980
 Kuzey Mavi halk hikâyesi
 "Yalancı Noland".
 
-127
+129
+00:06:17,190 --> 00:06:20,480
+Mock Şehri, Jaya
+
+130
 00:06:20,480 --> 00:06:25,450
 Mont Blanc Cricket
 Mont Blanc Noland'ın soyundan mı?!
 
-128
+131
 00:06:25,450 --> 00:06:28,330
 O hikâyeyi çocukken çok dinlemiştim.
 
-129
+132
 00:06:28,340 --> 00:06:31,580
 Kuzey Mavi'de o hikâyeyi bilmeyen yoktur.
 
-130
+133
 00:06:31,580 --> 00:06:35,830
 Hepimiz Kuzey Mavi'deniz,
 bu yüzden bize sık sık,
 
-131
+134
 00:06:35,830 --> 00:06:40,170
 çok yalan söylersek sonumuz
 Noland gibi olur derlerdi.
 
-132
+135
 00:06:42,570 --> 00:06:45,220
 Bu iş gittikçe daha da ilginç bir hâl alıyor!
 
-133
+136
 00:06:45,220 --> 00:06:48,550
 O çocuk masalındaki adanın Jaya
 olduğunu asla tahmin edemezdim.
 
-134
+137
 00:06:48,550 --> 00:06:51,720
 Ve 400 yıl sonra Yalancı Noland'ın varisi...
 
-135
+138
 00:06:51,720 --> 00:06:55,900
 burada altın arıyor, ha?
 
-136
+139
 00:06:56,330 --> 00:07:00,790
 Sırf öldüğü ana dek milletin kıçıyla güldüğü
 yalancı atasının adını aklamak için!
 
-137
+140
 00:07:05,070 --> 00:07:07,870
 Bu aileye patlıyorum!
 
-138
+141
 00:07:09,950 --> 00:07:12,290
 Gerçekten birkaç parça altın bularak...
 
-139
+142
 00:07:12,300 --> 00:07:16,710
 400 yıl önceki atasının ismini
 temize çıkarabileceğini mi sanıyor?!
 
-140
+143
 00:07:18,500 --> 00:07:21,210
 Kafasında birkaç tahta eksik gibi!
 
-141
+144
 00:07:29,780 --> 00:07:34,390
 Ne yazık ki... yalancı...
 
-142
+145
 00:07:35,950 --> 00:07:39,650
 denizin cesur savaşçısı olamadan ölüp gitti.
 
-143
+146
 00:07:40,650 --> 00:07:42,550
 Bana öyle bakma!
 
-144
+147
 00:07:42,550 --> 00:07:44,990
 Kendi trajik yorumunu katmayı da kes!
 
-145
+148
 00:07:45,780 --> 00:07:47,410
 Luffy denize düştü!
 
-146
+149
 00:07:47,410 --> 00:07:49,620
 Ne yapıyorsun?!
 
-147
+150
 00:07:50,490 --> 00:07:52,200
 Siz de kimsiniz?!
 
-148
+151
 00:07:52,200 --> 00:07:54,200
 Başkasının evini izinsiz kullanmak...
 
-149
+152
+00:07:52,370 --> 00:07:57,750
+Korsan Mont Blanc Kriket
+Saruyama İttifakı Kaptanı
+
+153
 00:07:54,200 --> 00:07:55,660
 yürek ister!
 
-150
+154
 00:07:55,660 --> 00:07:57,750
 Buralardaki sular bana aittir!
 
-151
+155
 00:07:57,750 --> 00:08:00,290
 Hey, Usopp! Luffy'i kurtar!
 
-152
+156
 00:07:59,710 --> 00:08:00,290
 Tamam!
 
-153
+157
 00:08:00,290 --> 00:08:03,210
 Altının peşindesiniz değil mi?
 İşiniz bitti!
 
-154
+158
 00:08:11,800 --> 00:08:13,680
 – Sanji!
 – Sanji-kun!
 
-155
+159
 00:08:14,310 --> 00:08:16,890
 Endişelenmeyin. Iskaladı.
 
-156
+160
 00:08:18,910 --> 00:08:19,850
 Dursana!
 
-157
+161
 00:08:19,850 --> 00:08:22,270
 Aptal. Rakibini hafife alma.
 
-158
+162
 00:08:23,730 --> 00:08:25,320
 Çekil! Ben hallederim!
 
-159
+163
 00:08:34,120 --> 00:08:36,410
 Hey, ne yaptığını sanıyorsun?!
 
-160
+164
 00:08:36,430 --> 00:08:40,250
 Sudan kabarcıklar çıktığını gördüm.
 
-161
+165
 00:08:40,250 --> 00:08:43,290
 Baktığımda bir kestane belirdi.
 
-162
+166
 00:08:43,310 --> 00:08:48,010
 Kestane sandığım şey
 bir adammış ve beni suya çekti.
 
-163
+167
 00:08:48,010 --> 00:08:49,940
 Hey, işte o adam!
 
-164
+168
 00:08:52,090 --> 00:08:56,600
 Daha fazla soğuk havlu getirin!
 Pencereleri açın!
 
-165
+169
 00:08:57,240 --> 00:08:58,480
 Vurgun hastalığı mı?
 
-166
+170
 00:08:58,480 --> 00:09:00,350
 O hasta mı?
 
-167
+171
 00:09:00,350 --> 00:09:03,330
 Evet, dalgıçların bazen
 karşılaştıkları bir durum.
 
-168
+172
 00:09:04,070 --> 00:09:07,650
 Gerçi kronik bir şey değil.
 
-169
+173
 00:09:07,670 --> 00:09:11,610
 Dipten yüzeye doğru hızla çıkarken basınç birden azaldığı için,
 
-170
+174
 00:09:11,610 --> 00:09:16,580
 kandaki azotun çözünürlüğü azalır
 ve kabarcık olarak dışa salınır.
 
-171
+175
 00:09:17,260 --> 00:09:20,500
 Gaz kabarcıkları kan hücrelerinin dışına salındığı için,
 
-172
+176
 00:09:20,500 --> 00:09:24,130
 kaslarda, eklemlerde ve
 kan dolaşımında problem yaratabilir.
 
-173
+177
 00:09:24,140 --> 00:09:26,340
 Anormal bir olay demek, ha?
 
-174
+178
 00:09:27,060 --> 00:09:31,550
 Belli ki vücudundaki baloncukların
 yok olmasını beklemeden...
 
-175
+179
 00:09:31,570 --> 00:09:35,050
 her gün dalış yapıyordu.
 
-176
+180
 00:09:35,050 --> 00:09:37,390
 Ama niye?!
 
-177
+181
 00:09:37,410 --> 00:09:40,520
 Bilmiyorum ama bu yaptığı çok riskli.
 
-178
+182
 00:09:40,810 --> 00:09:43,540
 Bazı durumlarda vurgun hastalığı...
 
-179
+183
 00:09:44,160 --> 00:09:45,730
 ölümle sonuçlanabilir.
 
-180
+184
 00:09:57,990 --> 00:10:01,160
 Oh hey, sen misin Masira?
 Demek hayattasın.
 
-181
+185
 00:10:01,160 --> 00:10:03,080
 Hayatta mı?
 Sen neden bahsediyorsun?
 
-182
+186
 00:10:03,100 --> 00:10:06,210
 Boş ver. Silah sesini duydun mu?
 
-183
+187
 00:10:06,210 --> 00:10:09,170
 Duydum! Patronun
 başına bir şey gelmiş olmasın?
 
-184
+188
 00:10:09,190 --> 00:10:11,760
 Acele edelim! Endişeleniyorum!
 
-185
+189
 00:10:14,090 --> 00:10:16,220
 – Patron! İyi misin?!
 – Patron! İyi misin?!
 
-186
+190
 00:10:18,410 --> 00:10:20,520
 Bizi öldürmeye geldiler!
 
-187
+191
 00:10:20,520 --> 00:10:22,690
 Burada ne arıyorsunuz?!
 
-188
+192
 00:10:22,690 --> 00:10:24,520
 Patrona ne yaptınız?!
 
-189
+193
 00:10:24,950 --> 00:10:29,480
 Ha? Bu adama yardım ediyoruz,
 rahat bırakın bizi.
 
-190
+194
 00:10:29,480 --> 00:10:32,320
 Aptal! Sanki bizi dinleyecekler!
 
-191
+195
 00:10:32,320 --> 00:10:33,610
 Onlar vahşiler!
 
-192
+196
 00:10:33,610 --> 00:10:34,320
 Vahşiler!
 
-193
+197
 00:10:34,320 --> 00:10:36,470
 Pencerelerden kaçın millet!
 
-194
+198
 00:10:35,380 --> 00:10:36,490
 – Siz...
 – Siz...
 
-195
+199
 00:10:37,700 --> 00:10:39,660
 – Çok iyisiniz!
 – Çok iyisiniz!
 
-196
+200
 00:10:39,660 --> 00:10:41,660
 Anladılar!
 
-197
+201
 00:10:42,160 --> 00:10:44,750
 Siz de mi burada yaşıyorsunuz?
 
-198
+202
 00:10:45,040 --> 00:10:49,750
 Aslında patronun evi
 Saruyama İttifakı karargâhı.
 
-199
+203
 00:10:49,750 --> 00:10:52,670
 Biz genelde gemilerimizde uyuruz.
 
-200
+204
 00:10:52,670 --> 00:10:56,550
 Sonuçta bu ev bizim için çok küçük.
 
-201
+205
 00:10:56,550 --> 00:10:58,800
 Kocamansınız o yüzden.
 
-202
+206
 00:10:58,800 --> 00:11:02,640
 Ama devlere kıyasla cücük kadarsınız.
 
-203
+207
 00:11:03,770 --> 00:11:06,480
 Nasıl bu kadar iyi anlaştılar?
 
-204
+208
 00:11:06,480 --> 00:11:08,610
 Sanırım çok fazla ortak yönleri var.
 
-205
+209
 00:11:08,610 --> 00:11:14,200
 Bu kadar küçük olmanıza rağmen onun
 kıçına tekmeyi basabilmeniz de çok ilginç.
 
-206
+210
 00:11:14,200 --> 00:11:15,780
 Hadi ya? Sen de yapabilirsin.
 
-207
+211
 00:11:15,780 --> 00:11:16,990
 Gerçekten mi?
 
-208
+212
 00:11:16,990 --> 00:11:18,910
 Evet, ne de olsa maymunsun.
 
-209
+213
 00:11:19,300 --> 00:11:20,870
 Luffy, kendine geliyor!
 
-210
+214
 00:11:21,450 --> 00:11:22,240
 Uyandı mı?!
 
-211
+215
 00:11:25,970 --> 00:11:28,580
 Hey, haklıymış. Masira uçtu gitti.
 
-212
+216
 00:11:30,230 --> 00:11:32,800
 Hey, kestane kafalı!
 Sana bir şey sormak istiyorum!
 
-213
+217
 00:11:37,590 --> 00:11:39,470
 Çıkardığım tantana için üzgünüm.
 
-214
+218
 00:11:39,470 --> 00:11:43,100
 Altın için gelen
 aptallardan sandım sizi.
 
-215
+219
 00:11:43,100 --> 00:11:45,140
 Ne?! Burada altın mı var?
 
-216
+220
 00:11:45,140 --> 00:11:46,350
 Hiç başlama.
 
-217
+221
 00:11:46,350 --> 00:11:48,810
 Bana ne sormak istiyordun?
 
-218
+222
 00:11:48,810 --> 00:11:52,570
 Gökyüzü adasına gitmek istiyoruz! Lütfen bize nasıl gideceğimizi söyle!
 
-219
+223
 00:11:53,070 --> 00:11:55,040
 Gökyüzü adası mı?
 
-220
+224
 00:11:58,860 --> 00:12:01,990
 Oranın varolduğuna inanıyor musunuz?
 
-221
+225
 00:12:01,990 --> 00:12:04,370
 Hey, yapma! Hasta o!
 
-222
+226
 00:12:04,660 --> 00:12:07,290
 Öyle bir yer yok mu?!
 
-223
+227
 00:12:10,420 --> 00:12:11,790
 Kim bilir.
 
-224
+228
 00:12:13,130 --> 00:12:16,630
 Oranın varolduğunu
 iddia eden birini tanıyordum,
 
-225
+229
 00:12:16,630 --> 00:12:20,180
 ama bir yalancı olarak tarihe geçti ve...
 
-226
+230
 00:12:20,180 --> 00:12:22,680
 onun soyundan gelenler
 dalga konusu oldular.
 
-227
+231
 00:12:24,060 --> 00:12:25,600
 Ben değilim!
 
-228
+232
 00:12:26,330 --> 00:12:29,900
 Kuzey Mavi'de herkesin bildiği bir hikâye vardır.
 
-229
+233
 00:12:29,900 --> 00:12:32,560
 Adı "Yalancı Noland".
 
-230
+234
 00:12:33,730 --> 00:12:36,360
 Ben değilim dedim ya!
 İsimlerimiz bile farklı!
 
-231
+235
 00:12:36,360 --> 00:12:37,710
 Akraba mısınız?!
 
-232
+236
 00:12:37,710 --> 00:12:40,240
 Burası o hikâyede geçen
 ada olabilir mi?!
 
-233
+237
 00:12:41,410 --> 00:12:45,160
 Benim büyük, büyük, büyük...
 
-234
+238
 00:12:45,160 --> 00:12:46,950
 Yüzyıllar öncesinden dedem.
 
-235
+239
 00:12:46,950 --> 00:12:48,960
 Tam bir dert.
 
-236
+240
 00:12:48,960 --> 00:12:53,310
 Onun kanını taşıyor muyum
 pek emin değilim.
 
-237
+241
 00:12:54,060 --> 00:12:57,970
 Mont Blanc ailesi ülkelerinden sürüldü
 ve sessizce yaşadılar,
 
-238
+242
 00:12:57,970 --> 00:13:01,550
 ama insanlar bugün bile adımızı
 kötülemeye devam ediyor.
 
-239
+243
 00:13:01,570 --> 00:13:05,890
 Yine de ailemizde kimse
 ondan nefret etmez.
 
-240
+244
 00:13:05,890 --> 00:13:07,020
 Neden?
 
-241
+245
 00:13:07,020 --> 00:13:10,980
 Çünkü Noland,
 son derece dürüst bir insandı.
 
-242
+246
 00:13:11,560 --> 00:13:13,900
 Ama kitapta...
 
-243
+247
 00:13:13,900 --> 00:13:17,400
 Noland'ın kitaptaki son sözleri şöyle:
 
-244
+248
 00:13:17,400 --> 00:13:22,030
 "Evet! Altın dağı
 denizin dibine gitmiş olmalı!"
 
-245
+249
 00:13:22,030 --> 00:13:24,830
 Kitap, onu gülen bir aptalmış gibi gösterdi,
 
-246
+250
 00:13:24,830 --> 00:13:30,660
 ancak aslında ağlamaktan helak olmuştu ve acınacak hâlde öldü.
 
-247
+251
 00:13:30,660 --> 00:13:33,000
 Gittikleri ada kesinlikle Jaya'ydı.
 
-248
+252
 00:13:33,000 --> 00:13:36,250
 Bahsettiği aynı ada
 altın şehrin kalıntılarını içeriyordu.
 
-249
+253
 00:13:36,250 --> 00:13:39,440
 Kesinlikle bunun bir halüsinasyon olmadığını biliyordu.
 
-250
+254
 00:13:41,090 --> 00:13:45,010
 Noland, kalıntıların tektonik hareketler
 yüzünden battığını savundu,
 
-251
+255
 00:13:45,010 --> 00:13:49,390
 ama herkes onun çaresizlikten
 bahaneler uydurduğunu düşündü.
 
-252
+256
 00:13:50,350 --> 00:13:54,730
 Noland kendisine gülen seyirciler önünde idam edildi,
 
-253
+257
 00:13:54,730 --> 00:13:57,320
 ve sadece "Yalancı" ismi kaldı.
 
-254
+258
 00:13:57,320 --> 00:13:58,230
 Anladım!
 
-255
+259
 00:13:58,230 --> 00:14:03,530
 Mont Blanc ailesinin adını temize çıkarmak için Altın Şehir'i arıyorsun!
 
-256
+260
 00:14:03,530 --> 00:14:04,990
 Aptal olma!
 
-257
+261
 00:14:05,620 --> 00:14:07,080
 Usopp!
 
-258
+262
 00:14:07,080 --> 00:14:08,580
 Öleceğimi sandım...
 
-259
+263
 00:14:09,140 --> 00:14:14,000
 Atamın dürüstlüğü veya ne kadar büyük bir kaşif olduğu...
 
-260
+264
 00:14:14,000 --> 00:14:15,580
 beni ilgilendirmez!
 
-261
+265
 00:14:15,580 --> 00:14:20,710
 Böyle bir ahmakla, sırf akraba olduğu
 için herkes tarafından alay edilen...
 
-262
+266
 00:14:20,710 --> 00:14:22,840
 çocuğun hislerini anlayabiliyor musun?!
 
-263
+267
 00:14:22,840 --> 00:14:24,760
 İşte böyle büyüdüm!
 
-264
+268
 00:14:28,180 --> 00:14:30,520
 Neyse...
 
-265
+269
 00:14:30,520 --> 00:14:37,270
 400 yıl boyunca pek çok kişi ailemizin
 adını temizlemek için denize açıldı,
 
-266
+270
 00:14:37,270 --> 00:14:40,320
 ancak hepsi denizde kayboldu gitti.
 
-267
+271
 00:14:40,610 --> 00:14:43,700
 Ailemden utandım.
 
-268
+272
 00:14:43,700 --> 00:14:46,740
 O yüzden evden kaçtım ve korsan oldum.
 
-269
+273
 00:14:46,740 --> 00:14:49,200
 Oh? Demek sen de korsansın.
 
-270
+274
 00:14:49,200 --> 00:14:51,870
 Aslında korsan olmak istemiyordum.
 
-271
+275
 00:14:51,870 --> 00:14:54,830
 Tek istediğim
 Noland'ın lanetinden kaçmaktı.
 
-272
+276
 00:14:55,310 --> 00:14:59,840
 Zamanla kendi korsan tayfamı topladım.
 
-273
+277
 00:14:59,840 --> 00:15:02,210
 Ve sonunda Grand Line'a geldim.
 
-274
+278
 00:15:02,210 --> 00:15:04,300
 Ve tüm zamanımı maceralarla geçirdim.
 
-275
+279
 00:15:04,980 --> 00:15:10,740
 Ama 10 yıl önce, gemim bu adaya şans eseri sürüklendi.
 
-276
+280
 00:15:12,490 --> 00:15:15,690
 Mont Blanc ailesinden ve Noland'dan
 en çok nefret eden bendim.
 
-277
+281
 00:15:15,690 --> 00:15:19,270
 ama buraya ulaşan tek kişinin
 ben olması ironikti.
 
-278
+282
 00:15:19,270 --> 00:15:24,570
 Tıpkı resimli kitapta yazdığı gibi,
 bu adada Altın Şehir yoktu.
 
-279
+283
 00:15:24,570 --> 00:15:27,360
 Adanın ucundayken
 bu kaderin işiymiş gibi hissettim.
 
-280
+284
 00:15:27,360 --> 00:15:29,490
 Bundan kaçış yoktu.
 
-281
+285
 00:15:30,080 --> 00:15:33,660
 Hadi bu işi nihayete erdirelim, Noland!
 
-282
+286
 00:15:33,660 --> 00:15:36,060
 Hayatta olmaz, Kaptan!
 
-283
+287
 00:15:36,060 --> 00:15:38,630
 Ailevi sorunlarına dahil olmak istemiyoruz!
 
-284
+288
 00:15:38,630 --> 00:15:42,130
 Altını arayacaksan
 bunu kendi başına yap!
 
-285
+289
 00:15:42,130 --> 00:15:45,820
 Yollarımız burada ayrılıyor.
 Elveda, Kaptan.
 
-286
+290
 00:15:50,510 --> 00:15:54,640
 Oradaysa sorun değil,
 değilse de sorun değil.
 
-287
+291
 00:15:54,640 --> 00:15:58,810
 Onun masum olduğunu
 kanıtlamak umurumda değil.
 
-288
+292
 00:15:58,810 --> 00:16:04,530
 Bu, hayatımı karartan adamla bir hesaplaşma.
 
-289
+293
 00:16:05,590 --> 00:16:10,260
 Ölmeden evvel,
 tek öğrenmek istediğim hakikat.
 
-290
+294
 00:16:14,620 --> 00:16:16,500
 Ne adam ama...
 
-291
+295
 00:16:17,540 --> 00:16:21,880
 Peki maymunlar ne ayak?
 Neden buradalar?
 
-292
+296
 00:16:21,880 --> 00:16:25,050
 Onların da olaylı bir hikâyesi vardır herhâlde,
 
-293
+297
 00:16:25,050 --> 00:16:29,010
 denizin altını keşfetmeye
 ömrünü adamışların hikayesi!
 
-294
+298
 00:16:29,010 --> 00:16:31,010
 Onlar resimli kitabın hayranları.
 
-295
+299
 00:16:31,010 --> 00:16:32,220
 Hayranları mı?!
 
-296
+300
 00:16:32,220 --> 00:16:34,640
 Diğer hikâyeye kıyasla biraz basit kaldı.
 
-297
+301
 00:16:34,640 --> 00:16:36,730
 Sanırım 5-6 yıl önceydi.
 
-298
+302
 00:16:36,730 --> 00:16:39,850
 Hakkımdaki söylentiyi duyup
 aniden olaya dahil oldular.
 
-299
+303
 00:16:39,850 --> 00:16:44,440
 "Noland'ın altını gerçekten var!"
 dediler.
 
-300
+304
 00:16:45,830 --> 00:16:47,030
 Shojo!
 
-301
+305
 00:16:47,860 --> 00:16:50,280
 Ne cüretle bana tekme atarsın?!
 
-302
+306
 00:16:50,280 --> 00:16:52,200
 Bu çok ağır bir itham, Masira!
 
-303
+307
 00:16:52,200 --> 00:16:54,240
 Tepemi attırma!
 
-304
+308
 00:16:55,720 --> 00:16:57,830
 Buralarda deniz çok derin.
 
-305
+309
 00:16:57,830 --> 00:17:02,670
 Soğuk, karanlık denizlerde
 insan bir başka yalnız hissediyor.
 
-306
+310
 00:17:04,000 --> 00:17:09,170
 Her gün tek başıma dalıp arıyordum.
 
-307
+311
 00:17:09,170 --> 00:17:12,590
 Onlar bir anda hayatıma dahil oldular.
 
-308
+312
 00:17:12,590 --> 00:17:16,930
 Ortalıkta dolanmaya başlayıp
 iznim olmadan astım oldular.
 
-309
+313
 00:17:16,930 --> 00:17:19,350
 Onlar gibi aptallar...
 
-310
+314
 00:17:19,850 --> 00:17:22,850
 dürüst olmak gerekirse,
 içimin sıkıntısını hafifletiyor.
 
-311
+315
 00:17:23,610 --> 00:17:24,820
 Anlıyor musunuz?
 
-312
+316
 00:17:24,820 --> 00:17:31,570
 Anlıyorum. Gerçek yoldaşlar birbirine güç veriyor.
 
-313
+317
 00:17:31,570 --> 00:17:34,070
 Neyse, yeter maymunlardan bahsettiğimiz.
 
-314
+318
 00:17:34,070 --> 00:17:37,160
 O zaman dinleme!
 Ya da sık dişini!
 
-315
+319
 00:17:38,260 --> 00:17:41,960
 Dediğim gibi,
 gökyüzü adasına gitmek istiyorum!
 
-316
+320
 00:17:44,480 --> 00:17:46,170
 Çok acelecisin!
 
-317
+321
 00:17:46,170 --> 00:17:51,680
 Gökyüzü adasının tek tanığının
 Yalancı Noland olduğunu atladım değil mi?
 
-318
+322
 00:17:51,680 --> 00:17:55,300
 Onun meselelerine bulaşırsanız
 benim gibi alay konusu olursunuz.
 
-319
+323
 00:17:55,300 --> 00:17:57,810
 Ne?! Noland gökyüzü adasına da mı gitti?!
 
-320
+324
 00:17:57,810 --> 00:18:00,890
 Maalesef, buradan onun
 oraya gittiği anlaşılmıyor, ama…
 
-321
+325
 00:18:00,890 --> 00:18:04,310
 Seyir defteri mi?! Noland'ın olabilir mi?
 
-322
+326
 00:18:04,310 --> 00:18:05,650
 Aynen öyle.
 
-323
+327
 00:18:06,190 --> 00:18:07,860
 Buradan başlayarak oku.
 
-324
+328
 00:18:08,360 --> 00:18:12,320
 İnanılmaz. 400 yıl öncesinden kalma bir seyir defteri.
 
-325
+329
 00:18:12,320 --> 00:18:17,120
 Deniz çağı, 21 haziran 1120. Hava açık.
 
-326
+330
 00:18:17,120 --> 00:18:19,330
 Canlı Villa şehrinden denize açıldık.
 
-327
+331
 00:18:19,330 --> 00:18:24,830
 Seyir pusulasını takip ederek
 kuzeydoğu yönünde ilerledik.
 
-328
+332
 00:18:25,230 --> 00:18:29,420
 Gün içinde rastladığımız bir tüccardan
 nadir bir parça kaptık.
 
-329
+333
 00:18:29,420 --> 00:18:32,840
 Su kayağı yapıyormuş gibi sürülen
 "waver" ismindeki tek kişilik bot.
 
-330
+334
 00:18:29,420 --> 00:18:32,840
 Waver: Dalgalanan
 
-331
+335
 00:18:33,800 --> 00:18:38,260
 Durgun havada kendi rüzgârını
 yaratarak ilerleyen esrarengiz bir icat.
 
-332
+336
 00:18:38,260 --> 00:18:41,270
 Kullanması ustalık gerektiriyor.
 Ben pek beceremedim.
 
-333
+337
 00:18:41,270 --> 00:18:44,810
 Şu an tayfamın favori oyuncağı
 hâline gelmiş durumda.
 
-334
+338
 00:18:44,810 --> 00:18:46,730
 Yok artık! O da ne? Ben de istiyorum!
 
-335
+339
 00:18:46,730 --> 00:18:48,020
 Boş versene! Devam et!
 
-336
+340
 00:18:48,830 --> 00:18:52,110
 Sadece gökyüzü adasında bulunan
 bir parçayla çalışıyor.
 
-337
+341
 00:18:52,110 --> 00:18:55,450
 Gökyüzünde bunun gibi pek çok tuhaf şeyin var olduğunu işittim.
 
-338
+342
 00:18:55,450 --> 00:18:57,050
 Gökyüzü adası demişken,
 
-339
+343
 00:18:57,050 --> 00:19:00,950
 kaşif bir arkadaşım bana
 canlı bir gökyüzü balığı gösterdi.
 
-340
+344
 00:19:01,430 --> 00:19:03,830
 Garip bir balıktı,
 görünce şaşkına döndüm.
 
-341
+345
 00:19:03,830 --> 00:19:04,830
 Gökyüzü balığı mı?
 
-342
+346
 00:19:04,830 --> 00:19:08,130
 Gemimiz için henüz keşfedilmemiş bir bölge,
 
-343
+347
 00:19:08,130 --> 00:19:11,920
 bir kaşif olarak gökyüzündeki
 denize gitmeyi çok isterim.
 
-344
+348
 00:19:11,920 --> 00:19:14,340
 Mont Blanc Noland.
 
-345
+349
 00:19:14,340 --> 00:19:15,970
 "Gökyüzündeki deniz" demiş!
 
-346
+350
 00:19:15,970 --> 00:19:17,970
 Aynı Robin'in dediği gibi!
 
-347
+351
 00:19:17,970 --> 00:19:21,520
 Ve anlaşılan o zamanki insanlar
 gökyüzü adasını biliyormuş.
 
-348
+352
 00:19:21,970 --> 00:19:23,640
 Yani gerçekten varmış!
 
-349
+353
 00:19:23,640 --> 00:19:26,560
 Pekâlâ!
 
-350
+354
 00:19:27,080 --> 00:19:29,610
 Hey, Patron! Nasıl hissediyorsun?!
 
-351
+355
 00:19:29,610 --> 00:19:30,520
 Çok iyiyim!
 
-352
+356
 00:19:30,900 --> 00:19:33,110
 Duyduğuma sevindim!
 
-353
+357
 00:19:33,110 --> 00:19:34,740
 Patron, bu şerefsiz...
 
-354
+358
 00:19:34,740 --> 00:19:38,160
 Susun da dinleyin.
 Bu elemanları sevdiniz mi?
 
-355
+359
 00:19:38,160 --> 00:19:39,780
 Neden soruyorsun?
 
-356
+360
 00:19:39,780 --> 00:19:43,790
 Görünen o ki ne olursa olsun
 gökyüzü adasına gitmek istiyorlar.
 
-357
+361
 00:19:43,790 --> 00:19:48,500
 Gökyüzü adası... Gitmek istiyorlarsa, bunun tek bir yolu var.
 
-358
+362
 00:19:48,500 --> 00:19:51,840
 Kendi başlarına denerlerse
 saniyesinde ölürler, Patron.
 
-359
+363
 00:19:51,840 --> 00:19:58,090
 Aynen öyle, o hâlde neden onlara yardım etmiyoruz?
-
-360
-00:04:35,500 --> 00:04:46,000
-Yalancı Noland
-
-361
-00:06:17,190 --> 00:06:20,480
-Mock Şehri, Jaya
-
-362
-00:06:17,190 --> 00:06:20,480
-Mock Şehri, Jaya
-
-363
-00:06:17,190 --> 00:06:20,480
-Mock Şehri, Jaya
-
-364
-00:07:52,370 --> 00:07:57,750
-Korsan Mont Blanc Kriket
-Saruyama İttifakı Kaptanı
-
-365
-00:07:52,370 --> 00:07:57,750
-Korsan Mont Blanc Kriket
-Saruyama İttifakı Kaptanı
-
-366
-00:07:52,370 --> 00:07:57,750
-Korsan Mont Blanc Kriket
-Saruyama İttifakı Kaptanı

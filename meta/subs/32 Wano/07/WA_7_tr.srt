@@ -1,1435 +1,1345 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:41,950 --> 00:01:45,160
+Değerli Erzak Gemisi
+
+3
 00:01:43,200 --> 00:01:45,160
 Tamamdır! Yola koyulalım millet!
 
-3
+4
 00:01:48,740 --> 00:01:50,380
 Ne oldu, Bepo?
 
-4
+5
 00:01:54,920 --> 00:01:57,180
 Bepo, sen...
 
-5
+6
 00:02:01,630 --> 00:02:02,810
 Oda!
 
-6
+7
 00:02:11,170 --> 00:02:12,280
 Tara!
 
-7
+8
 00:02:15,850 --> 00:02:18,130
 Biliyordum.
 
-8
+9
 00:02:18,130 --> 00:02:22,370
 Üzgünüm, kendime engel olamadım da.
 
-9
+10
 00:02:23,030 --> 00:02:26,500
 Ö-Ölecek miyim şimdi, kaptan?
 
-10
+11
 00:02:26,500 --> 00:02:29,620
 Ne ölmesi be! Alt tarafı mideni bozdun.
 
-11
+12
 00:02:30,210 --> 00:02:33,120
 Bu yüzden dereden balık
 yemeyin demiştim işte.
 
-12
+13
 00:02:33,750 --> 00:02:35,840
 Hayret bir şey, tam da sırasıydı!
 
-13
+14
 00:02:35,840 --> 00:02:38,800
 Ö-Özür dilerim...
 
-14
+15
 00:02:46,890 --> 00:02:48,640
 Şirinlik yapmasana!
 
-15
+16
 00:02:50,350 --> 00:02:54,070
 Bi' rahat dursanız dişimi kıracağım!
 
-16
+17
 00:02:54,680 --> 00:02:58,760
 Bizim dangalaklar
 olay çıkarmıyordur umarım.
 
-17
+18
 00:03:00,740 --> 00:03:02,570
 Asiler!
 
-18
+19
 00:03:05,170 --> 00:03:08,290
 Patron!
 Avamdan bir asi çetesi geldi!
 
-19
+20
 00:03:08,290 --> 00:03:11,540
 Sulh hakimi katili Zorojuro da onlarla!
 
-20
+21
 00:03:12,280 --> 00:03:14,120
 Telaşlanmayın.
 
-21
+22
 00:03:14,120 --> 00:03:15,500
 Yoldayım.
 
-22
+23
 00:03:16,580 --> 00:03:19,510
 İçlerinden biri ensesinde
 hasır şapka taşıyor, değil mi?
 
-23
+24
 00:03:19,510 --> 00:03:21,220
 E-Evet!
 
-24
+25
 00:03:21,220 --> 00:03:23,890
 Karşılarına çıkmayın.
 
-25
+26
 00:03:24,640 --> 00:03:27,140
 Onlarla aşık atamazsınız!
 
-26
+27
 00:03:29,660 --> 00:03:31,520
 Yokozuna'ya bunu nasıl yaparsın?!
 
-27
+28
 00:03:31,520 --> 00:03:33,520
 Alt tarafı bir avam müsveddesisin!
 
-28
+29
 00:03:33,520 --> 00:03:35,480
 Size bir ders vereceğiz!
 
-29
+30
 00:03:39,270 --> 00:03:42,860
 Tama dediğin, Holdem-sama'nın
 tutsak aldığı velet mi?
 
-30
+31
 00:03:44,450 --> 00:03:47,240
 Onu kurtarmaya mı geldiniz?!
 Gelin de alın o zaman!
 
-31
+32
 00:03:47,240 --> 00:03:50,450
 Sumo güreşinden sonra
 sıra kılıç müsabakası mı?
 
-32
+33
 00:03:53,250 --> 00:03:54,830
 Saldırın!
 
-33
+34
 00:03:57,380 --> 00:04:00,670
 Tama'yı verin lan!
 
-34
+35
 00:04:01,870 --> 00:04:03,800
 Yine kını fırlatıverdi!
 
-35
+36
 00:04:22,660 --> 00:04:24,410
 Tama!
 
-36
+37
 00:04:35,080 --> 00:04:37,120
 Ben ne yapayım?
 
-37
+38
 00:04:37,780 --> 00:04:39,210
 Zayıfım ayaklarını geç.
 
-38
+39
 00:04:40,050 --> 00:04:41,550
 Arkanı kollamam.
 
-39
+40
 00:04:42,760 --> 00:04:46,090
 Ben de...
 Kılıçtan geçireyim mi?
 
-40
+41
 00:04:48,010 --> 00:04:49,350
 Geçir gitsin!
 
-41
+42
 00:04:49,930 --> 00:04:52,600
 Veledi kurtarmak istiyorsan tabii!
 
-42
+43
 00:05:01,090 --> 00:05:02,190
 Otama-chan...
 
-43
+44
 00:05:08,760 --> 00:05:10,030
 İstiyorum!
 
-44
+45
 00:05:24,800 --> 00:05:27,930
 Tama'yı verin lan!
 
-45
+46
 00:05:32,850 --> 00:05:35,450
 Bir an önce vermezseniz...
 
-46
+47
 00:05:37,900 --> 00:05:40,060
 geberip gideceksiniz.
 
-47
+48
 00:05:45,880 --> 00:05:48,110
 Uzayın lan!
 
-48
+49
 00:06:17,260 --> 00:06:19,680
 Diğer kasabada bir olay var.
 
-49
+50
 00:06:21,040 --> 00:06:23,800
 Çok açım!
 
-50
+51
 00:06:23,800 --> 00:06:26,310
 Ağlama! Hiç yakışmıyor!
 
-51
+52
 00:06:28,530 --> 00:06:33,130
 Wano'nun erkekleri
 yakınmak nedir bilmemeli!
 
-52
+53
 00:06:33,130 --> 00:06:36,120
 Açım ama!
 
-53
+54
 00:06:44,010 --> 00:06:45,460
 Ağlama canım, ağlama.
 
-54
+55
 00:06:46,580 --> 00:06:48,590
 Otsuru-san!
 
-55
+56
 00:06:49,560 --> 00:06:52,190
 Otsuru-san, elinde beşparmak otu var mı?
 
-56
+57
 00:06:52,190 --> 00:06:52,860
 Ne?
 
-57
+58
 00:06:52,860 --> 00:06:57,720
 Evladım açlığa dayanamayıp
 nehir suyundan içmiş!
 
-58
+59
 00:06:57,720 --> 00:06:58,810
 İnanmıyorum!
 
-59
+60
 00:06:58,810 --> 00:07:00,440
 Gel hemen!
 
-60
+61
 00:07:50,920 --> 00:07:52,660
 Hasat vakti!
 
-61
+62
 00:07:55,030 --> 00:07:57,910
 Hasatlarınızı sepete koyun!
 
-62
+63
 00:08:16,450 --> 00:08:18,060
 E-Efendim...
 
-63
+64
 00:08:18,060 --> 00:08:20,430
 Ha, bunun için mi geldin?
 
-64
+65
 00:08:21,670 --> 00:08:23,140
 B-Beş gümüş sikke mi?
 
-65
+66
 00:08:23,140 --> 00:08:27,360
 Alacağını aldıysan arka kapıdan
 çaktırmadan Okobore Kasabası'na dön!
 
-66
+67
 00:08:27,360 --> 00:08:32,710
 N'olur! Verdiğiniz ücret, ailemi
 bir haftalığına doyurmaya yetmez!
 
-67
+68
 00:08:32,710 --> 00:08:35,030
 Bununla su bile satın alamayız!
 
-68
+69
 00:08:35,030 --> 00:08:37,160
 Kes lan! Ağlama!
 
-69
+70
 00:09:09,610 --> 00:09:11,800
 Patronunun adı ne?
 
-70
+71
 00:09:11,800 --> 00:09:15,450
 Bol... de... H-Holde...
 
-71
+72
 00:09:15,450 --> 00:09:18,950
 Hol... de... m...
 
-72
+73
 00:09:21,780 --> 00:09:23,000
 Boldeb mi?
 
-73
+74
 00:09:23,000 --> 00:09:25,120
 İtfaiyeyi çağırın!
 
-74
+75
 00:09:26,000 --> 00:09:29,170
 Yangın! Yangın çıktı!
 
-75
+76
 00:09:35,630 --> 00:09:40,010
 Çık lan ortaya! Boldeb!
 
-76
+77
 00:09:40,570 --> 00:09:45,310
 Tama'nın saçının teline dokunduysan
 bedelini ağır ödersin!
 
-77
+78
 00:09:45,310 --> 00:09:47,440
 Ağaç olduk lan!
 
-78
+79
 00:09:47,440 --> 00:09:51,400
 Boldeb! Tama'yı ver!
 
-79
+80
 00:10:07,540 --> 00:10:11,630
 Boldeb!
 
-80
+81
 00:10:17,260 --> 00:10:21,100
 Beni arıyorsan buradayım, velet!
 
-81
+82
 00:10:23,640 --> 00:10:26,480
 Kasabanın patronu...
 
-82
+83
 00:10:26,480 --> 00:10:29,190
 Boldeb sensin, değil mi?
 
-83
+84
 00:10:30,100 --> 00:10:34,070
 Adım Holdem!
 
-84
+85
 00:10:41,450 --> 00:10:43,580
 Holdem-sama!
 
-85
+86
 00:10:43,580 --> 00:10:45,930
 Ona haddini bildirin!
 
-86
+87
 00:10:48,210 --> 00:10:49,540
 Nihayet geldin demek!
 
-87
+88
 00:10:50,530 --> 00:10:53,460
 Başka çare mi bıraktın?
 
-88
+89
 00:10:53,460 --> 00:10:58,270
 Sumo zırvanızla evimi yerle bir ettin lan!
 
-89
+90
 00:10:58,270 --> 00:11:03,260
 Urashima'nın çarptığı evim
 moloz yığınına döndü! Sıçtıklarım.
 
-90
+91
 00:11:03,260 --> 00:11:05,560
 Hangi bok çukurundan geliyorsunuz lan?
 
-91
+92
 00:11:18,610 --> 00:11:20,530
 Ağabey!
 
-92
+93
 00:11:20,530 --> 00:11:21,910
 Tama!
 
-93
+94
 00:11:21,910 --> 00:11:23,290
 Otama-chan!
 
-94
+95
 00:11:30,660 --> 00:11:33,790
 Bize karşı geldiğinize göre...
 
-95
+96
 00:11:34,450 --> 00:11:38,260
 haydut Shutenmaru'nun
 adamı mısınız?
 
-96
+97
 00:11:39,930 --> 00:11:44,390
 Bakura Kasabası'na
 bulaşmayacaktınız işte!
 
-97
+98
 00:11:46,300 --> 00:11:49,270
 Shutenmaru mu? O kim lan?
 
-98
+99
 00:11:52,650 --> 00:11:54,310
 Shutenmaru...
 
-99
+100
 00:11:54,310 --> 00:11:55,770
 Ağzına sıçtıklarım!
 
-100
+101
 00:11:55,770 --> 00:11:59,110
 Veledi istiyorsunuz galiba.
 
-101
+102
 00:11:59,110 --> 00:12:01,570
 Ama kılınızı kıpırdatmayın hele!
 
-102
+103
 00:12:01,570 --> 00:12:06,410
 Kızı saniyeler içerisinde paramparça eder!
 
-103
+104
 00:12:15,760 --> 00:12:17,920
 Ağabey...!
 
-104
+105
 00:12:19,850 --> 00:12:20,670
 Tama...
 
-105
+106
 00:12:36,250 --> 00:12:39,650
 Karnında aslan mı var?
 
-106
+107
 00:12:39,650 --> 00:12:44,150
 Şu an Holdem-sama
 hasır şapkalı adamla konuşuyor!
 
-107
+108
 00:12:45,320 --> 00:12:48,530
 Her an bir savaş patlak verebilir!
 
-108
+109
 00:12:48,530 --> 00:12:51,620
 Patron! Emirlerinizi bekliyoruz!
 
-109
+110
 00:12:52,730 --> 00:12:53,580
 Varmak üzereyim,
 
-110
+111
 00:12:54,530 --> 00:12:56,500
 Bakura Kasabası'nın girişindeyim!
 
-111
+112
 00:12:59,550 --> 00:13:02,380
 Kaptan, Hawkins girişe vardı!
 
-112
+113
 00:13:02,380 --> 00:13:04,720
 Kasabada da yangın çıktı.
 
-113
+114
 00:13:04,720 --> 00:13:07,340
 Yangını çıkaran ise...
 
-114
+115
 00:13:10,220 --> 00:13:13,230
 Kaptan, beni bırakma...
 
-115
+116
 00:13:14,370 --> 00:13:15,730
 Yoksa bizimkinin işi mi?
 
-116
+117
 00:13:15,730 --> 00:13:19,260
 Maalesef, Hasır Şapka'yı görüyorum.
 
-117
+118
 00:13:19,260 --> 00:13:20,370
 Ha?!
 
-118
+119
 00:13:24,620 --> 00:13:26,570
 Ağabey!
 
-119
+120
 00:13:27,150 --> 00:13:29,530
 Seni hemen kurtarıyorum, Tama!
 
-120
+121
 00:13:29,530 --> 00:13:32,240
 Nah kurtarırsın!
 
-121
+122
 00:13:32,240 --> 00:13:34,710
 Aptal!
 
-122
+123
 00:13:38,170 --> 00:13:39,630
 Ah şu aptallar!
 
-123
+124
 00:13:53,890 --> 00:13:55,310
 Kapıyı açın!
 
-124
+125
 00:13:57,030 --> 00:13:59,320
 Açın!
 
-125
+126
 00:14:10,390 --> 00:14:15,620
 Yine birbirinden enfes duran
 türlü türlü yiyeceğimiz var!
 
-126
+127
 00:14:20,560 --> 00:14:24,240
 Kesinlikle Speed-sama.
 O yüzden neden göz atmıyorsunuz?
 
-127
+128
 00:14:24,240 --> 00:14:25,840
 Yiyecekler arkanızda da.
 
-128
+129
 00:14:25,840 --> 00:14:27,500
 Görebiliyorum ki!
 
-129
+130
 00:14:27,500 --> 00:14:28,150
 Ne?
 
-130
+131
 00:14:29,210 --> 00:14:30,880
 Ne de olsa...
 
-131
+132
 00:14:30,880 --> 00:14:33,100
 görüş alanım...
 
-132
+133
 00:14:33,100 --> 00:14:34,900
 350 derece!
 
-133
+134
 00:14:34,900 --> 00:14:36,300
 Bir attan farkınız yok!
 
-134
+135
 00:14:36,300 --> 00:14:37,760
 Öyle mi dersin?
 
-135
+136
 00:14:39,310 --> 00:14:41,380
 At gibi de gülüyorsunuz!
 
-136
+137
+00:14:41,810 --> 00:14:47,240
+Speed
+
+138
 00:14:50,990 --> 00:14:52,120
 Yangın çanı mı?
 
-137
+139
 00:14:52,120 --> 00:14:54,280
 Yangın! Yangın!
 
-138
+140
 00:14:54,280 --> 00:14:55,680
 Yolu açın!
 
-139
+141
 00:14:55,680 --> 00:14:57,250
 Açılın! Açılın!
 
-140
+142
 00:14:58,230 --> 00:15:02,460
 Birinci takımın en iyileri olarak,
 bu yangını biz halledeceğiz!
 
-141
+143
 00:15:07,380 --> 00:15:08,380
 Burası...
 
-142
+144
 00:15:19,440 --> 00:15:21,430
 Yangını söndürsenize!
 
-143
+145
 00:15:23,420 --> 00:15:26,070
 Burası Holdem'in konağı.
 
-144
+146
 00:15:28,020 --> 00:15:31,110
 Binalara ne olmuş böyle?
 
-145
+147
 00:15:31,110 --> 00:15:33,650
 Arkanıza bakın, Speed-sama!
 
-146
+148
 00:15:36,180 --> 00:15:37,800
 Görebiliyorum.
 
-147
+149
 00:15:37,800 --> 00:15:40,580
 Görüş alanımın bir attan
 aşağı kalır yanı yoktur da.
 
-148
+150
 00:15:40,580 --> 00:15:43,960
 Bugün sumo güreşi müsabakası
 var diye biliyordum.
 
-149
+151
 00:15:45,100 --> 00:15:46,460
 Neler oluyor?
 
-150
+152
 00:15:56,850 --> 00:15:59,460
 Ağabey!
 
-151
+153
 00:15:59,460 --> 00:16:02,270
 Tama! Şimdi kurtarıyorum seni!
 
-152
+154
 00:16:04,150 --> 00:16:05,710
 Kurtarıyor musun?
 
-153
+155
 00:16:05,710 --> 00:16:10,490
 Nasıl kurtaracakmışsın bakayım?
 Söyle hele!
 
-154
+156
 00:16:13,490 --> 00:16:15,090
 Kılınızı kıpırdatmayın!
 
-155
+157
 00:16:15,090 --> 00:16:20,500
 En ufak direniş gösterirseniz
 sıpanın vücudu...
 
-156
+158
 00:16:23,870 --> 00:16:28,290
 karnımdaki aslan Kamijiro'nun
 ağzında mezeye döner!
 
-157
+159
+00:16:27,960 --> 00:16:28,000
+Kamijiro 
+Holdem'in Midesi
+
+160
+00:16:28,000 --> 00:16:28,050
+Kamijiro 
+Holdem'in Midesi
+
+161
+00:16:28,050 --> 00:16:28,090
+Kamijiro 
+Holdem'in Midesi
+
+162
+00:16:28,090 --> 00:16:28,130
+Kamijiro 
+Holdem'in Midesi
+
+163
+00:16:28,130 --> 00:16:28,170
+Kamijiro 
+Holdem'in Midesi
+
+164
+00:16:28,170 --> 00:16:28,210
+Kamijiro 
+Holdem'in Midesi
+
+165
+00:16:28,210 --> 00:16:28,250
+Kamijiro 
+Holdem'in Midesi
+
+166
+00:16:28,250 --> 00:16:28,300
+Kamijiro 
+Holdem'in Midesi
+
+167
+00:16:28,300 --> 00:16:28,340
+Kamijiro 
+Holdem'in Midesi
+
+168
+00:16:28,340 --> 00:16:28,380
+Kamijiro 
+Holdem'in Midesi
+
+169
+00:16:28,380 --> 00:16:28,420
+Kamijiro 
+Holdem'in Midesi
+
+170
+00:16:28,420 --> 00:16:28,460
+Kamijiro 
+Holdem'in Midesi
+
+171
+00:16:28,460 --> 00:16:28,500
+Kamijiro 
+Holdem'in Midesi
+
+172
+00:16:28,500 --> 00:16:28,550
+Kamijiro 
+Holdem'in Midesi
+
+173
+00:16:28,550 --> 00:16:28,590
+Kamijiro 
+Holdem'in Midesi
+
+174
+00:16:28,590 --> 00:16:28,630
+Kamijiro 
+Holdem'in Midesi
+
+175
+00:16:28,630 --> 00:16:28,670
+Kamijiro 
+Holdem'in Midesi
+
+176
+00:16:28,670 --> 00:16:32,170
+Kamijiro 
+Holdem'in Midesi
+
+177
 00:16:35,930 --> 00:16:38,600
 Otama-chan!
 Seni hemen kurtaracağız!
 
-158
+178
 00:16:39,110 --> 00:16:43,880
 Tama'yı bırak Boldeb!
 Yoksa canına okurum!
 
-159
+179
 00:16:43,880 --> 00:16:48,320
 Adım Holdem dedik ya lan!
 Öğren artık!
 
-160
+180
 00:16:52,740 --> 00:16:54,690
 Ağabey!
 
-161
+181
 00:16:55,200 --> 00:16:57,460
 Okiku-chan!
 
-162
+182
 00:16:57,460 --> 00:16:59,370
 Komachiyo!
 
-163
+183
 00:17:02,110 --> 00:17:05,000
 İstediğin kadar atıp tut, dangalak!
 
-164
+184
 00:17:05,000 --> 00:17:07,750
 Kızı nah veririm!
 
-165
+185
 00:17:07,750 --> 00:17:12,130
 Bir sıpa için
 bu kadar olay çıkardığınıza göre...
 
-166
+186
 00:17:12,130 --> 00:17:17,690
 yeteneğinden haberiniz var galiba!
 
-167
+187
 00:17:38,450 --> 00:17:40,700
 Sizi rehin alıp...
 
-168
+188
 00:17:40,700 --> 00:17:44,160
 Shutenmaru'yu da yakalayacağım!
 
-169
+189
 00:17:45,500 --> 00:17:46,250
 Kimi?
 
-170
+190
 00:17:52,620 --> 00:17:54,630
 Shutenmaru...
 
-171
+191
 00:17:54,630 --> 00:17:58,010
 Aptal ayağına yatma!
 
-172
+192
 00:17:58,010 --> 00:18:01,390
 Hırsız çetenizin başı işte!
 
-173
+193
 00:18:03,640 --> 00:18:07,760
 Son günlerde tarladaki soygunlar da...
 
-174
+194
 00:18:08,430 --> 00:18:11,890
 siz Atama Dağı Hırsızları'nın işi,
 değil mi?
 
-175
+195
 00:18:12,550 --> 00:18:16,360
 Bala göte de olsa
 Urashima'yı alt edebildiysen...
 
-176
+196
 00:18:16,360 --> 00:18:19,820
 en güvendiği adamlarından biri
 olduğuna kalıbımı basarım!
 
-177
+197
 00:18:21,870 --> 00:18:23,760
 Ne diyo'n be?
 
-178
+198
 00:18:23,760 --> 00:18:25,090
 Luffytaro-san...
 
-179
+199
 00:18:26,420 --> 00:18:29,750
 Onu kızdırmamaya çalış lütfen.
 
-180
+200
 00:18:29,750 --> 00:18:32,500
 Çoktan küplere binmiş ki!
 
-181
+201
 00:18:38,260 --> 00:18:42,220
 Bu yüzden daha da
 damarına basma lütfen!
 
-182
+202
 00:18:43,590 --> 00:18:46,390
 Kendisi elbette güçlü de...
 
-183
+203
 00:18:48,780 --> 00:18:54,270
 kasaba halkının asıl korktuğu kişi
 Holdem'den ziyade...
 
-184
+204
 00:18:54,720 --> 00:18:56,740
 arkasını kollayan adamdır.
 
-185
+205
 00:18:58,320 --> 00:18:59,860
 Canavar Korsanları'ndan...
 
-186
+206
 00:19:00,990 --> 00:19:02,570
 Kaido'nun as adamlarından biri...
 
-187
+207
 00:19:06,530 --> 00:19:08,710
 "Kuraklık" Jack,
 
-188
+208
 00:19:08,710 --> 00:19:11,380
 Kuri'nin gerçek patronudur!
 
-189
+209
 00:19:14,460 --> 00:19:18,840
 Zou'nun içinden geçtiği adam değil mi?
 
-190
+210
 00:19:18,840 --> 00:19:21,500
 Ne? O muymuş?
 
-191
+211
 00:19:22,600 --> 00:19:25,680
 Kediyle köpeğe karşı zehir kullanmıştı.
 
-192
+212
 00:19:29,890 --> 00:19:33,460
 Sonunda ise fil onu
 havaya uçurmuştu, değil mi?
 
-193
+213
 00:19:48,570 --> 00:19:51,790
 Jack, gemisiyle birlikte
 denizi boylamıştı!
 
-194
+214
 00:19:51,790 --> 00:19:54,310
 Gebermemiş mi?
 
-195
+215
 00:19:59,720 --> 00:20:02,880
 Kedi, köpek ve fil mi?
 
-196
+216
 00:20:03,700 --> 00:20:05,600
 Hayvanlardan mı bahsediyorlar?
 
-197
+217
 00:20:06,830 --> 00:20:09,600
 Demek Jack'in denizdeki kazasını biliyorsunuz!
 
-198
+218
 00:20:11,610 --> 00:20:13,730
 Sapasağlam ayaktaydı.
 
-199
+219
 00:20:14,630 --> 00:20:18,730
 Birkaç gün önce ise
 Bakura Kasabası'na geldi.
 
-200
+220
 00:20:19,700 --> 00:20:20,990
 Ne?
 
-201
+221
 00:20:21,810 --> 00:20:25,840
 Yani Holdem'i kızdırırsanız...
 
-202
+222
 00:20:25,840 --> 00:20:29,160
 felaket olarak bilinen Jack de
 misilleme yapmaya gelirse...
 
-203
+223
 00:20:30,140 --> 00:20:33,560
 kasaba moloz yığınına döner.
 
-204
+224
 00:20:34,090 --> 00:20:37,230
 Bunun yaşanmasına izin veremeyiz!
 
-205
+225
 00:20:37,230 --> 00:20:39,050
 Adiliğe bak!
 
-206
+226
 00:20:39,050 --> 00:20:42,630
 Resmen tüm kasabayı
 rehin tutuyorlar o zaman!
 
-207
+227
 00:20:49,770 --> 00:20:51,390
 Lan!
 
-208
+228
 00:20:51,390 --> 00:20:53,950
 Lan, lan, lan, lan, lan, lan, lan!
 
-209
+229
 00:20:53,950 --> 00:20:57,270
 Ne mırıldanıyorsunuz bakayım?
 
-210
+230
 00:20:59,570 --> 00:21:01,500
 Ne oldu?
 
-211
+231
 00:21:01,500 --> 00:21:06,360
 Sıpayı kurtarmaya çalışsanıza hadi!
 
-212
+232
 00:21:06,360 --> 00:21:09,990
 Gerçi kılınızı kıpırdattığınız gibi...
 
-213
+233
 00:21:12,950 --> 00:21:15,500
 işte böyle olacak!
 
-214
+234
 00:21:18,700 --> 00:21:21,760
 Canım yanıyor!
 
-215
+235
 00:21:23,090 --> 00:21:26,670
 Yapma! Şerefsiz!
 
-216
+236
 00:21:31,850 --> 00:21:39,060
 Bayılıyorum be! Avamların acı içindeki feryatlarına!
 
-217
+237
 00:21:42,550 --> 00:21:48,780
 Yokozuna'yı fırlatarak evimi
 yerle bir ettiğinizi unutmayın!
 
-218
+238
 00:22:05,110 --> 00:22:08,300
 Bu neyin curcunası, Holdem?
 
-219
+239
 00:22:10,110 --> 00:22:15,340
 Speed-sama'nın değerli erzak
 gemisi! Bugünkü menümüz!
 
-220
+240
 00:22:22,520 --> 00:22:25,460
 Gemi dolusu yiyecek!
 
-221
+241
 00:22:25,460 --> 00:22:27,780
 Cennet Tarlası'nın hasadı.
 
-222
+242
 00:22:29,850 --> 00:22:33,910
 Temiz suyla yetiştirildiğinden
 zehirli olmayan yiyecekler.
 
-223
+243
 00:22:34,660 --> 00:22:37,230
 Neden hepsi onların oluyormuş?
 
-224
+244
 00:22:38,710 --> 00:22:41,000
 Zoro! Şurayı sen halleder misin?
 
-225
+245
 00:22:41,940 --> 00:22:42,970
 Oldu bil.
 
-226
+246
 00:22:42,970 --> 00:22:43,500
 Ne?
 
-227
+247
 00:22:44,280 --> 00:22:45,800
 Ben de Tama'yı kurtaracağım!
 
-228
+248
 00:22:45,800 --> 00:22:47,570
 Ne? Ne?
 
-229
+249
 00:22:49,570 --> 00:22:54,450
 Kiku! Kusura bakma ama
 kapkaç yapmaya karar verdik!
 
-230
+250
 00:22:54,450 --> 00:22:56,310
 Ne? Hangi ara?
 
-231
+251
 00:22:58,900 --> 00:23:04,480
 Sinirlenmesine neden olacağını bilsem de
 canına okumamızdan iyidir ama, değil mi?
 
-232
+252
 00:23:12,700 --> 00:23:14,490
 Hawkins-san!
 
-233
+253
 00:23:16,240 --> 00:23:18,750
 Onların dengi değiliz!
 
-234
+254
 00:23:19,670 --> 00:23:21,320
 Holdem nerede?
 
-235
+255
 00:23:21,320 --> 00:23:23,790
 4. Bölge'nin meydanında kıyameti koparıyor!
 
-236
+256
 00:23:26,900 --> 00:23:28,920
 Açmıyorsun demek, Holdem.
 
-237
+257
 00:23:35,850 --> 00:23:39,600
 Buradan ileriye geçemezsin,
 Basil Hawkins!
 
-238
+258
 00:23:49,030 --> 00:23:50,110
 Sen de kimsin?
 
-239
+259
 00:23:51,150 --> 00:23:52,030
 Güçlü.
 
-240
+260
 00:23:53,240 --> 00:23:57,330
 Kabuğuna kapanmış Wano,
 dışarıdan haber alamadığı için şanslıyken...
 
-241
+261
 00:23:57,330 --> 00:24:00,440
 bizi tanıyan bu elemanı...
 
-242
+262
 00:24:01,450 --> 00:24:03,000
 ortadan kaldırsam iyi olacak!
 
-243
+263
 00:24:07,340 --> 00:24:08,780
 Şimdi,
 
-244
+264
 00:24:10,080 --> 00:24:13,180
 gerçek eğlence başlıyor.
 
-245
+265
 00:24:16,760 --> 00:24:20,100
 Kazara birkaçını öldürseniz de
 dert değil!
 
-246
+266
 00:24:20,100 --> 00:24:23,020
 Yakalayın şunları!
 
-247
+267
 00:24:27,730 --> 00:24:29,530
 Lan, kadın!
 
-248
+268
 00:24:29,530 --> 00:24:34,740
 Sıpayı rehin tuttuğumuzu
 unutmadın umarım?
 
-249
+269
 00:24:45,570 --> 00:24:48,290
 Luffytaro-san... Zorojuro-san...
 
-250
+270
 00:24:48,980 --> 00:24:49,820
 Neden...?
 
-251
+271
 00:24:49,820 --> 00:24:51,670
 Şimdi yaptınız yapacağınızı!
 
-252
+272
 00:24:51,670 --> 00:24:57,640
 Sizi gayet iyi anladım!
 Sıpayı istemiyorsunuz yani?
 
-253
+273
 00:24:57,640 --> 00:25:01,610
 Ben de arzu ettiğiniz üzere
 onu mezeye çevireyim!
 
-254
+274
 00:25:01,610 --> 00:25:03,440
 Ye gitsin, Kamijiro!
 
-255
+275
 00:25:23,650 --> 00:25:24,410
 Ne?
 
-256
+276
 00:25:24,410 --> 00:25:25,980
 Sıpa gitmiş!
 
-257
+277
 00:25:32,010 --> 00:25:34,590
 Ha? Ne ara aldı lan?
 
-258
+278
 00:25:34,590 --> 00:25:37,930
 Kamijiro! Ne bok yiyorsun?
 
-259
+279
 00:26:04,700 --> 00:26:07,370
 Hadi gidelim, Tama!
 
-260
+280
 00:26:08,190 --> 00:26:10,000
 Ağabey...!
 
-261
+281
 00:26:10,000 --> 00:26:12,380
 Beklettiğim için üzgünüm!
 
-262
+282
 00:26:14,100 --> 00:26:15,890
 Komachiyo!
 
-263
+283
 00:26:18,010 --> 00:26:19,640
 Kamijiro!
 
-264
+284
 00:26:23,740 --> 00:26:27,140
 Alev kılıcımla
 seni lime lime edeceğim!
 
-265
+285
 00:26:33,860 --> 00:26:40,240
 Hileli kılıcımdan
 kurtulmayı başaran daha çıkmadı!
 
-266
+286
 00:26:41,070 --> 00:26:44,450
 Zebani Kılıcı!
 
-267
+287
 00:26:49,300 --> 00:26:52,880
 Yakaladım! Gel bakalım!
 Sen de rehinemizsin artık!
 
-268
+288
 00:26:56,380 --> 00:26:59,590
 Yoldaşını kaybetmeye razı mısın?
 
-269
+289
 00:27:05,560 --> 00:27:08,130
 Kılıçlarını bırak!
 
-270
+290
 00:27:14,650 --> 00:27:16,610
 Ha şöyle!
 
-271
+291
 00:27:16,610 --> 00:27:18,650
 Zorojuro-san...
 
-272
+292
 00:27:18,650 --> 00:27:23,640
 Kıpırdayayım deme!
 Seni ölümüne döveceğim!
 
-273
+293
 00:27:31,590 --> 00:27:33,170
 Bak hele.
 
-274
+294
 00:27:33,170 --> 00:27:35,720
 Benden medet umma.
 
-275
+295
 00:27:42,130 --> 00:27:45,110
 Kadına ne olacağını önemsemiyor musun?
 
-276
+296
 00:27:50,520 --> 00:27:52,400
 Kaçamazsın!
 
-277
+297
 00:27:58,010 --> 00:27:59,490
 Müsaadenle.
 
-278
+298
 00:28:02,690 --> 00:28:03,740
 Ne yapayım?
 
-279
+299
 00:28:03,740 --> 00:28:05,450
 Kendi tarafını hallet!
 
-280
+300
 00:28:05,450 --> 00:28:06,550
 Tamam!
 
-281
+301
 00:28:49,400 --> 00:28:51,410
 Köpek! Buraya gel!
 
-282
+302
 00:28:58,880 --> 00:29:01,010
 Teşekkür ederim!
 
-283
+303
 00:29:09,970 --> 00:29:11,520
 Bizi kasabadan çıkar!
 
-284
+304
 00:29:25,660 --> 00:29:27,940
 Yanağına ne oldu senin?
 
-285
+305
 00:29:31,570 --> 00:29:33,000
 Bir şey yok ya.
 
-286
+306
 00:29:34,210 --> 00:29:36,920
 Kerpetenle çektiler sadece.
 
-287
+307
 00:29:37,790 --> 00:29:39,330
 Kibi dango yeteneği...
 
-288
+308
 00:29:40,120 --> 00:29:42,800
 öyle çekseler bile çalışmaz ki!
 
-289
+309
 00:29:44,930 --> 00:29:46,010
 Kerpeten mi?
 
-290
+310
 00:29:47,680 --> 00:29:49,720
 Bekle hele!
 
-291
+311
 00:29:50,700 --> 00:29:52,470
 Kaçmasana lan!
 
-292
+312
 00:29:57,690 --> 00:30:03,610
 Ağabey! Bir şeyim kalmadı!
 Beni kurtardın çünkü!
 
-293
+313
 00:30:05,490 --> 00:30:07,870
 Ha? Saldırmaya mı kalkıyor?
 
-294
+314
 00:30:08,200 --> 00:30:11,080
 Kükre! Aslan Ateşi!
 
-295
+315
 00:30:18,170 --> 00:30:20,790
 Ağabey!
 
-296
+316
 00:30:20,790 --> 00:30:27,380
 Üstüne hileli kılıcımın tadına da bak!
 
-297
+317
 00:30:30,010 --> 00:30:32,430
 Lastik-Lastik...
 
-298
+318
 00:30:35,770 --> 00:30:38,350
 Kızıl Şahin!
-
-299
-00:14:41,810 --> 00:14:47,240
-Speed
-
-300
-00:14:41,810 --> 00:14:47,240
-Speed
-
-301
-00:16:27,960 --> 00:16:28,000
-Kamijiro 
-Holdem'in Midesi
-
-302
-00:16:27,960 --> 00:16:28,000
-Kamijiro 
-Holdem'in Midesi
-
-303
-00:16:28,000 --> 00:16:28,050
-Kamijiro 
-Holdem'in Midesi
-
-304
-00:16:28,000 --> 00:16:28,050
-Kamijiro 
-Holdem'in Midesi
-
-305
-00:16:28,050 --> 00:16:28,090
-Kamijiro 
-Holdem'in Midesi
-
-306
-00:16:28,050 --> 00:16:28,090
-Kamijiro 
-Holdem'in Midesi
-
-307
-00:16:28,090 --> 00:16:28,130
-Kamijiro 
-Holdem'in Midesi
-
-308
-00:16:28,090 --> 00:16:28,130
-Kamijiro 
-Holdem'in Midesi
-
-309
-00:16:28,130 --> 00:16:28,170
-Kamijiro 
-Holdem'in Midesi
-
-310
-00:16:28,130 --> 00:16:28,170
-Kamijiro 
-Holdem'in Midesi
-
-311
-00:16:28,170 --> 00:16:28,210
-Kamijiro 
-Holdem'in Midesi
-
-312
-00:16:28,170 --> 00:16:28,210
-Kamijiro 
-Holdem'in Midesi
-
-313
-00:16:28,210 --> 00:16:28,250
-Kamijiro 
-Holdem'in Midesi
-
-314
-00:16:28,210 --> 00:16:28,250
-Kamijiro 
-Holdem'in Midesi
-
-315
-00:16:28,250 --> 00:16:28,300
-Kamijiro 
-Holdem'in Midesi
-
-316
-00:16:28,250 --> 00:16:28,300
-Kamijiro 
-Holdem'in Midesi
-
-317
-00:16:28,300 --> 00:16:28,340
-Kamijiro 
-Holdem'in Midesi
-
-318
-00:16:28,300 --> 00:16:28,340
-Kamijiro 
-Holdem'in Midesi
-
-319
-00:16:28,340 --> 00:16:28,380
-Kamijiro 
-Holdem'in Midesi
-
-320
-00:16:28,340 --> 00:16:28,380
-Kamijiro 
-Holdem'in Midesi
-
-321
-00:16:28,380 --> 00:16:28,420
-Kamijiro 
-Holdem'in Midesi
-
-322
-00:16:28,380 --> 00:16:28,420
-Kamijiro 
-Holdem'in Midesi
-
-323
-00:16:28,420 --> 00:16:28,460
-Kamijiro 
-Holdem'in Midesi
-
-324
-00:16:28,420 --> 00:16:28,460
-Kamijiro 
-Holdem'in Midesi
-
-325
-00:16:28,460 --> 00:16:28,500
-Kamijiro 
-Holdem'in Midesi
-
-326
-00:16:28,460 --> 00:16:28,500
-Kamijiro 
-Holdem'in Midesi
-
-327
-00:16:28,500 --> 00:16:28,550
-Kamijiro 
-Holdem'in Midesi
-
-328
-00:16:28,500 --> 00:16:28,550
-Kamijiro 
-Holdem'in Midesi
-
-329
-00:16:28,550 --> 00:16:28,590
-Kamijiro 
-Holdem'in Midesi
-
-330
-00:16:28,550 --> 00:16:28,590
-Kamijiro 
-Holdem'in Midesi
-
-331
-00:16:28,590 --> 00:16:28,630
-Kamijiro 
-Holdem'in Midesi
-
-332
-00:16:28,590 --> 00:16:28,630
-Kamijiro 
-Holdem'in Midesi
-
-333
-00:16:28,630 --> 00:16:28,670
-Kamijiro 
-Holdem'in Midesi
-
-334
-00:16:28,630 --> 00:16:28,670
-Kamijiro 
-Holdem'in Midesi
-
-335
-00:16:28,670 --> 00:16:32,170
-Kamijiro 
-Holdem'in Midesi
-
-336
-00:16:28,670 --> 00:16:32,170
-Kamijiro 
-Holdem'in Midesi

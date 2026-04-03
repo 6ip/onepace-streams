@@ -1,1040 +1,1033 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:50,210 --> 00:01:57,470
+O Homem Chamado
+ Luffy do Chapéu de Palha
+
+3
 00:02:03,180 --> 00:02:04,860
 Opa...
 
-3
+4
 00:02:22,330 --> 00:02:24,100
 Isso aqui tá pesado!
 
-4
+5
 00:02:24,100 --> 00:02:28,600
 Deve tá cheio de birita, então!
 
-5
+6
 00:02:28,600 --> 00:02:29,420
 É tudo nosso agora!
 
-6
+7
 00:02:41,300 --> 00:02:42,970
 Navio a estibordo da popa!
 
-7
+8
 00:02:42,970 --> 00:02:45,700
 Tem uma bandeira pirata hasteada no mastro!
 
-8
+9
 00:02:45,700 --> 00:02:49,520
 É um navio pirata! 
 Ataque inimigo! Ataque inimigo!
 
-9
+10
 00:03:13,310 --> 00:03:14,790
 Koby!
 
-10
+11
+00:03:14,840 --> 00:03:19,390
+Criado de Bordo, Koby
+
+12
 00:03:15,490 --> 00:03:16,350
 S-Sim?!
 
-11
+13
 00:03:16,350 --> 00:03:20,010
 Quem é a mulher mais linda de todos estes mares?
 
-12
+14
 00:03:20,010 --> 00:03:24,390
 O-Obviamente é a capitã deste navio,
  a Srta. Alvida!
 
-13
+15
+00:03:29,480 --> 00:03:34,990
+A Dama Pirata, Alvida da Clava de Ferro
+
+16
 00:03:30,490 --> 00:03:32,090
 Boa resposta!
 
-14
+17
 00:03:32,090 --> 00:03:33,720
 M-Muitíssimo obrigado!
 
-15
+18
 00:03:33,720 --> 00:03:34,910
 Srta. Alvida.
 
-16
+19
 00:03:34,910 --> 00:03:36,790
 Já faz um bom tempo
  desde o nosso último saque!
 
-17
+20
 00:03:36,790 --> 00:03:38,090
 Pois é!
 
-18
+21
 00:03:38,090 --> 00:03:40,930
 Tudo certo, então!
  Tomem aquele navio!
 
-19
+22
 00:04:05,930 --> 00:04:11,230
 Marujos! Mostrem a eles 
 o terror da Alvida da Clava de Ferro!
 
-20
+23
 00:04:21,610 --> 00:04:23,890
 Koby! Tá esperando o quê?!
 
-21
+24
 00:04:23,890 --> 00:04:26,200
 E-Eu não sou muito bom
  nessas coisas.
 
-22
+25
 00:04:26,200 --> 00:04:30,120
 Hã? Ousa me contradizer?!
 
-23
+26
 00:04:31,290 --> 00:04:34,840
 P-Por favor! A clava não!
 
-24
+27
 00:04:34,840 --> 00:04:37,500
 Então vai! Anda logo!
 
-25
+28
 00:04:58,480 --> 00:05:03,490
 Não vamos matar vocês,
  mas queremos tudo que for de valor!
 
-26
+29
 00:05:03,490 --> 00:05:08,320
 Quem resistir vira comida de peixe!
 
-27
+30
 00:05:08,790 --> 00:05:11,000
 Olá...?
 
-28
+31
 00:05:12,700 --> 00:05:15,650
 Não tem ninguém aqui não, né?
 
-29
+32
 00:05:16,560 --> 00:05:18,280
 Que alívio.
 
-30
+33
 00:05:20,810 --> 00:05:23,840
 Que barril enorme...
 
-31
+34
 00:05:30,500 --> 00:05:31,850
 Ei, fracote!
 
-32
+35
 00:05:31,850 --> 00:05:34,720
 Fazendo corpo mole de novo, né?!
 
-33
+36
 00:05:34,720 --> 00:05:39,800
 N-Não, não! Estava só querendo levar esse barril lá pra cima...
 
-34
+37
 00:05:39,800 --> 00:05:42,000
 A gente diminui esse peso pra você!
 
-35
+38
 00:05:42,000 --> 00:05:43,470
 Já tava com a garganta seca!
 
-36
+39
 00:05:43,470 --> 00:05:46,820
 Não podem! Se a Srta. Alvida descobrir, ela vai nos matar!
 
-37
+40
 00:05:46,820 --> 00:05:49,500
 Então é só você ficar de bico fechado!
 
-38
+41
 00:05:49,500 --> 00:05:51,330
 Né, Koby?
 
-39
+42
 00:05:52,160 --> 00:05:54,910
 S-Sim! Com certeza!
 
-40
+43
 00:05:54,910 --> 00:05:56,100
 Tá pesado mesmo!
 
-41
+44
 00:05:56,100 --> 00:05:57,790
 Tô até ansioso!
 
-42
+45
 00:05:57,790 --> 00:06:01,250
 Se acalma aí!
 Vou abrir num golpe só!
 
-43
+46
 00:06:18,840 --> 00:06:25,150
 Que cochilo gostoso!
 
-44
+47
 00:06:29,700 --> 00:06:30,900
 Hã?
 
-45
+48
 00:06:34,580 --> 00:06:35,450
 Quem são vocês?
 
-46
+49
 00:06:35,450 --> 00:06:37,400
 Nós é que perguntamos!
 
-47
+50
 00:06:37,400 --> 00:06:39,550
 Ele vai acabar se resfriando,
  dormindo ali.
 
-48
+51
 00:06:39,550 --> 00:06:41,170
 A culpa é sua!
 
-49
+52
 00:06:42,590 --> 00:06:47,670
 Seu desgraçado! Sabe o que acontece com quem mexe com piratas, né?!
 
-50
+53
 00:06:47,670 --> 00:06:49,900
 Tô morrendo de fome!
  Tem alguma comida aí?
 
-51
+54
 00:06:49,900 --> 00:06:51,640
 Presta atenção
  quando falam com você!
 
-52
+55
 00:06:52,010 --> 00:06:54,140
 Moleque desgraçado!
 
-53
+56
 00:06:56,390 --> 00:06:57,770
 Morra!
 
-54
+57
 00:07:14,190 --> 00:07:16,200
 Qual é a de vocês, hein?
 
-55
+58
 00:07:16,560 --> 00:07:18,400
 Q-Quem é você?!
 
-56
+59
 00:07:18,400 --> 00:07:19,160
 Eu?
 
-57
+60
 00:07:19,700 --> 00:07:23,680
 Eu sou Monkey D. Luffy! Prazer!
 
-58
+61
 00:07:31,010 --> 00:07:33,500
 O que... O que acabou de acontecer?
 
-59
+62
 00:07:33,500 --> 00:07:35,300
 O que deu neles?
 
-60
+63
 00:07:35,900 --> 00:07:36,930
 Foge! Rápido!
 
-61
+64
 00:07:36,930 --> 00:07:40,010
 Se voltarem com o pessoal deles,
 vão te matar!
 
-62
+65
 00:07:40,010 --> 00:07:42,400
 Mas é que eu tô morrendo de fome!
 
-63
+66
 00:07:42,400 --> 00:07:45,210
 Como pode estar tão tranquilo?!
 
-64
+67
 00:07:45,210 --> 00:07:48,500
 Ainda tem muito mais deles
  no convés!
 
-65
+68
 00:07:48,500 --> 00:07:51,580
 Vem comigo! Por aqui!
 
-66
+69
 00:07:51,580 --> 00:07:55,910
 E-E-Ei! Por aí não!
 
-67
+70
 00:08:00,620 --> 00:08:04,360
 Comida! Comida! Isso aí! Comida!
 
-68
+71
 00:08:04,360 --> 00:08:08,590
 Talvez não nos encontrem aqui,
  no fim das contas.
 
-69
+72
 00:08:09,100 --> 00:08:12,550
 Por qual será que eu começo?
  Essa caixa? Isso aí!
 
-70
+73
 00:08:12,550 --> 00:08:14,600
 Que delícia!
 
-71
+74
 00:08:14,600 --> 00:08:18,600
 M-Meu nome é Koby.
 O seu é Luffy, não é?
 
-72
+75
 00:08:18,600 --> 00:08:21,560
 Aquilo lá foi incrível!
 Como fez aquilo?
 
-73
+76
 00:08:22,210 --> 00:08:23,520
 Isso aqui tá bom demais!
 
-74
+77
 00:08:25,090 --> 00:08:26,910
 A gente tá num navio pirata?
 
-75
+78
 00:08:26,910 --> 00:08:33,910
 Não, é só um cruzeiro que está sendo atacado pela Srta. Alvida.
 
-76
+79
 00:08:33,910 --> 00:08:35,710
 Tanto faz pra mim.
 
-77
+80
 00:08:35,710 --> 00:08:37,890
 Será que tem algum bote por aqui?
 
-78
+81
 00:08:37,890 --> 00:08:40,200
 A-Acho que sim...
 
-79
+82
 00:08:40,200 --> 00:08:43,010
 O meu afundou
  no redemoinho gigante!
 
-80
+83
 00:08:43,010 --> 00:08:46,500
 Você diz aquele redemoinho?!
   Então você deveria estar morto!
 
-81
+84
 00:08:46,500 --> 00:08:49,960
 É! Doideira demais!
 
-82
+85
 00:08:51,400 --> 00:08:54,050
 Você tá com esses piratas?
 
-83
+86
 00:08:58,900 --> 00:09:01,970
 Foi naquele dia fatídico...
 
-84
+87
 00:09:02,610 --> 00:09:08,200
 Naquele dia, eu saí em um bote,
  com o intuito de ir pescar,
 
-85
+88
 00:09:13,320 --> 00:09:19,790
 mas o bote acabou sendo levado para um navio pirata!
 
-86
+89
 00:09:19,790 --> 00:09:21,490
 Já fazem dois anos desde então.
 
-87
+90
 00:09:21,490 --> 00:09:25,990
 Em troca da minha vida,
  fui obrigado a ser um criado de bordo.
 
-88
+91
 00:09:25,990 --> 00:09:28,400
 Eita, você é um trouxa mesmo!
 
-89
+92
 00:09:28,400 --> 00:09:30,290
 Você é bem sincero.
 
-90
+93
 00:09:30,290 --> 00:09:31,840
 Você podia só fugir deles.
 
-91
+94
 00:09:31,840 --> 00:09:34,300
 I-Impossível! Não dá! De jeito nenhum!
 
-92
+95
 00:09:34,300 --> 00:09:38,070
 Só de pensar na Srta. Alvida
  me encontrando, minha espinha gela!
 
-93
+96
 00:09:38,390 --> 00:09:41,010
 Nossa, você é
  um covardão também?
 
-94
+97
 00:09:41,010 --> 00:09:44,310
 Eu odeio gente que nem você!
 
-95
+98
 00:09:45,470 --> 00:09:48,270
 Ora, ora, vamos!
  Não fiquem aí parados!
 
-96
+99
 00:09:48,270 --> 00:09:51,020
 Levem tudo
  antes que a Marinha chegue!
 
-97
+100
 00:09:51,990 --> 00:09:53,470
 Quem eu pegar fazendo corpo mole
 
-98
+101
 00:09:53,470 --> 00:09:55,950
 vai sentir o gostinho
  da minha clava de ferro!
 
-99
+102
 00:09:54,690 --> 00:09:55,950
 Que saque íncrivel!
 
-100
+103
 00:10:01,800 --> 00:10:03,080
 Srta. Alvida!
 
-101
+104
 00:10:04,290 --> 00:10:05,750
 Problemas!
 
-102
+105
 00:10:05,750 --> 00:10:07,210
 O que foi?
 Mas que inferno!
 
-103
+106
 00:10:07,210 --> 00:10:09,500
 Um b-b-barril!
 
-104
+107
 00:10:09,500 --> 00:10:10,530
 Um monstro!
 
-105
+108
 00:10:10,530 --> 00:10:11,460
 Hã?!
 
-106
+109
 00:10:13,210 --> 00:10:15,420
 Quem vocês tão chamando de monstro?!
 
-107
+110
 00:10:22,810 --> 00:10:27,640
 N-Não é isso...
  Um esquisitão saiu do barril...
 
-108
+111
 00:10:27,640 --> 00:10:31,310
 Vai ver é
  um caçador de recompensas...
 
-109
+112
 00:10:31,310 --> 00:10:32,940
 O quê?
 
-110
+113
 00:10:33,900 --> 00:10:37,300
 Acho que tem razão.
 
-111
+114
 00:10:37,300 --> 00:10:41,490
 Queria eu ter a coragem
  de ficar à deriva em um barril...
 
-112
+115
 00:10:41,490 --> 00:10:44,750
 Sabe, tem uma coisa
  que eu queria muito fazer...
 
-113
+116
 00:10:45,530 --> 00:10:50,290
 Aliás... Por que partiu para o mar, Sr. Luffy?
 
-114
+117
 00:10:50,850 --> 00:10:53,090
 É porque eu vou ser o Rei dos Piratas!
 
-115
+118
 00:10:55,210 --> 00:10:57,890
 R-R-Rei dos Piratas?!
 
-116
+119
 00:10:57,270 --> 00:10:57,890
 Isso.
 
-117
+120
 00:10:57,890 --> 00:10:59,500
 Está falando sério?!
 
-118
+121
 00:10:58,790 --> 00:10:59,500
 Tô sim.
 
-119
+122
 00:10:59,500 --> 00:11:02,300
 Espera aí, então você também é um pirata, Sr. Luffy?!
 
-120
+123
 00:11:02,300 --> 00:11:03,200
 Sou.
 
-121
+124
 00:11:03,200 --> 00:11:04,360
 E onde está seu bando?
 
-122
+125
 00:11:04,360 --> 00:11:06,470
 Ainda tô sem, mas tô procurando.
 
-123
+126
 00:11:11,690 --> 00:11:14,150
 T-Tem ideia do que significa
 ser o Rei dos Piratas?!
 
-124
+127
 00:11:14,150 --> 00:11:17,240
 É o título daquele que conseguiu
  tudo o que o mundo tem a oferecer!
 
-125
+128
 00:11:17,240 --> 00:11:20,910
 Significa conquistar o ápice de riqueza, fama e poder...
 
-126
+129
 00:11:20,910 --> 00:11:23,630
 O One Piece,
 o grande tesouro escondido!
 
-127
+130
 00:11:23,630 --> 00:11:24,500
 É isso aí!
 
-128
+131
 00:11:24,500 --> 00:11:28,510
 "É isso aí"?! Piratas do mundo todo
  estão atrás dele!
 
-129
+132
 00:11:28,510 --> 00:11:29,580
 Eu também!
 
-130
+133
 00:11:29,580 --> 00:11:33,410
 Não dá! Não dá! Impossível! De jeito nenhum!
 
-131
+134
 00:11:33,410 --> 00:11:37,200
 Não tem como você chegar no ápice desta Grande Era dos Piratas!
 
-132
+135
 00:11:37,200 --> 00:11:38,620
 Não dá! Não dá!
 
-133
+136
 00:11:40,480 --> 00:11:42,740
 Por que me bateu?
 
-134
+137
 00:11:42,740 --> 00:11:44,080
 Deu vontade.
 
-135
+138
 00:11:44,800 --> 00:11:47,660
 D-Deixa para lá.
  Já estou acostumado...
 
-136
+139
 00:11:51,500 --> 00:11:54,000
 Não é sobre ser possível ou não.
 
-137
+140
 00:11:54,000 --> 00:11:55,560
 Eu quero ser, então vou ser.
 
-138
+141
 00:11:58,530 --> 00:12:01,790
 Já decidi que vou ser o Rei dos Piratas,
 
-139
+142
 00:12:01,790 --> 00:12:05,120
 então se eu morrer tentando, 
 por mim, tudo bem!
 
-140
+143
 00:12:08,120 --> 00:12:12,300
 Beleza, já enchi a pança!
 Agora, vou achar um bote!
 
-141
+144
 00:12:12,300 --> 00:12:13,890
 Será que se eu pedir, eles me dão um?
 
-142
+145
 00:12:13,890 --> 00:12:16,310
 Tomara que eles sejam gente boa!
 
-143
+146
 00:12:17,180 --> 00:12:19,840
 Nunca tinha pensado por esse lado...
 
-144
+147
 00:12:21,220 --> 00:12:24,010
 Será que eu também consigo?
 
-145
+148
 00:12:24,010 --> 00:12:25,900
 Se eu estiver disposto a morrer por isso?
 
-146
+149
 00:12:25,900 --> 00:12:26,890
 Consegue o quê?
 
-147
+150
 00:12:27,540 --> 00:12:31,440
 Será que eu consigo... me alistar na Marinha?
 
-148
+151
 00:12:32,180 --> 00:12:33,080
 Na Marinha, é?
 
-149
+152
 00:12:33,080 --> 00:12:36,900
 Isso aí! 
 Prender bandidos é o meu sonho!
 
-150
+153
 00:12:36,900 --> 00:12:41,000
 Sempre foi, desde que eu era pequeno!
  Você acha que eu consigo?!
 
-151
+154
 00:12:41,000 --> 00:12:42,500
 E eu lá vou saber!
 
-152
+155
 00:12:42,500 --> 00:12:45,680
 Não! Eu consigo! Me recuso a ser
  um criado de bordo pelo resto da vida!
 
-153
+156
 00:12:45,680 --> 00:12:50,370
 Um dia, vou sair daqui
  e prender a Srta. Alvida... digo, só Alvida!
 
-154
+157
 00:12:57,050 --> 00:13:02,300
 Quer se juntar com esse daí?!
  Pra capturar quem mesmo?!
 
-155
+158
 00:13:02,300 --> 00:13:05,390
 Hein, Koby?!
 
-156
+159
 00:13:23,200 --> 00:13:25,900
 Você não parece
  com o tal Caçador de Piratas Zoro.
 
-157
+160
 00:13:26,820 --> 00:13:27,800
 Zoro?
 
-158
+161
 00:13:27,800 --> 00:13:29,370
 Koby!
 
-159
+162
 00:13:29,370 --> 00:13:33,670
 Quem é a mulher mais linda de todos estes mares?!
 
-160
+163
 00:13:34,830 --> 00:13:36,790
 É-É óbvio que só pode ser...
 
-161
+164
 00:13:37,450 --> 00:13:39,250
 Quem é essa velha gorda feiosa aí?
 
-162
+165
 00:13:45,690 --> 00:13:46,560
 Gorda?
 
-163
+166
 00:13:46,560 --> 00:13:47,680
 Agora lascou de vez...
 
-164
+167
 00:13:50,470 --> 00:13:53,640
 Moleque!
 
-165
+168
 00:13:56,760 --> 00:13:57,560
 Vamo nessa!
 
-166
+169
 00:14:05,820 --> 00:14:07,290
 Ora, seu...!
 
-167
+170
 00:14:13,870 --> 00:14:15,830
 Opa, opa!
 
-168
+171
 00:14:27,630 --> 00:14:30,890
 Atacar pelas costas é jogo sujo!
 
-169
+172
 00:14:37,810 --> 00:14:42,480
 E atacar em bando é mais ainda!
 
-170
+173
 00:14:51,850 --> 00:14:52,780
 Brincadeirinha!
 
-171
+174
 00:14:54,660 --> 00:14:58,640
 Gomu Gomu no...
 
-172
+175
 00:15:01,550 --> 00:15:04,950
 Rocket!
 
-173
+176
 00:15:05,670 --> 00:15:07,420
 Mas o quê?!
 
-174
+177
 00:15:12,460 --> 00:15:15,630
 S-Sr. Luffy...
  Afinal, o que é você?
 
-175
+178
 00:15:15,630 --> 00:15:16,220
 Eu?
 
-176
+179
 00:15:17,070 --> 00:15:18,680
 Eu sou um homem-borracha!
 
-177
+180
 00:15:19,330 --> 00:15:23,190
 De borracha?!
  Como assim?!
 
-178
+181
 00:15:26,270 --> 00:15:28,940
 Você comeu
  uma Fruta do Diabo, não é?
 
-179
+182
 00:15:29,800 --> 00:15:31,860
 Isso aí! Comi a Fruta Gomu-Gomu!
 
-180
+183
 00:15:31,860 --> 00:15:34,410
 Ah, então você também é um pirata?!
 
-181
+184
 00:15:34,920 --> 00:15:39,120
 Isso te faz meu inimigo então, não é?
 
-182
+185
 00:15:39,720 --> 00:15:42,490
 S-Sr. Luffy!
  Vamos dar o fora daqui!
 
-183
+186
 00:15:41,690 --> 00:15:42,490
 Por quê?
 
-184
+187
 00:15:42,490 --> 00:15:44,870
 Você mesmo viu
  o poder de destruição da clava dela!
 
-185
+188
 00:15:44,870 --> 00:15:48,090
 Nestes mares,
  ela é a pirata mais...
 
-186
+189
 00:15:50,300 --> 00:15:53,600
 Já decidi que vou ser o Rei dos Piratas,
 
-187
+190
 00:15:53,600 --> 00:15:57,010
 então se eu morrer tentando, 
 por mim, tudo bem!
 
-188
+191
 00:16:00,020 --> 00:16:02,810
 Eu sou a pirata mais o que mesmo?!
 
-189
+192
 00:16:02,810 --> 00:16:05,560
 A-A-A...
 
-190
+193
 00:16:06,360 --> 00:16:12,240
 A pirata mais velha, gorda e feiosa do mundo!
 
-191
+194
 00:16:24,500 --> 00:16:26,080
 Como é que é?!
 
-192
+195
 00:16:26,750 --> 00:16:29,100
 E-Eu... vou entrar para a Marinha!
 
-193
+196
 00:16:29,100 --> 00:16:31,910
 E aí, eu vou prender
  todos os piratas como você!
 
-194
+197
 00:16:31,910 --> 00:16:34,600
 Você perdeu a noção?!
 
-195
+198
 00:16:34,600 --> 00:16:38,100
 Não, é isso mesmo! 
 Eu vou fazer o que eu quiser!
 
-196
+199
 00:16:38,100 --> 00:16:40,100
 Quando eu... 
 Quando eu for um marinheiro...
 
-197
+200
 00:16:40,100 --> 00:16:43,270
 Eu juro que vou te prender!
 
-198
+201
 00:16:43,270 --> 00:16:45,800
 Seu moleque atrevido!
 
-199
+202
 00:16:45,800 --> 00:16:50,300
 Não vou me desculpar! Não vou!
 Eu consegui! Eu lutei pelo meu sonho!
 
-200
+203
 00:16:50,300 --> 00:16:51,400
 Mandou bem!
 
-201
+204
 00:17:04,000 --> 00:17:05,290
 Isso não funciona comigo.
 
-202
+205
 00:17:05,290 --> 00:17:06,500
 Quê?!
 
-203
+206
 00:17:06,500 --> 00:17:08,040
 Porque eu sou de borracha!
 
-204
+207
 00:17:10,420 --> 00:17:14,370
 Gomu Gomu no...
 
-205
+208
 00:17:15,700 --> 00:17:21,140
 Pistol!
 
-206
+209
 00:17:39,060 --> 00:17:41,910
 O céu tá tão azul...
 
-207
+210
 00:17:53,380 --> 00:17:54,490
 Ei!
 
-208
+211
 00:17:54,490 --> 00:17:55,300
 – Sim?!
 – Sim?!
 
-209
+212
 00:17:55,640 --> 00:17:58,140
 Deem um bote pro Koby!
 
-210
+213
 00:17:58,140 --> 00:18:01,600
 Ele quer entrar pra Marinha!
  Então deixem ele ir em paz!
 
-211
+214
 00:18:02,390 --> 00:18:04,060
 – S-Sim, senhor!
 – S-Sim, senhor!
 
-212
+215
 00:18:05,810 --> 00:18:07,340
 Sr. Luffy!
 
-213
+216
 00:18:14,200 --> 00:18:16,390
 É a Marinha!
 
-214
+217
 00:18:16,390 --> 00:18:20,810
 Eita, bem na hora!
  Melhor você ir com eles!
 
-215
+218
 00:18:20,810 --> 00:18:22,190
 Como sou pirata, 
 vou é dar no pé!
 
-216
+219
 00:18:22,190 --> 00:18:23,300
 É sério isso?!
 
-217
+220
 00:18:23,300 --> 00:18:25,240
 Não é tão simples assim!
 
-218
+221
 00:18:25,240 --> 00:18:27,320
 Eles vão acabar me prendendo!
 
-219
+222
 00:18:39,800 --> 00:18:42,050
 Parece que conseguimos fugir.
 
-220
+223
 00:18:42,050 --> 00:18:45,300
 Pois não é?!
  Até que foi divertido!
 
-221
+224
 00:18:45,300 --> 00:18:47,590
 Ei, Sr. Luffy.
 
-222
+225
 00:18:47,590 --> 00:18:49,710
 Se você está procurando o One Piece,
 
-223
+226
 00:18:49,710 --> 00:18:52,880
 então você está indo
  para a Grand Line, certo?
 
-224
+227
 00:18:52,300 --> 00:18:52,880
 Isso aí.
 
-225
+228
 00:18:52,880 --> 00:18:56,090
 Chamam aquele lugar
 de Cemitério dos Piratas.
 
-226
+229
 00:18:56,090 --> 00:18:58,900
 Sim. Por isso vou precisar de um bando bem forte.
 
-227
+230
 00:18:59,410 --> 00:19:02,740
 Como será que é
  esse tal Caçador de Piratas?
 
-228
+231
 00:19:03,310 --> 00:19:08,500
 O Zoro? Soube que ele está preso
  em uma base da Marinha.
 
-229
+232
 00:19:08,500 --> 00:19:10,410
 E é? E ele é tão fraco assim, é?
 
-230
+233
 00:19:10,410 --> 00:19:15,580
 Nada disso! Ele é tão terrível que parece um demônio!
 
-231
+234
 00:19:16,950 --> 00:19:18,840
 Por que a pergunta?
 
-232
+235
 00:19:19,900 --> 00:19:22,800
 Se ele for gente boa, 
 quero que ele entre pro meu bando!
 
-233
+236
 00:19:24,180 --> 00:19:26,300
 Você já está querendo fazer outra loucura!
 
-234
+237
 00:19:26,300 --> 00:19:28,210
 Talvez ele seja um cara legal!
 
-235
+238
 00:19:28,210 --> 00:19:30,410
 Ele foi preso justamente
  por não ser um cara legal!
 
-236
+239
 00:19:30,410 --> 00:19:34,350
 Não! Não dá, não dá, não dá! 
 De jeito ne...
 
-237
+240
 00:19:34,350 --> 00:19:36,610
 Por que me bateu?
 
-238
+241
 00:19:36,610 --> 00:19:37,730
 Deu vontade!
-
-239
-00:03:14,840 --> 00:03:19,390
-Criado de Bordo, Koby
-
-240
-00:03:14,840 --> 00:03:19,390
-Criado de Bordo, Koby
-
-241
-00:03:29,480 --> 00:03:34,990
-A Dama Pirata, Alvida da Clava de Ferro
-
-242
-00:03:29,480 --> 00:03:34,990
-A Dama Pirata, Alvida da Clava de Ferro
-
-243
-00:03:29,480 --> 00:03:34,990
-A Dama Pirata, Alvida da Clava de Ferro

@@ -1,1350 +1,1304 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:00,520 --> 00:00:04,900
+Kuzey Bloğu
+
+3
 00:00:10,490 --> 00:00:15,320
 Hadi! Hadi, Zoro!
 Ne bekliyorsun?! Git ve onları ez!
 
-3
+4
 00:00:15,320 --> 00:00:18,260
 Kapatın çenenizi ve gidip saklanın!
 
-4
+5
 00:00:19,350 --> 00:00:21,920
 Beni biraz eğlendirseniz olur mu?
 
-5
+6
 00:00:28,560 --> 00:00:33,680
 Hakla onları, Zoro!
 Elindeki tek meziyet bu, değil mi?!
 
-6
+7
 00:00:38,710 --> 00:00:43,690
 Çabuk ol ve işlerini... bitir...
 şu çirkin tiplerin...
 
-7
+8
 00:00:45,070 --> 00:00:46,940
 Ne yapmayı planlıyorsunuz? Ha?!
 
-8
+9
 00:00:46,940 --> 00:00:52,570
 Suikastin ilk kuralı:
 Önce en güçsüz hedefi seç.
 
-9
+10
 00:00:52,570 --> 00:00:54,910
 Profesyonellerin nasıl çalıştığını seyret.
 
-10
+11
 00:00:57,200 --> 00:00:58,870
 B-Ben mi?
 
-11
+12
 00:00:59,200 --> 00:01:04,340
 D-Durun biraz.
 Beni öldürmenizin hiçbir anlamı yok.
 
-12
+13
 00:01:04,340 --> 00:01:07,600
 Yüzüm ve tarzım birinci sınıftır ama...
 
-13
+14
 00:01:07,600 --> 00:01:08,760
 dövüşte iyi değilim.
 
-14
+15
 00:01:09,250 --> 00:01:11,300
 Biz de öyle demedik mi?
 
-15
+16
 00:01:11,650 --> 00:01:15,080
 Senin gibilerden başlamak,
 işleri bitirmenin en hızlı yoludur.
 
-16
+17
 00:01:23,800 --> 00:01:27,190
 Bu yüzden kapat çeneni
 ve saklan dedim.
 
-17
+18
+00:03:17,180 --> 00:03:21,010
+Havayı Kontrol Eden Kadın
+
+19
 00:03:22,310 --> 00:03:27,390
 Luffy-san öldü mü?
 Bu saçmalığa inanmıyorum!
 
-18
+20
 00:03:27,390 --> 00:03:29,110
 Saçmalık değil.
 
-19
+21
 00:03:30,490 --> 00:03:35,440
 Hasır Şapka, Rainbase'deki kumların
 altına gömüldü, Bayan Wednesday.
 
-20
+22
 00:03:39,170 --> 00:03:45,250
 Sana bulaşmamış olsaydı,
 daha uzun yaşardı.
 
-21
+23
 00:03:45,850 --> 00:03:49,770
 Senin gibi biri, Luffy-san'ı öldüremez!
 
-22
+24
 00:03:50,410 --> 00:03:56,870
 Şu an nefes alıp gözyaşı dökebiliyorsan,
 arkadaşlarının fedakârlığı sayesinde.
 
-23
+25
 00:03:56,870 --> 00:04:01,930
 Onlara içtenlikle teşekkür etmelisin,
 hiç değilse ölenler...
 
-24
+26
 00:04:01,930 --> 00:04:04,350
 Luffy-san nerede?!
 
-25
+27
 00:04:04,350 --> 00:04:07,410
 Niye buradasın?!
 
-26
+28
 00:04:10,510 --> 00:04:12,610
 ...huzur içinde olacak.
 
-27
+29
+00:04:12,650 --> 00:04:19,450
+Medi Toplantı Salonu
+Alubarna Kuzey Bloğu
+
+30
 00:04:13,350 --> 00:04:17,590
 Ah şu aptal! Nereye gitti bu?!
 
-28
+31
 00:04:17,590 --> 00:04:19,450
 Bu yüzden susup saklanmanı söyledim.
 
-29
+32
 00:04:19,700 --> 00:04:23,910
 Tam bir baş belası! Aptal kadın!
 
-30
+33
 00:04:30,440 --> 00:04:34,670
 Bu kadar. Daha fazla koşamam.
 Dövüşmeliyim.
 
-31
+34
 00:04:40,820 --> 00:04:41,590
 İmkânsız!
 
-32
+35
 00:04:42,910 --> 00:04:44,560
 Bu işe son verme zamanı.
 
-33
+36
 00:04:46,310 --> 00:04:47,270
 Çok sabırsız.
 
-34
+37
 00:04:55,180 --> 00:04:55,730
 Zoro!
 
-35
+38
 00:05:01,580 --> 00:05:03,280
 Sütun dikey parçalara ayrıldı!
 
-36
+39
+00:05:03,320 --> 00:05:09,580
+Bay 1 ve Bayan Doublefinger,
+
+40
+00:05:03,320 --> 00:05:09,580
+Roronoa Zoro ve Nami'ye Karşı
+
+41
 00:05:05,810 --> 00:05:09,390
 Ayrıldı mı? Hayır.
 
-37
+42
 00:05:09,910 --> 00:05:12,830
 Bu kesinlikle bir kılıç ustasının işiydi.
 
-38
+43
 00:05:14,980 --> 00:05:15,590
 Çekil.
 
-39
+44
 00:05:21,030 --> 00:05:23,530
 Onu kestin, değil mi? O kolunla.
 
-40
+45
 00:05:26,480 --> 00:05:28,980
 Tuhaf bir bedenin var.
 
-41
+46
 00:05:30,020 --> 00:05:35,670
 Çok doğru. Kesme Meyvesi
 sayesinde kılıç adam oldum.
 
-42
+47
 00:05:35,670 --> 00:05:37,050
 Sendin, değil mi?
 
-43
+48
 00:05:37,050 --> 00:05:40,240
 Whisky Peak'te
 100 çalışanımızı biçen kılıç ustası.
 
-44
+49
 00:05:41,290 --> 00:05:46,060
 Birkaç yıl önce Doğu Mavi'de
 Baroque Works'ün davetini reddeden...
 
-45
+50
 00:05:46,060 --> 00:05:49,250
 ve Bay 7'yi ortadan kaldıran kişi,
 
-46
+51
 00:05:49,900 --> 00:05:51,040
 sendin değil mi?
 
-47
+52
 00:05:51,480 --> 00:05:54,500
 Ha! Anılarım canlandı.
 
-48
+53
 00:05:54,500 --> 00:05:59,250
 Şartlarımı kabul etmemeniz sizin hatanızdı.
 
-49
+54
 00:05:59,710 --> 00:06:03,260
 Ajanınıza ne söylediğimi hatırlıyorum.
 
-50
+55
 00:06:03,970 --> 00:06:06,930
 "Beni patron yaparsanız, katılırım."
 
-51
+56
 00:06:08,470 --> 00:06:10,020
 Ne komik adam.
 
-52
+57
 00:06:10,750 --> 00:06:14,090
 Şartlarımı kabul etmek yerine,
 beni öldürmeye çalıştı.
 
-53
+58
 00:06:14,090 --> 00:06:15,950
 Ben de yapmam gerekeni yaptım.
 
-54
+59
 00:06:16,650 --> 00:06:18,730
 Siz de beni davet etmek ister misiniz?
 
-55
+60
 00:06:19,450 --> 00:06:23,580
 Elbette, artık sizin gibi aptalların
 patronu olmak ilgimi çekmiyor.
 
-56
+61
 00:06:28,760 --> 00:06:31,390
 Bizimle alay mı ediyorsun?
 
-57
+62
 00:06:33,870 --> 00:06:37,420
 Küçük, değersiz korsan
 tayfasından bir kılıç ustası.
 
-58
+63
 00:06:38,160 --> 00:06:41,540
 Peki sen nesin?
 
-59
+64
 00:06:41,540 --> 00:06:44,290
 Sözde bir ütopya fikriyle...
 
-60
+65
 00:06:44,290 --> 00:06:46,940
 aklı çelinen beyinsiz bir kukla mı?
 
-61
+66
 00:06:46,940 --> 00:06:49,800
 Yoksa cidden içi boş...
 
-62
+67
 00:06:52,620 --> 00:06:53,940
 teneke askerler misiniz?
 
-63
+68
 00:06:54,350 --> 00:06:56,310
 Bayan Doublefinger...
 
-64
+69
 00:06:56,940 --> 00:07:00,190
 "Bu herifi öldüreceğim"
 diyeceksin, değil mi?
 
-65
+70
 00:07:00,190 --> 00:07:04,360
 İstediğini yap. Kızla ben ilgilenirim.
 
-66
+71
 00:07:04,990 --> 00:07:06,080
 Hey, Nami!
 
-67
+72
 00:07:06,080 --> 00:07:07,390
 Gitmiş.
 
-68
+73
 00:07:27,780 --> 00:07:30,430
 Her yerde olan savaşın
 gürültüsünü duyabiliyorum.
 
-69
+74
 00:07:31,000 --> 00:07:34,090
 İsyan Ordusu'nu kapıda durduramamışlar.
 
-70
+75
 00:07:34,640 --> 00:07:36,850
 Vivi ve diğerleri güvende mi?
 
-71
+76
 00:07:37,560 --> 00:07:41,640
 Herkes bu savaşta
 canlarını tehlikeye atıyor.
 
-72
+77
 00:07:41,640 --> 00:07:43,770
 Ama ben...
 
-73
+78
 00:07:50,900 --> 00:07:55,290
 Dediğim gibi, daha güçlü
 bir silaha ihtiyacım var!
 
-74
+79
 00:07:55,650 --> 00:08:00,410
 Daha güçlü bir silah mı?
 Güçlü olmanın ne anlamı var?
 
-75
+80
 00:08:00,410 --> 00:08:05,530
 Şey, ben dövüşçü değilim.
 Harika bir tarzım var ve güzelim ama...
 
-76
+81
 00:08:05,530 --> 00:08:06,670
 Neden bahsediyorsun?
 
-77
+82
 00:08:06,670 --> 00:08:07,990
 Ben,
 
-78
+83
 00:08:09,580 --> 00:08:13,280
 kimseye yük olmayacak
 kadar güçlü olmak istiyorum.
 
-79
+84
 00:08:14,120 --> 00:08:16,840
 Özellikle şu anda, Vivi için.
 
-80
+85
 00:08:37,130 --> 00:08:40,790
 Usopp, anlıyorsun, değil mi?
 
-81
+86
 00:08:41,440 --> 00:08:43,710
 Biz onlar gibi değiliz.
 
-82
+87
+00:08:44,750 --> 00:08:58,430
+KoJXxnJOIX
+
+88
+00:08:44,750 --> 00:08:58,430
+YDZLTnBrny
+
+89
+00:08:44,750 --> 00:08:58,430
+SyrdeNQOmY
+
+90
+00:08:44,750 --> 00:08:58,430
+hnOSJNHoOT
+
+91
+00:08:44,750 --> 00:08:58,430
+gWKZbsxDEX
+
+92
+00:08:44,750 --> 00:08:58,430
+iUYjRFTECw
+
+93
+00:08:44,750 --> 00:08:58,430
+eoHmvxeIBt
+
+94
+00:08:44,750 --> 00:08:58,430
+RDKUjcbNnW
+
+95
+00:08:44,750 --> 00:08:58,430
+Usopp Fabrikası
+
+96
 00:08:45,480 --> 00:08:48,320
 Onlar canavarlar kadar güçlüler.
 
-83
+97
 00:08:48,320 --> 00:08:52,330
 Yalnızca kendi güçleriyle
 her türlü düşmana karşı koyabilirler.
 
-84
+98
 00:08:52,330 --> 00:08:57,120
 Fakat ikimiz de güçsüz,
 sıradan insanlarız.
 
-85
+99
 00:08:57,640 --> 00:09:02,100
 Savaş vakti, bir şey
 yapamayacak kadar korkacağız.
 
-86
+100
 00:09:02,100 --> 00:09:05,860
 Kendimizi koruyamayacağımız için, 
 onlara yük olacağız.
 
-87
+101
 00:09:08,070 --> 00:09:10,950
 Yani bizim gibi insanlar
 dövüşmek istiyorsa,
 
-88
+102
 00:09:10,950 --> 00:09:13,660
 güçlü silahlara sahip olmalı, değil mi?
 
-89
+103
 00:09:20,580 --> 00:09:23,750
 Silah icat etmek için
 deli gibi çalışmanın nedeni,
 
-90
+104
 00:09:24,560 --> 00:09:29,630
 tıpkı diğerleri gibi dövüşebilme gururunu
 elinde tutmak istediğin için, değil mi?
 
-91
+105
 00:09:30,130 --> 00:09:36,470
 Ben de öyle! Vivi için, 
 kendi başıma dövüşebilmek istiyorum!
 
-92
+106
 00:09:36,470 --> 00:09:37,680
 Bana o gücü ver!
 
-93
+107
 00:09:40,300 --> 00:09:42,690
 Alabasta'ya varmadan önce
 zamanımız kısıtlı.
 
-94
+108
 00:09:46,170 --> 00:09:50,490
 Haklısın. Bu kadar çabuk
 güçlenebilmem imkânsız.
 
-95
+109
 00:09:51,070 --> 00:09:52,890
 Saçmaladım, kusura bakma.
 
-96
+110
 00:09:53,900 --> 00:09:56,160
 Zamanımız az diye
 buna saçma denir mi?
 
-97
+111
 00:09:59,210 --> 00:10:02,790
 Hey, Usopp-sama için zor bir
 iş olmadığını bilmiyor musun?
 
-98
+112
 00:10:04,290 --> 00:10:04,750
 Öyleyse...
 
-99
+113
 00:10:06,080 --> 00:10:08,000
 yapacak mısın?
 
-100
+114
+00:10:06,090 --> 00:10:14,510
+KoJXxnJOIX
+
+115
+00:10:06,090 --> 00:10:14,510
+YDZLTnBrny
+
+116
+00:10:06,090 --> 00:10:14,510
+SyrdeNQOmY
+
+117
+00:10:06,090 --> 00:10:14,510
+hnOSJNHoOT
+
+118
+00:10:06,090 --> 00:10:14,510
+gWKZbsxDEX
+
+119
+00:10:06,090 --> 00:10:14,510
+iUYjRFTECw
+
+120
+00:10:06,090 --> 00:10:14,510
+eoHmvxeIBt
+
+121
+00:10:06,090 --> 00:10:14,510
+RDKUjcbNnW
+
+122
+00:10:06,090 --> 00:10:14,510
+Usopp Fabrikası
+
+123
 00:10:08,000 --> 00:10:10,830
 Oh, seni seviyorum! Teşekkürler, Usopp!
 
-101
+124
 00:10:10,830 --> 00:10:12,760
 Şimdi maliyete gelirsek–
 
-102
+125
 00:10:12,760 --> 00:10:15,010
 Çok teşekkür ederim, gerçekten!
 
-103
+126
 00:10:15,010 --> 00:10:18,060
 Hey, hey, hey…
 Silahlar bedavaya yapılmıyor.
 
-104
+127
 00:10:18,560 --> 00:10:19,820
 Peki, sana güveniyorum!
 
-105
+128
 00:10:19,820 --> 00:10:21,020
 Hey, dinlesene!
 
-106
+129
 00:10:21,690 --> 00:10:23,630
 Siz artık gidebilirsiniz.
 
-107
+130
 00:10:26,100 --> 00:10:28,610
 Nami-san...
 
-108
+131
 00:10:38,330 --> 00:10:44,000
 Ne yapıyorum ben? O ses beni
 neredeyse ölümüne korkuttu.
 
-109
+132
 00:10:45,210 --> 00:10:48,490
 Usopp'un önünde çok cesur davrandım.
 
-110
+133
 00:10:48,490 --> 00:10:50,460
 Hazır olmam gerekiyor!
 
-111
+134
 00:10:52,360 --> 00:10:54,430
 Vivi için, dövüşeceğim.
 
-112
+135
 00:11:01,890 --> 00:11:05,520
 Evet. Usopp sözünü tuttu.
 
-113
+136
 00:11:05,920 --> 00:11:07,680
 Sadece dövüşmem gerekiyor!
 
-114
+137
 00:11:07,680 --> 00:11:10,600
 Sadece bir kadın,
 hakkından gelebilirim...
 
-115
+138
 00:11:35,150 --> 00:11:37,800
 Benden kaçamazsın, tatlım.
 
-116
+139
 00:11:38,690 --> 00:11:42,310
 Bayan Doublefinger!
 Mızrak falan mı kullandı?
 
-117
+140
 00:11:42,310 --> 00:11:45,480
 O da mı şeytan meyvesi
 gücüne sahip?
 
-118
+141
 00:11:47,140 --> 00:11:48,980
 Henüz anlamadın mı?
 
-119
+142
 00:11:50,820 --> 00:11:53,570
 Diken Meyvesi sayesinde,
 diken kadın oldum.
 
-120
+143
 00:11:53,570 --> 00:11:57,070
 Bedenimin herhangi bir
 yerinde diken oluşturabilirim.
 
-121
+144
 00:11:57,460 --> 00:12:00,640
 Taş duvarı kolayca
 parçalayabilen dikenler...
 
-122
+145
 00:12:00,640 --> 00:12:04,950
 Bir an bile köşeye sıkışırsam,
 dikenleri her yerimi deler ve işim biter.
 
-123
+146
 00:12:05,280 --> 00:12:09,250
 Zavallı şey benimle dövüşmek
 için ayağa kalkıyor.
 
-124
+147
 00:12:10,040 --> 00:12:10,960
 Aynen öyle!
 
-125
+148
 00:12:13,800 --> 00:12:18,050
 Bulutları toplayıp yağmur yağdırabilir.
 
-126
+149
 00:12:18,050 --> 00:12:20,550
 Rüzgâr bile çıkarabilir!
 
-127
+150
 00:12:20,550 --> 00:12:24,520
 Bu mucizevi asa, havada
 olağanüstü değişimlere yol açabilir!
 
-128
+151
 00:12:26,900 --> 00:12:30,980
 Sen bittin!
 İşte yeni silahım, İklim Asası!
 
-129
+152
 00:12:30,980 --> 00:12:32,690
 Ne oluyor…?
 
-130
+153
 00:12:33,120 --> 00:12:34,230
 Önce, güneşli!
 
-131
+154
 00:12:34,230 --> 00:12:35,850
 Güzel Tempo!
 
-132
+155
 00:12:39,050 --> 00:12:42,890
 Vay, harika!
 İçinden güvercinler çıktı!
 
-133
+156
 00:12:43,940 --> 00:12:45,460
 Bu aptalcaydı!
 
-134
+157
 00:12:50,400 --> 00:12:52,540
 Sen... iyi misin?
 
-135
+158
 00:12:53,880 --> 00:12:55,920
 Bir saldırıya böyle başlarsın!
 
-136
+159
 00:12:56,320 --> 00:12:58,790
 Önce düşmanın dikkatini
 dağıtırsın, değil mi?
 
-137
+160
 00:12:58,790 --> 00:12:59,880
 Anladım, Usopp.
 
-138
+161
 00:13:01,200 --> 00:13:02,630
 Bu sefer, işin bitti!
 
-139
+162
 00:13:02,630 --> 00:13:03,760
 Bulutlu Tempo!
 
-140
+163
 00:13:06,100 --> 00:13:08,430
 Vay! Ne güzel çiçekler!
 
-141
+164
 00:13:09,990 --> 00:13:11,760
 Bu şekilde kazanmam mümkün değil!
 
-142
+165
 00:13:14,080 --> 00:13:18,240
 Ne oluyor bilmiyorum ama
 onun için çok üzülüyorum.
 
-143
+166
 00:13:21,200 --> 00:13:23,030
 Çabuk! Vivi-sama tehlikede!
 
-144
+167
 00:13:24,420 --> 00:13:27,910
 Toplar! Topları getirin!
 Kapıyı yok edin!
 
-145
+168
 00:13:27,910 --> 00:13:28,750
 Çabuk!
 
-146
+169
 00:13:32,620 --> 00:13:34,850
 16 Çiçek!
 
-147
+170
 00:13:42,940 --> 00:13:43,590
 Ne?
 
-148
+171
 00:14:11,470 --> 00:14:14,390
 Umarım şimdi biraz
 huzur ve sükûnet bulabiliriz.
 
-149
+172
 00:14:41,820 --> 00:14:43,360
 Çok inatçısın.
 
-150
+173
 00:14:47,530 --> 00:14:49,970
 Kaçmanın işe yaramayacağını
 anlamıyor musun?
 
-151
+174
 00:14:50,890 --> 00:14:52,370
 Kazanma şansın yok.
 
-152
+175
 00:14:52,870 --> 00:14:54,960
 Sen öyle san!
 
-153
+176
 00:14:54,960 --> 00:14:58,740
 Kullanma kılavuzuna göre
 daha bir sürü teknik var.
 
-154
+177
 00:15:01,300 --> 00:15:05,010
 İyi bir kız ol ve kımıldama.
 
-155
+178
 00:15:05,010 --> 00:15:07,800
 Yenilgiyi kabullen de
 sana acısız bir ölüm vereyim.
 
-156
+179
 00:15:09,300 --> 00:15:13,180
 Yoksa o eğlenceli sihir
 oyununa devam mı edeceksin?
 
-157
+180
 00:15:14,550 --> 00:15:16,430
 Hava, gök gürültülü olacak!
 
-158
+181
 00:15:16,430 --> 00:15:17,690
 Gök Gürültüsü Tempo!
 
-159
+182
 00:15:26,590 --> 00:15:30,420
 Gök Gürültüsü Tempo...
 Gök Gürültüsü Tempo... Gök Gürültüsü...
 
-160
+183
 00:15:30,420 --> 00:15:33,200
 Diken Parmak!
 
-161
+184
 00:15:39,000 --> 00:15:43,480
 Hayır!!
 
-162
+185
 00:15:51,520 --> 00:15:53,490
 Yanağım kanıyor!
 
-163
+186
 00:15:54,210 --> 00:15:57,730
 Ahh... Acaba ölecek miyim?
 
-164
+187
 00:15:58,130 --> 00:16:00,730
 Büyük ihtimalle öleceğim. Öleceğim.
 
-165
+188
 00:16:01,430 --> 00:16:07,220
 Ölürsem onu lanetleyeceğim.
 Uzun burunlu aptal! Uzun burunlu!!
 
-166
+189
 00:16:07,220 --> 00:16:09,530
 Bunun silah olması gerekiyordu.
 
-167
+190
 00:16:10,920 --> 00:16:11,580
 Bu...?
 
-168
+191
 00:16:12,490 --> 00:16:16,080
 Pekâlâ, ölme vaktin geldi. Hazır mısın?
 
-169
+192
 00:16:24,640 --> 00:16:27,720
 Köprünün altında duruyor. Nasıl?!
 
-170
+193
 00:16:30,880 --> 00:16:32,930
 Kirpi Dikeni!
 
-171
+194
 00:16:34,060 --> 00:16:34,930
 Ucuz atlattım!
 
-172
+195
 00:16:37,040 --> 00:16:39,100
 H-H-Hey, dur biraz! Dur!
 
-173
+196
 00:16:40,410 --> 00:16:42,780
 Dur dedim! Dursana!
 
-174
+197
 00:16:42,780 --> 00:16:45,860
 Bir dakika! Sadece bir dakika! Hey!
 
-175
+198
 00:16:47,660 --> 00:16:49,200
 Açıkta yakalanacağım!
 
-176
+199
 00:16:58,470 --> 00:17:01,250
 Bitti artık. Seni şişleyeceğim!
 
-177
+200
 00:17:01,250 --> 00:17:04,380
 Teşekkürler... ben almayayım!
 
-178
+201
 00:17:17,740 --> 00:17:18,790
 Bak sen...
 
-179
+202
 00:17:21,300 --> 00:17:26,360
 Görünüşe göre dövüşte
 o kadar da amatör değil.
 
-180
+203
 00:17:28,480 --> 00:17:29,650
 O da neydi?
 
-181
+204
 00:17:29,650 --> 00:17:32,910
 Klavuzda daha önce
 bir şey gözüme takıldı.
 
-182
+205
 00:17:32,910 --> 00:17:35,860
 Hiç de iyi görünmüyordu.
 
-183
+206
 00:17:35,860 --> 00:17:36,870
 Neredeydi?
 
-184
+207
 00:17:37,440 --> 00:17:38,360
 İşte bu!
 
-185
+208
 00:17:38,360 --> 00:17:42,340
 Buraya kadar anlatılan numaralar
 parti ve kutlama yapılırken...
 
-186
+209
 00:17:42,360 --> 00:17:45,170
 ortamı canlandırmak ve
 insanları eğlendirmek içindi.
 
-187
+210
 00:17:48,960 --> 00:17:51,050
 Dalga mı geçiyorsun, aptal?
 
-188
+211
 00:17:51,050 --> 00:17:54,800
 Ayrıca, dövüş talimatları arka yüzde.
 
-189
+212
 00:17:55,380 --> 00:17:56,610
 Arka mı?
 
-190
+213
 00:18:04,130 --> 00:18:07,610
 Ee, bu kez nereye saklandın,
 
-191
+214
 00:18:07,900 --> 00:18:09,230
 küçük kedicik?
 
-192
+215
 00:18:16,960 --> 00:18:19,170
 Bir daha kaçıp saklanmayacağım.
 
-193
+216
 00:18:19,170 --> 00:18:23,500
 Sekiz yıldır hırsızlık yaptım ve
 tüm ölüm kalım durumlarını...
 
-194
+217
 00:18:23,500 --> 00:18:26,210
 yalnız başıma atlattım!
 
-195
+218
 00:18:28,360 --> 00:18:32,760
 Sıradan bir kızmışım gibi
 davranılmasına dayanamıyorum.
 
-196
+219
 00:18:33,260 --> 00:18:36,390
 Öyle mi? Bunun için üzgünüm.
 
-197
+220
 00:18:36,390 --> 00:18:39,010
 Niye aniden öz güvenle doldun?
 
-198
+221
 00:18:39,260 --> 00:18:41,770
 Seni uyarıyorum!
 Şimdi dövüşmeye hazırım!
 
-199
+222
 00:18:43,140 --> 00:18:45,230
 Asanın savaş konfigürasyonları...
 
-200
+223
 00:18:45,230 --> 00:18:48,750
 1. Temel Kural:
 Üç sopanın özelliklerini kavra.
 
-201
+224
 00:18:48,750 --> 00:18:53,400
 Her birini sallamak veya üflemek
 hava topları çıkaracak.
 
-202
+225
 00:18:54,060 --> 00:18:55,690
 İlk sopa sıcak hava yaratır,
 
-203
+226
 00:18:58,890 --> 00:19:00,650
 ısı kabarcığı!
 
-204
+227
 00:19:00,650 --> 00:19:02,870
 Bu da ne böyle? Sıcak hissettiriyor.
 
-205
+228
 00:19:03,370 --> 00:19:05,040
 İkinci sopa soğuk hava yaratır,
 
-206
+229
 00:19:07,160 --> 00:19:08,840
 soğuk kabarcığı!
 
-207
+230
 00:19:08,840 --> 00:19:10,670
 Ah, çok serin.
 
-208
+231
 00:19:11,080 --> 00:19:13,270
 Üçüncü sopa da elektrik yaratır,
 
-209
+232
 00:19:15,470 --> 00:19:17,080
 yıldırım kabarcığı!
 
-210
+233
 00:19:17,080 --> 00:19:19,130
 Ah, biraz çarpıldım.
 
-211
+234
 00:19:19,130 --> 00:19:24,060
 Bu teknikler henüz tamamlanmadı,
 bu yüzden partilerde kullanırsan…
 
-212
+235
 00:19:24,060 --> 00:19:25,270
 Öyleyse yazmasaydın!
 
-213
+236
 00:19:26,940 --> 00:19:28,800
 Tatmin oldun mu?
 
-214
+237
 00:19:33,180 --> 00:19:35,070
 Diken Dikişi!
 
-215
+238
 00:19:36,220 --> 00:19:40,480
 Lütfen! Kullanabileceğim bir şey!
 Numara değil, gerçek teknikler!
 
-216
+239
 00:19:45,710 --> 00:19:47,710
 Üzgünüm.
 
-217
+240
 00:19:47,710 --> 00:19:49,670
 Daha fazla oynayacak zamanım yok.
 
-218
+241
 00:19:51,200 --> 00:19:52,300
 Diken Ezişi!
 
-219
+242
 00:20:07,460 --> 00:20:10,800
 Anlıyorum!
 Isı kabarcığı ve soğuk kabarcığı!
 
-220
+243
 00:20:10,800 --> 00:20:14,790
 Kabarcıklar durduğunda çarpışır,
 hava akımı meydana gelir,
 
-221
+244
 00:20:14,790 --> 00:20:17,030
 ve muazzam bir rüzgâr çıkar!
 
-222
+245
 00:20:17,030 --> 00:20:18,830
 Bu inanılmaz, Usopp!
 
-223
+246
 00:20:18,830 --> 00:20:21,470
 Siklon tempo bumerang gibidir.
 
-224
+247
 00:20:21,470 --> 00:20:24,310
 Parti sonrası, dışarıda insanlarla
  oynayabilirsin.
 
-225
+248
 00:20:24,310 --> 00:20:26,580
 Ne yaptığından haberi bile yok...
 
-226
+249
 00:20:28,280 --> 00:20:30,860
 Ama bununla, belki...
 
-227
+250
 00:20:33,460 --> 00:20:35,590
 Ne tuhaf bir silah.
 
-228
+251
 00:20:36,710 --> 00:20:38,800
 Dikkatini dövüşe vermelisin!
 
-229
+252
 00:20:41,110 --> 00:20:43,970
 Dövüşte rakibine sırtını dönmek...
 
-230
+253
 00:20:43,970 --> 00:20:46,220
 Seni öldürmeye çalıştığımı unuttun mu?
 
-231
+254
 00:21:00,180 --> 00:21:03,370
 Havanın yoğunluğunu
 soğuk kabarcığıyla değiştirdim.
 
-232
+255
 00:21:03,370 --> 00:21:06,150
 Büyük sıcaklık farkı sonucu
 oluşan ışık kırılmaları…
 
-233
+256
 00:21:06,150 --> 00:21:06,910
 Yani...
 
-234
+257
 00:21:07,430 --> 00:21:11,630
 Serap! İmkânsız...
 Bu kadar kısa mesafede mi?!
 
-235
+258
 00:21:16,730 --> 00:21:21,680
 Güçle üstesinden gelemeyiz,
 zekânla hayatta kalacaksın!
 
-236
+259
 00:21:22,440 --> 00:21:24,550
 İşte bizim dövüşme şeklimiz, ha?!
 
-237
+260
 00:21:25,350 --> 00:21:27,930
 Düzgün kullanılırsa,
 mucizeler oluşturabilir!
 
-238
+261
 00:21:28,500 --> 00:21:30,730
 Bu silah benim için mükemmel!
 
-239
+262
 00:21:34,910 --> 00:21:37,420
 Sonunda İklim Asası'nı anlıyorum.
 
-240
+263
 00:21:37,930 --> 00:21:39,630
 Vaktin varken pes et!
 
-241
+264
+00:21:40,700 --> 00:21:43,320
+Güneydoğu Kapısı, Alubarna
+
+265
 00:21:46,120 --> 00:21:47,700
 Demek canlı çıkabildiniz.
 
-242
+266
 00:21:49,900 --> 00:21:51,570
 – Sanji!
 – Sanji!
 
-243
+267
 00:21:51,570 --> 00:21:52,880
 O yaralar...
 
-244
+268
 00:21:54,800 --> 00:21:56,840
 Eee, Bay 2'yle olan dövüşün nasıl geçti?
 
-245
+269
 00:21:57,120 --> 00:21:59,630
 Sence? Al.
 
-246
+270
 00:21:59,880 --> 00:22:02,600
 Ahhh! Gözlüğüm!
 
-247
+271
 00:22:02,600 --> 00:22:07,060
 Onu benim için almışsın!
 Sağ ol, Sanji!
 
-248
+272
 00:22:07,060 --> 00:22:10,870
 Sen çok düşünce- Ahh!
 Hey, dur biraz! Kırılmış!
 
-249
+273
 00:22:10,870 --> 00:22:14,410
 Lanet olası, bunlar
 Kuzey Mavi'nin son modeli!
 
-250
+274
 00:22:14,410 --> 00:22:17,270
 Bana ne kadara mal
 olduğu hakkında bir fikrin var mı?!
 
-251
+275
 00:22:17,270 --> 00:22:18,670
 Hey, oraya bakın.
 
-252
+276
 00:22:18,670 --> 00:22:19,970
 Beni dinle...
 
-253
+277
 00:22:19,970 --> 00:22:20,900
 Ah!
 
-254
+278
 00:22:21,490 --> 00:22:24,430
 İsyan Ordusu'nun
 destek kuvvetleri olmalılar.
 
-255
+279
 00:22:25,050 --> 00:22:26,580
 Daha fazla mı?
 
-256
+280
 00:22:26,580 --> 00:22:31,080
 Görünüşe bakılırsa, Vivi-chan
 İsyan Ordusu’nu engelleyememiş.
 
-257
+281
 00:22:32,060 --> 00:22:34,340
 Ah, kahretsin!
 
-258
+282
 00:22:33,670 --> 00:22:34,340
 Vooo.
 
-259
+283
 00:22:34,340 --> 00:22:36,040
 Hm? Vooo mı?
 
-260
+284
 00:22:36,040 --> 00:22:39,630
 Hey, nerede saklanıyordun, Kirpik?
 
-261
+285
 00:22:40,490 --> 00:22:44,390
 Hemen saraya gidelim!
 Belki Vivi-chan'a yardımımız dokunur.
 
-262
+286
 00:22:44,390 --> 00:22:45,240
 Tamamdır.
 
-263
+287
 00:22:45,240 --> 00:22:46,550
 Hey, Usopp! Gidelim hadi!
 
-264
+288
 00:22:46,550 --> 00:22:49,600
 T-Tamam.
 Hey, Kirpik, bırak bineyim!
 
-265
+289
 00:22:49,600 --> 00:22:52,310
 Bak! Ne hâldeyim, görmüyor musun?
 
-266
+290
 00:22:52,310 --> 00:22:54,270
 Kirpik, dur! Bırak bineyim!
 
-267
+291
 00:22:55,680 --> 00:22:57,230
 Baba!
 
-268
+292
 00:23:00,470 --> 00:23:03,360
 Kralı bırak, Crocodile!
 
-269
+293
 00:23:05,750 --> 00:23:07,520
 Affet beni, Vivi...
 
-270
+294
 00:23:08,110 --> 00:23:15,100
 Elde etmek için hayatını riske attığın
 istihbaratı kullanmayı beceremedim.
 
-271
+295
 00:23:15,100 --> 00:23:16,460
 Baba...
 
-272
+296
 00:23:23,890 --> 00:23:28,370
 Öncelikle, hiçbirinizi
 canlı bırakmaya niyetim yok.
 
-273
+297
 00:23:28,950 --> 00:23:34,180
 Kraliyet ailesinin,
 krallıkla birlikte düşmesi doğaldır.
 
-274
+298
 00:23:35,640 --> 00:23:37,610
 Ancak tahtı ele geçirmeden önce,
 
-275
+299
 00:23:37,610 --> 00:23:44,150
 şimdiki kral olan sana
 bir şey sormalıyım.
 
-276
+300
 00:23:45,950 --> 00:23:49,870
 En başından beri
 nihai amacım olan şeyi...
 
-277
+301
 00:23:51,600 --> 00:23:55,540
 Cobra... Pluton nerede?
 
-278
+302
 00:24:05,400 --> 00:24:09,500
 Seni şeytan,
 bunu nereden duydun?
-
-279
-00:00:00,520 --> 00:00:04,900
-Kuzey Bloğu
-
-280
-00:00:00,520 --> 00:00:04,900
-Kuzey Bloğu
-
-281
-00:00:00,520 --> 00:00:04,900
-Kuzey Bloğu
-
-282
-00:04:12,650 --> 00:04:19,450
-Medi Toplantı Salonu
-Alubarna Kuzey Bloğu
-
-283
-00:04:12,650 --> 00:04:19,450
-Medi Toplantı Salonu
-Alubarna Kuzey Bloğu
-
-284
-00:04:12,650 --> 00:04:19,450
-Medi Toplantı Salonu
-Alubarna Kuzey Bloğu
-
-285
-00:05:03,320 --> 00:05:09,580
-Bay 1 ve Bayan Doublefinger,
-
-286
-00:05:03,320 --> 00:05:09,580
-Bay 1 ve Bayan Doublefinger,
-
-287
-00:05:03,320 --> 00:05:09,580
-Bay 1 ve Bayan Doublefinger,
-
-288
-00:05:03,320 --> 00:05:09,580
-Roronoa Zoro ve Nami'ye Karşı
-
-289
-00:05:03,320 --> 00:05:09,580
-Roronoa Zoro ve Nami'ye Karşı
-
-290
-00:05:03,320 --> 00:05:09,580
-Roronoa Zoro ve Nami'ye Karşı
-
-291
-00:08:44,750 --> 00:08:58,430
-m 139.93 666.19 l 141.17 677.96 182.83 680.58 230.07 680.63 292.81 680.49 315.1 680.91 343.07 681.6 359 681.88 372.9 680.53 394.04 680.79 414.15 681.81 445.04 682.68 470.62 681.89 509.73 680.04 546.72 677.79 570.09 678.23 587.73 678.01 607.14 680.82 610.86 676.2 611.63 668.25 619.41 666.73 621.71 667.66 623.18 669.74 624.03 672.56 624.64 676.96 624.57 696.49 623.14 708.09 624.14 720.7 624.14 735.75 621.71 757.82 610.97 759.14 573.74 760.15 531.8 759.64 450.64 760.26 374.1 759.76 308 759.27 296.08 761.01 286.88 760.26 262.53 760.26 231.47 759.27 204.13 759.27 182.52 759.52 160.15 759.52 158.41 760.51 155.43 760.01 140.77 759.52 135.55 759.52 132.82 757.53 131.58 753.8 131.82 715.03 131.08 689.94 131.58 672.79 131.82 667.82 133.31 665.33 136.55 665.58 139.93 666.19
-
-292
-00:08:44,750 --> 00:08:58,430
-KoJXxnJOIX
-
-293
-00:08:44,750 --> 00:08:58,430
-YDZLTnBrny
-
-294
-00:08:44,750 --> 00:08:58,430
-SyrdeNQOmY
-
-295
-00:08:44,750 --> 00:08:58,430
-hnOSJNHoOT
-
-296
-00:08:44,750 --> 00:08:58,430
-gWKZbsxDEX
-
-297
-00:08:44,750 --> 00:08:58,430
-iUYjRFTECw
-
-298
-00:08:44,750 --> 00:08:58,430
-eoHmvxeIBt
-
-299
-00:08:44,750 --> 00:08:58,430
-RDKUjcbNnW
-
-300
-00:08:44,750 --> 00:08:58,430
-Usopp Fabrikası
-
-301
-00:10:06,090 --> 00:10:14,510
-m 13.956 1.307 l 15.912 19.198 81.61 23.18 156.107 23.256 255.048 23.043 290.2 23.682 334.308 24.73 359.43 25.156 381.35 23.104 414.688 23.499 446.401 25.05 495.115 26.372 535.455 25.171 597.131 22.359 655.464 18.939 692.319 19.608 720.137 19.274 750.747 23.545 756.613 16.522 757.827 4.438 770.096 2.128 773.724 3.542 776.042 6.703 777.382 10.99 778.344 17.678 778.234 47.363 775.979 64.995 777.556 84.162 777.556 107.038 773.724 140.585 756.787 142.591 698.075 144.126 631.935 143.351 503.946 144.294 383.243 143.534 279.003 142.789 260.205 145.434 245.697 144.294 207.297 144.294 158.315 142.789 115.2 142.789 81.121 143.169 45.843 143.169 43.099 144.674 38.4 143.914 15.281 143.169 7.049 143.169 2.744 140.144 0.789 134.474 1.167 75.544 0 37.407 0.789 11.339 1.167 3.785 3.517 0 8.626 0.38 13.956 1.307
-
-302
-00:10:06,090 --> 00:10:14,510
-KoJXxnJOIX
-
-303
-00:10:06,090 --> 00:10:14,510
-YDZLTnBrny
-
-304
-00:10:06,090 --> 00:10:14,510
-SyrdeNQOmY
-
-305
-00:10:06,090 --> 00:10:14,510
-hnOSJNHoOT
-
-306
-00:10:06,090 --> 00:10:14,510
-gWKZbsxDEX
-
-307
-00:10:06,090 --> 00:10:14,510
-iUYjRFTECw
-
-308
-00:10:06,090 --> 00:10:14,510
-eoHmvxeIBt
-
-309
-00:10:06,090 --> 00:10:14,510
-RDKUjcbNnW
-
-310
-00:10:06,090 --> 00:10:14,510
-Usopp Fabrikası
-
-311
-00:21:40,700 --> 00:21:43,320
-Güneydoğu Kapısı, Alubarna
-
-312
-00:21:40,700 --> 00:21:43,320
-Güneydoğu Kapısı, Alubarna
-
-313
-00:21:40,700 --> 00:21:43,320
-Güneydoğu Kapısı, Alubarna

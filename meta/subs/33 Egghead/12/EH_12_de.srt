@@ -1,1806 +1,1712 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:30,110 --> 00:01:33,990
+Flucht-Limit
+
+3
 00:01:33,990 --> 00:01:36,990
 Ihr alle müsst die Insel verlassen!
 
-3
+4
+00:01:34,490 --> 00:01:36,990
+Fabriophase
+Egghead
+
+5
 00:01:38,240 --> 00:01:41,660
 Wie meinen Sie das, Herr Sentomaru?
 
-4
+6
 00:01:42,040 --> 00:01:45,500
 Was geht auf der Insel vor sich?
 
-5
+7
 00:01:45,880 --> 00:01:49,340
 Warum haben Sie die Pacifista auf der ganzen Insel verteilt?
 
-6
+8
 00:01:52,130 --> 00:01:58,970
 Vor langer Zeit ist eine Insel namens Ohara plötzlich von der Weltkarte verschwunden.
 
-7
+9
 00:02:02,060 --> 00:02:05,400
 Das geschah, weil sie sich gegen die Weltregierung auflehnte.
 
-8
+10
 00:02:08,650 --> 00:02:10,400
 Der Ohara-Vorfall...
 
-9
+11
 00:02:12,990 --> 00:02:17,120
 Er geschah auf der Insel Ohara, auf der sich die größte Geschichtsbibliothek befand.
 
-10
+12
 00:02:18,120 --> 00:02:23,460
 Gelehrte und Einwohner, die versuchten, die Poneglyphs zu entziffern,
 
-11
+13
 00:02:23,460 --> 00:02:25,500
 was von der Regierung untersagt wurde,
 
-12
+14
 00:02:26,420 --> 00:02:30,960
 wurden durch ein Bombardement der Marine getötet.
 
-13
+15
 00:02:30,960 --> 00:02:34,840
 Nur ein einziges Mädchen überlebte den Angriff.
 
-14
+16
 00:02:36,010 --> 00:02:37,760
 Das war Nico Robin.
 
-15
+17
 00:02:40,520 --> 00:02:43,040
 Die Tatsache, dass sie Opa Punk,
 
-16
+18
 00:02:43,040 --> 00:02:46,420
 den schlausten Kopf der Welt,
 ins Visier genommen haben, bedeutet
 
-17
+19
 00:02:46,900 --> 00:02:49,480
 dass sie alle Verluste in Kauf nehmen und beschlossen haben,
 
-18
+20
 00:02:51,030 --> 00:02:54,780
 dass er ausgelöscht werden muss.
 
-19
+21
 00:02:59,280 --> 00:03:02,750
 Wenn dem so ist, könnte sich ein noch schlimmerer Vorfall
 
-20
+22
 00:03:02,750 --> 00:03:06,710
 als der, der sich auf Ohara zutrug,
 hier bald ereignen!
 
-21
+23
 00:03:15,630 --> 00:03:17,340
 Beeil dich, Strohhut!
 
-22
+24
 00:03:19,350 --> 00:03:22,470
 Was geht da oben nur vor sich?
 
-23
+25
+00:03:22,470 --> 00:03:24,020
+Gebäude C
+
+26
+00:03:22,470 --> 00:03:24,020
+Gebäude B
+
+27
+00:03:22,470 --> 00:03:24,020
+Gebäude A
+
+28
+00:03:24,020 --> 00:03:24,060
+Gebäude C
+
+29
+00:03:24,020 --> 00:03:24,060
+Gebäude B
+
+30
+00:03:24,020 --> 00:03:24,060
+Gebäude A
+
+31
+00:03:24,060 --> 00:03:24,100
+Gebäude C
+
+32
+00:03:24,060 --> 00:03:24,100
+Gebäude B
+
+33
+00:03:24,100 --> 00:03:24,140
+Gebäude C
+
+34
+00:03:24,100 --> 00:03:24,140
+Gebäude B
+
+35
+00:03:24,140 --> 00:03:24,180
+Gebäude C
+
+36
+00:03:24,140 --> 00:03:24,180
+Gebäude B
+
+37
+00:03:24,180 --> 00:03:24,230
+Gebäude C
+
+38
+00:03:24,180 --> 00:03:24,230
+Gebäude B
+
+39
+00:03:24,230 --> 00:03:24,270
+Gebäude C
+
+40
+00:03:24,230 --> 00:03:24,270
+Gebäude B
+
+41
+00:03:24,270 --> 00:03:24,310
+Gebäude C
+
+42
+00:03:24,270 --> 00:03:24,310
+Gebäude B
+
+43
 00:03:38,320 --> 00:03:39,370
 Rasur!
 
-24
+44
 00:04:03,720 --> 00:04:05,430
 Handpistole!
 
-25
+45
 00:04:05,430 --> 00:04:06,930
 Gum-Gum...
 
-26
+46
 00:04:06,930 --> 00:04:08,190
 Gelber Lotus!
 
-27
+47
 00:04:08,190 --> 00:04:09,900
 ...Kong Organ!
 
-28
+48
 00:04:24,700 --> 00:04:26,000
 Orkankick!
 
-29
+49
 00:04:29,830 --> 00:04:30,960
 Chaos!
 
-30
+50
 00:04:34,500 --> 00:04:35,880
 Weißer Blitz!
 
-31
+51
 00:04:36,880 --> 00:04:39,260
 Einschwertstil: Iai!
 
-32
+52
 00:04:47,020 --> 00:04:49,890
 Todes-Löwenlied!
 
-33
+53
 00:05:23,640 --> 00:05:25,930
 Jetzt lasst es endlich mal gut sein, ihr Pappnasen!
 
-34
+54
 00:05:30,640 --> 00:05:33,020
 Bleibt doch mal am Boden liegen!
 
-35
+55
 00:05:33,020 --> 00:05:34,360
 Haltet ihr euch für Kaido?!
 
-36
+56
 00:05:34,360 --> 00:05:37,070
 Warum zeigen unsere Angriffe keine Wirkung auf sie?!
 
-37
+57
 00:05:37,070 --> 00:05:38,940
 Mir fällt auf,
 
-38
+58
 00:05:38,940 --> 00:05:44,490
 dass sie King ähnlich sehen,
 gegen den ich in Wano Kuni gekämpft habe.
 
-39
+59
 00:05:45,370 --> 00:05:48,620
 Da war ein Lunarianer in Kaidos Piratenbande?
 
-40
+60
 00:05:48,620 --> 00:05:51,830
 Den Namen seines Stammes kenne ich leider nicht.
 
-41
+61
 00:05:52,210 --> 00:05:53,370
 Ich verstehe.
 
-42
+62
 00:05:54,000 --> 00:05:56,420
 Dieser Mann war wahrscheinlich das Versuchskaninchen,
 
-43
+63
 00:05:56,420 --> 00:06:00,760
 das vor langer Zeit mit Kaido von Punk Hazard geflohen ist.
 
-44
+64
 00:06:00,760 --> 00:06:01,840
 Alber.
 
-45
+65
 00:06:02,380 --> 00:06:04,590
 Die Seraphim wurden nämlich
 
-46
+66
 00:06:05,600 --> 00:06:08,560
 mit seinem Lunarianer-Blut verstärkt.
 
-47
+67
 00:06:08,560 --> 00:06:10,640
 Das ergibt Sinn.
 
-48
+68
 00:06:10,640 --> 00:06:14,980
 Dann passt gut auf die Flammen auf ihrem Rücken auf, Leute!
 
-49
+69
 00:06:15,440 --> 00:06:19,030
 Angriffe zeigen nur Wirkung, wenn die Flammen erlöschen.
 
-50
+70
 00:06:20,360 --> 00:06:22,990
 Wenn sie brennen, sind sie fast unbesiegbar.
 
-51
+71
 00:06:25,200 --> 00:06:28,450
 Sorry, das war echt ’ne Energieverschwendung!
 
-52
+72
 00:06:28,450 --> 00:06:31,790
 Ich hätte es früher bemerken müssen.
 
-53
+73
 00:06:31,790 --> 00:06:35,420
 Nein, der Tipp kommt noch rechtzeitig. Jetzt wissen wir, wie wir sie bekämpfen.
 
-54
+74
 00:06:35,420 --> 00:06:37,250
 Kings Merkmale sind
 
-55
+75
 00:06:37,670 --> 00:06:38,460
 weißes Haar,
 
-56
+76
 00:06:39,170 --> 00:06:40,630
 dunkle Haut,
 
-57
+77
 00:06:41,340 --> 00:06:42,800
 schwarze Flügel
 
-58
+78
 00:06:43,510 --> 00:06:45,180
 und Flammen auf dem Rücken.
 
-59
+79
 00:06:45,300 --> 00:06:45,340
 Was?!
 
-60
+80
 00:06:45,340 --> 00:06:45,380
 Was?!
 
-61
+81
 00:06:45,380 --> 00:06:45,430
 Was?!
 
-62
+82
 00:06:45,430 --> 00:06:45,680
 Was?!
 
-63
+83
 00:06:45,680 --> 00:06:45,720
 Was?!
 
-64
+84
 00:06:45,720 --> 00:06:45,760
 Was?!
 
-65
+85
 00:06:45,760 --> 00:06:45,800
 Was?!
 
-66
+86
 00:06:45,800 --> 00:06:46,050
 Was?!
 
-67
+87
 00:06:46,050 --> 00:06:46,090
 Was?!
 
-68
+88
 00:06:46,090 --> 00:06:46,140
 Was?!
 
-69
+89
 00:06:46,140 --> 00:06:47,390
 Was?!
 
-70
-00:06:45,760 --> 00:06:45,800
-Was?!
-
-71
-00:06:45,800 --> 00:06:46,050
-Was?!
-
-72
-00:06:46,050 --> 00:06:46,090
-Was?!
-
-73
-00:06:46,090 --> 00:06:46,140
-Was?!
-
-74
-00:06:46,140 --> 00:06:47,390
-Was?!
-
-75
-00:06:46,090 --> 00:06:46,140
-Was?!
-
-76
-00:06:46,140 --> 00:06:47,390
-Was?!
-
-77
+90
 00:06:47,390 --> 00:06:50,470
 – Das hättest du früher merken müssen!
 – Das hättest du früher merken müssen!
 
-78
+91
 00:06:54,270 --> 00:06:56,770
 Hey! Wo willst du hin, Helmchen?
 
-79
+92
 00:06:57,520 --> 00:07:01,730
 Ich wüsste einen Ort, wo Stella sein könnte.
 
-80
+93
 00:07:07,660 --> 00:07:08,620
 Geh schon!
 
-81
+94
 00:07:09,160 --> 00:07:11,910
 Tut mir leid, dass ich euch Ärger mache.
 
-82
+95
 00:07:11,910 --> 00:07:13,370
 Komm uns nicht in die Quere!
 
-83
+96
 00:07:13,370 --> 00:07:15,710
 Wir sind in Eile.
 
-84
+97
+00:07:21,960 --> 00:07:23,010
+Gebäude C
+
+98
+00:07:21,960 --> 00:07:23,010
+Gebäude B
+
+99
+00:07:21,960 --> 00:07:23,010
+Gebäude A
+
+100
+00:07:21,960 --> 00:07:23,010
+Dritter Stock
+Gebäude A
+
+101
 00:07:25,170 --> 00:07:27,010
 Los geht’s, Zeus!
 
-85
+102
 00:07:27,010 --> 00:07:28,300
 Okay!
 
-86
+103
 00:07:28,300 --> 00:07:30,510
 Er ist kein Kind!
 
-87
+104
 00:07:32,390 --> 00:07:34,180
 Er tut meinen Kameraden weh!
 
-88
+105
 00:07:34,180 --> 00:07:36,390
 Er hätte Edison fast zerstört!
 
-89
+106
 00:07:36,730 --> 00:07:38,350
 Er ist eine Mordmaschine!
 
-90
+107
 00:07:41,110 --> 00:07:42,440
 Er ist nicht niedlich!
 
-91
+108
 00:07:42,440 --> 00:07:44,320
 Er ist kein Kind!
 
-92
+109
 00:07:44,690 --> 00:07:45,990
 Genau, Nami!
 
-93
+110
 00:07:45,990 --> 00:07:47,320
 Du darfst nicht zögern!
 
-94
+111
 00:07:47,320 --> 00:07:48,780
 Schließe ruhig deine Augen!
 
-95
+112
 00:07:48,780 --> 00:07:50,200
 Schwing mich zu ihm!
 
-96
+113
 00:07:50,200 --> 00:07:52,330
 Ich übernehme dann!
 
-97
+114
 00:07:52,540 --> 00:07:54,160
 Donnerschlag!
 
-98
+115
 00:07:57,000 --> 00:07:58,460
 Das reicht nicht!
 
-99
+116
 00:08:00,670 --> 00:08:01,630
 Hiergeblieben!
 
-100
+117
 00:08:13,140 --> 00:08:14,100
 Erwischt!
 
-101
+118
 00:08:17,980 --> 00:08:20,060
 Tut mir leid, Jinbe.
 
-102
+119
 00:08:25,480 --> 00:08:26,740
 Er ist wieder abgetaucht!
 
-103
+120
 00:08:26,740 --> 00:08:27,990
 Schnell weg!
 
-104
+121
 00:08:30,870 --> 00:08:32,950
 Er kommt von unten, Nami!
 
-105
+122
 00:08:32,950 --> 00:08:33,660
 Was?!
 
-106
+123
 00:08:36,620 --> 00:08:38,830
 Es hat nicht geklappt!
 
-107
+124
 00:08:49,930 --> 00:08:52,640
 Die Verfassung des Königreichs Sanji, Artikel 1.
 
-108
+125
 00:08:53,260 --> 00:08:55,930
 Wer Nami Angst macht, dem droht
 
-109
+126
 00:08:55,930 --> 00:08:56,850
 die Todesstrafe!
 
-110
+127
 00:09:00,350 --> 00:09:02,020
 Aubade...
 
-111
+128
 00:09:03,230 --> 00:09:06,480
 Die Verfassung des Königreichs Sanji, Artikel 9.
 
-112
+129
 00:09:07,610 --> 00:09:10,860
 Diejenigen, die Nami zum Schreien bringen, kriegen einen
 
-113
+130
 00:09:10,860 --> 00:09:13,030
 Ondo Rare Strike!
 
-114
+131
 00:09:24,750 --> 00:09:26,250
 Sanji!
 
-115
+132
 00:09:26,250 --> 00:09:28,260
 Nami, bist du verletzt?
 
-116
+133
 00:09:28,260 --> 00:09:29,260
 Alles in Ordnung?
 
-117
+134
 00:09:29,260 --> 00:09:30,630
 Ja, danke dir.
 
-118
+135
 00:09:30,630 --> 00:09:32,640
 Ein Glück, dass dir nichts passiert ist.
 
-119
+136
 00:09:32,640 --> 00:09:34,640
 Ich erledige den Knilch gleich.
 
-120
+137
 00:09:34,640 --> 00:09:38,060
 Ich habe dich gewarnt, du Rotzlöffel!
 
-121
+138
 00:09:43,400 --> 00:09:46,650
 Ob du ein Rotzlöffel oder Jinbe bist,
 
-122
+139
 00:09:47,570 --> 00:09:49,780
 die Todesstrafe wird über dich kommen!
 
-123
+140
 00:09:50,360 --> 00:09:51,530
 Kleiner Jinbe!
 
-124
+141
+00:09:51,530 --> 00:09:52,910
+Gebäude C
+
+142
+00:09:51,530 --> 00:09:52,910
+Gebäude B
+
+143
+00:09:51,530 --> 00:09:52,910
+Gebäude A
+
+144
+00:09:52,910 --> 00:09:52,950
+Gebäude C
+
+145
+00:09:52,910 --> 00:09:52,950
+Gebäude B
+
+146
+00:09:52,950 --> 00:09:52,990
+Gebäude C
+
+147
+00:09:52,950 --> 00:09:52,990
+Gebäude B
+
+148
+00:09:52,990 --> 00:09:53,030
+Gebäude C
+
+149
+00:09:52,990 --> 00:09:53,030
+Gebäude B
+
+150
+00:09:53,030 --> 00:09:53,070
+Gebäude C
+
+151
+00:09:53,070 --> 00:09:53,110
+Gebäude C
+
+152
+00:09:53,110 --> 00:09:53,160
+Gebäude C
+
+153
 00:09:53,910 --> 00:09:57,790
 Wie konntest du es wagen, York in Stein zu verwandeln?!
 
-125
+154
 00:09:57,790 --> 00:09:59,410
 Was sollen wir tun?!
 
-126
+155
 00:10:01,790 --> 00:10:04,750
 Hier eine Kostprobe von meinem Blasengewehr!
 
-127
+156
 00:10:08,670 --> 00:10:09,920
 Hey!
 
-128
+157
 00:10:09,920 --> 00:10:11,380
 Das funktioniert überhaupt nicht!
 
-129
+158
 00:10:17,010 --> 00:10:18,220
 Was?!
 
-130
+159
 00:10:19,600 --> 00:10:21,140
 Du warst unvorsichtig!
 
-131
+160
 00:10:24,270 --> 00:10:27,360
 Die Blasen, die mit dieser Waffe erzeugt werden,
 
-132
+161
 00:10:27,360 --> 00:10:30,110
 sind mit Meeresenergie geladen.
 
-133
+162
 00:10:30,110 --> 00:10:34,450
 Und Grünblut hat die gleiche Schwäche wie Teufelsfrucht-Nutzer!
 
-134
+163
 00:10:34,860 --> 00:10:37,780
 Diese Blasen sind deine Schwachstelle!
 
-135
+164
 00:10:39,330 --> 00:10:41,330
 Voll genial, Lilith!
 
-136
+165
 00:10:41,330 --> 00:10:43,710
 Ja, meine Rede!
 
-137
+166
 00:10:45,040 --> 00:10:47,920
 Super! Das ist unsere Chance, sie in den Griff zu kriegen!
 
-138
+167
 00:10:47,920 --> 00:10:49,750
 Überlass das mir!
 
-139
+168
 00:10:56,890 --> 00:10:58,600
 Pfoten weg!
 
-140
+169
 00:11:02,850 --> 00:11:03,980
 Du ungehobelter Schuft!
 
-141
+170
 00:11:03,980 --> 00:11:05,190
 Benimm dich!
 
-142
+171
 00:11:05,190 --> 00:11:07,690
 Der Effekt ist schon abgeklungen!
 
-143
+172
 00:11:07,690 --> 00:11:09,940
 Es hat auch nur ihren Arm gestreift.
 
-144
+173
 00:11:09,940 --> 00:11:11,780
 Sie müssen wenigstens an ihr kleben!
 
-145
+174
 00:11:11,780 --> 00:11:13,690
 Menno, ihr Fieslinge!
 
-146
+175
 00:11:13,690 --> 00:11:15,780
 Menno! Menno!
 
-147
+176
 00:11:19,580 --> 00:11:21,080
 Die ist stinksauer!
 
-148
+177
 00:11:22,290 --> 00:11:24,960
 Sie wird einen Laser abfeuern! Wir ziehen uns zurück!
 
-149
+178
 00:11:24,960 --> 00:11:26,250
 O-Okay!
 
-150
+179
 00:11:27,250 --> 00:11:28,830
 Scheiße!
 
-151
+180
 00:11:29,790 --> 00:11:32,300
 S-Snake! Hör doch bitte auf!
 
-152
+181
 00:11:32,300 --> 00:11:34,880
 Du bist nur ein Seraphim! Spiel dich nicht so auf!
 
-153
+182
 00:11:49,270 --> 00:11:51,110
 Jetzt gehörst du mir!
 
-154
+183
 00:11:56,450 --> 00:11:59,910
 Wie findest du das, du freche kleine Göre?
 
-155
+184
 00:12:02,120 --> 00:12:04,750
 Das war gerissen, Franky!
 
-156
+185
 00:12:04,750 --> 00:12:07,500
 Blasengewehre sind doch nützlich!
 
-157
+186
 00:12:10,460 --> 00:12:12,710
 Gib auf, du Rotzgöre!
 
-158
+187
 00:12:14,210 --> 00:12:17,170
 Du tust mir... weh.
 
-159
+188
 00:12:19,130 --> 00:12:20,590
 Entschuldige!
 
-160
+189
 00:12:20,590 --> 00:12:23,510
 Perfume Femur!
 
-161
+190
 00:12:25,140 --> 00:12:27,230
 Mist! Ich werde versteinert!
 
-162
+191
 00:12:28,060 --> 00:12:29,940
 So eine Scheiße!
 
-163
+192
 00:12:31,650 --> 00:12:33,690
 Franky wird zu einer Steinstatue!
 
-164
+193
 00:12:33,690 --> 00:12:34,860
 Das ist übel!
 
-165
+194
 00:12:34,860 --> 00:12:36,400
 Er wird sterben!
 
-166
+195
 00:12:40,660 --> 00:12:41,530
 Sie kommt zu uns!
 
-167
+196
 00:12:41,530 --> 00:12:42,240
 Stopp!
 
-168
+197
 00:13:00,470 --> 00:13:03,300
 Mero Mero Mellow!
 
-169
+198
 00:13:07,520 --> 00:13:10,730
 Usopp! Lilith!
 
-170
+199
+00:13:20,490 --> 00:13:23,320
+Altes Teufelsfrüchte-
+Forschungslabor
+Untergrund
+
+200
 00:13:25,530 --> 00:13:28,500
 Der einzige Ort, an dem Stella sein könnte,
 
-171
+201
 00:13:28,870 --> 00:13:31,120
 müsste dieses Forschungslabor sein.
 
-172
+202
 00:13:31,870 --> 00:13:32,960
 Was?
 
-173
+203
 00:13:33,330 --> 00:13:34,960
 Wer bist du?
 
-174
+204
 00:13:34,960 --> 00:13:37,800
 Hast du uns hier eingesperrt?
 
-175
+205
 00:13:38,210 --> 00:13:41,800
 Seid ihr die Cipherpol-Agenten, die vor einer Weile zu uns kamen?
 
-176
+206
 00:13:41,800 --> 00:13:42,760
 Was macht ihr hier?!
 
-177
+207
 00:13:43,260 --> 00:13:44,800
 Rette uns.
 
-178
+208
 00:13:45,430 --> 00:13:46,760
 Bitte!
 
-179
+209
 00:13:46,760 --> 00:13:48,970
 Hol uns hier raus!
 
-180
+210
 00:13:48,970 --> 00:13:50,520
 Wir wollen nicht sterben.
 
-181
+211
 00:13:55,900 --> 00:13:56,860
 Stella!
 
-182
+212
 00:14:01,780 --> 00:14:03,450
 Hier bist du also!
 
-183
+213
 00:14:05,030 --> 00:14:07,160
 Wer hat dir das angetan?
 
-184
+214
 00:14:07,830 --> 00:14:09,120
 Shaka.
 
-185
+215
 00:14:13,960 --> 00:14:15,500
 Schön, dass es dir gut geht!
 
-186
+216
 00:14:15,500 --> 00:14:17,000
 Ich schließe sofort auf!
 
-187
+217
 00:14:17,000 --> 00:14:17,920
 Hey.
 
-188
+218
 00:14:19,000 --> 00:14:22,050
 Shaka, mit wem bist du hier?
 
-189
+219
 00:14:22,050 --> 00:14:22,630
 Was?
 
-190
+220
 00:14:39,980 --> 00:14:41,070
 Shaka!
 
-191
+221
 00:14:41,400 --> 00:14:42,690
 Er wurde erschossen!
 
-192
+222
 00:14:42,690 --> 00:14:44,530
 Warum?!
 
-193
+223
+00:15:08,430 --> 00:15:10,810
+Sankt Jaygarcia Saturn
+Die Fünf Weisen
+
+224
 00:15:11,180 --> 00:15:13,310
 Bleibt stets wachsam!
 
-194
+225
 00:15:13,310 --> 00:15:14,640
 – Jawohl!
 – Jawohl!
 
-195
+226
+00:15:14,890 --> 00:15:19,110
+Zukunftsinsel Egghead
+
+227
+00:15:19,650 --> 00:15:22,570
+Labor
+Zukunftsinsel Egghead
+
+228
+00:15:22,570 --> 00:15:23,940
+Gebäude C
+
+229
+00:15:22,570 --> 00:15:23,940
+Gebäude B
+
+230
+00:15:22,570 --> 00:15:23,940
+Gebäude A
+
+231
+00:15:23,940 --> 00:15:23,990
+Gebäude C
+
+232
+00:15:23,940 --> 00:15:23,990
+Gebäude B
+
+233
+00:15:23,940 --> 00:15:23,990
+Gebäude A
+
+234
+00:15:23,990 --> 00:15:24,030
+Gebäude C
+
+235
+00:15:23,990 --> 00:15:24,030
+Gebäude B
+
+236
+00:15:23,990 --> 00:15:24,030
+Gebäude A
+
+237
+00:15:24,030 --> 00:15:24,070
+Gebäude C
+
+238
+00:15:24,030 --> 00:15:24,070
+Gebäude B
+
+239
+00:15:24,070 --> 00:15:24,110
+Gebäude C
+
+240
+00:15:24,070 --> 00:15:24,110
+Gebäude B
+
+241
+00:15:24,110 --> 00:15:24,150
+Gebäude C
+
+242
+00:15:24,110 --> 00:15:24,150
+Gebäude B
+
+243
+00:15:24,150 --> 00:15:24,190
+Gebäude C
+
+244
+00:15:24,150 --> 00:15:24,190
+Gebäude B
+
+245
+00:15:24,190 --> 00:15:24,240
+Gebäude C
+
+246
+00:15:24,190 --> 00:15:24,240
+Gebäude B
+
+247
+00:15:24,240 --> 00:15:24,280
+Gebäude B
+
+248
+00:15:24,400 --> 00:15:28,120
+Zweiter Stock, Gebäude B
+Labor
+
+249
 00:15:24,900 --> 00:15:27,410
 Was? Onkel Kizaru?
 
-196
+250
 00:15:27,410 --> 00:15:28,120
 Ja.
 
-197
+251
 00:15:28,120 --> 00:15:33,790
 Er ist auf dem Weg hierher, mit einer Flotte von über 100 großen und kleinen Schiffen.
 
-198
+252
 00:15:34,160 --> 00:15:36,000
 Über 100 Schiffe?!
 
-199
+253
 00:15:36,370 --> 00:15:41,460
 Die Mission der CP0 ist es, den Doktor zu töten und auf Kizarus Ankunft zu warten.
 
-200
+254
+00:15:41,460 --> 00:15:47,550
+Fabriophase
+Fabrik
+
+255
 00:15:41,920 --> 00:15:44,800
 Sie schicken einen Marine-Admiral.
 
-201
+256
 00:15:44,800 --> 00:15:47,550
 Das ist ein ungewöhnlicher Zug für die Regierung.
 
-202
+257
 00:15:47,550 --> 00:15:51,310
 Ja, sie müssen die gegenwärtige Situation ernster nehmen als Ohara.
 
-203
+258
 00:15:51,310 --> 00:15:52,680
 Warum?
 
-204
+259
 00:15:52,680 --> 00:15:53,810
 Grund Nr. 1:
 
-205
+260
 00:15:53,810 --> 00:15:57,230
 Der Doktor hat Oharas verbotene Forschung weitergeführt,
 
-206
+261
 00:15:57,230 --> 00:16:00,360
 und macht sogar Fortschritte damit.
 
-207
+262
 00:16:01,820 --> 00:16:02,940
 Grund Nr. 2:
 
-208
+263
 00:16:02,940 --> 00:16:07,200
 Egghead hat Streitkräfte, die Ohara nicht besaß!
 
-209
+264
 00:16:07,200 --> 00:16:09,820
 Du meinst die Seraphim und eine gewaltige Anzahl von Pacifistas?
 
-210
+265
 00:16:11,450 --> 00:16:15,790
 Stimmt, das sind genug Gründe für den Einsatz gewaltiger Streitkräfte.
 
-211
+266
 00:16:15,790 --> 00:16:18,250
 Melde dich bei mir, wenn sich was tut!
 
-212
+267
 00:16:18,620 --> 00:16:21,840
 Alle Kommunikationsgeräte in der Labophase sind defekt.
 
-213
+268
 00:16:21,840 --> 00:16:22,710
 Verstanden.
 
-214
+269
 00:16:26,300 --> 00:16:27,630
 Habt ihr das gehört?!
 
-215
+270
 00:16:27,630 --> 00:16:32,050
 Lernt aus der Geschichte, was die Absichten der Marine hier sind!
 
-216
+271
 00:16:32,050 --> 00:16:36,270
 Werden wir und diese Forschungseinrichtung das gleiche Schicksal erleiden wie Ohara?!
 
-217
+272
 00:16:36,270 --> 00:16:37,390
 Genau!
 
-218
+273
 00:16:37,390 --> 00:16:39,390
 Wir müssen jetzt schnell handeln!
 
-219
+274
 00:16:39,390 --> 00:16:42,150
 Beeilt euch und verlasst Egghead!
 
-220
+275
 00:16:42,150 --> 00:16:43,730
 Los!
 
-221
+276
 00:16:45,940 --> 00:16:47,110
 Macht die Schiffe fertig!
 
-222
+277
 00:16:47,110 --> 00:16:48,860
 Wir müssen von der Insel runter!
 
-223
+278
 00:16:48,860 --> 00:16:50,860
 Bevor die Marine herkommt!
 
-224
+279
 00:16:50,860 --> 00:16:52,820
 Tut das, was Herr Sentomaru gesagt hat!
 
-225
+280
 00:16:53,620 --> 00:16:55,660
 Usopp! Lilith!
 
-226
+281
 00:16:55,660 --> 00:16:57,540
 Du Rotzgöre!
 
-227
+282
+00:16:55,660 --> 00:16:59,120
+Dritter Stock, Gebäude C
+Labor
+
+283
 00:16:57,540 --> 00:16:59,120
 Löse die Versteinerung auf!
 
-228
+284
 00:17:01,250 --> 00:17:03,040
 Rechts war ich unaufmerksam,
 
-229
+285
 00:17:03,460 --> 00:17:06,510
 aber ich hab immer noch meine linke Hälfte!
 
-230
+286
 00:17:06,510 --> 00:17:10,630
 Willst du ’ne Kostprobe von meiner Weapons Left?!
 
-231
+287
 00:17:10,630 --> 00:17:14,560
 Allerdings drück ich ein Auge zu,
 wenn du dich ergibst.
 
-232
+288
 00:17:17,810 --> 00:17:19,390
 Nun, das wird nicht klappen.
 
-233
+289
 00:17:22,350 --> 00:17:24,820
 Hey! Stopp! Hörst du mir zu?!
 
-234
+290
 00:17:24,820 --> 00:17:27,190
 Bleib stehen, sonst schieße ich!
 
-235
+291
 00:17:27,780 --> 00:17:30,240
 Warum tust du das?! S-Snake!
 
-236
+292
 00:17:30,650 --> 00:17:34,700
 Auf... Auf wessen Befehl hin handelst du?!
 
-237
+293
 00:17:37,160 --> 00:17:38,370
 Bitte nicht!
 
-238
+294
 00:17:38,370 --> 00:17:40,370
 Aufhören!
 
-239
+295
 00:17:42,540 --> 00:17:43,920
 Pythagoras!
 
-240
+296
 00:17:50,920 --> 00:17:53,050
 Halt! Hey!
 
-241
+297
 00:17:53,050 --> 00:17:55,640
 Bleib hier!
 
-242
+298
+00:17:55,640 --> 00:17:57,010
+Gebäude C
+
+299
+00:17:55,640 --> 00:17:57,010
+Gebäude B
+
+300
+00:17:55,640 --> 00:17:57,010
+Gebäude A
+
+301
+00:17:57,010 --> 00:17:57,060
+Gebäude C
+
+302
+00:17:57,010 --> 00:17:57,060
+Gebäude B
+
+303
+00:17:57,060 --> 00:17:57,100
+Gebäude C
+
+304
+00:17:57,060 --> 00:17:57,100
+Gebäude B
+
+305
+00:17:57,100 --> 00:17:57,140
+Gebäude C
+
+306
+00:17:57,100 --> 00:17:57,140
+Gebäude B
+
+307
+00:17:57,510 --> 00:18:01,940
+Zweiter Stock, Gebäude A
+Labor
+
+308
 00:18:02,310 --> 00:18:04,310
 Hoffentlich geht es den anderen gut.
 
-243
+309
 00:18:04,310 --> 00:18:08,570
 Man hört schon die ganze Zeit Explosionen und Schreie.
 
-244
+310
 00:18:08,570 --> 00:18:11,490
 Zumindest wissen wir,
 dass die Seraphim Amok laufen.
 
-245
+311
 00:18:12,900 --> 00:18:14,280
 Das ist unfassbar!
 
-246
+312
 00:18:14,280 --> 00:18:16,990
 Die Seraphim sollten auf unserer Seite stehen!
 
-247
+313
 00:18:17,990 --> 00:18:21,370
 Wahrscheinlich hat jemand ihren Befehl geändert.
 
-248
+314
 00:18:23,120 --> 00:18:25,750
 Ich mache mir Sorgen um Nami und die anderen.
 
-249
+315
 00:18:25,750 --> 00:18:27,000
 Mach dir keine Gedanken.
 
-250
+316
 00:18:27,000 --> 00:18:30,760
 Es gibt da einen Mann,
 der sofort zu ihr eilt, wenn er ihre Schreie hört.
 
-251
+317
 00:18:30,760 --> 00:18:31,970
 Ja, stimmt.
 
-252
+318
 00:18:36,300 --> 00:18:39,060
 Die Teams, die sich im Kampf befinden,
 kommen nicht vom Fleck.
 
-253
+319
 00:18:39,390 --> 00:18:44,520
 Und in der Zwischenzeit besteht die Gefahr,
 dass Vegapunk etwas zustößt.
 
-254
+320
 00:18:44,520 --> 00:18:46,610
 Recht hast du! Lasst uns ihn schnell finden!
 
-255
+321
 00:18:46,610 --> 00:18:51,990
 Es gibt da übrigens ein Labor, das früher benutzt wurde und jetzt versiegelt ist.
 
-256
+322
 00:18:51,990 --> 00:18:52,820
 – Was?
 – Was?
 
-257
+323
 00:18:52,820 --> 00:18:56,280
 Ich glaube eigentlich nicht,
 dass dort jemand was zu erledigen hätte.
 
-258
+324
 00:18:56,280 --> 00:18:57,530
 Sehen wir mal nach.
 
-259
+325
 00:18:57,530 --> 00:19:01,450
 Vielleicht finden wir ja einen kleinen Anhaltspunkt.
 
-260
+326
 00:19:01,450 --> 00:19:03,330
 Zeig uns den Weg dorthin, Atlas!
 
-261
+327
 00:19:03,330 --> 00:19:04,370
 Okay!
 
-262
+328
+00:19:08,920 --> 00:19:10,920
+Dritter Stock, Gebäude A
+Labor
+
+329
 00:19:15,220 --> 00:19:16,890
 Halte durch, Edison!
 
-263
+330
 00:19:18,100 --> 00:19:19,350
 Edison!
 
-264
+331
 00:19:19,350 --> 00:19:24,560
 Nami! Ich lege etwas Ballast ab und suche nach Vegapunk!
 
-265
+332
 00:19:24,560 --> 00:19:25,560
 Okay.
 
-266
+333
 00:19:32,570 --> 00:19:33,690
 Mist!
 
-267
+334
 00:19:48,380 --> 00:19:50,840
 Das war richtig cool, Sanji!
 
-268
+335
 00:19:54,880 --> 00:19:56,430
 Kleiner Jinbe.
 
-269
+336
 00:19:56,430 --> 00:20:00,220
 Hast du ’ne Ahnung, was für eine Kraft die Liebe hat?!
 
-270
+337
 00:20:03,930 --> 00:20:06,810
 Gum-Gum...
 
-271
+338
 00:20:07,600 --> 00:20:09,650
 Red Hawk!
 
-272
+339
 00:20:14,690 --> 00:20:19,700
 Scheiße! Die Flammen auf ihren Rücken wollen nicht erlöschen!
 
-273
+340
 00:20:23,030 --> 00:20:26,660
 Hey! Der Falkenauge-Verschnitt ist weg,
 weil wir uns auf die Flammen konzentrierten!
 
-274
+341
 00:20:26,660 --> 00:20:28,120
 Wo ist er hin?!
 
-275
+342
 00:20:28,120 --> 00:20:30,330
 Ihre Prioritäten müssen sich geändert haben.
 
-276
+343
 00:20:31,040 --> 00:20:34,880
 Sie heben sich die harten Nüsse für später auf und eliminieren zuerst die Schwachen.
 
-277
+344
 00:20:36,260 --> 00:20:38,840
 So können sie die Starken aus dem Konzept bringen,
 
-278
+345
 00:20:38,840 --> 00:20:41,340
 falls sie ihre Kameraden töten.
 
-279
+346
 00:20:41,760 --> 00:20:43,260
 Überlass den mir, Luffy!
 
-280
+347
 00:20:43,260 --> 00:20:44,260
 Ich verfolge ihn!
 
-281
+348
 00:20:44,260 --> 00:20:45,720
 Ich zähle auf dich, Zoro!
 
-282
+349
 00:20:45,720 --> 00:20:46,680
 Mist!
 
-283
+350
 00:20:46,680 --> 00:20:48,100
 Hey, Usopp!
 
-284
+351
 00:20:48,100 --> 00:20:49,350
 Begleite ihn!
 
-285
+352
 00:20:49,980 --> 00:20:52,610
 Der Kerl verläuft sich doch sofort!
 
-286
+353
 00:20:52,610 --> 00:20:54,900
 Der braucht echt ’nen Babysitter!
 
-287
+354
 00:20:54,900 --> 00:20:57,110
 Halt, Roronoa!
 
-288
+355
 00:20:57,110 --> 00:20:59,820
 Und wieso nennst du mich „Usopp“?!
 
-289
+356
 00:21:09,830 --> 00:21:11,920
 Dein Gegner steht genau vor dir!
 
-290
+357
 00:21:18,090 --> 00:21:19,880
 Gum-Gum...
 
-291
+358
 00:21:20,470 --> 00:21:22,840
 Hawk Gatling!
 
-292
+359
 00:21:22,840 --> 00:21:24,810
 Geh schon aus, du doofes Feuer!
 
-293
+360
 00:21:25,180 --> 00:21:26,770
 Du Trottel! Warte doch mal, Strohhut!
 
-294
+361
 00:21:26,770 --> 00:21:27,770
 Denk gefälligst nach!
 
-295
+362
 00:21:27,770 --> 00:21:30,980
 Auf diese Weise wirst du ihn nicht besiegen können!
 
-296
+363
 00:21:35,440 --> 00:21:41,700
 Das ist alles, was am Tag vor dem berühmten Egghead-Vorfall geschah.
 
-297
+364
 00:21:42,360 --> 00:21:46,620
 Jedoch setzte es sich schon vor drei Monaten in Bewegung.
 
-298
+365
+00:21:46,950 --> 00:21:50,580
+Heiliges Land, Mary Geoise
+Vor drei Monaten
+
+366
 00:21:48,660 --> 00:21:50,580
 Das Heilige Land Mary Geoise vor drei Monaten.
 
-299
+367
 00:21:53,040 --> 00:21:55,130
 Hi...r... spr...ht... Egg...d.
 
-300
+368
 00:21:56,750 --> 00:21:59,300
 H...r... spr...ht... Eg...d.
 
-301
+369
 00:21:59,300 --> 00:22:00,590
 Ich versteh dich nicht!
 
-302
+370
 00:22:02,010 --> 00:22:04,640
 Hi...r... spr...ht... Egg...d.
 
-303
+371
 00:22:04,640 --> 00:22:06,720
 Ich muss mit... Chef...ge... re...n.
 
-304
+372
 00:22:06,720 --> 00:22:08,220
 Was ist der Anlass?!
 
-305
+373
 00:22:08,970 --> 00:22:10,980
 Ich muss mit der Chefetage reden!
 
-306
+374
 00:22:10,980 --> 00:22:12,440
 Nenne mir den Anlass!
 
-307
+375
 00:22:13,690 --> 00:22:15,810
 Dr. Vegapunk
 
-308
+376
 00:22:15,810 --> 00:22:18,940
 erforscht die 100 Jahre der Leere.
 
-309
+377
 00:22:31,620 --> 00:22:35,690
 Nach Erhalt dieses Hinweises wurde die CP5 nach Egghead entsandt,
 
-310
+378
 00:22:35,690 --> 00:22:39,000
 um die Wahrheit herauszufinden,
 
-311
+379
 00:22:39,670 --> 00:22:41,840
 aber fand keine Beweise.
 
-312
+380
 00:22:42,260 --> 00:22:44,840
 Nachdem die Untersuchung abgeschlossen war,
 
-313
+381
 00:22:45,300 --> 00:22:47,970
 verschwand das Schiff bei der Rückreise auf mysteriöse Weise.
 
-314
+382
 00:22:55,190 --> 00:22:57,400
 Um das Verschwinden zu untersuchen,
 
-315
+383
 00:22:57,400 --> 00:23:03,110
 machten sich erst die CP7 und dann die CP8 auf den Weg nach Egghead,
 
-316
+384
 00:23:03,110 --> 00:23:06,820
 doch kein Agent kehrte zur Regierung zurück.
 
-317
+385
 00:23:08,700 --> 00:23:10,950
 Hier spricht Egghead.
 
-318
+386
 00:23:10,950 --> 00:23:13,540
 Verbindet mich mit der Chefetage.
 
-319
+387
 00:23:24,050 --> 00:23:28,390
 Später gab es ein Gespräch zwischen den Fünf Weisen und einem Unbekannten.
 
-320
+388
 00:23:28,390 --> 00:23:32,470
 Der Verrat des genialen Wissenschaftlers, der die 100 Jahre der Leere erforscht,
 
-321
+389
 00:23:32,930 --> 00:23:34,680
 kam somit ans Licht.
 
-322
+390
 00:23:36,770 --> 00:23:40,980
 Die Fünf Weisen beschlossen das Attentat auf Dr. Vegapunk.
 
-323
+391
 00:23:43,740 --> 00:23:48,280
 Cipherpol Aigis 0, die mit dieser Mission beauftragt wurde, stach in See.
 
-324
+392
 00:23:49,160 --> 00:23:53,620
 Doch einer der Fünf Weisen beschloss,
 persönlich mitzufahren,
 
-325
+393
 00:23:53,620 --> 00:23:56,040
 in Erwartung eines Gegenangriffs von Vegapunk.
 
-326
+394
 00:23:56,040 --> 00:24:00,170
 Er beauftragte Admiral Kizaru mit seiner Eskorte.
 
-327
+395
 00:24:05,880 --> 00:24:11,600
 Darüber hinaus wurde Verstärkung von allen Marine-Stützpunkten angefordert.
 
-328
+396
 00:24:15,850 --> 00:24:20,610
 Dieser Einsatz machte den Anschein, als würde ein Krieg ausbrechen.
 
-329
+397
 00:24:35,540 --> 00:24:38,500
 Jedoch erschien daraufhin...
 
-330
+398
 00:24:39,500 --> 00:24:43,460
 das Schiff vom Kaiser der Meere, Strohhut Luffy, auf der Bühne.
 
-331
+399
 00:24:54,810 --> 00:25:00,850
 Die Regierung wurde unruhig, als sie vom Landgang der unerwarteten Störenfriede hörte.
 
-332
+400
 00:25:00,850 --> 00:25:02,110
 Seht ihr.
 
-333
+401
 00:25:02,860 --> 00:25:06,190
 Die Situation wird immer verzwickter.
 
-334
+402
 00:25:10,910 --> 00:25:12,570
 Schon wieder!
 
-335
+403
 00:25:14,450 --> 00:25:18,910
 Jedenfalls wird der Vorfall bis zum nächsten Tag ein Ende finden...
 
-336
+404
 00:25:21,080 --> 00:25:25,130
 und der Ausgang wird die Welt auf unvorhergesehene Weise schockieren.
 
-337
+405
+00:25:27,170 --> 00:25:34,140
+Altes Teufelsfrüchte-
+Forschungslabor
+Untergrund
+
+406
 00:25:29,340 --> 00:25:30,430
 Hey.
 
-338
+407
 00:25:30,430 --> 00:25:33,180
 Ist das alles dein Werk?!
 
-339
+408
 00:25:33,180 --> 00:25:34,140
 Antworte!
 
-340
+409
 00:26:07,670 --> 00:26:09,880
 W-Warum hast du das getan?
 
-341
+410
 00:26:12,090 --> 00:26:13,220
 York!
 
-342
+411
 00:26:19,020 --> 00:26:20,890
 Hör mal, Stella!
 
-343
+412
 00:26:20,890 --> 00:26:23,980
 Ich werde zu einem Himmelsdrachen!
 
-344
+413
 00:26:25,940 --> 00:26:28,190
 Was redest du da, York?!
 
-345
+414
 00:26:28,190 --> 00:26:30,690
 Du warst doch schon mal in Mary Geoise.
 
-346
+415
 00:26:30,690 --> 00:26:33,820
 Willst du so ein niederträchtiger Mensch werden?
 
-347
+416
 00:26:34,950 --> 00:26:36,910
 Das hätte auch Shaka gesagt.
 
-348
+417
 00:26:37,530 --> 00:26:40,040
 Aber er ist ja jetzt tot.
 
-349
+418
 00:26:42,330 --> 00:26:44,120
 Das ist so kompliziert.
 
-350
+419
 00:26:44,120 --> 00:26:45,750
 Wir sind doch alle Vegapunks.
 
-351
+420
 00:26:47,460 --> 00:26:50,300
 Würde ein Dr. Vegapunk...
 
-352
+421
 00:26:52,510 --> 00:26:54,760
 auf der Welt nicht ausreichen?
-
-353
-00:01:34,490 --> 00:01:36,990
-Fabriophase
-Egghead
-
-354
-00:01:34,490 --> 00:01:36,990
-Fabriophase
-Egghead
-
-355
-00:03:22,470 --> 00:03:24,020
-Gebäude C
-
-356
-00:03:22,470 --> 00:03:24,020
-Gebäude B
-
-357
-00:03:22,470 --> 00:03:24,020
-Gebäude A
-
-358
-00:03:24,020 --> 00:03:24,060
-Gebäude C
-
-359
-00:03:24,060 --> 00:03:24,100
-Gebäude C
-
-360
-00:03:24,100 --> 00:03:24,140
-Gebäude C
-
-361
-00:03:24,140 --> 00:03:24,180
-Gebäude C
-
-362
-00:03:24,180 --> 00:03:24,230
-Gebäude C
-
-363
-00:03:24,230 --> 00:03:24,270
-Gebäude C
-
-364
-00:03:24,270 --> 00:03:24,310
-Gebäude C
-
-365
-00:03:24,020 --> 00:03:24,060
-Gebäude B
-
-366
-00:03:24,060 --> 00:03:24,100
-Gebäude B
-
-367
-00:03:24,100 --> 00:03:24,140
-Gebäude B
-
-368
-00:03:24,140 --> 00:03:24,180
-Gebäude B
-
-369
-00:03:24,180 --> 00:03:24,230
-Gebäude B
-
-370
-00:03:24,230 --> 00:03:24,270
-Gebäude B
-
-371
-00:03:24,270 --> 00:03:24,310
-Gebäude B
-
-372
-00:03:24,020 --> 00:03:24,060
-Gebäude A
-
-373
-00:07:21,960 --> 00:07:23,010
-Gebäude C
-
-374
-00:07:21,960 --> 00:07:23,010
-Gebäude B
-
-375
-00:07:21,960 --> 00:07:23,010
-Gebäude B
-
-376
-00:07:21,960 --> 00:07:23,010
-Gebäude A
-
-377
-00:07:21,960 --> 00:07:23,010
-Dritter Stock
-Gebäude A
-
-378
-00:07:21,960 --> 00:07:23,010
-Dritter Stock
-Gebäude A
-
-379
-00:09:51,530 --> 00:09:52,910
-Gebäude C
-
-380
-00:09:51,530 --> 00:09:52,910
-Gebäude B
-
-381
-00:09:51,530 --> 00:09:52,910
-Gebäude A
-
-382
-00:09:52,910 --> 00:09:52,950
-Gebäude C
-
-383
-00:09:52,950 --> 00:09:52,990
-Gebäude C
-
-384
-00:09:52,990 --> 00:09:53,030
-Gebäude C
-
-385
-00:09:53,030 --> 00:09:53,070
-Gebäude C
-
-386
-00:09:53,070 --> 00:09:53,110
-Gebäude C
-
-387
-00:09:53,110 --> 00:09:53,160
-Gebäude C
-
-388
-00:09:52,910 --> 00:09:52,950
-Gebäude B
-
-389
-00:09:52,950 --> 00:09:52,990
-Gebäude B
-
-390
-00:09:52,990 --> 00:09:53,030
-Gebäude B
-
-391
-00:13:20,490 --> 00:13:23,320
-Altes Teufelsfrüchte-
-Forschungslabor
-Untergrund
-
-392
-00:13:20,490 --> 00:13:23,320
-Altes Teufelsfrüchte-
-Forschungslabor
-Untergrund
-
-393
-00:15:08,430 --> 00:15:10,810
-Sankt Jaygarcia Saturn
-Die Fünf Weisen
-
-394
-00:15:08,430 --> 00:15:10,810
-Sankt Jaygarcia Saturn
-Die Fünf Weisen
-
-395
-00:15:14,890 --> 00:15:19,110
-Zukunftsinsel Egghead
-
-396
-00:15:14,890 --> 00:15:19,110
-Zukunftsinsel Egghead
-
-397
-00:15:19,650 --> 00:15:22,570
-Labor
-Zukunftsinsel Egghead
-
-398
-00:15:19,650 --> 00:15:22,570
-Labor
-Zukunftsinsel Egghead
-
-399
-00:15:22,570 --> 00:15:23,940
-Gebäude C
-
-400
-00:15:22,570 --> 00:15:23,940
-Gebäude B
-
-401
-00:15:22,570 --> 00:15:23,940
-Gebäude A
-
-402
-00:15:23,940 --> 00:15:23,990
-Gebäude C
-
-403
-00:15:23,990 --> 00:15:24,030
-Gebäude C
-
-404
-00:15:24,030 --> 00:15:24,070
-Gebäude C
-
-405
-00:15:24,070 --> 00:15:24,110
-Gebäude C
-
-406
-00:15:24,110 --> 00:15:24,150
-Gebäude C
-
-407
-00:15:24,150 --> 00:15:24,190
-Gebäude C
-
-408
-00:15:24,190 --> 00:15:24,240
-Gebäude C
-
-409
-00:15:23,940 --> 00:15:23,990
-Gebäude B
-
-410
-00:15:23,990 --> 00:15:24,030
-Gebäude B
-
-411
-00:15:24,030 --> 00:15:24,070
-Gebäude B
-
-412
-00:15:24,070 --> 00:15:24,110
-Gebäude B
-
-413
-00:15:24,110 --> 00:15:24,150
-Gebäude B
-
-414
-00:15:24,150 --> 00:15:24,190
-Gebäude B
-
-415
-00:15:24,190 --> 00:15:24,240
-Gebäude B
-
-416
-00:15:24,240 --> 00:15:24,280
-Gebäude B
-
-417
-00:15:23,940 --> 00:15:23,990
-Gebäude A
-
-418
-00:15:23,990 --> 00:15:24,030
-Gebäude A
-
-419
-00:15:24,400 --> 00:15:28,120
-Zweiter Stock, Gebäude B
-Labor
-
-420
-00:15:24,400 --> 00:15:28,120
-Zweiter Stock, Gebäude B
-Labor
-
-421
-00:15:41,460 --> 00:15:47,550
-Fabriophase
-Fabrik
-
-422
-00:15:41,460 --> 00:15:47,550
-Fabriophase
-Fabrik
-
-423
-00:16:55,660 --> 00:16:59,120
-Dritter Stock, Gebäude C
-Labor
-
-424
-00:16:55,660 --> 00:16:59,120
-Dritter Stock, Gebäude C
-Labor
-
-425
-00:17:55,640 --> 00:17:57,010
-Gebäude C
-
-426
-00:17:55,640 --> 00:17:57,010
-Gebäude B
-
-427
-00:17:55,640 --> 00:17:57,010
-Gebäude A
-
-428
-00:17:57,010 --> 00:17:57,060
-Gebäude C
-
-429
-00:17:57,060 --> 00:17:57,100
-Gebäude C
-
-430
-00:17:57,100 --> 00:17:57,140
-Gebäude C
-
-431
-00:17:57,010 --> 00:17:57,060
-Gebäude B
-
-432
-00:17:57,060 --> 00:17:57,100
-Gebäude B
-
-433
-00:17:57,100 --> 00:17:57,140
-Gebäude B
-
-434
-00:17:57,510 --> 00:18:01,940
-Zweiter Stock, Gebäude A
-Labor
-
-435
-00:17:57,510 --> 00:18:01,940
-Zweiter Stock, Gebäude A
-Labor
-
-436
-00:19:08,920 --> 00:19:10,920
-Dritter Stock, Gebäude A
-Labor
-
-437
-00:19:08,920 --> 00:19:10,920
-Dritter Stock, Gebäude A
-Labor
-
-438
-00:21:46,950 --> 00:21:50,580
-Heiliges Land, Mary Geoise
-Vor drei Monaten
-
-439
-00:21:46,950 --> 00:21:50,580
-Heiliges Land, Mary Geoise
-Vor drei Monaten
-
-440
-00:25:27,170 --> 00:25:34,140
-Altes Teufelsfrüchte-
-Forschungslabor
-Untergrund
-
-441
-00:25:27,170 --> 00:25:34,140
-Altes Teufelsfrüchte-
-Forschungslabor
-Untergrund

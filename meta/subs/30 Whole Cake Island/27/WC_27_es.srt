@@ -1,347 +1,343 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:01,980 --> 00:00:05,650
+Mis sentimientos por ti palpitan intensamente.
+
+3
+00:00:05,650 --> 00:00:09,280
+Si lo que buscas...
+
+4
+00:00:09,280 --> 00:00:12,490
+...es tener un poder sin límites,
+
+5
+00:00:12,490 --> 00:00:14,860
+entonces muestra nuestros vínculos inalterables.
+
+6
+00:00:14,860 --> 00:00:16,070
+Somos la esperanza.
+
+7
+00:00:22,580 --> 00:00:28,800
+La alegría de nuestros corazones colisionando...
+
+8
+00:00:29,460 --> 00:00:35,760
+...y la tristeza al secarse las lágrimas de alegría...
+
+9
+00:00:36,840 --> 00:00:43,350
+...conéctalas y ondéalas...
+
+10
+00:00:43,730 --> 00:00:50,230
+...en lo más alto de este viento.
+
+11
+00:00:50,230 --> 00:00:53,190
+¿Por qué dejaste de buscar?
+
+12
+00:00:53,610 --> 00:00:56,570
+¿Por qué sigues luchando solo?
+
+13
+00:00:56,990 --> 00:00:59,870
+Oye, ¿para qué futuro te has preparado?
+
+14
+00:00:59,870 --> 00:01:03,370
+Ya has cumplido tu sueño.
+
+15
+00:01:03,710 --> 00:01:07,380
+Mis sentimientos por ti palpitan intensamente.
+
+16
+00:01:07,380 --> 00:01:11,000
+Si lo que buscas...
+
+17
+00:01:11,000 --> 00:01:14,220
+...es tener un poder sin límites,
+
+18
+00:01:14,220 --> 00:01:16,550
+entonces muestra nuestros vínculos inmutables.
+
+19
+00:01:16,550 --> 00:01:17,800
+Somos la esperanza.
+
+20
+00:01:18,050 --> 00:01:20,850
+En los confines de este enorme mundo azul,
+
+21
+00:01:21,470 --> 00:01:23,890
+hay un lugar al que quiero ir contigo.
+
+22
+00:01:23,890 --> 00:01:26,640
+Si hay una ruta para llegar allí,
+
+23
+00:01:26,640 --> 00:01:33,280
+ya lo decidimos hace mucho tiempo.
+
+24
+00:01:34,310 --> 00:01:36,650
+El honor de una mujer
+
+25
 00:01:44,730 --> 00:01:48,870
 SWEET CITY 
 JUICE RIVER
 
-3
+26
 00:01:44,730 --> 00:01:48,870
 Mola
 
-4
+27
 00:01:44,730 --> 00:01:48,870
 Shi
 
-5
+28
 00:01:44,730 --> 00:01:48,870
 Chibukai
 
-6
+29
 00:01:44,730 --> 00:01:48,870
 Fansub!
 
-7
+30
 00:01:44,730 --> 00:01:48,870
 Río de jugo.
 
-8
+31
 00:02:34,400 --> 00:02:37,440
 COSTA SUROESTE
 
-9
+32
 00:02:34,400 --> 00:02:37,440
 BOSQUE SEDUCTOR
 
-10
+33
 00:07:37,170 --> 00:07:40,150
 Mola
 
-11
+34
 00:07:37,170 --> 00:07:40,150
 Shi
 
-12
+35
 00:07:37,170 --> 00:07:40,150
 Chibukai
 
-13
+36
 00:07:37,170 --> 00:07:40,150
 Fansub!
 
-14
+37
 00:07:37,170 --> 00:07:40,150
 Ola de lanzas.
 
-15
+38
 00:08:01,180 --> 00:08:02,970
 MOBILE
 
-16
+39
 00:08:02,720 --> 00:08:04,470
 KATO
 
-17
+40
 00:08:04,220 --> 00:08:06,730
 COMPO
 
-18
+41
 00:08:06,480 --> 00:08:08,480
 LAURIN
 
-19
+42
 00:08:08,230 --> 00:08:10,730
 TABLET
 
-20
+43
 00:08:10,480 --> 00:08:12,190
 HIGH-FAT
 
-21
+44
 00:10:30,520 --> 00:10:31,640
 ¡Sí!
 
-22
+45
 00:12:49,070 --> 00:12:52,120
 Mola
 
-23
+46
 00:12:49,070 --> 00:12:52,120
 Shi
 
-24
+47
 00:12:49,070 --> 00:12:52,120
 Chibukai
 
-25
+48
 00:12:49,070 --> 00:12:52,120
 Fansub!
 
-26
+49
 00:12:49,070 --> 00:12:52,120
 Brisa de Zeus.
 
-27
+50
 00:15:35,110 --> 00:15:36,400
 ¡¿Vas a ir?!
 
-28
+51
 00:15:36,400 --> 00:15:37,570
 ¡No bromees!
 
-29
+52
 00:15:37,570 --> 00:15:38,620
 ¡Bege!
 
-30
+53
 00:15:38,620 --> 00:15:39,780
 ¡¿No te lo dije?!
 
-31
+54
 00:15:39,780 --> 00:15:43,660
 ¡Los Sombrero de Paja salvaron la 
 vida de Lola, mi hermana menor!
 
-32
+55
 00:15:43,660 --> 00:15:45,810
 ¡Pero es peligroso, Chiffon!
 
-33
+56
 00:15:45,810 --> 00:15:47,000
 ¡Me preocupas!
 
-34
+57
 00:15:47,000 --> 00:15:48,160
 ¡Así es-rero!
 
-35
+58
 00:15:48,160 --> 00:15:50,540
 ¡Escapemos juntos-rero!
 
-36
+59
 00:15:50,540 --> 00:15:52,540
 ¡Disculpa, hablé muy fuerte!
 
-37
+60
 00:15:52,540 --> 00:15:55,420
 ¡No podemos irnos sin usted, señora!
 
-38
+61
 00:15:55,420 --> 00:15:56,920
 ¡Vuelve, Chiffon!
 
-39
+62
 00:15:56,920 --> 00:15:58,440
 ¡¿Peligroso?!
 
-40
+63
 00:15:58,440 --> 00:16:00,600
 ¡Eso lo sé muy bien!
 
-41
+64
 00:16:03,580 --> 00:16:06,460
 "Gracias por salvar a Lola".
 
-42
+65
 00:16:06,460 --> 00:16:08,670
 ¡Es fácil decirlo!
 
-43
+66
 00:16:08,670 --> 00:16:13,690
 ¡Cuando la persona con la que estás en deuda tiene problemas,
  es cuando se demuestra el peso de tus palabras!
 
-44
+67
 00:16:14,440 --> 00:16:16,570
 Es verdad, pero...
 
-45
+68
 00:16:16,570 --> 00:16:22,280
 ¡Eso es cumplir con tu deber, ¿no, querido?!
 
-46
+69
 00:16:24,250 --> 00:16:26,330
 ¡Si algo me pasa,
 
-47
+70
 00:16:29,530 --> 00:16:31,560
 por favor, cuiden...
 
-48
+71
 00:16:31,560 --> 00:16:32,790
 ...a Pez!
 
-49
+72
 00:16:39,220 --> 00:16:41,170
 ¡Chiffon!
 
-50
+73
 00:16:41,970 --> 00:16:44,430
 ¡Señora!
 
-51
-00:16:41,970 --> 00:16:44,430
-¡Señora!
-
-52
+74
 00:22:55,900 --> 00:22:58,640
 ¡Cómo cambia de personalidad!
 
-53
-00:22:55,900 --> 00:22:58,640
-¡Cómo cambia de personalidad!
-
-54
+75
 00:24:07,570 --> 00:24:09,150
 ¡Sí!
 
-55
+76
 00:26:33,370 --> 00:26:36,700
 Mola
 
-56
+77
 00:26:33,370 --> 00:26:36,700
 Shi
 
-57
+78
 00:26:33,370 --> 00:26:36,700
 Chibukai
 
-58
+79
 00:26:33,370 --> 00:26:36,700
 Fansub!
 
-59
+80
 00:26:33,370 --> 00:26:36,700
 Filamento de recuerdos.
 
-60
+81
 00:26:43,450 --> 00:26:46,120
 Mola
 
-61
+82
 00:26:43,450 --> 00:26:46,120
 Shi
 
-62
+83
 00:26:43,450 --> 00:26:46,120
 Chibukai
 
-63
+84
 00:26:43,450 --> 00:26:46,120
 Fansub!
 
-64
+85
 00:26:43,450 --> 00:26:46,120
 Retrospectiva.
-
-65
-00:00:01,980 --> 00:00:05,650
-Mis sentimientos por ti palpitan intensamente.
-
-66
-00:00:05,650 --> 00:00:09,280
-Si lo que buscas...
-
-67
-00:00:09,280 --> 00:00:12,490
-...es tener un poder sin límites,
-
-68
-00:00:12,490 --> 00:00:14,860
-entonces muestra nuestros vínculos inalterables.
-
-69
-00:00:14,860 --> 00:00:16,070
-Somos la esperanza.
-
-70
-00:00:22,580 --> 00:00:28,800
-La alegría de nuestros corazones colisionando...
-
-71
-00:00:29,460 --> 00:00:35,760
-...y la tristeza al secarse las lágrimas de alegría...
-
-72
-00:00:36,840 --> 00:00:43,350
-...conéctalas y ondéalas...
-
-73
-00:00:43,730 --> 00:00:50,230
-...en lo más alto de este viento.
-
-74
-00:00:50,230 --> 00:00:53,190
-¿Por qué dejaste de buscar?
-
-75
-00:00:53,610 --> 00:00:56,570
-¿Por qué sigues luchando solo?
-
-76
-00:00:56,990 --> 00:00:59,870
-Oye, ¿para qué futuro te has preparado?
-
-77
-00:00:59,870 --> 00:01:03,370
-Ya has cumplido tu sueño.
-
-78
-00:01:03,710 --> 00:01:07,380
-Mis sentimientos por ti palpitan intensamente.
-
-79
-00:01:07,380 --> 00:01:11,000
-Si lo que buscas...
-
-80
-00:01:11,000 --> 00:01:14,220
-...es tener un poder sin límites,
-
-81
-00:01:14,220 --> 00:01:16,550
-entonces muestra nuestros vínculos inmutables.
-
-82
-00:01:16,550 --> 00:01:17,800
-Somos la esperanza.
-
-83
-00:01:18,050 --> 00:01:20,850
-En los confines de este enorme mundo azul,
-
-84
-00:01:21,470 --> 00:01:23,890
-hay un lugar al que quiero ir contigo.
-
-85
-00:01:23,890 --> 00:01:26,640
-Si hay una ruta para llegar allí,
-
-86
-00:01:26,640 --> 00:01:33,280
-ya lo decidimos hace mucho tiempo.

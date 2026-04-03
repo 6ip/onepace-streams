@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -547,16 +547,16 @@ Ayúdame.
 ¡Tú eres mi compañera!
 
 137
-00:26:42,660 --> 00:26:47,520
-Esta es la Isla Kenzan en el Grand Line, Reino Teena Gaina.
-
-138
 00:26:42,550 --> 00:26:47,480
 GRAND LINE
 
-139
+138
 00:26:42,550 --> 00:26:47,480
 ISLA KENZAN - REINO TEENA GAINA
+
+139
+00:26:42,660 --> 00:26:47,520
+Esta es la Isla Kenzan en el Grand Line, Reino Teena Gaina.
 
 140
 00:27:20,340 --> 00:27:22,840
@@ -968,89 +968,85 @@ Chicos...
 ¡Luffy!
 
 240
-00:57:33,700 --> 00:57:35,260
-¡Luffy!
-
-241
 00:58:18,990 --> 00:58:24,770
 Reuniendo todos nuestros sueños,
 
-242
+241
 00:58:24,490 --> 00:58:30,570
 partimos en busca de aquello que deseamos.
 
-243
+242
 00:58:30,380 --> 00:58:32,010
 ¡One Piece!
 
-244
+243
 00:58:36,510 --> 00:58:41,820
 Objetos como una brújula sólo nos retrasan,
 
-245
+244
 00:58:42,180 --> 00:58:47,440
 llenos de entusiasmo, tomamos el timón.
 
-246
+245
 00:58:47,890 --> 00:58:53,500
 ¡Incluso un polvoriento mapa del tesoro,
 
-247
+246
 00:58:53,230 --> 00:58:59,100
 no será una leyenda si lo comprobamos!
 
-248
+247
 00:58:59,990 --> 00:59:06,160
 En tus propias tempestades...
 
-249
+248
 00:59:05,790 --> 00:59:11,470
 ...súbete al biorritmo de alguien.
 
-250
+249
 00:59:11,080 --> 00:59:13,370
 ¡Está bien pensar en ellos!
 
-251
+250
 00:59:14,670 --> 00:59:20,560
 Reuniendo todos nuestros sueños,
 
-252
+251
 00:59:20,220 --> 00:59:26,090
 partimos en busca de aquello que deseamos.
 
-253
+252
 00:59:25,930 --> 00:59:28,910
 Con una moneda en el bolsillo, dime:
 
-254
+253
 00:59:28,610 --> 00:59:32,270
 ¿quieres ser mi amigo?
 
-255
+254
 00:59:32,230 --> 00:59:37,290
 ¡Estamos, estamos en una travesía!
 
-256
+255
 00:59:37,480 --> 00:59:38,900
 ¡Estamos!
 
-257
-00:59:57,380 --> 00:59:58,800
-¡Estamos!
-
-258
+256
 00:59:43,220 --> 00:59:45,850
 ¡Zoro, Usopp, Sanji,
 
-259
+257
 00:59:45,850 --> 00:59:47,500
 Nami, Chopper,
 
-260
+258
 00:59:47,500 --> 00:59:49,560
 Robin, Franky, Brook,
 
-261
+259
 00:59:50,050 --> 00:59:52,530
 Ace y Sabo!
+
+260
+00:59:57,380 --> 00:59:58,800
+¡Estamos!

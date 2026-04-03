@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -360,16 +360,16 @@ Puño de cinco mil tejas.
 ¡No los dejen pasar!
 
 90
-00:25:17,550 --> 00:25:21,890
-NIVEL UNO DE LA GRAN PRISIÓN IMPEL DOWN
+00:25:17,510 --> 00:25:18,750
+¡Deprisa!
 
 91
 00:25:17,550 --> 00:25:21,890
-INFIERNO CARMESÍ
+NIVEL UNO DE LA GRAN PRISIÓN IMPEL DOWN
 
 92
-00:25:17,510 --> 00:25:18,750
-¡Deprisa!
+00:25:17,550 --> 00:25:21,890
+INFIERNO CARMESÍ
 
 93
 00:25:18,750 --> 00:25:21,910

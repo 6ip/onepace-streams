@@ -1,483 +1,487 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:18,500 --> 00:00:22,140
+Partamos antes del amanecer,
+
+3
+00:00:22,140 --> 00:00:26,870
+para encontrar un mañana desconocido.
+
+4
+00:00:26,870 --> 00:00:30,300
+Estoy convencido, y no me arrepiento.
+
+5
+00:00:30,310 --> 00:00:33,350
+(Oh, sé lo que tengo que hacer).
+
+6
+00:00:33,350 --> 00:00:37,040
+No importan los retos que se pongan en nuestro camino,
+
+7
+00:00:37,040 --> 00:00:41,640
+nada puede parar el latido de nuestros corazones.
+
+8
+00:00:41,640 --> 00:00:46,360
+Sólo hay un sitio al que todos apuntamos.
+
+9
+00:00:46,360 --> 00:00:48,250
+(Vuelen hacia la luz).
+
+10
+00:00:48,260 --> 00:00:52,000
+Los lazos que creamos al final de la batalla,
+
+11
+00:00:52,000 --> 00:00:55,670
+no dejaré que nadie los dañe.
+
+12
+00:00:55,670 --> 00:00:58,470
+Si abrimos nuestros puños apretados,
+
+13
+00:00:58,470 --> 00:01:01,710
+encontraremos fuerza en ellos.
+
+14
+00:01:01,710 --> 00:01:04,100
+¡Así que empecemos!
+
+15
+00:01:04,100 --> 00:01:09,280
+Un mundo nuevo nos espera.
+
+16
+00:01:09,280 --> 00:01:11,640
+¡Miren, observen!
+
+17
+00:01:11,650 --> 00:01:18,020
+Aunque entre nosotros haya infinitos mares,
+
+18
+00:01:18,020 --> 00:01:21,790
+seguiremos apoyándonos unos a otros.
+
+19
+00:01:21,790 --> 00:01:25,460
+Avancemos sin ningún miedo.
+
+20
+00:01:25,460 --> 00:01:27,820
+No lo olviden,
+
+21
+00:01:27,820 --> 00:01:29,190
+luchamos juntos.
+
+22
+00:01:29,190 --> 00:01:37,110
+Está impecable...
+
+23
+00:01:37,110 --> 00:01:39,870
+...aquel inmenso y lejano cielo...
+
+24
+00:01:39,870 --> 00:01:44,990
+...hacia el que mirábamos ese día.
+
+25
+00:01:45,010 --> 00:01:48,450
+Hemos recorrido un largo camino,
+
+26
+00:01:48,450 --> 00:01:52,380
+apoyándonos en los propósitos de nuestros corazones.
+
+27
+00:01:52,390 --> 00:01:54,990
+No tenemos miedo.
+
+28
+00:01:54,990 --> 00:01:59,530
+Todos tenemos cargas que soportar.
+
+29
+00:01:59,530 --> 00:02:01,870
+El sol sale,
+
+30
+00:02:01,870 --> 00:02:06,810
+e ilumina todo, incluso mi tristeza.
+
+31
+00:02:06,840 --> 00:02:09,210
+Y creo...
+
+32
+00:02:09,210 --> 00:02:15,680
+...en el futuro donde nos encontramos y somos uno.
+
+33
+00:02:15,680 --> 00:02:19,270
+Vayamos a encontrarlo todos juntos.
+
+34
+00:02:19,270 --> 00:02:23,160
+No hay nadie que pueda sustituirlos.
+
+35
+00:02:23,160 --> 00:02:25,210
+No lo olviden,
+
+36
+00:02:25,210 --> 00:02:27,630
+luchamos juntos.
+
+37
+00:02:45,160 --> 00:02:52,830
+Un futuro tenebroso
+
+38
 00:04:24,490 --> 00:04:31,080
 Siete barcos navegan en aguas cercanas.
 
-3
+39
 00:04:31,080 --> 00:04:34,250
 Aquellos que cargan el peso de
  una nueva era para los piratas,
 
-4
+40
 00:04:34,250 --> 00:04:39,320
 no pasaron por alto este 
 cambio crítico en la historia.
 
-5
+41
 00:04:39,320 --> 00:04:42,290
 Observan detenidamente los restos 
 de la guerra de Marineford,
 
-6
+42
 00:04:42,290 --> 00:04:45,870
 el lugar que fuera ejemplo de autoridad durante la Gran Era de la Piratería...
 
-7
+43
 00:04:45,870 --> 00:04:50,240
 ...mientras sienten fluyendo por sus cuerpos el frenesí de este cambio de era.
 
-8
+44
 00:07:16,200 --> 00:07:19,440
 La noticia de la victoria de la Marina en la Gran Guerra de Marineford,
 
-9
+45
 00:07:19,440 --> 00:07:22,720
 la más grande batalla desde los 
 inicios de la Gran Era de la Piratería,
 
-10
+46
 00:07:22,720 --> 00:07:25,770
 se difundió por todo el mundo en un abrir y cerrar de ojos,
 
-11
+47
 00:07:25,770 --> 00:07:28,630
 y en todas partes resonaban voces de alegría.
 
-12
+48
 00:07:28,630 --> 00:07:31,630
 EAST BLUE
 
-13
+49
 00:07:28,630 --> 00:07:30,250
 En el East Blue...
 
-14
+50
 00:07:37,050 --> 00:07:39,030
 ¡Me siento tan aliviada!
 
-15
+51
 00:07:39,240 --> 00:07:41,020
 En el West Blue...
 
-16
+52
 00:07:39,240 --> 00:07:41,910
 WEST BLUE
 
-17
+53
 00:07:46,610 --> 00:07:49,250
 SOUTH BLUE
 
-18
+54
 00:07:47,050 --> 00:07:48,090
 En el South Blue...
 
-19
+55
 00:07:55,090 --> 00:07:58,360
 En el North Blue...
 
-20
+56
 00:07:55,090 --> 00:07:57,960
 NORTH BLUE
 
-21
+57
 00:08:04,990 --> 00:08:07,900
 GRAND LINE
 
-22
+58
 00:08:05,120 --> 00:08:06,780
 En el Grand Line...
 
-23
+59
 00:08:18,740 --> 00:08:22,290
 Y como siempre pasa con toda historia,
 
-24
+60
 00:08:22,290 --> 00:08:25,430
 cuanto más viajaba la información, 
 menos detalles se daban.
 
-25
+61
 00:08:25,430 --> 00:08:30,140
 "La victoria de la Marina", estas cinco palabras bailan sobre la brisa marina.
 
-26
+62
 00:08:30,140 --> 00:08:35,390
 Mientras el mundo estaba agitado por este gran evento, la gente no se daba cuenta...
 
-27
+63
 00:08:52,130 --> 00:08:55,980
 ¡Sí!
 
-28
+64
 00:09:04,640 --> 00:09:07,260
 "La victoria de la Marina".
 
-29
+65
 00:09:07,260 --> 00:09:13,130
 Este desenlace no traerá precisamente la paz.
 
-30
+66
 00:09:07,710 --> 00:09:10,600
 NUEVO MUNDO - ISLA FOODVALTEN
 
-31
+67
 00:09:23,580 --> 00:09:32,330
 Los mares se libraron de la amenaza de Barbablanca, por lo que las revueltas no tardaron en empezar.
 
-32
+68
 00:10:02,850 --> 00:10:04,120
 ¡Deja que le hablen así!
 
-33
+69
 00:10:06,720 --> 00:10:10,720
 CAPITÁN DE LOS PIRATAS HEART
 
-34
+70
 00:10:06,720 --> 00:10:10,720
 TRAFALGAR LAW
 
-35
+71
 00:15:07,690 --> 00:15:12,010
 GRAN PRISIÓN SUBMARINA - IMPEL DOWN
 
-36
+72
 00:15:12,560 --> 00:15:18,080
 NIVEL 6
 
-37
+73
 00:15:13,150 --> 00:15:15,180
 Buenos días,
 
-38
+74
 00:15:15,180 --> 00:15:20,530
 presos infelices que morirán entre
  estas rejas sin cumplir sus sueños.
 
-39
+75
 00:15:20,530 --> 00:15:23,160
 No tienen otra cosa que hacer más que esperar la muerte.
 
-40
+76
 00:15:23,160 --> 00:15:28,340
 ¿Qué les parece? ¿Por qué no se matan entre ustedes dentro de esas jaulas?
 
-41
+77
 00:15:29,730 --> 00:15:35,480
 ¡Liberaré a los que sobrevivan y los haré mis subordinados!
 
-42
+78
 00:15:35,480 --> 00:15:36,860
 ¡¿Lo dices en serio?!
 
-43
+79
 00:15:36,860 --> 00:15:38,220
 ¡Sácame de aquí!
 
-44
+80
 00:15:38,220 --> 00:15:39,570
 ¡Me convertiré en tu subordinado!
 
-45
+81
 00:18:03,060 --> 00:18:06,990
 WEST BLUE
 
-46
+82
 00:18:52,400 --> 00:18:55,240
 Los piratas han invadido Lascamp.
 
-47
+83
 00:18:55,240 --> 00:18:57,040
 Se ha perdido la comunicación con dicho lugar.
 
-48
+84
 00:18:57,040 --> 00:19:00,320
 ¡Envíen refuerzos de inmediato! ¡Repito: Envíen refuerzos de inmediato a Lascamp!
 
-49
+85
 00:19:07,250 --> 00:19:09,530
 ¡Sí!
 
-50
+86
 00:19:10,660 --> 00:19:16,650
 NUEVO MUNDO - ISLA FOODVALTEN
 
-51
+87
 00:19:12,200 --> 00:19:15,230
 Apenas dos semanas después de la Gran Guerra,
 
-52
+88
 00:19:15,230 --> 00:19:19,390
 se empiezan a desencadenar las consecuencias 
 de la misma en todo el mundo.
 
-53
+89
 00:19:23,560 --> 00:19:27,550
 ¡N-No den ni un paso más! ¡No entren a la ciudad!
 
-54
+90
 00:20:20,890 --> 00:20:25,390
 La Gran Guerra que finalizó con la muerte de Barbablanca y la victoria de la Marina,
 
-55
+91
 00:20:25,390 --> 00:20:32,530
 contrario a lo esperado por la Marina, generó revueltas en distintos rincones del mundo.
 
-56
+92
 00:20:34,570 --> 00:20:36,490
 Volviendo un par de días en el tiempo...
 
-57
+93
 00:20:36,490 --> 00:20:39,250
 Para esconder a Luffy, quien 
 todavía no despertaba, del Gobierno,
 
-58
+94
 00:20:39,250 --> 00:20:42,600
 Hancock, Jinbe y los demás se reunieron en el barco de las Piratas Kuja...
 
-59
+95
 00:20:42,600 --> 00:20:45,990
 ...para trasladar a Luffy a la Isla de las Mujeres.
 
-60
+96
 00:22:11,030 --> 00:22:15,530
 ¡Al templo Newkama, nuestra tierra prometida!
 
-61
+97
 00:22:25,280 --> 00:22:26,690
 Y, a partir de eso, pasan dos semanas...
 
-62
+98
 00:22:27,460 --> 00:22:30,350
 La tripulación de Law que está tratando a Luffy...
 
-63
+99
 00:22:30,350 --> 00:22:33,600
 ...ancló en la bahía de la Isla de las Mujeres.
 
-64
+100
 00:23:19,330 --> 00:23:22,170
 ¡Qué problema, es incontrolable!
 
-65
+101
 00:23:32,790 --> 00:23:33,850
 ¡¿Luffy-sama?!
 
-66
+102
 00:24:15,130 --> 00:24:16,960
 ¡Sí, con mucho gusto!
 
-67
+103
 00:24:21,220 --> 00:24:23,470
 ¡Sí, Princesa Serpiente!
 
-68
+104
 00:24:59,090 --> 00:25:03,130
 Aun así, Impel Down y luego el Cuartel General de la Marina...
 
-69
+105
 00:25:03,130 --> 00:25:06,700
 Una simple hormiga se metió en 
 medio de una tormenta gigantesca...
 
-70
+106
 00:25:06,700 --> 00:25:09,470
 ...y regresó con vida.
 
-71
+107
 00:25:09,470 --> 00:25:11,660
 Es un completo milagro...
 
-72
+108
 00:25:11,660 --> 00:25:16,840
 ¿Qué tendrán los dioses preparado para él?
 
-73
+109
 00:25:56,310 --> 00:25:57,550
 ¡Es una isla de mujeres!
 
-74
+110
 00:27:03,180 --> 00:27:06,500
 Lo siento... Luffy...
 
-75
+111
 00:27:10,510 --> 00:27:13,820
 Pero no me dejé rescatar fácilmente...
 
-76
+112
 00:27:27,390 --> 00:27:28,760
 ¡Luffy!
 
-77
+113
 00:28:21,700 --> 00:28:24,530
 Si llego a morir...
 
-78
+114
 00:28:25,220 --> 00:28:30,350
 Disculpa por pedírtelo, pero, 
 por favor, cuida de mi hermano...
 
-79
+115
 00:29:26,040 --> 00:29:29,380
 Dime, abuelo, ¿quién es ese Ace?
 
-80
+116
 00:29:29,380 --> 00:29:32,850
 Verás...
 
-81
+117
 00:29:32,850 --> 00:29:36,960
 Será tu hermano mayor a partir de ahora.
 
-82
+118
 00:29:37,990 --> 00:29:42,860
 Luffy, la próxima vez que nos veamos
  será en la Cumbre de los Piratas.
 
-83
+119
 00:29:42,860 --> 00:29:45,660
 ¡Ven hasta la cima!
-
-84
-00:00:18,500 --> 00:00:22,140
-Partamos antes del amanecer,
-
-85
-00:00:22,140 --> 00:00:26,870
-para encontrar un mañana desconocido.
-
-86
-00:00:26,870 --> 00:00:30,300
-Estoy convencido, y no me arrepiento.
-
-87
-00:00:30,310 --> 00:00:33,350
-(Oh, sé lo que tengo que hacer).
-
-88
-00:00:33,350 --> 00:00:37,040
-No importan los retos que se pongan en nuestro camino,
-
-89
-00:00:37,040 --> 00:00:41,640
-nada puede parar el latido de nuestros corazones.
-
-90
-00:00:41,640 --> 00:00:46,360
-Sólo hay un sitio al que todos apuntamos.
-
-91
-00:00:46,360 --> 00:00:48,250
-(Vuelen hacia la luz).
-
-92
-00:00:48,260 --> 00:00:52,000
-Los lazos que creamos al final de la batalla,
-
-93
-00:00:52,000 --> 00:00:55,670
-no dejaré que nadie los dañe.
-
-94
-00:00:55,670 --> 00:00:58,470
-Si abrimos nuestros puños apretados,
-
-95
-00:00:58,470 --> 00:01:01,710
-encontraremos fuerza en ellos.
-
-96
-00:01:01,710 --> 00:01:04,100
-¡Así que empecemos!
-
-97
-00:01:04,100 --> 00:01:09,280
-Un mundo nuevo nos espera.
-
-98
-00:01:09,280 --> 00:01:11,640
-¡Miren, observen!
-
-99
-00:01:11,650 --> 00:01:18,020
-Aunque entre nosotros haya infinitos mares,
-
-100
-00:01:18,020 --> 00:01:21,790
-seguiremos apoyándonos unos a otros.
-
-101
-00:01:21,790 --> 00:01:25,460
-Avancemos sin ningún miedo.
-
-102
-00:01:25,460 --> 00:01:27,820
-No lo olviden,
-
-103
-00:01:27,820 --> 00:01:29,190
-luchamos juntos.
-
-104
-00:01:29,190 --> 00:01:37,110
-Está impecable...
-
-105
-00:01:37,110 --> 00:01:39,870
-...aquel inmenso y lejano cielo...
-
-106
-00:01:39,870 --> 00:01:44,990
-...hacia el que mirábamos ese día.
-
-107
-00:01:45,010 --> 00:01:48,450
-Hemos recorrido un largo camino,
-
-108
-00:01:48,450 --> 00:01:52,380
-apoyándonos en los propósitos de nuestros corazones.
-
-109
-00:01:52,390 --> 00:01:54,990
-No tenemos miedo.
-
-110
-00:01:54,990 --> 00:01:59,530
-Todos tenemos cargas que soportar.
-
-111
-00:01:59,530 --> 00:02:01,870
-El sol sale,
-
-112
-00:02:01,870 --> 00:02:06,810
-e ilumina todo, incluso mi tristeza.
-
-113
-00:02:06,840 --> 00:02:09,210
-Y creo...
-
-114
-00:02:09,210 --> 00:02:15,680
-...en el futuro donde nos encontramos y somos uno.
-
-115
-00:02:15,680 --> 00:02:19,270
-Vayamos a encontrarlo todos juntos.
-
-116
-00:02:19,270 --> 00:02:23,160
-No hay nadie que pueda sustituirlos.
-
-117
-00:02:23,160 --> 00:02:25,210
-No lo olviden,
-
-118
-00:02:25,210 --> 00:02:27,630
-luchamos juntos.

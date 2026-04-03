@@ -1,358 +1,378 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:05,600 --> 00:00:09,050
+¡Sí, tenemos superpoderes!
+
+3
+00:00:11,060 --> 00:00:14,510
+¡Sí, tenemos superpoderes!
+
+4
+00:00:16,440 --> 00:00:19,890
+¡Sí, tenemos superpoderes!
+
+5
+00:00:21,980 --> 00:00:25,320
+¡Sí, tenemos superpoderes!
+
+6
+00:00:25,320 --> 00:00:28,000
+Tu sueño es de un tamaño monstruoso.
+
+7
+00:00:28,000 --> 00:00:30,710
+Cuando se rompa la prisión de tu pecho...
+
+8
+00:00:30,710 --> 00:00:33,220
+...adéntrate al paraíso...
+
+9
+00:00:33,220 --> 00:00:35,040
+...que lleva escrito "vete al infierno".
+
+10
+00:00:35,040 --> 00:00:36,000
+En todo momento...
+
+11
+00:00:36,000 --> 00:00:37,750
+¡Peligroso, peligroso!
+
+12
+00:00:37,750 --> 00:00:38,610
+¡Nos gusta!
+
+13
+00:00:38,610 --> 00:00:40,660
+¡Grave, grave!
+
+14
+00:00:40,660 --> 00:00:41,710
+¡Oh!
+
+15
+00:00:41,710 --> 00:00:45,900
+Este sueño malherido algún día...
+
+16
+00:00:45,900 --> 00:00:51,310
+...se convertirá en uno de mis valiosos tesoros.
+
+17
+00:00:51,310 --> 00:00:55,070
+Un extraño entusiasmo une a los compañeros.
+
+18
+00:00:55,070 --> 00:01:00,670
+¿Vivir plenamente es una aventura?
+
+19
+00:01:00,670 --> 00:01:03,100
+¡Sí, tenemos superpoderes!
+
+20
+00:01:03,100 --> 00:01:08,820
+Confiemos en el mayor de los sueños y en los lazos con los rivales.
+
+21
+00:01:08,820 --> 00:01:11,630
+Fallar también tiene su encanto.
+
+22
+00:01:11,630 --> 00:01:14,570
+¡Sí, tenemos superpoderes!
+
+23
+00:01:16,410 --> 00:01:19,740
+¡Sí, somos superpoderosos!
+
+24
+00:01:21,880 --> 00:01:25,160
+¡Sí, somos superpoderosos!
+
+25
+00:01:27,330 --> 00:01:30,660
+¡Sí, somos superpoderosos!
+
+26
+00:01:32,750 --> 00:01:36,160
+¡Sí, somos superpoderosos!
+
+27
+00:01:38,330 --> 00:01:43,440
+Sin salida
+
+28
 00:06:46,640 --> 00:06:49,640
 Mola
 
-3
+29
 00:06:46,640 --> 00:06:49,640
 Shi
 
-4
+30
 00:06:46,640 --> 00:06:49,640
 Chibukai
 
-5
+31
 00:06:46,640 --> 00:06:49,640
 Fansub!
 
-6
+32
 00:06:46,640 --> 00:06:49,640
 Babosa de mar dulce.
 
-7
+33
 00:07:58,980 --> 00:08:02,990
 WHOLE CAKE ISLAND
 
-8
+34
 00:08:15,600 --> 00:08:19,420
 MAR DE TOTTO LAND
 
-9
+35
 00:09:04,740 --> 00:09:08,220
 POUND
 
-10
+36
 00:09:04,740 --> 00:09:08,220
 EL PADRE DE CHIFFON Y LOLA
 
-11
+37
 00:10:02,390 --> 00:10:05,090
 ¡Ah, qué amable!
 
-12
+38
 00:10:05,090 --> 00:10:07,710
 ¡Se preocupa por mí!
 
-13
+39
 00:10:26,180 --> 00:10:30,150
 MIRRO WORLD
 
-14
+40
 00:14:00,560 --> 00:14:04,190
 ¡El de Katakuri-sama es mucho más grande!
 
-15
+41
 00:14:40,500 --> 00:14:44,620
 ISLA CACAO
 
-16
+42
 00:15:24,600 --> 00:15:25,930
 Lo siento.
 
-17
+43
 00:15:25,930 --> 00:15:32,100
 Les dije que te obligaría
  a ayudarme con el pastel.
 
-18
+44
 00:15:32,100 --> 00:15:33,560
 No te preocupes, Pudding.
 
-19
+45
 00:15:33,560 --> 00:15:36,210
 Esa es mi posición actual.
 
-20
+46
 00:16:33,120 --> 00:16:38,130
 FÁBRICA DE DULCES - CHOCOLAT TOWN
 
-21
+47
 00:17:15,920 --> 00:17:17,670
 ¡Pudding-sama!
 
-22
+48
 00:17:53,420 --> 00:17:54,240
 ¡Sí!
 
-23
+49
 00:17:59,720 --> 00:18:00,460
 ¡Sí!
 
-24
+50
 00:18:00,460 --> 00:18:01,860
 ¡Entendido!
 
-25
+51
 00:18:01,860 --> 00:18:04,250
 ¡Pudding-sama!
 
-26
+52
 00:18:11,510 --> 00:18:14,070
 Así no verán a Sanji-san...
 
-27
+53
 00:18:14,070 --> 00:18:18,050
 ¡Ahora debo encargarme de los que
  nos ayudarán en la preparación!
 
-28
+54
 00:18:54,050 --> 00:18:58,630
 DENTRO DE LA FÁBRICA
 
-29
+55
 00:19:15,580 --> 00:19:17,040
 ¡¿En serio?!
 
-30
+56
 00:19:23,490 --> 00:19:27,970
 ¡Pudding-chan se ve 
 tan linda vestida de chef!
 
-31
+57
 00:21:09,440 --> 00:21:10,380
 ¡¿Eh?!
 
-32
+58
 00:21:10,380 --> 00:21:12,800
 Me dijo "oye" de repente...
 
-33
+59
 00:21:12,800 --> 00:21:16,560
 Tal vez no estaría mal
  tener un esposo mandón.
 
-34
+60
 00:21:16,560 --> 00:21:19,730
 No, pero el inicio 
 es lo importante.
 
-35
+61
 00:22:54,380 --> 00:22:56,870
 ¡Por los salvadores de Lola!
 
-36
+62
 00:22:57,920 --> 00:22:59,970
 ¡Por Sanji-san!
 
-37
+63
 00:22:59,970 --> 00:23:06,230
 ¡Prepararé un esponjoso pastel 
 chifón que llegará hasta el cielo!
 
-38
+64
 00:23:06,230 --> 00:23:09,440
 ¡Para que Sanji-san
  y los demás escapen!
 
-39
+65
 00:23:09,440 --> 00:23:12,860
 ¡Prepararé mi chocolate extradulce!
 
-40
+66
 00:23:13,640 --> 00:23:16,650
 ¡Resistan, chicos!
 
-41
+67
 00:23:17,650 --> 00:23:19,770
 ¡Les mostraré!
 
-42
+68
 00:23:19,770 --> 00:23:22,270
 ¡Mi cocina agresiva!
 
-43
+69
 00:23:25,690 --> 00:23:29,100
 MIRRO WORLD
 
-44
+70
 00:23:26,700 --> 00:23:29,100
 Katakuri, soy yo.
 
-45
+71
 00:23:31,930 --> 00:23:33,650
 A duras penas.
 
-46
+72
 00:23:33,650 --> 00:23:37,420
 ¡Qué final más patético!
 
-47
+73
 00:23:37,420 --> 00:23:40,250
 La de ese Pedro.
 
-48
+74
 00:23:40,250 --> 00:23:41,600
 ¡Sombrero de Paja!
 
-49
+75
 00:23:41,600 --> 00:23:43,640
 Tú también lo viste, ¿no?
 
-50
+76
 00:23:45,910 --> 00:23:52,140
 Intentó llevarme al otro mundo con él,
 
-51
+77
 00:23:55,900 --> 00:23:58,990
 ¡Quiere decir que murió en vano!
 
-52
+78
 00:23:58,990 --> 00:23:59,730
 ¡¿Verdad?!
 
-53
+79
 00:23:59,730 --> 00:24:04,450
 Tú también morirás en vano, como Pedro.
 
-54
+80
 00:24:04,450 --> 00:24:08,150
 ¿Por qué no te mueres de una vez-lamida?
 
-55
+81
 00:24:10,670 --> 00:24:13,190
 Parece mentira,
 
-56
+82
 00:24:13,190 --> 00:24:15,520
 pero su barco salió volando y
  escaparon de nuestro sitiado.
 
-57
+83
 00:24:56,260 --> 00:25:01,500
 HIJO 34° DE LA
  FAMILIA CHARLOTTE
 
-58
+
+
+
+
+
+
+MASCARPONE
+
+84
 00:24:56,260 --> 00:25:01,500
 HIJA 29ª DE LA
  FAMILIA CHARLOTTE
 
-59
+
+
+
+
+
+
+JOSCARPONE
+
+85
 00:25:30,090 --> 00:25:31,410
 ¡Merecido lo tienes!
 
-60
+86
 00:25:41,940 --> 00:25:43,400
 ¡De acuerdo!
 
-61
+87
 00:26:49,020 --> 00:26:53,580
 EN EL MAR DE TOTTO LAND
 
-62
+88
 00:28:02,560 --> 00:28:03,690
 ¿Eh?
-
-63
-00:00:05,600 --> 00:00:09,050
-¡Sí, tenemos superpoderes!
-
-64
-00:00:11,060 --> 00:00:14,510
-¡Sí, tenemos superpoderes!
-
-65
-00:00:16,440 --> 00:00:19,890
-¡Sí, tenemos superpoderes!
-
-66
-00:00:21,980 --> 00:00:25,320
-¡Sí, tenemos superpoderes!
-
-67
-00:00:25,320 --> 00:00:28,000
-Tu sueño es de un tamaño monstruoso.
-
-68
-00:00:28,000 --> 00:00:30,710
-Cuando se rompa la prisión de tu pecho...
-
-69
-00:00:30,710 --> 00:00:33,220
-...adéntrate al paraíso...
-
-70
-00:00:33,220 --> 00:00:35,040
-...que lleva escrito "vete al infierno".
-
-71
-00:00:35,040 --> 00:00:36,000
-En todo momento...
-
-72
-00:00:36,000 --> 00:00:37,750
-¡Peligroso, peligroso!
-
-73
-00:00:37,750 --> 00:00:38,610
-¡Nos gusta!
-
-74
-00:00:38,610 --> 00:00:40,660
-¡Grave, grave!
-
-75
-00:00:40,660 --> 00:00:41,710
-¡Oh!
-
-76
-00:00:41,710 --> 00:00:45,900
-Este sueño malherido algún día...
-
-77
-00:00:45,900 --> 00:00:51,310
-...se convertirá en uno de mis valiosos tesoros.
-
-78
-00:00:51,310 --> 00:00:55,070
-Un extraño entusiasmo une a los compañeros.
-
-79
-00:00:55,070 --> 00:01:00,670
-¿Vivir plenamente es una aventura?
-
-80
-00:01:00,670 --> 00:01:03,100
-¡Sí, tenemos superpoderes!
-
-81
-00:01:03,100 --> 00:01:08,820
-Confiemos en el mayor de los sueños y en los lazos con los rivales.
-
-82
-00:01:08,820 --> 00:01:11,630
-Fallar también tiene su encanto.
-
-83
-00:01:11,630 --> 00:01:14,570
-¡Sí, tenemos superpoderes!
-
-84
-00:01:16,410 --> 00:01:19,740
-¡Sí, somos superpoderosos!
-
-85
-00:01:21,880 --> 00:01:25,160
-¡Sí, somos superpoderosos!
-
-86
-00:01:27,330 --> 00:01:30,660
-¡Sí, somos superpoderosos!
-
-87
-00:01:32,750 --> 00:01:36,160
-¡Sí, somos superpoderosos!

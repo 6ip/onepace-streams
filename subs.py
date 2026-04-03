@@ -34,7 +34,7 @@ LANG_MAP = {
 # --- Conversion Tools ---
 _TIME_PATTERN = re.compile(r"(\d+):(\d{2}):(\d{2})\.(\d{2})")
 _ASS_TAG_PATTERN = re.compile(r"\{[^}]*\}")
-_SKIP_STYLES = ["sign", "song", "op ", "ed ", "karaoke", "title", "chapter", "credit", "eyecatch", "next ep", "preview"]
+_SKIP_STYLES = ["sign", "song", "op ", "ed ", "karaoke", "chapter", "credit", "eyecatch", "next ep", "preview"]
 
 def convert_time(t: str) -> str:
     match = _TIME_PATTERN.match(t)
@@ -70,29 +70,58 @@ def ass_to_srt(ass_content: str) -> str:
                         continue
                     dialogues.append(entry)
 
+    # --- NEW: Helper to calculate milliseconds for accurate sorting ---
+    def time_to_ms(t_str):
+        match = _TIME_PATTERN.match(t_str)
+        if match:
+            h, m, s, cs = match.groups()
+            return int(h) * 3600000 + int(m) * 60000 + int(s) * 1000 + int(cs) * 10
+        return 0
+
+    # --- NEW: Sort the dialogue chronologically so the SRT doesn't break ---
+    dialogues.sort(key=lambda x: time_to_ms(x.get("Start", "0:00:00.00")))
+
     srt_lines = [
         "1",
-        "00:00:00,000 --> 00:00:03,000",
+        "00:00:01,000 --> 00:00:04,000",
         r'{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>',
         r'Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>',
         ""
     ]
-    counter = 2  # Start the normal subtitles at 2
+    
+    counter = 2
+    last_times = ("", "")
+    seen_texts = set()
+
     for d in dialogues:
         start = d.get("Start", "0:00:00.00")
         end = d.get("End", "0:00:00.00")
         text = d.get("Text", "")
 
+        # Skip lines that are vector drawings (e.g., {\p1}m 848 508 l...)
+        if r"\p1" in text or r"\p2" in text or r"\p4" in text:
+            continue
+
         text = _ASS_TAG_PATTERN.sub("", text)
         text = text.replace("\\N", "\n").replace("\\n", "\n").strip()
+        
+        # --- NEW: Strip invisible bidirectional formatting characters (RLE, LRE, etc.)
+        # This prevents invisible characters from causing duplicates or showing up as "glitch boxes"
+        text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text)
 
-        if not text:
+        if not text or "mpv.io" in text.lower():
             continue
-            
-        # --- NEW: Filter out the MPV player warnings ---
-        # We check for "mpv.io" in case they didn't include the https:// part
-        if "mpv.io" in text.lower():
+
+        # --- NEW: Deduplication logic to merge identical multi-layered text ---
+        current_times = (start, end)
+        if current_times != last_times:
+            seen_texts.clear()
+            last_times = current_times
+        
+        # If we already printed this exact text at this exact timestamp, skip it
+        if text in seen_texts:
             continue
+        seen_texts.add(text)
 
         srt_lines.append(str(counter))
         srt_lines.append(f"{convert_time(start)} --> {convert_time(end)}")

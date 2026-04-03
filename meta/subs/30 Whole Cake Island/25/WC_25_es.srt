@@ -1,629 +1,533 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:02:38,560 --> 00:02:42,230
+Mis sentimientos por ti palpitan intensamente.
+
+3
+00:02:42,230 --> 00:02:45,860
+Si lo que buscas...
+
+4
+00:02:45,860 --> 00:02:49,070
+...es tener un poder sin límites,
+
+5
+00:02:49,070 --> 00:02:51,440
+entonces muestra nuestros vínculos inalterables.
+
+6
+00:02:51,440 --> 00:02:52,650
+Somos la esperanza.
+
+7
+00:02:59,160 --> 00:03:05,380
+La alegría de nuestros corazones colisionando...
+
+8
+00:03:06,040 --> 00:03:12,340
+...y la tristeza al secarse las lágrimas de alegría...
+
+9
+00:03:13,420 --> 00:03:19,930
+...conéctalas y ondéalas...
+
+10
+00:03:20,310 --> 00:03:26,810
+...en lo más alto de este viento.
+
+11
+00:03:26,810 --> 00:03:29,770
+¿Por qué dejaste de buscar?
+
+12
+00:03:30,190 --> 00:03:33,150
+¿Por qué sigues luchando solo?
+
+13
+00:03:33,570 --> 00:03:36,450
+Oye, ¿para qué futuro te has preparado?
+
+14
+00:03:36,450 --> 00:03:39,950
+Ya has cumplido tu sueño.
+
+15
+00:03:40,290 --> 00:03:43,960
+Mis sentimientos por ti palpitan intensamente.
+
+16
+00:03:43,960 --> 00:03:47,580
+Si lo que buscas...
+
+17
+00:03:47,580 --> 00:03:50,800
+...es tener un poder sin límites,
+
+18
+00:03:50,800 --> 00:03:53,130
+entonces muestra nuestros vínculos inmutables.
+
+19
+00:03:53,130 --> 00:03:54,380
+Somos la esperanza.
+
+20
+00:03:54,630 --> 00:03:57,430
+En los confines de este enorme mundo azul,
+
+21
+00:03:58,050 --> 00:04:00,470
+hay un lugar al que quiero ir contigo.
+
+22
+00:04:00,470 --> 00:04:03,220
+Si hay una ruta para llegar allí,
+
+23
+00:04:03,220 --> 00:04:09,860
+ya lo decidimos hace mucho tiempo.
+
+24
 00:04:37,660 --> 00:04:40,720
 Monkey D. Luffy...
 
-3
+25
 00:04:40,720 --> 00:04:43,800
 No te olvidaré.
 
-4
+26
 00:04:43,800 --> 00:04:46,970
 ¡Te estaré esperando en el Nuevo Mundo!
 
-5
+27
 00:04:48,930 --> 00:04:51,770
 ¡Claro, sólo espera!
 
-6
+28
 00:04:52,480 --> 00:04:56,900
 ¡Te patearé el trasero en el Nuevo Mundo...
 
-7
+29
 00:04:56,900 --> 00:05:00,570
 ...y haré que la Isla Gyojin 
 sea parte de mis dominios!
 
-8
+30
 00:05:10,080 --> 00:05:13,800
 Y tú eres la que no se convirtió 
 en el rey de los piratas.
 
-9
+31
 00:05:13,800 --> 00:05:16,340
 Eso es todo.
 
-10
+32
 00:05:16,340 --> 00:05:18,840
 ¡Volveré a desafiarte!
 
-11
+33
 00:05:18,840 --> 00:05:22,680
 ¡No seas tan arrogante por ser una Yonkou!
 
-12
+34
 00:05:22,680 --> 00:05:25,190
 ¡Recuperaré a Sanji!
 
-13
+35
 00:05:25,190 --> 00:05:29,020
 ¡Seremos nosotros quienes
  ganaremos al final!
 
-14
+36
+00:06:48,900 --> 00:06:54,630
+¡Vamos, Caesar!
+
+37
 00:08:35,560 --> 00:08:37,020
 ¡Black...
 
-15
-00:08:37,020 --> 00:08:38,980
-...Bug!
-
-16
+38
 00:08:35,560 --> 00:08:38,980
 Mola
 
-17
+39
 00:08:35,560 --> 00:08:38,980
 Shi
 
-18
+40
 00:08:35,560 --> 00:08:38,980
 Chibukai
 
-19
+41
 00:08:35,560 --> 00:08:38,980
 Fansub!
 
-20
+42
 00:08:35,560 --> 00:08:38,980
 Bicho negro.
 
-21
+43
+00:08:37,020 --> 00:08:38,980
+...Bug!
+
+44
 00:09:14,650 --> 00:09:17,670
 ¡Aunque es escoria!
 
-22
+45
 00:10:27,280 --> 00:10:30,650
 "REINA DE LA ZONA ROSA"
 
-23
+46
 00:10:27,280 --> 00:10:30,650
 Y TAMBIÉN...
 
-24
+47
 00:10:31,450 --> 00:10:35,620
 AGENTE DE INTELIGENCIA
 CP "AIGIS" 0
 
-25
+48
 00:10:31,450 --> 00:10:35,620
 STUSSY
 
-26
+49
 00:10:43,520 --> 00:10:44,580
 ¡Me descubrió!
 
-27
+50
 00:13:26,060 --> 00:13:28,000
 Mola
 
-28
+51
 00:13:26,060 --> 00:13:28,000
 Shi
 
-29
+52
 00:13:26,060 --> 00:13:28,000
 Chibukai
 
-30
+53
 00:13:26,060 --> 00:13:28,000
 Fansub!
 
-31
+54
 00:13:26,060 --> 00:13:28,000
 Trueno.
 
-32
+55
 00:13:42,780 --> 00:13:43,690
 ¡Padre!
 
-33
+56
 00:14:14,370 --> 00:14:18,750
 Mola
 
-34
+57
 00:14:14,370 --> 00:14:18,750
 Shi
 
-35
+58
 00:14:14,370 --> 00:14:18,750
 Chibukai
 
-36
+59
 00:14:14,370 --> 00:14:18,750
 Fansub!
 
-37
+60
 00:14:14,370 --> 00:14:18,750
 Figura destellante.
 
-38
+61
 00:15:09,020 --> 00:15:10,950
 ¡Oye, apártate!
 
-39
+62
 00:15:10,950 --> 00:15:11,920
 ¡¿Eh?!
 
-40
+63
 00:15:11,920 --> 00:15:13,320
 ¿Quién eres?
 
-41
+64
 00:15:16,080 --> 00:15:17,270
 ¡¿Yo?!
 
-42
+65
 00:15:17,270 --> 00:15:20,530
 ¡No, no puedo ser yo!
 
-43
+66
 00:18:20,720 --> 00:18:24,110
 Retrocediendo un poco en el tiempo...
 
-44
+67
 00:18:25,900 --> 00:18:29,660
 ISLA GYOJIN - REINO RYUGU
 
-45
+68
 00:18:29,700 --> 00:18:34,450
 Luffy y los demás salvaron al Reino 
 Ryugu de los Nuevos Piratas Gyojin...
 
-46
+69
 00:18:34,450 --> 00:18:39,480
 ...y el Rey Neptune les dio la
  Caja Tamate en agradecimiento.
 
-47
+70
 00:18:39,480 --> 00:18:40,500
 Pero...
 
-48
+71
 00:18:40,500 --> 00:18:42,180
 ¡Su Majestad!
 
-49
+72
 00:18:42,180 --> 00:18:48,360
 Es sobre el tesoro robado que le entregará a 
 la tripulación de Luffy-kun en caso de que lo encuentren.
 
-50
+73
 00:18:48,360 --> 00:18:52,600
 ¡Si fuera posible, solicíteles por favor
  la devolución de la Caja Tamate!
 
-51
+74
 00:18:52,600 --> 00:18:54,660
 ¡¿Qué dices?!
 
-52
+75
 00:18:54,660 --> 00:18:58,520
 ¡No puedo retractarme de
  mis palabras una vez dichas!
 
-53
+76
 00:18:58,520 --> 00:19:02,270
 ¡¿Aunque en lugar de contener 
 tesoros en su interior,
 
-54
+77
 00:19:02,270 --> 00:19:04,400
 hubiese una bomba?!
 
-55
+78
 00:19:04,400 --> 00:19:05,650
 ¡¿Qué?!
 
-56
+79
 00:19:05,650 --> 00:19:08,530
 ¡¿Que habrá una gran
  explosión si abren la caja?!
 
-57
+80
 00:19:08,530 --> 00:19:10,870
 Debo pedirles que la devuelvan enseguida.
 
-58
+81
 00:19:13,330 --> 00:19:17,830
 ¡¿Que le entregaron todo el tesoro a Big Mom?!
 
-59
-00:19:13,330 --> 00:19:17,830
-¡¿Que le entregaron todo el tesoro a Big Mom?!
-
-60
+82
 00:19:17,830 --> 00:19:21,380
 Existe la posibilidad de que no 
 explote, Ministro de la Derecha.
 
-61
+83
 00:19:21,380 --> 00:19:25,120
 ¡Sí, Majestad, hay que ser positivos!
 
-62
+84
 00:19:25,120 --> 00:19:30,020
 WHOLE CAKE ISLAND
 
-63
+85
 00:19:27,380 --> 00:19:30,020
 De regreso al presente...
 
-64
+86
 00:19:32,880 --> 00:19:38,060
 DENTRO DEL WHOLE CAKE CHÂTEAU
 
-65
+87
 00:19:38,730 --> 00:19:41,250
 ¡No es una grieta!
 
-66
+88
 00:19:41,250 --> 00:19:42,610
 ¡Se ha partido!
 
-67
+89
 00:19:49,260 --> 00:19:51,410
 ¡No es un terremoto!
 
-68
+90
 00:20:16,720 --> 00:20:21,250
 LA CAPITAL - SWEET CITY
 
-69
+91
 00:27:03,270 --> 00:27:08,980
 Mola
 
-70
+92
 00:27:03,270 --> 00:27:08,980
 Shi
 
-71
+93
 00:27:03,270 --> 00:27:08,980
 Chibukai
 
-72
+94
 00:27:03,270 --> 00:27:08,980
 Fansub!
 
-73
+95
 00:27:03,270 --> 00:27:08,980
 Transformación gourmet.
 
-74
+96
 00:30:00,290 --> 00:30:01,020
 ¡¿Eh?!
 
-75
+97
 00:30:23,660 --> 00:30:30,040
 NOROESTE DE WHOLE CAKE ISLAND
 
-76
+98
 00:32:07,540 --> 00:32:09,840
 ¡Oigan!
 
-77
+99
 00:32:09,840 --> 00:32:10,640
 ¡Oigan!
 
-78
+100
 00:32:10,650 --> 00:32:12,210
 ¡Adiós!
 
-79
+101
 00:32:12,210 --> 00:32:13,640
 ¡Oigan!
 
-80
-00:33:47,870 --> 00:33:49,840
-m 0 0 l 100 0 100 100 0 100
-
-81
-00:33:49,840 --> 00:33:49,880
-m 0 0 l 100 0 100 100 0 100
-
-82
-00:33:49,880 --> 00:33:49,920
-m 0 0 l 100 0 100 100 0 100
-
-83
-00:33:49,920 --> 00:33:49,960
-m 0 0 l 100 0 100 100 0 100
-
-84
-00:33:49,960 --> 00:33:50,000
-m 0 0 l 100 0 100 100 0 100
-
-85
-00:33:50,000 --> 00:33:50,040
-m 0 0 l 100 0 100 100 0 100
-
-86
-00:33:50,040 --> 00:33:50,090
-m 0 0 l 100 0 100 100 0 100
-
-87
-00:33:50,090 --> 00:33:50,130
-m 0 0 l 100 0 100 100 0 100
-
-88
-00:33:50,130 --> 00:33:50,170
-m 0 0 l 100 0 100 100 0 100
-
-89
-00:33:50,170 --> 00:33:50,210
-m 0 0 l 100 0 100 100 0 100
-
-90
-00:33:50,210 --> 00:33:50,250
-m 0 0 l 100 0 100 100 0 100
-
-91
-00:33:50,250 --> 00:33:50,290
-m 0 0 l 100 0 100 100 0 100
-
-92
-00:33:50,290 --> 00:33:50,340
-m 0 0 l 100 0 100 100 0 100
-
-93
-00:33:50,340 --> 00:33:52,960
-m 0 0 l 100 0 100 100 0 100
-
-94
-00:33:47,870 --> 00:33:49,840
-m 0 0 l 100 0 100 100 0 100
-
-95
-00:33:49,840 --> 00:33:49,880
-m 0 0 l 100 0 100 100 0 100
-
-96
-00:33:49,880 --> 00:33:49,920
-m 0 0 l 100 0 100 100 0 100
-
-97
-00:33:49,920 --> 00:33:49,960
-m 0 0 l 100 0 100 100 0 100
-
-98
-00:33:49,960 --> 00:33:50,000
-m 0 0 l 100 0 100 100 0 100
-
-99
-00:33:50,000 --> 00:33:50,040
-m 0 0 l 100 0 100 100 0 100
-
-100
-00:33:50,040 --> 00:33:50,090
-m 0 0 l 100 0 100 100 0 100
-
-101
-00:33:50,090 --> 00:33:50,130
-m 0 0 l 100 0 100 100 0 100
-
 102
-00:33:50,130 --> 00:33:50,170
-m 0 0 l 100 0 100 100 0 100
+00:33:47,870 --> 00:33:49,840
+Los Sombrero de Paja se
 
 103
-00:33:50,170 --> 00:33:50,210
-m 0 0 l 100 0 100 100 0 100
+00:33:47,870 --> 00:33:49,840
+fueron hacia allá
 
 104
-00:33:47,870 --> 00:33:49,840
+00:33:49,840 --> 00:33:49,880
 Los Sombrero de Paja se
 
 105
 00:33:49,840 --> 00:33:49,880
-Los Sombrero de Paja se
+fueron hacia allá
 
 106
 00:33:49,880 --> 00:33:49,920
 Los Sombrero de Paja se
 
 107
-00:33:49,920 --> 00:33:49,960
-Los Sombrero de Paja se
-
-108
-00:33:49,960 --> 00:33:50,000
-Los Sombrero de Paja se
-
-109
-00:33:50,000 --> 00:33:50,040
-Los Sombrero de Paja se
-
-110
-00:33:50,040 --> 00:33:50,090
-Los Sombrero de Paja se
-
-111
-00:33:50,090 --> 00:33:50,130
-Los Sombrero de Paja se
-
-112
-00:33:50,130 --> 00:33:50,170
-Los Sombrero de Paja se
-
-113
-00:33:50,170 --> 00:33:50,210
-Los Sombrero de Paja se
-
-114
-00:33:50,210 --> 00:33:50,250
-Los Sombrero de Paja se
-
-115
-00:33:50,250 --> 00:33:50,290
-Los Sombrero de Paja se
-
-116
-00:33:50,290 --> 00:33:50,340
-Los Sombrero de Paja se
-
-117
-00:33:50,340 --> 00:33:50,380
-Los Sombrero de Paja se
-
-118
-00:33:50,380 --> 00:33:52,960
-Los Sombrero de Paja se
-
-119
-00:33:47,870 --> 00:33:49,840
-fueron hacia allá
-
-120
-00:33:49,840 --> 00:33:49,880
-fueron hacia allá
-
-121
 00:33:49,880 --> 00:33:49,920
 fueron hacia allá
 
-122
+108
+00:33:49,920 --> 00:33:49,960
+Los Sombrero de Paja se
+
+109
 00:33:49,920 --> 00:33:49,960
 fueron hacia allá
 
-123
+110
+00:33:49,960 --> 00:33:50,000
+Los Sombrero de Paja se
+
+111
 00:33:49,960 --> 00:33:50,000
 fueron hacia allá
 
-124
+112
+00:33:50,000 --> 00:33:50,040
+Los Sombrero de Paja se
+
+113
 00:33:50,000 --> 00:33:50,040
 fueron hacia allá
 
-125
+114
+00:33:50,040 --> 00:33:50,090
+Los Sombrero de Paja se
+
+115
 00:33:50,040 --> 00:33:50,090
 fueron hacia allá
 
-126
+116
+00:33:50,090 --> 00:33:50,130
+Los Sombrero de Paja se
+
+117
 00:33:50,090 --> 00:33:50,130
 fueron hacia allá
 
-127
+118
+00:33:50,130 --> 00:33:50,170
+Los Sombrero de Paja se
+
+119
 00:33:50,130 --> 00:33:50,170
 fueron hacia allá
 
-128
+120
+00:33:50,170 --> 00:33:50,210
+Los Sombrero de Paja se
+
+121
 00:33:50,170 --> 00:33:50,210
 fueron hacia allá
 
-129
+122
+00:33:50,210 --> 00:33:50,250
+Los Sombrero de Paja se
+
+123
+00:33:50,250 --> 00:33:50,290
+Los Sombrero de Paja se
+
+124
+00:33:50,290 --> 00:33:50,340
+Los Sombrero de Paja se
+
+125
+00:33:50,340 --> 00:33:50,380
+Los Sombrero de Paja se
+
+126
+00:33:50,380 --> 00:33:52,960
+Los Sombrero de Paja se
+
+127
 00:34:49,210 --> 00:34:51,270
 Pastel...
 
-130
+128
 00:34:53,530 --> 00:34:57,030
 Sus ingredientes se 
 seleccionaron cuidadosamente...
 
-131
+129
 00:34:57,030 --> 00:35:01,370
 El mejor pastel de bodas...
 
-132
+130
 00:35:01,370 --> 00:35:07,000
 Tenía muchas ganas de comerlo...
-
-133
-00:02:38,560 --> 00:02:42,230
-Mis sentimientos por ti palpitan intensamente.
-
-134
-00:02:42,230 --> 00:02:45,860
-Si lo que buscas...
-
-135
-00:02:45,860 --> 00:02:49,070
-...es tener un poder sin límites,
-
-136
-00:02:49,070 --> 00:02:51,440
-entonces muestra nuestros vínculos inalterables.
-
-137
-00:02:51,440 --> 00:02:52,650
-Somos la esperanza.
-
-138
-00:02:59,160 --> 00:03:05,380
-La alegría de nuestros corazones colisionando...
-
-139
-00:03:06,040 --> 00:03:12,340
-...y la tristeza al secarse las lágrimas de alegría...
-
-140
-00:03:13,420 --> 00:03:19,930
-...conéctalas y ondéalas...
-
-141
-00:03:20,310 --> 00:03:26,810
-...en lo más alto de este viento.
-
-142
-00:03:26,810 --> 00:03:29,770
-¿Por qué dejaste de buscar?
-
-143
-00:03:30,190 --> 00:03:33,150
-¿Por qué sigues luchando solo?
-
-144
-00:03:33,570 --> 00:03:36,450
-Oye, ¿para qué futuro te has preparado?
-
-145
-00:03:36,450 --> 00:03:39,950
-Ya has cumplido tu sueño.
-
-146
-00:03:40,290 --> 00:03:43,960
-Mis sentimientos por ti palpitan intensamente.
-
-147
-00:03:43,960 --> 00:03:47,580
-Si lo que buscas...
-
-148
-00:03:47,580 --> 00:03:50,800
-...es tener un poder sin límites,
-
-149
-00:03:50,800 --> 00:03:53,130
-entonces muestra nuestros vínculos inmutables.
-
-150
-00:03:53,130 --> 00:03:54,380
-Somos la esperanza.
-
-151
-00:03:54,630 --> 00:03:57,430
-En los confines de este enorme mundo azul,
-
-152
-00:03:58,050 --> 00:04:00,470
-hay un lugar al que quiero ir contigo.
-
-153
-00:04:00,470 --> 00:04:03,220
-Si hay una ruta para llegar allí,
-
-154
-00:04:03,220 --> 00:04:09,860
-ya lo decidimos hace mucho tiempo.

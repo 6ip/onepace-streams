@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -273,102 +273,102 @@ No hay pruebas de que se haya equivocado.
 No les podemos decir...
 
 68
-00:19:26,350 --> 00:19:29,420
-No les podemos decir...
-
-69
 00:19:29,420 --> 00:19:31,520
 ...que ya le han
  enviado una bomba.
 
-70
+69
 00:19:29,420 --> 00:19:31,520
 ...que ya le han 
 enviado una bomba.
 
-71
+70
 00:19:49,460 --> 00:19:51,980
 ¡Confiemos en la suerte!
 
-72
+71
 00:22:38,450 --> 00:22:40,050
 ¡Por favor, capitán!
 
-73
+72
 00:22:40,050 --> 00:22:43,740
 ¡Hazle caso a lo que dice tu navegante!
 
-74
+73
 00:22:45,450 --> 00:22:48,840
 ¡Qué linda se ve Nami-san cuando tiene miedo!
 
-75
+74
 00:22:48,840 --> 00:22:53,330
 ¡Qué linda! ¡Qué linda!
 
-76
+75
 00:22:50,220 --> 00:22:53,330
 ¡Canción extra! ¡Réquiem para nosotros!
 
-77
+76
 00:23:40,800 --> 00:23:43,570
 ¡Chicos, vuelvan pronto!
 
-78
+77
 00:23:43,570 --> 00:23:45,970
 ¡Claro que volveremos!
 
-79
+78
 00:23:45,970 --> 00:23:48,910
 ¡Al All Blue de mi corazón!
 
-80
+79
 00:25:42,400 --> 00:25:44,380
 Uno, dos...
 
-81
+80
 00:25:44,380 --> 00:25:46,620
 ¡También nos gustan los esqueletos!
 
-82
+81
 00:25:56,910 --> 00:25:59,150
 ¡Shirahoshi-chwan!
 
-83
+82
 00:27:38,220 --> 00:27:39,820
 ¡Es una promesa!
 
-84
+83
 00:28:24,230 --> 00:28:25,970
 ¡Por supuesto que no!
 
-85
+84
 00:29:43,180 --> 00:29:45,010
 ¡Fue increíble!
 
-86
+85
 00:29:45,010 --> 00:29:48,360
 ¡El paryaíso de las sirenas!
 
-87
+86
 00:30:28,240 --> 00:30:29,530
 Entonces...
 
-88
+87
 00:30:29,990 --> 00:30:32,910
 Dejaré a tu cargo este sombrero.
 
-89
+88
 00:30:33,150 --> 00:30:36,080
 Es un sombrero muy importante para mí.
 
-90
+89
 00:30:36,080 --> 00:30:38,750
 Asegúrate de devolvérmelo algún día...
 
-91
+90
 00:30:38,750 --> 00:30:41,260
 ...cuando seas un gran pirata.
+
+91
+00:30:44,570 --> 00:30:48,770
+No puedo estar quieto, no puedo detenerme.
 
 92
 00:30:45,910 --> 00:30:47,740
@@ -379,208 +379,204 @@ Solamente...
 ...me arrepiento de una cosa.
 
 94
+00:30:48,600 --> 00:30:53,120
+Todavía no ha amanecido y no puedo esperar más.
+
+95
 00:30:51,090 --> 00:30:53,710
 De no poder verte...
 
-95
+96
+00:30:52,890 --> 00:30:54,850
+Uno, dos, rayo de sol, cuatro...
+
+97
 00:30:53,710 --> 00:30:55,800
 ...cumplir tu sueño.
 
-96
+98
+00:30:54,900 --> 00:30:56,960
+¡Vamos!
+
+99
 00:30:55,800 --> 00:30:58,970
 Pero... yo sé...
 
-97
+100
+00:30:58,160 --> 00:31:02,870
+Icen la bandera, comienza el amanecer de la aventura.
+
+101
 00:30:58,970 --> 00:31:00,720
 ...que lo conseguirás...
 
-98
+102
 00:31:01,940 --> 00:31:03,880
 ...porque eres mi hermano.
 
-99
+103
+00:31:03,540 --> 00:31:08,940
+Empecemos a hacer olas saltando desde nuestros sueños.
+
+104
 00:31:03,880 --> 00:31:06,470
 ¡No pienses solamente en lo que has perdido!
 
-100
+105
 00:31:06,470 --> 00:31:08,760
 ¡Esas cosas ya no están!
 
-101
+106
 00:31:08,760 --> 00:31:12,370
 ¡Piénsalo bien! ¡¿Qué es lo que te queda todavía?!
 
-102
+107
+00:31:08,880 --> 00:31:13,660
+Si quieren ir a un mundo increíble,
+
+108
 00:31:13,320 --> 00:31:16,370
 ¡Llega hasta lo más alto!
 
-103
+109
+00:31:13,460 --> 00:31:17,950
+su tenacidad será un requisito indispensable.
+
+110
 00:31:16,370 --> 00:31:17,780
 ¡Luffy-san!
 
-104
+111
 00:31:17,780 --> 00:31:22,040
 ¿Sabes cómo llaman a la 
 última mitad del Grand Line?
 
-105
+112
+00:31:18,120 --> 00:31:21,200
+¿Acaso es un crimen ser descarado?
+
+113
+00:31:20,900 --> 00:31:24,170
+Ser buscado significa ser un ganador.
+
+114
+00:31:24,230 --> 00:31:28,970
+Nuestra única regla es la libertad.
+
+115
 00:31:24,490 --> 00:31:28,300
 El mar que se extiende más allá del Red Line.
 
-106
+116
 00:31:28,300 --> 00:31:32,260
 Ese último mar la gente lo 
 conoce por otro nombre...
 
-107
+117
+00:31:29,590 --> 00:31:34,520
+No nos dejamos llevar por las preocupaciones.
+
+118
 00:31:33,250 --> 00:31:35,110
 El Nuevo Mundo.
 
-108
+119
+00:31:34,920 --> 00:31:37,890
+Seré el primero en llegar al One Piece.
+
+120
 00:31:37,020 --> 00:31:38,240
 El Nuevo Mundo...
 
-109
+121
+00:31:37,690 --> 00:31:41,320
+Mi corazón lleno de sueños es enorme.
+
+122
 00:31:39,380 --> 00:31:43,000
 ¡El mar que atrae a la gente que
  nos llevará a una nueva era!
 
-110
-00:31:43,760 --> 00:31:46,090
-¡Liderada por aquel que conquiste ese mar,
-
-111
-00:31:46,090 --> 00:31:47,800
-el Rey de los Piratas!
-
-112
-00:32:44,890 --> 00:32:46,450
-¡Sí!
-
-113
-00:30:44,570 --> 00:30:48,770
-No puedo estar quieto, no puedo detenerme.
-
-114
-00:30:48,600 --> 00:30:53,120
-Todavía no ha amanecido y no puedo esperar más.
-
-115
-00:30:52,890 --> 00:30:54,850
-Uno, dos, rayo de sol, cuatro...
-
-116
-00:30:54,900 --> 00:30:56,960
-¡Vamos!
-
-117
-00:30:58,160 --> 00:31:02,870
-Icen la bandera, comienza el amanecer de la aventura.
-
-118
-00:31:03,540 --> 00:31:08,940
-Empecemos a hacer olas saltando desde nuestros sueños.
-
-119
-00:31:08,880 --> 00:31:13,660
-Si quieren ir a un mundo increíble,
-
-120
-00:31:13,460 --> 00:31:17,950
-su tenacidad será un requisito indispensable.
-
-121
-00:31:18,120 --> 00:31:21,200
-¿Acaso es un crimen ser descarado?
-
-122
-00:31:20,900 --> 00:31:24,170
-Ser buscado significa ser un ganador.
-
 123
-00:31:24,230 --> 00:31:28,970
-Nuestra única regla es la libertad.
-
-124
-00:31:29,590 --> 00:31:34,520
-No nos dejamos llevar por las preocupaciones.
-
-125
-00:31:34,920 --> 00:31:37,890
-Seré el primero en llegar al One Piece.
-
-126
-00:31:37,690 --> 00:31:41,320
-Mi corazón lleno de sueños es enorme.
-
-127
 00:31:41,660 --> 00:31:46,010
 Es importante que no nos despertemos.
 
-128
+124
+00:31:43,760 --> 00:31:46,090
+¡Liderada por aquel que conquiste ese mar,
+
+125
 00:31:45,870 --> 00:31:48,860
 No puedo estar quieto, no puedo detenerme.
 
-129
+126
+00:31:46,090 --> 00:31:47,800
+el Rey de los Piratas!
+
+127
 00:31:48,640 --> 00:31:53,050
 Todavía no ha amanecido y no puedo esperar más.
 
-130
+128
 00:31:52,960 --> 00:31:55,080
 Uno, dos, rayo de sol, cuatro...
 
-131
+129
 00:31:54,950 --> 00:31:56,610
 ¡Vamos!
 
-132
+130
 00:31:57,950 --> 00:32:03,890
 Nosotros... llegamos hasta aquí,
 
-133
+131
 00:32:03,940 --> 00:32:06,830
 e iremos hasta donde nos lleven nuestros sueños.
 
-134
+132
 00:32:06,800 --> 00:32:11,750
 No dejaremos a nadie atrás.
 
-135
+133
 00:32:11,450 --> 00:32:14,660
 Juré que seguiría sin detenerme.
 
-136
+134
 00:32:14,590 --> 00:32:18,440
 Y desde aquel día en que comenzó mi sueño...
 
-137
+135
 00:32:18,510 --> 00:32:22,560
 ...mi destino sigue siendo el mismo.
 
-138
+136
 00:32:22,630 --> 00:32:25,650
 No puedo estar quieto, no puedo detenerme.
 
-139
+137
 00:32:25,460 --> 00:32:29,510
 El sol de mi corazón jamás se pondrá.
 
-140
+138
 00:32:29,600 --> 00:32:32,690
 Uno, dos, rayo de sol...
 
-141
+139
 00:32:33,680 --> 00:32:36,850
 Uno, dos, rayo de sol...
 
-142
+140
 00:32:37,850 --> 00:32:40,140
 Uno, dos, rayo de sol, cuatro...
 
-143
+141
 00:32:40,560 --> 00:32:44,220
 ¡Vamos!
 
-144
+142
+00:32:44,890 --> 00:32:46,450
+¡Sí!
+
+143
 00:32:46,370 --> 00:32:48,310
 ¡Vamos!

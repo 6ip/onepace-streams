@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -121,211 +121,215 @@ Y siempre haces locuras.
 ¡Ace!
 
 31
+00:03:15,890 --> 00:03:22,730
+Los tiempos están cambiando
+
+32
 00:04:08,600 --> 00:04:09,160
 ¡Sí, señor!
 
-32
+33
 00:06:01,190 --> 00:06:05,760
 ¡Sí!
 
-33
-00:07:20,390 --> 00:07:21,870
-Mola
-
 34
 00:07:20,390 --> 00:07:21,870
-Shi
+Mola
 
 35
 00:07:20,390 --> 00:07:21,870
-Chibukai
+Shi
 
 36
 00:07:20,390 --> 00:07:21,870
-Fansub!
+Chibukai
 
 37
 00:07:20,390 --> 00:07:21,870
-Pico de faisán feroz.
+Fansub!
 
 38
-00:07:21,870 --> 00:07:23,340
-Mola
+00:07:20,390 --> 00:07:21,870
+Pico de faisán feroz.
 
 39
 00:07:21,870 --> 00:07:23,340
-Shi
+Mola
 
 40
 00:07:21,870 --> 00:07:23,340
-Chibukai
+Shi
 
 41
 00:07:21,870 --> 00:07:23,340
-Fansub!
+Chibukai
 
 42
 00:07:21,870 --> 00:07:23,340
-Espejo de fuego.
+Fansub!
 
 43
+00:07:21,870 --> 00:07:23,340
+Espejo de fuego.
+
+44
 00:08:09,420 --> 00:08:11,240
 ¡Almirante Sakazuki!
 
-44
+45
 00:08:17,610 --> 00:08:20,110
 Mr. 2...
 
-45
+46
 00:08:20,110 --> 00:08:24,930
 De algún modo, pude cumplir tus deseos...
 
-46
+47
 00:08:26,130 --> 00:08:28,800
 Entonces, debo apresurarme y escapar también...
 
-47
+48
 00:09:08,930 --> 00:09:10,910
 ¡Sí!
 
-48
+49
 00:13:38,530 --> 00:13:40,830
 ¡Increíble!
 
-49
+50
 00:13:41,280 --> 00:13:44,590
 ¡Oye, ¿qué haces ahí solo?!
 
-50
+51
 00:13:44,590 --> 00:13:47,720
 ¡Ven! ¡Tenemos muchos tesoros!
 
-51
+52
 00:13:47,720 --> 00:13:49,660
 Olvídate de él.
 
-52
+53
 00:13:49,660 --> 00:13:53,010
 No importa, no le interesan los botines.
 
-53
+54
 00:13:53,010 --> 00:13:57,450
 ¡Qué raro! ¿Un pirata que no quiere tesoros?
 
-54
+55
 00:13:57,450 --> 00:14:00,660
 Entonces, ¿qué es lo que quieres?
 
-55
+56
 00:14:00,660 --> 00:14:03,140
 ¡Oye, Newgate!
 
-56
+57
 00:14:22,800 --> 00:14:24,040
 Mola
 
-57
+58
 00:14:22,800 --> 00:14:24,040
 Shi
 
-58
+59
 00:14:22,800 --> 00:14:24,040
 Chibukai
 
-59
+60
 00:14:22,800 --> 00:14:24,040
 Fansub!
 
-60
+61
 00:14:22,800 --> 00:14:24,040
 Justicia absoluta
 
-61
+62
 00:14:29,010 --> 00:14:31,000
 ¡Viejo!
 
-62
+63
 00:14:34,560 --> 00:14:37,150
 ¡Viejo!
 
-63
+64
 00:15:01,980 --> 00:15:03,590
 ¡Eso, eso!
 
-64
+65
 00:15:07,390 --> 00:15:08,290
 Entonces...
 
-65
+66
 00:15:20,360 --> 00:15:21,930
 Viejo...
 
-66
+67
 00:16:47,220 --> 00:16:49,740
 ¡No digan tonterías!
 
-67
+68
 00:16:49,740 --> 00:16:53,990
 ¡Incluso medio muerto, la fuerza de
 Barbablanca no tiene fin, ¿no lo ven?!
 
-68
+69
 00:16:53,990 --> 00:16:59,240
 ¡Y pensé que podría tomar su cabeza...! ¡Qué desastre!
 
-69
+70
 00:16:59,240 --> 00:17:02,660
 ¡No puedo hacerlo! ¡Jamás!
 
-70
+71
 00:17:26,890 --> 00:17:28,200
 Eh, eh...
 
-71
+72
 00:17:28,200 --> 00:17:30,730
 ¡Apunta el Den Den Mushi más abajo!
 
-72
+73
 00:17:34,150 --> 00:17:38,570
 ¡Hola a todos, soy Buggy, el legendario!
 
-73
+74
 00:17:39,300 --> 00:17:41,600
 ¡¿Otra vez tú?!
 
-74
+75
 00:19:50,450 --> 00:19:53,120
 ¿Todavía puedes ponerte en pie?
 
-75
+76
 00:19:53,120 --> 00:19:56,770
 Sería una lástima que murieras aquí, mocoso.
 
-76
+77
 00:19:56,770 --> 00:19:59,480
 ¡Si aún quieres pelear,
 
-77
+78
 00:19:59,480 --> 00:20:04,110
 entonces, usa mi nombre y pelea
  en este mar todo lo que quieras!
 
-78
+79
 00:20:04,110 --> 00:20:06,550
 ¡Conviértete en mi hijo!
 
-79
+80
 00:20:40,400 --> 00:20:41,320
 ¡Jinbe!
 
-80
+81
 00:20:48,460 --> 00:20:49,780
 Viejo...
 
-81
+82
 00:21:33,570 --> 00:21:34,710
 ¡¿Qué?!
 
-82
+83
 00:24:42,190 --> 00:24:44,160
 ¡Detente, Ace!

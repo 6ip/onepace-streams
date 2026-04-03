@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -110,575 +110,483 @@ EJÉRCITO REVOLUCIONARIO DE RIKU
 ¡Sí!
 
 28
-00:01:44,050 --> 00:01:49,020
-m 0 0 l 250 0 250 145 0 145
-
-29
-00:01:46,310 --> 00:01:46,370
-m 0 0 l 280 0 280 103 0 103
-
-30
-00:01:46,370 --> 00:01:46,400
-m 0 0 l 280 0 280 103 0 103
-
-31
-00:01:46,400 --> 00:01:46,430
-m 0 0 l 280 0 280 103 0 103
-
-32
-00:01:46,430 --> 00:01:46,470
-m 0 0 l 280 0 280 103 0 103
-
-33
-00:01:46,470 --> 00:01:46,500
-m 0 0 l 280 0 280 103 0 103
-
-34
-00:01:46,500 --> 00:01:46,530
-m 0 0 l 280 0 280 103 0 103
-
-35
-00:01:46,530 --> 00:01:46,570
-m 0 0 l 280 0 280 103 0 103
-
-36
-00:01:46,570 --> 00:01:46,600
-m 0 0 l 280 0 280 103 0 103
-
-37
-00:01:46,600 --> 00:01:46,630
-m 0 0 l 280 0 280 103 0 103
-
-38
-00:01:46,630 --> 00:01:46,670
-m 0 0 l 280 0 280 103 0 103
-
-39
-00:01:46,670 --> 00:01:46,700
-m 0 0 l 280 0 280 103 0 103
-
-40
-00:01:46,700 --> 00:01:49,020
-m 0 0 l 280 0 280 103 0 103
-
-41
 00:03:43,620 --> 00:03:46,660
 Eso les facilitará las cosas, ¿no?
 
-42
+29
 00:03:46,660 --> 00:03:47,520
 ¿Quieres decir que...?
 
-43
+30
 00:03:47,520 --> 00:03:52,910
 Acaben con Sugar mientras yo los distraigo.
 
-44
+31
 00:04:06,990 --> 00:04:08,830
 ¡¿Qué tiene en la cabeza?!
 
-45
+32
 00:04:11,530 --> 00:04:12,960
 ¿O es un idiota?
 
-46
+33
 00:04:47,970 --> 00:04:50,270
 ¡Es tan...
 
-47
+34
 00:04:51,840 --> 00:04:54,880
 ...duro!
 
-48
+35
 00:04:55,460 --> 00:05:02,250
 FAMILIA DONQUIXOTE (OFICIAL DEL EJÉRCITO DE ♦ DIAMANTE )
 
-49
+36
 00:04:55,460 --> 00:05:02,250
 SEÑOR PINK
 
-50
+37
 00:05:14,840 --> 00:05:16,700
 ¡Señor!
 
-51
+38
 00:05:18,720 --> 00:05:20,670
 ¡Señor!
 
-52
+39
 00:05:20,670 --> 00:05:22,910
 ¡Señor!
 
-53
+40
 00:05:27,310 --> 00:05:29,070
 ¡Mira quién habla!
 
-54
+41
 00:07:15,360 --> 00:07:18,190
 PASADIZO SUBTERRÁNEO
 
-55
+42
 00:07:27,010 --> 00:07:31,630
 Causaré un gran alboroto mientras esté ahí.
 
-56
+43
 00:08:35,090 --> 00:08:39,010
 EJÉRCITO DE TRÉBOL (EQUIPO DE HABILIDADES ESPECIALES)
 
-57
+44
 00:08:40,200 --> 00:08:43,450
 SUGAR
 
-58
+45
 00:08:44,700 --> 00:08:47,960
 VIOLET
 
-59
+46
 00:08:49,200 --> 00:08:52,490
 GIOLLA
 
-60
+47
 00:08:55,740 --> 00:08:59,600
 EJÉRCITO DE DIAMANTE (ARTISTAS MARCIALES)
 
-61
+48
 00:09:00,820 --> 00:09:03,740
 LAO G
 
-62
+49
 00:09:04,890 --> 00:09:07,580
 MACHVISE
 
-63
+50
 00:09:08,860 --> 00:09:11,810
 SEÑOR PINK
 
-64
+51
 00:09:13,000 --> 00:09:15,950
 DELLINGER
 
-65
+52
 00:09:19,880 --> 00:09:24,660
 EJÉRCITO DE PICA (UNIDAD DE ATAQUE)
 
-66
+53
 00:09:25,800 --> 00:09:28,760
 GLADIUS
 
-67
+54
 00:09:29,890 --> 00:09:33,730
 BUFFALO Y BABY 5
 
-68
+55
 00:09:41,760 --> 00:09:45,780
 OFICIAL EN JEFE - VERGO
 
-69
+56
 00:09:46,360 --> 00:09:49,500
 OFICIAL MONET
 
-70
+57
 00:09:50,730 --> 00:09:53,090
 Entonces, no debemos preocuparnos 
 por los artistas marciales.
 
-71
+58
 00:09:53,090 --> 00:09:54,610
 ¡Ánimo, Franky!
 
-72
+59
 00:09:57,010 --> 00:09:59,310
 ¡No puede ser!
 
-73
+60
 00:11:37,830 --> 00:11:40,910
 ¡Suleiman empieza a atacar a Rebecca!
 
-74
+61
 00:11:50,460 --> 00:11:56,090
 Alguna vez fue un héroe de la Batalla Marina de Dias y ahora es un criminal de guerra.
 
-75
+62
 00:11:56,090 --> 00:12:00,060
 ¡Es un temido asesino del bajo mundo!
 
-76
+63
 00:12:02,210 --> 00:12:07,440
 ¡Se comporta como si fuera un fantasma!
 
-77
+64
 00:12:02,210 --> 00:12:07,920
 CRIMINAL DE GUERRA DE CLASE A DE LA BATALLA MARINA DE DIAS
 
-78
+65
 00:12:02,210 --> 00:12:07,920
 SULEIMAN, EL DECAPITADOR
 
-79
+66
 00:12:40,640 --> 00:12:42,850
 ¡No quiere morir!
 
-80
+67
 00:12:42,850 --> 00:12:49,180
 Incluyendo a la odiosa Rebecca, quedan 
 unos 30 combatientes en el Bloque D.
 
-81
+68
 00:12:51,680 --> 00:12:53,660
 ¡Otro combatiente ha sido derrotado!
 
-82
+69
 00:12:53,660 --> 00:12:55,420
 ¡Digo, un animal!
 
-83
-00:12:56,170 --> 00:12:58,400
-Ha matado a docenas de personas...
-
-84
+70
 00:12:55,800 --> 00:13:01,840
 MAYOR DE LA FLOTA YONTA MARÍA
 
-85
+71
 00:12:55,800 --> 00:13:01,840
 ORLUMBUS
 
-86
+72
+00:12:56,170 --> 00:12:58,400
+Ha matado a docenas de personas...
+
+73
 00:12:58,400 --> 00:13:00,010
 ...y manchado el ring de sangre.
 
-87
+74
 00:13:00,010 --> 00:13:03,860
 Agyou, el león gladiador, acaba...
 
-88
+75
 00:13:03,860 --> 00:13:07,570
 ...de caer ante el látigo de Orlumbus.
 
-89
+76
 00:13:15,580 --> 00:13:18,810
 CAVENDISH - PIRATA
 
-90
-00:13:18,860 --> 00:13:22,110
-EL DEMONIO DE FUEGO
-
-91
-00:13:18,860 --> 00:13:22,110
-DAMASK
-
-92
+77
 00:13:16,260 --> 00:13:18,810
 ¡¿El vencedor será uno de los favoritos?!
 
-93
+78
 00:13:18,810 --> 00:13:22,110
 ¡¿O será alguien inesperado?!
 
-94
+79
+00:13:18,860 --> 00:13:22,110
+EL DEMONIO DE FUEGO
+
+80
+00:13:18,860 --> 00:13:22,110
+DAMASK
+
+81
 00:13:22,110 --> 00:13:25,920
 ¡Esta es la última batalla 
 antes de la ronda final!
 
-95
+82
 00:13:22,120 --> 00:13:25,920
 CHAMÁN
 
-96
+83
 00:13:22,120 --> 00:13:25,920
 MUMMY
 
-97
+84
 00:13:25,920 --> 00:13:28,420
 ¡¿Quién tomará la cabeza...
 
-98
+85
 00:13:30,430 --> 00:13:32,860
 ...de la nieta del Rey Riku?!
 
-99
+86
 00:13:34,420 --> 00:13:37,400
 Soldado-san, ¿dónde estás ahora mismo?
 
-100
+87
 00:13:37,400 --> 00:13:39,230
 Por favor, no mueras.
 
-101
+88
 00:13:39,230 --> 00:13:41,360
 No pido nada más.
 
-102
+89
 00:13:42,390 --> 00:13:47,340
 BAJO DRESSROSA - PUERTO COMERCIAL SUBTERRÁNEO
 
-103
+90
 00:14:19,240 --> 00:14:21,570
 ¡Sí!
 
-104
+91
 00:14:39,590 --> 00:14:44,100
 ¡¿No es ese el trabajo más importante?!
 
-105
-00:14:54,110 --> 00:14:55,640
-TORRE DE OFICIALES
-
-106
+92
 00:14:53,520 --> 00:14:55,640
 FÁBRICA
 
-107
+93
 00:14:53,520 --> 00:14:55,640
 PASADIZO
  SUBTERRANEO
 
-108
+94
+00:14:54,110 --> 00:14:55,640
+TORRE DE OFICIALES
+
+95
 00:15:46,620 --> 00:15:48,230
 ¡Nos han quitado todo!
 
-109
+96
 00:15:48,230 --> 00:15:50,810
 Mola
 
-110
+97
 00:15:48,230 --> 00:15:50,810
 Shi
 
-111
+98
 00:15:48,230 --> 00:15:50,810
 Chibukai
 
-112
+99
 00:15:48,230 --> 00:15:50,810
 Fansub!
 
-113
+100
 00:15:48,230 --> 00:15:50,810
 Estilo de combate Tontatta.
 
-114
+101
 00:15:50,810 --> 00:15:52,900
 ¡Shippo Hammer!
 
-115
+102
 00:15:50,810 --> 00:15:54,640
 Mola
 
-116
+103
 00:15:50,810 --> 00:15:54,640
 Shi
 
-117
+104
 00:15:50,810 --> 00:15:54,640
 Chibukai
 
-118
+105
 00:15:50,810 --> 00:15:54,640
 Fansub!
 
-119
+106
 00:15:50,810 --> 00:15:54,640
 Martillo de cola.
 
-120
+107
 00:16:27,210 --> 00:16:31,090
 ¿Qué clase de monstruo creen que soy?
 
-121
+108
 00:16:31,800 --> 00:16:38,940
 Pero tal vez pueda ganar sin pelear.
 
-122
+109
 00:16:49,590 --> 00:16:51,220
 ¡Sí, señor!
 
-123
+110
 00:16:56,260 --> 00:16:59,360
 ¡Sí!
 
-124
-00:17:02,170 --> 00:17:05,880
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0
-
-125
-00:17:02,170 --> 00:17:05,880
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0
-
-126
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 27 -80 l 27 0
-
-127
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0
-
-128
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0
-
-129
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0
-
-130
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0
-
-131
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0
-
-132
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 30 -80 l 30 0
-
-133
-00:17:02,170 --> 00:17:05,870
-m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0
-
-134
+111
 00:17:02,170 --> 00:17:05,880
 ESPACIO ENTRE EL PALACIO REAL, LA CASA DE JUGUETES Y EL PUERTO COMERCIAL
 
-135
+112
 00:18:20,750 --> 00:18:21,750
 ¡Demasiado lenta!
 
-136
+113
 00:18:22,920 --> 00:18:25,000
 ¡El Soldado me golpeó!
 
-137
+114
 00:18:25,000 --> 00:18:26,440
 Eso es violencia doméstica.
 
-138
+115
 00:18:26,440 --> 00:18:28,120
 ¡No lo es!
 
-139
+116
 00:18:28,120 --> 00:18:30,570
 ¡No quiero golpearte!
 
-140
+117
 00:18:30,570 --> 00:18:33,320
 ¡Entonces detente antes de hacerlo!
 
-141
+118
 00:18:33,320 --> 00:18:36,680
 ¡No crecerás si vives sin peligro!
 
-142
+119
 00:18:36,680 --> 00:18:39,140
 ¡Concéntrate, Rebecca!
 
-143
+120
 00:18:42,270 --> 00:18:46,930
 ¡Los instintos humanos son 
 mejores de lo que crees!
 
-144
+121
 00:18:46,930 --> 00:18:48,960
 ¡Úsalos!
 
-145
+122
 00:18:48,960 --> 00:18:51,270
 ¡Cree en la fuerza humana!
 
-146
+123
 00:18:51,270 --> 00:18:54,310
 ¡Pero eres un juguete!
 
-147
+124
 00:18:54,900 --> 00:18:56,640
 ¡Deja de quejarte!
 
-148
+125
 00:18:59,960 --> 00:19:04,260
 Ya no quiero aprender a pelear.
 
-149
+126
 00:19:06,720 --> 00:19:10,170
 ¿Por qué no puedes protegerme por siempre?
 
-150
+127
 00:19:10,170 --> 00:19:12,800
 Soy un juguete.
 
-151
+128
 00:19:12,800 --> 00:19:16,570
 Si me expongo a la lluvia o 
 el viento, me oxidaré.
 
-152
+129
 00:19:21,930 --> 00:19:24,190
 No sé cuándo alcanzaré
  los límites de mi cuerpo.
 
-153
+130
 00:19:26,310 --> 00:19:28,480
 ¡Levántate, Rebecca!
 
-154
+131
 00:19:29,800 --> 00:19:31,460
 ¡Hazte fuerte!
 
-155
+132
 00:19:37,440 --> 00:19:39,680
 Mi cuerpo no está hecho para pelear.
 
-156
+133
 00:19:40,220 --> 00:19:44,600
 Tal vez los juguetes estemos destinados...
 
-157
+134
 00:19:44,600 --> 00:19:47,630
 ...a rompernos antes de que
  los niños se hagan adultos.
 
-158
+135
 00:19:50,580 --> 00:19:53,090
 Perdóname, Rebecca.
 
-159
+136
 00:19:58,020 --> 00:20:02,460
 Tu incompetente padre sólo fue
  capaz de enseñarte a pelear.
 
-160
+137
 00:20:28,880 --> 00:20:32,390
 Con gusto daré mi vida por esa causa.
 
-161
+138
 00:20:40,990 --> 00:20:43,460
 COLISEO CORRIDA
 
-162
+139
 00:20:43,460 --> 00:20:46,020
 ¡¿Q-Qué ha pasado?!
 
-163
+140
 00:20:56,900 --> 00:21:02,160
 ¡Increíble, todos fueron derribados!
 
-164
+141
 00:21:02,940 --> 00:21:11,620
 ¡Todos los supervivientes del Bloque D han 
 caído y, por alguna razón, nadie se levanta!
 
-165
+142
 00:21:13,000 --> 00:21:16,250
 ¡¿Es esto real?!
 
-166
+143
 00:21:16,250 --> 00:21:20,720
 El ataque al Bloque D ocurrió en un instante.
 
-167
+144
 00:21:26,860 --> 00:21:28,000
 ¿Eh? ¡No, esperen!
 
-168
+145
 00:21:29,200 --> 00:21:32,800
 ¡Alguien se está levantando!

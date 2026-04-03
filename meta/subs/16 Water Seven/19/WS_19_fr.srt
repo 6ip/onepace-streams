@@ -1,1548 +1,1542 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:04,040 --> 00:00:08,050
+Tout va bien ! Allez, continuons d'avancer
+
+3
+00:00:08,310 --> 00:00:11,590
+un rayon d'espoir brille toujours dans nos cœurs.
+
+4
+00:00:11,730 --> 00:00:15,010
+Main dans la main, la force se transmettra !
+
+5
+00:00:15,100 --> 00:00:18,680
+Partons nous emparer de notre souhait !
+
+6
+00:00:26,240 --> 00:00:32,490
+Voguons sur les grandes vagues en joignant nos forces.
+
+7
+00:00:33,750 --> 00:00:40,290
+Allons vite dans la direction excitante, c'est le signal du départ.
+
+8
+00:00:40,960 --> 00:00:47,130
+C'est maintenant que nous partons, et après avoir levé l'ancre,
+
+9
+00:00:47,930 --> 00:00:55,010
+tranchons le vent arc-en-ciel, vers la mer de l'aventure !
+
+10
+00:00:55,060 --> 00:00:58,550
+C'est un voyage rempli de blessures,
+
+11
+00:00:58,560 --> 00:01:02,270
+mais l'important est là.
+
+12
+00:01:02,400 --> 00:01:06,350
+En cas de problème,
+
+13
+00:01:06,450 --> 00:01:08,360
+je serais toujours là pour te protéger.
+
+14
+00:01:09,450 --> 00:01:13,360
+Tout va bien ! Allez, continuons d'avancer
+
+15
+00:01:13,660 --> 00:01:16,820
+un rayon d'espoir brille toujours dans nos cœurs.
+
+16
+00:01:17,170 --> 00:01:20,330
+Si une tempête arrive,
+
+17
+00:01:20,370 --> 00:01:24,200
+nous attendrons le retour de la lumière en se serrant les coudes !
+
+18
+00:01:24,670 --> 00:01:27,920
+Si nous regroupons les bribes de rêves de chacun,
+
+19
+00:01:28,390 --> 00:01:31,550
+nous obtiendrons une carte menant vers le futur !
+
+20
+00:01:31,680 --> 00:01:34,720
+Alors réunissons-nous sous le même drapeau
+
+21
+00:01:35,130 --> 00:01:38,700
+et saisissons notre souhait !
+
+22
+00:01:38,700 --> 00:01:40,450
+À nous tous, nous ne formons qu'une...
+
+23
+00:01:50,130 --> 00:01:54,090
+L'Admirable Colonel T. Bone
+
+24
 00:01:52,050 --> 00:01:53,370
 Qu'est-ce que tu veux ?
 
-3
+25
 00:01:54,630 --> 00:01:58,260
 Que fais-tu à bord de ce train ?
 Comment as-tu réussi à y monter ?
 
-4
+26
 00:02:00,680 --> 00:02:01,430
 Que fais-tu ici ?
 
-5
+27
 00:02:01,600 --> 00:02:05,100
 Enchanté, je suis Sniperking,
 le roi des tireurs d'élite.
 
-6
+28
 00:02:05,630 --> 00:02:08,850
 Pour tout te dire,
 je suis là pour te sauver.
 
-7
+29
 00:02:08,960 --> 00:02:10,020
 Grand-Nez.
 
-8
+30
 00:02:10,270 --> 00:02:11,860
 Je ne suis pas seul à bord.
 
-9
+31
 00:02:12,070 --> 00:02:17,090
 Au moment où je te parle,
 Franky et Sanji saccagent ce convoi.
 
-10
+32
 00:02:17,470 --> 00:02:19,780
 J'en ai profité
 pour me faufiler jusqu'ici.
 
-11
+33
 00:02:20,030 --> 00:02:25,190
 Luffy et les autres sont à bord
 d'un autre train et vont nous rejoindre.
 
-12
+34
 00:02:26,040 --> 00:02:28,690
 Apparemment,
 ils ont une grosse troupe avec eux.
 
-13
+35
 00:02:31,920 --> 00:02:33,380
 En venant jusqu'ici,
 
-14
+36
 00:02:34,130 --> 00:02:35,920
 j'ai observé le wagon par la fenêtre.
 
-15
+37
 00:02:36,090 --> 00:02:39,740
 Les quatre types qui sont là-bas
 ne sont pas des plaisantins.
 
-16
+38
 00:02:40,180 --> 00:02:42,430
 Avant que Sanji
 n'engage le combat avec eux,
 
-17
+39
 00:02:42,600 --> 00:02:45,720
 il vaudrait mieux qu'on file d'ici.
 
-18
+40
 00:02:52,270 --> 00:02:55,180
 Allons-nous-en
 tant qu'il est encore temps.
 
-19
+41
 00:03:02,280 --> 00:03:05,480
 Qu'est-ce qui ne va pas ?
 Tu n'as rien à craindre.
 
-20
+42
 00:03:05,830 --> 00:03:07,320
 J'ai tout prévu, tu vas voir.
 
-21
+43
 00:03:08,370 --> 00:03:10,780
 Tiens, une paire d'Octo-pantoufles.
 
-22
+44
 00:03:11,330 --> 00:03:16,200
 Enfile-la et sors par la fenêtre.
 Elle t'aidera à t'agripper à la paroi.
 
-23
+45
 00:03:16,420 --> 00:03:18,480
 Dépêche-toi
 avant qu'on nous repère.
 
-24
+46
 00:03:18,620 --> 00:03:19,460
 Minute.
 
-25
+47
 00:03:19,760 --> 00:03:20,880
 Mais enfin...
 
-26
+48
 00:03:22,010 --> 00:03:23,850
 Pourquoi fais-tu tout ça ?
 
-27
+49
 00:03:25,100 --> 00:03:28,180
 Je croyais avoir été claire.
 J'ai fait mes adieux à l'équipage.
 
-28
+50
 00:03:28,350 --> 00:03:30,910
 Je ne retournerai pas auprès de vous.
 
-29
+51
 00:03:35,940 --> 00:03:38,150
 Ne te fais pas d'illusions.
 
-30
+52
 00:03:38,320 --> 00:03:40,680
 Ils savent pourquoi
 tu as réagi comme ça.
 
-31
+53
 00:03:40,950 --> 00:03:44,870
 Le directeur du chantier leur a expliqué
 de quoi il retournait.
 
-32
+54
 00:03:46,370 --> 00:03:48,360
 Il est toujours en vie ?
 
-33
+55
 00:03:49,290 --> 00:03:52,310
 Peu importe.
 Ça ne change absolument rien.
 
-34
+56
 00:03:52,920 --> 00:03:54,500
 Je ne reviendrai pas.
 
-35
+57
 00:03:54,790 --> 00:03:56,840
 Allons, arrête ça.
 
-36
+58
 00:03:57,250 --> 00:03:58,760
 Tu ne comprends donc pas ?
 
-37
+59
 00:03:58,960 --> 00:04:01,690
 Tu n'as pas à t'en faire pour eux !
 
-38
+60
 00:04:01,840 --> 00:04:04,060
 Avant de passer ce marché stupide,
 
-39
+61
 00:04:04,340 --> 00:04:07,300
 il fallait leur parler de ton problème !
 
-40
+62
 00:04:08,810 --> 00:04:13,480
 Crois-tu qu'ils seront contents
 de survivre au prix de ton sacrifice ?
 
-41
+63
 00:04:13,800 --> 00:04:16,270
 Maintenant qu'ils connaissent la vérité,
 
-42
+64
 00:04:16,460 --> 00:04:21,400
 ils te suivront jusqu'au bout de l'enfer
 et ils terrasseront tes ennemis !
 
-43
+65
 00:04:22,110 --> 00:04:25,960
 Tu n'as pas compris
 quel genre d'homme est Luffy.
 
-44
+66
 00:04:27,030 --> 00:04:29,550
 C'est vous tous
 qui ne comprenez pas.
 
-45
+67
 00:04:29,790 --> 00:04:32,650
 Je ne veux pas être sauvée.
 Je n'ai rien demandé à personne.
 
-46
+68
 00:04:32,800 --> 00:04:34,240
 Alors fichez-moi la paix !
 
-47
+69
 00:04:35,710 --> 00:04:37,120
 Qu'est-ce que tu dis ?
 
-48
+70
 00:04:39,800 --> 00:04:41,960
 C'est quoi, ce boucan,
 Nico Robin ?
 
-49
+71
 00:04:44,510 --> 00:04:48,530
 Qu'est-ce qui t'arrive ?
 Maintenant qu'on approche d'Enies Lobby,
 
-50
+72
 00:04:48,760 --> 00:04:52,370
 j'ai l'impression que tu commences
 à perdre ton sang-froid.
 
-51
+73
 00:04:52,700 --> 00:04:55,770
 Ce n'est pas en te lamentant
 sur ton sort
 
-52
+74
 00:04:55,940 --> 00:04:59,180
 que tu échapperas à la mort.
 
-53
+75
 00:04:59,440 --> 00:05:00,880
 Merci mais tout va bien.
 
-54
+76
 00:05:03,570 --> 00:05:06,560
 Qu'est-ce que ça veut dire ?
 Il y a quelque chose qui cloche.
 
-55
+77
 00:05:07,410 --> 00:05:11,320
 On dirait que quelque chose a changé
 chez elle.
 
-56
+78
 00:05:13,330 --> 00:05:14,990
 Je dois me faire des idées.
 
-57
+79
 00:05:17,710 --> 00:05:19,040
 Tout va bien.
 
-58
+80
 00:05:20,290 --> 00:05:21,950
 Laissez-moi seule.
 
-59
+81
 00:05:22,960 --> 00:05:27,270
 Que se passe-t-il ?
 Pourquoi se comporte-t-elle comme ça ?
 
-60
+82
 00:05:32,470 --> 00:05:33,620
 Un lapin ?
 
-61
+83
+00:05:34,020 --> 00:05:37,940
+Sanji VS. Wanzé
+Wagon n°4
+
+84
 00:05:38,310 --> 00:05:40,200
 C'est le monde magique des nouilles.
 
-62
+85
 00:05:40,350 --> 00:05:41,900
 Bienvenouille !
 
-63
+86
 00:05:42,780 --> 00:05:44,900
 En quoi t'es plus fort, exactement ?
 
-64
+87
 00:05:45,280 --> 00:05:47,990
 Mouah ha ha !
 Tu vas déguster !
 
-65
+88
 00:05:48,740 --> 00:05:50,820
 Art martial des nouilles.
 
-66
+89
 00:05:51,240 --> 00:05:53,370
 Fricassée de porc fracassé !
 
-67
+90
 00:06:00,700 --> 00:06:03,880
 T'es plus grand,
 mais tes coups sont toujours aussi mous.
 
-68
+91
 00:06:04,760 --> 00:06:07,400
 Mouah ha ha !
 Laisse-moi te resservir.
 
-69
+92
 00:06:13,470 --> 00:06:14,600
 Je suis coincé.
 
-70
+93
 00:06:22,770 --> 00:06:23,980
 Mouah ha !
 
-71
+94
 00:06:31,820 --> 00:06:33,240
 Mouah ha ha !
 
-72
+95
 00:06:33,680 --> 00:06:36,850
 Alors, idiot ! Que dis-tu
 de mon art martial des nouilles ?
 
-73
+96
 00:06:36,950 --> 00:06:38,370
 Il dépote, non ?
 
-74
+97
 00:06:38,520 --> 00:06:42,390
 T'as l'air fin, avec ta jambe
 et ton bras pris dans mes nouilles.
 
-75
+98
 00:06:43,630 --> 00:06:48,090
 J'ai pas vraiment apprécié
 tes coups de pied, tout à l'heure.
 
-76
+99
 00:06:55,220 --> 00:06:55,770
 Hein ?
 
-77
+100
 00:06:56,270 --> 00:06:58,640
 Pourquoi tu chopes le tournis ?
 
-78
+101
 00:07:01,120 --> 00:07:04,560
 Tu m'as encore déstabilisé,
 avec ton sourcil tout bizarre.
 
-79
+102
 00:07:04,900 --> 00:07:07,560
 Saleté,
 tu vas me le payer.
 
-80
+103
 00:07:14,140 --> 00:07:15,280
 Merde...
 
-81
+104
 00:07:15,740 --> 00:07:18,000
 Impossible de me défendre.
 
-82
+105
 00:07:22,330 --> 00:07:24,840
 Hachis Parmentier de nouilles ramen !
 
-83
+106
 00:07:32,220 --> 00:07:34,050
 J'ai pas fini.
 
-84
+107
 00:07:34,930 --> 00:07:35,850
 Je te ressers !
 
-85
+108
 00:07:36,010 --> 00:07:37,180
 Encore une fois !
 
-86
+109
 00:07:37,420 --> 00:07:38,520
 Et encore !
 
-87
+110
 00:07:38,720 --> 00:07:39,840
 Encore une fois !
 
-88
+111
 00:07:39,980 --> 00:07:41,160
 Encore !
 
-89
+112
 00:07:41,380 --> 00:07:44,600
 Prends ça, et ça !
 Et encore ça !
 
-90
+113
 00:07:52,110 --> 00:07:53,760
 Je m'en suis enfin dépêtré.
 
-91
+114
 00:07:55,740 --> 00:07:57,030
 Mouah ha ha.
 
-92
+115
 00:07:57,900 --> 00:08:00,990
 Tu vois, tu m'as sous-estimé,
 pauvre andouille.
 
-93
+116
 00:08:01,610 --> 00:08:05,660
 C'est ma technique de dingue !
 Mon art martial des nouilles !
 
-94
+117
 00:08:06,960 --> 00:08:09,810
 Si je l'attaque,
 je m'englue dans ses nouilles.
 
-95
+118
 00:08:10,420 --> 00:08:12,970
 Je ne dois donc pas les toucher.
 
-96
+119
 00:08:14,340 --> 00:08:16,720
 Prépare-toi, j'arrive.
 
-97
+120
 00:08:18,350 --> 00:08:20,180
 Nouilles ramen...
 
-98
+121
 00:08:20,500 --> 00:08:23,220
 et leurs raviolis en entrée !
 
-99
+122
 00:08:27,120 --> 00:08:30,400
 Je ne vois qu'un seul angle d'attaque
 possible.
 
-100
+123
 00:08:34,780 --> 00:08:36,370
 Escalope !
 
-101
+124
 00:08:36,990 --> 00:08:38,580
 Nouilles Beam !
 
-102
+125
 00:08:50,000 --> 00:08:52,260
 Mouah ha ha !
 
-103
+126
 00:08:52,800 --> 00:08:55,030
 Je n'ai pas d'angle mort.
 
-104
+127
 00:08:56,050 --> 00:08:58,220
 Depuis tout à l'heure, je t'observe.
 
-105
+128
 00:08:58,430 --> 00:09:00,880
 Tu attaques toujours avec tes pieds.
 
-106
+129
 00:09:01,220 --> 00:09:03,730
 Sans tes coups de pied, tu n'es rien.
 
-107
+130
 00:09:05,020 --> 00:09:07,560
 Mouah ha ha ! Tu es cuit.
 
-108
+131
 00:09:07,730 --> 00:09:11,820
 Quoi que tu fasses, tu finiras empêtré
 dans ma cotte de nouilles.
 
-109
+132
 00:09:15,070 --> 00:09:16,820
 Tiens, essaye donc d'éviter ça.
 
-110
+133
 00:09:16,990 --> 00:09:19,330
 Art martial des nouilles.
 
-111
+134
 00:09:19,490 --> 00:09:21,370
 Tornade de fricassée fracassée !
 
-112
+135
 00:09:40,930 --> 00:09:42,870
 Pâtes, calibre 1,4 mm.
 
-113
+136
 00:09:43,100 --> 00:09:44,480
 Fedelini.
 
-114
+137
 00:09:45,120 --> 00:09:47,800
 Hein ?
 C'est quoi, ce tour de passe-passe ?
 
-115
+138
 00:09:49,500 --> 00:09:51,820
 Tu as coupé mes nouillo-poings !
 
-116
+139
 00:09:55,220 --> 00:09:59,690
 Pour moi, un cuisinier ne doit pas
 utiliser ses mains ou ses couteaux
 
-117
+140
 00:10:00,000 --> 00:10:02,900
 pour se battre,
 ce sont ses instruments de travail.
 
-118
+141
 00:10:04,230 --> 00:10:06,360
 Mais je suis dans une cuisine,
 
-119
+142
 00:10:06,900 --> 00:10:10,530
 et mon adversaire se bat
 avec des aliments, ce qui change tout.
 
-120
+143
 00:10:11,790 --> 00:10:15,800
 Eh bah...
 Tu es plus dur à cuire que prévu.
 
-121
+144
 00:10:16,600 --> 00:10:19,130
 Tourbillon aux mille nouilles !
 
-122
+145
 00:10:25,620 --> 00:10:28,140
 Petit insolent, tu te crois où ?
 
-123
+146
 00:10:28,650 --> 00:10:32,640
 Tu ne connais rien à la cuisine !
 Ne touche pas à mes couteaux à découper.
 
-124
+147
 00:10:33,340 --> 00:10:36,880
 Rien à voir avec les canifs
 que les voyous comme toi utilisent.
 
-125
+148
 00:10:37,700 --> 00:10:40,570
 Désolé d'être si insolent.
 
-126
+149
 00:10:41,220 --> 00:10:44,030
 Pour me faire pardonner,
 je vais te faire...
 
-127
+150
 00:10:46,400 --> 00:10:48,320
 une petite démonstration.
 
-128
+151
 00:10:51,880 --> 00:10:56,720
 Je vais te montrer comment un vrai chef
 arrive à faire danser ses couteaux.
 
-129
+152
+00:10:59,220 --> 00:11:02,560
+Franky VS. Nero
+Toit, Wagon n°3
+
+153
 00:11:02,680 --> 00:11:03,470
 Incision.
 
-130
+154
 00:11:04,660 --> 00:11:06,140
 Strong...
 
-131
+155
 00:11:06,670 --> 00:11:08,100
 Hammer !
 
-132
+156
 00:11:09,020 --> 00:11:10,280
 Pliage.
 
-133
+157
 00:11:14,620 --> 00:11:15,770
 Pied-ouragan !
 
-134
+158
 00:11:21,610 --> 00:11:22,440
 Kss !
 
-135
+159
 00:11:27,080 --> 00:11:29,390
 Fresh Fire !
 
-136
+160
 00:11:29,460 --> 00:11:30,620
 Incision !
 
-137
+161
 00:11:33,150 --> 00:11:35,580
 Il est fêlé ?
 Pourquoi il se jette dans la mer ?
 
-138
+162
 00:11:36,130 --> 00:11:37,130
 Pas de Lune !
 
-139
+163
 00:11:41,620 --> 00:11:44,180
 Comment il a réussi
 à rebondir dans le vide ?
 
-140
+164
 00:11:44,390 --> 00:11:45,840
 Je pige plus rien.
 
-141
+165
 00:11:46,300 --> 00:11:48,470
 Le Pied-ouragan ne l'a pas blessé ?
 
-142
+166
 00:11:48,640 --> 00:11:51,640
 En quoi est fait son corps, au juste ?
 
-143
+167
 00:11:52,560 --> 00:11:54,350
 Saleté...
 
-144
+168
 00:11:54,520 --> 00:11:55,360
 Dis donc, toi...
 
-145
+169
 00:12:03,090 --> 00:12:04,810
 D'où tu sors, exactement ?
 
-146
+170
 00:12:09,080 --> 00:12:11,080
 Bon alors,
 il est où le Bashing Tom ?
 
-147
+171
 00:12:11,330 --> 00:12:15,250
 C'est le "Puffing Tom".
 Luffy, rentre dans le wagon.
 
-148
+172
 00:12:15,420 --> 00:12:18,060
 Tu viens à peine de te changer,
 tu es déjà trempé.
 
-149
+173
 00:12:18,200 --> 00:12:20,540
 Pas grave !
 Je suis bien, là !
 
-150
+174
 00:12:23,220 --> 00:12:24,920
 Gum Gum...
 
-151
+175
 00:12:25,220 --> 00:12:27,000
 300 Klesha...
 
-152
+176
 00:12:27,140 --> 00:12:28,310
 Canon !
 
-153
+177
 00:12:28,470 --> 00:12:29,250
 Boum !
 
-154
+178
 00:12:29,400 --> 00:12:30,400
 Vlam !
 
-155
+179
 00:12:30,570 --> 00:12:32,730
 On se rend !
 Vous avez gagné !
 
-156
+180
 00:12:32,950 --> 00:12:35,020
 Arrêtez de faire mumuse !
 
-157
+181
 00:12:36,940 --> 00:12:37,980
 On s'ennuie.
 
-158
+182
 00:12:38,150 --> 00:12:41,230
 Dans ce cas, astiquez vos armes,
 bande d'andouilles.
 
-159
+183
 00:12:42,110 --> 00:12:43,950
 Écoute, euh...
 
-160
+184
 00:12:44,530 --> 00:12:48,850
 Je réglerai ça avec eux
 tout à l'heure.
 
-161
+185
 00:12:50,950 --> 00:12:52,450
 Hé, les gars !
 
-162
+186
 00:12:53,350 --> 00:12:55,240
 Il y a un train en vue !
 
-163
+187
 00:12:58,250 --> 00:13:00,130
 Le Puffing Tom ?
 
-164
+188
 00:13:03,130 --> 00:13:04,880
 C'est un peu rapide, non ?
 
-165
+189
 00:13:08,050 --> 00:13:11,330
 Bon sang,
 qu'est-ce qu'on va devenir ?
 
-166
+190
 00:13:11,430 --> 00:13:14,390
 On n'a pas de moteur.
 On va devoir attendre les secours.
 
-167
+191
 00:13:14,560 --> 00:13:16,300
 Oh non, ça tangue !
 
-168
+192
 00:13:17,120 --> 00:13:20,260
 Je me demande qui viendrait
 nous secourir dans cette tempête.
 
-169
+193
 00:13:20,520 --> 00:13:22,940
 Hé, les gars !
 Il y a quelque chose qui approche.
 
-170
+194
 00:13:23,110 --> 00:13:24,980
 – Vraiment ?
 – Ce sont les secours ?
 
-171
+195
 00:13:25,700 --> 00:13:27,030
 Non, on dirait...
 
-172
+196
 00:13:27,450 --> 00:13:29,820
 Un train qui avance sur les rails.
 
-173
+197
 00:13:30,160 --> 00:13:34,660
 C'est impossible.
 Il n'existe qu'un seul Train des Mers.
 
-174
+198
 00:13:34,830 --> 00:13:38,580
 Et nous sommes la dernière navette
 à être partie de Water Seven.
 
-175
+199
 00:13:38,960 --> 00:13:41,410
 Alors... Dans ce cas...
 
-176
+200
 00:13:45,380 --> 00:13:47,130
 Qu'est-ce que ça peut être ?
 
-177
+201
 00:13:48,260 --> 00:13:50,680
 Hé, c'est bien un train,
 
-178
+202
 00:13:50,850 --> 00:13:53,060
 mais il n'y a que deux wagons.
 Pas la loco.
 
-179
+203
 00:13:53,490 --> 00:13:55,080
 Ils sont immobilisés sur les rails.
 
-180
+204
 00:13:55,190 --> 00:13:57,980
 – Quoi ?
 – Mais qu'est-ce qui se passe ?
 
-181
+205
 00:13:58,150 --> 00:14:00,110
 Ils ont détaché des wagons ?
 
-182
+206
 00:14:01,230 --> 00:14:04,130
 Si ça se trouve,
 Sanji et Usopp sont à bord !
 
-183
+207
 00:14:04,300 --> 00:14:06,210
 Et Franky, notre patron, aussi.
 
-184
+208
 00:14:06,990 --> 00:14:09,740
 Ça craint.
 Si on continue, on va les percuter !
 
-185
+209
 00:14:09,910 --> 00:14:11,320
 Mamie, où sont les freins ?
 
-186
+210
 00:14:11,740 --> 00:14:13,700
 Il n'y en a pas.
 
-187
+211
 00:14:13,870 --> 00:14:15,410
 Débrouillez-vous.
 
-188
+212
 00:14:16,210 --> 00:14:18,280
 – On va les heurter !
 – Miaou !
 
-189
+213
 00:14:20,040 --> 00:14:21,660
 Luffy, que vas-tu faire ?
 
-190
+214
 00:14:22,920 --> 00:14:25,580
 Je vais voir ça de plus près.
 Gum Gum...
 
-191
+215
 00:14:25,920 --> 00:14:27,510
 Rocket !
 
-192
+216
 00:14:30,800 --> 00:14:31,760
 Quelque chose vole.
 
-193
+217
 00:14:37,230 --> 00:14:39,440
 – C'était quoi, ça ?
 – Que s'est-il passé ?
 
-194
+218
 00:14:48,570 --> 00:14:50,160
 Ouille, ouille.
 
-195
+219
 00:14:50,320 --> 00:14:52,060
 Bon, atterrissage réussi.
 
-196
+220
 00:14:52,380 --> 00:14:55,120
 T'es... T'es qui, toi ?
 
-197
+221
 00:14:55,490 --> 00:14:57,120
 Ohé, Sanji !
 
-198
+222
 00:14:57,290 --> 00:14:58,660
 T'es là ?
 
-199
+223
 00:15:01,040 --> 00:15:02,330
 Usopp ?
 
-200
+224
 00:15:02,750 --> 00:15:04,380
 Ohé, Sanji !
 
-201
+225
 00:15:04,880 --> 00:15:06,710
 Ohé !
 
-202
+226
 00:15:07,460 --> 00:15:08,610
 Je vais voir par là.
 
-203
+227
 00:15:14,720 --> 00:15:16,220
 Bon sang, mais c'est...
 
-204
+228
 00:15:17,410 --> 00:15:19,560
 Luffy au chapeau de paille !
 
-205
+229
 00:15:26,320 --> 00:15:28,110
 Ohé !
 
-206
+230
 00:15:29,280 --> 00:15:31,610
 Sanji, tu m'entends ?
 
-207
+231
 00:15:31,840 --> 00:15:33,660
 – Recule !
 – Plus un geste !
 
-208
+232
 00:15:33,800 --> 00:15:36,080
 Sanji !
 Fermez-la, vous !
 
-209
+233
 00:15:39,580 --> 00:15:42,310
 Chapeau de paille,
 tu ne nous échapperas pas.
 
-210
+234
 00:15:42,470 --> 00:15:45,160
 – Où est Sanji ?
 – C'est qui, celui-là ?
 
-211
+235
 00:15:45,750 --> 00:15:47,850
 C'est Sanji !
 Un membre de mon équipage.
 
-212
+236
 00:15:47,970 --> 00:15:49,620
 Je le connais pas.
 
-213
+237
 00:15:50,130 --> 00:15:52,610
 Je vois.
 Merci quand même.
 
-214
+238
 00:15:55,720 --> 00:15:56,560
 Tirez !
 
-215
+239
 00:15:56,930 --> 00:15:58,430
 – Ouais, allez-y !
 – On tire !
 
-216
+240
 00:15:58,600 --> 00:16:00,350
 – Abattez-le !
 – Ouais !
 
-217
+241
 00:16:01,020 --> 00:16:02,940
 Le Chapeau de paille ressort.
 
-218
+242
 00:16:05,440 --> 00:16:07,900
 Il fait signe
 qu'ils ne sont pas à bord.
 
-219
+243
 00:16:08,360 --> 00:16:11,060
 Il n'y a donc
 que des hommes du Gouvernement.
 
-220
+244
 00:16:12,450 --> 00:16:14,200
 Qu'allez-vous faire ?
 
-221
+245
 00:16:14,360 --> 00:16:17,280
 Il faut virer les wagons de la voie,
 sinon c'est la cata !
 
-222
+246
 00:16:24,960 --> 00:16:27,080
 C'est bien un Train des Mers !
 
-223
+247
 00:16:27,420 --> 00:16:30,960
 – Il va nous heurter !
 – On risque d'exploser !
 
-224
+248
 00:16:31,130 --> 00:16:32,630
 Arrêtez-vous !
 
-225
+249
 00:16:34,010 --> 00:16:36,090
 À la Franky Family de jouer !
 
-226
+250
 00:16:36,260 --> 00:16:38,180
 On va démonter les wagons
 avant de les percuter.
 
-227
+251
 00:16:38,350 --> 00:16:40,810
 Ouais !
 On va vous filer un coup de main !
 
-228
+252
 00:16:40,970 --> 00:16:43,270
 Allez, les gars ! Au boulot !
 
-229
+253
 00:16:43,440 --> 00:16:44,850
 Ouais !
 
-230
+254
 00:16:45,400 --> 00:16:47,940
 Hé, Zoro !
 
-231
+255
 00:16:48,940 --> 00:16:51,180
 Hé, Roronoa. On t'appelle.
 
-232
+256
 00:16:51,860 --> 00:16:53,980
 Tranche-moi ça !
 Ça nous gêne.
 
-233
+257
 00:16:55,860 --> 00:16:56,860
 Entendu.
 
-234
+258
 00:16:57,160 --> 00:16:58,680
 Comme ça, "entendu" ?
 
-235
+259
 00:17:09,880 --> 00:17:12,090
 Ego d'un monde corrompu...
 
-236
+260
 00:17:13,970 --> 00:17:15,500
 Je vais te pourfendre.
 
-237
+261
 00:17:23,670 --> 00:17:25,890
 Technique à deux sabres... Iaï.
 
-238
+262
 00:17:36,630 --> 00:17:38,060
 Rashomon.
 
-239
+263
 00:18:02,810 --> 00:18:03,930
 Dites, les gars.
 
-240
+264
 00:18:04,100 --> 00:18:06,740
 Prévenez-nous
 quand vous faites ce genre de truc.
 
-241
+265
 00:18:06,860 --> 00:18:10,480
 – Je lui ai dit de trancher, non ?
 – On pensait pas qu'il le ferait.
 
-242
+266
 00:18:11,100 --> 00:18:13,650
 Il fallait les trancher
 pour éviter la collision.
 
-243
+267
 00:18:13,820 --> 00:18:15,690
 Le problème est pas là.
 
-244
+268
 00:18:15,900 --> 00:18:17,980
 On n'y était pas préparés,
 c'est tout.
 
-245
+269
 00:18:18,610 --> 00:18:22,440
 Malgré sa force surhumaine,
 ce gars n'est même pas capitaine.
 
-246
+270
 00:18:25,250 --> 00:18:26,450
 C'est pas terminé.
 
-247
+271
 00:18:28,080 --> 00:18:31,140
 – C'est quoi, ce machin ?
 – Un monstre marin !
 
-248
+272
 00:18:31,630 --> 00:18:34,110
 Droit devant nous,
 quelque part sur ces rails...
 
-249
+273
 00:18:34,600 --> 00:18:36,880
 Il y a l'homme
 qui a tranché ce monstre.
 
-250
+274
 00:18:49,230 --> 00:18:52,000
 Regagnez tous le wagon précédent !
 
-251
+275
 00:18:52,120 --> 00:18:54,260
 – C'était un piège !
 – Un piège ?
 
-252
+276
 00:18:55,780 --> 00:18:56,440
 Quoi ?
 
-253
+277
 00:19:00,850 --> 00:19:02,890
 Tomber ainsi dans le panneau...
 
-254
+278
 00:19:03,150 --> 00:19:05,700
 Quelle honte !
 Jamais je ne m'en remettrai !
 
-255
+279
 00:19:06,810 --> 00:19:09,100
 Bonne traversée, les petits !
 
-256
+280
 00:19:13,450 --> 00:19:15,800
 Je dois rattraper le Train des Mers.
 
-257
+281
 00:19:16,450 --> 00:19:18,510
 Si ces criminels que j'escortais
 
-258
+282
 00:19:18,650 --> 00:19:22,640
 devaient se trouver à nouveau libres
 de parcourir le monde...
 
-259
+283
 00:19:23,580 --> 00:19:25,850
 Qui sait combien de civils innocents
 
-260
+284
 00:19:26,160 --> 00:19:28,910
 pourraient le payer
 de leurs larmes et de leur sang ?
 
-261
+285
 00:19:30,050 --> 00:19:32,100
 Je dois montrer à tous
 
-262
+286
 00:19:32,250 --> 00:19:35,510
 qu'il existe encore une justice
 dans ce monde dépravé et inique.
 
-263
+287
 00:19:36,500 --> 00:19:41,280
 Et même si ces vagues déchaînées
 devaient me déchiqueter bras et jambes,
 
-264
+288
 00:19:41,600 --> 00:19:45,910
 je lutterais pour offrir aux innocents
 un avenir exempt de tout crime !
 
-265
+289
 00:20:20,280 --> 00:20:21,100
 Qu'est-ce là ?
 
-266
+290
 00:20:25,620 --> 00:20:27,020
 Un Train des Mers ?
 
-267
+291
 00:20:29,950 --> 00:20:32,290
 Un nouveau modèle ?
 
-268
+292
 00:20:35,830 --> 00:20:37,340
 J'aperçois quelque chose.
 
-269
+293
 00:20:39,380 --> 00:20:40,620
 Hein ?
 C'est quoi, ça ?
 
-270
+294
 00:20:42,950 --> 00:20:45,080
 Une personne ?
 J'aperçois quelqu'un !
 
-271
+295
 00:20:48,810 --> 00:20:51,300
 – C'est le découpeur de bateaux !
 – Quoi ?
 
-272
+296
 00:20:51,450 --> 00:20:52,890
 Tu... Tu rigoles !
 
-273
+297
 00:20:53,060 --> 00:20:54,140
 "Découpeur" ?
 
-274
+298
 00:20:54,310 --> 00:20:57,970
 C'est un colonel du QG de la Marine,
 T. Bone, le découpeur de bateaux.
 
-275
+299
 00:20:58,180 --> 00:21:01,230
 Il te découpe un navire
 comme si c'était un simple steak.
 
-276
+300
 00:21:01,530 --> 00:21:02,320
 Ah ouais ?
 
-277
+301
 00:21:02,500 --> 00:21:03,780
 C'est vachement cool, ça.
 
-278
+302
 00:21:03,950 --> 00:21:07,120
 "Cool" ?
 Ça te tuerait, de te sentir concerné ?
 
-279
+303
 00:21:07,560 --> 00:21:09,280
 On va pas se laisser tuer.
 
-280
+304
 00:21:09,450 --> 00:21:11,540
 Hé, les gars,
 préparez les canons !
 
-281
+305
 00:21:11,770 --> 00:21:14,790
 – Plus vite que ça !
 – Ouais !
 
-282
+306
 00:21:15,600 --> 00:21:17,700
 – Allez !
 – Magnons-nous !
 
-283
+307
 00:21:21,800 --> 00:21:22,670
 Attendez.
 
-284
+308
 00:21:23,550 --> 00:21:24,590
 Quoi, encore ?
 
-285
+309
 00:21:24,700 --> 00:21:28,180
 Si on attend, le Rocketman
 va se faire découper en rondelles !
 
-286
+310
 00:21:28,550 --> 00:21:30,640
 Vous avez les yeux dans vos poches ?
 
-287
+311
 00:21:31,000 --> 00:21:32,180
 On laisse faire Zoro.
 
-288
+312
 00:21:32,450 --> 00:21:33,340
 Le gênez pas.
 
-289
+313
 00:21:33,890 --> 00:21:34,680
 Hein ?
 
-290
+314
 00:21:37,480 --> 00:21:40,400
 Je me répéterai pas !
 Pousse-toi de là !
 
-291
+315
 00:21:42,530 --> 00:21:45,550
 Le wagon de mes hommes
 était sur cette voie.
 
-292
+316
 00:21:45,710 --> 00:21:47,420
 Comment ont-ils pu le dépasser ?
 
-293
+317
 00:21:47,660 --> 00:21:50,120
 Qu'ont-ils osé faire à mes soldats ?
 
-294
+318
 00:21:51,080 --> 00:21:53,080
 Ce sont les amis de Nico Robin ?
 
-295
+319
 00:21:53,650 --> 00:21:56,960
 Dans ce cas, ce bretteur
 doit être le chasseur de pirates.
 
-296
+320
 00:21:57,800 --> 00:22:01,200
 Cette voie mène au siège de la justice !
 
-297
+321
 00:22:04,160 --> 00:22:08,280
 Je suis un colonel du QG de la Marine.
 Je refuse de me laisser humilier.
 
-298
+322
 00:22:08,420 --> 00:22:11,420
 Je me fais le devoir de vous découper !
 
-299
+323
 00:22:11,800 --> 00:22:13,390
 Ça va pas être possible.
 
-300
+324
 00:22:14,000 --> 00:22:18,400
 L'endroit où nous nous rendons
 se trouve au bout de cette voie.
 
-301
+325
 00:22:20,630 --> 00:22:22,320
 Lui, c'est un coriace.
 
-302
+326
 00:22:24,690 --> 00:22:25,360
 Viens donc.
 
-303
+327
 00:22:34,100 --> 00:22:36,390
 Avec moi, pas de fioritures.
 J'ai horreur de ça.
 
-304
+328
 00:22:36,650 --> 00:22:38,100
 Décollage à angle droit !
 
-305
+329
 00:22:38,500 --> 00:22:39,960
 Technique à trois sabres.
 
-306
+330
 00:22:40,200 --> 00:22:41,430
 Cornes du démon !
 
-307
+331
 00:22:46,530 --> 00:22:47,460
 Bone...
 
-308
+332
 00:22:47,750 --> 00:22:49,300
 Envol !
 
-309
+333
 00:23:06,050 --> 00:23:07,520
 Il a percé ma botte secrète ?
 
-310
+334
 00:23:08,070 --> 00:23:09,300
 Griffes du courage.
 
-311
+335
 00:23:25,170 --> 00:23:27,020
 Il a vaincu
 le découpeur de bateaux !
 
-312
+336
 00:23:28,580 --> 00:23:31,030
 Il devait se trouver
 dans les wagons détachés.
 
-313
+337
 00:23:31,300 --> 00:23:34,100
 Il a poursuivi le train
 au milieu de cette tempête.
 
-314
+338
 00:23:34,260 --> 00:23:38,340
 Quelle vaillance.
 Mais personne ne doit nous arrêter.
 
-315
+339
 00:23:39,940 --> 00:23:42,620
 Ton sens de la justice doit te peser,
 
-316
+340
 00:23:42,820 --> 00:23:45,100
 mais nous aussi, on a nos soucis.
 
-317
+341
 00:23:51,150 --> 00:23:52,880
 Vite ! Du nerf !
 
-318
+342
 00:23:53,050 --> 00:23:55,930
 Le colonel T. Bone s'est jeté à l'eau,
 il est en danger !
 
-319
+343
 00:23:56,410 --> 00:23:59,360
 Peut-être que le deuxième Train des Mers
 l'a déjà...
 
-320
+344
 00:23:59,580 --> 00:24:02,290
 Idiot, ça suffit !
 Dis pas n'importe quoi.
 
-321
+345
 00:24:02,460 --> 00:24:05,660
 Le colonel va découper ce train
 comme une motte de beurre !
 
-322
+346
 00:24:13,340 --> 00:24:15,180
 Ah oui, vraiment ?
 
-323
+347
 00:24:15,680 --> 00:24:16,300
 Oui.
 
-324
+348
 00:24:16,470 --> 00:24:20,140
 Les deux wagons du Train des Mers
 ont dû être détachés par Sanji.
 
-325
+349
 00:24:20,390 --> 00:24:23,480
 – Alors, ils ne sont plus très loin ?
 – Probablement.
 
-326
+350
 00:24:23,650 --> 00:24:26,900
 – Super ! L'ennemi est tout près !
 – Ouais !
 
-327
+351
 00:24:31,900 --> 00:24:33,700
 Fonce, Rocketman !
 
-328
+352
 00:24:33,910 --> 00:24:36,400
 On va aller éclater le type au pigeon !
-
-329
-00:05:34,020 --> 00:05:37,940
-Sanji VS. Wanzé
-Wagon n°4
-
-330
-00:05:34,020 --> 00:05:37,940
-Sanji VS. Wanzé
-Wagon n°4
-
-331
-00:10:59,220 --> 00:11:02,560
-Franky VS. Nero
-Toit, Wagon n°3
-
-332
-00:10:59,220 --> 00:11:02,560
-Franky VS. Nero
-Toit, Wagon n°3
-
-333
-00:00:04,040 --> 00:00:08,050
-Tout va bien ! Allez, continuons d'avancer
-
-334
-00:00:08,310 --> 00:00:11,590
-un rayon d'espoir brille toujours dans nos cœurs.
-
-335
-00:00:11,730 --> 00:00:15,010
-Main dans la main, la force se transmettra !
-
-336
-00:00:15,100 --> 00:00:18,680
-Partons nous emparer de notre souhait !
-
-337
-00:00:26,240 --> 00:00:32,490
-Voguons sur les grandes vagues en joignant nos forces.
-
-338
-00:00:33,750 --> 00:00:40,290
-Allons vite dans la direction excitante, c'est le signal du départ.
-
-339
-00:00:40,960 --> 00:00:47,130
-C'est maintenant que nous partons, et après avoir levé l'ancre,
-
-340
-00:00:47,930 --> 00:00:55,010
-tranchons le vent arc-en-ciel, vers la mer de l'aventure !
-
-341
-00:00:55,060 --> 00:00:58,550
-C'est un voyage rempli de blessures,
-
-342
-00:00:58,560 --> 00:01:02,270
-mais l'important est là.
-
-343
-00:01:02,400 --> 00:01:06,350
-En cas de problème,
-
-344
-00:01:06,450 --> 00:01:08,360
-je serais toujours là pour te protéger.
-
-345
-00:01:09,450 --> 00:01:13,360
-Tout va bien ! Allez, continuons d'avancer
-
-346
-00:01:13,660 --> 00:01:16,820
-un rayon d'espoir brille toujours dans nos cœurs.
-
-347
-00:01:17,170 --> 00:01:20,330
-Si une tempête arrive,
-
-348
-00:01:20,370 --> 00:01:24,200
-nous attendrons le retour de la lumière en se serrant les coudes !
-
-349
-00:01:24,670 --> 00:01:27,920
-Si nous regroupons les bribes de rêves de chacun,
-
-350
-00:01:28,390 --> 00:01:31,550
-nous obtiendrons une carte menant vers le futur !
-
-351
-00:01:31,680 --> 00:01:34,720
-Alors réunissons-nous sous le même drapeau
-
-352
-00:01:35,130 --> 00:01:38,700
-et saisissons notre souhait !
-
-353
-00:01:38,700 --> 00:01:40,450
-À nous tous, nous ne formons qu'une...

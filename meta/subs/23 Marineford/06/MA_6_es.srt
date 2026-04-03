@@ -1,316 +1,320 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
-00:02:10,790 --> 00:02:16,390
-Cada vez que miro hacia el cielo tras la lluvia,
-
-3
-00:02:16,390 --> 00:02:21,800
-me acuerdo de la época en la que no era más que un bebé llorón.
-
-4
-00:02:21,800 --> 00:02:29,550
-Seguía desesperadamente los pasos de alguien,
-
-5
-00:02:29,550 --> 00:02:32,480
-mientras pensaba "quiero ser más fuerte".
-
-6
-00:02:32,480 --> 00:02:37,820
-Ahora que mis "gracias" se perdieron en el viento,
-
-7
-00:02:37,820 --> 00:02:42,740
-¿podré hacerme más fuerte?
-
-8
-00:02:42,740 --> 00:02:48,460
-Parece que aún no podré encontrar la respuesta,
-
-9
-00:02:48,460 --> 00:02:54,050
-así que seguiré andando hacia adelante.
-
-10
-00:02:54,050 --> 00:02:56,450
-Vamos, en marcha.
-
-11
-00:02:56,450 --> 00:02:59,710
-Nunca nos detendremos.
-
-12
-00:02:59,710 --> 00:03:05,160
-No perderemos contra el paso del tiempo.
-
-13
-00:03:05,160 --> 00:03:10,650
-Seguiremos levantándonos, una y otra vez;
-
-14
-00:03:10,650 --> 00:03:16,510
-porque no queremos perder aquello que nos importa.
-
-15
-00:03:16,510 --> 00:03:21,380
-Puedo oír una voz en mi cabeza,
-
-16
-00:03:21,380 --> 00:03:26,750
-que siempre, siempre me anima a avanzar.
-
-17
-00:03:26,750 --> 00:03:31,990
-Incluso si la inoportuna lluvia se pone en mi camino,
-
-18
-00:03:31,990 --> 00:03:36,840
-no intentaré escapar.
-
-19
-00:03:36,840 --> 00:03:39,840
-Oh.
-
-20
-00:03:39,840 --> 00:03:42,200
-Vamos, en marcha.
-
-21
-00:03:42,200 --> 00:03:45,530
-Nunca nos detendremos.
-
-22
-00:03:45,530 --> 00:03:51,030
-No perderemos contra el paso del tiempo.
-
-23
-00:03:51,030 --> 00:03:56,550
-Seguiremos levantándonos, una y otra vez;
-
-24
-00:03:56,550 --> 00:04:02,130
-porque no queremos perder aquello que nos importa.
-
-25
-00:04:02,130 --> 00:04:07,650
-Avancemos hacia ese futuro en el que creímos...
-
-26
 00:00:25,710 --> 00:00:26,900
 ¡Sí!
 
-27
+3
 00:00:26,900 --> 00:00:28,470
 ¡Deténganse, por favor!
 
-28
+4
 00:00:29,500 --> 00:00:33,240
 ¡¿Por qué hacen esto por mí?!
 
-29
+5
 00:00:34,760 --> 00:00:38,340
 ¡Yo soy tu hermano!
 
-30
+6
 00:00:47,430 --> 00:00:49,590
 ¡Conviértete en mi hijo!
 
+7
+00:02:10,790 --> 00:02:16,390
+Cada vez que miro hacia el cielo tras la lluvia,
+
+8
+00:02:16,390 --> 00:02:21,800
+me acuerdo de la época en la que no era más que un bebé llorón.
+
+9
+00:02:21,800 --> 00:02:29,550
+Seguía desesperadamente los pasos de alguien,
+
+10
+00:02:29,550 --> 00:02:32,480
+mientras pensaba "quiero ser más fuerte".
+
+11
+00:02:32,480 --> 00:02:37,820
+Ahora que mis "gracias" se perdieron en el viento,
+
+12
+00:02:37,820 --> 00:02:42,740
+¿podré hacerme más fuerte?
+
+13
+00:02:42,740 --> 00:02:48,460
+Parece que aún no podré encontrar la respuesta,
+
+14
+00:02:48,460 --> 00:02:54,050
+así que seguiré andando hacia adelante.
+
+15
+00:02:54,050 --> 00:02:56,450
+Vamos, en marcha.
+
+16
+00:02:56,450 --> 00:02:59,710
+Nunca nos detendremos.
+
+17
+00:02:59,710 --> 00:03:05,160
+No perderemos contra el paso del tiempo.
+
+18
+00:03:05,160 --> 00:03:10,650
+Seguiremos levantándonos, una y otra vez;
+
+19
+00:03:10,650 --> 00:03:16,510
+porque no queremos perder aquello que nos importa.
+
+20
+00:03:16,510 --> 00:03:21,380
+Puedo oír una voz en mi cabeza,
+
+21
+00:03:21,380 --> 00:03:26,750
+que siempre, siempre me anima a avanzar.
+
+22
+00:03:26,750 --> 00:03:31,990
+Incluso si la inoportuna lluvia se pone en mi camino,
+
+23
+00:03:31,990 --> 00:03:36,840
+no intentaré escapar.
+
+24
+00:03:36,840 --> 00:03:39,840
+Oh.
+
+25
+00:03:39,840 --> 00:03:42,200
+Vamos, en marcha.
+
+26
+00:03:42,200 --> 00:03:45,530
+Nunca nos detendremos.
+
+27
+00:03:45,530 --> 00:03:51,030
+No perderemos contra el paso del tiempo.
+
+28
+00:03:51,030 --> 00:03:56,550
+Seguiremos levantándonos, una y otra vez;
+
+29
+00:03:56,550 --> 00:04:02,130
+porque no queremos perder aquello que nos importa.
+
+30
+00:04:02,130 --> 00:04:07,650
+Avancemos hacia ese futuro en el que creímos...
+
 31
+00:04:32,250 --> 00:04:34,860
+Los prisioneros de Impel Down
+
+32
 00:04:54,810 --> 00:04:58,230
 Pero, aun así, ¿qué pasa con esta batalla?
 
-32
+33
 00:04:58,230 --> 00:05:01,410
 ¡Tanto los marinos como los piratas son de fama mundial!
 
-33
+34
 00:05:01,410 --> 00:05:04,310
 Sería mejor que me quedara aquí...
 
-34
+35
 00:05:27,570 --> 00:05:31,110
 ¡Demonios! ¡Me vio, me va a matar!
 
-35
+36
 00:05:31,110 --> 00:05:34,550
 ¡Estamos perdidos! ¡Tenemos que huir de aquí!
 
-36
+37
 00:05:44,430 --> 00:05:46,550
 ¡No actúen tan impresionados!
 
-37
+38
 00:05:46,550 --> 00:05:49,560
 ¡Todos caerán al mismo infierno que yo!
 
-38
+39
 00:06:02,670 --> 00:06:06,540
 ¡Hay un límite para lo lejos que puedes llevar esto!
 
-39
+40
 00:06:38,080 --> 00:06:41,350
 No creo que a un igual lo llamase mocoso...
 
-40
+41
 00:06:50,870 --> 00:06:53,360
 ¿Qué le pasó a su sentido común?
 
-41
+42
 00:07:18,270 --> 00:07:20,710
 ¿Eh? ¡¿Quién se cree que es?!
 
-42
+43
 00:07:20,710 --> 00:07:23,720
 ¡Sí! ¡Es nuestro Capitán Buggy!
 
-43
+44
 00:07:50,180 --> 00:07:51,770
 Aquí Barbablanca.
 
-44
-00:14:15,830 --> 00:14:18,670
-¡Volviste a llamarme Hancock!
-
 45
-00:20:15,790 --> 00:20:19,050
-No volveremos a vernos.
-
-46
-00:20:20,280 --> 00:20:21,400
-Hasta nunca.
-
-47
-00:22:11,220 --> 00:22:13,370
-Ah... sí...
-
-48
-00:22:29,300 --> 00:22:31,560
-Se recuperó muy pronto.
-
-49
-00:22:37,580 --> 00:22:38,670
-¡Entendido!
-
-50
-00:22:47,180 --> 00:22:51,520
-¡Sí!
-
-51
-00:23:02,140 --> 00:23:03,390
-¡Sí!
-
-52
-00:24:44,260 --> 00:24:45,200
-¿Creen que pasarán?
-
-53
-00:24:45,200 --> 00:24:47,200
-¿Creen que nos detendrán?
-
-54
-00:24:47,200 --> 00:24:48,400
-¡Ve, Sombrero de Paja!
-
-55
 00:10:53,120 --> 00:10:55,600
 Mola
 
-56
+46
 00:10:53,120 --> 00:10:55,600
 Shi
 
-57
+47
 00:10:53,120 --> 00:10:55,600
 Chibukai
 
-58
+48
 00:10:53,120 --> 00:10:55,600
 Fansub!
 
-59
+49
 00:10:53,120 --> 00:10:55,600
 Bloqueo de palma de piel de tiburón.
 
-60
+50
 00:11:02,630 --> 00:11:05,840
 Mola
 
-61
+51
 00:11:02,630 --> 00:11:05,840
 Shi
 
-62
+52
 00:11:02,630 --> 00:11:05,840
 Chibukai
 
-63
+53
 00:11:02,630 --> 00:11:05,840
 Fansub!
 
-64
+54
 00:11:02,630 --> 00:11:05,840
 Puño de tejas de tiburón.
 
-65
+55
+00:14:15,830 --> 00:14:18,670
+¡Volviste a llamarme Hancock!
+
+56
+00:20:15,790 --> 00:20:19,050
+No volveremos a vernos.
+
+57
+00:20:20,280 --> 00:20:21,400
+Hasta nunca.
+
+58
 00:20:59,140 --> 00:21:02,400
 Mola
 
-66
+59
 00:20:59,140 --> 00:21:02,400
 Shi
 
-67
+60
 00:20:59,140 --> 00:21:02,400
 Chibukai
 
-68
+61
 00:20:59,140 --> 00:21:02,400
 Fansub!
 
-69
+62
 00:20:59,140 --> 00:21:02,400
 Espectros de cara.
 
-70
+63
 00:21:12,050 --> 00:21:14,900
 Mola
 
-71
+64
 00:21:12,050 --> 00:21:14,900
 Shi
 
-72
+65
 00:21:12,050 --> 00:21:14,900
 Chibukai
 
-73
+66
 00:21:12,050 --> 00:21:14,900
 Fansub!
 
-74
+67
 00:21:12,050 --> 00:21:14,900
 Guiño galáctico.
 
-75
+68
+00:22:11,220 --> 00:22:13,370
+Ah... sí...
+
+69
+00:22:29,300 --> 00:22:31,560
+Se recuperó muy pronto.
+
+70
+00:22:37,580 --> 00:22:38,670
+¡Entendido!
+
+71
+00:22:47,180 --> 00:22:51,520
+¡Sí!
+
+72
+00:23:02,140 --> 00:23:03,390
+¡Sí!
+
+73
 00:23:49,130 --> 00:23:51,400
 Mola
 
-76
+74
 00:23:49,130 --> 00:23:51,400
 Shi
 
-77
+75
 00:23:49,130 --> 00:23:51,400
 Chibukai
 
-78
+76
 00:23:49,130 --> 00:23:51,400
 Fansub!
 
-79
+77
 00:23:49,130 --> 00:23:51,400
 Colisión de brillante.
+
+78
+00:24:44,260 --> 00:24:45,200
+¿Creen que pasarán?
+
+79
+00:24:45,200 --> 00:24:47,200
+¿Creen que nos detendrán?
+
+80
+00:24:47,200 --> 00:24:48,400
+¡Ve, Sombrero de Paja!

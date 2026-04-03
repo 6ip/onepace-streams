@@ -1,2117 +1,2071 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:50,050 --> 00:01:54,760
+Korsan Komodor Don Krieg
+
+3
 00:01:52,880 --> 00:01:54,760
 Sen, bir korsan mısın?
 
-3
+4
 00:01:54,760 --> 00:01:55,800
 Evet!
 
-4
+5
 00:01:55,800 --> 00:01:59,890
 Peki, neden bu restorana top ateşledin?
 
-5
+6
 00:01:59,890 --> 00:02:01,600
 O bir kazaydı!
 
-6
+7
 00:02:01,600 --> 00:02:03,600
 Kendimi savunuyordum!
 
-7
+8
 00:02:03,600 --> 00:02:04,940
 Şimdi ne olacak?
 
-8
+9
 00:02:05,940 --> 00:02:09,480
 Neyse ne. Sadece burada
 iş çevirmeye kalkma.
 
-9
+10
 00:02:09,820 --> 00:02:13,570
 Mekan sahibi, zamanında azılı bir
 korsan tayfasında aşçılık yapmış.
 
-10
+11
 00:02:14,660 --> 00:02:16,780
 Demek o amca eskiden korsandı!
 
-11
+12
 00:02:17,450 --> 00:02:22,330
 O moruğa göre,
 bu restoran hazine gibi bir şey.
 
-12
+13
 00:02:22,830 --> 00:02:29,960
 Üstelik, ona özenen ve peşinden giden
 aşçılar da korsanlar kadar asabi.
 
-13
+14
 00:02:30,590 --> 00:02:35,550
 Korsanların uğrak yeri için
 biçilmiş kaftanlar.
 
-14
+15
 00:02:35,550 --> 00:02:39,010
 Burası oldukça deli bir mekan.
 
-15
+16
 00:02:39,010 --> 00:02:42,020
 Evet, buralarda işler böyle yürür.
 
-16
+17
 00:02:42,020 --> 00:02:46,810
 Bazı insanlar, sadece aşçılarla
 korsanların kapışmasını izlemeye gelir.
 
-17
+18
 00:02:47,230 --> 00:02:52,610
 Bu yüzden bütün garsonlar
 korktu ve kaçıp gitti.
 
-18
+19
 00:02:53,240 --> 00:02:57,240
 Anladım… Yani bu yüzden
 bir yıl boyunca çalışmamı istedi.
 
-19
+20
 00:02:57,990 --> 00:03:00,030
 Hey, tayfamıza katılsana.
 
-20
+21
 00:03:00,030 --> 00:03:01,790
 Reddediyorum.
 
-21
+22
 00:03:02,290 --> 00:03:05,960
 Burada kalmak için sebeplerim var.
 
-22
+23
 00:03:06,290 --> 00:03:06,960
 Hayır!
 
-23
+24
 00:03:06,960 --> 00:03:07,830
 Reddediyorum.
 
-24
+25
 00:03:08,420 --> 00:03:09,170
 Ne dedin?!
 
-25
+26
 00:03:09,710 --> 00:03:12,840
 Senin reddini reddediyorum!
 
-26
+27
 00:03:12,840 --> 00:03:16,340
 Sen iyi bir aşçısın,
 o yüzden beraber korsan olalım.
 
-27
+28
 00:03:16,970 --> 00:03:19,550
 H-Hey! Sebebimi duymadın daha!
 
-28
+29
 00:03:19,550 --> 00:03:20,810
 Dinliyorum?
 
-29
+30
 00:03:21,430 --> 00:03:22,720
 Seni ilgilendirmez!
 
-30
+31
 00:03:24,020 --> 00:03:25,600
 Az önce dinlememi söyledin!
 
-31
+32
 00:03:25,600 --> 00:03:29,940
 Kararımı kabul etmen
 gerektiğini söylüyordum!
 
-32
+33
 00:03:29,940 --> 00:03:32,940
 Üç parçaya ayırırım seni,
 hasır şapkalı pislik!
 
-33
+34
 00:03:32,940 --> 00:03:33,860
 Ne dedin sen?!
 
-34
+35
 00:03:33,860 --> 00:03:37,360
 Hasır şapkam ile dalga geçersen
 seni yerle bir ederim, pislik!
 
-35
+36
 00:03:38,110 --> 00:03:40,200
 Böldüğüm için üzgünüm...
 
-36
+37
 00:03:40,200 --> 00:03:41,080
 – Ne?!
 – Ne?!
 
-37
+38
 00:03:41,080 --> 00:03:45,120
 Ben Krieg Korsanları'ndan Gin.
 
-38
+39
+00:03:41,120 --> 00:03:47,080
+Gin
+Korsan Savaşçı
+Krieg Korsanları
+
+40
 00:03:45,120 --> 00:03:47,080
 Siz de korsansınız, değil mi?
 
-39
+41
 00:03:47,620 --> 00:03:49,210
 Hedefiniz nedir?
 
-40
+42
 00:03:49,210 --> 00:03:51,590
 One Piece'in peşindeyim.
 
-41
+43
 00:03:51,590 --> 00:03:53,500
 Grand Line'a gidiyorum.
 
-42
+44
 00:03:57,340 --> 00:04:02,850
 Bir aşçı aradığına göre, tayfanda
 fazla kişi yok gibi görünüyor.
 
-43
+45
 00:04:02,850 --> 00:04:04,720
 Evet. Onunla beraber beş kişiyiz.
 
-44
+46
 00:04:04,720 --> 00:04:06,850
 Beni neden sayıyorsun ki?!
 
-45
+47
 00:04:06,850 --> 00:04:10,980
 Kötü birine benzemiyorsun,
 bu yüzden seni uyaracağım.
 
-46
+48
 00:04:10,980 --> 00:04:13,480
 Grand Line'a gitmekten vazgeç.
 
-47
+49
 00:04:13,480 --> 00:04:17,110
 Hala çok gençsin.
 Acele etmene gerek yok.
 
-48
+50
 00:04:17,110 --> 00:04:20,620
 Grand Line dünyadaki denizlerin
 sadece küçük bir bölümü.
 
-49
+51
 00:04:20,620 --> 00:04:24,410
 Bir korsan için çok daha güvenli sular var.
 
-50
+52
 00:04:25,120 --> 00:04:26,950
 Oh, cidden mi?
 
-51
+53
 00:04:27,330 --> 00:04:29,960
 Grand Line hakkında ne biliyorsun?
 
-52
+54
 00:04:29,960 --> 00:04:31,330
 Hayır...
 
-53
+55
 00:04:31,330 --> 00:04:34,500
 Hiçbir şey bilmiyorum...
 Hiçbir şey anlamıyorum...
 
-54
+56
 00:04:34,880 --> 00:04:36,760
 İşte bu yüzden beni korkutuyor...
 
-55
+57
 00:04:38,010 --> 00:04:42,010
 Krieg'in tayfasından birine göre,
 çok pısırıkça konuşuyorsun.
 
-56
+58
 00:04:42,640 --> 00:04:43,890
 Krieg de kim?
 
-57
+59
+00:04:51,940 --> 00:04:56,900
+Gemi Mutfağı
+Deniz Restoranı
+
+60
 00:04:52,520 --> 00:04:54,270
 Masa 3'e ordövr!
 
-58
+61
 00:04:54,270 --> 00:04:55,440
 Kendin servis et.
 
-59
+62
 00:04:55,440 --> 00:04:57,110
 Garsonumuz yok.
 
-60
+63
 00:04:59,450 --> 00:05:01,360
 Cidden sıkıntı olmayacak mı, Patty?
 
-61
+64
 00:05:01,360 --> 00:05:02,110
 Ne sıkıntısı?
 
-62
+65
 00:05:03,700 --> 00:05:06,740
 Demin restoranda dövdüğün adamın...
 
-63
+66
 00:05:06,740 --> 00:05:09,870
 Krieg Korsanları'ndan biri olduğunu duydum.
 
-64
+67
 00:05:09,870 --> 00:05:12,580
 Evet, doğru duymuşsun.
 
-65
+68
 00:05:12,580 --> 00:05:18,210
 Don Krieg bu sulardaki,
 en adi ve en acımasız korsan.
 
-66
+69
 00:05:18,210 --> 00:05:19,340
 Bu doğru.
 
-67
+70
 00:05:23,090 --> 00:05:28,390
 Kırk kaplan gücünde değil belki ama...
 
-68
+71
 00:05:28,390 --> 00:05:33,400
 50 kaptanlık bir filonun başı sonuçta.
 
-69
+72
 00:05:34,310 --> 00:05:36,940
 O bir canavardan farksız.
 
-70
+73
 00:05:36,940 --> 00:05:38,860
 Öyleyse ne olmuş?
 
-71
+74
 00:05:39,940 --> 00:05:44,660
 Söylenene göre ordusu
 5.000’i aşkın korsandan oluşuyor.
 
-72
+75
 00:05:46,450 --> 00:05:53,710
 Eğer o adam ona nasıl
 davrandığımızı Don Krieg'e anlatırsa,
 
-73
+76
 00:05:54,080 --> 00:06:00,840
 buradaki herkes, fil sürüsünün altında
 ezilen karıncalara dönerdi.
 
-74
+77
 00:06:00,840 --> 00:06:02,720
 Öyle mi...?
 
-75
+78
 00:06:03,050 --> 00:06:08,430
 Yani, bedava yemesi daha mı iyi olurdu?
 
-76
+79
 00:06:08,430 --> 00:06:12,140
 O zaman da ücretini ödeyen
 müşterilere kabalık olurdu.
 
-77
+80
 00:06:14,600 --> 00:06:20,940
 Bu, Baratie dövüşçü aşçılarının
 itibarını yerle bir ederdi!
 
-78
+81
 00:06:21,320 --> 00:06:26,990
 Bugüne kadar kaç korsanı
 alt ettiğimizi sanıyorsun?
 
-79
+82
 00:06:26,990 --> 00:06:29,450
 Eğer o kadar korkuyorsan,
 bu işi bırak!
 
-80
+83
 00:06:29,450 --> 00:06:30,620
 Ne dedin sen!?
 
-81
+84
 00:06:30,620 --> 00:06:34,830
 Ah evet, tüm garsonlar senin o
 bozuk ağzın yüzünden işi bıraktı!
 
-82
+85
 00:06:34,830 --> 00:06:38,380
 Patty, bu durumda suç sende!
 
-83
+86
 00:06:38,840 --> 00:06:43,720
 O pısırık herifler başından beri
 işe yaramazlardı zaten!
 
-84
+87
 00:06:44,130 --> 00:06:45,380
 Hadi bakalım!
 
-85
+88
 00:06:45,380 --> 00:06:46,590
 Carne, bitir işini!
 
-86
+89
 00:06:46,590 --> 00:06:48,140
 Patty, patakla onu!
 
-87
+90
 00:06:49,220 --> 00:06:50,970
 Hey, sizi aptallar!
 
-88
+91
 00:06:50,970 --> 00:06:52,980
 İşinizin başına dönün!
 
-89
+92
 00:06:52,980 --> 00:06:54,940
 – Emredersiniz, Patron!
 – Emredersiniz, Patron!
 
-90
+93
 00:06:56,520 --> 00:06:57,860
 Görüşürüz...
 
-91
+94
 00:06:57,860 --> 00:07:00,730
 Bu arada, Grand Line'a
 yine de gideceğim.
 
-92
+95
 00:07:00,730 --> 00:07:01,650
 Tabii...
 
-93
+96
 00:07:01,650 --> 00:07:03,400
 İstediğini yap.
 
-94
+97
 00:07:03,900 --> 00:07:07,110
 Benim gibi bir yabancının
 seni durdurmaya hakkı yok.
 
-95
+98
 00:07:07,110 --> 00:07:10,330
 Sadece seni uyarmak istedim.
 
-96
+99
 00:07:10,330 --> 00:07:12,370
 Ve Sanji-san...
 
-97
+100
 00:07:12,370 --> 00:07:14,210
 Çok teşekkür ederim!
 
-98
+101
 00:07:14,710 --> 00:07:16,710
 Sana hayatımı borçluyum.
 
-99
+102
 00:07:16,710 --> 00:07:19,540
 O yemek gerçekten çok lezzetliydi.
 
-100
+103
 00:07:19,540 --> 00:07:21,500
 Yine gelebilir miyim?
 
-101
+104
 00:07:21,880 --> 00:07:23,420
 İstediğin zaman!
 
-102
+105
 00:07:23,420 --> 00:07:26,260
 Hey, kamarot velet!
 
-103
+106
 00:07:26,630 --> 00:07:27,470
 İhtiyar!
 
-104
+107
 00:07:27,470 --> 00:07:29,140
 Buradasın demek!
 
-105
+108
 00:07:33,390 --> 00:07:35,020
 Git, Gin.
 
-106
+109
 00:07:36,230 --> 00:07:37,650
 Üzgünüm.
 
-107
+110
 00:07:37,650 --> 00:07:41,400
 Bana bedava yedirdiğin için
 sorun yaşacayaksın, değil mi?
 
-108
+111
 00:07:41,860 --> 00:07:43,480
 Yani...
 
-109
+112
 00:07:53,540 --> 00:07:56,210
 Kanıt olmadan ceza olmaz.
 
-110
+113
 00:08:02,630 --> 00:08:04,840
 Bir sonraki sefere yakalanma, Gin!
 
-111
+114
 00:08:04,840 --> 00:08:06,670
 Teşekkürler, Sanji-san!
 
-112
+115
 00:08:06,670 --> 00:08:09,300
 Nezaketini asla unutmayacağım!
 
-113
+116
 00:08:09,300 --> 00:08:11,390
 Sanji! Kamarot!
 
-114
+117
 00:08:11,390 --> 00:08:13,390
 İşe dönün artık!
 
-115
+118
 00:08:14,180 --> 00:08:16,810
 Hey, masa üç hazır!
 
-116
+119
+00:08:18,270 --> 00:08:23,190
+Monkey D. Luffy
+Borçlu Kamarot
+Deniz Restoranı
+
+120
 00:08:20,270 --> 00:08:21,400
 Ben Luffy!
 
-117
+121
 00:08:21,400 --> 00:08:23,230
 Yeni kamarotunuzum.
 
-118
+122
 00:08:23,230 --> 00:08:24,940
 Tanıştığımıza memnun oldum!
 
-119
+123
+00:08:26,360 --> 00:08:29,240
+Korsanlığa Ara Verdi
+
+124
+00:08:30,820 --> 00:08:32,700
+Korsanlığa Ara Verdi
+
+125
+00:08:33,830 --> 00:08:35,910
+Korsanlığa Ara Verdi
+
+126
+00:08:37,540 --> 00:08:38,870
+Korsanlığa Ara Verdi
+
+127
 00:08:39,420 --> 00:08:41,710
 Masa altının tatlısı hazır olmadı mı?
 
-120
+128
+00:08:40,960 --> 00:08:42,920
+Korsanlığa Ara Verdi
+
+129
 00:08:42,920 --> 00:08:45,300
 Hey, o siparişten kim sorumlu?!
 
-121
+130
 00:08:45,300 --> 00:08:46,800
 Sen değil misin?!
 
-122
+131
 00:08:46,800 --> 00:08:49,180
 Ben çok meşgulüm şuan!
 
-123
+132
 00:08:49,180 --> 00:08:50,760
 Aklını başına topla!
 
-124
+133
 00:08:50,760 --> 00:08:52,970
 Ne dedin sen?!
 Kavga mı istiyorsun?!
 
-125
+134
+00:08:52,970 --> 00:08:54,680
+Korsanlığa Ara Verdi
+
+135
 00:08:55,220 --> 00:08:59,640
 – Boş boş oturma, bulaşıkları hallet, kamarot!
 – Boş boş oturma, bulaşıkları hallet, kamarot!
 
-126
+136
 00:08:59,640 --> 00:09:01,190
 Sanji nerede?
 
-127
+137
 00:09:01,940 --> 00:09:03,900
 Yemek salonunda flörtleşiyor.
 
-128
+138
 00:09:03,900 --> 00:09:05,150
 Yine mi?!
 
-129
+139
 00:09:05,150 --> 00:09:10,360
 Yardımcı şef olması
 beni yeterince sinirlendiriyor zaten!
 
-130
+140
 00:09:10,740 --> 00:09:12,030
 Alış artık.
 
-131
+141
 00:09:12,030 --> 00:09:14,830
 Burada en uzun süredir çalışan o.
 
-132
+142
 00:09:15,330 --> 00:09:20,920
 Patron ile anlaşamıyorken neden
 burada olduğunu anlıyor musun?
 
-133
+143
 00:09:20,920 --> 00:09:23,460
 Baş şef olmayı hedefliyor.
 
-134
+144
 00:09:23,460 --> 00:09:25,420
 Anlamaman için kör olman lazım.
 
-135
+145
 00:09:30,300 --> 00:09:32,090
 Hey, Kamarot!
 
-136
+146
 00:09:32,090 --> 00:09:35,470
 Şimdiye kadar kaç tane tabak kırdın?!
 
-137
+147
 00:09:35,470 --> 00:09:38,140
 Oh, üzgünüm.
 Saymayı unuttum.
 
-138
+148
 00:09:38,140 --> 00:09:41,980
 Demek istediğim bu değildi!
 Onları kırdığın için özür dile!
 
-139
+149
 00:09:41,980 --> 00:09:45,110
 Bulaşıkları yıkamayı unut.
 Şurayı temizle!
 
-140
+150
 00:09:45,110 --> 00:09:46,480
 Tamamdır, bana bırak!
 
-141
+151
 00:09:48,480 --> 00:09:50,440
 Tabaklardan bir şeyler alma!
 
-142
+152
 00:09:50,440 --> 00:09:53,070
 Ana yemekti o!
 
-143
+153
 00:09:53,740 --> 00:09:55,490
 Ah, merak etmeyin!
 
-144
+154
 00:09:55,490 --> 00:09:57,410
 Ay!
 
-145
+155
 00:09:59,500 --> 00:10:03,000
 Ah, ah, ah, ah, ah, ah, ah!
 
-146
+156
 00:10:00,500 --> 00:10:03,000
 – Defol git, mutfaktan!
 – Defol git, mutfaktan!
 
-147
+157
 00:10:03,460 --> 00:10:05,960
 Git ve siparişleri al, tamam mı?
 
-148
+158
 00:10:06,460 --> 00:10:10,300
 Müşterilere ne yemek istediklerini sor!
 Bu kadarını yapabilirsin, değil mi?!
 
-149
+159
 00:10:10,300 --> 00:10:11,590
 Evet.
 
-150
+160
 00:10:11,590 --> 00:10:13,880
 Kamarotluk çok zor.
 
-151
+161
 00:10:13,880 --> 00:10:15,430
 Koby perişan olmuş olmalı.
 
-152
+162
 00:10:15,430 --> 00:10:17,470
 Hey, Kamarot!
 
-153
+163
 00:10:18,390 --> 00:10:19,390
 Çocuklar...
 
-154
+164
 00:10:19,390 --> 00:10:21,810
 Burada bir yıl çalışman gerekiyormuş!
 
-155
+165
 00:10:21,810 --> 00:10:23,890
 Geminin bayrağını değiştirsek olur mu?
 
-156
+166
 00:10:23,890 --> 00:10:28,650
 S-S-Sizin bensiz böyle
 lezzetli yemekler yemeniz...
 
-157
+167
 00:10:28,650 --> 00:10:30,070
 canımı yakıyor!
 
-158
+168
 00:10:30,070 --> 00:10:32,820
 Yemememiz için hiç bir
 sebep yok, değil mi?
 
-159
+169
 00:10:34,160 --> 00:10:34,780
 Al bunu!
 
-160
+170
 00:10:35,990 --> 00:10:37,240
 Evet, yok.
 
-161
+171
 00:10:38,620 --> 00:10:41,910
 Her neyse, cidden buranın
 yemeği çok lezzetli.
 
-162
+172
 00:10:43,750 --> 00:10:44,830
 Senin için...
 
-163
+173
 00:10:45,540 --> 00:10:47,670
 üzülüyorum, ama...
 
-164
+174
 00:10:48,380 --> 00:10:50,710
 Bunu kendin iç!
 
-165
+175
 00:10:52,720 --> 00:10:55,050
 Bunu yaptığına inanamıyorum!
 
-166
+176
 00:10:55,550 --> 00:10:57,890
 Asıl ben inanamıyorum!
 
-167
-00:10:57,890 --> 00:11:00,010
-Çok iğrenç! Çok iğrenç!
-
-168
+177
 00:10:57,510 --> 00:11:00,010
 Gülmekten karnım ağrıyor!
 
-169
+178
+00:10:57,890 --> 00:11:00,010
+Çok iğrenç! Çok iğrenç!
+
+179
 00:11:07,230 --> 00:11:09,190
 Bir susmadılar.
 
-170
+180
 00:11:09,190 --> 00:11:09,980
 Yoksa onlar...
 
-171
+181
 00:11:10,400 --> 00:11:12,650
 onun tayfası mı?
 
-172
+182
 00:11:16,910 --> 00:11:18,410
 Kendin doldur.
 
-173
+183
 00:11:19,120 --> 00:11:20,950
 Oh, sevgili okyanus,
 
-174
+184
 00:11:20,950 --> 00:11:23,250
 Bu güzel karşılaşma için
 sana minnettarım!
 
-175
+185
 00:11:23,250 --> 00:11:24,040
 – Ne?!
 – Ne?!
 
-176
+186
 00:11:24,040 --> 00:11:26,120
 Ah, aşk,...
 
-177
+187
 00:11:26,120 --> 00:11:28,500
 bu yokluk ile başa çıkamıyorum.
 
-178
+188
 00:11:28,500 --> 00:11:29,960
 Durmayın ve bana gülün.
 
-179
+189
 00:11:30,460 --> 00:11:35,590
 Artık senin ile beraber olabilmek için
 bir korsan hatta bir şeytan bile...
 
-180
+190
 00:11:35,590 --> 00:11:36,720
 olmaya hazırım!
 
-181
+191
 00:11:38,720 --> 00:11:41,060
 Ancak, ne kadar trajik!
 
-182
+192
 00:11:41,060 --> 00:11:44,270
 Aramızdaki engeller devasa!
 
-183
+193
 00:11:44,270 --> 00:11:47,690
 O engel benim, değil mi...
 
-184
+194
 00:11:47,690 --> 00:11:48,980
 Sanji?
 
-185
+195
 00:11:48,980 --> 00:11:50,560
 Moruk...!
 
-186
+196
 00:11:50,560 --> 00:11:55,440
 Bu iyi bir fırsat.
 Neden onlara katılmıyorsun?
 
-187
+197
 00:11:55,440 --> 00:11:58,740
 Artık bu restoranda sana ihtiyaç yok!
 
-188
+198
 00:12:14,210 --> 00:12:15,670
 Anladım...
 
-189
+199
 00:12:16,170 --> 00:12:21,550
 Hayatın o aşçı tarafından kurtarıldı
 ve böylece buraya geri dönebildin.
 
-190
+200
 00:12:21,550 --> 00:12:25,020
 Bunu mu demek istiyorsun, Gin?
 
-191
+201
 00:12:25,520 --> 00:12:26,980
 E-Evet...
 
-192
+202
 00:12:26,980 --> 00:12:28,980
 A-Ama...
 
-193
+203
 00:12:29,350 --> 00:12:33,230
 Ana gemimizin bu durumda
 olduğunu bilmiyordum...
 
-194
+204
 00:12:33,230 --> 00:12:34,650
 Don Krieg!
 
-195
+205
 00:12:34,650 --> 00:12:36,070
 Ne?
 
-196
+206
 00:12:38,610 --> 00:12:39,910
 Seni oraya götüreceğim,
 
-197
+207
 00:12:39,910 --> 00:12:42,660
 Deniz Restoranı Baratie'ye.
 
-198
+208
 00:12:47,160 --> 00:12:48,830
 Hey, moruk!
 
-199
+209
 00:12:48,830 --> 00:12:51,130
 Yardımcı şef var karşında.
 
-200
+210
 00:12:51,130 --> 00:12:53,630
 Artık bana ihtiyacınız
 yok da ne demek?!
 
-201
+211
 00:12:53,630 --> 00:12:56,010
 Müşteriler ile sık sık sorun yaşıyorsun.
 
-202
+212
 00:12:56,010 --> 00:12:59,260
 Bir kadın gördüğün anda
 burun deliklerin genişliyor.
 
-203
+213
 00:12:59,260 --> 00:13:01,340
 Ortalama bir yemek bile yapamıyorsun,
 
-204
+214
 00:13:01,340 --> 00:13:04,140
 o yüzden bu restoran için ölü ağırlıksın.
 
-205
+215
 00:13:04,140 --> 00:13:05,640
 Bu yüzden sana ihtiyacım yok.
 
-206
+216
 00:13:05,640 --> 00:13:07,470
 Ne dedin?
 
-207
+217
 00:13:10,560 --> 00:13:14,110
 Diğer aşçılar ile de iyi geçinemiyorsun.
 
-208
+218
 00:13:14,110 --> 00:13:20,030
 O yüzden korsan veya ne oluyorsan ol
 ve bu restoranı terk et artık!
 
-209
+219
 00:13:21,030 --> 00:13:22,660
 Bu da ne demek?
 
-210
+220
 00:13:23,530 --> 00:13:27,870
 Susmayacaksın, değil mi,
 seni yaşlı bunak?
 
-211
+221
 00:13:28,830 --> 00:13:33,420
 Her şeyi görmezden gelirim ama
 aşçılığıma laf ettirmem!
 
-212
+222
 00:13:33,960 --> 00:13:37,840
 Ne dersen de,
 burada aşçılık yapacağım!
 
-213
+223
 00:13:37,840 --> 00:13:39,630
 Bir kelime daha
 duymak istemiyorum!
 
-214
+224
 00:13:39,630 --> 00:13:43,510
 Patronunun yakasına yapışmak da
 ne demek oluyor?
 
-215
+225
 00:13:43,510 --> 00:13:45,800
 Sen lanet patlıcan!
 
-216
+226
 00:13:47,560 --> 00:13:50,100
 Lanet olsun...
 
-217
+227
 00:13:51,980 --> 00:13:54,860
 Beni ne kadar buradan atmaya
 uğraşırsan uğraş,
 
-218
+228
 00:13:54,860 --> 00:13:58,440
 burada bir aşçı olarak
 çalışmaya devam edeceğim.
 
-219
+229
 00:13:58,440 --> 00:14:00,440
 Sen ölene kadar!
 
-220
+230
 00:14:00,440 --> 00:14:02,320
 Çok beklersin!
 
-221
+231
 00:14:02,320 --> 00:14:04,200
 Yüz yıl daha yaşayacağım.
 
-222
+232
 00:14:04,200 --> 00:14:06,410
 Bu moruğun da hiç lafı bitmiyor...
 
-223
+233
 00:14:06,410 --> 00:14:09,290
 Tamamdır, izin aldın!
 Artık bir korsan olabilirsin!
 
-224
+234
 00:14:09,290 --> 00:14:10,410
 Asla!
 
-225
+235
 00:14:10,950 --> 00:14:12,500
 Her neyse...
 
-226
+236
 00:14:12,870 --> 00:14:14,290
 Deminki olay için üzgünüm.
 
-227
+237
 00:14:14,290 --> 00:14:17,460
 Özür olarak, bu meyve salatasını
 kabul edin, prensesim.
 
-228
+238
 00:14:17,460 --> 00:14:19,670
 Vay, teşekkürler!
 
-229
+239
 00:14:19,670 --> 00:14:20,670
 Çok naziksin.
 
-230
+240
 00:14:20,670 --> 00:14:21,420
 Lafı olmaz...
 
-231
+241
 00:14:21,420 --> 00:14:23,590
 Bizden özür dilemeyecek misin?!
 
-232
+242
 00:14:23,590 --> 00:14:26,220
 Seni şikayet edeceğim,
 aptal aşk aşçısı!
 
-233
+243
 00:14:26,220 --> 00:14:28,930
 Size çay servis ediyorum, değil mi?
 
-234
+244
 00:14:28,930 --> 00:14:30,720
 Buna şükret, uzun burun.
 
-235
+245
 00:14:30,720 --> 00:14:32,230
 Ha? Kavga mı istiyorsun?
 
-236
+246
 00:14:32,230 --> 00:14:34,060
 Kendimi tutmam ama.
 
-237
+247
 00:14:34,060 --> 00:14:35,650
 Bitir işini, Zoro!
 
-238
+248
 00:14:35,650 --> 00:14:37,190
 Kendin yap.
 
-239
+249
 00:14:37,190 --> 00:14:39,690
 Durun!
 Lütfen benim için dövüşmeyin.
 
-240
+250
 00:14:39,690 --> 00:14:40,690
 Tamam, duracağım.
 
-241
+251
 00:14:40,690 --> 00:14:42,820
 Kim senin için olduğunu söyledi?!
 
-242
+252
 00:14:42,820 --> 00:14:44,110
 Bu arada...
 
-243
+253
 00:14:44,110 --> 00:14:44,910
 Evet?
 
-244
+254
 00:14:44,910 --> 00:14:47,030
 Buradaki yemekler çok lezzetli...
 
-245
+255
 00:14:47,030 --> 00:14:49,410
 ama benim için biraz pahalılar.
 
-246
+256
 00:14:49,410 --> 00:14:51,040
 Oh, tabii ki size ücretsiz.
 
-247
+257
 00:14:51,040 --> 00:14:52,540
 Teşekkürler!
 
-248
+258
 00:14:53,580 --> 00:14:55,620
 Siz ödemek zorundasınız.
 
-249
+259
 00:14:54,540 --> 00:14:55,620
 Ne...?!
 
-250
+260
 00:14:55,620 --> 00:14:57,840
 Çok tahmin edilebilirsin.
 
-251
+261
 00:14:59,960 --> 00:15:02,300
 Niye orada dikiliyorsun?!
 
-252
+262
 00:15:02,300 --> 00:15:04,550
 Müşterilere sıcak havlu getir!
 
-253
+263
 00:15:04,550 --> 00:15:05,550
 Emredersin.
 
-254
+264
+00:15:08,300 --> 00:15:12,470
+İki Gün Sonra
+
+265
 00:15:37,670 --> 00:15:42,170
 Düşmanları uyarmak için konulan
 kurukafanın etrafındaki kum saatleri.
 
-255
+266
 00:15:42,500 --> 00:15:44,300
 O bayrak!
 
-256
+267
 00:15:44,300 --> 00:15:46,050
 O bayrak...!
 
-257
+268
 00:15:46,050 --> 00:15:49,680
 Doğu Mavi'nin en güçlü adamı,
 
-258
+269
 00:15:50,220 --> 00:15:52,640
 Don Krieg!
 
-259
+270
 00:16:06,700 --> 00:16:07,570
 Neden...?!
 
-260
+271
 00:16:07,570 --> 00:16:10,370
 Neden Krieg Korsanları burada?!
 
-261
+272
 00:16:10,370 --> 00:16:13,330
 Gördün mü, Patty?!
 Gerçekten de geldiler!
 
-262
+273
 00:16:13,330 --> 00:16:15,330
 Onlardan kurtulacaksın, değil mi?!
 
-263
+274
 00:16:15,330 --> 00:16:17,080
 B-Bu olamaz!
 
-264
+275
 00:16:17,080 --> 00:16:20,080
 Adam, 5.000 korsandan oluşan
 bir filonun komutanı!
 
-265
+276
 00:16:20,080 --> 00:16:23,340
 Tek bir adamı için
 intikam almaya neden gelsin?!
 
-266
+277
 00:16:23,340 --> 00:16:24,840
 Hata falan yok!
 
-267
+278
 00:16:24,840 --> 00:16:26,670
 O cidden burada!
 
-268
+279
 00:16:26,670 --> 00:16:27,930
 Hey, bu hiç iyi değil!
 
-269
+280
 00:16:27,930 --> 00:16:30,180
 Buradan gitmemiz gerekmiyor mu?!
 
-270
+281
 00:16:30,180 --> 00:16:32,640
 Ne kadar da büyük bir kalyon!
 
-271
+282
 00:16:39,980 --> 00:16:41,860
 Ne kadar da devasa bir gemi!
 
-272
+283
 00:16:41,860 --> 00:16:44,780
 Belki de Gin,
 teşekkür etmek için döndü.
 
-273
+284
 00:16:44,780 --> 00:16:47,280
 Bundan şüpheliyim...
 
-274
+285
 00:16:47,280 --> 00:16:49,110
 Ama bir şeyler garip...
 
-275
+286
 00:16:48,200 --> 00:16:49,110
 Ha?
 
-276
+287
 00:16:58,040 --> 00:16:59,290
 H-Hey...
 
-277
+288
 00:16:59,290 --> 00:17:00,960
 B-Bu da ne...?
 
-278
+289
 00:17:08,420 --> 00:17:11,390
 Gemileri cidden darmadağın...
 
-279
+290
 00:17:11,390 --> 00:17:14,350
 Top ateşi yüzünden bu hale
 gelmiş gibi durmuyor.
 
-280
+291
 00:17:15,100 --> 00:17:18,060
 Bunu bir insan da yapmış olamaz.
 
-281
+292
 00:17:18,060 --> 00:17:20,270
 Bir hortumdan mı geçtiler?
 
-282
+293
 00:17:22,350 --> 00:17:24,190
 İşte geliyor...
 
-283
+294
+00:17:39,870 --> 00:17:44,840
+Don Krieg
+Korsan Komodor
+
+295
 00:17:46,460 --> 00:17:47,960
 Ü-Üzgünüm...
 
-284
+296
 00:17:49,170 --> 00:17:52,930
 Biraz su ve yemek alabilir miyim?
 
-285
+297
 00:17:53,470 --> 00:17:55,430
 Paramız var...
 
-286
+298
 00:17:55,430 --> 00:17:57,850
 tonla var...
 
-287
+299
 00:17:59,520 --> 00:18:01,270
 N-Ne diyor bu?!
 
-288
+300
 00:18:01,270 --> 00:18:03,400
 Ne saygın ne de kudretli gözüküyor.
 
-289
+301
 00:18:03,400 --> 00:18:08,280
 Gerçekten o, devasa korsan filosuna
 sahip Komodor Don Krieg mi?
 
-290
+302
 00:18:08,280 --> 00:18:10,610
 Demek ki acıkmış...
 
-291
+303
 00:18:15,740 --> 00:18:17,410
 K-Kaptan!
 
-292
+304
 00:18:18,950 --> 00:18:20,450
 Don Krieg!
 
-293
+305
 00:18:22,080 --> 00:18:23,500
 L-Lütfen!
 
-294
+306
 00:18:23,500 --> 00:18:25,210
 Kaptanımıza yardım edin!
 
-295
+307
 00:18:25,790 --> 00:18:27,590
 Açlıktan ölmek üzere!
 
-296
+308
 00:18:28,130 --> 00:18:32,170
 Günlerdir hiçbir şey yemedi,
 böyle giderse ölecek!
 
-297
+309
 00:18:40,430 --> 00:18:42,270
 Bu harika!
 
-298
+310
 00:18:42,270 --> 00:18:46,610
 Büyük haydut Don Krieg'i
 böyle acınası bir durumda görmek!
 
-299
+311
 00:18:46,610 --> 00:18:48,440
 Bu sefer param var.
 
-300
+312
 00:18:48,440 --> 00:18:49,860
 Biz müşteriyiz!
 
-301
+313
 00:18:49,860 --> 00:18:51,990
 Saçmalamayı kes!
 
-302
+314
 00:18:51,990 --> 00:18:54,360
 Hey, hemen Donanma'ya haber verin.
 
-303
+315
 00:18:54,360 --> 00:18:55,160
 Ne?
 
-304
+316
 00:18:55,160 --> 00:18:58,870
 Şu anda olabileceği en güçsüz halde,
 böyle bir şansı tekrar bulamayız!
 
-305
+317
 00:18:58,870 --> 00:19:00,490
 Ona hiçbir şey yedirmeyin!
 
-306
+318
 00:19:00,490 --> 00:19:01,910
 Sadece yakalayın!
 
-307
+319
 00:19:02,620 --> 00:19:05,960
 O haklı! Enerjisini geri kazandığında
 ne yapacağını bilmiyoruz.
 
-308
+320
 00:19:05,960 --> 00:19:07,630
 O bir cani.
 
-309
+321
 00:19:07,630 --> 00:19:12,340
 Yaptıkları yüzünden
 aç kalmayı hakediyor!
 
-310
+322
 00:19:12,340 --> 00:19:16,470
 Kendine geldikten sonra,
 bu restorana saldıracağı çok belli.
 
-311
+323
 00:19:16,470 --> 00:19:19,100
 Bir bardak su bile vermeyin.
 
-312
+324
 00:19:20,680 --> 00:19:23,140
 Hiçbir şey yapmayacağım.
 
-313
+325
 00:19:25,310 --> 00:19:27,060
 Hiçbir şey yapmayacağım.
 
-314
+326
 00:19:27,060 --> 00:19:29,270
 Karnımı doyurduğum gibi,
 
-315
+327
 00:19:29,270 --> 00:19:31,610
 usluca buradan gideceğim.
 
-316
+328
 00:19:31,610 --> 00:19:35,280
 O yüzden lütfen... yardım... edin...
 
-317
+329
 00:19:35,900 --> 00:19:38,160
 Don Krieg, lütfen dur!
 
-318
+330
 00:19:38,160 --> 00:19:40,530
 Lütfen yalvarmayın!
 
-319
+331
 00:19:40,530 --> 00:19:42,290
 Size yakışmıyor!
 
-320
+332
 00:19:42,290 --> 00:19:45,040
 Lütfen böyle utanç verici
 bir şey yapmayın!
 
-321
+333
 00:19:45,040 --> 00:19:46,620
 Söz veriyorum...
 
-322
+334
 00:19:47,370 --> 00:19:48,790
 Lütfen...
 
-323
+335
 00:19:48,790 --> 00:19:52,090
 Arta kalanlar da olur,
 herhangi bir şey de...
 
-324
+336
 00:19:53,090 --> 00:19:55,130
 Her şey olur...
 
-325
+337
 00:19:57,800 --> 00:19:58,970
 Don...
 
-326
+338
 00:20:03,180 --> 00:20:05,180
 Kendini acındırmaya mı çalışıyorsun?
 
-327
+339
 00:20:05,180 --> 00:20:07,270
 Hey, yolumdan çekil, Patty.
 
-328
+340
 00:20:13,150 --> 00:20:14,440
 Oha!
 
-329
+341
 00:20:15,400 --> 00:20:16,110
 Sa...
 
-330
+342
 00:20:16,860 --> 00:20:18,410
 Sanji-san!
 
-331
+343
 00:20:20,990 --> 00:20:22,990
 İşte, Gin.
 
-332
+344
 00:20:22,990 --> 00:20:24,580
 Bunu yiyebilir.
 
-333
+345
 00:20:27,120 --> 00:20:28,580
 Sanji-san...
 
-334
+346
 00:20:34,460 --> 00:20:35,510
 Teşekkür ederim!
 
-335
+347
 00:20:46,520 --> 00:20:49,350
 Hey, Sanji!
 Hemen o yemeği önünden al!
 
-336
+348
 00:20:49,810 --> 00:20:52,310
 Onun nasıl biri olduğunu
 bilmiyor musun?!
 
-337
+349
 00:20:52,730 --> 00:20:55,820
 O Doğu Mavi'nin en güçlüsü
 olarak bahsedilen,
 
-338
+350
 00:20:55,820 --> 00:20:57,570
 Hileci Krieg!
 
-339
+351
 00:20:59,150 --> 00:21:03,410
 Bu ismi hapishanede aldı.
 Bir donanma askeri gibi davrandı...
 
-340
+352
 00:21:03,410 --> 00:21:07,500
 ve kıdemli bir subayı öldürerek
 geminin komutasını ele geçirdi.
 
-341
+353
 00:21:07,500 --> 00:21:10,170
 Böylece kendini bir korsan ilan etti.
 
-342
+354
 00:21:11,460 --> 00:21:14,590
 Bazen limanlara girerken
 Donanma bayrağını çeker,...
 
-343
+355
 00:21:14,590 --> 00:21:16,760
 kasabaları ve
 yolcu gemilerini hedef alır.
 
-344
+356
 00:21:16,760 --> 00:21:19,930
 Beyaz bayrak çekerek
 düşman gemilere saldırdığı da olmuş.
 
-345
+357
 00:21:19,930 --> 00:21:22,140
 O kazanmak için her şeyi yapar.
 
-346
+358
 00:21:22,140 --> 00:21:24,510
 Şu anda bulunduğu konuma böyle erişti!
 
-347
+359
 00:21:25,680 --> 00:21:27,970
 Ne? Kirli dövüşüyor demek.
 
-348
+360
 00:21:27,970 --> 00:21:31,060
 Fiziksel gücü de
 küçümsenecek gibi değil.
 
-349
+361
 00:21:31,060 --> 00:21:32,940
 Karnını doyurduktan sonra gitmek mi?
 
-350
+362
 00:21:32,940 --> 00:21:35,400
 Öyle bir şey yapması imkansız!
 
-351
+363
 00:21:35,400 --> 00:21:40,240
 Bu kadar zalim birinin ölmesine izin
 vermek, toplumun yararına olur!
 
-352
+364
 00:21:56,500 --> 00:21:57,750
 Sa...
 
-353
+365
 00:21:57,750 --> 00:21:59,630
 Sanji!
 
-354
+366
 00:22:07,350 --> 00:22:08,100
 Bö...
 
-355
+367
 00:22:08,100 --> 00:22:10,430
 Böyle anlaşmamıştık, Don Krieg!
 
-356
+368
 00:22:10,770 --> 00:22:14,690
 Bu restorandaki kimseye dokunmaman
 koşulu ile seni buraya getirdim!
 
-357
+369
 00:22:14,690 --> 00:22:16,440
 Ve o adam...
 
-358
+370
 00:22:16,440 --> 00:22:18,280
 Bizim hayatımızı kurtardı...
 
-359
+371
 00:22:22,820 --> 00:22:25,120
 Evet, çok lezzetliydi.
 
-360
+372
 00:22:26,740 --> 00:22:28,370
 Tekrardan canlı hissediyorum.
 
-361
+373
 00:22:43,800 --> 00:22:45,840
 H-Hey... N-Ne...?
 
-362
+374
 00:22:45,840 --> 00:22:49,350
 O-Orada ne haltlar dönüyor?
 
-363
+375
 00:22:49,350 --> 00:22:50,720
 Gidip öğrenelim.
 
-364
+376
 00:22:50,720 --> 00:22:52,560
 Ne?! C-Ciddi misin sen?!
 
-365
+377
 00:22:54,560 --> 00:22:57,560
 Ne kadar da güzel bir restoran.
 
-366
+378
 00:22:57,560 --> 00:22:59,690
 Bu gemiyi alacağım.
 
-367
+379
 00:23:02,650 --> 00:23:04,400
 Demek...
 
-368
+380
 00:23:04,400 --> 00:23:05,700
 bu yüzden geldin...
 
-369
+381
 00:23:06,160 --> 00:23:07,870
 Ah, ah, ah...
 
-370
+382
 00:23:14,460 --> 00:23:17,830
 Benim gemim harabeye döndü,...
 
-371
+383
 00:23:17,830 --> 00:23:20,380
 o yüzden yenisine ihtiyacım var.
 
-372
+384
 00:23:20,750 --> 00:23:24,800
 Size söylediklerimi yaptıktan
 sonra gitmekte özgürsünüz.
 
-373
+385
 00:23:24,800 --> 00:23:26,220
 N-Ne?!
 
-374
+386
 00:23:26,220 --> 00:23:30,100
 Don Krieg, anlaştığımız bu değildi.
 
-375
+387
 00:23:32,770 --> 00:23:36,730
 Gemimde hayatta kalan
 sadece 100 adam kaldı.
 
-376
+388
 00:23:37,190 --> 00:23:39,940
 Açlıktan ölüyorlar ve ağır yaralılar.
 
-377
+389
 00:23:40,820 --> 00:23:46,240
 Önce, onlar için
 100 kişilik yemek ve su hazırlayın.
 
-378
+390
 00:23:46,570 --> 00:23:48,910
 Bazıları çoktan açlıktan öldü.
 
-379
+391
 00:23:50,200 --> 00:23:52,830
 S-Su...
 
-380
+392
 00:23:56,250 --> 00:23:58,040
 Kaybedecek zaman yok!
 
-381
+393
 00:23:58,830 --> 00:24:01,460
 Bu gemiye saldıracak olan korsanlara
 
-382
+394
 00:24:01,800 --> 00:24:03,880
 yardım etmemizi mi istiyorsun?!
 
-383
+395
 00:24:03,880 --> 00:24:05,220
 Reddediyoruz!
 
-384
+396
 00:24:06,050 --> 00:24:07,720
 Reddetmek mi?
 
-385
+397
 00:24:07,720 --> 00:24:09,640
 Beni yanlış anlamayın.
 
-386
+398
 00:24:09,640 --> 00:24:12,310
 Sizden bir istekte bulunmuyorum.
 
-387
+399
 00:24:12,310 --> 00:24:14,350
 Size emrediyorum.
 
-388
+400
 00:24:14,350 --> 00:24:15,850
 Kim olursan ol...
 
-389
+401
 00:24:15,850 --> 00:24:21,980
 sakın bana karşı gelmeye cüret etme!
 
-390
+402
 00:24:26,950 --> 00:24:28,610
 Sanji-san...
 
-391
+403
 00:24:29,490 --> 00:24:31,740
 Sanji-san, üzgünüm...
 
-392
+404
 00:24:31,740 --> 00:24:34,330
 Bunun olmasını istemedim...
 
-393
+405
 00:24:34,330 --> 00:24:38,330
 Seni pislik!
 Bizi bu pisliğe sen bulaştırdın!
 
-394
+406
 00:24:56,560 --> 00:24:59,190
 Hey Sanji! Nereye gidiyorsun?!
 
-395
+407
 00:25:01,150 --> 00:25:02,520
 Mutfağa.
 
-396
+408
 00:25:03,020 --> 00:25:06,150
 100 kişilik yemek yapmam gerek.
 
-397
+409
 00:25:06,900 --> 00:25:07,650
 Sanji-san!
 
-398
+410
 00:25:07,650 --> 00:25:08,650
 Sanji?!
 
-399
+411
 00:25:08,650 --> 00:25:11,110
 – Ne?!
 – Ne?!
 
-400
+412
 00:25:11,910 --> 00:25:13,200
 Evet.
 
-401
+413
 00:25:13,200 --> 00:25:14,830
 Olması gereken bu.
 
-402
+414
 00:25:19,620 --> 00:25:22,500
 Krieg'in casusu falan mısın, Sanji?!
 
-403
+415
 00:25:22,500 --> 00:25:24,590
 Mutfağa gitmene izin veremeyiz!
 
-404
+416
 00:25:24,590 --> 00:25:28,090
 Senin bu çılgınca davranışlarından
 bıktık artık!
 
-405
+417
 00:25:29,590 --> 00:25:31,050
 Durmayın.
 
-406
+418
 00:25:32,390 --> 00:25:34,470
 Eğer beni durdurmak istiyorsanız, yapın!
 
-407
+419
 00:25:37,470 --> 00:25:39,390
 Biliyorum...
 
-408
+420
 00:25:39,770 --> 00:25:43,860
 Onun uslanmaz bir düzenbaz
 olduğunu ben de biliyorum.
 
-409
+421
 00:25:46,110 --> 00:25:48,740
 Ama bu benim için hiçbir şey değiştirmiyor.
 
-410
+422
 00:25:49,740 --> 00:25:51,820
 Benim için farketmez!
 
-411
+423
 00:25:52,280 --> 00:25:54,530
 Onlara yemek verdikten sonra...
 
-412
+424
 00:25:54,530 --> 00:25:56,530
 ne olacağı hiç umurumda değil.
 
-413
+425
 00:25:56,530 --> 00:25:57,700
 Ben bir aşçıyım.
 
-414
+426
 00:25:57,700 --> 00:26:00,040
 Ne eksik. Ne fazla.
 
-415
+427
 00:26:00,040 --> 00:26:03,040
 Eğer birisi aç ise, onu besleyeceğim.
 
-416
+428
 00:26:03,040 --> 00:26:04,540
 İşte o kadar.
 
-417
+429
 00:26:05,920 --> 00:26:07,210
 Aşçının görevi...
 
-418
+430
 00:26:07,210 --> 00:26:09,420
 bu değil midir?
 
-419
+431
 00:26:17,560 --> 00:26:18,520
 Patty!
 
-420
+432
 00:26:18,520 --> 00:26:20,350
 Hey, biri onu zapt etmeliydi!
 
-421
+433
 00:26:21,520 --> 00:26:27,360
 Sanji, bazen arka kapıdan kovduğum
 müşterileri besliyorsun, değil mi?
 
-422
+434
 00:26:27,860 --> 00:26:33,320
 Kim haklı, kim haksız bilmem ama
 bu sefer yanılıyorsun.
 
-423
+435
 00:26:33,780 --> 00:26:36,620
 Artık istediğini yapmana izin vermeyeceğim.
 
-424
+436
 00:26:36,620 --> 00:26:38,740
 Bu restoranı koruyacağım.
 
-425
+437
 00:26:38,740 --> 00:26:40,620
 Tek düşmanımız var, neyse ki.
 
-426
+438
 00:26:40,620 --> 00:26:44,210
 Bu kişi Don Krieg olsa bile,
 bize karşı ne yapabilir ki?
 
-427
+439
 00:26:46,460 --> 00:26:49,920
 Burası her gün korsanların
 uğradığı bir restoran.
 
-428
+440
 00:26:50,380 --> 00:26:53,680
 Her türden müşteriye
 hizmet vermeye hazırız!
 
-429
+441
 00:26:53,680 --> 00:26:54,840
 Yoksa o...
 
-430
+442
 00:26:54,840 --> 00:26:58,470
 Doydun mu, Krieg-san?
 
-431
+443
 00:26:58,470 --> 00:27:00,770
 Ana yemekten sonra...
 
-432
+444
 00:27:01,470 --> 00:27:05,900
 sıcak kurşundan bir
 tatlıya ne dersiniz?!
 
-433
+445
 00:27:06,650 --> 00:27:10,530
 Bozuk Köfte!
 
-434
+446
 00:27:26,500 --> 00:27:27,540
 Don!
 
-435
+447
 00:27:32,760 --> 00:27:35,010
 Kapıyı kırdım sanırım.
 
-436
+448
 00:27:35,010 --> 00:27:37,010
 Patron yine bana kızacak.
 
-437
+449
 00:27:37,010 --> 00:27:39,260
 Restoranı korumak için yaptın sonuçta.
 
-438
+450
 00:27:39,260 --> 00:27:40,890
 Küçük bir bedel sadece.
 
-439
+451
 00:27:41,470 --> 00:27:44,980
 Krieg'in gemisindekiler ile ilgili
 ne yapmayı planlıyorsun?
 
-440
+452
 00:27:44,980 --> 00:27:46,230
 Kim bilir?
 
-441
+453
 00:27:46,230 --> 00:27:49,310
 Belki de gemiye tereyağı sürüp
 tavada kızartırız.
 
-442
+454
 00:27:49,650 --> 00:27:53,610
 Çok lezzetli olurdu,...
 
-443
+455
 00:27:54,360 --> 00:27:55,820
 seni acınası aşçı!
 
-444
+456
 00:27:57,910 --> 00:28:00,330
 Böyle berbat bir tatlıyı
 bana nasıl sunarsın?!
 
-445
+457
 00:28:00,330 --> 00:28:02,790
 Burası en berbat restoran!
 
-446
+458
 00:28:07,370 --> 00:28:09,670
 Çok sinir bozucusun!
 
-447
+459
 00:28:16,010 --> 00:28:17,430
 Vücudunun her yerinden..
 
-448
+460
 00:28:17,430 --> 00:28:18,550
 Mermiler...
 
-449
+461
 00:28:32,770 --> 00:28:35,650
 Bana karşı gelmeye kalkmayın!
 
-450
+462
 00:28:36,150 --> 00:28:38,860
 Ben herkesten daha güçlüyüm!
 
-451
+463
 00:28:40,160 --> 00:28:42,370
 Çelik kollar, etten kuvvetlidir...
 
-452
+464
 00:28:42,740 --> 00:28:45,500
 En sert wootz çeliğiyle kaplanmış zırh...
 
-453
+465
 00:28:45,500 --> 00:28:49,330
 Ve her şeyi yok edecek
 elmas yumruklar!
 
-454
+466
 00:28:50,420 --> 00:28:52,960
 Vücuduma gömülmüş her türlü silah,...
 
-455
+467
 00:28:52,960 --> 00:28:55,090
 50 gemi büyüklüğündeki bir filo...
 
-456
+468
 00:28:55,090 --> 00:28:57,090
 ve 5,000 korsanlı askeri güç...
 
-457
+469
 00:28:57,090 --> 00:29:00,840
 Geçmişte girdiğim tüm savaşları kazandım!
 
-458
+470
 00:29:00,840 --> 00:29:05,390
 Sadece ben, "Don" diye seslenilmeye
 uygun olan adamım!
 
-459
+471
 00:29:06,140 --> 00:29:08,140
 Çekil yolumdan, velet!
 
-460
+472
 00:29:10,310 --> 00:29:15,530
 Size yemek yapmanızı söylediğimde,
 itaat edin!
 
-461
+473
 00:29:15,980 --> 00:29:18,320
 Kimse bana karşı gelemez!
 
-462
+474
 00:29:21,570 --> 00:29:23,950
 Bunun içinde 100 kişilik yemek var.
 
-463
+475
 00:29:23,950 --> 00:29:26,080
 Hemen bunu gemine götür.
 
-464
+476
 00:29:26,080 --> 00:29:27,540
 – Patron Zeff!
 – Patron Zeff!
 
-465
+477
 00:29:29,710 --> 00:29:33,080
 Z... Zeff mi?
 
-466
+478
 00:29:37,300 --> 00:29:39,920
 Ne... Ne yapıyorsun öyle?!
 
-467
+479
 00:29:40,510 --> 00:29:45,600
 Korsanları beslersek
 gelip burayı istila edecekler.
 
-468
+480
 00:29:45,600 --> 00:29:49,480
 Güçleri varsa tabii!
 
-469
+481
 00:29:51,190 --> 00:29:54,940
 Haksız mıyım,
 seni Grand Line fiyaskosu?
 
-470
+482
 00:29:57,900 --> 00:29:59,650
 O-Olamaz.
 
-471
+483
 00:29:59,650 --> 00:30:02,240
 Don Krieg, Grand Line'da başarısız mı oldu?
 
-472
+484
 00:30:02,610 --> 00:30:05,620
 Doğu Mavi’nin fatihi bile...
 
-473
+485
 00:30:05,620 --> 00:30:09,910
 elli gemilik filoyla başaramadı mı?!
 
-474
+486
 00:30:10,250 --> 00:30:11,870
 Grand Line mı?
 
-475
+487
 00:30:11,870 --> 00:30:15,670
 S... Sen...
 
-476
+488
 00:30:15,670 --> 00:30:17,590
 Kızıl Bacak Zeff'sin.
-
-477
-00:03:41,120 --> 00:03:47,080
-Gin
-Korsan Savaşçı
-Krieg Korsanları
-
-478
-00:03:41,120 --> 00:03:47,080
-Gin
-Korsan Savaşçı
-Krieg Korsanları
-
-479
-00:04:51,940 --> 00:04:56,900
-Gemi Mutfağı
-Deniz Restoranı
-
-480
-00:04:51,940 --> 00:04:56,900
-Gemi Mutfağı
-Deniz Restoranı
-
-481
-00:08:18,270 --> 00:08:23,190
-Monkey D. Luffy
-Borçlu Kamarot
-Deniz Restoranı
-
-482
-00:08:18,270 --> 00:08:23,190
-Monkey D. Luffy
-Borçlu Kamarot
-Deniz Restoranı
-
-483
-00:08:26,360 --> 00:08:29,240
-Korsanlığa Ara Verdi
-
-484
-00:08:26,360 --> 00:08:29,240
-Korsanlığa Ara Verdi
-
-485
-00:08:30,820 --> 00:08:32,700
-Korsanlığa Ara Verdi
-
-486
-00:08:30,820 --> 00:08:32,700
-Korsanlığa Ara Verdi
-
-487
-00:08:33,830 --> 00:08:35,910
-Korsanlığa Ara Verdi
-
-488
-00:08:33,830 --> 00:08:35,910
-Korsanlığa Ara Verdi
-
-489
-00:08:37,540 --> 00:08:38,870
-Korsanlığa Ara Verdi
-
-490
-00:08:37,540 --> 00:08:38,870
-Korsanlığa Ara Verdi
-
-491
-00:08:40,960 --> 00:08:42,920
-Korsanlığa Ara Verdi
-
-492
-00:08:40,960 --> 00:08:42,920
-Korsanlığa Ara Verdi
-
-493
-00:08:52,970 --> 00:08:54,680
-Korsanlığa Ara Verdi
-
-494
-00:08:52,970 --> 00:08:54,680
-Korsanlığa Ara Verdi
-
-495
-00:15:08,300 --> 00:15:12,470
-İki Gün Sonra
-
-496
-00:15:08,300 --> 00:15:12,470
-İki Gün Sonra
-
-497
-00:17:39,870 --> 00:17:44,840
-Don Krieg
-Korsan Komodor
-
-498
-00:17:39,870 --> 00:17:44,840
-Don Krieg
-Korsan Komodor

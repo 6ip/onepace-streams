@@ -1,3185 +1,3173 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:18,590 --> 00:00:22,170
+Partons en voyage avant l'aube.
+
+3
+00:00:22,260 --> 00:00:26,690
+Pour voir nos lendemains inconnus.
+
+4
+00:00:26,970 --> 00:00:30,330
+Nous n'avons aucun regrets dans nos choix
+
+5
+00:00:30,630 --> 00:00:33,340
+(Oh je sais ce que je suis supposée faire).
+
+6
+00:00:33,510 --> 00:00:37,070
+Peu importe les épreuves qui nous attendent.
+
+7
+00:00:37,210 --> 00:00:41,700
+Rien ne peut arrêter mon cœur de battre.
+
+8
+00:00:41,810 --> 00:00:46,350
+Il n'y a qu'un seul endroit où aller.
+
+9
+00:00:46,580 --> 00:00:48,250
+(Volons vers la lumière !)
+
+10
+00:00:48,320 --> 00:00:52,000
+Je ne laisserai personne briser
+
+11
+00:00:52,160 --> 00:00:55,670
+Les liens créés au fil des batailles.
+
+12
+00:00:55,800 --> 00:00:58,470
+Quand je rouvrirai mon poing serré,
+
+13
+00:00:58,600 --> 00:01:01,710
+J'y trouverai de la force.
+
+14
+00:01:01,870 --> 00:01:04,130
+Allez, c'est parti.
+
+15
+00:01:04,270 --> 00:01:09,280
+Le nouveau monde appelle.
+
+16
+00:01:09,380 --> 00:01:11,670
+Regarde maintenant.
+
+17
+00:01:11,780 --> 00:01:18,020
+Peu importe le nombre de mers qui nous séparent.
+
+18
+00:01:18,080 --> 00:01:21,790
+Je me tiendrai toujours à tes côtés.
+
+19
+00:01:21,820 --> 00:01:25,460
+N'aie pas peur d'avancer.
+
+20
+00:01:25,960 --> 00:01:27,850
+N'oublie pas
+
+21
+00:01:27,920 --> 00:01:29,200
+Que nous combattons ensemble.
+
+22
+00:01:29,860 --> 00:01:37,120
+Je n'ai jamais souillé la mémoire.
+
+23
+00:01:37,540 --> 00:01:39,900
+De ce vaste ciel infini
+
+24
+00:01:40,010 --> 00:01:45,020
+que j'ai admiré ce jour-là.
+
+25
+00:01:45,040 --> 00:01:48,450
+Nous avons parcouru un long chemin.
+
+26
+00:01:48,650 --> 00:01:52,410
+Chacun avec notre engagement dans nos cœurs.
+
+27
+00:01:52,450 --> 00:01:54,990
+Il n'y a pas de doute.
+
+28
+00:01:55,050 --> 00:01:59,420
+Il y a des choses que l'on doit emporter avec nous.
+
+29
+00:01:59,560 --> 00:02:01,880
+Le soleil se lèvera et brillera.
+
+30
+00:02:02,030 --> 00:02:06,840
+De façon égale, même sur nos peines.
+
+31
+00:02:06,870 --> 00:02:09,240
+Je crois
+
+32
+00:02:09,340 --> 00:02:15,580
+au futur qui sera un jour une seule partie.
+
+33
+00:02:15,710 --> 00:02:19,300
+Allons le chercher ensemble.
+
+34
+00:02:19,380 --> 00:02:23,110
+Tu es unique.
+
+35
+00:02:23,580 --> 00:02:25,240
+N'oublie pas
+
+36
+00:02:25,540 --> 00:02:27,640
+Que nous combattons ensemble.
+
+37
 00:02:33,400 --> 00:02:34,700
 Attention, j'y vais !
 
-3
+38
 00:02:34,700 --> 00:02:37,070
 Gum Gum...
 
-4
+39
 00:02:37,070 --> 00:02:39,370
 Pistol !
 
-5
+40
 00:02:43,680 --> 00:02:45,310
 Dis donc.
 
-6
+41
 00:02:46,050 --> 00:02:48,250
 T'essaies de faire quoi, au juste ?
 
-7
+42
 00:02:48,780 --> 00:02:50,150
 Un point pour Ace.
 
-8
+43
 00:02:56,120 --> 00:02:58,060
 On a déjà eu cette discussion,
 
-9
+44
 00:02:58,260 --> 00:03:01,720
 mais t'es sûr qu'ils servent
 à quelque chose, tes pouvoirs ?
 
-10
+45
+00:02:58,660 --> 00:03:06,030
+La Coupe de la Fraternité
+
+46
 00:03:01,720 --> 00:03:04,360
 Mais zut, à la fin !
 Ça va pas comme je veux.
 
-11
+47
 00:03:04,360 --> 00:03:06,730
 Je sens que j'y suis presque, pourtant.
 
-12
+48
 00:03:07,480 --> 00:03:08,800
 On remet ça !
 
-13
+49
 00:03:09,000 --> 00:03:09,950
 Non.
 
-14
+50
 00:03:10,200 --> 00:03:12,500
 On a dit cent combats chacun, par jour.
 
-15
+51
 00:03:12,500 --> 00:03:13,540
 On verra demain.
 
-16
+52
 00:03:13,910 --> 00:03:17,510
 Luffy : 50 défaites contre Ace,
 50 contre moi.
 
-17
+53
 00:03:17,710 --> 00:03:21,120
 Contre moi, Ace a gagné 26 fois
 et il a perdu 24 fois.
 
-18
+54
 00:03:21,280 --> 00:03:24,120
 Il a deux victoires de plus que moi.
 Merde !
 
-19
+55
 00:03:24,120 --> 00:03:28,120
 Je vous préviens, quand j'aurai 10 ans,
 je vous ratatinerai !
 
-20
+56
 00:03:28,390 --> 00:03:30,500
 Sauf qu'à ce moment-là,
 on aura 13 ans.
 
-21
+57
 00:03:30,650 --> 00:03:32,620
 Allons nous occuper du dîner.
 
-22
+58
 00:03:41,370 --> 00:03:42,970
 Bon, on se fait un croco ?
 
-23
+59
 00:03:42,970 --> 00:03:45,300
 C'est bon, un festin de croco.
 
-24
+60
 00:03:45,300 --> 00:03:48,340
 Ne te fais pas bouffer, cette fois.
 
-25
+61
 00:03:48,840 --> 00:03:51,340
 Une chance
 que l'autre t'ait gobé sans mâcher.
 
-26
+62
 00:03:52,850 --> 00:03:56,520
 Tu bouges pas de là.
 Tu sais pas nager, tu nous gênerais...
 
-27
+63
 00:03:56,780 --> 00:03:58,820
 Festin de croco !
 
-28
+64
 00:03:58,820 --> 00:04:01,750
 – Hein ?
 – Je t'ai dit de pas bouger, débile !
 
-29
+65
 00:04:09,880 --> 00:04:12,200
 L'environnement hostile du Mont Corvo
 
-30
+66
 00:04:12,500 --> 00:04:15,400
 allait les endurcir jour après jour.
 
-31
+67
 00:04:17,440 --> 00:04:19,220
 Au nord, derrière la montagne,
 
-32
+68
 00:04:20,310 --> 00:04:24,310
 se trouve Grey Terminal, le dépotoir
 où les rebuts terminent leur course.
 
-33
+69
 00:04:25,410 --> 00:04:27,410
 Un peu plus loin,
 
-34
+70
 00:04:28,410 --> 00:04:33,120
 on trouve une ville, mais un imposant
 et infranchissable rempart la protège.
 
-35
+71
 00:04:37,320 --> 00:04:41,230
 Pour gagner la ville, un seul accès :
 la Grande Porte.
 
-36
+72
 00:04:41,690 --> 00:04:43,340
 Elle s'ouvre deux fois par jour,
 
-37
+73
 00:04:43,500 --> 00:04:48,030
 pour permettre le déversement
 des déchets du royaume tout entier.
 
-38
+74
 00:04:49,570 --> 00:04:54,040
 – Ça y est, ça déboule.
 – La pêche au trésor commence !
 
-39
+75
 00:04:54,410 --> 00:04:57,820
 Les occupants de Grey Terminal
 se rendent parfois en ville,
 
-40
+76
 00:04:57,970 --> 00:05:00,710
 pour y revendre
 divers matériaux recyclés.
 
-41
+77
 00:05:06,480 --> 00:05:08,490
 Pas si vite.
 Tu trimballes quoi ?
 
-42
+78
 00:05:10,800 --> 00:05:13,760
 Une peau de crocodile,
 je vais la vendre.
 
-43
+79
 00:05:13,760 --> 00:05:14,390
 Crocodile ?
 
-44
+80
 00:05:17,530 --> 00:05:18,830
 Vas-y.
 
-45
+81
 00:05:21,500 --> 00:05:25,700
 La Porte débouche sur une esplanade,
 pour mieux surveiller les arrivants.
 
-46
+82
 00:05:25,900 --> 00:05:27,610
 C'est la "Frange".
 
-47
+83
 00:05:33,810 --> 00:05:38,720
 La Frange, c'est le repaire des vauriens
 et des canailles urbaines.
 
-48
+84
 00:05:44,890 --> 00:05:48,630
 Hep, gars.
 Laisse ta cargaison ici, on s'en occupe.
 
-49
+85
 00:05:52,000 --> 00:05:54,650
 Ben alors ?
 T'as perdu ta langue ?
 
-50
+86
 00:05:54,870 --> 00:05:56,270
 Silence, le crevard.
 
-51
+87
 00:05:56,270 --> 00:05:57,200
 Quoi ?
 
-52
+88
 00:06:00,940 --> 00:06:02,340
 Tu te crois où ?
 
-53
+89
 00:06:02,340 --> 00:06:04,180
 Avant de braquer n'importe qui...
 
-54
+90
 00:06:06,780 --> 00:06:08,550
 Vérifie à qui t'as affaire !
 
-55
+91
 00:06:10,680 --> 00:06:12,380
 Oh non, pas eux !
 
-56
+92
 00:06:13,390 --> 00:06:14,400
 On y va !
 
-57
+93
 00:06:14,550 --> 00:06:15,890
 – Ouais !
 – Ouais !
 
-58
+94
 00:06:33,240 --> 00:06:35,100
 Une fois dans la Ville Centrale,
 
-59
+95
 00:06:35,250 --> 00:06:38,010
 une nouvelle muraille escarpée
 se dresse.
 
-60
+96
 00:06:38,210 --> 00:06:39,700
 Cette enceinte,
 
-61
+97
 00:06:40,150 --> 00:06:44,150
 c'est la Haute Ville où résident
 nobles et membres de la famille royale.
 
-62
+98
 00:06:47,320 --> 00:06:50,000
 Nous sommes dans le royaume de Goa.
 
-63
+99
 00:06:50,190 --> 00:06:51,620
 Sans aucune salissure,
 
-64
+100
 00:06:51,620 --> 00:06:55,430
 cette cité est réputée
 la plus belle de tout East Blue.
 
-65
+101
 00:06:58,560 --> 00:07:03,310
 On l'oublie souvent, mais Fuchsia,
 le village où Luffy a vu le jour,
 
-66
+102
+00:07:03,640 --> 00:07:05,970
+fait partie intégrante de ce royaume.
+
+103
 00:07:09,290 --> 00:07:12,310
 Centre Ville
 
-67
-00:07:09,290 --> 00:07:12,310
-Centre Ville
-
-68
+104
 00:07:15,510 --> 00:07:18,220
 Voici vos trois ramen,
 pardon pour l'attente.
 
-69
+105
 00:07:18,520 --> 00:07:20,090
 Bon appétit.
 
-70
+106
 00:07:21,990 --> 00:07:23,820
 C'est ça, un ramen ?
 
-71
+107
 00:07:23,820 --> 00:07:25,420
 Ça a l'air trop bon !
 
-72
+108
 00:07:27,430 --> 00:07:28,890
 Goûtez voir.
 
-73
+109
 00:07:30,700 --> 00:07:32,260
 C'est trop bon !
 
-74
+110
 00:07:34,200 --> 00:07:35,930
 C'est vrai que c'est bon.
 
-75
+111
 00:07:39,870 --> 00:07:40,940
 Du rab !
 
-76
+112
 00:07:42,870 --> 00:07:46,910
 Resservez-moi.
 Trois portions, à nouveau.
 
-77
+113
 00:07:46,910 --> 00:07:48,780
 Tout de suite !
 
-78
+114
 00:07:48,780 --> 00:07:49,880
 J'entre.
 
-79
+115
 00:07:58,360 --> 00:08:00,090
 Chef !
 
-80
+116
 00:08:00,090 --> 00:08:01,700
 Quoi ?
 
-81
+117
 00:08:03,130 --> 00:08:05,260
 Monsieur, un instant.
 
-82
+118
 00:08:05,600 --> 00:08:07,990
 – On est repérés ?
 – Cassos !
 
-83
+119
 00:08:08,900 --> 00:08:10,670
 Ils filent sans payer !
 
-84
+120
 00:08:10,670 --> 00:08:12,840
 Attrapez-les !
 
-85
+121
 00:08:14,040 --> 00:08:17,340
 – C'était trop bon, ces ramen.
 – Je te l'avais bien dit.
 
-86
+122
 00:08:17,940 --> 00:08:20,910
 Ce sont des enfants, non ?
 
-87
+123
 00:08:23,920 --> 00:08:29,190
 Encore eux ? Fallait pas les servir,
 ils sont connus comme le loup blanc.
 
-88
+124
 00:08:29,400 --> 00:08:32,080
 Ne laissez pas filer ces trois gamins !
 
-89
+125
 00:08:32,330 --> 00:08:34,560
 Chopez-les !
 
-90
+126
 00:08:35,760 --> 00:08:38,800
 On n'imaginait pas qu'ils s'enfuiraient
 par la fenêtre.
 
-91
+127
 00:08:39,030 --> 00:08:41,600
 On est au troisième.
 
-92
+128
 00:08:41,830 --> 00:08:46,040
 L'ardoise est chargée : 26 ramen
 et une fenêtre.
 
-93
+129
 00:08:46,470 --> 00:08:50,040
 Chef !
 On a trouvé cette note.
 
-94
+130
 00:08:54,030 --> 00:08:56,240
 "Bon pour un trésor" ?
 
-95
+131
 00:09:02,620 --> 00:09:03,900
 Sabo ?
 
-96
+132
 00:09:04,190 --> 00:09:06,600
 Sabo, c'est toi ?
 Attends !
 
-97
+133
 00:09:06,990 --> 00:09:09,030
 Tu es vivant ?
 
-98
+134
 00:09:09,960 --> 00:09:11,360
 Reviens à la maison !
 
-99
+135
 00:09:12,730 --> 00:09:15,220
 Sabo, il t'appelle.
 
-100
+136
 00:09:15,470 --> 00:09:16,230
 C'est qui ?
 
-101
+137
 00:09:17,600 --> 00:09:19,940
 Il se goure. On y va.
 
-102
+138
 00:09:22,240 --> 00:09:24,010
 Attends !
 
-103
+139
 00:09:35,350 --> 00:09:36,760
 Sabo.
 
-104
+140
 00:09:37,720 --> 00:09:41,530
 "Sa venue est prévue
 pour le printemps prochain."
 
-105
+141
 00:09:41,530 --> 00:09:45,500
 Dogra, Magra !
 Où que c'est, Goa ?
 
-106
+142
 00:09:46,630 --> 00:09:50,300
 Le Mont Corvo, Grey Terminal
 et le village de Fuchsia
 
-107
+143
 00:09:50,500 --> 00:09:52,870
 font partie du royaume de Goa.
 
-108
+144
 00:09:53,040 --> 00:09:54,440
 C'est bien ça.
 
-109
+145
 00:09:54,440 --> 00:09:56,480
 Eh bien, chef ?
 
-110
+146
 00:09:56,480 --> 00:09:59,000
 C'est rare de vous voir lire le journal.
 
-111
+147
 00:09:59,250 --> 00:10:01,980
 Il va pleuvoir, aujourd'hui ?
 
-112
+148
 00:10:02,400 --> 00:10:03,380
 Ouille !
 
-113
+149
 00:10:03,880 --> 00:10:06,600
 On va avoir de la visite,
 si j'ai bien suivi.
 
-114
+150
 00:10:06,750 --> 00:10:09,750
 Et pas n'importe qui,
 ça fait tout un chambard.
 
-115
+151
 00:10:11,020 --> 00:10:14,190
 Non, mais quel cirque !
 Il est si important que ça, ce type ?
 
-116
+152
 00:10:14,860 --> 00:10:17,200
 C'est quoi, un Dragon Céleste ?
 
-117
+153
+00:10:15,230 --> 00:10:15,260
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+154
+00:10:15,260 --> 00:10:15,290
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+155
+00:10:15,290 --> 00:10:15,330
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+156
+00:10:15,330 --> 00:10:15,360
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+157
+00:10:15,360 --> 00:10:15,390
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+158
+00:10:15,390 --> 00:10:15,430
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+159
+00:10:15,430 --> 00:10:15,460
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+160
+00:10:15,460 --> 00:10:15,490
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+161
+00:10:15,490 --> 00:10:15,530
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+162
+00:10:15,530 --> 00:10:15,560
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+163
+00:10:15,560 --> 00:10:15,590
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+164
+00:10:15,590 --> 00:10:15,630
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+165
+00:10:15,630 --> 00:10:15,660
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+166
+00:10:15,660 --> 00:10:15,690
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+167
+00:10:15,690 --> 00:10:15,730
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+168
+00:10:15,730 --> 00:10:15,760
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+169
+00:10:15,760 --> 00:10:15,790
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+170
+00:10:15,790 --> 00:10:15,830
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+171
+00:10:15,830 --> 00:10:15,860
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+172
+00:10:15,860 --> 00:10:15,890
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+173
+00:10:15,890 --> 00:10:15,930
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+174
+00:10:15,930 --> 00:10:15,960
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+175
+00:10:15,960 --> 00:10:15,990
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+176
+00:10:15,990 --> 00:10:16,030
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+177
+00:10:16,030 --> 00:10:16,060
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+178
+00:10:16,060 --> 00:10:16,090
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+179
+00:10:16,090 --> 00:10:16,130
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+180
+00:10:16,130 --> 00:10:16,160
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+181
+00:10:16,160 --> 00:10:16,190
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+182
+00:10:16,190 --> 00:10:16,230
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+183
+00:10:16,230 --> 00:10:16,260
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+184
+00:10:16,260 --> 00:10:16,290
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+185
+00:10:16,290 --> 00:10:16,330
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+186
+00:10:16,330 --> 00:10:16,360
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+187
+00:10:16,360 --> 00:10:16,390
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+188
+00:10:16,390 --> 00:10:16,430
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+189
+00:10:16,430 --> 00:10:16,460
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+190
+00:10:16,460 --> 00:10:16,500
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+191
+00:10:16,500 --> 00:10:16,530
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+192
+00:10:16,530 --> 00:10:16,560
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+193
+00:10:16,560 --> 00:10:16,600
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+194
+00:10:16,600 --> 00:10:16,630
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+195
+00:10:16,630 --> 00:10:16,660
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+196
+00:10:16,660 --> 00:10:16,700
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+197
+00:10:16,700 --> 00:10:16,730
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+198
+00:10:16,730 --> 00:10:16,760
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+199
+00:10:16,760 --> 00:10:16,800
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+200
+00:10:16,800 --> 00:10:16,830
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+201
+00:10:16,830 --> 00:10:16,860
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+202
+00:10:16,860 --> 00:10:16,900
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+203
+00:10:16,900 --> 00:10:16,930
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+204
+00:10:16,930 --> 00:10:16,960
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+205
+00:10:16,960 --> 00:10:17,000
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+206
+00:10:17,000 --> 00:10:17,030
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+207
+00:10:17,030 --> 00:10:17,060
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+208
+00:10:17,060 --> 00:10:17,100
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+209
+00:10:17,100 --> 00:10:17,130
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+210
+00:10:17,130 --> 00:10:17,160
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+211
+00:10:17,160 --> 00:10:17,200
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+212
+00:10:17,200 --> 00:10:17,230
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+213
+00:10:17,230 --> 00:10:17,260
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+214
+00:10:17,260 --> 00:10:17,300
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+215
+00:10:17,300 --> 00:10:17,330
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+216
+00:10:17,330 --> 00:10:17,360
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+217
+00:10:17,360 --> 00:10:17,400
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+218
+00:10:17,400 --> 00:10:17,430
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+219
+00:10:17,430 --> 00:10:17,460
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+220
+00:10:17,460 --> 00:10:17,500
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+221
+00:10:17,500 --> 00:10:17,530
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+222
+00:10:17,530 --> 00:10:17,560
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+223
+00:10:17,560 --> 00:10:17,600
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+224
+00:10:17,600 --> 00:10:17,630
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+225
+00:10:17,630 --> 00:10:17,660
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+226
+00:10:17,660 --> 00:10:17,700
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+227
+00:10:17,700 --> 00:10:17,730
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+228
+00:10:17,730 --> 00:10:17,760
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+229
+00:10:17,760 --> 00:10:17,800
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+230
+00:10:17,800 --> 00:10:17,830
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+231
+00:10:17,830 --> 00:10:17,860
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+232
+00:10:17,860 --> 00:10:17,900
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+233
+00:10:17,900 --> 00:10:17,930
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+234
+00:10:17,930 --> 00:10:17,960
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+235
+00:10:17,960 --> 00:10:18,000
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+236
+00:10:18,000 --> 00:10:18,030
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+237
+00:10:18,030 --> 00:10:18,060
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+238
+00:10:18,060 --> 00:10:18,100
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+239
+00:10:18,100 --> 00:10:18,130
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+240
+00:10:18,130 --> 00:10:18,160
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+241
+00:10:18,160 --> 00:10:18,200
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+242
+00:10:18,200 --> 00:10:18,230
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+243
+00:10:18,230 --> 00:10:18,260
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+244
+00:10:18,260 --> 00:10:18,300
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+245
+00:10:18,300 --> 00:10:18,330
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+246
+00:10:18,330 --> 00:10:18,360
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+247
+00:10:18,360 --> 00:10:18,430
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+248
+00:10:18,430 --> 00:10:18,460
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+249
+00:10:18,460 --> 00:10:18,500
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+250
+00:10:18,500 --> 00:10:18,530
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+251
+00:10:18,530 --> 00:10:18,560
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+252
+00:10:18,560 --> 00:10:18,600
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+253
+00:10:18,600 --> 00:10:18,660
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+254
+00:10:18,660 --> 00:10:18,800
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+255
+00:10:18,800 --> 00:10:18,860
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+256
+00:10:18,860 --> 00:10:21,030
+UN DRAGON CÉLESTE NOUS REND VISITE
+
+257
 00:10:28,350 --> 00:10:30,440
 Mais non, je ne vous cache rien.
 
-118
+258
 00:10:32,080 --> 00:10:34,110
 Ah ouais ?
 
-119
+259
 00:10:34,880 --> 00:10:37,950
 Nous prends pas pour des jambons.
 Accouche !
 
-120
+260
 00:10:39,220 --> 00:10:42,220
 On se fait des cachotteries,
 maintenant ?
 
-121
+261
 00:10:44,090 --> 00:10:45,160
 – Crache le morceau.
 – Crache le morceau.
 
-122
+262
 00:10:49,060 --> 00:10:51,430
 Puisque je vous dis que j'ai rien...
 
-123
+263
 00:10:51,730 --> 00:10:54,830
 Parle,
 ou je te colle mon pied au derche !
 
-124
+264
 00:10:56,500 --> 00:10:58,700
 D'a...
 D'accord, je vais parler !
 
-125
+265
 00:11:02,610 --> 00:11:04,410
 De quoi ? Un fils de noble ?
 
-126
+266
 00:11:06,340 --> 00:11:07,310
 – Qui ça ?
 – Qui ça ?
 
-127
+267
 00:11:07,610 --> 00:11:08,510
 Moi !
 
-128
+268
 00:11:11,250 --> 00:11:12,150
 – Et alors ?
 – Et alors ?
 
-129
+269
 00:11:12,150 --> 00:11:14,390
 Vous vouliez savoir, non ?
 
-130
+270
 00:11:17,720 --> 00:11:21,160
 Mes parents sont bien vivants, en fait.
 
-131
+271
 00:11:21,590 --> 00:11:26,000
 Je ne suis pas orphelin
 et je n'ai pas grandi à Grey Terminal.
 
-132
+272
 00:11:26,700 --> 00:11:29,370
 L'homme qui m'a interpellé
 tout à l'heure,
 
-133
+273
 00:11:30,640 --> 00:11:31,970
 c'est mon père.
 
-134
+274
 00:11:33,770 --> 00:11:38,140
 Je vous ai menti. Je m'excuse.
 
-135
+275
 00:11:38,340 --> 00:11:41,000
 Ça va, si tu t'excuses.
 On te pardonne.
 
-136
+276
 00:11:41,250 --> 00:11:43,980
 Quand même, je suis choqué.
 
-137
+277
 00:11:44,550 --> 00:11:48,620
 Si tu fais partie de la noblesse,
 pourquoi aller traîner à Grey Terminal ?
 
-138
+278
 00:11:52,020 --> 00:11:54,090
 J'ai fugué.
 
-139
+279
 00:11:59,300 --> 00:12:01,670
 Écoute bien, Sabo.
 
-140
+280
 00:12:03,370 --> 00:12:07,970
 Tu dois être bien éduqué et bien élevé,
 comme un noble digne de ce nom.
 
-141
+281
 00:12:07,970 --> 00:12:11,840
 Ainsi, tu pourras épouser
 une fille de sang royal, plus tard.
 
-142
+282
 00:12:11,840 --> 00:12:14,400
 Comme ça,
 notre prospérité sera assurée.
 
-143
+283
 00:12:14,550 --> 00:12:16,480
 Et tu seras comblé.
 
-144
+284
 00:12:20,490 --> 00:12:22,620
 Allô ? Allô ?
 
-145
+285
 00:12:23,230 --> 00:12:23,990
 Merde !
 
-146
+286
 00:12:24,860 --> 00:12:27,690
 Catastrophe, c'est la banqueroute.
 
-147
+287
 00:12:30,060 --> 00:12:31,460
 Papa !
 
-148
+288
 00:12:32,140 --> 00:12:34,700
 Regarde.
 C'est moi qui l'ai fait.
 
-149
+289
 00:12:42,010 --> 00:12:44,780
 Je suis très fatigué
 à cause de mon travail.
 
-150
+290
 00:12:45,080 --> 00:12:48,380
 Au lieu de perdre ton temps,
 va étudier dans ta chambre.
 
-151
+291
 00:12:58,990 --> 00:13:00,590
 Toi, là.
 
-152
+292
 00:13:01,860 --> 00:13:03,800
 Je suis de sang royal.
 
-153
+293
 00:13:03,950 --> 00:13:06,400
 De la famille du Roi, tu piges ?
 
-154
+294
 00:13:06,560 --> 00:13:08,600
 Porte-moi jusqu'à chez moi.
 
-155
+295
 00:13:14,640 --> 00:13:16,170
 Reviens ici, malappris !
 
-156
+296
 00:13:16,370 --> 00:13:19,880
 Tu refuses un ordre
 d'un membre de la royauté ?
 
-157
+297
 00:13:20,280 --> 00:13:22,120
 Qu'est-ce que tu fais ?
 
-158
+298
 00:13:28,850 --> 00:13:31,520
 Pour qui il se prend, ce sale noble ?
 
-159
+299
 00:13:31,920 --> 00:13:33,490
 Tu vas voir !
 
-160
+300
 00:13:35,060 --> 00:13:37,460
 Non !
 
-161
+301
 00:13:43,100 --> 00:13:47,340
 Porter la main sur un enfant de son rang
 est impardonnable.
 
-162
+302
 00:13:47,870 --> 00:13:51,980
 Sabo ! Tu t'es vraiment battu
 contre un enfant de sang royal ?
 
-163
+303
 00:13:51,980 --> 00:13:54,220
 Oui, il m'a fait mal.
 
-164
+304
 00:13:54,650 --> 00:13:57,950
 Il a sorti un couteau,
 j'ai essayé de me défendre.
 
-165
+305
 00:14:03,460 --> 00:14:06,100
 Toutes mes excuses !
 
-166
+306
 00:14:06,250 --> 00:14:08,960
 Votre enfant est-il sévèrement blessé ?
 
-167
+307
 00:14:08,960 --> 00:14:11,200
 Je suis vraiment confuse.
 
-168
+308
 00:14:11,530 --> 00:14:15,000
 Emmenons-le vite chez un médecin,
 qu'il l'examine.
 
-169
+309
 00:14:15,230 --> 00:14:19,500
 J'espère que nous pourrons régler cela
 à l'amiable.
 
-170
+310
 00:14:20,570 --> 00:14:22,400
 Ce que mes parents voulaient,
 
-171
+311
 00:14:23,000 --> 00:14:26,110
 c'était un rejeton qui assurerait
 leur statut et leur fortune.
 
-172
+312
 00:14:29,550 --> 00:14:30,550
 Pas moi.
 
-173
+313
 00:14:33,850 --> 00:14:37,470
 Si je ne leur assurais pas
 une alliance royale, je ne valais rien.
 
-174
+314
 00:14:37,720 --> 00:14:40,890
 Chaque jour, je suivais les leçons
 de mes précepteurs.
 
-175
+315
 00:14:41,460 --> 00:14:45,330
 Mais j'étais nul, et mes parents
 se disputaient à cause de ça.
 
-176
+316
 00:14:46,160 --> 00:14:48,570
 Je ne faisais que les gêner.
 
-177
+317
 00:14:49,400 --> 00:14:52,940
 Désolé de vous dire ça,
 mais même si mes parents sont vivants,
 
-178
+318
 00:14:52,940 --> 00:14:54,770
 je suis aussi orphelin que vous.
 
-179
+319
 00:14:55,640 --> 00:15:00,150
 Il paraît que tu sors parfois,
 pour aller traîner je ne sais où.
 
-180
+320
 00:15:00,910 --> 00:15:02,420
 Quoi que tu fasses,
 
-181
+321
 00:15:02,820 --> 00:15:06,220
 ne t'approche surtout pas
 de Grey Terminal.
 
-182
+322
 00:15:06,720 --> 00:15:11,270
 Nous autres nobles de la Haute Ville,
 qui côtoyons la famille royale,
 
-183
+323
 00:15:11,420 --> 00:15:13,210
 nous n'appartenons pas
 
-184
+324
 00:15:13,950 --> 00:15:17,060
 au même monde
 que les rebuts de cette décharge.
 
-185
+325
 00:15:19,700 --> 00:15:23,550
 Les nobles méprisent
 les habitants de Grey Terminal.
 
-186
+326
 00:15:23,800 --> 00:15:26,460
 Mais comparée
 à cette Haute Ville étouffante,
 
-187
+327
 00:15:26,700 --> 00:15:30,240
 je préfère mille fois
 l'atmosphère puante de la décharge.
 
-188
+328
 00:15:32,380 --> 00:15:33,650
 Je vois.
 
-189
+329
 00:15:34,580 --> 00:15:36,250
 Ace, Luffy !
 
-190
+330
 00:15:37,450 --> 00:15:40,320
 On doit absolument prendre la mer.
 
-191
+331
 00:15:40,750 --> 00:15:43,620
 Il faut partir d'ici, et devenir libres.
 
-192
+332
 00:15:43,820 --> 00:15:48,110
 Je veux voir le monde
 et tout raconter dans un livre.
 
-193
+333
 00:15:48,460 --> 00:15:50,900
 Étudier la navigation, ça me botte.
 
-194
+334
 00:15:51,230 --> 00:15:54,530
 Faut qu'on soit plus forts,
 pour devenir de vrais pirates !
 
-195
+335
 00:16:00,910 --> 00:16:04,080
 Je t'ai pas attendu
 pour décider que je voulais faire ça.
 
-196
+336
 00:16:04,240 --> 00:16:07,550
 Je serai pirate,
 et j'éclaterai tout le monde.
 
-197
+337
 00:16:07,700 --> 00:16:10,080
 Mon nom entrera dans la légende.
 
-198
+338
 00:16:10,650 --> 00:16:13,650
 Ce sera la meilleure preuve
 de mon existence.
 
-199
+339
 00:16:14,550 --> 00:16:17,950
 Tous ces sales types
 qui me haïssent pour ce que je suis,
 
-200
+340
 00:16:18,350 --> 00:16:20,160
 ils ont qu'à bien s'accrocher !
 
-201
+341
 00:16:20,890 --> 00:16:23,490
 Une fois célèbre,
 ils verront ce que je vaux.
 
-202
+342
 00:16:24,330 --> 00:16:27,140
 Je ne m'enfuirai pas,
 je ne plierai pas !
 
-203
+343
 00:16:27,330 --> 00:16:28,900
 J'ai peur de rien !
 
-204
+344
 00:16:29,100 --> 00:16:32,370
 Mon nom retentira dans le monde entier !
 
-205
+345
 00:16:34,370 --> 00:16:37,360
 Pas mal.
 Allez, à mon tour !
 
-206
+346
 00:16:39,380 --> 00:16:42,880
 Moi...
 
-207
+347
 00:16:49,920 --> 00:16:53,060
 Rien que ça, t'es sûr ?
 
-208
+348
 00:16:56,060 --> 00:16:58,200
 T'es un sacré rigolo, Luffy.
 
-209
+349
 00:16:58,200 --> 00:17:01,400
 J'ai hâte de voir ce que tu deviendras.
 
-210
+350
 00:17:02,500 --> 00:17:05,340
 C'est bien beau,
 de tous vouloir être pirates.
 
-211
+351
 00:17:05,640 --> 00:17:09,240
 Mais au final,
 il ne peut y avoir qu'un seul capitaine.
 
-212
+352
 00:17:10,170 --> 00:17:11,850
 J'avais pas pensé à ça.
 
-213
+353
 00:17:12,010 --> 00:17:15,400
 J'étais persuadé
 que tu serais mon navigateur.
 
-214
+354
 00:17:15,750 --> 00:17:18,020
 Rejoignez mon équipage.
 
-215
+355
 00:17:18,020 --> 00:17:19,250
 – Hors de question.
 – Hors de question.
 
-216
+356
 00:17:21,550 --> 00:17:24,190
 On verra bien ce qui arrivera.
 
-217
+357
 00:17:24,720 --> 00:17:28,030
 Qui sait, on ne prendra
 peut-être même pas la mer ensemble.
 
-218
+358
 00:17:29,130 --> 00:17:31,760
 Tiens ?
 T'as chipé ça à PAPAan ?
 
-219
+359
 00:17:32,660 --> 00:17:34,200
 Voilà le topo :
 
-220
+360
 00:17:35,900 --> 00:17:39,000
 si on échange une coupe de saké,
 on deviendra des frères.
 
-221
+361
 00:17:40,170 --> 00:17:42,610
 Des frères ? Vraiment ?
 
-222
+362
 00:17:43,010 --> 00:17:44,400
 Quand on prendra la mer,
 
-223
+363
 00:17:44,550 --> 00:17:47,400
 on ne sera peut-être pas
 dans le même équipage.
 
-224
+364
 00:17:47,610 --> 00:17:50,720
 Mais on restera unis
 par nos liens de fraternité.
 
-225
+365
 00:17:51,050 --> 00:17:54,490
 Quoi qu'on fasse, où qu'on soit,
 rien ne rompra ces liens.
 
-226
+366
 00:17:57,820 --> 00:17:59,990
 À partir d'aujourd'hui,
 
-227
+367
 00:18:00,790 --> 00:18:02,060
 on est des frères.
 
-228
+368
 00:18:08,870 --> 00:18:10,800
 Ouais !
 
-229
+369
 00:19:54,210 --> 00:19:55,440
 Rendez-nous Sabo !
 
-230
+370
 00:19:55,440 --> 00:19:57,630
 Comment ça, vous le rendre ?
 
-231
+371
 00:19:58,000 --> 00:19:59,360
 Sabo est mon fils !
 
-232
+372
 00:19:59,510 --> 00:20:01,300
 Le devoir de l'enfant
 
-233
+373
 00:20:01,450 --> 00:20:03,780
 est de vivre
 comme ses géniteurs l'exigent.
 
-234
+374
 00:20:03,780 --> 00:20:07,890
 Comment avez-vous osé
 inciter Sabo à fuguer ?
 
-235
+375
 00:20:07,890 --> 00:20:10,350
 Espèces de racailles pouilleuses !
 
-236
+376
 00:20:10,350 --> 00:20:12,660
 Vous en avez après ma fortune ?
 
-237
+377
 00:20:12,660 --> 00:20:14,160
 Répète voir, moustachu ?
 
-238
+378
 00:20:16,660 --> 00:20:20,970
 Vous, là ! Le pirate !
 Faites attention quand vous le frappez !
 
-239
+379
 00:20:20,970 --> 00:20:23,770
 Cette vermine
 m'a éclaboussé de son sang !
 
-240
+380
 00:20:25,100 --> 00:20:26,200
 Ace !
 
-241
+381
 00:20:28,540 --> 00:20:29,600
 Arrêtez !
 
-242
+382
 00:20:29,600 --> 00:20:32,010
 Personne ne me manipule !
 
-243
+383
 00:20:32,480 --> 00:20:34,310
 Je suis parti volontairement !
 
-244
+384
 00:20:34,610 --> 00:20:36,710
 Tu vas te taire ! Allez-y.
 
-245
+385
 00:20:38,720 --> 00:20:41,090
 Occupez-vous du reste, entendu ?
 
-246
+386
 00:20:41,090 --> 00:20:44,990
 Bien sûr, monsieur.
 Vous nous avez déjà payés.
 
-247
+387
 00:20:45,460 --> 00:20:48,410
 Ces deux-là ne s'approcheront
 plus jamais de votre fils.
 
-248
+388
 00:20:48,750 --> 00:20:50,900
 On va se débarrasser d'eux.
 
-249
+389
 00:20:52,130 --> 00:20:54,500
 Attends un instant, Bluejam !
 
-250
+390
 00:20:54,700 --> 00:20:57,240
 Père, ça suffit. J'ai compris.
 
-251
+391
 00:20:58,040 --> 00:21:00,170
 Qu'as-tu donc compris ?
 
-252
+392
 00:21:01,670 --> 00:21:02,740
 Fais pas ça, Sabo !
 
-253
+393
 00:21:04,380 --> 00:21:07,210
 Je ferai tout ce que vous me direz.
 
-254
+394
 00:21:07,740 --> 00:21:09,900
 Je mènerai la vie que vous souhaitez.
 
-255
+395
 00:21:10,110 --> 00:21:14,820
 Alors, s'il vous plaît,
 ne leur faites pas de mal.
 
-256
+396
 00:21:15,120 --> 00:21:16,550
 Je vous en prie.
 
-257
+397
 00:21:17,120 --> 00:21:19,820
 Ce sont mes frères
 et ils me sont chers.
 
-258
+398
 00:21:20,960 --> 00:21:22,160
 Sabo...
 
-259
+399
 00:21:23,230 --> 00:21:26,800
 Dans ce cas,
 rentre immédiatement à la maison.
 
-260
+400
 00:21:26,960 --> 00:21:30,670
 Et mets un terme
 à ce ridicule petit jeu de pirates.
 
-261
+401
 00:21:32,640 --> 00:21:34,670
 Hé ! T'en va pas !
 
-262
+402
 00:21:34,810 --> 00:21:36,110
 Boucle-la !
 
-263
+403
 00:21:36,310 --> 00:21:40,440
 Sabo ! Sauve-toi !
 Nous, on s'en sortira !
 
-264
+404
 00:21:40,850 --> 00:21:43,310
 On gagnera notre liberté ensemble !
 
-265
+405
 00:21:43,540 --> 00:21:45,820
 Sabo, n'y va pas !
 
-266
+406
 00:21:46,180 --> 00:21:48,720
 Tu vas renoncer à ton rêve maintenant ?
 
-267
+407
 00:21:49,150 --> 00:21:50,320
 Sabo !
 
-268
+408
 00:21:53,490 --> 00:21:54,860
 Sabo !
 
-269
+409
 00:21:59,730 --> 00:22:01,970
 Sabo !
 
-270
+410
 00:22:08,110 --> 00:22:10,680
 Capitaine,
 que fait-on des deux mômes ?
 
-271
+411
 00:22:11,780 --> 00:22:14,450
 – On les ramène à la planque.
 – Ça marche.
 
-272
+412
 00:22:15,410 --> 00:22:17,530
 Ordures ! Détachez-nous !
 
-273
+413
 00:22:17,680 --> 00:22:20,690
 Revenez vous battre !
 Cette fois, je vous aurai !
 
-274
+414
 00:22:21,040 --> 00:22:23,700
 Les nobles ont la belle vie,
 quand même.
 
-275
+415
 00:22:23,850 --> 00:22:26,020
 Vous ne pensez pas, les gamins ?
 
-276
+416
 00:22:26,490 --> 00:22:29,560
 Ils traitent les autres comme des rebuts
 
-277
+417
 00:22:29,760 --> 00:22:32,660
 et ils vivent dans le confort
 en prenant de grands airs.
 
-278
+418
 00:22:32,660 --> 00:22:35,230
 Vous ne pensez pas
 qu'ils s'en sortent mieux ?
 
-279
+419
 00:22:35,700 --> 00:22:37,570
 Tu sous-entends quoi, là ?
 
-280
+420
 00:22:37,740 --> 00:22:39,930
 La vie de pirate est cent fois mieux !
 
-281
+421
 00:22:40,150 --> 00:22:41,660
 C'est Sabo qui l'a dit !
 
-282
+422
 00:22:41,810 --> 00:22:46,980
 Je vous plains, les gamins.
 Hé, détache-les.
 
-283
+423
 00:22:46,980 --> 00:22:47,750
 OK.
 
-284
+424
 00:22:47,910 --> 00:22:51,580
 Pourquoi croyez-vous qu'un petit prince
 a quitté sa Haute Ville
 
-285
+425
 00:22:51,580 --> 00:22:53,920
 pour rejoindre Grey Terminal ?
 
-286
+426
 00:22:55,120 --> 00:22:57,950
 Enfants ou adultes,
 les nobles sont tous les mêmes.
 
-287
+427
 00:22:58,150 --> 00:23:01,090
 Il est venu pour se moquer
 de la population locale.
 
-288
+428
 00:23:01,090 --> 00:23:04,660
 Je parie qu'au fond de lui,
 il vous détestait.
 
-289
+429
 00:23:04,660 --> 00:23:07,800
 N'importe quoi !
 Sabo n'est pas comme ça !
 
-290
+430
 00:23:07,940 --> 00:23:10,370
 Il a raison ! On est des frères !
 
-291
+431
 00:23:10,370 --> 00:23:13,400
 Ah ouais ? Excusez-moi, alors.
 
-292
+432
 00:23:14,210 --> 00:23:18,730
 Cela dit, vous ne vous approcherez
 plus jamais de lui.
 
-293
+433
 00:23:18,910 --> 00:23:20,560
 Et si l'envie vous titille,
 
-294
+434
 00:23:20,710 --> 00:23:23,550
 je devrai vous exécuter sur-le-champ.
 
-295
+435
 00:23:23,750 --> 00:23:27,590
 Si vous voulez le bien de votre frère,
 laissez-le tranquille.
 
-296
+436
 00:23:29,090 --> 00:23:31,920
 Le bien de Sabo ?
 
-297
+437
 00:23:31,920 --> 00:23:34,330
 Mais Sabo déteste la Haute Ville !
 
-298
+438
 00:23:34,630 --> 00:23:39,430
 Oubliez-le donc.
 Vous lui ferez une fleur.
 
-299
+439
 00:23:39,430 --> 00:23:42,270
 Vous comprendrez
 une fois adultes. Ensuite...
 
-300
+440
 00:23:42,630 --> 00:23:44,090
 Vous et moi,
 
-301
+441
 00:23:44,240 --> 00:23:47,200
 on a un compte à régler
 à propos de Porchemy.
 
-302
+442
 00:23:47,510 --> 00:23:49,130
 Mais je passe l'éponge.
 
-303
+443
 00:23:49,270 --> 00:23:52,080
 Le fait est que j'aime les gens forts.
 
-304
+444
 00:23:52,080 --> 00:23:56,370
 J'ai donc une proposition à vous faire.
 Et pas une mauvaise, hein.
 
-305
+445
 00:23:56,650 --> 00:24:02,950
 J'ai besoin de paires de bras.
 Ça vous dirait de bosser pour moi ?
 
-306
+446
 00:24:03,150 --> 00:24:05,750
 Vous verrez,
 c'est un boulot très simple.
 
-307
+447
 00:24:05,890 --> 00:24:08,160
 Y a pas le moindre danger.
 
-308
+448
 00:24:08,460 --> 00:24:11,000
 Vous avez là une carte de Grey Terminal.
 
-309
+449
 00:24:11,160 --> 00:24:15,370
 Il s'agit de transporter des caisses
 aux endroits indiqués, rien de plus.
 
-310
+450
 00:24:15,370 --> 00:24:16,630
 Ça vous dit ?
 
-311
+451
 00:24:17,030 --> 00:24:17,970
 Entendu.
 
-312
+452
 00:24:19,270 --> 00:24:20,440
 C'est payé combien ?
 
-313
+453
 00:24:25,210 --> 00:24:29,280
 Ace !
 J'aime pas quand Sabo est pas là.
 
-314
+454
 00:24:29,280 --> 00:24:30,620
 Va falloir t'y faire.
 
-315
+455
 00:24:30,780 --> 00:24:33,320
 Moi aussi,
 j'aimerais aller le chercher.
 
-316
+456
 00:24:34,250 --> 00:24:38,620
 Mais je ne sais pas
 ce qui est le mieux pour lui.
 
-317
+457
 00:24:39,360 --> 00:24:42,270
 Attendons voir.
 C'est quelqu'un de fort.
 
-318
+458
 00:24:42,430 --> 00:24:45,760
 S'il en a vraiment assez,
 je suis sûr qu'il reviendra.
 
-319
+459
 00:24:46,430 --> 00:24:47,870
 En attendant,
 
-320
+460
 00:24:48,020 --> 00:24:50,450
 on va continuer d'alimenter
 notre cagnotte.
 
-321
+461
 00:24:52,070 --> 00:24:54,870
 Je ne le dirai pas.
 Ce n'est pas la faute d'Ace et Luffy.
 
-322
+462
 00:24:54,870 --> 00:24:57,800
 Pourquoi refuses-tu de dire la vérité ?
 
-323
+463
 00:24:58,040 --> 00:24:59,340
 Attends un instant,
 
-324
+464
 00:24:59,490 --> 00:25:03,450
 est-ce qu'ils t'ont menacé
 afin que tu ne parles pas ?
 
-325
+465
 00:25:03,450 --> 00:25:05,720
 Ils ne sont pas comme ça !
 
-326
+466
 00:25:06,020 --> 00:25:07,440
 Si tu as un casier,
 
-327
+467
 00:25:07,440 --> 00:25:11,060
 la réputation de ta famille
 en pâtira dans la Haute Ville.
 
-328
+468
 00:25:11,060 --> 00:25:12,960
 Et l'accès t'en sera interdit.
 
-329
+469
 00:25:12,960 --> 00:25:15,730
 Ces deux canailles t'ont manipulé
 
-330
+470
 00:25:15,870 --> 00:25:19,200
 et t'ont forcé à verser
 dans la délinquance.
 
-331
+471
 00:25:19,700 --> 00:25:21,100
 Dis-le, Sabo !
 
-332
+472
 00:25:23,770 --> 00:25:24,800
 Sabo.
 
-333
+473
 00:25:25,100 --> 00:25:28,510
 La vie de tes deux amis de Grey Terminal
 
-334
+474
 00:25:28,510 --> 00:25:30,410
 est entre les mains des pirates.
 
-335
+475
 00:25:30,550 --> 00:25:32,640
 Je n'ai qu'un ordre à donner.
 
-336
+476
 00:25:32,940 --> 00:25:35,330
 S'ils sont si importants pour toi,
 
-337
+477
 00:25:35,480 --> 00:25:37,980
 réfléchis bien
 à ce que tu devrais faire.
 
-338
+478
 00:25:40,820 --> 00:25:45,220
 Tu es un enfant intelligent.
 Tu connais la réponse.
 
-339
+479
 00:25:46,090 --> 00:25:49,660
 Vous avez promis de ne rien leur faire !
 
-340
+480
 00:25:49,860 --> 00:25:52,300
 C'est pour ça que je suis revenu ici !
 
-341
+481
 00:25:52,540 --> 00:25:54,000
 Un crime est un crime !
 
-342
+482
 00:25:54,150 --> 00:25:56,800
 Nous sommes tous les trois complices !
 
-343
+483
 00:25:59,740 --> 00:26:01,570
 Quel malheur !
 
-344
+484
 00:26:02,410 --> 00:26:06,140
 Qu'ai-je fait pour mériter
 un fils aussi stupide ?
 
-345
+485
 00:26:07,110 --> 00:26:09,280
 Vous me comprenez, n'est-ce pas ?
 
-346
+486
 00:26:10,200 --> 00:26:12,620
 Ça doit pas être facile tous les jours !
 
-347
+487
 00:26:13,350 --> 00:26:15,820
 Je m'occupe de la paperasse...
 
-348
+488
 00:26:19,060 --> 00:26:21,460
 Soyez le bienvenu, maître.
 
-349
+489
 00:26:21,960 --> 00:26:26,230
 Allez, Sabo, entre donc.
 Ton absence a été longue.
 
-350
+490
 00:26:26,390 --> 00:26:30,100
 Ah, ton état de crasse est innommable,
 
-351
+491
 00:26:30,100 --> 00:26:32,740
 lave-toi et désinfecte-toi
 dans la cour.
 
-352
+492
 00:26:32,740 --> 00:26:34,240
 Ensuite, prends un bain.
 
-353
+493
 00:26:34,870 --> 00:26:37,740
 Jeune maître,
 je suis ravi de vous voir sauf.
 
-354
+494
 00:26:38,210 --> 00:26:42,540
 Oh, Sabo, tu es de retour !
 Tu as bien grandi.
 
-355
+495
 00:26:44,010 --> 00:26:44,920
 Mère.
 
-356
+496
 00:26:44,920 --> 00:26:47,750
 Allez, Stelly,
 dis bonjour à ton grand-frère.
 
-357
+497
 00:26:48,120 --> 00:26:50,250
 Bonjour, je suis ton petit frère.
 
-358
+498
 00:26:50,550 --> 00:26:52,820
 Je m'appelle Stelly et j'ai huit ans.
 
-359
+499
 00:26:53,560 --> 00:26:54,790
 D'où il sort ?
 
-360
+500
 00:26:56,290 --> 00:26:57,500
 Nous l'avons adopté.
 
-361
+501
 00:26:57,500 --> 00:27:00,060
 Bien sûr, il est intelligent
 et d'ascendance noble.
 
-362
+502
 00:27:00,060 --> 00:27:04,400
 Mais pour certaines raisons,
 ses parents ne s'en occupaient pas.
 
-363
+503
 00:27:04,770 --> 00:27:07,910
 Son avenir étant prometteur,
 nous l'avons adopté.
 
-364
+504
 00:27:08,440 --> 00:27:09,470
 Enfin,
 
-365
+505
 00:27:09,620 --> 00:27:12,580
 dans le cas
 où tu ne serais plus mon héritier...
 
-366
+506
 00:27:13,810 --> 00:27:16,380
 Zut... Je parle trop.
 
-367
+507
 00:27:16,880 --> 00:27:18,200
 Va dans ta chambre.
 
-368
+508
 00:27:18,320 --> 00:27:20,520
 Dès demain, tu devras étudier.
 
-369
+509
 00:27:29,830 --> 00:27:32,350
 Tu vas renoncer à ton rêve maintenant ?
 
-370
+510
 00:27:35,530 --> 00:27:39,840
 Alors, mon frère.
 Il paraît que t'es stupide.
 
-371
+511
 00:27:40,870 --> 00:27:44,410
 Père et mère
 n'arrêtent pas de le répéter.
 
-372
+512
 00:27:44,740 --> 00:27:47,180
 Mais tu as de la chance
 dans ton malheur.
 
-373
+513
 00:27:47,180 --> 00:27:49,780
 Demain soir, on brûle les ordures.
 
-374
+514
 00:27:50,780 --> 00:27:53,620
 Si tu étais resté à Grey Terminal...
 
-375
+515
 00:27:54,790 --> 00:27:57,420
 Tu serais sans doute mort.
 
-376
+516
 00:27:58,520 --> 00:28:01,860
 Tu sais, ça m'aurait arrangé
 
-377
+517
 00:28:01,860 --> 00:28:04,400
 que le fils légitime
 de la maison ne revienne pas...
 
-378
+518
 00:28:05,000 --> 00:28:08,900
 Qu'est-ce que tu fais ?
 Je vais le dire à père !
 
-379
+519
 00:28:08,900 --> 00:28:11,400
 De quoi tu parlais ?
 
-380
+520
 00:28:11,640 --> 00:28:13,940
 Explique-moi tout ce que tu sais !
 
-381
+521
 00:28:13,940 --> 00:28:19,010
 Demain, il y aura un grand incendie.
 À Grey Terminal.
 
-382
+522
 00:28:19,410 --> 00:28:21,340
 – Un incendie ?
 – Exactement.
 
-383
+523
 00:28:21,480 --> 00:28:24,550
 Tu ne pouvais pas le savoir
 vu que tu t'étais enfui.
 
-384
+524
 00:28:24,750 --> 00:28:27,380
 Ça fait des mois que c'est décidé.
 
-385
+525
 00:28:27,990 --> 00:28:29,850
 Tu savais que des observateurs
 
-386
+526
 00:28:29,850 --> 00:28:32,420
 du Gouvernement Mondial
 tournaient dans East Blue ?
 
-387
+527
 00:28:33,190 --> 00:28:36,660
 Ils arriveront dans trois jours
 au royaume de Goa.
 
-388
+528
 00:28:37,260 --> 00:28:40,080
 Et tout le monde n'arrête pas de parler
 
-389
+529
 00:28:40,230 --> 00:28:43,070
 du Dragon Céleste qui sera à bord.
 
-390
+530
 00:28:43,370 --> 00:28:48,070
 La famille royale ne veut pas qu'il voie
 les coins les plus sales du pays.
 
-391
+531
 00:28:48,340 --> 00:28:52,180
 Elle a donc décidé
 de réduire en cendres Grey Terminal.
 
-392
+532
 00:28:52,610 --> 00:28:55,750
 Après ça, le pays sera immaculé.
 
-393
+533
 00:28:56,150 --> 00:28:58,960
 Mais qu'est-ce que tu racontes ?
 
-394
+534
 00:28:59,100 --> 00:29:00,880
 C'est absolument impossible !
 
-395
+535
 00:29:01,080 --> 00:29:04,320
 Il y a plein de gens qui vivent là-bas.
 
-396
+536
 00:29:04,460 --> 00:29:06,990
 Ils n'auront plus d'endroits où vivre ?
 
-397
+537
 00:29:06,990 --> 00:29:07,730
 Lâche-moi !
 
-398
+538
 00:29:08,460 --> 00:29:11,230
 Tu n'as pas écouté ce que j'ai dit ?
 
-399
+539
 00:29:13,100 --> 00:29:17,100
 J'ai dit qu'ils allaient brûler
 toute la saleté du pays.
 
-400
+540
 00:29:17,700 --> 00:29:19,940
 Même les gens ?
 
-401
+541
 00:29:26,710 --> 00:29:27,710
 Hé !
 
-402
+542
 00:29:29,910 --> 00:29:31,350
 Où vas-tu ?
 
-403
+543
 00:29:35,850 --> 00:29:37,520
 Tu sais à quel étage on est ?
 
-404
+544
 00:29:41,830 --> 00:29:44,090
 Je... Je veux pas savoir...
 
-405
+545
 00:29:44,500 --> 00:29:46,620
 Il ment. C'est obligé.
 
-406
+546
 00:29:46,930 --> 00:29:49,100
 Incendier une aussi grande superficie,
 
-407
+547
 00:29:49,100 --> 00:29:51,000
 ça ne se fait pas comme ça.
 
-408
+548
 00:29:55,470 --> 00:29:57,540
 Les types de tout à l'heure.
 
-409
+549
 00:29:59,010 --> 00:30:02,850
 Tout est prêt pour demain ?
 On n'a pas droit à l'erreur !
 
-410
+550
 00:30:02,850 --> 00:30:06,380
 Nous, on est au point.
 Le problème, c'est les pirates.
 
-411
+551
 00:30:06,680 --> 00:30:09,320
 Ils devront brûler toutes les ordures.
 
-412
+552
 00:30:10,220 --> 00:30:13,600
 Bluejam et ses hommes devraient
 avoir disposé d'ici demain soir
 
-413
+553
 00:30:13,760 --> 00:30:17,800
 le combustible et les explosifs
 dans tout Grey Terminal.
 
-414
+554
 00:30:18,760 --> 00:30:20,580
 Bluejam est de mèche !
 
-415
+555
 00:30:20,790 --> 00:30:24,330
 Cette histoire de fou furieux
 est donc vraie !
 
-416
+556
 00:30:35,100 --> 00:30:37,510
 Je me demande ce que fait Sabo.
 
-417
+557
 00:30:37,880 --> 00:30:40,020
 Tais-toi et dors.
 
-418
+558
 00:30:41,020 --> 00:30:44,120
 On a promis d'oublier Sabo
 pendant quelque temps.
 
-419
+559
 00:30:44,690 --> 00:30:45,420
 Compris.
 
-420
+560
 00:30:46,490 --> 00:30:49,460
 C'est peut-être le mieux pour lui.
 
-421
+561
 00:30:54,600 --> 00:30:56,470
 En observant la ville,
 
-422
+562
 00:30:56,630 --> 00:30:59,370
 je saurai si l'incendie aura bien lieu.
 
-423
+563
 00:31:03,370 --> 00:31:06,480
 – Bonjour, madame.
 – Monsieur.
 
-424
+564
 00:31:06,480 --> 00:31:09,910
 – Quelle belle matinée.
 – En effet.
 
-425
+565
 00:31:09,910 --> 00:31:13,750
 Je m'étais trompé !
 Les gens sont tout à fait normaux.
 
-426
+566
 00:31:14,150 --> 00:31:15,990
 Je vais faire un tour en ville.
 
-427
+567
 00:31:18,520 --> 00:31:20,550
 Le vent souffle fort, aujourd'hui.
 
-428
+568
 00:31:20,690 --> 00:31:23,830
 C'est exact, Votre Majesté.
 
-429
+569
 00:31:24,030 --> 00:31:29,330
 Gare aux accidents.
 Et gare aux incendies.
 
-430
+570
 00:31:29,500 --> 00:31:33,040
 Tout à fait, Votre Majesté.
 
-431
+571
 00:31:33,340 --> 00:31:36,020
 Sabo n'est pas dans la résidence ?
 
-432
+572
 00:31:36,170 --> 00:31:38,280
 Ce sale petit vagabond !
 
-433
+573
 00:31:38,280 --> 00:31:42,580
 Il a abandonné ses études
 pour retourner jouer aux pirates ?
 
-434
+574
 00:31:43,110 --> 00:31:44,980
 Fouillez toute la Haute Ville !
 
-435
+575
 00:31:45,320 --> 00:31:47,990
 Il ne peut pas en sortir si facilement.
 
-436
+576
 00:31:49,250 --> 00:31:52,120
 – Excusez-moi, monsieur.
 – Oui, jeune homme ?
 
-437
+577
 00:31:52,460 --> 00:31:56,170
 J'ai entendu parler d'un incendie,
 ce soir à Grey Terminal.
 
-438
+578
 00:31:56,360 --> 00:32:00,300
 Oui, je suis au courant.
 Et que voudrais-tu savoir ?
 
-439
+579
 00:32:01,000 --> 00:32:02,070
 Il est au courant ?
 
-440
+580
 00:32:02,070 --> 00:32:04,470
 À quelle famille appartiens-tu ?
 
-441
+581
 00:32:05,070 --> 00:32:07,540
 Cette histoire d'incendie
 est donc vraie.
 
-442
+582
 00:32:09,110 --> 00:32:10,240
 Jeune homme !
 
-443
+583
 00:32:10,410 --> 00:32:13,310
 Je ne comprends pas.
 Tout le monde est au courant ?
 
-444
+584
 00:32:13,640 --> 00:32:16,250
 Et ils font comme si de rien n'était ?
 
-445
+585
 00:32:16,510 --> 00:32:20,540
 Tout le monde se fiche
 de l'incendie de Grey Terminal ?
 
-446
+586
 00:32:24,420 --> 00:32:27,290
 Oh, vous êtes là, les gamins.
 
-447
+587
 00:32:27,290 --> 00:32:29,560
 On va encore transporter des caisses ?
 
-448
+588
 00:32:29,560 --> 00:32:32,860
 Ouais, et vous aurez
 du pain sur la planche ce soir.
 
-449
+589
 00:32:32,860 --> 00:32:34,600
 Je vous expliquerai après.
 
-450
+590
 00:32:34,600 --> 00:32:36,770
 Oui, je suis au courant.
 
-451
+591
 00:32:36,770 --> 00:32:38,330
 Comment se fait-il
 
-452
+592
 00:32:38,330 --> 00:32:41,740
 que ni vous ni personne en ville
 ne s'en préoccupe ?
 
-453
+593
 00:32:41,910 --> 00:32:44,040
 Pourquoi personne
 ne cherche à empêcher ça ?
 
-454
+594
 00:32:46,380 --> 00:32:50,310
 Tu as l'air d'être un gentil garçon.
 
-455
+595
 00:32:50,610 --> 00:32:53,280
 Mais, écoute bien
 ce que je vais te dire.
 
-456
+596
 00:32:53,500 --> 00:32:56,430
 Personne ne doit parler de l'incendie.
 
-457
+597
 00:32:56,620 --> 00:33:01,460
 Que se passerait-il si les gens habitant
 hors de la Haute Ville l'apprenaient ?
 
-458
+598
 00:33:01,930 --> 00:33:05,930
 Nous sommes spéciaux !
 En tant que noble, toi aussi...
 
-459
+599
 00:33:07,500 --> 00:33:08,530
 Jeune homme !
 
-460
+600
 00:33:09,930 --> 00:33:11,740
 Ace ! Luffy !
 
-461
+601
 00:33:12,000 --> 00:33:15,340
 Cette ville est folle !
 Ses habitants ont perdu la tête.
 
-462
+602
 00:33:15,740 --> 00:33:17,510
 Ils font comme si de rien n'était
 
-463
+603
 00:33:17,670 --> 00:33:20,510
 alors qu'ils savent
 que des gens vont mourir !
 
-464
+604
 00:33:21,210 --> 00:33:23,150
 Je ne veux pas rester ici !
 
-465
+605
 00:33:23,610 --> 00:33:25,550
 Je dois vite les prévenir !
 
-466
+606
 00:33:27,550 --> 00:33:31,050
 Et pour ne rien arranger,
 le vent souffle fort aujourd'hui.
 
-467
+607
 00:33:31,050 --> 00:33:33,220
 C'est lui, là-bas !
 
-468
+608
 00:33:33,660 --> 00:33:36,090
 Aucun doute, c'est le fugueur !
 
-469
+609
 00:33:36,730 --> 00:33:38,350
 Hé ! Attends, petit !
 
-470
+610
 00:33:38,830 --> 00:33:40,630
 Les habitants de ce pays
 
-471
+611
 00:33:40,780 --> 00:33:44,100
 ont décidé de brûler
 les ordures du pays, ce soir.
 
-472
+612
 00:33:44,840 --> 00:33:48,410
 Ace, Luffy...
 Enfuyez-vous de Grey Terminal !
 
-473
+613
 00:33:48,870 --> 00:33:52,440
 Sauvez-vous ! Ace ! Luffy !
 
-474
+614
 00:33:54,310 --> 00:33:55,710
 Et pour quoi faire ?
 
-475
+615
 00:33:55,710 --> 00:34:01,250
 Idiot, ne parle pas si fort !
 On pourrait t'entendre.
 
-476
+616
 00:34:01,450 --> 00:34:04,040
 C'est terrible !
 Il faut prévenir tout le monde !
 
-477
+617
 00:34:04,190 --> 00:34:06,160
 C'est vraiment des sales types !
 
-478
+618
 00:34:06,160 --> 00:34:09,890
 Silence, j'ai dit.
 Faites-le taire.
 
-479
+619
 00:34:11,200 --> 00:34:13,660
 Ce n'est pas moi qui tire les ficelles.
 
-480
+620
 00:34:16,000 --> 00:34:18,600
 Ce que vous avez transporté
 hier et aujourd'hui,
 
-481
+621
 00:34:18,940 --> 00:34:21,170
 c'étaient du combustible
 et des explosifs.
 
-482
+622
 00:34:21,170 --> 00:34:25,900
 Il va maintenant y avoir un incendie tel
 que personne ne pourra en réchapper.
 
-483
+623
 00:34:26,340 --> 00:34:28,710
 – C'est de la folie !
 – Tu as perdu la tête ?
 
-484
+624
 00:34:30,150 --> 00:34:33,520
 Je vois que même nos deux terreurs
 font moins les malins.
 
-485
+625
 00:34:34,080 --> 00:34:37,420
 Mais, maintenant
 que vous connaissez notre plan...
 
-486
+626
 00:34:37,990 --> 00:34:41,560
 je ne peux plus vous laisser repartir.
 
-487
+627
 00:34:41,860 --> 00:34:45,700
 Avant de mettre le feu,
 j'ai quelque chose à vous demander.
 
-488
+628
 00:34:46,630 --> 00:34:48,220
 Dites-moi, vous deux...
 
-489
+629
 00:34:48,600 --> 00:34:52,200
 Vous avez planqué
 un trésor quelque part, pas vrai ?
 
-490
+630
 00:35:16,490 --> 00:35:20,160
 Frange
 
-491
-00:35:16,490 --> 00:35:20,160
-Frange
-
-492
+631
 00:35:21,260 --> 00:35:22,530
 Boucle-la un peu !
 
-493
+632
 00:35:23,530 --> 00:35:25,700
 Hé, regardez là-bas !
 
-494
+633
 00:35:30,070 --> 00:35:32,650
 Il se passe quelque chose
 à Grey Terminal.
 
-495
+634
 00:35:32,810 --> 00:35:34,380
 Il y a le feu, non ?
 
-496
+635
 00:35:39,550 --> 00:35:42,000
 J'adore ce jeu !
 
-497
+636
 00:35:42,120 --> 00:35:45,920
 Patronne ! Patronne, venez voir ça !
 
-498
+637
 00:35:46,220 --> 00:35:47,820
 Pourquoi tu hurles comme ça ?
 
-499
+638
 00:35:47,820 --> 00:35:50,590
 – Regardez le ciel au nord.
 – C'est au niveau de la ville ?
 
-500
+639
 00:35:50,930 --> 00:35:55,740
 Non, juste devant.
 C'est Grey Terminal qui brûle !
 
-501
+640
 00:35:57,130 --> 00:35:59,900
 Centre-ville
 
-502
-00:35:57,130 --> 00:35:59,900
-Centre-ville
-
-503
+641
 00:35:57,530 --> 00:35:59,750
 On dirait un incendie de forêt !
 
-504
+642
 00:35:59,900 --> 00:36:03,470
 Grey Terminal est en feu.
 Ce n'était jamais arrivé.
 
-505
+643
 00:36:05,010 --> 00:36:07,740
 C'est dangereux ! Évacuez la Frange !
 
-506
+644
 00:36:07,740 --> 00:36:10,380
 Frange - Grande Porte
 
-507
-00:36:07,740 --> 00:36:10,380
-Frange - Grande Porte
-
-508
+645
 00:36:07,740 --> 00:36:10,080
 Rejoignez tous le centre-ville !
 
-509
+646
 00:36:10,810 --> 00:36:15,120
 L'armée nationale se charge de secourir
 les habitants et de contenir le feu !
 
-510
+647
 00:36:18,690 --> 00:36:21,830
 – Réveillez-vous !
 – Prenez vite la fuite !
 
-511
+648
 00:36:24,390 --> 00:36:28,600
 – On est cernés par le feu !
 – Si on reste, on est morts !
 
-512
+649
 00:36:28,600 --> 00:36:31,870
 Arrête, ça ne sert à rien !
 Abandonne ta maison !
 
-513
+650
 00:36:34,940 --> 00:36:37,660
 Même le rivage est condamné !
 
-514
+651
 00:36:37,810 --> 00:36:39,740
 L'entrée de la forêt brûle aussi.
 
-515
+652
 00:36:40,540 --> 00:36:43,040
 Il n'y a nulle part où se réfugier !
 
-516
+653
 00:36:47,220 --> 00:36:50,720
 Faites tout brûler, les gars !
 
-517
+654
 00:36:52,990 --> 00:36:55,120
 Quand ce boulot sera terminé,
 
-518
+655
 00:36:55,290 --> 00:36:58,500
 je réaliserai enfin un vieux rêve.
 
-519
+656
 00:36:59,900 --> 00:37:00,880
 Je le reconnais,
 
-520
+657
 00:37:01,030 --> 00:37:04,700
 je me fiche
 de ce qui peut arriver aux autres.
 
-521
+658
 00:37:04,940 --> 00:37:11,110
 Mais vous savez, cet endroit reste
 une bonne planque pour nous, Majesté.
 
-522
+659
 00:37:11,110 --> 00:37:14,000
 Je le sais fort bien, Bluejam.
 
-523
+660
 00:37:14,240 --> 00:37:18,300
 Mais une fois cette affaire réglée,
 vous n'aurez plus à vous cacher.
 
-524
+661
 00:37:18,520 --> 00:37:22,990
 J'userai de mon autorité
 pour tous vous anoblir.
 
-525
+662
 00:37:24,820 --> 00:37:27,060
 C'est vrai, ce que vous dites là ?
 
-526
+663
 00:37:27,890 --> 00:37:31,230
 Le roi va nous donner
 un titre de noblesse !
 
-527
+664
 00:37:31,390 --> 00:37:35,400
 Et en bons nobles,
 on pourra vivre dans la Haute Ville !
 
-528
+665
 00:37:42,340 --> 00:37:45,980
 C'est dangereux, il ne faudrait pas
 trop s'attarder non plus.
 
-529
+666
 00:37:46,310 --> 00:37:49,400
 Les soldats doivent nous attendre
 derrière la porte.
 
-530
+667
 00:37:49,550 --> 00:37:52,250
 Que fait-on des gamins
 restés dans la planque ?
 
-531
+668
 00:37:52,250 --> 00:37:53,120
 Laisse-les.
 
-532
+669
 00:37:53,120 --> 00:37:57,120
 Je les aurais engagés s'ils m'avaient
 révélé la cache de leur trésor.
 
-533
+670
 00:37:59,590 --> 00:38:02,560
 Les idiots ne vivent jamais très vieux.
 
-534
+671
 00:38:05,360 --> 00:38:07,950
 Mais la porte est fermée, capitaine.
 
-535
+672
 00:38:08,100 --> 00:38:09,300
 N'ayez pas la trouille.
 
-536
+673
 00:38:09,300 --> 00:38:12,600
 Le plan n'aurait aucun sens
 si on pouvait tous se réfugier.
 
-537
+674
 00:38:12,740 --> 00:38:16,140
 Ils attendent mon signal pour ouvrir.
 
-538
+675
 00:38:17,110 --> 00:38:19,610
 C'est moi, Bluejam ! Ouvrez !
 
-539
+676
 00:38:23,210 --> 00:38:25,150
 Hé, vous m'entendez ?
 
-540
+677
 00:38:28,590 --> 00:38:29,690
 C'est pas vrai...
 
-541
+678
 00:38:30,890 --> 00:38:33,260
 Capitaine, on se serait fait avoir ?
 
-542
+679
 00:38:34,620 --> 00:38:39,720
 Hé, la soldatesque !
 À quoi vous jouez ? Ouvrez !
 
-543
+680
 00:38:40,060 --> 00:38:43,800
 Vous êtes censés
 nous laisser nous réfugier !
 
-544
+681
 00:38:44,070 --> 00:38:47,700
 C'était pas ça, le plan !
 Enculés !
 
-545
+682
 00:38:47,700 --> 00:38:50,270
 Et votre promesse, Majesté ?
 
-546
+683
 00:38:50,420 --> 00:38:53,580
 Vous deviez nous anoblir
 une fois ce...
 
-547
+684
 00:38:54,880 --> 00:38:58,080
 Vous m'avez berné, Majesté ?
 
-548
+685
 00:38:58,080 --> 00:39:00,620
 Bordel !
 
-549
+686
 00:39:01,320 --> 00:39:02,420
 Vous avez entendu ?
 
-550
+687
 00:39:02,420 --> 00:39:07,050
 Le responsable de cet incendie
 serait Bluejam, le pirate de Terminal.
 
-551
+688
 00:39:07,290 --> 00:39:10,880
 Je le savais.
 Qui d'autre cela pouvait-il être ?
 
-552
+689
 00:39:11,030 --> 00:39:15,770
 Il a dû faire ça pour empêcher
 le Gouvernement Mondial de venir ici.
 
-553
+690
 00:39:16,030 --> 00:39:17,630
 Ce sont des monstres.
 
-554
+691
 00:39:21,540 --> 00:39:24,540
 Ça brûle ! Ça brûle !
 
-555
+692
 00:39:24,740 --> 00:39:25,780
 Ça y est !
 
-556
+693
 00:39:25,980 --> 00:39:28,450
 C'est vraiment
 une histoire de cinglés !
 
-557
+694
 00:39:30,010 --> 00:39:32,680
 On est fichus !
 Je veux pas mourir !
 
-558
+695
 00:39:32,680 --> 00:39:34,680
 Arrête de chialer
 ou je te laisse en plan !
 
-559
+696
 00:39:35,390 --> 00:39:36,620
 Même pas chaud.
 
-560
+697
 00:39:38,220 --> 00:39:40,490
 Ça brûle ! Non, même pas !
 
-561
+698
 00:39:40,490 --> 00:39:41,760
 Tout est en feu.
 
-562
+699
 00:39:42,630 --> 00:39:43,940
 J'étouffe.
 
-563
+700
 00:39:44,090 --> 00:39:45,730
 Non, j'étouffe pas !
 
-564
+701
 00:39:45,730 --> 00:39:47,460
 L'air est trop chaud !
 
-565
+702
 00:39:47,630 --> 00:39:49,100
 Même pas chaud.
 
-566
+703
 00:39:49,100 --> 00:39:53,100
 On va s'en sortir !
 Je suis avec toi.
 
-567
+704
 00:39:53,300 --> 00:39:56,340
 Que fais-tu ici ?
 Va vite te réfugier !
 
-568
+705
 00:39:56,810 --> 00:39:58,380
 Ouvrez la porte !
 
-569
+706
 00:39:58,380 --> 00:39:59,910
 Qu'est-ce que tu racontes ?
 
-570
+707
 00:40:00,840 --> 00:40:01,930
 Garnement !
 
-571
+708
 00:40:02,080 --> 00:40:03,280
 Emmenez-le !
 
-572
+709
 00:40:05,150 --> 00:40:07,120
 Ace ! Luffy !
 
-573
+710
 00:40:07,120 --> 00:40:08,150
 Enfuyez-vous !
 
-574
+711
 00:40:12,790 --> 00:40:15,590
 Dégage de là !
 Dégage, j'ai dit !
 
-575
+712
 00:40:15,990 --> 00:40:17,660
 Pas question !
 
-576
+713
 00:40:19,000 --> 00:40:20,130
 Ace !
 
-577
+714
 00:40:20,430 --> 00:40:21,690
 Luffy !
 
-578
+715
 00:40:30,340 --> 00:40:33,510
 – Va te réfugier sans discuter.
 – Il est pénible.
 
-579
+716
 00:40:37,410 --> 00:40:40,250
 Ace, Luffy...
 
-580
+717
 00:41:02,670 --> 00:41:04,640
 Que t'arrive-t-il, jeune homme ?
 
-581
+718
 00:41:10,750 --> 00:41:12,000
 Monsieur...
 
-582
+719
 00:41:15,390 --> 00:41:17,950
 Les responsables de cet incendie,
 
-583
+720
 00:41:18,280 --> 00:41:20,590
 c'est la famille royale et les nobles.
 
-584
+721
 00:41:23,520 --> 00:41:25,130
 C'est la vérité !
 
-585
+722
 00:41:26,760 --> 00:41:32,070
 Cette ville pue encore plus
 que Grey Terminal.
 
-586
+723
 00:41:32,640 --> 00:41:36,440
 Elle empeste de tous les gens pourris
 qui l'habitent !
 
-587
+724
 00:41:38,640 --> 00:41:41,100
 Si je reste ici,
 
-588
+725
 00:41:41,970 --> 00:41:43,580
 je ne serai jamais libre !
 
-589
+726
 00:41:45,650 --> 00:41:46,650
 J'ai...
 
-590
+727
 00:41:46,950 --> 00:41:49,890
 J'ai honte d'être né noble !
 
-591
+728
 00:41:50,500 --> 00:41:53,700
 Regarde ce que tu as enfin réussi
 à faire dire à un enfant,
 
-592
+729
 00:41:53,960 --> 00:41:55,490
 royaume de Goa !
 
-593
+730
 00:41:57,410 --> 00:42:01,900
 Je te comprends, petit.
 Je suis aussi né ici.
 
-594
+731
 00:42:02,870 --> 00:42:08,240
 Mais je n'ai pas encore
 le pouvoir de changer ce pays.
 
-595
+732
 00:42:08,760 --> 00:42:12,340
 Alors vous me croyez, monsieur ?
 
-596
+733
 00:42:12,800 --> 00:42:15,150
 Oui, et je ne l'oublierai pas.
-
-597
-00:07:03,640 --> 00:07:05,970
-fait partie intégrante de ce royaume.
-
-598
-00:10:15,230 --> 00:10:15,260
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-599
-00:10:15,260 --> 00:10:15,290
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-600
-00:10:15,290 --> 00:10:15,330
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-601
-00:10:15,330 --> 00:10:15,360
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-602
-00:10:15,360 --> 00:10:15,390
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-603
-00:10:15,390 --> 00:10:15,430
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-604
-00:10:15,430 --> 00:10:15,460
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-605
-00:10:15,460 --> 00:10:15,490
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-606
-00:10:15,490 --> 00:10:15,530
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-607
-00:10:15,530 --> 00:10:15,560
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-608
-00:10:15,560 --> 00:10:15,590
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-609
-00:10:15,590 --> 00:10:15,630
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-610
-00:10:15,630 --> 00:10:15,660
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-611
-00:10:15,660 --> 00:10:15,690
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-612
-00:10:15,690 --> 00:10:15,730
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-613
-00:10:15,730 --> 00:10:15,760
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-614
-00:10:15,760 --> 00:10:15,790
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-615
-00:10:15,790 --> 00:10:15,830
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-616
-00:10:15,830 --> 00:10:15,860
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-617
-00:10:15,860 --> 00:10:15,890
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-618
-00:10:15,890 --> 00:10:15,930
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-619
-00:10:15,930 --> 00:10:15,960
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-620
-00:10:15,960 --> 00:10:15,990
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-621
-00:10:15,990 --> 00:10:16,030
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-622
-00:10:16,030 --> 00:10:16,060
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-623
-00:10:16,060 --> 00:10:16,090
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-624
-00:10:16,090 --> 00:10:16,130
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-625
-00:10:16,130 --> 00:10:16,160
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-626
-00:10:16,160 --> 00:10:16,190
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-627
-00:10:16,190 --> 00:10:16,230
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-628
-00:10:16,230 --> 00:10:16,260
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-629
-00:10:16,260 --> 00:10:16,290
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-630
-00:10:16,290 --> 00:10:16,330
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-631
-00:10:16,330 --> 00:10:16,360
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-632
-00:10:16,360 --> 00:10:16,390
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-633
-00:10:16,390 --> 00:10:16,430
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-634
-00:10:16,430 --> 00:10:16,460
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-635
-00:10:16,460 --> 00:10:16,500
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-636
-00:10:16,500 --> 00:10:16,530
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-637
-00:10:16,530 --> 00:10:16,560
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-638
-00:10:16,560 --> 00:10:16,600
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-639
-00:10:16,600 --> 00:10:16,630
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-640
-00:10:16,630 --> 00:10:16,660
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-641
-00:10:16,660 --> 00:10:16,700
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-642
-00:10:16,700 --> 00:10:16,730
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-643
-00:10:16,730 --> 00:10:16,760
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-644
-00:10:16,760 --> 00:10:16,800
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-645
-00:10:16,800 --> 00:10:16,830
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-646
-00:10:16,830 --> 00:10:16,860
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-647
-00:10:16,860 --> 00:10:16,900
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-648
-00:10:16,900 --> 00:10:16,930
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-649
-00:10:16,930 --> 00:10:16,960
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-650
-00:10:16,960 --> 00:10:17,000
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-651
-00:10:17,000 --> 00:10:17,030
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-652
-00:10:17,030 --> 00:10:17,060
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-653
-00:10:17,060 --> 00:10:17,100
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-654
-00:10:17,100 --> 00:10:17,130
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-655
-00:10:17,130 --> 00:10:17,160
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-656
-00:10:17,160 --> 00:10:17,200
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-657
-00:10:17,200 --> 00:10:17,230
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-658
-00:10:17,230 --> 00:10:17,260
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-659
-00:10:17,260 --> 00:10:17,300
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-660
-00:10:17,300 --> 00:10:17,330
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-661
-00:10:17,330 --> 00:10:17,360
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-662
-00:10:17,360 --> 00:10:17,400
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-663
-00:10:17,400 --> 00:10:17,430
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-664
-00:10:17,430 --> 00:10:17,460
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-665
-00:10:17,460 --> 00:10:17,500
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-666
-00:10:17,500 --> 00:10:17,530
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-667
-00:10:17,530 --> 00:10:17,560
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-668
-00:10:17,560 --> 00:10:17,600
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-669
-00:10:17,600 --> 00:10:17,630
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-670
-00:10:17,630 --> 00:10:17,660
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-671
-00:10:17,660 --> 00:10:17,700
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-672
-00:10:17,700 --> 00:10:17,730
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-673
-00:10:17,730 --> 00:10:17,760
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-674
-00:10:17,760 --> 00:10:17,800
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-675
-00:10:17,800 --> 00:10:17,830
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-676
-00:10:17,830 --> 00:10:17,860
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-677
-00:10:17,860 --> 00:10:17,900
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-678
-00:10:17,900 --> 00:10:17,930
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-679
-00:10:17,930 --> 00:10:17,960
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-680
-00:10:17,960 --> 00:10:18,000
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-681
-00:10:18,000 --> 00:10:18,030
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-682
-00:10:18,030 --> 00:10:18,060
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-683
-00:10:18,060 --> 00:10:18,100
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-684
-00:10:18,100 --> 00:10:18,130
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-685
-00:10:18,130 --> 00:10:18,160
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-686
-00:10:18,160 --> 00:10:18,200
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-687
-00:10:18,200 --> 00:10:18,230
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-688
-00:10:18,230 --> 00:10:18,260
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-689
-00:10:18,260 --> 00:10:18,300
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-690
-00:10:18,300 --> 00:10:18,330
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-691
-00:10:18,330 --> 00:10:18,360
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-692
-00:10:18,360 --> 00:10:18,430
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-693
-00:10:18,430 --> 00:10:18,460
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-694
-00:10:18,460 --> 00:10:18,500
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-695
-00:10:18,500 --> 00:10:18,530
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-696
-00:10:18,530 --> 00:10:18,560
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-697
-00:10:18,560 --> 00:10:18,600
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-698
-00:10:18,600 --> 00:10:18,660
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-699
-00:10:18,660 --> 00:10:18,800
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-700
-00:10:18,800 --> 00:10:18,860
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-701
-00:10:18,860 --> 00:10:21,030
-UN DRAGON CÉLESTE NOUS REND VISITE
-
-702
-00:00:18,590 --> 00:00:22,170
-Partons en voyage avant l'aube.
-
-703
-00:00:22,260 --> 00:00:26,690
-Pour voir nos lendemains inconnus.
-
-704
-00:00:26,970 --> 00:00:30,330
-Nous n'avons aucun regrets dans nos choix
-
-705
-00:00:30,630 --> 00:00:33,340
-(Oh je sais ce que je suis supposée faire).
-
-706
-00:00:33,510 --> 00:00:37,070
-Peu importe les épreuves qui nous attendent.
-
-707
-00:00:37,210 --> 00:00:41,700
-Rien ne peut arrêter mon cœur de battre.
-
-708
-00:00:41,810 --> 00:00:46,350
-Il n'y a qu'un seul endroit où aller.
-
-709
-00:00:46,580 --> 00:00:48,250
-(Volons vers la lumière !)
-
-710
-00:00:48,320 --> 00:00:52,000
-Je ne laisserai personne briser
-
-711
-00:00:52,160 --> 00:00:55,670
-Les liens créés au fil des batailles.
-
-712
-00:00:55,800 --> 00:00:58,470
-Quand je rouvrirai mon poing serré,
-
-713
-00:00:58,600 --> 00:01:01,710
-J'y trouverai de la force.
-
-714
-00:01:01,870 --> 00:01:04,130
-Allez, c'est parti.
-
-715
-00:01:04,270 --> 00:01:09,280
-Le nouveau monde appelle.
-
-716
-00:01:09,380 --> 00:01:11,670
-Regarde maintenant.
-
-717
-00:01:11,780 --> 00:01:18,020
-Peu importe le nombre de mers qui nous séparent.
-
-718
-00:01:18,080 --> 00:01:21,790
-Je me tiendrai toujours à tes côtés.
-
-719
-00:01:21,820 --> 00:01:25,460
-N'aie pas peur d'avancer.
-
-720
-00:01:25,960 --> 00:01:27,850
-N'oublie pas
-
-721
-00:01:27,920 --> 00:01:29,200
-Que nous combattons ensemble.
-
-722
-00:01:29,860 --> 00:01:37,120
-Je n'ai jamais souillé la mémoire.
-
-723
-00:01:37,540 --> 00:01:39,900
-De ce vaste ciel infini
-
-724
-00:01:40,010 --> 00:01:45,020
-que j'ai admiré ce jour-là.
-
-725
-00:01:45,040 --> 00:01:48,450
-Nous avons parcouru un long chemin.
-
-726
-00:01:48,650 --> 00:01:52,410
-Chacun avec notre engagement dans nos cœurs.
-
-727
-00:01:52,450 --> 00:01:54,990
-Il n'y a pas de doute.
-
-728
-00:01:55,050 --> 00:01:59,420
-Il y a des choses que l'on doit emporter avec nous.
-
-729
-00:01:59,560 --> 00:02:01,880
-Le soleil se lèvera et brillera.
-
-730
-00:02:02,030 --> 00:02:06,840
-De façon égale, même sur nos peines.
-
-731
-00:02:06,870 --> 00:02:09,240
-Je crois
-
-732
-00:02:09,340 --> 00:02:15,580
-au futur qui sera un jour une seule partie.
-
-733
-00:02:15,710 --> 00:02:19,300
-Allons le chercher ensemble.
-
-734
-00:02:19,380 --> 00:02:23,110
-Tu es unique.
-
-735
-00:02:23,580 --> 00:02:25,240
-N'oublie pas
-
-736
-00:02:25,540 --> 00:02:27,640
-Que nous combattons ensemble.

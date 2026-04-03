@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -166,449 +166,446 @@ Chopper'a ismini veren ve ona
 oğlu gibi bakan bir sahte doktordu.
 
 40
+00:03:44,950 --> 00:03:49,920
+Sahte Doktor
+
+41
 00:03:49,920 --> 00:03:51,920
 Dur lan!
 
-41
+42
 00:03:52,760 --> 00:03:53,430
 Burada mı?!
 
-42
+43
 00:03:53,430 --> 00:03:55,070
 Hayır! Onu bulamıyoruz!
 
-43
+44
 00:03:55,070 --> 00:03:57,500
 Hiriluk, inatçı sahte doktor!
 
-44
+45
 00:03:57,500 --> 00:04:00,370
 Ne olursa olsun onu yakalayacağız!
 Wapol-sama'nın emri bu!
 
-45
+46
 00:04:00,370 --> 00:04:01,380
 Başüstüne!
 
-46
+47
 00:04:13,550 --> 00:04:15,780
 Lanet olsun.
 
-47
+48
 00:04:16,570 --> 00:04:20,240
 Bu şekilde devam edemezsin.
 Bir doktor çağıralım.
 
-48
+49
 00:04:20,240 --> 00:04:23,690
 Manasız. Bu ülkede doktor
 diye bir şey yok...
 
-49
+50
 00:04:23,690 --> 00:04:27,100
 Sadece Wapol'a
 hizmet eden Issie 20 hariç.
 
-50
+51
 00:04:27,100 --> 00:04:31,230
 O zaman Issie 20'nin buraya gelmesi
 için Wapol'a yalvarırız! Ben giderim.
 
-51
+52
 00:04:31,230 --> 00:04:33,820
 Buna gerek yok.
 
-52
+53
+00:04:35,760 --> 00:04:40,220
+Dr. Hiriluk, Sahte Doktor
+
+54
 00:04:38,780 --> 00:04:40,220
 Onunla ben ilgilenirim.
 
-53
+55
 00:04:40,220 --> 00:04:43,850
 Hiriluk! H-Hayır, teşekkürler!
 Lütfen yapma!
 
-54
+56
 00:04:43,850 --> 00:04:47,270
 Tedavi ettiğin bir sürü
 insan daha beter oldu!
 
-55
+57
 00:04:47,270 --> 00:04:49,140
 Endişelenme.
 
-56
+58
 00:04:49,140 --> 00:04:53,110
 Dün her şeye iyi gelen
 harika bir tedavi geliştirdim.
 
-57
+59
 00:04:53,110 --> 00:04:55,190
 Çok şanslısın.
 
-58
+60
 00:04:59,100 --> 00:05:02,230
 Hm? Düşündüğünüz gibi değil.
 Bu bir sakinleştirici tabanca.
 
-59
+61
 00:05:02,230 --> 00:05:04,270
 Yoğun ağrı çeken hastalar için.
 
-60
+62
 00:05:04,270 --> 00:05:06,480
 M-Muhafızları çağıracağım!
 
-61
+63
 00:05:07,370 --> 00:05:11,830
 Lütfen git!
 İstediğin para ise ödeyebilirim!
 
-62
+64
 00:05:12,410 --> 00:05:17,180
 Ben hasta insanlardan para almam.
 Sana sadece yardım etmek istiyorum.
 
-63
+65
 00:05:17,180 --> 00:05:21,550
 Yapma! Dur!
 Benim bir ailem var!
 
-64
+66
 00:05:23,010 --> 00:05:26,010
 Gak! Vırak! Vırak! Vırak!
 
-65
+67
 00:05:26,720 --> 00:05:28,980
 Vırak! Vırak!
 
-66
+68
 00:05:28,980 --> 00:05:32,430
 Hm? Bu tuhaf.
 Yanlış malzeme mi kullandım ki?
 
-67
+69
 00:05:32,430 --> 00:05:37,820
 Kurbağa özü işe yarar diye düşündüm.
 Lanet olsun... Sanırım başarısız oldum.
 
-68
+70
 00:05:37,820 --> 00:05:39,870
 Ü-Üzgünüm... Böyle olsun istemedim.
 
-69
+71
 00:05:39,870 --> 00:05:41,950
 Hiriluk! İçeride misin?!
 
-70
+72
 00:05:43,740 --> 00:05:44,870
 Dur!
 
-71
+73
 00:05:49,570 --> 00:05:50,680
 Hmm?
 
-72
+74
+00:05:51,460 --> 00:05:55,840
+Dr. Kureha (133 Yaşında)
+
+75
 00:05:55,980 --> 00:05:57,800
 Mutlu musun, genç adam?
 
-73
+76
 00:05:58,580 --> 00:06:00,520
 Doktor avı neredeyse tamamlandı.
 
-74
+77
 00:06:00,520 --> 00:06:04,760
 Duyduğum kadarıyla senle ben
 ülkede kalan tek doktorlarız.
 
-75
+78
 00:06:05,010 --> 00:06:08,520
 Wapol çaresizce bizi yakalamaya çalışıyor.
 
-76
+79
 00:06:08,520 --> 00:06:11,850
 Öyle olmasaydı bile,
 bu ülkede dışlanmış birisin.
 
-77
+80
 00:06:12,460 --> 00:06:15,230
 Ne de olsa sahte doktorsun.
 
-78
+81
 00:06:18,070 --> 00:06:21,620
 Saçma bir doktor avı
 ile yakalanmayacağım.
 
-79
+82
 00:06:21,620 --> 00:06:25,160
 Bir gün, bu ülkeyi
 tıbbi bilim ile kurtaracağım.
 
-80
+83
 00:06:26,010 --> 00:06:29,160
 Oh? "Bu ülkeyi yok edeceğim"
 demek istedin galiba?
 
-81
+84
 00:06:29,160 --> 00:06:31,080
 Köprüde birileri var!
 
-82
+85
 00:06:31,080 --> 00:06:33,050
 Sonra görüşürüz, sahte doktor.
 
-83
+86
 00:06:33,050 --> 00:06:35,540
 Umarım son görüşmemiz olur, hırsız.
 
-84
+87
 00:06:44,260 --> 00:06:46,590
 Asla yakalanmayacağım!
 
-85
+88
 00:06:46,590 --> 00:06:49,920
 Elimden geldiğince
 çok hastayı iyileştireceğim!
 
-86
+89
 00:06:50,780 --> 00:06:52,060
 Hm?
 
-87
+90
 00:06:56,230 --> 00:06:57,810
 Vuruldun mu?
 
-88
+91
 00:06:57,810 --> 00:07:00,730
 Bir an önce kanamanı durdurmalıyız,
 yoksa öleceksin!
 
-89
+92
 00:07:01,740 --> 00:07:03,400
 Endişelenme. Seni kurtaracağım!
 
-90
+93
 00:07:03,400 --> 00:07:06,030
 Bu bir yeti! Öldürene kadar sıkın!
 
-91
+94
 00:07:08,780 --> 00:07:12,450
 Üç gün önce kırık kemikleri
 iyileştiren yeni bir merhem yaptım.
 
-92
+95
 00:07:12,450 --> 00:07:13,830
 Çok şanslısın.
 
-93
+96
 00:07:17,960 --> 00:07:19,160
 Sakın kaçmasın!
 
-94
+97
 00:07:19,160 --> 00:07:20,420
 Öldürün!
 
-95
+98
 00:07:20,420 --> 00:07:22,380
 Ateş edin!
 
-96
+99
 00:07:27,060 --> 00:07:30,400
 Nesin sen?
 İnsana benzemiyorsun.
 
-97
+100
 00:07:30,400 --> 00:07:33,560
 Oh, tamam, şu herkesin
 konuştuğu yeti olmalısın.
 
-98
+101
 00:07:46,550 --> 00:07:48,280
 Evet! Onu vurduk!
 
-99
+102
 00:07:48,380 --> 00:07:50,530
 Yeterli değil! İşini bitirin!
 
-100
+103
 00:07:58,470 --> 00:08:02,460
 Bu... ne cüret...?
 
-101
+104
 00:08:03,000 --> 00:08:05,460
 Benim...
 
-102
+105
 00:08:05,460 --> 00:08:08,430
 kim olduğumu sanıyorsun?!
 
-103
+106
 00:08:08,430 --> 00:08:10,340
 Hey! Bekle!
 
-104
+107
 00:08:12,390 --> 00:08:17,040
 Seni vurmayacağım!
 
-105
+108
 00:08:18,790 --> 00:08:22,060
 Benim adım Dr. Hiriluk!
 
-106
+109
 00:08:22,920 --> 00:08:24,690
 Doktorum!
 
-107
+110
 00:09:17,580 --> 00:09:21,830
 Bu Chopper ve Hiriluk'un
 ilk tanışma anıydı.
 
-108
+111
 00:09:22,860 --> 00:09:27,960
 Peki ya Hiriluk, ren geyiğini
 sahiplendikten sonra ne oldu?
 
-109
+112
 00:09:29,570 --> 00:09:32,430
 Ne?! Konuşabiliyor musun?!
 
-110
+113
 00:09:36,610 --> 00:09:39,440
 Üç gün boyunca neden hiçbir şey demedin?
 
-111
+114
 00:09:39,440 --> 00:09:43,150
 Konuşursam benden nefret
 edebileceğini düşündüm.
 
-112
+115
 00:09:43,150 --> 00:09:47,480
 Geçen gün insanlarla konuştuğumda, 
 bana ateş etmeye başladılar...
 
-113
+116
 00:09:47,480 --> 00:09:50,280
 Çünkü onlar için konuşabilmem çok tuhaf.
 
-114
+117
 00:09:50,280 --> 00:09:52,240
 Konuşabiliyorsan ne olmuş?
 
-115
+118
 00:09:53,760 --> 00:09:58,240
 Ben de konuşabiliyorum.
 Hem senden daha etkili bir şekilde.
 
-116
+119
 00:10:00,200 --> 00:10:01,460
 Kaç, Chopper!
 
-117
+120
 00:10:01,460 --> 00:10:03,420
 Ne?
 
-118
+121
 00:10:08,200 --> 00:10:13,020
 Kahretsin! Yine başarısız oldum!
 Hey, iyi misin Chopper?!
 
-119
+122
 00:10:16,140 --> 00:10:20,220
 Hmm? Şey, şöyle bir bakınca
 o kadar da iyi değilsin sanırım.
 
-120
+123
 00:10:26,090 --> 00:10:27,940
 Neden bana Chopper diyorsun?
 
-121
+124
 00:10:28,660 --> 00:10:30,990
 Sen Tony Tony Chopper'sın.
 
-122
+125
 00:10:30,990 --> 00:10:36,570
 Ne de olsa, boynuzlarınla ağaçları
 devirebilen güçlü bir ren geyiğisin.
 
-123
+126
 00:10:30,990 --> 00:10:36,570
 Chop down trees: Ağaçları kesmek, devirmek.
 Chopper: Kesen şey/kişi
 
-124
+127
 00:10:36,570 --> 00:10:40,400
 Havalı bir isim, değil mi?
 Sana böyle sesleneceğim.
 
-125
+128
 00:10:42,570 --> 00:10:44,060
 Chopper...
 
-126
+129
 00:10:47,640 --> 00:10:52,630
 Dinle, Chopper. Hastaları tedavi
 ederken iyi gözlem yapmalısın.
 
-127
+130
 00:10:52,630 --> 00:10:56,130
 Böyle yapmak insanların
 hayatlarını kurtarabilir.
 
-128
+131
 00:10:57,800 --> 00:11:01,810
 Hadi gidelim! Her geçen gün,
 hastalar yolumu gözlüyor!
 
-129
+132
 00:11:01,810 --> 00:11:04,770
 Defol buradan, seni sahte doktor!
 
-130
+133
 00:11:05,270 --> 00:11:07,900
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
-131
+134
 00:11:07,900 --> 00:11:07,940
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
-132
+135
 00:11:07,940 --> 00:11:07,980
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
-133
+136
 00:11:07,980 --> 00:11:08,020
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
-134
+137
 00:11:08,020 --> 00:11:08,060
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
-135
-00:11:08,060 --> 00:11:08,110
-Kertenkele gözlerinin
-işe yarayacağını sandım!
-
-136
-00:11:08,060 --> 00:11:08,110
-Kertenkele gözlerinin
-işe yarayacağını sandım!
-
-137
-00:11:08,110 --> 00:11:08,150
-Kertenkele gözlerinin
-işe yarayacağını sandım!
-
 138
-00:11:08,110 --> 00:11:08,150
+00:11:08,060 --> 00:11:08,110
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
 139
-00:11:08,150 --> 00:11:08,190
+00:11:08,110 --> 00:11:08,150
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
@@ -623,2042 +620,1915 @@ Kertenkele gözlerinin
 işe yarayacağını sandım!
 
 142
-00:11:08,190 --> 00:11:08,230
+00:11:08,230 --> 00:11:08,270
 Kertenkele gözlerinin
 işe yarayacağını sandım!
 
 143
-00:11:08,230 --> 00:11:08,270
-Kertenkele gözlerinin
-işe yarayacağını sandım!
-
-144
-00:11:08,230 --> 00:11:08,270
-Kertenkele gözlerinin
-işe yarayacağını sandım!
-
-145
 00:11:08,630 --> 00:11:09,820
 Bir daha gelmeyin!
 
-146
+144
 00:11:09,820 --> 00:11:09,860
 Bir daha gelmeyin!
 
-147
+145
 00:11:09,860 --> 00:11:09,900
 Bir daha gelmeyin!
 
-148
+146
 00:11:09,900 --> 00:11:09,940
 Bir daha gelmeyin!
 
-149
+147
 00:11:09,940 --> 00:11:09,980
 Bir daha gelmeyin!
 
-150
+148
 00:11:09,980 --> 00:11:10,020
 Bir daha gelmeyin!
 
-151
+149
 00:11:10,020 --> 00:11:10,070
+Bir daha gelmeyin!
+
+150
+00:11:10,070 --> 00:11:10,110
+Bir daha gelmeyin!
+
+151
+00:11:10,110 --> 00:11:10,150
 Bir daha gelmeyin!
 
 152
-00:11:10,020 --> 00:11:10,070
-Bir daha gelmeyin!
+00:11:10,150 --> 00:11:10,190
+Defolun!
 
 153
-00:11:10,070 --> 00:11:10,110
-Bir daha gelmeyin!
+00:11:10,190 --> 00:11:10,230
+Defolun!
 
 154
-00:11:10,070 --> 00:11:10,110
-Bir daha gelmeyin!
+00:11:10,230 --> 00:11:10,270
+Defolun!
 
 155
-00:11:10,110 --> 00:11:10,150
-Bir daha gelmeyin!
-
-156
-00:11:10,110 --> 00:11:10,150
-Bir daha gelmeyin!
-
-157
-00:11:10,150 --> 00:11:10,190
-Defolun!
-
-158
-00:11:10,150 --> 00:11:10,190
-Defolun!
-
-159
-00:11:10,190 --> 00:11:10,230
-Defolun!
-
-160
-00:11:10,190 --> 00:11:10,230
-Defolun!
-
-161
-00:11:10,230 --> 00:11:10,270
-Defolun!
-
-162
-00:11:10,230 --> 00:11:10,270
-Defolun!
-
-163
 00:11:10,270 --> 00:11:10,320
 Defolun!
 
-164
+156
 00:11:10,320 --> 00:11:10,360
 Defolun!
 
-165
+157
 00:11:10,360 --> 00:11:10,400
 Defolun!
 
-166
+158
 00:11:10,400 --> 00:11:10,440
 Defolun!
 
-167
+159
 00:11:10,440 --> 00:11:11,860
 Defolun!
 
-168
+160
 00:11:11,860 --> 00:11:11,900
 Defolun!
 
-169
+161
 00:11:11,900 --> 00:11:11,940
 Defolun!
 
-170
+162
 00:11:11,940 --> 00:11:11,980
 Defolun!
 
-171
+163
 00:11:11,980 --> 00:11:12,030
 Defolun!
 
+164
+00:11:12,030 --> 00:11:12,070
+Defolun!
+
+165
+00:11:12,070 --> 00:11:12,110
+Defolun!
+
+166
+00:11:12,110 --> 00:11:12,150
+Defolun!
+
+167
+00:11:12,150 --> 00:11:12,190
+Defolun!
+
+168
+00:11:12,190 --> 00:11:12,230
+Kaç! Muhafızlar!
+
+169
+00:11:12,230 --> 00:11:12,280
+Kaç! Muhafızlar!
+
+170
+00:11:12,280 --> 00:11:12,320
+Kaç! Muhafızlar!
+
+171
+00:11:12,320 --> 00:11:12,360
+Kaç! Muhafızlar!
+
 172
-00:11:12,030 --> 00:11:12,070
-Defolun!
-
-173
-00:11:12,030 --> 00:11:12,070
-Defolun!
-
-174
-00:11:12,070 --> 00:11:12,110
-Defolun!
-
-175
-00:11:12,070 --> 00:11:12,110
-Defolun!
-
-176
-00:11:12,110 --> 00:11:12,150
-Defolun!
-
-177
-00:11:12,110 --> 00:11:12,150
-Defolun!
-
-178
-00:11:12,150 --> 00:11:12,190
-Defolun!
-
-179
-00:11:12,150 --> 00:11:12,190
-Defolun!
-
-180
-00:11:12,190 --> 00:11:12,230
-Kaç! Muhafızlar!
-
-181
-00:11:12,190 --> 00:11:12,230
-Kaç! Muhafızlar!
-
-182
-00:11:12,230 --> 00:11:12,280
-Kaç! Muhafızlar!
-
-183
-00:11:12,230 --> 00:11:12,280
-Kaç! Muhafızlar!
-
-184
-00:11:12,280 --> 00:11:12,320
-Kaç! Muhafızlar!
-
-185
-00:11:12,280 --> 00:11:12,320
-Kaç! Muhafızlar!
-
-186
-00:11:12,320 --> 00:11:12,360
-Kaç! Muhafızlar!
-
-187
-00:11:12,320 --> 00:11:12,360
-Kaç! Muhafızlar!
-
-188
 00:11:12,360 --> 00:11:12,400
 Kaç! Muhafızlar!
 
-189
+173
 00:11:12,400 --> 00:11:12,440
 Kaç! Muhafızlar!
 
-190
+174
 00:11:12,440 --> 00:11:12,480
 Kaç! Muhafızlar!
 
-191
+175
 00:11:12,480 --> 00:11:14,570
 Kaç! Muhafızlar!
 
-192
+176
 00:11:14,570 --> 00:11:17,010
 Chopper! Yedek planı devreye sokuyoruz!
 
-193
+177
 00:11:17,010 --> 00:11:17,760
 Neyi?!
 
-194
+178
 00:11:17,780 --> 00:11:19,870
 Sağlıcakla kal!
 
-195
+179
 00:11:23,350 --> 00:11:23,870
 Ha?
 
-196
+180
 00:11:24,610 --> 00:11:27,120
 Beni neredeyse öldürtüyordun!
 
-197
+181
 00:11:27,120 --> 00:11:30,850
 Zaten daha önce de ölümün kıyısından
 dönmüştün, mavi burunlu şapşal!
 
-198
+182
 00:11:30,850 --> 00:11:33,590
 Mavi burnumu bu işe karıştırma!
 
-199
+183
 00:11:44,730 --> 00:11:46,020
 Doktor...
 
-200
+184
 00:11:46,020 --> 00:11:46,700
 Hm?
 
-201
+185
 00:11:46,700 --> 00:11:50,980
 Bu benim... biriyle olan ilk kavgamdı.
 
-202
+186
 00:11:53,640 --> 00:11:56,990
 Çok doğal. Kavga etmek için
 bir rakibin olmalı.
 
-203
+187
 00:11:56,990 --> 00:11:59,950
 O hâlde... Bu da mı senin için bir ilk?
 
-204
+188
 00:12:03,390 --> 00:12:04,540
 Hm?
 
-205
+189
 00:12:05,690 --> 00:12:09,330
 Bu da barışmamızın şerefine,
 küçük bir hediye.
 
-206
+190
 00:12:09,990 --> 00:12:13,000
 Hediye mi...? Barışmak mı...?
 
-207
+191
 00:12:21,670 --> 00:12:25,270
 Hayat bizim gibi dışlanmışlar
 için zalim, öyle değil mi?
 
-208
+192
 00:12:25,890 --> 00:12:28,770
 Ama insanlara karşı kin tutma.
 
-209
+193
 00:12:28,770 --> 00:12:31,730
 Bu ülkenin kendisi hasta.
 
-210
+194
 00:12:31,730 --> 00:12:34,850
 Halkın da kralın da kalpleri hasta.
 
-211
+195
 00:12:34,850 --> 00:12:38,720
 İnsanlar genellikle hasta bir
 ülkeyi iyileştiremeyeceğini söyler.
 
-212
+196
 00:12:38,720 --> 00:12:39,740
 Bu doğru değil.
 
-213
+197
 00:12:40,760 --> 00:12:44,200
 İcadım nihayete erdiğinde,
 bu ülke kurtulmuş olacak!
 
-214
+198
 00:12:44,960 --> 00:12:49,330
 Bir zamanlar uzak batıdaki bir
 ülkede usta bir hırsız varmış.
 
-215
+199
 00:12:49,330 --> 00:12:52,710
 Ciddi bir kalp problemi varmış.
 
-216
+200
 00:12:52,710 --> 00:12:55,940
 Bulabildiği her doktordan
 tedavi almaya çalışmış...
 
-217
+201
 00:12:55,940 --> 00:12:58,570
 ama onu tedavi edebilen olmamış.
 
-218
+202
 00:12:58,570 --> 00:13:03,080
 Öleceğini duymak onu sarsmıştı,
 fakat ardından bir dağa rastladı.
 
-219
+203
 00:13:03,080 --> 00:13:07,390
 Orada... hayatında hiç görmemiş
 olduğu bir manzarayla karşılaşmış.
 
-220
+204
 00:13:15,990 --> 00:13:17,150
 Kiraz çiçekleri!
 
-221
+205
 00:13:17,150 --> 00:13:20,650
 Dağın her yerinde canlı
 kiraz çiçekleri görmüş!
 
-222
+206
 00:13:20,650 --> 00:13:24,370
 Sonrasında başka bir doktora
 gidince şoke olmuş.
 
-223
+207
 00:13:24,370 --> 00:13:26,100
 Çünkü doktor demiş ki...
 
-224
+208
 00:13:26,100 --> 00:13:28,740
 "Tamamen sağlıklısın."
 
-225
+209
 00:13:28,740 --> 00:13:29,620
 Ne?
 
-226
+210
 00:13:29,620 --> 00:13:33,580
 İyileşmiş!
 Bir mucize gibi geliyor, değil mi?
 
-227
+211
 00:13:33,580 --> 00:13:35,650
 Ve bu, kesinlikle tıp bilimiyle ilgiliydi!
 
-228
+212
 00:13:35,650 --> 00:13:39,840
 Güçlü bir duygusal dürtü,
 adamın bedeninde değişime yol açmış!
 
-229
+213
 00:13:40,750 --> 00:13:44,890
 Bu demek oluyor ki bu dünyada 
 iyileştirilemeyecek hiçbir hastalık yok.
 
-230
+214
 00:13:44,890 --> 00:13:50,260
 Benim hakkımda kim ne derse desin,
 bir doktor olarak bu ülkeyi kurtaracağım!
 
-231
+215
 00:13:51,470 --> 00:13:57,630
 Bu yüzden tüm hastalıklara karşı
 kuru kafalı bir bayrak çekiyorum!
 
-232
+216
 00:13:57,630 --> 00:13:58,570
 Kuru kafa...
 
-233
+217
 00:13:58,570 --> 00:14:03,940
 Bu gördüğün, imkânsızı reddeden
 bir inancın sembolüdür!
 
-234
+218
 00:14:03,940 --> 00:14:07,450
 Bir doktor olarak bu ülkeyi kurtaracağım!
 
-235
+219
 00:14:07,450 --> 00:14:12,040
 Bu bayrağı çekerek, ben de
 tıpkı korsanlar gibi savaşacağım!
 
-236
+220
 00:14:12,040 --> 00:14:15,040
 Hey! Ren geyiği!
 
-237
+221
 00:14:15,040 --> 00:14:17,590
 Bize katıl ve arkadaşımız ol!
 
-238
+222
 00:14:17,590 --> 00:14:21,440
 Hm? Oha! Bu harika görünüyor!
 
-239
+223
 00:14:27,020 --> 00:14:29,310
 Korsan olmak harika!
 
-240
+224
 00:14:29,750 --> 00:14:32,600
 Doktor, korsanlar tam olarak ne?
 
-241
+225
 00:14:32,600 --> 00:14:34,230
 Korsanlar mı?
 
-242
+226
 00:14:34,870 --> 00:14:37,740
 Korsanlar, denizlerde dolaşan
 olağanüstü insanlardır.
 
-243
+227
 00:14:37,740 --> 00:14:40,380
 İri yapılılar ve şahin gibi
 keskin gözlere sahipler.
 
-244
+228
 00:14:40,380 --> 00:14:42,900
 Sesleri gökyüzünü yaran
 yıldırımlar gibidir.
 
-245
+229
 00:14:43,550 --> 00:14:46,320
 Sen gerçekten... korsan mısın?!
 
-246
+230
 00:14:46,320 --> 00:14:46,740
 Hm?
 
-247
+231
 00:14:47,680 --> 00:14:49,720
 Evet, öyleyim...
 
-248
+232
 00:14:49,720 --> 00:14:54,080
 Bize katıl! Korsan olmak çok keyifli!
 Korsanlar şarkı da söylerler.
 
-249
+233
 00:14:54,080 --> 00:14:57,210
 Ne? Ş-Şarkı mı söylerler?
 
-250
+234
 00:14:57,960 --> 00:15:01,030
 Evet. Dans da ederler!
 
-251
+235
 00:15:01,030 --> 00:15:02,930
 Korsanlık böyle mi?!
 
-252
+236
 00:15:02,930 --> 00:15:04,930
 Evet! Ayrıca bir sürü maceraya atılırlar.
 
-253
+237
 00:15:05,430 --> 00:15:08,640
 Macera mı? Yani korsanlar
 maceralara mı atılır?
 
-254
+238
 00:15:09,140 --> 00:15:12,680
 Elbette! Korsanlar hayatları
 pahasına maceraya atılırlar.
 
-255
+239
 00:15:12,680 --> 00:15:14,890
 Pek çok olağanüstü insanla tanışabilirsin.
 
-256
+240
 00:15:14,890 --> 00:15:17,150
 Korsanlar inanılmazdır!
 
-257
+241
 00:15:17,150 --> 00:15:20,900
 Denizde böyle sayısız insan var!
 
-258
+242
 00:15:21,450 --> 00:15:24,290
 Chopper, bir gün denize açıl.
 
-259
+243
 00:15:24,290 --> 00:15:28,690
 Bunu yaparsan, kendi dertlerinin
 ne kadar ufak olduğunu göreceksin.
 
-260
+244
 00:15:28,690 --> 00:15:34,040
 Tüm dünyaya kıyasla, doğduğun
 bu ada işte bu kadar küçük kalıyor!
 
-261
+245
 00:15:34,040 --> 00:15:35,500
 Cidden mi?
 
-262
+246
 00:15:35,500 --> 00:15:39,790
 Hayır, daha da küçük!
 Bu kadar! Doğru söylüyorum.
 
-263
+247
 00:15:43,910 --> 00:15:47,260
 Geleceğin, gördüğün denizin
 ötesinde yatıyor!
 
-264
+248
 00:15:48,380 --> 00:15:52,470
 Güzel zamanlar, göz açıp
 kapayıncaya kadar geçti.
 
-265
+249
 00:15:53,140 --> 00:15:54,890
 Ama neticede...
 
-266
+250
 00:16:02,660 --> 00:16:05,320
 veda etme vakti...
 
-267
+251
 00:16:06,630 --> 00:16:08,820
 bir gün herkes için gelir.
 
-268
+252
 00:16:13,700 --> 00:16:15,450
 Bir yıl sürdü...
 
-269
+253
+00:16:13,740 --> 00:16:17,660
+Bir Yıl Sonra
+
+254
 00:16:15,450 --> 00:16:17,660
 ama tedavin artık sona erdi.
 
-270
+255
 00:16:17,660 --> 00:16:20,630
 Yaraların tamamen iyileşti, Chopper.
 
-271
+256
 00:16:20,630 --> 00:16:23,750
 Evet! Teşekkürler, Doktor!
 
-272
+257
 00:16:23,750 --> 00:16:25,960
 Peki öyleyse... kendine iyi bak.
 
-273
+258
 00:16:26,780 --> 00:16:27,880
 Ne?
 
-274
+259
 00:16:29,090 --> 00:16:32,220
 Şimdi git! Özgürce yaşa!
 Ben araştırmamla meşgulüm!
 
-275
+260
 00:16:33,100 --> 00:16:37,100
 Artık sana karşı hiçbir
 vicdani yükümlülüğüm kalmadı!
 
-276
+261
 00:16:38,630 --> 00:16:43,900
 Doktor! Bir daha başına bela olmam,
 lütfen beni geri içeri al!
 
-277
+262
 00:16:43,900 --> 00:16:47,740
 Sana günlük omuz masajları yaparım!
 Çayını demler, evini temizlerim!
 
-278
+263
 00:16:47,740 --> 00:16:49,820
 Lütfen! Kalmama izin ver!
 
-279
+264
 00:16:51,910 --> 00:16:55,370
 Hiç arkadaşım yok!
 Gidecek yerim yok!
 
-280
+265
 00:16:58,880 --> 00:17:02,420
 Doktor! Doktor!
 
-281
+266
 00:17:04,290 --> 00:17:08,400
 Doktor! Doktor!
 
-282
+267
 00:17:10,090 --> 00:17:11,220
 Chopper!
 
-283
+268
 00:17:14,960 --> 00:17:19,180
 Bak, Doktor, yaralandım. Hey, Doktor!
 
-284
+269
 00:17:20,140 --> 00:17:22,150
 Bak!
 
-285
+270
 00:17:25,740 --> 00:17:27,690
 Neden... Doktor?
 
-286
+271
 00:17:27,690 --> 00:17:31,410
 Git! Git, denize açıl! Herhangi bir yere!
 
-287
+272
 00:17:31,410 --> 00:17:33,410
 Ama bir daha buraya gelme!
 
-288
+273
 00:17:48,630 --> 00:17:51,040
 Affet beni, Chopper!
 
-289
+274
 00:17:56,980 --> 00:18:01,440
 Ben... yakında öleceğim.
 
-290
+275
 00:18:02,730 --> 00:18:05,230
 Evet, öyle.
 
-291
+276
 00:18:05,230 --> 00:18:08,530
 Söyle, tahmini ne kadar zamanım var?
 
-292
+277
 00:18:08,530 --> 00:18:11,060
 Oh? Seni muayene etmeyi reddediyorum.
 
-293
+278
 00:18:11,060 --> 00:18:13,780
 Hizmet bedelimi karşılayamazsın.
 
-294
+279
 00:18:16,200 --> 00:18:17,080
 Söyle!
 
-295
+280
 00:18:22,870 --> 00:18:26,020
 Beni sakinleştirici silahıyla 
 nasıl öldürmeyi planlıyorsun?
 
-296
+281
 00:18:27,710 --> 00:18:31,220
 Peki, söyleyeyim.
 On gün sonra saat beşte öleceksin.
 
-297
+282
 00:18:31,220 --> 00:18:33,120
 Artık acı çekmene gerek yok.
 
-298
+283
 00:18:33,120 --> 00:18:35,760
 On gün... Yeter de artar.
 
-299
+284
 00:18:35,760 --> 00:18:37,600
 İki gün yetiyor bana...
 
-300
+285
 00:18:37,600 --> 00:18:41,160
 İki gün içinde, otuz yıllık
 araştırmamı tamamlayacağım.
 
-301
+286
 00:18:41,160 --> 00:18:44,690
 Kiraz çiçeklerini...
 bu ülkenin her yerinde açtıracağım!
 
-302
+287
 00:18:44,690 --> 00:18:49,630
 Kiraz çiçekleri mi? Yani otuz yıldır
 devam ettirdiğin şu araştırma...
 
-303
+288
 00:18:49,630 --> 00:18:52,070
 kiraz çiçeklerini açtırmakla mı ilgiliydi?
 
-304
+289
 00:18:52,070 --> 00:18:57,070
 Hani şu uzun zaman önce usta hırsızı, yani 
 seni kurtaran, mucizevi kiraz çiçekleri mi?
 
-305
+290
 00:18:57,070 --> 00:18:58,280
 Aynen öyle!
 
-306
+291
 00:18:58,280 --> 00:18:59,490
 Ne?
 
-307
+292
 00:19:00,810 --> 00:19:04,780
 Ahmak. Burası dört mevsim karla,
 ayazla boğuşan bir kış adası.
 
-308
+293
 00:19:04,780 --> 00:19:06,880
 Kiraz çiçekleri burada açmaz.
 
-309
+294
 00:19:06,880 --> 00:19:08,210
 Açacaklar!
 
-310
+295
 00:19:08,210 --> 00:19:14,340
 Hayatı pamuk ipliğine bağlı bir serseriydim,
 ama yaşadıkça içimde bir şeyler değişti.
 
-311
+296
 00:19:14,340 --> 00:19:18,050
 Bu dünyadaki herkes kurtarılabilir!
 
-312
+297
 00:19:18,050 --> 00:19:22,220
 Bunu doğduğum yerde,
 Drum'da kanıtlayacağım!
 
-313
+298
 00:19:22,220 --> 00:19:27,710
 Şunu anla, yaptığın şeyin tıp ya da
 ona benzer bir şeyle hiçbir alakası yok.
 
-314
+299
 00:19:27,710 --> 00:19:32,630
 Kiraz çiçekleri açsa bile,
 insan vücuduna bir etkisi olmayacaktır.
 
-315
+300
 00:19:33,240 --> 00:19:34,980
 Hiriluk!
 
-316
+301
 00:19:40,350 --> 00:19:46,620
 Chopper, biz aynıyız. Ölmeden önce,
 dünyada imkânsızın olmadığını...
 
-317
+302
 00:19:47,460 --> 00:19:49,690
 sana göstermek isterim.
 
-318
+303
 00:19:49,690 --> 00:19:52,730
 Başarabileceğin şeylerin sınırı yok!
 
-319
+304
 00:19:52,730 --> 00:20:00,050
 Ancak bu ikisinin öyküsü
 ne yazık ki mutlu sonla bitmiyor.
 
-320
+305
 00:20:00,050 --> 00:20:02,640
 Neden?!
 
-321
+306
 00:20:02,640 --> 00:20:05,190
 Bekle! Bekle, bekle, bekle, bekle!
 
-322
+307
 00:20:05,190 --> 00:20:07,650
 Bekle!
 
-323
+308
 00:20:13,210 --> 00:20:14,280
 Bu koku...
 
-324
+309
 00:20:14,280 --> 00:20:15,110
 Ha?
 
-325
+310
 00:20:15,640 --> 00:20:16,820
 Wapol!
 
-326
+311
 00:20:21,480 --> 00:20:24,380
 Hiriluk, yaşamak için
 on günü kaldığını öğrendiğinde,
 
-327
+312
 00:20:24,380 --> 00:20:27,620
 Chopper çok üzülmüştü.
 
-328
+313
 00:20:27,620 --> 00:20:30,280
 Ee, doğal olarak tabii.
 
-329
+314
 00:20:30,280 --> 00:20:34,440
 Ama kendince bir atılım yaptı...
 
-330
+315
 00:20:45,390 --> 00:20:48,020
 Ben... yakında öleceğim.
 
-331
+316
 00:20:49,340 --> 00:20:52,900
 Kiraz çiçeklerini...
 bu ülkenin her yerinde açtıracağım!
 
-332
+317
 00:20:56,010 --> 00:21:01,110
 Bu gördüğün, imkânsızı reddeden
 bir inancın sembolüdür!
 
-333
+318
 00:21:05,120 --> 00:21:08,860
 Ne oluyor? Son zamanlarda muhafız
 eksikliği dikkatimi çekiyor.
 
-334
+319
 00:21:08,860 --> 00:21:12,500
 Şey... Issie 20'nin isteği üzerine
 mantar toplamaya gittiler.
 
-335
+320
 00:21:12,500 --> 00:21:13,730
 Mantar mı?
 
-336
+321
 00:21:13,730 --> 00:21:19,370
 Dediklerine göre bazı mantarlar
 her şeyi tedavi edebiliyormuş.
 
-337
+322
 00:21:19,370 --> 00:21:20,720
 Mantar mı?
 
-338
+323
 00:21:20,720 --> 00:21:21,260
 Ah!
 
-339
+324
 00:21:21,260 --> 00:21:21,840
 Hm?
 
-340
+325
 00:21:22,340 --> 00:21:24,940
 Mankafa! Bizi görecekler!
 
-341
+326
 00:21:24,940 --> 00:21:27,580
 Doktor, dediklerine bakılırsa...
 
-342
+327
 00:21:46,870 --> 00:21:49,750
 Seni vurmayacağım!
 
-343
+328
 00:21:51,080 --> 00:21:53,500
 Ama bir daha buraya gelme!
 
-344
+329
 00:22:03,590 --> 00:22:06,470
 Sana çok kötü davrandım.
 
-345
+330
 00:22:06,470 --> 00:22:10,230
 Kiraz çiçeklerimi görene dek bekle.
 
-346
+331
 00:22:10,230 --> 00:22:13,580
 Bu benim son başyapıtım olacak.
 
-347
+332
 00:22:27,080 --> 00:22:28,790
 İşte yine başlıyoruz!
 
-348
+333
 00:22:47,700 --> 00:22:51,700
 Kahretsin! Çok zamanım kalmadı!
 
-349
+334
 00:23:12,910 --> 00:23:16,370
 Kuru kafa bayrağını çeken adam için
 hiçbir şey imkânsız değildir!
 
-350
+335
 00:23:16,370 --> 00:23:18,880
 Sana böyle demiştim, değil mi?
 
-351
+336
 00:23:23,270 --> 00:23:24,970
 Savaşacağım!
 
-352
+337
 00:23:24,970 --> 00:23:27,420
 Tıpkı korsanlar gibi!
 
-353
+338
 00:23:39,460 --> 00:23:42,230
 Onu buldum! Amiudake mantarı.
 
-354
+339
 00:23:42,230 --> 00:23:44,760
 Aynen o!
 
-355
+340
 00:23:44,760 --> 00:23:46,570
 Ama...
 
-356
+341
 00:23:48,370 --> 00:23:50,950
 Karşıya nasıl geçebilirim?
 
-357
+342
+00:24:02,340 --> 00:24:04,510
+Bir Hafta Sonra
+
+343
 00:24:11,320 --> 00:24:13,720
 Kahretsin!
 
-358
+344
 00:24:23,900 --> 00:24:25,130
 Doktor...
 
-359
+345
 00:24:25,900 --> 00:24:33,240
 Üzgünüm... değerli
 kitaplarından birini kaybettim.
 
-360
+346
 00:24:33,240 --> 00:24:36,260
 Ne... oldu sana?
 
-361
+347
 00:24:37,040 --> 00:24:38,670
 Mantar...
 
-362
+348
 00:24:41,150 --> 00:24:42,250
 İlaç...
 
-363
+349
 00:24:42,250 --> 00:24:44,630
 Bu bir amiudake!
 
-364
+350
 00:24:45,670 --> 00:24:49,160
 Bunu... benim için mi aldın?
 
-365
+351
 00:24:49,160 --> 00:24:52,830
 Lütfen yaşa... Lütfen yaşa, Doktor.
 
-366
+352
 00:24:52,830 --> 00:24:57,580
 Doktor olmak istiyorum.
 Lütfen, nasıl olunacağını bana öğret.
 
-367
+353
 00:24:58,540 --> 00:25:01,770
 Ben de savaşacağım, tıpkı korsanlar gibi!
 
-368
+354
 00:25:05,940 --> 00:25:08,070
 Bir ren geyiği de doktor olabilir mi?
 
-369
+355
 00:25:10,320 --> 00:25:14,660
 Olabilir! Olabilir! Olabilir!
 
-370
+356
 00:25:14,660 --> 00:25:17,020
 Harika bir doktor olabilirsin...
 
-371
+357
 00:25:17,020 --> 00:25:19,020
 Dok.. Nefes alamıyorum.
 
-372
+358
 00:25:19,860 --> 00:25:23,380
 çünkü çok zarif bir kalbin var.
 
-373
+359
 00:25:25,840 --> 00:25:28,240
 Seni mankafa!
 
-374
+360
 00:25:32,140 --> 00:25:34,800
 Chess! Kuromarimo!
 
-375
+361
 00:25:34,800 --> 00:25:37,520
 Doktor avı iyi gidiyor mu?!
 
-376
+362
+00:25:34,850 --> 00:25:37,520
+Wapol
+Drum Krallığı Hükümdarı
+
+363
 00:25:37,520 --> 00:25:38,770
 Evet, efendim!
 
-377
+364
+00:25:37,560 --> 00:25:42,230
+Chess
+Drum Krallığı Kurmay Başkanı
+
+365
+00:25:37,560 --> 00:25:42,230
+Kuromarimo
+Drum Krallığı Yargıcı
+
+366
 00:25:38,770 --> 00:25:41,140
 Çoğu doktor ülkeden sürüldü bile.
 
-378
+367
 00:25:41,140 --> 00:25:42,230
 Çoğu derken?
 
-379
+368
 00:25:42,230 --> 00:25:45,460
 Maalesef iki tanesi yakalanmadan kaçtı.
 
-380
-00:25:45,460 --> 00:25:47,860
-Şu Dr. Kureha ve..
-
-381
-00:25:47,860 --> 00:25:50,320
-sahte doktor, Hiriluk.
-
-382
-00:25:50,320 --> 00:25:52,280
-Ne dedin sen?!
-
-383
-00:25:53,950 --> 00:25:56,650
-Oh, evet!
-Aklıma harika bir plan geldi!
-
-384
-00:25:56,650 --> 00:25:56,910
-– Hm?
-– Hm?
-
-385
-00:25:56,910 --> 00:26:04,830
-Halka resmi bir duyuru gönderin.
-Issie 20’nin tamamı... hastalandı diye.
-
-386
-00:26:05,700 --> 00:26:08,390
-Amiudake çorbası nasıl?
-Güzel mi?
-
-387
-00:26:08,390 --> 00:26:10,740
-Ahh! Lanet şey, tadı berbat!
-
-388
-00:26:10,740 --> 00:26:11,240
-Ne?!
-
-389
-00:26:11,240 --> 00:26:14,410
-Hiçbir canlının midesi bunu kaldırmaz!
-
-390
-00:26:14,410 --> 00:26:15,710
-Olamaz...
-
-391
-00:26:15,710 --> 00:26:19,350
-Canını sıkma. İlaçların tadı
-güzel olmak zorunda değil.
-
-392
-00:26:19,350 --> 00:26:21,730
-Bu işe yaradığını gösterir.
-
-393
-00:26:21,730 --> 00:26:24,230
-Teşekkür ederim, Chopper.
-
-394
-00:26:27,430 --> 00:26:28,300
-Ha?!
-
-395
-00:26:28,300 --> 00:26:29,030
-N...?
-
-396
-00:26:32,570 --> 00:26:34,030
-Ha?
-
-397
-00:26:38,040 --> 00:26:39,140
-O nedir?
-
-398
-00:26:39,140 --> 00:26:40,540
-Yaptım...
-
-399
-00:26:40,540 --> 00:26:41,100
-Ne?
-
-400
-00:26:41,100 --> 00:26:43,580
-Sonunda başardım... İşte bu!
-
-401
-00:26:47,040 --> 00:26:52,300
-Bu reaksiyon...
-Otuz yıldır bunun için bekledim.
-
-402
-00:26:53,720 --> 00:26:57,970
-Başardım, Chopper! 
-Araştırmamı nihayet tamamladım!
-
-403
-00:26:57,970 --> 00:27:01,350
-Haksız değildim! Değildim! Değildim!
-
-404
-00:27:10,650 --> 00:27:16,110
-Artık bu kış adasında
-kiraz çiçeklerini açtırabilirim!
-
-405
-00:27:21,240 --> 00:27:24,550
-Dinle. Biraz işim var,
-sen burada kal ve dinlen.
-
-406
-00:27:24,550 --> 00:27:25,420
-Tamam.
-
-407
-00:27:25,420 --> 00:27:26,780
-Görüşürüz!
-
-408
-00:27:28,690 --> 00:27:30,880
-Doktor çok mutluydu...
-
-409
-00:27:30,880 --> 00:27:36,340
-Birinin... hastalığını tedavi edebildim!
-
-410
-00:27:36,840 --> 00:27:37,720
-Ha?
-
-411
-00:27:37,720 --> 00:27:40,390
-İyi bir doktor olacaksın.
-
-412
-00:27:40,390 --> 00:27:42,390
-Kanıtı karşında.
-
-413
-00:27:47,570 --> 00:27:51,650
-Tüm ülkenin delirmesine sebep
-olan haberi duydun mu?
-
-414
-00:27:51,650 --> 00:27:53,360
-Evet, duydum.
-
-415
-00:27:53,360 --> 00:27:57,880
-Issie 20'nin hastalanması, değil mi?
-Tam bir saçmalık!
-
-416
-00:27:57,880 --> 00:28:00,750
-Peki... seni buraya getiren nedir?
-
-417
-00:28:00,750 --> 00:28:03,830
-Senden bir iyilik istemeye geldim.
-
-418
-00:28:02,240 --> 00:28:03,830
-Zahmet etme, reddediyorum.
-
-419
-00:28:03,830 --> 00:28:05,790
-Daha hiçbir şey istemedim ki!
-
-420
-00:28:05,790 --> 00:28:08,980
-Bu toz da ne?
-
-421
-00:28:08,980 --> 00:28:10,690
-Bu otuz yılın meyvesi.
-
-422
-00:28:10,690 --> 00:28:13,450
-Nihayet tamamladığım buluşum!
-
-423
-00:28:13,450 --> 00:28:16,470
-Bu ülkenin hasta kalbini
-iyileştirecek mucizevi bir ilaç.
-
-424
-00:28:16,470 --> 00:28:20,600
-Boşa harcanmış 30 yıl.
-Eh, aferin sana.
-
-425
-00:28:20,600 --> 00:28:22,930
-Ee, bana neden gösteriyorsun ki?
-
-426
-00:28:22,930 --> 00:28:25,840
-Yeterince toz yok, zamanım da tükeniyor.
-
-427
-00:28:25,840 --> 00:28:28,440
-Kiraz çiçeklerini
-senin açtırmanı istiyorum.
-
-428
-00:28:28,440 --> 00:28:30,680
-Saçmalama! Neden senin için–
-
-429
-00:28:29,600 --> 00:28:30,690
-Bir şey daha!
-
-430
-00:28:30,690 --> 00:28:32,900
-Lütfen, Chopper'a tıp dersleri ver.
-
-431
-00:28:32,900 --> 00:28:35,360
-Doktor olmak istiyor.
-
-432
-00:28:35,360 --> 00:28:36,600
-Bu kadarı yeter!
-
-433
-00:28:36,600 --> 00:28:39,070
-O bir ren geyiği ve bir canavar...
-
-434
-00:28:39,070 --> 00:28:41,070
-ama eminim çok iyi bir doktor olacak!
-
-435
-00:28:36,950 --> 00:28:38,340
-Ben neden...?
-
-436
-00:28:41,070 --> 00:28:43,360
-O, zarif kalpli iyi bir çocuk.
-
-437
-00:28:43,360 --> 00:28:46,290
-Bana bir ilaç hazırlamak için
-hayatını riske attı!
-
-438
-00:28:46,290 --> 00:28:49,620
-Lütfen! Onun doktor olmasına yardım et!
-
-439
-00:28:49,620 --> 00:28:51,630
-Cesarete bak!
-
-440
-00:28:52,400 --> 00:28:56,290
-Salak araştırmanı ve tuhaf evcil
-hayvanını bana mı iteleyeceksin?!
-
-441
-00:28:56,290 --> 00:28:58,470
-Bilmelisin ki, biri ölüyor diye...
-
-442
-00:28:58,470 --> 00:29:01,550
-ona sempati duyacak değilim!
-
-443
-00:29:01,550 --> 00:29:03,720
-Defol git!
-
-444
-00:29:07,270 --> 00:29:12,280
-Evet... biliyorum...
-uzun zamandır birbirimizi tanıyoruz.
-
-445
-00:29:14,870 --> 00:29:16,150
-Sana güveniyorum.
-
-446
-00:29:16,150 --> 00:29:20,910
-Bu sen değilsin, Hiriluk...
-şimdiden havlu atmalar falan.
-
-447
-00:29:20,910 --> 00:29:23,370
-Zamanım daralıyor.
-
-448
-00:29:23,370 --> 00:29:24,910
-Aptal! Sakın!
-
-449
-00:29:24,910 --> 00:29:26,420
-Ne demek istiyorsun?!
-
-450
-00:29:26,420 --> 00:29:28,150
-Issie 20 hastalandı!
-
-451
-00:29:28,150 --> 00:29:29,660
-Şimdi bizi kim tedavi edecek?!
-
-452
-00:29:29,660 --> 00:29:31,750
-En azından ilaçlara erişim izni verin!
-
-453
-00:29:31,750 --> 00:29:33,130
-Yapacak bir şey yok!
-
-454
-00:29:33,130 --> 00:29:35,350
-Doktorlar bile hastalandı!
-
-455
-00:29:33,560 --> 00:29:34,900
-Çekilin!
-
-456
-00:29:34,900 --> 00:29:36,710
-Ahh! Hiriluk?!
-
-457
-00:29:35,350 --> 00:29:36,710
-Çekilin! Çekilin!
-
-458
-00:29:39,170 --> 00:29:41,380
-Şu şerefsiz, tam bir deli!
-
-459
-00:29:41,380 --> 00:29:43,540
-Halatları hazırlayın.
-
-460
-00:29:43,540 --> 00:29:45,680
-Beni kaleye götürün.
-
-461
-00:29:46,640 --> 00:29:48,610
-Hiriluk nerede?!
-
-462
-00:29:48,610 --> 00:29:52,190
-Kaçmana gerek yok! Seni tanıyorum!
-
-463
-00:29:52,190 --> 00:29:55,150
-Sana sordum,
-o sahte doktor nereye gitti?!
-
-464
-00:29:55,150 --> 00:29:59,110
-Doktor daha iyi hissedince
-şehre gitti...
-
-465
-00:29:59,610 --> 00:30:02,460
-Daha iyi mi?
-Onun için kurtuluş yok artık.
-
-466
-00:30:02,460 --> 00:30:04,720
-Modern tıp, onu kurtaramaz.
-
-467
-00:30:04,720 --> 00:30:06,580
-Bu doğru değil! Bak!
-
-468
-00:30:07,590 --> 00:30:09,790
-Artık daha iyi çünkü bundan yedi!
-
-469
-00:30:09,790 --> 00:30:12,500
-Bu... bir amiudake!
-
-470
-00:30:12,500 --> 00:30:15,900
-Bu her şeyi tedavi eden ilaç!
-Yani artık çok iyi!
-
-471
-00:30:15,900 --> 00:30:17,960
-Doktor da daha iyi olduğunu söyledi!
-
-472
-00:30:17,960 --> 00:30:20,700
-Bana nasıl doktor olunacağını öğr–
-
-473
-00:30:28,680 --> 00:30:30,390
-Bu ne içindi?!
-
-474
-00:30:31,390 --> 00:30:34,060
-Seni salak ren geyiği!
-
-475
-00:30:34,060 --> 00:30:36,810
-O mantar...
-
-476
-00:30:36,810 --> 00:30:39,000
-O mantar...
-
-477
-00:30:43,620 --> 00:30:44,990
-çok zehirli!
-
-478
-00:30:45,790 --> 00:30:49,260
-Bir ısırık dâhi alırsan,
-yarım güne kalmaz meftasın!
-
-479
-00:30:49,260 --> 00:30:49,950
-Ne?
-
-480
-00:30:52,560 --> 00:30:55,320
-Bu yüzden o ahmak...
-
-481
-00:30:56,270 --> 00:31:01,040
-Bu doğru olamaz.
-Bir kitabı inceliyordum...
-
-482
-00:31:01,040 --> 00:31:03,240
-Gerçi o kitabı kaybettim.
-
-483
-00:31:03,240 --> 00:31:04,930
-O mantar hastalıkları yenebilir!
-
-484
-00:31:05,970 --> 00:31:09,550
-Bu yüzden tüm hastalıklara karşı
-kuru kafalı bir bayrak çekiyorum!
-
-485
-00:31:09,550 --> 00:31:14,390
-Doğru! Amiudake resminin yanında
-bir kuru kafa vardı!
-
-486
-00:31:14,390 --> 00:31:17,400
-Doktor ayrıca daha iyi
-hissettiğini söyledi.
-
-487
-00:31:17,400 --> 00:31:20,730
-Ölecek olmasının imkânı yok! Yalancı!
-
-488
-00:31:21,530 --> 00:31:24,150
-Daha hızlı çevirin! Acele edin!
-
-489
-00:31:24,700 --> 00:31:27,200
-Bir saniye bile
-kaybetme lüksümüz yok!
-
-490
-00:31:27,200 --> 00:31:30,500
-Yaptıkların onu derinden etkiledi.
-
-491
-00:31:30,500 --> 00:31:33,100
-Ama kitaptaki kuru kafa
-zehirli anlamına geliyor.
-
-492
-00:31:33,100 --> 00:31:33,670
-Yalan!
-
-493
-00:31:33,670 --> 00:31:36,370
-Yalan değil! Şunu asla unutma:
-
-494
-00:31:36,370 --> 00:31:39,780
-Bu dünyada mutlak tedavi
-sağlayan hiçbir ilaç yoktur!
-
-495
-00:31:39,780 --> 00:31:41,780
-Bu yüzden doktorlar var zaten!
-
-496
-00:31:41,780 --> 00:31:42,710
-Doğru değil!
-
-497
-00:31:42,710 --> 00:31:46,260
-Dinle. Sadece nazik davranarak
-insanları iyileştiremezsin!
-
-498
-00:31:46,260 --> 00:31:50,010
-Onları kurtarmak istiyorsan,
-tıbbi bilgi ve beceriler edinmelisin!
-
-499
-00:31:50,790 --> 00:31:53,470
-Bilgi ve beceri olmadan
-kimseyi kurtaramazsın!
-
-500
-00:32:03,640 --> 00:32:04,860
-Seni ahmak!
-
-501
-00:32:16,250 --> 00:32:18,950
-Wapol-sama!
-Hiriluk kaleye doğru geliyor!
-
-502
-00:32:18,950 --> 00:32:21,190
-Yani yemi yuttu!
-
-503
-00:32:21,190 --> 00:32:23,130
-Tam bi' su aygırı!
-
-504
-00:32:23,130 --> 00:32:27,090
-Cidden mi? Neden? Ne için?
-
-505
-00:32:28,430 --> 00:32:30,760
-Artık bu eve dönmeyecek.
-
-506
-00:32:31,860 --> 00:32:34,470
-Kaleyi mezarı yapacak.
-
-507
-00:32:36,330 --> 00:32:40,480
-Beni hastalara götür!
-Issie 20'yi iyileştirmeye geldim!
-
-508
-00:32:43,640 --> 00:32:44,500
-Ne?
-
-509
-00:32:45,980 --> 00:32:49,350
-Aptal su aygırı! Hâlâ anlamadın mı?!
-
-510
-00:32:49,350 --> 00:32:54,030
-Bu bir tuzaktı! Gördüğün üzere,
-Issie 20 çok iyi durumda!
-
-511
-00:32:56,450 --> 00:33:00,540
-Buradaki tek vazifen, ölmek, Dr. Hiriluk.
-
-512
-00:33:01,330 --> 00:33:03,170
-Neden buraya geldin?
-
-513
-00:33:06,340 --> 00:33:07,970
-Muhafızlar, hazır...
-
-514
-00:33:13,140 --> 00:33:14,060
-Bu muydu?
-
-515
-00:33:16,040 --> 00:33:19,850
-Güzel... Demek hiçbiri hasta değil?
-
-516
-00:33:22,180 --> 00:33:26,220
-Bunun ulusal bir kriz
-olduğuna ikna olmuştum.
-
-517
-00:33:26,220 --> 00:33:29,530
-Altı üstü bi' tuzakmış...
-
-518
-00:33:30,660 --> 00:33:35,360
-Heh! Gerçekten bir kriz olsaydı,
-senin gibi birini asla istemezdim!
-
-519
-00:33:35,360 --> 00:33:37,500
-Lafı fazla uzattım, infaza başlayın!
-
-520
-00:33:37,500 --> 00:33:42,580
-Zahmet etme. Beni öldüremezsin.
-
-521
-00:33:42,580 --> 00:33:43,420
-Ha?
-
-522
-00:33:44,200 --> 00:33:48,420
-Hey... Sence biri gerçekten ne zaman ölür?
-
-523
-00:33:51,680 --> 00:33:54,750
-Kalbine bir mermi yediği zaman mı?
-
-524
-00:33:54,750 --> 00:33:56,300
-Hayır.
-
-525
-00:33:56,300 --> 00:33:58,850
-Ölümcül bir hastalığa
-yakalandığında mı?
-
-526
-00:33:58,850 --> 00:34:00,850
-Hayır.
-
-527
-00:34:00,850 --> 00:34:03,060
-Zehirli bir mantar çorbası içtiğinde mi?
-
-528
-00:34:03,060 --> 00:34:04,900
-Hayır!
-
-529
-00:34:06,720 --> 00:34:10,280
-Biri ancak...
-unutulduğunda ölür.
-
-530
-00:34:12,200 --> 00:34:15,930
-Ben yok olsam bile,
-hayalim yaşayacak.
-
-531
-00:34:15,930 --> 00:34:19,410
-İnsanların hastalıklı kalpleri iyileşecek.
-
-532
-00:34:20,410 --> 00:34:23,620
-Neden ağlıyorsun, Dalton-kun.
-
-533
-00:34:25,210 --> 00:34:28,130
-Merak ediyorum…
-Acaba bu ülke de iyileşecek mi?
-
-534
-00:34:29,410 --> 00:34:32,090
-Elbette, eğer bu yükü
-omuzlayacak biri olursa.
-
-535
-00:34:32,090 --> 00:34:35,300
-Hey, hey Dalton!
-Ne için ağlıyorsun?
-
-536
-00:34:38,860 --> 00:34:45,370
-Yakında bir canavar gelecek.
-O benim oğlum. Ona zarar vermeyin.
-
-537
-00:34:47,900 --> 00:34:55,030
-Merak etme, Chopper.
-Mantarın beni öldüremez.
-
-538
-00:34:56,160 --> 00:34:59,330
-Ne muhteşem bir hayattı!
-
-539
-00:35:00,750 --> 00:35:02,330
-Hoşça kal, sahte doktor...
-
-540
-00:35:04,080 --> 00:35:07,340
-Teşekkürler, Chopper!
-
-541
-00:35:28,800 --> 00:35:34,990
-Kendini havaya uçurdu! Gerzek su aygırı!
-
-542
-00:35:41,180 --> 00:35:41,700
-Ahh!
-
-543
-00:35:41,700 --> 00:35:42,660
-O ne?!
-
-544
-00:35:42,660 --> 00:35:43,660
-Canavar!
-
-545
-00:35:43,660 --> 00:35:44,600
-Ateş edin!
-
-546
-00:35:44,600 --> 00:35:46,080
-Ahh!
-
-547
-00:35:46,080 --> 00:35:48,690
-Bekle!
-
-548
-00:35:51,990 --> 00:35:55,860
-Git. Git buradan!
-
-549
-00:35:55,860 --> 00:35:58,560
-Onları nasıl yenebilirsin...?
-
-550
-00:35:58,560 --> 00:36:01,560
-Daha beni bile yenemiyorsun!
-
-551
-00:36:02,430 --> 00:36:05,770
-Hiriluk'un ölümüne gülen
-herkesin adına özür dilerim.
-
-552
-00:36:08,600 --> 00:36:11,730
-Bu hâlde onlarla savaşmaya
-kalkarsan, ölümün boşuna olur.
-
-553
-00:36:13,570 --> 00:36:19,140
-Bu ülke bugün için
-yeterince fedakârlık gördü.
-
-554
-00:36:20,110 --> 00:36:21,580
-Lütfen...
-
-555
-00:36:21,580 --> 00:36:22,740
-Ha?
-
-556
-00:36:27,450 --> 00:36:28,750
-Onu kaçırdın, Dalton.
-
-557
-00:36:28,750 --> 00:36:31,850
-Kapa' çeneni!
-Hâlâ anlamıyorsun değil mi?
-
-558
-00:36:31,850 --> 00:36:36,460
-Bu hasta ülkeyi kurtarmayı
-deneyen tek kişi öldü.
-
-559
-00:36:36,460 --> 00:36:38,460
-Herkes umudunu yitirip vazgeçmişken...
-
-560
-00:36:38,460 --> 00:36:41,200
-nazik bir doktor
-ülkeyi kurtarmaya çalışırken öldü!
-
-561
-00:36:41,200 --> 00:36:44,270
-Onun gibi birinin
-ölmesinde ne var yani?
-
-562
-00:36:44,270 --> 00:36:48,270
-Krallığın gidişatını gördüm,
-yok olması daha hayırlı.
-
-563
-00:36:48,270 --> 00:36:51,770
-Biz yönetirken, asla onarılamaz.
-
-564
-00:36:51,770 --> 00:36:53,510
-Tıp gelişse...
-
-565
-00:36:53,510 --> 00:36:55,650
-ve araştırmalar sürse de...
-
-566
-00:36:57,050 --> 00:36:59,740
-hiçbir bir ilaç,
-aptallığı tedavi edemez!
-
-567
-00:37:00,750 --> 00:37:07,370
-Fikrini söylemene izin verdim...
-ve bu beni inanılmaz sinirlendirdi!
-
-568
-00:37:10,190 --> 00:37:14,170
-Lütfen... lütfen bana
-doktor olmayı öğret!
-
-569
-00:37:14,170 --> 00:37:19,870
-Lütfen, bana doktor olmayı öğret!
-Tüm hastalıklara çare olacağım!
-
-570
-00:37:19,870 --> 00:37:24,870
-Her şeyi tedavi eden bir doktor
-olacağım, hatta bir ülkeyi bile!
-
-571
-00:37:24,870 --> 00:37:26,680
-Çünkü... Çünkü...
-
-572
-00:37:26,680 --> 00:37:31,150
-Tedavi edilemeyen hiçbir hastalık yoktur!
-
-573
-00:37:37,720 --> 00:37:41,840
-Bana... Doktorine diyebilirsin.
-
-574
-00:37:45,930 --> 00:37:49,830
-Burada... ölmeyeceğim.
-
-575
-00:37:49,830 --> 00:37:53,000
-O yükü ben omuzlayacağım.
-
-576
-00:37:56,840 --> 00:38:02,110
-Yani 6 yıldır, Tony-kun senin 
-denetiminde eğitim görüyor.
-
-577
-00:38:02,110 --> 00:38:08,250
-Evet... ona bildiğim her şeyi öğrettim.
-
-578
-00:38:08,250 --> 00:38:09,890
-Doktorine! Doktorine!
-
-579
-00:38:11,630 --> 00:38:13,350
-Doktorine! Bir sorun var!
-
-580
-00:38:13,980 --> 00:38:15,650
-Wapol geri döndü!
-
-581
-00:38:18,090 --> 00:38:19,360
-Demek öyle...
-
-582
-00:38:19,360 --> 00:38:21,110
-Ah! O şerefsiz!
-
-583
-00:38:22,660 --> 00:38:24,990
-O geveze!
-
-584
-00:38:28,970 --> 00:38:31,540
-Bakın! Her şey tam da bıraktığım gibi!
-
-585
-00:38:31,540 --> 00:38:34,560
-Hadi kaleme geri dönelim ve 
-Drum Krallığı'nı yeniden kuralım.
-
-586
-00:38:37,410 --> 00:38:40,550
-Bir dakika, Wapol-sama!
-Kalenin tepesinde...
-
-587
-00:38:40,550 --> 00:38:41,260
-Ha?
-
-588
-00:38:46,350 --> 00:38:48,890
-O tuhaf bayrak da ne?
-
-589
-00:38:48,890 --> 00:38:51,310
-Drum'ın soylu bayrağına ne oldu?!
-
-590
-00:38:55,130 --> 00:38:57,400
-Onu küle çevirdim.
-
-591
-00:38:57,950 --> 00:39:02,140
-Sonunda ortaya çıktın, Dr. Kureha,
-doktor avının son kurtulanı!
-
-592
-00:39:02,140 --> 00:39:04,710
-Kale artık senin değil.
-
-593
-00:39:04,710 --> 00:39:08,620
-Senin gibi çürümüş farelere uygun değil!
-
-594
-00:39:08,620 --> 00:39:13,330
-Bu ülkeyi derhal terket.
-Drum Krallığı çoktan öldü.
-
-595
-00:39:14,180 --> 00:39:16,040
-Ne dedin sen?
-
-596
-00:39:17,710 --> 00:39:18,670
-Durun!
-
-597
-00:39:20,710 --> 00:39:23,880
-Ona şimdi güzel bi' dayak atacağım!
-
-598
-00:04:35,760 --> 00:04:40,220
-Dr. Hiriluk, Sahte Doktor
-
-599
-00:04:35,760 --> 00:04:40,220
-Dr. Hiriluk, Sahte Doktor
-
-600
-00:04:35,760 --> 00:04:40,220
-Dr. Hiriluk, Sahte Doktor
-
-601
-00:05:51,460 --> 00:05:55,840
-Dr. Kureha (133 Yaşında)
-
-602
-00:05:51,460 --> 00:05:55,840
-Dr. Kureha (133 Yaşında)
-
-603
-00:05:51,460 --> 00:05:55,840
-Dr. Kureha (133 Yaşında)
-
-604
-00:16:13,740 --> 00:16:17,660
-Bir Yıl Sonra
-
-605
-00:16:13,740 --> 00:16:17,660
-Bir Yıl Sonra
-
-606
-00:24:02,340 --> 00:24:04,510
-Bir Hafta Sonra
-
-607
-00:24:02,340 --> 00:24:04,510
-Bir Hafta Sonra
-
-608
-00:25:34,850 --> 00:25:37,520
-Wapol
-Drum Krallığı Hükümdarı
-
-609
-00:25:34,850 --> 00:25:37,520
-Wapol
-Drum Krallığı Hükümdarı
-
-610
-00:25:37,560 --> 00:25:42,230
-Chess
-Drum Krallığı Kurmay Başkanı
-
-611
-00:25:37,560 --> 00:25:42,230
-Chess
-Drum Krallığı Kurmay Başkanı
-
-612
-00:25:37,560 --> 00:25:42,230
-Chess
-Drum Krallığı Kurmay Başkanı
-
-613
-00:25:37,560 --> 00:25:42,230
-Kuromarimo
-Drum Krallığı Yargıcı
-
-614
-00:25:37,560 --> 00:25:42,230
-Kuromarimo
-Drum Krallığı Yargıcı
-
-615
-00:25:37,560 --> 00:25:42,230
-Kuromarimo
-Drum Krallığı Yargıcı
-
-616
+369
 00:25:42,270 --> 00:25:45,460
 Dalton
 Drum Krallığı Milis Kuvvetleri Komutanı
 
-617
+370
+00:25:45,460 --> 00:25:47,860
+Şu Dr. Kureha ve..
+
+371
+00:25:47,860 --> 00:25:50,320
+sahte doktor, Hiriluk.
+
+372
+00:25:50,320 --> 00:25:52,280
+Ne dedin sen?!
+
+373
+00:25:53,950 --> 00:25:56,650
+Oh, evet!
+Aklıma harika bir plan geldi!
+
+374
+00:25:56,650 --> 00:25:56,910
+– Hm?
+– Hm?
+
+375
+00:25:56,910 --> 00:26:04,830
+Halka resmi bir duyuru gönderin.
+Issie 20’nin tamamı... hastalandı diye.
+
+376
+00:26:05,700 --> 00:26:08,390
+Amiudake çorbası nasıl?
+Güzel mi?
+
+377
+00:26:08,390 --> 00:26:10,740
+Ahh! Lanet şey, tadı berbat!
+
+378
+00:26:10,740 --> 00:26:11,240
+Ne?!
+
+379
+00:26:11,240 --> 00:26:14,410
+Hiçbir canlının midesi bunu kaldırmaz!
+
+380
+00:26:14,410 --> 00:26:15,710
+Olamaz...
+
+381
+00:26:15,710 --> 00:26:19,350
+Canını sıkma. İlaçların tadı
+güzel olmak zorunda değil.
+
+382
+00:26:19,350 --> 00:26:21,730
+Bu işe yaradığını gösterir.
+
+383
+00:26:21,730 --> 00:26:24,230
+Teşekkür ederim, Chopper.
+
+384
+00:26:27,430 --> 00:26:28,300
+Ha?!
+
+385
+00:26:28,300 --> 00:26:29,030
+N...?
+
+386
+00:26:32,570 --> 00:26:34,030
+Ha?
+
+387
+00:26:38,040 --> 00:26:39,140
+O nedir?
+
+388
+00:26:39,140 --> 00:26:40,540
+Yaptım...
+
+389
+00:26:40,540 --> 00:26:41,100
+Ne?
+
+390
+00:26:41,100 --> 00:26:43,580
+Sonunda başardım... İşte bu!
+
+391
+00:26:47,040 --> 00:26:52,300
+Bu reaksiyon...
+Otuz yıldır bunun için bekledim.
+
+392
+00:26:53,720 --> 00:26:57,970
+Başardım, Chopper! 
+Araştırmamı nihayet tamamladım!
+
+393
+00:26:57,970 --> 00:27:01,350
+Haksız değildim! Değildim! Değildim!
+
+394
+00:27:10,650 --> 00:27:16,110
+Artık bu kış adasında
+kiraz çiçeklerini açtırabilirim!
+
+395
+00:27:21,240 --> 00:27:24,550
+Dinle. Biraz işim var,
+sen burada kal ve dinlen.
+
+396
+00:27:24,550 --> 00:27:25,420
+Tamam.
+
+397
+00:27:25,420 --> 00:27:26,780
+Görüşürüz!
+
+398
+00:27:28,690 --> 00:27:30,880
+Doktor çok mutluydu...
+
+399
+00:27:30,880 --> 00:27:36,340
+Birinin... hastalığını tedavi edebildim!
+
+400
+00:27:36,840 --> 00:27:37,720
+Ha?
+
+401
+00:27:37,720 --> 00:27:40,390
+İyi bir doktor olacaksın.
+
+402
+00:27:40,390 --> 00:27:42,390
+Kanıtı karşında.
+
+403
+00:27:47,570 --> 00:27:51,650
+Tüm ülkenin delirmesine sebep
+olan haberi duydun mu?
+
+404
+00:27:51,650 --> 00:27:53,360
+Evet, duydum.
+
+405
+00:27:53,360 --> 00:27:57,880
+Issie 20'nin hastalanması, değil mi?
+Tam bir saçmalık!
+
+406
+00:27:57,880 --> 00:28:00,750
+Peki... seni buraya getiren nedir?
+
+407
+00:28:00,750 --> 00:28:03,830
+Senden bir iyilik istemeye geldim.
+
+408
+00:28:02,240 --> 00:28:03,830
+Zahmet etme, reddediyorum.
+
+409
+00:28:03,830 --> 00:28:05,790
+Daha hiçbir şey istemedim ki!
+
+410
+00:28:05,790 --> 00:28:08,980
+Bu toz da ne?
+
+411
+00:28:08,980 --> 00:28:10,690
+Bu otuz yılın meyvesi.
+
+412
+00:28:10,690 --> 00:28:13,450
+Nihayet tamamladığım buluşum!
+
+413
+00:28:13,450 --> 00:28:16,470
+Bu ülkenin hasta kalbini
+iyileştirecek mucizevi bir ilaç.
+
+414
+00:28:16,470 --> 00:28:20,600
+Boşa harcanmış 30 yıl.
+Eh, aferin sana.
+
+415
+00:28:20,600 --> 00:28:22,930
+Ee, bana neden gösteriyorsun ki?
+
+416
+00:28:22,930 --> 00:28:25,840
+Yeterince toz yok, zamanım da tükeniyor.
+
+417
+00:28:25,840 --> 00:28:28,440
+Kiraz çiçeklerini
+senin açtırmanı istiyorum.
+
+418
+00:28:28,440 --> 00:28:30,680
+Saçmalama! Neden senin için–
+
+419
+00:28:29,600 --> 00:28:30,690
+Bir şey daha!
+
+420
+00:28:30,690 --> 00:28:32,900
+Lütfen, Chopper'a tıp dersleri ver.
+
+421
+00:28:32,900 --> 00:28:35,360
+Doktor olmak istiyor.
+
+422
+00:28:35,360 --> 00:28:36,600
+Bu kadarı yeter!
+
+423
+00:28:36,600 --> 00:28:39,070
+O bir ren geyiği ve bir canavar...
+
+424
+00:28:36,950 --> 00:28:38,340
+Ben neden...?
+
+425
+00:28:39,070 --> 00:28:41,070
+ama eminim çok iyi bir doktor olacak!
+
+426
+00:28:41,070 --> 00:28:43,360
+O, zarif kalpli iyi bir çocuk.
+
+427
+00:28:43,360 --> 00:28:46,290
+Bana bir ilaç hazırlamak için
+hayatını riske attı!
+
+428
+00:28:46,290 --> 00:28:49,620
+Lütfen! Onun doktor olmasına yardım et!
+
+429
+00:28:49,620 --> 00:28:51,630
+Cesarete bak!
+
+430
+00:28:52,400 --> 00:28:56,290
+Salak araştırmanı ve tuhaf evcil
+hayvanını bana mı iteleyeceksin?!
+
+431
+00:28:56,290 --> 00:28:58,470
+Bilmelisin ki, biri ölüyor diye...
+
+432
+00:28:58,470 --> 00:29:01,550
+ona sempati duyacak değilim!
+
+433
+00:29:01,550 --> 00:29:03,720
+Defol git!
+
+434
+00:29:07,270 --> 00:29:12,280
+Evet... biliyorum...
+uzun zamandır birbirimizi tanıyoruz.
+
+435
+00:29:14,870 --> 00:29:16,150
+Sana güveniyorum.
+
+436
+00:29:16,150 --> 00:29:20,910
+Bu sen değilsin, Hiriluk...
+şimdiden havlu atmalar falan.
+
+437
+00:29:20,910 --> 00:29:23,370
+Zamanım daralıyor.
+
+438
+00:29:23,370 --> 00:29:24,910
+Aptal! Sakın!
+
+439
+00:29:24,910 --> 00:29:26,420
+Ne demek istiyorsun?!
+
+440
+00:29:26,420 --> 00:29:28,150
+Issie 20 hastalandı!
+
+441
+00:29:28,150 --> 00:29:29,660
+Şimdi bizi kim tedavi edecek?!
+
+442
+00:29:29,660 --> 00:29:31,750
+En azından ilaçlara erişim izni verin!
+
+443
+00:29:31,750 --> 00:29:33,130
+Yapacak bir şey yok!
+
+444
 00:29:31,790 --> 00:29:35,340
 4. Teleferik İstasyonu
 
-618
-00:29:31,790 --> 00:29:35,340
-4. Teleferik İstasyonu
+445
+00:29:33,130 --> 00:29:35,350
+Doktorlar bile hastalandı!
+
+446
+00:29:33,560 --> 00:29:34,900
+Çekilin!
+
+447
+00:29:34,900 --> 00:29:36,710
+Ahh! Hiriluk?!
+
+448
+00:29:35,350 --> 00:29:36,710
+Çekilin! Çekilin!
+
+449
+00:29:39,170 --> 00:29:41,380
+Şu şerefsiz, tam bir deli!
+
+450
+00:29:41,380 --> 00:29:43,540
+Halatları hazırlayın.
+
+451
+00:29:43,540 --> 00:29:45,680
+Beni kaleye götürün.
+
+452
+00:29:46,640 --> 00:29:48,610
+Hiriluk nerede?!
+
+453
+00:29:48,610 --> 00:29:52,190
+Kaçmana gerek yok! Seni tanıyorum!
+
+454
+00:29:52,190 --> 00:29:55,150
+Sana sordum,
+o sahte doktor nereye gitti?!
+
+455
+00:29:55,150 --> 00:29:59,110
+Doktor daha iyi hissedince
+şehre gitti...
+
+456
+00:29:59,610 --> 00:30:02,460
+Daha iyi mi?
+Onun için kurtuluş yok artık.
+
+457
+00:30:02,460 --> 00:30:04,720
+Modern tıp, onu kurtaramaz.
+
+458
+00:30:04,720 --> 00:30:06,580
+Bu doğru değil! Bak!
+
+459
+00:30:07,590 --> 00:30:09,790
+Artık daha iyi çünkü bundan yedi!
+
+460
+00:30:09,790 --> 00:30:12,500
+Bu... bir amiudake!
+
+461
+00:30:12,500 --> 00:30:15,900
+Bu her şeyi tedavi eden ilaç!
+Yani artık çok iyi!
+
+462
+00:30:15,900 --> 00:30:17,960
+Doktor da daha iyi olduğunu söyledi!
+
+463
+00:30:17,960 --> 00:30:20,700
+Bana nasıl doktor olunacağını öğr–
+
+464
+00:30:28,680 --> 00:30:30,390
+Bu ne içindi?!
+
+465
+00:30:31,390 --> 00:30:34,060
+Seni salak ren geyiği!
+
+466
+00:30:34,060 --> 00:30:36,810
+O mantar...
+
+467
+00:30:36,810 --> 00:30:39,000
+O mantar...
+
+468
+00:30:43,620 --> 00:30:44,990
+çok zehirli!
+
+469
+00:30:45,790 --> 00:30:49,260
+Bir ısırık dâhi alırsan,
+yarım güne kalmaz meftasın!
+
+470
+00:30:49,260 --> 00:30:49,950
+Ne?
+
+471
+00:30:52,560 --> 00:30:55,320
+Bu yüzden o ahmak...
+
+472
+00:30:56,270 --> 00:31:01,040
+Bu doğru olamaz.
+Bir kitabı inceliyordum...
+
+473
+00:31:01,040 --> 00:31:03,240
+Gerçi o kitabı kaybettim.
+
+474
+00:31:03,240 --> 00:31:04,930
+O mantar hastalıkları yenebilir!
+
+475
+00:31:05,970 --> 00:31:09,550
+Bu yüzden tüm hastalıklara karşı
+kuru kafalı bir bayrak çekiyorum!
+
+476
+00:31:09,550 --> 00:31:14,390
+Doğru! Amiudake resminin yanında
+bir kuru kafa vardı!
+
+477
+00:31:14,390 --> 00:31:17,400
+Doktor ayrıca daha iyi
+hissettiğini söyledi.
+
+478
+00:31:17,400 --> 00:31:20,730
+Ölecek olmasının imkânı yok! Yalancı!
+
+479
+00:31:21,530 --> 00:31:24,150
+Daha hızlı çevirin! Acele edin!
+
+480
+00:31:24,700 --> 00:31:27,200
+Bir saniye bile
+kaybetme lüksümüz yok!
+
+481
+00:31:27,200 --> 00:31:30,500
+Yaptıkların onu derinden etkiledi.
+
+482
+00:31:30,500 --> 00:31:33,100
+Ama kitaptaki kuru kafa
+zehirli anlamına geliyor.
+
+483
+00:31:33,100 --> 00:31:33,670
+Yalan!
+
+484
+00:31:33,670 --> 00:31:36,370
+Yalan değil! Şunu asla unutma:
+
+485
+00:31:36,370 --> 00:31:39,780
+Bu dünyada mutlak tedavi
+sağlayan hiçbir ilaç yoktur!
+
+486
+00:31:39,780 --> 00:31:41,780
+Bu yüzden doktorlar var zaten!
+
+487
+00:31:41,780 --> 00:31:42,710
+Doğru değil!
+
+488
+00:31:42,710 --> 00:31:46,260
+Dinle. Sadece nazik davranarak
+insanları iyileştiremezsin!
+
+489
+00:31:46,260 --> 00:31:50,010
+Onları kurtarmak istiyorsan,
+tıbbi bilgi ve beceriler edinmelisin!
+
+490
+00:31:50,790 --> 00:31:53,470
+Bilgi ve beceri olmadan
+kimseyi kurtaramazsın!
+
+491
+00:32:03,640 --> 00:32:04,860
+Seni ahmak!
+
+492
+00:32:16,250 --> 00:32:18,950
+Wapol-sama!
+Hiriluk kaleye doğru geliyor!
+
+493
+00:32:18,950 --> 00:32:21,190
+Yani yemi yuttu!
+
+494
+00:32:21,190 --> 00:32:23,130
+Tam bi' su aygırı!
+
+495
+00:32:23,130 --> 00:32:27,090
+Cidden mi? Neden? Ne için?
+
+496
+00:32:28,430 --> 00:32:30,760
+Artık bu eve dönmeyecek.
+
+497
+00:32:31,860 --> 00:32:34,470
+Kaleyi mezarı yapacak.
+
+498
+00:32:36,330 --> 00:32:40,480
+Beni hastalara götür!
+Issie 20'yi iyileştirmeye geldim!
+
+499
+00:32:43,640 --> 00:32:44,500
+Ne?
+
+500
+00:32:45,980 --> 00:32:49,350
+Aptal su aygırı! Hâlâ anlamadın mı?!
+
+501
+00:32:49,350 --> 00:32:54,030
+Bu bir tuzaktı! Gördüğün üzere,
+Issie 20 çok iyi durumda!
+
+502
+00:32:56,450 --> 00:33:00,540
+Buradaki tek vazifen, ölmek, Dr. Hiriluk.
+
+503
+00:33:01,330 --> 00:33:03,170
+Neden buraya geldin?
+
+504
+00:33:06,340 --> 00:33:07,970
+Muhafızlar, hazır...
+
+505
+00:33:13,140 --> 00:33:14,060
+Bu muydu?
+
+506
+00:33:16,040 --> 00:33:19,850
+Güzel... Demek hiçbiri hasta değil?
+
+507
+00:33:22,180 --> 00:33:26,220
+Bunun ulusal bir kriz
+olduğuna ikna olmuştum.
+
+508
+00:33:26,220 --> 00:33:29,530
+Altı üstü bi' tuzakmış...
+
+509
+00:33:30,660 --> 00:33:35,360
+Heh! Gerçekten bir kriz olsaydı,
+senin gibi birini asla istemezdim!
+
+510
+00:33:35,360 --> 00:33:37,500
+Lafı fazla uzattım, infaza başlayın!
+
+511
+00:33:37,500 --> 00:33:42,580
+Zahmet etme. Beni öldüremezsin.
+
+512
+00:33:42,580 --> 00:33:43,420
+Ha?
+
+513
+00:33:44,200 --> 00:33:48,420
+Hey... Sence biri gerçekten ne zaman ölür?
+
+514
+00:33:51,680 --> 00:33:54,750
+Kalbine bir mermi yediği zaman mı?
+
+515
+00:33:54,750 --> 00:33:56,300
+Hayır.
+
+516
+00:33:56,300 --> 00:33:58,850
+Ölümcül bir hastalığa
+yakalandığında mı?
+
+517
+00:33:58,850 --> 00:34:00,850
+Hayır.
+
+518
+00:34:00,850 --> 00:34:03,060
+Zehirli bir mantar çorbası içtiğinde mi?
+
+519
+00:34:03,060 --> 00:34:04,900
+Hayır!
+
+520
+00:34:06,720 --> 00:34:10,280
+Biri ancak...
+unutulduğunda ölür.
+
+521
+00:34:12,200 --> 00:34:15,930
+Ben yok olsam bile,
+hayalim yaşayacak.
+
+522
+00:34:15,930 --> 00:34:19,410
+İnsanların hastalıklı kalpleri iyileşecek.
+
+523
+00:34:20,410 --> 00:34:23,620
+Neden ağlıyorsun, Dalton-kun.
+
+524
+00:34:25,210 --> 00:34:28,130
+Merak ediyorum…
+Acaba bu ülke de iyileşecek mi?
+
+525
+00:34:29,410 --> 00:34:32,090
+Elbette, eğer bu yükü
+omuzlayacak biri olursa.
+
+526
+00:34:32,090 --> 00:34:35,300
+Hey, hey Dalton!
+Ne için ağlıyorsun?
+
+527
+00:34:38,860 --> 00:34:45,370
+Yakında bir canavar gelecek.
+O benim oğlum. Ona zarar vermeyin.
+
+528
+00:34:47,900 --> 00:34:55,030
+Merak etme, Chopper.
+Mantarın beni öldüremez.
+
+529
+00:34:56,160 --> 00:34:59,330
+Ne muhteşem bir hayattı!
+
+530
+00:35:00,750 --> 00:35:02,330
+Hoşça kal, sahte doktor...
+
+531
+00:35:04,080 --> 00:35:07,340
+Teşekkürler, Chopper!
+
+532
+00:35:28,800 --> 00:35:34,990
+Kendini havaya uçurdu! Gerzek su aygırı!
+
+533
+00:35:41,180 --> 00:35:41,700
+Ahh!
+
+534
+00:35:41,700 --> 00:35:42,660
+O ne?!
+
+535
+00:35:42,660 --> 00:35:43,660
+Canavar!
+
+536
+00:35:43,660 --> 00:35:44,600
+Ateş edin!
+
+537
+00:35:44,600 --> 00:35:46,080
+Ahh!
+
+538
+00:35:46,080 --> 00:35:48,690
+Bekle!
+
+539
+00:35:51,990 --> 00:35:55,860
+Git. Git buradan!
+
+540
+00:35:55,860 --> 00:35:58,560
+Onları nasıl yenebilirsin...?
+
+541
+00:35:58,560 --> 00:36:01,560
+Daha beni bile yenemiyorsun!
+
+542
+00:36:02,430 --> 00:36:05,770
+Hiriluk'un ölümüne gülen
+herkesin adına özür dilerim.
+
+543
+00:36:08,600 --> 00:36:11,730
+Bu hâlde onlarla savaşmaya
+kalkarsan, ölümün boşuna olur.
+
+544
+00:36:13,570 --> 00:36:19,140
+Bu ülke bugün için
+yeterince fedakârlık gördü.
+
+545
+00:36:20,110 --> 00:36:21,580
+Lütfen...
+
+546
+00:36:21,580 --> 00:36:22,740
+Ha?
+
+547
+00:36:27,450 --> 00:36:28,750
+Onu kaçırdın, Dalton.
+
+548
+00:36:28,750 --> 00:36:31,850
+Kapa' çeneni!
+Hâlâ anlamıyorsun değil mi?
+
+549
+00:36:31,850 --> 00:36:36,460
+Bu hasta ülkeyi kurtarmayı
+deneyen tek kişi öldü.
+
+550
+00:36:36,460 --> 00:36:38,460
+Herkes umudunu yitirip vazgeçmişken...
+
+551
+00:36:38,460 --> 00:36:41,200
+nazik bir doktor
+ülkeyi kurtarmaya çalışırken öldü!
+
+552
+00:36:41,200 --> 00:36:44,270
+Onun gibi birinin
+ölmesinde ne var yani?
+
+553
+00:36:44,270 --> 00:36:48,270
+Krallığın gidişatını gördüm,
+yok olması daha hayırlı.
+
+554
+00:36:48,270 --> 00:36:51,770
+Biz yönetirken, asla onarılamaz.
+
+555
+00:36:51,770 --> 00:36:53,510
+Tıp gelişse...
+
+556
+00:36:53,510 --> 00:36:55,650
+ve araştırmalar sürse de...
+
+557
+00:36:57,050 --> 00:36:59,740
+hiçbir bir ilaç,
+aptallığı tedavi edemez!
+
+558
+00:37:00,750 --> 00:37:07,370
+Fikrini söylemene izin verdim...
+ve bu beni inanılmaz sinirlendirdi!
+
+559
+00:37:10,190 --> 00:37:14,170
+Lütfen... lütfen bana
+doktor olmayı öğret!
+
+560
+00:37:14,170 --> 00:37:19,870
+Lütfen, bana doktor olmayı öğret!
+Tüm hastalıklara çare olacağım!
+
+561
+00:37:19,870 --> 00:37:24,870
+Her şeyi tedavi eden bir doktor
+olacağım, hatta bir ülkeyi bile!
+
+562
+00:37:24,870 --> 00:37:26,680
+Çünkü... Çünkü...
+
+563
+00:37:26,680 --> 00:37:31,150
+Tedavi edilemeyen hiçbir hastalık yoktur!
+
+564
+00:37:37,720 --> 00:37:41,840
+Bana... Doktorine diyebilirsin.
+
+565
+00:37:45,930 --> 00:37:49,830
+Burada... ölmeyeceğim.
+
+566
+00:37:49,830 --> 00:37:53,000
+O yükü ben omuzlayacağım.
+
+567
+00:37:56,840 --> 00:38:02,110
+Yani 6 yıldır, Tony-kun senin 
+denetiminde eğitim görüyor.
+
+568
+00:38:02,110 --> 00:38:08,250
+Evet... ona bildiğim her şeyi öğrettim.
+
+569
+00:38:08,250 --> 00:38:09,890
+Doktorine! Doktorine!
+
+570
+00:38:11,630 --> 00:38:13,350
+Doktorine! Bir sorun var!
+
+571
+00:38:13,980 --> 00:38:15,650
+Wapol geri döndü!
+
+572
+00:38:18,090 --> 00:38:19,360
+Demek öyle...
+
+573
+00:38:19,360 --> 00:38:21,110
+Ah! O şerefsiz!
+
+574
+00:38:22,660 --> 00:38:24,990
+O geveze!
+
+575
+00:38:28,970 --> 00:38:31,540
+Bakın! Her şey tam da bıraktığım gibi!
+
+576
+00:38:31,540 --> 00:38:34,560
+Hadi kaleme geri dönelim ve 
+Drum Krallığı'nı yeniden kuralım.
+
+577
+00:38:37,410 --> 00:38:40,550
+Bir dakika, Wapol-sama!
+Kalenin tepesinde...
+
+578
+00:38:40,550 --> 00:38:41,260
+Ha?
+
+579
+00:38:46,350 --> 00:38:48,890
+O tuhaf bayrak da ne?
+
+580
+00:38:48,890 --> 00:38:51,310
+Drum'ın soylu bayrağına ne oldu?!
+
+581
+00:38:55,130 --> 00:38:57,400
+Onu küle çevirdim.
+
+582
+00:38:57,950 --> 00:39:02,140
+Sonunda ortaya çıktın, Dr. Kureha,
+doktor avının son kurtulanı!
+
+583
+00:39:02,140 --> 00:39:04,710
+Kale artık senin değil.
+
+584
+00:39:04,710 --> 00:39:08,620
+Senin gibi çürümüş farelere uygun değil!
+
+585
+00:39:08,620 --> 00:39:13,330
+Bu ülkeyi derhal terket.
+Drum Krallığı çoktan öldü.
+
+586
+00:39:14,180 --> 00:39:16,040
+Ne dedin sen?
+
+587
+00:39:17,710 --> 00:39:18,670
+Durun!
+
+588
+00:39:20,710 --> 00:39:23,880
+Ona şimdi güzel bi' dayak atacağım!

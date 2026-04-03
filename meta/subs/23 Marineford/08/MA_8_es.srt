@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -100,48 +100,48 @@ porque no queremos perder aquello que nos importa.
 Avancemos hacia ese futuro en el que creímos...
 
 26
+00:02:31,280 --> 00:02:39,890
+El hombre que estremeció el mundo
+
+27
 00:04:58,520 --> 00:05:00,910
 ¡Squard lo está haciendo de nuevo!
 
-27
+28
 00:05:04,860 --> 00:05:07,740
 ¡¿Acaso no hay nadie fuerte aquí?!
 
-28
+29
 00:05:07,740 --> 00:05:09,950
 ¡Vengan por mí!
 
-29
+30
 00:05:10,440 --> 00:05:12,960
 ¡Tráiganme a Gold Roger!
 
-30
+31
 00:05:14,040 --> 00:05:16,750
 ¡¿Qué pasa?! ¡¿Perdieron el valor?!
 
-31
+32
 00:05:17,850 --> 00:05:19,670
 ¡¿Qué les pasa?!
 
-32
+33
 00:06:04,060 --> 00:06:08,020
 Barbablanca es el pirata más grande que jamás he conocido.
 
-33
+34
 00:06:08,020 --> 00:06:11,980
 He decidido convertir a ese hombre en el Rey de los Piratas.
 
-34
-00:06:33,100 --> 00:06:37,160
-ALIADOS
-
 35
 00:06:33,100 --> 00:06:37,160
-PACIFISTAS
+ALIADOS
 
 36
 00:06:33,100 --> 00:06:37,160
-ALIADOS
+PACIFISTAS
 
 37
 00:06:58,780 --> 00:07:01,950

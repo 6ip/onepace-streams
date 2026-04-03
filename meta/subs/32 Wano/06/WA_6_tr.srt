@@ -1,956 +1,952 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:41,910 --> 00:01:44,410
+Wano'nun Büyük Sumo Turnuvası
+
+3
 00:01:44,410 --> 00:01:46,620
 Amma iri bir aslan köpekmiş!
 
-3
+4
 00:01:46,620 --> 00:01:48,300
 Sahibi kim ola ki?
 
-4
+5
 00:01:49,210 --> 00:01:52,500
 Otama veledini nasıl bulacağız?
 
-5
+6
 00:01:52,500 --> 00:01:56,420
 Kasaba halkına sorsak da cevap alamayız.
 
-6
+7
 00:01:56,420 --> 00:02:00,530
 Hepsi de Orochi'nin gölgesinde yaşıyor.
 
-7
+8
 00:02:02,170 --> 00:02:06,230
 İyi de savaşıyor gibi bir hâli olmayan,
 sıradan insanlar da görüyorum.
 
-8
+9
 00:02:07,370 --> 00:02:10,220
 Kasaba halkı, oldu olası burada yaşardı zaten.
 
-9
+10
 00:02:10,910 --> 00:02:16,230
 20 yıl önceye kadar
 hayat dolu bir kale kasabasıydı.
 
-10
+11
 00:02:17,400 --> 00:02:21,820
 Günün birinde ise Orochi'nin adamları
 diledikleri hanelere kurularak...
 
-11
+12
 00:02:22,570 --> 00:02:24,790
 gerekli gördükleri tüccarlar
 haricinde...
 
-12
+13
 00:02:26,390 --> 00:02:30,840
 herkesi kasabadan sürdüler.
 
-13
+14
 00:02:32,770 --> 00:02:36,260
 Bakura Kasabası da bu hâle geldi işte.
 
-14
+15
 00:03:01,320 --> 00:03:03,780
 Bir sumo güreşçisi mi? Nasıl olur?
 
-15
+16
 00:03:05,780 --> 00:03:08,200
 Kasabada bir işler dönüyor.
 
-16
+17
 00:03:08,200 --> 00:03:10,670
 Bir sumo güreşçisi fırlatıldığına göre...
 
-17
+18
 00:03:10,670 --> 00:03:12,330
 sumo güreşi olsa gerek.
 
-18
+19
 00:03:18,450 --> 00:03:23,800
 Yok mu?! Çiçek Başkenti'nin Yokozunası Urashima'yı...
 
-19
+20
 00:03:23,800 --> 00:03:30,130
 yıkabilecek bir babayiğit yok mu?!
 
-20
+21
+00:03:26,220 --> 00:03:31,140
+Urashima
+
+22
 00:03:38,390 --> 00:03:40,760
 Yine çer çöp çıktılar-pe.
 
-21
+23
 00:03:48,770 --> 00:03:49,700
 Yine...
 
-22
+24
 00:03:58,950 --> 00:04:02,260
 Sumo ha? Eğlenceli olsa gerek!
 
-23
+25
 00:04:08,370 --> 00:04:14,810
 Urashima'yla güreş tutanların sayısı böylelikle 19 etti!
 
-24
+26
 00:04:15,680 --> 00:04:20,150
 Gelgelelim kırdığı kemik sayısı...
 
-25
+27
 00:04:21,630 --> 00:04:23,850
 10 kol,
 
-26
+28
 00:04:23,850 --> 00:04:26,100
 15 bacak,
 
-27
+29
 00:04:26,100 --> 00:04:28,370
 52 kaburga,
 
-28
+30
 00:04:28,370 --> 00:04:30,830
 4 kafatası ve...
 
-29
+31
 00:04:30,830 --> 00:04:33,610
 7 omurga!!
 
-30
+32
 00:04:34,040 --> 00:04:39,500
 Toplamda 88 kemik pert olmuş,
 4 güreşçi de kayıplarda!
 
-31
+33
 00:04:40,080 --> 00:04:42,920
 Ezip geçiyor!
 
-32
+34
 00:04:43,530 --> 00:04:47,140
 Neredeyse insan üstü bir güç!
 
-33
+35
 00:04:47,140 --> 00:04:49,500
 Yenilmez canavar!
 
-34
+36
 00:04:49,500 --> 00:04:55,900
 Yokozuna Urashima!
 
-35
+37
 00:04:55,900 --> 00:04:59,980
 Bugün müstesna bir gösteri
 maçına tanıklık ediyoruz!
 
-36
+38
 00:05:00,070 --> 00:05:03,490
 Urashima'nın sırtını yere getirene
 tamı tamına 500 altın sikke!
 
-37
+39
 00:05:04,090 --> 00:05:06,110
 Urashima'nın hakkından gelin!
 
-38
+40
 00:05:06,110 --> 00:05:07,910
 Paramı size oynadım ha!
 
-39
+41
 00:05:07,910 --> 00:05:10,320
 Hadi tosunlar, yaparsınız!
 
-40
+42
 00:05:11,390 --> 00:05:15,120
 Planımız kusursuz! Altınlar bizim olacak!
 
-41
+43
 00:05:15,120 --> 00:05:17,650
 Adi herife gününü göster!
 
-42
+44
 00:05:17,650 --> 00:05:19,540
 Urashima-sama!
 
-43
+45
 00:05:26,220 --> 00:05:29,140
 Vay vay! Şuraya bakın hele!
 
-44
+46
 00:05:33,550 --> 00:05:35,180
 Hazır...
 
-45
+47
 00:05:36,600 --> 00:05:38,400
 Başlayın!
 
-46
+48
 00:05:48,280 --> 00:05:50,490
 Okiku!
 
-47
+49
 00:05:52,680 --> 00:05:56,330
 Geleceğini biliyordum!
 
-48
+50
 00:05:57,830 --> 00:06:02,040
 Karım olmaya mı karar verdin yani-pe?
 
-49
+51
 00:06:05,190 --> 00:06:06,960
 Affedersin.
 
-50
+52
 00:06:06,960 --> 00:06:09,300
 Arkama geçmek seni gizlemez.
 
-51
+53
 00:06:09,300 --> 00:06:12,120
 Gözlerime inanamıyorum!
 
-52
+54
 00:06:12,120 --> 00:06:16,810
 Urashima'nın evlilik sözü
 aldığı bir kadın çıkageldi!
 
-53
+55
 00:06:17,520 --> 00:06:22,770
 Kıskanmamak elde değil!
 Yokozuna'nın gönlünü çalmış!
 
-54
+56
 00:06:22,770 --> 00:06:28,670
 Yılın şok haberi!
 
-55
+57
 00:06:28,670 --> 00:06:32,390
 Ne? Muhteşem Urashima'nın karısı mı?
 
-56
+58
 00:06:32,390 --> 00:06:33,690
 Karısı mısın?
 
-57
+59
 00:06:33,690 --> 00:06:34,790
 Hayır.
 
-58
+60
 00:06:36,930 --> 00:06:42,750
 Daha önce tanık olduğun üzere
 kendi kendine gelin güveyi oldu.
 
-59
+61
 00:06:45,370 --> 00:06:50,020
 Okiku! Bakura Kasabası'nda
 bir müsabakam olacak-pe!
 
-60
+62
 00:06:50,020 --> 00:06:54,010
 Gücümü merak ediyorsan izlemeye gelirsin!
 
-61
+63
 00:06:59,150 --> 00:07:02,480
 Benim... Kendi iradem var!
 
-62
+64
 00:07:04,910 --> 00:07:06,360
 Anlıyorum.
 
-63
+65
 00:07:07,450 --> 00:07:09,490
 Millet!
 
-64
+66
 00:07:09,490 --> 00:07:12,450
 Birini arıyoruz!
 
-65
+67
 00:07:12,450 --> 00:07:15,160
 Tama isimli küçük bir kız!
 
-66
+68
 00:07:15,730 --> 00:07:18,870
 Kasaba patronunun yerini söyleyin!
 
-67
+69
 00:07:18,870 --> 00:07:21,010
 Orada buluruz!
 
-68
+70
 00:07:22,610 --> 00:07:27,340
 Yere batasıca! Hayallerim yıkıldı!
 Servet avcısı sürtük!
 
-69
+71
 00:07:27,340 --> 00:07:31,830
 Deve kadar olsa da
 tam Urashima'nın dişine göre!
 
-70
+72
 00:07:31,830 --> 00:07:34,300
 Ben daha uygun bir eş olurdum!
 
-71
+73
 00:07:35,450 --> 00:07:37,010
 Takan yok ki.
 
-72
+74
 00:07:37,010 --> 00:07:42,480
 Okiku ziyaretime gelmiş.
 Çocuklar, kapın gelin!
 
-73
+75
 00:07:42,480 --> 00:07:43,650
 – Başüstüne!
 – Başüstüne!
 
-74
+76
 00:07:43,650 --> 00:07:46,940
 Ağabey! Yere bakan
 yürek yakan olduğunu bilmezdim!
 
-75
+77
 00:07:46,940 --> 00:07:50,240
 Senin gibi olmak istiyorum!
 Sana ayvayı yakmasına şaşmamalı!
 
-76
+78
 00:07:51,870 --> 00:07:53,360
 Okiku!
 
-77
+79
 00:07:53,360 --> 00:07:57,280
 İyi be, kendimiz ararız! Gidelim!
 
-78
+80
 00:07:59,870 --> 00:08:03,960
 Lan kadın! Urashima ağabeyimiz
 seni istiyor, gel hele!
 
-79
+81
 00:08:03,960 --> 00:08:06,460
 Siz de kimsiniz lan? Uzayın!
 
-80
+82
 00:08:06,460 --> 00:08:08,250
 Pataklayın gitsin!
 
-81
+83
 00:08:10,460 --> 00:08:12,430
 Bize engel olmayın!
 
-82
+84
 00:08:31,280 --> 00:08:32,400
 Ne?
 
-83
+85
 00:08:32,950 --> 00:08:34,740
 İyi daldın!
 
-84
+86
 00:08:40,380 --> 00:08:43,510
 Tsuki-oshi'yle kazandım galiba.
 
-85
+87
 00:08:45,120 --> 00:08:47,520
 Gel buraya kadın!
 
-86
+88
 00:08:47,520 --> 00:08:49,380
 Hayır, bırak lütfen!
 
-87
+89
 00:08:53,170 --> 00:08:57,140
 Silahsız, çıplak bir adamı mı
 keseceksin?
 
-88
+90
 00:09:04,020 --> 00:09:06,810
 Oley!
 
-89
+91
 00:09:08,650 --> 00:09:12,610
 Hoppa! Hoppa! Hoppa!
 
-90
+92
 00:09:14,570 --> 00:09:16,070
 Kiku!
 
-91
+93
 00:09:18,780 --> 00:09:20,200
 Çekil lan!
 
-92
+94
 00:09:28,580 --> 00:09:31,340
 Hey, Zoro! Buna nasıl göz yumarsın?
 
-93
+95
 00:09:36,590 --> 00:09:37,720
 Üzgünüm.
 
-94
+96
 00:09:37,720 --> 00:09:41,140
 Çıplak bir adamı biçmek...
 
-95
+97
 00:09:41,870 --> 00:09:43,680
 doğru gelmedi de.
 
-96
+98
 00:09:44,650 --> 00:09:45,820
 Hem...
 
-97
+99
 00:09:46,810 --> 00:09:50,190
 o da sıradan bir çay evi
 garsonu değil.
 
-98
+100
 00:09:53,310 --> 00:09:56,570
 Hey! Kasabanın dışındaki
 çay evinde çalışan kız!
 
-99
+101
 00:09:56,570 --> 00:10:01,240
 Kasabamıza adım atması dahi
 küstahlık olan avam tabakasından!
 
-100
+102
 00:10:01,240 --> 00:10:05,450
 Öyle mi?
 Sürtüğü kapı dışarı edin o zaman!
 
-101
+103
 00:10:05,450 --> 00:10:07,670
 Amiyane orospu!
 
-102
+104
 00:10:10,540 --> 00:10:13,500
 Kesin lan, halk bozuntusu!
 
-103
+105
 00:10:17,220 --> 00:10:23,460
 Samuray sınıfının gözünde bir farkınız
 yok, adi avamlarsınız-pe!
 
-104
+106
 00:10:26,290 --> 00:10:29,100
 Beş para etmez hayatlarınızı...
 
-105
+107
 00:10:29,100 --> 00:10:31,940
 bağışlamak da almak da...
 
-106
+108
 00:10:33,190 --> 00:10:35,400
 bana kalmış!
 
-107
+109
 00:10:56,830 --> 00:11:01,850
 O yüzden, Okiku!
 
-108
+110
 00:11:01,850 --> 00:11:03,640
 Benim malım...
 
-109
+111
 00:11:03,640 --> 00:11:09,640
 olsana!
 
-110
+112
 00:11:14,320 --> 00:11:18,370
 Ben "avam" denen birini...
 
-111
+113
 00:11:19,210 --> 00:11:20,650
 tanımıyorum!
 
-112
+114
 00:11:51,840 --> 00:11:53,210
 Dalga geçmeyi bırak.
 
-113
+115
 00:11:53,860 --> 00:11:56,440
 Amiyane olan senin kalbindir.
 
-114
+116
 00:12:06,620 --> 00:12:09,410
 Yokozuna'nın topuzu!
 
-115
+117
 00:12:15,040 --> 00:12:18,260
 Dehşet ya!
 
-116
+118
 00:12:18,260 --> 00:12:21,420
 Kiku da boş değilmiş!
 
-117
+119
 00:12:21,420 --> 00:12:24,330
 Şimdi işler kızıştı!
 
-118
+120
 00:12:26,010 --> 00:12:28,930
 Bir kadın tarafından geri çevrildiği yetmedi...
 
-119
+121
 00:12:28,930 --> 00:12:31,890
 üstüne topuzu da kesildi!
 
-120
+122
 00:12:31,890 --> 00:12:34,520
 Patronlarını böyle
 daha çabuk ortaya çıkarırız!
 
-121
+123
 00:12:50,830 --> 00:12:55,170
 Okiku!
 
-122
+124
 00:12:55,840 --> 00:12:58,000
 Bana...
 
-123
+125
 00:12:58,000 --> 00:13:00,960
 ihanet ettin!
 
-124
+126
 00:13:03,800 --> 00:13:05,590
 Onca insanın içinde...
 
-125
+127
 00:13:06,580 --> 00:13:07,890
 neden bunu yaptım ki?
 
-126
+128
 00:13:11,360 --> 00:13:14,250
 Bir gazap tanrısının suratını andırıyor!
 
-127
+129
 00:13:19,210 --> 00:13:20,860
 Okiku!
 
-128
+130
 00:13:21,730 --> 00:13:24,190
 Olamaz! Aldığı duruş...
 
-129
+131
 00:13:24,190 --> 00:13:27,070
 Rakiplerini uçuran Ekinoks Harite!
 
-130
+132
 00:13:28,180 --> 00:13:30,660
 Bağışlayın lütfen, Urashima-sama.
 
-131
+133
 00:13:37,160 --> 00:13:38,000
 Fakat...
 
-132
+134
 00:13:41,450 --> 00:13:46,010
 düşündüğüm gibi, kadınlara
 el kaldıracak bir adammışsın.
 
-133
+135
 00:13:50,760 --> 00:13:53,930
 Geber!
 
-134
+136
 00:14:14,450 --> 00:14:17,290
 Lastik-Lastik...
 
-135
+137
 00:14:18,420 --> 00:14:19,710
 Tsuppari!
 
-136
+138
 00:14:50,680 --> 00:14:54,240
 Lan lan lan...
 Aman aman... Aman aman...
 
-137
+139
 00:14:55,580 --> 00:14:56,630
 Lan lan lan...
 
-138
+140
 00:14:57,710 --> 00:14:58,540
 Aman aman...
 
-139
+141
 00:15:15,180 --> 00:15:17,680
 Sokayım!
 
-140
+142
 00:15:18,750 --> 00:15:21,730
 Harite'me ne yaptın lan?
 
-141
+143
 00:15:24,520 --> 00:15:28,190
 Sıçtığım, Okiku'nun neyi oluyorsun-pe?
 
-142
+144
 00:15:28,190 --> 00:15:32,320
 Çekil önümden!
 
-143
+145
 00:15:32,900 --> 00:15:36,700
 Okiku'yu paramparça etmezsem...
 
-144
+146
 00:15:37,250 --> 00:15:40,000
 bana götüyle gülerler!
 
-145
+147
 00:15:40,950 --> 00:15:42,790
 Anlaşıldı, nasıl istersen!
 
-146
+148
 00:15:43,080 --> 00:15:44,850
 Öyleyse...
 
-147
+149
 00:15:45,670 --> 00:15:47,680
 Dosukoi!
 
-148
+150
 00:15:48,750 --> 00:15:50,050
 Dosukoi!
 
-149
+151
 00:15:54,390 --> 00:15:56,480
 Önce beni yenmen lazım ama!
 
-150
+152
 00:15:59,220 --> 00:16:00,060
 Ben...
 
-151
+153
 00:16:02,330 --> 00:16:04,900
 sumo'da ustayımdır!
 
-152
+154
+00:16:05,440 --> 00:16:09,820
+Luffy-no-umi
+
+155
 00:16:09,820 --> 00:16:12,200
 Önümden...
 
-153
+156
 00:16:12,200 --> 00:16:14,410
 çekil dedim lan!
 
-154
+157
 00:16:14,410 --> 00:16:17,580
 Budist Harite!
 
-155
+158
 00:16:31,370 --> 00:16:34,010
 Urashima'nın hariteleri'ni savuşturabiliyor!
 
-156
+159
 00:16:34,010 --> 00:16:35,760
 Acayip çevik!
 
-157
+160
 00:16:36,860 --> 00:16:38,430
 Ha gayret, bacaksız!
 
-158
+161
 00:16:38,430 --> 00:16:41,020
 Kaçarak kazanamazsın ama!
 
-159
+162
 00:16:52,570 --> 00:16:54,480
 Kulak Patlatıcı!
 
-160
+163
 00:16:56,590 --> 00:16:57,240
 Hey!
 
-161
+164
 00:16:57,240 --> 00:16:58,280
 Göz Çıkarıcı!
 
-162
+165
 00:17:04,820 --> 00:17:08,380
 Lan! Onlar yasak değil mi?
 
-163
+166
 00:17:08,380 --> 00:17:10,560
 Kes!
 
-164
+167
 00:17:11,550 --> 00:17:13,670
 Ben...
 
-165
+168
 00:17:13,670 --> 00:17:18,800
 yokozuna'yım!
 
-166
+169
 00:17:22,410 --> 00:17:24,800
 Neyse, öyle olsun.
 
-167
+170
 00:17:28,770 --> 00:17:31,230
 Holdem-sama! Kötü bir haberimiz var!
 
-168
+171
 00:17:31,230 --> 00:17:36,150
 Ha? Kadının teki,
 yokozuna'nın topuzunu mu kesti?
 
-169
+172
 00:17:36,150 --> 00:17:40,700
 Ortalık ayağa kalktı!
 Biz de n'apacağımızı bilmiyoruz!
 
-170
+173
 00:17:40,700 --> 00:17:44,870
 Sikimde değil! Bana ne bundan?
 
-171
+174
 00:17:51,700 --> 00:17:56,720
 Kızın yanaklarını koparmakla meşgulüm!
 
-172
+175
 00:17:58,840 --> 00:18:03,350
 Bağışlayın lütfen!
 Babununuzu geri alabilirsiniz!
 
-173
+176
 00:18:03,350 --> 00:18:06,230
 Yapmayın lütfen!
 
-174
+177
 00:18:07,390 --> 00:18:09,710
 Yok öyle yağma!
 
-175
+178
 00:18:10,620 --> 00:18:15,880
 Kozuki adını ağzına almışsın.
 
-176
+179
 00:18:19,450 --> 00:18:24,700
 Kozuki Hanesi döndüğünde
 gününüzü gösterecek!
 
-177
+180
 00:18:25,970 --> 00:18:28,650
 Sen de biliyorsun ki...
 
-178
+181
 00:18:29,670 --> 00:18:33,270
 "Kozuki" adını anmak...
 
-179
+182
 00:18:33,270 --> 00:18:35,420
 büyük suçtur!
 
-180
+183
 00:18:36,350 --> 00:18:40,720
 Aynı zamanda cezanı veriyorum yani.
 
-181
+184
 00:18:42,520 --> 00:18:46,280
 Hayaletlerden medet ummayı bırakın artık.
 
-182
+185
 00:18:46,280 --> 00:18:49,360
 Kozukiler 20 yıl evvel...
 
-183
+186
 00:18:49,810 --> 00:18:57,170
 Wano'yu yok etmeye kalkışan
 şeytani bir haneydi!
 
-184
+187
 00:19:17,050 --> 00:19:19,170
 Çekil lan, götten bacaklı!
 
-185
+188
 00:19:20,140 --> 00:19:24,720
 Okiku telafisi olmayan bir suç işledi-pe!
 
-186
+189
 00:19:26,520 --> 00:19:31,740
 Samuray sınıfına ait biriyle evlenip
 hizmet etme onurunu kabul etmediği gibi...
 
-187
+190
 00:19:33,100 --> 00:19:34,900
 bir de beni aşağıladı!
 
-188
+191
 00:19:35,770 --> 00:19:40,080
 İbretlik olsun diye
 beyninin pekmezini akıtacağım!
 
-189
+192
 00:19:54,410 --> 00:19:56,250
 Tatava yapma!
 
-190
+193
 00:19:56,250 --> 00:19:58,670
 Kazanırsan istediğini yapabilirsin dedik ya!
 
-191
+194
 00:20:12,190 --> 00:20:14,940
 Gücün yetmez gerçi!
 
-192
+195
 00:20:17,400 --> 00:20:18,650
 Ne diyorsun lan?
 
-193
+196
 00:20:20,350 --> 00:20:21,820
 Ben...
 
-194
+197
 00:20:23,040 --> 00:20:25,450
 Ben...
 
-195
+198
 00:20:25,500 --> 00:20:31,540
 Wano'nun en güçlü yokozuna'sıyım!
 
-196
+199
 00:20:33,250 --> 00:20:35,790
 Üstün Harite!
 
-197
+200
 00:20:52,350 --> 00:20:54,400
 Bu da ne?
 
-198
+201
 00:20:54,400 --> 00:20:56,350
 Bilmem ki, ne acaba?
 
-199
+202
 00:21:10,930 --> 00:21:13,250
 Sen yokozuna'ysan...
 
-200
+203
 00:21:16,410 --> 00:21:17,250
 ben de...
 
-201
+204
 00:21:21,630 --> 00:21:25,480
 Korsanlar Kralı olacak adamam!
 
-202
+205
 00:21:29,890 --> 00:21:31,560
 Ay, ay, ay, ay...
 
-203
+206
 00:21:32,660 --> 00:21:36,230
 Luffy ağabey!
 
-204
+207
 00:21:36,650 --> 00:21:39,320
 Lastik-Lastik...
 
-205
+208
 00:22:01,340 --> 00:22:03,300
 Dev...
 
-206
+209
 00:22:04,880 --> 00:22:08,970
 Sumo Harite!
 
-207
+210
 00:22:28,150 --> 00:22:32,450
 Dosukoi
 
-208
+211
 00:22:52,600 --> 00:22:54,430
 Yapma...
 
-209
+212
 00:22:56,670 --> 00:22:57,770
 N'oluyor?
 
-210
+213
 00:23:37,400 --> 00:23:40,510
 K-Kurtuldum mu?
 
-211
+214
 00:23:53,100 --> 00:23:55,960
 Y-Yokozuna...
 
-212
+215
 00:23:55,960 --> 00:23:59,990
 havaya uçuruldu!
 
-213
+216
 00:24:00,370 --> 00:24:02,790
 Yokozuna!
 
-214
+217
 00:24:02,790 --> 00:24:06,750
 Yok daha neler!
 Bacaksızın tekine yenilemez ki!
 
-215
+218
 00:24:16,360 --> 00:24:19,310
 Artık yokozuna benim!
 
-216
+219
 00:24:19,310 --> 00:24:23,810
 Karşıma kim çıkacaksa çıksın!
 
-217
+220
 00:24:26,920 --> 00:24:30,030
 Bu curcunanın üzerine
 patronları ortaya çıkar herhâlde.
 
-218
+221
 00:24:31,060 --> 00:24:32,070
 Bence de!
 
-219
+222
 00:24:33,200 --> 00:24:35,030
 O-O adam...
 
-220
+223
 00:24:35,560 --> 00:24:38,990
 Hatırladım! Sulh hakimi katili!
 
-221
+224
 00:24:42,000 --> 00:24:43,920
 Zorojuro mu?
 
-222
+225
 00:24:52,100 --> 00:24:53,930
 Ne olmuş öyleyse?
 
-223
+226
 00:25:00,120 --> 00:25:03,330
 Yoksa bu işte birlikteler mi?
 
-224
+227
 00:25:07,270 --> 00:25:08,480
 Hey!
 
-225
+228
 00:25:09,910 --> 00:25:12,440
 Kasabanın patronunu getirin!
 
-226
+229
 00:25:36,380 --> 00:25:38,720
 Tama'yı almaya geldik!
-
-227
-00:03:26,220 --> 00:03:31,140
-Urashima
-
-228
-00:03:26,220 --> 00:03:31,140
-Urashima
-
-229
-00:16:05,440 --> 00:16:09,820
-Luffy-no-umi
-
-230
-00:16:05,440 --> 00:16:09,820
-Luffy-no-umi

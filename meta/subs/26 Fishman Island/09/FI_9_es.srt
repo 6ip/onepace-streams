@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,288 +146,289 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
+00:02:29,870 --> 00:02:39,250
+¡Al Bosque Marino!
+Arlong y Hody
+
+38
 00:02:54,880 --> 00:03:00,220
 ¡Jefe! ¡Jefe!
 
-38
+39
 00:03:38,950 --> 00:03:40,470
 Mierda.
 
-39
+40
 00:04:07,380 --> 00:04:10,710
 Están derrotando a mis
  mejores soldados con facilidad.
 
-40
+41
 00:04:10,710 --> 00:04:14,910
 Deben estar usando algún poder abominable.
 
-41
+42
 00:04:14,910 --> 00:04:18,420
 Tal como pensé, debo sacar
  a todos los guardias del palacio.
 
-42
-00:04:59,380 --> 00:05:04,330
-Mola
-
 43
 00:04:59,380 --> 00:05:04,330
-Shi
+Mola
 
 44
 00:04:59,380 --> 00:05:04,330
-Chibukai
+Shi
 
 45
 00:04:59,380 --> 00:05:04,330
-Fansub!
+Chibukai
 
 46
 00:04:59,380 --> 00:05:04,330
-Técnica de combate gyojin.
+Fansub!
 
 47
-00:05:19,340 --> 00:05:22,450
-Mola
+00:04:59,380 --> 00:05:04,330
+Técnica de combate gyojin.
 
 48
 00:05:19,340 --> 00:05:22,450
-Shi
+Mola
 
 49
 00:05:19,340 --> 00:05:22,450
-Chibukai
+Shi
 
 50
 00:05:19,340 --> 00:05:22,450
-Fansub!
+Chibukai
 
 51
 00:05:19,340 --> 00:05:22,450
-Ultramarino.
+Fansub!
 
 52
+00:05:19,340 --> 00:05:22,450
+Ultramarino.
+
+53
 00:05:37,460 --> 00:05:38,500
 ¡Sí, señor!
 
-53
+54
 00:07:52,790 --> 00:07:54,260
 ¡Sí, señor!
 
-54
+55
 00:08:08,230 --> 00:08:09,220
 ¡Sí, señor!
 
-55
+56
 00:08:35,740 --> 00:08:41,260
 BOSQUE MARINO
 
-56
+57
 00:09:01,260 --> 00:09:05,980
 Sirena... Sirena...
 
-57
+58
 00:11:40,700 --> 00:11:43,300
 ¡Oh, Princesa Sirena!
 
-58
+59
 00:11:44,660 --> 00:11:49,540
 En tu presencia, no soy más 
 que un pintor frustrado.
 
-59
+60
 00:11:50,730 --> 00:11:56,250
 ¡Ya que no hay pintura capaz 
 de reflejar esa aura que desprendes!
 
-60
+61
 00:12:04,040 --> 00:12:07,140
 No existe lienzo capaz de contener tanta belleza.
 
-61
+62
 00:14:31,250 --> 00:14:35,300
 ¡Nami-swan!
 
-62
+63
 00:14:33,710 --> 00:14:35,300
 Está completamente recuperado.
 
-63
+64
 00:17:38,140 --> 00:17:38,660
 ¡Sí, señor!
 
-64
-00:17:44,730 --> 00:17:47,800
-Mientras tanto, en la zona residencial de la Isla Gyojin,
-
 65
-00:17:47,800 --> 00:17:49,380
-Gyoverly Hills.
-
-66
 00:17:44,380 --> 00:17:49,380
 GYOVERLY HILLS
 
+66
+00:17:44,730 --> 00:17:47,800
+Mientras tanto, en la zona residencial de la Isla Gyojin,
+
 67
-00:18:09,500 --> 00:18:12,720
-COMANDANTE DE LOS NUEVOS PIRATAS GYOJIN
+00:17:47,800 --> 00:17:49,380
+Gyoverly Hills.
 
 68
 00:18:09,500 --> 00:18:12,720
-IKAROS MUCH
+COMANDANTE DE LOS NUEVOS PIRATAS GYOJIN
 
 69
+00:18:09,500 --> 00:18:12,720
+IKAROS MUCH
+
+70
 00:18:18,500 --> 00:18:21,380
 CIUDAD DE LA FÁBRICA DE DULCES
 
-70
+71
 00:18:18,810 --> 00:18:21,330
 Al noreste, en la Ciudad de la Fábrica de Dulces.
 
-71
+72
 00:18:37,340 --> 00:18:41,300
 COMANDANTE DE LOS NUEVOS PIRATAS GYOJIN
 
-72
+73
 00:18:37,340 --> 00:18:41,300
 DARUMA
 
-73
+74
 00:18:44,620 --> 00:18:47,620
 FRENTE A LA ASAMBLEA CULTURAL GYOJIN
 
-74
+75
 00:18:44,790 --> 00:18:47,620
 Al sureste, frente a la Asamblea Cultural Gyojin.
 
-75
+76
 00:18:52,470 --> 00:18:53,620
 ¡Oigan!
 
-76
+77
 00:18:55,100 --> 00:19:00,620
 COMANDANTE DE LOS NUEVOS PIRATAS GYOJIN
 
-77
+78
 00:18:55,100 --> 00:19:00,620
 HYOUZOU
 
-78
+79
 00:19:21,980 --> 00:19:24,860
 CENTRO COMERCIAL MARINO
 
-79
+80
 00:19:22,450 --> 00:19:24,860
 Al este, Centro Comercial Marino.
 
-80
+81
 00:19:55,940 --> 00:19:59,940
 COMANDANTE DE LOS NUEVOS PIRATAS GYOJIN
 
-81
+82
 00:19:55,940 --> 00:19:59,940
 ZEO
 
-82
+83
 00:20:00,020 --> 00:20:02,860
 DISTRITO MOLINO DE AGUA
 
-83
+84
 00:20:00,650 --> 00:20:02,860
 Al norte, en el Distrito Molino de Agua.
 
-84
+85
 00:20:14,020 --> 00:20:18,500
 COMANDANTE DE LOS NUEVOS PIRATAS GYOJIN
 
-85
+86
 00:20:14,020 --> 00:20:18,500
 DOSUN
-
-86
-00:20:43,470 --> 00:20:45,270
-Al sureste, en Colina Coral,
 
 87
 00:20:43,340 --> 00:20:47,660
 COLINA CORAL
 
 88
+00:20:43,470 --> 00:20:45,270
+Al sureste, en Colina Coral,
+
+89
 00:20:45,270 --> 00:20:47,660
 lugar que Luffy y los demás acaban de abandonar.
 
-89
+90
 00:21:57,630 --> 00:21:59,100
 Tú...
 
-90
+91
 00:22:07,060 --> 00:22:11,580
 BOSQUE MARINO
 
-91
+92
 00:22:41,460 --> 00:22:44,660
 Mis queridas doncellas...
 
-92
+93
 00:22:53,360 --> 00:22:56,940
 ¡Oh, Nami-san, me encanta 
 cuando te pones seria!
 
-93
+94
 00:23:35,300 --> 00:23:38,580
 Hacía tiempo que Jinbe 
 quería ser un Shichibukai...
 
-94
+95
 00:23:38,580 --> 00:23:42,730
 ...y, debido a eso, dejó el East Blue 
 en manos de alguien terrible.
 
-95
+96
 00:25:14,980 --> 00:25:19,300
 ¡Voy a viajar usando mis habilidades de navegación!
 
-96
+97
 00:25:19,300 --> 00:25:23,540
 ¡Veré todo el mundo con mis 
 propios ojos y haré un mapa de él!
 
-97
+98
 00:25:23,540 --> 00:25:28,180
 Entonces, supongo que el mapa de la isla es el primer paso para tu sueño.
 
-98
+99
 00:25:28,180 --> 00:25:29,540
 ¡Sí!
 
-99
+100
 00:25:30,370 --> 00:25:34,940
 Soy su madre adoptiva, después de todo.
 
-100
+101
 00:25:34,940 --> 00:25:39,020
 Ustedes dos son mi preciada familia.
 
-101
+102
 00:25:45,180 --> 00:25:50,100
 ¡Piratas! ¡Han llegado los piratas!
 
-102
+103
 00:25:51,110 --> 00:25:56,260
 ¿Cómo están, insignificantes humanos?
 
-103
+104
 00:25:56,260 --> 00:25:59,390
 Desde este momento, este pueblo...
 
-104
+105
 00:25:59,390 --> 00:26:03,110
 ¡No, toda la isla es nuestra propiedad!
-
-105
-00:26:03,110 --> 00:26:05,140
-¡Sí!
 
 106
 00:26:03,110 --> 00:26:05,140
@@ -560,3 +561,8 @@ No te quedaba más remedio.
 138
 00:28:08,580 --> 00:28:12,330
 Bienvenida de nuevo, mi cartógrafa.
+
+139
+00:34:33,740 --> 00:34:38,180
+¡Otohime, Fisher Tiger, y los Piratas del Sol!
+¡El encuentro destinado!

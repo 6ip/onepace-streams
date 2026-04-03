@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -362,389 +362,393 @@ Che male!
 Ascoltami bene, Luffy!
 
 86
+00:07:34,760 --> 00:07:40,020
+Luffy vs Usopp
+
+87
 00:07:36,600 --> 00:07:40,020
 Ti sconfiggerò per certo e mi prenderò la Merry!
 
-87
+88
 00:07:40,020 --> 00:07:42,020
 Userò ogni mezzo necessario!
 
-88
+89
 00:07:43,270 --> 00:07:45,020
 Colpo Mortale: Stella di Pepe!
 
-89
+90
 00:07:47,190 --> 00:07:48,990
 Ahi! Maledizione...
 
-90
+91
 00:07:56,270 --> 00:07:59,660
 Te l'ho detto! Non userò attacchi 
 che non funzionano su di te!
 
-91
+92
 00:08:03,690 --> 00:08:08,840
 Maledizione... Puzza... è piccante...
 
-92
+93
 00:08:08,840 --> 00:08:10,340
 e fa male!
 
-93
+94
 00:08:10,730 --> 00:08:12,500
 Non ti darò un secondo di tregua!
 
-94
+95
 00:08:12,500 --> 00:08:14,790
 Colpo Mortale: Pioggia di Meteore Shuriken!
 
-95
+96
 00:08:58,680 --> 00:08:59,600
 Fumo?
 
-96
+97
 00:09:02,700 --> 00:09:04,380
 È un Breath Dial.
 
-97
+98
 00:09:06,410 --> 00:09:09,520
 Non te ne sei accorto perché c'era l'odore delle uova, no?
 
-98
+99
 00:09:13,780 --> 00:09:16,740
 Non avresti mai pensato di 
 finire in mezzo a una nube di gas.
 
-99
+100
 00:09:17,460 --> 00:09:18,410
 "Gas"?!
 
-100
+101
 00:09:18,410 --> 00:09:19,780
 Non può essere...!
 
-101
+102
 00:09:20,500 --> 00:09:22,040
 Mi dispiace! Prendi questo!
 
-102
+103
 00:09:22,600 --> 00:09:24,250
 Stella di Fiamma!
 
-103
+104
 00:09:37,010 --> 00:09:38,800
 Che esplosione enorme!
 
-104
+105
 00:09:45,850 --> 00:09:47,690
 Luffy! Usopp!
 
-105
+106
 00:09:58,710 --> 00:10:03,410
 Io sono il capo dei pirati che regnano 
 su questo villaggio, mi chiamo Usopp!
 
-106
+107
 00:10:03,410 --> 00:10:09,790
 La gente mi loda in lungo e in largo, 
 qui il loro capo sono io, Captain Usopp!
 
-107
+108
 00:10:18,760 --> 00:10:20,340
 Sei proprio divertente!
 
-108
+109
 00:10:20,880 --> 00:10:23,340
 Ehi, razza di scemo!
 Non prendermi in giro!
 
-109
+110
 00:10:23,340 --> 00:10:24,560
 Perché?
 
-110
+111
 00:10:24,560 --> 00:10:27,270
 Siamo... già compagni, no?
 
-111
+112
 00:10:31,110 --> 00:10:33,740
 Si vede un'isola a largo!
 
-112
+113
 00:10:33,740 --> 00:10:37,070
 Wow! Assurdo! Chissà che isola è!
 
-113
+114
 00:10:37,070 --> 00:10:39,410
 Bene! Andiamo!
 
-114
+115
 00:10:39,410 --> 00:10:42,500
 Merry! A tutta velocità!
 
-115
+116
 00:10:42,500 --> 00:10:44,950
 A tutta velocità!
 
-116
+117
 00:11:15,270 --> 00:11:17,030
 Tutto questo è terribile...
 
-117
+118
 00:11:17,030 --> 00:11:20,130
 Luffy! Usopp!
 
-118
+119
 00:11:37,100 --> 00:11:41,760
 Lo so... So che non moriresti mai con così poco!
 
-119
+120
 00:11:41,760 --> 00:11:43,590
 Lo so, Luffy!
 
-120
+121
 00:11:44,300 --> 00:11:47,700
 So che dai sempre il massimo 
 in tutti i tuoi combattimenti!
 
-121
+122
 00:11:49,420 --> 00:11:52,070
 Conosco bene tutte le tue mosse!
 
-122
+123
 00:11:56,440 --> 00:11:57,730
 Colpo Mortale...
 
-123
+124
 00:11:57,730 --> 00:11:59,150
 Gum Gum...
 
-124
+125
 00:11:59,150 --> 00:12:01,490
 Gatling!
 
-125
+126
 00:12:01,490 --> 00:12:03,700
 Stella di Cactus Esplosiva!
 
-126
+127
 00:12:10,410 --> 00:12:12,120
 Ahia!
 
-127
+128
 00:12:14,300 --> 00:12:16,090
 Tripla Stella Polvere da Sparo!
 
-128
+129
 00:12:30,560 --> 00:12:32,430
 Gum Gum...
 
-129
+130
 00:12:32,430 --> 00:12:33,690
 Pistol!
 
-130
+131
 00:12:45,990 --> 00:12:48,330
 Gum Gum...
 
-131
+132
 00:12:48,330 --> 00:12:51,080
 Bazooka!
 
-132
+133
 00:12:56,210 --> 00:12:58,500
 Questo è un Dial!
 
-133
+134
 00:12:58,500 --> 00:13:02,090
 Ora... ho preso tutto il tuo impatto!
 
-134
+135
 00:13:03,760 --> 00:13:05,090
 Impact!
 
-135
+136
 00:13:10,680 --> 00:13:12,350
 L'Impact Dial?!
 
-136
+137
 00:13:20,070 --> 00:13:22,990
 Ora lo senti, maledizione?!
 
-137
+138
 00:13:51,790 --> 00:13:58,060
 Io sono il capo dei pirati che regnano 
 su questo villaggio, mi chiamo Usopp!
 
-138
+139
 00:14:03,290 --> 00:14:05,650
 Alla nuova nave e al nuovo compagno,
 
-139
+140
 00:14:05,650 --> 00:14:08,660
 – Cincin!
 – Cincin!
 
-140
+141
 00:14:11,010 --> 00:14:12,100
 Che ne dici?
 
-141
+142
 00:14:12,100 --> 00:14:14,330
 Sì, bella! Disegnalo anche sulla vela!
 
-142
+143
 00:14:14,740 --> 00:14:16,210
 Bene, è pronta!
 
-143
+144
 00:14:16,210 --> 00:14:20,540
 Con questo, la nave pirata Going Merry è completa!
 
-144
+145
 00:14:21,700 --> 00:14:25,550
 Gum Gum...
 
-145
+146
 00:14:25,550 --> 00:14:27,730
 Bullet!
 
-146
+147
 00:14:37,700 --> 00:14:39,770
 Usopp!
 
-147
+148
 00:15:07,600 --> 00:15:09,130
 Il duello si è concluso.
 
-148
+149
 00:15:23,610 --> 00:15:25,180
 Brutto idiota!
 
-149
+150
 00:15:27,400 --> 00:15:32,210
 È impossibile che tu... riesca a battermi!
 
-150
+151
 00:15:58,860 --> 00:16:01,210
 Non posso...  più guardare...
 
-151
+152
 00:16:10,810 --> 00:16:13,780
 Della Merry fanne quello che vuoi tu.
 
-152
+153
 00:16:17,300 --> 00:16:22,930
 Noi ci prenderemo una nuova nave e 
 proseguiremo nel nostro viaggio!
 
-153
+154
 00:16:24,210 --> 00:16:26,200
 Ehi! Facciamo a cambio, Luffy!
 
-154
+155
 00:16:26,200 --> 00:16:29,170
 No! Questo è il mio posto speciale!
 
-155
+156
 00:16:29,170 --> 00:16:31,100
 Oh! Cos'è quello?!
 
-156
+157
 00:16:31,100 --> 00:16:32,670
 Cosa stai costruendo, Usopp?
 
-157
+158
 00:16:32,670 --> 00:16:37,090
 Ah, dai, voi due! 
 Non si entra con le scarpe nella fabbrica di Usopp!
 
-158
+159
 00:16:46,800 --> 00:16:50,360
 Un giorno andremo sicuramente ad Elbaf!
 
-159
+160
 00:16:50,360 --> 00:16:52,990
 Andiamo nel villaggio dei guerrieri!
 
-160
+161
 00:16:52,990 --> 00:16:56,990
 Sì, Usopp! Ci andremo ad ogni costo!
 
-161
+162
 00:16:57,420 --> 00:17:02,470
 Forza! Forza! È il Festival della Vigilia dell'Oro!
 
-162
+163
 00:17:12,410 --> 00:17:14,300
 Ci vediamo, Usopp.
 
-163
+164
 00:17:15,160 --> 00:17:18,040
 Ci siamo divertiti... finché è durato.
 
-164
+165
 00:17:22,850 --> 00:17:24,770
 Ehi, non andare, Chopper!
 
-165
+166
 00:17:26,060 --> 00:17:27,360
 Perché no?!
 
-166
+167
 00:17:27,360 --> 00:17:31,480
 Anche se il suo corpo era già a pezzi, 
 ha dovuto subire tutto quello!
 
-167
+168
 00:17:32,660 --> 00:17:34,410
 Non è né un litigio né un gioco!
 
-168
+169
 00:17:34,410 --> 00:17:39,030
 E quindi?! Io sono un dottore! 
 Lasciamelo curare!
 
-169
+170
 00:17:43,660 --> 00:17:47,390
 Riesci a renderti conto...
  di quanto si possa sentire patetico un uomo
 
-170
+171
 00:17:47,390 --> 00:17:49,670
 nel venire compatito dopo la sconfitta?!
 
-171
+172
 00:17:52,240 --> 00:17:57,390
 Pensa come la tua gentilezza 
 disinteressata potrebbe tormentarlo!
 
-172
+173
 00:17:58,200 --> 00:18:02,810
 È stato lui... È stato lui a volere il duello, 
 pur sapendo che sarebbe andata così!
 
-173
+174
 00:18:15,300 --> 00:18:16,900
 È difficile...
 
-174
+175
 00:18:18,300 --> 00:18:20,450
 Essere il capitano comporta questo, no?
 
-175
+176
 00:18:21,400 --> 00:18:23,410
 Non esitare mai.
 
-176
+177
 00:18:26,010 --> 00:18:31,160
 Se tu dovessi esitare... 
 noi in chi dovremmo credere?
 
-177
+178
 00:18:43,190 --> 00:18:45,020
 Cediamogli la nave.
 
-178
+179
 00:18:55,570 --> 00:19:01,610
 Noi... non torneremo mai più... a bordo di lei.

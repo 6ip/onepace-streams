@@ -1,556 +1,556 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:30,110 --> 00:01:34,030
+Der Wille Oharas
+
+3
 00:01:31,530 --> 00:01:34,030
 Vor 900 Jahren?
 
-3
+4
 00:01:34,660 --> 00:01:36,740
 Wovon redest du da?!
 
-4
+5
 00:01:36,740 --> 00:01:40,580
 Soll eine futuristische Stadt wie diese vor so vielen Jahren existiert haben?!
 
-5
+6
 00:01:40,960 --> 00:01:43,040
 Es ist lediglich eine Hypothese.
 
-6
+7
 00:01:43,710 --> 00:01:47,250
 Ein Mann, der einst sein Leben für die Archäologie riskierte,
 
-7
+8
 00:01:47,880 --> 00:01:50,550
 brachte Licht in ein bestimmtes Königreich.
 
-8
+9
 00:01:50,550 --> 00:01:54,320
 Außerdem wurde während der Herrschaft dieses Königreichs
 
-9
+10
 00:01:54,320 --> 00:01:56,490
 eine gewisse Maschine hergestellt.
 
-10
+11
 00:01:59,890 --> 00:02:04,100
 Wurde diese Maschine während der 100 Jahre der Leere gebaut?!
 
-11
+12
 00:02:05,060 --> 00:02:07,570
 Wie viel weißt du?
 
-12
+13
 00:02:07,570 --> 00:02:08,690
 – Was?
 – Was?
 
-13
+14
 00:02:08,690 --> 00:02:11,030
 Robin! Weißt du was darüber?!
 
-14
+15
 00:02:11,030 --> 00:02:13,990
 Es mag schmerzlich für dich sein,
 daran zurückzudenken,
 
-15
+16
 00:02:14,490 --> 00:02:16,310
 aber vor 22 Jahren
 
-16
+17
 00:02:16,310 --> 00:02:18,140
 wurde deine Heimat, Ohara,
 
-17
+18
 00:02:18,140 --> 00:02:21,830
 durch den Buster Call der Marine zerstört.
 
-18
+19
 00:02:22,710 --> 00:02:23,790
 Ich glaube,
 
-19
+20
 00:02:24,420 --> 00:02:29,750
 dass Ohara von der Existenz dieses Königreichs erfahren hat.
 
-20
+21
 00:02:32,260 --> 00:02:34,300
 Die 100 Jahre der Leere
 
-21
+22
 00:02:34,930 --> 00:02:38,810
 enthalten die Geschichte des Konflikts zwischen dem fortschrittlichen Königreich
 
-22
+23
 00:02:38,810 --> 00:02:41,390
 und den 20 Königreichen.
 
-23
+24
 00:02:50,980 --> 00:02:53,280
 Die 20 Königreiche,
 die die Schlacht gewannen,
 
-24
+25
 00:02:53,650 --> 00:02:58,490
 gründeten später die Weltregierung und schufen die Welt, wie wir sie kennen.
 
-25
+26
 00:02:58,870 --> 00:03:03,120
 Und um zu verhindern, dass jemand die Ideologie jenes Königreichs fortführt,
 
-26
+27
 00:03:03,580 --> 00:03:06,960
 löschten sie alles davon aus der Geschichtschronik.
 
-27
+28
 00:03:06,960 --> 00:03:09,170
 Das kann doch nicht wahr sein.
 
-28
+29
 00:03:09,170 --> 00:03:12,130
 Hä?! Stimmt das auch?!
 
-29
+30
 00:03:14,470 --> 00:03:17,510
 Was für eine spannende Geschichte!
 
-30
+31
 00:03:17,510 --> 00:03:20,220
 Einen Moment, Vegapunk!
 
-31
+32
 00:03:20,220 --> 00:03:23,350
 Wenn Ohara deswegen dem Buster Call zum Opfer gefallen ist,
 
-32
+33
 00:03:23,350 --> 00:03:26,560
 werden dann alle, die davon wissen, auch...
 
-33
+34
 00:03:26,560 --> 00:03:28,770
 Ja, sie werden ausgelöscht.
 
-34
+35
 00:03:30,900 --> 00:03:32,210
 Hey!
 
-35
+36
 00:03:32,210 --> 00:03:34,280
 Warum hast du es uns ungefragt erzählt?!
 
-36
+37
 00:03:34,280 --> 00:03:35,650
 Scheiße!
 
-37
+38
 00:03:35,650 --> 00:03:38,160
 Jetzt haben wir’s gehört!
 
-38
+39
 00:03:38,160 --> 00:03:40,490
 Wir wissen davon!
 
-39
+40
 00:03:40,490 --> 00:03:41,870
 Raus aus meinem Kopf!
 
-40
+41
 00:03:41,870 --> 00:03:43,490
 Ich muss es vergessen!
 
-41
+42
 00:03:43,490 --> 00:03:45,960
 Ich hab nichts gehört! Ich weiß von nichts!
 
-42
+43
 00:03:45,960 --> 00:03:48,250
 Ich weiß rein gar nichts!
 
-43
+44
 00:03:45,960 --> 00:03:47,580
 Krieg dich mal wieder ein.
 
-44
+45
 00:03:48,250 --> 00:03:50,710
 Ich sagte doch, dass es nur eine Hypothese ist.
 
-45
+46
 00:03:48,250 --> 00:03:50,710
 Ich hab nichts gehört! Ich muss es vergessen!
 
-46
+47
 00:03:52,500 --> 00:03:55,170
 Das ist furchtbar!
 Ich will nicht sterben!
 
-47
+48
 00:03:55,760 --> 00:03:57,800
 Hör mal, Nico Robin.
 
-48
+49
 00:03:58,380 --> 00:04:02,560
 Wenn Ohara wegen dieser Hypothese zerstört wurde,
 
-49
+50
 00:04:02,560 --> 00:04:05,810
 heißt das doch, dass die
 Regierung sie für wahr hält, oder?
 
-50
+51
 00:04:05,810 --> 00:04:08,640
 Auf wessen Seite stehst du eigentlich?
 
-51
+52
 00:04:08,640 --> 00:04:12,520
 Die Gelehrten Oharas untersuchten wertvolle Aufzeichnungen
 
-52
+53
 00:04:12,520 --> 00:04:14,110
 und stellten eine Hypothese auf.
 
-53
+54
 00:04:14,110 --> 00:04:17,700
 Würde die Regierung dir und deinem scharfen Verstand davon erzählen?
 
-54
+55
 00:04:17,700 --> 00:04:19,570
 Nein, das würden sie nicht.
 
-55
+56
 00:04:19,570 --> 00:04:21,780
 Die Regel gilt für alle.
 
-56
+57
 00:04:21,780 --> 00:04:25,830
 Obwohl ich für die Regierung arbeite, werde ich getötet, wenn ich es anspreche.
 
-57
+58
 00:04:27,210 --> 00:04:29,290
 Darum will ich nichts davon hören!
 
-58
+59
 00:04:29,290 --> 00:04:31,830
 Das ist ja wie Folter!
 
-59
+60
 00:04:31,830 --> 00:04:33,630
 Lass mich hier raus!
 
-60
+61
 00:04:33,630 --> 00:04:37,760
 Wie hast du dann von dem Königreich erfahren?!
 
-61
+62
 00:04:37,760 --> 00:04:41,640
 Die Bücher, die Ohara auf der ganzen Welt erworben hat, wurden längst...
 
-62
+63
 00:04:42,260 --> 00:04:44,140
 Der Wille Oharas lebt weiter.
 
-63
+64
 00:04:44,680 --> 00:04:49,310
 An jenem Tag wurde die Welt in Verwirrung gestürzt.
 
-64
+65
 00:04:49,310 --> 00:04:54,610
 Ohara, eine Gelehrten-Insel mit einem Weltklasse-Wissen,
 
-65
+66
 00:04:55,020 --> 00:04:58,650
 wurde über Nacht zerstört und nur ein Mädchen blieb zurück.
 
-66
+67
 00:05:02,450 --> 00:05:04,990
 Sie gelten seitdem als eine Gruppe bösartiger Gelehrter,
 
-67
+68
 00:05:04,990 --> 00:05:07,290
 die den Umsturz der Weltregierung geplant hatten.
 
-68
+69
 00:05:09,500 --> 00:05:11,420
 Einige Monate nach diesem Vorfall...
 
-69
+70
 00:05:12,210 --> 00:05:14,340
 besuchte ich Ohara.
 
-70
+71
 00:05:14,880 --> 00:05:17,170
 Ich kannte den verstorbenen Professor Clover,
 
-71
+72
 00:05:17,170 --> 00:05:19,670
 den Leiter der Archäologen.
 
-72
+73
 00:05:20,340 --> 00:05:22,130
 Darum wollte ich Blumen niederlegen.
 
-73
+74
 00:05:22,510 --> 00:05:24,100
 Du kanntest ihn?
 
-74
+75
 00:05:24,100 --> 00:05:25,050
 Ja.
 
-75
+76
 00:05:26,180 --> 00:05:28,930
 Er war besessen von den 100 Jahren der Leere...
 
-76
+77
 00:05:31,690 --> 00:05:35,980
 und ein Abenteurer, der auf der ganzen Welt nach Literatur darüber suchte.
 
-77
+78
 00:05:36,360 --> 00:05:40,950
 Er wurde von der Marine verhaftet und kam zehnmal ins Gefängnis.
 
-78
+79
 00:05:42,570 --> 00:05:44,160
 Da ist er!
 
-79
+80
 00:05:44,570 --> 00:05:48,620
 Er wurde zum berühmtesten Archäologen der Welt.
 
-80
+81
 00:05:49,450 --> 00:05:50,450
 Und schließlich...
 
-81
+82
 00:05:50,450 --> 00:05:54,790
 trafen sich Gelehrte, die von ihm beeindruckt waren, auf Ohara.
 
-82
+83
 00:05:54,790 --> 00:05:58,920
 Diese Insel wurde zum geweihten Land der Archäologie.
 
-83
+84
 00:05:59,380 --> 00:06:02,170
 Aufgrund seines Genies kam es zu der Tragödie.
 
-84
+85
 00:06:03,380 --> 00:06:06,100
 Als ich Ohara betrat,
 
-85
+86
 00:06:06,100 --> 00:06:08,310
 bot die Insel ein absolutes Schreckensbild.
 
-86
+87
 00:06:11,480 --> 00:06:14,350
 Sogar der Baum des Wissens war völlig niedergebrannt
 
-87
+88
 00:06:14,350 --> 00:06:17,610
 und es schien, als wäre alles in Schutt und Asche gelegt worden.
 
-88
+89
 00:06:20,110 --> 00:06:23,650
 Aber als ich tiefer in die Insel vordrang,
 
-89
+90
 00:06:24,530 --> 00:06:27,120
 wurde ich Zeuge von etwas Erstaunlichem.
 
-90
+91
 00:06:27,950 --> 00:06:29,910
 Was ist das?!
 
-91
+92
 00:06:30,540 --> 00:06:33,040
 In dem See im Zentrum der Insel
 
-92
+93
 00:06:33,040 --> 00:06:36,540
 war eine gewaltige Ansammlung an Literatur versunken.
 
-93
+94
 00:06:36,960 --> 00:06:40,480
 Wahrscheinlich blieben die Gelehrten auf der Insel,
 
-94
+95
 00:06:40,480 --> 00:06:42,420
 die wegen des Buster Calls brannte,
 
-95
+96
 00:06:42,420 --> 00:06:45,550
 und starben dabei, als sie den Schatz für die Zukunft beschützten.
 
-96
+97
 00:06:46,890 --> 00:06:51,310
 So viele Gelehrte gaben ihr Leben für den Schutz dieser Bücher.
 
-97
+98
 00:06:51,930 --> 00:06:56,980
 Hätten sie unwissende Soldaten gefunden, wüssten sie nicht, wie wertvoll sie sind.
 
-98
+99
 00:06:57,690 --> 00:06:59,270
 Das war ein Sieg für Ohara.
 
-99
+100
 00:06:59,820 --> 00:07:01,610
 Als ich das sah,
 
-100
+101
 00:07:01,610 --> 00:07:04,740
 konnte ich meine Tränen nicht mehr zügeln.
 
-101
+102
 00:07:06,200 --> 00:07:07,280
 Kümmere dich um Robin.
 
-102
+103
 00:07:07,620 --> 00:07:09,780
 Bitte sorg dafür, dass meine Tochter flieht!
 
-103
+104
 00:07:09,780 --> 00:07:10,490
 Was?!
 
-104
+105
 00:07:10,490 --> 00:07:12,410
 Nein! Was ist mit dir, Mama?
 
-105
+106
 00:07:12,410 --> 00:07:13,790
 Kommst du nicht mit?
 
-106
+107
 00:07:15,040 --> 00:07:17,290
 Olvia... Was hast du vor?
 
-107
+108
 00:07:18,170 --> 00:07:21,500
 Ich habe hier noch was zu erledigen.
 
-108
+109
 00:07:22,000 --> 00:07:25,260
 Mama! Ich will nicht von dir getrennt werden!
 
-109
+110
 00:07:25,260 --> 00:07:27,010
 Ich bleibe auch hier!
 
-110
+111
 00:07:27,010 --> 00:07:28,510
 Robin...
 
-111
+112
 00:07:28,510 --> 00:07:31,600
 Als Gelehrte Oharas solltest du bestens wissen,
 
-112
+113
 00:07:32,140 --> 00:07:34,270
 dass die Geschichte ein Schatz der Menschheit ist.
 
-113
+114
 00:07:34,270 --> 00:07:35,140
 Löscht das Feuer!
 
-114
+115
 00:07:35,140 --> 00:07:36,230
 Rettet die Bücher!
 
-115
+116
 00:07:36,230 --> 00:07:38,060
 Rettet so viele Bücher wie möglich!
 
-116
+117
 00:07:38,060 --> 00:07:40,520
 Schmeißt die Bücher aus der Bibliothek!
 
-117
+118
 00:07:40,980 --> 00:07:43,320
 Es war nicht Oharas Ziel, die Geschichte aufzudecken.
 
-118
+119
 00:07:43,650 --> 00:07:46,990
 Wir wollten bloß die Stimmen der Vergangenheit beschützen.
 
-119
+120
 00:07:47,610 --> 00:07:50,450
 Unsere Forschung hat hier ein Ende,
 
-120
+121
 00:07:51,160 --> 00:07:53,410
 aber auch wenn Ohara fällt,
 
-121
+122
 00:07:53,700 --> 00:07:59,380
 dürfen wir die Zukunft, in der ihr leben werdet, nicht aufgeben!
 
-122
+123
 00:08:00,580 --> 00:08:02,380
 Ich versteh das nicht!
 
-123
+124
 00:08:03,800 --> 00:08:06,130
 Eines Tages wirst du das.
 
-124
+125
 00:08:08,800 --> 00:08:09,470
 Und nun...
 
-125
+126
 00:08:10,470 --> 00:08:11,510
 geh, Saul!
 
-126
+127
 00:08:15,810 --> 00:08:17,440
 Bist du dir sicher?
 
-127
+128
 00:08:17,980 --> 00:08:19,150
 Ja.
 
-128
+129
 00:08:19,150 --> 00:08:23,980
 Nein! Ich bleibe bei dir, Mama!
 
-129
+130
 00:08:23,980 --> 00:08:26,860
 Mama!
 
-130
+131
 00:08:28,240 --> 00:08:30,570
 Lebe, Robin!
 
-131
+132
 00:08:36,410 --> 00:08:38,290
 Sei stolz, Robin!
 
-132
+133
 00:08:38,290 --> 00:08:40,880
 Auf deine großartige Mutter!
 
-133
+134
 00:08:40,880 --> 00:08:45,920
 Eines Tages musst du die Geschichte dieser Insel weitergeben, Robin!
 
-134
+135
 00:08:45,920 --> 00:08:50,010
 Ohara hat gegen die Welt gekämpft!
 
-135
+136
 00:08:55,220 --> 00:08:57,850
 Was hast du, Robin-Mäuschen?
 
-136
+137
 00:08:57,850 --> 00:09:01,730
 Hey! Wieso bringst du sie zum Weinen, du Helmheini?!
-
-137
-00:09:04,110 --> 00:09:07,070
-Lass mich aus den Schuhen raus, du Penner!
 
 138
 00:09:01,730 --> 00:09:04,110
@@ -561,1320 +561,1000 @@ Dafür wirst du büßen, Vegapunk! Ich trete dir in den Hintern!
 Du bist echt ein ungehobelter Klotz!
 
 140
+00:09:04,110 --> 00:09:07,070
+Lass mich aus den Schuhen raus, du Penner!
+
+141
 00:09:07,070 --> 00:09:08,190
 Ja, mich auch!
 
-141
+142
 00:09:08,190 --> 00:09:10,570
 Hey, schau mich gefälligst an, Helmheini!
 
-142
+143
 00:09:15,330 --> 00:09:16,540
 Vegapunk.
 
-143
+144
 00:09:17,870 --> 00:09:19,660
 Du vermutest ganz richtig.
 
-144
+145
 00:09:20,410 --> 00:09:23,170
 Ohara hat die Existenz dieses Königreichs aufgedeckt.
 
-145
+146
 00:09:23,170 --> 00:09:25,340
 Verstehe. Dann ist es also Tatsache.
 
-146
+147
 00:09:25,750 --> 00:09:29,010
 Wo ist die Literatur jetzt,
 die du in dem See gefunden hast?
 
-147
+148
 00:09:29,010 --> 00:09:32,530
 Ich wollte sie zurück nach Punk Hazard bringen,
 
-148
+149
 00:09:32,530 --> 00:09:35,260
 aber wenn die hohen Tiere davon erfahren hätten, wäre alles vorbei.
 
-149
+150
 00:09:35,850 --> 00:09:37,260
 Die Wahrheit ist,
 
-150
+151
 00:09:37,260 --> 00:09:40,140
 dass ich an dem Tag ein paar gewissen Typen begegnet bin.
 
-151
+152
+00:09:40,140 --> 00:09:43,230
+Vor 22 Jahren
+
+Ohara
+West Blue
+
+153
+00:09:43,230 --> 00:09:48,110
+Einige Monate nach
+dem Buster Call
+
+154
 00:10:02,540 --> 00:10:05,040
 Wer ist das und was macht er hier?
 
-152
+155
 00:10:06,500 --> 00:10:08,300
 Zieh es hoch!
 
-153
+156
 00:10:10,550 --> 00:10:13,010
 Riesen?!
 
-154
+157
 00:10:13,380 --> 00:10:15,720
 Warum tun sie das?
 
-155
+158
 00:10:15,720 --> 00:10:18,810
 Wissen sie, wie wertvoll diese Bücher sind?
 
-156
+159
 00:10:19,520 --> 00:10:20,270
 Die Bücher...
 
-157
+160
 00:10:22,100 --> 00:10:24,440
 Was haben sie mit ihnen vor?
 
-158
+161
 00:10:24,440 --> 00:10:25,770
 Hast dich nicht verändert.
 
-159
+162
 00:10:26,730 --> 00:10:30,030
 Dein Kopf fällt sofort auf.
 Hab dich auf den ersten Blick erkannt.
 
-160
+163
 00:10:39,830 --> 00:10:42,830
 Ist lange her, Vegapunk.
 
-161
+164
+00:10:42,830 --> 00:10:45,750
+Monkey D. Dragon (33 Jahre)
+Kommandant der Freiheitsarmee
+
+165
 00:10:45,750 --> 00:10:47,790
 Dragon?!
 
-162
+166
 00:10:48,290 --> 00:10:52,380
 Dein Kopf ist mal wieder ein Stück größer geworden.
 
-163
+167
+00:10:52,970 --> 00:10:56,970
+Dr. Vegapunk (43 Jahre)
+Leiter des Labors auf Punk Hazard
+
+168
 00:10:56,970 --> 00:10:58,510
 Lass gut sein.
 
-164
+169
 00:10:58,890 --> 00:11:00,640
 Warum bist du eigentlich hier?
 
-165
+170
 00:11:00,640 --> 00:11:03,810
 Könnte ich dich genauso fragen, Vegapunk.
 
-166
+171
 00:11:03,810 --> 00:11:07,610
 Ich kannte den alten Clover.
 
-167
+172
 00:11:07,610 --> 00:11:10,610
 Was? Du auch?
 
-168
+173
 00:11:10,610 --> 00:11:11,440
 Vor langer Zeit...
 
-169
+174
 00:11:12,030 --> 00:11:15,990
 war er ein Raufbold,
 der durch die Welt segelte.
 
-170
+175
 00:11:16,030 --> 00:11:19,280
 Der Unsinn, dass er die Welt zerstören will,
 
-171
+176
 00:11:19,280 --> 00:11:21,490
 war eine absurde Desinformationskampagne.
 
-172
+177
 00:11:22,120 --> 00:11:23,370
 Ja, stimmt.
 
-173
+178
 00:11:26,210 --> 00:11:29,210
 Fragst du dich, was die Riesen vorhaben?
 
-174
+179
 00:11:29,210 --> 00:11:33,420
 Ich kann nicht zulassen, dass sie diese wertvollen Bücher stehlen.
 
-175
+180
 00:11:33,420 --> 00:11:35,510
 Sie sind keine Banditen.
 
-176
+181
 00:11:35,510 --> 00:11:37,380
 Das habe ich bereits überprüft.
 
-177
+182
 00:11:37,380 --> 00:11:38,390
 Was?
 
-178
+183
 00:11:40,100 --> 00:11:42,770
 Sie kommen von Elbaph.
 
-179
+184
 00:11:43,140 --> 00:11:45,730
 Sie kennen den Wert dieser Literatur.
 
-180
+185
 00:11:49,560 --> 00:11:54,650
 Ihr Anführer ist ein seltsamer Mann mit Verbänden am ganzen Körper.
 
-181
+186
 00:11:56,490 --> 00:11:59,870
 Er sagte, dass Ohara ihr Vermächtnis durch Opferung ihres Lebens gerettet hat,
 
-182
+187
 00:11:59,870 --> 00:12:03,120
 und er wolle nicht zulassen, dass es aus der Geschichte gelöscht wird.
 
-183
+188
 00:12:11,790 --> 00:12:15,170
 Ich bin froh, dass du und deine Leute von der Weltregierung
 
-184
+189
 00:12:15,170 --> 00:12:18,180
 das nicht herausgefunden und die Bücher vernichtet habt.
 
-185
+190
 00:12:18,180 --> 00:12:19,430
 Warte mal!
 
-186
+191
 00:12:19,430 --> 00:12:20,720
 Das hätte ich nie getan.
 
-187
+192
 00:12:20,720 --> 00:12:22,720
 Ich hielt es für einen Scherz!
 
-188
+193
 00:12:22,720 --> 00:12:26,180
 Unfassbar, dass du nun auch zu einem Schoßhund der Regierung geworden bist.
 
-189
+194
 00:12:28,020 --> 00:12:31,770
 Das, nachdem du das Angebot der Freiheitsarmee ausgeschlagen hast.
 
-190
+195
 00:12:33,150 --> 00:12:34,480
 Mach dich nicht lächerlich!
 
-191
+196
 00:12:34,480 --> 00:12:37,490
 Selbst mit meiner Weisheit und Technologie...
 
-192
+197
 00:12:37,490 --> 00:12:40,780
 Was könnte eine armselige Armee wie die eure schon ausrichten?
 
-193
+198
 00:12:41,780 --> 00:12:43,240
 Schon kapiert.
 
-194
+199
 00:12:43,240 --> 00:12:46,120
 Bist wie immer schonungslos ehrlich.
 
-195
+200
 00:12:46,120 --> 00:12:48,870
 Die Weltregierung ist eine enorm große Organisation.
 
-196
+201
 00:12:48,870 --> 00:12:52,000
 Auch bei der Marine gibt es Leute,
 die einem Gehör schenken.
 
-197
+202
 00:12:52,630 --> 00:12:55,460
 Verliere dein Ziel nicht aus den Augen, Dragon.
 
-198
+203
 00:12:56,170 --> 00:12:57,720
 Ich weiß, aber...
 
-199
+204
 00:12:59,220 --> 00:13:02,340
 Dieser Vorfall hat mich schwer getroffen.
 
-200
+205
 00:13:03,140 --> 00:13:09,060
 Harmlose Gelehrte, die nur die Unvernunft des Gesetzes infrage stellten,
 
-201
+206
 00:13:09,060 --> 00:13:11,440
 wurden gewaltsam niedergeschlagen!
 
-202
+207
 00:13:14,110 --> 00:13:17,360
 Ich werde eine Armee aufstellen, die den Kampf aufnehmen kann!
 
-203
+208
 00:13:17,860 --> 00:13:20,200
 Ausgerechnet du, der den Krieg verabscheut?
 
-204
+209
 00:13:20,820 --> 00:13:22,950
 Wart’s nur ab, Vegapunk.
 
-205
+210
 00:13:22,950 --> 00:13:25,030
 Ich werde die Welt verändern!
 
-206
+211
 00:13:25,740 --> 00:13:27,330
 Clovers Tod...
 
-207
+212
 00:13:28,080 --> 00:13:31,460
 und der Wille Oharas wird nicht vergebens gewesen sein!
 
-208
+213
 00:13:33,040 --> 00:13:35,790
 Später im selben Jahr schloss sich Dragon mit...
 
-209
+214
 00:13:36,500 --> 00:13:38,960
 Emporio Ivankov...
 
-210
+215
 00:13:40,550 --> 00:13:42,630
 und Bartholomew Kuma zusammen,
 
-211
+216
 00:13:43,840 --> 00:13:46,350
 um die Revolutionsarmee zu gründen,
 
-212
+217
 00:13:47,230 --> 00:13:49,490
 die unsere Welt in ihren Grundfesten erschüttert.
 
-213
+218
 00:13:53,270 --> 00:13:55,980
 Luffys Vater ist ein heißblütiger Mann!
 
-214
+219
 00:13:55,980 --> 00:13:58,940
 Einen Moment! Du hast eben Elbaph erwähnt, oder?!
 
-215
+220
 00:13:58,940 --> 00:14:03,410
 Ich wusste nicht, dass Dragon und Professor Clover sich kannten.
 
-216
+221
 00:14:03,410 --> 00:14:07,830
 Mir war nicht klar, dass Iva ein Gründungsmitglied der Revolutionsarmee ist.
 
-217
+222
 00:14:09,120 --> 00:14:11,500
 Mein Schädel explodiert gleich!
 
-218
+223
 00:14:11,500 --> 00:14:14,670
 Warum hat Kuma uns gerettet?!
 
-219
+224
 00:14:14,670 --> 00:14:18,590
 Warum hast du Kuma modifiziert, Vegapunk?
 
-220
+225
 00:14:18,920 --> 00:14:23,680
 Die Bücher von Ohara sollten nicht von der Regierung gefunden werden.
 
-221
+226
 00:14:29,720 --> 00:14:33,350
 Doch ich war aus eigenem Interesse heimlich nach Elbaph gereist.
 
-222
+227
 00:14:38,270 --> 00:14:40,980
 Dort durfte ich alle Dokumente lesen.
 
-223
+228
 00:14:42,780 --> 00:14:43,530
 Das heißt,
 
-224
+229
 00:14:44,110 --> 00:14:46,740
 dass das Geheimnis der Welt,
 das Ohara gelöst hat,
 
-225
+230
 00:14:47,700 --> 00:14:49,870
 komplett in meinem Gehirn gespeichert wurde
 
-226
+231
 00:14:49,870 --> 00:14:53,750
 und ich weiter daran geforscht habe.
 
-227
+232
 00:14:53,750 --> 00:14:56,670
 Darf ich dich etwas fragen?
 
-228
+233
 00:14:57,580 --> 00:14:59,710
 Dieser seltsame Mann...
 
-229
+234
 00:14:59,710 --> 00:15:01,960
 Der Name des Kapitäns dieser Riesen war...
 
-230
+235
 00:15:07,260 --> 00:15:09,510
 Saul, nicht wahr?
 
-231
+236
 00:15:12,220 --> 00:15:15,190
 Er lebt gerade in einem Unterschlupf.
 
-232
+237
 00:15:15,190 --> 00:15:17,900
 Wer mich auch fragen mag, ich werde es nicht verraten.
 
-233
+238
 00:15:24,780 --> 00:15:27,530
 Danke, Vegapunk.
 
-234
+239
 00:15:27,530 --> 00:15:30,990
 Durch dich hat das Volk von Ohara nicht vergebens gekämpft.
 
-235
+240
 00:15:31,370 --> 00:15:34,410
 Ich bin in allen Bereichen der Wissenschaft bewandert.
 
-236
+241
 00:15:34,410 --> 00:15:36,870
 Dies ist der Weg eines Gelehrten.
 
-237
+242
 00:15:48,890 --> 00:15:51,890
 Die Schuhe bewegen sich von alleine!
 
-238
+243
 00:15:56,940 --> 00:16:00,150
 Ich kann euch nicht befreien, aber folgt mir.
 
-239
+244
 00:16:00,860 --> 00:16:03,150
 Es gibt da etwas, das ich euch zeigen möchte.
 
-240
+245
 00:16:03,780 --> 00:16:06,990
 Hey! Das Ding hat nichts,
 wo man einsteigen könnte, Chopper.
 
-241
+246
+00:16:03,780 --> 00:16:06,990
+Schrottplatz
+Fabriophase
+Egghead
+
+247
 00:16:07,910 --> 00:16:10,700
 Genau! Dieser Roboter könnte zu der Sorte gehören,
 
-242
+248
 00:16:10,700 --> 00:16:12,910
 die sich selbst bewegt!
 
-243
+249
 00:16:12,910 --> 00:16:16,330
 Vielleicht reagiert er,
 wenn wir etwas zu ihm sagen!
 
-244
+250
 00:16:16,660 --> 00:16:18,460
 Zum Beispiel... Zum Beispiel...
 
-245
+251
 00:16:18,460 --> 00:16:21,130
 Beweg dich! Beweg dich, Roboter!
 
-246
+252
 00:16:21,920 --> 00:16:22,960
 Klappt nicht.
 
-247
+253
 00:16:22,960 --> 00:16:25,460
 Was muss man wohl zu ihm rufen?
 
-248
+254
 00:16:25,460 --> 00:16:27,930
 Nein! Er muss einen Namen haben!
 
-249
+255
 00:16:27,930 --> 00:16:29,840
 Den müssen wir rufen!
 
-250
+256
 00:16:29,840 --> 00:16:32,100
 Beweg dich, Robonosuke!
 
-251
+257
 00:16:34,810 --> 00:16:36,560
 Robo King!
 
-252
+258
 00:16:36,560 --> 00:16:37,850
 Herrje.
 
-253
+259
 00:16:37,850 --> 00:16:39,480
 Geht ihr noch in den Kindergarten?
 
-254
+260
 00:16:39,480 --> 00:16:41,650
 So kriegt ihr die Kiste nicht zum Laufen.
 
-255
+261
 00:16:50,200 --> 00:16:51,910
 Was?!
 
-256
+262
 00:17:02,920 --> 00:17:04,420
 Alles okay?
 
-257
+263
 00:17:04,420 --> 00:17:05,670
 Ja.
 
-258
+264
 00:17:05,670 --> 00:17:08,220
 Was war das?! Ist der Roboter explodiert?!
 
-259
+265
 00:17:08,220 --> 00:17:10,930
 Nein, das war keine Explosion.
 
-260
+266
 00:17:10,930 --> 00:17:13,800
 Was ist dann passiert?!
 
-261
+267
 00:17:14,350 --> 00:17:17,720
 Hey!
 
-262
+268
 00:17:17,720 --> 00:17:20,560
 Helft mir! Quasar!
 
-263
+269
 00:17:21,690 --> 00:17:23,020
 Quasar?
 
-264
+270
 00:17:23,020 --> 00:17:24,150
 Mist!
 
-265
+271
 00:17:24,150 --> 00:17:25,520
 Noch ein Schuss in den Ofen!
 
-266
+272
 00:17:25,520 --> 00:17:28,740
 So hilf mir doch jemand! Quasar!
 
-267
+273
 00:17:28,740 --> 00:17:32,200
 Hat sich die Raumzeit verzerrt, während ich gewarpt bin?
 
-268
+274
 00:17:32,200 --> 00:17:34,320
 War der Opa schon vorhin dort?
 
-269
-00:17:34,320 --> 00:17:36,410
-Nö, glaube nicht.
-
-270
+275
 00:17:33,820 --> 00:17:36,410
 Ich versinke! Hey!
 
-271
+276
+00:17:34,320 --> 00:17:36,410
+Nö, glaube nicht.
+
+277
 00:17:36,410 --> 00:17:38,790
 Mein Körper versinkt!
 
-272
+278
 00:17:38,790 --> 00:17:40,410
 So hilf mir jemand!
 
-273
+279
 00:17:43,630 --> 00:17:45,630
 Ich versteh grad nur Bahnhof.
 
-274
+280
 00:17:45,630 --> 00:17:48,010
 Brauchst du Hilfe, Opa?
 
-275
+281
 00:17:53,300 --> 00:17:55,890
 Helft mir! Quasar!
 
-276
+282
 00:17:55,890 --> 00:17:57,310
 Was zur Hölle?
 
-277
+283
 00:17:57,310 --> 00:17:59,640
 Der Opa ist wie Kinemon.
 
-278
+284
 00:18:01,440 --> 00:18:04,190
 Schnell!
 
-279
+285
 00:18:07,400 --> 00:18:09,280
 Bin schon dabei!
 
-280
+286
 00:18:09,280 --> 00:18:10,400
 Danke!
 
-281
+287
 00:18:14,200 --> 00:18:15,410
 Wusste ich’s doch!
 
-282
+288
 00:18:15,410 --> 00:18:16,410
 Das ist...
 
-283
+289
 00:18:18,660 --> 00:18:19,790
 Danke!
 
-284
+290
 00:18:19,790 --> 00:18:21,120
 Sag mal, du bist...
 
-285
+291
 00:18:21,120 --> 00:18:22,870
 Dragons Sohn, richtig?
 
-286
+292
 00:18:22,870 --> 00:18:24,460
 Ich wusste, dass du hier bist.
 
-287
+293
 00:18:24,460 --> 00:18:26,250
 Schön, dass du hergefunden hast.
 
-288
+294
 00:18:26,250 --> 00:18:27,460
 Und dann wäre da noch...
 
-289
+295
 00:18:27,460 --> 00:18:28,750
 Bonney!
 
-290
+296
 00:18:28,750 --> 00:18:30,460
 Du bist aber groß geworden.
 
-291
+297
 00:18:30,460 --> 00:18:31,920
 Vegapunk!
 
-292
+298
 00:18:32,670 --> 00:18:34,680
 Es freut mich, dass es dir gut geht!
 
-293
+299
 00:18:35,890 --> 00:18:37,890
 Opa, schwebst du etwa?!
 
-294
+300
 00:18:38,390 --> 00:18:40,270
 Du trägst doch auch welche.
 
-295
+301
 00:18:40,270 --> 00:18:40,970
 Was?
 
-296
+302
 00:18:40,970 --> 00:18:44,690
 Diese Dom-Schuhe haben eine Schwebefunktion!
 
-297
+303
 00:18:44,690 --> 00:18:47,440
 Hä?! Eine Schwebefunktion?!
 
-298
+304
 00:18:47,440 --> 00:18:48,650
 Wie setzen wir sie ein?
 
-299
+305
 00:18:48,650 --> 00:18:52,320
 Zuerst drückst du die Knöpfe an der Seite...
 
-300
+306
 00:18:53,070 --> 00:18:54,530
 Ach, den hier!
 
-301
+307
 00:18:55,110 --> 00:18:57,070
 Und dann musst du diese Hebel
 
-302
+308
 00:18:57,070 --> 00:19:00,040
 noch weiter runterdrücken!
 
-303
+309
 00:19:00,040 --> 00:19:00,870
 So etwa?!
 
-304
+310
 00:19:01,450 --> 00:19:02,620
 Sehr gut!
 
-305
+311
 00:19:11,050 --> 00:19:13,510
 Wir sind zu hoch geflogen!
 
-306
+312
 00:19:15,680 --> 00:19:19,970
 Helft mir! Quasar!
 
-307
-00:09:40,140 --> 00:09:43,230
-Vor 22 Jahren
-
-308
-00:09:40,140 --> 00:09:43,230
-Vor 22 Jahren
-
-309
-00:09:43,230 --> 00:09:48,110
-Einige Monate nach
-dem Buster Call
-
-310
-00:09:43,230 --> 00:09:48,110
-Einige Monate nach
-dem Buster Call
-
-311
-00:09:43,230 --> 00:09:48,110
-Einige Monate nach
-dem Buster Call
-
-312
-00:10:42,830 --> 00:10:45,750
-Monkey D. Dragon (33 Jahre)
-Kommandant der Freiheitsarmee
-
 313
-00:10:42,830 --> 00:10:45,750
-Monkey D. Dragon (33 Jahre)
-Kommandant der Freiheitsarmee
+00:19:21,350 --> 00:19:21,390
+Klügster Kopf der Welt
 
 314
-00:10:42,830 --> 00:10:45,750
-Monkey D. Dragon (33 Jahre)
-Kommandant der Freiheitsarmee
+00:19:21,390 --> 00:19:21,430
+Klügster Kopf der Welt
 
 315
-00:10:52,970 --> 00:10:56,970
-Dr. Vegapunk (43 Jahre)
-Leiter des Labors auf Punk Hazard
+00:19:21,430 --> 00:19:21,470
+Klügster Kopf der Welt
 
 316
-00:10:52,970 --> 00:10:56,970
-Dr. Vegapunk (43 Jahre)
-Leiter des Labors auf Punk Hazard
+00:19:21,470 --> 00:19:21,520
+Klügster Kopf der Welt
 
 317
-00:10:52,970 --> 00:10:56,970
-Dr. Vegapunk (43 Jahre)
-Leiter des Labors auf Punk Hazard
+00:19:21,520 --> 00:19:21,560
+Klügster Kopf der Welt
 
 318
-00:16:03,780 --> 00:16:06,990
-Schrottplatz
-Fabriophase
-Egghead
+00:19:21,560 --> 00:19:21,600
+Klügster Kopf der Welt
 
 319
-00:16:03,780 --> 00:16:06,990
-Schrottplatz
-Fabriophase
-Egghead
+00:19:21,600 --> 00:19:22,470
+Klügster Kopf der Welt
 
 320
-00:19:21,350 --> 00:19:21,390
+00:19:24,480 --> 00:19:28,900
 Klügster Kopf der Welt
 
 321
-00:19:21,350 --> 00:19:21,390
-Klügster Kopf der Welt
-
-322
-00:19:21,390 --> 00:19:21,430
-Klügster Kopf der Welt
-
-323
-00:19:21,390 --> 00:19:21,430
-Klügster Kopf der Welt
-
-324
-00:19:21,430 --> 00:19:21,470
-Klügster Kopf der Welt
-
-325
-00:19:21,430 --> 00:19:21,470
-Klügster Kopf der Welt
-
-326
-00:19:21,470 --> 00:19:21,520
-Klügster Kopf der Welt
-
-327
-00:19:21,470 --> 00:19:21,520
-Klügster Kopf der Welt
-
-328
-00:19:21,520 --> 00:19:21,560
-Klügster Kopf der Welt
-
-329
-00:19:21,520 --> 00:19:21,560
-Klügster Kopf der Welt
-
-330
-00:19:21,560 --> 00:19:21,600
-Klügster Kopf der Welt
-
-331
-00:19:21,560 --> 00:19:21,600
-Klügster Kopf der Welt
-
-332
-00:19:21,600 --> 00:19:22,470
-Klügster Kopf der Welt
-
-333
-00:19:21,600 --> 00:19:22,470
-Klügster Kopf der Welt
-
-334
-00:19:24,480 --> 00:19:28,900
-Klügster Kopf der Welt
-
-335
-00:19:24,480 --> 00:19:28,900
-Klügster Kopf der Welt
-
-336
 00:19:25,100 --> 00:19:25,140
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
-337
+322
 00:19:25,140 --> 00:19:25,190
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+323
+00:19:25,190 --> 00:19:25,230
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+324
+00:19:25,230 --> 00:19:25,270
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+325
+00:19:25,270 --> 00:19:25,310
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+326
+00:19:25,310 --> 00:19:25,350
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+327
+00:19:25,350 --> 00:19:25,390
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+328
+00:19:25,390 --> 00:19:25,440
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+329
+00:19:25,440 --> 00:19:25,480
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+330
+00:19:25,480 --> 00:19:25,520
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+331
+00:19:25,520 --> 00:19:25,560
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+332
+00:19:25,560 --> 00:19:25,600
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+333
+00:19:25,600 --> 00:19:25,640
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+334
+00:19:25,640 --> 00:19:25,690
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+335
+00:19:25,690 --> 00:19:25,730
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+336
+00:19:25,730 --> 00:19:25,770
+Leiter des SSGs
+(Sonderwissenschaftstrupp der Marine)
+
+337
+00:19:25,770 --> 00:19:25,810
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 338
-00:19:25,140 --> 00:19:25,190
+00:19:25,810 --> 00:19:25,850
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 339
-00:19:25,190 --> 00:19:25,230
+00:19:25,850 --> 00:19:25,890
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 340
-00:19:25,190 --> 00:19:25,230
+00:19:25,890 --> 00:19:25,940
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 341
-00:19:25,230 --> 00:19:25,270
+00:19:25,940 --> 00:19:25,980
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 342
-00:19:25,230 --> 00:19:25,270
+00:19:25,980 --> 00:19:26,020
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 343
-00:19:25,270 --> 00:19:25,310
+00:19:26,020 --> 00:19:26,060
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 344
-00:19:25,270 --> 00:19:25,310
+00:19:26,060 --> 00:19:26,100
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 345
-00:19:25,310 --> 00:19:25,350
+00:19:26,100 --> 00:19:26,140
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 346
-00:19:25,310 --> 00:19:25,350
+00:19:26,140 --> 00:19:26,190
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 347
-00:19:25,350 --> 00:19:25,390
+00:19:26,190 --> 00:19:26,230
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 348
-00:19:25,350 --> 00:19:25,390
+00:19:26,230 --> 00:19:26,270
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 349
-00:19:25,390 --> 00:19:25,440
+00:19:26,270 --> 00:19:26,310
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 350
-00:19:25,390 --> 00:19:25,440
+00:19:26,310 --> 00:19:26,350
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 351
-00:19:25,440 --> 00:19:25,480
+00:19:26,350 --> 00:19:26,400
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 352
-00:19:25,440 --> 00:19:25,480
+00:19:26,400 --> 00:19:26,440
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 353
-00:19:25,480 --> 00:19:25,520
+00:19:26,440 --> 00:19:26,480
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 354
-00:19:25,480 --> 00:19:25,520
+00:19:26,480 --> 00:19:26,520
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 355
-00:19:25,520 --> 00:19:25,560
+00:19:26,520 --> 00:19:26,560
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 356
-00:19:25,520 --> 00:19:25,560
+00:19:26,560 --> 00:19:26,600
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 357
-00:19:25,560 --> 00:19:25,600
+00:19:26,600 --> 00:19:26,650
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 358
-00:19:25,560 --> 00:19:25,600
+00:19:26,650 --> 00:19:26,690
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 359
-00:19:25,600 --> 00:19:25,640
+00:19:26,690 --> 00:19:26,730
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 360
-00:19:25,600 --> 00:19:25,640
+00:19:26,730 --> 00:19:26,770
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 361
-00:19:25,640 --> 00:19:25,690
+00:19:26,770 --> 00:19:26,810
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 362
-00:19:25,640 --> 00:19:25,690
+00:19:26,810 --> 00:19:26,850
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 363
-00:19:25,690 --> 00:19:25,730
+00:19:26,850 --> 00:19:26,900
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 364
-00:19:25,690 --> 00:19:25,730
+00:19:26,900 --> 00:19:26,940
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 365
-00:19:25,730 --> 00:19:25,770
+00:19:26,940 --> 00:19:26,980
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 366
-00:19:25,730 --> 00:19:25,770
+00:19:26,980 --> 00:19:27,020
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 367
-00:19:25,770 --> 00:19:25,810
+00:19:27,020 --> 00:19:27,060
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 368
-00:19:25,770 --> 00:19:25,810
+00:19:27,060 --> 00:19:27,100
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 369
-00:19:25,810 --> 00:19:25,850
+00:19:27,100 --> 00:19:27,150
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 370
-00:19:25,810 --> 00:19:25,850
+00:19:27,150 --> 00:19:27,190
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 371
-00:19:25,850 --> 00:19:25,890
+00:19:27,190 --> 00:19:27,230
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)
 
 372
-00:19:25,850 --> 00:19:25,890
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-373
-00:19:25,890 --> 00:19:25,940
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-374
-00:19:25,890 --> 00:19:25,940
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-375
-00:19:25,940 --> 00:19:25,980
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-376
-00:19:25,940 --> 00:19:25,980
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-377
-00:19:25,980 --> 00:19:26,020
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-378
-00:19:25,980 --> 00:19:26,020
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-379
-00:19:26,020 --> 00:19:26,060
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-380
-00:19:26,020 --> 00:19:26,060
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-381
-00:19:26,060 --> 00:19:26,100
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-382
-00:19:26,060 --> 00:19:26,100
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-383
-00:19:26,100 --> 00:19:26,140
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-384
-00:19:26,100 --> 00:19:26,140
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-385
-00:19:26,140 --> 00:19:26,190
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-386
-00:19:26,140 --> 00:19:26,190
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-387
-00:19:26,190 --> 00:19:26,230
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-388
-00:19:26,190 --> 00:19:26,230
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-389
-00:19:26,230 --> 00:19:26,270
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-390
-00:19:26,230 --> 00:19:26,270
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-391
-00:19:26,270 --> 00:19:26,310
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-392
-00:19:26,270 --> 00:19:26,310
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-393
-00:19:26,310 --> 00:19:26,350
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-394
-00:19:26,310 --> 00:19:26,350
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-395
-00:19:26,350 --> 00:19:26,400
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-396
-00:19:26,350 --> 00:19:26,400
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-397
-00:19:26,400 --> 00:19:26,440
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-398
-00:19:26,400 --> 00:19:26,440
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-399
-00:19:26,440 --> 00:19:26,480
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-400
-00:19:26,440 --> 00:19:26,480
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-401
-00:19:26,480 --> 00:19:26,520
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-402
-00:19:26,480 --> 00:19:26,520
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-403
-00:19:26,520 --> 00:19:26,560
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-404
-00:19:26,520 --> 00:19:26,560
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-405
-00:19:26,560 --> 00:19:26,600
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-406
-00:19:26,560 --> 00:19:26,600
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-407
-00:19:26,600 --> 00:19:26,650
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-408
-00:19:26,600 --> 00:19:26,650
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-409
-00:19:26,650 --> 00:19:26,690
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-410
-00:19:26,650 --> 00:19:26,690
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-411
-00:19:26,690 --> 00:19:26,730
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-412
-00:19:26,690 --> 00:19:26,730
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-413
-00:19:26,730 --> 00:19:26,770
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-414
-00:19:26,730 --> 00:19:26,770
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-415
-00:19:26,770 --> 00:19:26,810
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-416
-00:19:26,770 --> 00:19:26,810
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-417
-00:19:26,810 --> 00:19:26,850
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-418
-00:19:26,810 --> 00:19:26,850
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-419
-00:19:26,850 --> 00:19:26,900
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-420
-00:19:26,850 --> 00:19:26,900
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-421
-00:19:26,900 --> 00:19:26,940
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-422
-00:19:26,900 --> 00:19:26,940
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-423
-00:19:26,940 --> 00:19:26,980
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-424
-00:19:26,940 --> 00:19:26,980
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-425
-00:19:26,980 --> 00:19:27,020
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-426
-00:19:26,980 --> 00:19:27,020
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-427
-00:19:27,020 --> 00:19:27,060
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-428
-00:19:27,020 --> 00:19:27,060
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-429
-00:19:27,060 --> 00:19:27,100
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-430
-00:19:27,060 --> 00:19:27,100
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-431
-00:19:27,100 --> 00:19:27,150
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-432
-00:19:27,100 --> 00:19:27,150
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-433
-00:19:27,150 --> 00:19:27,190
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-434
-00:19:27,150 --> 00:19:27,190
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-435
-00:19:27,190 --> 00:19:27,230
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-436
-00:19:27,190 --> 00:19:27,230
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-437
-00:19:27,230 --> 00:19:28,900
-Leiter des SSGs
-(Sonderwissenschaftstrupp der Marine)
-
-438
 00:19:27,230 --> 00:19:28,900
 Leiter des SSGs
 (Sonderwissenschaftstrupp der Marine)

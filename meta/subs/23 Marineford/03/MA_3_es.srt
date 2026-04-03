@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -100,49 +100,53 @@ porque no queremos perder aquello que nos importa.
 Avancemos hacia ese futuro en el que creímos...
 
 26
+00:02:31,210 --> 00:02:39,820
+Conflicto en la cumbre
+
+27
 00:05:48,290 --> 00:05:50,750
 ¡Sí!
 
-27
-00:07:51,360 --> 00:07:53,770
-Mola
-
 28
 00:07:51,360 --> 00:07:53,770
-Shi
+Mola
 
 29
 00:07:51,360 --> 00:07:53,770
-Chibukai
+Shi
 
 30
 00:07:51,360 --> 00:07:53,770
-Fansub!
+Chibukai
 
 31
 00:07:51,360 --> 00:07:53,770
-Abalorios sagrados.
+Fansub!
 
 32
+00:07:51,360 --> 00:07:53,770
+Abalorios sagrados.
+
+33
 00:10:24,980 --> 00:10:26,770
 ¡Sí!
 
-33
+34
 00:11:41,200 --> 00:11:42,900
 Mola
 
-34
+35
 00:11:41,200 --> 00:11:42,900
 Shi
 
-35
+36
 00:11:41,200 --> 00:11:42,900
 Chibukai
 
-36
+37
 00:11:41,200 --> 00:11:42,900
 Fansub!
 
-37
+38
 00:11:41,200 --> 00:11:42,900
 Gran erupción.

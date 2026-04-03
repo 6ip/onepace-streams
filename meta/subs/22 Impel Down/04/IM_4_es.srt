@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -350,66 +350,54 @@ POR BON-CHAN
 
 87
 00:23:57,180 --> 00:23:59,420
-ESCALERAS
+Y SUMINSTROS
 
 88
 00:23:57,180 --> 00:23:59,420
-ESCALERAS
+ALMACÉN DE VÍVERES
 
 89
 00:23:57,180 --> 00:23:59,420
-Y SUMINSTROS
+AL NIVEL 5
 
 90
 00:23:57,180 --> 00:23:59,420
-ALMACÉN DE VÍVERES
+AL NIVEL 3
 
 91
 00:23:57,180 --> 00:23:59,420
-AL NIVEL 5
-
-92
-00:23:57,180 --> 00:23:59,420
-AL NIVEL 5
-
-93
-00:23:57,180 --> 00:23:59,420
-AL NIVEL 3
-
-94
-00:23:57,180 --> 00:23:59,420
 COCINA
 
-95
+92
 00:23:57,180 --> 00:23:59,420
 OFICINA DEL ALCAIDE 
 MAGELLAN
 
-96
+93
 00:23:57,180 --> 00:23:59,420
 ZONA DE LOS 
 PRISIONEROS
 
-97
+94
 00:24:21,970 --> 00:24:23,670
 ¡Lo encontramos!
 
-98
+95
 00:24:48,800 --> 00:24:52,000
 Mola
 
-99
+96
 00:24:48,800 --> 00:24:52,000
 Shi
 
-100
+97
 00:24:48,800 --> 00:24:52,000
 Chibukai
 
-101
+98
 00:24:48,800 --> 00:24:52,000
 Fansub!
 
-102
+99
 00:24:48,800 --> 00:24:52,000
 Fuegos Artificiales.

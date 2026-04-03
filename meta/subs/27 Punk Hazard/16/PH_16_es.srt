@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -148,195 +148,196 @@ Unamos todos nuestros deseos en uno solo.
 ¡Levanten las manos!
 
 38
-00:02:38,790 --> 00:02:43,440
-TORRE C - VERTEDERO
+00:02:29,820 --> 00:02:36,000
+¡El dragón llamado Momonosuke y 
+la intimidante usuaria de la fruta de la nieve!
 
 39
 00:02:38,790 --> 00:02:43,440
-GRUPO DE LUFFY
+TORRE C - VERTEDERO
 
 40
+00:02:38,790 --> 00:02:43,440
+GRUPO DE LUFFY
+
+41
 00:03:03,380 --> 00:03:06,520
 MOMONOSUKE (DRAGÓN)
 
-41
+42
 00:04:40,420 --> 00:04:42,120
 Te darán comida.
 
-42
+43
 00:04:42,120 --> 00:04:43,340
 ¿No quieres comer?
 
-43
+44
 00:04:44,200 --> 00:04:49,080
 Soy un samurái, no acepto
  caridad de los demás.
 
-44
+45
 00:04:55,480 --> 00:04:57,800
 Te he traído comida.
 
-45
+46
 00:04:57,800 --> 00:05:01,430
 ¡He dicho que no quiero nada!
 
-46
+47
 00:05:01,430 --> 00:05:05,510
 Come algo, todos estamos
  lejos de nuestros padres.
 
-47
+48
 00:05:05,510 --> 00:05:09,090
 ¡Nadie es capaz de entender mis sentimientos!
 
-48
+49
 00:05:05,650 --> 00:05:09,090
 Deberíamos permanecer juntos...
 
-49
+50
 00:05:10,980 --> 00:05:13,980
 Soy el Maestro Caesar.
 
-50
+51
 00:05:13,980 --> 00:05:16,080
 Vamos, entren.
 
-51
+52
 00:05:16,080 --> 00:05:19,700
 A partir de ahora, este será su patio de juegos.
 
-52
+53
 00:05:21,550 --> 00:05:23,900
 Oye, ¿cómo te llamas?
 
-53
+54
 00:05:23,900 --> 00:05:27,370
 ¡Mi nombre no es de tu incumbencia!
 
-54
+55
 00:05:29,220 --> 00:05:30,570
 Adelante.
 
-55
+56
 00:05:30,570 --> 00:05:33,050
 Son dulces.
 
-56
+57
 00:05:33,050 --> 00:05:34,020
 ¡No los necesito!
 
-57
+58
 00:05:34,530 --> 00:05:35,380
 ¿Y un caramelo?
 
-58
+59
 00:05:35,380 --> 00:05:36,560
 ¡No lo necesito!
 
-59
+60
 00:05:38,240 --> 00:05:41,220
 ¡¿Qué?! ¡¿Un niño escapó?!
 
-60
+61
 00:05:41,220 --> 00:05:45,280
 Sí, pero he comprobado el registro 
 y el número de niños coincide.
 
-61
+62
 00:05:45,280 --> 00:05:46,190
 Qué extraño.
 
-62
+63
 00:06:14,900 --> 00:06:16,310
 Oye.
 
-63
+64
 00:06:20,560 --> 00:06:24,410
 Oh, así que te llamas Momonosuke-kun...
 
-64
+65
 00:06:24,410 --> 00:06:27,850
 Esta es la sala secreta, 
 tenemos prohibido entrar aquí.
 
-65
+66
 00:06:27,850 --> 00:06:31,990
 Deja de hablarme, no te involucres conmigo.
 
-66
+67
 00:06:31,990 --> 00:06:34,880
 Estoy buscando la salida.
 
-67
+68
 00:06:34,880 --> 00:06:38,160
 Quiero marcharme, tengo un asunto pendiente.
 
-68
+69
 00:06:38,160 --> 00:06:42,810
 Pero todos los que estamos aquí nos sentimos igual.
 
-69
+70
 00:06:44,080 --> 00:06:48,970
 Queremos ver cuanto 
 antes a nuestros padres.
 
-70
+71
 00:06:50,880 --> 00:06:56,330
 Venimos de distintas islas para que nos curen, todos nos sentimos igual.
 
-71
+72
 00:06:57,610 --> 00:07:02,320
 Hay tantas cosas que me gustaría
  hacer si pudiera volver a casa...
 
-72
+73
 00:07:02,320 --> 00:07:06,840
 Todos nos llevamos bien y nos 
 divertimos mucho en el Biscuits Room.
 
-73
+74
 00:07:06,840 --> 00:07:08,740
 Olvidamos todo el sufrimiento.
 
-74
+75
 00:07:08,740 --> 00:07:12,830
 ¡Por eso deberías comer bien, Momonosuke-kun!
 
-75
+76
 00:07:12,830 --> 00:07:14,260
 Pero yo...
 
-76
+77
 00:07:14,260 --> 00:07:16,890
 La puerta de la sala secreta está abierta.
 
-77
+78
 00:07:16,890 --> 00:07:17,880
 ¡Oh, no!
 
-78
+79
 00:07:17,880 --> 00:07:19,260
 ¡Alguien viene!
 
-79
+80
 00:07:19,260 --> 00:07:20,790
 ¡Vámonos, Momonosuke-kun!
 
-80
+81
 00:07:25,720 --> 00:07:27,190
 ¿Hay alguien ahí?
 
-81
+82
 00:07:28,600 --> 00:07:29,880
 ¿Qué sucede?
 
-82
+83
 00:07:29,880 --> 00:07:30,470
 ¿Quién es?
-
-83
-00:07:40,600 --> 00:07:42,070
-¡¿U-Un dragón?!
 
 84
 00:07:40,600 --> 00:07:42,070
@@ -535,145 +536,141 @@ Llámenme si pasa algo.
 ¡Sí, Monet-san!
 
 131
-00:15:10,010 --> 00:15:11,840
-¡Sí, Monet-san!
-
-132
 00:15:20,270 --> 00:15:23,870
 Este es un premio por portarte tan bien.
 
-133
+132
 00:15:23,870 --> 00:15:27,010
 Es un caramelo de parte del Maestro.
 
-134
+133
 00:16:10,750 --> 00:16:13,610
 Mola
+
+134
+00:16:10,750 --> 00:16:13,610
+Shi
 
 135
 00:16:10,750 --> 00:16:13,610
-Shi
+Chibukai
 
 136
 00:16:10,750 --> 00:16:13,610
-Chibukai
+Fansub!
 
 137
 00:16:10,750 --> 00:16:13,610
-Fansub!
+Huevo de calor.
 
 138
-00:16:10,750 --> 00:16:13,610
-Huevo de calor.
+00:16:36,610 --> 00:16:39,360
+Mola
 
 139
 00:16:36,610 --> 00:16:39,360
-Mola
+Shi
 
 140
 00:16:36,610 --> 00:16:39,360
-Shi
+Chibukai
 
 141
 00:16:36,610 --> 00:16:39,360
-Chibukai
+Fansub!
 
 142
 00:16:36,610 --> 00:16:39,360
-Fansub!
+Barrera de nieve.
 
 143
-00:16:36,610 --> 00:16:39,360
-Barrera de nieve.
+00:16:39,320 --> 00:16:41,950
+Mola
 
 144
 00:16:39,320 --> 00:16:41,950
-Mola
+Shi
 
 145
 00:16:39,320 --> 00:16:41,950
-Shi
+Chibukai
 
 146
 00:16:39,320 --> 00:16:41,950
-Chibukai
+Fansub!
 
 147
 00:16:39,320 --> 00:16:41,950
-Fansub!
+Nieve perpetua.
 
 148
-00:16:39,320 --> 00:16:41,950
-Nieve perpetua.
+00:16:59,190 --> 00:17:01,710
+Mola
 
 149
 00:16:59,190 --> 00:17:01,710
-Mola
+Shi
 
 150
 00:16:59,190 --> 00:17:01,710
-Shi
+Chibukai
 
 151
 00:16:59,190 --> 00:17:01,710
-Chibukai
+Fansub!
 
 152
 00:16:59,190 --> 00:17:01,710
-Fansub!
+Manotazo.
 
 153
-00:16:59,190 --> 00:17:01,710
-Manotazo.
+00:18:16,410 --> 00:18:19,120
+Mola
 
 154
 00:18:16,410 --> 00:18:19,120
-Mola
+Shi
 
 155
 00:18:16,410 --> 00:18:19,120
-Shi
+Chibukai
 
 156
 00:18:16,410 --> 00:18:19,120
-Chibukai
+Fansub!
 
 157
 00:18:16,410 --> 00:18:19,120
-Fansub!
-
-158
-00:18:16,410 --> 00:18:19,120
 Copos de nieve dura.
 
-159
+158
 00:18:19,080 --> 00:18:22,510
 Mola
 
-160
+159
 00:18:19,080 --> 00:18:22,510
 Shi
 
-161
+160
 00:18:19,080 --> 00:18:22,510
 Chibukai
 
-162
+161
 00:18:19,080 --> 00:18:22,510
 Fansub!
 
-163
+162
 00:18:19,080 --> 00:18:22,510
 Espada corporal.
 
-164
+163
 00:19:34,540 --> 00:19:37,800
 ¡Pero si hay una belleza detrás de ti!
 
-165
+164
 00:19:37,800 --> 00:19:39,740
 ¡Qué guapa!
 
-166
+165
 00:21:04,390 --> 00:21:06,510
 ¡Capitana-chan!

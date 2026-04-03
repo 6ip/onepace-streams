@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -142,54 +142,54 @@ Has pasado nueve años de tu vida
  encerrado en esta celda.
 
 35
+00:02:16,460 --> 00:02:21,690
+Gran Sacudida en Dressrosa
+
+36
 00:02:21,240 --> 00:02:22,260
 Sal de aquí.
 
-36
+37
 00:02:22,260 --> 00:02:24,660
 Hay un trabajo que quiero encomendarte.
 
-37
+38
 00:02:25,290 --> 00:02:29,440
 Kyros, en lugar de lamentarte
 por los errores del pasado,
 
-38
+39
 00:02:29,440 --> 00:02:32,150
 puedes salvar muchas vidas
  de ahora en adelante.
 
-39
+40
 00:02:32,150 --> 00:02:34,030
 ¿No te parece un mejor modo de vida?
 
-40
+41
 00:02:37,370 --> 00:02:38,600
 ¡Sí!
 
-41
+42
 00:02:47,180 --> 00:02:49,520
 ¡Kyros, contamos contigo!
 
-42
+43
 00:02:47,280 --> 00:02:50,820
 UN AÑO DESPUÉS
 
-43
+44
 00:02:49,520 --> 00:02:52,420
 ¡Kyros, gracias por todo!
 
-44
+45
 00:02:52,080 --> 00:02:56,590
 CAPITÁN DEL EJÉRCITO REAL DE RIKU DE DRESSROSA
 
-45
+46
 00:02:52,080 --> 00:02:56,590
 KYROS (25 AÑOS DE EDAD)
-
-46
-00:02:56,590 --> 00:02:58,920
-¡Kyros-sama!
 
 47
 00:02:56,590 --> 00:02:58,920
@@ -213,815 +213,811 @@ Pero no dejas de ser un asesino.
 ¡P-Princesa!
 
 52
-00:03:12,470 --> 00:03:14,170
-¡P-Princesa!
-
-53
 00:03:14,170 --> 00:03:16,880
 ¡Hermana, no abras heridas tan viejas!
 
-54
+53
 00:03:16,880 --> 00:03:19,620
 Y ahora te convierte en capitán del 
 ejército que protege la justicia.
 
-55
+54
 00:03:19,620 --> 00:03:21,110
 ¡Debe estar loco!
 
-56
+55
 00:03:21,110 --> 00:03:22,510
 Hermana...
 
-57
+56
 00:03:22,510 --> 00:03:26,820
 ¡Quizá hayas engañado al 
 resto del país, pero a mí no!
 
-58
+57
 00:03:25,480 --> 00:03:34,430
 PRINCESA HEREDERA DE DRESSROSA
 
-59
+58
 00:03:25,480 --> 00:03:34,430
 SCARLETT (15 AÑOS DE EDAD)
 
-60
+59
 00:03:26,820 --> 00:03:28,950
 ¡Algún día revelaré quién eres en realidad!
 
-61
+60
 00:03:28,950 --> 00:03:32,010
 ¡Aléjate de nosotras!
 
-62
+61
 00:03:32,010 --> 00:03:33,410
 ¡No nos toques!
 
-63
+62
 00:03:33,410 --> 00:03:34,430
 ¿Entendido?
 
-64
+63
 00:03:35,430 --> 00:03:38,600
 Pero, hermana, en realidad él...
 
-65
+64
 00:03:35,530 --> 00:03:39,300
 SEGUNDA HIJA (HERMANA MENOR)
 
-66
+65
 00:03:35,530 --> 00:03:39,300
 VIOLA (10 AÑOS DE EDAD)
 
-67
+66
 00:03:38,600 --> 00:03:41,060
 ¡Oye, no lo mires!
 
-68
+67
 00:03:41,060 --> 00:03:42,770
 ¡Es obvio que su mente está sucia!
 
-69
+68
 00:03:42,770 --> 00:03:45,770
 Pero... se supone que debo protegerlas...
 
-70
+69
 00:03:45,770 --> 00:03:47,510
 No, gracias.
 
-71
+70
 00:03:50,080 --> 00:03:52,360
 ¡Scarlett-sama ha sido secuestrada!
 
-72
+71
 00:03:52,360 --> 00:03:53,440
 ¡Fueron unos piratas!
 
-73
+72
 00:03:53,440 --> 00:03:54,780
 ¿Qué pasó con sus escoltas?
 
-74
+73
 00:03:54,780 --> 00:03:56,080
 ¡Los han asesinado a todos!
 
-75
+74
 00:03:56,080 --> 00:03:57,120
 ¡¿Qué?!
 
-76
+75
 00:03:57,120 --> 00:03:58,450
 ¡Esto es terrible!
 
-77
+76
 00:04:07,060 --> 00:04:08,770
 ¡L-Lo siento mucho!
 
-78
+77
 00:04:11,160 --> 00:04:12,930
 ¡No era mi intención tocarla!
 
-79
+78
 00:04:13,700 --> 00:04:18,470
 ¡Kyros! ¡Tenía mucho miedo!
 
-80
+79
 00:04:19,570 --> 00:04:22,780
 ¡Lo siento! ¡Lo siento mucho!
 
-81
+80
 00:04:27,480 --> 00:04:29,680
 ¿Está cocinando?
 
-82
+81
 00:04:29,680 --> 00:04:31,780
 ¿Qué le habrá ocurrido?
 
-83
+82
 00:04:33,850 --> 00:04:35,120
 Oh, yo no...
 
-84
+83
 00:04:43,800 --> 00:04:45,440
 ¡¿Qué?!
 
-85
+84
 00:04:45,440 --> 00:04:48,070
 ¿Que renuncias a ser el 
 guardaespaldas de mis hijas?
 
-86
+85
 00:04:48,070 --> 00:04:51,100
 No estarás enamorado de Scarlett, ¿o sí?
 
-87
+86
 00:04:51,100 --> 00:04:51,940
 ¡¿Qué?!
 
-88
+87
 00:04:51,940 --> 00:04:54,570
 ¡N-No, por supuesto que no!
 
-89
+88
 00:04:54,570 --> 00:05:04,490
 Tal vez algunos ciudadanos lo acepten, pero va en contra de la ética del país.
 
-90
+89
 00:05:04,490 --> 00:05:06,690
 Así son las masas de gente.
 
-91
+90
 00:05:06,690 --> 00:05:11,390
 ¡Padre, si no puedo
  casarme con él, entonces,
 
-92
+91
 00:05:11,390 --> 00:05:12,460
 moriré!
 
-93
+92
 00:05:22,670 --> 00:05:24,320
 ¡Scarlett-sama!
 
-94
+93
 00:05:24,320 --> 00:05:26,250
 Murió de una enfermedad repentina.
 
-95
+94
 00:05:26,250 --> 00:05:29,310
 Estoy seguro de que habría
  sido una reina maravillosa.
 
-96
+95
 00:05:32,850 --> 00:05:34,410
 Scarlett...
 
-97
+96
 00:05:34,410 --> 00:05:37,700
 A partir de hoy, dejas 
 de ser de la realeza.
 
-98
+97
 00:05:38,010 --> 00:05:40,920
 La sociedad cree que estás muerta.
 
-99
+98
 00:05:40,920 --> 00:05:42,220
 Sí.
 
-100
+99
 00:05:43,920 --> 00:05:47,330
 Siento como si le estuviera faltando al respeto a todo lo que ha hecho por mí, Su Majestad.
 
-101
+100
 00:05:47,330 --> 00:05:49,830
 En efecto, es imperdonable...
 
-102
+101
 00:05:50,660 --> 00:05:53,270
 O lo sería si no se tratara de ti.
 
-103
+102
 00:05:53,270 --> 00:05:56,740
 Kyros, esto es algo impensable.
 
-104
+103
 00:06:04,250 --> 00:06:06,350
 Se llamará Rebecca.
 
-105
+104
 00:06:07,150 --> 00:06:09,780
 Kyros, sostenla.
 
-106
+105
 00:06:09,780 --> 00:06:11,380
 Es tu hija.
 
-107
+106
 00:06:12,790 --> 00:06:15,450
 ¡No puedo tocar algo tan puro!
 
-108
+107
 00:06:15,450 --> 00:06:18,090
 ¡Mis manos están sucias!
 
-109
+108
 00:06:18,090 --> 00:06:19,230
 ¡No quiero corromperla!
 
-110
+109
 00:06:21,330 --> 00:06:23,700
 Tienes un padre muy gracioso, Rebecca.
 
-111
+110
 00:06:26,600 --> 00:06:29,170
 ¡Rebecca, eres como un ángel!
 
-112
+111
 00:06:29,760 --> 00:06:31,730
 Estaré contigo.
 
-113
+112
 00:06:31,730 --> 00:06:33,910
 ¡Siempre estaré a tu lado!
 
-114
+113
 00:06:36,180 --> 00:06:37,980
 ¡Soy tu abuelo!
 
-115
+114
 00:06:37,980 --> 00:06:39,520
 ¡Abuelo!
 
-116
+115
 00:06:39,520 --> 00:06:42,560
 ¡Rebecca, cuánto has crecido!
 
-117
+116
 00:06:42,560 --> 00:06:45,250
 Padre, quítate esa máscara de ninja.
 
-118
+117
 00:06:45,250 --> 00:06:46,550
 Kyros...
 
-119
+118
 00:06:46,550 --> 00:06:48,660
 ¡Guantes! ¡Necesito guantes!
 
-120
+119
 00:06:48,660 --> 00:06:51,360
 Qué linda...
 
-121
+120
 00:06:52,160 --> 00:06:53,660
 Estás llorando de nuevo.
 
-122
+121
 00:07:08,170 --> 00:07:10,810
 El Palacio Real está en llamas.
 
-123
+122
 00:07:11,540 --> 00:07:14,080
 ¿Qué está ocurriendo en este país?
 
-124
+123
 00:07:14,080 --> 00:07:15,880
 Iré al palacio.
 
-125
+124
 00:07:15,880 --> 00:07:18,180
 Scarlett, Rebecca, escúchenme.
 
-126
+125
 00:07:18,180 --> 00:07:19,450
 ¿Padre?
 
-127
+126
 00:07:19,450 --> 00:07:23,920
 Si el peligro se extiende hasta aquí, 
 espérenme en el campo de flores rojas.
 
-128
+127
 00:07:23,920 --> 00:07:26,120
 Les prometo que vendré por ustedes.
 
-129
+128
 00:07:33,230 --> 00:07:34,670
 ¡Maldita sea!
 
-130
+129
 00:07:37,970 --> 00:07:41,670
 ¡¿Qué le has hecho a 
 este país y al rey, pirata?!
 
-131
+130
 00:07:41,670 --> 00:07:45,280
 El rey quemó la ciudad, ¿no lo viste?
 
-132
+131
 00:07:46,310 --> 00:07:48,950
 ¡Su Majestad nunca haría algo semejante!
 
-133
+132
 00:07:48,950 --> 00:07:50,950
 ¡Kyros!
 
-134
+133
 00:07:52,990 --> 00:07:55,710
 ¡Quítame estas esposas de kairouseki!
 
-135
+134
 00:07:55,710 --> 00:07:57,590
 No soy un usuario de las habilidades.
 
-136
+135
 00:07:57,590 --> 00:08:01,560
 Kyros, tu reputación te precede.
 
-137
+136
 00:08:02,160 --> 00:08:04,860
 Únete a mi tripulación.
 
-138
+137
 00:08:04,860 --> 00:08:09,370
 Reemplazaremos al rey y 
 destruiremos a la antigua familia real.
 
-139
+138
 00:08:09,370 --> 00:08:13,600
 Mis hombres ya deberían 
 haber ido tras tu esposa e hija,
 
-140
+139
 00:08:13,600 --> 00:08:16,350
 quienes llevan la sangre del rey en sus venas.
 
-141
+140
 00:08:17,680 --> 00:08:20,200
 Fíjate bien.
 
-142
+141
 00:08:20,200 --> 00:08:24,920
 La historia de la dinastía Riku
  en Dressrosa acaba aquí.
 
-143
+142
 00:08:29,960 --> 00:08:33,090
 ¡¿Se ha cortado su propia pierna?!
 
-144
+143
 00:08:33,090 --> 00:08:34,030
 ¡Kyros!
 
-145
+144
 00:08:50,110 --> 00:08:51,610
 ¿U-Un juguete?
 
-146
+145
 00:08:55,510 --> 00:08:59,120
 ¡Ese juguete ha huido
  con el rey-dasuyan!
 
-147
+146
 00:08:59,990 --> 00:09:01,590
 ¡Me convirtieron en juguete!
 
-148
+147
 00:09:01,590 --> 00:09:03,730
 ¿Qué está pasando?
 
-149
+148
 00:09:03,730 --> 00:09:05,100
 ¿Estaré soñando?
 
-150
+149
 00:09:08,430 --> 00:09:10,930
 ¡Rey Riku! ¡Soy yo, Kyros!
 
-151
+150
 00:09:10,930 --> 00:09:14,600
 Lo siento, es la primera vez 
 que escucho ese nombre.
 
-152
+151
 00:09:16,470 --> 00:09:21,110
 Nunca olvidaré que estoy en
  deuda contigo, juguete extraño.
 
-153
+152
 00:09:21,770 --> 00:09:25,680
 ¡Corran, Scarlett, Rebecca!
 
-154
+153
 00:09:25,680 --> 00:09:28,550
 ¡Espérenme en el lugar prometido!
 
-155
+154
 00:09:32,950 --> 00:09:36,220
 Nadie recuerda mi nombre.
 
-156
+155
 00:09:40,830 --> 00:09:43,700
 Debo llegar al campo de flores rojas.
 
-157
+156
 00:09:43,700 --> 00:09:45,930
 ¡Scarlett y Rebecca me están esperando!
 
-158
+157
 00:09:55,660 --> 00:09:57,580
 ¿Scarlett?
 
-159
+158
 00:10:01,080 --> 00:10:03,220
 ¡Scarlett!
 
-160
+159
 00:10:09,990 --> 00:10:11,690
 ¡Scarlett!
 
-161
+160
 00:10:21,270 --> 00:10:22,700
 ¡Alguien le ha disparado!
 
-162
+161
 00:10:22,700 --> 00:10:24,570
 ¡¿Otra vez ha sido el Ejército Real de Riku?!
 
-163
+162
 00:10:25,740 --> 00:10:30,440
 ¡¿Por qué?! ¡¿Por qué no me esperaste?!
 
-164
+163
 00:10:35,720 --> 00:10:37,280
 Es verdad.
 
-165
+164
 00:10:39,620 --> 00:10:42,920
 También debes haberme olvidado.
 
-166
+165
 00:10:44,920 --> 00:10:49,260
 Al igual que nuestra promesa
  y nuestros sentimientos...
 
-167
+166
 00:10:55,530 --> 00:10:57,540
 ¡Scarlett!
 
-168
+167
 00:11:00,140 --> 00:11:02,770
 ¡Scarlett, resiste!
 
-169
+168
 00:11:02,770 --> 00:11:05,950
 ¡Scarlett! ¡Scarlett!
 
-170
+169
 00:11:08,980 --> 00:11:11,250
 ¡Scarlett, resiste!
 
-171
+170
 00:11:14,250 --> 00:11:16,790
 No sé quién eres,
 
-172
+171
 00:11:18,190 --> 00:11:22,690
 pero mi hija me está esperando
  y tiene mucha hambre.
 
-173
+172
 00:11:22,690 --> 00:11:24,730
 Por favor...
 
-174
+173
 00:11:25,260 --> 00:11:27,340
 ¡Soy yo, Kyros!
 
-175
+174
 00:11:27,340 --> 00:11:30,140
 Por favor...
 
-176
+175
 00:11:36,680 --> 00:11:38,180
 Scarlett...
 
-177
+176
 00:11:38,780 --> 00:11:40,410
 ¡Scarlett!
 
-178
+177
 00:11:47,420 --> 00:11:51,920
 ¡Scarlett!
 
-179
+178
 00:11:52,760 --> 00:11:55,230
 ¿Qué clase de despedida es esta?
 
-180
+179
 00:11:55,230 --> 00:11:57,640
 ¡Esto es un infierno!
 
-181
+180
 00:11:57,640 --> 00:12:00,170
 ¡Es demasiado cruel!
 
-182
+181
 00:12:00,170 --> 00:12:06,000
 ¡Con estos brazos de hojalata, ni siquiera puedo sentir cómo la muerte enfría tu cuerpo!
 
-183
+182
 00:12:09,940 --> 00:12:17,380
 ¡Scarlett!
 
-184
+183
 00:12:50,820 --> 00:12:53,220
 Si nos obligan a tener que pelear,
 
-185
+184
 00:12:54,320 --> 00:12:58,260
 tal vez lo mejor sería atacar 
 cuanto antes a Doflamingo.
 
-186
+185
 00:13:01,390 --> 00:13:04,100
 Puede que Usoland y los demás 
 no lo consigan a tiempo.
 
-187
+186
 00:13:21,350 --> 00:13:25,720
 COLISEO CORRIDA
 
-188
+187
 00:14:15,440 --> 00:14:20,830
 Soldado-san, no puedo...
 
-189
+188
 00:14:21,220 --> 00:14:24,710
 Madre, tengo hambre.
 
-190
+189
 00:14:24,710 --> 00:14:26,610
 Iré a buscar algo de comer.
 
-191
+190
 00:14:27,310 --> 00:14:28,350
 Está bien.
 
-192
+191
 00:14:29,610 --> 00:14:33,250
 ¡Estoy tan enojada que ni 
 siquiera puedo moverme!
 
-193
+192
 00:14:33,350 --> 00:14:36,020
 CASA DE LOS JUGUETES
 
-194
+193
 00:14:43,060 --> 00:14:47,130
 U-Usopp, tú puedes.
 
-195
+194
 00:14:47,130 --> 00:14:50,640
 ¡Date prisa y provoca algo de pánico!
 
-196
+195
 00:14:50,640 --> 00:14:56,110
 ¡Usoland! ¡Usoland!
 
-197
+196
 00:14:51,040 --> 00:14:55,610
 PUERTO COMERCIAL SUBTERRÁNEO
 
-198
+197
 00:15:00,880 --> 00:15:03,150
 Se está librando una batalla intensa 
 en la Torre de los Oficiales.
 
-199
+198
 00:15:03,150 --> 00:15:06,720
 ¡Ánimo, Usopp, de los 
 Piratas del Sombrero de Paja!
 
-200
+199
 00:15:06,720 --> 00:15:09,280
 ¡No te conozco, pero 
 no te rindas, Usopp!
 
-201
+200
 00:15:09,280 --> 00:15:12,320
 ¡Si ganas, estaré 
 siempre en deuda contigo!
 
-202
+201
 00:15:12,320 --> 00:15:13,430
 ¡Ánimo!
 
-203
+202
 00:15:13,430 --> 00:15:14,690
 ¡Ánimo!
 
-204
+203
 00:15:14,690 --> 00:15:17,060
 ¡No quiero ser un juguete 
 el resto de mi vida!
 
-205
+204
 00:15:17,060 --> 00:15:20,100
 ¡Si me regresas a la normalidad, nunca más perseguiré a Sombrero de Paja!
 
-206
+205
 00:15:20,100 --> 00:15:22,530
 ¡Seré tu subordinado o lo que quieras!
 
-207
+206
 00:15:22,530 --> 00:15:23,600
 ¡Ánimo!
 
-208
+207
 00:15:23,600 --> 00:15:27,040
 ¡Te daré todo el dinero 
 que pidas, pero ayúdame!
 
-209
+208
 00:15:27,040 --> 00:15:30,380
 Trébol, date prisa y trae a Sugar al palacio.
 
-210
+209
 00:18:07,140 --> 00:18:09,410
 ¡S-Sugar está...!
 
-211
+210
 00:18:09,410 --> 00:18:11,270
 ¡Doffy, lo siento!
 
-212
+211
 00:18:16,010 --> 00:18:17,880
 ¡E-Ella ha...
 
-213
+212
 00:18:17,880 --> 00:18:20,380
 ...quedado...
 
-214
+213
 00:18:20,380 --> 00:18:22,610
 ...inconsciente!
 
-215
+214
 00:18:44,440 --> 00:18:46,710
 ¡¿Qué pudo haber pasado?!
 
-216
+215
 00:18:46,710 --> 00:18:48,150
 Los juguetes...
 
-217
+216
 00:18:48,150 --> 00:18:51,600
 ¡Los juguetes se están convirtiendo en humanos!
 
-218
+217
 00:18:55,120 --> 00:18:58,520
 ¡No, algunos de ellos 
 ni siquiera eran humanos!
 
-219
+218
 00:19:19,150 --> 00:19:22,040
 ¡Qué duro!
 
-220
+219
 00:19:23,710 --> 00:19:25,740
 ¡Palacio Real, respondan, por favor!
 
-221
+220
 00:19:29,110 --> 00:19:31,750
 ¡Informe urgente de Sebio, el Distrito del Sur!
 
-222
+221
 00:19:38,020 --> 00:19:40,020
 ¡Aquí desde Carta, el Distrito del Este!
 
-223
+222
 00:20:04,520 --> 00:20:06,850
 ¡Usoland!
 
-224
+223
 00:21:58,400 --> 00:22:00,570
 ¡Genial!
 
-225
+224
 00:22:13,310 --> 00:22:14,850
 ¡Sí!
 
-226
+225
 00:26:16,550 --> 00:26:17,960
 ¡Doflamingo-sama!
 
-227
+226
 00:26:31,190 --> 00:26:32,320
 ¡Malditos!
 
-228
+227
 00:26:32,320 --> 00:26:33,500
 ¡Fuego!
 
-229
+228
 00:26:39,080 --> 00:26:41,610
 COLISEO CORRIDA
 
-230
+229
 00:27:49,980 --> 00:27:52,550
 Mola
+
+230
+00:27:49,980 --> 00:27:52,550
+Shi
 
 231
 00:27:49,980 --> 00:27:52,550
-Shi
+Chibukai
 
 232
 00:27:49,980 --> 00:27:52,550
-Chibukai
+Fansub!
 
 233
 00:27:49,980 --> 00:27:52,550
-Fansub!
+Puño de garras de dragón.
 
 234
-00:27:49,980 --> 00:27:52,550
-Puño de garras de dragón.
+00:27:54,300 --> 00:27:56,640
+Mola
 
 235
 00:27:54,300 --> 00:27:56,640
-Mola
+Shi
 
 236
 00:27:54,300 --> 00:27:56,640
-Shi
+Chibukai
 
 237
 00:27:54,300 --> 00:27:56,640
-Chibukai
+Fansub!
 
 238
 00:27:54,300 --> 00:27:56,640
-Fansub!
-
-239
-00:27:54,300 --> 00:27:56,640
 Aliento...
 
-240
+239
 00:27:56,640 --> 00:27:59,480
 Mola
 
-241
+240
 00:27:56,640 --> 00:27:59,480
 Shi
 
-242
+241
 00:27:56,640 --> 00:27:59,480
 Chibukai
 
-243
+242
 00:27:56,640 --> 00:27:59,480
 Fansub!
 
-244
+243
 00:27:56,640 --> 00:27:59,480
 ...del dragón.
 
-245
+244
 00:28:06,960 --> 00:28:11,440
 ¡Vaya! ¡Un ataque increíble de Lucy!
 
-246
+245
 00:28:11,440 --> 00:28:13,240
 ¡El ring se derrumba!
 
-247
+246
 00:28:32,460 --> 00:28:34,760
 ¡Oigo mucho ruido ahí arriba!
 
-248
+247
 00:28:35,790 --> 00:28:38,200
 ¿Ya está siendo imprudente?

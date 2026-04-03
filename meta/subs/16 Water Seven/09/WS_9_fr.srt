@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -124,2261 +124,2249 @@ Ouais.
 On doit absolument choper Robin.
 
 30
+00:01:35,620 --> 00:01:39,680
+Tout va bien ! Allez, continuons d'avancer
+
+31
+00:01:39,940 --> 00:01:43,220
+un rayon d'espoir brille toujours dans nos cœurs.
+
+32
+00:01:43,360 --> 00:01:46,640
+Main dans la main, la force se transmettra !
+
+33
+00:01:46,730 --> 00:01:50,310
+Partons nous emparer de notre souhait !
+
+34
+00:01:57,870 --> 00:02:04,120
+Voguons sur les grandes vagues en joignant nos forces.
+
+35
+00:02:05,380 --> 00:02:11,920
+Allons vite dans la direction excitante, c'est le signal du départ.
+
+36
+00:02:12,590 --> 00:02:18,760
+C'est maintenant que nous partons, et après avoir levé l'ancre,
+
+37
+00:02:19,560 --> 00:02:26,640
+tranchons le vent arc-en-ciel, vers la mer de l'aventure !
+
+38
+00:02:26,690 --> 00:02:30,180
+C'est un voyage rempli de blessures,
+
+39
+00:02:30,230 --> 00:02:33,900
+mais l'important est là.
+
+40
+00:02:34,030 --> 00:02:37,980
+En cas de problème,
+
+41
+00:02:38,080 --> 00:02:39,990
+je serais toujours là pour te protéger.
+
+42
+00:02:41,080 --> 00:02:44,990
+Tout va bien ! Allez, continuons d'avancer
+
+43
+00:02:45,370 --> 00:02:48,450
+un rayon d'espoir brille toujours dans nos cœurs.
+
+44
+00:02:48,800 --> 00:02:51,960
+Si une tempête arrive,
+
+45
+00:02:52,080 --> 00:02:55,830
+nous attendrons le retour de la lumière en se serrant les coudes !
+
+46
+00:02:56,340 --> 00:02:59,550
+Si nous regroupons les bribes de rêves de chacun,
+
+47
+00:03:00,020 --> 00:03:03,180
+nous obtiendrons une carte menant vers le futur !
+
+48
+00:03:03,310 --> 00:03:06,350
+Alors réunissons-nous sous le même drapeau
+
+49
+00:03:06,770 --> 00:03:10,330
+et saisissons notre souhait !
+
+50
+00:03:10,330 --> 00:03:12,080
+À nous tous, nous ne formons qu'une...
+
+51
 00:03:30,970 --> 00:03:32,020
 Kalifa ?
 
-31
+52
 00:03:33,100 --> 00:03:34,880
 Oui, monsieur Icebarg ?
 
-32
+53
 00:03:35,310 --> 00:03:38,300
 Pardon, mais pourriez-vous
 me laisser seul un instant ?
 
-33
+54
 00:03:39,160 --> 00:03:40,220
 Bien sûr.
 
-34
+55
 00:03:40,500 --> 00:03:41,700
 Et aussi...
 
-35
+56
 00:03:42,590 --> 00:03:44,750
 Pourriez-vous appeler Pauly ?
 
-36
+57
 00:03:50,240 --> 00:03:51,000
 Pauly.
 
-37
+58
 00:03:51,150 --> 00:03:52,130
 Hm ?
 
-38
+59
 00:03:52,130 --> 00:03:54,880
 M. Icebarg demande à vous voir,
 c'est important.
 
-39
+60
 00:03:55,400 --> 00:03:56,450
 Moi ?
 
-40
+61
 00:03:56,650 --> 00:03:58,430
 Oui, vous seul.
 
-41
+62
 00:03:58,700 --> 00:04:02,240
 Je serai dans mon bureau,
 prévenez-moi s'il y a un problème.
 
-42
+63
 00:04:03,850 --> 00:04:04,960
 OK.
 
-43
+64
 00:04:06,240 --> 00:04:09,520
 De quoi peut-il bien vouloir
 s'entretenir avec toi, en privé,
 
-44
+65
 00:04:09,760 --> 00:04:11,300
 dans un moment pareil ?
 
-45
+66
 00:04:11,610 --> 00:04:12,520
 J'en sais rien.
 
-46
+67
 00:04:13,300 --> 00:04:14,650
 De son testament ?
 
-47
+68
 00:04:17,080 --> 00:04:20,450
 Il a dit que c'était important.
 Va vite le voir.
 
-48
+69
 00:04:21,600 --> 00:04:22,610
 Ouais...
 
-49
+70
 00:04:22,810 --> 00:04:25,700
 Et si on s'éloignait un peu de la porte,
 nous autres ?
 
-50
+71
 00:04:25,900 --> 00:04:27,150
 Oui, c'est mieux.
 
-51
+72
 00:04:32,300 --> 00:04:35,200
 Il va lui parler de quoi, à votre avis ?
 
-52
+73
 00:04:35,600 --> 00:04:39,050
 C'est M. Icebarg...
 Ce doit être assez important.
 
-53
+74
 00:04:39,410 --> 00:04:42,000
 Concentrons-nous plutôt sur les pirates.
 
-54
+75
 00:04:42,200 --> 00:04:43,010
 Oui.
 
-55
+76
 00:04:43,500 --> 00:04:47,430
 D'après les informations de Kalifa,
 ils sont sept, dans cet équipage.
 
-56
+77
 00:04:47,990 --> 00:04:49,880
 Le capitaine,
 Luffy au chapeau de paille,
 
-57
+78
 00:04:49,880 --> 00:04:52,430
 Zoro le chasseur de pirates
 et Nico Robin.
 
-58
+79
 00:04:52,700 --> 00:04:55,950
 Il y a aussi la fille
 qui est venue au quai n° 1 aujourd'hui
 
-59
+80
 00:04:55,950 --> 00:04:57,860
 et le type au long nez rond.
 
-60
+81
 00:04:58,250 --> 00:05:03,030
 Oui ! À part ça,
 il y en a deux autres, mais c'est tout !
 
-61
+82
 00:05:03,600 --> 00:05:06,040
 On se contrefiche,
 de connaître leur objectif.
 
-62
+83
 00:05:06,240 --> 00:05:09,460
 S'ils viennent ici, c'en est fini d'eux.
 
-63
+84
 00:05:10,100 --> 00:05:14,460
 On réduira tout l'équipage à néant !
 Rouhou !
 
-64
+85
 00:05:14,460 --> 00:05:15,860
 Ouais !
 
-65
+86
 00:05:18,570 --> 00:05:21,090
 D'accord, j'ai compris.
 
-66
+87
 00:05:21,760 --> 00:05:24,900
 Ça pourrait être très dangereux.
 
-67
+88
 00:05:25,290 --> 00:05:28,640
 Tu as bien réfléchi ?
 Je ne peux compter que sur toi.
 
-68
+89
 00:05:29,190 --> 00:05:30,870
 Tu veux bien t'en charger ?
 
-69
+90
 00:05:32,100 --> 00:05:34,900
 Vous me prenez pour qui ?
 Bien sûr que je m'en charge.
 
-70
+91
 00:05:37,980 --> 00:05:38,820
 Merci.
 
-71
+92
 00:05:39,620 --> 00:05:41,660
 Bon, j'y vais, alors.
 
-72
+93
 00:05:41,890 --> 00:05:42,740
 Bien.
 
-73
+94
 00:05:48,970 --> 00:05:50,670
 Vous avez fini de discuter ?
 
-74
+95
 00:05:50,890 --> 00:05:52,050
 Ouais.
 
-75
+96
 00:05:52,600 --> 00:05:53,690
 J'ai un truc à faire.
 
-76
+97
 00:05:54,150 --> 00:05:57,250
 Je dois quitter mon poste un petit moment. OK ?
 
-77
+98
 00:05:57,510 --> 00:06:01,370
 Pas de problème,
 on est quatre, ça suffit amplement.
 
-78
+99
 00:06:01,610 --> 00:06:02,750
 D'accord.
 
-79
+100
 00:06:04,000 --> 00:06:06,480
 Je vous confie M. Icebarg.
 
-80
+101
 00:06:16,810 --> 00:06:18,250
 Écoute-moi bien, Pauly.
 
-81
+102
 00:06:19,000 --> 00:06:21,300
 Dans mon cabinet, sous le bureau
 
-82
+103
 00:06:21,530 --> 00:06:24,200
 si tu soulèves le tapis,
 
-83
+104
 00:06:24,810 --> 00:06:26,610
 tu trouveras un coffre-fort.
 
-84
+105
 00:06:27,310 --> 00:06:28,030
 Le voilà.
 
-85
+106
 00:06:31,620 --> 00:06:34,560
 Je te donne le code, retiens-le bien.
 
-86
+107
 00:06:34,910 --> 00:06:37,480
 En premier,
 six vers la droite...
 
-87
+108
 00:06:46,590 --> 00:06:48,250
 Est-ce que vous êtes prêts ?
 
-88
+109
 00:06:48,510 --> 00:06:50,220
 Oui, nous sommes en place.
 
-89
+110
 00:06:50,600 --> 00:06:52,850
 Bon, je vais faire diversion.
 
-90
+111
 00:06:53,000 --> 00:06:54,220
 À mon signal,
 
-91
+112
 00:06:54,220 --> 00:06:57,400
 passez tous les quatre à l'action
 et exécutez la mission.
 
-92
+113
 00:06:57,400 --> 00:06:58,950
 Bien reçu.
 
-93
+114
 00:06:59,870 --> 00:07:01,860
 Tu es prête, Nico Robin ?
 
-94
+115
 00:07:02,270 --> 00:07:04,860
 Oui.
 Quand vous voulez.
 
-95
+116
 00:07:12,120 --> 00:07:13,250
 Une explosion !
 
-96
+117
 00:07:16,250 --> 00:07:18,850
 C'était quoi, cette explosion ?
 
-97
+118
 00:07:19,490 --> 00:07:20,850
 De l'eau !
 
-98
+119
 00:07:20,850 --> 00:07:23,050
 Mettez les blessés à l'abri !
 
-99
+120
 00:07:23,050 --> 00:07:25,050
 Vite, éteignez ce feu !
 
-100
+121
 00:07:25,490 --> 00:07:27,580
 Un... Un coup de canon ?
 
-101
+122
 00:07:28,010 --> 00:07:30,700
 Non, il n'y a pas eu de projectile.
 
-102
+123
 00:07:30,900 --> 00:07:32,100
 C'était une bombe ?
 
-103
+124
 00:07:32,550 --> 00:07:34,990
 Dépêchez-vous d'éteindre le feu !
 
-104
+125
 00:07:34,990 --> 00:07:36,740
 Aidez-nous !
 
-105
+126
 00:07:38,920 --> 00:07:40,910
 Inratable, comme signal.
 
-106
+127
 00:07:42,460 --> 00:07:43,470
 Allons-y.
 
-107
+128
 00:07:49,230 --> 00:07:51,550
 Explosion dans l'aile nord !
 
-108
+129
 00:07:51,710 --> 00:07:52,850
 Tout le monde va bien ?
 
-109
+130
 00:07:52,850 --> 00:07:54,750
 Qu'un homme sur deux
 reste à son poste !
 
-110
+131
 00:07:54,900 --> 00:07:56,950
 On n'a pas encore aperçu l'ennemi !
 
-111
+132
 00:07:57,780 --> 00:08:00,350
 Renforcez les défenses
 pour repousser l'attaque !
 
-112
+133
 00:08:00,350 --> 00:08:03,230
 Ne les laissez pas entrer
 dans le bâtiment !
 
-113
+134
 00:08:06,120 --> 00:08:08,040
 Vous allez bien, monsieur Icebarg ?
 
-114
+135
 00:08:08,240 --> 00:08:10,220
 Oui, ça m'a juste surpris.
 
-115
+136
 00:08:10,630 --> 00:08:12,550
 - Une silhouette !
 - Hein ?
 
-116
+137
 00:08:12,690 --> 00:08:14,510
 Il est déguisé, attrapez-le !
 
-117
+138
 00:08:14,510 --> 00:08:15,800
 Le voilà ?
 
-118
+139
 00:08:17,410 --> 00:08:18,770
 Laissez-le-moi !
 
-119
+140
 00:08:19,400 --> 00:08:20,500
 Je vais le pulvériser !
 
-120
+141
 00:08:20,500 --> 00:08:21,900
 Attendez !
 
-121
+142
 00:08:22,900 --> 00:08:24,400
 J'y crois pas...
 
-122
+143
 00:08:29,780 --> 00:08:31,900
 Par ici, on va le coincer !
 
-123
+144
 00:08:32,100 --> 00:08:33,410
 Il s'enfuira pas !
 
-124
+145
 00:08:33,600 --> 00:08:35,950
 Il est seul, rattrapons-le !
 
-125
+146
 00:08:36,330 --> 00:08:38,330
 Amène-toi, pirate assassin !
 
-126
+147
 00:08:55,800 --> 00:08:57,520
 Il grimpe avec son fouet !
 
-127
+148
 00:09:04,570 --> 00:09:07,860
 Tu pensais que les toits
 seraient déserts ?
 
-128
+149
 00:09:08,120 --> 00:09:10,880
 Ne sous-estime pas
 les artisans de Galley-La.
 
-129
+150
 00:09:11,500 --> 00:09:14,660
 T'as osé attenter à la vie
 de notre patron.
 
-130
+151
 00:09:14,900 --> 00:09:16,950
 Fais ta prière, sale pirate.
 
-131
+152
 00:09:17,500 --> 00:09:20,120
 Ce que tu as fait est impardonnable.
 
-132
+153
 00:09:21,550 --> 00:09:25,730
 Arrêtez ça. Vous ne faites pas le poids, face à moi.
 
-133
+154
 00:09:27,750 --> 00:09:29,000
 Il y en a deux par là !
 
-134
+155
 00:09:29,000 --> 00:09:30,690
 À l'entrée de derrière, vite !
 
-135
+156
 00:09:33,750 --> 00:09:35,480
 Prenons-les en tenailles !
 
-136
+157
 00:09:35,480 --> 00:09:37,070
 Les laissez pas entrer !
 
-137
+158
 00:09:37,220 --> 00:09:39,060
 Capturons-les en vitesse.
 
-138
+159
 00:09:45,500 --> 00:09:48,850
 Tu as les plans du bâtiment en tête,
 Nico Robin ?
 
-139
+160
 00:09:49,150 --> 00:09:50,110
 Oui.
 
-140
+161
 00:09:54,600 --> 00:09:56,870
 C'est la panique, chez les artisans.
 
-141
+162
 00:09:56,870 --> 00:10:00,450
 Oui, il y a un sacré grabuge.
 
-142
+163
 00:10:02,910 --> 00:10:06,000
 On fait quoi ? On y va ?
 
-143
+164
 00:10:07,920 --> 00:10:09,380
 Ben, où est Luffy ?
 
-144
+165
 00:10:09,380 --> 00:10:11,090
 Quoi ?
 
-145
+166
 00:10:12,140 --> 00:10:16,500
 On lui avait pourtant dit
 de ne pas foncer tête baissée,
 
-146
+167
 00:10:16,750 --> 00:10:20,010
 à cet imbécile de capitaine !
 
-147
+168
 00:10:21,320 --> 00:10:22,400
 Trop tard.
 
-148
+169
 00:10:23,510 --> 00:10:26,500
 Ils sont devant l'entrée de derrière,
 attrapez-les !
 
-149
+170
 00:10:26,500 --> 00:10:28,690
 Coinçons-les,
 ils ne s'échapperont pas !
 
-150
+171
 00:10:34,970 --> 00:10:39,400
 Vous êtes culottés, de vous pointer ici alors qu'on monte tous la garde.
 
-151
+172
 00:10:39,540 --> 00:10:41,850
 On va vous montrer
 ce que vaut Galley-La !
 
-152
+173
 00:10:42,070 --> 00:10:46,130
 En levant la main sur M. Icebarg,
 vous avez signé votre arrêt de mort !
 
-153
+174
 00:10:46,750 --> 00:10:47,630
 Rendez-vous !
 
-154
+175
 00:10:50,500 --> 00:10:52,880
 Vous êtes faits comme des rats.
 
-155
+176
 00:10:53,150 --> 00:10:55,150
 Capitulez et enlevez vos masques !
 
-156
+177
 00:10:55,410 --> 00:10:58,880
 On va vous utiliser comme appâts
 pour attirer vos complices.
 
-157
+178
 00:10:58,880 --> 00:11:00,010
 Bande d'assassins.
 
-158
+179
 00:11:09,840 --> 00:11:11,090
 Il prépare quelque chose !
 
-159
+180
 00:11:11,350 --> 00:11:12,820
 Feu !
 
-160
+181
 00:11:31,410 --> 00:11:33,440
 - Ils ont disparu ?
 - Impossible !
 
-161
+182
 00:11:33,640 --> 00:11:34,760
 Ben alors ?
 
-162
+183
 00:11:34,960 --> 00:11:37,790
 C'est pas vrai, ils sont passés où ?
 
-163
+184
 00:11:45,650 --> 00:11:46,770
 Hé, ça va ?
 
-164
+185
 00:11:47,540 --> 00:11:50,750
 Quelle force...
 C'est qui, ce type au fouet ?
 
-165
+186
 00:11:51,400 --> 00:11:53,730
 Il arrive à se déplacer dans les airs...
 
-166
+187
 00:11:54,410 --> 00:11:55,510
 Tu rigoles ?
 
-167
+188
 00:11:56,220 --> 00:11:58,570
 Il se déplace dans les airs ?
 
-168
+189
 00:11:59,600 --> 00:12:03,290
 Vraiment...
 Vous n'êtes pas raisonnables.
 
-169
+190
 00:12:07,050 --> 00:12:08,500
 Il descend !
 
-170
+191
 00:12:09,140 --> 00:12:10,380
 Pas de Lune !
 
-171
+192
 00:12:13,310 --> 00:12:16,340
 Il recommence !
 Il se déplace dans les airs !
 
-172
+193
 00:12:19,180 --> 00:12:20,770
 Ronces Road !
 
-173
+194
 00:12:30,000 --> 00:12:33,320
 Je vous avais bien dit
 que vous ne feriez pas le poids.
 
-174
+195
 00:12:33,920 --> 00:12:35,230
 Ah, le voilà !
 
-175
+196
 00:12:35,430 --> 00:12:38,280
 La cour !
 Il plonge dedans, encerclez-la !
 
-176
+197
 00:12:38,710 --> 00:12:41,430
 Vite, par ici !
 On va le devancer et le coincer !
 
-177
+198
 00:12:41,430 --> 00:12:42,380
 Ouais !
 
-178
+199
 00:12:46,000 --> 00:12:47,580
 Ce doit être ça.
 
-179
+200
 00:12:48,640 --> 00:12:49,800
 Tiens...
 
-180
+201
 00:12:50,580 --> 00:12:54,350
 C'est à M. Icebarg,
 ce que tu tiens là, non ?
 
-181
+202
 00:12:55,460 --> 00:12:57,300
 Donne-nous ça bien gentiment.
 
-182
+203
 00:13:00,470 --> 00:13:03,450
 Tu n'as aucune idée
 de la valeur de ces documents.
 
-183
+204
 00:13:06,340 --> 00:13:08,000
 Qui êtes-vous ?
 
-184
+205
 00:13:08,310 --> 00:13:10,060
 Vous sortez d'où ?
 
-185
+206
 00:13:11,280 --> 00:13:12,500
 Nous venons des ténèbres.
 
-186
+207
 00:13:12,620 --> 00:13:17,250
 Même si au final, nous œuvrons pour la justice.
 
-187
+208
 00:13:17,510 --> 00:13:21,820
 Nous sommes l'organisation secrète
 Cipher Pol 9.
 
-188
+209
 00:13:23,500 --> 00:13:25,370
 Vous êtes passés par où ?
 
-189
+210
 00:13:25,710 --> 00:13:28,900
 Normalement, vous auriez dû tomber
 sur des gars de la maison.
 
-190
+211
 00:13:29,100 --> 00:13:30,330
 Ce n'est pas impossible.
 
-191
+212
 00:13:31,540 --> 00:13:35,170
 On en a peut-être croisés. Ou pas.
 
-192
+213
 00:13:36,640 --> 00:13:40,130
 Ils ne m'ont pas laissé
 un souvenir impérissable.
 
-193
+214
 00:13:42,070 --> 00:13:46,350
 Ce n'est donc pas
 une simple tentative d'assassinat.
 
-194
+215
 00:13:46,510 --> 00:13:50,400
 Si je me souviens bien,
 on n'a jamais dit que c'était notre but.
 
-195
+216
 00:13:50,580 --> 00:13:51,560
 Assez bavassé,
 
-196
+217
 00:13:51,760 --> 00:13:55,480
 donne-nous bien gentiment
 les documents de M. Icebarg.
 
-197
+218
 00:13:55,480 --> 00:13:59,650
 Et puis,
 comme tu as assisté à tout cela,
 
-198
+219
 00:14:00,570 --> 00:14:02,500
 on va devoir te supprimer.
 
-199
+220
 00:14:05,260 --> 00:14:07,380
 Oui, au nom de la justice,
 
-200
+221
 00:14:07,890 --> 00:14:10,970
 nous allons te tuer, ici et maintenant.
 
-201
+222
 00:14:13,030 --> 00:14:15,370
 Et les deux qui ont disparu ?
 
-202
+223
 00:14:16,060 --> 00:14:18,330
 Rien, toujours aucune trace d'eux !
 
-203
+224
 00:14:18,520 --> 00:14:19,850
 Et dans le bâtiment ?
 
-204
+225
 00:14:20,250 --> 00:14:22,550
 Les fenêtres et les portes sont gardées.
 
-205
+226
 00:14:22,550 --> 00:14:23,800
 Ils n'ont pas pu entrer.
 
-206
+227
 00:14:24,240 --> 00:14:27,120
 Bon sang, les maudits pirates !
 Où sont-ils passés ?
 
-207
+228
 00:14:27,120 --> 00:14:29,000
 Ils doivent se planquer pas loin.
 
-208
+229
 00:14:29,150 --> 00:14:32,600
 Cherchons encore une fois,
 on doit les capturer, vous m'entendez ?
 
-209
+230
 00:14:32,600 --> 00:14:34,230
 Ouais !
 
-210
+231
 00:14:37,950 --> 00:14:39,780
 C'est de l'autre côté.
 
-211
+232
 00:14:41,610 --> 00:14:44,080
 Bien.
 Vas-y, pousse.
 
-212
+233
 00:14:51,840 --> 00:14:53,250
 Pour une surprise...
 
-213
+234
 00:14:53,710 --> 00:14:55,540
 Je m'attendais à vous voir débarquer,
 
-214
+235
 00:14:56,690 --> 00:14:58,600
 mais pas vraiment par ici.
 
-215
+236
 00:14:59,000 --> 00:15:01,000
 Vous avez fait comme ça, hier aussi ?
 
-216
+237
 00:15:01,460 --> 00:15:03,500
 Pourtant, il n'y a pas de porte.
 
-217
+238
 00:15:03,650 --> 00:15:05,250
 J'ai mangé le Fruit du Portier.
 
-218
+239
 00:15:05,600 --> 00:15:09,700
 Peu importe l'épaisseur du mur,
 ce que je touche se transforme en porte.
 
-219
+240
 00:15:09,930 --> 00:15:13,490
 Du moment qu'il y a un mur,
 je peux entrer n'importe où.
 
-220
+241
 00:15:17,580 --> 00:15:19,850
 Pourquoi ?
 On n'a pas reçu le signal.
 
-221
+242
 00:15:19,850 --> 00:15:23,670
 S'il arrive à parler,
 c'est qu'il a encore trop de forces.
 
-222
+243
 00:15:24,200 --> 00:15:28,550
 Un grand cuisinier
 doit bien préparer ses ingrédients.
 
-223
+244
 00:15:28,780 --> 00:15:31,420
 Je m'assure simplement
 que rien ne perturbera
 
-224
+245
 00:15:31,420 --> 00:15:34,550
 le bon déroulement de notre plan
 jusqu'au moment du signal.
 
-225
+246
 00:15:34,750 --> 00:15:39,210
 Il faut savoir parer à tous les imprévus
 quand on est un pro.
 
-226
+247
 00:15:39,510 --> 00:15:45,760
 C'est donc ainsi... que le CP9 procède ?
 
-227
+248
 00:15:47,390 --> 00:15:50,930
 Quelle perspicacité.
 C'est tout à fait ça.
 
-228
+249
 00:15:54,540 --> 00:15:57,950
 Je m'en veux d'avoir accusé
 le petit au chapeau de paille.
 
-229
+250
 00:15:58,610 --> 00:16:01,920
 Au final, il n'avait vraiment
 rien à voir avec tout ça.
 
-230
+251
 00:16:03,530 --> 00:16:05,700
 Ne vous en faites donc pas tant.
 
-231
+252
 00:16:06,000 --> 00:16:10,280
 Vous m'avez bien vue hier soir,
 votre témoignage n'est pas faux en soi.
 
-232
+253
 00:16:14,460 --> 00:16:17,250
 Ça faisait aussi partie de votre plan ?
 
-233
+254
 00:16:17,250 --> 00:16:18,400
 Oui.
 
-234
+255
 00:16:18,690 --> 00:16:23,050
 En te laissant en vie,
 tu pouvais ainsi accuser les pirates.
 
-235
+256
 00:16:23,500 --> 00:16:26,590
 Et puis,
 si on t'avait tué tout de suite,
 
-236
+257
 00:16:26,980 --> 00:16:29,200
 nous n'aurions pas pu mettre la main
 
-237
+258
 00:16:29,550 --> 00:16:33,900
 sur les plans d'un certain navire.
 
-238
+259
 00:16:34,290 --> 00:16:37,020
 Ces plans sont transmis
 de génération en génération,
 
-239
+260
 00:16:37,220 --> 00:16:40,700
 d'un charpentier à l'autre,
 dans le plus grand secret.
 
-240
+261
 00:16:41,310 --> 00:16:44,450
 En mettant tes jours en danger,
 
-241
+262
 00:16:44,710 --> 00:16:48,280
 on te poussait ainsi
 à confier ces plans à quelqu'un d'autre.
 
-242
+263
 00:16:49,020 --> 00:16:50,600
 Tu as choisi de les donner
 
-243
+264
 00:16:50,600 --> 00:16:53,740
 à l'un des contremaîtres du quai n° 1,
 Pauly.
 
-244
+265
 00:16:54,750 --> 00:16:58,400
 Mes acolytes sont en train
 de lui rendre une petite visite.
 
-245
+266
 00:16:58,710 --> 00:17:04,170
 Alors tout ceci...
 était un coup monté par vous ?
 
-246
+267
 00:17:05,660 --> 00:17:08,100
 Ce plan était parfaitement bien huilé.
 
-247
+268
 00:17:08,100 --> 00:17:08,980
 Oui.
 
-248
+269
 00:17:09,560 --> 00:17:12,680
 Je me charge des deux charpentiers
 qui sont dehors.
 
-249
+270
 00:17:13,440 --> 00:17:18,250
 Nico Robin,
 je te laisse t'occuper de cet homme.
 
-250
+271
 00:17:18,600 --> 00:17:22,600
 Quand ils auront pris les plans à Pauly,
 les deux autres nous feront signe.
 
-251
+272
 00:17:25,360 --> 00:17:28,570
 À ce moment-là,
 tu pourras tuer Icebarg.
 
-252
+273
 00:17:29,700 --> 00:17:32,650
 Il n'y aura plus qu'à éliminer Pauly, qui en sait trop,
 
-253
+274
 00:17:32,650 --> 00:17:34,250
 et notre mission sera accomplie.
 
-254
+275
 00:17:34,800 --> 00:17:39,400
 Les pirates au chapeau de paille
 seront blâmés pour toute cette affaire.
 
-255
+276
 00:17:44,420 --> 00:17:45,660
 Vraiment,
 
-256
+277
 00:17:45,660 --> 00:17:49,010
 pourquoi est-ce qu'il faut toujours qu'il n'en fasse qu'à sa tête ?
 
-257
+278
 00:17:49,760 --> 00:17:51,550
 Et ça te surprend encore ?
 
-258
+279
 00:17:51,750 --> 00:17:52,800
 Enfin bon,
 
-259
+280
 00:17:53,100 --> 00:17:56,220
 vu la pagaille qui règne là-bas, Robin y est peut-être déjà.
 
-260
+281
 00:17:56,580 --> 00:18:00,000
 On fait quoi ?
 On doit faire attention.
 
-261
+282
 00:18:00,490 --> 00:18:05,190
 Oui, mais quand on y pense,
 c'est peut-être un coup de chance.
 
-262
+283
 00:18:05,400 --> 00:18:07,400
 Quand Luffy attaque,
 
-263
+284
 00:18:07,600 --> 00:18:10,560
 c'est pas le genre
 à s'infiltrer discrètement.
 
-264
+285
 00:18:10,760 --> 00:18:11,750
 Non, pas vraiment.
 
-265
+286
 00:18:11,750 --> 00:18:12,880
 Pas du tout.
 
-266
+287
 00:18:13,100 --> 00:18:16,930
 Donc il a dû foncer dans le tas,
 en passant par-devant.
 
-267
+288
 00:18:16,930 --> 00:18:20,140
 Il doit juste courir dans tous les sens
 sans savoir où aller
 
-268
+289
 00:18:20,140 --> 00:18:22,600
 avec tous les gardes à ses trousses,
 non ?
 
-269
+290
 00:18:22,760 --> 00:18:24,000
 Oui, ça colle bien.
 
-270
+291
 00:18:24,000 --> 00:18:25,130
 Je suis d'accord.
 
-271
+292
 00:18:25,330 --> 00:18:28,010
 N'est-ce pas ?
 Pour les charpentiers,
 
-272
+293
 00:18:28,010 --> 00:18:30,550
 Luffy est le chef,
 le coupable principal.
 
-273
+294
 00:18:30,700 --> 00:18:34,690
 Avec le chef qui se pointe,
 ils vont tous lui courir après.
 
-274
+295
 00:18:34,900 --> 00:18:37,110
 Donc la garde devant le bâtiment
 
-275
+296
 00:18:37,110 --> 00:18:39,890
 doit être relâchée, maintenant.
 
-276
+297
 00:18:40,380 --> 00:18:42,140
 On tient l'occasion idéale
 
-277
+298
 00:18:42,140 --> 00:18:45,100
 de se mêler à la foule
 en profitant de la pagaille.
 
-278
+299
 00:18:45,420 --> 00:18:49,940
 Je vois, grâce à Luffy,
 on a une occasion en or pour entrer.
 
-279
+300
 00:18:50,570 --> 00:18:53,670
 C'est clair !
 Donc on peut y aller tranquillement ?
 
-280
+301
 00:18:54,000 --> 00:18:55,610
 Passons par-dessus la haie.
 
-281
+302
 00:18:55,610 --> 00:18:57,600
 C'est parti, vous êtes prêts ?
 
-282
+303
 00:18:58,470 --> 00:18:59,540
 On entre !
 
-283
+304
 00:18:59,540 --> 00:19:00,830
 Suivons Luffy !
 
-284
+305
 00:19:15,010 --> 00:19:17,970
 La garde n'est pas du tout relâchée !
 
-285
+306
 00:19:18,570 --> 00:19:21,480
 Ah, la vache... Je suis coincé.
 
-286
+307
 00:19:21,640 --> 00:19:25,240
 J'ai pris trop d'élan
 pour atteindre le bâtiment...
 
-287
+308
 00:19:26,200 --> 00:19:28,550
 Je peux plus bouger.
 
-288
+309
 00:19:29,900 --> 00:19:32,130
 J'arrive pas à me décoincer.
 
-289
+310
 00:19:33,050 --> 00:19:35,070
 Mais je dois me dépêcher.
 
-290
+311
 00:19:35,350 --> 00:19:39,390
 Attends-moi, Robin !
 
-291
+312
 00:19:57,890 --> 00:19:59,850
 Il s'est passé quoi ?
 
-292
+313
 00:20:01,820 --> 00:20:04,210
 Au secours ! Venez vite
 
-293
+314
 00:20:04,210 --> 00:20:06,470
 au deuxième étage devant la chambre !
 
-294
+315
 00:20:06,470 --> 00:20:09,690
 Tous les gardes sont au tapis !
 À l'aide, quelqu'un !
 
-295
+316
 00:20:10,190 --> 00:20:11,820
 Dis pas n'importe quoi !
 
-296
+317
 00:20:12,790 --> 00:20:13,710
 M. Tilestone...
 
-297
+318
 00:20:13,710 --> 00:20:16,210
 Kaku et Lucci montent la garde !
 
-298
+319
 00:20:16,410 --> 00:20:17,200
 Eh bien...
 
-299
+320
 00:20:17,400 --> 00:20:18,950
 Quoi ?
 
-300
+321
 00:20:29,830 --> 00:20:31,670
 Kaku ? Lucci !
 
-301
+322
 00:20:32,340 --> 00:20:33,500
 Eh bah...
 
-302
+323
 00:20:33,500 --> 00:20:36,130
 Ça n'arrête vraiment pas.
 Et toujours pas de signal ?
 
-303
+324
 00:20:36,720 --> 00:20:38,840
 Pourriture...
 
-304
+325
 00:20:39,610 --> 00:20:42,100
 Qu'est-ce que t'as fait ?
 
-305
+326
 00:20:42,840 --> 00:20:44,770
 Ce que tu es bruyant.
 
-306
+327
 00:20:44,770 --> 00:20:48,730
 T'as pas intérêt
 à avoir touché à M. Icebarg !
 
-307
+328
 00:20:49,200 --> 00:20:51,150
 Va vérifier toi-même.
 
-308
+329
 00:20:51,600 --> 00:20:53,050
 Metallium.
 
-309
+330
 00:21:07,000 --> 00:21:08,800
 Il a détruit l'énorme masse !
 
-310
+331
 00:21:09,100 --> 00:21:10,710
 Dis-moi que je rêve !
 
-311
+332
 00:21:11,540 --> 00:21:12,420
 Saleté !
 
-312
+333
 00:21:13,360 --> 00:21:15,020
 Enlève tes sales pattes de là !
 
-313
+334
 00:21:15,280 --> 00:21:17,200
 Tu es fier de ta force, c'est ça ?
 
-314
+335
 00:21:17,880 --> 00:21:22,340
 J'arrive pas à bouger !
 Il est plus fort que moi ? Impossible !
 
-315
+336
 00:21:39,350 --> 00:21:43,410
 Il a aplati les contremaîtres...
 Tous les trois...
 
-316
+337
 00:21:49,220 --> 00:21:51,910
 Vite, appelons des renforts !
 
-317
+338
 00:21:50,890 --> 00:21:51,910
 Incision.
 
-318
+339
 00:21:57,750 --> 00:21:58,720
 Ils sont là !
 
-319
+340
 00:21:58,720 --> 00:21:59,930
 C'est Roronoa Zoro !
 
-320
+341
 00:22:00,030 --> 00:22:01,960
 Le voilà enfin !
 
-321
+342
 00:22:01,960 --> 00:22:03,180
 Ne le laissez pas filer !
 
-322
+343
 00:22:03,690 --> 00:22:05,050
 C'est la fille de ce midi.
 
-323
+344
 00:22:05,050 --> 00:22:06,170
 Attrapez-les !
 
-324
+345
 00:22:06,370 --> 00:22:08,750
 Attends,
 pourquoi Luffy n'est pas là ?
 
-325
+346
 00:22:08,820 --> 00:22:11,140
 Ça, je me demande bien !
 
-326
+347
 00:22:12,870 --> 00:22:14,050
 On fait quoi ?
 
-327
+348
 00:22:14,290 --> 00:22:18,000
 C'est trop tard, on passera
 pour les coupables de toute façon.
 
-328
+349
 00:22:18,210 --> 00:22:20,490
 On doit passer à l'offensive.
 
-329
+350
 00:22:22,400 --> 00:22:24,110
 Attends Zoro, tu fais quoi ?
 
-330
+351
 00:22:24,800 --> 00:22:27,650
 Ça n'avance à rien
 de courir en rond comme ça.
 
-331
+352
 00:22:27,850 --> 00:22:31,580
 Autant y aller franco,
 foncer à l'intérieur et chercher Robin.
 
-332
+353
 00:22:31,580 --> 00:22:32,560
 Quoi ?
 
-333
+354
 00:22:32,970 --> 00:22:36,560
 Mais ce sont juste des charpentiers,
 pas nos vrais ennemis.
 
-334
+355
 00:22:36,560 --> 00:22:38,800
 Ça ira.
 J'utiliserai le plat des lames !
 
-335
+356
 00:22:40,650 --> 00:22:43,500
 Dégagez le passage !
 
-336
+357
 00:22:48,970 --> 00:22:51,020
 Ils vont y rester, là !
 
-337
+358
 00:23:09,860 --> 00:23:13,330
 Eh bien, quelle surprise.
 
-338
+359
 00:23:13,630 --> 00:23:17,100
 Honnêtement,
 je ne pensais pas te rencontrer ici,
 
-339
+360
 00:23:17,500 --> 00:23:18,880
 Nico Robin.
 
-340
+361
 00:23:19,600 --> 00:23:21,400
 Nous nous sommes déjà vus ?
 
-341
+362
 00:23:21,700 --> 00:23:23,850
 Non.
 C'est la première fois, ce soir.
 
-342
+363
 00:23:24,190 --> 00:23:28,350
 Mais ça fait bien longtemps
 que je voulais te rencontrer.
 
-343
+364
 00:23:30,010 --> 00:23:33,980
 Pour ne pas t'oublier,
 j'ai gardé ton affiche dans ma chambre.
 
-344
+365
 00:23:34,290 --> 00:23:35,940
 Je vous la dédicace ?
 
-345
+366
 00:23:37,710 --> 00:23:40,070
 Merci, ça ira.
 
-346
+367
 00:23:42,520 --> 00:23:43,740
 Vous voulez me tuer ?
 
-347
+368
 00:23:44,480 --> 00:23:45,500
 Oui,
 
-348
+369
 00:23:45,910 --> 00:23:47,740
 avant que tu ne détruises le monde.
 
-349
+370
 00:23:49,580 --> 00:23:51,910
 Pourquoi cherches-tu les ponéglyphes ?
 
-350
+371
 00:23:53,370 --> 00:23:55,090
 La recherche des ponéglyphes,
 
-351
+372
 00:23:55,290 --> 00:24:00,550
 leur étude ou leur lecture sont interdites
 depuis très longtemps par le Gouvernement.
 
-352
+373
 00:24:00,900 --> 00:24:02,840
 Tu devrais au moins savoir ça.
 
-353
+374
 00:24:04,570 --> 00:24:07,300
 Vous connaissez
 l'existence des ponéglyphes.
 
-354
+375
 00:24:07,640 --> 00:24:10,260
 Ce n'est pas un crime en soi.
 
-355
+376
 00:24:10,500 --> 00:24:14,800
 Mais la seule personne au monde
 capable de lire ces signes,
 
-356
+377
 00:24:15,270 --> 00:24:16,730
 c'est toi.
 
-357
+378
 00:24:18,100 --> 00:24:22,400
 C'est pour ça qu'à seulement huit ans,
 le Gouvernement a mis ta tête à prix
 
-358
+379
 00:24:22,560 --> 00:24:25,050
 pour une somme pareille.
 
-359
+380
 00:24:25,510 --> 00:24:28,200
 C'est parce que tu es la seule personne
 
-360
+381
 00:24:28,200 --> 00:24:31,770
 qui soit en mesure de ressusciter les armes antiques.
 
-361
+382
 00:24:34,330 --> 00:24:37,040
 Je vois,
 vous savez aussi pour ces armes.
 
-362
+383
 00:24:39,560 --> 00:24:40,750
 Et avec ça,
 
-363
+384
 00:24:41,590 --> 00:24:44,360
 le CP9 existe donc bel et bien.
 
-364
+385
 00:24:44,840 --> 00:24:48,410
 Au final, tu as abandonné
 les pirates au chapeau de paille
 
-365
+386
 00:24:48,410 --> 00:24:50,440
 pour prêter main-forte au Gouvernement.
 
-366
+387
 00:24:50,840 --> 00:24:54,450
 Plutôt surprenant, quand on sait
 qu'il te traque depuis 20 ans.
 
-367
+388
 00:24:54,650 --> 00:24:58,250
 Mais bon,
 ce ne sont pas mes oignons.
 
-368
+389
 00:24:59,040 --> 00:25:02,110
 Si tu ressuscites les armes antiques
 grâce aux ponéglyphes,
 
-369
+390
 00:25:02,110 --> 00:25:05,020
 peu importe leur utilisation,
 bonne ou mauvaise.
 
-370
+391
 00:25:05,300 --> 00:25:07,210
 Le résultat sera le même.
 
-371
+392
 00:25:08,390 --> 00:25:12,360
 Une fois que les gens ont des armes,
 la paix n'est plus possible.
 
-372
+393
 00:25:12,660 --> 00:25:15,050
 Les armes détruisent le monde.
 
-373
+394
 00:25:16,370 --> 00:25:20,500
 Les vestiges du passé
 n'ont pas leur place dans le présent.
 
-374
+395
 00:25:23,420 --> 00:25:26,150
 Oui, je suis d'accord avec vous.
 
-375
+396
 00:25:26,450 --> 00:25:28,550
 Mais ne me faites pas la morale.
 
-376
+397
 00:25:28,900 --> 00:25:31,800
 Vous croyez pouvoir comprendre
 mes motivations,
 
-377
+398
 00:25:31,800 --> 00:25:35,490
 vous, un inconnu ?
 Vous n'avez pas le droit de me juger.
 
-378
+399
 00:25:37,280 --> 00:25:39,710
 Non. Détrompe-toi.
 
-379
+400
 00:25:40,310 --> 00:25:43,940
 Dans un sens,
 nous sommes dans la même situation.
 
-380
+401
 00:25:45,190 --> 00:25:46,400
 En effet,
 
-381
+402
 00:25:47,410 --> 00:25:50,570
 je possède les plans de Pluton,
 une arme antique.
 
-382
+403
 00:25:51,570 --> 00:25:53,400
 Les plans d'une arme ?
 
-383
+404
 00:25:53,640 --> 00:25:54,980
 Pluton est un cuirassé
 
-384
+405
 00:25:55,120 --> 00:25:58,540
 construit il y a très longtemps ici même,
 sur cette île.
 
-385
+406
 00:26:00,410 --> 00:26:05,100
 Apeurés à l'idée d'avoir créé des armes
 bien trop puissantes,
 
-386
+407
 00:26:05,310 --> 00:26:08,810
 les ingénieurs d'alors
 ont décidé de prévoir, au cas où,
 
-387
+408
 00:26:08,810 --> 00:26:11,000
 une chose capable de rivaliser
 avec ces armes.
 
-388
+409
 00:26:11,330 --> 00:26:14,400
 Ce sont ses plans
 que nous nous transmettons depuis.
 
-389
+410
 00:26:15,040 --> 00:26:16,360
 Le Gouvernement les veut
 
-390
+411
 00:26:16,560 --> 00:26:20,270
 et il a finalement décidé
 de recourir à la force pour les obtenir.
 
-391
+412
 00:26:22,290 --> 00:26:25,810
 Et toi, tu te joins à ces agents
 sans savoir ce qu'ils manigancent ?
 
-392
+413
 00:26:25,810 --> 00:26:27,730
 J'en reste sans voix.
 
-393
+414
 00:26:28,260 --> 00:26:31,200
 L'homme qui m'a confié ces plans, Tom,
 
-394
+415
 00:26:31,450 --> 00:26:33,280
 était obnubilé par une petite fille,
 
-395
+416
 00:26:33,890 --> 00:26:37,200
 la seule survivante
 de l'incident d'Ohara, il y a 20 ans.
 
-396
+417
 00:26:37,560 --> 00:26:39,350
 Malgré son jeune âge,
 
-397
+418
 00:26:39,610 --> 00:26:43,100
 elle était dangereuse car elle possédait
 le savoir des démons d'Ohara.
 
-398
+419
 00:26:43,370 --> 00:26:48,090
 Conformément à la volonté des anciens,
 j'ai le devoir de t'arrêter.
 
-399
+420
 00:26:48,510 --> 00:26:51,550
 Le Gouvernement
 ayant découvert leur existence,
 
-400
+421
 00:26:52,180 --> 00:26:55,360
 je devrais brûler ces plans.
 
-401
+422
 00:26:55,360 --> 00:26:56,750
 Mais je ne peux pas,
 
-402
+423
 00:26:56,750 --> 00:27:00,470
 car tant que tu vivras, les armes antiques
 resteront une menace !
 
-403
+424
 00:27:14,500 --> 00:27:17,200
 Ce sont là vos dernières paroles ?
 
-404
+425
 00:27:18,570 --> 00:27:20,480
 Désolée de vous contredire.
 
-405
+426
 00:27:20,900 --> 00:27:23,900
 Me tuer empêcherait peut-être
 le retour de ces armes,
 
-406
+427
 00:27:24,200 --> 00:27:28,780
 mais si on vous dérobe les fameux plans,
 ça reviendra au même, au final.
 
-407
+428
 00:27:34,260 --> 00:27:35,380
 Certes.
 
-408
+429
 00:27:36,430 --> 00:27:39,350
 Mais je ne t'ai pas tout dit.
 
-409
+430
 00:27:41,780 --> 00:27:44,270
 C'est vous,
 qui êtes tombés dans mon piège.
 
-410
+431
 00:27:55,750 --> 00:27:57,520
 Voilà ce qu'il me faut !
 
-411
+432
 00:28:05,910 --> 00:28:08,850
 Enfin libre. J'étais bien coincé.
 
-412
+433
 00:28:09,050 --> 00:28:11,580
 Bon allez,
 cette fois, à l'attaque.
 
-413
+434
 00:28:11,580 --> 00:28:13,730
 Je dois mettre la main sur Robin.
 
-414
+435
 00:28:13,730 --> 00:28:16,750
 Gum Gum...
 
-415
+436
 00:28:17,270 --> 00:28:20,100
 Rocket !
 
-416
+437
 00:28:37,490 --> 00:28:40,390
 Tu n'es pas de taille
 face à nos techniques.
 
-417
+438
 00:28:43,700 --> 00:28:46,790
 Allez, donne-nous ça en vitesse.
 
-418
+439
 00:28:47,430 --> 00:28:49,590
 Tu vas le salir avec ton sang.
 
-419
+440
 00:28:52,150 --> 00:28:53,710
 Et merde...
 
-420
+441
 00:28:54,630 --> 00:28:57,670
 Je pensais pourtant
 pouvoir vous régler votre compte.
 
-421
+442
 00:29:07,500 --> 00:29:09,070
 En fait,
 
-422
+443
 00:29:10,070 --> 00:29:14,100
 M. Icebarg voulait
 que je décampe immédiatement.
 
-423
+444
 00:29:15,020 --> 00:29:20,990
 Il m'avait dit : "Jette ces papiers et sauve-toi sur-le-champ."
 
-424
+445
 00:29:24,170 --> 00:29:25,740
 Parce qu'en fait,
 
-425
+446
 00:29:26,900 --> 00:29:29,710
 ces plans sont complètement faux.
 
-426
+447
 00:29:30,300 --> 00:29:31,360
 Quoi ?
 
-427
+448
 00:29:31,770 --> 00:29:33,250
 Ils sont faux ?
 
-428
+449
 00:29:33,450 --> 00:29:35,290
 Tu dis n'importe quoi.
 
-429
+450
 00:29:36,720 --> 00:29:40,840
 Je sais pas qui vous êtes,
 mais votre plan a foiré en beauté.
 
-430
+451
 00:29:41,140 --> 00:29:43,950
 Vraiment, quel dommage.
 
-431
+452
 00:29:44,500 --> 00:29:50,180
 J'ignore complètement
 où se trouve le truc que vous cherchez.
 
-432
+453
 00:29:50,750 --> 00:29:56,360
 Quelle insolence.
 Tu pensais duper le CP9 comme ça ?
 
-433
+454
 00:29:58,110 --> 00:30:00,070
 Même si tu n'es qu'une diversion,
 
-434
+455
 00:30:00,070 --> 00:30:03,530
 on ne peut pas te laisser vivre,
 tu en sais trop.
 
-435
+456
 00:30:17,950 --> 00:30:19,350
 Je suis coincé !
 
-436
+457
 00:30:19,350 --> 00:30:22,540
 C'est pas vrai, ça recommence !
 
-437
+458
 00:30:22,750 --> 00:30:24,180
 Pourquoi à chaque fois ?
 
-438
+459
 00:30:24,180 --> 00:30:25,470
 Chapeau de paille ?
 
-439
+460
 00:30:25,470 --> 00:30:26,330
 Hein ?
 
-440
+461
 00:30:27,200 --> 00:30:28,350
 Le gars aux cordes !
 
-441
+462
 00:30:28,550 --> 00:30:31,510
 Il t'est arrivé quoi ? Ça va ?
 
-442
+463
 00:30:31,510 --> 00:30:35,040
 T'es couvert de sang.
 T'es pas facile à suivre.
 
-443
+464
 00:30:35,040 --> 00:30:38,940
 Parle pour toi.
 Tu fiches quoi, au 2e étage ?
 
-444
+465
 00:30:39,480 --> 00:30:41,150
 Luffy au chapeau de paille.
 
-445
+466
 00:30:41,150 --> 00:30:44,160
 Tu es venu porter le chapeau ?
 
-446
+467
 00:30:45,440 --> 00:30:48,000
 Des masques !
 Vous portez des masques !
 
-447
+468
 00:30:48,150 --> 00:30:51,330
 Ce doit être vous !
 Vous lui avez fait quoi, à Robin ?
 
-448
+469
 00:30:51,330 --> 00:30:53,680
 Rendez-la-nous, enfoirés !
 
-449
+470
 00:30:54,230 --> 00:30:57,050
 C'est pas vrai...
 Hé, c'est à vous que je cause !
 
-450
+471
 00:30:57,050 --> 00:30:58,210
 Pied-ouragan.
 
-451
+472
 00:31:06,450 --> 00:31:07,220
 Whoa !
 
-452
+473
 00:31:12,360 --> 00:31:13,770
 Ça a découpé le mur ?
 
-453
+474
 00:31:16,020 --> 00:31:17,190
 Chapeau de paille !
 
-454
+475
 00:31:29,440 --> 00:31:30,800
 C'est quoi, ces trucs ?
 
-455
+476
 00:31:32,250 --> 00:31:34,150
 Une simple mesure d'urgence.
 
-456
+477
 00:31:34,350 --> 00:31:36,330
 On n'a pas de temps à perdre avec toi.
 
-457
+478
 00:31:36,330 --> 00:31:37,550
 Je peux plus bouger.
 
-458
+479
 00:31:37,550 --> 00:31:40,650
 L'autre aussi.
 On a mieux à faire que se battre.
 
-459
+480
 00:31:40,650 --> 00:31:41,340
 OK.
 
-460
+481
 00:31:57,870 --> 00:32:01,050
 C'est moi. Il y a un imprévu.
 
-461
+482
 00:32:01,350 --> 00:32:03,550
 Rassemblement immédiat dans la chambre.
 
-462
+483
 00:32:03,750 --> 00:32:05,570
 Ne tuez pas encore Icebarg.
 
-463
+484
 00:32:06,440 --> 00:32:10,200
 C'est bien compris ?
 J'ai besoin d'Icebarg vivant.
 
-464
+485
 00:32:13,950 --> 00:32:16,790
 J'aurais voulu
 pouvoir continuer à m'amuser,
 
-465
+486
 00:32:17,730 --> 00:32:20,140
 mais je m'excuse, on m'appelle ailleurs.
 
-466
+487
 00:32:20,140 --> 00:32:21,590
 Quoi, tu fuis ?
 
-467
+488
 00:32:22,080 --> 00:32:23,050
 Non.
 
-468
+489
 00:32:30,200 --> 00:32:32,500
 Je dois partir,
 donc je règle ça rapidement.
 
-469
+490
 00:32:33,700 --> 00:32:34,390
 M'sieur Lulu !
 
-470
+491
 00:32:34,390 --> 00:32:36,020
 - La vache !
 - KO en un coup !
 
-471
+492
 00:32:39,390 --> 00:32:40,930
 Il s'est encore envolé !
 
-472
+493
 00:32:42,330 --> 00:32:44,900
 Ça va, tu tiens le coup ?
 
-473
+494
 00:32:46,460 --> 00:32:48,500
 Évidemment, c'est que dalle, ça.
 
-474
+495
 00:32:49,400 --> 00:32:50,600
 Je vois.
 
-475
+496
 00:32:50,850 --> 00:32:54,450
 Chapeau de paille...
 Pourquoi t'es venu ici ?
 
-476
+497
 00:32:54,900 --> 00:32:57,450
 Tout le monde croit
 que vous êtes les coupables.
 
-477
+498
 00:32:57,750 --> 00:33:01,710
 Désolé,
 à cause de notre méprise, vous...
 
-478
+499
 00:33:01,710 --> 00:33:05,400
 T'inquiète pas, c'est rien.
 J'ai l'habitude de me faire courser.
 
-479
+500
 00:33:05,730 --> 00:33:09,510
 En fait, une amie a été embarquée
 par ces mecs masqués.
 
-480
+501
 00:33:09,960 --> 00:33:11,590
 Je viens pour la récupérer.
 
-481
+502
 00:33:13,340 --> 00:33:15,100
 Nico Robin, c'est ça ?
 
-482
+503
 00:33:19,860 --> 00:33:22,230
 T'es plutôt fort à la castagne, non ?
 
-483
+504
 00:33:22,230 --> 00:33:23,860
 Ouais, et pas qu'un peu.
 
-484
+505
 00:33:24,420 --> 00:33:25,730
 Tu peux les battre ?
 
-485
+506
 00:33:26,300 --> 00:33:27,360
 Bien sûr.
 
-486
+507
 00:33:29,840 --> 00:33:33,100
 Alors, bats-toi à mes côtés.
 Je veux les vaincre aussi.
 
-487
+508
 00:33:33,100 --> 00:33:33,700
 Ah bon ?
 
-488
+509
 00:33:33,700 --> 00:33:34,700
 Évidemment !
 
-489
+510
 00:33:34,910 --> 00:33:40,360
 Je laisserai pas ces guignols
 sortis de je ne sais où tuer M. Icebarg !
 
-490
+511
 00:33:40,660 --> 00:33:43,850
 Non, mais je rêve !
 Ils se croient où ?
 
-491
+512
 00:33:43,850 --> 00:33:46,170
 "Organisation secrète", mes fesses !
 
-492
+513
 00:33:48,880 --> 00:33:53,340
 M. Icebarg...
 C'est lui qui m'a tout appris.
 
-493
+514
 00:33:53,890 --> 00:33:56,310
 Il a fait de moi
 un charpentier accompli.
 
-494
+515
 00:33:56,310 --> 00:33:58,140
 Pourquoi vouloir le tuer ?
 
-495
+516
 00:33:58,140 --> 00:34:00,050
 Attends, t'as vu tes blessures ?
 
-496
+517
 00:34:00,240 --> 00:34:03,300
 Je te dis que je veux les exploser !
 
-497
+518
 00:34:03,490 --> 00:34:06,570
 Mes blessures, j'en ai rien à faire !
 
-498
+519
 00:34:09,140 --> 00:34:11,950
 Je me battrai
 jusqu'à mon dernier souffle !
 
-499
+520
 00:34:11,950 --> 00:34:14,850
 Et merde !
 Faut que je sorte de là !
 
-500
+521
 00:34:14,850 --> 00:34:18,320
 Ouais, faut qu'on sorte de là ! 
 Bon sang !
 
-501
+522
 00:34:42,440 --> 00:34:43,680
 Repartez d'où vous venez.
 
-502
+523
 00:34:45,350 --> 00:34:47,060
 Vous n'obtiendrez rien de moi.
 
-503
+524
 00:34:48,110 --> 00:34:49,940
 C'est bien ennuyeux.
 
-504
+525
 00:34:57,080 --> 00:35:00,450
 Par où commencer ?
 On peut tout vous dire,
 
-505
+526
 00:35:03,130 --> 00:35:04,620
 puisque vous allez mourir.
 
-506
+527
 00:35:05,540 --> 00:35:08,090
 Vous nous avez profondément déçus.
 
-507
+528
 00:35:12,600 --> 00:35:13,850
 Lucci ?
 
-508
+529
 00:35:14,300 --> 00:35:16,670
 Tout ça, c'est votre faute.
 
-509
+530
 00:35:19,390 --> 00:35:22,300
 Si vous aviez accepté
 les offres du Gouvernement,
 
-510
+531
 00:35:22,300 --> 00:35:23,490
 on n'en serait pas là.
 
-511
+532
 00:35:24,440 --> 00:35:25,680
 Kaku ?
 
-512
+533
 00:35:26,590 --> 00:35:28,050
 On aurait vraiment préféré
 
-513
+534
 00:35:28,250 --> 00:35:32,320
 pouvoir partir d'ici sans avoir à vous faire du mal.
 
-514
+535
 00:35:33,390 --> 00:35:34,600
 Kalifa ?
 
-515
+536
 00:35:35,150 --> 00:35:38,050
 Vous devez tenir votre obstination
 de votre maître.
 
-516
+537
 00:35:38,200 --> 00:35:40,160
 Blueno le barman ?
 
-517
+538
 00:35:41,010 --> 00:35:42,200
 Vous tous...
 
-518
+539
 00:35:42,750 --> 00:35:46,370
 Vous êtes des agents du Gouvernement ?
 
-519
+540
 00:35:46,370 --> 00:35:47,400
 Oui.
 
-520
+541
 00:35:47,400 --> 00:35:51,490
 Les missions d'infiltration, ça nous connaît.
 
-521
+542
+00:35:47,500 --> 00:35:52,380
+Unité d'Agents Secret
+du Gouvernement Mondial
+Cipher Pol n°9
+
+543
 00:35:52,560 --> 00:35:57,390
 Mais, vous avez vraiment fait preuve
 d'une prudence incroyable.
 
-522
+544
 00:35:59,230 --> 00:36:01,360
 Allez, monsieur Icebarg.
 
-523
+545
 00:36:02,070 --> 00:36:04,920
 Les plans
 de l'arme antique nommée Pluton,
 
-524
+546
 00:36:05,120 --> 00:36:06,520
 où sont-ils cachés ?
 
-525
+547
 00:36:07,000 --> 00:36:11,070
 Si vous voulez éviter un bain de sang,
 répondez-nous.
-
-526
-00:35:47,500 --> 00:35:52,380
-Unité d'Agents Secret
-du Gouvernement Mondial
-Cipher Pol n°9
-
-527
-00:35:47,500 --> 00:35:52,380
-Unité d'Agents Secret
-du Gouvernement Mondial
-Cipher Pol n°9
-
-528
-00:35:47,500 --> 00:35:52,380
-Unité d'Agents Secret
-du Gouvernement Mondial
-Cipher Pol n°9
-
-529
-00:01:35,620 --> 00:01:39,680
-Tout va bien ! Allez, continuons d'avancer
-
-530
-00:01:39,940 --> 00:01:43,220
-un rayon d'espoir brille toujours dans nos cœurs.
-
-531
-00:01:43,360 --> 00:01:46,640
-Main dans la main, la force se transmettra !
-
-532
-00:01:46,730 --> 00:01:50,310
-Partons nous emparer de notre souhait !
-
-533
-00:01:57,870 --> 00:02:04,120
-Voguons sur les grandes vagues en joignant nos forces.
-
-534
-00:02:05,380 --> 00:02:11,920
-Allons vite dans la direction excitante, c'est le signal du départ.
-
-535
-00:02:12,590 --> 00:02:18,760
-C'est maintenant que nous partons, et après avoir levé l'ancre,
-
-536
-00:02:19,560 --> 00:02:26,640
-tranchons le vent arc-en-ciel, vers la mer de l'aventure !
-
-537
-00:02:26,690 --> 00:02:30,180
-C'est un voyage rempli de blessures,
-
-538
-00:02:30,230 --> 00:02:33,900
-mais l'important est là.
-
-539
-00:02:34,030 --> 00:02:37,980
-En cas de problème,
-
-540
-00:02:38,080 --> 00:02:39,990
-je serais toujours là pour te protéger.
-
-541
-00:02:41,080 --> 00:02:44,990
-Tout va bien ! Allez, continuons d'avancer
-
-542
-00:02:45,370 --> 00:02:48,450
-un rayon d'espoir brille toujours dans nos cœurs.
-
-543
-00:02:48,800 --> 00:02:51,960
-Si une tempête arrive,
-
-544
-00:02:52,080 --> 00:02:55,830
-nous attendrons le retour de la lumière en se serrant les coudes !
-
-545
-00:02:56,340 --> 00:02:59,550
-Si nous regroupons les bribes de rêves de chacun,
-
-546
-00:03:00,020 --> 00:03:03,180
-nous obtiendrons une carte menant vers le futur !
-
-547
-00:03:03,310 --> 00:03:06,350
-Alors réunissons-nous sous le même drapeau
-
-548
-00:03:06,770 --> 00:03:10,330
-et saisissons notre souhait !
-
-549
-00:03:10,330 --> 00:03:12,080
-À nous tous, nous ne formons qu'une...

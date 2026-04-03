@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -148,407 +148,412 @@ Unamos todos nuestros deseos en uno solo.
 ¡Levanten las manos!
 
 38
-00:02:43,340 --> 00:02:45,740
-Mola
+00:02:29,760 --> 00:02:38,600
+¡Muere por mí!
+¡El hombre peligroso hace su jugada!
 
 39
 00:02:43,340 --> 00:02:45,740
-Shi
+Mola
 
 40
 00:02:43,340 --> 00:02:45,740
-Chibukai
+Shi
 
 41
 00:02:43,340 --> 00:02:45,740
-Fansub!
+Chibukai
 
 42
 00:02:43,340 --> 00:02:45,740
-Zurda del general.
+Fansub!
 
 43
-00:03:38,600 --> 00:03:41,600
-Mola
+00:02:43,340 --> 00:02:45,740
+Zurda del general.
 
 44
 00:03:38,600 --> 00:03:41,600
-Shi
+Mola
 
 45
 00:03:38,600 --> 00:03:41,600
-Chibukai
+Shi
 
 46
 00:03:38,600 --> 00:03:41,600
-Fansub!
+Chibukai
 
 47
 00:03:38,600 --> 00:03:41,600
-Escudo del general.
+Fansub!
 
 48
-00:03:42,370 --> 00:03:45,140
-Mola
+00:03:38,600 --> 00:03:41,600
+Escudo del general.
 
 49
 00:03:42,370 --> 00:03:45,140
-Shi
+Mola
 
 50
 00:03:42,370 --> 00:03:45,140
-Chibukai
+Shi
 
 51
 00:03:42,370 --> 00:03:45,140
-Fansub!
+Chibukai
 
 52
 00:03:42,370 --> 00:03:45,140
-Escudo búmeran del general.
+Fansub!
 
 53
-00:03:59,650 --> 00:04:02,620
-Mola
+00:03:42,370 --> 00:03:45,140
+Escudo búmeran del general.
 
 54
 00:03:59,650 --> 00:04:02,620
-Shi
+Mola
 
 55
 00:03:59,650 --> 00:04:02,620
-Chibukai
+Shi
 
 56
 00:03:59,650 --> 00:04:02,620
-Fansub!
+Chibukai
 
 57
 00:03:59,650 --> 00:04:02,620
-Armamorfosis.
+Fansub!
 
 58
-00:04:09,890 --> 00:04:11,930
-Mola
+00:03:59,650 --> 00:04:02,620
+Armamorfosis.
 
 59
 00:04:09,890 --> 00:04:11,930
-Shi
+Mola
 
 60
 00:04:09,890 --> 00:04:11,930
-Chibukai
+Shi
 
 61
 00:04:09,890 --> 00:04:11,930
-Fansub!
+Chibukai
 
 62
 00:04:09,890 --> 00:04:11,930
-Chica espada.
+Fansub!
 
 63
-00:04:33,150 --> 00:04:35,490
-Mola
+00:04:09,890 --> 00:04:11,930
+Chica espada.
 
 64
 00:04:33,150 --> 00:04:35,490
-Shi
+Mola
 
 65
 00:04:33,150 --> 00:04:35,490
-Chibukai
+Shi
 
 66
 00:04:33,150 --> 00:04:35,490
-Fansub!
+Chibukai
 
 67
 00:04:33,150 --> 00:04:35,490
-Chica misil.
+Fansub!
 
 68
-00:04:39,760 --> 00:04:42,530
-Mola
+00:04:33,150 --> 00:04:35,490
+Chica misil.
 
 69
 00:04:39,760 --> 00:04:42,530
-Shi
+Mola
 
 70
 00:04:39,760 --> 00:04:42,530
-Chibukai
+Shi
 
 71
 00:04:39,760 --> 00:04:42,530
-Fansub!
+Chibukai
 
 72
 00:04:39,760 --> 00:04:42,530
-Cañón de proyectiles giratorio.
+Fansub!
 
 73
+00:04:39,760 --> 00:04:42,530
+Cañón de proyectiles giratorio.
+
+74
 00:05:05,630 --> 00:05:08,620
 ¿Dónde estoy?
 
-74
+75
 00:05:08,620 --> 00:05:10,560
 Mi cuerpo no responde...
 
-75
+76
 00:05:10,560 --> 00:05:13,120
 Maldición, ¿hasta aquí he llegado?
 
-76
+77
 00:05:17,330 --> 00:05:23,500
 El corazón de Smoker, 
 vicealmirante del G-5 de la Marina.
 
-77
+78
 00:05:23,500 --> 00:05:26,970
 Es un buen regalo, Law.
 
-78
+79
 00:05:39,270 --> 00:05:42,550
 DENTRO DEL LABORATORIO 3 - TORRE R
 
-79
+80
 00:05:59,700 --> 00:06:03,760
 PASILLO ENTRE LAS TORRES B Y R
 
-80
+81
 00:06:02,140 --> 00:06:03,760
 ¡Deprisa, Chopper, Brook!
 
-81
+82
 00:06:05,570 --> 00:06:07,710
 ¡Pero si somos nosotros los que estamos corriendo!
 
-82
+83
 00:06:10,070 --> 00:06:15,100
 PISO 2 DE LA TORRE R - SALA SECRETA
 
-83
+84
 00:06:36,310 --> 00:06:39,150
 ¡Pero si éramos nosotros los que estábamos corriendo!
 
-84
+85
 00:07:08,360 --> 00:07:09,840
 Joker...
 
-85
+86
 00:07:09,840 --> 00:07:11,180
 ¿Me escuchas?
 
-86
+87
 00:07:33,330 --> 00:07:37,700
 Pero quiero acabar con todos 
 esos mocosos ahora mismo.
 
-87
+88
 00:07:37,700 --> 00:07:39,740
 En el Laboratorio 3,
 
-88
+89
 00:07:39,740 --> 00:07:48,350
 hay un arma idéntica a la que 
 destruyó la isla hace cuatro años.
 
-89
+90
 00:07:48,350 --> 00:07:51,300
 Si presionas el botón de autodestrucción,
 
-90
+91
 00:07:51,300 --> 00:07:54,990
 sólo una persona sobrevivirá.
 
-91
+92
 00:07:54,990 --> 00:07:57,940
 La única persona que puede sobrevivir al gas asesino...
 
-92
+93
 00:07:59,070 --> 00:08:01,160
 ...es Caesar.
 
-93
+94
 00:08:42,230 --> 00:08:45,000
 ¡Muere Smoker!
 
-94
+95
 00:08:47,080 --> 00:08:49,560
 Lo siento, compañero.
 
-95
+96
 00:08:49,560 --> 00:08:52,140
 Sé muy bien...
 
-96
+97
 00:08:53,650 --> 00:08:57,020
 ...que hasta el día de hoy 
 has hecho un gran trabajo.
 
-97
+98
 00:10:21,600 --> 00:10:24,100
 Mola
 
-98
+99
 00:10:21,600 --> 00:10:24,100
 Shi
 
-99
+100
 00:10:21,600 --> 00:10:24,100
 Chibukai
 
-100
+101
 00:10:21,600 --> 00:10:24,100
 Fansub!
 
-101
+102
 00:10:21,600 --> 00:10:24,100
 Chica revólver.
 
-102
+103
 00:11:08,450 --> 00:11:10,720
 Hasta nunca, joven amo.
 
-103
+104
 00:11:13,410 --> 00:11:16,090
 Tú eres el hombre...
 
-104
+105
 00:11:17,480 --> 00:11:19,260
 ...que se convertirá...
 
-105
+106
 00:11:19,260 --> 00:11:22,060
 ...en el Rey de los Piratas.
 
-106
+107
 00:11:58,730 --> 00:12:00,650
 ¿Monet?
 
-107
+108
 00:12:00,650 --> 00:12:03,870
 ¿Qué sucede, Monet?
 
-108
+109
 00:12:19,400 --> 00:12:22,390
 ¡Quiero tu corazón!
 
-109
+110
 00:12:24,130 --> 00:12:26,870
 Con esto, queda cerrado el trato.
 
-110
+111
 00:12:39,570 --> 00:12:45,140
 El corazón de Smoker, 
 vicealmirante del G-5 de la Marina.
 
-111
+112
 00:12:45,140 --> 00:12:49,280
 Es un buen regalo, Law.
 
-112
+113
 00:12:59,970 --> 00:13:01,630
 Responde.
 
-113
+114
 00:14:15,550 --> 00:14:16,980
 ¡¿En serio?!
 
-114
+115
 00:15:03,610 --> 00:15:08,990
 ¡U-Una especie de guardia 
 de hierro está interfiriendo!
 
-115
+116
 00:15:05,350 --> 00:15:10,320
 EL MAR
 
-116
+117
 00:15:27,850 --> 00:15:31,340
 COSTA DE PUNK HAZARD
 
-117
-00:16:13,050 --> 00:16:15,350
-Mola
-
 118
 00:16:13,050 --> 00:16:15,350
-Shi
+Mola
 
 119
 00:16:13,050 --> 00:16:15,350
-Chibukai
+Shi
 
 120
 00:16:13,050 --> 00:16:15,350
-Fansub!
+Chibukai
 
 121
 00:16:13,050 --> 00:16:15,350
-Chica hoz.
+Fansub!
 
 122
-00:17:08,670 --> 00:17:11,710
-Mola
+00:16:13,050 --> 00:16:15,350
+Chica hoz.
 
 123
 00:17:08,670 --> 00:17:11,710
-Shi
+Mola
 
 124
 00:17:08,670 --> 00:17:11,710
-Chibukai
+Shi
 
 125
 00:17:08,670 --> 00:17:11,710
-Fansub!
+Chibukai
 
 126
 00:17:08,670 --> 00:17:11,710
-Cañón del general.
+Fansub!
 
 127
-00:21:29,430 --> 00:21:32,900
-Mola
+00:17:08,670 --> 00:17:11,710
+Cañón del general.
 
 128
 00:21:29,430 --> 00:21:32,900
-Shi
+Mola
 
 129
 00:21:29,430 --> 00:21:32,900
-Chibukai
+Shi
 
 130
 00:21:29,430 --> 00:21:32,900
-Fansub!
+Chibukai
 
 131
 00:21:29,430 --> 00:21:32,900
-Cría de rayos.
+Fansub!
 
 132
-00:21:54,490 --> 00:21:58,370
-Mola
+00:21:29,430 --> 00:21:32,900
+Cría de rayos.
 
 133
 00:21:54,490 --> 00:21:58,370
-Shi
+Mola
 
 134
 00:21:54,490 --> 00:21:58,370
-Chibukai
+Shi
 
 135
 00:21:54,490 --> 00:21:58,370
-Fansub!
+Chibukai
 
 136
 00:21:54,490 --> 00:21:58,370
-Técnica letal: Lluvia de meteoros.
+Fansub!
 
 137
+00:21:54,490 --> 00:21:58,370
+Técnica letal: Lluvia de meteoros.
+
+138
 00:22:49,050 --> 00:22:51,050
 ¡Te lo mereces, Caesar!

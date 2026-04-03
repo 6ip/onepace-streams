@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -160,65 +160,70 @@ Gastémoslos en fiestas alocadas,
 derrochándolo todo...
 
 41
+00:02:30,460 --> 00:02:39,230
+¡Muéstrense, Piratas del Sombrero de Paja!
+¡El contraataque desesperado de la tripulación!
+
+42
 00:05:11,370 --> 00:05:14,910
 CERCA, EN LA CÁMARA CONGELADORA ESPECIAL
 
-42
+43
 00:08:41,950 --> 00:08:44,300
 CERCA, EN EL CORREDOR FUERA DE LA HABITACIÓN DE PERONA
 
-43
+44
 00:08:55,090 --> 00:08:57,450
 CERCA, EN LA IGLESIA
 
-44
+45
 00:11:10,930 --> 00:11:13,890
 LA IGLESIA
 
-45
+46
 00:11:58,810 --> 00:12:00,030
 JARDÍN DE LAS MARAVILLAS DE PERONA
 
-46
-00:16:10,110 --> 00:16:12,180
-Mola
-
 47
 00:16:10,110 --> 00:16:12,180
-Shi
+Mola
 
 48
 00:16:10,110 --> 00:16:12,180
-Chibukai
+Shi
 
 49
 00:16:10,110 --> 00:16:12,180
-Fansub!
+Chibukai
 
 50
 00:16:10,110 --> 00:16:12,180
-Estrella del Pájaro de Fuego.
+Fansub!
 
 51
+00:16:10,110 --> 00:16:12,180
+Estrella del Pájaro de Fuego.
+
+52
 00:16:34,640 --> 00:16:37,070
 ¡Viene hacia aquí!
 
-52
+53
 00:17:51,880 --> 00:17:53,220
 Mola
 
-53
+54
 00:17:51,880 --> 00:17:53,220
 Shi
 
-54
+55
 00:17:51,880 --> 00:17:53,220
 Chibukai
 
-55
+56
 00:17:51,880 --> 00:17:53,220
 Fansub!
 
-56
+57
 00:17:51,880 --> 00:17:53,220
 Telaraña.

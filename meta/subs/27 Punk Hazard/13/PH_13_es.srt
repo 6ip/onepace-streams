@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -148,77 +148,78 @@ Unamos todos nuestros deseos en uno solo.
 ¡Levanten las manos!
 
 38
+00:02:29,900 --> 00:02:38,660
+¡El sacrificio del G-5 
+y la traición del vicealmirante!
+
+39
 00:04:18,560 --> 00:04:20,190
 Pero parece que todos están a salvo.
 
-39
+40
 00:04:20,190 --> 00:04:21,400
 Qué alivio.
 
-40
+41
 00:04:23,180 --> 00:04:25,080
 No sé quién me lo habrá dado,
 
-41
+42
 00:04:25,080 --> 00:04:26,900
 pero este papel...
 
-42
+43
 00:04:26,900 --> 00:04:30,310
 ¿Quiere decir que pudieron escapar ellos solos?
 
-43
+44
 00:04:30,310 --> 00:04:33,070
 De alguna manera, me las arreglé para descubrir la estructura de la droga.
 
-44
+45
 00:04:33,070 --> 00:04:34,460
 ¡Y también tengo algunos sedantes!
 
-45
+46
 00:04:35,440 --> 00:04:38,340
 ¡Pero ¿hacia dónde tengo que ir?!
 
-46
+47
 00:06:14,490 --> 00:06:18,000
 DENTRO DEL LABORATORIO - TORRE A
 
-47
+48
 00:06:50,090 --> 00:06:52,650
 PASILLO QUE CONECTA LAS TORRES A Y B
 
-48
+49
 00:09:21,460 --> 00:09:22,850
 ¡Robin-chwan!
 
-49
+50
 00:10:10,110 --> 00:10:11,620
 BARBAMARRÓN Y LOS
 SOMBRERO DE PAJA
 
-50
+51
 00:10:10,110 --> 00:10:11,620
 TASHIGI Y EL G-5
 
-51
+52
 00:10:12,490 --> 00:10:15,050
 FUERA DEL LABORATORIO
 
-52
+53
 00:11:37,270 --> 00:11:38,520
 ¡Si no me doy prisa, la puerta se cerrará!
 
-53
+54
 00:11:41,710 --> 00:11:45,720
 ¡Afuera...!
 
-54
+55
 00:11:52,840 --> 00:11:56,870
 ¡Si no me apresuro...!
-
-55
-00:12:38,180 --> 00:12:42,290
-PASILLO QUE CONECTA LAS TORRES A Y B
 
 56
 00:12:37,990 --> 00:12:42,290
@@ -230,7 +231,7 @@ SOMBRERO DE PAJA
 TASHIGI Y EL G-5
 
 58
-00:14:00,480 --> 00:14:02,350
+00:12:38,180 --> 00:12:42,290
 PASILLO QUE CONECTA LAS TORRES A Y B
 
 59
@@ -243,162 +244,166 @@ SOMBRERO DE PAJA
 TASHIGI Y EL G-5
 
 61
+00:14:00,480 --> 00:14:02,350
+PASILLO QUE CONECTA LAS TORRES A Y B
+
+62
 00:15:50,480 --> 00:15:51,080
 ¡Vergo!
 
-62
+63
 00:16:31,990 --> 00:16:32,900
 Bienvenidos.
 
-63
+64
 00:16:35,770 --> 00:16:39,140
 He oído muchos rumores 
 acerca de ti, Comodoro Smoker.
 
-64
+65
 00:16:39,140 --> 00:16:40,270
 Será un placer trabajar contigo.
 
-65
+66
 00:16:40,270 --> 00:16:45,110
 En la división del G-5 no abundan
  los soldados inteligentes,
 
-66
+67
 00:16:45,110 --> 00:16:48,740
 pero cuando los conozcan, verán 
 que no son tan malos como los pintan.
 
-67
+68
 00:16:51,760 --> 00:16:55,450
 Y enseguida se darán cuenta de que son
  unos subordinados muy agradables.
 
-68
+69
 00:16:59,410 --> 00:17:00,970
 ¿Dónde está el Vicealmirante Vergo?
 
-69
+70
 00:17:00,970 --> 00:17:05,040
 El Vicealmirante Vergo a veces
  se marcha a su pueblo natal.
 
-70
+71
 00:17:05,040 --> 00:17:06,990
 Tiene a una hermana enferma y se preocupa por ella.
 
-71
+72
 00:17:06,990 --> 00:17:10,400
 ¡¿Y se hacen llamar marinos?!
 
-72
+73
 00:17:11,370 --> 00:17:12,980
 Mis disculpas.
 
-73
+74
 00:17:12,980 --> 00:17:16,050
 Me responsabilizo por los actos de mis hombres.
 
-74
+75
 00:17:16,050 --> 00:17:17,640
 Ya veo.
 
-75
+76
 00:17:17,640 --> 00:17:20,600
 ¡Pues asume la responsabilidad como es debido!
 
-76
+77
 00:17:20,600 --> 00:17:21,570
 ¡Maldita!
 
-77
+78
 00:17:21,570 --> 00:17:23,360
 ¡No te pases de lista!
 
-78
+79
 00:17:24,290 --> 00:17:25,680
 Entiendo.
 
-79
+80
 00:17:25,680 --> 00:17:29,240
 Haré todo lo que pueda para arreglarlo.
 
-80
+81
 00:17:29,240 --> 00:17:30,640
 Vicealmirante Vergo,
 
-81
+82
 00:17:30,640 --> 00:17:35,450
 sobre el informe de los secuestros
  de niños del otro día...
 
-82
+83
 00:17:35,450 --> 00:17:40,490
 Sí, mandé a investigar a fondo, pero parece que sólo ha sido un accidente en el mar.
 
-83
+84
 00:17:40,490 --> 00:17:42,430
 En otras palabras, un informe falso.
 
-84
+85
 00:17:42,430 --> 00:17:44,440
 ¿Un informe falso?
 
-85
+86
 00:17:44,440 --> 00:17:49,100
 A todos los padres les cuesta 
 aceptar la muerte de un hijo.
 
-86
+87
 00:17:49,100 --> 00:17:53,610
 Prefieren mantener la esperanza 
 pensando que ha sido un secuestro.
 
-87
+88
 00:17:55,390 --> 00:17:59,590
 Lo entenderás cuando seas madre.
 
-88
+89
 00:18:00,640 --> 00:18:02,130
 Así que eso fue lo que pasó...
 
-89
+90
 00:18:03,330 --> 00:18:05,070
 Sí, así es.
 
-90
+91
 00:18:58,700 --> 00:19:01,310
 No me sale... la voz...
 
-91
+92
 00:19:01,310 --> 00:19:03,280
 ¡Basta, por favor!
 
-92
+93
 00:19:03,280 --> 00:19:06,600
 ¡Sálvanos, Smoker-san!
 
-93
+94
 00:19:31,540 --> 00:19:32,980
 DENTRO DE LA TORRE B
 
-94
+95
 00:19:31,540 --> 00:19:32,980
 BARBAMARRÓN Y LOS
 SOMBRERO DE PAJA
 
-95
+96
 00:20:05,080 --> 00:20:07,710
 ESCALERA AL CENTRO DE LA TORRE B
 
-96
+97
 00:20:21,480 --> 00:20:25,540
 LABORATORIO DE CAESAR
 
-97
+98
 00:20:53,960 --> 00:20:57,420
 TERCER PISO DE LA TORRE B
 
-98
+99
 00:20:53,960 --> 00:20:57,420
 CERCA DE BISCUITS ROOM

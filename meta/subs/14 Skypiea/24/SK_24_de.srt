@@ -1,1337 +1,1341 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:50,090 --> 00:01:55,510
+Ich war hier angelangt
+
+3
 00:01:58,930 --> 00:02:02,730
 Der 400 Jahre lang andauernde Krieg endete
 
-3
+4
 00:02:02,730 --> 00:02:07,270
 und die freudige Feier der Bewohner Skypieas erstreckte sich über Tage.
 
-4
+5
 00:02:08,780 --> 00:02:09,590
 Ich...
 
-5
+6
 00:02:09,590 --> 00:02:12,110
 Ich krieg... keinen Schluck...
 mehr runter...
 
-6
+7
 00:02:17,030 --> 00:02:18,700
 Da sind sie ja!
 
-7
+8
 00:02:24,000 --> 00:02:24,670
 Hey!
 
-8
+9
 00:02:27,250 --> 00:02:28,540
 Was denn...?
 
-9
+10
 00:02:28,540 --> 00:02:30,210
 Nami, weck die anderen!
 
-10
+11
 00:02:31,670 --> 00:02:32,970
 Warum denn?
 
-11
+12
 00:02:34,930 --> 00:02:36,640
 Wir krallen uns das Gold und hauen ab!
 
-12
+13
 00:02:39,140 --> 00:02:40,470
 Hier gibt’s Gold?!
 
-13
+14
 00:02:40,470 --> 00:02:42,060
 Holzkopf! Nicht so laut!
 
-14
+15
 00:02:42,060 --> 00:02:43,610
 Was heißt hier „Holzkopf“?!
 
-15
+16
 00:02:43,610 --> 00:02:45,730
 Deine Stimme ist lauter als meine!
 
-16
+17
 00:02:45,730 --> 00:02:48,980
 Was?! Ich soll lauter sein?! Du bist viel lauter als ich!
 
-17
+18
 00:02:48,980 --> 00:02:50,030
 Geht’s noch?!
 
-18
+19
 00:02:50,030 --> 00:02:54,030
 Ich soll laut sein, während du hier
 in ’ner Riesenlautstärke rumbrüllst?!
 
-19
+20
 00:02:54,590 --> 00:02:58,070
 Deine Stimme ist supermegaultralaut!
 
-20
+21
 00:02:58,070 --> 00:03:02,290
 So ein Schwachsinn! Ich red nur laut, weil du so laut redest!
 
-21
+22
 00:03:02,750 --> 00:03:05,920
 Du warst zuerst laut!
 
-22
+23
 00:03:02,750 --> 00:03:05,920
 Schnauze! So kriegt man ja kein Auge zu!
 
-23
+24
 00:03:05,920 --> 00:03:07,580
 Was?! Du warst laut!
 
-24
+25
 00:03:07,580 --> 00:03:09,170
 Ich war’s nicht, das warst du!
 
-25
+26
+00:03:08,080 --> 00:03:10,460
+Usopp hat mich gehauen!
+
+27
 00:03:09,170 --> 00:03:13,590
 Ich bin ein zierliches Mädchen! Ich würde nie so rumbrüllen!
 
-26
-00:03:13,590 --> 00:03:16,800
-Siehste? Sperrangelweit offen!
-
-27
-00:03:16,800 --> 00:03:19,350
-Kommt davon, wenn du
-mich so auf die Palme bringst!
-
 28
-00:03:19,350 --> 00:03:22,220
-Und nochmal, du musst echt nicht brüllen!
-
-29
 00:03:10,460 --> 00:03:11,380
 Hä?
 
-30
+29
 00:03:11,380 --> 00:03:13,590
 Als ob ich so was tun würde!
+
+30
+00:03:13,590 --> 00:03:16,800
+Siehste? Sperrangelweit offen!
 
 31
 00:03:13,590 --> 00:03:15,680
 Mach mir nicht einfach so solche Vorwürfe!
 
 32
-00:03:19,100 --> 00:03:21,470
-Ja, ja, spiel nur das Sensibelchen...
+00:03:14,670 --> 00:03:16,800
+Wach endlich auf, du Schlafmütze!
 
 33
-00:03:08,080 --> 00:03:10,460
-Usopp hat mich gehauen!
-
-34
 00:03:15,680 --> 00:03:17,510
 Aber du hast mich hier gehauen!
+
+34
+00:03:16,800 --> 00:03:19,350
+Kommt davon, wenn du
+mich so auf die Palme bringst!
 
 35
 00:03:17,510 --> 00:03:19,100
 Hier! Ich lüg nicht!
 
 36
-00:03:21,470 --> 00:03:23,220
-Was soll das heißen, „Sensibelchen“?!
-
-37
 00:03:17,640 --> 00:03:19,800
 Nami! Guten Morgen!
 
+37
+00:03:19,100 --> 00:03:21,470
+Ja, ja, spiel nur das Sensibelchen...
+
 38
+00:03:19,350 --> 00:03:22,220
+Und nochmal, du musst echt nicht brüllen!
+
+39
 00:03:19,800 --> 00:03:20,760
 Was zum...?
 
-39
+40
 00:03:20,760 --> 00:03:22,220
 Es ist ja noch gar nicht Morgen!
 
-40
-00:03:14,670 --> 00:03:16,800
-Wach endlich auf, du Schlafmütze!
-
 41
+00:03:21,470 --> 00:03:23,220
+Was soll das heißen, „Sensibelchen“?!
+
+42
 00:03:22,600 --> 00:03:25,980
 Die vom Blaumeer feiern echt Tag und Nacht, hm?
 
-42
+43
 00:03:25,980 --> 00:03:28,100
 Das ist der vierte Tag in Folge.
 
-43
+44
 00:03:28,100 --> 00:03:30,440
 So viel Energie ist echt nicht normal...
 
-44
+45
 00:03:37,450 --> 00:03:38,990
 Da habt ihr den Plan.
 
-45
+46
 00:03:38,990 --> 00:03:42,450
 Alles klar, Kameraden! Auf ’ner Himmelsinsel ist man nicht alle Tage.
 
-46
+47
 00:03:42,450 --> 00:03:44,910
 Sehen wir zu, dass wir nachher nichts bereuen!
 
-47
+48
 00:03:49,080 --> 00:03:51,590
 Häuptling! Wir haben die goldene Glocke gefunden!
 
-48
+49
 00:03:52,420 --> 00:03:53,000
 Was?!
 
-49
+50
 00:03:53,880 --> 00:03:55,380
 Wie jetzt?! Ist das dein Ernst?!
 
-50
+51
 00:03:55,380 --> 00:03:59,340
 Ja. Sie hängt auf dem umgestürzten Giant Jack fest.
 
-51
+52
 00:03:59,340 --> 00:04:01,800
 Wir sind dabei, sie zu bergen.
 
-52
+53
 00:04:02,640 --> 00:04:04,930
 Alle Kräftigen bitte zur Westküste!
 
-53
+54
 00:04:04,930 --> 00:04:07,480
 Beeilung! Beeilt euch!
 
-54
+55
 00:04:07,480 --> 00:04:10,150
 Okay, holt die anderen!
 
-55
+56
 00:04:10,860 --> 00:04:12,270
 Der Glockenturm wurde gefunden!
 
-56
+57
 00:04:12,270 --> 00:04:13,320
 Wo?!
 
-57
+58
 00:04:13,320 --> 00:04:14,530
 An der Westküste.
 
-58
+59
 00:04:14,530 --> 00:04:15,570
 Alles klar!
 
-59
+60
 00:04:15,570 --> 00:04:16,280
 Ist das wahr?!
 
-60
+61
 00:04:16,280 --> 00:04:18,070
 Ja! Kommt, beeilt euch!
 
-61
+62
 00:04:18,530 --> 00:04:20,530
 Die ins Meer gestürzte Glocke wurde gefunden!
 
-62
+63
 00:04:20,530 --> 00:04:24,040
 Ja. Alle, die sich rühren können, zur Westküste!
 
-63
+64
 00:04:27,000 --> 00:04:28,960
 Der Glockenturm ist gefunden worden!
 
-64
+65
 00:04:28,960 --> 00:04:30,880
 An der Westküste!
 
-65
+66
 00:04:31,630 --> 00:04:32,840
 Der Glockenturm?
 
-66
+67
 00:04:34,630 --> 00:04:36,130
 Noch einmal!
 
-67
+68
 00:04:36,130 --> 00:04:38,800
 Eins, zwei...!
 
-68
+69
 00:04:40,010 --> 00:04:42,600
 Zieht!
 
-69
+70
 00:05:00,530 --> 00:05:03,700
 Verflucht! Wir brauchen noch mehr Leute.
 
-70
+71
 00:05:06,490 --> 00:05:08,910
 Das ist der Stolz Shandoras, der Stadt unserer Vorfahren.
 
-71
+72
 00:05:08,910 --> 00:05:10,410
 Wir müssen sie um jeden Preis bergen!
 
-72
+73
 00:05:10,960 --> 00:05:12,080
 Ganz recht!
 
-73
+74
 00:05:12,080 --> 00:05:13,380
 Hängt euch voll rein!
 
-74
+75
 00:05:13,710 --> 00:05:17,090
 Noch einmal! Eins, zwei...!
 
-75
+76
 00:05:43,030 --> 00:05:45,950
 Zieht stärker!
 
-76
+77
 00:05:53,170 --> 00:05:54,420
 Gummiband?
 
-77
+78
 00:05:54,420 --> 00:05:55,750
 Ein Gummiband nennt ihr das?
 
-78
+79
 00:05:55,750 --> 00:05:56,710
 Genau!
 
-79
+80
 00:05:56,710 --> 00:06:00,010
 Mein Usopp Gummiband war zu 90 % dafür verantwortlich,
 
-80
+81
 00:06:00,010 --> 00:06:01,550
 dass der Giant Jack umstürzte!
 
-81
+82
 00:06:01,550 --> 00:06:03,720
 – Wow!
 – Wow! Unfassbar!
 
-82
+83
 00:06:03,720 --> 00:06:05,930
 Ich bin der einzige auf der ganzen Welt, der so was hat!
 
-83
+84
 00:06:05,930 --> 00:06:07,810
 – Wow!
 – Wow! Unglaublich!
 
-84
+85
 00:06:10,810 --> 00:06:15,230
 Aber was ich euch eigentlich
 zeigen wollte, ist dieses Eisenblech!
 
-85
+86
 00:06:15,980 --> 00:06:20,070
 Hört, meine Herrschaften,
 das ist kein gewöhnliches Blech!
 
-86
+87
 00:06:20,070 --> 00:06:23,360
 Das stammt von der Going Merry,
 unserem Schiff, das strapaziöse Reisen
 
-87
+88
 00:06:23,360 --> 00:06:26,450
 über die Grand Line und Enels Attacken standhielt!
 
-88
+89
 00:06:26,450 --> 00:06:29,910
 Das ist der „König unter den Eisenblechen“!
 
-89
+90
 00:06:30,370 --> 00:06:32,410
 Was sagt ihr? Das wollt ihr bestimmt haben!
 
-90
+91
 00:06:32,410 --> 00:06:34,750
 Würdet ihr es gegen Dials tauschen?
 
-91
+92
 00:06:34,750 --> 00:06:36,250
 Nein, ich will das Gummiband!
 
-92
+93
 00:06:36,250 --> 00:06:38,380
 Gegen das Gummiband tausche ich!
 
-93
+94
 00:06:38,380 --> 00:06:40,050
 Ich will auch eins! Sind wir im Geschäft?
 
-94
+95
 00:06:40,050 --> 00:06:41,260
 Ich auch!
 
-95
+96
 00:06:40,670 --> 00:06:43,170
 Wuah, die tauschen ernsthaft?!
 
-96
+97
 00:06:41,260 --> 00:06:42,470
 Ich hätte auch gern eins!
 
-97
+98
 00:06:42,470 --> 00:06:43,880
 Ich möchte auch!
 
-98
+99
 00:06:57,730 --> 00:07:00,480
 Muscheln! Ich hab Muscheln! Juhu!
 
-99
+100
 00:07:00,480 --> 00:07:05,660
 Hab ich ’n Glück!
 
-100
+101
 00:07:01,070 --> 00:07:02,900
 Du bist ja bestens gelaunt, Usopp.
 
-101
+102
 00:07:04,280 --> 00:07:05,660
 Hatteste Erfolg beim Verhandeln?
 
-102
+103
 00:07:07,570 --> 00:07:09,530
 Hörste nicht?
 
-103
+104
 00:07:09,530 --> 00:07:12,500
 Hab jede Menge Dials bekommen!
 
-104
+105
 00:07:13,080 --> 00:07:14,460
 Draufdrücken und...
 
-105
+106
 00:07:15,080 --> 00:07:16,000
 Einfach so!
 
-106
+107
 00:07:16,920 --> 00:07:18,170
 Freut mich für dich.
 
-107
+108
 00:07:18,170 --> 00:07:19,290
 Und mich erst!
 
-108
+109
 00:07:19,290 --> 00:07:22,300
 Was man alles damit anstellen kann!
 
-109
+110
 00:07:23,920 --> 00:07:27,590
 Da wird die Usopp-Fabrik brummen!
 
-110
+111
 00:07:28,640 --> 00:07:31,140
 Jo, Zoro, wenn du aus deinen Schwertern Flavor-Schwerter machst
 
-111
+112
 00:07:31,140 --> 00:07:32,930
 und sie mit Melonengeruch belegst,
 
-112
+113
 00:07:32,930 --> 00:07:35,480
 wird dein tägliches Training ein Vergnügen werden!
 
-113
+114
 00:07:35,480 --> 00:07:36,230
 Ne, lass mal.
 
-114
+115
 00:07:36,230 --> 00:07:37,350
 Oh...
 
-115
+116
 00:07:37,350 --> 00:07:41,690
 Ich hab’s! Mit denen kann ich Namis Klima-Taktstock stärker machen!
 
-116
+117
 00:07:41,690 --> 00:07:44,650
 Meine Zwille wird damit sicher auch voll krass!
 
-117
+118
 00:07:48,740 --> 00:07:51,240
 Wo stecken überhaupt Robin, Luffy und die anderen?
 
-118
+119
 00:07:51,910 --> 00:07:53,870
 Luffy und so sind noch drinnen.
 
-119
+120
 00:07:53,870 --> 00:07:55,910
 Robin ist ausgeflogen.
 
-120
+121
 00:08:01,040 --> 00:08:02,880
 Ich muss echt sagen,
 
-121
+122
 00:08:02,880 --> 00:08:04,960
 diese Schlange pennt wie ’n Stein...
 
-122
+123
 00:08:04,960 --> 00:08:07,430
 Hat ja auch tagelang getanzt,
 
-123
+124
 00:08:07,430 --> 00:08:10,050
 wobei mir schleierhaft ist, worüber sie sich so freut...
 
-124
+125
 00:08:10,050 --> 00:08:12,010
 Jedenfalls sollten sie schleunigst rauskommen.
 
-125
+126
 00:08:12,010 --> 00:08:14,310
 Wenn das Vieh aufwacht, geht es wieder rund.
 
-126
+127
 00:08:14,310 --> 00:08:15,310
 Hm?
 
-127
+128
 00:08:15,310 --> 00:08:17,270
 Diese gut gelaunte Schlange?
 
-128
+129
 00:08:17,730 --> 00:08:21,230
 Du Pfeife hast nur keine Ahnung, wie lästig das Vieh werden kann.
 
-129
+130
 00:08:21,230 --> 00:08:23,230
 Diese gut gelaunte Schlange?
 
-130
+131
 00:08:23,230 --> 00:08:26,900
 Ich sag’s noch mal, die Frage kannst du nur stellen, weil du nie erlebt hast,
 
-131
+132
 00:08:26,900 --> 00:08:28,400
 wie lästig das Vieh werden kann.
 
-132
+133
 00:08:28,400 --> 00:08:30,450
 Diese gut gelaunte Schlange?
 
-133
+134
 00:08:30,450 --> 00:08:33,030
 Jetzt hör mal her, Usopp...
 
-134
+135
 00:08:33,660 --> 00:08:35,750
 Diese gut gelaunte Schlange?
 
-135
+136
 00:08:35,750 --> 00:08:37,080
 Ein Tone-Dial!
 
-136
+137
 00:08:37,080 --> 00:08:39,460
 Lass den Schwachfug!
 
-137
+138
 00:08:40,040 --> 00:08:44,380
 Oh ja, was ’n Schwachfug! So ’n Schwachfug!
 
-138
+139
 00:08:44,380 --> 00:08:45,630
 Was zum Geier?
 
-139
+140
 00:08:45,630 --> 00:08:47,550
 Was frisst diese Schlange bitte?
 
-140
+141
 00:08:47,550 --> 00:08:49,010
 Sind wir bald da, Luffy?
 
-141
+142
 00:08:49,010 --> 00:08:50,760
 Da! Da ist es!
 
-142
+143
 00:08:50,760 --> 00:08:52,550
 Hui! Irre!
 
-143
+144
 00:08:52,550 --> 00:08:54,560
 Das ist echt!
 
-144
+145
 00:08:54,560 --> 00:08:57,810
 Wie hübsch! Genau wie die im Haus vom Affen!
 
-145
+146
 00:08:59,560 --> 00:09:01,810
 Na? Na? Na?!
 
-146
+147
 00:09:01,810 --> 00:09:03,230
 Hier liegt jede Menge davon rum!
 
-147
+148
 00:09:03,730 --> 00:09:06,150
 Krass, oder?!
 
-148
+149
 00:09:14,740 --> 00:09:16,240
 Das ist also der goldene...
 
-149
+150
 00:09:18,000 --> 00:09:19,620
 – Wahnsinn!
 – Wie wunderschön...
 
-150
+151
 00:09:19,620 --> 00:09:22,170
 Dass er so herrlich ist...
 
-151
+152
 00:09:22,750 --> 00:09:25,960
 Aber eine der seitlichen Säulen ist abgebrochen.
 
-152
+153
 00:09:25,960 --> 00:09:28,050
 Ja, aber da können wir nicht viel tun.
 
-153
+154
 00:09:28,050 --> 00:09:30,880
 Hey, schaut mal da!
 
-154
+155
 00:09:31,430 --> 00:09:32,640
 Das ist also...
 
-155
+156
 00:09:32,640 --> 00:09:34,050
 das Poneglyph...
 
-156
+157
 00:09:35,010 --> 00:09:39,350
 Der Stein, zu dessen Schutz unsere Vorfahren selbst die Stadt opferten!
 
-157
+158
 00:09:40,770 --> 00:09:43,900
 Was steht auf ihm, Häuptling?
 
-158
+159
 00:09:45,230 --> 00:09:47,860
 Etwas, das wir besser nicht wissen sollten...
 
-159
+160
 00:09:51,280 --> 00:09:52,450
 Wir sollten bloß...
 
-160
+161
 00:09:52,450 --> 00:09:55,030
 „Haltet die Wahrheit im Herzen und redet nicht davon.
 
-161
+162
 00:09:56,580 --> 00:09:59,620
 Wir sind es, die die Geschichte weben...
 
-162
+163
 00:09:59,620 --> 00:10:01,710
 Mit dem Klang des großen Glockenturms...“
 
-163
+164
 00:10:03,670 --> 00:10:06,380
 Woher sind dir diese Worte bekannt?
 
-164
+165
 00:10:06,380 --> 00:10:09,380
 Sie waren in Shandoras Ruinen eingraviert.
 
-165
+166
 00:10:09,380 --> 00:10:13,010
 Ihr wart also die Wächter, die seit Generationen darüber wachen.
 
-166
+167
 00:10:19,600 --> 00:10:23,770
 Willst du etwa behaupten,
 du kannst diese Schriftzeichen lesen?
 
-167
+168
 00:10:28,150 --> 00:10:32,030
 Poseidon, die „antike Waffe“ mit dem Namen eines Gottes...
 
-168
+169
 00:10:32,030 --> 00:10:33,570
 Wo sie sich befindet...
 
-169
+170
 00:10:33,570 --> 00:10:34,860
 Hä? Was hat das zu bedeuten?
 
-170
+171
 00:10:34,860 --> 00:10:35,490
 „Antik“, sagt sie!
 
-171
+172
 00:10:35,490 --> 00:10:37,280
 Eine antike Waffe?
 
-172
+173
 00:10:37,280 --> 00:10:39,700
 Was faselt sie von so etwas?
 
-173
+174
 00:10:39,700 --> 00:10:41,040
 Ja...
 
-174
+175
 00:10:41,750 --> 00:10:43,290
 Schon wieder eine Waffe...
 
-175
+176
 00:10:44,370 --> 00:10:46,630
 Eine weitere neben Pluton, von der ich in Alabasta las...
 
-176
+177
 00:10:47,290 --> 00:10:49,210
 Dass solche gefährlichen Dinge existieren,
 
-177
+178
 00:10:49,210 --> 00:10:52,590
 die nur darauf warten, entdeckt zu werden...
 
-178
+179
 00:10:53,800 --> 00:10:55,300
 Wie erwartet ein Schuss in den Ofen.
 
-179
+180
 00:10:56,050 --> 00:10:59,350
 Das ist nicht das Wissen,
 was ich suche.
 
-180
+181
 00:10:59,350 --> 00:11:03,770
 Sag mal, sind das nicht dieselben Zeichen auf der Gravur daneben?
 
-181
+182
 00:11:04,140 --> 00:11:05,190
 Was?!
 
-182
+183
 00:11:08,860 --> 00:11:12,110
 „Gol D. Roger“...!
 
-183
+184
 00:11:13,740 --> 00:11:15,030
 Was?!
 
-184
+185
 00:11:16,610 --> 00:11:19,450
 Ich bin hier angelangt.
 
-185
+186
 00:11:19,450 --> 00:11:22,660
 Ich werde diesen Text ans Ende der Welt geleiten.
 
-186
+187
 00:11:22,660 --> 00:11:25,410
 Pirat Gol D. Roger.
 
-187
+188
 00:11:27,630 --> 00:11:28,670
 Der König der Piraten...!
 
-188
+189
 00:11:29,380 --> 00:11:33,590
 War er etwa auch hier auf der Himmelsinsel?!
 
-189
+190
 00:11:34,050 --> 00:11:36,470
 Nein, noch viel wichtiger...
 
-190
+191
 00:11:36,470 --> 00:11:39,090
 Warum beherrschte er diese Schriftzeichen?
 
-191
+192
 00:11:41,850 --> 00:11:43,970
 Roger steht dort also?
 
-192
+193
 00:11:44,520 --> 00:11:45,730
 Du kennst ihn?!
 
-193
+194
 00:11:45,730 --> 00:11:48,650
 Er ist ein Blaumeerer-Pirat, der vor über 20 Jahren
 
-194
+195
 00:11:48,650 --> 00:11:51,020
 diese Himmelsgefilde besuchte.
 
-195
+196
 00:11:51,610 --> 00:11:53,780
 Sein Name ist also dort eingraviert?
 
-196
+197
 00:11:53,780 --> 00:11:54,400
 Ja.
 
-197
+198
 00:11:55,150 --> 00:11:59,070
 Wie er diese Glocke erreichte, ist mir ein Rätsel,
 
-198
+199
 00:11:59,990 --> 00:12:02,910
 aber das ist der unwiderlegbare Beweis dafür, dass es ihm gelang.
 
-199
+200
 00:12:03,450 --> 00:12:04,500
 Bei näherer Betrachtung...
 
-200
+201
 00:12:05,250 --> 00:12:08,000
 Es sind zwei unterschiedliche Poneglyph-Steine.
 
-201
+202
 00:12:08,920 --> 00:12:10,710
 Einer, der Informationen trägt und einer,
 
-202
+203
 00:12:10,710 --> 00:12:13,500
 der auf den Aufenthaltsort hinweist.
 
-203
+204
 00:12:13,500 --> 00:12:16,380
 Dieser Stein hier gehört zu den Informationsträgern.
 
-204
+205
 00:12:22,970 --> 00:12:25,350
 „Ich bin hier angelangt.
 
-205
+206
 00:12:25,980 --> 00:12:28,480
 Ich werde diesen Text ans Ende der Welt geleiten.“
 
-206
+207
 00:12:30,350 --> 00:12:31,940
 Diesen Text geleiten...
 
-207
+208
 00:12:33,520 --> 00:12:34,780
 Geleiten...
 
-208
+209
 00:12:39,320 --> 00:12:40,490
 Ist das möglich?!
 
-209
+210
 00:12:40,490 --> 00:12:42,450
 Könnte das Rio-Poneglyph...?!
 
-210
+211
 00:12:48,080 --> 00:12:48,910
 Häuptling...
 
-211
+212
 00:12:49,670 --> 00:12:53,670
 Dieses Poneglyph hat seine Rolle erfüllt.
 
-212
+213
 00:12:53,670 --> 00:12:55,050
 Seine Rolle erfüllt?
 
-213
+214
 00:12:56,840 --> 00:12:57,720
 Ja...
 
-214
+215
 00:12:57,720 --> 00:13:02,260
 Ich bin überzeugt, die um die Welt verstreuten Informations-Poneglyphen
 
-215
+216
 00:13:02,260 --> 00:13:04,510
 werden, wenn zusammengeführt, einen Text ergeben der,
 
-216
+217
 00:13:04,510 --> 00:13:08,390
 zum ersten Mal in der Geschichtsschreibung,
 die Lücke des Leeren Jahrhunderts füllen wird.
 
-217
+218
 00:13:09,980 --> 00:13:14,230
 Mit anderen Worten, der vollständige, zusammengelegte Text
 
-218
+219
 00:13:14,230 --> 00:13:19,070
 ist das Rio-Poneglyph,
 das gegenwärtig noch nicht existiert.
 
-219
+220
 00:13:20,360 --> 00:13:22,530
 Gol D. Roger, König der Piraten,
 
-220
+221
 00:13:23,160 --> 00:13:26,950
 hat diesen Text wahrhaftig an seinen Bestimmungsort geleitet.
 
-221
+222
 00:13:33,630 --> 00:13:34,500
 Daher hat er nun...
 
-222
+223
 00:13:34,500 --> 00:13:35,500
 Dann...
 
-223
+224
 00:13:35,500 --> 00:13:36,300
 Hm?
 
-224
+225
 00:13:38,090 --> 00:13:40,470
 Wir... brauchen...
 
-225
+226
 00:13:41,300 --> 00:13:43,470
 nicht länger kämpfen?
 
-226
+227
 00:13:46,100 --> 00:13:47,350
 So ist das also...
 
-227
+228
 00:13:47,350 --> 00:13:50,890
 Die Wünsche unserer Vorfahren wurden also erfüllt?
 
-228
+229
 00:13:52,020 --> 00:13:53,060
 – Häuptling!
 – Häuptling!
 
-229
+230
 00:13:53,060 --> 00:13:54,610
 Alles in Ordnung?!
 
-230
+231
 00:13:54,610 --> 00:13:55,980
 Ich bin so froh...
 
-231
+232
 00:13:55,980 --> 00:13:59,360
 Ich bin so froh...
 Wir haben unsere Pflicht erfüllt!
 
-232
+233
 00:14:01,030 --> 00:14:02,240
 Ja.
 
-233
+234
 00:14:03,110 --> 00:14:04,950
 Somit muss auch ich
 
-234
+235
 00:14:04,950 --> 00:14:09,500
 den Text der Poneglyphen, die ich bisher las, geleiten...
 
-235
+236
 00:14:10,660 --> 00:14:12,870
 Ans Ende der Grand Line...
 
-236
+237
 00:14:12,870 --> 00:14:14,000
 Nach Laugh Tale...
 
-237
+238
 00:14:16,250 --> 00:14:24,050
 Junge Dame, die Aura dieses
 Strohhutburschen erinnert mich an jene Rogers.
 
-238
+239
 00:14:25,050 --> 00:14:27,220
 Bilde ich mir dies ein?
 
-239
+240
 00:14:27,680 --> 00:14:30,060
 Sein Name lautet Monkey D. Luffy.
 
-240
+241
 00:14:30,060 --> 00:14:32,060
 Er fasziniert mich immer wieder aufs Neue.
 
-241
+242
 00:14:32,520 --> 00:14:34,060
 „D“? Verstehe...
 
-242
+243
 00:14:34,060 --> 00:14:36,610
 Er hat denselben Buchstaben im Namen.
 
-243
+244
 00:14:39,440 --> 00:14:40,360
 Ja...
 
-244
+245
 00:14:40,360 --> 00:14:44,070
 Was garantiert eine große Sache ist,
 verankert in der Geschichte.
 
-245
+246
 00:14:45,660 --> 00:14:46,620
 Übrigens, junge Dame...
 
-246
+247
 00:14:47,530 --> 00:14:50,370
 Ihr wart hinter Gold her, nicht wahr?
 
-247
+248
 00:14:50,370 --> 00:14:53,830
 Was im Blaumeer wertvoller sein soll als Vearth.
 
-248
+249
 00:14:53,830 --> 00:14:54,710
 Ja.
 
-249
+250
 00:14:54,710 --> 00:14:57,750
 Warum nehmt ihr nicht diese
 abgebrochene Säule des Glockenturms mit?
 
-250
+251
 00:14:57,750 --> 00:14:59,290
 Die Glocke brauchen wir selbst.
 
-251
+252
 00:14:59,290 --> 00:15:01,050
 Eine hervorragende Idee!
 
-252
+253
 00:15:01,050 --> 00:15:05,050
 Wir müssen uns doch irgendwie bei euch erkenntlich zeigen.
 
-253
+254
 00:15:05,050 --> 00:15:05,970
 Ganz genau!
 
-254
+255
 00:15:05,970 --> 00:15:06,930
 Keine falsche Scheu!
 
-255
+256
 00:15:06,930 --> 00:15:09,890
 Seid ihr sicher? Die anderen werden das mit Freuden hören!
 
-256
+257
 00:15:10,310 --> 00:15:11,600
 Ja!
 
-257
+258
 00:15:12,980 --> 00:15:17,150
 Alles klar! Bringen wir die zu den Blaumeerern!
 
-258
+259
 00:15:17,150 --> 00:15:19,400
 Wickelt sie in Tücher!
 Die lässt sich kaum tragen!
 
-259
+260
 00:15:19,400 --> 00:15:21,780
 Wir geben sie den Rettern unseres Landes!
 
-260
+261
 00:15:21,780 --> 00:15:23,650
 Aber das Ding ist riesig...
 
-261
+262
 00:15:30,780 --> 00:15:35,290
 Was treibt Robin nur? Die lässt ganz schön auf sich warten...
 
-262
+263
 00:15:35,870 --> 00:15:37,460
 Mist, ich hab Kohldampf!
 
-263
+264
 00:15:39,380 --> 00:15:41,840
 Weit und breit keine Menschenseele...
 
-264
+265
 00:15:41,840 --> 00:15:43,260
 Was geht hier ab?
 
-265
+266
 00:15:43,670 --> 00:15:47,220
 Wo haben sich die Guerillas und die Engel verkrochen?
 
-266
+267
 00:15:47,220 --> 00:15:49,800
 Seid doch froh, dass sie nirgends zu sehen sind,
 
-267
+268
 00:15:49,800 --> 00:15:51,890
 sonst würden sie uns noch hinterherjagen.
 
-268
+269
 00:15:51,890 --> 00:15:57,900
 Die würden uns niemals ungeschoren mit
 dem Haufen Gold entwischen lassen!
 
-269
+270
 00:15:57,900 --> 00:16:01,690
 Beeilen müssen wir uns eh,
 Nami und Conis bereiten das Schiff vor.
 
-270
+271
 00:16:01,690 --> 00:16:04,280
 Sag mal, Sanji, hast du
 was zu spachteln?
 
-271
+272
 00:16:04,280 --> 00:16:05,490
 Erst auf dem Schiff gibt’s was.
 
-272
+273
 00:16:06,280 --> 00:16:09,200
 Hast doch sicher was zum Knabbern mit, oder?
 
-273
+274
 00:16:09,200 --> 00:16:10,530
 Rück schon was raus!
 
-274
+275
 00:16:10,530 --> 00:16:12,870
 Wozu warten wir überhaupt auf die?
 
-275
+276
 00:16:10,530 --> 00:16:12,870
 Nein heißt nein. Gedulde dich.
 
-276
+277
 00:16:12,870 --> 00:16:15,120
 Ich geh schon mal vor zum Schiff.
 
-277
+278
 00:16:15,120 --> 00:16:16,250
 Nix da, du Tröte!
 
-278
+279
 00:16:16,250 --> 00:16:17,000
 Tröte!
 
-279
+280
 00:16:17,000 --> 00:16:18,080
 Dämliche Moosbirne!
 
-280
+281
 00:16:18,080 --> 00:16:19,290
 Moosbirnen-Tröte!
 
-281
+282
 00:16:20,630 --> 00:16:24,760
 Wenn du alleine in ’nen Wald wanderst,
 verläufst du dich nach drei Schritten schon!
 
-282
+283
 00:16:28,430 --> 00:16:29,720
 Hey, schaut mal, da kommt Robin!
 
-283
+284
 00:16:31,510 --> 00:16:33,600
 Robin!
 
-284
+285
 00:16:34,260 --> 00:16:36,850
 Hey, Robin!
 
-285
+286
 00:16:36,850 --> 00:16:39,140
 Mach mal hinne! Wir müssen abhauen!
 
-286
+287
 00:16:39,140 --> 00:16:40,600
 Haben ’nen Haufen Gold geklaut!
 
-287
+288
 00:16:40,600 --> 00:16:42,110
 Plapper das nicht aus, du Depp!
 
-288
+289
 00:16:42,110 --> 00:16:43,520
 Schau doch mal, hinter ihr!
 
-289
+290
 00:16:43,940 --> 00:16:46,440
 Sie hat alle mitgebracht!
 
-290
+291
 00:16:47,570 --> 00:16:48,900
 Sind das viele!
 
-291
+292
 00:16:51,740 --> 00:16:56,580
 Au Backe! Das ist übel! Ganz übel!
 
-292
+293
 00:16:56,580 --> 00:16:58,710
 Und was ist das? ’ne riesige Kanone?!
 
-293
+294
 00:16:59,410 --> 00:17:00,170
 Das muss es sein!
 
-294
+295
 00:17:00,580 --> 00:17:03,340
 Sie kommen ja alle gemeinsam zurück...
 
-295
+296
 00:17:03,790 --> 00:17:05,550
 Schnell zum Schiff!
 
-296
+297
 00:17:05,880 --> 00:17:08,470
 Wir können nicht länger bleiben!
 
-297
+298
 00:17:09,720 --> 00:17:11,640
 Zieh’s dir rein! Fette Beute!
 
-298
+299
 00:17:11,640 --> 00:17:13,970
 Prall gefüllte Säcke! Wir sind reich!
 
-299
+300
 00:17:13,970 --> 00:17:17,390
 Hm? Die haben alle Säcke auf dem Rücken!
 
-300
+301
 00:17:17,390 --> 00:17:20,440
 Sag bloß... Wollen sie schon aufbrechen?!
 
-301
+302
 00:17:20,440 --> 00:17:22,850
 Hey, wartet doch! Wartet!
-
-302
-00:17:23,190 --> 00:17:25,070
-Siehste? Jetzt sind wir aufgeflogen!
 
 303
 00:17:22,850 --> 00:17:26,480
 Hey! Wartet! Ihr sollt warten!
 
 304
+00:17:23,190 --> 00:17:25,070
+Siehste? Jetzt sind wir aufgeflogen!
+
+305
 00:17:25,070 --> 00:17:26,480
 Rennt!
 
-305
+306
 00:17:27,730 --> 00:17:30,280
 Okay, ich stell mich hin und sag’s ihnen!
 
-306
+307
 00:17:31,660 --> 00:17:34,700
 Ihr verlangt von uns, wir sollen warten!
 
-307
+308
 00:17:34,700 --> 00:17:36,790
 Ja! Sag’s ihnen, Usopp!
 
-308
+309
 00:17:38,290 --> 00:17:41,290
 Wir haben unser Leben riskiert,
 um diese Himmelsinsel zu erreichen!
 
-309
+310
 00:17:40,790 --> 00:17:42,500
 Ja, genau!
 
-310
+311
 00:17:41,290 --> 00:17:44,040
 Und wir fanden die Goldene Stadt!
 
-311
+312
 00:17:43,040 --> 00:17:46,090
 Beeilung, Robin! Die schnappen uns!
 
-312
+313
 00:17:44,040 --> 00:17:49,130
 Wie können wir stolzen Piraten da mit leeren Händen abreisen?!
 
-313
+314
 00:17:49,590 --> 00:17:51,970
 Wie? Schnappen? Wovon redet der?
 
-314
+315
 00:17:52,340 --> 00:17:54,470
 Wir wollen ihnen nur danken!
 
-315
+316
 00:17:54,470 --> 00:17:58,430
 Hey, wie sieht’s jetzt aus? Wollt ihr das Gold nicht?
 
-316
+317
 00:18:01,890 --> 00:18:02,850
 Scheinbar nicht!
 
-317
+318
 00:18:02,850 --> 00:18:04,730
 Was?!
 
-318
+319
 00:18:04,730 --> 00:18:06,150
 Das gibt’s nicht!
-
-319
-00:18:10,530 --> 00:18:14,070
-Hey! Wartet doch!
 
 320
 00:18:09,650 --> 00:18:11,950
 Lauft!
 
 321
+00:18:10,530 --> 00:18:14,070
+Hey! Wartet doch!
+
+322
 00:18:14,070 --> 00:18:17,490
 Sie sind hinter uns her! Ich hab Angst!
 
-322
+323
 00:18:18,290 --> 00:18:20,450
 Na? War ich nicht cool?!
 
-323
+324
 00:18:20,450 --> 00:18:22,870
 Ja, gut gemacht!
 
-324
+325
 00:18:23,620 --> 00:18:26,290
 Beeil dich, Robinlein!
 
-325
+326
 00:18:26,630 --> 00:18:29,760
 Kommt zurück!
 
-326
+327
 00:18:29,760 --> 00:18:31,420
 Kameraden!
 
-327
+328
 00:18:31,420 --> 00:18:35,340
 Rennt weiter bis ans Ende des Himmels!
 
-328
+329
 00:18:35,340 --> 00:18:39,100
 – Ja!
 – Ja!

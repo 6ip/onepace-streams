@@ -1,1407 +1,1411 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:50,010 --> 00:01:56,260
+Kapitán Kuro
+
+3
 00:01:52,550 --> 00:01:56,300
 Neříkej tomu vražda.
 Zní to špatně, Džango.
 
-3
+4
 00:01:56,300 --> 00:01:58,140
 Ach, ano.
 
-4
+5
 00:01:58,140 --> 00:01:59,770
 Nehoda. Bude to nehoda.
 
-5
+6
 00:02:01,850 --> 00:02:04,350
 Hej, o čem ti týpci mluví?
 
-6
+7
 00:02:04,350 --> 00:02:06,110
 M-Mě se neptej!
 
-7
+8
 00:02:06,110 --> 00:02:08,570
 To bych taky rád věděl!
 
-8
+9
 00:02:08,980 --> 00:02:11,530
 Nemůžeme ji jen tak zabít.
 
-9
+10
 00:02:11,530 --> 00:02:15,450
 Slečna Kaja musí zemřít
 nešťastnou náhodou.
 
-10
+11
 00:02:15,450 --> 00:02:17,030
 Nepokaž to!
 
-11
+12
 00:02:18,080 --> 00:02:23,960
 Takže na váš signál vtrhneme do vesnice a zabijeme tu dívku.
 
-12
+13
 00:02:24,460 --> 00:02:27,710
 A pak zdědíte její bohatství...
 
-13
+14
 00:02:27,710 --> 00:02:30,590
 Hlupáku! Nic nechápeš!
 
-14
+15
 00:02:30,590 --> 00:02:34,130
 Jak bych já, cizinec,
 mohl zdědit Kajin majetek?!
 
-15
+16
 00:02:34,130 --> 00:02:36,010
 Tím, že budete tvrdě pracovat?
 
-16
+17
 00:02:36,010 --> 00:02:37,720
 Tvrdá práce je zbytečná.
 
-17
+18
 00:02:38,600 --> 00:02:41,640
 Poslouchej, tohle je ta nejdůležitější část!
 
-18
+19
 00:02:41,640 --> 00:02:45,690
 Než Kaju zabiješ, použiješ hypnózu,
 abys ji přiměl sepsat závěť...
 
-19
+20
 00:02:46,060 --> 00:02:50,190
 "Své celé jmění
 zanechávám svému komorníkovi, Klahadorovi!"
 
-20
+21
 00:02:52,440 --> 00:02:57,450
 Teprve tehdy zdědím
 její obrovské bohatství...
 
-21
+22
 00:02:58,200 --> 00:03:00,910
 naprosto legálním způsobem.
 
-22
+23
 00:03:01,790 --> 00:03:06,620
 Strávil jsem tři dlouhé roky získáváním si
 její důvěry a všech kolem ní,
 
-23
+24
 00:03:06,620 --> 00:03:10,840
 aby nikoho nepřekvapilo,
 když mi zanechá své dědictví.
 
-24
+25
 00:03:11,460 --> 00:03:14,800
 Tři roky komorníkem kvůli tomuhle?
 
-25
+26
 00:03:14,800 --> 00:03:17,390
 Tehdy jste nás vyděsil,
 
-26
+27
 00:03:17,390 --> 00:03:18,470
 Kapitáne Kuro.
 
-27
+28
 00:03:19,390 --> 00:03:23,220
 Před třemi lety jste náhle řekl,
 že končíte s pirátským životem.
 
-28
+29
 00:03:23,930 --> 00:03:27,190
 A během okamžiku jste dosadil
 podřízeného jako svého dvojníka,
 
-29
+30
 00:03:27,190 --> 00:03:30,860
 a nechal si svět myslet,
 že kapitán Kuro byl popraven.
 
-30
+31
 00:03:41,450 --> 00:03:45,330
 Takže to byl začátek tohohle plánu.
 
-31
+32
 00:03:45,330 --> 00:03:47,370
 Jste opravdu Kuro,
 Muž tisíce plánů.
 
-32
+33
 00:03:47,370 --> 00:03:49,670
 Takhle mě neoslovuj.
 
-33
+34
 00:03:49,670 --> 00:03:51,880
 Toho jména jsem se zřeknul před třemi lety.
 
-34
+35
 00:03:52,130 --> 00:03:56,630
 Teď chci získat bohatství,
 bez vlády v patách.
 
-35
+36
 00:03:56,630 --> 00:03:59,220
 Jinými slovy, jsem teď pacifista.
 
-36
+37
 00:04:01,050 --> 00:04:03,720
 Pacifista, říkáte?
 
-37
+38
 00:04:03,720 --> 00:04:08,190
 Co za pacifistu vyvraždí celou rodinu boháčů?
 
-38
+39
 00:04:08,190 --> 00:04:09,270
 Moment, to tak není.
 
-39
+40
 00:04:09,270 --> 00:04:11,730
 Smrt otce byla skutečně nehoda.
 
-40
+41
 00:04:11,730 --> 00:04:13,610
 Nic z toho jsem neplánoval.
 
-41
+42
 00:04:13,860 --> 00:04:14,940
 No nic.
 
-42
+43
 00:04:14,940 --> 00:04:16,570
 Na tom stejně nesejde.
 
-43
+44
 00:04:16,570 --> 00:04:19,030
 Jen rychle dejte signál.
 
-44
+45
 00:04:19,030 --> 00:04:24,080
 Už skoro týden čekáme na moři.
 
-45
+46
 00:04:24,660 --> 00:04:27,710
 Muži začínají být netrpěliví.
 
-46
+47
 00:04:33,880 --> 00:04:35,460
 To není dobré!
 
-47
+48
 00:04:36,170 --> 00:04:39,090
 Slyšeli jsme něco hroznýho!
 
-48
+49
 00:04:40,220 --> 00:04:43,050
 Hej, co se to děje?
 To zní zle.
 
-49
+50
 00:04:43,050 --> 00:04:46,600
 To jsi snad celou dobu neposlouchal?!
 Je to fakt špatný!
 
-50
+51
 00:04:46,600 --> 00:04:47,930
 To jsou opravdoví piráti!
 
-51
+52
 00:04:48,270 --> 00:04:55,150
 Říká se, že kapitán Kuro byl známý
 jako nejchytřejší a nejkrutější pirát ze všech!
 
-52
+53
 00:04:55,980 --> 00:05:00,240
 Proslýchalo se, že ho mariňáci před třemi lety chytili a popravili...
 
-53
+54
 00:05:00,240 --> 00:05:02,660
 ale kapitán Kuro je očividně naživu...
 
-54
+55
 00:05:02,660 --> 00:05:05,200
 jako Klahador, komorník!
 
-55
+56
 00:05:05,200 --> 00:05:10,830
 Už tři roky jde po Kajině majetku!
 
-56
+57
 00:05:12,380 --> 00:05:14,500
 Zaútočí na vesnici!
 
-57
+58
 00:05:15,040 --> 00:05:16,050
 Kaja je v nebezpečí!
 
-58
+59
 00:05:19,420 --> 00:05:20,590
 To je špatný!
 
-59
+60
 00:05:20,590 --> 00:05:22,890
 To je opravdu špatný!
 
-60
+61
 00:05:25,680 --> 00:05:28,100
 N-Nevstávej!
 Uvidí tě!
 
-61
+62
 00:05:28,100 --> 00:05:29,390
 Hej, vy tam!
 
-62
+63
 00:05:29,390 --> 00:05:31,190
 Nechte tu holku na pokoji!
 
-63
+64
 00:05:33,230 --> 00:05:34,400
 Je tam někdo?!
 
-64
+65
 00:05:34,400 --> 00:05:37,320
 Ty blbče! Zmerčili tě!
 
-65
+66
 00:05:37,320 --> 00:05:39,360
 Rychle se schovej, než tě zabijí!
 
-66
+67
 00:05:39,740 --> 00:05:40,990
 Heleme se...
 
-67
+68
 00:05:40,990 --> 00:05:43,740
 Jestli pak to není Usopp.
 
-68
+69
 00:05:44,990 --> 00:05:46,700
 Uviděli mě!
 
-69
+70
 00:05:47,330 --> 00:05:50,660
 Slyšel jsi snad něco... zajímavého?
 
-70
+71
 00:05:50,660 --> 00:05:53,370
 N-Ne! Co máte na mysli?!
 
-71
+72
 00:05:53,370 --> 00:05:56,130
 Právě jsme přišli, tak jsme ani nic slyšet nemohli!
 
-72
+73
 00:05:56,130 --> 00:05:57,300
 Slyšeli jsme úplně všechno!
 
-73
+74
 00:05:57,300 --> 00:05:58,340
 Hej, ty!
 
-74
+75
 00:06:04,510 --> 00:06:07,760
 Dobře, dobře...
 
-75
+76
 00:06:08,510 --> 00:06:10,270
 Hej, tupci!
 
-76
+77
 00:06:10,730 --> 00:06:12,440
 Dívejte se pozorně na tento kruh!
 
-77
+78
 00:06:12,730 --> 00:06:14,310
 Cože? Co to je?
 
-78
+79
 00:06:14,310 --> 00:06:17,440
 Tohle je zlý! Je to vrhací zbraň! Vyhni se jí!
 
-79
+80
 00:06:18,440 --> 00:06:21,690
 Na povel
 „Jedna, Dva, Džango“
 usnete.
 
-80
+81
 00:06:21,690 --> 00:06:23,150
 Jste připraveni?
 
-81
+82
 00:06:23,150 --> 00:06:24,530
 Jedna...
-
-82
-00:06:24,530 --> 00:06:25,570
-Dva...
 
 83
 00:06:23,700 --> 00:06:26,120
 Schovej se! Zabije nás!
 
 84
+00:06:24,530 --> 00:06:25,570
+Dva...
+
+85
 00:06:26,120 --> 00:06:27,070
 Džango!
 
-85
+86
 00:06:32,200 --> 00:06:33,830
 Hej, probuď se, Džango!
 
-86
+87
 00:06:33,830 --> 00:06:36,040
 Ještě ses toho zlozvyku nezbavil?!
 
-87
+88
 00:06:38,250 --> 00:06:40,880
 H-Hej, co to děláš?
 Spadneš!
 
-88
+89
 00:06:44,680 --> 00:06:47,930
 Teda, hlavou napřed...
 
-89
+90
 00:06:47,930 --> 00:06:50,560
 Nechtěl jsem ho zabít,
 
-90
+91
 00:06:50,560 --> 00:06:53,180
 ale pád z takový výšky nemohl přežít...
 
-91
+92
 00:06:53,560 --> 00:06:54,520
 Sakra!
 
-92
+93
 00:06:55,770 --> 00:06:57,020
 On ho zabil!
 
-93
+94
 00:06:57,020 --> 00:06:58,150
 Ten hajzl!
 
-94
+95
 00:06:58,150 --> 00:06:59,480
 Sakra!
 
-95
+96
 00:06:59,940 --> 00:07:01,480
 A co ten druhý?
 
-96
+97
 00:07:01,480 --> 00:07:03,240
 Mám se o něj taky postarat?
 
-97
+98
 00:07:03,240 --> 00:07:04,450
 To nebude zapotřebí.
 
-98
+99
 00:07:04,820 --> 00:07:07,620
 Ať se pokusí o cokoliv, tak to nebude mít žádný význam.
 
-99
+100
 00:07:10,280 --> 00:07:12,330
 Zítra ráno, Džango.
 
-100
+101
 00:07:12,330 --> 00:07:14,660
 Za úsvitu zaútoč na vesnici.
 
-101
+102
 00:07:14,660 --> 00:07:16,870
 Pleňte a drancujte dle libosti,
 
-102
+103
 00:07:16,870 --> 00:07:21,250
 ale zajisti, aby vražda slečny Kaji vypadala jako nehoda!
 
-103
+104
 00:07:22,630 --> 00:07:23,710
 Zítra!
 
-104
+105
 00:07:24,090 --> 00:07:26,470
 Slyšel jsi správně, Usoppe.
 
-105
+106
 00:07:26,470 --> 00:07:31,220
 Ať uslyšíš cokoli,
 můj plán nezastavíš.
 
-106
+107
 00:07:31,220 --> 00:07:32,640
 Kruci!
 
-107
+108
 00:07:36,600 --> 00:07:38,060
 Jste si tím jistý?
 
-108
+109
 00:07:38,060 --> 00:07:41,110
 Samozřejmě. Můj plán je dokonalý.
 
-109
+110
 00:07:43,530 --> 00:07:46,070
 To je špatné, opravdu špatné!
 
-110
+111
 00:07:46,570 --> 00:07:49,490
 Všichni, s kým jsem vyrůstal, zemřou!
 
-111
+112
 00:07:49,490 --> 00:07:51,580
 Zabijí Kaju!
 
-112
+113
 00:07:51,950 --> 00:07:55,620
 A všechny co mám rád!
 
-113
+114
 00:07:57,790 --> 00:07:59,380
 Kdo jsi?!
 
-114
+115
 00:07:59,380 --> 00:08:01,040
 Jmenuji se Usopp!
 
-115
+116
 00:08:01,040 --> 00:08:03,050
 Jsem statečný mořský válečník!
 
-116
+117
 00:08:04,130 --> 00:08:06,170
 Slyšel jsem, že jsi poslední dobou smutná!
 
-117
+118
 00:08:06,170 --> 00:08:08,220
 Rozveselím tě svým příběhem!
 
-118
+119
 00:08:08,720 --> 00:08:10,590
 Starej se o sebe!
 
-119
+120
 00:08:10,590 --> 00:08:11,600
 Prosím, odejdi!
 
-120
+121
 00:08:11,600 --> 00:08:13,360
 Nebo na tebe někoho zavolám!
 
-121
+122
 00:08:16,850 --> 00:08:19,270
 A potom? Co se stalo pak?!
 
-122
+123
 00:08:19,270 --> 00:08:21,020
 Samozřejmě jsem bojoval!
 
-123
+124
 00:08:22,940 --> 00:08:27,490
 Sakra!
 
-124
+125
 00:08:31,950 --> 00:08:33,330
 – Kapitáne!
 – Kapitáne!
 
-125
+126
 00:08:33,330 --> 00:08:36,540
 Cože? Nebyl s ním Luffy?
 
-126
+127
 00:08:38,750 --> 00:08:39,920
 – Kapitáne!
 – Kapitáne!
 
-127
+128
 00:08:41,040 --> 00:08:43,380
 Kde je Luffy...?
 Nešli jste spolu na břeh...?
 
-128
+129
 00:08:47,720 --> 00:08:52,050
 Je pořád naštvaný kvůli té urážce?
 
-129
+130
 00:08:53,390 --> 00:08:55,010
 Kdo ví?
 
-130
+131
 00:08:55,260 --> 00:08:57,520
 Ne, ten výraz byl jiný!
 
-131
+132
 00:08:57,520 --> 00:08:59,270
 Jo, něco se muselo stát!
 
-132
+133
 00:08:59,270 --> 00:09:01,730
 Co ho mohlo tak vyděsit?!
 
-133
+134
 00:09:02,560 --> 00:09:05,110
 Jak se dostaneme na ten tvůj břeh?
 
-134
+135
 00:09:05,480 --> 00:09:07,610
 Nezní to jako problém?!
 
-135
+136
 00:09:07,610 --> 00:09:09,900
 Jo! Na břehu se něco stalo!
 
-136
+137
 00:09:09,900 --> 00:09:12,070
 Tohle je práce pro Usoppovu posádku!
 
-137
+138
 00:09:12,320 --> 00:09:14,950
 No tak, jak se tam dostaneme?!
 
-138
+139
 00:09:19,790 --> 00:09:22,960
 Špatný zprávy, lidi!
 
-139
+140
 00:09:22,960 --> 00:09:27,420
 Piráti přicházejí!
 
-140
+141
 00:09:30,840 --> 00:09:34,640
 Zítra ráno na tuto vesnici zaútočí piráti!
 
-141
+142
 00:09:34,640 --> 00:09:36,470
 Utíkejte o život!
 
-142
+143
 00:09:54,200 --> 00:09:55,410
 Dobrá, Usoppe!
 
-143
+144
 00:09:55,410 --> 00:09:57,620
 Teď už toho bylo tak akorát dost!
 
-144
+145
 00:09:57,620 --> 00:10:00,830
 Skončíš s tím jednou provždy!
 
-145
+146
 00:10:00,830 --> 00:10:03,330
 N-Ne, tak to není!
 
-146
+147
 00:10:03,330 --> 00:10:04,670
 Tentokrát je to pravda!
 
-147
+148
 00:10:04,920 --> 00:10:08,000
 Sklapni! Pořád jenom lžeš!
 
-148
+149
 00:10:08,000 --> 00:10:12,170
 Kdybys byl tak upřímný jako Klahador, tak bychom ti věřili!
 
-149
+150
 00:10:12,220 --> 00:10:15,090
 Ať se pokusí o cokoliv, tak to nebude mít žádný význam.
 
-150
+151
 00:10:15,090 --> 00:10:16,680
 Zítra ráno, Džango.
 
-151
+152
 00:10:16,680 --> 00:10:18,930
 Za úsvitu zaútoč na vesnici.
 
-152
+153
 00:10:19,680 --> 00:10:21,060
 Sakra!
 
-153
+154
 00:10:21,060 --> 00:10:26,230
 Takže mě nechal být, protože věděl, že mi nikdo neuvěří?!
 
-154
+155
 00:10:32,570 --> 00:10:34,820
 Jak se Vám líbí?
 
-155
+156
 00:10:35,740 --> 00:10:38,870
 Jsou dělané na zakázku...
 
-156
+157
 00:10:39,200 --> 00:10:41,410
 v oční optice ve vedlejším městě.
 
-157
+158
 00:10:41,410 --> 00:10:43,290
 Ano, jsou perfektní!
 
-158
+159
 00:10:44,290 --> 00:10:47,840
 Omlouvám se, že jsi musel cestovat tak daleko.
 
-159
+160
 00:10:54,630 --> 00:10:56,010
 Je to dárek, že?
 
-160
+161
 00:10:56,010 --> 00:10:57,260
 Ano.
 
-161
+162
 00:10:57,260 --> 00:11:01,770
 Zítra to budou tři roky,
 co Klahador přišel do tohoto sídla.
 
-162
+163
 00:11:01,770 --> 00:11:04,020
 Vždycky se o mě dobře staral, takže...
 
-163
+164
 00:11:04,560 --> 00:11:07,190
 Klahador bude určitě velmi potěšen!
 
-164
+165
 00:11:07,190 --> 00:11:07,980
 Snad ano!
 
-165
+166
 00:11:10,730 --> 00:11:13,240
 Všichni mě, prosím, poslouchejte!
 
-166
+167
 00:11:13,610 --> 00:11:16,320
 Piráti zítra ráno opravdu zaútočí!
 
-167
+168
 00:11:16,700 --> 00:11:21,700
 Kdybychom věřili každému tvému výmyslu,
 utekli bychom z vesnice už tak stokrát!
 
-168
+169
 00:11:21,700 --> 00:11:24,290
 Prosím, věřte mi!
 Musíme odsud pryč!
 
-169
+170
 00:11:24,290 --> 00:11:27,420
 Opravdu všechny zabijí!
 
-170
+171
 00:11:27,420 --> 00:11:30,210
 Přísahám, tentokrát je to pravda!
 
-171
+172
 00:11:30,210 --> 00:11:32,920
 Tentokrát my naopak dostaneme tebe!
 
-172
+173
 00:11:36,340 --> 00:11:38,470
 Sakra!
 
-173
+174
 00:11:38,470 --> 00:11:40,760
 Chyťte ho! Nenechte ho utéct!
 
-174
+175
 00:11:48,770 --> 00:11:51,820
 Děkuji, že jste přišli, chlapi.
 
-175
+176
 00:11:51,820 --> 00:11:53,780
 Byly to opravdu dlouhé tři roky.
 
-176
+177
 00:11:54,360 --> 00:11:57,030
 Jakmile tento plán uspěje...
 
-177
+178
 00:11:57,030 --> 00:12:01,240
 Chci vám všem dát kořisti do sytosti.
 
-178
+179
 00:12:02,200 --> 00:12:06,290
 Zítra za úsvitu drancujte dle libosti!
 
-179
+180
 00:12:13,750 --> 00:12:16,220
 Cože?! Chtějí zabít slečnu Kaju?!
 
-180
+181
 00:12:16,220 --> 00:12:19,430
 Opravdu zaútočí na vesnici?!
 
-181
+182
 00:12:20,180 --> 00:12:21,050
 Jo.
 
-182
+183
 00:12:21,050 --> 00:12:23,390
 Tak to řekli, o tom není pochyb.
 
-183
+184
 00:12:27,560 --> 00:12:30,440
 Tak proč tady dole spíš?
 
-184
+185
 00:12:30,900 --> 00:12:32,110
 To je právě ono!
 
-185
+186
 00:12:32,110 --> 00:12:34,940
 Myslel jsem, že jsem nahoře na útesu...
 
-186
+187
 00:12:35,440 --> 00:12:38,030
 Jak jsem se sem dostal?
 
-187
+188
 00:12:35,900 --> 00:12:38,200
 Věděl jsem to! 
 Klahador je špatný člověk!
 
-188
+189
 00:12:38,200 --> 00:12:39,780
 Není divu, že z něj mám husinu!
 
-189
+190
 00:12:39,780 --> 00:12:43,700
 Tak proto náš kapitán běžel do vesnice s takovým výrazem!
 
-190
+191
 00:12:43,700 --> 00:12:44,990
 To je skvělé!
 
-191
+192
 00:12:44,990 --> 00:12:47,960
 Teď už to ví a můžou utéct, než se něco stane!
 
-192
+193
 00:12:47,960 --> 00:12:49,500
 Jsou to fakt tupci!
 
-193
+194
 00:12:49,500 --> 00:12:52,420
 Jo, přesně tak!
 My musíme taky utéct!
 
-194
+195
 00:12:52,420 --> 00:12:54,250
 Jo, radši si sbalíme všechny cennosti...
 
-195
+196
 00:12:54,250 --> 00:12:55,210
 – ...a rychle!
 – ...a rychle!
 
-196
+197
 00:12:58,920 --> 00:12:59,590
 Ach ne!
 
-197
+198
 00:12:59,590 --> 00:13:00,760
 Co je?
 
-198
+199
 00:13:00,590 --> 00:13:04,560
 Musíme nakoupit jídlo,
 předtím než uteče prodavač!
 
-199
+200
 00:13:05,680 --> 00:13:07,890
 To teď není ten největší problém.
 
-200
+201
 00:13:24,780 --> 00:13:25,970
 Usopp!
 
-201
+202
 00:13:32,370 --> 00:13:33,540
 Díky bohu!
 
-202
+203
 00:13:33,540 --> 00:13:36,050
 Myslela jsem, že se už nevrátíš...
 
-203
+204
 00:13:37,210 --> 00:13:39,050
 Musíš utéct, Kajo!
 
-204
+205
 00:13:39,050 --> 00:13:40,260
 Zabijí tě!
 
-205
+206
 00:13:40,510 --> 00:13:41,300
 Eh...
 
-206
+207
 00:13:42,010 --> 00:13:43,340
 Co to vykládáš?
 
-207
+208
 00:13:43,340 --> 00:13:45,470
 Obelstili tě!
 
-208
+209
 00:13:45,470 --> 00:13:47,430
 Tvůj sluha je ve skutečnosti pirát!
 
-209
+210
 00:13:54,060 --> 00:13:55,580
 Počkej...
 
-210
+211
 00:13:56,480 --> 00:13:58,530
 To má být žert?
 
-211
+212
 00:13:59,820 --> 00:14:01,240
 To není žádný žert!
 
-212
+213
 00:14:01,240 --> 00:14:03,410
 Slyšel jsem to na vlastní uši!
 
-213
+214
 00:14:05,370 --> 00:14:06,620
 Klahador je pirát...
 
-214
+215
 00:14:06,620 --> 00:14:10,200
 vplížil se do tvého sídla, aby získal tvé jmění!
 
-215
+216
 00:14:10,200 --> 00:14:15,000
 Tři roky předstírá, že je
 sluha, jenom aby tě okradl!
 
-216
+217
 00:14:17,000 --> 00:14:20,260
 Co to vykládáš, Usoppe?
 
-217
+218
 00:14:20,760 --> 00:14:25,220
 Prohlásil, že zítra za úsvitu zaútočí jeho posádka a všechny zabije!
 
-218
+219
 00:14:33,890 --> 00:14:38,480
 Je to opravdu zlý člověk!
 Musíš rychle utéct!
 
-219
+220
 00:14:40,110 --> 00:14:42,820
 Uznávám, že to dneska přehnal.
 
-220
+221
 00:14:43,450 --> 00:14:45,460
 Ale takováhle lež...
 
-221
+222
 00:14:46,370 --> 00:14:48,090
 Tohle nejsi ty, Usoppe!
 
-222
+223
 00:14:49,740 --> 00:14:52,510
 Ne, není to lež...
 
-223
+224
 00:14:55,670 --> 00:14:57,130
 Je to pravda...
 
-224
+225
 00:14:58,500 --> 00:15:01,260
 Je to pravda!
 
-225
+226
 00:15:05,300 --> 00:15:06,300
 Tak povídej, Usoppe...
 
-226
+227
 00:15:07,010 --> 00:15:09,140
 Pověz mi, Usoppe...
 
-227
+228
 00:15:09,140 --> 00:15:12,390
 Jaký příběh mi dnes budeš vyprávět?
 
-228
+229
 00:15:12,990 --> 00:15:14,810
 Hmm...
 
-229
+230
 00:15:14,810 --> 00:15:17,100
 Tak tedy...
 Dneska...
 
-230
+231
 00:15:17,100 --> 00:15:17,860
 Ano?
 
-231
+232
 00:15:17,860 --> 00:15:19,480
 Dobře!
 
-232
+233
 00:15:20,070 --> 00:15:23,320
 Když mi bylo asi tak pět let...
 
-233
+234
 00:15:23,320 --> 00:15:28,280
 Zápasil jsem s obrovským Karasem zlatým v jižních mořích!
 
-234
+235
 00:15:28,280 --> 00:15:29,950
 Karas zlatý?
 
-235
+236
 00:15:29,950 --> 00:15:31,440
 Bojoval jsi s Karasem zlatým?
 
-236
+237
 00:15:31,440 --> 00:15:34,460
 Jo! Byl tak velký, že by se nevešel ani do akvária...
 
-237
+238
 00:15:34,870 --> 00:15:38,280
 o velikosti tohoto sídla!
 
-238
+239
 00:15:38,280 --> 00:15:39,350
 Božínku!
 
-239
+240
 00:15:46,340 --> 00:15:47,510
 Já...
 
-240
+241
 00:15:48,430 --> 00:15:50,220
 Měla jsem je ráda.
 
-241
+242
 00:15:52,640 --> 00:15:56,230
 Ty lži co jsi mi vyprávěl jsem měla ráda...
 
-242
+243
 00:15:57,480 --> 00:16:00,190
 Proč, ale říkáš tohle?
 
-243
+244
 00:16:02,190 --> 00:16:06,610
 Není to tak jak si myslíš!
 Nesnažím se Klahadorovi pomstít...
 
-244
+245
 00:16:06,990 --> 00:16:09,420
 Co tě k tomu přimělo?
 
-245
+246
 00:16:10,570 --> 00:16:12,530
 Kajo... já...
 
-246
+247
 00:16:20,250 --> 00:16:22,670
 Je všechno v pořádku, slečno?!
 
-247
+248
 00:16:27,840 --> 00:16:29,510
 Kajo, musíš utéct!
 
-248
+249
 00:16:30,090 --> 00:16:32,430
 Okamžitě ji pusť!
 
-249
+250
 00:16:33,890 --> 00:16:35,810
 Prostě mi věř!
 
-250
+251
 00:16:35,810 --> 00:16:37,810
 Musíš odejít z vesnice...
 
-251
+252
 00:16:37,810 --> 00:16:40,350
 dřív, než se ten sluha vrátí!
 
-252
+253
 00:16:52,620 --> 00:16:53,700
 Přestaň!
 
-253
+254
 00:16:56,750 --> 00:16:57,370
 Tak pojď!
 
-254
+255
 00:17:03,040 --> 00:17:05,340
 Zítra ti to všechno bude dávat smysl!
 
-255
+256
 00:17:05,340 --> 00:17:07,090
 Ale prozatím musíš hlavně utéct!
 
-256
+257
 00:17:07,090 --> 00:17:08,550
 Prosím, poslechni mě!
 
-257
+258
 00:17:18,480 --> 00:17:20,230
 Jsi hrozný!
 
-258
+259
 00:17:31,700 --> 00:17:33,620
 Okamžitě jdi od ní!
 
-259
+260
 00:17:36,990 --> 00:17:37,700
 To ne!
 
-260
+261
 00:17:51,300 --> 00:17:53,300
 Prosím, chyťte ho!
 
-261
+262
 00:17:53,300 --> 00:17:55,510
 Snažil se ublížit paní domu!
 
-262
+263
 00:17:55,800 --> 00:17:56,760
 To je příšerné!
 
-263
+264
 00:17:56,760 --> 00:17:58,100
 Jak to mohl udělat?!
 
-264
+265
 00:18:02,890 --> 00:18:03,980
 Proč...
 
-265
+266
 00:18:05,110 --> 00:18:07,110
 Proč mi nikdo nevěří?
 
-266
+267
 00:18:10,610 --> 00:18:12,150
 Táhmle je!
 
-267
+268
 00:18:12,150 --> 00:18:13,740
 Chyťte ho!
 
-268
+269
 00:18:19,750 --> 00:18:22,000
 Usoppe...
 
-269
+270
 00:18:22,750 --> 00:18:25,790
 Držte se, slečno!
 
-270
+271
 00:18:29,210 --> 00:18:31,470
 Zítra ráno, Džango.
 
-271
+272
 00:18:31,470 --> 00:18:34,220
 Za úsvitu zaútoč na vesnici!
 
-272
+273
 00:18:37,930 --> 00:18:39,930
 – Kapitáne!
 – Kapitáne!
 
-273
+274
 00:18:42,520 --> 00:18:44,270
 Čau, kluci!
 
-274
+275
 00:18:44,900 --> 00:18:45,940
 Hej!
 
-275
+276
 00:18:47,650 --> 00:18:49,610
 T-Ty žiješ?!
 
-276
+277
 00:18:49,610 --> 00:18:50,980
 Žiju?
 
-277
+278
 00:18:50,980 --> 00:18:53,150
 Jo, právě jsem se probudil!
 
-278
+279
 00:18:53,150 --> 00:18:54,950
 Celou dobu spal!
 
-279
+280
 00:18:54,950 --> 00:18:56,280
 Každopádně, kapitáne!
 
-280
+281
 00:18:56,280 --> 00:18:58,160
 Slyšeli jsme všechno!
 
-281
+282
 00:18:58,160 --> 00:19:01,540
 Pojďme rychle všem říct o těch pirátech!
 
-282
+283
 00:19:01,540 --> 00:19:03,500
 Všem říct?
 
-283
+284
 00:19:06,500 --> 00:19:07,960
 Jsi k hrozný!
 
-284
+285
 00:19:10,420 --> 00:19:12,840
 Sklapni! Pořád jenom lžeš!
 
-285
+286
 00:19:22,100 --> 00:19:24,560
 Vždyť přece lžu jako vždycky!
 
-286
+287
 00:19:24,560 --> 00:19:26,560
 Ten zatracený sluha mě tak vytočil,
 
-287
+288
 00:19:26,560 --> 00:19:29,520
 tak jsem si vymyslel lež, že je pirát!
 
-288
+289
 00:19:31,320 --> 00:19:32,820
 Aha!
 
-289
+290
 00:19:32,820 --> 00:19:35,780
 Takže ten kluk se slamákem v tom jede taky!
 
-290
+291
 00:19:40,240 --> 00:19:42,200
 Hej, co se děje?
 
-291
+292
 00:19:42,200 --> 00:19:42,950
 Já...
 
-292
+293
 00:19:43,370 --> 00:19:45,330
 Nemůžu uvěřit, že jste to udělal, kapitáne.
 
-293
+294
 00:19:45,330 --> 00:19:45,960
 Ani já ne!
 
-294
+295
 00:19:45,960 --> 00:19:46,580
 Já taky ne!
 
-295
+296
 00:19:46,580 --> 00:19:48,960
 I kdyby ten sluha byl blbec,
 
-296
+297
 00:19:48,960 --> 00:19:53,590
 Nikdy jsem si nemyslel, že bys lhal jen proto, aby jsi někoho zranil!
 
-297
+298
 00:19:53,590 --> 00:19:56,840
 Opravdu jsme tě respektovali!
 
-298
+299
 00:19:56,840 --> 00:19:57,720
 Jdeme domů!
 
-299
+300
 00:19:57,720 --> 00:19:59,430
 Jo, je čas na večeři!
 
-300
+301
 00:19:59,430 --> 00:20:00,970
 Zajímalo by mě, co budeme mít...
 
-301
+302
 00:20:06,730 --> 00:20:09,270
 Proč jsi jim to řekl?
 
-302
+303
 00:20:09,270 --> 00:20:11,440
 Protože jsem lhář.
 
-303
+304
 00:20:11,440 --> 00:20:14,900
 Nikdo mi stejně nevěřil.
 
-304
+305
 00:20:14,900 --> 00:20:16,240
 Byl jsem příliš optimistický.
 
-305
+306
 00:20:17,360 --> 00:20:20,200
 I přesto, pravda je pravda.
 
-306
+307
 00:20:20,700 --> 00:20:23,740
 Piráti opravdu přijdou, že?
 
-307
+308
 00:20:23,740 --> 00:20:26,250
 Jo, určitě dorazí.
 
-308
+309
 00:20:26,250 --> 00:20:28,750
 Ale všichni si myslí,
 že jsem si to vymyslel.
 
-309
+310
 00:20:28,750 --> 00:20:32,880
 Myslí si, že zítra bude jen další poklidný den...
 
-310
+311
 00:20:34,840 --> 00:20:36,300
 Právě proto...
 
-311
+312
 00:20:36,300 --> 00:20:40,220
 Zítra na pláži ty piráty zastavím
 a postarám se, aby to lež zůstala!
 
-312
+313
 00:20:40,220 --> 00:20:44,180
 Pro lháře, jako jsem já,
 je to jediné rozumné řešení!
 
-313
+314
 00:20:45,810 --> 00:20:48,350
 I když mě postřelí do ruky...
 
-314
+315
 00:20:48,890 --> 00:20:51,400
 nebo mě ženou košťaty...
 
-315
+316
 00:20:51,400 --> 00:20:53,690
 Tohle je moje vesnice!
 
-316
+317
 00:20:53,690 --> 00:20:56,070
 Tuhle vesnici miluju!
 
-317
+318
 00:20:57,400 --> 00:21:00,030
 Chci všechny ochránit!
 
-318
+319
 00:21:00,990 --> 00:21:02,620
 Seš fakt dobrej chlap,
 
-319
+320
 00:21:02,620 --> 00:21:05,490
 odstrčit takhle vlastní posádku, a jít do boje sám!
 
-320
+321
 00:21:05,490 --> 00:21:09,000
 Jen aby bylo jasno, zabírám si všechnu kořist!
 
-321
+322
 00:21:09,000 --> 00:21:10,960
 Dobrá!
 Pomůžeme ti!
 
-322
+323
 00:21:11,460 --> 00:21:12,460
 Vy...
 
-323
+324
 00:21:12,460 --> 00:21:14,710
 chcete bojovat se mnou?!
 
-324
+325
 00:21:14,710 --> 00:21:15,920
 Proč?
 
-325
+326
 00:21:15,920 --> 00:21:19,220
 Je tam spousta padouchů, ne?
 
-326
+327
 00:21:19,220 --> 00:21:21,430
 Tvůj výraz prozrazuje, že se bojíš.
 
-327
+328
 00:21:21,430 --> 00:21:23,260
 J-Já, a bát se?!
 
-328
+329
 00:21:23,260 --> 00:21:26,430
 V klídku porazím spoustu padouchů, nebo kohokoliv!
 
-329
+330
 00:21:26,430 --> 00:21:31,600
 Koneckonců jsem kapitán Usopp,
 odvážný mořský válečník!
 
-330
+331
 00:21:34,020 --> 00:21:35,110
 Sakra! Sakra!
 
-331
+332
 00:21:35,110 --> 00:21:36,860
 Co tak koukáš?!
 
-332
+333
 00:21:36,860 --> 00:21:39,110
 Máme co do činění
 s Klahadorovou posádkou!
 
-333
+334
 00:21:39,110 --> 00:21:40,570
 Samozřejmě, že se bojím!
 
-334
+335
 00:21:40,570 --> 00:21:42,070
 Co je na tom špatného?!
 
-335
+336
 00:21:42,070 --> 00:21:44,070
 Nechte si svou lítost!
 
-336
+337
 00:21:44,070 --> 00:21:46,540
 Přestaňte se smát a odejděte! Jděte pryč!
 
-337
+338
 00:21:47,040 --> 00:21:48,540
 Nesmějeme se!
 
-338
+339
 00:21:48,540 --> 00:21:51,500
 Jsme ohromeni.
 Proto ti chceme pomoct!
 
-339
+340
 00:21:52,500 --> 00:21:55,460
 Jako bychom riskovali životy kvůli lítosti!
 
-340
+341
 00:22:00,720 --> 00:22:02,470
 Ó...
 
-341
+342
 00:22:02,470 --> 00:22:04,390
 Vy...

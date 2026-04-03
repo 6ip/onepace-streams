@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -160,147 +160,148 @@ Gastémoslos en fiestas alocadas,
 derrochándolo todo...
 
 41
+00:02:29,930 --> 00:02:36,950
+¡El hombre invisible y
+el secreto de la mansión!
+
+42
 00:03:43,440 --> 00:03:45,510
 ¿Qué? ¿Por qué?
 
-42
+43
 00:04:27,680 --> 00:04:34,690
 DUEÑO DE LA MANSIÓN (GENIO CIRUJANO)
 DOCTOR HOGBACK
 
-43
+44
 00:04:35,620 --> 00:04:36,540
 ¡Usopp!
 
-44
+45
 00:07:49,820 --> 00:07:51,820
 ¡Entonces, buen provecho!
 
-45
+46
 00:08:38,540 --> 00:08:40,650
 ¿Se referirá a...?
 
-46
+47
 00:08:40,650 --> 00:08:43,820
 No... no puede ser...
 
-47
+48
 00:08:45,460 --> 00:08:47,420
 BAÑO DE LA MANSIÓN
 
-48
+49
 00:09:50,940 --> 00:09:53,470
 ¡¿D-Dónde están?!
 
-49
+50
 00:10:12,510 --> 00:10:13,770
 No...
 
-50
+51
 00:10:35,710 --> 00:10:37,420
 Mola
 
-51
+52
 00:10:35,710 --> 00:10:37,420
 Shi
 
-52
+53
 00:10:35,710 --> 00:10:37,420
 Chibukai
 
-53
+54
 00:10:35,710 --> 00:10:37,420
 Fansub!
 
-54
+55
 00:10:35,710 --> 00:10:37,420
 Buu: Onomatopeya de las flatulencias.
 
-55
+56
 00:10:57,630 --> 00:10:59,020
 ¡Hay alguien aquí...!
 
-56
+57
 00:12:04,020 --> 00:12:07,870
 MIENTRAS TANTO, EN EL THOUSAND SUNNY
 LUFFY Y LOS OTROS
 
-57
+58
 00:14:41,080 --> 00:14:44,060
 ¿Salimos de la fosa y entramos en un bosque?
 
-58
+59
 00:15:03,130 --> 00:15:04,850
 ¡Te tengo!
 
-59
+60
 00:15:08,850 --> 00:15:10,420
 ¡Deja de joder!
 
-60
+61
 00:15:10,840 --> 00:15:13,420
 LA MANSIÓN DEL DOCTOR HOGBACK
 
-61
+62
 00:16:12,390 --> 00:16:16,660
 DENTRO DE LA MANSIÓN
 PASILLO DEL SEGUNDO PISO
 
-62
+63
 00:19:53,600 --> 00:19:58,230
 Mola
 
-63
+64
 00:19:53,600 --> 00:19:58,230
 Shi
 
-64
+65
 00:19:53,600 --> 00:19:58,230
 Chibukai
 
-65
+66
 00:19:53,600 --> 00:19:58,230
 Fansub!
 
-66
+67
 00:19:53,600 --> 00:19:58,230
 Onomatopeya del sonido que hace un cerdo.
 
-67
+68
 00:21:31,090 --> 00:21:33,710
 ¡Malditos piratas!
 
-68
+69
 00:21:51,020 --> 00:21:53,400
 ¡No escaparán!
 
-69
+70
 00:22:01,470 --> 00:22:02,660
 ¡Alto!
 
-70
+71
 00:25:52,430 --> 00:25:54,100
 ¡Una caja sorpresa!
 
-71
+72
 00:26:05,490 --> 00:26:08,150
 "Aquí no se encuentra el tesoro...".
 
-72
+73
 00:26:08,150 --> 00:26:10,970
 Eso lo dijo el zombi fuerte y claro.
 
-73
+74
 00:27:40,030 --> 00:27:44,570
 Negativo, negativo, negativo...
 
-74
+75
 00:30:52,940 --> 00:30:55,200
 ¡Obviamente es un zombi!
-
-75
-00:31:30,610 --> 00:31:33,910
-¡Roku-oku Beri Jackpot!
 
 76
 00:31:30,110 --> 00:31:34,110
@@ -323,69 +324,73 @@ Fansub!
 Premio de seiscientos millones de bellies.
 
 81
+00:31:30,610 --> 00:31:33,910
+¡Roku-oku Beri Jackpot!
+
+82
 00:31:48,840 --> 00:31:52,800
 ¡No, perdón, no lo hacemos!
 
-82
+83
 00:32:10,940 --> 00:32:13,070
 ¡Regla, regla, regla, regla!
 
-83
+84
 00:32:13,070 --> 00:32:15,120
 ¡Regla, regla, regla, regla!
 
-84
+85
 00:32:15,120 --> 00:32:17,200
 Los tres pasaron por aquí.
 
-85
+86
 00:32:42,580 --> 00:32:44,400
 ¡Idiota, no lo digas!
 
-86
+87
 00:33:14,630 --> 00:33:17,060
 ¡Te dijimos que es un zombi!
 
-87
+88
 00:33:19,690 --> 00:33:23,070
 ¡Es muy confuso, así que diremos que eres un zombi!
 
-88
-00:33:59,560 --> 00:34:02,110
-Mola
-
 89
 00:33:59,560 --> 00:34:02,110
-Shi
+Mola
 
 90
 00:33:59,560 --> 00:34:02,110
-Chibukai
+Shi
 
 91
 00:33:59,560 --> 00:34:02,110
-Fansub!
+Chibukai
 
 92
 00:33:59,560 --> 00:34:02,110
-Su nombre se pronuncia como "Gekkou" que significa "Luz de Luna".
+Fansub!
 
 93
-00:34:18,290 --> 00:34:20,840
-Mola
+00:33:59,560 --> 00:34:02,110
+Su nombre se pronuncia como "Gekkou" que significa "Luz de Luna".
 
 94
 00:34:18,290 --> 00:34:20,840
-Shi
+Mola
 
 95
 00:34:18,290 --> 00:34:20,840
-Chibukai
+Shi
 
 96
 00:34:18,290 --> 00:34:20,840
-Fansub!
+Chibukai
 
 97
+00:34:18,290 --> 00:34:20,840
+Fansub!
+
+98
 00:34:18,290 --> 00:34:20,840
 Ouka Shichibukai: Siete Grandes Piratas.

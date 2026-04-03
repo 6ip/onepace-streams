@@ -1,1300 +1,1293 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:50,050 --> 00:01:58,310
+Krone der Schöpfungen
+
+3
+00:02:12,200 --> 00:02:17,830
+Vordereingang
+Arlong Park
+
+4
 00:02:21,370 --> 00:02:22,830
 Das dürfte reichen.
 
-3
+5
 00:02:27,340 --> 00:02:31,130
 Momoo! Fütterungszeit! Momoo!
 
-4
+6
 00:02:31,130 --> 00:02:34,090
 Seltsam.
 
-5
+7
 00:02:34,090 --> 00:02:37,720
 Er sollte doch am Verhungern sein.
 
-6
+8
 00:02:37,720 --> 00:02:39,060
 Wo ist er nur hin?
 
-7
+9
 00:02:47,560 --> 00:02:48,270
 Gen!
 
-8
+10
 00:02:50,780 --> 00:02:53,400
 Der Waffenbesitz ist ganz klar eine Rebellion.
 
-9
+11
 00:02:53,400 --> 00:02:56,450
 Damit sich nicht noch mehr Rebellen wie du zeigen,
 
-10
+12
 00:02:56,450 --> 00:03:01,160
 werde ich dich zur Abschreckung aller anderen auf der Stelle töten.
 
-11
+13
 00:03:01,990 --> 00:03:06,920
 Als ob! Er tötet schon jemanden, nur weil er eine Waffe besitzt?!
 
-12
+14
 00:03:06,920 --> 00:03:08,290
 Das darf er nicht!
 
-13
+15
 00:03:08,290 --> 00:03:10,130
 H-H-Hey, hör mal!
 
-14
+16
 00:03:11,340 --> 00:03:13,840
 Dazu hast du kein Recht, Arlong!
 
-15
+17
 00:03:16,300 --> 00:03:21,430
 Seit acht Jahren zahlen wir ohne Unterlass unseren Tribut!
 
-16
+18
 00:03:21,430 --> 00:03:24,270
 Wieso sollten wir auf einmal rebellieren?
 
-17
+19
 00:03:24,680 --> 00:03:26,520
 Finger weg von Gen!
 
-18
+20
 00:03:28,860 --> 00:03:30,060
 Genau!
 
-19
+21
 00:03:30,060 --> 00:03:32,780
 Er hat nie seine Waffen benutzt!
 
-20
+22
 00:03:32,780 --> 00:03:33,820
 Hör damit auf!
 
-21
+23
 00:03:33,820 --> 00:03:35,650
 Lass Gen los!
 
-22
+24
 00:03:36,150 --> 00:03:40,120
 Wer Waffen besitzt,
 der könnte auch rebellieren.
 
-23
+25
 00:03:40,580 --> 00:03:42,690
 Und jetzt?
 
-24
+26
 00:03:42,690 --> 00:03:44,580
 Soll ich das gesamte Dorf zerstören?
 
-25
+27
 00:03:45,160 --> 00:03:50,750
 Wenn nur einer von euch uns was antut,
 dann war’s das für euer Dorf.
 
-26
+28
 00:03:50,750 --> 00:03:53,300
 Das wäre mir auch recht.
 
-27
+29
 00:03:54,050 --> 00:03:55,800
 Geht wieder alle rein!
 
-28
+30
 00:03:56,800 --> 00:04:00,390
 Wenn wir jetzt hier revoltieren,
 wären die acht Jahre vergebens gewesen!
 
-29
+31
 00:04:00,390 --> 00:04:03,770
 Wenn ihr bis zum Tod gegen ihn kämpfen wollt,
 
-30
+32
 00:04:03,770 --> 00:04:06,770
 dann hättet ihr das schon vor acht Jahren tun sollen!
 
-31
+33
 00:04:06,770 --> 00:04:14,230
 Wir haben doch alle geschworen, das auszusitzen, um zu überleben!
 
-32
+34
 00:04:15,110 --> 00:04:16,110
 Gen...
 
-33
+35
 00:04:16,110 --> 00:04:17,200
 Aber...
 
-34
+36
 00:04:17,570 --> 00:04:20,570
 Was für eine schöne Ansicht! Tolle Ansprache!
 
-35
+37
 00:04:20,570 --> 00:04:23,580
 Ja! Das Leben ist doch was Feines!
 
-36
+38
 00:04:23,580 --> 00:04:26,750
 Selbst für Abschaum wie euch!
 
-37
+39
 00:04:28,080 --> 00:04:29,250
 Gen!
 
-38
+40
 00:04:30,630 --> 00:04:34,630
 Nicht alle Lebewesen werden gleichwertig geboren!
 
-39
+41
 00:04:36,420 --> 00:04:37,300
 Mistkerl!
 
-40
+42
 00:04:37,300 --> 00:04:37,880
 Hört auf!
 
-41
+43
 00:04:38,760 --> 00:04:41,340
 Macht nichts.
 
-42
+44
 00:04:41,760 --> 00:04:42,800
 Aber, Gen!
 
-43
+45
 00:04:45,220 --> 00:04:48,230
 Wenn ihr sterbt, ist alles aus.
 
-44
+46
 00:04:48,230 --> 00:04:50,770
 Ihr müsst weiter ausharren!
 
-45
+47
 00:04:51,270 --> 00:04:52,810
 Selbst wenn ich dafür sterbe!
 
-46
+48
 00:04:52,810 --> 00:04:54,940
 Was für eine Entschlossenheit!
 
-47
+49
 00:04:54,940 --> 00:04:57,320
 Schaut gut her, Menschlein!
 
-48
+50
 00:04:58,070 --> 00:05:02,820
 Das passiert mit all jenen, die auch nur Böses denken!
 
-49
+51
 00:05:02,820 --> 00:05:04,620
 Schießpulver-Stern!
 
-50
+52
 00:05:07,790 --> 00:05:09,410
 W-Was war das?
 
-51
+53
 00:05:10,540 --> 00:05:12,210
 Seht mal! Dort oben!
 
-52
+54
 00:05:13,080 --> 00:05:15,590
 Da ist jemand auf dem Dach!
 
-53
+55
 00:05:16,960 --> 00:05:18,880
 Wer zum Geier bist du?!
 
-54
+56
 00:05:18,880 --> 00:05:24,720
 Mein Name ist Kapitän Usopp, tapferer Krieger der See!
 
-55
+57
 00:05:26,060 --> 00:05:27,430
 Er ist es!
 
-56
+58
 00:05:27,430 --> 00:05:29,680
 D-Die Welt fürchtet mich als
 
-57
+59
 00:05:29,680 --> 00:05:32,810
 Dämonenkönig Usopp aus der Unterwelt!
 
-58
+60
 00:05:32,810 --> 00:05:34,900
 Wenn ihr jetzt abhaut, verschone ich euch!
 
-59
+61
 00:05:34,900 --> 00:05:36,400
 Ich habe 8.000...
 
-60
+62
 00:05:36,400 --> 00:05:38,440
 Arlong! Das ist er!
 
-61
+63
 00:05:38,440 --> 00:05:41,070
 Der Kerl von vorhin!
 
-62
+64
 00:05:41,070 --> 00:05:44,370
 Bring so viele tausend Männer, wie du willst.
 
-63
+65
 00:05:44,370 --> 00:05:47,870
 Ich werde jeden einzelnen von ihnen zerreißen!
 
-64
+66
 00:05:49,410 --> 00:05:52,250
 Der hat weder Angst, noch bringt
 mein Schießpulver-Stern irgendwas!
 
-65
+67
 00:05:52,250 --> 00:05:54,750
 Was hat ein Mensch...
 
-66
+68
 00:05:54,750 --> 00:05:58,250
 Ein niederer,
 widerlicher Mensch mir angetan?!
 
-67
+69
 00:06:04,720 --> 00:06:06,850
 Arlong! Warte mal!
 
-68
+70
 00:06:06,850 --> 00:06:10,680
 Sonst verlieren wir nach Gosa eine weitere Einnahmequelle.
 
-69
+71
 00:06:11,020 --> 00:06:13,760
 Menschensiedlungen lassen sich leicht zerstören,
 
-70
+72
 00:06:13,760 --> 00:06:16,900
 aber wir müssen über sie herrschen.
 
-71
+73
 00:06:16,900 --> 00:06:19,360
 Wenn wir eine verlieren,
 müssen wir eben eine neue erobern!
 
-72
+74
 00:06:19,360 --> 00:06:23,150
 Wir sind die überlegene Spezies!
 
-73
+75
 00:06:24,030 --> 00:06:25,410
 Jetzt zerstört er das Dorf!
 
-74
+76
 00:06:29,120 --> 00:06:30,290
 Ist er...?
 
-75
+77
 00:06:31,830 --> 00:06:33,410
 Ich werde sterben! So was von sterben!
 
-76
+78
 00:06:33,660 --> 00:06:36,460
 E-Er lebt noch! Ihm nach!
 
-77
+79
 00:06:34,830 --> 00:06:35,630
 Scheiße!
 
-78
+80
 00:06:38,290 --> 00:06:40,380
 Fangt und tötet ihn!
 
-79
+81
 00:06:40,380 --> 00:06:43,130
 Hey! Kehren wir zum Arlong Park zurück!
 
-80
+82
 00:06:43,130 --> 00:06:45,510
 Sonst macht er echt noch das Dorf dem Erdboden gleich.
 
-81
+83
 00:06:45,510 --> 00:06:46,340
 Ja!
 
-82
+84
 00:06:47,350 --> 00:06:49,350
 Lasst ihn nicht entkommen!
 
-83
+85
 00:06:49,350 --> 00:06:51,350
 Für wen hält der uns?
 
-84
+86
 00:06:51,350 --> 00:06:52,980
 Wir kommen wieder.
 
-85
+87
 00:06:53,480 --> 00:06:55,310
 Fürs Erste bleibt ihr verschont.
 
-86
+88
 00:07:01,690 --> 00:07:03,030
 Tut mir leid,
 
-87
+89
 00:07:03,030 --> 00:07:05,110
 ich habe euch so viel Ärger bereitet.
 
-88
+90
 00:07:05,110 --> 00:07:06,860
 Was redest du da?
 
-89
+91
 00:07:06,860 --> 00:07:08,450
 Du trägst keine Schuld daran!
 
-90
+92
 00:07:08,450 --> 00:07:09,410
 Ja!
 
-91
+93
 00:07:09,410 --> 00:07:12,370
 Aber wer war der junge Kerl gerade?
 
-92
+94
 00:07:12,950 --> 00:07:14,460
 Leute!
 
-93
+95
 00:07:14,460 --> 00:07:16,000
 Schön, euch alle zu sehen!
 
-94
+96
 00:07:16,710 --> 00:07:18,500
 Nami!
 
-95
+97
 00:07:17,460 --> 00:07:18,500
 Sie ist es!
 
-96
+98
 00:07:27,010 --> 00:07:28,340
 Was ist los?
 
-97
+99
 00:07:28,340 --> 00:07:30,890
 Sonst kommst du nicht direkt ins Dorf.
 
-98
+100
 00:07:31,260 --> 00:07:33,430
 Ich habe den Lärm gehört.
 
-99
+101
 00:07:33,430 --> 00:07:34,890
 Das war Arlong, oder?
 
-100
+102
 00:07:45,570 --> 00:07:48,320
 Nur noch sieben Millionen Berry...
 
-101
+103
 00:07:49,410 --> 00:07:52,830
 Dein Ruf ist wie immer schrecklich.
 
-102
+104
 00:07:52,830 --> 00:07:55,660
 Schon gut. Bin ja auch ein Pirat!
 
-103
+105
 00:07:55,660 --> 00:07:58,080
 Doch mit Arlong lässt sich reden.
 
-104
+106
 00:07:58,080 --> 00:08:00,380
 Mit Geld werde ich das alles klären,
 
-105
+107
 00:08:01,250 --> 00:08:03,880
 es wird nicht mehr lange dauern.
 
-106
+108
 00:08:07,260 --> 00:08:09,760
 Ich werde 100 Millionen Berry zusammenkratzen
 
-107
+109
 00:08:09,760 --> 00:08:11,760
 und dieses Dorf kaufen!
 
-108
+110
 00:08:14,890 --> 00:08:19,650
 Sie will, dass ich abhaue, aber wo soll ich denn hin?
 
-109
+111
 00:08:20,020 --> 00:08:23,860
 Außerdem habe ich Luffy versprochen, sie zurückzubringen.
 
-110
+112
 00:08:23,860 --> 00:08:26,740
 Wo steckt der eigentlich?
 
-111
+113
 00:08:26,740 --> 00:08:28,610
 Langsam wird’s ungemütlich.
 
-112
+114
 00:08:30,690 --> 00:08:32,910
 Das ist verdammt noch mal meins!
 
-113
+115
 00:08:40,920 --> 00:08:43,450
 Ist ja gut, tut mir leid. Nimm halt das hier.
 
-114
+116
 00:08:43,450 --> 00:08:47,420
 Das kann ich nicht essen! Ich bin doch kein Hund!
 
-115
+117
 00:08:48,640 --> 00:08:49,780
 Seid leise.
 
-116
+118
 00:08:57,890 --> 00:08:58,890
 Es ist riesig.
 
-117
+119
 00:09:05,400 --> 00:09:06,820
 Was ist das?
 
-118
+120
 00:09:09,530 --> 00:09:13,620
 Ein Seemonster!
 
-119
+121
+00:09:09,570 --> 00:09:14,370
+Momoo die Seekuh
+Kampftier
+Arlong-Piraten
+
+122
 00:09:14,740 --> 00:09:16,990
 Eine Kuh! Und ’ne große dazu!
 
-120
+123
 00:09:17,500 --> 00:09:20,250
 Eine Kuh? Die können nicht schwimmen.
 
-121
+124
 00:09:20,250 --> 00:09:21,330
 Muss ein Nilpferd sein.
 
-122
+125
 00:09:21,330 --> 00:09:24,170
 Was macht denn so ein Vieh im East Blue?!
 
-123
+126
 00:09:24,170 --> 00:09:27,130
 Das ist eine Kreatur von der Grand Line!
 
-124
+127
 00:09:29,760 --> 00:09:30,840
 Huch?
 
-125
+128
 00:09:30,840 --> 00:09:32,550
 Was will das Vieh?
 
-126
+129
 00:09:36,220 --> 00:09:37,680
 Es hat es auf das Essen abgesehen!
 
-127
+130
 00:09:37,680 --> 00:09:38,430
 Was?!
 
-128
+131
 00:09:38,430 --> 00:09:41,140
 Nun gib ihm schon was!
 Sonst bringt er das Boot zum Kent-
 
-129
+132
 00:09:41,140 --> 00:09:43,940
 Gum-Gum Pistol!
 
-130
+133
 00:09:48,320 --> 00:09:50,570
 Pfoten weg von meinem Essen!
 
-131
+134
 00:09:50,570 --> 00:09:52,910
 Juhu! Du bist der
 Wahnsinn, Bruder Luffy!
 
-132
+135
 00:09:56,370 --> 00:09:57,870
 Du hast es wohl wütend gemacht!
 
-133
+136
 00:09:57,870 --> 00:09:59,250
 Nachschlag gefälligst?
 
-134
+137
 00:09:59,250 --> 00:10:00,450
 Du Vollpfosten!
 
-135
+138
 00:10:00,450 --> 00:10:03,290
 Verprügle nicht einfach jemanden
 grundlos, der nur Hunger hat.
 
-136
+139
 00:10:04,250 --> 00:10:07,880
 Vermutlich ist es verletzt und kann sich selbst keine Beute erlegen.
 
-137
+140
 00:10:07,880 --> 00:10:09,630
 Oder was meinst du?
 
-138
+141
 00:10:09,630 --> 00:10:11,340
 Was für eine Tierliebe...
 
-139
+142
 00:10:11,840 --> 00:10:13,260
 Hier, iss ruhig.
 
-140
+143
 00:10:13,260 --> 00:10:15,510
 Halt dich nicht zurück.
 
-141
+144
 00:10:21,390 --> 00:10:23,520
 Stirb, du Drecksvieh!
 
-142
+145
 00:10:26,230 --> 00:10:28,840
 Was machst du denn da?
 
-143
+146
 00:10:28,840 --> 00:10:30,480
 Was ist mit deiner Tierliebe?
 
-144
+147
 00:10:30,480 --> 00:10:33,280
 Das Drecksvieh wollte mich wohl auch verspachteln.
 
-145
+148
 00:10:37,660 --> 00:10:39,490
 Da kommt es!
 Es wird das Boot versenken!
 
-146
+149
 00:10:39,490 --> 00:10:40,330
 Das Mistvieh!
 
-147
+150
 00:10:40,330 --> 00:10:42,000
 Zurück. Ich mach das.
 
-148
+151
 00:10:46,420 --> 00:10:49,380
 Collier Shoot!
 
-149
+152
 00:10:52,510 --> 00:10:53,720
 Drecksnilpferd...
 
-150
+153
 00:10:58,140 --> 00:11:00,760
 Sauber! Weiterfuttern!
 
-151
+154
 00:11:00,760 --> 00:11:02,600
 Das war ein tolles Workout.
 
-152
+155
 00:11:02,600 --> 00:11:04,850
 Die Kerle haben einen an der Waffel.
 
-153
+156
 00:11:07,440 --> 00:11:08,940
 Was dauert das denn so lange?
 
-154
+157
 00:11:13,190 --> 00:11:15,780
 Wann lässt sich Luffy hier blicken?
 
-155
+158
 00:11:15,780 --> 00:11:18,950
 In spätestens fünf Minuten sterbe ich vor Langeweile.
 
-156
+159
 00:11:22,240 --> 00:11:23,700
 Oh! Toll!
 
-157
+160
 00:11:23,700 --> 00:11:26,280
 Nicht einmal Hacchan,
 der große Oktopusanführer
 
-158
+161
 00:11:26,280 --> 00:11:28,290
 der Arlong-Piraten,
 kann dich an Land ziehen!
 
-159
+162
 00:11:28,290 --> 00:11:30,790
 Du bist ein erstklassiger Fisch!
 
-160
+163
 00:11:30,790 --> 00:11:36,090
 Keine Ahnung, wer du bist, aber du bist der mutigste Fisch im East Blue!
 
-161
+164
 00:11:36,090 --> 00:11:37,800
 Was zum Geier?
 
-162
+165
 00:11:37,800 --> 00:11:41,060
 Ach! Ich hatte mich die ganze Zeit selbst an der Angel!
 
-163
+166
 00:11:43,310 --> 00:11:47,140
 Ich bin eben doch der mutigste Fisch im East Blue.
 
-164
+167
 00:11:47,140 --> 00:11:49,650
 Huch? Klingt das nicht seltsam?
 
-165
+168
 00:11:50,270 --> 00:11:51,320
 Allerdings.
 
-166
+169
 00:11:52,320 --> 00:11:54,900
 W-Wer bist du denn?
 
-167
+170
 00:11:56,570 --> 00:11:57,490
 Ich?
 
-168
+171
 00:11:57,490 --> 00:11:59,530
 Ich bin Hacchan.
 
-169
+172
 00:11:59,530 --> 00:12:01,410
 Nenn mich ruhig Hachi.
 
-170
+173
 00:12:01,410 --> 00:12:03,290
 Du bist auch ein Fischmensch?
 
-171
+174
 00:12:03,290 --> 00:12:05,170
 Aber sicher, sicher!
 
-172
+175
 00:12:05,170 --> 00:12:07,540
 Ich bin ein faszinierender Oktopus-Fischmensch!
 
-173
+176
 00:12:07,540 --> 00:12:09,710
 Du siehst mir wie ein Mensch aus.
 
-174
+177
 00:12:09,710 --> 00:12:10,580
 J-Ja.
 
-175
+178
 00:12:10,580 --> 00:12:13,340
 Von der Marine?
 Oder bist du ein Gast?
 
-176
+179
 00:12:13,670 --> 00:12:14,880
 Ein Gast?
 
-177
+180
 00:12:16,420 --> 00:12:18,010
 Dann wäre ich wohl eher ein Gast.
 
-178
+181
 00:12:18,010 --> 00:12:20,220
 Arlong ist gerade nicht da, oder?
 
-179
+182
 00:12:20,220 --> 00:12:21,930
 Nö. Wo ist er hin?
 
-180
+183
 00:12:21,930 --> 00:12:27,350
 Ein langnasiger Fremder treibt hier sein Unwesen.
 
-181
+184
 00:12:27,350 --> 00:12:29,980
 Er hat seinen Kumpel geschnappt
 
-182
+185
 00:12:29,980 --> 00:12:33,070
 und ist ins Dorf Cocoyashi, um ihn zu schnappen.
 
-183
+186
 00:12:33,480 --> 00:12:35,190
 Usopp, ja?
 
-184
+187
 00:12:35,190 --> 00:12:36,990
 Dann sollte ich ihn wohl lieber retten.
 
-185
+188
 00:12:39,240 --> 00:12:41,120
 Das Dorf Cocoyashi...
 
-186
+189
 00:12:42,160 --> 00:12:42,990
 Wie komme ich da hin?
 
-187
+190
 00:12:42,990 --> 00:12:44,120
 Spring rein.
 
-188
+191
 00:12:46,540 --> 00:12:48,290
 Du bist unser Gast.
 
-189
+192
 00:12:48,290 --> 00:12:49,580
 Ich bringe dich dorthin,
 
-190
+193
 00:12:50,210 --> 00:12:51,830
 Schwertkämpfer.
 
-191
+194
 00:13:04,260 --> 00:13:06,930
 Scheiße! Ich kann sie nicht abschütteln!
 
-192
+195
 00:13:11,270 --> 00:13:12,190
 W-Wo ist er hin?
 
-193
+196
 00:13:13,310 --> 00:13:15,070
 Wer hält den großen Usopp für zu wichtig,
 
-194
+197
 00:13:15,070 --> 00:13:17,570
 als dass er jetzt schon sterben könnte?
 
-195
+198
 00:13:17,570 --> 00:13:18,690
 Ich!
 
-196
+199
 00:13:18,690 --> 00:13:20,700
 Ich! Ich! Ich! Ich!
 
-197
+200
 00:13:21,070 --> 00:13:23,490
 Du Depp! Was denkst du dir dabei?
 
-198
+201
 00:13:23,870 --> 00:13:25,950
 Ach, ihr denkt auch so?
 
-199
+202
 00:13:25,950 --> 00:13:27,120
 Da kann ich nur zustimmen!
 
-200
+203
 00:13:33,040 --> 00:13:34,040
 W-Was?
 
-201
+204
 00:13:36,460 --> 00:13:38,710
 Spezialattacke: Eier-Stern!
 
-202
+205
 00:13:48,170 --> 00:13:51,230
 Wie schmeckt euch das?
 Ihr Fischmenschen seid doch nicht so toll!
 
-203
+206
 00:13:51,230 --> 00:13:53,900
 Ihr alle habt Kapitän Usopp entkommen lassen!
 
-204
+207
 00:13:56,320 --> 00:13:57,650
 I-Ich weiß nichts!
 
-205
+208
 00:14:09,750 --> 00:14:10,660
 Huch?
 
-206
+209
 00:14:10,660 --> 00:14:11,410
 Was?
 
-207
+210
 00:14:14,670 --> 00:14:16,630
 Danke für deinen Zuspruch!
 
-208
+211
 00:14:16,630 --> 00:14:19,840
 Mir geht’s gut!
 
-209
+212
 00:14:24,720 --> 00:14:26,430
 Das Dorf Cocoyashi.
 
-210
+213
 00:14:26,430 --> 00:14:29,010
 Arlong sollte hier sein.
 
-211
+214
 00:14:29,010 --> 00:14:30,520
 Klasse. Danke.
 
-212
+215
 00:14:30,520 --> 00:14:33,100
 Keine Ursache! Man sieht sich!
 
-213
+216
 00:14:35,730 --> 00:14:39,270
 Uppsala! Mir fiel gerade ein,
 dass ich gar nicht deinen Namen kenne.
 
-214
+217
 00:14:39,270 --> 00:14:42,780
 Hä? Ich? Wieso fragst du schon wieder nach meinem Namen?
 
-215
+218
 00:14:42,780 --> 00:14:44,320
 Ich heiße Hacchan!
 
-216
+219
 00:14:44,320 --> 00:14:46,160
 Man sieht sich!
 
-217
+220
 00:14:47,570 --> 00:14:48,780
 Schräger Vogel.
 
-218
+221
 00:15:01,630 --> 00:15:03,920
 W-Was ist denn hier passiert?
 
-219
+222
 00:15:05,930 --> 00:15:07,680
 Was ist nur passiert,
 
-220
+223
 00:15:10,260 --> 00:15:12,720
 meine Brüder?!
 
-221
+224
 00:15:14,850 --> 00:15:16,310
 Roronoa...
 
-222
+225
 00:15:17,940 --> 00:15:20,360
 Was? Was willst du mir damit sagen?
 
-223
+226
 00:15:21,110 --> 00:15:23,570
 Roronoa Zoro...
 
-224
+227
 00:15:23,570 --> 00:15:24,570
 Was?!
 
-225
+228
 00:15:24,570 --> 00:15:26,530
 Der Piratenjäger?!
 
-226
+229
 00:15:26,530 --> 00:15:28,820
 Hat er es auf meinen Kopf abgesehen?
 
-227
+230
 00:15:31,330 --> 00:15:33,980
 N-Nein, er kam nicht her...
 
-228
+231
 00:15:33,980 --> 00:15:35,580
 D-Dieser Kerl...
 
-229
+232
 00:15:35,580 --> 00:15:36,920
 Er war Zoro!
 
-230
+233
 00:15:36,920 --> 00:15:37,960
 Was?!
 
-231
+234
 00:15:38,420 --> 00:15:42,840
 Der Kerl mit dem Bauchwärmer,
 den wir geschnappt haben, war Roronoa...
 
-232
+235
 00:15:47,760 --> 00:15:49,140
 Ich hab ihn, Arlong.
 
-233
+236
 00:15:50,100 --> 00:15:52,180
 W-Was in aller Welt?
 
-234
+237
 00:15:53,180 --> 00:15:55,100
 D-Das war doch nicht etwa Zoro?
 
-235
+238
 00:15:58,520 --> 00:16:03,650
 Diesen Abschaum zu schnappen, stillt nicht meinen Hunger.
 
-236
+239
 00:16:05,070 --> 00:16:08,320
 N-Nicht wahr? Ihr solltet mich gehen lassen!
 
-237
+240
 00:16:08,320 --> 00:16:10,030
 Ich wollte doch vorhin nur hallo sagen!
 
-238
+241
 00:16:10,030 --> 00:16:12,830
 S-So machen wir das in meinem Dorf!
 
-239
+242
 00:16:15,540 --> 00:16:18,870
 Aber du gehörst zu Zoros Leuten.
 
-240
+243
 00:16:20,330 --> 00:16:22,870
 Eigentlich sollte es mich nicht überraschen,
 
-241
+244
 00:16:22,870 --> 00:16:25,630
 dass es berühmte Kopfgeldjäger auf mich abgesehen haben.
 
-242
+245
 00:16:27,670 --> 00:16:29,760
 Töte mich nicht!
 
-243
+246
 00:16:29,760 --> 00:16:34,100
 Ich habe nichts mit Zoro zu schaffen!
 
-244
+247
 00:16:34,970 --> 00:16:36,930
 Spar dir die schlechten Lügen.
 
-245
+248
 00:16:36,930 --> 00:16:39,140
 Du hast dich auch Arlong widersetzt.
 
-246
+249
 00:16:39,140 --> 00:16:41,560
 Dein letztes Stündlein hat geschlagen.
 
-247
+250
 00:16:42,940 --> 00:16:47,570
 H-Hey! In der Tat stehen uns Zoro und ich sehr nahe!
 
-248
+251
 00:16:47,570 --> 00:16:49,570
 Wenn ihr mir ein Haar krümmt,
 
-249
+252
 00:16:49,570 --> 00:16:51,370
 wird es euch Zoro heimzahlen!
 
-250
+253
 00:16:51,370 --> 00:16:56,200
 Ach? Wenn ich dich also umlege,
 kommt Zoro zurück?
 
-251
+254
 00:16:57,960 --> 00:17:00,080
 N-Nein, ganz sicher nicht!
 
-252
+255
 00:17:00,080 --> 00:17:04,090
 Mich zu töten, wäre ganz schlimm! Zoro kommt nur, wenn ich lebe!
 
-253
+256
 00:17:04,090 --> 00:17:07,380
 Aber wenn ihr mich umlegt,
 dann wird auch Zoro nicht kommen!
 
-254
+257
 00:17:07,880 --> 00:17:10,050
 Aber wie ist Zoro...
 
-255
+258
 00:17:11,220 --> 00:17:12,760
 überhaupt entkommen?
 
-256
+259
 00:17:12,760 --> 00:17:14,260
 Was meinst du damit?
 
-257
+260
 00:17:14,260 --> 00:17:16,890
 Irgendjemand muss ihm zur Flucht verholfen haben.
 
-258
+261
 00:17:18,180 --> 00:17:19,810
 Arlong,
 
-259
+262
 00:17:19,810 --> 00:17:22,060
 leuchtet dir das nicht ein?
 
-260
+263
 00:17:22,060 --> 00:17:24,440
 Vielleicht hat Nami Zoro hier reingelassen,
 
-261
+264
 00:17:24,440 --> 00:17:27,230
 um dir die Lichter auszuknipsen?
 
-262
+265
 00:17:27,900 --> 00:17:31,200
 I-Irgendwie verhält sich Nami in letzter Zeit so seltsam.
 
-263
+266
 00:17:31,200 --> 00:17:34,240
 Ja. Sie hat ja sogar Zoro gerettet, als er ins Wasser gesprungen ist.
 
-264
+267
 00:17:34,240 --> 00:17:37,370
 Sie hat doch nicht von Anfang an mit Zoro unter einer Decke gesteckt
 
-265
+268
 00:17:37,370 --> 00:17:38,870
 und uns alle reingelegt?
 
-266
+269
 00:17:40,080 --> 00:17:43,170
 Betrug ist ihr Spezialgebiet.
 
-267
+270
 00:17:43,670 --> 00:17:45,340
 Das reicht jetzt!
 
-268
+271
 00:17:47,750 --> 00:17:50,920
 Fällt kein Urteil über mich auf Grundlage von Vermutungen.
 
-269
+272
 00:17:52,260 --> 00:17:53,090
 Nami...
 
-270
+273
 00:17:53,720 --> 00:17:55,600
 Hütet eure Zunge.
 
-271
+274
 00:17:56,100 --> 00:17:59,350
 Dass ich Teil dieser Bande bin,
 habe ich doch vor acht Jahren
 
-272
+275
 00:18:00,010 --> 00:18:02,940
 auf diese Tätowierung geschworen.
 
-273
+276
 00:18:04,560 --> 00:18:06,610
 Tut mir leid.
 
-274
+277
 00:18:06,610 --> 00:18:10,280
 Nami, an deiner Stelle wäre ich auch wütend.
 
-275
+278
 00:18:10,280 --> 00:18:15,870
 Aber sei unbesorgt. Ich verdächtige dich nicht im Geringsten.
 
-276
+279
 00:18:15,870 --> 00:18:18,950
 Wir kennen uns jetzt schon seit acht Jahren.
 
-277
+280
 00:18:19,410 --> 00:18:22,410
 Wir sind hier nur ein wenig nervös.
 
-278
+281
 00:18:22,410 --> 00:18:24,830
 Oder, Nami?
 
-279
+282
 00:18:24,830 --> 00:18:29,210
 Wir müssen uns vielmehr Roronoa Zoro und seine Leute vorknöpfen.
 
-280
+283
 00:18:29,210 --> 00:18:30,800
 H-Hey, Nami!
 
-281
+284
 00:18:30,800 --> 00:18:33,760
 S-Sag doch was!
 
-282
+285
 00:18:33,760 --> 00:18:34,840
 Nami!
 
-283
+286
 00:18:37,550 --> 00:18:39,970
 Zoro musste es ja gleich so weit kommen lassen...
 
-284
+287
 00:18:42,930 --> 00:18:44,270
 Was ist los, Nami?
 
-285
+288
 00:18:47,110 --> 00:18:49,440
 Du wirkst etwas blass.
 
-286
+289
 00:18:50,860 --> 00:18:53,110
 Aber diese Langnase hier
 
-287
+290
 00:18:54,280 --> 00:18:57,870
 kannst nicht einmal du retten.
 
-288
+291
 00:18:58,200 --> 00:19:01,040
 Nicht, nachdem er sich Arlong widersetzt hat.
 
-289
+292
 00:19:01,040 --> 00:19:02,160
 Wie lange denn noch?
 
-290
+293
 00:19:02,790 --> 00:19:05,290
 Wie lange willst du mich noch verdächtigen?
 
-291
+294
 00:19:05,290 --> 00:19:08,090
 Du bist ein kluges Köpfchen.
 
-292
+295
 00:19:08,090 --> 00:19:11,800
 Ich habe bald die Summe zusammen,
 auf die Arlong und ich uns geeinigt haben.
 
-293
+296
 00:19:11,800 --> 00:19:13,590
 Wieso sollte ich euch
 gerade jetzt verraten?
 
-294
+297
 00:19:13,920 --> 00:19:15,220
 Weiß ich doch.
 
-295
+298
 00:19:15,970 --> 00:19:17,970
 Du hast vor acht Jahren zugestimmt,
 
-296
+299
 00:19:17,970 --> 00:19:21,390
 das Dorf Cocoyashi von Arlong für 100 Millionen Berry zu kaufen.
 
-297
+300
 00:19:22,890 --> 00:19:25,520
 Aber irgendwie leuchtet mir das nicht ein.
 
-298
+301
 00:19:25,890 --> 00:19:28,290
 Du hast die Dorfbewohner und deine Adoptivmutter
 
-299
+302
 00:19:28,290 --> 00:19:31,070
 verraten und nur dem Geld vertraut.
 
-300
+303
 00:19:31,070 --> 00:19:33,530
 Wieso schert dich das Dorf Cocoyashi noch so sehr?
 
-301
+304
 00:19:33,530 --> 00:19:36,860
 Wieso so ein kleines Kaff?
 
-302
+305
 00:19:37,360 --> 00:19:42,620
 Ich habe das hier in deinem Zimmer gefunden.
 
-303
+306
 00:19:46,040 --> 00:19:47,290
 D-Das gehört...
 
-304
+307
 00:19:48,130 --> 00:19:49,330
 Das gehört mir!
 
-305
+308
 00:19:50,420 --> 00:19:52,090
 W-Wie bitte?
 
-306
+309
 00:19:52,550 --> 00:19:54,090
 Usopp wurde geschnappt?
 
-307
+310
 00:19:54,090 --> 00:19:57,590
 Ja! Sie haben ihn vorhin zum Arlong Park gebracht.
 
-308
+311
 00:19:57,590 --> 00:20:00,850
 Dieses tapfere Kerlchen hat sich Arlong widersetzt!
 
-309
+312
 00:20:00,850 --> 00:20:02,600
 Er ist bestimmt bereits tot!
 
-310
+313
 00:20:05,100 --> 00:20:06,060
 Scheiße!
 
-311
+314
 00:20:06,770 --> 00:20:10,560
 Er musste ausgerechnet geschnappt werden,
 nachdem ich dort rumgehockt hatte.
 
-312
+315
 00:20:12,690 --> 00:20:14,940
 Usopp! Kratz nicht ab!
 
-313
+316
 00:20:29,580 --> 00:20:33,630
 Vorwärts! Zum Arlong Park!
 
-314
+317
 00:20:46,480 --> 00:20:49,270
 Warte auf uns, Nami!
-
-315
-00:02:12,200 --> 00:02:17,830
-Vordereingang
-Arlong Park
-
-316
-00:02:12,200 --> 00:02:17,830
-Vordereingang
-Arlong Park
-
-317
-00:09:09,570 --> 00:09:14,370
-Momoo die Seekuh
-Kampftier
-Arlong-Piraten
-
-318
-00:09:09,570 --> 00:09:14,370
-Momoo die Seekuh
-Kampftier
-Arlong-Piraten

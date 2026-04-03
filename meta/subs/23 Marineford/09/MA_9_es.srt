@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -100,33 +100,37 @@ porque no queremos perder aquello que nos importa.
 Avancemos hacia ese futuro en el que creímos...
 
 26
+00:04:00,190 --> 00:04:05,420
+Asalto
+
+27
 00:04:16,740 --> 00:04:19,000
 ¡Ryuusei Kazan!
 
-27
+28
 00:04:31,450 --> 00:04:33,820
 ¡No dejaremos que escapen!
 
-28
+29
 00:04:33,820 --> 00:04:37,120
 ¡Derritan el hielo y acaben con su punto de apoyo!
 
-29
+30
 00:08:47,260 --> 00:08:51,440
 ¡Sí!
 
-30
+31
 00:14:58,270 --> 00:14:59,130
 ¡Sí, señor!
 
-31
+32
 00:18:17,400 --> 00:18:17,900
 ¡Soru!
 
-32
+33
 00:21:26,920 --> 00:21:28,930
 ¡Sí!
 
-33
+34
 00:24:09,230 --> 00:24:10,460
 ¡Oars!

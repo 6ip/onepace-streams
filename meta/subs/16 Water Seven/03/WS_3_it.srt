@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -68,2771 +68,2726 @@ Scusate! Prenderò lo yagara in prestito per un po'!
 Round Turn!
 
 18
+00:02:47,520 --> 00:02:52,270
+Il caso del pirata rapito
+
+19
 00:02:55,790 --> 00:02:57,990
 Maledizione! È fuggito di nuovo!
 
-19
+20
 00:02:57,990 --> 00:03:00,790
 Ci vediamo, bella gente, statemi bene!
 
-20
+21
 00:03:00,790 --> 00:03:03,950
 Facciamo un'altra corsetta insieme quando vi va!
 
-21
+22
 00:03:03,950 --> 00:03:05,450
 Maledizione!
 
-22
+23
 00:03:05,450 --> 00:03:10,230
 Beh, comunque, siete arrivati 
 proprio al momento giusto!
 
-23
+24
+00:03:05,540 --> 00:03:11,500
+Paulie
+Addetto all'allestimento
+e all'albero delle navi
+Dock 1
+Galley-La Company
+
+25
 00:03:14,400 --> 00:03:17,880
 Che fortuna! 
 Quello è uno dei tuoi carpentieri, vero?
 
-24
+26
 00:03:17,880 --> 00:03:19,480
 Esatto.
 
-25
+27
 00:03:19,480 --> 00:03:21,300
 Ehi! Grazie!
 
-26
+28
 00:03:21,930 --> 00:03:24,260
 Quei soldi sono nostri!
 
-27
+29
 00:03:24,260 --> 00:03:25,350
 Eh, "soldi"?
 
-28
+30
 00:03:25,350 --> 00:03:27,800
 Oh, questi...?
 
-29
+31
 00:03:29,810 --> 00:03:35,310
 Eeehi! Ma ehi!
 
-30
+32
 00:03:35,310 --> 00:03:36,980
 Torna qui!
 
-31
+33
 00:03:36,980 --> 00:03:38,280
 Quel bastardo...!
 
-32
+34
 00:03:38,280 --> 00:03:40,870
 Lo prendo e...!
 
-33
+35
 00:03:42,490 --> 00:03:43,660
 Vado io!
 
-34
+36
 00:03:43,660 --> 00:03:47,620
 E-Eh? I-Il piccione...?
 
-35
+37
 00:03:47,620 --> 00:03:50,940
 Ahi, ahi, ahi, ahi, ahi! 
 Ehi, ehi, ehi, lasciami!
 
-36
+38
 00:03:50,940 --> 00:03:53,080
 Che cavolo stai facendo?!
 
-37
+39
 00:03:53,080 --> 00:03:57,040
 Non scapperò! 
 Te l'ho già detto, ho capito!
 
-38
+40
 00:03:57,040 --> 00:03:58,550
 Lasciami l'orecchio!
 
-39
+41
+00:03:58,630 --> 00:04:04,930
+Rob Lucci
+Addetto all'intaglio del 
+legno e dei cavicchi
+Dock 1
+Galley-La Company
+
+42
 00:03:59,780 --> 00:04:03,000
 Per una volta che avevo trovato tanti soldi...
 
-40
+43
 00:04:03,000 --> 00:04:04,930
 Non lo dimenticherò mai, Lucci!
 
-41
+44
 00:04:04,930 --> 00:04:09,300
 Non provare a saldare i tuoi 
 debiti con soldi altrui, idiota!
 
-42
+45
 00:04:09,300 --> 00:04:11,180
 Ma questi soldi li ho trovati io!
 
-43
+46
 00:04:11,180 --> 00:04:14,100
 Continui ancora?! Gru gru!
 
-44
+47
 00:04:14,100 --> 00:04:17,790
 Erano sullo yagara che ho 
 preso in prestito per caso!{
 
-45
+48
 00:04:17,790 --> 00:04:19,690
 Siete tornati, eh?
 
-46
+49
 00:04:20,290 --> 00:04:22,870
 Ah, che fortuna, vero, Usopp?
 
-47
+50
 00:04:22,870 --> 00:04:26,990
 Potevi occupartene tu! Stiamo parlando 
 dei nostri duecento milioni di berry!
 
-48
+51
 00:04:27,710 --> 00:04:32,190
 Infatti! Perché non sei andato
  tu a prenderli per primo?!
 
-49
+52
 00:04:32,190 --> 00:04:34,870
 Na quel piccione ha detto "vado io", quindi...
 
-50
+53
 00:04:34,870 --> 00:04:37,600
 Beh, sono spiacente.
 
-51
+54
 00:04:37,600 --> 00:04:40,510
 Lasciate che mi occupi io dei miei subordinati.
 
-52
+55
 00:04:40,510 --> 00:04:43,900
 Se lo faceste voi, la situazione
 potrebbe farsi problematica.
 
-53
+56
 00:04:43,900 --> 00:04:48,510
 Beh, dovreste essere felici che la 
 Famiglia Franky non vi ha derubati.
 
-54
+57
 00:04:48,510 --> 00:04:50,430
 Sì, anche quello è vero, ma...
 
-55
+58
 00:04:50,430 --> 00:04:52,370
 Già, vero, vero!
 
-56
+59
 00:04:54,230 --> 00:04:59,070
 Ehi, ma quindi quelli chi erano? 
 Quelli vestiti strani di prima.
 
-57
+60
 00:04:59,070 --> 00:05:02,400
 La Famiglia Franky gestisce un centro di demolizione.
 
-58
+61
 00:05:02,400 --> 00:05:07,370
 "Centro di demolizione"? 
 Non sembravano avere un lavoro così serio.
 
-59
+62
 00:05:07,370 --> 00:05:11,600
 Sì. In effetti, il loro secondo 
 lavoro è fare i cacciatori di taglie,
 
-60
+63
 00:05:11,600 --> 00:05:16,000
 quindi cercano di provocare trambusti 
 con i pirati che approdano in città.
 
-61
+64
 00:05:16,000 --> 00:05:17,830
 Creano innumerevoli problemi.
 
-62
+65
 00:05:17,830 --> 00:05:23,380
 Se riescono ad abbattere i pirati giunti qui,
 potranno ottenere le loro navi, no?
 
-63
+66
 00:05:23,380 --> 00:05:26,930
 Demolendole, possono rivendere 
 il legname riutilizzabile.
 
-64
+67
 00:05:26,930 --> 00:05:29,890
 Questa è l'attività della Famiglia Franky,
 
-65
+68
 00:05:29,890 --> 00:05:34,060
 Sono proprio scorretti! 
 I loro lavoro è demolire intere ciurme pirata?
 
-66
+69
 00:05:34,060 --> 00:05:37,020
 Beh, di solito non rimangono
  neanche le ossa delle loro prede.
 
-67
+70
 00:05:37,020 --> 00:05:39,770
 Però... non sembravano così forti!
 
-68
+71
 00:05:40,350 --> 00:05:42,110
 Quelli sono solo degli scagnozzi.
 
-69
+72
 00:05:42,840 --> 00:05:48,530
 Però... fareste meglio a non sottovalutare il capofamiglia
 nascosto dietro le quinte... non sottovalutate Franky.
 
-70
+73
 00:05:51,450 --> 00:05:54,010
 L'ho portato qui, signor Iceburg!
 
-71
+74
 00:05:54,010 --> 00:05:56,000
 Smettila! Mi fa male l'orecchio!
 
-72
+75
 00:05:56,000 --> 00:05:57,710
 Grazie dell'aiuto, Lucci.
 
-73
+76
 00:05:57,710 --> 00:06:01,420
 A quanto pare quest'imbecille
 ha creato molti problemi!
 
-74
+77
+00:05:57,790 --> 00:06:01,420
+Hattori
+Piccione di Lucci
+
+78
 00:06:01,420 --> 00:06:03,000
 Ah! Ha parlato di nuovo!
 
-75
+79
 00:06:03,000 --> 00:06:04,300
 Gru gru!
 
-76
+80
 00:06:04,300 --> 00:06:05,550
 Ahi!
 
-77
+81
 00:06:05,550 --> 00:06:08,510
 Dai! Chiedi scusa, Paulie!
 
-78
+82
 00:06:09,900 --> 00:06:12,500
 Quel piccione è proprio un chiacchierone!
 
-79
+83
 00:06:12,500 --> 00:06:14,720
 Sembra parlare per l'uomo con il cappello!
 
-80
+84
 00:06:14,720 --> 00:06:17,690
 Comunque, sono contento che 
 i soldi ci siano stati riportati!
 
-81
+85
 00:06:17,690 --> 00:06:20,480
 Oh! Questi sono tuoi?
 
-82
+86
 00:06:20,480 --> 00:06:22,240
 Li ho recuperati io.
 
-83
+87
 00:06:22,240 --> 00:06:23,690
 Sì, grazie!
 
-84
+88
 00:06:23,690 --> 00:06:26,110
 Ora dammi il dieci percento come compenso!
 
-85
+89
 00:06:28,690 --> 00:06:30,620
 Chiedo perdono, cari clienti.
 
-86
+90
 00:06:32,100 --> 00:06:38,080
 'Sto qua continua ad accumulare debiti 
 di gioco, è solo un maleducato ed un avaro!
 
-87
+91
 00:06:38,080 --> 00:06:40,630
 Ma come fai a parlare tu?!
 
-88
+92
 00:06:40,630 --> 00:06:43,920
 Brutto bastardo!
 Smettila di parlarmi in questo modo, Lucci!
 
-89
+93
 00:06:43,920 --> 00:06:45,550
 Questa sarà l'ultima volta!
 
-90
+94
 00:06:46,210 --> 00:06:48,550
 Rope Action!
 
-91
+95
 00:06:48,550 --> 00:06:50,720
 Gru gru!
 
-92
+96
 00:06:51,300 --> 00:06:54,100
 Bowline Knot!
 
-93
+97
 00:06:57,430 --> 00:06:59,390
 Punizione...
 
-94
+98
 00:07:02,100 --> 00:07:03,360
 – Ah!
 – Ah!
 
-95
+99
 00:07:03,360 --> 00:07:05,110
 Aspetta! Fa davvero sul serio...?!
 
-96
+100
 00:07:07,890 --> 00:07:10,570
 Pesca con Canna!
 
-97
+101
 00:07:13,500 --> 00:07:15,330
 Va tutto bene?
 
-98
+102
 00:07:16,010 --> 00:07:18,290
 Beh, ormai ci sono abituato.
 
-99
+103
 00:07:20,800 --> 00:07:23,670
 Woah! G-Guardate quello!
 
-100
+104
 00:07:23,670 --> 00:07:27,760
 Ha fermato l'impatto con un solo braccio!
 
-101
+105
 00:07:30,200 --> 00:07:33,280
 Le sue dita sono conficcate nel terreno!
 
-102
+106
 00:07:33,280 --> 00:07:36,350
 M-Ma che razza di dita ha?!
 
-103
+107
 00:07:36,350 --> 00:07:40,600
 Ma che gli prende ai carpentieri qui?!
 
-104
+108
 00:07:42,290 --> 00:07:44,150
 Ehi, tu con gli occhiali!
 
-105
+109
 00:07:44,150 --> 00:07:46,110
 Eh?
 
-106
+110
 00:07:46,110 --> 00:07:48,610
 Senti, pensaci bene.
 
-107
+111
 00:07:48,610 --> 00:07:52,060
 Quello che ti ha provocato e ti ha preso in giro è...
 
-108
+112
 00:07:52,060 --> 00:07:53,420
 il piccione!
 
-109
+113
 00:07:59,190 --> 00:08:00,750
 Chissenefrega!
 
-110
+114
 00:08:00,750 --> 00:08:04,250
 È stato Lucci a colpirmi, no?!
 
-111
+115
 00:08:04,250 --> 00:08:08,630
 Il piccone non può colpirti da solo, 
 quindi l'ha fatto fare a lui!
 
-112
+116
 00:08:08,630 --> 00:08:10,460
 Ehi, piccione!
 
-113
+117
 00:08:11,380 --> 00:08:14,590
 Devi combattere da solo le tue battaglie!
 
-114
+118
 00:08:14,590 --> 00:08:16,180
 Dì qualcosa!
 
-115
+119
 00:08:21,700 --> 00:08:22,770
 Gru gru!
 
-116
+120
 00:08:22,770 --> 00:08:25,890
 Oh, vuoi continuare?! 
 Fatti sotto, bastardo!
 
-117
+121
 00:08:25,890 --> 00:08:27,900
 Finiscila, Paulie.
 
-118
+122
 00:08:29,320 --> 00:08:31,820
 Beh, scusateci per aver causato tanto trambusto.
 
-119
+123
 00:08:31,820 --> 00:08:35,180
 Io sono Rob Lu– 
 Ah, no, no! Io sono Hattori il piccione!
 
-120
+124
 00:08:35,180 --> 00:08:40,240
 Questo qui invece è Rob Lucci.
  Lui lavora qui. Piacere di conoscervi, gru gru!
 
-121
+125
 00:08:40,240 --> 00:08:44,670
 Eh? Si è presentato come
  se fosse una persona! Ah!
 
-122
+126
 00:08:44,670 --> 00:08:48,130
 Giusto, ho capito! 
 Quello era ventriloquismo, vero?!
 
-123
+127
 00:08:48,130 --> 00:08:51,310
 Eh?! Davvero?! Allora eri tu a lamentarti?!
 
-124
+128
 00:08:51,310 --> 00:08:54,490
 Troppo bravo! Non me n'ero accorto per niente!
 
-125
+129
 00:08:54,490 --> 00:08:57,600
 Smettetela. Non è niente di che, gru gru!
 
-126
+130
 00:08:59,000 --> 00:09:02,540
 Questo qui è solo uno strambo che 
 non sa neanche parlare normalmente!
 
-127
+131
 00:09:04,810 --> 00:09:08,020
 Aspetta un attimo! Che ha quella donna?!
 
-128
+132
 00:09:08,020 --> 00:09:09,480
 C-Cosa?
 
-129
+133
 00:09:09,480 --> 00:09:11,240
 Che svergognata!
 
-130
+134
 00:09:12,010 --> 00:09:13,380
 Eh?!
 
-131
+135
 00:09:13,380 --> 00:09:18,200
 Stai mostrando troppo le gambe!
 
-132
+136
 00:09:18,200 --> 00:09:22,700
 Qui ci lavorano degli uomini, sai?! 
 Ma come sei vestita?!
 
-133
+137
 00:09:22,700 --> 00:09:25,550
 Dai, Paulie, calmati.
 
-134
+138
 00:09:30,750 --> 00:09:32,720
 Vale anche per te, Kalifa!
 
-135
+139
 00:09:32,720 --> 00:09:35,600
 Ancora con quei vestiti leggeri,
 non imparerai mai!
 
-136
+140
 00:09:36,410 --> 00:09:39,800
 Quante volte devo dirtelo?!
 Mettiti dei pantaloni! E lunghi anche!
 
-137
+141
 00:09:39,800 --> 00:09:40,850
 Ma che ha?
 
-138
+142
 00:09:40,850 --> 00:09:42,210
 "Pantaloni lunghi"...?
 
-139
+143
 00:09:42,210 --> 00:09:44,100
 Anche lui è uno strambo!
 
-140
+144
 00:09:44,810 --> 00:09:48,810
 Beh, direi che può bastare. 
 Aprite questa porta ed entriamo.
 
-141
+145
 00:09:59,700 --> 00:10:05,890
 È proprio una porta enorme! 
 E non è neanche automatica?
 
-142
+146
 00:10:05,890 --> 00:10:08,170
 Quei due stramboidi riescono ad aprirla?
 
-143
+147
 00:10:11,090 --> 00:10:13,290
 Woah! Si è mossa!
 
-144
+148
 00:10:13,290 --> 00:10:16,280
 Beh, anche se sono così, quando si tratta di navi,
 
-145
+149
 00:10:16,280 --> 00:10:20,430
 sono tra i cinque esperti 
 capimastri presenti nel Dock 1.
 
-146
+150
 00:10:21,510 --> 00:10:23,810
 Anche Kaku è uno di loro.
 
-147
+151
 00:10:23,810 --> 00:10:26,640
 In questo mondo, il talento è tutto.
 
-148
+152
 00:10:27,250 --> 00:10:29,500
 Non fate caso alle loro strane personalità.
 
-149
+153
 00:10:29,500 --> 00:10:30,750
 Sono davvero strani.
 
-150
+154
 00:10:30,750 --> 00:10:32,570
 Ah, sta iniziando ad aprirsi!
 
-151
+155
 00:10:32,570 --> 00:10:36,990
 Non lasciate più i vostri soldi incustoditi.
 Qui dentro non dovrebbero esserci ladri, ma...
 
-152
+156
 00:10:37,900 --> 00:10:42,100
 No, ecco... prima è stata colpa mia, 
 mi spiace aver creato problemi.
 
-153
+157
 00:10:42,100 --> 00:10:43,660
 Ehi, Luffy!
 
-154
+158
 00:10:43,160 --> 00:10:43,660
 Eh?
 
-155
+159
 00:10:43,660 --> 00:10:46,480
 Vedi di farmi da guardia come si deve!
 
-156
+160
 00:10:46,480 --> 00:10:48,490
 Ok! Capito! Lascia fare a me!
 
-157
+161
 00:10:48,490 --> 00:10:49,960
 Che ansia...
 
-158
+162
 00:10:49,290 --> 00:10:49,960
 Ci penso io!
 
-159
+163
 00:10:49,960 --> 00:10:54,380
 Qui al Dock 1, è presente 
 l'élite della Galley-La Company
 
-160
+164
 00:10:54,380 --> 00:10:56,960
 coloro che si occupano degli incarichi più complessi.
 
-161
+165
 00:10:56,960 --> 00:10:59,150
 Forza, entrate.
 
-162
+166
 00:10:59,150 --> 00:11:01,990
 – Wow!
 – Wow!
 
-163
+167
 00:11:03,220 --> 00:11:05,260
 Ooh!
 
-164
+168
 00:11:13,400 --> 00:11:17,780
 Wow~! È enorme~!
 
-165
+169
 00:11:18,490 --> 00:11:22,040
 I cantieri navali sono proprio 
 impressionanti visti da vicino!
 
-166
+170
 00:11:22,040 --> 00:11:23,410
 Già!
 
-167
+171
 00:11:22,660 --> 00:11:23,410
 Verissimo!
 
-168
+172
 00:11:24,100 --> 00:11:28,700
 Oh! Stanno costruendo un galeone enorme! 
 Di chi è?
 
-169
+173
 00:11:28,700 --> 00:11:30,250
 È pieno di lavoratori, eh?
 
-170
+174
 00:11:30,250 --> 00:11:32,770
 Forza, da questa parte.
 
-171
+175
 00:11:35,740 --> 00:11:37,800
 Ah, è il signor Iceburg!
 
-172
+176
 00:11:37,800 --> 00:11:40,670
 Ehi! È arrivato il capo!
 
-173
+177
 00:11:40,670 --> 00:11:43,320
 Signor Iceburg, buongiorno!
 
-174
+178
 00:11:43,320 --> 00:11:44,680
 – Buongiorno!
 – Buongiorno!
 
-175
+179
 00:11:44,680 --> 00:11:48,200
 Capo! Può dare un occhio alla rifinitura esterna?
 
-176
+180
 00:11:48,200 --> 00:11:49,640
 Certo! Passerò più tardi!
 
-177
+181
 00:11:49,640 --> 00:11:52,680
 È un piacere vederla, signor Iceburg!
 
-178
+182
 00:11:52,680 --> 00:11:55,140
 Beh, è un piacere anche per me. 
 Procede tutto bene?
 
-179
+183
 00:11:55,140 --> 00:11:57,360
 Certo! Procede tutto alla perfezione!
 
-180
+184
 00:11:57,360 --> 00:12:01,460
 Ma come? 
 Il vecchio Ice sembra piuttosto popolare!
 
-181
+185
 00:12:01,460 --> 00:12:04,660
 È naturale. In questa città, il talento è tutto.
 
-182
+186
 00:12:05,230 --> 00:12:09,700
 La costruzione navale si è sviluppata 
 su quest'isola ormai da tempo.
 
-183
+187
 00:12:09,700 --> 00:12:12,590
 Tempo fa vi erano sette società 
 navali in competizione.
 
-184
+188
 00:12:13,220 --> 00:12:17,540
 Fu proprio lì che il suo geniale talento 
 nella carpenteria affascinò gli artigiani
 
-185
+189
 00:12:17,540 --> 00:12:22,510
 e fu così che, cinque anni fa, 
 le sette società furono riunite sotto un'unica azienda:
 
-186
+190
 00:12:22,510 --> 00:12:24,720
 la Galley-La Company.
 
-187
+191
 00:12:25,400 --> 00:12:28,600
 Grazie alla sua passione e al suo 
 talento per la carpenteria navale
 
-188
+192
 00:12:28,600 --> 00:12:31,850
 i lavoratori non scordano mai 
 il rispetto che nutrono per lui.
 
-189
+193
 00:12:31,850 --> 00:12:34,900
 E, proprio perché sono orgogliosi del proprio talento,
 
-190
+194
 00:12:34,900 --> 00:12:38,440
 i lavoratori non si piegano né ai pirati né alle autorità.
 
-191
+195
 00:12:39,400 --> 00:12:42,000
 È così che vanno le cose qui.
 
-192
+196
 00:12:42,000 --> 00:12:42,860
 Eh?
 
-193
+197
 00:12:42,860 --> 00:12:46,300
 Ehi, vecchio! Ho sentito dire 
 che sei un carpentiere fantastico!
 
-194
+198
 00:12:46,300 --> 00:12:48,120
 Che ne dici di fare il pirata con me~?
 
-195
+199
 00:12:48,120 --> 00:12:50,170
 Che stai dicendo?! Ehi!
 
-196
+200
 00:12:50,170 --> 00:12:51,380
 R-Razza di maleducato!
 
-197
+201
 00:12:51,380 --> 00:12:53,930
 Su, su! Lui è fatto così!
 
-198
+202
 00:12:53,930 --> 00:12:55,000
 Scusate.
 
-199
+203
 00:12:55,000 --> 00:12:59,090
 Beh, sulla vostra nave non c'è nessun carpentiere?
 
-200
+204
 00:12:59,090 --> 00:12:59,900
 Esatto!
 
-201
+205
 00:12:59,900 --> 00:13:04,680
 Siamo venuti su quest'isola per far riparare 
 la nave e per cercare un nuovo compagno!
 
-202
+206
 00:13:04,680 --> 00:13:07,400
 Qui ci sono un sacco di carpentieri,
 
-203
+207
 00:13:07,400 --> 00:13:10,470
 ma non saprei se c'è n'è 
 qualcuno che vuole fare il pirata.
 
-204
+208
 00:13:10,470 --> 00:13:14,230
 Se qualcuno fosse interessato,
  sentiti libero di portarlo con te.
 
-205
+209
 00:13:14,230 --> 00:13:19,190
 Davvero?! Oh, sei proprio uno che ne capisce! Tu non puoi venire?
 
-206
+210
 00:13:19,190 --> 00:13:22,060
 Beh, io non posso. Sono il sindaco qui dopotutto.
 
-207
+211
 00:13:22,060 --> 00:13:23,990
 Ma chissene!
 
-208
+212
 00:13:25,670 --> 00:13:30,490
 Comunque... È vero che sulla tua nave
 c'è anche la donna chiamata Nico Robin?
 
-209
+213
 00:13:30,490 --> 00:13:31,330
 Sì, c'è!
 
-210
+214
 00:13:31,330 --> 00:13:34,290
 Però, sei proprio sveglio, eh?
 
-211
+215
 00:13:36,790 --> 00:13:39,340
 Che c'è? Qualcosa non va con Robin?
 
-212
+216
 00:13:40,260 --> 00:13:40,960
 No...
 
-213
+217
 00:13:44,720 --> 00:13:48,050
 È veramente una cosa incredibile!
 
-214
+218
 00:13:48,050 --> 00:13:51,720
 Continua così, continua così! Lentamente, fai piano.
 
-215
+219
 00:13:52,350 --> 00:13:56,190
 Se ci fosse un cannone così anche sulla Merry... Eh?
 
-216
+220
 00:13:56,190 --> 00:13:58,440
 Wow! Un cannone Demi Culverin!
 
-217
+221
 00:13:58,940 --> 00:14:04,400
 Che figata! È lunghissimo! 
 Guarda come brilla!
 
-218
+222
 00:14:04,400 --> 00:14:07,360
 Vorrei proprio usarlo, anche solo una volta~!
 
-219
+223
 00:14:07,360 --> 00:14:08,570
 È la nostra occasione!
 
-220
+224
 00:14:09,610 --> 00:14:13,600
 È fatto di rame? Dev'essere costoso~!
 
-221
+225
 00:14:13,600 --> 00:14:16,080
 Chissà se mi lasceranno provarlo...
 
-222
+226
 00:14:16,080 --> 00:14:20,450
 Ah, però aspetta! Al momento 
 abbiamo trecento milioni di berry!
 
-223
+227
 00:14:20,450 --> 00:14:23,590
 Forse un cannone così possiamo permettercelo!
 
-224
+228
 00:14:30,300 --> 00:14:31,570
 Eh?
 
-225
+229
 00:14:32,780 --> 00:14:35,180
 Non c'era qualcuno un attimo fa?
 
-226
+230
 00:14:46,780 --> 00:14:47,820
 Ah, Kaku!
 
-227
+231
 00:14:49,200 --> 00:14:50,540
 Dove sei stato?
 
-228
+232
 00:14:50,540 --> 00:14:51,390
 Avevo una valutazione.
 
-229
+233
 00:14:51,390 --> 00:14:53,080
 Ah! Sei quello di prima!
 
-230
+234
 00:14:53,080 --> 00:14:54,490
 Hai visto la nostra nave?
 
-231
+235
 00:14:54,490 --> 00:14:56,500
 Sì, l'ho vista.
 
-232
+236
 00:14:56,500 --> 00:14:59,080
 Signor Iceburg, quindi lei era qui.
 
-233
+237
 00:14:59,080 --> 00:15:02,250
 So com'è la situazione. Com'è andata?
 
-234
+238
 00:15:02,250 --> 00:15:04,710
 Ecco...
 
-235
+239
 00:15:05,420 --> 00:15:08,840
 Luffy! Vieni giù!
 
-236
+240
 00:15:24,190 --> 00:15:26,280
 Cosa?! Sei serio?!
 
-237
+241
 00:15:26,280 --> 00:15:28,900
 Se mi stai mentendo, non la passerai liscia!
 
-238
+242
 00:15:30,000 --> 00:15:33,570
 Sono un professionista, io non inganno nessuno.
 
-239
+243
 00:15:47,210 --> 00:15:50,050
 Ah? Ma Usopp dov'è?
 
-240
+244
 00:15:50,610 --> 00:15:54,540
 Era qui fino a un attimo fa, 
 stava girando da quelle parti, ma...
 
-241
+245
 00:15:56,510 --> 00:16:01,080
 Ehi, voi!
 
-242
+246
 00:16:03,100 --> 00:16:06,300
 Ah! Sono le valigie che aveva Usopp!
 
-243
+247
 00:16:06,300 --> 00:16:07,320
 Sono nostre!
 
-244
+248
 00:16:07,320 --> 00:16:09,290
 Grazie!
 
-245
+249
 00:16:09,290 --> 00:16:14,740
 Che cavolo! Dove si sarà cacciato Usopp 
 per lasciare così i nostri preziosi soldi?!
 
-246
+250
 00:16:14,740 --> 00:16:15,200
 "Soldi"?
 
-247
+251
 00:16:15,200 --> 00:16:18,720
 Sì! Qui dentro ci sono duecento milioni di berry!
 
-248
+252
 00:16:19,620 --> 00:16:21,660
 Duecento milioni?
 
-249
+253
 00:16:21,660 --> 00:16:23,580
 Certo, come no! Ci si vede!
 
-250
+254
 00:16:23,580 --> 00:16:26,000
 Che scemenze...
 
-251
+255
 00:16:26,700 --> 00:16:29,000
 Allora? Quanto ci metterete?
 
-252
+256
 00:16:29,550 --> 00:16:33,090
 Possiamo darvi quello che volete!
 Abbiamo un sacco di soldi!
 
-253
+257
 00:16:35,470 --> 00:16:41,930
 Se riuscite, vorrei che fosse più 
 resistente, con più cannoni e più veloce!
 
-254
+258
 00:16:41,930 --> 00:16:45,890
 È possibile applicare anche
  delle rifiniture decorative esterne?
 
-255
+259
 00:16:45,890 --> 00:16:48,270
 E potreste rinnovare anche gli interni?
 
-256
+260
 00:16:48,270 --> 00:16:49,950
 Un momento, ascoltatemi ora.
 
-257
+261
 00:16:50,820 --> 00:16:55,280
 A quanto pare... avete fatto un
  viaggio piuttosto movimentato, eh?
 
-258
+262
 00:16:56,800 --> 00:16:59,600
 Ma certo! Siamo saliti e caduti dal cielo,
 
-259
+263
 00:16:59,600 --> 00:17:01,900
 abbiamo scalato una montagna 
 e siamo diventati spiedini!
 
-260
+264
 00:17:01,900 --> 00:17:03,800
 Sono successe un sacco di cose!
 
-261
+265
 00:17:03,800 --> 00:17:06,460
 Quindi... vorremmo farla sistemare come si deve.
 
-262
+266
 00:17:07,390 --> 00:17:09,630
 I danni da battaglia sono troppo profondi.
 
-263
+267
 00:17:10,810 --> 00:17:13,470
 Significa che per sistemarla ci vorrà molto tempo?
 
-264
+268
 00:17:14,260 --> 00:17:15,280
 No.
 
-265
+269
 00:17:16,050 --> 00:17:19,540
 Andrò dritto al punto. La vostra nave...
 
-266
+270
 00:17:20,900 --> 00:17:23,890
 non può essere sistemata 
 nemmeno con il nostro talento.
 
-267
+271
 00:17:38,790 --> 00:17:40,780
 Si è rotta la chiglia?
 
-268
+272
 00:17:40,780 --> 00:17:44,660
 Sì. È gravemente danneggiata.
 
-269
+273
 00:17:44,660 --> 00:17:45,890
 Non può essere...
 
-270
+274
 00:17:46,690 --> 00:17:49,920
 Però ha navigato tranquillamente fino ad oggi!
 
-271
+275
 00:17:49,920 --> 00:17:54,380
 Se anche voleste insistere e volerla sistemare ad ogni costo,
 
-272
+276
 00:17:54,380 --> 00:17:58,340
 le probabilità che resista fino alla prossima isola...
 
-273
+277
 00:18:01,400 --> 00:18:02,650
 sono zero.
 
-274
+278
 00:18:14,210 --> 00:18:18,030
 Merry... davvero... non puoi più...
 
-275
+279
 00:18:18,780 --> 00:18:20,280
 navigare?
 
-276
+280
 00:18:24,100 --> 00:18:25,660
 Che disastro...
 
-277
+281
 00:18:26,990 --> 00:18:31,750
 Scusa, Sanji... 
 Ero totalmente immerso nei libri...
 
-278
+282
 00:18:31,750 --> 00:18:34,500
 Non è una cosa di cui dovresti scusarti.
 
-279
+283
 00:18:34,500 --> 00:18:39,640
 Onestamente ho pensato fossi tu
  in forma umana quello assieme a Robin.
 
-280
+284
 00:18:40,490 --> 00:18:44,180
 Ma quindi chi era quel tizio con la maschera?
 
-281
+285
 00:18:44,180 --> 00:18:46,800
 È anche strano che siano scomparsi nel nulla.
 
-282
+286
 00:18:46,800 --> 00:18:51,100
 Già... Anche l'odore di Robin
  sparisce da quelle parti...
 
-283
+287
 00:18:52,190 --> 00:18:55,820
 Spero non sia successo nulla di grave, ma non riesco a calmarmi.
 
-284
+288
 00:18:55,820 --> 00:18:56,900
 Eh?
 
-285
+289
 00:18:56,900 --> 00:18:58,800
 Vuoi che ti visiti?
 
-286
+290
 00:18:58,800 --> 00:19:00,360
 Non sono ammalato!
 
-287
+291
 00:19:01,050 --> 00:19:04,410
 Mi tornano in mente... le parole di quel Aokiji.
 
-288
+292
 00:19:05,200 --> 00:19:07,000
 Perché? Ha detto qualcosa?
 
-289
+293
 00:19:07,000 --> 00:19:10,200
 Disse qualcosa riguardo al passato di Robin, no?
 
-290
+294
 00:19:10,200 --> 00:19:13,540
 E che un giorno "ce ne pentiremo".
 
-291
+295
 00:19:13,540 --> 00:19:15,490
 In effetti...
 
-292
+296
 00:19:15,490 --> 00:19:18,760
 Però sei sicuro che centri qualcosa 
 con la sparizione di Robin?
 
-293
+297
 00:19:19,330 --> 00:19:21,000
 Non saprei.
 
-294
+298
 00:19:21,000 --> 00:19:25,010
 Comunque, continuando così non risolveremo nulla. 
 Per ora, torniamo alla Merry.
 
-295
+299
 00:19:26,110 --> 00:19:28,790
 Se non era nulla di grave, anche lei tornerà presto.
 
-296
+300
 00:19:28,790 --> 00:19:30,310
 Hai ragione.
 
-297
+301
 00:19:49,040 --> 00:19:52,210
 La Merry non può essere riparata?! E perché?!
 
-298
+302
 00:19:52,210 --> 00:19:55,340
 Voi non siete dei carpentieri incredibili?
 
-299
+303
 00:19:57,380 --> 00:20:00,290
 Se è per soldi, guardate! 
 Ne abbiamo quanti volete!
 
-300
+304
 00:20:00,290 --> 00:20:02,590
 Non è una questione di soldi.
 
-301
+305
 00:20:02,590 --> 00:20:07,100
 Non importa quanto voi spendiate, 
 quella nave non tornerà mai quella di un tempo.
 
-302
+306
 00:20:08,310 --> 00:20:15,270
 In realtà, è piuttosto impressionante che sia riuscita a raggiungere
  questo posto... tenendo in considerazione quelle condizioni.
 
-303
+307
 00:20:15,270 --> 00:20:18,690
 Che intendi dire?! 
 Che sta succedendo alla Going Merry?!
 
-304
+308
 00:20:18,690 --> 00:20:21,820
 Sai cos'è una chiglia, ragazza svergognata?
 
-305
+309
 00:20:21,820 --> 00:20:23,490
 La parte sul fondo della nave?
 
-306
+310
 00:20:23,490 --> 00:20:27,790
 Esatto. Serve a sostenere la nave da poppa a prua.
 
-307
+311
 00:20:27,790 --> 00:20:31,040
 È la parte lignea più importante di tutta la nave.
 
-308
+312
 00:20:31,040 --> 00:20:35,000
 La costruzione della nave inizia con la sua installazione.
 
-309
+313
 00:20:35,000 --> 00:20:37,920
 Il dritto di poppa e di prua, le madiere,
 
-310
+314
 00:20:37,920 --> 00:20:40,800
 le costole, i braccioli e i bagli.
 
-311
+315
 00:20:40,800 --> 00:20:45,300
 Tutto il legname viene
  meticolosamente assemblato sulla chiglia.
 
-312
+316
 00:20:45,300 --> 00:20:47,490
 Questa è una nave.
 
-313
+317
 00:20:47,490 --> 00:20:51,150
 La chiglia è un po' come le fondamenta di una casa, 
 ne rappresentano la vita.
 
-314
+318
 00:20:51,150 --> 00:20:56,810
 Se è gravemente danneggiata...
 non può semplicemente essere sostituita.
 
-315
+319
 00:20:56,810 --> 00:21:01,030
 Questo perché... a quel punto sarebbe 
 come ricostruire la nave da zero.
 
-316
+320
 00:21:01,030 --> 00:21:04,090
 Per questo, nessuno la può più riparare.
 
-317
+321
 00:21:04,090 --> 00:21:08,030
 La vostra nave è solo un insieme di 
 incastri di legno che attende la morte.
 
-318
+322
 00:21:08,030 --> 00:21:10,450
 Ehi! Ti sembra il modo di dirlo?!
 
-319
+323
 00:21:11,870 --> 00:21:14,000
 Che m'importa? È la realtà dei fatti.
 
-320
+324
 00:21:16,350 --> 00:21:20,300
 Allora, se è così... costruite da zero la nostra nave!
 
-321
+325
 00:21:20,300 --> 00:21:22,890
 Costruite la Going Merry!
 
-322
+326
 00:21:24,010 --> 00:21:26,220
 Anche quello è impossibile!
 
-323
+327
 00:21:25,190 --> 00:21:26,220
 Perché?
 
-324
+328
 00:21:26,220 --> 00:21:32,290
 Potremmo costruire una nave simile, ma, a dirla tutta,
 nessuno può ricostruire la stessa nave!
 
-325
+329
 00:21:32,290 --> 00:21:36,230
 A questo mondo non esistono 
 due navi perfettamente identiche!
 
-326
+330
 00:21:36,230 --> 00:21:37,400
 Che intendi?
 
-327
+331
 00:21:37,400 --> 00:21:41,360
 Per caso esistono al mondo alberi che
  crescono esattamente allo stesso modo?
 
-328
+332
 00:21:42,690 --> 00:21:49,240
 Le navi a vela sono fatte quasi completamente di legno, quindi sia 
 le dimensioni che le curve sono dettate dalla forma del legno!
 
-329
+333
 00:21:50,040 --> 00:21:55,290
 Per questo, anche usando lo stesso progetto, 
 è impossibile ricostruire la stessa identica nave!
 
-330
+334
 00:21:55,290 --> 00:21:58,500
 E, se anche costruissimo quella nave,
 
-331
+335
 00:21:58,500 --> 00:22:03,390
 quelli che sapranno e sentiranno 
 meglio di tutti che è una nave diversa
 
-332
+336
 00:22:03,390 --> 00:22:05,920
 sarete sicuramente voi! Gru gru!
 
-333
+337
 00:22:06,590 --> 00:22:08,470
 Maledizione...
 
-334
+338
 00:22:08,470 --> 00:22:13,180
 Allora... davvero la Going Merry non potrà più navigare?
 
-335
+339
 00:22:13,180 --> 00:22:15,210
 Le cose stanno malgrado così...
 
-336
+340
 00:22:15,210 --> 00:22:17,390
 Potete attendere che affondi...
 
-337
+341
 00:22:18,070 --> 00:22:20,850
 o farla demolire.
 
-338
+342
 00:22:23,200 --> 00:22:24,270
 Una caravella!
 
-339
+343
 00:22:24,270 --> 00:22:27,360
 Oh! Che bella nave!
 
-340
+344
 00:22:28,700 --> 00:22:30,250
 Bene, è pronta!
 
-341
+345
 00:22:30,250 --> 00:22:34,170
 Con questo, la nave pirata 
 Going Merry è completa!
 
-342
+346
 00:22:37,400 --> 00:22:40,290
 Beh... È il normale ciclo di vita di una nave.
 
-343
+347
 00:22:40,290 --> 00:22:42,180
 È una buona occasione, in realtà.
 
-344
+348
 00:22:42,180 --> 00:22:44,490
 Lasciate perdere e comprate una nuova nave.
 
-345
+349
 00:22:44,490 --> 00:22:48,800
 Avete i soldi, no? Pare che 
 la vostra nave sia una caravella.
 
-346
+350
 00:22:49,370 --> 00:22:54,340
 Francamente il viaggio che vi aspetta... 
 sarebbe davvero arduo con una nave così antiquata.
 
-347
+351
 00:22:54,340 --> 00:22:56,800
 No. Non intendo cambiarla.
 
-348
+352
 00:22:56,800 --> 00:22:58,300
 Luffy...
 
-349
+353
 00:22:58,300 --> 00:23:00,270
 La nostra nave...
 
-350
+354
 00:23:00,270 --> 00:23:03,240
 La nostra nave è la Going Merry!
 
-351
+355
 00:23:03,240 --> 00:23:05,690
 Se venisse sistemata, potrebbe ancora navigare!
 
-352
+356
 00:23:05,690 --> 00:23:09,320
 Va ancora bene! 
 Anche oggi ha navigato alla grande!
 
-353
+357
 00:23:09,320 --> 00:23:12,490
 Eppure, voi volete dirmi 
 all'improvviso che non può più farlo...
 
-354
+358
 00:23:12,490 --> 00:23:14,390
 Come potrei mai credervi?!
 
-355
+359
 00:23:14,390 --> 00:23:20,000
 Voi... non avete idea di quanto è resistente
  quella nave, per questo dite così!
 
-356
+360
 00:23:21,280 --> 00:23:23,500
 Vuoi navigarci finché non affonda?
 
-357
+361
 00:23:23,500 --> 00:23:25,840
 Cose da non credere...
 
-358
+362
 00:23:26,500 --> 00:23:30,010
 Ehi, ragazzino! Credi davvero di essere il capitano di una nave agendo così?
 
-359
+363
 00:23:32,480 --> 00:23:35,520
 La conversazione finisce qui per ora. 
 Pensaci bene
 
-360
+364
 00:23:35,520 --> 00:23:39,400
 e, quando vorrete comprare una nuova
 nave, tornate qui. Mi occuperò io di voi.
 
-361
+365
 00:23:39,400 --> 00:23:43,280
 Con trecento milioni di berry, potrei
 costruirvi una nave di ultima generazione.
 
-362
+366
 00:23:43,280 --> 00:23:45,070
 Kalifa!
 
-363
+367
 00:23:45,070 --> 00:23:47,800
 Ecco a voi. Valutate il tutto con calma.
 
-364
+368
 00:23:47,800 --> 00:23:51,240
 È un catalogo con tutti i modelli vecchi e nuovi, 
 con i rispettivi prezzi.
 
-365
+369
 00:23:51,840 --> 00:23:53,310
 Signor Iceburg!
 
-366
+370
 00:23:54,320 --> 00:23:57,080
 Ci sono ospiti davanti al portone principale.
 
-367
+371
 00:23:57,080 --> 00:24:00,400
 Pare siano di nuovo funzionari 
 del Governo Mondiale.
 
-368
+372
+00:23:57,160 --> 00:24:01,790
+Peepley Lulu
+Addetto alla pece, alla
+forgiatura e ai bozzelli
+Dock 1
+Galley-La Company
+
+373
 00:24:00,400 --> 00:24:01,790
 Vuole che li mandi via?
 
-369
+374
 00:24:02,260 --> 00:24:05,490
 Direi di sì. Digli che non ci sono.
 
-370
+375
 00:24:05,490 --> 00:24:09,300
 Comunque, sul serio...
 Che razza di ciuffo ribelle che hai, Lulu.
 
-371
+376
 00:24:09,300 --> 00:24:11,510
 Oh, cavoli! Mi dispiace.
 
-372
+377
 00:24:12,130 --> 00:24:14,000
 Allora, li farò tornare a casa.
 
-373
+378
 00:24:14,000 --> 00:24:15,610
 B-Bravo fai così!
 
-374
+379
 00:24:15,610 --> 00:24:18,430
 Fermo dove sei, Iceburg.
 
-375
+380
 00:24:20,900 --> 00:24:22,850
 Quindi alla fine ci sei.
 
-376
+381
 00:24:22,850 --> 00:24:26,000
 Ehi! Voi! Nascondetevi! 
 Sono funzionari del Governo!
 
-377
+382
 00:24:26,000 --> 00:24:26,940
 – Eh?!
 – S-Sì!
 
-378
+383
 00:24:32,830 --> 00:24:36,800
 Beh, che piacere, Corgi. 
 Oggi non ci sono.
 
-379
+384
 00:24:36,800 --> 00:24:38,280
 No, ci sei invece!
 
-380
+385
 00:24:38,280 --> 00:24:41,850
 Che cavolo... Siamo giunti qui 
 da lontano con il treno marino.
 
-381
+386
+00:24:38,370 --> 00:24:45,040
+Corgi
+Funzionario del Governo Mondiale
+
+387
 00:24:41,850 --> 00:24:43,990
 Spero non ti dispiaccia.
 
-382
+388
 00:24:43,990 --> 00:24:45,040
 Eh?
 
-383
+389
 00:24:51,800 --> 00:24:55,390
 Pare ci sia odore di pirati qui...
 
-384
+390
 00:24:55,390 --> 00:24:58,430
 Ma non ha importanza! 
 Ho qualcosa da discutere in privato con te.
 
-385
+391
 00:24:58,430 --> 00:25:01,100
 Ti odio! Vattene!
 
-386
+392
 00:25:01,100 --> 00:25:02,270
 Ma cosa sei, un bambino?
 
-387
+393
 00:25:02,270 --> 00:25:04,270
 Sono un adulto fatto e finito.
 
-388
+394
 00:25:06,900 --> 00:25:09,080
 Beh, non fissiamoci troppo sui dettagli.
 
-389
+395
 00:25:09,080 --> 00:25:13,990
 Sono venuto qui a portarti delle proposte vantaggiose, 
 perciò gradirei che mi ascoltassi.
 
-390
+396
 00:25:15,530 --> 00:25:18,450
 Forza, spostiamoci lontano da occhi indiscreti.
 
-391
+397
 00:25:20,290 --> 00:25:23,890
 Ancora e ancora... Sono proprio insistenti.
 
-392
+398
 00:25:23,890 --> 00:25:26,190
 Che vogliono dal signor Iceburg?
 
-393
+399
 00:25:26,190 --> 00:25:30,260
 Non ha niente a che fare con noi. 
 Riguarderà le autorità, no? Gru gru!
 
-394
+400
 00:25:30,260 --> 00:25:31,900
 Li devo menare?
 
-395
+401
 00:25:31,900 --> 00:25:34,970
 Lascia perdere. 
 L'avversario qui è il Governo Mondiale.
 
-396
+402
 00:25:39,010 --> 00:25:39,680
 Eh?
 
-397
+403
 00:25:39,680 --> 00:25:41,600
 Cosa? Che c'è?
 
-398
+404
 00:25:42,600 --> 00:25:46,600
 Me ne sono accorto prima quando ci siamo nascosti portando le borse...
 
-399
+405
 00:25:48,400 --> 00:25:50,100
 Sono troppo leggere...
 
-400
+406
 00:25:50,100 --> 00:25:52,320
 Eh? Perché...?
 
-401
+407
 00:25:52,850 --> 00:25:58,030
 Ah, uffa! Smettila di scherzare! 
 Con tutti quei soldi, non possono essere leggere...
 
-402
+408
 00:26:03,660 --> 00:26:05,870
 Cosa sono queste urla?
 
-403
+409
 00:26:08,000 --> 00:26:10,290
 Idioti! Perché vi agitate?!
 
-404
+410
 00:26:11,050 --> 00:26:14,710
 Ehi, donna! Se ti siedi così...!
 
-405
+411
 00:26:15,280 --> 00:26:18,550
 Non può essere... una cosa del genere non...
 
-406
+412
 00:26:20,200 --> 00:26:22,850
 Non è possibile...
 
-407
+413
 00:26:24,850 --> 00:26:26,850
 I duecento milioni di berry!
 
-408
+414
 00:26:26,850 --> 00:26:28,810
 Non ci sono! Non ci sono per davvero!
 
-409
+415
 00:26:28,810 --> 00:26:32,340
 Guardandoci meglio, 
 queste non sono le nostre valigie!
 
-410
+416
 00:26:33,230 --> 00:26:34,370
 C-C-C-Che facciamo?!
 
-411
+417
 00:26:34,370 --> 00:26:37,320
 Ehi, voi due, ancora con queste urla... 
 Che succede?
 
-412
+418
 00:26:37,320 --> 00:26:40,400
 Non abbiamo... più i soldi.
 
-413
+419
 00:26:40,400 --> 00:26:43,290
 Non abbiamo... proprio nulla.
 
-414
+420
 00:26:43,290 --> 00:26:44,210
 Cos'avete detto?!
 
-415
+421
 00:26:44,210 --> 00:26:45,640
 Paulie, ancora tu?!
 
-416
+422
 00:26:45,640 --> 00:26:46,580
 Non sono stato io!
 
-417
+423
 00:26:46,580 --> 00:26:47,290
 Sicuro?
 
-418
+424
 00:26:47,290 --> 00:26:49,100
 Perché dovrei mentire?!
 
-419
+425
 00:26:49,100 --> 00:26:49,870
 Sicuro sicuro?
 
-420
+426
 00:26:49,870 --> 00:26:50,830
 Sono sicurissimo!
 
-421
-00:26:50,840 --> 00:26:52,420
-Sicuro sicuro sicuro?
-
-422
-00:26:52,420 --> 00:27:00,510
-Ehi! Non è così! Non sono stato io!
- Non sto mentendo!
-
-423
+427
 00:26:49,870 --> 00:26:51,510
 Che casino...
 
-424
+428
+00:26:50,840 --> 00:26:52,420
+Sicuro sicuro sicuro?
+
+429
 00:26:51,510 --> 00:26:55,790
 Piuttosto, Kaku. 
 Prima non eri con la Famiglia Franky?
 
-425
+430
+00:26:52,420 --> 00:27:00,510
+Ehi! Non è così! Non sono stato io!
+ Non sto mentendo!
+
+431
 00:26:55,790 --> 00:26:57,700
 Eh? Ma che vai dicendo?
 
-426
+432
 00:26:57,700 --> 00:27:00,510
 Oggi non ho mai visto la Famiglia Franky.
 
-427
+433
 00:27:00,510 --> 00:27:05,800
 Ma che strano... 
 Mi sembrava di aver visto il tuo naso lungo...
 
-428
+434
 00:27:05,800 --> 00:27:07,480
 Ehi, aspetta! Cos'hai detto?!
 
-429
+435
 00:27:07,480 --> 00:27:09,390
 Dev'essere Usopp!
 
-430
+436
 00:27:09,390 --> 00:27:11,480
 Era con la Famiglia Franky?!
 
-431
+437
 00:27:11,480 --> 00:27:15,850
 Più che essere con loro, è stato portato via...
 
-432
+438
 00:27:15,850 --> 00:27:17,570
 Ma quindi l'hanno rapito!
 
-433
+439
 00:27:17,570 --> 00:27:19,400
 Luffy! Dobbiamo cercarlo subito!
 
-434
+440
 00:27:19,400 --> 00:27:20,530
 Sì!
 
-435
+441
 00:27:20,530 --> 00:27:24,160
 Aspetta un attimo! 
 Dove pensi di cercarlo, Luffy?!
 
-436
+442
 00:27:26,620 --> 00:27:29,580
 Aspettatemi, Usopp, soldi!
 
-437
+443
 00:27:33,200 --> 00:27:34,410
 Uffa...
 
-438
+444
 00:27:34,410 --> 00:27:37,010
 Ehi! Dov'è la base della Famiglia Franky?!
 
-439
+445
 00:27:37,010 --> 00:27:38,970
 Più che una base...
 
-440
+446
 00:27:38,970 --> 00:27:44,090
 Il loro centro è sulla costa a nord-est 
 rispetto al promontorio roccioso
 
-441
+447
 00:27:44,090 --> 00:27:47,100
 dove avete attraccato la vostra nave.
 
-442
+448
 00:27:47,100 --> 00:27:49,350
 Lì c'è la Franky House.
 
-443
+449
 00:27:52,710 --> 00:27:54,610
 Luffy!
 
-444
+450
 00:27:55,590 --> 00:27:57,760
 Luffy!
 
-445
+451
 00:27:58,470 --> 00:28:03,160
 Che cavolo... 
 È impossibile che trovi qualcuno da solo!
 
-446
+452
 00:28:03,840 --> 00:28:06,010
 Non ho tempo di cercare Luffy.
 
-447
+453
 00:28:06,010 --> 00:28:08,790
 Per il momento è meglio che 
 porti questi soldi alla nave.
 
-448
+454
 00:28:09,360 --> 00:28:14,670
 Andare così a dirgli "ridateci i nostri duecento milioni"
 sarebbe come mettergli la ciliegina sulla torta!
 
-449
+455
 00:28:15,350 --> 00:28:19,230
 Per ora, vai verso il noleggio dei bull per
 la strada più corta, yagara, ti prego!
 
-450
+456
 00:28:25,600 --> 00:28:28,560
 Porterò Zoro e gli altri con me e 
 gli daranno una bella lezione!
 
-451
+457
 00:28:28,560 --> 00:28:33,210
 Famiglia Franky!
 Come vi permettete di rubare a dei pirati!
 
-452
+458
 00:28:39,520 --> 00:28:43,810
 Primo piano: quartiere commerciale nelle retrovie!
 
-453
+459
 00:28:43,810 --> 00:28:46,130
 Fate attenzione e divertitevi!
 
-454
+460
 00:28:50,040 --> 00:28:51,700
 Conto su di te, yagara!
 
-455
+461
 00:28:54,600 --> 00:28:56,130
 Che succede? Che succede?
 
-456
+462
 00:28:56,580 --> 00:28:58,750
 Oh! È pericoloso, ragazza!
 
-457
+463
 00:28:58,750 --> 00:29:00,640
 Scusate!
 
-458
+464
 00:29:01,710 --> 00:29:05,970
 Spero che Usopp... sia riuscito a scappare, ma...
 
-459
+465
 00:29:19,110 --> 00:29:20,490
 È terribile...
 
-460
+466
 00:29:20,490 --> 00:29:21,790
 Ma chi è quello?
 
-461
+467
 00:29:21,790 --> 00:29:24,070
 Ehi! Qualcuno lo conosce?!
 
-462
+468
 00:29:24,070 --> 00:29:25,800
 C'è una folla...
 
-463
+469
 00:29:25,800 --> 00:29:28,030
 Yagara! Aspetta, stop, stop!
 
-464
+470
 00:29:34,700 --> 00:29:36,120
 Usopp!
 
-465
+471
 00:29:39,000 --> 00:29:40,380
 Usopp! Riprenditi!
 
-466
+472
 00:29:40,380 --> 00:29:42,840
 Ehi! Tutto bene?!
 
-467
+473
 00:29:42,840 --> 00:29:43,920
 Ehi!
 
-468
+474
 00:29:43,920 --> 00:29:47,000
 Ehi! Usopp! Usopp!
 
-469
+475
 00:29:47,000 --> 00:29:49,830
 Ehi, senti... Siete forse dei pirati?
 
-470
+476
 00:29:49,830 --> 00:29:52,630
 Sta' zitto! Non state a fissarci!
 
-471
+477
 00:29:54,300 --> 00:29:58,230
 Usopp... è stata la Famiglia Franky?
 Sono stati loro?!
 
-472
+478
 00:30:01,490 --> 00:30:05,750
 Sì... perché sono un debole...
 
-473
+479
 00:30:06,610 --> 00:30:08,300
 Quei soldi...
 
-474
+480
 00:30:08,300 --> 00:30:10,160
 se li sono presi tutti...
 
-475
+481
 00:30:12,500 --> 00:30:14,010
 Nami...
 
-476
+482
 00:30:14,010 --> 00:30:15,000
 Eh?
 
-477
+483
 00:30:16,410 --> 00:30:20,790
 Non ho il coraggio di guardare negli occhi gli altri...
 
-478
+484
 00:30:24,600 --> 00:30:29,270
 Avremmo potuto finalmente... sistemare la Merry...
 
-479
+485
 00:30:31,990 --> 00:30:35,510
 Che vergogna...
 
-480
+486
 00:30:37,710 --> 00:30:40,360
 Maledizione...
 
-481
+487
 00:30:41,050 --> 00:30:43,900
 Usopp... non preoccuparti.
 
-482
+488
 00:30:43,900 --> 00:30:48,320
 Non importa dei soldi, 
 li recupereremo insieme agli altri!
 
-483
+489
 00:30:48,320 --> 00:30:53,080
 L'hanno conciato proprio in modo orribile... 
 Sarà meglio non muoverlo troppo.
 
-484
+490
 00:30:53,700 --> 00:30:56,500
 Usopp, aspetta qui per un po'.
 
-485
+491
 00:30:56,500 --> 00:31:00,300
 Vado subito alla nave a chiedere aiuto!
 
-486
+492
 00:31:00,300 --> 00:31:02,880
 Chiamerò anche Chopper per sistemarti.
 
-487
+493
 00:31:02,880 --> 00:31:05,390
 Non preoccuparti dei soldi che ci hanno rubato.
 
-488
+494
 00:31:05,390 --> 00:31:08,370
 Qui davanti dovrebbe esserci la loro base,
 
-489
+495
 00:31:08,370 --> 00:31:10,560
 basterà pestarli per bene e sarà tutto finito!
 
-490
+496
 00:31:12,050 --> 00:31:16,060
 Ehi! Vi ho già detto di non fissarci!
 
-491
+497
 00:31:16,900 --> 00:31:19,520
 Ascoltami bene, Usopp. Tu sta fermo qui.
 
-492
+498
 00:31:20,400 --> 00:31:22,140
 Tornerò subito!
 
-493
+499
 00:31:26,940 --> 00:31:30,240
 Vai più veloce, yagara!
 
-494
+500
 00:31:32,990 --> 00:31:35,580
 Ah! Un bull fuori controllo!
 
-495
+501
 00:31:34,890 --> 00:31:35,580
 Ehi!
 
-496
+502
 00:31:37,620 --> 00:31:42,290
 Avremmo potuto finalmente... sistemare la Merry...
 
-497
+503
 00:31:44,040 --> 00:31:48,710
 Non importa quanto voi spendiate, 
 quella nave non tornerà mai quella di un tempo.
 
-498
+504
 00:31:49,800 --> 00:31:53,470
 Sia che decidessimo di comprare una nuova nave
 
-499
+505
 00:31:53,470 --> 00:31:57,390
 o che chiedessimo a qualcun altro di sistemarla comunque,
 
-500
+506
 00:31:57,390 --> 00:32:01,890
 per farlo dobbiamo investire
  tutti i trecento milioni che abbiamo.
 
-501
+507
 00:32:01,890 --> 00:32:04,230
 Il viaggio che ci aspetta sarà sicuramente arduo.
 
-502
+508
 00:32:05,340 --> 00:32:07,990
 Quei soldi ci servono assolutamente!
 
-503
+509
 00:32:07,990 --> 00:32:09,690
 Dobbiamo recuperarli ad ogni costo!
 
-504
+510
 00:32:12,700 --> 00:32:14,280
 Sei serio?!
 
-505
+511
 00:32:14,280 --> 00:32:17,240
 Così ha detto quel carpentiere.
 
-506
+512
 00:32:19,290 --> 00:32:20,580
 Questa nave...
 
-507
+513
 00:32:20,580 --> 00:32:23,500
 non può più essere riparata?!
  Nemmeno se abbiamo i soldi?!
 
-508
+514
 00:32:23,500 --> 00:32:26,460
 Allora... cosa succederà alla Merry?!
 
-509
+515
 00:32:26,460 --> 00:32:27,910
 Chissà...
 
-510
+516
 00:32:27,910 --> 00:32:32,720
 Alla fine, dipenderà tutto da ciò che Luffy e gli altri
 vorranno fare dopo aver sentito la valutazione.
 
-511
+517
 00:32:33,600 --> 00:32:37,600
 Quei tre al cantiere navale riusciranno 
 sicuramente a prendere una decisione.
 
-512
+518
 00:32:37,600 --> 00:32:40,890
 Però... è una cosa assurda!
 
-513
+519
 00:32:40,890 --> 00:32:44,100
 Perché, dai, guarda! 
 La nave è rimasta quella di sempre
 
-514
+520
 00:32:44,100 --> 00:32:48,650
 ed è arrivata fin qui con noi dall'East Blue, no?!
 
-515
+521
 00:32:48,650 --> 00:32:51,490
 È proprio per quello.
 
-516
+522
 00:32:51,490 --> 00:32:54,280
 Gli ostacoli possono rendere le persone più forti,
 
-517
+523
 00:32:55,050 --> 00:32:56,700
 ma per una nave è diverso.
 
-518
+524
 00:32:56,700 --> 00:32:59,410
 Non può fare altro che accumulare dolore.
 
-519
+525
 00:33:03,850 --> 00:33:05,540
 Io non me la bevo!
 
-520
+526
 00:33:05,540 --> 00:33:09,100
 E poi cosa dirà Usopp quando sentirà tutto questo?!
 
-521
+527
 00:33:09,100 --> 00:33:11,610
 A me... piace la Merry!
 
-522
+528
 00:33:11,610 --> 00:33:16,470
 Vale per tutti, ma pare che "I danni da battaglia 
 siano troppo profondi" e che non ci sia niente da fare.
 
-523
+529
 00:33:18,750 --> 00:33:21,440
 Mi preoccupano sia la Merry che Robin.
 
-524
+530
 00:33:22,430 --> 00:33:24,140
 Che pomeriggio senza tregua...
 
-525
+531
 00:33:26,110 --> 00:33:27,790
 Ragazzi!
 
-526
+532
 00:33:30,250 --> 00:33:32,360
 Eh?! Nami è tornata!
 
-527
+533
 00:33:32,360 --> 00:33:35,100
 Eh? Pare sia da sola.
 
-528
+534
 00:33:35,100 --> 00:33:37,030
 Che è successo a Luffy e Usopp?
 
-529
+535
 00:33:37,810 --> 00:33:41,540
 Dolce Nami! È successo qualcosa?
 
-530
+536
+00:33:42,870 --> 00:33:45,750
+Periferia
+di Water Seven
+Costa a nord-est
+
+537
+00:33:42,870 --> 00:33:45,750
+Centro di
+ demolizione
+
+538
 00:33:45,750 --> 00:33:49,690
 Oh! Oh! Oh! Duecento milioni?!
 
-531
+539
+00:33:45,830 --> 00:33:51,590
+Franky House
+
+540
 00:33:49,690 --> 00:33:51,590
 Proprio duecento milioni!
 
-532
+541
 00:33:51,590 --> 00:33:54,510
 Che ne pensi, fratello?
 
-533
+542
 00:33:54,510 --> 00:33:57,890
 Incredibile! Siete stati proprio in gamba!
 
-534
+543
 00:33:57,890 --> 00:34:03,390
 Con così tanti soldi, finalmente posso 
 comprare quello che ho sempre voluto!
 
-535
+544
 00:34:03,390 --> 00:34:05,490
 Complimenti, fratello!
 
-536
+545
 00:34:05,490 --> 00:34:09,130
 Tre lunghi anni... in cui continuavi a 
 dire "se solo potessi averlo...".
 
-537
+546
 00:34:09,130 --> 00:34:11,020
 – È stata proprio lunga!
 – Già.
 
-538
+547
 00:34:11,020 --> 00:34:15,390
 Appena si hanno un po' di soldi, 
 bisogna giocarli alle corse degli yagara!
 
-539
+548
 00:34:15,390 --> 00:34:16,900
 – E poi si torna al verde!
 – E poi si torna al verde!
 
-540
+549
 00:34:16,900 --> 00:34:20,600
 Catturato un ricercato, si beve e si festeggia,
 
-541
+550
 00:34:20,600 --> 00:34:22,160
 – E poi si torna al verde!
 – E poi si torna al verde!
 
-542
+551
 00:34:22,160 --> 00:34:27,210
 Dopo non essere riusciti a metterli da parte, 
 finalmente abbiamo i duecento milioni!
 
-543
+552
 00:34:27,210 --> 00:34:29,130
 Alla fine ci siamo, ce li abbiamo tutti!
 
-544
+553
 00:34:29,130 --> 00:34:33,150
 Esatto, gente! Ben fatto!
 
-545
+554
 00:34:33,840 --> 00:34:38,510
 Allora... sarà poco, ma questi cinque milioni di berry
 
-546
+555
 00:34:38,510 --> 00:34:42,140
 sono il mio ringraziamento! 
 Fatene quello che volete!
 
-547
+556
 00:34:46,300 --> 00:34:48,010
 Sei il migliore, fratello!
 
-548
+557
 00:34:48,010 --> 00:34:49,730
 Si festeggia!
 
-549
+558
 00:34:57,010 --> 00:34:58,900
 C-Che succede?!
 
-550
+559
 00:34:59,800 --> 00:35:00,660
 Eh?
 
-551
+560
 00:35:01,200 --> 00:35:02,700
 Maledizione!
 
-552
+561
 00:35:02,700 --> 00:35:07,830
 Ma chi è che vuole sfidare la Famiglia Franky?!
 
-553
+562
 00:35:13,090 --> 00:35:16,610
 Ah?! Tu sei quella mezza cartuccia di prima!
 
-554
+563
 00:35:16,610 --> 00:35:18,550
 Ma come, è ancora in piedi?
 
-555
+564
 00:35:22,300 --> 00:35:24,010
 Ridatemi i soldi!
 
-556
+565
 00:35:24,010 --> 00:35:30,060
 Ridarti i soldi dici? Quindi sei uno 
 scagnozzo di Luffy Cappello di Paglia?
 
-557
+566
 00:35:31,310 --> 00:35:33,560
 Esatto, fratello!
 
-558
+567
 00:35:33,560 --> 00:35:39,010
 Visto che era con Luffy Cappello di Paglia, 
 credevo fosse un pirata fortissimo, ma...
 
-559
+568
 00:35:39,010 --> 00:35:41,280
 la cosa bella è che è pure un debole!
 
-560
+569
 00:35:41,920 --> 00:35:44,240
 Fatevi gli affari vostri!
 
-561
+570
 00:35:45,620 --> 00:35:46,740
 Ops!
 
-562
+571
 00:35:51,610 --> 00:35:53,040
 Che sta facendo?
 
-563
+572
 00:35:53,040 --> 00:35:56,810
 Riconosco il tuo coraggio nel 
 voler riprenderteli da solo,
 
-564
+573
 00:35:56,810 --> 00:35:59,630
 ma non posso assolutamente ridarteli!
 
-565
+574
 00:36:02,910 --> 00:36:04,890
 Ridammeli!
 
-566
+575
 00:36:04,890 --> 00:36:11,200
 Quelli... servono per riparare la nostra nave...
 
-567
+576
 00:36:14,480 --> 00:36:17,020
 Quei soldi sono importanti!
 
-568
+577
 00:36:21,490 --> 00:36:25,080
 Con quei soldi...
 
-569
+578
 00:36:25,080 --> 00:36:30,620
 finalmente potremmo sistemare le ferite della Merry!
 
-570
+579
 00:36:30,620 --> 00:36:35,870
 Non posso permetterti di averli!
 
-571
+580
 00:36:41,680 --> 00:36:43,630
 Perché scaldarsi tanto?
 
-572
+581
 00:36:44,500 --> 00:36:48,190
 Sembra che tu abbia molto a cuore la vostra nave.
 
-573
+582
 00:36:48,190 --> 00:36:52,640
 Beh, non che me ne freghi 
 molto di che fine farà ma
 
-574
+583
 00:36:52,640 --> 00:36:56,560
 questi soldi ormai sono nostri.
 
-575
+584
 00:36:58,520 --> 00:37:04,090
 Purtroppo, in questo mondo, 
 rubare a dei pirati non è un reato.
 
-576
+585
 00:37:04,090 --> 00:37:07,780
 Alla fine sono solo soldi sporchi che 
 avete rubato da qualche altra parte, no?
 
-577
+586
 00:37:09,000 --> 00:37:11,200
 Quindi, beh, lasciaceli.
 
-578
+587
 00:37:13,210 --> 00:37:16,670
 Se proprio ci tieni, vai a piangere dalla Marina.
 
-579
+588
 00:37:16,670 --> 00:37:19,390
 Ma ad essere catturati sarete voi.
 
-580
+589
 00:37:20,810 --> 00:37:23,610
 Lo sfortunato qui è Luffy Cappello di Paglia...
 
-581
+590
 00:37:23,610 --> 00:37:29,640
 dato che ha uno scagnozzo così inutile che 
 non sa neanche fare la guardia a dei soldi!
 
-582
+591
 00:37:37,100 --> 00:37:41,240
 Gente, lo lascio nelle vostre mani.
 
-583
+592
 00:37:42,570 --> 00:37:47,280
 Io andrò subito a fare shopping con questi soldi.
 
-584
+593
 00:37:48,060 --> 00:37:49,530
 Non vedo l'ora!
 
-585
+594
 00:37:49,530 --> 00:37:50,490
 Fermo!
 
-586
+595
 00:37:50,490 --> 00:37:53,200
 Colpo Mortale: Stella Polvere da Sparo!
 
-587
+596
 00:38:00,750 --> 00:38:05,720
 Ricordatelo bene, ragazzino dal naso lungo. 
 Il mio nome è Franky.
 
-588
+597
 00:38:05,720 --> 00:38:11,950
 Sono colui contro cui non dovresti metterti 
 se vuoi sopravvivere in questa città.
 
-589
+598
 00:38:14,600 --> 00:38:18,940
 C-Cosa volete farmi?! Lasciatemi andare!
 
-590
+599
 00:38:22,510 --> 00:38:26,320
 Un'arma così scarsa non può farci niente!
 
-591
+600
 00:38:26,950 --> 00:38:29,280
 Addio, naso lungo!
 
-592
+601
 00:38:29,280 --> 00:38:32,790
 Grazie per i duecento milioni di berry~!
 
-593
+602
 00:38:32,790 --> 00:38:36,100
 Fermo! Ridammeli! Sono per la Merry...!
 
-594
+603
 00:38:36,100 --> 00:38:37,250
 Ridammeli, ti prego!
 
-595
+604
 00:38:38,100 --> 00:38:39,460
 Ridammeli!
 
-596
+605
 00:38:49,290 --> 00:38:50,970
 Ri... dammeli...
 
-597
+606
 00:38:50,970 --> 00:38:53,260
 Ridammeli...
 
-598
+607
 00:39:05,440 --> 00:39:08,900
 Rida... mmeli...
 
-599
+608
 00:39:10,870 --> 00:39:15,070
 Ridammeli, ti prego!
 
-600
+609
 00:39:24,730 --> 00:39:27,090
 Devo resistere finché non torna Robin.
 
-601
+610
 00:39:30,430 --> 00:39:33,640
 Se fossi andata anch'io, 
 sarei stata solo d'intralcio...
 
-602
+611
 00:39:34,510 --> 00:39:35,600
 e ho paura...
 
-603
+612
 00:39:37,590 --> 00:39:42,100
 Per ora... proteggerò questa nave e i cento milioni di berry.
 
-604
+613
 00:39:42,100 --> 00:39:44,270
 Conto su di voi...
 
-605
+614
 00:39:44,270 --> 00:39:45,930
 ragazzi!
 
-606
+615
 00:39:47,040 --> 00:39:49,100
 Stop! Stop!
 
-607
+616
 00:39:52,710 --> 00:39:57,510
 Il posto che diceva Nami... 
 dovrebbe essere questo.
 
-608
+617
 00:39:59,690 --> 00:40:02,380
 Ascoltatemi.
 Qui nelle retrovie c'è il quartiere commerciale.
 
-609
+618
 00:40:02,380 --> 00:40:07,600
 E, dopo essere saliti su questo corso 
 d'acqua... lui è qui! Qui c'è Usopp!
 
-610
+619
 00:40:07,600 --> 00:40:08,930
 Tutto chiaro.
 
-611
+620
 00:40:08,930 --> 00:40:13,200
 E, Nami, dov'è il centro di 
 demolizione della Famiglia Franky?
 
-612
+621
 00:40:14,600 --> 00:40:16,000
 Usopp!
 
-613
+622
 00:40:16,000 --> 00:40:17,210
 Usopp non c'è.
 
-614
+623
 00:40:17,210 --> 00:40:19,800
 Sei sicuro? 
 Non è che hai sbagliato posto?
 
-615
+624
 00:40:19,800 --> 00:40:21,770
 Sta' zitto! Non sono mica te!
 
-616
+625
 00:40:21,770 --> 00:40:23,400
 Usopp!
 
-617
+626
 00:40:23,400 --> 00:40:26,110
 – Che hai detto?!
 – Eh?
 
-618
+627
 00:40:29,500 --> 00:40:31,280
 Guardate! È sangue!
 
-619
+628
 00:40:31,280 --> 00:40:34,820
 Quel cretino... se n'è andato da solo, eh?!
 
-620
+629
 00:40:34,820 --> 00:40:37,160
 Possibile che...
 
-621
+630
 00:40:37,630 --> 00:40:39,620
 Usopp...
 
-622
+631
 00:40:40,690 --> 00:40:47,250
 Aaaah!
 
-623
+632
 00:40:42,080 --> 00:40:43,250
 – Eh?
 – Eh?
 
-624
+633
 00:40:47,250 --> 00:40:48,050
 Aaaah!
 
-625
+634
 00:40:55,560 --> 00:40:57,010
 – Luffy?!
 – Luffy?!
 
-626
+635
 00:41:03,820 --> 00:41:07,720
 Che diamine stavi facendo?!
  Da dove sei caduto?!
 
-627
+636
 00:41:08,850 --> 00:41:10,200
 Dal cantiere navale!
 
-628
+637
 00:41:10,200 --> 00:41:14,280
 Stavo imitando uno dei carpentieri 
 saltando qua e là alla ricerca di Usopp.
 
-629
+638
 00:41:14,280 --> 00:41:15,450
 Va tutto bene?
 
-630
+639
 00:41:15,450 --> 00:41:16,820
 Sì...
 
-631
+640
 00:41:16,820 --> 00:41:19,560
 Ah, giusto, ragazzi! Siamo nei guai!
 
-632
+641
 00:41:19,560 --> 00:41:21,750
 Usopp è stato preso assieme ai soldi e...!
 
-633
+642
 00:41:22,310 --> 00:41:23,930
 Sì, lo sappiamo.
 
-634
+643
 00:41:23,930 --> 00:41:27,960
 Vieni. Stiamo andando alla loro base.
 
-635
+644
 00:41:27,960 --> 00:41:30,700
 Usopp è stato picchiato e i soldi sono stati rubati.
 
-636
+645
 00:41:30,700 --> 00:41:31,670
 Eh–
 
-637
+646
 00:41:33,600 --> 00:41:35,530
 Credo che lui...
 
-638
+647
 00:41:35,530 --> 00:41:40,170
 si senta in colpa della cosa e sia
  andato a sfidare la Famiglia Franky da solo.
 
-639
+648
 00:42:02,410 --> 00:42:04,890
 Respira ancora, Chopper?
 
-640
+649
 00:42:04,890 --> 00:42:07,300
 Ha perso completamente i sensi,
 
-641
+650
 00:42:07,300 --> 00:42:09,090
 ma non è morto.
 
-642
+651
 00:42:09,090 --> 00:42:11,460
 Va tutto bene. Posso salvarlo.
 
-643
+652
 00:42:16,490 --> 00:42:18,760
 Aspettaci qui solo un secondo...
 
-644
+653
 00:42:18,760 --> 00:42:20,550
 Usopp.
 
-645
+654
 00:42:44,310 --> 00:42:48,390
 Andiamo a demolire quella casa ridicola.
-
-646
-00:03:05,540 --> 00:03:11,500
-Paulie
-Addetto all'allestimento
-e all'albero delle navi
-Dock 1
-Galley-La Company
-
-647
-00:03:05,540 --> 00:03:11,500
-Paulie
-Addetto all'allestimento
-e all'albero delle navi
-Dock 1
-Galley-La Company
-
-648
-00:03:58,630 --> 00:04:04,930
-Rob Lucci
-Addetto all'intaglio del 
-legno e dei cavicchi
-Dock 1
-Galley-La Company
-
-649
-00:03:58,630 --> 00:04:04,930
-Rob Lucci
-Addetto all'intaglio del 
-legno e dei cavicchi
-Dock 1
-Galley-La Company
-
-650
-00:05:57,790 --> 00:06:01,420
-Hattori
-Piccione di Lucci
-
-651
-00:05:57,790 --> 00:06:01,420
-Hattori
-Piccione di Lucci
-
-652
-00:23:57,160 --> 00:24:01,790
-Peepley Lulu
-Addetto alla pece, alla
-forgiatura e ai bozzelli
-Dock 1
-Galley-La Company
-
-653
-00:23:57,160 --> 00:24:01,790
-Peepley Lulu
-Addetto alla pece, alla
-forgiatura e ai bozzelli
-Dock 1
-Galley-La Company
-
-654
-00:24:38,370 --> 00:24:45,040
-Corgi
-Funzionario del Governo Mondiale
-
-655
-00:24:38,370 --> 00:24:45,040
-Corgi
-Funzionario del Governo Mondiale
-
-656
-00:33:42,870 --> 00:33:45,750
-Periferia
-di Water Seven
-Costa a nord-est
-
-657
-00:33:42,870 --> 00:33:45,750
-Periferia
-di Water Seven
-Costa a nord-est
-
-658
-00:33:42,870 --> 00:33:45,750
-Centro di
- demolizione
-
-659
-00:33:42,870 --> 00:33:45,750
-Centro di
- demolizione
-
-660
-00:33:45,830 --> 00:33:51,590
-Franky House
-
-661
-00:33:45,830 --> 00:33:51,590
-Franky House

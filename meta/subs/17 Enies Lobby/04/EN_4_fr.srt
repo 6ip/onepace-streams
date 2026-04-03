@@ -1,2557 +1,2041 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:00,750 --> 00:00:03,370
+Cours, cours sans t’arrêter,
+
+3
+00:00:03,620 --> 00:00:06,460
+Drapeau levé bien haut vers le ciel.
+
+4
+00:00:12,800 --> 00:00:18,060
+Nous voguerons sur cette mer sans fin
+
+5
+00:00:18,890 --> 00:00:21,810
+À la recherche des miracles du monde,
+
+6
+00:00:21,930 --> 00:00:23,940
+que personne n'a encore réussi à trouver !
+
+7
+00:00:24,850 --> 00:00:27,980
+Nos cœurs palpitent, emportés par nos rêves,
+
+8
+00:00:27,980 --> 00:00:29,730
+Nous avançons sans détour,
+
+9
+00:00:29,730 --> 00:00:35,610
+Sur les traces laissées par les chasseurs de rêves.
+
+10
+00:00:36,450 --> 00:00:39,410
+Même dans les nuits les plus orageuses,
+
+11
+00:00:39,410 --> 00:00:42,410
+Si nos cœurs ne font qu’un,
+
+12
+00:00:42,410 --> 00:00:46,540
+Nous pourrons tout surmonter,
+
+13
+00:00:46,710 --> 00:00:47,880
+à tout moment !
+
+14
+00:00:48,790 --> 00:00:51,590
+Cours, cours sans t’arrêter,
+
+15
+00:00:51,760 --> 00:00:54,550
+Drapeau levé bien haut vers le ciel !
+
+16
+00:00:54,630 --> 00:01:00,600
+Même s’il existe des larmes que personne ne voit,
+
+17
+00:01:00,810 --> 00:01:03,520
+Nous continuerons à les poursuivre, ces rêves lointains.
+
+18
+00:01:03,730 --> 00:01:06,520
+La boussole qui les désigne,
+
+19
+00:01:06,650 --> 00:01:09,230
+Notre regard est droit et sincère,
+
+20
+00:01:09,230 --> 00:01:11,400
+rien ne nous arrêtera.
+
+21
+00:01:18,870 --> 00:01:21,490
+Cours, cours sans t’arrêter,
+
+22
+00:01:21,830 --> 00:01:24,540
+Plus loin que quiconque avant toi !
+
+23
+00:01:24,660 --> 00:01:27,120
+Tant que tu ne fuis pas,
+
+24
+00:01:27,250 --> 00:01:30,540
+Tu pourras saisir demain.
+
+25
+00:01:30,630 --> 00:01:33,630
+Poursuis-les, poursuis-les encore,
+
+26
+00:01:33,710 --> 00:01:36,510
+Tous ces reflets que tes yeux perçoivent maintenant.
+
+27
+00:01:36,590 --> 00:01:38,930
+Grave-les dans ton cœur pur et blanc,
+
+28
+00:01:39,180 --> 00:01:41,430
+Et avançons vers un monde nouveau !
+
+29
+00:01:50,040 --> 00:01:55,240
+Licenciement
+
+30
 00:01:55,510 --> 00:01:58,550
 Dites, je le connais, ce sabreur.
 
-3
+31
 00:01:58,760 --> 00:02:02,140
 C'est un des sous-fifres,
 Zoro le chasseur de pirates.
 
-4
+32
 00:02:03,430 --> 00:02:04,640
 "Sous-fifre", t'as vu ?
 
-5
+33
 00:02:04,850 --> 00:02:08,520
 Toi, ils te reconnaissent même pas.
 Hein, monsieur le "pirate A" ?
 
-6
+34
 00:02:09,060 --> 00:02:10,060
 Quoi ?
 
-7
+35
 00:02:10,270 --> 00:02:11,520
 Ou plutôt, "pirate B".
 
-8
+36
 00:02:11,650 --> 00:02:12,270
 Hein ?
 
-9
+37
 00:02:12,480 --> 00:02:15,940
 Si j'étais mis à prix,
 je vaudrais deux fois plus que toi.
 
-10
+38
 00:02:16,110 --> 00:02:16,900
 "Pirate C" ?
 
-11
+39
 00:02:17,070 --> 00:02:18,700
 T'écoutes, quand on te parle ?
 
-12
+40
 00:02:18,860 --> 00:02:20,660
 On se calme, les enfants.
 
-13
+41
 00:02:20,870 --> 00:02:22,480
 Sniperking, parle plus fort.
 
-14
+42
 00:02:22,660 --> 00:02:24,660
 Tout ça fait partie de mon plan,
 brave Chopper.
 
-15
+43
 00:02:24,870 --> 00:02:26,830
 Ah oui, vraiment ?
 
-16
+44
 00:02:26,000 --> 00:02:26,790
 Hm ?
 
-17
+45
 00:02:27,910 --> 00:02:29,250
 Des complices !
 
-18
+46
 00:02:29,370 --> 00:02:30,330
 On est repérés !
 
-19
+47
 00:02:30,500 --> 00:02:33,000
 Doit y en avoir d'autres dans le train !
 Feu !
 
-20
+48
 00:02:33,130 --> 00:02:35,420
 Hé, stop !
 Nami chérie est encore dedans !
 
-21
+49
 00:02:35,590 --> 00:02:36,800
 Feu !
 
-22
+50
 00:02:43,390 --> 00:02:45,560
 Eh ben, ça surprend...
 
-23
+51
 00:02:48,270 --> 00:02:49,940
 Ça va, Sniperking ?
 
-24
+52
 00:02:51,190 --> 00:02:53,380
 Tout va bien, brave Chopper.
 
-25
+53
 00:02:53,440 --> 00:02:55,110
 Cessez le feu !
 
-26
+54
 00:02:55,690 --> 00:02:56,720
 Pourquoi ?
 
-27
+55
 00:02:57,150 --> 00:02:57,940
 Regardez.
 
-28
+56
 00:02:58,120 --> 00:02:59,820
 Ohé !
 
-29
+57
 00:03:00,070 --> 00:03:02,780
 Arrêtez,
 vous tirez sur le troisième âge.
 
-30
+58
 00:03:02,950 --> 00:03:06,620
 Et aussi sur une enfant
 et un animal domestique sans défense.
 
-31
+59
 00:03:08,040 --> 00:03:13,740
 Les pirates nous ont pris en otage
 et ils m'ont forcée à conduire le train.
 
-32
+60
 00:03:13,910 --> 00:03:15,750
 Ouais, ils ont fait ça.
 
-33
+61
 00:03:21,760 --> 00:03:23,720
 Depuis quand les otages picolent ?
 
-34
+62
 00:03:23,890 --> 00:03:26,810
 On a eu chaud,
 on a failli tuer les otages.
 
-35
+63
 00:03:27,010 --> 00:03:30,100
 Prendre des vieux,
 des enfants et des animaux en otage,
 
-36
+64
 00:03:30,270 --> 00:03:32,150
 quels lâches, ces pirates.
 
-37
+65
 00:03:33,000 --> 00:03:36,690
 C'est quoi, ça ?
 La fumée forme une sorte de nuage.
 
-38
+66
 00:03:37,150 --> 00:03:40,240
 Avec la Cool ball et la Heat ball,
 
-39
+67
 00:03:40,740 --> 00:03:43,320
 je transforme l'humidité ambiante
 en nuage.
 
-40
+68
 00:03:43,530 --> 00:03:47,660
 Nami chérie !
 Tu as réussi à t'échapper ?
 
-41
+69
 00:03:49,910 --> 00:03:52,540
 Il mérite bien son nom,
 ce Perfect Clima Tact.
 
-42
+70
 00:03:52,710 --> 00:03:55,540
 Le nuage est plus gros
 et se forme plus vite.
 
-43
+71
 00:03:56,090 --> 00:03:58,720
 Allez, il est temps de tester
 
-44
+72
 00:03:59,000 --> 00:04:00,510
 la puissance de la foudre.
 
-45
+73
 00:04:01,510 --> 00:04:06,050
 Elle nous prépare quoi ?
 On devrait peut-être se barrer.
 
-46
+74
 00:04:06,540 --> 00:04:08,640
 C'est parti.
 
-47
+75
 00:04:09,750 --> 00:04:13,350
 Thunderbolt Tempo !
 
-48
+76
 00:04:24,400 --> 00:04:25,530
 Sauve qui peut !
 
-49
+77
 00:04:30,700 --> 00:04:32,120
 J'ai failli crever aussi !
 
-50
+78
 00:04:32,650 --> 00:04:33,710
 Sniperking !
 
-51
+79
 00:04:33,920 --> 00:04:35,960
 Pourquoi tu agresses Sniperking ?
 
-52
+80
 00:04:36,820 --> 00:04:38,880
 Enfin, ça me va, il est puissant.
 
-53
+81
 00:04:39,090 --> 00:04:42,800
 T'en prends pas à moi,
 c'est toi qui t'en sers comme un pied.
 
-54
+82
 00:04:43,300 --> 00:04:47,550
 Et Usopp ne se souvient pas
 avoir installé une telle fonction.
 
-55
+83
 00:04:47,720 --> 00:04:48,810
 Quand même...
 
-56
+84
 00:04:49,890 --> 00:04:53,060
 Quelle puissance.
 Tu les as presque tous eus.
 
-57
+85
 00:04:56,040 --> 00:04:56,720
 Ah...
 
-58
+86
 00:04:56,900 --> 00:04:59,940
 Ça va pas bien, Nami ?
 Tu joues à quoi, là ?
 
-59
+87
 00:05:00,110 --> 00:05:01,900
 Excuse-toi, Sniperking.
 
-60
+88
 00:05:02,070 --> 00:05:03,650
 Je rêve. C'est à toi de t'excuser !
 
-61
+89
 00:05:03,820 --> 00:05:05,030
 Nami chérie !
 
-62
+90
 00:05:05,240 --> 00:05:08,780
 Ça m'a rappelé le choc que j'ai reçu
 lors de notre rencontre.
 
-63
+91
 00:05:08,950 --> 00:05:11,040
 Mais c'est quoi, cet équipage ?
 
-64
+92
 00:05:11,330 --> 00:05:15,750
 Je croyais que la fille était nulle,
 mais en fait, elle casse la baraque.
 
-65
+93
 00:05:17,920 --> 00:05:20,550
 Au fait,
 l'autre idiot a foncé dans le tas.
 
-66
+94
 00:05:20,720 --> 00:05:21,800
 On le retrouve comment ?
 
-67
+95
 00:05:21,960 --> 00:05:24,510
 Bonne question, l'île est pas petite.
 
-68
+96
 00:05:24,720 --> 00:05:26,090
 Si on doit le chercher...
 
-69
+97
 00:05:26,970 --> 00:05:27,510
 Quoi ?
 
-70
+98
 00:05:29,970 --> 00:05:32,060
 Il est là-bas, c'est clair !
 
-71
+99
 00:05:34,060 --> 00:05:35,210
 Bon.
 
-72
+100
 00:05:35,890 --> 00:05:37,350
 On le rattrape ?
 
-73
+101
 00:05:44,440 --> 00:05:48,360
 Ces raclures de pirates sèment le chaos,
 on dirait.
 
-74
+102
 00:05:48,660 --> 00:05:50,410
 On va pas les laisser faire.
 
-75
+103
 00:05:51,490 --> 00:05:52,830
 Prends ça !
 
-76
+104
+00:05:53,670 --> 00:05:56,540
+Île Principale, Enies Lobby
+
+105
 00:06:07,130 --> 00:06:09,470
 Gum Gum...
 
-77
+106
 00:06:09,930 --> 00:06:10,970
 Lance !
 
-78
+107
 00:06:16,180 --> 00:06:18,020
 Il est en haut de l'arbre !
 
-79
+108
 00:06:20,350 --> 00:06:22,860
 Quels pots de colle !
 Y en a partout, ça n'arrête pas.
 
-80
+109
 00:06:23,020 --> 00:06:24,070
 Pas moyen d'avancer.
 
-81
+110
 00:06:24,230 --> 00:06:25,940
 Allez, par là !
 
-82
+111
 00:06:26,940 --> 00:06:28,450
 Ils s'en vont ?
 
-83
+112
 00:06:28,740 --> 00:06:31,160
 La moitié des effectifs à l'Entrée !
 
-84
+113
 00:06:31,410 --> 00:06:35,550
 Des pirates ont forcé la porte
 et sont entrés ! Il faut les stopper !
 
-85
+114
 00:06:35,720 --> 00:06:39,750
 C'est bon, ils sont arrivés ?
 Cool, ce sera plus facile pour moi.
 
-86
+115
 00:06:41,290 --> 00:06:42,170
 En plein dedans.
 
-87
+116
 00:06:42,380 --> 00:06:43,670
 Raté, dommage.
 
-88
+117
 00:06:43,840 --> 00:06:45,380
 Là-haut, feu !
 
-89
+118
+00:06:45,340 --> 00:06:48,010
+Île Principale
+Devant la Porte de l'Île
+
+119
 00:06:52,970 --> 00:06:54,720
 Pourquoi tu t'arrêtes ?
 
-90
+120
 00:07:06,480 --> 00:07:09,400
 Nous sommes les Cerbères
 protecteurs de l'Entrée de l'île.
 
-91
+121
 00:07:10,720 --> 00:07:13,780
 Sachez bien
 qu'aucun de vous n'ira plus loin.
 
-92
+122
 00:07:13,990 --> 00:07:16,740
 Faites vos prières, malfaiteurs.
 
-93
+123
 00:07:29,470 --> 00:07:31,590
 On est bien encerclés.
 
-94
+124
 00:07:31,800 --> 00:07:33,970
 Attends, ils sont bien trop nombreux !
 
-95
+125
 00:07:34,850 --> 00:07:36,810
 Et alors ?
 
-96
+126
 00:07:37,220 --> 00:07:39,270
 Tu vas pas faire ton malin longtemps.
 
-97
+127
 00:07:39,430 --> 00:07:41,060
 Les gars, à l'attaque...
 
-98
+128
 00:07:49,150 --> 00:07:50,490
 Attrapez ça.
 
-99
+129
 00:08:08,590 --> 00:08:11,670
 Dis, t'aurais pu nous laisser
 nous amuser cinq minutes.
 
-100
+130
 00:08:11,850 --> 00:08:12,800
 Imbécile.
 
-101
+131
 00:08:13,990 --> 00:08:15,930
 C'est pas pour ça que vous êtes venus.
 
-102
+132
 00:08:16,140 --> 00:08:18,560
 Ne perdez pas votre temps avec eux.
 
-103
+133
 00:08:18,910 --> 00:08:22,740
 C'est vrai que vu le nombre de soldats,
 on y passerait la journée.
 
-104
+134
 00:08:26,810 --> 00:08:29,070
 Ils ont la forme, ces petits.
 
-105
+135
 00:08:29,320 --> 00:08:31,280
 Tâchez de pas clamser !
 
-106
+136
 00:08:31,570 --> 00:08:33,740
 Foncez dans le tas !
 
-107
+137
 00:08:37,240 --> 00:08:39,120
 Soldats, repliez-vous !
 
-108
+138
 00:08:39,410 --> 00:08:43,080
 C'est un King Bull de Water Seven !
 Vite, aux canons !
 
-109
+139
 00:08:46,580 --> 00:08:47,540
 Bon sang !
 
-110
+140
 00:08:48,210 --> 00:08:49,960
 Mange-toi ça !
 
-111
+141
 00:08:54,300 --> 00:08:56,800
 Eh oui, y en a un autre.
 
-112
+142
 00:09:00,180 --> 00:09:02,640
 Brigade des Cerbères,
 reformez les rangs !
 
-113
+143
 00:09:02,850 --> 00:09:03,770
 Ouais !
 
-114
+144
 00:09:03,980 --> 00:09:04,980
 Rêvez pas trop !
 
-115
+145
 00:09:05,140 --> 00:09:08,900
 Nos chiens ne vont pas se laisser
 distancer par de la poiscaille !
 
-116
+146
 00:09:10,150 --> 00:09:12,490
 Oh non, ils vont sauter sur le Bull.
 
-117
+147
 00:09:12,690 --> 00:09:13,650
 C'est pas vrai !
 
-118
+148
 00:09:13,860 --> 00:09:16,660
 – On peut pas aller plus vite ?
 – Hé, le cuistot.
 
-119
+149
 00:09:16,860 --> 00:09:17,820
 Ouais ?
 
-120
+150
 00:09:19,180 --> 00:09:20,200
 Qu'est-ce qu'il y a ?
 
-121
+151
 00:09:21,290 --> 00:09:22,950
 Prends les rênes.
 
-122
+152
 00:09:26,330 --> 00:09:27,210
 Les gars...
 
-123
+153
 00:09:38,430 --> 00:09:40,100
 Quand vous les reverrez...
 
-124
+154
 00:09:40,850 --> 00:09:43,390
 Dites-leur un truc de ma part.
 
-125
+155
 00:09:44,480 --> 00:09:46,600
 "Vous êtes tous virés."
 
-126
+156
 00:09:48,190 --> 00:09:49,690
 On n'y manquera pas.
 
-127
+157
 00:09:50,230 --> 00:09:51,940
 On saute !
 
-128
+158
 00:09:52,730 --> 00:09:54,320
 Pas si vite !
 
-129
+159
 00:09:54,740 --> 00:09:57,320
 On compte sur vous, les Galley-La !
 
-130
+160
 00:09:57,740 --> 00:09:59,620
 On va vous embrocher !
 
-131
+161
 00:10:00,030 --> 00:10:03,370
 Half Knot. Air Drive.
 
-132
+162
 00:10:10,670 --> 00:10:13,630
 Il a étalé
 la brigade des Cerbères !
 
-133
+163
 00:10:13,820 --> 00:10:16,260
 Ne baissez pas votre garde,
 bande d'idiots.
 
-134
+164
 00:10:16,420 --> 00:10:19,550
 Le commun des mortels ne peut rien
 contre notre vitesse.
 
-135
+165
 00:10:19,760 --> 00:10:20,590
 En avant !
 
-136
+166
 00:10:20,760 --> 00:10:21,390
 Oui !
 
-137
+167
 00:10:22,010 --> 00:10:23,310
 On va les embrocher si vite
 
-138
+168
 00:10:23,510 --> 00:10:25,850
 qu'ils ne comprendront pas
 ce qui leur arrive !
 
-139
+169
 00:10:32,730 --> 00:10:35,070
 Ils se sont encore fait rétamer !
 
-140
+170
 00:10:36,400 --> 00:10:38,490
 Ils sortent d'où, ces types ?
 
-141
+171
 00:10:41,990 --> 00:10:44,830
 Vraiment, ils sont forts.
 
-142
+172
 00:10:52,790 --> 00:10:55,000
 On a du boulot, les gars.
 
-143
+173
+00:10:55,260 --> 00:10:59,220
+Tour Judiciaire
+Enies Lobby
+
+174
 00:11:06,640 --> 00:11:11,350
 Tu n'as pas changé, Cutty Flam,
 tu as toujours aussi sale caractère.
 
-144
+175
 00:11:11,690 --> 00:11:16,840
 Si j'avais su avant que tu étais vivant
 et que tu avais les plans,
 
-145
+176
 00:11:17,050 --> 00:11:19,610
 je n'aurais pas eu besoin
 de me fatiguer.
 
-146
+177
 00:11:20,070 --> 00:11:23,700
 T'arrêter et te traîner ici
 pour tes crimes passés
 
-147
+178
 00:11:23,910 --> 00:11:26,490
 aurait été un jeu d'enfant.
 Pas vrai ?
 
-148
+179
 00:11:28,330 --> 00:11:29,750
 Par contre,
 
-149
+180
 00:11:30,040 --> 00:11:33,750
 l'autre apprenti plus âgé, Icebarg,
 c'était un vrai coriace.
 
-150
+181
 00:11:34,290 --> 00:11:35,340
 Après la mort de Tom,
 
-151
+182
 00:11:35,500 --> 00:11:39,510
 il a unifié tous les chantiers
 de Water Seven,
 
-152
+183
 00:11:39,670 --> 00:11:42,010
 pour créer une immense société.
 
-153
+184
 00:11:42,150 --> 00:11:46,370
 Il s'est rapproché du Gouvernement,
 alors qu'il devait sûrement le haïr.
 
-154
+185
 00:11:46,570 --> 00:11:51,600
 Au final, il a réussi à devenir
 l'armateur officiel du Gouvernement.
 
-155
+186
 00:11:52,350 --> 00:11:55,560
 Il dirigeait la Galley-La Company.
 
-156
+187
 00:11:55,730 --> 00:11:58,440
 C'était aussi le maire de Water Seven.
 
-157
+188
 00:11:59,030 --> 00:12:04,030
 Tout le monde le soutenait,
 il était indispensable au Gouvernement.
 
-158
+189
 00:12:04,240 --> 00:12:08,200
 On ne pouvait pas se permettre
 de lever la main sur lui.
 
-159
+190
 00:12:09,660 --> 00:12:13,500
 Tu fabriques des bateaux
 pour le Gouvernement Mondial, pas vrai ?
 
-160
+191
 00:12:13,680 --> 00:12:17,250
 C'est une blague ?
 Je ne peux pas l'accepter !
 
-161
+192
 00:12:18,090 --> 00:12:21,260
 C'est donc pour ça
 qu'il bossait avec le Gouvernement.
 
-162
+193
 00:12:21,510 --> 00:12:25,090
 C'était vraiment un homme intelligent.
 
-163
+194
 00:12:27,260 --> 00:12:30,720
 Mais la chance a tourné en ma faveur.
 
-164
+195
 00:12:30,930 --> 00:12:35,690
 Juste quand j'allais perdre patience
 et recourir à la force,
 
-165
+196
 00:12:36,360 --> 00:12:39,610
 l'Amiral Aokiji m'a apporté
 une excellente nouvelle.
 
-166
+197
 00:12:40,050 --> 00:12:41,690
 La fameuse Nico Robin
 
-167
+198
 00:12:41,860 --> 00:12:46,070
 se dirigeait vers Water Seven,
 à bord d'un navire pirate.
 
-168
+199
 00:12:46,490 --> 00:12:50,490
 J'ai bu une tasse de café,
 pour calmer mes nerfs.
 
-169
+200
 00:12:51,160 --> 00:12:56,350
 Je t'ai alors intégré à mon plan,
 en sortant le Buster Call de ma poche.
 
-170
+201
 00:12:56,550 --> 00:13:00,420
 J'ai bien dû modifier quelque peu
 mon scénario de base...
 
-171
+202
 00:13:00,880 --> 00:13:01,960
 Mais voilà !
 
-172
+203
 00:13:02,260 --> 00:13:04,720
 Les deux personnes capables de réveiller
 
-173
+204
 00:13:05,010 --> 00:13:07,550
 les armes antiques sont ici,
 devant moi !
 
-174
+205
 00:13:10,560 --> 00:13:11,770
 Vous pigez ?
 
-175
+206
 00:13:11,970 --> 00:13:16,190
 J'ai tous les atouts de mon côté,
 maintenant.
 
-176
+207
 00:13:23,240 --> 00:13:29,530
 Si je le voulais, je pourrais avoir
 n'importe quelle nation à mes pieds !
 
-177
+208
 00:13:31,040 --> 00:13:35,370
 Pourquoi est-ce qu'Aokiji t'a donné
 le droit de déclencher un Buster Call ?
 
-178
+209
 00:13:43,420 --> 00:13:45,170
 Hein ?
 
-179
+210
 00:13:57,020 --> 00:14:01,360
 Je t'interdis de me poser des questions,
 petite insolente !
 
-180
+211
 00:14:02,520 --> 00:14:04,280
 Si je ne m'intéressais pas à toi,
 
-181
+212
 00:14:04,440 --> 00:14:08,360
 tu serais sûrement déjà morte
 à l'heure qu'il est !
 
-182
+213
 00:14:10,910 --> 00:14:14,410
 Tu devrais être un peu reconnaissante,
 tu ne crois pas ?
 
-183
+214
 00:14:16,120 --> 00:14:20,380
 Tu viens de la terre des démons.
 Tu es maudite, comme tous ceux d'Ohara.
 
-184
+215
 00:14:20,880 --> 00:14:23,420
 Ouvre bien grand tes oreilles.
 
-185
+216
 00:14:23,670 --> 00:14:27,820
 Dorénavant, tu vas tellement souffrir
 que tu regretteras plus d'une fois
 
-186
+217
 00:14:28,000 --> 00:14:30,530
 de ne pas être morte
 avant d'endurer ça.
 
-187
+218
 00:14:30,720 --> 00:14:32,370
 Alors prépare-toi.
 
-188
+219
 00:14:32,850 --> 00:14:34,220
 On va te torturer,
 
-189
+220
 00:14:34,430 --> 00:14:35,520
 t'utiliser,
 
-190
+221
 00:14:35,770 --> 00:14:37,350
 et on finira par te jeter à la mer.
 
-191
+222
 00:14:37,800 --> 00:14:40,980
 C'est tout ce que tu mérites,
 vu tous tes crimes.
 
-192
+223
 00:14:46,820 --> 00:14:50,570
 Tiens, au fait,
 j'ai reçu un appel, tout à l'heure.
 
-193
+224
 00:14:51,700 --> 00:14:54,490
 Il paraît que plusieurs ahuris
 seraient venus ici
 
-194
+225
 00:14:54,660 --> 00:14:58,080
 pour tenter de délivrer la vaurienne
 que tu es.
 
-195
+226
 00:14:59,540 --> 00:15:00,400
 Oh, non...
 
-196
+227
 00:15:00,580 --> 00:15:06,000
 Mais bon, ils ont sûrement
 tous été faits prisonniers, maintenant.
 
-197
+228
 00:15:06,420 --> 00:15:09,170
 Je parle du Chapeau de paille
 et de sa bande.
 
-198
+229
 00:15:11,010 --> 00:15:13,100
 Pourquoi sont-ils venus jusqu'ici ?
 
-199
+230
 00:15:15,470 --> 00:15:21,150
 Face aux 10 000 soldats d'Enies Lobby,
 ils n'avaient aucune chance.
 
-200
+231
 00:15:21,310 --> 00:15:24,900
 Bah, ça tombe bien,
 un navire part justement pour la prison.
 
-201
+232
 00:15:25,120 --> 00:15:26,880
 Quels beaux trophées, non ?
 
-202
+233
 00:15:27,050 --> 00:15:32,240
 Je compte bien les envoyer à Impel Down
 en même temps que Cutty Flam.
 
-203
+234
 00:15:37,780 --> 00:15:39,790
 Attendez, on n'avait pas dit ça !
 
-204
+235
 00:15:40,040 --> 00:15:45,210
 J'ai accepté de coopérer
 à condition qu'il ne leur arrive rien !
 
-205
+236
 00:15:47,550 --> 00:15:50,170
 Pourquoi tu montes
 sur tes grands chevaux, d'un coup ?
 
-206
+237
 00:15:50,380 --> 00:15:54,090
 Lucci, tu peux lui rappeler
 les termes exacts du marché ?
 
-207
+238
 00:15:54,510 --> 00:15:58,020
 Tous les pirates au chapeau de paille,
 Nico Robin exceptée,
 
-208
+239
 00:15:58,270 --> 00:16:01,350
 devaient quitter Water Seven
 sans encombre.
 
-209
+240
 00:16:01,550 --> 00:16:06,060
 Oui, voilà. 
 On est bien d'accord.
 
-210
+241
 00:16:13,240 --> 00:16:16,870
 On les a laissés partir de Water Seven
 sans encombre,
 
-211
+242
 00:16:17,030 --> 00:16:18,950
 mais ils ont décidé de venir ici.
 
-212
+243
 00:16:20,450 --> 00:16:22,410
 Comment ?
 
-213
+244
 00:16:23,250 --> 00:16:27,340
 Vous n'allez quand même pas
 jouer sur les mots et briser l'accord ?
 
-214
+245
 00:16:28,590 --> 00:16:30,550
 Quelle belle bande de merdes.
 
-215
+246
 00:16:30,760 --> 00:16:33,300
 Ils n'ont vraiment aucun honneur.
 
-216
+247
 00:16:33,970 --> 00:16:36,220
 Hein ?
 T'as dit quoi, là ?
 
-217
+248
 00:16:38,010 --> 00:16:40,020
 Tais-toi, sale déchet !
 
-218
+249
 00:16:40,180 --> 00:16:44,940
 Et pourquoi on devrait tenir parole,
 avec des criminels comme vous ?
 
-219
+250
 00:16:45,150 --> 00:16:47,310
 Hein ?
 Une pauvre ordure comme toi ?
 
-220
+251
 00:16:47,610 --> 00:16:48,730
 Pareil pour toi !
 
-221
+252
 00:16:50,150 --> 00:16:52,360
 Vous vous croyez quoi ?
 
-222
+253
 00:16:52,650 --> 00:16:58,030
 Bien sûr que la Marine va mentir,
 si ça peut aider à capturer des pirates.
 
-223
+254
 00:17:06,460 --> 00:17:08,000
 Espèce de lâche.
 
-224
+255
 00:17:08,290 --> 00:17:10,520
 Tu as passé ta vie à trahir des gens,
 
-225
+256
 00:17:10,750 --> 00:17:13,970
 tu n'auras pas droit à une mort douce,
 crois-moi.
 
-226
+257
 00:17:20,930 --> 00:17:24,730
 Comme ça, vous pourrez mourir
 tous ensemble, main dans la main.
 
-227
+258
 00:17:25,250 --> 00:17:29,690
 Personne n'est de taille à lutter
 contre la toute-puissante justice.
 
-228
+259
 00:17:38,180 --> 00:17:40,370
 Hé, c'est quoi, ça ?
 
-229
+260
 00:17:47,930 --> 00:17:49,210
 Quelque chose approche.
 
-230
+261
 00:18:01,800 --> 00:18:05,640
 Allez, Sodom et Gomorrhe !
 Vous arrêtez pas, foncez dans le tas !
 
-231
+262
 00:18:08,020 --> 00:18:12,440
 Bon sang, ces maudits pirates ont forcé
 l'Entrée de l'île principale.
 
-232
+263
 00:18:12,830 --> 00:18:15,190
 Feu !
 Feu à volonté !
 
-233
+264
 00:18:16,750 --> 00:18:18,900
 Si vous tenez à la vie, poussez-vous !
 
-234
+265
 00:18:19,090 --> 00:18:20,410
 Prenez ça !
 
-235
+266
 00:18:22,780 --> 00:18:25,450
 Repliez-vous et reformez les rangs !
 
-236
+267
 00:18:28,040 --> 00:18:31,500
 Sales pirates,
 on vous laissera pas faire !
 
-237
+268
 00:18:37,850 --> 00:18:39,800
 Tu es faite, pirate.
 
-238
+269
 00:18:40,010 --> 00:18:42,390
 Non !
 
-239
+270
 00:18:44,810 --> 00:18:46,390
 Je vais te manger !
 
-240
+271
 00:18:46,500 --> 00:18:48,270
 On t'a pas invité !
 
-241
+272
 00:18:49,650 --> 00:18:52,170
 Super, il avance bien.
 
-242
+273
 00:18:52,340 --> 00:18:54,940
 Emmène-nous jusqu'à Luffy, King Bull.
 
-243
+274
 00:18:58,200 --> 00:19:02,910
 Après lui, attrapez-le !
 Il est seul, encerclez-le !
 
-244
+275
 00:19:04,450 --> 00:19:05,330
 Stop !
 
-245
+276
 00:19:06,160 --> 00:19:08,250
 Dégagez !
 
-246
+277
 00:19:08,910 --> 00:19:11,210
 Hors de mon chemin !
 
-247
+278
 00:19:17,010 --> 00:19:18,260
 Du vent, les soldats !
 
-248
+279
 00:19:19,260 --> 00:19:22,430
 Mon commandant !
 Il fait vraiment peur, quand même.
 
-249
+280
 00:19:22,680 --> 00:19:26,260
 Ne reculez pas,
 bande de chiffes molles ! En avant !
 
-250
+281
 00:19:28,850 --> 00:19:30,390
 Mon commandant !
 
-251
+282
 00:19:35,320 --> 00:19:37,900
 Zut, ça m'a tout l'air
 d'être un cul-de-sac.
 
-252
+283
 00:19:38,470 --> 00:19:40,670
 Les laisse pas encore t'emmener...
 
-253
+284
 00:19:42,450 --> 00:19:45,280
 Robin !
 
-254
+285
 00:19:47,830 --> 00:19:51,250
 Soldats, enchaînez-moi ces deux-là.
 
-255
+286
 00:19:51,440 --> 00:19:51,920
 À vos ordres.
 
-256
+287
 00:19:52,370 --> 00:19:56,080
 N'enlevez surtout pas les menottes
 en Granit Marin de Nico Robin.
 
-257
+288
 00:19:56,220 --> 00:19:59,950
 Cutty Flam part pour Impel Down,
 Nico Robin, pour le QG de la Marine.
 
-258
+289
 00:20:00,120 --> 00:20:01,820
 Une fois le navire d'escorte prêt,
 
-259
+290
 00:20:02,020 --> 00:20:04,220
 nous franchirons la Porte de la Justice.
 
-260
+291
 00:20:04,340 --> 00:20:06,160
 Oui, à vos ordres.
 
-261
+292
 00:20:06,330 --> 00:20:07,680
 Et aussi...
 
-262
+293
 00:20:08,270 --> 00:20:10,500
 J'ai un conseil à vous donner.
 
-263
+294
 00:20:10,790 --> 00:20:12,980
 Cutty Flam est extrêmement violent...
 
-264
+295
 00:20:14,270 --> 00:20:16,400
 Le Chapeau de paille est ici ?
 
-265
+296
 00:20:18,610 --> 00:20:19,740
 Oui.
 
-266
+297
 00:20:20,190 --> 00:20:23,320
 Ils ont appelé, tout à l'heure,
 chapapa.
 
-267
+298
 00:20:23,490 --> 00:20:26,580
 Le chef a paniqué, c'était ridicule.
 
-268
+299
 00:20:26,990 --> 00:20:30,580
 Mais d'après le rapport,
 il n'y avait que cinq blessés.
 
-269
+300
 00:20:34,250 --> 00:20:36,630
 Le combiné n'a pas été raccroché.
 
-270
+301
 00:20:37,750 --> 00:20:40,650
 Allez, te fais pas prier.
 Avance.
 
-271
+302
 00:20:52,310 --> 00:20:56,380
 Rentrez donc dans vos chambres,
 histoire de souffler un peu.
 
-272
+303
 00:20:56,770 --> 00:21:02,280
 Grâce à cette affaire, on est sûrs
 d'avoir droit à une super promotion.
 
-273
+304
 00:21:02,480 --> 00:21:05,990
 Ça vous dirait qu'on fête ça
 avec un verre, sur le navire ?
 
-274
+305
 00:21:08,740 --> 00:21:11,750
 J'ai pas vraiment envie
 de célébrer quoi que ce soit.
 
-275
+306
 00:21:12,410 --> 00:21:15,290
 Je me moque
 des honneurs et des promotions.
 
-276
+307
 00:21:15,460 --> 00:21:16,330
 Comment ?
 
-277
+308
 00:21:17,330 --> 00:21:21,000
 La justice que nous servons
 dépend du Gouvernement Mondial.
 
-278
+309
 00:21:21,460 --> 00:21:24,830
 Si le Gouvernement
 vous a placé à la tête du CP9,
 
-279
+310
 00:21:25,050 --> 00:21:27,940
 c'est juste pour que vous meniez
 cette mission à bien.
 
-280
+311
 00:21:29,810 --> 00:21:33,730
 Nous n'avons absolument pas besoin
 de partager vos idées.
 
-281
+312
 00:21:35,230 --> 00:21:37,190
 Ce... Ce n'est pas faux.
 
-282
+313
 00:21:37,400 --> 00:21:40,230
 Mais alors, vous voulez quoi, au juste ?
 
-283
+314
 00:21:44,610 --> 00:21:47,280
 Ce qu'on veut ? Du sang.
 
-284
+315
 00:21:56,870 --> 00:22:00,420
 Avec ce boulot,
 on a le droit de tuer des gens.
 
-285
+316
 00:22:03,170 --> 00:22:05,550
 Ça donne froid dans le dos.
 
-286
+317
 00:22:06,220 --> 00:22:10,470
 La seule et unique unité d'assassins
 au service du Gouvernement.
 
-287
+318
 00:22:10,680 --> 00:22:14,930
 Je peux vraiment compter sur eux,
 sur mes petits soldats du CP9.
 
-288
+319
 00:22:15,140 --> 00:22:16,270
 Avec eux à mes côtés,
 
-289
+320
 00:22:16,430 --> 00:22:19,730
 plus rien ni personne ne peut m'arrêter.
 
-290
+321
+00:22:27,630 --> 00:22:27,820
+Tribunal
+
+322
+00:22:27,630 --> 00:22:28,780
+Porte de l'Île
+
+323
+00:22:27,820 --> 00:22:27,900
+Tribunal
+
+324
+00:22:27,900 --> 00:22:27,950
+Tribunal
+
+325
+00:22:27,950 --> 00:22:28,070
+Tribunal
+
+326
+00:22:28,070 --> 00:22:28,110
+Tribunal
+
+327
 00:22:28,110 --> 00:22:31,100
 Mon... Mon commandant !
 C'est terrible !
 
-291
+328
+00:22:28,110 --> 00:22:28,150
+Tribunal
+
+329
+00:22:28,150 --> 00:22:28,200
+Tribunal
+
+330
+00:22:28,200 --> 00:22:28,280
+Tribunal
+
+331
+00:22:28,280 --> 00:22:28,820
+Tribunal
+
+332
+00:22:28,780 --> 00:22:28,820
+Porte de l'Île
+
+333
+00:22:28,820 --> 00:22:28,860
+Tribunal
+
+334
+00:22:28,820 --> 00:22:28,860
+Porte de l'Île
+
+335
+00:22:28,860 --> 00:22:28,950
+Tribunal
+
+336
+00:22:28,860 --> 00:22:28,910
+Porte de l'Île
+
+337
+00:22:28,910 --> 00:22:28,950
+Porte de l'Île
+
+338
+00:22:28,950 --> 00:22:28,990
+Tribunal
+
+339
+00:22:28,950 --> 00:22:28,990
+Porte de l'Île
+
+340
+00:22:28,990 --> 00:22:29,030
+Tribunal
+
+341
+00:22:28,990 --> 00:22:29,030
+Porte de l'Île
+
+342
+00:22:29,030 --> 00:22:29,070
+Tribunal
+
+343
+00:22:29,030 --> 00:22:29,070
+Porte de l'Île
+
+344
+00:22:29,070 --> 00:22:29,110
+Tribunal
+
+345
+00:22:29,070 --> 00:22:29,110
+Porte de l'Île
+
+346
+00:22:29,110 --> 00:22:29,160
+Tribunal
+
+347
+00:22:29,110 --> 00:22:29,160
+Porte de l'Île
+
+348
+00:22:29,160 --> 00:22:29,200
+Tribunal
+
+349
+00:22:29,160 --> 00:22:29,200
+Porte de l'Île
+
+350
+00:22:29,200 --> 00:22:29,240
+Tribunal
+
+351
+00:22:29,200 --> 00:22:29,240
+Porte de l'Île
+
+352
+00:22:29,240 --> 00:22:29,280
+Tribunal
+
+353
+00:22:29,240 --> 00:22:29,280
+Porte de l'Île
+
+354
+00:22:29,280 --> 00:22:29,320
+Tribunal
+
+355
+00:22:29,280 --> 00:22:29,320
+Porte de l'Île
+
+356
+00:22:29,320 --> 00:22:29,360
+Tribunal
+
+357
+00:22:29,320 --> 00:22:29,360
+Porte de l'Île
+
+358
+00:22:29,360 --> 00:22:29,410
+Tribunal
+
+359
+00:22:29,360 --> 00:22:29,410
+Porte de l'Île
+
+360
+00:22:29,410 --> 00:22:29,450
+Tribunal
+
+361
+00:22:29,410 --> 00:22:29,450
+Porte de l'Île
+
+362
+00:22:29,450 --> 00:22:29,490
+Tribunal
+
+363
+00:22:29,450 --> 00:22:29,490
+Porte de l'Île
+
+364
+00:22:29,490 --> 00:22:29,530
+Tribunal
+
+365
+00:22:29,490 --> 00:22:29,530
+Porte de l'Île
+
+366
+00:22:29,530 --> 00:22:29,570
+Tribunal
+
+367
+00:22:29,530 --> 00:22:29,570
+Porte de l'Île
+
+368
+00:22:29,570 --> 00:22:29,610
+Tribunal
+
+369
+00:22:29,570 --> 00:22:29,610
+Porte de l'Île
+
+370
+00:22:29,610 --> 00:22:29,660
+Tribunal
+
+371
+00:22:29,610 --> 00:22:29,660
+Porte de l'Île
+
+372
+00:22:29,660 --> 00:22:29,700
+Tribunal
+
+373
+00:22:29,660 --> 00:22:29,700
+Porte de l'Île
+
+374
+00:22:29,700 --> 00:22:29,740
+Tribunal
+
+375
+00:22:29,700 --> 00:22:29,740
+Porte de l'Île
+
+376
+00:22:29,740 --> 00:22:29,780
+Tribunal
+
+377
+00:22:29,740 --> 00:22:29,780
+Porte de l'Île
+
+378
+00:22:29,780 --> 00:22:29,820
+Tribunal
+
+379
+00:22:29,780 --> 00:22:29,820
+Porte de l'Île
+
+380
+00:22:29,820 --> 00:22:29,870
+Tribunal
+
+381
+00:22:29,820 --> 00:22:29,870
+Porte de l'Île
+
+382
+00:22:29,870 --> 00:22:29,910
+Tribunal
+
+383
+00:22:29,870 --> 00:22:29,910
+Porte de l'Île
+
+384
+00:22:29,910 --> 00:22:29,950
+Tribunal
+
+385
+00:22:29,910 --> 00:22:29,950
+Porte de l'Île
+
+386
+00:22:29,950 --> 00:22:29,990
+Tribunal
+
+387
+00:22:29,950 --> 00:22:29,990
+Porte de l'Île
+
+388
+00:22:29,990 --> 00:22:30,030
+Tribunal
+
+389
+00:22:29,990 --> 00:22:30,030
+Porte de l'Île
+
+390
+00:22:30,030 --> 00:22:30,070
+Tribunal
+
+391
+00:22:30,030 --> 00:22:30,070
+Porte de l'Île
+
+392
+00:22:30,070 --> 00:22:30,120
+Tribunal
+
+393
+00:22:30,070 --> 00:22:30,120
+Porte de l'Île
+
+394
+00:22:30,120 --> 00:22:30,160
+Tribunal
+
+395
+00:22:30,120 --> 00:22:30,160
+Porte de l'Île
+
+396
+00:22:30,160 --> 00:22:30,200
+Tribunal
+
+397
+00:22:30,160 --> 00:22:30,200
+Porte de l'Île
+
+398
+00:22:30,200 --> 00:22:30,240
+Tribunal
+
+399
+00:22:30,200 --> 00:22:30,240
+Porte de l'Île
+
+400
+00:22:30,240 --> 00:22:30,280
+Tribunal
+
+401
+00:22:30,240 --> 00:22:30,280
+Porte de l'Île
+
+402
+00:22:30,280 --> 00:22:30,320
+Tribunal
+
+403
+00:22:30,280 --> 00:22:30,320
+Porte de l'Île
+
+404
+00:22:30,320 --> 00:22:30,370
+Tribunal
+
+405
+00:22:30,320 --> 00:22:30,370
+Porte de l'Île
+
+406
+00:22:30,370 --> 00:22:30,410
+Tribunal
+
+407
+00:22:30,370 --> 00:22:30,410
+Porte de l'Île
+
+408
+00:22:30,410 --> 00:22:30,450
+Tribunal
+
+409
+00:22:30,410 --> 00:22:30,450
+Porte de l'Île
+
+410
+00:22:30,450 --> 00:22:30,490
+Tribunal
+
+411
+00:22:30,450 --> 00:22:30,490
+Porte de l'Île
+
+412
+00:22:30,490 --> 00:22:30,530
+Tribunal
+
+413
+00:22:30,490 --> 00:22:30,530
+Porte de l'Île
+
+414
+00:22:30,530 --> 00:22:30,570
+Tribunal
+
+415
+00:22:30,530 --> 00:22:30,570
+Porte de l'Île
+
+416
+00:22:30,570 --> 00:22:30,620
+Tribunal
+
+417
+00:22:30,570 --> 00:22:30,620
+Porte de l'Île
+
+418
+00:22:30,620 --> 00:22:30,660
+Tribunal
+
+419
+00:22:30,620 --> 00:22:30,660
+Porte de l'Île
+
+420
+00:22:30,660 --> 00:22:30,700
+Tribunal
+
+421
+00:22:30,660 --> 00:22:30,700
+Porte de l'Île
+
+422
+00:22:30,700 --> 00:22:30,740
+Tribunal
+
+423
+00:22:30,700 --> 00:22:30,740
+Porte de l'Île
+
+424
+00:22:30,740 --> 00:22:30,780
+Tribunal
+
+425
+00:22:30,740 --> 00:22:30,780
+Porte de l'Île
+
+426
+00:22:30,780 --> 00:22:30,820
+Tribunal
+
+427
+00:22:30,820 --> 00:22:30,870
+Tribunal
+
+428
+00:22:30,870 --> 00:22:30,910
+Tribunal
+
+429
+00:22:30,910 --> 00:22:30,950
+Tribunal
+
+430
+00:22:30,950 --> 00:22:30,990
+Tribunal
+
+431
+00:22:30,990 --> 00:22:31,030
+Tribunal
+
+432
+00:22:31,030 --> 00:22:31,070
+Tribunal
+
+433
+00:22:31,070 --> 00:22:31,120
+Tribunal
+
+434
+00:22:31,120 --> 00:22:31,160
+Tribunal
+
+435
+00:22:31,160 --> 00:22:31,200
+Tribunal
+
+436
+00:22:31,200 --> 00:22:31,240
+Tribunal
+
+437
+00:22:31,240 --> 00:22:31,280
+Tribunal
+
+438
 00:22:31,280 --> 00:22:32,120
 Qu'y a-t-il ?
 
-292
+439
+00:22:31,280 --> 00:22:31,320
+Tribunal
+
+440
+00:22:31,320 --> 00:22:31,370
+Tribunal
+
+441
+00:22:31,370 --> 00:22:31,410
+Tribunal
+
+442
+00:22:31,410 --> 00:22:31,450
+Tribunal
+
+443
+00:22:31,450 --> 00:22:31,490
+Tribunal
+
+444
 00:22:32,300 --> 00:22:34,040
 C'est Luffy au chapeau de paille.
 
-293
+445
 00:22:36,580 --> 00:22:39,750
 On a complètement perdu sa trace.
 
-294
+446
 00:22:39,900 --> 00:22:43,280
 Dites pas n'importe quoi,
 il y a des soldats absolument partout.
 
-295
+447
 00:22:43,460 --> 00:22:45,110
 Pourtant, il est introuvable.
 
-296
+448
 00:22:45,750 --> 00:22:49,150
 Il ne serait quand même pas déjà
 dans le Tribunal ?
 
-297
+449
 00:22:49,500 --> 00:22:52,720
 Non, impossible !
 Même une mouche n'aurait pas pu passer.
 
-298
+450
 00:22:54,060 --> 00:22:57,950
 Cherchez-le !
 Trouvez-moi ce Chapeau de paille !
 
-299
+451
 00:23:05,800 --> 00:23:08,150
 Voilà donc le dernier bâtiment.
 
-300
+452
 00:23:08,740 --> 00:23:10,860
 Par contre, y a pas de pont.
 
-301
+453
 00:23:11,120 --> 00:23:13,870
 C'est un peu loin,
 mais je vais tenter un saut.
 
-302
+454
 00:23:18,830 --> 00:23:20,250
 C'est quoi, ça ?
 
-303
+455
 00:23:20,360 --> 00:23:21,630
 Air Door.
 
-304
+456
 00:23:31,680 --> 00:23:34,680
 Hé, t'es le taureau
 qui traînait avec le type au pigeon.
 
-305
+457
 00:23:34,850 --> 00:23:38,890
 On dirait bien que les rapports
 ne sont pas conformes à la réalité.
 
-306
+458
 00:23:39,100 --> 00:23:41,520
 Dis, comment t'as fait ça ?
 
-307
+459
 00:23:41,690 --> 00:23:43,560
 C'est cool. C'est de la magie ?
 
-308
+460
 00:23:43,730 --> 00:23:48,220
 Je m'en doutais. Seulement cinq blessés,
 ça me paraissait incroyable.
 
-309
+461
 00:23:48,510 --> 00:23:50,530
 Tu m'as bien surpris, en tout cas.
 
-310
+462
 00:23:50,730 --> 00:23:55,490
 Depuis que le Gouvernement Mondial
 a été instauré, c'est du jamais vu.
 
-311
+463
 00:23:55,900 --> 00:24:00,080
 Personne n'avait encore pénétré
 dans l'antichambre du Gouvernement.
 
-312
+464
 00:24:00,680 --> 00:24:04,290
 Tu comptes faire du grabuge
 jusqu'à quand ?
 
-313
+465
 00:24:17,970 --> 00:24:19,660
 Jusqu'à mon dernier souffle.
 
-314
-00:05:53,670 --> 00:05:56,540
-Île Principale, Enies Lobby
-
-315
-00:05:53,670 --> 00:05:56,540
-Île Principale, Enies Lobby
-
-316
-00:05:53,670 --> 00:05:56,540
-Île Principale, Enies Lobby
-
-317
-00:06:45,340 --> 00:06:48,010
-Île Principale
-Devant la Porte de l'Île
-
-318
-00:06:45,340 --> 00:06:48,010
-Île Principale
-Devant la Porte de l'Île
-
-319
-00:06:45,340 --> 00:06:48,010
-Île Principale
-Devant la Porte de l'Île
-
-320
-00:10:55,260 --> 00:10:59,220
-Tour Judiciaire
-Enies Lobby
-
-321
-00:10:55,260 --> 00:10:59,220
-Tour Judiciaire
-Enies Lobby
-
-322
-00:10:55,260 --> 00:10:59,220
-Tour Judiciaire
-Enies Lobby
-
-323
-00:22:27,630 --> 00:22:27,900
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-324
-00:22:27,900 --> 00:22:28,070
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-325
-00:22:28,070 --> 00:22:28,200
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-326
-00:22:28,200 --> 00:22:28,820
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-327
-00:22:28,820 --> 00:22:28,860
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-328
-00:22:28,860 --> 00:22:28,950
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-329
-00:22:28,950 --> 00:22:28,990
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-330
-00:22:28,990 --> 00:22:29,030
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-331
-00:22:29,030 --> 00:22:29,070
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-332
-00:22:29,070 --> 00:22:29,110
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-333
-00:22:29,110 --> 00:22:29,160
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-334
-00:22:29,160 --> 00:22:29,200
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-335
-00:22:29,200 --> 00:22:29,240
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-336
-00:22:29,240 --> 00:22:29,280
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-337
-00:22:29,280 --> 00:22:29,320
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-338
-00:22:29,320 --> 00:22:29,360
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-339
-00:22:29,360 --> 00:22:29,410
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-340
-00:22:29,410 --> 00:22:29,450
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-341
-00:22:29,450 --> 00:22:29,490
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-342
-00:22:29,490 --> 00:22:29,530
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-343
-00:22:29,530 --> 00:22:29,570
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-344
-00:22:29,570 --> 00:22:29,610
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-345
-00:22:29,610 --> 00:22:29,660
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-346
-00:22:29,660 --> 00:22:29,700
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-347
-00:22:29,700 --> 00:22:29,740
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-348
-00:22:29,740 --> 00:22:29,780
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-349
-00:22:29,780 --> 00:22:29,820
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-350
-00:22:29,820 --> 00:22:29,870
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-351
-00:22:29,870 --> 00:22:29,910
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-352
-00:22:29,910 --> 00:22:29,950
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-353
-00:22:29,950 --> 00:22:29,990
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-354
-00:22:29,990 --> 00:22:30,030
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-355
-00:22:30,030 --> 00:22:30,070
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-356
-00:22:30,070 --> 00:22:30,120
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-357
-00:22:30,120 --> 00:22:30,160
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-358
-00:22:30,160 --> 00:22:30,200
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-359
-00:22:30,200 --> 00:22:30,240
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-360
-00:22:30,240 --> 00:22:30,280
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-361
-00:22:30,280 --> 00:22:30,320
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-362
-00:22:30,320 --> 00:22:30,370
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-363
-00:22:30,370 --> 00:22:30,410
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-364
-00:22:30,410 --> 00:22:30,450
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-365
-00:22:30,450 --> 00:22:30,490
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-366
-00:22:30,490 --> 00:22:30,530
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-367
-00:22:30,530 --> 00:22:30,570
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-368
-00:22:30,570 --> 00:22:30,620
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-369
-00:22:30,620 --> 00:22:30,660
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-370
-00:22:30,660 --> 00:22:30,700
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-371
-00:22:30,700 --> 00:22:30,740
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-372
-00:22:30,740 --> 00:22:30,780
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-373
-00:22:30,780 --> 00:22:30,820
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-374
-00:22:30,820 --> 00:22:30,870
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-375
-00:22:30,870 --> 00:22:30,910
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-376
-00:22:30,910 --> 00:22:30,950
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-377
-00:22:30,950 --> 00:22:30,990
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-378
-00:22:30,990 --> 00:22:31,030
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-379
-00:22:31,030 --> 00:22:31,070
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-380
-00:22:31,070 --> 00:22:31,120
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-381
-00:22:31,120 --> 00:22:31,160
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-382
-00:22:31,160 --> 00:22:31,200
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-383
-00:22:31,200 --> 00:22:31,240
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-384
-00:22:31,240 --> 00:22:31,280
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-385
-00:22:31,280 --> 00:22:31,320
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-386
-00:22:31,320 --> 00:22:31,370
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-387
-00:22:31,370 --> 00:22:31,410
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-388
-00:22:31,410 --> 00:22:31,450
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-389
-00:22:31,450 --> 00:22:31,550
-m -163.5 -82.5 l 172.5 -81 177 -76.5 178.5 -37.5 330 -25.5 177 -18 177 25.5 171 28.5 -163.5 30 -168 24 -169.5 -76.5
-
-390
-00:22:27,630 --> 00:22:27,820
-Tribunal
-
-391
-00:22:27,820 --> 00:22:27,900
-Tribunal
-
-392
-00:22:27,900 --> 00:22:27,950
-Tribunal
-
-393
-00:22:27,950 --> 00:22:28,070
-Tribunal
-
-394
-00:22:28,070 --> 00:22:28,110
-Tribunal
-
-395
-00:22:28,110 --> 00:22:28,150
-Tribunal
-
-396
-00:22:28,150 --> 00:22:28,200
-Tribunal
-
-397
-00:22:28,200 --> 00:22:28,280
-Tribunal
-
-398
-00:22:28,280 --> 00:22:28,820
-Tribunal
-
-399
-00:22:28,820 --> 00:22:28,860
-Tribunal
-
-400
-00:22:28,860 --> 00:22:28,950
-Tribunal
-
-401
-00:22:28,950 --> 00:22:28,990
-Tribunal
-
-402
-00:22:28,990 --> 00:22:29,030
-Tribunal
-
-403
-00:22:29,030 --> 00:22:29,070
-Tribunal
-
-404
-00:22:29,070 --> 00:22:29,110
-Tribunal
-
-405
-00:22:29,110 --> 00:22:29,160
-Tribunal
-
-406
-00:22:29,160 --> 00:22:29,200
-Tribunal
-
-407
-00:22:29,200 --> 00:22:29,240
-Tribunal
-
-408
-00:22:29,240 --> 00:22:29,280
-Tribunal
-
-409
-00:22:29,280 --> 00:22:29,320
-Tribunal
-
-410
-00:22:29,320 --> 00:22:29,360
-Tribunal
-
-411
-00:22:29,360 --> 00:22:29,410
-Tribunal
-
-412
-00:22:29,410 --> 00:22:29,450
-Tribunal
-
-413
-00:22:29,450 --> 00:22:29,490
-Tribunal
-
-414
-00:22:29,490 --> 00:22:29,530
-Tribunal
-
-415
-00:22:29,530 --> 00:22:29,570
-Tribunal
-
-416
-00:22:29,570 --> 00:22:29,610
-Tribunal
-
-417
-00:22:29,610 --> 00:22:29,660
-Tribunal
-
-418
-00:22:29,660 --> 00:22:29,700
-Tribunal
-
-419
-00:22:29,700 --> 00:22:29,740
-Tribunal
-
-420
-00:22:29,740 --> 00:22:29,780
-Tribunal
-
-421
-00:22:29,780 --> 00:22:29,820
-Tribunal
-
-422
-00:22:29,820 --> 00:22:29,870
-Tribunal
-
-423
-00:22:29,870 --> 00:22:29,910
-Tribunal
-
-424
-00:22:29,910 --> 00:22:29,950
-Tribunal
-
-425
-00:22:29,950 --> 00:22:29,990
-Tribunal
-
-426
-00:22:29,990 --> 00:22:30,030
-Tribunal
-
-427
-00:22:30,030 --> 00:22:30,070
-Tribunal
-
-428
-00:22:30,070 --> 00:22:30,120
-Tribunal
-
-429
-00:22:30,120 --> 00:22:30,160
-Tribunal
-
-430
-00:22:30,160 --> 00:22:30,200
-Tribunal
-
-431
-00:22:30,200 --> 00:22:30,240
-Tribunal
-
-432
-00:22:30,240 --> 00:22:30,280
-Tribunal
-
-433
-00:22:30,280 --> 00:22:30,320
-Tribunal
-
-434
-00:22:30,320 --> 00:22:30,370
-Tribunal
-
-435
-00:22:30,370 --> 00:22:30,410
-Tribunal
-
-436
-00:22:30,410 --> 00:22:30,450
-Tribunal
-
-437
-00:22:30,450 --> 00:22:30,490
-Tribunal
-
-438
-00:22:30,490 --> 00:22:30,530
-Tribunal
-
-439
-00:22:30,530 --> 00:22:30,570
-Tribunal
-
-440
-00:22:30,570 --> 00:22:30,620
-Tribunal
-
-441
-00:22:30,620 --> 00:22:30,660
-Tribunal
-
-442
-00:22:30,660 --> 00:22:30,700
-Tribunal
-
-443
-00:22:30,700 --> 00:22:30,740
-Tribunal
-
-444
-00:22:30,740 --> 00:22:30,780
-Tribunal
-
-445
-00:22:30,780 --> 00:22:30,820
-Tribunal
-
-446
-00:22:30,820 --> 00:22:30,870
-Tribunal
-
-447
-00:22:30,870 --> 00:22:30,910
-Tribunal
-
-448
-00:22:30,910 --> 00:22:30,950
-Tribunal
-
-449
-00:22:30,950 --> 00:22:30,990
-Tribunal
-
-450
-00:22:30,990 --> 00:22:31,030
-Tribunal
-
-451
-00:22:31,030 --> 00:22:31,070
-Tribunal
-
-452
-00:22:31,070 --> 00:22:31,120
-Tribunal
-
-453
-00:22:31,120 --> 00:22:31,160
-Tribunal
-
-454
-00:22:31,160 --> 00:22:31,200
-Tribunal
-
-455
-00:22:31,200 --> 00:22:31,240
-Tribunal
-
-456
-00:22:31,240 --> 00:22:31,280
-Tribunal
-
-457
-00:22:31,280 --> 00:22:31,320
-Tribunal
-
-458
-00:22:31,320 --> 00:22:31,370
-Tribunal
-
-459
-00:22:31,370 --> 00:22:31,410
-Tribunal
-
-460
-00:22:31,410 --> 00:22:31,450
-Tribunal
-
-461
-00:22:31,450 --> 00:22:31,490
-Tribunal
-
-462
-00:22:27,630 --> 00:22:27,990
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-463
-00:22:27,990 --> 00:22:28,030
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-464
-00:22:28,030 --> 00:22:28,780
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-465
-00:22:28,780 --> 00:22:28,820
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
 466
-00:22:28,820 --> 00:22:28,860
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-467
-00:22:28,860 --> 00:22:28,910
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-468
-00:22:28,910 --> 00:22:28,950
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-469
-00:22:28,950 --> 00:22:28,990
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-470
-00:22:28,990 --> 00:22:29,030
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-471
-00:22:29,030 --> 00:22:29,070
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-472
-00:22:29,070 --> 00:22:29,110
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-473
-00:22:29,110 --> 00:22:29,160
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-474
-00:22:29,160 --> 00:22:29,200
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-475
-00:22:29,200 --> 00:22:29,240
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-476
-00:22:29,240 --> 00:22:29,280
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-477
-00:22:29,280 --> 00:22:29,320
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-478
-00:22:29,320 --> 00:22:29,360
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-479
-00:22:29,360 --> 00:22:29,410
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-480
-00:22:29,410 --> 00:22:29,450
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-481
-00:22:29,450 --> 00:22:29,490
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-482
-00:22:29,490 --> 00:22:29,530
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-483
-00:22:29,530 --> 00:22:29,570
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-484
-00:22:29,570 --> 00:22:29,610
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-485
-00:22:29,610 --> 00:22:29,660
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-486
-00:22:29,660 --> 00:22:29,700
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-487
-00:22:29,700 --> 00:22:29,740
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-488
-00:22:29,740 --> 00:22:29,780
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-489
-00:22:29,780 --> 00:22:29,820
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-490
-00:22:29,820 --> 00:22:29,870
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-491
-00:22:29,870 --> 00:22:29,910
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-492
-00:22:29,910 --> 00:22:29,950
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-493
-00:22:29,950 --> 00:22:29,990
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-494
-00:22:29,990 --> 00:22:30,030
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-495
-00:22:30,030 --> 00:22:30,070
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-496
-00:22:30,070 --> 00:22:30,120
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-497
-00:22:30,120 --> 00:22:30,160
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-498
-00:22:30,160 --> 00:22:30,200
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-499
-00:22:30,200 --> 00:22:30,240
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-500
-00:22:30,240 --> 00:22:30,280
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-501
-00:22:30,280 --> 00:22:30,320
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-502
-00:22:30,320 --> 00:22:30,370
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-503
-00:22:30,370 --> 00:22:30,410
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-504
-00:22:30,410 --> 00:22:30,450
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-505
-00:22:30,450 --> 00:22:30,490
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-506
-00:22:30,490 --> 00:22:30,530
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-507
-00:22:30,530 --> 00:22:30,570
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-508
-00:22:30,570 --> 00:22:30,620
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-509
-00:22:30,620 --> 00:22:30,660
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-510
-00:22:30,660 --> 00:22:30,700
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-511
-00:22:30,700 --> 00:22:30,740
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-512
-00:22:30,740 --> 00:22:30,780
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-513
-00:22:30,780 --> 00:22:30,820
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-514
-00:22:30,820 --> 00:22:30,870
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-515
-00:22:30,870 --> 00:22:30,910
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-516
-00:22:30,910 --> 00:22:30,950
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-517
-00:22:30,950 --> 00:22:30,990
-m -172.5 -81 l 162 -81 168 -78 168 22.5 163.5 28.5 -172.5 28.5 -178.5 24 -178.5 -21 -340.5 -25.5 -178.5 -37.5 -178.5 -75
-
-518
-00:22:27,630 --> 00:22:28,780
-Porte de l'Île
-
-519
-00:22:28,780 --> 00:22:28,820
-Porte de l'Île
-
-520
-00:22:28,820 --> 00:22:28,860
-Porte de l'Île
-
-521
-00:22:28,860 --> 00:22:28,910
-Porte de l'Île
-
-522
-00:22:28,910 --> 00:22:28,950
-Porte de l'Île
-
-523
-00:22:28,950 --> 00:22:28,990
-Porte de l'Île
-
-524
-00:22:28,990 --> 00:22:29,030
-Porte de l'Île
-
-525
-00:22:29,030 --> 00:22:29,070
-Porte de l'Île
-
-526
-00:22:29,070 --> 00:22:29,110
-Porte de l'Île
-
-527
-00:22:29,110 --> 00:22:29,160
-Porte de l'Île
-
-528
-00:22:29,160 --> 00:22:29,200
-Porte de l'Île
-
-529
-00:22:29,200 --> 00:22:29,240
-Porte de l'Île
-
-530
-00:22:29,240 --> 00:22:29,280
-Porte de l'Île
-
-531
-00:22:29,280 --> 00:22:29,320
-Porte de l'Île
-
-532
-00:22:29,320 --> 00:22:29,360
-Porte de l'Île
-
-533
-00:22:29,360 --> 00:22:29,410
-Porte de l'Île
-
-534
-00:22:29,410 --> 00:22:29,450
-Porte de l'Île
-
-535
-00:22:29,450 --> 00:22:29,490
-Porte de l'Île
-
-536
-00:22:29,490 --> 00:22:29,530
-Porte de l'Île
-
-537
-00:22:29,530 --> 00:22:29,570
-Porte de l'Île
-
-538
-00:22:29,570 --> 00:22:29,610
-Porte de l'Île
-
-539
-00:22:29,610 --> 00:22:29,660
-Porte de l'Île
-
-540
-00:22:29,660 --> 00:22:29,700
-Porte de l'Île
-
-541
-00:22:29,700 --> 00:22:29,740
-Porte de l'Île
-
-542
-00:22:29,740 --> 00:22:29,780
-Porte de l'Île
-
-543
-00:22:29,780 --> 00:22:29,820
-Porte de l'Île
-
-544
-00:22:29,820 --> 00:22:29,870
-Porte de l'Île
-
-545
-00:22:29,870 --> 00:22:29,910
-Porte de l'Île
-
-546
-00:22:29,910 --> 00:22:29,950
-Porte de l'Île
-
-547
-00:22:29,950 --> 00:22:29,990
-Porte de l'Île
-
-548
-00:22:29,990 --> 00:22:30,030
-Porte de l'Île
-
-549
-00:22:30,030 --> 00:22:30,070
-Porte de l'Île
-
-550
-00:22:30,070 --> 00:22:30,120
-Porte de l'Île
-
-551
-00:22:30,120 --> 00:22:30,160
-Porte de l'Île
-
-552
-00:22:30,160 --> 00:22:30,200
-Porte de l'Île
-
-553
-00:22:30,200 --> 00:22:30,240
-Porte de l'Île
-
-554
-00:22:30,240 --> 00:22:30,280
-Porte de l'Île
-
-555
-00:22:30,280 --> 00:22:30,320
-Porte de l'Île
-
-556
-00:22:30,320 --> 00:22:30,370
-Porte de l'Île
-
-557
-00:22:30,370 --> 00:22:30,410
-Porte de l'Île
-
-558
-00:22:30,410 --> 00:22:30,450
-Porte de l'Île
-
-559
-00:22:30,450 --> 00:22:30,490
-Porte de l'Île
-
-560
-00:22:30,490 --> 00:22:30,530
-Porte de l'Île
-
-561
-00:22:30,530 --> 00:22:30,570
-Porte de l'Île
-
-562
-00:22:30,570 --> 00:22:30,620
-Porte de l'Île
-
-563
-00:22:30,620 --> 00:22:30,660
-Porte de l'Île
-
-564
-00:22:30,660 --> 00:22:30,700
-Porte de l'Île
-
-565
-00:22:30,700 --> 00:22:30,740
-Porte de l'Île
-
-566
-00:22:30,740 --> 00:22:30,780
-Porte de l'Île
-
-567
-00:00:00,750 --> 00:00:03,370
-Cours, cours sans t’arrêter,
-
-568
-00:00:03,620 --> 00:00:06,460
-Drapeau levé bien haut vers le ciel.
-
-569
-00:00:12,800 --> 00:00:18,060
-Nous voguerons sur cette mer sans fin
-
-570
-00:00:18,890 --> 00:00:21,810
-À la recherche des miracles du monde,
-
-571
-00:00:21,930 --> 00:00:23,940
-que personne n'a encore réussi à trouver !
-
-572
-00:00:24,850 --> 00:00:27,980
-Nos cœurs palpitent, emportés par nos rêves,
-
-573
-00:00:27,980 --> 00:00:29,730
-Nous avançons sans détour,
-
-574
-00:00:29,730 --> 00:00:35,610
-Sur les traces laissées par les chasseurs de rêves.
-
-575
-00:00:36,450 --> 00:00:39,410
-Même dans les nuits les plus orageuses,
-
-576
-00:00:39,410 --> 00:00:42,410
-Si nos cœurs ne font qu’un,
-
-577
-00:00:42,410 --> 00:00:46,540
-Nous pourrons tout surmonter,
-
-578
-00:00:46,710 --> 00:00:47,880
-à tout moment !
-
-579
-00:00:48,790 --> 00:00:51,590
-Cours, cours sans t’arrêter,
-
-580
-00:00:51,760 --> 00:00:54,550
-Drapeau levé bien haut vers le ciel !
-
-581
-00:00:54,630 --> 00:01:00,600
-Même s’il existe des larmes que personne ne voit,
-
-582
-00:01:00,810 --> 00:01:03,520
-Nous continuerons à les poursuivre, ces rêves lointains.
-
-583
-00:01:03,730 --> 00:01:06,520
-La boussole qui les désigne,
-
-584
-00:01:06,650 --> 00:01:09,230
-Notre regard est droit et sincère,
-
-585
-00:01:09,230 --> 00:01:11,400
-rien ne nous arrêtera.
-
-586
-00:01:18,870 --> 00:01:21,490
-Cours, cours sans t’arrêter,
-
-587
-00:01:21,830 --> 00:01:24,540
-Plus loin que quiconque avant toi !
-
-588
-00:01:24,660 --> 00:01:27,120
-Tant que tu ne fuis pas,
-
-589
-00:01:27,250 --> 00:01:30,540
-Tu pourras saisir demain.
-
-590
-00:01:30,630 --> 00:01:33,630
-Poursuis-les, poursuis-les encore,
-
-591
-00:01:33,710 --> 00:01:36,510
-Tous ces reflets que tes yeux perçoivent maintenant.
-
-592
-00:01:36,590 --> 00:01:38,930
-Grave-les dans ton cœur pur et blanc,
-
-593
-00:01:39,180 --> 00:01:41,430
-Et avançons vers un monde nouveau !
-
-594
 00:24:25,980 --> 00:24:32,150
 Je n’ai jamais su dire les choses
 
-595
+467
 00:24:32,820 --> 00:24:36,660
 que je veux vraiment transmettre.
 
-596
+468
 00:24:36,740 --> 00:24:44,330
 En cherchant, en errant, j’ai continué à avancer dans ma vie.
 
-597
+469
 00:24:44,460 --> 00:24:45,920
 Et maintenant,
 
-598
+470
 00:24:46,000 --> 00:24:54,880
 Il me semble avoir trouvé une lueur, une lumière unique.
 
-599
+471
 00:24:55,180 --> 00:25:00,100
 Mais chaque fois que je tente de la poursuivre,
 
-600
+472
 00:25:00,220 --> 00:25:06,900
 L’avenir s’échappe, insaisissable et agité.
 
-601
+473
 00:25:07,020 --> 00:25:13,110
 Encore et encore, je m’arrête en chemin,
 
-602
+474
 00:25:13,280 --> 00:25:16,110
 Empilant sourires et larmes,
 
-603
+475
 00:25:16,200 --> 00:25:19,330
 L’un sur l’autre, jour après jour.
 
-604
+476
 00:25:19,410 --> 00:25:25,580
 Aussi profonde que soit la nuit,
 
-605
+477
 00:25:25,920 --> 00:25:31,920
 Le matin finira toujours par venir.

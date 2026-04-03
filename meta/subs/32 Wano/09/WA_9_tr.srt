@@ -1,1514 +1,1518 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:41,950 --> 00:01:45,450
+Oden'i Seviyorum
+
+3
+00:01:45,450 --> 00:01:49,750
+Çiçek Başkenti
+
+4
 00:01:46,850 --> 00:01:49,750
 Pekâlâ çocuklar, derse geçelim.
 
-3
+5
 00:01:49,750 --> 00:01:53,090
 Bugün Wano'nun tarihini işleyeceğiz!
 
-4
+6
 00:01:53,090 --> 00:01:54,720
 – Peki öğretmenim!
 – Peki öğretmenim!
 
-5
+7
 00:02:01,470 --> 00:02:02,810
 Peki öyleyse...
 
-6
+8
 00:02:04,310 --> 00:02:07,380
 Sakoku nedir bakayım?
 
-7
+9
 00:02:07,380 --> 00:02:08,810
 Ben!
 
-8
+10
 00:02:08,810 --> 00:02:12,940
 Ülkenin huzurunu sağlamak için
 kapılarını dışarıya kapatmaktır!
 
-9
+11
 00:02:12,940 --> 00:02:14,070
 Doğru!
 
-10
+12
 00:02:14,070 --> 00:02:15,770
 Çocuk oyuncağı ya!
 
-11
+13
 00:02:16,270 --> 00:02:16,990
 Peki...
 
-12
+14
 00:02:16,990 --> 00:02:19,960
 kaikoku nedir?
 
-13
+15
+00:02:16,990 --> 00:02:19,950
+"Kurozumi Orochi"
+
+16
 00:02:19,960 --> 00:02:20,480
 Ben!
 
-14
+17
 00:02:20,480 --> 00:02:21,090
 Ben!
 
-15
+18
 00:02:21,090 --> 00:02:22,910
 Öğretmenim!
 
-16
+19
 00:02:21,090 --> 00:02:22,910
 Ben, ben!
 
-17
+20
 00:02:22,910 --> 00:02:24,160
 Söyle yavrum.
 
-18
+21
 00:02:24,160 --> 00:02:25,230
 Tamam!
 
-19
+22
 00:02:25,230 --> 00:02:30,290
 Kötü insanları ve fikirleri ülkeye
 sokacak çok yanlış bir harekettir!
 
-20
+23
 00:02:31,910 --> 00:02:36,380
 Diğer ülkelerin Wano'daki birçok şeyde gözü var.
 
-21
+24
 00:02:36,380 --> 00:02:39,050
 Aynen öyle, doğru!
 
-22
+25
 00:02:40,130 --> 00:02:41,800
 Uzun zaman evvel...
 
-23
+26
 00:02:42,890 --> 00:02:46,990
 bu kötülüğü yapmaya kalkışan
 dangalaklar da vardı.
 
-24
+27
+00:02:46,140 --> 00:02:49,520
+Kozuki Oden
+
+28
 00:02:49,520 --> 00:02:53,440
 – Oden ile Dokuz Kızıl Kın!
 – Oden ile Dokuz Kızıl Kın!
 
-25
+29
 00:02:53,440 --> 00:02:57,370
 Durun bakalım, cevabını istemedim ki!
 
-26
+30
 00:02:59,400 --> 00:03:02,770
 – Aha, boynu yine uzuyor!
 – Aha, boynu yine uzuyor!
 
-27
+31
 00:03:02,770 --> 00:03:05,780
 Kafanıza göre konuştunuz! Çok ayıp!
 
-28
+32
 00:03:05,780 --> 00:03:08,080
 Neden cevap veremiyoruz ki?
 
-29
+33
 00:03:08,080 --> 00:03:11,620
 Dokuz Kızıl Kın...
 
-30
+34
 00:03:11,620 --> 00:03:15,520
 duymak dahi istemediğim
 bir isim de ondan.
 
-31
+35
 00:03:16,650 --> 00:03:20,460
 Ama üzerinden 20 yıl geçti artık.
 
-32
+36
 00:03:24,090 --> 00:03:29,930
 Bir de kötü samurayların hakkından
 gelen kahramanımız vardı tabii.
 
-33
+37
 00:03:31,310 --> 00:03:34,610
 – Şogun, Kurozumi Orochi-sama!
 – Şogun, Kurozumi Orochi-sama!
 
-34
+38
 00:03:34,610 --> 00:03:36,280
 Doğru!
 
-35
+39
 00:03:36,280 --> 00:03:38,180
 Orochi İki Kılıç Stili!
 
-36
+40
 00:03:38,180 --> 00:03:42,320
 Dokuz Kızıl Kın, kaçacak delik arayın!
 Canınıza okuyacağım!
 
-37
+41
 00:03:45,930 --> 00:03:48,760
 Çocuklara ne öğretiyorlar böyle?
 
-38
+42
 00:03:48,760 --> 00:03:51,830
 Külliyen yalan!
 
-39
+43
 00:03:51,830 --> 00:03:56,670
 Şogun Orochi, Wano'yu
 kötülerin elinden kurtardı!
 
-40
+44
 00:03:56,670 --> 00:03:58,280
 Kesinlikle.
 
-41
+45
 00:03:58,890 --> 00:04:00,050
 20 yıl evvel...
 
-42
+46
 00:04:01,220 --> 00:04:03,930
 kötülerin hepsi geberdi gitti.
 
-43
+47
 00:04:03,930 --> 00:04:07,010
 Böylece Wano da...
 
-44
+48
 00:04:07,010 --> 00:04:10,810
 şu anki huzuruna kavuştu!
 
-45
+49
 00:04:15,780 --> 00:04:19,070
 Şogun Orochi ödleğin önde gideni!
 
-46
+50
 00:04:19,070 --> 00:04:23,050
 K-K-Kyoshiro-dono! Neler diyorsunuz?
 
-47
+51
 00:04:23,050 --> 00:04:24,990
 Sesinizi alçaltın lütfen!
 
-48
+52
 00:04:25,450 --> 00:04:28,780
 Kes lan, andaval!
 
-49
+53
 00:04:31,410 --> 00:04:32,660
 Tırsma lan!
 
-50
+54
 00:04:32,660 --> 00:04:37,030
 Duyan duysun, gerçekleri söylüyoruz.
 
-51
+55
+00:04:36,960 --> 00:04:39,670
+Kurozumi Hanesi'nin Sarrafı
+
+56
+00:04:39,710 --> 00:04:43,130
+"Uykucu" Kyoshiro
+
+57
 00:04:52,890 --> 00:04:56,300
 Sake! Kadehim boş kalmasın!
 
-52
+58
 00:04:59,570 --> 00:05:02,400
 Orochi ile bir bağlantısı mı var?
 
-53
+59
 00:05:02,400 --> 00:05:04,110
 "Uykucu" Kyoshiro'dan...
 
-54
+60
 00:05:04,110 --> 00:05:07,950
 önemli bilgiler öğrenebilirim belki.
 
-55
+61
 00:05:09,670 --> 00:05:11,370
 20 yıl evvel...
 
-56
+62
 00:05:11,370 --> 00:05:13,880
 alevler içindeki Oden Kalesi'nin önünde...
 
-57
+63
 00:05:13,880 --> 00:05:17,710
 Oden'in hanımı son nefesini
 vermeden evvel şunları söyledi:
 
-58
+64
 00:05:29,220 --> 00:05:32,640
 "Ey şafaktan bihaber olan Ay!
 
-59
+65
 00:05:32,640 --> 00:05:36,230
 Dileğin kabul olsun...
 
-60
+66
 00:05:36,230 --> 00:05:41,980
 ve yirmi yılı dokuyan o geceye
 dokuz gölge düşsün...
 
-61
+67
 00:05:41,980 --> 00:05:45,880
 İşte o vakit, şafağın ihtişamına şahit olacaksın!"
 
-62
+68
 00:05:54,250 --> 00:05:59,630
 Hatunun can havliyle zırvaladıklarını
 Orochi-sama'mız gitti de şöyle yorumladı!
 
-63
+69
 00:06:09,720 --> 00:06:11,470
 Nasıl yorumladı?
 
-64
+70
 00:06:12,760 --> 00:06:16,180
 Orochi-sama...
 
-65
+71
 00:06:16,180 --> 00:06:17,920
 Evet!
 
-66
+72
 00:06:27,130 --> 00:06:29,230
 Nasıl yorumladı be?
 
-67
+73
 00:06:30,470 --> 00:06:33,200
 Sahi, şöyle anlamış bak.
 
-68
+74
 00:06:35,490 --> 00:06:38,120
 "Üzerine lanet yağsın!"
 
-69
+75
 00:06:38,120 --> 00:06:39,670
 Hayalet misali mi?
 
-70
+76
 00:06:39,670 --> 00:06:44,590
 "İntikamlarını almak için
 dokuz samurayın hayaleti...
 
-71
+77
 00:06:46,300 --> 00:06:50,060
 yirmi yıl sonra mehtaplı bir gecede belirecek ve...
 
-72
+78
 00:06:50,060 --> 00:06:51,220
 canını alacak."
 
-73
+79
 00:06:51,220 --> 00:06:54,100
 Orochi-sama'yı kastederek....
 
-74
+80
 00:06:55,220 --> 00:06:58,480
 "Wano'nun kapılarını dünyaya açacaklar!"
 demiş güya!
 
-75
+81
 00:06:59,440 --> 00:07:03,030
 Bu sene de yirminci yıla girdik!
 
-76
+82
 00:07:05,650 --> 00:07:09,490
 Bu yüzden şogun Orochi fena tırsıyor!
 
-77
+83
 00:07:09,490 --> 00:07:15,630
 Kozuki Hanesi'nin hayaletlerinin
 onu öldürmeye geleceğini sanıyor!
 
-78
+84
 00:07:18,040 --> 00:07:20,660
 Onlarla kapışmak isterim!
 
-79
+85
 00:07:25,420 --> 00:07:27,460
 Fakat cesetler ne halt yiyebilir ki?
 
-80
+86
 00:07:31,890 --> 00:07:34,970
 Kozuki Hanesi samuraylarını...
 
-81
+87
 00:07:34,970 --> 00:07:39,730
 20 yıl evvel kalede köşeye kıstırarak...
 
-82
+88
 00:07:42,020 --> 00:07:46,110
 canlı canlı yaktık!
 
-83
+89
 00:07:56,780 --> 00:08:00,770
 Zamanında burada Oden Kalesi vardı.
 
-84
+90
 00:08:01,080 --> 00:08:03,600
 Esasen atfedilmiş bir isimden ibarettir.
 
-85
+91
 00:08:03,600 --> 00:08:06,350
 Asıl ismi Kuri Kalesi idi!
 
-86
+92
 00:08:06,350 --> 00:08:11,220
 Kuri halkı Oden-sama'yı öyle severdi ki
 kaleye böyle hitap etmeye başladı.
 
-87
+93
 00:08:11,220 --> 00:08:12,630
 Momo'nun babası mı oluyor?
 
-88
+94
 00:08:12,630 --> 00:08:14,260
 Aynen öyle!
 
-89
+95
 00:08:14,780 --> 00:08:19,170
 Efendimiz Oden-sama, gözü pek biriydi.
 
-90
+96
 00:08:19,980 --> 00:08:26,620
 Zamanın Wano şogunu
 Kozuki Sukiyaki-sama'nın oğlu olsa da...
 
-91
+97
 00:08:26,620 --> 00:08:30,430
 özgür ruhlu, asabi bir karakterdi.
 
-92
+98
 00:08:38,870 --> 00:08:40,990
 Defalarca mevzu çıkardığı için...
 
-93
+99
 00:08:40,990 --> 00:08:45,710
 nihayetinde Çiçek Başkenti'nden sürüldü.
 
-94
+100
 00:08:45,710 --> 00:08:46,600
 – Ne?
 – Ne?
 
-95
+101
 00:08:46,600 --> 00:08:47,580
 Sürüldü mü?
 
-96
+102
 00:08:48,450 --> 00:08:51,170
 Zira kanı kaynayan Oden-sama için...
 
-97
+103
 00:08:51,170 --> 00:08:55,230
 Çiçek Başkenti heyecandan yoksun,
 küçücük bir yerdi.
 
-98
+104
 00:09:02,650 --> 00:09:03,770
 Seni lanet..
 
-99
+105
 00:09:03,770 --> 00:09:04,810
 Geber lan!
 
-100
+106
 00:09:07,770 --> 00:09:12,600
 O zamanlar Wano'da "kanunsuz bölge"
 olarak adlandırılan bir yer vardı.
 
-101
+107
 00:09:14,440 --> 00:09:20,280
 Memleketlerinden sürülen azılı suçlularla roninlerin kurduğu çeteler fink atıyordu.
 
-102
+108
 00:09:20,280 --> 00:09:24,410
 Birbirlerini yağmalayıp kılıçtan geçiriyorlardı.
 Her yer kan revan içindeydi.
 
-103
+109
 00:09:24,410 --> 00:09:28,580
 Yer o kadar tekin değildi ki,
 şogun bile burayı gözden çıkarmıştı.
 
-104
+110
 00:09:28,580 --> 00:09:30,880
 Kuri öyle bir yerdi işte.
 
-105
+111
 00:09:33,920 --> 00:09:36,090
 Sevdim bu işi!
 
-106
+112
 00:09:38,050 --> 00:09:43,180
 Delikanlı Oden-sama gide gide
 menfur Kuri'ye ayak bastı!
 
-107
+113
 00:09:43,180 --> 00:09:49,520
 Sonunda da it sürülerinin başındaki
 Kuri'nin en tehlikeli adamı karşısına çıktı.
 
-108
+114
 00:09:55,740 --> 00:09:58,860
 Ashura Doji adındaki bu kişiyle
 anında kavgaya tutuştular!
 
-109
+115
 00:10:42,310 --> 00:10:45,160
 Etkileyici biçimde
 Ashura Doji'nin hakkından gelmişti.
 
-110
+116
 00:10:46,220 --> 00:10:47,160
 Dahası ise...
 
-111
+117
 00:10:48,410 --> 00:10:52,210
 o zorbaların yeni lideri olmuştu.
 
-112
+118
 00:10:56,550 --> 00:10:58,780
 Helal olsun be.
 
-113
+119
 00:10:58,780 --> 00:11:00,630
 Kuri'yi kurtarmış!
 
-114
+120
 00:11:00,630 --> 00:11:05,010
 Oden-sama bununla kalmayıp
 kasabayı kökten değiştirdi!
 
-115
+121
 00:11:07,650 --> 00:11:12,010
 İlk iş olarak
 zorbalara iş tutmayı öğretti.
 
-116
+122
 00:11:14,760 --> 00:11:18,570
 Kasabayı kalkındırıp bir kale inşa ederek...
 
-117
+123
 00:11:19,130 --> 00:11:22,830
 halkın her kesimi için
 Cennet Tarlası'nı hayata geçirdi.
 
-118
+124
 00:11:26,470 --> 00:11:31,080
 Kuri artık özgür ve gülen yüzlerle dolu
 cıvıl cıvıl bir bölge olmuşken...
 
-119
+125
 00:11:32,180 --> 00:11:36,130
 Oden-sama da
 şogun Sukiyaki-sama tarafından...
 
-120
+126
 00:11:36,130 --> 00:11:39,590
 Kuri daimyosu konumuna layık görüldü.
 
-121
+127
 00:11:40,670 --> 00:11:46,030
 Oden-sama daha 20 yaşındayken
 bunları başarmıştı işte.
 
-122
+128
 00:11:49,600 --> 00:11:51,890
 Nehirler ve...
 
-123
+129
 00:11:51,890 --> 00:11:53,480
 rıhtımlar inşa etti.
 
-124
+130
 00:11:53,480 --> 00:11:55,360
 Bölgeler ve insanlar...
 
-125
+131
 00:11:55,360 --> 00:11:57,370
 arasında köprü kurmuştu.
 
-126
+132
 00:12:00,860 --> 00:12:02,390
 Ardından ben...
 
-127
+133
 00:12:04,700 --> 00:12:06,620
 Evet ya, ayrıca...
 
-128
+134
 00:12:11,490 --> 00:12:14,260
 Kuri halkının yere göğe
 sığdıramadığı bir daimyo idi.
 
-129
+135
 00:12:14,960 --> 00:12:18,960
 Gelgelelim Oden-sama
 özgürlüğüne düşkündü.
 
-130
+136
 00:12:19,780 --> 00:12:23,840
 Bu çapta bir tebaaya sahip olmak
 hiç tarzı değildi.
 
-131
+137
 00:12:28,760 --> 00:12:31,480
 Ağzından düşürmediği laf ise...
 
-132
+138
 00:12:44,730 --> 00:12:49,370
 Burası çok dar!
 
-133
+139
 00:12:59,850 --> 00:13:04,060
 Wano, Oden-sama'ya çok küçük geliyordu.
 
-134
-00:13:07,510 --> 00:13:09,610
-Hey gidi günler...
-
-135
-00:13:11,200 --> 00:13:14,000
-Tam da bu sahilde oldu!
-
-136
-00:13:14,000 --> 00:13:18,770
-Kıyıya vurduktan sonra bize
-"konuşan köpekle kedi" olarak...
-
-137
-00:13:19,310 --> 00:13:22,650
-hitap eden insanların ödü patlamıştı.
-
-138
-00:13:23,490 --> 00:13:25,830
-Fakat Oden-sama öyle yapmadı!
-
-139
-00:13:28,600 --> 00:13:31,330
-Size ne zararları oldu ki?
-
 140
-00:13:31,330 --> 00:13:35,060
-Kendinizden farklı olanlardan tırsmanız cahilliğinizi gösteriyor!
-
-141
-00:13:40,360 --> 00:13:42,920
-O bizim kurtarıcımızdı!
-
-142
-00:13:44,380 --> 00:13:47,050
-Beyazsakal'ı etkilemeyi başarıp...
-
-143
-00:13:47,050 --> 00:13:51,220
-Roger'ın saygısını kazanan Wano samurayı!
-
-144
-00:13:52,820 --> 00:13:55,330
-Tam bir kahramandı!
-
-145
-00:13:55,330 --> 00:13:58,230
-Efendimizdi!
-
-146
-00:14:22,820 --> 00:14:25,380
-Tüm halkın sevip saydığı Oden-sama...
-
-147
-00:14:35,420 --> 00:14:37,640
-Anlatsana! Oden'e ne oldu?
-
-148
-00:14:39,870 --> 00:14:45,610
-Çiçek Başkenti'nde bir suçlu olarak can verdi!
-
-149
-00:14:48,150 --> 00:14:49,700
-Ne?
-
-150
-00:14:52,820 --> 00:14:55,040
-Dalga mı geçiyorsun?!
-
-151
-00:14:55,040 --> 00:14:57,580
-Alçağın tekiymişsin lan Orochi!
-
-152
-00:14:58,790 --> 00:15:00,830
-İnanmıyorum ya!
-
-153
-00:15:02,330 --> 00:15:03,630
-Çok üzücü!
-
-154
-00:15:03,630 --> 00:15:07,030
-Oden-sama'nın korkunç ölümü...
-
-155
-00:15:07,650 --> 00:15:10,570
-20 yıl evvel yaşanmasına rağmen....
-
-156
-00:15:11,050 --> 00:15:13,810
-bize göre...
-
-157
-00:15:13,810 --> 00:15:16,610
-yalnızca birkaç ay önce yaşandı..!
-
-158
-00:15:17,670 --> 00:15:21,680
-Kozuki Oden adındaki cesur samurayın...
-
-159
-00:15:22,820 --> 00:15:24,610
-son anları...
-
-160
-00:15:24,980 --> 00:15:29,820
-hâlâ gözümün önüne geliyor!
-
-161
-00:15:33,910 --> 00:15:36,530
-Büyük adammış!
-
-162
-00:15:40,090 --> 00:15:44,090
-Öyle bir durumdan iyi sağ çıkmışsınız ha.
-
-163
-00:15:44,090 --> 00:15:45,390
-Evet.
-
-164
-00:15:45,390 --> 00:15:48,280
-Hiçbir müttefikimiz kalmadığından...
-
-165
-00:15:48,280 --> 00:15:52,470
-sonrasında arkamıza bakmadan kaçtık!
-
-166
-00:15:53,730 --> 00:15:55,720
-İnfaz alanından çıkıp...
-
-167
-00:15:55,720 --> 00:15:58,640
-doğruca Oden Kalesi'ne baş koyduk!
-
-168
-00:16:03,230 --> 00:16:07,020
-Yol üstünde Nekomamushi ile Inuarashi
-laf dalaşına girince...
-
-169
-00:16:07,020 --> 00:16:11,320
-Orochi'nin adamlarına yakalandılar,
-biz de onları ölüme terk ettik!
-
-170
-00:16:12,200 --> 00:16:14,780
-Hangimiz ölürse ölsün...
-
-171
-00:16:14,780 --> 00:16:17,740
-mutlaka birinin Oden Kalesi'ne 
-varması gerekiyordu!
-
-172
-00:16:18,450 --> 00:16:22,410
-Kozuki Hanesi'nin sonunu getirmek isteyen
-Orochi'nin hedefinde...
-
-173
-00:16:24,220 --> 00:16:27,660
-kalede olan Momonosuke-sama vardı!
-
-174
-00:16:36,310 --> 00:16:38,430
-K-Kale..!
-
-175
-00:16:39,420 --> 00:16:45,210
-Lakin Kaido çoktan harekete geçtiğinden kale alevler içindeydi.
-
-176
-00:16:48,480 --> 00:16:51,740
-Lan! Soysuzlar!
-
-177
-00:16:51,740 --> 00:16:54,150
-Bunu ödeyeceksiniz!
-
-178
-00:16:55,070 --> 00:16:57,240
-Yakalayın şunları!
-
-179
-00:17:06,960 --> 00:17:09,130
-Çiçek Shurikeni!
-
-180
-00:17:14,250 --> 00:17:18,760
-Momonosuke-sama ve
-küçük kardeşi Hiyori-sama'yla...
-
-181
-00:17:18,760 --> 00:17:23,350
-anneleri Kozuki Toki-sama kalede kalmıştı.
-
-182
-00:17:24,200 --> 00:17:25,680
-Anne...
-
-183
-00:17:30,760 --> 00:17:33,440
-Momonosuke-sama! Hiyori-sama!
-
-184
-00:17:33,440 --> 00:17:34,990
-Toki-sama!
-
-185
-00:17:37,530 --> 00:17:39,820
-Çabuk! Acele edin!
-
-186
-00:17:50,220 --> 00:17:52,500
-Momonosuke-sama!
-
-187
-00:17:52,500 --> 00:17:54,710
-Şükürler olsun ki iyisiniz!
-
-188
-00:17:55,330 --> 00:17:57,770
-Hiyori-sama! Toki-sama!
-
-189
-00:18:03,470 --> 00:18:05,710
-Özürlerimi sunarım!
-
-190
-00:18:05,710 --> 00:18:09,600
-Yanında olmamıza rağmen Oden-sama'yı...
-
-191
-00:18:09,600 --> 00:18:12,860
-Sizin hiçbir suçunuz yok.
-
-192
-00:18:12,860 --> 00:18:13,800
-Fakat...
-
-193
-00:18:13,800 --> 00:18:15,660
-Başınızı kaldırın.
-
-194
-00:18:16,580 --> 00:18:19,820
-Toki-sama, kale dayanmayacak!
-Dışarı çıkalım!
-
-195
-00:18:21,250 --> 00:18:23,160
-Ben kalıyorum.
-
-196
-00:18:24,490 --> 00:18:25,690
-Yapamazsınız!
-
-197
-00:18:25,690 --> 00:18:28,480
-Birlikte çıkalım!
-
-198
-00:18:28,480 --> 00:18:29,720
-Toki-sama!
-
-199
-00:18:32,780 --> 00:18:36,460
-Öyleyse burada kalarak
-sizinle aynı kaderi paylaşacağız!
-
-200
-00:18:37,270 --> 00:18:39,970
-Gidin lütfen... geleceğe.
-
-201
-00:18:40,930 --> 00:18:42,260
-Geleceğe mi?
-
-202
-00:18:42,260 --> 00:18:46,090
-Geçmişe dönemesek de...
-
-203
-00:18:46,090 --> 00:18:48,230
-geleceğe gidebiliriz.
-
-204
-00:18:51,180 --> 00:18:54,670
-Tuhaf Zaman-Zaman Meyvesi'nin gücüyle...
-
-205
-00:18:54,670 --> 00:18:58,270
-gelecekte gitgide ileri giderek...
-
-206
-00:18:58,270 --> 00:19:03,740
-nihayet yolculuğumun son durağına vardım.
-
-207
-00:19:03,740 --> 00:19:06,860
-İnanması güç olsa da...
-
-208
-00:19:06,860 --> 00:19:11,790
-Toki-sama'nın çok eski zamanlarda
-dünyaya geldiği söylentileri vardı.
-
-209
-00:19:13,760 --> 00:19:15,010
-Sebebi de...
-
-210
-00:19:15,800 --> 00:19:17,960
-Oden-sama ile karşılaşmış olmanız.
-
-211
-00:19:17,960 --> 00:19:21,890
-Evet, bu sebeple kalıyorum.
-
-212
-00:19:28,020 --> 00:19:29,520
-Bu kadar kararlıyken...
-
-213
-00:19:30,490 --> 00:19:32,700
-sizi kim caydırabilir ki?!
-
-214
-00:19:43,380 --> 00:19:47,290
-Gerçekten de geleceğe gidecek olursak...
-
-215
-00:19:49,330 --> 00:19:54,170
-mutlaka Oden-sama'nın hayalini
-gerçekleştirerek...
-
-216
-00:19:54,170 --> 00:19:57,920
-Orochi ile Kaido'yu alt edeceğiz!
-
-217
-00:20:03,000 --> 00:20:05,460
-Ant içeriz ki...
-
-218
-00:20:05,460 --> 00:20:07,850
-ülkemizin kapılarını açacağız!
-
-219
-00:20:11,180 --> 00:20:14,650
-Momonosuke size emanet.
-
-220
-00:20:16,070 --> 00:20:17,190
-Anne?
-
-221
-00:20:20,870 --> 00:20:25,160
-Gitmek istemiyorum!
-Seninle kalacağım anne!
-
-222
-00:20:25,160 --> 00:20:28,580
-Anne, lütfen bırakma beni!
-
-223
-00:20:28,580 --> 00:20:33,790
-Anne! Anne!
-
-224
-00:20:50,760 --> 00:20:52,790
-Ah...
-
-225
-00:20:57,900 --> 00:21:00,350
-Ha?! Burası...?!
-
-226
-00:21:04,900 --> 00:21:08,460
-Hayal mi görüyorum? Neredeyiz?
-
-227
-00:21:08,460 --> 00:21:10,900
-Kale nereye kayboldu? Peki yangın?
-
-228
-00:21:10,900 --> 00:21:13,830
-Toki-sama! Hiyori-sama!
-
-229
-00:21:16,650 --> 00:21:21,260
-Neredesin anne?
-
-230
-00:21:21,930 --> 00:21:24,470
-Bekleyin, Momonosuke-sama!
-
-231
-00:21:24,470 --> 00:21:26,840
-Anne!
-
-232
-00:21:29,930 --> 00:21:31,590
-Kin'emon!
-
-233
-00:21:39,560 --> 00:21:42,610
-Kendi mezarlarımız mı?
-
-234
-00:21:42,610 --> 00:21:45,100
-Hem de epey eskiler!
-
-235
-00:21:45,710 --> 00:21:49,570
-Toki-sama'nın gücü gerçekmiş!
-
-236
-00:21:56,490 --> 00:21:59,350
-Bu... Kuri'deki bir kasaba mı?
-
-237
-00:22:02,490 --> 00:22:05,950
-Wano'nun geleceği böyle miymiş?
-
-238
-00:22:09,110 --> 00:22:12,210
-Geçmişten gelen bizler...
-
-239
-00:22:12,800 --> 00:22:17,500
-20 yıl sonraki dünyaya
-tamamen yabancıydık.
-
-240
-00:22:18,070 --> 00:22:19,940
-Orochiler'in elinde...
-
-241
-00:22:19,940 --> 00:22:24,180
-murdar edilen
-ülkemizin durumunu görmek için...
-
-242
-00:22:24,180 --> 00:22:25,860
-dolaştık durduk.
-
-243
-00:22:26,730 --> 00:22:28,850
-Sıra sıra fabrikalarla,
-
-244
-00:22:28,850 --> 00:22:31,780
-kara duman üfleyen bir sürü bacayla...
-
-245
-00:22:31,780 --> 00:22:36,620
-suyun kirletildiğini,
-gıdanın tekelleştiğini gördük.
-
-246
-00:22:37,250 --> 00:22:40,480
-Daimyolar'la bölgeler yok edilmiş!
-
-247
-00:22:40,480 --> 00:22:42,090
-Topraklar çoraklaşmış!
-
-248
-00:22:42,090 --> 00:22:46,880
-İftiraları yüzünden
-Kozuki adından tiksinir olunmuş.
-
-249
-00:22:47,800 --> 00:22:52,030
-Artık tanıdığımız...
-
-250
-00:22:52,710 --> 00:22:55,260
-Wano'dan eser kalmamış!
-
-251
-00:22:59,910 --> 00:23:03,690
-Bizlerle omuz omuza çarpışacak
-kimse kalmamıştır diyordum.
-
-252
-00:23:18,330 --> 00:23:19,370
-İnanılmaz...
-
-253
-00:23:22,330 --> 00:23:26,270
-Siz Kozuki Momonosuke-sama'sınız...
-
-254
-00:23:26,270 --> 00:23:28,840
-değil mi?
-
-255
-00:23:33,470 --> 00:23:37,270
-Tıpkı 20 yıl öncesi gibi görünüyorsunuz.
-
-256
-00:23:37,960 --> 00:23:42,460
-Toki-sama'nın son sözleri doğruymuş!
-
-257
-00:23:47,820 --> 00:23:53,950
-Vaktiyle Kibi'nin hizmetkârıydım.
-Adım Jibuemon.
-
-258
-00:23:53,950 --> 00:23:56,010
-20 yıldır...
-
-259
-00:23:56,850 --> 00:24:00,260
-sizi bekliyordum.
-
-260
-00:24:00,260 --> 00:24:04,680
-Anneniz Toki-sama'nın
-dediklerine inandım...
-
-261
-00:24:05,290 --> 00:24:07,120
-ve bu günü bekledim.
-
-262
-00:24:10,550 --> 00:24:14,810
-Annemin son sözlerini...
-
-263
-00:24:15,360 --> 00:24:16,790
-söyle bana!
-
-264
-00:24:16,790 --> 00:24:18,110
-Peki, efendim!
-
-265
-00:24:18,110 --> 00:24:19,860
-Söyleyeceğim.
-
-266
-00:24:22,330 --> 00:24:26,060
-"Ey şafaktan bihaber olan Ay!
-
-267
-00:24:26,060 --> 00:24:29,360
-Dileğin kabul olsun...
-
-268
-00:24:29,360 --> 00:24:35,110
-ve yirmi yılı dokuyan o geceye
-dokuz gölge düşsün...
-
-269
-00:24:35,110 --> 00:24:38,740
-İşte o vakit, şafağın ihtişamına şahit olacaksın!"
-
-270
-00:24:39,800 --> 00:24:42,460
-Toki-sama'nın son sözleri, 20 yıl sonra...
-
-271
-00:24:42,460 --> 00:24:46,960
-Kozuki Hanesi'nin intikamını öne sürüyordu.
-
-272
-00:24:46,960 --> 00:24:50,550
-Bunun imkânsız olduğunu düşündük ama...
-
-273
-00:24:50,550 --> 00:24:58,080
-sanki olasılık varmış gibi,
-Dokuz Kızıl Kın'ın cesetlerinin hiçbiri...
-
-274
-00:24:58,080 --> 00:25:00,920
-bulunamadı.
-
-275
-00:25:04,440 --> 00:25:06,730
-Anne...
-
-276
-00:25:06,730 --> 00:25:14,050
-Uzak bir şans da olsa
-20 yıl sonra ortaya çıkıp...
-
-277
-00:25:14,050 --> 00:25:18,160
-Orochi'yi indirip 
-hakimiyetimizi alacaksınız diye...
-
-278
-00:25:18,160 --> 00:25:22,080
-savaşmaya kararlı olanlar...
-
-279
-00:25:22,080 --> 00:25:24,870
-yanınızda savaşmak isteyenler olarak...
-
-280
-00:25:24,870 --> 00:25:29,130
-nerede oldukları veya
-ne yaptıkları önemsiz şekilde...
-
-281
-00:25:32,380 --> 00:25:36,680
-ayak bileklerinde
-bir ay işaretiyle bekliyorlar!
-
-282
-00:25:43,850 --> 00:25:45,920
-N... Ne?!
-
-283
-00:25:46,600 --> 00:25:49,810
-20 yıl sonra bile
-hâlâ müttefiklerimiz mi var?
-
-284
-00:25:49,810 --> 00:25:52,570
-Kaç kişi var?
-
-285
-00:25:52,570 --> 00:25:55,250
-Tam olarak bilmiyoruz.
-
-286
-00:25:55,250 --> 00:26:01,160
-Ancak Wano'nun dört bir yanında bu anı bekleyenler var!
-
-287
-00:26:02,780 --> 00:26:04,250
-Kaido'yu indirmek için...
-
-288
-00:26:04,860 --> 00:26:09,080
-mümkün olduğu kadar
-çok müttefikimiz olmalı.
-
-289
-00:26:09,600 --> 00:26:14,300
-Wano'da aynı görüşteki insanları toplar mısın?
-
-290
-00:26:14,850 --> 00:26:19,760
-Ama bunu sinsice yapmalısın.
-
-291
-00:26:19,760 --> 00:26:21,270
-Başüstüne!
-
-292
-00:26:21,270 --> 00:26:23,390
-Tüm çabamızı buna adayacağız!
-
-293
-00:26:23,850 --> 00:26:29,790
-Wano için bir gelecek olabileceğini düşünerek umutlarımızı canlı tutabildik.
-
-294
-00:26:29,790 --> 00:26:33,190
-Kiku'dan düşmanları araştırmasını istedik,
-
-295
-00:26:33,890 --> 00:26:38,820
-ben, Kanjuro, Raizo ve 
-Momonosuke-sama dördümüz...
-
-296
-00:26:38,820 --> 00:26:42,750
-müttefik toplamak için yola çıktık.
-
-297
-00:26:43,280 --> 00:26:46,500
-Bu ülkeyi terk etmek bile bir suçtur.
-
-298
-00:26:46,500 --> 00:26:51,460
-Bizi görür görmez kovaladılar.
-
-299
-00:26:51,460 --> 00:26:55,170
-Bunun üzerine, nasıl yelken
-açacağımızı bilmediğimizden...
-
-300
-00:26:55,170 --> 00:27:00,230
-Zou'ya ulaşmaya çalıştık ama kısa sürede kaza yaptık!
-
-301
-00:27:00,230 --> 00:27:03,950
-Gemi mahvolmuştu ve
-Raizo'dan ayrı düşmüştük!
-
-302
-00:27:03,950 --> 00:27:07,220
-Zou'da görüşürüz!
-
-303
-00:27:07,220 --> 00:27:09,610
-Raizo...!
-
-304
-00:27:09,610 --> 00:27:11,560
-Raizo...!
-
-305
-00:27:11,560 --> 00:27:15,800
-Ölümümüze ramak kala
-Dressrosa'daki karaya vurduk ama...
-
-306
-00:27:15,800 --> 00:27:19,570
-Kaido'ya bağlı Doflamingo
-peşimize düştü ve...
-
-307
-00:27:19,570 --> 00:27:24,790
-yanlışlıkla bilinmeyen bir gemiye binen Momonosuke-sama'dan ayrılmıştık.
-
-308
-00:27:27,910 --> 00:27:31,040
-Momonosuke-sama!
-
-309
-00:27:31,560 --> 00:27:37,490
-Ve Momonosuke-sama'yı takip ederken
-ben de Kanjuro'dan ayrıldım!
-
-310
-00:27:37,490 --> 00:27:40,170
-Beni merak etme!
-
-311
-00:27:40,170 --> 00:27:43,100
-Kanjuro...!
-
-312
-00:27:43,100 --> 00:27:45,350
-Kanjuro...!
-
-313
-00:27:46,330 --> 00:27:52,060
-Böylece, Wano'dan ayrıldıktan sonra dağıldık.
-
-314
-00:27:56,580 --> 00:28:01,690
-Düşmüş olduğum Punk Hazard'ta bile
-Momonosuke-sama'yı ararken...
-
-315
-00:28:01,690 --> 00:28:04,870
-Kaido'nun kuklası olan Caesar
-yoluma çıkmıştı.
-
-316
-00:28:04,870 --> 00:28:09,290
-Ayrıca, şu anda müttefikim olan
-Law-dono tarafından da doğranmıştım.
-
-317
-00:28:15,050 --> 00:28:16,960
-Başım büyük dertteydi.
-
-318
-00:28:18,020 --> 00:28:20,720
-O sırada sizinle tanıştım!
-
-319
-00:28:28,670 --> 00:28:31,020
-Havalı!
-
-320
-00:28:31,020 --> 00:28:32,640
-Siz kimsiniz?
-
-321
-00:28:32,640 --> 00:28:35,190
-Az önce ejderha konuştu!
-
-322
-00:28:35,190 --> 00:28:38,730
-Çok edepsizce!
-Üstünde sadece göğüs bezi var!
-
-323
-00:28:38,730 --> 00:28:40,680
-He, hoşuna gitmedi mi?
-
-324
-00:28:41,190 --> 00:28:42,700
-Hayır, bayıldım!
-
-325
-00:28:42,700 --> 00:28:45,710
-Beni yiyemezsin!
-
-326
-00:28:45,710 --> 00:28:48,240
-Beni yemeye çalışırsan ben seni yerim!
-
-327
-00:28:48,240 --> 00:28:50,620
-Kendine gel!
-
-328
-00:28:55,120 --> 00:28:58,970
-Geçmişe bakınca kriz ardına kriz vardı ama...
-
-329
-00:28:59,650 --> 00:29:01,700
-iyi insanlarla tanıştım.
-
-330
-00:29:02,380 --> 00:29:07,700
-Hayatımı emanet edebileceğim güvenilir müttefikler bulabildim ve geri döndüm.
-
-331
-00:29:08,300 --> 00:29:12,140
-Orochi'nin adamları, adımızdan bahsetti ama...
-
-332
-00:29:12,140 --> 00:29:17,730
-buna inanmadıklarından şu an için rahatız!
-
-333
-00:29:17,730 --> 00:29:21,820
-Bizi sadece hayalet olarak düşünüyorlar.
-
-334
-00:29:21,820 --> 00:29:27,160
-Bu yüzden henüz arananlar
-listesine bile girmedik...
-
-335
-00:29:27,160 --> 00:29:31,550
-ve ülkeye yeniden girdiğimizi fark etmediler.
-
-336
-00:29:31,550 --> 00:29:34,910
-Aynı tarafta olmamıza rağmen
-ben bile bilmiyordum.
-
-337
-00:29:34,910 --> 00:29:37,630
-Bunun için üzgünüm!
-
-338
-00:29:37,630 --> 00:29:39,540
-Hey, yiyişmeyin!
-
-339
-00:29:42,980 --> 00:29:47,800
-Bu savaşta Kaidolar'dan varlığımızı...
-
-340
-00:29:48,800 --> 00:29:50,390
-saklamak çok önemli.
-
-341
-00:29:56,640 --> 00:29:59,270
-Tamam! Anladım!
-
-342
-00:29:59,270 --> 00:30:03,900
-Kaido ve Kurozumi Orochi'nin yönettiği
-dev ordulara karşıyız.
-
-343
-00:30:03,900 --> 00:30:07,610
-Diğer yandan, bizde...
-
-344
-00:30:07,610 --> 00:30:11,580
-Luffy-dono önderliğinde Hasır Şapkalar.
-
-345
-00:30:11,580 --> 00:30:15,540
-Law-dono önderliğinde Kalp Korsanları.
-
-346
-00:30:15,540 --> 00:30:21,130
-Minkler, Inuarashi silahşörleri ve Nekomamushi muhafızları.
-
-347
-00:30:21,130 --> 00:30:27,040
-Ve topladığımız isyancı düşünceleri olan samuraylar.
-
-348
-00:30:27,040 --> 00:30:31,600
-Beş bin kişiye sahip olmak yeterli!
-
-349
-00:30:31,600 --> 00:30:35,750
-Ama biz savaşın peşinde değiliz.
-
-350
-00:30:37,020 --> 00:30:42,440
-Düşmanlarımız ve Kaidolar hakkında
-gizlice bilgi toplayıp plan yaparak...
-
-351
-00:30:46,610 --> 00:30:49,030
-liderlerinin kellesini...
-
-352
-00:30:50,070 --> 00:30:51,450
-almak istiyoruz!
-
-353
-00:01:45,450 --> 00:01:49,750
-Çiçek Başkenti
-
-354
-00:02:16,990 --> 00:02:19,950
-"Kurozumi Orochi"
-
-355
-00:02:46,140 --> 00:02:49,520
-Kozuki Oden
-
-356
-00:04:36,960 --> 00:04:39,670
-Kurozumi Hanesi'nin Sarrafı
-
-357
-00:04:39,710 --> 00:04:43,130
-"Uykucu" Kyoshiro
-
-358
 00:13:06,050 --> 00:13:10,680
 Gündüz Dükü Inuarashi
 Mokomo Düklüğü
 
-359
+141
+00:13:07,510 --> 00:13:09,610
+Hey gidi günler...
+
+142
+00:13:11,200 --> 00:13:14,000
+Tam da bu sahilde oldu!
+
+143
+00:13:14,000 --> 00:13:18,770
+Kıyıya vurduktan sonra bize
+"konuşan köpekle kedi" olarak...
+
+144
+00:13:19,310 --> 00:13:22,650
+hitap eden insanların ödü patlamıştı.
+
+145
+00:13:23,490 --> 00:13:25,830
+Fakat Oden-sama öyle yapmadı!
+
+146
+00:13:28,600 --> 00:13:31,330
+Size ne zararları oldu ki?
+
+147
+00:13:31,330 --> 00:13:35,060
+Kendinizden farklı olanlardan tırsmanız cahilliğinizi gösteriyor!
+
+148
+00:13:40,360 --> 00:13:42,920
+O bizim kurtarıcımızdı!
+
+149
+00:13:44,380 --> 00:13:47,050
+Beyazsakal'ı etkilemeyi başarıp...
+
+150
+00:13:47,050 --> 00:13:51,220
+Roger'ın saygısını kazanan Wano samurayı!
+
+151
+00:13:52,820 --> 00:13:55,330
+Tam bir kahramandı!
+
+152
+00:13:55,330 --> 00:13:58,230
+Efendimizdi!
+
+153
 00:14:16,540 --> 00:14:25,380
 Kozuki Oden
+
+154
+00:14:22,820 --> 00:14:25,380
+Tüm halkın sevip saydığı Oden-sama...
+
+155
+00:14:35,420 --> 00:14:37,640
+Anlatsana! Oden'e ne oldu?
+
+156
+00:14:39,870 --> 00:14:45,610
+Çiçek Başkenti'nde bir suçlu olarak can verdi!
+
+157
+00:14:48,150 --> 00:14:49,700
+Ne?
+
+158
+00:14:52,820 --> 00:14:55,040
+Dalga mı geçiyorsun?!
+
+159
+00:14:55,040 --> 00:14:57,580
+Alçağın tekiymişsin lan Orochi!
+
+160
+00:14:58,790 --> 00:15:00,830
+İnanmıyorum ya!
+
+161
+00:15:02,330 --> 00:15:03,630
+Çok üzücü!
+
+162
+00:15:03,630 --> 00:15:07,030
+Oden-sama'nın korkunç ölümü...
+
+163
+00:15:07,650 --> 00:15:10,570
+20 yıl evvel yaşanmasına rağmen....
+
+164
+00:15:11,050 --> 00:15:13,810
+bize göre...
+
+165
+00:15:13,810 --> 00:15:16,610
+yalnızca birkaç ay önce yaşandı..!
+
+166
+00:15:17,670 --> 00:15:21,680
+Kozuki Oden adındaki cesur samurayın...
+
+167
+00:15:22,820 --> 00:15:24,610
+son anları...
+
+168
+00:15:24,980 --> 00:15:29,820
+hâlâ gözümün önüne geliyor!
+
+169
+00:15:33,910 --> 00:15:36,530
+Büyük adammış!
+
+170
+00:15:40,090 --> 00:15:44,090
+Öyle bir durumdan iyi sağ çıkmışsınız ha.
+
+171
+00:15:44,090 --> 00:15:45,390
+Evet.
+
+172
+00:15:45,390 --> 00:15:48,280
+Hiçbir müttefikimiz kalmadığından...
+
+173
+00:15:48,280 --> 00:15:52,470
+sonrasında arkamıza bakmadan kaçtık!
+
+174
+00:15:53,730 --> 00:15:55,720
+İnfaz alanından çıkıp...
+
+175
+00:15:55,720 --> 00:15:58,640
+doğruca Oden Kalesi'ne baş koyduk!
+
+176
+00:16:03,230 --> 00:16:07,020
+Yol üstünde Nekomamushi ile Inuarashi
+laf dalaşına girince...
+
+177
+00:16:07,020 --> 00:16:11,320
+Orochi'nin adamlarına yakalandılar,
+biz de onları ölüme terk ettik!
+
+178
+00:16:12,200 --> 00:16:14,780
+Hangimiz ölürse ölsün...
+
+179
+00:16:14,780 --> 00:16:17,740
+mutlaka birinin Oden Kalesi'ne 
+varması gerekiyordu!
+
+180
+00:16:18,450 --> 00:16:22,410
+Kozuki Hanesi'nin sonunu getirmek isteyen
+Orochi'nin hedefinde...
+
+181
+00:16:24,220 --> 00:16:27,660
+kalede olan Momonosuke-sama vardı!
+
+182
+00:16:36,310 --> 00:16:38,430
+K-Kale..!
+
+183
+00:16:39,420 --> 00:16:45,210
+Lakin Kaido çoktan harekete geçtiğinden kale alevler içindeydi.
+
+184
+00:16:48,480 --> 00:16:51,740
+Lan! Soysuzlar!
+
+185
+00:16:51,740 --> 00:16:54,150
+Bunu ödeyeceksiniz!
+
+186
+00:16:55,070 --> 00:16:57,240
+Yakalayın şunları!
+
+187
+00:17:06,960 --> 00:17:09,130
+Çiçek Shurikeni!
+
+188
+00:17:14,250 --> 00:17:18,760
+Momonosuke-sama ve
+küçük kardeşi Hiyori-sama'yla...
+
+189
+00:17:18,760 --> 00:17:23,350
+anneleri Kozuki Toki-sama kalede kalmıştı.
+
+190
+00:17:24,200 --> 00:17:25,680
+Anne...
+
+191
+00:17:30,760 --> 00:17:33,440
+Momonosuke-sama! Hiyori-sama!
+
+192
+00:17:33,440 --> 00:17:34,990
+Toki-sama!
+
+193
+00:17:37,530 --> 00:17:39,820
+Çabuk! Acele edin!
+
+194
+00:17:50,220 --> 00:17:52,500
+Momonosuke-sama!
+
+195
+00:17:52,500 --> 00:17:54,710
+Şükürler olsun ki iyisiniz!
+
+196
+00:17:55,330 --> 00:17:57,770
+Hiyori-sama! Toki-sama!
+
+197
+00:18:03,470 --> 00:18:05,710
+Özürlerimi sunarım!
+
+198
+00:18:05,710 --> 00:18:09,600
+Yanında olmamıza rağmen Oden-sama'yı...
+
+199
+00:18:09,600 --> 00:18:12,860
+Sizin hiçbir suçunuz yok.
+
+200
+00:18:12,860 --> 00:18:13,800
+Fakat...
+
+201
+00:18:13,800 --> 00:18:15,660
+Başınızı kaldırın.
+
+202
+00:18:16,580 --> 00:18:19,820
+Toki-sama, kale dayanmayacak!
+Dışarı çıkalım!
+
+203
+00:18:21,250 --> 00:18:23,160
+Ben kalıyorum.
+
+204
+00:18:24,490 --> 00:18:25,690
+Yapamazsınız!
+
+205
+00:18:25,690 --> 00:18:28,480
+Birlikte çıkalım!
+
+206
+00:18:28,480 --> 00:18:29,720
+Toki-sama!
+
+207
+00:18:32,780 --> 00:18:36,460
+Öyleyse burada kalarak
+sizinle aynı kaderi paylaşacağız!
+
+208
+00:18:37,270 --> 00:18:39,970
+Gidin lütfen... geleceğe.
+
+209
+00:18:40,930 --> 00:18:42,260
+Geleceğe mi?
+
+210
+00:18:42,260 --> 00:18:46,090
+Geçmişe dönemesek de...
+
+211
+00:18:46,090 --> 00:18:48,230
+geleceğe gidebiliriz.
+
+212
+00:18:51,180 --> 00:18:54,670
+Tuhaf Zaman-Zaman Meyvesi'nin gücüyle...
+
+213
+00:18:54,670 --> 00:18:58,270
+gelecekte gitgide ileri giderek...
+
+214
+00:18:58,270 --> 00:19:03,740
+nihayet yolculuğumun son durağına vardım.
+
+215
+00:19:03,740 --> 00:19:06,860
+İnanması güç olsa da...
+
+216
+00:19:06,860 --> 00:19:11,790
+Toki-sama'nın çok eski zamanlarda
+dünyaya geldiği söylentileri vardı.
+
+217
+00:19:13,760 --> 00:19:15,010
+Sebebi de...
+
+218
+00:19:15,800 --> 00:19:17,960
+Oden-sama ile karşılaşmış olmanız.
+
+219
+00:19:17,960 --> 00:19:21,890
+Evet, bu sebeple kalıyorum.
+
+220
+00:19:28,020 --> 00:19:29,520
+Bu kadar kararlıyken...
+
+221
+00:19:30,490 --> 00:19:32,700
+sizi kim caydırabilir ki?!
+
+222
+00:19:43,380 --> 00:19:47,290
+Gerçekten de geleceğe gidecek olursak...
+
+223
+00:19:49,330 --> 00:19:54,170
+mutlaka Oden-sama'nın hayalini
+gerçekleştirerek...
+
+224
+00:19:54,170 --> 00:19:57,920
+Orochi ile Kaido'yu alt edeceğiz!
+
+225
+00:20:03,000 --> 00:20:05,460
+Ant içeriz ki...
+
+226
+00:20:05,460 --> 00:20:07,850
+ülkemizin kapılarını açacağız!
+
+227
+00:20:11,180 --> 00:20:14,650
+Momonosuke size emanet.
+
+228
+00:20:16,070 --> 00:20:17,190
+Anne?
+
+229
+00:20:20,870 --> 00:20:25,160
+Gitmek istemiyorum!
+Seninle kalacağım anne!
+
+230
+00:20:25,160 --> 00:20:28,580
+Anne, lütfen bırakma beni!
+
+231
+00:20:28,580 --> 00:20:33,790
+Anne! Anne!
+
+232
+00:20:50,760 --> 00:20:52,790
+Ah...
+
+233
+00:20:57,900 --> 00:21:00,350
+Ha?! Burası...?!
+
+234
+00:21:04,900 --> 00:21:08,460
+Hayal mi görüyorum? Neredeyiz?
+
+235
+00:21:08,460 --> 00:21:10,900
+Kale nereye kayboldu? Peki yangın?
+
+236
+00:21:10,900 --> 00:21:13,830
+Toki-sama! Hiyori-sama!
+
+237
+00:21:16,650 --> 00:21:21,260
+Neredesin anne?
+
+238
+00:21:21,930 --> 00:21:24,470
+Bekleyin, Momonosuke-sama!
+
+239
+00:21:24,470 --> 00:21:26,840
+Anne!
+
+240
+00:21:29,930 --> 00:21:31,590
+Kin'emon!
+
+241
+00:21:39,560 --> 00:21:42,610
+Kendi mezarlarımız mı?
+
+242
+00:21:42,610 --> 00:21:45,100
+Hem de epey eskiler!
+
+243
+00:21:45,710 --> 00:21:49,570
+Toki-sama'nın gücü gerçekmiş!
+
+244
+00:21:56,490 --> 00:21:59,350
+Bu... Kuri'deki bir kasaba mı?
+
+245
+00:22:02,490 --> 00:22:05,950
+Wano'nun geleceği böyle miymiş?
+
+246
+00:22:09,110 --> 00:22:12,210
+Geçmişten gelen bizler...
+
+247
+00:22:12,800 --> 00:22:17,500
+20 yıl sonraki dünyaya
+tamamen yabancıydık.
+
+248
+00:22:18,070 --> 00:22:19,940
+Orochiler'in elinde...
+
+249
+00:22:19,940 --> 00:22:24,180
+murdar edilen
+ülkemizin durumunu görmek için...
+
+250
+00:22:24,180 --> 00:22:25,860
+dolaştık durduk.
+
+251
+00:22:26,730 --> 00:22:28,850
+Sıra sıra fabrikalarla,
+
+252
+00:22:28,850 --> 00:22:31,780
+kara duman üfleyen bir sürü bacayla...
+
+253
+00:22:31,780 --> 00:22:36,620
+suyun kirletildiğini,
+gıdanın tekelleştiğini gördük.
+
+254
+00:22:37,250 --> 00:22:40,480
+Daimyolar'la bölgeler yok edilmiş!
+
+255
+00:22:40,480 --> 00:22:42,090
+Topraklar çoraklaşmış!
+
+256
+00:22:42,090 --> 00:22:46,880
+İftiraları yüzünden
+Kozuki adından tiksinir olunmuş.
+
+257
+00:22:47,800 --> 00:22:52,030
+Artık tanıdığımız...
+
+258
+00:22:52,710 --> 00:22:55,260
+Wano'dan eser kalmamış!
+
+259
+00:22:59,910 --> 00:23:03,690
+Bizlerle omuz omuza çarpışacak
+kimse kalmamıştır diyordum.
+
+260
+00:23:18,330 --> 00:23:19,370
+İnanılmaz...
+
+261
+00:23:22,330 --> 00:23:26,270
+Siz Kozuki Momonosuke-sama'sınız...
+
+262
+00:23:26,270 --> 00:23:28,840
+değil mi?
+
+263
+00:23:33,470 --> 00:23:37,270
+Tıpkı 20 yıl öncesi gibi görünüyorsunuz.
+
+264
+00:23:37,960 --> 00:23:42,460
+Toki-sama'nın son sözleri doğruymuş!
+
+265
+00:23:47,820 --> 00:23:53,950
+Vaktiyle Kibi'nin hizmetkârıydım.
+Adım Jibuemon.
+
+266
+00:23:53,950 --> 00:23:56,010
+20 yıldır...
+
+267
+00:23:56,850 --> 00:24:00,260
+sizi bekliyordum.
+
+268
+00:24:00,260 --> 00:24:04,680
+Anneniz Toki-sama'nın
+dediklerine inandım...
+
+269
+00:24:05,290 --> 00:24:07,120
+ve bu günü bekledim.
+
+270
+00:24:10,550 --> 00:24:14,810
+Annemin son sözlerini...
+
+271
+00:24:15,360 --> 00:24:16,790
+söyle bana!
+
+272
+00:24:16,790 --> 00:24:18,110
+Peki, efendim!
+
+273
+00:24:18,110 --> 00:24:19,860
+Söyleyeceğim.
+
+274
+00:24:22,330 --> 00:24:26,060
+"Ey şafaktan bihaber olan Ay!
+
+275
+00:24:26,060 --> 00:24:29,360
+Dileğin kabul olsun...
+
+276
+00:24:29,360 --> 00:24:35,110
+ve yirmi yılı dokuyan o geceye
+dokuz gölge düşsün...
+
+277
+00:24:35,110 --> 00:24:38,740
+İşte o vakit, şafağın ihtişamına şahit olacaksın!"
+
+278
+00:24:39,800 --> 00:24:42,460
+Toki-sama'nın son sözleri, 20 yıl sonra...
+
+279
+00:24:42,460 --> 00:24:46,960
+Kozuki Hanesi'nin intikamını öne sürüyordu.
+
+280
+00:24:46,960 --> 00:24:50,550
+Bunun imkânsız olduğunu düşündük ama...
+
+281
+00:24:50,550 --> 00:24:58,080
+sanki olasılık varmış gibi,
+Dokuz Kızıl Kın'ın cesetlerinin hiçbiri...
+
+282
+00:24:58,080 --> 00:25:00,920
+bulunamadı.
+
+283
+00:25:04,440 --> 00:25:06,730
+Anne...
+
+284
+00:25:06,730 --> 00:25:14,050
+Uzak bir şans da olsa
+20 yıl sonra ortaya çıkıp...
+
+285
+00:25:14,050 --> 00:25:18,160
+Orochi'yi indirip 
+hakimiyetimizi alacaksınız diye...
+
+286
+00:25:18,160 --> 00:25:22,080
+savaşmaya kararlı olanlar...
+
+287
+00:25:22,080 --> 00:25:24,870
+yanınızda savaşmak isteyenler olarak...
+
+288
+00:25:24,870 --> 00:25:29,130
+nerede oldukları veya
+ne yaptıkları önemsiz şekilde...
+
+289
+00:25:32,380 --> 00:25:36,680
+ayak bileklerinde
+bir ay işaretiyle bekliyorlar!
+
+290
+00:25:43,850 --> 00:25:45,920
+N... Ne?!
+
+291
+00:25:46,600 --> 00:25:49,810
+20 yıl sonra bile
+hâlâ müttefiklerimiz mi var?
+
+292
+00:25:49,810 --> 00:25:52,570
+Kaç kişi var?
+
+293
+00:25:52,570 --> 00:25:55,250
+Tam olarak bilmiyoruz.
+
+294
+00:25:55,250 --> 00:26:01,160
+Ancak Wano'nun dört bir yanında bu anı bekleyenler var!
+
+295
+00:26:02,780 --> 00:26:04,250
+Kaido'yu indirmek için...
+
+296
+00:26:04,860 --> 00:26:09,080
+mümkün olduğu kadar
+çok müttefikimiz olmalı.
+
+297
+00:26:09,600 --> 00:26:14,300
+Wano'da aynı görüşteki insanları toplar mısın?
+
+298
+00:26:14,850 --> 00:26:19,760
+Ama bunu sinsice yapmalısın.
+
+299
+00:26:19,760 --> 00:26:21,270
+Başüstüne!
+
+300
+00:26:21,270 --> 00:26:23,390
+Tüm çabamızı buna adayacağız!
+
+301
+00:26:23,850 --> 00:26:29,790
+Wano için bir gelecek olabileceğini düşünerek umutlarımızı canlı tutabildik.
+
+302
+00:26:29,790 --> 00:26:33,190
+Kiku'dan düşmanları araştırmasını istedik,
+
+303
+00:26:33,890 --> 00:26:38,820
+ben, Kanjuro, Raizo ve 
+Momonosuke-sama dördümüz...
+
+304
+00:26:38,820 --> 00:26:42,750
+müttefik toplamak için yola çıktık.
+
+305
+00:26:43,280 --> 00:26:46,500
+Bu ülkeyi terk etmek bile bir suçtur.
+
+306
+00:26:46,500 --> 00:26:51,460
+Bizi görür görmez kovaladılar.
+
+307
+00:26:51,460 --> 00:26:55,170
+Bunun üzerine, nasıl yelken
+açacağımızı bilmediğimizden...
+
+308
+00:26:55,170 --> 00:27:00,230
+Zou'ya ulaşmaya çalıştık ama kısa sürede kaza yaptık!
+
+309
+00:27:00,230 --> 00:27:03,950
+Gemi mahvolmuştu ve
+Raizo'dan ayrı düşmüştük!
+
+310
+00:27:03,950 --> 00:27:07,220
+Zou'da görüşürüz!
+
+311
+00:27:07,220 --> 00:27:09,610
+Raizo...!
+
+312
+00:27:09,610 --> 00:27:11,560
+Raizo...!
+
+313
+00:27:11,560 --> 00:27:15,800
+Ölümümüze ramak kala
+Dressrosa'daki karaya vurduk ama...
+
+314
+00:27:15,800 --> 00:27:19,570
+Kaido'ya bağlı Doflamingo
+peşimize düştü ve...
+
+315
+00:27:19,570 --> 00:27:24,790
+yanlışlıkla bilinmeyen bir gemiye binen Momonosuke-sama'dan ayrılmıştık.
+
+316
+00:27:27,910 --> 00:27:31,040
+Momonosuke-sama!
+
+317
+00:27:31,560 --> 00:27:37,490
+Ve Momonosuke-sama'yı takip ederken
+ben de Kanjuro'dan ayrıldım!
+
+318
+00:27:37,490 --> 00:27:40,170
+Beni merak etme!
+
+319
+00:27:40,170 --> 00:27:43,100
+Kanjuro...!
+
+320
+00:27:43,100 --> 00:27:45,350
+Kanjuro...!
+
+321
+00:27:46,330 --> 00:27:52,060
+Böylece, Wano'dan ayrıldıktan sonra dağıldık.
+
+322
+00:27:56,580 --> 00:28:01,690
+Düşmüş olduğum Punk Hazard'ta bile
+Momonosuke-sama'yı ararken...
+
+323
+00:28:01,690 --> 00:28:04,870
+Kaido'nun kuklası olan Caesar
+yoluma çıkmıştı.
+
+324
+00:28:04,870 --> 00:28:09,290
+Ayrıca, şu anda müttefikim olan
+Law-dono tarafından da doğranmıştım.
+
+325
+00:28:15,050 --> 00:28:16,960
+Başım büyük dertteydi.
+
+326
+00:28:18,020 --> 00:28:20,720
+O sırada sizinle tanıştım!
+
+327
+00:28:28,670 --> 00:28:31,020
+Havalı!
+
+328
+00:28:31,020 --> 00:28:32,640
+Siz kimsiniz?
+
+329
+00:28:32,640 --> 00:28:35,190
+Az önce ejderha konuştu!
+
+330
+00:28:35,190 --> 00:28:38,730
+Çok edepsizce!
+Üstünde sadece göğüs bezi var!
+
+331
+00:28:38,730 --> 00:28:40,680
+He, hoşuna gitmedi mi?
+
+332
+00:28:41,190 --> 00:28:42,700
+Hayır, bayıldım!
+
+333
+00:28:42,700 --> 00:28:45,710
+Beni yiyemezsin!
+
+334
+00:28:45,710 --> 00:28:48,240
+Beni yemeye çalışırsan ben seni yerim!
+
+335
+00:28:48,240 --> 00:28:50,620
+Kendine gel!
+
+336
+00:28:55,120 --> 00:28:58,970
+Geçmişe bakınca kriz ardına kriz vardı ama...
+
+337
+00:28:59,650 --> 00:29:01,700
+iyi insanlarla tanıştım.
+
+338
+00:29:02,380 --> 00:29:07,700
+Hayatımı emanet edebileceğim güvenilir müttefikler bulabildim ve geri döndüm.
+
+339
+00:29:08,300 --> 00:29:12,140
+Orochi'nin adamları, adımızdan bahsetti ama...
+
+340
+00:29:12,140 --> 00:29:17,730
+buna inanmadıklarından şu an için rahatız!
+
+341
+00:29:17,730 --> 00:29:21,820
+Bizi sadece hayalet olarak düşünüyorlar.
+
+342
+00:29:21,820 --> 00:29:27,160
+Bu yüzden henüz arananlar
+listesine bile girmedik...
+
+343
+00:29:27,160 --> 00:29:31,550
+ve ülkeye yeniden girdiğimizi fark etmediler.
+
+344
+00:29:31,550 --> 00:29:34,910
+Aynı tarafta olmamıza rağmen
+ben bile bilmiyordum.
+
+345
+00:29:34,910 --> 00:29:37,630
+Bunun için üzgünüm!
+
+346
+00:29:37,630 --> 00:29:39,540
+Hey, yiyişmeyin!
+
+347
+00:29:42,980 --> 00:29:47,800
+Bu savaşta Kaidolar'dan varlığımızı...
+
+348
+00:29:48,800 --> 00:29:50,390
+saklamak çok önemli.
+
+349
+00:29:56,640 --> 00:29:59,270
+Tamam! Anladım!
+
+350
+00:29:59,270 --> 00:30:03,900
+Kaido ve Kurozumi Orochi'nin yönettiği
+dev ordulara karşıyız.
+
+351
+00:30:03,900 --> 00:30:07,610
+Diğer yandan, bizde...
+
+352
+00:30:07,610 --> 00:30:11,580
+Luffy-dono önderliğinde Hasır Şapkalar.
+
+353
+00:30:11,580 --> 00:30:15,540
+Law-dono önderliğinde Kalp Korsanları.
+
+354
+00:30:15,540 --> 00:30:21,130
+Minkler, Inuarashi silahşörleri ve Nekomamushi muhafızları.
+
+355
+00:30:21,130 --> 00:30:27,040
+Ve topladığımız isyancı düşünceleri olan samuraylar.
+
+356
+00:30:27,040 --> 00:30:31,600
+Beş bin kişiye sahip olmak yeterli!
+
+357
+00:30:31,600 --> 00:30:35,750
+Ama biz savaşın peşinde değiliz.
+
+358
+00:30:37,020 --> 00:30:42,440
+Düşmanlarımız ve Kaidolar hakkında
+gizlice bilgi toplayıp plan yaparak...
+
+359
+00:30:46,610 --> 00:30:49,030
+liderlerinin kellesini...
+
+360
+00:30:50,070 --> 00:30:51,450
+almak istiyoruz!

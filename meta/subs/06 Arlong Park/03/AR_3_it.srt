@@ -1,1647 +1,1634 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:50,050 --> 00:01:53,970
+Carte nautiche e uomini-pesce
+
+3
 00:01:55,640 --> 00:01:59,430
 Questa... non è una mappa del tesoro?
 
-3
+4
 00:02:00,350 --> 00:02:02,980
 Sembra indicare il villaggio Cocoyashi...
 
-4
+5
 00:02:03,390 --> 00:02:05,400
 Al villaggio Cocoyashi c'è un tesoro?!
 
-5
+6
 00:02:05,400 --> 00:02:06,730
 Davvero?!
 
-6
+7
 00:02:06,730 --> 00:02:10,360
 Quella mappa... mi appartiene.
 
-7
+8
 00:02:10,360 --> 00:02:12,490
 Non ha assolutamente niente a che fare con voi!
 
-8
+9
 00:02:12,490 --> 00:02:13,780
 Oh!
 
-9
+10
 00:02:13,780 --> 00:02:16,450
 Che succede? 
 Cambi umore all'improvviso?
 
-10
+11
 00:02:18,830 --> 00:02:21,330
 Cos'è questo?!
 
-11
+12
 00:02:21,910 --> 00:02:25,420
 Aah, cosa cavolo è successo qui?!
 
-12
+13
 00:02:25,420 --> 00:02:27,960
 È stato il Cacciatore di Pirati, Roronoa Zoro!
 
-13
+14
 00:02:28,750 --> 00:02:31,380
 Comunque, dov'eri andato, Hachi?
 
-14
+15
 00:02:31,760 --> 00:02:34,050
 Se tu fossi stato qui,
 avremmo evitato tutto questo.
 
-15
+16
 00:02:34,050 --> 00:02:37,890
 Assolutamente! 
 Se fossi stato qui, non sarebbe successo!
 
-16
+17
 00:02:37,890 --> 00:02:40,180
 È imperdonabile!
 
-17
+18
 00:02:40,520 --> 00:02:44,140
 Il che significa che non sai dove sia finito Zoro.
 
-18
+19
 00:02:46,150 --> 00:02:50,690
 Beh, adesso che ci penso c'era uno spadaccino sospetto
 
-19
+20
 00:02:50,690 --> 00:02:53,610
 che non avevo mai visto prima...
 
-20
+21
 00:02:55,910 --> 00:02:57,410
 Era lui?!
 
-21
+22
 00:02:59,870 --> 00:03:01,740
 Quindi l'hai incontrato, imbecille!
 
-22
+23
 00:03:01,740 --> 00:03:03,410
 Quindi?! Dov'è andato Zoro?!
 
-23
+24
 00:03:03,410 --> 00:03:08,880
 Voleva vedere il capitano Arlong,
 quindi l'ho appena portato al villaggio Cocoyashi.
 
-24
+25
 00:03:10,960 --> 00:03:14,510
 Bene, allora non c'è bisogno di affrettarsi.
 
-25
+26
 00:03:14,920 --> 00:03:18,260
 Sarà lui a cercare me.
 
-26
+27
 00:03:18,260 --> 00:03:22,310
 Sapete, mi aveva detto di essere suo ospite, capitano Arlong.
 
-27
+28
 00:03:22,310 --> 00:03:27,100
 E non pensavo che
 sareste tornato così velocemente...
 
-28
+29
 00:03:27,100 --> 00:03:28,520
 Zoro?!
 
-29
+30
 00:03:28,520 --> 00:03:31,480
 Quindi, se riuscissi semplicemente a guadagnare un po' di tempo...
 
-30
+31
 00:03:37,410 --> 00:03:39,530
 Perché ti intrometti?!
 
-31
+32
 00:03:39,530 --> 00:03:42,160
 Stava quasi per funzionare!
 
-32
+33
 00:03:45,660 --> 00:03:46,830
 Mancava poco!
 
-33
+34
 00:03:57,680 --> 00:04:00,050
 M-Maledetta! Vuoi combattere?!
 
-34
+35
 00:04:00,550 --> 00:04:01,800
 Sei d'intralcio.
 
-35
+36
 00:04:02,510 --> 00:04:04,100
 È colpa tua.
 
-36
+37
 00:04:04,520 --> 00:04:06,930
 Perché hai provato a ferire Arlong?!
 
-37
+38
 00:04:07,810 --> 00:04:10,810
 Nami... mi hai davvero deluso!
 
-38
+39
 00:04:10,810 --> 00:04:14,690
 Sai, Luffy anche dopo che
 hai rubato la nave e sei scappata,
 
-39
+40
 00:04:14,690 --> 00:04:17,570
 non ha sospettato di te neanche per un istante!
 
-40
+41
 00:04:17,570 --> 00:04:19,820
 E persino adesso crede ancora in te!
 
-41
+42
 00:04:19,820 --> 00:04:23,200
 Come puoi ingannare qualcuno con così tanta leggerezza?!
 
-42
+43
 00:04:23,200 --> 00:04:25,700
 Io mi fido solo dei soldi.
 
-43
+44
 00:04:25,700 --> 00:04:27,500
 Solo gli scemi si fanno imbrogliare!
 
-44
+45
 00:04:27,500 --> 00:04:28,790
 Come ti permetti?!
 
-45
+46
 00:04:30,960 --> 00:04:34,210
 Tutto sarebbe dovuto finire bene senza intoppi.
 
-46
+47
 00:04:36,880 --> 00:04:41,840
 State rovinando il duro business su cui ho lavorato per otto anni.
 
-47
+48
 00:04:41,840 --> 00:04:43,350
 Per questo...
 
-48
+49
 00:04:43,760 --> 00:04:46,350
 morirai per mano mia.
 
-49
+50
 00:04:48,270 --> 00:04:52,440
 Dall'ultima volta che ti ho vista,
 sei diventata molto più simile a un pirata!
 
-50
+51
 00:04:52,440 --> 00:04:53,730
 Morire?
 
-51
+52
 00:04:55,570 --> 00:04:58,240
 Tu, far fuori me?! Non farmi ridere!
 
-52
+53
 00:04:58,690 --> 00:04:59,860
 Non dovresti...
 
-53
+54
 00:05:00,660 --> 00:05:02,490
 sottovalutarmi così.
 
-54
+55
 00:05:04,620 --> 00:05:05,490
 Maledizione!
 
-55
+56
 00:05:06,330 --> 00:05:08,870
 Se resto qui, morirò al 100%!
 
-56
+57
 00:05:08,870 --> 00:05:10,160
 Colpo Mortale...
 
-57
+58
 00:05:13,880 --> 00:05:15,630
 Stella di Fumo!
 
-58
+59
 00:05:16,750 --> 00:05:19,010
 Quel bastardo... una palla fumogena...!
 
-59
+60
 00:05:19,010 --> 00:05:20,840
 Circondatelo e non fatelo scappare!
 
-60
+61
 00:05:22,340 --> 00:05:23,220
 È il mio momento!
 
-61
+62
 00:05:26,850 --> 00:05:29,350
 È proprio da te fare una cosa del genere...
 
-62
+63
 00:05:29,850 --> 00:05:30,810
 Nami!
 
-63
+64
 00:05:31,560 --> 00:05:34,270
 N-Non sottovalutarmi...
 
-64
+65
 00:05:41,150 --> 00:05:43,240
 È per i miei affari!
 
-65
+66
 00:05:48,580 --> 00:05:50,750
 Era l'unico modo!
 
-66
+67
 00:05:50,750 --> 00:05:52,870
 Nami, perché...
 
-67
+68
 00:05:55,460 --> 00:05:57,250
 Fai il bravo e muori.
 
-68
+69
 00:06:03,800 --> 00:06:05,510
 – Che bella vendetta!
 – Che bella vendetta!
 
-69
+70
 00:06:05,510 --> 00:06:08,310
 È per questo che sei un ufficiale della Banda di Arlong!
 
-70
+71
 00:06:09,390 --> 00:06:16,480
 Il fratello Usopp... 
 è stato ucciso... dalla sorella Nami!
 
-71
+72
 00:06:19,730 --> 00:06:21,280
 Sei soddisfatto, no?
 
-72
+73
 00:06:21,280 --> 00:06:22,950
 Di essere morto lottando in mare?
 
-73
+74
 00:06:22,950 --> 00:06:25,660
 Nami, mi spiace di aver dubitato di te.
 
-74
+75
 00:06:25,660 --> 00:06:27,910
 Sei una nostra compagna.
 
-75
+76
 00:06:28,490 --> 00:06:29,410
 Compagna?
 
-76
+77
 00:06:29,910 --> 00:06:31,830
 Io non ho compagni!
 
-77
+78
 00:06:34,120 --> 00:06:37,290
 C'è solo un motivo per cui sono entrata in questa banda!
 
-78
+79
 00:06:38,250 --> 00:06:40,460
 Per comprare il villaggio Cocoyashi!
 
-79
+80
 00:06:41,630 --> 00:06:43,090
 Mantieni la promessa.
 
-80
+81
 00:06:43,090 --> 00:06:45,470
 Presto avrò i miei cento milioni di berry.
 
-81
+82
 00:06:45,470 --> 00:06:46,470
 Naturalmente.
 
-82
+83
 00:06:47,220 --> 00:06:51,430
 Preferirei tagliarmi lo stomaco e morire
  che infrangere una promessa di soldi.
 
-83
+84
 00:06:51,770 --> 00:06:54,140
 Sono quel tipo di persona.
 
-84
+85
 00:06:54,690 --> 00:06:56,520
 Come ci si aspetta da te, Arlong.
 
-85
+86
 00:06:56,520 --> 00:06:57,940
 Sai di cosa parli.
 
-86
+87
 00:07:00,230 --> 00:07:02,030
 È una donna inquietante.
 
-87
+88
 00:07:04,150 --> 00:07:07,030
 È diventata proprio una donna fantastica!
 
-88
+89
 00:07:08,910 --> 00:07:10,620
 È una strega...!
 
-89
+90
 00:07:10,620 --> 00:07:13,750
 Quella donna... è davvero una strega!
 
-90
+91
 00:07:17,830 --> 00:07:20,590
 Lo vedo! È Arlong Park!
 
-91
+92
 00:07:23,590 --> 00:07:25,880
 Ehi! Non stancarti ora, mucca!
 
-92
+93
 00:07:26,260 --> 00:07:30,100
 Dev'essere proprio per quello...
 I calci del fratello Sanji si fanno sentire.
 
-93
+94
 00:07:30,430 --> 00:07:34,560
 Ehi! Direzione sbagliata, più a sinistra! 
  È quell'edificio!
 
-94
+95
 00:07:58,460 --> 00:08:00,080
 È come se stessimo volando!
 
-95
+96
 00:08:00,080 --> 00:08:01,090
 Togli il "come se"!
 
-96
+97
 00:08:01,090 --> 00:08:02,590
 Stiamo volando, idiota!
 
-97
+98
 00:08:02,590 --> 00:08:05,840
 C-Cadiamo!
 
-98
+99
 00:08:17,520 --> 00:08:19,400
 Atterraggio completato!
 
-99
+100
 00:08:21,690 --> 00:08:24,150
 Yo! Zoro!
 
-100
+101
 00:08:35,490 --> 00:08:37,370
 Siamo arrivati! Siamo arrivati!
 
-101
+102
 00:08:37,370 --> 00:08:40,880
 B-Bastardi... Che diamine...
 
-102
+103
 00:08:41,420 --> 00:08:43,040
 state facendo?!
 
-103
+104
 00:08:43,840 --> 00:08:47,420
 In che senso?
 Siamo venuti a riprenderci Nami...
 
-104
+105
 00:08:47,420 --> 00:08:49,430
 Non l'hai ancora trovata?
 
-105
+106
 00:08:49,930 --> 00:08:52,430
 Ah, giusto! Usopp e Johnny dove sono?
 
-106
+107
 00:08:52,430 --> 00:08:53,680
 Usopp!
 
-107
+108
 00:08:54,310 --> 00:08:57,430
 È vero!
  Non è il momento di perdere tempo qui!
 
-108
+109
 00:08:58,180 --> 00:08:59,560
 Che succede?
 
-109
+110
 00:08:59,560 --> 00:09:01,770
 Quell'idiota è stato catturato da Arlong!
 
-110
+111
 00:09:01,770 --> 00:09:03,810
 Se non ci muoviamo, lo uccideranno!
 
-111
+112
 00:09:03,810 --> 00:09:04,940
 È stato ucciso!
 
-112
+113
 00:09:04,940 --> 00:09:06,030
 Cosa?!
 
-113
+114
 00:09:08,240 --> 00:09:10,820
 Il fratello Usopp è morto.
 
-114
+115
 00:09:11,410 --> 00:09:13,570
 È stato ucciso...
 
-115
+116
 00:09:14,740 --> 00:09:16,740
 dalla sorella Nami!
 
-116
+117
+00:09:20,080 --> 00:09:25,000
+Costa ovest
+Villaggio Cocoyashi
+
+118
 00:09:20,710 --> 00:09:22,040
 Veloce! Veloce!
 
-117
+119
 00:09:22,040 --> 00:09:23,250
 Cosa c'è?
 
-118
+120
 00:09:23,250 --> 00:09:25,000
 La Marina! È arrivata la Marina!
 
-119
+121
 00:09:25,420 --> 00:09:29,970
 Qualche sopravvissuto di Gosa è riuscito a contattare il Governo!
 
-120
+122
 00:09:29,970 --> 00:09:33,680
 La Marina è venuta qui per noi!
 
-121
+123
 00:09:33,680 --> 00:09:34,430
 Visto?
 
-122
+124
 00:09:37,350 --> 00:09:39,230
 Ci salveremo!
 
-123
+125
 00:09:39,230 --> 00:09:42,020
 Potremo scappare da quest'isola!
 
-124
+126
 00:09:45,980 --> 00:09:49,240
 Quello è l'Arlong Park di cui ho sentito tanto parlare?
 
-125
+127
 00:09:49,240 --> 00:09:53,320
 Se dei pirati riescono a stabilirsi in quel modo, il mondo è bello che finito.
 
-126
+128
 00:09:53,860 --> 00:09:55,320
 Ascoltate, uomini!
 
-127
+129
 00:09:55,320 --> 00:10:01,210
 La missione che ci è stata affidata oggi 
 consiste nel far evacuare i cittadini di Gosa
 
-128
+130
 00:10:01,210 --> 00:10:04,040
 la cui città è stata distrutta dalla Banda di Arlong!
 
-129
+131
 00:10:04,670 --> 00:10:06,340
 Ma dico io...
 
-130
+132
 00:10:07,170 --> 00:10:11,010
 il nostro senso di giustizia ci permette davvero di trascurare...
 
-131
+133
 00:10:11,470 --> 00:10:14,010
 quel castello di pirati in bella vista?!
 
-132
+134
 00:10:14,590 --> 00:10:15,890
 – Nossignore!
 – Nossignore!
 
-133
+135
 00:10:16,300 --> 00:10:20,680
 La nostra unità annienterà 
 Arlong e la sua banda!
 
-134
+136
 00:10:20,680 --> 00:10:22,690
 Prepararsi a combattere!
 
-135
+137
 00:10:22,690 --> 00:10:23,440
 – Sissignore!
 – Sissignore!
 
-136
+138
 00:10:23,940 --> 00:10:26,270
 La settantasettesima divisione della Marina?
 
-137
+139
 00:10:26,610 --> 00:10:28,360
 Sì, c'è scritto così.
 
-138
+140
 00:10:28,360 --> 00:10:30,030
 Un nuovo arrivato.
 
-139
+141
 00:10:30,030 --> 00:10:32,570
 Qualcuno vada a negoziare 
 con quello al comando.
 
-140
+142
 00:10:32,570 --> 00:10:36,950
 Offritegli pure due milioni... 
 se poi non li accettano e fanno qualcosa di strano
 
-141
+143
 00:10:36,950 --> 00:10:38,240
 potete farli fuori.
 
-142
+144
 00:10:42,540 --> 00:10:43,910
 Una cannonata all'improvviso!
 
-143
+145
 00:10:43,910 --> 00:10:45,170
 Capitano Arlong, attento!
 
-144
+146
 00:10:55,220 --> 00:10:58,100
 Ooh... Ha distrutto la palla di cannone azzannandola!
 
-145
+147
 00:10:58,100 --> 00:11:00,060
 Ha una mascella e dei denti spaventosi!
 
-146
+148
 00:11:00,720 --> 00:11:02,560
 Arlong, le trattative?
 
-147
+149
 00:11:05,020 --> 00:11:05,850
 Negate.
 
-148
+150
 00:11:06,770 --> 00:11:07,900
 Bene! Andiamo!
 
-149
+151
 00:11:07,900 --> 00:11:08,810
 Si combatte!
 
-150
+152
 00:11:08,810 --> 00:11:11,530
 Vi renderemo un bagno di sangue, Marina!
 
-151
+153
 00:11:12,570 --> 00:11:14,360
 Aspettate, aspettate.
 
-152
+154
+00:11:16,700 --> 00:11:21,660
+Ufficiale Chuu
+(Uomo-pesce sillago)
+Banda di Arlong
+
+155
 00:11:17,030 --> 00:11:21,200
 Non serve sprecare così tante 
 energie per liberarsi di quei rifiuti.
 
-153
+156
 00:11:22,080 --> 00:11:23,910
 Ce ne occuperemo noi!
 
-154
+157
+00:11:23,580 --> 00:11:28,540
+Ufficiale Kuroobi
+(Uomo-pesce razza)
+Banda di Arlong
+
+158
 00:11:23,910 --> 00:11:28,540
 Sono stati proprio degli stolti ad 
 attaccarci mentre erano ancora in mare.
 
-155
+159
 00:11:28,540 --> 00:11:32,420
 Tre dei nostri ufficiali? 
 Sarà una lotta grandiosa!
 
-156
+160
 00:11:33,170 --> 00:11:36,130
 Quella nave non durerà neanche tre minuti così!
 
-157
+161
 00:11:38,300 --> 00:11:39,640
 Che strano...
 
-158
+162
 00:11:40,100 --> 00:11:42,220
 Contrammiraglio!
 La cannonata è stata inefficace!
 
-159
+163
 00:11:42,220 --> 00:11:45,140
 Di nuovo!
 Sarà il segnale d'inizio dell'assalto!
 
-160
+164
 00:11:45,140 --> 00:11:47,520
 Siamo contro degli uomini-pesce! Fate attenzione!
 
-161
+165
 00:11:47,520 --> 00:11:48,310
 – Signorsì!
 – Signorsì!
 
-162
+166
 00:11:51,610 --> 00:11:53,440
 È stato colpito! È la Banda di Arlong!
 
-163
+167
 00:11:53,440 --> 00:11:54,820
 Preparare le armi! All'attacco!
 
-164
+168
 00:11:55,190 --> 00:11:56,280
 Fermi! Calmatevi!
 
-165
+169
 00:11:58,200 --> 00:12:00,240
 Siete della Banda di Arlong, vero?
 
-166
+170
 00:12:00,240 --> 00:12:04,160
 Sono il Contrammiraglio della settantasettesima
  divisione della Marina, Puripurin.
 
-167
+171
 00:12:04,160 --> 00:12:09,960
 Siamo una famosa unità d'élite della Marina.
 
-168
+172
 00:12:09,960 --> 00:12:13,880
 Se non desiderate morire, dovreste arrend–
 
-169
+173
 00:12:14,630 --> 00:12:15,380
 – Contrammiraglio!
 – Contrammiraglio!
 
-170
+174
 00:12:15,760 --> 00:12:16,880
 Come osi!
 
-171
+175
 00:12:16,880 --> 00:12:18,090
 Uccidetelo!
 
-172
+176
 00:12:19,550 --> 00:12:20,930
 C-Cos'è stato quel impatto?!
 
-173
+177
 00:12:20,930 --> 00:12:22,850
 Non ditemi che sotto la nave,
  gli uomini-pesce...?!
 
-174
+178
 00:12:26,640 --> 00:12:29,980
 Scusatemi tanto per il disturbo,
 
-175
+179
 00:12:30,480 --> 00:12:33,690
 ma abbiamo appena
  rimosso il timone della nave.
 
-176
+180
 00:12:33,690 --> 00:12:35,440
 C-Cosa?!
 
-177
+181
 00:12:34,190 --> 00:12:35,440
 Contrammiraglio!
 
-178
+182
 00:12:35,440 --> 00:12:36,400
 Sta bene?
 
-179
+183
 00:12:37,650 --> 00:12:41,120
 Non preoccupatevi. 
 Non ho colpito nessun organo vitale.
 
-180
+184
 00:12:42,620 --> 00:12:45,870
 Faccio solo un'ipotesi, contrammiraglio...
 
-181
+185
 00:12:45,870 --> 00:12:50,290
 ma se si spostasse un enorme scoglio nel mezzo di una forte corrente,
 
-182
+186
 00:12:50,290 --> 00:12:52,130
 cosa succederebbe in mare?
 
-183
+187
 00:12:52,130 --> 00:12:53,090
 Cosa?!
 
-184
+188
 00:12:57,460 --> 00:12:59,630
 S-Spostando uno scoglio?!
 
-185
+189
 00:12:59,630 --> 00:13:02,180
 Non c'è modo che voi possiate farlo!
 
-186
+190
 00:13:02,590 --> 00:13:04,430
 Bene! Da quella parte, Hachi!
 
-187
+191
 00:13:04,430 --> 00:13:06,140
 Ok!
 
-188
+192
 00:13:06,140 --> 00:13:07,350
 C-Contrammiraglio!
 
-189
+193
 00:13:07,850 --> 00:13:09,480
 Un enorme vortice è apparso dal nulla!
 
-190
+194
 00:13:09,480 --> 00:13:10,810
 Il timone non funziona!
 
-191
+195
 00:13:10,810 --> 00:13:11,690
 Cosa?!
 
-192
+196
 00:13:11,690 --> 00:13:14,690
 Ve l'avevo detto, no? 
 Che abbiamo rimosso il timone.
 
-193
+197
 00:13:15,230 --> 00:13:18,070
 Questa nave con il timone fuori uso andrà...
 
-194
+198
 00:13:19,530 --> 00:13:20,650
 in fondo al mare.
 
-195
+199
 00:13:38,760 --> 00:13:40,050
 Non può essere...
 
-196
+200
 00:13:41,630 --> 00:13:43,760
 Questa... è la realtà.
 
-197
+201
 00:13:44,800 --> 00:13:46,100
 Non abbiamo alcuna speranza...
 
-198
+202
 00:13:46,680 --> 00:13:49,270
 di riuscire a fuggire dal controllo di Arlong.
 
-199
+203
 00:13:52,480 --> 00:13:54,230
 Ce ne avete messo di tempo.
 
-200
+204
 00:13:54,230 --> 00:13:57,650
 Cosa vuoi che sia?
 Conosciamo tutto dai fondali marini ai venti,
 
-201
+205
 00:13:57,650 --> 00:13:59,150
 ormai sappiamo tutto.
 
-202
+206
 00:13:59,150 --> 00:14:00,360
 È stata una passeggiata.
 
-203
+207
 00:14:00,360 --> 00:14:03,950
 Nessuno può sfidarci in questi mari con le nostre eccezionali abilità!
 
-204
+208
 00:14:03,950 --> 00:14:06,910
 E, le carte nautiche di Nami.
 
-205
+209
 00:14:06,910 --> 00:14:09,500
 Sono delle mappe veramente ben fatte!
 
-206
+210
 00:14:09,500 --> 00:14:16,090
 Una volta che Nami avrà fatto la mappa di tutto 
 il mondo, diventeremo i re immortali del mare!
 
-207
+211
 00:14:17,340 --> 00:14:22,720
 Già... Nami è assolutamente indispensabile
 nella creazione dell'Impero di Arlong!
 
-208
+212
 00:14:22,720 --> 00:14:23,760
 Che peccato...
 
-209
+213
 00:14:23,760 --> 00:14:24,840
 Che peccato?
 
-210
+214
 00:14:24,840 --> 00:14:27,640
 Ha promesso a Nami che se 
 porterà cento milioni di berry
 
-211
+215
 00:14:27,640 --> 00:14:30,390
 la lascerà andare insieme al villaggio Cocoyashi.
 
-212
+216
 00:14:30,390 --> 00:14:32,100
 Davvero, capitano Arlong?!
 
-213
+217
 00:14:32,100 --> 00:14:34,440
 La lascerai davvero andare?!
 
-214
+218
 00:14:34,440 --> 00:14:36,020
 Non ho scelta.
 
-215
+219
 00:14:36,020 --> 00:14:39,360
 È quello che abbiamo concordato otto anni fa.
 
-216
+220
 00:14:39,360 --> 00:14:45,910
 Se si tratta di promesse di soldi, piuttosto 
 che non mantenere la parola... preferirei morire.
 
-217
+221
 00:14:46,660 --> 00:14:48,870
 Prova a dirlo di nuovo! Ti prendò a calci!
 
-218
+222
 00:14:48,870 --> 00:14:51,620
 Smettila, Luffy. 
 Johnny non c'entra niente, no?
 
-219
+223
 00:14:51,620 --> 00:14:53,960
 Se non vuoi credermi, fai pure!
 
-220
+224
 00:14:53,960 --> 00:14:56,000
 Ma l'ho visto con i miei occhi!
 
-221
+225
 00:14:56,000 --> 00:14:57,630
 Il fratello Usopp è stato ucciso da–
 
-222
+226
 00:14:57,630 --> 00:14:58,630
 Non dire cavolate!
 
-223
+227
 00:14:59,000 --> 00:15:01,840
 Nami non ucciderebbe mai Usopp!
 
-224
+228
 00:15:01,840 --> 00:15:03,590
 Lei è una nostra compagna!
 
-225
+229
 00:15:03,590 --> 00:15:05,680
 M-Ma, io...!
 
-226
+230
 00:15:07,010 --> 00:15:09,220
 Chi sarebbe una tua compagna, Luffy?
 
-227
+231
 00:15:09,640 --> 00:15:10,560
 Nami!
 
-228
+232
 00:15:10,970 --> 00:15:12,180
 Che sei venuto a fare qui?
 
-229
+233
 00:15:12,640 --> 00:15:13,980
 In che senso?
 
-230
+234
 00:15:13,980 --> 00:15:17,190
 Sei una mia compagna, no? 
 Sono venuto a prenderti.
 
-231
+235
 00:15:17,190 --> 00:15:18,650
 Sei una gran rottura!
 
-232
+236
 00:15:18,650 --> 00:15:19,400
 Nami?
 
-233
+237
 00:15:19,820 --> 00:15:21,070
 "Compagna"?
 
-234
+238
 00:15:21,070 --> 00:15:22,400
 Non farmi ridere.
 
-235
+239
 00:15:22,400 --> 00:15:24,860
 Siete solo degli idioti che si aiutano a vicenda, no?
 
-236
+240
 00:15:25,860 --> 00:15:27,990
 Maledetta! L'hai fatta grossa!
 
-237
+241
 00:15:27,990 --> 00:15:29,870
 L'ho visto, con i miei occhi!
 
-238
+242
 00:15:29,870 --> 00:15:31,120
 Come hai osato...
 
-239
+243
 00:15:31,120 --> 00:15:32,830
 Come hai osato uccidere il fratello Usopp?!
 
-240
+244
 00:15:32,830 --> 00:15:34,540
 E con ciò?
 
-241
+245
 00:15:34,540 --> 00:15:36,790
 Vuoi provare a uccidermi per vendicarti?
 
-242
+246
 00:15:37,750 --> 00:15:38,960
 Cosa?!
 
-243
+247
 00:15:38,960 --> 00:15:41,300
 Fatevi dire una cosa.
 
-244
+248
 00:15:41,300 --> 00:15:45,670
 Proprio ora, Arlong vuole ammazzare
 Roronoa Zoro e il suo gruppo.
 
-245
+249
 00:15:45,670 --> 00:15:48,180
 Perché Zoro ha fatto una cosa stupida.
 
-246
+250
 00:15:48,550 --> 00:15:51,560
 Non importa quanto mostruosamente siate forti,
 
-247
+251
 00:15:51,560 --> 00:15:54,140
 non avete speranze contro dei veri mostri.
 
-248
+252
 00:15:56,850 --> 00:15:59,520
 Hi, signorina Nami! Sono io, ti ricordi?
 
-249
+253
 00:15:59,520 --> 00:16:01,360
 Navighiamo insieme!
 
-250
+254
 00:16:01,360 --> 00:16:04,650
 Tu fatti indietro!
  Stai solo complicando le cose!
 
-251
+255
 00:16:04,650 --> 00:16:06,240
 Come scusa?!
 
-252
+256
 00:16:06,240 --> 00:16:08,610
 L'amore è sempre un uragano!
 
-253
+257
 00:16:08,610 --> 00:16:10,490
 Ehi, ascolta quando la gente ti parla!
 
-254
+258
 00:16:10,490 --> 00:16:11,490
 Dov'è Usopp?
 
-255
+259
 00:16:12,160 --> 00:16:13,450
 In fondo al mare.
 
-256
+260
 00:16:13,450 --> 00:16:15,290
 Maledetta! Falla finita!
 
-257
+261
 00:16:17,790 --> 00:16:21,340
 Uno spadaccino alza le mani persino ad una lady, Roronoa Zoro?
 
-258
+262
 00:16:21,340 --> 00:16:25,130
 Cosa?! Tu non sai niente, non intrometterti!
 
-259
+263
 00:16:26,630 --> 00:16:29,840
 Presumo che anch'io mi arrabbierei dopo un'umiliante sconfitta.
 
-260
+264
 00:16:31,390 --> 00:16:32,350
 Ehi!
 
-261
+265
 00:16:32,350 --> 00:16:33,890
 Attento a quello che dici.
 
-262
+266
 00:16:33,890 --> 00:16:37,140
 Fatti gli affari tuoi, brutto bastardo!
 
-263
+267
 00:16:37,140 --> 00:16:41,060
 Fratelli! Vi pare il momento di 
 comportarvi così, in una situazione così grave?!
 
-264
+268
 00:16:41,060 --> 00:16:42,730
 Ha ragione.
 
-265
+269
 00:16:42,730 --> 00:16:45,280
 Se volete litigare,
  potreste farlo fuori dall'isola?
 
-266
+270
 00:16:45,280 --> 00:16:48,950
 Gli stranieri continunano a ficcare il naso negli affari di questa terra...
 
-267
+271
 00:16:48,950 --> 00:16:50,610
 Ancora non capite?
 
-268
+272
 00:16:50,610 --> 00:16:55,370
 L'unico motivo per cui mi sono avvicinata
  a voi non è altro che per il denaro.
 
-269
+273
 00:16:55,370 --> 00:16:59,580
 Ora che non avete più nulla,
 avete perso tutto il vostro fascino.
 
-270
+274
 00:16:59,580 --> 00:17:01,040
 Vi restituirò la nave,
 
-271
+275
 00:17:01,040 --> 00:17:04,420
 trovatevi un navigatore da qualche 
 parte e andatevene nella Grand Line.
 
-272
+276
 00:17:04,420 --> 00:17:07,710
 Andate a cercare il One Piece o quello che vi pare.
 
-273
+277
 00:17:08,220 --> 00:17:10,300
 Veloci, andatevene! Mi siete d'intralcio!
 
-274
+278
 00:17:13,430 --> 00:17:14,810
 Addio.
 
-275
+279
 00:17:16,220 --> 00:17:17,470
 Nami...
 
-276
+280
 00:17:24,190 --> 00:17:25,270
 Fratello Luffy?!
 
-277
+281
 00:17:25,730 --> 00:17:26,650
 Dormo!
 
-278
+282
 00:17:26,650 --> 00:17:27,400
 Dormi?!
 
-279
+283
 00:17:27,400 --> 00:17:29,740
 In un momento come questo?! 
 In mezzo alla strada?!
 
-280
+284
 00:17:29,740 --> 00:17:32,030
 Non voglio lasciare l'isola...
 
-281
+285
 00:17:32,610 --> 00:17:36,160
 e non mi interessa cosa sta succedendo qui.
 
-282
+286
 00:17:36,160 --> 00:17:37,870
 E sono un po' assonnato.
 
-283
+287
 00:17:38,200 --> 00:17:39,580
 Dormo.
 
-284
+288
 00:17:38,750 --> 00:17:39,580
 Eeh?!
 
-285
+289
 00:17:46,500 --> 00:17:47,460
 Fai pure...
 
-286
+290
 00:17:47,460 --> 00:17:49,670
 Fai pure come ti pare! Muori se vuoi!
 
-287
+291
 00:17:49,670 --> 00:17:50,550
 Na–
 
-288
+292
 00:17:55,680 --> 00:17:57,680
 Ehi, fratello Zoro!
 
-289
+293
 00:17:57,680 --> 00:18:00,060
 Cosa diamine stai pensando?
 
-290
+294
 00:18:00,060 --> 00:18:02,810
 Arlong sta puntando alle nostre vite!
 
-291
+295
 00:18:02,810 --> 00:18:04,560
 Perché non scappiamo?
 
-292
+296
 00:18:04,560 --> 00:18:06,820
 Ora che sappiamo che tipo di donna è Nami,
 
-293
+297
 00:18:06,820 --> 00:18:09,740
 non abbiamo più motivi per rimanere su quest'isola!
 
-294
+298
 00:18:12,950 --> 00:18:15,070
 D-D'accordo...
 
-295
+299
 00:18:15,070 --> 00:18:19,040
 Siamo stati assieme per poco, ma il mio ruolo di guida termina qui.
 
-296
+300
 00:18:19,040 --> 00:18:22,870
 Idem per me! Non vorrei finire ammazzato!
 
-297
+301
 00:18:23,370 --> 00:18:24,370
 Bene.
 
-298
+302
 00:18:24,370 --> 00:18:25,750
 Prendetevi cura di voi.
 
-299
+303
 00:18:25,750 --> 00:18:28,250
 Bene, alla prossima!
 
-300
+304
 00:18:28,250 --> 00:18:30,010
 Anche voi, stateci bene!
 
-301
+305
 00:18:30,010 --> 00:18:31,420
 Anche voi!
 
-302
+306
 00:18:45,310 --> 00:18:46,520
 Ehi.
 
-303
+307
 00:18:46,520 --> 00:18:47,110
 Eh?
 
-304
+308
 00:18:47,440 --> 00:18:51,070
 Credi davvero che Nami 
 abbia ucciso quel naso lungo?
 
-305
+309
 00:18:58,530 --> 00:18:59,830
 In quel momento...
 
-306
+310
 00:19:01,290 --> 00:19:03,500
 È per i miei affari!
 
-307
+311
 00:19:05,330 --> 00:19:06,960
 Era l'unico modo!
 
-308
+312
 00:19:08,710 --> 00:19:11,050
 In quel momento, Nami...
 
-309
+313
 00:19:11,380 --> 00:19:15,760
 ha finto di pugnalarmi e si è colpita la mano!
 
-310
+314
 00:19:18,300 --> 00:19:23,480
 Se non l'avesse fatto, 
 Arlong mi avrebbe sicuramente ucciso.
 
-311
+315
 00:19:24,310 --> 00:19:25,480
 Che faccio?
 
-312
+316
 00:19:25,480 --> 00:19:30,110
 Usopp "il Vero Uomo" non può
 tirarsi indietro dopo esser stato salvato!
 
-313
+317
 00:19:30,110 --> 00:19:33,570
 Per adesso, devo sbrigarmi a trovare Zoro!
 
-314
+318
 00:19:34,780 --> 00:19:36,700
 Quello là... che sia Zoro?!
 
-315
+319
 00:19:36,700 --> 00:19:38,410
 Sì, è lui! Evviva!
 
-316
+320
 00:19:38,870 --> 00:19:41,950
 Nami non l'ha ucciso.
  È questo che vuoi dire?
 
-317
+321
 00:19:41,950 --> 00:19:43,160
 Mi sbaglio?
 
-318
+322
 00:19:43,910 --> 00:19:45,000
 Chissà!
 
-319
+323
 00:19:45,000 --> 00:19:50,170
 Le ho detto che è solo una ragazzina
  che non è capace di uccidere nessuno.
 
-320
+324
 00:19:50,170 --> 00:19:51,630
 Forse l'ha fatto d'impulso.
 
-321
+325
 00:19:51,630 --> 00:19:53,090
 Cosa intendi con "ragazzina"?!
 
-322
+326
 00:19:53,550 --> 00:19:56,760
 Quale parte del seno di Nami ti sembra quello di una ragazzina?!
 
-323
+327
 00:19:56,760 --> 00:19:57,880
 Pensi solo a quell-
 
-324
+328
 00:20:02,350 --> 00:20:04,100
 Quindi è vivo!
 
-325
+329
 00:20:04,100 --> 00:20:08,560
 No, penso sia morto...
 
-326
+330
 00:20:27,250 --> 00:20:29,040
 Hai fatto proprio un bel trambusto.
 
-327
+331
 00:20:29,620 --> 00:20:32,090
 Nami... che succede?
 
-328
+332
 00:20:32,090 --> 00:20:34,800
 Niente. Sono solo venuta a riposare un po'.
 
-329
+333
 00:20:36,090 --> 00:20:41,300
 Non serve mica rompere i bicchieri e i mobili per riposare un po'.
 
-330
+334
 00:20:43,310 --> 00:20:47,270
 Se non hai niente, 
 perché hai aperto quella mappa?
 
-331
+335
 00:20:49,640 --> 00:20:52,900
 Avevi promesso di dirmi tutto, no?
 
-332
+336
 00:20:53,320 --> 00:20:55,570
 Sono solo arrabbiata per 
 una cosa che è successa!
 
-333
+337
 00:20:57,940 --> 00:20:59,780
 Si tratta di loro, eh? Chi sono?
 
-334
+338
 00:21:00,410 --> 00:21:01,160
 Li hai incontrati?
 
-335
+339
 00:21:01,490 --> 00:21:04,660
 Sì, quello che si fa chiamare 
 Capitano o qualcosa del genere...
 
-336
+340
 00:21:04,660 --> 00:21:06,580
 Sembrava essere un po' bugiardo però.
 
-337
+341
 00:21:13,000 --> 00:21:14,840
 Capisco...
 
-338
+342
 00:21:16,000 --> 00:21:17,880
 Dev'essere dura.
 
-339
+343
 00:21:18,300 --> 00:21:22,090
 Non avrei mai pensato che qualcuno sarebbe 
 venuto per trovare una come lei...
 
-340
+344
 00:21:22,640 --> 00:21:24,680
 Compagni, eh?
 
-341
+345
 00:21:26,850 --> 00:21:28,310
 Per lei...
 
-342
+346
 00:21:28,980 --> 00:21:30,190
 questa è...
 
-343
+347
 00:21:32,270 --> 00:21:33,900
 la parola più dolorosa...
 
-344
+348
 00:21:34,820 --> 00:21:36,190
 Usopp!
 
-345
+349
 00:21:36,190 --> 00:21:38,440
 È stata Nami a farti questo?!
 
-346
+350
 00:21:38,440 --> 00:21:40,570
 Ah, scusa. In realtà, questo tizio e io...
 
-347
+351
 00:21:40,570 --> 00:21:42,320
 Sei stato tu!
 
-348
+352
 00:21:42,320 --> 00:21:45,200
 L-Luffy! Sei arrivato?!
 
-349
+353
 00:21:45,200 --> 00:21:46,450
 Sì. Un attimo fa.
 
-350
+354
 00:21:46,450 --> 00:21:48,540
 Oh, sono arrivato anch'io! Piacere!
 
-351
+355
 00:21:48,540 --> 00:21:50,580
 Bastardo, un giorno ti ammazzo!
 
-352
+356
 00:21:50,580 --> 00:21:52,960
 Oh! Alla fine, stai benone!
 
-353
+357
 00:21:52,960 --> 00:21:53,670
 Sta' zitto!
 
-354
+358
 00:21:53,670 --> 00:21:57,050
 A proposito, Nami ti aveva ucciso, no?
 
-355
+359
 00:21:57,050 --> 00:21:57,670
 Eh?!
 
-356
+360
 00:21:57,670 --> 00:22:01,420
 Dannazione! Quel Johnny stava davvero dicendo delle cavolate!
 
-357
+361
 00:22:01,420 --> 00:22:02,930
 No...
 
-358
+362
 00:22:02,930 --> 00:22:05,640
 In un certo senso, non è una bugia.
 
-359
+363
 00:22:06,010 --> 00:22:07,720
 Ma è successo l'opposto!
 
-360
+364
 00:22:07,720 --> 00:22:10,100
 Nami mi ha salvato la vita.
 
-361
+365
 00:22:10,640 --> 00:22:15,190
 Da quello che ho capito, c'è un motivo per cui
 fa parte della banda degli uomini-pesce.
 
-362
+366
 00:22:15,190 --> 00:22:16,190
 È ovvio.
 
-363
+367
 00:22:16,190 --> 00:22:17,570
 Quindi, che facciamo?
 
-364
+368
 00:22:17,570 --> 00:22:18,980
 Invadiamo Arlong Park?
 
-365
+369
 00:22:18,980 --> 00:22:23,490
 F-Fermi! Prima dovremmo capire in che situazione si trova Nami!
 
-366
+370
 00:22:23,490 --> 00:22:25,660
 In ogni caso, è inutile.
 
-367
+371
 00:22:24,950 --> 00:22:25,660
 Eh?
 
-368
+372
 00:22:25,660 --> 00:22:29,580
 Non importa cosa facciate,
  il controllo di Arlong non finirà.
 
-369
+373
 00:22:29,580 --> 00:22:30,500
 Nojiko!
 
-370
+374
 00:22:30,870 --> 00:22:31,870
 Chi è?
 
-371
+375
 00:22:31,870 --> 00:22:32,830
 La sorella di Nami.
 
-372
+376
 00:22:32,830 --> 00:22:36,500
 La sorella della bellissima Nami? È proprio stupenda!
 
-373
+377
 00:22:36,500 --> 00:22:38,460
 Che vuoi dire con "è inutile"?
 
-374
+378
 00:22:38,960 --> 00:22:42,340
 Per favore, non intromettetevi ancora di più nelle questioni del villaggio.
 
-375
+379
 00:22:42,340 --> 00:22:44,130
 Lasciate stare Nami.
 
-376
+380
 00:22:44,470 --> 00:22:46,390
 Vi racconterò tutta la storia.
 
-377
+381
 00:22:46,390 --> 00:22:49,010
 Una volta sentita, 
 vorrete andarvene dall'isola.
 
-378
+382
 00:22:49,010 --> 00:22:51,730
 C'è una nave della Marina sulla costa?!
 
-379
+383
 00:22:51,730 --> 00:22:53,850
 È la nave della sedicesima divisione!
 
-380
+384
 00:22:53,850 --> 00:22:56,560
 Dopo ciò che è successo con la settantasettesima divisione,
 
-381
+385
 00:22:56,560 --> 00:22:58,730
 forse il quartier generale si sta adoperando!
 
-382
+386
 00:23:02,150 --> 00:23:05,740
 Sono il Capitano della 
 sedicesima divisione, Nezumi.
 
-383
+387
 00:23:05,740 --> 00:23:08,370
 Portate qui Genzo, 
 l'abitante del villaggio Cocoyashi.
 
-384
+388
 00:23:09,120 --> 00:23:11,870
 Sono io Genzo, Capitano.
 
-385
+389
 00:23:11,870 --> 00:23:13,200
 Tu, eh?
 
-386
+390
 00:23:13,200 --> 00:23:15,750
 Portami alla casa della donna chiamata Nami.
 
-387
+391
 00:23:15,750 --> 00:23:19,540
 Nami? Per... quale motivo la cercate?
 
-388
+392
 00:23:21,090 --> 00:23:25,300
 Devi solamente... farmi strada.
-
-389
-00:09:20,080 --> 00:09:25,000
-Costa ovest
-Villaggio Cocoyashi
-
-390
-00:09:20,080 --> 00:09:25,000
-Costa ovest
-Villaggio Cocoyashi
-
-391
-00:11:16,700 --> 00:11:21,660
-Ufficiale Chuu
-(Uomo-pesce sillago)
-Banda di Arlong
-
-392
-00:11:16,700 --> 00:11:21,660
-Ufficiale Chuu
-(Uomo-pesce sillago)
-Banda di Arlong
-
-393
-00:11:23,580 --> 00:11:28,540
-Ufficiale Kuroobi
-(Uomo-pesce razza)
-Banda di Arlong
-
-394
-00:11:23,580 --> 00:11:28,540
-Ufficiale Kuroobi
-(Uomo-pesce razza)
-Banda di Arlong

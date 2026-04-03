@@ -1,1160 +1,1111 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:00:03,200 --> 00:00:11,900
+Regarde, toi qui m'es si cher, tu m'attends juste devant moi !
+
+3
+00:00:15,490 --> 00:00:19,300
+Notre long voyage vient de commencer
+
+4
+00:00:21,560 --> 00:00:25,030
+Courage, amour, amitié
+
+5
+00:00:26,580 --> 00:00:33,180
+et un petit peu d'enjouement,
+
+6
+00:00:33,580 --> 00:00:37,580
+ce sont les choses qui tiendront pour toujours
+
+7
+00:00:39,680 --> 00:00:43,330
+Nous sommes tous des fragments de la Terre,
+
+8
+00:00:45,750 --> 00:00:49,260
+et on se réunit petit à petit
+
+9
+00:00:50,960 --> 00:00:57,450
+Ça commence à prendre forme,
+
+10
+00:00:57,900 --> 00:01:02,940
+le vent continuera sûrement de souffler.
+
+11
+00:01:04,100 --> 00:01:10,000
+Ressens le vent, tu t'habitues à ressentir le vent
+
+12
+00:01:10,210 --> 00:01:16,180
+Partons à la recherche du vent qui sèchera nos larmes !
+
+13
+00:01:16,280 --> 00:01:21,970
+C'est une telle aventure de rencontrer quelqu'un
+
+14
+00:01:22,180 --> 00:01:25,150
+Nous ne nous arrêterons pas.
+
+15
+00:01:25,310 --> 00:01:33,980
+Regarde, toi qui m'es si cher, tu m'attends juste devant moi !
+
+16
 00:01:45,950 --> 00:01:48,120
 Remontons le cours du temps.
 
-3
+17
+00:01:45,960 --> 00:01:48,960
+Ruines de l'ancien royaume de Céglok
+Île de Kuraigana
+
+18
 00:01:48,800 --> 00:01:53,160
 Par le plus grand des hasards,
 Zoro se retrouve coincé avec Perona.
 
-4
+19
 00:01:57,300 --> 00:01:58,540
 Ce truc...
 
-5
+20
 00:01:59,580 --> 00:02:01,110
 Un monument funéraire ?
 
-6
+21
 00:02:01,250 --> 00:02:02,940
 Qui a fabriqué ça ?
 
-7
+22
 00:02:03,470 --> 00:02:05,800
 C'est taillé à même le tronc
 d'un arbre énorme.
 
-8
+23
 00:02:05,940 --> 00:02:08,000
 Celui qui a fait ça s'y connaît.
 
-9
+24
 00:02:08,150 --> 00:02:10,650
 Tout de même, elle est gigantesque.
 
-10
+25
 00:02:21,790 --> 00:02:22,490
 Il est rapide !
 
-11
+26
 00:02:40,270 --> 00:02:42,310
 Quoi ? Il l'a évité ?
 
-12
+27
 00:02:43,050 --> 00:02:44,780
 Regarde, là !
 
-13
+28
 00:02:59,330 --> 00:03:01,500
 Ces choses...
 
-14
+29
+00:03:15,650 --> 00:03:20,480
+Pays de la Misère, Crevardie
+Île de Neurasthénia
+
+30
 00:03:16,450 --> 00:03:20,480
 Nous voici sur l'île de Neurasthénia,
 en Crevardie, pays de la misère.
 
-15
+31
 00:03:20,980 --> 00:03:24,990
 Les habitants du cru prennent Brook
 pour le Grand Satan.
 
-16
+32
 00:03:35,030 --> 00:03:38,100
 Quelle radieuse matinée.
 
-17
+33
 00:03:43,610 --> 00:03:45,510
 Les Longs Bras !
 
-18
+34
 00:03:54,350 --> 00:03:55,990
 Au secours !
 
-19
+35
 00:03:58,150 --> 00:04:00,590
 Vous cherchez la cogne, saletés ?
 
-20
+36
 00:04:00,750 --> 00:04:01,990
 Rendez-nous la fille !
 
-21
+37
 00:04:02,690 --> 00:04:04,900
 Vous allez voir !
 
-22
+38
 00:04:05,030 --> 00:04:06,700
 Relâchez ma fille !
 
-23
+39
 00:04:06,860 --> 00:04:10,110
 Vous allez tous finir en enfer !
 
-24
+40
 00:04:13,940 --> 00:04:16,140
 Quoi ?
 
-25
+41
 00:04:16,280 --> 00:04:17,640
 Non !
 
-26
+42
 00:04:17,880 --> 00:04:19,640
 Au secours !
 
-27
+43
 00:04:20,580 --> 00:04:23,170
 Ils kidnappent la demoiselle !
 
-28
+44
 00:04:23,340 --> 00:04:24,110
 Oui.
 
-29
+45
 00:04:24,310 --> 00:04:27,680
 – Un petit coup de malédiction ?
 – S'il vous plaît ?
 
-30
+46
 00:04:29,520 --> 00:04:31,720
 C'est pas le moment !
 Il faut la sauver !
 
-31
+47
 00:04:31,860 --> 00:04:34,490
 Grand Satan !
 
-32
+48
 00:04:38,480 --> 00:04:39,560
 Elle est en danger.
 
-33
+49
 00:04:40,270 --> 00:04:41,270
 Grand Satan.
 
-34
+50
 00:04:42,230 --> 00:04:46,300
 Je vous en supplie,
 déchaînez votre courroux infernal.
 
-35
+51
 00:04:46,570 --> 00:04:48,470
 Nous vous en supplions.
 
-36
+52
 00:04:50,570 --> 00:04:54,340
 Ils ne font que compter sur les autres,
 ces gens.
 
-37
+53
 00:04:56,990 --> 00:04:59,800
 Mais cette pauvre demoiselle
 est une simple victime.
 
-38
+54
 00:04:59,950 --> 00:05:01,590
 Elle n'a rien fait de mal.
 
-39
+55
 00:05:02,450 --> 00:05:03,550
 Bien.
 
-40
+56
 00:05:03,850 --> 00:05:07,930
 En remerciement de votre hospitalité
 et de vos slips, je consens à agir.
 
-41
+57
 00:05:08,100 --> 00:05:11,300
 – Ouais !
 – Super !
 
-42
+58
 00:05:12,630 --> 00:05:13,900
 Satan ! Satan !
 
-43
+59
 00:05:14,360 --> 00:05:17,940
 Satan ! Satan !
 
-44
+60
 00:05:18,250 --> 00:05:21,510
 Satan ! Satan !
 
-45
+61
 00:05:21,660 --> 00:05:25,070
 Luffy, très chers amis.
 Je suis dans une situation délicate.
 
-46
+62
 00:05:25,340 --> 00:05:29,510
 Je suis cerné par les sous-vêtements
 et révéré comme le Grand Satan.
 
-47
+63
 00:05:29,750 --> 00:05:32,150
 Pardon, je vous fais un peu attendre.
 
-48
+64
 00:05:32,290 --> 00:05:36,120
 Mais un squelette aussi
 doit s'acquitter de ses dettes.
 
-49
+65
 00:05:36,650 --> 00:05:38,150
 Je ne serai pas long.
 
-50
+66
 00:05:38,270 --> 00:05:41,790
 Dès que j'aurai réglé cette histoire,
 je vous rejoins.
 
-51
+67
 00:05:51,030 --> 00:05:54,400
 Nous voici dans l'île
 où les oiseaux menacent les gens,
 
-52
+68
+00:05:53,100 --> 00:05:57,110
+Royaume Dézoizo
+South Blue
+
+69
 00:05:54,550 --> 00:05:57,110
 l'Île Dézoizo de South Blue.
 
-53
+70
 00:06:09,090 --> 00:06:12,090
 J'ai hâte de partir d'ici.
 
-54
+71
 00:06:12,860 --> 00:06:15,460
 Cette île est un vrai cauchemar.
 
-55
+72
 00:06:16,930 --> 00:06:19,400
 Les oiseaux me prennent pour un jouet.
 
-56
+73
 00:06:20,620 --> 00:06:24,270
 Les humains veulent
 me déguster en ragoût.
 
-57
+74
 00:06:26,370 --> 00:06:29,560
 Et comme si ça ne suffisait pas,
 
-58
+75
 00:06:31,520 --> 00:06:34,500
 les oiseaux et les humains
 se font la guerre.
 
-59
+76
 00:06:39,380 --> 00:06:41,320
 Comment je vais m'en sortir ?
 
-60
+77
 00:06:54,160 --> 00:06:57,720
 Voici l'Île Rose de Grand Line,
 
-61
+78
+00:06:55,670 --> 00:06:59,440
+Royaume de Kedétrav
+Île Rose, Grand Line
+
+79
 00:06:57,920 --> 00:06:59,840
 où se trouve le royaume de Kedétrav.
 
-62
+80
 00:07:03,270 --> 00:07:05,240
 Où je suis ?
 
-63
+81
 00:07:05,480 --> 00:07:06,940
 Mais surtout...
 
-64
+82
 00:07:08,000 --> 00:07:10,080
 Qui sont ces gens ?
 
-65
+83
 00:07:25,830 --> 00:07:27,000
 Purée...
 
-66
+84
 00:07:27,150 --> 00:07:28,730
 Je t'attendais.
 
-67
+85
 00:07:39,810 --> 00:07:41,710
 T'es qui, toi ?
 
-68
+86
 00:07:52,460 --> 00:07:55,930
 Bonjour à toutes les deux,
 ma Nami chérie et ma Robin d'amour.
 
-69
+87
 00:07:56,200 --> 00:07:57,360
 Vous allez bien ?
 
-70
+88
 00:07:58,030 --> 00:08:01,230
 J'ai tellement hâte de vous revoir,
 les filles.
 
-71
+89
 00:08:02,770 --> 00:08:07,440
 Je suis sûre
 qu'on deviendra super copines.
 
-72
+90
 00:08:25,560 --> 00:08:29,000
 Voici une petite île céleste,
 Weatheria.
 
-73
+91
 00:08:29,500 --> 00:08:33,150
 Ici, les savants sont plongés
 dans leurs recherches sur le climat.
 
-74
+92
+00:08:35,930 --> 00:08:38,940
+Weatheria
+
+93
 00:08:39,100 --> 00:08:40,740
 Petite demoiselle !
 
-75
+94
 00:08:41,240 --> 00:08:42,940
 Par ici.
 
-76
+95
 00:08:43,580 --> 00:08:45,040
 Une barque ?
 
-77
+96
 00:08:47,440 --> 00:08:50,750
 C'est quoi, cette barque ?
 Elle flotte ?
 
-78
+97
 00:09:00,540 --> 00:09:01,930
 En route.
 
-79
+98
 00:09:13,050 --> 00:09:16,040
 Tiens ? Voilà justement une île
 qui devrait convenir.
 
-80
+99
 00:09:19,940 --> 00:09:21,340
 Cette île...
 
-81
+100
 00:09:25,780 --> 00:09:29,150
 Vous dites être capable
 de sauver cette île ?
 
-82
+101
 00:09:29,500 --> 00:09:30,480
 Tout à fait.
 
-83
+102
 00:09:30,700 --> 00:09:35,290
 Grâce à mon savoir météorologique,
 je peux amener la pluie sur vos terres.
 
-84
+103
 00:09:35,450 --> 00:09:36,630
 Que dites-vous ?
 
-85
+104
 00:09:39,000 --> 00:09:41,500
 En ce qui concerne le paiement...
 
-86
+105
 00:09:41,970 --> 00:09:44,430
 La modique somme
 de 100 millions vous irait ?
 
-87
+106
 00:09:44,590 --> 00:09:45,240
 100 millions ?
 
-88
+107
 00:09:49,740 --> 00:09:51,350
 C'est un peu trop cher ?
 
-89
+108
 00:09:51,500 --> 00:09:54,340
 C'est bien trop cher, oui !
 Qui pourrait payer ?
 
-90
+109
 00:09:57,050 --> 00:09:58,280
 Je vois.
 
-91
+110
 00:09:58,680 --> 00:10:01,020
 – Pour 100 Berrys alors.
 – Hein ?
 
-92
+111
 00:10:01,490 --> 00:10:02,650
 Pas cher !
 
-93
+112
 00:10:11,030 --> 00:10:12,200
 Ce sont...
 
-94
+113
 00:10:13,850 --> 00:10:15,370
 Des bulles de savon ?
 
-95
+114
 00:10:16,450 --> 00:10:18,640
 Il y a quelque chose, dedans.
 
-96
+115
 00:10:20,280 --> 00:10:24,110
 Ma petite demoiselle,
 fabrique-moi du vent avec ça.
 
-97
+116
 00:10:25,880 --> 00:10:27,940
 Ah, ce truc.
 
-98
+117
 00:10:29,050 --> 00:10:32,000
 – Je défais tout ?
 – Oui.
 
-99
+118
 00:11:00,940 --> 00:11:03,410
 Mais...
 Quelle est cette magie ?
 
-100
+119
 00:11:23,320 --> 00:11:24,330
 Il pleut !
 
-101
+120
 00:11:38,880 --> 00:11:40,520
 Ça a bien marché.
 
-102
+121
 00:11:45,090 --> 00:11:46,790
 Ils sont contents.
 
-103
+122
 00:11:46,950 --> 00:11:50,690
 Oui. Les sciences météorologiques,
 c'est bien pratique.
 
-104
+123
 00:12:01,570 --> 00:12:03,750
 Rejoignons l'île Karakuri,
 
-105
+124
 00:12:04,100 --> 00:12:07,380
 et la patrie qui a vu naître un génie,
 le pays de Baldimore.
 
-106
+125
+00:12:05,840 --> 00:12:09,250
+Île de Karakuri
+Pays Futuriste de Baldimore
+
+126
 00:12:12,780 --> 00:12:15,490
 – Transportons-le à l'hôpital, Kittone.
 – Oui.
 
-107
+127
+00:12:36,240 --> 00:12:38,170
+....Opération
+en cours
+
+128
 00:12:38,810 --> 00:12:40,840
 C'est un cyborg.
 
-108
+129
 00:12:40,980 --> 00:12:42,980
 Sa source d'énergie, c'est le cola.
 
-109
+130
 00:12:43,450 --> 00:12:46,880
 Que fait-on ?
 Nous n'avons pas de cola sous la main.
 
-110
+131
 00:12:47,980 --> 00:12:51,450
 – Pas le temps de tergiverser, allons-y.
 – Oui.
 
-111
+132
+00:12:55,090 --> 00:12:57,090
+....Opération
+en cours
+
+133
 00:13:10,640 --> 00:13:11,840
 M'sieur !
 
-112
+134
 00:13:17,780 --> 00:13:20,780
 Oh, le garçonnet de tout à l'heure.
 
-113
+135
 00:13:20,920 --> 00:13:23,350
 Je vous ai fait attendre,
 je suis confus.
 
-114
+136
 00:13:25,550 --> 00:13:28,330
 Vous avez changé, non ?
 
-115
+137
 00:13:28,700 --> 00:13:32,030
 Oui. Par malheur,
 il n'y a pas de cola.
 
-116
+138
 00:13:32,830 --> 00:13:35,070
 Je fonctionne donc au thé.
 
-117
+139
 00:13:35,200 --> 00:13:36,630
 Au Darjeeling.
 
-118
+140
 00:13:36,970 --> 00:13:37,700
 Du thé ?
 
-119
+141
 00:13:44,570 --> 00:13:47,340
 Des arômes tout bonnement super.
 
-120
+142
 00:13:52,180 --> 00:13:54,350
 Diantre, c'est super relaxant.
 
-121
+143
 00:13:55,290 --> 00:13:56,920
 Euh, m'sieur...
 
-122
+144
 00:13:57,650 --> 00:13:59,750
 Oh, quel malappris je fais !
 
-123
+145
 00:14:03,160 --> 00:14:05,830
 Tenez.
 C'est fort chaud, prenez garde.
 
-124
+146
 00:14:13,900 --> 00:14:16,550
 Non, c'est pas ce que je voulais dire !
 
-125
+147
 00:14:16,750 --> 00:14:20,110
 M'sieur, je vous préférais avant,
 vous étiez rigolo.
 
-126
+148
 00:14:21,000 --> 00:14:21,910
 Vraiment ?
 
-127
+149
 00:14:46,700 --> 00:14:47,900
 J'ai froid.
 
-128
+150
 00:14:49,640 --> 00:14:51,940
 Que fais-je donc ici ?
 
-129
+151
 00:14:54,280 --> 00:14:56,610
 Quelle chance ! Une écharpe.
 
-130
+152
 00:14:57,650 --> 00:14:58,410
 Voilà.
 
-131
+153
 00:15:08,220 --> 00:15:10,660
 Mais que se passe-t-il ?
 
-132
+154
 00:15:14,400 --> 00:15:16,100
 "Entrée interdite" ?
 
-133
+155
 00:15:16,270 --> 00:15:19,740
 "Forêt de parcage des mécanimaux" ?
 
-134
+156
 00:15:50,730 --> 00:15:53,340
 Opération :
 "Réveil surprise en pleine jungle" !
 
-135
+157
 00:15:54,340 --> 00:15:59,010
 Un petit stage de survie vous aidera
 à retrouver vos instincts, m'sieur !
 
-136
+158
 00:15:59,270 --> 00:16:02,250
 Gardez votre calme,
 très chères bestioles.
 
-137
+159
 00:16:02,850 --> 00:16:06,720
 Vous avez l'air un peu tendus,
 vous n'avez pas encore déjeuné ?
 
-138
+160
 00:16:06,880 --> 00:16:09,050
 Il faut manger
 à des horaires réguliers,
 
-139
+161
 00:16:09,200 --> 00:16:11,350
 pour un bon équilibre mental.
 
-140
+162
 00:16:13,420 --> 00:16:14,750
 Oh ! Je vois.
 
-141
+163
 00:16:14,890 --> 00:16:17,860
 C'est justement l'heure
 de votre petit déjeuner.
 
-142
+164
 00:16:18,000 --> 00:16:19,700
 Toutes mes excuses.
 
-143
+165
 00:16:24,630 --> 00:16:26,070
 Delicious !
 
-144
+166
 00:16:26,200 --> 00:16:29,240
 Rien de tel qu'un bon thé
 pour bien commencer la journée.
 
-145
+167
 00:16:37,310 --> 00:16:40,020
 Ah ! Que la vie est belle !
 
-146
+168
 00:16:40,850 --> 00:16:42,290
 C'est raté.
 
-147
+169
 00:17:10,480 --> 00:17:12,980
 Au secours !
 
-148
+170
 00:17:16,690 --> 00:17:18,050
 La violence n'est pas...
 
-149
+171
 00:17:20,490 --> 00:17:22,790
 Tu es joueur, à ton âge c'est normal.
 
-150
+172
 00:17:24,390 --> 00:17:25,390
 Mais en discutant...
 
-151
+173
 00:17:26,200 --> 00:17:26,900
 On peut tout...
 
-152
+174
 00:17:27,260 --> 00:17:28,630
 Entre gentlemen.
 
-153
+175
 00:17:29,730 --> 00:17:30,900
 Trouvons une solution.
 
-154
+176
 00:17:32,100 --> 00:17:36,070
 Cesse cela, très cher.
 La violence ne résout rien.
 
-155
+177
 00:17:36,990 --> 00:17:38,550
 Mister Frank !
 
-156
+178
 00:17:38,700 --> 00:17:41,640
 Laissez tomber, il ne vous écoute pas !
 
-157
+179
 00:17:41,900 --> 00:17:42,880
 Du calme...
 
-158
+180
 00:17:43,550 --> 00:17:44,380
 Écoute un peu...
 
-159
+181
 00:17:45,050 --> 00:17:46,120
 Écoute ce que je...
 
-160
+182
 00:17:46,980 --> 00:17:47,920
 Écoute ce que je...
 
-161
+183
 00:17:48,650 --> 00:17:49,150
 Écoute...
 
-162
+184
 00:17:51,450 --> 00:17:51,950
 Écou...
 
-163
+185
 00:17:53,900 --> 00:17:54,560
 Écou...
 
-164
+186
 00:17:55,460 --> 00:17:55,960
 Écou...
 
-165
+187
 00:17:56,730 --> 00:17:57,160
 Écou...
 
-166
+188
 00:17:57,890 --> 00:17:58,230
 Écou...
 
-167
+189
 00:18:01,050 --> 00:18:02,170
 Écou...
 
-168
+190
 00:18:17,610 --> 00:18:20,850
 Super !
 
-169
+191
 00:18:27,890 --> 00:18:30,490
 Vous me prenez pour qui,
 bande de branques ?
 
-170
+192
 00:18:30,490 --> 00:18:33,360
 Le nom à bibi, c'est Franky !
 
-171
+193
 00:18:33,650 --> 00:18:34,900
 Youpi !
 
-172
+194
 00:18:35,030 --> 00:18:36,600
 M'sieur, vous êtes de retour ?
 
-173
+195
 00:18:37,250 --> 00:18:39,770
 Extravaganza !
 
-174
+196
 00:18:41,990 --> 00:18:42,770
 Ça va pas ?
 
-175
+197
 00:18:44,170 --> 00:18:47,880
 Je me suis calmé,
 la vapeur s'est dissipée.
 
-176
+198
 00:18:48,050 --> 00:18:51,010
 C'est très slip...
 Euh... Terrible !
 
-177
+199
 00:18:51,180 --> 00:18:53,280
 Que faire ?
 
-178
+200
 00:18:53,450 --> 00:18:55,120
 Ah ! Là-bas, peut-être !
 
-179
+201
 00:19:03,730 --> 00:19:05,680
 Il y a plein d'inventions dangereuses,
 
-180
+202
 00:19:06,150 --> 00:19:10,030
 donc papy m'a dit
 de ne surtout pas m'en approcher.
 
-181
+203
+00:19:23,450 --> 00:19:29,450
+Tequila Wolf
+East Blue
+
+204
 00:19:30,820 --> 00:19:31,950
 Voilà ton repas.
 
-182
+205
 00:19:32,520 --> 00:19:35,460
 Quand t'auras fini,
 on reprendra l'interrogatoire.
 
-183
+206
 00:19:35,600 --> 00:19:36,990
 J'ai hâte.
 
-184
+207
 00:19:44,050 --> 00:19:47,500
 Ils t'en ont fait voir des vertes
 et des pas mûres, petite.
 
-185
+208
 00:19:47,870 --> 00:19:48,640
 Qui êtes-vous ?
 
-186
+209
 00:19:48,800 --> 00:19:50,850
 Un simple vieillard.
 
-187
+210
 00:19:51,010 --> 00:19:56,050
 Je viens d'être déporté ici,
 mais les vieux ne leur servent à rien.
 
-188
+211
 00:19:56,250 --> 00:19:57,850
 Donc, j'ai atterri ici.
 
-189
+212
 00:19:58,250 --> 00:20:00,340
 Vous m'en voyez navrée pour vous.
 
-190
+213
 00:20:02,250 --> 00:20:03,220
 C'était quoi, ça ?
 
-191
+214
 00:20:06,520 --> 00:20:08,560
 Les rebelles attaquent les baraques !
 
-192
+215
 00:20:11,520 --> 00:20:12,850
 Ordre du directeur,
 
-193
+216
 00:20:13,000 --> 00:20:15,430
 – toutes les unités doivent y aller.
 – Bien !
 
-194
+217
 00:20:20,150 --> 00:20:21,240
 Les rebelles ?
 
-195
+218
 00:20:21,440 --> 00:20:24,410
 Oui, mais on a bien obéi à vos ordres.
 
-196
+219
 00:20:24,570 --> 00:20:27,740
 Toutes les unités leur font face,
 ce sera vite réglé.
 
-197
+220
 00:20:29,480 --> 00:20:32,010
 Je n'ai jamais ordonné ça.
 
-198
+221
 00:20:32,720 --> 00:20:37,990
 Attendez, les gardes de la prison
 ont quitté leur poste, eux aussi ?
 
-199
+222
 00:20:43,500 --> 00:20:46,120
 Je suis un agent secret
 de l'armée révolutionnaire.
 
-200
+223
 00:20:47,380 --> 00:20:48,620
 Abrutis !
 
-201
+224
 00:20:48,780 --> 00:20:51,030
 Je me moque éperdument
 de ces rebelles !
 
-202
+225
 00:20:51,200 --> 00:20:52,900
 Ne laissez pas Nico Robin filer !
 
-203
+226
 00:20:55,800 --> 00:20:56,870
 Beau travail.
 
-204
+227
 00:20:56,870 --> 00:20:59,740
 Sous votre commandement,
 la victoire nous sourira.
 
-205
+228
 00:20:59,940 --> 00:21:02,050
 Je m'en charge.
 
-206
+229
 00:21:02,150 --> 00:21:02,860
 Au fait.
 
-207
+230
 00:21:03,200 --> 00:21:05,950
 Libérez donc la jeune femme,
 pendant que vous y êtes.
 
-208
+231
 00:21:12,490 --> 00:21:14,220
 Tuez-la !
 
-209
+232
 00:21:18,860 --> 00:21:19,830
 Clutch !
 
-210
+233
 00:21:29,940 --> 00:21:31,840
 Vous êtes Nico Robin ?
 
-211
+234
+00:21:40,480 --> 00:21:43,390
+Archipel de Boing
+Grand Line
+
+235
 00:21:43,990 --> 00:21:46,620
 C'est quoi, ce coin ?
 
-212
+236
 00:21:48,860 --> 00:21:52,930
 Quelle belle odeur !
 Je crois bien que ça m'ira !
 
-213
+237
 00:21:53,920 --> 00:21:55,130
 La cascanouille.
 
-214
+238
 00:21:55,460 --> 00:21:56,800
 Les fleurs spaghetti.
 
-215
+239
 00:21:57,400 --> 00:22:01,140
 Les jambons-fruits
 et les rochers au chocolat en dessert.
 
-216
+240
 00:22:02,100 --> 00:22:05,580
 Tout ce qui est ici est comestible.
 
-217
+241
 00:22:06,410 --> 00:22:08,140
 Je peux manger, alors ?
 
-218
+242
 00:22:11,080 --> 00:22:12,620
 – Oui.
 – Trop bon.
 
-219
+243
 00:22:13,050 --> 00:22:15,900
 Mange tout ton soûl et entraîne-toi dur.
 
-220
+244
 00:22:16,050 --> 00:22:18,520
 Les plantes carnivores
 te laisseront tranquille.
 
-221
+245
 00:22:18,750 --> 00:22:20,330
 Super, tant mieux !
 
-222
+246
 00:22:20,490 --> 00:22:23,390
 C'est vachement bon,
 je pourrais en manger des tonnes.
 
-223
+247
 00:22:23,620 --> 00:22:27,060
 Ne fais pas que t'empiffrer !
 Tu dois t'entraîner !
 
-224
+248
 00:22:27,200 --> 00:22:30,300
 Ça va, j'ai compris.
 Je vais manger comme quatre,
 
-225
+249
 00:22:30,450 --> 00:22:34,700
 et je deviendrai un vaillant guerrier
 de la forêt, comme toi !
 
-226
+250
 00:22:41,680 --> 00:22:44,150
 Je ne peux plus rien avaler.
 
-227
+251
 00:22:44,350 --> 00:22:45,650
 Usopp.
 
-228
+252
 00:22:46,110 --> 00:22:49,550
 Ici, les créatures grassouillettes
 se font bien vite dévorer.
 
-229
+253
 00:22:49,780 --> 00:22:51,390
 Je vais me faire bouffer ?
 
-230
+254
 00:22:51,790 --> 00:22:55,490
 Nul ne peut quitter ces îles,
 c'est l'archipel de Boing !
 
-231
+255
 00:22:55,600 --> 00:22:57,490
 On peut pas partir d'ici ?
 
-232
+256
 00:22:57,860 --> 00:22:59,290
 Quant à moi,
 
-233
+257
 00:22:59,520 --> 00:23:01,420
 je suis le vaillant guerrier, Héra...
-
-234
-00:01:45,960 --> 00:01:48,960
-Ruines de l'ancien royaume de Céglok
-Île de Kuraigana
-
-235
-00:01:45,960 --> 00:01:48,960
-Ruines de l'ancien royaume de Céglok
-Île de Kuraigana
-
-236
-00:03:15,650 --> 00:03:20,480
-Pays de la Misère, Crevardie
-Île de Neurasthénia
-
-237
-00:03:15,650 --> 00:03:20,480
-Pays de la Misère, Crevardie
-Île de Neurasthénia
-
-238
-00:05:53,100 --> 00:05:57,110
-Royaume Dézoizo
-South Blue
-
-239
-00:05:53,100 --> 00:05:57,110
-Royaume Dézoizo
-South Blue
-
-240
-00:06:55,670 --> 00:06:59,440
-Royaume de Kedétrav
-Île Rose, Grand Line
-
-241
-00:06:55,670 --> 00:06:59,440
-Royaume de Kedétrav
-Île Rose, Grand Line
-
-242
-00:08:35,930 --> 00:08:38,940
-Weatheria
-
-243
-00:08:35,930 --> 00:08:38,940
-Weatheria
-
-244
-00:12:05,840 --> 00:12:09,250
-Île de Karakuri
-Pays Futuriste de Baldimore
-
-245
-00:12:05,840 --> 00:12:09,250
-Île de Karakuri
-Pays Futuriste de Baldimore
-
-246
-00:12:36,240 --> 00:12:38,170
-....Opération
-en cours
-
-247
-00:12:36,240 --> 00:12:38,170
-....Opération
-en cours
-
-248
-00:12:55,090 --> 00:12:57,090
-....Opération
-en cours
-
-249
-00:12:55,090 --> 00:12:57,090
-....Opération
-en cours
-
-250
-00:19:23,450 --> 00:19:29,450
-Tequila Wolf
-East Blue
-
-251
-00:19:23,450 --> 00:19:29,450
-Tequila Wolf
-East Blue
-
-252
-00:21:40,480 --> 00:21:43,390
-Archipel de Boing
-Grand Line
-
-253
-00:21:40,480 --> 00:21:43,390
-Archipel de Boing
-Grand Line
-
-254
-00:00:03,200 --> 00:00:11,900
-Regarde, toi qui m'es si cher, tu m'attends juste devant moi !
-
-255
-00:00:15,490 --> 00:00:19,300
-Notre long voyage vient de commencer
-
-256
-00:00:21,560 --> 00:00:25,030
-Courage, amour, amitié
-
-257
-00:00:26,580 --> 00:00:33,180
-et un petit peu d'enjouement,
-
-258
-00:00:33,580 --> 00:00:37,580
-ce sont les choses qui tiendront pour toujours
-
-259
-00:00:39,680 --> 00:00:43,330
-Nous sommes tous des fragments de la Terre,
-
-260
-00:00:45,750 --> 00:00:49,260
-et on se réunit petit à petit
-
-261
-00:00:50,960 --> 00:00:57,450
-Ça commence à prendre forme,
-
-262
-00:00:57,900 --> 00:01:02,940
-le vent continuera sûrement de souffler.
-
-263
-00:01:04,100 --> 00:01:10,000
-Ressens le vent, tu t'habitues à ressentir le vent
-
-264
-00:01:10,210 --> 00:01:16,180
-Partons à la recherche du vent qui sèchera nos larmes !
-
-265
-00:01:16,280 --> 00:01:21,970
-C'est une telle aventure de rencontrer quelqu'un
-
-266
-00:01:22,180 --> 00:01:25,150
-Nous ne nous arrêterons pas.
-
-267
-00:01:25,310 --> 00:01:33,980
-Regarde, toi qui m'es si cher, tu m'attends juste devant moi !

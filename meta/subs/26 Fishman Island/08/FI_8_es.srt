@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -162,292 +162,302 @@ PUERTAS DEL PALACIO  -
 CUARTEL GENERAL DEL CONTROL FRONTERIZO
 
 41
+00:03:42,540 --> 00:03:50,820
+¡El inicio del vengativo plan!
+¡Zoro vs. Hody!
+
+42
 00:04:23,460 --> 00:04:26,900
 ¡Sí!
 
-42
+43
 00:04:33,620 --> 00:04:36,700
 ¡Sí!
 
-43
+44
 00:05:28,060 --> 00:05:32,420
 ¡Sí!
 
-44
+45
 00:05:52,570 --> 00:05:54,980
 He conseguido información.
 
-45
+46
 00:05:54,980 --> 00:05:57,580
 Como suponía, aquí hay un Poneglyph.
 
-46
+47
 00:05:58,790 --> 00:06:03,360
 ¡Este lugar debe tener la clave del Siglo Vacío!
 
-47
+48
 00:06:04,260 --> 00:06:06,700
 PALACIO RYUGU
 
-48
+49
 00:07:39,270 --> 00:07:40,700
 ¡Soy la princesa-yamon!
 
-49
+50
 00:10:27,900 --> 00:10:33,620
 CARPINTERO E INVESTIGADOR DEL BOSQUE MARINO
 
-50
+51
 00:10:27,900 --> 00:10:33,620
 DEN (HERMANO MENOR DE TOM)
 
-51
+52
 00:12:33,980 --> 00:12:36,460
 ENTRADA AL PALACIO RYUGU
 
-52
+53
 00:12:36,780 --> 00:12:38,620
 PASADIZO DE COMUNICACIÓN
 
-53
+54
 00:12:43,460 --> 00:12:45,260
 PUERTA PRINCIPAL
 
-54
+55
 00:12:47,060 --> 00:12:50,020
 ENTRADA AL PALACIO
 
-55
+56
 00:17:22,660 --> 00:17:24,260
 ¡Oiga, Su Majestad!
 
-56
+57
 00:17:43,940 --> 00:17:44,980
 ¿Causantes?
 
-57
+58
 00:17:54,840 --> 00:17:58,020
 ¡Esa es la marca de Arlong!
 
-58
+59
 00:18:55,900 --> 00:18:58,740
 ¡Hacen que se me revuelva el estómago!
 
-59
+60
 00:19:02,620 --> 00:19:05,460
 ¡Sin importar de cuántos de ustedes nos deshagamos,
 
-60
+61
 00:19:05,460 --> 00:19:09,620
 ustedes, patéticos humanos que no pueden ni respirar bajo el agua, no dejan de venir tras nosotros!
 
-61
-00:20:34,020 --> 00:20:35,580
-Mola
-
 62
 00:20:34,020 --> 00:20:35,580
-Shi
+Mola
 
 63
 00:20:34,020 --> 00:20:35,580
-Chibukai
+Shi
 
 64
 00:20:34,020 --> 00:20:35,580
-Fansub!
+Chibukai
 
 65
 00:20:34,020 --> 00:20:35,580
-Bocado de tiburón.
+Fansub!
 
 66
+00:20:34,020 --> 00:20:35,580
+Bocado de tiburón.
+
+67
 00:21:37,870 --> 00:21:40,580
 ¡Nos vamos a ahogar!
 
-67
-00:22:01,460 --> 00:22:03,760
-Mola
-
 68
 00:22:01,460 --> 00:22:03,760
-Shi
+Mola
 
 69
 00:22:01,460 --> 00:22:03,760
-Chibukai
+Shi
 
 70
 00:22:01,460 --> 00:22:03,760
-Fansub!
+Chibukai
 
 71
 00:22:01,460 --> 00:22:03,760
-Flechas de tiburón.
+Fansub!
 
 72
+00:22:01,460 --> 00:22:03,760
+Flechas de tiburón.
+
+73
 00:22:38,660 --> 00:22:40,620
 ¡Neptune-sama!
 
-73
-00:23:04,460 --> 00:23:08,310
-Mola
-
 74
 00:23:04,460 --> 00:23:08,310
-Shi
+Mola
 
 75
 00:23:04,460 --> 00:23:08,310
-Chibukai
+Shi
 
 76
 00:23:04,460 --> 00:23:08,310
-Fansub!
+Chibukai
 
 77
 00:23:04,460 --> 00:23:08,310
-Estilo de una espada: Pájaro de mal agüero.
+Fansub!
 
 78
-00:24:38,060 --> 00:24:42,390
-Mola
+00:23:04,460 --> 00:23:08,310
+Estilo de una espada: Pájaro de mal agüero.
 
 79
 00:24:38,060 --> 00:24:42,390
-Shi
+Mola
 
 80
 00:24:38,060 --> 00:24:42,390
-Chibukai
+Shi
 
 81
 00:24:38,060 --> 00:24:42,390
-Fansub!
+Chibukai
 
 82
 00:24:38,060 --> 00:24:42,390
-Estrella verde mortal: Rafflesia.
+Fansub!
 
 83
+00:24:38,060 --> 00:24:42,390
+Estrella verde mortal: Rafflesia.
+
+84
 00:25:26,920 --> 00:25:30,280
 COSTA DE COLINA CORAL
 
-84
+85
 00:26:09,540 --> 00:26:14,060
 ...que las sirenas me vuelven loco y
  me encantaría secuestrar alguna,
 
-85
+86
 00:28:52,380 --> 00:28:55,580
 ¡¿Qué?!
 
-86
+87
 00:29:12,980 --> 00:29:15,820
 ¡¿Princesa Shirahoshi?!
 
-87
+88
 00:29:27,060 --> 00:29:28,780
 ...a la Princesa Sirena?!
 
-88
+89
 00:29:51,460 --> 00:29:56,480
 ¡Han secuestrado a la Princesa Sirena!
 
-89
+90
 00:31:36,010 --> 00:31:38,460
 La Princesa Sirena...
 
-90
+91
 00:31:38,460 --> 00:31:43,660
 Dicen que hasta la Emperatriz Pirata, Boa Hancock,
  la más bella del mundo, se siente apabullada por ella.
 
-91
+92
 00:31:44,390 --> 00:31:47,360
 ¿La más hermosa de todas las sirenas...
 
-92
+93
 00:31:47,360 --> 00:31:49,940
 ...está ahora detrás de mí?
 
-93
+94
 00:32:37,880 --> 00:32:43,300
 ¿Eh? E-Esto...
 
-94
+95
 00:32:44,470 --> 00:32:48,620
 Me he quedado corto imaginándomela.
 
-95
+96
 00:32:49,850 --> 00:32:55,540
 Qué maravilla, no tiene comparación, es...
 
-96
+97
 00:32:58,170 --> 00:33:01,820
 ...la encarnación de la belleza absoluta.
 
-97
-00:35:16,860 --> 00:35:20,130
-Mola
-
 98
 00:35:16,860 --> 00:35:20,130
-Shi
+Mola
 
 99
 00:35:16,860 --> 00:35:20,130
-Chibukai
+Shi
 
 100
 00:35:16,860 --> 00:35:20,130
-Fansub!
+Chibukai
 
 101
 00:35:16,860 --> 00:35:20,130
-Celebración.
+Fansub!
 
 102
+00:35:16,860 --> 00:35:20,130
+Celebración.
+
+103
 00:36:15,700 --> 00:36:21,500
 ¡¿Eh?! ¡¿Ese es el problema?!
 
-103
+104
 00:38:12,260 --> 00:38:15,610
 Mola
 
-104
+105
 00:38:12,260 --> 00:38:15,610
 Shi
 
-105
+106
 00:38:12,260 --> 00:38:15,610
 Chibukai
 
-106
+107
 00:38:12,260 --> 00:38:15,610
 Fansub!
 
-107
+108
 00:38:12,260 --> 00:38:15,610
 Martillo.
 
-108
+109
 00:39:09,500 --> 00:39:11,390
 Princesa Sirena.
 
-109
+110
 00:39:11,390 --> 00:39:14,420
 ¿Estoy en el Cielo? ¿El Paraíso?
 
-110
+111
 00:39:14,420 --> 00:39:18,130
 Mis sueños se han hecho
  realidad, ahora puedo morir feliz.
 
-111
+112
 00:40:00,460 --> 00:40:01,580
 ¡¿Eh?!
 
-112
+113
 00:43:42,220 --> 00:43:42,820
 ¡¿Eh?!
+
+114
+00:45:07,980 --> 00:45:13,190
+¡Al Bosque Marino!
+Arlong y Hody

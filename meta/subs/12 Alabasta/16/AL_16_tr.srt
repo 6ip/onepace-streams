@@ -1,408 +1,408 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:49,960 --> 00:01:53,510
+UMUT!!
+
+3
 00:02:16,410 --> 00:02:18,160
 Zamanında yetiştim.
 
-3
+4
 00:02:21,160 --> 00:02:22,580
 Luffy-san...
 
-4
+5
 00:02:22,580 --> 00:02:23,750
 Pell...
 
-5
+6
 00:02:23,750 --> 00:02:27,500
 Meydanın havaya uçmasına
 çok az zaman kaldı...
 
-6
+7
 00:02:31,210 --> 00:02:32,300
 Herkes...
 
-7
+8
 00:02:33,420 --> 00:02:35,050
 ölecek!
 
-8
+9
 00:02:38,010 --> 00:02:42,770
 Sesim kimseye ulaşmıyor.
 
-9
+10
 00:02:44,020 --> 00:02:47,150
 Bu durumda, ülke...
 
-10
+11
 00:02:49,940 --> 00:02:51,820
 Endişelenme.
 
-11
+12
 00:02:56,110 --> 00:02:58,570
 Biz seni gayet iyi duyabiliyoruz!
 
-12
+13
 00:03:08,710 --> 00:03:13,410
 Yine söylüyorum, yaralarım
 seninkilerden daha berbat durumda!
 
-13
+14
 00:03:13,410 --> 00:03:17,390
 Sen erkeksin, sızlanmayı kes!
 Bacağım acıyor! Ayakta duramıyoru–
 
-14
+15
 00:03:17,390 --> 00:03:18,800
 Ah, bayılacağım.
 
-15
+16
 00:03:19,350 --> 00:03:20,930
 Yalancı!
 
-16
+17
 00:03:26,190 --> 00:03:28,650
 Dikkatli ol, Luffy-kun.
 
-17
+18
 00:03:29,110 --> 00:03:32,610
 Bir ton et yedim.
 Çok fazla enerjim var!
 
-18
+19
 00:03:37,110 --> 00:03:38,030
 Bir daha...
 
-19
+20
 00:03:38,820 --> 00:03:40,910
 kaybetmeyeceğim!
 
-20
+21
 00:03:41,450 --> 00:03:45,120
 O yaralarla batan kumdan
 nasıl kaçabildi?
 
-21
+22
 00:03:51,250 --> 00:03:53,090
 Luffy yaşıyor!
 
-22
+23
 00:03:54,840 --> 00:03:56,050
 Tony-kun!
 
-23
+24
 00:03:56,050 --> 00:03:58,050
 N-N-N-Ne?!
 
-24
+25
 00:03:58,050 --> 00:03:59,470
 Luffy!
 
-25
+26
 00:03:59,470 --> 00:04:01,180
 Vivi de orada!
 
-26
+27
 00:04:02,180 --> 00:04:06,560
 Gö-Gördün mü?! Yaşadığını söylemiştim!
 Ondan hiç şüphe etmedim!
 
-27
+28
 00:04:06,560 --> 00:04:07,730
 Öyle mi?
 
-28
+29
 00:04:07,730 --> 00:04:10,520
 Yüzündeki ifadeye bakılırsa
 öyle düşünmüyordun.
 
-29
+30
 00:04:13,020 --> 00:04:14,860
 Usopp-san, Sanji-san!
 
-30
+31
 00:04:15,990 --> 00:04:17,860
 Oh! Ne oldu, Vivi-chan?!
 
-31
+32
 00:04:17,860 --> 00:04:19,570
 Çok kötü yaralanmışsın!
 
-32
+33
 00:04:20,030 --> 00:04:21,740
 Usopp!
 
-33
+34
 00:04:22,240 --> 00:04:24,740
 Nami-san, Bay Bushido...
 
-34
+35
 00:04:27,000 --> 00:04:29,210
 Herkes güvende!
 
-35
+36
 00:04:29,210 --> 00:04:33,800
 Parti numaraları için
 oyuncak yapmanı kim söyledi?!
 
-36
+37
 00:04:33,800 --> 00:04:35,880
 Ayakta durabildiğini biliyordum!
 
-37
+38
 00:04:35,880 --> 00:04:38,170
 Nami-swaan!
 
-38
+39
 00:04:38,170 --> 00:04:42,220
 A-Ama işini gördü, değil mi?
 
-39
+40
 00:04:42,220 --> 00:04:45,220
 Seninle sonra görüşeceğim!
 
-40
+41
 00:04:45,220 --> 00:04:46,060
 Vivi...
 
-41
+42
 00:04:47,100 --> 00:04:50,190
 Neler oluyor? Bu kum fırtınası da ne?!
 
-42
+43
 00:04:50,190 --> 00:04:50,940
 Evet...
 
-43
+44
 00:04:52,520 --> 00:04:54,150
 Hey, budala!
 
-44
+45
 00:04:54,150 --> 00:04:56,150
 Nami-san, nasıl yaralandı?!
 
-45
+46
 00:04:56,150 --> 00:04:57,480
 Seni öldüreceğim!
 
-46
+47
 00:04:57,480 --> 00:04:58,900
 Hiçbir şeyi yok!
 
-47
+48
 00:05:00,990 --> 00:05:03,740
 Chopper, bana bir iyilik yap.
 
-48
+49
 00:05:03,740 --> 00:05:06,370
 Lütfen bedenimi çöle gömer misin?
 
-49
+50
 00:05:06,990 --> 00:05:09,960
 Aniden ölümcül yaralarına yenik düştü!
 
-50
+51
 00:05:10,290 --> 00:05:11,870
 Üzgünüm, çocuklar.
 
-51
+52
 00:05:12,380 --> 00:05:15,590
 Ona karşı durdum ve yenildim.
 
-52
+53
 00:05:17,090 --> 00:05:18,550
 Bu yüzden bir daha...
 
-53
+54
 00:05:19,840 --> 00:05:20,970
 yenilmeyeceğim!
 
-54
+55
 00:05:20,970 --> 00:05:22,260
 Gerisi sizde!
 
-55
+56
 00:05:23,010 --> 00:05:24,720
 Bir an önce git.
 
-56
+57
 00:05:27,180 --> 00:05:29,350
 Sen onu yenemezsen...
 
-57
+58
 00:05:30,060 --> 00:05:32,600
 kim yenebilir?!
 
-58
+59
 00:05:38,570 --> 00:05:40,070
 Şuna kesin olarak...
 
-59
+60
 00:05:41,820 --> 00:05:43,240
 bir son verelim!
 
-60
+61
 00:05:43,240 --> 00:05:45,410
 – Evet!
 – Evet!
 
-61
+62
 00:05:50,500 --> 00:05:51,620
 Hepiniz...
 
-62
+63
 00:05:53,000 --> 00:05:56,460
 Burada hâlâ arkadaşlarım var.
 
-63
+64
 00:06:03,430 --> 00:06:06,680
 Seni piç!
 
-64
+65
 00:06:13,940 --> 00:06:19,570
 Kaç kez dövüşürsek dövüşelim,
 bana bir kez bile vuramayacaksın!
 
-65
+66
 00:06:19,980 --> 00:06:22,280
 Yine şişlenmek istiyorsun galiba.
 
-66
+67
 00:06:58,980 --> 00:07:00,230
 Lastik-Lastik...
 
-67
+68
 00:07:00,730 --> 00:07:02,650
 O da kim?!
 
-68
+69
 00:07:14,330 --> 00:07:16,670
 Yoksa o...?!
 
-69
+70
 00:07:16,670 --> 00:07:20,250
 Daire Testere!
 
-70
+71
 00:07:49,410 --> 00:07:51,240
 Crocodile'a vurdu!
 
-71
+72
 00:08:08,130 --> 00:08:09,760
 Vay vay...
 
-72
+73
 00:08:21,560 --> 00:08:22,690
 Ayağa kalk.
 
-73
+74
 00:08:24,530 --> 00:08:29,700
 Yuba suyunun eline dökülmesiyle her şey çözüldü.
 
-74
+75
 00:08:30,160 --> 00:08:34,080
 Su sana değerse kuma dönüşemezsin.
 
-75
+76
 00:08:35,870 --> 00:08:39,960
 Sudan korkuyorsun, değil mi? 
 Bu yüzden yağmuru çaldın.
 
-76
+77
 00:08:43,860 --> 00:08:46,210
 Şimdi seni mahvedebilirim.
 
-77
+78
 00:08:48,840 --> 00:08:50,970
 Gerçek dövüşe hazır ol.
 
-78
+79
 00:08:52,800 --> 00:08:54,010
 Ne dedin sen?!
 
-79
+80
 00:08:54,390 --> 00:08:56,850
 Meydan on dakika içinde
 bombalanacak mı?
 
-80
+81
 00:08:57,250 --> 00:08:58,450
 10 dakikada mı?!
 
-81
+82
 00:08:58,450 --> 00:09:00,100
 Bunu düşünecek vaktimiz yok!
 
-82
+83
 00:09:00,100 --> 00:09:03,150
 Ama 5 kilometre
 çapında bir patlamaysa...
 
-83
+84
 00:09:03,150 --> 00:09:07,610
 en azından 2,5 kilometre
 uzaktan atıyor olmalılar, değil mi?
 
-84
+85
 00:09:07,610 --> 00:09:09,110
 Hayır, öyle değil.
 
-85
+86
 00:09:09,110 --> 00:09:13,030
 Bombacılar daha çok
 meydana yakın olacak gibi!
 
-86
+87
 00:09:13,030 --> 00:09:15,200
 Ne?! Neden?!
 
-87
+88
 00:09:15,200 --> 00:09:18,200
 Öyleyse, bombacılar da
 herkesle birlikte havaya uçacak!
 
-88
+89
 00:09:18,200 --> 00:09:21,290
 Crocodile böyle bir adam.
 
-89
+90
 00:09:21,290 --> 00:09:23,750
 Kendi adamlarını mı öldürtecek?!
 
-90
+91
 00:09:26,500 --> 00:09:28,460
 Kurnaz piç...
 
-91
+92
 00:09:28,840 --> 00:09:30,470
 Acele etsek iyi olur.
 
-92
+93
 00:09:40,810 --> 00:09:43,020
 Seni bulduk, Prenses Vivi!
 
-93
+94
 00:09:43,020 --> 00:09:46,650
 Ölümün bize büyük bir terfi sağlayacak!
 
-94
+95
 00:09:48,030 --> 00:09:49,490
 Milyarlar!
 
-95
+96
 00:09:49,820 --> 00:09:51,820
 On dakika kaç saniyedir?
 
-96
+97
 00:09:51,820 --> 00:09:54,570
 Hey, hey! Bunu bile
 konuşacak zamanımız yok!
-
-97
-00:09:55,280 --> 00:09:56,280
-2 saniye!
 
 98
 00:09:55,280 --> 00:09:56,280

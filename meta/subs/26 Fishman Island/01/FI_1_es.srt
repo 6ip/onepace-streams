@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,187 +146,192 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
+00:02:30,040 --> 00:02:37,560
+¡En las profundidades!
+El Kraken y los Piratas Caribou
+
+38
 00:02:39,720 --> 00:02:43,650
 ARCHIPIÉLAGO SABAODY
 
-38
+39
 00:04:09,570 --> 00:04:13,930
 LUGAR DE REUNIÓN DE LOS FALSOS SOMBRERO DE PAJA
 
-39
+40
 00:05:25,270 --> 00:05:27,650
 ¡Oye! ¡Qué buen barco tienes!
 
-40
+41
 00:05:27,650 --> 00:05:31,730
 Pues es robado, mi casa se quemó y ahora vivo aquí.
 
-41
+42
 00:05:31,730 --> 00:05:33,960
 Ya veo, ¿cómo te llamas?
 
-42
+43
 00:05:33,960 --> 00:05:35,350
 Rayleigh.
 
-43
+44
 00:05:36,220 --> 00:05:41,320
 ¡Yo soy Roger! ¡Este encuentro 
 es obra del destino, Rayleigh!
 
-44
+45
 00:05:41,320 --> 00:05:44,760
 ¿Por qué no ponemos el mundo patas arriba?
 
-45
+46
 00:05:46,260 --> 00:05:47,870
 ¿El mundo?
 
-46
+47
 00:05:48,580 --> 00:05:51,110
 ¿Quién te has creído que eres?
 
-47
+48
 00:05:51,110 --> 00:05:52,130
 Vete.
 
-48
+49
 00:06:17,250 --> 00:06:20,600
 EN EL FONDO MARINO CERCA DEL ARCHIPIÉLAGO SABAODY
 
-49
+50
 00:07:57,890 --> 00:08:00,840
 ¡Se mueve! ¡Una preciosidad de carne y hueso!
 
-50
+51
 00:08:00,840 --> 00:08:02,390
 ¡Sanji!
 
-51
+52
 00:08:06,870 --> 00:08:08,610
 ¡¿Qué?!
 
-52
+53
 00:08:08,610 --> 00:08:10,770
 ¡Sanji ha salido al agua!
 
-53
+54
 00:08:17,390 --> 00:08:20,210
 ¡Ánimo!
 
-54
+55
 00:09:33,610 --> 00:09:36,220
 ¡Miren detrás!
 
-55
+56
 00:10:09,450 --> 00:10:11,600
 ¡¿Qué va a ser de nosotros?!
 
-56
+57
 00:11:03,680 --> 00:11:05,810
 ¿Tus secretos robóticos?
 
-57
+58
 00:11:10,150 --> 00:11:12,680
 ¡Oh, impresionante! ¡Habla como un robot!
 
-58
+59
 00:12:07,510 --> 00:12:09,110
 Te estaba esperando.
 
-59
+60
 00:12:10,580 --> 00:12:12,810
 ¡Maldito! ¡¿Qué haces tú aquí?!
 
-60
+61
 00:12:13,860 --> 00:12:17,250
 Misión cumplida.
 
-61
+62
 00:12:27,790 --> 00:12:30,800
 Soy un dirigente del Ejército Revolucionario.
 
-62
+63
 00:12:30,800 --> 00:12:34,340
 Tengo razones por las que deseo
  que esta tripulación escape.
 
-63
+64
 00:12:48,110 --> 00:12:50,580
 Ya no...
 
-64
+65
 00:12:50,580 --> 00:12:52,590
 ...me queda tiempo.
 
-65
+66
 00:14:02,590 --> 00:14:04,130
 Kuma...
 
-66
+67
 00:15:54,050 --> 00:15:55,370
 ¡Sí! ¡Sí!
 
-67
+68
 00:16:17,400 --> 00:16:18,460
 ¡Sí!
 
-68
+69
 00:16:25,820 --> 00:16:27,230
 ¡Sí!
 
-69
+70
 00:16:33,370 --> 00:16:34,250
 ¡¿Qué?!
 
-70
+71
 00:16:57,830 --> 00:16:58,930
 ¡Sí!
 
-71
+72
 00:17:00,170 --> 00:17:01,570
 ¿Vaca marina?
 
-72
+73
 00:17:11,860 --> 00:17:13,080
 ¡Sí!
 
-73
+74
 00:17:27,170 --> 00:17:29,680
 ¡Muere, maldito!
 
-74
+75
 00:17:29,680 --> 00:17:32,220
 ¡Gomu Gomu no Pistol!
 
-75
+76
 00:17:37,570 --> 00:17:38,280
 ¡Sí!
 
-76
+77
 00:17:45,660 --> 00:17:46,920
 ¡Sí!
 
-77
+78
 00:18:01,240 --> 00:18:02,310
 ¡Sí!
 
-78
+79
 00:18:08,280 --> 00:18:11,340
 ¡¿Qué?!
 
-79
+80
 00:19:09,770 --> 00:19:11,970
 ¡¿Eh?! ¡Roronoa Zoro!
 
-80
+81
 00:22:41,970 --> 00:22:43,580
 ¡¿Dos mil años?!
 
-81
+82
 00:23:18,180 --> 00:23:21,570
 Así que es una corriente marina misteriosa.
 
-82
+83
 00:25:35,690 --> 00:25:37,160
 ¿Eh?

@@ -1,1346 +1,1340 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
 2
+00:01:56,680 --> 00:02:02,100
+Tuhannen metkun Kuro
+
+3
 00:01:57,260 --> 00:01:58,350
 Mitä se oli?!
 
-3
+4
 00:01:58,350 --> 00:01:59,640
 Mitä se teki?!
 
-4
+5
 00:01:59,640 --> 00:02:02,100
 Kuin käsi olisi venynyt!
 
-5
+6
 00:02:00,730 --> 00:02:02,100
 Ihan oikeasti nyt!
 
-6
+7
 00:02:02,100 --> 00:02:05,650
 Mojautti Kapteeni Kuron
 perseelleensä!
 
-7
+8
 00:02:23,040 --> 00:02:24,620
 Nyt on sinun vuorosi...
 
-8
+9
 00:02:26,540 --> 00:02:28,460
 Aarre on vastuullani!
 
-9
+10
 00:02:29,710 --> 00:02:34,930
 – Usoppin merirosvot on täällä!
 – Usoppin merirosvot on täällä!
 
-10
+11
 00:02:35,590 --> 00:02:36,340
 Tyypit!
 
-11
+12
 00:02:36,340 --> 00:02:37,350
 Pysykää kaukana!
 
-12
+13
 00:02:37,890 --> 00:02:39,510
 Nirri pois, hovimonsteri!
 
-13
+14
 00:02:40,520 --> 00:02:41,770
 Oikeuden lapio iskee!
 
-14
+15
 00:02:42,180 --> 00:02:45,060
 Senkin kylää uhkaava rosmo...!
 
-15
+16
 00:02:43,890 --> 00:02:45,810
 L-Lopettakaa!
 
-16
+17
 00:02:47,060 --> 00:02:50,110
 Tajuatteko mitä oikein teette?!
 
-17
+18
 00:02:51,280 --> 00:02:53,110
 Mitä nuo ipanat meinaa?!
 
-18
+19
 00:02:53,110 --> 00:02:56,780
 Riittää jo... Tyypit... Seis!
 
-19
+20
 00:03:00,200 --> 00:03:03,330
 Ookoo! Selviät nyt tällä!
 
-20
+21
 00:03:05,960 --> 00:03:10,420
 Nyt se hermostuu lopullisesti!
 
-21
+22
 00:03:12,050 --> 00:03:13,970
 Kapteeni, me arvattiin!
 
-22
+23
 00:03:13,970 --> 00:03:15,720
 Olitte oikeasti taistelussa!
 
-23
+24
 00:03:15,720 --> 00:03:17,840
 Miks ette kertoneet?!
 
-24
+25
 00:03:17,840 --> 00:03:19,220
 Me proteesoidaan!
 
-25
+26
 00:03:19,220 --> 00:03:21,430
 Eikä! Vaan "protestoidaan"!
 
-26
+27
 00:03:21,430 --> 00:03:22,770
 Profetoikaa vaikka!
 
-27
+28
 00:03:23,430 --> 00:03:25,890
 Mutta häipykää täältä!
 
-28
+29
 00:03:25,890 --> 00:03:27,230
 Paetkaa!
 
-29
+30
 00:03:27,980 --> 00:03:28,980
 Ei me haluta!
 
-30
+31
 00:03:28,980 --> 00:03:30,980
 Mekin taistellaan!
 
-31
+32
 00:03:30,980 --> 00:03:34,150
 Ettei häpäistä Usoppin merirosvoj–
 
-32
+33
 00:03:44,660 --> 00:03:48,000
 Paetkaa nyt vain, pöntöt!
 
-33
+34
 00:04:00,390 --> 00:04:01,890
 – Kapteeni!
 – Kapteeni!
 
-34
+35
 00:04:06,520 --> 00:04:08,900
 Se tuntui jo hiukan.
 
-35
+36
 00:04:08,900 --> 00:04:12,860
 Melko epätavallinen tapa taistella...
 
-36
+37
 00:04:12,860 --> 00:04:14,280
 Kykysi lienee peräisin...
 
-37
+38
 00:04:14,650 --> 00:04:16,940
 pirunmarjasta!
 
-38
+39
 00:04:17,320 --> 00:04:19,950
 Jeps. Söin gumigumimarjan!
 
-39
+40
 00:04:21,570 --> 00:04:22,910
 Mä olen kumimies!
 
-40
+41
 00:04:22,910 --> 00:04:24,580
 Mitäh?! Pirunmarja?!
 
-41
+42
 00:04:24,580 --> 00:04:25,870
 Hän on vaarallinen!
 
-42
+43
 00:04:25,870 --> 00:04:27,330
 Niitä siis on ihan oikeesti?!
 
-43
+44
 00:04:27,330 --> 00:04:28,750
 Aattelinkin että toi on outo!
 
-44
+45
 00:04:28,750 --> 00:04:31,130
 Vai että kumimies.
 
-45
+46
 00:04:31,130 --> 00:04:34,380
 Joten käden venyminen
 ei ollut hallusinaationi...
 
-46
+47
 00:04:35,800 --> 00:04:36,590
 Jango!
 
-47
+48
 00:04:36,590 --> 00:04:37,420
 N-No?
 
-48
+49
 00:04:37,420 --> 00:04:40,260
 Minä hoidan tuon pojun.
 
-49
+50
 00:04:40,260 --> 00:04:43,050
 Jätän sinulle Kaya-neidin.
 
-50
+51
 00:04:43,890 --> 00:04:46,890
 Teetä hänellä testamentti...
 
-51
+52
 00:04:47,230 --> 00:04:48,850
 ja tapa sitten!
 
-52
+53
 00:04:49,690 --> 00:04:52,100
 Ja nuo itikat...
 
-53
+54
 00:04:52,610 --> 00:04:53,610
 Ne häiritsevät!
 
-54
+55
 00:04:56,530 --> 00:04:58,190
 Homma hoituu.
 
-55
+56
 00:05:02,490 --> 00:05:03,660
 Seis.
 
-56
+57
 00:05:04,330 --> 00:05:07,500
 Nyt on niin, että tästä ei sovi mennä.
 
-57
+58
 00:05:07,500 --> 00:05:09,830
 Laikku!
 
-58
+59
 00:05:12,460 --> 00:05:15,960
 Surmantassu!
 
-59
+60
 00:05:16,340 --> 00:05:17,760
 Taas tuo!
 
-60
+61
 00:05:51,000 --> 00:05:53,960
 Se on eri luokkaa ku äsken...
 
-61
+62
 00:05:55,460 --> 00:05:56,420
 Samperi!
 
-62
+63
 00:05:57,040 --> 00:05:58,710
 Himputti...
 
-63
+64
 00:06:00,210 --> 00:06:02,380
 Päässä pyörii...
 
-64
+65
 00:06:02,380 --> 00:06:05,050
 Himputti... Himputti...
 
-65
+66
 00:06:05,050 --> 00:06:06,930
 Samperi...
 
-66
+67
 00:06:06,930 --> 00:06:11,520
 Usoppin merirosvot!
 
-67
+68
 00:06:12,390 --> 00:06:14,850
 – T-Tässä!
 – T-Tässä!
 
-68
+69
 00:06:14,850 --> 00:06:16,400
 Kuulkaa kapteenianne!
 
-69
+70
 00:06:17,110 --> 00:06:18,520
 Me ei kyllä paeta!
 
-70
+71
 00:06:18,520 --> 00:06:20,320
 Ei tämän jälkeen...
 
-71
+72
 00:06:20,320 --> 00:06:22,320
 Kostamme puolestanne!
 
-72
+73
 00:06:22,700 --> 00:06:24,570
 Suojelkaa Kayaa!
 
-73
+74
 00:06:27,200 --> 00:06:29,830
 Kulkaa tarkkaan!
 
-74
+75
 00:06:29,830 --> 00:06:31,450
 Jätän vastuullenne...
 
-75
+76
 00:06:31,450 --> 00:06:37,080
 Jätän vastuullenne tärkeimmän tehtävän!
 
-76
+77
 00:06:37,080 --> 00:06:40,090
 Viekää Kaya turvaan, pois täältä!
 
-77
+78
 00:06:40,090 --> 00:06:42,010
 Katsokaakin että onnistutte!
 
-78
+79
 00:06:42,010 --> 00:06:46,090
 Tämän takia muodostimme
 piraattiryhmämme;
 
-79
+80
 00:06:46,090 --> 00:06:50,100
 suojellaksemme meille tärkeitä asioita!
 
-80
+81
 00:06:52,430 --> 00:06:53,850
 Usopp...
 
-81
+82
 00:06:58,940 --> 00:07:02,320
 Tämä on kapteeninne määräys!
 
-82
+83
 00:07:02,320 --> 00:07:05,280
 – Selvä on, Kapteeni!
 – Selvä on, Kapteeni!
 
-83
+84
 00:07:05,280 --> 00:07:06,610
 Vauhdilla, Kaya-neiti!
 
-84
+85
 00:07:06,610 --> 00:07:07,740
 Tänne päin! Tänne!
 
-85
+86
 00:07:07,070 --> 00:07:07,740
 Tänne päin!
 
-86
+87
 00:07:08,370 --> 00:07:10,700
 Osaa asettaa sanansa...
 
-87
+88
 00:07:10,700 --> 00:07:12,750
 Toisin sanoen: Paetkaa...!
 
-88
+89
 00:07:12,750 --> 00:07:15,290
 Tunnemme metsikön kuin taskumme!
 
-89
+90
 00:07:15,290 --> 00:07:16,170
 Selvä...
 
-90
+91
 00:07:19,340 --> 00:07:20,290
 Jango!
 
-91
+92
 00:07:20,290 --> 00:07:22,340
 Aah, lumouduin!
 
-92
+93
 00:07:22,760 --> 00:07:25,930
 Tohlot! Turha luulo paet–
 
-93
+94
 00:07:31,140 --> 00:07:32,100
 Pure tomua!
 
-94
+95
 00:07:32,520 --> 00:07:34,230
 Mokoma urvelo!
 
-95
+96
 00:07:34,230 --> 00:07:36,640
 Painu nyt heidän peräänsä, hölmö!
 
-96
+97
 00:07:39,230 --> 00:07:40,310
 Hyvä on!
 
-97
+98
 00:07:42,780 --> 00:07:44,690
 Turha yritys...
 
-98
+99
 00:07:45,240 --> 00:07:49,120
 Tunnen hyvin Kayan kunnon.
 
-99
+100
 00:07:49,120 --> 00:07:52,120
 He eivät karkaa Jangolta.
 
-100
+101
 00:07:52,990 --> 00:07:55,250
 Sopii mennä auttamaan.
 
-101
+102
 00:07:56,710 --> 00:08:00,920
 Jos siis pääsette mäen ylös hengissä.
 
-102
+103
 00:08:06,300 --> 00:08:07,760
 Laikku!
 
-103
+104
 00:08:09,300 --> 00:08:13,140
 Hävisit jo kerran!
 
-104
+105
 00:08:13,140 --> 00:08:16,980
 Lakkaa haaskaamasta aikaani!
 
-105
+106
 00:08:17,390 --> 00:08:19,230
 Hus siitä!
 
-106
+107
 00:09:02,690 --> 00:09:05,480
 Näkyykö sitä hypnotisoijaa?!
 
-107
+108
 00:09:05,480 --> 00:09:07,150
 Ei! Ei näy!
 
-108
+109
 00:09:07,150 --> 00:09:08,940
 Eksytetään se!
 
-109
+110
 00:09:08,940 --> 00:09:12,450
 Meilläpäs on kotikenttäetu!
 
-110
+111
 00:09:12,990 --> 00:09:14,490
 Ei huolta, Kaya-neiti!
 
-111
+112
 00:09:14,490 --> 00:09:16,660
 Me suojelemme teitä!
 
-112
+113
 00:09:16,990 --> 00:09:20,000
 Tosi on! Usopp-merirosvojen
 kunnian kautta!
 
-113
+114
 00:09:22,000 --> 00:09:23,330
 Kiitos teille...
 
-114
+115
 00:09:46,570 --> 00:09:48,070
 Eipä näy...
 
-115
+116
 00:09:49,280 --> 00:09:51,570
 Missä lymyilette, natiaiset?!
 
-116
+117
 00:09:52,320 --> 00:09:54,700
 Älkää kuvitelko livistävänne multa!
 
-117
+118
 00:09:58,040 --> 00:10:03,040
 Jos sille päälle satun,
 parturoin vaikka koko pöppelikön!
 
-118
+119
 00:10:03,040 --> 00:10:04,250
 Oho...
 
-119
+120
 00:10:04,250 --> 00:10:06,500
 Tosi raivona...
 
-120
+121
 00:10:06,500 --> 00:10:09,760
 Eikö hän olekaan pelkkä hypnotisti?!
 
-121
+122
 00:10:14,220 --> 00:10:16,430
 Minne livahditte?
 
-122
+123
 00:10:17,510 --> 00:10:18,510
 Tuonne!
 
-123
+124
 00:10:26,230 --> 00:10:28,480
 M-Mikä ääni tuo oli?!
 
-124
+125
 00:10:28,480 --> 00:10:29,860
 Sen kun tietäs.
 
-125
+126
 00:10:29,860 --> 00:10:32,110
 Jango varmaan pistää ranttaliksi.
 
-126
+127
 00:10:32,110 --> 00:10:34,570
 Mene toki katsomaan.
 
-127
+128
 00:10:34,950 --> 00:10:39,540
 Voi tosin olla myöhäistä...
 
-128
+129
 00:10:41,540 --> 00:10:43,000
 Etkö sä...
 
-129
+130
 00:10:43,330 --> 00:10:46,460
 tunne yhtään sääliä?!
 
-130
+131
 00:10:46,460 --> 00:10:48,590
 Vaikka olitte kolme vuotta yhdessä?!
 
-131
+132
 00:10:48,590 --> 00:10:49,750
 En.
 
-132
+133
 00:10:49,750 --> 00:10:53,970
 Kaya on pelkkä pelinappula.
 
-133
+134
 00:10:53,970 --> 00:10:58,430
 Kun hän kuolee, tunnen
 ehkä hiukan kiitollisuutta.
 
-134
+135
 00:10:59,050 --> 00:11:01,350
 Sinä senkin...
 
-135
+136
 00:11:01,350 --> 00:11:03,600
 Tuo ei ansaitse armoa...
 
-136
+137
 00:11:03,600 --> 00:11:05,900
 En kyllä meinannut armahtaakaan.
 
-137
+138
 00:11:07,150 --> 00:11:08,860
 Usopp!
 
-138
+139
 00:11:10,270 --> 00:11:12,780
 Mee auttamaan niitä!
 
-139
+140
 00:11:13,780 --> 00:11:16,280
 Me hoidetaan täällä!
 
-140
+141
 00:11:17,160 --> 00:11:18,570
 Jätä tää paikka meille!
 
-141
+142
 00:11:28,580 --> 00:11:32,920
 Ai voit vielä liikkua? Merkillistä.
 
-142
+143
 00:11:32,920 --> 00:11:34,420
 Hiljaa!
 
-143
+144
 00:11:34,420 --> 00:11:36,180
 En todellakaan...
 
-144
+145
 00:11:36,180 --> 00:11:38,970
 päästä sinua pälkähästä!
 
-145
+146
 00:11:39,850 --> 00:11:44,930
 Petit koko kylän, petit Kayan tunteet!
 
-146
+147
 00:11:46,100 --> 00:11:50,860
 En anna sinun juonia enempää!
 
-147
+148
 00:11:52,230 --> 00:11:53,320
 Usopp!
 
-148
+149
 00:11:56,820 --> 00:11:59,030
 He-Hemmetti...
 
-149
+150
 00:11:59,030 --> 00:12:02,950
 En pysty liikkumaan...
 
-150
+151
 00:12:05,660 --> 00:12:09,250
 Sinusta riittää hupia!
 
-151
+152
 00:12:09,580 --> 00:12:12,670
 Lienee parempi makoilla siinä.
 
-152
+153
 00:12:13,250 --> 00:12:16,510
 Et sinä Jangolle pärjäisi kuitenkaan,
 
-153
+154
 00:12:16,510 --> 00:12:19,300
 vaikka menisitkin.
 
-154
+155
 00:12:19,300 --> 00:12:21,800
 Tämä on sinulle turvallisinta!
 
-155
+156
 00:12:22,970 --> 00:12:24,640
 Vaikken pärjäisikään...
 
-156
+157
 00:12:26,100 --> 00:12:29,350
 Vaikka se rökittäisi mut...
 
-157
+158
 00:12:29,350 --> 00:12:32,520
 Mä suojelen silti!
 
-158
+159
 00:12:32,690 --> 00:12:35,990
 Mä olen Usoppin merirosvojen kapteeni,
 
-159
+160
 00:12:35,990 --> 00:12:39,070
 ja musta tulee uljas merten soturi!
 
-160
+161
 00:12:39,700 --> 00:12:47,500
 En anna teidän koskeakaan kyläläisiin!
 
-161
+162
 00:12:50,620 --> 00:12:52,840
 Mikä hänelle tuli?
 
-162
+163
 00:12:51,380 --> 00:12:52,840
 Uhoaa jotain!
 
-163
+164
 00:12:52,840 --> 00:12:55,300
 Ja pillittää!
 
-164
+165
 00:13:08,180 --> 00:13:09,890
 Mikä naurattaa?!
 
-165
+166
 00:13:12,690 --> 00:13:13,650
 Luffy!
 
-166
+167
 00:13:14,230 --> 00:13:17,610
 Otan Usoppin kantoon ja meen
 hypno-tyypin perään! Haittaako?!
 
-167
+168
 00:13:17,610 --> 00:13:19,570
 Ei lainkaan! Ala painua!
 
-168
+169
 00:13:19,570 --> 00:13:21,820
 S-Sori...
 
-169
+170
 00:13:21,820 --> 00:13:26,080
 Yksin pääsisin nopeemmin,
 mutta ne on metsikössä.
 
-170
+171
 00:13:26,080 --> 00:13:29,290
 Ilman opastusta ei taida onnistua.
 
-171
+172
 00:13:29,290 --> 00:13:31,290
 Te siinä.
 
-172
+173
 00:13:31,290 --> 00:13:34,540
 Kenen luvalla te nousette mäkeä?
 
-173
+174
 00:13:34,880 --> 00:13:36,170
 Mun luvalla!
 
-174
+175
 00:13:37,500 --> 00:13:39,130
 Zoro, Usopp, menkää!
 
-175
+176
 00:13:41,220 --> 00:13:42,130
 Vielä yksi!
 
-176
+177
 00:13:48,600 --> 00:13:53,190
 Gumigumikeihäs!
 
-177
+178
 00:13:53,190 --> 00:13:54,900
 Kökkö! Taas katosi!
 
-178
+179
 00:13:57,320 --> 00:14:00,530
 No, pääsipä kaverit matkaan!
 
-179
+180
 00:14:00,530 --> 00:14:04,160
 Ennen kuin aloitan, kerro...
 
-180
+181
 00:14:04,160 --> 00:14:08,620
 Miksi sinä, muukalainen,
 työnnät nenäsi tähän?!
 
-181
+182
 00:14:09,830 --> 00:14:13,080
 Koska tässä kylässä on heppu,
 jonka en tahdo kuolevan.
 
-182
+183
 00:14:13,920 --> 00:14:15,540
 Yksinkertaista.
 
-183
+184
 00:14:15,540 --> 00:14:18,920
 Riittääkö tuo?
 Syyksi kuolla, siis.
 
-184
+185
 00:14:18,920 --> 00:14:20,630
 Riittää se!
 
-185
+186
 00:14:20,630 --> 00:14:22,010
 Vaikka mä en kuolekaan!
 
-186
+187
 00:14:22,510 --> 00:14:24,470
 Varmistan että kuolet!
 
-187
+188
 00:14:31,430 --> 00:14:34,230
 Gumigumiruoska!
 
-188
+189
 00:14:35,190 --> 00:14:36,940
 Ja Pyssy!
 
-189
+190
 00:14:42,900 --> 00:14:44,410
 Unettavan verkkaista!
 
-190
+191
 00:14:44,410 --> 00:14:46,700
 Samperin kutale!
 
-191
+192
 00:14:52,540 --> 00:14:56,330
 Hei! Itään! Sanoin itään!
 
-192
+193
 00:14:56,330 --> 00:14:58,590
 Jaa minne?! Vasen vai oikea?!
 
-193
+194
 00:14:58,590 --> 00:15:00,090
 No siinä tapauksessa oikea!
 
-194
+195
 00:15:00,090 --> 00:15:01,300
 Jaa ympärikö?!
 
-195
+196
 00:15:04,630 --> 00:15:06,220
 Kaya-neiti!
 
-196
+197
 00:15:08,220 --> 00:15:09,970
 Anteeksi...
 
-197
+198
 00:15:09,970 --> 00:15:11,810
 Menkää edeltä...
 
-198
+199
 00:15:11,810 --> 00:15:12,930
 Ja pahkat!
 
-199
+200
 00:15:12,930 --> 00:15:16,060
 Meidän tehtävä on suojella teitä!
 
-200
+201
 00:15:17,400 --> 00:15:19,230
 Voi ei! Hänellä on kuumetta!
 
-201
+202
 00:15:19,230 --> 00:15:21,320
 Täh?! Koita kestää, Kaya-neiti!
 
-202
+203
 00:15:21,320 --> 00:15:22,440
 Lääkäriin... ja äkkiä!
 
-203
+204
 00:15:22,440 --> 00:15:24,820
 Pöllö, ei me keritä!
 
-204
+205
 00:15:24,820 --> 00:15:26,610
 Meitä jahdataan!
 
-205
+206
 00:15:27,110 --> 00:15:29,450
 Mutta ei voida juoksuttaa sairasta!
 
-206
+207
 00:15:29,450 --> 00:15:30,740
 Silti...
 
-207
+208
 00:15:30,740 --> 00:15:33,120
 Missä piileksitte, pikkuiset?!
 
-208
+209
 00:15:40,960 --> 00:15:42,420
 Kiitos...
 
-209
+210
 00:15:42,420 --> 00:15:44,090
 Olen kiitollinen avustanne...
 
-210
+211
 00:15:44,800 --> 00:15:47,430
 Pelkkä ajatus riittää...
 
-211
+212
 00:15:47,430 --> 00:15:49,180
 Paetkaa te kolme.
 
-212
+213
 00:15:50,800 --> 00:15:52,720
 Missä luuraatte?
 
-213
+214
 00:15:54,850 --> 00:15:59,520
 Jos jätetään Kaya-neiti
 ja paetaan, me varmaan selvitään.
 
-214
+215
 00:15:59,520 --> 00:16:01,860
 Niin, varmaan.
 
-215
+216
 00:16:01,860 --> 00:16:07,200
 Kapteenimme aina sanoi pakene
 häntä koipien välissä jos meinaa hävitä...
 
-216
+217
 00:16:07,200 --> 00:16:09,870
 Mutta kapteenimmehan on valehtelija!
 
-217
+218
 00:16:12,030 --> 00:16:14,620
 Jopa hän taisteli!
 
-218
+219
 00:16:14,620 --> 00:16:17,710
 Hän yritti niin suojella meitä!
 
-219
+220
 00:16:20,210 --> 00:16:22,500
 Emme anna Kaya-neidin kuolla!
 
-220
+221
 00:16:22,880 --> 00:16:25,920
 Selvä sitten! Valmistautukaa,
 Usopp-merirosvot!
 
-221
+222
 00:16:25,920 --> 00:16:26,760
 Juu!
 
-222
+223
 00:16:26,760 --> 00:16:28,220
 Ei auta ku tapella!
 
-223
+224
 00:16:28,220 --> 00:16:29,340
 Ei!
 
-224
+225
 00:16:29,340 --> 00:16:31,600
 Olette vasta lapsia!
 
-225
+226
 00:16:31,600 --> 00:16:34,180
 Ette saa kuolla vuokseni!
 
-226
+227
 00:16:34,180 --> 00:16:35,810
 Emme me kuole.
 
-227
+228
 00:16:35,810 --> 00:16:37,180
 Taistelemme selviytyäksemme!
 
-228
+229
 00:16:38,390 --> 00:16:40,060
 Kökkö...
 
-229
+230
 00:16:40,600 --> 00:16:41,810
 Huuli halkesi...
 
-230
+231
 00:16:42,270 --> 00:16:46,150
 Vaikka olkihattu-jätkä on himmeen vahva...
 
-231
+232
 00:16:46,150 --> 00:16:49,070
 K-Kapteeni Kuro vetelee sitä kuonoon!
 
-232
+233
 00:16:49,820 --> 00:16:51,620
 Antaa mennä vaan!
 
-233
+234
 00:16:51,620 --> 00:16:53,240
 Eläköön Kapteeni Kuro!
 
-234
+235
 00:16:52,320 --> 00:16:53,240
 Kapteeni Kuro!
 
-235
+236
 00:16:53,240 --> 00:16:55,790
 Olette mahtava, Kapteeni Kuro!
 
-236
+237
 00:16:55,790 --> 00:16:58,750
 Älkää kiljuko sitä nimeä!
 
-237
+238
 00:17:00,710 --> 00:17:03,710
 Ette tajua vieläkään!
 
-238
+239
 00:17:03,710 --> 00:17:10,220
 Koko tämä suunnitelma syntyi,
 jotta pääsisin eroon tuosta nimestä!
 
-239
+240
 00:17:11,430 --> 00:17:13,510
 Minä väsyin...
 
-240
+241
 00:17:14,100 --> 00:17:20,100
 Täytyi ohjata sakkia, jonka päähän
 ei mahdu kuin rellestäminen...
 
-241
+242
 00:17:20,100 --> 00:17:24,610
 Palkkionmetsästäjät ja
 valtion verikoirat perässä...
 
-242
+243
 00:17:24,610 --> 00:17:29,110
 Hemmetin rasittavaa!
 
-243
+244
 00:17:32,860 --> 00:17:34,950
 Vai että merivoimat...
 
-244
+245
+00:17:35,160 --> 00:17:40,040
+Tuhannen metkun Kuro
+(3 vuotta sitten)
+
+246
 00:17:35,700 --> 00:17:39,330
 Jo kolmatta kertaa tällä viikolla...
 
-245
+247
 00:17:40,040 --> 00:17:42,080
 Ei voi mitään.
 
-246
+248
 00:17:42,080 --> 00:17:45,670
 Ollaan tehty melkoisesti rikoksia.
 
-247
+249
 00:17:45,670 --> 00:17:48,340
 Lisäksi oot hankkinut mainetta...
 
-248
+250
 00:17:48,340 --> 00:17:49,760
 Niinpä...
 
-249
+251
 00:17:49,760 --> 00:17:53,260
 Ja se maine vetää noita peräämme.
 
-250
+252
 00:17:53,260 --> 00:17:57,810
 Siksi aion lakata olemasta Kapteeni Kuro.
 
-251
+253
 00:17:59,520 --> 00:18:02,190
 Puhut hassuja.
 
-252
+254
 00:18:02,770 --> 00:18:04,150
 Mutta ei auta.
 
-253
+255
 00:18:04,150 --> 00:18:07,520
 Merivoimat jahtaa sua kuolemaasi saakka.
 
-254
+256
 00:18:11,740 --> 00:18:14,200
 Siispä minä kuolen.
 
-255
+257
 00:18:15,570 --> 00:18:19,870
 Merirosvoilu ei näköjään sovi minulle...
 
-256
+258
 00:18:19,870 --> 00:18:23,000
 Mutta... Sä olet kapteeni!
 
-257
+259
 00:18:23,000 --> 00:18:25,750
 Sinä voit hoitaa sen viran.
 
-258
+260
 00:18:25,750 --> 00:18:29,880
 Elämä on liian rauhatonta näin.
 
-259
+261
 00:18:32,470 --> 00:18:36,470
 Tapan itseni yhteiskunnalle!
 
-260
+262
 00:18:37,220 --> 00:18:38,310
 Kapteeni Kuro!
 
-261
+263
 00:18:38,310 --> 00:18:39,220
 Kapteeni...
 
-262
+264
 00:18:39,220 --> 00:18:40,180
 Kapteeni!
 
-263
+265
 00:18:40,180 --> 00:18:41,930
 Montako alusta?
 
-264
+266
 00:18:41,930 --> 00:18:43,600
 Y-Yksi vain!
 
-265
+267
 00:18:43,600 --> 00:18:45,100
 Mitäs tehdään, kapteeni?
 
-266
+268
 00:18:45,100 --> 00:18:47,310
 Ammutaanko takaisin?
 
-267
+269
 00:18:47,310 --> 00:18:49,730
 Laskekaa vene.
 
-268
+270
 00:18:49,730 --> 00:18:50,820
 Hä?!
 
-269
+271
 00:18:50,820 --> 00:18:51,940
 Laskekaa se!
 
-270
+272
 00:18:55,740 --> 00:18:57,660
 Perämies Jango!
 Kapteeni Kuro juuri...
 
-271
+273
 00:18:57,660 --> 00:18:58,990
 Tiedän kyllä.
 
-272
+274
 00:18:58,990 --> 00:18:59,910
 Miten niin tiedät?!
 
-273
+275
 00:18:59,910 --> 00:19:02,450
 Tuonne on liian vaarallista mennä yksin!
 
-274
+276
 00:19:02,450 --> 00:19:05,210
 Eihän se aio antautua?!
 
-275
+277
 00:19:20,010 --> 00:19:22,390
 Mitä?! Eivät ammu enää...
 
-276
+278
 00:19:22,930 --> 00:19:24,560
 Telakoikaa laiva.
 
-277
+279
 00:19:24,560 --> 00:19:25,890
 M-Mutta...
 
-278
+280
 00:19:25,890 --> 00:19:28,310
 Tehkää nyt vain kuten sanon!
 
-279
+281
 00:19:28,310 --> 00:19:29,480
 S-Selvä!
 
-280
+282
 00:19:29,480 --> 00:19:31,570
 Hei, taisteluvalmiuteen!
 
-281
+283
 00:19:30,230 --> 00:19:31,570
 Ymmärrän...
 
-282
+284
 00:19:31,570 --> 00:19:33,740
 Lähestykää laivaa!
 
-283
+285
 00:19:31,570 --> 00:19:33,740
 Sen takia, siis...
 
-284
+286
 00:19:45,410 --> 00:19:47,750
 M-Merivoimat...
 
-285
+287
 00:19:47,750 --> 00:19:50,000
 Jokainen raatoina!
 
-286
+288
 00:19:53,710 --> 00:19:55,630
 Kas niin...
 
-287
+289
 00:19:56,300 --> 00:19:59,140
 Suunnitelman ensimmäinen vaihe...!
 
-288
+290
 00:20:03,310 --> 00:20:06,390
 Hei, nyt. Herätys.
 
-289
+291
 00:20:06,390 --> 00:20:09,560
 Jätin sinut kiltisti henkiinkin...
 
-290
+292
 00:20:09,560 --> 00:20:12,570
 I-Iho umpeen...
 
-291
+293
 00:20:12,570 --> 00:20:15,530
 E-En anele armoa...
 
-292
+294
 00:20:16,320 --> 00:20:19,360
 Tapa jos tahdot...
 
-293
+295
 00:20:22,120 --> 00:20:24,080
 Pidän sitkeydestäsi.
 
-294
+296
 00:20:24,080 --> 00:20:27,710
 Murtunut leuka, mutta
 silti äriset. Mainiota!
 
-295
+297
 00:20:30,670 --> 00:20:36,760
 Annan sinulle, nimettömälle,
 matala-arvoiselle sotilaalle lahjan.
 
-296
+298
 00:20:36,760 --> 00:20:39,430
 Ota se kiitollisena vastaan...
 
-297
+299
 00:20:40,180 --> 00:20:43,890
 Minun, "Tuhannen metkun Kuron" pään!
 
-298
+300
 00:20:44,310 --> 00:20:46,600
 Sinä olet Kapteeni Kuro.
 
-299
+301
 00:20:46,600 --> 00:20:49,520
 Sinä olet Kapteeni Kuro.
 
-300
+302
 00:20:49,520 --> 00:20:52,400
 Hyökkäsit laivalle.
 
-301
+303
 00:20:52,400 --> 00:20:53,520
 One,
 
-302
+304
 00:20:53,520 --> 00:20:54,780
 Two,
 
-303
+305
 00:20:54,780 --> 00:20:55,860
 Jango!
 
-304
+306
 00:20:56,280 --> 00:20:58,860
 Minä olen Kapteeni Kuro.
 
-305
+307
 00:20:58,860 --> 00:21:01,700
 Minä hyökkäsin laivalle.
 
-306
+308
 00:21:01,700 --> 00:21:06,120
 Ja sinä nappasit Kapteeni Kuron.
 
-307
+309
 00:21:06,120 --> 00:21:09,160
 Vie hänet tukikohtaan teloitettavaksi.
 
-308
+310
 00:21:09,160 --> 00:21:10,080
 One,
 
-309
+311
 00:21:10,080 --> 00:21:11,170
 Two,
 
-310
+312
 00:21:11,170 --> 00:21:12,130
 Jango!
 
-311
+313
 00:21:13,210 --> 00:21:16,960
 Mä nappasin Kapteeni Kuron!
 
-312
+314
 00:21:16,960 --> 00:21:19,090
 Taas hypnoosissa, perämies.
 
-313
+315
 00:21:19,550 --> 00:21:21,220
 Juuri kuten pitääkin...
 
-314
+316
 00:21:21,220 --> 00:21:30,020
 Sijaiseni kuoltua, Kapteeni Kuro
 katoaa maan päältä.
 
-315
+317
 00:21:30,270 --> 00:21:37,730
 Ja kun tänään
 viimeinen osuus toteutuu...
 
-316
+318
 00:21:38,320 --> 00:21:41,070
 Saan sekä vaurauden että rauhan.
 
-317
+319
 00:21:41,450 --> 00:21:43,530
 Ymmärrätkö, nulikka?
 
-318
+320
 00:21:43,530 --> 00:21:48,450
 En yksinkertaisesti voi epäonnistua nyt!
 
-319
+321
 00:21:48,790 --> 00:21:52,710
 Minun suunnitelmani eivät mene pieleen!
 
-320
+322
 00:21:58,880 --> 00:22:01,840
 Osaat muutakin kuin venyä!
 
-321
+323
 00:22:01,840 --> 00:22:02,930
 Jeps!
 
-322
+324
 00:22:02,930 --> 00:22:06,720
 On tullut treenattua piraatin uraa varten!
 
-323
+325
 00:22:09,140 --> 00:22:10,890
 Vai että väsyit?!
 
-324
+326
 00:22:10,890 --> 00:22:15,440
 Jos mainetta pelkää,
 ei pidä ryhtyä merirosvoksi!
 
-325
+327
 00:22:22,110 --> 00:22:24,360
 Mun suunnitelmat...
 
-326
+328
 00:22:24,360 --> 00:22:27,240
 on vielä suuremmat!
-
-327
-00:17:35,160 --> 00:17:40,040
-Tuhannen metkun Kuro
-(3 vuotta sitten)
-
-328
-00:17:35,160 --> 00:17:40,040
-Tuhannen metkun Kuro
-(3 vuotta sitten)
-
-329
-00:17:35,160 --> 00:17:40,040
-Tuhannen metkun Kuro
-(3 vuotta sitten)

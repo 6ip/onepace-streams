@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:01,000 --> 00:00:04,000
 {\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>
 Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>
 
@@ -146,395 +146,408 @@ Uno, dos, rayo de sol, cuatro... ¡Vamos!
 ¡Vamos!
 
 37
+00:02:30,030 --> 00:02:38,950
+Aventuras en las profundidas del mar
+¡10 kilómetros bajo la superficie!
+
+38
 00:03:12,720 --> 00:03:15,400
 ¡¿Qué les pasa a estos tipos?!
 
-38
+39
 00:03:15,400 --> 00:03:21,540
 ¡Cualquiera saldría huyendo de aquí sin dudarlo! ¡Hay que ponerse a salvo!
 
-39
+40
 00:03:28,180 --> 00:03:29,570
 Tranquila, Nami-san.
 
-40
+41
 00:03:33,550 --> 00:03:34,660
 ...para protegerte.
 
-41
+42
 00:03:41,100 --> 00:03:45,100
 ¡Este barco corre peligro! ¡Debo salvarme!
 
-42
+43
 00:04:03,080 --> 00:04:04,650
 ¡Sí!
 
-43
+44
 00:05:12,590 --> 00:05:16,490
 Si los dejara a su suerte, moriría junto con ellos.
 
-44
-00:06:15,880 --> 00:06:18,120
-Mola
-
 45
 00:06:15,880 --> 00:06:18,120
-Shi
+Mola
 
 46
 00:06:15,880 --> 00:06:18,120
-Chibukai
+Shi
 
 47
 00:06:15,880 --> 00:06:18,120
-Fansub!
+Chibukai
 
 48
 00:06:15,880 --> 00:06:18,120
-Lanzacohetes de Franky.
+Fansub!
 
 49
+00:06:15,880 --> 00:06:18,120
+Lanzacohetes de Franky.
+
+50
 00:06:56,430 --> 00:06:57,300
 ¡Perfecto!
 
-50
-00:07:13,710 --> 00:07:15,910
-Mola
-
 51
 00:07:13,710 --> 00:07:15,910
-Shi
+Mola
 
 52
 00:07:13,710 --> 00:07:15,910
-Chibukai
+Shi
 
 53
 00:07:13,710 --> 00:07:15,910
-Fansub!
+Chibukai
 
 54
 00:07:13,710 --> 00:07:15,910
-Endurecimiento de armadura.
+Fansub!
 
 55
-00:07:29,990 --> 00:07:32,130
-Mola
+00:07:13,710 --> 00:07:15,910
+Endurecimiento de armadura.
 
 56
 00:07:29,990 --> 00:07:32,130
-Shi
+Mola
 
 57
 00:07:29,990 --> 00:07:32,130
-Chibukai
+Shi
 
 58
 00:07:29,990 --> 00:07:32,130
-Fansub!
+Chibukai
 
 59
 00:07:29,990 --> 00:07:32,130
-Caminata azul.
+Fansub!
 
 60
+00:07:29,990 --> 00:07:32,130
+Caminata azul.
+
+61
 00:07:40,050 --> 00:07:41,520
 ¡Corriendo! ¡Corriendo!
 
-61
+62
 00:07:42,490 --> 00:07:45,320
 Pasé dos años corriendo para escapar 
 de esas personas horripilantes.
 
-62
+63
 00:07:46,380 --> 00:07:50,350
 Comparado con ellas, este monstruo no es nada.
 
-63
+64
 00:07:50,350 --> 00:07:52,130
 Es una preciosidad.
 
-64
-00:07:57,590 --> 00:08:01,360
-Mola
-
 65
 00:07:57,590 --> 00:08:01,360
-Shi
+Mola
 
 66
 00:07:57,590 --> 00:08:01,360
-Chibukai
+Shi
 
 67
 00:07:57,590 --> 00:08:01,360
-Fansub!
+Chibukai
 
 68
 00:07:57,590 --> 00:08:01,360
-Bien cocinado: Disparo a la parrilla.
+Fansub!
 
 69
-00:08:11,470 --> 00:08:15,240
-Mola
+00:07:57,590 --> 00:08:01,360
+Bien cocinado: Disparo a la parrilla.
 
 70
 00:08:11,470 --> 00:08:15,240
-Shi
+Mola
 
 71
 00:08:11,470 --> 00:08:15,240
-Chibukai
+Shi
 
 72
 00:08:11,470 --> 00:08:15,240
-Fansub!
+Chibukai
 
 73
 00:08:11,470 --> 00:08:15,240
-Técnica secreta del estilo de tres espadas: Cruce de seis caminos.
+Fansub!
 
 74
-00:08:30,490 --> 00:08:33,610
-Mola
+00:08:11,470 --> 00:08:15,240
+Técnica secreta del estilo de tres espadas: Cruce de seis caminos.
 
 75
 00:08:30,490 --> 00:08:33,610
-Shi
+Mola
 
 76
 00:08:30,490 --> 00:08:33,610
-Chibukai
+Shi
 
 77
 00:08:30,490 --> 00:08:33,610
-Fansub!
+Chibukai
 
 78
 00:08:30,490 --> 00:08:33,610
-Fusil para elefantes.
+Fansub!
 
 79
+00:08:30,490 --> 00:08:33,610
+Fusil para elefantes.
+
+80
 00:08:49,200 --> 00:08:50,190
 ¿Eh?
 
-80
+81
 00:11:20,610 --> 00:11:21,450
 ¡¿Eh?!
 
-81
+82
 00:11:24,670 --> 00:11:27,170
 Mola
 
-82
+83
 00:11:24,670 --> 00:11:27,170
 Shi
 
-83
+84
 00:11:24,670 --> 00:11:27,170
 Chibukai
 
-84
+85
 00:11:24,670 --> 00:11:27,170
 Fansub!
 
-85
+86
 00:11:24,670 --> 00:11:27,170
 Pezones linterna.
 
-86
+87
 00:11:28,980 --> 00:11:32,600
 ESTOS SON LOS NIVELES DE
  PROFUNDIDAD DONDE LA LUZ NO LLEGA, 
 
-87
+
+
+
+
+
+
+Y CRIATURAS COMUNES NO PODRÍAN SOBREVIVIR
+
+88
 00:11:33,710 --> 00:11:37,420
 INFRAMUNDO SUBMARINO
 
-88
+89
 00:12:39,580 --> 00:12:42,130
 Mola
 
-89
+90
 00:12:39,580 --> 00:12:42,130
 Shi
 
-90
+91
 00:12:39,580 --> 00:12:42,130
 Chibukai
 
-91
+92
 00:12:39,580 --> 00:12:42,130
 Fansub!
 
-92
+93
 00:12:39,580 --> 00:12:42,130
 Pequeño Coup de Burst.
 
-93
+94
 00:12:45,600 --> 00:12:47,110
 ¡¿Qué?!
 
-94
+95
 00:14:03,280 --> 00:14:06,920
 ¡Luffy, Zoro, Sanji!
 
-95
+96
 00:14:06,920 --> 00:14:09,750
 ¿Dónde están?
 
-96
+97
 00:14:55,010 --> 00:14:59,400
 También podría esconderme 
 en el camarote de las mujeres.
 
-97
+98
 00:15:11,380 --> 00:15:13,140
 ¡Esto es perfecto!
 
-98
+99
 00:15:14,380 --> 00:15:21,690
 ¡Acaban de desaparecer los tres miembros más fuertes tras enfrentarse al Kraken!
 
-99
+100
 00:15:22,210 --> 00:15:28,610
 ¡Llevan unas burbujas muy pequeñas,
  así que ya deben de estar muertos!
 
-100
+101
 00:15:30,500 --> 00:15:35,370
 ¡Es una pena no poderme llevar
  la cabeza del Sombrero de Paja,
 
-101
+102
 00:15:35,370 --> 00:15:39,780
 aunque las cabezas del resto de la tripulación...
 
-102
+103
 00:15:39,780 --> 00:15:44,450
 ...servirán como prueba de que 
 Sombrero de Paja ha muerto!
 
-103
+104
 00:15:46,540 --> 00:15:49,780
 ¡Pero calma, Caribou!
 
-104
+105
 00:15:49,780 --> 00:15:51,560
 ¡Debes mantener la calma!
 
-105
+106
 00:15:51,560 --> 00:15:55,130
 Si los matas ahora, no habrá quién navegue el barco.
 
-106
+107
 00:15:55,130 --> 00:15:59,800
 Estos tipos son muy buenos navegantes.
 
-107
+108
 00:15:59,800 --> 00:16:03,100
 ¡Pero, en cuanto lleguemos a la Isla Gyojin,
 
-108
+109
 00:16:03,100 --> 00:16:06,260
 será su fin!
 
-109
+110
 00:16:15,570 --> 00:16:17,590
 ¡Lo arruiné!
 
-110
-00:19:10,160 --> 00:19:14,190
-Mola
-
 111
 00:19:10,160 --> 00:19:14,190
-Shi
+Mola
 
 112
 00:19:10,160 --> 00:19:14,190
-Chibukai
+Shi
 
 113
 00:19:10,160 --> 00:19:14,190
-Fansub!
+Chibukai
 
 114
 00:19:10,160 --> 00:19:14,190
-Umibouzu: Enormes monstruos que se les aparecen a las víctimas de naufragios.
+Fansub!
 
 115
-00:19:24,840 --> 00:19:29,180
-Mola
+00:19:10,160 --> 00:19:14,190
+Umibouzu: Enormes monstruos que se les aparecen a las víctimas de naufragios.
 
 116
 00:19:24,840 --> 00:19:29,180
-Shi
+Mola
 
 117
 00:19:24,840 --> 00:19:29,180
-Chibukai
+Shi
 
 118
 00:19:24,840 --> 00:19:29,180
-Fansub!
+Chibukai
 
 119
 00:19:24,840 --> 00:19:29,180
-Pez sapo.
+Fansub!
 
 120
+00:19:24,840 --> 00:19:29,180
+Pez sapo.
+
+121
 00:19:56,270 --> 00:19:56,970
 ¿Ese...
 
-121
+122
 00:19:57,730 --> 00:19:58,610
 ...soy yo?
 
-122
-00:20:01,450 --> 00:20:04,950
-Mola
-
 123
 00:20:01,450 --> 00:20:04,950
-Shi
+Mola
 
 124
 00:20:01,450 --> 00:20:04,950
-Chibukai
+Shi
 
 125
 00:20:01,450 --> 00:20:04,950
-Fansub!
+Chibukai
 
 126
 00:20:01,450 --> 00:20:04,950
-Holandés Errante.
+Fansub!
 
 127
+00:20:01,450 --> 00:20:04,950
+Holandés Errante.
+
+128
 00:20:30,730 --> 00:20:33,840
 ¡Sí!
 
-128
+129
 00:22:50,570 --> 00:22:54,240
 ¡Nami-swan! ¡Robin-chwan!
 
-129
+130
 00:23:41,200 --> 00:23:43,070
 Mola
 
-130
+131
 00:23:41,200 --> 00:23:43,070
 Shi
 
-131
+132
 00:23:41,200 --> 00:23:43,070
 Chibukai
 
-132
+133
 00:23:41,200 --> 00:23:43,070
 Fansub!
 
-133
+134
 00:23:41,200 --> 00:23:43,070
 Surume: Calamar seco.
