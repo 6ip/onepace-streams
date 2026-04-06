@@ -79,14 +79,18 @@ def ass_to_vtt(ass_content: str) -> str:
 
     dialogues.sort(key=lambda x: time_to_ms(x.get("Start", "0:00:00.00")))
 
-    # WEBVTT Requires the WEBVTT header and dots for millisecond separators
+    # WEBVTT Requires the WEBVTT header, STYLE block for colors, and dots for millisecond separators
     vtt_lines = [
         "WEBVTT",
         "",
+        "STYLE",
+        "::cue(c.color9CD5FF) { color: #9CD5FF; }",
+        "::cue(c.colora8c7fa) { color: #a8c7fa; }",
+        "",
         "1",
-        "00:00:01.000 --> 00:00:04.000",
-        r'{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>',
-        r'Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>',
+        "00:00:01.000 --> 00:00:04.000 line:0",
+        "<b><c.color9CD5FF>One Pace Premium</c></b>",
+        "Keep the project alive: <c.colora8c7fa>ko-fi.com/not6ip</c>",
         ""
     ]
     
