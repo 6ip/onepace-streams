@@ -40,10 +40,10 @@ def convert_time(t: str) -> str:
     match = _TIME_PATTERN.match(t)
     if match:
         h, m, s, cs = match.groups()
-        return f"{int(h):02d}:{m}:{s},{cs}0"
+        return f"{int(h):02d}:{m}:{s}.{cs}0" # Replaced ',' with '.' for WebVTT
     return t
 
-def ass_to_srt(ass_content: str) -> str:
+def ass_to_vtt(ass_content: str) -> str:
     lines = ass_content.split("\n")
     events_section = False
     format_line = None
@@ -79,9 +79,12 @@ def ass_to_srt(ass_content: str) -> str:
 
     dialogues.sort(key=lambda x: time_to_ms(x.get("Start", "0:00:00.00")))
 
-    srt_lines = [
+    # WEBVTT Requires the WEBVTT header and dots for millisecond separators
+    vtt_lines = [
+        "WEBVTT",
+        "",
         "1",
-        "00:00:01,000 --> 00:00:04,000",
+        "00:00:01.000 --> 00:00:04.000",
         r'{\an8}<b><font color="#9CD5FF">One Pace Premium</font></b>',
         r'Keep the project alive: <font color="#a8c7fa">ko-fi.com/not6ip</font>',
         ""
@@ -97,9 +100,6 @@ def ass_to_srt(ass_content: str) -> str:
         if r"\p1" in text or r"\p2" in text or r"\p4" in text:
             continue
 
-        # --- UPDATED: Smarter scrub for typesetter hacks ---
-        # Only removes text following the global \alpha&HFF& tag (total transparency).
-        # We ignore \1a&HFF& etc. because they are used for title animations.
         text = re.sub(r'\{[^}]*\\alpha&H[Ff]{2}&[^}]*\}[^{]*', '', text)
 
         text = _ASS_TAG_PATTERN.sub("", text)
@@ -119,13 +119,13 @@ def ass_to_srt(ass_content: str) -> str:
 
     counter = 2
     for (start, end), texts in grouped_dialogues.items():
-        srt_lines.append(str(counter))
-        srt_lines.append(f"{convert_time(start)} --> {convert_time(end)}")
-        srt_lines.append("\n".join(texts))
-        srt_lines.append("")
+        vtt_lines.append(str(counter))
+        vtt_lines.append(f"{convert_time(start)} --> {convert_time(end)}")
+        vtt_lines.append("\n".join(texts))
+        vtt_lines.append("")
         counter += 1
 
-    return "\n".join(srt_lines)
+    return "\n".join(vtt_lines)
 
 def clean_string(s):
     return re.sub(r'[\d\s\-]', '', s).lower()
@@ -237,21 +237,18 @@ def main():
             unique_sub_id = f"{original_unique_id}_{counter}"
             counter += 1
 
-        srt_filename = f"{unique_sub_id}.srt"
+        # --- NEW: File definitions for VTT ---
+        vtt_filename = f"{unique_sub_id}.vtt"
         
-        # --- NEW: Organize into Arc/Episode folders ---
         nested_dir = os.path.join(OUTPUT_SUBS_DIR, arc_folder, ep_folder)
-        os.makedirs(nested_dir, exist_ok=True) # Creates the nested folders if they don't exist
+        os.makedirs(nested_dir, exist_ok=True) 
         
-        local_srt_path = os.path.join(nested_dir, srt_filename)
+        local_vtt_path = os.path.join(nested_dir, vtt_filename)
         
-        # --- NEW: Update the CDN URL to match ---
-        # We use safe='/' so the slashes stay as '/' instead of becoming '%2F'
-        rel_path = f"{arc_folder}/{ep_folder}/{srt_filename}"
+        rel_path = f"{arc_folder}/{ep_folder}/{vtt_filename}"
         cdn_url = CDN_SRT_BASE_URL + urllib.parse.quote(rel_path, safe='/')
 
-        # --- NEW LOGIC: Crash-Proof Hash Checking ---
-        file_exists = os.path.exists(local_srt_path)
+        file_exists = os.path.exists(local_vtt_path)
         
         # If the file exists but we don't have its hash (because of Ctrl+C), just update the hash and skip download!
         if file_exists and path not in local_hashes:
@@ -271,16 +268,18 @@ def main():
                     with urllib.request.urlopen(dl_req) as dl_resp:
                         ass_text = dl_resp.read().decode('utf-8-sig', errors='ignore')
                         
-                    srt_text = ass_to_srt(ass_text)
+                    # Call the new VTT function
+                    vtt_text = ass_to_vtt(ass_text)
                     
-                    with open(local_srt_path, "w", encoding="utf-8") as f:
-                        f.write(srt_text)
+                    # Save as VTT
+                    with open(local_vtt_path, "w", encoding="utf-8") as f:
+                        f.write(vtt_text)
                         
                     local_hashes[path] = file_sha
                         
                     success = True
-                    time.sleep(0.5) # Increased to 0.5s to prevent the 403 error from happening again!
-                    break 
+                    time.sleep(0.5) 
+                    break
                     
                 except urllib.error.HTTPError as e:
                     if e.code in [429, 403]:
