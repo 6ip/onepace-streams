@@ -93,7 +93,8 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                         continue
 
                     # --- 1. FILTERS ---
-                    if re.search(r'(romaji|rom|kanji|furigana)', style):
+                    # FIX: Synced this blocklist with ass_to_vtt to block Romaji tracks styled as "Karaoke"
+                    if re.search(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?)', style):
                         continue
                     if r"\p1" in text or r"\p2" in text or r"\p4" in text or r"\p0" in text:
                         continue
@@ -122,7 +123,7 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
                     clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
                     
-                    if "code" in effect or "template" in effect or "fxgroup" in clean_text or "_g." in clean_text.lower() or clean_text.startswith("!") or "retime" in clean_text:
+                    if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
                         continue
                         
                     clean_lower = clean_text.strip().lower()
@@ -212,7 +213,21 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         else:
             cluster.sort(key=lambda x: x["x_pos"], reverse=False)
 
-        parts = [x["text"] for x in cluster]
+        # --- NEW: Deduplicate visual layers within the same cluster ---
+        unique_parts = []
+        seen_parts = []
+        for x in cluster:
+            # Check if we already have this exact text at a similar X position (layer duplicate)
+            is_layer_dup = False
+            for seen_text, seen_x in seen_parts:
+                if x["text"] == seen_text and abs(x["x_pos"] - seen_x) < 5.0:
+                    is_layer_dup = True
+                    break
+            if not is_layer_dup:
+                seen_parts.append((x["text"], x["x_pos"]))
+                unique_parts.append(x)
+
+        parts = [x["text"] for x in unique_parts]
         valid_parts = [p for p in parts if p.strip()]
         if valid_parts:
             avg_len = sum(len(p) for p in valid_parts) / len(valid_parts)
@@ -238,6 +253,9 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             # Match loosely to catch both Intro and Outro duplicates
             if clean_d and clean_d == clean_f and abs(f["start_ms"] - d["start_ms"]) < 4000:
                 is_dup = True
+                # FIX: Extend the timeline of the existing dialogue to catch the outro animation!
+                f["end_ms"] = max(f["end_ms"], d["end_ms"])
+                f["start_ms"] = min(f["start_ms"], d["start_ms"])
                 break
         if not is_dup:
             if re.search(r'[\u0600-\u06FF]', d["text"]):
@@ -355,7 +373,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         effect = entry.get("Effect", "").lower()
         
         # FIX: Check `text_raw` for Lua templates. This stops us from accidentally dropping valid Arabic lines starting with "!"
-        if "code" in effect or "template" in effect or "fxgroup" in text_raw.lower() or "_g." in text_raw.lower() or text_raw.startswith("!") or "retime" in text_raw.lower():
+        if "code" in effect or "template" in effect or "fxgroup" in text_raw.lower() or "_g." in text_raw.lower() or "retime" in text_raw.lower():
             continue
             
         clean_lower = text.strip().lower()
@@ -375,6 +393,10 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         # FIX: Force RTL wrapper for main Arabic dialogues to correct punctuation & alignment!
         if lang_code == "ara" and re.search(r'[\u0600-\u06FF]', text):
             text = f"\u202B{text.strip()}\u202C"
+
+        # --- NEW: Bold Titles, Signs, and Captions ---
+        if re.search(r'(title|caption|sign)', style):
+            text = f"<b>{text.strip()}</b>"
 
         processed_dialogues.append({
             "start_ms": start_ms,
