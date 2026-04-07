@@ -100,10 +100,10 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                         
                     if not is_comment:
                         # Drop hidden karaoke timing lines, Aegisub generated names, and visual effect layers
-                        if r"\k" in text.lower() or "kara effector" in text.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
+                        if r"\k" in text.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
                             continue
                         # Arabic relies on FX lines, but other languages duplicate if we keep them!
-                        if lang_code != "ara" and ("fx" in effect or "effector" in effect):
+                        if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text.lower()):
                             continue
                         # NOTE: We intentionally DO NOT drop 'fx' lines anymore, because Arabic relies on them!
                     
@@ -310,11 +310,11 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                         continue
                         
                     # Drop generated FX lines, hidden karaoke timing, and visual effect layers to prevent scattered letters/symbols!
-                    if r"\k" in text_raw.lower() or "kara effector" in text_raw.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
+                    if r"\k" in text_raw.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
                         continue
 
                     # Arabic relies on FX lines, but other languages duplicate if we keep them!
-                    if lang_code != "ara" and ("fx" in effect or "effector" in effect):
+                    if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text_raw.lower()):
                         continue
                         
                     # Drop English tracks explicitly mixed into Spanish files
@@ -411,7 +411,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         "::cue(c.colora8c7fa) { color: #a8c7fa; }",
         "",
         "1",
-        "00:00:01.000 --> 00:00:07.000 line:0",
+        "00:00:01.000 --> 00:00:07.000 line:5% align:middle",
         "<b><c.color9CD5FF>One Pace Premium</c></b>",
         "Keep the project alive: <c.colora8c7fa>ko-fi.com/not6ip</c>",
         ""
