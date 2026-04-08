@@ -672,7 +672,8 @@ def main():
         local_vtt_path = os.path.join(nested_dir, vtt_filename)
         
         rel_path = f"{arc_folder}/{ep_folder}/{vtt_filename}"
-        cdn_url = CDN_SRT_BASE_URL + urllib.parse.quote(rel_path, safe='/')
+        YOUR_SERVER_URL = "https://onepace-rd.vercel.app" 
+        cdn_url = f"{YOUR_SERVER_URL}/sub-proxy/{urllib.parse.quote(rel_path, safe='/')}"
         
         op_path, ed_path = get_op_ed_paths(arc_key, ep_num, lang_code, op_ed_rules)     
         file_exists = os.path.exists(local_vtt_path)
