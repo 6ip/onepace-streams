@@ -35,6 +35,14 @@ LANG_MAP = {
 _TIME_PATTERN = re.compile(r"(\d+):(\d{2}):(\d{2})\.(\d{2})")
 _ASS_TAG_PATTERN = re.compile(r"\{[^}]*\}")
 
+# --- Regex Patterns ---
+_KARAOKE_PATTERN = re.compile(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?)')
+_OP_ED_STYLE_PATTERN = re.compile(r'(op\d*|ed\d*|ending|opening|song)')
+_X_POS_PATTERN = re.compile(r'\\(?:pos|move)\(([-+]?\d*\.?\d+)')
+_Y_POS_PATTERN = re.compile(r'\\(?:pos|move)\s*\([-+]?\d*\.?\d+\s*,\s*([-+]?\d*\.?\d+)')
+_ALPHA_TAG_PATTERN = re.compile(r'\{[^}]*\\alpha&H[Ff]{2}&[^}]*\}[^{]*')
+_RTL_PUNCTUATION_FIX = re.compile(r'^([!؟?.,،]+)\s*(.*)$', re.MULTILINE)
+
 def ms_to_vtt_time(ms: int) -> str:
     """Helper to convert integer milliseconds back to WEBVTT timestamp formatting."""
     h = ms // 3600000
@@ -45,19 +53,19 @@ def ms_to_vtt_time(ms: int) -> str:
     ms %= 1000
     return f"{h:02d}:{m:02d}:{s:02d}.{ms:03d}"
 
+def time_to_ms(t_str: str) -> int:
+    match = _TIME_PATTERN.match(t_str.strip())
+    if match:
+        h, m, s, cs = match.groups()
+        return int(h) * 3600000 + int(m) * 60000 + int(s) * 1000 + int(cs) * 10
+    return 0
+        
 def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list:
     lines = ass_content.split("\n")
     events_section = False
     format_line = None
     raw_dialogues = []
     sync_ms = None
-
-    def time_to_ms(t_str):
-        match = _TIME_PATTERN.match(t_str.strip())
-        if match:
-            h, m, s, cs = match.groups()
-            return int(h) * 3600000 + int(m) * 60000 + int(s) * 1000 + int(cs) * 10
-        return 0
 
     for line in lines:
         # Preserve Aegisub line breaks and empty strings
@@ -94,7 +102,7 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
 
                     # --- 1. FILTERS ---
                     # FIX: Synced this blocklist with ass_to_vtt to block Romaji tracks styled as "Karaoke"
-                    if re.search(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?)', style):
+                    if _KARAOKE_PATTERN.search(style):
                         continue
                     if r"\p1" in text or r"\p2" in text or r"\p4" in text or r"\p0" in text:
                         continue
@@ -110,7 +118,7 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     
                     # --- NEW: Extract X position for spatial sorting before tags are cleaned ---
                     x_pos = 0.0
-                    pos_match = re.search(r'\\(?:pos|move)\(([-+]?\d*\.?\d+)', text)
+                    pos_match = _X_POS_PATTERN.search(text)
                     if pos_match:
                         try:
                             x_pos = float(pos_match.group(1))
@@ -148,7 +156,10 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                         continue
 
                     if re.search(r'[\u0600-\u06FF]', clean_text):
-                        clean_text = f"\u202B{clean_text.strip()}\u202C"
+                        clean_text = clean_text.strip()
+                        if lang_code == "ara":
+                            clean_text = _RTL_PUNCTUATION_FIX.sub(r'\2\1', clean_text)
+                            clean_text = f"\u202B{clean_text}\u202C"
 
                     raw_dialogues.append({
                         "raw_start": time_to_ms(entry.get("Start", "0:00:00.00")),
@@ -259,18 +270,13 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                 break
         if not is_dup:
             if re.search(r'[\u0600-\u06FF]', d["text"]):
-                d["text"] = d["text"].replace("\u202B", "").replace("\u202C", "")
-                d["text"] = f"\u202B{d['text']}\u202C"
+                clean_d_text = d["text"].replace("\u202B", "").replace("\u202C", "").strip()
+                if lang_code == "ara":
+                    clean_d_text = _RTL_PUNCTUATION_FIX.sub(r'\2\1', clean_d_text)
+                d["text"] = f"\u202B{clean_d_text}\u202C"
             final_dialogues.append(d)
 
     return final_dialogues
-    
-def convert_time(t: str) -> str:
-    match = _TIME_PATTERN.match(t)
-    if match:
-        h, m, s, cs = match.groups()
-        return f"{int(h):02d}:{m}:{s}.{cs}0"
-    return t
 
 def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list = None, lang_code: str = "eng") -> str:
     lines = ass_content.split("\n")
@@ -280,13 +286,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
     
     op_start_ms = 0
     ed_start_ms = 0
-
-    def time_to_ms(t_str):
-        match = _TIME_PATTERN.match(t_str.strip())
-        if match:
-            h, m, s, cs = match.groups()
-            return int(h) * 3600000 + int(m) * 60000 + int(s) * 1000 + int(cs) * 10
-        return 0
 
     for line in lines:
         line = line.strip('\r\n\t') 
@@ -320,11 +319,11 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                             ed_start_ms = time_to_ms(entry.get("Start", "0:00:00.00"))
                         
                         # Only keep Comment lines if they are an OP/ED track (this rescues clean lyrics!)
-                        if not re.search(r'(op\d*|ed\d*|ending|opening|song)', style):
+                        if not _OP_ED_STYLE_PATTERN.search(style):
                             continue
                             
                     # Safely block Karaoke, Romaji, Kanji, Furigana, and Credits. 
-                    if re.search(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?)', style):
+                    if _KARAOKE_PATTERN.search(style):
                         continue
                         
                     # Drop generated FX lines, hidden karaoke timing, and visual effect layers to prevent scattered letters/symbols!
@@ -341,7 +340,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                         
                     # --- NEW: Extract Y-position for top-to-bottom sorting of signs ---
                     y_pos = 1000.0 # Default to bottom of screen
-                    pos_match = re.search(r'\\(?:pos|move)\s*\([-+]?\d*\.?\d+\s*,\s*([-+]?\d*\.?\d+)', text_raw)
+                    pos_match = _Y_POS_PATTERN.search(text_raw)
                     if pos_match:
                         try:
                             y_pos = float(pos_match.group(1))
@@ -362,12 +361,12 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             continue
 
         text = text.replace(r"\h", " ").replace("\\h", " ")
-        text = re.sub(r'\{[^}]*\\alpha&H[Ff]{2}&[^}]*\}[^{]*', '', text)
+        text = _ALPHA_TAG_PATTERN.sub('', text)
         text = _ASS_TAG_PATTERN.sub("", text)
         text = text.replace("\\N", "\n").replace("\\n", "\n")
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip('\r\n\t')
 
-        if text == "" or "mpv.io" in text.lower():
+        if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
             continue
             
         effect = entry.get("Effect", "").lower()
@@ -392,7 +391,9 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             
         # FIX: Force RTL wrapper for main Arabic dialogues to correct punctuation & alignment!
         if lang_code == "ara" and re.search(r'[\u0600-\u06FF]', text):
-            text = f"\u202B{text.strip()}\u202C"
+            text = text.strip()
+            text = _RTL_PUNCTUATION_FIX.sub(r'\2\1', text)
+            text = f"\u202B{text}\u202C"
 
         # --- NEW: Bold Titles, Signs, and Captions ---
         if re.search(r'(title|caption|sign)', style):
