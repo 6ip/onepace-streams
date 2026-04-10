@@ -174,7 +174,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                         continue
 
                     # --- 1. FILTERS ---
-                    # FIX: Synced this blocklist with ass_to_vtt to block Romaji tracks styled as "Karaoke"
                     if _KARAOKE_PATTERN.search(style):
                         continue
                     if r"\p1" in text or r"\p2" in text or r"\p4" in text or r"\p0" in text:
@@ -187,7 +186,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                         # Arabic relies on FX lines, but other languages duplicate if we keep them!
                         if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text.lower()):
                             continue
-                        # NOTE: We intentionally DO NOT drop 'fx' lines anymore, because Arabic relies on them!
                     
                     # --- NEW: Extract X position for spatial sorting before tags are cleaned ---
                     x_pos = 0.0
@@ -204,6 +202,14 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
                     clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
                     
+                    # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel ---
+                    # Strip Arabic Tatweel and Diacritics temporarily to ensure ACTUAL letters/numbers exist
+                    test_text = re.sub(r'[\u0640-\u065F\u0670]', '', clean_text)
+                    if not re.search(r'[^\W_]', test_text):
+                        continue
+                    if len(clean_text.strip()) == 1 and clean_text.strip().lower() in "bcdfghjklmnpqrstvwxz":
+                        continue
+                        
                     if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
                         continue
                         
@@ -277,13 +283,11 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         placed = False
         for cluster in active_clusters:
             prev = cluster[0]
-            # If the letter matches the style and timeline trajectory of this cluster, join it!
             if d["style"] == prev["style"] and abs(d["start_ms"] - prev["start_ms"]) < 1500 and abs(d["end_ms"] - prev["end_ms"]) < 1500:
                 cluster.append(d)
                 placed = True
                 break
         
-        # If it doesn't match any existing cluster (e.g. it's a new track like Romaji), start a new one!
         if not placed:
             active_clusters.append([d])
             
@@ -296,11 +300,9 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         else:
             cluster.sort(key=lambda x: x["x_pos"], reverse=False)
 
-        # --- NEW: Deduplicate visual layers within the same cluster ---
         unique_parts = []
         seen_parts = []
         for x in cluster:
-            # Check if we already have this exact text at a similar X position (layer duplicate)
             is_layer_dup = False
             for seen_text, seen_x in seen_parts:
                 if x["text"] == seen_text and abs(x["x_pos"] - seen_x) < 5.0:
@@ -329,14 +331,11 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
     for d in clustered_dialogues:
         if not d["text"]: continue
         is_dup = False
-        # Remove spaces, punctuation, and RTL markers for pure matching
         clean_d = re.sub(r'[^\w]', '', d["text"])
         for f in final_dialogues:
             clean_f = re.sub(r'[^\w]', '', f["text"])
-            # Match loosely to catch both Intro and Outro duplicates
             if clean_d and clean_d == clean_f and abs(f["start_ms"] - d["start_ms"]) < 4000:
                 is_dup = True
-                # FIX: Extend the timeline of the existing dialogue to catch the outro animation!
                 f["end_ms"] = max(f["end_ms"], d["end_ms"])
                 f["start_ms"] = min(f["start_ms"], d["start_ms"])
                 break
@@ -383,7 +382,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                     name = entry.get("Name", "").lower()
                     style = entry.get("Style", "").lower()
                     effect = entry.get("Effect", "").lower()
-                    text_raw = entry.get("Text", "") # Kept raw to safely check for Lua tags
+                    text_raw = entry.get("Text", "")
 
                     if is_comment:
                         if name == "op":
@@ -391,28 +390,22 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                         elif name in ["ed", "ending"] or "ending" in style:
                             ed_start_ms = time_to_ms(entry.get("Start", "0:00:00.00"))
                         
-                        # Only keep Comment lines if they are an OP/ED track (this rescues clean lyrics!)
                         if not _OP_ED_STYLE_PATTERN.search(style):
                             continue
                             
-                    # Safely block Karaoke, Romaji, Kanji, Furigana, and Credits. 
                     if _KARAOKE_PATTERN.search(style):
                         continue
                         
-                    # Drop generated FX lines, hidden karaoke timing, and visual effect layers to prevent scattered letters/symbols!
                     if r"\k" in text_raw.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
                         continue
 
-                    # Arabic relies on FX lines, but other languages duplicate if we keep them!
                     if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text_raw.lower()):
                         continue
                         
-                    # Drop English tracks explicitly mixed into Spanish files
                     if lang_code == "spa" and re.search(r'(main|flashback|thought|secondary|caption|title)', style):
                         continue
                         
-                    # --- NEW: Extract Y-position for top-to-bottom sorting of signs ---
-                    y_pos = 1000.0 # Default to bottom of screen
+                    y_pos = 1000.0
                     pos_match = _Y_POS_PATTERN.search(text_raw)
                     if pos_match:
                         try:
@@ -441,10 +434,18 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
             continue
+          
+        # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel ---
+        # Temporarily strip Arabic Tatweel (Kashida) and Diacritics to ensure real text exists
+        test_text = re.sub(r'[\u0640-\u065F\u0670]', '', text)
+        if not re.search(r'[^\W_]', test_text):
+            continue
+            
+        if len(text.strip()) == 1 and text.strip().lower() in "bcdfghjklmnpqrstvwxz":
+            continue
             
         effect = entry.get("Effect", "").lower()
         
-        # FIX: Check `text_raw` for Lua templates. This stops us from accidentally dropping valid Arabic lines starting with "!"
         if "code" in effect or "template" in effect or "fxgroup" in text_raw.lower() or "_g." in text_raw.lower() or "retime" in text_raw.lower():
             continue
             
@@ -462,12 +463,10 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if clean_lower.strip(' -=_') in ["ending", "opening", "op", "ed", "dialogue", "credits", "title", "signs"]:
             continue
             
-        # FIX: Force RTL wrapper for main Arabic dialogues to correct punctuation & alignment!
         if lang_code == "ara" and re.search(r'[\u0600-\u06FF]', text):
             text = text.strip()
             text = fix_rtl_visual_typing(text)
 
-        # --- NEW: Bold Titles, Signs, and Captions ---
         if re.search(r'(title|caption|sign)', style):
             text = f"<b>{text.strip()}</b>"
 
@@ -518,13 +517,11 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if time_key not in grouped_dialogues:
             grouped_dialogues[time_key] = []
             
-        # Deduplicate identical text at the same timestamp
         if not any(item["text"] == d["text"] for item in grouped_dialogues[time_key]):
             grouped_dialogues[time_key].append(d)
 
     counter = 2
     for (start, end), items in grouped_dialogues.items():
-        # FIX: Sort items vertically by Y-Position so multi-line signs read top-to-bottom!
         items.sort(key=lambda x: x["y_pos"])
         texts = [x["text"] for x in items]
         
