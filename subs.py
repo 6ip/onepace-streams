@@ -41,7 +41,6 @@ _OP_ED_STYLE_PATTERN = re.compile(r'(op\d*|ed\d*|ending|opening|song)')
 _X_POS_PATTERN = re.compile(r'\\(?:pos|move)\(([-+]?\d*\.?\d+)')
 _Y_POS_PATTERN = re.compile(r'\\(?:pos|move)\s*\([-+]?\d*\.?\d+\s*,\s*([-+]?\d*\.?\d+)')
 _ALPHA_TAG_PATTERN = re.compile(r'\{[^}]*\\alpha&H[Ff]{2}&[^}]*\}[^{]*')
-_RTL_PUNCTUATION_FIX = re.compile(r'^([!؟?.,،]+)\s*(.*)$', re.MULTILINE)
 
 def ms_to_vtt_time(ms: int) -> str:
     """Helper to convert integer milliseconds back to WEBVTT timestamp formatting."""
@@ -59,7 +58,50 @@ def time_to_ms(t_str: str) -> int:
         h, m, s, cs = match.groups()
         return int(h) * 3600000 + int(m) * 60000 + int(s) * 1000 + int(cs) * 10
     return 0
+
+def fix_rtl_visual_typing(text: str) -> str:
+    """Fixes Arabic punctuation typed visually and enforces RTL per line."""
+    flip_map = str.maketrans('«»()[]{}', '»«)(][}{')
+    enclosing_chars = r'"\'«»()[]{}'
+    terminal_chars = r'!؟?.,،؛:'
+    
+    fixed_lines = []
+    for line in text.split('\n'):
+        if not line.strip():
+            fixed_lines.append(line)
+            continue
+            
+        core_text = line.strip()
         
+        # 1. Move leading terminal punctuation to the end
+        lead_term = ""
+        while core_text and core_text[0] in terminal_chars:
+            lead_term += core_text[0]
+            core_text = core_text[1:].lstrip()
+            
+        # 2. Swap and flip enclosing punctuation
+        start_enc = ""
+        end_enc = ""
+        
+        while core_text and core_text[0] in enclosing_chars:
+            start_enc += core_text[0]
+            core_text = core_text[1:].lstrip()
+            
+        while core_text and core_text[-1] in enclosing_chars:
+            end_enc = core_text[-1] + end_enc
+            core_text = core_text[:-1].rstrip()
+            
+        new_start_enc = end_enc.translate(flip_map)
+        new_end_enc = start_enc.translate(flip_map)
+        
+        # Reconstruct the line properly!
+        fixed_line = f"{new_start_enc}{core_text}{new_end_enc}{lead_term}"
+        
+        # ADD RTL WRAPPERS PER LINE!
+        fixed_lines.append(f"\u202B{fixed_line}\u202C")
+        
+    return '\n'.join(fixed_lines)
+    
 def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list:
     lines = ass_content.split("\n")
     events_section = False
@@ -158,8 +200,7 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     if re.search(r'[\u0600-\u06FF]', clean_text):
                         clean_text = clean_text.strip()
                         if lang_code == "ara":
-                            clean_text = _RTL_PUNCTUATION_FIX.sub(r'\2\1', clean_text)
-                            clean_text = f"\u202B{clean_text}\u202C"
+                            clean_text = fix_rtl_visual_typing(clean_text)
 
                     raw_dialogues.append({
                         "raw_start": time_to_ms(entry.get("Start", "0:00:00.00")),
@@ -272,8 +313,9 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             if re.search(r'[\u0600-\u06FF]', d["text"]):
                 clean_d_text = d["text"].replace("\u202B", "").replace("\u202C", "").strip()
                 if lang_code == "ara":
-                    clean_d_text = _RTL_PUNCTUATION_FIX.sub(r'\2\1', clean_d_text)
-                d["text"] = f"\u202B{clean_d_text}\u202C"
+                    d["text"] = fix_rtl_visual_typing(clean_d_text)
+                else:
+                    d["text"] = f"\u202B{clean_d_text}\u202C"
             final_dialogues.append(d)
 
     return final_dialogues
@@ -392,8 +434,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         # FIX: Force RTL wrapper for main Arabic dialogues to correct punctuation & alignment!
         if lang_code == "ara" and re.search(r'[\u0600-\u06FF]', text):
             text = text.strip()
-            text = _RTL_PUNCTUATION_FIX.sub(r'\2\1', text)
-            text = f"\u202B{text}\u202C"
+            text = fix_rtl_visual_typing(text)
 
         # --- NEW: Bold Titles, Signs, and Captions ---
         if re.search(r'(title|caption|sign)', style):
