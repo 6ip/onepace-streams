@@ -202,9 +202,9 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
                     clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
                     
-                    # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel ---
-                    # Strip Arabic Tatweel and Diacritics temporarily to ensure ACTUAL letters/numbers exist
-                    test_text = re.sub(r'[\u0640-\u065F\u0670]', '', clean_text)
+                    # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel safely ---
+                    # Strictly target Tatweel (\u0640) and Harakat (\u064B-\u065F) without touching letters!
+                    test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', clean_text)
                     if not re.search(r'[^\W_]', test_text):
                         continue
                     if len(clean_text.strip()) == 1 and clean_text.strip().lower() in "bcdfghjklmnpqrstvwxz":
@@ -435,9 +435,9 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
             continue
           
-        # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel ---
-        # Temporarily strip Arabic Tatweel (Kashida) and Diacritics to ensure real text exists
-        test_text = re.sub(r'[\u0640-\u065F\u0670]', '', text)
+        # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel safely ---
+        # Strictly target Tatweel (\u0640) and Harakat (\u064B-\u065F) without touching letters!
+        test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', text)
         if not re.search(r'[^\W_]', test_text):
             continue
             
