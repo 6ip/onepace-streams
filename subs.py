@@ -64,7 +64,6 @@ def fix_rtl_visual_typing(text: str) -> str:
     flip_map = str.maketrans('«»()[]{}', '»«)(][}{')
     enclosing_chars = r'"\'«»()[]{}'
     terminal_chars = r'!؟?.,،؛:'
-    all_punct = enclosing_chars + terminal_chars
     
     fixed_lines = []
     for line in text.split('\n'):
@@ -72,39 +71,60 @@ def fix_rtl_visual_typing(text: str) -> str:
             fixed_lines.append(line)
             continue
             
-        core_text = line.strip()
+        core = line.strip()
         
-        # 1. Extract ALL leading punctuation (both terminal and enclosing)
-        left_punct = ""
-        while core_text and core_text[0] in all_punct:
-            left_punct += core_text[0]
-            core_text = core_text[1:].lstrip()
+        # 1. Extract Left Enclosing
+        left_enc = ""
+        while core and core[0] in enclosing_chars:
+            left_enc += core[0]
+            core = core[1:].lstrip()
             
-        # 2. Extract ONLY trailing enclosing punctuation
-        # (We leave trailing terminals alone because they are already at the logical end)
+        # 2. Extract Left Terminal
+        left_term = ""
+        while core and core[0] in terminal_chars:
+            left_term += core[0]
+            core = core[1:].lstrip()
+            
+        # 3. Extract Right Terminal
+        right_term = ""
+        while core and core[-1] in terminal_chars:
+            right_term = core[-1] + right_term
+            core = core[:-1].rstrip()
+            
+        # 4. Extract Right Enclosing
         right_enc = ""
-        while core_text and core_text[-1] in enclosing_chars:
-            right_enc = core_text[-1] + right_enc
-            core_text = core_text[:-1].rstrip()
+        while core and core[-1] in enclosing_chars:
+            right_enc = core[-1] + right_enc
+            core = core[:-1].rstrip()
             
-        # 3. Smart Swap & Reverse
-        # Left punctuation ALWAYS moves to the end, flipped and reversed.
-        # e.g., `«!` -> `»!` -> `!»`
-        new_end_from_left = left_punct.translate(flip_map)[::-1]
+        # --- Transformations ---
         
-        # Right enclosing punctuation only moves to the front if it's part of a pair,
-        # otherwise it stays at the end (genuine closing quote).
-        if left_punct and right_enc:
-            new_start_from_right = right_enc.translate(flip_map)[::-1]
-            new_end_from_right = ""
-        else:
-            new_start_from_right = ""
-            new_end_from_right = right_enc
-            
-        # Reconstruct the line properly!
-        fixed_line = f"{new_start_from_right}{core_text}{new_end_from_right}{new_end_from_left}"
+        # A. Terminals at the start ALWAYS move to the end.
+        right_term = left_term + right_term
+        left_term = ""
         
-        # ADD RTL WRAPPERS PER LINE!
+        # B. Enclosures Logic
+        if left_enc and right_enc:
+            flipped_right = right_enc.translate(flip_map)[::-1]
+            if left_enc != flipped_right:
+                # Mismatch! Swap and flip.
+                new_left = right_enc.translate(flip_map)[::-1]
+                new_right = left_enc.translate(flip_map)[::-1]
+                left_enc, right_enc = new_left, new_right
+        elif left_enc and not right_enc:
+            # Orphan left. Check if it's unbalanced in the whole line.
+            is_unbalanced = False
+            for char in left_enc:
+                mirror = char.translate(flip_map)
+                if char != mirror and line.count(char) > line.count(mirror):
+                    is_unbalanced = True
+                    break
+            if is_unbalanced:
+                right_enc = left_enc.translate(flip_map)[::-1]
+                left_enc = ""
+                
+        # Reconstruct line: Terminal punctuation goes INSIDE the quotes naturally!
+        fixed_line = f"{left_enc}{core}{right_term}{right_enc}"
         fixed_lines.append(f"\u202B{fixed_line}\u202C")
         
     return '\n'.join(fixed_lines)
@@ -608,8 +628,7 @@ def fetch_op_ed(path: str):
     download_url = RAW_ASS_BASE_URL + "main/" + urllib.parse.quote(path)
     try:
         req = urllib.request.Request(download_url, headers={'User-Agent': 'Mozilla/5.0'})
-        # --- NEW: Added 15-second timeout to prevent permanent hanging ---
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req) as resp:
             content = resp.read().decode('utf-8-sig', errors='ignore')
             
         os.makedirs(os.path.dirname(local_path), exist_ok=True)
@@ -627,7 +646,7 @@ def main():
     req = urllib.request.Request(REPO_API_URL, headers={'User-Agent': 'Mozilla/5.0'})
     
     try:
-        with urllib.request.urlopen(req, timeout=15) as response:
+        with urllib.request.urlopen(req) as response:
             tree_data = json.loads(response.read().decode())
     except Exception as e:
         print(f"[-] Failed to fetch from GitHub API: {e}")
@@ -635,7 +654,7 @@ def main():
     print("[?] Fetching sub.properties for OP/ED mapping...")
     try:
         prop_req = urllib.request.Request(RAW_ASS_BASE_URL + "main/sub.properties", headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(prop_req, timeout=15) as response:
+        with urllib.request.urlopen(prop_req) as response:
             op_ed_rules = parse_properties_rules(response.read().decode('utf-8'))
     except Exception as e:
         print(f"[-] Failed to fetch sub.properties: {e}")
@@ -759,7 +778,7 @@ def main():
             for attempt in range(5):
                 try:
                     dl_req = urllib.request.Request(download_url, headers={'User-Agent': 'Mozilla/5.0'})
-                    with urllib.request.urlopen(dl_req, timeout=15) as dl_resp:
+                    with urllib.request.urlopen(dl_req) as dl_resp:
                         ass_text = dl_resp.read().decode('utf-8-sig', errors='ignore')
                         
                     # Fetch, Parse, and Inject OP/ED (WITH MEMORY CACHING)
