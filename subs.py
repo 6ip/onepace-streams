@@ -36,7 +36,7 @@ _TIME_PATTERN = re.compile(r"(\d+):(\d{2}):(\d{2})\.(\d{2})")
 _ASS_TAG_PATTERN = re.compile(r"\{[^}]*\}")
 
 # --- Regex Patterns ---
-_KARAOKE_PATTERN = re.compile(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?|rocks|particles|debris|dirt|smoke|spark)')
+_KARAOKE_PATTERN = re.compile(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?)')
 _OP_ED_STYLE_PATTERN = re.compile(r'(op\d*|ed\d*|ending|opening|song)')
 _X_POS_PATTERN = re.compile(r'\\(?:pos|move)\(([-+]?\d*\.?\d+)')
 _Y_POS_PATTERN = re.compile(r'\\(?:pos|move)\s*\([-+]?\d*\.?\d+\s*,\s*([-+]?\d*\.?\d+)')
@@ -62,7 +62,7 @@ def time_to_ms(t_str: str) -> int:
 def fix_rtl_visual_typing(text: str) -> str:
     """
     Fixes Arabic punctuation typed visually and enforces RTL per line.
-    Handles nested quotes, leading terminals, and inline Aegisub visual typos.
+    Correctly maps Aegisub's visual left (index 0) to Arabic's logical end.
     """
     flip_map = str.maketrans('«»()[]{}', '»«)(][}{')
     enclosing_chars = r'"\'«»()[]{}'
@@ -70,7 +70,7 @@ def fix_rtl_visual_typing(text: str) -> str:
     
     fixed_lines = []
     for line in text.split('\n'):
-        # 1. Clean existing BiDi markers to prevent them from breaking the logic loops
+        # 1. Clean existing BiDi markers
         line = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', line)
         
         if not line.strip():
@@ -79,36 +79,54 @@ def fix_rtl_visual_typing(text: str) -> str:
             
         core_text = line.strip()
         
-        # 2. Move leading terminal punctuation to the end
-        # Fixes: "?ممنوع الدخول" -> "ممنوع الدخول?"
-        lead_term = ""
-        while core_text and core_text[0] in terminal_chars:
-            lead_term += core_text[0]
+        # 2. Extract ALL punctuation from the LEFT side.
+        # In Aegisub, the left side is the visual left. For Arabic, this is the logical END.
+        left_enc = ""
+        left_term = ""
+        while core_text and core_text[0] in enclosing_chars + terminal_chars:
+            if core_text[0] in terminal_chars:
+                left_term += core_text[0]
+            else:
+                left_enc += core_text[0]
             core_text = core_text[1:].lstrip()
             
-        # 3. Extract and Swap/Flip edge enclosures
-        start_enc = ""
+        # 3. Extract ONLY enclosures from the RIGHT side.
+        # In Aegisub, the right side is the visual right (logical START).
+        # Terminals are purposely ignored here to fix inline typos correctly.
         end_enc = ""
-        
-        while core_text and core_text[0] in enclosing_chars:
-            start_enc += core_text[0]
-            core_text = core_text[1:].lstrip()
-            
         while core_text and core_text[-1] in enclosing_chars:
             end_enc = core_text[-1] + end_enc
             core_text = core_text[:-1].rstrip()
             
-        # The swap-and-flip mathematically reverses LTR visual typing
-        new_start_enc = end_enc.translate(flip_map)
-        new_end_enc = start_enc.translate(flip_map)
+        # 4. Smart Swap Logic
+        needs_swap = False
+        if left_enc and end_enc:
+            # Both sides have quotes -> Typical LTR backward typing.
+            needs_swap = True
+        elif end_enc and not left_enc:
+            # Only end quote. Is it an orphan?
+            for char in end_enc:
+                if char in core_text:
+                    needs_swap = True
+                    break
+        elif left_enc and not end_enc:
+            needs_swap = True
+            
+        if needs_swap:
+            new_start_enc = end_enc.translate(flip_map)
+            new_end_enc = left_enc.translate(flip_map)
+        else:
+            new_start_enc = left_enc
+            new_end_enc = end_enc
+            
+        # 5. Fix inline visual typos
+        core_text = re.sub(r'»([^«»]+)«', r'«\1»', core_text) # Fixes »word«
+        core_text = re.sub(r'\)([^()]+)\(', r'(\1)', core_text) # Fixes )word(
+        core_text = re.sub(r'\]([^\[\]]+)\[', r'[\1]', core_text) # Fixes ]word[
+        core_text = re.sub(r'\}([^{}]+)\{', r'{\1}', core_text) # Fixes }word{
         
-        # 4. Fix inline visual quotes
-        # Often, encoders will type »word« instead of «word» in the middle of a sentence.
-        # This safely flips isolated inverted guillemets back to standard Arabic format.
-        core_text = re.sub(r'»([^«»]+)«', r'«\1»', core_text)
-        
-        # 5. Reconstruct and wrap with RTL Isolate (\u202B) and Pop Formatting (\u202C)
-        fixed_line = f"{new_start_enc}{core_text}{new_end_enc}{lead_term}"
+        # 6. Reconstruct line securely
+        fixed_line = f"{new_start_enc}{core_text}{left_term}{new_end_enc}"
         fixed_lines.append(f"\u202B{fixed_line}\u202C")
         
     return '\n'.join(fixed_lines)
@@ -184,12 +202,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
                     clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
                     
-                    # --- NEW: Drop Dingbat Debris (Universal Language Support) ---
-                    if not re.search(r'[^\W_]', clean_text):
-                        continue
-                    if len(clean_text.strip()) == 1 and clean_text.strip().lower() in "bcdfghjklmnpqrstvwxz":
-                        continue
-                        
                     if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
                         continue
                         
@@ -317,18 +329,16 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         is_dup = False
         # Remove spaces, punctuation, and RTL markers for pure matching
         clean_d = re.sub(r'[^\w]', '', d["text"])
-        
         for f in final_dialogues:
-            # FIX: Use pre-calculated _clean_text instead of running regex millions of times!
-            if clean_d and clean_d == f.get("_clean_text") and abs(f["start_ms"] - d["start_ms"]) < 4000:
+            clean_f = re.sub(r'[^\w]', '', f["text"])
+            # Match loosely to catch both Intro and Outro duplicates
+            if clean_d and clean_d == clean_f and abs(f["start_ms"] - d["start_ms"]) < 4000:
                 is_dup = True
-                # Extend the timeline of the existing dialogue to catch the outro animation!
+                # FIX: Extend the timeline of the existing dialogue to catch the outro animation!
                 f["end_ms"] = max(f["end_ms"], d["end_ms"])
                 f["start_ms"] = min(f["start_ms"], d["start_ms"])
                 break
-                
         if not is_dup:
-            d["_clean_text"] = clean_d  # Cache the clean text to save CPU cycles
             if re.search(r'[\u0600-\u06FF]', d["text"]):
                 clean_d_text = d["text"].replace("\u202B", "").replace("\u202C", "").strip()
                 if lang_code == "ara":
@@ -428,14 +438,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip('\r\n\t')
 
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
-            continue
-          
-        # --- NEW: Drop Dingbat Debris (Universal Language Support) ---
-        # 1. Drop if the line has absolutely no letters or numbers in ANY language (pure symbols like %%%%)
-        if not re.search(r'[^\W_]', text):
-            continue
-        # 2. Drop rogue single consonants (like 'v' or 'z') used as particles, but protect vowels and valid words across languages
-        if len(text.strip()) == 1 and text.strip().lower() in "bcdfghjklmnpqrstvwxz":
             continue
             
         effect = entry.get("Effect", "").lower()
@@ -658,9 +660,6 @@ def main():
     ass_files = [item for item in tree_data.get("tree", []) if item.get("path", "").endswith(".ass")]
     print(f"[+] Found {len(ass_files)} .ass files to process. Starting conversion...")
 
-    # --- NEW: Memory Cache to prevent 10-minute freezes on heavy OPs ---
-    parsed_theme_cache = {} 
-
     for i, item in enumerate(ass_files):
         path = item.get("path", "")
         # Explicitly ignore the Release folder
@@ -765,28 +764,14 @@ def main():
                     with urllib.request.urlopen(dl_req) as dl_resp:
                         ass_text = dl_resp.read().decode('utf-8-sig', errors='ignore')
                         
-                    # Fetch, Parse, and Inject OP/ED (WITH MEMORY CACHING)
+                    # Fetch, Parse, and Inject OP/ED
                     op_dialogues, ed_dialogues = None, None
-                    
                     if op_path:
-                        cache_key = f"OP_{op_path}_{lang_code}"
-                        if cache_key in parsed_theme_cache:
-                            op_dialogues = parsed_theme_cache[cache_key]
-                        else:
-                            op_content = fetch_op_ed(op_path)
-                            if op_content: 
-                                op_dialogues = process_op_ed_file(op_content, 0, lang_code)
-                                parsed_theme_cache[cache_key] = op_dialogues
-                                
+                        op_content = fetch_op_ed(op_path)
+                        if op_content: op_dialogues = process_op_ed_file(op_content, 0, lang_code)
                     if ed_path:
-                        cache_key = f"ED_{ed_path}_{lang_code}"
-                        if cache_key in parsed_theme_cache:
-                            ed_dialogues = parsed_theme_cache[cache_key]
-                        else:
-                            ed_content = fetch_op_ed(ed_path)
-                            if ed_content: 
-                                ed_dialogues = process_op_ed_file(ed_content, 0, lang_code)
-                                parsed_theme_cache[cache_key] = ed_dialogues
+                        ed_content = fetch_op_ed(ed_path)
+                        if ed_content: ed_dialogues = process_op_ed_file(ed_content, 0, lang_code)
                         
                     # Call the VTT function with injected themes
                     vtt_text = ass_to_vtt(ass_text, op_dialogues, ed_dialogues, lang_code)
