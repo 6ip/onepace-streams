@@ -60,71 +60,55 @@ def time_to_ms(t_str: str) -> int:
     return 0
 
 def fix_rtl_visual_typing(text: str) -> str:
-    """Fixes Arabic punctuation typed visually and enforces RTL per line."""
+    """
+    Fixes Arabic punctuation typed visually and enforces RTL per line.
+    Handles nested quotes, leading terminals, and inline Aegisub visual typos.
+    """
     flip_map = str.maketrans('«»()[]{}', '»«)(][}{')
     enclosing_chars = r'"\'«»()[]{}'
     terminal_chars = r'!؟?.,،؛:'
     
     fixed_lines = []
     for line in text.split('\n'):
+        # 1. Clean existing BiDi markers to prevent them from breaking the logic loops
+        line = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', line)
+        
         if not line.strip():
             fixed_lines.append(line)
             continue
             
-        core = line.strip()
+        core_text = line.strip()
         
-        # 1. Extract Left Enclosing
-        left_enc = ""
-        while core and core[0] in enclosing_chars:
-            left_enc += core[0]
-            core = core[1:].lstrip()
+        # 2. Move leading terminal punctuation to the end
+        # Fixes: "?ممنوع الدخول" -> "ممنوع الدخول?"
+        lead_term = ""
+        while core_text and core_text[0] in terminal_chars:
+            lead_term += core_text[0]
+            core_text = core_text[1:].lstrip()
             
-        # 2. Extract Left Terminal
-        left_term = ""
-        while core and core[0] in terminal_chars:
-            left_term += core[0]
-            core = core[1:].lstrip()
-            
-        # 3. Extract Right Terminal
-        right_term = ""
-        while core and core[-1] in terminal_chars:
-            right_term = core[-1] + right_term
-            core = core[:-1].rstrip()
-            
-        # 4. Extract Right Enclosing
-        right_enc = ""
-        while core and core[-1] in enclosing_chars:
-            right_enc = core[-1] + right_enc
-            core = core[:-1].rstrip()
-            
-        # --- Transformations ---
+        # 3. Extract and Swap/Flip edge enclosures
+        start_enc = ""
+        end_enc = ""
         
-        # A. Terminals at the start ALWAYS move to the end.
-        right_term = left_term + right_term
-        left_term = ""
+        while core_text and core_text[0] in enclosing_chars:
+            start_enc += core_text[0]
+            core_text = core_text[1:].lstrip()
+            
+        while core_text and core_text[-1] in enclosing_chars:
+            end_enc = core_text[-1] + end_enc
+            core_text = core_text[:-1].rstrip()
+            
+        # The swap-and-flip mathematically reverses LTR visual typing
+        new_start_enc = end_enc.translate(flip_map)
+        new_end_enc = start_enc.translate(flip_map)
         
-        # B. Enclosures Logic
-        if left_enc and right_enc:
-            flipped_right = right_enc.translate(flip_map)[::-1]
-            if left_enc != flipped_right:
-                # Mismatch! Swap and flip.
-                new_left = right_enc.translate(flip_map)[::-1]
-                new_right = left_enc.translate(flip_map)[::-1]
-                left_enc, right_enc = new_left, new_right
-        elif left_enc and not right_enc:
-            # Orphan left. Check if it's unbalanced in the whole line.
-            is_unbalanced = False
-            for char in left_enc:
-                mirror = char.translate(flip_map)
-                if char != mirror and line.count(char) > line.count(mirror):
-                    is_unbalanced = True
-                    break
-            if is_unbalanced:
-                right_enc = left_enc.translate(flip_map)[::-1]
-                left_enc = ""
-                
-        # Reconstruct line: Terminal punctuation goes INSIDE the quotes naturally!
-        fixed_line = f"{left_enc}{core}{right_term}{right_enc}"
+        # 4. Fix inline visual quotes
+        # Often, encoders will type »word« instead of «word» in the middle of a sentence.
+        # This safely flips isolated inverted guillemets back to standard Arabic format.
+        core_text = re.sub(r'»([^«»]+)«', r'«\1»', core_text)
+        
+        # 5. Reconstruct and wrap with RTL Isolate (\u202B) and Pop Formatting (\u202C)
+        fixed_line = f"{new_start_enc}{core_text}{new_end_enc}{lead_term}"
         fixed_lines.append(f"\u202B{fixed_line}\u202C")
         
     return '\n'.join(fixed_lines)
