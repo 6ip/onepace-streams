@@ -36,7 +36,7 @@ _TIME_PATTERN = re.compile(r"(\d+):(\d{2}):(\d{2})\.(\d{2})")
 _ASS_TAG_PATTERN = re.compile(r"\{[^}]*\}")
 
 # --- Regex Patterns ---
-_KARAOKE_PATTERN = re.compile(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?)')
+_KARAOKE_PATTERN = re.compile(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?|rocks|particles|debris|dirt|smoke|spark)')
 _OP_ED_STYLE_PATTERN = re.compile(r'(op\d*|ed\d*|ending|opening|song)')
 _X_POS_PATTERN = re.compile(r'\\(?:pos|move)\(([-+]?\d*\.?\d+)')
 _Y_POS_PATTERN = re.compile(r'\\(?:pos|move)\s*\([-+]?\d*\.?\d+\s*,\s*([-+]?\d*\.?\d+)')
@@ -64,6 +64,7 @@ def fix_rtl_visual_typing(text: str) -> str:
     flip_map = str.maketrans('«»()[]{}', '»«)(][}{')
     enclosing_chars = r'"\'«»()[]{}'
     terminal_chars = r'!؟?.,،؛:'
+    all_punct = enclosing_chars + terminal_chars
     
     fixed_lines = []
     for line in text.split('\n'):
@@ -73,29 +74,35 @@ def fix_rtl_visual_typing(text: str) -> str:
             
         core_text = line.strip()
         
-        # 1. Move leading terminal punctuation to the end
-        lead_term = ""
-        while core_text and core_text[0] in terminal_chars:
-            lead_term += core_text[0]
+        # 1. Extract ALL leading punctuation (both terminal and enclosing)
+        left_punct = ""
+        while core_text and core_text[0] in all_punct:
+            left_punct += core_text[0]
             core_text = core_text[1:].lstrip()
             
-        # 2. Swap and flip enclosing punctuation
-        start_enc = ""
-        end_enc = ""
-        
-        while core_text and core_text[0] in enclosing_chars:
-            start_enc += core_text[0]
-            core_text = core_text[1:].lstrip()
-            
+        # 2. Extract ONLY trailing enclosing punctuation
+        # (We leave trailing terminals alone because they are already at the logical end)
+        right_enc = ""
         while core_text and core_text[-1] in enclosing_chars:
-            end_enc = core_text[-1] + end_enc
+            right_enc = core_text[-1] + right_enc
             core_text = core_text[:-1].rstrip()
             
-        new_start_enc = end_enc.translate(flip_map)
-        new_end_enc = start_enc.translate(flip_map)
+        # 3. Smart Swap & Reverse
+        # Left punctuation ALWAYS moves to the end, flipped and reversed.
+        # e.g., `«!` -> `»!` -> `!»`
+        new_end_from_left = left_punct.translate(flip_map)[::-1]
         
+        # Right enclosing punctuation only moves to the front if it's part of a pair,
+        # otherwise it stays at the end (genuine closing quote).
+        if left_punct and right_enc:
+            new_start_from_right = right_enc.translate(flip_map)[::-1]
+            new_end_from_right = ""
+        else:
+            new_start_from_right = ""
+            new_end_from_right = right_enc
+            
         # Reconstruct the line properly!
-        fixed_line = f"{new_start_enc}{core_text}{new_end_enc}{lead_term}"
+        fixed_line = f"{new_start_from_right}{core_text}{new_end_from_right}{new_end_from_left}"
         
         # ADD RTL WRAPPERS PER LINE!
         fixed_lines.append(f"\u202B{fixed_line}\u202C")
@@ -173,6 +180,12 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
                     clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
                     
+                    # --- NEW: Drop Dingbat Debris (Universal Language Support) ---
+                    if not re.search(r'[^\W_]', clean_text):
+                        continue
+                    if len(clean_text.strip()) == 1 and clean_text.strip().lower() in "bcdfghjklmnpqrstvwxz":
+                        continue
+                        
                     if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
                         continue
                         
@@ -300,16 +313,18 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         is_dup = False
         # Remove spaces, punctuation, and RTL markers for pure matching
         clean_d = re.sub(r'[^\w]', '', d["text"])
+        
         for f in final_dialogues:
-            clean_f = re.sub(r'[^\w]', '', f["text"])
-            # Match loosely to catch both Intro and Outro duplicates
-            if clean_d and clean_d == clean_f and abs(f["start_ms"] - d["start_ms"]) < 4000:
+            # FIX: Use pre-calculated _clean_text instead of running regex millions of times!
+            if clean_d and clean_d == f.get("_clean_text") and abs(f["start_ms"] - d["start_ms"]) < 4000:
                 is_dup = True
-                # FIX: Extend the timeline of the existing dialogue to catch the outro animation!
+                # Extend the timeline of the existing dialogue to catch the outro animation!
                 f["end_ms"] = max(f["end_ms"], d["end_ms"])
                 f["start_ms"] = min(f["start_ms"], d["start_ms"])
                 break
+                
         if not is_dup:
+            d["_clean_text"] = clean_d  # Cache the clean text to save CPU cycles
             if re.search(r'[\u0600-\u06FF]', d["text"]):
                 clean_d_text = d["text"].replace("\u202B", "").replace("\u202C", "").strip()
                 if lang_code == "ara":
@@ -409,6 +424,14 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip('\r\n\t')
 
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
+            continue
+          
+        # --- NEW: Drop Dingbat Debris (Universal Language Support) ---
+        # 1. Drop if the line has absolutely no letters or numbers in ANY language (pure symbols like %%%%)
+        if not re.search(r'[^\W_]', text):
+            continue
+        # 2. Drop rogue single consonants (like 'v' or 'z') used as particles, but protect vowels and valid words across languages
+        if len(text.strip()) == 1 and text.strip().lower() in "bcdfghjklmnpqrstvwxz":
             continue
             
         effect = entry.get("Effect", "").lower()
@@ -585,7 +608,8 @@ def fetch_op_ed(path: str):
     download_url = RAW_ASS_BASE_URL + "main/" + urllib.parse.quote(path)
     try:
         req = urllib.request.Request(download_url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req) as resp:
+        # --- NEW: Added 15-second timeout to prevent permanent hanging ---
+        with urllib.request.urlopen(req, timeout=15) as resp:
             content = resp.read().decode('utf-8-sig', errors='ignore')
             
         os.makedirs(os.path.dirname(local_path), exist_ok=True)
@@ -603,7 +627,7 @@ def main():
     req = urllib.request.Request(REPO_API_URL, headers={'User-Agent': 'Mozilla/5.0'})
     
     try:
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, timeout=15) as response:
             tree_data = json.loads(response.read().decode())
     except Exception as e:
         print(f"[-] Failed to fetch from GitHub API: {e}")
@@ -611,7 +635,7 @@ def main():
     print("[?] Fetching sub.properties for OP/ED mapping...")
     try:
         prop_req = urllib.request.Request(RAW_ASS_BASE_URL + "main/sub.properties", headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(prop_req) as response:
+        with urllib.request.urlopen(prop_req, timeout=15) as response:
             op_ed_rules = parse_properties_rules(response.read().decode('utf-8'))
     except Exception as e:
         print(f"[-] Failed to fetch sub.properties: {e}")
@@ -630,6 +654,9 @@ def main():
     
     ass_files = [item for item in tree_data.get("tree", []) if item.get("path", "").endswith(".ass")]
     print(f"[+] Found {len(ass_files)} .ass files to process. Starting conversion...")
+
+    # --- NEW: Memory Cache to prevent 10-minute freezes on heavy OPs ---
+    parsed_theme_cache = {} 
 
     for i, item in enumerate(ass_files):
         path = item.get("path", "")
@@ -732,17 +759,31 @@ def main():
             for attempt in range(5):
                 try:
                     dl_req = urllib.request.Request(download_url, headers={'User-Agent': 'Mozilla/5.0'})
-                    with urllib.request.urlopen(dl_req) as dl_resp:
+                    with urllib.request.urlopen(dl_req, timeout=15) as dl_resp:
                         ass_text = dl_resp.read().decode('utf-8-sig', errors='ignore')
                         
-                    # Fetch, Parse, and Inject OP/ED
+                    # Fetch, Parse, and Inject OP/ED (WITH MEMORY CACHING)
                     op_dialogues, ed_dialogues = None, None
+                    
                     if op_path:
-                        op_content = fetch_op_ed(op_path)
-                        if op_content: op_dialogues = process_op_ed_file(op_content, 0, lang_code)
+                        cache_key = f"OP_{op_path}_{lang_code}"
+                        if cache_key in parsed_theme_cache:
+                            op_dialogues = parsed_theme_cache[cache_key]
+                        else:
+                            op_content = fetch_op_ed(op_path)
+                            if op_content: 
+                                op_dialogues = process_op_ed_file(op_content, 0, lang_code)
+                                parsed_theme_cache[cache_key] = op_dialogues
+                                
                     if ed_path:
-                        ed_content = fetch_op_ed(ed_path)
-                        if ed_content: ed_dialogues = process_op_ed_file(ed_content, 0, lang_code)
+                        cache_key = f"ED_{ed_path}_{lang_code}"
+                        if cache_key in parsed_theme_cache:
+                            ed_dialogues = parsed_theme_cache[cache_key]
+                        else:
+                            ed_content = fetch_op_ed(ed_path)
+                            if ed_content: 
+                                ed_dialogues = process_op_ed_file(ed_content, 0, lang_code)
+                                parsed_theme_cache[cache_key] = ed_dialogues
                         
                     # Call the VTT function with injected themes
                     vtt_text = ass_to_vtt(ass_text, op_dialogues, ed_dialogues, lang_code)
