@@ -202,13 +202,23 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                     clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
                     clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
                     
-                    # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel safely ---
-                    # Strictly target Tatweel (\u0640) and Harakat (\u064B-\u065F) without touching letters!
+                    # --- FIX: Drop Dingbat Debris, Standalone Harakat, and Weird Isolated Characters ---
                     test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', clean_text)
                     if not re.search(r'[^\W_]', test_text):
                         continue
-                    if len(clean_text.strip()) == 1 and clean_text.strip().lower() in "bcdfghjklmnpqrstvwxz":
-                        continue
+                        
+                    stripped_char = clean_text.strip().lower()
+                    if len(stripped_char) == 1:
+                        # Safe 1-letter words: English (a, i), Spanish/Italian (y, o, e, u), Arabic (و)
+                        valid_singles = "aioyeuàôو"
+                        
+                        # 1. Drop weird characters (Ó), isolated consonants, etc.
+                        if stripped_char not in valid_singles and not stripped_char.isdigit():
+                            continue
+                            
+                        # 2. Drop single numbers (like "4") if they look like visual debris/FX
+                        if stripped_char.isdigit() and ("fx" in effect or "kara" in style or name in ["op", "ed"]):
+                            continue
                         
                     if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
                         continue
@@ -435,22 +445,32 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
             continue
           
-        # --- FIX: Drop Dingbat Debris & Standalone Harakat/Tatweel safely ---
-        # Strictly target Tatweel (\u0640) and Harakat (\u064B-\u065F) without touching letters!
+        # --- FIX: Drop Dingbat Debris, Standalone Harakat, and Weird Characters safely ---
         test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', text)
         if not re.search(r'[^\W_]', test_text):
             continue
             
-        if len(text.strip()) == 1 and text.strip().lower() in "bcdfghjklmnpqrstvwxz":
-            continue
-            
         effect = entry.get("Effect", "").lower()
+        style = entry.get("Style", "").lower()
+        name = entry.get("Name", "").lower()
+        
+        stripped_char = text.strip().lower()
+        if len(stripped_char) == 1:
+            valid_singles = "aioyeuàôو"
+            
+            # 1. Drop isolated consonants, weird accents (Ó, ñ), and random foreign letters.
+            if stripped_char not in valid_singles and not stripped_char.isdigit():
+                continue
+                
+            # 2. Drop isolated numbers (like "4") ONLY if they are heavily styled or part of FX
+            # to prevent accidentally deleting normal dialogue answers like "4."
+            if stripped_char.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style):
+                continue
         
         if "code" in effect or "template" in effect or "fxgroup" in text_raw.lower() or "_g." in text_raw.lower() or "retime" in text_raw.lower():
             continue
             
         clean_lower = text.strip().lower()
-        style = entry.get("Style", "").lower()
         
         if clean_lower == style or clean_lower == "roger monologue":
             continue
