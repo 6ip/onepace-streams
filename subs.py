@@ -120,10 +120,12 @@ def fix_rtl_visual_typing(text: str) -> str:
             new_end_enc = end_enc
             
         # 5. Fix inline visual typos
-        core_text = re.sub(r'»([^«»]+)«', r'«\1»', core_text) # Fixes »word«
-        core_text = re.sub(r'\)([^()]+)\(', r'(\1)', core_text) # Fixes )word(
-        core_text = re.sub(r'\]([^\[\]]+)\[', r'[\1]', core_text) # Fixes ]word[
-        core_text = re.sub(r'\}([^{}]+)\{', r'{\1}', core_text) # Fixes }word{
+        # NEW FIX: Require at least one alphanumeric character ([^\W_]) inside the enclosures!
+        # This prevents the regex from aggressively matching the space/punctuation between two separate valid quotes.
+        core_text = re.sub(r'»([^«»]*[^\W_][^«»]*)«', r'«\1»', core_text) # Fixes »word«
+        core_text = re.sub(r'\)([^()]*[^\W_][^()]*)\(', r'(\1)', core_text) # Fixes )word(
+        core_text = re.sub(r'\]([^\[\]]*[^\W_][^\[\]]*)\[', r'[\1]', core_text) # Fixes ]word[
+        core_text = re.sub(r'\}([^{}]*[^\W_][^{}]*)\{', r'{\1}', core_text) # Fixes }word{
         
         # 6. Reconstruct line securely
         fixed_line = f"{new_start_enc}{core_text}{left_term}{new_end_enc}"
