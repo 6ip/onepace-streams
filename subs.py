@@ -359,20 +359,25 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if lang_code == "spa" and re.search(r'(main|flashback|thought|secondary|caption|title)', style):
             continue
 
-        # Extract y_pos from RAW text before tags are stripped
+        # Extract X and Y pos from RAW text before tags are stripped
+        x_pos = 0.0
+        pos_match_x = _X_POS_PATTERN.search(text_raw)
+        if pos_match_x:
+            try: x_pos = float(pos_match_x.group(1))
+            except ValueError: pass
+
         y_pos = 1000.0
-        pos_match = _Y_POS_PATTERN.search(text_raw)
-        if pos_match:
-            try:
-                y_pos = float(pos_match.group(1))
-            except ValueError:
-                pass
+        pos_match_y = _Y_POS_PATTERN.search(text_raw)
+        if pos_match_y:
+            try: y_pos = float(pos_match_y.group(1))
+            except ValueError: pass
                 
-        dialogues.append((line, y_pos))
+        dialogues.append((line, x_pos, y_pos))
 
     processed_dialogues = []
     
-    for line, y_pos in dialogues:
+    # PASS 1: Extract and clean raw components
+    for line, x_pos, y_pos in dialogues:
         text_raw = line.text
         
         # Block drawings
@@ -387,28 +392,15 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
             continue
           
-        # FIX: Ensure we use the string without Tatweels to catch fragments
         test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', text)
         if not re.search(r'[^\W_]', test_text):
             continue
             
-        effect = line.effect.lower()
-        style = line.style.lower()
-        name = line.name.lower()
-        
-        clean_no_marks = test_text.strip().lower()
-        if len(clean_no_marks) == 1:
-            valid_singles = "aioyeuàôو"
-            if clean_no_marks not in valid_singles and not clean_no_marks.isdigit():
-                continue
-            if clean_no_marks.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style or name in ["op", "ed"]):
-                continue
-        
-        if "code" in effect or "template" in effect or "fxgroup" in text_raw.lower() or "_g." in text_raw.lower() or "retime" in text_raw.lower():
+        if "code" in line.effect.lower() or "template" in line.effect.lower() or "fxgroup" in text_raw.lower() or "_g." in text_raw.lower() or "retime" in text_raw.lower():
             continue
             
         clean_lower = text.strip().lower()
-        if clean_lower == style or clean_lower == "roger monologue":
+        if clean_lower == line.style.lower() or clean_lower == "roger monologue":
             continue
         if re.fullmatch(r"(op|ed)[ -][a-z]+", clean_lower) or re.fullmatch(r"[a-z]+[ -](op|ed)", clean_lower):
             continue
@@ -416,25 +408,96 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             continue
         if clean_lower.strip(' -=_') in ["ending", "opening", "op", "ed", "dialogue", "credits", "title", "signs"]:
             continue
-            
-        # YOUR RTL LOGIC
-        if lang_code == "ara" and re.search(r'[\u0600-\u06FF]', text):
-            text = text.strip()
-            text = fix_rtl_visual_typing(text)
-
-        if re.search(r'(title|caption|sign)', style):
-            text = f"<b>{text.strip()}</b>"
 
         processed_dialogues.append({
             "start_ms": line.start,
             "end_ms": line.end,
             "text": text.strip(),
-            "y_pos": y_pos
+            "style": line.style.lower(),
+            "x_pos": x_pos,
+            "y_pos": y_pos,
+            "effect": line.effect.lower()
         })
 
+    # PASS 2: Spatial Clustering (Stitches fragments back into words)
+    active_clusters = []
+    for d in processed_dialogues:
+        placed = False
+        for cluster in active_clusters:
+            prev = cluster[0]
+            # Match if style is same, time overlaps, and Y pos is similar (within 100px)
+            time_overlap = d["start_ms"] <= prev["end_ms"] and d["end_ms"] >= prev["start_ms"]
+            if d["style"] == prev["style"] and time_overlap and abs(d["y_pos"] - prev["y_pos"]) < 100:
+                cluster.append(d)
+                placed = True
+                break
+        if not placed:
+            active_clusters.append([d])
+
+    clustered_dialogues = []
+    for cluster in active_clusters:
+        # Sort spatially based on language
+        if lang_code == "ara":
+            cluster.sort(key=lambda x: x["x_pos"], reverse=True)
+        else:
+            cluster.sort(key=lambda x: x["x_pos"], reverse=False)
+
+        unique_parts = []
+        seen_parts = []
+        for x in cluster:
+            is_layer_dup = False
+            for seen_text, seen_x in seen_parts:
+                if x["text"] == seen_text and abs(x["x_pos"] - seen_x) < 5.0:
+                    is_layer_dup = True
+                    break
+            if not is_layer_dup:
+                seen_parts.append((x["text"], x["x_pos"]))
+                unique_parts.append(x)
+
+        parts = [x["text"] for x in unique_parts]
+        valid_parts = [p for p in parts if p.strip()]
+        if not valid_parts:
+            continue
+
+        # If pieces are small, join with empty string to rebuild word. Otherwise space.
+        avg_len = sum(len(re.sub(r'[\u0640\u064B-\u065F\u0670]', '', p)) for p in valid_parts) / len(valid_parts)
+        separator = "" if avg_len <= 3.0 else " "
+        
+        merged_text = separator.join(parts)
+        merged_text = re.sub(r'\s+', ' ', merged_text).strip()
+        
+        # Final noise filter (applied AFTER words are stitched back together)
+        clean_no_marks = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', merged_text).strip().lower()
+        if len(clean_no_marks) == 1:
+            valid_singles = "aioyeuàôو"
+            style = cluster[0]["style"]
+            effect = cluster[0]["effect"]
+            if clean_no_marks not in valid_singles and not clean_no_marks.isdigit():
+                continue
+            if clean_no_marks.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style):
+                continue
+                
+        # Strip cosmetic Arabic tatweels and fix visual typing
+        if lang_code == "ara":
+            merged_text = merged_text.replace("ـ", "")
+            if re.search(r'[\u0600-\u06FF]', merged_text):
+                merged_text = fix_rtl_visual_typing(merged_text)
+
+        style = cluster[0]["style"]
+        if re.search(r'(title|caption|sign)', style):
+            merged_text = f"<b>{merged_text}</b>"
+
+        clustered_dialogues.append({
+            "start_ms": min(x["start_ms"] for x in cluster),
+            "end_ms": max(x["end_ms"] for x in cluster),
+            "text": merged_text,
+            "y_pos": sum(x["y_pos"] for x in cluster) / len(cluster) # Average vertical height
+        })
+
+    # Add Injected OP/ED Themes
     if op_dialogues and op_start_ms is not None:
         for op_line in op_dialogues:
-            processed_dialogues.append({
+            clustered_dialogues.append({
                 "start_ms": op_line["start_ms"] + op_start_ms,
                 "end_ms": op_line["end_ms"] + op_start_ms,
                 "text": op_line["text"],
@@ -443,27 +506,23 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             
     if ed_dialogues and ed_start_ms is not None:
         for ed_line in ed_dialogues:
-            processed_dialogues.append({
+            clustered_dialogues.append({
                 "start_ms": ed_line["start_ms"] + ed_start_ms,
                 "end_ms": ed_line["end_ms"] + ed_start_ms,
                 "text": ed_line["text"],
                 "y_pos": 1000.0
             })
 
-    # NEW FIX: Temporal Frame-by-Frame Merge
-    # We sort by start time, then merge identical texts that are touching or overlapping within 500ms
-    processed_dialogues.sort(key=lambda x: (x["start_ms"], x["text"]))
+    # PASS 3: Temporal Merge (Flattens rapidly flickering identical text frames)
+    clustered_dialogues.sort(key=lambda x: (x["start_ms"], x["text"]))
     
     merged_dialogues = []
-    for d in processed_dialogues:
+    for d in clustered_dialogues:
         placed = False
-        # Search backwards to find a matching existing layer
         for m in reversed(merged_dialogues):
-            # If the gap is larger than 1.5 seconds, stop looking
             if d["start_ms"] - m["end_ms"] > 1500:
                 break
                 
-            # If text matches exactly and they overlap or are very close
             if d["text"] == m["text"] and d["start_ms"] <= m["end_ms"] + 500:
                 m["end_ms"] = max(m["end_ms"], d["end_ms"])
                 m["start_ms"] = min(m["start_ms"], d["start_ms"])
@@ -475,7 +534,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     processed_dialogues = merged_dialogues
 
-    # Final VTT formatting
+    # PASS 4: VTT Output Generation
     vtt_lines = [
         "WEBVTT",
         "",
