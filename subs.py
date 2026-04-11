@@ -171,12 +171,10 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                 pass
 
         # --- 2. CLEAN TEXT ---
-        # pysubs2 strips {tags} but leaves \N and \h. We convert them to standard spaces/newlines.
         clean_text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
         clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
         clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
 
-        # Check length WITHOUT tatweel and harakat to catch fragments like "ـيـ"
         test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', clean_text)
         if not re.search(r'[^\W_]', test_text):
             continue
@@ -251,7 +249,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
     dialogues.sort(key=lambda x: (x["start_ms"], x["end_ms"]))
     
     active_clusters = []
-    
     for d in dialogues:
         placed = False
         for cluster in active_clusters:
@@ -260,12 +257,10 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                 cluster.append(d)
                 placed = True
                 break
-        
         if not placed:
             active_clusters.append([d])
             
     clustered_dialogues = []
-    
     for cluster in active_clusters:
         if lang_code == "ara":
             cluster.sort(key=lambda x: x["x_pos"], reverse=True)
@@ -277,9 +272,11 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         for x in cluster:
             is_layer_dup = False
             for seen_text, seen_x in seen_parts:
-                if x["text"] == seen_text and abs(x["x_pos"] - seen_x) < 5.0:
-                    is_layer_dup = True
-                    break
+                # FIX: If exact text is found and it's either close OR a full word (>3 chars), it's a shadow/glow layer.
+                if x["text"] == seen_text:
+                    if abs(x["x_pos"] - seen_x) < 20.0 or len(x["text"].strip()) > 3:
+                        is_layer_dup = True
+                        break
             if not is_layer_dup:
                 seen_parts.append((x["text"], x["x_pos"]))
                 unique_parts.append(x)
@@ -290,7 +287,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             avg_len = sum(len(p) for p in valid_parts) / len(valid_parts)
             separator = "" if avg_len <= 1.5 else " "
             merged_text = separator.join(parts)
-            # FIX: Only replace spaces/tabs to preserve \n
             merged_text = re.sub(r'[ \t]+', ' ', merged_text).strip()
             
             clustered_dialogues.append({
@@ -336,7 +332,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         effect = line.effect.lower()
         text_raw = line.text
 
-        # Handle Sync points for OP/ED
         if line.is_comment:
             if name == "op":
                 op_start_ms = line.start
@@ -358,7 +353,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if lang_code == "spa" and re.search(r'(main|flashback|thought|secondary|caption|title)', style):
             continue
 
-        # Extract X and Y pos from RAW text before tags are stripped
         x_pos = 0.0
         pos_match_x = _X_POS_PATTERN.search(text_raw)
         if pos_match_x:
@@ -375,15 +369,12 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     processed_dialogues = []
     
-    # PASS 1: Extract and clean raw components
     for line, x_pos, y_pos in dialogues:
         text_raw = line.text
         
-        # Block drawings
         if r"\p1" in text_raw or r"\p2" in text_raw or r"\p4" in text_raw:
             continue
 
-        # Get clean text natively
         text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
         text = text.replace("\\N", "\n").replace("\\n", "\n")
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip('\r\n\t')
@@ -418,13 +409,11 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "effect": line.effect.lower()
         })
 
-    # PASS 2: Spatial Clustering (Stitches fragments back into words)
     active_clusters = []
     for d in processed_dialogues:
         placed = False
         for cluster in active_clusters:
             prev = cluster[0]
-            # FIX: Tightened Y-pos threshold from 100 to 15 to prevent distinct vertical lines from merging
             time_match = abs(d["start_ms"] - prev["start_ms"]) < 200 and abs(d["end_ms"] - prev["end_ms"]) < 200
             if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 15:
                 cluster.append(d)
@@ -445,9 +434,11 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         for x in cluster:
             is_layer_dup = False
             for seen_text, seen_x in seen_parts:
-                if x["text"] == seen_text and abs(x["x_pos"] - seen_x) < 5.0:
-                    is_layer_dup = True
-                    break
+                # FIX: If exact text is found and it's either close OR a full word (>3 chars), it's a shadow/glow layer.
+                if x["text"] == seen_text:
+                    if abs(x["x_pos"] - seen_x) < 20.0 or len(x["text"].strip()) > 3:
+                        is_layer_dup = True
+                        break
             if not is_layer_dup:
                 seen_parts.append((x["text"], x["x_pos"]))
                 unique_parts.append(x)
@@ -461,7 +452,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         separator = "" if avg_len <= 3.0 else " "
         
         merged_text = separator.join(parts)
-        # FIX: Only replace spaces/tabs to preserve \n
         merged_text = re.sub(r'[ \t]+', ' ', merged_text).strip()
         
         clean_no_marks = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', merged_text).strip().lower()
@@ -474,7 +464,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             if clean_no_marks.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style):
                 continue
                 
-        # FIX: Removed the aggressive Tatweel deletion here
         if lang_code == "ara":
             if re.search(r'[\u0600-\u06FF]', merged_text):
                 merged_text = fix_rtl_visual_typing(merged_text)
@@ -490,7 +479,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "y_pos": sum(x["y_pos"] for x in cluster) / len(cluster)
         })
 
-    # Add Injected OP/ED Themes
     if op_dialogues and op_start_ms is not None:
         for op_line in op_dialogues:
             clustered_dialogues.append({
@@ -509,7 +497,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                 "y_pos": 1000.0
             })
 
-    # PASS 3: Temporal Merge
     clustered_dialogues.sort(key=lambda x: (x["start_ms"], x["text"]))
     
     merged_dialogues = []
@@ -530,7 +517,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     processed_dialogues = merged_dialogues
 
-    # PASS 4: VTT Output Generation
     vtt_lines = [
         "WEBVTT",
         "",
