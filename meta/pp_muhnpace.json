@@ -2004,8 +2004,13 @@
         "links": [
             {
                 "name": "Muhn Pace Spreadsheet",
-                "category": "Link",
+                "category": "Links",
                 "url": "https://docs.google.com/spreadsheets/d/1n0NlZiHCOghEbMY1zgXKiwutygm7g9XdwhdJipxbmPs/edit"
+            },
+            {
+                "name": "Buy me a coffee",
+                "category": "Links",
+                "url": "https://ko-fi.com/not6ip"
             },
             {
                 "name": "9.0",
