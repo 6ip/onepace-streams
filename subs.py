@@ -176,7 +176,7 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
         clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
 
-        # FIX: Check length WITHOUT tatweel and harakat to catch fragments like "ـيـ"
+        # Check length WITHOUT tatweel and harakat to catch fragments like "ـيـ"
         test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', clean_text)
         if not re.search(r'[^\W_]', test_text):
             continue
@@ -250,7 +250,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
 
     dialogues.sort(key=lambda x: (x["start_ms"], x["end_ms"]))
     
-    # --- NEW: Active Clusters Algorithm (Handles Simultaneous Tracks) ---
     active_clusters = []
     
     for d in dialogues:
@@ -268,7 +267,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
     clustered_dialogues = []
     
     for cluster in active_clusters:
-        # Spatial Sorting: Descending for RTL (Arabic), Ascending for LTR
         if lang_code == "ara":
             cluster.sort(key=lambda x: x["x_pos"], reverse=True)
         else:
@@ -292,7 +290,8 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             avg_len = sum(len(p) for p in valid_parts) / len(valid_parts)
             separator = "" if avg_len <= 1.5 else " "
             merged_text = separator.join(parts)
-            merged_text = re.sub(r'\s+', ' ', merged_text).strip()
+            # FIX: Only replace spaces/tabs to preserve \n
+            merged_text = re.sub(r'[ \t]+', ' ', merged_text).strip()
             
             clustered_dialogues.append({
                 "start_ms": min(x["start_ms"] for x in cluster),
@@ -300,7 +299,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
                 "text": merged_text
             })
 
-    # --- 5. DEDUPLICATE OVERLAPPING FX LAYERS ---
     final_dialogues = []
     for d in clustered_dialogues:
         if not d["text"]: continue
@@ -323,6 +321,7 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             final_dialogues.append(d)
 
     return final_dialogues
+
 
 def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list = None, lang_code: str = "eng") -> str:
     subs = pysubs2.SSAFile.from_string(ass_content)
@@ -425,11 +424,9 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         placed = False
         for cluster in active_clusters:
             prev = cluster[0]
-            # FIX: Only cluster if they START at exactly the same time (within 200ms).
-            # This prevents sequential dialogue lines from merging!
+            # FIX: Tightened Y-pos threshold from 100 to 15 to prevent distinct vertical lines from merging
             time_match = abs(d["start_ms"] - prev["start_ms"]) < 200 and abs(d["end_ms"] - prev["end_ms"]) < 200
-            
-            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 100:
+            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 15:
                 cluster.append(d)
                 placed = True
                 break
@@ -438,7 +435,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     clustered_dialogues = []
     for cluster in active_clusters:
-        # Sort spatially based on language
         if lang_code == "ara":
             cluster.sort(key=lambda x: x["x_pos"], reverse=True)
         else:
@@ -461,14 +457,13 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if not valid_parts:
             continue
 
-        # If pieces are small, join with empty string to rebuild word. Otherwise space.
         avg_len = sum(len(re.sub(r'[\u0640\u064B-\u065F\u0670]', '', p)) for p in valid_parts) / len(valid_parts)
         separator = "" if avg_len <= 3.0 else " "
         
         merged_text = separator.join(parts)
-        merged_text = re.sub(r'\s+', ' ', merged_text).strip()
+        # FIX: Only replace spaces/tabs to preserve \n
+        merged_text = re.sub(r'[ \t]+', ' ', merged_text).strip()
         
-        # Final noise filter (applied AFTER words are stitched back together)
         clean_no_marks = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', merged_text).strip().lower()
         if len(clean_no_marks) == 1:
             valid_singles = "aioyeuàôو"
@@ -479,9 +474,8 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             if clean_no_marks.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style):
                 continue
                 
-        # Strip cosmetic Arabic tatweels and fix visual typing
+        # FIX: Removed the aggressive Tatweel deletion here
         if lang_code == "ara":
-            merged_text = merged_text.replace("ـ", "")
             if re.search(r'[\u0600-\u06FF]', merged_text):
                 merged_text = fix_rtl_visual_typing(merged_text)
 
@@ -493,7 +487,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "start_ms": min(x["start_ms"] for x in cluster),
             "end_ms": max(x["end_ms"] for x in cluster),
             "text": merged_text,
-            "y_pos": sum(x["y_pos"] for x in cluster) / len(cluster) # Average vertical height
+            "y_pos": sum(x["y_pos"] for x in cluster) / len(cluster)
         })
 
     # Add Injected OP/ED Themes
@@ -515,7 +509,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                 "y_pos": 1000.0
             })
 
-    # PASS 3: Temporal Merge (Flattens rapidly flickering identical text frames)
+    # PASS 3: Temporal Merge
     clustered_dialogues.sort(key=lambda x: (x["start_ms"], x["text"]))
     
     merged_dialogues = []
