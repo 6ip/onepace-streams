@@ -425,9 +425,11 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         placed = False
         for cluster in active_clusters:
             prev = cluster[0]
-            # Match if style is same, time overlaps, and Y pos is similar (within 100px)
-            time_overlap = d["start_ms"] <= prev["end_ms"] and d["end_ms"] >= prev["start_ms"]
-            if d["style"] == prev["style"] and time_overlap and abs(d["y_pos"] - prev["y_pos"]) < 100:
+            # FIX: Only cluster if they START at exactly the same time (within 200ms).
+            # This prevents sequential dialogue lines from merging!
+            time_match = abs(d["start_ms"] - prev["start_ms"]) < 200 and abs(d["end_ms"] - prev["end_ms"]) < 200
+            
+            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 100:
                 cluster.append(d)
                 placed = True
                 break
