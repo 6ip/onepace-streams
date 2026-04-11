@@ -172,6 +172,10 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
 
         # --- 2. CLEAN TEXT ---
         clean_text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
+        
+        # FIX: Strip out invisible typesetter spacing tricks (like fillLLLl)
+        clean_text = re.sub(r'(?i)(fillLLLl|fillerfil|fillerf)', '', clean_text)
+        
         clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
         clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
 
@@ -272,7 +276,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         for x in cluster:
             is_layer_dup = False
             for seen_text, seen_x in seen_parts:
-                # FIX: If exact text is found and it's either close OR a full word (>3 chars), it's a shadow/glow layer.
                 if x["text"] == seen_text:
                     if abs(x["x_pos"] - seen_x) < 20.0 or len(x["text"].strip()) > 3:
                         is_layer_dup = True
@@ -376,6 +379,10 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             continue
 
         text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
+        
+        # FIX: Strip out invisible typesetter spacing tricks
+        text = re.sub(r'(?i)(fillLLLl|fillerfil|fillerf)', '', text)
+        
         text = text.replace("\\N", "\n").replace("\\n", "\n")
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip('\r\n\t')
 
@@ -403,7 +410,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "start_ms": line.start,
             "end_ms": line.end,
             "text": text.strip(),
-            "style": line.style.lower(),  # Passed down for sorting later!
+            "style": line.style.lower(),
             "x_pos": x_pos,
             "y_pos": y_pos,
             "effect": line.effect.lower()
@@ -415,7 +422,9 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         for cluster in active_clusters:
             prev = cluster[0]
             time_match = abs(d["start_ms"] - prev["start_ms"]) < 200 and abs(d["end_ms"] - prev["end_ms"]) < 200
-            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 15:
+            
+            # FIX: Tightened Y-pos threshold to 5px so tilted lines don't merge incorrectly
+            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 5:
                 cluster.append(d)
                 placed = True
                 break
@@ -475,7 +484,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "start_ms": min(x["start_ms"] for x in cluster),
             "end_ms": max(x["end_ms"] for x in cluster),
             "text": merged_text,
-            "style": style,  # Passed down for sorting later!
+            "style": style,
             "y_pos": sum(x["y_pos"] for x in cluster) / len(cluster)
         })
 
@@ -544,10 +553,9 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     counter = 2
     for (start, end), items in grouped_dialogues.items():
-        # FIX: The new Sign/Note Pushdown rule.
-        # Main dialogue (bottom of screen) goes FIRST. Top-Notes/Signs go LAST.
+        # FIX: Top-Note Pushdown is now restricted to extreme top (< 150) or explicitly named notes.
         items.sort(key=lambda x: (
-            x.get("y_pos", 1000) < 350 or bool(re.search(r'(sign|note|title|top)', x.get("style", ""))),
+            x.get("y_pos", 1000) < 150 or bool(re.search(r'(note|top)', x.get("style", "").lower())),
             x.get("y_pos", 1000)
         ))
         
