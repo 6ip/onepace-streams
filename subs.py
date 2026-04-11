@@ -156,14 +156,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text_raw.lower()):
                 continue
 
-        x_pos = 0.0
-        pos_match = _X_POS_PATTERN.search(text_raw)
-        if pos_match:
-            try:
-                x_pos = float(pos_match.group(1))
-            except ValueError:
-                pass
-
         clean_text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
         clean_text = re.sub(r'(?i)(fillLLLl|fillerfil|fillerf)', '', clean_text)
         clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
@@ -209,128 +201,53 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             "raw_start": line.start,
             "raw_end": line.end,
             "text": clean_text,
-            "style": style,
-            "x_pos": x_pos,
-            "y_pos": 1000.0
+            "style": style
         })
         
     if not raw_dialogues:
         return []
-        
-    deduped = []
-    seen = set()
-    for d in raw_dialogues:
-        identifier = (d["raw_start"], d["raw_end"], d["text"], d["style"])
-        if identifier not in seen:
-            seen.add(identifier)
-            deduped.append(d)
-    raw_dialogues = deduped
 
     if sync_ms is not None:
         base_ms = sync_ms
     else:
         base_ms = min(d["raw_start"] for d in raw_dialogues)
 
-    dialogues = []
-    for d in raw_dialogues:
-        dialogues.append({
-            "start_ms": (d["raw_start"] - base_ms) + offset_ms,
-            "end_ms": (d["raw_end"] - base_ms) + offset_ms,
-            "text": d["text"],
-            "style": d["style"],
-            "x_pos": d["x_pos"],
-            "y_pos": d["y_pos"]
-        })
-
-    # PASS 1.5: Temporal Pre-Merge (Fixes frame-by-frame flickering of the exact same text piece)
-    dialogues.sort(key=lambda x: (x["text"], x["style"], x["start_ms"]))
-    pre_merged = []
-    for d in dialogues:
-        placed = False
-        for m in reversed(pre_merged):
-            if d["text"] == m["text"] and d["style"] == m["style"] and abs(d["y_pos"] - m["y_pos"]) < 15:
-                if d["start_ms"] <= m["end_ms"] + 300: # Flatten fast gaps up to 300ms
-                    m["end_ms"] = max(m["end_ms"], d["end_ms"])
-                    m["start_ms"] = min(m["start_ms"], d["start_ms"])
-                    placed = True
-                    break
-        if not placed:
-            pre_merged.append(d)
-            
-    processed_dialogues = pre_merged
-    processed_dialogues.sort(key=lambda x: x["start_ms"])
+    final_dialogues = []
+    seen = set()
     
-    # PASS 2: Spatial Clustering
-    active_clusters = []
-    for d in processed_dialogues:
+    # PASS 1: Normalize Timestamps and Deduplicate
+    for d in raw_dialogues:
+        start = (d["raw_start"] - base_ms) + offset_ms
+        end = (d["raw_end"] - base_ms) + offset_ms
+        text = d["text"]
+        
+        identifier = (start, text)
+        if identifier not in seen:
+            seen.add(identifier)
+            final_dialogues.append({
+                "start_ms": start,
+                "end_ms": end,
+                "text": text,
+                "style": d["style"]
+            })
+
+    # PASS 2: Temporal Merge (Flattens rapidly flickering identical lines without merging different lyrics)
+    final_dialogues.sort(key=lambda x: (x["text"], x["start_ms"]))
+    merged_op_ed = []
+    
+    for d in final_dialogues:
         placed = False
-        for cluster in active_clusters:
-            prev = cluster[0]
-            # Strict overlap check (start < prev_end AND end > prev_start) prevents sequential dialogue merging
-            time_overlap = d["start_ms"] < prev["end_ms"] and d["end_ms"] > prev["start_ms"]
-            if d["style"] == prev["style"] and time_overlap and abs(d["y_pos"] - prev["y_pos"]) < 15:
-                cluster.append(d)
+        for m in reversed(merged_op_ed):
+            # Only merge if the text is exactly the same and they touch/overlap
+            if d["text"] == m["text"] and d["start_ms"] <= m["end_ms"] + 300:
+                m["end_ms"] = max(m["end_ms"], d["end_ms"])
+                m["start_ms"] = min(m["start_ms"], d["start_ms"])
                 placed = True
                 break
         if not placed:
-            active_clusters.append([d])
-            
-    clustered_dialogues = []
-    for cluster in active_clusters:
-        if lang_code == "ara":
-            cluster.sort(key=lambda x: x["x_pos"], reverse=True)
-        else:
-            cluster.sort(key=lambda x: x["x_pos"], reverse=False)
+            merged_op_ed.append(d)
 
-        unique_parts = []
-        seen_parts = []
-        for x in cluster:
-            is_layer_dup = False
-            for seen_text, seen_x in seen_parts:
-                if x["text"] == seen_text:
-                    if abs(x["x_pos"] - seen_x) < 20.0 or len(x["text"].strip()) > 3:
-                        is_layer_dup = True
-                        break
-            if not is_layer_dup:
-                seen_parts.append((x["text"], x["x_pos"]))
-                unique_parts.append(x)
-
-        parts = [x["text"] for x in unique_parts]
-        valid_parts = [p for p in parts if p.strip()]
-        if valid_parts:
-            avg_len = sum(len(p) for p in valid_parts) / len(valid_parts)
-            separator = "" if avg_len <= 1.5 else " "
-            merged_text = separator.join(parts)
-            merged_text = re.sub(r'[ \t]+', ' ', merged_text).strip()
-            
-            clustered_dialogues.append({
-                "start_ms": min(x["start_ms"] for x in cluster),
-                "end_ms": max(x["end_ms"] for x in cluster),
-                "text": merged_text
-            })
-
-    final_dialogues = []
-    for d in clustered_dialogues:
-        if not d["text"]: continue
-        is_dup = False
-        clean_d = re.sub(r'[^\w]', '', d["text"])
-        for f in final_dialogues:
-            clean_f = re.sub(r'[^\w]', '', f["text"])
-            if clean_d and clean_d == clean_f and abs(f["start_ms"] - d["start_ms"]) < 4000:
-                is_dup = True
-                f["end_ms"] = max(f["end_ms"], d["end_ms"])
-                f["start_ms"] = min(f["start_ms"], d["start_ms"])
-                break
-        if not is_dup:
-            if re.search(r'[\u0600-\u06FF]', d["text"]):
-                clean_d_text = d["text"].replace("\u202B", "").replace("\u202C", "").strip()
-                if lang_code == "ara":
-                    d["text"] = fix_rtl_visual_typing(clean_d_text)
-                else:
-                    d["text"] = f"\u202B{clean_d_text}\u202C"
-            final_dialogues.append(d)
-
-    return final_dialogues
+    return sorted(merged_op_ed, key=lambda x: x["start_ms"])
 
 
 def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list = None, lang_code: str = "eng") -> str:
@@ -383,7 +300,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     processed_dialogues = []
     
-    # PASS 1: Clean Extraction
     for line, x_pos, y_pos in dialogues:
         text_raw = line.text
         
@@ -425,34 +341,15 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "effect": line.effect.lower()
         })
 
-    # PASS 1.5: Temporal Pre-Merge (Fixes frame-by-frame flickering of the exact same text piece)
-    processed_dialogues.sort(key=lambda x: (x["text"], x["style"], x["start_ms"]))
-    pre_merged = []
-    for d in processed_dialogues:
-        placed = False
-        for m in reversed(pre_merged):
-            if d["text"] == m["text"] and d["style"] == m["style"] and abs(d["y_pos"] - m["y_pos"]) < 15:
-                if d["start_ms"] <= m["end_ms"] + 300: # Flatten fast gaps up to 300ms
-                    m["end_ms"] = max(m["end_ms"], d["end_ms"])
-                    m["start_ms"] = min(m["start_ms"], d["start_ms"])
-                    placed = True
-                    break
-        if not placed:
-            pre_merged.append(d)
-            
-    processed_dialogues = pre_merged
-    processed_dialogues.sort(key=lambda x: x["start_ms"])
-
-    # PASS 2: Spatial Clustering
     active_clusters = []
     for d in processed_dialogues:
         placed = False
         for cluster in active_clusters:
             prev = cluster[0]
-            # Strict overlap check (start < prev_end AND end > prev_start) prevents sequential dialogue merging
-            time_overlap = d["start_ms"] < prev["end_ms"] and d["end_ms"] > prev["start_ms"]
+            # STRICT FRAME LOCK: <= 10ms. Prevents cross-frame contamination!
+            time_match = abs(d["start_ms"] - prev["start_ms"]) <= 10 and abs(d["end_ms"] - prev["end_ms"]) <= 10
             
-            if d["style"] == prev["style"] and time_overlap and abs(d["y_pos"] - prev["y_pos"]) < 15:
+            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 15:
                 cluster.append(d)
                 placed = True
                 break
@@ -536,7 +433,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                 "y_pos": 1000.0
             })
 
-    # PASS 3: Temporal Merge
     clustered_dialogues.sort(key=lambda x: (x["start_ms"], x["text"]))
     
     merged_dialogues = []
@@ -557,7 +453,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     processed_dialogues = merged_dialogues
 
-    # PASS 4: Generate VTT Output
     vtt_lines = [
         "WEBVTT",
         "",
