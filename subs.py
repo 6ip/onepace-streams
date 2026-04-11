@@ -4,6 +4,7 @@ import re
 import urllib.parse
 import os
 import time
+import pysubs2
 
 # --- Configuration ---
 REPO_API_URL = "https://api.github.com/repos/one-pace/one-pace-public-subtitles/git/trees/main?recursive=1"
@@ -31,16 +32,11 @@ LANG_MAP = {
     "ja": "jpn", "typesetting": "eng"
 }
 
-# --- Conversion Tools ---
-_TIME_PATTERN = re.compile(r"(\d+):(\d{2}):(\d{2})\.(\d{2})")
-_ASS_TAG_PATTERN = re.compile(r"\{[^}]*\}")
-
 # --- Regex Patterns ---
 _KARAOKE_PATTERN = re.compile(r'(karaoke|kara|romaji|rom|kanji|furigana|credits?)')
 _OP_ED_STYLE_PATTERN = re.compile(r'(op\d*|ed\d*|ending|opening|song)')
 _X_POS_PATTERN = re.compile(r'\\(?:pos|move)\(([-+]?\d*\.?\d+)')
 _Y_POS_PATTERN = re.compile(r'\\(?:pos|move)\s*\([-+]?\d*\.?\d+\s*,\s*([-+]?\d*\.?\d+)')
-_ALPHA_TAG_PATTERN = re.compile(r'\{[^}]*\\alpha&H[Ff]{2}&[^}]*\}[^{]*')
 
 def ms_to_vtt_time(ms: int) -> str:
     """Helper to convert integer milliseconds back to WEBVTT timestamp formatting."""
@@ -51,13 +47,6 @@ def ms_to_vtt_time(ms: int) -> str:
     s = ms // 1000
     ms %= 1000
     return f"{h:02d}:{m:02d}:{s:02d}.{ms:03d}"
-
-def time_to_ms(t_str: str) -> int:
-    match = _TIME_PATTERN.match(t_str.strip())
-    if match:
-        h, m, s, cs = match.groups()
-        return int(h) * 3600000 + int(m) * 60000 + int(s) * 1000 + int(cs) * 10
-    return 0
 
 def fix_rtl_visual_typing(text: str) -> str:
     """
@@ -134,129 +123,103 @@ def fix_rtl_visual_typing(text: str) -> str:
     return '\n'.join(fixed_lines)
     
 def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list:
-    lines = ass_content.split("\n")
-    events_section = False
-    format_line = None
+    # Load the ASS file directly from the downloaded string
+    subs = pysubs2.SSAFile.from_string(ass_content)
     raw_dialogues = []
     sync_ms = None
 
-    for line in lines:
-        # Preserve Aegisub line breaks and empty strings
-        line = line.strip('\r\n\t') 
-        if line == "[Events]":
-            events_section = True
+    # 1. First pass: find the sync time
+    for line in subs:
+        if line.name.lower() == "sync":
+            sync_ms = line.start
+            break
+
+    # 2. Second pass: process lines
+    for line in subs:
+        name = line.name.lower()
+        effect = line.effect.lower()
+        style = line.style.lower()
+        text_raw = line.text
+
+        # Skip sync lines in this loop, or scene ends
+        if name == "sync":
             continue
-        if line.startswith("[") and line.endswith("]") and events_section:
-            events_section = False
+        
+        clean_text_pre = line.plaintext.lower()
+        if "scene ends" in clean_text_pre or name in ["op", "ed", "ending"]:
             continue
-        if events_section and line.startswith("Format:"):
-            format_line = [f.strip() for f in line[7:].split(",")]
+
+        # --- 1. FILTERS ---
+        if _KARAOKE_PATTERN.search(style):
             continue
-            
-        if events_section and (line.startswith("Dialogue:") or line.startswith("Comment:")):
-            if format_line:
-                _, _, data = line.partition(" ")
-                parts = data.split(",", len(format_line) - 1)
-                if len(parts) == len(format_line):
-                    entry = dict(zip(format_line, parts))
-                    
-                    name = entry.get("Name", "").lower()
-                    effect = entry.get("Effect", "").lower()
-                    style = entry.get("Style", "").lower()
-                    text = entry.get("Text", "")
-                    is_comment = line.startswith("Comment:")
-                    
-                    if name == "sync":
-                        sync_ms = time_to_ms(entry.get("Start", "0:00:00.00"))
-                        continue 
-                        
-                    if "scene ends" in text.lower() or name in ["op", "ed", "ending"]:
-                        continue
+        if r"\p1" in text_raw or r"\p2" in text_raw or r"\p4" in text_raw or r"\p0" in text_raw:
+            continue
 
-                    # --- 1. FILTERS ---
-                    if _KARAOKE_PATTERN.search(style):
-                        continue
-                    if r"\p1" in text or r"\p2" in text or r"\p4" in text or r"\p0" in text:
-                        continue
-                        
-                    if not is_comment:
-                        # Drop hidden karaoke timing lines, Aegisub generated names, and visual effect layers
-                        if r"\k" in text.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
-                            continue
-                        # Arabic relies on FX lines, but other languages duplicate if we keep them!
-                        if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text.lower()):
-                            continue
-                    
-                    # --- NEW: Extract X position for spatial sorting before tags are cleaned ---
-                    x_pos = 0.0
-                    pos_match = _X_POS_PATTERN.search(text)
-                    if pos_match:
-                        try:
-                            x_pos = float(pos_match.group(1))
-                        except ValueError:
-                            pass
+        if not line.is_comment:
+            if r"\k" in text_raw.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
+                continue
+            if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text_raw.lower()):
+                continue
 
-                    # --- 2. CLEAN TEXT ---
-                    clean_text = text.replace(r"\h", " ").replace("\\h", " ")
-                    clean_text = _ASS_TAG_PATTERN.sub("", clean_text)
-                    clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
-                    clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
-                    
-                    # --- FIX: Drop Dingbat Debris, Standalone Harakat, and Weird Isolated Characters ---
-                    test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', clean_text)
-                    if not re.search(r'[^\W_]', test_text):
-                        continue
-                        
-                    stripped_char = clean_text.strip().lower()
-                    if len(stripped_char) == 1:
-                        # Safe 1-letter words: English (a, i), Spanish/Italian (y, o, e, u), Arabic (و)
-                        valid_singles = "aioyeuàôو"
-                        
-                        # 1. Drop weird characters (Ó), isolated consonants, etc.
-                        if stripped_char not in valid_singles and not stripped_char.isdigit():
-                            continue
-                            
-                        # 2. Drop single numbers (like "4") if they look like visual debris/FX
-                        if stripped_char.isdigit() and ("fx" in effect or "kara" in style or name in ["op", "ed"]):
-                            continue
-                        
-                    if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
-                        continue
-                        
-                    clean_lower = clean_text.strip().lower()
-                    if clean_lower == style or clean_lower == "roger monologue":
-                        continue
-                    if re.fullmatch(r"(op|ed)[ -][a-z]+", clean_lower):
-                        continue
-                    if re.fullmatch(r"[a-z]+[ -](op|ed)", clean_lower):
-                        continue
-                        
-                    # Block visual separators and stray header words
-                    if re.search(r'^[-=]{3,}.*[-=]{3,}$', clean_lower) or re.fullmatch(r'[-=\s]+', clean_lower):
-                        continue
-                    if clean_lower.strip(' -=_') in ["ending", "opening", "op", "ed", "dialogue", "credits", "title", "signs"]:
-                        continue
+        # --- EXTRACT X POS (From raw text containing tags) ---
+        x_pos = 0.0
+        pos_match = _X_POS_PATTERN.search(text_raw)
+        if pos_match:
+            try:
+                x_pos = float(pos_match.group(1))
+            except ValueError:
+                pass
 
-                    # Convert empty positioning lines into spaces for Italian/Spanish files
-                    if clean_text == "":
-                        clean_text = " "
+        # --- 2. CLEAN TEXT ---
+        # pysubs2 strips {tags} but leaves \N and \h. We convert them to standard spaces/newlines.
+        clean_text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
+        clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
+        clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
 
-                    if lang_code == "ara" and clean_text != " " and not re.search(r'[\u0600-\u06FF]', clean_text):
-                        continue
+        test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', clean_text)
+        if not re.search(r'[^\W_]', test_text):
+            continue
 
-                    if re.search(r'[\u0600-\u06FF]', clean_text):
-                        clean_text = clean_text.strip()
-                        if lang_code == "ara":
-                            clean_text = fix_rtl_visual_typing(clean_text)
+        stripped_char = clean_text.strip().lower()
+        if len(stripped_char) == 1:
+            valid_singles = "aioyeuàôو"
+            if stripped_char not in valid_singles and not stripped_char.isdigit():
+                continue
+            if stripped_char.isdigit() and ("fx" in effect or "kara" in style or name in ["op", "ed"]):
+                continue
 
-                    raw_dialogues.append({
-                        "raw_start": time_to_ms(entry.get("Start", "0:00:00.00")),
-                        "raw_end": time_to_ms(entry.get("End", "0:00:00.00")),
-                        "text": clean_text,
-                        "style": style,
-                        "x_pos": x_pos
-                    })
+        if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
+            continue
 
+        clean_lower = clean_text.strip().lower()
+        if clean_lower == style or clean_lower == "roger monologue":
+            continue
+        if re.fullmatch(r"(op|ed)[ -][a-z]+", clean_lower) or re.fullmatch(r"[a-z]+[ -](op|ed)", clean_lower):
+            continue
+        if re.search(r'^[-=]{3,}.*[-=]{3,}$', clean_lower) or re.fullmatch(r'[-=\s]+', clean_lower):
+            continue
+        if clean_lower.strip(' -=_') in ["ending", "opening", "op", "ed", "dialogue", "credits", "title", "signs"]:
+            continue
+
+        if clean_text == "":
+            clean_text = " "
+
+        if lang_code == "ara" and clean_text != " " and not re.search(r'[\u0600-\u06FF]', clean_text):
+            continue
+
+        if re.search(r'[\u0600-\u06FF]', clean_text):
+            clean_text = clean_text.strip()
+            if lang_code == "ara":
+                clean_text = fix_rtl_visual_typing(clean_text)
+
+        raw_dialogues.append({
+            "raw_start": line.start,
+            "raw_end": line.end,
+            "text": clean_text,
+            "style": style,
+            "x_pos": x_pos
+        })
+        
     if not raw_dialogues:
         return []
         
@@ -361,109 +324,81 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
     return final_dialogues
 
 def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list = None, lang_code: str = "eng") -> str:
-    lines = ass_content.split("\n")
-    events_section = False
-    format_line = None
-    dialogues = []
+    subs = pysubs2.SSAFile.from_string(ass_content)
     
-    op_start_ms = 0
-    ed_start_ms = 0
+    op_start_ms = None  
+    ed_start_ms = None  
+    dialogues = []
 
-    for line in lines:
-        line = line.strip('\r\n\t') 
-        if line == "[Events]":
-            events_section = True
-            continue
-        if line.startswith("[") and line.endswith("]") and events_section:
-            events_section = False
-            continue
-        if events_section and line.startswith("Format:"):
-            format_line = [f.strip() for f in line[7:].split(",")]
+    for line in subs:
+        name = line.name.lower()
+        style = line.style.lower()
+        effect = line.effect.lower()
+        text_raw = line.text
+
+        # Handle Sync points for OP/ED
+        if line.is_comment:
+            if name == "op":
+                op_start_ms = line.start
+            elif name in ["ed", "ending"] or "ending" in style:
+                ed_start_ms = line.start
+            
+            if not _OP_ED_STYLE_PATTERN.search(style):
+                continue
+
+        if _KARAOKE_PATTERN.search(style):
             continue
             
-        if events_section and (line.startswith("Dialogue:") or line.startswith("Comment:")):
-            if format_line:
-                _, _, data = line.partition(" ")
-                parts = data.split(",", len(format_line) - 1)
-                if len(parts) == len(format_line):
-                    entry = dict(zip(format_line, parts))
-                    
-                    is_comment = line.startswith("Comment:")
-                    name = entry.get("Name", "").lower()
-                    style = entry.get("Style", "").lower()
-                    effect = entry.get("Effect", "").lower()
-                    text_raw = entry.get("Text", "")
+        if r"\k" in text_raw.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
+            continue
 
-                    if is_comment:
-                        if name == "op":
-                            op_start_ms = time_to_ms(entry.get("Start", "0:00:00.00"))
-                        elif name in ["ed", "ending"] or "ending" in style:
-                            ed_start_ms = time_to_ms(entry.get("Start", "0:00:00.00"))
-                        
-                        if not _OP_ED_STYLE_PATTERN.search(style):
-                            continue
-                            
-                    if _KARAOKE_PATTERN.search(style):
-                        continue
-                        
-                    if r"\k" in text_raw.lower() or name in ["lead-in", "hi-light", "verse", "karaoke", "mask", "glow", "shape", "gradient", "dust", "petals", "border clip", "move", "circle", "cross"]:
-                        continue
+        if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text_raw.lower()):
+            continue
+            
+        if lang_code == "spa" and re.search(r'(main|flashback|thought|secondary|caption|title)', style):
+            continue
 
-                    if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text_raw.lower()):
-                        continue
-                        
-                    if lang_code == "spa" and re.search(r'(main|flashback|thought|secondary|caption|title)', style):
-                        continue
-                        
-                    y_pos = 1000.0
-                    pos_match = _Y_POS_PATTERN.search(text_raw)
-                    if pos_match:
-                        try:
-                            y_pos = float(pos_match.group(1))
-                        except ValueError:
-                            pass
-                            
-                    dialogues.append((entry, y_pos))
+        # Extract y_pos from RAW text before tags are stripped
+        y_pos = 1000.0
+        pos_match = _Y_POS_PATTERN.search(text_raw)
+        if pos_match:
+            try:
+                y_pos = float(pos_match.group(1))
+            except ValueError:
+                pass
+                
+        dialogues.append((line, y_pos))
 
     processed_dialogues = []
     
-    for entry, y_pos in dialogues:
-        start_ms = time_to_ms(entry.get("Start", "0:00:00.00"))
-        end_ms = time_to_ms(entry.get("End", "0:00:00.00"))
-        text = entry.get("Text", "")
-        text_raw = text
-
-        if r"\p1" in text or r"\p2" in text or r"\p4" in text:
+    for line, y_pos in dialogues:
+        text_raw = line.text
+        
+        # Block drawings
+        if r"\p1" in text_raw or r"\p2" in text_raw or r"\p4" in text_raw:
             continue
 
-        text = text.replace(r"\h", " ").replace("\\h", " ")
-        text = _ALPHA_TAG_PATTERN.sub('', text)
-        text = _ASS_TAG_PATTERN.sub("", text)
+        # Get clean text natively
+        text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
         text = text.replace("\\N", "\n").replace("\\n", "\n")
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip('\r\n\t')
 
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
             continue
           
-        # --- FIX: Drop Dingbat Debris, Standalone Harakat, and Weird Characters safely ---
         test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', text)
         if not re.search(r'[^\W_]', test_text):
             continue
             
-        effect = entry.get("Effect", "").lower()
-        style = entry.get("Style", "").lower()
-        name = entry.get("Name", "").lower()
+        effect = line.effect.lower()
+        style = line.style.lower()
+        name = line.name.lower()
         
         stripped_char = text.strip().lower()
         if len(stripped_char) == 1:
             valid_singles = "aioyeuàôو"
-            
-            # 1. Drop isolated consonants, weird accents (Ó, ñ), and random foreign letters.
             if stripped_char not in valid_singles and not stripped_char.isdigit():
                 continue
-                
-            # 2. Drop isolated numbers (like "4") ONLY if they are heavily styled or part of FX
-            # to prevent accidentally deleting normal dialogue answers like "4."
             if stripped_char.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style):
                 continue
         
@@ -471,18 +406,16 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             continue
             
         clean_lower = text.strip().lower()
-        
         if clean_lower == style or clean_lower == "roger monologue":
             continue
-        if re.fullmatch(r"(op|ed)[ -][a-z]+", clean_lower):
-            continue
-        if re.fullmatch(r"[a-z]+[ -](op|ed)", clean_lower):
+        if re.fullmatch(r"(op|ed)[ -][a-z]+", clean_lower) or re.fullmatch(r"[a-z]+[ -](op|ed)", clean_lower):
             continue
         if re.search(r'^[-=]{3,}.*[-=]{3,}$', clean_lower) or re.fullmatch(r'[-=\s]+', clean_lower):
             continue
         if clean_lower.strip(' -=_') in ["ending", "opening", "op", "ed", "dialogue", "credits", "title", "signs"]:
             continue
             
+        # YOUR RTL LOGIC
         if lang_code == "ara" and re.search(r'[\u0600-\u06FF]', text):
             text = text.strip()
             text = fix_rtl_visual_typing(text)
@@ -491,13 +424,13 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             text = f"<b>{text.strip()}</b>"
 
         processed_dialogues.append({
-            "start_ms": start_ms,
-            "end_ms": end_ms,
+            "start_ms": line.start,
+            "end_ms": line.end,
             "text": text.strip(),
             "y_pos": y_pos
         })
 
-    if op_dialogues and op_start_ms > 0:
+    if op_dialogues and op_start_ms is not None:
         for op_line in op_dialogues:
             processed_dialogues.append({
                 "start_ms": op_line["start_ms"] + op_start_ms,
@@ -506,7 +439,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                 "y_pos": 1000.0
             })
             
-    if ed_dialogues and ed_start_ms > 0:
+    if ed_dialogues and ed_start_ms is not None:
         for ed_line in ed_dialogues:
             processed_dialogues.append({
                 "start_ms": ed_line["start_ms"] + ed_start_ms,
