@@ -176,16 +176,17 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
         clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
 
+        # FIX: Check length WITHOUT tatweel and harakat to catch fragments like "ـيـ"
         test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', clean_text)
         if not re.search(r'[^\W_]', test_text):
             continue
 
-        stripped_char = clean_text.strip().lower()
-        if len(stripped_char) == 1:
+        clean_no_marks = test_text.strip().lower()
+        if len(clean_no_marks) == 1:
             valid_singles = "aioyeuàôو"
-            if stripped_char not in valid_singles and not stripped_char.isdigit():
+            if clean_no_marks not in valid_singles and not clean_no_marks.isdigit():
                 continue
-            if stripped_char.isdigit() and ("fx" in effect or "kara" in style or name in ["op", "ed"]):
+            if clean_no_marks.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style or name in ["op", "ed"]):
                 continue
 
         if "code" in effect or "template" in effect or "fxgroup" in clean_text.lower() or "_g." in clean_text.lower() or "retime" in clean_text.lower():
@@ -386,6 +387,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         if text == "" or "mpv.io" in text.lower() or "mpvio" in text.lower():
             continue
           
+        # FIX: Ensure we use the string without Tatweels to catch fragments
         test_text = re.sub(r'[\u0640\u064B-\u065F\u0670]', '', text)
         if not re.search(r'[^\W_]', test_text):
             continue
@@ -394,12 +396,12 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         style = line.style.lower()
         name = line.name.lower()
         
-        stripped_char = text.strip().lower()
-        if len(stripped_char) == 1:
+        clean_no_marks = test_text.strip().lower()
+        if len(clean_no_marks) == 1:
             valid_singles = "aioyeuàôو"
-            if stripped_char not in valid_singles and not stripped_char.isdigit():
+            if clean_no_marks not in valid_singles and not clean_no_marks.isdigit():
                 continue
-            if stripped_char.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style):
+            if clean_no_marks.isdigit() and ("fx" in effect or "kara" in style or "title" in style or "sign" in style or name in ["op", "ed"]):
                 continue
         
         if "code" in effect or "template" in effect or "fxgroup" in text_raw.lower() or "_g." in text_raw.lower() or "retime" in text_raw.lower():
@@ -448,8 +450,32 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                 "y_pos": 1000.0
             })
 
-    processed_dialogues.sort(key=lambda x: x["start_ms"])
+    # NEW FIX: Temporal Frame-by-Frame Merge
+    # We sort by start time, then merge identical texts that are touching or overlapping within 500ms
+    processed_dialogues.sort(key=lambda x: (x["start_ms"], x["text"]))
+    
+    merged_dialogues = []
+    for d in processed_dialogues:
+        placed = False
+        # Search backwards to find a matching existing layer
+        for m in reversed(merged_dialogues):
+            # If the gap is larger than 1.5 seconds, stop looking
+            if d["start_ms"] - m["end_ms"] > 1500:
+                break
+                
+            # If text matches exactly and they overlap or are very close
+            if d["text"] == m["text"] and d["start_ms"] <= m["end_ms"] + 500:
+                m["end_ms"] = max(m["end_ms"], d["end_ms"])
+                m["start_ms"] = min(m["start_ms"], d["start_ms"])
+                placed = True
+                break
+                
+        if not placed:
+            merged_dialogues.append(d)
 
+    processed_dialogues = merged_dialogues
+
+    # Final VTT formatting
     vtt_lines = [
         "WEBVTT",
         "",
