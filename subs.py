@@ -403,7 +403,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "start_ms": line.start,
             "end_ms": line.end,
             "text": text.strip(),
-            "style": line.style.lower(),
+            "style": line.style.lower(),  # Passed down for sorting later!
             "x_pos": x_pos,
             "y_pos": y_pos,
             "effect": line.effect.lower()
@@ -434,7 +434,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         for x in cluster:
             is_layer_dup = False
             for seen_text, seen_x in seen_parts:
-                # FIX: If exact text is found and it's either close OR a full word (>3 chars), it's a shadow/glow layer.
                 if x["text"] == seen_text:
                     if abs(x["x_pos"] - seen_x) < 20.0 or len(x["text"].strip()) > 3:
                         is_layer_dup = True
@@ -476,6 +475,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             "start_ms": min(x["start_ms"] for x in cluster),
             "end_ms": max(x["end_ms"] for x in cluster),
             "text": merged_text,
+            "style": style,  # Passed down for sorting later!
             "y_pos": sum(x["y_pos"] for x in cluster) / len(cluster)
         })
 
@@ -485,6 +485,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                 "start_ms": op_line["start_ms"] + op_start_ms,
                 "end_ms": op_line["end_ms"] + op_start_ms,
                 "text": op_line["text"],
+                "style": "op",
                 "y_pos": 1000.0
             })
             
@@ -494,6 +495,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
                 "start_ms": ed_line["start_ms"] + ed_start_ms,
                 "end_ms": ed_line["end_ms"] + ed_start_ms,
                 "text": ed_line["text"],
+                "style": "ed",
                 "y_pos": 1000.0
             })
 
@@ -542,7 +544,13 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     counter = 2
     for (start, end), items in grouped_dialogues.items():
-        items.sort(key=lambda x: x["y_pos"])
+        # FIX: The new Sign/Note Pushdown rule.
+        # Main dialogue (bottom of screen) goes FIRST. Top-Notes/Signs go LAST.
+        items.sort(key=lambda x: (
+            x.get("y_pos", 1000) < 350 or bool(re.search(r'(sign|note|title|top)', x.get("style", ""))),
+            x.get("y_pos", 1000)
+        ))
+        
         texts = [x["text"] for x in items]
         
         vtt_lines.append(str(counter))
