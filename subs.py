@@ -123,25 +123,21 @@ def fix_rtl_visual_typing(text: str) -> str:
     return '\n'.join(fixed_lines)
     
 def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list:
-    # Load the ASS file directly from the downloaded string
     subs = pysubs2.SSAFile.from_string(ass_content)
     raw_dialogues = []
     sync_ms = None
 
-    # 1. First pass: find the sync time
     for line in subs:
         if line.name.lower() == "sync":
             sync_ms = line.start
             break
 
-    # 2. Second pass: process lines
     for line in subs:
         name = line.name.lower()
         effect = line.effect.lower()
         style = line.style.lower()
         text_raw = line.text
 
-        # Skip sync lines in this loop, or scene ends
         if name == "sync":
             continue
         
@@ -149,7 +145,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         if "scene ends" in clean_text_pre or name in ["op", "ed", "ending"]:
             continue
 
-        # --- 1. FILTERS ---
         if _KARAOKE_PATTERN.search(style):
             continue
         if r"\p1" in text_raw or r"\p2" in text_raw or r"\p4" in text_raw or r"\p0" in text_raw:
@@ -161,7 +156,6 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             if lang_code != "ara" and ("fx" in effect or "effector" in effect or "kara effector" in text_raw.lower()):
                 continue
 
-        # --- EXTRACT X POS (From raw text containing tags) ---
         x_pos = 0.0
         pos_match = _X_POS_PATTERN.search(text_raw)
         if pos_match:
@@ -170,12 +164,8 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             except ValueError:
                 pass
 
-        # --- 2. CLEAN TEXT ---
         clean_text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
-        
-        # FIX: Strip out invisible typesetter spacing tricks (like fillLLLl)
         clean_text = re.sub(r'(?i)(fillLLLl|fillerfil|fillerf)', '', clean_text)
-        
         clean_text = clean_text.replace("\\N", "\n").replace("\\n", "\n")
         clean_text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', clean_text)
 
@@ -247,7 +237,8 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
             "end_ms": (d["raw_end"] - base_ms) + offset_ms,
             "text": d["text"],
             "style": d["style"],
-            "x_pos": d["x_pos"]
+            "x_pos": d["x_pos"],
+            "y_pos": 1000.0
         })
 
     dialogues.sort(key=lambda x: (x["start_ms"], x["end_ms"]))
@@ -257,7 +248,9 @@ def process_op_ed_file(ass_content: str, offset_ms: int, lang_code: str) -> list
         placed = False
         for cluster in active_clusters:
             prev = cluster[0]
-            if d["style"] == prev["style"] and abs(d["start_ms"] - prev["start_ms"]) < 1500 and abs(d["end_ms"] - prev["end_ms"]) < 1500:
+            # STRICT FRAME LOCK: <= 10ms. Prevents cross-frame contamination!
+            time_match = abs(d["start_ms"] - prev["start_ms"]) <= 10 and abs(d["end_ms"] - prev["end_ms"]) <= 10
+            if d["style"] == prev["style"] and time_match:
                 cluster.append(d)
                 placed = True
                 break
@@ -379,10 +372,7 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
             continue
 
         text = line.plaintext.replace(r"\h", " ").replace("\\h", " ")
-        
-        # FIX: Strip out invisible typesetter spacing tricks
         text = re.sub(r'(?i)(fillLLLl|fillerfil|fillerf)', '', text)
-        
         text = text.replace("\\N", "\n").replace("\\n", "\n")
         text = re.sub(r'[\u200e\u200f\u202a\u202b\u202c\u202d\u202e]', '', text).strip('\r\n\t')
 
@@ -421,10 +411,10 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
         placed = False
         for cluster in active_clusters:
             prev = cluster[0]
-            time_match = abs(d["start_ms"] - prev["start_ms"]) < 200 and abs(d["end_ms"] - prev["end_ms"]) < 200
+            # STRICT FRAME LOCK: <= 10ms. Prevents cross-frame contamination!
+            time_match = abs(d["start_ms"] - prev["start_ms"]) <= 10 and abs(d["end_ms"] - prev["end_ms"]) <= 10
             
-            # FIX: Tightened Y-pos threshold to 5px so tilted lines don't merge incorrectly
-            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 5:
+            if d["style"] == prev["style"] and time_match and abs(d["y_pos"] - prev["y_pos"]) < 15:
                 cluster.append(d)
                 placed = True
                 break
@@ -553,7 +543,6 @@ def ass_to_vtt(ass_content: str, op_dialogues: list = None, ed_dialogues: list =
 
     counter = 2
     for (start, end), items in grouped_dialogues.items():
-        # FIX: Top-Note Pushdown is now restricted to extreme top (< 150) or explicitly named notes.
         items.sort(key=lambda x: (
             x.get("y_pos", 1000) < 150 or bool(re.search(r'(note|top)', x.get("style", "").lower())),
             x.get("y_pos", 1000)
