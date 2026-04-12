@@ -11,6 +11,11 @@
             "lang": "eng"
         },
         {
+            "id": "BUGGYS_CREW_1_fi",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/00%20Cover%20Stories%20and%20Specials/01/BUGGYS_CREW_1_fi.vtt",
+            "lang": "fin"
+        },
+        {
             "id": "BUGGYS_CREW_1_fr",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/00%20Cover%20Stories%20and%20Specials/01/BUGGYS_CREW_1_fr.vtt",
             "lang": "fre"
@@ -3323,6 +3328,11 @@
             "id": "AL_16_fr",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/12%20Alabasta/16/AL_16_fr.vtt",
             "lang": "fre"
+        },
+        {
+            "id": "AL_16_it",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/12%20Alabasta/16/AL_16_it.vtt",
+            "lang": "ita"
         },
         {
             "id": "AL_16_ru",
