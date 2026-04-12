@@ -21,6 +21,28 @@
             "releaseInfo": "1999-",
             "year": "1999-",
             "imdbRating": "9.0"
+        },
+		{
+            "type": "series",
+            "id": "pp_muhnpace",
+            "name": "Muhn Pace",
+            "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster_muhn.jpg",
+            "background": "https://image.tmdb.org/t/p/original/iN5LKyvyWUWwqbjaQfKFXoo8mch.jpg",
+            "logo": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/logo_muhn.png",
+            "description": "Meanwhile, a fellow member of the One Pace Discord community—Muhny (D Goat)—has created a fan edit known as Muhn Pace. Using One Pace episodes as a base, he has edited dub versions that closely match the One Pace style.",
+            "genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "cast": [
+                "Mayumi Tanaka",
+                "Akemi Okamura",
+                "Tony Beck"
+            ],
+            "releaseInfo": "1999-",
+            "year": "1999-",
+            "imdbRating": "9.0"
         }
     ]
 }
