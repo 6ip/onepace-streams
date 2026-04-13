@@ -28,16 +28,7 @@ jobs:
       - name: Run Scraper Script
         run: python -u scr.py
 
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
-          git add stream/ tracker.json
-          
-          # We only commit and push if there are actual changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace streams" && git pull --rebase origin main && git push)
-
+      # --- MOVED THIS STEP UP ---
       - name: Purge jsDelivr CDN
         run: |
           if [ -f stream/st_purge.txt ]; then
@@ -47,7 +38,19 @@ jobs:
               echo " - Purged $filename"
               sleep 1 
             done < stream/st_purge.txt
+            # Delete the temp file so it doesn't get committed to GitHub!
             rm stream/st_purge.txt
           else
             echo "No files updated. Skipping CDN purge."
           fi
+
+      # --- MOVED THIS STEP DOWN ---
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          git add stream/ tracker.json
+          
+          # We only commit and push if there are actual changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated One Pace streams" && git pull --rebase origin main && git push)
