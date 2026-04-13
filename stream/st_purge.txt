@@ -1,4 +1,0 @@
-SK_14.json
-SK_25.json
-PW_8.json
-WA_20.json
