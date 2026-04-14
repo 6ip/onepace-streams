@@ -2810,6 +2810,11 @@
             "lang": "ger"
         },
         {
+            "id": "DI_4_it",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/04/DI_4_it.vtt",
+            "lang": "ita"
+        },
+        {
             "id": "DI_4_ru",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/04/DI_4_ru.vtt",
             "lang": "rus"
@@ -2840,6 +2845,11 @@
             "id": "DI_5_de",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/05/DI_5_de.vtt",
             "lang": "ger"
+        },
+        {
+            "id": "DI_5_it",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/05/DI_5_it.vtt",
+            "lang": "ita"
         },
         {
             "id": "DI_5_ru",
@@ -2874,6 +2884,11 @@
             "lang": "ger"
         },
         {
+            "id": "DI_6_it",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/06/DI_6_it.vtt",
+            "lang": "ita"
+        },
+        {
             "id": "DI_6_ru",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/06/DI_6_ru.vtt",
             "lang": "rus"
@@ -2906,6 +2921,11 @@
             "lang": "ger"
         },
         {
+            "id": "DI_7_it",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/07/DI_7_it.vtt",
+            "lang": "ita"
+        },
+        {
             "id": "DI_7_ru",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/07/DI_7_ru.vtt",
             "lang": "rus"
@@ -2936,6 +2956,11 @@
             "id": "DI_8_de",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/08/DI_8_de.vtt",
             "lang": "ger"
+        },
+        {
+            "id": "DI_8_it",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/11%20Drum%20Island/08/DI_8_it.vtt",
+            "lang": "ita"
         },
         {
             "id": "DI_8_ru",
