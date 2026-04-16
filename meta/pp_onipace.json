@@ -1,0 +1,461 @@
+{
+    "meta": {
+        "id": "pp_onipace",
+        "type": "series",
+        "name": "Onigashima Paced",
+        "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster_onig.jpg",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Fix Wano’s pacing with Onigashima Paced. Experience the Onigashima Raid through manga-accurate episodes. All canon content is preserved for an efficient, high-quality viewing experience.",
+        "director": [
+            "Toei Animation"
+        ],
+        "logo": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/logo_onig.png",
+        "background": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/background_onig.jpg",
+        "videos": [
+            {
+                "season": 1,
+                "episode": 1,
+                "id": "ONIG_1",
+                "title": "Enter: The Flying Six",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "id": "ONIG_2",
+                "title": "Family Problem",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "id": "ONIG_3",
+                "title": "Fighting Music",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "id": "ONIG_4",
+                "title": "Joining the Fight",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "id": "ONIG_5",
+                "title": "Scoundrel Meets Scoundrel",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "id": "ONIG_6",
+                "title": "Thunder",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "id": "ONIG_7",
+                "title": "My Bible",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "id": "ONIG_8",
+                "title": "New Onigashima Project",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "id": "ONIG_9",
+                "title": "My Name",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "id": "ONIG_10",
+                "title": "Retainers of Glory",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "id": "ONIG_11",
+                "title": "I Don't See Us Losing",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "id": "ONIG_12",
+                "title": "Let Us Die!",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "id": "ONIG_13",
+                "title": "The Dream of Wano",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "id": "ONIG_14",
+                "title": "My Other Name Is Yamato",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "id": "ONIG_15",
+                "title": "A Kunoichi's Oath",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "id": "ONIG_16",
+                "title": "Island of the Strongest",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "id": "ONIG_17",
+                "title": "Flame Clouds",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "id": "ONIG_18",
+                "title": "Ancient Types",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "id": "ONIG_19",
+                "title": "The Sake I Brewed to Drink With You",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "id": "ONIG_20",
+                "title": "Straw Hat Luffy",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "id": "ONIG_21",
+                "title": "Emperors vs. The New Generation",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "id": "ONIG_22",
+                "title": "Kibi Dango",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "id": "ONIG_23",
+                "title": "The Honorable \"Hyogoro The Flower\"",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "id": "ONIG_24",
+                "title": "Raccoon Dog-san",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "id": "ONIG_25",
+                "title": "Ashura Doji",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 26,
+                "id": "ONIG_26",
+                "title": "Conqueror's Haki",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 27,
+                "id": "ONIG_27",
+                "title": "The Code of Oshiruko",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 28,
+                "id": "ONIG_28",
+                "title": "Anarchy in the B.M.",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 29,
+                "id": "ONIG_29",
+                "title": "A Lifelong Ham Actor",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 30,
+                "id": "ONIG_30",
+                "title": "This is Otama!!",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 31,
+                "id": "ONIG_31",
+                "title": "Jinbe vs Who's Who",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 32,
+                "id": "ONIG_32",
+                "title": "Triceracopter",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 33,
+                "id": "ONIG_33",
+                "title": "The Stars Take the Stage",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 34,
+                "id": "ONIG_34",
+                "title": "So-and-So",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 35,
+                "id": "ONIG_35",
+                "title": "Twin Dragons",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 36,
+                "id": "ONIG_36",
+                "title": "Brachiosnakeus",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 37,
+                "id": "ONIG_37",
+                "title": "The Tower",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 38,
+                "id": "ONIG_38",
+                "title": "Soldier of Science",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 39,
+                "id": "ONIG_39",
+                "title": "Oden's Beloved Blade",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 40,
+                "id": "ONIG_40",
+                "title": "Wings of the Pirate King",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 41,
+                "id": "ONIG_41",
+                "title": "Drunken Dragon Bagua",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 42,
+                "id": "ONIG_42",
+                "title": "The Main Attraction",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 43,
+                "id": "ONIG_43",
+                "title": "Komurasaki",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 44,
+                "id": "ONIG_44",
+                "title": "Let Us Face Death Together!",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 45,
+                "id": "ONIG_45",
+                "title": "Warrior of Liberation",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 46,
+                "id": "ONIG_46",
+                "title": "The Skies Above the Capital",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 47,
+                "id": "ONIG_47",
+                "title": "The World You Wish For",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 48,
+                "id": "ONIG_48",
+                "title": "Kozuki Momonosuke",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "id": "ONIG_WA_1",
+                "title": "New Morning",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "id": "ONIG_WA_2",
+                "title": "New Emperors",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "id": "ONIG_WA_3",
+                "title": "New Era",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "id": "ONIG_WA_3.5",
+                "title": "Farewell (Filler)",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "id": "ONIG_WA_4",
+                "title": "Final Curtain",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            }
+        ],
+        "releaseInfo": "1999-",
+        "year": "1999-",
+        "imdbRating": "9.0",
+        "country": "Japan",
+        "released": "1999-10-20T00:00:00.000Z",
+        "cast": [
+            "Mayumi Tanaka",
+            "Akemi Okamura",
+            "Tony Beck"
+        ],
+        "links": [
+            {
+                "name": "Onigashima Paced Spreadsheet",
+                "category": "Links",
+                "url": "https://docs.google.com/spreadsheets/d/1HoYogAchoU5DWxVJzUy3eZcHMZk_hUmzUVnQm9KxeFI/edit?usp=sharing"
+            },
+            {
+                "name": "Buy me a coffee",
+                "category": "Links",
+                "url": "https://ko-fi.com/not6ip"
+            },
+            {
+                "name": "9.0",
+                "category": "imdb",
+                "url": "https://imdb.com/title/tt0388629"
+            },
+            {
+                "name": "Animation",
+                "category": "Genres",
+                "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+            },
+            {
+                "name": "Action",
+                "category": "Genres",
+                "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+            },
+            {
+                "name": "Adventure",
+                "category": "Genres",
+                "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+            },
+            {
+                "name": "Mayumi Tanaka",
+                "category": "Cast",
+                "url": "stremio:///search?search=Mayumi%20Tanaka"
+            },
+            {
+                "name": "Akemi Okamura",
+                "category": "Cast",
+                "url": "stremio:///search?search=Akemi%20Okamura"
+            },
+            {
+                "name": "Tony Beck",
+                "category": "Cast",
+                "url": "stremio:///search?search=Tony%20Beck"
+            }
+        ],
+        "seasons": [
+            {
+                "season": 1,
+                "name": "Onigashima",
+                "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg"
+            },
+            {
+                "season": 2,
+                "name": "End of Wano",
+                "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg"
+            }
+        ]
+    }
+}
