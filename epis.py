@@ -62,8 +62,8 @@ def main():
                 # Failsafe if the number isn't a standard integer
                 arc_part_str = arc_part 
 
-            # Prepend op_ to the mapped ID
-            video_id = f"op_{matched_prefix}_{arc_part_str}"
+            # Prepend pp_ to the mapped ID
+            video_id = f"pp_{matched_prefix}_{arc_part_str}"
             descriptions_map[video_id] = desc
 
     print("3. Applying server.js transformations...")
@@ -108,9 +108,9 @@ def main():
     for video in meta.get("videos", []):
         vid_id = video.get("id")
         
-        # Prepend op_ to the actual video object ID in the JSON
-        if not str(vid_id).startswith("op_"):
-            vid_id = f"op_{vid_id}"
+        # Prepend pp_ to the actual video object ID in the JSON
+        if not str(vid_id).startswith("pp_"):
+            vid_id = f"pp_{vid_id}"
             video["id"] = vid_id
             
         season_num = video.get("season")
