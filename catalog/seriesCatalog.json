@@ -43,6 +43,28 @@
             "releaseInfo": "1999-",
             "year": "1999-",
             "imdbRating": "9.0"
+        },
+		{
+            "type": "series",
+            "id": "pp_onipace",
+            "name": "Onigashima Paced",
+			"poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster_onig.jpg",
+			"background": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/background_onig.jpg",
+			"logo": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/logo_onig.png",
+			"description": "Fix Wano’s pacing with Onigashima Paced. Experience the Onigashima Raid through manga-accurate episodes. All canon content is preserved for an efficient, high-quality viewing experience.",
+            "genres": [
+                "Animation",
+                "Action",
+                "Adventure"
+            ],
+            "cast": [
+                "Mayumi Tanaka",
+                "Akemi Okamura",
+                "Tony Beck"
+            ],
+            "releaseInfo": "1999-",
+            "year": "1999-",
+            "imdbRating": "9.0"
         }
     ]
 }
