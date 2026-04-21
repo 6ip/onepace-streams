@@ -5367,6 +5367,11 @@
             "lang": "ger"
         },
         {
+            "id": "EN_3_ru",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/17%20Enies%20Lobby/03/EN_3_ru.vtt",
+            "lang": "rus"
+        },
+        {
             "id": "EN_3_es",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/17%20Enies%20Lobby/03/EN_3_es.vtt",
             "lang": "spa"
@@ -5397,6 +5402,11 @@
             "id": "EN_4_he",
             "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/17%20Enies%20Lobby/04/EN_4_he.vtt",
             "lang": "heb"
+        },
+        {
+            "id": "EN_4_ru",
+            "url": "https://cdn.jsdelivr.net/gh/6ip/onepace-streams@main/meta/subs/17%20Enies%20Lobby/04/EN_4_ru.vtt",
+            "lang": "rus"
         },
         {
             "id": "EN_4_es",
