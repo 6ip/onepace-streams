@@ -13,8 +13,12 @@ LOCAL_EXCEL_FILE = "one_pace.xlsx"
 TRACKER_FILE = "tracker.json"
 
 # --- Load Central Config ---
-with open('config.json', 'r', encoding='utf-8') as f:
-    CONFIG = json.load(f)
+try:
+    with open('config.json', 'r', encoding='utf-8') as f:
+        CONFIG = json.load(f)
+except (FileNotFoundError, json.JSONDecodeError) as e:
+    print(f"CRITICAL ERROR: Failed to load config.json. {e}")
+    exit(1)
 PREFIX_MAP = CONFIG["ARC_MAP"]
 
 # Global caches to prevent spamming Nyaa
@@ -280,6 +284,83 @@ def save_tracker(tracker_data):
     with open(TRACKER_FILE, 'w') as f:
         json.dump(tracker_data, f, indent=2)
 
+def resolve_from_website(arc_name, ep_num_raw, max_retries=2):   
+    url = "https://onepace.net/en/releases"
+    for attempt in range(1, max_retries + 1):
+        try:
+            response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Normalize names just like in the other resolve functions
+            aliases = {
+                "Alabasta": "Arabasta",
+                "Whisky Peak": "Whiskey Peak",
+                "Return to Sabaody": "Sabaody",
+                "The Adventures of Buggys Crew": "Buggy",
+                "The Trials of Koby-Meppo": "Koby-Meppo"
+            }
+            search_name = aliases.get(arc_name, arc_name)
+            clean_name = search_name.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
+            ep_padded = str(ep_num_raw).zfill(2)
+
+            # All episodes are grouped in <li> tags that contain an ID
+            episodes = soup.find_all('li', id=True) 
+            
+            for ep in episodes:
+                title_tag = ep.find('h3')
+                if not title_tag: continue
+                
+                title_text = title_tag.get_text(separator=" ", strip=True).lower()
+                
+                # [FIXED] Allows matching either zero-padded (e.g., "05") or raw (e.g., "5")
+                if clean_name not in title_text:
+                    continue
+                if not re.search(rf'\b{ep_padded}\b|\b{ep_num_raw}\b', title_text):
+                    continue
+                
+                # Check if it was released within the last 7 days (1 week limit)
+                time_tag = ep.find('time')
+                if not time_tag or not time_tag.has_attr('datetime'):
+                    continue
+                
+                try:
+                    # Example format: 2026-04-22
+                    release_date = datetime.datetime.strptime(time_tag['datetime'][:10], "%Y-%m-%d").date()
+                    today = datetime.datetime.now().date()
+                    days_diff = (today - release_date).days
+                    
+                    if days_diff > 7 or days_diff < 0:
+                        continue # Older than 1 week, ignore it
+                except Exception:
+                    continue
+                
+                # --- CONDITION 1: Look for the Magnet Link ---
+                magnet_tag = ep.find('a', href=re.compile(r'^magnet:\?xt='))
+                if magnet_tag:
+                    match = re.search(r'urn:btih:([a-zA-Z0-9]{40})', magnet_tag['href'], re.IGNORECASE)
+                    if match:
+                        info_hash = match.group(1).lower()
+                        print(f"  [🌐] Fresh episode on Website (Magnet): {info_hash}")
+                        # Resolve it into a Nyaa View Link so get_torrent_data handles it smoothly
+                        view_url = resolve_nyaa_url(info_hash)
+                        if view_url: return view_url
+                
+                # --- CONDITION 2: Look for the Torrent Link ---
+                torrent_tag = ep.find('a', href=re.compile(r'nyaa\.si/download/\d+\.torrent'))
+                if torrent_tag:
+                    match = re.search(r'/download/(\d+)\.torrent', torrent_tag['href'])
+                    if match:
+                        nyaa_id = match.group(1)
+                        print(f"  [🌐] Fresh episode on Website (Torrent): {nyaa_id}")
+                        # Create the Nyaa view link 
+                        return f"https://nyaa.si/view/{nyaa_id}"
+                        
+            return None
+        except requests.exceptions.RequestException:
+            if attempt < max_retries: time.sleep(random.uniform(1, 3))
+    return None
+
 def main():
     start_time = time.time()
     new_files_count = 0 
@@ -430,16 +511,23 @@ def main():
                 arc_name = parts[1]
                 expected_crc = parts[2]
                 
-                # TIER 1: ALWAYS TRY THE OFFICIAL ARC BATCH FIRST
-                batch_url = resolved_batches_cache.get(arc_name)
-                if not batch_url:
-                    batch_url = resolve_nyaa_batch(arc_name)
-                    if batch_url:
-                        resolved_batches_cache[arc_name] = batch_url
-                        time.sleep(random.uniform(1, 2))
+                # TIER 0: OFFICIAL WEBSITE BACKUP (Fresh Releases <= 7 Days)
+                website_url = resolve_from_website(arc_name, ep_num_raw)
+                if website_url:
+                    info_hash, torrent_filename = get_torrent_data(website_url, ep_num_raw, expected_crc)
+                    if info_hash: time.sleep(random.uniform(1, 2))
                 
-                if batch_url:
-                    info_hash, torrent_filename = get_torrent_data(batch_url, ep_num_raw, expected_crc)
+                # TIER 1: ALWAYS TRY THE OFFICIAL ARC BATCH FIRST
+                if not info_hash:
+                    batch_url = resolved_batches_cache.get(arc_name)
+                    if not batch_url:
+                        batch_url = resolve_nyaa_batch(arc_name)
+                        if batch_url:
+                            resolved_batches_cache[arc_name] = batch_url
+                            time.sleep(random.uniform(1, 2))
+                    
+                    if batch_url:
+                        info_hash, torrent_filename = get_torrent_data(batch_url, ep_num_raw, expected_crc)
                 
                 # TIER 2: TRY PRECISE CRC SEARCH (If missing from batch)
                 if not info_hash and expected_crc not in ["Unknown", "00000000"]:
