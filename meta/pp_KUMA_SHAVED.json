@@ -1,0 +1,238 @@
+{
+    "meta": {
+        "id": "pp_KUMA_SHAVED",
+        "type": "series",
+        "name": "Shaved Egghead & Kuma Cut",
+        "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster_shaved.jpg",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Kuma Cut (by Rai) and Shaved Egghead (by Kanes31) are fan edits for the Egghead Arc. Similar to Onigashima Paced, they remove filler and padding to give fans a seamless, manga-accurate experience.",
+        "director": [
+            "Toei Animation"
+        ],
+        "logo": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/logo_shaved.png",
+        "background": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/background_shaved.jpg",
+        "videos": [
+            {
+                "season": 1,
+                "episode": 1,
+                "id": "pp_KUMA_SHAVED_1",
+                "title": "Shaved Egghead 1127+8",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "id": "pp_KUMA_SHAVED_2",
+                "title": "Kuma Cut 1129",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "id": "pp_KUMA_SHAVED_3",
+                "title": "Kuma Cut 1130",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "id": "pp_KUMA_SHAVED_4",
+                "title": "Kuma Cut 1131",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "id": "pp_KUMA_SHAVED_5",
+                "title": "Kuma Cut 1132",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "id": "pp_KUMA_SHAVED_6",
+                "title": "Kuma Cut 1133",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "id": "pp_KUMA_SHAVED_7",
+                "title": "Kuma Cut 1134",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "id": "pp_KUMA_SHAVED_8",
+                "title": "Kuma Cut 1135",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "id": "pp_KUMA_SHAVED_9",
+                "title": "Kuma Cut 1136",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "id": "pp_KUMA_SHAVED_10",
+                "title": "Kuma Cut 1137+8",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "id": "pp_KUMA_SHAVED_11",
+                "title": "Shaved Egghead 1139+40",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "id": "pp_KUMA_SHAVED_12",
+                "title": "Shaved Egghead 1141+2",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "id": "pp_KUMA_SHAVED_13",
+                "title": "Shaved Egghead 1143",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "id": "pp_KUMA_SHAVED_14",
+                "title": "Shaved Egghead 1144",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "id": "pp_KUMA_SHAVED_15",
+                "title": "Shaved Egghead 1145+6",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "id": "pp_KUMA_SHAVED_16",
+                "title": "Shaved Egghead 1147",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "id": "pp_KUMA_SHAVED_17",
+                "title": "Shaved Egghead 1148",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "id": "pp_KUMA_SHAVED_18",
+                "title": "Shaved Egghead 1149",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "id": "pp_KUMA_SHAVED_19",
+                "title": "Shaved Egghead 1150+1",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "id": "pp_KUMA_SHAVED_20",
+                "title": "Shaved Egghead 1152",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "id": "pp_KUMA_SHAVED_21",
+                "title": "Shaved Egghead 1153+4",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "id": "pp_KUMA_SHAVED_22",
+                "title": "Shaved Egghead 1155",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center"
+            }
+        ],
+        "releaseInfo": "1999-",
+        "year": "1999-",
+        "imdbRating": "9.0",
+        "country": "Japan",
+        "released": "1999-10-20T00:00:00.000Z",
+        "cast": [
+            "Mayumi Tanaka",
+            "Akemi Okamura",
+            "Tony Beck"
+        ],
+        "links": [
+            {
+                "name": "Shaved Egghead + Kuma Cut Spreadsheet",
+                "category": "Links",
+                "url": "https://docs.google.com/spreadsheets/d/1ODt-b2L9PyAr0xEWhj1yIOqp__crBFVXhvejblvP_mU/edit?usp=sharing"
+            },
+            {
+                "name": "Buy me a coffee",
+                "category": "Links",
+                "url": "https://ko-fi.com/not6ip"
+            },
+            {
+                "name": "9.0",
+                "category": "imdb",
+                "url": "https://imdb.com/title/tt0388629"
+            },
+            {
+                "name": "Animation",
+                "category": "Genres",
+                "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+            },
+            {
+                "name": "Action",
+                "category": "Genres",
+                "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+            },
+            {
+                "name": "Adventure",
+                "category": "Genres",
+                "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+            },
+            {
+                "name": "Mayumi Tanaka",
+                "category": "Cast",
+                "url": "stremio:///search?search=Mayumi%20Tanaka"
+            },
+            {
+                "name": "Akemi Okamura",
+                "category": "Cast",
+                "url": "stremio:///search?search=Akemi%20Okamura"
+            },
+            {
+                "name": "Tony Beck",
+                "category": "Cast",
+                "url": "stremio:///search?search=Tony%20Beck"
+            }
+        ],
+        "seasons": [
+            {
+                "season": 1,
+                "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg"
+            }
+        ]
+    }
+}
