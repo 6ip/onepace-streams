@@ -1,42 +1,49 @@
-# 🏴‍☠️ One Pace Stremio Addon (Debrid Powered)
+# onepace-streams
 
-Experience *One Piece* the way it was meant to be watched—perfectly paced to match the manga, saving you hundreds of hours, and now with absolutely **zero buffering**.
+Data backend for the [One Pace Premium](https://onepace-premium.1102011.xyz/) Stremio addon. Holds the stream index, metadata, and catalog files the addon reads at runtime.
 
-This is an unofficial, community-built bridge that connects the incredible work of the One Pace team directly to Stremio, utilizing Premium Debrid services for instant, high-speed streaming.
+## Repository layout
 
-> **🛡️ Privacy First:** Your API key is **never stored, logged, or tracked**. It is securely encoded into your Stremio manifest URL and passed directly to your chosen provider.
+```
+config.json          # Arc → prefix map shared across all scripts
+├── catalog/         # Catalog JSON files served to the Stremio addon
+├── meta/            # Metadata JSONs for each supported edit
+│   ├── pp_onepacee.json      # Main One Pace (built by epis.py)
+│   ├── pp_muhnpace.json      # Muhn Pace English Dub
+│   ├── pp_onipace.json       # Onigashima Paced
+│   └── pp_KUMA_SHAVED.json   # Shaved Egghead & Kuma Cut
+└── stream/          # Stream JSON files (one per episode)
+    ├── *.json             # Standard One Pace — built by scr.py
+    ├── ONIG/              # Onigashima Paced
+    ├── Muhn/              # Muhn Pace English Dub
+    └── KUMA_SHAVED/       # Shaved Egghead & Kuma Cut
+```
 
----
+## Scripts
 
-### ✨ Key Features
+### `scr.py` — Stream builder
 
-* ⚡ **Lightning Fast Streams:** Routes directly through your **Real-Debrid** or **TorBox** premium account.
-* 🚫 **No Seeders Needed:** Instant playback with no waiting, completely bypassing dead torrents.
-* 🌍 **Massive Subtitle Vault:** Automatically fetches and serves over 1,800 perfectly synced subtitles in 15+ languages (Arabic, English, Spanish, French, German, and more).
-* 🔒 **Secure & Private:** 100% serverless edge caching ensures your data stays completely private.
-* 🍿 **Seamless UI:** beautifully integrated into your Stremio Board/Homepage as a dedicated catalog.
+Reads torrent sources from `one_pace.xlsx` and resolves each entry to a magnet info hash, writing output to `stream/`. Uses a fallback chain per episode: direct link → One Pace official site → arc batch torrent → CRC32 search → single episode search.
 
----
+`tracker.json` tracks the last-known input state per file so unchanged episodes are skipped. A `stream/st_purge.txt` file is written each run listing only changed files for cache invalidation.
 
-### ⚙️ Quick Installation
+### `epis.py` — Metadata builder
 
-1. Head over to the setup portal: ➡️ **[onepace-rd.vercel.app](https://onepace-rd.vercel.app/)**
-2. Select your provider (**Real-Debrid** or **TorBox**) from the dropdown menu.
-3. Paste your secure API key.
-4. Click **Install Addon** to magically add the catalog directly to your Stremio app.
+Assembles `meta/pp_onepacee.json` from:
 
-**How to Watch:** Open Stremio, head to your **Board** (Homepage), scroll down to the **One Pace** catalog, pick an Arc/Episode, and set sail! ⛵
+- Base structure from [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio)
+- Official episode titles from [one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles/blob/main/main/title.properties)
+- Descriptions from a Google Sheets spreadsheet
+- Specials defined in `meta/specials.json`
 
----
+## Config
 
-### 📊 Behind the Scenes & Credits
+`config.json` is the source of truth for arc names and their Stremio prefix codes (e.g. `alabasta → AL`). Both scripts read it at startup. It also defines `TOTAL_SEASONS` used for season poster generation.
 
-This project stands on the shoulders of giants. Massive thanks to the following teams and resources:
+## Credits
 
-* **[The One Pace Project](https://onepace.net/)** - For the monumental effort of editing the anime.
-* **[OnePaceStremio](https://github.com/fedew04/OnePaceStremio)** - For the original Stremio metadata mapping inspiration.
-* **[One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles)** - The source for all our perfectly timed `.ass` to `.srt` subtitle conversions.
-* **[Episode Descriptions Vault](https://docs.google.com/spreadsheets/d/1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM/edit?usp=sharing)** - For the localized metadata and episode summaries.
+- [The One Pace Project](https://onepace.net/) — the edits this addon serves
+- [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio) — original Stremio metadata structure
+- [one-pace/one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles) — official title data
 
----
-*Built by a fan, for the fans. Keep the project alive and enjoy the Grand Line!*
+If this saved you from managing torrents manually, consider [supporting server costs on Ko-fi](https://ko-fi.com/not6ip).
