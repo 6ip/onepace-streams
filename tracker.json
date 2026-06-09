@@ -1415,5 +1415,9 @@
   ],
   "SK_26.json": [
     "BATCH_SEARCH:Skypiea:90C45C25"
+  ],
+  "EH_21.json": [
+    "BATCH_SEARCH:Egghead:DBDB2978",
+    "BATCH_SEARCH:Egghead:2C16CBB5"
   ]
 }
