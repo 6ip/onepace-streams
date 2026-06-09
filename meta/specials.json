@@ -1,4 +1,7 @@
 {
+	"custom_names": {
+        "LR_0": "Prologue"
+    },
     "specials_01": {
         "season": 6,
         "title_start": "[Cover Story] ",

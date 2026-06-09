@@ -26,7 +26,7 @@
     "Sabaody Archipelago": "SAB", "sabaodyarchipelago": "SAB", "sabaody": "SAB",
     "Amazon Lily": "AM", "amazonlily": "AM",
     "Impel Down": "IM", "impeldown": "IM",
-    "The Adventures of the Straw Hat": "COVER_SHSS", "ifyoucouldgoanywheretheadventuresofthestrawhats": "COVER_SHSS",
+    "The Adventures of the Straw Hat": "COVER_SHSS", "ifyoucouldgoanywheretheadventuresofthestrawhats": "COVER_SHSS", "theadventuresofthestrawhats": "COVER_SHSS", "theadventuresofthestrawhat": "COVER_SHSS", 
     "Marineford": "MA", "marineford": "MA",
     "Post-War": "PW", "postwar": "PW",
     "Return to Sabaody": "RTS", "returntosabaody": "RTS",
@@ -34,7 +34,7 @@
     "Punk Hazard": "PH", "punkhazard": "PH",
     "Dressrosa": "DR", "dressrosa": "DR",
     "Zou": "ZO", "zou": "ZO",
-    "Whole Cake Island": "WC", "wholecakeisland": "WC",
+    "Whole Cake Island": "WC", "wholecakeisland": "WC", "wci": "WC",
     "Reverie": "REV", "reverie": "REV",
     "Wano": "WA", "wano": "WA",
     "Egghead": "EH", "egghead": "EH"

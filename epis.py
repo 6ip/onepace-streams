@@ -1,3 +1,7 @@
+import re
+import time
+import requests
+import openpyxl
 import json
 import csv
 import urllib.request
@@ -7,13 +11,6 @@ from io import StringIO
 # --- Configuration ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_JSON = os.path.join(BASE_DIR, 'meta', 'pp_onepacee.json')
-BASE_META_URL = "https://fedew04.github.io/OnePaceStremio/meta/series/pp_onepace.json"
-
-SHEET_ID = "1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM"
-CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid=0"
-
-# URL to the official properties file
-PROPERTIES_URL = "https://raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/title.properties"
 
 # --- Load Central Config ---
 CONFIG_PATH = os.path.join(BASE_DIR, 'config.json')
@@ -22,6 +19,172 @@ with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
 ARC_PREFIXES = CONFIG["ARC_MAP"]
 TOTAL_SEASONS = CONFIG["TOTAL_SEASONS"]
 
+# --- Spreadsheet source (must come AFTER CONFIG is loaded) ---
+EPISODE_SHEET_ID = CONFIG.get("EPISODE_SHEET_ID", "1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA")
+EPISODE_XLSX_URL = f"https://docs.google.com/spreadsheets/d/{EPISODE_SHEET_ID}/export?format=xlsx"
+OVERVIEW_SHEET   = "Arc Overview"
+
+SHEET_ID = "1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM"
+CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid=0"
+
+PROPERTIES_URL = "https://raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/title.properties"
+
+def download_excel_file(url, filename, max_retries=3):
+    print(f"Downloading latest spreadsheet to {filename}...")
+    for attempt in range(1, max_retries + 1):
+        try:
+            response = requests.get(url, stream=True, timeout=60)
+            response.raise_for_status()
+            with open(filename, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    if chunk:
+                        f.write(chunk)
+            print("Download complete!\n")
+            return True
+        except Exception as e:
+            print(f"  [!] Attempt {attempt}/{max_retries} failed: {e}")
+            if attempt < max_retries:
+                print("  [*] Retrying in 3 seconds...")
+                time.sleep(3)
+            else:
+                print("  [-] All attempts to download the spreadsheet failed.")
+                return False
+
+
+def resolve_prefix(arc_name, arc_map):
+    """Map an arc/tab name to its prefix, stripping '(TBR)'/'(WIP)' suffixes."""
+    base = re.sub(r"\([^)]*\)", "", str(arc_name)).strip()
+    return arc_map.get(clean_string(base))
+
+
+def parse_episode_label(label):
+    """'Egghead 01' -> (1, False); 'Egghead 21 Forward' -> (21, True). None if not an episode."""
+    s = str(label).strip()
+    if not s or not re.search(r"[A-Za-z]", s):   # require letters -> skips stray total rows
+        return None
+    low = s.lower()
+    is_forward = "forward" in low
+    nums = re.findall(r"\d+", re.sub(r"forward", "", low))
+    if not nums:
+        return None
+    return int(nums[-1]), is_forward
+
+
+def build_season_map(rows, arc_map):
+    """From the Arc Overview rows, build {prefix: season}. Decimal arcs (6.5) fold to int (6)."""
+    header_idx = no_col = arc_col = None
+    for i, row in enumerate(rows):
+        cells = [str(c).strip() if c is not None else "" for c in row]
+        if "No." in cells and "Arcs" in cells:
+            header_idx, no_col, arc_col = i, cells.index("No."), cells.index("Arcs")
+            break
+    if header_idx is None:
+        return {}
+
+    prefix_to_season = {}
+    for row in rows[header_idx + 1:]:
+        no_raw  = row[no_col]  if no_col  < len(row) else None
+        arc_raw = row[arc_col] if arc_col < len(row) else None
+        if no_raw is None or arc_raw is None:
+            continue
+        if str(arc_raw).strip().lower() == "totals":
+            break
+        try:
+            season = int(float(str(no_raw).strip()))
+        except (ValueError, TypeError):
+            continue
+        prefix = resolve_prefix(arc_raw, arc_map)
+        if prefix:
+            prefix_to_season[prefix] = season
+    return prefix_to_season
+
+
+def parse_arc_sheet(rows, prefix, season):
+    """Build video dicts from one arc tab. A 'Forward' row becomes one 'unreleased' episode."""
+    ep_col = header_idx = None
+    for i, row in enumerate(rows[:8]):
+        for j, c in enumerate(row):
+            if c and str(c).strip().lower() == "one pace episode":
+                ep_col, header_idx = j, i
+                break
+        if ep_col is not None:
+            break
+    if ep_col is None:
+        return []
+
+    videos, seen = [], set()
+    for row in rows[header_idx + 1:]:
+        if ep_col >= len(row) or row[ep_col] is None:
+            continue
+        parsed = parse_episode_label(row[ep_col])
+        if not parsed:
+            continue
+        ep_num, is_forward = parsed
+        vid_id = f"{prefix}_{ep_num}"
+        if vid_id in seen:
+            continue
+        seen.add(vid_id)
+        video = {
+            "season": season,
+            "episode": ep_num,
+            "id": vid_id,
+            "title": "Unreleased" if is_forward else str(row[ep_col]).strip(),
+        }
+        if is_forward:
+            video["_forward"] = True   # temporary flag, removed during the first pass
+        videos.append(video)
+    # Stremio does not display episode 0, so if this arc uses a "00" entry,    
+    if any(v["episode"] == 0 for v in videos):
+        for v in videos:
+            v["episode"] += 1
+
+    return videos
+
+
+def build_base_data_from_spreadsheet(arc_map):
+    """Replaces the fedew04 JSON: builds meta/videos straight from the official spreadsheet."""
+    local_path = os.path.join(BASE_DIR, "one_pace.xlsx")
+    if not download_excel_file(EPISODE_XLSX_URL, local_path):
+        raise RuntimeError("Could not download the One Pace episode spreadsheet.")
+
+    wb = openpyxl.load_workbook(local_path, read_only=True, data_only=True)
+    if OVERVIEW_SHEET not in wb.sheetnames:
+        raise RuntimeError(f"'{OVERVIEW_SHEET}' tab not found.")
+
+    overview_rows    = list(wb[OVERVIEW_SHEET].iter_rows(values_only=True))
+    prefix_to_season = build_season_map(overview_rows, arc_map)
+
+    all_videos = []
+    for name in wb.sheetnames:
+        if name.strip() == OVERVIEW_SHEET:
+            continue
+        prefix = resolve_prefix(name, arc_map)
+        if not prefix:
+            print(f"   [!] No ARC_MAP entry for tab '{name}' - skipping.")
+            continue
+        season = prefix_to_season.get(prefix)
+        if season is None:
+            print(f"   [!] No season number for tab '{name}' ({prefix}) - skipping.")
+            continue
+        arc_videos = parse_arc_sheet(list(wb[name].iter_rows(values_only=True)), prefix, season)
+        print(f"   - {name:34} {prefix:14} S{season:<2}: {len(arc_videos)} eps")
+        all_videos.extend(arc_videos)
+
+    wb.close()
+    return {
+        "meta": {
+            "id": "pp_onepacee",
+            "type": "series",
+            "name": "One Pace",
+            "poster":"",
+            "logo":"",
+            "background":"",
+            "description":"",
+            "director": ["Toei Animation"],
+            "videos": all_videos,
+        }
+    }
+    
 def clean_string(s):
     """Removes spaces, dashes, apostrophes, and periods for exact matching."""
     return str(s).lower().replace(" ", "").replace("-", "").replace("'", "").replace(".", "")
@@ -68,12 +231,11 @@ def get_titles_from_properties(config_arc_map):
     return id_to_title, key_to_title
 
 def main():
-    print("1. Fetching original JSON from fedew04...")
+    print("1. Building base episode list from the official One Pace spreadsheet...")
     try:
-        req = urllib.request.urlopen(BASE_META_URL, timeout=10)
-        data = json.loads(req.read().decode('utf-8'))
+        data = build_base_data_from_spreadsheet(ARC_PREFIXES)
     except Exception as e:
-        print(f"Failed to download base JSON: {e}")
+        print(f"Failed to build base data: {e}")
         return
 
     print("2. Fetching descriptions from Google Sheets...")
@@ -86,14 +248,31 @@ def main():
 
     # Build description dictionaries
     descriptions_map = {}
-    title_to_desc = {} # NEW: Fallback map based on exact English Title
-    
+    title_to_desc = {}   # Fallback map based on exact English Title
+    title_en_map = {}    # NEW: video_id -> official English title from the descriptions sheet
+
     reader = csv.DictReader(StringIO(csv_content))
     for row in reader:
         arc_title = row.get("arc_title", "").strip()
         arc_part = row.get("arc_part", "").strip()
         title_en = row.get("title_en", "").strip()
         desc = row.get("description_en", "").strip()
+
+        # Resolve this row's video_id once (used for both the title and description maps)
+        row_video_id = None
+        if arc_title and arc_part:
+            clean_arc = clean_string(arc_title)
+            if clean_arc in ARC_PREFIXES:
+                matched_prefix = ARC_PREFIXES[clean_arc]
+                try:
+                    arc_part_str = str(int(arc_part))
+                except ValueError:
+                    arc_part_str = arc_part
+                row_video_id = f"{matched_prefix}_{arc_part_str}"
+
+        # Title map: capture title_en even when this row has no description
+        if row_video_id and title_en:
+            title_en_map[row_video_id] = title_en
 
         if not desc:
             continue
@@ -104,33 +283,29 @@ def main():
             title_to_desc[clean_title_en] = desc
 
         # 2. Save by ID mapping
-        if arc_title and arc_part:
-            clean_arc = clean_string(arc_title)
-            if clean_arc in ARC_PREFIXES:
-                matched_prefix = ARC_PREFIXES[clean_arc]
-                try:
-                    arc_part_str = str(int(arc_part))
-                except ValueError:
-                    arc_part_str = arc_part 
-
-                video_id = f"{matched_prefix}_{arc_part_str}"
-                descriptions_map[video_id] = desc
+        if row_video_id:
+            descriptions_map[row_video_id] = desc
 
     print("3. Getting official titles from properties...")
     titles_map, key_to_title = get_titles_from_properties(ARC_PREFIXES)
 
     print("4. Loading specials.json configuration...")
+    custom_titles = {}
     try:
         SPECIALS_PATH = os.path.join(BASE_DIR, 'meta', 'specials.json')
         with open(SPECIALS_PATH, 'r', encoding='utf-8') as f:
             specials_config = json.load(f)
-            
+
+        # Pull out optional custom-title overrides BEFORE iterating specials,
+        # so the loop below only sees real special entries (each with an "id").
+        custom_titles = specials_config.pop("custom_names", {})
+
         specials_by_id = {}
         for spec_key, spec_val in specials_config.items():
             vid_id = spec_val["id"]
-            spec_val["original_key"] = spec_key # Keep track of the key (e.g. specials_04)
+            spec_val["original_key"] = spec_key  # Keep track of the key (e.g. specials_04)
             specials_by_id[vid_id] = spec_val
-            
+
     except FileNotFoundError:
         print("specials.json not found. Proceeding without special reordering.")
         specials_by_id = {}
@@ -191,9 +366,18 @@ def main():
             vid_id = f"{vid_id}"
             video["id"] = vid_id
             
-        # Override Title from Properties
-        if vid_id in titles_map:
+        # Title priority:
+        #   forward (unreleased) episodes  -> always "Unreleased"
+        #   released episodes -> title.properties > descriptions-sheet title_en > custom_names > spreadsheet label
+        if video.pop("_forward", False):
+            video["title"] = "Unreleased"
+        elif vid_id in titles_map:
             video["title"] = titles_map[vid_id]
+        elif vid_id in title_en_map:
+            video["title"] = title_en_map[vid_id]
+        elif vid_id in custom_titles:
+            video["title"] = custom_titles[vid_id]
+        # else: keep the builder's fallback label (e.g. "Long Ring Long Land 00")
 
         season_num = video.get("season")
         
