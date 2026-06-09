@@ -4252,10 +4252,19 @@
                 "season": 33,
                 "episode": 21,
                 "id": "EH_21",
-                "title": "Unreleased",
+                "title": "Luffy vs. Kizaru",
                 "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center",
                 "description": "Luffy faces off in a spectacular aerial battle against Admiral Kizaru, but this time, Straw Hat is 100 times stronger than before. Unbeknownst to those on Egghead, something ominous is about to make an appearance on the island...",
                 "overview": "Luffy faces off in a spectacular aerial battle against Admiral Kizaru, but this time, Straw Hat is 100 times stronger than before. Unbeknownst to those on Egghead, something ominous is about to make an appearance on the island..."
+            },
+            {
+                "season": 33,
+                "episode": 22,
+                "id": "EH_22",
+                "title": "Unreleased",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center",
+                "description": "Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation.",
+                "overview": "Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation."
             }
         ],
         "releaseInfo": "1999-",
