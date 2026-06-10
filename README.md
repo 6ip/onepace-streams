@@ -29,12 +29,13 @@ Reads torrent sources from `one_pace.xlsx` and resolves each entry to a magnet i
 
 ### `epis.py` — Metadata builder
 
-Assembles `meta/pp_onepacee.json` from:
+Builds `meta/pp_onepacee.json` from the official One Pace spreadsheet (`one_pace.xlsx`), enriched with:
 
-- Base structure from [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio)
+- Episode lists and seasons parsed from the spreadsheet's "Arc Overview" tab and each arc's own tab
 - Official episode titles from [one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles/blob/main/main/title.properties)
-- Descriptions from a Google Sheets spreadsheet
-- Specials defined in `meta/specials.json`
+- Descriptions from the [episode descriptions spreadsheet](https://docs.google.com/spreadsheets/d/1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM/edit?usp=sharing)
+- Specials placement/titles from `meta/specials.json` — unconfigured specials are auto-placed in Season 0
+- Thumbnails from `meta/thumbnails.json`, falling back to per-season posters
 
 ## Config
 
@@ -43,7 +44,8 @@ Assembles `meta/pp_onepacee.json` from:
 ## Credits
 
 - [The One Pace Project](https://onepace.net/) — the edits this addon serves
-- [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio) — original Stremio metadata structure
+- [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio) — inspiration for the original Stremio metadata structure
 - [one-pace/one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles) — official title data
+- [Episode Descriptions Spreadsheet](https://docs.google.com/spreadsheets/d/1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM/edit?usp=sharing) — localized episode summaries
 
 If this saved you from managing torrents manually, consider [supporting server costs on Ko-fi](https://ko-fi.com/not6ip).
