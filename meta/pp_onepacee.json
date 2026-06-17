@@ -4321,6 +4321,10 @@
         ],
         "seasons": [
             {
+                "season": 0,
+                "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s00.jpg"
+            },
+            {
                 "season": 1,
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s01.jpg"
             },

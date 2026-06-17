@@ -352,7 +352,7 @@ def main():
         {
             "season": i,
             "poster": f"https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s{str(i).zfill(2)}.jpg"
-        } for i in range(1, TOTAL_SEASONS + 1)
+        } for i in range(0, TOTAL_SEASONS + 1)
     ]
 
     desc_count = 0
