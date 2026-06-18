@@ -16,7 +16,8 @@ config.json          # Arc → prefix map shared across all scripts
     ├── *.json             # Standard One Pace — built by scr.py
     ├── ONIG/              # Onigashima Paced
     ├── Muhn/              # Muhn Pace English Dub
-    └── KUMA_SHAVED/       # Shaved Egghead & Kuma Cut
+    ├── KUMA_SHAVED/       # Shaved Egghead & Kuma Cut
+    └── Specials/          # Special episodes (manually maintained)
 ```
 
 ## Scripts
