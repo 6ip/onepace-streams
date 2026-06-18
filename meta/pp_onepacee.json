@@ -21,6 +21,51 @@
                 "episode": 1
             },
             {
+                "id": "pp_fan_2",
+                "title": "[April Fools] Precognition of a New Adventure! Apis, a Mysterious Girl",
+                "description": "On a stormy night a girl called Apis escapes from the Marines and arrives at Straw hat's ship, but the girl upon knowing that they are pirates begins to hide some of the reasons which she is being wanted by the Marines. As the Straw Hats escape from the Marines, they get caught in the Calm Belt.",
+                "overview": "On a stormy night a girl called Apis escapes from the Marines and arrives at Straw hat's ship, but the girl upon knowing that they are pirates begins to hide some of the reasons which she is being wanted by the Marines. As the Straw Hats escape from the Marines, they get caught in the Calm Belt.",
+                "thumbnail": "https://image.tmdb.org/t/p/w780/Aw8LKz3OpuFSek9XTr8pr4asa93.jpg",
+                "season": 0,
+                "episode": 2
+            },
+            {
+                "id": "pp_fan_3",
+                "title": "[April Fools] Sand Croc and Water Luffy! Death Match: Round 2",
+                "description": "Luffy fights Crocodile with more success this time by using water, but still loses this round. Meanwhile, the other Straw Hats hurry to locate the bomb before it goes off. Nico Robin forces the king to take her to the tomb where the Pluton Poneglyph is hidden.",
+                "overview": "Luffy fights Crocodile with more success this time by using water, but still loses this round. Meanwhile, the other Straw Hats hurry to locate the bomb before it goes off. Nico Robin forces the king to take her to the tomb where the Pluton Poneglyph is hidden.",
+                "thumbnail": "https://image.tmdb.org/t/p/w780/y6SlEBoF6OmoWd7kontpI8dmUcA.jpg",
+                "season": 0,
+                "episode": 3
+            },
+            {
+                "id": "pp_fan_4",
+                "title": "[Specials] Straw Hat Theater",
+                "description": "Animated adaptations of Eiichiro Oda's short omake comics, casting the Straw Hat crew into a string of genre parodies. Chopperman battles the villainous Dr. Usodabada, the crew's housewives are wrangled into line, and mugiwara monsters squabble over treasure in a lighthearted set of skits apart from the main story.",
+                "overview": "Animated adaptations of Eiichiro Oda's short omake comics, casting the Straw Hat crew into a string of genre parodies. Chopperman battles the villainous Dr. Usodabada, the crew's housewives are wrangled into line, and mugiwara monsters squabble over treasure in a lighthearted set of skits apart from the main story.",
+                "thumbnail": "https://image.tmdb.org/t/p/w780/kLxfPWVeYpAuo239omZwlhn3BRB.jpg",
+                "season": 0,
+                "episode": 4
+            },
+            {
+                "id": "pp_fan_5",
+                "title": "[Specials] Strong World",
+                "description": "Two decades before Luffy set sail, the Golden Lion Shiki clashes with Gol D. Roger after Roger refuses to join his bid to rule the world. Following Roger's execution, Shiki storms Marine Headquarters and is condemned to Impel Down, only to become the first prisoner ever to escape, setting in motion a twenty-year scheme to bring the world to its knees.",
+                "overview": "Two decades before Luffy set sail, the Golden Lion Shiki clashes with Gol D. Roger after Roger refuses to join his bid to rule the world. Following Roger's execution, Shiki storms Marine Headquarters and is condemned to Impel Down, only to become the first prisoner ever to escape, setting in motion a twenty-year scheme to bring the world to its knees.",
+                "thumbnail": "https://image.tmdb.org/t/p/w780/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+                "season": 0,
+                "episode": 5
+            },
+            {
+                "id": "pp_fan_6",
+                "title": "[Specials] Wapol's Omnivorous Hurrah",
+                "description": "After being launched off Drum Island by Luffy, the deposed king Wapol washes up penniless on a distant shore. Living as a homeless man, he uses his Baku Baku powers to fuse junk into toys that delight local children, slowly building a fortune from nothing. He opens his own shop, marries Kinderella, and rises higher than he ever stood as king.",
+                "overview": "After being launched off Drum Island by Luffy, the deposed king Wapol washes up penniless on a distant shore. Living as a homeless man, he uses his Baku Baku powers to fuse junk into toys that delight local children, slowly building a fortune from nothing. He opens his own shop, marries Kinderella, and rises higher than he ever stood as king.",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_6.jpg",
+                "season": 0,
+                "episode": 6
+            },
+            {
                 "season": 1,
                 "episode": 1,
                 "id": "RO_1",
