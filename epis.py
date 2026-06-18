@@ -417,8 +417,8 @@ def main():
         
         if spec_id not in found_spec_ids:
             spec_title = spec_val.get("custom_title", key_to_title.get(orig_key, "Special Episode"))
-            # Try ID, then Title fallback
-            desc = descriptions_map.get(spec_id, title_to_desc.get(spec_title, ""))
+            # Try ID, then Title fallback, then custom_overview from specials.json
+            desc = descriptions_map.get(spec_id) or title_to_desc.get(spec_title) or spec_val.get("custom_overview", "")
             if desc:
                 desc_count += 1
                 
@@ -483,6 +483,12 @@ def main():
         else:
             # Priority 4: Fallback TMDB background
             spec_vid["thumbnail"] = "https://image.tmdb.org/t/p/w500/iN5LKyvyWUWwqbjaQfKFXoo8mch.jpg"
+
+        # Apply custom_overview if no description was set from the spreadsheet
+        custom_overview = specials_by_id[vid_id].get("custom_overview")
+        if custom_overview and not spec_vid.get("description"):
+            spec_vid["description"] = custom_overview
+            spec_vid["overview"] = custom_overview
 
         # Find the max episode number currently existing in the target season
         episodes_in_target = [v.get("episode", 0) for v in normal_videos if v.get("season") == target_season]
