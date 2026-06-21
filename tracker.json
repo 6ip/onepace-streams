@@ -1419,5 +1419,8 @@
   "EH_21.json": [
     "BATCH_SEARCH:Egghead:DBDB2978",
     "BATCH_SEARCH:Egghead:2C16CBB5"
+  ],
+  "WA_60.json": [
+    "BATCH_SEARCH:Wano:27E7EE1C"
   ]
 }
