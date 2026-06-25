@@ -34,33 +34,33 @@
     },
 	"specials_05": {
         "season": 0,
-        "title_start": "[April Fools] ",
-		"custom_title": "Precognition of a New Adventure! Apis, a Mysterious Girl",
-		"custom_overview": "On a stormy night a girl called Apis escapes from the Marines and arrives at Straw hat's ship, but the girl upon knowing that they are pirates begins to hide some of the reasons which she is being wanted by the Marines. As the Straw Hats escape from the Marines, they get caught in the Calm Belt.",
-		"thum": "https://image.tmdb.org/t/p/w780/Aw8LKz3OpuFSek9XTr8pr4asa93.jpg",
+        "title_start": "[April Fools 2025] ",
+		"custom_title": "Precursor to a New Adventure! Apis, a Mysterious Girl!",
+		"custom_overview": "The discovery of a small girl adrift in an abandoned life boat interrupts Luffy and crew's voyage to the Grand Line.The discovery of a small girl adrift in an abandoned life boat interrupts Luffy and crew's voyage to the Grand Line.",
+		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_2.jpg",
         "id": "pp_fan_2"
     },
 	"specials_06": {
         "season": 0,
-        "title_start": "[April Fools] ",
-		"custom_title": "Sand Croc and Water Luffy! Death Match: Round 2",
-		"custom_overview": "Luffy fights Crocodile with more success this time by using water, but still loses this round. Meanwhile, the other Straw Hats hurry to locate the bomb before it goes off. Nico Robin forces the king to take her to the tomb where the Pluton Poneglyph is hidden.",
-		"thum": "https://image.tmdb.org/t/p/w780/y6SlEBoF6OmoWd7kontpI8dmUcA.jpg",
+        "title_start": "[April Fools 2024] ",
+		"custom_title": "The Desert Doo Doo Hits the Fan",
+		"custom_overview": "When Crocodile yells 'Oh no! Water!' it's game over! Join Monkey D. Luffy and his courageous crew -- Nami, Usopp, Chopper (who does doctoring), Sanji, and Zolo -- as they save Alabasta from the crooked clutches of Baroque Works!",
+		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_3.jpg",
         "id": "pp_fan_3"
     },
 	"specials_07": {
         "season": 0,
         "title_start": "[Specials] ",
-		"custom_title": "Straw Hat Theater",
-		"custom_overview": "Animated adaptations of Eiichiro Oda's short omake comics, casting the Straw Hat crew into a string of genre parodies. Chopperman battles the villainous Dr. Usodabada, the crew's housewives are wrangled into line, and mugiwara monsters squabble over treasure in a lighthearted set of skits apart from the main story.",
-		"thum": "https://image.tmdb.org/t/p/w780/kLxfPWVeYpAuo239omZwlhn3BRB.jpg",
+		"custom_title": "Straw Hat Theatre",
+		"custom_overview": "A series of shorts featuring the Straw Hats parodying various genres, such as fairy tales and science-fiction.",
+		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_4.jpg",
         "id": "pp_fan_4"
     },
 	"specials_08": {
         "season": 0,
         "title_start": "[Specials] ",
 		"custom_title": "Strong World",
-		"custom_overview": "Two decades before Luffy set sail, the Golden Lion Shiki clashes with Gol D. Roger after Roger refuses to join his bid to rule the world. Following Roger's execution, Shiki storms Marine Headquarters and is condemned to Impel Down, only to become the first prisoner ever to escape, setting in motion a twenty-year scheme to bring the world to its knees.",
+		"custom_overview": "Three years before the beginning of the Golden Age of Piracy, word arrives at Marineford that Shiki and the Roger Pirates have made contact at Edd War in the New World. Monkey D. Garp, hearing the news, heads off with Sengoku to meet them.",
 		"thum": "https://image.tmdb.org/t/p/w780/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
         "id": "pp_fan_5"
     },
@@ -68,7 +68,7 @@
         "season": 0,
         "title_start": "[Specials] ",
 		"custom_title": "Wapol's Omnivorous Hurrah",
-		"custom_overview": "After being launched off Drum Island by Luffy, the deposed king Wapol washes up penniless on a distant shore. Living as a homeless man, he uses his Baku Baku powers to fuse junk into toys that delight local children, slowly building a fortune from nothing. He opens his own shop, marries Kinderella, and rises higher than he ever stood as king.",
+		"custom_overview": "Having been propelled onto an unknown island by Luffy, Wapol experiences life as a homeless man for the first time. Eventually, he uses his Baku Baku powers to create unique toys by fusing different objects together and begins to work his way back up the social ladder by selling these toys to children. In the end, he opens his own shop and marries `Miss Universe` Kinderella.",
 		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_6.jpg",
         "id": "pp_fan_6"
     }
