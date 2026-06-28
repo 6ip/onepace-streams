@@ -133,7 +133,7 @@ def parse_arc_sheet(rows, prefix, season):
         if is_forward:
             video["_forward"] = True   # temporary flag, removed during the first pass
         videos.append(video)
-    # Stremio does not display episode 0, so if this arc uses a "00" entry,    
+    # Stremio hides episode 0, so shift a "00"-based arc up by one.    
     if any(v["episode"] == 0 for v in videos):
         for v in videos:
             v["episode"] += 1
@@ -249,7 +249,7 @@ def main():
     # Build description dictionaries
     descriptions_map = {}
     title_to_desc = {}   # Fallback map based on exact English Title
-    title_en_map = {}    # NEW: video_id -> official English title from the descriptions sheet
+    title_en_map = {}    # video_id -> official English title from the descriptions sheet
 
     reader = csv.DictReader(StringIO(csv_content))
     for row in reader:
@@ -381,7 +381,7 @@ def main():
 
         season_num = video.get("season")
         
-        # --- NEW: Thumbnail Priority Logic (Normal Videos) ---
+        # --- Thumbnail priority (normal videos) ---
         if vid_id in thumbnails_map:
             video["thumbnail"] = thumbnails_map[vid_id]
         elif season_num and 1 <= season_num <= TOTAL_SEASONS:
@@ -461,7 +461,7 @@ def main():
         vid_id = spec_vid["id"]
         target_season = specials_by_id[vid_id]["season"]
         title_prefix = specials_by_id[vid_id]["title_start"]
-        custom_thumb = specials_by_id[vid_id].get("thum") # NEW: Extract the custom thumbnail if it exists
+        custom_thumb = specials_by_id[vid_id].get("thum")
 
         original_title = spec_vid.get("title", "")
         if not original_title.startswith(title_prefix.strip()):
@@ -469,7 +469,7 @@ def main():
 
         spec_vid["season"] = target_season
 
-        # --- NEW: 4-Tier Thumbnail Priority Logic (Specials) ---
+        # --- 4-tier thumbnail priority (specials) ---
         if vid_id in thumbnails_map:
             # Priority 1: Custom thumbnail from thumbnails.json
             spec_vid["thumbnail"] = thumbnails_map[vid_id]

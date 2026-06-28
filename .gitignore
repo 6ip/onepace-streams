@@ -1,1 +1,4 @@
 one_pace.xlsx
+__pycache__/
+*.pyc
+stream/st_purge.txt
