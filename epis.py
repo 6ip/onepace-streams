@@ -1,5 +1,6 @@
 import re
 import time
+import datetime
 import requests
 import openpyxl
 import json
@@ -70,6 +71,84 @@ def parse_episode_label(label):
     return int(nums[-1]), is_forward
 
 
+# Fixed time-of-day appended to every episode's air date.
+RELEASE_TIME_SUFFIX = "T14:15:00.000Z"
+
+
+def to_iso_release(raw):
+    """Convert a spreadsheet 'Release Date' to an ISO-8601 string with the fixed
+    time-of-day, or None if the value isn't a clear year-month-day date.
+
+    Accepts a real date/datetime cell, or text 'yyyy.mm.dd' (current format),
+    'yyyy-mm-dd', 'yyyy/mm/dd'. Anything else (blank, 'To Be Released', or an
+    unexpected layout) returns None, so a format change can only omit a date,
+    never produce a wrong one.
+    """
+    if raw is None:
+        return None
+    if isinstance(raw, datetime.date):  # covers date and datetime cells
+        y, mo, d = raw.year, raw.month, raw.day
+    else:
+        m = re.fullmatch(r"\s*(\d{4})[.\-/](\d{1,2})[.\-/](\d{1,2})\s*", str(raw))
+        if not m:
+            return None
+        y, mo, d = (int(x) for x in m.groups())
+    try:
+        datetime.date(y, mo, d)  # reject impossible dates (e.g. month 13)
+    except ValueError:
+        return None
+    return f"{y:04d}-{mo:02d}-{d:02d}{RELEASE_TIME_SUFFIX}"
+
+
+def normalize_released(raw):
+    """For specials.json: pass a full ISO datetime through as-is, otherwise
+    convert a 'yyyy.mm.dd'-style date. None if unrecognized."""
+    if raw is None:
+        return None
+    s = str(raw).strip()
+    if not s:
+        return None
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?Z", s):
+        return s
+    return to_iso_release(s)
+
+
+def collect_release_dates(rows):
+    """Return {clean_label: iso_date} for every dated row in an arc tab.
+
+    Captures dates from EVERY row (even ones parse_arc_sheet would skip -- a
+    cover-story row with no number, an alternate '(G8)' row that collides with a
+    real id) so specials can look up their air date by label later.
+    """
+    ep_col = header_idx = None
+    for i, row in enumerate(rows[:8]):
+        for j, c in enumerate(row):
+            if c and str(c).strip().lower() == "one pace episode":
+                ep_col, header_idx = j, i
+                break
+        if ep_col is not None:
+            break
+    if ep_col is None:
+        return {}
+
+    release_col = None
+    for j, c in enumerate(rows[header_idx]):
+        if c and str(c).strip().lower() == "release date":
+            release_col = j
+            break
+    if release_col is None:
+        return {}
+
+    out = {}
+    for row in rows[header_idx + 1:]:
+        if ep_col >= len(row) or row[ep_col] is None or release_col >= len(row):
+            continue
+        iso = to_iso_release(row[release_col])
+        if iso:
+            out.setdefault(clean_string(str(row[ep_col])), iso)
+    return out
+
+
 def build_season_map(rows, arc_map):
     """From the Arc Overview rows, build {prefix: season}. Decimal arcs (6.5) fold to int (6)."""
     header_idx = no_col = arc_col = None
@@ -112,6 +191,13 @@ def parse_arc_sheet(rows, prefix, season):
     if ep_col is None:
         return []
 
+    # Locate the optional "Release Date" column in the same header row.
+    release_col = None
+    for j, c in enumerate(rows[header_idx]):
+        if c and str(c).strip().lower() == "release date":
+            release_col = j
+            break
+
     videos, seen = [], set()
     for row in rows[header_idx + 1:]:
         if ep_col >= len(row) or row[ep_col] is None:
@@ -130,6 +216,12 @@ def parse_arc_sheet(rows, prefix, season):
             "id": vid_id,
             "title": "Unreleased" if is_forward else str(row[ep_col]).strip(),
         }
+        # Air date from the spreadsheet (skip 'Forward'/unreleased rows).
+        if not is_forward and release_col is not None and release_col < len(row):
+            iso = to_iso_release(row[release_col])
+            if iso:
+                video["released"] = iso
+                video["firstAired"] = iso
         if is_forward:
             video["_forward"] = True   # temporary flag, removed during the first pass
         videos.append(video)
@@ -155,18 +247,26 @@ def build_base_data_from_spreadsheet(arc_map):
     prefix_to_season = build_season_map(overview_rows, arc_map)
 
     all_videos = []
+    release_by_label = {}
     for name in wb.sheetnames:
         if name.strip() == OVERVIEW_SHEET:
             continue
+        rows = list(wb[name].iter_rows(values_only=True))
         prefix = resolve_prefix(name, arc_map)
         if not prefix:
             print(f"   [!] No ARC_MAP entry for tab '{name}' - skipping.")
             continue
+
+        # Capture air dates from every prefixed tab (even cover-story tabs with
+        # no season) so specials can resolve their date by label.
+        for lbl, iso in collect_release_dates(rows).items():
+            release_by_label.setdefault(lbl, iso)
+
         season = prefix_to_season.get(prefix)
         if season is None:
             print(f"   [!] No season number for tab '{name}' ({prefix}) - skipping.")
             continue
-        arc_videos = parse_arc_sheet(list(wb[name].iter_rows(values_only=True)), prefix, season)
+        arc_videos = parse_arc_sheet(rows, prefix, season)
         print(f"   - {name:34} {prefix:14} S{season:<2}: {len(arc_videos)} eps")
         all_videos.extend(arc_videos)
 
@@ -183,7 +283,7 @@ def build_base_data_from_spreadsheet(arc_map):
             "director": ["Toei Animation"],
             "videos": all_videos,
         }
-    }
+    }, release_by_label
     
 def clean_string(s):
     """Removes spaces, dashes, apostrophes, and periods for exact matching."""
@@ -233,7 +333,7 @@ def get_titles_from_properties(config_arc_map):
 def main():
     print("1. Building base episode list from the official One Pace spreadsheet...")
     try:
-        data = build_base_data_from_spreadsheet(ARC_PREFIXES)
+        data, release_by_label = build_base_data_from_spreadsheet(ARC_PREFIXES)
     except Exception as e:
         print(f"Failed to build base data: {e}")
         return
@@ -468,6 +568,22 @@ def main():
             spec_vid["title"] = f"{title_prefix}{original_title}"
 
         spec_vid["season"] = target_season
+
+        # Air date, in priority:
+        #   1) explicit "released" in specials.json (date or full ISO)
+        #   2) "release_label" -> the exact spreadsheet row's date
+        #   3) auto: the special's own title matches a spreadsheet row label
+        #      (covers cover-story specials whose title == the sheet label)
+        rel = normalize_released(specials_by_id[vid_id].get("released"))
+        if not rel:
+            label_hint = specials_by_id[vid_id].get("release_label")
+            if label_hint:
+                rel = release_by_label.get(clean_string(label_hint))
+        if not rel and original_title:
+            rel = release_by_label.get(clean_string(original_title))
+        if rel:
+            spec_vid["released"] = rel
+            spec_vid["firstAired"] = rel
 
         # --- 4-tier thumbnail priority (specials) ---
         if vid_id in thumbnails_map:

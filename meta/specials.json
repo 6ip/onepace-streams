@@ -5,24 +5,28 @@
     "specials_01": {
         "season": 6,
         "title_start": "[Cover Story] ",
+        "release_label": "The Adventures of Buggy's Crew",
         "id": "BUGGYS_CREW_1",
 		"thum": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/thum-s_BUGGY.jpg&w=1280&h=720&fit=cover&a=center"
     },
     "specials_02": {
         "season": 9,
         "title_start": "[Cover Story] ",
+        "release_label": "The Trials of Koby-Meppo",
         "id": "COVER_KOBYMEPPO_1",
 		"thum": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/thum-s_KOBY.jpg&w=1280&h=720&fit=cover&a=center"
     },
     "specials_03": {
         "season": 22,
         "title_start": "[Cover Story] ",
+        "release_label": "The Adventures of the Straw Hats",
         "id": "COVER_SHSS_1",
 		"thum": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/thum-s_STRAW.jpg&w=1280&h=720&fit=cover&a=center"
     },
     "specials_04": {
         "season": 0,
-        "title_start": "[Fan Letter] ",
+        "title_start": "[Specials] ",
+		"released": "2026-06-28",
         "id": "pp_fan_1",
 		"thum": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/thum-s_Fan_Letter.jpg&w=1280&h=720&fit=cover&a=center"
     },
@@ -30,12 +34,14 @@
         "season": 14,
         "title_start": "[Alternate (G-8)] ",
         "custom_title": "Finale",
+        "release_label": "Skypiea 25 (G8)",
         "id": "SK_26"
     },
 	"specials_05": {
         "season": 0,
         "title_start": "[April Fools 2025] ",
 		"custom_title": "Precursor to a New Adventure! Apis, a Mysterious Girl!",
+		"released": "2025-04-01",		
 		"custom_overview": "The discovery of a small girl adrift in an abandoned life boat interrupts Luffy and crew's voyage to the Grand Line.The discovery of a small girl adrift in an abandoned life boat interrupts Luffy and crew's voyage to the Grand Line.",
 		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_2.jpg",
         "id": "pp_fan_2"
@@ -44,6 +50,7 @@
         "season": 0,
         "title_start": "[April Fools 2024] ",
 		"custom_title": "The Desert Doo Doo Hits the Fan",
+		"released": "2024-04-01",
 		"custom_overview": "When Crocodile yells 'Oh no! Water!' it's game over! Join Monkey D. Luffy and his courageous crew -- Nami, Usopp, Chopper (who does doctoring), Sanji, and Zolo -- as they save Alabasta from the crooked clutches of Baroque Works!",
 		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_3.jpg",
         "id": "pp_fan_3"
@@ -52,6 +59,7 @@
         "season": 0,
         "title_start": "[Specials] ",
 		"custom_title": "Straw Hat Theatre",
+		"released": "2018-06-02",
 		"custom_overview": "A series of shorts featuring the Straw Hats parodying various genres, such as fairy tales and science-fiction.",
 		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_4.jpg",
         "id": "pp_fan_4"
@@ -60,6 +68,7 @@
         "season": 0,
         "title_start": "[Specials] ",
 		"custom_title": "Strong World",
+		"released": "2018-06-02",
 		"custom_overview": "Three years before the beginning of the Golden Age of Piracy, word arrives at Marineford that Shiki and the Roger Pirates have made contact at Edd War in the New World. Monkey D. Garp, hearing the news, heads off with Sengoku to meet them.",
 		"thum": "https://image.tmdb.org/t/p/w780/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
         "id": "pp_fan_5"
@@ -68,6 +77,7 @@
         "season": 0,
         "title_start": "[Specials] ",
 		"custom_title": "Wapol's Omnivorous Hurrah",
+		"released": "2018-06-02",
 		"custom_overview": "Having been propelled onto an unknown island by Luffy, Wapol experiences life as a homeless man for the first time. Eventually, he uses his Baku Baku powers to create unique toys by fusing different objects together and begins to work his way back up the social ladder by selling these toys to children. In the end, he opens his own shop and marries `Miss Universe` Kinderella.",
 		"thum": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/pp_fan_6.jpg",
         "id": "pp_fan_6"
