@@ -227,7 +227,7 @@
                 "title": "To the Sea",
                 "released": "2025-12-06T14:15:00.000Z",
                 "firstAired": "2025-12-06T14:15:00.000Z",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/fMBJQazBNwpA6dqWd0M78ELMsuZ.jpg",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/SY_7.jpg",
                 "description": "The island is saved without any villagers ever knowing what almost befell their home. Kaya, grateful to the Straw Hats for what they did, gifts them something invaluable for sailing the high seas. Meanwhile, one more person joins Luffy's crew.",
                 "overview": "The island is saved without any villagers ever knowing what almost befell their home. Kaya, grateful to the Straw Hats for what they did, gifts them something invaluable for sailing the high seas. Meanwhile, one more person joins Luffy's crew."
             },
@@ -733,7 +733,7 @@
                 "title": "I Love My Country",
                 "released": "2021-05-09T14:15:00.000Z",
                 "firstAired": "2021-05-09T14:15:00.000Z",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/s6YjR0XcH3Qb6vf4FE26PISmqvc.jpg",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/AL_5.jpg",
                 "description": "At Rain Dinners, the Baroque Works officer agents are finally let on to Mr. 0's true identity. And just outside Yuba, Luffy confronts a stubborn Vivi to remind her who else is willing to stand with her.",
                 "overview": "At Rain Dinners, the Baroque Works officer agents are finally let on to Mr. 0's true identity. And just outside Yuba, Luffy confronts a stubborn Vivi to remind her who else is willing to stand with her."
             },
@@ -1294,7 +1294,9 @@
                 "title": "Prologue",
                 "released": "2025-05-08T14:15:00.000Z",
                 "firstAired": "2025-05-08T14:15:00.000Z",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/e5Kt7VxRemc5Syx6RIkt2CqCaSx.jpg"
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/LR_0.jpg",
+                "description": "The Straw Hats are forced to get a move-on after landing back in the ocean. The Five Elders discuss the behavior of a certain Marine Admiral.",
+                "overview": "The Straw Hats are forced to get a move-on after landing back in the ocean. The Five Elders discuss the behavior of a certain Marine Admiral."
             },
             {
                 "season": 15,
@@ -1446,7 +1448,7 @@
                 "title": "Devil",
                 "released": "2021-06-21T14:15:00.000Z",
                 "firstAired": "2021-06-21T14:15:00.000Z",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/50THPLdp8jVq2wrZwiLRyqORME8.jpg",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/WS_8.jpg",
                 "description": "Nico Robin appears to be working alongside a World Government shadow organization called CP9. When the Straw Hats learn about Robin's current affiliation, Luffy decides that in order to know the full truth, they must catch Robin and make her talk.",
                 "overview": "Nico Robin appears to be working alongside a World Government shadow organization called CP9. When the Straw Hats learn about Robin's current affiliation, Luffy decides that in order to know the full truth, they must catch Robin and make her talk."
             },
@@ -2249,7 +2251,7 @@
                 "title": "Kizaru Arrives",
                 "released": "2017-12-01T14:15:00.000Z",
                 "firstAired": "2017-12-01T14:15:00.000Z",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/h3APQXFdO62UcXJb065imzf0ypr.jpg",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/SAB_9.jpg",
                 "description": "Luffy and his crew decide to lay low in town while Rayleigh coats the Sunny. Meanwhile, Admiral Kizaru from Marine HQ arrives on the archipelago in search of those responsible for threatening the Celestial Dragons.",
                 "overview": "Luffy and his crew decide to lay low in town while Rayleigh coats the Sunny. Meanwhile, Admiral Kizaru from Marine HQ arrives on the archipelago in search of those responsible for threatening the Celestial Dragons."
             },

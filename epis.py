@@ -391,14 +391,25 @@ def main():
 
     print("4. Loading specials.json configuration...")
     custom_titles = {}
+    custom_overviews = {}
     try:
         SPECIALS_PATH = os.path.join(BASE_DIR, 'meta', 'specials.json')
         with open(SPECIALS_PATH, 'r', encoding='utf-8') as f:
             specials_config = json.load(f)
 
-        # Pull out optional custom-title overrides BEFORE iterating specials,
+        # Pull out optional custom-name overrides BEFORE iterating specials,
         # so the loop below only sees real special entries (each with an "id").
-        custom_titles = specials_config.pop("custom_names", {})
+        # A custom_names value is either a plain title string, or an object
+        # {"title": ..., "overview": ...} to also set a description.
+        for cid, cval in specials_config.pop("custom_names", {}).items():
+            if isinstance(cval, dict):
+                if cval.get("title"):
+                    custom_titles[cid] = cval["title"]
+                overview = cval.get("overview") or cval.get("description")
+                if overview:
+                    custom_overviews[cid] = overview
+            else:
+                custom_titles[cid] = cval
 
         specials_by_id = {}
         for spec_key, spec_val in specials_config.items():
@@ -493,7 +504,11 @@ def main():
         # Inject Descriptions (Try ID map first, then Title map)
         clean_vid_title = video.get("title", "").replace('\\"', "'").replace('"', "'")
         
-        if vid_id in descriptions_map:
+        if vid_id in custom_overviews:
+            video["description"] = custom_overviews[vid_id]
+            video["overview"] = custom_overviews[vid_id]
+            desc_count += 1
+        elif vid_id in descriptions_map:
             video["description"] = descriptions_map[vid_id]
             video["overview"] = descriptions_map[vid_id]
             desc_count += 1
