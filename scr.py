@@ -533,10 +533,10 @@ def main():
         # --- PRE-CHECK: does the website have a fresh release? ---
         website_streams = resolve_from_website(arc_name, ep_num_raw)
 
-        # Signature = spreadsheet links only.
-        current_sources = list(nyaa_urls)
+        # are tracked too and only reprocess when the website release actually changes.
+        current_sources = list(nyaa_urls) + sorted(f"web::{ws['url']}" for ws in website_streams)
 
-        # Skip if nothing changed since last run
+        # Skip if nothing changed since last run (spreadsheet AND website)
         if tracker_data.get(filename) == current_sources and os.path.exists(filepath):
             print(f"  [~] Skipped {filename} (Already up-to-date)")
             continue
