@@ -2,13 +2,6 @@
 	"custom_names": {
         "LR_0": { "title": "Prologue", "overview": "The Straw Hats are forced to get a move-on after landing back in the ocean. The Five Elders discuss the behavior of a certain Marine Admiral." }
     },
-    "skypiea_g8": {
-        "season": 14,
-        "title_start": "[Alternate (G-8)] ",
-        "custom_title": "Finale",
-        "release_label": "Skypiea 25 (G8)",
-        "id": "SK_26"
-    },
     "specials_01": {
         "season": 6,
         "title_start": "[Cover Story] ",

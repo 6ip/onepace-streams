@@ -327,7 +327,8 @@
     "BATCH_SEARCH:Skypiea:3F695862"
   ],
   "SK_25.json": [
-    "BATCH_SEARCH:Skypiea:C951349C"
+    "BATCH_SEARCH:Skypiea:C951349C",
+    "BATCH_SEARCH:Skypiea:90C45C25"
   ],
   "LR_0.json": [
     "BATCH_SEARCH:Long Ring Long Land:E85B9E9D"
@@ -1421,6 +1422,7 @@
     "BATCH_SEARCH:Egghead:2C16CBB5"
   ],
   "WA_60.json": [
-    "BATCH_SEARCH:Wano:27E7EE1C"
+    "BATCH_SEARCH:Wano:27E7EE1C",
+    "web::https://nyaa.si/view/2124146"
   ]
 }

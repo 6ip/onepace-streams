@@ -304,6 +304,13 @@ def get_expected_filename(ep_name, arc_name):
     
     return f"{prefix}_{ep_num}.json"
 
+def get_alternate_base_filename(ep_name, arc_name):
+    # 'Skypiea 25 (G8)' -> SK_25.json (append as an extra stream, no new episode)
+    prefix = PREFIX_MAP.get(arc_name, arc_name[:2].upper())
+    match = re.search(r'\b(\d{1,3})\b', str(ep_name))
+    base = int(match.group(1)) if match else LAST_EPISODE_CACHE.get(arc_name, 1)
+    return f"{prefix}_{base}.json"
+
 def save_tracker(tracker_data):
     with open(TRACKER_FILE, 'w', encoding='utf-8') as f:
         json.dump(tracker_data, f, indent=2, ensure_ascii=False)
@@ -449,7 +456,12 @@ def main():
             ep_name = sheet.cell(row=row, column=ep_col_idx).value
             if not ep_name: continue
             
-            filename = get_expected_filename(ep_name, target_sheet)
+            ep_name_str = str(ep_name).strip()
+            is_alt_row = ("alternate" in ep_name_str.lower()) or ("(g8)" in ep_name_str.lower())
+            if is_alt_row:
+                filename = get_alternate_base_filename(ep_name_str, target_sheet)
+            else:
+                filename = get_expected_filename(ep_name, target_sheet)
             
             row_lengths = []
             for l_col in length_col_indices:
@@ -461,8 +473,9 @@ def main():
                         row_lengths.append(str(val).strip())
 
             if filename not in files_to_process:
-                files_to_process[filename] = {"urls": [], "arc": target_sheet}
+                files_to_process[filename] = {"urls": [], "alt_urls": [], "arc": target_sheet}
                 episode_lengths[filename] = {}
+            files_to_process[filename].setdefault("alt_urls", [])
             
             row_urls = []
             for col in range(1, sheet.max_column + 1):
@@ -502,11 +515,14 @@ def main():
                     files_to_process[filename]["urls"].append(url)
                     assigned_length = row_lengths[idx] if idx < len(row_lengths) else ""
                     episode_lengths[filename][url] = assigned_length
+                    if is_alt_row:
+                        files_to_process[filename]["alt_urls"].append(url)
 
     print("\n--- Processing Streams & Saving JSONs ---")
     
     for filename, info in files_to_process.items():
         nyaa_urls = info["urls"]
+        alt_urls = info.get("alt_urls", [])
         arc_name = info["arc"]
         
         if not nyaa_urls: continue
@@ -516,9 +532,13 @@ def main():
         
         # --- PRE-CHECK: does the website have a fresh release? ---
         website_streams = resolve_from_website(arc_name, ep_num_raw)
-        
-        # Skip ONLY if tracker matches AND there is NO fresh website release overriding it
-        if not website_streams and tracker_data.get(filename) == nyaa_urls and os.path.exists(filepath):
+
+        # Signature = spreadsheet links + website links, so website-sourced episodes
+        # are tracked too and only reprocess when the website release actually changes.
+        current_sources = list(nyaa_urls) + sorted(f"web::{ws['url']}" for ws in website_streams)
+
+        # Skip if nothing changed since last run (spreadsheet AND website)
+        if tracker_data.get(filename) == current_sources and os.path.exists(filepath):
             print(f"  [~] Skipped {filename} (Already up-to-date)")
             continue
             
@@ -561,16 +581,18 @@ def main():
 
         # --- PHASES 1-3: SPREADSHEET CRCs & EXTENDED CUTS ---
         for idx, url in enumerate(nyaa_urls):
-            # idx 0 = Standard Slot, idx 1 = Extended Slot
-            is_extended_col = (idx == 1)
+            # idx 0 = Standard, idx 1 = Extended; alternates (G-8) are extra streams
+            is_alt = url in alt_urls
+            is_extended_col = (idx == 1) and not is_alt
 
-            # If the website already filled the slot we are currently looking at, skip!
-            if is_extended_col and has_extended:
-                print("  [⚡] Skipping outdated Spreadsheet Extended Cut (already got fresh one).")
-                continue
-            if not is_extended_col and has_standard:
-                print("  [⚡] Skipping outdated Spreadsheet Standard Cut (already got fresh one).")
-                continue
+            # If the website already filled the slot we are looking at, skip! (alternates never do)
+            if not is_alt:
+                if is_extended_col and has_extended:
+                    print("  [⚡] Skipping outdated Spreadsheet Extended Cut (already got fresh one).")
+                    continue
+                if not is_extended_col and has_standard:
+                    print("  [⚡] Skipping outdated Spreadsheet Standard Cut (already got fresh one).")
+                    continue
 
             info_hash, torrent_filename, file_idx, video_size = None, None, None, None
             actual_url = url
@@ -644,9 +666,10 @@ def main():
                     "fileIdx": file_idx
                 })
                 
-                # Lock the slot
-                if is_extended_col: has_extended = True
-                else: has_standard = True
+                # Lock the slot (alternates don't occupy standard/extended)
+                if not is_alt:
+                    if is_extended_col: has_extended = True
+                    else: has_standard = True
                 
                 # Check if the .torrent download URL is in the cache before sleeping
                 match = re.search(r'(?:/view/|download/)(\d+)', actual_url)
@@ -660,7 +683,7 @@ def main():
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             
-            tracker_data[filename] = nyaa_urls
+            tracker_data[filename] = current_sources
             save_tracker(tracker_data)
             
             print(f"  [+] Saved {filename}")
