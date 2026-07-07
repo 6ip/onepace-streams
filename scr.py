@@ -533,11 +533,10 @@ def main():
         # --- PRE-CHECK: does the website have a fresh release? ---
         website_streams = resolve_from_website(arc_name, ep_num_raw)
 
-        # Signature = spreadsheet links + website links, so website-sourced episodes
-        # are tracked too and only reprocess when the website release actually changes.
-        current_sources = list(nyaa_urls) + sorted(f"web::{ws['url']}" for ws in website_streams)
+        # Signature = spreadsheet links only.
+        current_sources = list(nyaa_urls)
 
-        # Skip if nothing changed since last run (spreadsheet AND website)
+        # Skip if nothing changed since last run
         if tracker_data.get(filename) == current_sources and os.path.exists(filepath):
             print(f"  [~] Skipped {filename} (Already up-to-date)")
             continue
@@ -679,6 +678,29 @@ def main():
                         time.sleep(random.uniform(0.5, 1.5))
         
         if streams:
+            # Keep releaseName from the old file (matched by infoHash) so a reprocess doesn't drop it.
+            old_release = {}
+            if os.path.exists(filepath):
+                try:
+                    with open(filepath, encoding='utf-8') as f:
+                        for s in json.load(f).get("streams", []):
+                            if s.get("releaseName") and s.get("infoHash"):
+                                old_release[s["infoHash"]] = s["releaseName"]
+                except (json.JSONDecodeError, OSError):
+                    pass
+            if old_release:
+                for i, s in enumerate(streams):
+                    rn = old_release.get(s.get("infoHash"))
+                    if rn and "releaseName" not in s:
+                        rebuilt = {}
+                        for k, v in s.items():
+                            rebuilt[k] = v
+                            if k == "filename":
+                                rebuilt["releaseName"] = rn
+                        if "releaseName" not in rebuilt:
+                            rebuilt["releaseName"] = rn
+                        streams[i] = rebuilt
+
             data = {"streams": streams}
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
