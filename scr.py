@@ -533,11 +533,8 @@ def main():
         # --- PRE-CHECK: does the website have a fresh release? ---
         website_streams = resolve_from_website(arc_name, ep_num_raw)
 
-        # are tracked too and only reprocess when the website release actually changes.
-        current_sources = list(nyaa_urls) + sorted(f"web::{ws['url']}" for ws in website_streams)
-
-        # Skip if nothing changed since last run (spreadsheet AND website)
-        if tracker_data.get(filename) == current_sources and os.path.exists(filepath):
+        # Skip ONLY if tracker matches AND there is NO fresh website release overriding it
+        if not website_streams and tracker_data.get(filename) == nyaa_urls and os.path.exists(filepath):
             print(f"  [~] Skipped {filename} (Already up-to-date)")
             continue
             
@@ -705,7 +702,7 @@ def main():
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             
-            tracker_data[filename] = current_sources
+            tracker_data[filename] = nyaa_urls
             save_tracker(tracker_data)
             
             print(f"  [+] Saved {filename}")
