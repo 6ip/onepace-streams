@@ -7,6 +7,7 @@
         "logo": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/logo.png",
         "background": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/background_pace.jpg",
         "description": "Experience One Piece without the filler. This manga-accurate cut removes padded scenes, saving you hundreds of hours while staying true to Oda's original vision.",
+        "status": "Continuing",
         "director": [
             "Toei Animation"
         ],
@@ -5020,6 +5021,15 @@
                 "season": 32,
                 "episode": 61,
                 "id": "WA_61",
+                "title": "Wano 61",
+                "released": "2026-07-12T14:15:00.000Z",
+                "firstAired": "2026-07-12T14:15:00.000Z",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 32,
+                "episode": 62,
+                "id": "WA_62",
                 "title": "Unreleased",
                 "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
             },
@@ -5268,6 +5278,7 @@
         "year": "1999-",
         "imdbRating": "9.0",
         "country": "Japan",
+        "ageRating": "TV-14",
         "released": "1999-10-20T00:00:00.000Z",
         "genres": [
             "Animation",
@@ -5277,8 +5288,27 @@
         "cast": [
             "Mayumi Tanaka",
             "Akemi Okamura",
-            "Tony Beck"
+            "Kazuya Nakai"
         ],
+        "app_extras": {
+            "cast": [
+                {
+                    "name": "Mayumi Tanaka",
+                    "character": "Monkey D. Luffy",
+                    "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+                },
+                {
+                    "name": "Akemi Okamura",
+                    "character": "Nami",
+                    "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+                },
+                {
+                    "name": "Kazuya Nakai",
+                    "character": "Roronoa Zoro",
+                    "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"
+                }
+            ]
+        },
         "links": [
             {
                 "name": "9.0",
@@ -5311,9 +5341,9 @@
                 "url": "stremio:///search?search=Akemi%20Okamura"
             },
             {
-                "name": "Tony Beck",
+                "name": "Kazuya Nakai",
                 "category": "Cast",
-                "url": "stremio:///search?search=Tony%20Beck"
+                "url": "stremio:///search?search=Kazuya%20Nakai"
             }
         ],
         "seasons": [

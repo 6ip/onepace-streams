@@ -280,6 +280,7 @@ def build_base_data_from_spreadsheet(arc_map):
             "logo":"",
             "background":"",
             "description":"",
+            "status": "Continuing",
             "director": ["Toei Animation"],
             "videos": all_videos,
         }
@@ -444,9 +445,17 @@ def main():
         "year": "1999-",
         "imdbRating": "9.0",
         "country": "Japan",
+        "ageRating": "TV-14",
         "released": "1999-10-20T00:00:00.000Z",
         "genres": ["Animation", "Action", "Adventure"],
-        "cast": ["Mayumi Tanaka", "Akemi Okamura", "Tony Beck"]
+        "cast": ["Mayumi Tanaka", "Akemi Okamura", "Kazuya Nakai"],
+        "app_extras": {
+            "cast": [
+                {"name": "Mayumi Tanaka", "character": "Monkey D. Luffy", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"},
+                {"name": "Akemi Okamura", "character": "Nami", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"},
+                {"name": "Kazuya Nakai", "character": "Roronoa Zoro", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"}
+            ]
+        }
     })
     
     meta["links"] = [
@@ -456,7 +465,7 @@ def main():
         {"name": "Adventure", "category": "Genres", "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"},
         {"name": "Mayumi Tanaka", "category": "Cast", "url": "stremio:///search?search=Mayumi%20Tanaka"},
         {"name": "Akemi Okamura", "category": "Cast", "url": "stremio:///search?search=Akemi%20Okamura"},
-        {"name": "Tony Beck", "category": "Cast", "url": "stremio:///search?search=Tony%20Beck"}
+        {"name": "Kazuya Nakai", "category": "Cast", "url": "stremio:///search?search=Kazuya%20Nakai"}
     ]
 
     meta["seasons"] = [

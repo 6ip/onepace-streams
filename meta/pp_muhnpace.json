@@ -2604,12 +2604,32 @@
         "year": "1999-",
         "imdbRating": "9.0",
         "country": "Japan",
+        "ageRating": "TV-14",
         "released": "1999-10-20T00:00:00.000Z",
         "cast": [
             "Mayumi Tanaka",
             "Akemi Okamura",
-            "Tony Beck"
+            "Kazuya Nakai"
         ],
+        "app_extras": {
+            "cast": [
+                {
+                    "name": "Mayumi Tanaka",
+                    "character": "Monkey D. Luffy",
+                    "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+                },
+                {
+                    "name": "Akemi Okamura",
+                    "character": "Nami",
+                    "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+                },
+                {
+                    "name": "Kazuya Nakai",
+                    "character": "Roronoa Zoro",
+                    "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"
+                }
+            ]
+        },
         "links": [
             {
                 "name": "Muhn Pace Spreadsheet",
@@ -2652,9 +2672,9 @@
                 "url": "stremio:///search?search=Akemi%20Okamura"
             },
             {
-                "name": "Tony Beck",
+                "name": "Kazuya Nakai",
                 "category": "Cast",
-                "url": "stremio:///search?search=Tony%20Beck"
+                "url": "stremio:///search?search=Kazuya%20Nakai"
             }
         ],
         "seasons": [
