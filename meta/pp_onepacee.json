@@ -5020,6 +5020,15 @@
                 "season": 32,
                 "episode": 61,
                 "id": "WA_61",
+                "title": "Wano 61",
+                "released": "2026-07-12T14:15:00.000Z",
+                "firstAired": "2026-07-12T14:15:00.000Z",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+            },
+            {
+                "season": 32,
+                "episode": 62,
+                "id": "WA_62",
                 "title": "Unreleased",
                 "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
             },
