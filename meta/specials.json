@@ -1,6 +1,7 @@
 {
 	"custom_names": {
-        "LR_0": { "title": "Prologue", "overview": "The Straw Hats are forced to get a move-on after landing back in the ocean. The Five Elders discuss the behavior of a certain Marine Admiral." }
+        "LR_0": { "title": "Prologue", "overview": "The Straw Hats are forced to get a move-on after landing back in the ocean. The Five Elders discuss the behavior of a certain Marine Admiral." },
+		"WA_61": { "title": "The Sweet Bean Code", "overview": "The sound of lightning rumbles as Big Mom prepares to test out her newest Homie. Meanwhile, down on the second floor, Usopp, Nami, Tama and Komachiyo continue trying (and failing) to get a very angry Page One off their tail." }
     },
     "specials_01": {
         "season": 6,

@@ -513,17 +513,17 @@ def main():
         # Inject Descriptions (Try ID map first, then Title map)
         clean_vid_title = video.get("title", "").replace('\\"', "'").replace('"', "'")
         
-        if vid_id in custom_overviews:
-            video["description"] = custom_overviews[vid_id]
-            video["overview"] = custom_overviews[vid_id]
-            desc_count += 1
-        elif vid_id in descriptions_map:
+        if vid_id in descriptions_map:
             video["description"] = descriptions_map[vid_id]
             video["overview"] = descriptions_map[vid_id]
             desc_count += 1
         elif clean_vid_title in title_to_desc:
             video["description"] = title_to_desc[clean_vid_title]
             video["overview"] = title_to_desc[clean_vid_title]
+            desc_count += 1
+        elif vid_id in custom_overviews:
+            video["description"] = custom_overviews[vid_id]
+            video["overview"] = custom_overviews[vid_id]
             desc_count += 1
 
         if vid_id in specials_by_id:
