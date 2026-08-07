@@ -21,371 +21,477 @@
                 "episode": 1,
                 "id": "ONIG_1",
                 "title": "Enter: The Flying Six",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/ma7NIr0pWXb9SILqjfZZkKDEKm4.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/ma7NIr0pWXb9SILqjfZZkKDEKm4.jpg",
+                "released": "2023-07-29T14:15:00.000Z",
+                "firstAired": "2023-07-29T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 2,
                 "id": "ONIG_2",
                 "title": "Family Problem",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/vWbbv1iWvkVTdQrfqls5ZIZkcf7.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/vWbbv1iWvkVTdQrfqls5ZIZkcf7.jpg",
+                "released": "2023-05-05T14:15:00.000Z",
+                "firstAired": "2023-05-05T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 3,
                 "id": "ONIG_3",
                 "title": "Fighting Music",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/iHRYWyLHSLsXDhr8cRJAMOXdftW.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/iHRYWyLHSLsXDhr8cRJAMOXdftW.jpg",
+                "released": "2023-05-12T14:15:00.000Z",
+                "firstAired": "2023-05-12T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 4,
                 "id": "ONIG_4",
                 "title": "Joining the Fight",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/cVlw9fTa8W913PMLkdMhi5eyXxi.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/cVlw9fTa8W913PMLkdMhi5eyXxi.jpg",
+                "released": "2023-05-22T14:15:00.000Z",
+                "firstAired": "2023-05-22T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 5,
                 "id": "ONIG_5",
                 "title": "Scoundrel Meets Scoundrel",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/h44212Z9YHDMSY8zqTnGLG0BssC.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/h44212Z9YHDMSY8zqTnGLG0BssC.jpg",
+                "released": "2023-05-06T14:15:00.000Z",
+                "firstAired": "2023-05-06T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 6,
                 "id": "ONIG_6",
                 "title": "Thunder",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/AfGpOa7JgchNLynkur5gPHL0LlY.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/AfGpOa7JgchNLynkur5gPHL0LlY.jpg",
+                "released": "2023-05-06T14:15:00.000Z",
+                "firstAired": "2023-05-06T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 7,
                 "id": "ONIG_7",
                 "title": "My Bible",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/2RTep5h3y968rLqMm53I6deYC8m.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/2RTep5h3y968rLqMm53I6deYC8m.jpg",
+                "released": "2023-05-27T14:15:00.000Z",
+                "firstAired": "2023-05-27T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 8,
                 "id": "ONIG_8",
                 "title": "New Onigashima Project",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/bNL4geYiwJqNTEFEm5WOKs5Frul.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/bNL4geYiwJqNTEFEm5WOKs5Frul.jpg",
+                "released": "2023-05-06T14:15:00.000Z",
+                "firstAired": "2023-05-06T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 9,
                 "id": "ONIG_9",
                 "title": "My Name",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/kpFTEYhI8adMwhDxkgizXWlPZyg.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/kpFTEYhI8adMwhDxkgizXWlPZyg.jpg",
+                "released": "2023-05-06T14:15:00.000Z",
+                "firstAired": "2023-05-06T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 10,
                 "id": "ONIG_10",
                 "title": "Retainers of Glory",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/RXLOBHDO8sa3GEOb0chovcpMR3.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/RXLOBHDO8sa3GEOb0chovcpMR3.jpg",
+                "released": "2023-05-07T14:15:00.000Z",
+                "firstAired": "2023-05-07T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 11,
                 "id": "ONIG_11",
                 "title": "I Don't See Us Losing",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/kzgGEQq39ySHrvlUZ3mzwKLWrpd.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/kzgGEQq39ySHrvlUZ3mzwKLWrpd.jpg",
+                "released": "2023-05-15T14:15:00.000Z",
+                "firstAired": "2023-05-15T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 12,
                 "id": "ONIG_12",
                 "title": "Let Us Die!",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/kh3J0Gnxkl4lSkYY05IT0HOUqkc.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/kh3J0Gnxkl4lSkYY05IT0HOUqkc.jpg",
+                "released": "2024-05-02T14:15:00.000Z",
+                "firstAired": "2024-05-02T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 13,
                 "id": "ONIG_13",
                 "title": "The Dream of Wano",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/4wE92yeNy3CTL0Bb58cfJWma8qL.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/4wE92yeNy3CTL0Bb58cfJWma8qL.jpg",
+                "released": "2024-02-09T14:15:00.000Z",
+                "firstAired": "2024-02-09T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 14,
                 "id": "ONIG_14",
                 "title": "My Other Name Is Yamato",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/6wWW09oU48hwATtwsfFOFqALvaF.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/6wWW09oU48hwATtwsfFOFqALvaF.jpg",
+                "released": "2023-05-09T14:15:00.000Z",
+                "firstAired": "2023-05-09T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 15,
                 "id": "ONIG_15",
                 "title": "A Kunoichi's Oath",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/swyWNzRnZnlWADDZMqFuoVbTdwr.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/swyWNzRnZnlWADDZMqFuoVbTdwr.jpg",
+                "released": "2023-05-22T14:15:00.000Z",
+                "firstAired": "2023-05-22T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 16,
                 "id": "ONIG_16",
                 "title": "Island of the Strongest",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/noc7Intem87bZUsL0fJF2pX1mae.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/noc7Intem87bZUsL0fJF2pX1mae.jpg",
+                "released": "2023-05-22T14:15:00.000Z",
+                "firstAired": "2023-05-22T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 17,
                 "id": "ONIG_17",
                 "title": "Flame Clouds",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/ikkVKzQiwglBMEqAbPubqeJDDyb.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/ikkVKzQiwglBMEqAbPubqeJDDyb.jpg",
+                "released": "2023-05-22T14:15:00.000Z",
+                "firstAired": "2023-05-22T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 18,
                 "id": "ONIG_18",
                 "title": "Ancient Types",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/1rf0pkpbFZyn5yV0S9T7IN28Svd.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/1rf0pkpbFZyn5yV0S9T7IN28Svd.jpg",
+                "released": "2023-05-23T14:15:00.000Z",
+                "firstAired": "2023-05-23T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 19,
                 "id": "ONIG_19",
                 "title": "The Sake I Brewed to Drink With You",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/cEkVef0C5U68LNYpad9HojkvxVL.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/cEkVef0C5U68LNYpad9HojkvxVL.jpg",
+                "released": "2023-05-23T14:15:00.000Z",
+                "firstAired": "2023-05-23T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 20,
                 "id": "ONIG_20",
                 "title": "Straw Hat Luffy",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/9nb1Q56o2ftAAZ8pyVQIPmF7Q4t.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/9nb1Q56o2ftAAZ8pyVQIPmF7Q4t.jpg",
+                "released": "2023-05-02T14:15:00.000Z",
+                "firstAired": "2023-05-02T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 21,
                 "id": "ONIG_21",
                 "title": "Emperors vs. The New Generation",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/2yJR7kmOXfpreYF3WPjDt8omHWk.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/2yJR7kmOXfpreYF3WPjDt8omHWk.jpg",
+                "released": "2023-05-09T14:15:00.000Z",
+                "firstAired": "2023-05-09T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 22,
                 "id": "ONIG_22",
                 "title": "Kibi Dango",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/5NdUgR0OVy9Xwh1T4Lk1dLsClKu.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/5NdUgR0OVy9Xwh1T4Lk1dLsClKu.jpg",
+                "released": "2023-05-19T14:15:00.000Z",
+                "firstAired": "2023-05-19T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 23,
                 "id": "ONIG_23",
                 "title": "The Honorable \"Hyogoro The Flower\"",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/3Dkur6HADwNy4rLbI7clTldwS07.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/3Dkur6HADwNy4rLbI7clTldwS07.jpg",
+                "released": "2023-05-22T14:15:00.000Z",
+                "firstAired": "2023-05-22T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 24,
                 "id": "ONIG_24",
                 "title": "Raccoon Dog-san",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/4mXADCRqgdDXT9yMc8sYTFsT09v.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/4mXADCRqgdDXT9yMc8sYTFsT09v.jpg",
+                "released": "2023-05-26T14:15:00.000Z",
+                "firstAired": "2023-05-26T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 25,
                 "id": "ONIG_25",
                 "title": "Ashura Doji",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/6pxn5ma0ypztHFeshznKF4C28Zs.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/6pxn5ma0ypztHFeshznKF4C28Zs.jpg",
+                "released": "2023-05-27T14:15:00.000Z",
+                "firstAired": "2023-05-27T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 26,
                 "id": "ONIG_26",
                 "title": "Conqueror's Haki",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/zUBxC2iewH7DWjzbbOjVzJsqp8n.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/zUBxC2iewH7DWjzbbOjVzJsqp8n.jpg",
+                "released": "2023-06-06T14:15:00.000Z",
+                "firstAired": "2023-06-06T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 27,
                 "id": "ONIG_27",
                 "title": "The Code of Oshiruko",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/ySleQJbbOANBTNEI9nkSMedCoNF.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/ySleQJbbOANBTNEI9nkSMedCoNF.jpg",
+                "released": "2023-06-24T14:15:00.000Z",
+                "firstAired": "2023-06-24T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 28,
                 "id": "ONIG_28",
                 "title": "Anarchy in the B.M.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/3u0LlDPl82fjHv4CSGFbnexHGgo.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/3u0LlDPl82fjHv4CSGFbnexHGgo.jpg",
+                "released": "2023-06-27T14:15:00.000Z",
+                "firstAired": "2023-06-27T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 29,
                 "id": "ONIG_29",
                 "title": "A Lifelong Ham Actor",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/kt4HsQ0bYqKO5NZ9Pn7OPQTCEq5.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/kt4HsQ0bYqKO5NZ9Pn7OPQTCEq5.jpg",
+                "released": "2023-08-28T14:15:00.000Z",
+                "firstAired": "2023-08-28T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 30,
                 "id": "ONIG_30",
                 "title": "This is Otama!!",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/ux3oZ1wYAGEeHHRtFMjCca6mVjH.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/ux3oZ1wYAGEeHHRtFMjCca6mVjH.jpg",
+                "released": "2024-01-20T14:15:00.000Z",
+                "firstAired": "2024-01-20T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 31,
                 "id": "ONIG_31",
                 "title": "Jinbe vs Who's Who",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/lka8HyYILqAgatRIQlo1fGjwPxL.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/lka8HyYILqAgatRIQlo1fGjwPxL.jpg",
+                "released": "2024-01-22T14:15:00.000Z",
+                "firstAired": "2024-01-22T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 32,
                 "id": "ONIG_32",
                 "title": "Triceracopter",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/mTjbrajujfuxWiSK50ofWYFevXC.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/mTjbrajujfuxWiSK50ofWYFevXC.jpg",
+                "released": "2024-01-25T14:15:00.000Z",
+                "firstAired": "2024-01-25T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 33,
                 "id": "ONIG_33",
                 "title": "The Stars Take the Stage",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/dDX4t0UFHJoHTw7HLQSoyqioAig.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/dDX4t0UFHJoHTw7HLQSoyqioAig.jpg",
+                "released": "2024-01-27T14:15:00.000Z",
+                "firstAired": "2024-01-27T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 34,
                 "id": "ONIG_34",
                 "title": "So-and-So",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/qUihSjNlaXmx6wXHJsbiaZlnUqA.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/qUihSjNlaXmx6wXHJsbiaZlnUqA.jpg",
+                "released": "2024-02-14T14:15:00.000Z",
+                "firstAired": "2024-02-14T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 35,
                 "id": "ONIG_35",
                 "title": "Twin Dragons",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/xqvlK5QcD3upyM7pcWVaBZDl1PZ.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/xqvlK5QcD3upyM7pcWVaBZDl1PZ.jpg",
+                "released": "2024-02-16T14:15:00.000Z",
+                "firstAired": "2024-02-16T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 36,
                 "id": "ONIG_36",
                 "title": "Brachiosnakeus",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/jAsLhDpUYZwccNBiQ1LAaKthwIq.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/jAsLhDpUYZwccNBiQ1LAaKthwIq.jpg",
+                "released": "2024-02-18T14:15:00.000Z",
+                "firstAired": "2024-02-18T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 37,
                 "id": "ONIG_37",
                 "title": "The Tower",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/ghBlYx4IugT3JpdATgDnv32t6C5.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/ghBlYx4IugT3JpdATgDnv32t6C5.jpg",
+                "released": "2024-02-19T14:15:00.000Z",
+                "firstAired": "2024-02-19T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 38,
                 "id": "ONIG_38",
                 "title": "Soldier of Science",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/9twT1EdLZfWB4OPouQvkA3g1zrN.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/9twT1EdLZfWB4OPouQvkA3g1zrN.jpg",
+                "released": "2024-02-22T14:15:00.000Z",
+                "firstAired": "2024-02-22T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 39,
                 "id": "ONIG_39",
                 "title": "Oden's Beloved Blade",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/ybQBP9haPD0fg8ePldgx659GwxD.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/ybQBP9haPD0fg8ePldgx659GwxD.jpg",
+                "released": "2024-02-24T14:15:00.000Z",
+                "firstAired": "2024-02-24T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 40,
                 "id": "ONIG_40",
                 "title": "Wings of the Pirate King",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/uXoFBwBJ6wcaf9TdLaVBIq5DsUv.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/uXoFBwBJ6wcaf9TdLaVBIq5DsUv.jpg",
+                "released": "2024-02-26T14:15:00.000Z",
+                "firstAired": "2024-02-26T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 41,
                 "id": "ONIG_41",
                 "title": "Drunken Dragon Bagua",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/sAG7kN1KQTQn2bjgJOInzrBTng7.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/sAG7kN1KQTQn2bjgJOInzrBTng7.jpg",
+                "released": "2024-03-06T14:15:00.000Z",
+                "firstAired": "2024-03-06T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 42,
                 "id": "ONIG_42",
                 "title": "The Main Attraction",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/jKMz7UIc5tggTYNkxmgshdKkL4G.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/jKMz7UIc5tggTYNkxmgshdKkL4G.jpg",
+                "released": "2024-03-08T14:15:00.000Z",
+                "firstAired": "2024-03-08T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 43,
                 "id": "ONIG_43",
                 "title": "Komurasaki",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/2Ifc5yiCyiKyTauwgzKDJVx2kiH.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/2Ifc5yiCyiKyTauwgzKDJVx2kiH.jpg",
+                "released": "2024-03-12T14:15:00.000Z",
+                "firstAired": "2024-03-12T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 44,
                 "id": "ONIG_44",
                 "title": "Let Us Face Death Together!",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/qjloW4ZF9MlKc0mNVo4kfXchneV.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/qjloW4ZF9MlKc0mNVo4kfXchneV.jpg",
+                "released": "2024-03-20T14:15:00.000Z",
+                "firstAired": "2024-03-20T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 45,
                 "id": "ONIG_45",
                 "title": "Warrior of Liberation",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/3IZIEkDdIwLgPYKum3VAKQivDjl.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/3IZIEkDdIwLgPYKum3VAKQivDjl.jpg",
+                "released": "2024-03-26T14:15:00.000Z",
+                "firstAired": "2024-03-26T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 46,
                 "id": "ONIG_46",
                 "title": "The Skies Above the Capital",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/hQO96yhn0qxJqZjwYJKUphXApa8.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/hQO96yhn0qxJqZjwYJKUphXApa8.jpg",
+                "released": "2024-03-29T14:15:00.000Z",
+                "firstAired": "2024-03-29T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 47,
                 "id": "ONIG_47",
                 "title": "The World You Wish For",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/A1tTb95gYXJDnKBALVBxmPhBvat.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/A1tTb95gYXJDnKBALVBxmPhBvat.jpg",
+                "released": "2024-04-03T14:15:00.000Z",
+                "firstAired": "2024-04-03T14:15:00.000Z"
             },
             {
                 "season": 1,
                 "episode": 48,
                 "id": "ONIG_48",
                 "title": "Kozuki Momonosuke",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/XNkOeiaSjHnTGDHfZKpyiOTLUU.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/XNkOeiaSjHnTGDHfZKpyiOTLUU.jpg",
+                "released": "2024-04-05T14:15:00.000Z",
+                "firstAired": "2024-04-05T14:15:00.000Z"
             },
             {
                 "season": 2,
                 "episode": 1,
                 "id": "ONIG_WA_1",
                 "title": "New Morning",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/3BZvNo2k3Ehso3sU1qqCwYCaQdn.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/3BZvNo2k3Ehso3sU1qqCwYCaQdn.jpg",
+                "released": "2024-04-15T14:15:00.000Z",
+                "firstAired": "2024-04-15T14:15:00.000Z"
             },
             {
                 "season": 2,
                 "episode": 2,
                 "id": "ONIG_WA_2",
                 "title": "New Emperors",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/pzpiha2E7INtQuo3jKSjKw6Opmc.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/pzpiha2E7INtQuo3jKSjKw6Opmc.jpg",
+                "released": "2024-04-12T14:15:00.000Z",
+                "firstAired": "2024-04-12T14:15:00.000Z"
             },
             {
                 "season": 2,
                 "episode": 3,
                 "id": "ONIG_WA_3",
                 "title": "New Era",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/iubfoHskvxL1hq6acpM4z7OBv21.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/iubfoHskvxL1hq6acpM4z7OBv21.jpg",
+                "released": "2024-04-23T14:15:00.000Z",
+                "firstAired": "2024-04-23T14:15:00.000Z"
             },
             {
                 "season": 2,
                 "episode": 4,
                 "id": "ONIG_WA_3.5",
                 "title": "Farewell (Filler)",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/s3PGcCUgbk2FABY5WRaDbtT6vJZ.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/s3PGcCUgbk2FABY5WRaDbtT6vJZ.jpg",
+                "released": "2024-04-23T14:15:00.000Z",
+                "firstAired": "2024-04-23T14:15:00.000Z"
             },
             {
                 "season": 2,
                 "episode": 5,
                 "id": "ONIG_WA_4",
                 "title": "Final Curtain",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/4Sor4Tr4DyDbmxzcghcZOmMgbgO.jpg"
+                "thumbnail": "https://image.tmdb.org/t/p/w780/4Sor4Tr4DyDbmxzcghcZOmMgbgO.jpg",
+                "released": "2024-04-24T14:15:00.000Z",
+                "firstAired": "2024-04-24T14:15:00.000Z"
             }
         ],
         "releaseInfo": "1999-",
