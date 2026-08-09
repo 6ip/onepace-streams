@@ -468,7 +468,11 @@ def main():
                 val = sheet.cell(row=row, column=l_col).value
                 if val:
                     if isinstance(val, datetime.time) or isinstance(val, datetime.datetime):
-                        row_lengths.append(val.strftime("%M:%S"))
+                        # A stray hour next to real minutes is a sheet typo; a bare hour is genuine.
+                        total = val.minute * 60 + val.second
+                        if val.minute == 0:
+                            total += val.hour * 3600
+                        row_lengths.append(f"{total // 60:02d}:{total % 60:02d}")
                     else:
                         row_lengths.append(str(val).strip())
 
