@@ -113,6 +113,68 @@ def normalize_released(raw):
     return to_iso_release(s)
 
 
+# Longer re-cuts of an episode: "Extended", Muhn's "Alt"/"Fillerver", Skypiea's "Alternate (G-8)".
+VARIANT_CUT = re.compile(r"\b(extended|alt|alternate|fillerver)\b", re.I)
+
+
+def to_runtime_minutes(length):
+    """'20:28' -> 20. Minutes may exceed 59 ('60:10'). None if unparseable."""
+    m = re.fullmatch(r"\s*(?:(\d{1,3}):)?(\d{1,3}):(\d{2})\s*", str(length or ""))
+    if not m:
+        return None
+    h, mi, s = (int(x or 0) for x in m.groups())
+    return ((h * 3600 + mi * 60 + s) + 30) // 60 or None
+
+
+def build_runtime_index():
+    """Map stream file name -> minutes, from the JSONs scr.py writes."""
+    out = {}
+    for root, _dirs, files in os.walk(os.path.join(BASE_DIR, "stream")):
+        for fn in files:
+            if not fn.endswith(".json"):
+                continue
+            try:
+                with open(os.path.join(root, fn), "r", encoding="utf-8") as f:
+                    streams = json.load(f).get("streams") or []
+            except (OSError, ValueError):
+                continue
+            # Variant cuts run longer; the standard one is what plays by default.
+            picks = [s for s in streams if not VARIANT_CUT.search(s.get("releaseName") or "")] or streams
+            mins = to_runtime_minutes(picks[0].get("length")) if picks else None
+            if mins:
+                out[fn[:-5]] = mins
+    return out
+
+
+def runtime_for(vid_id, runtime_index):
+    """Meta ids are sometimes 'pp_'-prefixed ('pp_fan_1') while the file is 'fan_1.json'."""
+    if not vid_id:
+        return None
+    return runtime_index.get(vid_id) or runtime_index.get(vid_id[3:] if vid_id.startswith("pp_") else vid_id)
+
+
+def add_runtimes_to_extra_meta(runtime_index):
+    """The other pace meta files are hand-maintained, so enrich them in place."""
+    for name in ("pp_muhnpace.json", "pp_onipace.json", "pp_KUMA_SHAVED.json"):
+        path = os.path.join(BASE_DIR, "meta", name)
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except (OSError, ValueError):
+            print(f"   [!] {name} missing or unreadable - skipping.")
+            continue
+        videos = data.get("meta", {}).get("videos") or []
+        count = 0
+        for video in videos:
+            mins = runtime_for(video.get("id", ""), runtime_index)
+            if mins:
+                video["runtime"] = str(mins)
+                count += 1
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
+        print(f"   - {name:22} {count}/{len(videos)}")
+
+
 def collect_release_dates(rows):
     """Return {clean_label: iso_date} for every dated row in an arc tab.
 
@@ -641,13 +703,26 @@ def main():
     normal_videos.sort(key=lambda x: (x.get("season", 0), x.get("episode", 0)))
     meta["videos"] = normal_videos
 
+    print("5.5. Adding runtimes from stream/...")
+    runtime_index = build_runtime_index()
+    runtime_count = 0
+    for video in normal_videos:
+        mins = runtime_for(video.get("id", ""), runtime_index)
+        if mins:
+            video["runtime"] = str(mins)
+            runtime_count += 1
+
     print("6. Saving fully assembled JSON...")
     os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
     with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
+    print("7. Adding runtimes to the other pace meta files...")
+    add_runtimes_to_extra_meta(runtime_index)
+
     print(f"\nDone! Saved to {OUTPUT_JSON}.")
     print(f"Descriptions matched and injected: {desc_count}")
+    print(f"Runtimes added from stream/: {runtime_count}")
     print(f"Specials safely reordered/injected: {len(special_videos_extracted)}")
 
 if __name__ == "__main__":
