@@ -7,6 +7,7 @@ import json
 import csv
 import urllib.request
 import os
+import sys
 from io import StringIO
 
 # --- Configuration ---
@@ -298,7 +299,10 @@ def parse_arc_sheet(rows, prefix, season):
 def build_base_data_from_spreadsheet(arc_map):
     """Replaces the fedew04 JSON: builds meta/videos straight from the official spreadsheet."""
     local_path = os.path.join(BASE_DIR, "one_pace.xlsx")
-    if not download_excel_file(EPISODE_XLSX_URL, local_path):
+    # A hint, not a promise: without the file we still download it.
+    if "--reuse-spreadsheet" in sys.argv and os.path.exists(local_path):
+        print(f"Reusing {local_path} from this run.\n")
+    elif not download_excel_file(EPISODE_XLSX_URL, local_path):
         raise RuntimeError("Could not download the One Pace episode spreadsheet.")
 
     wb = openpyxl.load_workbook(local_path, read_only=True, data_only=True)
