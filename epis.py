@@ -347,7 +347,6 @@ def build_base_data_from_spreadsheet(arc_map):
             "background":"",
             "description":"",
             "status": "Continuing",
-            "director": ["Toei Animation"],
             "videos": all_videos,
         }
     }, release_by_label
@@ -511,15 +510,34 @@ def main():
         "year": "1999-",
         "imdbRating": "9.0",
         "country": "Japan",
+        "language": "Japanese",
         "ageRating": "TV-14",
+        "awards": "7 wins & 21 nominations total",
         "released": "1999-10-20T00:00:00.000Z",
         "genres": ["Animation", "Action", "Adventure"],
-        "cast": ["Mayumi Tanaka", "Akemi Okamura", "Kazuya Nakai"],
+        "writer": ["Eiichirô Oda"],
+        "cast": [
+            "Mayumi Tanaka", "Kazuya Nakai", "Akemi Okamura", "Kappei Yamaguchi",
+            "Hiroaki Hirata", "Ikue Otani", "Yuriko Yamaguchi", "Kazuki Yao",
+            "Cho", "Katsuhisa Hōki"
+        ],
+        "trailers": [{"source": "1KMcoJBMWE4", "type": "Trailer", "name": "One Piece Trailer"}],
+        "trailerStreams": [{"title": "One Piece Trailer", "ytId": "1KMcoJBMWE4"}],
         "app_extras": {
             "cast": [
                 {"name": "Mayumi Tanaka", "character": "Monkey D. Luffy", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"},
+                {"name": "Kazuya Nakai", "character": "Roronoa Zoro", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"},
                 {"name": "Akemi Okamura", "character": "Nami", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"},
-                {"name": "Kazuya Nakai", "character": "Roronoa Zoro", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"}
+                {"name": "Kappei Yamaguchi", "character": "Usopp", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"},
+                {"name": "Hiroaki Hirata", "character": "Sanji", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"},
+                {"name": "Ikue Otani", "character": "Tony Tony Chopper", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"},
+                {"name": "Yuriko Yamaguchi", "character": "Nico Robin", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"},
+                {"name": "Kazuki Yao", "character": "Franky", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/kjETB1FaDaGozGjdq4Hu1UjrQDf.jpg"},
+                {"name": "Cho", "character": "Brook", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/70OZtKOHEGvbuMQAbQ01cGxrUDO.jpg"},
+                {"name": "Katsuhisa Hōki", "character": "Jinbe", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/stuUwLrSOmQhOmNpO4kCrlu3ALF.jpg"}
+            ],
+            "writers": [
+                {"name": "Eiichirô Oda", "character": "Original Manga", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/4YkEwEiz0E7EKYZzW8Fy4EGTITO.jpg"}
             ]
         }
     })
@@ -529,9 +547,17 @@ def main():
         {"name": "Animation", "category": "Genres", "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"},
         {"name": "Action", "category": "Genres", "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"},
         {"name": "Adventure", "category": "Genres", "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"},
+        {"name": "Eiichirô Oda", "category": "Writers", "url": "stremio:///search?search=Eiichir%C3%B4%20Oda"},
         {"name": "Mayumi Tanaka", "category": "Cast", "url": "stremio:///search?search=Mayumi%20Tanaka"},
+        {"name": "Kazuya Nakai", "category": "Cast", "url": "stremio:///search?search=Kazuya%20Nakai"},
         {"name": "Akemi Okamura", "category": "Cast", "url": "stremio:///search?search=Akemi%20Okamura"},
-        {"name": "Kazuya Nakai", "category": "Cast", "url": "stremio:///search?search=Kazuya%20Nakai"}
+        {"name": "Kappei Yamaguchi", "category": "Cast", "url": "stremio:///search?search=Kappei%20Yamaguchi"},
+        {"name": "Hiroaki Hirata", "category": "Cast", "url": "stremio:///search?search=Hiroaki%20Hirata"},
+        {"name": "Ikue Otani", "category": "Cast", "url": "stremio:///search?search=Ikue%20Otani"},
+        {"name": "Yuriko Yamaguchi", "category": "Cast", "url": "stremio:///search?search=Yuriko%20Yamaguchi"},
+        {"name": "Kazuki Yao", "category": "Cast", "url": "stremio:///search?search=Kazuki%20Yao"},
+        {"name": "Cho", "category": "Cast", "url": "stremio:///search?search=Cho"},
+        {"name": "Katsuhisa Hōki", "category": "Cast", "url": "stremio:///search?search=Katsuhisa%20H%C5%8Dki"}
     ]
 
     meta["seasons"] = [
