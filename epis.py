@@ -510,7 +510,7 @@ def main():
         "year": "1999-",
         "imdbRating": "9.0",
         "country": "Japan",
-        "language": "Japanese",
+        "language": "Japanese, English",
         "ageRating": "TV-14",
         "awards": "7 wins & 21 nominations total",
         "released": "1999-10-20T00:00:00.000Z",
