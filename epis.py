@@ -355,15 +355,23 @@ def clean_string(s):
     """Removes spaces, dashes, apostrophes, and periods for exact matching."""
     return str(s).lower().replace(" ", "").replace("-", "").replace("'", "").replace(".", "")
 
-def get_titles_from_properties(config_arc_map):
+def get_titles_from_properties(config_arc_map, max_retries=3):
     """Fetches the official titles from the GitHub properties file."""
     print("Fetching official titles from One Pace GitHub...")
-    try:
-        req = urllib.request.urlopen(PROPERTIES_URL, timeout=10)
-        lines = req.read().decode('utf-8').splitlines()
-    except Exception as e:
-        print(f"Failed to fetch properties: {e}")
-        return {}, {}
+    lines = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            req = urllib.request.urlopen(PROPERTIES_URL, timeout=15)
+            lines = req.read().decode('utf-8').splitlines()
+            break
+        except Exception as e:
+            print(f"  [!] Attempt {attempt}/{max_retries} failed: {e}")
+            if attempt < max_retries:
+                print("  [*] Retrying in 3 seconds...")
+                time.sleep(3)
+
+    if lines is None:
+        raise RuntimeError("Could not fetch title.properties.")
 
     id_to_title = {}
     key_to_title = {}
@@ -453,7 +461,12 @@ def main():
             descriptions_map[row_video_id] = desc
 
     print("3. Getting official titles from properties...")
-    titles_map, key_to_title = get_titles_from_properties(ARC_PREFIXES)
+    try:
+        titles_map, key_to_title = get_titles_from_properties(ARC_PREFIXES)
+    except Exception as e:
+        # Without these, every episode falls back to a spreadsheet label.
+        print(f"Failed to fetch properties: {e}")
+        sys.exit(1)
 
     print("4. Loading specials.json configuration...")
     custom_titles = {}
