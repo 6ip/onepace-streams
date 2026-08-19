@@ -21,7 +21,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/iDH1dtY8kXPTvuOrGY46YoreFym.jpg",
                 "released": "2026-04-07T14:15:00.000Z",
                 "firstAired": "2026-04-07T14:15:00.000Z",
-                "runtime": "26"
+                "runtime": "26",
+                "rating": "9.6"
             },
             {
                 "season": 1,
@@ -31,7 +32,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/3wBSkxU0bszsGtdMwPMnMV4V8cR.jpg",
                 "released": "2026-04-07T14:15:00.000Z",
                 "firstAired": "2026-04-07T14:15:00.000Z",
-                "runtime": "22"
+                "runtime": "22",
+                "rating": "9.6"
             },
             {
                 "season": 1,
@@ -41,7 +43,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/cI5FzwsqEWn1MiEOfxY4ySynAu3.jpg",
                 "released": "2025-10-20T14:15:00.000Z",
                 "firstAired": "2025-10-20T14:15:00.000Z",
-                "runtime": "22"
+                "runtime": "22",
+                "rating": "9.6"
             },
             {
                 "season": 1,
@@ -51,7 +54,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/oILW8VJ7aTgMdfb3D4kjMcfVCx.jpg",
                 "released": "2025-10-20T14:15:00.000Z",
                 "firstAired": "2025-10-20T14:15:00.000Z",
-                "runtime": "23"
+                "runtime": "23",
+                "rating": "9.1"
             },
             {
                 "season": 1,
@@ -61,7 +65,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/gxy3COlCp0YRN8QM0mIlV1dAoUI.jpg",
                 "released": "2025-10-20T14:15:00.000Z",
                 "firstAired": "2025-10-20T14:15:00.000Z",
-                "runtime": "23"
+                "runtime": "23",
+                "rating": "9.4"
             },
             {
                 "season": 1,
@@ -71,7 +76,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/aAG6wkxYq1Evijs6NxAZ7LUMLRb.jpg",
                 "released": "2025-10-20T14:15:00.000Z",
                 "firstAired": "2025-10-20T14:15:00.000Z",
-                "runtime": "23"
+                "runtime": "23",
+                "rating": "9.2"
             },
             {
                 "season": 1,
@@ -81,7 +87,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/9gMX88GU7ohYmYrTkXJB8tfZuQc.jpg",
                 "released": "2025-12-01T14:15:00.000Z",
                 "firstAired": "2025-12-01T14:15:00.000Z",
-                "runtime": "23"
+                "runtime": "23",
+                "rating": "9.2"
             },
             {
                 "season": 1,
@@ -91,7 +98,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/n0qgDDFqr3caUmahReG7MRcgFjb.jpg",
                 "released": "2025-12-01T14:15:00.000Z",
                 "firstAired": "2025-12-01T14:15:00.000Z",
-                "runtime": "23"
+                "runtime": "23",
+                "rating": "9.3"
             },
             {
                 "season": 1,
@@ -101,7 +109,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/2XWCnJoOcOgRsuphT6Kl6ZFrFib.jpg",
                 "released": "2025-12-29T14:15:00.000Z",
                 "firstAired": "2025-12-29T14:15:00.000Z",
-                "runtime": "23"
+                "runtime": "23",
+                "rating": "9.8"
             },
             {
                 "season": 1,
@@ -111,7 +120,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/90EzlaBbgdtzeKJXnS2K8VIApZw.jpg",
                 "released": "2026-06-17T14:15:00.000Z",
                 "firstAired": "2026-06-17T14:15:00.000Z",
-                "runtime": "26"
+                "runtime": "26",
+                "rating": "8.9"
             },
             {
                 "season": 1,
@@ -121,7 +131,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/kOIVpVaGzEdi1ztAdYO2ggKrV8N.jpg",
                 "released": "2025-12-29T14:15:00.000Z",
                 "firstAired": "2025-12-29T14:15:00.000Z",
-                "runtime": "23"
+                "runtime": "23",
+                "rating": "8.6"
             },
             {
                 "season": 1,
@@ -131,7 +142,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/8SazTeHul9T3oqT5hrx7JpBW5lK.jpg",
                 "released": "2025-09-15T14:15:00.000Z",
                 "firstAired": "2025-09-15T14:15:00.000Z",
-                "runtime": "25"
+                "runtime": "25",
+                "rating": "8.8"
             },
             {
                 "season": 1,
@@ -141,7 +153,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/1u0tCSau3FEWwmPyXbCd98ZhQi2.jpg",
                 "released": "2025-10-17T14:15:00.000Z",
                 "firstAired": "2025-10-17T14:15:00.000Z",
-                "runtime": "14"
+                "runtime": "14",
+                "rating": "8.9"
             },
             {
                 "season": 1,
@@ -151,7 +164,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/qA3J5TQQfqMazFrJuim5VU8CDmy.jpg",
                 "released": "2025-10-26T14:15:00.000Z",
                 "firstAired": "2025-10-26T14:15:00.000Z",
-                "runtime": "15"
+                "runtime": "15",
+                "rating": "9.7"
             },
             {
                 "season": 1,
@@ -161,7 +175,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/ppKBtFMcrOmVOfXfbBb1OeMIErs.jpg",
                 "released": "2025-12-13T14:15:00.000Z",
                 "firstAired": "2025-12-13T14:15:00.000Z",
-                "runtime": "30"
+                "runtime": "30",
+                "rating": "8.8"
             },
             {
                 "season": 1,
@@ -171,7 +186,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/3fwvdemOmivvGwJdQ9AEepsXR1U.jpg",
                 "released": "2025-12-16T14:15:00.000Z",
                 "firstAired": "2025-12-16T14:15:00.000Z",
-                "runtime": "16"
+                "runtime": "16",
+                "rating": "8.1"
             },
             {
                 "season": 1,
@@ -181,7 +197,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/6xjzfkWhIsDwLkUOsQ9Wirs48ET.jpg",
                 "released": "2025-12-27T14:15:00.000Z",
                 "firstAired": "2025-12-27T14:15:00.000Z",
-                "runtime": "20"
+                "runtime": "20",
+                "rating": "8.7"
             },
             {
                 "season": 1,
@@ -191,7 +208,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/oE2BzkOLiLD2Q8ikGLUmqFT3pe0.jpg",
                 "released": "2026-01-10T14:15:00.000Z",
                 "firstAired": "2026-01-10T14:15:00.000Z",
-                "runtime": "20"
+                "runtime": "20",
+                "rating": "9.3"
             },
             {
                 "season": 1,
@@ -201,7 +219,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/lMeYmiLl8iJ89CPtyGNCysqktNS.jpg",
                 "released": "2026-02-03T14:15:00.000Z",
                 "firstAired": "2026-02-03T14:15:00.000Z",
-                "runtime": "35"
+                "runtime": "35",
+                "rating": "9.1"
             },
             {
                 "season": 1,
@@ -211,7 +230,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/vJjzc6shujgrT0rwBzyW0Zf4Ktr.jpg",
                 "released": "2026-02-11T14:15:00.000Z",
                 "firstAired": "2026-02-11T14:15:00.000Z",
-                "runtime": "26"
+                "runtime": "26",
+                "rating": "9.7"
             },
             {
                 "season": 1,
@@ -221,7 +241,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/hM9QAcQgeqKQE92qrm5kFUk6xAG.jpg",
                 "released": "2026-02-17T14:15:00.000Z",
                 "firstAired": "2026-02-17T14:15:00.000Z",
-                "runtime": "35"
+                "runtime": "35",
+                "rating": "9.4"
             },
             {
                 "season": 1,
@@ -231,7 +252,8 @@
                 "thumbnail": "https://image.tmdb.org/t/p/w780/xosrmqNwXU6gJhz5LmIMCFrZkGm.jpg",
                 "released": "2026-02-19T14:15:00.000Z",
                 "firstAired": "2026-02-19T14:15:00.000Z",
-                "runtime": "22"
+                "runtime": "22",
+                "rating": "9.4"
             }
         ],
         "releaseInfo": "1999-",

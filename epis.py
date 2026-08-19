@@ -154,7 +154,7 @@ def runtime_for(vid_id, runtime_index):
     return runtime_index.get(vid_id) or runtime_index.get(vid_id[3:] if vid_id.startswith("pp_") else vid_id)
 
 
-def add_runtimes_to_extra_meta(runtime_index):
+def enrich_extra_meta(runtime_index, ratings_map):
     """The other pace meta files are hand-maintained, so enrich them in place."""
     for name in ("pp_muhnpace.json", "pp_onipace.json", "pp_KUMA_SHAVED.json"):
         path = os.path.join(BASE_DIR, "meta", name)
@@ -165,15 +165,19 @@ def add_runtimes_to_extra_meta(runtime_index):
             print(f"   [!] {name} missing or unreadable - skipping.")
             continue
         videos = data.get("meta", {}).get("videos") or []
-        count = 0
+        runtimes = ratings = 0
         for video in videos:
-            mins = runtime_for(video.get("id", ""), runtime_index)
+            vid_id = video.get("id", "")
+            mins = runtime_for(vid_id, runtime_index)
             if mins:
                 video["runtime"] = str(mins)
-                count += 1
+                runtimes += 1
+            if ratings_map.get(vid_id):
+                video["rating"] = ratings_map[vid_id]
+                ratings += 1
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"   - {name:22} {count}/{len(videos)}")
+        print(f"   - {name:22} {runtimes}/{len(videos)} runtimes, {ratings}/{len(videos)} ratings")
 
 
 def collect_release_dates(rows):
@@ -509,6 +513,15 @@ def main():
         print("thumbnails.json not found. Proceeding without custom thumbnails.")
         thumbnails_map = {}
         
+    print("4.6. Loading ratings.json configuration...")
+    try:
+        RATINGS_PATH = os.path.join(BASE_DIR, 'meta', 'ratings.json')
+        with open(RATINGS_PATH, 'r', encoding='utf-8') as f:
+            ratings_map = json.load(f)
+    except FileNotFoundError:
+        print("ratings.json not found. Proceeding without ratings.")
+        ratings_map = {}
+
     print("5. Applying transformations, titles, and injecting specials...")
     meta = data.get("meta", {})
     
@@ -746,26 +759,33 @@ def main():
     normal_videos.sort(key=lambda x: (x.get("season", 0), x.get("episode", 0)))
     meta["videos"] = normal_videos
 
-    print("5.5. Adding runtimes from stream/...")
+    print("5.5. Adding runtimes from stream/ and ratings from ratings.json...")
     runtime_index = build_runtime_index()
     runtime_count = 0
+    rating_count = 0
     for video in normal_videos:
-        mins = runtime_for(video.get("id", ""), runtime_index)
+        vid_id = video.get("id", "")
+        mins = runtime_for(vid_id, runtime_index)
         if mins:
             video["runtime"] = str(mins)
             runtime_count += 1
+        # ratings.json is keyed by the exact meta id, so no prefix juggling here.
+        if ratings_map.get(vid_id):
+            video["rating"] = ratings_map[vid_id]
+            rating_count += 1
 
     print("6. Saving fully assembled JSON...")
     os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
     with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
-    print("7. Adding runtimes to the other pace meta files...")
-    add_runtimes_to_extra_meta(runtime_index)
+    print("7. Adding runtimes and ratings to the other pace meta files...")
+    enrich_extra_meta(runtime_index, ratings_map)
 
     print(f"\nDone! Saved to {OUTPUT_JSON}.")
     print(f"Descriptions matched and injected: {desc_count}")
     print(f"Runtimes added from stream/: {runtime_count}")
+    print(f"Ratings added from ratings.json: {rating_count}")
     print(f"Specials safely reordered/injected: {len(special_videos_extracted)}")
 
 if __name__ == "__main__":
