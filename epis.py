@@ -154,6 +154,19 @@ def runtime_for(vid_id, runtime_index):
     return runtime_index.get(vid_id) or runtime_index.get(vid_id[3:] if vid_id.startswith("pp_") else vid_id)
 
 
+def stamp_season_posters(videos, seasons):
+    """Nuvio reads seasonPoster off the first episode in a season that has one,
+    so one per season is enough and keeps the file small."""
+    posters = {s.get("season"): s.get("poster") for s in (seasons or []) if s.get("poster")}
+    done = set()
+    for video in videos:
+        season = video.get("season")
+        if season in posters and season not in done:
+            video["seasonPoster"] = posters[season]
+            done.add(season)
+    return len(done)
+
+
 def enrich_extra_meta(runtime_index, ratings_map):
     """The other pace meta files are hand-maintained, so enrich them in place."""
     for name in ("pp_muhnpace.json", "pp_onipace.json", "pp_KUMA_SHAVED.json"):
@@ -175,9 +188,11 @@ def enrich_extra_meta(runtime_index, ratings_map):
             if ratings_map.get(vid_id):
                 video["rating"] = ratings_map[vid_id]
                 ratings += 1
+        posters = stamp_season_posters(videos, data.get("meta", {}).get("seasons"))
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"   - {name:22} {runtimes}/{len(videos)} runtimes, {ratings}/{len(videos)} ratings")
+        print(f"   - {name:22} {runtimes}/{len(videos)} runtimes, "
+              f"{ratings}/{len(videos)} ratings, {posters} season posters")
 
 
 def collect_release_dates(rows):
@@ -774,6 +789,8 @@ def main():
             video["rating"] = ratings_map[vid_id]
             rating_count += 1
 
+    poster_count = stamp_season_posters(normal_videos, meta.get("seasons"))
+
     print("6. Saving fully assembled JSON...")
     os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
     with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
@@ -786,6 +803,7 @@ def main():
     print(f"Descriptions matched and injected: {desc_count}")
     print(f"Runtimes added from stream/: {runtime_count}")
     print(f"Ratings added from ratings.json: {rating_count}")
+    print(f"Season posters stamped: {poster_count}")
     print(f"Specials safely reordered/injected: {len(special_videos_extracted)}")
 
 if __name__ == "__main__":

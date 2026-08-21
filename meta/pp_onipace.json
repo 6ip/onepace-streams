@@ -22,7 +22,8 @@
                 "released": "2023-07-29T14:15:00.000Z",
                 "firstAired": "2023-07-29T14:15:00.000Z",
                 "runtime": "35",
-                "rating": "9.0"
+                "rating": "9.0",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg"
             },
             {
                 "season": 1,
@@ -550,7 +551,8 @@
                 "released": "2024-04-15T14:15:00.000Z",
                 "firstAired": "2024-04-15T14:15:00.000Z",
                 "runtime": "19",
-                "rating": "8.4"
+                "rating": "8.4",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg"
             },
             {
                 "season": 2,

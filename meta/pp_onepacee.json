@@ -20,7 +20,8 @@
                 "firstAired": "2026-06-28T14:15:00.000Z",
                 "episode": 1,
                 "runtime": "24",
-                "rating": "9.2"
+                "rating": "9.2",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s00.jpg"
             },
             {
                 "id": "pp_fan_2",
@@ -98,7 +99,8 @@
                 "description": "Influenced by the straw-hat-wearing pirate Red-Haired Shanks, an enthusiastic young boy named Monkey D. Luffy dreams of one day becoming King of the Pirates.",
                 "overview": "Influenced by the straw-hat-wearing pirate Red-Haired Shanks, an enthusiastic young boy named Monkey D. Luffy dreams of one day becoming King of the Pirates.",
                 "runtime": "18",
-                "rating": "9.7"
+                "rating": "9.7",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s01.jpg"
             },
             {
                 "season": 1,
@@ -150,7 +152,8 @@
                 "description": "Nami, a street-smart girl who loves money and tangerines, makes Luffy's acquaintance. To save herself and steal a map to the Grand Line, she tricks Luffy into allowing her to turn him over to the infamous pirate Buggy the Clown.",
                 "overview": "Nami, a street-smart girl who loves money and tangerines, makes Luffy's acquaintance. To save herself and steal a map to the Grand Line, she tricks Luffy into allowing her to turn him over to the infamous pirate Buggy the Clown.",
                 "runtime": "29",
-                "rating": "7.8"
+                "rating": "7.8",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s02.jpg"
             },
             {
                 "season": 2,
@@ -189,7 +192,8 @@
                 "description": "With Nami joining as Luffy's navigator (though not as an actual member of the crew), they arrive at Syrup Village in search of a proper ship. There they meet a man claiming to be a pirate captain who also seems to have ties to Red-Haired Shanks.",
                 "overview": "With Nami joining as Luffy's navigator (though not as an actual member of the crew), they arrive at Syrup Village in search of a proper ship. There they meet a man claiming to be a pirate captain who also seems to have ties to Red-Haired Shanks.",
                 "runtime": "30",
-                "rating": "7.2"
+                "rating": "7.2",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s03.jpg"
             },
             {
                 "season": 3,
@@ -280,7 +284,8 @@
                 "description": "With Usopp now on the crew and their new ship, the Going Merry, under their command, the Straw Hats head to an island said to hold a fabled treasure. There they encounter a strange man stuck in a box who has been looking for the same treasure.",
                 "overview": "With Usopp now on the crew and their new ship, the Going Merry, under their command, the Straw Hats head to an island said to hold a fabled treasure. There they encounter a strange man stuck in a box who has been looking for the same treasure.",
                 "runtime": "22",
-                "rating": "6.7"
+                "rating": "6.7",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s04.jpg"
             },
             {
                 "season": 5,
@@ -293,7 +298,8 @@
                 "description": "The Straw Hats happen across Zoro's former partners, Yosaku and Johnny, whose dietary dilemma reminds the pirates they still need a cook on their ship. Thus, they set sail for the sea restaurant Baratie, hoping to snag a chef.",
                 "overview": "The Straw Hats happen across Zoro's former partners, Yosaku and Johnny, whose dietary dilemma reminds the pirates they still need a cook on their ship. Thus, they set sail for the sea restaurant Baratie, hoping to snag a chef.",
                 "runtime": "30",
-                "rating": "8.0"
+                "rating": "8.0",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s05.jpg"
             },
             {
                 "season": 5,
@@ -397,7 +403,8 @@
                 "description": "As they depart the Baratie in pursuit of Nami and the Going Merry, Yosaku warns Luffy and Sanji about the vicious Arlong and his fishman underlings. Meanwhile, Usopp, Johnny, and Zoro make landfall where Nami docked the Merry.",
                 "overview": "As they depart the Baratie in pursuit of Nami and the Going Merry, Yosaku warns Luffy and Sanji about the vicious Arlong and his fishman underlings. Meanwhile, Usopp, Johnny, and Zoro make landfall where Nami docked the Merry.",
                 "runtime": "31",
-                "rating": "7.6"
+                "rating": "7.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s06.jpg"
             },
             {
                 "season": 6,
@@ -540,7 +547,8 @@
                 "description": "Touting a fresh bounty issued by Marine HQ, Luffy and co. make landfall at Loguetown, the place where Gold Roger was both born and executed. Being the last stop before the Grand Line, the crew stocks up on supplies and sightsees.",
                 "overview": "Touting a fresh bounty issued by Marine HQ, Luffy and co. make landfall at Loguetown, the place where Gold Roger was both born and executed. Being the last stop before the Grand Line, the crew stocks up on supplies and sightsees.",
                 "runtime": "28",
-                "rating": "7.9"
+                "rating": "7.9",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s07.jpg"
             },
             {
                 "season": 7,
@@ -579,7 +587,8 @@
                 "description": "Following a near disaster in the Calm Belt, the Straw Hats take a wild ride up and down a mountain… and are promptly swallowed by a giant whale!",
                 "overview": "Following a near disaster in the Calm Belt, the Straw Hats take a wild ride up and down a mountain… and are promptly swallowed by a giant whale!",
                 "runtime": "21",
-                "rating": "7.2"
+                "rating": "7.2",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s08.jpg"
             },
             {
                 "season": 8,
@@ -605,7 +614,8 @@
                 "description": "As the Straw Hat Pirates travel from Reverse Mountain to Whisky Peak, Nami adjusts to having to watch the log pose constantly. When they arrive at their destination, the townspeople greet them warmly, despite the sight of their Jolly Roger.",
                 "overview": "As the Straw Hat Pirates travel from Reverse Mountain to Whisky Peak, Nami adjusts to having to watch the log pose constantly. When they arrive at their destination, the townspeople greet them warmly, despite the sight of their Jolly Roger.",
                 "runtime": "31",
-                "rating": "7.9"
+                "rating": "7.9",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s09.jpg"
             },
             {
                 "season": 9,
@@ -644,7 +654,8 @@
                 "description": "The Straw Hats arrive at their destination and discover that the island is home to enormous creatures... and people. Meanwhile, the Baroque Works agents Mr. 3 and his partner Miss Golden Week receive new orders.",
                 "overview": "The Straw Hats arrive at their destination and discover that the island is home to enormous creatures... and people. Meanwhile, the Baroque Works agents Mr. 3 and his partner Miss Golden Week receive new orders.",
                 "runtime": "30",
-                "rating": "7.2"
+                "rating": "7.2",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s10.jpg"
             },
             {
                 "season": 10,
@@ -709,7 +720,8 @@
                 "description": "En route to Arabasta, Nami falls ill. Without a doctor aboard the Going Merry, the Straw Hats must decide whether to stay the course or find more immediate help. As their ship crosses into a frigid area, a figure is seen standing on the water's surface.",
                 "overview": "En route to Arabasta, Nami falls ill. Without a doctor aboard the Going Merry, the Straw Hats must decide whether to stay the course or find more immediate help. As their ship crosses into a frigid area, a figure is seen standing on the water's surface.",
                 "runtime": "30",
-                "rating": "7.4"
+                "rating": "7.4",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s11.jpg"
             },
             {
                 "season": 11,
@@ -813,7 +825,8 @@
                 "description": "In Arabasta, the hero Crocodile appears and puts a decisive end to a pillaging band of pirates. Meanwhile, Mr. 2 Bon Kurei pays a visit to the newly arrived Straw Hats. When he puts his abilities on display, Vivi notices something shocking.",
                 "overview": "In Arabasta, the hero Crocodile appears and puts a decisive end to a pillaging band of pirates. Meanwhile, Mr. 2 Bon Kurei pays a visit to the newly arrived Straw Hats. When he puts his abilities on display, Vivi notices something shocking.",
                 "runtime": "20",
-                "rating": "7.6"
+                "rating": "7.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s12.jpg"
             },
             {
                 "season": 12,
@@ -1086,7 +1099,8 @@
                 "description": "When a galleon-size ship falls from the sky and Nami's log pose begins to point straight up, the Straw Hats sense a new adventure on the horizon. Right after a mysterious map is pulled from the wreckage, a group of salvagers come to claim the fallen ship.",
                 "overview": "When a galleon-size ship falls from the sky and Nami's log pose begins to point straight up, the Straw Hats sense a new adventure on the horizon. Right after a mysterious map is pulled from the wreckage, a group of salvagers come to claim the fallen ship.",
                 "runtime": "21",
-                "rating": "7.3"
+                "rating": "7.3",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s13.jpg"
             },
             {
                 "season": 13,
@@ -1190,7 +1204,8 @@
                 "description": "The Straw Hats, having used the Knock-Up Stream to fly into the sky, arrive on a white ocean above the clouds. While they marvel at the otherworldly sights, they are attacked by a powerful masked figure, and a mysterious flying knight comes to their aid.",
                 "overview": "The Straw Hats, having used the Knock-Up Stream to fly into the sky, arrive on a white ocean above the clouds. While they marvel at the otherworldly sights, they are attacked by a powerful masked figure, and a mysterious flying knight comes to their aid.",
                 "runtime": "20",
-                "rating": "7.7"
+                "rating": "7.7",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s14.jpg"
             },
             {
                 "season": 14,
@@ -1515,7 +1530,8 @@
                 "description": "The Straw Hats are forced to get a move-on after landing back in the ocean. The Five Elders discuss the behavior of a certain Marine Admiral.",
                 "overview": "The Straw Hats are forced to get a move-on after landing back in the ocean. The Five Elders discuss the behavior of a certain Marine Admiral.",
                 "runtime": "2",
-                "rating": "6.8"
+                "rating": "6.8",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s15.jpg"
             },
             {
                 "season": 15,
@@ -1606,7 +1622,8 @@
                 "description": "The keepers of Shift Station, Kokoro and her granddaughter Chimney, point the Straw Hats in the direction of the metropolitan Water Seven. The nearby city is regarded as the best place to find a decent shipwright for the Going Merry.",
                 "overview": "The keepers of Shift Station, Kokoro and her granddaughter Chimney, point the Straw Hats in the direction of the metropolitan Water Seven. The nearby city is regarded as the best place to find a decent shipwright for the Going Merry.",
                 "runtime": "29",
-                "rating": "7.8"
+                "rating": "7.8",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s16.jpg"
             },
             {
                 "season": 16,
@@ -1866,7 +1883,8 @@
                 "description": "As the Straw Hats and their allies approach Enies Lobby on Rocketman, they hatch a plan to save Robin before she passes through the Gates of Justice. Meanwhile, Spandam holds a meeting with CP9 where they await Lucci's return in the Tower of Justice.",
                 "overview": "As the Straw Hats and their allies approach Enies Lobby on Rocketman, they hatch a plan to save Robin before she passes through the Gates of Justice. Meanwhile, Spandam holds a meeting with CP9 where they await Lucci's return in the Tower of Justice.",
                 "runtime": "26",
-                "rating": "8.1"
+                "rating": "8.1",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s17.jpg"
             },
             {
                 "season": 17,
@@ -2191,7 +2209,8 @@
                 "description": "Two days later in Water Seven, Franky hears that the item for he purchased with the Straw Hats' stolen money has arrived. While the pirates recover from the events at Enies Lobby, a Marine vice admiral arrives to pay Luffy an unexpected visit.",
                 "overview": "Two days later in Water Seven, Franky hears that the item for he purchased with the Straw Hats' stolen money has arrived. While the pirates recover from the events at Enies Lobby, a Marine vice admiral arrives to pay Luffy an unexpected visit.",
                 "runtime": "27",
-                "rating": "9.0"
+                "rating": "9.0",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s18.jpg"
             },
             {
                 "season": 18,
@@ -2256,7 +2275,8 @@
                 "description": "The Thousand Sunny gets flung into the foggy Florian Triangle and the Straw Hats encounter a ruined ship. Speculating as to whether there are ghosts aboard, it turns out the pirates are not far from the truth.",
                 "overview": "The Thousand Sunny gets flung into the foggy Florian Triangle and the Straw Hats encounter a ruined ship. Speculating as to whether there are ghosts aboard, it turns out the pirates are not far from the truth.",
                 "runtime": "29",
-                "rating": "7.6"
+                "rating": "7.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s19.jpg"
             },
             {
                 "season": 19,
@@ -2542,7 +2562,8 @@
                 "description": "As the Straw Hats journey to Fishman Island, they reach the Red Line, the halfway point along the Grand Line. When a sea king appears, Luffy easily dispatches it, but it spits up a mermaid and a talking starfish onto the deck of the Sunny.",
                 "overview": "As the Straw Hats journey to Fishman Island, they reach the Red Line, the halfway point along the Grand Line. When a sea king appears, Luffy easily dispatches it, but it spits up a mermaid and a talking starfish onto the deck of the Sunny.",
                 "runtime": "28",
-                "rating": "7.5"
+                "rating": "7.5",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s20.jpg"
             },
             {
                 "season": 20,
@@ -2685,7 +2706,8 @@
                 "description": "Luffy finds himself alone, stranded and starving on an unfamiliar island. After a run-in with some exotic mushrooms, he is approached by a team of female warriors who could be friend... or foe.",
                 "overview": "Luffy finds himself alone, stranded and starving on an unfamiliar island. After a run-in with some exotic mushrooms, he is approached by a team of female warriors who could be friend... or foe.",
                 "runtime": "26",
-                "rating": "7.6"
+                "rating": "7.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s21.jpg"
             },
             {
                 "season": 21,
@@ -2750,7 +2772,8 @@
                 "description": "To rescue his brother Ace, Luffy must infiltrate the well-guarded prison Impel Down. He eludes the watchful eyes of security for a time, and then, for better or worse, a certain red-nosed criminal appears.",
                 "overview": "To rescue his brother Ace, Luffy must infiltrate the well-guarded prison Impel Down. He eludes the watchful eyes of security for a time, and then, for better or worse, a certain red-nosed criminal appears.",
                 "runtime": "28",
-                "rating": "7.3"
+                "rating": "7.3",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s22.jpg"
             },
             {
                 "season": 22,
@@ -2893,7 +2916,8 @@
                 "description": "Fifty warships, 100,000 Marines, the Seven Warlords, and three admirals: Akainu, Aokiji, and Kizaru. The stage is set, and, as a battle with Whitebeard looms, Fleet Admiral Sengoku reveals a shocking truth about Ace.",
                 "overview": "Fifty warships, 100,000 Marines, the Seven Warlords, and three admirals: Akainu, Aokiji, and Kizaru. The stage is set, and, as a battle with Whitebeard looms, Fleet Admiral Sengoku reveals a shocking truth about Ace.",
                 "runtime": "31",
-                "rating": "8.6"
+                "rating": "8.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s23.jpg"
             },
             {
                 "season": 23,
@@ -3114,7 +3138,8 @@
                 "description": "The Summit War has thrown the entire world into chaos. Emboldened by Whitebeard's final words, pirates once again envision a wave they can ride into a new era. At Hancock’s order, Luffy is taken to Amazon Lily to hide from the Marines while he recovers.",
                 "overview": "The Summit War has thrown the entire world into chaos. Emboldened by Whitebeard's final words, pirates once again envision a wave they can ride into a new era. At Hancock’s order, Luffy is taken to Amazon Lily to hide from the Marines while he recovers.",
                 "runtime": "30",
-                "rating": "8.6"
+                "rating": "8.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s24.jpg"
             },
             {
                 "season": 24,
@@ -3218,7 +3243,8 @@
                 "description": "Two years after the Summit War, the Straw Hat crew finally returns to Sabaody. However, the archipelago has changed, and with dangerous pirates lurking around in droves, their departure to the New World may not go as smoothly as hoped.",
                 "overview": "Two years after the Summit War, the Straw Hat crew finally returns to Sabaody. However, the archipelago has changed, and with dangerous pirates lurking around in droves, their departure to the New World may not go as smoothly as hoped.",
                 "runtime": "34",
-                "rating": "8.4"
+                "rating": "8.4",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s25.jpg"
             },
             {
                 "season": 25,
@@ -3257,7 +3283,8 @@
                 "description": "Encased in a protective bubble, the Sunny departs for Fishman Island far under the sea. As the Straw Hats marvel at the sights, Franky tells the crew about their greatest ally in their time apart. But suddenly, a mysterious shadow closes in on the ship.",
                 "overview": "Encased in a protective bubble, the Sunny departs for Fishman Island far under the sea. As the Straw Hats marvel at the sights, Franky tells the crew about their greatest ally in their time apart. But suddenly, a mysterious shadow closes in on the ship.",
                 "runtime": "26",
-                "rating": "7.7"
+                "rating": "7.7",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s26.jpg"
             },
             {
                 "season": 26,
@@ -3569,7 +3596,8 @@
                 "description": "Fresh off the adventure at Fishman Island, the Sunny is caught in a massive whirlpool and dragged off course. A desperate cry for help leads the Straw Hats to Punk Hazard, an island engulfed in flames and inhabited by a mythic beast.",
                 "overview": "Fresh off the adventure at Fishman Island, the Sunny is caught in a massive whirlpool and dragged off course. A desperate cry for help leads the Straw Hats to Punk Hazard, an island engulfed in flames and inhabited by a mythic beast.",
                 "runtime": "28",
-                "rating": "7.6"
+                "rating": "7.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s27.jpg"
             },
             {
                 "season": 27,
@@ -3855,7 +3883,8 @@
                 "description": "Dressrosa! The Straw Hats split up and set about their business on this passionate, enchanting island! But here, in the heart of enemy territory, danger lurks around every corner. Luffy’s group encounters an intriguing blind man whose luck has run dry.",
                 "overview": "Dressrosa! The Straw Hats split up and set about their business on this passionate, enchanting island! But here, in the heart of enemy territory, danger lurks around every corner. Luffy’s group encounters an intriguing blind man whose luck has run dry.",
                 "runtime": "30",
-                "rating": "7.6"
+                "rating": "7.6",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s28.jpg"
             },
             {
                 "season": 28,
@@ -4479,7 +4508,8 @@
                 "description": "The mysterious island of Zou approaches in the distance, obscured by fog. When the haze clears, what greets the Straw Hats is beyond anyone’s expectations! Luffy and co. find the Sunny nearby, but the rest of the crew has already disembarked.",
                 "overview": "The mysterious island of Zou approaches in the distance, obscured by fog. When the haze clears, what greets the Straw Hats is beyond anyone’s expectations! Luffy and co. find the Sunny nearby, but the rest of the crew has already disembarked.",
                 "runtime": "38",
-                "rating": "7.5"
+                "rating": "7.5",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s29.jpg"
             },
             {
                 "season": 29,
@@ -4609,7 +4639,8 @@
                 "description": "Luffy's team—plus a stowaway—sets out from Zou on their way to win back Sanji. Meanwhile, the leading families and leaders of the world make their way to the Holy Land, Mary Geoise, for a pivotal round table conference.",
                 "overview": "Luffy's team—plus a stowaway—sets out from Zou on their way to win back Sanji. Meanwhile, the leading families and leaders of the world make their way to the Holy Land, Mary Geoise, for a pivotal round table conference.",
                 "runtime": "31",
-                "rating": "7.4"
+                "rating": "7.4",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s30.jpg"
             },
             {
                 "season": 30,
@@ -5116,7 +5147,8 @@
                 "description": "Luffy’s reputation grows as all eyes look toward the Straw Hats’ next move. Meanwhile, the royals of the world make their way to the Reverie, but their absence welcomes a raid by a vicious band of pirates on the Kingdom of Lulusia.",
                 "overview": "Luffy’s reputation grows as all eyes look toward the Straw Hats’ next move. Meanwhile, the royals of the world make their way to the Reverie, but their absence welcomes a raid by a vicious band of pirates on the Kingdom of Lulusia.",
                 "runtime": "34",
-                "rating": "8.0"
+                "rating": "8.0",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s31.jpg"
             },
             {
                 "season": 31,
@@ -5155,7 +5187,8 @@
                 "description": "Luffy and the others see familiar faces in a newspaper article about the Reverie right as they approach Wano. However, this dangerous and foreboding land is as inaccessible as it is mysterious, with the sea itself acting as a barrier!",
                 "overview": "Luffy and the others see familiar faces in a newspaper article about the Reverie right as they approach Wano. However, this dangerous and foreboding land is as inaccessible as it is mysterious, with the sea itself acting as a barrier!",
                 "runtime": "23",
-                "rating": "7.9"
+                "rating": "7.9",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg"
             },
             {
                 "season": 32,
@@ -5955,7 +5988,8 @@
                 "description": "The Straw Hats rave over new bounties, and Crocodile and Mihawk pay Buggy a visit. Elsewhere, Dragon and his revolutionaries are shocked when they read about Sabo in the news, and an old comrade returns, a shell of his former self.",
                 "overview": "The Straw Hats rave over new bounties, and Crocodile and Mihawk pay Buggy a visit. Elsewhere, Dragon and his revolutionaries are shocked when they read about Sabo in the news, and an old comrade returns, a shell of his former self.",
                 "runtime": "25",
-                "rating": "9.2"
+                "rating": "9.2",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg"
             },
             {
                 "season": 33,
