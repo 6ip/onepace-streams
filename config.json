@@ -1,7 +1,7 @@
 {
   "TOTAL_SEASONS": 33,
   "ARC_MAP": {
-	"One Piece Fan Letter": "fan", "onepiecefanletter": "fan", "fanletter": "fan",
+	"One Piece Fan Letter": "special_fan", "onepiecefanletter": "special_fan", "fanletter": "special_fan",
     "Romance Dawn": "RO", "romancedawn": "RO",
     "Orange Town": "OR", "orangetown": "OR",
     "Syrup Village": "SY", "syrupvillage": "SY",

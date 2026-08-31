@@ -512,7 +512,9 @@ def main():
         specials_by_id = {}
         for spec_key, spec_val in specials_config.items():
             vid_id = spec_val["id"]
-            spec_val["original_key"] = spec_key  # Keep track of the key (e.g. specials_04)
+            # The key is the link to upstream title.properties. "sheet_key" lets an
+            # entry be named freely here and still take its title from upstream.
+            spec_val["original_key"] = spec_val.get("sheet_key", spec_key)
             specials_by_id[vid_id] = spec_val
 
     except FileNotFoundError:
@@ -717,11 +719,12 @@ def main():
     for spec_vid in special_videos_extracted:
         vid_id = spec_vid["id"]
         target_season = specials_by_id[vid_id]["season"]
-        title_prefix = specials_by_id[vid_id]["title_start"]
+        # Optional: a special without one keeps its plain title.
+        title_prefix = specials_by_id[vid_id].get("title_start", "")
         custom_thumb = specials_by_id[vid_id].get("thum")
 
         original_title = spec_vid.get("title", "")
-        if not original_title.startswith(title_prefix.strip()):
+        if title_prefix and not original_title.startswith(title_prefix.strip()):
             spec_vid["title"] = f"{title_prefix}{original_title}"
 
         spec_vid["season"] = target_season
