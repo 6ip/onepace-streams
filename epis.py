@@ -423,6 +423,13 @@ def get_titles_from_properties(config_arc_map, max_retries=3):
 
     return id_to_title, key_to_title
 
+def forced_overview(spec_val):
+    """The custom_overview of a special that asked to keep it, else None."""
+    if not spec_val or not spec_val.get("force_overview"):
+        return None
+    return spec_val.get("custom_overview") or None
+
+
 def main():
     print("1. Building base episode list from the official One Pace spreadsheet...")
     try:
@@ -648,7 +655,12 @@ def main():
         # Inject Descriptions (Try ID map first, then Title map)
         clean_vid_title = video.get("title", "").replace('\\"', "'").replace('"', "'")
         
-        if vid_id in descriptions_map:
+        forced = forced_overview(specials_by_id.get(vid_id))
+        if forced:
+            video["description"] = forced
+            video["overview"] = forced
+            desc_count += 1
+        elif vid_id in descriptions_map:
             video["description"] = descriptions_map[vid_id]
             video["overview"] = descriptions_map[vid_id]
             desc_count += 1
@@ -676,8 +688,12 @@ def main():
         
         if spec_id not in found_spec_ids:
             spec_title = spec_val.get("custom_title", key_to_title.get(orig_key, "Special Episode"))
-            # Try ID, then Title fallback, then custom_overview from specials.json
-            desc = descriptions_map.get(spec_id) or title_to_desc.get(spec_title) or spec_val.get("custom_overview", "")
+            # Try ID, then Title fallback, then custom_overview from specials.json.
+            # "force_overview": true puts custom_overview first instead, for a special
+            # whose title collides with an unrelated row in the descriptions sheet.
+            desc = forced_overview(spec_val) or (
+                descriptions_map.get(spec_id) or title_to_desc.get(spec_title)
+                or spec_val.get("custom_overview", ""))
             if desc:
                 desc_count += 1
                 
