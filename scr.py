@@ -28,6 +28,7 @@ ALIASES = CONFIG.get("ALIASES", {})
 resolved_batches_cache = {}
 nyaa_html_cache = {}
 WEBSITE_HTML_CACHE = None
+WEBSITE_FETCH_TRIED = False
 
 def download_excel_file(url, filename, max_retries=3):
     print(f"Downloading latest spreadsheet to {filename}...")
@@ -316,21 +317,27 @@ def save_tracker(tracker_data):
         json.dump(tracker_data, f, indent=2, ensure_ascii=False)
 
 def resolve_from_website(arc_name, ep_num_raw, max_retries=2):   
-    global WEBSITE_HTML_CACHE
+    global WEBSITE_HTML_CACHE, WEBSITE_FETCH_TRIED
     url = "https://onepace.net/en/releases"
     search_name = ALIASES.get(arc_name, arc_name)
     clean_name = search_name.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
     
-    if not WEBSITE_HTML_CACHE:
+    # Fetch once per run. Without the flag a failure is retried for every episode,
+    # and the 1-3s backoff alone cost ~17 minutes of a CI run.
+    if not WEBSITE_HTML_CACHE and not WEBSITE_FETCH_TRIED:
+        WEBSITE_FETCH_TRIED = True
         for attempt in range(1, max_retries + 1):
             try:
                 response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
                 response.raise_for_status()
                 WEBSITE_HTML_CACHE = BeautifulSoup(response.text, 'html.parser')
                 break
-            except requests.exceptions.RequestException:
+            except requests.exceptions.RequestException as e:
+                print(f"  [!] onepace.net fetch failed (attempt {attempt}/{max_retries}): {e}")
                 if attempt < max_retries: time.sleep(random.uniform(1, 3))
-                
+        if not WEBSITE_HTML_CACHE:
+            print("  [!] No website data this run - fresh-release overrides are OFF.")
+
     if not WEBSITE_HTML_CACHE: return []
 
     episodes = WEBSITE_HTML_CACHE.find_all('li', id=True)
@@ -341,13 +348,16 @@ def resolve_from_website(arc_name, ep_num_raw, max_retries=2):
         if not title_tag: continue
         
         title_text = title_tag.get_text(separator=" ", strip=True).lower()
-        if clean_name not in title_text: continue
+        # A bare substring lets "enies lobby" match "post-enies lobby"; the
+        # boundary treats the hyphen as part of the name, so it cannot.
+        if not re.search(r'(?:^|[^a-z0-9-])' + re.escape(clean_name), title_text):
+            continue
         
         # Ignore archived episodes
         if "archived" in title_text: continue
         
         # Strict Episode Matching (Fixes the "5 days ago" bug)
-        match = re.search(rf'{re.escape(clean_name)}\s*(\d{{1,3}})(?:\s*-\s*(\d{{1,3}}))?', title_text)
+        match = re.search(rf'(?:^|[^a-z0-9-]){re.escape(clean_name)}\s*(\d{{1,3}})(?:\s*-\s*(\d{{1,3}}))?', title_text)
         if not match: continue
         
         ep_start = int(match.group(1))
