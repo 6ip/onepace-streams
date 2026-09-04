@@ -1,5 +1,9 @@
 {
   "TOTAL_SEASONS": 33,
+  "RELEASE_FEEDS": [
+    "https://nyaa.si/?page=rss&q=%5BOne+Pace%5D&c=0_0&f=0"
+  ],
+  "RELEASE_WINDOW_DAYS": 7,
   "ARC_MAP": {
 	"One Piece Fan Letter": "special_fan", "onepiecefanletter": "special_fan", "fanletter": "special_fan",
     "Romance Dawn": "RO", "romancedawn": "RO",

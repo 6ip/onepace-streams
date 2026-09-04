@@ -6,7 +6,7 @@ import random
 import requests
 import openpyxl
 import datetime
-from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
 import hashlib
 import bencodepy
 
@@ -24,11 +24,18 @@ except (FileNotFoundError, json.JSONDecodeError) as e:
 PREFIX_MAP = CONFIG["ARC_MAP"]
 ALIASES = CONFIG.get("ALIASES", {})
 
+# Release feeds, tried in order until one answers. onepace.net's own feed is
+# richer, but Cloudflare challenges GitHub's runners, so the tracker leads here.
+RELEASE_FEEDS = CONFIG.get("RELEASE_FEEDS", [
+    "https://nyaa.si/?page=rss&q=%5BOne+Pace%5D&c=0_0&f=0",
+])
+RELEASE_WINDOW_DAYS = CONFIG.get("RELEASE_WINDOW_DAYS", 7)
+
 # Global caches to prevent spamming Nyaa
 resolved_batches_cache = {}
 nyaa_html_cache = {}
-WEBSITE_HTML_CACHE = None
-WEBSITE_FETCH_TRIED = False
+FEED_ENTRIES = None
+FEED_FETCH_TRIED = False
 
 def download_excel_file(url, filename, max_retries=3):
     print(f"Downloading latest spreadsheet to {filename}...")
@@ -316,104 +323,128 @@ def save_tracker(tracker_data):
     with open(TRACKER_FILE, 'w', encoding='utf-8') as f:
         json.dump(tracker_data, f, indent=2, ensure_ascii=False)
 
-def resolve_from_website(arc_name, ep_num_raw, max_retries=2):   
-    global WEBSITE_HTML_CACHE, WEBSITE_FETCH_TRIED
-    url = "https://onepace.net/en/releases"
-    search_name = ALIASES.get(arc_name, arc_name)
-    clean_name = search_name.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
-    
-    # Fetch once per run. Without the flag a failure is retried for every episode,
-    # and the 1-3s backoff alone cost ~17 minutes of a CI run.
-    if not WEBSITE_HTML_CACHE and not WEBSITE_FETCH_TRIED:
-        WEBSITE_FETCH_TRIED = True
+def _local(tag):
+    return tag.rsplit("}", 1)[-1]
+
+
+# "[One Pace][431-432] Post-Enies Lobby 01 [1080p][C408DA06].mkv" -> "Post-Enies Lobby 01"
+_FEED_FILENAME = re.compile(r'^\[One Pace\]\s*(?:\[[^\]]*\]\s*)?(.*?)\s*(?:\[[^\]]*\]\s*)*\.mkv$', re.I)
+_FEED_EPISODE = re.compile(r'^(.*?)\s+(\d{1,3})(?:\s*-\s*(\d{1,3}))?$')
+
+
+def parse_release_feed(xml_text):
+    """
+    [(arc, ep_start, ep_end, view_url, is_extended, released)] from an RSS feed.
+
+    Handles both shapes: onepace.net titles an item "Wano 61", marks the cut in a
+    <category> and puts the view url in <link>; nyaa titles it with the whole
+    filename and puts the view url in <guid>. Element names are matched without
+    their namespace because onepace.net puts core RSS elements in a default one.
+    """
+    entries = []
+    for item in (e for e in ET.fromstring(xml_text).iter() if _local(e.tag) == "item"):
+        fields, categories = {}, []
+        for child in item:
+            name = _local(child.tag)
+            if name == "category":
+                categories.append(child.text or "")
+            else:
+                fields.setdefault(name, (child.text or "").strip())
+
+        title = fields.get("title", "")
+        view_url = next((v for v in (fields.get("link", ""), fields.get("guid", ""))
+                         if "nyaa.si/view/" in v), "")
+        if not title or not view_url:
+            continue
+
+        as_filename = _FEED_FILENAME.match(title)
+        if as_filename:
+            title = as_filename.group(1).strip()
+        is_extended = ("extended" in title.lower()
+                       or any("extended" in c.lower() for c in categories))
+        title = re.sub(r'\s*extended\s*$', '', title, flags=re.I).strip()
+
+        numbered = _FEED_EPISODE.match(title)
+        if not numbered:
+            continue                       # batches and specials carry no number
+        try:
+            released = datetime.datetime.strptime(
+                fields.get("pubDate", "")[5:16].strip(), "%d %b %Y").date()
+        except ValueError:
+            continue
+
+        entries.append((numbered.group(1).strip().lower(), int(numbered.group(2)),
+                        int(numbered.group(3) or numbered.group(2)),
+                        view_url, is_extended, released))
+    return entries
+
+
+def load_release_feed(max_retries=2):
+    """First feed that answers, fetched once per run whether it works or not."""
+    global FEED_ENTRIES, FEED_FETCH_TRIED
+    if FEED_FETCH_TRIED:
+        return FEED_ENTRIES or []
+    FEED_FETCH_TRIED = True
+
+    for url in RELEASE_FEEDS:
         for attempt in range(1, max_retries + 1):
             try:
                 response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
                 response.raise_for_status()
-                WEBSITE_HTML_CACHE = BeautifulSoup(response.text, 'html.parser')
+                entries = parse_release_feed(response.text)
+                if entries:
+                    FEED_ENTRIES = entries
+                    print(f"  [+] Release feed: {len(entries)} entries from {url.split('/')[2]}")
+                    return FEED_ENTRIES
+                print(f"  [!] Release feed returned no usable entries: {url}")
                 break
-            except requests.exceptions.RequestException as e:
-                print(f"  [!] onepace.net fetch failed (attempt {attempt}/{max_retries}): {e}")
-                if attempt < max_retries: time.sleep(random.uniform(1, 3))
-        if not WEBSITE_HTML_CACHE:
-            print("  [!] No website data this run - fresh-release overrides are OFF.")
+            except Exception as e:
+                # A Cloudflare challenge answers 403 with these headers; the ray id
+                # is what a site operator can look up in their security events.
+                marks = ""
+                resp = getattr(e, "response", None)
+                if resp is not None:
+                    marks = " cf-mitigated=%s cf-ray=%s" % (
+                        resp.headers.get("cf-mitigated", "-"),
+                        resp.headers.get("cf-ray", "-"))
+                print(f"  [!] Release feed failed (attempt {attempt}/{max_retries}) "
+                      f"{url.split('/')[2]}: {e}{marks}")
+                if attempt < max_retries:
+                    time.sleep(random.uniform(1, 3))
 
-    if not WEBSITE_HTML_CACHE: return []
+    print("  [!] No release feed reachable - fresh-release overrides are OFF.")
+    FEED_ENTRIES = []
+    return FEED_ENTRIES
 
-    episodes = WEBSITE_HTML_CACHE.find_all('li', id=True)
+
+def resolve_from_website(arc_name, ep_num_raw, max_retries=2):
+    """Fresh releases for one episode. Same contract as the old page scraper."""
+    entries = load_release_feed(max_retries)
+    if not entries:
+        return []
+
+    search_name = ALIASES.get(arc_name, arc_name)
+    clean_name = search_name.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
+    try:
+        wanted = int(ep_num_raw)
+    except (TypeError, ValueError):
+        return []
+
+    today = datetime.datetime.now().date()
     found_streams = []
-    
-    for ep in episodes:
-        title_tag = ep.find('h3')
-        if not title_tag: continue
-        
-        title_text = title_tag.get_text(separator=" ", strip=True).lower()
-        # A bare substring lets "enies lobby" match "post-enies lobby"; the
-        # boundary treats the hyphen as part of the name, so it cannot.
-        if not re.search(r'(?:^|[^a-z0-9-])' + re.escape(clean_name), title_text):
+    for arc, ep_start, ep_end, view_url, is_extended, released in entries:
+        # A bare substring lets "enies lobby" match "post-enies lobby"; anchoring
+        # both ends, with the hyphen counted as part of the name, cannot.
+        if not re.search(r'(?:^|[^a-z0-9-])' + re.escape(clean_name) + r'$', arc):
             continue
-        
-        # Ignore archived episodes
-        if "archived" in title_text: continue
-        
-        # Strict Episode Matching (Fixes the "5 days ago" bug)
-        match = re.search(rf'(?:^|[^a-z0-9-]){re.escape(clean_name)}\s*(\d{{1,3}})(?:\s*-\s*(\d{{1,3}}))?', title_text)
-        if not match: continue
-        
-        ep_start = int(match.group(1))
-        ep_end = int(match.group(2)) if match.group(2) else ep_start
-        
-        if not (ep_start <= int(ep_num_raw) <= ep_end):
+        if not (ep_start <= wanted <= ep_end):
             continue
-        
-        time_tag = ep.find('time')
-        if not time_tag: continue
-        
-        release_date = None
-        
-        # 1. Try parsing the clean 'title' attribute (Format: 5/31/2026)
-        if time_tag.has_attr('title'):
-            try:
-                release_date = datetime.datetime.strptime(time_tag['title'], "%m/%d/%Y").date()
-            except ValueError: pass
-            
-        # 2. If title fails, try the new 'datetime' format (Format: Sun May 31 2026)
-        if not release_date and time_tag.has_attr('datetime'):
-            try:
-                release_date = datetime.datetime.strptime(time_tag['datetime'][:15], "%a %b %d %Y").date()
-            except ValueError: 
-                # 3. Fallback to your original logic just in case (Format: 2026-05-31)
-                try:
-                    release_date = datetime.datetime.strptime(time_tag['datetime'][:10], "%Y-%m-%d").date()
-                except ValueError: pass
-
-        if not release_date:
-            print(f"  [!] Warning: Could not parse release date for website episode: '{title_text}'")
+        days_diff = (today - released).days
+        if days_diff > RELEASE_WINDOW_DAYS or days_diff < 0:
             continue
-            
-        days_diff = (datetime.datetime.now().date() - release_date).days
-        if days_diff > 7 or days_diff < 0: continue
-        
-        # --- Check the <small> tag for "Extended" ---
-        small_tag = title_tag.find('small')
-        is_extended = small_tag and "extended" in small_tag.text.lower()
-        
-        magnet_tag = ep.find('a', href=re.compile(r'^magnet:\?xt='))
-        if magnet_tag:
-            match = re.search(r'urn:btih:([a-zA-Z0-9]{40})', magnet_tag['href'], re.IGNORECASE)
-            if match:
-                view_url = resolve_nyaa_url(match.group(1).lower())
-                if view_url: 
-                    found_streams.append({"url": view_url, "is_extended": is_extended})
-                    continue
-        
-        torrent_tag = ep.find('a', href=re.compile(r'nyaa\.si/download/\d+\.torrent'))
-        if torrent_tag:
-            match = re.search(r'/download/(\d+)\.torrent', torrent_tag['href'])
-            if match: 
-                found_streams.append({"url": f"https://nyaa.si/view/{match.group(1)}", "is_extended": is_extended})
-                
+        found_streams.append({"url": view_url, "is_extended": is_extended})
     return found_streams
+
 
 def main():
     start_time = time.time()
