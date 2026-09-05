@@ -1,7 +1,8 @@
 {
   "TOTAL_SEASONS": 33,
   "RELEASE_FEEDS": [
-    "https://nyaa.si/?page=rss&q=%5BOne+Pace%5D&c=0_0&f=0"
+    "https://onepace.net/en/releases/rss.xml",
+    "https://nyaa.si/?page=rss&u=Galaxy9000&q=%5BOne+Pace%5D&c=0_0&f=0"
   ],
   "RELEASE_WINDOW_DAYS": 7,
   "ARC_MAP": {
