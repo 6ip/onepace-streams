@@ -560,7 +560,7 @@ def main():
         "year": "1999-",
         "imdbRating": "9.0",
         "country": "Japan",
-        "language": "Japanese, English",
+        "language": "JA, EN",
         "ageRating": "TV-14",
         "awards": "7 wins & 21 nominations total",
         "released": "1999-10-20T00:00:00.000Z",
@@ -589,7 +589,9 @@ def main():
             "writers": [
                 {"name": "Eiichirô Oda", "character": "Original Manga", "photo": "https://media.themoviedb.org/t/p/w132_and_h132_face/4YkEwEiz0E7EKYZzW8Fy4EGTITO.jpg"}
             ]
-        }
+        },
+        # Lets Stremio show TBA on episodes that have no release date yet.
+        "behaviorHints": {"hasScheduledVideos": True}
     })
     
     meta["links"] = [
