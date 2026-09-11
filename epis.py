@@ -127,6 +127,14 @@ def to_runtime_minutes(length):
     return ((h * 3600 + mi * 60 + s) + 30) // 60 or None
 
 
+def runtime_minutes(stream):
+    """Minutes for one entry. duration is the number; length is the old string."""
+    secs = stream.get("duration")
+    if not isinstance(secs, int):
+        return to_runtime_minutes(stream.get("length"))
+    return (secs + 30) // 60 or None
+
+
 def build_runtime_index():
     """Map stream file name -> minutes, from the JSONs scr.py writes."""
     out = {}
@@ -141,7 +149,7 @@ def build_runtime_index():
                 continue
             # Variant cuts run longer; the standard one is what plays by default.
             picks = [s for s in streams if not VARIANT_CUT.search(s.get("releaseName") or "")] or streams
-            mins = to_runtime_minutes(picks[0].get("length")) if picks else None
+            mins = runtime_minutes(picks[0]) if picks else None
             if mins:
                 out[fn[:-5]] = mins
     return out
