@@ -31,6 +31,19 @@ RELEASE_FEEDS = CONFIG.get("RELEASE_FEEDS", [
 ])
 RELEASE_WINDOW_DAYS = CONFIG.get("RELEASE_WINDOW_DAYS", 7)
 
+# "20:28" -> 1228. Minutes run past 60 here, so "60:10" is 3610.
+LENGTH_RE = re.compile(r"^(?:(\d+):)?(\d{1,3}):(\d{2})$")
+
+
+def duration_seconds(length):
+    """The seconds behind a length, so readers never parse the string back."""
+    found = LENGTH_RE.match((length or "").strip())
+    if not found:
+        return None
+    hours, minutes, secs = found.groups()
+    return int(hours or 0) * 3600 + int(minutes) * 60 + int(secs)
+
+
 # Global caches to prevent spamming Nyaa
 resolved_batches_cache = {}
 nyaa_html_cache = {}
@@ -612,6 +625,7 @@ def main():
                     "infoHash": web_info_hash,
                     "filename": web_filename,
                     "length": assigned_len,
+                    "duration": duration_seconds(assigned_len),
                     "videoSize": web_video_size,
                     "fileIdx": web_file_idx
                 })
@@ -703,6 +717,7 @@ def main():
                     "infoHash": info_hash,
                     "filename": torrent_filename,
                     "length": url_length,
+                    "duration": duration_seconds(url_length),
                     "videoSize": video_size,
                     "fileIdx": file_idx
                 })
