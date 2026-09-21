@@ -17,6 +17,21 @@
             "year": "1999-",
             "imdbRating": "9.0",
             "links": [
+				{
+                    "name": "One Pace Episode Guide",
+                    "category": "Links",
+                    "url": "https://docs.google.com/spreadsheets/d/1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA/edit?usp=sharing"
+                },
+				{
+					"name": "One Pace Patreon",
+					"category": "Links",
+					"url": "https://patreon.com/onepace"
+				},
+                {
+                    "name": "Support Development",
+                    "category": "Links",
+                    "url": "https://onepace-premium.e6ip.com/donate"
+                },
                 {
                     "name": "9.0",
                     "category": "imdb",
@@ -127,14 +142,14 @@
             "imdbRating": "9.0",
             "links": [
                 {
-                    "name": "Muhn Pace Spreadsheet",
+                    "name": "One Pace Dub Watch Guide",
                     "category": "Links",
-                    "url": "https://docs.google.com/spreadsheets/d/1n0NlZiHCOghEbMY1zgXKiwutygm7g9XdwhdJipxbmPs/edit"
+                    "url": "https://www.reddit.com/r/onepace/s/X7h3a4BVR6"
                 },
                 {
-                    "name": "Buy me a coffee",
+                    "name": "Support Development",
                     "category": "Links",
-                    "url": "https://ko-fi.com/not6ip"
+                    "url": "https://onepace-premium.e6ip.com/donate"
                 },
                 {
                     "name": "9.0",
@@ -249,10 +264,15 @@
                     "category": "Links",
                     "url": "https://docs.google.com/spreadsheets/d/1HoYogAchoU5DWxVJzUy3eZcHMZk_hUmzUVnQm9KxeFI/edit?usp=sharing"
                 },
-                {
-                    "name": "Buy me a coffee",
+				{
+                    "name": "Support Fedew (Onigashima Paced)",
                     "category": "Links",
-                    "url": "https://ko-fi.com/not6ip"
+                    "url": "https://ko-fi.com/fedew04"
+                },
+                {
+                    "name": "Support Development",
+                    "category": "Links",
+                    "url": "https://onepace-premium.e6ip.com/donate"
                 },
                 {
                     "name": "9.0",
@@ -377,9 +397,9 @@
                     "url": "https://docs.google.com/spreadsheets/d/1ODt-b2L9PyAr0xEWhj1yIOqp__crBFVXhvejblvP_mU/edit?usp=sharing"
                 },
                 {
-                    "name": "Buy me a coffee",
+                    "name": "Support Development",
                     "category": "Links",
-                    "url": "https://ko-fi.com/not6ip"
+                    "url": "https://onepace-premium.e6ip.com/donate"
                 },
                 {
                     "name": "9.0",
