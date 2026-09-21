@@ -6029,10 +6029,18 @@
                 "title": "Anarchy in the BM (Big Mom)",
                 "released": "2026-09-20T14:15:00.000Z",
                 "firstAired": "2026-09-20T14:15:00.000Z",
-                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center",
+                "thumbnail": "https://image.tmdb.org/t/p/w780/3u0LlDPl82fjHv4CSGFbnexHGgo.jpg",
                 "description": "Things are heating up on the second floor as an enraged Ulti prepares to attack Big Mom. Elsewhere on that same floor, Sanji runs, jumps and kicks his way through seemingly endless waves of gifters and pleasures, a heavily bandaged (and very sleepy) Zoro in tow.",
                 "overview": "Things are heating up on the second floor as an enraged Ulti prepares to attack Big Mom. Elsewhere on that same floor, Sanji runs, jumps and kicks his way through seemingly endless waves of gifters and pleasures, a heavily bandaged (and very sleepy) Zoro in tow.",
-                "runtime": "25"
+                "runtime": "25",
+                "rating": "8.3"
+            },
+            {
+                "season": 32,
+                "episode": 63,
+                "id": "WA_63",
+                "title": "Unreleased",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
             },
             {
                 "season": 33,
