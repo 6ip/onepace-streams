@@ -165,7 +165,7 @@
     "BATCH_SEARCH:Drum Island:D549B6DF"
   ],
   "DI_8.json": [
-    "BATCH_SEARCH:Drum Island:F8FCF23F"
+    "BATCH_SEARCH:Drum Island:FA5C67B1"
   ],
   "AL_1.json": [
     "BATCH_SEARCH:Alabasta:BB1D093C"
@@ -1426,5 +1426,9 @@
   ],
   "WA_61.json": [
     "BATCH_SEARCH:Wano:1EF3F26C"
+  ],
+  "WA_62.json": [
+    "BATCH_SEARCH:Wano:562018E8",
+    "BATCH_SEARCH:Wano:3EC45BF1"
   ]
 }

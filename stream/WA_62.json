@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "infoHash": "405a772fb6c8a3a1f6a0b98fe17167d71320e402",
+      "filename": "[One Pace][1012-1013] Wano 62 [1080p][562018E8].mkv",
+      "length": "24:36",
+      "duration": 1476,
+      "videoSize": 1382395666,
+      "fileIdx": null
+    },
+    {
+      "infoHash": "6d6dc2ce4bf05c8e8291a4aa33dcb5387bb71019",
+      "filename": "[One Pace][1012-1013] Wano 62 Extended [1080p][3EC45BF1].mkv",
+      "length": "31:27",
+      "duration": 1887,
+      "videoSize": 1824879854,
+      "fileIdx": null
+    }
+  ]
+}

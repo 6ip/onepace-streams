@@ -858,8 +858,8 @@
                 "episode": 8,
                 "id": "DI_8",
                 "title": "Hiriluk's Cherry Blossoms",
-                "released": "2026-09-12T14:15:00.000Z",
-                "firstAired": "2026-09-12T14:15:00.000Z",
+                "released": "2026-09-20T14:15:00.000Z",
+                "firstAired": "2026-09-20T14:15:00.000Z",
                 "thumbnail": "https://image.tmdb.org/t/p/w780/wl1q9fraeztdjWzUWXCNTAagTJY.jpg",
                 "description": "Finally convinced to join the Straw Hat Pirates, Chopper announces his intentions to Dr. Kureha. While she doesn’t receive the news well at first, she decides to give the Straw Hats a fond parting gift while they exit the island.",
                 "overview": "Finally convinced to join the Straw Hat Pirates, Chopper announces his intentions to Dr. Kureha. While she doesn’t receive the news well at first, she decides to give the Straw Hats a fond parting gift while they exit the island.",
@@ -6026,8 +6026,11 @@
                 "season": 32,
                 "episode": 62,
                 "id": "WA_62",
-                "title": "Unreleased",
-                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center"
+                "title": "Anarchy in the BM (Big Mom)",
+                "released": "2026-09-20T14:15:00.000Z",
+                "firstAired": "2026-09-20T14:15:00.000Z",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg&w=1280&h=720&fit=cover&a=center",
+                "runtime": "25"
             },
             {
                 "season": 33,
