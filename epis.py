@@ -603,6 +603,9 @@ def main():
     })
     
     meta["links"] = [
+        {"name": "One Pace Episode Guide", "category": "Links", "url": "https://docs.google.com/spreadsheets/d/1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA/edit?usp=sharing"},
+        {"name": "One Pace Patreon", "category": "Links", "url": "https://patreon.com/onepace"},
+        {"name": "Support Development", "category": "Links", "url": "https://onepace-premium.e6ip.com/donate"},
         {"name": "9.0", "category": "imdb", "url": "https://imdb.com/title/tt0388629"},
         {"name": "Animation", "category": "Genres", "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"},
         {"name": "Action", "category": "Genres", "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"},
