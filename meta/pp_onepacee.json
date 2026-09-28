@@ -6320,10 +6320,22 @@
                 "season": 33,
                 "episode": 22,
                 "id": "EH_22",
-                "title": "Unreleased",
+                "title": "Kuma Bear",
+                "released": "2026-09-28T14:15:00.000Z",
+                "firstAired": "2026-09-28T14:15:00.000Z",
                 "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center",
                 "description": "Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation.",
-                "overview": "Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation."
+                "overview": "Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation.",
+                "runtime": "34"
+            },
+            {
+                "season": 33,
+                "episode": 23,
+                "id": "EH_23",
+                "title": "Unreleased",
+                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center",
+                "description": "Kuma lived with Ginny in his old village until the injustices of the world pushed them to join Iva and Dragon as revolutionaries. However, when tragedy befell Ginny, Kuma found a new purpose in life in the newborn she left behind.",
+                "overview": "Kuma lived with Ginny in his old village until the injustices of the world pushed them to join Iva and Dragon as revolutionaries. However, when tragedy befell Ginny, Kuma found a new purpose in life in the newborn she left behind."
             }
         ],
         "releaseInfo": "1999-",

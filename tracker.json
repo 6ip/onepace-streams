@@ -1430,5 +1430,8 @@
   "WA_62.json": [
     "BATCH_SEARCH:Wano:562018E8",
     "BATCH_SEARCH:Wano:3EC45BF1"
+  ],
+  "EH_22.json": [
+    "BATCH_SEARCH:Egghead:958F4943"
   ]
 }
