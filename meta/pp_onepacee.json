@@ -6323,10 +6323,11 @@
                 "title": "Kuma Bear",
                 "released": "2026-09-28T14:15:00.000Z",
                 "firstAired": "2026-09-28T14:15:00.000Z",
-                "thumbnail": "https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg&w=1280&h=720&fit=cover&a=center",
+                "thumbnail": "https://image.tmdb.org/t/p/w780/3wBSkxU0bszsGtdMwPMnMV4V8cR.jpg",
                 "description": "Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation.",
                 "overview": "Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation.",
-                "runtime": "34"
+                "runtime": "34",
+                "rating": "9.6"
             },
             {
                 "season": 33,
