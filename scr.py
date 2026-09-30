@@ -787,5 +787,47 @@ def main():
     print(f" 📥 New files downloaded: {new_files_count}")
     print("=========================================\n")
 
+    report_feed_ahead_of_sheet(files_to_process)
+
+
+def report_feed_ahead_of_sheet(files_to_process):
+    """Fresh releases the spreadsheet has not caught up on yet."""
+    entries = load_release_feed()
+    if not entries:
+        return
+
+    # Same cleaning resolve_from_website uses, so the names cannot drift apart.
+    sheet_by_arc = {}
+    for sheet_name in PREFIX_MAP:
+        key = ALIASES.get(sheet_name, sheet_name)
+        key = key.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
+        sheet_by_arc.setdefault(key, sheet_name)
+
+    cutoff = datetime.datetime.now().date() - datetime.timedelta(days=RELEASE_WINDOW_DAYS)
+    behind = set()
+    for arc, ep_start, ep_end, _url, _extended, released in entries:
+        if released < cutoff:
+            continue
+        sheet_name = sheet_by_arc.get(arc)
+        if not sheet_name:
+            continue
+        for ep in range(ep_start, ep_end + 1):
+            fname = f"{PREFIX_MAP[sheet_name]}_{ep}.json"
+            if os.path.exists(os.path.join("stream", fname)):
+                continue
+            why = ("no row in the sheet" if fname not in files_to_process
+                   else "sheet row has no link and no length")
+            behind.add((sheet_name, ep, released, why))
+
+    if not behind:
+        return
+
+    print("  [!] In the feed but not picked up:")
+    for sheet_name, ep, released, why in sorted(behind):
+        print(f"      {sheet_name} {ep}  released {released}  --  {why}")
+    print("      Rerun once the spreadsheet is updated.")
+    print()
+
+
 if __name__ == "__main__":
     main()
