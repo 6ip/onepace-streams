@@ -496,10 +496,10 @@
     "BATCH_SEARCH:Post-Enies Lobby:C9E0CD24"
   ],
   "PEN_4.json": [
-    "BATCH_SEARCH:Post-Enies Lobby:659EF70C"
+    "BATCH_SEARCH:Post-Enies Lobby:2C843A0F"
   ],
   "PEN_5.json": [
-    "BATCH_SEARCH:Post-Enies Lobby:CEF78887"
+    "BATCH_SEARCH:Post-Enies Lobby:659EF70C"
   ],
   "TB_1.json": [
     "BATCH_SEARCH:Thriller Bark:30D0916C"
@@ -1433,5 +1433,8 @@
   ],
   "EH_22.json": [
     "BATCH_SEARCH:Egghead:958F4943"
+  ],
+  "PEN_6.json": [
+    "BATCH_SEARCH:Post-Enies Lobby:CEF78887"
   ]
 }
