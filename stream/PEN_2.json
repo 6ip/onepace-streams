@@ -1,13 +1,12 @@
 {
   "streams": [
     {
-      "infoHash": "59497fc3d9a6dbcdbaced48eaa9f5ba2047614df",
-      "filename": "[One Pace][433-435] Post-Enies Lobby 02 [720p][344EA844].mkv",
-      "releaseName": "One.Pace.S18E02.Post.Enies.Lobby.720p.HD.H264.8bit.AAC.2.0.JPN-OnePace.mkv",
-      "length": "39:22",
-      "duration": 2362,
-      "videoSize": 480244012,
-      "fileIdx": 1
+      "infoHash": "8291219fe8bda56a181f8f33052c7e1d258bd90e",
+      "filename": "[One Pace][433-434] Post-Enies Lobby 02 [1080p][0EBD0069].mkv",
+      "length": "25:34",
+      "duration": 1534,
+      "videoSize": 895745600,
+      "fileIdx": null
     }
   ]
 }
