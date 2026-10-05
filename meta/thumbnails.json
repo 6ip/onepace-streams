@@ -163,9 +163,9 @@
     "EN_25": "https://image.tmdb.org/t/p/w780/ep8jgnr0glx8oCyniCVLgRM61Ke.jpg",
     "PEN_1": "https://image.tmdb.org/t/p/w780/x1MZYKyt4ABPDtlMOqUt3qyvbt0.jpg",
     "PEN_2": "https://image.tmdb.org/t/p/w780/g6XOpnMxdWMS1ROFjnHrp1Ovwlw.jpg",
-    "PEN_3": "https://image.tmdb.org/t/p/w780/txL7xyaSHICEuVz8Q5hTG3EK4Mp.jpg",
-    "PEN_4": "https://image.tmdb.org/t/p/w780/j3zqUSKyJakbs2ZlQ0lxiuJ8RAZ.jpg",
-    "PEN_5": "https://image.tmdb.org/t/p/w780/acxECT2XGSTHklTO5iKKDX6W1zg.jpg",
+    "PEN_3": "https://image.tmdb.org/t/p/w780/rzRYHaGR9YTt8w3vhRpxLLvjXl9.jpg",
+    "PEN_4": "https://image.tmdb.org/t/p/w780/txL7xyaSHICEuVz8Q5hTG3EK4Mp.jpg",
+    "PEN_5": "https://image.tmdb.org/t/p/w780/cq2RCNxSjdMxELxDroFmz4TadlJ.jpg",
     "TB_1": "https://image.tmdb.org/t/p/w780/4xagH3Pp7VzySH4ajBInY5job9p.jpg",
     "TB_2": "https://image.tmdb.org/t/p/w780/7gVCtqiABYCY0maMrqcRamPYjTf.jpg",
     "TB_3": "https://image.tmdb.org/t/p/w780/rBqUnxNYSqrK1Y1gV1hG0I4ebbd.jpg",
@@ -472,5 +472,6 @@
     "WA_60": "https://image.tmdb.org/t/p/w780/dCVM29LQGLs6pXBxSK8ny15JLJK.jpg",
     "WA_61": "https://image.tmdb.org/t/p/w780/ySleQJbbOANBTNEI9nkSMedCoNF.jpg",
     "WA_62": "https://image.tmdb.org/t/p/w780/3u0LlDPl82fjHv4CSGFbnexHGgo.jpg",
-    "EH_22": "https://image.tmdb.org/t/p/w780/3wBSkxU0bszsGtdMwPMnMV4V8cR.jpg"
+    "EH_22": "https://image.tmdb.org/t/p/w780/3wBSkxU0bszsGtdMwPMnMV4V8cR.jpg",
+    "PEN_6": "https://image.tmdb.org/t/p/w780/acxECT2XGSTHklTO5iKKDX6W1zg.jpg"
 }
