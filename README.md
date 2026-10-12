@@ -1,6 +1,6 @@
 # onepace-streams
 
-Data backend for the [One Pace Premium](https://onepace-premium.e6ip.com/) Stremio addon. Holds the stream index, metadata, and catalog files the addon reads at runtime.
+Data backend for the [One Pace](https://stremio-addons.net/addons/one-pace-rd) Stremio addon. Holds the stream index, metadata, and catalog files the addon reads at runtime.
 
 ## Repository layout
 
