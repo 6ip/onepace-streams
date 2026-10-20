@@ -2,7 +2,7 @@ name: Update One Pace Data
 
 on:
   schedule:
-    - cron: '30 */3 * * *' # Runs at minute 30 past every 3rd hour
+    - cron: '17 */3 * * *' 
   workflow_dispatch: # Button for manual runs
 
 jobs:
