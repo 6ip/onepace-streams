@@ -16,36 +16,12 @@
             {
                 "season": 1,
                 "episode": 1,
-                "id": "pp_KUMA_SHAVED_1",
-                "title": "Shaved Egghead 1127+8",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/iDH1dtY8kXPTvuOrGY46YoreFym.jpg",
-                "released": "2026-04-07T14:15:00.000Z",
-                "firstAired": "2026-04-07T14:15:00.000Z",
-                "runtime": "26",
-                "rating": "9.6",
+                "id": "pp_COMPLETE_KUMA_SHAVED1",
+                "title": "WATCH One Pace [01 to 22]!",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
+                "description": "Egghead episodes 01 to 22 are in One Pace. Watch them there first, then come back here and continue with episode 04, `Kuma Cut 1131`",
+                "overview": "Egghead episodes 01 to 22 are in One Pace. Watch them there first, then come back here and continue with episode 04, `Kuma Cut 1131`",
                 "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s33.jpg"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "id": "pp_KUMA_SHAVED_2",
-                "title": "Kuma Cut 1129",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/3wBSkxU0bszsGtdMwPMnMV4V8cR.jpg",
-                "released": "2026-04-07T14:15:00.000Z",
-                "firstAired": "2026-04-07T14:15:00.000Z",
-                "runtime": "22",
-                "rating": "9.6"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "id": "pp_KUMA_SHAVED_3",
-                "title": "Kuma Cut 1130",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/cI5FzwsqEWn1MiEOfxY4ySynAu3.jpg",
-                "released": "2025-10-20T14:15:00.000Z",
-                "firstAired": "2025-10-20T14:15:00.000Z",
-                "runtime": "22",
-                "rating": "9.6"
             },
             {
                 "season": 1,

@@ -15,24 +15,13 @@
         "videos": [
             {
                 "season": 17,
-                "episode": 9,
+                "episode": 10,
                 "id": "pp_COMPLETE_EN1",
-                "title": "WATCH One Pace [01 to 09]!",
-                "description": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
-                "overview": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
+                "title": "WATCH One Pace [01 to 10]!",
+                "description": "Episodes 01 to 10 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 11.",
+                "overview": "Episodes 01 to 10 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 11.",
                 "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
                 "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s17.jpg"
-            },
-            {
-                "season": 17,
-                "episode": 10,
-                "id": "MUHN_EN_10",
-                "title": "Declaration of War",
-                "description": "To prove his undying loyalty to Robin, Luffy makes a defiant statement to the World Government.",
-                "overview": "To prove his undying loyalty to Robin, Luffy makes a defiant statement to the World Government.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/19m2CApEXbqbzL3iPBqSjjYZYiu.jpg",
-                "runtime": "22",
-                "rating": "9.7"
             },
             {
                 "season": 17,
@@ -171,32 +160,19 @@
                 "episode": 23,
                 "id": "pp_COMPLETE_EN2",
                 "title": "WATCH One Pace [23 to 25]!",
-                "description": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
-                "overview": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
+                "description": "Episodes 23 to 25 are in One Pace. Watch them there to finish this arc.",
+                "overview": "Episodes 23 to 25 are in One Pace. Watch them there to finish this arc.",
                 "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg"
             },
             {
                 "season": 18,
                 "episode": 1,
-                "id": "MUHN_PEN_1",
-                "title": "The Strongest Family Lineage?! The Vice-Admiral and The Revolutionary!",
-                "description": "Two days later in Water Seven, Franky hears that the item for he purchased with the Straw Hats' stolen money has arrived. While the pirates recover from the events at Enies Lobby, a Marine vice admiral arrives to pay Luffy an unexpected visit.",
-                "overview": "Two days later in Water Seven, Franky hears that the item for he purchased with the Straw Hats' stolen money has arrived. While the pirates recover from the events at Enies Lobby, a Marine vice admiral arrives to pay Luffy an unexpected visit.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/x1MZYKyt4ABPDtlMOqUt3qyvbt0.jpg",
-                "runtime": "27",
-                "rating": "9.0",
+                "id": "pp_COMPLETE_PEN1",
+                "title": "WATCH One Pace [01 to 03]!",
+                "description": "Episodes 01 to 03 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 3.",
+                "overview": "Episodes 01 to 03 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 3.",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
                 "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s18.jpg"
-            },
-            {
-                "season": 18,
-                "episode": 2,
-                "id": "MUHN_PEN_2",
-                "title": "The Extent of the Grand Line and The 600,000,000 Crew!",
-                "description": "In the New World, not even the Marines' best can keep Red-Haired Shanks from meeting Whitebeard with an especially important request. Meanwhile, at Water Seven, the Franky Family comes to the Straw Hats with some \"bad\" news.",
-                "overview": "In the New World, not even the Marines' best can keep Red-Haired Shanks from meeting Whitebeard with an especially important request. Meanwhile, at Water Seven, the Franky Family comes to the Straw Hats with some \"bad\" news.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/g6XOpnMxdWMS1ROFjnHrp1Ovwlw.jpg",
-                "runtime": "40",
-                "rating": "8.9"
             },
             {
                 "season": 18,
@@ -956,8 +932,8 @@
                 "episode": 6,
                 "id": "pp_COMPLETE_PW1",
                 "title": "WATCH One Pace [01 to 06]!",
-                "description": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
-                "overview": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
+                "description": "Episodes 01 to 06 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 07.",
+                "overview": "Episodes 01 to 06 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 07.",
                 "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
                 "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s24.jpg"
             },
@@ -985,26 +961,13 @@
             },
             {
                 "season": 26,
-                "episode": 1,
-                "id": "MUHN_FI_1",
-                "title": "Into the Depths! The Kraken and the Caribou Pirates",
-                "description": "Encased in a protective bubble, the Sunny departs for Fishman Island far under the sea. As the Straw Hats marvel at the sights, Franky tells the crew about their greatest ally in their time apart. But suddenly, a mysterious shadow closes in on the ship.",
-                "overview": "Encased in a protective bubble, the Sunny departs for Fishman Island far under the sea. As the Straw Hats marvel at the sights, Franky tells the crew about their greatest ally in their time apart. But suddenly, a mysterious shadow closes in on the ship.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/v3bgpT8oDUTY5Z3yUUYVO6ANbx7.jpg",
-                "runtime": "27",
-                "rating": "7.7",
-                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s26.jpg"
-            },
-            {
-                "season": 26,
                 "episode": 2,
-                "id": "MUHN_FI_2",
-                "title": "Adventure in the Ocean Depths! 10 Kilometers Below the Surface!",
-                "description": "Luffy, Zoro, and Sanji leave the relative safety of the Sunny to face the Kraken in its own territory. Putting their powerful new skills to work, they survive the encounter but are swept away by a downward current and become lost in the murky depths.",
-                "overview": "Luffy, Zoro, and Sanji leave the relative safety of the Sunny to face the Kraken in its own territory. Putting their powerful new skills to work, they survive the encounter but are swept away by a downward current and become lost in the murky depths.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/pTE6GOU9HJzVD4HbYFYCKTJrrL1.jpg",
-                "runtime": "26",
-                "rating": "7.5"
+                "id": "pp_COMPLETE_FI1",
+                "title": "WATCH One Pace [01 to 02]!",
+                "description": "Episodes 01 to 02 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 03.",
+                "overview": "Episodes 01 to 02 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 03.",
+                "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
+                "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s26.jpg"
             },
             {
                 "season": 26,
@@ -2566,8 +2529,8 @@
                 "episode": 4,
                 "id": "pp_COMPLETE_WA1",
                 "title": "WATCH One Pace [01 to 04]!",
-                "description": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
-                "overview": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
+                "description": "Episodes 01 to 04 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 05.",
+                "overview": "Episodes 01 to 04 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 05.",
                 "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
                 "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg"
             },
@@ -2859,45 +2822,12 @@
             },
             {
                 "season": 32,
-                "episode": 67,
+                "episode": 62,
                 "id": "pp_COMPLETE_WA2",
-                "title": "WATCH One Pace [31 to 59]!",
-                "description": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
-                "overview": "The earlier episodes of this arc are already covered by One Pace in full. Jump back and watch those first, then continue here. Check the pinned dub guide on r/onepace for the exact watch order.",
+                "title": "WATCH One Pace [31 to 62]!",
+                "description": "Episodes 31 to 62 are in One Pace. Watch them there, then come back here and continue with episode 71.",
+                "overview": "Episodes 31 to 62 are in One Pace. Watch them there, then come back here and continue with episode 71.",
                 "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg"
-            },
-            {
-                "season": 32,
-                "episode": 68,
-                "id": "MUHN_WA_68",
-                "title": "Conqueror's Haki",
-                "description": "",
-                "overview": "",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/zUBxC2iewH7DWjzbbOjVzJsqp8n.jpg",
-                "runtime": "29",
-                "rating": "9.5"
-            },
-            {
-                "season": 32,
-                "episode": 69,
-                "id": "MUHN_WA_69",
-                "title": "The Code of Oshiruko",
-                "description": "",
-                "overview": "",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/ySleQJbbOANBTNEI9nkSMedCoNF.jpg",
-                "runtime": "23",
-                "rating": "8.8"
-            },
-            {
-                "season": 32,
-                "episode": 70,
-                "id": "MUHN_WA_70",
-                "title": "Anarchy in the B.M.",
-                "description": "",
-                "overview": "",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/3u0LlDPl82fjHv4CSGFbnexHGgo.jpg",
-                "runtime": "31",
-                "rating": "8.3"
             },
             {
                 "season": 32,
