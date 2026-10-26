@@ -48,6 +48,7 @@ def duration_seconds(length):
 resolved_batches_cache = {}
 nyaa_html_cache = {}
 FEED_ENTRIES = None
+FEED_BATCHES = None
 FEED_FETCH_TRIED = False
 
 def download_excel_file(url, filename, max_retries=3):
@@ -347,18 +348,24 @@ def _local(tag):
 # "[One Pace][431-432] Post-Enies Lobby 01 [1080p][C408DA06].mkv" -> "Post-Enies Lobby 01"
 _FEED_FILENAME = re.compile(r'^\[One Pace\]\s*(?:\[[^\]]*\]\s*)?(.*?)\s*(?:\[[^\]]*\]\s*)*\.mkv$', re.I)
 _FEED_EPISODE = re.compile(r'^(.*?)\s+(\d{1,3})(?:\s*-\s*(\d{1,3}))?$')
+# A batch is a folder: no .mkv, no episode number, just the arc and its chapters.
+_FEED_BATCH = re.compile(r'^\[One Pace\]\s*\[([\d\s,.\-]+)\]\s*(.+?)\s*(?:\[[^\]]*\]\s*)*$')
+_FEED_EXTENDED = re.compile(r'\s*-?\s*extended(\s+cut)?\s*$', re.I)
+_CRC_IN_NAME = re.compile(r'\[([0-9A-Fa-f]{8})\]\.(?:mkv|mp4)$', re.I)
 
 
 def parse_release_feed(xml_text):
     """
-    [(arc, ep_start, ep_end, view_url, is_extended, released)] from an RSS feed.
+    (episodes, batches) from an RSS feed, as
+    [(arc, ep_start, ep_end, view_url, is_extended, released)] and
+    [(arc, chapters, view_url, is_extended, released)].
 
     Handles both shapes: onepace.net titles an item "Wano 61", marks the cut in a
     <category> and puts the view url in <link>; nyaa titles it with the whole
     filename and puts the view url in <guid>. Element names are matched without
     their namespace because onepace.net puts core RSS elements in a default one.
     """
-    entries = []
+    entries, batches = [], []
     for item in (e for e in ET.fromstring(xml_text).iter() if _local(e.tag) == "item"):
         fields, categories = {}, []
         for child in item:
@@ -374,31 +381,37 @@ def parse_release_feed(xml_text):
         if not title or not view_url:
             continue
 
-        as_filename = _FEED_FILENAME.match(title)
-        if as_filename:
-            title = as_filename.group(1).strip()
-        is_extended = ("extended" in title.lower()
-                       or any("extended" in c.lower() for c in categories))
-        title = re.sub(r'\s*extended\s*$', '', title, flags=re.I).strip()
-
-        numbered = _FEED_EPISODE.match(title)
-        if not numbered:
-            continue                       # batches and specials carry no number
         try:
             released = datetime.datetime.strptime(
                 fields.get("pubDate", "")[5:16].strip(), "%d %b %Y").date()
         except ValueError:
             continue
 
-        entries.append((numbered.group(1).strip().lower(), int(numbered.group(2)),
-                        int(numbered.group(3) or numbered.group(2)),
-                        view_url, is_extended, released))
-    return entries
+        as_filename = _FEED_FILENAME.match(title)
+        if as_filename:
+            title = as_filename.group(1).strip()
+        is_extended = ("extended" in title.lower()
+                       or any("extended" in c.lower() for c in categories))
+        stripped = _FEED_EXTENDED.sub('', title).strip()
+
+        numbered = _FEED_EPISODE.match(stripped)
+        if numbered:
+            entries.append((numbered.group(1).strip().lower(), int(numbered.group(2)),
+                            int(numbered.group(3) or numbered.group(2)),
+                            view_url, is_extended, released))
+            continue
+
+        as_batch = _FEED_BATCH.match(title)
+        if as_batch:
+            arc = _FEED_EXTENDED.sub('', as_batch.group(2).strip()).strip().lower()
+            batches.append((arc, as_batch.group(1).strip(),
+                            view_url, is_extended, released))
+    return entries, batches
 
 
 def load_release_feed(max_retries=2):
     """First feed that answers, fetched once per run whether it works or not."""
-    global FEED_ENTRIES, FEED_FETCH_TRIED
+    global FEED_ENTRIES, FEED_BATCHES, FEED_FETCH_TRIED
     if FEED_FETCH_TRIED:
         return FEED_ENTRIES or []
     FEED_FETCH_TRIED = True
@@ -408,10 +421,11 @@ def load_release_feed(max_retries=2):
             try:
                 response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
                 response.raise_for_status()
-                entries = parse_release_feed(response.text)
+                entries, found_batches = parse_release_feed(response.text)
                 if entries:
-                    FEED_ENTRIES = entries
-                    print(f"  [+] Release feed: {len(entries)} entries from {url.split('/')[2]}")
+                    FEED_ENTRIES, FEED_BATCHES = entries, found_batches
+                    extra = f", {len(found_batches)} batch(es)" if found_batches else ""
+                    print(f"  [+] Release feed: {len(entries)} entries{extra} from {url.split('/')[2]}")
                     return FEED_ENTRIES
                 print(f"  [!] Release feed returned no usable entries: {url}")
                 break
@@ -430,8 +444,46 @@ def load_release_feed(max_retries=2):
                     time.sleep(random.uniform(1, 3))
 
     print("  [!] No release feed reachable - fresh-release overrides are OFF.")
-    FEED_ENTRIES = []
+    FEED_ENTRIES, FEED_BATCHES = [], []
     return FEED_ENTRIES
+
+
+def load_release_batches():
+    """Arc batch folders, from the same fetch load_release_feed() does."""
+    load_release_feed()
+    return FEED_BATCHES or []
+
+
+def torrent_video_names(nyaa_url, max_retries=2):
+    """Video filenames inside a torrent, sharing get_torrent_data's cache."""
+    match = re.search(r'(?:/view/|download/)(\d+)', nyaa_url)
+    if not match:
+        return []
+    download_url = f"https://nyaa.si/download/{match.group(1)}.torrent"
+    torrent_bytes = nyaa_html_cache.get(download_url)
+    if torrent_bytes is None:
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = requests.get(download_url,
+                                        headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+                response.raise_for_status()
+                torrent_bytes = response.content
+                nyaa_html_cache[download_url] = torrent_bytes
+                break
+            except requests.exceptions.RequestException:
+                if attempt < max_retries:
+                    time.sleep(random.uniform(2, 4))
+    if torrent_bytes is None:
+        return []
+    try:
+        info = bencodepy.decode(torrent_bytes)[b'info']
+    except Exception:
+        return []
+    if b'files' in info:
+        names = [f[b'path'][-1].decode('utf-8', errors='ignore') for f in info[b'files']]
+    else:
+        names = [info[b'name'].decode('utf-8', errors='ignore')]
+    return [n for n in names if n.lower().endswith(('.mkv', '.mp4'))]
 
 
 def resolve_from_website(arc_name, ep_num_raw, max_retries=2):
@@ -792,6 +844,75 @@ def main():
     print("=========================================\n")
 
     report_feed_ahead_of_sheet(files_to_process)
+    report_batches_ahead_of_sheet(files_to_process)
+
+
+def sheet_arc_keys():
+    """Cleaned arc name -> tab name, the way resolve_from_website cleans them."""
+    out = {}
+    for sheet_name in PREFIX_MAP:
+        key = ALIASES.get(sheet_name, sheet_name)
+        key = key.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
+        out.setdefault(key, sheet_name)
+    return out
+
+
+def report_batches_ahead_of_sheet(files_to_process):
+    """Batch folders holding files the sheet has no CRC for.
+
+    Keyed on CRCs, not on dates, so it goes quiet by itself once the sheet
+    catches up instead of repeating for the whole release window.
+    """
+    batches = load_release_batches()
+    if not batches:
+        return
+
+    sheet_crcs = {}
+    for info in files_to_process.values():
+        for url in info.get("urls", []):
+            if url.startswith("BATCH_SEARCH:"):
+                sheet_crcs.setdefault(info["arc"], set()).add(url.rsplit(":", 1)[-1].upper())
+
+    arcs = sheet_arc_keys()
+    cutoff = datetime.datetime.now().date() - datetime.timedelta(days=RELEASE_WINDOW_DAYS)
+
+    # An arc ships a standard and an extended batch that share most of their
+    # files, so they are one release to report, not two.
+    by_arc = {}
+    for arc, chapters, view_url, _extended, released in batches:
+        if released < cutoff:
+            continue
+        sheet_name = arcs.get(arc)
+        if not sheet_name:
+            continue
+        seen = by_arc.setdefault(sheet_name, {"files": {}, "chapters": chapters,
+                                              "released": released, "named": 0})
+        seen["released"] = max(seen["released"], released)
+        for name in torrent_video_names(view_url):
+            crc = _CRC_IN_NAME.search(name)
+            if crc:
+                seen["files"][crc.group(1).upper()] = name
+            else:
+                seen["named"] += 1
+
+    for sheet_name, seen in by_arc.items():
+        head = (f"  [!] {sheet_name} batch released {seen['released']},"
+                f" chapters {seen['chapters']}")
+        if not seen["files"]:
+            print(f"{head} - no CRCs in its filenames, so it cannot be checked.")
+            continue
+        have = sheet_crcs.get(sheet_name, set())
+        new = {c: n for c, n in seen["files"].items() if c not in have}
+        if not new:
+            continue
+        print(head)
+        print(f"      {len(new)} of {len(seen['files'])} file(s) not in the spreadsheet yet:")
+        for crc in sorted(new, key=lambda c: new[c]):
+            print(f"        {crc}  {new[crc]}")
+        if have:
+            print(f"      The sheet still lists {', '.join(sorted(have))}.")
+        print("      Rerun once the spreadsheet is updated.")
+        print()
 
 
 def report_feed_ahead_of_sheet(files_to_process):
@@ -800,12 +921,7 @@ def report_feed_ahead_of_sheet(files_to_process):
     if not entries:
         return
 
-    # Same cleaning resolve_from_website uses, so the names cannot drift apart.
-    sheet_by_arc = {}
-    for sheet_name in PREFIX_MAP:
-        key = ALIASES.get(sheet_name, sheet_name)
-        key = key.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
-        sheet_by_arc.setdefault(key, sheet_name)
+    sheet_by_arc = sheet_arc_keys()
 
     cutoff = datetime.datetime.now().date() - datetime.timedelta(days=RELEASE_WINDOW_DAYS)
     behind = set()
