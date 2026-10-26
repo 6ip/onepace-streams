@@ -222,7 +222,8 @@ def get_torrent_data(nyaa_url, expected_ep_num, expected_crc=None, max_retries=3
     torrent_filename = "Unknown Title"
     file_idx = None
     video_size = None
-    ep_padded = str(expected_ep_num).zfill(2)
+    whole, _, frac = str(expected_ep_num).partition(".")
+    ep_padded = whole.zfill(2) + ("." + frac if frac else "")
 
     # 4. Extract video files AND their TRUE index mapped to the .torrent
     video_files = [] # Stored as tuples: (true_index, filename, size_bytes)
@@ -264,7 +265,7 @@ def get_torrent_data(nyaa_url, expected_ep_num, expected_crc=None, max_retries=3
             matched = True
         else:
             for true_idx, vf, vsize in video_files:
-                if re.search(rf'\b{ep_padded}\b|\b{expected_ep_num}\b', vf):
+                if re.search(rf'\b{re.escape(ep_padded)}\b|\b{re.escape(str(expected_ep_num))}\b', vf):
                     torrent_filename = vf
                     file_idx = true_idx
                     video_size = vsize
@@ -275,7 +276,7 @@ def get_torrent_data(nyaa_url, expected_ep_num, expected_crc=None, max_retries=3
     if not matched:
         # Sort by name to guess the episode, but keep each file's true index.
         sorted_by_name = sorted(video_files, key=lambda x: x[1])
-        ep_index = int(expected_ep_num) - 1
+        ep_index = int(float(expected_ep_num)) - 1
         
         if 0 <= ep_index < len(sorted_by_name):
             true_idx, vf, vsize = sorted_by_name[ep_index]
@@ -289,6 +290,11 @@ def get_torrent_data(nyaa_url, expected_ep_num, expected_crc=None, max_retries=3
 
 # Last episode number seen per arc (used for fallback numbering)
 LAST_EPISODE_CACHE = {}
+
+def episode_token(raw):
+    """'01' -> '1', '01.5' -> '1.5'. The stream file keeps the half: LO_1.5.json."""
+    n = float(raw)
+    return str(int(n)) if n.is_integer() else str(n)
 
 def get_expected_filename(ep_name, arc_name):
     prefix = PREFIX_MAP.get(arc_name, arc_name[:2].upper())
@@ -307,30 +313,28 @@ def get_expected_filename(ep_name, arc_name):
             ep_num = LAST_EPISODE_CACHE[arc_name] + 1
             
         LAST_EPISODE_CACHE[arc_name] = ep_num
-        return f"{prefix}_{ep_num}.json"
+        return f"{prefix}_{episode_token(ep_num)}.json"
 
     # --- Standard extraction for regular episodes ---
-    match = re.search(r'(\d+)\s*$', ep_name_str)
-    if not match: 
-        match = re.search(r'\b(\d{1,3})\b', ep_name_str)
-        
+    match = re.search(r'(\d+(?:\.\d+)?)\s*$', ep_name_str)
+    if not match:
+        match = re.search(r'\b(\d{1,3}(?:\.\d+)?)\b', ep_name_str)
+
     if match:
-        ep_num = int(match.group(1))
+        ep_num = episode_token(match.group(1))
     else:
-        # Fallback: Last known episode + 1
-        ep_num = LAST_EPISODE_CACHE[arc_name] + 1
-    
-    # Save this episode number as the new "last seen" for this arc
-    LAST_EPISODE_CACHE[arc_name] = ep_num
-    
+        ep_num = episode_token(int(LAST_EPISODE_CACHE[arc_name]) + 1)
+
+    LAST_EPISODE_CACHE[arc_name] = float(ep_num)
+
     return f"{prefix}_{ep_num}.json"
 
 def get_alternate_base_filename(ep_name, arc_name):
     # 'Skypiea 25 (G8)' -> SK_25.json (append as an extra stream, no new episode)
     prefix = PREFIX_MAP.get(arc_name, arc_name[:2].upper())
     match = re.search(r'\b(\d{1,3})\b', str(ep_name))
-    base = int(match.group(1)) if match else LAST_EPISODE_CACHE.get(arc_name, 1)
-    return f"{prefix}_{base}.json"
+    base = match.group(1) if match else LAST_EPISODE_CACHE.get(arc_name, 1)
+    return f"{prefix}_{episode_token(base)}.json"
 
 def save_tracker(tracker_data):
     with open(TRACKER_FILE, 'w', encoding='utf-8') as f:

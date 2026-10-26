@@ -59,17 +59,23 @@ def resolve_prefix(arc_name, arc_map):
     return arc_map.get(clean_string(base))
 
 
+def episode_token(raw):
+    """'01' -> '1', '01.5' -> '1.5'. The id keeps the half: LO_1.5, never LO_5."""
+    n = float(raw)
+    return str(int(n)) if n.is_integer() else str(n)
+
+
 def parse_episode_label(label):
-    """'Egghead 01' -> (1, False); 'Egghead 21 Forward' -> (21, True). None if not an episode."""
+    """'Egghead 01' -> ('1', False); 'Loguetown 01.5' -> ('1.5', False)."""
     s = str(label).strip()
     if not s or not re.search(r"[A-Za-z]", s):   # require letters -> skips stray total rows
         return None
     low = s.lower()
     is_forward = "forward" in low
-    nums = re.findall(r"\d+", re.sub(r"forward", "", low))
+    nums = re.findall(r"\d+(?:\.\d+)?", re.sub(r"forward", "", low))
     if not nums:
         return None
-    return int(nums[-1]), is_forward
+    return episode_token(nums[-1]), is_forward
 
 
 # Fixed time-of-day appended to every episode's air date.
@@ -295,14 +301,14 @@ def parse_arc_sheet(rows, prefix, season):
         parsed = parse_episode_label(row[ep_col])
         if not parsed:
             continue
-        ep_num, is_forward = parsed
-        vid_id = f"{prefix}_{ep_num}"
+        token, is_forward = parsed
+        vid_id = f"{prefix}_{token}"
         if vid_id in seen:
             continue
         seen.add(vid_id)
         video = {
             "season": season,
-            "episode": ep_num,
+            "episode": token,
             "id": vid_id,
             "title": "Unreleased" if is_forward else str(row[ep_col]).strip(),
         }
@@ -315,10 +321,11 @@ def parse_arc_sheet(rows, prefix, season):
         if is_forward:
             video["_forward"] = True   # temporary flag, removed during the first pass
         videos.append(video)
-    # Stremio hides episode 0, so shift a "00"-based arc up by one.    
-    if any(v["episode"] == 0 for v in videos):
-        for v in videos:
-            v["episode"] += 1
+    # Slots are positions, not labels: 1.5 is a valid id but not a valid slot,
+    # and this also lifts a "00"-based arc off episode 0, which Stremio hides.
+    videos.sort(key=lambda v: float(v["episode"]))
+    for slot, video in enumerate(videos, 1):
+        video["episode"] = slot
 
     return videos
 
