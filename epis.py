@@ -424,15 +424,15 @@ def get_titles_from_properties(config_arc_map, max_retries=3):
             continue
 
         # e.g., "specials_04": "One Piece Fan Letter"
-        original_key = key.split(".")[0]
+        original_key = key.rsplit(".", 1)[0]
         key_to_title[original_key] = title 
 
         raw_prefix, raw_ep = original_key.split("_")
-        ep_num_int = int(raw_ep)
+        ep_num = episode_token(raw_ep)
 
         clean_prefix = raw_prefix.lower().replace(" ", "")
         mapped_prefix = config_arc_map.get(clean_prefix, raw_prefix.upper())
-        video_id = f"{mapped_prefix}_{ep_num_int}"
+        video_id = f"{mapped_prefix}_{ep_num}"
 
         id_to_title[video_id] = title
 
@@ -732,7 +732,7 @@ def main():
     for prop_key in all_property_keys:
         if prop_key.startswith("specials_") and prop_key not in processed_original_keys:
             raw_prefix, raw_ep = prop_key.split("_")
-            fallback_id = f"{raw_prefix.upper()}_{int(raw_ep)}"
+            fallback_id = f"{raw_prefix.upper()}_{episode_token(raw_ep)}"
             spec_title = key_to_title[prop_key]
             
             # Fetch description strictly by exact title matching
@@ -746,7 +746,7 @@ def main():
                 "description": desc,
                 "overview": desc,
                 "season": 0, # Send unconfigured straight to Season 0
-                "episode": int(raw_ep),
+                "episode": int(float(raw_ep)),
                 "thumbnail": thumbnails_map.get(fallback_id, "https://image.tmdb.org/t/p/w500/iN5LKyvyWUWwqbjaQfKFXoo8mch.jpg"),
             }
             normal_videos.append(unconfigured_special)
