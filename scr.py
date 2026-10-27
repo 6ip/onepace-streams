@@ -866,6 +866,7 @@ def main():
     print(f" 📥 New files downloaded: {new_files_count}")
     print("=========================================\n")
 
+    report_incomplete_episodes(files_to_process, output_dir)
     report_feed_ahead_of_sheet(files_to_process)
     report_batches_ahead_of_sheet(files_to_process)
 
@@ -878,6 +879,35 @@ def sheet_arc_keys():
         key = key.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
         out.setdefault(key, sheet_name)
     return out
+
+
+def report_incomplete_episodes(files_to_process, output_dir):
+    """Episodes saved with fewer streams than the spreadsheet asked for. Reads the
+    files, not the tracker, so a stale tracker entry cannot hide one."""
+    short = []
+    for filename, info in files_to_process.items():
+        wanted = len(info.get("urls", []))
+        if not wanted:
+            continue
+        try:
+            with open(os.path.join(output_dir, filename), encoding='utf-8') as f:
+                have = len(json.load(f).get("streams", []))
+        except FileNotFoundError:
+            have = 0
+        except (json.JSONDecodeError, OSError):
+            continue
+        if have < wanted:
+            short.append((filename, wanted, have))
+
+    if not short:
+        return
+
+    print("  [!] Short a stream - the spreadsheet asks for more than the file holds:")
+    for filename, wanted, have in sorted(short):
+        print(f"      {filename}  asks {wanted}, has {have}")
+    print("      A cut that ships as its own torrent is the usual cause;"
+          " check the CRC if a rerun does not fix it.")
+    print()
 
 
 def report_batches_ahead_of_sheet(files_to_process):
