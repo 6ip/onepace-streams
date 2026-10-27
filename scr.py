@@ -667,6 +667,7 @@ def main():
         print(f"  [*] Processing {filename} (Found {len(nyaa_urls)} stream(s)!)")
         
         streams = []
+        resolved_urls = []
 
         # Extract lengths from the spreadsheet (Standard is usually index 0, Extended is index 1)
         spreadsheet_lengths = list(episode_lengths.get(filename, {}).values())
@@ -712,9 +713,11 @@ def main():
             if not is_alt:
                 if is_extended_col and has_extended:
                     print("  [⚡] Skipping outdated Spreadsheet Extended Cut (already got fresh one).")
+                    resolved_urls.append(url)
                     continue
                 if not is_extended_col and has_standard:
                     print("  [⚡] Skipping outdated Spreadsheet Standard Cut (already got fresh one).")
+                    resolved_urls.append(url)
                     continue
 
             info_hash, torrent_filename, file_idx, video_size = None, None, None, None
@@ -796,6 +799,7 @@ def main():
                     "videoSize": video_size,
                     "fileIdx": file_idx
                 })
+                resolved_urls.append(url)
                 
                 # Lock the slot (alternates don't occupy standard/extended)
                 if not is_alt:
@@ -837,7 +841,7 @@ def main():
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             
-            tracker_data[filename] = nyaa_urls
+            tracker_data[filename] = resolved_urls
             save_tracker(tracker_data)
             
             print(f"  [+] Saved {filename}")
