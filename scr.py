@@ -97,30 +97,27 @@ def resolve_nyaa_url(query, max_retries=2):
             if attempt < max_retries: time.sleep(random.uniform(1, 3))
     return None
 
-def resolve_nyaa_batch(arc_name, max_retries=3):
-    search_name = ALIASES.get(arc_name, arc_name)
-    clean_name = search_name.replace("The Adventures of ", "").replace("The Trials of ", "").strip()
-    
+def nyaa_batch_search(clean_name, max_retries=3):
+    """Batch urls from nyaa's open search, best score first."""
     query = f"One Pace {clean_name}".replace("'", "").replace(' ', '+')
     html_url = f"https://nyaa.si/?f=0&c=0_0&q={query}"
-    
+
     for attempt in range(1, max_retries + 1):
         try:
             response = requests.get(html_url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
             response.raise_for_status()
             matches = re.findall(r'<a href="(/view/\d+)" title="([^"]+)">', response.text)
-            
-            best_link, best_score = None, -1
-            
+
+            scored = []
             for link, title in matches:
                 if "One Pace" not in title or clean_name not in title or link.endswith("#comments"):
                     continue
-                
+
                 score = 0
                 if "1080" in title: score += 30
                 elif "720" in title: score += 20
                 elif "480" in title: score += 10
-                
+
                 is_batch = False
                 if "Batch" in title or "batch" in title.lower():
                     is_batch = True
@@ -128,20 +125,35 @@ def resolve_nyaa_batch(arc_name, max_retries=3):
                     is_batch = True
                 elif not re.search(rf'{clean_name}\s+\d{{1,3}}\b', title, re.IGNORECASE):
                     is_batch = True
-                    
-                if is_batch: score += 100 
-                    
-                if score > best_score:
-                    best_score = score
-                    best_link = f"https://nyaa.si{link}"
 
-            if best_link and best_score >= 100:
-                print(f"  [✅] Found Best Batch URL (Score {best_score}): {best_link}")
-                return best_link
-            return None
+                if is_batch: score += 100
+
+                if score >= 100:
+                    scored.append((score, f"https://nyaa.si{link}"))
+
+            scored.sort(key=lambda s: s[0], reverse=True)
+            return [url for _score, url in scored]
         except requests.exceptions.RequestException:
             if attempt < max_retries: time.sleep(random.uniform(2, 4))
-    return None
+    return []
+
+
+def batch_candidates(arc_name):
+    """Every batch that could hold an arc's files, best first. The feed leads: it
+    is already fetched, uploader-scoped, and lists an extended cut as its own
+    torrent, which the open search scores the same as the standard one."""
+    search_name = ALIASES.get(arc_name, arc_name)
+    clean_name = search_name.replace("The Adventures of ", "").replace("The Trials of ", "").strip()
+
+    from_feed = sorted((b for b in load_release_batches() if b[0] == clean_name.lower()),
+                       key=lambda b: b[4], reverse=True)
+
+    out = []
+    for url in [b[2] for b in from_feed] + nyaa_batch_search(clean_name):
+        if url not in out:
+            out.append(url)
+    return out
+
 
 def resolve_single_episode(arc_name, ep_num, max_retries=2):
     search_name = ALIASES.get(arc_name, arc_name)
@@ -737,15 +749,22 @@ def main():
                 
                 # TIER 1: ALWAYS TRY THE OFFICIAL ARC BATCH FIRST
                 if not info_hash:
-                    batch_url = resolved_batches_cache.get(arc_name)
-                    if not batch_url:
-                        batch_url = resolve_nyaa_batch(arc_name)
-                        if batch_url:
-                            resolved_batches_cache[arc_name] = batch_url
+                    candidates = resolved_batches_cache.get(arc_name)
+                    if candidates is None:
+                        candidates = batch_candidates(arc_name)
+                        resolved_batches_cache[arc_name] = candidates
+                        if candidates:
+                            print(f"  [✅] {len(candidates)} batch candidate(s) for {arc_name}")
                             time.sleep(random.uniform(1, 2))
-                    
-                    if batch_url:
+
+                    # A real CRC matches in one batch or none; without one, only the first.
+                    strict = bool(expected_crc) and expected_crc not in ["Unknown", "00000000"]
+                    for batch_url in candidates:
                         info_hash, torrent_filename, file_idx, video_size = get_torrent_data(batch_url, ep_num_raw, expected_crc)
+                        if info_hash and batch_url != candidates[0]:
+                            print(f"  [📦] Found in {batch_url}")
+                        if info_hash or not strict:
+                            break
                 
                 # TIER 2: TRY PRECISE CRC SEARCH (If missing from batch)
                 if not info_hash and expected_crc and expected_crc not in ["Unknown", "00000000"]:
