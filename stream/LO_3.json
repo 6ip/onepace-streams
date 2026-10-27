@@ -1,13 +1,12 @@
 {
   "streams": [
     {
-      "infoHash": "fc5f605b1fc12f8a14b6176690151ea53bcb7e19",
-      "filename": "[One Pace][98-100] Loguetown 03 [480p][23E3E489].mkv",
-      "releaseName": "One.Pace.S07E03.Loguetown.480p.SD.H265.10bit.AAC.2.0.JPN.ENG-OnePace.mkv",
-      "length": "36:13",
-      "duration": 2173,
-      "videoSize": 347078251,
-      "fileIdx": 2
+      "infoHash": "56394b38bb28af24b63b4b173a15f2a0ba38542f",
+      "filename": "[One Pace][100] Loguetown 03 [1080p][BE8D8724].mkv",
+      "length": "19:24",
+      "duration": 1164,
+      "videoSize": 971667749,
+      "fileIdx": 0
     }
   ]
 }

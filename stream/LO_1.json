@@ -1,13 +1,12 @@
 {
   "streams": [
     {
-      "infoHash": "fc5f605b1fc12f8a14b6176690151ea53bcb7e19",
-      "filename": "[One Pace][96-97] Loguetown 01 [480p][4200CE0D].mkv",
-      "releaseName": "One.Pace.S07E01.Loguetown.480p.SD.H265.10bit.AAC.2.0.JPN.ENG-OnePace.mkv",
-      "length": "27:32",
-      "duration": 1652,
-      "videoSize": 177044001,
-      "fileIdx": 0
+      "infoHash": "56394b38bb28af24b63b4b173a15f2a0ba38542f",
+      "filename": "[One Pace][96-97] Loguetown 01 [1080p][ED297337].mkv",
+      "length": "28:48",
+      "duration": 1728,
+      "videoSize": 894579716,
+      "fileIdx": 1
     }
   ]
 }

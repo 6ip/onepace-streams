@@ -104,13 +104,14 @@
     "BATCH_SEARCH:The Adventures of Buggys Crew:1177A2B6"
   ],
   "LO_1.json": [
-    "BATCH_SEARCH:Loguetown:4200CE0D"
+    "BATCH_SEARCH:Loguetown:ED297337",
+    "BATCH_SEARCH:Loguetown:7191C79A"
   ],
   "LO_2.json": [
-    "BATCH_SEARCH:Loguetown:8E970FD4"
+    "BATCH_SEARCH:Loguetown:1EFBB55B"
   ],
   "LO_3.json": [
-    "BATCH_SEARCH:Loguetown:23E3E489"
+    "BATCH_SEARCH:Loguetown:BE8D8724"
   ],
   "RM_1.json": [
     "BATCH_SEARCH:Reverse Mountain:EBF6DE81"
@@ -1436,5 +1437,8 @@
   ],
   "PEN_6.json": [
     "BATCH_SEARCH:Post-Enies Lobby:CEF78887"
+  ],
+  "LO_1.5.json": [
+    "BATCH_SEARCH:Loguetown:A6C3657B"
   ]
 }
