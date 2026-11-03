@@ -498,14 +498,24 @@ def torrent_video_names(nyaa_url, max_retries=2):
     return [n for n in names if n.lower().endswith(('.mkv', '.mp4'))]
 
 
+def feed_arc_names(arc_name):
+    """Tab name and its alias. One Pace renamed Arabasta to Alabasta, so the feed
+    carries both and matching only the alias misses the new releases."""
+    names = []
+    for raw in (arc_name, ALIASES.get(arc_name, arc_name)):
+        key = raw.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
+        if key and key not in names:
+            names.append(key)
+    return names
+
+
 def resolve_from_website(arc_name, ep_num_raw, max_retries=2):
     """Fresh releases for one episode. Same contract as the old page scraper."""
     entries = load_release_feed(max_retries)
     if not entries:
         return []
 
-    search_name = ALIASES.get(arc_name, arc_name)
-    clean_name = search_name.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
+    clean_names = feed_arc_names(arc_name)
     try:
         wanted = int(ep_num_raw)
     except (TypeError, ValueError):
@@ -516,7 +526,8 @@ def resolve_from_website(arc_name, ep_num_raw, max_retries=2):
     for arc, ep_start, ep_end, view_url, is_extended, released in entries:
         # A bare substring lets "enies lobby" match "post-enies lobby"; anchoring
         # both ends, with the hyphen counted as part of the name, cannot.
-        if not re.search(r'(?:^|[^a-z0-9-])' + re.escape(clean_name) + r'$', arc):
+        if not any(re.search(r'(?:^|[^a-z0-9-])' + re.escape(c) + r'$', arc)
+                   for c in clean_names):
             continue
         if not (ep_start <= wanted <= ep_end):
             continue
@@ -874,10 +885,16 @@ def main():
 def sheet_arc_keys():
     """Cleaned arc name -> tab name, the way resolve_from_website cleans them."""
     out = {}
-    for sheet_name in PREFIX_MAP:
-        key = ALIASES.get(sheet_name, sheet_name)
-        key = key.replace("The Adventures of ", "").replace("The Trials of ", "").strip().lower()
-        out.setdefault(key, sheet_name)
+    # Aliases first, so "sabaody" keeps pointing at Sabaody Archipelago.
+    for index in (1, 0):
+        for sheet_name in PREFIX_MAP:
+            names = feed_arc_names(sheet_name)
+            key = names[min(index, len(names) - 1)]
+            held = out.get(key)
+            # Same arc spelled two ways: keep the tab spelling, it gets printed.
+            if held is None or (held.islower() and not sheet_name.islower()
+                                and PREFIX_MAP[held] == PREFIX_MAP[sheet_name]):
+                out[key] = sheet_name
     return out
 
 
@@ -968,6 +985,20 @@ def report_batches_ahead_of_sheet(files_to_process):
         print()
 
 
+def feed_release_served(path, view_url, ep):
+    """Whether we already serve the feed torrent. Unsure counts as served, so a
+    fetch failure stays quiet instead of reporting every episode."""
+    info_hash, _fn, _idx, _size = get_torrent_data(view_url, str(ep), expected_crc=None)
+    if not info_hash:
+        return True
+    try:
+        with open(path, encoding='utf-8') as f:
+            served = {s.get("infoHash") for s in json.load(f).get("streams", [])}
+    except (json.JSONDecodeError, OSError):
+        return True
+    return info_hash in served
+
+
 def report_feed_ahead_of_sheet(files_to_process):
     """Fresh releases the spreadsheet has not caught up on yet."""
     entries = load_release_feed()
@@ -977,20 +1008,29 @@ def report_feed_ahead_of_sheet(files_to_process):
     sheet_by_arc = sheet_arc_keys()
 
     cutoff = datetime.datetime.now().date() - datetime.timedelta(days=RELEASE_WINDOW_DAYS)
-    behind = set()
-    for arc, ep_start, ep_end, _url, _extended, released in entries:
+    behind, unknown_arcs = set(), {}
+    for arc, ep_start, ep_end, view_url, _extended, released in entries:
         if released < cutoff:
             continue
         sheet_name = sheet_by_arc.get(arc)
         if not sheet_name:
+            unknown_arcs.setdefault(arc, released)
             continue
         for ep in range(ep_start, ep_end + 1):
             fname = f"{PREFIX_MAP[sheet_name]}_{ep}.json"
-            if os.path.exists(os.path.join("stream", fname)):
+            path = os.path.join("stream", fname)
+            if os.path.exists(path):
+                if not feed_release_served(path, view_url, ep):
+                    behind.add((sheet_name, ep, released, "released again, we serve the old file"))
                 continue
             why = ("no row in the sheet" if fname not in files_to_process
                    else "sheet row has no link and no length")
             behind.add((sheet_name, ep, released, why))
+
+    for arc, released in sorted(unknown_arcs.items()):
+        print(f"  [!] Feed arc '{arc}' has no ARC_MAP entry  --  released {released}")
+    if unknown_arcs:
+        print()
 
     if not behind:
         return
@@ -998,7 +1038,8 @@ def report_feed_ahead_of_sheet(files_to_process):
     print("  [!] In the feed but not picked up:")
     for sheet_name, ep, released, why in sorted(behind):
         print(f"      {sheet_name} {ep}  released {released}  --  {why}")
-    print("      Rerun once the spreadsheet is updated.")
+    if any(why != "released again, we serve the old file" for *_, why in behind):
+        print("      Rerun once the spreadsheet is updated.")
     print()
 
 
