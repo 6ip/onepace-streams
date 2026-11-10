@@ -168,22 +168,11 @@
                 "season": 18,
                 "episode": 1,
                 "id": "pp_COMPLETE_PEN1",
-                "title": "WATCH One Pace [01 to 03]!",
-                "description": "Episodes 01 to 03 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 3.",
-                "overview": "Episodes 01 to 03 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 3.",
+                "title": "WATCH One Pace [01 to 04]!",
+                "description": "Episodes 01 to 04 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 4.",
+                "overview": "Episodes 01 to 04 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 4.",
                 "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
                 "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s18.jpg"
-            },
-            {
-                "season": 18,
-                "episode": 3,
-                "id": "MUHN_PEN_3",
-                "title": "Forgive Yourself! Franky Departs!",
-                "description": "The Straw Hats have barely had time to marvel at their new bounties when a new surprise awaits them: the unveiling of their magnificent new ship. The next step is bringing a shipwright into their ranks, and there is only one man for the job.",
-                "overview": "The Straw Hats have barely had time to marvel at their new bounties when a new surprise awaits them: the unveiling of their magnificent new ship. The next step is bringing a shipwright into their ranks, and there is only one man for the job.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/txL7xyaSHICEuVz8Q5hTG3EK4Mp.jpg",
-                "runtime": "30",
-                "rating": "7.3"
             },
             {
                 "season": 18,
