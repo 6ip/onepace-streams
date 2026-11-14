@@ -565,6 +565,15 @@ def main():
         print("ratings.json not found. Proceeding without ratings.")
         ratings_map = {}
 
+    print("4.7. Loading season_overviews.json configuration...")
+    try:
+        SEASON_EXTRA_PATH = os.path.join(BASE_DIR, 'meta', 'season_overviews.json')
+        with open(SEASON_EXTRA_PATH, 'r', encoding='utf-8') as f:
+            season_extra = json.load(f)
+    except FileNotFoundError:
+        print("season_overviews.json not found. Proceeding without season names or overviews.")
+        season_extra = {}
+
     print("5. Applying transformations, titles, and injecting specials...")
     meta = data.get("meta", {})
     
@@ -636,10 +645,31 @@ def main():
 
     # Apps that read `name` (AIOStreams, Jellyfin clients) show the arc instead of "Season N".
     season_names = {0: "Specials", **data.pop("season_names", {})}
+    season_overviews = {}
+    renamed = []
+    for key, entry in season_extra.items():
+        if not key.isdigit() or not isinstance(entry, dict):
+            print(f"   [!] season_overviews.json: ignoring key '{key}'")
+            continue
+        num = int(key)
+        # The file's arc wins; the spreadsheet still names anything it leaves out.
+        arc = (entry.get("arc") or "").strip()
+        text = (entry.get("overview") or "").strip()
+        if arc:
+            if season_names.get(num) and season_names[num] != arc:
+                renamed.append(f"S{num} '{season_names[num]}' -> '{arc}'")
+            season_names[num] = arc
+        if text:
+            season_overviews[num] = text
+    if renamed:
+        print("   Renamed by season_overviews.json: " + ", ".join(renamed))
+    print(f"   Season overviews: {len(season_overviews)}/{TOTAL_SEASONS + 1}")
+
     meta["seasons"] = [
         {
             "season": i,
             **({"name": season_names[i]} if season_names.get(i) else {}),
+            **({"overview": season_overviews[i]} if season_overviews.get(i) else {}),
             "poster": f"https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s{str(i).zfill(2)}.jpg"
         } for i in range(0, TOTAL_SEASONS + 1)
     ]
