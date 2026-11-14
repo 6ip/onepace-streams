@@ -3327,34 +3327,50 @@
             },
             {
                 "season": 17,
+                "name": "Enies Lobby",
+                "overview": "In order to free Nico Robin from the clutches of the World Government, the Straw Hats and their allies must invade the judicial island, Enies Lobby, and take on the government's premiere clandestine unit: CP9.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s17.jpg"
             },
             {
                 "season": 18,
+                "name": "Post-Enies Lobby",
+                "overview": "The Straw Hats return to Water Seven after the ordeal at Enies Lobby. While there, they are met by a familial vice admiral, and they await news of their new ship.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s18.jpg"
             },
             {
                 "season": 19,
+                "name": "Thriller Bark",
+                "overview": "The Straw Hats' next destination is Fishman Island, but first they must traverse the dreaded Florian Triangle which is known for many eerie and mysterious things such as disappearing crews, conversational skeletons, and a floating island full of zombies and other horrors.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s19.jpg"
             },
             {
                 "season": 20,
+                "name": "Sabaody Archipelago",
+                "overview": "The second half of the Grand Line lays just ahead, so the Straw Hats stop at Sabaody Archipelago to plan the way forward. But being so close to the Holy Land and Navy Headquarters, Luffy's crew comes face-to-face with the darkest forces of the World Government.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s20.jpg"
             },
             {
                 "season": 21,
+                "name": "Amazon Lily",
+                "overview": "Luffy is separated from his crew, and he finds himself on an unfamiliar island in the middle of the Calm Belt... an island inhabited only by women where men are prohibited from entering.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s21.jpg"
             },
             {
                 "season": 22,
+                "name": "Impel Down",
+                "overview": "Luffy launches a daring rescue mission to break his big brother Ace from the government prison, Impel Down. It's a race to the prison's lowest levels — a literal journey through hell itself.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s22.jpg"
             },
             {
                 "season": 23,
+                "name": "Marineford",
+                "overview": "Pirate Whitebeard and his allies on one side; the Navy and its Seven Warlords on the other. At the center of it all: Portgas D. Ace and his unspeakable past and heritage. Luffy races to Ace's execution scaffold as a battle between the world's most powerful people unfolds.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s23.jpg"
             },
             {
                 "season": 24,
+                "name": "Post-War",
+                "overview": "The war has taken its toll on the world, and Luffy reminisces about younger days when he first met Ace and became his brother. To become strong enough to withstand the New World, Luffy must make a critical decision for himself and his crew.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s24.jpg"
             },
             {
@@ -3363,22 +3379,32 @@
             },
             {
                 "season": 26,
+                "name": "Fishman Island",
+                "overview": "The path the to the New World takes the Straw Hats thousands of leagues under the sea to the underwater Fishman Island. However, the island's dark past is reaching a breaking point, and Luffy and his crew are caught in the middle of the conflict.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s26.jpg"
             },
             {
                 "season": 27,
+                "name": "Punk Hazard",
+                "overview": "The first island of the New World is a strange place covered in flames on one half, and freezing temperatures on the other. What seems at first to be an unlivable place later reveals a laboratory, a maniac scientist, and a certain Warlord of the Sea.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s27.jpg"
             },
             {
                 "season": 28,
+                "name": "Dressrosa",
+                "overview": "Luffy's alliance with Law brings him next to Dressrosa to take down Doflamingo's booming business. But the crazed warlord and self-proclaimed ruler of Dressrosa has control over everyone and everything.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s28.jpg"
             },
             {
                 "season": 29,
+                "name": "Zou",
+                "overview": "Zou cannot be reached by conventional means, nor is it easy to enter once one finds it. Within its secretive walls lie the Mink Tribe, and the Straw Hats soon discover that the people of Zou hold a piece of the puzzle that unlocks the mysteries of the world.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s29.jpg"
             },
             {
                 "season": 30,
+                "name": "Whole Cake Island",
+                "overview": "Luffy will not sail the seas without his cook, so he stubbornly goes after Sanji to Whole Cake Island. However, knocking on an emperor's door is easier said than done.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s30.jpg"
             },
             {
@@ -3387,6 +3413,8 @@
             },
             {
                 "season": 32,
+                "name": "Wano",
+                "overview": "The Straw Hats finally regroup in Wano to carry out theirs and their allies' ultimate goal: to see to the Emperor Kaido's downfall and restore the Kozuki family to its rightful place of power.",
                 "poster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s32.jpg"
             },
             {
