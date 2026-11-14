@@ -254,7 +254,7 @@ def build_season_map(rows, arc_map):
             header_idx, no_col, arc_col = i, cells.index("No."), cells.index("Arcs")
             break
     if header_idx is None:
-        return {}
+        raise RuntimeError("Arc Overview header not found")
 
     prefix_to_season = {}
     season_names = {}
