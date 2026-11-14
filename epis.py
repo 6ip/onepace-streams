@@ -246,7 +246,7 @@ def collect_release_dates(rows):
 
 
 def build_season_map(rows, arc_map):
-    """From the Arc Overview rows, build {prefix: season}. Decimal arcs (6.5) fold to int (6)."""
+    """From the Arc Overview rows, build {prefix: season} and {season: arc name}. Decimal arcs (6.5) fold to int (6)."""
     header_idx = no_col = arc_col = None
     for i, row in enumerate(rows):
         cells = [str(c).strip() if c is not None else "" for c in row]
@@ -257,6 +257,7 @@ def build_season_map(rows, arc_map):
         return {}
 
     prefix_to_season = {}
+    season_names = {}
     for row in rows[header_idx + 1:]:
         no_raw  = row[no_col]  if no_col  < len(row) else None
         arc_raw = row[arc_col] if arc_col < len(row) else None
@@ -268,10 +269,12 @@ def build_season_map(rows, arc_map):
             season = int(float(str(no_raw).strip()))
         except (ValueError, TypeError):
             continue
+        # A decimal arc folds into the season before it, which keeps that arc's name.
+        season_names.setdefault(season, re.sub(r"\([^)]*\)", "", str(arc_raw)).strip())
         prefix = resolve_prefix(arc_raw, arc_map)
         if prefix:
             prefix_to_season[prefix] = season
-    return prefix_to_season
+    return prefix_to_season, season_names
 
 
 def parse_arc_sheet(rows, prefix, season):
@@ -344,7 +347,7 @@ def build_base_data_from_spreadsheet(arc_map):
         raise RuntimeError(f"'{OVERVIEW_SHEET}' tab not found.")
 
     overview_rows    = list(wb[OVERVIEW_SHEET].iter_rows(values_only=True))
-    prefix_to_season = build_season_map(overview_rows, arc_map)
+    prefix_to_season, season_names = build_season_map(overview_rows, arc_map)
 
     all_videos = []
     release_by_label = {}
@@ -382,7 +385,8 @@ def build_base_data_from_spreadsheet(arc_map):
             "description":"",
             "status": "Continuing",
             "videos": all_videos,
-        }
+        },
+        "season_names": season_names,
     }, release_by_label
     
 def clean_string(s):
@@ -630,9 +634,12 @@ def main():
         {"name": "Katsuhisa Hōki", "category": "Cast", "url": "stremio:///search?search=Katsuhisa%20H%C5%8Dki"}
     ]
 
+    # Apps that read `name` (AIOStreams, Jellyfin clients) show the arc instead of "Season N".
+    season_names = {0: "Specials", **data.pop("season_names", {})}
     meta["seasons"] = [
         {
             "season": i,
+            **({"name": season_names[i]} if season_names.get(i) else {}),
             "poster": f"https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s{str(i).zfill(2)}.jpg"
         } for i in range(0, TOTAL_SEASONS + 1)
     ]
