@@ -584,6 +584,8 @@ def main():
         "background": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/background_pace.jpg",
         "logo": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/logo.png",
         "description": "Experience One Piece without the filler. This manga-accurate cut removes padded scenes, saving you hundreds of hours while staying true to Oda's original vision.",
+        "tagline": "One Piece at the manga's pace, without the filler.",
+        "studios": ["One Pace", "Toei Animation"],
         "releaseInfo": "1999-",
         "year": "1999-",
         "imdbRating": "9.0",
