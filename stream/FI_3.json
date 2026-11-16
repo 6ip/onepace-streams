@@ -1,13 +1,12 @@
 {
   "streams": [
     {
-      "infoHash": "fd204b5dc346f5458f7f04cf1ad98679aaf9586e",
-      "filename": "[One Pace][607-608] Fishman Island 03 [720p][5636E014].mkv",
-      "releaseName": "One.Pace.S26E03.Fishman.Island.720p.HD.H264.8bit.AAC.2.0.JPN-OnePace.mkv",
-      "length": "24:05",
-      "duration": 1445,
-      "videoSize": 369485860,
-      "fileIdx": 2
+      "infoHash": "b27dc0db934ab01f6bfa6b42a0f82aa82889cb85",
+      "filename": "[One Pace][607-608] Fishman Island 03 [1080p][C3961CBC].mkv",
+      "length": "27:36",
+      "duration": 1656,
+      "videoSize": 862800322,
+      "fileIdx": null
     }
   ]
 }
