@@ -15,7 +15,7 @@
         "videos": [
             {
                 "season": 17,
-                "episode": 10,
+                "episode": 1,
                 "id": "pp_COMPLETE_EN1",
                 "title": "WATCH One Pace [01 to 10]!",
                 "description": "Episodes 01 to 10 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 11.",
@@ -918,7 +918,7 @@
             },
             {
                 "season": 24,
-                "episode": 6,
+                "episode": 1,
                 "id": "pp_COMPLETE_PW1",
                 "title": "WATCH One Pace [01 to 06]!",
                 "description": "Episodes 01 to 06 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 07.",
@@ -950,24 +950,13 @@
             },
             {
                 "season": 26,
-                "episode": 2,
+                "episode": 1,
                 "id": "pp_COMPLETE_FI1",
-                "title": "WATCH One Pace [01 to 02]!",
-                "description": "Episodes 01 to 02 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 03.",
-                "overview": "Episodes 01 to 02 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 03.",
+                "title": "WATCH One Pace [01 to 03]!",
+                "description": "Episodes 01 to 03 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 04.",
+                "overview": "Episodes 01 to 03 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 04.",
                 "thumbnail": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/thumbnails/COMPLETE.jpg",
                 "seasonPoster": "https://cdn.jsdelivr.net/gh/6ip/onepace-assets-prm@main/public/poster-s/poster-s26.jpg"
-            },
-            {
-                "season": 26,
-                "episode": 3,
-                "id": "MUHN_FI_3",
-                "title": "Landing on Fishman Island! The Mermaid Cove and Gyoverly Hills!",
-                "description": "After a near miss with a creepy undersea ship and Fishman Island in sight, Luffy’s crew is halted by a group of fishmen riding atop sea kings. But time is of the essence, so the Straw Hats attempt a desperate maneuver.",
-                "overview": "After a near miss with a creepy undersea ship and Fishman Island in sight, Luffy’s crew is halted by a group of fishmen riding atop sea kings. But time is of the essence, so the Straw Hats attempt a desperate maneuver.",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/7wiBVphIzWcIaPOBHHF5uQzliHR.jpg",
-                "runtime": "25",
-                "rating": "7.6"
             },
             {
                 "season": 26,
@@ -2515,7 +2504,7 @@
             },
             {
                 "season": 32,
-                "episode": 4,
+                "episode": 1,
                 "id": "pp_COMPLETE_WA1",
                 "title": "WATCH One Pace [01 to 04]!",
                 "description": "Episodes 01 to 04 of this arc are already in One Pace. Watch them there first, then come back here and continue with episode 05.",
@@ -2811,7 +2800,7 @@
             },
             {
                 "season": 32,
-                "episode": 62,
+                "episode": 31,
                 "id": "pp_COMPLETE_WA2",
                 "title": "WATCH One Pace [31 to 62]!",
                 "description": "Episodes 31 to 62 are in One Pace. Watch them there, then come back here and continue with episode 71.",
